@@ -126,6 +126,15 @@ We have already discussed the significance of the separate letters.
 
 وَنُرِ‌يدُ أَن نَّمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْ‌ضِ وَنَجْعَلَهُمْ أَئِمَّةً ؓ (And We intended to favour those who were held as weak in the land and to make them leaders - 28:5). In this verse it is emphasized that the plan of the Pharaoh was not equal to that of the divine fate, rather it turned out to be completely ineffective and he and his entire courtiers were befooled. On the basis of the dream and it's interpretation about an Isra'ili boy from whom the life of the Pharaoh was at risk, and because of which hundreds of newly born Isra'ili male issues were put to death on their birth, it so turned out that Allah Ta` ala made that very boy to grow up in his own house. Not only that, but for the solace of his mother it was arranged to send him back to her for nursing in a most astonishing manner. On top of that the Pharaoh was made to pay a service charge for nursing, which according to some narrations was one Dinar a day. Since this service charge was taken from an infidel with his consent, hence there is no confusion about its admissibility. The cruelty he had perpetrated to quell the risk was of no avail to him, because that very danger was ultimately made to rear in his own home, and ultimately erupted like lava. This way the dream came true, and he saw that happening with his own eyes. The verse وَنُرِ‌يَ فِرْ‌عَوْنَ وَهَامَانَ وَجُنُودَهُمَا مِنْهُم مَّا كَانُوا يَحْذَرُ‌ونَ and to make the Pharaoh and Haman and their armies see [ that ] what they were fearing from (had actually happened - 28:6) describes this only.
 
+## AI Translation
+
+and to establish them in the land; and through them show Pharaoh, Hamân, and their soldiers the fulfilment of what they feared.
+
+## AI Tafsir
+
+**What this ayah teaches:** And We wished to do a favor to those who were weak in the land, and to make them rulers and to make them the inheritors,)(6. And to establish them in the land, and We let Fir'awn and Haman and their armies receive from them that which they feared.).
+
+**Classical tafsir:** Ibn Kathir notes: And We wished to do a favor to those who were weak in the land, and to make them rulers and to make them the inheritors,)(6.
 ## Personal Reflections
 
 

@@ -138,6 +138,17 @@ Abdur-Rahman bin Zayd bin Aslam said that here Al-Muqwi means the hungry. Layth 
 
 فَسَبِّحْ بِاسْمِ رَ‌بِّكَ الْعَظِيمِ (So, proclaim the purity of the name of your Lord, the Magnificent...56:74) The logical and rational conclusion of the above considerations should be for man to believe in the All-Encompassing Divine Power and in His Oneness, and declare the Purity of the Great Lord; for that is the way to express His gratitude.
 
+## AI Translation
+
+So glorify the Name of your Rabb, the Magnificent.
+
+## AI Tafsir
+
+**What this ayah teaches:** They will be feeling grief for what they spent or for the sins that they have committed in the past (which cost the destruction of their plants).
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah commented, "You would say, 'We were punished,' sometimes, and, 'We were deprived,' some other times." 'Ikrimah said that 'You will be Tafakkahun' means 'You will blame each other (and yourselves),' or, feel sorrow, according to Al-Hasan, Qatadah and As-Suddi.
+
+**From the Sunnah:** This narration from Qatadah which is Mursal, was recorded by Imam Ahmad in his Musnad from Abu Hurayrah, from the Prophet ﷺ; (Musnad Ahmad)
 ## Personal Reflections
 
 

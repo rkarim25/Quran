@@ -441,6 +441,17 @@ The third talaq طلاق (pronouncement of divorce) still remains unmentioned wh
 
 However, one exception was made in which forgiveness or return of mahr مھر (dower) was made permissible. Where the woman feels that she cannot do justice to the rights of her husband because of difference in temperaments and the man too, feels the same way, then this becomes a situation in which it is also permissible that divorce be given or taken in lieu of the forgiveness or return of mahr مھر (dower).
 
+## AI Translation
+
+Divorce may be pronounced twice; then either keep the wife honourably or release her with grace. It is not lawful to take back anything of what you gave them unless both fear they cannot keep within Allah's limits. If you fear that, there is no blame if the wife compensates to obtain release. These are Allah's limits — do not transgress them. Whoever transgresses Allah's limits wrongs themselves.
+
+## AI Tafsir
+
+**Context:** Ibn Jarir said that the Ayah (2:229) was revealed about Thabit bin Qays bin Shammas and his wife Habibah bint 'Abdullah bin Ubayy bin Salul.
+
+**What this ayah teaches:** The divorce is twice, after that either you retain her on reasonable terms or release her with kindness.
+
+**Classical tafsir:** Ibn Kathir notes: And whoever transgresses the limits ordained by Allah, then such are the wrongdoers.) This means that the laws that Allah has legislated are His set limits, so do not transgress them.
 ## Personal Reflections
 
 

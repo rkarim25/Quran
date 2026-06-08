@@ -100,6 +100,15 @@ Allah's saying;
 
 Hakim-ul-Ummah Thanawi (رح) has copied the argument of his Shaikh, Maulana Muhammad Ya` qub (رح) that sometimes people are addressed by descending down to their level of intellect. The common man makes distinction between the sincere and the hypocrites by testing him out. Therefore, according to their approach of understanding Allah Ta’ ala has said that, through various means, We would find out who is sincere and who is not, even though He knows everything from the very beginning.
 
+## AI Translation
+
+Those who believe and do good — We will absolve their sins and reward them for the best of what they used to do.
+
+## AI Tafsir
+
+**What this ayah teaches:** He will still give to those who believe and do righteous deeds the best of rewards, which is that He will expiate for them their bad deeds, and will reward them according to the best deeds that they did.
+
+**Classical tafsir:** Ibn Kathir notes: It means that through tests and hardships the good and the bad, and the sincere and non-sincere will be differentiated, because if the hypocrites are mixed up with the sincere believers and are not identified, it may create a number of problems.
 ## Personal Reflections
 
 

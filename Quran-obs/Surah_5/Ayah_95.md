@@ -404,6 +404,17 @@ And if the animal was edible (that is, Halal), then, whatever the estimate (of c
 
 11. Pointing to, guiding along or assisting in hunting is حَرَام haram (unlawful) as hunting itself.
 
+## AI Translation
+
+O you who have iman! Do not kill game while on pilgrimage. Whoever kills game intentionally must compensate by offering its equivalence—as judged by two just men among you—to be offered at the Sacred House, or by feeding the needy, or by fasting so that they may taste the consequences of their violations. Allah has forgiven what has been done. But those who persist will be punished by Allah. And Allah is Almighty, capable of punishment.
+
+## AI Tafsir
+
+**Context:** (and your lances,) refers to mature game. Muqatil bin Hayyan said that this Ayah was revealed during the 'Umrah of Al-Hudaybiyyah, when wild game and birds were coming to the Muslim camping area, which they had never see…
+
+**What this ayah teaches:** Kill not game while you are in a state of Ihram, and whosoever of you kills it intentionally, the penalty is an offering, brought to the Ka'bah, of livestock equivalent to the one he killed, as adjudged by two just men among you; or, for expiation, he should feed the poor, or its equivalent in fasting, that he may taste the heaviness (punishment) of his deed.
+
+**Classical tafsir:** Ibn Kathir notes: As for the cases when there is no equivalent for the killed animal, Ibn 'Abbas said that one should spend its amount in Makkah (i.e.
 ## Personal Reflections
 
 

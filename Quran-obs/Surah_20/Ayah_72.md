@@ -162,6 +162,17 @@ Ibn Abi Hatim recorded that Ibn 'Abbas said concerning Allah's statement,
 
 قَالُوا لَن نُّؤْثِرَ‌كَ عَلَىٰ مَا جَاءَنَا مِنَ الْبَيِّنَاتِ وَالَّذِي فَطَرَ‌نَا (They said, "We will never prefer you over the clear signs that have come to us, and over Him who created us." - 20:72). The magicians, however, stood firm and did not waver in the face of the Pharaoh's threats. They told him plainly that they would not give him, nor anything he said, preference over the clear proofs and the miracles which Allah had shown to them. Sayyidna ` Ikrimah ؓ says that when the magicians prostrated themselves before Allah, He gave them a glimpse of the eminent places and the gifts which were to be their reward in Paradise. They confirmed their belief in the one God Who created the earth and the skies and rejected Pharaoh's claim to divinity: While neglecting the threats of the Pharaoh they further said: "So you do what you want and punish us in whatever manner you choose. And, "You can punish us as long as we live but when we die we will be out of your reach. On the other hand we are in the power of Allah both in this and after death, and His punishment is of greater concern to us".
 
+## AI Translation
+
+They responded, “By the One Who created us! We will never prefer you over the clear proofs that have come to us. So do whatever you want! Your authority only covers the fleeting life of this dunya — this temporary worldly life.
+
+## AI Tafsir
+
+**What this ayah teaches:** They told him plainly that they would not give him, nor anything he said, preference over the clear proofs and the miracles which Allah had shown to them.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Ibn Abi Hatim recorded that Ibn 'Abbas said concerning Allah's statement,
 ## Personal Reflections
 
 

@@ -202,6 +202,19 @@ As the Qur'anic injunction "do not proceed ahead of Allah and His Messenger ﷺ 
 
 My master, the honorable sage of the Ummah has in his Bayan-ul-Qur'an explicated the passage in such a manner that all these perturbations are resolved. He says the meaning of the verse is thus: 0 Muslims, avoid raising your voices above the voice of the Holy Prophet ﷺ or speaking loudly to him, because in so doing there is the fear that your deeds should be thwarted. The danger in raising your voices above that of the Holy Prophet ﷺ lies in the fact that it is tantamount to discourtesy to the Holy Prophet ﷺ which is the same as vexing him. It is unthinkable that the noble Companions would intentionally attempt to hurt him. However, it is possible that certain deeds and actions, such as "advancing forward" and "raising voices", without the intention of hurting could upset or offend him. Therefore, all such conducts have been absolutely prohibited, forbidden and regarded as sin. The essential characteristics of some of the sins are such that the people who commit them lose the Divine aid of repentance and the ability or capacity to perform righteous works. As a result, he gets so engrossed in sins that they lead him to "disbelief' and thus the righteous deeds fail. Likewise hurting one's religious leader, teacher or spiritual guide is a sin that runs the risk of losing the Divine aid. Thus conducts such as "advancing before the Holy Prophet ﷺ "or" raising voices" are such sinful conducts that can cause the Divine help to be taken away. This situation eventually leads one to "disbelief' which destroys one's good works. Because the believer may not have intentionally performed the act of hurting, thus he would not even perceive how he got involved in the process of "disbelief', and "thwarting of good deeds". Some of the scholars have expressed the view that if someone has taken a righteous, holy person as his spiritual guide, then he shows disrespect 'to him, then such a person may suffer the same consequences: that is, sometimes it becomes the cause of Divine aid being removed and of incurring His wrath which eventually destroys the treasure of "faith". We seek refuge with Allah from it!
 
+## AI Translation
+
+Those who lower their voices before Allah's Messenger are the ones whose hearts Allah has tested for righteousness. They will have forgiveness and a great reward.
+
+## AI Tafsir
+
+**Context:** (O you who believe! Raise not your voices above the voice of the Prophet,) This contains another kind of favorable behavior.
+
+**What this ayah teaches:** Therefore, some of the scholars have expressed the view that it is disrespectful to say salam or speak very loudly in front of the Holy Prophet's mausoleum.
+
+**Classical tafsir:** Ibn Kathir notes: This verse teaches the believers that they should not raise their voices above the voice of the Holy Prophet ﷺ nor speak aloud to him as one speaks aloud to another in general discussions.
+
+**From the Sunnah:** Verily, those who lower their voices in the presence of Allah's Messenger, they are the ones whose hearts Allah has tested for Taqwa. Allah the Exalted is teaching the believers that they should not raise their voices above the voice of the Prophet ﷺ.
 ## Personal Reflections
 
 

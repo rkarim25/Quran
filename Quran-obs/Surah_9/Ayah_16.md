@@ -145,6 +145,15 @@ In summary, since Allah legislated Jihad for His servants, He explained that the
 
 History proves that the circumstances and events predicted in these verses were witnessed one by one as pointed out by the Holy Qur'an. Therefore, these verses contain many miracles.
 
+## AI Translation
+
+Do you think that you will be left without Allah proving who among you struggles and never takes trusted allies other than Allah, His Messenger, or those who have iman? And Allah is All-Aware of what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** Truly, there is none who can avert Allah's judgment and decision.
+
+**Classical tafsir:** Ibn Kathir notes: Do people think that they will be left alone because they say: "We believe," and will not be tested.
 ## Personal Reflections
 
 

@@ -135,6 +135,19 @@ The last sentence of the verse (195):' وَأَحْسِنُوا ۛ إِنَّ ا
 
 And when it (ihsan احسان) relates to social transactions and dealings, the Holy Prophet ﷺ has explained Ihsan by saying (as reported in the Musnad of Ahmad on the authority of the noble Companion Mu` adh ؓ ) that 'you should like for others what you like for yourselves, and in the same manner, you should dislike for others what you dislike for yourselves' (Mazhari).
 
+## AI Translation
+
+Spend in Allah's cause and do not throw yourselves into ruin with your own hands. Do good — Allah loves those who do good.
+
+## AI Tafsir
+
+**Context:** "It was revealed about spending." Ibn Abu Hatim reported him saying similarly. He then commented, "Similar is reported from Ibn 'Abbas, Mujahid, 'Ikrimah, Sa'id bin Jubayr, 'Ata', Ad-Dahhak, Al-Hasan, Qatadah, As-Suddi a…
+
+**What this ayah teaches:** And spend in the cause of Allah and do not throw yourselves into destruction, and do good. Spending for Jihad The verse 195 introduces the tenth injunction under the theme of 'righteousness' which began in Verse 177.
+
+**Classical tafsir:** Ibn Kathir notes: Spending for Jihad The verse 195 introduces the tenth injunction under the theme of 'righteousness' which began in Verse 177.
+
+**From the Sunnah:** So some people said, 'He is throwing himself to destruction.' Abu Ayyub said, 'We know this Ayah (2:195) better, for it was revealed about us, the Companions of Allah's Messenger ﷺ who participated in Jihad with him and aided and…
 ## Personal Reflections
 
 

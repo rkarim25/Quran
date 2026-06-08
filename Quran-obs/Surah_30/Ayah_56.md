@@ -160,6 +160,17 @@ Surah Ar-Rum
 
 Ends here.
 
+## AI Translation
+
+Those gifted with knowledge and iman will say: You stayed as Allah destined until the Day of Resurrection. Here is the Day you denied — you did not know.
+
+## AI Tafsir
+
+**Context:** It is revealed in this verse that the infidels will lie on the Day of Resurrection in their swearing that they did not stay in the world or barzakh for more than an hour.
+
+**What this ayah teaches:** It is probable that the stay referred to here is the stay in this world, because they spent the time in this world in comfort and ease.
+
+**Classical tafsir:** Ibn Kathir notes: It is probable that the stay referred to here is the stay in this world, because they spent the time in this world in comfort and ease.
 ## Personal Reflections
 
 

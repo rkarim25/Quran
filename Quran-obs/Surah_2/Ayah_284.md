@@ -267,6 +267,19 @@ In this verse, it has been made known that the way an accounting of outward deed
 
 Let us bear in mind that ikhlas or pristine sincerity is the essence behind what we do in carrying out all these injunctions. In other words, doing something or abstaining from something should both be for nothing but the pleasure of Allah Almighty. On no account should these be tainted with a desire for public recognition or some other selfish motives. It is obvious that ikhlas (sincerity) is related to human heart, the batin. If ikhlas is there, everything comes out right. It was for this reason that man was warned through this verse at the end of the Surah, by telling him that, in carrying out obligations or in abstaining from the prohibited, it was quite possible to dodge people around, to find an excuse and to get away with it. But, Allah Almighty is Alim العلیم and Khabir الخبیر (All-Knowing and All-Aware). Nothing is hidden from Him. Therefore, let one do what one must but let him be sure that there is someone there - his Raqib and Hafiz, the One Who is watching and guarding over him, and Who is recording all that is happening to him, externally and internally, and a full accounting of which has to be given on the day of Resurrection. The noble Qur'an, by cultivating this unique spirit in human beings, has posted on human hearts a sentry on guard, in the form of the fear of Allah and the concern of the Hereafter. So, before and after every law, the sentry whistles, as a result of which, they are scared of breaking any Divine Law even in the darkness of nights and the privacy of homes.
 
+## AI Translation
+
+To Allah belongs whatever is in the heavens and whatever is on earth. Whether you reveal what is in yourselves or conceal it, Allah will call you to account for it. He forgives whomever He wills and punishes whomever He wills. Allah is capable of everything.
+
+## AI Tafsir
+
+**Context:** There are many other Ayat on this subject. In this Ayah [2:284], Allah states that He has knowledge of what the hearts conceal, and consequently, He will hold the creation accountable for whatever is in their hearts.
+
+**What this ayah teaches:** In this Ayah [2:284], Allah states that He has knowledge of what the hearts conceal, and consequently, He will hold the creation accountable for whatever is in their hearts.
+
+**Classical tafsir:** Ibn Kathir notes: Since the verse refers to the effects of an act appearing in the Hereafter, there is no contradiction here.
+
+**From the Sunnah:** was revealed to the Messenger of Allah ﷺ, it was very hard for the Companions of the Messenger ﷺ. Ibn 'Abbas said, 'When this Ayah was revealed, it was very hard on the Companions of the Messenger of Allah ﷺ and worried them tremendously.
 ## Personal Reflections
 
 

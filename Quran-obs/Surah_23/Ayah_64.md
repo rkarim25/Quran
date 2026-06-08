@@ -140,6 +140,17 @@ Although the Holy Prophet ﷺ and his companions, when faced ill-treatment from 
 
 (0 Lord! Let thy punishment descend hard on the tribe of Mudar and make their land barren like the land of Yusuf.
 
+## AI Translation
+
+But as soon as We seize their elite with torment, they start to cry for help.
+
+## AI Tafsir
+
+**Context:** (from this.) means, the Qur'an which Allah revealed to His Messenger ﷺ. (In pride, talking evil about it by night.) refers to the arrogant pride which the Quraysh felt because they believed themselves to be the guardians…
+
+**What this ayah teaches:** And We task not any person except according to his capacity, and with Us is a Record which speaks the truth, and they will not be wronged (62)Nay, but their hearts are covered from this, and they have other deeds, besides which they are doing (63)Until when We seize those of them who lead a luxurious life with punishment; behold, they make humble invocation with a loud voice (64)Invoke not loudly…
+
+**Classical tafsir:** Ibn Kathir notes: The rich people have been specially mentioned here because they are the ones who make adequate arrangements to protect themselves against disasters and misfortunes.
 ## Personal Reflections
 
 

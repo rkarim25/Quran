@@ -142,6 +142,17 @@ That way has been described in Verse 67.
 
 Verse 68 declares that the closest of people to Sayyidna Ibrahim (علیہ السلام) were those who followed him during his time and now the closest to him is the Prophet of Islam, Muhammad a1-Mustafa ﷺ and so are the believers in him and in past prophets. These believers are the community of Muhammad ﷺ and their guardian is Allah and He will reward them for their belief.
 
+## AI Translation
+
+Indeed, those who have the best claim to Abraham are his followers, this Prophet, and those who have iman. And Allah is the Guardian of those who believe.
+
+## AI Tafsir
+
+**What this ayah teaches:** These believers are the community of Muhammad ﷺ and their guardian is Allah and He will reward them for their belief.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** It is Allah Who knows, and you know not (66)Ibrahim was neither a Jew nor a Christian, but he was a true Muslim Hanifa and he was not of the Mushrikin (67)Verily, among mankind who have the best claim to Ibrahim are those who followed him, and this Prophet and… (Sahih Muslim) Allah censures the Jews and Christians for their dispute with Muslims over Ibrahim Al-Khalil and the claim each group made that he was one of them.
 ## Personal Reflections
 
 

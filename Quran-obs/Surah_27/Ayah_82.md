@@ -175,6 +175,17 @@ Shaikh Jalaluddin Mahalli (رح) has said that after the appearance of Dabbah th
 
 As for the question as to what this Dabbah will converse with people, some commentators are of the view that it will communicate what is stated in the Qur'an, that is أَنَّ النَّاسَ كَانُوا بِآيَاتِنَا لَا يُوقِنُونَ (that the human beings did not believe in Our verses). It will communicate the message on behalf of Allah Ta` ala that ` Many did not believe Our verses before this'. It would mean that now the time has come that every one would believe, but then it would be too late, because it would not be acceptable then. Sayyidna Ibn ` Abbas ؓ ، Hasan Al-Basri, Qatadah رحمۃ اللہ علیہما ، have reported, which is corroborated by a narration of Sayyidna also, that the Dabbah will converse with people normally, as people do among themselves (Ibn Kathir).
 
+## AI Translation
+
+And when the decree of the Hour comes to pass against them, We will bring forth for them a beast from the earth, telling them that the people had no sure iman in Our revelations.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Emergence Of the Beast Of the Earth This is the beast which will emerge at the end of time, when mankind has become corrupt and neglected the commands of Allah and changed the true religion.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, Al-Hasan and Qatadah said, and it was also narrated from 'Ali, may Allah be pleased with him, that it will speak words, meaning, it will address them. The Tannin of the word Dabbah indicates that this animal will be extra-ordinary.
+
+**From the Sunnah:** This was also recorded by Muslim and the Sunan compilers from Hudhayfah, in a Mawquf report. (Sahih Muslim, Jami' at-Tirmidhi) the Messenger of Allah ﷺ said: (Sahih Muslim)
 ## Personal Reflections
 
 

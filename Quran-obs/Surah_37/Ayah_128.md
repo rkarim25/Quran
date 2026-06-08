@@ -74,6 +74,17 @@ Allah sent him to the Children of Israel after Hizqil (Ezekiel), may peace be up
 
 In verse 128, it was said: إِلَّا عِبَادَ اللَّـهِ الْمُخْلَصِينَ (except the chosen servants of Allah). Here, the word used is: مُخْلَصِينَ (mukhlasin) (pronounced with a fathah on the letter lam) which means chosen, elected, people Divinely identified as special. As such, these will be people whom Allah has elected to become recipients of the honor of having obeyed Him perfectly and made themselves deserving of the best returns and rewards from Him. Hence, it would be more appropriate to translate it in the sense of 'the chosen' rather than 'sincere.'
 
+## AI Translation
+
+But not the chosen servants of Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, he was one of Our believing servants.) We have already discussed the meaning of this above. Hence, it would be more appropriate to translate it in the sense of 'the chosen' rather than 'sincere.'
+
+**Classical tafsir:** Ibn Kathir notes: 'Ikrimah and Qatadah said, "This is the language of the people of Yemen." According to another report from Qatadah, it is the language of Azd Shanu'ah.
+
+**From the Sunnah:** Qatadah and Muhammad bin Ishaq said, "Ilyas is another name for Idris." Ibn Abi Hatim recorded that 'Abdullah bin Mas'ud, may Allah be pleased with him, said, "Ilyas is Idris." This was also the view of Ad-Dahhak .
 ## Personal Reflections
 
 

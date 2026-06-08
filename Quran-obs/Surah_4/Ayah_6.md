@@ -315,6 +315,17 @@ Payment for services rendered to country, community and Awqaf
 
 The contextual extension of the verse yields an important juristic rule and principle. It concerns people who supervise Awqaf (religious endowments, trusts and estates) or manage mosques and religious schools or head institutions of Muslim states or hold charge of similar other services rendered for the country and community, services the rendering of which is known in Islamic terminology as فرض علی الکفایہ fard 'alal 'kifayah (an obligation which, if discharged by some, will absolve others). For these gentlemen too, the superior and more meritorious conduct is - of course, if they have sufficient assets to take care of the necessary expenses needed to maintain their family - that they should not take anything from these institutions or from the public exchequer of the government. But, should it be that they do not have funds of their own to sustain themselves and they devote their earning time to such service-oriented activities, then, they have the right to take such funds from these institutions in proportion to their need. Please do notice the condition which is: 'in proportion to need'. A lot of people fix an insignificant monthly emolument shown on paper to satisfy legal requirements but they go on spending by various other means on their person and on their family recklessly, much much beyond it. There is just no remedy for this lack of caution except the fear of Allah. The last words of the verse: وَكَفَىٰ بِاللَّـهِ حَسِيبًا and Allah is sufficient for reckoning) invite everyone, masses or classes, to realize that the man who stays untouched by unlawful acquisitions will be the man who fears the final accounting by Allah. وباللہ التوفیق :And the ability to do so comes from Allah.
 
+## AI Translation
+
+Test the orphans until they reach a marriageable age. Then if you feel they are capable of sound judgment, return their wealth to them. And do not consume it wastefully and hastily before they grow up. If the guardian is well-off, they should not take compensation; but if the guardian is poor, let them take a reasonable provision. When you give orphans back their property, call in witnesses. And sufficient is Allah as a Reckoner.
+
+## AI Tafsir
+
+**Context:** (And whoever among guardians is rich, he should take no wages, but if he is poor, let him have for himself what is just and reasonable.) was revealed about the guardian of the orphan and pertains to whatever work he does…
+
+**What this ayah teaches:** During the first stage, the guardians of children have been instructed to educate and train them by providing for them hands-on experience, that is, let them become smarter by conducting small dealings in buying and selling on their own.
+
+**Classical tafsir:** Ibn Kathir notes: Similar was also said by Ibn Mas'ud, Al-Hakam bin 'Uyaynah, Al-Hasan and Ad-Dahhak: "Women and boys." Sa'id bin Jubayr said that 'the unwise' refers to the orphans.
 ## Personal Reflections
 
 

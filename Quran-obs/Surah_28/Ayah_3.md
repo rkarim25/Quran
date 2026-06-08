@@ -124,6 +124,15 @@ Surah Al-Qasas begins with the story of Sayyidna Musa first briefly then in deta
 
 The story of Sayyidna Musa (علیہ السلام) is related extensively in the Qur’ an, at places briefly while at others in detail. In Surah Al-Kahf (Cave) that part of the story is related in which he encountered Al-Al-khadir (علیہ السلام) . Then, in Surah Taha other parts of the story are related in some detail, while some details are related in Surah An-Naml. Now, in Surah Al-Qasas they are being reiterated. In Surah Taha where Allah Ta` ala has said about Musa (علیہ السلام) فَتَنَّاكَ فُتُونًا (And We tested you with a great ordeal - 20:40). Imam Nasa'i and some other commentators have penned down the entire story at that point. The writer has followed suit, and by quoting Ibn Kathir has written the whole story under Surah Taha. All the relevant parts of the story, it's related important issues, and rulings have been discussed in detail under Surahs al-Kahf and Taha. For any reference of an issue or ruling it would be apt to look up there. Now in this Surah commentary will be restricted to brief explanation of the wordings of these verses.
 
+## AI Translation
+
+We narrate to you, O Prophet, part of the story of Moses and Pharaoh in truth, for people of iman — faith that reshapes how they live.
+
+## AI Tafsir
+
+**What this ayah teaches:** We recite to you some of the news of Musa and Fir'awn in truth, for a people who believe.)(4. So Fir'awn took precautions against that happening, by ordering that all boys born to the Children of Israel should be killed, but this precaution did not protect him against the divine decree, because when the term of Allah comes, it cannot be delayed, and for each and every matter there is a decree from…
+
+**Classical tafsir:** Ibn Kathir notes: So Fir'awn took precautions against that happening, by ordering that all boys born to the Children of Israel should be killed, but this precaution did not protect him against the divine decree, because when the term of Allah comes, it cannot be delayed, and for each and every mat…
 ## Personal Reflections
 
 

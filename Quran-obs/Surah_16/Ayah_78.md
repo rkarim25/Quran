@@ -140,6 +140,17 @@ After these two, comes information which one deduces by deliberating into things
 
 On this occasion, Allah Ta'a1a has mentioned the faculties of hearing, seeing and understanding. Speech was not mentioned because speech plays no role in the acquisition of knowledge. It is, rather, a source of the expression of knowledge. In addition to that, according to Imam Al-Qurtubi, the word: سَمَع 'sam’ a" (hearing) is inclusive of نُطق nutq (speech) as a corollary, as experience bears out that a person who hears speaks as well. A person deprived of the power of speech remains deaf in the ears as well. Perhaps, the reason why a dumb person cannot speak lies in the person's very inability to hear any sounds which could make learning to speak through hearing possible. وَاللہُ اَعلم Wallahu a` lam: 'And Allah knows best' is a standard appendage to conclusions where definite knowledge about a subject in flux is not available or accessible or reliable. For a believer, this serves as a safety device against the possibility of having made any false statements, which may be a sin.
 
+## AI Translation
+
+And Allah brought you out of the wombs of your mothers while you knew nothing, and gave you hearing, sight, and intellect so perhaps you would be thankful.
+
+## AI Tafsir
+
+**What this ayah teaches:** Truly, Allah is able to do all things (77)And Allah has brought you out from the wombs of your mothers while you knew nothing. And He gave you hearing, sight, and hearts, that you might give thanks (78)Do they not see the birds held (flying) in the midst of the sky None holds them up but Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Nature has poured a special kind of love in the hearts of the father and the mother for the needs of the infant, because of which, when they hear the sounds made by the child, they become all too eager to find out what is bothering the baby, and all too willing to remove the prob…
+
+**From the Sunnah:** Information collected visually is much less than that.
 ## Personal Reflections
 
 

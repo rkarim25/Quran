@@ -169,6 +169,17 @@ His uncles and paternal aunts should actually be pleased to give him something e
 
 The statement at the end of the verse (8): وَقُولُوا لَهُمْ قَوْلًا مَّعْرُ‌وفًا (and speak to them in fair words) gives the guideline in case these people are not satisfied with the manner and quantum of what they get but start demanding a share equal to that of everybody else, then, this demand being unjust and contrary to Shari'ah, there is no way to satisfy it, however, instead of behaving to them in a crude manner which may hurt their feelings, the actual rules-of Shari'ah should be explained to them in a polite manner. They can be told that they do not have a share in the inheritance as stipulated by the rule of Islamic law and that which has been given to them has been given to them as a gift. At this point, one should make sure that the gift or donation given to such people does not come out of the total property inherited. Here it is important that the donation should be made by adult inheritors present, from their respective shares. Such gifts from the shares of the minor and the absent are not allowed in Shari'ah.
 
+## AI Translation
+
+If relatives, orphans, or the needy are present at the time of distribution, offer them a provision from it and speak to them kindly.
+
+## AI Tafsir
+
+**What this ayah teaches:** There is a share for men and a share for women from what is left by parents and those nearest in relation, whether the property be small or large – a legal share (7)And when the relatives, and the orphans, and the poor are present at the time of division, give them from the property, and speak to them words of kindness and justice (8)And let those (executors and guardians) have the same fear in th…
+
+**Classical tafsir:** Ibn Kathir notes: Ibn Jarir recorded that Ibn 'Abbas said that this Ayah still applies and should be implemented.
+
+**From the Sunnah:** this Ayah still applies and should be implemented.
 ## Personal Reflections
 
 

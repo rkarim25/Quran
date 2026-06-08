@@ -110,6 +110,19 @@ Ibn Abi Hatim recorded that Ibn 'Abbas said, "The magicians were seventy men who
 
 فَأَجْمِعُوا كَيْدَكُمْ ثُمَّ ائْتُوا صَفًّا (So, make your plot firm and forth in one row - 20:64). Formation of troops in ranks in battle has an unsettling effect on the enemy, so the Egyptian magicians arranged themselves in ranks for the contest.
 
+## AI Translation
+
+They said, “O Moses! Either you cast, or let us be the first to cast.”
+
+## AI Tafsir
+
+**Context:** (So Musa conceived fear in himself.) This means that he feared for the people that they would be tested and deceived by their magic before he could even have a chance to throw what was in his right hand.
+
+**What this ayah teaches:** Either you throw first or we be the first to throw? Therefore, when this happened, they fell down into prostration to Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, when this happened, they fell down into prostration to Allah.
+
+**From the Sunnah:** Paradise was raised up before them until they were looking at it.
 ## Personal Reflections
 
 

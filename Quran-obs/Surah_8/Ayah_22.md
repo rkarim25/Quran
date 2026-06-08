@@ -122,6 +122,15 @@ In this verse, Allah Ta` ala has made it clear that human beings have been creat
 
 It appears in Tafsir Ruh al-Bay-an that human beings are, in terms of their original creation, superior to all animals, but are lower in rank as compared to angels. But, when human beings strive on the pathway of obedience to Allah, their creator, they rise higher in status than angels too. However, should they turn away from the pathway of obedience to Allah, they are condemned to become the lowest of the low, far too worse than animals.
 
+## AI Translation
+
+The worst of living beings before Allah are those who refuse to hear and refuse to speak truth—who will not understand.
+
+## AI Tafsir
+
+**What this ayah teaches:** Literally, everything that walks on the earth is called 'dābbah.' But, in usage, only quadruped animals are called 'dābbah.' So, the sense of the verse is that the worst quadrupeds in the sight of Allah are the ones deaf against listening to the truth and dumb when it comes to accepting it.
+
+**Classical tafsir:** Ibn Kathir notes: Muhammad bin Ishaq said that this Ayah refers to hypocrites, as we stated.
 ## Personal Reflections
 
 

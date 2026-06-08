@@ -168,6 +168,19 @@ Ruling
 
 In the clause of verse حَتَّىٰ تَخْرُ‌جَ إِلَيْهِمْ "...until you come out to them...49:5", the prepositional phrase ilaihim "to them" is a restrictive phrase, and it implies that people must wait until the Holy Prophet ﷺ emerges to talk to them, but if he has emerged for some other reason or purpose, even in this case it is not appropriate to talk to him. The speakers should wait until a suitable situation or occasion arises for them to speak: that is, they should speak about their particular issue when the Holy Prophet ﷺ turns his attention to them for that purpose.
 
+## AI Translation
+
+Had they waited patiently until you came out to them, it would have been better for them. Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**Context:** (And Allah is Forgiving, ar-Rahim.) It was reported that this Ayah was revealed about Al-Aqra' bin Habis At-Tamimi, may Allah be pleased with him, according to more than one source.
+
+**What this ayah teaches:** The speakers should wait until a suitable situation or occasion arises for them to speak: that is, they should speak about their particular issue when the Holy Prophet ﷺ turns his attention to them for that purpose.
+
+**Classical tafsir:** Ibn Kathir notes: Lexically, it refers to a four-walled apartment or dwelling, comprising a courtyard and a roofed building.
+
+**From the Sunnah:** Allah the Exalted and Most Blessed admonished those, such as the uncivilized bedouins, who used to call to the Prophet ﷺ from behind the dwellings which belong to his wives, And know that among you there is the Messenger of Allah.) 'know that among you is the Messenger of Allah ﷺ.
 ## Personal Reflections
 
 

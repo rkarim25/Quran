@@ -128,6 +128,17 @@ An ilzami (الزامی) answer (based on adversary's assumption) is more approp
 
 From these verses we learn that it is more appropriate to tackle people bent on obstinacy with an ilzami response. An ilzami response means that their claim should be refuted through the analogy of some other view of things they themselves have. In doing so, it is never necessary to concede that we too subscribe to this other view, in fact, there could be occasion when that other view is also incorrect. But, it is only to drive some sense into the obstinate adversary that it is put to use functionally. Here, to refute their belief, Allah Ta’ ala has used their own view that the existence of daughters is a cause of disgrace. It is obvious that it does not mean that it is so with Allah Ta’ ala as well, nor does it mean that, had they called angels 'sons of God' rather than 'daughters of God,' it would have been correct. In fact, this is an ilzami response, and its aim is to refute their belief by citing their own claims. Otherwise, the real response to beliefs of this nature is no other but that which finds mention in the noble Qur'an itself - that Allah Ta’ ala is independent and need-free and neither does He need any children, nor does it befit His Most Exalted State of Being.
 
+## AI Translation
+
+Indeed, it is one of their outrageous fabrications to say,
+
+## AI Tafsir
+
+**Context:** (Except the servants of Allah, whom He chooses.) The pronoun in the verb translated as "they attribute" refers to all of mankind, then He excludes those whom He chooses, who are the ones who follow the truth revealed to…
+
+**What this ayah teaches:** That indeed is a division most unfair!)(53:21-22).
+
+**Classical tafsir:** Ibn Kathir notes: As for a reported proof, you do not have that too because one only goes by the word of people who are trustworthy and whose veracity is well established.
 ## Personal Reflections
 
 

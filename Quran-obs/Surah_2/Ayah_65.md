@@ -140,6 +140,17 @@ The present verse has a particular relevance to the question, and would help to 
 
 But this particular instance does in no way go to prove that the Hiyal are impermissible. We have explained the nature and purpose of such "devices" alone. Not only do they form an integral part of Fiqh فقہ ، but some of them have actually been suggested by the Holy Prophet ﷺ himself. For example, bartering a kilo of good dates for two kilos of bad dates is, according to the Shari'ah, a kind of usury. The Holy Prophet ﷺ has suggested a "device" (Hilah) for avoiding the infringement of this regulation in a situation where such a transaction becomes necessary - that is, instead of bartering one commodity for another, one may employ the exchange value of money: first sell two kilos of bad dates for two rupees, and then with the two rupees thus obtained buy a kilo of good dates. The intention in using this "device" is to conform to the Shari'ah, and not to by-pass it. The negation of the Shari'ah is neither intended here, nor does it actually take place. This principle holds good in the case of all the Hiyal which the Fuqaha-' (jurists) have proposed in order to save people from practicing what the Shari` ah has prohibited. It is a travesty of the truth to compare them to or represent them as the "tricks" employed by the Jews to negate and mock the Shari ah.
 
+## AI Translation
+
+You already knew those among you who violated the Sabbath. We said to them, "Be disgraced apes."
+
+## AI Tafsir
+
+**What this ayah teaches:** And indeed you knew those amongst you who transgressed in the matter of the Sabbath (i.e.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** During the night, the Jews collected the fish after the Sabbath ended. Some 'modernizing' Muslims have tried to explain away this metamorphosis by suggesting that these disobedient Jews did not actually and physically turn into beasts, but that the change was only psychological in so far as they acquired the evil characteristics… (Sahih Muslim)
 ## Personal Reflections
 
 

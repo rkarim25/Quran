@@ -138,6 +138,15 @@ Sayyidna Zubayr ؓ ، narrates that the Holy Prophet ﷺ said:
 
 Envy, whether it be on account of someone's worldly, or spiritual excellence, is harem (forbidden) on both counts, as the words أَمْ لَهُمْ نَصِيبٌ مِّنَ الْمُلْكِ (Is it that they have a share in the kingdom?) seem to point out towards worldly excellence, while the words الْكِتَابَ وَالْحِكْمَةَ (54) (the Book and the wisdom) are indicative of spiritual excellence.
 
+## AI Translation
+
+Yet some believed in him while others turned away from him. Hell is sufficient as a torment!
+
+## AI Tafsir
+
+**What this ayah teaches:** It means that Hasad (envy) is a desire to see the other person's blessing somehow disappear, and this is harm (forbidden).
+
+**Classical tafsir:** Ibn Kathir notes: It means that Hasad (envy) is a desire to see the other person's blessing somehow disappear, and this is harm (forbidden).
 ## Personal Reflections
 
 

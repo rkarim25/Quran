@@ -218,6 +218,15 @@ In other words, what is being said here is that those committing excesses who, d
 
 As for the appointed time not being late or early as stated in this verse, it is a manner of saying, something like saying to a salesperson in a store: at is your last price, more or less? It is obvious that the inquiry is for the lower price, not the higher. But, it is put there as a subordinate suffix. Similarly, the real objective here is to state that there will be no delay after the appointed time. The mention of ` before' along with ` late' makes it closer to common comprehension.
 
+## AI Translation
+
+Who does more wrong than those who fabricate lies against Allah or deny His revelations? They will receive what is destined for them, until Our messenger-angels arrive to take their souls, asking them, “Where are those you used to invoke besides Allah?” They will cry, “They have failed us,” and they will confess against themselves that they were indeed those who reject the truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** For such their appointed portion will reach them from the Book (of Decrees) until Our messengers (the angel of death and his assistants) come to them to take their souls, they (the angels) will say: "Where are those whom you used to invoke and worship besides Allah," they will reply, "They have vanished and deserted us." And they will bear witness against themselves, that they were those who reject the truth .
+
+**Classical tafsir:** Ibn Kathir notes: The third verse (34) describes their sad end and the punishment they would have in the Hereafter.
 ## Personal Reflections
 
 

@@ -202,6 +202,19 @@ spirit of a community
 
 The statement given in the verse also tells us something crucial about the life of a community or nation (of true believers) - , that its `.Ulama' and Mashaikh are its real movers and makers, the very spirit of the system. Until such time that there are present in the society (genuine) ` Ulama' and Mashaikh, who would not follow their worldly desires (in matters of Din and public good of Believers) motivated by nothing but the fear of Allah and answerability before Him, then, the community or nation in which they are shall never be deprived of real good and real blessing.
 
+## AI Translation
+
+So Allah will reward them for what they said with Gardens under which rivers flow, to stay there forever. And that is the reward of the good-doers.
+
+## AI Tafsir
+
+**Context:** Sa'id bin Jubayr, As-Suddi and others said that these Ayat were revealed concerning a delegation that An-Najashi (King of Ethiopia) sent to the Prophet ﷺ in order to hear his words and observe his qualities.
+
+**What this ayah teaches:** Any Christian, other than them, who is like them, shall also be legally counted as one of them.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ata' bin Abi Rabah commented, "They were Ethiopians who embraced Islam when the Muslims who migrated to Ethiopia resided among them." Qatadah said, "They were some followers of the religion of 'Isa, son of Maryam, who when they saw Muslims and heard the Qur'an, they became Muslims without hesitatio… The word Ruhban refers to one dedicated to worship.
+
+**From the Sunnah:** these Ayat were revealed concerning a delegation that An-Najashi (King of Ethiopia) sent to the Prophet ﷺ in order to hear his words and…
 ## Personal Reflections
 
 

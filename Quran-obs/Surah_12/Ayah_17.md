@@ -136,6 +136,15 @@ That the racing of horses as such is permissible stands proved from the verse un
 
 Mentioned in the previous verses was that the brothers of Sayyidna Yusuf (علیہ السلام) ، after talking to each other back and forth, finally put him down in a desolate well and returned to their father telling him that he has been eaten up by a wolf. From verse 18, the story onwards has been taken up in the following words:
 
+## AI Translation
+
+They cried, “Our father! We went racing and left Joseph with our belongings, and a wolf devoured him! But you will not believe us, no matter how truthful we are.”
+
+## AI Tafsir
+
+**What this ayah teaches:** That the racing of horses as such is permissible stands proved from the verse under reference and from Hadith reports cited above.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, all of them are Haram, impermissible and unlawful.
 ## Personal Reflections
 
 

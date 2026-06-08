@@ -214,6 +214,17 @@ After that, in the fifth verse (279), severe warning has been given to those who
 
 Evidently this indicates if repentance ( توبہ Taubah) was not done by resolving to give up ربا riba, receiving the principal will no more be in order. Here are the related details. Take the case of a person who just does not believe that ربا riba could be حرام haram and therefore, he does not repent and resolve that he will have nothing to do with ربا riba anymore - then this person goes out of the fold of Islam and becomes an apostate (: مرتد murtadd). The injunction governing an apostate is that his belongings go out of his possession. As a consequence, that which he has earned during the period he was a Muslim, goes to his Muslim inheritors, and that which he earns after involvement with کفر kufr is deposited in the Baytul-Mal (بیت المال : the Exchequer of an Islamic State). Therefore, should his non-repentance be because he considers ربا riba to be حلال halal , he will not be entitled to receive even his principal. And if he does not go to the limit of considering ربا riba as حلال halal but, nevertheless, in actual practice, does not stop getting involved with it and, on top of that, gangs up with his kind and stands in confrontation with the Islamic government, he then is a rebel. His belongings too, are confiscated and placed as trust in the Baytul-Mal بیت المال ، so that it could be given back to him when he repents. Perhaps, it is to point out to such details that it was said in the form of a condition وَإِن تُبْتُمْ فَلَكُمْ رُ‌ءُوسُ أَمْوَالِكُمْ which implies that, if you do not repent, even your principal will be held back.
 
+## AI Translation
+
+If you do not, then take notice of war from Allah and His Messenger. If you repent, you may keep your principal — neither harming nor being harmed.
+
+## AI Tafsir
+
+**Context:** (if you indeed have been believers) believing in the trade that He allowed you and the prohibition of Riba. Zayd bin Aslam, Ibn Jurayj, Muqatil bin Hayyan and As-Suddi said that this Ayah was revealed about Bani 'Amr bin…
+
+**What this ayah teaches:** Deal not unjustly, and you shall not be dealt with unjustly (279)And if the debtor is having a hard time, then grant him time till it is easy for him to repay; but if you remit it by way of charity, that is better for you if you did but know (280)And have Taqwa the Day when you shall be brought back to Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Zayd bin Aslam, Ibn Jurayj, Muqatil bin Hayyan and As-Suddi said that this Ayah was revealed about Bani 'Amr bin 'Umayr, a sub-tribe of Thaqif, and Bani Al-Mughirah, from the tribe of Bani Makhzum, between whom were outstanding transactions of Riba leftover from time of Jahiliyyah.…
 ## Personal Reflections
 
 

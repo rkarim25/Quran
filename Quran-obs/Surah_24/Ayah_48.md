@@ -142,6 +142,15 @@ From the sky mountains (of clouds) having hail in them - 43.
 
 Here the word سَمَاء is purported for clouds, and Jibal جِبَالٍ (mountains) for big masses of clouds, while hails are called Barad.
 
+## AI Translation
+
+And as soon as they are called to Allah and His Messenger so he may judge between them, a group of them turns away.
+
+## AI Tafsir
+
+**Context:** (And when they are called to Allah and His Messenger, to judge between them...) means, when they are asked to follow the guidance which Allah has revealed to His Messenger ﷺ, they turn away and are too arrogantly proud o…
+
+**What this ayah teaches:** Nay, it is they themselves who are the wrongdoers (50)The only saying of the faithful believers, when they are called to Allah and His Messenger, to judge between them, is that they say: "We hear and we obey." And such are the successful (51)And whosoever obeys Allah and His Messenger, fears Allah, and has Taqwa of Him, such are the successful .
 ## Personal Reflections
 
 

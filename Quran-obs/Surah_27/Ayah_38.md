@@ -152,6 +152,17 @@ him to perform such super-human things. (Ibn Jarir)
 
 قَبْلَ أَن يَأْتُونِي مُسْلِمِينَ (before they come to me submissively - 27:38). The word مُسْلِمِينَ (muslimin) is the plural of Muslim, the literal meaning of which is obedient or submissive. In conventional expression, 'Muslim' is equivalent of 'believer'. According to Sayyidna ibn ` Abbas ؓ ، here Muslimin is used in its literal meaning, that is, obedient or submissive. It is so because it was not established at that time that Queen Bilqis had converted to Islam. She actually converted to Islam after talking to Sayyidna Sulaiman (علیہ السلام) as is evident from the verses to follow now.
 
+## AI Translation
+
+Solomon asked, “O chiefs! Which of you can bring me her throne before they come to me in full submission?”
+
+## AI Tafsir
+
+**What this ayah teaches:** Which of you can bring me her throne before they come to me surrendering themselves in obedience (as Muslims)? Power such as had never been given to anyone else, before or since, so that this would furnish proof of his prophethood before Bilqis and her people, because this would be a great and wondrous thing, if he brought her throne as if he were in her country, before they could come to it, alth…
+
+**Classical tafsir:** Ibn Kathir notes: Power such as had never been given to anyone else, before or since, so that this would furnish proof of his prophethood before Bilqis and her people, because this would be a great and wondrous thing, if he brought her throne as if he were in her country, before they could come to…
+
+**From the Sunnah:** Which of you can bring me her throne before they come to me surrendering themselves in obedience (as Muslims)?
 ## Personal Reflections
 
 

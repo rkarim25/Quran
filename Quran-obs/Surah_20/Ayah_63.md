@@ -126,6 +126,15 @@ Said they, "Certainly, these two are sorcerers who wish to drive you out from yo
 
 The word مُثْلَىٰ is the feminine of which means "most excellent". The meaning is that the Egyptians believed that their religion which regarded the Pharaoh as god was the best and Sayyidna Musa (علیہ السلام) and Sayyidna Harun (علیہ السلام) wanted to destroy it and supplant their own religion in its place. The word طَرِیقَہ (translated in the text as 'way of life' ) is also used to describe the chiefs and leading citizens and according to Sayyidna Ibn ` Abbas ؓ and Sayyidna ` Ali ؓ the word has been used here in this sense namely that these two men wished to finish off all their leaders and important citizens and it was therefore, the duty of the Egyptian magicians to unite and use their best endeavours to defeat the enemy
 
+## AI Translation
+
+They concluded, “These two are only magicians who want to drive you out of your land with their magic, and do away with your most cherished traditions.
+
+## AI Tafsir
+
+**What this ayah teaches:** Their object is to drive you out from your land with magic, and to take you away from your exemplary way. And surely, he who invents a lie (against Allah) will fail miserably.") (62 Then they debated one with another what they must do, and they kept their talk secret (61)They said: "Verily, these are two magicians.
+
+**Classical tafsir:** Ibn Kathir notes: Invent not a lie against Allah...") This means, "Do not make an illusion before the people of something that is not real, making it appear as if it were a creature, when it is not really a creature.
 ## Personal Reflections
 
 

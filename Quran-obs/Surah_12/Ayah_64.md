@@ -113,6 +113,15 @@ Therefore, he said: فَاللَّـهُ خَيْرٌ‌ حَافِظًا (Well,
 
 In short, Sayyidna Ya` qub (علیہ السلام) did not rely on apparent conditions and on the pledges given by his sons, but did agree to send his youngest son with his brothers solely because he had now placed his trust in Allah Ta` ala.
 
+## AI Translation
+
+He responded, “Should I trust you with him as I once trusted you with his brother Joseph? But only Allah is the best Protector, and He is the the Rahim — special mercy for believers in the Akhirah of the merciful.”
+
+## AI Tafsir
+
+**What this ayah teaches:** But Allah is the Best to guard, and He is the ar-Rahim of those who show mercy.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

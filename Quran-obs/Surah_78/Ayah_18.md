@@ -213,6 +213,19 @@ Then he said, "They will continue increasing in torment forever."
 
 Some narratives report ten types of group. Some scholars say that the groups on the Plain of Gathering will be divided according to their deeds and character. The narratives are not conflicting. All of them may be true.
 
+## AI Translation
+
+the Day the Trumpet is blown and you emerge in crowds,
+
+## AI Tafsir
+
+**Context:** (But they denied Our Ayat Kidhdhaba.) meaning, they used to deny the evidences of Allah and His proofs for His creation, which He revealed to His Messengers. So they met these proofs with rejection and obstinance.
+
+**What this ayah teaches:** Verily, the Day of Decision is a fixed time (17)The Day when the Trumpet will be blown, and you shall come forth in crowds (18)And the heaven shall be opened, and it will become as gates (19)And the mountains shall be moved away from their places and they will be as if they were a mirage (20)Truly, Hell is a place of ambus (21)A dwelling place for the Taghun (22)They will abide therein Ahqab (23)N…
+
+**Classical tafsir:** Ibn Kathir notes: 'The Day of Decision' refers to the Day of Resurrection.
+
+**From the Sunnah:** Al-Bukhari reported concerning the explanation of Allah's statement, (Sahih al-Bukhari)
 ## Personal Reflections
 
 

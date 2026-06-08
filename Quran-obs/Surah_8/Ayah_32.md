@@ -201,6 +201,17 @@ Al-Hakim, "Its chain is Sahih and they did not record it."
 
 O Allah, if this be indeed the truth [ revealed ] from You, then, rain down upon us stones from the heavens, or bring upon us a painful punishment - 32.
 
+## AI Translation
+
+Remember when they said: "O Allah, if this is indeed the truth from You, then rain stones on us from the sky or bring us a painful punishment."
+
+## AI Tafsir
+
+**What this ayah teaches:** If this (the Qur'an) is indeed the truth (revealed) from You, then rain down stones on us from the sky or bring on us a painful torment.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Whenever the Prophet ﷺ would leave an audience in which An-Nadr was sitting, An-Nadr began narrating to them the stories that he learned in Persia, proclaiming afterwards, "Who, by Allah, has better tales to narrate, I or Muhammad?" When Allah allowed the Musl… Al-Hakim, "Its chain is Sahih and they did not record it." (al-Mustadrak)
 ## Personal Reflections
 
 

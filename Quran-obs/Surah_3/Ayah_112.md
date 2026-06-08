@@ -354,6 +354,17 @@ Briefly, the verse means that the Jews shall remain stamped with disgrace and mi
 
 Through a treaty obligation, that is, بِحَبْلٍ مِّنَ النَّاسِ (through a source from men). Such patronage may cause their disgrace and misery not to become manifest. The specific words used in the Holy Qur'an i.e., a source from men, cover all men, believers and disbelievers. The possibility that they live with freedom after making a peace treaty with Muslims is included here. Also possible is the situation that they may come under the protection of other non-Muslim powers through a peace treaty (or informal collaboration strategy), a situation that prevails in the form of the present-day state of Israel. To discerning people all over the world, it is no secret that the state of Israel is really a joint encampment of the West. Behind all the facade of power they appear to have is the power of others. If the U.S., U.K., Europe, and USSR too, were daring enough to withdraw their patronage of Israel, it would not survive for a day. Allah knows best.
 
+## AI Translation
+
+They will be stricken with disgrace wherever they go, unless they are protected by a covenant with Allah or a treaty with the people. They have invited the displeasure of Allah and have been branded with misery for rejecting Allah’s revelations and murdering prophets unjustly. This is for their disobedience and violations.
+
+## AI Tafsir
+
+**What this ayah teaches:** The possibility that they live with freedom after making a peace treaty with Muslims is included here.
+
+**Classical tafsir:** Ibn Kathir notes: This is because they disbelieved in the Ayat of Allah and killed the Prophets without right.
+
+**From the Sunnah:** This is a well-known Hadith about which At-Tirmidhi said, "Hasan", and which is also narrated from Mu'adh bin Jabal and Abu Sa'id. (Musnad Ahmad, Jami' at-Tirmidhi) the same Hadith with another chain of narration, and this Hadith meets the criteria of Muslim in his Sahih. (Sahih Muslim, Musnad Ahmad)
 ## Personal Reflections
 
 

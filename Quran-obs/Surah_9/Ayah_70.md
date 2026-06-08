@@ -180,6 +180,17 @@ On hearing this, Sayyidna ` Abdullah ibn ` Abbas ؓ said: مَا اَشبَہَ 
 
 The aim of the Hadith is fairly evident. It warns that Muslims too will start following the ways of the Jews and Christians by latter times. This statement appears only after a punishment has been announced for the hypocrites. It serves as an indicator that good Muslims would not do that. Only those among them, who are weak in 'Iman may do so because they are still infected with the germs of hypocrisy. All good men and women of the Muslim community have been instructed in this verse that they should themselves abstain from such ways as well as help others do the same.
 
+## AI Translation
+
+Have they not received the stories of those before them: the people of Noah, ’Âd, and Thamûd, the people of Abraham, the residents of Midian, and the overturned cities ? Their messengers came to them with clear proofs. Allah would have never wronged them, but it was they who wronged themselves.
+
+## AI Tafsir
+
+**What this ayah teaches:** – The people of Nuh,'Ad, Thamud, the people of Ibrahim, the dwellers of Madyan and the overturned cities; to them came their Messengers with clear proofs. Allah destroyed them all because they rejected Allah's Prophet Lut, peace be upon him, and because they committed the sin that none before them had committed (homosexuality).
+
+**Classical tafsir:** Ibn Kathir notes: Allah destroyed them all because they rejected Allah's Prophet Lut, peace be upon him, and because they committed the sin that none before them had committed (homosexuality).
+
+**From the Sunnah:** According to one exegetical explanation, this is addressed to hypocrites while according to the other explanation, the address is to Muslims. It warns that Muslims too will start following the ways of the Jews and Christians by latter times. (Sahih Muslim)
 ## Personal Reflections
 
 

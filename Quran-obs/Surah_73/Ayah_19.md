@@ -164,6 +164,17 @@ This is the end of the Tafsir of Surat Al-Muzzammil, and all praise and blessing
 
 These verses describe the horrors and terrors of the Day of Resurrection. Verse [ 14] describes that the punishment will take place on the Day when the earth and mountains will shake and the mountains will be reduced to a heap of dust or shifting dunes. Thereafter, reference is made to the story of Musa (علیہ السلام) and Fir'aun in order to threaten the pagans of Makkah. Allah sent a Messenger, Muhammad ﷺ ، to bear witness against the pagans of Makkah just as He sent a Messenger, Musa (علیہ السلام) to Fir'aun. But Fir'aun disobeyed Musa (علیہ السلام) and Allah seized him with terrible severity right in this world. Likewise, if the pagans of Makkah persist stubbornly in their pagan conduct, they too can be seized similarly with terrible severity in this very world. Towards the conclusion, the verse says that if no torment is inflicted in this world, no one can escape the horrors and terrors and length of the Day of Resurrection that will turn the children grey. This could be a metaphor for the most calamitous happenings which bring about disastrous changes. But some scholars say that this is a description of reality, in that the Day of Resurrection will be so long that a little child will grow old. [ Qurtubi and Ruh ].
 
+## AI Translation
+
+This is a reminder. Let whoever wills take the path back to their Rabb.
+
+## AI Tafsir
+
+**Context:** (He knows that there will be some among you sick, others traveling through the land, seeking of Allah's bounty, yet others fighting in Allah's cause.) meaning, He knows that there will be people of this nation who will h…
+
+**What this ayah teaches:** Verily, this is an admonition, therefore whosoever wills, let him take a path to His Lord (19)Verily, your Lord knows that you do stand a little less than two-thirds of the night, or half the night, or a third of the night, and also a party of those with you.
+
+**Classical tafsir:** Ibn Kathir notes: This means, stand and pray during the night as much as is easy (for you).
 ## Personal Reflections
 
 

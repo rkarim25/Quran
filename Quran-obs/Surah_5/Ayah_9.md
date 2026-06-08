@@ -212,6 +212,17 @@ To recapitulate, our vote has a three-pronged status: Shahadah (evidence), Shafa
 
 Therefore, it is the duty of every Muslim, man and woman, that he or she must fully investigate into the background of the candidate being voted for well before the vote is cast. Let them make sure that the candidate is deserving, capable and honest - and not otherwise. Negligence, apathy and heedlessness are poor reasons to go about committing such grave crimes. If done for no reason, it is absurdity at its worst.
 
+## AI Translation
+
+Allah has promised those who believe and do good forgiveness and a great reward.
+
+## AI Tafsir
+
+**Context:** Muhammad bin Ishaq bin Yasar, Mujahid and 'Ikrimah said that this Ayah was revealed about Bani An-Nadir, who plotted to drop a stone on the head of the Messenger ﷺ when he came to them for help to pay the blood money of…
+
+**What this ayah teaches:** Verily, Allah is All-Knower of that which is in the breasts (7)O you who believe!
+
+**Classical tafsir:** Ibn Kathir notes: Muhammad bin Ishaq bin Yasar, Mujahid and 'Ikrimah said that this Ayah was revealed about Bani An-Nadir, who plotted to drop a stone on the head of the Messenger ﷺ when he came to them for help to pay the blood money of two persons whom Muslims killed.
 ## Personal Reflections
 
 

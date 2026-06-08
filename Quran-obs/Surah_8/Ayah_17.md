@@ -173,6 +173,17 @@ Similarly, addressing the Holy Prophet ﷺ , it was said: وَمَا رَ‌مَ
 
 Certainly valuable for Muslims - more valuable than their victory in Jihad - was this instruction which disengaged their minds from means and tied it up with the master-provider of all means, and through it, saved them from falling into the trap of pride and arrogance which generally intoxicates victorious nations. After that it was said that victory and defeat are subservient to the command of Allah and that His support is with those who are obedient: وَلِيُبْلِيَ الْمُؤْمِنِينَ مِنْهُ بَلَاءً حَسَنًا (so that He may bless the believers with a good favour). It means that Allah blessed the believers with this great victory in order to give them the best of return for their obedience and struggle. The literal meaning of the word: بَلَاءً (bala' ) is test or trial. As for the test taken by Allah Ta` ala, it sometimes comes when someone is put to distress or hardship - and there are occasions when this is done by giving someone comfort and wealth. Here, the name of hasan حَسَن (good) bala' (trial) has been given to a test which is taken by giving comfort, wealth, support and victory to find out if people who are so blessed take it to be a favour from Allah and are grateful for it, or take it to be the outcome of their personal excellence, become proud and arrogant and undo what they did - because, there is no room for pride from anyone before Allah Ta` ala.
 
+## AI Translation
+
+You did not kill them when they fell—it was Allah who did. And you did not throw when you threw—it was Allah who threw, to test the believers with a gracious test from Him. Surely Allah is All-Hearing, All-Knowing.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah's Signs displayed during Badr, And throwing Sand in the Eyes of the those who reject the truth Allah states that He creates the actions that the servants perform and that whatever good actions they take, it is He Who should be praised for them, for He directed and helped them perform these actions.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** While in the bunker, the Prophet ﷺ invoked Allah humbly and expressing his neediness before Allah. This great victory was achieved by Muslims in the background which was initially full of dismay and hopelessness.
 ## Personal Reflections
 
 

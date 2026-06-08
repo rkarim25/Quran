@@ -143,6 +143,15 @@ In the verses cited above, after having mentioned various punishments which coul
 
 First of all, by using the word: رَبّ (Rabb: Lord) here, the hint given is that all these punishments which overtake human beings in this world are there to warn them as part of the dictates of Divine mercy. After that, by introducing the word: رَ‌ءُوفٌ(Ra uf: Kind) headed by the intensifying particle lam) that is, the lam of ta'kid), and thus by placing stress on the fact that Allah Ta’ ala was Very Kind and Very Merciful, the hint given was that warnings sent during the life of the world were, in reality, called for by His intrinsic Kindness and Mercy so that heedless men and women would learn from the warning and correct their deeds (before comes 'the last spasm of mass extinction' they themselves are talking about at the closing of the twentieth century, but are still not ready to learn, believe and correct).
 
+## AI Translation
+
+And they even assign to those idols—who know nothing—a share of what We have provided for them. By Allah! You will certainly be questioned about whatever lies you used to fabricate against Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** Certainly, evil is their decision (59)For those who do not believe in the Hereafter is an evil description, and for Allah is the highest description.
+
+**Classical tafsir:** Ibn Kathir notes: And for themselves (they assign) what they desire (57)And when the news of (the birth of) a female (child) is brought to any of them, his face becomes dark, and he is filled with inner grief (58)He hides himself from the people because of the evil of what he has been informed.
 ## Personal Reflections
 
 

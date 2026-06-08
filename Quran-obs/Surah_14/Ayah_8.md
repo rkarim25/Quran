@@ -128,6 +128,15 @@ In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَك
 
 So, whatever good there is in gratitude, that is for you alone. There-fore, when you are asked to be grateful by Allah Ta’ ala, there is no gain for Him in doing so. In fact, it is His infinite mercy reaching out to you in your interest.
 
+## AI Translation
+
+Moses added: "If you and everyone on earth were ungrateful, know that Allah is Self-Sufficient, Praiseworthy."
+
+## AI Tafsir
+
+**What this ayah teaches:** He is telling them that should they or, for that matter, all inhabitants of the earth become ungrateful to Allah Ta’ ala, it is not going to cause any loss to Allah Ta’ ala.
+
+**Classical tafsir:** Ibn Kathir notes: It is possible that this Ayah means, your Lord has vowed and sworn by His might, grace and exaltness.
 ## Personal Reflections
 
 

@@ -219,6 +219,17 @@ It is also possible to take the word khilaf in the sense of mukhalafat (contrave
 
 We already know that the command to fight the battle of Tabuk was given at a time when the heat was intense. The rejoinder to their comment came from Allah Ta` ala: قُلْ نَارُ‌ جَهَنَّمَ أَشَدُّ حَرًّ‌ا (Say: [ 0 Prophet ] the fire of Jahannam is more intense in heat) that is, these people are really unfortunate. They see the heat of a certain given time and try to beat it one way or the other. But, they do not realize that their disobedience to the command of Allah and His Messenger would bring them face to face with the fire of Jahannam. Why would they not worry about it? Is it that the heat of our seasons is more intense than the heat of Hell?
 
+## AI Translation
+
+Those who remained behind rejoiced for doing so in defiance of the Messenger of Allah and hated striving with their wealth and their lives in the cause of Allah. They said, “Do not march forth in the heat.” Say, “The Fire of Hell is far hotter!” If only they could comprehend!
+
+## AI Tafsir
+
+**What this ayah teaches:** Hypocrites rejoice because They remained behind from Tabuk! Those who stayed away (from Tabuk expedition) rejoiced in their staying behind the Messenger of Allah; they hated to strive and fight with their properties and their lives in the cause of Allah, and they said: "March not forth in the heat." Say: "The fire of Hell is more intense in heat;" if only they could understand (81)So let them laug…
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, it is not they who have abandoned the Jihad, in fact, it is Jihad that has abandoned them.
+
+**From the Sunnah:** Allah admonishes the hypocrites who lagged behind from the battle of Tabuk with the Companions of the Messenger of Allah ﷺ, rejoicing that they remained behind after the Messenger ﷺ departed for the battle,
 ## Personal Reflections
 
 

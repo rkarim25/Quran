@@ -166,6 +166,15 @@ In other words, what is being said here is that those committing excesses who, d
 
 As for the appointed time not being late or early as stated in this verse, it is a manner of saying, something like saying to a salesperson in a store: at is your last price, more or less? It is obvious that the inquiry is for the lower price, not the higher. But, it is put there as a subordinate suffix. Similarly, the real objective here is to state that there will be no delay after the appointed time. The mention of ` before' along with ` late' makes it closer to common comprehension.
 
+## AI Translation
+
+Then the leaders will say to their followers, “You were no better than us! So taste the torment for what you used to commit.”
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, what is being said here is that those committing excesses who, despite their contumacy, are basking in the sunshine of the blessings of Allah Ta` ala, and do not seem to be anywhere close to being punished, they should not lose sight of the customary practice of Allah that He, in His infinite mercy, keeps granting a long leash to sinners so that they would somehow stop doing what t…
+
+**Classical tafsir:** Ibn Kathir notes: This is because the earlier nations were worse criminals than those who followed them, and this is why they entered the Fire first.
 ## Personal Reflections
 
 

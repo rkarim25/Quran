@@ -127,6 +127,15 @@ No compulsion in Faith
 
 The above incident gives rise to a question. Why the Israelites were forced to make a promise of their obedience while the Holy Qur'an has declared لَا إِكْرَ‌اهَ فِي الدِّينِ "There is no compulsion in Faith?" (2:256) The answer is quite simple. None of the disbelievers has ever been forced to accept faith, nor any one is allowed to use force for this purpose. However, those who have already entered the covenant of faith out of their free will and, later, deviate from the commandments of Allah just for avoiding their commitments, shall essentially be forced to abide by the rules and regulations of the Law. In case of deviation from their duty they must be held liable to punishments prescribed by the Law. This is what exactly happened in this incident. They had already believed in Allah and in His Prophet and had entered the covenant of Faith. What they did was to deny from obeying the Law of the Torah and rightly were forced to fulfill their commitment.
 
+## AI Translation
+
+And when We raised the mountain over them as if it were a cloud and they thought it would fall on them. “Hold firmly to that which We have given you and observe its teachings so perhaps you will become mindful.”
+
+## AI Tafsir
+
+**What this ayah teaches:** And (remember) when We Nataqna the mountain over them as if it had been a canopy, and they thought that it was going to fall on them.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

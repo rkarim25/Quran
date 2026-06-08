@@ -124,6 +124,15 @@ According to a narration in the Musnad of Ahmad, the Holy Prophet ﷺ is reporte
 
 ` Those absent' refers to people who were present during that time but were not present at that particular occasion - as well as generations which would come later on. To convey to them the message of the Holy Prophet ﷺ means that people of every time should continue the chain of conveying this message to the generations coming next, so that all children of Adam to be born right through the day of Qiyamah will have received this message.
 
+## AI Translation
+
+We will surely question those who received messengers and We will question the messengers.
+
+## AI Tafsir
+
+**What this ayah teaches:** To convey to them the message of the Holy Prophet ﷺ means that people of every time should continue the chain of conveying this message to the generations coming next, so that all children of Adam to be born right through the day of Qiyamah will have received this message.
+
+**Classical tafsir:** Ibn Kathir notes: To convey to them the message of the Holy Prophet ﷺ means that people of every time should continue the chain of conveying this message to the generations coming next, so that all children of Adam to be born right through the day of Qiyamah will have received this message.
 ## Personal Reflections
 
 

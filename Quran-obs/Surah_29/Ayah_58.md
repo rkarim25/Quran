@@ -144,6 +144,15 @@ Ibn Abi Hatim, may Allah have mercy on him, recorded from Abu Mu'aniq Al-Ash'ari
 
 The other risk involved in hijrah (migration) is about the arrangement of sustenance in the strange land. One does manage the sustenance at one's own place through employment, trade, cultivation, or inherited land, but on migration all that is left behind. So, how would he manage the sustenance in the new environment? Answer to this apprehension is given in the next three verses by saying that you regard the mundane possessions and arrangements as the cause of your sustenance, but who has given you all this? It is your mistake to consider that you have arranged it all on your own. Without the help and will of Allah nothing could be procured. If He wills, one gets unlimited sustenance without any visible means, and if He does not, then despite all sorts of visible means, one does not get anything. For elaborating this point first it is said:
 
+## AI Translation
+
+Those who believe and do good — We will house them in elevated mansions in Paradise with rivers flowing beneath, to remain forever. How excellent is the reward of those who work righteousness —
+
+## AI Tafsir
+
+**What this ayah teaches:** Then unto Us you shall be returned (57)And those who believe and do righteous good deeds, to them We shall surely give lofty dwellings in Paradise, beneath which rivers flow, to live therein forever. Therefore worship Me.) When things became too difficult for the believers in Makkah who were in a weak position and were oppressed, they left and migrated to Ethiopia, where they were able to practice…
+
+**Classical tafsir:** Ibn Kathir notes: Therefore worship Me.) When things became too difficult for the believers in Makkah who were in a weak position and were oppressed, they left and migrated to Ethiopia, where they were able to practice their religion.
 ## Personal Reflections
 
 

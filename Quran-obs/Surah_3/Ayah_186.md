@@ -225,6 +225,19 @@ People of Falsehood hurting people of Truth is a natural phenomena: Patience (Sa
 
 The seventh verse (186) was revealed in the background of a particular event which has been briefly referred to a little earlier in verse (181). According to relevant details, when verse 245 of Surah al-Baqarah: مَّن ذَا الَّذِي يُقْرِ‌ضُ اللَّـهَ قَرْ‌ضًا حَسَنًا (who is the one who would give Allah a good loan) was revealed, it eloquently equated the giving of charities to the giving of loan to Allah thereby indicating that all givings in charity in the life of this world will be recompensed with a certainty like that of someone returning a loan taken. An ignorant or hostile Jew reacted by commenting in the following words: إِنَّ اللَّـهَ فَقِيرٌ‌ وَنَحْنُ أَغْنِيَاءُ (Allah is poor and we are rich). Sayyidna Abu Bakr ؓ was angry at his effrontery and slapped him. The Jew complained to the Holy Prophet ﷺ . Thereupon, the verse لَتُبْلَوُنَّ فِي أَمْوَالِكُمْ وَأَنفُسِكُمْ (Of course, you shall be tested in your wealth and yourselves) was revealed. This verse instructs Muslims that they should not show weakness when called to stake their wealth and life in the defence of their Faith or when they are hurt by the vituperations of the disbelievers, the polytheists and the people of the Book. All this is nothing but a trial for them. The best course for them is to observe restraint, be patient and keep to their real objective in life which is the achievement of the perfect state of Taqwa, (a state in which one fears Allah and remains answerable to Him all the time). In such a state Muslims should not worry about replying to the effrontery by antogonists.
 
+## AI Translation
+
+You will surely be tested in your wealth and yourselves, and you will certainly hear many hurtful words from those who were given the Scripture before you and the polytheists. But if you are patient and mindful —surely this is a resolve to aspire to.
+
+## AI Tafsir
+
+**Context:** The seventh verse (186) was revealed in the background of a particular event which has been briefly referred to a little earlier in verse (181).
+
+**What this ayah teaches:** The life of this world is only the enjoyment of deception (185)You shall certainly be tried and tested in your wealth and properties and in yourselves, and you shall certainly hear much that will grieve you from those who received the Scripture before you (Jews and Christians) and from those who ascribe partners to Allah; but if you persevere patiently, and have Taqwa, then verily, that will be a…
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, Allah Alone is the Ever-Living Who never dies, while the Jinn, mankind and angels, including those who carry Allah's Throne, shall die.
+
+**From the Sunnah:** Paradise, he indeed is successful).
 ## Personal Reflections
 
 

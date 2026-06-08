@@ -288,6 +288,15 @@ In the last verse (130): وَإِن يَتَفَرَّ‌قَا يُغْنِ ا�
 
 By saying: وَكَانَ اللَّـهُ وَاسِعًا حَكِيمًا (And Allah is All-Embracing, All-Wise) at the close of the verse, it has been confirmed that the dimensions of Allah's capacity are most extensive and everything that issues forth from Him is based on wisdom. It is quite possible that the very separation may be the most expedient solution of the problem. The post-separation period may bless them with mates that make their lives good to live.
 
+## AI Translation
+
+If a woman fears indifference or neglect from her husband, there is no blame on either of them if they seek settlement, which is best. Humans are ever inclined to selfishness. But if you are gracious and mindful, surely Allah is All-Aware of what you do.
+
+## AI Tafsir
+
+**Context:** (And if a woman fears cruelty or desertion on her husband's part), that it refers to, "A man who is married to an old woman, and he does not desire her and wants to divorce her.
+
+**What this ayah teaches:** 'Ali bin Abi Talhah related that Ibn 'Abbas said that the Ayah refers to, "When the husband gives his wife the choice between staying with him or leaving him, as this is better than the husband preferring other wives to her." However, the apparent wording of the Ayah refers to the settlement where the wife forfeits some of the rights she has over her husband, with the husband a…
 ## Personal Reflections
 
 

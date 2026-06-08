@@ -131,6 +131,17 @@ Ruling
 
 This has proved that to think good about all Muslims men and women is obligatory, unless proved otherwise by Islamic law. And if someone accuses a Muslim without the proof under Islamic law, then the rejection of that accusation and to declare it as a lie is also obligatory, because it is nothing but backbiting and defaming an innocent Muslim. (Mazhari)
 
+## AI Translation
+
+If only the believing men and women had thought well of one another, when you heard this rumour, and said, “This is clearly an outrageous slander!”
+
+## AI Tafsir
+
+**Context:** (the believers, men and women, think good of their own people) means, why did they not compare what was said to themselves – if it was not befitting for them then it was even less appropriate for the Mother of the believ…
+
+**What this ayah teaches:** Ruling This has proved that to think good about all Muslims men and women is obligatory, unless proved otherwise by Islamic law.
+
+**Classical tafsir:** Ibn Kathir notes: Disciplining the Believers for Spreading the Slander Here Allah disciplines the believers with regard to the matter of 'A'ishah, because some of them spread this evil talk and the slander that had been mentioned.
 ## Personal Reflections
 
 

@@ -159,6 +159,17 @@ Commentary
 
 The contents of this verse present a unique concern for thematic order. It will be noticed that three kinds of universes have been mentioned here: The low, the high and the atmosphere - that is, what generates in what we know as the Biosphere. The description was initiated with the mention of that which is on the lower level because it is closer to us. Then, it was split in two parts. One part of the statement covered vegetation which grows on the land, plants and trees and gardens. The other part featured life forms as beasts, human beings and animals. The first part was given precedence because it is more obvious as compared to the other. Then comes the case of that which has been made to come after, the other part. This is different. It has Ruh, soul or spirit. It is deep, depends on progression from the sperm to its various stages and attending conditions, something allied with the comprehension, diagnosis and judgment of physicians - contrary to the case of vegetation which, in its growth, flowering and ripening etc., is observable commonly. Then, mentioned there was the atmosphere and its life support system, the morning and the evening. Then, came the mention of what is higher, the sun, the moon, and the stars. After that, since what is at the lower level is observed more frequently, the subject was repeated and made the concluding statement. But, firstly it was taken up briefly, now it was taken up in detail - yet, in the order of this detail, the order of brevity was reversed by giving precedence to life forms and succession to the mention of vegetation. Perhaps, its basis is that the detailed statement highlights the expression of gratitude for blessings which, in that status, makes the blessed - being the intended recipients - deserving of being given precedence. As for vegetation, the previous order stays as the status of the donees, that is, of seeds and pits, remains preceded. That rain has been mentioned in between is subservient to the mention of vegetation. Incidentally, there might be another element of refinement here - in that rain has different states. In terms of its origin, it comes from the high; and in terms of its destination, it comes down to the low; and in terms of the distance covered, it is part of the atmosphere.
 
+## AI Translation
+
+That is Allah—your Rabb! There is no god except Him. the Creator of all things, so worship Him. And He is the Maintainer of everything.
+
+## AI Tafsir
+
+**What this ayah teaches:** So worship Him (alone), and He is the Guardian over all things (102)No vision can grasp Him, but His grasp is over all vision.
+
+**Classical tafsir:** Ibn Kathir notes: The description was initiated with the mention of that which is on the lower level because it is closer to us.
+
+**From the Sunnah:** The vision will be able to look at Allah in the Hereafter, as affirmed and attested to by the numerous Hadiths from the Prophet ﷺ through authentic chains of narration in the collections of the Sahihs, Musnad and Sunan collections. In the Sahih (Muslim) it is recorded that Abu Musa Al-Ash'ari narrated from the Prophet ﷺ, (Sahih Muslim)
 ## Personal Reflections
 
 

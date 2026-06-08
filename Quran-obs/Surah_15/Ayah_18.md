@@ -91,6 +91,17 @@ In a Hadith of the Sahih of Muslim, there is a narration from Sayyidna Ibn ` Abb
 
 To sum up, it can be said that the view of scientists about the shooting stars is also not contrary to the Qur’ an, and it is also not too far out to state that these flames were made to fall directly from some stars. Whichever way it is taken, the purpose of the Qur'an stands proved clearly.
 
+## AI Translation
+
+except the one eavesdropping, who is then pursued by a visible flare.
+
+## AI Tafsir
+
+**What this ayah teaches:** And indeed, We have put the big stars in the heaven and We beautified it for the beholders (16)And We have guarded it (near heaven) from every outcast Shaytan (devil)(17)Except him (devil) who steals the hearing, then he is pursued by a clear flaming fire (18)And We have spread out the earth, and have placed firm mountains in it, and caused all kinds of things to grow in it, in…
+
+**Classical tafsir:** Ibn Kathir notes: Here, Mujahid and Qatadah said that Buruj [big stars] refers to the heavenly bodies.
+
+**From the Sunnah:** Explaining this Ayah, Al-Bukhari reported from Abu Hurayrah that the Prophet ﷺ said: (Sahih al-Bukhari) This was also the opinion of Sa'id bin Jubayr, 'Ikrimah, Abu Malik, Mujahid, Al-Hakim bin 'Utaybah, Al-Hasan bin Muhammad, Abu Salih and Qatadah. (al-Mustadrak)
 ## Personal Reflections
 
 

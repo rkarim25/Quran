@@ -136,6 +136,15 @@ Allah tells us about the rebellion of the disbelievers in ancient times and in m
 
 The statement: وَكَانَ الْإِنسَانُ أَكْثَرَ‌ شَيْءٍ جَدَلًا (And man is the most quarrel-some of all things - 54) has been testified through a Hadith narrated by Sayyidna 'Anas ؓ in which the Holy Prophet ﷺ has been reported to have said, "On the day of Qiyamah, a man from among the disbelievers will be brought forth. He will be asked, 'what was your response to the messenger We had sent to you?' He will say, '0 my Lord, as for me, I did believe in You and in Your messenger too and that I obeyed him in everything I did.' Allah Ta` ala will say, 'here is your book of deeds before you. All this you say is not there.' This man will say, 'I do not believe in this book of deeds.' Allah Ta` ala will say, 'what about these angels of Ours? They used to watch you. They bear witness against you. This man will say, 'I do not accept their testimony as well, nor do I know them, nor have I seen them while I was doing what I did.' Allah Ta` ala will say, 'if so, this Preserved Tablet (اَلَّوح المَحفُوظ) is before you. Written here too is the same thing about you.' He will say, 'my Lord, have You granted me asylum from injustice or have you not?' Allah Ta` ala will say, 'Of course, you have your refuge against injustice with Us.' So then, he will say, '0 my Lord, how can I accept the verdict of those unseen witnesses I am not familiar with at all? As for me, I can only accept a witness that comes from my own person.' At that time, his mouth will be sealed, and his hands and feet will bear witness against his kufr and shirk. After that, he will be released and thrown into the Hell. (The subject matter of this narrative has been reported in Sahih Muslim, also from Sayyidna Anas ؓ - al-Qurtubi)
 
+## AI Translation
+
+We do not send the messengers except as deliverers of good news and warners. But those who reject the truth argue in falsehood, hoping to discredit the truth with it, and make a mockery of My revelations and warnings.
+
+## AI Tafsir
+
+**What this ayah teaches:** And nothing prevents men from believing, while the guidance has come to them, and from asking forgiveness of their Lord, except that the ways of the ancients be repeated with them, or the torment be brought to them face to face (55)And We send not the Messengers except as bearers of good news and warners. But those who disbelieve, argue with falsehood, in order to refute the truth thereby.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

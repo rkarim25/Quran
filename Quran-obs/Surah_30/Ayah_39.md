@@ -178,6 +178,15 @@ Ruling
 
 It is extremely contemptible for a person who extends a gift to someone that he expects a return for it, which is forbidden in this verse. But it is morally desirable for the one who receives a gift from someone, that he tries to give a gift to the former on his own accord, whenever he finds a suitable occasion. This was exactly the practice of the Holy Prophet ﷺ . He used to give present to the person who gave him one. (Qurtubi on authority of Sayyidah ` A'ishah ؓ . However, it should be avoided to give him an impression that the gift is being given in return of his own.
 
+## AI Translation
+
+Whatever you give seeking interest at people's expense will not increase with Allah. Whatever charity you give seeking Allah's pleasure — their reward will be multiplied.
+
+## AI Tafsir
+
+**What this ayah teaches:** That is best for those who seek Allah's Face; and it is they who will be successful (38)And that which you give in Riba in order that it may increase from other people's property, has no increase with Allah; but that which you give in Zakah seeking Allah's Face, then those they shall have manifold increase (39)Allah is He Who created you, then provided food for you, then will c…
+
+**Classical tafsir:** Ibn Kathir notes: Since, according to a large number of scholars, usury was prohibited in Madinah, while the present verse is Makkan, the word riba used here cannot mean usury or interest.
 ## Personal Reflections
 
 

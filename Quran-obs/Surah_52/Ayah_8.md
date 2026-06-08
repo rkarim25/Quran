@@ -162,6 +162,19 @@ Sayyidna ` Umar ؓ one day recited Surah Tur. When he came to these verses, he h
 
 Sayyidna Jubair Ibn Mut'im ؓ says that before embracing Islam, he once went to the holy city of Madinah to negotiate regarding the prisoners of the battle of Badr. When he arrived there, the Holy Prophet ﷺ was reciting Surah Tur in Maghrib salah and his voice could be heard outside the mosque. When he recited verses [ 7] and [ 81: 'The punishment of your Lord is sure to fall. There is nothing to push it back,' He suddenly felt that his heart would burst through fear. He instantly embraced Islam. He felt at the time that he would not be able to move unless the torment would descend on him. (Qurtubi)
 
+## AI Translation
+
+Nothing can hold it back.
+
+## AI Tafsir
+
+**Context:** (And by the Book inscribed), it is said that it means Al-Lawh Al-Mahfuz, (the Preserved Table). It is also said that is refers to the divinely revealed inscribed Books that people recite, and this is why Allah said,
+
+**What this ayah teaches:** There is nothing to push it back,....52:7-8) Verses 1-6 constituted swearing of an oath, and the present verse is jawab-ul-qasam or the fact for which the oath is sworn, assuring that the torment of Allah will come to pass, and none will be able to avert it. Verily, the torment of your Lord will surely come to pass.)(8.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, the torment of your Lord will surely come to pass.)(8.
+
+**From the Sunnah:** And by Al-Bayt Al-Ma'mur.) In the Two Sahihs it is confirmed that the Messenger of Allah ﷺ said in the Hadith about Al-Isra', after ascending to the seventh heaven:
 ## Personal Reflections
 
 

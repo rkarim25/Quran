@@ -63,6 +63,15 @@ Sayyidna ` Abdullah Ibn ` Umar ؓ has reported that he had heard a hadith (حَ�
 
 The sum and substance of this story is that Dhul-Kifl was the deputy of Prophet Yasa' (علیہ السلام) and it is possible that because of his virtuous deeds his name has been mentioned along with prophets. It is also possible that initially he was the deputy of Sayyidna Yasa` (علیہ السلام) and later on he was elevated to the status of a prophet by Allah Ta` ala.
 
+## AI Translation
+
+We admitted them into Our mercy, for they were truly of the righteous.
+
+## AI Tafsir
+
+**What this ayah teaches:** And (remember) Isma'il, Idris and Dhul-Kifl: All were from among the patient (85)And We admitted them to Our mercy.
+
+**Classical tafsir:** Ibn Kathir notes: Even if the tradition is true, it mentioned the name as Kifl and not Dhul-Kifl, which means he was some other person.
 ## Personal Reflections
 
 

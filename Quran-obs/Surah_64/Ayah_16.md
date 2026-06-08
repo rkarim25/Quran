@@ -202,6 +202,19 @@ Surah At-Taghabun
 
 Ends here
 
+## AI Translation
+
+So be living with taqwa—Allah-consciousness as best you can, listen and obey, and spend in charity—that will be best for you. Whoever is saved from the selfishness of their own nafs is truly successful.
+
+## AI Tafsir
+
+**Context:** فَاتَّقُوا اللَّـهَ مَا اسْتَطَعْتُمْ (So, observe taqwa [ total obedience to Allah in awe of Him ] as far as you can…64:16).
+
+**What this ayah teaches:** With Him is a great reward (15)So have Taqwa of Allah as much as you can; listen and obey, and spend in charity; that is better for yourselves.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, among your wives and your children there are enemies for you; therefore beware of them!
+
+**From the Sunnah:** Later when they joined Allah's Messenger ﷺ, they found that those who were with him (the Companions) have gained knowledge in the religion, so they were about to punish their wives and children.
 ## Personal Reflections
 
 

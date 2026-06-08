@@ -196,6 +196,15 @@ of slaughter, the calf came out alive, they would slaughter it as well - but, wo
 
 [ All these narrations appear in Ad-Durr Al-Manthur and Ruh al-Mani from Sayyidna Ibn ` Abbas, Mujahid, Ibn Zayd and As-Suddiy with exegetic deductions of Ibn al-Mundhir, Ibn Abi Hatim, Ibn Abi Ash-Shaybah and Ibn Humayd) [ As in Bayn al-Qur'an of Maulana Thanavi ]
 
+## AI Translation
+
+They say, “These cattle and crops are reserved—none may eat them except those we permit,” so they claim. Some other cattle are exempted from labour and others are not slaughtered in Allah’s Name—falsely attributing lies to Him. He will repay them for their lies.
+
+## AI Tafsir
+
+**What this ayah teaches:** And (they say) there are cattle forbidden to be used for burden, and cattle on which (at slaughtering) the Name of Allah is not pronounced; lying against Him (Allah).
+
+**Classical tafsir:** Ibn Kathir notes: But those who disbelieve invent lies against Allah, and most of them have no understanding.)[5:103] As-Suddi said that cattle forbidden to be used for burden were the 'Baḥīrah', 'Sā'ibah', 'Waşīlah' and 'Ḥām', as well as cattle for which the idolators did not mention Allah's Name when slaughtering t…
 ## Personal Reflections
 
 

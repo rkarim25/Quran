@@ -204,6 +204,15 @@ Later in verse 21, it was said: مُّخْتَلِفًا أَلْوَانُهُ 
 
 In the last sentence of verse 21, it was said: إِنَّ فِي ذَٰلِكَ لَذِكْرَ‌ىٰ لِأُولِي الْأَلْبَابِ (Surely, in that, there is a lesson for the people of understanding), that is, in this process - when water is sent down, is conserved, is made available to human beings to grow all sorts of crops and trees the colors of which change following which they turn yellow and dry making grains separate from chaff - there is a great lesson for people of understanding, because they provide the proof of the infinite power and wisdom of Allah Ta’ ala. These are visible signs that could lead human beings to discover the reality behind their own creation, and that in turn, could become the means through which one succeeds in recognizing his or her own creator and master.
 
+## AI Translation
+
+Do you not see that Allah sends down rain from the sky—channelling it through streams in the earth—then produces with it crops of various colours, then they dry up and you see them wither, and then He reduces them to chaff? Surely in this is a reminder for people of reason.
+
+## AI Tafsir
+
+**What this ayah teaches:** The sense is that the act of sending down water from the sky is by itself a great blessing, but also crucial was the arrangement to conserve it underground.
+
+**Classical tafsir:** Ibn Kathir notes: Sa'id bin Jubayr said, its origins lie in the snow, meaning that snow piles up in the mountains, then settles at the bottom (of the mountains) and springs flow from the bottom of them.
 ## Personal Reflections
 
 

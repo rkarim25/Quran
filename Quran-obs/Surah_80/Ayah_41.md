@@ -88,6 +88,17 @@ This is the end of the Tafsir of Surat 'Abasa, and to Allah all praise and thank
 
 The Chapter ends on a note of warning to disbelievers that if they reject the Qur’ anic message and persist in opposition to the Holy Prophet ﷺ they will have to face a day of reckoning when misery, shame and ignominy will be their lot. The righteous believers, however, will reside in Gardens of Bliss, their faces beaming with joy and happiness.
 
+## AI Translation
+
+cast in gloom and despair—
+
+## AI Tafsir
+
+**What this ayah teaches:** Darkness (Qatarah) will cover them.) meaning, they will be overcome and covered with Qatarah, which is darkness. And from his wife and his children.) meaning, he will see them and then flee from them, and seek to get away from them because horror will be so great and the matter will be so weighty.
+
+**Classical tafsir:** Ibn Kathir notes: And from his wife and his children.) meaning, he will see them and then flee from them, and seek to get away from them because horror will be so great and the matter will be so weighty.
+
+**From the Sunnah:** intercede with Allah on behalf of the creation, but each of them will say, "O myself! O myself! Today I will not ask You (O Allah) concerning anyone but myself.
 ## Personal Reflections
 
 

@@ -144,6 +144,19 @@ The expression: أَسَرَّ‌ الْقَوْلَ (speaks quietly) is a deriv
 
 The verse means that, because of the all-encompassing knowledge of Allah Ta` ala, the one who talks quietly or secretly and the one who talks loudly and openly are both equal in His sight. He hears and knows what they say, identically and uniformly. Similarly, there is the person hiding in the darkness of the night and there is another walking freely in open daylight. Both of them are alike in terms of His knowledge and power, since He knows all inward and outward conditions of both alike and His power surrounds them both alike and just no one is outside His power and control. An elaboration of this point appears in the next verse in the following words:
 
+## AI Translation
+
+It is all the same to Him whether you speak in secret or aloud, hide in night's darkness or walk openly in daylight.
+
+## AI Tafsir
+
+**Context:** Ibn Abi Hatim narrated that Ibrahim said, "Allah revealed to a Prophet from among the Children of Israel, 'Say to your nation: every people of a village or a house who used to obey Allah but changed their behavior to dis…
+
+**What this ayah teaches:** Similarly, there is the person hiding in the darkness of the night and there is another walking freely in open daylight.
+
+**Classical tafsir:** Ibn Kathir notes: The verse means that, because of the all-encompassing knowledge of Allah Ta` ala, the one who talks quietly or secretly and the one who talks loudly and openly are both equal in His sight.
+
+**From the Sunnah:** By Allah, she who came to complain about her husband to the Messenger of Allah ﷺ was speaking while I was in another part of the room, yet I did not hear some of what she said.
 ## Personal Reflections
 
 

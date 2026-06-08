@@ -96,6 +96,17 @@ Then Allah points out the great virtue of the Qur'an, and says that even if mank
 
 The last verse: وَلَقَدْ صَرَّ‌فْنَا (And surely We have explained - 89) tells us that the Holy Qur’ an stands out as a miracle so clear that it leaves no room for any question and doubt. Still, what is happening is that people do not thank Allah for His blessings, do not even recognize the real worth of the blessing of the Qur'an and keep wandering around in error.
 
+## AI Translation
+
+And We have truly set forth every kind of lesson for humanity in this Quran, yet most people persist in rejection of the truth.
+
+## AI Tafsir
+
+**Context:** And if We willed, We could surely take away that which We have revealed to you. Then you would find no protector for you against Us in that respect (86)Except as a mercy from your Lord.
+
+**What this ayah teaches:** And if We willed, We could surely take away that which We have revealed to you. Still, what is happening is that people do not thank Allah for His blessings, do not even recognize the real worth of the blessing of the Qur'an and keep wandering around in error.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

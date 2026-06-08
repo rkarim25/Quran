@@ -503,6 +503,15 @@ Towards the end of the verse, after the shares of inheritance have been describe
 
 In addition to that, if a deceased person has caused damage to his heirs through debt or will, Allah knows that as well. So, one should never be fearless from Allah's punishment. However, it is quite possible that Allah Almighty may not punish a person right here in this mortal world, because He is Forbearing. But, the one who disobeys and acts in contravention should better not deceive himself by thinking that he really got away.
 
+## AI Translation
+
+You will inherit half of what your wives leave if they are childless. But if they have children, then one-fourth of the estate—after the fulfilment of bequests and debts. And your wives will inherit one-fourth of what you leave if you are childless. But if you have children, then your wives will receive one-eighth of your estate—after the fulfilment of bequests and debts. And if a man or a woman leaves neither parents nor children but only a brother or a sister, they will each inherit one-sixth, but if they are more than one, they will share one-third of the estate—after the fulfilment of bequests and debts without harm. a commandment from Allah. And Allah is All-Knowing, Most Forbearing.
+
+## AI Tafsir
+
+**What this ayah teaches:** Third, they only have a share in the inheritance when the deceased's estate is inherited in 'Kalālah', for they do not have a share if the deceased has a surviving father, grandfather, child or grandchild.
+
+**Classical tafsir:** Ibn Kathir notes: In his Tafsir, Ibn Abi Hatim recorded that Ibn 'Abbas said, "I was among the last persons to see 'Umar bin Al-Khattab, and he said to me, 'What you said was the correct opinion.' I asked, 'What did I say?' He said, 'That 'Kalālah' refers to the person who has no child or parents.'" This is also the… This injunction appearing at the end of the Surah refers to Aini (real and full) brothers and sisters…
 ## Personal Reflections
 
 

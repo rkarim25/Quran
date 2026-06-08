@@ -118,6 +118,15 @@ Some reciters read the Ayah as,
 
 سَرِیّاً The literal meaning of the word سَرِی appearing in verse 24 is a small canal. Allah Ta’ ala caused a small stream to flow at the moment either by his direct command or through Sayyidna Jibra'il (علیہ السلام) . There are reports supporting both these probabilities. It is worth noting here that while describing the means to bring consolation to Sayyidah Maryam (علیہا السلام) water was mentioned first and then date as something to eat
 
+## AI Translation
+
+Shake the trunk of this palm toward you—it will drop fresh ripe dates upon you.
+
+## AI Tafsir
+
+**What this ayah teaches:** This is why 'Amr bin Maymun said, "Nothing is better for the woman confined in childbed than dried dates and fresh dates." Then he recited this noble Ayah.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

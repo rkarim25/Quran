@@ -181,6 +181,15 @@ Both the Moon and the Sun move
 
 Later in verse 5, it was said: كُلٌّ يَجْرِ‌ي لِأَجَلٍ مُّسَمًّى (each one of them moving for an appointed term.) This tells us that both the Sun and the Moon move. Scientific researches in astronomy and geology are not the subject of the noble Qur'an, or of any other scripture. But, it is obligatory to believe in whatever appears there as a corollary in this matter. Scientific findings, old or new, keep changing all the time. Qur'anic facts are changeless. Whatever the cited verse tells us - that the Sun and the Moon are both moving - believing in it is obligatory. Now, there remains the other matter - does the rising and setting of the Sun relate to the movement of the earth, or to the movement of these very planets? The Qur'an neither confirms nor rejects it. Hence, there is no hitch in accepting what experience or experiment bears out.
 
+## AI Translation
+
+He created the heavens and the earth for a purpose. He wraps the night around the day, and wraps the day around the night. He has subjected the sun and the moon, each orbiting for an appointed term. He is truly the Almighty, All-Forgiving.
+
+## AI Tafsir
+
+**What this ayah teaches:** Evidence of the Power and Oneness of Allah Allah tells us that He is the Creator of what is in the heavens and on earth, and what is between them.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

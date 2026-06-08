@@ -188,6 +188,19 @@ Surah Al-Hujurat
 
 Ends here
 
+## AI Translation
+
+Allah knows the unseen of the heavens and the earth. Allah sees everything you do.
+
+## AI Tafsir
+
+**Context:** According to Imam Baghawi, this verse was revealed in connection with the tribe of Banu Asad. A few members of that tribe came up to the Holy Prophet ﷺ in Madinah during a severe drought.
+
+**What this ayah teaches:** Verily, Allah is Forgiving, ar-Rahim.
+
+**Classical tafsir:** Ibn Kathir notes: "’ Iman", in the technical sense of Shari’ ah, refers to the belief by heart and thus connotes a firm and unshakable belief in the Oneness of Allah and in His ﷺ .
+
+**From the Sunnah:** There is a Difference between a Believer and a Muslim (Sahih Muslim) This is also demostrated in the Hadith of Jibril, peace be upon him, when he questioned the Prophet ﷺ about Islam, then Iman then Ihsan.
 ## Personal Reflections
 
 

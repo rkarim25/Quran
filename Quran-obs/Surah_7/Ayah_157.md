@@ -426,6 +426,17 @@ The Companion Mughirah ibn Shu'bah ؓ has reported in a Tradition that the compa
 
 This exemplary love and respect of the Holy Prophet ﷺ let them share a considerable part of prophetic perfection and enjoy the highest religious status next to the prophets.
 
+## AI Translation
+
+“ the ones who follow the Messenger, the unlettered Prophet, whose description they find in their Torah and the Gospel. He commands them to do good and forbids them from evil, permits for them what is lawful and forbids to them what is impure, and relieves them from their burdens and the shackles that bound them. those who believe in him, honour and support him, and follow the light sent down to him will be successful.”
+
+## AI Tafsir
+
+**Context:** The fourth quality of the Holy Prophet ﷺ mentioned in this verse is that they shall find him written in the Torah and the Injil (Evangel).
+
+**What this ayah teaches:** Those who follow the Messenger, the Prophet who can neither read nor write whom they find written of with them in the Tawrah and the Injil, – he commands them to do good; and forbids them from evil; he makes lawful for them the good things, and forbids them from the evil things, he releases them from their heavy burdens and from the fetters that were upon them.
+
+**Classical tafsir:** Ibn Kathir notes: The quality of being unlettered, therefore, may be a defect for others but for the Holy Prophet ﷺ it is a commendable attribute.2 1.-The author here, refers to a verse of the Holy Qur'an (2:23) throwing a challenge to the whole world to produce a surah (chapter) comparable to any…
 ## Personal Reflections
 
 

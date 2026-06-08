@@ -139,6 +139,17 @@ Given that the Holy Qur'an itself speaks of prostration as a mark of respect, on
 
 (3) Iblis had attained such a high degree in science and knowledge that he was called طاؤس الملأکہ Ta’ us al-Mala'ikah: "The Peacock Among the Angels." How did he, then, come to commit such a suicidal error? Some scholars say that it was because of his pride and vanity that Allah took back from him the wealth of knowledge and understanding, and hence he came to act like an ignorant fool. Others have suggested that his error was due to self-love and ambition. The famous commentary, 'Ruh al-Bayan' resolves the question by quoting a line of verse in Arabic which shows that once the aid of Allah has been withdrawn from a man, he can no longer save himself from sins, and all the effort he makes only serves to push him farther and farther into misguidance. May Allah, in his mercy, save all of us from such a fate! The commentary draws from it the conclusion that one should not be vain about one's learning or one's deeds or even about one's Iman ایمان (faith), for Iman ایمان is valid only if it lasts till one's final breath and into the first stage of one's journey to the other world.
 
+## AI Translation
+
+When We told the angels, "Prostrate before Adam," they all did — except Iblis, who refused, acted arrogantly, and became among those who reject.
+
+## AI Tafsir
+
+**What this ayah teaches:** And (remember) when We said to the angels: "Prostrate yourselves before Adam." And they prostrated except Iblis (Shaytan), he refused and was proud and was one of the those who reject the truth (disobedient to Allah).
+
+**Classical tafsir:** Ibn Kathir notes: Some scholars say that it was because of his pride and vanity that Allah took back from him the wealth of knowledge and understanding, and hence he came to act like an ignorant fool.
+
+**From the Sunnah:** With regard to the question of prostration, we may add that, according to some authentic scholars, Salah, the basic form of Islamic worship, comprises of four kinds of actions - standing upright, bowing, sitting down, and prostrating oneself; the first two of…
 ## Personal Reflections
 
 

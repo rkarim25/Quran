@@ -315,6 +315,15 @@ trial.
 
 (3) The most perfect who did not bother even about that.
 
+## AI Translation
+
+When Saul marched with his army, he said, "Allah will test you with a river. Whoever drinks his fill is not with me; whoever does not taste it — except a handful — is with me." They all drank except a few. When he and the faithful with him crossed, they said, "We have no strength today against Goliath and his forces." But those certain they would meet Allah said, "How often has a small band defeated a large army by Allah's will! Allah is with the steadfast."
+
+## AI Tafsir
+
+**What this ayah teaches:** This purpose was accomplished by this test, which is very appropriate, because steadfastness is necessary in fighting.
+
+**Classical tafsir:** Ibn Kathir notes: This purpose was accomplished by this test, which is very appropriate, because steadfastness is necessary in fighting.
 ## Personal Reflections
 
 

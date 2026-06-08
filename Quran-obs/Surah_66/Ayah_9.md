@@ -114,6 +114,15 @@ Sayyidna ` Ali ؓ was asked as to what is 'taubah' and he replied that it consis
 
 عَسَىٰ رَ‌بُّكُمْ أَن يُكَفِّرَ‌ عَنكُمْ (It is hoped from your Lord that he will write off your faults...66:8). The verb ` asa means 'it is hoped'. In this context, it purports to mean 'promise', but the expression of 'hope' is used to indicate that taubah or any other righteous deeds are not the just and equal price for the Paradise or the divine forgiveness. In fact, one compensation for man's good deeds has already been given to him in this world in the form of worldly blessings. Therefore, as regards the law of equality, it is not necessary that he is further compensated by the Jannah. It entirely depends on Divine grace and favour as is mentioned in a Hadith which says: 'Your actions alone cannot salvage you.' The Companions inquired: '0 Messenger of Allah, not even you?' He replied: 'No, not even me unless the Divine grace and mercy covers me.' [ Bukhari and Muslim as quoted by Mazhari ]
 
+## AI Translation
+
+O Prophet: strive against the those who reject the truth and the hypocrites, and be firm with them. Hell will be their home—what an evil destination.
+
+## AI Tafsir
+
+**What this ayah teaches:** Strive hard against the those who reject the truth and the hypocrites, and be severe against them; their abode will be Hell, and worst indeed is that destination (9)Allah sets forth an example for those who disbelieve: the wife of Nuh and the wife of Lut.
+
+**Classical tafsir:** Ibn Kathir notes: As for the wife of Prophet Lut, she used to inform the people of the city (Sodom), who committed the awful sexual act (sodomy), whenever a guest was entertained by her husband." Ad-Dahhak reported that Ibn 'Abbas said, "No wife of a Prophet ever committed adultery and fornication.
 ## Personal Reflections
 
 

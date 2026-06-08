@@ -142,6 +142,17 @@ This is the end of the Tafsir of Surat Ad-Dukhan. All praise and thanks are due 
 
 وَزَوَّجْنَاهُم بِحُورٍ‌ عِينٍ (We will marry them with houris having big dark eyes) - 44:54). The word tazwij originally means 'to make one person partner of another'. Later on it came to be utilised abundantly in the sense of 'marrying'. According to the second sense, the men of Paradise will be married technically to houris having big dark eyes. This is the apparent sense of verse (54). Although the inmates of Paradise will not be legally obligated to observe the precepts of Shari'ah, the purpose of marriage will be to honour them. Therefore, this should not raise any objection. If the word is taken in the first sense, houris having big dark eyes will be given as life partners to the men of Paradise. The houris in this case will be granted to them as a gift. There will be no need for a contract of marriage as is done in this world.
 
+## AI Translation
+
+There they will call for every fruit in serenity.
+
+## AI Tafsir
+
+**What this ayah teaches:** And We shall marry them to Hur (fair females) with wide lovely eyes (54)They will call therein for every kind of fruit in peace and security (55)They will never taste death therein except the first death, and He will save them from the torment of the blazing Fire (56)As a bounty from your Lord!
+
+**Classical tafsir:** Ibn Kathir notes: The word tazwij originally means 'to make one person partner of another'.
+
+**From the Sunnah:** It was reported in the Two Sahihs that the Messenger of Allah ﷺ said: Paradise and Hell, then it will be slaughtered.
 ## Personal Reflections
 
 

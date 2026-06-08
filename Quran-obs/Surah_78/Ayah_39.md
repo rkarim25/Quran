@@ -208,6 +208,15 @@ This is the end of the Tafsir of Surat An-Naba'. And all praise and thanks are d
 
 یوْمَ يَقُومُ الرُّ‌وحُ وَالْمَلَائِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّ‌حْمَـٰنُ وَقَالَ صَوَابًا (on the Day when the Spirit and the angels will stand in rows. They will not speak, except the one who is permitted by the Rahman [ the All-Merciful ] and speaks aright -78:38). Ruh (Spirit), according to some of the commentators, refers to the angel Jibra'il He has been mentioned before the other angels in general in order to show the greatness of his status. According to certain Prophetic traditions, Ruh is not an angel but a huge army of Allah. They have heads, hands and legs. In this interpretation, there will be two rows. One row will be that of Ruh and the other will be that of the angels.
 
+## AI Translation
+
+That Day is the ultimate truth. Let whoever wills take the path back to their Rabb.
+
+## AI Tafsir
+
+**What this ayah teaches:** And from the truth is the fact that there is no Allah worthy of worship except Allah.
+
+**Classical tafsir:** Ibn Kathir notes: He explains that He is the ar-Rahman, Whose mercy covers all things.
 ## Personal Reflections
 
 

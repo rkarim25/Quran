@@ -124,6 +124,15 @@ However, it is more plausible in the context that the knowledge he was referring
 
 أَوَلَمْ يَعْلَمْ أَنَّ اللَّـهَ قَدْ أَهْلَكَ مِن قَبْلِهِ (Did he not know that Allah had destroyed, from the generations before him...28:78). The real answer to Qarun's assertion that he had collected all his wealth by his personal skill and efforts is the one mentioned above; that even if it is accepted for a moment that he had acquired his wealth by his personal skill and knowledge, the point is that this knowledge and experience was also the gift of Allah Ta’ ala. But in order to bring home the more important aspect of the subject, the Qur'an has stated that the abundance of wealth is of no avail and is devoid of merit, nor does it help in distress. As a proof of that, the example of the wealthy from the earlier generations has been quoted, that when they disobeyed and rejected the truth, they were suddenly caught by the torment of Allah Ta’ ala.
 
+## AI Translation
+
+Then he came out before his people in all his glamour. Those who desired the life of this dunya wished, “If only we could have something like what Korah has been given. He is truly a man of great fortune!”
+
+## AI Tafsir
+
+**What this ayah teaches:** Some commentators are of the view that "knowledge" in this sentence refers to the understanding of Torah. How Qarun went forth in His Finery, and His People's Comments Allah tells us how Qarun went forth one day before his people with his magnificent regalia; wearing his fine clothes, accompanied by his fine horses, his servants and retinue.
+
+**Classical tafsir:** Ibn Kathir notes: Some commentators are of the view that "knowledge" in this sentence refers to the understanding of Torah.
 ## Personal Reflections
 
 

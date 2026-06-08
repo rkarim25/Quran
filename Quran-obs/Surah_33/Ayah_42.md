@@ -132,6 +132,17 @@ Imam Ahmad recorded that Anas, may Allah be pleased with him, said: "The Messeng
 
 وَسَبِّحُوهُ بُكْرَ‌ةً وَأَصِيلًا ("And proclaim His purity at morn and eve". 33:42) Here morning and evening may, metaphorically, mean all the time. Alternatively, morning and evening have been mentioned specifically to lay emphasis on carrying out dhikrullah during these times and to indicate that it carries more blessings - otherwise dhikrullah is neither specified nor limited to any particular time.
 
+## AI Translation
+
+and glorify Him morning and evening.
+
+## AI Tafsir
+
+**What this ayah teaches:** Remember Allah with much remembrance (41)And glorify His praises morning and Asila (42)He it is Who sends Salah on you, and His angels too, that He may bring you out from darkness into light.
+
+**Classical tafsir:** Ibn Kathir notes: His mercy towards them in the Hereafter means that He will save them from the greater terror (of the Day of Resurrection) and will command His angels to greet them with the glad tidings of Paradise and salvation from the Fire, which will only be because of His love for them and H…
+
+**From the Sunnah:** People such as An-Nasa'i and Al-Ma'mari and others have written books about the Adhkar to be recited at different times of the night and day. (Sunan an-Nasa'i) Allah's Salah means that He praises His servant before the angels, as Al-Bukhari recorded from Abu Al-'Aliyah. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

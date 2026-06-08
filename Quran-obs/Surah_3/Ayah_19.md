@@ -272,6 +272,17 @@ In verse 19: وَمَا اخْتَلَفَ الَّذِينَ أُوتُوا ا�
 
 Finally, it was said: وَمَن يَكْفُرْ‌ بِآيَاتِ اللَّـهِ فَإِنَّ اللَّـهَ سَرِ‌يعُ الْحِسَابِ that is, 'whoever denies the verses of Allah (as the people of the Book did), then, Allah is swift at reckoning'. The swiftness of this reckoning can be well imagined as it starts initially soon after death when man passes into the state known as 'barzakh برزخ '. But the detailed accounting for one's deeds shall take place on the Day of Judgment when he will have to account for his doings in the minutest detail. Then, the penchant for disputing truth will be exposed. The people who denied the truth will discover their worth and the punishment it calls for shall become known to them.
 
+## AI Translation
+
+Certainly, Allah’s only Way is Islam. Those who were given the Scripture did not dispute out of mutual envy until knowledge came to them. Whoever denies Allah’s signs, then surely Allah is swift in reckoning.
+
+## AI Tafsir
+
+**What this ayah teaches:** Islam is the Religion of Mankind and the Prophet (ﷺ) Was Sent to all Mankind Allah commanded His servant and Messenger, Muhammad ﷺ, to call the People of the Two Scriptures and the unlettered idolators to his religion, way, Law and all that Allah sent him with.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, after Allah sent Muhammad ﷺ, whoever meets Allah following a path other than Muhammad's, it will not be accepted of him.
+
+**From the Sunnah:** The Two Sahihs and other collections of Hadith recorded that the Prophet ﷺ sent letters to the kings of the earth during his time and to different peoples, Arabs and non-Arabs, People of the Book and the unlettered, just as Allah had commanded him.
 ## Personal Reflections
 
 

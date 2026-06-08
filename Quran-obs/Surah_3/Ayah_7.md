@@ -429,6 +429,17 @@ In another hadith, he said: I have three apprehensions about my people (ummah): 
 
 Who are the ones 'well grounded' in knowledge as identified towards the end of the verse وَالرَّ‌اسِخُونَ فِي الْعِلْمِ يَقُولُونَ آمَنَّا بِهِ ? Muslims scholars have offered different explanations in this connection. The weightier position is that the reference here is to ahl al-sunnah wa al jama’ ah اہل السنۃ والجماعت ، the main body of Muslims who give credence only to that interpretation and explanation of the Holy Qur'an and Sunnah which has been authentically reported from the blessed Companions ؓ ، the righteous generations following them and upon which there is the consensus of the Muslim community, and who believe that the Muhhamat (verses of established meaning) of Qur'an are its axis and centre, and who, humbly confessing their limitations of knowledge and insight, leave to Allah the real meanings of Mutashabihat متشبھات which are beyond their compre-hension and conceptualization. They are never proud of their knowledge, howsoever perfect it may be, nor of the strength of their faith. In-stead of that, they constantly pray to Allah seeking steadfastness from Him, and His grace and mercy. They do not have mischief-prone temperaments which would instigate them to follow Mutashabihat متشبھات alone as the object of their intellectual pursuit. They take both, the Muhkamat محکمات and the Mutashabihat متشبھات ، to be the truth because they firmly believe that both kinds of verses have emanated from one single source. But, the need to find out the meanings of the Muhkamat محکمات was, of course, useful and essential for us. This Allah Almighty has not kept secret. The meanings of such verses have been made very open and clear. Since Allah Almighty has elected not to disclose the meanings of Mutashabihat متشبھات to us due to some wise consideration of His, it is simply not necessary for us to find it out. That we believe in them as they are is quite sufficient. (Abridged from Mazhari)
 
+## AI Translation
+
+He is the One Who has revealed to you the Book, of which some verses are precise—they are the foundation of the Book—while others are elusive. Those with deviant hearts follow the elusive verses seeking doubt through their interpretations—but none grasps their meaning except Allah. As for those well-grounded in knowledge, they say, “We believe in these verses—it is all from our Rabb.” But none will be mindful except people of reason.
+
+## AI Tafsir
+
+**Context:** Moving from the affirmation of the principle of Allah's Oneness, the text now answers some doubts raised against it. As stated briefly a little earlier, this verse was revealed in a specific background.
+
+**What this ayah teaches:** Through this verse, Allah Almighty has put an end to these doubts by saying that such expressions are in the category of Mutashabihat where the outward meaning is not intended; they are, rather, a secret between Allah and His Messenger, the reality of which cannot become manifest to others for whom it is not even appropriate to go about determining the possible meanings of thes…
+
+**Classical tafsir:** Ibn Kathir notes: On the Day (Day of Resurrection) it's Ta'wil is finally fulfillled.)(7:53) refers to the true reality of Resurrection that they were told about.
 ## Personal Reflections
 
 

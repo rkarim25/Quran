@@ -154,6 +154,17 @@ Surah Shura
 
 ends here.
 
+## AI Translation
+
+the Path of Allah, to Whom belongs whatever is in the heavens and whatever is on the earth. Surely to Allah all matters will return for judgment.
+
+## AI Tafsir
+
+**What this ayah teaches:** And verily, you are indeed guiding to a straight path (52)The path of Allah to Whom belongs all that is in the heavens and all that is on the earth.
+
+**Classical tafsir:** Ibn Kathir notes: How the Revelation comes down This refers to how Allah sends revelation.
+
+**From the Sunnah:** Sometimes He casts something into the heart of the Prophet ﷺ, and he has no doubt that it is from Allah, as it was reported in Sahih Ibn Hibban that the Messenger of Allah ﷺ said: (Sahih Ibn Hibban) In the Sahih, it recorded that the Messenger of Allah ﷺ said to Jabir bin 'Abdullah, may Allah be pleased with him:
 ## Personal Reflections
 
 

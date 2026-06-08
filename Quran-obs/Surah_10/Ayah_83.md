@@ -128,6 +128,17 @@ As for the good news in this world, the Holy Prophet ﷺ said, `(they are) the t
 
 Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. About it, the Holy Prophet ﷺ said: تِلکَ عَاجِلُ بشرَی المؤمِن that is, ` being taken as good and praiseworthy is, for a true Muslim, good news in ready cash.' (Muslim and al-Baghawi)
 
+## AI Translation
+
+But no one believed in Moses except a few youths of his people, while fearing that Pharaoh and their own chiefs might persecute them. And certainly Pharaoh was a tyrant in the land, and he was truly a transgressor.
+
+## AI Tafsir
+
+**What this ayah teaches:** But none believed in Musa except the offspring of his people, because of the fear of Fir'awn and his chiefs, lest they should persecute them; and verily, Fir'awn was an arrogant tyrant on the earth, he was indeed one of the transgressors .
+
+**Classical tafsir:** Ibn Kathir notes: But none believed in Musa except the offspring of his people, because of the fear of Fir'awn and his chiefs, lest they should persecute them; and verily, Fir'awn was an arrogant tyrant on the earth, he was indeed one of the transgressors .
+
+**From the Sunnah:** Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. (Sahih Muslim)
 ## Personal Reflections
 
 

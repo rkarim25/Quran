@@ -239,6 +239,15 @@ Said in the sixth verse (49) is: أَهَـٰؤُلَاءِ الَّذِينَ �
 
 Explaining this, Sayyidna ` Abdullah ibn ` Abbas ؓ says: When the questions and answers between the people of A` raf and the people of Paradise and Hell both will be over, that will be the time when the Lord of all the worlds will address the people of Hell and tell them about the people of A` raf that they swore that the people of A` raf will not be forgiven their sins and mercy will not be shown to them. Then, there comes an immediate declaration of His mercy when the people of A` raf will be told: Go and enter the Paradise. You should have no fear of what had happened in the past nor should you have any anxiety about the future. (Ibn Kathir)
 
+## AI Translation
+
+Do they only await the fulfilment ? The Day it will be fulfilled, those who ignored it before will say, “The messengers of our Rabb certainly came with the truth. Are there any intercessors who can plead on our behalf? Or can we be sent back so we may do unlike what we used to do?” They will have certainly ruined themselves, and whatever they fabricated will fail them.
+
+## AI Tafsir
+
+**What this ayah teaches:** Certainly, We have brought to them a Book (the Qur'an) which We have explained in detail with knowledge, a guidance and a mercy to a people who believe (52)Await they just for the final fulfillment of the event? But if they were returned (to the world), they would certainly revert to that which they were forbidden.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

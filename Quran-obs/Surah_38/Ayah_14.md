@@ -76,6 +76,15 @@ It was also said that they asked for their share of Paradise to be hastened, if 
 
 أُولَـٰئِكَ الْأَحْزَابُ (They were the [ strong ] groups. - 38:13) One explanation of this statement is that it is the description of the word 'groups' in verse 11. In other words, 'these are the groups or Confederates that have been pointed out in this verse.' Maulana Thanavi (رح) has gone by this Tafsir in his explanation of the verse. But, other commentators explain it in the sense that actually they were the groups that were really strong, not these people of Makkah. In other words, those who possessed real strength and power were the people of Nuh and ` Ad and Thamud and others like them. Compared with them, the Mushrihs of Makkah were nothing. When such powerful people could not escape Divine punishment, they would hardly count. (Qurtubi)
 
+## AI Translation
+
+Each community rejected its messenger, so My punishment was fully justified.
+
+## AI Tafsir
+
+**What this ayah teaches:** It was also said that they asked for their share of Paradise to be hastened, if it really existed, so that they might have their share in this world; they said this because they thought it unlikely to exist and they disbelieved in it.
+
+**Classical tafsir:** Ibn Kathir notes: Qitt refers to a book or record, or it was said that it means one's allotted share or fortune.
 ## Personal Reflections
 
 

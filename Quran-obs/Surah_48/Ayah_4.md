@@ -150,6 +150,17 @@ Bounties of Allah upon the Participants of Hudaibiyah
 
 In the first three verses of this Surah, reference was made to Allah's particular bounties bestowed upon the Holy Prophet ﷺ in the wake of the manifest victory. Some of the participants of Hudaibiyah congratulating the Holy Prophet ﷺ ، asked him that the favours are conferred exclusively upon him, but what is there in it for them? In response to this query, verses 4-7 were revealed. They distinctly refer to the good graces of Allah upon the participants of Hudaibiyah and the Pledge of Ridwan. These favours were generously bestowed upon them because of faith in, and obedience to, the Holy Prophet ﷺ . All believers whose faith and obedience are complete and perfect will receive similar good graces of Allah.
 
+## AI Translation
+
+He is the One who sent tranquillity into the hearts of the mu'min so their iman would grow. To Allah belong the forces of the heavens and the earth. Allah is All-Knowing, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** Qatadah commented, "Grace into the hearts of the believers", that is, the Companions, may Allah be pleased with them, on the Day of Al-Hudaybiyyah.
+
+**Classical tafsir:** Ibn Kathir notes: These favours were generously bestowed upon them because of faith in, and obedience to, the Holy Prophet ﷺ .
+
+**From the Sunnah:** Al-Bukhari, and other Imams, relied on this Ayah as proof that faith increases and decreases in the hearts. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

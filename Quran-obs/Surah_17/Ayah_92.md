@@ -168,6 +168,17 @@ A prophetic answer to hostile questions sounding absurd
 
 The questions asked and the demands made in these verses from the Holy Prophet ﷺ were virtually conditions on the fulfillment of which his antagonists were supposed to believe. These conditions are such that anyone who hears them would find them nothing but some sort of weird mockery and certainly a very absurd excuse for not believing. While having to respond to such questions, one becomes naturally angry and retorts in the same manner. But, the answer that Allah Ta’ ala taught His prophet ﷺ to give against their impertinent questions reported in this verse is something significant for everyone. Particularly so, for the leaders and reformers of the Muslim community who would do well to always remember it making it a regular feature of their work among people. Is it not that, in answer to all that, nothing was said about their lack of sense, nor mention was made of their hostile mischief, nor there was any verbal duel fought against them? Instead, the truth of the matter was made clear to them in very simple words. In effect, they were told: Perhaps, you think that a person who comes as a messenger of Allah should also be the possessor of all Divine powers and should be able to control everything. This is a mistaken notion. The duty of a Messenger of Allah ﷺ is only to convey the Divine message. It is a different matter that Allah would also send many miracles to prove the veracity of the mission of His apostles, prophets and messengers. But, that takes place exclusively with the power and under the control of Allah Ta’ ala. A rasul (messenger) is not given Divine powers. He is a human being and is never outside the framework of human power - except that Allah Ta` ala alone were to manifest His great subduing power to help him.
 
+## AI Translation
+
+or cause the sky to fall upon us in pieces, as you have claimed, or bring Allah and the angels before us, face to face,.
+
+## AI Tafsir
+
+**Context:** (My case is not as you say. I have not brought what I have brought to you because I want your wealth or to be your leader or king.
+
+**What this ayah teaches:** If you accept what I have brought to you, then this is your good fortune in this world and the Hereafter, but if you reject it, I shall wait patiently for the command of Allah until Allah judges between me and you.) or words to that effect.
+
+**Classical tafsir:** Ibn Kathir notes: So he came and sat with them, and they said, 'O Muhammad, we have sent for you so that nobody will think we are to blame.
 ## Personal Reflections
 
 

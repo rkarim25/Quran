@@ -194,6 +194,15 @@ Commentary
 
 2. The second quality of Sayyidna Yahya (علیہ السلام) has been described by the word, حَصُورً 'hasur' translated here as 'abstinent'. It means that he was very particular about keeping himself shielded from temptations, that is, from things one habitually enjoys. When we say one abstains from enjoyments of life, the statement includes abstinence even from fulfilling the desires of things allowed, for example, good food, good dress and marital life and things like these. Since the quality of abstinence has been mentioned here in a positive frame of reference, it obviously seems to suggest that this is the better way, although ahadith prove the higher merit of living in the bond of marriage. In this situation, the considered opinion is that one whose condition is similar to that of Sayyidna Yahya (علیہ السلام) and who is so absorbed in the thought of his life-to-come that he feels no need to have a wife nor has the time and frame of mind to fulfil the rights of his wife and children, then, for such a person this is the better choice. It is because of this particular reason that ahadith which describe the merit of marriage come up with a restrictive clause as well, that is, مَنِ استطاع منکم الباءَۃ which means that one who can marry and is capable of fulfilling the due rights of his wife, should marry, for this is better for him; otherwise, he is not ad-vised to marry. (Bayern al-Qur'n)
 
+## AI Translation
+
+So the angels called out to him while he stood praying in the sanctuary, “Allah gives you good news of John who will confirm the Word of Allah and will be a great leader, chaste, and a prophet among the righteous.”
+
+## AI Tafsir
+
+**What this ayah teaches:** The Supplication of Zakariyya, and the Good News of Yahya's Birth When Zakariyya saw that Allah provided sustenance for Maryam by giving her the fruits of winter in summer and the fruits of summer in winter, he was eager to have a child of his own.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, Ath-Thawri and Ad-Dahhak said that Sayyidan means, "The noble, wise and pious man." Sa'id bin Al-Musayyib said that Sayyid is the scholar and Faqih. 'Ikrimah said that it refers to a person who is not overcome by anger, while Ibn Zayd said that it refers to the noble man.
 ## Personal Reflections
 
 

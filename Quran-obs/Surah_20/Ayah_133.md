@@ -160,6 +160,19 @@ This is the end of the Tafsir of Surah Ta Ha, and all praise and gratitude is du
 
 أَوَلَمْ تَأْتِهِم بَيِّنَةُ مَا فِي الصُّحُفِ الْأُولَىٰ (Has there not come to them the manifestation of that which was contained in the earlier scriptures? - 20:133) It means that all the old Revealed Books such as the Torah, the Injil (Evangel) and the scriptures given to Sayyidna Ibrahim (علیہ السلام) bear a witness to the prophethood of the last Prophet Muhammad ﷺ . Is not all this sufficient evidence for those who persist in their denial of his prophethood?
 
+## AI Translation
+
+They demand, “If only he could bring us a sign from his Rabb!” Have they not already received a confirmation of what is in earlier Scriptures?
+
+## AI Tafsir
+
+**Context:** (Has there not come to them the proof of that which is in the former papers (Scriptures)?) This means the Qur'an which Allah revealed to him while he was an unlettered man who could not write well and who did not study w…
+
+**What this ayah teaches:** That which I have been given is a revelation that Allah has revealed to me, so I hope that I have the most followers among them (the Prophets) on the Day of Resurrection.) In this Hadith, the Prophet ﷺ only mentioned the greatest of the signs that he was given, which is the Qur'an.
+
+**Classical tafsir:** Ibn Kathir notes: It verifies what is correct and explains the mistakes that were falsely placed in these Books and attributed to them.
+
+**From the Sunnah:** In this Hadith, the Prophet ﷺ only mentioned the greatest of the signs that he was given, which is the Qur'an.
 ## Personal Reflections
 
 

@@ -172,6 +172,15 @@ In the next verse: وَمِن كُلٍّ تَأْكُلُونَ لَحْمًا �
 
 By using the masculine form in the last word: تَلْبَسُونَهَا (talbasunaha: that you wear), a hint is being released that the use of pearls is permissible for men as well - contrary to gold and silver, the use of which as an ornament is not permissible for men. (Ruh-ul-Ma’ ani)
 
+## AI Translation
+
+The two bodies of water are not alike: one fresh, sweet, pleasant to drink; the other salty and bitter. Yet from both you eat tender seafood and extract ornaments to wear. You see ships ploughing through both, so you may seek His bounty and give shukr.
+
+## AI Tafsir
+
+**What this ayah teaches:** And the two seas (kinds of water) are not alike: this is palatable, sweet and pleasant to drink, and that is salty and bitter.
+
+**Classical tafsir:** Ibn Kathir notes: The fresh, palatable sea (kind of water) refers to the rivers which flow among people, rivers great and small according to people's needs in all regions and areas and lands.
 ## Personal Reflections
 
 

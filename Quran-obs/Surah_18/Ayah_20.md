@@ -134,6 +134,17 @@ Rulings
 
 If a group of people shares food, it is permissible - though, individual food intake usually differs with one eating less while the other, more.
 
+## AI Translation
+
+For, indeed, if they find out about you, they will stone you to death, or force you back into their faith, and then you will never succeed.”
+
+## AI Tafsir
+
+**What this ayah teaches:** So send one of you with this silver coin of yours to the town, and let him find out which is the Azka food, and bring some of that to you.
+
+**Classical tafsir:** Ibn Kathir notes: The definite article indicates that they were referring to a known city.
+
+**From the Sunnah:** The execution of the culprit was to remain public with everyone joining in so that two things were ensured - let that disgrace be at collective level, and let all Muslims express their wrath practically so that no one dares repeat this act of shame among them.
 ## Personal Reflections
 
 

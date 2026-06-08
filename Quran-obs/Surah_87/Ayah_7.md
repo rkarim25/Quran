@@ -281,6 +281,19 @@ While Allah made the Holy Prophet ﷺ remember all of the Qur'an, there were cer
 
 Some scholars interpret the exceptive sentence 'except that which Allah wills' differently. They say that for some reason Allah blots out temporarily a verse from Holy Prophet's ﷺ memory, but he may remember it again, in support of which the following narrative may be adduced: One day the Holy Prophet ﷺ recited a Surah, but omitted one of the verses. Sayyidna Ubayy Ibn Ka` b ؓ ، one of the Prophet's scribes, was present. He thought it might have been abrogated. On inquiry, the Holy Prophet said that it was not abrogated, but that it was omitted by mistake. [ Qurtubi ]. In this interpretation, it may be summarised that forgetting a verse temporarily, and then remembering it again, does not go against the promise made in this verse. [ In fact, it is an exception from this promise.] Allah knows best!
 
+## AI Translation
+
+except what Allah wills. He knows what is open and what is hidden.
+
+## AI Tafsir
+
+**Context:** This Surah was revealed in Makkah before the migration to Al-Madinah. The proof of this is what Al-Bukhari recorded from Al-Bara' bin 'Azib, that he said, "The first people to come to us (in Al-Madinah) from the Companio…
+
+**What this ayah teaches:** Except what Allah may will He knows what is apparent and what is hidden.)(8.
+
+**Classical tafsir:** Ibn Kathir notes: We shall make you recite, so you shall not forget,)(7.
+
+**From the Sunnah:** Then 'Umar bin Al-Khattab came with a group of twenty people, after which the Prophet ﷺ came. (Sahih al-Bukhari) It has been confirmed in the Two Sahihs that the Messenger of Allah ﷺ said to Mu'adh,
 ## Personal Reflections
 
 

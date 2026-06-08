@@ -94,6 +94,17 @@ There is a narration that states, "Record knowledge by writing." There is also a
 
 Verse [ 3] اقْرَ‌أْ وَرَ‌بُّكَ الْأَكْرَ‌مُ (Read, and your Lord is the most gracious.) The command iqra' [ Read ] has been repeated in this verse for two reasons: The first command in verse [ 1] was for the Holy Prophet himself to read or recite. The second command in this verse is to proclaim, convey, communicate and teach or preach. It is not inconceivable that the command iqra' is repeated by deliberate design for emphasis. The Divine attribute al-Akram 'the Most Gracious' signifies that Allah did not create the world or man for any ulterior motive, for selfish motivation or for His own benefit. He has done it out of His infinite grace, generosity and magnanimity. He endowed upon the universe the great favour of existence without asking for it.
 
+## AI Translation
+
+Read! And your Rabb is the Rahman—mercy that encompasses all creation in this life—
+
+## AI Tafsir
+
+**What this ayah teaches:** And your Lord is the Most Generous.)(4.
+
+**Classical tafsir:** Ibn Kathir notes: He has created man from a clot.)(3.
+
+**From the Sunnah:** that 'A'ishah said: The first thing that began happening with the Messenger of Allah ﷺ from the revelation was dreams that he would see in his sleep that would come true. (Musnad Ahmad) He died and the revelation paused until Allah's Messenger ﷺ became sad according to what we were told.
 ## Personal Reflections
 
 

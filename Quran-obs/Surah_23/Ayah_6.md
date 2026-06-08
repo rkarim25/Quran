@@ -230,6 +230,17 @@ The third attribute is Zakah which, literally means "to purify" but in religious
 
 Forth Attribute is guarding ones private parts against unlawful liaison. وَالَّذِينَ هُمْ لِفُرُ‌وجِهِمْ حَافِظُونَ إِلَّا عَلَىٰ أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ (And who guard their private parts except from their wives or from those (slave-girls) owned by their right hands - 23:5, 6). They satisfy their needs with their wives and their legal bondmaids according to the prescribed laws and avoid unlawful liaison. About these people the Qur'an says فَإِنَّهُمْ غَيْرُ‌ مَلُومِينَ (Because they are not liable to blame - 23:6), which also means that the sexual desire must be kept under strict control and must not be allowed to become a means of gratification of one's passions.
 
+## AI Translation
+
+except with their wives or those bondwomen in their possession, for then they are free from blame,
+
+## AI Tafsir
+
+**Context:** (And those who pay the Zakah.) Most commentators say that the meaning here is the Zakah that is paid on wealth, even though this Ayah was revealed in Makkah, and Zakah was ordained in Al-Madinah in the year 2 H.
+
+**What this ayah teaches:** Hakim ul-Ummah has written in Bayan ul-Qur'an that while Khushu' is not a necessary condition for the validity of the prayers, yet it is an essential element for the acceptance of the prayers by Allah and from this point of view it is obligatory.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Their Khushu' was in their hearts." So they lowered their gaze and were humble towards others.
 ## Personal Reflections
 
 

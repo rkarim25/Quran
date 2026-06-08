@@ -199,6 +199,17 @@ The call given by Sayyidna ` Abdullah ibn ` Abbas ؓ ran through the battlefield
 
 The same subject has been taken up in the first (25) and second (26) verses. The gist of what was said there is: ` when you waxed proud of your numbers, it did not work for you and you found yourself all cornered as if the earth was straitened for you despite its vastness. Then, you showed your backs and ran. Then, Allah Ta` ala sent down upon you His tranquility - sending forces of angels for His Messenger and the believers with him, something you did not see. Thus, the disbelievers were punished at your hands.'
 
+## AI Translation
+
+Indeed Allah has given you victory on many battlefields, even at the Battle of Ḥunain when you took pride in your great numbers, but they proved of no advantage to you. The earth, despite its vastness, seemed to close in on you, then you turned back in retreat.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah then sent down His aid and support to His Messenger ﷺ and the believers who remained with him, so that they were aware that victory is from Allah alone and through His aid, even if the victorious were few.
+
+**Classical tafsir:** Ibn Kathir notes: This indicates the tremendous trust in Allah and reliance upon Him, as well as, sure knowledge that He will give him victory, complete what He has sent him for and give prominence to his religion above all other religions.
+
+**From the Sunnah:** On the day of Hunayn, the Muslims were proud because of their large number, which did not avail them in the least; they retreated and fled from battle. After the Prophet ﷺ conquered Makkah and things settled, most of its people embraced Islam and he set them free.
 ## Personal Reflections
 
 

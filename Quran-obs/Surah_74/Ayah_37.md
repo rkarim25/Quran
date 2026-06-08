@@ -124,6 +124,17 @@ Allah says,
 
 لِمَنْ شَاۗءَ مِنْكُمْ اَنْ يَّتَقَدَّمَ اَوْ يَتَاَخَّرَ (to the one who wishes to come forward [ towards good deeds ] or to go back [ from them ]...74:37) In this context, 'to come forward' signifies 'coming forward towards faith and obedience' and ta'akhkhur 'to go backward' signifies 'moving away from faith and obedience'. The verse purports to warn against the torment and torture of the Hellfire. This applies to all human beings in general. Some accept the warning and are guided by the truth, and the unfortunate ones hold back from accepting the warning, turn away from it and reject it.
 
+## AI Translation
+
+for whoever among you chooses to advance or hang back.
+
+## AI Tafsir
+
+**What this ayah teaches:** This is so that one does not make the mistake of thinking that they are only nineteen in all.
+
+**Classical tafsir:** Ibn Kathir notes: This is so that one does not make the mistake of thinking that they are only nineteen in all.
+
+**From the Sunnah:** It has been confirmed in the Hadith concerning Al-Isra' that is reported in the Two Sahihs and other collections, that the Messenger of Allah ﷺ said in describing the Frequented House (Al-Bayt Al-Ma'mur), which is in the seventh heaven,
 ## Personal Reflections
 
 

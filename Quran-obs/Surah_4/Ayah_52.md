@@ -218,6 +218,15 @@ Rulings:
 
 Literally, La'nah means being far removed from the mercy of Allah. In the terminology of the Shari’ ah, when applied to disbelievers, it refers to their being far far off from the mercy of Allah; and when it is applied to Muslims, it refers to their having fallen down the level of the righteous (reported by Shami from a1-Quhistani, v.2, p.836). Therefore, praying that the good deeds of a Muslim may decrease is also not permissible.
 
+## AI Translation
+
+It is they who have been condemned by Allah. And whoever is condemned by Allah will have no helper.
+
+## AI Tafsir
+
+**Context:** (Have you not seen those who claim sanctity for themselves?) was revealed about the Jews and Christians when they said, 'We are Allah's children and His loved ones.'" Ibn Zayd also said, "This Ayah was revealed concernin…
+
+**What this ayah teaches:** Allah's Curse on the Jews This Ayah [4:52] contains a curse for the Jews and informs them that they have no supporter in this life or the Hereafter, because they sought the help of the idolators.
 ## Personal Reflections
 
 

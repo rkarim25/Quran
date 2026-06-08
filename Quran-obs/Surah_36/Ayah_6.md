@@ -107,6 +107,17 @@ The word: آباء (fathers) in verse 6: لِتُنذِرَ‌ قَوْمًا م
 
 Since the coming of their patriarch, Sayyidna Ibrahim علیہ السلام and with him, Sayyidna Isma'il (علیہ السلام) no prophet had appeared among the Arabs for several centuries, even though, the work of calling people to the true faith with warnings and glad tidings kept going on as mentioned in the verse of the Qur'an:' وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ‌ (and there was no community without a warner having passed among them - 35:24) also confirms the same truth - that Divine mercy has never kept any nation or community deprived of the essential call and warning at any time and in any region. But, it is obvious that teachings of prophets when communicated by their deputies do not bring about the same effect as it is witnessed when the prophets do it in person. Therefore, in the present verse, it was said about the Arabs that no warner came to them. As fall out of this situation, there was no regular system of education in Arabia where people could learn and teach which was why they came to be called: أُمِّيِّينَ (ummiyyun: the unlettered ones).
 
+## AI Translation
+
+so that you may warn a people whose forefathers were not warned, and so are heedless.
+
+## AI Tafsir
+
+**What this ayah teaches:** In order that you may warn a people whose forefathers were not warned, so they are heedless.)(7. Sent down by the Almighty, the ar-Rahim,)(6.
+
+**Classical tafsir:** Ibn Kathir notes: Sent down by the Almighty, the ar-Rahim,)(6.
+
+**From the Sunnah:** We have already mentioned the Ayat and Mutawatir Hadiths which state that the mission of the Prophet ﷺ is universal, when we discussed the meaning of the Ayah:
 ## Personal Reflections
 
 

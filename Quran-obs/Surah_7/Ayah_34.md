@@ -98,6 +98,15 @@ In other words, what is being said here is that those committing excesses who, d
 
 As for the appointed time not being late or early as stated in this verse, it is a manner of saying, something like saying to a salesperson in a store: at is your last price, more or less? It is obvious that the inquiry is for the lower price, not the higher. But, it is put there as a subordinate suffix. Similarly, the real objective here is to state that there will be no delay after the appointed time. The mention of ` before' along with ` late' makes it closer to common comprehension.
 
+## AI Translation
+
+For each community there is an appointed term. When their time arrives, they can neither delay it for a moment, nor could they advance it.
+
+## AI Tafsir
+
+**What this ayah teaches:** And every Ummah has its appointed term; when their term comes, neither can they delay it nor can they advance it an hour (or a moment)(34)O Children of Adam! Similarly, the real objective here is to state that there will be no delay after the appointed time.
+
+**Classical tafsir:** Ibn Kathir notes: The third verse (34) describes their sad end and the punishment they would have in the Hereafter.
 ## Personal Reflections
 
 

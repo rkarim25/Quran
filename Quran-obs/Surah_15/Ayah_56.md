@@ -84,6 +84,15 @@ From verse 48: لَا يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَ�
 
 As for the third probability, that the blessings of Jannah may remain everlasting, nor one is expelled from there, but one may himself get bored by living there and wish to go out, the Qur’ an has demolished this probability in one sentence of Surah Al-Kahf with the following words: لَا يَبْغُونَ عَنْهَا حِوَلًا (That is, these people too would never seek to return from there - 18:108).
 
+## AI Translation
+
+He exclaimed, “Who would despair of the mercy of their Rabb except the misguided?”
+
+## AI Tafsir
+
+**What this ayah teaches:** In fact, even a state of total rest and fun would sometimes tire a person out, no matter how enjoyable are things one is occupied with. These blessings shall never diminish nor shall anyone be expelled from there.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

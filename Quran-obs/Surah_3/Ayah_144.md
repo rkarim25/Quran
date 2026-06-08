@@ -282,6 +282,17 @@ And Muhammad is but a messenger, there have been messengers before him. So, if h
 
 Here, Muslims are being warned that the Messenger of Allah ﷺ . is going to leave this mortal world on one or the other day but they have to hold on to the Faith firmly after him as well, in the same measure as they did during his blessed times. From here, we also come to know that the injury caused to the Holy Prophet ﷺ during that temporary setback and the news of his passing away on the battlefield was concealed divine arrangement through which all that could happen to the noble Companions ؓ after him was revealed during his very life-time so that any slip in their conduct of affairs could be corrected in the very words of the Holy Prophet ﷺ as a result of which it could be ensured that these ardent lovers and devotees of the Messenger of Allah ﷺ do not lose their coolness under exacting conditions, especially when this event of the passing away of the Messenger of Allah ﷺ does actually take place. This is exactly what happened later on when the noble Companions ؓ ، even the greatest among them, were overwhelmed with the severest emotional shock at the time of his passing away. At this juncture, it was Sayyidna Abu Bakr ؓ ، may Allah be pleased with him, who used the authority of Qur'anic verses such as these to explain the situation to them as a result of which all of them were able to accept the truth and control their emotions.
 
+## AI Translation
+
+Muḥammad is no more than a messenger; other messengers have gone before him. If he were to die or to be killed, would you regress into rejection of the truth? Those who do so will not harm Allah whatsoever. And Allah will reward those who are grateful.
+
+## AI Tafsir
+
+**What this ayah teaches:** Muhammad is no more than a Messenger, and indeed Messengers have passed away before him. Therefore they were addressed on their retreating away from the battlefield in a fashion similar to what it would have been, had they deserted the fold of Islam.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the Muslims' resolve was weakened and they did not actively participate in battle.
+
+**From the Sunnah:** When Muslims suffered defeat in battle at Uhud and some of them were killed, Shaytan shouted, "Muhammad has been killed." Ibn Qami'ah went back to the idolators and claimed, "I have killed Muhammad." Some Muslims believed this rumor and thought that the Messen… This story was collected by Al-Hafiz Abu Bakr Al-Bayhaqi in Dala'il An-Nubuwwah.
 ## Personal Reflections
 
 

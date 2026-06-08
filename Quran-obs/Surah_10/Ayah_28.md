@@ -197,6 +197,17 @@ All affairs and matters will be brought back to Allah, the Judge, the All-Just. 
 
 In the two verses (27, 28) appearing next, there is a dialogue between the people of Jahannam and the idols or satans who had led them astray. The locale will be the plain of Resurrection. It was said: On that day, We shall gather everyone. Then, to the Mushriks We shall say that, ` you and your gods whom you had associated' with Us in Our divinity stay in your places where you are, so that you can find out the reality of your conviction.' After that, the connection between these people and their so-called gods as it existed in the mortal world will be disconnected. The result will be that their idols will speak up: ` you never worshipped us.' Making Allah their witness, they will say, ` as for us, we were certainly unaware of your worship' - because we have no senses, no movement and no intelligence to understand these matters.
 
+## AI Translation
+
+Consider the Day We will gather them all together then say to those who associated others with Allah in worship, “Stay in your places—you and your associate-gods.” We will separate them from each other, and their associate-gods will say, “It was not us that you worshipped!
+
+## AI Tafsir
+
+**What this ayah teaches:** Then, to the Mushriks We shall say that, ` you and your gods whom you had associated' with Us in Our divinity stay in your places where you are, so that you can find out the reality of your conviction.' After that, the connection between these people and their so-called gods as it existed in the mortal world will be disconnected. This refers to the partners responding to those who worshipped them.
+
+**Classical tafsir:** Ibn Kathir notes: Then, to the Mushriks We shall say that, ` you and your gods whom you had associated' with Us in Our divinity stay in your places where you are, so that you can find out the reality of your conviction.' After that, the connection between these people and their so-called gods as i…
+
+**From the Sunnah:** intercede to Allah so the Final Judgement may come and they get rid of that state.
 ## Personal Reflections
 
 

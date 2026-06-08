@@ -116,6 +116,19 @@ This event appears in Ruh al-Ma'ani as narrated by Ibn Ishaq while there are oth
 
 The expression وَمَن يَعْتَصِم بِاللَّـهِ ,'translated as 'And whoever holds on to Allah' means one who stays firm in, and totally committed to, his ایمان 'iman or faith, for اعتصام 'i` tisam', the act of holding on to Allah firmly, denotes that one should affirm His Being and His Attributes, be staunchly faithful to what He has ordained, and in the process, be sure not to be lured into supporting the position of any adversary whoever that may be. One who acts in this manner 'is surely guided to the straight path'. It means that such a person is on the 'straight path', and being on the 'straight path' is the key to all that is good and beneficial which the Word of Allah promises to him.
 
+## AI Translation
+
+Say, “O People of the Book! Why do you turn those who have iman away from the Way of Allah—striving to make it crooked, while you are witnesses ? And Allah is never unaware of what you do.”
+
+## AI Tafsir
+
+**Context:** They took the warning to their hearts. They knew this was a slip caused by شیطان Satan. They embraced each other, wept and repented. These verses were revealed in the background of this event.
+
+**What this ayah teaches:** Why do you reject the Ayat of Allah, while Allah is Witness to what you do?
+
+**Classical tafsir:** Ibn Kathir notes: It means that such a person is on the 'straight path', and being on the 'straight path' is the key to all that is good and beneficial which the Word of Allah promises to him.
+
+**From the Sunnah:** There was a Jew, Shammas ibn Qays, who harboured a chronic malice against Muslims. Here, the verses begin with an admonition to the people of the Book who had engineered this in triage, and this admonition has been done with great eloquence when, before admonishing them for what they did, they were taken to task for their disbelief as well,…
 ## Personal Reflections
 
 

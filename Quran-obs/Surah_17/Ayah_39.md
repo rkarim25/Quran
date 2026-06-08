@@ -117,6 +117,17 @@ A gist of Torah in fifteen verses
 
 Sayyidna ` Abdullah ibn ` Abbas ؓ said that the commandments of the entire Torah have been reduced to fifteen verses of Surah Bani Isra'il. (Mazhari)
 
+## AI Translation
+
+This is part of the wisdom which your Rabb has revealed to you O Prophet. And do not set up anything else besides Allah with Allah O humanity, or you will be cast into Hell, blameworthy, rejected.
+
+## AI Tafsir
+
+**Context:** This is (part) of Al-Hikmah (wisdom) which your Lord has revealed to you. And set not up with Allah any other Allah lest you should be thrown into Hell, blameworthy and rejected (from Allah's mercy)(39)
+
+**What this ayah teaches:** Ibn 'Abbas and Qatadah said: "(It means) cast out." This is an address to the Ummah via the Messenger ﷺ, for he is infallible.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas and Qatadah said: "(It means) cast out." This is an address to the Ummah via the Messenger ﷺ, for he is infallible.
 ## Personal Reflections
 
 

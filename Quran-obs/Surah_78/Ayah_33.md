@@ -180,6 +180,15 @@ This is the end of the Tafsir of Surat An-Naba'. And all praise and thanks are d
 
 Thus far the punishment of disbelievers was depicted. As opposed to this, the reward and blessings of the righteous believers are depicted below.
 
+## AI Translation
+
+and companions of equal age,
+
+## AI Tafsir
+
+**What this ayah teaches:** They meant by this that the breasts of these girls will be fully rounded and not sagging, because they will be virgins, equal in age. It is mentioned here to emphasize the fact that its occurrence has become close, because everything that is coming will certainly come to pass.
+
+**Classical tafsir:** Ibn Kathir notes: He explains that He is the ar-Rahman, Whose mercy covers all things.
 ## Personal Reflections
 
 

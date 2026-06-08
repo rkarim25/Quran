@@ -159,6 +159,15 @@ And it is also possible that the pronoun in: إِنَّهُ (innahu) reverts to 
 
 Some commentators, Suddiyy, Ibn Ishaq and others have reported that during the course of this privacy, Zulaikha started praising his looks with the purpose of softening his resistance. She said: How beautiful are your hair! Sayyidna Yusuf (علیہ السلام) said: After death, these hair will be the first to part away from my body. Then, she said: How beautiful are your eyes! He said: After death, they will become water and flow down my face. Once again, she said: How beautiful is your face! Thereupon, he said: All this will be eaten up by the earth below. He was looking ahead. This was his concern for the 'Akhirah. Allah Ta’ ala had set it upon him in the prime of his youth and that made all charms of mortal life turn into dust before him. It is true that the concern for 'Akhirah is something which can keep every human being protected from every evil wherever he or she may be. May Allah bless us all with this concern.
 
+## AI Translation
+
+And the lady, in whose house he lived, tried to seduce him. She locked the doors firmly and said, “Come to me!” He replied, “Allah is my refuge! It is not right to betray my master, who has taken good care of me. Indeed, the wrongdoers never succeed.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Wife of the 'Aziz loves Yusuf and plots against Him Allah states that the wife of the 'Aziz of Egypt, in whose house Yusuf resided and whose husband recommended that she takes care of him and be generous to him, tried to seduce Yusuf!
+
+**Classical tafsir:** Ibn Kathir notes: She called him to do an evil act with her, because she loved him very much.
 ## Personal Reflections
 
 

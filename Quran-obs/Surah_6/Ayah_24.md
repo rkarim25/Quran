@@ -162,6 +162,17 @@ And it appears in a narration from the Musnad of Ahmad that the Holy Prophet ﷺ
 
 In addition to that, it appears in Al-Baihaqi and others, all on sound authority, that the character of a Muslim may have other bad traits - but, not breach of trust and lying. Yet another Hadith says that lying decreases one's Rizq (sustenance).
 
+## AI Translation
+
+See how they will lie about themselves and how those they fabricated will fail them!
+
+## AI Tafsir
+
+**What this ayah teaches:** The address here is to the Holy Prophet ﷺ who has been asked to see how these people have lied against their own selves, and whatever they used to forge and fabricate against Allah (their idols and so-called partners to Allah) is lost to them.
+
+**Classical tafsir:** Ibn Kathir notes: This seems to indicate that the false objects of worship will also be present on the day of Resurrection.
+
+**From the Sunnah:** So much so that these people, who used to swear falsely before Muslims during their life in the mortal world, were unable to stop lying even on the fateful day of Resurrection which put them to disgrace before the entire creation of Allah.
 ## Personal Reflections
 
 

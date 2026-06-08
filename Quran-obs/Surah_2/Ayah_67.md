@@ -112,6 +112,15 @@ Ibn Abi Hatim recorded 'Ubaydah As-Salmani saying, "There was a man from among t
 
 According to Mirqat, a commentary on Mishkat, a man among the Israelites wanted to marry a girl, but her father refused. The suitor was so incensed that he killed the father, and disappeared. It is mentioned in Ma` alim al-tanzil which says on the authority of Kalbi that Allah had not yet sent down any injunction with regard to man-slaughter. If it was so, this shows that the incident happened before the Torah was revealed. Anyhow, the Israelites requested Sayyidna Musa (علیہ السلام) to tell them how to trace the culprit. Under the commandment of Allah, he asked them to sacrifice a cow. As was their regular habit, they started raising all kinds of doubts and objections, of which the next verses give us the details.
 
+## AI Translation
+
+And when Moses said to his people, "Allah commands you to slaughter a cow," they said, "Are you mocking us?" He said, "I seek refuge in Allah from being among the foolish."
+
+## AI Tafsir
+
+**What this ayah teaches:** The next morning, the nephew cried out for revenge, and the people took up their weapons and almost fought each other.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

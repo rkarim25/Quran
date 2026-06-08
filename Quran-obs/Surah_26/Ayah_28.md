@@ -132,6 +132,17 @@ After that he turned to the second point regarding his upbringing in the Pharaoh
 
 This is what is known as God gifted awe of truth, veracity and reality. The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee. That is how they become so appealing to people and convince the biggest defiant
 
+## AI Translation
+
+Moses responded: “He is the Rabb of the east and west, and everything in between, if only you had any sense.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Fir'awn said: "And what is the Lord of Al-'Alamin (23)(Musa) said: "The Lord of the heavens and the earth, and all that is between them, if you seek to be convinced with certainty. When Musa said to them: "I am the Messenger of the Lord of the worlds," Fir'awn said to him, "Who is this who you are claiming is the Lord of Al-'Alamin other than me?" This is how it was interpreted by the scholars of…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee.
 ## Personal Reflections
 
 

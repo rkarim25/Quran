@@ -88,6 +88,15 @@ Towards the Jahannam as herds towards water" - 19:86.
 
 وِرد means to go towards water and since only a thirsty man or animal goes towards water, this word has been translated to denote a thirsty person.
 
+## AI Translation
+
+and drive the wicked to Hell like a thirsty herd.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Day We shall gather those with Taqwa unto the ar-Rahman (Allah), like a delegation (85)And We shall drive the criminals to Hell, in a thirsty state (86)None shall have the power of intercession, but such a one as has received permission (or promise) from the ar-Rahman (Allah). A Wafd (delegation) is a group that arrives while riding and from it comes the word Wufud (arriving).
+
+**Classical tafsir:** Ibn Kathir notes: Allah explains that He will gather these people on the Day of Resurrection like a delegation that has come to Him.
 ## Personal Reflections
 
 

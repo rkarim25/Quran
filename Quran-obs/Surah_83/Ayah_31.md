@@ -96,6 +96,17 @@ Surah At-Tatfif
 
 Ends here
 
+## AI Translation
+
+and boast about it when returning to their people.
+
+## AI Tafsir
+
+**What this ayah teaches:** Yet, with this, they still are not grateful for Allah's favor upon them. People, whose minds are contaminated with contemporary secular education, are careless about the religion and the Hereafter.
+
+**Classical tafsir:** Ibn Kathir notes: In other words, they would mock them and despise them.
+
+**From the Sunnah:** May Allah salvage the Muslims from this painful scourge.
 ## Personal Reflections
 
 

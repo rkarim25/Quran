@@ -176,6 +176,19 @@ Unfortunately, as a result of people ignoring this sacrosanct rule of conduct, I
 
 Sayyidah ` A'ishah As-Siddiqah ؓ reports that the Holy Prophet ﷺ said that on six persons he casts his la'nah, and may the la'nah of Allah be upon them: (1) The person who has added something to the Book of Allah from his side (that is, whether added some words, or carried the meaning to such excessive limits as is contrary to the Tafsir of the Sahabah), (2) the person who has denied the Divinely-ordained destiny, (3) the person who hoists himself into a position of authority over the Muslim Ummah by force (or deceit) so that he would honour the person disgraced by Allah, and disgrace the person given honour by Allah, (4) the person who took as Halal what Allah had made Haram, that is, indulged in killing at the sacred precincts of the Harm in Makkah, or, hunted there, (5) the person who dishonoured my family and children, and (6) the person who abandoned my Sunnah.
 
+## AI Translation
+
+Indeed, you are not responsible whatsoever for those who have divided their faith and split into sects. Their judgment rests only with Allah. And He will inform them of what they used to do.
+
+## AI Tafsir
+
+**Context:** Mujahid, Qatadah, Ad-Dahhak and As-Suddi said that this Ayah was revealed about the Jews and Christians. Al-'Awfi said that Ibn 'Abbas commented, "Before Muhammad ﷺ was sent, the Jews and Christians disputed and divided…
+
+**What this ayah teaches:** Addressing them, stated there is the sad end of those who turn away from the straight path of Allah - and the instruction given to the Holy Prophet ﷺ is that he should have nothing to do with those who take to the ways of error.
+
+**Classical tafsir:** Ibn Kathir notes: Criticizing Division in the Religion Mujahid, Qatadah, Ad-Dahhak and As-Suddi said that this Ayah was revealed about the Jews and Christians.
+
+**From the Sunnah:** The first (159) of the two verses carries a general address included wherein are the those who reject the truth of Arabia, the Jews and Christians and Muslims, all of them.
 ## Personal Reflections
 
 

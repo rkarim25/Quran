@@ -144,6 +144,19 @@ Some of the Merits of Surah Al-Hadid
 
 It is recorded in Abu Dawud, Tirmidhi and Nasa'i that Sayyidna ` Irbad Ibn Sariyah ؓ said that the Messenger of Allah ﷺ used to recite Al-Musabbihat before he went to sleep and said: "In them there is a verse that is more meritorious than a thousand verses." The collective name of the series Al-Musabbihat refers to the following five Surahs: [ 1] Al-Hadid; [ 2] Al-Hashar; [ 3] As-Saff; [ 4] Jumu'ah; and [ 5] At-Taghabun. Having cited this Hadith, Ibn Kathir says that the best verse referred to in Surah Al-Hadid is verse [ 3] هُوَ الْأَوَّلُ وَالْآخِرُ‌ وَالظَّاهِرُ‌ وَالْبَاطِنُ ۖ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ (He is the First and the Last, and the Manifest and the Hidden, and He is All-Knowing about everything....57:3] Among the five Surahs, the first three, namely Al-Hadid, Al-Hashr and As-Saff commence with the past perfect tense 'sabbaha' [ purity has been proclaimed ] whilst the last two, namely Al-Jumu` ah and Al-Taghabun commence with the imperfect tense yusabbihu [ purity is proclaimed ]. This implies that the purity of Allah should be declared at all times, the past, the present and the future. [ Mazhari ]
 
+## AI Translation
+
+To Him belongs the dominion of the heavens and the earth. He gives life and causes death. He is capable of everything.
+
+## AI Tafsir
+
+**Context:** (So if you are in doubt concerning that which We have revealed to you, then ask those who are reading the Book before you. Verily, the truth has come to you from your Lord.)(10:94)'
+
+**What this ayah teaches:** It is He Who gives life and causes death; and He is Able to do all things.)(3.
+
+**Classical tafsir:** Ibn Kathir notes: Whatever is in the heavens and the earth glorifies Allah – and He is the Almighty, All-Wise.)(2.
+
+**From the Sunnah:** the Messenger of Allah ﷺ used to recite Al-Musabbihat before he went to sleep, saying, (Musnad Ahmad) There are about ten and some odd number of different sayings collected from the scholars of Tafsir regarding the explanation of this Ayah. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

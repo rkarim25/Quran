@@ -98,6 +98,15 @@ Gift of God - not capital or labor - is the real wisdom behind the ownership of 
 
 In our day, debate is still going on between various economic theories as to the basis of production of things and their ownership. Is it wealth, or is it labor? The votaries of the capitalist economic system declare capital and wealth as its basis. The protagonists of the socialist and communist system support labor as the real reason or justification behind production of things and their ownership. This decree of the Qur'an tells us that none of these two has any role to play in the creation of things and their ownership. The creation of anything does not rest in the possession or control of human beings. That is an act of Allah Ta’ ala, directly. Then, reason demands that the one who creates something should also be its owner. Therefore, when it comes to things of this world, the essential and real ownership is that of Allah Ta’ ala. The ownership of human beings in anything whatsoever can take effect only when Allah Ta’ ala passes it on to them in His mercy. Allah Ta’ ala has already revealed the law of the proof and transfer of ownership through his prophets. Counter to this law, no one can become the owner of anything.
 
+## AI Translation
+
+Do they not see that We singlehandedly created for them, among other things, cattle which are under their control?
+
+## AI Tafsir
+
+**What this ayah teaches:** Gift of Allah - not capital or labor - is the real wisdom behind the ownership of things In our day, debate is still going on between various economic theories as to the basis of production of things and their ownership.
+
+**Classical tafsir:** Ibn Kathir notes: Do they not see that We have created for them of what Our Hands have fashioned, the cattle, so that they are their owners (71)And We have subdued them unto them so that some of them they have for riding and some they eat (72)And they have (other) benefits from them, and (they get…
 ## Personal Reflections
 
 

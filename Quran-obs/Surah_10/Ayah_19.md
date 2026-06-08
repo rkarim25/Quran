@@ -128,6 +128,15 @@ Then, it is also obvious that there is a long period of time between Sayyidna Ad
 
 Of course, when Kufr and Shirk spread out and posed a threat to 'Iman or true belief, Kafirs and Mushriks were declared to be a separate community of people as indicated in: فَاخْتَلَفُوا (later, they differed). Another verse of the Holy Qur'an: هُوَ الَّذِي خَلَقَكُمْ فَمِنكُمْ كَافِرٌ‌ وَمِنكُم مُّؤْمِنٌ is He who created you; yet there is among you a disbeliever and there is among you a believer - At-taghabun, 64:2) makes it more explicit. It tells that the thing that separates the progeny of Sayyidna Adam (علیہ السلام) created by Allah into different peoples is the deviation from 'Iman and Islam. Bonds of lineage or country do not make people separate. Bracketing human beings into different groups on the basis of language, homeland, color or race is ignorance dished out in the garb of enlightenment. It is new. But everything new is not necessarily true and wise. In fact, it might as well be the exact opposite of what is wise. Today, there are many educated people who have also fallen into the trap of this narrow concept of nationalism based on the factors enumerated above. Unfortunately, this approach towards ordering the social life of human beings is fraught with seeds of countless unseen disasters. May Allah keep Muslims safe from its evil effects.
 
+## AI Translation
+
+Humanity was once nothing but a single community of believers, but then they differed. Had it not been for a prior decree from your Rabb, their differences would have been settled at once.
+
+## AI Tafsir
+
+**What this ayah teaches:** And they worship besides Allah things that harm them not, nor profit them, and they say: These are our intercessors with Allah." Say: Do you inform Allah of that which He knows not in the heavens and on the earth?" Glorified and Exalted is He above all that which they associate as partners (with Him)(18)Mankind were but one community, then they differed (later); and had not it been for a Word that…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

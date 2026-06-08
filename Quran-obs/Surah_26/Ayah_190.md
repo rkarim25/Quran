@@ -134,6 +134,15 @@ so they were seized by the torment of the Day of Canopy. - 26:189
 
 عَذَابُ يَوْمِ الظُّلَّةِ (the Torment of the Canopy), mentioned in this verse refers to an incident, which is this: Allah Ta’ ala sent down such an extreme heat on a people that they could not find comfort either inside the houses or outside. Then He sent down a mass of dark cloud over a nearby forest, under which there was a cool breeze. As the entire people were distressed due to excessive heat, they ran to take shelter under the cloud. When all of them assembled under the cover of the cloud, it rained fire instead of water. Thus the whole nation was burnt to ashes. (Ruh al-Ma’ ani)
 
+## AI Translation
+
+Surely in this is a sign. Yet most of them would not believe.
+
+## AI Tafsir
+
+**What this ayah teaches:** Indeed that was the torment of a Great Day (189)Verily, in this is indeed a sign, yet most of them are not believers (190)And verily your Lord, He is indeed the All-Mighty, the ar-Rahim . Indeed that was the torment of a Great Day.) This is what they asked for, when they asked for a part of the heaven to fall upon them.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

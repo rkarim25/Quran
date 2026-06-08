@@ -104,6 +104,17 @@ This means that everybody - be he a believer or an infidel - will go across Hell
 
 This view is confirmed by the next sentence ثُمَّ نُنَجِّي الَّذِينَ اتَّقَوا which mens then We will save those who feared Allah - 19:72. A similar view has also been expressed by Sayyidna Ibn ` Abbas ؓ ، thus even if the word وُرُود occurring in the Qur'an is taken to mean دُخُول (entry), then the word دُخُول will be interpreted as synonymous with the word عُبُور (going across). Thus there is no contradiction in the meaning of the word.
 
+## AI Translation
+
+Then We will deliver those who lived with taqwa, leaving wrongdoers kneeling in it.
+
+## AI Tafsir
+
+**What this ayah teaches:** There is not one of you but will pass over it (Hell); this is with your Lord, a decree which must be accomplished (71)Then We shall save those who had Taqwa.
+
+**Classical tafsir:** Ibn Kathir notes: But even if the word means "entry", then the pious believers on entry into Hell will feel no discomfort because its fires will cool down and will do no harm to them.
+
+**From the Sunnah:** This has been reported in many authentic Hadiths from the Messenger of Allah ﷺ. (authentic hadith)
 ## Personal Reflections
 
 

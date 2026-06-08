@@ -293,6 +293,17 @@ It is being said here that the purpose is not to compromise the welfare of the o
 
 The above permission has been hemmed by a warning that Allah watches over the performance of guardians in this matter. He could have, by setting up a harder code of conduct, put them in trouble because He is All-Powerful. But, He has provided an easier code of conduct because He is All-Wise and does not obligate people with what they cannot do.
 
+## AI Translation
+
+on this world and the Akhirah. They ask about orphans. Say, "Improving their condition is best. If you mix your affairs with theirs, they are your brothers in faith. Allah knows who intends harm and who intends good. Had He willed, He could have made it difficult for you. Allah is Almighty, All-Wise."
+
+## AI Tafsir
+
+**Context:** Ibn 'Umar, Ash-Sha'bi, Mujahid, Qatadah, Ar-Rabi' bin Anas and 'Abdur-Rahman bin Aslam stated that the first Ayah revealed about Khamr was:
+
+**What this ayah teaches:** But, He made it easy for you, and allowed you to mix your affairs with the orphans' affairs in a way that is better.
+
+**Classical tafsir:** Ibn Kathir notes: Say: "That which is (spare) beyond your needs.") Al-Hakam said that Miqsam said that Ibn 'Abbas said that this Ayah means, whatever you can spare above the needs of your family.
 ## Personal Reflections
 
 

@@ -190,6 +190,19 @@ The earlier verses have defined the religion (Millat مِلَّت of Sayyidna Ib
 
 In the second of these verses the progeny of Sayyidna Ya` qub (علیہ السلام) (Jacob) has been described as Asbat اسباط or "tribes." The reason is that he had twelve sons, and the offspring of each son came to form a tribe. Allah so blessed his seed that in Egypt, Sayyidna Yusuf (علیہ السلام) (Joseph) and his brothers made up a group of twelve men, but their lineage flourished, and when the Israelites left Egypt along with Sayyidna Musa (علیہ السلام) (Moses), their number ran into thousands. Another form of this blessing was that the progeny of Sayyidna Ya` qub (علیہ السلام) included a large number of prophets.
 
+## AI Translation
+
+Say, "We believe in Allah and what was sent down to us, and what was sent to Abraham, Ishmael, Isaac, Jacob, and the tribes, and what was given to Moses, Jesus, and the prophets from their Rabb. We make no distinction between any of them, and to Him we submit."
+
+## AI Tafsir
+
+**Context:** Allah directed His believing servants to believe in what He sent down to them through His Messenger Muhammad ﷺ and in what was revealed to the previous Prophets in general.
+
+**What this ayah teaches:** Allah directed the believers to refrain from differentiating between the Prophets and to believe in them all.
+
+**Classical tafsir:** Ibn Kathir notes: we submit to Allah))(3:52) during the two (voluntary) Rak'at before Fajr." Abu Al-'Aliyah, Ar-Rabi' and Qatadah said, "Al-Asbat are the twelve sons of Jacob, and each one of them had an Ummah of people from his descendants.
+
+**From the Sunnah:** The Muslim believes in all that Allah revealed and all the Prophets (Sahih Muslim) Each of these two groups, instead of accepting Islam, used to ask the Muslims to accept its own religion in order to find true guidance. (Sahih Muslim)
 ## Personal Reflections
 
 

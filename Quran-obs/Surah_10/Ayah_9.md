@@ -134,6 +134,15 @@ The well known meaning of the word: ھِدَیَہ (hidayah) used here is to tel
 
 It will be recalled that the punishment of the first group was the outcome of their own misdeeds. Here, similar to that, it was said about the reward of the second group (of believers), that they have been blessed with this reward by virtue of their belief. And since, belief has been bracketed with good deeds earlier, therefore, 'Iman or belief mentioned at this place will mean belief that is supported by good deeds (al-a` mal as-salilhah). The return for belief and good deeds is Jannah, the place of unimaginable and unparalleled bliss.
 
+## AI Translation
+
+Surely those who believe and do good, their Rabb will guide them to Paradise through their faith. Rivers will flow beneath their feet in the Gardens of Bliss.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Good Reward is for the People of Faith and Good Deeds In these two Ayat, Allah promises the happy blessings for those who believed in Allah and His Messengers.
+
+**Classical tafsir:** Ibn Kathir notes: The Ayah also indicates that Allah is the Praised One in this world and in the Hereafter and in all situations.
 ## Personal Reflections
 
 

@@ -266,6 +266,19 @@ It repealed the obligation of staying up for a long time, and granted them conce
 
 نِّصْفَهُ أَوِ انقُصْ مِنْهُ قَلِيلًا 'half of it, or make it a little less, [ 3] or أَوْ زِدْ عَلَيْهِ make it a little more [ 73:4] '. This is explicative of the exception 'except a little'. A question may be raised here that 'a little' cannot be 'half. The answer is that the earlier portion of the night is spent in the prayer at maghrib and ` isha'. 'Half then refers to the half of the rest of the night. Its total in relation to the whole night amounts to 'a little'. The verse permits to reduce it a little less than half and it also permits to add to it a little more than half. Thus it was compulsory to stay up at least for a little over one fourth of a night for prayer.
 
+## AI Translation
+
+stand in night prayer for most of the night, except a little—
+
+## AI Tafsir
+
+**Context:** (Stand (to pray) all night, except a little. Half of it or less than that, a little.)(73:2-3) "This became difficult on the believers.
+
+**What this ayah teaches:** The purpose of this is that standing at night (for prayer) is better for training the heart and the tongue, and more conducive to recitation.
+
+**Classical tafsir:** Ibn Kathir notes: Lord of the east and the west; La ilaha illa Huwa, so take Him as a trustee.) The Command to stand at Night (in Prayer) Allah commands His Messenger ﷺ to cease being wrapped up, and this means to be covered during the night.
+
+**From the Sunnah:** Thus, the Prophet ﷺ did as Allah ordered him, by standing for prayer at night. In Sahih Al-Bukhari, it is recorded from Anas that he was asked about the recitation of the Messenger of Allah ﷺ, so he replied, "He used to elongate the letters." Then he (Anas) recited, (Sahih al-Bukhari)
 ## Personal Reflections
 
 

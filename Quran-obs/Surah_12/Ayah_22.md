@@ -110,6 +110,15 @@ At what age did he reach the prime of his age? In this, commentators differ. Say
 
 In the second sentence of the second verse (22), it was said: وَكَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ (and this is how We reward those good in deeds). The sense is that delivering Sayyidna Yusuf (علیہ السلام) from elimination and making him reach the office of power and honour was an outcome of his righteousness, fear of Allah and good deeds. This was something not restricted to his person alone. In fact, whoever acts the way he did, shall receive the blessings of Allah in the same fashion.
 
+## AI Translation
+
+And when he reached maturity, We gave him wisdom and knowledge. This is how We reward the good-doers.
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah has full power and control over His affairs, but most of men know not (21)And when he [Yusuf] attained his full manhood, We gave him wisdom and knowledge (the prophethood), thus We reward the doers of good . He also ordered his wife to be kind to Yusuf and had good hopes for his future, because of his firm righteous behavior.
+
+**Classical tafsir:** Ibn Kathir notes: He also ordered his wife to be kind to Yusuf and had good hopes for his future, because of his firm righteous behavior.
 ## Personal Reflections
 
 

@@ -225,6 +225,17 @@ The original word used in the text is 'atharah' which is an infinitive in the se
 
 The explanation given above is taken from the Tafsir of Qurtubi, and this is the explanation accepted by most exegetes. There are some other views in the interpretation of this verse, but they are neither well-established, nor in full harmony with the textual structure. Therefore, they are not adopted by the majority of the exegetes. (Allah knows best)
 
+## AI Translation
+
+Say to them: Consider whatever you call upon besides Allah—show me what they have created on earth, or whether they share in the heavens. Bring a scripture revealed before this one, or any trace of knowledge, if your claim is true.
+
+## AI Tafsir
+
+**Context:** (But those who disbelieve, turn away from that of which they are warned.) Meaning, the those who reject the truth are distracted from what is intended for them. Allah has indeed revealed to them a Book and sent to them a Messenger.
+
+**What this ayah teaches:** We created not the heavens and the earth and all that is between them except with truth, and for a specified term.
+
+**Classical tafsir:** Ibn Kathir notes: But those who disbelieve, turn away from that whereof they are warned.)(4.
 ## Personal Reflections
 
 

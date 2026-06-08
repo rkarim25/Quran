@@ -100,6 +100,17 @@ Several scholars of Tafsir said that when Musa threw the Tablets on the ground t
 
 The verse 154 describes that the Prophet Musa (علیہ السلام) lifted up the tablets of the Torah which contained guidance and blessing for those who feared Allah. The Arabic word: نُسخَہ 'Nuskha' rendered as contents signifies a writing copied from a book or other writings. There are certain reports that inform us that the tablets had broken at the time the Prophet Musa (علیہ السلام) had put them away quickly. This time Allah gave him the Torah written on some other material.
 
+## AI Translation
+
+When Moses’ anger subsided, he took up the Tablets whose text contained guidance and mercy for those who stand in awe of their Rabb.
+
+## AI Tafsir
+
+**What this ayah teaches:** And when the anger of Musa calmed, he took up the Tablets; and in their inscription was guidance and mercy for those who fear their Lord .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** when Musa threw the Tablets on the ground they were shattered and he collected the pieces afterwards.
 ## Personal Reflections
 
 

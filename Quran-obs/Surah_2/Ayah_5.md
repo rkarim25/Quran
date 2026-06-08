@@ -130,6 +130,17 @@ Before we proceed, we may point out that in speaking of faith in the hereafter a
 
 It is these who are on guidance given by their Lord; and it is just these who are successful.
 
+## AI Translation
+
+Those are the ones on guidance from their Rabb — the One who creates, owns, nurtures, and sustains them — and they are the ones who will succeed.
+
+## AI Tafsir
+
+**Context:** (They are) refers to those who believe in the Unseen, establish the prayer, spend from what Allah has granted them, believe in what Allah has revealed to the Messenger and the Messengers before him, believe in the Hereaf…
+
+**What this ayah teaches:** They are on guidance from their Lord, and they are the successful . Lexically the Akhirah signifies 'that which comes after something'; in the present context, it indicates a relationship of contrast with the physical world, and thus signifies the other world which is beyond physical reality as we know it and also beyond the sensuous or rational perception of man.
+
+**Classical tafsir:** Ibn Kathir notes: Lexically the Akhirah signifies 'that which comes after something'; in the present context, it indicates a relationship of contrast with the physical world, and thus signifies the other world which is beyond physical reality as…
 ## Personal Reflections
 
 

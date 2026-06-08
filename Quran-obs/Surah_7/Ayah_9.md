@@ -196,6 +196,17 @@ In the two verses the Tafsir of which you have just read through, sinners were w
 
 In short, Allah Ta` ala has placed all that human beings need on and in this earth which demands that they should be grateful to Him all the time under all conditions. But, human beings are prone to heedlessness. They would not take much time to forget the favours of their Creator and Master - only to return to the same world of things. So, at the end of the verse, it is in a mode of complaint that it was said: قَلِيلًا مَّا تَشْكُرُ‌ونَ (Little you are receptive to advice).
 
+## AI Translation
+
+But those whose scale is light, they have doomed themselves for wrongfully denying Our signs.
+
+## AI Tafsir
+
+**What this ayah teaches:** The one whose scale-pan with good deeds is heavier will have his salvation while the one whose scale-pan with sins and evils is heavier will have his punishment.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, scholars of Tafsir say that this shows that weighing in Mahshar (Resurrection) will be twice.
+
+**From the Sunnah:** The Prophet ﷺ mentioned the opposite in the case of the those who reject the truth and the hypocrite. it is authentic. (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

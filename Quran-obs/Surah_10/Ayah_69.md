@@ -100,6 +100,17 @@ As for the good news in this world, the Holy Prophet ﷺ said, `(they are) the t
 
 Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. About it, the Holy Prophet ﷺ said: تِلکَ عَاجِلُ بشرَی المؤمِن that is, ` being taken as good and praiseworthy is, for a true Muslim, good news in ready cash.' (Muslim and al-Baghawi)
 
+## AI Translation
+
+Say, O Prophet, “Indeed, those who fabricate lies against Allah will never succeed.”
+
+## AI Tafsir
+
+**What this ayah teaches:** He warned that they will not succeed, never prospering in this world or in the Hereafter. and then unto Us will be their return, then We shall make them taste the severest torment because they used to disbelieve .
+
+**Classical tafsir:** Ibn Kathir notes: and then unto Us will be their return, then We shall make them taste the severest torment because they used to disbelieve .
+
+**From the Sunnah:** Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -153,6 +153,19 @@ And there is a narration of Sayyidna Abu Hurairah ؓ in Sahih Muslim according t
 
 And Tabarani, citing a trustworthy authority, has reported from Sayyidna Abu Ayyub al-Ansari ؓ that the Holy Prophet ﷺ said, "The first case presented in the court of Allah will be that of man and his wife and, by God, the tongue will be silent there, instead, hands and feet of the woman will bear witness as to blames she used to impute to her husband. Similarly, the hands and feet of the man will bear witness as to how he used to cause pain to his wife. After that, servants will be brought before their respective masters, and redress will be provided for their complaints. After that, people from common markets with whom one had one or the other dealing will be presented, and if one of them has been subjected to some injustice, his right will be duly vacated.'
 
+## AI Translation
+
+Then on the Day of Judgment you will all settle your dispute before your Lord.
+
+## AI Tafsir
+
+**Context:** (Yes.) He (Az-Zubayr) said, 'This is a very serious matter.'" Ahmad recorded from Az-Zubayr bin Al-'Awwam, may Allah be pleased with him, that when this Surah was revealed to the Messenger of Allah ﷺ: Ibn Abi Hatim recor…
+
+**What this ayah teaches:** But most of them know not (29)Verily, you will die, and verily, they (too) will die (30)Then, on the Day of Resurrection, you will be disputing before your Lord .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** The fact that the Messenger of Allah ﷺ and Quraysh will die, and how They will dispute before Allah Az-Zubayr, may Allah be pleased with him, said, "By Allah, it is a very serious matter." It was also recorded by At-Tirmidhi, who said "Hasan Sahih." (Jami' at-Tirmidhi, authentic hadith)
 ## Personal Reflections
 
 

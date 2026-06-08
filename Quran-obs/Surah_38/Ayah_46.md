@@ -70,6 +70,15 @@ Concern for 'Akhirah is a distinct attribute of the noble prophets
 
 The word 'home' in the statement: ذِكْرَ‌ى الدَّارِ‌ (remembering the [ eternal ] Home [ in the Hereafter ]- 38:46) refers to the 'Akhirah, (the Hereafter, the life-to-come). Instead of using the word: 'Akhirah, the text has used the word: الدَّارِ‌ (ad-dar: home) whereby it has warned human beings that they must take 'Akhirah as their real Home, and make the concern for it the basis for whatever they think and do. Right from here, we also come to know that the concern for 'Akhirah further sharpens and furbishes one's intellectual and physical faculties (helping it to flourish in an essentially true perspective). Hence, the view of some atheists that such concern blunts human faculties is baseless.
 
+## AI Translation
+
+We chose them for the honour of proclaiming the Akhirah—the everlasting life after death.
+
+## AI Tafsir
+
+**What this ayah teaches:** And remember Our servants, Ibrahim, Ishaq, and Ya'qub, Ulil-Aydi wal-Absar (45)Verily, We did choose them by granting them the remembrance of the Abode (46)And they are with Us, verily, of the chosen and the best (47)And remember Isma'il, Al-Yasa', and Dhul-Kifl, all are among the best (48)This is a Reminder..
+
+**Classical tafsir:** Ibn Kathir notes: As-Suddi said, "This means the Holy Qur'an."
 ## Personal Reflections
 
 

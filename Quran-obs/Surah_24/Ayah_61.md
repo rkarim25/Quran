@@ -455,6 +455,15 @@ It has also now become clear that this injunction is not restricted only to the 
 
 The etiquette demands that as one enters the house with permission, he should greet all the Muslims present there with سلام salam. This is the purport of the words "greet your own selves", (verse 61). It is because all Muslims are a single united group. In many Sahih Ahadis great emphasis is laid on Muslims for greeting each other as an act of virtue.
 
+## AI Translation
+
+There is no restriction on the blind, or the disabled, or the sick. Nor on yourselves if you eat from your homes, or the homes of your fathers, or your mothers, or your brothers, or your sisters, or your paternal uncles, or your paternal aunts, or your maternal uncles, or your maternal aunts, or from the homes in your trust, or the homes of your friends. There is no blame on you eating together or separately. However, when you enter houses, greet one another with a greeting of peace from Allah, blessed and good. This is how Allah makes His revelations clear to you, so perhaps you will understand.
+
+## AI Tafsir
+
+**Context:** (nor any restriction on the lame,) 'Abdur-Razzaq recorded that Mujahid said: "A man would take a blind, lame or sick person to the house of his brother or sister or aunt, and those disabled people would feel ashamed of t…
+
+**What this ayah teaches:** There is no restriction on the blind, nor any restriction on the lame, nor any restriction on the sick, nor on yourselves, if you eat from your houses, or the houses of your fathers, or the houses of your mothers, or the houses of your brothers, or the houses of your sisters, or the houses of your father's brothers, or the houses of your father's sisters, or the houses of your…
 ## Personal Reflections
 
 

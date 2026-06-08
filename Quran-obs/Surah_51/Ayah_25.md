@@ -143,6 +143,15 @@ Comforting the Messenger of Allah
 
 قَوْمٌ مُّنكَرُ‌ونَ ("[ They are ] unknown people."... 51:25). The word munkar, the letter [م m ] carrying dammah and the letter [ ک k ] carrying fath means "unknown". As sin or sinful work is unknown in Islam, it is also referred to as munkar. The angels came to Holy Prophet Ibrahim (علیہ السلام) in the image of handsome young wonderfully graceful men; therefore he could not recognize them. He thought to himself that these are strangers and said to himself 'They are unknown to me'. Or it is possible that he might have mentioned this to the guests in the form of a question and the purpose might have been to find out who they were.
 
+## AI Translation
+
+When they entered his presence and said 'Peace,' he replied, 'Peace,' and thought to himself: These are unfamiliar people.
+
+## AI Tafsir
+
+**What this ayah teaches:** They said: "Fear not, we have been sent against the people of Lut." And his wife was standing (there), and she laughed.)(11:70-71), meaning, she was glad that the people of Lut would be destroyed on account of their rebellion and transgression against Allah, the Exalted. He thought to himself that these are strangers and said to himself 'They are unknown to me'.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

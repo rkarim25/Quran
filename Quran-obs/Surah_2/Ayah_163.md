@@ -82,6 +82,17 @@ Tauhid توحید ، the cardinal principle of Muslim faith as stated in Verse 1
 
 4. He is One in being the anterior and the posterior, that is, He existed when nothing did and He will remain existing when nothing will. Who then, if not Him, shall be called the Wahid, the only One? (Jassas)
 
+## AI Translation
+
+Your Allah is One — there is no deity worthy of worship except Him, the Rahman — mercy that encompasses all creation in this life — the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** He is Allah, the One and Only, the Sustainer, and there is no deity worthy of worship except Him.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Shahr bin Hawshab reported that Asma' bint Yazid bin As-Sakan narrated that Allah's Messenger ﷺ said:
 ## Personal Reflections
 
 

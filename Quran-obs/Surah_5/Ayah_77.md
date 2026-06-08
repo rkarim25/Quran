@@ -166,6 +166,17 @@ Bani Isra'i1 Asked to Follow the Path of Moderation
 
 Addressing the Bani Isra'il at the end of the verse (77), it was said: وَلَا تَتَّبِعُوا أَهْوَاءَ قَوْمٍ قَدْ ضَلُّوا مِن قَبْلُ وَأَضَلُّوا كَثِيرً‌ا that is, they should not follow the de-sires and whims of a people who had themselves gone astray before them, and had made others go astray as well. The reason why they fell into that error was given immediately after by saying: وَضَلُّوا عَن سَوَاءِ السَّبِيلِ that is, these people, by moving away from the right path, had lost it. This straight path was the path of moderation between the two extremes of excess and deficiency. Thus, two things have been accomplished in this verse: It points out to the fatal error made by crossing over the norm, or lagging far behind it, and stresses upon the need to stay firm on the straight path, the ideal path of moderation.
 
+## AI Translation
+
+Say, “O People of the Book! Do not go to extremes in your faith beyond the truth, nor follow the vain desires of those who went astray before. They misled many and strayed from the Right Way.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Verse 77 which says, "do not be excessive in your faith," is a preface to this very subject.
+
+**Classical tafsir:** Ibn Kathir notes: "Ghuluww" or excess in religion refers to the crossing of limits drawn by religion in matters of belief and deed.
+
+**From the Sunnah:** The just and permissible, as an example of which, he has named deep intellectual research - or as it has been the way of the scholastic theologians (Mutakallimin) of Islam in matters relating to articles of faith, or that of Muslim jurists in matters relating… (Sahih Muslim)
 ## Personal Reflections
 
 

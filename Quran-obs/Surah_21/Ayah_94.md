@@ -122,6 +122,15 @@ Commentary
 
 So far the Surah deals with the stories of the prophets and several basic as well as minor principles relevant to those stories. The basic beliefs such as Oneness of God, prophethood and the day of Resurrection are common to all prophets and are the foundation of their invitation to the people to follow the True Faith.
 
+## AI Translation
+
+So whoever does good and is a believer will never be denied the reward for their striving, for We are recording it all.
+
+## AI Tafsir
+
+**What this ayah teaches:** Truly, this, your Ummah is one, and I am your Lord, therefore worship Me (92)But they have broken up and differed in their religion among themselves.
+
+**Classical tafsir:** Ibn Kathir notes: Truly, this, your Ummah is one, and I am your Lord, therefore worship Me (92)But they have broken up and differed in their religion among themselves.
 ## Personal Reflections
 
 

@@ -185,6 +185,17 @@ The verses cited above prove that the order of months and the names by which the
 
 The month intercalated to complete the count of years has also been considered by some as impermissible under this verse. But, that is not correct because the system of reckoning under which the intercalation of a month is made has nothing to do with the laws of the Shari’ ah of Islam. The people of Jihiliyyah changed these religious laws by adding to the lunar and legal months, therefore, they were censured. As for the practice of intercalation, it does not affect Islamic legal injunctions, therefore, it is not included under this prohibition.
 
+## AI Translation
+
+Reallocating the sanctity of months is an increase in rejection of the truth, by which those who reject the truth are led astray. They adjust the sanctity one year and uphold it in another, only to maintain the number of months sanctified by Allah, violating the very months Allah has made sacred. Their evil deeds have been made appealing to them. And Allah does not guide the disbelieving people.
+
+## AI Tafsir
+
+**What this ayah teaches:** However, if it remains viably preserved, the use of another calendar is also permissible - but, there is no doubt that it is against the way of Allah and the way of the worthy forbears of Islam - therefore, it is not good to opt for it unnecessarily.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, they allowed fighting in the Sacred Month and made the non-sacred month sacred, to make the Sacred Months in a year four, as Allah decided!
+
+**From the Sunnah:** If the entire community of Muslims were to abandon the lunar calendar and forget all about it, then, everyone will be a sinner.
 ## Personal Reflections
 
 

@@ -104,6 +104,15 @@ Ibrahim Nakha (رح) has stated that former virtuous elders did not like that Mu
 
 Maulana Ashraf ` Ali Thanawi (رح) ، has, however, explained the issue in Bayan-ul-Qur'an from a little different angle. He says that Allah Ta’ ala has mentioned two qualities particular to the true, sincere and virtuous Muslims in both the verses. The verse emphasizing on forgiveness tells us that they are not overcome by anger, rather kindness and generosity remains dominant in their temperament because of which they forgive the ones who commit excess against them. And in the verse that refers to revenge, we are told that it is a particular quality of these virtuous people that if at any time their heart is inclined to take revenge of an injustice and they do so, they do not exceed the equitable limit, although to forgive is always better for them.
 
+## AI Translation
+
+and who enforce justice when wronged.
+
+## AI Tafsir
+
+**What this ayah teaches:** So whatever you have been given is but (a passing) enjoyment for this worldly life, but that which is with Allah is better and more lasting for those who believe and put their trust in their Lord (36)And those who shun the greater sins, and Al-Fawahish, and when they are angry, they forgive (37)And those who answer the Call of their Lord, and perform the Salah, and who (conduct…
+
+**Classical tafsir:** Ibn Kathir notes: And in the verse that refers to revenge, we are told that it is a particular quality of these virtuous people that if at any time their heart is inclined to take revenge of an injustice and they do so, they do not exceed the equitable limit, although to forgive is always better f…
 ## Personal Reflections
 
 

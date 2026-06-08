@@ -276,6 +276,17 @@ The word اخرجنا (akhrajna: We have brought forth) in مِمَّا أَخْ
 
 There is yet another difference -- 'Ushr is dropped if the land produces nothing, but زکاۃ Zakah remains obligatory at the end of the year on gold, silver and goods of commercial value even if there is no profit at all. This is not the place to discuss details relating to the problems of 'Ushr and Kharaj خراج . These can be seen in books of Fiqh. Incidentally, this humble writer has discussed this subject in some details in his book, Nizam al-Ara-di نظام الاراضی which also contains special injunctions concerning lands in Pakistan and India.
 
+## AI Translation
+
+O believers — spend from the best of what you earn and from what We produce from the earth. Do not choose the worthless for giving — things you would only take with reluctance. Know that Allah is self-sufficient, praiseworthy.
+
+## AI Tafsir
+
+**Context:** (O you who believe! Spend of the good things which you have (legally) earned, and of that which We have produced from the earth for you, and do not aim at that which is bad to spend from it,) that it was revealed about t…
+
+**What this ayah teaches:** So who would lend to He Who is neither poor nor unjust, Who is worthy of all praise in all His actions, statements, and decisions, of Whom there is neither a deity worthy of worship except Him, nor a Lord other than Him?
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, whoever gives away good and pure things in charity, let him know that Allah is the Most Rich, His favor is enormous and He is Most Generous, Most Compassionate; and He shall reward him for his charity and multiply it many times.
 ## Personal Reflections
 
 

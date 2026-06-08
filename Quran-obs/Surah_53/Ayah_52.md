@@ -152,6 +152,15 @@ Allah the Exalted said,
 
 وَأَنَّهُ أَهْلَكَ عَادًا الْأُولَىٰ وَثَمُودَ فَمَا أَبْقَىٰ (and that He has destroyed the earlier ` Ad, and Thamud, so spared none,...53:50-51) The people of ` Ad were among the strongest, fiercest people and the most rebellious against Allah. There are two branches of this people: one of them is known as 'ula [ the first ] and ` ukhra [ the latter or the second ]. Holy Prophet Hud (علیہ السلام) was sent to ` Ad, but they disobeyed him, as a result Allah annihilated the entire nation by a violently furious wind. This is the first nation that was destroyed in punishment after the destruction of the people of Holy Prophet Nuh علیہ السلام (Mazhari) Holy Prophet Salih (علیہ السلام) was sent to the tribe of Thamud, being the second ` Ad, but they too disobeyed their Prophet. Those who transgressed were caught by the awesome Cry of Jibra'il (علیہ السلام) and their hearts were burst by the horrific sound resulting in the mass destruction of those people. (See Ma` ariful Qur'an Vol. 4/p. 651 and the cross-reference given there. [ Tr.])
 
+## AI Translation
+
+and the people of Noah before them—they were the most unjust and transgressing,
+
+## AI Tafsir
+
+**What this ayah teaches:** There are two branches of this people: one of them is known as 'ula [ the first ] and ` ukhra [ the latter or the second ].
+
+**Classical tafsir:** Ibn Kathir notes: This means they are able to use it to their benefit, is this out of the completeness of His favor.
 ## Personal Reflections
 
 

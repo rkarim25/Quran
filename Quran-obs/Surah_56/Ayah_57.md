@@ -110,6 +110,15 @@ Creation of Plants, Sending down of Rain and Creation of Fire are Proof of Allah
 
 After referring to the birth of man from very insignificant beginning, the Surah, from verse [ 63] onwards, proceeds to give a brief account of things upon which man's life on earth depends. There are three principal things upon which man's life in this world depends - food, water and fire. The first thing is food to which verse [ 63] refers.
 
+## AI Translation
+
+It is We who created you. Will you not then believe in resurrection?
+
+## AI Tafsir
+
+**What this ayah teaches:** With verse 57 begins a series of arguments in support of Allah's Oneness and His power to raise the dead.
+
+**Classical tafsir:** Ibn Kathir notes: With verse 57 begins a series of arguments in support of Allah's Oneness and His power to raise the dead.
 ## Personal Reflections
 
 

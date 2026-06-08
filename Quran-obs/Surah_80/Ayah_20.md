@@ -178,6 +178,15 @@ This report has an authentic chain of narration. More than one person has narrat
 
 ثُمَّ السَّبِيلَ يَسَّرَ‌هُ (then He made the way easy for him...80:20) Allah through His consummate wisdom creates man in his mother's womb, creation after creation, within three layers of darkness [ i.e. the belly, the womb and the amniotic membrane ]. It is kept in a safe place in the belly. The mother in whose belly all this is happening is totally unaware of any of the details of this process. Thereafter, when the baby becomes perfect with all its limbs and organs, Allah made it possible that a body weighing 3 to 4 kg comes out through an extremely narrow passage, and the mother does not suffer unduly. So blessed be He Who is the best Creator!
 
+## AI Translation
+
+then made the path of life easy for them,
+
+## AI Tafsir
+
+**What this ayah teaches:** How ungrateful he is (17)From what thing did He create him (18)From a Nutfah He created him and then set him in due proportion (19)Then He made the path easy for him (20)Then He causes him to die and puts him in his grave (21)Then when it is His will, He will resurrect him (22)Nay, but he has not done what He commanded him (23)Then let man look at his food (24)We pour forth wat…
+
+**Classical tafsir:** Ibn Kathir notes: Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them.
 ## Personal Reflections
 
 

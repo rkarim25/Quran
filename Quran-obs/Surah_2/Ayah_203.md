@@ -221,6 +221,17 @@ The emphasis on Taqwa (the fear of Allah) towards the conclusion of Hajj injunct
 
 O Allah, give us the ability to do what You love and are pleased with - in word, deed and intention.
 
+## AI Translation
+
+Remember Allah during the appointed days. Whoever leaves in two days commits no sin; whoever stays longer seeking extra reward commits no sin — if they live with taqwa. Live with taqwa, and know that you will all be gathered to Him.
+
+## AI Tafsir
+
+**What this ayah teaches:** However, it is better and preferable to stay there through the third day (that is, 13th of Dhul-Hijjah).
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, this very Hajj of yours became the cause of your pride and that is why you lost that state of radiance.' The emphasis on Taqwa (the fear of Allah) towards the conclusion of Hajj injunctions has yet another secret.
+
+**From the Sunnah:** that Allah's Messenger ﷺ said: (Musnad Ahmad) Ibn Jarir reported that Abu Hurayrah narrated that Allah's Messenger ﷺ said:
 ## Personal Reflections
 
 

@@ -251,6 +251,15 @@ In direct contrast to this profile of the polytheists, there are the true believ
 
 Now, returning back to the 'unjust', the Holy Qur'an makes a subtle suggestion that the opportunity to correct their position was there; they could have recognized through their frustrations with their gods that they were helpless and that real power rested with Allah. But, they missed the opportunity and must now learn the hard way. So, the stern warning.
 
+## AI Translation
+
+Among people are some who take rivals besides Allah, loving them as only Allah should be loved. The mu'min love Allah more. If only the wrongdoers could see the punishment awaiting them — they would know that all power belongs to Allah and that He is severe in punishment.
+
+## AI Tafsir
+
+**What this ayah teaches:** Their attachment to them reaches the proportions of love that is due for Allah alone.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

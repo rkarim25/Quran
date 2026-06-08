@@ -219,6 +219,15 @@ Special Note
 
 The verse under comment bears an indication that Allah will create a condition of ease for husbands who try to provide for their wives the obligatory amount of sustenance to the best of their ability, and are not in the habit of keeping their wives under straitened circumstances. [ Ruh-ul-Ma’ ani ] And Allah knows best!
 
+## AI Translation
+
+Let the wealthy provide according to his means, and the one with limited resources according to what Allah has given him. Allah does not require of any soul beyond what He has given it. After hardship, Allah will bring ease.
+
+## AI Tafsir
+
+**What this ayah teaches:** If the husband is wealthy, he should spend on his divorcee according to his affluence; and if he is indigent, he should spend according to his limited resources - even if the wife is wealthy.
+
+**Classical tafsir:** Ibn Kathir notes: When the matter was prolonged, he said to her, 'Get up and bring me whatever you have to eat, because I am real hungry and fatigued.' She said, 'I will.
 ## Personal Reflections
 
 

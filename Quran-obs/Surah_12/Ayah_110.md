@@ -180,6 +180,17 @@ Similarly, the expression: قَد کُذِبُو (qad kudhibu : were wrong) in t
 
 In some readings (Qira'aat) of the Qur'an, this word has appeared with a doubled sound on the letter: ذَال (dhal), that is: قَد کُذِّبُوا (qad kudhdhibu) as well. This word has been derived from the verbal noun: تَکذِیب (takdhib:falsification). Given this reading, the sense would be: The prophets had determined an estimated time when the punishment would come, but when the punishment did not come at that time, they had apprehensions about their believers themselves, lest they should not falsifying them on the basis that their statement did not turn out to be true. These were the circumstances under which Allah Ta’ ala made His promise prove true, punishment fell on the deniers, believers were saved from it, and thus, overcome they did.
 
+## AI Translation
+
+And when the messengers despaired and their people thought the messengers had been denied help, Our help came to them at last. We then saved whoever We willed, and Our punishment is never averted from the wicked people.
+
+## AI Tafsir
+
+**What this ayah teaches:** And the punishment of the Hereafter, that is far more severe.
+
+**Classical tafsir:** Ibn Kathir notes: [ Bayan al-Qur'an: Gist of Tafsir by Maulana Ashraf ` Ali Thanavi ] The word: (kudhibu : were wrong) in verse 110 has been read as in the well-known reading (Qira'at) of the Qur'an - and the Tafsir (exegesis or explanation) which we have chosen to follow is the one which is most…
+
+**From the Sunnah:** that 'Urwah bin Az-Zubayr narrated that he asked 'Aishah about the meaning of the following verse, (Sahih al-Bukhari) Ibn 'Abbas read this Ayah this way,
 ## Personal Reflections
 
 

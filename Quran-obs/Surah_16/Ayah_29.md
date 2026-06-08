@@ -90,6 +90,17 @@ The Holy Qur'an does not explicitly say as to who asked the question. Therefore,
 
 The essence of the answer given by the polytheists is that they simply refused to acknowledge that there was any word of Allah really revealed from Him. In fact, they dismissed the Qur'an as nothing but tales of people from early ages. Thereupon, the Qur’ an admonished those unjust people for disinforming people about the Qur'an by telling them that it was nothing but the tales of the ancient whereby they make others too go astray like them. As for the consequences, these they shall have to face. It means that the total curse of their sins has to fall on them anyway on the Day of Judgment, but part of the curse of the evil consequences of their role in misguiding others will also fall on them. Then it was said that the burden of sins which these people are piling up on their shoulders is a terribly evil burden.
 
+## AI Translation
+
+So enter the gates of Hell, to stay there forever. Indeed, what an evil home for the arrogant!”
+
+## AI Tafsir
+
+**What this ayah teaches:** Earlier to that (24), there is a question about the Qur’ an, and the addressees of the question, at this place, are the polytheists.
+
+**Classical tafsir:** Ibn Kathir notes: In the present verses, the text describes how they, not content with their own straying, tried that others should also go astray like them.
+
+**From the Sunnah:** Still others take one question to have been asked by the polytheists while the other by Muslims.
 ## Personal Reflections
 
 

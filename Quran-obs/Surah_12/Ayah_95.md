@@ -77,6 +77,15 @@ Yusuf said, 'Take this shirt of mine,
 
 In verse 95, it was said: قَالُوا تَاللَّـهِ إِنَّكَ لَفِي ضَلَالِكَ الْقَدِيمِ (They said, 'By God, you are still in your old fallacy!' ). It means that those around Sayyidna Ya` qub (علیہ السلام) commented on what he had said by wondering that he still seemed to be engrossed into his old fallacy, that is: 'Yusuf is alive and we shall meet again.'
 
+## AI Translation
+
+They replied, “By Allah! You are definitely still in your old delusion.”
+
+## AI Tafsir
+
+**What this ayah teaches:** This ayah declares: They replied, “By Allah! You are definitely still in your old delusion.”
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

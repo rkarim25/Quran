@@ -138,6 +138,15 @@ The meaning here is, I will not take a guardian except Allah, without partners, 
 
 After that, it was said: مَّن يُصْرَ‌فْ عَنْهُ يَوْمَئِذٍ فَقَدْ رَ‌حِمَهُ (Whoever is spared from it that day is, indeed, blessed with His mercy). It means that the punishment of the day of Resurrection (al-Mahshar) is extremely horrendous and harsh. Whoever finds this removed from him or her should know that it was great mercy from Allah. This has been further strengthened by saying:' وَذَٰلِكَ الْفَوْزُ الْمُبِينُ that is success, open and clear). The word, اَلفَوزُ : ` al-fawz' (success) means being admitted in Jannah (Paradise). This tells us that deliverance from punishment and admittance into the Paradise are inseparable from each other.
 
+## AI Translation
+
+Whoever is spared the torment of that Day will have certainly been shown Allah’s mercy. And that is the absolute triumph.
+
+## AI Tafsir
+
+**What this ayah teaches:** Whoever finds this removed from him or her should know that it was great mercy from Allah. Say: "To whom belongs all that is in the heavens and the earth?" Say: "To Allah." He has prescribed mercy for Himself.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

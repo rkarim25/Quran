@@ -169,6 +169,15 @@ After that, Sayyidna Nuh (علیہ السلام) was asked to have his family me
 
 The exact number of those who sailed on the ark has not been determined in the Qur'an and Hadith. It has been reported from Sayyidna ` Abdullah ibn ` Abbas ؓ that their total number was eighty, which included three sons of Sayyidna Nuh : (علیہ السلام) - Sam, Ham, Yafith and the three of their wives. The fourth son had stayed with the disbelievers and was drowned with them.
 
+## AI Translation
+
+And when Our command came and the oven burst with water, We said to Noah, “Take into the Ark a pair from every species along with your family—except those against whom the decree to drown has already been passed—and those who believe.” But none believed with him except for a few.
+
+## AI Tafsir
+
+**What this ayah teaches:** The oven that bakes bread is also a tan-nur.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, some of the Tafsir authorities have said that, at this place, ` tannur' means the surface of the land in that water started overflowing from it.
 ## Personal Reflections
 
 

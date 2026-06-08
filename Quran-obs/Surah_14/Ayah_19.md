@@ -108,6 +108,15 @@ In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَك
 
 So, whatever good there is in gratitude, that is for you alone. There-fore, when you are asked to be grateful by Allah Ta’ ala, there is no gain for Him in doing so. In fact, it is His infinite mercy reaching out to you in your interest.
 
+## AI Translation
+
+Do you not see that Allah created the heavens and earth for a purpose? If He wills, He can remove you and bring a new creation.
+
+## AI Tafsir
+
+**What this ayah teaches:** If He wills, He can remove you and bring (in your place) a new creation (19)And for Allah that is not hard or difficult .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

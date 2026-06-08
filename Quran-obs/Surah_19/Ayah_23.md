@@ -116,6 +116,17 @@ That Sayyidah Maryam (علیہا السلام) conceived and gave birth to a chi
 
 In verse 25 Allah Ta` ala commanded Sayyidah Maryam (علیہا السلام) to shake the date tree, although it was within His power to drop the dates in her lap. But here the suggestion is that one should strive to earn one's living, and that the struggle for sustenance does not conflict with one's trust in Allah (Ruh ul-Ma’ ani).
 
+## AI Translation
+
+Labour pains drove her to a palm tree. She cried: "I wish I had died before this and been forgotten long ago."
+
+## AI Tafsir
+
+**What this ayah teaches:** So long as this potential is there, it cannot be taken as totally impossible, because some abnormal factor may increase this potential.
+
+**Classical tafsir:** Ibn Kathir notes: As-Suddi said, "Her place of seclusion was to the east and that was where she would pray at the Sacred House of Jerusalem." Wahb bin Munabbih said, "She ran away and when she reached an area between Ash-Sham and Egypt, she was overcome by labor pains." In another narration from Wahb, he said, "This…
+
+**From the Sunnah:** As-Suddi said, "Her place of seclusion was to the east and that was where she would pray at the Sacred House of Jerusalem." Wahb bin Munabbih said, "She ran away and when she reached an area between Ash-Sham and Egypt, she was overcome by labor pains." In anot… (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

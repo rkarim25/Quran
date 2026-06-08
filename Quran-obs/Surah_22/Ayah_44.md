@@ -131,6 +131,17 @@ Qur’ anic prophecy about the Rightly Guided Caliphs ( خُلفأے راشد�
 
 Having discussed the factual aspect of the circumstances leading up to the revelation of this verse it must, at the same time, be emphasized that where the Qur'an uses general words and phrases, their purpose is not restricted to a particular situation, but is universally applicable to all similar situations. Following this reasoning, Dahhak says that this verse contains an injunction for all those whom Allah Ta’ ala grants power and authority to do all those things which the Four Caliphs did when they controlled the rule. (Qurtubi)
 
+## AI Translation
+
+and the residents of Midian. And Moses was denied too. But I delayed the fate of those who reject the truth until their appointed time then seized them. And how severe was My response!
+
+## AI Tafsir
+
+**What this ayah teaches:** But I granted respite to the those who reject the truth for a while, then I seized them, and how (terrible) was My punishment (44)And many a township did We destroy while they were given to wrongdoing, so that it lie in ruins, and a deserted well and castle Mashid (45)Have they not traveled through the land, and have they hearts wherewith to understand and ears wherewith to hear Verily, it is not the eyes that…
+
+**Classical tafsir:** Ibn Kathir notes: Even if the physical eyes are sound, they still cannot learn the lesson.
+
+**From the Sunnah:** It has already been mentioned that these verses were revealed soon after Hijrah, at a time when the Muslims did not exercise dominion anywhere on earth, which means that Allah Ta’ ala had already made it known that when, at a future date, they would come to po…
 ## Personal Reflections
 
 

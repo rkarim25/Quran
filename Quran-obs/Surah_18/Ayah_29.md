@@ -203,6 +203,15 @@ Pursuant to events of this nature, came the Divine instruction that firmly stopp
 
 The reason why he was prevented from accepting the advice of the Quraysh chiefs has been given towards the end of the verse. It was said that their hearts were heedless of the remembrance of Allah, everything they did was subservient to their physical desires and these conditions guaranteed that they would stand alienated far from the mercy and support of Allah Ta` ala.
 
+## AI Translation
+
+Say: The truth is from your Rabb — so whoever wills, let them believe; and whoever wills, let them reject the truth. We have prepared for wrongdoers a Fire whose walls will surround them.
+
+## AI Tafsir
+
+**What this ayah teaches:** And say: "The truth is from your Lord." Then whosoever wills, let him believe; and whosoever wills, let him disbelieve.
+
+**Classical tafsir:** Ibn Kathir notes: When the those who reject the truth wants to drink it and brings it close to his face, it will scald it so that the skin of his face falls off into it.
 ## Personal Reflections
 
 

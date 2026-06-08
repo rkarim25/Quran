@@ -184,6 +184,17 @@ In the first verse cited above, it has been considered sufficient to state that 
 
 According to the Tafsir mentioned immediately above, the outcome of the verse would be that those who, despite acting contrary to Shari` ah and Sunnah, claim to be a Waliyy of Allah are liars and those who take such people to be a Waliyy of Allah are down in deception.
 
+## AI Translation
+
+And why should Allah not punish them when they block people from al-Masjid al-Haram, though they are not its rightful guardians? Its guardians are only those who live with taqwa—but most of them do not know.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then, they thought that a custodian had the right to stop anyone he wished from entering into the mosque - while, a masjid or mosque is a House of Allah and no one has the right to stop anyone from coming in it.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore taste the punishment because you used to disbelieve .
+
+**From the Sunnah:** Allah states that the idolators deserved the torment, but He did not torment them in honor of the Prophet ﷺ residing among them. None can be its guardians except those who have Taqwa,) meaning, the Prophet ﷺ and his Companions are the true dwellers (or worthy maintainers) of Al-Masjid Al-Haram, not the pagans.
 ## Personal Reflections
 
 

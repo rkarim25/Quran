@@ -183,6 +183,15 @@ The ninth attributes stated here is: وَيَدْرَ‌ءُونَ بِالْح�
 
 After having recounted these nine attributes of the obedient servants of Allah Ta` ala, the reward promised for them is: أُولَـٰئِكَ لَهُمْ عُقْبَى الدَّارِ (Those are the ones for whom there is the ultimate abode). The word: الدَّارِ (ad-dar: abode, home) refers to the abode of the 'Akhirah or Hereafter, that it, the prosperity and success of the 'Akhirah is for them. Some com-mentators have said that 'abode' at this place means the abode of the mortal world the sense of which is that good people, though they have to face hardships too in this mortal world, but, finally, they are the ones who succeed in this mortal world as well.
 
+## AI Translation
+
+They endure with sabr—steadfast endurance that keeps you upright—seeking their Rabb's pleasure, establish salah, give from what We provided, secretly and openly, and respond to harm with good. They will have the ultimate home:
+
+## AI Tafsir
+
+**What this ayah teaches:** Doing it secretly is not appropriate so that other people could be pursuaded and prompted to do the same.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, religious scholars have said that the giving of obligatory Zakah and charities openly is better and more merit-worthy.
 ## Personal Reflections
 
 

@@ -194,6 +194,17 @@ Sahihs of Bukhari and Muslim transmit on the authority of Sayyidna Ibn ` Abbas Ø
 
 Tawakkul (Trust in Allah) does not mean to forsake the causes and means Allah has created for us to acquire things. One should utilise the means at our disposal. However, instead of relying solely on them, one should rather put his trust in Allah, in that no task shall be accomplished unless Allah wills it. After describing the virtues and blessings of taqwa and Twakkul, the next verses lay down some more rules about divorce and "iddah.
 
+## AI Translation
+
+and provide from sources they could never imagine. Whoever puts their trust in Allah, He alone is sufficient. Allah achieves His Will. He has already set a destiny for everything.
+
+## AI Tafsir
+
+**What this ayah teaches:** And He will provide him from where he never could imagine.) meaning, whoever has Taqwa of Allah in what He has commanded and avoids what He has forbidden, then Allah will make a way out for him from every difficulty and will provide for him from resources he never anticipated or thought about.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** that 'Imran bin Husayn was asked about a man who divorced his wife and then had sexual intercourse with her, without notifying witnesses of when he divorced her and when he took her back. (Sunan Abi Dawud, Sunan Ibn Majah) he rode the Prophet's camel while sitting behind the Prophet , and the Messenger of Allah ï·º said to him, (Musnad Ahmad)
 ## Personal Reflections
 
 

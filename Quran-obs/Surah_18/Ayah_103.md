@@ -99,6 +99,17 @@ Who are those referred to as: الْأَخْسَرِ‌ينَ أَعْمَالً
 
 Similarly, the deed of anyone who acts for the pleasure of the created by way of hypocrisy, that deed too will remain deprived of thawab (reward). It is in terms of this general sense that some revered Sahabah have declared the Kharjites as the substantiation of this verse. Then, there are some commentators who take the Mu'tazilah, the Rawafid and some others as the groups who have strayed away from the straight path. But, in the next verse (105), it has been determined that meant at this place are those particular disbelievers who deny the verses of Allah Ta’ ala and the coming of Qiyamah and Akhirah. It was said: الَّذِينَ كَفَرُ‌وا بِآيَاتِ رَ‌بِّهِمْ وَلِقَائِهِ (Those are the ones who disbelieved in the signs of their Lord and in the meeting with Him). Therefore, al-Qurtubi, Abu Hayyan, Mazhari and others prefer the view that really meant at this place are particular disbelievers who deny Allah, the Last Day and the Reckoning of deeds. But, apparently too, even those people whose deeds were ruined by their corrupted beliefs and whose effort had gone waste cannot remain unaffected by its general sense. As for the related sayings re-ported from Sayyidna ` Ali and Sa` d ؓ ، this is precisely what they mean. (Qurtubi)
 
+## AI Translation
+
+Say, O Prophet, “Shall we inform you of who will lose the most deeds?
+
+## AI Tafsir
+
+**Context:** Are they the Haruriyyah?' He said, 'No, they are the Jews and Christians. As for the Jews, they disbelieved in Muhammad ﷺ, and as for the Christians, they disbelieved in Paradise and said that there is no food or drink t…
+
+**What this ayah teaches:** So their works are in vain, and on the Day of Resurrection, We shall assign no weight for them. 'Ali bin Abi Talib, Ad-Dahhak and others said: "They are the Haruriyyah," so this means, that according to 'Ali, may Allah be pleased with him, this Ayah includes the Haruriyyah just as it includes the Jews, the Christians and others.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ali bin Abi Talib, Ad-Dahhak and others said: "They are the Haruriyyah," so this means, that according to 'Ali, may Allah be pleased with him, this Ayah includes the Haruriyyah just as it includes the Jews, the Christians and others.
 ## Personal Reflections
 
 

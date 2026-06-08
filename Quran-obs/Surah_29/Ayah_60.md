@@ -121,6 +121,17 @@ Ibn Abi Hatim, may Allah have mercy on him, recorded from Abu Mu'aniq Al-Ash'ari
 
 وَكَأَيِّن مِّن دَابَّةٍ لَّا تَحْمِلُ رِ‌زْقَهَا اللَّـهُ يَرْ‌زُقُهَا وَإِيَّاكُمْ (And how many an animal there is that does not carry its provision. Allah gives provision to it as well as to you, - 29:60), that is, ` You should ponder over the fact that there are innumerable animals on earth who do not collect and store their sustenance, nor do they worry about its collection. But Allah Ta’ ala provides them their sustenance daily by His grace'. This applies to almost all animals, except a few. For instance, ants and rats are two such animals that store their food. Ants do not come out of their holes in winter; hence store the food during the summer season. Among the birds crow is the only one that collects food in its nest, but then forgets it. Thus, all the countless animals living on earth are those who neither collect their food for the next day, nor do they have means to do so. It is stated in a hadith that all the birds set off from their nests at dawn in a state of hunger, and return in the evening satiated. They all get their sustenance daily from the bounty of Allah Ta’ ala, and the practice goes on throughout their lifetime.
 
+## AI Translation
+
+How many creatures cannot secure their provision! Allah provides for them and for you. He is All-Hearing, All-Knowing.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah gives provision to it as well as to you, - 29:60), that is, ` You should ponder over the fact that there are innumerable animals on earth who do not collect and store their sustenance, nor do they worry about its collection.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore worship Me.) When things became too difficult for the believers in Makkah who were in a weak position and were oppressed, they left and migrated to Ethiopia, where they were able to practice their religion.
+
+**From the Sunnah:** The Muslims found Ethiopia the best place for guest; where Ashamah, the Negus or king, may Allah have mercy on him, gave them refuge, helped them, supported them, and honored them in his land. Ibn Abi Hatim, may Allah have mercy on him, recorded from Abu Mu'aniq Al-Ash'ari that Abu Malik Al-Ash'ari told him that the Messenger of Allah ﷺ told him:
 ## Personal Reflections
 
 

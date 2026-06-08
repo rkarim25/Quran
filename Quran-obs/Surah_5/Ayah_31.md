@@ -320,6 +320,17 @@ Sayyidna ` Umar ibn ` Abd al-` Aziz, may Allah be pleased with him, gave the fol
 
 And Sayyidna al-Murtada ؓ said: 'Even the smallest deed done with Taqwa is not small. And how a deed which has been accepted can be called small? (Ibn Kathir)
 
+## AI Translation
+
+Then Allah sent a crow digging in the ground, in order to show him how to bury the corpse of his brother. He cried, “Alas! Have I failed to be like this crow and bury the corpse of my brother?” So he became regretful.
+
+## AI Tafsir
+
+**Context:** In addition to what has been said above, through this very word, the addressees of the Holy Qur'an are also being chastened and guided to the fact that their noble prophet, on him be the peace and blessing of Allah, who…
+
+**What this ayah teaches:** For this reason, the learned among the righteous elders (salaf) have said that this verse is a shot in the arms of those who are devoted to acts of worship and do deeds in the hope of finding the pleasure of Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Am I not even able to be as this crow and to hide the dead body of my brother?" Then he became one of those who regretted.) As-Suddi said that the Companions said, "When his brother died, Qabil left him on the bare ground and did not know how to bury him.
 ## Personal Reflections
 
 

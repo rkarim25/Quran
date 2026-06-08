@@ -156,6 +156,17 @@ Crossing the limits in Du` a' may take several forms. Firstly, that literal form
 
 The third form of crossing the limits is that someone makes a Du` a' wishing ill of Muslims in general, or asks from Allah something which is harmful for them. Similarly, it is also a form of crossing the limits - as mentioned here - that Du` a' be made in a raised voice without the need to do so. (Tafsir Mazhari, Ahkam al-Qur'an)
 
+## AI Translation
+
+Call upon your Rabb humbly and secretly. Surely He does not like the transgressors.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then, in the second word, the instruction given is that the asking in Du` a' for what one needs should be done secretly and in a lowered voice which is superior in merit and more likely to be answered.
+
+**Classical tafsir:** Ibn Kathir notes: But, it is necessary that everyone un-derstands that Du` a' is not ` read.' It is ` asked.' Therefore, it is crucial that one asks as one should, properly, as due.
+
+**From the Sunnah:** Paradise, if I enter it. (Musnad Ahmad) this Hadith with a good chain that there is no harm in, and Allah knows best. (Sunan Abi Dawud, Sunan Ibn Majah)
 ## Personal Reflections
 
 

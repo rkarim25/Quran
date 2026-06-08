@@ -156,6 +156,15 @@ When he would talk to one of his friends, Mu'adh used to say: "What I am saying 
 
 وَفِي السَّمَاءِ رِ‌زْقُكُمْ وَمَا تُوعَدُونَ (And in the heavens, there is your sustenance and all that you have been promised.... 51:22). The plain and simple interpretation of this is that 'in heaven' here means what has been written in the Preserved Tablet (Al-Lauh-ul-Mahfuz). It is clear that man's sustenance, what has been promised to him and whatever its consequences will be - are all preserved in the Preserved Tablet. Sayyidna Abu Said Khudri ؓ reports that the Holy Messenger ﷺ said: "Even if someone tries to avoid and run away from his designated sustenance, he will not succeed, because his sustenance will pursue him just as he cannot run away from his death". (Qurtubi) Some scholars say that 'sustenance' here signifies "rain". In this case 'heaven' will not refer to the body, arch or vault of the sky. It refers to anything that hangs overhead and covers things in its shade, including the celestial atmosphere and clouds from where the rain falls. The expression 'all that you have been promised' refers to Paradise and its delights. Allah, the Pure and Exalted, knows best.
 
+## AI Translation
+
+In heaven is your provision and whatever you are promised.
+
+## AI Tafsir
+
+**What this ayah teaches:** Will you not then see (21)And in the heaven is your provision, and that which you are promised (22)Then by the Lord of the heaven and the earth, it is the truth, just as you can speak .
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Every night, they would worship Allah, even during a little part of the night." Qatadah narrated that Mutarrif bin 'Abdullah said, "Hardly a night would pass by them that they did not pray to Allah the Exalted and Most Honored, either in the beginning, or the middle of it." Mujahid… As for the Mahrum, Ibn 'Abbas and Mujahid said, "He is the poor person who does not receive a stipen…
 ## Personal Reflections
 
 

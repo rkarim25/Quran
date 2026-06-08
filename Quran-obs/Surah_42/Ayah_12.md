@@ -133,6 +133,15 @@ Commentary
 
 وَمَا اخْتَلَفْتُمْ فِيهِ مِن شَيْءٍ فَحُكْمُهُ إِلَى اللَّـهِ (Whatever dispute you have in any matter, its judgment lies with Allah. - 10) It means that the judgment in all those matters in which you dispute lies with Allah, because the sovereignty belongs to Allah only, as stated in another verse:إِنِ الْحُكْمُ إِلَّا لِلَّـهِ (The Decision belongs to none but Allah - 6:57). The direction in many verses to obey Rasulullah ﷺ and in some verses to obey those in authority does not contradict the above, because the orders of Rasulullah ﷺ and of the authorities are also, in a way, orders of Allah. If the order has been received through ` wahy' or based upon the clear and definite verses (nusus) of the Qur'an and sunnah, then its being an order of Allah is obvious. And if the order is an 'ijtihad' (inference) which in turn is based upon nusus of Qur'an and sunnah, then also, in a way, it is an order of Allah. ijtihadat' (plural of ` ijtihad' ) of the ` mujtahidin' of the ummah (those who are competent to interpret the Qur'an and Sunnah, and infer Islamic laws from them) on this basis, are included in orders of Allah. That is why the learned scholars have declared that the fatwa (ruling) given by a ` mufti' (A competent Islamic scholar) is to be taken as a part of the religious law by the common masses who do not have the ability to understand the Qur'an and the Sunnah directly.
 
+## AI Translation
+
+To Him belong the keys of the treasuries of the heavens and the earth. He gives abundant or limited provisions to whoever He wills. Indeed, He has perfect knowledge of all things.
+
+## AI Tafsir
+
+**What this ayah teaches:** And He Who gives life to the dead, and He is Able to do all things (9)And in whatsoever you differ, the decision thereof is with Allah.
+
+**Classical tafsir:** Ibn Kathir notes: The direction in many verses to obey Rasulullah ﷺ and in some verses to obey those in authority does not contradict the above, because the orders of Rasulullah ﷺ and of the authorities are also, in a way, orders of Allah.
 ## Personal Reflections
 
 

@@ -106,6 +106,17 @@ Then, there are many commentators who take 'al-qawl' at this place to mean what 
 
 Therefore, it has been said that this verse was revealed about Sayyidna Zayd Ibn ` Amr Ibn Nufayl, Sayyidna Abu Dharr al-Ghifari and Sayyidna Salman al-Farisi ؓ . Sayyidna Zayd Ibn ` Amru Ibn Nufayl ؓ used to hate shirk and idol worship even during the days of Jahiliyyah. The other two Sahabah, Sayyidna Abu Dharr al-Ghifari and Sayyidna Salman al-Farisi ؓ listened to people of different religions, to the mushriks, the Jews and the Christians, and saw their ways of life, and it was only then that they embraced Islam and, finding the teachings of the Qur'an as the best, they preferred them. (Qurtubi)
 
+## AI Translation
+
+those who listen to what is said and follow the best of it. These are the ones rightly guided by Allah, and these are truly the people of reason.
+
+## AI Tafsir
+
+**Context:** (Those who avoid At-Taghut by not worshipping them) was revealed concerning Zayd bin 'Amr bin Nufayl and Abu Dharr and Salman Al-Farisi, may Allah be pleased with them.
+
+**What this ayah teaches:** If we were to follow this Tafsir, the verse would mean that, as far as listening is concerned, these people do listen to what everyone has to say - be they those who reject the truth or believer, be it truth or falsehood, good or bad, everything - but, when it comes to following, they follow only that which is the best.
+
+**Classical tafsir:** Ibn Kathir notes: In fact, these are believers who have followed the Word of Allah and the teachings of His Rasul after having found it true and best.
 ## Personal Reflections
 
 

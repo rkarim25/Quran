@@ -150,6 +150,17 @@ It is also mentioned in this narration that Allah Ta’ ala so decreed that the 
 
 Further on, the verse describes the tradition which has been established for all times as a result of the proclamation of Sayyidna Ibrahim namely يَأْتُوكَ رِ‌جَالًا وَعَلَىٰ كُلِّ ضَامِرٍ‌ يَأْتِينَ مِن كُلِّ فَجٍّ عَمِيقٍ (22:28) meaning that people will come to Baitullah from the four corners of the earth, some on foot and others on their mounts, which will become lean because of the long distances traversed by them. From that remote time until today, though thousands of years have elapsed, people come to Baitullah to perform pilgrimage, just as they did in the earliest times. All the prophets who came after Sayyidna Ibrahim (علیہ السلام) and their followers strictly observed this tradition. During the long period of ignorance after Sayyidna ` Isa' (علیہ السلام) ، the Arabs, even though they lapsed into the evils of idolatry, yet they continued to perform very faithfully all the rituals of the pilgrimage precisely as they had inherited them from the time of Sayyidna Ibrahim (علیہ السلام) .
 
+## AI Translation
+
+Call all people to the pilgrimage. They will come to you on foot and on every lean camel from every distant path,
+
+## AI Tafsir
+
+**What this ayah teaches:** They will come to you on foot and on every lean camel, they will come from every Fajj 'Amiq . From that remote time until today, though thousands of years have elapsed, people come to Baitullah to perform pilgrimage, just as they did in the earliest times.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** There is no one among the Muslims who does not long to see the Ka'bah and perform Tawaf, people come to this spot from every corner of the world.
 ## Personal Reflections
 
 

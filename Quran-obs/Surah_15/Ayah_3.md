@@ -104,6 +104,17 @@ It has been reported from Sayyidna Abu Ad-Darda' ؓ that he stood up on the Mimb
 
 Imam Al-Hasan Al-Basri (رح) said: A person with long plans, hopes and fancies is bound to ruin his proper conduct in life. (Al-Qurtubi)
 
+## AI Translation
+
+So let them eat and enjoy themselves and be diverted by false hope, for they will soon know.
+
+## AI Tafsir
+
+**What this ayah teaches:** Leave them to eat and enjoy, and let them be preoccupied with (false) hope. How much would those who disbelieved wish that they had been Muslims.)(3.
+
+**Classical tafsir:** Ibn Kathir notes: How much would those who disbelieved wish that they had been Muslims.)(3.
+
+**From the Sunnah:** How much would those who disbelieved wish that they had been Muslims.)(3. The those who reject the truth will someday wish that They had been Muslims
 ## Personal Reflections
 
 

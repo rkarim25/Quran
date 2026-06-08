@@ -226,6 +226,17 @@ Verse [ 2] وَأَخْرَ‌جَتِ الْأَرْ‌ضُ أَثْقَالَ�
 
 "The earth will throw out the pieces of its liver [ contents ]. Gold and silver will come out like columns. A murderer will come and say: 'I killed for this?' The one who broke the ties of kinship will say: 'For this I severed the ties of kinship?' The thief will say: 'For this I got my hand amputated?' Then they will leave it there, and no one will take anything from it."
 
+## AI Translation
+
+because your Lord inspired it to speak.
+
+## AI Tafsir
+
+**What this ayah teaches:** Because your Lord will inspire it.)(6. That Day it will declare its information.)(5.
+
+**Classical tafsir:** Ibn Kathir notes: This refers to the alteration of the state of things and the earth moving and shaking.
+
+**From the Sunnah:** Then the man said, 'Rather give me something to recite that is comprehensive (of all of these), O Messenger of Allah.' So the Prophet ﷺ told him to recite So the man came to him and the Prophet ﷺ said to him,
 ## Personal Reflections
 
 

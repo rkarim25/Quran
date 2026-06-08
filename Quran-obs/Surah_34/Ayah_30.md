@@ -134,6 +134,17 @@ The mission of a messenger or prophet assigned to all prophets sent before the H
 
 According to a narration of Sayyidna Jabir ؓ appearing in the Sahihs of al-Bukhari and Muslim and elsewhere, the Holy Prophet ﷺ has been reported to have said: 'I have been given five things that have not been given to anyone else before me: (1) That Allah Ta’ ala helped me by placing in my person such an awe as it is felt by the people from the distance of a month of travel. (2) That the whole earth has been declared to be a masjid and a purifier for me (in the religious codes of past prophets, their worship used to be performed only in particular places set up as houses of worship. Worship was not allowed outside their appointed prayer places, either in the open or inside homes. For the Muslim community, Allah Ta’ ala made the whole earth a masjid in the sense that Salah can be made everywhere - and in the absence of water not being available or its use being harmful, the dust of the earth was made tahur or purifier so that it could be used to make tayammum which becomes a valid alternate of wudu). (3) That property from the spoils has been made halal for me. Before me, it was not halal for any other community (among whom the rule was to assemble the war spoils collected from the disbelieving adversary and deposit it at an appointed place in the belief that some fire or lightening would descend from the heavens and burn it, and this act of burning would itself be the sign of the acceptance of their religious war. For the Muslim community, distributing the spoils in accordance with the rule enunciated by the Qur'an and spending it as needed was made permissible). (4) That I was given the station of the Great Intercession اِلشَّفَاعَت اَلکُبرَیٰ : ash-Shafa'ah al-Kubra) (that is, when no prophet would dare intercede on behalf of others on the fateful plains of the Resurrection [ al-hashr ], I shall, then, be given the opportunity to intercede). (5) That before me, every prophet was sent to his particular people - I have been sent as a prophet to all peoples of the world. (Ibn Kathir)
 
+## AI Translation
+
+Say: "A Day has already been appointed for you. You cannot delay it by a moment nor advance it."
+
+## AI Tafsir
+
+**What this ayah teaches:** The entire earth has been made a Masjid and a means of purification for me, so that when the time for prayer comes, any man of my Ummah should pray. Therefore, it will hold on and survive till Qiyamah in its original state and there would be no need for some other prophet to be sent.
+
+**Classical tafsir:** Ibn Kathir notes: The entire earth has been made a Masjid and a means of purification for me, so that when the time for prayer comes, any man of my Ummah should pray.
+
+**From the Sunnah:** intercede on behalf of others on the fateful plains of the Resurrection [ al-hashr ], I shall, then, be given the opportunity to intercede). (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

@@ -170,6 +170,17 @@ Al-Baghawi said in his Tafsir, "This was the view of 'Abdullah bin 'Umar, Sa'id 
 
 In verse 107, it was said: وَفَدَيْنَاهُ بِذِبْحٍ عَظِيمٍ (And We ransomed him with a great sacrifice.). In Hadith reports, it is said that on hearing this voice from the heavens, Sayyidna Ibrahim (علیہ السلام) looked up and saw Sayyidna Jibra'il (علیہ السلام) with a ram. From some reports, it appears that it was the same ram that was offered as sacrifice by Habil (Abel), the son of Sayyidna 'Adam (علیہ السلام) . Allah knows best. In short, a present of this ram of Paradise was made to Sayyidna Ibrahim (علیہ السلام) ، and he sacrificed it in lieu of his son as commanded by Allah. This sacrificial animal was called: عَظِیم (` azim: great) because it had come by way of mercy from Allah, and no one can entertain any doubt about the acceptance of its sacrifice. (Tafsir Mazhari, and others)
 
+## AI Translation
+
+and blessed Abraham with honourable mention among later generations:
+
+## AI Tafsir
+
+**What this ayah teaches:** They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs. They were jealous of them, so they added this idea and changed the meaning of the phrase "only son" to mean 'the only son who is with you,' because Isma'il had been taken with his mother to Makkah.
+
+**Classical tafsir:** Ibn Kathir notes: They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs.
+
+**From the Sunnah:** The Muslims and the People of the Book agree, and indeed it is stated in their Book, that Isma'il, peace be upon him, was born when Ibrahim, peace be upon him, was eighty-six years old, and Ishaq was born when Ibrahim was ninety-nine years old.
 ## Personal Reflections
 
 

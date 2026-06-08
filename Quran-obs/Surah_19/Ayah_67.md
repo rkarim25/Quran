@@ -138,6 +138,15 @@ Commentary
 
 Many commentators, among them Mujahid, Ibn Zubair, Qatadah, and Ibn ` Abbas ؓ ، are of the view that in the present context the word means "a like" or "comparable" and the sense of the verse is that in the entire pantheon of false gods none is equal or comparable to Allah Ta` ala in so far as divine attributes are concerned.
 
+## AI Translation
+
+Do they not remember We created them before when they were nothing?
+
+## AI Tafsir
+
+**What this ayah teaches:** This means that He, the Exalted, created the human being while he was nothing.
+
+**Classical tafsir:** Ibn Kathir notes: This means that He, the Exalted, created the human being while he was nothing.
 ## Personal Reflections
 
 

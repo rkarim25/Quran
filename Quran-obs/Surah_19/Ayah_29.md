@@ -172,6 +172,17 @@ This saying of the Prophet ﷺ may be interpreted in two ways. One, that Sayyida
 
 These words suggest that when someone who is descended from' righteous and pious ancestors commits a sin, then the sin is of greater magnitude compared to a sin committed by an ordinary person, because the sin brings bad name to the pious elders. It is for this reason that descendants of pious persons should make extra effort in the performance of righteous deeds, and fear Allah at all times.
 
+## AI Translation
+
+She pointed to the baby. They said: "How can we speak to an infant in the cradle?"
+
+## AI Tafsir
+
+**What this ayah teaches:** They said: "How can we talk to one who is a child in the cradle?") This is what took place while they were in doubt about her situation, condeming her circumstances, saying what they wanted to say.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, she referred all speech to him (the child) and she directed them to his address and speech to them.
+
+**From the Sunnah:** This saying of the Prophet ﷺ may be interpreted in two ways.
 ## Personal Reflections
 
 

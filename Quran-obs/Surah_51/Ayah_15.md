@@ -156,6 +156,15 @@ When he would talk to one of his friends, Mu'adh used to say: "What I am saying 
 
 قُتِلَ الْخَرَّ‌اصُونَ (Death upon those who make conjectures - 51:10). The expression kharrasun is the plural of kharras which means one who estimates or say things by conjecture. In this context the word refers to those stubborn and obstinate infidels who, without any reason or evidence, say discordant things about the Messenger ﷺ . Thus it would not be out of turn to interpret kharrasun as kadhdhabun, meaning 'the great liars' as they are condemned, denounced, cursed and imprecated (Mazhari) in this statement. After the mention of infidels, several verses that follow describe the qualities of the righteous people and the pleasant consequences of their righteousness.
 
+## AI Translation
+
+The people of taqwa will be amid Gardens and springs,
+
+## AI Tafsir
+
+**What this ayah teaches:** Qualities of Those Who have Taqwa and Their Reward Allah the Exalted informs about those who have Taqwa, that on the Day of their Return they will be amidst gardens and springs. Verily, those who have Taqwa will be in the midst of Gardens and Springs (15)Taking joy in the things which their Lord has given them.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Every night, they would worship Allah, even during a little part of the night." Qatadah narrated that Mutarrif bin 'Abdullah said, "Hardly a night would pass by them that they did not pray to Allah the Exalted and Most Honored, either in the beginning, or the middle of it." Mujahid… As for the Mahrum, Ibn 'Abbas and Mujahid said, "He is the poor person who does not receive a stipen…
 ## Personal Reflections
 
 

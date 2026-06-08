@@ -169,6 +169,17 @@ The second consideration he mentions is: وَاَنَّ اللّٰهَ لَاي�
 
 This statement could be taken to mean that an investigation would expose the betrayal of the betrayers and people would stand warned that betrayers are finally disgraced leaving a lesson for others to stay away from doing things like that in the future. Also possible here is another meaning, that is, had Sayyidna ~suf~ received the royal honours in the same climate of doubt, it may have occured to all watchers that it was not impossible to betray and be honoured at the same time. This would have distorted their faith in fidelity and would have driven away the distaste for betrayal from their hearts. However, it was because of these two considerations that Sayyidna Yusuf (علیہ السلام) did not favour his leaving the prison immediately after having received the message of his release. In fact, there was a touch of royal elegance in his manner when he demanded that his case be investigated first.
 
+## AI Translation
+
+From this, Joseph should know that I did not speak dishonestly about him in his absence, for Allah certainly does not guide the scheming of the dishonest.
+
+## AI Tafsir
+
+**What this ayah teaches:** Also possible here is another meaning, that is, had Sayyidna ~suf~ received the royal honours in the same climate of doubt, it may have occured to all watchers that it was not impossible to betray and be honoured at the same time.
+
+**Classical tafsir:** Ibn Kathir notes: It means: I delayed my release so that the ` Aziz of Misr comes to know for sure that I did not betray him in any way during his absence.
+
+**From the Sunnah:** If I were to stay in prison for such a long time as Yusuf did, I would have accepted the offer.) In another narration collected by Ahmad from Abu Hurayrah, the Prophet ﷺ said about Yusuf's statement,
 ## Personal Reflections
 
 

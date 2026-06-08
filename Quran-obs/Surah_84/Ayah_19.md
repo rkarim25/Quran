@@ -160,6 +160,17 @@ The ignoramus and unmindful man is made aware of the fact that the vicissitudes 
 
 Under the phrase above طَبَقًا عَن طَبَقٍ tabaqan ` an tabaq 'from stage to stage', a similar narration is cited by Abu Nu'aim from Sayyidna Jabir Ibn ` Abdullah that the Holy Prophet ﷺ stated that these verses remind the unmindful of his creation, the vicissitudes of his life and instructs him to reconsider his position and the consequences [ of his attitude in this life as there is still time ] and to prepare for next life. However, despite these clear guidelines, there are people who never desist from their heedlessness.
 
+## AI Translation
+
+you will pass from stage to stage in life and beyond.
+
+## AI Tafsir
+
+**What this ayah teaches:** I swear by Ash-Shafaq (16)And the night and what it Wasaqa (17)And the moon when it Ittasaq (18)You shall certainly travel from stage to stage (19)What is the matter with them, that they believe not (20)And when the Qur'an is recited to them, they fall not prostrate (21)Nay, those who disbelieve deny (22)And Allah knows best what they gather (23)So, announce to them a painful t…
+
+**Classical tafsir:** Ibn Kathir notes: The primitive sense of the word wasaqa means to 'pile, gather, heap up the thing'.
+
+**From the Sunnah:** His main goal in this life should be to cultivate for the next life as the Prophet ﷺ said:
 ## Personal Reflections
 
 

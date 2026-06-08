@@ -106,6 +106,19 @@ Commentary
 
 طه (Ta-Ha) Many Commentators have assigned different meanings to this word. Sayyidna Ibn ` Abbas ؓ thinks it means یا رجُل (0 man! ) while according to Ibn ` Umar ؓ it means یا حبیبی (0 my Dear! ). It is also suggested that طه and یٰسین are the names of the Holy Prophet ﷺ . However the most obvious explanation is the one given by Sayyidna Abu Bakr ؓ and the majority of scholars, namely that like many other isolated letters appearing at the beginning of several chapters of the Qur’ an (such as الٓمٓ), this word is also among the مُتَشابِھَات mysteries whose meaning is known only to Allah Ta’ ala.
 
+## AI Translation
+
+Ta-Ha.
+
+## AI Tafsir
+
+**Context:** Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His Messenger ﷺ, he and his Companions adhered to it.
+
+**What this ayah teaches:** This ayah declares: Ṭâ-Hâ.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** He created the lofty heavens with their high altitudes and subtleties.' It has been reported in a Hadith, which At-Tirmidhi and others graded as authentic, that the density of each sky of the heavens is the distance of five hundred years travel and the distanc… (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

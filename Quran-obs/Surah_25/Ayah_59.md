@@ -223,6 +223,17 @@ Then Allah rebukes the idolators who prostrate to idols and rivals instead of Al
 
 فَاسْأَلْ بِهِ خَبِيرً‌ا (So ask about Him someone who knows - 25:59). In this verse it is described that the creation of the earth and the skies, and then to place Himself on ` Arsh in consonance to His exalted position are all acts of Allah Ta’ ala. If someone wants its confirmation, he should find out from those who know the truth. Here the allusion for knowledge is toward Allah Ta’ ala or Jibra'il (علیہ السلام) . It is also possible that the reference is toward the scholars of the previous Books wherein the truth was also mentioned. (Mazhari)
 
+## AI Translation
+
+He is the One Who created the heavens and the earth and everything in between in six Days, then established Himself on the Throne. He is the the Rahman! Ask none other than the All-Knowledgeable about Himself.
+
+## AI Tafsir
+
+**Context:** (Then He rose over (Istawa) the Throne. The ar-Rahman! Ask Him, as He is the All-Knower.) meaning, find out about Him from one who knows most about Him, and follow him and take him as your example.
+
+**What this ayah teaches:** Then He rose over the Throne.) means, He is running all affairs and He decrees according to the truth, and He is the best of those who decide.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

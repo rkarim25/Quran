@@ -98,6 +98,15 @@ Ibn Jarir commented, "All these deeds that they did, O Muhammad, they did while 
 
 The sense of the fourth verse (132) is fairly clear. It says that with Allah there are ranks for classes of people among human beings and the Jinn. These ranks have been assigned in terms of their deeds. When rewarded or punished, the measure used shall be that of their deeds.
 
+## AI Translation
+
+They will each be assigned ranks according to their deeds. And your Rabb is not unaware of what they do.
+
+## AI Tafsir
+
+**What this ayah teaches:** This is because your Lord would not destroy the (populations of) towns for their wrongdoing while their people were unaware (131)For all there will be degrees according to what they did.
+
+**Classical tafsir:** Ibn Kathir notes: This is because your Lord would not destroy the (populations of) towns for their wrongdoing while their people were unaware (131)For all there will be degrees according to what they did.
 ## Personal Reflections
 
 

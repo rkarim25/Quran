@@ -216,6 +216,17 @@ The first among the five oaths sworn at the beginning is Fajr (dawn). It may ref
 
 Some commentators, like Mujahid and ` Ikramah, refer this to the dawn of 'the Day of Sacrifice' on the tenth of Dhul Hijjah. A narration from Sayyidna Ibn ` Abbas ؓ concurs with this view. The reason for this specification is that according to Islamic principles, Allah has made a night to precede the day. All days are preceded by their respective nights, except the 'the Day of Sacrifice', because the night that precedes the Day of Sacrifice is not the night of Sacrifice. In fact, the preceding night, according to Shari'ah, is the night of ` Arafah. Staying at ` Arafat is the most important and foremost rite of Hajj. If a pilgrim is not able to reach ` Arafat on the 9th of Dhul Hijjah, any time in the day or in the night following it to halt there for a while, he will not be considered to have performed Hajj at all. However if he arrives there any time during the night before the break of dawn on the 10th of Dhul Hijjah, his halt in ` Arafah will be acceptable and his Hajj will be considered valid. This shows that the day of ` Arafah has two nights, one preceding it, and another following it. The Day of Sacrifice [ 10th of Dhul Hijjah ] has no night. From this point of view, the dawn of the day of Sacrifice, among all the days of the year, occupies a special position. [ Qurtubi ].
 
+## AI Translation
+
+By the dawn—Allah swears by the break of morning, when darkness lifts and a new day begins, as witness to truths that only attentive hearts grasp.
+
+## AI Tafsir
+
+**What this ayah teaches:** The intellect has only been called Hijr because it prevents the person from doing that which is not befitting of him of actions and statement. Therefore, Allah saved him and those who believed with him from among them, and He destroyed others with a furious, violent wind.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "Iram was an ancient nation who were the first people of 'Ad." Qatadah bin Di'amah and As-Suddi both said, "Verily, Iram refers to the House of the kingdom of 'Ad." This latter statement is good and strong. Ibn 'Abbas said, "They carved them and they hewed them." This was also said by Mujahid, Qatadah, Ad-Dahhak and Ibn Zayd.
+
+**From the Sunnah:** a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer.
 ## Personal Reflections
 
 

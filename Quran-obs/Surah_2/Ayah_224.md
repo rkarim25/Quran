@@ -163,6 +163,17 @@ Ibn 'Abbas, Mujahid and several others said that this Ayah means swearing about 
 
 The Verse warns those who swear in the name of Allah that they will not do some vituous deeds or that they will not effect a compromise between two groups. The Verse reminds them that by this behaviour they are using the name of Allah as a barrier against the good deeds, which is a severe violation of the sanctity of the name of Allah, and they must avoid it in any case,
 
+## AI Translation
+
+Do not use Allah's name in your oaths as an excuse to avoid doing good, guarding against evil, or making peace between people. Allah is All-Hearing, All-Knowing.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Verse reminds them that by this behaviour they are using the name of Allah as a barrier against the good deeds, which is a severe violation of the sanctity of the name of Allah, and they must avoid it in any case,
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the Prophet ﷺ ordered them to intentionally recite the slogan of Ikhlas, just as they mentioned these words by mistake, so that it (the word of Ikhlas) may eradicate the word (of Shirk).
+
+**From the Sunnah:** This is how Muslim reported this Hadith and also Imam Ahmad. (Sahih Muslim, Musnad Ahmad) Suporting this view, which is the majority view, is what is reported in the Two Sahihs that Abu Musa Al-Ash'ari narrated that Allah's Messenger ﷺ said:
 ## Personal Reflections
 
 

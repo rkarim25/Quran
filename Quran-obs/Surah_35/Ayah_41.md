@@ -142,6 +142,17 @@ Then Allah tells us of His mighty power, by which the heavens and the earth stan
 
 In the expression: إِنَّ اللَّـهَ يُمْسِكُ السَّمَاوَاتِ (Undoubtedly, Allah holds back the heavens and the earth - 35:41), the 'holding' of the heavens or the skies does not mean that their movement was stopped. Instead, it means holding them from moving askance - as the word: أَن تَزُولَا (an tazula: from leaving their existing state,) bears it out. Therefore, in this verse, there exists no supporting evidence on either side as to the skies move or they are static.
 
+## AI Translation
+
+Allah alone keeps the heavens and earth from falling apart. If they were to fall apart, none but Him could hold them. He is Most Forbearing, All-Forgiving.
+
+## AI Tafsir
+
+**Context:** (Or have We given them a Book, so that they act on clear proof therefrom?) meaning, 'have We revealed to them a Book on which they base their Shirk and disbelief?' This is not the case at all.
+
+**What this ayah teaches:** Truly, He is Ever Most Forbearing, Oft-Forgiving .
+
+**Classical tafsir:** Ibn Kathir notes: Or have We given them a Book, so that they act on clear proof therefrom?
 ## Personal Reflections
 
 

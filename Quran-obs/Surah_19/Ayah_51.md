@@ -116,6 +116,15 @@ Commentary
 
 Those among the followers of prophets who attain perfection are also granted a place of distinction, which makes them immune to committing sins and evil deeds through Divine dispensation. They remain in Allah's protection all the time.
 
+## AI Translation
+
+And mention Moses in the Book. He was truly chosen—a messenger and prophet.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, he was Mukhlasan and he was a Messenger, (and) a Prophet (51)And We called him from the right side of the Mount (Tur), and made him draw near to Us for a talk with him (52)And We granted him his brother Harun, (also) a Prophet, out of Our mercy . For verily, he was one of the greatest Messengers and one of the five Messengers of Strong Will.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

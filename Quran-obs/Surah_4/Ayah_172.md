@@ -128,6 +128,15 @@ The Honour of being a servant of Allah
 
 Maulana Shabbir Ahmad ` Usmani, in his comments on the opening statement of Verse 172: لَّن يَسْتَنكِفَ الْمَسِيحُ أَن يَكُونَ عَبْدًا لِّلَّـهِ (The Masih shall never spurn being a slave of Allah, nor shall the angels, the close ones), says that so it is because being a servant of Allah, being devoted to His worship and being obedient to His will and command, is an honour by itself and certainly a nobility of the highest class. Sayyidna Masih (علیہ السلام) and the close angels are the best testifiers to the worth and value of this blessing. How could they spurn an honour like that? Quite contrary to this, the worst disgrace and dishonour there can be imagined lies in worshipping someone other than Allah. This is what the Christians did when they took Sayyidna Masih (علیہ السلام) as the son of Allah and the object of their worship. Similar was the case with disbelievers who took angels as daughters of Allah and started worshipping them alongwith their idols. So, for them, there is punishment, and disgrace. (Notes in Tafsir Usmani)
 
+## AI Translation
+
+The Messiah would never be too proud to be a servant of Allah, nor would the angels nearest to Allah. Those who are too proud and arrogant to worship Him will be brought before Him all together.
+
+## AI Tafsir
+
+**What this ayah teaches:** And whosoever rejects His worship and is proud, then He will gather them all together unto Himself (172)So, as for those who believed and did deeds of righteousness, He will give them their (due) rewards and more out of His bounty.
+
+**Classical tafsir:** Ibn Kathir notes: The Prophets and Angels Are Never too Proud to Worship Allah Ibn Abi Hatim recorded that Ibn 'Abbas said that, 'proud', means insolent.
 ## Personal Reflections
 
 

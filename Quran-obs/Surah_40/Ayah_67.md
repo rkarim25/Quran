@@ -172,6 +172,15 @@ Ibn Jurayj said, "In order that you may remember the Resurrection." Then Allah s
 
 In verse 64, it was said: وَصَوَّرَ‌كُمْ فَأَحْسَنَ صُوَرَ‌كُمْ (and shaped you, and made your shapes so good -). Allah Ta’ ala has blessed the human person with the most distinct, superior and better-balanced form and shape out of all animals. He was given reason. He was given such hands and feet that he could get together materials to make things for his needs and comfort. Then, his eating and drinking is different, rather far distinct from common animals. They eat or graze or drink directly with their mouth. He uses hands. Common animals eat singles. Some eat meat, others eat grass or leaves, that too in singles. Contrary to that, man eats by combining different things like meat, vegetables, spices, herbs and fruits. He eats by making his food taste good. His culinary creativity knows no bounds when he would take a single fruit from nature, and turn it into all sorts of delicious eatables like pies, fruit cakes, jams, preserves and chutneys. فَتَبَارَ‌كَ اللَّـهُ رَ‌بُّ الْعَالَمِينَ (Blessed is Allah, the Best Creator).
 
+## AI Translation
+
+He is the One who created you from dust, then from a sperm-drop, then a clinging clot, then brought you forth as infants so you may reach your prime and become old—though some may die sooner—reaching an appointed time, so perhaps you may understand Allah's power.
+
+## AI Tafsir
+
+**What this ayah teaches:** And when He decides upon a thing He says to it only: "Be!" - and it is .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

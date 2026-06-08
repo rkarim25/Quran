@@ -74,6 +74,15 @@ This is the reason why the Holy Prophet ﷺ ، whenever he has passed by these s
 
 The habitations of the time of Sayyidna Lut (علیہ السلام) which were over-turned are located, as said by the Qur'an, on the Arabia-Syria route. This site is still present in the proximity of Jordan in the form of a wilderness below the sea level. On a major portion, flows a particular kind of water like a river. Sea life cannot survive here. Therefore, it is called the Dead Sea or the Sea of Lut (علیہ السلام) .
 
+## AI Translation
+
+Surely in this are signs for those who contemplate.
+
+## AI Tafsir
+
+**What this ayah teaches:** So the Sayhah overtook them at the time of sunrise (73)And We turned them upside down and rained stones of baked clay upon them (74)Surely, in this are signs for those who see (75)And verily, they were right on the highroad (76)Surely, there is indeed a sign in that for the believers .
+
+**Classical tafsir:** Ibn Kathir notes: In other words, after their destruction by Divine punishment, these habitations were not repopulated except some.
 ## Personal Reflections
 
 

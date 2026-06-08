@@ -142,6 +142,19 @@ In concluding the discussion, Imam al-Ghazali (رح) remarks that in spite of th
 
 In short, this is a matter in which hope and fear both are involved - there is the fear of having incurred punishment as well as the hope of being ultimately forgiven. So, one should try one's best to get rid of one's laziness and indifference. But it is the mercy of Allah alone which can help one to succeed in this effort.
 
+## AI Translation
+
+Seek help through sabr — steadfast endurance that keeps you upright — and through salah. It is heavy except for those who humble themselves before Allah,
+
+## AI Tafsir
+
+**Context:** (Recite (O Muhammad ﷺ) what has been revealed to you of the Book (the Qur'an), and perform As-Salah. Verily, As-Salah (the prayer) prevents from Al-Fahsha' (i.e.
+
+**What this ayah teaches:** Al-Qurtubi and other scholars commented, "This is why Ramadan is called the month of patience," as is mentioned in the Hadith literature.
+
+**Classical tafsir:** Ibn Kathir notes: On the other hand, the word "Khudu`"refers to the bodily posture which shows modesty and humility - for example, the Holy Qur'an says: "So their necks will stay humbled to it".
+
+**From the Sunnah:** Also, Ibn Abi Hatim narrated that 'Umar bin Al-Khattab said, "There are two types of patience: good patience when the disaster strikes, and a better patience while avoiding the prohibitions of Allah." Ibn Abi Hatim said that Al-Hasan Al-Basri was reported to h…
 ## Personal Reflections
 
 

@@ -146,6 +146,19 @@ There is no doubt that people who conceal the contents of the Book of Allah and 
 
 Verse 175 tells us that a person who changes the injunction of Shari'ah in his greed for worldly gains, he should know that these worldly gains he consumes are like embers of fire he is storing in his stomach because that is the ultimate end of his deeds. Some perceptive ` Ulama' have said that unlawful wealth is, in reality, the very fire of Hell, even though we do not sense it as such during our lifetime in the mortal world, but once one dies, his or her deeds will appear in the form of fire.
 
+## AI Translation
+
+That is because Allah sent down the Book in truth. Those who dispute about it are deeply opposed.
+
+## AI Tafsir
+
+**Context:** (That is because Allah has sent down the Book (the Qur'an) in truth.) means, they deserve this painful torment because Allah has revealed Books to His Messenger Muhammad ﷺ, and the Prophets before him, and these revelati…
+
+**What this ayah teaches:** They, thus, mocked the Ayat that Allah revealed to His Messengers, and this is why they deserved the torment and the punishment.
+
+**Classical tafsir:** Ibn Kathir notes: So how bold they are (for evil deeds which will push them) to the Fire (175)That is because Allah has sent down the Book (the Qur'an) in truth.
+
+**From the Sunnah:** Thereafter, those whom the Jews feared would follow the Prophet ﷺ, believed in him and followed him anyway, and so they became his supporters against them. Also, reported in an authentic Hadith is that Allah's Messenger ﷺ said: (authentic hadith)
 ## Personal Reflections
 
 

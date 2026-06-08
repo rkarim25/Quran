@@ -82,6 +82,17 @@ The verse implies that a person whom Allah invests with the Book, the Wisdom and
 
 In this, there is the necessary refutation of the Christians who claimed that it was Masih (علیہ السلام) who asked them to have belief in his sonship and godhead. Also chastised were the Muslims who had gone to the Holy Prophet . ﷺ trying to find out if it was all right for them to prostrate before him rather than greet him with the usual سلام salam. Also admonished were the people of the Book who had invested their rabbis and monks with the station of God. Refuge with Allah! (Tafsir ` Usmani)
 
+## AI Translation
+
+Whoever turns back after this, they will be the rebellious.
+
+## AI Tafsir
+
+**What this ayah teaches:** Otherwise, it would mean that Divine knowledge is defective (we seek refuge with Allah!
+
+**Classical tafsir:** Ibn Kathir notes: Tawus, Al-Hasan Al-Basri and Qatadah said, "Allah took the pledge from the Prophets that they would believe in each other", and this statement does not contradict what 'Ali and Ibn 'Abbas stated.
+
+**From the Sunnah:** Also chastised were the Muslims who had gone to the Holy Prophet .
 ## Personal Reflections
 
 

@@ -185,6 +185,15 @@ This report has an authentic chain of narration. More than one person has narrat
 
 The word safarah, with fathah [=a+a ] on the first two letters, may be the plural of safir which means a 'scribe'. In this case, it would refer to the recording angels, or to the Prophets (علیہم السلام) and those of their aides who write down the revelation. Sayyidna Ibn ` Abbas ؓ and Mujahid (رح) hold this view.
 
+## AI Translation
+
+May those who reject the truth be ruined—how ungrateful they are!
+
+## AI Tafsir
+
+**What this ayah teaches:** How ungrateful he is (17)From what thing did He create him (18)From a Nutfah He created him and then set him in due proportion (19)Then He made the path easy for him (20)Then He causes him to die and puts him in his grave (21)Then when it is His will, He will resurrect him (22)Nay, but he has not done what He commanded him (23)Then let man look at his food (24)We pour forth wat…
+
+**Classical tafsir:** Ibn Kathir notes: [ 80:15-16] ) The word safarah, with fathah [=a+a ] on the first two letters, may be the plural of safir which means a 'scribe'.
 ## Personal Reflections
 
 

@@ -125,6 +125,15 @@ The word: خَیر (khayr: good) at this place means the desire to find out the 
 
 Incidentally, the stipulation made above also helps remove the nagging logical doubt which bothers many a learned people. They surmise that this is the first form of analogical deduction where the surrender of the middle premise seems to be yielding the wrong outcome. The answer is that the middle premise has not been repeated here because the sense of the first word لَّأَسْمَعَهُمْ (la asma'ahum: He would have made them listen) is separate from the second: وَلَوْ أَسْمَعَهُمْ (wa lau asma'ahum: and had He made them listen) which carries its own sense apart from the first. Meant in the first is listening to accept and listening to benefit from, while the sense of the second is bland listening with nothing to it.
 
+## AI Translation
+
+Had Allah known any good in them, He would have made them listen. Even if He made them listen, they would have turned away in aversion.
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, the sense of the verse is: Had Allah seen in them some pliability towards receiving good counsel, He would have blessed them with the ability to listen with faith - and if, in their present state of being with no desire to receive truth, He were to make them listen to what is true, they would have certainly turned away from it paying no heed.
+
+**Classical tafsir:** Ibn Kathir notes: Muhammad bin Ishaq said that this Ayah refers to hypocrites, as we stated.
 ## Personal Reflections
 
 

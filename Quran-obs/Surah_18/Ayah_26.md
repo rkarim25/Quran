@@ -151,6 +151,17 @@ Yet another question arises here about the People of Kahf. During their time and
 
 People who deny the extraordinary miracles, or people who are in the habit of explaining them away overawed by the objections of modern day Jewish and Christian orientalists, have not spared even the Qur'an. For example, in the case of this verse (25), they have tried to use the explanation of Qatadah as a prop to reject the duration of three hundred nine years as the saying of those very people who were differing among them-selves. But, they have erred. The statement: (for a number of years - 11) which appears in an earlier sentence of the Qur'an cannot be called the saying of anyone other than Allah Ta’ ala! To prove the miraculous nature of the event even this much is sufficient that someone remains asleep for years and years and then rises and sits up all intact, fit and alive. Allah knows best.
 
+## AI Translation
+
+Say, O Prophet, “Allah knows best how long they stayed. With Him alone is the knowledge of the unseen of the heavens and the earth. How perfectly He hears and sees! They have no guardian besides Him, and He shares His command with none.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Ibn Jarir said, "The language used is an eloquent expression of praise." The phrase may be understood to mean, how much Allah sees of everything that exists and how much He hears of everything that is to be heard, for nothing is hidden from Him!
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the period of sleep was stated very clearly.
+
+**From the Sunnah:** It was narrated that Qatadah commented on this Ayah:
 ## Personal Reflections
 
 

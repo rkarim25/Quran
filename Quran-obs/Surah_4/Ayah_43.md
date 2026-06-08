@@ -442,6 +442,19 @@ It is certainly a great favour granted by Allah Almighty that He, in His mercy, 
 
 In verses previous to this, the stress was on acting with Taqwa in mutual dealings. In between came some rules pertaining to ‘Ibadah, Salah and their corollaries since they instill man with fear of Allah, promote concern for the life-to-come and help in seeing that dealings come out right and smooth.
 
+## AI Translation
+
+O you who have iman! Do not approach prayer while intoxicated until you are aware of what you say, nor in a state of impurity—unless you merely pass through —until you have bathed. But if you are ill, on a journey, or have relieved yourselves, or been intimate with your wives and cannot find water, then purify yourselves with clean earth, wiping your faces and hands. And Allah is Ever-Pardoning, All-Forgiving.
+
+## AI Tafsir
+
+**Context:** Allah forbade His believing servants from praying while drunk, for one does not know the meaning of what he is saying in that state, and He forbade them from attending the Masjids while sexually impure, except when one i…
+
+**What this ayah teaches:** Do not approach Salah while you are in a druken state until you know what you are saying,) at the time of prayer, the Messenger of Allah ﷺ would have someone proclaim; "Let not any drunk approach the prayer." This is the wording collected by Abu Dawud.
+
+**Classical tafsir:** Ibn Kathir notes: The Gha'it is, literally, the flat land, and this part of the Ayah refers to the minor impurity.
+
+**From the Sunnah:** Explain the ruling about Khamr (intoxicants) for us in a plain manner." When this Ayah [4:43] was revealed, the Prophet ﷺ recited it to 'Umar, who still said, "O Allah!
 ## Personal Reflections
 
 

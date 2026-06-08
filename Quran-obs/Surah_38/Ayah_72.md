@@ -86,6 +86,15 @@ In verse 71, it was said: إِذْ قَالَ رَ‌بُّكَ لِلْمَلَ
 
 Mentioned here is the event of the creation of 'Adam (علیہ السلام) . Not only that it alludes to the conversation between Allah Ta’ ala and the angels mentioned above, but also invites our attention towards the way Iblis had refused to prostrate himself before Sayyidna 'Adam (علیہ السلام) just because of his envy and arrogance, very similarly, the Mushriks of Arabia were not willing to accept his advice because of their envy and arrogance - hence, they were going to meet the same fate as was met by Iblis. (Tafsir Kabir)
 
+## AI Translation
+
+When I have fashioned him and breathed into him a spirit of My creation, fall down in prostration to him."
+
+## AI Tafsir
+
+**What this ayah teaches:** He refused to prostrate to Adam, and he disputed with his Lord about him, claiming that he was better than Adam, because he was created from fire while Adam was created from clay, and fire was better than clay, or so he said. What prevents you from prostrating yourself to one whom I have created with Both My Hands.
+
+**Classical tafsir:** Ibn Kathir notes: He refused to prostrate to Adam, and he disputed with his Lord about him, claiming that he was better than Adam, because he was created from fire while Adam was created from clay, and fire was better than clay, or so he said.
 ## Personal Reflections
 
 

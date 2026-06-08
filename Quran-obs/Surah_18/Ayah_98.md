@@ -297,6 +297,17 @@ The source of the second argument is the Hadith of Tirmidhi and the Musnad of Ah
 
 In short, there is no clear and definite proof in the Qur’ an and Sunnah that goes on to establish that the Wall of Dhul-Qarnain will remain standing right through the last day of Qiyamah. Or, their elementary and insignificant attacks against the human population on this side will not be possible. However, in all certainty, the time of that horrific and devastating onslaught which will destroy the entire human population will be but close to the Qiyamah as has been mentioned repeatedly. To sum up, it can be said that based on the textual authority (nusus) of the Qur'an, and Sunnah, it is not possible to give an absolute verdict that the Wall against the Ya'juj and Ma'juj has disintegrated leaving the passage open. Nor can it be said that, according to the Qur'an, and Sunnah, it is necessary that it survives up to the Qiyamah. Both probabilities exist. And Pure and High is Allah who knows reality best.
 
+## AI Translation
+
+He declared, “This is a mercy from my Rabb. But when the promise of my Rabb comes to pass, He will level it to the ground. And my Rabb’s promise is ever true.”
+
+## AI Tafsir
+
+**What this ayah teaches:** And the promise of my Lord is ever true (98)And on that Day, We shall leave some of them to surge like waves on one another; and the Trumpet will be blown, and We shall collect them (the creatures) all together .
+
+**Classical tafsir:** Ibn Kathir notes: And as for the statement of the Qur'an, that is, no hole can be made in this Wall, it refers to the time when Dhul-Qarnain had made it.
+
+**From the Sunnah:** The Prophet ﷺ woke from sleep, and he was red in the face (Musnad Ahmad) According to a Hadith narrated from 'Atiyah from Ibn 'Abbas and Abu Sa'id, and attributed to the Prophet ﷺ,
 ## Personal Reflections
 
 

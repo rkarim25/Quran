@@ -263,6 +263,17 @@ Ruling 1. The amount of ransom for one fast should not be distributed between tw
 
 Ruling 2. Should someone be in a position that he cannot even pay the ransom due, he should simply seek forgiveness from Allah through istighfar اِستِغفار and have an intention in his heart that he would pay it when he can. (Bayan al-Qur'an)
 
+## AI Translation
+
+Fast for a counted number of days. Whoever is ill or on a journey should make up an equal number of days later. Those who find fasting extremely difficult may feed a needy person for each day missed. Whoever gives more voluntarily — it is better for them. To fast is better for you, if only you knew.
+
+## AI Tafsir
+
+**What this ayah teaches:** Right from here comes the ruling that anyone who intends to stay out for fifteen days, not at one place but at different places and towns, he shall continue to remain in the status of a 'traveller' and thereby shall continue to enjoy the concession of being 'on a journey' because he is in the state of ` ala safarin.
+
+**Classical tafsir:** Ibn Kathir notes: The word 'sick' used here refers to a person who cannot fast without an unbearable hardship or has strong apprehension that his illness will be aggravated.
+
+**From the Sunnah:** Allah mentioned that He has ordained fasting for Muslims just as He ordained it for those before them, they being an example for them in that, so they should vigorously perform this obligation more obediently than the previous nations.
 ## Personal Reflections
 
 

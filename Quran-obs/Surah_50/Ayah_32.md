@@ -127,6 +127,17 @@ In a Prophetic Tradition, we are advised to recite the following supplication wh
 
 Hafiz (حَفِيظٍ ), according to Sayyidna ` Abdullah Ibn ` Abbas ؓ ، is one who remembers his sins, so that he may return to Allah in penitence and make amends. Another report from him defines اَلحَفِظُ ھُوِ الحَافِظُ لِاَمرِ اللہِ haflz as one who remembers his covenant with Allah, and does not break or betray it. Sayyidna Abu Hurairah ؓ reports from the Holy Prophet ﷺ who said: "Whoever performs four rak` at of Ishraq prayer early in the day is Awwab and Hafiz (Qurtubi).
 
+## AI Translation
+
+This is what you were promised—for everyone who constantly turned back to Allah and kept His limits,
+
+## AI Tafsir
+
+**What this ayah teaches:** That is to say, Paradise has been promised to every person who is awwab and hafiz.
+
+**Classical tafsir:** Ibn Kathir notes: Awwab refers to the person who turns to Allah.
+
+**From the Sunnah:** Paradise until Allah creates another creation and He, the Exalted, makes them dwell in the empty parts of Paradise. (Sahih Muslim)
 ## Personal Reflections
 
 

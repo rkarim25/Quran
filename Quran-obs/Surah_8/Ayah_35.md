@@ -142,6 +142,17 @@ In this verse, the Holy Qur'an has foretold the Holy Prophet ﷺ about this even
 
 Al-Baghawi and some other commentators have attributed the subject of this verse to the expenses incurred on the battle of Badr itself. According to them, the thousand strong army of disbelievers which had gone to confront Muslims in the battle of Badr was already paid for. All expenses of their maintenance were guaranteed by twelve chiefs of Makkah, included among them being Abu Jahl, ` Utbah, Shaybah and others. It goes without saying that the cost of transporting and feeding one thousand men must have been enormous. This being the state of affairs, these people not only that they felt bad about their defeat, they were also extremely remorseful about having lost their wealth. (Mazhari)
 
+## AI Translation
+
+Their worship at the Sacred House was only whistling and clapping. So taste the punishment for what you used to reject.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore taste the punishment because you used to disbelieve . None can be its guardians except those who have Taqwa, but most of them know not (34)Their Salah at the House was nothing but Muka' and Tasdiyah.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, we wish that we be helped by this corporate trading venture so that we can take our revenge against Muslims in the future.
+
+**From the Sunnah:** Allah states that the idolators deserved the torment, but He did not torment them in honor of the Prophet ﷺ residing among them. None can be its guardians except those who have Taqwa,) meaning, the Prophet ﷺ and his Companions are the true dwellers (or worthy maintainers) of Al-Masjid Al-Haram, not the pagans.
 ## Personal Reflections
 
 

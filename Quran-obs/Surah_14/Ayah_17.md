@@ -247,6 +247,17 @@ In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَك
 
 So, whatever good there is in gratitude, that is for you alone. There-fore, when you are asked to be grateful by Allah Ta’ ala, there is no gain for Him in doing so. In fact, it is His infinite mercy reaching out to you in your interest.
 
+## AI Translation
+
+sipping with difficulty, barely swallowing. Death surrounds them from every side, yet they cannot die. Harsher torment still awaits.
+
+## AI Tafsir
+
+**Context:** And those who disbelieved, said to their Messengers: "Surely, we shall drive you out of our land, or you shall return to our religion." So their Lord revealed to them: "Truly, We shall destroy the wrongdoers.
+
+**What this ayah teaches:** If this (Qur'an) is indeed the truth (revealed) from You, then rain down stones on us from the sky or bring on us a painful torment.)[8:32] It is possible that both meanings are desired here, for the idolators (of Quraysh) invoked Allah against themselves on the day of Badr, and the Messenger of Allah ﷺ invoked Him for victory and support.
+
+**Classical tafsir:** Ibn Kathir notes: And other (torments) of similar kind all together!)[38:57-58] Mujahid and 'Ikrimah said that this festering water is made of puss and blood.
 ## Personal Reflections
 
 

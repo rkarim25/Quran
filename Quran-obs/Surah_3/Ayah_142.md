@@ -178,6 +178,17 @@ It guides us to another important principle and rule of procedure.
 
 In this mortal world, the customary practice of Allah Almighty is to cause the days of hardship and ease, pain and comfort, suffering and peace occur among people by turns. If, for some reason, a falsely-motivated power succeeds in getting a short-lived upper hand, the group motivated by the truth should not lose heart and come to think that, from this point onwards, they are always doomed to nothing but defeat. Instead of taking this negative attitude, they should rather go about finding out the causes of that defeat, and once they have discovered those, they should take corrective measures and eliminate all possibilities of repeating those mistakes. In the end, the group motivated by the truth shall emerge as the ultimate victor.
 
+## AI Translation
+
+Do you think you will enter Paradise without Allah proving which of you struggled and patiently endured?
+
+## AI Tafsir
+
+**What this ayah teaches:** Do you think that you will enter Paradise before Allah knows (tests) those of you who will perform Jihad and (also) knows (tests) those who are the patient?) The Ayah asks, do you think that you will enter Paradise without being tested with warfare and hardships?
+
+**Classical tafsir:** Ibn Kathir notes: This is a plain statement for mankind), meaning, the Qur'an explains the true reality of things and narrates how the previous nations suffered by the hands of their enemies.
+
+**From the Sunnah:** Paradise before Allah knows (tests) those of you who performed Jihad and knows (tests) those who are patient (142)You did indeed wish for death before you met it. The second verse that follows gives consolation to Muslims from another angle. (Sahih Muslim)
 ## Personal Reflections
 
 

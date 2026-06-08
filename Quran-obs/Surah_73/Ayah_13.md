@@ -124,6 +124,15 @@ The Righteous Elders' Fear of the Hereafter
 
 Imam Alhmad, Ibn Abi Dawud, Ibn ` Adiyy and Baihaqi record a narration that a person heard this verse and fell fainted. One day Hasan al-Basri (رح) تعالیٰ was fasting. When the food was brought to him at the time of iftar (ending the fast), this verse occurred in his mind and he could not eat. As a result, he sent it away. The following day he was fasting again. The same thing happened in the evening and he sent the food away. On the third day the same thing happened. So, his sons went to Thabit Bunani, Yazid Dabb, and Yahya Al-Bakka' and recounted the story. All three personalities went to Hasan and insisted on his eating something. At their insistence, the latter ate a little. [ Ruh-u1-Ma’ ani ]
 
+## AI Translation
+
+choking food, and a painful punishment waiting for them
+
+## AI Tafsir
+
+**What this ayah teaches:** Having described specific forms of punishment, this description is general - indicating that there will be many more horrible and terrible forms of punishment which man cannot even imagine.
+
+**Classical tafsir:** Ibn Kathir notes: This means, 'you should beware of denying this Messenger, lest you be afflicted by that which befell Fir'awn.
 ## Personal Reflections
 
 

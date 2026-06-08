@@ -190,6 +190,17 @@ The Holy Qur'an condemns them for both these attitudes. From here, we know that 
 
 The rule about doing a good deed is simple. If anyone does a good deed, then looks forward to be praised for it - or, worse still, takes elaborate steps to make this happen - then, despite having done what one did, this act will be deemed blameworthy under the Islamic legal-moral norms. And should one elect not to do that good deed at all, that would, then, be taken as far more blameworthy. As for the natural desire to do something good and thereby earn a fair name, it is not included under the purview of this ruling - unless, of course, if one does not make unusual projections to earn that fair name (Bayan al-Qur'an).
 
+## AI Translation
+
+Do not let those who rejoice in their misdeeds and love to take credit for what they have not done think they will escape torment. They will suffer a painful punishment.
+
+## AI Tafsir
+
+**Context:** Imam Ahmad recorded that Marwan told his guard Rafi' to go to Ibn 'Abbas and proclaim to him, "If every person among us who rejoices with what he has done and loves to be praised for what he has not done will be tormente…
+
+**What this ayah teaches:** And indeed worst is that which they bought (187)Think not that those who rejoice in what they have done (or brought about), and love to be praised for what they have not done, think not that they are rescued from the torment, and for them is a painful torment (188)And to Allah belongs the dominion of the heavens and the earth, and Allah has power over all things .
+
+**Classical tafsir:** Ibn Kathir notes: These ayat also contains the warning for the scholars not to imitate their behavior,so that they do not suffer the same fate and become like them.Therefore, the scholars are required to spread the benificial knowledge that they…
 ## Personal Reflections
 
 

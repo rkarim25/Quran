@@ -225,6 +225,17 @@ When you come to think of it, wrong environment and bad company really hurt all 
 
 As for the next three verses (71-73), they too deal with the refutation of Shirk (the attribution of partners to Allah) and the affirmation of Tauhid (the Oneness of Allah) and 'Akhirah (the Hereafter, the life to come) as fairly evident from the translation itself.
 
+## AI Translation
+
+He is the One Who created the heavens and the earth in truth. On the Day He will say, ‘Be!’ And there will be! His command is truth. All authority is His on the Day the Trumpet will be blown. He is the Knower of all—seen or unseen. And He is the All-Wise, All-Aware.”
+
+## AI Tafsir
+
+**What this ayah teaches:** – Like one whom the Shayatin (devils) have made to go astray, confused (wandering) through the land, his companions calling him to guidance (saying): 'Come to us.'" Say: "Verily, Allah's guidance is the only guidance, and we have been commanded to submit (ourselves) to the Lord of all that exists (71)And to perform the Salah, and have Taqwa of Him, and it is He to Whom you shall be gathered (72)It…
+
+**Classical tafsir:** Ibn Kathir notes: They are so disobedient and wicked because they are be-witched by the glamour of their mortal life totally forgetting that they have another state of life ahead of them.
+
+**From the Sunnah:** In this verse, the Holy Prophet ﷺ and Muslims at large have been given two orders that they should not only avoid the people identified, but that they should also act positively and continue preaching through the Qur'an and keep putting…
 ## Personal Reflections
 
 

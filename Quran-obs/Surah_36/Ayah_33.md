@@ -110,6 +110,15 @@ Commentary
 
 Most of the subjects taken up in Surah Ya Sin related to signs of Divine power and the rewards and favors bestowed on human beings. These have been harnessed to prove that there is a life hereafter and that people need to be firm in their belief in being raised again and having to face the Day of Judgment. In the verse cited above, the Divine signs pointed to are, on one hand, clear proofs of His perfect power, while on the other, they serve as mirrors of particular rewards and favors of Allah Ta’ ala bestowed on human beings and the rest of creatures. In this, lie unusual lessons of wisdom.
 
+## AI Translation
+
+There is a sign for them in the dead earth: We give it life, producing grain from it for them to eat.
+
+## AI Tafsir
+
+**What this ayah teaches:** And a sign for them is the dead land.
+
+**Classical tafsir:** Ibn Kathir notes: We give it life, and We bring forth from it grains, so that they eat thereof (33)And We have made therein gardens of date palms and grapes, and We have caused springs of water to gush forth therein (34)So that they may eat of the fruit thereof – and their hands made it not.
 ## Personal Reflections
 
 

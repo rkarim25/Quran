@@ -266,6 +266,17 @@ Abu Muslim says that ` al-ard' in this verse means that which is offered against
 
 Another statement about the Paradise is given in the end by: اُعِدَّتْ لِلْمُتَّقِينَ (It has been prepared for the God-fearing.) This tells us that Paradise has already been created. Clear indicators in the Qur'an and Hadith seem to suggest the existence of Paradise on the seventh heaven which is its surface.
 
+## AI Translation
+
+And hasten towards forgiveness from your Rabb and a Paradise as vast as the heavens and the earth, prepared for those who live with taqwa.
+
+## AI Tafsir
+
+**What this ayah teaches:** Here, Forgiveness stands for the means of obtaining forgiveness, that is, good deeds which bring forth forgiveness.
+
+**Classical tafsir:** Ibn Kathir notes: Allah also commands His servants to have Taqwa of Him so that they may achieve success in this life and the Hereafter.
+
+**From the Sunnah:** a man came to the Messenger of Allah ﷺ and asked him, about Allah's statement, This Hadith was recorded by Imam Ahmad, its chain of narration is good, it does not contain any disparraged narrators, and the meaning is good. (Musnad Ahmad)
 ## Personal Reflections
 
 

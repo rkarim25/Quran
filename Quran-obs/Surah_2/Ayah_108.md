@@ -146,6 +146,17 @@ In reprimanding them for making such improper demands on the prophets of their t
 
 If one takes this verse as having been addressed to the Muslims, it would mean that they are being warned against making improper demands on the Holy Prophet ﷺ .
 
+## AI Translation
+
+Or do you intend to ask your Messenger as Moses was asked before? Whoever trades iman for rejection has strayed from the Straight Path — the way of living that pleases Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** Or do you want to ask your Messenger (Muhammad ﷺ) as Musa (Moses) was asked before (i.e. And he who changes faith for disbelief, verily, he has gone astray from the right way .
+
+**Classical tafsir:** Ibn Kathir notes: So we were delighted when a bedouin man would come and ask him while we listened." Muhammad bin Ishaq said that Muhammad bin Abi Muhammad told him that 'Ikrimah or Sa'id said that Ibn 'Abbas said that Rafi' bin Huraymilah or Wahb bin Zayd said, "O Muhammad!
+
+**From the Sunnah:** In this Ayah, Allah forbade the believers from asking the Prophet ﷺ numerous questions about matters that did not occur yet. This is why when the Messenger of Allah ﷺ was asked about a husband who finds another man with his wife; if he exposes the adultery, he will be exposing a major incident; if he is quiet about it, he will be quiet about a major matter. (Sahih Muslim)
 ## Personal Reflections
 
 

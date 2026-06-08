@@ -122,6 +122,17 @@ Praying for office and power
 
 At this place, it should be borne in mind that no prayer made by the noble prophets is made without the will and permission of Allah Ta’ ala. Sayyidna Sulayman (علیہ السلام) had made this prayer too by the will and permission of Allah Ta’ ala. And since some bland seeking of power was not his aim, rather the driving desire to implement Divine laws and the passion to make truth triumph was behind it - and Allah Ta’ ala knew that once Sayyidna Sulayman (علیہ السلام) had the power, he would work for these very high objectives, and would never entertain negative feelings of office, power and recognition - therefore, he was given the permission to make this prayer, and it was accepted as well. But, common people have been prohibited in Hadith from seeking power following their own initiative. The reason is that such an initiative usually gets to be tainted with the desire for power, influence, money and property. Accordingly, where one has the certitude of being free of such selfish desires and one really would love to see the banner of truth fly high without the least hunger for power hidden anywhere in the recesses of his heart - then, for such a person, praying for power and authority of government is permissible. (Ruh-ul-Ma’ ani etc.)
 
+## AI Translation
+
+We subjected the wind to him, blowing gently at his command wherever he wished.
+
+## AI Tafsir
+
+**What this ayah teaches:** The subjugation of the wind and the command over the genre of the Jinn were exclusive traits of his kingdom, and no kingdom that followed him had these characteristics.
+
+**Classical tafsir:** Ibn Kathir notes: Allah enabled me to overpower him, and I wanted to tie him to one of the pillars in the Masjid so that you could see him this morning.
+
+**From the Sunnah:** Some of them said, "No one after me will have the right to ask Allah for such a kingdom." This is the apparent meaning from the context of the Ayah, and several Hadiths with a similar meaning have been narrated from the Messenger of Allah ﷺ. In his Tafsir of this Ayah, Al-Bukhari recorded that Abu Hurayrah, may Allah be pleased with him, said that the Prophet ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
 
 

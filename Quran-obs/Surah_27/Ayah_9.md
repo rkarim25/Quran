@@ -200,6 +200,15 @@ A narration of Sayyidna Ibn ` Abbas ؓ and Hasan Al-Basri (رح) and its explana
 
 Ibn Jarir, Ibn Abi Hatim, Ibn Marduwaih etc., have also quoted another explanation put forward by Sayyidna Ibn ` Abbas, Sayyidna Hasan Al- Basri and Said Ibn Jubair ؓ about the phrase مَن فِی النَّارِ (who is in the fire) that it is meant for Allah Ta’ ala Himself. It is but obvious that fire is created by Allah, and incarnation of the Creator into anything created by Him is impossible. Therefore, this narration cannot be taken to mean that Allah Ta’ ala had transfigured into the fire, as many idol-worshippers believe in transfiguration of God in their idols. This is absolutely against the concept of Tauhid (Oneness of Allah). All it means is manifestation, like the reflection in the mirror. The image is manifested in the mirror but it is not transfigured in it. What is seen in the mirror is outside it, having its own entity. It is also quite evident that this manifestation, which is also called refulgence, was not the refulgence of Allah Ta’ ala. It is for the simple reason that if Sayyidna Musa (علیہ السلام) had already witnessed the Divinity, he would not have requested at the mount of Tur رَ‌بِّ أَرِ‌نِي أَنظُرْ‌ إِلَيْكَ that is, ` O my Lord, show Your Self to me (7:143), so that I may look at you'. In that case the reply لَن تَرَ‌انِي (You will never see me - 7:143) would also have been meaningless. It is now clear that Sayyidna Ibn ` Abbas ؓ in his explanation had meant the manifestation of Allah Ta’ ala, that is refulgence, which appeared in the form of fire. As it was not the transmigration, it was also not the refulgence of His real Self. The phrase لَن تَرَ‌انِي (You will never see me) has also clarified that in this world no one can witness the refulgence of His real Self. Then what do manifestation and refulgence really mean? The answer to this is that this refulgence was figurative, which is commonly known among the mystics. It is rather difficult to comprehend it fully, but in order to make it simple according to common understanding, I have tried to explain it in my book Ahkam ul-Qur'an, in Arabic language, in the explanation of Surah Al-Qasas. Those who are interested can see it there.
 
+## AI Translation
+
+O Moses! It is truly I. I am Allah—the Almighty, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** Nothing He has made can encompass Him, and He is the Exalted, the Almighty, Who is utterly unlike all that He has created.
+
+**Classical tafsir:** Ibn Kathir notes: Then He commanded him to throw down the stick that was in his hand, so that He might show him clear proof that He is the One Who is able to do all things, whatever He wills.
 ## Personal Reflections
 
 

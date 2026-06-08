@@ -116,6 +116,15 @@ Allah is the Lord of the Two Points of Sunrise and the Two Points of Sunset
 
 رَ‌بُّ الْمَشْرِ‌قَيْنِ وَرَ‌بُّ الْمَغْرِ‌بَيْنِ (He is the Lord of both points of sunrise and both points of sunset...55:17) The sun rises at different cardinal points in the east in winter and in summer: Thus we have the two easts [ mashriqain ]. Similarly, the sun sets at different cardinal points in the west in winter and summer: Thus we have two wests [ maghribain ].
 
+## AI Translation
+
+So which of your Rabb's favours will you both—humans and jinn—deny?
+
+## AI Tafsir
+
+**What this ayah teaches:** The Creation of Humans and Jinns Allah mentions that He created mankind from clay, like that used in pottery, and created the Jinns from the tip of the flame of a smokeless fire.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid, Qatadah, Abu Ruzayn, Ad-Dahhak said it, and it has also been reported from 'Ali.
 ## Personal Reflections
 
 

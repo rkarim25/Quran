@@ -228,6 +228,15 @@ In this context, it has been mentioned that some disbelievers, on the Day of Jud
 
 These three different wishes could belong to different people, and it is also possible that these three wishes could have come, one after the other, from a single group of disbelievers, because, with the last saying which mentions the wish to be sent back to this world, it has been said in the verse that it will come to pass after they had seen the punishment. This obviously suggests that the first two sayings belong to a time before they saw the punishment, that is, it will be on the very first day of Qiyamah that they will remember the shortcomings of their deeds and say: يَا حَسْرَ‌تَىٰ عَلَىٰ مَا فَرَّ‌طتُ فِي جَنبِ اللَّـهِ (Pity on me, because I fell short in respect of Allah ...39:56). Later, as an excuse, they will say that they were helpless, and had Allah guided them, they too would have become obedient and fearing, but when He Himself gave them no guidance, they were hardly at fault. After that, when they see the punishment, they would wish to be sent back into the world. In these three verses, Allah Ta’ ala has made it very clear that the forgiveness and mercy of Allah is very extensive. But, it can be won only when one repents before death. Therefore, Allah was alerting them right there against the possibility that they start to show remorse after death, and indulge in these redundant wishes in the Hereafter.
 
+## AI Translation
+
+Or say, upon seeing the torment, 'If only I had a second chance, I would have been one of the good-doers.'
+
+## AI Tafsir
+
+**What this ayah teaches:** Or he should say when he sees the torment: "If only I had another chance, then I should indeed be among the doers of good.") means, he will wish that he could go back to this world, so that he could do righteous deeds.
+
+**Classical tafsir:** Ibn Kathir notes: Or he should say when he sees the torment: "If only I had another chance, then I should indeed be among the doers of good.") means, he will wish that he could go back to this world, so that he could do righteous deeds.
 ## Personal Reflections
 
 

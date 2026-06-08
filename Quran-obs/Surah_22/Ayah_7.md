@@ -206,6 +206,17 @@ He then adds:
 
 (And in spite of all this Imam Ahmad Ibn Hanbal (رح) has related it in his Musnad both as a saying of the Holy Prophet ﷺ and as a saying of a Sahabi, that is traced.
 
+## AI Translation
+
+And certainly the Hour is coming, there is no doubt about it. And Allah will surely resurrect those in the graves.
+
+## AI Tafsir
+
+**What this ayah teaches:** Evidence of the Resurrection in the creation of Man and of Plants When Allah speaks of disbelief in the Resurrection, He also mentions the evidence of His power and ability to resurrect that is evident from the way He initiates creation.
+
+**Classical tafsir:** Ibn Kathir notes: And among you there is he who dies (young), and among you there is he who is brought back to the miserable old age, so that he knows nothing after having known.
+
+**From the Sunnah:** protection and provide him strength. (Sahih Muslim)
 ## Personal Reflections
 
 

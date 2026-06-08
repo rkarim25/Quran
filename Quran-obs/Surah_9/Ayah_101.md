@@ -165,6 +165,17 @@ Commentary
 
 Mentioned in several previous verses there are hypocrites whose hypocrisy stood exposed through their words and deeds, and the Holy Prophet ﷺ did realize that they were hypocrites. Mentioned in the present verse appearing above there are hypocrites whose hy-pocrisy was so perfect in its camouflage that it remained hidden from the Holy Prophet ﷺ until then. In this verse, two Divine punishments to come much before 'Akhirah upon such diehard hypocrites have been mentioned. In the first instance, right here in this world, they are consumed by the concern to hide their hypocrisy and the fear that it may be exposed. Then, no less a punishment is their being under compulsion to respect and follow Islam and Muslims, at least outwardly, despite their extreme malice and hostility for them. And then, there is the other punishment, the punishment of the grave and the punishment of Barzakh (the post-death - pre-resurrection state) that will reach them well before Qiyamah (doomsday) and 'Akhirah (Hereafter).
 
+## AI Translation
+
+Some of the nomads around you are those living in nifaq—outward acceptance with inward rejection, as are some of the people of Medina. They have mastered hypocrisy. They are not known to you ; they are known to Us. We will punish them twice, then they will be brought back for a tremendous punishment.
+
+## AI Tafsir
+
+**What this ayah teaches:** We shall punish them twice, and thereafter they shall be brought back to a great (horrible) torment . In this verse, two Divine punishments to come much before 'Akhirah upon such diehard hypocrites have been mentioned.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** This knowledge is specific in this case, not that the Messenger of Allah ﷺ was informed of all their names, and Allah knows best. Paradise and so-and-so is in the Fire.
 ## Personal Reflections
 
 

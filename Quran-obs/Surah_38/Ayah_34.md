@@ -140,6 +140,17 @@ But, this Tafsir too is simply conjectural. It also does not carry much congruen
 
 The reality is that there is no source with us to find out the certain details of the event alluded to in the verse under study - nor are we duty-bound to go about finding it. Therefore, we have zero in our faith on this much that Allah Ta’ ala had put Sayyidna Sulayman (علیہ السلام) to a certain test after which his passion to return to Allah came out stronger than ever before - and that the real purpose of the Qur'an in mentioning this event is to invite all human beings to turn to Allah like Sayyidna Sulayman (علیہ السلام) as and when they face any distress or trial. As for the details of the test and trial of Sayyidna Sulayman (علیہ السلام) ، let these be entrusted with Allah. Allah knows best.
 
+## AI Translation
+
+We tested Sulayman by placing a deformed body on his throne. Then he turned back to Allah in repentance.
+
+## AI Tafsir
+
+**What this ayah teaches:** He grew so weak because of it that, at the time he was brought in to sit on the throne, he gave the impression of a body without the soul.
+
+**Classical tafsir:** Ibn Kathir notes: Allah enabled me to overpower him, and I wanted to tie him to one of the pillars in the Masjid so that you could see him this morning.
+
+**From the Sunnah:** Some of them said, "No one after me will have the right to ask Allah for such a kingdom." This is the apparent meaning from the context of the Ayah, and several Hadiths with a similar meaning have been narrated from the Messenger of Allah ﷺ. In his Tafsir of this Ayah, Al-Bukhari recorded that Abu Hurayrah, may Allah be pleased with him, said that the Prophet ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
 
 

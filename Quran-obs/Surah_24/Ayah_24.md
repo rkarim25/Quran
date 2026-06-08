@@ -110,6 +110,15 @@ On the Day their tongues, their hands and their legs will testify against them o
 
 The Day on which their own tongues, hands and feet will speak against them and will testify against their crimes, they will be punished precisely according to the crimes they had committed. It is related in Ahadith that on the Dooms Day those who will admit their sins will be pardoned by Allah Ta’ ala, and He will conceal their sins from the crowd of people. If anyone will deny his sins and will claim that he did not commit them, and say that the angels did not write his record of actions correctly, then his speech will be taken away from him and his hands and feet will be asked to testify, who will speak and testify. Another verse الْيَوْمَ نَخْتِمُ عَلَىٰ أَفْوَاهِهِمْ (Today We set a seal on their mouths, - 36:65) states this very point. This verse says that their mouths will be sealed, but the verse under discussion (of Surah An-Nur) says that their tongues will testify. There is no contradiction in the two verses in that they will not be able to use their tongues at their discretion. In other words they will have no control on tongues to say anything wrong, as they have in this world. Instead their tongues will say only the right things against their intent and wish. It is also possible that at a certain time their mouths and tongues will be completely sealed and then the tongues are commanded to speak the truth (Only Allah knows best).
 
+## AI Translation
+
+on the Day their tongues, hands, and feet will testify against them for what they used to do.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Day on which their own tongues, hands and feet will speak against them and will testify against their crimes, they will be punished precisely according to the crimes they had committed. Verily, those who accuse chaste believing women, who never even think of anything touching their chastity and are good believers – are cursed in this life and in the Hereafter, and for them will be a great torm…
+
+**Classical tafsir:** Ibn Kathir notes: All of the scholars agree that whoever slanders her or makes accusations against after what has been said in this Ayah, is a those who reject the truth, because of his being obstinate with the Qur'an.
 ## Personal Reflections
 
 

@@ -198,6 +198,17 @@ Ibn Abi Hatim has narrated on the authority of Sayyidna Said Ibn Jubair ؓ that 
 
 عَاصِفَةً (violent) Literal meaning of is strong and violent wind. At another place in the Holy Qur'an the attribute of this wind is given as رِیحُ عَاصِفَةً which means a mild breeze, which neither raises dust nor creates turbulence. On the face of it, these attributes are contradictory, but they can be reconciled in that whereas in itself it was so strong that it could accomplish two month's Journey in one day, yet it did not create. any turbulence. It is reported that when this platform used to fly in the air, no birds were ever harmed due to velocity of the wind.
 
+## AI Translation
+
+And to Solomon We subjected the raging winds, blowing by his command to the land We had showered with blessings. It is We Who know everything.
+
+## AI Tafsir
+
+**What this ayah teaches:** Are you then grateful (80)And to Sulayman (We subjected) the wind strongly raging, running by his command towards the land which We had blessed.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said that before that, they used to wear plated armor; he was the first one to make rings of chain-armor.
+
+**From the Sunnah:** Ibn Abi Hatim recorded that when Iyas bin Mu'awiyah was appointed as a judge, Al-Hasan came to him and found Iyas weeping. With regard to others, it is recorded in Sahih Al-Bukhari from 'Amir bin Al-'As that the Messenger of Allah ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
 
 

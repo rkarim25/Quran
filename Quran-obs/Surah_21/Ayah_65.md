@@ -118,6 +118,15 @@ Thus these attributes being only habitual, they can be changed whenever God so w
 
 حَرِّ‌قُوهُ (Burn him - 21:68) that is the entire community and Namrud decided to burn him in fire. The historic version is that for full one month the entire population of the city were busy collecting fire wood for this purpose. Then after lighting the fire wood they fanned it to make it burn ferociously for the next seven days, until the flames rose high up into the sky. When the fire blazed with full ferocity they decided to throw Sayyidna Ibrahim (علیہ السلام) into it. But the fire was burning with such intensity that no one dared to approach it. Then the Shaitan gave them the idea to use a catapult to throw him into the fire. While people were preparing to throw Allah's Friend (خلِیل) into the sea of fire all the angels and all the creatures of the earth and sky cried out in unison at the fate that lay in store for Sayyidna Ibrahim (علیہ السلام) . At that Allah Ta` ala permitted them all to help Sayyidna Ibrahim (علیہ السلام) . When the angels asked Sayyidna Ibrahim (علیہ السلام) whether he needed their help. He replied that Allah was enough to help him and that He was watching over him. Jibra'il al-Ameen (علیہ السلام) enquired whether he could render him any help to which Sayyidna Ibrahim (علیہ السلام) replied, "of course I need help, but from Allah, not from you". (Mazhari)
 
+## AI Translation
+
+Then they quickly regressed to their original mind-set, arguing, “You already know that those idols cannot talk.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Such people lacking knowledge and being misguided do not hesitate to reject a hadith and then justify the rejection by arguing that it is in conflict with the Qur'an.
+
+**Classical tafsir:** Ibn Kathir notes: This is called tauriyah (dissembling) where the words used may be interpreted differently, so that the listener understands them one way whereas the speaker means something else.
 ## Personal Reflections
 
 

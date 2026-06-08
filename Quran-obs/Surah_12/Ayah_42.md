@@ -104,6 +104,15 @@ Yusuf knew that the distiller would be saved. So discretely, so that the other m
 
 After that, to the person about whom Sayyidna Yusuf (علیہ السلام) had gathered from the interpretation of his dream that he would be released, he said: When you are released from the prison, mention me before your master as the innocent person who is still languishing in the prison. But, once released, this person forgot about this message of Sayyidna Yusuf (علیہ السلام) ، as a result of which, his freedom was further delayed and he had to stay in prison for a few more years. The word used in the Qur’ an is: بِضْعَ سِنِينَ (bid'a sinin: a few years). This word holds good for a figure between three to nine. Some commentators have said that he had to live in the prison for a period of seven more years.
 
+## AI Translation
+
+Then he said to the one he knew would survive, “Mention me in the presence of your master.” But Satan made him forget to mention Joseph to his master, so he remained in prison for several years.
+
+## AI Tafsir
+
+**What this ayah teaches:** And he said to the one whom he knew to be saved: "Mention me to your king." But Shaytan made him forget to mention it to his master. That man forgot Yusuf's request and did not mention his story to the king, a plot from the devil, so that Allah's Prophet would not leave the prison.
+
+**Classical tafsir:** Ibn Kathir notes: That man forgot Yusuf's request and did not mention his story to the king, a plot from the devil, so that Allah's Prophet would not leave the prison.
 ## Personal Reflections
 
 

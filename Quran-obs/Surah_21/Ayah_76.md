@@ -106,6 +106,15 @@ Here مِن قَبْلُ (earlier) means before the time of Sayyidna Ibrahim and
 
 فَاسْتَجَبْنَا لَهُ فَنَجَّيْنَاهُ وَأَهْلَهُ مِنَ الْكَرْ‌بِ الْعَظِيمِ (So, We responded to him and saved him and his family from the terrible agony - 21:76) Here the expression 'terrible agony' either refers to the drowning in the deluge which annihilated the entire people or the torture which he and his followers suffered at the hands of those people.
 
+## AI Translation
+
+And remember when Noah had cried out to Us earlier, so We responded to him and delivered him and his family from the great distress.
+
+## AI Tafsir
+
+**What this ayah teaches:** We answered to his invocation and saved him and his family from the great distress (76)We helped him against the people who denied Our Ayat.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

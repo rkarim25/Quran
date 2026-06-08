@@ -114,6 +114,19 @@ Another name of Surah Muhammad is Surah Al-Qital [ Surah of war ] because this S
 
 In the phrase صَدُّوا عَن سَبِيلِ اللَّـهِ "prevented (others) from Allah's way" (47:1), "Allah's way" refers to Islam. The phrase أَضَلَّ أَعْمَالَهُمْ "He (Allah) has rendered their deeds vain" (47:1) includes actions which are good in themselves, as for instance, helping and assisting the destitute, supporting and protecting the neighbours, generosity, charity and other good deeds. These deeds are, though, good and righteous in themselves, in the Hereafter they will yield benefit only if blessed with faith, because faith is a necessary condition for the credibility of good actions. Thus these righteous deeds will be of no use to the infidels in the Hereafter. The disbelievers take their comfort in this worldly life as a reward of their good deeds. In the Hereafter they will be punished with Hell-fire.
 
+## AI Translation
+
+Those who reject the truth and block others from Allah's path—He will render their deeds void.
+
+## AI Tafsir
+
+**Context:** Another name of Surah Muhammad is Surah Al-Qital [ Surah of war ] because this Surah lays down the rules of Jihad and Qital [ i.e. armed struggle in the cause of Allah ].
+
+**What this ayah teaches:** But those who believe and do righteous good deeds, and believe in that which is sent down to Muhammad – for it is the truth from their Lord – He expiates from them their sins and amends their Bal.)(3.
+
+**Classical tafsir:** Ibn Kathir notes: That is because those who disbelieve follow falsehood, while those who believe follow the truth from their Lord.
+
+**From the Sunnah:** It has been mentioned (from the Prophet ﷺ) in the Hadith of the responding to one who sneezes,
 ## Personal Reflections
 
 

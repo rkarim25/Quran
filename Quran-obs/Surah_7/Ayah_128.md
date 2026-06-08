@@ -142,6 +142,17 @@ It is reported in a Hadith: When Allah wills to do something everything turns in
 
 The second important ingredient of the recipe is being patient. The Arabic word 'Sabr' rendered as patience literally signifies to keep oneself under one's control against unfavourable happenings. It is common knowledge that nothing significant can be achieved without undergoing difficulties and hardships. One who readily prepares himself to face hardships is generally successful in most of his objectives. The Holy Prophet ﷺ said in a Tradition, "No greater blessing has been given to anyone other than patience." (Abu Dawud)
 
+## AI Translation
+
+Moses reassured his people, “Seek Allah’s help and be patient. Indeed, the earth belongs to Allah. He grants it to whoever He chooses of His servants. The ultimate outcome belongs to the righteous.”
+
+## AI Tafsir
+
+**What this ayah teaches:** He gives it as a heritage to whom He wills of His servants; and the (blessed) end is for the pious and righteous persons.
+
+**Classical tafsir:** Ibn Kathir notes: The Arabic word 'Sabr' rendered as patience literally signifies to keep oneself under one's control against unfavourable happenings.
+
+**From the Sunnah:** The Holy Prophet ﷺ said in a Tradition, "No greater blessing has been given to anyone other than patience." (Abu Dawud) (Sunan Abi Dawud)
 ## Personal Reflections
 
 

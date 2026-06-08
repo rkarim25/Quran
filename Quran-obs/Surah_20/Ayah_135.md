@@ -162,6 +162,19 @@ Surah Ta-Ha
 
 Ends here.
 
+## AI Translation
+
+Say: Each waits — so wait. You will soon know who is on the Straight Path and who is guided.
+
+## AI Tafsir
+
+**Context:** (Has there not come to them the proof of that which is in the former papers (Scriptures)?) This means the Qur'an which Allah revealed to him while he was an unlettered man who could not write well and who did not study w…
+
+**What this ayah teaches:** It verifies what is correct and explains the mistakes that were falsely placed in these Books and attributed to them.
+
+**Classical tafsir:** Ibn Kathir notes: It verifies what is correct and explains the mistakes that were falsely placed in these Books and attributed to them.
+
+**From the Sunnah:** In this Hadith, the Prophet ﷺ only mentioned the greatest of the signs that he was given, which is the Qur'an.
 ## Personal Reflections
 
 

@@ -184,6 +184,17 @@ In the last sentence of verse فَأُولَـٰئِكَ لَهُمْ جَزَا
 
 The word: غُرُفَات (ghurufat) is the plural form of: غُرفَۃ (ghurfah). It denotes a part of the mansion considered distinct and high as compared to other parts.
 
+## AI Translation
+
+As for those who work to discredit Our ayahs, they will be confined in torment.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then, they transgress therein, and thus the Word (of torment) is justified against it (them).
+
+**Classical tafsir:** Ibn Kathir notes: This means that just as there are differences between them in this world – where one may be poor and in straitened circumstances while another is rich and enjoys a life of plenty – so they will be in the Hereafter.
+
+**From the Sunnah:** Paradise, whilst another will be in the lowest levels of Hell.
 ## Personal Reflections
 
 

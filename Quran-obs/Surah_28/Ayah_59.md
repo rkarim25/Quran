@@ -170,6 +170,17 @@ As in the case of economic needs, the smaller habitations are dependent on citie
 
 In the case of sighting of the moon for observing Ramadan and Eids (Shawwal and Dhulhajjah) too, the same principle has been declared by the jurists as applicable. That is, if the evidence of witnesses in the city establishes the sighting of moon, then the people of towns and villages would have to follow the same. But in the case of other cities, it would only apply when the Qadi of that city accepts the evidence and makes the announcement. (Al-Fataw al-Ghayathiyyah)
 
+## AI Translation
+
+Your Rabb would never destroy a society until He had sent to its capital a messenger, reciting Our revelations to them. Nor would We ever destroy a society unless its people persisted in wrongdoing.
+
+## AI Tafsir
+
+**What this ayah teaches:** And verily, We have been the heirs (58)And never will your Lord destroy the towns until He sends to their mother town a Messenger reciting to them Our Ayat. And never would We destroy the towns unless the people thereof are wrongdoers .
+
+**Classical tafsir:** Ibn Kathir notes: Allah has sent the Unlettered Prophet to all the towns (all of mankind), because he has been sent to the Mother of Cities, their source to which they all return.
+
+**From the Sunnah:** It was recorded in the Two Sahihs that the Prophet ﷺ said: This verse has pointed out that Allah's messengers and prophets are generally sent in big cities, and not in smaller towns, because such towns are normally under the influence of big cities, both for their economic and educational needs.
 ## Personal Reflections
 
 

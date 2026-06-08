@@ -140,6 +140,15 @@ Everything belongs to Allah and serves Him
 
 وَمَنْ عِندَهُ لَا يَسْتَكْبِرُ‌ونَ عَنْ عِبَادَتِهِ وَلَا يَسْتَحْسِرُ‌ونَ (And those who are near Him are not arrogant against His worship, nor are they sluggish. - 21:19) It means that Allah's servants who are with Him i.e. angels pray to Him all the time without ceasing. So, if the humans do not pray to Him, it will not make any difference to Him, but they themselves will be the losers. It is human nature to judge others by applying one's own situation to them. Hence there are two possibilities preventing a person from offering acts of worship ceaselessly. One, that he regards it below his dignity to bow down before any one and therefore does not pray to Allah Ta` ala. Secondly, it is physically not possible for a man to worship without a break because he needs to rest in between. In view of these two human constraints, it is explained towards the end of the verse that the angels are free from these compulsions. They do not regard it below their dignity to worship Allah constantly nor do they get tired or need any rest or sleep.
 
+## AI Translation
+
+To Him belong all those in the heavens and the earth. And those nearest to Him are not too proud to worship Him, nor do they tire.
+
+## AI Tafsir
+
+**What this ayah teaches:** We created not the heavens and the earth and all that is between them for play (16)Had We intended to take a pastime, We could surely have taken it from Us, if We were going to do (that)(17)Nay, We fling the truth against the falsehood, so it destroys it, and behold, it disappears.
+
+**Classical tafsir:** Ibn Kathir notes: One, that he regards it below his dignity to bow down before any one and therefore does not pray to Allah Ta` ala.
 ## Personal Reflections
 
 

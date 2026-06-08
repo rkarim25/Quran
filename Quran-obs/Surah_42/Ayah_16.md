@@ -175,6 +175,17 @@ In the previous verses, all the people of the whole world had been invited towar
 
 The Noble Qur'an has warned these people that the explanations and proofs in favour of Islam and Qur'an have been fully provided to you, and your own sensible and fair minded people, having accepted them, have embraced Islam, and now their argumentation is nothing but falsehood and misguidance. If they do not accept it, then divine punishment will visit them. This warning is followed by the statement that the Qur'an is from Allah and contains comprehensive commandments regarding Allah's rights and the rights of the human beings between one another.
 
+## AI Translation
+
+As for those who dispute about Allah after He is already acknowledged, their argument is futile in the sight of their Lord. Upon them is wrath, and they will suffer severe punishment.
+
+## AI Tafsir
+
+**What this ayah teaches:** And those who dispute concerning Allah, after it has been accepted, of no use is their dispute before their Lord and on them is wrath, and for them will be a severe torment (16)It is Allah Who has sent down the Book in truth, and the Balance.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, may Allah be pleased with him, and Mujahid said, "They disputed with the believers after they responded to Allah and His Messenger, and tried to prevent them from following the path of guidance, hoping that they would return to Jahiliyyah." Qatadah said, "These were the Jews and Christia…
+
+**From the Sunnah:** But some infidels, who had no intention of listening and accepting, started arguing with the Muslims, even at this invitation.
 ## Personal Reflections
 
 

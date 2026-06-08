@@ -130,6 +130,19 @@ Misbehaving Prophets (علیہم السلام) is to misbehave with Allah
 
 (4) These verses denounce the hypocrites for trying to be clever with Allah Himself and to deceive Him, although no one among them could probably have had such an intention or even thought of such a possibility. What they were actually doing was to try to deceive the Holy Prophet ﷺ and the Muslims. Allah has equated this effort with an attempt to deceive Him, and has thus indicated that a man who is in any way impertinent to a prophet or a man of Allah is ultimately guilty of being impertinent to Allah Himself - this should be true above all in the case of the Holy Prophet ﷺ who stands in his station at the head of all created beings.
 
+## AI Translation
+
+They try to deceive Allah and the believers, but they only deceive themselves without realizing it.
+
+## AI Tafsir
+
+**Context:** The revelations about the characteristics of the hypocrites were revealed in Al-Madinah, this is because there were no hypocrites in Makkah.
+
+**What this ayah teaches:** They think that by doing this, they will mislead Allah, or that the statements they utter will help them with Allah, and this is an indication of their total ignorance.
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah means that the hypocrites utter these statements only when they meet you, not because they actually believe what they are saying.
+
+**From the Sunnah:** Afterwards, the Messenger of Allah ﷺ migrated to Al-Madinah, where the Ansar from the tribes of Aws and Khazraj resided. (Sahih Muslim) Also, Ibn Abi Hatim narrated that Ibn Jurayj commented on Allah's statement,
 ## Personal Reflections
 
 

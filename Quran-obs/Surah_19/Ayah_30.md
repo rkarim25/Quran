@@ -162,6 +162,15 @@ This is his affirmation that 'he is a worshipper of Allah, the Mighty and Sublim
 
 In these words, Sayyidna ` Isa I even in his infancy announced his future prophethood and the revelation to him of a sacred book from Allah Ta` ala. Since no prophet has been granted prophethood and a sacred book before the age of forty years, therefore this pre-announcement of his prophethood by Sayyidna ` Isa (علیہا السلام) here means to convey in advance that he would be bestowed prophethood and the Book at the proper time. In a similar manner The Holy Prophet ﷺ said that he was bestowed prophethood even before Adam (علیہ السلام) was yet in the process of his creation. This shows that the promise for granting prophethood to Sayyidna Muhammad Al-Mustafa ﷺ was firm and final. Here too, because of the certainty of occurrence, the grant of prophethood is referred to in the past tense. By announcing his future prophethood he (Sayyidna ` Isa علیہ السلام) dispelled peoples' doubts and exonerated his mother from the charge of fornication, because his being a Prophet was proof enough that his birth was free from any blemish.
 
+## AI Translation
+
+Jesus declared: "I am truly a servant of Allah. He has destined me to receive the Scripture and be a prophet.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, she referred all speech to him (the child) and she directed them to his address and speech to them. They scoffed at her because they thought that she was mocking at them and playing with them.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, she referred all speech to him (the child) and she directed them to his address and speech to them.
 ## Personal Reflections
 
 

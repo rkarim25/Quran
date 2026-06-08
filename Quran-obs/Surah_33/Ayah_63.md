@@ -150,6 +150,17 @@ Commentary
 
 Those hostile to Allah and the Messenger were warned of and alerted to curse and punishment in the present world and in the Hereafter while many factions among the disbelievers, in their own place, simply denied the eventuality of any Qiyamah (Doomsday) or 'Akhirah (Hereafter) and, because of their denial, used to mockingly ask: When would that Qiyamah come? An answer to their question has been given in the cited verse, that the Doomsday may be in near future. It has been said so because nobody knows the exact date of the Doomsday, and therefore everyone should be prepared for it as if it were very close. Another reason for its being declared as close is that after facing the horrible incidents of Qiyamah the entire worldly life of thousands of years will seem to be very short (and the Qiyamah very close to it).
 
+## AI Translation
+
+People ask you O Prophet about the Hour. Say, “That knowledge is only with Allah. You never know, perhaps the Hour is near.”
+
+## AI Tafsir
+
+**Context:** Here Allah tells His Messenger ﷺ that he cannot know when the Hour will come, and if people ask him about that, He instructs him to refer the matter to Allah, may He be exalted, as Allah says in Surat Al-A'raf, even thou…
+
+**What this ayah teaches:** It has been said so because nobody knows the exact date of the Doomsday, and therefore everyone should be prepared for it as if it were very close.
+
+**Classical tafsir:** Ibn Kathir notes: It has been said so because nobody knows the exact date of the Doomsday, and therefore everyone should be prepared for it as if it were very close.
 ## Personal Reflections
 
 

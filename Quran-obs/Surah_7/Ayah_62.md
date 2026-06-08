@@ -112,6 +112,17 @@ These were harsh words. But, the reply given by Sayyidna Nuh (علیہ السل�
 
 After that comes the reply to the other doubt expressed by them. This has been stated clearly in Surah Al-Mu'minun: يَتَفَضَّلَ عَلَيْكُمْ وَلَوْ شَاءَ اللَّـهُ لَأَنزَلَ مَلَائِكَةً that is, the people of Sayyidna Nuh (علیہ السلام) came up with another doubt about the call given by him. They thought that he was only human, a man like them who ate, drank, slept and woke as they did. How could they take him as their leader? Had Allah wanted to send a message for them, he should have sent angels with it whose distinction and greatness would have impressed them. Now, what they saw here was no more than that there was someone from among their own race and community who wished to establish his superiority over them - 23:24.
 
+## AI Translation
+
+He replied, “O my people! I am not misguided! But I am a messenger from the Rabb of all worlds, conveying to you my Rabb’s messages and giving you advice. And I know from Allah what you do not know.
+
+## AI Tafsir
+
+**What this ayah teaches:** There is no error in me, but I am a Messenger from the Lord of all that exists (61)I convey unto you the Messages of my Lord and give sincere advice to you. I convey to you the messages of my Lord and wish your betterment, and I know from Allah what you do not know).
+
+**Classical tafsir:** Ibn Kathir notes: Allah mentioned the story of Nuh, because he was the first Messenger Allah sent to the people of the earth after Adam.
+
+**From the Sunnah:** In his Sahih, Muslim recorded that the Messenger of Allah ﷺ said to his Companions on the Day of 'Arafah, when their gathering was as large as it ever was, (Sahih Muslim)
 ## Personal Reflections
 
 

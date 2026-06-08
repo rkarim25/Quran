@@ -164,6 +164,15 @@ This concludes the explanation of Surat Al-Ahqaf. And all praise and blessings a
 
 یغْفِرْ‌ لَكُم مِّن ذُنُوبِكُمْ (will forgive your sins for you,) The word 'min' used in the text gives the sense of 'some'. If it is taken in this sense here, it would mean that 'some sins' will be forgiven by embracing Islam. It will indicate that only sins relating to the rights of Allah would be forgiven but not the rights of people. But some exegetes have taken 'min' in this verse as an extra word that has no additional meaning in Arabic idioms. Given this interpretation, no explanation is required.
 
+## AI Translation
+
+On the Day those who rejected the truth are exposed to the Fire, they will be asked: Is this not the truth? They will say: Yes, by our Rabb! It will be said: Then taste the punishment for what you used to deny.
+
+## AI Tafsir
+
+**What this ayah teaches:** It will indicate that only sins relating to the rights of Allah would be forgiven but not the rights of people. It is part of Allah's justice that He does not punish anyone except those who deserve the punishment – and Allah knows best.
+
+**Classical tafsir:** Ibn Kathir notes: It will indicate that only sins relating to the rights of Allah would be forgiven but not the rights of people.
 ## Personal Reflections
 
 

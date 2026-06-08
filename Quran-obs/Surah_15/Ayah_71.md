@@ -83,6 +83,15 @@ From verse 48: لَا يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَ�
 
 As for the third probability, that the blessings of Jannah may remain everlasting, nor one is expelled from there, but one may himself get bored by living there and wish to go out, the Qur’ an has demolished this probability in one sentence of Surah Al-Kahf with the following words: لَا يَبْغُونَ عَنْهَا حِوَلًا (That is, these people too would never seek to return from there - 18:108).
 
+## AI Translation
+
+He said, “O my people! Here are my daughters so marry them if you wish to do so.”
+
+## AI Tafsir
+
+**What this ayah teaches:** However, here the conjunction (wa, meaning "and") does not imply the sequence of events, especially since there is something to indicate that this is not the case.
+
+**Classical tafsir:** Ibn Kathir notes: However, here the conjunction (wa, meaning "and") does not imply the sequence of events, especially since there is something to indicate that this is not the case.
 ## Personal Reflections
 
 

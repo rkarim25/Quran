@@ -201,6 +201,17 @@ So, whoever has used these means has become the one blessed with true insight wi
 
 Towards the end of the verse, it was said: ` I do not stand guard over you.' It means that the Holy Prophet ﷺ has not been given the responsibility of forcing people to stop doing what was improper, as usually done by one appointed to oversee and guard (or self-appointed as vigilantes in our day). Instead, the functional responsibility of a messenger of Allah is only to convey commands, and explain. After that, following or not following the message conveyed becomes a matter of personal discretion and responsibility of the addressees.
 
+## AI Translation
+
+Indeed, there have come to you insights from your Rabb. So whoever chooses to see, it is for their own good. But whoever chooses to be blind, it is to their own loss. And I am not a keeper over you.
+
+## AI Tafsir
+
+**What this ayah teaches:** And as for those who disbelieve, there is heaviness in their ears, and it is blindness for them.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, Mujahid, Sa'id bin Jubayr and Ad-Dahhak said similarly.
+
+**From the Sunnah:** Basa'ir are the proofs and evidences in the Qur'an and the Message of Allah's Messenger ﷺ. he heard Ibn 'Abbas saying, "Darasta, means, 'recited, argued and debated.'" This is similar to Allah's statement about the denial and rebellion of the those who reject the truth,
 ## Personal Reflections
 
 

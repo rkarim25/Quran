@@ -158,6 +158,15 @@ The Prophet Musa (علیہ السلام) gave certain instructions to the Prophe
 
 The second instruction was in these words: وَلَا تَتَّبِعْ سَبِيلَ الْمُفْسِدِينَ "And do not follow the way of mischief-makers." It is obvious that Prophet Harun (علیہ السلام) being a Prophet of Allah could not be supposed to indulge in mischief. This instruction, therefore, meant that he should not do any such thing as could help or encourage the mischief makers. This is exactly what the Prophet Harun (علیہ السلام) did when he saw his people following the magician Samiri, so much so that they started worship-ping the golden calf. The Prophet Harun (علیہ السلام) prevented them from this act as well as admonished Samiri against his mischief. Later, the Prophet Musa (علیہ السلام) ، called him to account for this act of theirs, thinking that it was the result of inefficiency on the part of the Prophet Harun (علیہ السلام) . This also serves as a lesson for those who do not care for orderly disposition of matters and take it as a sign of piousness.
 
+## AI Translation
+
+We appointed for Moses thirty nights then added another ten—completing his Rabb’s term of forty nights. Moses commanded his brother Aaron, “Take my place among my people, do what is right, and do not follow the way of the corruptors.”
+
+## AI Tafsir
+
+**What this ayah teaches:** And We appointed for Musa thirty nights and added ten, and he completed the term, appointed by his Lord, of forty nights. Allah commanded him to complete the term adding ten more days, making the total forty.
+
+**Classical tafsir:** Ibn Kathir notes: And We appointed for Musa thirty nights and added ten, and he completed the term, appointed by his Lord, of forty nights.
 ## Personal Reflections
 
 

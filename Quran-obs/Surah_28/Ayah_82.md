@@ -171,6 +171,17 @@ Allah's saying:
 
 وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَيْلَكُمْ (And said those who were given knowledge - 28:80). This verse has compared the knowledgeable persons with الَّذِينَ يُرِ‌يدُونَ الْحَيَاةَ الدُّنْيَا (Those who are desirous of the worldly life - 28:79), which clearly indicates that it is not the trait of knowledgeable persons to aspire for the acquisition of wealth and to make it the object of life. They always keep their eyes toward the lasting benefits of the Hereafter. As for the mundane wealth, they take it only to fulfill their day-to-day needs, and stay content with that.
 
+## AI Translation
+
+And those who had craved his position the previous day began to say, “Ah! It is certainly Allah Who gives abundant or limited provisions to whoever He wills of His servants. Had it not been for the grace of Allah, He could have surely caused the earth to swallow us up! Oh, indeed! those who reject the truth will never succeed.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Had it not been that Allah was Gracious to us, He could have caused the earth to swallow us up!
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** his father told him that the Messenger of Allah ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
 
 

@@ -191,6 +191,19 @@ Note of Caution
 
 What has been written here on the religious question of Taqlid and Ijtihad is only a very brief summary of the subject, which is sufficient for Muslims at large. As for scholarly research and details of the subject, they are present in books of Usul al-Fiqh. Worth mentioning are: (1) Kitab al-Muwafqat by Allamah Shatibi, v. IV, Bab Al-Ijtihad; (2) Kitab Ihkam al-Ahkam by Allamah Saifuddin al-'Amidi, v. III, al-Qa` idah ath-thalitha fi al-mujtahidin; (3) Hujjatullahil-Balighah and ` Iqd al-Jid by Hadrat Shah Waliyyullah Ad-Dihlawi; and (4) Kitab al-Iqtisad fi at-Taqlid wa al-Ijtihad by Hadrat Maulana Ashraf All Thanavi. Interested scholars may wish to refer back to them.
 
+## AI Translation
+
+We did not send messengers before you O Prophet except mere men inspired by Us. If you polytheists do not know this already, then ask those who have knowledge of the Scriptures.
+
+## AI Tafsir
+
+**Context:** And We sent not (as Our Messengers) before you (O Muhammad) any but men, whom We sent revelation. So ask Ahl Adh-Dhikr, if you know not (43)With clear signs and Books (We sent the Messengers).
+
+**What this ayah teaches:** Therefore, 'ahludh-dhikr' literally means 'the people of knowledge' (as refined in the cited translation). So ask Ahl Adh-Dhikr, if you know not (43)With clear signs and Books (We sent the Messengers).
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, 'ahludh-dhikr' literally means 'the people of knowledge' (as refined in the cited translation).
+
+**From the Sunnah:** So, how could they accept the statement of other Muslims? 'Ahludh-Dhikr' means authentic historians of past peoples based on this investigative position, this definition includes therein the people of the Book, the Jews and Christians, and the people of the Qur’ an, the Muslims as well.
 ## Personal Reflections
 
 

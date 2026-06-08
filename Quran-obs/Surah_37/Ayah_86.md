@@ -60,6 +60,17 @@ Qatadah said, "This means, 'what do you think He will do with you when you meet 
 
 In verse 84, it was said: إِذْ جَاءَ رَ‌بَّهُ بِقَلْبٍ سَلِيمٍ (when he came to his Lord with a pure heart). Here, 'coming to his Lord' means 'to turn to Allah, to zero in one's attention towards Him and to worship Him.' By placing the restriction of 'with a pure heart' it has been indicated that no act of devotion (ibadah) to Allah is acceptable until the heart of the devotee is cleansed pure from false beliefs and ill intentions. If a certain act of devotion is performed while laced with some false belief, then, no matter how hard the devotee has worked in this process, it will still not be acceptable. Similarly, if the main purpose of the devotee happens not to be the seeking of the sole pleasure of Allah - but, is a simple show off or some material gain, then, that act of devotion is not praiseworthy. The passion with which Sayyidna Ibrahim (علیہ السلام) turned towards Allah was free of all such adulterations.
 
+## AI Translation
+
+Is it false gods that you desire instead of Allah?
+
+## AI Tafsir
+
+**What this ayah teaches:** Here, 'coming to his Lord' means 'to turn to Allah, to zero in one's attention towards Him and to worship Him.' By placing the restriction of 'with a pure heart' it has been indicated that no act of devotion (ibadah) to Allah is acceptable until the heart of the devotee is cleansed pure from false beliefs and ill intentions.
+
+**Classical tafsir:** Ibn Kathir notes: Then what think you about the Lord of the all that exists?) Qatadah said, "This means, 'what do you think He will do with you when you meet Him, given that you worshipped others alongside Him?"
+
+**From the Sunnah:** Ibn Abi Hatim recorded that 'Awf said, "I said to Muhammad bin Sirin, 'What is the Salim heart?' He said, 'One which knows that Allah is true and that the Hour will undoubtedly come to pass, and that Allah will resurrect those who are in the graves.'" Al-Hasan…
 ## Personal Reflections
 
 

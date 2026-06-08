@@ -224,6 +224,17 @@ Thus, those who follow the alluring dictates of the Satan and op-pose the injunc
 
 The last verse (30) says that 'Allah warns you of Himself lest you should indulge in friendship with disbelievers for the sake of fleeting interests and objectives and thus invite the anger of Allah. And since close friendship (Muwalat) relates to the heart and the affairs of the heart are known to none but Allah, it is possible that a person may actually be intensely in love for and friendship with disbelievers, but may deny it verbally. Therefore, the earlier verse (29) has already covered it by saying: "whether you conceal what is in your hearts, or disclose it, Allah shall know it." No denial or false claim is tenable before Him.
 
+## AI Translation
+
+Say, “Whether you conceal what is in your hearts or reveal it, it is known to Allah. For He knows whatever is in the heavens and whatever is on the earth. And Allah is Most Capable of everything.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, the earlier verse (29) has already covered it by saying: "whether you conceal what is in your hearts, or disclose it, Allah shall know it." No denial or false claim is tenable before Him.
+
+**Classical tafsir:** Ibn Kathir notes: It follows, therefore, that those who are against this purpose are the worst enemies of man.
+
+**From the Sunnah:** In these verses, Muslims have been instructed not to take those who reject the truth as their friends. In verses cited above and in many other verses of the Holy Qur'an, Muslims have been strongly prevented from 'Muamlat' with non-Muslims, that is, from indulging in relations based on love and friendship.
 ## Personal Reflections
 
 

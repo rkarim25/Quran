@@ -146,6 +146,15 @@ There is a hint in this verse that those who are bestowed with long life in this
 
 ` O the duped one! Your whole day is spent in negligence and the night in sleep, while death is inevitable for you. Neither you are awake among the alert and woken nor are you the one who will get salvation from among the sleepers. You keep endeavoring for things which will soon bring you unpleasant results. Cattle and animals live like this in the world'.
 
+## AI Translation
+
+Imagine O Prophet if We allowed them enjoyment for years,
+
+## AI Tafsir
+
+**What this ayah teaches:** Then they will say: "Can we be respited?") means, when they see the punishment, then they will wish they had a little more time so that they can obey Allah – or so they claim. Then Allah tells us of His justice towards His creation, in that He does not destroy any nation until after He has left them with no excuse, by warning them, sending Messengers to them and establishing proof against them.
+
+**Classical tafsir:** Ibn Kathir notes: Then they will say: "Can we be respited?") means, when they see the punishment, then they will wish they had a little more time so that they can obey Allah – or so they claim.
 ## Personal Reflections
 
 

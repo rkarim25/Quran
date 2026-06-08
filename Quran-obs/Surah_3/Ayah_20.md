@@ -245,6 +245,17 @@ The Prophet ﷺ said,
 
 The Surah began with the confirmation of Divine Oneness and the refutation of Trinity. Answered here are argumentations in which the disbelievers and deniers among the people of the Book persist - even after the truth of Islam has been proved conclusively. The advice against such ongoing. and unnecessary disputations is that the acceptance or rejection of disputers should be of no use to a believer who simply has to declare that he and those with him have entered the fold of Islam being in no doubt about its truth. The Holy Prophet ﷺ was entrusted with the mission of calling the people of the Book, the Jews and Christians, and the disbelievers of Arabia to submit to Allah and embrace Islam which will be for their own good for they will be on the right path. In case they continue to maintain their hostile attitude, the Holy Prophet ﷺ has been comforted here by saying that his duty is only limited to conveying the message of Allah and His commandments. That the message does not seem to get across to them, as they elect to reject rather than accept, should really not be a matter of concern for him. This is something Allah will take care of in His own way for He is in full sight of what His servants are doing.
 
+## AI Translation
+
+So if they argue with you, say, “I have submitted myself to Allah, and so have my followers.” And ask those who were given the Scripture and the illiterate, “Have you submitted yourselves to Allah?” If they submit, they will be guided. But if they turn away, then your duty is only to deliver. And Allah is All-Seeing of servants.
+
+## AI Tafsir
+
+**What this ayah teaches:** And whoever disbelieves in the Ayat of Allah, then surely, Allah is Swift in reckoning (19)So if they dispute with you say: "I have submitted myself to Allah, and (so have) those who follow me." And say to those who were given the Scripture (Jews and Christians) and to those who are illiterate (Arab pagans): "Do you (also) submit yourselves?" If they do, they are rightly guided…
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, after Allah sent Muhammad ﷺ, whoever meets Allah following a path other than Muhammad's, it will not be accepted of him.
+
+**From the Sunnah:** The Two Sahihs and other collections of Hadith recorded that the Prophet ﷺ sent letters to the kings of the earth during his time and to different peoples, Arabs and non-Arabs, People of the Book and the unlettered, just as Allah had commanded him.
 ## Personal Reflections
 
 

@@ -198,6 +198,15 @@ This sentence about the disbelievers is like the one that appeared earlier for t
 
 This verse also explains that no one can become a perspicacious scholar merely by having resource of insight and knowledge, rather it is bestowed by the grace of Allah only. It is for this reason that those who are regarded naive in mundane matters prove themselves very knowledgeable and scholarly in the cognizance of the Hereafter. And, vice versa, many who are regarded very intelligent and knowledgeable in worldly matters, prove themselves completely ignorant and foolish in the perception and comprehension of the Hereafter. (Mazhari)
 
+## AI Translation
+
+Or their deeds are like the darkness in a deep sea, covered by waves upon waves, topped by dark clouds. Darkness upon darkness! If one stretches out their hand, they can hardly see it. And whoever Allah does not bless with light will have no light!
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah is swift in taking account (39)Or like the darkness in a vast deep sea, overwhelmed with waves topped by waves, topped by dark clouds, (layers of) darkness upon darkness: if a man stretches out his hand, he can hardly see it! The word Qi'ah refers to a vast, flat, level area of land in which the mirage may appear.
+
+**Classical tafsir:** Ibn Kathir notes: The word Qi'ah refers to a vast, flat, level area of land in which the mirage may appear.
 ## Personal Reflections
 
 

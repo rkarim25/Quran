@@ -82,6 +82,17 @@ has said: اَلمَرُء مَعَ مَن اَحَبَّ (One shall be with who
 
 And since human beings have the ability to absorb the manifestations of Divine light, and since they have been given the honour of being in communion with the Divine, it came to be the dictate of Divine wisdom that man be made the object of prostration by the angels. It was said: فَقَعُوا لَهُ سَاجِدِينَ ' (you fall down before him, prostrating - 29)
 
+## AI Translation
+
+So the angels prostrated all together—
+
+## AI Tafsir
+
+**What this ayah teaches:** The creation of Adam, the Command to the Angels to prostrate to Him, and the Rebellion of Iblis Allah informs us of how He mentioned Adam to His angels before He created him, and how He honored him by commanding the angels to prostrate to him. He mentions how His enemy Iblis, amidst all the angels, refused to prostrate to him out of envy, disbelief, stubbornness, arrogance, and false pride.
+
+**Classical tafsir:** Ibn Kathir notes: Though they are, because of their purity and detachment, very high and elevated in station, and far distant too, yet their reflection appears in the mirror of the lower spirit and transfers the states and effects of the higher spirits into it.
+
+**From the Sunnah:** But, the majority of the ` Ulama' of the Muslim Ummah declare Ruh (spirit, soul) to be a highly refined physical entity. (Sahih Muslim)
 ## Personal Reflections
 
 

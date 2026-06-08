@@ -132,6 +132,19 @@ Wisdom in Da'wah etc.
 
 Some narrations have it that someone either abused or reviled Sayyidna Abu Bakr ؓ who said to him, ` If what you are saying is true that I am at fault and am bad, then I pray Allah Ta’ ala to forgive me, and if you have told a lie then may Allah Forgive you. (Qurtubi)
 
+## AI Translation
+
+And if you are tempted by Satan, seek refuge with Allah. Indeed, He alone is All-Hearing, All-Knowing.
+
+## AI Tafsir
+
+**Context:** The correct view is that the Ayah is general in meaning, and includes the Mu'adhdhin and others. When this Ayah was revealed, the Adhan had not been prescribed at all.
+
+**What this ayah teaches:** And if an evil whisper comes to you from Shaytan, then seek refuge with Allah. Repel (the evil) with one which is better, then verily he, between whom and you there was enmity, (will become) as though he was a close friend (34)But none is granted it except those who are patient – and none is granted it except the owner of the great portion in this world (35)And if an evil whisper from Shaytan trie…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** The Messenger of Allah ﷺ is the foremost among people in this regard, as Muhammad bin Sirin, As-Suddi and 'Abdur-Rahman bin Zayd bin Aslam said.
 ## Personal Reflections
 
 

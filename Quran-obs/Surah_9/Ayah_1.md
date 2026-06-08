@@ -128,6 +128,19 @@ Praised is Allah with whose help “ Surah al-'Anfal” comes to its conclusion 
 
 A review of it was completed on the day of Jumu'ah, 19th of Jumada I, Hijrah Year 1390 and praised be Allah for that.
 
+## AI Translation
+
+A declaration of release from obligations—from Allah and His Messenger to those who associate partners with Allah, with whom you made treaties.
+
+## AI Tafsir
+
+**Context:** This honorable Surah (chapter 9) was one of the last Surahs to be revealed to the Messenger of Allah ﷺ. Al-Bukhari recorded that Al-Bara' said, "The last Ayah to be revealed was, The first part of this honorable Surah wa…
+
+**What this ayah teaches:** Freedom from (all) obligations (is declared) from Allah and His Messenger ﷺ to those of the Mushrikin (idolaters), with whom you made a treaty.)(2.
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah refers to idolators who had indefinite treaties and those, whose treaties with Muslims ended in less than four months.
+
+**From the Sunnah:** This honorable Surah (chapter 9) was one of the last Surahs to be revealed to the Messenger of Allah ﷺ.
 ## Personal Reflections
 
 

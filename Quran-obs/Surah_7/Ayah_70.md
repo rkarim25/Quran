@@ -151,6 +151,17 @@ Imam Ahmad recorded that Al-Harith Al-Bakri said: "I went to the Messenger of Al
 
 (4)-The sixth verse (70) contains the answer given by Sayyidna Hud (علیہ السلام) . He told them that, in view of their contumacy and lack of good sense, the wrath and punishment of Allah would have not remained far and may come sooner than they expect. So, this was a matter of waiting. Let them wait for it, so shall he do. It would be noticed that the provoking reply given by his people prompted Sayyidna Hud (علیہ السلام) to give a suitable answer which included the news that the punishment they were looking for was to come soon. But, he was a prophet. His paternal affection and the desire to do good to them forced him to say during the course of his reply that he regretted that his people had taken things without sense and life as objects of worship without having any proof from reason or revelation to support their position. Now they had become so staunch in their devotion to the false that they had started quarreling with him, a prophet of Allah.
 
+## AI Translation
+
+They said, “Have you come to us so that we would worship Allah alone and abandon what our forefathers used to worship? Then bring us what you threaten us with, if what you say is true!”
+
+## AI Tafsir
+
+**What this ayah teaches:** They said, 'Who is stronger than us?' Some of them, however, followed Hud, although they were few and had to conceal their faith.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said that, 'Rijs', means scorn and anger.
+
+**From the Sunnah:** I also found a black flag raised high, while Bilal was holding a sword before the Messenger of Allah ﷺ. (Musnad Ahmad, Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

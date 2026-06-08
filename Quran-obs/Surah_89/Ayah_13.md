@@ -220,6 +220,17 @@ Ibn 'Abbas said, "He hears and He sees." This means that He watches over His cre
 
 فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ (So, your Lord unloosed on them the whip of torment....89:13). The punishment inflicted upon them as a result of their mischief is referred to here as a 'whip of torment'. It signifies that just as lashes are inflicted across different parts of the body, the torment these nations received was similar to it in that they suffered different kinds of punishment.
 
+## AI Translation
+
+So your Lord poured upon them a scourge of punishment.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, your Lord is Ever Watchful.).
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "Iram was an ancient nation who were the first people of 'Ad." Qatadah bin Di'amah and As-Suddi both said, "Verily, Iram refers to the House of the kingdom of 'Ad." This latter statement is good and strong. Ibn 'Abbas said, "They carved them and they hewed them." This was also said by Mujahid, Qatadah, Ad-Dahhak and Ibn Zayd.
+
+**From the Sunnah:** a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. (Sunan an-Nasa'i) It is said, "Hajara Al-Hakim so-and-so (The judge passed a judgement preventing so-and-so)," when his judgement prevents the person from his liberty (i.e., of freely utilizing his wealth). (al-Mustadrak)
 ## Personal Reflections
 
 

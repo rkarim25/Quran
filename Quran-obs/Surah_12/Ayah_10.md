@@ -138,6 +138,17 @@ If, on this principle, the property lost by a person is found by some-one, his I
 
 These are golden principles of public service and social self-help. The responsibility of putting them in regular practice has been placed on every individual of an Islamic society. Only if Muslims would under-stand their religion and start acting in accordance with it, they will be noticed by the whole world with surprise as to how do they accomplish things so easily and so effectively, things which big departments of governments fail to accomplish at the cost of millions and billions.
 
+## AI Translation
+
+One of them said, “Do not kill Joseph. But if you must do something, throw him into the bottom of a well so perhaps he may be picked up by some travellers.”
+
+## AI Tafsir
+
+**What this ayah teaches:** May Allah forgive them, and indeed, He is the ar-Rahim among those who have mercy, for they intended to carry out a "grave error." Ibn Abi Hatim collected this statement, from the route of Salamah bin Al-Fadl from Muhammad bin Ishaq.
+
+**Classical tafsir:** Ibn Kathir notes: As-Suddi said that his name was Yahudha (Judah). Literally, ghayabah means everything which hides something in or makes it disappear.
+
+**From the Sunnah:** May Allah forgive them, and indeed, He is the ar-Rahim among those who have mercy, for they intended to carry out a "grave error." Ibn Abi Hatim collected this statement, from the route of Salamah bin Al-Fadl from Muhammad bin Ishaq.
 ## Personal Reflections
 
 

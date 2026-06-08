@@ -145,6 +145,17 @@ Ibrahim Nakha (رح) has stated that former virtuous elders did not like that Mu
 
 Maulana Ashraf ` Ali Thanawi (رح) ، has, however, explained the issue in Bayan-ul-Qur'an from a little different angle. He says that Allah Ta’ ala has mentioned two qualities particular to the true, sincere and virtuous Muslims in both the verses. The verse emphasizing on forgiveness tells us that they are not overcome by anger, rather kindness and generosity remains dominant in their temperament because of which they forgive the ones who commit excess against them. And in the verse that refers to revenge, we are told that it is a particular quality of these virtuous people that if at any time their heart is inclined to take revenge of an injustice and they do so, they do not exceed the equitable limit, although to forgive is always better for them.
 
+## AI Translation
+
+The reward of an evil deed is its equivalent. But whoever pardons and seeks reconciliation, their reward is with Allah. He certainly does not like the wrongdoers.
+
+## AI Tafsir
+
+**What this ayah teaches:** The recompense for an evil is an evil like thereof; but whoever forgives and makes reconciliation, his reward is with Allah.
+
+**Classical tafsir:** Ibn Kathir notes: And in the verse that refers to revenge, we are told that it is a particular quality of these virtuous people that if at any time their heart is inclined to take revenge of an injustice and they do so, they do not exceed the equitable limit, although to forgive is always better f…
+
+**From the Sunnah:** He said, 'What do you need, O Abu 'Abdullah' I said, 'If you can do it, I need you to be like the brother of Banu 'Adiy.' He said, 'Who is the brother of Banu 'Adiy' He said, 'Al-'Ala' bin Ziyad; he once appointed a friend of his to a position of authority, an… He says that Allah Ta’ ala has mentioned two qualities particular to the true, sincere and virtuous Muslims in both the verses.
 ## Personal Reflections
 
 

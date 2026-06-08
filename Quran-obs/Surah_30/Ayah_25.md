@@ -140,6 +140,17 @@ Existence of the sky and earth is by the command of Allah. When He will command 
 
 The sixth sign of divine omnipotence is in fact the sum and substance of the previous five signs, and they were in fact revealed to explain and elaborate this verse. The subject of this verse continues in the next few verses.
 
+## AI Translation
+
+One of His signs: heavens and earth stand by His command. When He calls you once from the earth, you will emerge at once.
+
+## AI Tafsir
+
+**Context:** The sixth sign of divine omnipotence is in fact the sum and substance of the previous five signs, and they were in fact revealed to explain and elaborate this verse.
+
+**What this ayah teaches:** And among His signs is that He shows you the lightning, for fear and for hope, and He sends down water from the sky, and therewith revives the earth after its death.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

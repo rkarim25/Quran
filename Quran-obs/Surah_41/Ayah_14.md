@@ -206,6 +206,15 @@ Commentary
 
 The basic purpose of these verses is to warn the people of Makkah that if, even after seeing the manifest proofs of the Oneness of Allah, they do not accept the call of the Holy Prophet ﷺ ، they may face a punishment like the earlier people of ` Ad and Thamud had faced. In this context, a brief account of what happened to these people has been given. The people of Makkah are also reminded that their punishment on the Day of Judgment will be much more severe, and they will not be able to escape it, because even the organs of their body will testify against them. And in this context, some events of that Day are mentioned.
 
+## AI Translation
+
+Messengers came to them from all directions, proclaiming, "Worship none but Allah." They responded, "Had our Lord willed, He would have sent angels. We totally reject what you were sent with."
+
+## AI Tafsir
+
+**What this ayah teaches:** which means that in the neighboring towns and cities, Allah sent Messengers who commanded the people to worship Allah Alone with no partner or associate, and they brought good news as well as warnings. But surely the torment of the Hereafter will be more disgracing, and they will never be helped (16)And as for Thamud, We showed them the path of truth but they preferred blindness to guidance; so th…
+
+**Classical tafsir:** Ibn Kathir notes: But surely the torment of the Hereafter will be more disgracing, and they will never be helped (16)And as for Thamud, We showed them the path of truth but they preferred blindness to guidance; so the Sa'iqah of disgracing torment seized them because of what they used to earn (17)…
 ## Personal Reflections
 
 

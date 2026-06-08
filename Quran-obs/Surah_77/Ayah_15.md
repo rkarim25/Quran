@@ -164,6 +164,17 @@ Allah is saying, 'for which day are the Messengers postponed and their matter ex
 
 وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ (Woe, that Day, to the deniers!...77:15) The word wail means 'destruction'. According to certain Hadith narratives, the word wail is a 'valley of Hell where the pus of the wounds of the inmates of Hell will be collected. This is the place where the deniers will live. After this, the present-day people are asked to learn a lesson from [ the destruction ] of the former generations, thus:
 
+## AI Translation
+
+Woe that Day to those who deny!
+
+## AI Tafsir
+
+**Context:** (By the Mursalat.) was revealed to him. He was reciting it and I was learning it from his mouth. Verily, his mouth was moist with it when a snake leaped out at us. The Prophet ﷺ said,
+
+**What this ayah teaches:** Woe that Day to the deniers.) meaning, woe unto them from Allah's torment that is coming in the future. And what will explain to you what is the Day of Sorting Out?)(15.
+
+**Classical tafsir:** Ibn Kathir notes: This means, what you all have been promised concerning the establishment of the Hour (Judgement Day), the blowing of the horn, the resurrection of the bodies, the gathering of those of old and those of latter times on one common ground and the rewarding of every doer of a deed ba…
 ## Personal Reflections
 
 

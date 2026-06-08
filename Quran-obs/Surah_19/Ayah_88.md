@@ -100,6 +100,15 @@ After Allah affirms in this noble Surah that 'Isa was a worshipper and servant o
 
 Sayyidna Ibn ` Abbas ؓ has said that عَھد means a declaration of firm belief in the Unity of Allah Ta’ ala, while others say that عِھد means committing the Qur’ an to memory. In brief only those people will have the permission to intercede with Allah who stand firm by their covenant to adhere to the true faith. (Ruh)
 
+## AI Translation
+
+They say: "The Rahman has taken offspring."
+
+## AI Tafsir
+
+**What this ayah teaches:** For verily, partners are associated with Him and a son is ascribed to Him, while He is the One Who gives them good health, protects them and sustains them.) This narration is also recorded in the Two Sahihs.
+
+**Classical tafsir:** Ibn Kathir notes: Just as the idolator does not benefit by his good deeds because of associating partners with Allah, we hope that Allah would forgive the sins of those who believed in His absolute Oneness by worshipping Him alone.
 ## Personal Reflections
 
 

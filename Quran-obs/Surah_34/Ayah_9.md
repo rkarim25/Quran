@@ -197,6 +197,15 @@ The last verse (9): أَفَلَمْ يَرَ‌وْا إِلَىٰ مَا بَ�
 
 (2) Then, right along with this positive invitation to see and learn on their own, the deniers have also been served with a warning of punishment. They have been told that should they continue to hold firmly to their attitude of rejection and denial, then, they should also realize that it is within this power of Allah Ta’ ala which could make the very same blessings to become a punishment for them, such as, the earth swallows them, or that the sky cracks apart and falls on them.
 
+## AI Translation
+
+Have they not looked at the heavens and the earth around them? If We willed, We could make the earth swallow them, or drop fragments of the sky upon them. In this is a sign for every servant who turns back to Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** This means that in looking at the creation of the heavens and the earth, there is a sign for every servant who is intelligent and wise and who turns towards Allah.
+
+**Classical tafsir:** Ibn Kathir notes: This means that in looking at the creation of the heavens and the earth, there is a sign for every servant who is intelligent and wise and who turns towards Allah.
 ## Personal Reflections
 
 

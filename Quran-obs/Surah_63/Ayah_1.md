@@ -228,6 +228,19 @@ Taking care of General Welfare of Muslims: Protecting them from misunderstanding
 
 Another point illustrated by this incident is that an act which is permissible in itself should be avoided if it may create a misunderstanding in the mind of a Muslim, or may provide an opportunity for the enemies to spread misunderstanding among them. Thus, despite the fact that Ibn Ubayy’ s hypocrisy was exposed openly, the Messenger of Allah ﷺ did not permit Sayyidna ‘Umer ﷺ to behead him when he sought his permission, because the enemies could create misunderstanding in the public minds that Muhammad ﷺ killed his own Comrades. But it should be noted that, as other traditions prove, such acts may be abandoned only when they are not from the basis objectives of Shariah, they cannot be abandoned for such an apprehension. Instead, attempts must be made to remove the danger and do the work dictated by the objectives of Shari’ ah.
 
+## AI Translation
+
+When the hypocrites—those with nifaq, outward acceptance with inward rejection—come to you, they say: 'We bear witness that you are the Messenger of Allah.' Allah knows you are His Messenger, but Allah bears witness that the hypocrites are liars.
+
+## AI Tafsir
+
+**Context:** The incident, in which this Surah was revealed, took place in the campaign against Banul-Mustaliq which happened, according to Muhammad Ibn Ishaq in Sha’ ban 6AH and according to Qatadah and ‘Urwah, in Sha’ ban 5AH.
+
+**What this ayah teaches:** The Messenger of Allah is successful by Allah-given honour, and by the love of the Muslims.
+
+**Classical tafsir:** Ibn Kathir notes: That is because they believed, and then disbelieved; therefore their hearts are sealed, so they understand not.)(4.
+
+**From the Sunnah:** Allah the Exalted states that the hypocrites pretended to be Muslims when they went to the Prophet ﷺ. Thus they hinder (others) from the path of Allah.) meaning, the hypocrites shield themselves from Muslims when they falsely and sinfully swear to be what they are not in reality.
 ## Personal Reflections
 
 

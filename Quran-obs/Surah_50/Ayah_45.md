@@ -178,6 +178,15 @@ Surah Qaf
 
 Ends here
 
+## AI Translation
+
+We know best what they say. You are not sent to force them. Remind with the Qur'an those who fear My warning.
+
+## AI Tafsir
+
+**What this ayah teaches:** That will be a gathering, quite easy for Us (44)We know best what they say.
+
+**Classical tafsir:** Ibn Kathir notes: This means that the message of the Qur'an is to be conveyed to the entire mankind, to all and sundry.
 ## Personal Reflections
 
 

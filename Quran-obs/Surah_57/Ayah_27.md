@@ -291,6 +291,19 @@ The third stage is when a person does not turn a permissible thing into unlawful
 
 The Holy Prophet ﷺ is reported to have said: لَا رَھبَانِیُّۃَ فَہ الاِسلَامِ (There is no monasticism in Islam.) This relates to a situation where someone abandons permissible things with the mistaken notion that it will bring him reward. If the Children of Israel initiated monasticism for the protection of their religion, it will fall under the second category of righteousness. But the people of the book were given to ghuluww or practicing religious fanaticism. If they turned lawful into unlawful, they fell under the first category and are guilty of committing haram. If they fall under the third category, then too they are guilty of committing something that is condemned. Allah, the Pure and Exalted, knows best!
 
+## AI Translation
+
+Then We sent Our messengers in succession. We sent Jesus son of Mary and gave him the Gospel, and placed compassion and mercy in the hearts of his followers. As for monasticism—they invented it; We did not prescribe it for them except to seek Allah's pleasure, yet they did not observe it as they should. So We gave those among them who had iman their reward, but many of them were rebellious.
+
+## AI Tafsir
+
+**Context:** (Then, We sent after them Our Messengers, and We sent 'Isa the son of Maryam, and gave him the Injil.) refering to the Injil that Allah revealed to him,
+
+**What this ayah teaches:** And among them there are some who are guided; but many of them are rebellious (26)Then, We sent after them Our Messengers, and We sent 'Isa the son of Maryam, and gave him the Injil. And We ordained in the hearts of those who followed him, compassion and mercy.
+
+**Classical tafsir:** Ibn Kathir notes: The word ra'fah means to alleviate the calamity of someone, while the word rahmah means to give to someone what he needs.
+
+**From the Sunnah:** a man came to him and asked him for advice, and Abu Sa'id said that he asked the same of Allah's Messenger ﷺ. (Musnad Ahmad)
 ## Personal Reflections
 
 

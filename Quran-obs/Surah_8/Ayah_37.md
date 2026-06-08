@@ -149,6 +149,19 @@ The sense is that the way magnet pulls iron and amber pulls grass and in the lig
 
 And there is a large number of commentators who take الْخَبِيثَ al-khabith and الطَّيِّبِ at-tayyib in the general sense at this place, that is, pure and impure. Thus, pure would signify true believers and impure would mean the disbelievers. Given this approach, the verse would mean that through conditions mentioned above, Allah Ta` ala likes to make the pure distinct from the impure, that is, make a true believer distinct from a disbeliever and - as a consequence of which - true believers are gathered together in Jannah and the disbelievers, all of them at one place, into Jahannam.
 
+## AI Translation
+
+So Allah may separate the impure from the pure, heap the impure together, and cast them into the Fire. They are the losers.
+
+## AI Tafsir
+
+**Context:** Muhammad bin Ishaq narrated that Az-Zuhri, Muhammad bin Yahya bin Hibban, 'Asim bin 'Umar bin Qatadah, and Al-Husayn bin 'Abdur-Rahman bin 'Amr bin Sa'id bin Mu'adh said, "The Quraysh suffered defeat at Badr and their fo…
+
+**What this ayah teaches:** Those are the losers - 37' The sense is that the way magnet pulls iron and amber pulls grass and in the light of new scientific discoveries, the system of the world is held together by the constant of force fields pulling things together, the case in deeds and morals is also identical.
+
+**Classical tafsir:** Ibn Kathir notes: Ad-Dahhak said that this Ayah was revealed about the idolators of Badr.
+
+**From the Sunnah:** At this place, the use of these two words may be referring to the impure possessions of the dis-believers, and the pure possessions of Muslim as well. (Sahih Muslim)
 ## Personal Reflections
 
 

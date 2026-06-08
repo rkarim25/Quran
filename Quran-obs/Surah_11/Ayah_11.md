@@ -108,6 +108,15 @@ At the end of this very verse, also identified there is the recompense of these 
 
 At this place, it should be noted that the Holy Qur'an uses the word: اَذَقنَا (adhaqna: We give them a taste of) for blessing and suffering both. By this device, it was indicated that real blessing and suffering is that of the Hereafter. Neither is the comfort of the mortal world the whole of it, nor is its suffering the whole of it. Instead of that, it should be taken at the level of tasting and sampling so that human beings could have some idea of the blessings and sufferings of the Hereafter. Therefore, neither are the comforts of this world something to be happy about unnecessarily, nor are its sufferings something to grieve about too much. If you were to think, this whole world is, to borrow a commercial term, only a showroom of the Hereafter with sample displays of comfort and suffering.
 
+## AI Translation
+
+except those who patiently endure and do good. It is they who will have forgiveness and a mighty reward.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah does not decree any matter for the believer except that it is good for him.
+
+**Classical tafsir:** Ibn Kathir notes: Allah explains that when any hardship befalls man, after he has experienced blessings, he is disheartened and he despairs of any good in the future.
 ## Personal Reflections
 
 

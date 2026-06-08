@@ -144,6 +144,17 @@ The interpretation of amshaj as 'cardinal humours/fluids' allays their doubt onc
 
 اِنَّ الْاَبْرَارَ يَشْرَبُوْنَ مِنْ كَاْسٍ كَانَ مِزَاجُهَا كَافُوْرًا (The righteous will have a drink from a goblet, blended; with [ a drink from ] Camphor....76:5). Some of the commentators say that kar (Camphor) refers to a fountain in Paradise. In order to enhance the taste and pleasure of this drink, it will be mixed with water from this spring. If the word 'camphor' is taken in its popular sense, it does not necessarily signify that the camphor of Paradise be equated with the camphor available in this world, because the latter is not palatable.
 
+## AI Translation
+
+We created humans from a mixed drop of fluid to test them, and gave them hearing and sight.
+
+## AI Tafsir
+
+**What this ayah teaches:** If this sense of amshaj 'mixed' is taken into account here, it allays the greatest doubt of the rejecters of Resurrection.
+
+**Classical tafsir:** Ibn Kathir notes: The word amshaj is the plural of mashj or mashj which means a 'mixture'.
+
+**From the Sunnah:** It has been mentioned previously that it is recorded in Sahih Muslim from Ibn 'Abbas that the Messenger of Allah ﷺ used to recite in the Morning prayer on Friday: (Sahih Muslim) This is like what has been recorded by Muslim in a Hadith from Abu Malik Al-Ash'ari. (Sahih Muslim)
 ## Personal Reflections
 
 

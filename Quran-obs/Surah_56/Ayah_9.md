@@ -168,6 +168,15 @@ The second category comprises those who will be placed to the left of Allah's Th
 
 The third category consists of As-sabiqun [ the foremost ] who are described as Al-muqarrabun [ the fortunate believers who are granted special nearness to Allah ]. They will be placed in front of the Divine Throne. They include the Messengers, the Prophets, Siddiqin, martyrs and the friends of Allah. They are fewer than those on the right side. Towards the end of the Surah, the description of the three categories will be taken up again to mention that some signs start appearing, right from the time of death of a person, to indicate in which category he or she is going to fall.
 
+## AI Translation
+
+the people of the left—how wretched they will be;
+
+## AI Tafsir
+
+**What this ayah teaches:** So those on the right – how (fortunate) will be those on the right!)(9.
+
+**Classical tafsir:** Ibn Kathir notes: So those on the right – how (fortunate) will be those on the right!)(9.
 ## Personal Reflections
 
 

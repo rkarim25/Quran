@@ -134,6 +134,15 @@ Rules and Principles
 
 The Holy Prophets ﷺ has, by his personal conduct, affirmed it positively. On his way back from his Masjid, when he was going through an alley with Ummul-Mu'minin, Sayyidah Safiyyah ؓ he noticed two persons appearing at the head of the alley. They were still at some distance, but the Holy Prophet told them that he was with Safiyyah hint Huyayy. They said: Ya Rasul Allah, can anyone have any suspicion about you? Then, he said: Yes, the shaitan keeps seeping through the human body, may be it drops a doubt in somebody's heart. (Al-Bukhari and Muslim) [ Qurtubi ]
 
+## AI Translation
+
+Ask the people of the land where we were and the caravan we travelled with. We are certainly telling the truth.’”
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, in order to make things clear, the testimony of the people of the city, and the caravan, was presented in support.
+
+**Classical tafsir:** Ibn Kathir notes: Yusuf's Brothers consult Each Other in Confidence; the Advice Their Eldest Brother gave Them Allah narrates to us that Yusuf's brothers were desperate because they could not secure the release of their brother Binyamin, even though they had given a promise and sworn to their fath…
 ## Personal Reflections
 
 

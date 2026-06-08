@@ -195,6 +195,17 @@ In some narrations, it has been reported from Sayyidna ` Ali ؓ that Allah Ta` a
 
 وَآخِرُ دَعوَانَا اَنِ الحمدُ للہِ رَبِّ العٰلَمِینَ
 
+## AI Translation
+
+He is the One Who has placed you as successors on earth and elevated some of you in rank over others, so He may test you with what He has given you. Surely your Rabb is swift in punishment, but He is certainly All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, your Lord is Swift in retribution, and certainly He is Oft-Forgiving, ar-Rahim .
+
+**Classical tafsir:** Ibn Kathir notes: In other words, it means: Your Lord is going to send His punishment on the disobedient soon - and for the obedient, He is Forgiving and Merciful.
+
+**From the Sunnah:** With Allah, there remains ninety-nine kinds of mercy.) Muslim and At-Tirmidhi also recorded this Hadith, At-Tirmidhi said "Hasan". (Sahih Muslim, Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

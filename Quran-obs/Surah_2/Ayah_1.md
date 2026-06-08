@@ -218,6 +218,15 @@ According to certain commentators, the isolated letters are the names of the Sur
 
 "According to ` Amir Al-Sha'bi, Sufyan Al-Thawri and many masters of the science of Hadith, every revealed book contains certain secret signs and symbols and mysteries of Allah; the isolated letters too are the secrets of Allah in the Holy Qur'an, and hence they are among the مشتبہات (Mutashabihat: of hidden meaning), the meaning of which is known to Allah alone, and it is not permissible for us even to enter into any discussion with regard to them. The isolated letters are not, however, without some benefit to us. Firstly, to believe in them and to recite them is in itself a great merit. Secondly, in reciting them we receive spiritual blessings from the unseen world, even if we are not aware of the fact. AI-Qurtubi (رح) adds: "The Blessed Caliphs Abu Bakr, ` Umar, ` Uthman and ` Ali ؓ and most of the Companions like ` Abdullah ibn Mas'ud ؓ firmly held the view that these letters are the secrets of Allah, that we should believe in them as having descended from Allah and recite them exactly in the form in which they have descended, but should not be inquisitive about their meanings, which would be improper". Citing Al-Qurtubi and others, Ibn Kathir too prefers this view. On the other hand, interpretations of the isolated letters have been reported from great and authentic scholars. Their purpose, however, was only to provide symbolical interpretation, or to awaken the minds of the readers to the indefinite possibilities of meanings that lie hidden in the Holy Qur'an, or just to simplify things; they never wished to claim that these were the meanings intended by Allah Himself. Therefore, it would not be justifiable to challenge such efforts at interpretation since it would go against the considered judgment of veritable scholars.
 
+## AI Translation
+
+Alif, Lam, Mim — opening letters whose full meaning Allah kept with Himself. They open this surah as a sign that invites humility before you read: some truths are held above human decoding.
+
+## AI Tafsir
+
+**Context:** There is no disagreement over the view that Surat Al-Baqarah was revealed in its entirety in Al-Madinah. Moreover, Al-Baqarah was one of the first Surahs to be revealed in Al-Madinah, while, Allah's statement, Ibn Jurayj…
+
+**What this ayah teaches:** Further, if we find an authentic narration leading to the Prophet ﷺ that explains these letters, we will embrace the Prophet's statement. Therefore, whoever thinks that one scholar's opinion is correct, he is obliged to follow it, otherwise it is better to refrain from making any judgment on this matter.
 ## Personal Reflections
 
 

@@ -148,6 +148,15 @@ The Story of the People of Nuh (علیہ السلام) and the Lesson Learnt fro
 
 ` Abd Ibn Humaid reports from Mujahid that when some of his people found him somewhere, they would choke him, as a result he would become unconscious. But when he recovered, he would pray to Allah, '0 Allah! Forgive my people, for they do not know the truth'. In this way, he endured the persecution of his people patiently for nine hundred and fifty years, prayed for their forgiveness and understanding of the truth. Eventually, when the situation became intolerable, and he could no longer resist his people, he invoked Allah to help him against them. As a result, Allah opened the gates of the heaven with torrential rain, and the entire nation was drowned which is mentioned in the forthcoming verse.
 
+## AI Translation
+
+So We opened the gates of the sky with pouring rain,
+
+## AI Tafsir
+
+**What this ayah teaches:** But the sky's gates were opened on them that day, and therefore, the water that came down was not from clouds. As a result, Allah opened the gates of the heaven with torrential rain, and the entire nation was drowned which is mentioned in the forthcoming verse.
+
+**Classical tafsir:** Ibn Kathir notes: The word wazdujira literally denotes 'he was rebuked'.
 ## Personal Reflections
 
 

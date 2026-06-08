@@ -54,9 +54,9 @@ def build_surah(surah: int, chapters: dict[int, dict]) -> None:
     tafsir_map = load_ai_tafsir(surah)
     for path in sorted(surah_dir.glob("Ayah_*.md"), key=lambda p: int(p.stem.split("_")[1])):
         row = to_json_ayah(read_ayah(path))
-        if row["ayah"] in ai_map:
+        if not row.get("ai_translation", "").strip() and row["ayah"] in ai_map:
             row["ai_translation"] = ai_map[row["ayah"]]
-        if row["ayah"] in tafsir_map:
+        if not row.get("ai_tafsir", "").strip() and row["ayah"] in tafsir_map:
             row["ai_tafsir"] = tafsir_map[row["ayah"]]
         ayahs.append(row)
 

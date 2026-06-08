@@ -118,6 +118,15 @@ In verse 24: وَإِنَّا أَوْ إِيَّاكُمْ لَعَلَىٰ ه�
 
 This method of prophetic call, good counsel and good-mannered debate - in line with the command of the Qur'an: وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ (wa jadilhum bil-lati hiya ahsan: (and argue with them in the best manners - 16:125) - is something ` Ulama' should keep in sight all the time. Once this stands ignored, everything done in the fair name of da'wah, tabligh and debate becomes ineffective, rather harmful. As a result, adversaries turn adamant and cling to their error far more firmly.
 
+## AI Translation
+
+Say: "Our Lord will gather us together, then judge between us with truth. He is the All-Knowing Judge."
+
+## AI Tafsir
+
+**What this ayah teaches:** Instead of that, it is certain that one of these two is following the path of truth while the other is in error.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

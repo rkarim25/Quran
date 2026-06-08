@@ -178,6 +178,17 @@ After having given a pledge or made a contract with someone, breaking it is a ma
 
 Similarly, acting contrary to what one has sworn by is also a major sin. In the Hereafter, it is full of unimaginably evil consequences while in the present world too there are its particular situations in which Kaffarah (expiation) becomes necessary. [ Qurtubi ]
 
+## AI Translation
+
+Honour Allah’s covenant when you make a pledge, and do not break your oaths after confirming them, having made Allah your guarantor. Surely Allah knows all you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Command to fulfill the Covenant This is one of the commands of Allah, to fulfill covenants, keep promises and to fulfill oaths after confirming them.
+
+**Classical tafsir:** Ibn Kathir notes: And fulfill the covenants (taken in the Name of) Allah when you have taken them, and do not break the oaths after you have confirmed them - and indeed you have appointed Allah as your guarantor.
+
+**From the Sunnah:** There is also no conflict between this Ayah (16:91) and the Hadith reported in the Two Sahihs according to which the Prophet ﷺ said: In the Two Sahihs it was reported that Anas said: "The Messenger of Allah ﷺ swore the treaty of allegiance between the Muhajirin (emigrants) and the Ansar (helpers) in our house." This means that he established brotherhood between them, and they used to inheri…
 ## Personal Reflections
 
 

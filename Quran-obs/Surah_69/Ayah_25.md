@@ -100,6 +100,15 @@ Ad-Dahhak said, "Meaning a death which is not followed by any life." Likewise sa
 
 هَاؤُمُ اقْرَ‌ءُوا كِتَابِيَهْ (Come here, read my book… 69:19). The word ha'umu, literally means, "come" but, idiomatically, it is used in the sense of the plural imperative verb khudhu "take'. In other words, one who is given his record book in his right hand, he will be elated and, looking at the people around him, will say 'Here, take my account book and read it!'
 
+## AI Translation
+
+Those given their record in their left hand will cry bitterly: 'I wish I had not been given my record,
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, one who is given his record book in his right hand, he will be elated and, looking at the people around him, will say 'Here, take my account book and read it!' The Bad Condition of Whoever is given His Record in His Left Hand These Ayat inform about the condition of the wretched people when one of them is given his Record (of deeds) in his left hand when the people are brought befo…
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "It will be the worst food of the people of the Hellfire." Ar-Rabi' and Ad-Dahhak both said, "It (Ghislin) is a tree in Hell." Shabib bin Bishr reported from 'Ikrimah that Ibn 'Abbas said, 'Ghislin will be the blood and fluid that will flow from their flesh." 'Ali bin Abi Talhah report…
 ## Personal Reflections
 
 

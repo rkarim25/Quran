@@ -308,6 +308,17 @@ In his explanation of this verse, Imam an-Nasa` i (رح) has reported from Sayyi
 
 Ibn Abi Hatim (رح) reports from Sayyidna Abu-d-Darda' ؓ . He says, 'when we mentioned this (subject) before the Holy Prophet ﷺ ، he said, " (Age as such is already fixed and determined by Allah), when the fixed term is over, no one is given the least respite. In fact, increase in age means (in the Hadith cited above) that Allah Ta` a1a blesses one with good children who keep praying for him. This person is not there anymore, but he keeps receiving their prayers in his grave (that is, he keeps on receiving the benefits one would have received if one were alive. Thus, in a way, his age has increased" ). (Both narrations appearing above have been reported by Ibn Kathir). In short, Ahadith that say that some deeds cause age to increase mean increase in the barakah or bliss of age.
 
+## AI Translation
+
+Allah created you from dust, then from a drop of fluid, then made you into pairs. No female conceives or delivers without His knowledge. No one's life is lengthened or shortened except as written in a Record—easy for Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** And no aged man is granted a length of life nor is a part cut off from his life, but is in a Book.
+
+**Classical tafsir:** Ibn Kathir notes: Evidence of Life after Death Often Allah refers to the Resurrection by using the analogy of the earth coming back to life after it has died, as in the beginning of Surat Al-Hajj, where He urges His servants to draw the lesson of the former from the latter.
+
+**From the Sunnah:** When the Muslim servants says, 'Glory and praise be to Allah, there is no Allah worthy of worship except Allah, Allah is Most Great and blessed be Allah,' an angel takes these words and puts them under his wing, then he ascends with them to the heaven. (Sahih Muslim) It was also recorded by Al-Bukhari, Muslim and Abu Dawud. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

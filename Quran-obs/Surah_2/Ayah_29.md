@@ -180,6 +180,17 @@ There are still other authentic scholars who have not taken sides in this contro
 
 (6) According to verse 29, the, skies are seven in number. This shows that the opinion of the ancient Greek astronomers and some Muslim philosophers, who used to speak of nine heavens, was no more than a conjecture.
 
+## AI Translation
+
+He is the One who created for you everything on earth, then turned to the heaven and fashioned it into seven heavens. He has knowledge of all things.
+
+## AI Tafsir
+
+**What this ayah teaches:** So, the use of everything is essentially unlawful unless an explicit statement in the Holy Qur'an or the Hadith, or an argument based on them establishes the use of a thing as legitimate.
+
+**Classical tafsir:** Ibn Kathir notes: In recounting the blessings which man has received from Allah, verse 29 refers to Allah having created for man "all that the earth contains." This small phrase comprehends all kinds of benefits which accrue to him from the earth and its produce.
+
+**From the Sunnah:** Sahih Al-Bukhari records that when Ibn 'Abbas was question about this matter, he said that the earth was created before heaven, and the earth was spread out only after the creation of the heaven. (Sahih al-Bukhari) This shows that the opinion of the ancient Greek astronomers and some Muslim philosophers, who used to speak of nine heavens, was no more than a conjecture.
 ## Personal Reflections
 
 

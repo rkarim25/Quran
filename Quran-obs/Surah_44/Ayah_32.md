@@ -182,6 +182,17 @@ Ibn Jarir recorded that Sa'id bin Jubayr said, "A man came to Ibn 'Abbas, may Al
 
 عَلَى الْعَالَمِينَ "with knowledge" means that every work of Allah has wisdom. Thus wisdom underlying Allah's knowledge dictated that they be granted superiority, and they were granted accordingly.
 
+## AI Translation
+
+And indeed, We chose the Israelites knowingly above the others.
+
+## AI Tafsir
+
+**Context:** And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid (of drowning in the sea). (20:77)
+
+**What this ayah teaches:** And the superiority of 'A'ishah, may Allah be pleased with her, over all other women is like the superiority of Tharid over all other dishes.
+
+**Classical tafsir:** Ibn Kathir notes: This refers to the clear signs and definitive evidence with which Allah sent him.
 ## Personal Reflections
 
 

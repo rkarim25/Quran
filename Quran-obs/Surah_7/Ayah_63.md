@@ -115,6 +115,17 @@ It was to point out in this direction that it was said: لِيُنذِرَ‌ك�
 
 When this paternal and well-wishing approach of Sayyidna Nuh (علیہ السلام) in reply to the heart-rending words said by his addressees made no effect on these unfeeling people who turned blind to truth and kept belying it, then, Allah Ta` ala sent down upon them the punishment of Flood
 
+## AI Translation
+
+Do you find it astonishing that a reminder should come to you from your Rabb through one of your own, warning you, so you may beware and perhaps be shown mercy?”
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, it means that a person whose warning can make people have fear could only be the one who is of their kind and is an epitome of human traits like them.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn Wahb said that he was told that Ibn 'Abbas said that eighty men were saved with Nuh in the ship, one of them was Jurhum, who spoke Arabic. In other words, it means that a person whose warning can make people have fear could only be the one who is of their kind and is an epitome of human traits like them.
+
+**From the Sunnah:** Ibn Abi Hatim collected this statement, which was also narrated with a continuous chain of narration from Ibn 'Abbas.
 ## Personal Reflections
 
 

@@ -137,6 +137,15 @@ The word: صرح (sarh) in verse 36: وَقَالَ فِرْ‌عَوْنُ يَ
 
 My respected father, Maulana Muhammad Yasin, a dear disciple of Maulana Muhammad Ya` qub, the first principal of the famous Darul-` Uloom of Deoband in India has reported his learned teacher saying, 'For this lofty palace to collapse, it is not necessary that it be hit by some Divine punishment. The fact is that the height of every building depends on the capability of its foundation to bear weight. No matter how deep the foundation is laid, it cannot go deeper than a certain limit. Now, when levels after levels were added to this building, it was inevitable that, once it exceeded the capability of its foundation to bear additional weight, it must collapse.' This provides another proof of the folly of Pharaoh and Haman. Allah knows best.
 
+## AI Translation
+
+leading up to the heavens and look for the god of Musa—though I am sure he is a liar." Pharaoh's evil deeds were made so appealing to him that he was hindered from the Straight Path. But his plotting was only in vain.
+
+## AI Tafsir
+
+**What this ayah teaches:** Since no one expects any head of the state to go that wild in his imagination, therefore, some commentators have said that this much he too knew that, no matter how high a structure is made for him, he still cannot reach the skies (by that mode of ascent).
+
+**Classical tafsir:** Ibn Kathir notes: Since no one expects any head of the state to go that wild in his imagination, therefore, some commentators have said that this much he too knew that, no matter how high a structure is made for him, he still cannot reach the skies (by that mode of ascent).
 ## Personal Reflections
 
 

@@ -141,6 +141,15 @@ This means that even after all the questions and answers about the cow's descrip
 
 These Verses show how the Israelites were disposed to disobedience, and how this inclination expressed itself in different forms. The Hadith says that if these people had obeyed Allah's commandment without raising so many doubts and asking unnecessary questions, such strict condition would not have been imposed on them, and the sacrifice of any cow whatsoever would have been accepted.
 
+## AI Translation
+
+They said, "Call on your Rabb to make it clear to us, for all cows look alike to us — then, if Allah wills, we will be guided."
+
+## AI Tafsir
+
+**What this ayah teaches:** This part of the Qur'an criticized the Jews for their behavior, because their only goal was to be stubborn, and this is why they nearly did not slaughter the cow. Furthermore, Wahb bin Munabbih said, "If you look at the cow's skin, you will think that the sun's rays radiate through its skin." The modern version of the Tawrah mentions that the cow in the Ayah was red, but this is an error.
+
+**Classical tafsir:** Ibn Kathir notes: This part of the Qur'an criticized the Jews for their behavior, because their only goal was to be stubborn, and this is why they nearly did not slaughter the cow.
 ## Personal Reflections
 
 

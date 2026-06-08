@@ -108,6 +108,17 @@ Allah will inform you of your deeds, whether they were good or evil, and will re
 
 2. The third instruction given to the Holy Prophet ﷺ appears in the third verse (96): "They swear before you so that you may be pleased with them." The order of Allah Ta` ala is that their wish was not to be granted and he was not to be pleased with them. However, it was also said that, ` even if you were to be pleased with them, it was not going to work for them in any manner, because Allah is not pleased with them. And how could Allah be pleased with them when they are still adamant about their denial and hypocrisy?
 
+## AI Translation
+
+They will swear to you in order to please you. And even if you are pleased with them, Allah will never be pleased with the rebellious people.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, they are Rijs (impure), and Hell is their dwelling place – a recompense for that which they used to earn (95)They (the hypocrites) swear to you (Muslims) that you may be pleased with them, but if you are pleased with them, certainly Allah is not pleased with the people who are Fasiqin (rebellious).
+
+**Classical tafsir:** Ibn Kathir notes: Allah said that the hypocrites will swear to the believers in apology, so that the believers turn away from them without admonishing them.
+
+**From the Sunnah:** They (the hypocrites) will present their excuses to you (Muslims), when you return to them.
 ## Personal Reflections
 
 

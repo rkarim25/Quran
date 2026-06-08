@@ -222,6 +222,17 @@ Special Note
 
 From these clarifications of the Qur'an and Hadith, it is established that both the sun and the moon are in motion, moving for a fixed term. This refutes the theory that the sun has no movement at all. The findings of the latest research have also refuted this presumption.
 
+## AI Translation
+
+The sun travels for its fixed term. That is the design of the Almighty, All-Knowing.
+
+## AI Tafsir
+
+**What this ayah teaches:** Its authority is in the daytime, for it is the heavenly body that dominates the day.
+
+**Classical tafsir:** Ibn Kathir notes: Dar'a' refers to the black sheep, i.e., the one whose head is black; the next three nights Zulam; then Hanadis, then Da'adi; then Mihaq, because of the absence of moonlight at the beginning of the month.
+
+**From the Sunnah:** And some respected commentators have taken it to mean a spatial destination or abode as based on the following Hadith reported in the Sahihs of al-Bukhari and Muslim and others from several Sahabah and chains of authority. (Sahih al-Bukhari, Sahih Muslim) Al-Bukhari has reported this narration at several place and, with the exception of Ibn Majah, this narration is present in all Six Books. (Sahih al-Bukhari, Sunan Ibn Majah)
 ## Personal Reflections
 
 

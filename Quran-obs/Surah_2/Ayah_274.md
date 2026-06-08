@@ -232,6 +232,19 @@ Presented in this verse is the great reward and excellence of those who are used
 
 Based on the authority of Ibn ` Asakir, there is a report in Ruh al-Ma` ani which says that Sayyidna Abu Bakr ؓ spent forty thousand dinars in the way of Allah - making it ten thousand during the day, ten thousand during the night, ten thousand openly and ten thousand secretly. Some commentators have said that this very event related to Sayyidna Abu Bakr ؓ was the background of the revelation of this verse. There are other views also regarding the circumstances of its revelation.
 
+## AI Translation
+
+Those who spend their wealth night and day, secretly and openly — their reward is with their Rabb. They will have no fear and will not grieve.
+
+## AI Tafsir
+
+**Context:** Abu 'Abdur-Rahman An-Nasa'i recorded that Ibn 'Abbas said that they, "Disliked giving charity to their polytheist relatives, but were later on allowed to give it to them when they inquired about this matter, and this Aya…
+
+**What this ayah teaches:** The excellence of spending secretly is limited to a situation where there be no pressing need to spend out openly; and where such a need does exist, spending there openly is certainly better.
+
+**Classical tafsir:** Ibn Kathir notes: The one who knows them not, thinks that they are rich because of their modesty.
+
+**From the Sunnah:** this Hadith from Ibn Mas'ud. (Musnad Ahmad) Abu Sa'id said, "I said to myself, 'I have a camel, Al-Yaqutah, and indeed, it is worth more than a small amount.' And I went back without asking the Prophet ﷺ for anything." This is the same wording for this Hadith collected by Abu Dawud and An-Nasa'i.
 ## Personal Reflections
 
 

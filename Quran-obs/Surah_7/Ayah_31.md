@@ -218,6 +218,19 @@ Based on a narration from Sayyidna Abi Hurairah ؓ in Shu'ab al-'Iman, Al-Baihaq
 
 Muhaddithin (experts in the discipline of Hadith) have expressed doubts about the use of some words in these narrations of Hadith. But, all of them agree to the emphasis laid on eating moderately and observing precaution present in countless Ahadith. (Ruh al-Ma'ani)
 
+## AI Translation
+
+O Children of Adam! Dress properly whenever you are at worship. Eat and drink, but do not waste. Surely He does not like the wasteful.
+
+## AI Tafsir
+
+**Context:** "There were people who used to perform Tawaf around the House while naked, and Allah ordered them to take adornment, meaning, wear clean, proper clothes that cover the private parts.
+
+**What this ayah teaches:** Covering the Body Properly is Obligatory : There is No Salah Without it Therefore, the majority of Sahabah and Tabi'in, and the Mujtahid, Imams, have deduced many injunctions from this verse.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Bukhari said that Ibn 'Abbas said, "Eat what you wish and wear what you wish, as long as you avoid two things: extravagance and arrogance." Ibn Jarir said that Muhammad bin 'Abdul-A'la narrated to us that Muhammad bin Thawr narrated to us from Ma'mar from Ibn Tawus from his father who said that I… In addition to that, since the majority of commentators agree that the word, ` masjid' in this verse…
+
+**From the Sunnah:** This Hadith has…
 ## Personal Reflections
 
 

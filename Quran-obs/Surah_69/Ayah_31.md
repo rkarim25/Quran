@@ -70,6 +70,15 @@ Ad-Dahhak said, "Meaning a death which is not followed by any life." Likewise sa
 
 خُذُوهُ فَغُلُّوهُ (Seize him, then put a collar around his neck... 69:30). This instruction will be given to the angels to seize the guilty one and truss him up by putting a collar around his neck - though, however, the wordings of the verse do not mention who will seize and who will truss him up. Narratives indicate that when this order will be issued, everything, like submissive and obedient servants, will rush to apprehend him.
 
+## AI Translation
+
+then burn them in Hell,
+
+## AI Tafsir
+
+**What this ayah teaches:** The Bad Condition of Whoever is given His Record in His Left Hand These Ayat inform about the condition of the wretched people when one of them is given his Record (of deeds) in his left hand when the people are brought before Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "It will be the worst food of the people of the Hellfire." Ar-Rabi' and Ad-Dahhak both said, "It (Ghislin) is a tree in Hell." Shabib bin Bishr reported from 'Ikrimah that Ibn 'Abbas said, 'Ghislin will be the blood and fluid that will flow from their flesh." 'Ali bin Abi Talhah report…
 ## Personal Reflections
 
 

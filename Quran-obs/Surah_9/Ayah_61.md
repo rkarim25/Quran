@@ -154,6 +154,17 @@ The present verses, like the previous ones, chastise hypocrites for their absurd
 
 The first verse (61) mentions the painful comment made by the hypocrites against the Holy Prophet ﷺ . They thought, since he hears and believes everything, they had nothing to worry about. In the event, their conspiracy was exposed, they would simply tell him on oath that they had nothing to do with it. Allah Almighty corrected them by saying that His Messenger preferred silence against baseless hostilities because of his high morals. He did not believe in what they said. He himself knew reality as it was. He simply avoided refuting them on their faces because of his inherent gentleness of nature.
 
+## AI Translation
+
+And there are others who hurt the Prophet by saying, “He listens to anyone.” Say, “He listens to what is best for you. He believes in Allah, has faith in those who have iman, and is a mercy for those who believe among you.” Those who hurt Allah’s Messenger will suffer a painful punishment.
+
+## AI Tafsir
+
+**What this ayah teaches:** And among them are men who annoy the Prophet and say: "He is (lending his) ear (to every news)." Say: "He listens to what is best for you; he believes in Allah; has faith in the believers; and is a mercy to those of you who believe." But those who annoy Allah's Messenger, will have a painful torment .
+
+**Classical tafsir:** Ibn Kathir notes: Allah Almighty corrected them by saying that His Messenger preferred silence against baseless hostilities because of his high morals.
+
+**From the Sunnah:** And among them are men who annoy the Prophet and say: "He is (lending his) ear (to every news)." Say: "He listens to what is best for you; he believes in Allah; has faith in the believers; and is a mercy to those of you who believe." But those who annoy Allah'… Allah says, some hypocrites bother the Messenger of Allah ﷺ by questioning his character, saying,
 ## Personal Reflections
 
 

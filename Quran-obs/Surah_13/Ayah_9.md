@@ -115,6 +115,15 @@ The word: الْكَبِيرُ (al-kabir) means the great and الْمُتَعَ
 
 The perfection of the knowledge of Allah Ta ala was described in عَالِمُ الْغَيْبِ وَالشَّهَادَةِ (the Knower of the hidden and the manifest) appearing in the first sentence (9) as well as in اللَّـهُ يَعْلَمُ مَا تَحْمِلُ كُلُّ أُنثَىٰ (Allah knows what every woman carries) in the verse previous to it (8). Mentioned in the second sentence here: الْكَبِيرُالْمُتَعَالِ (the great, the high) is the power and greatness of Allah for His power and reach is far beyond any human calculation. Also in the verse which follows, the same perfection in knowledge and power has been pointed to in a particular manner. There it has been said:
 
+## AI Translation
+
+He is the Knower of the seen and unseen—the All-Great, Most Exalted.
+
+## AI Tafsir
+
+**What this ayah teaches:** Everything with Him is in (due) proportion (8)All-Knower of the unseen and the seen, the Most Great, the Most High .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -214,6 +214,15 @@ This is the end of the Tafsir of Surat An-Naba'. And all praise and thanks are d
 
 This sentence is probably connected to the preceding verse: جَزَاءً مِّن رَّ‌بِّكَ عَطَاءً حِسَابًا (this being a reward from their Lord, a sufficing grant...78:36) In this case, it would mean that when Allah grants a certain grade of reward, no one dare speak about the grade as to why someone got more and others got less. But if this sentence is treated as an isolated one, it will mean that no one in the Plane of Gathering will have the power to speak to Him without His permission. This permission will be granted in some of the positions of Gathering, and not in others.
 
+## AI Translation
+
+Rabb of the heavens and earth and all between—the Rahman, whose mercy in this life extends over all creation. On that Day no one will dare speak to Him
+
+## AI Tafsir
+
+**What this ayah teaches:** The Lord of the heavens and the earth, and whatsoever is in between them, the ar-Rahman, with Whom they cannot dare to speak.)(38.
+
+**Classical tafsir:** Ibn Kathir notes: He explains that He is the ar-Rahman, Whose mercy covers all things.
 ## Personal Reflections
 
 

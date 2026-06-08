@@ -118,6 +118,17 @@ It was said in verse 17 وَاذْكُرْ‌ عَبْدَنَا دَاوُود�
 
 This method of ` ibadah has been called most likeable for the initial reason that it is harder. A lifetime of fasting would make one used to it with the result that, after a passage of time, it does not remain that hard. But fasting by skipping a day in between is different. Here, the element of hardship continues. Then, there is another aspect of this method of fasting in that one who fasts in that manner becomes capable of combining his or her ` ibadah with the necessary fulfillment of the rights of one's self, family and circle of acquaintances.
 
+## AI Translation
+
+Be patient with what they say, O Prophet. Remember Our servant Dawud, a man of strength who constantly turned back to Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** Mujahid and As-Suddi said, "It means passing the right judgement and understanding the case." Mujahid also said, "It is soundness in speech and in judgement, and this includes all of the above." This is what is meant, and this is the view favored by Ibn Jarir.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, may Allah be pleased with him, As-Suddi and Ibn Zayd said, "Al-Ayd means strength." Mujahid said, "Al-Ayd means strength in obedience to Allah." Qatadah said, "Dawud, peace be upon him, was given strength in worship and the proper understanding of Islam." He told us that he, peace be upo… Mujahid and As-Suddi said, "It means passing the right judgement and understanding the case." Mujahi…
+
+**From the Sunnah:** This was reported in the Two Sahihs, where it is recorded that the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

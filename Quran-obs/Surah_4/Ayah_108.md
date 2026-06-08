@@ -150,6 +150,17 @@ The two men cried and each one of them said, 'I forfeit my right to my brother.'
 
 The fourth verse (108) describes the condition of people who betray trust and act treacherously. It is strange that these people feel shy before other people like them and conceal their theft from them while they do not feel shy before Allah who is with them all the time and watches over everything they do, specially the occasion when they mutually conspired to put the blame on the Jew, went to the Holy Prophet ﷺ complained against Rifa` ah and Qatadah ؓ ، charged them of false accusation and appealed to the Holy Prophet for support against the Jew.
 
+## AI Translation
+
+They try to hide from people, but they can never hide it from Allah—in Whose presence they plot by night what is displeasing to Him. And Allah is Fully Aware of what they do.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, Allah does not like anyone who is a betrayer, sinner (107)They may hide (their crimes) from men, but they cannot hide (them) from Allah; for He is with them (by His knowledge), when they plot by night in words that He does not approve.
+
+**Classical tafsir:** Ibn Kathir notes: Some of you might be more eloquent in presenting his case than others, so that I judge in his favor.
+
+**From the Sunnah:** Umm Salamah said that the Messenger of Allah ﷺ heard the noise of disputing people close to the door of his room, and he went out to them saying, If I judge in one's favor concerning the right of another Muslim, then it is a piece of the Fire. (Sahih Muslim)
 ## Personal Reflections
 
 

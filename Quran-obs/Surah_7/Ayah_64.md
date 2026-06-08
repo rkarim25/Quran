@@ -118,6 +118,17 @@ Some narrations have given the detail that there were forty men and forty women 
 
 To sum up, the introduction of a brief account of Sayyidna Nuh (علیہ السلام) at this place aims to tell us three things: (1) That the da'wah of all past prophets and their basic articles of faith were one. (2) That Allah Ta` ala supports his appointed messengers in strikingly wondrous ways when they would not have the least danger to their security even after having been surrounded by a Flood rising as high as the peaks of mountains. (3) Then, it was made absolutely clear that belying the noble prophets of Allah, may peace be upon them, amounted to inviting Divine punishment. The warning is still valid. So, let it not be forgotten that the way past communities were overtaken by punishment because of their belying of the prophets, a similar fate could overtake their modern counterparts - on this count, they could do better by not becoming heedless and fear-free.
 
+## AI Translation
+
+But they rejected him, so We saved him and those with him in the Ark, and drowned those who rejected Our signs. They were certainly a blind people.
+
+## AI Tafsir
+
+**What this ayah teaches:** Here, Allah said that He has taken revenge from His enemies and saved His Messenger ﷺ and those who believed in him, while destroying their disbelieving enemies. For example, Allah destroyed the people of Nuh, and saved Nuh and his believing followers.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn Wahb said that he was told that Ibn 'Abbas said that eighty men were saved with Nuh in the ship, one of them was Jurhum, who spoke Arabic.
+
+**From the Sunnah:** Ibn Abi Hatim collected this statement, which was also narrated with a continuous chain of narration from Ibn 'Abbas.
 ## Personal Reflections
 
 

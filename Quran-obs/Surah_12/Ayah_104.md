@@ -114,6 +114,15 @@ Allah narrated to Muhammad, peace be upon him, the story of Yusuf and his brothe
 
 After that it was said: وَمَا تَسْأَلُهُمْ عَلَيْهِ مِنْ أَجْرٍ‌ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ‌ لِّلْعَالَمِين ، that is, ` your mission is to tell them the truth and call 'them to the straight path. For this you do not ask them to give you something in return - which could have caused them to find it difficult to listen to him or follow him. In fact, what you are telling them is for their own good. It is only an advice to heed to and a lesson to learn from. And it is for everyone. The text here also carries a hint to the effect: When the purpose behind your effort is no worldly gain, in fact it is nothing but the reward of the Hereafter and the betterment of your people, then, that purpose of yours already stands achieved. Why would you then grieve over it?
 
+## AI Translation
+
+even though you are not asking them for a reward for this Quran. It is only a reminder to the whole world.
+
+## AI Tafsir
+
+**What this ayah teaches:** You were not (present) with them when they arranged their plan together, and (while) they were plotting (102)And most of mankind will not believe even if you desire it eagerly (103)And no reward you ask of them for it; it (the Qur'an) is no less than a Reminder unto the 'Alamin (men and Jinn).
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

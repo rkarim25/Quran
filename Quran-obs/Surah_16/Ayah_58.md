@@ -128,6 +128,15 @@ Commentary
 
 In these verses, two peculiar traits of the disbelievers of Arabia have been censured. To begin with, they would take the birth of a baby girl to be so bad that they would go about hiding from people to avoid being disgraced before them. This predicament would then throw them into a fix as to what they should do about it. Should they swallow their pride, em-brace the disgrace of becoming the father of a baby girl and resign to the disaster with patience, or just ditch it alive into the dust and get rid of it? Then, on top of it, they had turned so irrational that the child they did not like to have as their own, that they would be audacious enough to attribute to Allah Almighty by declaring that the angels were His daughters!
 
+## AI Translation
+
+Whenever one of them is given the good news of a baby girl, his face grows gloomy, as he suppresses his rage.
+
+## AI Tafsir
+
+**What this ayah teaches:** And for themselves (they assign) what they desire (57)And when the news of (the birth of) a female (child) is brought to any of them, his face becomes dark, and he is filled with inner grief (58)He hides himself from the people because of the evil of what he has been informed.
+
+**Classical tafsir:** Ibn Kathir notes: And for themselves (they assign) what they desire (57)And when the news of (the birth of) a female (child) is brought to any of them, his face becomes dark, and he is filled with inner grief (58)He hides himself from the people because of the evil of what he has been informed.
 ## Personal Reflections
 
 

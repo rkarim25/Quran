@@ -165,6 +165,15 @@ In a Hadith, the Holy Prophet ﷺ has been reported to have said: What would hap
 
 The difference of fifty thousand and ten thousand in this narration also appears in two verses of the Holy Qur'an as well. In Surah Al-Ma` arij, it is said: كَانَ مِقْدَارُ‌هُ خَمْسِينَ أَلْفَ سَنَةٍ [ A Day ] the measure whereof is [ as ] fifty thousand years 70:4.' In Surah Al-Hajj, it is said: وَإِنَّ يَوْمًا عِندَ رَ‌بِّكَ كَأَلْفِ سَنَةٍ :A Day in the sight of thy Lord is like a thousand years of your reckoning - 22:47.' The reason for this difference is that this day will be long in terms of the severity of pain and the levels of pain will be different. Therefore, this day will seem to be that of fifty thousand years for some and that of one thousand years for others.
 
+## AI Translation
+
+The Day We will gather them all together then ask those who associated others, “Where are those gods you used to claim?”
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, this day will seem to be that of fifty thousand years for some and that of one thousand years for others.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, this day will seem to be that of fifty thousand years for some and that of one thousand years for others.
 ## Personal Reflections
 
 

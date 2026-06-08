@@ -169,6 +169,17 @@ To make your objectives succeed, seek help from keeping them secret - because, e
 
 6. From this verse and from the later in which the plan and execution of killing or throwing Sayyidna Yusuf (علیہ السلام) in a well has been mentioned, it becomes evident that the brothers of Sayyidna Yusuf (علیہ السلام) were no prophets or messengers of Allah, otherwise, they would have not stooped to the act of conspiring to kill him, then to put him out of their way by lowering him down in a desolate well, and ultimately, to disobey their father - because, the blessed prophets ﷺ have to be free of all sins, and protected from them. Their reference as ` prophets' in the book of al-Tabari is not correct. (Qurtubi)
 
+## AI Translation
+
+He replied, “O my dear son! Do not relate your vision to your brothers, or they will devise a plot against you. Surely Satan is a sworn enemy to humankind.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, Satan is an open enemy for mankind ...' [ for He seduces people to take such action for the sake of worldly wealth and power ].
+
+**Classical tafsir:** Ibn Kathir notes: As for the sense of the interpretation of a dream remaining hinged to it, Tafsir Mazhari explains it by saying that some matters of destiny are not absolutely pre-decided, instead, they remain in a state of suspension, that is, if something was done, the impending misfortune will…
+
+**From the Sunnah:** The dreams of common believing Muslims are not free of many a probability. This is against definite, categorical and absolute statements of the Holy Qur'an and against countless sound and authentic Ahadith, and squarely against the collective belief of the entire Muslim Ummah in the finality of prophethood (the ` Aqidah of Khatm Nubu… (Sahih Muslim)
 ## Personal Reflections
 
 

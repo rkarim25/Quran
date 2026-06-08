@@ -160,6 +160,19 @@ He is beyond all our discussions and debates.
 
 Whatever example I cite to explain Him is no more than a sheer failure.
 
+## AI Translation
+
+He is the First and the Last, the Most High and the Most Near. He has perfect knowledge of everything.
+
+## AI Tafsir
+
+**Context:** (So if you are in doubt concerning that which We have revealed to you, then ask those who are reading the Book before you. Verily, the truth has come to you from your Lord.)(10:94)'
+
+**What this ayah teaches:** It is He Who gives life and causes death; and He is Able to do all things.)(3.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore the verse means that all existent creatures will either actually perish on the Day of Judgment, or they may not actually perish, but potentially they could perish.
+
+**From the Sunnah:** the Messenger of Allah ﷺ used to recite Al-Musabbihat before he went to sleep, saying, (Musnad Ahmad) There are about ten and some odd number of different sayings collected from the scholars of Tafsir regarding the explanation of this Ayah. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

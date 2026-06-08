@@ -335,6 +335,19 @@ The verse 155 describes an unusual event. After the Prophet Musa (علیہ ال�
 
 The word used in Surah Al-Baqarah while describing this event is (صَاعِقَہ) which signifies thunder, while in this verse the word (رجفۃ) has been used which denotes earthquake. The two words can be reconciled by assuming that they were punished by both the thunder and the earthquake. In short, they looked like dead, or perhaps they were really dead. The Prophet Musa (علیہ السلام) was extremely aggrieved by this incident. Firstly, because they were all prominent personalities of the Israelites, secondly, he did not know how he would face his people on his return. They would blame him with the murder of all these people, and would even kill him. The Prophet Musa (علیہ السلام) said to Allah, '0, my Lord, I know that it is not your will to kill them, as they could be killed at earlier occasions more suited to their destruction. They could be drowned with Pharaoh, or killed at the time of calf-worship, but you did not do so. I am sure that You do not want them dead, but You aim at giving them warning in this way. Besides, You cannot kill all of us for the bad deeds done by some foolish people.' He also said, "0 my Lord, I know this is just a trial from You. You let some people go astray with Your test and give guidance to some others who perceive the wisdom and lesson inherent in them. I am also among those who know that You are The Wise and All-Knowing. You are the Most Merciful of all and the Most-forgiving. 0 my Lord, forgive the insolence shown by these people." As a result of his prayer, all the seventy men were raised to life.
 
+## AI Translation
+
+Moses chose seventy men from among his people for Our appointment and, when they were seized by an earthquake, he cried, “My Rabb! Had You willed, You could have destroyed them long ago, and me as well. Will You destroy us for what the foolish among us have done? This is only a test from You—by which You allow whoever you will to stray and guide whoever You will. You are our Guardian. So forgive us and have mercy on us. You are the best forgiver.
+
+## AI Tafsir
+
+**Context:** (and give the Zakah), purify themselves, according to one opinion. It was also said that, 'the Zakah', here pertains to wealth.
+
+**What this ayah teaches:** Seventy people and their death The verse 155 describes an unusual event. Firstly, because they were all prominent personalities of the Israelites, secondly, he did not know how he would face his people on his return.
+
+**Classical tafsir:** Ibn Kathir notes: Seventy people and their death The verse 155 describes an unusual event.
+
+**From the Sunnah:** When the Messenger of Allah ﷺ finished the prayer, that man untied his camel mounted it and supplicated aloud, 'O Allah! (Musnad Ahmad) He left with Him ninety-nine mercies, so do you say that this man is more misguided or his camel?) Ahmad and Abu Dawud collected this Hadith. (Sunan Abi Dawud)
 ## Personal Reflections
 
 

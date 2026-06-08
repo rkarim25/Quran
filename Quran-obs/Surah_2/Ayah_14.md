@@ -218,6 +218,17 @@ Removal of a doubt
 
 We may also dispel a misunderstanding which often arises - and is more often made to arise with an ulterior motive - with regard to the famous dictum in the Hadith and Fiqh (Islamic Jurisprudence) that the 'people of the Ka'bah' کعبہ (Ahl al-Qiblah), that is, those who turn towards the Ka'bah کعبہ in offering prescribed Salah نماز cannot be branded as infidels. The verse under discussion clearly defines the meaning of the phrase, Ahl al-Qiblah. The term pertains only to those who do not deny any of the basic essential doctrines and commandments of Islam which are called the Daruriat ضروریات (essentials). For that matter even the hypocrites mentioned in the Holy Qur'an used to offer their prayers exactly as the Muslims did; but turning towards Ka'bah کعبہ while praying was not taken to be sufficient to make them acceptable as true Muslims, simply because they did not have faith in all the essentials of Islam as the blessed Companions did.
 
+## AI Translation
+
+When they meet believers they say, "We believe." But alone with their evil allies they say, "We are with you — we were only mocking."
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, Allah exacts revenge for certain evil acts with a punishment that is similar in nature to the act itself.
+
+**Classical tafsir:** Ibn Kathir notes: The Hypocrites' Cunning and Deceit Allah said that when the hypocrites meet the believers, they proclaim their faith and pretend to be believers, loyalists and friends.
+
+**From the Sunnah:** As-Suddi reported that Ibn 'Abbas, Ibn Mas'ud and several other Companions of the Messenger of Allah ﷺ said that, These verses expose their claim to be Muslims as false and deceitful, and show that they are only trying to be clever.
 ## Personal Reflections
 
 

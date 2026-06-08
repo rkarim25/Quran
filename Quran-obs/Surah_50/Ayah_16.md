@@ -227,6 +227,17 @@ The Lord of the people has a special contact with the people which is beyond one
 
 This nearness and proximity cannot be perceived by the ordinary sensation of physical sight, but it is attained through farasah of 'iman [ perspicacity through faith ]. Tafsir Mazhari interprets qurb and ittisal in this verse in the same sense. We have learnt earlier the interpretation of the majority of the commentators that it is not physical proximity, but rather the all-encompassing, full and complete knowledge of Allah. Apart from these two interpretations, Ibn-Kathir interprets it in a third way. He says that the pronoun "We" does not refer to the "Being" of Allah, but to His angels who are all the time with man. They know man's soul so closely that man himself is not so well aware of it. Allah knows best!
 
+## AI Translation
+
+We created humanity and know what their souls whisper to them. We are closer to them than their jugular vein.
+
+## AI Tafsir
+
+**What this ayah teaches:** The verse explains the reason for that: Allah is nearer to him than his jugular vein, on which is dependent his very life.
+
+**Classical tafsir:** Ibn Kathir notes: Pay my debt!' The fox went out howling and continued until his neck was cutoff, (i.e.,) he died.) This parable indicates that just as the fox had no way of escaping or avoiding the earth, likewise, man has no way of avoiding death.
+
+**From the Sunnah:** Those who explained 'We' in the Ayah to mean 'Our knowledge,' have done so to avoid falling into the idea of incarnation or indwelling; but these two creeds are false according to the consensus of Muslims. Alqamah used to say, "How many words did I not utter because of the Hadith that Bilal bin Al-Harith narrated." At-Tirmidhi, An-Nasa'i and Ibn Majah collected this Hadith. (Jami' at-Tirmidhi, Sunan Ibn Majah)
 ## Personal Reflections
 
 

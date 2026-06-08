@@ -224,6 +224,19 @@ If the actual number of disbelievers which was three times more than their own w
 
 To sum up, it can be safely said that making a small group of people with very little to fight against a much stronger group and score a victory, as prophesied in Makkah, is an unusual event full of lessons for the observant and the discerning.
 
+## AI Translation
+
+Indeed, there was a sign for you in the two armies that met in battle—one fighting for the cause of Allah and the other in denial. those who have iman saw their enemy twice their number. But Allah supports with His victory whoever He wills. Surely in this is a lesson for people of insight.
+
+## AI Tafsir
+
+**Context:** This verse refers to the Battle of Badr in which the those who reject the truth had about 1000 men, 700 camels and 100 horses, while the Muslim mujahidin were just over 300, having a total of 70 camels, 2 horses, 6 armours and 8 sword…
+
+**What this ayah teaches:** To sum up, it can be safely said that making a small group of people with very little to fight against a much stronger group and score a victory, as prophesied in Makkah, is an unusual event full of lessons for the observant and the discerning.
+
+**Classical tafsir:** Ibn Kathir notes: When the two camps saw each other, the Muslims thought that the idolators were twice as many as they were, so that they would trust in Allah and seek His help.
+
+**From the Sunnah:** when the Messenger of Allah ﷺ gained victory in the battle of Badr and went back to Al-Madinah, he gathered the Jews in the marketplace of Bani Qaynuqa'.
 ## Personal Reflections
 
 

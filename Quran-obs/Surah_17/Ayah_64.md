@@ -172,6 +172,17 @@ When Iblis asked for respite, Allah said to him:
 
 As for the sense of: وَشَارِ‌كْهُمْ فِي الْأَمْوَالِ وَالْأَوْلَادِ (and share with them in their wealth and their children - 64), Sayyidna ` Abdullah ibn ` Abbas ؓ said: Wealth and property acquired by false, impermissible and unlawful means or spent on what is haram is the sharing of the Shaitan in it. As for the sharing of the Shaitan in children, it could either be through illegitimacy, or by naming them like disbelievers and polytheists, or by indulging in polytheistic customs to ensure their security, or by taking to Haram sources of income to bring them up. (Qurtubi)
 
+## AI Translation
+
+And incite whoever you can of them with your voice, mobilize against them all your cavalry and infantry, manipulate them in their wealth and children, and make them promises.” But Satan promises them nothing but delusion.
+
+## AI Tafsir
+
+**What this ayah teaches:** From this root is also derived the word Jalabah, which means raising voices.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "With idle entertainment and singing," meaning, influence them with that. From this root is also derived the word Jalabah, which means raising voices.
+
+**From the Sunnah:** It was reported in Sahih Muslim from 'Iyad bin Himar that the Messenger of Allah ﷺ said: (Sahih Muslim)
 ## Personal Reflections
 
 

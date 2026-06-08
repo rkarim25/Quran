@@ -276,6 +276,19 @@ It has been clarified in this verse that a صدقہ sadaqah given to a non-Musli
 
 Let us be clear at this point that sadaqah صدقہ referred to here is nafl نفل supererogatory or voluntary charity) which can be given to a dhimmi (a non-Muslim citizen of a Muslim state) as well. The obligatory زکاۃ Zakah is not meant here since it is not permissible to give that to anyone except a Muslim (Mazhari). It is not permissible to give any kind of sadaqah صدقہ to a harbi (a non-Muslim citizen of a non-Muslim state) and, however, it is permissible to give the dhimmis ذمیوں all other types of sadaqat, obligatory or supererogatory. زکاۃ Zakah is not included in the verse.
 
+## AI Translation
+
+You are not responsible for guiding people, O Prophet — Allah guides whomever He wills. Whatever you spend seeking Allah's pleasure will be repaid in full, and you will not be wronged.
+
+## AI Tafsir
+
+**Context:** Abu 'Abdur-Rahman An-Nasa'i recorded that Ibn 'Abbas said that they, "Disliked giving charity to their polytheist relatives, but were later on allowed to give it to them when they inquired about this matter, and this Aya…
+
+**What this ayah teaches:** And whatever you spend in good, it is for yourselves, when you spend not except seeking Allah's Face.
+
+**Classical tafsir:** Ibn Kathir notes: The one who knows them not, thinks that they are rich because of their modesty.
+
+**From the Sunnah:** this Hadith from Ibn Mas'ud. (Musnad Ahmad) Abu Sa'id said, "I said to myself, 'I have a camel, Al-Yaqutah, and indeed, it is worth more than a small amount.' And I went back without asking the Prophet ﷺ for anything." This is the same wording for this Hadith collected by Abu Dawud and An-Nasa'i. (Sunan Abi Dawud, Sunan an-Nasa'i)
 ## Personal Reflections
 
 

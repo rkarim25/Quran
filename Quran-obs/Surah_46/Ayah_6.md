@@ -142,6 +142,17 @@ The original word used in the text is 'atharah' which is an infinitive in the se
 
 The explanation given above is taken from the Tafsir of Qurtubi, and this is the explanation accepted by most exegetes. There are some other views in the interpretation of this verse, but they are neither well-established, nor in full harmony with the textual structure. Therefore, they are not adopted by the majority of the exegetes. (Allah knows best)
 
+## AI Translation
+
+When all people are gathered, those false gods will become their enemies and will deny the worship they once received.
+
+## AI Tafsir
+
+**Context:** (But those who disbelieve, turn away from that of which they are warned.) Meaning, the those who reject the truth are distracted from what is intended for them. Allah has indeed revealed to them a Book and sent to them a Messenger.
+
+**What this ayah teaches:** And when mankind are gathered, they (false deities) will become their enemies and will deny their worship.) The Qur'an is a Revelation from Allah and the Universe is His True Creation Allah informs that He has revealed the Book to His servant and Messenger Muhammad – may Allah's blessings be upon him until the Day of Judgement.
+
+**Classical tafsir:** Ibn Kathir notes: And who is more astray than those who invoke besides Allah others who will not answer them until the Day of Resurrection, and who are unaware of their invocations to them?)(6.
 ## Personal Reflections
 
 

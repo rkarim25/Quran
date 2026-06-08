@@ -290,6 +290,19 @@ Allah has equipped man with the higher order of intelligence and sense. The enti
 
 Obviously, science and technology does not create anything, but it merely shows the way to use the created things. The initial knowledge about their use is taught by Allah, but there is a wide scope to make progress in it by the capabilities Allah has bestowed to man, the manifestation of which we are witnessing in this scientific age day by day, and what further range of these abilities and talents will manifest in future is unknown. All this is the interpretation of hada '[ He ] guided (it), [ 3] In other words, Allah has placed in them potentials and capabilities to perform their natural functions. But alas! the scientists are getting more and more negligent, rather blind to these realities day by day.
 
+## AI Translation
+
+Who measured precisely and guided accordingly,
+
+## AI Tafsir
+
+**Context:** This Surah was revealed in Makkah before the migration to Al-Madinah. The proof of this is what Al-Bukhari recorded from Al-Bara' bin 'Azib, that he said, "The first people to come to us (in Al-Madinah) from the Companio…
+
+**What this ayah teaches:** The third attribute is qaddara which is derived from taqdir and it means 'to determine; to measure; to balance; to design symmetrically; to decree/decide'.
+
+**Classical tafsir:** Ibn Kathir notes: This word is derived from taswiyah, and it literally means 'to make well or equal'.
+
+**From the Sunnah:** Then 'Umar bin Al-Khattab came with a group of twenty people, after which the Prophet ﷺ came. (Sahih al-Bukhari) It has been confirmed in the Two Sahihs that the Messenger of Allah ﷺ said to Mu'adh,
 ## Personal Reflections
 
 

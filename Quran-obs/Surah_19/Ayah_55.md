@@ -136,6 +136,17 @@ A special attribute of Sayyidna Ismail (علیہ السلام) is that he used t
 
 Then why has a special mention been made of Sayyidna Ismail (علیہ السلام) in this matter? The fact is, that although this injunction applies to all Muslims, Sayyidna Ismail (علیہ السلام) used to make special efforts in following this directive. Likewise, the Holy Prophet ﷺ also received special directive to warn his family members and close relations against Allah's wrath وَأَنذِرْ‌ عَشِيرَ‌تَكَ الْأَقْرَ‌بِينَ (and warn the nearest people of your clan - 26:214). As a consequence he assembled them all and conveyed to them Allah's command. The other point to consider here is that prophets are sent by Allah for the guidance of entire people. They convey Allah's message to everyone and bind them to obey His command. Then what is the point in making special mention of the members of family? The thing is that there are certain principles which the prophets observe when calling upon people to follow the path of righteousness, and one of them is to give the call first to one's own family members before calling upon the general public. It is a lot easier to prevail upon one's own family members and to monitor their actions. Once the family members have accepted a certain way of life and have started acting on it routinely then it becomes much easier to spread the same message among others at large. When people see for themselves others following a righteous path it becomes much easier to convert them. The most effective means for bringing about an improvement in the character of the people is by creating a religious environment. Experience shows that virtue and vice both proliferate faster and wider in a receptive environment than through teaching and preaching.
 
+## AI Translation
+
+He used to urge his people to establish salah and give zakat. His Rabb was well pleased with him.
+
+## AI Tafsir
+
+**What this ayah teaches:** The most effective means for bringing about an improvement in the character of the people is by creating a religious environment.
+
+**Classical tafsir:** Ibn Kathir notes: He (Isma'il) is the father of all of the Arabs of the Hijaz because he was true to what he promised.
+
+**From the Sunnah:** Likewise, the Messenger of Allah ﷺ was true to his promise. Then, he commanded him to do so again, until he collected five hundred Dirhams.
 ## Personal Reflections
 
 

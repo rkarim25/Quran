@@ -106,6 +106,15 @@ They say, "Do not disclose the knowledge that you have to the Muslims, to preven
 
 The words in أَنتُمْ تَشْهَدُونَ (you are yourselves a witness - 70) and in أَنتُمْ تَعْلَمُونَ (you know ( 71) should not be taken to mean that disbelief will become permissible for them if they do not attest to the truth or have no knowledge about it. This is because kufr (disbelief) is intrinsically an abominable thing to practice. This is prohibited under all conditions. However, the mention of kufr (disbelief) after knowledge and attestation is to increase the impact of reproachment.
 
+## AI Translation
+
+O People of the Book! Why do you reject the signs of Allah while you bear witness ?
+
+## AI Tafsir
+
+**Context:** A party of the People of the Scripture wish to lead you astray. But they shall not lead astray anyone except themselves, and they perceive not (69)"O People of the Scripture!
+
+**What this ayah teaches:** However, when the day ended, they would revert to their old religion so that the ignorant people would say, "They reverted to their old religion because they uncovered some shortcomings in the Islamic religion." This is why they said next.
 ## Personal Reflections
 
 

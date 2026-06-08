@@ -269,6 +269,17 @@ Sayyidna ` Umar ibn ` Abd al-` Aziz, may Allah be pleased with him, gave the fol
 
 And Sayyidna al-Murtada ؓ said: 'Even the smallest deed done with Taqwa is not small. And how a deed which has been accepted can be called small? (Ibn Kathir)
 
+## AI Translation
+
+I want to let you bear your sin against me along with your other sins, then you will be one of those destined to the Fire. And that is the reward of the wrongdoers.”
+
+## AI Tafsir
+
+**Context:** In addition to what has been said above, through this very word, the addressees of the Holy Qur'an are also being chastened and guided to the fact that their noble prophet, on him be the peace and blessing of Allah, who…
+
+**What this ayah teaches:** What does 'kill' mean?' He said, 'He will no longer eat, drink or move.' She said, 'And that is death?' He said, 'Yes it is.' So she started to weep until Adam came to her while she was weeping and said, 'What is the matter with you?' She did not answer him.
+
+**Classical tafsir:** Ibn Kathir notes: Am I not even able to be as this crow and to hide the dead body of my brother?" Then he became one of those who regretted.) As-Suddi said that the Companions said, "When his brother died, Qabil left him on the bare ground and did not know how to bury him.
 ## Personal Reflections
 
 

@@ -117,6 +117,15 @@ After that, the king wished to hear him give the interpretation of his dream dir
 
 The king was astonished. Though, it was not so much about the interpretation given. What made him really wonder was how could he find out all those details. After that, the king sought his counsel on what should he do next. The advice given by Sayyidna Yusuf (علیہ السلام) was: During the first seven years of expected heavy rains, you should have arrangements made so that cultivation and crops yield their highest. This could be done by giving incentives to people to make sure that their maximum land areas come under cultivation and crops turn out plentiful and let them keep storing one fifth of their total produce with them. Thus, the people of Egypt would have stored with them enough for the seven years of famine and you would not have to worry on their account. Keep whatever supply of grains comes to the government through fixed taxes or state lands stored for those coming from outside the country - because, this famine will be wide-spread. People living in adjoining countries would need your help. At that time, you may come to the help of many a deprived people around you by giving it to them. Even if you were to put an ordinary price on it, you can be sure of collecting in the government treasury the amount of wealth that had never been there. The king was immensely pleased with this advice, but did wonder how would such a stupendous plan be managed, and who would do that.
 
+## AI Translation
+
+The King said, “Bring him to me. I will employ him exclusively in my service.” And when Joseph spoke to him, the King said, “Today you are highly esteemed and fully trusted by us.”
+
+## AI Tafsir
+
+**What this ayah teaches:** He wanted to be the guard, so that he could dispense the harvest in the wisest, best and most beneficial way. Keep whatever supply of grains comes to the government through fixed taxes or state lands stored for those coming from outside the country - because, this famine will be wide-spread.
+
+**Classical tafsir:** Ibn Kathir notes: He wanted to be the guard, so that he could dispense the harvest in the wisest, best and most beneficial way.
 ## Personal Reflections
 
 

@@ -137,6 +137,17 @@ Sayyidna Abdullah Ibn Mas’ ud ؓ has said that four Surah viz Al-Kahf, Maryam,
 
 اقْتَرَ‌بَ لِلنَّاسِ حِسَابُهُمْ (The reckoning of the people has drawn near - 21:1) It means that the time is near when people will have to give an account of their deeds. Here, the reference is to the Day of Judgment, and its approach is in relation to bygone ages, as the ummah of Sayyidna Muhammad Al-Mustafa ﷺ is the last of them all. And if the meaning of the word حِسَاب reckoning) is taken in its general sense then reckoning in the grave is also included, which each individual faces immediately after death. It is for this reason that an individual's death is regarded as his Day of Reckoning. مَن مَات فقد قامت قیامتہ for a person who has died his Day of Reckoning has arrived) so the latter explanation makes the verse very clear in that the individual reckoning for everyone is not very far, no matter how long one lives, because death is certain and no one knows when it will befall. The underlying message of this verse is to warn those people, whether believers or non-believers, who are in a state of slumber due to indulgence in worldly affairs, unmindful of the certainty that all this will come to an end one day. In fact it is this disregard of the Day of Judgment which is the root cause of all ills.
 
+## AI Translation
+
+The people's reckoning draws near, yet they turn away heedlessly.
+
+## AI Tafsir
+
+**What this ayah teaches:** Here, the reference is to the Day of Judgment, and its approach is in relation to bygone ages, as the ummah of Sayyidna Muhammad Al-Mustafa ﷺ is the last of them all.
+
+**Classical tafsir:** Ibn Kathir notes: They did not believe that he could be a Prophet because he was a human being like them, so how could he have been singled out to receive revelation, and not them?
+
+**From the Sunnah:** 'Abdullah said, "Banu Isra'il, Al-Kahf, Maryam, Ta Ha and Al-Anbiya' - they are among the earliest and most beautiful Surahs and they are my treasure." (Sahih al-Bukhari) that Abu Sa'id reported from the Prophet ﷺ: (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

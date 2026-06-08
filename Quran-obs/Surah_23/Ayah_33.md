@@ -168,6 +168,15 @@ In the earlier verses the story of Sayyidna Nuh (علیہ السلام) was told
 
 An alternative explanation is that the word صَیحَہ (Cry) has been used in the general sense of punishment from Allah in which case it would include the tribe of ` Ad also.
 
+## AI Translation
+
+But the chiefs of his people—who rejected the truth, denied the meeting with Allah in the Akhirah — the everlasting life after death, and were spoiled by the worldly luxuries We had provided for them—said to the masses, “This is only a human like you. He eats what you eat, and drinks what you drink.
+
+## AI Tafsir
+
+**What this ayah teaches:** It was said that this was 'Ad, because they were the successors of the people of Nuh.
+
+**Classical tafsir:** Ibn Kathir notes: It was said that this was 'Ad, because they were the successors of the people of Nuh.
 ## Personal Reflections
 
 

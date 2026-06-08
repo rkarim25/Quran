@@ -120,6 +120,19 @@ The subject in verse 88: قُل لَّئِنِ اجْتَمَعَتِ الْإِ
 
 The repetition of this subject at this place may possibly be to show the futility of what the deniers of the message were trying to do. Here they were trying to test the veracity of the mission of a prophet of Allah by asking all sorts of questions, the one about the Ruh being one of them. Being an exercise in futility, why would they go about digging into unnecessary issues only to determine whether or not the prophet sent to them was true? Why they would not look into the Qur’ an as it is? It leaves no room for doubt in the veracity of the Holy Prophet ﷺ as Prophet and Messenger of Allah ﷺ . The reason is simple. When the humans and jinns of the whole world are incapable of producing the least like of it, what doubt could there be in that it is but the Divine Word. And once it is proved so manifestly that the Holy Qur'an is Divine Word, hardly any doubt remains in that the Holy Prophet ﷺ was a true prophet and messenger of Allah ﷺ .
 
+## AI Translation
+
+Say, O Prophet, “If all humans and jinn were to come together to produce the equivalent of this Quran, they could not produce its equal, no matter how they supported each other.”
+
+## AI Tafsir
+
+**Context:** And if We willed, We could surely take away that which We have revealed to you. Then you would find no protector for you against Us in that respect (86)Except as a mercy from your Lord.
+
+**What this ayah teaches:** When the humans and jinns of the whole world are incapable of producing the least like of it, what doubt could there be in that it is but the Divine Word.
+
+**Classical tafsir:** Ibn Kathir notes: Challenging the humankind, it has been said there: If you do not take the Qur'an to be the word of Allah, rather take it to be a word of man, then, you too are human, why would you not come up with its like?
+
+**From the Sunnah:** It leaves no room for doubt in the veracity of the Holy Prophet ﷺ as Prophet and Messenger of Allah ﷺ .
 ## Personal Reflections
 
 

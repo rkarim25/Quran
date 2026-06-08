@@ -214,6 +214,17 @@ Ibn 'Abbas said, "He hears and He sees." This means that He watches over His cre
 
 word mirsad or marsad [ is derived from the root rasada which means 'to lie in wait or on watch']. Thus it means 'an ambush, or a place of observation; it is usually used for a place where persons have to travel through a pass in which someone is lying in wait to strike them'. The verse purports to say that Allah is ever watching and observing their movements and activities. No one should think that he could escape Divine torment, because all are under His authority and Power, and He may administer His punishment whenever He wills. Some commentators state that this verse is the subject of the five oaths mentioned taken in the first five verses of this Surah.
 
+## AI Translation
+
+Your Lord is truly Ever-Watchful—not unaware when the powerful abuse the weak.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, your Lord is Ever Watchful.).
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "Iram was an ancient nation who were the first people of 'Ad." Qatadah bin Di'amah and As-Suddi both said, "Verily, Iram refers to the House of the kingdom of 'Ad." This latter statement is good and strong. Ibn 'Abbas said, "They carved them and they hewed them." This was also said by Mujahid, Qatadah, Ad-Dahhak and Ibn Zayd.
+
+**From the Sunnah:** a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. (Sunan an-Nasa'i) It is said, "Hajara Al-Hakim so-and-so (The judge passed a judgement preventing so-and-so)," when his judgement prevents the person from his liberty (i.e., of freely utilizing his wealth). (al-Mustadrak)
 ## Personal Reflections
 
 

@@ -102,6 +102,17 @@ The second verse (17) presents the high ground the Holy Prophet ﷺ and the pure
 
 In the first sentence, it was asked: Can a denier of the Qur'an be equal to the one who adheres to the Qur'an that has come from his Lord? And along with it there is a witness present within it, while a witness earlier to this is the Book of Musa A.L that was sent to be followed and to be mercy for people?
 
+## AI Translation
+
+It is they who will have nothing in the Akhirah — the everlasting life after death except the Fire. Their efforts in this life will be fruitless and their deeds will be useless.
+
+## AI Tafsir
+
+**Context:** Anas bin Malik and Al-Hasan both said, "This verse was revealed concerning the Jews and the Christians." Mujahid and others said, "This verse was revealed concerning the people who perform deeds to be seen." Qatadah said…
+
+**What this ayah teaches:** Whosoever desires the life of the world and its glitter, to them We shall pay in full (the wages of) their deeds therein, and they will have no diminution therein (15)They are those for whom there is nothing in the Hereafter but Fire, and vain are the deeds they did therein.
+
+**Classical tafsir:** Ibn Kathir notes: This will be so that they are not wronged, even the amount equivalent to the size of the speck on a date-stone." Ibn 'Abbas continued saying, "Therefore, whoever does a good deed seeking to acquire worldly gain - like fasting, prayer, or standing for prayer at night - and he does…
 ## Personal Reflections
 
 

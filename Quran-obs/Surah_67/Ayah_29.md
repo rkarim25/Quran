@@ -114,6 +114,15 @@ Of all the human sense organs, only three are mentioned here on which depends kn
 
 After this, the non-believers are threatened with punishment. Towards the end of the Surah, a statement is once again repeated to remind them which purports to say: '0 you who live on the earth, dig wells and drink water from it to quench your thirst and grow plants and vegetation, do not forget that none of these things is your personal property. They are a Divine gift. He sent down water, and loaded it in the form of ice and reserved it on the peaks of mountains, so that it may not putrefy. Then He caused the congealed water to melt gradually and allow it to seep or soak into the earth through the pores or small interstices of the mountains and allowed a network of melted water to spread throughout the earth without any pipeline. Whenever man requires, he could dig a few meters deep into the earth from its upper surface to obtain water. This is a Divine gift. If He wills, He could send the water down into the depths of the earth, and it would not be accessible to anyone. This is the import of the following verse.
 
+## AI Translation
+
+Say: 'He is the Rahman—in Him alone we believe, and in Him alone we trust. You will soon know who is clearly astray.'
+
+## AI Tafsir
+
+**What this ayah teaches:** Knowledge received through hearing and seeing depends on the human 'heart', unlike the theory of the philosophers and scientists who believe that the centre of knowledge is the human 'brain'.
+
+**Classical tafsir:** Ibn Kathir notes: But out of the five physical senses, only two have been mentioned, namely, ears and eyes, because man receives a very limited range of knowledge by smelling, tasting and feeling.
 ## Personal Reflections
 
 

@@ -60,6 +60,15 @@ The people of the Pharaoh said that there were many expert sorcerers in their ci
 
 Some soldiers should be sent to collect and bring the sorcerers for this purpose. Sorcery and magic, being the custom of the day, the sorcerers enjoyed a high status among people. Allah sent Musa (علیہ السلام) with the miracles of the staff and white-lit hand so that people may clearly observe the misery of the sorcerers after entering into a contest with Musa (علیہ السلام) . It is the usual practice of Allah that He sends His prophets with miracles that are appropriate to the demand of the time. For instance, in the time of the prophet ` Isa (علیہ السلام) (the Jesus), Greek philosophy and medical sciences were at their zenith. He was, therefore, sent with the miraculous powers of restoring the sight of those who were born blind and cure the lepers instantly with a touch of his hand. In the time of the Holy Prophet ﷺ the Arabs were boastful of their oratory and linguistic capabilities. The Holy Qur'an was sent as the greatest of all miracles of the Holy prophet ﷺ .
 
+## AI Translation
+
+They replied, “Let him and his brother wait and send mobilizers to all cities to bring you every clever magician.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Because of this incorrect assumption, they brought all the magicians in order to defeat the miracles that he showed them.
+
+**Classical tafsir:** Ibn Kathir notes: Because of this incorrect assumption, they brought all the magicians in order to defeat the miracles that he showed them.
 ## Personal Reflections
 
 

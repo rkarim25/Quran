@@ -187,6 +187,17 @@ Imam Ahmad also recorded from a freed slave of the Messenger of Allah ﷺ that h
 
 The word: حُسبانا - (husbana) in verse 40 has been explained by Qatadah as 'punishment' in an absolute sense, by Sayyidna Ibn ` Abbas ؓ as 'fire' and by some as 'stoning.' As for what appears after that in the Qur'an: أُحِيطَ بِثَمَرِ‌هِ (And its produce was struck by destruction from all sides - 42), it obviously means that some major calamity hit his gardens, wealth and things of luxury reducing everything to ruins. The Qur'an does not mention any particular calamity explicitly. It appears that, some fire came down from the skies and burnt the whole thing - as it appears in the Tafsir of 'husban' by Sayyidna Ibn 'Abbas ؓ who has explained it as 'fire.' And Allah knows best.
 
+## AI Translation
+
+And give them a parable of this worldly dunya. It is like the plants of the earth, thriving when sustained by the rain We send down from the sky. Then they soon turn into chaff scattered by the wind. And Allah is fully capable of doing all things.
+
+## AI Tafsir
+
+**What this ayah teaches:** And mention the parable of the worldly life: it is like the water which We send down from the sky, and the vegetation of the earth mingles with it, and becomes fresh and green.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** 'Ata' bin Abi Rabah and Sa'id bin Jubayr narrated from Ibn 'Abbas, "The good righteous deeds that last are 'Subhan Allah (glory be to Allah)', 'Al-Hamdu Lillah (praise be to Allah)', 'La ilaha illallah (there is none worthy of worship except Allah)', and 'Alla… (Musnad Ahmad) from a freed slave of the Messenger of Allah ﷺ that he said: (Musnad Ahmad)
 ## Personal Reflections
 
 

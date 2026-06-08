@@ -76,6 +76,15 @@ This was a proof from Allah for Musa and a great miracle. This was something tha
 
 فَإِذَا هِيَ حَيَّةٌ تَسْعَىٰ (And suddenly it was a snake running - 20:20): When Sayyidna Musa علیہ السلام in obedience to the command of Allah Ta` ala, cast down his staff it turned into a serpent. The Qur'an has described this serpent at one place as كَأَنَّهَا جَانٌّ (28:31). The word جَانٌّ means a small and slim snake. At another place it has been referred to as فَإِذَا هِيَ ثُعْبَانٌ (26:32). The word ثُعْبَانٌ means a long and thick snake. The word حَيَّةٌ occurring in this verse is a generic name used for snakes of all sizes and thickness. These different words can be reconciled by the fact that this serpent was slim and small in the beginning and grew later on in size and thickness. Or that this serpent was originally long and thick and has been called جَانٌّ - by reason of its fast speed because as a general rule big and thick snakes are slow moving. The word كَأَنَّهَا used in this verse, which means "as if' also points to the fact that it has been compared to جَانٌّ on account of its swift movements. (Mazhari)
 
+## AI Translation
+
+So he did, then—behold!—it became a serpent, slithering.
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, that which is in your right hand is a stick that you are familiar with. It was a snake, moving quickly.) This means that the stick changed into a huge snake, like a long python, and it moved with rapid movements.
+
+**Classical tafsir:** Ibn Kathir notes: It was a snake, moving quickly.) This means that the stick changed into a huge snake, like a long python, and it moved with rapid movements.
 ## Personal Reflections
 
 

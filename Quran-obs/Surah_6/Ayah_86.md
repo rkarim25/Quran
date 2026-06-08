@@ -232,6 +232,17 @@ The second difficulty posed here relates to Sayyidna Lut (علیہ السلام)
 
 By mentioning the blessings of Allah on Sayyidna Ibrahim (علیہ السلام) in these verses, two things have been made very clear. Firstly, there is the law for anyone who sacrifices whatever he holds dear in the way of Allah, on him or her Allah bestows right here in this mortal world what is better than what he or she has surrendered in the way of Allah. Secondly, the purpose is to make the disbelievers of Makkah hear this background of things in their situation so that they may be guided right. This amounts to telling them: You do not listen to what Our prophet, Muhammad al-Mustafa is telling you. If that is so, consider these you too revere as great. So, Ibrahim and his whole progeny have all been saying the same thing - that Allah is the only object worthy of worship. Associating anyone else with Him in ` Ibadah, or suggesting that someone else is a sharer in His exclusive attributes is what disbelief and straying is. This proves that they are, even in terms of what they themselves accept as established truth, subject to censure.
 
+## AI Translation
+
+Ishmael, Elisha, Jonah, and Lot, favouring each over other people.
+
+## AI Tafsir
+
+**Context:** (And indeed it has been revealed to you, as it was to those (Allah's Messengers) before you: "If you join others in worship with Allah, surely your deeds will be in vain.")[39:65]
+
+**What this ayah teaches:** Certainly, one becomes jubilant and joyous when he becomes a grandfather, because this means that his offspring will continue to exist. This was a reward for Ibrahim who left his people and migrated from their land so that he could worship Allah alone.
+
+**Classical tafsir:** Ibn Kathir notes: Certainly, one becomes jubilant and joyous when he becomes a grandfather, because this means that his offspring will continue to exist.
 ## Personal Reflections
 
 

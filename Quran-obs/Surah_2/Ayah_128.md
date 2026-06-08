@@ -496,6 +496,17 @@ It is significant. that Sayyidna Ibrahim (علیہ السلام) included his de
 
 We might add an explanatory note about the word Manasik مناسک (the plural of Mansik) which occurs in Verse 128. This word signifies the different actions involved in the performance of the Hajj, and also the different places where the rites are performed - like ` Arafah عرفات ، Muzdalifah مزدلفہ or Mina منی . Both the meanings of the word are intended here, and the substance of the last part of the prayer is that Sayyidna Ibrahim (علیہ السلام) wanted the rites of the Hajj to be explained and their locations to be indicated. The verb which has been employed in this connection is Arina أَرِ‌نَا - "show us." Now, seeing is done through the eyes, and also through the heart. So, the different locations of the rites were shown to him through the Archangel Jibra'il (علیہ السلام) and the injunctions regarding the Hajj were explained in detail.
 
+## AI Translation
+
+Our Rabb, make us submit to You, and from our descendants a community that submits to You. Show us our rites and turn to us in mercy. You are the Accepter of Repentance, the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, my Lord is indeed the Hearer of invocations)(14:39).
+
+**Classical tafsir:** Ibn Kathir notes: She ran to and fro (between the two mountains) seven times." Ibn 'Abbas said that the Messenger of Allah ﷺ said, "This is why the people make the trip between As-Safa and Al-Marwah (during Hajj and Umrah)." "When she reached Al-Marwah, she heard a voice and said, 'Shush,' to herself.
+
+**From the Sunnah:** I have collected a book on this subject, and all praise is due to Allah. Therefore, its game should not be hunted, and its trees should not be cut.) An-Nasa'i and Muslim also recorded this Hadith. (Sahih Muslim, Sunan an-Nasa'i)
 ## Personal Reflections
 
 

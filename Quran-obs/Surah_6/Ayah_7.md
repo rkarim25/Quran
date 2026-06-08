@@ -159,6 +159,17 @@ Such were the uncalled-for and hostile demands made and mocking and insulting di
 
 Therefore, to comfort him, it was said that such demands from his antagonists were not being put forward for any useful purpose, nor did they want to follow it. They were a kind of people who would not stop at what they were demanding. Even if they were presented with far more clear proofs of their Prophet's veracity, they would still not believe. For example, if Allah were to send down, as they demanded, a written book from the heavens - and not only that they see it for them-selves that there is no sleight of hand or sight or magic, they may even physically touch it with their hands to make sure that they were not day-dreaming and that it was a reality - still, after all that, they would say nothing but: اَن ھٰذآ اِلَّا سِحرُ مُّبِینُ (This is nothing but sheer magic): This is because what they are saying comes from malice and hostility.
 
+## AI Translation
+
+Had We sent down to you a revelation in writing and they were to touch it with their own hands, those who reject the truth would still have said, “This is nothing but pure magic!”
+
+## AI Tafsir
+
+**Context:** The second verse (7) was revealed in the background of a particular event when ` Abdullah ibn Umaiyyah came up with a hostile demand before the Holy Prophet ﷺ by saying: ` I cannot believe in you until such time that I s…
+
+**What this ayah teaches:** What effect these caustic bad manners would have made on his heart is something we cannot fathom.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, to comfort him, it was said that such demands from his antagonists were not being put forward for any useful purpose, nor did they want to follow it.
 ## Personal Reflections
 
 

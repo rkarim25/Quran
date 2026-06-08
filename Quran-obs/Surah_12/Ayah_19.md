@@ -149,6 +149,17 @@ After that it was said: وَاللَّـهُ عَلِيمٌ بِمَا يَعْ�
 
 In this sentence, according to Ibn Kathir, there is an element of guidance for the Holy Prophet ﷺ as well. It tells him that nothing his people are doing to him, or will do in the future, is outside the scope of Allah's knowledge and power. He could, if He so willed, change everything and everyone outright. But, wisdom demanded that they be allowed to show their power at this time. Finally, by making him overcome them, it will be truth itself seen triumphant over them - as was done in the case of Yusuf (علیہ السلام) .
 
+## AI Translation
+
+And there came some travellers, and they sent their water-boy who let down his bucket into the well. He cried out, “Oh, what a great find! Here is a boy!” And they took him secretly to be sold as merchandise, but Allah is All-Knowing of what they did.
+
+## AI Tafsir
+
+**What this ayah teaches:** Otherwise, in creation, there is no chance or accident (which Einstein, though no formal believer, did concede: ` Allah does not play dice!' ).
+
+**Classical tafsir:** Ibn Kathir notes: Instead, he thought, he would keep him hidden from others so that he could sell him for good money later.
+
+**From the Sunnah:** Blessed is Allah, the Lord of the all that exists!)[7:54] This reminds Allah's Messenger Muhammad ﷺ, that Allah has perfect knowledge in the persecution that his people committed against him and that He is able to stop them.
 ## Personal Reflections
 
 

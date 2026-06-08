@@ -350,6 +350,17 @@ Thirdly, since the event of the coming of Sayyidna ` Isa (علیہ السلام)
 
 In short, here and at other places, the very fact of such detailed description concerning Sayyidna ` Isa (علیہ السلام) is in itself indicating that his reappearance is due close to the Day of Judgment and that he would return to the world. This humble writer has taken up this subject in full details in his Urdu treatise entitled مسیح موعود کی پہچان Masih Maw` ud ki pahchan (Identifying the Promised Messiah) which may be consulted for these details.
 
+## AI Translation
+
+When Allah said, “O Jesus! I will take you and raise you up to Myself. I will deliver you from those who reject the truth, and elevate your followers above those who reject the truth until the Day of Judgment. Then to Me you will return, and I will settle all your disputes.
+
+## AI Tafsir
+
+**Context:** (This is what We recite to you of the verses and the Wise Reminder.) meaning, "What We narrated to you, O Muhammd, regarding 'Isa, his birth and his life, is what Allah conveyed and revealed to you, sent down from the Al…
+
+**What this ayah teaches:** Even if we were to leave this aspect aside, we know that a temporary domination by the Jews close to the Day of Judgment has been reported in the authentic reports of the Holy Prophet ﷺ Now if this world is destined to exist for any considerable period of time and if the Day of Judgment is close, that domination too is not contrary to the reports which Muslims consider authenti…
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the majority of scholars have translated the word, 'mutawaffika' in the verse under study in the sense of 'taking in full'.
 ## Personal Reflections
 
 

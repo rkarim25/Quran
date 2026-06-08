@@ -166,6 +166,17 @@ Al-Baghawi said in his Tafsir, "This was the view of 'Abdullah bin 'Umar, Sa'id 
 
 In verse 104, 105, it was said: وَنَادَيْنَاهُ أَن يَا إِبْرَ‌اهِيمُ قَدْ صَدَّقْتَ الرُّ‌ؤْيَا (and then We called out to him, "0 Ibrahim, you did make the dream come true." ), that is, in accomplishing the task entrusted with him in obedience to the command of Allah, he left nothing undone, in fact, did it perfectly to the letter (more likely so because in the dream too, it was shown that Sayyidna Ibrahim (علیہ السلام) is simply moving his knife to slaughter his son). Now that test was over, so he should let him go.
 
+## AI Translation
+
+We called out to him: "O Abraham!
+
+## AI Tafsir
+
+**What this ayah teaches:** Furthermore, the firstborn son has a special status that is not shared by subsequent children, so the command to sacrifice him is a more exquisite test.
+
+**Classical tafsir:** Ibn Kathir notes: They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs.
+
+**From the Sunnah:** The Muslims and the People of the Book agree, and indeed it is stated in their Book, that Isma'il, peace be upon him, was born when Ibrahim, peace be upon him, was eighty-six years old, and Ishaq was born when Ibrahim was ninety-nine years old. The Quraysh had inherited the horns of the ram that Ibrahim sacrificed, and they had been passed down from generation to generation, until the Messenger of Allah ﷺ was sent.
 ## Personal Reflections
 
 

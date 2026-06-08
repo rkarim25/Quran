@@ -120,6 +120,15 @@ will circle around between it and between hot, boiling water - Ar-Rahmn, 55:43-4
 
 A little deliberation shows that there is no contradiction between these two things. There will be many strata or sections of Jahannam itself serving as venues of many kinds of punishment. One of these could be that of hameem which could as well be called as being outside the Jahannam because of its separate and distinct location, and since this is also a section of Jahannam itself, therefore, it could also be called the Jahannam. Ibn Kathir has said that the people of Jahannam, shackled in chains, will sometime be dragged into the hameem and at others, in Jahannam.
 
+## AI Translation
+
+through boiling water, then burned in the Fire as fuel.
+
+## AI Tafsir
+
+**What this ayah teaches:** The verse seems to suggest that the people of Jahannam will first be put into the hameem, then, into the jahim, that is, the Jahannam.
+
+**Classical tafsir:** Ibn Kathir notes: One of these could be that of hameem which could as well be called as being outside the Jahannam because of its separate and distinct location, and since this is also a section of Jahannam itself, therefore, it could also be called the Jahannam.
 ## Personal Reflections
 
 

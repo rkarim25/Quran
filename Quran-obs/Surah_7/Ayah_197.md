@@ -166,6 +166,17 @@ The Holy Prophet ﷺ has been asked to declare that he was not fearful of their 
 
 The last sentence وَ ھوَ یَتَوَلَّی اَلصَّلحِین "He helps and protects the righteous" has given us a general principle that in addition to helping the prophets who hold the highest status among all the people, Allah helps and protects all the Muslims who act righteously. Therefore, the opposition or hostility of any one does not harm a true Muslim in the real sense of the word. Most often he is made to triumph over his enemies in this very world. If, for some good reason, he does not overcome and is apparently defeated, this, too, does not go to damage his real objective. His failure in this world is, in fact, his success in true sense, because the main objective of his life is to seek Allah's pleasure and to obey Him in each and every activity of his life. His failure, being from Allah draws him nearer to his objective of seeking Allah's pleasure.
 
+## AI Translation
+
+But those you call besides Him can neither help you nor even themselves.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Do they attribute as partners to Allah those who created nothing but they themselves are created (191)No help can they give them, nor can they help themselves (192)And if you call them to guidance, they follow you not.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, if an object is this weak, how can it be worshipped and invoked for provisions and aid?
+
+**From the Sunnah:** The next sentence provides us with a general rule that Allah does not only help and protect His messengers, who have special favours of Allah, but also helps and protects all the Muslims who are righteous. Therefore, the opposition or hostility of any one does not harm a true Muslim in the real sense of the word. (Sahih Muslim)
 ## Personal Reflections
 
 

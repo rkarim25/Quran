@@ -92,6 +92,17 @@ And it has been reported from Sayyidna Ibn ` Abbas, ` Ikrimah and Imam Ja'far Ba
 
 And the truth of the matter is that all conditions faced by human beings after their age of puberty and all minor and major changes that take place in their persons and in that they are surrounded with are, all of them, heralds of warning for human beings.
 
+## AI Translation
+
+Allah is the Knower of the unseen of the heavens and the earth. He knows best what is hidden in the heart.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, He is the All-Knower of that is in the breasts (38)He it is Who has made you successors generations after generations in the earth, so whosoever disbelieves, on him will be his disbelief.
+
+**Classical tafsir:** Ibn Kathir notes: In the Shari'ah, the age of puberty is the first line of demarcation after having crossed which a person is Divinely blessed with enough reason, so that one can understand what is good or bad in his or her case.
+
+**From the Sunnah:** The ages of my ummah will be in between sixty and seventy and there will be few of those who will exceed that - reported by al-Tirmidhi and Ibn Majah, Ibn Kathir. (Jami' at-Tirmidhi, Sunan Ibn Majah)
 ## Personal Reflections
 
 

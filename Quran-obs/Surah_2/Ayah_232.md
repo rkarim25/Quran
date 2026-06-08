@@ -258,6 +258,19 @@ Moreover, a rather long-term benefit that comes out of this method of Qur'an and
 
 Aside from identifying limits and restrictions of law, the distinction of a Qur'anic system of government is that by using the tools of persuasion and warning, it raises the standards of human morals and character to heights where legal limits and restrictions become second nature to him, before which he makes his personal desires and preferences take the back seat. A hard look into the history and governments of nations and the roster of crimes and punishments they offer would show that law alone has never reformed any nation or individual. The police and the army alone have never succeeded in rooting crimes out unless the fear of Allah Almighty and the realization of His supreme greatness is impinged on human hearts. That which helps prevent crimes is, in reality, the fear of Allah and the fear of accountability on the Day of Judgment. If this is not there, nobody can keep anybody away from crimes.
 
+## AI Translation
+
+When you divorce women and they reach the end of their waiting period, do not prevent them from remarrying their former husbands if they agree honourably. This is enjoined on whoever trusts in Allah and the Last Day. That is purer and more dignified. Allah knows and you do not know.
+
+## AI Tafsir
+
+**Context:** Ali bin Abu Talhah reported that Ibn 'Abbas said, "This Ayah was revealed about the man who divorces his wife once or twice and her 'Iddah finishes.
+
+**What this ayah teaches:** Or, it may be that there is mutual agreement of the couple but it is not in accordance with the method prescribed by the Shari'ah.
+
+**Classical tafsir:** Ibn Kathir notes: There is no Marriage without a Wali (for the Woman) The Ayah (2:232) also indicates that the woman is not permitted to give herself in marriage.
+
+**From the Sunnah:** Rather, she requires a Wali (guardian such as her father, brother, adult son, and so forth) to give her away in marriage, as Ibn Jarir and At-Tirmidhi have stated when they mentioned this Ayah. (Jami' at-Tirmidhi) Al-Bukhari reported in his Sahih, when he mentioned the Tafsir of this Ayah (2:232), that the husband of the sister of Ma'qil bin Yasar divorced her.
 ## Personal Reflections
 
 

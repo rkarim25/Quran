@@ -179,6 +179,15 @@ The evil consequences of some sins
 
 The exact words of the Holy Qur'an in وَيَلْعَنُهُمُ اللَّاعِنُونَ :'And curse them those who curse', as obvious, have not identified those who do that. Commentators Mujahid and ` Ikrimah have said that this absence of specification suggests that they are cursed by everything and every living being, so much so, that all animals and insects join in since their misdeeds hurt all created life forms. This is supported by a hadith from the blessed Companion, Bard' ibn ` Azib where the Holy Prophet ﷺ has been reported to have said that the word al-la` inun اللَّاعِنُون ('those who curse' ) refers to all animal life that moves on the earth. (Qurtubi quoting Ibn Majah)
 
+## AI Translation
+
+Except those who repent, mend their ways, and clarify the truth — to them I turn in forgiveness. I am the Accepter of Repentance, the Rahim.
+
+## AI Tafsir
+
+**Context:** These Ayat sternly warn against those who hide the clear signs that the Messengers were sent with which guide to the correct path and beneficial guidance for the hearts, after Allah has made such aspects clear for His se…
+
+**What this ayah teaches:** And I am the One Who accepts repentance, the ar-Rahim.) This Ayah also indicates that those who used to call to innovation, or even disbelief, and repent to Allah, then Allah will forgive them.
 ## Personal Reflections
 
 

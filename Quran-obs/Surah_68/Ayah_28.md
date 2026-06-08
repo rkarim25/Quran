@@ -147,6 +147,15 @@ It has been said, "They were hoping for something better in exchange in this lif
 
 قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ (Said he who was the best among them, "Did I not say to you, 'Why do you not pronounce tasbih (Allah's purity)?"....68:28). The middle brother was the best of them. He was righteous like his father. It used to please him to spend in the cause of Allah. He was not niggardly or stingy like the other brothers. He had advised them to recite tasbih which, literally, means to pronounce Allah's purity. He told them that they were withholding the share of the poor with the fear that their fruit will be depleted and will not be replenished by Allah, if they gave the poor their share. He told them that Allah is pure from such pettiness. Instead, those who spend in the way of Allah, He will not only make their wealth full again or replace what they have spent, but also will give them over and above what they have spent. [ Mazhari ].
 
+## AI Translation
+
+The most sensible among them said: 'Did I not urge you to say in sha' Allah—if Allah wills?'
+
+## AI Tafsir
+
+**What this ayah teaches:** He told them that Allah is pure from such pettiness.
+
+**Classical tafsir:** Ibn Kathir notes: He had advised them to recite tasbih which, literally, means to pronounce Allah's purity.
 ## Personal Reflections
 
 

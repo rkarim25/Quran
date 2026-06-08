@@ -162,6 +162,15 @@ The Day that is drawing near' is one of the names of the Day of Judgement. It is
 
 In verse 19, it was said: يَعْلَمُ خَائِنَةَ الْأَعْيُنِ (He knows the treachery of the eyes), in other words, eyes that betray the trust. It means the action of a person who would, secretly and surreptitiously, cast a glance over something haram and impermissible for him or her, for example, casts a glance at a non-mahram person with sexual desire, and takes it away in the event someone was around, or casts a glance in a manner that is not noticed by others. All these things are open before Allah Ta’ ala.
 
+## AI Translation
+
+Allah judges with truth, while those idols they invoke besides Him cannot judge at all. Indeed, Allah alone is All-Hearing, All-Seeing.
+
+## AI Tafsir
+
+**What this ayah teaches:** There will be no friend, nor an intercessor for the wrongdoers, who could be given heed to (18)Allah knows the fraud of the eyes, and all that the breasts conceal (19)And Allah judges with truth, while those to whom they invoke besides Him, cannot judge anything.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

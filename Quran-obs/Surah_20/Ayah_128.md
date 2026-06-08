@@ -165,6 +165,15 @@ Commentary
 
 The word ھُدٰی - (guidance) implied in the first sentence of verse 128 can refer either to the Qur'an or to the Holy Prophet ﷺ and the meaning would be, "Did not the Qur'an or the Holy Prophet ﷺ direct them i.e. the people of Makkah and tell them about the nations and the societies who were destroyed because they disobeyed the commands of Allah and turned away from the message brought to them by the Holy Prophet ﷺ ، and whose houses and lands are now occupied by them?" It is also possible that the word ھُدٰی (guidance) may refer to God in which case the meaning would be "Did God not direct."
 
+## AI Translation
+
+Is it not yet clear to them how many peoples We destroyed before them, whose ruins they still pass by? Surely in this are signs for people of sound judgment.
+
+## AI Tafsir
+
+**What this ayah teaches:** They showed open hostility, so now there is not trace of them and none of them are left. By Allah, He has not given them anything better than the opportunity to look upon Him, and that is the increase (extra blessing).)
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

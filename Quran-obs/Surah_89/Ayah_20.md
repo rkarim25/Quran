@@ -82,6 +82,15 @@ word jamm means 'excessive'. This verse refers to the fourth evil trait of the u
 
 كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا (No! When the earth will be crushed thoroughly to be turned into bits...89:21). The word dakk literally means 'to pound or crush a thing into bits and pieces'. This refers to the earthquakes that will crush and ground the mountains to dust. The world will thus be dissolved. This will be the first stage of Resurrection. When this stage of Resurrection ends, the second stage of Resurrection will begin. The word dakkan is repeated in order to show that there will be a series of earthquakes before the dissolution of the world.
 
+## AI Translation
+
+And you love wealth with consuming passion, as if accumulation were the purpose of life.
+
+## AI Tafsir
+
+**What this ayah teaches:** The word 'excessive' indicates that love of wealth in itself, in a sober sense, is a natural instinct of man.
+
+**Classical tafsir:** Ibn Kathir notes: The word 'excessive' indicates that love of wealth in itself, in a sober sense, is a natural instinct of man.
 ## Personal Reflections
 
 

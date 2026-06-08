@@ -127,6 +127,19 @@ Ban on story-telling after ` lsha' prayers
 
 Story telling was favourite pastime among the Arabs and the Persians since ancient times. This habit was not only time wasting but was also the cause of certain evils. With a view to discourage this practice, the Holy Prophet ﷺ enjoined upon the Muslims not to sleep before the ` Isha' prayers. The philosophy behind this injunction was that all daily human activity ended with the ` Isha' prayers which should arguably be a man's last action and which might even atone for his lapses during the day. On the other hand if, after the ` Isha' prayers, he sits down to while away his time listening to silly and frivolous tales which in itself is a foolish act, he renders himself guilty of encouraging falsehood, backbiting and other sins. Another consequence of this evil habit is that such a person will go to bed late, will rise late and miss his early morning prayers. Sayyidna ` Umar ؓ used to admonish people whom he found listening to stories after ` Isha' prayers and advised them to go early to bed so that with Allah's grace they might be enabled to say midnight prayers. (Qurtubi)
 
+## AI Translation
+
+boasting of the Sacred House, and babbling nonsense about the Quran by night.”
+
+## AI Tafsir
+
+**Context:** (from this.) means, the Qur'an which Allah revealed to His Messenger ﷺ. (In pride, talking evil about it by night.) refers to the arrogant pride which the Quraysh felt because they believed themselves to be the guardians…
+
+**What this ayah teaches:** Certainly you shall not be helped by Us (65)Indeed My Ayat used to be recited to you, but you used to turn back on your heels (66)In pride, talking evil about it by night . According to many commentators the word (on it) in this verse has a reference to the Haram (the sanctuary of Makkah).
+
+**Classical tafsir:** Ibn Kathir notes: According to many commentators the word (on it) in this verse has a reference to the Haram (the sanctuary of Makkah).
+
+**From the Sunnah:** With a view to discourage this practice, the Holy Prophet ﷺ enjoined upon the Muslims not to sleep before the ` Isha' prayers.
 ## Personal Reflections
 
 

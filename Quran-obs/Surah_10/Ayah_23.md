@@ -232,6 +232,17 @@ The warning given in verse 23: إِنَّمَا بَغْيُكُمْ عَلَى�
 
 The Holy Prophet ﷺ has said: ` Allah Ta` ala hastens to repay mercy shown to relatives and favour done to people (whereby its blessings start becoming visible in this world, much before the Hereafter). And He also hastens to repay injustices done and relationships severed (in that its consequences have to be faced within the life of this world).' (Reported by Tirmidhi and Ibn Majah with a hasan chain of narrators) In another Hadith narrated by Sayyidah ` A'ishah ؓ ، the Holy Prophet ﷺ said, ` there are three sins the curse whereof falls on the sinner himself: Injustice, breach of trust and deception.' (Reported by Abu ash-Shaykh and Ibn Marduwayh in Tafsir) (See Mazhari)
 
+## AI Translation
+
+But as soon as He rescues them, they transgress in the land unjustly. O humanity! Your transgression is only against your own souls. There is only brief enjoyment in this worldly dunya, then to Us is your return, and then We will inform you of what you used to do.
+
+## AI Tafsir
+
+**What this ayah teaches:** Your rebellion (disobedience to Allah) is only against yourselves,) it is you yourselves that will taste the evil consequence of this transgression.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said that man's attitude indicates a mockery and belying of blessings.
+
+**From the Sunnah:** that Allah's Messenger ﷺ led the Subh (Dawn) prayer after it had rained during the night, then he ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
 
 

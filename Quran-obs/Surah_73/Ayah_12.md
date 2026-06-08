@@ -118,6 +118,15 @@ Sayyidna Ibn ` Abbas ؓ said: "In it will be thorns of fire that will
 
 choke." [ God save us!].
 
+## AI Translation
+
+We have shackles, a raging Fire,
+
+## AI Tafsir
+
+**What this ayah teaches:** The word ghussah literally denotes 'a thing by which one is choked'. The Command to be Patient with the Harms of the those who reject the truth and a Discussion of what They will receive because of it Allah commands His Messenger ﷺ to be patient with what the foolish who reject him among his people say.
+
+**Classical tafsir:** Ibn Kathir notes: This means, 'you should beware of denying this Messenger, lest you be afflicted by that which befell Fir'awn.
 ## Personal Reflections
 
 

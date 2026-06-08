@@ -55,6 +55,17 @@ The punishment of people whose signs have been given above is the fire of Jahann
 
 How regrettable that the signs of disbelievers and deniers pin-pointed by the Qur'an are no different as far as our own present condition as Muslims is concerned. By looking at our way of life and the pattern of our activities and thoughts, no one can come to the conclusion that we have some other concern bothering us except the concerns of this world under our noses. Yet, despite all that, we sit comfortably believing that we are Muslims, as staunch and true as they come. The hard reality is that the kind of staunch and true Muslims our worthy forbears were has become unimaginable for us. They were the ones a look at whose faces would remind one of God and transmit unmistakably that they feared someone above them and their hearts throbbed with the concern of being accountable to Him. Not to say more about these wonderful people, even the Holy Prophet ﷺ despite being protected from sins (ma` sum مَعصُوم), lived his blessed life in that state. It appears in Shama'il al-Tirmidhi that the Holy Prophet ﷺ looked sad and concerned fairly often.
 
+## AI Translation
+
+they will have the Fire as a home because of what they have committed.
+
+## AI Tafsir
+
+**What this ayah teaches:** Their abode on the Day of Return is Fire, a reward for what they have earned in their worldly life from among their sins and crimes.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, those who hope not for their meeting with Us, but are pleased and satisfied with the life of the present world, and those who are heedless of Our Ayat (7)Those, their abode will be the Fire, because of what they used to earn .
+
+**From the Sunnah:** How regrettable that the signs of those who reject the truth and deniers pin-pointed by the Qur'an are no different as far as our own present condition as Muslims is concerned. (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

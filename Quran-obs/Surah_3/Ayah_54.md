@@ -97,6 +97,17 @@ The Qur'anic word, مکر makr, is used exclusively for conspiracy, evil plan an
 
 The verse means that the Jews started making a series of conspiracies and secret schemes against Sayyidna ` Isa (علیہ السلام) going to the limit of convincing the ruler of the time that he was a heretic (God forbid) all bent upon changing the Torah and was going to make apostates of everybody. The ruler ordered the arrest of Sayyidna ` Isa (علیہ السلام) . While this was the scene on one side, the subtle and secret move made by Allah Almighty was countering their evil plans more effectively, which has been mentioned in the verses coming next.
 
+## AI Translation
+
+And those who reject the truth made a plan, but Allah also planned—and Allah is the best of planners.
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah is the Best of those who plot .
+
+**Classical tafsir:** Ibn Kathir notes: "And they made a move" refers to the evil designs of the Jews who planned to arrest him and to get him crucified.
+
+**From the Sunnah:** The Prophet ﷺ said during the Hajj season, before the Hijrah, The Ansar helped the Prophet ﷺ and gave him refuge.
 ## Personal Reflections
 
 

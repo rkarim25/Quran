@@ -142,6 +142,15 @@ Sayyidna Abdullah Ibn Masud the Holy Prophet ﷺ said:
 
 That is "The person who sticks to the middle path and moderation in spending will never become a destitute and poor". (Imam Ahmad - Ibn Kathir)
 
+## AI Translation
+
+They are those who spend neither wastefully nor stingily, but moderately in between.
+
+## AI Tafsir
+
+**What this ayah teaches:** In case one does not spend at all at a place where he has been directed to spend, then that is the worst situation.
+
+**Classical tafsir:** Ibn Kathir notes: It is because any wasteful spending is by itself a sin and hence israf.
 ## Personal Reflections
 
 

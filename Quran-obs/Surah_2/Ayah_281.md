@@ -254,6 +254,15 @@ In this verse, it has been stated that spending on relatives, the poor and the w
 
 Anyhow, there are, beside this particular verse, several other verses cited earlier which do deal with the prohibition of ربا riba. Out of these, there is the verse from Surah Al-` Imran which prohibits doubled and multiplied ربا riba; the rest of the verses state the prohibition of riba as such. These details, at the least, clear this much that ربا riba is حرام haram (unlawful) anyway, be it doubled and multiplied, simple or compound. It may be kept in mind that the degree of its being حرام haram is so severe that a declaration of war has been made on behalf of Allah and His Messenger against those who challenge the injunction.
 
+## AI Translation
+
+Guard yourselves against the Day when you will be returned to Allah. Then every soul will be paid in full for what it earned, and none will be wronged.
+
+## AI Tafsir
+
+**Context:** (if you indeed have been believers) believing in the trade that He allowed you and the prohibition of Riba. Zayd bin Aslam, Ibn Jurayj, Muqatil bin Hayyan and As-Suddi said that this Ayah was revealed about Bani 'Amr bin…
+
+**What this ayah teaches:** And fear Allah, so that you may be successful. The expression 'paltry price' was used here to indicate that even if the kingdom of the whole world was taken in exchange for the Divinely revealed verses, the price will still be 'paltry.' It does not mean that taking a paltry price against the verses of the Qur'an is Haram, but taking a higher price would be permissible.
 ## Personal Reflections
 
 

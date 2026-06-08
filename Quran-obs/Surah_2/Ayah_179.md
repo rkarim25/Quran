@@ -172,6 +172,19 @@ This verse means nothing but what has been stated earlier, and we repeat, that t
 
 6. It is true that the right of even retaliation is vested in the legal heirs of the persons killed but, in accordance with the consensus of the Muslim community, they do not have the right to settle the score all by themselves, in other words, they cannot kill the killer on their own, instead, they have to seek the help of a Muslim ruler or his deputy to realize their right. The reason is that Qisas قصاص is an intricate issue when it comes to details which are simply out of reach for an average person. Therefore, the legal heirs of the person killed, not knowing the particular circumstances when retaliation does, or does not become necessary, may commit some sort of excess under the heat of their anger. So, by a unanimous agreement of the scholars of the Muslim community, it is necessary that the right of retaliation be secured and made effective through the agency of an Islamic government. (Qurtubi)
 
+## AI Translation
+
+In retaliation there is life for you, O people of reason — so that you may live with taqwa.
+
+## AI Tafsir
+
+**Context:** It was to refute this barbaric demand on their part that this verse was revealed. By saying 'free man for a free man, slave for a slave and female for a female' it is intended to negate their absurd demand that a free ma…
+
+**What this ayah teaches:** Under the first injunction in this connection, the verse prescribes the law of Qisas (even retaliation), that is, the killer will be killed, irrespective of the status of the parties involved.
+
+**Classical tafsir:** Ibn Kathir notes: ' Taqwa (mentioned in the Ayah) is a word that means doing all acts of obedience and refraining from all prohibitions.
+
+**From the Sunnah:** However, the majority of scholars agree that the Muslim is not killed for a those who reject the truth whom he kills. (Sahih al-Bukhari, Sahih Muslim) No opinion that opposes this ruling could stand correct, nor is there an authentic Hadith to contradict it.
 ## Personal Reflections
 
 

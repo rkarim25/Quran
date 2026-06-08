@@ -114,6 +114,17 @@ People of Tubba'
 
 Tubba' was the title of the king of Yemen. The necessary explanation has been given in volume seven in Surah Ad-Dukhan under [ 44:37].
 
+## AI Translation
+
+the people of the Forest, and the people of Tubba'. Each rejected their messenger, and My warning was fulfilled against them.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, all those who fear suffering the same end should be warned, especially since the latter have denied their Messenger, just as the former denied their Messenger.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, all those who fear suffering the same end should be warned, especially since the latter have denied their Messenger, just as the former denied their Messenger.
+
+**From the Sunnah:** We mentioned earlier a Hadith collected in the Sahih,
 ## Personal Reflections
 
 

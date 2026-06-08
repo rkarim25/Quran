@@ -172,6 +172,15 @@ The Religion of All the Prophets Is Tawhid; And the Warning Against Splitting in
 
 فَتَقَطَّعُوا أَمْرَهُم بَيْنَهُمْ زُبُرًا But they split up ways from one another (dividing themselves) into factions - 23:53). The word زُبُر is the plural of زُبُور meaning a book, and the verse would mean that Allah had commanded all prophets and their followers to adhere to the one and only faith revealed by Him in all matters relating to the basic principles and beliefs. But the followers of different prophets split up into groups and sects and each one of them chose a different way of life and adopted a different book in which the beliefs of each group and sect were recorded. Sometimes زبر is used for the plural of زُبرَہ (zubrah) meaning "fragment" or "group". This meaning is more appropriate here and the meaning of the verse would be that these people were divided into sects even in the matter of fundamental beliefs of their religion. It should be noted that the difference of opinion among the mujtahidin (competent Shari` ah Scholars) in some minor issues is not included in this division which is condemned in this verse, because these differences do not cause a division of the religion, nor do the people maintaining these differences become separate sects. Giving these interpretative and subsidiary differences a sectarian colour is the height of ignorance and no religious scholar would support it.
 
+## AI Translation
+
+Yet the people have divided it into different sects, each rejoicing in what they have.
+
+## AI Tafsir
+
+**What this ayah teaches:** It should be noted that the difference of opinion among the mujtahidin (competent Shari` ah Scholars) in some minor issues is not included in this division which is condemned in this verse, because these differences do not cause a division of the religion, nor do the people maintaining these differences become separate sects.
+
+**Classical tafsir:** Ibn Kathir notes: The Command to Eat Lawful Food and to Do Righteous Deeds Allah commands His servants and Messengers, peace be upon them all, to eat lawful food and do righteous deeds, which indicates that eating what is lawful helps one to do righteous deeds.
 ## Personal Reflections
 
 

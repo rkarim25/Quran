@@ -165,6 +165,15 @@ trial.
 
 (3) The most perfect who did not bother even about that.
 
+## AI Translation
+
+When they faced Goliath and his army, they prayed, "Our Rabb, pour sabr upon us, make our steps firm, and give us victory over those who reject the truth."
+
+## AI Tafsir
+
+**What this ayah teaches:** Pour forth on us patience, and set firm our feet and make us victorious over the disbelieving people.
+
+**Classical tafsir:** Ibn Kathir notes: This purpose was accomplished by this test, which is very appropriate, because steadfastness is necessary in fighting.
 ## Personal Reflections
 
 

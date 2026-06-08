@@ -128,6 +128,17 @@ In verse 54, two signs of hypocrites have been given: (1) they come to the Sa ل
 
 Muslims have been warned here that sloth in Salah and being sour at heart while spending in the way of Allah, that is, Zakah and Sadaqah, are signs of nifaq (hypocrisy). All Muslims should make conscious effort to stay safe from these signs.
 
+## AI Translation
+
+So let neither their wealth nor children impress you. Allah only intends to torment them through these things in this worldly life, then their souls will depart while they are those who reject the truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** So let not their wealth nor their children amaze you; in reality Allah's plan is to punish them with these things in the life of this world, and that their souls shall depart (die) while they are those who reject the truth .
+
+**Classical tafsir:** Ibn Kathir notes: As for the statement in verse 55 -- where it has been declared that the wealth and children of hypocrites should not be taken as a blessing for them as these are, in fact, a form of punishment from Allah -- it has a reason.
+
+**From the Sunnah:** If, at this place, Sadaqat are taken in their general sense - which includes all Sadaqat, necessary (wajib) and voluntary (nafl) - then, there is no problem, because non-Muslims can be given out of the voluntary Sadaqat.
 ## Personal Reflections
 
 

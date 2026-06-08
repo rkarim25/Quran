@@ -130,6 +130,15 @@ Allah the Exalted said,
 
 وَأَنَّهُ هُوَ أَغْنَىٰ وَأَقْنَىٰ (and that He is the One who gives wealth and preserves [ it ]...53:48) The word ghina means affluence, and ighna' means to give wealth to somebody else, and enrich him. The word aqna is derived from qinyatun which means preserving and reserve wealth. The meaning of the verse is that it is Allah Who enriches His servants and grants wealth to them to their satisfaction, so that they are able to use some and keep some in their reserve fund for future use.
 
+## AI Translation
+
+and that He enriches and gives sufficiency,
+
+## AI Tafsir
+
+**What this ayah teaches:** And that to your Lord is the End (42)And that it is He Who makes laugh, and makes weep (43)And that it is He Who causes death and gives life (44)And that He creates the pairs, male and female (45)From Nutfah when it is emitted (46)And that upon Him is another bringing forth (Resurrection)(47)And that it is He Who Aghna and Aqna (48)And that He is the Lord of Ash-Shi'ra (49)And…
+
+**Classical tafsir:** Ibn Kathir notes: This means they are able to use it to their benefit, is this out of the completeness of His favor.
 ## Personal Reflections
 
 

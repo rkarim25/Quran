@@ -403,6 +403,17 @@ However, our misery comes to an end, but the liability of oppressor for good.
 
 لَا تَدْرِ‌ي لَعَلَّ اللَّـهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرً‌ا (You do not know; it may be that Allah brings about a new situation thereafter…65:1). These words signify that after estranged relations between the espouses, Allah may create a situation where the husband may recall the comforts he enjoyed in his wife’ s company, and realize the services offered by her in taking care of children and the home. On realizing this, he may be remorseful on what he did, retract the divorce and retain her as his wife. This is possible only if at the time of divorcing the limits prescribed by the Shari’ ah is kept in view and instead of making the divorce ba’ in, a revocable divorce is pronounced, in which case the husband has the right to retract it and retain the wife. Irrevocable divorce should not be resorted to unnecessarily because it terminates the marriage at once. Nor should three divorces should be pronounced, because after the third pronouncement, the husband does not have the right to retract, nor is it possible to renew the marriage contract, even if the divorced parties agree mutually.
 
+## AI Translation
+
+O Prophet, instruct the believers: when you intend to divorce women, divorce them with concern for their waiting period and count it accurately. Fear Allah, your Rabb. Do not force them from their homes, nor should they leave unless they commit blatant misconduct. These are Allah's limits; whoever transgresses them wrongs his own soul. You never know—perhaps Allah will bring about a change afterward.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then, if he wishes to divorce her, he can divorce her when she is clean from her menses, before he has sexual intercourse with her.
+
+**Classical tafsir:** Ibn Kathir notes: The verse indicates that divorce should be given during tuhr (when woman is not in her menstruation period), so that ‘iddah may start from her immediate menstruation period.
+
+**From the Sunnah:** The Prophet ﷺ was addressed first in this Ayah, to honor him, even though his Ummah is also being addressed in Allah's statement, that 'Abdullah bin 'Umar divorced his wife, during the lifetime of Allah's Messenger ﷺ, while she was menstruating. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

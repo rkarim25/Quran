@@ -190,6 +190,15 @@ A warning signal
 
 It is certainly a matter of regret that the attitude of harshness in address and conversation was something Islam never took to even against Kuffar, the rigid and hostile disbelievers. But, contemporary Muslims would not bat an eye and use it against other Muslims - not to say much about many of those who would congratulate themselves for having done this as some service to their religion. Innalillah ...
 
+## AI Translation
+
+O Prophet! Struggle against those who reject the truth and the those living in nifaq—outward acceptance with inward rejection, and be firm with them. Hell will be their home. What an evil destination!
+
+## AI Tafsir
+
+**Context:** Al-Amawi said in his Book on Battles, "Muhammad bin Ishaq narrated that Az-Zuhri said that 'Abdur-Rahman bin 'Abdullah bin Ka'b bin Malik narrated from his father, from his grandfather that he said, 'Among the hypocrites…
+
+**What this ayah teaches:** Allah also commanded him to be merciful with the believers who followed him, informing him that the destination of the those who reject the truth and hypocrites is the Fire in the Hereafter.
 ## Personal Reflections
 
 

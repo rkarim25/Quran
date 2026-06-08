@@ -88,6 +88,17 @@ That is, the prophets of Allah preach and convey the message of Allah only for t
 
 Some reports say that the prophet Musa (علیہ السلام) had a short conversation with the chief of the sorcerers and asked him if they would accept the faith in case he defeated them? He said that there was no question of their being defeated as they possessed such great magical powers that could not be overcome by any one. And in case 'you bring defeat to us we shall declare our faith openly in the presence of the Pharaoh'. (Mazhari and Qurtubi)
 
+## AI Translation
+
+The magicians came to Pharaoh, saying, “Shall we receive a reward if we prevail?”
+
+## AI Tafsir
+
+**What this ayah teaches:** The Magicians convene and change Their Ropes into Snakes before Musa Allah describes the conversation that took place between Fir'awn and the magicians he collected to defeat Musa, peace be upon him.
+
+**Classical tafsir:** Ibn Kathir notes: The Magicians convene and change Their Ropes into Snakes before Musa Allah describes the conversation that took place between Fir'awn and the magicians he collected to defeat Musa, peace be upon him.
+
+**From the Sunnah:** Allah describes the conversation that took place between Fir'awn and the magicians he collected to defeat Musa, peace be upon him.
 ## Personal Reflections
 
 

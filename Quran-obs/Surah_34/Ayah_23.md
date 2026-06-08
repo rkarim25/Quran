@@ -190,6 +190,17 @@ As for angels becoming nervous out of awe referred to in verse 22, its full desc
 
 And it appears in the Sahih of Muslim that Sayyidna Ibn ` Abbas ؓ reports from some Sahabi that the Holy Prophet ﷺ said, 'When our Rabb, may His name be exalted, gives a command, the angels hold in the Divine Throne start reciting tasbih (saying glory) for Him. Hearing the tasbih done by them, angels of the next lower level of the heavens follow suit until this chain of glorification reaches the lowest level that is the firmament of the world (making it a simultaneously recited tasbih by angels from all heavens). Then, they ask the angels who are close to the Throne, 'What did your Lord say?' This they tell them. Then, in the same manner, those of the lower heavens ask those of the upper the same question until this chain of question and answer extends up to the firmament of the world' - excerpt from a long Hadith. (Mazhari)
 
+## AI Translation
+
+No intercession benefits with Him except for those He permits. When dread is lifted from the hearts of those permitted to intercede, they will ask one another, "What did your Lord just say?" They will answer, "The truth—and He is the Most High, the All-Great."
+
+## AI Tafsir
+
+**What this ayah teaches:** The last part of Verse 22 deals with this group by saying, "And He (Allah) has no helper from among them." There was a third group of people who did not hold the idols as gods or helpers of Allah, but they maintained that these idols are so close to Allah that their intercession is always approved by Him, and whoever has the advantage of their intercession, his desires may well b…
+
+**Classical tafsir:** Ibn Kathir notes: Verse 23 has refuted this belief by saying, "And intercession before Him is of no benefit, but for the one whom He has permitted." The sense is that their assumption that idols are close to Allah is not correct.
+
+**From the Sunnah:** intercede except for him with whom He is pleased. it. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

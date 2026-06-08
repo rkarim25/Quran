@@ -162,6 +162,17 @@ Commentary
 
 The word: فِتْيَةٌ(fityah) in: إِنَّهُمْ فِتْيَةٌ (They were young men - 13) is the plural of: فَتٰی (fata) which means someone young. According to Tafsir scholars, this word indicates that the time ripe for correction of deeds and morals, and the inculcation of guidance and righteousness, is invariably the time when one is young. When old, formerly acquired deeds and morals become so deeply rooted that - no matter how evident becomes the truth against these - it is very difficult to break loose from their shackles. Those among the noble Companions who responded to and believed in the call of the Holy Prophet ﷺ were, after all, mostly young people. (Ibn Kathir, Abu Hayyan)
 
+## AI Translation
+
+We relate to you O Prophet their story in truth. They were youths who truly believed in their Rabb — the One who creates, owns, nurtures, and sustains, and We increased them in guidance.
+
+## AI Tafsir
+
+**What this ayah teaches:** According to Tafsir scholars, this word indicates that the time ripe for correction of deeds and morals, and the inculcation of guidance and righteousness, is invariably the time when one is young.
+
+**Classical tafsir:** Ibn Kathir notes: This indicates that this story was something recorded in the books of the People of the Book, and that it came before Christianity.
+
+**From the Sunnah:** As for the elders of Quraysh, most of them kept to their religion and only a few of them became Muslims. We have mentioned above the report from Ibn 'Abbas that the Quraysh sent a message to the Jewish rabbis in Al-Madinah to ask them for things with which they could test the Messenger of Allah ﷺ, and they told them to ask him about these young men, and about Dhu…
 ## Personal Reflections
 
 

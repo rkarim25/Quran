@@ -239,6 +239,15 @@ Ibn Abi Hatim recorded that Ibn 'Abbas said that the Messenger of Allah ﷺ said
 
 while the verse 150 describes the events followed by the arrival of the Prophet Musa (علیہ السلام) from the mount of Sinai. It described that the Prophet Musa (علیہ السلام) was extremely angry when he saw his people in this state of ignorance. It is reported that Allah had informed him of their perversion on the mount of Sinai. Now seeing them in this state with his own eyes filled him with indignation. First, he turned to his people and said: بِئْسَمَا خَلَفْتُمُونِي مِن بَعْدِي "How bad is the thing you have done in my absence". أَعَجِلْتُمْ أَمْرَ‌ رَ‌بِّكُمْ "How did you act in haste against the command of your Lord?" That is, you must have waited until the book of Allah came to you. Some of the commentators have said that it meant that they hastily decided that the Prophet Musa (علیہ السلام) was dead. Then he turned to the Prophet Harun (علیہ السلام) whom he has left among them as his deputy. He wanted to free his hand in order to grab him. He quickly put down the tablets of the Torah and grabbed the head of his brother. This has been termed as having dropped. The Arabic word used here is: القاء Ilga' which signifies dropping or throwing. This gives rise to a doubt that the Prophet Musa (علیہ السلام) showed disrespect to the tablets of the Torah by throwing or dropping them down. It is obvious that throwing the tablets of the Torah was great sin, and equally obvious is the fact that all the Prophets (علیہم السلام) are innocent and free of all sins. The implication of the verse, therefore, is that he put away the Tablets as quickly in order to free his hands, as seemed like having been dropped. The Holy Qur'an has described it by using this word as a gesture of warning. (Bayern a1-Qur'an)
 
+## AI Translation
+
+Upon Moses’ return to his people, furious and sorrowful, he said, “What an evil thing you committed in my absence! Did you want to hasten your Rabb’s torment?” Then he threw down the Tablets and grabbed his brother by the hair, dragging him closer. Aaron pleaded, “O son of my mother! The people overpowered me and were about to kill me. So do not make my enemies rejoice, nor count me among the wrongdoing people.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah states that when Musa returned to his people after conversation with his Lord, he became angry and full of regret.
+
+**Classical tafsir:** Ibn Kathir notes: The implication of the verse, therefore, is that he put away the Tablets as quickly in order to free his hands, as seemed like having been dropped.
 ## Personal Reflections
 
 

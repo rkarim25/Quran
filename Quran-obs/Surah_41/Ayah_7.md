@@ -131,6 +131,17 @@ The detailed discussion of whether or not the infidels have been asked to follow
 
 The third question which arises here is that the commandment for Salah is the most important of all the commandments of Islam which has not been mentioned here, so what is the wisdom behind making a special mention of Zakah? Qurtubi etc., have said in reply that Quraysh of Arabia were wealthy people, and they were known for their trait of giving alms and charity and helping the poor. But when somebody would become a Muslim, they would deprive him of such financial help and social assistance also. Zakah has been specially mentioned because the object is to denounce this practice. (Allah knows best)
 
+## AI Translation
+
+those who do not pay zakat—obligatory sharing of wealth to purify what remains—and deny the Akhirah."
+
+## AI Tafsir
+
+**Context:** Say: "I am only a human being like you. It is revealed to me that your Allah is One Allah, therefore take straight path to Him and obedience to Him, and seek forgiveness of Him.
+
+**What this ayah teaches:** The Zakah paid on one's wealth is so called because it purifies wealth, and it is a means of increasing it, blessing it and making it more beneficial, and a means of assisting one to use it in doing good deeds.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "They withheld the Zakah of their wealth." This is the apparent meaning according to many of the scholars of Tafsir, and this is the view favored by Ibn Jarir.
 ## Personal Reflections
 
 

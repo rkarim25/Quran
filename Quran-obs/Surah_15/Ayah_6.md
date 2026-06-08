@@ -94,6 +94,17 @@ It has been reported from Sayyidna Abu Ad-Darda' ؓ that he stood up on the Mimb
 
 Imam Al-Hasan Al-Basri (رح) said: A person with long plans, hopes and fancies is bound to ruin his proper conduct in life. (Al-Qurtubi)
 
+## AI Translation
+
+They say, “O you to whom the Reminder is revealed! You must be insane!
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, he is careful about everything he does and finds out whether it is Halal or Haram, permissible or forbidden. As for plans made to achieve religious objectives, or those made to guard the future interests of a people or country, they are not included here - because, that is a form of the concern for 'Akhirah itself.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, he is careful about everything he does and finds out whether it is Halal or Haram, permissible or forbidden.
+
+**From the Sunnah:** There have been big people before you who made big money, collected gold and things, built magnificent palaces and made long-hauled plans and projections for the future.
 ## Personal Reflections
 
 

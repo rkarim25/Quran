@@ -142,6 +142,15 @@ At the time of one act of ` ibadah (worship), engaging in another is an error
 
 The second line of conduct that stands proved from this event is that the time of an ` ibadah that is already bound with a certain hour should not be spent in getting busy with some other act of ` ibadah. It is obvious that the inspection of horses prepared for Jihad amounted to a significant act of worship in its own right. But, as this was not the time for this kind of ` ibadah, rather, was the time of the prescribed ` ibadah of Salah, therefore, Sayyidna Sulayman (علیہ السلام) counted this too as an error, for which he made amends. Hence, Muslim jurists say that the way it is not permissible to stay occupied with buying and selling activity after the اذان adhan (call for prayer) of Jumu'ah Salah, similarly, it is also not correct to stay occupied with some chore other than the preparation for the Jumu'ah Sarah, even if it happens to be the ` ibadah of reciting the Qur'an or making nafl salah.
 
+## AI Translation
+
+he said, "I love these fine things for the sake of remembering Allah"—until they passed out of sight.
+
+## AI Tafsir
+
+**What this ayah teaches:** As-Suddi said, "Their necks and hamstrings were struck with swords." Ali bin Abi Talhah reported that Ibn 'Abbas, may Allah be pleased with him, said, "He began patting the horses' heads and legs out of love for them." This is the view that was favored by Ibn Jarir.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "They were the kind of horses which stand on three legs and raise the fourth, and they were swift horses." This was also the view of several others among the Salaf.
 ## Personal Reflections
 
 

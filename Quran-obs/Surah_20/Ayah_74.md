@@ -148,6 +148,19 @@ These words which refer to the Islamic beliefs and the hereafter have been spoke
 
 It was the result of their brief association with Sayyidna Musa (علیہ السلام) that Allah, in an instant, revealed to them the mysteries of their new faith so that they gave scarce heed to Pharaoh's threats. Thus with the adoption of the religion of Allah they attained a state of sainthood which is given to others after long and assiduous exertions. Sayyidna Ibn ` Abbas and ` Ubaid Ibn ` Umair ؓ said it was a divine marvel that the magicians who started the day as infidels became saints before it ended. (Ibn Kathir)
 
+## AI Translation
+
+Whoever comes to their Rabb as an evildoer will certainly have Hell, where they can neither live nor die.
+
+## AI Tafsir
+
+**Context:** It was the result of their brief association with Sayyidna Musa (علیہ السلام) that Allah, in an instant, revealed to them the mysteries of their new faith so that they gave scarce heed to Pharaoh's threats.
+
+**What this ayah teaches:** Verily, whoever comes to his Lord as a criminal, then surely, for him is Hell, wherein he will neither die nor live (74)But whoever comes to Him as a believer, and has done righteous good deeds, for such are the high ranks (75)'Adn Gardens, under which rivers flow, wherein they will abide forever, and such is the reward of those who purify themselves .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Paradise, pour (water) over them. (Sahih Muslim) Paradise, which has the highest levels, the most tranquil rooms and the nicest homes. (Musnad Ahmad)
 ## Personal Reflections
 
 

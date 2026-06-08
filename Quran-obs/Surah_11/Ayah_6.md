@@ -139,6 +139,15 @@ As narrated by Sayyidna ` Abdullah ibn ` Umar ؓ and reported in the Sahih of Mu
 
 A lengthy Hadith narrated by Sayyidna ` Abdullah ibn Masud ؓ appearing in al-Bukhari and Muslim, reports the saying of the Holy Prophet ﷺ which is summarized as follows: ` Man goes through different stages before his birth. When the parts of his body are formed completely, Allah Ta` ala commands an angel who writes down four things about him. One: Deeds he will do. Two: Years of life. Even recorded there is the month, day, minute and breath count. Three: Death: Where would he die and where would he be buried? Four: Rizq: How much is his sustenance and how and where does it have to reach him?' (And that it stands written in the Preserved Tablet (al-lawh al-mahfuz) even before the creation of the heavens and the earth is not contrary to this).
 
+## AI Translation
+
+There is no moving creature on earth whose provision is not guaranteed by Allah. And He knows where it lives and where it is laid to rest. All is written in a perfect Record.
+
+## AI Tafsir
+
+**What this ayah teaches:** And no moving creature is there on earth but its provision is due from Allah.
+
+**Classical tafsir:** Ibn Kathir notes: This means that He knows where their journeying will end in the earth and where they will seek shelter when they wish to nest.
 ## Personal Reflections
 
 

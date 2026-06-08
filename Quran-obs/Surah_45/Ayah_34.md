@@ -201,6 +201,17 @@ Surah Aljathiyah
 
 Ends here
 
+## AI Translation
+
+It will be said, "This Day We will neglect you as you neglected the meeting of this Day of yours. Your home is the Fire, and you will have no helpers.
+
+## AI Tafsir
+
+**What this ayah teaches:** And your abode is the Fire, and there is none to help you.
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah means, Allah is the Almighty, Worthy of all praise; everything and everyone is subservient and in complete need of and dependent upon Him.
+
+**From the Sunnah:** So this Day, they shall not be taken out from there (Hell), nor shall they be returned to the worldly life (35)So all praise is due to Allah, the Lord of the heavens and the Lord of the earth, and the Lord of all that exists (36)And His is the majesty in the h… (al-Mustadrak)
 ## Personal Reflections
 
 

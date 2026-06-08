@@ -116,6 +116,15 @@ The above verses have described five events of earlier people so that present pe
 
 Of all the events of early people described in this chapter the next event is of prophet Musa (علیہ السلام) which has been described in some detail in the following verses because his miracles are larger in number and more prominent in their nature. Similarly, his people, the Israelite, were more obstinate and ignorant than other people of the world. In addition, these verses, 103-110 carry some injunctions and points of discussion.
 
+## AI Translation
+
+We did not find most of them true to their covenant. Rather, We found most of them truly rebellious.
+
+## AI Tafsir
+
+**What this ayah teaches:** The covenant mentioned here is the Fitrah that Allah instilled in them while still in their fathers' loins, and taking their covenant, that He is their Lord, King, and that there is no deity worthy of worship except Him,.
+
+**Classical tafsir:** Ibn Kathir notes: The verse, therefore, has said that Allah did not find most of the people true to this covenant.
 ## Personal Reflections
 
 

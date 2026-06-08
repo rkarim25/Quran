@@ -353,6 +353,17 @@ According to yet another story from the Sahih al-Bukhari, the Holy Prophet ﷺ h
 
 1. Bayan al-Qura'n.
 
+## AI Translation
+
+To Allah belongs whatever is in the heavens and whatever is on the earth. He forgives whoever He wills, and punishes whoever He wills. And Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**Context:** From the verse لَيْسَ لَكَ مِنَ الْأَمْرِ‌ شَيْءٌ (You have no authority in the matter) (128), the text returns to the main event of Uhud after a brief mention of the event of Badr in between.
+
+**What this ayah teaches:** And there is no victory except from Allah, the All-Mighty, the All-Wise (126)That He might cut off a part of those who disbelieve, or expose them to infamy, so that they retire frustrated (127)Not for you is the decision; whether He turns in mercy to (pardon) them or punishes them; verily, they are the wrongdoers (128)And to Allah belongs all that is in the heavens and all that…
+
+**Classical tafsir:** Ibn Kathir notes: Al-'Awfi said that Ibn 'Abbas said that the Ayah means, "All at once".
 ## Personal Reflections
 
 

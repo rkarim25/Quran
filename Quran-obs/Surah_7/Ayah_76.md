@@ -183,6 +183,19 @@ The famous Tafsir Kashshaf says: What an eloquent answer was given by the believ
 
 But, even this eloquent answer could not soften the disbelieving people of Thamud. They countered back coldly and arrogantly saying that they rejected what they had accepted. The lust of worldly life is merciless. So is the toxic elation of having wealth and power. May Allah Ta` ala keep all of us protected for they become invisible curtains before human eyes which would not let those seeing eyes see the obvious.
 
+## AI Translation
+
+The arrogant said, “We surely reject what you believe in.”
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me.")[21:25] and,
+
+**What this ayah teaches:** 'Abdur-Razzaq narrated that Ma'mar said that Az-Zuhri said that Abu Righal is the father of the tribe of Thaqif.
+
+**Classical tafsir:** Ibn Kathir notes: 'Abdur-Razzaq narrated that Ma'mar said that Az-Zuhri said that Abu Righal is the father of the tribe of Thaqif. It indicates that the condition of the those who reject the truth - that they were arrogant - was what they chose to do at their own discretion which was questionable and blame-worthy, and which finally became the cause of their punishment.
+
+**From the Sunnah:** The Messenger of Allah ﷺ passed by the area and ruins of Thamud when he went to Tabuk (in northern Arabia) during the ninth year of Hijrah.
 ## Personal Reflections
 
 

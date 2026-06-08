@@ -96,6 +96,17 @@ Commentary
 
 There are many verses of the Qur'an which contain warnings of punishment to the unbelievers. While the award of punishment is a certainty on the Day of Judgment, it is possible that it may be awarded in this world also - and even during the life time of the Holy Prophet ﷺ . And when Allah's wrath descends upon a people, it is not confined to sinners alone, but sometimes it afflicts virtuous people too, who may not be punished in the Hereafter and may even be compensated by extra rewards for the undeserved punishment which they suffered in this world. The Qur'an says اتَّقُوا فِتْنَةً لَّا تُصِيبَنَّ الَّذِينَ ظَلَمُوا مِنكُمْ خَاصَّةً (And beware of a punishment which shall not fall on the wrongdoers only - 8:25). In these verses, the Holy Prophet has been told by Allah to pray to Him that if His wrath were to descend upon the infidels in his life time, then He should be removed from their company. This prayer was suggested to the Holy Prophet ﷺ in spite of the fact that he was impeccable and infallible, the intention being that He should at all times remember Allah and beseech His mercy so as to increase his own reward in the Hereafter.
 
+## AI Translation
+
+then, my Rabb, do not count me among the wrongdoing people.”
+
+## AI Tafsir
+
+**What this ayah teaches:** And when Allah's wrath descends upon a people, it is not confined to sinners alone, but sometimes it afflicts virtuous people too, who may not be punished in the Hereafter and may even be compensated by extra rewards for the undeserved punishment which they suffered in this world.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** If You would show me that with which they are threatened.) meaning, 'if You punish them while I am witnessing that, then do not cause me to be one of them.' As was said in the Hadith recorded by Imam Ahmad and At-Tirmidhi, who graded it Sahih: (Musnad Ahmad, Jami' at-Tirmidhi) We have already stated, when discussing Isti'adhah (seeking refuge), that the Messenger of Allah ﷺ used to say,
 ## Personal Reflections
 
 

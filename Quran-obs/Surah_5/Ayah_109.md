@@ -155,6 +155,17 @@ No son of Adam will move a step on the Day of Qiyamah until he is asked five que
 
 Great is the mercy and affection of Allah Ta` ala. He puts us to a test and He Himself tells His people about the questions asked during the test. The task was done by the Holy Prophet ﷺ who told his Ummah how to appear in this test. Now, for them, there is nothing left to do but to resolve these questions, find their answers and solutions and keep that preserved (for the day of trial). So, if someone still fails, even after being told what will be in the test, fairly in advance, who else could be more deprived than him?
 
+## AI Translation
+
+The Day Allah will gather the messengers and say, “What response did you receive?” They will reply, “We have no knowledge ! You are indeed the Knower of all unseen.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely You have the full knowledge of all that is unseen).
+
+**Classical tafsir:** Ibn Kathir notes: Otherwise, real faith ('Iman) is a secret of the heart which no one can find out with any certitude without a Divine revelation.
+
+**From the Sunnah:** Al-A'mash said that Mujahid said about the Ayah,
 ## Personal Reflections
 
 

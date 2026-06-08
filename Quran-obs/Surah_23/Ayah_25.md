@@ -80,6 +80,15 @@ Allah tells us about Nuh, peace be upon him, whom He sent him to his people to w
 
 In the last benefit, ships and boats are also included, because they are also used in transportation وَعَلَيْهَا وَعَلَى الْفُلْكِ تُحْمَلُونَ (And on them and on the boats you are transported - 23:22). All types of mounts which are run with wheels may also be added to fulk (boats) because they render the same service.
 
+## AI Translation
+
+He is simply insane, so bear with him for a while.”
+
+## AI Tafsir
+
+**What this ayah teaches:** All types of mounts which are run with wheels may also be added to fulk (boats) because they render the same service. We have never heard of such a thing – i.e., sending a man to our forefathers' – their predecessors in times past.
+
+**Classical tafsir:** Ibn Kathir notes: All types of mounts which are run with wheels may also be added to fulk (boats) because they render the same service.
 ## Personal Reflections
 
 

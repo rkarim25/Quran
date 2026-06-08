@@ -160,6 +160,19 @@ This attitude of the Holy Prophet ﷺ was based on ijtihad or 'an opinion based 
 
 عَبَسَ وَتَوَلَّىٰ (He [ the Holy Prophet ﷺ frowned and turned his face, 80:1). The word ` abasa means 'he frowned' and the word tawalla means 'he turned aside'. Since the reference here is to the Holy Prophet ﷺ who himself is addressed, the verbs should have been in the second person: 'you frowned and you turned aside'. But the Holy Qur'an on this occasion uses the third person in order to maintain the honour of the Holy Prophet ﷺ ، as if this attitude were shown by some other person, and in a subtle way it alludes to the point that what the Holy Prophet ﷺ did was not befitting his high status. Then the next sentence وَمَا يُدْرِ‌يكَ (and what could tell you? ...80:3) alludes to the fact that the Holy Prophet ﷺ was excusable, because it did not come to his attention that the Companion is asking something whose effect will be certain and the effect of conversation with others is dubious. The second sentence abandons the third person, and switches to the second person in order to maintain the honour of the Holy Prophet ﷺ . Had he not been addressed in second person at all, it might have created the impression that he is not addressed directly because of his unapproved conduct, which would have been an unbearable pain and grief for the Holy Prophet ﷺ . Just as the third person in the first statement is meant to show respect to him, the second person in the following sentence is also meant to honor and console him.
 
+## AI Translation
+
+because the blind man came to him.
+
+## AI Tafsir
+
+**Context:** (He frowned and turned away.) "This was revealed about Ibn Umm Maktum, the blind man. He came to the Messenger of Allah ﷺ and began saying, 'Guide me.' At the time the Messenger of Allah ﷺ had a man with him who was one…
+
+**What this ayah teaches:** Because there came to him the blind man.)(3. Because there came to him the blind man.
+
+**Classical tafsir:** Ibn Kathir notes: This indicates that if an excusable person were to break any rule of etiquette unwittingly, he should not be reprimanded.
+
+**From the Sunnah:** He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him. He came to the Messenger of Allah ﷺ and began saying, 'Guide me.' At the time the Messenger of Allah ﷺ had a man with him who was one of the great leaders of the idolators.
 ## Personal Reflections
 
 

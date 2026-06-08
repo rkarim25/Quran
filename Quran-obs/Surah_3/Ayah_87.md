@@ -108,6 +108,17 @@ On a superficial view of the verse كَيْفَ يَهْدِي اللَّـهُ 
 
 The answer is that the withholding of guidance mentioned here is in accordance with common usage. For instance, some criminal when punished by a certain ruler may say, 'I have been given a special treatment by the ruler with his own hands.' And in answer to him, it is said: 'Why are we going to give a special treatment to such a criminal?' That is, there is just no special treatment called for in this case, while it does not mean that such a person cannot, in any way, become deserving of special treatment even if he behaved well. (Bayern a1-Qur'an)
 
+## AI Translation
+
+Their reward is that they will be condemned by Allah, the angels, and all of humanity.
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah guides not the people who are wrongdoer (86)They are those whose recompense is that on them (rests) the curse of Allah, of the angels and of all mankind (87)They will abide therein.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, Allah is Oft-Forgiving, ar-Rahim.) This Ayah indicates Allah's kindness, graciousness, compassion, mercy and favor on His creatures when they repent to Him, for He forgives them in this case.
+
+**From the Sunnah:** He later on became sorry and sent his people to, 'Ask the Messenger of Allah ﷺ for me, if I can repent.' Then, This is the wording recorded by An-Nasa'i, Al-Hakim and Ibn Hibban. (Sunan an-Nasa'i, al-Mustadrak)
 ## Personal Reflections
 
 

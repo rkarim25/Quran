@@ -122,6 +122,15 @@ Ibn Kathir has said: Though the dreams of both these prisoners were separate, an
 
 At the end, he told them that the interpretation of their dreams given by him was not arrived at by conjecture. It was Divine decree which cannot be averted. Commentators who have called the dreams de-scribed by these people as false and made-up, they have also said: When Sayyidna Yusuf (علیہ السلام) interpreted their dreams, they came up with the re-mark that they had just not seen any dream. They had simply made it up. Thereupon, Sayyidna Yusuf (علیہ السلام) said: قُضِيَ الْأَمْرُ‌ الَّذِي فِيهِ تَسْتَفْتِيَانِ (Destined is the matter you are asking about). In other words, it would mean: Whether you saw this dream, or did not, now the event will come to be as described - the purpose of which is that this is the punishment of the sin, of making up a false dream, committed by you, a punishment which has been identified in the interpretation of the dream.
 
+## AI Translation
+
+“O my fellow-prisoners! The first one of you will serve wine to his master, and the other will be crucified and the birds will eat from his head. The matter about which you inquired has been decided.”
+
+## AI Tafsir
+
+**What this ayah teaches:** As for one of you, he will pour out wine for his master to drink; and as for the other, he will be crucified and birds will eat from his head. As for the other, the crime against him will stand proved and he will be crucified and birds will eat from his head.
+
+**Classical tafsir:** Ibn Kathir notes: But, because of his prophetic compassion and clemency, he did not specifically mention as to who among the two will be hanged so that the person concerned may be spared from becoming obsessed by the very thought of it right from that time.
 ## Personal Reflections
 
 

@@ -146,6 +146,19 @@ Although the Jews who were the contemporaries of the Holy Prophet ﷺ ، did not
 
 The verse also suggests that no wonder if these people, whose forefathers denied Sayyidna Musa (علیہ السلام) ، should now be denying the Holy Prophet ﷺ .
 
+## AI Translation
+
+Moses came to you with clear proofs, then you worshipped the calf in his absence, wronging yourselves.
+
+## AI Tafsir
+
+**Context:** (They say, "We believe in what was sent down to us.") meaning, it is enough for us to believe in what was revealed to us in the Tawrah and the Injil, and this is the path that we choose, (while it is the truth confirming…
+
+**What this ayah teaches:** And when it is said to them (the Jews), "Believe in what Allah has sent down," they say, "We believe in what was sent down to us." And they disbelieve in that which came after it, while it is the truth confirming what is with them.
+
+**Classical tafsir:** Ibn Kathir notes: This means that since what was sent to Muhammad ﷺ conforms to what was revealed to the People of the Book, then this fact constitutes a proof against them.
+
+**From the Sunnah:** You killed them simply out of transgression, stubbornness and injustice with Allah's Messengers.
 ## Personal Reflections
 
 

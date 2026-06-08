@@ -214,6 +214,17 @@ And the word, الْآيَاتِ (al-ayat) could also mean the 'signs' of the mo
 
 Said in the last sentence of the verse was: لَعَلَّكُم بِلِقَاءِ رَ‌بِّكُمْ تُوقِنُونَ (so that you may be sure of meeting your Lord). This means that Allah Ta` ala has initiated and activated this whole universe and its astonishing system of operation so that by pondering over it you may come to believe in and become certain of the Hereafter ('Akhirah) and the Doomsday (Qiyamah). The reason is that once you have pondered over the creation of this universe and its wonderous system, any likelihood of doubting that it may be beyond the power of Allah Ta’ ala to resurrect human beings in the Hereafter simply cannot be entertained. And once we realize that it is within His power, and possible, and that it has been reported by no less a person than the one about whom it is universally settled that he never said anything in his whole life which was not the truth - then, there remains no room for doubt that this phenomena is real, actual and proven.
 
+## AI Translation
+
+Allah is the One who raised the heavens without visible pillars, then settled upon the Throne. He subjected the sun and moon, each running its course for a fixed term. He manages all affairs. He makes the signs clear so you may be certain you will meet your Rabb.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, if Allah subjected these to His power, then it is clear that He has also subjected all other heavenly objects.
+
+**Classical tafsir:** Ibn Kathir notes: This means that Allah Ta` ala has initiated and activated this whole universe and its astonishing system of operation so that by pondering over it you may come to believe in and become certain of the Hereafter ('Akhirah) and the Doomsday (Qiyamah).
+
+**From the Sunnah:** This fact is clear to those who correctly understand the Ayat and authentic Hadiths. (authentic hadith)
 ## Personal Reflections
 
 

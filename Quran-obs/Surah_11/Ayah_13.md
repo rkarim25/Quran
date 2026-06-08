@@ -128,6 +128,15 @@ In answer, it was said: If you really think so, that Muhammad ﷺ can make a Qur
 
 At this place, the Holy Qur'an has said that they should come up with ten Surahs like it. And in another verse it was also said: ` Then, bring a Sarah the like of this - al-Baqarah, 2:23.'
 
+## AI Translation
+
+Or do they say, “He has fabricated this Quran!”? Say, O Prophet, “Produce ten fabricated sûrahs like it and seek help from whoever you can—other than Allah—if what you say is true!”
+
+## AI Tafsir
+
+**What this ayah teaches:** So perchance you may give up a part of what is revealed unto you, and that your breast feels straitened for it because they say, "Why has not a treasure been sent down unto him, or an angel come with him" But you are only a warner.
+
+**Classical tafsir:** Ibn Kathir notes: So perchance you may give up a part of what is revealed unto you, and that your breast feels straitened for it because they say, "Why has not a treasure been sent down unto him, or an angel come with him" But you are only a warner.
 ## Personal Reflections
 
 

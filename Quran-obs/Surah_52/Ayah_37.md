@@ -107,6 +107,17 @@ This Hadith is collected in the Two Sahihs using various chains of narration. Ju
 
 { 1} This is an answer to one of the objections frequently raised by the disbelievers of Makkah against the prophethood of the Holy Prophet . They used to ask why he was chosen for messenger-ship, and not one of the outstanding chiefs of the tribe. The answer given in this verse is that the selection of prophets is the exclusive prerogative of Allah. He has the treasures of knowledge, and it is He who decides to whom they should be given. The attitude of those who raise objections against His decision is tantamount to claiming that the disposal of these treasures should have been in their hands, and they should have the decisive power to select prophets. (Muhammad Taqi Usmani)
 
+## AI Translation
+
+Or do they possess the treasuries of your Rabb? Or are they in control?
+
+## AI Tafsir
+
+**What this ayah teaches:** Then let their listener produce some manifest proof (38)Or has He only daughters and you have sons (39)Or is it that you ask a wage from them so that they are burdened with a load of debt (40)Or that the Unseen is with them, and they write it down (41)Or do they intend a plot?
+
+**Classical tafsir:** Ibn Kathir notes: Then let their listener produce some manifest proof (38)Or has He only daughters and you have sons (39)Or is it that you ask a wage from them so that they are burdened with a load of debt (40)Or that the Unseen is with them, and they write it down (41)Or do they intend a plot?
+
+**From the Sunnah:** This Hadith is collected in the Two Sahihs using various chains of narration.
 ## Personal Reflections
 
 

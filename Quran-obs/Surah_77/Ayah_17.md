@@ -80,6 +80,17 @@ Allah says,
 
 ثُمَّ نُتْبِعُهُمُ الْآخِرِ‌ينَ (Then We will cause the later ones to follow them....77:17) According to popular reading, Verse 17 purports to say that the present-day infidels, the people of Makkah, will receive punishment soon. They were punished and destroyed by Muslims in the Battle of Badr and so on. The difference between the punishment of former nations and the community of the Holy Prophet ﷺ is as follows: The former nations used to be destroyed by celestial punishment with all their habitations. The infidels in the community of the Holy Prophet ﷺ do not receive celestial punishment, because of the Holy Prophet's ﷺ special honour. They are punished by the weapons of Muslims. Furthermore, the destruction is not general. Only the obdurate criminal leaders are destroyed.
 
+## AI Translation
+
+And We will make later ones follow them.
+
+## AI Tafsir
+
+**What this ayah teaches:** Did We not destroy the ancients (16)So shall We make later generations to follow them (17)Thus do We deal with the criminals (18)Woe that Day to the deniers (19)Did We not create you from a despised water (20)Then We placed it in a place of safety (21)For a known period (22)So We did measure; and We are the best to measure (23)Woe that Day to the deniers (24)Have We not made the earth Kifat (a rec…
+
+**Classical tafsir:** Ibn Kathir notes: The earth is held in place with them so that it does not shake and sway.
+
+**From the Sunnah:** They were punished and destroyed by Muslims in the Battle of Badr and so on.
 ## Personal Reflections
 
 

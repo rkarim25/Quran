@@ -136,6 +136,17 @@ Letters should be written short, comprehensive, eloquent and effective
 
 Looking at the letter of Sayyidna Sulaiman (علیہ السلام) one cannot avoid noticing that it is so comprehensive that all important matters have been put together in a few sentences, maintaining the high standard of eloquence along with the royal grandeur in front of the infidels. At the same time perfected attributes of Allah Ta’ ala are also described along with an invitation towards Islam. The condemnation of conceit and arrogance is also noticeable. As a matter of fact, this letter is a specimen of the marvel of Qur'an. Sayyidna Qatadah ؓ has stated that it was the practice in letter writing by all the prophets to make it brief but at the same time ensuring that nothing mentionable is left out. (Ruh ul-Ma’ ani)
 
+## AI Translation
+
+It is from Solomon, and it reads: ‘In the Name of Allah—the the Rahman — mercy that encompasses all creation in this life, the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** How did he write the name of the addressee, it is not mentioned in the Qur'an.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, it is also in order if the name of the writer is written first and then Bismillah.
+
+**From the Sunnah:** Hence, it should be taken in that light and Muslims should try to follow the guidance provided in it for letter writing. Religious jurist Abu al-Layth has written in his Bustan that if someone starts with the name of the addressee, no one can question its permissibility, because this has also been the practice among the Muslims for long, and no one has objected to that.
 ## Personal Reflections
 
 

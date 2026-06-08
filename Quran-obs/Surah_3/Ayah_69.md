@@ -132,6 +132,17 @@ Verse 70, addressing the people of the Book, asks them as to why they disbelieve
 
 Proceeding further, Verse 71 admonishes them for confusing the real statement, that is, the prophecy about the prophethood of Muhammad ﷺ with the fictitious, that is, the interpolated statements or false exegesis. The crucial question being asked is as to why would they conceal the truth of the matter despite knowing the truth, and knowing that they are hiding it.
 
+## AI Translation
+
+Some of the People of the Book wish to mislead you. They mislead none but themselves, yet they fail to perceive it.
+
+## AI Tafsir
+
+**Context:** A party of the People of the Scripture wish to lead you astray. But they shall not lead astray anyone except themselves, and they perceive not (69)"O People of the Scripture!
+
+**What this ayah teaches:** Commentary Verse 69 exposes the cherished desire of the people of the Book to mislead Muslims away from the true faith they are on. Verse 70, addressing the people of the Book, asks them as to why they disbelieve in the signs of Allah, such as the verses in Torah and Injil which prove the prophethood of Muhammad ﷺ because the denial of his prophethood amounts to declaring these verses to be false…
+
+**Classical tafsir:** Ibn Kathir notes: However, when the day ended, they would revert to their old religion so that the ignorant people would say, "They reverted to their old religion because they uncovered some shortcomings in the Islamic religion." This is why they said next.…
 ## Personal Reflections
 
 

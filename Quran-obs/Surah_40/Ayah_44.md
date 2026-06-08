@@ -192,6 +192,15 @@ The people of Fir'awn are like foolish camels, stumbling into rocks and trees wi
 
 In verse 44, it was said: فَسَتَذْكُرُ‌ونَ مَا أَقُولُ لَكُمْ وَأُفَوِّضُ أَمْرِ‌ي إِلَى اللَّـهِ إِنَّ اللَّـهَ بَصِيرٌ‌ بِالْعِبَادِ (Soon you will remember what I am saying to you. And I entrust my matter with Allah. Surely, Allah has all (His) servants in sight.). This is what the believer from the House of Pharaoh said at the end of his address to his people inviting them to accept the message of truth. Here, it was said that, should they not listen to him within that point of time, there would come a time when the punishment would seize them, and they would remember what he had told them. But, the remembrance of that particular time will be useless. And when by virtue of this lengthy dialogue, advice and invitation, the 'iman or faith of this believer from the House of Pharaoh stood disclosed before these people, he realized that they might bring some harm to him, therefore, he said that he was leaving his case to rest with Allah, for He is the guardian and protector of His servants. Early tafsir authority, Muqatil says: When the people of the Pharaoh, as he had apprehended, went after him, he escaped towards the mountains and they could not catch him.
 
+## AI Translation
+
+You will remember what I say to you, and I entrust my affairs to Allah. Surely Allah is All-Seeing of all His servants."
+
+## AI Tafsir
+
+**Context:** (The Fire, they are exposed to it, morning and afternoon). But the question arises: this Ayah was undoubtedly revealed in Makkah, but they use it as evidence to prove that there will be torment in the grave during the pe…
+
+**What this ayah teaches:** And when by virtue of this lengthy dialogue, advice and invitation, the 'iman or faith of this believer from the House of Pharaoh stood disclosed before these people, he realized that they might bring some harm to him, therefore, he said that he was leaving his case to rest with Allah, for He is the guardian and protector of His servants.
 ## Personal Reflections
 
 

@@ -261,6 +261,17 @@ That which happened then has been described in:
 
 So when they saw him, they found him great and [ were so bewildered that they ] cut their hands [ that is, when cutting their fruit, they saw this object of wonder, the knife uncon-sciously ran over their hand - as it occasionally happens when one's thought is diverted to something else ] and said, 'Oh God! He is no human being. He is but a noble angel.' [ by which they meant that one exuding such light can only be an angel ].'
 
+## AI Translation
+
+When she heard about their gossip, she invited them and set a banquet for them. She gave each one a knife, then said to Joseph, “Come out before them.” When they saw him, they were so stunned by his beauty that they cut their hands, and exclaimed, “Good Allah! This cannot be human; this must be a noble angel!”
+
+## AI Tafsir
+
+**What this ayah teaches:** Others said that after they ate and felt comfortable, and after having placed citron in front of them, giving each one of them a knife, the wife of the 'Aziz asked them, "Would you like to see Yusuf" They said, "Yes." So she sent for him to come in front of them and when they saw him, they started cutting their hands.
+
+**Classical tafsir:** Ibn Kathir notes: This indicates the best and most perfect grade in this case, for Yusuf was youthful, beautiful and full of manhood.
+
+**From the Sunnah:** An authentic Hadith stated that the Messenger of Allah passed ﷺ by Prophet Yusuf, during the Night of Isra' in the third heaven and commented, (authentic hadith)
 ## Personal Reflections
 
 

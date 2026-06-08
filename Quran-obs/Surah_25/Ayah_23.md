@@ -188,6 +188,17 @@ Allah says:
 
 According to this interpretation, the phrase will mean that on the Dooms Day when the infidels will see the angels approaching them with chastisement, they will seek their pardon and plead to let them in the paradise. In response to their pleading the angels will reply حِجْرً‌ا مَّحْجُورً‌ا that is the Paradise is banned and prohibited for infidels. (Mazhari)
 
+## AI Translation
+
+Then We will turn to whatever good deeds they did, reducing them to scattered dust.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah tells us that the deeds which these idolators thought would bring them salvation will be of no avail to them, because they were not in accordance with the Shari'ah or Laws of Allah, whether in terms of sincere intention or in terms of following the Laws set out by Allah.
+
+**Classical tafsir:** Ibn Kathir notes: This day you shall be recompensed with the torment of degradation because of what you used to utter against Allah other than the truth.
+
+**From the Sunnah:** Paradise which you have been promised! We have been your friends in the life of this world and are (so) in the Hereafter. (authentic hadith) this referred to the words of the idolators.
 ## Personal Reflections
 
 

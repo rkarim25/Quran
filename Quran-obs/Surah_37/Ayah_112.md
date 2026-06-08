@@ -229,6 +229,17 @@ The same Ibn Kathir has also reported that someone from among the Jewish scholar
 
 In the light of these proofs, it is almost certain that Sayyidna Ismail (علیہ السلام) was the dhabih (the son Sayyidna Ibrahim (علیہ السلام) was commanded to slaughter). Allah is Pure and He knows best.
 
+## AI Translation
+
+We later gave him good news of Isaac—a prophet, and one of the righteous.
+
+## AI Tafsir
+
+**What this ayah teaches:** They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs. They were jealous of them, so they added this idea and changed the meaning of the phrase "only son" to mean 'the only son who is with you,' because Isma'il had been taken with his mother to Makkah.
+
+**Classical tafsir:** Ibn Kathir notes: They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs.
+
+**From the Sunnah:** The Muslims and the People of the Book agree, and indeed it is stated in their Book, that Isma'il, peace be upon him, was born when Ibrahim, peace be upon him, was eighty-six years old, and Ishaq was born when Ibrahim was ninety-nine years old.
 ## Personal Reflections
 
 

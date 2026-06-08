@@ -185,6 +185,15 @@ This verse instructs free women to observe Hijab in a particular manner, that is
 
 This submission makes it clear that the interpretation offered in this verse by ` Allamah Ibn Hazm and others - as different from the majority of scholars and in an effort to escape the doubt mentioned above - is something just no necessary. A doubt could have come up only when no arrangement was made for the protection of bondwomen.
 
+## AI Translation
+
+O Prophet! Ask your wives, daughters, and believing women to draw their cloaks over their bodies. In this way it is more likely that they will be recognized as virtuous and not be harassed. And Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Command of Hijab Here Allah tells His Messenger ﷺ to command the believing women – especially his wives and daughters, because of their position of honor – to draw their Jilbabs over their bodies, so that they will be distinct in their appearance from the women of the Jahiliyyah and from slave women.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Jawhari said: "The Jilbab is the outer wrapper." Ali bin Abi Talhah reported that Ibn 'Abbas said that Allah commanded the believing women, when they went out of their houses for some need, to cover their faces from above their heads with the Jilbab, leaving only one eye showing.
 ## Personal Reflections
 
 

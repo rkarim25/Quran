@@ -180,6 +180,19 @@ This is because if the heart is happy, then the face will be enlightened. As Ka'
 
 عَلٰي حُبِّهٖ (despite their love for it). This would mean that they give food to the needy while they themselves love it and desire it_ not that they eat to their fill and give the left-over food to the needy and poor. That feeding the poor and orphans is a form of worship and attracts reward is obvious. The word 'captive' refers to all prisoners, Muslim criminals, as well as infidels who are kept in prisons according to the principles of Shari` ah. It is the responsibility of the Islamic government to feed them. Anyone who feeds them is actually assisting the government and the public treasury. Therefore, feeding the prisoners, even Non-Muslims, is an act of reward. In the early days of Islam, especially, feeding the prisoners and taking care of them or protecting them was a responsibility that was shared by the general body of Muslims, as it happened with the prisoners of the Battle of Badr.
 
+## AI Translation
+
+Allah will shield them from that Day's horror and grant them radiance and joy,
+
+## AI Tafsir
+
+**Context:** Concerning the poor person and the orphan, an explanation of them and their characteristics has already preceded.
+
+**What this ayah teaches:** Anyone who feeds them is actually assisting the government and the public treasury.
+
+**Classical tafsir:** Ibn Kathir notes: In reference to the captive, Sa'id bin Jubayr, Al-Hasan and Ad-Dahhak all said, "He is the captive among the people of the Qiblah (i.e., the Muslims)." Ibn 'Abbas said, "At that time (when this Ayah was revealed) their (the Muslims') captives were idolators." Proof for this is that on the day of Bad… 'Ikrimah said, "They (captives) are the slaves." Ibn Jarir preferred this opinion since the Ayah gen…
+
+**From the Sunnah:** And whoever makes a vow to disobey Allah, then he should not disobey Him.) Al-Bukhari also recorded this Hadith from Malik.
 ## Personal Reflections
 
 

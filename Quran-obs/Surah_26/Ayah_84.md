@@ -136,6 +136,17 @@ Dailami has reproduced a narration on the authority of Sayyidna Ibn ` Abbas ؓ w
 
 Ibn ` Arabi has said that it is evident from this verse that the desire for a righteous deed which results in people's praise is allowed. Imam Ghazzali (رح) has ruled that the love for being praised and the position of respect is permissible under three conditions. One, when the object is not to proclaim oneself as superior to others and to degrade them to an insignificant position, but for the benefit in the Hereafter, so that others may be influenced to follow his example and try to emulate him. Second, when the object is not to earn false praise against a trait one does not possess, and desire that people should eulogize him for that. Third, when one does not have to indulge in a sin or negligence in the matter of faith in order to achieve it.
 
+## AI Translation
+
+Bless me with honourable mention among later generations.
+
+## AI Tafsir
+
+**What this ayah teaches:** Bestow Hukm on me, and join me with the righteous (83)And grant me an honorable mention in later generations (84)And make me one of the inheritors of the Paradise of Delight (85)And forgive my father, verily, he is of the erring (86)And disgrace me not on the Day when they will be resurrected (87)The Day whereon neither wealth nor sons will avail (88)Except him who brings to Allah a clean heart .
+
+**Classical tafsir:** Ibn Kathir notes: One, when the object is not to proclaim oneself as superior to others and to degrade them to an insignificant position, but for the benefit in the Hereafter, so that others may be influenced to follow his example and try to emulate him.
+
+**From the Sunnah:** Paradise to the those who reject the truth. (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

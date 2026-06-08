@@ -97,6 +97,15 @@ The same way there are differences of colour and hue. It is seen that babies of 
 
 While referring to this sign of the divine omnipotence, this verse has mentioned creation or many things, such as sky, earth, the difference of languages and dialects, difference of colour in humans, which are all signs of Divine wisdom and can be recognized and understood with little attention. Hence, it is added at the end of the verse:إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّلْعَالِمِينَ (Surely in this there are signs for the persons of knowledge - 30:22).
 
+## AI Translation
+
+One of His signs: creation of heavens and earth, and diversity of your languages and colours. In that are signs for people of knowledge.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, in that are indeed signs for men of sound knowledge (22)And among His signs is your sleep by night and by day, and your seeking His bounty.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -293,6 +293,15 @@ Towards the end of the verse, the need to observe caution has been commanded abo
 
 After that comes the second note of caution: (And take care of your oaths). In this sense of guarding an oath it would mean: If you have sworn to something, then do not break your oath without a legal or physical necessity. Some other respected scholars have said that it means that one should not hasten to give a sworn statement. One should guard and protect one's oath, as if kept in reserve. Unless it be under severe compulsion, one should not take oaths casually. (Mazhari)
 
+## AI Translation
+
+Allah will not call you to account for your thoughtless oaths, but He will hold you accountable for deliberate oaths. The penalty for a broken oath is to feed ten poor people from what you normally feed your own family, or to clothe them, or to free a bondsperson. But if none of this is affordable, then you must fast three days. This is the penalty for breaking your oaths. So be mindful of your oaths. This is how Allah makes things clear to you, so perhaps you will be grateful.
+
+## AI Tafsir
+
+**What this ayah teaches:** The outcome is that Allah does not hold you accountable for what is not countable in your oaths, that is, does not make it obligatory for you to make amends for them by paying Kaffarah (expiation).
+
+**Classical tafsir:** Ibn Kathir notes: Al-'Awfi said that Ibn 'Abbas said that the Ayah means a robe or garment for each poor person (of the ten). We also mentioned that the Laghw in oaths refers to one's saying, "No by Allah," or, "Yes, by Allah," unintentionally.
 ## Personal Reflections
 
 

@@ -161,6 +161,17 @@ This is the end of the Tafsir of Surat Ar-Rahman, all praise is due to Allah and
 
 مُتَّكِئِينَ عَلَىٰ رَ‌فْرَ‌فٍ خُضْرٍ‌ وَعَبْقَرِ‌يٍّ حِسَانٍ (...reclining on green cushions and marvelously beautiful mattresses....55:76) Qamus explains that the word رَ‌فْرَ‌ف rafraf means 'silk fabric greenish in colour' which is used in making carpets, pillows, cushions and other items of decoration. It is mentioned in the Arabic lexicon Sihah that they are embellished with arboreal and floral patterns, which, in Urdu, is called مُشَجَّر mushajjar. The noun عَبْقَرِ‌يٍّ 'abqariyy refers to 'every fine, beautiful fabric or material' and the adjective hisan [ beautiful ] qualifies it.
 
+## AI Translation
+
+Reclining on green cushions and splendid carpets.
+
+## AI Tafsir
+
+**What this ayah teaches:** And below these two, there are two other Gardens (62)Then which of the blessings of your Lord will you both deny (63)Mudhāmmatān (64)Then which of the blessings of your Lord will you both deny (65)In them (both) will be two springs Naddakhatan (66)Then which of the blessings of your Lord will you both deny (67)In them (both) will be fruits, and date palms and pomegranates (68)Then which of the ble…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** that this tent is thirty miles wide (Sahih Muslim)
 ## Personal Reflections
 
 

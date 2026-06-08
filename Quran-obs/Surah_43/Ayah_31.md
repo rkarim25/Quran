@@ -192,6 +192,19 @@ Allah Almighty has given two answers to this objection. The second answer is fou
 
 This is what the above verses mean, but in the context of replying to the 'mushrikin', many economic principles are laid down and indications are given by Allah Ta’ ala regarding the economic system of the world; their brief explanation is necessary here.
 
+## AI Translation
+
+They exclaimed: "If only this Quran was revealed to a great man from one of the two cities!"
+
+## AI Tafsir
+
+**Context:** (And they say) means, objecting to that which Allah has revealed to him, (Why is not this Qur'an sent down to some great man of the two towns?) meaning, why was this Qur'an not revealed to some man who was great and prom…
+
+**What this ayah teaches:** This is what the above verses mean, but in the context of replying to the 'mushrikin', many economic principles are laid down and indications are given by Allah Ta’ ala regarding the economic system of the world; their brief explanation is necessary here.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn Zayd said, "The word of Islam," which refers to the same thing suggested by the group.
+
+**From the Sunnah:** In as the Two Sahihs and elsewhere, it is reported that the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

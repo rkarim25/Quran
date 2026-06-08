@@ -184,6 +184,19 @@ The people of Fir'awn are like foolish camels, stumbling into rocks and trees wi
 
 This has been mentioned in verse 45 in the following words: فَوَقَاهُ اللَّـهُ سَيِّئَاتِ مَا مَكَرُ‌وا وَحَاقَ بِآلِ فِرْ‌عَوْنَ سُوءُ الْعَذَابِ (Then Allah saved him from the evils of what they designed, and the House of the Pharaoh was encircled by an evil punishment.), that is, Allah Ta’ ala saved the believer from the harm the people of Pharaoh planned to bring to him, but they themselves were seized by a severe punishment. First of all, Allah Ta’ ala, in His mercy, saved the believer belonging to the House of Pharaoh right here in this world from the aggressive designs of the people of the Pharaoh against him, the details of which have not been mentioned in the Qur'an. But, the words of the Qur'an seem to say simply that the people of the Pharaoh had made many plans to hurt and kill him, and when the people of Pharaoh were drowned, Allah Ta ala saved this believing servant of Allah along with Sayyidna Musa (علیہ السلام) . As for salvation in the Hereafter, it is fairly obvious.
 
+## AI Translation
+
+Allah protected him from the evil of their schemes. And Pharaoh's people were overwhelmed by an evil punishment:
+
+## AI Tafsir
+
+**Context:** (The Fire, they are exposed to it, morning and afternoon). But the question arises: this Ayah was undoubtedly revealed in Makkah, but they use it as evidence to prove that there will be torment in the grave during the pe…
+
+**What this ayah teaches:** First of all, Allah Ta’ ala, in His mercy, saved the believer belonging to the House of Pharaoh right here in this world from the aggressive designs of the people of the Pharaoh against him, the details of which have not been mentioned in the Qur'an.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** This chain of narration is Sahih according to the conditions of Al-Bukhari and Muslim, although they did not record it.
 ## Personal Reflections
 
 

@@ -152,6 +152,17 @@ Fulfillment of promise is a distinctive trait of the character of the prophets a
 
 Jurists are all agreed that a promise is a debt and its fulfillment obligatory, but only in the sense that its violation without a religious (شرعِی) excuse is a sin though no remedy can be sought for its breach in a court of law. In the language of the Jurists a debt is an obligation which is enforceable, while a promise is not.
 
+## AI Translation
+
+And mention Ishmael in the Book. He was true to his word—a messenger and prophet.
+
+## AI Tafsir
+
+**What this ayah teaches:** He (Isma'il) is the father of all of the Arabs of the Hijaz because he was true to what he promised.
+
+**Classical tafsir:** Ibn Kathir notes: He (Isma'il) is the father of all of the Arabs of the Hijaz because he was true to what he promised.
+
+**From the Sunnah:** Likewise, the Messenger of Allah ﷺ was true to his promise. Then, he commanded him to do so again, until he collected five hundred Dirhams.
 ## Personal Reflections
 
 

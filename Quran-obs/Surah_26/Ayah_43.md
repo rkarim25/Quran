@@ -118,6 +118,15 @@ Musa (علیہ السلام) said to them, "Throw you down what you are to throw
 
 Sayyidna Musa (علیہ السلام) said to the magicians ` You show the magic you wish to show'. With a cursory look one might be inclined to think that Sayyidna Musa (علیہ السلام) ordered them to perform their magic. But with a little deep thinking it becomes clear that actually it was not an order from Sayyidna Musa (علیہ السلام) to 'show magic, but the real intention was to demonstrate the fallacy of magic. This demonstration was not possible without the magic shown by them. Therefore, he asked them to show their tricks or magic. It is exactly like a zindiq (an extreme heretic) is asked to put forward his arguments, so that they may be countered. It is obvious that such an invitation cannot be treated as an acceptance of infidelity.
 
+## AI Translation
+
+Moses said to them, “Cast whatever you wish to cast.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Fir'awn's supporters, who sought and hoped that they would prevail over Musa, were themselves defeated. Therefore, he asked them to show their tricks or magic.
+
+**Classical tafsir:** Ibn Kathir notes: It is exactly like a zindiq (an extreme heretic) is asked to put forward his arguments, so that they may be countered.
 ## Personal Reflections
 
 

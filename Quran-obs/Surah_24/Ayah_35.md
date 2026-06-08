@@ -352,6 +352,17 @@ Benefits of olive oil
 
 شَجَرَ‌ةٍ مُّبَارَ‌كَةٍ زَيْتُونَةٍ (A blessed tree, the olive - 35.). This is an endorsement that olive and its tree is blessed by Allah and is beneficial and useful. Scholars have commented that Allah Ta’ ala has instilled many a benefits in it. Olive oil is used in the burning of lamps. Its light is the brightest and clearest as against any other oil. It is eaten as a fruit and its oil is used in cooking. The interesting part is that there is no need of any machine for the extraction of its oil. When the fruit is ripe, the oil comes out automatically. The Holy Prophet ﷺ has asked to eat and massage the body with olive oil. (Baghawi - Mazhari)
 
+## AI Translation
+
+Allah is the Light of the heavens and the earth. His light is like a niche holding a lamp; the lamp is in a crystal, shining like a radiant star, lit from the oil of a blessed olive tree neither eastern nor western — whose oil nearly glows without fire touching it. Light upon light. Allah guides whom He wills to His light. He sets parables for humanity, for He knows all things.
+
+## AI Tafsir
+
+**What this ayah teaches:** The heart of the believer in its purity and clarity is likened to a lamp in transparent and jewel-like glass, and the Qur'an and Shari'ah by which it is guided are likened to good, pure, shining oil in which there is no impurity or deviation.
+
+**Classical tafsir:** Ibn Kathir notes: The second view is that the pronoun refers to the believer, which is indicated by the context of the words and implies that the parable of the light in the heart of the believer is as a niche.
+
+**From the Sunnah:** To You be praise, You are the Light of the heavens and the earth and whoever is in them.) It was narrated that Ibn Mas'ud said, "There is no night or day with your Lord; the Light of the Throne comes from the Light of His Face." Ibn Abi Hatim recorded that Ibn 'Abbas commented on:
 ## Personal Reflections
 
 

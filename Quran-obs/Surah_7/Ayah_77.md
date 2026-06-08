@@ -225,6 +225,19 @@ At last came the second day and, true to the prophecy, everyone's face turned re
 
 In this state of theirs, a severe earthquake struck from down below the earth, and. from above tore in a horrendously shrill cry, an awesomely severe sound. This cry or sound caused everyone to die, instantly and simultaneously, fallen upside down, (like some dead bird landing on the ground on its breast - see ` Jathimin' in Mufradat al-Qur'an). As for the coming of the earthquake, it does find mention in verse 78 which appears above, that is: فَأَخَذَتْهُمُ الرَّ‌جْفَةُ (So, the earthquake seized them). The word:' الرَّ‌جْفَةُ (ar-rajfah) means earthquake.
 
+## AI Translation
+
+Then they killed the she-camel—defying their Rabb’s command—and challenged, “Bring us what you threaten us with, if you are one of the messengers.”
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me.")[21:25] and,
+
+**What this ayah teaches:** This she-camel of Allah is a sign unto you; so you leave her to graze in Allah's earth, and touch her not with harm, lest a painful torment should seize you (73)And remember when He made you successors (generations) after 'Ad and gave you habitations in the land, you build for yourselves palaces in plains, and carve out homes in the mountains.
+
+**Classical tafsir:** Ibn Kathir notes: 'Abdur-Razzaq narrated that Ma'mar said that Az-Zuhri said that Abu Righal is the father of the tribe of Thaqif.
+
+**From the Sunnah:** The Messenger of Allah ﷺ passed by the area and ruins of Thamud when he went to Tabuk (in northern Arabia) during the ninth year of Hijrah.
 ## Personal Reflections
 
 

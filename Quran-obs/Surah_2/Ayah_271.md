@@ -148,6 +148,15 @@ It should, however, be kept in mind that the preferability of observing secrecy 
 
 Immediately after the instruction of concealing the 'Sadaqat صداقات ', the holy verse says, وَيُكَفِّرُ‌ عَنكُم مِّن سَيِّئَاتِكُمْ (This will write off part of your sins). It does not mean that the expiation of evil-deeds is confined to the charity made in secret only. In fact, a charity made in public also carries the same benefit. But the reference to expiation here is in the context that even if someone feels a secret charity as useless in this world, he should not feel depressed, because Allah will forgive his sins, and that is a great gain for him.
 
+## AI Translation
+
+To give charity openly is good, but to give privately to the poor is better and will absolve your sins. Allah is aware of what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** And for the wrongdoers there are no helpers (270)If you disclose your Sadaqat (almsgiving), it is well; but if you conceal them and give them to the poor, that is better for you.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, you will gain goodness by your rank being raised, and your sins being forgiven.
 ## Personal Reflections
 
 

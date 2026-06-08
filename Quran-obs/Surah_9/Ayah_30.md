@@ -189,6 +189,17 @@ After that, it was said: ذَٰلِكَ قَوْلُهُم بِأَفْوَاه�
 
 Finally, it was said: یضَاهِئُونَ قَوْلَ الَّذِينَ كَفَرُ‌وا مِن قَبْلُ ۚ قَاتَلَهُمُ اللَّـهُ ۚ أَنَّىٰ يُؤْفَكُونَ (They (They resemble the earlier disbelievers in their saying. Be they killed by Allah, how far turned away they are! ). It means that the Jews and Christians, by calling prophets sons of Allah, became the same as disbelievers and Mushriks of past ages, for they used to say that the angels, and their idols, Lat and Manat, were daughters of God.
 
+## AI Translation
+
+The Jews say, “Ezra is the son of Allah,” while the Christians say, “The Messiah is the son of Allah.” Such are their baseless assertions, only parroting the words of earlier those who reject the truth. May Allah condemn them! How can they be deluded ?
+
+## AI Tafsir
+
+**What this ayah teaches:** And the Jews say: "Uzayr (Ezra) is the son of Allah," and the Christians say: "The Messiah is the son of Allah." That is their saying with their mouths, resembling the saying of those who disbelieved aforetime.
+
+**Classical tafsir:** Ibn Kathir notes: And the Jews say: "Uzayr (Ezra) is the son of Allah," and the Christians say: "The Messiah is the son of Allah." That is their saying with their mouths, resembling the saying of those who disbelieved aforetime.
+
+**From the Sunnah:** a Hadith via several chains of narration, from 'Adi bin Hatim, may Allah be pleased with him, who became Christian during the time of Jahiliyyah. (Sahih Muslim, Musnad Ahmad) This is how they worshipped them.) The Messenger of Allah ﷺ said to 'Adi,
 ## Personal Reflections
 
 

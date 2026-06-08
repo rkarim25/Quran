@@ -196,6 +196,17 @@ Al-Baghawi said in his Tafsir, "This was the view of 'Abdullah bin 'Umar, Sa'id 
 
 In the last verse, it was said: وَمِن ذُرِّ‌يَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِ مُبِينٌ (and among the progeny of both of them, some are good and some are utterly unjust to their own selves.- 37:113). Refuted through this verse is the false pride of the Jews that being among the progeny of these noble prophets (علیہم السلام) is in itself sufficient to bless one with merit and salvation. This verse openly declares that having lineal connection with a man of virtue is not a sufficient guarantee of one's salvation, in fact, this thing depends on one's own beliefs and deeds.
 
+## AI Translation
+
+We blessed him and Isaac as well. Some of their descendants did good, while others clearly wronged themselves.
+
+## AI Tafsir
+
+**What this ayah teaches:** They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs.
+
+**Classical tafsir:** Ibn Kathir notes: They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs.
+
+**From the Sunnah:** The Muslims and the People of the Book agree, and indeed it is stated in their Book, that Isma'il, peace be upon him, was born when Ibrahim, peace be upon him, was eighty-six years old, and Ishaq was born when Ibrahim was ninety-nine years old. The Quraysh had inherited the horns of the ram that Ibrahim sacrificed, and they had been passed down from generation to generation, until the Messenger of Allah ﷺ was sent.
 ## Personal Reflections
 
 

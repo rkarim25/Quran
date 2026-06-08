@@ -178,6 +178,19 @@ Therefore, at this place, no matter what sense is taken of Islam - the general o
 
 Details about this subject have already appeared under the commentary on the verse (3:19).
 
+## AI Translation
+
+Whoever seeks a way other than Islam, it will never be accepted from them, and in the Akhirah they will be among the losers.
+
+## AI Tafsir
+
+**Context:** Correspondingly, there are occasions when 'Islam' is used in that general sense, while there are other occasions when it is used exclusively to identify the Last Shari'ah which was revealed to the Last of the Prophets (ع…
+
+**What this ayah teaches:** Instead, Islam is the name of that particular religion which has reached us through the Holy Prophet, Muhammad al-Mustafa ﷺ .
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the faithful believer submits to Allah in heart and body, while the those who reject the truth unwillingly submits to Him in body only, since he is under Allah's power, irresistible control and mighty kingship that cannot be repelled or resisted.
+
+**From the Sunnah:** Therefore, faithful Muslims believe in every Prophet whom Allah has sent and in every Book He revealed, and never disbelieve in any of them.
 ## Personal Reflections
 
 

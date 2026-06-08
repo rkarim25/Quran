@@ -226,6 +226,15 @@ Incidentally, the Qur'anic word, Qanitin قَانِتِينَ meaning obedient o
 
 It was through this very verse that talking in salah was forbidden. Earlier, talking was permissible. The verse 239 has allowed a special way of offering prayers in the state of 'fear' i.e. the state of war. In such a state, one can offer salah نماز (prayer) while standing, with a condition that he can stand in one place without moving, and can make the gesture of sajdah سجدہ in a lower position than he makes in ruku' رکوع . However, salah cannot be performed while walking. If it is not possible to perform the prayer in the said manner, such as at the time of actual fighting, then, it is permissible to delay the prayer and to offer it later as qada' قضاء .
 
+## AI Translation
+
+If you are in danger, pray on foot or while riding. When you are safe, remember Allah as He taught you what you did not know.
+
+## AI Tafsir
+
+**Context:** Imam Ahmad reported that Zayd bin Arqam said, "One used to address his friend about various affairs during the prayer. Then when this Ayah was revealed:
+
+**What this ayah teaches:** Guard strictly (five obligatory) As-Salawat (the prayers) especially the Middle Salah.And stand before Allah with obedience (238)And if you fear (an enemy), (perform Salah) on foot or riding. The verse 239 has allowed a special way of offering prayers in the state of 'fear' i.e.
 ## Personal Reflections
 
 

@@ -139,6 +139,15 @@ Ibn Abi Hatim recorded that 'Uqbah bin 'Amir, may Allah be pleased with him, sai
 
 وَلَا يَكَادُ يُبِينُ (and can hardly express himself - 43:52). Although as a result of his own supplication, the stammering of Sayyidna Musa (علیہ السلام) had been removed by Allah Ta` ala, Fir'aun remembered his previous state only, and hence this aspersion. And it is possible also that by saying this, Fir'aun did not mean stammering in speech, but he meant that Sayyidna Musa (علیہ السلام) could not put forward adequate logical arguments to satisfy him, although this was nothing but a false accusation, because Sayyidna Musa (علیہ السلام) had completely overwhelmed Fir'aun through his arguments and proofs against which he had no answer. (Tafsir Kabir and Ruh-ul-Ma’ ani).
 
+## AI Translation
+
+Am I not better than this nobody who can hardly express himself?
+
+## AI Tafsir
+
+**What this ayah teaches:** But this is an obvious lie, may continued curses be upon him until the Day of Resurrection.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -130,6 +130,17 @@ Allah refined the wine of Paradise from the bad effects of the wine of this worl
 
 8. In verse 49: كَأَنَّهُنَّ بَيْضٌ مَّكْنُونٌ (as if they were hidden eggs). As obvious, the hurs of Jannah have been likened to hidden eggs in this verse. The simile was popularly recognized among the people of Arabia. The egg hidden under feathers remains safe from the pollution, therefore it is always neat and clean. Moreover, its color is yellowish white, which was deemed by the Arabs as the most attractive color for women. Then there are other commentators who say that this simile does not relate to eggs as such, instead, the simile relates to the membrane hidden in the egg, and the sense is that the skin of those women will be as soft as the membrane of the eggs. (Ruh-ul-Ma ani) Allah knows best.
 
+## AI Translation
+
+as if they were pristine pearls.
+
+## AI Tafsir
+
+**What this ayah teaches:** This is unlike the wine of this world, which causes colic and so on, because it is too watery. The egg hidden under feathers remains safe from the pollution, therefore it is always neat and clean.
+
+**Classical tafsir:** Ibn Kathir notes: This is unlike the wine of this world, which causes colic and so on, because it is too watery.
+
+**From the Sunnah:** Malik narrated that Zayd bin Aslam said, "White flowing wine," meaning, with a bright, shining color, unlike the wine of this earth with its ugly, repulsive colors of red, black, yellow and turbid shades, and other features which are repugnant to anyone of a s… Paradise, He states that it is free of these characteristics, as mentioned in Surat As-Saffat. (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -214,6 +214,17 @@ Commentators say that Bal'am ibn Ba’ ur was a great scholar and a mendicant wh
 
 This tells us that religious knowledge as culled from a book is not enough to guarantee the desired benefit. What is needed is action sought by the knowledge. This will not be possible unless one totally abstains from material greed and from the pursuit of carnal desires. Otherwise, man would not stay strong enough to resist against sacrificing something so dear as his religion on the altar of his desires. In our own time, we have the kind of people who would abandon their trice creed just to achieve their material and political goals. Some of them would go for the extra effort to dress up their secular beliefs and views with the garb of Islam. Such people less care about the grave Covenant between God and man, nor do they worry much about what would happen to them in the Akhirah. All this happens when one abandons his true and right creed and starts following the signals of the Satan.
 
+## AI Translation
+
+Have you not seen those who were given a portion of the Scriptures yet believe in idols and false gods and reassure those who reject the truth that they are better guided than those who have iman?
+
+## AI Tafsir
+
+**Context:** (Have you not seen those who claim sanctity for themselves?) was revealed about the Jews and Christians when they said, 'We are Allah's children and His loved ones.'" Ibn Zayd also said, "This Ayah was revealed concernin…
+
+**What this ayah teaches:** Nay, but Allah sanctifies whom He wills, and they will not be dealt with injustice even equal to the extent of a 'Fatīl' (49)Look, how they invent a lie against Allah, and enough is that as a manifest sin (50)Have you not seen those who were given a portion of the Scripture?
+
+**Classical tafsir:** Ibn Kathir notes: Commentators have explained have said that 'Jibt' comes from the Ethiopian language and refers to a magician while 'Taghut' signifies a soothsayer.
 ## Personal Reflections
 
 

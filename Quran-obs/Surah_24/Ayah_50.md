@@ -161,6 +161,15 @@ Commentary
 
 These verses were revealed on a special occasion. Tabari and others have related the incident saying that there was a hypocrite by the name Bishr, who had some dispute and enmity with a Jew over a piece of land. The Jew suggested to him to take their dispute before the Holy Prophet ﷺ for the judgment, but Bishr, the hypocrite knew well that he was on the wrong and if the dispute was taken to the Holy Prophet ﷺ he will definitely decide the case on merit, and he will lose the case. So, he did not agree with the suggestion and instead asked the Jew to take it to Ka'b Ibn Ashraf, another Jew. On this point these verses were revealed. In verse; أَفِي قُلُوبِهِم مَّرَ‌ضٌ (Is there any malady in their hearts - 50) the disease of firm infidelity or the doubt on prophethood have been negated to point out that this doubt and infidelity were not the real cause of evasion to take the dispute in the court of the Holy Prophet ﷺ . Although the infidelity and doubt on prophethood among the hypocrites is obvious and proven, but the underlying cause was that he (Bishr) knew well that if the case was placed before the Holy Prophet ﷺ ، he would definitely lose it, because he would decide the case on merit.
 
+## AI Translation
+
+Is there a sickness in their hearts? Or are they in doubt? Or do they fear that Allah and His Messenger will be unjust to them? In fact, it is they who are the true wrongdoers.
+
+## AI Tafsir
+
+**Context:** (And when they are called to Allah and His Messenger, to judge between them...) means, when they are asked to follow the guidance which Allah has revealed to His Messenger ﷺ, they turn away and are too arrogantly proud o…
+
+**What this ayah teaches:** Nay, it is they themselves who are the wrongdoers (50)The only saying of the faithful believers, when they are called to Allah and His Messenger, to judge between them, is that they say: "We hear and we obey." And such are the successful (51)And whosoever obeys Allah and His Messenger, fears Allah, and has Taqwa of Him, such are the successful .
 ## Personal Reflections
 
 

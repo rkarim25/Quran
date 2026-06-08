@@ -124,6 +124,15 @@ In the present verse (17), Iblis is said to have identified four sides from whic
 
 In the cited verses (13 18), the Shaytan has been commanded to leave the heavens twice. First, when it was said: فَاخْرُ‌جْ إِنَّكَ مِنَ الصَّاغِرِ‌ينَ (So, go. You are of the low.) and then, when it was said: فَاخْرُ‌جْ إِنَّكَ مِنَ الصَّاغِرِ‌ينَ (Get out of here, condemned ...). Here, the first saying is perhaps a proposal while the other is its implementation. (Abridged from Bayan a1-Qur'an)
 
+## AI Translation
+
+Allah said, “Get out of Paradise! You are disgraced and rejected! I will certainly fill up Hell with you and your followers all together.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Whoever of them (mankind) will follow you, then surely, I will fill Hell with you all. In fact, from the time of the blowing of the first Horn upto the entry into Paradise or Hell, it will be a long day with different things happening at different times in it.
+
+**Classical tafsir:** Ibn Kathir notes: ` Ulama say that this was a somber and highly cutting manifestation of the Divine wrath that, because of the rejection of Iblis, his view was so obstructed (hijab) that he became blind to the grandeur and awe of Allah Ta` ala and irreverence came down to settle on him all over.
 ## Personal Reflections
 
 

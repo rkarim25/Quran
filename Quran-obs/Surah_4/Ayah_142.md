@@ -194,6 +194,17 @@ Allah's statement,
 
 Maulana Ashraf ` Ali Thanavi (رح) has, in his Tafsir Bay-an al-Qur'an, taken up the question of 'standing up lazily' in the expression: قَامُوا كُسَالَ which appears in verse 142 saying: 'The laziness censured here is doctrinal laziness, (that is, slothfulness towards observance of the articles of faith due to lack of true conviction). However, laziness which is there despite correct beliefs stands excluded from the purview of this censure. Then, should this laziness be there due to some excuse, such as, sickness, fatigue or sleepiness, it is not even blameworthy. But, when without excuse, it is.'
 
+## AI Translation
+
+Surely the those living in nifaq—outward acceptance with inward rejection seek to deceive Allah, but He outwits them. When they stand up for prayer, they do it half-heartedly only to be seen by people—hardly remembering Allah at all.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, the hypocrites seek to deceive Allah, but it is He Who deceives them.
+
+**Classical tafsir:** Ibn Kathir notes: When they stand for prayer, they stand in laziness because they neither truly intend to perform it nor do they believe in it, have humility in it, or understand it.
+
+**From the Sunnah:** He sits watching the sun until when it goes down between the two horns of the devil, he stands up pecks out four Rak'ahs (for 'Asr) without remembering Allah during them except little.) Muslim, At-Tirmidhi and An-Nasa'i also recorded it. (Sahih Muslim, Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

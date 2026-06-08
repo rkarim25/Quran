@@ -281,6 +281,19 @@ Right from here comes a clear refutation of those who deny the authority of Hadi
 
 After that, Sayyidna Ismail (علیہ السلام) also gave an assurance to his great father from his own side by saying: سَتَجِدُنِي إِن شَاءَ اللَّـهُ مِنَ الصَّابِرِ‌ينَ (you will find me, insha۔ Allah, [ if Allah wills ] one of those who endure patiently."- 102). Just look at the extreme etiquette and modesty demonstrated by Sayyidna Ismail (علیہ السلام) in this brief statement of his. First of all, by saying "insha'Allah" (if Allah wills), he entrusted the matter with Allah Ta’ ala, and thus he eliminated any flair of having made a boastful claim through this promise. Then, he could have also said: 'You will, insha'Allah, find me enduring.' But, he did not say that. What he actually said was: "You will find me one of those who endure patiently." ). Thereby he released the hint that all this endurance and patience is no feat of his all alone, rather, there have been many more of those who have been enduring and patient - insha'Allah, he too will hope to become one of them. Thus, through this statement, he eliminated the possibility of any traces of pride, arrogance, egotism and conceit, rather replaced it with the finest in manners and modesty. (Ruh ul-Ma’ ani) From here we learn the lesson that no matter how much confidence one has in one's own self, he should never make tall claims that smack of pride and bragging. If there is a compulsive need to have to say something of this nature, due attention should be paid to the choice of words that are being said. The best course is to shift the focus from one's own person and say what shows trust in Allah. In manners and attitudes too, one should try not to cut loose from the norms of modesty to the best of one's ability.
 
+## AI Translation
+
+Then when the boy reached the age to work with him, Abraham said: "O my dear son! I have seen in a dream that I must sacrifice you. So tell me what you think." He replied: "O my dear father! Do as you are commanded. If Allah wills, you will find me steadfast."
+
+## AI Tafsir
+
+**Context:** Right from here comes a clear refutation of those who deny the authority of Hadith and who do not accept the existence of any revelation that is not recited.
+
+**What this ayah teaches:** Furthermore, the firstborn son has a special status that is not shared by subsequent children, so the command to sacrifice him is a more exquisite test.
+
+**Classical tafsir:** Ibn Kathir notes: They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs.
+
+**From the Sunnah:** The Muslims and the People of the Book agree, and indeed it is stated in their Book, that Isma'il, peace be upon him, was born when Ibrahim, peace be upon him, was eighty-six years old, and Ishaq was born when Ibrahim was ninety-nine years old.
 ## Personal Reflections
 
 

@@ -361,6 +361,17 @@ Secondly, he did not merely have to go through emotional stress and strain, or t
 
 Thirdly, when he knew that Allah had chosen him to be a prophet, he did not grow silent and secretive and lonely - as the fancy of our literary artist would have us believe -, but proclaimed the fact to others. Without such a proclamation, he would not at all have been able to perform the function of a prophet. In fact, it has been said that "the Friend of Allah" would not take his daily meals until he had found a guest to share it with him. In short, all we wish to point out is that the nature of prophethood is a degree of reality which we can understand only partially and that too only with the help of Divine Books, and hence it is not a sphere in which human fantasy may be allowed to roam at its sweet will.
 
+## AI Translation
+
+When Abraham's Rabb tested him with certain commands and he fulfilled them, Allah said, "I will make you a role model for humanity." Abraham asked, "And my descendants?" He said, "My covenant does not extend to wrongdoers."
+
+## AI Tafsir
+
+**What this ayah teaches:** Now, Verse 124 gives rise to a number of very fundamental questions:- The purpose of a trial is to test the aptitude and worthiness of a man for a certain function, but Allah is all-knowing and knows every existent inside out.
+
+**Classical tafsir:** Ibn Kathir notes: For instance, 'Abdur-Razzaq said that Ibn 'Abbas said, "Allah tested him with the rituals (of Hajj)." Abu Ishaq reported the same. As-Suddi said, "The Maqam of Ibrahim is a stone which Isma'il's wife put under Ibrahim's feet when washing his head." Al-Qurtubi mentioned this, but he considered it unauthentic, although others gave it prefrence, Ar-Razi reported it in his Tafsir from Al-Hasan Al-Basri,…
+
+**From the Sunnah:** Verily, among mankind who have the best claim to Ibrahim are those who followed him, and this Prophet (Muhammad ﷺ) and those who have believed (Muslims).
 ## Personal Reflections
 
 

@@ -100,6 +100,15 @@ In verse 48, it was said: وَالْيَسَعَ (and [ remember ] al-Yasa`). Sa
 
 Historical chronicles report that he is a cousin of Sayyidna Ilyas (علیہ السلام) and was his deputy. He lived in his company and was made a prophet after him. Details about him appear in the Bible, the Book of Kings I, Chapter 19, and Kings II, Chapter 2, and elsewhere. There he has been mentioned by the name of اِلِیشَع بن سافط (Elisha son of Safit).
 
+## AI Translation
+
+the Gardens of Eternity, whose gates will be open for them.
+
+## AI Tafsir
+
+**What this ayah teaches:** And verily, for those who have Taqwa is a good final return (49)'Adn Paradise, whose doors will be opened for them (50)Therein they will recline; therein they will call for fruits in abundance and drinks (51)And beside them will be Qasirat-at-Tarf, (and) of equal ages (52)This it is what you are promised for the Day of Reckoning (53)(It will be said to them)!
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

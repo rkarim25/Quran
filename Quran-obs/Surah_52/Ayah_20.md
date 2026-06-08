@@ -82,6 +82,15 @@ Allah the Exalted described the destination of the happy ones,
 
 يَوْمَ تَمُورُ‌ السَّمَاءُ مَوْرً‌ا (...the Day when the sky will tremble, a horrible trembling, ...52:9) The lexicographical denotation of the word mawr is violent shaking, or movement caused by unrest. This verse describes the violent movement of the heavens on the Day of Resurrection.
 
+## AI Translation
+
+They will recline on thrones, lined up facing one another. We will pair them with companions of beautiful eyes.
+
+## AI Tafsir
+
+**What this ayah teaches:** This verse describes the violent movement of the heavens on the Day of Resurrection.
+
+**Classical tafsir:** Ibn Kathir notes: This verse describes the violent movement of the heavens on the Day of Resurrection.
 ## Personal Reflections
 
 

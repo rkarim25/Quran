@@ -164,6 +164,17 @@ That the dream of economic equality had translated itself into its absence since
 
 These few examples from the contemporary scene show how deniers were themselves compelled to confirm the truth of the verse: كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنكُمْ (And Allah has given some of you preference over others in provision - 71) and that (Allah does what He wills). As for comments under this verse, the purpose was limited to pointing out that the dissimilarity in provision and wealth is very natural and very much in accordance with considerations for human good. That which remains is the discussion of the Islamic Principles of Distribution of Wealth and how they distinctly differ from capitalism and communism both. Insha’ Allah, this will appear under comments on: نَحنُ قَسَمْنَا بَيْنَهُم مَّعِيشَتَهُمْ (We have distributed among them their livelihood - Al-Zukhruf, 43:32) appearing in Ma` ariful-Qur’ an, Volume VII. An independent treatise on this subject entitled: 'Islam Ka Nizam-e-Taqsim-e-Daulat' written by this humble writer should also be sufficient for this purpose. [ This is also available in its Engish translation made by Professor Hasan Askari under the title: DISTRIBUTION OF WEALTH IN ISLAM from the publishers, Maktaba-e-Darul-Uloom, Korangi, Karachi, Pakistan ]
 
+## AI Translation
+
+And Allah has favoured some of you over others in provision. But those who have been much favoured would not share their wealth with those bondspeople in their possession, making them their equals. Do they then deny Allah’s favours?
+
+## AI Tafsir
+
+**What this ayah teaches:** As for comments under this verse, the purpose was limited to pointing out that the dissimilarity in provision and wealth is very natural and very much in accordance with considerations for human good.
+
+**Classical tafsir:** Ibn Kathir notes: Then, those who are so honored will by no means hand over their wealth and properties to those (captives of war) whom their right hands possess, so that they may be equal with them in that.
+
+**From the Sunnah:** Then, by making a categorical statement that the poor and needy have a right in the wealth of every Muslim, they were admitted as sharers, which is not supposed to be some favour done to them. (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -202,6 +202,15 @@ After that, he said: وَمَا أُرِ‌يدُ أَنْ أُخَالِفَك�
 
 Then, he said: إِنْ أُرِ‌يدُ إِلَّا الْإِصْلَاحَ مَا اسْتَطَعْتُ (I want to do nothing but to set things right as far as I can). And since, this effort too was not by his personal choice and volition, he further said: وَمَا تَوْفِيقِي إِلَّا بِاللَّـهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ (And my ability to do things comes from none but Allah. In Him alone I have placed my trust, and to Him alone I turn in humbleness).
 
+## AI Translation
+
+He said, “O my people! Consider if I stand on a clear proof from my Rabb and He has blessed me with a good provision from Him. I do not want to do what I am forbidding you from. I only intend reform to the best of my ability. My success comes only through Allah. In Him I trust and to Him I turn.
+
+## AI Tafsir
+
+**What this ayah teaches:** Tell me if I have a clear evidence from my Lord and He has given me a good sustenance from Himself (shall I corrupt it by mixing it with the unlawfully earned money).
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -269,6 +269,17 @@ In short, the parable means that in the wake of rain vegetation of all sorts gro
 
 وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ الْغُرُ‌ورِ‌ (And the worldly life is nothing but a material of delusion....57:20) The current phrase states concisely the reality of this world. Having seen and understood all that has been explained in the foregoing verses about the transitory nature of this world, sound and intelligent people can come to only one conclusion: that is, the life of this world is a material of delusion; it is not a capital that may be useful in odd times. Therefore, after knowing the reality of the worldly life and the punishment of the Hereafter, a reasonable man should not be over-involved in worldly pleasures, and should be eager to obtain the bounties of the Hereafter. This is what the next verses say.
 
+## AI Translation
+
+Know that this dunya is only play, distraction, adornment, boasting among yourselves, and rivalry in wealth and children—like rain whose growth delights farmers, then it withers and you see it yellow, then it crumbles to dust. In the Akhirah there is severe punishment, forgiveness from Allah, and His pleasure. The life of this dunya is nothing but the enjoyment of delusion.
+
+## AI Tafsir
+
+**What this ayah teaches:** The lahw [ amusement or pastime ] is a game or sport meant initially for amusement and enjoyment, but it may serve also some other subsidiary purpose like physical exercise.
+
+**Classical tafsir:** Ibn Kathir notes: The word la'ib (play) refers to a play that has no purpose at all, like the movements of little children.
+
+**From the Sunnah:** Paradise is nearer to any of you than the strap on his shoe, and so is the (Hell) Fire. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

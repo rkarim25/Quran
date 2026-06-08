@@ -318,6 +318,17 @@ The Day of the Battle of Badr was the Day of Distinction
 
 In this verse, the day of Badr has been called یَوم اَلفُرقَان Yowm al-Furgan (the day of distinction between the true and the false). The reason is that Muslims scored a clear victory at Badr and the disbelievers faced a disgraceful defeat. Though, this happened as a ground reality on that day, yet it was, by extension, a day of decision also, the ultimate decision between disbelief and Islam.
 
+## AI Translation
+
+Know that whatever you take as spoils, one-fifth belongs to Allah, the Messenger, near relatives, orphans, the poor, and stranded travelers—if you truly believe in Allah and in what We sent down on Our servant on the day the two armies met at Badr. Allah has power over all things.
+
+## AI Tafsir
+
+**Context:** Allah says, 'Adhere to what We legislated for you, such as the ruling about one-fifth of the war spoils, if you truly believe in Allah, the Last Day and what We have revealed to Our Messenger ﷺ.' In the Two Sahihs, it is…
+
+**What this ayah teaches:** Ibrahim An-Nakha'i, Al-Hasan bin Muhammad bin Al-Hanifiyyah, Al-Hasan Al-Basri, Ash-Sha'bi, 'Ata' bin Abi Rabah, 'Abdullah bin Buraydah, Qatadah, Mughirah and several others, all said that the share designated for Allah and the Messenger is one and the same.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ali bin Abi Talhah and Al-'Awfi reported that Ibn 'Abbas said, "Badr is Yawm Al-Furqan; during it, Allah separated between truth and falsehood." Al-Hakim collected this statement.
 ## Personal Reflections
 
 

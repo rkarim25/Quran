@@ -123,6 +123,15 @@ Commentary
 
 لِمَ تَسْتَعْجِلُونَ بِالسَّيِّئَةِ قَبْلَ الْحَسَنَةِ (why do you seek evil to come sooner before good? - 27:46). Sayyidna Salih (علیہ السلام) is referring here to the demand of the infidels that he should bring the divine torment to them in this world, so that they may know his truthfulness. Therefore, "evil" in this sentence stands for torment, while "good" refers to their repentance and invoking divine mercy. It, therefore means, "Why are you asking me to bring the divine punishment before you repent?"
 
+## AI Translation
+
+He urged the rejecting the truth group, “O my people! Why do you seek to hasten the torment rather than grace? If only you sought Allah’s forgiveness so you may be shown mercy!”
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, "evil" in this sentence stands for torment, while "good" refers to their repentance and invoking divine mercy. Why do you seek to hasten the evil before the good Why seek you not the forgiveness of Allah, that you may receive mercy?
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, "evil" in this sentence stands for torment, while "good" refers to their repentance and invoking divine mercy.
 ## Personal Reflections
 
 

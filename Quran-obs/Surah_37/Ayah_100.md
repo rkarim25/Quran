@@ -174,6 +174,17 @@ Al-Baghawi said in his Tafsir, "This was the view of 'Abdullah bin 'Umar, Sa'id 
 
 He said: رَ‌بِّ هَبْ لِي مِنَ الصَّالِحِينَ (0 my Lord, bless me with a righteous son."- 100). His prayer was answered and Allah Ta’ ala gave him the good news of the birth of a son.
 
+## AI Translation
+
+My Lord! Bless me with righteous offspring."
+
+## AI Tafsir
+
+**What this ayah teaches:** Grant me (offspring) from the righteous.) meaning, obedient children, in compensation for his people and relatives whom he had left. Grant me (offspring) from the righteous.
+
+**Classical tafsir:** Ibn Kathir notes: They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs.
+
+**From the Sunnah:** The Muslims and the People of the Book agree, and indeed it is stated in their Book, that Isma'il, peace be upon him, was born when Ibrahim, peace be upon him, was eighty-six years old, and Ishaq was born when Ibrahim was ninety-nine years old. The Quraysh had inherited the horns of the ram that Ibrahim sacrificed, and they had been passed down from generation to generation, until the Messenger of Allah ﷺ was sent.
 ## Personal Reflections
 
 

@@ -118,6 +118,17 @@ When warn, warn with wisdom!
 
 Yet another aspect of this event needs to be mentioned here. Let this slip of Sayyidna Dawud (علیہ السلام) be whatever it was, it was a matter between him and his Lord who could have alerted him to it even directly through a revelation. But, rather than do something of this nature, why was a particular method used when the case of a dispute was sent in his court to alert him thereby? The truth of the matter is that this method invites deliberation. It helps us realize that it provides guidance for those who are engaged in preaching and bidding the Fair and forbidding the Unfair. Those who do their duty in this field should know that the conduct of a person is not to be corrected casually. It takes a lot of wisdom to do it. To alert someone to his error, it is better to take to a method that helps the concerned person realize his error on his own, without having recourse to warn him verbally. For that purpose, it is more effective to use such examples as may convey the message without hurting the addressee in the least.
 
+## AI Translation
+
+We forgave him that. He will have closeness to Us and an honourable destination.
+
+## AI Tafsir
+
+**What this ayah teaches:** Those who do their duty in this field should know that the conduct of a person is not to be corrected casually.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** The evidence for it is the report recorded by Imam Ahmad from Ibn 'Abbas, may Allah be pleased with him, who said; "The prostration in Surah Sad is not one of the obligatory prostrations; I saw the Messenger of Allah ﷺ prostrating in this Surah." This was also… (Sahih al-Bukhari, Musnad Ahmad) he asked Mujahid about the prostration in Surah Sad. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

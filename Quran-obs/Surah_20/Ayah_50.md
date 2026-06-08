@@ -87,6 +87,15 @@ In other words, "If the matter is as you say, then what happened to those people
 
 Sayyidna Musa (علیہ السلام) reminded the Pharaoh, at the first place, of those acts of Allah Ta` ala which are obviously done by Him alone and about which no one else could claim that he has performed them. The Pharaoh totally unable to refute this argument, and in his confusion asked Sayyidna Musa (علیہ السلام) a question which was designed to entangle him into giving a reply that would greatly offend the Egyptians. The question was: how did the people of bygone ages stand who all worshipped idols, and what was their fate? The Pharaoh's purpose was that if Sayyidna Musa (علیہ السلام) replied (as the Pharaoh surmised he would) that they were all misguided and deserving of Hell, then he could instigate his people against the latter. But the reply which Sayyidna Musa (علیہ السلام) gave was so wise and discreet that the Pharaoh's evil design was completely frustrated.
 
+## AI Translation
+
+He answered, “Our Rabb is the One Who has given everything its distinctive form, then guided it.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Fir'awn said: "Who then, O Musa, is the Lord of you two (49)[Musa] said: "Our Lord is He Who gave to each thing its form and nature, then guided it aright.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, He did not give man the form of a wild beast, nor did He give wild beasts the form of the dog.
 ## Personal Reflections
 
 

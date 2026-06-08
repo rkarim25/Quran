@@ -156,6 +156,17 @@ Injunction [ 2]
 
 وَرَبَّكَ فَكَبِّرْ (..and pronounce the greatness of your Lord...74:3) It means: "Proclaim the greatness of your Lord both orally and practically. The attribute rabb (Lord) has been used in this context because it is itself the effective cause of the injunction, in that He is the Sustainer, Cherisher and Nourisher of the entire world. He alone is worthy of Kibriya'. The word takbtr literally signifies 'to say Allahu Akbar '. This includes takbir of tahrimah in the beginning of prayers and other takbirs also. Takbir is recited outside the prayers as well, such as in adhan and iqamah. There is no indication in the Qur'an that this injunction specifically refers to uttering Allahu Akbar to commence the prayers.
 
+## AI Translation
+
+Magnify your Rabb alone.
+
+## AI Tafsir
+
+**What this ayah teaches:** And your Lord is the Most Generous.
+
+**Classical tafsir:** Ibn Kathir notes: There is no indication in the Qur'an that this injunction specifically refers to uttering Allahu Akbar to commence the prayers.
+
+**From the Sunnah:** It has been confirmed in the Sahih Al-Bukhari and Sahih Muslim on the authority of Abu Salamah that Jabir bin 'Abdullah informed him that he heard the Messenger of Allah ﷺ speaking about the time period (of the pause in) revelation. (Sahih al-Bukhari, Sahih Muslim) from Abu Salamah bin 'Abdur-Rahman that Jabir bin 'Abdullah informed him that he heard the Messenger of Allah ﷺ saying, (Musnad Ahmad)
 ## Personal Reflections
 
 

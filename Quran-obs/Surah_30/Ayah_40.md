@@ -179,6 +179,15 @@ Ruling
 
 It is extremely contemptible for a person who extends a gift to someone that he expects a return for it, which is forbidden in this verse. But it is morally desirable for the one who receives a gift from someone, that he tries to give a gift to the former on his own accord, whenever he finds a suitable occasion. This was exactly the practice of the Holy Prophet ﷺ . He used to give present to the person who gave him one. (Qurtubi on authority of Sayyidah ` A'ishah ؓ . However, it should be avoided to give him an impression that the gift is being given in return of his own.
 
+## AI Translation
+
+Allah created you, provides for you, will cause you to die, then revive you. Can any associate-god do any of that? Exalted is He above what they associate.
+
+## AI Tafsir
+
+**What this ayah teaches:** Whoever gives out money in the hope that it will bring back something more, then it is not worthy of reward in the sight of Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Since, according to a large number of scholars, usury was prohibited in Madinah, while the present verse is Makkan, the word riba used here cannot mean usury or interest.
 ## Personal Reflections
 
 

@@ -313,6 +313,17 @@ The second distinguishing feature of this community is that they 'believe in All
 
 Towards the end of the verse, it has been said about the people of the Book that there are some Muslims among them. This refers to those who had confirmed the prophethood of our Holy Prophet ﷺ such as, Sayyidna ` Abdullah ibn Sal-am ؓ and others.
 
+## AI Translation
+
+You are the best community ever raised for humanity—you encourage good, forbid evil, and believe in Allah. Had the People of the Book believed, it would have been better for them. Some of them are faithful, but most are rebellious.
+
+## AI Tafsir
+
+**What this ayah teaches:** You are the best of peoples ever raised up for mankind; you enjoin Al-Ma'ruf (all that Islam has ordained) and forbid Al-Munkar (all that Islam has forbidden), and you believe in Allah. This is because they disbelieved in the Ayat of Allah and killed the Prophets without right.
+
+**Classical tafsir:** Ibn Kathir notes: This is because they disbelieved in the Ayat of Allah and killed the Prophets without right.
+
+**From the Sunnah:** This is a well-known Hadith about which At-Tirmidhi said, "Hasan", and which is also narrated from Mu'adh bin Jabal and Abu Sa'id. (Musnad Ahmad, Jami' at-Tirmidhi) the same Hadith with another chain of narration, and this Hadith meets the criteria of Muslim in his Sahih. (Sahih Muslim, Musnad Ahmad)
 ## Personal Reflections
 
 

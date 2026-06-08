@@ -152,6 +152,17 @@ It means that whatever services are needed to a king or an aristocrat according 
 
 وَلَهَا عَرْ‌شٌ عَظِيمٌ (And she has a great throne - 23) Literal meaning of ` Arsh (عَرش) is throne of the empire. A narration is attributed to Sayyidna Ibn ` Abbas ؓ ، ' that the length of the throne of Bilqis was eighty yards, its breadth was forty yards and height thirty yards. It was profusely decorated with pearls, red rubies, topaz and olivine, and its legs were studded with precious stones and pearls. Its curtains were made of silk and fine cloth. The throne was secured within seven buildings, one within the other, all well protected and locked.
 
+## AI Translation
+
+Indeed, I found a woman ruling over them, who has been given everything she needs, and who has a magnificent throne.
+
+## AI Tafsir
+
+**What this ayah teaches:** Even if these narrations are correct, it does not corroborate permissibility to marry a jinni woman, because Bilqis herself was not a jinni, though her mother might have been one.
+
+**Classical tafsir:** Ibn Kathir notes: Some people have expressed doubt on the question, because they thought the jinns are not capable of reproducing like the humans.
+
+**From the Sunnah:** the Prophet ﷺ forbade killing four kinds of animals: ants, bees, hoopoes and the sparrow hawks. (Musnad Ahmad, Sunan Abi Dawud) Here this subject is irrelevant, because the father of Bilqis, who married the jinni woman, was not a Muslim. (Sahih Muslim)
 ## Personal Reflections
 
 

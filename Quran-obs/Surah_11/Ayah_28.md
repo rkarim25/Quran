@@ -138,6 +138,17 @@ In short, taking poor people to be lowly was ignorance on their part. In reality
 
 Returning to the ignorant thought expressed by the objectors, we see that it has been initially refuted in the third verse (29). It has been said that a prophet does not fancy anyone's wealth or property. He takes no compensation for his service or good counsel to people. His compensation is with Allah alone. Therefore, the rich and the poor are equal in his sight. Let the rich not be scared about their wealth for no one would start asking for it once they become believers.
 
+## AI Translation
+
+He said, “O my people! Consider if I stand on a clear proof from my Rabb and He has blessed me with a mercy from Himself, which you fail to see. Should we then force it on you against your will?
+
+## AI Tafsir
+
+**What this ayah teaches:** Tell me, if I have a clear proof from my Lord, and a mercy (prophethood) has come to me from Him, but that (mercy) has been obscured from your sight. From here it also stands proved that it has never been permissible, in any period of a prophet, that people should be compelled to become believers.
+
+**Classical tafsir:** Ibn Kathir notes: In fact, a little thought would show that this is how it should be - that the rasul of men should be a man so that men find it comfortable to learn their religion from him.
+
+**From the Sunnah:** Suppose we were to believe, then we understand that we too will be taken as Muslims, like them and equal to them and, in rows of prayers as well as in other meetings, we will have to sit with them as equals.
 ## Personal Reflections
 
 

@@ -210,6 +210,17 @@ An act of Allah who has perfected every thing. - 27:88
 
 Sun' means skillful act, and 'itqan' means to make perfect and firm. Apparently this sentence is related to all the preceding subjects wherein Allah Ta` ala's omnipotence and marvelous creations are described, where the alteration of day and night is mentioned, and the blowing of Sur and resulting conditions of the Doomsday are related. It is to emphasize that all these situations should not amaze and astonish any one, because their Creator is not a man or an angel having limited knowledge and power, but the Lord of all the worlds. But if this sentence is read as referring only to the adjacent preceding sentence تَرَ‌ى الْجِبَالَ تَحْسَبُهَا جَامِدَةً (And you see the mountains (at present) taking them as fixed - 27:88) then it would mean that the phenomenon about the mountains, that they look stationary, whereas in reality they are moving, is not something astonishing, because all these happenings are not beyond the power of Allah Ta` ala, who is All Powerful.
 
+## AI Translation
+
+Now you see the mountains, thinking they are firmly fixed, but they are travelling just like clouds. That is the design of Allah, Who has perfected everything. Surely He is All-Aware of what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** The work of Allah, Who perfected all things, verily, He is well-acquainted with what you do (88)Whoever brings a good deed, will have better than its worth; and they will be safe from the terror on that Day (89)And whoever brings an evil deed, they will be cast down on their faces in the Fire.
+
+**Classical tafsir:** Ibn Kathir notes: Based on this principle, the verse means that the mountains will seem, on the Doomsday, as if they are fixed, but it will be an illusion for an onlooker, because in reality they will be moving.
+
+**From the Sunnah:** after a little while, you will see a major event which will destroy the House [the Ka'bah], and such and such will happen." Then he said, "The Messenger of Allah ﷺ said: (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -126,6 +126,15 @@ From the sky mountains (of clouds) having hail in them - 43.
 
 Here the word سَمَاء is purported for clouds, and Jibal جِبَالٍ (mountains) for big masses of clouds, while hails are called Barad.
 
+## AI Translation
+
+Allah alternates the day and night. Surely in this is a lesson for people of insight.
+
+## AI Tafsir
+
+**What this ayah teaches:** The vivid flash of its (clouds) lightning nearly blinds the sight (43)Allah causes the night and the day to succeed each other.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

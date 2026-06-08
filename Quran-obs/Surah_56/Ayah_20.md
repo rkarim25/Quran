@@ -182,6 +182,17 @@ This is the narration that Abu Ya'la collected, and Al-Hafiz Ad-Diya' said, "Thi
 
 لَا يُنزِفُونَ nor will they be intoxicated...56:19). The Arabic verb is derived from nazf, the root-meaning of which being 'the well became empty, all the water having been taken out of it.' Here it means 'the spring of his brain or mind or senses became exhausted.'
 
+## AI Translation
+
+Any fruit they choose,
+
+## AI Tafsir
+
+**What this ayah teaches:** This Ayah is a proof that we are allowed to choose the fruits that we prefer and wish to eat. Some said that the former means earlier (believing) nations, while the later refers to this Ummah.
+
+**Classical tafsir:** Ibn Kathir notes: Some said that the former means earlier (believing) nations, while the later refers to this Ummah.
+
+**From the Sunnah:** He considered it supported by the saying of Allah's Messenger ﷺ: And a few of those will be from the later ones.), this news became hard for the Companions of the Prophet ﷺ.
 ## Personal Reflections
 
 

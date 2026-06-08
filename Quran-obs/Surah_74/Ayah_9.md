@@ -166,6 +166,17 @@ Injunction [ 6]
 
 Having given these few injunctions to the Holy Prophet, the verses further refer to the Hereafter and its horrors. The word naqur means 'trumpet' and the verb nuqira means 'to blow into the trumpet so that it makes a loud high sound'. After stating that the Day of Doom will be very horrible for all the infidels, a particular arrogant and conceited disbeliever has been described. He was a great mischief-maker and the gravity of his punishment will befit the enormity and gravity of his sins.
 
+## AI Translation
+
+that Day will be brutally hard—
+
+## AI Tafsir
+
+**What this ayah teaches:** The word naqur means 'trumpet' and the verb nuqira means 'to blow into the trumpet so that it makes a loud high sound'. Truly, that Day will be a Hard Day – far from easy for the those who reject the truth.) he made a moaning sound and then he fell down dead.
+
+**Classical tafsir:** Ibn Kathir notes: The word naqur means 'trumpet' and the verb nuqira means 'to blow into the trumpet so that it makes a loud high sound'.
+
+**From the Sunnah:** It has been confirmed in the Sahih Al-Bukhari and Sahih Muslim on the authority of Abu Salamah that Jabir bin 'Abdullah informed him that he heard the Messenger of Allah ﷺ speaking about the time period (of the pause in) revelation. (Sahih al-Bukhari, Sahih Muslim) from Abu Salamah bin 'Abdur-Rahman that Jabir bin 'Abdullah informed him that he heard the Messenger of Allah ﷺ saying, (Musnad Ahmad)
 ## Personal Reflections
 
 

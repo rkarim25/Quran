@@ -214,6 +214,19 @@ Injunction [ 1]
 
 فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ‌ (Therefore, as for orphan, do not oppress him,...93:9). The word qahr means 'to treat people who are less powerful in an unfair and cruel way'. In the present context, the verse means: 'Since you were a poor orphan, and Allah sheltered you, do not oppress the orphan.' [ In words, 'do not seize their wealth by force and squander it. Do not scorn them, humiliate them or despise them. Rather, you should be kind and gentle to them.'] As a result, the Holy Prophet ﷺ emphasised that the orphan be treated kindly and gently, and has forbidden any hurting attitude towards them. The Holy Prophet ﷺ is reported to have said that the best house of a Muslim is the one in which there is an orphan who is treated kindly, and with love and affection. The worst house is the one in which there is an orphan who is treated badly. [ This is transmitted by Bukhari in Al-Adab-ul- Mufrad, and by Ibn Majah and Baghawi, as quoted by Mazhari ].
 
+## AI Translation
+
+So do not oppress the orphan—
+
+## AI Tafsir
+
+**Context:** Al-'Awfi reported from Ibn 'Abbas, "When the Qur'an was revealed to the Messenger of Allah ﷺ, Jibril was delayed from coming to him for a number of days (on one occasion).
+
+**What this ayah teaches:** The Holy Prophet ﷺ is reported to have said that the best house of a Muslim is the one in which there is an orphan who is treated kindly, and with love and affection.
+
+**Classical tafsir:** Ibn Kathir notes: The word qahr means 'to treat people who are less powerful in an unfair and cruel way'.
+
+**From the Sunnah:** this Hadith. (Sahih al-Bukhari, Sahih Muslim) Therefore, the Messenger of Allah ﷺ was affected by this.
 ## Personal Reflections
 
 

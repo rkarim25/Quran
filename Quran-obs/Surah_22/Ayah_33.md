@@ -112,6 +112,17 @@ The Benefits of the Sacrificial Camels
 
 ثُمَّ مَحِلُّهَا إِلَى الْبَيْتِ الْعَتِيقِ (Then their place of sacrifice is by the Ancient House - 22:33) Here الْبَيْتِ الْعَتِيقِ includes the entire precincts of haram, as was the case in the previous verse where the word Al-Masjid Al-Haram was used for the entire area of haram, and mahill (place) means the place of slaughtering the animals of hady. Thus the entire haram is declared as the slaughtering place of the animals of hady. The meaning of the verse is that the hady (animals nominated for sacrifice during Hajj) may be slaughtered within, and not outside the area of haram which includes Mina and all other places of Makkah. (Ruh ul Ma ani)
 
+## AI Translation
+
+You may benefit from sacrificial animals for an appointed term, then their place of sacrifice is at the Ancient House.
+
+## AI Tafsir
+
+**What this ayah teaches:** Thus it is, and whosoever honors the Sha'a'ir of Allah, then it is truly from the Taqwa of the hearts (32)In them are benefits for you for an appointed term, and afterwards they are brought for sacrifice to the 'Atiq House .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** In Sunan Ibn Majah, it was recorded from Abu Rafi' that the Messenger of Allah sacrificed two castrated, fat, horned rams. (Sahih al-Bukhari, Jami' at-Tirmidhi) According to a report recorded by Muslim from Jabir, the Messenger of Allah ﷺ said: (Sahih Muslim)
 ## Personal Reflections
 
 

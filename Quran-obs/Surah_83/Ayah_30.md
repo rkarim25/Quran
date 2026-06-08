@@ -88,6 +88,17 @@ Surah At-Tatfif
 
 Ends here
 
+## AI Translation
+
+wink at one another when passing them,
+
+## AI Tafsir
+
+**What this ayah teaches:** Whenever they would pass by the believers, they would wink at each other about them, meaning in contempt of them. Whenever they would pass by the believers, they would wink at each other in contempt of them.
+
+**Classical tafsir:** Ibn Kathir notes: In other words, they would mock them and despise them.
+
+**From the Sunnah:** May Allah salvage the Muslims from this painful scourge.
 ## Personal Reflections
 
 

@@ -183,6 +183,17 @@ Except him who did wrong, then after (doing) evil replaced (it) with good, then 
 
 The miracle of the staff of Sayyidna Musa (علیہ السلام) was mentioned in the verse prior to this, where it was also stated that when the staff turned into serpent, Sayyidna Musa (علیہ السلام) himself started running out of fear. The other miracle of illuminative hand of Sayyidna Musa (علیہ السلام) is related in the verse next to above referred verse. Then why this exception is mentioned in between two verses relating to miracles, and whether this exception is snapped from the subject (munqati`) or is it adjoining (muttasil)? The commentators have different view points on this subject. Some have declared it as snapped from the subject. In that case the verse will read as that in the previous verse it was stated that messengers do not get frightened, then it was also mentioned, by the way, as to who are the ones who should get frightened. They are those who have committed any sin, but later repented and sought Allah's pardon and performed good deeds. Although Allah Ta’ ala would pardon their sins, but even then there would be possibility of traces of sins being left over. It is for this reason that they always remain fearful of Allah. But If the exception is regarded adjoining with the subject, then the meaning of the verse would be that Allah's messengers do not get frightened except those who have committed some trifle or minor mistake and have repented on that. In that situation such trifle sins are forgiven. But the actual position is that even if there were some minor slips by the messengers, they were not regarded as sins - neither small nor big. Although they looked like sins but factually they were errors of ijtihad. According to this interpretation, this exception is an allusion toward the incident of the Egyptian who was killed by Sayyidna Musa (علیہ السلام) by error of judgment. Although this error was pardoned by Allah Ta’ ala, yet its effect remained with Musa I leaving some fear of the incident. Had this incident not have occurred, there would not have been any fear of the sort.
 
+## AI Translation
+
+And, although their hearts were convinced the signs were true, they still denied them wrongfully and arrogantly. See then what was the end of the corruptors!
+
+## AI Tafsir
+
+**What this ayah teaches:** Musa and the End of Fir'awn Here Allah tells His Messenger Muhammad ﷺ about what happened to Musa, peace be upon him, how Allah chose him, spoke with him and gave him mighty, dazzling signs and overwhelming proof, and sent him to Fir'awn and his people, but they denied the proof, disbelieved in him and arrogantly refused to follow him.
+
+**Classical tafsir:** Ibn Kathir notes: Then He commanded him to throw down the stick that was in his hand, so that He might show him clear proof that He is the One Who is able to do all things, whatever He wills.
+
+**From the Sunnah:** But If the exception is regarded adjoining with the subject, then the meaning of the verse would be that Allah's messengers do not get frightened except those who have committed some trifle or minor mistake and have repented on that.
 ## Personal Reflections
 
 

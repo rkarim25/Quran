@@ -110,6 +110,19 @@ Verses 21 and 22 tell us about the great reward and ranks these successful peopl
 
 Their Lord gives them the happy news of Mercy from Him, and Pleasure, and of Gardens having an everlasting bliss for them, where they shall dwell forever. Surely, 'it is Allah with whom there is a great reward.
 
+## AI Translation
+
+Their Rabb gives them good news of His mercy, pleasure, and Gardens with everlasting bliss, to stay there for ever and ever. Surely with Allah is a great reward.
+
+## AI Tafsir
+
+**Context:** Ali bin Abi Talhah reported that Ibn 'Abbas said, "This Ayah was revealed about Al-'Abbas bin 'Abdul-Muttalib, for when he was captured in the battle of Badr, he said, 'If you rushed before us to embrace Islam, perform H…
+
+**What this ayah teaches:** They are the successful (20)Their Lord gives them glad tidings of mercy from Him, and His being pleased (with them), and of Gardens (Paradise) for them wherein are everlasting delights (21)They will dwell therein forever. These actions – maintaining and serving Allah's House – will not benefit them with Allah because they associate others with Him.
+
+**Classical tafsir:** Ibn Kathir notes: These actions – maintaining and serving Allah's House – will not benefit them with Allah because they associate others with Him.
+
+**From the Sunnah:** They used to talk about this by night while shunning the Qur'an and the Prophet ﷺ.
 ## Personal Reflections
 
 

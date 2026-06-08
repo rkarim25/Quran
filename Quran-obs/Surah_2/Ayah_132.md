@@ -204,6 +204,19 @@ A man keeps doing the kind of good deeds for which Paradise has been promised an
 
 We have said that there is no contradiction involved, for some texts of this hadith mention a proviso too - "as it appeared to people." That is to say, the first of these two men appeared in the eyes of the onlookers to be performing good deeds, while in fact he was doing just the opposite; similarly, the second man had from the outset been doing what would make him worthy of Paradise, though people thought him to be a sinner. (Ibn Kathir) We conclude this discussion with the remark that the man who has been steadfast in doing good deeds, should trust the divine promise, rely on the usual way of Allah with His creatures, and hope that through the grace of Allah he would depart from this world in this blessed state.
 
+## AI Translation
+
+This was the counsel Abraham and Jacob gave their children: "Allah has chosen for you this deen — the way of life aligned with divine guidance — so do not die except in full submission to Him."
+
+## AI Tafsir
+
+**Context:** Abu Al-'Aliyah and Qatadah said, "This Ayah (2:130) was revealed about the Jews who invented a practice that did not come from Allah and that defied the religion of Ibrahim." Allah's statement,
+
+**What this ayah teaches:** This means that these Prophets loved these words so much that they preserved them until the time of death and advised their children to adhere to them after them. Consequently, each of these religions - whether one calls it Judaism or Christianity or something else - must in its essence be Islam, in the general sense of the word - namely, total submission to Allah.
+
+**Classical tafsir:** Ibn Kathir notes: This means that these Prophets loved these words so much that they preserved them until the time of death and advised their children to adhere to them after them.
+
+**From the Sunnah:** be a Muslim)!" He said, "I have submitted myself (as a Muslim) to the…
 ## Personal Reflections
 
 

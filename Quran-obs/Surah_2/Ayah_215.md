@@ -166,6 +166,17 @@ Rulings
 
 The statement about spending the surplus' العفو (al-'afw), that which is extra to needs, has been interpreted as an obligatory injunction by the blessed Companion Abu Dharr al-Ghifari and others ؓ . According to them, it is not permissible to hold in one's possession any money or materials surplus to needs even after paying of zakah and fulfilling all rights due; it is necessary (wajib) to give everything extra to needs as charity (sadaqah). However, the majority of Companions, their successors (the Tabi` in) and the great imams of the Faith interpret the Qur'anic verses in question to mean that whatever has to be spent in the way of Allah should be surplus to needs. It does not mean that one has to give in charity (sadaqah) everything surplus to need as something necessary or wajib. Moreover, this later position is what the consistent practice of the blessed Companions proves.
 
+## AI Translation
+
+They ask you what they should spend. Say, "Whatever good you spend is for parents, relatives, orphans, the poor, and travellers. Whatever good you do, Allah knows it."
+
+## AI Tafsir
+
+**Context:** Muqatil bin Hayyan said that this Ayah was revealed about the voluntary charity. The Ayah means, 'They ask you (O Muhammad ﷺ) how they should spend,' as Ibn 'Abbas and Mujahid have stated.
+
+**What this ayah teaches:** The Qur'anic answer to the first question shows that the second part of the question, that is, where should they spend, has been given more importance and answered frontally and clearly. Another rule of conduct which emerges from this verse is that even the gift given or food served to parents and other near of kin, if the intention is to obey Allah Almighty in doing so, will be included under spe…
+
+**Classical tafsir:** Ibn Kathir notes: Anyway, what has to be realized is that the religious injunctions described in this section as answers to some questions asked by the noble Companions carry a significance of their own.
 ## Personal Reflections
 
 

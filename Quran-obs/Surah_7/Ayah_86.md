@@ -159,6 +159,15 @@ Prophet Shu'ayb forbade his people from setting up blockades on the roads, sayin
 
 In the last sentence of verse 86, it was said: وَاذْكُرُ‌وا إِذْ كُنتُمْ قَلِيلًا فَكَثَّرَ‌كُمْ ۖ وَانظُرُ‌وا كَيْفَ كَانَ عَاقِبَةُ الْمُفْسِدِينَ. (And remember the time when you were few, then He increased you in number. And look, how was the fate of mischief makers). The twin aspects of persuasion and intimidation were employed to warn these people. The first was persuasion when they were reminded of the blessing of Allah who increased their insignificant numbers to become a large nation, or changed their economic weakness into need-free financial strength. Then, to chasten them through intimidation, it was said that they could do much better if they had a look at the sad end of peoples who had engineered disorder on the earth. The peoples of Nuh, ` Ad, Thamud and Lut (علیہم السلام) were examples of so many different punishments, which should help them understand their own situation and make the correction needed.
 
+## AI Translation
+
+And do not lie in ambush on every road—threatening and hindering those who believe in Allah from His Path and striving to make it crooked. Remember when you were few, then He increased you in number. And consider the fate of the corruptors!
+
+## AI Tafsir
+
+**What this ayah teaches:** The first was persuasion when they were reminded of the blessing of Allah who increased their insignificant numbers to become a large nation, or changed their economic weakness into need-free financial strength. But you later on became mighty because of your large numbers.
+
+**Classical tafsir:** Ibn Kathir notes: See the torment and punishment they suffered, because they disobeyed Allah and rejected His Messengers.
 ## Personal Reflections
 
 

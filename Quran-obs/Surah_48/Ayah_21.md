@@ -160,6 +160,17 @@ Thereafter, Allah the Exalted and Most Honored sent down this Ayah about that in
 
 وَأُخْرَ‌ىٰ لَمْ تَقْدِرُ‌وا عَلَيْهَا قَدْ أَحَاطَ اللَّـهُ بِهَا (And (there are) other (victories) that have not come within your power as yet, (but) Allah has encompassed them...." (48:21). This verse embodies a prophecy that Muslims will achieve many more great victories after the victory of Khaibar. But Allah says that they were unable to achieve them at that time; they would happen in future. Among these victories, Makkah was the first one to be achieved. Therefore, some scholars refer this to the victory of Makkah. However, the wordings are general and refer to all the victories that will be achieved till the end of the world (Mazhari).
 
+## AI Translation
+
+And there are other victories not yet within your reach that Allah has already encompassed. Allah is capable of everything.
+
+## AI Tafsir
+
+**What this ayah teaches:** They would not have found any helper or supporter, because they were fighting Allah, His Messenger ﷺ and His Faithful Party.
+
+**Classical tafsir:** Ibn Kathir notes: Al-'Awfi reported that Ibn 'Abbas said that it refers to the conquest of Khaybar. Qatadah said that this part of the Ayah refers to the conquest of Makkah, and this opinion was preferred by Ibn Jarir.
+
+**From the Sunnah:** Good News of continuous Muslim Victories until the Day of Resurrection (Sahih Muslim) that Ibn 'Abbas commented on the Ayah, (Sunan Abi Dawud)
 ## Personal Reflections
 
 

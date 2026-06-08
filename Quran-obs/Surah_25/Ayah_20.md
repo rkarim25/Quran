@@ -142,6 +142,17 @@ There is great wisdom in economic difference between people
 
 وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ فِتْنَةً (And We have made some of you test for some others - 25:20). There is an allusion in the verse that Allah Ta ala had complete power to make all humans wealthy, prosperous, healthy and of high status. But this way nobody would have been poor, weak or sick - a position which would have created innumerable social problems resulting in chaos and confusion. Therefore, Allah Taala has made some rich and some poor, some healthy and some sick, some strong and some weak, and some with high status and some others unknown. This way every single individual is at test because of his or her peculiar placing in society and community. The rich and healthy people are at test for their thankfulness, while poor and sick persons are on trial for their patience. For this very reason the Holy Prophet has advised that whenever you see someone who is wealthier, healthier, stronger or higher in status you should at once try to turn towards those who are lower than you in wealth, health, strength and status so that instead of feeling jealous, which is a sin, you should thank Allah Ta’ ala for giving you better placing in this world as against those who have less than you. (Bukhari, Muslim, Mazhari)
 
+## AI Translation
+
+We never sent any messenger before you O Prophet, who did not eat food and go about in market-places. We have made some of you a trial for others. Will you not then be patient? And your Rabb is All-Seeing.
+
+## AI Tafsir
+
+**What this ayah teaches:** And We have made some of you as a trial for others; will you have patience And your Lord is Ever All-Seer .
+
+**Classical tafsir:** Ibn Kathir notes: The gist of the reply is that because of your ignorance and mental block you have raised the issue that if he were really a prophet, then he should have possessed a great deal of material wealth and gardens etc.
+
+**From the Sunnah:** Will you have patience) Muhammad bin Ishaq said: Allah is saying, "If I had willed that the world be such that no one would oppose My Messengers, I could have made it so, but I wanted to test My servants by means of them." In Sahih Muslim it is narrated from '… (Sahih Muslim) Especially in the case of the Holy Prophet ﷺ it was preferred by Allah Ta’ ala to keep him in line with the ordinary Muslims by way of worldly possessions, and he also preferred for himself to be like that.
 ## Personal Reflections
 
 

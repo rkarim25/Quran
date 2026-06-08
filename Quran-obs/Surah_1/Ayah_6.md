@@ -1050,6 +1050,17 @@ In concluding this discussion about the different implications of 'guidance' (Hi
 Whenever the Holy Qur'an speaks of Prophets (peace be upon them) as guides, it is always referring to this second degree, and to it alone. On the other hand when Holy Qur'an, addressing the noble Prophet (peace be upon him), says: (You cannot guide whom you please) (28:56), it is the third degree of guidance which is intended, that is to say, it is neither the function of a prophet nor is it in his power to provide tawfiq to anyone, in other words, to make it easy for anyone to accept guidance.
 To sum up, the Qur'anic prayer (guide us in the straight path) is most comprehensive, and certainly, one of the most important prayers taught to man. No member of the human family can claim not to need it. No success, no prosperity in this or in the other world can really come without being on the straight path. Particularly so, for man lost in the anxieties of mortal life, the prayer for the straight path is an elixir, though people do not realize it.
 
+## AI Translation
+
+Guide us to the Sirat al-Mustaqim—the way of living that aligns with Your pleasure, not the path of confusion offered by a world that keeps changing what it calls truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** The believer asks for guidance to the Sirat al-Mustaqim—the straight way of living that pleases Allah—not the paths of confusion, anger, or neglect.
+
+**Classical tafsir:** Ibn Kathir: guidance here means steadfastness on truth after recognizing it. Maarif: it is a daily plea, because guidance is ongoing.
+
+**From the Sunnah:** Allah responds: "This is for My servant, and My servant shall have what he asks" (Muslim).
 ## Personal Reflections
 
 

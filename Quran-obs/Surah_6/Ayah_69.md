@@ -153,6 +153,17 @@ The Ayah above [6:68] is the Ayah mentioned in Allah's statement,
 
 When the verse cited above was revealed, the noble Companions submitted: Ya Rasul Allah, if this absolute prohibition of going in their gatherings remained in force, we shall be deprived of offering Salah and Tawaf in al-Masjid al-Haram because these people keep sitting there all the time (before Hijrah and the Conquest of Makkah) doing nothing but fault-finding and ill-speaking. Thereupon, revealed was the next verse (69): وَمَا عَلَى الَّذِينَ يَتَّقُونَ مِنْ حِسَابِهِم مِّن شَيْءٍ وَلَـٰكِن ذِكْرَ‌ىٰ لَعَلَّهُمْ يَتَّقُونَ ﴿69﴾. It means when people who observe restraint go to al-Masjid al-Haram for their own rightful purpose, then, they are not responsible for the evil deeds of those wicked people present there. However, it does remain their duty that they should tell them what is right and true which may perhaps help them take the right path.
 
+## AI Translation
+
+Those who live with taqwa will not be accountable for those whatsoever—their duty is to advise, so perhaps the ridiculers will abstain.
+
+## AI Tafsir
+
+**Context:** (And it has already been revealed to you in the Book that when you hear the Verses of Allah being denied and mocked at, then sit not with them, until they engage in a talk other than that; (but if you stayed with them) c…
+
+**What this ayah teaches:** And if Shaytan causes you to forget, then after the remembrance, sit not you in the company of those people who are the wrongdoers (68)There is no responsibility for them upon those who have Taqwa, but (their duty) is to remind them, that they may (attain) Taqwa .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -102,6 +102,15 @@ Allah tells us that
 
 The habitation mentioned أَهْلَ قَرْ‌يَةٍ (the people of a town - 77) which Sayyidna Musa and al-Khadir (علیہ السلام) passed through and whose inhabitants refused to host them was Antakiah, as in the report of Sayyidna Ibn ` Abbas ؓ ، and Aikah, as in the report of Ibn Sirin. It has also been reported from Sayyidna Abu Hurairah ؓ that it was some habitation of al-Andulus (Spain) (Mazhari). Allah knows best.
 
+## AI Translation
+
+He replied, “This is the parting of our ways. I will explain to you what you could not bear patiently.
+
+## AI Tafsir
+
+**What this ayah teaches:** So this is the parting of the ways between me and you.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

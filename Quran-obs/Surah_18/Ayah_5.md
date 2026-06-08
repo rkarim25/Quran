@@ -220,6 +220,19 @@ Commentary
 
 The word: عوج ('iwaj) in: وَلَمْ يَجْعَل لَّهُ عِوَجًا (and allowed no crookedness in it - 1) means crookedness of any kind, or inclination towards one side or deviation from the norms of rectitude. The Holy Qur'an remains pure and free of all that in terms of the perfection of its words and meanings. It simply admits of no distortion anywhere, either in eloquence or in knowledge and wisdom. The sense which has been conveyed in a negative or eliminative form through: ` وَلَمْ يَجْعَل لَّهُ عِوَجًا (and allowed no crookedness in it) has been fortified positively through the word: قَيِّمًا (qayyima) which follows immediately for emphasis. The reason is that this word carries the sense of: مُستَقِیمَا (mustaqima) and that which is: مُستَقِیم (mustaqim: straightforward, straight, upright) will not have the least crookedness or tilt towards any side. However, قَیَّم (qayyim) can also have another sense, that of caretaker, custodian and protector. Given this probability, the sense of the expression would be that the Qur’ an, while perfect in itself as free from all kinds of excess, deficiency and crookedness, keeps others upright, firm and unflinching and protects the inter-ests and advantages of all servants of Allah. Thus the gist of the two expressions would be that the Holy Qur'an stands perfect in itself and has the ability to make men and women created by Allah become equally perfect. (Mazhari)
 
+## AI Translation
+
+They have no knowledge of this, nor did their forefathers. What a terrible claim that comes out of their mouths! They say nothing but lies.
+
+## AI Tafsir
+
+**Context:** Muhammad bin Ishaq mentioned the reason why this Surah was revealed. He said that an old man from among the people of Egypt who came to them some forty-odd years ago told him, from 'Ikrimah that Ibn 'Abbas said:
+
+**What this ayah teaches:** The people of Makkah started to doubt him, and said, 'Muhammad promised to tell us the next day, and now fifteen days have gone by and he has not told us anything in response to the questions we asked.' The Messenger of Allah ﷺ felt sad because of the delay in revelation, and was grieved by what the people of Makkah were saying about him.
+
+**Classical tafsir:** Ibn Kathir notes: And to warn those who say, "Allah has begotten a child.")(5.
+
+**From the Sunnah:** from Abu Ad-Darda' that the Prophet ﷺ said: (Musnad Ahmad) In his Mustadrak, Al-Hakim recorded from Abu Sa'id that the Prophet ﷺ said: (al-Mustadrak)
 ## Personal Reflections
 
 

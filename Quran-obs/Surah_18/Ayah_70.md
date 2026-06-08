@@ -142,6 +142,17 @@ Ibn Abi Shaibah reports an event relating to Sayyidna Ibn ` Abbas ؓ by saying t
 
 From this event too, the real thing becomes clear, that is, no one other than a revelation-receiving prophet has the right to declare anyone as exempted from any Islamic legal injunction.
 
+## AI Translation
+
+He responded, “Then if you follow me, do not question me about anything until I myself clarify it for you.”
+
+## AI Tafsir
+
+**Context:** The majority holds Al-Khadir (علیہ السلام) to be a prophet and his knowledge was the gnosis of (the inner dimensions of the human) self which was revealed to him and the knowledge of Musa (علیہ السلام) was of the injunct…
+
+**What this ayah teaches:** Qadi Thanaullah of Panipati has given a research-based answer to this question in his Tafsir Mazhari.
+
+**Classical tafsir:** Ibn Kathir notes: That nobody can have now because prophet-hood has ended.
 ## Personal Reflections
 
 

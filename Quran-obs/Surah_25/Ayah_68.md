@@ -210,6 +210,17 @@ The Eighth and Ninth characteristic
 
 لَا يَقْتُلُونَ النَّفْسَ الَّتِي حَرَّ‌مَ اللَّـهُ (do not kill a person whom Allah has given sanctity - 25:68). This is the description of the major and grave sins pertaining to one's deeds. It is mentioned that Allah's blessed servants do not go even near them; neither they indulge in adultery nor do they kill innocent people. After describing the beliefs and big sins of one's deeds the verse says وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا (25:68) that is, whoever will involve himself in the above mentioned sins will get punished accordingly. Abu Ubaidah has described the meaning of the word اَثَام (atham) in this verse as punishment of sin. But some other commentators have said that اَثَام is the name of a valley in the Hell which is full of severe and rigorous punishments, and they have quoted a few sayings in support of this contention. (Mazhari)
 
+## AI Translation
+
+They are those who do not invoke any other god besides Allah, nor take a human life—made sacred by Allah—except with legal right, nor commit fornication. And whoever does any of this will face the penalty.
+
+## AI Tafsir
+
+**Context:** (And whoever kills a believer intentionally)(4:93), because even though this was revealed in Al-Madinah, the meaning is general, and it could be interpreted to refer to one who does not repent, because this Ayah states t…
+
+**What this ayah teaches:** And those who invoke not any other Allah along with Allah, nor kill such person as Allah has forbidden, except for just cause, nor commit illegal sexual intercourse – and whoever does this shall receive Athama (68)The torment will be doubled for him on the Day of Resurrection, and he will abide therein in disgrace (69)Except those who repent and believe, and do righteous deeds; for those, Allah will…
+
+**Classical tafsir:** Ibn Kathir notes: As-Suddi said that Athama referred to punishment, which is closer to the apparent meaning of the Ayah.
 ## Personal Reflections
 
 

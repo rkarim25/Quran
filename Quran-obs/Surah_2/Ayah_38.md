@@ -130,6 +130,15 @@ Nor does this verse imply that prophets and saints should not feel the instincti
 
 But it was only an instinctive and physical fear, and the incident anyhow belongs to the early days of his prophethood, for when Allah said: لَا تَخَفْ : 'Do not be afraid', the fear disappeared altogether. We may explain the incident in another way also. His fear did not arise as it does in the case of ordinary men, from the apprehension of some harm or hurt from the dragon, but from the likelihood that the extraordinary event might lead the Israelites into misguidance. So, this fear was not worldly, but other-worldly.
 
+## AI Translation
+
+We said, "Go down from it, all of you. When guidance comes from Me, whoever follows it will have no fear and will not grieve."
+
+## AI Tafsir
+
+**What this ayah teaches:** Fear is the anxiety one feels in apprehending some trouble or pain in the future.
+
+**Classical tafsir:** Ibn Kathir notes: Verse 38 promises two great rewards to those who follow divine guidance - they will fear, and they will not grieve.
 ## Personal Reflections
 
 

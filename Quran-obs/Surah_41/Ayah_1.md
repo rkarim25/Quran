@@ -96,6 +96,15 @@ Surah Al-Mu'min
 
 [ Ghafir ]
 
+## AI Translation
+
+These opening letters—known as the muqatta'at—are among the signs whose full meaning Allah kept with Himself. They open the surah by reminding the reader that this Book is from beyond human authorship: approach it with humility, not arrogance.
+
+## AI Tafsir
+
+**What this ayah teaches:** A Book whereof the Ayat are explained in detail – a Qur'an in Arabic for people who know.)(4.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

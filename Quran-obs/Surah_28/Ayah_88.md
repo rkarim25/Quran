@@ -197,6 +197,17 @@ This is the end of the Tafsir of Surat Al-Qasas. To Allah be praise and blessing
 
 إِنَّا لِلَّـهِ وَإِنَّا إِلَيْهِ رَ‌اجِعُونَ و الیہ المشتکی ولا منجا من اللہ اِلَّا اِلیہ
 
+## AI Translation
+
+And do not invoke any other god with Allah. There is no god worthy of worship except Him. Everything is bound to perish except He Himself. All authority belongs to Him. And to Him you will all be returned.
+
+## AI Tafsir
+
+**What this ayah teaches:** Hence, the meaning of the verse is that except for Allah Ta’ ala everything is mortal and will get destroyed and will vanish.
+
+**Classical tafsir:** Ibn Kathir notes: The word 'His Face' in this verse means the very Being of Allah Ta’ ala.
+
+**From the Sunnah:** Hundreds of Muslims were martyred, and many a houses were demolished. (Sahih Muslim)
 ## Personal Reflections
 
 

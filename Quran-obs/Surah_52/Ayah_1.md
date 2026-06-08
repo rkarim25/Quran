@@ -146,6 +146,19 @@ Commentary
 
 وَالطُّورِ‌ (By the Mount Tur,....52:1) The word Tur in Hebrew means a mountain that has trees [ as opposed to jabal a mountain that does not have trees { Trn.}]. Here Tur stands for mount Sinai which is situated in the land of Madyan where the Holy Prophet Musa (علیہ السلام) had the honour of Allah's speaking to him. Some reports narrate that there are four mountains of Paradise in this world, and one of them is Tur (Qurtubi). Swearing an oath by Tur carries a special significance and honour of the mount. It also signifies that certain injunctions have been revealed by Allah for people to follow. Compliance with them is obligatory.
 
+## AI Translation
+
+By Mount Tur—Allah swears by the sacred mountain where Moses received revelation.
+
+## AI Tafsir
+
+**Context:** (And by the Book inscribed), it is said that it means Al-Lawh Al-Mahfuz, (the Preserved Table). It is also said that is refers to the divinely revealed inscribed Books that people recite, and this is why Allah said,
+
+**What this ayah teaches:** A mount that does not have trees is called Jabal, not Tur.
+
+**Classical tafsir:** Ibn Kathir notes: Swearing an oath by Tur carries a special significance and honour of the mount.
+
+**From the Sunnah:** And by Al-Bayt Al-Ma'mur.) In the Two Sahihs it is confirmed that the Messenger of Allah ﷺ said in the Hadith about Al-Isra', after ascending to the seventh heaven:
 ## Personal Reflections
 
 

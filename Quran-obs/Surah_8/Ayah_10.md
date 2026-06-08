@@ -216,6 +216,15 @@ At this stage, it is also interesting to note that the promise of sending three 
 
 Finally, towards the end of the verse (10), it was said: وَمَا النَّصْرُ‌ إِلَّا مِنْ عِندِ اللَّـهِ ۚ إِنَّ اللَّـهَ عَزِيزٌ حَكِيمٌ (And the help is from none but Allah. Surely, Allah is Mighty, Wise). Here, Muslims have been warned that all help, whatever and from wherever it may be, open or secret, is from Allah Ta` ala alone and issues forth through His power and control only. The help and support of angels is also subject to nothing but His command. Therefore, all believers must look up to none but the most pristine Being of Allah who is One and with Whom there is no partner or associate - because, He is the possessor of Power and Wisdom at its greatest.
 
+## AI Translation
+
+Allah made this only to give you glad news and to settle your hearts. Victory comes only from Allah. Surely Allah is Almighty, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** It means: 'Allah has done it only to give you glad tidings and so that your hearts might be at rest thereby.' The number of angels sent to support Muslims in the battle of Badr has been given as one thousand at this place, while in Surah 'Al-` Imran (3:124) the number mentioned is three thousand and five thousand.
+
+**Classical tafsir:** Ibn Kathir notes: It means: 'Allah has done it only to give you glad tidings and so that your hearts might be at rest thereby.' The number of angels sent to support Muslims in the battle of Badr has been given as one thousand at this place, while in Surah 'Al-` Imran (3:124) the number mentioned i…
 ## Personal Reflections
 
 

@@ -148,6 +148,15 @@ Then Allah tells His servants to look at the birds held (flying) in the sky, bet
 
 In the second example, there is a man who bids justice and teaches what is good. This is a model of his intellectual perfection. Then he him-self takes the path of moderation and right guidance. This is the model of his practical perfection. Set against the power of this intellectually and practically perfect man, there is the other man who cannot do anything for himself nor can he do anything right for others. These two men of two different kinds, despite being from one genus, one species and one brotherhood, cannot be equal to each other. So, how can some created being or thing become equal to the Creator and Master of the universe who is Absolute in Wisdom, Absolute in Power, and All-Knowing and All-Aware?
 
+## AI Translation
+
+To Allah alone belongs the knowledge of the unseen in the heavens and the earth. Bringing about the Hour would only take the blink of an eye, or even less. Surely Allah is Most Capable of everything.
+
+## AI Tafsir
+
+**What this ayah teaches:** And the matter of the Hour is not but as a twinkling of the eye, or even nearer.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

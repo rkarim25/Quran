@@ -148,6 +148,17 @@ As for the good news in this world, the Holy Prophet ﷺ said, `(they are) the t
 
 Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. About it, the Holy Prophet ﷺ said: تِلکَ عَاجِلُ بشرَی المؤمِن that is, ` being taken as good and praiseworthy is, for a true Muslim, good news in ready cash.' (Muslim and al-Baghawi)
 
+## AI Translation
+
+Certainly to Allah alone belong all those in the heavens and all those on the earth. And what do those who associate others with Allah really follow? They follow nothing but assumptions and do nothing but lie.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, to Allah belongs whosoever is in the heavens and whosoever is in the earth.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. (Sahih Muslim)
 ## Personal Reflections
 
 

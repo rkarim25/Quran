@@ -241,6 +241,17 @@ The ninth sentence اَللہُ یَجمَع بیننَا (Allah will bring us t
 
 The tenth declaration وَاِلَیہِ المَصِیر (and to Him is the final return -) is that all of us would return to Him.
 
+## AI Translation
+
+Because of that, you will invite all. Be steadfast as you are commanded, and do not follow their desires. Say: "I believe in every Scripture Allah has revealed. And I am commanded to judge fairly among you. Allah is our Lord and your Lord. We will be accountable for our deeds and you for yours. There is no need for contention between us. Allah will gather us together for judgment. And to Him is the final return."
+
+## AI Tafsir
+
+**Context:** (So unto this then invite (people),) means, 'so call people to this which We have revealed to you and which We enjoined upon all the Prophets before you,' the Prophets of major ways [of Shari'ah] that were followed, such…
+
+**What this ayah teaches:** Some exegetes have stated that this verse was revealed in Makkah before the command for jihad with non-Muslims was revealed; the verses conveying the command for jihad have cancelled this command, because the essence of jihad is to subjugate those people by fighting who do not accept the advice and exhortation - not to let them remain in the state of kufr.
+
+**Classical tafsir:** Ibn Kathir notes: They (the scholars) said that there is nothing else like it in the Qur'an, apart from Ayat Al-Kursi [2:255], which also includes ten ideas.
 ## Personal Reflections
 
 

@@ -122,6 +122,15 @@ So the first interpretation would mean, 'how can you attain safety for yourselve
 
 وَذَرْنِيْ وَالْمُكَذِّبِيْنَ اُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيْلًا (And leave Me [ to deal ] with the deniers, the people of luxury, and give them respite for a while....73:11). The 'deniers' are referred to as 'the people of luxury'. The word na` mah', the first letter [ n ] bearing lath [=a ], signifies 'ease and plenty; abundance of wealth and children'. This indicates that people who live a life of ease, plenty and luxury can only be the ones who deny the Hereafter. These things do often fall to the lot of the believers, but they do not intoxicate them. Therefore, even when they live a life of luxury, their hearts are never, at any time, empty of the thought of the Hereafter. Only the deniers of the Hereafter will live a life of luxury that is neglectful of the Hereafter.
 
+## AI Translation
+
+Leave the deniers—those absorbed in luxury—to Me, and bear with them a little longer.
+
+## AI Tafsir
+
+**What this ayah teaches:** Only the deniers of the Hereafter will live a life of luxury that is neglectful of the Hereafter.
+
+**Classical tafsir:** Ibn Kathir notes: This means, 'you should beware of denying this Messenger, lest you be afflicted by that which befell Fir'awn.
 ## Personal Reflections
 
 

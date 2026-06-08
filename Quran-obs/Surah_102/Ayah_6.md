@@ -172,6 +172,19 @@ This is the end of the Tafsir of Surat At-Takathur, and all praise and blessings
 
 Verse [ 102:7] ثُمَّ لَتَرَ‌وُنَّهَا عَيْنَ الْيَقِينِ (...then you will see it with an eye of certainty.) The phrase 'ain-ul-yagin' (translated above as 'eye of certainty' ) refers to the certainty attained by physical observation, and this is the highest degree of certainty. Sayyidna Ibn ` Abbas ؓ reports that when Holy Prophet Musa (علیہ السلام) was on the mount of Tur, his people started worshipping a calf. Allah informed him about this while he was still on the mountain. This piece of information did not affect Musa (علیہ السلام) so much. However, when he returned and saw the Children of Israel, with his own eyes, worshipping the calf, he became so indignant that the tablets of Torah involuntarily fell from his hands. [ Transmitted by Ahmad and Tabarani with an authentic chain of narrators, as quoted by Mazhari ].
 
+## AI Translation
+
+You will surely see the Fire—
+
+## AI Tafsir
+
+**Context:** In Sahih Al-Bukhari, it is recorded in the Book of Ar-Riqaq (Narrations that soften the Heart) from Anas bin Malik, who reported that Ubayy bin Ka'b said, "We used to think that this was a part of the Qur'an until the Ay…
+
+**What this ayah teaches:** If you knew with a sure knowledge.)(6.
+
+**Classical tafsir:** Ibn Kathir notes: If you knew with a sure knowledge.)(6.
+
+**From the Sunnah:** this Hadith. (Sahih Muslim, Jami' at-Tirmidhi) This Hadith has also been recorded by Muslim, At-Tirmidhi and An-Nasa'i. (Sahih Muslim, Musnad Ahmad)
 ## Personal Reflections
 
 

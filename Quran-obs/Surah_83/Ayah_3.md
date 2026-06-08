@@ -160,6 +160,19 @@ Various Forms of Poverty, Famine and Curtailment of Sustenance
 
 The Hadith (cited above) states that people's 'sustenance' may be Cut Off as a punishment to short measuring: This can take different forms. They may be completely deprived of their sustenance; or sustenance may be available, but they may not be able to eat or use it, as it commonly happens nowadays in the case of many diseases. Likewise, 'famine' might take different forms: Items of necessity might be lacking; or they might be available abundantly, but it might be difficult to purchase them, because the prices are unbearably exorbitant, as is experienced nowadays. The Hadith says that in certain situations faqr will prevail in the society. Faqr is generally translated as 'poverty', but its real meaning in Arabic is 'being in need' or 'being dependent on someone'. Keeping this meaning in view, the situation of faqr pointed out in the Hadith is not confined to lack of money and other necessary things, but it also includes a situation where people depend on others in their business and other necessities of life. The more a person is in need of others, the greater is his degree of faqr. Let us consider the conditions of the present age. Man is bound by the most complicated laws that restrict his living, his movement and his intentions, so that he is unable to eat what he wants to eat, or utter what he wants to utter. He possesses money, but he is not free to buy of his choice from where he wants to. He is not free to undertake a journey [ or to travel ] as and when he wants to. He is bound so much by these restrictive laws that he has no choice but to follow the official procedure for which he has to flatter the officials [ at every level ] including the peons. Without this, life is difficult. This entire system of dependence on others is a part of faqr. This elaborate explanation should dispel the doubts that might apparently arise regarding the statement of the Hadith.
 
+## AI Translation
+
+but give short measure or weight when they sell.
+
+## AI Tafsir
+
+**Context:** According to Sayyidna ` Abdullah Ibn Masud ؓ ، Surah Tatfif was revealed in Makkah. Therefore, most of the copies of the Qur'an refer to it as the Makki Surah.
+
+**What this ayah teaches:** Tatjif has a Wider Scope The Qur'an and Sunnah have prohibited Tatfif which primarily signifies 'giving short measure and weight', because generally all transactions are carried out by things that can be measured or weighed.
+
+**Classical tafsir:** Ibn Kathir notes: It, therefore, indicates that the rule is not restricted to weights and measures only, but it includes all other means through which the rights of someone are evaluated, assessed or appraised.
+
+**From the Sunnah:** from Al-Miqdad, who was Ibn Al-Aswad Al-Kindi, that he heard the Messenger of Allah ﷺ saying, (Sahih al-Bukhari, Sahih Muslim) This Hadith was recorded by Muslim and At-Tirmidhi. (Sahih Muslim, Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

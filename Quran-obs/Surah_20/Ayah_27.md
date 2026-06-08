@@ -112,6 +112,17 @@ The first two prayers are of a general nature and sought Allah Ta` ala's help in
 
 However, Sayyidna Musa علیہ السلام in his prayer to make Sayyidna Harun (علیہ السلام) his partner in the prophethood also said ھُوَاَفصَحُ مِنِّی لِساناً (He is more fluent in his tongue than me - 28:34) which would indicate that his speech's impediment was not fully cured and that the stammer persisted, though in a milder form. One of the defects which the Pharaoh found in Sayyidna Musa (علیہ السلام) was that وَلَا یَکَادُ یُبِینُ (he cannot express himself clearly - 43:52). Some people have argued that in his prayer Sayyidna Musa (علیہ السلام) had prayed to Allah Ta’ ala to loose the knot of his tongue only to the extent that others could understand his words. To that extent his stammer was cured but a trace of it still remained, which is not inconsistent with the grant of his prayer.
 
+## AI Translation
+
+and remove the impediment from my tongue.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, he was left with the remnants of this accident that took place with his tongue.
+
+**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported from Abu Sa'id, from 'Ikrimah, who said that Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
+
+**From the Sunnah:** Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
 ## Personal Reflections
 
 

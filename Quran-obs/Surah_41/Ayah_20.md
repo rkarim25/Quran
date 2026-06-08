@@ -136,6 +136,15 @@ Imam Ahmad recorded that 'Abdullah, may Allah be pleased with him, said, "I was 
 
 فَهُمْ يُوزَعُونَ (So they will be kept under control…...41:19) The original word used in the text is ` Yuza’ un' which is derived from waz' which means ` to stop', ` to prevent'. Most of the learned exegetes have explained it in the sense that when people of Hell, who will be numerous, will be taken forward to the field of hashr and the place of reckoning, the people in the front will be halted for a while, so that the people in the rear also catch up with them. This will be done to avoid indiscipline. (It is this interpretation of the verse on the basis of which it is translated as ` kept under control' ) And some exegetes have translated ` Yuza’ un' as ` pushed' which means that they would be driven towards the place of reckoning by being pushed. (Qurtubi)
 
+## AI Translation
+
+When they reach it, their ears, eyes, and skin will testify against what they used to do.
+
+## AI Tafsir
+
+**What this ayah teaches:** Most of the learned exegetes have explained it in the sense that when people of Hell, who will be numerous, will be taken forward to the field of hashr and the place of reckoning, the people in the front will be halted for a while, so that the people in the rear also catch up with them.
+
+**Classical tafsir:** Ibn Kathir notes: Most of the learned exegetes have explained it in the sense that when people of Hell, who will be numerous, will be taken forward to the field of hashr and the place of reckoning, the people in the front will be halted for a while, so that the people in the rear also catch up wit…
 ## Personal Reflections
 
 

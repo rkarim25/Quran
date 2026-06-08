@@ -74,6 +74,17 @@ This verse: أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُ
 
 Since it is established that Resurrection is a reality and inevitable, the reward of good deeds is a reality and the punishment of evil deeds is a reality, the verses that follow describe the horrors of the Day of Judgment and the punishment of the evil ones, including the description of the exposure of the Shin [ kashf-us-saq ] in Verse 42 (the explanation of which may be seen in the foot-note given in the translation of that verse.)
 
+## AI Translation
+
+What is wrong with you? How do you judge?
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, for those who have Taqwa are Gardens of Delight with their Lord (34)Shall We then treat the Muslims like the criminals (35)What is the matter with you?
+
+**Classical tafsir:** Ibn Kathir notes: The Reward of those Who have Taqwa and that They will not be treated like the Criminals After Allah mentions the situation of the people of the worldly garden and the wrath they suffered when they disobeyed Allah and opposed his commands, He then explains that whoever has Taqwa o…
+
+**From the Sunnah:** Verily, for those who have Taqwa are Gardens of Delight with their Lord (34)Shall We then treat the Muslims like the criminals (35)What is the matter with you?
 ## Personal Reflections
 
 

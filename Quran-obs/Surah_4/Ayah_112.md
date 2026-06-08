@@ -130,6 +130,15 @@ Imam Ahmad recorded that 'Ali said, "Whenever I hear anything from the Messenger
 
 In the eighth verse (112), a general rule of conduct has been set forth. It stipulates that anyone who himself commits a crime, then goes on to put the blame on some innocent person (as in the episode cited above where the theft was committed by Banu Ubayriq themselves and they went on to put the blame on Sayyidna Labid or the Jew) has done something grave by levelling a false accusation of great magnitude against an innocent person plus an open sin weighing heavy on one's shoulders.
 
+## AI Translation
+
+And whoever commits an evil or sinful deed then blames it on an innocent person, they will definitely bear the guilt of slander and blatant sin.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Encouragement to Seek Allah's Forgiveness, and Warning those who Falsely Accuse Innocent People Allah emphasizes His generosity and kindness, in that He forgives whoever repents to Him from whatever evil they commit.
+
+**Classical tafsir:** Ibn Kathir notes: The Encouragement to Seek Allah's Forgiveness, and Warning those who Falsely Accuse Innocent People Allah emphasizes His generosity and kindness, in that He forgives whoever repents to Him from whatever evil they commit.
 ## Personal Reflections
 
 

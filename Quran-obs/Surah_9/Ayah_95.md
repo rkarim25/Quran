@@ -126,6 +126,17 @@ Allah will inform you of your deeds, whether they were good or evil, and will re
 
 2. The second instruction to the Holy Prophet ﷺ appears in the second verse (95) where it has been said that these people will come to him after his return to Madinah, impress him with their feigned oaths and try to satisfy him. What they would wish to achieve from this initiative is: لِتُعْرِ‌ضُوا عَنْهُمْ (so that you may ignore their misdeed), that is, ignore their absence from Jihad and spare the reproach due on it.' Thereupon, it was said that he might as well grant their wish. The text says: فَأَعْرِ‌ضُوا عَنْهُمْ :` you ignore them.' Thus, the instruction carries the sense: ` neither reproach and admonish, nor deal with pleasantly' - because, reproach usually brings no good. When they have no faith in their heart - and they do not want to have it either - what would come out of reproach? So, why waste good time!
 
+## AI Translation
+
+When you return, they will swear to you by Allah so that you may leave them alone. So leave them alone—they are truly evil. Hell will be their home as a reward for what they have committed.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, they are Rijs (impure), and Hell is their dwelling place – a recompense for that which they used to earn (95)They (the hypocrites) swear to you (Muslims) that you may be pleased with them, but if you are pleased with them, certainly Allah is not pleased with the people who are Fasiqin (rebellious).
+
+**Classical tafsir:** Ibn Kathir notes: Allah said that the hypocrites will swear to the believers in apology, so that the believers turn away from them without admonishing them.
+
+**From the Sunnah:** They (the hypocrites) will present their excuses to you (Muslims), when you return to them.
 ## Personal Reflections
 
 

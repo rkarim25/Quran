@@ -81,6 +81,15 @@ This tells us that they too regarded Allah Ta’ ala as the ultimate Razzaq or P
 
 Now, there remains the question: On which basis, did the believers ask the disbelievers to spend in the way of Allah, particularly when they simply did not have the very faith in Allah and, as the jurists maintain, they were no addressees of the subsidiary injunctions of the Shari` ah? The answer to that is clear. When the believers said that, they had no intention to have disbelievers implement some religious injunction, it was said on the basis of the accepted norm of human good will, sympathy and gentleness.
 
+## AI Translation
+
+And they ask, "When will this threat come to pass, if what you say is true?"
+
+## AI Tafsir
+
+**What this ayah teaches:** The word of the next verse (46) bear witness to this elision, that is, whenever a verse or sign from their Lord comes to them, they show nothing but their aversion to it.
+
+**Classical tafsir:** Ibn Kathir notes: This aversion of theirs has not been expressly mentioned here in the words of the Qur'an, because the 'I` rad' or aversion mentioned in the next verse automatically proves their aversion here too.
 ## Personal Reflections
 
 

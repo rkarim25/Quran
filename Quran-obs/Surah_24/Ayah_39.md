@@ -155,6 +155,15 @@ The example of the deeds of the first category is that of a mirage, which is not
 
 The second category of deeds is that of atheists or infidels, for which the example of a deep ocean is given, which is completely dark. In the first place it is dark because of its depth, then it is covered by a big wave which is also enshrouded by another wave, and over that there is a mass of dark cloud. In short there is darkness over darkness, so much so that if someone takes out his hand, he cannot have even a glimpse of it. The inference to be drawn from this example is that those infidels who deny the coming of the Dooms Day, the Reckoning and the Hereafter are devoid of even the illusive Nur, which the first category of disbelievers had. Although they too did not possess the useful Nur of guidance, but at least they were under the illusion that they had done some good deeds which will help them in the Hereafter, but the latter category did not deem it necessary to work for the Hereafter, since they had no belief in it. Hence, they will have nothing but darkness and complete darkness with them on the Dooms Day.
 
+## AI Translation
+
+As for those who reject the truth, their deeds are like a mirage in a desert, which the thirsty perceive as water, but when they approach it, they find it to be nothing. Instead, they find Allah there in the Akhirah, ready to settle their account. And Allah is swift in reckoning.
+
+## AI Tafsir
+
+**What this ayah teaches:** Their likeness is that of a mirage which is seen in a desert plain, looking from a distance as if it is a deep sea.
+
+**Classical tafsir:** Ibn Kathir notes: The word Qi'ah refers to a vast, flat, level area of land in which the mirage may appear.
 ## Personal Reflections
 
 

@@ -133,6 +133,17 @@ According to the report of Wahb Ibn Munabbih, this person was a leper. He lived 
 
 It is mentioned in some narrations that these people martyred the three messengers as well. But, no authentic narration mentions specifically as to what happened to them. Probably, they were not killed. (Qurtubi)
 
+## AI Translation
+
+But they killed him. Then he was told by the angels, "Enter Paradise!" He said, "If only my people knew
+
+## AI Tafsir
+
+**What this ayah teaches:** He said,"Would that my people knew how my Lord has forgiven me and placed me among the honored ones!" - 26, 27), that is, it was said to the person who had come from the farthest part of the city to prompt people to believe in the messengers, "Enter Paradise." It is obvious that this address was communicated through some angel who told him to go into the Paradise.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the arrival of such people in the state of Barzakh is, in a way, virtual entry into Paradise.
+
+**From the Sunnah:** When he adopted Constantinople as his city, the Patriarch of Rome moved there, as has been mentioned by several historian, such as Sa'id bin Batriq and others, both People of the Book and Muslims.
 ## Personal Reflections
 
 

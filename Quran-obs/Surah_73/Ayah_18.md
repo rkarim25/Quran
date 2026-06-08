@@ -123,6 +123,15 @@ So the first interpretation would mean, 'how can you attain safety for yourselve
 
 These verses describe the horrors and terrors of the Day of Resurrection. Verse [ 14] describes that the punishment will take place on the Day when the earth and mountains will shake and the mountains will be reduced to a heap of dust or shifting dunes. Thereafter, reference is made to the story of Musa (علیہ السلام) and Fir'aun in order to threaten the pagans of Makkah. Allah sent a Messenger, Muhammad ﷺ ، to bear witness against the pagans of Makkah just as He sent a Messenger, Musa (علیہ السلام) to Fir'aun. But Fir'aun disobeyed Musa (علیہ السلام) and Allah seized him with terrible severity right in this world. Likewise, if the pagans of Makkah persist stubbornly in their pagan conduct, they too can be seized similarly with terrible severity in this very world. Towards the conclusion, the verse says that if no torment is inflicted in this world, no one can escape the horrors and terrors and length of the Day of Resurrection that will turn the children grey. This could be a metaphor for the most calamitous happenings which bring about disastrous changes. But some scholars say that this is a description of reality, in that the Day of Resurrection will be so long that a little child will grow old. [ Qurtubi and Ruh ].
 
+## AI Translation
+
+A Day when the sky will split apart. His promise of judgment must be fulfilled.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Command to be Patient with the Harms of the those who reject the truth and a Discussion of what They will receive because of it Allah commands His Messenger ﷺ to be patient with what the foolish who reject him among his people say.
+
+**Classical tafsir:** Ibn Kathir notes: This means, 'you should beware of denying this Messenger, lest you be afflicted by that which befell Fir'awn.
 ## Personal Reflections
 
 

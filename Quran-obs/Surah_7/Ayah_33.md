@@ -175,6 +175,15 @@ This particular detail was mentioned here also because it covers almost all kind
 
 Unfortunately, it is a necessary outcome of excess (ghuluww) in religion and introduction of self-invented practices (bid` at) in it that people who get involved with this type of activity become habitually heedless to the root of religion and its essential requirements. Therefore, the Haram caused by excess in religion and innovation in established faith is twofold. First of all getting involved with such Ghuluww and Bid'ah is a sin in itself. Then, seen in contrast, far too grave is the very deprivation from the true religion of Allah and the genuine way of the Holy Prophet ﷺ .Refuge with Allah (from such a fate) !
 
+## AI Translation
+
+Say, “My Rabb has only forbidden open and secret indecencies, sinfulness, unjust aggression, associating with Allah —a practice He has never authorized—and attributing to Allah what you do not know.”
+
+## AI Tafsir
+
+**What this ayah teaches:** This particular detail was mentioned here also because it covers almost all kinds of prohibitions and sins - whether they pertained to belief or conduct, or were done personally, or related to rights of others which were usurped.
+
+**Classical tafsir:** Ibn Kathir notes: As for unrighteous oppression, it occurs when you transgress against people without justification." Mujahid said, "Ithm includes all types of disobedience.
 ## Personal Reflections
 
 

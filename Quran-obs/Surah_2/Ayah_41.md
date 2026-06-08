@@ -208,6 +208,17 @@ It follows from here that the man who is in any way responsible for others falli
 
 (6) The famous Hanafi scholar Shami has, in his commentary on "al-Durr al- Mukhar” and in his own book "Shifal-` Alil", explained in great detail and with convincing arguments that the later jurists have allowed the acceptance of wages for the teaching of the Holy Qur'an etc. Only in view of an essential religious need which must be fulfilled, or the whole Islamic order would be disturbed; hence the permission should be limited only to such essential needs. It logically follows from this principle that paying or receiving wages for the recitation of the Holy Qur'an for transmitting the reward to the dead or in the interest of some worldly purpose is forbidden, for it fulfils no essential religious need. Thus, the man who recites the Holy Qur'an for wages in this manner and the man who pays him for it both commit a sin. When there is no merit earned in such a recitation, how can it be transferred to the dead? Al-Shami refers to many authoritative works like "Taj al-Shari` ah", 'Ayni's commentary on Hidayah, the marginal notes by Khayr al-Din Al-Ramali on "al-Bahr al-Ra'iq", etc., and specially cites Al-Ramali to the effect that practices like paying for the recitation of the Holy Qur'an beside the grave of a dead man or elsewhere in order to transmit the reward to him, have never been reported from the blessed Companions or their immediate successors or from other great scholars of the early centuries of Islam, and are hence an innovation (Bid'ah) in religion.
 
+## AI Translation
+
+Trust in what I have sent down, confirming what you already have. Do not be the first to reject it, nor trade My signs for a fleeting gain. Live with taqwa.
+
+## AI Tafsir
+
+**What this ayah teaches:** As for the question of taking a wage for teaching the verses of the Holy Qur'an or for reporting them correctly, verse 41 is not concerned with the matter.
+
+**Classical tafsir:** Ibn Kathir notes: Verse 41 asks the Israelites not to be the first to deny the Holy Qur'an, although being a those who reject the truth is in itself the ultimate sin, whether one be the first or the last.
+
+**From the Sunnah:** 'Israel' means, 'the servant of Allah.'
 ## Personal Reflections
 
 

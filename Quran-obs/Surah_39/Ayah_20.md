@@ -152,6 +152,19 @@ Then, there are many commentators who take 'al-qawl' at this place to mean what 
 
 Therefore, it has been said that this verse was revealed about Sayyidna Zayd Ibn ` Amr Ibn Nufayl, Sayyidna Abu Dharr al-Ghifari and Sayyidna Salman al-Farisi ؓ . Sayyidna Zayd Ibn ` Amru Ibn Nufayl ؓ used to hate shirk and idol worship even during the days of Jahiliyyah. The other two Sahabah, Sayyidna Abu Dharr al-Ghifari and Sayyidna Salman al-Farisi ؓ listened to people of different religions, to the mushriks, the Jews and the Christians, and saw their ways of life, and it was only then that they embraced Islam and, finding the teachings of the Qur'an as the best, they preferred them. (Qurtubi)
 
+## AI Translation
+
+But those mindful of their Lord will have elevated mansions, built one above the other, under which rivers flow. That is the promise of Allah. Allah never fails in His promise.
+
+## AI Tafsir
+
+**Context:** Therefore, it has been said that this verse was revealed about Sayyidna Zayd Ibn ` Amr Ibn Nufayl, Sayyidna Abu Dharr al-Ghifari and Sayyidna Salman al-Farisi ؓ .
+
+**What this ayah teaches:** Will you rescue him who is in the Fire (19)But those who have Taqwa of their Lord, for them are built lofty rooms, one above another under which rivers flow. In fact, these are believers who have followed the Word of Allah and the teachings of His Rasul after having found it true and best.
+
+**Classical tafsir:** Ibn Kathir notes: Allah says, 'if He has decreed that someone is to be doomed, can you save him from his misguidance and doom?' Which means, no one can guide him apart from Allah, because whomever Allah leaves astray cannot be guided, and whomever He guides cannot be led astray.
+
+**From the Sunnah:** from Sahl bin Sa'd, may Allah be pleased with him, that the Messenger of Allah…
 ## Personal Reflections
 
 

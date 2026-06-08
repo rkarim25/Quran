@@ -128,6 +128,17 @@ In the statement فَلَا يَكُن فِي صَدْرِ‌كَ حَرَ‌ج�
 
 The hint given here is that Allah who has sent down this Book on you has also made arrangements that you shall remain protected and that takes care of any anguish on your part. Some commentators have said that ` haraj' or ` constraint on the heart' refers to the constraint experienced by the Holy Prophet ؓ who, because of his affectionate concern for people, felt pain when they would not believe despite having heard the Qur'an and its injunctions. To offset this constraint, the Holy Prophet ﷺ has been told that the duty with which he has been obligated is simply to make the call and convey the message. Once this is done, it is not his responsibility to see who becomes a Muslim and who does not. Therefore, there was no reason for him to be anxious.
 
+## AI Translation
+
+Follow what has been sent down to you from your Rabb, and do not take others as guardians besides Him. How seldom are you mindful!
+
+## AI Tafsir
+
+**What this ayah teaches:** Follow what has been sent down unto you from your Lord, and follow not any Awliya' (protectors), besides Him (Allah).
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, there was no reason for him to be anxious.
+
+**From the Sunnah:** Once this is done, it is not his responsibility to see who becomes a Muslim and who does not. (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -177,6 +177,19 @@ The present verses give an indication that those who are implacable enemies of M
 
 It is recorded in Sahih of Bukhari, on the authority of Sayyidah Asma' bint Abu Bakr ؓ ، that her mother arrived in Madinah from Makkah in the state of disbelief. According to a narration in Musnad of Ahmad, this incident occurred when peace treaty of Hudaibiyah with the Makkan Quraish had been concluded and was in force. Her mother's name was Qutailah. She brought gifts for her daughter Sayyidah Asma' ؓ but she refused to accept them. She did not even allow her to enter her house unless she sought the permission of the Holy Prophet ﷺ . Sayyidah Asma' ؓ asked the Holy Prophet ﷺ how to treat her mother who came to her while still disbeliever. The Holy Prophet ﷺ advised her to treat her kindly, politely and courteously. On that occasion, the following verse was revealed لَّا يَنْهَاكُمُ اللَّـهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ. (Allah does not forbid you from doing good and justice to those who did not fight you because of faith ....60:8)
 
+## AI Translation
+
+Allah may yet bring about goodwill between you and those you now hold as enemies. Allah is Most Capable, All-Forgiving, the Rahim—whose special mercy is for believers in the Akhirah.
+
+## AI Tafsir
+
+**Context:** It is recorded in Sahih of Bukhari, on the authority of Sayyidah Asma' bint Abu Bakr ؓ ، that her mother arrived in Madinah from Makkah in the state of disbelief.
+
+**What this ayah teaches:** And Allah has power (over all things), and Allah is Oft-Forgiving, ar-Rahim (7)Allah does not forbid you to deal justly and kindly with those who fought not against you on account of religion nor drove you out of your homes.
+
+**Classical tafsir:** Ibn Kathir notes: The present verses give an indication that those who are implacable enemies of Muslims because of their disbelief would soon become their friends.
+
+**From the Sunnah:** I came to the Prophet ﷺ and said, 'O Allah's Messenger! (Musnad Ahmad) 'A'ishah asked the Prophet ﷺ about his verdict and Allah sent down the Ayah, (Musnad Ahmad)
 ## Personal Reflections
 
 

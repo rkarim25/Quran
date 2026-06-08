@@ -188,6 +188,15 @@ Sayyidna ` Ali and Sayyidna Ibn ` Abbas ؓ have defined Istiqamah (Steadfastness
 
 Abu Nu'aim has reported about Thabit Al-bunani (رح) that while reciting Surah Ha Meem Sajdah, when he reached the present verse (on them the angels descend), he said, "According to a Hadith that has reached us, the Mu'min at the time of rising in his grave on the Day of Resurrection, will be met by the two angels who used to be with him in the world, and they will console him not to worry or be afraid, rather be happy with the glad tidings of Paradise, which was being promised to him. These words of the angels will bring serenity to the Mu'min. (Mazhari)
 
+## AI Translation
+
+Surely those who say, "Our Lord is Allah," and then remain steadfast—the angels descend upon them, saying, "Do not fear, nor grieve. Rejoice in the good news of Paradise, which you have been promised.
+
+## AI Tafsir
+
+**What this ayah teaches:** It is stated in Tafsir Kashshaf that a person's declaration that his Lord is Allah can only be true when he believes from the bottom of his heart that he is being brought up by Allah Almighty in all situations and at every step, that he cannot take even one breath without His mercy, and all this demands that one should be so devoted and steadfast in his ways of worship that nei…
+
+**Classical tafsir:** Ibn Kathir notes: The other quality is of their remaining steadfast which refers to their good deeds.
 ## Personal Reflections
 
 

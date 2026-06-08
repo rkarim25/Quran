@@ -112,6 +112,15 @@ This is a proof that he did not speak to his people for these three nights and t
 
 سَوِيًّا means healthy. This word has been added here to denote that Sayyidna Zakariyya's (علیہ السلام) loss of speech for three days was not due to any illness, for during this entire period of three days he could utter words of prayer and supplication. This special condition was a miracle and a sign from Allah Ta’ ala about his wife's pregnancy.
 
+## AI Translation
+
+He came out to his people from the sanctuary, signalling them to glorify Allah morning and evening.
+
+## AI Tafsir
+
+**What this ayah teaches:** And remember your Lord much, and glorify (Him) in the afternoon and in the morning.)[3:41] This is a proof that he did not speak to his people for these three nights and their days as well.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

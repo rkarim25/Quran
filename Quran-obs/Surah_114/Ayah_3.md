@@ -104,6 +104,17 @@ Verses [ 114:2 3] مَلِكِ النَّاسِ إِلَـٰهِ النَّاس�
 
 Since the first sentence contains the word nas (people), the second and the third verses should apparently refer to them with the pronouns by saying, مَلِکِھِم malikihim [ their king ] rather than repeating the word nas (people). However, this is an occasion of supplication and praise, and as such repetition needs to be employed by deliberate design to add force and clarity to the sublime emotion by creating natural rhyme, rhythm and melodic sequence. Some scholars have explained the repetition of the word 'nas' differently. They say that the word nas occurs five times in this Surah. In its first occurrence, it refers to the children. The word rabb that refers to nurturer-ship of Allah is a hint to this, because children need nurturing the most. Its second occurrence refers to youth, and the hint in the context is the word malik which refers to kingship of Allah. It bears political connotation and is appropriate to the youth. Its third occurrence refers to old age. Old people cut themselves off from the world and look up to Allah alone as the real support of life, and render Him alone true and unconditional obedience and to make Him alone the real object of his love and adoration. The context for this is ilah [ God ] which points to the Divine worship. Its fourth occurrence refers to the righteous servants of Allah. The contextual hint for this is the word waswasah [ evil whisperings ] because the devil is the enemy of the righteous servants of Allah. His work is to cast evil prompting into the hearts of such people. Its fifth occurrence refers to mischief-makers because protection is sought from their mischief.
 
+## AI Translation
+
+The One humanity truly worships, whether they admit it or not—since whatever people give their ultimate fear, love, and obedience to becomes, in practice, what they serve.
+
+## AI Tafsir
+
+**What this ayah teaches:** The word rabb that refers to nurturer-ship of Allah is a hint to this, because children need nurturing the most. This is because they (the Jinns) are also included in the usage of the word An-Nas (the people) in most cases.
+
+**Classical tafsir:** Ibn Kathir notes: The word rabb that refers to nurturer-ship of Allah is a hint to this, because children need nurturing the most.
+
+**From the Sunnah:** It is also confirmed in the Two Sahihs from Anas, who reported the story of Safiyyah when she came to visit the Prophet ﷺ while he was performing I'tikaf, that he went out with her during the night to walk her back to her house.
 ## Personal Reflections
 
 

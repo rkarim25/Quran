@@ -200,6 +200,17 @@ And now a word concerning what was said about women -- "There is no sin on you i
 
 52. Surma: collorium, claimed to be an inorganic lead compound -- 'Galena', which has been erroneously translated as 'Antimony' by Western writers. Since 'Antimony' is a known ingredient of modern sophisticated explosives, this age-old eye-cosmetic has gone out of fashion and favour.
 
+## AI Translation
+
+Those among you who die leaving widows — the widows should wait four months and ten days. When they complete that term, you are not accountable for what they reasonably decide for themselves. Allah is aware of what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** And those of you who die and leave wives behind them, they (the wives) shall wait (as regards their marriage) for four months and ten days, then when they have fulfilled their term, there is no sin on you if they (the wives) dispose of themselves in a (just and) honorable manner (i.e., they can marry).
+
+**Classical tafsir:** Ibn Kathir notes: And Allah is well-acquainted with what you do.) This Ayah indicates that mourning for the dead husband is required until the 'Iddah is finished.
+
+**From the Sunnah:** In a narration recorded by Imam Ahmad and the compilers of the Sunan, which At-Tirmidhi graded Sahih, Ibn Mas'ud was asked about a man who married a woman, but he died before consummating the marriage.
 ## Personal Reflections
 
 

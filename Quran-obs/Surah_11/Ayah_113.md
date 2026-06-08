@@ -109,6 +109,15 @@ Imam ` Abdur-Rahman ibn ` Amr Al-Awza` i said, ` with Allah Ta` ala no one is as
 
 According to Tafsir al-Qurtubi, this verse tells us that it is obligatory (wajib) to abstain from the company of those who disbelieve (kafirs), those who disobey (sinners) and those who innovate in the established religion (practitioners of bid'ah) - unless they have to be met under some compulsion. The truth of the matter is that company and social setting play a major role in one's betterment or corruption. Therefore, the famous Hasan al-Basri said about the two words of these two verses that Allah Ta` ala has compressed the entire religion within the two letters: لَا (la: do not). The first one appears in the first verse: لَا تَطغَوا (la tatghaw: do not cross the limits - 112) and the second one appears in the second verse: لَا تَرکَنُوا (la tarkanu: And do not incline towards the wrongdoers - 113). The first ` la' or ` do not' prohibits the crossing of the limits set by the Shari’ ah of Islam while the other prohibits the company of wrongdoing people - and this is the essence of the whole religion.
 
+## AI Translation
+
+And do not be inclined to the wrongdoers or you will be touched by the Fire. For then you would have no protectors other than Allah, nor would you be helped.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, He is All-Seer of what you do (112)And incline not toward those who do wrong, lest the Fire should touch you, and you have no protectors other than Allah, nor would you then be helped .
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the sense of the verse is: ` Whoever indulges in injustice and oppression ruins his or her life, worldly and spiritual both - this is a fact everyone knows.
 ## Personal Reflections
 
 

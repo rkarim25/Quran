@@ -160,6 +160,15 @@ A sermon should have high degree of eloquence
 
 هُوَ أَفْصَحُ مِنِّي لِسَانًا (He is more fluent in his tongue - 28:34). This verse points out that a high degree of oratory and eloquence is desirable for sermons and preaching, and there is no harm if one takes training in that.
 
+## AI Translation
+
+And my brother Aaron is more eloquent than I, so send him with me as a helper to support what I say, for I truly fear they may reject me.”
+
+## AI Tafsir
+
+**What this ayah teaches:** And appoint for me a helper from my family, Harun, my brother. And sufficient is Allah as a Helper and Supporter.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

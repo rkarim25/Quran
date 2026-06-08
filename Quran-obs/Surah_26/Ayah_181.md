@@ -84,6 +84,15 @@ and subjected them to a terrible rain. So evil was the rain of those who were wa
 
 This verse has confirmed that if a man commits sodomy, he may be punished with throwing a wall on him or by throwing him down from a high place, as suggested by Hanafi scholars, because the people of Lut (علیہ السلام) were destroyed in a similar manner. Their township was lifted and thrown on the ground. (Shami Kitab Al-Hudud)
 
+## AI Translation
+
+Give full measure, and cause no loss to others.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Command to Give Full Measure Allah commanded them to give full measure, and forbade them to give short measure.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -128,6 +128,17 @@ Al-Bukhari recorded that Abu Hurayrah narrated that the Prophet ﷺ said,
 
 That is, 'I have made my decision which will certainly be implemented: it will never be changed. I will not punish anyone, except on account of their sins after the proof has been established against them. This is an absolutely fair and just decision.'
 
+## AI Translation
+
+On the Day We ask Hell, 'Are you full?' it will answer, 'Are there any more?'
+
+## AI Tafsir
+
+**What this ayah teaches:** He, the Exalted and Most Honored, will decide who will be thrown into the Fire and she will keep saying, "Are there any more," or, 'Are there any more whom You will provide me with?' This is the apparent meaning of this Ayah which is supported by several Hadiths.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Paradise until Allah creates another creation and He, the Exalted, makes them dwell in the empty parts of Paradise. (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -428,6 +428,19 @@ Rulings:
 
 7. In addition to that, if it is proved later that the person who was given Zakah was rich, or a Hashimite Sayyid, that is, a lineal descendant of the Holy Prophet ﷺ or a father, or son, or wife, or husband, then, it is not necessary to repay the Zakah. The reason is that the amount of Zakah has gone out of his ownership and has al-ready reached its place of reward with Allah. As for the error in deter-mining the right recipient due to some misunderstanding, it should be taken as forgiven. (al-Durr al-Mukhtar) The explanation of the verse of Sadaqat and the details of necessary issues related to it ends here.
 
+## AI Translation
+
+Alms-tax is only for the poor and the needy, for those employed to administer it, for those whose hearts are attracted, for slaves, for those in debt, for Allah’s cause, and for travellers. an obligation from Allah. And Allah is All-Knowing, All-Wise.
+
+## AI Tafsir
+
+**Context:** This was the background in which this verse was revealed. Now, before going to its explanation in full, please understand that Allah Jalla Thana'uh has promised sustenance for the entire creation.
+
+**What this ayah teaches:** In fact, this is a right of the needy the fulfillment of which is their duty.
+
+**Classical tafsir:** Ibn Kathir notes: The majority of jurists and Hadith experts agree that it refers to slaves who enter into a deal with their masters that they would earn the amount specified by them, give it to them as they earn, and once the agreed amount is paid off, they shall be free.
+
+**From the Sunnah:** After Allah mentioned the protest that the ignorant hypocrites mentioned to the Prophet ﷺ about the distribution of alms.
 ## Personal Reflections
 
 

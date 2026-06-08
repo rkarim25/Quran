@@ -130,6 +130,17 @@ Surah Al-Ma’ un
 
 Ends here
 
+## AI Translation
+
+those who perform to be seen—curating religiosity for reputation;
+
+## AI Tafsir
+
+**What this ayah teaches:** Traditions reporting that ma’ un refers to pots and pans, and other household items of daily use are to show that if a person is reluctant to part with such small items, how will he have the heart to part with 2-½% of his wealth?
+
+**Classical tafsir:** Ibn Kathir notes: This may either be referring to its act entirely, as Ibn 'Abbas said, or it may be referring to performing it in its stipulated time that has been legislated Islamically. Have you seen the one who denies the Din'?' Here the word Din means the Hereafter, the Recompense and the Final Reward.
+
+**From the Sunnah:** This does not refer to the unintentional errors, slips and mistakes that Muslims make in their prayers.
 ## Personal Reflections
 
 

@@ -154,6 +154,15 @@ Commentary
 
 The word انتَبَذَتْ is derived from نَبَذ which means to throw away or to cast away. Hence, the meaning of انتَباَذَ is to withdraw from the crowd. مَكَانًا شَرْ‌قِيًّا denotes that she retired to a secluded corner of the house facing east. The purpose of her shifting to a secluded corner of the house has been differently explained. Some say she had moved there to take a bath, while others say that she had moved as usual to a secluded corner on the eastern side of her place of worship for offering her prayers. Qurtubi has given preference to the second explanation. According to Sayyidna Ibn ` Abbas ؓ ، this is the reason why the Christians face east when offering their prayers, and revere the eastern direction.
 
+## AI Translation
+
+And mention in the Book Mary, when she withdrew from her family to a place in the east,
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah mentioned the story of her mother's pregnancy with her in Surah Āl-'Imrān, and that she (Maryam's mother) dedicated her freely for the service of Allah.
+
+**Classical tafsir:** Ibn Kathir notes: And he will speak to the people, in the cradle and in manhood, and he will be one of the righteous.)[3:45-46] This means that he will call to the worship of his Lord in his cradle and while and adult.
 ## Personal Reflections
 
 

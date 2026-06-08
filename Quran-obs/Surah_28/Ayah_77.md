@@ -173,6 +173,17 @@ What is his 'share in this world'? Many commentators have explained that it refe
 
 However, some other commentators have explained that the meaning of the second sentence is that whatever Allah has given you, make use of it for the Hereafter, without loosing sight of your needs in this world. In other words do not become a pauper by giving away everything in charity. Instead, retain something for your own needs as well. Under this explanation, 'your share in the world' means one's own needs in this world.
 
+## AI Translation
+
+Rather, seek the reward of the Akhirah by means of what Allah has granted you, without forgetting your share of this dunya. And be good to others as Allah has been good to you. Do not seek to spread corruption in the land, for Allah certainly does not like the corruptors.”
+
+## AI Tafsir
+
+**What this ayah teaches:** The Muslims advised Qarun that he should try to do as much good as possible for the Hereafter by utilizing the wealth Allah Ta’ ala had given him, and 'should not forget his share in the world'. Many commentators have explained that it refers to his life in this world and the deeds that may help him in the Hereafter which include charity and all other righteous deeds.
+
+**Classical tafsir:** Ibn Kathir notes: Many commentators have explained that it refers to his life in this world and the deeds that may help him in the Hereafter which include charity and all other righteous deeds.
+
+**From the Sunnah:** The Muslims advised Qarun that he should try to do as much good as possible for the Hereafter by utilizing the wealth Allah Ta’ ala had given him, and 'should not forget his share in the world'.
 ## Personal Reflections
 
 

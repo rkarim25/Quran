@@ -86,6 +86,15 @@ They knew that their idols could not do anything, but they had seen their father
 
 The reasoning for this he gave إِنَّ مَعِيَ رَ‌بِّي سَيَهْدِينِ (62) "Indeed with me is my Lord. He will guide me." Such are the moments for the test of faith, when Sayyidna Musa (علیہ السلام) was not terror stricken at all, as if he was seeing for himself the way out. Almost the same thing happened with Holy Prophet ﷺ at the time of migration while hiding in the cave of Thaur. The enemy had reached right at the opening of the cave in his pursuit. In fact they were so close that they could have seen him if they had looked down towards their toes. Sayyidna Abu Bakr ؓ got alarmed a little, but Holy Prophet ﷺ said exactly the same thing لَا تَحْزَنْ إِنَّ اللَّـهَ مَعَنَا ` Do not grieve, Allah is surely with us' (9:40). It is worth noting in the two incidents that while Sayyidna Musa (علیہ السلام) said to his Ummah in order to console them مَعِيَ رَ‌بِّي ` With me is my Lord', Holy Prophet ﷺ said toSayyidna Abu Bakr ؓ in reply ` Allah is with us (two) '. It is a special privilege of the Ummah of Muhammad ﷺ that his followers are also honoured by the company of Allah when they are with their Rasul.
 
+## AI Translation
+
+They replied, “We worship idols, to which we are fully devoted.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah commanded His Messenger Muhammad ﷺ to recite this story to his Ummah so that they could follow this example of sincerity towards Allah, putting one's trust in Him, worshipping Him Alone with no partner or associate, and renouncing Shirk and its people.
+
+**Classical tafsir:** Ibn Kathir notes: Allah commanded His Messenger Muhammad ﷺ to recite this story to his Ummah so that they could follow this example of sincerity towards Allah, putting one's trust in Him, worshipping Him Alone with no partner or associate, and renouncing Shirk and its people.
 ## Personal Reflections
 
 

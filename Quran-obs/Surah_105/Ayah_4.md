@@ -164,6 +164,17 @@ This is the end of the Tafsir of Surat Al-Fil, and all praise and thanks are due
 
 Verse [ 105:4] بِحِجَارَ‌ةٍ مِّن سِجِّيلٍ (...stones of baked clay.) The word sijjil is a compound Persian word, Arabiciszed, made up of two Persian words: sang [ stone ] and gil [ clay ]. They refer to ordinary or common clay rolled into little balls and then baked to harden. These pebbles are not heavy or hard like rocks chipped off mountains. They in themselves did not have any devastating power, but it was Allah who created in these stones the high capability of explosion and blowing-up even more than the bullets of a revolver.
 
+## AI Translation
+
+striking them with stones of baked clay—
+
+## AI Tafsir
+
+**What this ayah teaches:** And He made them like 'Asf, Ma'kul.) This is one of the favors Allah did for the Quraysh.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, Abrahah sent a messenger with gifts and precious objects to An-Najashi to appease him and flatter him, and a sack containing soil from Yemen and a piece of hair cut from his forelock.
+
+**From the Sunnah:** However, this was a means of giving a sign and preparing the way for the coming of the Messenger of Allah ﷺ. We have mentioned previously in the Tafsir of Surat Al-Fath that when the Messenger of Allah ﷺ approached the mountain pass that would lead him to the Quraysh on the Day of Al-Hudaybiyyah, his she-camel knelt down.
 ## Personal Reflections
 
 

@@ -104,6 +104,15 @@ Useful vocations are Divine Graces provided they are not employed in bad things
 
 This verse indicates that nice vocations are Allah's Graces, and to draw benefit from them is lawful. But if they are used for some sinful purpose or in an unlawful act, or if someone gets involved in them with unnecessary concentration, then it is not lawful to adopt them. An example of unnecessary construction of tall buildings and its contempt has just been mentioned in the previous verses.
 
+## AI Translation
+
+You are only a human being like us, so bring forth a sign if what you say is true.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, in this is indeed a sign, yet most of them are not believers (158)And verily, your Lord He is indeed the All-Mighty, the ar-Rahim . Therefore, the meaning of the verse is that Allah Ta’ ala has favoured you by teaching such skills that you could make houses by cutting hills.
+
+**Classical tafsir:** Ibn Kathir notes: Useful vocations are Divine Graces provided they are not employed in bad things This verse indicates that nice vocations are Allah's Graces, and to draw benefit from them is lawful.
 ## Personal Reflections
 
 

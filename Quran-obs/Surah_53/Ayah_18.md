@@ -292,6 +292,17 @@ So far we have proved that the possibility does exist, but the question is wheth
 
 Likewise, Hafiz (رح) in Fath-ul-Bari [ vol 8/p.494] under the Tafsir of Surah An-Najm has cited the differences of the Companions and their followers and then quoted some such statements which reconcile the divergent views. He further says that Qurtubi in his work mufhim prefers to observe silence in the matter and not to decide either way, because this question does not concern our practical life so that we have to choose a particular direction. The question concerns our belief system, in which case incontestable evidence is required. In any matter which cannot be proved incontestably, the rule is to observe silence. This author believes that this is the most sound and circumspect approach to the issue. Therefore, the arguments of the two groups have not been cited. Allah, the Pure and the Exalted, knows best!
 
+## AI Translation
+
+He certainly saw some of his Rabb's greatest signs.
+
+## AI Tafsir
+
+**Context:** He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While he was in the highest part of the horizon (7)Then he approached and came closer (8)And was at a distance of two bows' length or less (9)So (…
+
+**What this ayah teaches:** He further says that Qurtubi in his work mufhim prefers to observe silence in the matter and not to decide either way, because this question does not concern our practical life so that we have to choose a particular direction.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, this verifies the facts mentioned, leaving no doubt or means of refute.
 ## Personal Reflections
 
 

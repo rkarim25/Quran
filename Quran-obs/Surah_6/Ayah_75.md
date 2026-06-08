@@ -166,6 +166,15 @@ These Ayat indicate that Ibrahim was debating with his people about the Shirk th
 
 First, it was idol worship. He said that it was error, and straying. Then, in the next verses, he pointed out to stars as unworthy of worship. And a little earlier in verse 75, it is in the form of an introduction that Allah Ta` ala mentions a particular elegance and insight of Sayyidna Ibrahim (علیہ السلام) by saying: وَكَذَٰلِكَ نُرِ‌ي إِبْرَ‌اهِيمَ مَلَكُوتَ السَّمَاوَاتِ وَالْأَرْ‌ضِ وَلِيَكُونَ مِنَ الْمُوقِنِينَ ﴿75﴾ that is, ` We made Ibrahim (علیہ السلام) see what We have created in the heavens and the earth in a way which would unravel the reality of all these created objects manifestly so that he may become firm in his belief.' What came to pass after that has taken the shape of a wondrous dialogue that appears in later verses (which shows a certain quality even in the translated form of the meanings of the totally untranslatable beauty, diction and elan of the original) and it would be useful to dwell upon the manner in which it emerges stage by stage.
 
+## AI Translation
+
+We also showed Abraham the wonders of the heavens and the earth, so he would be sure in faith.
+
+## AI Tafsir
+
+**What this ayah teaches:** In the first case with his father, Ibrahim explained to his people their error in worshipping the idols of earth, which they made in the shape of heavenly angels, so that they intercede on their behalf with the Glorious Creator.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, you are in disarray and ignorance, and this fact is clear to all those who have sound reason.
 ## Personal Reflections
 
 

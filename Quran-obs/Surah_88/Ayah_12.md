@@ -106,6 +106,15 @@ Ibn 'Abbas said, "Az-Zarabi are carpets." This was also said by Ad-Dahhak and ot
 
 This shows that false accusation and absurd talks are hurtful. That is why the Holy Qur'an has described it as a blessing to the inmates of Paradise that no such foolish words will come across their ears that may pollute their hearts.
 
+## AI Translation
+
+with a running spring,
+
+## AI Tafsir
+
+**What this ayah teaches:** Faces that Day will be joyful (8)Glad with their endeavor (9)In a lofty Paradise (10)Where they shall neither hear harmful speech nor falsehood (11)Therein will be a running spring (12)Therein will be thrones raised high (13)And cups set at hand (14)And Namariq, set in rows (15)And Zarabi, spread out (Mabthuthah).
+
+**Classical tafsir:** Ibn Kathir notes: Here the word Mabthuthah means placed here and there for whoever would like to sit upon them.
 ## Personal Reflections
 
 

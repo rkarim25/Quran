@@ -148,6 +148,15 @@ Ibn Kathir reports a narration from Sayyidna Abu Dharr ؓ that once the Holy Pro
 
 According to another narration, after reciting the verse cited above, he raised his hands facing the heaven and said: اَللَّھُمَّ اُمَّتِی (Allahumma Ummati that is, ` 0 Allah, mercy - mercy on my people.' And then he wept. Thereupon, Allah Ta` ala sent angel Jibra'il (علیہ السلام) to ask why would he weep. He told the angel what he had said. Then, Allah Ta` ala asked angel Jibra'il to go back and tell Muhammad that He will please him soon in his concern for his people and will not let him be unhappy.
 
+## AI Translation
+
+If You punish them, they belong to You after all. But if You forgive them, You are surely the Almighty, All-Wise.”
+
+## AI Tafsir
+
+**What this ayah teaches:** And since He is Wise too, therefore, it is also not possible that He would let a wrong-doer walk away just for no reason.
+
+**Classical tafsir:** Ibn Kathir notes: ) appearing in the last verse (118), it means that Allah does not bring undue hardship on His servants, therefore, if punishment does come to them, it will only be just, right and wise.
 ## Personal Reflections
 
 

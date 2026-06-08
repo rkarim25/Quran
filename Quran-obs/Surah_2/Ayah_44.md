@@ -126,6 +126,17 @@ Maulana Ashraf ` Ali Thanavi (رح) used to say that when he became aware of a c
 
 In short, verse 44 does not imply that the man who has been indifferent to good deeds in his own life is not allowed to preach or to give good counsel, but that the man who preaches should not neglect good deeds in his own life. Now, a new question arises here - it is not permissible for a preacher and non-preacher alike to neglect good deeds, then why should the preacher alone be specifically discussed in this context? We would reply that such negligence is, no doubt, impermissible for both, but the crime of the preacher is more serious and reprehensible than that of the non-preacher, for the former commits a crime knowing that it is crime, and cannot plead ignorance as an excuse. On the contrary, the non-preacher, especially if he is illiterate , may be committing the sin of not trying to acquire knowledge, but, as far as the transgression of the Shari'ah is concerned, he can, to a certain degree plead ignorance of the law as his excuse. Moreover, if a scholar or a preacher commits a sin, he is actually mocking at the Shari'ah. The blessed Companion Anas ؓ reports from the Holy Prophet ﷺ that on the Day of Judgment, Allah will forgive illiterate and ignorant people much more readily than He will the scholars.
 
+## AI Translation
+
+Do you command others to righteousness and forget yourselves, though you recite the Scripture? Will you not use reason?
+
+## AI Tafsir
+
+**What this ayah teaches:** We should state that Allah is not criticizing the People of the Book for ordering righteousness, because enjoining good is a part of righteousness and is an obligation for the scholars.
+
+**Classical tafsir:** Ibn Kathir notes: We should state that Allah is not criticizing the People of the Book for ordering righteousness, because enjoining good is a part of righteousness and is an obligation for the scholars.
+
+**From the Sunnah:** I will not say to a man, 'You are the best man,' even if he was my leader, after what I heard from the Messenger of Allah ﷺ.' They said, 'What did he say?' He said, 'I heard him say, (Musnad Ahmad) This Hadith was also recorded by Al-Bukhari and Muslim. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

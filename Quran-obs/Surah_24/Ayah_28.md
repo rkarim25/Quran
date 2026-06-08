@@ -238,6 +238,17 @@ Ruling
 
 The foregoing ruling relates to the situation when one has sought permission thrice by knocking and greetings. In that situation to keep on waiting there would cause trouble to the host. But if someone waits at the door of a scholar or a pious person without seeking permission or without informing him, in the hope that he would meet him when he would come out according to his convenience, such a waiting is not undesirable, rather it is a great respect shown by the caller. The Qur'an itself has advised people that to call the Holy Prophet ﷺ while he is inside, with the purpose of calling him out of the house is disrespect to him. People should wait for him outside until he comes out on his own according to his convenience. The related verse says وَلَوْ أَنَّهُمْ صَبَرُ‌وا حَتَّىٰ تَخْرُ‌جَ إِلَيْهِمْ لَكَانَ خَيْرً‌ا لَّهُمْ (And if they had patience until you come out to them, that would be better for them - 49:5). Sayyidna Ibn ` Abbas ؓ has said, ` Sometimes I keep on waiting the whole afternoon at the door of an Ansari companion until he would come out on his own, for asking about some Ahadith . Had I sought permission to go in, he would have definitely allowed me, but I regarded that against ethics. That is why I used to bear the trouble of waiting'. (Sahih a1-Bukhari).
 
+## AI Translation
+
+If you find no one at home, do not enter it until you have been given permission. And if you are asked to leave, then leave. That is purer for you. And Allah has perfect knowledge of what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** One should seek permission three times, and if permission is given, (he may enter), otherwise he should go away.
+
+**Classical tafsir:** Ibn Kathir notes: Some people of the past ages are reported to have said ` I waited all my life wishing that I visit someone and seek permission to go in the house, and the host turns down my request asking me to go back so that I could be rewarded the grace of this Qur’ anic injunction by followi…
+
+**From the Sunnah:** the Messenger of Allah ﷺ asked for permission to enter upon Sa'd bin 'Ubadah. (Musnad Ahmad) In the Two Sahihs, it is recorded that the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

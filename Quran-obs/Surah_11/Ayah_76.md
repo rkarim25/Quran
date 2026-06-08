@@ -105,6 +105,15 @@ Certainly great is the majesty of Allah Ta'ala. When He seizes a people in punis
 
 Allah Ta` ala has, in His great design, made this world of ours an open gallery of lessons full of the countless exhibits of His perfect power and eloquent wisdom. He made His friend Sayyidna Ibrahim (علیہ السلام) come out as a prophet from the home of Azar, the idol-worshipper. In the home of the highly revered prophet, Sayyidna Lut (علیہ السلام) there was that wife of his who worked in league with disbelievers and opposed her prophet husband. When these honored guests in the form of handsome young men came to stay at the home of Sayyidna Lut (علیہ السلام) his wife passed on the information to perverted hoods from these people telling them about the kind of guests they had in their home on that day. (Qurtubi, Mazhari)
 
+## AI Translation
+
+The angels said, “O Abraham! Plead no more! Your Rabb’s decree has already come, and they will certainly be afflicted with a punishment that cannot be averted!”
+
+## AI Tafsir
+
+**What this ayah teaches:** Certainly great is the majesty of Allah Ta'ala.
+
+**Classical tafsir:** Ibn Kathir notes: Indeed, the commandment of your Lord has gone forth.) This means the decree was settled concerning them and the Word was already given that they should be destroyed.
 ## Personal Reflections
 
 

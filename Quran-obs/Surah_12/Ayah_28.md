@@ -143,6 +143,15 @@ In the last two (28 29) of the verses cited above, it has been stated that the `
 
 According to a narration of Sayyidna Abu Hurairah ؓ عنہ appearing in the Tafsir of Al-Qurtubi, the Holy Prophet is reported to have said: The guile of women is stronger than the guile of Shaytan - because, about the guile of the Shaytan, Allah Ta ala has said that it is weak: كَيْدَ الشَّيْطَانِ كَانَ ضَعِيفًا (4:76); and about the guile of women, it was said: إِنَّ كَيْدَكُنَّ عَظِيمٌ (great is the guile of you women - 12:28). And it is obvious that not all women are meant here. Instead, meant here are only those of them who are involved in practicing guiles and excuses.
 
+## AI Translation
+
+So when her husband saw that Joseph’s shirt was torn from the back, he said to her, “This must be an example of the cunning of you women! Indeed, your cunning is so shrewd!
+
+## AI Tafsir
+
+**What this ayah teaches:** Then he said that great is the guile of women for it is difficult to understand and not easy to get out from.
+
+**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported that Jabir said that Ibn Abi Mulaykah said that Ibn 'Abbas said, "He was from the king's entourage." Mujahid, 'Ikrimah, Al-Hasan, Qatadah, As-Suddi, Muhammad bin Ishaq and others also said that the witness was an adult male.
 ## Personal Reflections
 
 

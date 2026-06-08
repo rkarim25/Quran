@@ -155,6 +155,17 @@ Allah does not bring aright the works of those who commit mischief. Jabir bin 'A
 
 In the third (109) and the fourth (110) verses, Masjid Dirar (the harmful mosque) made by the hypocrites has been condemned as it has to be when compared with a masjid that is blessed. This has been accomplished through the use of a similitude. The surface of the land on which they were laying the foundation of their ` masjid' has been likened to a landmass that has been corroded on the inside by flowing water. The topsoil looks solid and smooth. Now, if someone starts building there, it is obvious that the whole thing would collapse instantly. Similarly, the foundation of this Masjid Dirar was inherently unstable. The result was that it collapsed and went right into the fire of Jahannam. The expression ` collapsed into the fire of Jahannam' could be figurative in its sense - in that it smoothed out the way of Jahannam for its makers. Some others have taken it in the real sense - in that the masjid, when made to collapse, went into the Jahannam. Allah knows best.
 
+## AI Translation
+
+Which is better: those who laid the foundation of their building on the fear and pleasure of Allah, or those who did so on the edge of a crumbling cliff that tumbled down with them into the Fire of Hell? And Allah does not guide the wrongdoing people.
+
+## AI Tafsir
+
+**What this ayah teaches:** Now, if someone starts building there, it is obvious that the whole thing would collapse instantly.
+
+**Classical tafsir:** Ibn Kathir notes: Is it then he who laid the foundation of his building on Taqwa to Allah and His good pleasure better, or he who laid the foundation of his building on the brink of an undetermined precipice ready to crumble down, so that it crumbled to pieces with him into the fire of Hell.
+
+**From the Sunnah:** Jabir bin 'Abdullah said, "I saw the Masjid that was built to cause harm with smoke rising up from it, during the time of the Messenger of Allah ﷺ." Allah's statement,
 ## Personal Reflections
 
 

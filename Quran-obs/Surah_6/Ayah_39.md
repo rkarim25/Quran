@@ -180,6 +180,17 @@ Maximum Regard for the Rights of Allah's Creation
 
 Everyone knows that animals have not been obligated to observe the percepts of any Shari` ah or code of laws. Only human beings and Jinns have been so obligated. And it is obvious that the jurisdiction of reward and punishment does not apply to the non-obligated. Therefore, ` Ulama' have said that the retaliation against the behaviour of animals on the day of Resurrection will not be because of their being obligated, but it will be because of the Lord's utmost regard for equity and justice - based on which the cruelty of one living creature against' the other living creature will be recompensed, with no reward or punishment to follow for the rest of their behaviour. This tells us that the matter of mutual rights, and their infringements, pertaining to the creation of Allah is so serious that even non-obligated animals have not been left as exempted from it. But, it is regrettable that there are even many religiously-observing people who would act negligently about it.
 
+## AI Translation
+
+Those who deny Our signs are deaf and dumb—lost in darkness. Allah leaves whoever He wills to stray and guides whoever He wills to the Straight Way.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah sends astray whom He wills and He guides on the straight path whom He wills . We have neglected nothing in the Book, then unto their Lord they (all) shall be gathered (38)Those who reject Our Ayat are deaf and dumb in darkness.
+
+**Classical tafsir:** Ibn Kathir notes: But, He decided out of His wisdom to delay that, because if He sends an Ayah of their liking and they still do not believe, this will hasten their punishment as with the previous nations.
+
+**From the Sunnah:** And this was reported from the Prophet ﷺ in the Hadith about the Trumpet.
 ## Personal Reflections
 
 

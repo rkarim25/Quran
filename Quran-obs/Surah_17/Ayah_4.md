@@ -181,6 +181,17 @@ Commentary
 
 The outcome of the events mentioned above is that Allah Ta’ ala had decreed that the Bani Isra'il will be successful, having the best of both worlds, the material and the spiritual, as long as they continue to obey Allah. But, whenever they deviate from the dictates of Faith, they shall be put to disgrace, and that they would be subjected to punishment at the hands of enemies and disbelievers. Then, not only that the enemies will run over them destroying their lives and properties, but it would also happen that their Qiblah, their sacred Baytul-Maqdis, will also not remain safe against the onslaught of that enemy. Their disbelieving enemies will barge into the Mosque of Baytul-Maqdis and defile and damage it. This too will be a part of the punishment of Bani Isra'il themselves. The Holy Qur'an has told us about two events relating to them. The first one dates back to the time of Mosaic religious law while the second pertains to the Christian. During both these periods, the Bani Isra'il rebelled against the divine law of the time. In the first case, a disbelieving Magian monarch was made to sit over them, and Baytul-Maqdis, who brought great destruction upon them. In the second case, a Roman emperor was set against them who killed and pillaged and made Baytul-Maqdis all demolished and rendered desolate. And along with this description, it has also been mentioned that the Bani Isra'il - when, on both occasions, they repented from their misdeeds resolving not to go near them again - Allah Ta` ala reinstated their country, wealth and children.
 
+## AI Translation
+
+And We warned the Children of Israel in the Scripture, “You will certainly cause corruption in the land twice, and you will become extremely arrogant.
+
+## AI Tafsir
+
+**Context:** Allah tells us that He made a declaration to the Children of Israel in the Scripture, meaning that He had already told them in the Book which He revealed to them, that they would cause mischief on the earth twice, and wo…
+
+**What this ayah teaches:** Many Isra'iliyyat (reports from Jewish sources) were narrated about this, but I did not want to make this book too long by mentioning them, because some of them are fabricated, concocted by their heretics, and others may be true, but we have no need of them, praise be to Allah. Because of that blood, he killed seventy thousand of the believers and others, then the blood stopped boiling.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Hasir here means a jail." Mujahid said, "They will be detained in it." Others said likewise.
 ## Personal Reflections
 
 

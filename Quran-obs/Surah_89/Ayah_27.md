@@ -122,6 +122,19 @@ This is the end of the Tafsir of Surat Al-Fajr, and all praise and blessings are
 
 ارْجِعِي إِلَىٰ رَبِّكِ (come back to your Lord....89:28). The words 'come back' indicate that his first place was with his Lord, and now he is commanded to go back to Him. This confirms the narration that the souls of the believers, together with their Book of Deeds, will be in ` illiyin. ` Illiyin is a place on the seventh heaven in the shade of the Throne of the Most-Merciful Lord. This is the original resting-place of all human souls, from where they are brought out and put into human body. After death, the souls are returned to that place.
 
+## AI Translation
+
+O tranquil soul—the nafs mutma'innah, the soul at peace with Allah, no longer torn between craving and fear—
+
+## AI Tafsir
+
+**Context:** He said, "This Ayah was revealed while Abu Bakr was sitting (with the Prophet ﷺ). So he said, 'O Messenger of Allah! There is nothing better than this!' The Prophet ﷺ then replied,
+
+**What this ayah teaches:** Here the soul of the believer is referred to as nafs mutma'innah 'the contented soul'.
+
+**Classical tafsir:** Ibn Kathir notes: The word mutma'innah literally means 'calm'.
+
+**From the Sunnah:** This is similar to what Imam Ahmad bin Hanbal recorded from Muhammad bin Abi 'Amirah, who was one of the Companions of the Messenger of Allah ﷺ. (Musnad Ahmad)
 ## Personal Reflections
 
 

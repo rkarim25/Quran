@@ -168,6 +168,17 @@ Only Sayyidna ` Ali ؓ Acted upon the verse
 
 It is a remarkable co-incidence that most of the blessed Companions ؓ ، because of financial constraints, were unable to act upon this verse. Its provision was repealed. Sayyidna Ali ؓ used to say that there is a verse in the Qur'an that none before me and none after me has ever acted upon it. The meaning of the phrase 'none before me' is obvious. The phrase 'none after me' means 'none after me will practise it' because the verse is abrogated. Although the ordinance is repealed, it achieved its basic purpose. The Muslims, because of the dictates of their sincere love, avoided their protracted audiences with the Prophet ﷺ so that he is not inconvenienced in any way. The hypocrites avoided protracted audiences with him because they feared that they would be recognized for what they are and their hypocrisy would be exposed. Allah knows best!
 
+## AI Translation
+
+O believers: when you consult the Messenger privately, give something in charity before your consultation. That is better and purer for you. If you cannot afford it, Allah is All-Forgiving, the Rahim—whose special mercy is for believers in the Akhirah.
+
+## AI Tafsir
+
+**Context:** يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نَاجَيْتُمُ الرَّ‌سُولَ (0 those who believe, when you consult the Messenger of Allah, ...58:12) The Messenger of Allah ﷺ was preoccupied day and night with educating the people and i…
+
+**What this ayah teaches:** But if you find not (the means for it), then verily, Allah is Oft-Forgiving, ar-Rahim (12)Are you afraid of spending in charity before your private consultation (with him)?
+
+**Classical tafsir:** Ibn Kathir notes: 'Abdur-Razzaq recorded that Mujahid said that 'Ali said, "No one except me implemented this Ayah, until it was abrogated," and he was reported to have said that it remained in effect for merely an hour.
 ## Personal Reflections
 
 

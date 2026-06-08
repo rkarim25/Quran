@@ -178,6 +178,17 @@ This interpretation of 'diminishing by earth' is reported from Sayyidna Ibn ` Ab
 
 فِي أَمْرٍ‌ مَّرِ‌يجٍ (so they are in a confused state... 5). The word Mar, (translated above as 'confused' ) means something mixed up with different elements. Such a thing generally becomes corrupt or spoiled. Therefore, Sayyidna Abu Hurairah ؓ ، translates the word marij as "corrupt". Sayyidna Dahhak, Qatadah, Hasan Basri رحمۃ اللہ علیہم and others interpret the word marij to mean "in disarray, in a confused state". This is the state of those who deny the prophethood of the Holy Prophet ﷺ : whatever they say and utter is no more than confusion. They are not even consistent in their claims. Sometimes they call the Holy Prophet ﷺ a sorcerer, at other times a poet; and yet at other times they refer to him as a soothsayer or an astrologer. They were so confused that they could not extricate themselves from their perplexity.
 
+## AI Translation
+
+We know exactly what the earth consumes of them after death. With Us is a preserved Record that nothing escapes.
+
+## AI Tafsir
+
+**What this ayah teaches:** We know that which the earth takes of them, and with Us is a Book preserved.)(5.
+
+**Classical tafsir:** Ibn Kathir notes: Some common people say that the Mufassal starts with Surah 'Amma An-Naba, (chapter 78), however, this is not true because none of the respected scholars ever supported this opinion.
+
+**From the Sunnah:** Paradise, the Fire, Allah's reward and punishment, lessons of encouragement, and lessons of discouragement. Al-'Awfi narrated that 'Abdullah bin 'Abbas commented on the statement of Allah the Exalted,
 ## Personal Reflections
 
 

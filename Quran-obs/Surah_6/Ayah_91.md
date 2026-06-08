@@ -313,6 +313,17 @@ After that, addressing the same people, it has been said: وَعُلِّمْتُ
 
 At the end of verse (91), it was said: قُلِ اللَّـهُ ۖ ثُمَّ ذَرْ‌هُمْ فِي خَوْضِهِمْ يَلْعَبُونَ (Say, "Allah." Then leave them playing with what they are indulged in). In other words, the sense is: As for the question - if Allah just did not send any book, who sent the Torah? - it was something they would not know how to answer, so, you go ahead and tell them that it was revealed by none but Allah. Now that the argument against them stands concluded, your mission as far as they are concerned is over. So, let them be lost in the game they are playing.
 
+## AI Translation
+
+And they have not shown Allah His proper reverence when they said, “Allah has revealed nothing to any human being.” Say, “Who then revealed the Book brought forth by Moses as a light and guidance for people, which you split into separate sheets—revealing some and hiding much? You have been taught what neither you nor your forefathers knew.” Say, “Allah !” Then leave them to amuse themselves with falsehood.
+
+## AI Tafsir
+
+**Context:** Allah says that those who rejected His Messengers did not give Allah due consideration. Ibn 'Abbas, Mujahid and 'Abdullah bin Kathir said that this Ayah was revealed about the Quraysh.
+
+**What this ayah teaches:** You then said, "this is from Allah," meaning it is in the revealed Book of Allah, when in fact, it is not from Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Allah sent the Tawrah as a light and a guidance for people, so that it could shed light on the answers to various disputes, and to guide away from the darkness of doubts.
 ## Personal Reflections
 
 

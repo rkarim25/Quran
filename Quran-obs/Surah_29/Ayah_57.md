@@ -98,6 +98,17 @@ Ibn Abi Hatim, may Allah have mercy on him, recorded from Abu Mu'aniq Al-Ash'ari
 
 The answer to this problem is given in the next verse: كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ (Every person has to taste death - 29:57) that is, no one has any escape from death anywhere in any situation. Therefore, it should not be the trait of a Muslim to be afraid of death, because despite all possible defenses one may arrange for himself, death will overcome him. And it is also part of a believer's faith that death cannot come before the time Allah has determined. Therefore, fear of death should not be an impediment in one's decision about his staying at a certain place or leaving it. If death comes during the course of following a command from Allah Ta’ ala, it would bring eternal blessings and comforts, which one will get in the Hereafter, as stated in the next two verses:
 
+## AI Translation
+
+Every soul will taste death. Then to Us you will all be returned.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then unto Us you shall be returned.) meaning, 'wherever you are, death with catch up with you, so always obey Allah and be where Allah commands you to be, for this is better for you. Therefore worship Me (56)Everyone shall taste death.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore worship Me.) When things became too difficult for the believers in Makkah who were in a weak position and were oppressed, they left and migrated to Ethiopia, where they were able to practice their religion.
+
+**From the Sunnah:** The Muslims found Ethiopia the best place for guest; where Ashamah, the Negus or king, may Allah have mercy on him, gave them refuge, helped them, supported them, and honored them in his land. Ibn Abi Hatim, may Allah have mercy on him, recorded from Abu Mu'aniq Al-Ash'ari that Abu Malik Al-Ash'ari told him that the Messenger of Allah ﷺ told him:
 ## Personal Reflections
 
 

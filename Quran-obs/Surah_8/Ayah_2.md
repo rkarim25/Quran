@@ -234,6 +234,17 @@ The Third Attribute : Trust in Allah
 
 The third attribute of a believer identified here is that he or she should place their trust in Allah. The Arabic word: Tawakkul means trust. The sense is that the believer should have total trust in Allah, One and Pure, free of all conceivable associations and ascriptions, not simply theoretically, but in deeds too, and in all states and conditions of one's life as well. In a sound Hadith, the Holy Prophet ﷺ has said: This does not mean that one should abandon material causes and means when it comes to taking care of one's legitimate needs. The point is that one should not consider material means and instruments as sufficient for real success, instead of which, one should do his best, subject to his ability and courage, to assemble and utilize necessary material means. It is only after that one should entrust his matter with Allah Ta` ala believing that He is the One who has created all means and He is certainly the One who makes means to bear fruits. What would come to be has to be what He wills. In another Hadith, he said: اجملوا فی الطلب و توکلوا علیہ . It means: Make a moderate effort to procure what you need through material means, and then place your trust in Him. In other words, do not let your heart and mind get bogged down with nothing but material ways and means.
 
+## AI Translation
+
+The true mu'minin are only those whose hearts tremble when Allah is remembered, whose iman grows when His ayat are recited to them, and who place their trust in their Rabb—the One who creates, owns, nurtures, and sustains them.
+
+## AI Tafsir
+
+**What this ayah teaches:** In both these verses, identified there is a very special pre-requisite of the mention, thought and remembrance of Allah (Dhikr) which is awe and fear.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "Establishing the prayer requires preserving its times, making ablution for it, bowing down and prostrating." Muqatil bin Hayyan said, "Establishing the prayer means to preserve its times, perform perfect purity for it, perform perfect bowings and prostrations, recite the Qur'an during… In other words, do not let your heart and mind get bogged down with nothing but material ways and me…
+
+**From the Sunnah:** Sufyan Ath-Thawri narrated that As-Suddi commented, Al-Bukhari and other scholars relied on this Ayah (8:2) and those similar, as evidence that faith increases and varies in strength from heart to heart. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

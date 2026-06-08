@@ -133,6 +133,15 @@ The sense of the book of deeds tied to the neck
 
 It means that one's book of deed stays with the doer no matter where or in whatever condition one is. What he or she does continues to get recorded there. When death comes, the 'book' is closed and set aside safely. After that, when comes the Last Day, the Day of Judgment, this book of deeds will be placed in everyone's hand in order that he would himself read it and also decide himself whether he is deserving of reward or deserving of punishment. It has been reported from Qatadah (رح) that it will be a day when even an illiterate person will be able to read his book of deeds. On this occasion, al-lsbahani has reported on the authority of Sayyidna Abu Umamah ؓ that the Holy Prophet ﷺ said: On the day of Qiyamah, when the book of deeds belonging to people will be given in their hand, someone will notice that some of his good deeds were not recorded there. He will tell his Lord about the particular deeds missing from there. His Lord will tell him that He had erased those deeds for he used to speak ill of people on their backs. (Mazhari)
 
+## AI Translation
+
+We have bound every human’s destiny to their neck. And on the Day of Judgment We will bring forth to each person a record which they will find laid open.
+
+## AI Tafsir
+
+**What this ayah teaches:** The one who is on your right records your good deeds, and the one who is on your left records your bad deeds. 'So do whatever you want, a lot or a little, until you die, then I will fold up your Book and tie it to your neck with you in your grave.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

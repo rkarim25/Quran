@@ -202,6 +202,15 @@ Then he said, "They will continue increasing in torment forever."
 
 وَسُيِّرَ‌تِ الْجِبَالُ فَكَانَتْ سَرَ‌ابًا (and the mountains will be set in motion, so they will be as mirage....78:20). The word suyyirat 'set in motion' signifies that mountains, which are taken as an example of firmness and strength, will be shifted from their positions, and will become like little particles of dust flying about in the atmosphere. The word sarab literally means 'to disappear' and it also refers to 'mirage' or an optical illusion, as of a sheet of water, that sometimes appears in a desert, because it seems to be a sheet of water from a distance, but when a person comes near it, it disappears. [ Sihah and Raghib ].
 
+## AI Translation
+
+mountains blown away like a mirage.
+
+## AI Tafsir
+
+**Context:** (But they denied Our Ayat Kidhdhaba.) meaning, they used to deny the evidences of Allah and His proofs for His creation, which He revealed to His Messengers. So they met these proofs with rejection and obstinance.
+
+**What this ayah teaches:** Verily, the Day of Decision is a fixed time (17)The Day when the Trumpet will be blown, and you shall come forth in crowds (18)And the heaven shall be opened, and it will become as gates (19)And the mountains shall be moved away from their places and they will be as if they were a mirage (20)Truly, Hell is a place of ambus (21)A dwelling place for the Taghun (22)They will abide…
 ## Personal Reflections
 
 

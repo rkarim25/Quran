@@ -140,6 +140,19 @@ This verse was revealed in connection with Sayyidna Sa'd Ibn Abi Waqqas ؓ . He 
 
 Baghawi has reported in his narration that the mother of Sayyidna Sa'd ؓ did not eat and drink for a day and night, and according to some other versions, for three days and three nights, and sticking to her oath, remained hungry and thirsty. For Sayyidna Sa'd ؓ mother's love and obedience was one thing, but Allah's command was another, which naturally took precedence over everything else. So he went to her and said to her firmly ` Dear mother, if there were hundred spirits in your body, and they were departing one by one, I would not have deserted my religion even seeing that scenario. It is now up to you whether you eat and drink or die. In any case I cannot abandon my religion'. Having been disappointed by his firmness, she started eating food.
 
+## AI Translation
+
+We commanded people to honour parents. If they urge you to associate with Me what you have no knowledge of, do not obey them. To Me you will all return, and I will inform you of what you did.
+
+## AI Tafsir
+
+**Context:** (And for those who believe and do righteous good deeds, surely, We shall make them enter with the righteous.) In his Tafsir of this Ayah, At-Tirmidhi recorded that Sa'd said: "Four Ayat were revealed concerning me – and…
+
+**What this ayah teaches:** And We have enjoined on man to be dutiful to his parents; but if they strive to make you associate with Me, which you have no knowledge of, then obey them not. The Command to be Good and Dutiful to Parents Allah commands His servants to be dutiful to parents, after urging them to adhere to belief in His Tawhid, because a person's parents are the cause of his existence.
+
+**Classical tafsir:** Ibn Kathir notes: The Command to be Good and Dutiful to Parents Allah commands His servants to be dutiful to parents, after urging them to adhere to belief in His Tawhid, because a person's parents are the cause of his existence.
+
+**From the…
 ## Personal Reflections
 
 

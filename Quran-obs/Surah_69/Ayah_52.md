@@ -100,6 +100,17 @@ Finally, Allah addresses the Prophet ﷺ ; to say:
 
 Abu Dawud records a narration from Sayyidna 'Uqbah bin Amir Juhani ؓ that when the verse, فَسَبِّحْ بِاسْمِ رَ‌بِّكَ الْعَظِيمِ 'So, pronounce the purity of the name of your magnificent Lord. [ 521' was revealed, the Prophet ﷺ instructed this tasbih to be reserved for the posture of ruku` and when the verse سَبِّحِ اسْمَ رَ‌بِّكَ الْأَعْلَى 'Pronounce the purity of the name of your most Exalted Lord. [ 87:1] ' was revealed, he instructed this tasbih to be reserved for the posture of sajdah. Therefore, by common consent of the Ummah these tasbihat are recited in ruku` and sajdah respectively. According to overwhelming majority, it is Sunnah to recite them and repeat them thrice. Some scholars say it is obligatory.
 
+## AI Translation
+
+So glorify the Name of your Lord, the Greatest.
+
+## AI Tafsir
+
+**Context:** فَسَبِّحْ بِاسْمِ رَ‌بِّكَ الْعَظِيمِ 'So, pronounce the purity of the name of your magnificent Lord. [ 69:52] '. It was shown in the preceding verses that Allah's Messenger ﷺ never speak from his own whims and fancies.
+
+**What this ayah teaches:** And if he had forged a false saying concerning Us (44)We surely would have seized him by his right hand (45)And then We certainly would have cut off Al-Watin from him (46)And none of you could have prevented it from him (47)And verily, this is a Reminder for those who have Taqwa (48)And verily, We know that there are some among you that deny (49)And indeed it will be an anguish for the those who reject the truth…
+
+**Classical tafsir:** Ibn Kathir notes: This signifies that the Prophet ﷺ should not pay any heed to the criticisms of the obdurate those who reject the truth nor should he feel distressed.
 ## Personal Reflections
 
 

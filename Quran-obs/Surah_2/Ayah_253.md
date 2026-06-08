@@ -304,6 +304,17 @@ anyone is better than Yunus ibn Matta) and لا تخیرونی علی موسٰی
 
 3. As regards the statement' مِّنْهُم مَّن كَلَّمَ اللَّـهُ (Among them there is he whom Allah spoke to), it may be noted that the conversation with Musa (علیہ السلام) may be without an angel as intermediary, but it certainly was not without hijab (obstruction of view). So, there remains no conflict of meaning with what has been stated in the verse: وَمَا كَانَ لِبَشَرٍ‌ أَن يُكَلِّمَهُ اللَّـهُ (It belongs not to any mortal that God should speak to him) (42:51), in which conversation without hijab has been negated. However, post-death conversation without hijab is possible, so this verse from Sarah al-Shura relates to the life in this world.
 
+## AI Translation
+
+Those messengers — We preferred some over others. To some Allah spoke directly; some He raised in rank. To Jesus, son of Mary, We gave clear proofs and supported him with the holy spirit. If Allah had willed, those after them would not have fought one another after clear proofs came. But they differed — some believed and some rejected. If Allah had willed, they would not have fought. But Allah does what He wills.
+
+## AI Tafsir
+
+**What this ayah teaches:** We preferred some of them to others; to some of them Allah spoke (directly); others He raised to degrees (of honor); and to 'Isa, the son of Maryam, We gave clear proofs and evidences, and supported him with Ruh-il-Qudus [Jibril].
+
+**Classical tafsir:** Ibn Kathir notes: The Hadith indicates that it is not up to creation to decide which Prophet is better, for this is Allah's decision.
+
+**From the Sunnah:** So, do not give me superiority above the Prophets.) In another narration, the Prophet ﷺ said, (Do not give superiority to some Prophets above others.)
 ## Personal Reflections
 
 

@@ -117,6 +117,15 @@ A sermon should have high degree of eloquence
 
 هُوَ أَفْصَحُ مِنِّي لِسَانًا (He is more fluent in his tongue - 28:34). This verse points out that a high degree of oratory and eloquence is desirable for sermons and preaching, and there is no harm if one takes training in that.
 
+## AI Translation
+
+Moses responded, “My Rabb knows best who has come with true guidance from Him and will fare best in the end. Indeed, the wrongdoers will never succeed.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Fir'awn and his chiefs saw that with their own eyes and realized that it was certainly from Allah, but because of their disbelief and sin they resorted to stubbornness and false arguments.
+
+**Classical tafsir:** Ibn Kathir notes: Fir'awn and his chiefs saw that with their own eyes and realized that it was certainly from Allah, but because of their disbelief and sin they resorted to stubbornness and false arguments.
 ## Personal Reflections
 
 

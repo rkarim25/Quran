@@ -135,6 +135,15 @@ Surah Aljathiyah
 
 Ends here
 
+## AI Translation
+
+You will see every community on its knees. Each will be summoned to its record of deeds. "This Day you will be rewarded for what you used to do.
+
+## AI Tafsir
+
+**What this ayah teaches:** And on the Day that the Hour will be established – on that Day the followers of falsehood shall lose (27)And you will see each nation humbled to their knees (Jathiyah), each nation will be called to its Record (of deeds). The word kitab, according to most commentators, refers to ` book of record' which the angels have been writing in the world.
+
+**Classical tafsir:** Ibn Kathir notes: The word kitab, according to most commentators, refers to ` book of record' which the angels have been writing in the world.
 ## Personal Reflections
 
 

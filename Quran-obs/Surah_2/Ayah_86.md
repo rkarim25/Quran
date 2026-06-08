@@ -132,6 +132,17 @@ These noble Ayat criticized the Jews for implementing the Tawrah sometimes and d
 
 This verse explains why the Jews will have to undergo such a severe punishment. They have been disobeying Allah in order to satisfy their desires and to enjoy worldly pleasures; they have also sacrificed for these things their salvation in the other world. Their sin being so great, Allah will not reduce or mollify their punishment, nor will He allow anyone to intercede on their behalf.
 
+## AI Translation
+
+Those are the ones who traded the Akhirah for the dunya. Their punishment will not be lightened, nor will they be helped.
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah is not unaware of what you do (85)Those are they who have bought the life of this world at the price of the Hereafter. Those are they who have bought the life of this world at the price of the Hereafter) meaning, they prefer this life to the Hereafter.
+
+**Classical tafsir:** Ibn Kathir notes: This verse explains why the Jews will have to undergo such a severe punishment.
+
+**From the Sunnah:** Allah criticized the Jews who lived in Al-Madinah during the time of the Messenger of Allah ﷺ. Further, they should not be believed when it comes to the description of the Messenger of Allah ﷺ, his coming, his expulsion from his land, and his Hijrah, and the rest of the information that the previous Prophets informed them about him, all of which they hi…
 ## Personal Reflections
 
 

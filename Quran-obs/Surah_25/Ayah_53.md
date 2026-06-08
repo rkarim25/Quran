@@ -175,6 +175,15 @@ Allah Ta’ ala in His own Wisdom has created two types of waters. One is enormo
 
 In this verse it is elucidated that it is a great blessing and grace of Allah Ta` a1a to have provided two types of waters in accordance with the needs of mankind. Then it is a perfect demonstration of His complete power that when a river of sweet water falls into the sea, the two waters .(the sweet and the brackish) do not mingle immediately where they meet, but for miles they remain separated from each other, despite the fact that there is no physical curtain between them. This is yet another example of His omnipotence.
 
+## AI Translation
+
+And He is the One Who merges the two bodies of water: one fresh and palatable and the other salty and bitter, placing between them a barrier they cannot cross.
+
+## AI Tafsir
+
+**What this ayah teaches:** And had We willed, We would have raised a warner in every town (51)So obey not the those who reject the truth, but strive against them with the utmost endeavor with it (52)And it is He Who has let free the two seas, this is palatable and sweet, and that is salty and bitter; and He has set a barrier and a complete partition between them (53)And it is He Who has created man from water, and has…
+
+**Classical tafsir:** Ibn Kathir notes: Allah has told us about reality so that His servants may realize His blessings to them and give thanks to Him.
 ## Personal Reflections
 
 

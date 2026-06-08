@@ -196,6 +196,17 @@ After stating the Hadd حدّ Punishment for theft in this verse (38), two sente
 
 Finally, towards the end of the verse (38), by saying: وَاللَّـهُ عَزِيزٌ حَكِيمٌ (And Allah is Mighty, Wise), answer has been given to the doubt so widely entertained these days, that is, this punishment is very harsh. Not resting at that, there are the loudmouthed and the uninformed among them who would not even fight shy of saying that this punishment is savage. Refuge with Allah! These words are there to point out that the introduction of this severe punishment is not only that it is an out-come of Allah's being Mighty and Powerful, but that it also based on His being Wise as well. The Islamic Legal Punishments which the modern highbrows of the West label as harsh and savage shall be taken up in details with comments on the wisdom behind them, their need and benefits, soon after we have completed the explanation of the present set of verses.
 
+## AI Translation
+
+As for male and female thieves, cut off their hands for what they have done—a deterrent from Allah. And Allah is Almighty, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** The hint given here is that the stern punishment of cutting hands is based on a consideration which is special and wise.
+
+**Classical tafsir:** Ibn Kathir notes: Lexically, the Arabic word, ` Nakal' means a punishment which is exemplary, something which teaches a lesson to others as well so that they too abandon any intentions of committing crimes.
+
+**From the Sunnah:** This is also the view of Imam Ahmad bin Hanbal and Ishaq bin Rahwayh in one of the narrations from him, as well as Abu Thawr, and Dawud bin 'Ali Az-Zahari, may Allah have mercy upon them. (Musnad Ahmad) Usamah said to him, "Ask Allah to forgive me, O Allah's Messenger!" During that night, the Messenger of Allah ﷺ stood up and gave a speech and praised Allah as He deserves to be praised.
 ## Personal Reflections
 
 

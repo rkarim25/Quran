@@ -240,6 +240,15 @@ Imam Razi (رح) has said that there are two kinds of barriers against perceptio
 
 The majority of commentators have declared the present verse to be a similitude of their disbelief and hostility only. And some commentators, on the basis of some narrations, have taken it to be the description of an event, that is, Abu Jahl and some others, bent on killing or hurting the Holy Prophet ﷺ ، lunged towards him but Allah Ta’ ala cast curtain over their eyes. Thus, rendered helpless, they went back. Many similar events have been reported in books of Tafsir, such as, Ibn Kathir, Ruh-ul-Ma’ ani, al-Qurtubi, Mazhari and others. But, most of these are weak narrations. The Tafsir of the verse cannot be based on such sources.
 
+## AI Translation
+
+It is as if We have put shackles around their necks up to their chins, so their heads are forced up,
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, We have put on their necks iron collars reaching to the chins, so that their heads are raised up (8)And We have put a barrier before them, and a barrier behind them, and We have covered them up, so that they cannot see (9)It is the same to them whether you warn them or you warn them not, they will not believe (10)You can only warn him who follows the Reminder, and fears the ar-Rahman u…
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "If Allah were to have neglected anything with regard to you, O son of Adam, He would have neglected what the wind could remove of these footsteps." But He takes into account the footsteps of the son of Adam and all his deeds; He even takes into account these footsteps and whether they… This also indicates that Allah gives life to the heart of whomever He wills among the those who reject the truth,…
 ## Personal Reflections
 
 

@@ -337,6 +337,19 @@ Where His name is recounted - 36.
 
 Here, the expression is 'recounting the name of Allah' encompasses all types of His remembrance, which include extra prayers, recitation of Qur’ an, learning of Islamic teachings, sermons, lectures on Shari'ah, etc.
 
+## AI Translation
+
+That light shines through houses of worship which Allah has ordered to be raised, and where His Name is mentioned. He is glorified there morning and evening
+
+## AI Tafsir
+
+**Context:** (Men whom neither trade nor business diverts from the remembrance of Allah nor from performing the Salah nor from giving the Zakah).
+
+**What this ayah teaches:** The Masjids are His houses where He Alone is worshipped.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ali bin Abi Talhah reported that Ibn 'Abbas said, "This meant from the prescribed prayers." This was also the view of Muqatil bin Hayyan and Ar-Rabi' bin Anas. It also signifies to keep them clean, which means to make them free of all types of filth and dirt.
+
+**From the Sunnah:** 'A'ishah, may Allah be pleased with her, said: "The Messenger of Allah ﷺ commanded us to build Masjids among the houses, and to clean them and perfume them." This was recorded by Ahmad and the Sunan compilers with the exception of An-Nasa'i.
 ## Personal Reflections
 
 

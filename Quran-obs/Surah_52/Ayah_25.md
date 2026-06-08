@@ -174,6 +174,17 @@ Allah's Fairness to Sinners
 
 كُلُّ امْرِ‌ئٍ بِمَا كَسَبَ رَ‌هِينٌ (Every person will be pledged for what he earned.) After Allah mentioned His favour of elevating the children to the ranks of their parents, even though the deeds of the former did not qualify them, He affirmed His fairness in that, He does not punish anyone for the sins of others. Therefore, every person will be responsible for his actions. No sins committed by others shall ever be added to one's load, even if committed by his parents or children. (Ibn Kathir)
 
+## AI Translation
+
+They will turn to one another, asking questions.
+
+## AI Tafsir
+
+**What this ayah teaches:** No sin committed by others shall ever be added to one's load, even if committed by his or her parents or offspring. No sins committed by others shall ever be added to one's load, even if committed by his parents or children.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said that Laghw means 'falsehood' while Ta'thim means 'lying'.
+
+**From the Sunnah:** Ibn Abi Hatim also recorded that Ibn 'Abbas commented on Allah's statement, Paradise, while the idolators and their offspring will dwell in the Hellfire.
 ## Personal Reflections
 
 

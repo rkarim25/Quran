@@ -212,6 +212,17 @@ I begin with the name of Allah who is All-Merciful, Very-Merciful. From Muhammad
 
 The statement, 'you be witness...' in the last sentence of the verse teaches us a lesson, that is, should someone refuse to accept the truth, even after it has been proved clearly, then the proper course is to re-state one's own belief and conclude the conversation. Entering into fur-ther debate and verbal altercation is not appropriate.
 
+## AI Translation
+
+Say, “O People of the Book! Let us come to common terms: that we will worship none but Allah, associate none with Him, nor take one another as lords instead of Allah.” But if they turn away, then say, “Bear witness that we have submitted.”
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I (Allah)], so worship Me (Alone and none else).") [21:25] and, Muhammad bin Ishaq and other scholar…
+
+**What this ayah teaches:** "0 people of the Book, come to a word common between us and you that we worship none but Allah, that we associate nothing with Him and that some of us do not take some others as Lord instead of Allah." (Al-Bukhari) The statement, 'you be witness...' in the last sentence of the verse teaches us a lesson, that is, should someone refuse to accept the truth, even after it has been proved clearly, then…
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, it is possible that the Prophet ﷺ wrote this statement (Say, "O People of the Scripture...") in his letter to Heraclius before the Ayah was revealed.
 ## Personal Reflections
 
 

@@ -288,6 +288,19 @@ In this verse, Muslims have been instructed to remain patient which is possible 
 
 The Commentary on Surah 'Al-` Imran ends here.
 
+## AI Translation
+
+O you who have iman! Patiently endure, practice sabr, stand on guard, and live with taqwa toward Allah, so you may be successful.
+
+## AI Tafsir
+
+**Context:** And there are, certainly, among the People of the Scripture (Jews and Christians), those who believe in Allah and in that which has been revealed to you, and in that which has been revealed to them, humbling themselves b…
+
+**What this ayah teaches:** Endure and be more patient, and Rabitu, and have Taqwa of Allah, so that you may be successful .
+
+**Classical tafsir:** Ibn Kathir notes: Endure and be more patient, and Rabitu, and have Taqwa of Allah, so that you may be successful .
+
+**From the Sunnah:** They are not allowed to abandon it in times of comfort or hardship, ease or calamity, until they die as Muslims. They also say that the Murabatah in the above Ayah refers to battles against the enemy, and manning Muslim outposts to protect them from enemy incursions inside Muslim territory. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

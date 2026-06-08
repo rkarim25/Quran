@@ -138,6 +138,15 @@ After having described the condition of the people of Jahannam (Hell), the verse
 
 1. It was said in the first verse (41): أُولَـٰئِكَ لَهُمْ رِ‌زْقٌ مَّعْلُومٌ (Those are the people for whom there is a known provision). Commentators explain it variously. (1) Some say that it refers to the detailed description of the provisions of Paradise mentioned in different Surahs of the Qur'an. Maulana Ashraf Thanavi has elected to go by this very Tafsir. (2) Others have said that 'known provision' means that its timings are determined and known, that is, it will be bestowed punctually all mornings and evenings as indicated in another verse بُكْرَ‌ةً وَعَشِيًّا 'and for them there is their provision in it, morning and evening' -Maryam, 19:62) where the words: صُبح و شَام (morning and evening) have been explicitly mentioned. (3) Then, there is a third Tafsir as well. According to this explanation, 'known provision' means that this provision will be certain and everlasting - unlike the world of our experience where no one can say with any degree of certainty what and how much of that provision he or she is going to get; nor does anyone know how long his provision will remain available to him or her. Every human heart is all the time under the fear that the blessings he has may disappear in future- may be, comes a tomorrow and they are no more there. Jannah will be free of this danger. Instead, the provision of Paradise will be certain and everlasting, both. (Qurtubi, and others).
 
+## AI Translation
+
+They will have a known provision:
+
+## AI Tafsir
+
+**What this ayah teaches:** According to this explanation, 'known provision' means that this provision will be certain and everlasting - unlike the world of our experience where no one can say with any degree of certainty what and how much of that provision he or she is going to get; nor does anyone know how long his provision will remain available to him or her.
+
+**Classical tafsir:** Ibn Kathir notes: Some say that it refers to the detailed description of the provisions of Paradise mentioned in different Surahs of the Qur'an.
 ## Personal Reflections
 
 

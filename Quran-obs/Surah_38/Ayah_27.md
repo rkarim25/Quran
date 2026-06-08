@@ -111,6 +111,15 @@ O Dawud, We have made you a vicegerent on earth, so judge between people with tr
 
 Now, from here it is in an imperceptible manner that the Hereafter has been positively confirmed by positing that here is the supreme Being of Allah asking his deputy on the earth to establish the rule of law and justice resulting in punishment for the evil and peace for the good - when so, is it not that the same Being would necessarily establish justice and equity in this universe? Most certainly, it is the dictate of His wisdom that He, rather than herd everyone good or bad with the same stick, punishes the doers of evil and rewards the doers of good. This, then, is the purpose of the creation of this universe, and in order that it translates into reality, it is necessary that there be a Qiyamah (the Last Day) and an 'Akhirah (the Hereafter) - something that precisely corresponds to His wisdom. Those who reject the Hereafter are virtually saying that this universe has been created aimlessly, devoid of any wisdom behind it, for everyone good or bad will live his or her time and die with nobody around to ask questions - although, one who has faith in the wisdom of Allah Ta’ ala can never accept this line of reasoning.
 
+## AI Translation
+
+We did not create the heavens and the earth and everything between without purpose, as those who reject the truth assume. Woe to them because of the Fire.
+
+## AI Tafsir
+
+**What this ayah teaches:** And We created not the heaven and the earth and all that is between them without purpose!
+
+**Classical tafsir:** Ibn Kathir notes: Then Allah explains that because of His justice and wisdom, He does not treat the believers and the those who reject the truth equally.
 ## Personal Reflections
 
 

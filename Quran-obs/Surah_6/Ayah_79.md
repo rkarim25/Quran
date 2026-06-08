@@ -210,6 +210,15 @@ This debating style of Sayyidna Ibrahim (علیہ السلام) provides some im
 
 2. The second guidance concerns the manner in which truth has to be presented. The example is that Sayyidna Ibrahim (علیہ السلام) did not address his people directly asking them to do what had to be done. Rather than say something in the mode of an order, he simply told them about how he felt in this matter. He said that he could not declare things which were helplessly involved in a cycle of rising and setting as objects of worship. For this reason, he told them, he had turned to the Being that is the creator, nurturer and caretaker of all these things. Of course, the purpose was to bring them round to do the same. But, in his wise way, he abstained from a direct address lest they become totally uncompromising by opposing the suggestion just for the sake of opposition. This tells us that the job of a reformer and preacher is not to go ahead and tell what is true in just about any way. Instead of doing something like that, he is bound to say it in a manner which would produce the desired effect on his listeners.
 
+## AI Translation
+
+I have turned my face towards the One Who has originated the heavens and the earth—being upright—and I am not one of the polytheists.”
+
+## AI Tafsir
+
+**What this ayah teaches:** For this reason, he told them, he had turned to the Being that is the creator, nurturer and caretaker of all these things.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, you are in disarray and ignorance, and this fact is clear to all those who have sound reason.
 ## Personal Reflections
 
 

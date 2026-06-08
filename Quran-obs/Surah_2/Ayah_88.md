@@ -112,6 +112,15 @@ The little “ faith" which they possessed pertained to the doctrines which are 
 
 If the Verse describes 'the little faith' as 'Iman ایمان ، it does so only in the lexical sense, for 'Iman ایمان signifies total certitude, even if it pertains to certain things, and not to others. But from the point of view of the Shari'ah, such a partial faith cannot be described as 'Iman ایمان . The Shari` ah would accept as valid only that 'Iman ایمان which affirms with certitude each and everything that the Shari` ah requires one to affirm.
 
+## AI Translation
+
+They say, "Our hearts are wrapped." In fact, Allah has cursed them for their rejection. Little do they believe.
+
+## AI Tafsir
+
+**What this ayah teaches:** And they say, "Our hearts are Ghulf." Nay, Allah has cursed them for their disbelief, so little is that which they believe .
+
+**Classical tafsir:** Ibn Kathir notes: Some scholars said that the Ayat indicate that a few of them would believe, or that their faith is minute, because they believe in Resurrection and in Allah's reward and punishment that Musa foretold.
 ## Personal Reflections
 
 

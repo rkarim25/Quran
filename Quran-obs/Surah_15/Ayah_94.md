@@ -143,6 +143,19 @@ On Spreading the Religious Message Stage by Stage as Convenient
 
 Before the revelation of the verse (94): فَاصْدَعْ بِمَا تُؤْمَرُ‌ (Now, proclaim what you are commanded to), the Holy Prophet ﷺ and his noble Sahabah ؓ used to make Salah and recite Qur'an secretly (lest they are seen and harmed). The process of passing on the religious message to others and the mission of teaching and training was also kept secret being limited to a counted few. The reason was that doing so openly would have given the disbelievers the opportunity to bring harm to them. In this verse (95), Allah Ta` ala has Himself taken the responsibility of seeing that they stay safe against those who deride their faith and bring harm to them. Therefore, from that time onwards, the mission was pursued openly and publicly in all its aspects, recitation of the Qur'an, acts of worship, the call, the propagation, everything.
 
+## AI Translation
+
+So proclaim what you have been commanded, and turn away from the polytheists.
+
+## AI Tafsir
+
+**Context:** Therefore proclaim that which you commanded." Mujahid said, It is reciting the Qur'an aloud during prayer." Abu 'Ubaydah reported that 'Abdullah bin Mas'ud said, "The Prophet ﷺ was still practicing and preaching Islam se…
+
+**What this ayah teaches:** It is to Him that we turn for help and it is in Him that we put our trust.
+
+**Classical tafsir:** Ibn Kathir notes: Do not fear them because Allah will suffice you against them, and He will protect you from them.
+
+**From the Sunnah:** According to what I heard, the Messenger of Allah ﷺ had supplicated against him because of the pain and mockery he had suffered at his hands. When their evil went to extremes and their mockery of the Messenger of Allah ﷺ went too far, Allah revealed:
 ## Personal Reflections
 
 

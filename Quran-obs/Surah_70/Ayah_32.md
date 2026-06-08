@@ -153,6 +153,17 @@ Rights of Allah and Rights of Human beings both are included in Trust Obligation
 
 The use of plural number indicates that amanah does not only refer to 'that which people might deposit with a trustee for safe-keeping' but it also refers to 'all obligatory rights that are necessary to fulfill'. Breach of trusts and covenants is dishonesty. Trust obligations include all Divine rights, such as salah, siyam, hajj and zakah, as well as all human rights, such as rights that Allah has imposed between human beings, or human beings themselves might have entered into binding contracts and covenants. Fulfillment of them is obligatory. Failure to comply with their terms and conditions would amount to breach, or dishonesty. [ Mazhari، condensed ].
 
+## AI Translation
+
+They are also those true to their trusts and covenants,
+
+## AI Tafsir
+
+**What this ayah teaches:** Breach of trusts and covenants is dishonesty.
+
+**Classical tafsir:** Ibn Kathir notes: [ 4:58] ' The use of plural number indicates that amanah does not only refer to 'that which people might deposit with a trustee for safe-keeping' but it also refers to 'all obligatory rights that are necessary to fulfill'.
+
+**From the Sunnah:** This is like what is reported in the authentic Hadith, (authentic hadith)
 ## Personal Reflections
 
 

@@ -176,6 +176,19 @@ Sayyidna Zayd ibn Sa'nah who first belonged to the people of the Book had recogn
 
 In the last verse (21), it was said that these people of the Book who, despite knowing the true identity of the Holy Prophet ﷺ do not accept Islam were simply ruining themselves at their own hands: الَّذِينَ خَسِرُ‌وا أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ (Those, who have brought loss on themselves, they are not going to believe).
 
+## AI Translation
+
+Who does more wrong than those who fabricate lies against Allah or deny His signs? Indeed, the wrongdoers will never succeed.
+
+## AI Tafsir
+
+**Context:** And if Allah touches you with harm, none can remove it but He, and if He touches you with good, then He is able to do all things (17)And He is the Irresistible, above His servants, and He is the All-Wise, Well-Acquainted…
+
+**What this ayah teaches:** Those who have lost (destroyed) themselves will not believe (20)And who does more wrong than he who invents a lie against Allah or rejects His Ayat?
+
+**Classical tafsir:** Ibn Kathir notes: This is because they received good news from the previous Messengers and Prophets about the coming of Muhammad ﷺ, his attributes, homeland, his migration, and the description of his Ummah.
+
+**From the Sunnah:** It is recorded in the Sahih that the Messenger of Allah ﷺ used to supplicate,
 ## Personal Reflections
 
 

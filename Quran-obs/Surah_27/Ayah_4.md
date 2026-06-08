@@ -130,6 +130,15 @@ Commentary
 
 However, the first interpretation looks more appropriate and straightforward. In the first place, in the Qur'an, the word (Zinah) 'adornment' has been generally used for bad actions, for instance: زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوَاتِ (It has been made attractive for people to love the desires - 3:14) زُيِّنَ لِلَّذِينَ كَفَرُ‌وا الْحَيَاةُ الدُّنْيَا (Adorned is the present life for those who disbelieve - 2:212) زَيَّنَ لِكَثِيرٍ‌ مِّنَ الْمُشْرِ‌كِينَ (6:137). Its use for good actions is very rare , such as: وَلَـٰكِنَّ اللَّـهَ حَبَّبَ إِلَيْكُمُ الْإِيمَانَ وَزَيَّنَهُ فِي قُلُوبِكُمْ (But Allah has endeared to you belief, decking it fair in your hearts - 49:7). Secondly, the word اَعمَالَھُم (their deeds) used in the verse is also pointing out that bad actions are meant here and not the righteous actions.
 
+## AI Translation
+
+As for those who do not believe in the Akhirah, We have certainly made their evil deeds appealing to them, so they wander blindly.
+
+## AI Tafsir
+
+**What this ayah teaches:** Some commentators have interpreted that "their deeds" is used in this verse for good deeds.
+
+**Classical tafsir:** Ibn Kathir notes: Those who perform the Salah and give the Zakah and they believe with certainty in the Hereafter.)(4.
 ## Personal Reflections
 
 

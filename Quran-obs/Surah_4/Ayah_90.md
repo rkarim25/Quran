@@ -299,6 +299,19 @@ The words of the verse 89: وَلَا تَتَّخِذُوا مِنْهُمْ و
 
 he said: v 'I (The bad ones! We do not need them). (Mazhari, v.2
 
+## AI Translation
+
+They wish you would reject the truth as they have disbelieved, so you may all be alike. So do not take them as allies unless they emigrate in the cause of Allah. But if they turn away, then seize them and kill them wherever you find them, and do not take any of them as allies or helpers, except those who are allies of a people you are bound with in a treaty or those wholeheartedly opposed to fighting either you or their own people. If Allah had willed, He would have empowered them to fight you. So if they refrain from fighting you and offer you peace, then Allah does not permit you to harm them.
+
+## AI Tafsir
+
+**Context:** Al-'Awfi reported that Ibn 'Abbas said that the Ayah was revealed about some people in Makkah who said they embraced Islam, yet they gave their support to the idolators.
+
+**What this ayah teaches:** But if they turn back, take (hold of) them and kill them wherever you find them, and take neither Awliya' nor helpers from them (89)Except those who join a group, between you and whom there is a treaty (of peace), or those who approach you with their breasts restraining from fighting you as well as fighting their own people.
+
+**Classical tafsir:** Ibn Kathir notes: Al-'Awfi reported that Ibn 'Abbas said that the Ayah was revealed about some people in Makkah who said they embraced Islam, yet they gave their support to the idolators. As-Suddi said that the Fitnah mentioned here refers to Shirk.
+
+**From the Sunnah:** Messenger of Allah ﷺ marched towards Uhud.
 ## Personal Reflections
 
 

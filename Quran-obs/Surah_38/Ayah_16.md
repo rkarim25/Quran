@@ -81,6 +81,15 @@ It was also said that they asked for their share of Paradise to be hastened, if 
 
 عَجِّل لَّنَا قِطَّنَا (0 our Lord, give us our share [ of the punishment ] sooner, - 38:16 ). The word: قِطّ (qitt) used here is, in reality, the document through which someone has been promised with a reward. Later, this word came to be used also as a 'share' in an absolute sense. Here, this very sense is meant, that is, 'let us have whatever share is coming to us from the reward and punishment of the Hereafter right here in this world.'
 
+## AI Translation
+
+They mockingly say, "Our Lord, hasten our share of punishment before the Day of Reckoning!"
+
+## AI Tafsir
+
+**What this ayah teaches:** Here, this very sense is meant, that is, 'let us have whatever share is coming to us from the reward and punishment of the Hereafter right here in this world.'
+
+**Classical tafsir:** Ibn Kathir notes: Qitt refers to a book or record, or it was said that it means one's allotted share or fortune.
 ## Personal Reflections
 
 

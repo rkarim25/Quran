@@ -193,6 +193,17 @@ According to yet another Hadith, the Holy Prophet ﷺ said: Whenever you make Du
 
 It means that one should keep his or her sight on the most extensive mercy of Allah Ta' ala and let the heart believe that the prayer being made shall be answered. This is not contrary to the danger one may feel that his or her sins may become an impediment in the acceptance of one's Du` a'. صلی اللہ تعَالیٰ علی نَبِیِّنَا وسلم
 
+## AI Translation
+
+Do not spread corruption in the land after it has been set in order. And call upon Him with hope and fear. Indeed, Allah’s mercy is always close to the good-doers.
+
+## AI Tafsir
+
+**What this ayah teaches:** As for the outward or physical order of the earth is concerned, that it be right and proper, it will be realized that Allah Ta'ala has made it to be a mass or body which is neither liquid as water making it difficult to settle down upon it, nor is it hard as rock or iron which could not be dug up.
+
+**Classical tafsir:** Ibn Kathir notes: Then, Fasad refers to the state of evil, corruption, mischief, disorder.
+
+**From the Sunnah:** Paradise, if I enter it. (Musnad Ahmad) this Hadith with a good chain that there is no harm in, and Allah knows best. (Sunan Abi Dawud, Sunan Ibn Majah)
 ## Personal Reflections
 
 

@@ -104,6 +104,17 @@ It also appears in Hadith that, before going to the toilet, saying:
 
 (Allahumma adhu bika minal-khubuthi wal-khabaith) 0 Allah, I seek protection with you from the foul and the impure is commendable (mustahabb). (Shami)
 
+## AI Translation
+
+When you recite the Quran, seek refuge with Allah from Satan, the accursed.
+
+## AI Tafsir
+
+**What this ayah teaches:** Is it not that one who stands subdued by the Satan is actually rejected and deserving of punishment in the sight of Allah?
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, this verse teaches us to seek protection against Satan, the accursed - something needed in every good deed.
+
+**From the Sunnah:** Therefore, the majority of Muslim scholars have not classed this injunction as obligatory (wajib). (Sahih Muslim) Views of leading Muslim jurists differ in this matter. (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -122,6 +122,15 @@ The second blessing received in return for practicing Taqwa is the Kaffarah of S
 
 At the end of the verse (29), it was said: وَاللَّـهُ ذُو الْفَضْلِ الْعَظِيمِ (And Allah is the Lord of great bounty). By saying that Allah is limitless in His grace and favour, the hint given is that the return of a deed follows the measure of that deed. Here too, the good return mentioned as being the reward of Taqwa in three things comes as recompense or return but, Allah Ta` ala is the master-dispenser of great grace and favour. When He gives, He is not bound by any measure, nor can anyone estimate or guess His favour and reward. Therefore, for those who take to Taqwa as their style of life, much greater hopes should be entertained from the grace and reward of Allah Ta'ala in things other than the three mentioned earlier.
 
+## AI Translation
+
+O you who have iman: if you live with taqwa, Allah will grant you a clear criterion to distinguish right from wrong, wipe away your sins, and forgive you. Allah is the Possessor of immense bounty.
+
+## AI Tafsir
+
+**What this ayah teaches:** If you obey and fear Allah, He will grant you Furqan, and will expiate for you your sins, and forgive you; and Allah is the Owner of the great bounty .
+
+**Classical tafsir:** Ibn Kathir notes: Other than this, there are other commentators who say that Furqan in this verse means the wisdom and insight through which it becomes easy to distinguish between true and false, the genuine and the fake.
 ## Personal Reflections
 
 

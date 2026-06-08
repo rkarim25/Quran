@@ -152,6 +152,17 @@ In verses 50 and 51 towards the end, given there is the state in which the peopl
 
 Finally, in the last verse (52), it was made clear that the description of conditions to be faced by people on the day of Qiyamah was to warn them so that they would realize that there is no Being worthy of worship and obedience except the One Being of Allah T, and so that whoever from among them has some sense left in him or her would desist from Shirk while there was still the time to do so.
 
+## AI Translation
+
+Allah will repay every soul for what it earned. Allah is swift in reckoning.
+
+## AI Tafsir
+
+**What this ayah teaches:** There I shall fall down in prostration before the Almighty Lord, and when I shall be given the permission to intercede, I shall intercede for the whole creation so that they go through the reckoning of their deeds swiftly.' This last report obviously seems to indicate that the change made in the earth will be restricted to a change in its physical features, that is, caves, mountains, buildings and…
+
+**Classical tafsir:** Ibn Kathir notes: Out of the narrations of Hadith reported on this subject, only some of them seem to indicate either a change in features only while others suggest a change of the thing itself.
+
+**From the Sunnah:** Verily, if she who wails, dies before she repents from her behavior, she will be resurrected on the Day of Resurrection while wearing a dress of Qatiran and a cloak of mange.) Muslim collected this Hadith. (Sahih Muslim)
 ## Personal Reflections
 
 

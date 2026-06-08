@@ -172,6 +172,15 @@ These words suggest that when Sayyidah Maryam (علیہا السلام) was comf
 
 شَيْئًا فَرِ‌يًّا (Something grave indeed - 19:27). The word فَرِی in Arabic language means to cut or to split, and is used to describe a task where a great deal of cutting and chopping is involved. However, Abu Hayyan has said that the word فَرِی means anything having preposterous and extraordinary significance, and may be used both in good and in bad sense. In the present context it is used to describe something monstrous, hence translated in the text as 'something grave'. Generally this word is used for things which are known to be bad and corrupt in the extreme.
 
+## AI Translation
+
+She returned to her people carrying him. They said in shock: "O Mary, you have done something terrible!
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, she referred all speech to him (the child) and she directed them to his address and speech to them. They scoffed at her because they thought that she was mocking at them and playing with them.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, she referred all speech to him (the child) and she directed them to his address and speech to them.
 ## Personal Reflections
 
 

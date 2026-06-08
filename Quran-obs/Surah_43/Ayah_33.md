@@ -226,6 +226,19 @@ This tells us that neither abundance of wealth and property owned by someone can
 
 The statement in these verses that if gold and silver had been showered upon all the infidels, all the people will have become disbelievers is meant for most of the people. Even today, there are people who are certain that if they become disbelievers, they will get abundance of riches and wealth, but they do not lose their faith for the sake of wealth and property; such people will have remained steadfast to their belief and faith, perhaps even at that time, but the number of such people will have been very little indeed.
 
+## AI Translation
+
+Were it not that people might be tempted to become one community of those who reject the truth, We would have supplied the homes of those who reject the Rahman with silver roofs and stairways to ascend,
+
+## AI Tafsir
+
+**Context:** (And they say) means, objecting to that which Allah has revealed to him, (Why is not this Qur'an sent down to some great man of the two towns?) meaning, why was this Qur'an not revealed to some man who was great and prom…
+
+**What this ayah teaches:** The statement in these verses that if gold and silver had been showered upon all the infidels, all the people will have become those who reject the truth is meant for most of the people.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn Zayd said, "The word of Islam," which refers to the same thing suggested by the group.
+
+**From the Sunnah:** In as the Two Sahihs and elsewhere, it is reported that the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

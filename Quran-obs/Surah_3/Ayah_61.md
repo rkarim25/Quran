@@ -232,6 +232,17 @@ It is, therefore, evident that Sayyidna ` Ali ؓ is included in the words: 'our 
 
 The fallacy of this argument is evident from what has been discussed above.
 
+## AI Translation
+
+Now, whoever disputes with you concerning Jesus after full knowledge has come to you, say, “Come! Let us gather our children and your children, our women and your women, ourselves and yourselves—then let us sincerely invoke Allah’s curse upon the liars.”
+
+## AI Tafsir
+
+**What this ayah teaches:** However, send with us a man from your Companions whom you are pleased with to judge between us regarding our monetary disputes, for you are acceptable to us in this regard.'" Al-Bukhari recorded that Hudhayfah said, "Al-'Aqib and As-Sayyid, two leaders from Najran, came to the Messenger of Allah ﷺ seeking to invoke Allah for curses (against whoever is unjust among them), and on…
+
+**Classical tafsir:** Ibn Kathir notes: Since curse means 'moving someone far away from the divine mercy', - and moving far away from mercy is being close to divine wrath--therefore, the essence of the meaning is: Wrath be on the liar.
+
+**From the Sunnah:** they never saw a delegation like them after that...Then Abu Harithah bin 'Alqamah and Al-'Aqib 'Abdul-Masih or As-Sayyid Al-Ayham spoke to the Messenger of Allah ﷺ, and they were Christians like the king (Roman King).
 ## Personal Reflections
 
 

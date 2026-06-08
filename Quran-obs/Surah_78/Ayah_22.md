@@ -194,6 +194,19 @@ Then he said, "They will continue increasing in torment forever."
 
 لِّلطَّاغِينَ مَآبًا ([ It is ] an abode for the rebellious people... 78:22). The combined sense of verses 21 and 22 is that the bridge of Hell is set in ambush for all, the good and the bad. They will have to go over it. But Hell is the abode of the rebellious people. The word taghin is the plural of taghi, being derived from tughyan, meaning 'rebellion'. Thus the word taghi refers to a 'person who exceeds the limit in disobeying the authority [ of Allah ] '. This is possible only when he gives up his faith. Hence, the word thin in this context would refer to the disbelievers. It may also refer to the stray groups of Muslims who have deviated from the limits of Qur'an and Sunnah, though they may not have adopted kufr expressly, such as Rawafid, Khawarij, Mu'tazilah and others. [ as in Mazhari ].
 
+## AI Translation
+
+a home for transgressors
+
+## AI Tafsir
+
+**Context:** (But they denied Our Ayat Kidhdhaba.) meaning, they used to deny the evidences of Allah and His proofs for His creation, which He revealed to His Messengers. So they met these proofs with rejection and obstinance.
+
+**What this ayah teaches:** Thus the word taghi refers to a 'person who exceeds the limit in disobeying the authority [ of Allah ] '.
+
+**Classical tafsir:** Ibn Kathir notes: Thus the word taghi refers to a 'person who exceeds the limit in disobeying the authority [ of Allah ] '.
+
+**From the Sunnah:** Al-Bukhari reported concerning the explanation of Allah's statement, (Sahih al-Bukhari) It may also refer to the stray groups of Muslims who have deviated from the limits of Qur'an and Sunnah, though they may not have adopted kufr expressly, such as Rawafid, Khawarij, Mu'tazilah and others.
 ## Personal Reflections
 
 

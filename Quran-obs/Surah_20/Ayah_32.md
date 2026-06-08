@@ -102,6 +102,17 @@ The Supplication of Musa
 
 وَأَشْرِ‌كْهُ فِي أَمْرِ‌ي (and make him share my task - 20:32): Sayyidna Musa (علیہ السلام) had the power to appoint Sayyidna Harun (علیہ السلام) as his Wazir on his own, but he petitioned to Allah Ta` ala to confer the appointment on his brother in order to seek His grace. Besides, he wanted him to share his prophethood and his mission and this power does not rest in any Prophet. Therefore he specially prayed to Allah Ta` ala to make him a partner in his mission.
 
+## AI Translation
+
+and let him share my task,.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, he was left with the remnants of this accident that took place with his tongue. Therefore he specially prayed to Allah Ta` ala to make him a partner in his mission.
+
+**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported from Abu Sa'id, from 'Ikrimah, who said that Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
+
+**From the Sunnah:** Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
 ## Personal Reflections
 
 

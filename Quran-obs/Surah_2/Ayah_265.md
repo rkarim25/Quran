@@ -170,6 +170,15 @@ In verse 265, the fifth under discussion, the acts of charity which are acceptab
 
 Here the merits of spending in the way of Allah, surely with sincerity of intention, and obedience to conditions set, has been made clear through this similitude. The message is: Spending with good intention and sincerity, even if it be just a little, becomes enough and helps one receive the gains of the Hereafter.
 
+## AI Translation
+
+The likeness of those who spend seeking Allah's pleasure and believing the reward is certain is a garden on a fertile hill: when heavy rain falls, it yields double; if no heavy rain, a light shower suffices. Allah sees what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Ayah indicates that the garden on the Rabwah is always fertile, for if heavy rain does not fall on it, light rain will suffice for it.
+
+**Classical tafsir:** Ibn Kathir notes: The Ayah indicates that the garden on the Rabwah is always fertile, for if heavy rain does not fall on it, light rain will suffice for it.
 ## Personal Reflections
 
 

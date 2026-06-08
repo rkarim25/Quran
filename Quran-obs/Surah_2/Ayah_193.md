@@ -255,6 +255,19 @@ Commentary
 
 2. The second problem that bothered the noble Companions was about the month, which was Dhul-Qa'dah ذوالقعدہ ، being one of the four known as the 'sacred months' wherein fighting anyone anywhere was not permissible. Now, the Muslims thought if the disbelievers of Makkah started fighting against them how could Muslims fight a defensive battle during a 'sacred month'? The verse under reference (194) was revealed to answer this doubt. The answer is that, the way a state of defence grants an exception to observing the sanctity of the Haram of Makkah, in the same manner, it allows an exception to observing the sanctity of the 'sacred months' also.
 
+## AI Translation
+
+Fight them until there is no more fitnah and deen belongs to Allah alone. If they cease, let there be no hostility except against aggressors.
+
+## AI Tafsir
+
+**Context:** Abu Al-'Aliyah said, "This was the first Ayah about fighting that was revealed in Al-Madinah. Ever since it was revealed, Allah's Messenger ﷺ used to fight only those who fought him and avoid non-combatants.
+
+**What this ayah teaches:** Verily aggression can only be started against the unjust.' This is the meaning of Mujahid's statement that only combatants should be fought.
+
+**Classical tafsir:** Ibn Kathir notes: Truly, Allah likes not the transgressors.) This Ayah means, 'Fight for the sake of Allah and do not be transgressors,' such as, by committing prohibitions.
+
+**From the Sunnah:** The Command to fight Those Who fight Muslims and killing Them wherever They are found Ever since it was revealed, Allah's Messenger ﷺ used to fight only those who fought him and avoid non-combatants.
 ## Personal Reflections
 
 

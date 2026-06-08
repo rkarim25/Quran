@@ -62,6 +62,15 @@ Commentary
 
 Out of the three sins mentioned in this verse the first one is most disgusting, which was never committed before in the whole world, and even wild beasts abstain from it. The entire ummah is unanimous on that it is a worse sin than adultery. (Ruh)
 
+## AI Translation
+
+Lot prayed: My Rabb, help me against the people of corruption.
+
+## AI Tafsir
+
+**What this ayah teaches:** Give me victory over the people who are corrupt. The preaching of Lut and what happened between Him and His People Allah tells us that His Prophet Lut, peace be upon him, denounced his people for their evil deed and their immoral actions in having intercourse with males, a deed which none of the sons of Adam had ever committed before them.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

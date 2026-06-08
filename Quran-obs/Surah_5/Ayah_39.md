@@ -175,6 +175,17 @@ And whoever repents after his transgression and corrects himself, then Allah sha
 
 It will be recalled that forgiveness was also mentioned in connection with the Prescribed Punishment for robbery appearing a few verses earlier (34) - and forgiveness has been mentioned after the punishment for theft as well. But, the statement of forgiveness at both places has a particular difference and it is on the basis of this difference that the sense of forgiveness in both punishments has been taken differently by Muslim jurists. While ordaining the punishment for robbery, giving an exception, Almighty Allah has said: إِلَّا الَّذِينَ تَابُوا مِن قَبْلِ أَن تَقْدِرُ‌وا عَلَيْهِمْ (except those who repent before you overpower them - 5:34) the outcome of which is that the Hadd Punishment for robbery mentioned in the verse provides an exemption whereby the one who repents - before robbers are overpowered and arrested by the government - shall have his Hadd Punishment forgiven. As for the forgiveness mentioned after the punishment for theft, it does not have the exemption from this temporal punishment. It is rather in terms of the Hereafter that this repentance shall be accepted towards which a clear indication exists in the words: فَإِنَّ اللَّـهَ يَتُوبُ عَلَيْهِ (then Allah shall relent towards him). In other words, the relevant ruler of the time will not abandon the Hadd Pun-ishment because of this repentance, instead of that, Almighty Allah will, by forgiving their crime, grant deliverance to them from the punishment of the Hereafter. Therefore, Muslim jurists almost unanimously agree that the Hadd Punishment for robbery shall not be en-forced on robbers who repent before they are arrested. But, should a thief were to forsake and repent from stealing after having committed a theft - whether before or after arrest - then, the Hadd of Sariqah, the Islamic Legal Punishment, which is a temporal punishment, will not be forgiven. That the sin is forgiven and deliverance from the punishment of the Hereafter has been achieved is not contrary to this.
 
+## AI Translation
+
+But whoever repents after their wrongdoing and mends their ways, Allah will surely turn to them in forgiveness. Indeed, Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, Allah is Most-Forgiving, Very-Merciful.
+
+**Classical tafsir:** Ibn Kathir notes: In other words, the relevant ruler of the time will not abandon the Hadd Pun-ishment because of this repentance, instead of that, Almighty Allah will, by forgiving their crime, grant deliverance to them from the punishment of the Hereafter.
+
+**From the Sunnah:** This is also the view of Imam Ahmad bin Hanbal and Ishaq bin Rahwayh in one of the narrations from him, as well as Abu Thawr, and Dawud bin 'Ali Az-Zahari, may Allah have mercy upon them. (Musnad Ahmad) Usamah said to him, "Ask Allah to forgive me, O Allah's Messenger!" During that night, the Messenger of Allah ﷺ stood up and gave a speech and praised Allah as He deserves to be praised.
 ## Personal Reflections
 
 

@@ -127,6 +127,15 @@ After the mention of the people of Lut (علیہ السلام) ، the people of 
 
 After this, the stories of the people of ` Ad, Thamud and Nuh (علیہم السلام) are told. These stories were narrated many times before.
 
+## AI Translation
+
+So We seized him and his soldiers and cast them into the sea. He was blameworthy.
+
+## AI Tafsir
+
+**What this ayah teaches:** This ayah declares: So We seized him and his soldiers, casting them into the sea while he was blameworthy.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

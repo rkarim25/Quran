@@ -272,6 +272,17 @@ Ibn 'Abbas, may Allah be pleased with him, replied:
 
 فَقَالَ لَهَا وَلِلْأَرْ‌ضِ ائْتِيَا طَوْعًا أَوْ كَرْ‌هًا قَالَتَا أَتَيْنَا طَائِعِينَ (and said to it and to the earth, "Come [ to My obedience ], both of you, willingly or unwillingly." Both said, "We come willingly." - 41:11) This command addressed to the earth and sky and their compliant and obedient reply, according to some exegetes, is a metaphorical expression for the readiness of the earth and the sky to comply with every order from Allah Almighty. But Ibn ` Atiyyah and other leading research scholars have stated that this is no metaphor it is based on reality. Allah Almighty had endowed the earth and the skies with the faculty of intellect and comprehension of the commands addressed to them and also with the power of speaking and replying. Tafsir Al-Bahr-ul-Muhit, after quoting this explanation, has held it to be the most suitable and the best. Ibn Kathir, after quoting the above explanation, has also quoted the statement of some exegetes that the earth's reply was given by that portion of the earth on which Baytullah has been constructed and the sky's reply was given by that portion of the sky which is just above the Baytullah, known as Al-Bayt-ul- Ma` mur.
 
+## AI Translation
+
+So He formed the heaven into seven heavens in two Days, assigning to each its mandate. We adorned the lowest heaven with stars for beauty and protection. That is the design of the Almighty, All-Knowing."
+
+## AI Tafsir
+
+**What this ayah teaches:** And the mountains He has fixed firmly, (to be) a provision and benefit for you and your cattle.)(79:27-33) This Ayah states that the spreading out of the earth came after the creation of the heavens, but the earth itself was created before the heavens according to some texts. And We adorned the nearest (lowest) heaven with lamps (stars) to be an adornment as well as to guard.
+
+**Classical tafsir:** Ibn Kathir notes: And the mountains He has fixed firmly, (to be) a provision and benefit for you and your cattle.)(79:27-33) This Ayah states that the spreading out of the earth came after the creation of the heavens, but the earth itself was created before the heavens according to some texts.
+
+**From the Sunnah:** This was the response of Ibn 'Abbas, may Allah be pleased with him, as recorded by Al-Bukhari in his Tafsir of this Ayah in his Sahih. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

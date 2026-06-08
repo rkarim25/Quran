@@ -134,6 +134,15 @@ This verse may be interpreted in two ways. First, that on the Day of Judgment ev
 
 On the Day of Resurrection every one - believers, infidels, the blessed and the wretched - will be assembled around Hell. Everyone will be seized with awe and terror, and they will all be on their knees, then the believers and the blessed will be taken across Hell and admitted into Paradise, so that having viewed the extreme suffering of Hell they may all the better enjoy their own state of felicity, and at the same time rejoice at the punishment which has been inflicted upon the infidels.
 
+## AI Translation
+
+By your Rabb, We will gather them with the devils, then set them around Hell on their knees.
+
+## AI Tafsir
+
+**What this ayah teaches:** First, that on the Day of Judgment every infidel will be brought before Allah along with his own devil, and this suggests that this is a reference to the gathering of infidels and their devils. But if it is interpreted in a general sense to include all believers and infidels then the meaning of the devils being gathered with all of them would be that while the infidels will be gathered with their de…
+
+**Classical tafsir:** Ibn Kathir notes: This means that He, the Exalted, created the human being while he was nothing.
 ## Personal Reflections
 
 

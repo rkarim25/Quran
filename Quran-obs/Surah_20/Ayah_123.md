@@ -140,6 +140,17 @@ Allah says to Adam, Hawwa' and Iblis, "Get down from here, all of you." This mea
 
 The اهْبِطَا مِنْهَا جَمِيعًا (123) mean "both of you go down together". This command can be in reference to Sayyidna 'Adam (علیہ السلام) and the shaitan in which case the meaning of the phrase بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ (some of you enemies of some - 123) is obvious, namely that the two of them will remain enemies in the world also. However if it is argued that the Shaitan had already been expelled from Paradise long before these events occurred, then it would be correct to assume that these words have been addressed to Sayyidna 'Adam (علیہ السلام) and Sayyidah Hawwa' (علیہا السلام) meaning thereby that their children would cherish hostile feelings towards one another and mutual hostility among the children embitters the lives of the parents.
 
+## AI Translation
+
+Allah said, “Descend, both of you, from here together with Satan as enemies to each other. Then when guidance comes to you from Me, whoever follows My guidance will neither go astray in this life nor suffer in the next.
+
+## AI Tafsir
+
+**Context:** (But whosoever turns away from My Reminder,) This means, "Whoever opposes my command and what I have revealed to My Messenger, then he has turned away from it, neglected it and taken his guidance from other than it."
+
+**What this ayah teaches:** Then if there comes to you guidance from Me, then whoever follows My guidance he shall neither go astray nor shall be distressed (123)But whosoever turns away from My Reminder, verily, for him is a life of hardship, and We shall raise him up blind on the Day of Resurrection.
+
+**Classical tafsir:** Ibn Kathir notes: The Descent of Adam to the Earth and the Promise of Good for the Guided and Evil for the Transgressors Allah says to Adam, Hawwa' and Iblis, "Get down from here, all of you." This means each of you should get out of Paradise.
 ## Personal Reflections
 
 

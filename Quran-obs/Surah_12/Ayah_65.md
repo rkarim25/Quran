@@ -171,6 +171,15 @@ It will be noticed that, prior to this verse, the brothers of Sayyidna Yusuf (ع
 
 One sense of the sentence: مَا نَبْغِي (ma nabghi) spoken by the brothers of Sayyidna Yusuf (علیہ السلام) is practically the same as given immediately above, that is, ` what else do we want?' And if, in this sentence, the letter: مَا (ma : not) is taken in the sense of negation, it could also mean that the sons of Sayyidna Ya` qub (علیہ السلام) told their father: Now that we have the price of the grain with us, we do not want anything from you. You just send our brother with us.
 
+## AI Translation
+
+When they opened their bags, they discovered that their money had been returned to them. They argued, “O our father! What more can we ask for? Here is our money, fully returned to us. Now we can buy more food for our family. We will watch over our brother, and obtain an extra camel-load of grain. That load can be easily secured.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Here is our capital given back to us, and we shall bring food to our family, protect our brother and add the measure of one camel more.
+
+**Classical tafsir:** Ibn Kathir notes: That we shall get an additional load of grains in the name of our brother will help - because, whatever we have brought in the present trip is much less than our needs and is likely to be consumed soon.
 ## Personal Reflections
 
 

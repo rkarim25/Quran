@@ -196,6 +196,15 @@ These were particular segments of the story that were neither described by the Q
 
 Up to this point, the Qur'an had mentioned this story in brief. Details follow.
 
+## AI Translation
+
+then We raised them so We may show which of the two groups would make a better estimation of the length of their stay.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then, there is the case of Ibn ` Atiyyah who, despite his personal observation, did not claim that they were the People of Kahf.
+
+**Classical tafsir:** Ibn Kathir notes: Ad-Dahhak said: "As for Al-Kahf, it is a cave in the valley, and Ar-Raqim is the name of the valley." Mujahid said, "Ar-Raqim refers to their buildings." Others said it refers to the valley in which their cave was. For evidence, he refers to Torah: The book of Numbers and the book of Isaiah and gives the name of Petra as Raqimah.
 ## Personal Reflections
 
 

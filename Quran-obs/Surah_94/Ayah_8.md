@@ -126,6 +126,15 @@ Surah Al-Inshirah
 
 Ends here
 
+## AI Translation
+
+And turn to your Rabb with longing.
+
+## AI Tafsir
+
+**What this ayah teaches:** And to your Lord turn intentions and hopes.) meaning, 'when you have completed your worldy affairs and its tasks, and you have broken away from its routine, then get up to perform the worship, and stand for it with zeal, complete devotion and purify your intention and desire for your Lord.' Similar to this is the Prophet's statement in a Hadith that is agreed-upon to be authent…
+
+**Classical tafsir:** Ibn Kathir notes: And to your Lord turn intentions and hopes.) meaning, 'when you have completed your worldy affairs and its tasks, and you have broken away from its routine, then get up to perform the worship, and stand for it with zeal, complete devotion and purify your intention and desire for your Lord.' Similar… Note This indicates that scholars [ who are involved in education, propagation and human reform ] sho…
 ## Personal Reflections
 
 

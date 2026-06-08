@@ -212,6 +212,19 @@ Favour [ 3]
 
 After elaborating on the three favours of Allah, three injunctions follow:
 
+## AI Translation
+
+Did He not find you in need and enrich you?
+
+## AI Tafsir
+
+**Context:** Al-'Awfi reported from Ibn 'Abbas, "When the Qur'an was revealed to the Messenger of Allah ﷺ, Jibril was delayed from coming to him for a number of days (on one occasion).
+
+**What this ayah teaches:** And He found you unaware and guided you?)(8.
+
+**Classical tafsir:** Ibn Kathir notes: And He found you unaware and guided you?)(8.
+
+**From the Sunnah:** this Hadith. (Sahih al-Bukhari, Sahih Muslim) Therefore, the Messenger of Allah ﷺ was affected by this.
 ## Personal Reflections
 
 

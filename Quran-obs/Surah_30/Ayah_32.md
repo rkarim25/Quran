@@ -150,6 +150,15 @@ These are like the Jews, Christians, Zoroastrians, idol worshippers and all the 
 
 مِنَ الَّذِينَ فَرَّ‌قُوا دِينَهُمْ وَكَانُوا شِيَعًا (Among those who split up religion and became sects - 30:32) that is, these disbelievers are those who have created a difference between Natural Faith and the true religion, or they have alienated themselves from the Natural Faith, as a result of which they are divided into different sects. شِيَعًا :Shiya'an is the plural of شِیعۃ shi` ah. A group of people following a leader is called shi ah. The fact is that the Natural Faith was based on the Oneness of Allah, by following which the entire human kind should have been one solid unit and one party. But it so happened that people split out from this unity and started following the personal views of their own leaders. Since the personal views and opinions of different people may always vary from person to person, different groups of people invented their own beliefs and religion. As a consequence, people were divided into various groups and sects, and the Shaitan made them believe that they were the only people on the right path كُلُّ حِزْبٍ بِمَا لَدَيْهِمْ فَرِ‌حُونَ (Each group is happy with what it has before it - 30:32). That is, each group is happy and contended in its own beliefs and declare others being wrong, although they all are astray and treading the wrong path.
 
+## AI Translation
+
+like those who split their deen into sects, each rejoicing in what they have.
+
+## AI Tafsir
+
+**What this ayah teaches:** No change let there be in Allah's Khalq, that is the straight religion, but most men know not (30)(And remain always) turning in repentance to Him and have Taqwa of Him; and perform the Salah and be not of idolators (31)Of those who split up their religion, and became sects, each sect rejoicing in that which is with it .
+
+**Classical tafsir:** Ibn Kathir notes: Others said that this means, Allah made all of His creation equal, all of them have the same sound Fitrah and are by nature upright; they are all born with this nature and there is no disparity among people in this regard.
 ## Personal Reflections
 
 

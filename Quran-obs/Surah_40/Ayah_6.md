@@ -114,6 +114,17 @@ This جِدَال (jidal) declared as: کُفر (kufr) by the Qur'an, and Hadith
 
 In the last sentence of verse 4, it was said: فَلَا يَغْرُ‌رْ‌كَ تَقَلُّبُهُمْ فِي الْبِلَادِ their [ prosperous ] movements in the cities should not deceive you.). The kuffar (disbelievers) from the tribe of Quraish used to travel to Yemen during winter and to Syria in summer with their trading caravans. They were held in esteem all over Arabia because of their services to Baytullah at Makkah, therefore, they remained safe during their travels and profited from their commercial ventures. This was the backbone of their wealth and territorial power. That this state of affairs with them kept continuing despite the challenge from Islam and the Holy Prophet ﷺ was a matter of pride for them - 'Had we been the culprits in the sight of Allah, all these blessings would have been taken away from us!' This situation could have made even some Muslims easy victims of doubt. Therefore, in this verse, it was said that Allah Ta’ ala had granted them a temporary respite in His wisdom and under His expedient consideration. So, let Muslims not be deceived by this leash given to them. Once this period of respite is over, they are going to be visited by a punishment, and this territorial power of theirs is going to be taken away from them. This started from the Battle of Badr, and up to the Conquest of Makkah, the foreboding manifested itself fully and conclusively within a span of six years.
 
+## AI Translation
+
+Your Lord's decree has been proven true against those who reject the truth—that they will be inmates of the Fire.
+
+## AI Tafsir
+
+**What this ayah teaches:** So I seized them, and how was My punishment (5)Thus has the Word of your Lord been justified against those who disbelieved, that they will be the dwellers of the Fire . This verse declares quarreling in the matter of the Qur'an an act of kufr (disbelief).
+
+**Classical tafsir:** Ibn Kathir notes: This verse declares quarreling in the matter of the Qur'an an act of kufr (disbelief).
+
+**From the Sunnah:** He said, 'communities before you were ruined because they had started quarreling in the matter of the Book of Allah.' (Reported by Muslim from ` Abdullah Ibn ` Amr Ibn Shu'aib - Mazhari) (Sahih Muslim) That this state of affairs with them kept continuing despite the challenge from Islam and the Holy Prophet ﷺ was a matter of pride for them - 'Had we been the culprits in the sight of Allah, all these blessings would have been taken away from us!' This situati…
 ## Personal Reflections
 
 

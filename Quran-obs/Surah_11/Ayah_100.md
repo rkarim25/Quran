@@ -116,6 +116,17 @@ verse of the Qur'an: تِسْعَةُ رَ‌هْطٍ يُفْسِدُونَ ف�
 
 During the Khilafah of Sayyidna ` Umar ibn ` Abd al-` Aziz (رح) ، someone was arrested while he was cutting a dirham coin. He was awarded a punishment of lashes and was paraded around head shaved. (Tafsir al Qurtubi)
 
+## AI Translation
+
+These are accounts, We relate to you O Prophet, of the destroyed cities. Some are still standing barren, while others have been mowed down.
+
+## AI Tafsir
+
+**What this ayah teaches:** That is some of the news of the (population of) towns which We relate unto you; of them, some are (still) standing, and some have been (already) reaped (100)We wronged them not, but they wronged themselves.
+
+**Classical tafsir:** Ibn Kathir notes: Because the reason for their destruction and their ruin was that they followed those false gods.
+
+**From the Sunnah:** There is a consensus of the entire Muslim Ummah that doing so is strictly Haram (unlawful). (Sahih Muslim)
 ## Personal Reflections
 
 

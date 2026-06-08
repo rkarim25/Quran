@@ -203,6 +203,17 @@ Sayyidna ` Imran (علیہ السلام) was the Imam of this Mosque. He had die
 
 So, he got custody of Maryam. According to some reports, he employed a wet-nurse to have her suckled. Other reports say that she just did not need to be suckled. She grew up able to sit and walk and Sayyidna Zakariyya (علیہ السلام) put her in a good house adjacent to the Mosque. When he went out, he locked the house and opened it on re-turn. This has been stated briefly in the present verse.
 
+## AI Translation
+
+So her Rabb accepted her graciously and blessed her with a pleasant upbringing—entrusting her to the care of Zachariah. Whenever Zachariah visited her in the sanctuary, he found her supplied with provisions. He exclaimed, “O Mary! Where did this come from?” She replied, “It is from Allah. Surely Allah provides for whoever He wills without limit.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Every time he entered the Mihrab to (visit) her, he found her supplied with sustenance. He also made her accompany the righteous people, so that she learned righteousness, knowledge and religion.
+
+**Classical tafsir:** Ibn Kathir notes: He also made her accompany the righteous people, so that she learned righteousness, knowledge and religion.
+
+**From the Sunnah:** The Two Sahihs recorded that the Messenger of Allah ﷺ decided that 'Amarah, the daughter of Hamzah, be raised by her maternal aunt, the wife of Ja'far bin Abi Talib, saying,
 ## Personal Reflections
 
 

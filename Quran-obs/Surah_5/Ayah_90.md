@@ -285,6 +285,19 @@ In a Hadith from Ibn Majah, the Holy Prophet ﷺ is reported to have said: شَ�
 
 In brief, by saying رِ‌جْسٌ مِّنْ عَمَلِ الشَّيْطَانِ that these things are filth, a work of Satan, taken up first were their spiritual ills. The sense is that indulgence in these activities is disgusting. This is a trap of Satan. Whoever walks in never walks out, only to become a victim of many more vices. Then, the command given was: فَاجْتَنِبُوهُ (Therefore, refrain from it) since the nature of these indulgences requires it. In the end it was said: لَعَلَّكُمْ تُفْلِحُونَ (so that you may be successful). It means that one's chances of succeeding and prospering in the present world and in the Hereafter depend on doing just that - abstain.
 
+## AI Translation
+
+O you who have iman! Intoxicants, gambling, idols, and drawing lots for decisions are all evil of Satan’s handiwork. So shun them so you may be successful.
+
+## AI Tafsir
+
+**Context:** It is recorded in the Two Sahihs, that 'Umar bin Al-Khattab said in a speech; while standing on the Minbar of the Messenger of Allah (in the Prophet's Masjid in Al-Madinah) "O people!
+
+**What this ayah teaches:** The addition of altar-stones or idols to this list is there for listeners to understand that this matter of drinking and gambling is as serious a crime as the worship of idols.
+
+**Classical tafsir:** Ibn Kathir notes: In the Arabic language, the word "Rijs" refers to something foul, which is disgusting for human taste.
+
+**From the Sunnah:** When the Messenger of Allah ﷺ migrated to Al-Madinah, the people were consuming alcohol and gambling, so they asked the Messenger of Allah ﷺ about these things, Allah revealed, (Musnad Ahmad) So they said, 'We abstained, O Lord!' Later, some people said, 'O Allah's Messenger!
 ## Personal Reflections
 
 

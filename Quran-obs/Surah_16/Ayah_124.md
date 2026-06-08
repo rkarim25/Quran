@@ -110,6 +110,17 @@ The Holy Prophet being on the way of Sayyidna Ibrahim (علیہ السلام) : 
 
 When Sayyidna Ibrahim I appeared, Allah Ta’ ala blessed him with a Shari'ah and its Injunctions. When the Last of the Prophets ﷺ appeared, his Shari'ah too - with the exception of some particular Injunctions - was laid out in accordance with it. Though, the Holy Prophet ﷺ is preferred as more distinguished (afdal) of all blessed prophets and messengers, but at this place, there are two wise considerations in asking the preferred (afdal) to follow the one not so preferred (mafdul) in the present context. (1) Since that Shari'ah has come into the world earlier and is already known and recognized and as the last Shari'ah was also to be in accord with that, therefore, this similarity of the Holy Prophet ﷺ to the way of Sayyidna Ibrahim (علیہ السلام) was expressed through the word: اِتِّبَاع (ittiba': following). (2) As said by ` Allamah al-Zamakhshari (author of Tafsir Al-Kashshaf), this command to follow too is a special tribute out of the many honours and tributes attributed to the 'friend' of Allah, Sayyidna Ibrahim (علیہ السلام) . That it is so special has been hinted through the use of the word: ثُمَّ (thumma: Then - 123). The sense being conveyed is: Certainly great are all those merits and perfections of the person of Sayyidna Ibrahim (علیہ السلام) as they are, but the most superior of all these is the fact that Allah Ta’ ala has asked his preferred-most and the dearest rasul to follow his way.
 
+## AI Translation
+
+Honouring the Sabbath was ordained only for those who disputed about Abraham. And surely your Rabb will judge between them on the Day of Judgment regarding their disputes.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Prescription of the Sabbath for the Jews There is no doubt that for every nation, Allah prescribed one day of the week for people to gather to worship Him.
+
+**Classical tafsir:** Ibn Kathir notes: For this Ummah He prescribed Friday, because it is the sixth day, on which Allah completed and perfected His creation.
+
+**From the Sunnah:** It was reported in the Two Sahihs that Abu Hurayrah heard the Messenger of Allah ﷺ say: the Messenger of Allah ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
 
 

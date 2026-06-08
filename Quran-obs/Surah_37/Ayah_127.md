@@ -71,6 +71,17 @@ Allah sent him to the Children of Israel after Hizqil (Ezekiel), may peace be up
 
 In verse 127, it was said: فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُ‌ونَ : "Then they rejected him. Therefore, they will be arraigned." It mpa'ns that they will have to taste the consequence of having belied the true messengers of Allah (علیہم السلام) . It could also be referring to the punishment of the Hereafter as well as their sad end within this world. That the rulers of both the countries of Isra'il and Judah had to face destruction as a result of their having rejected Sayyidna Ilyas (علیہ السلام) has been mentioned earlier. The detailed account of this destruction is present in Tafsir Mazhari and in the Bible: Kings I, Chapter 22; Kings II; Chapter 1 and Chronicles II; Chapter 21.
 
+## AI Translation
+
+But they rejected him, so they will certainly be brought for punishment.
+
+## AI Tafsir
+
+**What this ayah teaches:** A horse of fire was brought to him, so he rode it, and Allah clothed him with light and covered him with feathers, and he used to fly with the angels as a human angel, heavenly yet also earthly. It could also be referring to the punishment of the Hereafter as well as their sad end within this world.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ikrimah and Qatadah said, "This is the language of the people of Yemen." According to another report from Qatadah, it is the language of Azd Shanu'ah.
+
+**From the Sunnah:** Qatadah and Muhammad bin Ishaq said, "Ilyas is another name for Idris." Ibn Abi Hatim recorded that 'Abdullah bin Mas'ud, may Allah be pleased with him, said, "Ilyas is Idris." This was also the view of Ad-Dahhak .
 ## Personal Reflections
 
 

@@ -92,6 +92,15 @@ The interpretation of that dream manifested later when it turned out that the te
 
 In a narration from Sayyidna ` Abdullah ibn ` Abbas ؓ ، it has been reported that Sayyidna Ya` qub (علیہ السلام) ، because of this dream, felt the danger of an unfortunate situation coming at the hands of these brothers. Thus, in fact, they were the ones he had alluded to as wolves - but, in consideration of his wisdom, he did not lay the truth bare. (Qurtubi)
 
+## AI Translation
+
+He responded, “It would truly sadden me if you took him away with you, and I fear that a wolf may devour him while you are negligent of him.”
+
+## AI Tafsir
+
+**What this ayah teaches:** I fear lest a wolf should devour him, while you are careless of him.
+
+**Classical tafsir:** Ibn Kathir notes: This demonstrates the deep love that Ya'qub had for his son, because he saw in Yusuf great goodness and exalted qualities with regards to conduct and physical attractiveness associated with the rank of prophethood.
 ## Personal Reflections
 
 

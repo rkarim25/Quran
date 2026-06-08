@@ -134,6 +134,19 @@ Lying is contemptible
 
 (4) The verse آمَنَّا بِاللَّـهِ وَبِالْيَوْمِ الْآخِرِ‌:"We believe in Allah and in the Last Day" shows us how disgusting it is to tell a lie - even the hypocrites, with all their hostility to Islam, tried to refrain from it as far as possible. In claiming to be Muslims, they used to mention only their faith in Allah and in the Day of Judgment, but left out the faith in the Holy Prophet ﷺ for fear of telling a lie.
 
+## AI Translation
+
+Among people are some who say, "We trust in Allah and the Last Day," yet they are not truly among the mu'min — those who trust and live by what Allah revealed.
+
+## AI Tafsir
+
+**Context:** The revelations about the characteristics of the hypocrites were revealed in Al-Madinah, this is because there were no hypocrites in Makkah.
+
+**What this ayah teaches:** This Ayah means that the hypocrites utter these statements only when they meet you, not because they actually believe what they are saying. And of mankind, there are some who say: "We believe in Allah and the Last Day" while in fact they do not believe (8)They try to deceive Allah and those who believe, while they only deceive themselves, and perceive (it) not .
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah means that the hypocrites utter these statements only when they meet you, not because they actually believe what they are saying.
+
+**From the Sunnah:** Afterwards, the Messenger of Allah ﷺ migrated to Al-Madinah, where the Ansar from the tribes of Aws and Khazraj resided.
 ## Personal Reflections
 
 

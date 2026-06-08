@@ -140,6 +140,17 @@ It has also been said that the meaning here refers to those who perform a deed a
 
 إِنَّ الْإِنسَانَ خُلِقَ هَلُوعًا (Indeed man is created weak in courage...70:19). The halu`, literally, means 'one who is greedy, impatient, lacking courage'. Sayyidna Ibn ` Abbas ؓ says that the word halu' in the verse refers to a 'person who is greedy about unlawful wealth'. Sayyidna Said Ibn Jubair ؓ says that the word refers to a 'miserly person'. Muqatil says that it refers to a 'person who is impatient and miserly'. All meanings attached assigned to this word are near-synonyms. The word halu' comprehends all these meanings. The verses that follow elaborate on the meaning of this word. In the meantime a doubt might arise here which needs to be disposed of. If it is objected that, according to this verse of the Holy Qur'an, man is created weak in courage, in other words, it is man's nature or his natural weakness, to be impatient, greedy and miserly - then it is not his fault, and why is he declared 'guilty'? This doubt may be allayed thus: Allah has created human nature such that it has the innate capacity to do good as well as evil. He has endowed him with intellect and intelligence. He has raised His Prophets with His Message and sent down His Books clearly stating the consequences of every action chosen by his free will. He has the right to choose between good and bad. Man, in this sense, will be declared 'guilty', and consequently punished on account of freely choosing to do the wrong deed, not on account of his inborn capacity. This interpretation is confirmed by the following verses that speak only of actions of choice.
 
+## AI Translation
+
+and gathered and hoarded wealth.
+
+## AI Tafsir
+
+**What this ayah teaches:** If it is objected that, according to this verse of the Holy Qur'an, man is created weak in courage, in other words, it is man's nature or his natural weakness, to be impatient, greedy and miserly - then it is not his fault, and why is he declared 'guilty'? The halu`, literally, means 'one who is greedy, impatient, lacking courage'.
+
+**Classical tafsir:** Ibn Kathir notes: It has also been said that the meaning here refers to those who perform a deed and are constant in its performance and consistent in it.
+
+**From the Sunnah:** This is like what is reported in the authentic Hadith, (authentic hadith)
 ## Personal Reflections
 
 

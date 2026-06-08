@@ -127,6 +127,19 @@ A doubt and its answer
 
 In verse 67 it has been averred that Allah Ta’ ala granted to the earlier nations their own Shari` ah or set of rules, and the Mosaic Code and the Christian Code are instances in point. The Jews and the Christians may, therefore, are that their Codes also being Divine should be allowed to exist alongside of the Islamic Code. But this is a fallacious argument because it is a well established fact that an earlier Shari` ah is cancelled by a subsequent Shari` ah, and this view is reinforced by the following verses in which the infidels who challenge the Islamic Shari` ah have been warned of severe chastisement. وَإِن جَادَلُوكَ فَقُلِ اللَّـهُ أَعْلَمُ بِمَا تَعْمَلُونَ (And if they dispute with you, then say, "Allah knows best what you do." - 22:68)
 
+## AI Translation
+
+Do you not know that Allah fully knows whatever is in the heavens and the earth? Surely it is all written in a Record. That is certainly easy for Allah.
+
+## AI Tafsir
+
+**Context:** One interpretation of this verse is that the infidels used to engage the Muslims in futile arguments regarding the slaughter of animals.
+
+**What this ayah teaches:** Know you not that Allah knows all that is in the heaven and on the earth?
+
+**Classical tafsir:** Ibn Kathir notes: have adopted this meaning of the word, and the context of the verse also lends support to this interpretation.
+
+**From the Sunnah:** One interpretation of this verse is that the infidels used to engage the Muslims in futile arguments regarding the slaughter of animals.
 ## Personal Reflections
 
 

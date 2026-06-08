@@ -146,6 +146,15 @@ Warning
 
 Although the best of the three brothers offered the right advice, he joined the other brothers in following their wrong opinion. So he suffered the same loss. This indicates that anyone who prevents other people from committing sins but does not abstain from them himself and joins them in doing the wrong acts, he will suffer the same fate as the others.
 
+## AI Translation
+
+They replied: 'Glory be to our Lord! We have truly been wrongdoers.'
+
+## AI Tafsir
+
+**What this ayah teaches:** Truly, we hope in our Lord.) It has been said, "They were hoping for something better in exchange in this life." It has also been said, "They were hoping for its reward in the abode of the Hereafter." And Allah knows best.
+
+**Classical tafsir:** Ibn Kathir notes: This indicates that anyone who prevents other people from committing sins but does not abstain from them himself and joins them in doing the wrong acts, he will suffer the same fate as the others.
 ## Personal Reflections
 
 

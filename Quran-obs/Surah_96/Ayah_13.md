@@ -122,6 +122,19 @@ Then Allah says,
 
 Verses [ 9-10] أَرَ‌أَيْتَ الَّذِي يَنْهَىٰ عَبْدًا إِذَا صَلَّىٰ أَرَ‌أَيْتَ الَّذِي يَنْهَىٰ (Have you seen him who forbids a slave of Allah when he prays?) From here to the end of the Surah, the verses allude to an incident. When the Holy Prophet was enjoined to perform the salah, he started performing it at first privately, later in public in the Sacred Mosque. Abu Jahl stopped him from performing salah and threatened him that if he were to perform salah and prostrate, he would [ God forbid!] trample his neck. Verse [ 14] أَلَمْ يَعْلَم بِأَنَّ اللَّـهَ يَرَ‌ىٰ (Does he not know that Allah is watching?) is in response to the threat made by Abu Jahl, and the verse does not mention whom He is watching. It is of general application - He is watching the pious personality who is performing the salah, as well as the wretched, miserable person who is obstructing the performance of the salah. Here the statement merely asserts that Allah is watching everything and everyone. It does not specify what will happen at Resurrection, because the horrible, terrible and dreadful scenes of that are unimaginable.
 
+## AI Translation
+
+What if the forbidder persists in denial and turns away?
+
+## AI Tafsir
+
+**Context:** (Have you seen him who prevents. A servant when he prays) This was revealed about Abu Jahl, may Allah curse him. He threatened the Prophet for performing Salah at the Ka`bah.
+
+**What this ayah teaches:** In the Name of your Lord Who has created.) (96:1) This is the end of the Tafsir of Surah Iqra' (Surat Al-`Alaq). It does not specify what will happen at Resurrection, because the horrible, terrible and dreadful scenes of that are unimaginable.
+
+**Classical tafsir:** Ibn Kathir notes: In the Name of your Lord Who has created.) (96:1) This is the end of the Tafsir of Surah Iqra' (Surat Al-`Alaq).
+
+**From the Sunnah:** Haven't I prevented you from this' He threatened the Prophet and thus, the Messenger of Allah ﷺ became angry with him and reprimanded him. (Jami' at-Tirmidhi, Sunan an-Nasa'i)
 ## Personal Reflections
 
 

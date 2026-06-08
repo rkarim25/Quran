@@ -126,6 +126,17 @@ This one sentence answers the reasoning by saying that Allah has the most perfec
 
 The reason lies in pondering that Allah Ta` ala did create Sayyidna Adam (علیہ السلام) without a father and mother both. He has the power, all power, over everything. He is the Creator and the Master and the most worthy of worship. No one else can be associated with His Divinity as a partner or sharer.
 
+## AI Translation
+
+O People of the Book! Now Our Messenger has come to you, revealing much of what you have hidden of the Scriptures and disregarding much. There certainly has come to you from Allah a light and a clear Book through which Allah guides those who seek His pleasure to the ways of peace, brings them out of darkness and into light by His Will, and guides them to the Sirat al-Mustaqim—the Sirat al-Mustaqim—the way of living that pleases Allah that pleases Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** Indeed, there has come to you from Allah a light and a plain Book (15)Wherewith Allah guides all those who seek His Pleasure to ways of peace, and He brings them out of darkness by His permission unto light and guides them to a straight path .
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, He protects them from what they fear, and brings about the best of what they long for, all the while ridding them of misguidance and directing them to the best, most righteous state of being.
+
+**From the Sunnah:** So the Prophet ﷺ explained where they altered, distorted, changed and lied about Allah. (al-Mustadrak)
 ## Personal Reflections
 
 

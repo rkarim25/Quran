@@ -201,6 +201,17 @@ On the other hand, certain masters of the science of Hadith do not allow the sli
 
 Most of the jurists and the masters of the science of Hadith, however, believe that although it is better to report a hadith as far as possible in exactly the same words as one has heard without making any change intentionally, yet if one cannot recall the exact words, it is also permissible to report the meaning in one's own words, and that the words of the hadith quoted above - "... conveyed it exactly as he had heard" - might also mean that one should report the meaning of a hadith exactly and without any alteration. Obviously, changing the words does not necessarily go against this provision. Imam al-Qurtubi (رح) has, in support of his view, pointed out that this very hadith goes to prove that changing words, when necessary, is permissible, for this hadith itself has come down to us in different words in different versions. As for the other hadith in which the Holy Prophet ﷺ has insisted that the word Nabiyy should be recited and not the word Rasul, one might explain it in this way. The word Nabiyy (prophet) carries the sense of sublimity much more than does the word Rasul, for the latter is employed for any messenger whatsoever, while the former is reserved only for those who are specially chosen by Allah for being directly addressed through revelation (Wahy وحی ), and who thus occupy a rank higher than all other men. There is another explanation too. As far as prayers are concerned, the words appointed for the purpose by Allah or by the Holy Prophet ﷺ have a much greater efficacy than any other words can have. (Qurtubi) That is why those who prepare تعویذ : ta'widh (translated as 'charms' in absence of an exact counterpart) or ` awdhah, or suggest words to pray are very careful in keeping to the authentically reported words without the slightest change. So, one may say that the prayers which are considered to be very efficacious, should be included in the first category of speech in which not only the meanings but the words also must be carefully safeguarded, for both are equally intended.
 
+## AI Translation
+
+But the wrongdoers changed the words they were told to say. So We sent down punishment from heaven for their rebellion.
+
+## AI Tafsir
+
+**Context:** This rule applies to each and every word of the Holy Qur'an. All the Injunctions with regard to the recitation of the Holy Qur'an strictly pertain to those words alone which Allah has revealed to the Holy Prophet ﷺ .
+
+**What this ayah teaches:** They were commanded to say, 'Hittah' meaning, "Relieve us from our errors and sins." However, they mocked this command and said, "Hintah (grain seed) in Sha'irah (barley)." This demonstrates the worst type of rebellion and disobedience, and it is why Allah released His anger and punishment upon them, all because of their sinning and defying His commands.
+
+**Classical tafsir:** Ibn Kathir notes: Khasif said that 'Ikrimah said that Ibn 'Abbas said, "The door mentioned here was facing the Qiblah." Ibn 'Abbas, Mujahid, As-Suddi, Qatadah and Ad-Dahhak said that the door is the door of Hittah in Iylya', which is Jerusalem.
 ## Personal Reflections
 
 

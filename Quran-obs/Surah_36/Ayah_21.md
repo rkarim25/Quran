@@ -104,6 +104,15 @@ The noble Qur'an has left this too as ambiguous. It does not mention his name, n
 
 Other historical narrations reported by commentators at this stage tell us that this person too was initially an idolater. He happened to meet the two messengers who came to this town the first time. It was either as a result of their teachings or, as it appears in some narrations, by seeing extraordinary working of wonders at their hands, his heart was lit with faith. He repented from past idolatry, embraced Islam and retired to a cave devoting to worship. When he got the news that the people of the city have rejected the teachings of these messengers, have become hostile to them and were threatening to kill them, he came to his people prompted by the mixed objectives of his concern for their good as well as the safety of the messengers. He advised them to follow these messengers and declared that he himself had become a believer: (I have believed in your Lord; so listen to me.- 25)
 
+## AI Translation
+
+Follow those who ask no reward of you, and are rightly guided.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, the expression would mean that a man came running from the farthest part of the city.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the expression would mean that a man came running from the farthest part of the city.
 ## Personal Reflections
 
 

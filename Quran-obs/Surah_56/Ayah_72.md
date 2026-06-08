@@ -148,6 +148,17 @@ was lost in the secondary or extrinsic causes and lost sight of his Real Creator
 
 Next to food, water is the most important thing upon which human life depends for its sustenance. Here too the Qur'an, in its inimitable style, poses the question: 'Have you considered the water you drink? Did you send it down from the clouds, or did We send it?' The answer is obvious: 'Allah'. Fire plays a most important part in the life of man. Much of his physical comfort depends upon it. [ It is a thing of great utility. In this mechanistic age life is inconceivable without the use of fire. No industry, trade or travel is possible without it.] The Qur'an again, in its unique and unparalleled style, poses the question: 'Have you considered the fire you kindle? Did you make its timber to grow, or did We make it?' Here too the answer is obvious: 'Allah'. Of course, in both instances the Qur'anic answers are elaborate.
 
+## AI Translation
+
+Is it you who grew its trees, or are We the Grower?
+
+## AI Tafsir
+
+**What this ayah teaches:** He ploughs the land and fertilizes the soil with manure, and thus softens it so that if the seed germinates, it will not be hampered by the hard ground. Therefore, we go back to the fundamental question: Who caused the seed lying under heaps and heaps of sand to germinate and come out to the surface of the earth so beautifully, comprising untold benefits?
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah commented, "You would say, 'We were punished,' sometimes, and, 'We were deprived,' some other times." 'Ikrimah said that 'You will be Tafakkahun' means 'You will blame each other (and yourselves),' or, feel sorrow, according to Al-Hasan, Qatadah and As-Suddi.
+
+**From the Sunnah:** This narration from Qatadah which is Mursal, was recorded by Imam Ahmad in his Musnad from Abu Hurayrah, from the Prophet ﷺ; (Musnad Ahmad)
 ## Personal Reflections
 
 

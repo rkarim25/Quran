@@ -238,6 +238,19 @@ Injunctions and related considerations
 
 Talha ibn ` Umar recounts that once he said to the great master of the Sciences of Exegesis and Hadith, 'At-a' عطاء ، "One can see around you people who are not quite orthodox in their beliefs. As for me, I am rather short-tempered. If such people come to me, I deal with them harshly." ` Ata' replied, "Do not behave like this," and, reciting the present verse, he added, Allah has commanded us to speak to people politely. When Jews and Christians all are to be treated like this, would this commandment not apply to a Muslim, no matter what kind of a man he is?" (Qurtubi)
 
+## AI Translation
+
+And when We took a covenant from the Children of Israel: worship none but Allah; be good to parents, relatives, orphans, and the needy; speak kindly to people; establish salah; and give zakat. Then you turned away — except a few among you — and were indifferent.
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you (O Muhammad ﷺ) but We revealed to him (saying): La ilaha illa Ana [none has the right to be worshipped but I (Allah)], so worship Me (alone and none else))(21:25), and,
+
+**What this ayah teaches:** And (remember) when We took a covenant from the Children of Israel, (saying): Worship none but Allah (alone) and be dutiful and good to parents, and to kindred, and to orphans and (the poor), and speak good to people and perform As-Salah and give Zakah.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** This Hadith was also collected by Muslim in his Sahih and At-Tirmidhi, who graded it Sahih. (Sahih Muslim, Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

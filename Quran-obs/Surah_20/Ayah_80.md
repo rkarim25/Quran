@@ -131,6 +131,15 @@ Then, Allah made a covenant with Musa and the Children of Israel on the right si
 
 وَنَزَّلْنَا عَلَيْكُمُ الْمَنَّ وَالسَّلْوَىٰ (And sent down for you the Mann and Sa1w. - 20:80) This incident occurred when, having crossed the river, they were commanded to enter a sacred city, but they refused and as punishment they were confined to a valley which is known as the valley of Tih (Sinai). They stayed there for forty years and in spite of the punishment which they were undergoing they continued to receive gifts from Allah, and the Mann and Salwa (a special kind of food) was one such gifts which was given to them for their sustenance.
 
+## AI Translation
+
+O Children of Israel! We saved you from your enemy, and made an appointment with you on the right side of Mount Ṭûr, and sent down to you manna and quails,.
+
+## AI Tafsir
+
+**What this ayah teaches:** We delivered you from your enemy, and We made a covenant with you on the right side of the Mount, and We sent down to you manna and quail (80)(Saying) eat of the Tayyibat wherewith We have provided you, and commit no transgression or oppression therein, lest My anger should justly descend on you.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

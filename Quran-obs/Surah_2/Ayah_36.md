@@ -191,6 +191,17 @@ Paradise, Allah also said, بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ:
 
 They were also told that the earth would be a temporary dwelling-place for them, and that they would have to leave it too, which also meant that they would not find real peace of mind there.
 
+## AI Translation
+
+But Satan caused them to slip and removed them from the state they were in. We said, "Go down — some of you enemies to others. On earth you will have residence and provision for a fixed time."
+
+## AI Tafsir
+
+**What this ayah teaches:** Some scholars said that he led Adam and Hawwa' astray when he was on earth, while they were still in heaven, as stated by Az-Zamakhshari. Possibly he never met them, but planted the suggestion in their minds from afar - a thing which Satan can always do, and of which we have a specimen in the work of the hypnotists.
+
+**Classical tafsir:** Ibn Kathir notes: But I am shy.') Adam remained in Paradise for an Hour Al-Hakim recorded that Ibn 'Abbas said, "Adam was allowed to reside in Paradise during the time period between the 'Asr (Afternoon) prayer, until sunset." Al-Hakim then commented this is "Sahih according to the Two Shaykhs (Al-Bukhari and Muslim)…
+
+**From the Sunnah:** Paradise during the time period between the 'Asr (Afternoon) prayer, until sunset. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

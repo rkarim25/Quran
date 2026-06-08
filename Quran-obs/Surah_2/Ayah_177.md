@@ -424,6 +424,17 @@ Yet another change in style made here concerns the use of the word, والصَّ
 
 In short, this verse holds in its fold important principles of all departments of Faith and its eloquent hints tell us the degree of importance of each one of them.
 
+## AI Translation
+
+Righteousness is not turning your faces east or west. True righteousness belongs to those who believe in Allah, the Last Day, the angels, the Books, and the prophets; who give cherished wealth to relatives, orphans, the poor, travellers, beggars, and for freeing captives; who establish salah, give zakat, keep their pledges, and endure in hardship, adversity, and the heat of battle. They are the truthful, and they are people of taqwa.
+
+## AI Tafsir
+
+**What this ayah teaches:** Facing the east or the west does not necessitate righteousness or obedience, unless it is legislated by Allah.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ali bin Abu Talhah reported that Ibn 'Abbas said, "Ibn As-Sabil (wayfarer) is the guest who is hosted by Muslims." Furthermore, Mujahid, Sa'id bin Jubayr, Abu Ja'far Al-Baqir, Al-Hasan, Qatadah, Ad-Dahhak, Az-Zuhri, Ar-Rabi' bin Anas and Muqatil bin Hayyan said similarly.
+
+**From the Sunnah:** This change was difficult for some of the People of the Book, and even for some Muslims. It is recorded in the Sahihayn that Abu Hurayrah narrated that the Prophet ﷺ said:
 ## Personal Reflections
 
 

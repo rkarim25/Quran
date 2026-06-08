@@ -83,6 +83,17 @@ Allah tells us that another sign of His great power and dominion is the fact tha
 
 It is proved from some narrations of Hadith, as reproduced by Hakim in Mustadrak and by Baghawi on the authority of Sayyidna ` Ali ؓ that those sins for which punishment is given in this world are forgiven for Muslims in the Hereafter. (Mazhari)
 
+## AI Translation
+
+Or He can wreck the ships for what the people have committed—though He forgives much—
+
+## AI Tafsir
+
+**Context:** وَمَا أَصَابَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُو عَن كَثِيرٍ‌ (And whatever hardship befalls you is because of what your own hands have committed, while He overlooks many [ of your faults ]....
+
+**What this ayah teaches:** Baidawi and others have stated that this verse is specifically meant for those people who are likely to commit sins.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, in this are signs for everyone patient and grateful (33)Or He may destroy them because of that which their (people) have earned.
 ## Personal Reflections
 
 

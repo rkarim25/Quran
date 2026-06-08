@@ -104,6 +104,17 @@ According to Ruh al-Ma'ani, it is on the authority of this verse that Muslim jur
 
 Based on a narration by Sayyidna ` Abdullah ibn Masud ؓ Ibn Kathir has reported a decisive statement of the Holy Prophet ﷺ that is, whoever helps a Zalim (oppressor) in his Zulm, (injustice) then Allah Ta` ala sets that very Zalim on him to torment him, and it is at his hands that he gets his punishment.
 
+## AI Translation
+
+This is how We make the wrongdoers allies of one another because of their misdeeds.
+
+## AI Tafsir
+
+**What this ayah teaches:** And thus We do make the wrongdoers supporters of one another, because of that which they used to earn .
+
+**Classical tafsir:** Ibn Kathir notes: And thus We do make the wrongdoers supporters of one another, because of that which they used to earn .
+
+**From the Sunnah:** A Muslim obedient to Allah Ta` ala, wherever he may be, shall be together with Muslims; and the disobedient those who reject the truth, wherever he may be, shall be together with those who reject the truth - whether their race, heredity, country, language, colour and social living may be… (Sahih Muslim) Then, even among Muslims, those good in deeds shall be with the righteous while the evil doers will be grouped up with evil doers and sinners.
 ## Personal Reflections
 
 

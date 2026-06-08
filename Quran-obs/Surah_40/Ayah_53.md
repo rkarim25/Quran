@@ -138,6 +138,15 @@ Ibn Kathir has, with reference to Ibn Jarir, answered this possible doubt by say
 
 In the later part of verse 51, it was said: يَوْمَ يَقُومُ الْأَشْهَادُ (as well as on the day in which witnesses will stand [ to give their testimony ]. It means the day of Qiyamah (Doomsday). Once they are there, Divine help for prophets and believers will show itself specially.
 
+## AI Translation
+
+We gave Musa true guidance and made the Children of Israel inherit the Scripture—
+
+## AI Tafsir
+
+**What this ayah teaches:** Then Allah took him (in death), because of his high status and honor, and He established his Companions as his Khalifahs.
+
+**Classical tafsir:** Ibn Kathir notes: Then Allah took him (in death), because of his high status and honor, and He established his Companions as his Khalifahs.
 ## Personal Reflections
 
 

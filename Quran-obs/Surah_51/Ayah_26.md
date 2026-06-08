@@ -129,6 +129,15 @@ Rules of Entertaining Guests
 
 Ibn Kathir says that this verse indicates proper manners for entertaining guests: Holy Prophet Ibrahim (علیہ السلام) ، the host, did not first mention that he would make food for them. He slipped out quietly, and brought the food to his guests quickly, while they were unaware that it was being prepared for them. Rather, he discreetly had it prepared and placed before them. He prepared the best kind of food he had, a young, fat roasted calf. Moreover, he did not place the food far from them and invite them to come close to it to eat. Rather, he placed it close to them فَقَرَّ‌بَهُ إِلَيْهِمْ 'brought it close to them' and refrained from ordering them to eat. Instead he invited them politely, kindly and cordially to partake thus أَلَا تَأْكُلُونَ 'Would you not eat?' This statement in the form of a question is similar to one of us saying to a guest, 'Would you kindly partake of it - even if you are not hungry, at least for my sake?'
 
+## AI Translation
+
+He went quietly to his family and brought a fat roasted calf,
+
+## AI Tafsir
+
+**What this ayah teaches:** He slipped out quietly, and brought the food to his guests quickly, while they were unaware that it was being prepared for them. For he brought the food to his guests quickly, while they were unaware that it was being prepared for them.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

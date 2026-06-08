@@ -160,6 +160,17 @@ Mujahid, ` Ikramah, Qatadah, Zuhri, Ibn Zaid and other leading authorities of Ta
 
 never indulged in idolatry at any time in his life, he is commanded, for emphasis, to abstain from it in future as he kept away from it in the past. This command is in actual fact directed to the idolaters, so that they may realise the importance of abstaining from idol-worship, as it enjoins the Holy Prophet to shun all filth [ idols and sins ] despite being sinless and infallible.
 
+## AI Translation
+
+Turn away from idols and everything that rivals Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** This command is in actual fact directed to the idolaters, so that they may realise the importance of abstaining from idol-worship, as it enjoins the Holy Prophet to shun all filth [ idols and sins ] despite being sinless and infallible. The letters 'RJZ' may be read as rujz or rUz, and in either case the word has the same significance.
+
+**Classical tafsir:** Ibn Kathir notes: The letters 'RJZ' may be read as rujz or rUz, and in either case the word has the same significance.
+
+**From the Sunnah:** It has been confirmed in the Sahih Al-Bukhari and Sahih Muslim on the authority of Abu Salamah that Jabir bin 'Abdullah informed him that he heard the Messenger of Allah ﷺ speaking about the time period (of the pause in) revelation.
 ## Personal Reflections
 
 

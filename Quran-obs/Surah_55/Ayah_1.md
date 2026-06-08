@@ -166,6 +166,17 @@ The second reason could be to indicate that teaching the Qur'an, which has been 
 
 In the entire Surah, Allah's bounties - worldly as well spiritual - are continuously recounted. The greatest of all bounties is the knowledge of the Holy Qur'an, because it is an all-comprehensive Book directing man in temporal and spiritual matters and in matters relating to this world and the next. Those who heeded the Holy Qur'an and fulfilled its right, like the blessed Companions, Allah raised their status in the Hereafter and blessed them with inconceivable bounties and favours. In this world too they are promoted to such high stations as the greatest of kings were not able to attain.
 
+## AI Translation
+
+The Rahman—mercy that encompasses all creation in this life.
+
+## AI Tafsir
+
+**Context:** On the basis of a few narratives Imam Qurtubi concluded that this Surah was revealed in Makkah, and he prefers this view.
+
+**What this ayah teaches:** This narrative indicates that this Surah was revealed in Makkah, because 'the night of the Jinn' refers to the night when the Messenger of Allah ﷺ met the Jinns to convey to them the Message of the Qur'an and impart knowledge to them.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "An-Najm (the star); the one that is in the sky." Al-Hasan and Qatadah said similarly. Ibn Jurayj reported that Ibn 'Abbas said said Al-Akmam, means sheathed fruit stalks.
 ## Personal Reflections
 
 

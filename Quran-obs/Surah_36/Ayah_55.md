@@ -87,6 +87,15 @@ Then, in verse 55, it was said:إِنَّ أَصْحَابَ الْجَنَّة�
 
 And then it is also possible that, at this place, this expression: فِي شُغُلٍ (fi shughul) has been added to remove the thought - when, in Jannah, there will be no religious duty like obligatory or necessary worship, nor the job of earning one's livelihood, would this lack of activity not leave one uptight or bored? - hence, it was said that their enjoyment itself will be their principal activity, and the question of any boredom simply does not arise.
 
+## AI Translation
+
+Indeed, on that Day the residents of Paradise will be busy enjoying themselves.
+
+## AI Tafsir
+
+**What this ayah teaches:** After having mentioned the worries of the people of Jahannam, described here is the state of the people of Paradise on the day of Qiyamah that they will be enjoying themselves.
+
+**Classical tafsir:** Ibn Kathir notes: It signifies happiness of the heart as well as happiness out of one's surroundings.
 ## Personal Reflections
 
 

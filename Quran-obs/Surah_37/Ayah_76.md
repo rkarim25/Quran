@@ -94,6 +94,15 @@ In the previous verses, it was said that Allah had sent messengers to warn the e
 
 In verse 75, it was said: وَلَقَدْ نَادَانَا نُوحٌ (And Nuh did call Us). According to most commentators, it means either the prayer of Sayyidna Nuh (علیہ السلام) mentioned in Surah Nuh: رَّ‌بِّ لَا تَذَرْ‌ عَلَى الْأَرْ‌ضِ مِنَ الْكَافِرِ‌ينَ دَيَّارً‌ا (My Lord, do not leave on earth even a single inhabitant (surviving) from the disbelievers - 71:26), or that which appears in Surah Al-Qamar: أَنِّي مَغْلُوبٌ فَانتَصِرْ‌ (I am overpowered, so defend me - 54:10). Sayyidna Nuh , 41 had made this prayer at a time when his people had crossed all limits in being wicked and unruly to him and had gone as far as conspiring to kill him.
 
+## AI Translation
+
+We delivered him and his family from the great distress,
+
+## AI Tafsir
+
+**What this ayah teaches:** He stayed among them for one thousand years less fifty, and after he stayed among them for so long and their disbelief became too much for him to bear – for every time he called them, they turned away from him even more – he prayed to his Lord saying, "I have been overcome, so help (me)!" So Allah became angry because Nuh was angry with them.
+
+**Classical tafsir:** Ibn Kathir notes: Commentary In the previous verses, it was said that Allah had sent messengers to warn the earlier communities as well, but most of the people did not listen to them, therefore, they met a very sad end.
 ## Personal Reflections
 
 

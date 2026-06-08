@@ -142,6 +142,17 @@ Surah Al-Mumtahinah
 
 Ends here
 
+## AI Translation
+
+O believers: do not ally with a people Allah is displeased with. They have no hope for the Akhirah, just like the those who reject the truth lying in their graves.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, they have despaired of the Hereafter, just as the those who reject the truth have despaired of those (buried) in graves . Secondly, just as the those who reject the truth who are buried in graves have lost hope in receiving any kind of goodness (i.e., after seeing the punishment and knowing that Resurrection is true).
+
+**Classical tafsir:** Ibn Kathir notes: This is because the Muslims in general are made to understand clearly that obedience to any creation in disobedience to Allah is absolutely forbidden, so much so that even obedience to the Holy Prophet ﷺ has been qualified by this condition.
+
+**From the Sunnah:** This verse requires the Holy Prophet k to take a pledge from the Muslim women not only to adhere to Islamic articles of faith, but also to all the Islamic precepts.
 ## Personal Reflections
 
 

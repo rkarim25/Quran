@@ -150,6 +150,19 @@ Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His M
 
 وَمَا تَحْتَ الثَّرَ‌ىٰ (And whatever is beneath the soil - 20:6). (ثرٰی) (soil) means wet earth which comes out after digging upto a certain depth. Human knowledge does not go beyond) and what is beneath it is known only to Allah. Some years back scientists and researchers, using the latest and the most sophisticated instruments, spent considerable time and effort to pierce across the centre of the earth. According to newspaper reports they were able to penetrate upto a depth of six miles only after which they came across a rock casing and all their efforts to bore further down failed. Scientists were able to collect data only upto six miles, while the diameter of the earth covers thousands of miles. One has to admit, therefore, that the knowledge of what is below the soil is a special attribute of Allah.
 
+## AI Translation
+
+To Him belongs whatever is in the heavens and whatever is on the earth and whatever is in between and whatever is underground.
+
+## AI Tafsir
+
+**Context:** Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His Messenger ﷺ, he and his Companions adhered to it.
+
+**What this ayah teaches:** To Him belongs all that is in the heavens and all that is on the earth, and all that is between them, and all that is under the soil.)(7.
+
+**Classical tafsir:** Ibn Kathir notes: To Him belongs the Best Names.) This means, 'He Who revealed this Qur'an to you (O Muhammad), He is Allah, there is no Allah except Him.
+
+**From the Sunnah:** He created the lofty heavens with their high altitudes and subtleties.' It has been reported in a Hadith, which At-Tirmidhi and others graded as authentic, that the density of each sky of the heavens is the distance of five hundred years travel and the distanc… (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

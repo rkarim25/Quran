@@ -185,6 +185,17 @@ It is better not to go for charity and alms from the combined inheritance even b
 
 Let us look at an anecdote ascribed to a pious elder, which will further clarify the issue. This pious elder went to visit a sick Muslim. He had hardly sat with the patient for a little while when the latter died. The sage immediately put out the lamp burning there and gave someone the money to buy oil and re-light the lamp with it. When people around asked him for the reason of his doing so, he said that this lamp was under the ownership of this person until such time that he was alive and it was correct to use that light. Now that the deceased has left this mortal world, his inheritors have the necessary right over everything he owned. So, it is only through the permission of all inheritors that we can use this lamp and since all of them are not present here, this lamp was lighted at a personal cost.
 
+## AI Translation
+
+Indeed, those who unjustly consume orphans’ wealth consume nothing but fire into their bellies. And they will be burned in a blazing Hell!
+
+## AI Tafsir
+
+**What this ayah teaches:** Many commentators have interpreted this metaphorically, that is, eating the property of the orphans unjustly is like stuffing one's stomach with fire - because this is what is going to happen to him ultimately in the Hereafter.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn Jarir recorded that Ibn 'Abbas said that this Ayah still applies and should be implemented.
+
+**From the Sunnah:** this Ayah still applies and should be implemented.
 ## Personal Reflections
 
 

@@ -104,6 +104,15 @@ Then Allah says,
 
 إِنَّهَا تَرْ‌مِي بِشَرَ‌رٍ‌ كَالْقَصْرِ كَأَنَّهُ جِمَالَتٌ صُفْرٌ‌ ‌ (It emits sparks [ as huge ] as castles...77:32) The word gasr means a 'huge, magnificent castle'. The word jimalah is used in the sense of jamal, and means 'camel'. The word sufr is the plural of asfar which means 'yellow'. The verse describes the fire of Hell. It will emit such huge sparks of fire, as if they were huge and magnificent castles. Then they will break up into little splinters, as if they were yellowish camels. Some scholars have translated the word 'sufr' as 'black' because yellowish colour of camels tends to blackness. [ Ruh ].
 
+## AI Translation
+
+and as dark as blackened camels.'
+
+## AI Tafsir
+
+**What this ayah teaches:** Some scholars have translated the word 'sufr' as 'black' because yellowish colour of camels tends to blackness.
+
+**Classical tafsir:** Ibn Kathir notes: Some scholars have translated the word 'sufr' as 'black' because yellowish colour of camels tends to blackness.
 ## Personal Reflections
 
 

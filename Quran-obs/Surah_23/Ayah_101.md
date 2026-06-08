@@ -128,6 +128,17 @@ There is also a hadith which Ibn ` Asakir has related on the authority of Sayyid
 
 وَلَا يَتَسَاءَلُونَ (nor will they question one another - 23:101). However their is another verse وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَاءَلُونَ (And advance one upon another, asking each other question - 37:27). Discussing this latter verse Sayyidna Ibn ` Abbas ؓ says that in mahshar there will be different stations, and the conditions in each station will be different. There will be a time when nobody will speak to anybody, but in another station when the terror which earlier overwhelmed the gathering abates, people will converse with one another. (Mazhari)
 
+## AI Translation
+
+Then, when the Trumpet will be blown, there will be no kinship between them on that Day, nor will they even care to ask about one another.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then, when the Trumpet is blown, there will be no kinship among them that Day, nor will they ask of one another (101)Then, those whose Scales (of good deeds) are heavy, these!
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Paradise, and when people will ask them for it, they will reply that water is for their parents only whom they are searching". (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -122,6 +122,15 @@ And some of them will also say that they were free of whatever the angels had wr
 
 As for the question how these parts of the body would acquire power of speech, the Qur'an has already answered that by saying: أَنطَقَنَا اللَّـهُ الَّذِي أَنطَقَ كُلَّ شَيْءٍ (Why did you testify against us? - 41:21) that is, these parts of the body will say that Allah, who has given power of speech to all things endowed with the ability to speak, has also enabled us to speak.
 
+## AI Translation
+
+Had We willed, We could have easily blinded their eyes, so they would struggle to find their way. How then could they see?
+
+## AI Tafsir
+
+**What this ayah teaches:** This is Hell which you were promised (63)Burn (enter) therein this Day, for that you used to disbelieve (64)This Day, We shall seal up their mouths, and their hands will speak to Us, and their legs will bear witness to what they used to earn (65)And if it had been Our will, We would surely have wiped out their eyes, so that they would struggle for the path, how then would they see (66)And if it ha…
+
+**Classical tafsir:** Ibn Kathir notes: At that time, Allah Ta’ ala will put a seal on their mouths, so that they would not speak.
 ## Personal Reflections
 
 

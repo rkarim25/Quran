@@ -106,6 +106,17 @@ Allah the Exalted said,
 
 هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ (Is there any reward for goodness other than goodness?...55:60). Having described the two Gardens for the intimate believers, it is declared as a principle that a good deed attracts a good reward. The righteous believers will be blessed, therefore, with good rewards.
 
+## AI Translation
+
+So which of your Rabb's favours will you both—humans and jinn—deny?
+
+## AI Tafsir
+
+**What this ayah teaches:** Reclining upon the couches lined with Istabraq, and the fruits of the two Gardens will be near at hand (54)Then which of the blessings of your Lord will you both deny (55)Wherein both will be Qaşirāt Aṭ-Ṭarf, whom never deflowered a human before nor Jinn (56)Then which of the blessings of your Lord will you both deny (57)They are like Yaqut and Marjan (58)Then which of the bles…
+
+**Classical tafsir:** Ibn Kathir notes: The righteous believers will be blessed, therefore, with good rewards.
+
+**From the Sunnah:** Paradise, men or women. (Sahih Muslim) Paradise as small as that occupied by the whip of one of you, is better than the world and whatever is on its surface. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

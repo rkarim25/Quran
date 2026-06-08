@@ -134,6 +134,15 @@ The Horrors of the Day of Resurrection
 
 Qatadah (رح) says that the verse refers to a stage after they will have been questioned about their sins, but they will have refused under oath. Then their mouths and tongues will be sealed, and their hands and feet will be asked to bear witness. At that stage no more questions will be asked from them. Ibn Kathir notes all three explanations. They are close to each other, and thus there is no conflict.
 
+## AI Translation
+
+So which of your Rabb's favours will you both—humans and jinn—deny?
+
+## AI Tafsir
+
+**What this ayah teaches:** Then when the heaven is rent asunder, and it becomes Wardah like Dihan (37)Then which of the blessings of your Lord will you both deny (38)So, on that Day he will not be questioned about his sin, (neither) human nor Jinn (39)Then which of the blessings of your Lord will you both deny (40)The criminals will be known by their marks, and they will be seized by their foreheads and…
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan and Qatadah said, "They will be known by their dark faces and their blue eyes." I say that this contrasts to the marks that will distinguish the believers, such as the light that will appear on the parts of the body that they used to wash while performing ablution.
 ## Personal Reflections
 
 

@@ -357,6 +357,17 @@ According to yet another story from the Sahih al-Bukhari, the Holy Prophet ﷺ h
 
 1. Bayan al-Qura'n.
 
+## AI Translation
+
+Allah ordained this only as good news for you and reassurance for your hearts. And victory comes only from Allah—the Almighty, All-Wise— to destroy a group of those who reject the truth and humble the rest, causing them to withdraw in disappointment.
+
+## AI Tafsir
+
+**Context:** From the verse لَيْسَ لَكَ مِنَ الْأَمْرِ‌ شَيْءٌ (You have no authority in the matter) (128), the text returns to the main event of Uhud after a brief mention of the event of Badr in between.
+
+**What this ayah teaches:** Instead, the purpose was to give the believers the good news of victory to comfort them and to strengthen their hearts. The word "in succession" means they follow each other and thus indicates that thousands more will follow them.
+
+**Classical tafsir:** Ibn Kathir notes: Al-'Awfi said that Ibn 'Abbas said that the Ayah means, "All at once".
 ## Personal Reflections
 
 

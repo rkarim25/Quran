@@ -181,6 +181,17 @@ In the prepositional phrase بِالْحَقِّ "with truth", through the prepo
 
 ذَٰلِكَ مَا كُنتَ مِنْهُ تَحِيدُ (That is what you tried to escape...50:19) tahidu is derived from haid which denotes to incline; to turn aside or escape from a place; to avoid or shun it; and to acknowledge. Apparently, this verse addresses the entire mankind. Every man is naturally afraid or scared of, or alarmed and terrified by, the thought of death. Life is dear to him and death is a calamity for him. As a result, he makes plans to run away from death. This is from Shari point of view not wrong or a sin. Death, however, is inevitable. The purport of the verse is to show that 'this is the end you were trying to escape or avert or flee from; it has come to you. Therefore, your desire will not be completely fulfilled; you will have neither a shelter nor a refuge nor a sanctuary nor an asylum from it.'
 
+## AI Translation
+
+The Trumpet will be blown. That is the Day you were warned about.
+
+## AI Tafsir
+
+**What this ayah teaches:** That is what you tried to escape...50:19) The phrase sakrat-ul-maut denotes the agony and the stupor or daze of death that a dying person experiences.
+
+**Classical tafsir:** Ibn Kathir notes: Pay my debt!' The fox went out howling and continued until his neck was cutoff, (i.e.,) he died.) This parable indicates that just as the fox had no way of escaping or avoiding the earth, likewise, man has no way of avoiding death.
+
+**From the Sunnah:** Those who explained 'We' in the Ayah to mean 'Our knowledge,' have done so to avoid falling into the idea of incarnation or indwelling; but these two creeds are false according to the consensus of Muslims. Alqamah used to say, "How many words did I not utter because of the Hadith that Bilal bin Al-Harith narrated." At-Tirmidhi, An-Nasa'i and Ibn Majah collected this Hadith. (Jami' at-Tirmidhi, Sunan Ibn Majah)
 ## Personal Reflections
 
 

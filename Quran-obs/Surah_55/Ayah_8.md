@@ -152,6 +152,17 @@ So we say, just as the believers among the Jinns said, "O Allah! None of Your fa
 
 أَلَّا تَطْغَوْا فِي الْمِيزَانِ (so that you should not be wrongful in weighing....55:8). The earlier verse stated the creation of the scale, and this verse states the reason for its creation. The imperfect verb تَطْغَوْا tatghaw is derived from طُغیَان tughyan which stands for 'injustice'. Thus verses [ 7] and [ 8] put together mean: '[ The 'mizan or scale' has been created so that you may not transgress the balance and thus practice injustice'.
 
+## AI Translation
+
+so that you do not tip the scales.
+
+## AI Tafsir
+
+**What this ayah teaches:** And the heaven He has raised high, and He has set up the balance.)(8. The earlier verse stated the creation of the scale, and this verse states the reason for its creation.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "An-Najm (the star); the one that is in the sky." Al-Hasan and Qatadah said similarly. Ibn Jurayj reported that Ibn 'Abbas said said Al-Akmam, means sheathed fruit stalks.
+
+**From the Sunnah:** a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! (Musnad Ahmad) it and he said, "This Hadith is Gharib." Al-Hafiz Abu Bakr Al-Bazzar also collected this Hadith. (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

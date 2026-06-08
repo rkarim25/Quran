@@ -162,6 +162,19 @@ Before these verses where questions asked and their answers given by Sayyidna ` 
 
 As for the first spectacle, it is obvious that it is a miracle and certainly a special blessing of Allah. In the early post-birth stage, children cannot talk (meaningfully). If a child were to start talking in the cradle or on the laps of the mother, that would be a particular distinction of the child. As for talking ` while middle-aged,' it does not seem to be worth mentioning, for everyone talks at this age. But, for a moment, think of the conditions surrounding Sayyidna ` Isa and you will realize that this too was a miracle - because Sayyidna ` Isa (علیہ السلام) was raised from the earth before reaching middle-age. Now that he would talk to people on the earth after reaching his middle-age can become possible only when he returns to this world - as is the collective belief of Muslims which stands proved on the basis of clear statements of the Qur'an and Sunnah. It is from here that we find out that in the manner it was a miracle of Sayyidna ` Isa (علیہ السلام) that he talked when a child, so in the same manner, talking while middle-aged because of his return to this world is nothing but a miracle.
 
+## AI Translation
+
+And how I inspired the disciples, “Believe in Me and My messenger!” They declared, “We believe and bear witness that we fully submit.”
+
+## AI Tafsir
+
+**Context:** (and the Tawrah,) which was revealed to Musa, son of 'Imran, who spoke to Allah directly. Allah's statement, The wording of this Ayah indicates that 'Isa will be reminded of these favors on the Day of Resurrection.
+
+**What this ayah teaches:** And the word Tukallim means invited, because his speaking to people while a child is nothing strange by itself.
+
+**Classical tafsir:** Ibn Kathir notes: And the word Tukallim means invited, because his speaking to people while a child is nothing strange by itself.
+
+**From the Sunnah:** Now that he would talk to people on the earth after reaching his middle-age can become possible only when he returns to this world - as is the collective belief of Muslims which stands proved on the basis of clear statements of the Qur'an and Sunnah.
 ## Personal Reflections
 
 

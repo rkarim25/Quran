@@ -118,6 +118,15 @@ In these three verses, instruction has been given to forgo and forgive people wh
 
 There is a treatment for it. When a person sees his anger getting out of control, he should know that Shaitan is winning against his better self. He should then turn to Allah Ta` ala and seek refuge with Him. This makes noble traits of character flourish at their best. Therefore, additional stress has been laid on the need to seek the protection of Allah against the Shaitan in the third (201) and fourth (202) verses as well.
 
+## AI Translation
+
+But the devils persistently plunge their associates deeper into wickedness, sparing no effort.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, those who have Taqwa, when an evil thought comes to them from Shaytan, they remember (Allah), and (indeed) they then see (aright)(201)But (as for) their brothers (the devils' brothers) they (the devils) plunge them deeper into error, and they never stop short .
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, in the second verse, it has been suggested that in case emotions of anger seem to be flaring up on such an occasion where your patience is under test, one should promptly figure out that this instigation is coming from the Shaitan.
 ## Personal Reflections
 
 

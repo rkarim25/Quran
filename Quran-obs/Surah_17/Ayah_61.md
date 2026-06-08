@@ -89,6 +89,17 @@ The word fitnah' (فِتنَہ) appearing in verse 60: وَمَا جَعَلْن
 
 It also stands proved from this event that the word رُّ‌ؤْيَا (ru'ya) is though also used in the Arabic language in the sense of dream but, at this place, what is being recounted is no matter of some dream. Had that been the case, there was no reason why people would become apostates. Dreams are dreams. Everyone can see such dreams. In fact, the purpose of employing the word: رُّ‌ؤْيَا (ru'ya) at this place is to show that the marvel was witnessed while awake. While commenting on this verse, some commentators have interpreted it to be referring to other events too besides the event of Mi` raj. But, they do not apply here as a whole. Therefore, the majority of commentators have declared the event of Mi` raj alone as the relevant subject of this verse. (As described in detail by al-Qurtubi)
 
+## AI Translation
+
+And remember when We said to the angels, “Prostrate before Adam,” so they all did—but not Iblîs, who protested, “Should I prostrate to the one You have created from mud?”
+
+## AI Tafsir
+
+**What this ayah teaches:** And (remember) when We said to the angels: "Prostrate yourselves unto Adam." They prostrated themselves except Iblis. This is an ancient hatred, dating from the time that Allah created Adam, when He commanded the angels to prostrate to Adam, and all of them prostrated except Iblis, who was too arrogant and he haughtily refused to prostrate to him.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the majority of commentators have declared the event of Mi` raj alone as the relevant subject of this verse.
+
+**From the Sunnah:** There were many neo-Muslims who had yet to become staunch in their faith fell into the error of belying his statement and turned apostates.
 ## Personal Reflections
 
 

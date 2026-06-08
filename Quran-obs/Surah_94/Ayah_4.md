@@ -136,6 +136,17 @@ for your benefit? [ 1] '
 
 This indicates the essential characteristic and special greatness of the Holy Prophet ﷺ ، in that all this is done for the sake of him.
 
+## AI Translation
+
+And raised high your mention—so your name is honoured across centuries?
+
+## AI Tafsir
+
+**What this ayah teaches:** Note Carefully Here three verses mention three favours that are bestowed on the Holy Prophet t: [ 1] opening of the bosom widely; [ 2] removal of the burden; and [ 3] raising of the name high.
+
+**Classical tafsir:** Ibn Kathir notes: And to your Lord turn intentions and hopes.) meaning, 'when you have completed your worldy affairs and its tasks, and you have broken away from its routine, then get up to perform the worship, and stand for it with zeal, complete devotion and purify your intention and desire for your Lord.' Similar…
+
+**From the Sunnah:** No sensible person utters the Holy Prophet's ﷺ name without respect and honour even though he may not be a Muslim. (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -174,6 +174,17 @@ Commentary
 
 يَا أَيُّهَا الَّذِينَ آمَنُوا ارْ‌كَعُوا وَاسْجُدُوا وَاعْبُدُوا رَ‌بَّكُمْ (0 those who believe, bow down in Ruku' and bow down in Sajdah and worship your Lord - 22:77) Verse 18 of this Surah is a verse of sajdah by consensus of the jurists, which means that whoever recites verse 18 or listens to someone reciting it must offer a sajdah. However, there is a difference of opinion about the present verse. Imam Abu Hanifah, Imam Malik and Sufyan Thauri رحمۃ اللہ علیہم are among those who think that the present verse is not a verse of sajdah in the sense that reciting this verse or listening to it does not entail the obligation to offer a sajdah, because the command to 'bow down' in sajdah in the present verse is combined with bowing down in ruku' and this circumstance is a clear indication that in the present context sajdah means the normal sajdah which is performed during the course of prayers. For example all the scholars are unanimously of the opinion that in the verse (And prostrate and bow down (in Ruku' ) with those who bow - 3:43) the sajdah is وَاسْجُدِي وَارْ‌كَعِي مَعَ الرَّ‌اكِعِينَ the normal sajdah of the prayers. However, in the context of the present verse Imam Shafi` i and Imam Ahmad) رحمۃ اللہ علیہم hold contrary views and quote a hadith according to which Surah Hajj enjoys a position of greater merit as compared to other Surahs because of two verses of sajdah occurring in it. Imam Abu Hanifah (رح) questions the authenticity of this lhadith.
 
+## AI Translation
+
+O mu'mins! Bow down, prostrate yourselves, worship your Rabb, and do what is good so that you may be successful.
+
+## AI Tafsir
+
+**What this ayah teaches:** A person is not obliged to stand during the prayer if he is sick; the sick person may pray sitting down, and if he is not able to do that then he may pray lying on his side.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, on the Day of Resurrection the testimony of the members of this community will be accepted as proof that the Messengers conveyed the Message of their Lord to them, and the Messenger will testify that he conveyed the Message to them.
+
+**From the Sunnah:** He has named you Muslims both before and in this (Qur'an), that the Messenger may be a witness over you and you be witnesses over mankind! It was reported from 'Uqbah bin 'Amir that the Prophet ﷺ said:
 ## Personal Reflections
 
 

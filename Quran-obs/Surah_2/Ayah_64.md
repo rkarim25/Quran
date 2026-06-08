@@ -108,6 +108,15 @@ Since a number of authentic ahadith declare that it is the barakah of the Holy P
 
 In order to emphasize what the present verse has said, the next verse tells the story of another group of earlier transgressors and of the dreadful punishment which overtook them all of a sudden.
 
+## AI Translation
+
+Yet you turned away afterward. Had it not been for Allah's grace and mercy, you would have been among the losers.
+
+## AI Tafsir
+
+**What this ayah teaches:** Had it not been for the grace and mercy of Allah upon you, indeed you would have been among the losers . Since a number of authentic ahadith declare that it is the barakah of the Holy Prophet ﷺ that catastrophic punishments no longer descend on any people, some commentators have identified this particular mercy and grace of Allah with the sending down of Muhammad ﷺ as a Prophet and Messenger of Al…
+
+**Classical tafsir:** Ibn Kathir notes: Allah stated that when He took their pledge from them, He raised the mountain above their heads, so that they affirm the pledge that they gave Allah and abide by it with sincerity and seriousness.
 ## Personal Reflections
 
 

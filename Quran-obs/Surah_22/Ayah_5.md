@@ -447,6 +447,17 @@ He then adds:
 
 (And in spite of all this Imam Ahmad Ibn Hanbal (رح) has related it in his Musnad both as a saying of the Holy Prophet ﷺ and as a saying of a Sahabi, that is traced.
 
+## AI Translation
+
+O humanity! If you are in doubt about the Resurrection, then know that We did create you from dust, then from a sperm-drop, then developed you into a clinging clot of blood, then a lump of flesh—fully formed or unformed—in order to demonstrate Our power to you. Then We settle whatever embryo We will in the womb for an appointed term, then bring you forth as infants, so that you may reach your prime. Some of you may die young, while others are left to reach the most feeble stage of life so that they may know nothing after having known much. And you see the earth lifeless, but as soon as We send down rain upon it, it begins to stir to life and swell, producing every type of pleasant plant.
+
+## AI Tafsir
+
+**What this ayah teaches:** If you are in doubt about the Resurrection, then verily, We have created you from dust, then from a Nutfah, then from a clot then from a little lump of flesh – some formed and some unformed – that We may make (it) clear to you. And among you there is he who dies (young), and among you there is he who is brought back to the miserable old age, so that he knows nothing after having known.
+
+**Classical tafsir:** Ibn Kathir notes: And among you there is he who dies (young), and among you there is he who is brought back to the miserable old age, so that he knows nothing after having known.
+
+**From the Sunnah:** protection and provide him strength. (Sahih Muslim)
 ## Personal Reflections
 
 

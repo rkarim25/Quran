@@ -94,6 +94,15 @@ After having reported all Hadith narrations cited above, it has been said in Taf
 
 In verse 32, it was said: كَذَّبَ بِالصِّدْقِ (rejects the truth) while in verse 33, it was said: الَّذِي جَاءَ بِالصِّدْقِ (As for the one who has come with the truth): At both these places, the word الصِّدْقِ : (as-sidq: the truth) means teachings brought by the Holy Prophet ﷺ ، whether it be the Qur'an, or be other teachings of ahadith in addition to the Qur'an. And the expression: صَدَّقَ بِهِ (saddaga bihi: and believed it to be true - 39:33) includes all believers who have testified to it.
 
+## AI Translation
+
+They will have whatever they desire with their Lord. That is the reward of the good-doers.
+
+## AI Tafsir
+
+**What this ayah teaches:** Its reward too is limitless, that is, living in Jannah forever - even though, it may happen after having gone through the punishment of sins and staying in Jahannam for a certain period of time.
+
+**Classical tafsir:** Ibn Kathir notes: The Punishment of the those who reject the truth and Liars, and the Reward of the Sincere Believers The idolators uttered lies against Allah and said that there were other gods besides Him and claimed that the angels were the daughters of Allah and that Allah had a son – glorified be He far ab…
 ## Personal Reflections
 
 

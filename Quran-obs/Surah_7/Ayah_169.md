@@ -306,6 +306,15 @@ The second word used here is خَلْفُ with the merged sound of the second le
 
 The verse implies that there were two groups of people among the early Jews, the righteous and the wrong-doers. The people coming in later generations who inherited the Torah, however, acted opposite to their elders and made the Book an object of trading or a means of their earning. They used to manipulate and distort the text of the Torah for some money offered to them for this purpose. Moreover, "they said: وَيَقُولُونَ سَيُغْفَرُ‌ لَنَا "We shall be forgiven". In spite of committing as great a sin as distorting the text of the Book of Allah, they claimed their forgiveness by Allah. They are warned of this error in the very next sentence. saying: وَإِن يَأْتِهِمْ عَرَ‌ضٌ مِّثْلُهُ يَأْخُذُوهُ 'If there comes to them similar stuff they would take to it (again)." That is to say, they are in such a state of perversion that in case they are offered money for changing another text, they shall readily accept it. The verse has implied that forgiveness of Allah is always there to those who are mindful of their error and turn to their Lord in repentance showing their remorse over what they have done, and making firm promise of not repeating the same mistake again. Being persistent in their sinful acts and claiming their forgiveness is sheer self deception. The next part of the verse puts a question to them, whether they were not made to enter a covenant with Allah that they shall never say anything but truth about Allah. Yes, they read this pledge in their Book. This is nothing but their impudence and obstinacy that stops them from realizing the truth of the Hereafter which is exclusively the fate of those who fear Allah.
 
+## AI Translation
+
+Then they were succeeded by other generations who inherited the Scripture. They indulged in unlawful gains, claiming, “We will be forgiven.” And if similar gain came their way, they would seize it. Was a covenant not taken from them in the Scripture that they would not say anything about Allah except the truth? And they were already well-versed in its teachings. But the Home of the Akhirah is far better for those who live with taqwa. Will you not then understand?
+
+## AI Tafsir
+
+**What this ayah teaches:** Being persistent in their sinful acts and claiming their forgiveness is sheer self deception.
+
+**Classical tafsir:** Ibn Kathir notes: The use of this word for money indicates that anything owned in this world is temporary, because this word, as an antonym of 'Jauhar' (substance), is used for an object which requires something else to show its existence like colour which requires another thing to show itself.
 ## Personal Reflections
 
 

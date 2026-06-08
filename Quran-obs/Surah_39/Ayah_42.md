@@ -194,6 +194,17 @@ According to Tafsir Mazhari, the sense of 'taking the ruh away' is to sever its 
 
 In the verse cited above, the word: يَتَوَفَّى (yatawaffa) in the sense of 'takes in full' (qabd) is used by way of ` umum-ul- majaz which covers both meanings. This difference of ruh (spirit, soul) being taken away both in death and sleep delineated earlier also finds support in a saying of Sayyidna ` Ali ؓ . He said that, at the time of sleep, the ruh of a person goes away from his body, but a beam or ray of ruh stays behind in the body due to which one remains alive - and it is through this 'beamed' connection that one sees a dream. Then this dream, in the event that it has been seen in the state the attention of the ruh was raptly turned towards the universe of images, is a true dream. But, if it was seen in a state when the ruh was returning back to the body, then, it becomes polluted with Shaitanic inputs, and that dream no more remains a true dream. And he also said that the ruh that comes out of the body of a person during the state of sleep returns to the body when one wakes up within a time that is much less than an eye would take to wink.
 
+## AI Translation
+
+Allah calls back the souls upon their death as well as the souls of the living during their sleep. Then He keeps those for whom He has ordained death, and releases the others until their appointed time. Surely in this are signs for people who reflect.
+
+## AI Tafsir
+
+**What this ayah teaches:** And you are not a trustee over them (41)It is Allah Who takes away the souls at the time of their death, and those that die not during their sleep. He keeps those (souls) for which He has ordained death and sends the rest for a term appointed.
+
+**Classical tafsir:** Ibn Kathir notes: And then, at times, even this inward connection is severed because of which the life of the body goes extinct, totally.
+
+**From the Sunnah:** This indicates that they [the souls] meet in the higher realm, as was stated in the Hadith attributed to the Prophet ﷺ which was narrated by Ibn Mandah and others. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

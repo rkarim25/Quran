@@ -239,6 +239,19 @@ In contrast to what has been stated above, there are narrations that seem to hin
 
 As for the reports attributed to some revered Sufis, that they listened to 'ghina" (sama' ), it is based on this kind of permissible 'ghina"- because, it is certain that they followed the Shari` ah and Sunnah faithfully. That they would ever commit some such sin, simply cannot be imagined. Those learned among the Sufis have themselves explained it explicitly. The treatise mentioned earlier carries the sayings of the jurists of the four schools of jurisprudence as well as those of the Sufi authorities. At this place, the summary as given has been considered sufficient in the present context.( The original work in Arabic and its Urdu translation with exhaustive notes under the title, "Islam our Mausiqi" (Islam and Music) has been published by Maktaba-e-Darul-Uloom, Jamia Darul-Uloom, Korangi, Karachi-75180, Pakistan. Those interested in a detailed discussion of the subject would find both versions useful.)
 
+## AI Translation
+
+When Our ayahs are recited to them, they turn away in arrogance as though they did not hear, as though deafness sits in their ears. Give them news, O Prophet, of a painful punishment.
+
+## AI Tafsir
+
+**Context:** This verse was revealed because of a particular event relating to Nadr Ibn Harith. He was one of the top businessmen from among the Mushriks of Makkah who used to travel to different countries in connection with his busi…
+
+**What this ayah teaches:** However, if some poetic compositions are recited in a pleasing voice, and the reciting person is not a woman or a beardless young man, and the subject of the poetry recited is also not vulgar or indecent and is not inclusive of any other sin, then, it is permissible.
+
+**Classical tafsir:** Ibn Kathir notes: He turns a deaf ear to them as if he can hear nothing, because it annoys him to hear them since he gains no benefit from them and has no interest in them.
+
+**From the Sunnah:** Imam al-Bukhari in his book, al-'Adab al-Mufrad, and al-Baihaqi in his Sunan have both elected to go by this Tafsfr.
 ## Personal Reflections
 
 

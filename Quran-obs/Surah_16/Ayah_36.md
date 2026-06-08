@@ -225,6 +225,17 @@ Has a Rasul of Allah appeared in India and Pakistan too?
 
 From verse 36 in the present Surah: وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّ‌سُولًا (And We did raise a messenger among every people), as well as from verse 24 of Surah Fatir: وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ‌ (And there is no group of people among whom there has not been a warner - 35:24), it outwardly appears that messen-gers may have also been sent to areas now known as India and Pakistan - whether residents of the area, or located in another country whose deputies or emissaries had reached there. Then, there is the verse of Surah Al-Qasas: لِتُنذِرَ‌ قَوْمًا مَّا أَتَاهُم مِّن نَّذِيرٍ‌ (so that you may warn a people unto whom came no warner - 28:46). The sense released by the verse is that no warner had come before him to the people unto whom the Holy Prophet ﷺ was sent. This can be answered by saying that this obviously refers to the people of Arabia who became the first addressees of the prophetic mission of Sayyidna Muhammad al-Mustafa ﷺ - the fact being that no prophet since Sayyidna Ismail (علیہ السلام) had appeared among them. Therefore, the title given to these people in the Holy Qur'an was "Ummiyyin" (the unlettered ones). This does not necessarily imply that no prophet came before him in the rest of the world as well. Allah knows best.
 
+## AI Translation
+
+We surely sent a messenger to every community, saying, “Worship Allah and shun false gods.” But some of them were guided by Allah, while others were destined to stray. So travel throughout the land and see the fate of the deniers!
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you (O Muhammad) but We revealed to him (saying): None has the right to be worshipped but I (Allah), so worship Me (alone and none else).")(21:25)
+
+**What this ayah teaches:** And those who worshipped others with Allah said: "If Allah had so willed, neither we nor our fathers would have worshipped any but Him nor would we have forbidden anything without (a command from) Him." Those before them did the same. To every nation - that is, to every generation, to every community of people - He sent a Messenger.
+
+**Classical tafsir:** Ibn Kathir notes: Those deserving the Word (wrath) of your Lord will not believe, even if every sign should come to them - until they see the painful torment)(10:96-97).
 ## Personal Reflections
 
 

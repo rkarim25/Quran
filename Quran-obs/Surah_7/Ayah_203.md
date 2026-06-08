@@ -171,6 +171,19 @@ Then, out of the miracles shown, the Qur'an by itself is a great miracle. It has
 
 For this reason, it was said: هَـٰذَا بَصَائِرُ‌ مِن رَّ‌بِّكُمْ (This is (a Book of) insights from your Lord). It means that this Qur'an has come from your Lord as a compendium of many proofs and miracles. Whoever deliberates into it, even summarily, could not part with it without believing that it was nothing but the Word of Allah, the most exalted, and that nothing created has anything to do with it. After that, it was said: وَهُدًى وَرَ‌حْمَةٌ لِّقَوْمٍ يُؤْمِنُونَ (and a guidance and mercy for a people who believe). It means that, no doubt, this Qur'an is a proof of what is true for the whole world, but it is an escort to the purpose of life and a medium of deserving the mercy of Allah Ta` ala only for those who believe in it.
 
+## AI Translation
+
+If you do not bring them a sign, they ask, “Why do you not make it yourself?” Say, “I only follow what is revealed to me from my Rabb. This is an insight from your Rabb—a guide and a mercy for those who believe.”
+
+## AI Tafsir
+
+**Context:** And if you do not bring them a miracle, they say: "Why have you not brought it" Say: "I but follow what is revealed to me from my Lord.
+
+**What this ayah teaches:** This, then, is an open sign that the Qur'an is no human word, instead, is the inimitable Word of Allah, the most exalted.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, after having seen so many manifest miracles, the antagonists had no right to say that they would take him to be a Messenger of Allah only if he were to show their custom-ordered miracles.
+
+**From the Sunnah:** The miracles of the Holy Prophet ﷺ as proved from the Qur'an, and authentic Hadith reports, are fairly numerous. (Sahih Muslim, authentic hadith)
 ## Personal Reflections
 
 

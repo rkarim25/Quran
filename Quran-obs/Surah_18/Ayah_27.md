@@ -140,6 +140,19 @@ Yet another question arises here about the People of Kahf. During their time and
 
 People who deny the extraordinary miracles, or people who are in the habit of explaining them away overawed by the objections of modern day Jewish and Christian orientalists, have not spared even the Qur'an. For example, in the case of this verse (25), they have tried to use the explanation of Qatadah as a prop to reject the duration of three hundred nine years as the saying of those very people who were differing among them-selves. But, they have erred. The statement: (for a number of years - 11) which appears in an earlier sentence of the Qur'an cannot be called the saying of anyone other than Allah Ta’ ala! To prove the miraculous nature of the event even this much is sufficient that someone remains asleep for years and years and then rises and sits up all intact, fit and alive. Allah knows best.
 
+## AI Translation
+
+Recite what has been revealed to you from the Book of your Rabb. None can change His Words, nor can you find any refuge besides Him.
+
+## AI Tafsir
+
+**Context:** And recite what has been revealed to you (O Muhammad) of your Lord's Book. None can change His Words, and none will you find as refuge other than Him (27)And keep yourself (O Muhammad) patiently with those who call on th…
+
+**What this ayah teaches:** But the provision of your Lord is better and more lasting.)[20:131] Yet another question arises here about the People of Kahf.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the period of sleep was stated very clearly.
+
+**From the Sunnah:** this was revealed about the nobles of Quraysh when they asked the Prophet ﷺ to sit with them on his own, and not to bring his weak Companions with him, such as Bilal, 'Ammar, Suhayb, Khabbab and Ibn Mas'ud. Allah's Messenger ﷺ thought to himself about whatever Allah willed he should think about, then Allah revealed: (Sahih Muslim)
 ## Personal Reflections
 
 

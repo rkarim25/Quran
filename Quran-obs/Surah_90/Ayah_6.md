@@ -304,6 +304,17 @@ The oath and its subject makes plain to man that his desire to live peacefully a
 
 Then, after describing a few of the ignorant disbeliever's qualities, the following verse says about an unbeliever: أَيَحْسَبُ أَن لَّمْ يَرَ‌هُ أَحَدٌ (Does he think that no one has seen him?...90:7) that is, his evil deeds. He should realise that his Creator watches every action of his.
 
+## AI Translation
+
+Boasting, "I have squandered enormous wealth!"—as if reckless spending were proof of freedom.
+
+## AI Tafsir
+
+**What this ayah teaches:** Does he think that none can overcome him?)(6.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
+
+**From the Sunnah:** Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic. Ali bin Al-Husayn then said (to Sa'id), "Did you hear this from Abu Hurayrah?" Sa'id replied, "Yes." Then 'Ali bin Al-Husayn said to a slave boy that he owned who was the swiftest of his servants, "Call Mutarrif!" So when the slave was brought before him he sa… (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

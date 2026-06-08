@@ -268,6 +268,17 @@ Another point of guidance here tells us that forgiveness of sins depends on two 
 
 May Allah Almighty bestow upon us the good fortune to become possessed with these supreme morals identified by the Holy Qur'an. Aamin.
 
+## AI Translation
+
+Their reward is forgiveness from their Rabb and Gardens under which rivers flow, staying there forever. How excellent is the reward for those who work !
+
+## AI Tafsir
+
+**What this ayah teaches:** How excellent is this reward for the doers (of good).
+
+**Classical tafsir:** Ibn Kathir notes: Allah also commands His servants to have Taqwa of Him so that they may achieve success in this life and the Hereafter.
+
+**From the Sunnah:** a man came to the Messenger of Allah ﷺ and asked him, about Allah's statement, This Hadith was recorded by Imam Ahmad, its chain of narration is good, it does not contain any disparraged narrators, and the meaning is good. (Musnad Ahmad)
 ## Personal Reflections
 
 

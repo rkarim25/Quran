@@ -119,6 +119,15 @@ The word: اسباغ (isbagh) in the next sentence of verse 20: وَأَسْبَ
 
 The manifestations of Allah's knowledge, power and blessings are endless. These cannot by encompassed by anyone through speech, nor can any pen write them comprehensively.
 
+## AI Translation
+
+Whoever rejects the truth — do not let their rejection grieve you, O Prophet. To Us is their return, and We will inform them of what they did. Allah knows best what hearts conceal.
+
+## AI Tafsir
+
+**What this ayah teaches:** And whoever disbelieves, let not his disbelief grieve you.) means, 'do not grieve over them, O Muhammad, because they disbelieve in Allah and in the Message you have brought, for their return will be to Allah and He will tell them what they used to do,' i.e., He will punish them for it. And to Allah return all matters for decision (22)And whoever disbelieves, let not his disbelief grieve you.
+
+**Classical tafsir:** Ibn Kathir notes: And whoever disbelieves, let not his disbelief grieve you.) means, 'do not grieve over them, O Muhammad, because they disbelieve in Allah and in the Message you have brought, for their return will be to Allah and He will tell them what they used to do,' i.e., He will punish them…
 ## Personal Reflections
 
 

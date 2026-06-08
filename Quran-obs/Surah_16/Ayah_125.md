@@ -410,6 +410,19 @@ At this point ends our submission relating to Da'wah and its principles and etiq
 
 After that, we can move on to explain the last part of verse 125: إِنَّ رَ‌بَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ ۖ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ (Surely, your Lord knows best the one who strays from His way, and He knows best the ones who are on the right path). This statement has been made to comfort those who carry the Call of their Faith because one is naturally shocked when the addressee does not accept the truth presented despite that all rules of Da'wah have been observed. And there are occasions when this could produce another effect. When one sees no benefit coming out of Da'wah, he can become disappointed, even leave the work itself. Therefore, in this sentence, it was said:' Your duty is only to invite people to the Truth in accordance with its correct principles. Beyond that, its acceptance or rejection is something you have nothing to do with, nor is that one of your responsibilities. That falls in the domain of Allah alone. He knows who will remain astray and who will stand guided. You should not worry about it. Go on doing your duty. Do not lose hope. Do not despair.' This tells us that this sentence too is really a complement of the etiquette of Da'wah.
 
+## AI Translation
+
+Call to the way of your Rabb with wisdom and fair preaching, and argue in the best manner. Your Rabb knows best who strays from His path and who is guided.
+
+## AI Tafsir
+
+**Context:** Allah commands His Messenger Muhammad ﷺ to invite the people to Allah with Hikmah (wisdom). Ibn Jarir said: "That is what was revealed to him from the Book and the Sunnah."
+
+**What this ayah teaches:** Inviting with wisdom is for people of knowledge and understanding.
+
+**Classical tafsir:** Ibn Kathir notes: Da'wah: Principles and Etiquette To sum up, three things have been mentioned in verse 125 as necessary for Da'wah: 1.
+
+**From the Sunnah:** And there are other verses of the Qur’ an which bear witness to the fact that this approach of showing good manners in debate (al-ilhsan fi al-mujadalah) is not restricted to Muslims alone. The rightly-guided ` Ulama' of the Muslim community carry out this mission in their capacity of being their deputies. (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -190,6 +190,15 @@ Here are some injunctions relating to the apostates:
 
 4. In short, the fate of an apostate is worse than that of an original disbeliever. This is why Jizyah جزیہ can be accepted from an original disbeliever while a male apostate who does not return to Islam is killed. If the apostate is a woman, she is imprisoned for life. The reason is that their conduct insults Islam and the insult of such a binding authority deserves no less a punishment.
 
+## AI Translation
+
+Those who believe, emigrate, and strive in Allah's cause — they can hope for Allah's mercy. Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**Context:** The people continued talking about this matter, then Allah revealed to His Messenger ﷺ: Ibn Ishaq went on: When 'Abdullah bin Jahsh and his companions were relieved from their depressing thoughts after the Qur'an was rev…
+
+**What this ayah teaches:** They will abide therein forever (217)Verily, those who have believed, and those who have emigrated (for Allah's religion) and have striven hard in the way of Allah, all these hope for Allah's mercy.
 ## Personal Reflections
 
 

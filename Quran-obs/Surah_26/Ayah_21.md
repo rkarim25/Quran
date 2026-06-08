@@ -158,6 +158,17 @@ After that he turned to the second point regarding his upbringing in the Pharaoh
 
 This is what is known as God gifted awe of truth, veracity and reality. The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee. That is how they become so appealing to people and convince the biggest defiant
 
+## AI Translation
+
+So I fled from you when I feared you. Then my Rabb granted me wisdom and made me one of the messengers.
+
+## AI Tafsir
+
+**What this ayah teaches:** When a sharp opponent is not properly equipped with the correct arguments, he normally tries to switch the conversation towards the person of the addressee in order to find faults with him.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee.
 ## Personal Reflections
 
 

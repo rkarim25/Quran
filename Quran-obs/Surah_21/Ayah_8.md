@@ -112,6 +112,15 @@ Then We fulfilled to them the promise. the promise that their Lord made to destr
 
 Ruling: Qurtubi has said in his exegesis that this verse has made it clear that ignorant persons who are not acquainted with the rules of Shari'ah must seek knowledge from scholars and then follow them accordingly.
 
+## AI Translation
+
+We did not give those messengers supernatural bodies that did not need food, nor were they immortal.
+
+## AI Tafsir
+
+**What this ayah teaches:** So ask the people of the Reminder if you do not know (7)And We did not place them in bodies that did not eat food, nor were they immortals (8)Then We fulfilled to them the promise. This is a part of the perfect blessing of Allah towards His creation: He sent to them Messengers from among themselves so that they could receive the Message from them and learn from them.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, what it actually means is that if you are not aware whether the prophets of the past were angels or ordinary men then you should find out from the scholars of Injil and Torah as they know perfectly well that all prophets were human beings.
 ## Personal Reflections
 
 

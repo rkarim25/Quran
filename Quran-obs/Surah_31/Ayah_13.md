@@ -141,6 +141,19 @@ When Luqman advised his son to worship Allah Alone, he also told him to honor hi
 
 Out of these wise advices, first comes the soundness of beliefs, the primary article of which is that one believes in Allah Ta’ ala to be the Creator and master of the entire universe without any association or partnership of anyone or anything. In consequence, one should not take anyone other than Allah as an object of worship, for no injustice can be as grave in this world as the act of one who stoops to equate some creation of Allah Ta’ ala with the Creator. Therefore, it was said: يَا بُنَيَّ لَا تُشْرِ‌كْ بِاللَّـهِ ۖ إِنَّ الشِّرْ‌كَ لَظُلْمٌ عَظِيمٌ (My dear son, do not ascribe partners to Allah. Indeed, ascribing partners to Allah is (shirk) grave transgression - 13). Later, follow other words of good counsel and wisdom spoken by Luqman (علیہ السلام) to his son. In between, there appears another command to highlight the gravity of Shirk and that it has to be avoided under all circumstances. This command is as follows:
 
+## AI Translation
+
+Luqman said to his son while advising him: My dear son, never commit shirk — giving anything the devotion owed to Allah alone — for shirk is the gravest wrong.
+
+## AI Tafsir
+
+**Context:** (But if they strive with you to make you join in worship with Me others that of which you have no knowledge, then obey them not;) was revealed concerning me.
+
+**What this ayah teaches:** Verily, joining others in worship with Allah is a great Zulm (wrong) indeed.
+
+**Classical tafsir:** Ibn Kathir notes: Allah describes him in the best terms, and states that he granted him wisdom.
+
+**From the Sunnah:** I was a man who honored his mother, but when I became Muslim, she said: 'O Sa'd! (Sahih Muslim)
 ## Personal Reflections
 
 

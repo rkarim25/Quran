@@ -260,6 +260,17 @@ Allah said,
 
 إِذْ يَغْشَى السِّدْرَ‌ةَ مَا يَغْشَىٰ (when the lote-tree was covered by that which covered it...53:16) Sahih of Muslim records a Tradition on the authority of Sayyidna ` Abdullah Ibn Masud ؓ who said: "Golden butterflies were at that time falling on sidrat-ul-muntaha from all sides, and it seemed as if it was specially decorated for that occasion in honour of the most revered guest, the Holy Prophet Muhammad ﷺ "
 
+## AI Translation
+
+while the Lote Tree was covered by what covered it in heavenly splendour.
+
+## AI Tafsir
+
+**Context:** He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While he was in the highest part of the horizon (7)Then he approached and came closer (8)And was at a distance of two bows' length or less (9)So (…
+
+**What this ayah teaches:** So some of his companions were asked and one of them said, "Each wing was covering what is between the east and the west." This Hadith has a good chain of narration.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, this verifies the facts mentioned, leaving no doubt or means of refute.
 ## Personal Reflections
 
 

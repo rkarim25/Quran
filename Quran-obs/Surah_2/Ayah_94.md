@@ -163,6 +163,15 @@ Nor should one raise the doubt here that they had perhaps accepted the challenge
 
 Nor can one suppose that they did make an oral declaration, for the fact has not been reported, and thus has not come down to us. Such a supposition would be wrong, because the opponents of Islam have always outnumbered its adherents, and if such a thing had happened, they must have been trumpeting it aloud to show to the world that the Jews had successfully passed the test proposed by the Holy Qur'an itself.
 
+## AI Translation
+
+Say, "If the eternal home with Allah in the Akhirah is reserved for you alone among all people, then wish for death if you are truthful."
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, the People of the Book wish they could delay the Hereafter, as much as possible. The Mubahalah (invocation to Allah to destroy the liars) was called a 'wish' here, because every just person wishes that Allah destroy the unjust opponent who is debating with him, especially when the just person has a clear, apparent proof for the truth he is calling to.
+
+**Classical tafsir:** Ibn Kathir notes: So they claimed that they are Allah's sons and loved ones and said, "Only those who are Christian or Jews shall enter Paradise." Therefore, they were called to invoke Allah to destroy the lying group, be it them or the Muslims.
 ## Personal Reflections
 
 

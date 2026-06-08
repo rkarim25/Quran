@@ -276,6 +276,17 @@ The definition of the Sa1ihin
 
 The third rank is that of the Salihin. These are people who recognize their ultimate objective through following the precepts of Shari'ah. It is like someone sees something in a mirror from a distance. In the other part of the famous hadith quoted above: فَاِن لَّم تَکُن تراہُ فَاِنَّہ یَرَاکَ (And if you cannot see Him, then, He sees you anyway) the reference may be to this very level of 'seeing'. In short, this investigative approach taken by Imam Raghib al-Isfahani shows that all these ranks are ranks that reflect the quantum of knowledge one has of His Lord, and that the different gradations that are there are based on the respective rankings of this knowledge. As for the subject of the verse, it is clear enough. Here, all Muslims have been given the glad tidings that those who are totally obedient to Allah and His Messenger shall be with those who hold higher ranks in Paradise. May Allah Almighty bless us all with this love, آمِین Amin.
 
+## AI Translation
+
+And whoever obeys Allah and the Messenger will be in the company of those blessed by Allah: the prophets, the people of truth, the martyrs, and the righteous—what honourable company!
+
+## AI Tafsir
+
+**Context:** (And whoever obeys Allah and the Messenger, then they will be in the company of those on whom Allah has bestowed His grace, of the Prophets, the true believers, the martyrs, and the righteous.
+
+**What this ayah teaches:** Greater news than this is in the authentic Hadith collected in the Sahih and Musnad compilations, in Mutawatir form, narrated by several Companions that the Messenger of Allah ﷺ was asked about the person who loves a people, but his status is not close to theirs.
+
+**Classical tafsir:** Ibn Kathir notes: In the Islamic terminology, it normally refers to those Companions of a prophet who excel all others in their submission to Allah and His Messenger.
 ## Personal Reflections
 
 

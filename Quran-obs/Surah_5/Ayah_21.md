@@ -252,6 +252,17 @@ Which land is the Holy Land?
 
 Apparently, commentators differ about it. Some say that it means Baytul-Maqdis (Jerusalem). Some identify the city of Quds and Eliah as fitting the description of the Holy Land. Still others point out to the city of Ariha which was located between the Jordan river and Baytul-Maqdis and was reported to be one of the oldest cities of the world. In fact, it is still there. Unusual statements portraying its grandeur and vastness have been reported historically. Some narrations say that the city-was divided over one thousand wards or counties and every such section had some one thousand public gardens each. Then, there are other narrations which indicate that the Holy Land means Damascus and Palestine, or Jordan, according to some others. And Sayyidna Qatadah has said that the entire land of Syria is the Holy Land. Sayyidna Ka'b al-Ahbar has said that he has seen in the Book of Allah (perhaps, the Torah) that the country of Syria is a special treasure of Allah on this entire earth and there are in it Allah's very special and very dear servants. This land has been called ` holy' because it has been home to the blessed prophets of Allah. According to some narrations, on a day when Sayyidna Ibrahim (علیہ السلام) climbed a mountain in Lebanon, Allah Ta` ala said: 0 Ibrahim, look from here and as far as you will see, that land We have made the Holy Land. All narrations cited here have been taken from Tafsir Ibn Kathir and Tafsir Mazhari and the truth of the matter is that there is not much of a contradiction in these sayings. According to later narrations, the whole country of Syria is the Holy Land - it is just that some narrators have described a certain part of the country of Syria while some others have identified the whole of it.
 
+## AI Translation
+
+O my people! Enter the Holy Land which Allah has destined for you. And do not turn back or else you will become losers.”
+
+## AI Tafsir
+
+**What this ayah teaches:** According to later narrations, the whole country of Syria is the Holy Land - it is just that some narrators have described a certain part of the country of Syria while some others have identified the whole of it.
+
+**Classical tafsir:** Ibn Kathir notes: It was also said that the Ayah reads in a way that means that these men were respected and honored by their people.
+
+**From the Sunnah:** The Muslim Ummah is more respected and honored before Allah, and has a more perfect legislative code and system of life, it has the most honorable Prophet, the larger kingdom, more provisions, wealth and children, a larger domain and more lasting glory than th… (Sahih Muslim) Musa, Allah's Messenger, ordered the Children of Israel to enter Jerusalem and fight their enemy, and he promised them victory and triumph over the mighty people if they did so.
 ## Personal Reflections
 
 

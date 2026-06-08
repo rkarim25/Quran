@@ -86,6 +86,15 @@ In the last verse cited above (75), it was said: وَهُمْ لَهُمْ جُ�
 
 And according to a Tafsir reported from Hasan and Qatadah رحمۃ اللہ علیہما ، it means that these people had taken to idols as gods in the hope that they would help them. But, the reality on the ground proved to be that they were already incapable of helping them. As a result, the very people who used to worship them as their servants and soldiers are now guarding them to the extent that they would take their side and fight against anyone who opposes them (a1-Qurtubi). The translation given in the text (with brackets) is based on this interpretation.
 
+## AI Translation
+
+So do not let their words grieve you. Indeed, We fully know what they conceal and what they reveal.
+
+## AI Tafsir
+
+**What this ayah teaches:** And they have taken besides Allah, gods, hoping that they might be helped (74)They cannot help them, but they will be brought forward as a troop (against those who worshipped them)(75)So, let not their speech then grieve you.
+
+**Classical tafsir:** Ibn Kathir notes: This means that those idols will be gathered together and will be present when their worshippers are brought to account, as this will add to their grief and will be more effective in establishing proof against them.
 ## Personal Reflections
 
 

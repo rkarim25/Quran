@@ -170,6 +170,17 @@ Channels of Acquiring Knowledge
 
 أَوْ أَلْقَى السَّمْعَ وَهُوَ شَهِيدٌ (and gives ear [ to the truth ] attentively....50:37). The phrase Ilqa'-us- sam' connotes to listen to someone attentively and the word Shahid means present. The message of the above verses is that two types of people benefit: [ 1] a person who has the mind and the intellect who understands it in his mind and accepts it; and [ 2] a person who gives his ears and listens to the Divine verses with an attentive heart, while his heart is present and not absent. Mazhari interprets that the first type is called kamilin [ thoroughly proficient members of the Islamic community ]. The second type is their followers and sincere seekers of Reality who are under the direction of a spiritual guide who, on account of their sincerity and purity of heart, accept the teachings of the religion.
 
+## AI Translation
+
+We created the heavens and the earth and everything between them in six days, and no fatigue touched Us.
+
+## AI Tafsir
+
+**What this ayah teaches:** Could they find any place of refuge (36)Verily, therein is indeed a reminder for him who has a heart or gives ear while he is heedful (37)And indeed We created the heavens and the earth and all between them in six Days and nothing of fatigue touched Us (38)So bear with patience all that they say, and glorify the praises of your Lord, before the rising of the sun and before (its) setting (39)And du…
+
+**Classical tafsir:** Ibn Kathir notes: Some scholars of Qur'an say that "heart" here refers to life, because the axis of life is heart.
+
+**From the Sunnah:** Have what they collected benefited them or averted Allah's torment when it came to them on account of their denial of the Messengers? Qiyam Al-Layl, prayer at night, was a command for the Prophet ﷺ and his followers for sometime but it was later abrogated for the Ummah. (Musnad Ahmad)
 ## Personal Reflections
 
 

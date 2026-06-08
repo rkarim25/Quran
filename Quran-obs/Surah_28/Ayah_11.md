@@ -114,6 +114,15 @@ There was only a short time between the distress and the way out, a day and nigh
 
 وَأَوْحَيْنَا إِلَىٰ أُمِّ مُوسَىٰ (28:7) The word Wahy (inspiration) is used here in its literal meaning. It does not mean the Wahy that is peculiar to prophets. This point has already been explained under Surah Taha.
 
+## AI Translation
+
+And she said to his sister, “Keep track of him!” So she watched him from a distance, while they were unaware.
+
+## AI Tafsir
+
+**What this ayah teaches:** It was decreed that no one should nurse him except his own mother, and Allah caused this to be the means reuniting him with his mother so that she could nurse him and feel safe after having felt such fear. When (his sister) saw him in their arms, she recognized him, but she did not give any indication nor did they suspect her.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said: "She started to look at him as if she was not really interested." When Musa had settled into the house of Fir'awn, after the king's wife had begun to love him and asked Fir'awn not to kill him, they brought to him the wet nurses who were to be found in their household, and he did not a… It was decreed that no one should nurse him except his own mother, and Allah caused this to be the m…
 ## Personal Reflections
 
 

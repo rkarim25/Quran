@@ -108,6 +108,17 @@ As for righteous believers, says Ibn ` Atiyyah, Allah Ta’ ala blesses them wit
 
 Thus, these conditions never make a believer suffer from anxiety, apprehension and boredom. This is the 'good life' a believer is blessed with in cash, on the spot, right here in this world.
 
+## AI Translation
+
+Whoever does good, whether male or female, and is a believer, We will surely bless them with a good life, and We will certainly reward them according to the best of their deeds.
+
+## AI Tafsir
+
+**What this ayah teaches:** The believer too believes that he is getting a return for every hardship and when comes the life of the Hereafter, his return for every hardship will come to him in the form of blessings that are great and everlasting.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan, Mujahid and Qatadah said: "None gets [this] good life [mentioned] except in Paradise." Ad-Dahhak said: "It means lawful provisions and worship in this life".
+
+**From the Sunnah:** as found in the Hadith recorded by Imam Ahmad from 'Abdullah bin 'Amr that the Messenger of Allah ﷺ said: (Musnad Ahmad)
 ## Personal Reflections
 
 

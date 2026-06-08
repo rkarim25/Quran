@@ -130,6 +130,15 @@ The subject-matter of Surah Adh-Dhariyat, like its predecessor Surah Qaf, is mai
 
 There is a Hadith whose attribution to the Holy Prophet ﷺ has been held by Ibn Kathir as da` eef [ weak ], but it is also reported as a saying of Sayyidna ` Umar ؓ and Ali ؓ . It explains these four things as follows: The expression Dhariyat [ scatterers ] refers to the wind that blows up dust; the expression hamilat-i-wiqran literally denotes burden-bearers and contextually refers to the clouds that carry the burden of water or rain; the expression jariyat-i-yusran refers to the ships that sail smoothly and with ease in the water; and the expression muqassimat-i-amran refers to the angels who distribute to all creatures their sustenance and water, and different kinds of difficulties and comfort as determined by Allah's orders and decrees (Ibn Kathir, Qurtubi and Ad-Durr-ul-Manthur quote these narrations both as mar' mawquf).
 
+## AI Translation
+
+And by the clouds heavy with rain,
+
+## AI Tafsir
+
+**What this ayah teaches:** It explains these four things as follows: The expression Dhariyat [ scatterers ] refers to the wind that blows up dust; the expression hamilat-i-wiqran literally denotes burden-bearers and contextually refers to the clouds that carry the burden of water or rain; the expression jariyat-i-yusran refers to the ships that sail smoothly and with ease in the water; and the expression muqassimat-i-amran…
+
+**Classical tafsir:** Ibn Kathir notes: It explains these four things as follows: The expression Dhariyat [ scatterers ] refers to the wind that blows up dust; the expression hamilat-i-wiqran literally denotes burden-bearers and contextually refers to the clouds that carry the burden of water or rain; the expression ja…
 ## Personal Reflections
 
 

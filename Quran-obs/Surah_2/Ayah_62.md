@@ -180,6 +180,19 @@ One might also ask why the verse mentions the Muslims, for if it is an invitatio
 
 We had better dispel another misunderstanding which is likely to arise from the wordings of the present verse -- and, which is actually being promoted by certain 'modernizers'. The verse mentions only two articles of faith of the Islamic creed -- faith in Allah and faith in the Day of Judgment. This should not be taken to mean that in order to attain salvation it is enough to have faith only in Allah and in the Day of Judgment. For, the Holy Qur'an repeatedly declares that he who does not believe in the prophets, in angels and in the Books of Allah is not a Muslim. Faith in Allah is the first article in the Islamic creed, while faith in the Day of Judgment is the last. By mentioning only these two, the verse intends to say in a succinct manner that it is necessary to have faith in all the articles of the creed, from the first to the last. Moreover, it is through the prophets and the Books of Allah alone that man can acquire any knowledge of the essence and the attributes of Allah and of what is to happen on the Day of Judgment, while the Books of Allah are revealed to the prophets through an angel. So, it is not possible to have faith in Allah and the Day of Judgment until and unless one has faith in the angels, in the Books of Allah and in the prophets.
 
+## AI Translation
+
+Those who believe, and those who followed Judaism, Christianity, or the Sabians — whoever truly trusts in Allah and the Last Day and does righteous deeds will have their reward with their Rabb. They will have no fear and will not grieve.
+
+## AI Tafsir
+
+**Context:** We had better dispel another misunderstanding which is likely to arise from the wordings of the present verse -- and, which is actually being promoted by certain 'modernizers'.
+
+**What this ayah teaches:** The Sabi'un or Sabians There is a difference of opinion over the identity of the Sabians.
+
+**Classical tafsir:** Ibn Kathir notes: This indicates that they were called Yahud, because they repented and because they were kind to each other.
+
+**From the Sunnah:** One might also ask why the verse mentions the Muslims, for if it is an invitation to Islam, there is no need to extend the invitation to those who have already accepted Islam. (Sahih Muslim) For, the Holy Qur'an repeatedly declares that he who does not believe in the prophets, in angels and in the Books of Allah is not a Muslim. (Sahih Muslim)
 ## Personal Reflections
 
 

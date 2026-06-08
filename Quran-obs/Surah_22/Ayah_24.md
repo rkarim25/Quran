@@ -130,6 +130,15 @@ When Allah tells us about the state of the people of Hell – we seek refuge wit
 
 وَهُدُوا إِلَى الطَّيِّبِ مِنَ الْقَوْلِ (And guided they were to the good word (of faith) - 22:24) Sayyidna Ibn ` Abbas ؓ has said that this refers to the Kalimah tayyibah لا إله إلا اللہ . Some others say that it means Qur'an. (Qurtubi) As a matter of fact it includes all these things in its meaning.
 
+## AI Translation
+
+for they have been guided to the best of speech, and they have been guided to the Commendable Path.
+
+## AI Tafsir
+
+**What this ayah teaches:** Truly, Allah will admit those who believe and do righteous good deeds, to Gardens underneath which rivers flow (in Paradise), wherein they will be adorned with bracelets of gold and pearls and their garments therein will be of silk (23)And they are guided unto goodly speech and they are guided to the path of Him, Who is Worthy of all praises .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -91,6 +91,15 @@ When he was accepted into the house of Fir'awn, women were brought in attempts t
 
 Here Sayyidna Musa (علیہ السلام) ended his petition, and he was rewarded with the good news that Allah Ta` ala, the Almighty, had granted all his requests قَالَ قَدْ أُوتِيتَ سُؤْلَكَ يَا مُوسَىٰ (you have been granted your request 0 Musa - 20:36).
 
+## AI Translation
+
+Allah responded, “All that you requested has been granted, O Moses!
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, with Allah having the great authority and the most perfect power, He determined that Musa would not be raised except upon Fir'awn's own bed. And I endued you with love from Me,) This means that I made your enemy love you.
+
+**Classical tafsir:** Ibn Kathir notes: And I endued you with love from Me,) This means that I made your enemy love you.
 ## Personal Reflections
 
 

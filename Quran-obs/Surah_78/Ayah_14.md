@@ -182,6 +182,15 @@ meaning, 'so that We may bring out great abundance, goodness, benefit, and bless
 
 وَأَنزَلْنَا مِنَ الْمُعْصِرَ‌اتِ مَاءً ثَجَّاجًا (And We have sent down from the rain-laden clouds abundant water,...78:14). The word mu'sirat is the plural of mu` sirah 'rain-laden cloud'. This indicates that rain comes down from the cloud. There are verses, however, that indicate that rain comes down from the sky. Those verses too probably refer to 'upper atmosphere'. There are many verses in the Qur'an where the word sama' is used in that sense. Having mentioned these Divine blessings, the Surah reverts to its original theme of Resurrection and Judgment:
 
+## AI Translation
+
+and sent down pouring rain from rainclouds
+
+## AI Tafsir
+
+**What this ayah teaches:** There are verses, however, that indicate that rain comes down from the sky. And We have sent down from the Mu'sirat water Thajjaj.)(15.
+
+**Classical tafsir:** Ibn Kathir notes: And We have made (therein) a shining lamp.)(14.
 ## Personal Reflections
 
 

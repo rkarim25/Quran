@@ -126,6 +126,15 @@ A surface view of the verse here may suggest that Sayyidna Yusuf (علیہ ال�
 
 The declaration: لَا تَثْرِ‌يبَ عَلَيْكُمُ الْيَوْمَ (No reproach upon you today) in verse 92 has been made from the highest level of good morals whereby the oppressor was not only forgiven, but spared from reproach too.
 
+## AI Translation
+
+Joseph said, “There is no blame on you today. May Allah forgive you! He is the the Rahim of the merciful!
+
+## AI Tafsir
+
+**What this ayah teaches:** But, there are details to it, that is, there is a general return for Sadaqah and Khairat which is received by everyone, believer or those who reject the truth, right here in the present world.
+
+**Classical tafsir:** Ibn Kathir notes: The word, kanud, refers to a person who does not remember favours received, but does remember hardships faced.
 ## Personal Reflections
 
 

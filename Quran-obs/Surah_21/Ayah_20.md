@@ -108,6 +108,15 @@ This point has been brought to a conclusion in the next verse by saying يُسَ
 
 Sayyidna ` Abdullah Ibn Harith ؓ عنہ said that he asked Ka` b al-Abbar ؓ how it was that angels kept reciting tasbih (proclaiming Allah's purity) all the time. Did they not have anything else to do? And if they did how could they do both things simultaneously, that is reciting tasbih and do other things. To this Ka'b replied "0 my nephew! Does performance of any of your jobs prevent you from breathing?" The truth is that tasbih comes to angels just as breathing comes to human beings which continues without stopping whatever else he may be doing.(Qurtubi, Al-Bahr ul-Muhit)
 
+## AI Translation
+
+They glorify Him day and night, never wavering.
+
+## AI Tafsir
+
+**What this ayah teaches:** And those who are near Him are not too proud to worship Him, nor are they weary (19)They glorify His praises night and day, they never slacken .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -271,6 +271,19 @@ Verse 112 also announces the reward of those who act upon these principles -- on
 
 These verses provide a warning to the Muslims as well, lest they too should delude themselves like the Jews and the Christians, and suppose that merely because they belong to the social community of Muslims and can, as such, claim to be Muslims, whereby they can dispense with the need to obey Allah and to follow the Shari` ah, and yet receive the rewards Allah has promised to give to true Muslims. Even Muslims have no right to hope for these rewards until and unless they submit themselves totally, in thought and deed both, to the commandments of Allah and His Prophet ﷺ .
 
+## AI Translation
+
+No — whoever submits their face to Allah and acts with ihsan — worshipping as though they see Allah, knowing He sees them — will have their reward with their Rabb. They will have no fear and will not grieve.
+
+## AI Tafsir
+
+**Context:** Verse 112 also announces the reward of those who act upon these principles -- on the Day of Judgment, they shall have nothing to fear, nor shall they grieve, as angels will give them good tidings.
+
+**What this ayah teaches:** follows Allah's religion of Islamic Monotheism) and he is a Muhsin then his reward is with his Lord (Allah), on such shall be no fear, nor shall they grieve (112)The Jews said that the Christians follow nothing (i.e.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the good deeds of the priests and rabbis will not be accepted, even if they are sincerely for Allah alone, because these deeds do not conform with the method of the Messenger ﷺ, who was sent for all mankind.
+
+**From the Sunnah:** Paradise, without having any argument to substantiate the claim.
 ## Personal Reflections
 
 

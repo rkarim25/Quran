@@ -136,6 +136,15 @@ Sayyidna Ibn ‘Abbas ؓ and other leading authorities on Tafsir have given the 
 
 Qurtubi writes that on that Day every believer will feel a sense of loss on account of shortcomings in the fulfillment of his duties and obligations in life. Naming the Judgment Day as the ‘Day of Loss and Gain’ is like its being named as ‘The Day of (Bitter) Regret’ in Surah Maryam, thus وَأَنذِرْ‌هُمْ يَوْمَ الْحَسْرَ‌ةِ إِذْ قُضِيَ الْأَمْرُ‌ ‘And warn them of the Day of (Bitter) Regret when the affair will be resolved…19:39). Ruh-ul-Ma’ ani interprets this verse as implying that on that day the unjust and unrighteous people will bitterly regret their shortcomings, and the righteous believers will regret their shortcomings in the performance of their righteous deeds. In this way, everyone on the Day of Judgment will regret and have a feeling of loss as his shortcomings. Therefore, this day is named as the ‘Day of Loss and Gain’.
 
+## AI Translation
+
+As for those who reject the truth and deny Our revelations, they will be the people of the Fire, abiding forever. What an evil destination.
+
+## AI Tafsir
+
+**What this ayah teaches:** And whosoever believes in Allah and performs righteous deeds, He will expiate from him his sins, and will admit him to Gardens beneath which rivers flow, to dwell therein forever; that will be the great success (9)But those who disbelieved and denied Our Ayat, they will be the dwellers of the Fire, to dwell therein forever.
+
+**Classical tafsir:** Ibn Kathir notes: Imam Raghib Isfahani in his Mufrada-ul-Qur’ an says that when the word refers to financial loss, it is expressed in the passive voice thus ghubina fulanun ‘so-and-so suffered financial loss’.
 ## Personal Reflections
 
 

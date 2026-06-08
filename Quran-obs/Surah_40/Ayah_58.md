@@ -99,6 +99,17 @@ Allah tells us that He will bring back His creation on the Day of Resurrection. 
 
 In verse 56, it was said: إِن فِي صُدُورِ‌هِمْ إِلَّا كِبْرٌ‌ مَّا هُم بِبَالِغِيهِ (there is nothing in their hearts but pride of greatness that they are not [ able ] to reach). It means that people who quarrel in the matter of the verses of Allah without having any valid argument really look forward to rejecting this faith simply because their hearts are filled with pride and arrogance. They would like to stay ahead in the game and are so dim-witted that they have taken for granted that they have this position of strength as a result of their staunch adherence to their faith, and if they were to surrender this stance by becoming Muslims, they will be left without any power and territory of their own. The Qur'an said: مَّا هُم بِبَالِغِيهِ (they are not [ able ] to reach), that is, these people will never reach the goals of their assumed pride, greatness and state power without embracing Islam. However, had they embraced Islam, honor and greatness would have followed in their footsteps. (Qurtubi)
 
+## AI Translation
+
+Those blind to the truth and those who can see are not equal, nor are those who believe and do good equal to those who do evil. Yet you are hardly mindful.
+
+## AI Tafsir
+
+**What this ayah teaches:** Little do you remember!) The blind man who cannot see anything is not the same as the sighted man who can see everything as far as his eyesight reaches – there is a huge difference between them.
+
+**Classical tafsir:** Ibn Kathir notes: It means that people who quarrel in the matter of the verses of Allah without having any valid argument really look forward to rejecting this faith simply because their hearts are filled with pride and arrogance.
+
+**From the Sunnah:** They would like to stay ahead in the game and are so dim-witted that they have taken for granted that they have this position of strength as a result of their staunch adherence to their faith, and if they were to surrender this stance by becoming Muslims, they…
 ## Personal Reflections
 
 

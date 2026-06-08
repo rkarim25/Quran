@@ -178,6 +178,15 @@ Here, it should be noted that the statement declaring the inability of a father 
 
 In the next verse, the knowledge of five things has been declared as exclusive to Allah Ta’ ala and that no created being has that knowledge except Him and at this ends the Surah Luqman:
 
+## AI Translation
+
+O humanity, live with taqwa — Allah-consciousness, as though Allah sees you — toward your Rabb, and beware a Day when no parent can help a child and no child can help a parent. Allah's promise is true. Do not let this dunya deceive you, and do not let the Chief Deceiver deceive you about Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, the promise of Allah is true, let not then this present life deceive you, nor let the chief deceiver deceive you about Allah .
+
+**Classical tafsir:** Ibn Kathir notes: At this place, the text has not gone by the name of Allah Ta'ala or His some other attribute.
 ## Personal Reflections
 
 

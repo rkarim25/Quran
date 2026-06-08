@@ -90,6 +90,15 @@ Fir'awn said, 'I will not believe in what you have said nor entertain your reque
 
 The Pharaoh, out of his obstinacy, did not listen to anything, but demanded saying, “ If you have come with a sign, bring it out, if you are among the truthful," إِن كُنتَ جِئْتَ بِآيَةٍ فَأْتِ بِهَا إِن كُنتَ مِنَ الصَّادِقِينَ.
 
+## AI Translation
+
+Pharaoh said, “If you have come with a sign, then bring it if what you say is true.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, he said, 'if you have proof, then produce it for us to see, so that we know if your claim is true.'
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, he said, 'if you have proof, then produce it for us to see, so that we know if your claim is true.'
 ## Personal Reflections
 
 

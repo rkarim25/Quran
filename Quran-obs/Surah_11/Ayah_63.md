@@ -136,6 +136,15 @@ Allah, the Exalted, mentions what transpired in the discussion between Salih and
 
 As part of this event, the people of Sayyidna Salih (علیہ السلام) have been reported to have said to him: قَدْ كُنتَ فِينَا مَرْ‌جُوًّا قَبْلَ هَـٰذَا ( O Salih, we had hopes in you before this - 62). It means that, before he claimed to be a prophet and started telling them to shun idol-worship, they had great hopes in him. They thought he would rise to be a great reformer and leader of their people. The reason is that Allah Ta` a1a nurtures and grooms his prophets from their childhood in a way that they become models of good morals and habits. Whoever looks at them, loves and respects them. This is what happened in the case of the Last Prophet ﷺ Before he declared that he has been sent as a prophet, the whole Arabia called him al-amin (the trustworthy one) and took him to be true and righteous. It was only when he announced his prophet-hood and prohibited idol-worship that everyone turned hostile to him.
 
+## AI Translation
+
+He responded, “O my people! Consider if I stand on a clear proof from my Rabb and He has blessed me with a mercy from Him. Who could help me against Allah if I were to disobey Him? You would only contribute to my doom.
+
+## AI Tafsir
+
+**What this ayah teaches:** Tell me, if I have a clear proof from my Lord, and there has come to me a mercy from Him, who then can help me against Allah, if I were to disobey Him?
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -248,6 +248,19 @@ First, it was said: أَتَأْخُذُونَهُ بُهْتَانًا وَإِ
 
 This sentence refers back to the previous verse (19) where it was laid down that the husband has no right to take back the dower from his wife except when she has committed a shameful act. On the basis of this principle the present verse (20) says that if you take back the dower from your wife, it will mean that you are imputing her for a shameful act, because it is the only situation where your claim may be rightful. Since your wife has not committed a shameful act, your claim to the dower is a false imputation which is an open sin.
 
+## AI Translation
+
+If you desire to replace a wife with another and you have given the former a stack of gold, do not take any of it back. Would you take it unjustly and very sinfully?
+
+## AI Tafsir
+
+**Context:** (O you who believe! You are not permitted to inherit women against their will,) "Before, the practice was that when a man dies, his male relatives used to have the right to do whatever they wanted with his wife.
+
+**What this ayah teaches:** If you are the one who said the truth, the dowry is in return for the right to have sexual intercourse with her.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, 'Ikrimah and Ad-Dahhak said that Fahishah refers to disobedience and defiance.
+
+**From the Sunnah:** that Ibn 'Abbas said about the Ayah, (Sahih al-Bukhari) It was the practice of the Messenger of Allah ﷺ to be kind, cheerful, playful with his wives, compassionate, spending on them and laughing with them.
 ## Personal Reflections
 
 

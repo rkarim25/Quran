@@ -78,6 +78,15 @@ Commentary
 
 Verses appearing immediately earlier described the many blessings of Allah Ta` ala in details, proved that He alone is their Creator and established that He is unique in this matter. Now, in the present verses, there comes an admonition against the failure of people to recognize that there is a fact behind the statement describing all these blessings - and that is Tauhid, the Oneness of Allah Ta’ ala, except whom there is none worthy of worship. Therefore, it was said: When it stands proved that Allah alone made the heavens and the earth, made the mountains and rivers, vegetation and animals, trees and plants with their fruits and flowers, how can that most sacred Being that is the Creator of all these things become, for no reason, like idols and icons which cannot create anything? Why would you not understand something so elementary?
 
+## AI Translation
+
+But those idols they invoke besides Allah cannot create anything—they themselves are created.
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah knows what you conceal and what you reveal (19)Those whom they invoke besides Allah have not created anything, but are themselves created (20)(They are) dead, not alive; and they do not know when they will be resurrected .
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, it was said: When it stands proved that Allah alone made the heavens and the earth, made the mountains and rivers, vegetation and animals, trees and plants with their fruits and flowers, how can that most sacred Being that is the Creator of all these things become, for…
 ## Personal Reflections
 
 

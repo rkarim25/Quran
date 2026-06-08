@@ -179,6 +179,19 @@ From the outward arrangement of the text, it appears that Sayyidna Salih (علی
 
 The question is when his people have been destroyed by the punishment, what is the use of addressing them now. The answer is that one good that may come out of it is that people in general would learn their lesson. This form of address resembles the address of the Holy Prophet ﷺ when he had said a few words addressing dead disbelievers from the tribe of Quraysh in the Battle of Badr. And then, it is also possible that this saying of Sayyidna Salih (علیہ السلام) came to pass before the coming of the punishment and the destruction of his people - though, in the textual arrangement, it has been mentioned later.
 
+## AI Translation
+
+Then an earthquake struck them, and they fell lifeless in their homes.
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me.")[21:25] and,
+
+**What this ayah teaches:** If you are not crying, then do not enter on them, so that what befell them does not befall you, as well.) The basis of this Hadith is mentioned in Two Sahihs.. When this matter continued for a long time and Thamud's rejection of Salih became intense, they intended to kill her so that they could take the water for themselves every day.
+
+**Classical tafsir:** Ibn Kathir notes: 'Abdur-Razzaq narrated that Ma'mar said that Az-Zuhri said that Abu Righal is the father of the tribe of Thaqif.
+
+**From the Sunnah:** The Messenger of Allah ﷺ passed by the area and ruins of Thamud when he went to Tabuk (in northern Arabia) during the ninth year of Hijrah.
 ## Personal Reflections
 
 

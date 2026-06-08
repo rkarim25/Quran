@@ -113,6 +113,15 @@ Then Allah, the Exalted, explains the miracle of the Qur'an, and that no one is 
 
 The reason is that they were first asked to bring ten Surahs. They failed to do so. Then, to make their inability look more pronounced, it was said in the verse of Surah al-Baqarah quoted above: If you take the Qur'an to be a word of man, then, you too, bring no more than just one Surah being the like of it. But, despite this challenge of the Qur'an, made so easy for them, they could do nothing. It stood proved that the Holy Qur'an was a miracle, and the Word of Allah without any doubt. Therefore, at the end, it was said: , that is, 'would you now believe and obey, or would you prefer to remain heedless as before?'
 
+## AI Translation
+
+But if your helpers fail you, then know that it has been revealed with the knowledge of Allah, and that there is none worthy of worship of worship except Him! Will you not then submit to Allah?
+
+## AI Tafsir
+
+**What this ayah teaches:** There is no deity worthy of worship except He and there is no true Lord other than He.
+
+**Classical tafsir:** Ibn Kathir notes: So perchance you may give up a part of what is revealed unto you, and that your breast feels straitened for it because they say, "Why has not a treasure been sent down unto him, or an angel come with him" But you are only a warner.
 ## Personal Reflections
 
 

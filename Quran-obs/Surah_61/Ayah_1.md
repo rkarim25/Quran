@@ -154,6 +154,19 @@ Ibn Kathir, with reference to Musnad of Ahmad, reports that some of the Companio
 
 Although the intention of the blessed Companions was not to make a boastful claim, it did seem apparently as a claim, which Allah dislikes. If a person makes a commitment to do something in the future, he needs to surrender it to the Divine will and affirm it by saying 'If Allah wills'. The following verses are revealed to admonish the believers.
 
+## AI Translation
+
+Whatever is in the heavens and whatever is on the earth glorifies Allah. He alone is the Almighty, All-Wise.
+
+## AI Tafsir
+
+**Context:** Some said that it was revealed about the gravity of fighting in battle, when one says that he fought and endured the battle, even though he did not do so.
+
+**What this ayah teaches:** Whatsoever is in the heavens and whatsoever is on the earth glorifies Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah and Ad-Dahhak said that this Ayah was sent down to admonish some people who used to say that they killed, fought, stabbed, and did such and such during battle, even though they did not do any of it.
+
+**From the Sunnah:** We mentioned the meaning of these two Hadiths in the beginning of the explanation of Sahih Al-Bukhari, and to Allah is the praise and the thanks. (Sahih al-Bukhari) Come, I want to give you something.' Allah's Messenger ﷺ said to her, (Musnad Ahmad, Sunan Abi Dawud)
 ## Personal Reflections
 
 

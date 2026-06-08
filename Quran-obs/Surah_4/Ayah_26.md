@@ -113,6 +113,17 @@ Following the description of several injunctions relating to marriage, the prese
 
 As for those who follow the dictates of their desires, which includes fornicators, adulterers and nations and peoples adhering to false creeds who just do not recognize the restrictions of halal and haram and make no distinction between lawful and unlawful would very much like you too to move away from the straight path and start giving ear to their false intentions and crooked ways. Be on your guard against them. There are creeds where it is all right to marry women - marriage with whom is not proper. Then there are many atheists who favour the very elimination of the institution of marriage as something out of tune with modern times. Not content with what they call "living together", there are people in some countries who are talking about women as a shared item of enjoyment. All this comes from people who take orders from their desiring self. Some Muslims, subscribing to Islam yet weak in their faith, when they keep company with disbelievers and atheists of such inclinations, fall a prey to their lustful claims and begin to think that their own religion is out-dated and that the position of the enemy is the very epitome of human progress. They do not realize that they have been framed into believing that people with such ideas are modern and forward-looking, something they start wishing their own religion could have permitted. Refuge with Allah from such spineless surrendering! The best policy is to take the warning given by Allah Almighty and stay away from owning and practicing ideas and ways of people with dispositions so wicked.
 
+## AI Translation
+
+It is Allah’s Will to make things clear to you, guide you to the ways of those before you, and turn to you in mercy. For Allah is All-Knowing, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah wishes to make clear (what is lawful and what is unlawful) to you, and to show you the ways of those before you, and accept your repentance, and Allah is All-Knower, All-Wise (26)Allah wishes to accept your repentance, but those who follow their lusts, wish that you (believers) should deviate tremendously away (from the right path (27)Allah wishes to lighten (the burden)…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Some Muslims, subscribing to Islam yet weak in their faith, when they keep company with those who reject the truth and atheists of such inclinations, fall a prey to their lustful claims and begin to think that their own religion is out-dated and that the position of the ene…
 ## Personal Reflections
 
 

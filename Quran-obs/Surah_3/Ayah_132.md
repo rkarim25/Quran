@@ -292,6 +292,19 @@ What he said was said by Allah
 
 Voiced, though, it was by a slave of Allah
 
+## AI Translation
+
+Obey Allah and the Messenger, so you may be shown mercy.
+
+## AI Tafsir
+
+**Context:** As said earlier, the Holy Qur'an used a variety of ways to focus on the same subject. For instance, it was said: لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ إِلَيْهِمْ which means that the purpose behind sending the Messenger is t…
+
+**What this ayah teaches:** Also worth noting are the statements of the Holy Qur'an which prove that, whatever the noble Messenger ﷺ says is by Divine permission and not on his own.
+
+**Classical tafsir:** Ibn Kathir notes: Allah also commands His servants to have Taqwa of Him so that they may achieve success in this life and the Hereafter.
+
+**From the Sunnah:** a man came to the Messenger of Allah ﷺ and asked him, about Allah's statement, This Hadith was recorded by Imam Ahmad, its chain of narration is good, it does not contain any disparraged narrators, and the meaning is good. (Musnad Ahmad)
 ## Personal Reflections
 
 

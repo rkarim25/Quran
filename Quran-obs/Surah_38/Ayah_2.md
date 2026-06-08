@@ -125,6 +125,15 @@ Accordingly, these people came to Abu Talib and said to him that his nephew spok
 
 Finally, the Holy Prophet ﷺ said, 'My dear uncle, should I not be inviting them to something that is better for them?' Abu Talib said, 'What thing is that?' He said, 'I want them to say a particular kalimah (statement) by virtue of which the whole Arabia will be at their feet, and they will become masters of the non-Arab lands beyond it.' Thereupon, Abu Jahl said, 'Tell us. What that kalimah is? By your father, not simply one kalimah, we are ready to say ten of them.' To this he replied, 'Just say: لا إله إلا اللہ (la ilaha il-lal-lah: There is no god (worthy of worship) but Allah). Hearing this, all of them rose to leave saying, 'Are we supposed to leave all objects of worship we have, and take to just one? This is something very strange.' It was on this occasion that these verses of Surah Sad were revealed. (Tafsir Ibn Kathir, pp. 27, 28 v. 4)
 
+## AI Translation
+
+This is the truth—yet those who reject it are entrenched in arrogance and stubborn opposition.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then Allah scares them with news of how the nations who came before them were destroyed because of their opposition to the Messengers and their disbelief in the Scriptures that were revealed from heaven.
+
+**Classical tafsir:** Ibn Kathir notes: There is no contradiction between the two views, because it is a noble Book which includes reminders and leaves no excuse and brings warnings.
 ## Personal Reflections
 
 

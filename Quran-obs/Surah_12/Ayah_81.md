@@ -158,6 +158,15 @@ Rules and Principles
 
 The Holy Prophets ﷺ has, by his personal conduct, affirmed it positively. On his way back from his Masjid, when he was going through an alley with Ummul-Mu'minin, Sayyidah Safiyyah ؓ he noticed two persons appearing at the head of the alley. They were still at some distance, but the Holy Prophet told them that he was with Safiyyah hint Huyayy. They said: Ya Rasul Allah, can anyone have any suspicion about you? Then, he said: Yes, the shaitan keeps seeping through the human body, may be it drops a doubt in somebody's heart. (Al-Bukhari and Muslim) [ Qurtubi ]
 
+## AI Translation
+
+Return to your father and say, ‘O our father! Your son committed theft. We testify only to what we know. We could not guard against the unforeseen.
+
+## AI Tafsir
+
+**What this ayah teaches:** You all go back to your father and tell him that his son has committed a theft, and that whatever we are saying is what we have seen with our own eyes, and that the stolen property was recovered from his baggage before us.
+
+**Classical tafsir:** Ibn Kathir notes: Yusuf's Brothers consult Each Other in Confidence; the Advice Their Eldest Brother gave Them Allah narrates to us that Yusuf's brothers were desperate because they could not secure the release of their brother Binyamin, even though they had given a promise and sworn to their fath…
 ## Personal Reflections
 
 

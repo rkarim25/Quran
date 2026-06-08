@@ -99,6 +99,17 @@ This verse mentions the brothers of Sayyidna Yusuf (علیہ السلام) . The
 
 Out of these twelve sons, the eldest ten were from the first blessed wife of Sayyidna Ya` qub (علیہ السلام) ، Sayyidah Layya, daughter of Layyan. After her death, Sayyidna Ya` qub (علیہ السلام) married her sister, Rahil (See editorial note on page 156. ) (Rachel). She became the mother of his two sons, Sayyidna Yusuf (علیہ السلام) and Benyamin (Benjamin). Therefore, Benyamin was the only real brother of Sayyidna Yusuf (علیہ السلام) . The rest of the ten were his half-brothers from the father's side. Ralil, the mother of Sayyidna Yusuf (علیہ السلام) ، had died during his childhood at the time of the birth of Benyamin. (Qurtubi)
 
+## AI Translation
+
+Indeed, in the story of Joseph and his brothers there are lessons for all who ask.
+
+## AI Tafsir
+
+**What this ayah teaches:** May Allah forgive them, and indeed, He is the ar-Rahim among those who have mercy, for they intended to carry out a "grave error." Ibn Abi Hatim collected this statement, from the route of Salamah bin Al-Fadl from Muhammad bin Ishaq.
+
+**Classical tafsir:** Ibn Kathir notes: As-Suddi said that his name was Yahudha (Judah).
+
+**From the Sunnah:** May Allah forgive them, and indeed, He is the ar-Rahim among those who have mercy, for they intended to carry out a "grave error." Ibn Abi Hatim collected this statement, from the route of Salamah bin Al-Fadl from Muhammad bin Ishaq.
 ## Personal Reflections
 
 

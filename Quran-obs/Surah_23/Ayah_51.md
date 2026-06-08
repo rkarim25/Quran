@@ -184,6 +184,15 @@ Commentary
 
 Scholars have expressed the view that the Juxtaposition of these two commands points to the fact that the consumption of lawful food has a very important bearing on human actions and when a person takes lawful food only, a divine guidance takes his actions along the path of righteousness. But if the food is unlawful, then serious obstacles will prevent the accomplishment of good deeds in spite of his best intentions. According to a hadtth, people travel long wearing miles and are covered with dust and they pray to Allah with hands upraised calling out "0 Lord, 0 Lord!" But since they eat forbidden things and their clothes are also made from forbidden material, there is little hope of their prayers being granted. (Qurtubi) Thus it is evident that a person hoping that his worship will get him the pleasure of Allah or that his prayers will be granted by Him must pay scrupulous attention to what he eats and must, at all times, avoid eating unlawful things.
 
+## AI Translation
+
+O messengers! Eat from what is good and lawful, and act righteously. Indeed, I fully know what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Command to Eat Lawful Food and to Do Righteous Deeds Allah commands His servants and Messengers, peace be upon them all, to eat lawful food and do righteous deeds, which indicates that eating what is lawful helps one to do righteous deeds.
+
+**Classical tafsir:** Ibn Kathir notes: The Command to Eat Lawful Food and to Do Righteous Deeds Allah commands His servants and Messengers, peace be upon them all, to eat lawful food and do righteous deeds, which indicates that eating what is lawful helps one to do righteous deeds.
 ## Personal Reflections
 
 

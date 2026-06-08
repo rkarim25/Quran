@@ -220,6 +220,15 @@ And the substance of the reality of patience (sabr) is that we should not worry 
 
 The second verse (6) carries details of what was said earlier, that is, when Sayyidna Musa (علیہ السلام) was commanded to remind his people, the Bani Isra` il, of the particular Divine blessing which changed their lives. Before the coming of Sayyidna Musa (علیہ السلام) ، they were living as slaves of the Pharaoh. Even as slaves, they were not treated humanely. Boys born among them were killed at birth. Only girls were left to survive and serve. After the appearance of Sayyidna Musa علیہ السلام ، such was his barakah that Allah Ta۔ ala had them delivered from the punishing clutches of the Pharaoh.
 
+## AI Translation
+
+Recall when Moses said to his people: "Remember Allah's favour upon you when He rescued you from Pharaoh's people, who afflicted you with dreadful torment—slaughtering your sons and sparing your women. That was a severe trial from your Rabb."
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah delivered them from all this torment, and this is a great bounty, indeed.
+
+**Classical tafsir:** Ibn Kathir notes: It is possible that this Ayah means, your Lord has vowed and sworn by His might, grace and exaltness.
 ## Personal Reflections
 
 

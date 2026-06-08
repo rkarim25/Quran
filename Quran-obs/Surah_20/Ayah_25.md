@@ -114,6 +114,17 @@ When Sayyidna Musa (علیہ السلام) received the high honour of conversin
 
 The first prayer was اشْرَ‌حْ لِي صَدْرِ‌ي ! (Put my heart at peace for me - 20:25). Meaning to expand the ability of his heart to enable him to receive all the knowledge and wisdom of prophethood, and at the same time to bear with equanimity the slander of those people who will oppose him in his mission.
 
+## AI Translation
+
+Moses said: My Rabb, expand my chest for me, ease my task for me,
+
+## AI Tafsir
+
+**What this ayah teaches:** Meaning to expand the ability of his heart to enable him to receive all the knowledge and wisdom of prophethood, and at the same time to bear with equanimity the slander of those people who will oppose him in his mission. Therefore, he was left with the remnants of this accident that took place with his tongue.
+
+**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported from Abu Sa'id, from 'Ikrimah, who said that Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
+
+**From the Sunnah:** Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
 ## Personal Reflections
 
 

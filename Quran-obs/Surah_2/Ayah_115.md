@@ -172,6 +172,19 @@ This explanation satisfactorily dispels the objection often raised by certain an
 
 Before we proceed, we must sound a note of caution. Verse 115 says that whichever way one turns, one would find "the face of Allah", and that Allah being "All-Embracing" surrounds everything. Wisdom lies in not trying to investigate unnecessarily into the meanings of these or similar statements. For, just as it is not at all possible for a creature to comprehend fully the "Being" (Dhat ذات ) of Allah, it is equally impossible to comprehend the essential reality of the "Attributes" (Sifat صفات). All that man is required to do is to have a general faith in the Realities of the Divine Order - there is no obligation for him to look into the particularities of this sphere which is totally beyond human reach.
 
+## AI Translation
+
+To Allah belong the east and the west. Wherever you turn, there is the face of Allah. Allah is all-encompassing, all-knowing.
+
+## AI Tafsir
+
+**Context:** However, it was said that Allah sent down this Ayah before the order to face the Ka'bah. Ibn Jarir said, "Others said that this Ayah was revealed to the Messenger of Allah ﷺ permitting the one praying voluntary prayers t…
+
+**What this ayah teaches:** Wheresoever a man turns, he shall find Allah "facing" him -- that is to say, ready to accept his prayers and to shower His bounties on him.
+
+**Classical tafsir:** Ibn Kathir notes: Verse 115 says that whichever way one turns, one would find "the face of Allah", and that Allah being "All-Embracing" surrounds everything.
+
+**From the Sunnah:** This ruling brought comfort to the Messenger of Allah ﷺ and his Companions, who were driven out of Makkah and had to depart from the area of Al-Masjid Al-Haram.
 ## Personal Reflections
 
 

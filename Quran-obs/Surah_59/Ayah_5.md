@@ -246,6 +246,15 @@ Ruling
 
 Is it legitimate to demolish or burn down the homes of the infidels, or cut or burn down their trees, or destroy their fields and farms? The leading authorities on Islamic Jurisprudence are not unanimous on this question. Imam A'zam Abu Hanifah (رح) rules that all of these actions are permitted. Shaikh Ibn Humam (رح) ، however, qualifies the ruling and restricts it. He rules that all of the above are permitted if and only if the enemies cannot be vanquished or overpowered without resorting to the above measures, or if the victory of Muslims is not probable or likely. The whole purpose of this ruling is to break the might and power of the enemy. In the case where Muslims do not win the struggle, destruction of their moveable and immovable properties may be included in weakening their might and main. [ Mazhari ]
 
+## AI Translation
+
+Whatever palm trees you cut down or left standing, it was by Allah's Will—to disgrace those who rebelled.
+
+## AI Tafsir
+
+**Context:** Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur recorded that Sa'id bin Jubayr said, "I asked Ibn 'Abbas about Surat Al-Hashr and he said, 'It was revealed about Bani An-Nadir.'" Al-Bukhari…
+
+**What this ayah teaches:** Commandment of the Holy Prophet ﷺ is in fact the Commandment of Allah: A Warning for those who Refute the authority of the Ahadith In verse [ 5], the cutting down of the trees or leaving them uncut is called bi-idhni-llah [ with Allah's permission ] whereas neither of the actions was the explicit command of Allah.
 ## Personal Reflections
 
 

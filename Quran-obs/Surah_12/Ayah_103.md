@@ -106,6 +106,17 @@ The Difference between the News of the Unseen and the Knowledge of the Unseen
 From these verses we learn that Allah Ta` ala communicates to his prophets many a news of the unseen through Wahy (revelation). He has particularly blessed our Rasul ", known as the Head of all the messengers, with a special portion of the news from the unseen, which is more than that which has been given to all past prophets. This is the reason why the Holy Prophet has informed the Muslim Ummah of many events due to happen right through the day of Qiyamah, either briefly, or in details. All Al-Hadith given in the Kitab al-Fitan of Hadith books are full of them.
 Since common people take the Knowledge of the Unseen (i1m al-Ghayb) only in the sense that a person somehow gets to become aware of the news of the unseen, and this quality is found at its best in the Holy Prophet ﷺ ، therefore, they think that the Holy Prophet ﷺ was ` Alim al-Ghayb (knower of the Unseen). But, the Holy Qur’ an has declared in very clear words that: لَّا يَعْلَمُ مَن فِي السَّمَاوَاتِ وَالْأَرْ‌ضِ الْغَيْبَ إِلَّا اللَّـهُ (No one in the heavens, or on the Earth, knows the unseen except Allah - 27:65) which proves that no one, other than Allah Ta` ala, can be called the ` Alim al-Ghayb or the Knower of the Unseen. The ` Jim of al-Ghayb (the knowledge of the unseen) is the unique attribute of Allah Ta` ala. Taking an apostle, messenger, prophet or angel as a sharer in this attribute amounts to equating him with Allah, and is what the Christians do, who declare a Messenger to be the son of God, and a partner in Godhead. The verses of the Holy Qur’ an quoted here make the truth of the matter very clear. It stands settled that the ilm of al-Ghayb (the knowledge of the unseen) is an exclusive attribute of Allah Ta` ala and the only ` Alim al-Ghayb (the Knower of the Unseen) is Allah jalla thanauh Himself. However, there are many news of the unseen which Allah Ta` ala does give to his messengers through the medium of Wahy (revelation). This, in the terminology of the Holy Quran, is not known as the ilm of al-Ghayb (the knowledge of the unseen). Since common people do not understand this fine difference, they tend to take the news of the unseen as the knowledge of the unseen. This is why when one adheres to the terminology of the Qur’ an and asserts that no one, other than Allah, can claim to know what is unseen, they would prefer to differ, rather than accept truth as it is.
 
+## AI Translation
+
+And most people will not believe—no matter how keen you are—
+
+## AI Tafsir
+
+**What this ayah teaches:** Thereupon, said in the next verse was: And most of the people are not going to believe - even though, the proofs of his being a prophet were clear, and even if he himself longed for it, or tried his best.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, there is no way he could have known it in the manner he did except that it be Divine revelation itself.
+
+**From the Sunnah:** This is the reason why the Holy Prophet has informed the Muslim Ummah of many events due to happen right through the day of Qiyamah, either briefly, or in details. (Sahih Muslim)
 ## Personal Reflections
 
 

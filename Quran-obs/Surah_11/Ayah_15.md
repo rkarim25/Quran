@@ -124,6 +124,19 @@ Jami` Tirmidhi and the Musnad of Ahmad report on the authority of Sayyidna Anas 
 
 Regarding what has been said in this verse: ` those who aimed for worldly life are fully recompensed for their deeds within this world,' someone may raise a doubt. It could be said that there are many people who, despite aiming and striving to have worldly benefits, fail to achieve their objective even in this world and, on occasions, they would get just about nothing. The answer is that, in this verse, the Qur'an has dealt with the subject briefly. Details appear in the following verse of Surah al-Isra' (Banu Isra'i1) where it was said: مَّن كَانَ يُرِ‌يدُ الْعَاجِلَةَ عَجَّلْنَا لَهُ فِيهَا مَا نَشَاءُ لِمَن نُّرِ‌يدُ (whoever keeps aspiring for the immediate, We shall give soon what We will to whom We will). It means whoever keeps aiming for nothing but worldly life, Allah gives it to him right here within the world, but this giving is restricted by two conditions. Firstly, He gives as much as He wants. It is not necessary to let them have what matches their desires. Secondly, He gives only to a person it is appropriate to give him according to His wisdom. Giving to everyone is not necessary.
 
+## AI Translation
+
+Whoever desires only this this dunya — this temporary worldly life and its luxuries, We will pay them in full for their deeds in this life—nothing will be left out.
+
+## AI Tafsir
+
+**Context:** Anas bin Malik and Al-Hasan both said, "This verse was revealed concerning the Jews and the Christians." Mujahid and others said, "This verse was revealed concerning the people who perform deeds to be seen." Qatadah said…
+
+**What this ayah teaches:** For them, nothing is cut short in Dunya.
+
+**Classical tafsir:** Ibn Kathir notes: Some commentators have said that it refers to Muslims who, through their good deeds, aim to acquire only the comfort, wealth and recognition from this worldly life.
+
+**From the Sunnah:** It is interesting that, in our time too, there are a lot of unaware Muslims who seem to be suffering from the same doubt. Is this verse related to kafirs or Muslims or to both Muslims and kafirs?
 ## Personal Reflections
 
 

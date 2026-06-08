@@ -160,6 +160,17 @@ The word الْبَيْتِ الْعَتِيقِ lexically means 'liberated hous
 
 1. The other meaning of the word عَتِیق is 'ancient' which is adopted in the translation of the text. (Editor)
 
+## AI Translation
+
+Then let them groom themselves, fulfil their vows, and circle the Ancient House.”
+
+## AI Tafsir
+
+**What this ayah teaches:** If a person makes a vow to do something which is sinful, then he is not bound to fulfill the vow, rather it is impermissible to act upon it, but he must make atonement for the unfulfilled vow.
+
+**Classical tafsir:** Ibn Kathir notes: When he came back from Mina on the day of Sacrifice, he began with stoning the Jamrah, stoning it with seven pebbles, then he offered his sacrifice and shaved his head, then he departed and circumambulated the House." In the Two Sahihs it was recorded that Ibn 'Abbas said, "The people were commanded… It was recorded that 'Ikrimah said, "It was called Al-Bayt Al-'Atiq because it survived (U'tiqa) fro…
+
+**From the Sunnah:** this with a disconnected chain in a manner denoting his approval of it. (Sahih al-Bukhari) from Ibn 'Abbas that the Prophet ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
 
 

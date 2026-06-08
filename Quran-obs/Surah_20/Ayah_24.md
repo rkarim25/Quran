@@ -110,6 +110,17 @@ The Supplication of Musa
 
 اذْهَبْ إِلَىٰ فِرْ‌عَوْنَ (Go to the Pharaoh - 20:24). Having suitably armed him with two great miracles, Allah Ta` ala commanded Sayyidna Musa (علیہ السلام) to proceed to Egypt and invite the Pharaoh to accept the true faith because he had exceeded all bounds in his tyranny and misdeeds.
 
+## AI Translation
+
+Go to Pharaoh, for he has truly transgressed all bounds.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, he was left with the remnants of this accident that took place with his tongue.
+
+**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported from Abu Sa'id, from 'Ikrimah, who said that Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
+
+**From the Sunnah:** Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
 ## Personal Reflections
 
 

@@ -116,6 +116,17 @@ In the verses cited above, after having presented a few manifestations of Allah'
 
 In the first verse (61), it was said: جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ‌ مُبْصِرً‌ا (Allah is the One who made for you the night, so that you may have rest in it, and the day to let you see.). Just imagine how great a blessing it is that all human beings, even animals, have been naturally tuned to a set time for sleep, and that this time has been, in a manner of saying, virtually switched off in perfect synchronization with the need to sleep. In fact, it was made the part of everyone's psyche that this is the time, the time of night, that would bring a sound sleep. Otherwise, had sleep been in one's own control and had everyone been making one's own program to sleep at different hours, as he or she does to set a timetable for business or personal preferences, it would have left all sleepers deprived of the bliss of sleep, nor would it have been convenient for those awake to set their own hours of work right. The reason is that human needs are inter-related. Had sleeping hours been different, jobs of the awake connected with the sleeping would have gone topsy-turvy, and the jobs of the sleeping connected with the awake would have fared no better. Also, if only human beings had a set time for sleep - with wild beasts and animals sleeping at some other time - even then, the system of human engagement with work would have gone haywire.
 
+## AI Translation
+
+This is how those who used to reject Allah's ayahs were also deluded.
+
+## AI Tafsir
+
+**What this ayah teaches:** How then are you turning away (62)Thus were turned away those who used to deny the Ayat of Allah (63)Allah, it is He Who has made for you the earth as a dwelling place and the sky as a canopy, and has given you shape and made your shapes good and pure (looking) and has provided you with good things.
+
+**Classical tafsir:** Ibn Kathir notes: Signs of the Power and Oneness of Allah Allah reminds us of His grace towards His creation in that He has given them the night in which they rest and relax from their activities so that they can go back to them for their livelihood during the day.
+
+**From the Sunnah:** that after ending every prayer, 'Abdullah bin Az-Zubayr used to say: (Musnad Ahmad) He said, "The Messenger of Allah ﷺ used to say the Tahlil in this fashion after every prayer." Similar was also recorded by Muslim, Abu Dawud and An-Nasa'i.
 ## Personal Reflections
 
 

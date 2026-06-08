@@ -232,6 +232,19 @@ In short, nothing that the Jews say or do is acceptable and valid from any possi
 
 The next verses proceed to refute the Jews on several other counts.
 
+## AI Translation
+
+When told, "Believe in what Allah has sent down," they say, "We believe only in what was sent to us," and they reject what came after — though it confirms their own Scripture. Say, "Then why did you kill Allah's prophets before, if you were believers?"
+
+## AI Tafsir
+
+**Context:** (They say, "We believe in what was sent down to us.") meaning, it is enough for us to believe in what was revealed to us in the Tawrah and the Injil, and this is the path that we choose, (while it is the truth confirming…
+
+**What this ayah teaches:** And when it is said to them (the Jews), "Believe in what Allah has sent down," they say, "We believe in what was sent down to us." And they disbelieve in that which came after it, while it is the truth confirming what is with them.
+
+**Classical tafsir:** Ibn Kathir notes: This means that since what was sent to Muhammad ﷺ conforms to what was revealed to the People of the Book, then this fact constitutes a proof against them.
+
+**From the Sunnah:** You killed them simply out of transgression, stubbornness and injustice with Allah's Messengers.
 ## Personal Reflections
 
 

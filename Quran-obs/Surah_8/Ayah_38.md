@@ -221,6 +221,17 @@ Allah says, if the disbelievers persist in defying and fighting you, then know t
 
 Appearing once again in verse 38, there is a patronizing address to disbelievers - which carries the elements of persuasion and warning both. The part of persuasion is that should they repent from their shocking deeds even then, and come forward to believe, then, all their past sins shall be forgiven. If they failed to desist even then, the warning part tells them that they better understand that Allah Ta` ala would not have to think about making some new law for them. The law is already there. It has been in force in the case of disbelievers of earlier times. The same law would come into force against them too - that they were destroyed in the present world and became deserving of the punishment of the Hereafter.
 
+## AI Translation
+
+Tell those who reject the truth: if they desist, what is past will be forgiven. If they return to hostility, the example of earlier destroyed nations has already gone before them.
+
+## AI Tafsir
+
+**What this ayah teaches:** But if they return (thereto), then the examples of those (punished) before them have already preceded (as a warning)(38)And fight them until there is no more Fitnah, and the religion (worship) will all be for Allah alone.
+
+**Classical tafsir:** Ibn Kathir notes: Appearing once again in verse 38, there is a patronizing address to those who reject the truth - which carries the elements of persuasion and warning both.
+
+**From the Sunnah:** It is recorded in the Sahih that the Messenger of Allah ﷺ said to Usamah bin Zayd when he overpowered a man with his sword, after that man proclaimed that there is no deity worthy of worship except Allah;
 ## Personal Reflections
 
 

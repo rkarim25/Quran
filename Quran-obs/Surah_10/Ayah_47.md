@@ -102,6 +102,17 @@ Imam al-Baghawi said: This recognition will be possible during the
 
 early stage. Later, when the horrendous happenings of the Qiyamah, the Day of Doom, will unfold, this ability to recognize each other will stand disabled. According to some other narrations, the ability to recognize each other will, though, still remain, but such will be the awe of the situation that they will be unable to say anything. (Mazhari)
 
+## AI Translation
+
+And for every community there is a messenger. After their messenger has come, judgment is passed on them in all fairness, and they are not wronged.
+
+## AI Tafsir
+
+**What this ayah teaches:** Whether We show you some of what We promise them (the torment), or We cause you to die – still unto Us is their return, and moreover Allah is Witness over what they used to do (46)And for every Ummah there is a Messenger; when their Messenger comes, the matter will be judged between them with justice, and they will not be wronged .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** This was stated by Allah's Messenger in a Hadith recorded by both Al-Bukhari and Muslim. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

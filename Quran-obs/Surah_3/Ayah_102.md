@@ -158,6 +158,19 @@ In the two verses appearing here, two important principles have been given which
 
 2. Unity
 
+## AI Translation
+
+O you who have iman! live with taqwa toward Allah in the way He deserves, and do not die except in submission.
+
+## AI Tafsir
+
+**Context:** This was revealed about the Aws and Khazraj. During the time of Jahiliyyah, the Aws and Khazraj were at war and had great hatred, enmity and ill feelings towards each other, causing long conflicts and battles to occur be…
+
+**What this ayah teaches:** The Most Generous Allah has made it His decision that whatever state one lives in, that is what he dies upon and is resurrected upon.
+
+**Classical tafsir:** Ibn Kathir notes: Did I not find you misguided and Allah directed you to guidance because of me?
+
+**From the Sunnah:** Have Taqwa of Allah as is His due, and die not except as (true) Muslims (102)And hold fast, all of you together, to the Rope of Allah, and be not divided among yourselves, and remember Allah's favor on you, for you were enemies of one another but He joined you… Ibn Abi Hatim recorded that 'Abdullah bin Mas'ud commented on the Ayah,
 ## Personal Reflections
 
 

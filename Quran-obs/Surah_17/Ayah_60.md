@@ -162,6 +162,15 @@ The word fitnah' (فِتنَہ) appearing in verse 60: وَمَا جَعَلْن
 
 It also stands proved from this event that the word رُّ‌ؤْيَا (ru'ya) is though also used in the Arabic language in the sense of dream but, at this place, what is being recounted is no matter of some dream. Had that been the case, there was no reason why people would become apostates. Dreams are dreams. Everyone can see such dreams. In fact, the purpose of employing the word: رُّ‌ؤْيَا (ru'ya) at this place is to show that the marvel was witnessed while awake. While commenting on this verse, some commentators have interpreted it to be referring to other events too besides the event of Mi` raj. But, they do not apply here as a whole. Therefore, the majority of commentators have declared the event of Mi` raj alone as the relevant subject of this verse. (As described in detail by al-Qurtubi)
 
+## AI Translation
+
+And remember, O Prophet when We told you, “Certainly your Rabb encompasses the people.” And We have made what We brought you to see as well as the cursed tree mentioned in the Quran only as a test for the people. We keep warning them, but it only increases them greatly in defiance.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah has encompassed Mankind and made the Vision of His Prophet a Trial for Them Allah says to His Messenger ﷺ, encouraging him to convey the Message and informing him that He is protecting him from the people, that He is able to deal with them and that they are in His grasp and under His domination and control.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the majority of commentators have declared the event of Mi` raj alone as the relevant subject of this verse.
 ## Personal Reflections
 
 

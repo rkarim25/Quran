@@ -106,6 +106,17 @@ About Giving someone the name: (Ya Sin: written as Yasin):
 
 Imam Malik (رح) does not like to name a person as Yasin for the reason that, according to him, it is one of the Divine Names and its exact meaning remains unknown. Therefore, it is possible that it may have some meaning that is exclusive to Allah Ta’ ala, and nobody is allowed to have that name, for example: اَلخَالق (al-khaliq: The Creator), اَلرَّازِق (ar-raziq: The Provider-Sustainer) and other names of this nature. Still, if this word is written with a script that reads: (Yasin), it is permissible to give that name to a human being, because the Qur'an says: سَلَامٌ عَلَىٰ إِلْ يَاسِينَ (Peace on Ilyasin or Al Yasin) (Ibn al-'Arabi). The well recognized rendering (qira'ah) of this verse is: إِلْ يَاسِينَ (ilyasin) but, in some renderings, it also appears as: اٰلِ یَاسِین (al-yasin).
 
+## AI Translation
+
+You are truly one of the messengers
+
+## AI Tafsir
+
+**What this ayah teaches:** Truly, you are one of the Messengers,)(4. And according to another narration, this is a word from the Ethiopian language that means: '0 human person' and denotes the person of the noble Prophet ﷺ .
+
+**Classical tafsir:** Ibn Kathir notes: And according to another narration, this is a word from the Ethiopian language that means: '0 human person' and denotes the person of the noble Prophet ﷺ .
+
+**From the Sunnah:** We have already mentioned the Ayat and Mutawatir Hadiths which state that the mission of the Prophet ﷺ is universal, when we discussed the meaning of the Ayah:
 ## Personal Reflections
 
 

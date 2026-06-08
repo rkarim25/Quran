@@ -165,6 +165,15 @@ Surah At-Talaq
 
 Ends here
 
+## AI Translation
+
+Allah created seven heavens in layers, and likewise for the earth. His command descends between them so you may know that Allah is Most Capable of everything and encompasses all things in His knowledge.
+
+## AI Tafsir
+
+**What this ayah teaches:** This verse indicates that there are seven earths as there are seven heavens, but the question is where these earths are and in what shape or form.
+
+**Classical tafsir:** Ibn Kathir notes: This verse indicates that there are seven earths as there are seven heavens, but the question is where these earths are and in what shape or form.
 ## Personal Reflections
 
 

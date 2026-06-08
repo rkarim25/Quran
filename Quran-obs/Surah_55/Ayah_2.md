@@ -144,6 +144,17 @@ So we say, just as the believers among the Jinns said, "O Allah! None of Your fa
 
 Grammatically speaking, the verb عَلَّمَ ` allama [ to teach ] requires two objects, the direct and the indirect: [ 1] that of which the knowledge is imparted; and [ 2] he to whom the knowledge is imparted. Here the first object [ the Holy Qur'an ] is explicitly stated, but the second object is not. Some of the exegetes express the view that the second object is the Messenger of Allah ﷺ who was taught the Qur'an directly by Allah, and through him the entire creation. It is possible to look at it from another point of view: The purpose of the Holy Qur'an is to give guidance to the entire creation of Allah, and to teach them good morals and the righteous deeds. Therefore, no particular object has been specified. The fact that the second object has not been explicitly specified indicates its generality, that is, it refers to the totality of human beings.
 
+## AI Translation
+
+He taught the Qur'an—guidance spoken into the world as a gift flowing from the Rahman's favour.
+
+## AI Tafsir
+
+**What this ayah teaches:** The fact that the second object has not been explicitly specified indicates its generality, that is, it refers to the totality of human beings.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "An-Najm (the star); the one that is in the sky." Al-Hasan and Qatadah said similarly. Ibn Jurayj reported that Ibn 'Abbas said said Al-Akmam, means sheathed fruit stalks. The fact that the second object has not been explicitly specified indicates its generality, that is, it refers to the totality of human beings.
+
+**From the Sunnah:** a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you!
 ## Personal Reflections
 
 

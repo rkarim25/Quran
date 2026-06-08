@@ -116,6 +116,15 @@ Allah created Different Types of Water
 
 مَرَ‌جَ الْبَحْرَ‌يْنِ يَلْتَقِيَانِ (He has set forth the two seas that meet together...55:19). Literally, the verb maraja means 'to let loose'. The word bahrain [ two seas or two types of waters ] refers to sweet and salty waters. Allah has created two types of waters. In some places the two seas meet together, the samples of which are available in every region of the world. However, where the sweet and salty waters meet, there is a distinct barrier between the sweet and salty waters. In some cases, the two types of waters are seen distinctly in higher or lower position. If the salty water overrides the sweet water, the characteristics of the sweet water will not be spoiled; nor will the characteristics of the salty water be affected in any way if the sweet water overrides it. Thus the Qur'an states: مَرَ‌جَ الْبَحْرَ‌يْنِ يَلْتَقِيَانِ بَيْنَهُمَا بَرْ‌زَخٌ لَّا يَبْغِيَانِ He has set forth the two seas that meet together, while between them there is a barrier they do not transgress....55:20)
 
+## AI Translation
+
+Between them is a barrier neither can transgress.
+
+## AI Tafsir
+
+**What this ayah teaches:** He created man from sounding clay like the clay of pottery (14)And the Jinn He created from a smokeless flame of fire (15)Then which of the blessings of your Lord will you both deny (16)The Lord of the two easts and the Lord of the two wests (17)Then which of the blessings of your Lord will you both deny (18)He has Maraja the two seas meeting together (19)Between them is a barr…
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid, Qatadah, Abu Ruzayn, Ad-Dahhak said it, and it has also been reported from 'Ali. The word bahrain [ two seas or two types of waters ] refers to sweet and salty waters.
 ## Personal Reflections
 
 

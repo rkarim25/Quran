@@ -102,6 +102,17 @@ Al-Qurtubi says: The Arab traders used to transact deals involving big amounts b
 
 In the last sentence of the verse: وَكَانُوا فِيهِ مِنَ الزَّاهِدِينَ (and they were disinterested in him), the word: الزَّاهِدِينَ (az-zahidin) is the plural of zahid which is a derivation from zuhd. Literally, zuhd means indifference, disinterestedness. In usage, the lack of interest in and the avoidance of wealth and property in worldly life is referred to as zuhd. The meaning of the verse is that the brothers of Yusuf (علیہ السلام) were really not interested in any financial gain for themselves in this matter. Their real purpose was to separate Sayyidna Yusuf (علیہ السلام) from their father. Therefore, they struck a deal for a very few dirhams.
 
+## AI Translation
+
+They later sold him for a cheap price, just a few silver coins—only wanting to get rid of him.
+
+## AI Tafsir
+
+**What this ayah teaches:** Thus, the sense would be: ` the brothers of Yusuf sold him - or, the people of the caravan bought him - for a paltry price, that is, for a counted few dirhams in return.' Al-Qurtubi says: The Arab traders used to transact deals involving big amounts by weight while, for amounts not more than forty, they would go by count.
+
+**Classical tafsir:** Ibn Kathir notes: Literally, zuhd means indifference, disinterestedness.
+
+**From the Sunnah:** Blessed is Allah, the Lord of the all that exists!)[7:54] This reminds Allah's Messenger Muhammad ﷺ, that Allah has perfect knowledge in the persecution that his people committed against him and that He is able to stop them.
 ## Personal Reflections
 
 

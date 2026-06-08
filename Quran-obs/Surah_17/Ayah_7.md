@@ -223,6 +223,17 @@ Commentary
 
 The outcome of the events mentioned above is that Allah Ta’ ala had decreed that the Bani Isra'il will be successful, having the best of both worlds, the material and the spiritual, as long as they continue to obey Allah. But, whenever they deviate from the dictates of Faith, they shall be put to disgrace, and that they would be subjected to punishment at the hands of enemies and disbelievers. Then, not only that the enemies will run over them destroying their lives and properties, but it would also happen that their Qiblah, their sacred Baytul-Maqdis, will also not remain safe against the onslaught of that enemy. Their disbelieving enemies will barge into the Mosque of Baytul-Maqdis and defile and damage it. This too will be a part of the punishment of Bani Isra'il themselves. The Holy Qur'an has told us about two events relating to them. The first one dates back to the time of Mosaic religious law while the second pertains to the Christian. During both these periods, the Bani Isra'il rebelled against the divine law of the time. In the first case, a disbelieving Magian monarch was made to sit over them, and Baytul-Maqdis, who brought great destruction upon them. In the second case, a Roman emperor was set against them who killed and pillaged and made Baytul-Maqdis all demolished and rendered desolate. And along with this description, it has also been mentioned that the Bani Isra'il - when, on both occasions, they repented from their misdeeds resolving not to go near them again - Allah Ta` ala reinstated their country, wealth and children.
 
+## AI Translation
+
+If you do good, you do good for yourselves. If you do evil, you do it against yourselves. When the second warning arrives, they will be humiliated and enter the mosque as they entered it the first time, destroying utterly whatever they conquer.
+
+## AI Tafsir
+
+**Context:** Allah tells us that He made a declaration to the Children of Israel in the Scripture, meaning that He had already told them in the Book which He revealed to them, that they would cause mischief on the earth twice, and wo…
+
+**What this ayah teaches:** And We helped you with wealth and children and made you more numerous in manpower (6)(And We said): "If you do good, you do good for your own selves, and if you do evil (you do it) against yourselves." Then, when the second promise came to pass, (We permitted your enemies) to disgrace your faces and to enter the Masjid as they had entered it before, and to destroy with utter destruction all that f…
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Hasir here means a jail." Mujahid said, "They will be detained in it." Others said likewise.
 ## Personal Reflections
 
 

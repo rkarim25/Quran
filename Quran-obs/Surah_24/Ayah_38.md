@@ -255,6 +255,19 @@ The example of the deeds of the first category is that of a mirage, which is not
 
 The second category of deeds is that of atheists or infidels, for which the example of a deep ocean is given, which is completely dark. In the first place it is dark because of its depth, then it is covered by a big wave which is also enshrouded by another wave, and over that there is a mass of dark cloud. In short there is darkness over darkness, so much so that if someone takes out his hand, he cannot have even a glimpse of it. The inference to be drawn from this example is that those infidels who deny the coming of the Dooms Day, the Reckoning and the Hereafter are devoid of even the illusive Nur, which the first category of disbelievers had. Although they too did not possess the useful Nur of guidance, but at least they were under the illusion that they had done some good deeds which will help them in the Hereafter, but the latter category did not deem it necessary to work for the Hereafter, since they had no belief in it. Hence, they will have nothing but darkness and complete darkness with them on the Dooms Day.
 
+## AI Translation
+
+hoping that Allah may reward them according to the best of their deeds, and increase them out of His grace. And Allah provides for whoever He wills without limit.
+
+## AI Tafsir
+
+**Context:** (Men whom neither trade nor business diverts from the remembrance of Allah nor from performing the Salah nor from giving the Zakah).
+
+**What this ayah teaches:** The example of the deeds of the first category is that of a mirage, which is nothing but illusion of sight.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ali bin Abi Talhah reported that Ibn 'Abbas said, "This meant from the prescribed prayers." This was also the view of Muqatil bin Hayyan and Ar-Rabi' bin Anas.
+
+**From the Sunnah:** 'A'ishah, may Allah be pleased with her, said: "The Messenger of Allah ﷺ commanded us to build Masjids among the houses, and to clean them and perfume them." This was recorded by Ahmad and the Sunan compilers with the exception of An-Nasa'i.
 ## Personal Reflections
 
 

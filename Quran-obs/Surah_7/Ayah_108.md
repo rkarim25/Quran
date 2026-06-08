@@ -73,6 +73,15 @@ The Arabic word: نَزع naza` a signifies extracting something from another th
 
 The prophet Musa (علیہ السلام) performed two miracles at this occasion on the demand of the Pharaoh. First, the transformation of his staff into a serpent, second, drawing his hand out from under his arm, emanating light from it. The first was to serve as warning for the unbelievers while the second aimed at inviting them to the truth. It also indicated that the message of the prophet Musa (علیہ السلام) was a light and to follow it would lead people to eternal success.
 
+## AI Translation
+
+Then he drew his hand and it was white for all to see.
+
+## AI Tafsir
+
+**What this ayah teaches:** it was white (with radiance) for the beholders.) Musa took his hand out of his cloak after he inserted his hand in it and it was shining, not because of leprosy or sickness. it was a [Thu'ban] serpent, manifest (107)And he drew out his hand, and behold!
+
+**Classical tafsir:** Ibn Kathir notes: When Fir'awn saw the snake rushing towards him, he jumped from his throne and cried to Musa for help, so that Musa would remove the snake from his way.
 ## Personal Reflections
 
 

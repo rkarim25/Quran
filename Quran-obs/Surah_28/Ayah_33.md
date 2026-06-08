@@ -142,6 +142,15 @@ The place also becomes auspicious if righteous deeds are performed there
 
 فِي الْبُقْعَةِ الْمُبَارَ‌كَةِ (In the blessed ground - 28:30). The Holy Qur'an has termed the mount Tur as blessed ground. It is obvious that the reason of its being auspicious is the refulgence of Allah Ta` ala, which was manifested at that spot in the form of fire. It proves that if something virtuous happens at a place, that particular spot also turns auspicious.
 
+## AI Translation
+
+Moses appealed, “My Rabb! I have indeed killed a man from them, so I fear they may kill me.
+
+## AI Tafsir
+
+**What this ayah teaches:** I have killed a man among them, and I fear that they will kill me.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

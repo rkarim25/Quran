@@ -91,6 +91,17 @@ Allah tells us that He did not create the creatures in vain; He created them to 
 
 In verse 28, it was said: أَمْ نَجْعَلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَالْمُفْسِدِينَ فِي الْأَرْ‌ضِ أَمْ نَجْعَلُ الْمُتَّقِينَ كَالْفُجَّارِ‌ (Shall We make those who believe and do righteous deeds equal to those who commit mischief on the earth? Or shall We make the God-fearing equal to the sinners?) - that is, this can never be. In fact, the end of both will be totally different. Right from here, we learn that this difference between a believer and disbeliever is there in terms of the injunctions of the Hereafter. While living in the present world, it is quite possible that a disbeliever has a lot more comforts than a believer. Likewise, it cannot be deduced thereby that the material rights of the disbeliever cannot be equal to the rights of the believer, instead, the truth of the matter is that a disbeliever could be allowed human rights equal to a believer. Accordingly, non-Muslim minorities who live in an Islamic state under mutual pledges shall be given all human rights that will be but equal to those of Muslim.
 
+## AI Translation
+
+Should We treat those who believe and do good like those who spread corruption in the land? Should We treat the righteous like the wicked?
+
+## AI Tafsir
+
+**What this ayah teaches:** Then woe to those who disbelieve from the Fire (27)Shall We treat those who believe and do righteous good deeds as those who cause mischief on the earth? Then Allah explains that because of His justice and wisdom, He does not treat the believers and the those who reject the truth equally.
+
+**Classical tafsir:** Ibn Kathir notes: Then Allah explains that because of His justice and wisdom, He does not treat the believers and the those who reject the truth equally.
+
+**From the Sunnah:** Accordingly, non-Muslim minorities who live in an Islamic state under mutual pledges shall be given all human rights that will be but equal to those of Muslim. (Sahih Muslim)
 ## Personal Reflections
 
 

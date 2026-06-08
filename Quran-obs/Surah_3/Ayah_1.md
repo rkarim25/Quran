@@ -118,6 +118,19 @@ It is narrated in some ahadith that some Christians came to the Holy Prophet ﷺ
 
 Lastly, while referring to the absolute power and wisdom of Allah Almighty, verse 6 invites one's attention to the fact that Allah shapes all men and women in the wombs of their mothers according to His supreme wisdom which has created billions of men and women with clear distinguishable features establishing the identity of each individual distinct from all others. He is, therefore, the only One who should be worshipped.
 
+## AI Translation
+
+These opening letters—known as the muqatta'at—are among the signs whose full meaning Allah kept with Himself. They open the surah by reminding the reader that this Book is from beyond human authorship: approach it with humility, not arrogance.
+
+## AI Tafsir
+
+**Context:** Surah Āl-'Imrān was revealed in Al-Madinah, as evident by the fact that the first eighty-three Ayat in it relate to the delegation from Najran that arrived in Al-Madinah on the ninth year of Hijrah (632 CE).
+
+**What this ayah teaches:** La ilaha illa Huwa, Al-Hayyul-Qayyum) in the Tafsir of Ayat Al-Kursi.
+
+**Classical tafsir:** Ibn Kathir notes: This is because of the indications, signs, plain evidences and clear proofs that it contains, and because of its explanations, clarifications, etc.
+
+**From the Sunnah:** Since the prayer was made in order that Muslims could confront and prevail over the those who reject the truth, it was in consonance with that prayer that, in the following Surah 'Al-` Imran, the text deals with the modalities of dealing with those who reject the truth, as well as, with…
 ## Personal Reflections
 
 

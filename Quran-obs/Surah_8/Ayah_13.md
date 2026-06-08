@@ -226,6 +226,17 @@ In the third verse (13), it was said that the reason for whatever happened durin
 
 In other words, what is being said here is: This is a little punishment from Us. So, taste it and better realize that, after this, the punishment of the fire of Jahannam is due to come for disbelievers, a punishment which is severe, lasting and unimaginable.
 
+## AI Translation
+
+That is because they defied Allah and His Messenger. Whoever defies Allah and His Messenger—know that Allah is severe in punishment.
+
+## AI Tafsir
+
+**Context:** (Remember) when He covered you with a slumber as a security from Him, and He caused water (rain) to descend on you from the sky, to clean you thereby and to remove from you the Rijz (whispering or dirt) of Shaytan, and t…
+
+**What this ayah teaches:** And whoever defies and disobeys Allah and His Messenger, then verily, Allah is severe in punishment (13)This is (the torment), so taste it; and surely, for the those who reject the truth is the torment of the Fire .
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, it appears that this will occur for the believers, whenever they are in distress, so that their hearts feel safe and sure of Allah's aid, rewards, favor and mercy from Allah with them.
 ## Personal Reflections
 
 

@@ -149,6 +149,15 @@ And according to some commentators, this reflects the state that will prevail in
 
 There is a lengthy Hadith in Tafsir Mazhari. It has been reported from Sayyidna Abu Hurairah ؓ with reference to Ibn Jarir, Musnad Abu Ya'la, al-Baihaqi, Musnad ` Abd Ibn Humaid and others. It mentions three soundings of the Horn on the day of Qiyamah. The first blowing of the Horn will cause consternation, the second, unconsciousness and the third, resurrection. The sonic outburst causing consternation will make the entire creation panic, then, this very outburst will become long enough to make everyone unconscious following which everyone will die. Generally, the combination of these two sonic outbursts has been called the first blowing of the Horn for the obvious reason that a single blowing will bring forth two manifestations, first - panic, then - swoon or unconsciousness. In this Hadith too, it has been mentioned that, at the time of the blowing causing consternation, people would be running around in panic: وَھُوَ الَّذِی یَقُولُ اللہ يَوْمَ التَّنَادِ (And that is what Allah says the day of myriad calls is) which tells us that, in this verse, the statement: يَوْمَ التَّنَادِ (yowm-ut-tanad) means people running around in panic at the time of the first blowing of the Horn. And Allah is Pure and High who knows best.
 
+## AI Translation
+
+the Day you will try in vain to turn your backs and run away, with no one to protect you from Allah. Whoever Allah leaves to stray will have no guide.
+
+## AI Tafsir
+
+**What this ayah teaches:** And whomsoever Allah sends astray, for him there is no guide (33)And indeed Yusuf did come to you, in times gone by, with clear signs, but you ceased not to doubt in that which he did bring to you, till when he died, you said: "No Messenger will Allah send after him." Thus Allah leaves astray him who is a transgressor and a skeptic (34)Those who dispute about the Ayat of Allah,…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

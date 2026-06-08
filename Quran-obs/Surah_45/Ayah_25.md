@@ -170,6 +170,15 @@ Reviling Time Is Inappropriate
 
 Atheists believed that ` Time' is the cause of life, death, vicissitudes of conditions and adversities, and also the cause of the revolution of the entire universe. Every happening used to be attributed to ` Time' by them as indicated in this verse, whereas the fact is that everything happens with the Divine will and volition. Therefore, authentic Traditions prohibit reviling of time. The power which the unbelievers describe as ` time' is in fact the Divine power. When people curse or revile time for their adversities, they are in fact directing their reproach to Allah. The Messenger of Allah said: "Do not revile time because time actually is Allah." The ignorant who claim that a particular work was done by time is actually the work of Divine power - time is nothing. It does not necessarily follow from this proposition that ad-dahr is one of the names of Allah. Here Allah is referred to as ad-dahr metaphorically or figuratively.
 
+## AI Translation
+
+Whenever Our clear revelations are recited to them, their only argument is: "Bring our forefathers back, if what you say is true!"
+
+## AI Tafsir
+
+**What this ayah teaches:** The Messenger of Allah said: "Do not revile time because time actually is Allah." The ignorant who claim that a particular work was done by time is actually the work of Divine power - time is nothing. This was the creed of Arab idolators who used to deny Resurrection, in addition to, the creed of the atheist philosophers among them who denied the creation and Resurrection.
+
+**Classical tafsir:** Ibn Kathir notes: The Messenger of Allah said: "Do not revile time because time actually is Allah." The ignorant who claim that a particular work was done by time is actually the work of Divine power - time is nothing.
 ## Personal Reflections
 
 

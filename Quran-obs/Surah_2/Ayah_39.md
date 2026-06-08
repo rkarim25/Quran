@@ -102,6 +102,15 @@ Nor does this verse imply that prophets and saints should not feel the instincti
 
 But it was only an instinctive and physical fear, and the incident anyhow belongs to the early days of his prophethood, for when Allah said: لَا تَخَفْ : 'Do not be afraid', the fear disappeared altogether. We may explain the incident in another way also. His fear did not arise as it does in the case of ordinary men, from the apprehension of some harm or hurt from the dragon, but from the likelihood that the extraordinary event might lead the Israelites into misguidance. So, this fear was not worldly, but other-worldly.
 
+## AI Translation
+
+But those who reject and deny Our signs — they are the people of the Fire, remaining in it forever.
+
+## AI Tafsir
+
+**What this ayah teaches:** They shall abide therein forever), meaning, they will remain in Hell for eternity and will not find a way out of it. The 'friends of Allah' do not have to grieve, because they annihilated their own desires and their very will in submitting themselves totally to the will of Allah.
+
+**Classical tafsir:** Ibn Kathir notes: The 'friends of Allah' do not have to grieve, because they annihilated their own desires and their very will in submitting themselves totally to the will of Allah.
 ## Personal Reflections
 
 

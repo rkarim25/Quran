@@ -128,6 +128,19 @@ Qatadah said, "Al-Hasan used to say, 'How evil is that all that some people have
 
 The phrase كِتَابٍ مَّكْنُونٍ 'a protected book' refers to lawh mahfuz [ i.e. the Preserved Tablet ].
 
+## AI Translation
+
+in a well-preserved Record,
+
+## AI Tafsir
+
+**Context:** (That (this) is indeed an honorable recitation.) means, verily, this Qur'an that was revealed to Muhammad ﷺ is a Glorious Book,
+
+**What this ayah teaches:** I swear by the Mawaqi' of the stars (75)And verily that is indeed a great oath, if you but know (76)That (this) is indeed an honorable recitation (77)In a Book Maknun (78)Which none touches but the pure ones (79)A revelation from the Lord of all that exists (80)Is it such a talk that you are Mudhinun (81)And you make your provision your denial .
+
+**Classical tafsir:** Ibn Kathir notes: I swear by the Mawaqi' of the stars.) Mujahid said, "The setting positions of the stars in the sky," and he said that it refers to the rising and setting positions.
+
+**From the Sunnah:** Allah's Messenger ﷺ did not touch any woman's hand at all.
 ## Personal Reflections
 
 

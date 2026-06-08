@@ -187,6 +187,15 @@ These were particular segments of the story that were neither described by the Q
 
 Up to this point, the Qur'an had mentioned this story in brief. Details follow.
 
+## AI Translation
+
+So We caused them to fall into a dead sleep in the cave for many years,.
+
+## AI Tafsir
+
+**What this ayah teaches:** Muhammad bin Ishaq said: "(It means) I have not shown My creatures a proof more amazing than the story of the people of the Al-Kahf and Ar-Raqim." Al-Kahf refers to a cave in a mountain, which is where the young men sought refuge.
+
+**Classical tafsir:** Ibn Kathir notes: Ad-Dahhak said: "As for Al-Kahf, it is a cave in the valley, and Ar-Raqim is the name of the valley." Mujahid said, "Ar-Raqim refers to their buildings." Others said it refers to the valley in which their cave was.
 ## Personal Reflections
 
 

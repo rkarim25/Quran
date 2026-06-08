@@ -116,6 +116,17 @@ The literal meaning of the word Kufr is thanklessness and in conventional sense 
 
 Hence, the sequence of mutual killing which had commenced with the Shahadah (martyrdom) of Sayyidna ` Uthman' ؓ has continued in the Ummah throughout. Similarly, the way assassins of ` Uthman ؓ acted against the blessings of Allah Ta’ ala and solidarity of Islam and were ungrateful to Him, the Rawafid and Khawarij did the same after that by grouping against the Guided Khulafa'. The incident of great sacrifice of Sayyidna Husain Ibn Ali ؓ also happened under the same sequence نسال اللہ الھدایہ و شکر نعمتۃ
 
+## AI Translation
+
+Do not think O Prophet that those who reject the truth can escape in the land. The Fire will be their home. Indeed, what an evil destination!
+
+## AI Tafsir
+
+**What this ayah teaches:** Their abode shall be the Fire – and worst indeed is that destination .
+
+**Classical tafsir:** Ibn Kathir notes: The literal meaning of the word Kufr is thanklessness and in conventional sense it is the antonym of faith.
+
+**From the Sunnah:** Allah commands His believing servants to establish prayer, which means worshipping Allah Alone with no partner or associate; to pay the Zakah, which is an act of kindness towards His poor and weak creatures; and by doing so to obey the Messenger of Allah ﷺ, i.… After narrating this Ibn Kathir has commented that this hadith is pointing that there will be twelve upright caliphs in the Muslim Ummah, which is bound to happen. (Sahih Muslim)
 ## Personal Reflections
 
 

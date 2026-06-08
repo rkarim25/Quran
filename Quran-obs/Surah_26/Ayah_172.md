@@ -68,6 +68,15 @@ Except an old woman among those who remained behind. - 26:171
 
 The word 'old woman' is used for the wife of Sayyidna Lut علیہ السلام who was an infidel and was agreeable to the unnatural act of the people of Lut (علیہ السلام) If the wife of Lut (علیہ السلام) was an old woman then the use of this word for her is quite clear, but if she was not old, then perhaps she was called 'old woman' for the reason that the prophet's wife is regarded like the mother of the Ummah, and to call a woman having many children as old is not unlikely.
 
+## AI Translation
+
+Then We utterly destroyed the rest,.
+
+## AI Tafsir
+
+**What this ayah teaches:** "Go you in unto the males of Al-'Alamin (people), (165)"And leave those whom Allah has created for you to be your wives?
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

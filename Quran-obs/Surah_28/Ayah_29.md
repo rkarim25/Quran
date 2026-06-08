@@ -223,6 +223,15 @@ Commentary
 
 فَلَمَّا قَضَىٰ مُوسَى الْأَجَلَ (So When Musa (علیہ السلام) completed the term - 28:29). Then Sayyidna Musa (علیہ السلام) completed his term of service, which was eight years compulsory and two years optional. A question arises here, whether he completed eight years of service or ten years. Sahih al-Bukhari has reported that when this question was put to Sayyidna Ibn ` Abbas ؓ ، he answered ten years, and added that prophets always fulfill their commitments, rather they do more than what they agree to. The Holy Prophet ﷺ was also in the habit of giving more than due to the one having a right. He has also advised the Ummah to be selfless and considerate in the matters of employment, wages, and business dealings.
 
+## AI Translation
+
+When Moses had completed the term and was travelling with his family, he spotted a fire on the side of Mount Ṭûr. He said to his family, “Stay here, for I have spotted a fire. Perhaps from there I can bring you some directions or a torch from the fire so you may warm yourselves.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, I am Allah, the Lord of all that exits!) meaning, 'the One Who is addressing you and speaking to you is the Lord of all that exits, the One Who does what He wills, the One apart from Whom there is no other Allah or lord, may He be exalted and sanctified, the One Who by His very nature, attributes, words and deeds is far above any resemblance to His creation, may He be glo…
+
+**Classical tafsir:** Ibn Kathir notes: This indicates that when Musa headed for the fire, he headed in the direction of the Qiblah with the western mountain on his right.
 ## Personal Reflections
 
 

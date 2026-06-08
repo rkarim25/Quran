@@ -146,6 +146,17 @@ So we say, just as the believers among the Jinns said, "O Allah! None of Your fa
 
 Having created man, uncountable bounties are bestowed upon him. Of them, imparting the knowledge of expression has been mentioned especially, because the bounties necessary for man's growth and development, and his existence and survival like his food and water, his protection against cold and heat, his dwelling arrangements and so on are bounties in which all creatures are equal partners. Among the bounties that are peculiar to human beings Knowledge of the Qur'an has been mentioned first, and it was followed by the knowledge of expressions, because deriving benefit from the Qur'an, and imparting it to others, is dependent on the knowledge of expression. The word bayan ('how to express himself) comprehends all the means of communication created by Allah, like speech, writing etc. There are various languages and dialects of various nations in various regions of the world. All these are constituent parts of linguistic knowledge which is the practical interpretation or application of the verse عَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا (And He taught Adam (علیہ السلام) the names, all of them) [ 2:31] فَتَبَارَ‌كَ اللَّـهُ أَحْسَنُ الْخَالِقِينَ
 
+## AI Translation
+
+He created humanity—your very existence is itself among His greatest blessings.
+
+## AI Tafsir
+
+**What this ayah teaches:** The word bayan ('how to express himself) comprehends all the means of communication created by Allah, like speech, writing etc.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "An-Najm (the star); the one that is in the sky." Al-Hasan and Qatadah said similarly. Ibn Jurayj reported that Ibn 'Abbas said said Al-Akmam, means sheathed fruit stalks. The word bayan ('how to express himself) comprehends all the means of communication created by Allah, like speech, writing etc.
+
+**From the Sunnah:** a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! (Musnad Ahmad) it and he said, "This Hadith is Gharib." Al-Hafiz Abu Bakr Al-Bazzar also collected this Hadith. (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

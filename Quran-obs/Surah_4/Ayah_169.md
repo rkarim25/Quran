@@ -136,6 +136,17 @@ It has been narrated by Sayyidna Ibn ` Abbas ؓ عنہما that a group of Jews 
 
 The text, after having confirmed the veracity of the glorious Qur'an and the noble Prophet ﷺ ، turns to those who still deny them, conceal his character traits and circumstantial indicators of his appearance present in the Torah .and, sordidly enough, try to keep others away from the true faith by bringing out before them things which are not there or things .which have .been jumbled together to distort the truth. For such people, there shall be no forgiveness and no guidance either. Thus, it becomes very clear that guidance or the ability to find the straight path depends on following the Holy Prophet ﷺ and straying away, whatever be its nature, is nothing but hostility towards him. This, then, comprehensively refutes all erroneous ideas of the Jews.
 
+## AI Translation
+
+Those who reject the truth and wrong themselves—surely Allah will neither forgive them nor guide them to any path except that of Hell, to stay there for ever and ever. And that is easy for Allah.
+
+## AI Tafsir
+
+**Context:** It has been narrated by Sayyidna Ibn ` Abbas ؓ عنہما that a group of Jews came to the Holy Prophet ﷺ . He said to them: Surely, you do know that I am a true messenger of Ajllah?
+
+**What this ayah teaches:** After the very witnessing of the All-Knowing, All-Aware Allah, there is nothing left to argue about.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, there has come to you the Messenger with the truth from your Lord, so believe in him, it is better for you.) This Ayah means, Muhammad ﷺ has come to you with guidance, the religion of truth and clear proof from Allah.
 ## Personal Reflections
 
 

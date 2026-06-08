@@ -90,6 +90,15 @@ Allah mentions the mighty signs and immense blessings to be found in His subject
 
 Then, in verse 13, after mentioning all other varied produce of the land, it was said: إِنَّ فِي ذَٰلِكَ لَآيَةً لِّقَوْمٍ يَذَّكَّرُ‌ونَ (Surely, in that, there is a sign for a people who accept advice). The sense is that no deep thinking is needed here as well - because, the proof has been furnished openly. But, the condition is that one must look at it carefully and learn his lesson. Otherwise, one who has no sense or concern and who just pays no attention could hardly hope to benefit from it.
 
+## AI Translation
+
+And He subjected for you whatever He has created on earth of varying colours. Surely in this is a sign for those who are living with taqwa.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, His is the creation and commandment.
+
+**Classical tafsir:** Ibn Kathir notes: The sense is that no deep thinking is needed here as well - because, the proof has been furnished openly.
 ## Personal Reflections
 
 

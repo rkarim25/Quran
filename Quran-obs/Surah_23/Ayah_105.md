@@ -90,6 +90,15 @@ This is a rebuke from Allah to the people of Hell for the disbelief, sins, unlaw
 
 وَهُمْ فِيهَا كَالِحُونَ And they will be disfigured therein - 23:104). The word is used for a person whose lips do not meet and leave his teeth fully exposed, which looks very ugly. It is said that the upper lip of a person consigned to Hell will be drawn up and his lower lip will be drawn down so that his teeth will remain visible at all times.
 
+## AI Translation
+
+It will be said, “Were My revelations not recited to you, but you used to deny them?”
+
+## AI Tafsir
+
+**What this ayah teaches:** The word is used for a person whose lips do not meet and leave his teeth fully exposed, which looks very ugly.
+
+**Classical tafsir:** Ibn Kathir notes: Rebuking the People of Hell, Their Admission of Their Wretchedness and Their Request to Be Brought out of Hell This is a rebuke from Allah to the people of Hell for the disbelief, sins, unlawful deeds and evil actions that they committed, because of which they were doomed.
 ## Personal Reflections
 
 

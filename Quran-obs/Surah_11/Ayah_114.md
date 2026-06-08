@@ -217,6 +217,15 @@ In fact, these Ahadith tell us about the preferred method of repenting from a si
 
 In the last sentence of the verse (114): ذَٰلِكَ ذِكْرَ‌ىٰ لِلذَّاكِرِ‌ينَ (That is a reminder for the mindful), the word: ذَٰلِكَ (dhalik) could be referring to the Holy Qur'an, and to the do's and don'ts both, which have been mentioned earlier. The sense is that this Qur'an, or its injunctions referred to above, are guidance and good counsel for those who listen to and are used to obeying it. The hint embedded here is that a person, who is so compulsively obstinate that he would just not think about anything reasonable, remains deprived of every guidance.
 
+## AI Translation
+
+establish salah O Prophet at both ends of the day and in the early part of the night. Surely good deeds wipe out evil deeds. That is a reminder for the living with taqwa.
+
+## AI Tafsir
+
+**Context:** (They are the approach of the night: Maghrib and 'Isha'.) The same was said by Mujahid, Muhammad bin Ka'b, Qatadah and Ad-Dahhak (that this means the Maghrib and 'Isha' prayers).
+
+**What this ayah teaches:** In one narration reported by Qatadah, Ad-Dahhak and others, Al-Hasan said, "It means the morning prayer (Subh) and the late afternoon prayer ('Asr)." Mujahid said, "It is the morning prayer at the beginning of the day and the noon prayer (Zuhr) and late afternoon prayer ('Asr) at the end of the day." This was also said by Muhammad bin Ka'b Al-Qurazi and Ad-Dahhak in one narrati…
 ## Personal Reflections
 
 

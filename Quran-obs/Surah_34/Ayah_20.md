@@ -96,6 +96,15 @@ The concluding statement in verse 19: إِنَّ فِي ذَٰلِكَ لَآي�
 
 Some commentators have taken the word: صَبَّارٍ‌ (Sabbar: very patient) in the general sense of sabr or patience - which includes remaining firm in all acts requiring obedience as well as abstaining from sins. In the light of this tafsir or explanation, a true believer remains comprehensively attuned to Sabr (patience) and shukr (gratitude) under all conditions and then, for that matter, every sabr is shukr and every shukr is sabr. Allah knows best.
 
+## AI Translation
+
+Iblis's assumption about them came true: they followed him, all except a group of true believers.
+
+## AI Tafsir
+
+**What this ayah teaches:** And indeed Iblis did prove true his thought about them, and they followed him, all except a group of true believers (20)And he had no authority over them, – except that We might test him who believes in the Hereafter, from him who is in doubt about it.
+
+**Classical tafsir:** Ibn Kathir notes: Because of this divergence, Banu ` Uthman were given the title of Khuza'ah.
 ## Personal Reflections
 
 

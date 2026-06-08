@@ -166,6 +166,17 @@ important note
 
 In relation to issues of religious beliefs embedded in this verse, it must be borne in mind that the statement: مَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ (What is there, after truth, but error?) proves that there is no intermediary link between truth and error. What is not the truth will be included in error and straying. There can be no such thing that is neither truth nor error. And it is also not possible that two opposite things could be the truth. This is an established rule in the sight of the majority of scholars in the Muslim Ummah. However, difference exists among ` Ulama' regarding minor and subsidiary juristic issues. In the view of some of them, both sides would be considered as on truth in Ijtihad-based issues and, according to the majority of them, there is consensus on the view that the taking of contra-position in Ijtihad-based problems cannot be termed as error and straying.
 
+## AI Translation
+
+Some of them will eventually believe in it; others will not. And your Rabb knows best the corruptors.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then see what was the end of the wrongdoers (39)And of them there are some who believe therein; and of them there are some who believe not therein, and your Lord is All-Aware of the mischief-makers .
+
+**Classical tafsir:** Ibn Kathir notes: So those who believed among them, believed because of what they knew and felt in the Book, including its beauty, elegance, benefit, and fluency.
+
+**From the Sunnah:** This is an established rule in the sight of the majority of scholars in the Muslim Ummah. (Sahih Muslim)
 ## Personal Reflections
 
 

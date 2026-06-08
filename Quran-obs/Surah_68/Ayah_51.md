@@ -276,6 +276,19 @@ Surah Al-Qalam
 
 Ends here
 
+## AI Translation
+
+The those who reject the truth would almost strike you down with their eyes when they hear the Reminder, and say: 'He is certainly mad.'
+
+## AI Tafsir
+
+**Context:** Imam Baghawi (رح) and some other commentators have reported another event as background of this verse. The evil eye is a reality which causes loss, illness and destruction.
+
+**What this ayah teaches:** For He (Allah) is the One Whose execution of divine decree cannot be resisted. He was instructed to cast the evil eye on the Messenger of Allah ﷺ so that he would become ill.
+
+**Classical tafsir:** Ibn Kathir notes: For He (Allah) is the One Whose execution of divine decree cannot be resisted.
+
+**From the Sunnah:** Imam Muslim also recorded this Hadith in his Sahih on the authority of Buraydah himself, but he did not attribute it to the Prophet ﷺ. (Sahih al-Bukhari, Sahih Muslim) Muslim was alone in recording this Hadith, as Al-Bukhari did not mention it. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

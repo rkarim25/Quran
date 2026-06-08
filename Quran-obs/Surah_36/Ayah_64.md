@@ -100,6 +100,15 @@ Al-'Awfi reported that Ibn 'Abbas, may Allah be pleased with him, said; "We coul
 
 In verse 60, it was said: أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَن لَّا تَعْبُدُوا الشَّيْطَانَ (Did I not direct you, 0 children of 'Adam, that you must not worship the Shaitan, (because) he is an open enemy for you,- 36:60). In other words, this would be said on the day of Qiyamah to all human beings, (even to the Jinn). But, the question remains that the disbelievers did not generally worship the Shaitan. They worshipped idols or other things. Therefore, how does this blame fall on them? The answer is that submitting before some entity in the absolute sense and to obey that entity in word and deed in everything and under all conditions is nothing but worship. Since these people always followed Shaitanic teachings, therefore, they were called the worshipers of the Shaitan - as said in Hadith that a person who, driven by love for money or spouse, starts doing everything that would increase wealth or please the spouse, even at the cost of the displeasure of Allah, is an obedient servant of the silver coin and the obedient servant of the spouse (Abd-ud-dirham, Abd-uz-zawjah).
 
+## AI Translation
+
+Burn in it today for your rejection of the truth."
+
+## AI Tafsir
+
+**What this ayah teaches:** This is Hell which you were promised (63)Burn (enter) therein this Day, for that you used to disbelieve (64)This Day, We shall seal up their mouths, and their hands will speak to Us, and their legs will bear witness to what they used to earn (65)And if it had been Our will, We would surely have wiped out their eyes, so that they would struggle for the path, how then would they see (66)And if it ha…
+
+**Classical tafsir:** Ibn Kathir notes: In other words, this would be said on the day of Qiyamah to all human beings, (even to the Jinn).
 ## Personal Reflections
 
 

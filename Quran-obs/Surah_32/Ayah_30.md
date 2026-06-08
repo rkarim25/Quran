@@ -116,6 +116,15 @@ Surah As-Sajdah
 
 Ends here.
 
+## AI Translation
+
+So turn away from them and wait. They too are waiting.
+
+## AI Tafsir
+
+**Context:** (So turn aside from them and await, verily, they (too) are awaiting.) meaning, 'turn away from these idolators, and convey that which has been revealed to you from your Lord.' This is like the Ayah, (Follow what has been…
+
+**What this ayah teaches:** You will see the consequences of your patience towards them, and the fulfillment of the promise of your Lord in your victory over them, and they will see the consequences of their wait for something bad to befall you and your Companions, in that Allah's punishment will come upon them.' Sufficient unto us is Allah, and He is the Best Disposer of affairs.
 ## Personal Reflections
 
 

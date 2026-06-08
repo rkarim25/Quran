@@ -130,6 +130,17 @@ Allah's saying:
 
 وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَيْلَكُمْ (And said those who were given knowledge - 28:80). This verse has compared the knowledgeable persons with الَّذِينَ يُرِ‌يدُونَ الْحَيَاةَ الدُّنْيَا (Those who are desirous of the worldly life - 28:79), which clearly indicates that it is not the trait of knowledgeable persons to aspire for the acquisition of wealth and to make it the object of life. They always keep their eyes toward the lasting benefits of the Hereafter. As for the mundane wealth, they take it only to fulfill their day-to-day needs, and stay content with that.
 
+## AI Translation
+
+Then We caused the earth to swallow him up, along with his home. There was no one to help him against Allah, nor could he even help himself.
+
+## AI Tafsir
+
+**What this ayah teaches:** Had it not been that Allah was Gracious to us, He could have caused the earth to swallow us up! So, We caused the earth to swallow him and his dwelling place.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** his father told him that the Messenger of Allah ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
 
 

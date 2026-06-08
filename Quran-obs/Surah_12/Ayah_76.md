@@ -227,6 +227,17 @@ The statement: وَلِمَن جَاءَ بِهِ حِمْلُ بَعِيرٍ‌
 
 3. The sentence: كَذَٰلِكَ كِدْنَا لِيُوسُفَ (This is how We planned for Yusuf) in verse 76 tells us that it is permissible, for a valid reason recognized by Shari’ ah, to change the form of a transaction in a way that it brings a change in its legal status. According to the terminology of the fuqaha' (jurists) it is called 'Hilah Shar` iah' (i.e. a lawful device to avoid a real hardship). However, the condition is that such an action should not cause the invalidation of the injunctions of the Shari’ ah. If so, all such devices are, by the consensus of Muslim jurists, Haram and unlawful - for example, finding an excuse to avoid paying Zakah, or to embark on an unnecessary journey before or during Ramadan simply to seek an excuse for not fasting. This is universally Haram. The hunt for such excuses and devices has brought Divine punishment on some nations, and the Holy Prophet ﷺ has prohibited the use of such stratagems. The entire Muslim Ummah agrees that they are Haram, forbidden and unlawful. Acting upon them does not go on to make whatever is done as permissible. In fact, what falls on the doer is a twofold sin - firstly, that of the original impermissible act; secondly, that of the impermissible device which amounts, in a way, to cheating Allah and His Rasul. That all such hiyal or strategems are impermissible has been proved by Imam Al-Bukhari in his Kitab al Hiyal.
 
+## AI Translation
+
+Joseph began searching their bags before that of his brother Benjamin, then brought it out of Benjamin’s bag. This is how We inspired Joseph to plan. He could not have taken his brother under the King’s law, but Allah had so willed. We elevate in rank whoever We will. But above those ranking in knowledge is the One All-Knowing.
+
+## AI Tafsir
+
+**What this ayah teaches:** He could not take his brother by the law of the king (as a slave), except that Allah willed it.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Allah is the All-Knowing and His knowledge is above the knowledge of every knowledgeable person.' Simak narrated that 'Ikrimah said that Ibn 'Abbas said about Allah's statement, The related ruling, according to the majority of Muslim jurists, provides that the creditor has the authority to recover his property from the person legally in debt, or from the guarantor, as he chooses. (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -325,6 +325,17 @@ This is the elegance of prophets. Not only that they would be patient against pa
 
 After having reduced the tale of his trials in three words, Sayyidna Yusuf (علیہ السلام) said:إِنَّ رَ‌بِّي لَطِيفٌ لِّمَا يَشَاءُ ۚ إِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ (Surely, my Lord does what He wills, in a subtle way. Surely, He is the All-Knowing, the All-Wise - 12:100).
 
+## AI Translation
+
+Then he raised his parents to the throne, and they all fell down in prostration to Joseph, who then said, “O my dear father! This is the interpretation of my old dream. My Rabb has made it come true. He was truly kind to me when He freed me from prison, and brought you all from the desert after Satan had ignited rivalry between me and my siblings. Indeed my Rabb is subtle in fulfilling what He wills. Surely He alone is the All-Knowing, All-Wise.”
+
+## AI Tafsir
+
+**What this ayah teaches:** This is confirmed by Hadith reports from Al-Bukhari and Muslim that Sajdah (prostration) for anyone other than Allah is not Halal.
+
+**Classical tafsir:** Ibn Kathir notes: My Lord has made it come true!) using the word, 'Ta'wil', to describe what became of the matter, later on.
+
+**From the Sunnah:** The implication of this statement was collected from Qatadah and other scholars. This is confirmed by Hadith reports from Al-Bukhari and Muslim that Sajdah (prostration) for anyone other than Allah is not Halal. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

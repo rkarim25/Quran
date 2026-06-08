@@ -221,6 +221,17 @@ Finally, the verse says: وَلَا يَكْتُمُونَ اللَّـهَ حَ
 
 Sayyidna Ibn ` Abbas ؓ was asked: "At one place, the Holy Qur'an says: 'And they shall not conceal anything from Allah' (4:42); while, at another place, it says: 'By Allah, Our Lord, we were no mushriks' (6:23) - Is there, as it seems, any contradiction between the two verses?" To this he replied: What will happen is that when the disbelievers will begin to see that nobody except true Muslims is being admitted into the Paradise they would decide to refuse point-blank that they had ever committed shirk or any other evil deed, in the hope that the plan works and results in their salvation. But, soon after this refusal of theirs, the very parts of their body would testify against them, which would totally frustrate their plan to conceal the truth about their deeds. That will be the time when they will confess every-thing. Hence: "They shall not conceal anything from Allah".
 
+## AI Translation
+
+On that Day, those who denied and disobeyed the Messenger will wish they were reduced to dust. And they will never be able to hide anything from Allah.
+
+## AI Tafsir
+
+**Context:** Al-Bukhari recorded that 'Abdullah bin Mas'ud said, "The Messenger of Allah ﷺ said to me, 'Recite to me.' I said, 'O Messenger of Allah!
+
+**What this ayah teaches:** Allah wrongs not even of the weight of a speck of dust, but if there is any good (done), He doubles it, and gives from Him a great reward (40)How (will it be) then, when We bring from each nation a witness and We bring you (O Muhammad) as a witness against these people (41)On that day those who disbelieved and disobeyed the Messenger will wish that they were buried in the earth…
+
+**Classical tafsir:** Ibn Kathir notes: That day they would wish to go extinct rather than face its ordeal, to become a patch of the earth underneath, or wish that the earth would crack open, suck them in leaving nothing on top but dust mingled with dust, so that they would be delivered of the scrutiny and retribution…
 ## Personal Reflections
 
 

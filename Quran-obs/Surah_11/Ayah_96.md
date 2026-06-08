@@ -118,6 +118,17 @@ verse of the Qur'an: تِسْعَةُ رَ‌هْطٍ يُفْسِدُونَ ف�
 
 During the Khilafah of Sayyidna ` Umar ibn ` Abd al-` Aziz (رح) ، someone was arrested while he was cutting a dirham coin. He was awarded a punishment of lashes and was paraded around head shaved. (Tafsir al Qurtubi)
 
+## AI Translation
+
+Indeed, We sent Moses with Our signs and compelling proof.
+
+## AI Tafsir
+
+**What this ayah teaches:** And indeed We sent Musa with Our Ayat and a manifest authority (96)To Fir'awn and his chiefs, but they followed the command of Fir'awn, and the command of Fir'awn was no right guide (97)He will go ahead of his people on the Day of Resurrection, and will lead them into the Fire, and evil indeed is the place to which they are led (98)They were pursued by a curse in this (deceivin…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** There is a consensus of the entire Muslim Ummah that doing so is strictly Haram (unlawful). (Sahih Muslim)
 ## Personal Reflections
 
 

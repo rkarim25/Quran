@@ -139,6 +139,15 @@ This verse invites attention to the fact that the birds have weight, and in term
 
 Thus far the conditions of various categories and species of existent beings were analysed and considered in order to provide evidence of Divine existence, His Oneness, His unique knowledge and power. If a fair-minded person were to consider them carefully, he will have no choice but to believe in Allah. From the next verse up to the end of the Surah, the non-believers and the unrighteous people of all categories are warned of the Divine scourge. First, they are admonished that if Allah decides to punish any nation, there is no power in the world that can stop Him. There is no fighting force or army of soldiers that can come to the support of the disbelievers and save them. Thus the next verse says:
 
+## AI Translation
+
+Have they not seen the birds above them, spreading and folding their wings? None holds them up except the Rahman. He is All-Seeing of everything.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then you shall know how has been My warning (17)And indeed those before them rejected, then how terrible was My reproach (18)Do they not see the birds above them, spreading out their wings and folding them in? None upholds them except the ar-Rahman.
+
+**Classical tafsir:** Ibn Kathir notes: He is able to punish them because some of them disbelieve in Him and worship others besides Him, yet He is forbearing, He pardons, and He gives respite for an appointed time without hastening.
 ## Personal Reflections
 
 

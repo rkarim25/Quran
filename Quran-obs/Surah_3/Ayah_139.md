@@ -178,6 +178,17 @@ In other words, the object was to impress upon Muslims that they should not wast
 
 This call of the Qur'an made broken hearts throb again. Sulking bodies were aglow with a fresh spirit. Just- imagine how Allah Almighty groomed the men carrying His message and gave Muslims for all times to come a principle and a rule of procedure whereby it was made necessary that Muslims should never shed tears over dead issues. Instead, they should do all they can to get together the means to strength and power. Then, right along with it, it was made very clear that supremacy and glory can be achieved through one, and only one, basic source, which is, having faith and fulfilling its demands. The demands of Faith include among other things, preparations which must be made in view of an impending war. It means that it is necessary to consolidate military power, assemble and make ready all relevant hardware, and harness all other means to that end, of course, in proportion to ability and capacity. The events of the Battle of Uhud, from the beginning to the end, are a testimony to all these considerations.
 
+## AI Translation
+
+Do not falter or grieve, for you will have the upper hand, if you are those who have iman.
+
+## AI Tafsir
+
+**What this ayah teaches:** This is a plain statement for mankind), meaning, the Qur'an explains the true reality of things and narrates how the previous nations suffered by the hands of their enemies. They are being told that, under the customary practice of Allah, the those who reject the truth are the ultimate losers; it does not matter if Muslims have not scored a victory at this time because of their strategic mistake, but should the…
+
+**Classical tafsir:** Ibn Kathir notes: This is a plain statement for mankind), meaning, the Qur'an explains the true reality of things and narrates how the previous nations suffered by the hands of their enemies.
+
+**From the Sunnah:** Paradise before Allah knows (tests) those of you who performed Jihad and knows (tests) those who are patient (142)You did indeed wish for death before you met it.
 ## Personal Reflections
 
 

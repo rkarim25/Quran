@@ -94,6 +94,17 @@ After the miraculous victory of the Israelites over Pharaoh and his people, and 
 
 The next verses remind them of their pitiable condition and their persecutions at the hands of Pharaoh when their sons were killed and their daughters were saved to serve them as their maid-servants. Allah relieved them of this disgraceful chastisement through His prophet. Shall they be as ungrateful to their Lord as to take the abject stones as gods and make them partners with Allah? They must repent to Allah for their transgression.
 
+## AI Translation
+
+What they follow is certainly doomed to destruction and their deeds are in vain.”
+
+## AI Tafsir
+
+**What this ayah teaches:** And all that they are doing is in vain.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Commenting on this Ayah, Imam Abu Ja'far bin Jarir reported from Abu Waqid Al-Laythi that they (the Companions) went out from Makkah with the Messenger of Allah ﷺ for (the battle of) Hunayn.
 ## Personal Reflections
 
 

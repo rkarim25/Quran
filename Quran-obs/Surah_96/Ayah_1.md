@@ -126,6 +126,19 @@ The temporary break of revelation, according to Suhaili, lasted for about a year
 
 Verse [ 1] اقْرَ‌أْ بِاسْمِ رَ‌بِّكَ الَّذِي خَلَقَ (Read with the Name of your Lord, Who created [ everything ]) In the prepositional phrase bismi rabbika [ with the name of your Lord ], the addition of the word ismi is significant in two ways [ 1] that whenever the Qur'an is being recited, the reader should begin by reciting the formula , بسم اللہ الرحمٰن الرحیم "With the name of Allah, the All-Merciful, the Very-Merciful". When Jibra'il Amin (علیہ السلام) suddenly appeared to the Holy Prophet ﷺ and said 'iqra' (read) , he tendered apology that he is unable to read or recite, because he is unlettered. The phrase b-ismi rabbika points to the fact that under present circumstances you, 0 Holy Prophet ﷺ ، may be 'ummiyy' or unlettered, but Allah has the power to grant you the highest level of knowledge, the most elegant style of oration and eloquence, so that you would surpass and subdue the most educated or literate people, as it became manifest later on. [ Mazhari ]. [ 2] Allah has many Beautiful Names, but the blessed name rabb is particularly chosen in the verse here probably because it supports and emphasizes the theme that Allah cherishes and sustains the Holy Prophet through all the different stages of his development, until he is fully consummated. He can make him read and recite, despite being unlettered. In the relative clause al-ladhi khalaqa [ Who created ], particularly contains the Divine attribute of takhliq [ creating ] presumably because the first Divine favor is wujud or 'existence' as a result of His drawing out beings from the realm of non-existence into the realm of existence. Many other favors of His follow. The verb khalaqa [ created ] is transitive and it requires an object that is absent here. This indicates the verb is used absolutely, and it signifies that the Creator has created the entire universe and every existent thing it contains.
 
+## AI Translation
+
+Read—in the name of your Rabb who created—
+
+## AI Tafsir
+
+**Context:** It is universally agreed that the first five verses of Surah Al-` Alaq or Iqra' mark the very beginning of Qur’ anic revelation. [ Baghawi ].
+
+**What this ayah teaches:** The verb khalaqa [ created ] is transitive and it requires an object that is absent here.
+
+**Classical tafsir:** Ibn Kathir notes: This indicates the verb is used absolutely, and it signifies that the Creator has created the entire universe and every existent thing it contains.
+
+**From the Sunnah:** that 'A'ishah said: The first thing that began happening with the Messenger of Allah ﷺ from the revelation was dreams that he would see in his sleep that would come true. (Musnad Ahmad) He died and the revelation paused until Allah's Messenger ﷺ became sad according to what we were told.
 ## Personal Reflections
 
 

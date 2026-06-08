@@ -185,6 +185,19 @@ And Imam Juwaini said that the rule about the word: صَلوٰۃ (Salah) is the 
 
 A detailed discussion about the injunctions of Salah and Salam appears in the treatise Tanqih-ul-kalam fi Ahkam-is-Salah was-salam written by this humble author. It was published as part of the commentary on Surah Al-Ahzab in the major work Ahkam-ul- Qur'an in Arabic.
 
+## AI Translation
+
+Surely those who offend Allah and His Messenger are condemned by Allah in this dunya and the Akhirah. And He has prepared for them a humiliating punishment.
+
+## AI Tafsir
+
+**Context:** (Verily, those who annoy Allah and His Messenger,) was revealed concerning those who make pictures or images. (Verily, those who annoy Allah and His Messenger,) was revealed about those who slandered the Prophet ﷺ over h…
+
+**What this ayah teaches:** Verily, those who annoy Allah and His Messenger, Allah has cursed them in this world and in the Hereafter, and has prepared for them a humiliating torment (57)And those who annoy believing men and women undeservedly, they bear the crime of slander and plain sin .
+
+**Classical tafsir:** Ibn Kathir notes: Who can claim to mention the name of the Holy Prophet ﷺ more frequently than the scholars of the Hadith?
+
+**From the Sunnah:** The real purpose of the verse was to obligate Muslims to send Salah (durood) and Salam upon the Holy Prophet ﷺ .
 ## Personal Reflections
 
 

@@ -131,6 +131,19 @@ Similarly, if someone were to utter (God forbid) a word of disbelief (kufr) in a
 
 In short, when the soul is being drawn out and the certain knock of death is on, that time is not counted in the life one lives in this world. Nothing done at that time is valid in terms of the Shari'ah. However, everything is, if done before that. But, those who see this transition from one world to the other have to be very cautious. It is possible to make a mistake in determining the correct situation. Is this the time of the drawing of the soul from the body (naz'atu'r-ruh)? Or, is it the last rattle of death (ghargharatu 'l-maut)? Or, is it that which prevails earlier (usually referred to in English as being in the throes of death or the agony of death or, uncharitably enough, giving up the ghost)?
 
+## AI Translation
+
+He was told, “Now you believe? But you always disobeyed and were one of the corruptors.
+
+## AI Tafsir
+
+**Context:** (and We made them leaders inviting to the Fire: and on the Day of Resurrection, they will not be helped.)(28:41) These facts about Fir'awn and his status at that time were among the secrets of the Unseen that Allah revea…
+
+**What this ayah teaches:** Therefore, nothing done at that time is acceptable, neither belief, nor disbelief. He wanted to sound strong before his chiefs, so he said: "The Children of Israel do not have more right in the sea." So they rushed into the sea.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, nothing done at that time is acceptable, neither belief, nor disbelief.
+
+**From the Sunnah:** Allah's Messenger ﷺ said; (Sunan Abi Dawud) "Hasan Gharib Sahih." About Allah's statement, (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

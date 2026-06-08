@@ -104,6 +104,15 @@ The literal meaning of the word Kufr is thanklessness and in conventional sense 
 
 Hence, the sequence of mutual killing which had commenced with the Shahadah (martyrdom) of Sayyidna ` Uthman' ؓ has continued in the Ummah throughout. Similarly, the way assassins of ` Uthman ؓ acted against the blessings of Allah Ta’ ala and solidarity of Islam and were ungrateful to Him, the Rawafid and Khawarij did the same after that by grouping against the Guided Khulafa'. The incident of great sacrifice of Sayyidna Husain Ibn Ali ؓ also happened under the same sequence نسال اللہ الھدایہ و شکر نعمتۃ
 
+## AI Translation
+
+Moreover, establish salah, give zakat, and obey the Messenger, so you may be shown mercy.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Command to Pray, Give the Zakah and Obey the Messenger (ﷺ); The Inability of the those who reject the truth to Escape,and the Ultimate Destiny Allah commands His believing servants to establish prayer, which means worshipping Allah Alone with no partner or associate; to pay the Zakah, which is an act of kindness towards His poor and weak creatures; and by doing so to obey the Messenger of Allah ﷺ, i.e., to…
+
+**Classical tafsir:** Ibn Kathir notes: The literal meaning of the word Kufr is thanklessness and in conventional sense it is the antonym of faith.
 ## Personal Reflections
 
 

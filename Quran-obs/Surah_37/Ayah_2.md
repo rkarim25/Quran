@@ -94,6 +94,17 @@ The One True God is Allah
 
 2. The second attribute of the angels has been described as: فَالزَّاجِرَ‌اتِ زَجْرً‌ا (fazzajirati zajran: those who prevent firmly). This word has been derived from زَجر (zajr) which means to hold in check, block, prevent or restrain, also to drive back, repel or reprimand. Maulana Thanavi (رح) has translated it in the sense of those who place an impregnable check - which comprehends every possible sense of the word. Now, what is that against which the angels place their check? In view of the context of the Holy Qur'an, most commentators have answered it by saying that the enforcing of check at this place means the act of angels through which they stop the shaitans from reaching the higher levels, and a detailed description of which is going to appear a little later in the Qur'an itself.
 
+## AI Translation
+
+and those who diligently drive the clouds,
+
+## AI Tafsir
+
+**What this ayah teaches:** Mentioning the east is sufficient and there is no need for the west to be mentioned too, because it is implied in what is said. By those who drive the clouds in a good way.)(3.
+
+**Classical tafsir:** Ibn Kathir notes: Mentioning the east is sufficient and there is no need for the west to be mentioned too, because it is implied in what is said.
+
+**From the Sunnah:** that 'Abdullah bin 'Umar, may Allah be pleased with him, said, "The Messenger of Allah ﷺ used to command us to make our prayers short and he used to recite As-Saffat when he lead us in prayer." This was recorded by An-Nasa'i only. (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

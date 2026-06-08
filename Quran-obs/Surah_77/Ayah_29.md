@@ -117,6 +117,15 @@ Then Allah says,
 
 أَلَمْ نَجْعَلِ الْأَرْ‌ضَ كِفَاتًا أَحْيَاءً وَأَمْوَاتًا (Did We not make the earth a container that collects the living and the dead?....25, 26) The word kit is derived from kaft. It means 'to gather things together'. Thus kit is a thing that embodies many things within itself. Earth is created by Allah in a fashion that humans when alive, remain on its back, and when dead, in its belly.
 
+## AI Translation
+
+They will be told, 'Proceed into the Fire you used to deny!
+
+## AI Tafsir
+
+**What this ayah teaches:** The driving of the Criminals to their Final Abode in Hell and how it will be done Allah informs about the those who reject the truth who deny the final abode, the recompense, Paradise, and the Hellfire.
+
+**Classical tafsir:** Ibn Kathir notes: This means it will not protect them from the heat of the flame.
 ## Personal Reflections
 
 

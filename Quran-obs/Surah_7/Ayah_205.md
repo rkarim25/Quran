@@ -175,6 +175,19 @@ The last verse (206) depicts the particular state and style of those close to Al
 
 From here, we also learn that people who are blessed with the ability to engage in perpetual worship and remembrance of Allah are blessed with the sign that they are ` with' Allah all the time and fortunate to have His company.
 
+## AI Translation
+
+Remember your Rabb inwardly with humility and reverence and in a moderate tone of voice, both morning and evening. And do not be one of the heedless.
+
+## AI Tafsir
+
+**Context:** Before the night of Isra', when the five daily prayers were ordained, this Ayah was revealed in Makkah ordering that Allah be worshipped at these times, Allah said next,
+
+**What this ayah teaches:** Under such eventualities, reciting in a low voice is more meritorious as unanimously held by all.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, it is recommended that remembering Allah in Dhikr is not performed in a loud voice.
+
+**From the Sunnah:** According to an authentic Hadith, once the Holy Prophet ﷺ came out of the house late at night. (authentic hadith) This includes all angels and all blessed prophets and the most righteous men and women of the Muslim community. (Sahih Muslim)
 ## Personal Reflections
 
 

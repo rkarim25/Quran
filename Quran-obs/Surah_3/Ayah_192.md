@@ -302,6 +302,19 @@ Further on, from verses 192 to 194, there appears a set of pleas and prayers fro
 
 These three requests were aimed at safety against punishment and pain and loss. The fourth request is about promised blessings, the blessings of Paradise promised through the noble prophets. This prayer for blessings is being made with the added request that there be no disgrace on the Day of Judgment. In other words, the request is to be excused from the torturous procedure of accounting (for all of one's deeds), disgrace (as a result of misdeeds) and then forgiveness (on account of Allah's mercy). The prayer is for outright forgiveness for Allah does not go back on His word. What is the purpose of this submission and re-submission? The purpose is to say: 0 Allah, enable us to become deserving, and a beneficiary of this promise (made by You), and enable us to remain steadfast so that we breath our last in this world with faith in our heart (ایمان) and busy doing what is good in Your sight ( عمل صالح).
 
+## AI Translation
+
+Our Rabb! Indeed, those You commit to the Fire will be disgraced! And the wrongdoers will have no helpers.
+
+## AI Tafsir
+
+**Context:** (O Bilal! What prevents me from crying, when this night, this Ayah was revealed to me,)
+
+**What this ayah teaches:** Verily, we have heard the call of one calling to faith: 'Believe in your Lord,' and we have believed.
+
+**Classical tafsir:** Ibn Kathir notes: In other words it means that they are engaged in the remembrance of Allah under all conditions and at all times.
+
+**From the Sunnah:** The Messenger of Allah ﷺ spoke with his wife for a while and then went to sleep. (Sahih al-Bukhari) The Prophet ﷺ then stood up, performed ablution, used Siwak (to clean his teeth) and prayed eleven units of prayer. (Sahih Muslim)
 ## Personal Reflections
 
 

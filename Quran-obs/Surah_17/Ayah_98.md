@@ -120,6 +120,15 @@ Allah says: This punishment, being resurrected blind, dumb and deaf, is what the
 
 In the last verse (95), it was said that they, despite being human, can-not demand that their messenger should be an angel. This demand was unreasonable. Yes, if angels had been living on the Earth and there was the need to send a messenger to them, then, indeed, an angel would have been sent as a messenger. It will be noted that the attribute of an-gels living on the Earth has been described here in the words: يَمْشُونَ مُطْمَئِنِّينَ (walking about in peace). This tells us that the need to send an angel deputed as a messenger to other angels would have come up only at a time when the angels of the Earth could not themselves go to the heavens rather remained living on the Earth alone. Otherwise, had they themselves possessed the power to go to the heavens, there would have remained just no need to send a messenger to the Earth.
 
+## AI Translation
+
+That is their reward for rejecting Our signs and asking mockingly, “When we are reduced to bones and ashes, will we really be raised as a new creation?”
+
+## AI Tafsir
+
+**What this ayah teaches:** In the last verse (95), it was said that they, despite being human, can-not demand that their messenger should be an angel. This tells us that the need to send an angel deputed as a messenger to other angels would have come up only at a time when the angels of the Earth could not themselves go to the heavens rather remained living on the Earth alone.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

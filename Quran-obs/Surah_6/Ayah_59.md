@@ -322,6 +322,17 @@ This subject has been dealt with in the Holy Qur'an at many more places where it
 
 That is (the Mushriks will say in Qiyamah), By Allah, we were in an error manifest when we held you (objects of worship) as equals with the Lord of the Worlds - 6:97, 98
 
+## AI Translation
+
+With Him are the keys of the unseen—no one knows them except Him. And He knows what is in the land and sea. Not even a leaf falls without His knowledge, nor a grain in the darkness of the earth or anything—green or dry—but is in a perfect Record.
+
+## AI Tafsir
+
+**Context:** (Say: "I am on clear proof from my Lord...") means: I have a clear understanding of the Law of Allah that He has revealed to me,
+
+**What this ayah teaches:** In short, from this one sentence, it stands proved that the knowledge of Allah is perfect, and so is His power, and also that this all-encompassing knowledge and absolute power is the exclusive attribute of Allah Jalla Sha'nuhu, and that no one can acquire or have it.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, Allah has sent the Angel of the Mountains to you so that you may order him to do whatever you wish to these people.' The Angel of the Mountains called and greeted me, and then said, 'O Muhammad!
 ## Personal Reflections
 
 

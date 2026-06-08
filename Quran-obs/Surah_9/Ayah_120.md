@@ -274,6 +274,17 @@ Commentary
 
 The two verses cited above admonish those who missed to join the expedition of Tabuk for no valid reason. They have also been told that they did what was not proper. Then the verses describe the merits of people who take part in Jihad and tell us about the great rewards they get for everything they do there. Included here is the causing of hurt or loss to the enemy and the using of a strategy that infuriates the adversary. All these are good deeds, and worthy of thawab (reward from Allah).
 
+## AI Translation
+
+It was not for the people of Medina and the nomadic Arabs around them to avoid marching with the Messenger of Allah or to prefer their own lives above his. That is because whenever they suffer from thirst, fatigue, or hunger in the cause of Allah; or tread on a territory, unnerving those who reject the truth; or inflict any loss on an enemy—it is written to their credit as a good deed. Surely Allah never discounts the reward of the good-doers.
+
+## AI Tafsir
+
+**What this ayah teaches:** That is because they suffer neither Zama' nor Nasab, nor Makhmasah in the cause of Allah, nor did they take any step to raise the anger of those who reject the truth nor inflict any injury upon an enemy, but is written to their credit as a deed of righteousness.
+
+**Classical tafsir:** Ibn Kathir notes: That is because they suffer neither Zama' nor Nasab, nor Makhmasah in the cause of Allah, nor did they take any step to raise the anger of those who reject the truth nor inflict any injury upon an enemy, but is written to their credit as a deed of righteousness.
+
+**From the Sunnah:** It was neither befitting for the people of Al-Madinah and the bedouins of the neighborhood to remain behind Allah's Messenger nor to prefer their own lives to his life.
 ## Personal Reflections
 
 

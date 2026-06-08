@@ -90,6 +90,17 @@ In Verse 46, the phrase, وَلِمَنْ خَافَ مَقَامَ رَ‌بِ�
 
 Other exegetes, like Qurtubi and others, interpret this to mean: 'the one who is fearful of the Station of His Lord'. That is, he is mindful of the High Station of Allah whereby He is watchful and keeps guard over his words and deeds, overt or covert. All his movements and activities are known to Him. This explanation is close to the previous explanation, in that Allah's keeping guard over him will keep him away from sins.
 
+## AI Translation
+
+So which of your Rabb's favours will you both—humans and jinn—deny?
+
+## AI Tafsir
+
+**What this ayah teaches:** The word 'fearful' signifies that he is mindful under all conditions, whether in public or in private, that one day he has to appear in the Court of Allah to give an account of his deeds.
+
+**Classical tafsir:** Ibn Kathir notes: This phrase refers to those fortunate believers who are, at all times, concerned about reckoning on the Day of Judgment and, as a result, keep away from all sorts of sins under all circumstances.
+
+**From the Sunnah:** The Group, with the exception of Abu Dawud, collected this via the Hadith of 'Abdul-'Aziz. (Sunan Abi Dawud)
 ## Personal Reflections
 
 

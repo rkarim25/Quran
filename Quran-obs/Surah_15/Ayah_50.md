@@ -86,6 +86,17 @@ From verse 48: لَا يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَ�
 
 As for the third probability, that the blessings of Jannah may remain everlasting, nor one is expelled from there, but one may himself get bored by living there and wish to go out, the Qur’ an has demolished this probability in one sentence of Surah Al-Kahf with the following words: لَا يَبْغُونَ عَنْهَا حِوَلًا (That is, these people too would never seek to return from there - 18:108).
 
+## AI Translation
+
+and that My torment is indeed the most painful.
+
+## AI Tafsir
+
+**What this ayah teaches:** And that My torment is indeed the most painful torment.) meaning, 'O Muhammad, tell My servants that I am the source of mercy and I am the source of punishment.' Similar Ayat to this have already been quoted above, which indicate that we must always be in a state between hope (for Allah's mercy) and fear (of His punishment).
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Paradise will enter Paradise with whatever enmity is left in their hearts from this world.
 ## Personal Reflections
 
 

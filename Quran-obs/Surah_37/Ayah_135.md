@@ -42,6 +42,15 @@ Commentary
 
 Mentioned in these verses is the fifth event that relates to Sayyidna Lut (علیہ السلام) . This event has appeared at several places earlier, therefore, no more details are needed. Here, the people of Makkah have been particularly admonished that they passed by the site of Sadum (Sodom) day and night while traveling with theirs trade caravans to the country of Syria, and Sadum was a place where this grave event came to pass, an event full of vital lessons, yet they failed to learn any. The time of morning and evening was particularly mentioned for the reason that the people of Arabia generally used to pass through here during these very hours. Says Qadi Abu-s-Sa'ud: 'Perhaps, this site of Sodom was located at a stage on this route that those who departed from here did so in the hours of the morning and those who arrived here did so at the time of the evening' (Tafsir abi-s- Saud).
 
+## AI Translation
+
+except an old woman, who was one of the doomed.
+
+## AI Tafsir
+
+**What this ayah teaches:** And verily, Lut was one of the Messengers (133)When We saved him and his family, all (134)Except an old woman (his wife) who was among those who remained behind (135)Then We destroyed the rest (136)Verily, you pass by them in the morning (137)And at night; will you not then reflect .
+
+**Classical tafsir:** Ibn Kathir notes: This event has appeared at several places earlier, therefore, no more details are needed.
 ## Personal Reflections
 
 

@@ -154,6 +154,17 @@ meaning, certainly Allah will repeat his creation just as he began his creation,
 
 وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ (and it will throw up whatever it contains, and will become empty...84:4) The earth will, with one convulsion, throw up whatever it contains in its belly, whether natural treasures or buried treasures, or mines, or dead human bodies and their remains and particles.
 
+## AI Translation
+
+obeying its Rabb as it must—
+
+## AI Tafsir
+
+**What this ayah teaches:** And has cast out all that was in it and became empty.)(5.
+
+**Classical tafsir:** Ibn Kathir notes: This means that he will not be investigated for all the minute details of his deeds.
+
+**From the Sunnah:** Then when he completed the prayer, he informed them that the Messenger of Allah ﷺ prostrated during its recitation. (Sahih Muslim, Sunan an-Nasa'i) from Abu Rafi' that he prayed the Night prayer with Abu Hurayrah) recited, (Sahih al-Bukhari)
 ## Personal Reflections
 
 

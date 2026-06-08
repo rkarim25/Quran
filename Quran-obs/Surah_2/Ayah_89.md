@@ -164,6 +164,15 @@ One may want to know why the Holy Qur'an calls the Jews Kafirin کافرون (in
 
 However, the next verse attributes the infidelity of the Jews to their malice.
 
+## AI Translation
+
+Although they used to pray for victory over those who associate partners with Allah, when a Book came from Him confirming what they had, they rejected it. So may Allah's condemnation be upon those who reject the truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** And when there came to them (the Jews), a Book (this Qur'an) from Allah confirming what is with them (the Tawrah) and the Injil (Gospel), although aforetime they had invoked Allah (for the coming of Muhammad ﷺ) in order to gain victory over those who disbelieved, then when there came to them that which they had recognised, they disbelieved in it.
+
+**Classical tafsir:** Ibn Kathir notes: Send the Prophet that we read about - in the Tawrah - so that we can torment and kill the those who reject the truth alongside him.' When Allah sent Muhammad ﷺ and they saw that he was not one of them, they rejected him and envied the Arabs, even though they knew that he was the Messenger of A…
 ## Personal Reflections
 
 

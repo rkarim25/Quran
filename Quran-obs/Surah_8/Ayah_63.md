@@ -174,6 +174,17 @@ No sensible person from any religion or community would differ about unity among
 
 In Surah Maryam, it was said: إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ الرَّ‌حْمَـٰنُ وُدًّا ﴿96﴾ (Surely, among those who believe and do good deeds, the All-Merciful [ Allah ] generates love - 19:96). This verse makes it clear that the real method through which hearts shall be filled with genuine love and intense fellow feeling is adherence to the dictates of Faith and insistence on doing what is good and right. Without it, even if some kind of unity could be artificially arrived at, that 'unity' will be simply baseless and weak making it disintegrate at the slightest provocation or pressure - something commonly noticed in the experiences of peoples around the whole world. In short, for our instant purpose, this verse explains how the blessing which was bestowed by Allah Ta` ala on the Holy Prophet ﷺ - a blessing which was to generate mutual love into the hearts of all tribes of Madinah making them all set to help and support the Holy Prophet ﷺ went on to turn his supporters into an iron wall for him.
 
+## AI Translation
+
+He united their hearts. If you had spent all that is on earth, you could not have united their hearts—but Allah united them. He is Almighty, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** If you had spent all that is in the earth, you could not have united their hearts, but Allah has united them.
+
+**Classical tafsir:** Ibn Kathir notes: In short, for our instant purpose, this verse explains how the blessing which was bestowed by Allah Ta` ala on the Holy Prophet ﷺ - a blessing which was to generate mutual love into the hearts of all tribes of Madinah making them all set to help and support the Holy Prophet ﷺ wen…
+
+**From the Sunnah:** This is why when the pagans inclined to peace in the year of Hudaybiyah and sought cessation of hostilities for nine years, between them and the Messenger of Allah ﷺ he accepted this from them, as well as, accepting other terms of peace they brought forth. (Musnad Ahmad) Allah mentioned His favor on the Prophet ﷺ, in that He aided him with believers, the Muhajirin and the Ansar,
 ## Personal Reflections
 
 

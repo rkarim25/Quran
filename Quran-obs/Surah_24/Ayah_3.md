@@ -140,6 +140,17 @@ The word 'prohibited' (حرام) has two connotations in Islamic law. One, that 
 
 In the light of this explanation it is not needed to declare the verse as cancelled as has been done by some commentators.
 
+## AI Translation
+
+A male fornicator would only marry a female fornicator or idolatress. And a female fornicator would only be married to a fornicator or idolater. This is all forbidden to the mu'mins.
+
+## AI Tafsir
+
+**What this ayah teaches:** Here Allah tells us that the Zani (male who is guilty of illegal sex) does not have intercourse except with a Zaniyah (female who is guilty of illegal sex) or a Mushrikah (female idolator), meaning that no one would go along with him in this action except a sinful woman who is also guilty of Zina, or a Mushrikah who does not think it is unlawful.
+
+**Classical tafsir:** Ibn Kathir notes: In other words, the verse says that fornication is a poison to ethics, and its poisonous effects ruin the moral behavior of man.
+
+**From the Sunnah:** a man among the believers asked the Messenger of Allah ﷺ for permission (to marry) a woman known as Umm Mahzul, who used to commit adultery, and who had stated the condition that she should spend on him.
 ## Personal Reflections
 
 

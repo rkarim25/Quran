@@ -158,6 +158,17 @@ During the seven years of drought, they will eat from the harvest they collected
 
 After that, to the person about whom Sayyidna Yusuf (علیہ السلام) had gathered from the interpretation of his dream that he would be released, he said: When you are released from the prison, mention me before your master as the innocent person who is still languishing in the prison. But, once released, this person forgot about this message of Sayyidna Yusuf (علیہ السلام) ، as a result of which, his freedom was further delayed and he had to stay in prison for a few more years. The word used in the Qur’ an is: بِضْعَ سِنِينَ (bid'a sinin: a few years). This word holds good for a figure between three to nine. Some commentators have said that he had to live in the prison for a period of seven more years.
 
+## AI Translation
+
+And one day the King said, “I dreamt of seven fat cows eaten up by seven skinny ones; and seven green ears of grain and seven others dry. O chiefs! Tell me the meaning of my dream if you can interpret dreams.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Yusuf's Interpretation of the King's Dream This is when Yusuf, peace be upon him, told the interpretation of the dream, without criticizing the man for forgetting his request that he had made to him.
+
+**Classical tafsir:** Ibn Kathir notes: Stay away from extravagance, so that you use what remains of the harvest during the seven years of drought that will follow the seven fertile years.' This was represented by the seven lean cows that eat the seven fat cows.
+
+**From the Sunnah:** During the seven years of drought, they will eat from the harvest they collected during the seven fertile years, as represented by the dry ears of corn in the dream.
 ## Personal Reflections
 
 

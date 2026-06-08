@@ -151,6 +151,15 @@ The Horrors of the Day of Resurrection
 
 Qatadah (رح) says that the verse refers to a stage after they will have been questioned about their sins, but they will have refused under oath. Then their mouths and tongues will be sealed, and their hands and feet will be asked to bear witness. At that stage no more questions will be asked from them. Ibn Kathir notes all three explanations. They are close to each other, and thus there is no conflict.
 
+## AI Translation
+
+On that Day no human or jinn will be asked about their sins—the record already speaks.
+
+## AI Tafsir
+
+**What this ayah teaches:** They are close to each other, and thus there is no conflict.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan and Qatadah said, "They will be known by their dark faces and their blue eyes." I say that this contrasts to the marks that will distinguish the believers, such as the light that will appear on the parts of the body that they used to wash while performing ablution.
 ## Personal Reflections
 
 

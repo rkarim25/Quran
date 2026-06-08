@@ -378,6 +378,17 @@ The Islamic Legal definition of Rishwah (meaning bribery) is the taking of compe
 
 Then, a person who takes bribe and does someone's job as it should rightfully be done, he commits the sin of taking bribe and the money or material he has ` earned' is ` suht,' and unlawful for him. And should he do it as it should have not been done rightfully, then, this becomes another grave crime, that of wastage of what was right and that of changing an express command of Allah, in addition to the initial one. May Allah keep all Muslims safe from this curse.
 
+## AI Translation
+
+They eagerly listen to falsehood and consume forbidden gain. So if they come to you, either judge between them or turn away from them. If you turn away from them, they cannot harm you whatsoever. But if you judge between them, then do so with justice. Surely Allah loves those who are just.
+
+## AI Tafsir
+
+**Context:** These honorable Ayat were revealed about those who rush into disbelief, deviating from the obedience of Allah, His Messenger, prefering their opinions and lusts to what Allah has legislated, It was reported that this par…
+
+**What this ayah teaches:** Those are the ones whose hearts Allah does not want to purify; for them there is a disgrace in this world, and in the Hereafter a great torment.)(42.
+
+**Classical tafsir:** Ibn Kathir notes: Al-'Awfi and 'Ali bin Abi Talhah reported that Ibn 'Abbas said that these Ayat were revealed about the two Jews who committed adultery, and we mentioned the Hadiths about this story before.
 ## Personal Reflections
 
 

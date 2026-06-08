@@ -222,6 +222,17 @@ Surah Al-Hujurat
 
 Ends here
 
+## AI Translation
+
+The true mu'min are only those who believe in Allah and His Messenger without doubt, and strive with their wealth and their lives in Allah's cause. They are the ones who are truthful in faith.
+
+## AI Tafsir
+
+**Context:** According to Imam Baghawi, this verse was revealed in connection with the tribe of Banu Asad. A few members of that tribe came up to the Holy Prophet ﷺ in Madinah during a severe drought.
+
+**What this ayah teaches:** The Qur'an first negates their false claim of faith: You cannot claim "amanna" ['We have come to believe']; the most you can say is "aslamna" ['We have surrendered'], because the literal meaning of Islam is to recite the kalimah of Islam, enter the fold of the religion and surrender.
+
+**Classical tafsir:** Ibn Kathir notes: "’ Iman", in the technical sense of Shari’ ah, refers to the belief by heart and thus connotes a firm and unshakable belief in the Oneness of Allah and in His ﷺ .
 ## Personal Reflections
 
 

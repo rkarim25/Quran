@@ -134,6 +134,19 @@ The other possibility is that "Allah's help" in the above sentence means Allah's
 
 1. There is yet another explanation of this verse offered by Sayyidna Ibn ` Abbas ؓ etc.They say that the news of the victory of Romans reached the Muslims the very day in which they defeated the pagans of Makkah in the battle of Badr. Therefore, the Muslims were delighted on their own victory when the news of the victory of the Romans added to their delight. According to this interpretation, "rejoicing of the believers with Allah's help" in the present verse refers to the victory of the Muslims in the battle of Badr, and the good news given by this verse is twofold; one, in relation to the Romans, and the other in relation to the Muslims themselves. (Muhammad Taqi ` Usmani)
 
+## AI Translation
+
+That is Allah's promise. Allah never fails His promise — yet most people do not know.
+
+## AI Tafsir
+
+**Context:** These Ayat were revealed about the victory of Sabur, the king of Persia, over Ash-Sham (Greater Syria), the adjoining partisan states of the Arabian Peninsula, and the outlying regions of the land of the Romans.
+
+**What this ayah teaches:** A promise from Allah, and Allah fails not in His promise, but most men know not.)(7. He helps whom He wills, and He is the All-Mighty, the ar-Rahim.)(6.
+
+**Classical tafsir:** Ibn Kathir notes: How Caesar defeated Chosroes (Kisra) It was previously reported that 'Ikrimah said: "Chosroes sent his deputy and his army against Caesar, and they fought." It is well-known that Chosroes himself fought in the army that invaded his land, and he defeated Caesar and overwhelmed him until he had nothin… Mujahid said, “That was a place in the Arabian Peninsula which is closer to the land of the Romans t…
+
+**From the Sunnah:** that Ibn 'Abbas, may…
 ## Personal Reflections
 
 

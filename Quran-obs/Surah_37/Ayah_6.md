@@ -99,6 +99,17 @@ Ibn Jarir recorded that Ibn 'Abbas, may Allah be pleased with him, said, "The Sh
 
 In the next verse, it was said: إِنَّا زَيَّنَّا السَّمَاءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ (Verily, We have decorated the nearest sky with an adornment, the stars, - 37:6). Here, the expression السَّمَاءَ الدُّنْيَا : (as-sama'ud-dunya: the nearest sky) means the closest sky. The sense is that Allah Ta’ ala has made this sky closest to the world look good through the glittering presence of stars. Now, it is not necessary that these stars are located precisely within the sky. In fact, even if they are detached from it, even then, should they be looked at from the earth, they appear to be on the sky - and keep imparting a glow to it. What is being said here is no more but that this star spangled sky is an open proof of the fact that it did not come into existence on its own, instead, it has been created by its creator. And why a Being that can bring such enormous things into existence would need any partner and sharer in His creation? In addition to that, when even the disbelievers find it a settled matter that Allah Ta’ ala is the creator of all heavenly bodies, would it not be injustice that, despite His being the Creator and Master, someone or something else be taken as the object of worship? As for the problem of stars being part of the sky or being separate from it in the light of the Qur'an as well as that of the coherence of astronomy with the noble Qur'an, these have been taken up in detail in the commentary on Surah al-Hijr (Ma’ ariful-Qur an, Volume V, Verses 15:16, page 302)
 
+## AI Translation
+
+Indeed, We have adorned the lowest heaven with stars for decoration
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, We have adorned the near heaven with the stars (6)And to guard against every rebellious Shaytan (7)They cannot listen to the higher group for they are pelted from every side (8)Outcast, and theirs is a constant torment (9)Except such as snatch away something by stealing, and they are pursued by a flaming fire of piercing brightness .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** When the Messenger of Allah ﷺ was sent, if a Shaytan wanted to take his seat in the heavens, the flaming fire would come and would not miss him; it would burn him every time.
 ## Personal Reflections
 
 

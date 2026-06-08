@@ -141,6 +141,19 @@ That Zabur (the Psalms) has been mentioned particularly in the last sentence of 
 
 At this stage, Imam al-Baghawi says in his Tafsir that Zabur is a book of Allah revealed to Sayyidna Dawud (علیہ السلام) . It has one hundred and fifty surahs or chapters and all surahs are restricted to praises of Allah and prayers to Him. The areas of lawful and unlawful, obligations and limits have not been taken up there.
 
+## AI Translation
+
+Your Rabb knows best all those in the heavens and the earth. And We have surely favoured some prophets above others, and to David We gave the Psalms.
+
+## AI Tafsir
+
+**Context:** (He has ordained for you the same religion which He ordained for Nuh, and that which We have revealed to you, and that which We ordained for Ibrahim, Musa and 'Isa saying you should establish religion and make no divisio…
+
+**What this ayah teaches:** And We have not sent you as a guardian over them (54)And your Lord knows best all who are in the heavens and the earth. Lord knows you best; if He wills, He will have mercy on you, or if He wills, He will punish you.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** This does not contradict the report in the Two Sahihs which says that the Messenger of Allah ﷺ said: from Abu Hurayrah that the Prophet ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
 
 

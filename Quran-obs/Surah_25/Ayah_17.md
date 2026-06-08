@@ -139,6 +139,15 @@ Allah tells us about what will happen on the Day of Resurrection, when those who
 
 The Second Objection was that if the Holy Prophet ﷺ was a prophet, he should not have been eating and drinking like common people; instead he should have been free from eating and drinking like angels. And if this was not so, he should have at least enough wealth and gardens to take care of his day to day needs, so that he may not need to care for his living. Furthermore, how could he be accepted as a prophet when he is neither an angel nor does an angel accompany him to endorse what he preaches, therefore it appears that he has been charmed by someone which has turned his head and that is why he talks like this. A general answer to this objection is given in the verse انظُرْ‌ كَيْفَ ضَرَ‌بُوا لَكَ لِلْعَالَمِينَ at is (See how they coined similes for you, so they have gone astray and cannot find a way. - 25:9). The detailed answer to the objection is given in the next few verses.
 
+## AI Translation
+
+Watch for the Day He will gather them along with what they used to worship besides Allah, and ask the objects of worship, “Was it you who misled these servants of Mine, or did they stray from the Way on their own?”
+
+## AI Tafsir
+
+**What this ayah teaches:** And on the Day when He will gather them together and that which they worship besides Allah. He will say: "Was it you who misled these My servants or did they stray from the path (17)They will say: "Glorified be You!
+
+**Classical tafsir:** Ibn Kathir notes: And if this was not so, he should have at least enough wealth and gardens to take care of his day to day needs, so that he may not need to care for his living.
 ## Personal Reflections
 
 

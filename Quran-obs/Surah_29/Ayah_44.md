@@ -110,6 +110,17 @@ Musnad of Ahmad has reproduced a narration of Sayyidna 'Amr Ibn Al-` As ؓ that 
 
 Sayyidna ` Amr Ibn Murrah ؓ has said that he felt very bad whenever he came across any such verse of the Holy Qur'an, which he could not understand, because Allah has said وَتِلْكَ الْاَمْثَالُ نَضْرِبُهَا لِلنَّاسِ ۚ وَمَا يَعْقِلُهَآ اِلَّا الْعٰلِمُوْنَ (And these examples We cite for people, and no one understands them except the knowledgeable). (Ibn Kathir).
 
+## AI Translation
+
+Allah created the heavens and the earth for a purpose. In that is a sign for people of iman.
+
+## AI Tafsir
+
+**Context:** Allah created the heavens and the earth with truth. Verily, therein is surely a sign for those who believe (44)Recite what has been revealed to you of the Book, and perform the Salah.
+
+**What this ayah teaches:** Allah created the heavens and the earth with truth. But only knowledgeable persons draw benefit from them, and the people at large do not ponder, so that they could also understand the truth.
+
+**Classical tafsir:** Ibn Kathir notes: This explains that one does not become knowledgeable in the sight of Allah only by developing some understanding of Qur'an and Oath.
 ## Personal Reflections
 
 

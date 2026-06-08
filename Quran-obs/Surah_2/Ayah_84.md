@@ -143,6 +143,17 @@ This verse is a supplement to the previous verse, and speaks of the other articl
 
 They had willingly taken this pledge. Now, it may sometimes happen that one does not express one's willingness in so many words, but the manner of his speech suggests it. The agreement of the Israelites was not of this order, but as clear and explicit as the statement of a witness usually is.
 
+## AI Translation
+
+And when We took your covenant that you would not shed each other's blood or expel one another from your homes — you affirmed it and bore witness.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then, (this) you ratified and (to this) you bore witness (84)After this, it is you who kill one another and drive out a party of you from their homes, assist (their enemies) against them, in sin and transgression.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Allah criticized the Jews who lived in Al-Madinah during the time of the Messenger of Allah ﷺ. Further, they should not be believed when it comes to the description of the Messenger of Allah ﷺ, his coming, his expulsion from his land, and his Hijrah, and the rest of the information that the previous Prophets informed them about him, all of which they hi…
 ## Personal Reflections
 
 

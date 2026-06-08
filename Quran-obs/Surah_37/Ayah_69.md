@@ -120,6 +120,15 @@ commentators have said that the word: الشَّيَاطِينِ (ash-shayatin) 
 
 The sense of the rest of the verses is clear from their translation.
 
+## AI Translation
+
+Indeed, they found their forefathers astray,
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, in Urdu and Hindi too, it is called 'nagphan' (hood of the serpent) for this very reason.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, in Urdu and Hindi too, it is called 'nagphan' (hood of the serpent) for this very reason.
 ## Personal Reflections
 
 

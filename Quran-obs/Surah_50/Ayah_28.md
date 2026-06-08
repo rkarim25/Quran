@@ -138,6 +138,15 @@ Allah's saying;
 
 لَا تَخْتَصِمُوا لَدَيَّ وَقَدْ قَدَّمْتُ إِلَيْكُم بِالْوَعِيدِ ("Do not quarrel before Me, while I had sent to you My threat well in advance.... 50:28) It means: "I have given you sufficient proof by the words of the past Messengers, and I have sent down the Divine Books; the evidences, signs and proofs have thus been established against you; your flimsy excuses, arguments and disputes will not work today.'
 
+## AI Translation
+
+Allah will say: Do not dispute before Me. I had already warned you.
+
+## AI Tafsir
+
+**What this ayah teaches:** I had no authority over you except that I called you, and you responded to me.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

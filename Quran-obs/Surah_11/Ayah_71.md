@@ -146,6 +146,15 @@ Al-Tabari reports at this place: When the angels abstained from eating the first
 
 This tells us that saying:.. بسم اللہ (bismillah: With the name of Allah) when beginning to eat, and saying: الحمد للہ (alhamdulillah: Praise belongs to Allah) at the end of it is Sunnah.
 
+## AI Translation
+
+And his wife was standing by, so she laughed, then We gave her good news of the birth of Isaac, and, after him, Jacob.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, when Ibrahim saw them reject the food that he had brought them, without tasting any of it at all, he felt a mistrust of them. This is because they had caused much corruption and their disbelief was severe.
+
+**Classical tafsir:** Ibn Kathir notes: Surely, He (Allah) is All-Praiseworthy, All-Glorious.) This means that He is the Most Praiseworthy in all of His actions and statements.
 ## Personal Reflections
 
 

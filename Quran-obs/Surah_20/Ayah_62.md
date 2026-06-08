@@ -89,6 +89,15 @@ Which carries the same meaning, "Verily, these are two [Hadhayn] magicians." Thi
 
 فَتَنَازَعُوا أَمْرَ‌هُم بَيْنَهُمْ (then, they disputed among themselves in their matter - 20:62), وَأَسَرُّ‌وا النَّجْوَىٰ (and kept their talk secret - 20:62). Ultimately their unanimous decision was to proceed with the contest because, in their opinion, Sayyidna Musa (علیہ السلام) and Sayyidna Harun (علیہ السلام) were both magicians who wished to drive away the Pharaoh and his men from Egypt by their magic and to eradicate their ideal way of life. This decision of theirs is mentioned in verse 63 in the following words:
 
+## AI Translation
+
+So the magicians disputed the matter among themselves, conversing privately.
+
+## AI Tafsir
+
+**What this ayah teaches:** Invent not a lie against Allah...") This means, "Do not make an illusion before the people of something that is not real, making it appear as if it were a creature, when it is not really a creature. And surely, he who invents a lie (against Allah) will fail miserably.") (62 Then they debated one with another what they must do, and they kept their talk secret (61)They said: "Verily, these are two m…
+
+**Classical tafsir:** Ibn Kathir notes: Invent not a lie against Allah...") This means, "Do not make an illusion before the people of something that is not real, making it appear as if it were a creature, when it is not really a creature.
 ## Personal Reflections
 
 

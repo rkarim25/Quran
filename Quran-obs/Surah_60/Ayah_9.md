@@ -190,6 +190,17 @@ Then Allah stresses His threat against being friends with them, by saying,
 
 إِنَّمَا يَنْهَاكُمُ اللَّـهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ وَأَخْرَ‌جُوكُم مِّن دِيَارِ‌كُمْ وَظَاهَرُ‌وا عَلَىٰ إِخْرَ‌اجِكُمْ أَن تَوَلَّوْهُمْ (Allah forbids you only from having friendship with those who fought you on account of faith, and expelled you from your homes, and helped (others) in expelling you....60:9) This verse speaks of those unbelievers who fought the Muslims in the matter of religion, drove them from their homes or supported their expulsion. These are hostile disbelievers and the Divine injunction in connection with them is abstain from having friendly or cordial intimacy with them. This verse does not forbid just and friendly or cordial intimacy with them. It merely forbids friendly intimacy and relations. Prohibition of having such friendly intimacy is not restricted only to those enemies who actively wage war against Muslims, but it is extended to ahludh- dhimmah [ non-Muslim citizens of an Islamic State ] and to اَھلُ الصُّلح ahlus-sulh [ non-Muslims with whom there is a peace pact ]. Intimate and heart-felt friendship is not allowed with them too. On the basis of this juristic principle, Mazhari has ruled that justice, equity and fairness are necessary even with the hostile disbelievers who are at war with Muslims. Prohibition applies only in the case of cordial and friendly intimacy, not in the case of courteous attitude and kindness. This shows that it is permissible to be police and courteous to those hostile enemies who are at war with Muslims. However, treating them with tenderness and courtesy should not cause danger, threat, or loss to Muslims. Wherever courtesy or tenderness might pose such a danger, it is not permitted to be tender or courteous towards them. Of course, justice and equity in all cases and under all circumstances are necessary and imperative. Allah, the Pure and Exalted, knows best!]
 
+## AI Translation
+
+Allah only forbids you from befriending those who fought you for your faith, drove you out, or supported others in doing so. Whoever takes them as allies are the wrongdoers.
+
+## AI Tafsir
+
+**What this ayah teaches:** These are hostile those who reject the truth and the Divine injunction in connection with them is abstain from having friendly or cordial intimacy with them.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** I came to the Prophet ﷺ and said, 'O Allah's Messenger! (Musnad Ahmad) 'A'ishah asked the Prophet ﷺ about his verdict and Allah sent down the Ayah, (Musnad Ahmad)
 ## Personal Reflections
 
 

@@ -153,6 +153,17 @@ Soon after praising those who had embraced Islam from among the people of the Bo
 
 Verse 117 declares through a similitude that disbelievers simply waste what they spend in this worldly life, for belief in Islam is a pre-condition in order that such spendings be acceptable with Allah, of whatever sort they may be. The similitude stresses the fact that disbelievers inflict this injustice upon themselves when their spendings go to waste in this world and remain rewardless in the Hereafter. If they were not to wrong themselves, if they were to embrace Islam, they would have been like other Muslims who, on suffering a worldly loss, are compensated by Allah through reward and forgiveness of sins, as reported in ahadith.
 
+## AI Translation
+
+They believe in Allah and the Last Day, encourage good and forbid evil, and race with one another in doing good. They are among the righteous.
+
+## AI Tafsir
+
+**Context:** Muhammad bin Ishaq and others, including Al-'Awfi who reported it from Ibn 'Abbas, said; "These Ayat were revealed about the clergy of the People of the Scriptures who embraced the faith.
+
+**What this ayah teaches:** This Ayah means that those among the People of the Book whom Allah rebuked earlier are not at all the same as those among them who embraced Islam. Such is the case with the those who reject the truth, for Allah destroys the rewards for their good deeds in this life, just as He destroyed the produce of the sinner because of his sins.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ata' said that Sir, means, 'cold and snow.' Ibn 'Abbas and Mujahid are also reported to have said that Sir means, 'fire'.
 ## Personal Reflections
 
 

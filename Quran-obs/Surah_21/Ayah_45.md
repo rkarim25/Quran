@@ -140,6 +140,15 @@ Here خُلِقَ الْإِنسَانُ مِنْ عَجَلٍ (Man is made of h
 
 These miracles also occurred during the battle of Badr (غزوہ بدر) when the Muslims who were considered weak and worthy of contempt gained a great victory over their enemies.
 
+## AI Translation
+
+Say, O Prophet, “I warn you only by revelation.” But the deaf cannot hear the call when they are warned!
+
+## AI Tafsir
+
+**What this ayah teaches:** "But the deaf will not hear the call, (even) when they are warned (45)And if a breath of the torment of your Lord touches them, they will surely cry: "Woe unto us!
+
+**Classical tafsir:** Ibn Kathir notes: How the Idolators are deceived by their long and luxurious Lives in this World,and the Explanation of the Truth Allah explains that they have been deceived and misled by the luxuries that they enjoy in this world and the long life that they have been given, so they believe that t…
 ## Personal Reflections
 
 

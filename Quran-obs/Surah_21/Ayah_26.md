@@ -98,6 +98,15 @@ Here Allah refutes those who claim that He has offspring among the angels – ex
 
 هَـٰذَا ذِكْرُ‌ مَن مَّعِيَ وَذِكْرُ‌ مَن قَبْلِي (Here is the Message for those with me and the Message for those before me. - 21: 24) One explanation of this verse on which the translation is based is that ذِکر means Message and "Message for those with me" refers to Qur'an, while "the Message for those before me" refers to Torah, Injil (Evangel) and Zabur (Psalms), the earlier divine books. According to this interpretation, the meaning of the verse is that neither the Qur'an (which is the Book for the Holy Prophet ﷺ and his followers) nor the older books contain anything to suggest worship of anyone else but Allah. Despite the fact that the texts of Torah and Injil (Evangel) have been altered, it is not suggested in either of them that Allah has partners with whom he shares His authority. Another explanation of the verse is given in Al-Bahr ul-Muhit according to which the word (dhikr) means here "description", and the sense is that this Qur'an is a description for the people who were in the days of the Holy Prophet ﷺ which describes for them the rules of Shari'ah and invites them to the correct way of life. At the same time it is a description of those who were before the Holy Prophet ﷺ because it keeps alive the stories and the traditions of people long gone by.
 
+## AI Translation
+
+And they say, “The the Rahman — mercy that encompasses all creation in this life has offspring!” Glory be to Him! In fact, those angels are only His honoured servants,.
+
+## AI Tafsir
+
+**What this ayah teaches:** And they say: "The ar-Rahman has begotten children." Glory to Him!
+
+**Classical tafsir:** Ibn Kathir notes: Another explanation of the verse is given in Al-Bahr ul-Muhit according to which the word (dhikr) means here "description", and the sense is that this Qur'an is a description for the people who were in the days of the Holy Prophet ﷺ which describes for them the rules of Shari'ah…
 ## Personal Reflections
 
 

@@ -229,6 +229,19 @@ A Jinn Companion of the Holy Prophet
 
 Ibn Jauzi, in his book Sifat-us-Safwah, through his own chain of authorities, reports from Sahl Ibn ` Abdullah ؓ that he saw an old Jinn, in a place, who was performing salah in the direction of Ka'bah. He was wearing a woolen cloak that looked beautiful on him and in which he looked graceful. After he completed his prayer, Sayyidna Sahl ؓ greeted him. Replying to his greeting, he said: 'You seem to be admiring the beauty of this cloak. This cloak is on my body for seven hundred years. I have met Holy Prophet ` Isa (علیہ السلام) in this cloak, and in the same cloak I met Holy Prophet Muhammad ﷺ and I am from among those Jinns about whom Surah Al-Jinn was revealed.' According to the Hadith narratives that recount the incident of the 'Night of Jinn', (i.e. the night in which the Jinns visited the Holy Prophet ﷺ ، Sayyidna ` Abdullah Ibn Masud ؓ was with the Holy Prophet ﷺ ، and the Holy Prophet ﷺ met the Jinns in a valley near Makkah for the specific purpose of inviting them to the call of Islam and making them hear the Qur'an by deliberate design. Apparently, this incident occurred after the incident mentioned in Surah AI-Jinn. ` Allamah Khafaji has said that reliable Ahadith confirm that the Jinn delegations met the Holy Prophet ﷺ six times. Thus there is no contradiction between the two versions of the incident, because they are two separate incidents. The Holy Prophet ﷺ was not even aware of the incident of the Jinn's coming to him and listening to the Qur'an that is mentioned in Surah Jinn. He only learnt about it later through revelation. This incident happened at Nakhlah on his way back from Taif. The other narratives from which we gather that the Holy Prophet ﷺ met the Jinn by deliberate design in a valley near the city of Makkah to preach to them and make them hear the Qur'an - is a separate incident which took place after that.
 
+## AI Translation
+
+Say: It has been revealed to me that a group of jinn listened to the Qur'an and said to their fellows, 'We have heard a recitation that amazes us.'
+
+## AI Tafsir
+
+**Context:** (1. Say: "It has been revealed to me that a group of Jinn listened. They said: 'Verily, we have heard a wonderful Recitation!')(2.
+
+**What this ayah teaches:** Reality of Jinn Jinn is one of the Divine creatures.
+
+**Classical tafsir:** Ibn Kathir notes: Then he would say, 'I seek refuge with the master (Jinn) of this valley from the Jinns, or that myself, my wealth, my child or my animals are harmed in it.'" Qatadah said, "When they sought refuge with them instead of Allah, the Jinns would overcome them with harm because of that." Ibn Abi Hatim rec… This species of creation is called 'Jinn' because it literally means 'hidden' or 'invisible'.
+
+**From the Sunnah:** Allah's Messenger ﷺ invited them to the call of Islam and mentioned about his people's hostility and persecution and asked for help.
 ## Personal Reflections
 
 

@@ -265,6 +265,19 @@ Commentary
 
 This is an account of how the Bani Isra'il kept breaking the pledge taken from them. As said in verse 70, whenever their Messenger brought a command which did not suit their fancy, they would break their pledge and go about betraying Allah to the limit that they would falsify His Messengers, even kill some of them. They were commanded ` to believe in Allah and act righteously.' But, this was what they did in response. As for the other part of the command - ` Belief in the Last Day' their behaviour was equally reckless. After having committed acts so oppressive, they became totally carefree as if they would not have to pay for what they had done and as if the consequences of their injustice and rebellion will never come out in the open. Under this false impression, they became totally blind and deaf to Divine signs and words. They went on doing what should have not been done. So much so that they killed some prophets and put some others behind bars. Finally, Almighty Allah imposed on them the mastery of Nebuchadnezzar (King of Babylonia, 605-562 B.C., who took them as slaves to Babylon - Old Testament, book of Daniel). When, after a long time, they were sent back to Jerusalem from Babylon through help from some Persian kings who secured their release from disgrace under Nebuchadnezzar, they repented and turned to making amends. Allah relented and accepted their repentance. But, with the passage of some time, they went back to their old practices which made them so blind and deaf once again that they dared killing Sayyi.dna Zakariyah (علیہ السلام) (Zechariah) and Sayyidna Yahya (John) and were all set to kill Sayyidna ` Isa (علیہ السلام) (Jesus ). (Tafsir Usmani - Notes)
 
+## AI Translation
+
+Those who say, “Allah is the Messiah, son of Mary,” have certainly fallen into rejection of the truth. The Messiah said, “O Children of Israel! Worship Allah—my Rabb and your Rabb.” Whoever associates others with Allah will surely be forbidden Paradise by Allah. Their home will be the Fire. And the wrongdoers will have no helpers.
+
+## AI Tafsir
+
+**Context:** Mujahid and several others said that this Ayah was revealed about the Christians in particular. As-Suddi and others said that this Ayah was revealed about taking 'Isa and his mother as gods besides Allah, thus making All…
+
+**What this ayah teaches:** And for the wrongdoers there are no helpers (72)Surely, they have disbelieved who say: "Allah is the third of three." And there is no Allah but One Allah (Allah).
+
+**Classical tafsir:** Ibn Kathir notes: Despite all of this, Allah calls them to repent so that He will forgive them, for Allah forgives those who sincerely repent to Him.
+
+**From the Sunnah:** It is recorded in the Sahih that the Prophet ﷺ had someone proclaim to the people,
 ## Personal Reflections
 
 

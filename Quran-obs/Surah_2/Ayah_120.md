@@ -250,6 +250,19 @@ Now, supposing just for the sake of supposing that he should accept their fancie
 
 32. Let us add that the warning is apparently addressed to the Holy Prophet ﷺ ، but is really intended for deniers, the purpose being to make them realize the dire consequences of their vanity. In fact, divine wrath is already visible, for the warning has been administered to them, not directly but obliquely, which shows the contempt in which Allah holds them -- Translator ]
 
+## AI Translation
+
+The Jews and Christians will never be pleased with you until you follow their way. Say, "Allah's guidance is the true guidance." If you followed their desires after knowledge has come to you, you would have no protector or helper against Allah.
+
+## AI Tafsir
+
+**Context:** These Ayat mean, "Those among the People of the Book who perfectly adhered to the Books that were revealed to the previous Prophets, will believe in what I have sent you with, O Muhammad!" Allah said in another Ayah,
+
+**What this ayah teaches:** Yatlunahu Haqqan Tilawatih.) Abdur-Razzaq ﷺ said from Ma'mar, from Qatadah, "They are the Jews and Christians." This is the opinion of 'Abdur-Rahman bin Zayd bin Aslam, and it was also chosen by Ibn Jarir.
+
+**Classical tafsir:** Ibn Kathir notes: It is on account of the present distorted state of the earlier religions, and specially because of their having been abrogated by Divine Commandment that Verse 120 equates them with Ahwa' (the plural of Hawa) -- that is to say, personal desires, or individual opinions and baseles…
+
+**From the Sunnah:** This Hadith was collected in the Sahih and narrated from 'Abdullah bin 'Amr.
 ## Personal Reflections
 
 

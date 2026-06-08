@@ -125,6 +125,17 @@ Allah's Fairness to Sinners
 
 كُلُّ امْرِ‌ئٍ بِمَا كَسَبَ رَ‌هِينٌ (Every person will be pledged for what he earned.) After Allah mentioned His favour of elevating the children to the ranks of their parents, even though the deeds of the former did not qualify them, He affirmed His fairness in that, He does not punish anyone for the sins of others. Therefore, every person will be responsible for his actions. No sins committed by others shall ever be added to one's load, even if committed by his parents or children. (Ibn Kathir)
 
+## AI Translation
+
+Or did they create the heavens and the earth? In fact, they have no firm conviction.
+
+## AI Tafsir
+
+**What this ayah teaches:** Nay, but they have no firm belief.) meaning, Allah is censuring the idolators for their idolatry, while asking them if they created the heavens and earth.
+
+**Classical tafsir:** Ibn Kathir notes: Then let their listener produce some manifest proof (38)Or has He only daughters and you have sons (39)Or is it that you ask a wage from them so that they are burdened with a load of debt (40)Or that the Unseen is with them, and they write it down (41)Or do they intend a plot?
+
+**From the Sunnah:** This Hadith is collected in the Two Sahihs using various chains of narration. Paradise, who will ask: '0 Lord! How did I earn this?' Allah will reply: 'Through your son's invoking Me to forgive you. (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -162,6 +162,17 @@ This shows that her people were star-worshippers and used to worship the sun. So
 
 أَلَّا يَسْجُدُوا لِلَّـهِ الَّذِي يُخْرِ‌جُ الْخَبْءَ (that is, they do not prostrate to Allah who bring forth what is hidden - 25).This sentence is linked with the previous one, "The Shaitan has beautified their deeds - 26" and the sense is that the Shaitan had engrained in their minds that they should not bow down before Allah, or had prevented them from the righteous path so that they should not prostrate before Allah Ta’ ala.
 
+## AI Translation
+
+I found her and her people prostrating to the sun instead of Allah. For Satan has made their deeds appealing to them—hindering them from the Sirat al-Mustaqim — the way of living that pleases Allah and leaving them unguided—
+
+## AI Tafsir
+
+**What this ayah teaches:** Since the hoopoe was calling to what is good, and for people to worship and prostrate to Allah alone, it would have been forbidden to kill him.
+
+**Classical tafsir:** Ibn Kathir notes: Saba' (Sheba) refers to Himyar, they were a dynasty in Yemen.
+
+**From the Sunnah:** the Prophet ﷺ forbade killing four kinds of animals: ants, bees, hoopoes and the sparrow hawks. (Musnad Ahmad, Sunan Abi Dawud)
 ## Personal Reflections
 
 

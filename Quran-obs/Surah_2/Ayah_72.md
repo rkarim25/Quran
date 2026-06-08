@@ -106,6 +106,15 @@ Injunctions and related consideration
 
 In this incident the statement of the murdered man was considered evidence for condemning the murderer, because Allah had informed Sayyidna Musa (علیہ السلام) through revelation that the man would, on coming back to life, speak the truth. Otherwise, one cannot be declared as being guilty of murder without proper evidence, the rules of which have been laid down by the Shari'ah.
 
+## AI Translation
+
+When a man was killed and you disputed over who did it, Allah brought out what you were hiding.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verse 72 relates how a man was murdered, and how people started accusing each other. And (remember) when you killed a man and disagreed among yourselves as to the crime.
+
+**Classical tafsir:** Ibn Kathir notes: Verse 72 relates how a man was murdered, and how people started accusing each other.
 ## Personal Reflections
 
 

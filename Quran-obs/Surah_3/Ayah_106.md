@@ -230,6 +230,17 @@ In the verse Allah Almighty has mentioned the بْيَضُّ bayyad first, and t
 
 About the statement, فی رحمۃ اللہ 'they shall rest in Allah's mercy', the blessed Companion Sayyidna Ibn ` Abbas ؓ says that 'rahmah' or 'mercy' in the verse means جَنَّت 'Jannah' or 'paradise'. Here too, the wisdom behind giving the name 'mercy' to 'paradise' is, quite obviously, that man, no matter how worshipful and pious he may be, shall not enter Paradise unless it be through the sole mercy of Allah Almighty. The reason is that being devoted in acts of worship is no feat of human excellence as such. On the contrary, the very ability to do so is, in itself, a gift of Allah. So, عبادہ 'ibadah' or worship does not, in itself, create an inherent right to enter Paradise. It is Allah's mercy alone through which one can enjoy the bliss of Paradise. (al-Tafsir al-Kabir)
 
+## AI Translation
+
+On that Day some faces will be bright while others gloomy. To the gloomy-faced it will be said, “Did you reject the truth after having believed? So taste the punishment for your rejection of the truth.”
+
+## AI Tafsir
+
+**What this ayah teaches:** That purpose is to bless His creation with His mercy; punishment is not the objective.
+
+**Classical tafsir:** Ibn Kathir notes: According to the majority of commentators, 'brightness' signifies the brightness of the light of Faith, that is, the faces of believers shall be resplendent with the light of Faith, fresh and smiling due to happiness (as a result of rewards bestowed upon them by Allah).
+
+**From the Sunnah:** The objective of this Ayah is that there should be a segment of this Muslim Ummah fulfilling this task, even though it is also an obligation on every member of this Ummah, each according to his ability. (Sahih Muslim) this Hadith and said, "Hasan". (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

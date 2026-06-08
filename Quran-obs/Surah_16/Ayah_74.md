@@ -74,6 +74,15 @@ Allah tells us about the Mushrikin who worship others besides Him, even though H
 
 The statement: فَلَا تَضْرِ‌بُوا لِلَّـهِ الْأَمْثَالَ (So, do not coin similarities for Allah -74) clarifies an important aspect of the reality of things as they relate to Allah. If ignored, it becomes the breeding ground of all sorts of rejectionist doubts and scruples. The problem is that people would generally take Allah Ta’ ala the analogy of their own humankind and go on to declare the highest placed among them, a king and ruler, as similar to Allah Ta’ ala. Then, relying on this wrong assumption, they start seeing the Di-vine system on the analogy of the system of human monarchs. This leads them to take a cue from the fact that since no king can, all by himself, run the administration of the whole kingdom, the system is run by dele-gating powers to subordinate ministers and officials who do that on his behalf. Similarly, they believe and propose that there have to be some other objects of worship under the authority of Allah Ta’ ala who would help Him out in carrying out His tasks. This is the general theory of all idol-worshipers and polytheists. This sentence of the Qur’ an has cut off the very root of these doubts by stating that suggesting examples of what has been created and applying them on Allah Ta’ ala, the Creator, is something unreasonable by itself. He is far above similarities and analogies and conjectures and guesses.
 
+## AI Translation
+
+So do not set up equals to Allah, for Allah certainly knows and you do not know.
+
+## AI Tafsir
+
+**What this ayah teaches:** Truly, Allah knows and you know not .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

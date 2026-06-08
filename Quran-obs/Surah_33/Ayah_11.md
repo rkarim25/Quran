@@ -161,6 +161,15 @@ Sayyidna Salman ؓ presented himself before the Holy Prophet ﷺ and told him ab
 
 The Holy Prophet ﷺ said, "In the light that was released after the first strike, I saw the palaces of the cities of Yaman and those of Cyrus and Angel Jibra'il told me: 'your Ummah will conquer these cities.' And when I struck at the rock the second time, I was shown the red palaces of the Byzantines and Angel Jibra'il gave the good news, 'your Ummah will conquer these cities as well.' " After having heard this, all Muslims felt at peace and became assured of their great successes in the future.
 
+## AI Translation
+
+Then and there the mu'mins were put to the test, and were violently shaken.
+
+## AI Tafsir
+
+**Context:** Identified in the previous verses was the great station of the Holy Prophet ﷺ along with the instruction to Muslims that they should follow and obey him totally and perfectly.
+
+**What this ayah teaches:** Therefore, this battle was the severest on the Holy Prophet t and the noble Sahabah as compared with other battles - because, the count of the attacking confederate forces of the those who reject the truth has been given as twelve to fifteen thousand.
 ## Personal Reflections
 
 

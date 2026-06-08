@@ -118,6 +118,17 @@ Ruling
 
 This verse indicates that any such compromise with the unbelievers is tantamount to mudahanah fid-din, flexibility in religion, and this is forbidden. [ Mazhari ]. Such a pact of leniency in matters of religion is not permissible, unless compelled by necessity.
 
+## AI Translation
+
+They wish you would compromise so they too might yield.
+
+## AI Tafsir
+
+**What this ayah teaches:** Ruling This verse indicates that any such compromise with the unbelievers is tantamount to mudahanah fid-din, flexibility in religion, and this is forbidden.
+
+**Classical tafsir:** Ibn Kathir notes: Ruling This verse indicates that any such compromise with the unbelievers is tantamount to mudahanah fid-din, flexibility in religion, and this is forbidden.
+
+**From the Sunnah:** Al-Waki' said, "It ('Utul) is every Jawwaz, Ja'zari and arrogant person." Both Al-Bukhari and Muslim recorded this in their Two Sahihs, as well as the rest of the Group, except for Abu Dawud. (Sahih al-Bukhari, Sahih Muslim) Concerning the word Zanim, Al-Bukhari recorded from Ibn 'Abbas that he said concerning the Ayah, (Sahih al-Bukhari)
 ## Personal Reflections
 
 

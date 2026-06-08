@@ -98,6 +98,15 @@ Commentary
 
 Hasan a1-Basri (رح) says that he knew people who did virtuous deeds, yet were more fearful than people who committed evil deeds. (Qurtubi)
 
+## AI Translation
+
+and who do whatever good they do with their hearts fearful, knowing that they will return to their Rabb—
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, those who live in awe for fear of their Lord (57)And those who believe in the Ayat of their Lord (58)And those who join not anyone as partners with their Lord (59)And those who give that which they give with their hearts full of fear, because they are sure to return to their Lord (60)It is these who hasten in the good deeds, and they are foremost in them .
+
+**Classical tafsir:** Ibn Kathir notes: Verily, those who live in awe for fear of their Lord (57)And those who believe in the Ayat of their Lord (58)And those who join not anyone as partners with their Lord (59)And those who give that which they give with their hearts full of fear, because they are sure to return to th…
 ## Personal Reflections
 
 

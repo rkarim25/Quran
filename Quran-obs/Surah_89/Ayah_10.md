@@ -212,6 +212,17 @@ Ibn 'Abbas said, "He hears and He sees." This means that He watches over His cre
 
 وَفِرْعَوْنَ ذِي الْأَوْتَادِ (and with Fir'aun [ the Pharaoh ], the man of the stakes...89:10). The word autad is the plural of watad that means 'peg or stake or nail'. Fir'aun (the Pharaoh) is referred to as 'the man of the stakes'. There are several reasons for this. Majority of the commentators hold the view that he was so called because of the brute torture and cruel torment he inflicted on the people. When he was angry with people, he would hammer stakes into the ground and tie them to these, so that they could be tortured; or he would hammer stakes into their hands and feet, as they lay on the ground in the scorching heat of the sun, and leave them to the mercy of snakes and scorpions. Other commentators have recounted a lengthy story about his wife 'Asiyah. She embraced 'Iman (the True Faith) and expressed it to Fir'aun (the Pharaoh). This angered him and he inflicted on her the same type of brute torture and destroyed her. [ Mazhari ].
 
+## AI Translation
+
+And Pharaoh, master of fortified pillars?
+
+## AI Tafsir
+
+**What this ayah teaches:** Fir'aun (the Pharaoh) is referred to as 'the man of the stakes'.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "Iram was an ancient nation who were the first people of 'Ad." Qatadah bin Di'amah and As-Suddi both said, "Verily, Iram refers to the House of the kingdom of 'Ad." This latter statement is good and strong. Ibn 'Abbas said, "They carved them and they hewed them." This was also said by Mujahid, Qatadah, Ad-Dahhak and Ibn Zayd.
+
+**From the Sunnah:** a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. (Sunan an-Nasa'i) It is said, "Hajara Al-Hakim so-and-so (The judge passed a judgement preventing so-and-so)," when his judgement prevents the person from his liberty (i.e., of freely utilizing his wealth). (al-Mustadrak)
 ## Personal Reflections
 
 

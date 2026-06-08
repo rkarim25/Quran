@@ -121,6 +121,15 @@ Fourthly, it was stated: In your sight these poor people may appear lowly and di
 
 Then, it was said: If I too were to start calling them lowly and disgraceful, I too would become unjust.
 
+## AI Translation
+
+My advice will not benefit you—no matter how hard I try—if Allah wills for you to stray. He is your Rabb, and to Him you will all be returned.”
+
+## AI Tafsir
+
+**What this ayah teaches:** But, I cannot say as you say that Allah Ta'ala will not bless them with what is good, because good relates to one's heart, not wealth, and only Allah knows the secrets of hearts and He knows whose heart is worthy of receiving good and whose heart is not. and to Him you shall return.) He is the Owner of the finality of all matters.
+
+**Classical tafsir:** Ibn Kathir notes: But, I cannot say as you say that Allah Ta'ala will not bless them with what is good, because good relates to one's heart, not wealth, and only Allah knows the secrets of hearts and He knows whose heart is worthy of receiving good and whose heart is not.
 ## Personal Reflections
 
 

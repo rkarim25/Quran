@@ -146,6 +146,17 @@ That way has been described in Verse 67.
 
 Verse 68 declares that the closest of people to Sayyidna Ibrahim (علیہ السلام) were those who followed him during his time and now the closest to him is the Prophet of Islam, Muhammad a1-Mustafa ﷺ and so are the believers in him and in past prophets. These believers are the community of Muhammad ﷺ and their guardian is Allah and He will reward them for their belief.
 
+## AI Translation
+
+Abraham was neither a Jew nor a Christian; he submitted in all uprightness and was not a polytheist.
+
+## AI Tafsir
+
+**What this ayah teaches:** Why do you dispute about Ibrahim,) meaning, 'How is it that you, Jews, claim that Ibrahim was Jew, although he lived before Allah sent down the Tawrah to Musa?
+
+**Classical tafsir:** Ibn Kathir notes: That way has been described in Verse 67.
+
+**From the Sunnah:** It is Allah Who knows, and you know not (66)Ibrahim was neither a Jew nor a Christian, but he was a true Muslim Hanifa and he was not of the Mushrikin (67)Verily, among mankind who have the best claim to Ibrahim are those who followed him, and this Prophet and… (Sahih Muslim) Allah censures the Jews and Christians for their dispute with Muslims over Ibrahim Al-Khalil and the claim each group made that he was one of them.
 ## Personal Reflections
 
 

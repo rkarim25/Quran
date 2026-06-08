@@ -268,6 +268,17 @@ Oneness of Allah
 
 Verse [ 112:1] قُلْ هُوَ اللَّـهُ أَحَدٌ Say, (The truth is: Allah is One.) The imperative qul (Say) is directly addressed to the Holy Prophet Muhammad ﷺ ، thus indicating that he is Allah's Prophet and Messenger. This verse directs and commands him to convey Allah's message to mankind. 'Allah' is the personal name of that Necessary Being Whose non-existence is inconceivable. He comprises all the attributes of perfection and is free from, or above, or overrides all kinds of imperfections. The epithets ahad and wahid are both applied to Allah which are normally translated as 'One' but the word ahad includes an additional sense which signifies that Allah is beyond composition, plurality and resemblance, which means that He is neither composed of any elements, nor does He has any partner, nor has He any resemblance to anything. This is a response to those who asked about Allah whether He is made of gold or silver or pearls. This concise statement covers all aspects of discussion on the Divine Being and His attributes. The imperative qul [ say ] points to the messenger-ship of the Holy Prophet ﷺ . If analyzed properly, this brief sentence covers all the detailed discussions expounded in voluminous books of theology.
 
+## AI Translation
+
+Say to them: He is Allah—the One. Not one among many, not one part of a pair, but absolutely singular in His essence, deserving worship with no partner whatsoever.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah commands the Prophet ﷺ to declare Allah's oneness: He neither begets nor is begotten—rejecting every form of shirk.
+
+**Classical tafsir:** Ibn Kathir: *qul* makes this a declaration to humanity. Maarif: al-Ikhlas negates lineage from Allah, the core of pagan and mistaken beliefs.
+
+**From the Sunnah:** Reciting al-Ikhlas equals one-third of the Qur'an in reward (Bukhari, Muslim).
 ## Personal Reflections
 
 

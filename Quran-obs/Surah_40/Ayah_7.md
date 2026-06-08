@@ -205,6 +205,17 @@ Said Ibn Jubayr has said, 'When a believer goes to Jannah, he will ask about his
 
 After having reported this Hadith narration in Tafsir Mazhari, the author said, 'this 'mawquf (a Hadith mawquf or restricted tradition from a Companion who does not connect it to the Holy Prophet ﷺ) has the same authority and force as 'marfu" (a Hadith marfu` is a tradition attributed to the Holy Prophet ﷺ) and is explicit on the point that 'doing good' that is held as a pre-condition for having this privilege means 'Iman' or adhering to the true faith.
 
+## AI Translation
+
+Those who carry the Throne and those around it glorify their Lord, have iman in Him, and seek forgiveness for the believers, praying: "Our Lord, You encompass everything in mercy and knowledge. Forgive those who repent and follow Your way, and protect them from the torment of Hellfire.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah commanded that His angels who are close to Him should pray for the believers in their absence, so it is a part of the angels' nature that they say Amin when a believer prays for his brother in his absence.
+
+**Classical tafsir:** Ibn Kathir notes: On the contrary We will raise the one whose deeds are of a lower status so that they will become equal, as a favor and a blessing from Us.' Sa'id bin Jubayr said that when the believer enters Paradise, he will ask where his father, son and brother are.
+
+**From the Sunnah:** The relatives of Muslim believers - fathers, grandfathers or wives and children - even if they are ranked lower than them, such is the munificence of Allah Ta’ ala that He would, in deference to them, also let the relatives of a lesser rank be along with them… (Sahih Muslim)
 ## Personal Reflections
 
 

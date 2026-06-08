@@ -88,6 +88,15 @@ So, when they threw, they bewitched the eyes of the people, and made them fright
 
 This verse indicates that this demonstration of their magic was just a bewitching of the eyes of the people which made them see the staffs and strings as snakes leaping on the ground, while the strings and the staffs did not change physically. It was a kind of mesmerism hypnotising the minds of the onlookers. This does not mean that sorcery is confined only in this kind and that it cannot change some-thing into another, as we do not have any proof against it. On the contrary, many forms and kinds of magic have been taken as being reality. The terms magic and sorcery are usually applied for all the acts that seem to be happening in unusual way. Sleight of hand, telepathic influences and mesmerism are sometimes called magic. Trans-formation of one thing into another through magic may be a possibility but we have no valid reason or proof for or against it.
 
+## AI Translation
+
+Moses said, “You first.” So when they did, they deceived the eyes of the people, stunned them, and made a great display of magic.
+
+## AI Tafsir
+
+**What this ayah teaches:** It was said that the wisdom behind asking them to throw first, is that - Allah knows best - the people might witness the magicians' sorcery first.
+
+**Classical tafsir:** Ibn Kathir notes: This verse indicates that this demonstration of their magic was just a bewitching of the eyes of the people which made them see the staffs and strings as snakes leaping on the ground, while the strings and the staffs did not change physically.
 ## Personal Reflections
 
 

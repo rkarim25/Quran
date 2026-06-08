@@ -193,6 +193,17 @@ Allah says,
 
 عَلٰي حُبِّهٖ (despite their love for it). This would mean that they give food to the needy while they themselves love it and desire it_ not that they eat to their fill and give the left-over food to the needy and poor. That feeding the poor and orphans is a form of worship and attracts reward is obvious. The word 'captive' refers to all prisoners, Muslim criminals, as well as infidels who are kept in prisons according to the principles of Shari` ah. It is the responsibility of the Islamic government to feed them. Anyone who feeds them is actually assisting the government and the public treasury. Therefore, feeding the prisoners, even Non-Muslims, is an act of reward. In the early days of Islam, especially, feeding the prisoners and taking care of them or protecting them was a responsibility that was shared by the general body of Muslims, as it happened with the prisoners of the Battle of Badr.
 
+## AI Translation
+
+Shade hangs close above them; fruit hangs within easy reach.
+
+## AI Tafsir
+
+**What this ayah teaches:** Anyone who feeds them is actually assisting the government and the public treasury.
+
+**Classical tafsir:** Ibn Kathir notes: This refers to Paradise and its beauty, its vastness, its loftiness and the joy and happiness it contains.
+
+**From the Sunnah:** The word 'captive' refers to all prisoners, Muslim criminals, as well as infidels who are kept in prisons according to the principles of Shari` ah. (Sahih Muslim)
 ## Personal Reflections
 
 

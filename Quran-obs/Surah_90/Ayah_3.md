@@ -290,6 +290,17 @@ This is the end of the Tafsir of Surat Al-Balad, and all praise and blessings ar
 
 وَوَالِدٍ وَمَا وَلَدَ (and by the father and that which he begot,...90:3) The word walid refers to Holy Prophet 'Adam (علیہ السلام) the father of mankind, and the phrase مَا وَلَدَ 'that which he begot' refers to his children from the inception of the world to the end of the world. Thus this phrase swears an oath by Holy Prophet 'Adam (علیہ السلام) and all his children. The subject of the oath follows next, thus:
 
+## AI Translation
+
+And by every parent and what they bear—the bond of lineage and responsibility Allah wove into human life.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, it is sacred by the sanctity of Allah until the Day of Judgement. Then after it He swears by the dwellers therein, who is Adam, the father of mankind, and his children.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
+
+**From the Sunnah:** Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
 ## Personal Reflections
 
 

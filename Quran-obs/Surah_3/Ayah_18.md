@@ -228,6 +228,17 @@ And a narration from Imam al-A'mash (رح) says: Whoever recites this verse and 
 
 Another hadith from Sayyidna Abu Ayyub al-Ansari ؓ narrates that the Holy Prophet ﷺ said: 'Whoever recites Ayah al-Kursi (2:255) and the Ayah : شَهِدَ اللَّـهُ Shahidal-lahu (3:18) and قُلِ اللَّـهُمَّ مَالِكَ الْمُلْكِ : Qulil-lahumma malik al-mulki upto بِغَيْرِ‌ حِسَابٍ bighairi hisab (3:26, 27), Allah Almighty will forgive all his sins, admit him to Paradise and take care of seventy (i.e. plenty) of his needs, the simplest of these being his forgiveness.' (Ruh a1-Ma` ani with reference to Dailami)
 
+## AI Translation
+
+Allah is a Witness that there is no god except Him—and so are the angels and people of knowledge. He is the Maintainer of justice. There is no god except Him—the Almighty, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** It is also possible that the term, ulul` ilm (the men of knowledge) may, in an absolute sense, be referring to those who, by conducting an inquiry based on sound intellectual principles, or by deliberating into this universe, could acquire the knowl-edge of the unity of Allah Almighty - even if they are not ` alim or 'men of knowledge' in the traditional sense, whose knowledge…
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, after Allah sent Muhammad ﷺ, whoever meets Allah following a path other than Muhammad's, it will not be accepted of him.
+
+**From the Sunnah:** The Two Sahihs and other collections of Hadith recorded that the Prophet ﷺ sent letters to the kings of the earth during his time and to different peoples, Arabs and non-Arabs, People of the Book and the unlettered, just as Allah had commanded him.
 ## Personal Reflections
 
 

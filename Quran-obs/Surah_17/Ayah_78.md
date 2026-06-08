@@ -237,6 +237,17 @@ In the next phrase: وَقُرْ‌آنَ الْفَجْرِ‌ (wa Qur’ an al
 
 The word 'mashhud' in the expression: كَانَ مَشْهُودًا (kana mashhuda) has been derived from shahadah that means to be present.' This is a time when, according to clear statements in authentic Ahadith, both groups of angels, those of the night and those of the day, present themselves for Salah. Therefore, it has been called 'mashhud' (hence, translated as 'well-attended' ). The injunction of five prayers has appeared in this verse briefly. It has been explained fully by the Holy Prophet ﷺ through his word and deed - and unless one acts in accordance with this explanation, no one can perform Salah. I just do not know how those who claim to understand the Qur'an without Hadith and the statements of the Rasul of Allah go about making their Salah? Similarly, in this verse, the recital of the Qur’ an within the Salah has also been mentioned briefly. As for its details, it stands proved from the word and deed of the Holy Prophet ﷺ that the recitation in the Fajr prayer should be long - to the measure of strength and ability, less than that in Zuhr and Jumu'ah, average in ` Asr and ` Isha' and very brief in Maghrib. As for the mention of a long recitation in Maghrib and very brief in Fajr in some reports, it stands practically abandoned. Imam al-Qurtubi carries the riwayah of Sahih Muslim in which the recitation of long Surahs like Surah al-A` raf and Mursalat in the Salah of Maghrib, or the recitation of only the Mu'awwadhatain (the last two Surahs) as sufficient in the Salah of Fajr have been reported. He, then, comments: فمتروک بالعمل ولانکارہ علی معاذ التطویل و بامرہ الایٔمۃ بالتخفیف . It means that these incidentals of long recitation in Maghrib and brief in Fajr stand abandoned in the light of the constant practice of the Holy Prophet ﷺ as well as his verbal sayings. (Qurtubi)
 
+## AI Translation
+
+Observe the salah — the formal prayer from the decline of the sun until the darkness of the night and the dawn salah, for certainly the dawn salah is witnessed by angels.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, the recitation of the Qur'an in the early dawn is ever witnessed (78)And in some parts of the night (also) offer the Salah with it as an additional prayer for you.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, it has been called 'mashhud' (hence, translated as 'well-attended' ).
+
+**From the Sunnah:** The details of the timings of the prayers were reported in the Mutawatir Sunnah from the words and deeds of the Prophet ﷺ, and this is what the people of Islam have followed until the present day, passing it down from generation to generation, century after ce… from Abu Hurayrah that the Prophet ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
 
 

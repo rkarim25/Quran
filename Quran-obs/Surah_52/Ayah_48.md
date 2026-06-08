@@ -176,6 +176,17 @@ On the authority of Sayyidna Abu Hurairah ؓ ، the Holy Prophet ﷺ is reported
 
 "Whoever sits in a gathering in which he speaks idle excessively, but says before he stands up to depart that gathering, سُبحَانَکَ اللَّھُمِّ وَبِحَمدِکَ اَشھَدُ اَن لَّا اِلٰہَ اِلَّا اَنتَ اَستَغفِرُکَ وَ اَتُوبُ اِلَیکَ ('I proclaim Your Purity, 0 Allah, along with Your Praise', I testify that there is no God except You, I seek Your forgiveness, I repent to You.' ) Allah will forgive him what he has said in that gathering ".
 
+## AI Translation
+
+So endure with sabr your Rabb's decree. You are under Our watchful care. Glorify your Rabb when you rise,
+
+## AI Tafsir
+
+**What this ayah teaches:** At the conclusion of the chapter, the Qur'an says 'You are before Our eyes', that is, under Our care and We shall protect you from every evil.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** In his Sahih, Muslim recorded that 'Umar used to recite this supplication when he began Salah. (Sahih Muslim) Ahmad and the Sunan compilers recorded this Hadith from Abu Sa'id and other Companions, who stated that the Prophet ﷺ used to say that.
 ## Personal Reflections
 
 

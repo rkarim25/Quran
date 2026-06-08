@@ -126,6 +126,15 @@ Then, at this point Allah attaches one piece of information to another. The mean
 
 The word is applied to a particular person or the followers of a particular faith, and it also means a sect. The meaning of the verse is that the most rebellious from amongst the different sects of the infidels will be picked out. Some commentators say that the sinners will be committed to Hell in the order of the intensity of their sins, i.e. those sinners will be driven in first whose sins are most intense and those with less intense sins, will follow them, and so on.
 
+## AI Translation
+
+We know best who is most deserving of burning in it.
+
+## AI Tafsir
+
+**What this ayah teaches:** This means that He, the Exalted, created the human being while he was nothing. The word is applied to a particular person or the followers of a particular faith, and it also means a sect.
+
+**Classical tafsir:** Ibn Kathir notes: This means that He, the Exalted, created the human being while he was nothing.
 ## Personal Reflections
 
 

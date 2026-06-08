@@ -194,6 +194,17 @@ Commentary
 
 نَفَشَتْ فِيهِ غَنَمُ الْقَوْمِ the goats of the people wandered therein grazing - 21:78). In Arabic language the word نَفَشَ (translated above as 'wandering and grazing' ) means an animal getting into a field at night and damaging it.
 
+## AI Translation
+
+And remember when David and Solomon passed judgment regarding the crops ruined at night by someone’s sheep, and We were witness to their judgments.
+
+## AI Tafsir
+
+**What this ayah teaches:** And (remember) Dawud and Sulayman, when they gave judgement in the case of the field in which the sheep of certain people had Nafashat; and We were witness to their judgement (78)And We made Sulayman to understand (the case); and to each of them We gave wisdom (Hukm) and knowledge.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said that before that, they used to wear plated armor; he was the first one to make rings of chain-armor.
+
+**From the Sunnah:** Ibn Abi Hatim recorded that when Iyas bin Mu'awiyah was appointed as a judge, Al-Hasan came to him and found Iyas weeping. With regard to others, it is recorded in Sahih Al-Bukhari from 'Amir bin Al-'As that the Messenger of Allah ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
 
 

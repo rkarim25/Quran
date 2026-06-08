@@ -121,6 +121,17 @@ The Holy Prophet ﷺ has said:
 
 He who obeyed Muhammad ﷺ obeyed Allah and he who disobeyed Muhammad ﷺ disobeyed Allah. (Tafsir Mazhari)
 
+## AI Translation
+
+Say, “If you love Allah, then follow me; Allah will love you and forgive your sins. For Allah is All-Forgiving, the Rahim.”
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah is Oft-Forgiving, ar-Rahim.
+
+**Classical tafsir:** Ibn Kathir notes: Affirmed now is the belief in prophethood as well as the necessity of following the Messenger so that we stand informed that the rejection of prophethood or refusal to obey the Prophet ﷺ is also an act of disbelief (kufr) like the rejection of the Oneness of Allah.
+
+**From the Sunnah:** This is the Prophet ﷺ who, if the previous Prophets and mighty Messengers were to have been alive during his time, they would have no choice but to follow, obey him, and to abide by his Law. Affirmed now is the belief in prophethood as well as the necessity of following the Messenger so that we stand informed that the rejection of prophethood or refusal to obey the Prophet ﷺ is also an act of disbelief (kufr) like the rejection of the Oneness of A…
 ## Personal Reflections
 
 

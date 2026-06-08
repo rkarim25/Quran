@@ -114,6 +114,17 @@ It is obvious that the passage of such a long time would cause great changes in 
 
 About the recognizing of Sayyidna Yusuf (علیہ السلام) ، Ibn Kathir has said, on the authority of Suddiyy: When these ten brothers reached the court, Sayyidna Yusuf (علیہ السلام) interrogated them as is done with suspicious people so that they would state the truth clearly. First of all, he asked them: You are not residents of Egypt. You speak Hebrew. How did you get here? They said: There is a great famine in our country. We have heard about you, therefore, we are here to get some grain. Sayyidna Yusuf (علیہ السلام) asked again: How do we know that you are telling the truth, and that you are not an enemy spy? Then, all brothers said: God forbid, we can never do that. We are the sons of the Prophet of Allah Ya` qub (علیہ السلام) who lives in Canaan.
 
+## AI Translation
+
+And Joseph’s brothers came and entered his presence. He recognized them but they were unaware of who he really was.
+
+## AI Tafsir
+
+**What this ayah teaches:** Yusuf's Brothers travel to Egypt As-Suddi, Muhammad bin Ishaq and several others said that the reason why Yusuf's brothers went to Egypt, is that after Yusuf became minister of Egypt and the seven years of abundance passed, then came the seven years of drought that struck all areas of Egypt.
+
+**Classical tafsir:** Ibn Kathir notes: They were ten, because Ya'qub peace be upon him kept his son and Yusuf's brother Binyamin with him.
+
+**From the Sunnah:** Prophet Yusuf efficiently guarded the people's harvest and collected it, and what he collected became a great fortune for the people.
 ## Personal Reflections
 
 

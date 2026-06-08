@@ -172,6 +172,17 @@ At this Sayyidah ` A'ishah ؓ asked, "What is the meaning of the [ following ] v
 
 This explanation of the Holy Prophet ﷺ clarifies that the deeds of the believers will also be presented before Allah, but by virtue of their faith, not all of their actions will be scrutinised. This is referred to as 'account in an easy manner'. The words 'he will go back to his people joyfully' may be interpreted in one of two ways. This may refer to the Houris who will be his family members in Paradise, or it may refer to his family members in the world who will be present in the Plain of Gathering, and he, after knowing about his success, will impart to them, according to the custom of this life, the welcome news of his achievement. The commentators have mentioned both possibilities in interpreting this sentence. [ Qurtubi ].
 
+## AI Translation
+
+will face an easy reckoning,
+
+## AI Tafsir
+
+**What this ayah teaches:** Then as for him who will be given his Record in his right hand,)(8.
+
+**Classical tafsir:** Ibn Kathir notes: This means that he will not be investigated for all the minute details of his deeds.
+
+**From the Sunnah:** Then when he completed the prayer, he informed them that the Messenger of Allah ﷺ prostrated during its recitation. (Sahih Muslim, Sunan an-Nasa'i) from Abu Rafi' that he prayed the Night prayer with Abu Hurayrah) recited, (Sahih al-Bukhari)
 ## Personal Reflections
 
 

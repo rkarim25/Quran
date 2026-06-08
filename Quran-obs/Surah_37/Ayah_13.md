@@ -82,6 +82,15 @@ Qatadah said, "Muhammad ﷺ was astounded by the mockery of the misguided ones a
 
 As for the reaction of disbelievers on rational proofs, it was said: بَلْ عَجِبْتَ وَيَسْخَرُ‌ونَ وَإِذَا ذُكِّرُ‌وا لَا يَذْكُرُ‌ونَ (But you wonder [ at their denial ], and they mock [ at the idea of an Hereafter ]. And when any advice is given to them, they pay no heed to it. – 12-13). Given here first is the stance of the Holy Prophet ﷺ who wonders as to how could these people, after having such clear proofs before them, still remain reluctant to accept the truth while these people, on the contrary, indulge in making fun of the proofs and beliefs presented by him before them. In fact, no amount of advice and counsel given to them works. They are just averse to any understanding.
 
+## AI Translation
+
+When they are reminded, they are never mindful.
+
+## AI Tafsir
+
+**What this ayah teaches:** And when any advice is given to them, they pay no heed to it.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

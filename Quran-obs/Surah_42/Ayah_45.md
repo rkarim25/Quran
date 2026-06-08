@@ -194,6 +194,17 @@ It is Allah Ta’ ala alone who grants female children to whom He wills, and mal
 
 While stating the sex of children in this verse, Allah Ta’ ala has mentioned females first, and males later. Taking a hint from this verse, Sayyidna Wathilah Ibn Asqa' ؓ has said that blessed is the woman who gives birth to a daughter first. (Qurtubi)
 
+## AI Translation
+
+And you will see them exposed to the Fire, fully humbled out of disgrace, stealing glances at it. And the believers will say, "The true losers are those who have lost themselves and their families on Judgment Day." The wrongdoers will certainly be in everlasting torment.
+
+## AI Tafsir
+
+**What this ayah teaches:** And those who believe will say: "Verily, the losers are they who lose themselves and their families on the Day of Resurrection." Verily, the wrongdoers will be in a lasting torment (45)And they will have no protectors to help them other than Allah.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** The earlier three of the above verses state the end of those people who, as against the virtuous Muslims, remained desirous of the delights and luxuries of this world, instead of caring about the Hereafter.
 ## Personal Reflections
 
 

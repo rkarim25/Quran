@@ -68,6 +68,15 @@ A Lexical Note of Explanation
 
 The word: اَلشِيَعِ in the first verse (10) is the plural form of: شِیعہ (shah) which means the follower or helper of a person. Then, it is also used to denote a group which agrees upon particular beliefs and theoretical assumptions. So, the sense of the statement is that Allah Ta’ ala has sent messengers among every group or sect. Here, by using the word: فِی in فِي شِيَعِ الْأَوَّلِينَ ( in place of اِلٰی : ila: to (translated as 'among the groups of earlier peoples' ), the hint given is that the messenger for every group was sent from among that particular group so that people would find it easy to trust him, and that he too, by being aware of their taste and temperament, could make appropriate plans to work for their reform.
 
+## AI Translation
+
+And even if We opened for them a gate to heaven, through which they continued to ascend,.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Stubborn those who reject the truth will never believe, no matter what Signs and Wonders They see Allah explains the extent of their disbelief and stubborn resistance to the truth by stating that even if a door to heaven were to be opened for them, and they were to be taken up through it, they would still not believe.
+
+**Classical tafsir:** Ibn Kathir notes: The Stubborn those who reject the truth will never believe, no matter what Signs and Wonders They see Allah explains the extent of their disbelief and stubborn resistance to the truth by stating that even if a door to heaven were to be opened for them, and they were to be taken up through it,…
 ## Personal Reflections
 
 

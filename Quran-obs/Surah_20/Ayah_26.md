@@ -106,6 +106,17 @@ His second prayer was يَسِّرْ‌ لِي أَمْرِ‌ي (make my task e
 
 0 Allah! Be kind to us and make our difficult tasks easy because it is easy for you to make every difficult thing easy.
 
+## AI Translation
+
+and untie the knot from my tongue so they may understand my speech.
+
+## AI Tafsir
+
+**What this ayah teaches:** Be kind to us and make our difficult tasks easy because it is easy for you to make every difficult thing easy.
+
+**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported from Abu Sa'id, from 'Ikrimah, who said that Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
+
+**From the Sunnah:** Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
 ## Personal Reflections
 
 

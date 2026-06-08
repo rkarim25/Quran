@@ -211,6 +211,17 @@ A doctrinal point
 
 On the basis of verse 48, the Mu'tazilah and some other groups of a more recent origin have denied the possibility of all intercession in favour of Muslims. But, as we have shown above, the negation of intercession applies only to disbelievers and infidels. (Bayan al-Qur an)
 
+## AI Translation
+
+Guard yourselves against the Day when no soul will avail another, no intercession be accepted, no ransom taken, and no help given.
+
+## AI Tafsir
+
+**What this ayah teaches:** And fear a Day (of Judgement) when a person shall not avail another, nor will intercession be accepted from him, nor will compensation be taken from him, nor will they be helped . No repeal or ransom will be accepted for them, all courtesy towards them will have ceased, along with any helpful intercession.
+
+**Classical tafsir:** Ibn Kathir notes: As for Allah giving preference to the Israelites "over the worlds", the phrase means that they were given preference only in certain matters, or only over a large part of men - for example, over the contemporaries of the earlier Israelites.
+
+**From the Sunnah:** On the basis of verse 48, the Mu'tazilah and some other groups of a more recent origin have denied the possibility of all intercession in favour of Muslims.
 ## Personal Reflections
 
 

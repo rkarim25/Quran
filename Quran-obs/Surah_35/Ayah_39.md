@@ -137,6 +137,15 @@ Commentary
 
 The word: خَلَائِفَ (khala'if) in verse 39: هُوَ الَّذِي جَعَلَكُمْ خَلَائِفَ فِي الْأَرْ‌ضِ (He is the One who has made you successors (of the past generations) in the earth.) is the plural of: خَلِیفَہ (khalifah) which means deputy or vice-regent. The general sense is that Allah Ta’ ala has let human beings have lands and houses that keep passing on from one to the other. In this phenomena, there is a great lesson - turn to Allah. Then, the statement could also be taken to have been addressed to the ummah of the Holy Prophet t saying, 'After past communities, We made you take their place with authority to make life better around you, so it is your duty that you learn your lesson from what happened to people earlier than you, and hence you, on your part, do not while away precious moments of your life in negligence.
 
+## AI Translation
+
+He placed you as successors on earth. Whoever rejects the truth bears the burden of their own rejection. Their denial only increases them in contempt before their Lord and adds to their loss.
+
+## AI Tafsir
+
+**What this ayah teaches:** Here Allah tells us that He knows the unseen in the heavens and earth, and that He knows all that is hidden and the secrets of the hearts.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

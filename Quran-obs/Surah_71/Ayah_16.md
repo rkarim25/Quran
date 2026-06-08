@@ -157,6 +157,15 @@ Glorious is the One who made stellar formations in the sky and placed therein a 
 
 وَمَكَرُ‌وا مَكْرً‌ا كُبَّارً‌ا (and they devised an enormous plan....71:22). In other words, they hatched a mighty plot. They rejected the message and persecuted Prophet Nuh (علیہ السلام) . In addition, they let loose hooligans and hoodlums on him. They agreed that they will not abandon their gods, especially the five major idols whose names appear in the following verse:
 
+## AI Translation
+
+placing the moon as reflected light within them and the sun as a radiant lamp?
+
+## AI Tafsir
+
+**What this ayah teaches:** The prepositional phrase in the verse apparently indicates that the moon is placed in the body of the heavens.
+
+**Classical tafsir:** Ibn Kathir notes: This means that He will give you more wealth, more children and gardens with various types of fruits.
 ## Personal Reflections
 
 

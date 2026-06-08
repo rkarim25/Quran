@@ -114,6 +114,17 @@ This Surah, the second of the Mu'awwadhatain, constitutes an extension of its pr
 
 Verse [ 114:1] قُلْ أَعُوذُ بِرَ‌بِّ النَّاسِ Say, (I seek refuge with the Lord of mankind,) The attributive name of Allah rabb stands for 'one who nurtures', and implies that the Supreme Nurturer takes care of everything under all circumstances. In the present verse, He is referred to as 'the Lord of mankind', while in the previous Surah He was referred to as 'the Lord of the daybreak', because in the foregoing Surah the purpose was to seek protection against the outer bodily hardships and privations of life, and they are not confined to human beings. Animals also suffer bodily hardships and difficulties, unlike the Shaitanic instigations which are restricted to man, and the Jinn are subjoined to him. [ Mazhari from Baidawi ]
 
+## AI Translation
+
+Say: I seek refuge in the Rabb of humanity—the One who owns and cares for every human being, regardless of tribe, passport, or status.
+
+## AI Tafsir
+
+**What this ayah teaches:** In the present Surah, we are to seek refuge from the evil that is the cause of all sins, namely, the whisperings and insinuations of Shaitan.
+
+**Classical tafsir:** Ibn Kathir notes: This is because they (the Jinns) are also included in the usage of the word An-Nas (the people) in most cases.
+
+**From the Sunnah:** It is also confirmed in the Two Sahihs from Anas, who reported the story of Safiyyah when she came to visit the Prophet ﷺ while he was performing I'tikaf, that he went out with her during the night to walk her back to her house.
 ## Personal Reflections
 
 

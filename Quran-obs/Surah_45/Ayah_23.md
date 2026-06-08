@@ -183,6 +183,17 @@ Commentary
 
 In this couplet, the poet has portrayed selfish desires as statues. He who takes his desires as his leader and follows them is as good as their worshipper, that is why they have been described as their deities. Sayyidna Abu ` Umamah narrates that the Messenger of Allah ﷺ said: "Of all the deities worshipped under the firmament of the earth, the most detestable one in the sight of Allah is hawa, that is, selfish desires. Sayyidna Shaddad Ibn ` Aws ؓ narrates that the Messenger of Allah ﷺٍ said: "A wise person is he who keeps his desires under control and works for life after death; and sinful is he who runs after his desires and yet expects the best in the Hereafter." Sayyidna Sahl Ibn ` Abdullah Tustari ؓ said: "Your ailment is your selfish desires. And if you oppose them, it will turn into your cure." (All these narratives have been adapted from Qurtubi).
 
+## AI Translation
+
+Have you seen those who take their own desires as their god? Allah left them to stray knowingly, sealed their hearing and hearts, and placed a cover on their sight. Who can guide them after Allah? Will you not then be mindful?
+
+## AI Tafsir
+
+**What this ayah teaches:** One of them is that Allah knew that this person deserves to be misguided, so He left him astray.
+
+**Classical tafsir:** Ibn Kathir notes: Keeping this in view, this verse of the Qur'an indicates that ` worship' actually means ` obedience'.
+
+**From the Sunnah:** 'Amr bin Murrah narrated that Abu Ad-Duha said that Masruq said that Tamim Ad-Dari once stood in voluntary prayer through the night until the morning only reciting this Ayah, : "Of all the deities worshipped under the firmament of the earth, the most detestable one in the sight of Allah is hawa, that is, selfish desires
 ## Personal Reflections
 
 

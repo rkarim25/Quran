@@ -166,6 +166,15 @@ And the substance of the reality of patience (sabr) is that we should not worry 
 
 The second verse (6) carries details of what was said earlier, that is, when Sayyidna Musa (علیہ السلام) was commanded to remind his people, the Bani Isra` il, of the particular Divine blessing which changed their lives. Before the coming of Sayyidna Musa (علیہ السلام) ، they were living as slaves of the Pharaoh. Even as slaves, they were not treated humanely. Boys born among them were killed at birth. Only girls were left to survive and serve. After the appearance of Sayyidna Musa علیہ السلام ، such was his barakah that Allah Ta۔ ala had them delivered from the punishing clutches of the Pharaoh.
 
+## AI Translation
+
+We sent Moses with Our signs, commanding: "Lead your people out of darkness into light, and remind them of Allah's days of favour." In this are signs for whoever is steadfast and grateful.
+
+## AI Tafsir
+
+**What this ayah teaches:** The sentence means that the Days of Allah - that is, past events whether related to the punishment of the deniers of truth, or to the blessings and favours of Allah Ta’ ala - are full of the signs and proofs of the perfect power and eloquent wisdom of Allah Ta’ ala, particularly for a person who is much observing of patience and gratitude.
+
+**Classical tafsir:** Ibn Kathir notes: Story of Musa and His People Allah says here, 'Just as We sent you (O, Muhammad) and sent down to you the Book, in order that you might guide and call all people out of darkness into the light, We also sent Musa to the Children of Israel with Our Ayat (signs, or miracles).' Mujahid said that this pa… The 'Days of Allah' here refers to the events of the past when Allah had graced some people with His…
 ## Personal Reflections
 
 

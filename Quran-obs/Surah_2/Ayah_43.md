@@ -152,6 +152,17 @@ The most comprehensive explanation of the matter has been provided by the blesse
 
 This statement fully brings out the great importance of the Jama` ah, but at the same time defines its exact position by including it among the "ways of good guidance" (Sunan al-Huda) which are, in the terminology of the Fuqaha’ (jurists), called Al-Sunan al-Mu'akkadah سنن المؤکدہ (the Sunnah on which the greatest emphasis has been placed). Thus, if a man does not go to the mosque for Jama` ah and offers Salah نماز at home without having proper excuse like illness, his prayers will be valid, but he will have earned the displeasure of Allah for having given up a Sunnah which comes under the category of Mu'akkadah. If neglecting the Jama` ah becomes habitual for him, he will be committing a grave sin. If all the people living in the vicinity of a mosque leave it deserted and offer their prayers at home, they become, in the eyes of the Shari` ah, liable to punishment. Qadi ` Iyad says that if persuasion fails to mend such people, they must be challenged by a show of force. (Qurtubi)
 
+## AI Translation
+
+Establish salah, give zakat — the obligatory sharing of wealth to purify what remains — and bow with those who bow.
+
+## AI Tafsir
+
+**What this ayah teaches:** Zakah is not a tax levied by the State or society, but, in the terminology of the Shari'ah, means that portion of one's belongings which is set apart and spent in total accord with the injunctions of the Shari'ah.
+
+**Classical tafsir:** Ibn Kathir notes: Verse 43, in its literal connotation, provides an argument in favour of this view.
+
+**From the Sunnah:** the Day of Judgment) as a true Muslim, should offer these (five) prayers regularly and steadfastly in a place where the call for the prayers is habitually made (i.e. (Sahih Muslim)
 ## Personal Reflections
 
 

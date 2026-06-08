@@ -123,6 +123,17 @@ Yet another verse says: إِنَّا لَنَنصُرُ‌ رُ‌سُلَنَا
 
 The history has already witnessed the control of the pious believers over the better part of the world, and it will again come under their control during the time of Sayyidna Mahdi ؓ . (Ruh ul-Ma` ani Ibn Kathir)
 
+## AI Translation
+
+Surely this Quran is sufficient as a reminder for those devoted to worship.
+
+## AI Tafsir
+
+**Context:** (And indeed We have written in Az-Zabur after Adh-Dhikr). He said: 'Az-Zabur means the Tawrah, the Injil and the Qur'an.'" Mujahid said, "Az-Zabur means the Book." Ibn 'Abbas, Ash-Sha'bi, Al-Hasan, Qatadah and others sai…
+
+**What this ayah teaches:** And indeed We have written in Az-Zabur after Adh-Dhikr that My righteous servants shall inherit the land (105)Verily, in this there is a plain Message for people who worship Allah (106)And We have sent you (O Muhammad ﷺ) not but as a mercy for the 'Alamin .
+
+**Classical tafsir:** Ibn Kathir notes: Opinions differ as to the meaning of the word in the present context.
 ## Personal Reflections
 
 

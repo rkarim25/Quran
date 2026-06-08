@@ -142,6 +142,19 @@ Verse 78 says that the illiterate Jews follow their Zann ظن ، that is to say,
 
 (1) To signify perfect certitude -"Those who are certain that they are going to meet their Lord" (2:46). (2) To signify the greatest likelihood - "And he said to him whom he thought was the more likely of the two to be released from the prison" (12:42). (3) To signify a mere fanciful supposition - as in the present verse. The Zann ظن which the Holy Qur'an prohibits us to follow is that of the third kind. This verse condemns the Jews for having followed this kind of Zann ظن which consists in a fanciful opinion that is not supported by a respectable argument or goes against a valid one. On the contrary, it is necessary to follow the Zann ظن of the first two kinds. When certain ahadith or certain arguments and conclusions in the Shari` ah are described as resting on Zann ظن ، it is done according to the second signification of the word. One cannot avoid this kind of Zann ظن in any sphere of life, and the Shari` ah requires us to accept and follow it. Certain verses of the Holy Qur'an, of course, condemn those who follow their Zann ظن ، but to apply this condemnation to all the possible cases, and to use such verses for rejecting all the legitimate arguments and injunctions of the Shariah based on Zann ظن is to betray one's ignorance of the Holy Qur'an.
 
+## AI Translation
+
+Among them are the unlettered who know nothing of the Scripture except wishful guesses.
+
+## AI Tafsir
+
+**Context:** This is another category of people among the Jews who called to misguidance with falsehood and lies about Allah, thriving on unjustly amassing people's property.
+
+**What this ayah teaches:** Verse 77 deals with the educated ones among the Jews, while Verse 78 speaks of those who were unlettered. Mujahid commented, "Allah described the Ummiyyin as not understanding any of the Book that Allah sent down to Musa, yet they create lies and falsehood." Therefore, the word Amani mentioned here refers to lying and falsehood.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid commented, "Allah described the Ummiyyin as not understanding any of the Book that Allah sent down to Musa, yet they create lies and falsehood." Therefore, the word Amani mentioned here refers to lying and falsehood.
+
+**From the Sunnah:** Ummi was one of the descriptions of the Prophet ﷺ because he was unlettered.
 ## Personal Reflections
 
 

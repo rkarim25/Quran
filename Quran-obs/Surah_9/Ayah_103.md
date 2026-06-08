@@ -181,6 +181,19 @@ The word: صلوۃ (salah) used in the expression: وَصَلِّ عَلَيْه
 
 Here we see that the Holy Prophet ﷺ has been asked to pray for those who give Sadaqah. On this basis, some Muslim jurists rule that it is wajib (obligatory, necessary) for the Muslim head of the state (Imam, 'Amir) to pray for those who give Sadaqah. However, there are others who take this command to be of a recommendatory nature (mustahabb: recommended). (Qurtubi)
 
+## AI Translation
+
+Take from their wealth charity to purify and bless them, and pray for them—surely your prayer is a source of comfort for them. And Allah is All-Hearing, All-Knowing.
+
+## AI Tafsir
+
+**Context:** The imperative: خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً : "Take out of their wealth a Sadaqah (obligatory alms) " in the second verse (103) has its background.
+
+**What this ayah teaches:** But, the injunction of the verse of prayer is universal.
+
+**Classical tafsir:** Ibn Kathir notes: When this happened, they presented their entire wealth as a token of their gratitude so that it could be given out as Sadaqah.
+
+**From the Sunnah:** Allah commanded His Messenger ﷺ to take Sadaqah from the Muslims' money to purify and sanctify them with it. According to them, even if the same particular event is taken to be the cause of the revelation in this verse, still then, in terms of the Qur'anic principle, this injunction shall re-main general - and shall remain binding on Muslims right through the day of…
 ## Personal Reflections
 
 

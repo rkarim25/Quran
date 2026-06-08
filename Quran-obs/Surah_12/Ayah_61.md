@@ -87,6 +87,17 @@ Still, if you do not bring him to me, then you deserve no measure from me [ beca
 
 Then, he made a secret arrangement as well. He ordered his young workers on the job to collect the cash, jewelry and any other articles paid by his brothers as the cost of the grains, and tie it up secretly with their supplies in the camel-packs in a way that they should remain unaware of it while there - so that, when they open their packs after having arrived home, and find their cash and jewelry back in their hands, they may have a reason to return for grains once again.
 
+## AI Translation
+
+They promised, “We will try to convince his father to let him come. We will certainly do our best.”
+
+## AI Tafsir
+
+**What this ayah teaches:** They were ten, because Ya'qub peace be upon him kept his son and Yusuf's brother Binyamin with him. However, they did not recognize him because they got rid of him when he was still young, and sold him to a caravan of travelers while unaware of their destination.
+
+**Classical tafsir:** Ibn Kathir notes: They were ten, because Ya'qub peace be upon him kept his son and Yusuf's brother Binyamin with him.
+
+**From the Sunnah:** Prophet Yusuf efficiently guarded the people's harvest and collected it, and what he collected became a great fortune for the people.
 ## Personal Reflections
 
 

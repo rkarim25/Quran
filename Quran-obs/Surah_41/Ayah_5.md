@@ -158,6 +158,15 @@ But We have put coverings on their hearts, so that they do not understand, and h
 
 One may doubt that there is a conflict between this verse and that of Surah An'am in this respect. But the answer is that the infidels, by saying the above, meant that they were helpless and excusable, because their hearts were curtained, their ears were leaden and there were barriers between them and him. So how could they listen to him and accept what he said? This is how they proved themselves to be helpless. And when the Holy Qur'an stated their condition (in Surah An'am) to be the same, it did not consider them to be helpless, rather held them fully capable of hearing and understanding. It is when they refused even to hear, and had no intention of understanding, then as a punishment, heedlessness and ignorance were imposed upon them, but not to the degree that they were deprived of their volition; rather if they had changed their minds even then, their abilities of hearing and understanding would have been restored fully. (Bayan-ul-Qur’ an)
 
+## AI Translation
+
+They say, "Our hearts are veiled against what you call us to, there is deafness in our ears, and there is a barrier between us and you. So do whatever you want—and so will we."
+
+## AI Tafsir
+
+**What this ayah teaches:** One may doubt that there is a conflict between this verse and that of Surah An'am in this respect.
+
+**Classical tafsir:** Ibn Kathir notes: The Holy Qur'an has reproduced this statement of theirs in the context of denouncing it, which indicates that these statements are wrong.
 ## Personal Reflections
 
 

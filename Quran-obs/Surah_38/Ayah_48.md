@@ -86,6 +86,15 @@ In verse 48, it was said: وَالْيَسَعَ (and [ remember ] al-Yasa`). Sa
 
 Historical chronicles report that he is a cousin of Sayyidna Ilyas (علیہ السلام) and was his deputy. He lived in his company and was made a prophet after him. Details about him appear in the Bible, the Book of Kings I, Chapter 19, and Kings II, Chapter 2, and elsewhere. There he has been mentioned by the name of اِلِیشَع بن سافط (Elisha son of Safit).
 
+## AI Translation
+
+Remember Isma'il, Alyasa', and Dhul-Kifl—all among the best.
+
+## AI Tafsir
+
+**What this ayah teaches:** And remember Our servants, Ibrahim, Ishaq, and Ya'qub, Ulil-Aydi wal-Absar (45)Verily, We did choose them by granting them the remembrance of the Abode (46)And they are with Us, verily, of the chosen and the best (47)And remember Isma'il, Al-Yasa', and Dhul-Kifl, all are among the best (48)This is a Reminder..
+
+**Classical tafsir:** Ibn Kathir notes: As-Suddi said, "This means the Holy Qur'an."
 ## Personal Reflections
 
 

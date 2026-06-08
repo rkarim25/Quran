@@ -197,6 +197,15 @@ In a Hadith of Al-Fitun recorded from Al-Hasan Al-Basri, it is mentioned that th
 
 أَمْ أَرَ‌دتُّمْ أَن يَحِلَّ عَلَيْكُمْ غَضَبٌ مِّن رَّ‌بِّكُمْ (Or did you wish that wrath from your Lord befalls you? - 20:86) But since neither of the two eventualities mentioned above could be contemplated, the only conclusion was that they knowingly and of their own choice invited the wrath of Allah.
 
+## AI Translation
+
+So Moses returned to his people, furious and sorrowful. He said, “O my people! Had your Rabb not made you a good promise? Has my absence been too long for you? Or have you wished for wrath from your Rabb to befall you, so you broke your promise to me?”
+
+## AI Tafsir
+
+**What this ayah teaches:** - 20:86) Not much time had elapsed on Allah's promise and it is inconceivable that the Bani Isra'il could have forgotten it, or if they remembered it, there was no reason for them to despair of its fulfillment on account of delay, thus providing for themselves justification for the worship of the calf.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Nay, by Allah, the moaning sound of the calf was nothing but wind that would enter into its behind and come out of its mouth, thus causing it to make a sound." In a Hadith of Al-Fitun recorded from Al-Hasan Al-Basri, it is mentioned that this calf's name was Bahmut.
 ## Personal Reflections
 
 

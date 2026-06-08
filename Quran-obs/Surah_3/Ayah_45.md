@@ -181,6 +181,17 @@ One answer to this question appears in Bayan al-Qur'an by Maulana Ashraf Thanavi
 
 Hadith narrations prove that Sayyidna (علیہ السلام) while so raised, was in the approximate age bracket of 30-35 years which is youth at its best. Middle age, kohl in Arabic, was something he never reached during his life in this world. So, his talking to people in his middle age can happen only when he were to grace this world once again with his presence. Therefore, the way his childhood speech was a miracle, his speech in the middle age could be nothing else but another miracle.
 
+## AI Translation
+
+When the angels proclaimed, “O Mary! Allah gives you good news of a Word from Him, his name will be the Messiah, Jesus, son of Mary; honoured in this dunya and the Akhirah, and he will be one of those nearest.
+
+## AI Tafsir
+
+**What this ayah teaches:** Delivering the Good News to Maryam of 'Isa's Birth This Ayah contains the glad tidings the angels brought to Maryam that she would give birth to a mighty son who will have a great future. Verily, Allah gives you the glad tidings of a Word from Him, his name will be Al-Masih, 'Isa, the son of Maryam, held in honor in this world and in the Hereafter, and he will be one of those who are near to Allah…
+
+**Classical tafsir:** Ibn Kathir notes: Allah used the word 'create' here instead of the word 'does' as in the tale about Zakariyya [3:40], to eradicate any evil thought concerning 'Isa.
+
+**From the Sunnah:** But, speaking to people during one's middle age is very normal, something everyone does no matter whether he is a Muslim, or a non-Muslim, learned or illiterate. (Sahih Muslim)
 ## Personal Reflections
 
 

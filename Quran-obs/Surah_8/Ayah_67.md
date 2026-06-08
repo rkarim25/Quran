@@ -185,6 +185,17 @@ As for the Sahabah who had recommended release against ransom, part of their vie
 
 At the end of the verse, by saying: وَاللَّـهُ عَزِيزٌ حَكِيمٌ (And Allah is Mighty, Wise - 67), it was pointed out that Allah Ta` ala, being the source of all might and wisdom, would have - only if they had not acted in a hurry - provided for them wealth and properties as well in their future victories through His infinite grace.
 
+## AI Translation
+
+It is not for a prophet to take captives until he has thoroughly subdued the land. You desire the gains of the dunya, this temporary worldly life, while Allah desires the Akhirah, the everlasting life after death. Allah is Almighty, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** It is not (fitting) for a Prophet that he should have prisoners of war until he has fought (his enemies thoroughly) in the land. If the fire from the skies did not come to burn the spoils, it was taken to be a sign that there was some shortcoming in the Jihad effort because of which it was considered unacceptable with Allah.
+
+**Classical tafsir:** Ibn Kathir notes: In his Sunan, Imam Abu Dawud recorded that Ibn 'Abbas said that the Messenger of Allah ﷺ fixed four hundred (Dirhams) in ransom from the people of Jahiliyyah in the aftermath of Badr. This indicates that a special group like the group of righteous, sincere and noble Sahabah would accommodate such mixed up intention as would combine some faith and some personal interest was something not acceptable e…
+
+**From the Sunnah:** Cut off their necks,' but the Prophet ﷺ turned away from him.
 ## Personal Reflections
 
 

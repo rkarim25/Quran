@@ -93,6 +93,15 @@ When the believer comes forth from his grave, he will meet the most handsome for
 
 The word وفد applies to those who are received by rulers and princes with respect and honour. According to some sayings of the Holy Prophet ﷺ he said, "These men will ride on their mounts which they used in their worldly life." Some say that their own virtuous deeds will take the shape of their mounts.
 
+## AI Translation
+
+Watch for the Day We gather the righteous before the Rahman as an honoured delegation,
+
+## AI Tafsir
+
+**What this ayah teaches:** A Wafd (delegation) is a group that arrives while riding and from it comes the word Wufud (arriving).
+
+**Classical tafsir:** Ibn Kathir notes: Allah explains that He will gather these people on the Day of Resurrection like a delegation that has come to Him.
 ## Personal Reflections
 
 

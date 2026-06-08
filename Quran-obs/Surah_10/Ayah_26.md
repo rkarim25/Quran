@@ -134,6 +134,17 @@ Then, the text describes the state of the same people of Jannah by saying that t
 
 In contrast, the state of the people of Jahannam has been described by saying that those who came with evil deeds in their record will have an equal return for each evil without any increase in it. They will have disgrace all over them. There will be no one to save them from the punishment of Allah. Dark will be their faces, so dark as if layers upon layers of a night have covered them up.
 
+## AI Translation
+
+Those who do good will have the finest reward and even more. Neither gloom nor disgrace will cover their faces. It is they who will be the residents of Paradise. They will be there forever.
+
+## AI Tafsir
+
+**What this ayah teaches:** But, there is a kind of guidance that is special.
+
+**Classical tafsir:** Ibn Kathir notes: They will not deserve that because of their deeds, but rather, they will receive it by the grace of Allah and His mercy.
+
+**From the Sunnah:** Among these Hadiths is what Imam Ahmad recorded from Suhayb that Allah's Messenger ﷺ recited this Ayah, (Musnad Ahmad) Muslim and a group of Imams also related this Hadith. (Sahih Muslim)
 ## Personal Reflections
 
 

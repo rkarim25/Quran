@@ -106,6 +106,17 @@ This is the end of the Tafsir of Surat Ash-Shams, and all praise and thanks are 
 
 Some of the commentators have analysed that the pronouns of zakka 'He purified' and dassa 'He caused to pollute' as referring to 'Allah', signifying that 'he is successful indeed whose soul Allah has purified and he has failed whose soul Allah pollutes '. This verse has divided the entire mankind into two groups: [ 1] successful; and [ 2] unsuccessful. An example of the second group has been cited to show how it rejected the message of Allah and consequently how Allah destroyed them. Such a group will receive severe punishment in the Hereafter. Sometimes, however, an installment of punishment is meted out to them in this world as in the case of Thamud. Their story is recounted fully in Surah A` raf [ S.7:73-79; S.11:61-68; S. 26:141-159; S.27:45-53; S..41:17-18; S.54:23-32; and S. 69:4-5]. Here a brief reference is made to that story and their punishment.
 
+## AI Translation
+
+Thamud denied through arrogance—
+
+## AI Tafsir
+
+**What this ayah teaches:** The Rejection of Thamud and Allah's Destruction of Them Allah informs that Thamud rejected their Messenger because of the injustice and transgression they practiced.
+
+**Classical tafsir:** Ibn Kathir notes: So their Lord destroyed them because of their sin, Fasawwaha (14)And He feared not the consequences thereof .
+
+**From the Sunnah:** This is just as Imam Ahmad recorded from 'Abdullah bin Zam'ah. (Musnad Ahmad) This Hadith was recorded by Al-Bukhari in his Book of Tafsir, and Muslim in his Book of the Description of the Hellfire. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

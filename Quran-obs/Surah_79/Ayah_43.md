@@ -170,6 +170,17 @@ Surah An-Naziat
 
 Ends here
 
+## AI Translation
+
+You have no knowledge to give them of its time.
+
+## AI Tafsir
+
+**What this ayah teaches:** They are told that knowledge of the time and date is within Allah's own special prerogative.
+
+**Classical tafsir:** Ibn Kathir notes: In other words, [ 1] the first characteristic of a Allah-fearing person is that, in this life, he shudders at the thought of appearing before Allah to account for his deeds on the Day of Reckoning; and [ 2] forbids the baser self from its evil desires.
+
+**From the Sunnah:** In this level, a person deserves to be called 'Sunni Muslim'. (Sahih Muslim)
 ## Personal Reflections
 
 

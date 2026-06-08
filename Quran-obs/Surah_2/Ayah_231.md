@@ -339,6 +339,19 @@ The basic rules of giving a divorce
 
 The third rule identified in this verse is: Should a man be left with no other option but divorce, then the basic and true method in the view of Shari'ah and Sunnah is that he should give one revocable divorce in clear and unambiguous words so that the choice of taking the wife back remains open. Words that cause sudden severance of marriage relationship should not be spoken. This is known as al-talaq al-ba` in الطلاق الباین ، the divorce that cannot be revoked. In addition to this, reaching three talaqs must be avoided following which even fresh marriage between the couple becomes haram (unlawful). This point is indicated by the use of the universal and unqualified words in طَلَّقْتُمُ النِّسَاءَ (when you have divorced women), because the injunction contained in this verse covers only one or two revocable talaqs. It does not concern the irrevocable three talaqs; but the Holy Qur'an, by not mentioning any related qualification, has suggested that the real talaq (divorce) is none other than the revocable talaq as approved by the Shari'ah. Other forms are not devoid of repugnance or undesirability.
 
+## AI Translation
+
+When you divorce women and they reach the end of their waiting period, either retain them honourably or release them honourably. Do not retain them to harm them or take advantage. Whoever does that wrongs himself. Do not treat Allah's signs lightly. Remember Allah's favours upon you and the Book and wisdom He sent for your guidance. Live with taqwa, and know that Allah has knowledge of all things.
+
+## AI Tafsir
+
+**Context:** The second rule presented in this verse is that the word of Allah should not be taken lightly as some amusement: وَلَا تَتَّخِذُوا آيَاتِ اللَّـهِ هُزُوًا ‘And do not take the verses of Allah in jest.' According to one e…
+
+**What this ayah teaches:** This is a chaste lesson in high morals and social manners which points to the fact that, just as the marriage was a transaction and mutual contract, the divorce is the termination of a transaction.
+
+**Classical tafsir:** Ibn Kathir notes: Divorce the woman when she has fulfilled the term of the prescribed period.) Masruq said that the Ayah refers to the man who harms his wife by divorcing her and then taking her back, so that the 'Iddah term is prolonged for her.
+
+**From the Sunnah:** Abu Musa (Al-Ash'ari) narrated that Allah's Messenger ﷺ once became angry at the Ash'ari tribe.
 ## Personal Reflections
 
 

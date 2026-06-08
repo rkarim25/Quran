@@ -183,6 +183,17 @@ The progeny of Iblis, and his descendants and followers
 
 The word: ذُرِّ‌يَّتَهُ (dhurriyyatah) in verse 50 indicates that Iblis (Shaitan) has offspring, and a host of descendants and followers. Some commentators have said that 'progeny' at this place means 'accomplices.' That the Shaitan has offspring from his loins is not necessary. But, there is a Sahih Hadith which Humaidi has reported in Kitab al-Jam' bain al-Sahihain on the authority of Sayyidna Salman al-Farisi ؓ . According to his narration, the Holy Prophet ﷺ told him, "do not become like those who are the first to enter the bazaar (shopping centre), or those who are the last to leave it, for the bazaar is a place where the Shaitan has his eggs and offspring laid around." This would indicate that the progeny of Shaitan spreads out in that manner - through what is laid and hatched by him. After having presented this report, al-Qurtubi has said that the Shaitan has accomplices and armies is something established by conclusive proofs - and as for the Shaitan having offspring, a Sahih Hadith has appeared above. Allah knows best.
 
+## AI Translation
+
+And remember when We said to the angels, “Prostrate before Adam,” so they all did—but not Iblîs, who was one of the jinn, but he rebelled against the command of his Rabb. Would you then take him and his descendants as patrons instead of Me, although they are your enemy? What an evil alternative for the wrongdoers to choose!
+
+## AI Tafsir
+
+**What this ayah teaches:** And (remember) when We said to the angels: "Prostrate yourselves unto Adam." So they prostrated themselves, except Iblis.
+
+**Classical tafsir:** Ibn Kathir notes: According to his narration, the Holy Prophet ﷺ told him, "do not become like those who are the first to enter the bazaar (shopping centre), or those who are the last to leave it, for the bazaar is a place where the Shaitan has his eggs and offspring laid around." This would indic…
+
+**From the Sunnah:** He had been created from smokeless fire, whereas the angels had been created from light, as is stated in Sahih Muslim where it is reported that 'A'ishah, may Allah be pleased with her, said that the Messenger of Allah ﷺ said: (Sahih Muslim)
 ## Personal Reflections
 
 

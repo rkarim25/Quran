@@ -122,6 +122,17 @@ Tamim Ad-Dari [who was a Christian before Islam] used to say, "I have come to kn
 
 Then, it was said that these people chose to take the way of error although they were asked by Allah to worship only one God who is free and pure from what they associated with Him. This verse limits itself to saying that they followed the false and obeyed people other than Allah, something they were not permitted to do. In the verse that follows (32), mentioned there is another error they make. It is said that they do not stop at the error they have already made. They, rather, like to compound their errors when they try to subvert Divine guidance and black out the Faith of Truth. The statement has been dressed in a si-militude - ` they want to blow out the Light of Allah with their mouths' - although, this is something they cannot do. Allah Ta` ala has already decided that He shall see to it that His Light, that is, the Religion of Islam, reaches its perfection, no matter how displeasing this may turn out to be for those who disbelieve.
 
+## AI Translation
+
+They wish to extinguish Allah’s light with their mouths, but Allah will only allow His light to be perfected, even to the dismay of those who reject the truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** They want to extinguish Allah's Light with their mouths, but Allah will not allow except that His Light should be perfected even though the those who reject the truth hate (it)(32)It is He Who has sent His Messenger with guidance and the religion of truth, to make it superior over all religions even though the idolators hate (it).
+
+**Classical tafsir:** Ibn Kathir notes: 'religion of truth' refers to the righteous, legal deeds that bring about benefit in this life and the Hereafter.
+
+**From the Sunnah:** They try through argument and lies to extinguish the guidance and religion of truth that the Messenger of Allah ﷺ was sent with. Those who became Muslims among them acquired goodness, honor and might.
 ## Personal Reflections
 
 

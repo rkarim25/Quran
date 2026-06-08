@@ -132,6 +132,17 @@ Ruling
 
 Jihad is not obligatory on the lame, the crippled, the blind, the sick and on others who are excusable under the Islamic law.
 
+## AI Translation
+
+Those who stay at home—except those with valid excuses—are not equal to those who strive in the cause of Allah with their wealth and their lives. Allah has elevated in rank those who strive with their wealth and their lives above those who stay behind. Allah has promised each a fine reward, but those who strive will receive a far better reward than others— far superior ranks, forgiveness, and mercy from Him. And Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** Unto each, Allah has promised good (Paradise), but Allah has preferred those who strive hard and fight, above those who sit (at home), by a huge reward (95)Degrees of (higher) grades from Him, and forgiveness and mercy. Allah mentions what He has given them rooms in Paradise, along with His forgiveness and the descent of mercy and blessing on them, as a favor and honor from Him.
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah indicates that Jihad is not Fard on each and every individual, but it is Fard Kifayah (which is a collective duty).
+
+**From the Sunnah:** He told us that Zayd bin Thabit told him that Allah's Messenger ﷺ dictated this Ayah to him, (Sahih al-Bukhari) Ibn Umm Maktum came to the Prophet ﷺ as he was dictating that very Ayah to me.
 ## Personal Reflections
 
 

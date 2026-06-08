@@ -159,6 +159,15 @@ But, no wonder, the Divine power had thrown a drowned dead body ashore. Very sim
 
 At the end of the verse, it was said that many people pay no heed to the verses and signs of Allah. They do not ponder over them and fail to learn their essential lesson in living a better life. Otherwise, signs abound. They are everywhere, in every particle of this universe. A look at them would help one recognize Allah and His perfect power.
 
+## AI Translation
+
+Today We will preserve your corpse so that you may become an example for those who come after you. And surely most people are heedless of Our examples!”
+
+## AI Tafsir
+
+**Context:** (and We made them leaders inviting to the Fire: and on the Day of Resurrection, they will not be helped.)(28:41) These facts about Fir'awn and his status at that time were among the secrets of the Unseen that Allah revea…
+
+**What this ayah teaches:** Commentary Addressing Pharaoh in the first verse (92), it was said that Allah will take his body out of the waters after he is drowned so that his body becomes a sign of Divine power, and a lesson for people after him.
 ## Personal Reflections
 
 

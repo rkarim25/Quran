@@ -100,6 +100,17 @@ In verse 65, it was said: قُلْ إِنَّمَا أَنَا مُنذِرٌ‌
 
 After a delineation of these subjects, the text has, in the concluding part, reverted to the main purpose, that is, it takes up the confirmation of prophethood of the Holy Prophet ﷺ . In this process, along with a presentation of necessary arguments, a compassionate invitation to believe has also been given.
 
+## AI Translation
+
+Say: "I am only a warner. There is no deity worthy of worship except Allah—the One, the Supreme."
+
+## AI Tafsir
+
+**Context:** Say: "I am only a warner and there is no Allah (worthy of worship) except Allah the One, the Irresistible, (65)"The Lord of the heavens and the earth and all that is between them, the Almighty, the Oft-Forgiving.
+
+**What this ayah teaches:** Say: "I am only a warner and there is no Allah (worthy of worship) except Allah the One, the Irresistible, (65)"The Lord of the heavens and the earth and all that is between them, the Almighty, the Oft-Forgiving.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

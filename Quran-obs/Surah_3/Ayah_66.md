@@ -168,6 +168,15 @@ That way has been described in Verse 67.
 
 Verse 68 declares that the closest of people to Sayyidna Ibrahim (علیہ السلام) were those who followed him during his time and now the closest to him is the Prophet of Islam, Muhammad a1-Mustafa ﷺ and so are the believers in him and in past prophets. These believers are the community of Muhammad ﷺ and their guardian is Allah and He will reward them for their belief.
 
+## AI Translation
+
+Here you are! You disputed about what you have knowledge of, but why do you now argue about what you have no knowledge of? Allah knows and you do not know.
+
+## AI Tafsir
+
+**What this ayah teaches:** Have you then no sense (65)Verily, you are those who have disputed about that of which you have knowledge. Why do you then dispute concerning that of which you have no knowledge?) This Ayah criticizes those who argue and dispute without knowledge, just as the Jews and Christians did concerning Ibrahim.
+
+**Classical tafsir:** Ibn Kathir notes: Verse 66 points out to the hollowness of their approach when they indulged in their argumentation on the basis of incomplete knowledge.
 ## Personal Reflections
 
 

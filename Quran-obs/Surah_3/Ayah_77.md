@@ -228,6 +228,19 @@ That commitments should be fulfilled has been stressed in the Qur'an and Sunnah 
 
 And a grievous punishment shall await them.
 
+## AI Translation
+
+Indeed, those who trade Allah’s covenant and their oaths for a fleeting gain will have no share in the Akhirah. Allah will neither speak to them, nor look at them, nor purify them on the Day of Judgment. And they will suffer a painful punishment.
+
+## AI Tafsir
+
+**Context:** Al-Ash'ath said, "By Allah! This verse was revealed concerning me. I owned some land with a Jewish man who denied my right, and I complained against him to the Messenger of Allah.
+
+**What this ayah teaches:** Neither will Allah speak to them nor look at them on the Day of Resurrection, nor will He purify them, and they shall have a painful torment . Verily, those who purchase a small gain at the cost of Allah's covenant and their oaths, they shall have no portion in the Hereafter (Paradise).
+
+**Classical tafsir:** Ibn Kathir notes: For instance, right here in verse 77 cited above, five warnings have been given to those who break their solemn pledge: 1.
+
+**From the Sunnah:** The Prophet ﷺ required the man from Hadramut to present his evidence, but he did not have any.
 ## Personal Reflections
 
 

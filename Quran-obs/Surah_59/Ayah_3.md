@@ -245,6 +245,15 @@ The Two Sahihs also recorded from Ibn 'Umar that the Messenger of Allah ﷺ burn
 
 يُخْرِ‌بُونَ بُيُوتَهُم بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ (...they were spoiling their homes with their own hands and with the hands of the believers....59:2) Banu Nadir had spoiled their houses by removing their doors and shutters. 'Spoiling their homes with the hands of the believers' means that when the Jews locked themselves up in their fortresses, the Muslims destroyed the trees and homes outside the fortresses to make them surrender.
 
+## AI Translation
+
+Had Allah not decreed exile for them, He would have punished them in this dunya—this temporary worldly life. In the Akhirah—the everlasting life after death—they will face the Fire.
+
+## AI Tafsir
+
+**Context:** Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur recorded that Sa'id bin Jubayr said, "I asked Ibn 'Abbas about Surat Al-Hashr and he said, 'It was revealed about Bani An-Nadir.'" Al-Bukhari…
+
+**What this ayah teaches:** And had it not been that Allah had decreed exile for them, He would certainly have punished them in this world; and in the Hereafter theirs shall be the torment of the Fire.)(4. 'Urwah, As-Suddi and Ibn Zayd said that Allah decreed that the Jews would be punished in the life of this world and face the torment of the fire of Hell He prepared for them in the Hereafter.
 ## Personal Reflections
 
 

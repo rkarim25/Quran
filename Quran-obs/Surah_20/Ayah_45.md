@@ -120,6 +120,19 @@ It will be recalled that when prophethood was bestowed upon Sayyidna Musa (عل�
 
 The second point is that fear of fearsome things is a natural instinct and even prophets are not free from it in spite of their complete faith in the promises of Allah. Sayyidna Musa (علیہ السلام) himself was afraid to pick up his staff when it turned into a snake therefore Allah re-assured him with the word لَا تَخَف (do not be afraid). On all such occasions Allah removed their fears by propitious tidings. Three other verses: فَخَرَ‌جَ مِنْهَا خَائِفًا يَتَرَ‌قَّبُ (So, he went out of it (the city) in a state of fear, waiting (for what comes next) - 28:21) and فَأَصْبَحَ فِي الْمَدِينَةِ خَائِفًا (Then, next morning he was fearful, waiting [ for what comes next ] - 28:18) and فَأَوْجَسَ فِي نَفْسِهِ خِيفَةً مُّوسَىٰ (So Musa concealed some fear in his heart - 20:67) can also be quoted expressing the same fear. It was this natural fear which persuaded the Holy Prophet ﷺ to migrate to Madinah and some of his Companions ؓ to migrate first to Abbysinia and later to Madinah. In the Battle of Ahzab the Muslims were so overawed by the strength of their enemies that they dug a trench as a protective measure even though Allah had promised them victory on numerous occasions. The truth is that while they did not have the least doubt about their ultimate victory, the fear which they felt was the result of a spontaneous human impulse in the face of danger, and the prophets being human are not immune to this impulse.
 
+## AI Translation
+
+They both pleaded, “Our Rabb! We fear that he may be quick to harm us or act tyrannically.”
+
+## AI Tafsir
+
+**Context:** Both of them said: "Our Lord! Verily, we fear lest he should hasten to punish us or lest he should transgress. (45)He (Allah) said: "Fear not, verily, I am with you both, hearing and seeing.
+
+**What this ayah teaches:** The second point is that fear of fearsome things is a natural instinct and even prophets are not free from it in spite of their complete faith in the promises of Allah.
+
+**Classical tafsir:** Ibn Kathir notes: But on the contrary, he belied and turned away.)[75:31-32] This means that he denied with his heart and turned away by his actions.
+
+**From the Sunnah:** In the Battle of Ahzab the Muslims were so overawed by the strength of their enemies that they dug a trench as a protective measure even though Allah had promised them victory on numerous occasions.
 ## Personal Reflections
 
 

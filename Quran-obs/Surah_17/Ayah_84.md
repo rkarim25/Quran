@@ -98,6 +98,15 @@ Regarding the explanation of the word: شاکِلَۃ (shakilah) in verse 84: ك
 
 such as, disposition, habit, instinct, intention, way or manner. In sum, all these turn into a second nature in terms of the circumstances, habits and customs everyone lives with. Thus, what one does remains subservient to it. (Qurtubi) In this verse, human beings have been warned that they must abstain from bad surroundings, bad company and bad habits and take to the company of good people and inculcate good habits (a1-Jassas). The reason, as stated earlier, is that one's response pattern built up under the influence of surrounding, company and custom makes one do what it dictates. Imam al-Jassas has also given another meaning of 'shakilah' at this place, that of 'like.' Given this meaning, the sense of the verse would be that everyone feels comfortable with a person who is compatible with one's temperament. A good man finds another good man familiar while a wicked man feels comfortable with another wicked man whose style he follows without any qualms of conscience. An example of this behavior pattern appears in what Allah says in the Qur’ an: الْخَبِيثَاتُ لِلْخَبِيثِينَ (Evil women are for evil men - 24:26) and وَالطَّيِّبَاتُ لِلطَّيِّبِينَ (Good women are for good men - 24:26). It means that everyone strikes familiarity with a man or woman according to one's own temperament. In short, this too is a warning against falling into bad company and bad habits. One should really make an effort to abstain from these.
 
+## AI Translation
+
+Say, O Prophet, “Everyone acts in their own way. But your Rabb knows best whose way is rightly guided.”
+
+## AI Tafsir
+
+**What this ayah teaches:** And when We bestow Our grace on man, he turns away and becomes arrogant. But if We let him taste good after evil has touched him, he is sure to say: "Ills have departed from me." Surely, he is exultant, and boastful.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

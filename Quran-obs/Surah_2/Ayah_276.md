@@ -192,6 +192,17 @@ No matter how much ربا riba increases, it will decrease ultimately. (Musnad A
 
 At the end of the verse (276), it is said: وَاللَّـهُ لَا يُحِبُّ كُلَّ كَفَّارٍ‌ أَثِيمٍ ; which means that Allah Almighty does not like any disbeliever, any sinner. Here it has been indicated that those who just do not hold riba ربا as حرام حرام haram have fallen into kufr کفر (disbelief); and those who do know it to be حرام haram, yet get involved with it, are sinners, transgressors or fasiq فاسق .
 
+## AI Translation
+
+Allah blights interest and increases charity. Allah does not love every persistent ungrateful sinner.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah Does Not Bless Riba Allah states that He destroys Riba, either by removing this money from those who eat it, or by depriving them of the blessing, and thus the benefit of their money. Because of their Riba, Allah will torment them in this life and punish them for it on the Day of Resurrection.
+
+**Classical tafsir:** Ibn Kathir notes: Because of their Riba, Allah will torment them in this life and punish them for it on the Day of Resurrection.
+
+**From the Sunnah:** This much is enough for a thinking and feeling Muslim. (Sahih Muslim) There are so many statements of the experienced and the knowledgeable which say that the wealth collected through riba may increase faster and higher, but it generally does not survive long enough to run through children and their successors.
 ## Personal Reflections
 
 

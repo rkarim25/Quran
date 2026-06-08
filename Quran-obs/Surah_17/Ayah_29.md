@@ -126,6 +126,17 @@ The instruction for moderation in spending
 
 In this verse, the Holy Prophet ﷺ is the direct addressee while the entire Muslim ummah is being addressed through him. The purpose is to teach a just and moderate course in spending which does not prevent one from helping others nor does it end up in a lot of trouble for him. There is an event in the background of the revelation of this verse. Ibn Marduwayh has reported it on the authority of Sayyidna ` Abdullah ibn Mas’ ud ؓ and al-Baghawi, on the authority of Sayyidna Jabir. According to this report, a boy came to the Holy Prophet ﷺ and said, "My mother asks of you a shirt." At that time, the Holy Prophet ﷺ had no shirt except the one that was on his blessed body. He told the boy, "Come some other time when we have enough means to respond to what your mother is asking for." The boy went back home, and returned and said, "My mother says that you kindly give her the very shirt you have on your blessed body." Hearing this, the Holy Prophet ﷺ took the shirt off and let him have it. His body was left bare. Came the time for Salah. Sayyidna Bilal ؓ called the Adhan. But, when he did not come out as usual, people were worried. When some of them went in, they saw that he was sitting bare-bodied without the shirt. Thereupon, this verse was revealed.
 
+## AI Translation
+
+Do not be so tight-fisted, for you will be blameworthy; nor so open-handed, for you will end up in poverty.
+
+## AI Tafsir
+
+**Context:** In this verse, the Holy Prophet ﷺ is the direct addressee while the entire Muslim ummah is being addressed through him.
+
+**What this ayah teaches:** And let not your hand be tied (like a miser) to your neck, nor overextend it (like a spendthrift), so that you become blameworthy and in severe poverty (29)Truly, your Lord expands the provision for whom He wills and straitens (for whom He wills).
+
+**Classical tafsir:** Ibn Kathir notes: And let not your hand be tied (like a miser) to your neck, nor overextend it (like a spendthrift), so that you become blameworthy and in severe poverty (29)Truly, your Lord expands the provision for whom He wills and straitens (for whom He wills).
 ## Personal Reflections
 
 

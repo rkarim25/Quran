@@ -209,6 +209,15 @@ In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَك
 
 So, whatever good there is in gratitude, that is for you alone. There-fore, when you are asked to be grateful by Allah Ta’ ala, there is no gain for Him in doing so. In fact, it is His infinite mercy reaching out to you in your interest.
 
+## AI Translation
+
+They will all appear before Allah. The lowly followers will appeal to the arrogant leaders: "We were your devoted followers—will you protect us from Allah's torment in any way?" They will reply: "Had Allah guided us, we would have guided you. Now it is the same whether we bear it patiently or not—there is no escape for us."
+
+## AI Tafsir
+
+**What this ayah teaches:** It makes no difference to us (now) whether we rage, or bear (these torments) with patience; there is no place of refuge for us.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

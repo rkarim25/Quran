@@ -148,6 +148,17 @@ Now, think hard with an open mind as to which of the two things is the real thin
 
 And when the absence of the first situation becomes clear, the second situation stands established that has been mentioned in the last sentence of this very verse (46) as: إِنْ هُوَ إِلَّا نَذِيرٌ‌ لَّكُم بَيْنَ يَدَيْ عَذَابٍ شَدِيدٍ (He is none but a warner to you in the face of a stern torment). It means that his presence among them signifies nothing but that he has been sent there to save people from the severe punishment of the Day of Judgment by warning them of it in advance.
 
+## AI Translation
+
+Say: "If I ever asked you for payment, you could keep it. My reward is only from Allah, and He is Witness over all things."
+
+## AI Tafsir
+
+**What this ayah teaches:** Now, think hard with an open mind as to which of the two things is the real thing.
+
+**Classical tafsir:** Ibn Kathir notes: It means that his presence among them signifies nothing but that he has been sent there to save people from the severe punishment of the Day of Judgment by warning them of it in advance.
+
+**From the Sunnah:** When the Messenger of Allah ﷺ entered Al-Masjid Al-Haram on the day of the conquest of Makkah, and found those idols standing around the Ka'bah, he started to hit the idols with his bow, reciting,
 ## Personal Reflections
 
 

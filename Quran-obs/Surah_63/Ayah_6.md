@@ -160,6 +160,19 @@ Let us now study some specific sentences of the Surah:
 
 Ibn Ubayy, after this incident, returned to Madinah, lived for a few days, and died soon thereafter. [ Mazhari ]
 
+## AI Translation
+
+It makes no difference whether you pray for their forgiveness or not—Allah will not forgive them. He does not guide a rebellious people.
+
+## AI Tafsir
+
+**Context:** Several of the Salaf mentioned that this entire passage was revealed in the case of 'Abdullah bin Ubay bin Salul, as we will soon mention, Allah willing and our trust and reliance are on Him.
+
+**What this ayah teaches:** And when it is said to them: "Come, so that the Messenger of Allah may ask forgiveness from Allah for you," they twist their heads, and you would see them turning away their faces in pride (5)It is equal to them whether you ask forgiveness or ask not forgiveness for them, Allah will never forgive them.
+
+**Classical tafsir:** Ibn Kathir notes: Go back so that Allah's Messenger ﷺ asks Allah to forgive you.' He said, 'By Allah, I do not wish that he ask Allah to forgive me.'" Qatadah and As-Suddi said, "This Ayah was revealed about 'Abdullah bin Ubay.
+
+**From the Sunnah:** Verily, Allah guides not the people who are the rebellious (6)They are the ones who say:…
 ## Personal Reflections
 
 

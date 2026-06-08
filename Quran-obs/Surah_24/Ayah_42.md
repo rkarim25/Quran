@@ -78,6 +78,15 @@ Commentary
 
 Zamakhshari and some other commentators have, on the other hand, elaborated that it is not improbable that Allah Ta’ ala has placed so much sense and understanding in everything that they do recognize their Creator and Master. And it is also not improbable that He has taught them some sort of speech, and some special Tasbih and worship in which they keep themselves busy. There is an allusion towards this point in the last sentence كُلٌّ قَدْ عَلِمَ صَلَاتَهُ وَتَسْبِيحَهُ (Every one knows one's own { way of} praying and proclaiming Allah's purity - 41). It indicates that all creatures are busy in Tasbih and worship of Allah Ta’ ala, but the manner of worship of each creature is different. Angels worship in a different manner, humans worship differently, trees and vegetation also worship differently, and the rocks and minerals yet in another manner. Another verse of the Holy Qur’ an also confirms this view when it says أَعْطَىٰ كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَىٰ (He who gave everything its shape, then guidance - 20:50) that is ` Allah Ta’ ala created everything and then given guidance to them'. The guidance is that everything is obeying Allah and performing its assigned duty diligently. Apart from this, everything has been guided how to fulfill the need of its existence with such perfection that even the best of minds get boggled. How creative and complicated nests and holes they make for their living, and how they strive and work hard to find and collect their food is in itself a great wonder.
 
+## AI Translation
+
+To Allah alone belongs the kingdom of the heavens and the earth. And to Allah is the final return.
+
+## AI Tafsir
+
+**What this ayah teaches:** Of each one He knows indeed his Salah and his glorification; and Allah is All-Aware of what they do (41)And to Allah belongs the sovereignty of the heavens and the earth, and to Allah is the return .
+
+**Classical tafsir:** Ibn Kathir notes: It indicates that all creatures are busy in Tasbih and worship of Allah Ta’ ala, but the manner of worship of each creature is different.
 ## Personal Reflections
 
 

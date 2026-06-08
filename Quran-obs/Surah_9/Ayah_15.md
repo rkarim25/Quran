@@ -114,6 +114,17 @@ This Ayah includes all believers, even though Mujahid, 'Ikrimah and As-Suddi sai
 
 History proves that the circumstances and events predicted in these verses were witnessed one by one as pointed out by the Holy Qur'an. Therefore, these verses contain many miracles.
 
+## AI Translation
+
+Fight them and Allah will punish them at your hands, put them to shame, help you overcome them, and soothe the hearts of those who have iman— removing rage from their hearts. And Allah pardons whoever He wills. For Allah is All-Knowing, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah does what He wills, decides what He wills, and He is the Just Who never wrongs any.
+
+**Classical tafsir:** Ibn Kathir notes: Allah has more right that you should fear Him if you are believers (13)Fight against them so that Allah will punish them by your hands, and disgrace them and give you victory over them, and heal the breasts of a believing people (14)And remove the anger of their (believers') hear…
+
+**From the Sunnah:** When they knew that their caravan escaped safely, they still went ahead with their intent to fight Muslims out of arrogance, as we mentioned before.
 ## Personal Reflections
 
 

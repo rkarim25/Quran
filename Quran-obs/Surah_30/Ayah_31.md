@@ -142,6 +142,15 @@ These are like the Jews, Christians, Zoroastrians, idol worshippers and all the 
 
 وَأَقِيمُوا الصَّلَاةَ وَلَا تَكُونُوا مِنَ الْمُشْرِ‌كِينَ (And establish Salah, and do not be among those who associate partners with Allah - 30:31). In the previous verse it was mentioned that the human nature is designed in a manner that it has an inherent capability to accept the Truth. Now in this verse it is emphasized that establishment of prayer is the first requisite for the acceptance of Truth, because it is the manifestation of submission to Truth and practical affirmation of Faith in Islam. After that, it is said وَلَا تَكُونُوا مِنَ الْمُشْرِ‌كِينَ (30:31), that is, ` Do not join those indulging in shirk (associating others with Allah), because they did not avail of their natural capability to accept the Truth. Their misdeeds are mentioned in the next verse which says,
 
+## AI Translation
+
+O believers, turn to Him, live with taqwa, and establish salah. Do not commit shirk —
+
+## AI Tafsir
+
+**What this ayah teaches:** No change let there be in Allah's Khalq, that is the straight religion, but most men know not (30)(And remain always) turning in repentance to Him and have Taqwa of Him; and perform the Salah and be not of idolators (31)Of those who split up their religion, and became sects, each sect rejoicing in that which is with it .
+
+**Classical tafsir:** Ibn Kathir notes: Others said that this means, Allah made all of His creation equal, all of them have the same sound Fitrah and are by nature upright; they are all born with this nature and there is no disparity among people in this regard.
 ## Personal Reflections
 
 

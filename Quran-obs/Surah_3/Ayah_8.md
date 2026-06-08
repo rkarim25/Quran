@@ -276,6 +276,17 @@ This is just as it was said in a hadith of the Holy Prophet ﷺ There is no hear
 
 He is Allah, absolute in power. He does what He wills. Therefore, those who are concerned about how to remain firm in their faith, they go to the source - requesting and praying Allah for steadfastness. The Holy Prophet ﷺ always used to pray for it as it appears in a hadith: یامقلب القلوب ثبت قلوبنا علی دینک ( O reverser of hearts, make our hearts firm on the faith chosen by You). (Mazhari)
 
+## AI Translation
+
+“Our Rabb! Do not let our hearts deviate after you have guided us. Grant us Your mercy. You are indeed the Bestower of mercy.
+
+## AI Tafsir
+
+**What this ayah teaches:** So as for those in whose hearts there is a deviation (from the truth) they follow (only) that which is not entirely clear thereof, seeking Al-Fitnah, and seeking its Ta'wil, but none knows its Ta'wil except Allah.
+
+**Classical tafsir:** Ibn Kathir notes: On the Day (Day of Resurrection) it's Ta'wil is finally fulfillled.)(7:53) refers to the true reality of Resurrection that they were told about.
+
+**From the Sunnah:** Mujahid said that Ibn 'Abbas said, "I am among those who are firmly grounded in its Ta'wil interpretation." The Messenger of Allah ﷺ supplicated for the benefit of Ibn 'Abbas,
 ## Personal Reflections
 
 

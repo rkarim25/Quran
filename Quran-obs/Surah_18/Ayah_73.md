@@ -90,6 +90,15 @@ It was said in verse 71: أَخَرَ‌قْتَهَا لِتُغْرِ‌قَ �
 
 boat with an axe because of which there was a danger that water would fill up the boat and it would capsize. Therefore, Sayyidna Musa (علیہ السلام) had objected to it. But, according to historical reports, water did not fill into this boat. This may have happened either because al-Khadir had somehow repaired it himself soon after - as in a report carried by al-Baghawi according to which al-Khadir (علیہ السلام) had replaced the plank with glass. Or, water just did not enter the boat in the manner of a miracle. However, the context of the Qur’ an by itself is telling us that the boat did not capsize - something which supports these reports.
 
+## AI Translation
+
+Moses pleaded, “Excuse me for forgetting, and do not be hard on me.”
+
+## AI Tafsir
+
+**What this ayah teaches:** So they both proceeded, till, when they boarded the boat, he (Khidr) damaged it.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

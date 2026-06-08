@@ -135,6 +135,17 @@ Allah commands His Messenger ﷺ to say to the idolators:
 
 Verse 48: إِنَّ رَ‌بِّي يَقْذِفُ بِالْحَقِّ عَلَّامُ الْغُيُوبِ (Say," My Lord sends forth the Truth. He is the Best-Knower of the Unseen." - 34:48) Say, "Truth has come, and falsehood (has vanished so as it) has no power to produce or reproduce (anything) ". It means that my Lord who is the Knower of the Unseen strikes out the false with a throw of the truth (as a result of which the false is destroyed, as it was said: فَإِذَا هُوَ زَاهِقٌ 'and there it is all gone'. Al-Anbiya', 21:18). Literally, the word: قَذَف (qadhf) means to hit by throwing. Here, the purpose is to highlight the truth as set against the false. Perhaps, there may be a wise consideration behind expressing this phenomenon through the word: یَقذِف (yaqdhifu: He throws), may be the purpose is to point out to the after effect of the truth prevailing over the false. It appears here in the form of a simile as the throwing of something heavy over something feeble that shatters into pieces. So it happens in the confrontation between truth and falsehood when the later lies shattered. Therefore, it was said next: وَمَا يُبْدِئُ الْبَاطِلُ وَمَا يُعِيدُ (and falsehood has vanished so as it has no power to produce or reproduce anything) that is, falsehood becomes so incapacitated in the face of truth that it can neither originate anything nor can it bring it back.
 
+## AI Translation
+
+Say: "If I am astray, the loss is only mine. If I am guided, it is only because of what my Lord reveals to me. He is All-Hearing, Ever Near."
+
+## AI Tafsir
+
+**What this ayah teaches:** But if I remain guided, it is because of the Revelation of my Lord to me.
+
+**Classical tafsir:** Ibn Kathir notes: But if I remain guided, it is because of the Revelation of my Lord to me.
+
+**From the Sunnah:** When the Messenger of Allah ﷺ entered Al-Masjid Al-Haram on the day of the conquest of Makkah, and found those idols standing around the Ka'bah, he started to hit the idols with his bow, reciting,
 ## Personal Reflections
 
 

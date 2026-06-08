@@ -186,6 +186,15 @@ There are two sets of factors that make man unmindful of Allah and the Hereafter
 
 مَا أَصَابَ مِن مُّصِيبَةٍ فِي الْأَرْ‌ضِ وَلَا فِي أَنفُسِكُمْ إِلَّا فِي كِتَابٍ مِّن قَبْلِ أَن نَّبْرَ‌أَهَا (No calamity befalls the earth or your own selves, but it is [ pre-destined ] in a Book before We bring it into being ....57:22) The expression 'Book' refers to 'Preserved Tablet [ lawh mahfuz ] and the verse means that Allah had measured and decided the destiny of all things even before He created them. The expression 'No affliction befalls in the earth' refers to famine, earthquake, destruction of crops, loss in business, loss of wealth and property and loss of friends and loved ones. The expression 'in yourselves' refers to illnesses of all sorts, all kinds of wounds, hurt and injury.
 
+## AI Translation
+
+No disaster strikes the earth or yourselves except that it is already written in a Record before We bring it into being. That is easy for Allah—
+
+## AI Tafsir
+
+**What this ayah teaches:** No calamity occurs in the earth nor in yourselves but it is inscribed in the Book of Decrees before We bring it into existence.
+
+**Classical tafsir:** Ibn Kathir notes: The expression 'No affliction befalls in the earth' refers to famine, earthquake, destruction of crops, loss in business, loss of wealth and property and loss of friends and loved ones.
 ## Personal Reflections
 
 

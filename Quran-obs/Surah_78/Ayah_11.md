@@ -178,6 +178,15 @@ Thereafter the verse reads:
 
 Now attention is drawn to the comforts we get from the sky. The most useful thing in the sky is the light of the sun. It is mentioned in the following verse: وَجَعَلْنَا سِرَ‌اجًا وَهَّاجًا . (and created a luminous lamp [ the sun ]....78:13). Then, among the useful things below the sky, the most beneficial and the most essential thing is the raining clouds which are mentioned thus:
 
+## AI Translation
+
+the day for earning your livelihood,
+
+## AI Tafsir
+
+**What this ayah teaches:** They are asking about the matter of the Day of Judgement, and it is the great news.
+
+**Classical tafsir:** Ibn Kathir notes: And We have made the night as a covering,)(11.
 ## Personal Reflections
 
 

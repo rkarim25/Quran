@@ -114,6 +114,15 @@ Qatadah said, "Al-Munsha'at means created." Others said that it is Al-Munshi'at 
 
 يَخْرُ‌جُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْ‌جَانُ (From both of them come forth the pearl and the coral....55:22). The meaning of لُّؤْلُؤُ lu'lu' is quite well-known, that is, 'pearl'. The word مَرْ‌جَانُ marjan too is one of the 'precious jewels or gems'. It is a hard substance formed from coral which has branches like trees. Both these precious jewels or gems are produced in the waters. It is generally understood that pearls and corals are both hunted or fished for in the salty waters, not in the fresh waters, whereas the verse states that they are fished for in both kinds of waters. It is possible to reconcile the verse with the general understanding: Pearls as well as corals originate in sweet waters where it is not easy to hunt for or from which to fish out the gems or jewels. The sweet waters flow into the salty waters where the substances are carried and deposited. The pearls and corals are brought out from there. Therefore, the source of the pearls and corals is said to be the salty seas.
 
+## AI Translation
+
+So which of your Rabb's favours will you both—humans and jinn—deny?
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, the source of the pearls and corals is said to be the salty seas.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid, Qatadah, Abu Ruzayn, Ad-Dahhak said it, and it has also been reported from 'Ali.
 ## Personal Reflections
 
 

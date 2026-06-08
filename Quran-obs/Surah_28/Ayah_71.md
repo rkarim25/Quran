@@ -140,6 +140,15 @@ Say, "Tell me, if Allah makes night continuing upon you forever upto the Day of 
 
 Allah Ta’ ala has mentioned a benefit of the night in this verse, that it provides rest بِلَيْلٍ تَسْكُنُونَ فِيهِ (28:72). As against this no mention is made about the benefits of day while referring to its light. The reason for this omission is but obvious. It is a well-known fact that the daylight is superior in its entity to darkness. The benefits of daylight are so numerous and well known that their repetition was not prudent. On the contrary the darkness of the night does not have any other benefit except that it provides rest to everything. As a matter of fact, its utility is based on the rest of people, hence that has been mentioned. It is to be noted that after describing daylight it is concluded with أَفَلَا تَسْمَعُونَ (Do you not listen? - 28:71), and after describing the night the concluding expression is أَفَلَا تُبْصِرُ‌ونَ (Do you not see? - 28:72). It may have the allusion that the benefits of the day are so numerous that they cannot be seen, but can only be heard; hence the expression أَفَلَا تَسْمَعُونَ is used. The knowledge and understanding humans have acquired has mainly come through hearing and listening, and very little by way of seeing. The benefits of night are much less as compared to benefits of the day, and they can be seen; hence the expression أَفَلَا تُبْصِرُ‌ونَ (Mazhari)
 
+## AI Translation
+
+Ask them, O Prophet, “Imagine if Allah were to make the night perpetual for you until the Day of Judgment, which god other than Allah could bring you sunlight? Will you not then listen?”
+
+## AI Tafsir
+
+**What this ayah teaches:** Then do you not listen?" Say, "Tell me, if Allah makes the day continuing upon you forever upto the Day of Judgment, which Allah, other than Allah, would bring to you night in which you may have comfort. He explains that if He made the night continuous, lasting until the Day of Resurrection, that would be harmful for them and would cause boredom and stress.
+
+**Classical tafsir:** Ibn Kathir notes: He explains that if He made the night continuous, lasting until the Day of Resurrection, that would be harmful for them and would cause boredom and stress.
 ## Personal Reflections
 
 

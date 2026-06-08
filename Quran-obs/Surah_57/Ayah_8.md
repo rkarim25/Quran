@@ -257,6 +257,17 @@ Ordering Faith
 
 The answer to this question is that the unbelievers did not deny the existence of the Creator. In point of fact, they claimed to believe in God, and thus they used to say مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّ‌بُونَا إِلَى اللَّـهِ زُلْفَىٰ (We only worship them [ the idols ] that they may bring us nearer to Allah in position....39:3) In this context, the concluding phrase of verse [ 8] implies that 'If your claim [ that you believe in God ] is true, then go about the perfect and right way in "believing in God" which is not only to believe in God but also to believe in His Messenger ﷺ .
 
+## AI Translation
+
+What is the matter with you that you do not believe in Allah when the Messenger calls you to have iman in your Rabb, and He has already taken your pledge—if you are truthful?
+
+## AI Tafsir
+
+**What this ayah teaches:** Ibn Jarir said that the covenant mentioned here, is that taken from mankind, when they were still in Adam's loin.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, O mankind, spend as Allah commanded you from the wealth that He entrusted to you for His obedience.
+
+**From the Sunnah:** And we have reported the Hadith through different routes in the beginning of the explanation on the chapter on Faith in Sahih Al-Bukhari, wherein one day the Messenger of Allah ﷺ said to his Companions, (Sahih al-Bukhari) Before Makkah was conquered, things were difficult for Muslims and only the righteous ones embraced Islam.
 ## Personal Reflections
 
 

@@ -116,6 +116,15 @@ Ibn Zayd said, "The Shawa is the marrow of the bones." As for,
 
 إِنَّهُمْ يَرَ‌وْنَهُ بَعِيدًا وَنَرَ‌اهُ قَرِ‌يبًا (They see it far off, and We see it near....70:6-7). In this context, the expressions 'far off and 'near' do not refer to time or space, but 'far off in terms of possibility and occurrence. The verse purports to describe that the pagans see the occurrence of Resurrection as impossible, and Allah sees its occurrence not only possible, but a certain reality.
 
+## AI Translation
+
+and the mountains like tufts of wool.
+
+## AI Tafsir
+
+**What this ayah teaches:** This is because they were, as Allah said, of those who turned their backs and turned away. This means they denied with their hearts and abandoned the performance of deeds with their limbs.
+
+**Classical tafsir:** Ibn Kathir notes: This means they denied with their hearts and abandoned the performance of deeds with their limbs.
 ## Personal Reflections
 
 

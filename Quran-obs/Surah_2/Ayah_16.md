@@ -92,6 +92,17 @@ The Ayah also includes those who preferred deviation over guidance. The hypocrit
 
 The ninth verse shows the basic denseness of the hypocrites - how they failed to make use of the ordinary sense of discrimination. They had grown up in a pagan society, and knew very well what the way of the infidels was. Now they had become familiar enough with Islam too, and could easily see the difference. But, in their greed, and for the sake of petty worldly profit, they still chose disbelief as against Islam, and bartered away something as invaluable as Iman ایمان (faith) for something as worthless, and even harmful as kufr کفر (infidelity). In giving the name of 'trade' or 'commerce' to this action, the Holy Qur'an suggests that these worldly-wise men had no understanding even of the art of trading.
 
+## AI Translation
+
+They traded guidance for misguidance, but the trade brought no profit, and they were never rightly guided.
+
+## AI Tafsir
+
+**What this ayah teaches:** In summary, the statements that we have mentioned from the scholars of Tafsir indicate that the hypocrites deviate from the true guidance and prefer misguidance, substituting wickedness in place of righteousness. And they were not guided), meaning their trade did not succeed nor were they righteous or rightly guided throughout all this.
+
+**Classical tafsir:** Ibn Kathir notes: In summary, the statements that we have mentioned from the scholars of Tafsir indicate that the hypocrites deviate from the true guidance and prefer misguidance, substituting wickedness in place of righteousness.
+
+**From the Sunnah:** In addition, Ibn Jarir narrated that Qatadah commented on the Ayah,
 ## Personal Reflections
 
 

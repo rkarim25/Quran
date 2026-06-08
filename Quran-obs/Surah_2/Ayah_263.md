@@ -146,6 +146,15 @@ In the third verse: قَوْلٌ مَّعْرُ‌وفٌ (saying something prope
 
 This was explained by saying that it is a thousand times better to offer some reasonable and appropriate excuse before the person who asks, if the giver feels he is unable to give under conditions of duress; and should the person asking anger the giver by impolite behaviour, it is also a thousand times better to forgive than to give him a charity which is followed by giving him pain. Allah Almighty is Himself Ghani غنی and Halim حلیم ، need-free and forbearing. He needs nothing from anyone. One who spends does so for his own good. That being so, an intelligent human being should keep this in mind while spending in the way of Allah, that he is not favouring anybody, and that he is spending for his own good. And should one sense ingratitude on the part of people treated well, he should subject himself to the divine attribute of 'forbearing', show obedience and forgive and forget.
 
+## AI Translation
+
+Kind words and forgiveness are better than charity followed by injury. Allah is self-sufficient, most forbearing.
+
+## AI Tafsir
+
+**What this ayah teaches:** To Remind About Charity Given is Forbidden Allah praises those who spend from their money in His cause, and then refrain from reminding those who received the charity of that fact, whether these hints take the form of words or actions.
+
+**Classical tafsir:** Ibn Kathir notes: They will not feel sorry for this, because they will acquire what is far better for them.
 ## Personal Reflections
 
 

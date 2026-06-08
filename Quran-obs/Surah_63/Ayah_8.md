@@ -154,6 +154,17 @@ In his Musnad, Abu Bakr 'Abdullah bin Az-Zubayr Al-Humaydi recorded from Abu Har
 
 يَقُولُونَ لَئِن رَّ‌جَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِ‌جَنَّ الْأَعَزُّ مِنْهَا الْأَذَلَّ (They say, “ If we return to Madinah, the more honourable ones will drive out the meaner ones from there.”…63:8). This too is the statement of Ibn Ubayy, the hypocrite. Although the words used by him were ambiguous, the intention was clear. He termed himself and the natives of Madinah as ‘honourable’ and the Holy Prophet ﷺ and the Emigrant Companions as (God forbid! ) the ‘meanest’. He thus provoked the Helpers of Madinah against the Emigrants that the former should drive out the latter from their city. In answer to this, Allah recoiled his boastful statement against himself by pointing out that if those who are really ‘honourable’ drive out those who are really the ‘meanest’ it will go against themselves, because all honour belongs to Him, His Messenger and the believers. The hypocrites, however, are unaware of this because of their ignorance. The concluding phrase of this verse is لَا يَعْلَمُونَ ‘…but the hypocrites do not know. [ 8]’ This may be contrasted with the concluding phrase of verse لَا یَفقَھونَ ‘ but they do not understand’. The reason for the distinction between ‘do not understand’ and ‘do not know’ is as follows: If a person thinks that he is the provider of others, this is completely irrational. This is the sign of his foolishness. Honour and dishonour, on the other hand, can fall to anyone’ s lot. Therefore, if he errs in his judgment, this is ignorance of facts or true state of affairs. Thus we have here لَا يَعْلَمُونَ ‘…but the hypocrites do not know. [ 8]
 
+## AI Translation
+
+They say: 'If we return to Medina, the honourable will expel the inferior.' But all honour and power belong to Allah, His Messenger, and the believers—yet the hypocrites do not know.
+
+## AI Tafsir
+
+**Context:** Several of the Salaf mentioned that this entire passage was revealed in the case of 'Abdullah bin Ubay bin Salul, as we will soon mention, Allah willing and our trust and reliance are on Him.
+
+**What this ayah teaches:** He will not enter it until you say so." The Messenger ﷺ gave his permission to 'Abdullah bin Ubay and his son said, "Enter, now that the Messenger of Allah ﷺ gave you his permission." In his Musnad, Abu Bakr 'Abdullah bin Az-Zubayr Al-Humaydi recorded from Abu Harun Al-Madani that 'Abdullah, the son of 'Abdullah bin Ubay bin Salul, said to his father, "You will never enter Al-M…
+
+**Classical tafsir:** Ibn Kathir notes: Go back so that Allah's Messenger ﷺ asks Allah to forgive you.' He said, 'By Allah, I do not wish that he ask Allah to forgive me.'" Qatadah and As-Suddi said, "This Ayah was revealed about 'Abdullah bin Ubay.
 ## Personal Reflections
 
 

@@ -282,6 +282,17 @@ This Hadith has many chains of narration collected in the Sahihs and other colle
 
 If we go by the second view of the commentators, who say that both 'earlier' and 'later' generations are from the ummah of the Holy Prophet ﷺ ، then even the later generations of this ummah will not be totally deprived of 'the Foremost', though their number in later generations will be less. As for the People of the Right, their number will be large in both 'earlier' and 'later' generations. This fact is proved by a Hadith reported by Bukhari and Muslim from Sayyidna Mu` awiyah ؓ in which the Holy Prophet ﷺ has said, 'A group of my 'Ummah will always remain on the truth and dominant, unharmed by those who fail to support them and those who defy them, until the Last Hour begins.'.
 
+## AI Translation
+
+A multitude from earlier generations
+
+## AI Tafsir
+
+**What this ayah teaches:** And a multitude of those will be from the later generations.)(56:39-40) means, a multitude of those on the right will come from the earlier generations and a multitude from the latter generations.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "Nothing will prevent them from reaching out to get these fruits, no branches, thorns or distance." We mentioned a Hadith before that states that whenever someone takes a fruit in Paradise, another one grows in its place.
+
+**From the Sunnah:** Paradise the shade of which a rider would take one hundred years to pass. (Sahih al-Bukhari, Sahih Muslim) Paradise, the believer will be given such and such strength for women.
 ## Personal Reflections
 
 

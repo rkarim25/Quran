@@ -210,6 +210,17 @@ He then adds:
 
 (And in spite of all this Imam Ahmad Ibn Hanbal (رح) has related it in his Musnad both as a saying of the Holy Prophet ﷺ and as a saying of a Sahabi, that is traced.
 
+## AI Translation
+
+That is because Allah alone is the Truth, He alone gives life to the dead, and He alone is Most Capable of everything.
+
+## AI Tafsir
+
+**What this ayah teaches:** And you see the earth Hamidatan, but when We send down water on it, it is stirred (to life), and it swells and puts forth every lovely kind (of growth)(5)That is because Allah: He is the Truth, and it is He Who gives life to the dead, and it is He Who is able to do all things (6)And surely, the Hour is coming, there is no doubt about it; and certainly, Allah will resurrect thos…
+
+**Classical tafsir:** Ibn Kathir notes: And among you there is he who dies (young), and among you there is he who is brought back to the miserable old age, so that he knows nothing after having known.
+
+**From the Sunnah:** protection and provide him strength. (Sahih Muslim)
 ## Personal Reflections
 
 

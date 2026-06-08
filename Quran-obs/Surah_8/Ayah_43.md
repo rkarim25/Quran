@@ -153,6 +153,17 @@ Such was the nature of this Divine marvel that the army of the disbelievers whic
 
 Sayyidna ` Abdullah ibn Masud ؓ says: In our sight, the army facing us looked as if - as I said to the man next to me - these people would be ninety in number. That man said: No, they must be a hundred.
 
+## AI Translation
+
+Remember when Allah showed them to you in your dream as few. Had He shown them as many, you would have faltered and argued about the matter. But Allah saved you from that. He knows what is in the hearts.
+
+## AI Tafsir
+
+**What this ayah teaches:** Certainly, He is the All-Knower of that is in the breasts (43)And (remember) when you met, He showed them to you as few in your eyes and He made you appear as few in their eyes, so that Allah might accomplish a matter already ordained, and to Allah return all matters (for decision).
+
+**Classical tafsir:** Ibn Kathir notes: The event mentioned in verse 43 relates to the dream and that in verse 44 to a state when they were wide awake.
+
+**From the Sunnah:** Such was the nature of this Divine marvel that the army of the those who reject the truth which was though three times larger than that of Muslims, yet Allah Ta` ala, by His perfect power alone, made their, number appear much less to Muslims so that it may not cause any dif…
 ## Personal Reflections
 
 

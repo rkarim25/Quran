@@ -110,6 +110,15 @@ In verse 52, it was said: قَالُوا يَا وَيْلَنَا مَن بَع
 
 This response appears immediately next in verse 52: هَـٰذَا مَا وَعَدَ الرَّ‌حْمَـٰنُ وَصَدَقَ الْمُرْ‌سَلُونَ ("This is what the Rahman had promised, and the messengers had told the truth.) - to which they paid no attention. At this place, a choice has been made in using the word: رَّ‌حْمَـٰنُ (Rahman: The Most Merciful) out of the many attributes of Allah. It serves as an indicator - as for Him, He had already made elaborate arrangements, in His mercy, that you remain safe from this punishment, and that His act of alerting you in advance through His promise and through His Books and Prophets was, in fact, but a dictate of His attribute of mercy.
 
+## AI Translation
+
+It will only take one Blast, then at once they will all be brought before Us.
+
+## AI Tafsir
+
+**What this ayah teaches:** Who has raised us up from our place of sleep." (It will be said to them): "This is what the ar-Rahman had promised, and the Messengers spoke truth!
+
+**Classical tafsir:** Ibn Kathir notes: Ubayy bin Ka'b, may Allah be pleased with him, Mujahid, Al-Hasan and Qatadah said, "They will sleep before the Resurrection." Qatadah said, "That will be between the two trumpet blasts, they will say, 'Who has raised us up from our place of sleep?'" When they say that, the believers will respond.
 ## Personal Reflections
 
 

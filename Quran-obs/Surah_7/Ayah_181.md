@@ -100,6 +100,19 @@ From the day the Muslims started to show disregard to these two distinctive feat
 
 There is none to make them realize that this course of thought and action has to bring disaster to the Muslims at large. The only way to restore the dignity of the Muslim Ummah and to bring them back to the path. of progress and prosperity is to follow the way of truth and justice suggested by this verse. Conscious efforts should be made to create an awareness of these values among the Muslims.
 
+## AI Translation
+
+And among those We created is a group that guides with the truth and establishes justice accordingly.
+
+## AI Tafsir
+
+**Context:** Abd ibn Humaid has reported that the Holy Prophet ﷺ said addressing his companions, "This verse has been revealed in your favour and prior to you there has been a group of people bearing the same attributes." Then he rec…
+
+**What this ayah teaches:** The verse said, “ And among those we have created, there are people who guide with truth and do justice thereby”. Any group or individuals who follow the truth and justice in all their modes of life, and do not exhibit their personal prejudices while making judgments even for their enemies, are the people of truth refered to in this verse.
+
+**Classical tafsir:** Ibn Kathir notes: Now the verse 181 speaks of those who followed the right path.
+
+**From the Sunnah:** Similarly, the Muslim Ummah has the same attributes as their distinct feature.
 ## Personal Reflections
 
 

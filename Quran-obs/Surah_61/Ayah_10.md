@@ -126,6 +126,19 @@ It is a known fact that the previously revealed Divine scriptures have been chan
 
 This book was originally written in Arabic, later its translations appeared in Turkish and English. Christian missionaries attempted their utmost to destroy it. Its Urdu translation was not available until recently. A little while back, Maulana Akbar ` Ali, a lecturer at Darul Uloom Karachi, translated it into Urdu, with in-depth research into current versions of the Bible by Maulana Muhammad Taqi, lecturer at Darul Uloom, and published in three volumes. Volume [ 3] from pages 182 to 362 elaborates on the prophecies pertaining to the Holy Prophet ﷺ with reference to the currently published Bibles, and rebuts their doubts and allays their suspicions.
 
+## AI Translation
+
+O believers: shall I guide you to an exchange that will save you from a painful punishment?
+
+## AI Tafsir
+
+**Context:** This is followed by a description of the Jihads which Prophets Musa and ` Isa (علیہما السلام) fought in Allah's Cause, and how they suffered at the hands of the enemies.
+
+**What this ayah teaches:** Shall I guide you to a trade that will save you from a painful torment?) Allah then explained this great trade that will never fail, the trade that will earn one what he wishes and saves him from what he dislikes.
+
+**Classical tafsir:** Ibn Kathir notes: This verse states that it is jihad in Allah's way, and that the best row of battle in the sight of Allah is the one firmly established against Allah's enemies to make Allah's word prevail, and which, on account of the valor and unshaken determination of Mujahidin, looks like a st…
+
+**From the Sunnah:** After this description, the Muslims are directed to undertake jihad.
 ## Personal Reflections
 
 

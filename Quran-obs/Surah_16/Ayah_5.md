@@ -110,6 +110,15 @@ After that, identified there is yet another benefit of these cattle - though, in
 
 Finally, mention has been made of another important benefit which comes from these animals. They carry heavy loads to far out places, places which could not be reached 'without putting yourselves into hardship.' Out of the animals, camels and oxen have been particularly har-nessed into this service of man at a large scale. Even during our day of trains, trucks and cargo planes, human beings cannot universally claim to have become free of their need. There are places in the world where none of our modern means of transportation can work. Consequently, one is compelled to borrow their services.
 
+## AI Translation
+
+And He created the cattle for you as a source of warmth, food, and many other benefits.
+
+## AI Tafsir
+
+**What this ayah teaches:** And the cattle, He has created them for you; in them there is warmth (warm clothing), and numerous benefits, and you eat from them (5)And there is beauty in them for you, when you bring them home in the evening, and as you lead them forth to pasture (in the morning)(6)And they carry your loads to a land that you could not reach yourselves except with great trouble.
+
+**Classical tafsir:** Ibn Kathir notes: It signifies that there are countless benefits tied to the meat, skin, bone and hair of animals.
 ## Personal Reflections
 
 

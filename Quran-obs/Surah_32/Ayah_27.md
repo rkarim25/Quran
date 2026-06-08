@@ -157,6 +157,15 @@ There is a hint embedded here. Some lands are so soft that they cannot withstand
 
 And as for the correct position, this subject includes all such lands, with the inclusion of the land of Egypt known for scanty rains particularly. But, water from the rains in the Abyssinian territory of Africa comes into Egypt through the Nile bringing with it particles of the indigenous red soil which is good for the growth of crops. Therefore, the people of Egypt, despite that they have no rains in their country, do benefit by a supply of new water and soil every year. فَتَبَارَ‌كَ اللَّـهُ أَحْسَنُ الْخَالِقِينَ (So, glorious is Allah, the Best of creators - 23:14).
 
+## AI Translation
+
+Do they not see how We drive rain to barren land and produce crops they and their cattle eat? Will they not see?
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, the rain is made to fall on some other land and it is from there that water is directed to move in the form of carrier channels on the ground all the way to the dry land that receives no rain.
+
+**Classical tafsir:** Ibn Kathir notes: In other words, the rain is made to fall on some other land and it is from there that water is directed to move in the form of carrier channels on the ground all the way to the dry land that receives no rain.
 ## Personal Reflections
 
 

@@ -215,6 +215,17 @@ The reason why bid` at بدعت (innovations in religious matters) are not permi
 
 The expression وَلَا تَعْتَدُوا (and do not transgress) towards the end of the verse, according to the majority of the commentators means - 'do not go beyond the limit in fighting as to start killing women and children'.
 
+## AI Translation
+
+They ask you about the new moons. Say, "They are markers of time for people and for the pilgrimage." Righteousness is not entering houses from their backs — righteousness is taqwa. Enter houses through their proper doors and live with taqwa, so you may succeed.
+
+## AI Tafsir
+
+**Context:** Al-'Awfi related that Ibn 'Abbas said, "The people asked Allah's Messenger ﷺ about the crescent moons. Thereafter, this Ayah was revealed:
+
+**What this ayah teaches:** Say: "These are signs to mark fixed periods of time for mankind and for the pilgrimage." It is not Al-Birr (piety, righteousness, etc.) that you enter the houses from the back, but Al-Birr is from Taqwa.
+
+**Classical tafsir:** Ibn Kathir notes: The Shari'ah of Islam has opted for the lunar calendar because it is based on something which every sighted person can see on the horizon and be informed accordingly; the knowledge of it is equally easy for the scholars, the ignorant, the villagers, the islanders and the dwellers…
 ## Personal Reflections
 
 

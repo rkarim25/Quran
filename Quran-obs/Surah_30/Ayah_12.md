@@ -60,6 +60,15 @@ Allah originates the creation, then He will repeat it, then to Him you will be r
 
 أَوَلَمْ يَسِيرُ‌وا فِي الْأَرْ‌ضِ (Have they not travelled on earth - 30:9). It means that the Makkans live in a land where there is neither any cultivation and industry nor any tall and beautiful buildings, but for the sake of trade they do travel to Syria and Yemen. So, have they not seen, during the course of their trips, what was the fate of the earlier people, whom Allah Ta’ ala had endowed with skills to make use of the land? For instance, they had the skill to draw underground water by excavating the earth for irrigating fields and gardens, and dig out concealed precious minerals, such as gold and silver, and make use of them to their benefit. For their advanced skills and way of living, they were regarded as civilized nations. But they got engrossed so much in material life, transitory luxuries and comforts that they forgot Allah Ta’ ala and the Hereafter. Then, Allah Ta’ ala sent prophets and books to remind them of their duties, but they did not pay any heed. Ultimately, they were overtaken by Allah's wrath even in this world. The ruins of their desolate cities still stand witness to their destruction. At the end of the verse it is suggested to ponder whether they were subjected to any oppression from Allah Ta’ ala, or they subjected themselves to their own cruelty by accumulating causes of the divine punishment.
 
+## AI Translation
+
+On the Day the Hour arrives, the wicked will be struck dumb.
+
+## AI Tafsir
+
+**What this ayah teaches:** It means that the Makkans live in a land where there is neither any cultivation and industry nor any tall and beautiful buildings, but for the sake of trade they do travel to Syria and Yemen.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

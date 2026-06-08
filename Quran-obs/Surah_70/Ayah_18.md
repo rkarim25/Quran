@@ -112,6 +112,15 @@ Ibn Zayd said, "The Shawa is the marrow of the bones." As for,
 
 تَدْعُو مَنْ أَدْبَرَ‌ وَتَوَلَّىٰ وَجَمَعَ فَأَوْعَىٰ (It will call him who had turned his back and fled away (from the truth.) and accumulated (wealth) and hoarded (it)....70:17, 18). The phrase 'accumulated wealth' signifies 'wealth accumulated by unlawful means' and the phrase 'hoarded it' signifies 'not fulfilling the pecuniary obligations as imposed by the Shari` ah', as is confirmed by authentic ahadi'th.
 
+## AI Translation
+
+It will summon whoever turned their backs on Allah and turned away from the truth,
+
+## AI Tafsir
+
+**What this ayah teaches:** The phrase 'accumulated wealth' signifies 'wealth accumulated by unlawful means' and the phrase 'hoarded it' signifies 'not fulfilling the pecuniary obligations as imposed by the Shari` ah', as is confirmed by authentic ahadi'th.
+
+**Classical tafsir:** Ibn Kathir notes: The phrase 'accumulated wealth' signifies 'wealth accumulated by unlawful means' and the phrase 'hoarded it' signifies 'not fulfilling the pecuniary obligations as imposed by the Shari` ah', as is confirmed by authentic ahadi'th.
 ## Personal Reflections
 
 

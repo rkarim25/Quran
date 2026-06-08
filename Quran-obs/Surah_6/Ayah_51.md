@@ -312,6 +312,19 @@ In the next and the last verse (51), the Holy Prophet ﷺ has been instructed th
 
 To sum up, there are three types of people who believe or do not believe in Qiyamah: (1) Those who believe in it as being certain; (2) Those who doubt or waver; and (3) Those who reject it totally. Though, the blessed prophets have been commanded to convey their call and warning to all these three classes of people, as evident from many statements of the Holy Qur'an. But, as the likelihood that the call will be more effective among the first two classes of people is more pronounced, instruction has been given in this verse to pay special attention to them: وَأَنذِرْ‌ بِهِ الَّذِينَ يَخَافُونَ أَن يُحْشَرُ‌وا إِلَىٰ رَ‌بِّهِمْ (And warn, with it, those who have the fear of being gathered before their Lord).
 
+## AI Translation
+
+Warn with this those who are awed by the prospect of being gathered before their Rabb—when they will have no protector or intercessor besides Him—so perhaps they will be mindful.
+
+## AI Tafsir
+
+**Context:** Say: "I don't tell you that with me are the treasures of Allah, nor (that) I know the Unseen; nor do I tell you that I am an angel.
+
+**What this ayah teaches:** But, they have to know that there is a customary practice of Allah in this matter.
+
+**Classical tafsir:** Ibn Kathir notes: It means that they should get rid of their selfish concerns, leave obstinacy and hostility, and see reality as it is so that they may no longer be counted among the blind.
+
+**From the Sunnah:** This is because at first, most of those who followed the Messenger of Allah ﷺ were the weak among the people, men, women, slaves, and only a few chiefs or noted men followed him. The idolators of Quraysh used to mock the weak among them who believed in the Prophet ﷺ and they even tortured some of them.
 ## Personal Reflections
 
 

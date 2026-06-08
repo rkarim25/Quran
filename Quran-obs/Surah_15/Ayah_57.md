@@ -50,6 +50,15 @@ From verse 48: لَا يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَ�
 
 As for the third probability, that the blessings of Jannah may remain everlasting, nor one is expelled from there, but one may himself get bored by living there and wish to go out, the Qur’ an has demolished this probability in one sentence of Surah Al-Kahf with the following words: لَا يَبْغُونَ عَنْهَا حِوَلًا (That is, these people too would never seek to return from there - 18:108).
 
+## AI Translation
+
+He then added, “What is your mission, O messenger-angels?”
+
+## AI Tafsir
+
+**What this ayah teaches:** They told him that they were going to save the family of Lut from among those people, except for his wife, because she was one of those who were doomed.
+
+**Classical tafsir:** Ibn Kathir notes: They told him that they were going to save the family of Lut from among those people, except for his wife, because she was one of those who were doomed.
 ## Personal Reflections
 
 

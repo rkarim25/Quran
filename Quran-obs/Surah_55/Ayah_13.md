@@ -155,6 +155,17 @@ Mankind and Jinn are surrounded by Divine Bounties
 
 فَبِأَيِّ آلَاءِ رَ‌بِّكُمَا تُكَذِّبَانِ (So, [ 0 mankind and Jinn,] which of the bounties of your Lord will you deny?...55:13). The word آلَاءِ 'al a' is the plural and it means 'benefits, benefaction, favour, boon, blessing or bounty'. The address is to the two species of Jinn and men referred to in verse 33 below and many other verses of Surah Ar-Rahman where Jinn are specifically mentioned.
 
+## AI Translation
+
+So which of your Rabb's favours will you both—humans and jinn—deny?
+
+## AI Tafsir
+
+**What this ayah teaches:** And also corn, with (its) 'Asf, and Rayhan.)(13.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "An-Najm (the star); the one that is in the sky." Al-Hasan and Qatadah said similarly. Ibn Jurayj reported that Ibn 'Abbas said said Al-Akmam, means sheathed fruit stalks.
+
+**From the Sunnah:** a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! (Musnad Ahmad) it and he said, "This Hadith is Gharib." Al-Hafiz Abu Bakr Al-Bazzar also collected this Hadith. (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

@@ -180,6 +180,17 @@ The Response to this False Accusation
 
 لِتُنذِرَ‌ قَوْمًا مَّا أَتَاهُم مِّن نَّذِيرٍ‌ ( so that you warn a people to whom no warner has come before - 28:46). The expression ` a people' is purported here for the Arabs, who are the progeny of Sayyidna Ismail (علیہ السلام) . No prophet was sent to this ` people' after Sayyidna Ismail علیہ السلام until the Holy Prophet ﷺ was sent. The same subject will follow in Surah Yasin. But this verse is not in conflict with the other verse إِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ‌ (There is no community, but there has come a warner among them - 35:24). What the present verse means here is that there was no prophet in ` this people' for a long time after Ismail . But after the arrival of the Holy Prophet ﷺ this void was filled up.
 
+## AI Translation
+
+Say, O Prophet, “Bring then a scripture from Allah which is a better guide than these two so I may follow it, if your claim is true.”
+
+## AI Tafsir
+
+**Context:** (Verily, we have heard a Book sent down after Musa, confirming what came before it)(46:30). Waraqah bin Nawfal said, "This is An-Namus, who came down to Musa." And those who are possessed of insight know instinctively th…
+
+**What this ayah teaches:** Verily, Allah guides not the people who are wrongdoers (50)And indeed now We have conveyed the Word to them, in order that they may remember .
+
+**Classical tafsir:** Ibn Kathir notes: Verily, Allah guides not the people who are wrongdoers (50)And indeed now We have conveyed the Word to them, in order that they may remember .
 ## Personal Reflections
 
 

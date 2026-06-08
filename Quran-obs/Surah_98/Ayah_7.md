@@ -140,6 +140,19 @@ Allah will reply: 'I shall grant you My pleasure, and I will never be angry with
 
 It should be noted here that there are two types of rida' [ pleasure ]: one in general sense; and second in specific or higher sense. In the general sense, rida' bil-qadr (i.e. to be pleased with every decree of Allah) is part of the obligations of a servant of Allah. A consummated slave is only ever satisfied and content with Allah Himself, and thus sincerely accepts the Divine decree. However, here the word is used in the higher sense, that is, Allah bestows upon a slave all his specific wishes and ambitions without leaving out any of them as in [ 93:5] وَلَسَوْفَ يُعْطِيكَ رَ‌بُّكَ فَتَرْ‌ضَىٰ (And of course, your Lord will give you so much that you will be pleased.) Here also the word rida' means the fulfillment of every wish of the Holy Prophet ﷺ . When this verse was revealed, the Messenger of Allah ﷺ expressed his wish and ambition that he would not be pleased until every single believer is taken out of Hell. [ Mazhari ]
 
+## AI Translation
+
+Those who believe and do righteous deeds—they are the best of creation in outcome.
+
+## AI Tafsir
+
+**Context:** It should be noted here that there are two types of rida' [ pleasure ]: one in general sense; and second in specific or higher sense. In the general sense, rida' bil-qadr (i.e.
+
+**What this ayah teaches:** They are the worst of creatures (6)Verily, those who believe and do righteous good deeds, they are the best of creatures (7)Their reward with their Lord is Eternal Gardens, underneath which rivers flow. Verily, those who disbelieve from among the People of the Scripture and idolators, will abide in the fire of Hell.
+
+**Classical tafsir:** Ibn Kathir notes: This means that they will remain in it and they will have no way out of it and they will not cease being in it.
+
+**From the Sunnah:** Paradise, that is, the Divine pleasure with no danger of Divine displeasure.
 ## Personal Reflections
 
 

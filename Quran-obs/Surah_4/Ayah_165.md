@@ -175,6 +175,17 @@ It has been narrated by Sayyidna Ibn ` Abbas ؓ عنہما that a group of Jews 
 
 The text, after having confirmed the veracity of the glorious Qur'an and the noble Prophet ﷺ ، turns to those who still deny them, conceal his character traits and circumstantial indicators of his appearance present in the Torah .and, sordidly enough, try to keep others away from the true faith by bringing out before them things which are not there or things .which have .been jumbled together to distort the truth. For such people, there shall be no forgiveness and no guidance either. Thus, it becomes very clear that guidance or the ability to find the straight path depends on following the Holy Prophet ﷺ and straying away, whatever be its nature, is nothing but hostility towards him. This, then, comprehensively refutes all erroneous ideas of the Jews.
 
+## AI Translation
+
+Messengers delivering good news and warnings so humanity should have no excuse before Allah after the messengers. And Allah is Almighty, All-Wise.
+
+## AI Tafsir
+
+**Context:** (...and to Dawud We gave the Zabur.) The 'Zabur' (Psalms) is the name of the Book revealed to Prophet Dawud, peace be upon him.
+
+**What this ayah teaches:** And Allah is Ever All-Powerful, All-Wise.) Allah sent down His Books and sent His Messengers with good news and warnings. Now, that Almighty Allah has sent messengers with miracles and His messengers have shown the straight path of truth, the option of not accepting the true faith cannot be accepted from anyone, under any pretext or excuse.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

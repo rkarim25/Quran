@@ -128,6 +128,15 @@ While dealing with the subject of Jews, as in verses 21-22, the text goes on to 
 
 Jews contended that they had worshipped the calf for 40 days and so they will incur punishment, if any, for the same period only.
 
+## AI Translation
+
+Have you not seen those who were given a portion of the Scriptures? Yet when they are invited to the Book of Allah to settle their disputes, some of them turn away heedlessly.
+
+## AI Tafsir
+
+**What this ayah teaches:** They are being invited to the Book of Allah to settle their dispute, then a party of them turned away, and they are averse (23)This is because they say: "The Fire shall not touch us but for a number of days." And that which they used to invent in their religion has deceived them (24)How (will it be) when We gather them together on the Day about which there is no doubt (i.e.
+
+**Classical tafsir:** Ibn Kathir notes: Chastising the People of the Book for Not Referring to the Book of Allah for Judgment Allah criticizes the Jews and Christians who claim to follow their Books, the Tawrah and the Injil, because when they are called to refer to these Books where Allah commanded them to follow Muha…
 ## Personal Reflections
 
 

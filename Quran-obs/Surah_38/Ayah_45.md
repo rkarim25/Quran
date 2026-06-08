@@ -84,6 +84,15 @@ Commentary
 
 The expression: أُولِي الْأَيْدِي وَالْأَبْصَارِ‌(translated as: men of strength and men of vision) literally means 'owners or possessors of hands and eyes.' The sense is that they devoted their physical and intellectual energies in remaining obedient to Allah Ta’ ala. When this is said, a hint is being released to the fact that the real end use of human body parts is no other but that they are spent or utilized in obedience to the Divine commands, and the those parts of the body that are not utilized in it, their existence or non-existence remains equal.
 
+## AI Translation
+
+Remember Our servants Ibrahim, Ishaq, and Ya'qub—men of strength and insight.
+
+## AI Tafsir
+
+**What this ayah teaches:** And remember Our servants, Ibrahim, Ishaq, and Ya'qub, Ulil-Aydi wal-Absar (45)Verily, We did choose them by granting them the remembrance of the Abode (46)And they are with Us, verily, of the chosen and the best (47)And remember Isma'il, Al-Yasa', and Dhul-Kifl, all are among the best (48)This is a Reminder..
+
+**Classical tafsir:** Ibn Kathir notes: As-Suddi said, "This means the Holy Qur'an."
 ## Personal Reflections
 
 

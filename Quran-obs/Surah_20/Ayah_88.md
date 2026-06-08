@@ -137,6 +137,15 @@ In a Hadith of Al-Fitun recorded from Al-Hasan Al-Basri, it is mentioned that th
 
 فَقَالُوا هَـٰذَا إِلَـٰهُكُمْ وَإِلَـٰهُ مُوسَىٰ فَنَسِيَ (Then they said, "This is your god and the god of Musa, and he erred." - 20:88) Having carved a calf which could also produce a sound, Samiri and his friends said to the Bani Isra'il", "Here is your god and the god of Musa. It seems Musa (علیہ السلام) has forgotten, that is why he has gone elsewhere in search of god".
 
+## AI Translation
+
+Then he moulded for them an idol of a calf that made a lowing sound. They said, “This is your god and the god of Moses, but Moses forgot where it was!”
+
+## AI Tafsir
+
+**What this ayah teaches:** The word for sorrow used here is Asif, which is used to emphasize to the severity of his anger. Thus, it became a calf that made a moaning sound that would gradually rise in pitch.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Nay, by Allah, the moaning sound of the calf was nothing but wind that would enter into its behind and come out of its mouth, thus causing it to make a sound." In a Hadith of Al-Fitun recorded from Al-Hasan Al-Basri, it is mentioned that this calf's name was Bahmut.
 ## Personal Reflections
 
 

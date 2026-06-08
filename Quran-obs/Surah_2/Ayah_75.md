@@ -186,6 +186,17 @@ The "Word of Allah" mentioned in the verse refers to the Torah which the Jews ha
 
 The Jews who were the contemporaries of the Holy Prophet ﷺ may not have themselves been involved in some of these transgressions, but since they did not abhor the misdeeds of their forefathers, they are to be considered as their counterparts.
 
+## AI Translation
+
+Do you still expect them to be sincere with you, when a group among them would hear Allah's word then deliberately distort it after understanding it?
+
+## AI Tafsir
+
+**Context:** Do you (faithful believers) covet that they will believe in your religion inspite of the fact that a party of them (Jewish rabbis) used to hear the Word of Allah (the Tawrah), then they used to change it knowingly after…
+
+**What this ayah teaches:** When someone comes to them who is not seeking what is right, nor offering them bribe, then they enjoin righteousness on him.
+
+**Classical tafsir:** Ibn Kathir notes: For, some of the Jews have been committing an even more heinous sin - they used to change and distort the Word of Allah in spite of knowing the ignominy of such a deed.
 ## Personal Reflections
 
 

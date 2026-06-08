@@ -112,6 +112,17 @@ Al-Bukhari recorded that Abu Hurayrah said that the Prophet ﷺ said,
 
 إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعْرَ‌ىٰ (Here you are privileged that you will not be hungry nor will you be unclad, and you will not be thirsty, nor will you be exposed to sun - 118.) Four things needed for the existence of life will be provided in Paradise without asking or putting in any labour. One should not doubt that good taste of food will not be enjoyed because of the absence of hunger in Paradise. Similarly, it is incorrect to assume that one would not enjoy drinking cold water in Paradise because of lack of thirst. The reality is that hunger and thirst would not be felt in Paradise to the extent of feeling any difficulty. The food will be made available as and when one would desire, and the cold water will be provided immediately when one would like to drink. In fact everything will be provided the moment one would desire.
 
+## AI Translation
+
+Here it is guaranteed that you will never go hungry or unclothed,.
+
+## AI Tafsir
+
+**What this ayah teaches:** So let him not get you both out of Paradise, so that you will be distressed. He also explains the enmity of Iblis for the Children of Adam and for their father, Adam, before them.
+
+**Classical tafsir:** Ibn Kathir notes: Adam and Iblis Ibn Abi Hatim recorded that Ibn 'Abbas said, "Verily, man was named Insan only because he was given a covenant, but he forgot it (Nasiya)." 'Ali bin Abi Talhah reported the same from Ibn 'Abbas. He also explains the enmity of Iblis for the Children of Adam and for their father, Adam, before them.
+
+**From the Sunnah:** Ibn Abi Hatim recorded that Ibn 'Abbas said, "Verily, man was named Insan only because he was given a covenant, but he forgot it (Nasiya)." 'Ali bin Abi Talhah reported the same from Ibn 'Abbas. Paradise there is a tree which a rider can travel under its shade for one hundred years and still not have passed it.
 ## Personal Reflections
 
 

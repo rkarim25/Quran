@@ -80,6 +80,17 @@ Commentary
 
 The word: بُرُ‌وجًا ; is the plural of: بُرُج (burj) which is applied to big palaces and castles and to similar other structural entities. Tafsir authorities Mujahid, Qatadah, Abu Salih and others have explained 'buruj' at this place in the sense of big stars. As for the statement in this verse which points to the creation of these big stars in the sky, the word: السَّمَاءِ (as-sama’) sky means atmosphere which, in common modern day terminology, is called the 'space.' The application of 'as-sama" in both these senses is common, and recognized. Thus, the physical presence of deep space is identified as 'as-sama" and the atmosphere much lower than it has also been repeatedly termed as 'as-sama" in the Holy Qur'an. As for the planets and stars being in the space, and not in the skies, the relevant investigative details, as coordinated with the verses of the Qur’ an and classical and modern astronomy, will Insh’ Allah appear under our comments on the verse: تَبَارَ‌كَ الَّذِي جَعَلَ فِي السَّمَاءِ بُرُ‌وجًا وَجَعَلَ فِيهَا سِرَ‌اجًا وَقَمَرً‌ا مُّنِيرً‌ا (Blessed is He Who made in the sky stellar formations and made in it the Sun and the Moon providing light) of Surah Al-Furqan (25 :61).
 
+## AI Translation
+
+Indeed, We have placed constellations in the sky, and adorned it for all to see.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Power of Allah and His Signs in the Heavens and on Earth To those who ponder, and look repeatedly at the dazzling signs and wonders that are to be seen in the creation, Allah mentions His creation of the heavens, with their immense height, and both the fixed and moving heavenly bodies with which He has adorned it.
+
+**Classical tafsir:** Ibn Kathir notes: Here, Mujahid and Qatadah said that Buruj [big stars] refers to the heavenly bodies.
+
+**From the Sunnah:** Explaining this Ayah, Al-Bukhari reported from Abu Hurayrah that the Prophet ﷺ said: (Sahih al-Bukhari) This was also the opinion of Sa'id bin Jubayr, 'Ikrimah, Abu Malik, Mujahid, Al-Hakim bin 'Utaybah, Al-Hasan bin Muhammad, Abu Salih and Qatadah. (al-Mustadrak)
 ## Personal Reflections
 
 

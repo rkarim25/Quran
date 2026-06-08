@@ -148,6 +148,17 @@ This is the end of the Tafsir of Surat Al-Waqi'ah, all praise and thanks are due
 
 فَأَمَّا إِن كَانَ مِنَ الْمُقَرَّ‌بِينَ (So, in case he [ the dying person ] is from among those blessed with nearness...56:88). In the foregoing verses, it was made clear that one day the present world will come to an end. It was also testified that at the time of death the near and dear ones, friends and relatives, and doctors all stand helplessly around the dying person. Likewise, resurrection, reckoning, and reward and punishment, after account of deeds, are all a reality and certainty of the highest degree. At the commencement of the Surah, it was mentioned that there will be three categories of the people in regard to their reward or punishment. The gist of this subject is again summarized here. If the dying person is among the Foremost believers, he will experience comfort, fragrance of happiness and a Garden of bliss. If he is not from the Foremost, but from the People of the Right hand, i.e. from the general body of believers, he will also experience the bounties and pleasures of Paradise. But if he is one of the People of the Left hand, the deniers and the deviant ones, then he will be in the blazing fire of Hell where he will be served with boiling water to drink.
 
+## AI Translation
+
+But if among the misguided deniers,
+
+## AI Tafsir
+
+**What this ayah teaches:** If the dying person is among the Foremost believers, he will experience comfort, fragrance of happiness and a Garden of bliss.
+
+**Classical tafsir:** Ibn Kathir notes: Abu Hazrah said that Rawh means: "Rest from the world." Sa'id bin Jubayr and As-Suddi said that it means to rejoice. Ibn 'Abbas, Mujahid and Sa'id bin Jubayr said that Rayhan means provisions.
+
+**From the Sunnah:** I heard him say, 'So-and-so narrated to me that he heard the Messenger of Allah ﷺ say, (Musnad Ahmad) This is the narration that Imam Ahmad collected; and in the Sahih, there is a Hadith with this meaning collected from 'A'ishah. (Musnad Ahmad)
 ## Personal Reflections
 
 

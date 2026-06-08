@@ -293,6 +293,19 @@ A Proven Prescription to avert calamities and achieve the objectives
 
 According to the above Tradition, Sayyidna ` Auf Ibn Malik Ashja` i ؓ and his wife were advised to recite لَا حَولَ وَلَا قُوَّۃَ اِلَّا بِاللہِ (There is no strength nor power but with Allah) abundantly to avert afflictions and obtain benefits. Mujaddid Alf Thani (رح) says that abundant recitation of this formula is a proven prescription to avert all kinds of religious and mundane afflictions and to obtain all religious and mundane objectives and benefits. According to him, its proper way is to recite five hundred times لَا حَولَ وَلَا قُوَّۃَ اِلَّا بِاللہِ , and to recite Salah (durud) one hundred times before, and one hundred times after the formula, and then to supplicate to Allah for one's need. [ Tafsir [ Mazhari ] Imam Ahmad, Hakim [ grading the chain as sahib ], Baihaqi, Abu Natim and others have transmitted on the authority of Sayyidna Abu Dharr that one day the Messenger of Allah ﷺ continuously recited the verse 3; وَمَن يَتَّقِ اللَّـهَ يَجْعَل لَّهُ مَخْرَ‌جًا ﴿2﴾ وَيَرْ‌زُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ('And whoever fears Allah, for him Allah brings forth a way out, and gives him provision from where he does not even imagine...2/3) until the reporter started feeling sleepy. The Holy Prophet ﷺ said: "Abu Dharr! if all people choose only this verse, it would be sufficient for them all." [ Ruh-ul-Ma’ ani ] 'Sufficient' in this statement means it would be sufficient for all people to accomplish their religious and mundane objectives, if they practice it.
 
+## AI Translation
+
+When they have nearly reached the end of their waiting period, either retain them honourably or separate honourably. Call two reliable men to witness—and let them bear true testimony for Allah's sake. This is enjoined on whoever has iman in Allah and the Last Day. Whoever is living with taqwa—Allah-consciousness, He will make a way out for them,
+
+## AI Tafsir
+
+**Context:** This occasion of revelation indicates that this verse, though related to divorcing situation in this context, has general application for all circumstances.
+
+**What this ayah teaches:** This procedure of having two witnesses is, according to most to most jurists, a commendable (mustahabb) practice, and not mandatory.
+
+**Classical tafsir:** Ibn Kathir notes: Literally, the word ma’ ruf means ‘a recognized way’ nd it implies that the Muslims are required to implement the approved procedure of Shari’ ah, as recognized by Islam.
+
+**From the Sunnah:** that 'Imran bin Husayn was asked about a man who divorced his wife and then had sexual intercourse with her, without notifying witnesses of when he divorced her and when he took her back.
 ## Personal Reflections
 
 

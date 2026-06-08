@@ -116,6 +116,15 @@ Then Allah says,
 
 أَلَمْ نَجْعَلِ الْأَرْ‌ضَ كِفَاتًا أَحْيَاءً وَأَمْوَاتًا (Did We not make the earth a container that collects the living and the dead?....25, 26) The word kit is derived from kaft. It means 'to gather things together'. Thus kit is a thing that embodies many things within itself. Earth is created by Allah in a fashion that humans when alive, remain on its back, and when dead, in its belly.
 
+## AI Translation
+
+Proceed into a shade of smoke rising in three columns,
+
+## AI Tafsir
+
+**What this ayah teaches:** Depart you to a shadow in three columns,) meaning, a flame of fire when it rises and ascends with smoke.
+
+**Classical tafsir:** Ibn Kathir notes: This means it will not protect them from the heat of the flame.
 ## Personal Reflections
 
 

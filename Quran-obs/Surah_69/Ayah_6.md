@@ -192,6 +192,15 @@ Qatadah said, "Allah caused this ship to remain until the first people of this U
 
 The phrase رِ‌يحٍ صَرْ‌صَرٍ‌ (rihin sarsarin) (in verse 6) refers to a violent windstorm which is also severely cold.
 
+## AI Translation
+
+As for Ad, they were destroyed by a furious, bitter wind
+
+## AI Tafsir
+
+**What this ayah teaches:** As for Thamud, they were destroyed by the Taghiyah!)(6. And as for 'Ad, they were destroyed by a wind, Sarsar 'Atiyah!)(7.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said similar to this when he said, "At-Taghiyah is the shout." Mujahid said, "At-Taghiyah means the sins." This was also said by Ar-Rabi' bin Anas and bin Zayd. And We have created for them of the like thereunto, on which they ride.)(36:41,42) Qatadah said, "Allah caused this ship to remain until the first people of this Ummah saw it." However, the first view (that it refers to all ships in…
 ## Personal Reflections
 
 

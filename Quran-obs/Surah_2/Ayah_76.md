@@ -199,6 +199,17 @@ Al-Hasan Al-Basri said, "When the Jews met the believers they used to say, 'We b
 
 Some of the Jews, seeing the growing power of the Muslims in Madinah and around it, pretended to have accepted Islam. In order to assure the Muslims of their sincerity and to win their favour, these hypocrites would now and then disclose to them that the Torah itself had given out the good tidings of the coming of the Holy Prophet ﷺ and mentioned the Holy Qur'an. But when they met other Jews who openly declared their adherence to Judaism, they would admit that they were only trying to deceive the Muslims, and were otherwise quite loyal to their own faith. On such occasions, those of the other group used to reprimand them for revealing to the Muslims what they themselves were trying to keep concealed, for a knowledge of the relevant verses of the Torah could be very useful for the Muslims in order to defeat the Jews in their argument.
 
+## AI Translation
+
+When they meet believers they say, "We believe." In private they say to each other, "Will you tell the believers what Allah revealed to you so they can argue with you before your Rabb? Do you not understand?"
+
+## AI Tafsir
+
+**Context:** Do you (faithful believers) covet that they will believe in your religion inspite of the fact that a party of them (Jewish rabbis) used to hear the Word of Allah (the Tawrah), then they used to change it knowingly after…
+
+**What this ayah teaches:** Do you (faithful believers) covet that they will believe in your religion inspite of the fact that a party of them (Jewish rabbis) used to hear the Word of Allah (the Tawrah), then they used to change it knowingly after they understood it (75)And when they (Jews) meet those who believe (Muslims), they say, "We believe," but when they meet one another in private, they say, "Shall you (Jews) tell th…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -210,6 +210,17 @@ And on the Day of Resurrection, he will be a witness against them )4:159(. This 
 
 وَلَوْ نَشَاءُ لَجَعَلْنَا مِنكُم مَّلَائِكَةً فِي الْأَرْ‌ضِ يَخْلُفُونَ (and if we will, We may create angels from you who succeed you on the earth...43:60) This is in reply to the gravely mistaken conclusion drawn by Christians from the miraculous birth of Sayyidna ` Isa (علیہ السلام) without a father as a result of which they attributed godhead to him, and started worshipping him. Allah Ta ala states to controvert their argument that Sayyidna 'Isa's (علیہ السلام) birth was merely a demonstration of His power, and He has the power to do even more supernatural things like creating Sayyidna 'Adam (علیہ السلام) without father and mother. And if He wills, He may do as unprecedented things as causing angels to be born out of human beings.
 
+## AI Translation
+
+Had We willed, We could have easily replaced you all with angels succeeding one another on earth.
+
+## AI Tafsir
+
+**What this ayah teaches:** We granted Our favor to him, and We made him an example for the Children of Israel (59)And if it were Our will, We would have made angels to replace you on the earth (60)And he shall be a known sign for (the coming of) the Hour. And if it were Our will, We would have made angels to replace you on the earth.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore have Taqwa of Allah and obey me.
+
+**From the Sunnah:** Several others narrated that Ibn 'Abbas, may Allah be pleased with him, Mujahid, 'Ikrimah, As-Suddi and Ad-Dahhak said, "They laughed, i.e., they were astounded by that." Qatadah said, "They were repelled by that and they laughed." Ibrahim An-Nakha'i said, "Th… The Messenger of Allah ﷺ spoke, then An-Nadr bin Al-Harith came up to him and the Messenger of Allah ﷺ spoke to him until he ﷺ defeated him in argument.
 ## Personal Reflections
 
 

@@ -847,6 +847,19 @@ The second verse takes up the following two subjects:
 
 2. Secondly, it was said that the person who knows the correct situation in a disputed matter should not withhold his testimony. If he does withhold it, his heart is a sinner. The heart has been identified as the sinner because somebody might think his sin was restricted to the tongue (which failed to speak up). But it was in the heart that he first decided to do what he did and therefore, the sin of his heart comes first.
 
+## AI Translation
+
+O believers — when you contract a debt for a fixed term, write it down. Let a scribe write justly between the parties. The scribe should not refuse to write as Allah taught. Let the debtor dictate and fear Allah without reducing the debt. If the debtor is incompetent or weak, let their guardian dictate justly. Call two witnesses from your men; if two men are not available, one man and two women so that if one forgets, the other may remind her. Witnesses must not refuse when summoned. Do not refuse to document debts — small or great — with a fixed term. That is more just with Allah, stronger as evidence, and less likely to cause doubt. Except for immediate transactions among yourselves — then there is no blame if you do not write, but take witnesses. Do no harm to scribe or witness. If you do, you have exceeded Allah's limits. Live with taqwa. Allah teaches you, and He has knowledge of all things.
+
+## AI Tafsir
+
+**Context:** This Ayah is the longest in the Glorious Qur'an. Imam Abu Ja'far bin Jarir recorded that Sa'id bin Al-Musayyib said that he was told that the Ayah most recently revealed from above the Throne – the last Ayah to be reveal…
+
+**What this ayah teaches:** Therefore, the scribe is not allowed to cheat any party of the contract and is to only record what the parties of the contract agreed to, without addition or deletion.
+
+**Classical tafsir:** Ibn Kathir notes: And if there are not two men (available), then a man and two women, such as you agree for witnesses, so that if one of them (two women) errs, the other can remind her.
+
+**From the Sunnah:** he was told that the Ayah most recently revealed from above the Throne – the last Ayah to be revealed in the Qur'an – was the Ayah about debts.
 ## Personal Reflections
 
 

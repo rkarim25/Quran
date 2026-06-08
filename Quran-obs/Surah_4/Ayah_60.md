@@ -238,6 +238,17 @@ Ashraf be the judge in that dispute and, in addition to that, later when the Hol
 
 The comment which follows immediately employs the word, "Taghut" which has been left un-translated. Lexically, “ Taghut” primarily means one who exceeds the limits.' In usage, the Satan is referred to as Taghut. In this verse, carrying the dispute to Ka'b ibn Ashraf has been equated with carrying it to the Satan. The reason could be that Ka'b ibn Ashraf was himself a satan personified, or it could be that bypassing a decision under the God-given law and preferring a decision contrary to it can only come from the teaching of the Satan. About anyone who follows this course, it is clear that he has virtually taken his case to the court of none else but the Satan. There-fore, right there in the end of this verse, there appears the warning that those who follow the. Satan, the Satan will mislead them to a remote wrong way.
 
+## AI Translation
+
+Have you not seen those who claim they believe in what has been revealed to you and what was revealed before you? They seek the judgment of false judges, which they were commanded to reject. And Satan desires to lead them farther away.
+
+## AI Tafsir
+
+**Context:** Allah chastises those who claim to believe in what Allah has sent down to His Messenger ﷺ and to the earlier Prophets, yet they refer to other than the Book of Allah and the Sunnah of His Messenger ﷺ for judgment in vari…
+
+**What this ayah teaches:** Referring to Other than the Qur'an and Sunnah for Judgment is Characteristic of Non-Muslims Allah chastises those who claim to believe in what Allah has sent down to His Messenger ﷺ and to the earlier Prophets, yet they refer to other than the Book of Allah and the Sunnah of His Messenger ﷺ for judgment in various disputes.
+
+**Classical tafsir:** Ibn Kathir notes: Let Allah be sufficient for you in this regard, because He has perfect knowledge of their apparent and hidden affairs.
 ## Personal Reflections
 
 

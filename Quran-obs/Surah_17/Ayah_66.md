@@ -84,6 +84,15 @@ Allah tells us of His kindness towards His servants by subjugating for them ship
 
 As for the sense of: وَشَارِ‌كْهُمْ فِي الْأَمْوَالِ وَالْأَوْلَادِ (and share with them in their wealth and their children - 64), Sayyidna ` Abdullah ibn ` Abbas ؓ said: Wealth and property acquired by false, impermissible and unlawful means or spent on what is haram is the sharing of the Shaitan in it. As for the sharing of the Shaitan in children, it could either be through illegitimacy, or by naming them like disbelievers and polytheists, or by indulging in polytheistic customs to ensure their security, or by taking to Haram sources of income to bring them up. (Qurtubi)
 
+## AI Translation
+
+It is your Rabb Who steers the ships for you through the sea, so that you may seek His bounty. Surely He is ever Merciful to you.
+
+## AI Tafsir
+
+**What this ayah teaches:** Your Lord is He Who drives the ship for you through the sea, in order that you may seek of His bounty.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

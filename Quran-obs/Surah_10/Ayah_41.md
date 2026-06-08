@@ -130,6 +130,17 @@ important note
 
 In relation to issues of religious beliefs embedded in this verse, it must be borne in mind that the statement: مَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ (What is there, after truth, but error?) proves that there is no intermediary link between truth and error. What is not the truth will be included in error and straying. There can be no such thing that is neither truth nor error. And it is also not possible that two opposite things could be the truth. This is an established rule in the sight of the majority of scholars in the Muslim Ummah. However, difference exists among ` Ulama' regarding minor and subsidiary juristic issues. In the view of some of them, both sides would be considered as on truth in Ijtihad-based issues and, according to the majority of them, there is consensus on the view that the taking of contra-position in Ijtihad-based problems cannot be termed as error and straying.
 
+## AI Translation
+
+If they deny you, then say, “My deeds are mine and your deeds are yours. You are free of what I do and I am free of what you do!”
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, once it stands proved that Allah Ta` ala is the only true and rightful object of worship, it is terribly senseless to abandon this truth and allow yourself to be diverted elsewhere.
+
+**Classical tafsir:** Ibn Kathir notes: In other words, once it stands proved that Allah Ta` ala is the only true and rightful object of worship, it is terribly senseless to abandon this truth and allow yourself to be diverted elsewhere.
+
+**From the Sunnah:** They listen to your truthful, eloquent and authentic Hadiths that are useful to the hearts, the bodies and their faith. (authentic hadith) In the Hadith narrated by Abu Dharr, he states that the Prophet ﷺ related that His Lord, Exalted and High is He, said:
 ## Personal Reflections
 
 

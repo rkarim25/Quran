@@ -166,6 +166,17 @@ As for the good news in this world, the Holy Prophet ﷺ said, `(they are) the t
 
 Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. About it, the Holy Prophet ﷺ said: تِلکَ عَاجِلُ بشرَی المؤمِن that is, ` being taken as good and praiseworthy is, for a true Muslim, good news in ready cash.' (Muslim and al-Baghawi)
 
+## AI Translation
+
+They say, “Allah has offspring.” Glory be to Him! He is the Self-Sufficient. To Him belongs whatever is in the heavens and whatever is on the earth. You have no proof of this! Do you say about Allah what you do not know?
+
+## AI Tafsir
+
+**What this ayah teaches:** His is all that is in the heavens and all that is in the earth.
+
+**Classical tafsir:** Ibn Kathir notes: and then unto Us will be their return, then We shall make them taste the severest torment because they used to disbelieve .
+
+**From the Sunnah:** Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. (Sahih Muslim)
 ## Personal Reflections
 
 

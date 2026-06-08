@@ -86,6 +86,17 @@ No wonder if the Qur'an is alluding to the aeroplane!
 
 But, it is obvious that the Qur'an has not specifically named a camel or some other particular mode of conveyance at this place. This includes every such means of transportation that carries people and their baggage, accompanied or unaccompanied, right up to their desired destination. In our time, the invention of aeroplanes has made it amply clear that aeroplanes are the greatest substantiation of the Qur'anic statement: مِّن مِّثْلِهِ (mim-mithlihi: things similar to it). Then, its similarity with boat or ship is strongly supportive of it, because the way the ship of the sea sails on the surface of the water, and the mass of water does not make it drown, similarly, the airplane sails or flies over the bed of air and it does not throw it down. No wonder if the Qur'an may have left the statement: مِّن مِّثْلِهِ مَا يَرْ‌كَبُونَ (mim-mithlihi ma yarkabun: things similar to it that they ride) ambiguous, so that all modes of conveyance and transportation that continue to be invented right through the last Day of Qiyamah get to be included therein. And Allah knows best.
 
+## AI Translation
+
+and created for them similar things to ride in.
+
+## AI Tafsir
+
+**What this ayah teaches:** And an Ayah for them is that We bore their offspring in the laden ship (41)And We have created for them of the like thereunto, on which they ride (42)And if We will, We shall drown them, and there will be no shout for them, nor will they be saved (43)Unless it be a mercy from Us, and as an enjoyment for a while .
+
+**Classical tafsir:** Ibn Kathir notes: Then, its similarity with boat or ship is strongly supportive of it, because the way the ship of the sea sails on the surface of the water, and the mass of water does not make it drown, similarly, the airplane sails or flies over the bed of air and it does not throw it down.
+
+**From the Sunnah:** " Ibn Jarir recorded that Ibn 'Abbas, may Allah be pleased with him, said, "Do you know what the Ayah:
 ## Personal Reflections
 
 

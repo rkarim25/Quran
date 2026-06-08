@@ -122,6 +122,15 @@ Surah Aljathiyah
 
 Ends here
 
+## AI Translation
+
+This record of Ours speaks the truth about you. We always had your deeds recorded."
+
+## AI Tafsir
+
+**What this ayah teaches:** This Day you shall be recompensed for what you used to do (28)This Our Record speaks about you with truth. The word kitab, according to most commentators, refers to ` book of record' which the angels have been writing in the world.
+
+**Classical tafsir:** Ibn Kathir notes: The word kitab, according to most commentators, refers to ` book of record' which the angels have been writing in the world.
 ## Personal Reflections
 
 

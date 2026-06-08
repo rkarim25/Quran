@@ -90,6 +90,15 @@ This is also about the Gathering when the angels, comprising seven lines in ever
 
 يُرْ‌سَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ‌ وَنُحَاسٌ فَلَا تَنتَصِرَ‌انِ (A flame of fire and a smoke will be loosed against you, and you will not [ be able ] to defend... 55:35) Sayyidna Ibn ` Abbas ؓ and other leading authorities on Qur'anic exegesis have said that the word shuwaz with refers to 'flame or fire without smoke' and the word nuhas refers to 'smoke in which there is no flame'. This verse too addresses the two species of creation, the jinns and mankind. It addresses them and describes how fire and smoke will be unleashed against them. The verse could mean that after the reckoning is over, and the disbelievers are sent to the Hell, they will experience two different types of punishment. In some places there will be only fire and flame, with no smoke at all. In other places there will be only smoke and no flame or fire. Other Qur'anic exegetes regard this verse as a supplement to the preceding one, and assign the following meaning to it: O jinn and mankind, it is not within your power to cross the bounds of the heavens. If you do attempt to escape on the Day of Resurrection, then the angels [ including those guarding the Hellfire ] will bring you back by directing the flames of fire and smoke. The verb فَلَا تَنتَصِرَ‌انِ fala-tantasiran is derived from اِنتِصَار intisar which means 'to help someone to defend him against a calamity' and thus the words فَلَا تَنتَصِرَ‌انِ fala-tantasiran signify that the jinns and mankind will not be able to help each other against Divine punishment, try as they might.
 
+## AI Translation
+
+So which of your Rabb's favours will you both—humans and jinn—deny?
+
+## AI Tafsir
+
+**What this ayah teaches:** We shall attend to you, O Thaqalan (31)Then which of the blessings of your Lord will you both deny (32)O assembly of Jinn and men!
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "Molten brass poured over their heads." Qatadah held the same view. But he said that the scholars of Qur'anic recitation said that in this Ayah, the word recited is Nuhas.
 ## Personal Reflections
 
 

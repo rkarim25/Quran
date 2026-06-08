@@ -168,6 +168,15 @@ The Religion of All the Prophets Is Tawhid; And the Warning Against Splitting in
 
 وَإِنَّ هَـٰذِهِ أُمَّتُكُمْ أُمَّةً وَاحِدَةً (And surely this is your creed, a single creed - 23:52). The word اُمَّہ is used to describe a group or the followers of a prophet. Sometimes it is also used in the sense of "faith", "creed" or "way of life", as in the verse وَجَدْنَا آبَاءَنَا عَلَىٰ أُمَّةٍ (We found our fathers upon a creed - 43:22). In the present verse the word ummah has been used in the latter sense.
 
+## AI Translation
+
+Surely this deen of yours is only one, and I am your Rabb, so fear Me alone.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, I am Well-Acquainted with what you do (51)And verily, this your religion is one religion, and I am your Lord, so have Taqwa.
+
+**Classical tafsir:** Ibn Kathir notes: The Command to Eat Lawful Food and to Do Righteous Deeds Allah commands His servants and Messengers, peace be upon them all, to eat lawful food and do righteous deeds, which indicates that eating what is lawful helps one to do righteous deeds.
 ## Personal Reflections
 
 

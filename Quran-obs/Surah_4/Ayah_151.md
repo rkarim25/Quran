@@ -130,6 +130,19 @@ In other words, we can say that their faith will be valid and trust-worthy only 
 
 As for the verses under discussion, it has been clearly declared that anyone who rejects even one of the prophets of Allah is an avowed disbeliever (kafir) and a recipient of the punishment of Hell. So, let us remember that Belief in Allah, in order to be valid, has to be with Belief in the Prophet. If the Belief in the Prophet is not there, even referring to Belief in Allah as such will not be correct.
 
+## AI Translation
+
+Surely those who deny Allah and His messengers and wish to make a distinction between Allah and His messengers, saying, “We believe in some and reject the truth in others,” desiring to forge a compromise, they are indeed the true those who reject the truth. And We have prepared for those who reject the truth a humiliating punishment.
+
+## AI Tafsir
+
+**Context:** (The Messenger believes in what has been revealed to him from his Lord, and (so do) the believers. All of them believe in Allah.)(2:285).
+
+**What this ayah teaches:** This is because their claimed faith in a certain Messenger is not true, for had they truly believed in him, they would have believed in other Messengers, especially if the other Messenger has a stronger proof for his truthfulness.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, whoever rejects only one of Allah's Prophets, he will have disbelieved in all of them, because it is required from mankind to believe in every prophet whom Allah sent to the people of the earth.
+
+**From the Sunnah:** Or, their behavior could be the result of their disbelief in the Prophet after they were aware of his truth, just as the Jewish rabbis did during the time of Muhammad, the Messenger of Allah ﷺ.
 ## Personal Reflections
 
 

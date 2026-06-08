@@ -108,6 +108,19 @@ And Abu Sufyn, while still in his state of kufr, requested the Holy Prophet ﷺ 
 
 As for the use of the word: لِبَاس (libas: garment) to carry the sense of giving a taste of hunger and fear towards the later part of verse 112, it will be noted that a garment is not a thing to be tasted. But, the word 'garment' standing for 'libas' has been used here with the force of a similie denoting something being wide-spread and all-enveloping. The suggestion being conveyed here is that fear and hunger were cast over them in a manner of a garment or dress which becomes an integral part of the body. This was how hunger and fear were released and set all over them. (Mazhari)
 
+## AI Translation
+
+A messenger of their own actually did come to them, but they denied him. So the torment overtook them while they persisted in wrongdoing.
+
+## AI Tafsir
+
+**Context:** (So have Taqwa of Allah! O men of understanding who have believed, Allah has indeed revealed to you a reminder (this Qur'an). (And has also sent to you) a Messenger.)[65:10-11] and:
+
+**What this ayah teaches:** So Allah made it taste extreme hunger (famine) and fear, because of what they did (112)There has come to them a Messenger from among themselves, but they denied him, so the torment seized them while they were wrongdoers . This happened because of their evil deeds, their wrongdoing and their rejection of the Messenger ﷺ that Allah sent to them from among themselves.
+
+**Classical tafsir:** Ibn Kathir notes: The Example of Makkah This example refers to the people of Makkah, which had been secure, peaceful and stable, a secure sanctuary while men were being snatched away from everywhere outside of it.
+
+**From the Sunnah:** This was when they defied the Messenger of Allah…
 ## Personal Reflections
 
 

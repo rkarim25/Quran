@@ -94,6 +94,17 @@ All these five nations were the strongest and resourceful. It was not possible f
 
 The forthcoming verses address the people of the time of the Prophet Muhammad ﷺ that they are not more powerful in terms of wealth, number and might than the people of Prophet Lut (علیہ السلام) the tribes of ` Ad and Thamud, Prophet Lut’ s علیہ السلام people and the people of Fir'aun. Then how are they sitting in a careless manner?
 
+## AI Translation
+
+We sent against them a furious wind on a day of unrelenting misery,
+
+## AI Tafsir
+
+**Context:** رَ‌اوَدُوهُ عَن ضَيْفِهِ (And they had even tried to tempt him against his guests...54:37). The word murawadah signifies to entice someone to satisfy one's lust.
+
+**What this ayah teaches:** 'Ad denied; then how was My torment and My warnings (18)Verily, We sent against them a violently cold (Sarsar) wind on a day of calamity, continuous (19)Plucking out men as if they were uprooted stems of date palms (20)Then, how was My torment and My warnings (21)And We have indeed made the Qur'an easy to understand and remember; then is there any that will remember (22).
+
+**Classical tafsir:** Ibn Kathir notes: The word murawadah signifies to entice someone to satisfy one's lust.
 ## Personal Reflections
 
 

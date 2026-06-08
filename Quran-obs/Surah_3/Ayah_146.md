@@ -288,6 +288,17 @@ The last verse promises a good reward for the men of Allah in this world as well
 
 And the better reward in the Hereafter. (148)
 
+## AI Translation
+
+How many devotees fought along with their prophets and never faltered despite whatever they suffered in the cause of Allah, nor did they weaken or give in! Allah loves those who practice sabr.
+
+## AI Tafsir
+
+**What this ayah teaches:** It should be noted that the prayer for the forgiveness of past sins, appearing first, is a subtle hint to the fact that pain caused or defeat suffered in this mortal life is, more than often, a reflection of one's past sins which can be cured through repentance and seeking of forgiveness.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the Muslims' resolve was weakened and they did not actively participate in battle.
+
+**From the Sunnah:** When Muslims suffered defeat in battle at Uhud and some of them were killed, Shaytan shouted, "Muhammad has been killed." Ibn Qami'ah went back to the idolators and claimed, "I have killed Muhammad." Some Muslims believed this rumor and thought that the Messen… This story was collected by Al-Hafiz Abu Bakr Al-Bayhaqi in Dala'il An-Nubuwwah.
 ## Personal Reflections
 
 

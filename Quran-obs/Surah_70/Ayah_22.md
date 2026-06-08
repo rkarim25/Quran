@@ -142,6 +142,17 @@ The first exception is expressed with the words 'the performers of salah' [ 22].
 
 Thus Verse 23 describes the quality of Khushu' ('humbleness) while Verse 34 وَالَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ (and those who take due care of their salah) speaks of those who regularly offer it on its due time and take care of its general etiquette. Thus it may not be surmised that the subject-matter has been repeated. The qualities of the righteous believers given in forthcoming verses are almost the same as those given in Surah Al- Mu'minun.
 
+## AI Translation
+
+and withholding when touched with good—
+
+## AI Tafsir
+
+**What this ayah teaches:** This verse describes the fickle nature of man.
+
+**Classical tafsir:** Ibn Kathir notes: It has also been said that the meaning here refers to those who perform a deed and are constant in its performance and consistent in it.
+
+**From the Sunnah:** This is like what is reported in the authentic Hadith, (authentic hadith)
 ## Personal Reflections
 
 

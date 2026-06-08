@@ -258,6 +258,17 @@ This explains what some jurists say about Wahy (Revelation) being of two kinds: 
 
 Another problem which gets resolved from the words: وَعَلَّمَكَ مَا لَمْ تَكُن تَعْلَمُ (and taught you what you did not know) (113) is that the noble Prophet ﷺ did not have the all-comprehending knowledge of the entire universe equal to Almighty Allah, as some ignorant people do insist. The truth is that the measure of his knowledge was corresponding to what Allah bestowed upon him. However, there is no doubt that the knowledge bestowed upon the Holy Prophet ﷺ exceeds the combined knowledge of all created beings.
 
+## AI Translation
+
+Had it not been for Allah’s grace and mercy, a group of them would have sought to deceive you. Yet they would deceive none but themselves, nor can they harm you in the least. Allah has revealed to you the Book and wisdom and taught you what you never knew. Great is Allah’s favour upon you!
+
+## AI Tafsir
+
+**Context:** Addressing the Holy Prophet ﷺ in the ninth verse (113), it has been said: It was Allah's grace and mercy that He revealed to you the reality behind the event of theft, otherwise these people would have misled you into er…
+
+**What this ayah teaches:** But, since you are not alone, Allah's grace and mercy is with you, these people can never mislead you into error.
+
+**Classical tafsir:** Ibn Kathir notes: This explains what some jurists say about Wahy (Revelation) being of two kinds: Matluww - that which is recited, and Ghayr-Matluww - that which is not recited.
 ## Personal Reflections
 
 

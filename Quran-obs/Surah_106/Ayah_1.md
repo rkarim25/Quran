@@ -86,6 +86,17 @@ Superiority of Quraish
 
 This Surah indicates that Quraish, of all the tribes of Arabia, was most acceptable in the sight of Allah. The Prophet ﷺ is reported to have said: "Verily, Allah selected Kinanah from the offspring of Prophet Ismail (علیہ السلام) and selected Quraish from the progeny of Kinanah. From the Quraish, Allah selected Banu Hashim and from Banu Hashim He selected me." [ Baghawi on the authority of Wathilah Ibn Asqa']. Another Tradition reports that the Messenger of Allah ﷺ said: "People will follow Quraish in matters of good as well as in matters of evil." [ Muslim on the authority of jabir, as quoted by Mazhari ]. The reason for the selection of the tribes mentioned in the first Tradition is presumably on account of their special abilities, innate capacities and natural endowments. Even in the days of paganism and ignorance, when people practiced kufr and shirk, their morals and inborn abilities were of a very high standard. They had the perfect capacity to accept the truth. This is the reason why most of the blessed Companions and Friends of Allah were Quraishites. [ Mazhari ]
 
+## AI Translation
+
+For the accustomed security of Quraysh—
+
+## AI Tafsir
+
+**What this ayah teaches:** They (the Companions) wrote "In the Name of Allah, the ar-Rahman, the ar-Rahim" on the line (i.e., the space) between these two Surahs. Then they would return to their city in safety during their journeys due to the respect that the people had for them because they were the residents of Allah's sanctuary.
+
+**Classical tafsir:** Ibn Kathir notes: Superiority of Quraish This Surah indicates that Quraish, of all the tribes of Arabia, was most acceptable in the sight of Allah.
+
+**From the Sunnah:** And I am commanded to be from among the Muslims.)(27:91) : "People will follow Quraish in matters of good as well as in matters of evil. (Sahih Muslim)
 ## Personal Reflections
 
 

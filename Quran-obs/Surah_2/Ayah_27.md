@@ -244,6 +244,17 @@ Islamic concern about relationship to others
 
 The cutting asunder of what Allah has commanded should be joined includes all kinds of relationships -- the one between Allah and His servant, the one between a man and his parents and relatives, between him and his neighbours and friends, between one Muslim and another, between one man and another. Actually, Islam means fulfilling one's obligations with regard to all these relationships,. And this is also the way to follow the Shari'ah. Deficiency in fulfilling these obligations produces all kinds of disorder among men, and thus the transgressors end up by being destructive for others and for themselves. It is these, the Holy Qur'an says, who are the losers -- in this world as in the other.
 
+## AI Translation
+
+who break Allah's covenant after affirming it, sever what He ordered joined, and spread corruption in the land. They are the true losers.
+
+## AI Tafsir
+
+**What this ayah teaches:** And as for those who believe, they know that it is the truth from their Lord, but as for those who disbelieve, they say: "What did Allah intend by this parable?" By it He misleads many, and many He guides thereby.
+
+**Classical tafsir:** Ibn Kathir notes: Allah will keep firm those who believe, with the word that stands firm in life of this world (i.e.
+
+**From the Sunnah:** Breaking Allah's covenant in this case occured when the People of the Book rejected the Prophet ﷺ after they knew the truth about him, and they hid this truth from people, even though they swore to Allah that they would do otherwise. These miracles testified to the truth of Allah's Messengers.
 ## Personal Reflections
 
 

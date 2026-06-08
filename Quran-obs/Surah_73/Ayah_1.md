@@ -248,6 +248,19 @@ Commentary
 
 According to this narrative, the Holy Prophet ﷺ is affectionately addressed as '0 you, enveloped in a mantle,' whereas in this Surah he is addressed as '0 you wrapped up in clothes'. Both forms of address are used affectionately and endearingly to console him. The latter title of address 'muzzammil' as it appears in this Surah could probably be connected to another incident (referred to in the footnote) but it, nonetheless, shows deep love and affection for the Holy Prophet ﷺ . [ Ruh-ul-Ma` ani ]. Having addressed him with this special title, the Holy Prophet ﷺ is told in the following verses that praying to Allah in the stillness of night [ salat-ut-tahajjud ] will prepare him for the heavy task entrusted to him. Some details of the night-prayer have also been set out.
 
+## AI Translation
+
+O you wrapped in your garments—
+
+## AI Tafsir
+
+**Context:** (Stand (to pray) all night, except a little. Half of it or less than that, a little.)(73:2-3) "This became difficult on the believers.
+
+**What this ayah teaches:** The word muzzammil literally means 'one wrapped up in clothes' and its near-synonym 'muddaththir' comes in the next Surah. Lord of the east and the west; La ilaha illa Huwa, so take Him as a trustee.) The Command to stand at Night (in Prayer) Allah commands His Messenger ﷺ to cease being wrapped up, and this means to be covered during the night.
+
+**Classical tafsir:** Ibn Kathir notes: The word muzzammil literally means 'one wrapped up in clothes' and its near-synonym 'muddaththir' comes in the next Surah.
+
+**From the Sunnah:** Thus, the Prophet ﷺ did as Allah ordered him, by standing for prayer at night.
 ## Personal Reflections
 
 

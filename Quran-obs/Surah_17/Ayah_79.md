@@ -276,6 +276,17 @@ Hadrat Mujaddid Alf Thani, the famous religious revivalist of the first Islamic 
 
 Before we proceed to verse 8o, let us recapitulate what was said in the verses previous to it. Mentioned there first were the pains inflicted on the Holy Prophet ﷺ and the conspiracies they kept hatching to hurt and harm him. Along with it, it was also said that these hostile plans made by them will never succeed. In contrast, the Holy Prophet ﷺ was being blessed with the real plan to offset their evil by prompting him to establish the five prayers, and the Tahajjud. Following that, he has been promised the Praised Station, the highest among all prophets - a promise to be fulfilled in the Hereafter. Now, in this verse 80: وَقُل رَّ‌بِّ أَدْخِلْنِي (And say, "0 my Lord, make me enter...), the first relief to him against the hurtful and treacherous actions of the disbelievers was given by Allah Ta` ala within this world in the form of his migration to Madinah. Then, he was given the good news of the conquest of Makkah in: وَقُلْ جَاءَ الْحَقُّ (And say, "Truth has come...81).
 
+## AI Translation
+
+And rise at the last part of the night, offering additional prayers, so your Rabb may raise you to a station of praise.
+
+## AI Tafsir
+
+**What this ayah teaches:** The outcome of these narrative reports is no other but that no Salah - other than the five prayers - is obligatory (fard) on the Muslim ummah at large and on the Holy Prophet ﷺ himself.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, some respected early commentators have taken 'nafilah' at this place as an attribute of faridah or duty.
+
+**From the Sunnah:** The details of the timings of the prayers were reported in the Mutawatir Sunnah from the words and deeds of the Prophet ﷺ, and this is what the people of Islam have followed until the present day, passing it down from generation to generation, century after ce… from Abu Hurayrah that the Prophet ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
 
 

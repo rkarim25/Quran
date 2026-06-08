@@ -182,6 +182,17 @@ Here the word فُتِحَت (released) is used for Ya'juj Ma'juj which means to
 
 مِّن كُلِّ حَدَبٍ يَنسِلُونَ (while they run down from every height - 21:96) The word حَدَبٍ 'means an elevated place which may be a mountain or just a lump in the ground. We have also seen in Surah Al-Kahf that the place where Ya’ juj and Ma'juj have been confined is somewhere beyond the northern mountains. So when they will come out, they will be seen rushing down the mountain sides in their hordes.
 
+## AI Translation
+
+until after Gog and Magog have broken loose from the barrier, swarming down from every hill,.
+
+## AI Tafsir
+
+**What this ayah teaches:** We have also seen in Surah Al-Kahf that the place where Ya’ juj and Ma'juj have been confined is somewhere beyond the northern mountains.
+
+**Classical tafsir:** Ibn Kathir notes: The phrase "until the Ya'juj and Ma'juj appear", really means that such people will never return, because the appearance of Ya'juj and Ma'juj will be a sign of near approach of the Dooms Day.
+
+**From the Sunnah:** Ibn Jarir narrated that 'Ubaydullah bin Abi Yazid said, "Ibn 'Abbas saw some young boys playing and pouncing on one another, and said, this is how Ya'juj and Ma'juj will emerge." Their emergence has been described in numerous Hadiths of the Prophet ﷺ. They will overwhelm the people, and the Muslims will retreat to their cities and strongholds, bringing their flocks with them. (Sunan Ibn Majah)
 ## Personal Reflections
 
 

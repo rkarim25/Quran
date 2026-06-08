@@ -123,6 +123,17 @@ This glad tiding regarding the ascendancy of Islam is, as in Tafsir Mazhari, for
 
 How this Light of Allah reached its perfection during the blessed period of the Holy Prophet ﷺ and the most righteous and worthy elders of the Muslim Community is a spectacle the world has already witnessed. Then, in future too, in terms of its legitimacy and truth for all times to come, the religion of Islam is a perfect religion no sensible person would elect to criticize. For this reason, this Faith of Truth, in terms of its arguments and proofs, has always been powerful. And, should Muslims follow this religion fully and faithfully, out-ward ascendancy, power and governance also turn out to be its inevitable results. As proved by the annals of the history of Islam, whenever Muslims acted whole-heartedly in accordance with the Qur'an and Sunnah, no impediment in their way could defeat their determination and their presence was felt all over the world as a dominant force. And whenever and wherever they have reached the limits of being subjugated or oppressed, it was but the evil consequence of heedlessness to and contravention of the injunctions of Qur'an and Sunnah which came before them. As for the Religion of Truth, it stood its grounds as always, august and protected.
 
+## AI Translation
+
+He is the One Who has sent His Messenger with guidance and the deen of truth, making it prevail over all others, even to the dismay of the polytheists.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then, in future too, in terms of its legitimacy and truth for all times to come, the religion of Islam is a perfect religion no sensible person would elect to criticize.
+
+**Classical tafsir:** Ibn Kathir notes: 'religion of truth' refers to the righteous, legal deeds that bring about benefit in this life and the Hereafter.
+
+**From the Sunnah:** They try through argument and lies to extinguish the guidance and religion of truth that the Messenger of Allah ﷺ was sent with. Those who became Muslims among them acquired goodness, honor and might.
 ## Personal Reflections
 
 

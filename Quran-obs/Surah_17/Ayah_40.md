@@ -92,6 +92,15 @@ A gist of Torah in fifteen verses
 
 Sayyidna ` Abdullah ibn ` Abbas ؓ said that the commandments of the entire Torah have been reduced to fifteen verses of Surah Bani Isra'il. (Mazhari)
 
+## AI Translation
+
+Has your Rabb favoured you pagans with sons and taken angels as His daughters? You are truly making an outrageous claim.
+
+## AI Tafsir
+
+**What this ayah teaches:** Has then your Lord preferred for you sons, and taken for Himself from among the angels daughters? Refutation of Those Who claim that the Angels are Daughters of Allah Allah refutes the lying idolators who claim, may the curse of Allah be upon them, that the angels are the daughters of Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Since all these things are haram or reprehensible, therefore, it has been called 'makruh' in a general sense of 'detestable' which includes the haram and makruh both.
 ## Personal Reflections
 
 

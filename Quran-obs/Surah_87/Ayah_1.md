@@ -284,6 +284,19 @@ Besides, it is also included in the above imperative that there are some names e
 
 Some commentators interpret the word 'ism' does not mean 'name' in this verse. Instead, they say, it is referring to the Dhat or the 'Being' of Allah. According to the Arabic expressions, this interpretation is not unlikely, and the Qur'an has used the word 'ism' in that sense also. The Hadith that instructs us to recite the tasbih in sajdah [ prostration ] is not "I pronounce the purity of the name of my most exalted Lord, but "I pronounce the purity of my most exalted Lord". This indicates that in this context 'ism' is not used in the sense of 'name' but it refers to the Being of Allah Himself. [ Qurtubi ]
 
+## AI Translation
+
+Glorify the Name of your Rabb, the Most High,
+
+## AI Tafsir
+
+**Context:** This Surah was revealed in Makkah before the migration to Al-Madinah. The proof of this is what Al-Bukhari recorded from Al-Bara' bin 'Azib, that he said, "The first people to come to us (in Al-Madinah) from the Companio…
+
+**What this ayah teaches:** When the name of Allah is pronounced, it should be done with utmost humility and respect.
+
+**Classical tafsir:** Ibn Kathir notes: This indicates that in this context 'ism' is not used in the sense of 'name' but it refers to the Being of Allah Himself.
+
+**From the Sunnah:** Then 'Umar bin Al-Khattab came with a group of twenty people, after which the Prophet ﷺ came. (Sahih al-Bukhari) It has been confirmed in the Two Sahihs that the Messenger of Allah ﷺ said to Mu'adh,
 ## Personal Reflections
 
 

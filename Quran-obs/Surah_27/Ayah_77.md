@@ -86,6 +86,19 @@ Commentary
 
 By describing Allah's omnipotence through different examples in the earlier verses, the reality of the Hereafter and the rational possibility of resurrection of the dead has been established. There is no logical ambiguity in that. Its definite occurrence is confirmed by the sayings of the prophets and the divine books that were revealed to them. Authenticity and establishment of any information is based on the veracity of the courier or the narrator. In this verse it is stated that the informant of this news is the Holy Qur'an whose authenticity and truthfulness is beyond any doubt or contradiction. So much so that in matters in which the scholars of Bani Isra'il had differed strongly and could not resolve them, the Qur'an has given them evaluated verdict to follow for correct judgment. It is but obvious that in matters where there is difference of opinion among the scholars, the only competent authority to overrule is the one who is superior in knowledge and status. Therefore, it is established that Qur'an is an authentic informant. After this the Holy Prophet ﷺ was consoled that he need not be despondent over their antagonism. 'Allah Ta’ ala is to make judgment Himself in his case. He should have faith in Allah, because Allah's help and aid is with the truth. And there is no doubt that he is on the right path'. (Verse 79).
 
+## AI Translation
+
+And it is truly a guide and mercy for the mu'mins.
+
+## AI Tafsir
+
+**Context:** By describing Allah's omnipotence through different examples in the earlier verses, the reality of the Hereafter and the rational possibility of resurrection of the dead has been established.
+
+**What this ayah teaches:** Verily, this Qur'an narrates to the Children of Israel most of that in which they differ (76)And truly, it is a guide and a mercy for the believers (77)Verily, your Lord will decide between them by His judgement.
+
+**Classical tafsir:** Ibn Kathir notes: So much so that in matters in which the scholars of Bani Isra'il had differed strongly and could not resolve them, the Qur'an has given them evaluated verdict to follow for correct judgment.
+
+**From the Sunnah:** You can only make to hear those who believe in Our Ayat, so they submit (became Muslims).
 ## Personal Reflections
 
 

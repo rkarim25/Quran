@@ -113,6 +113,17 @@ After having recounted this event, the Holy Prophet ﷺ said: This is what this 
 
 At the end of verse 69, it was said: وَكَانَ عِندَ اللَّـهِ وَجِيهًا (And he was honorable in the sight of Allah). The Arabic word used for Sayyidna Musa (علیہ السلام) wajih denotes the honor and elegance of someone who deserves regard and consideration. When used with: عِندَ اللَّـهِ ` indallah: in the sight of Allah), it would mean a person whose prayer is answered by Allah Ta’ ala and whose wish He does not turn down. Hence, the station of Sayyidna Musa علیہ السلام as a person whose prayers were answered (popularly known as: mustajab-ud-da’ awat) is proved from many events mentioned in the Qur'an where he prayed to Allah for something and He answered it the way he wanted it to be. Most unique of these is the prayer he made about Sayyidna Harun (Aaron) (علیہ السلام) where he wished that he be made a prophet. Allah Ta'ala accepted his prayer and made him a co-prophet with Sayyidna Musa (علیہ السلام) - although, the high office of prophethood is not given to someone on someone's recommendation. (Ibn Kathir)
 
+## AI Translation
+
+O mu'mins! Do not be like those who slandered Moses, but Allah cleared him of what they said. And he was honourable in the sight of Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** Be not like those who annoyed Musa, but Allah cleared him of that which they alleged, and he was honorable before Allah .
+
+**Classical tafsir:** Ibn Kathir notes: Some of the Children of Israel annoyed him by saying: "He only keeps himself covered because of some defect in his skin, either leprosy or scrotal hernia or some other defect." Allah, may He be glorified, wanted to clear Musa, peace be upon him, of what they were saying.
+
+**From the Sunnah:** the Messenger of Allah ﷺ said: (Sahih al-Bukhari) Be not like those who annoyed Musa, but Allah cleared him of that which they alleged, and he was honorable before Allah.)) This Hadith is one of those which were recorded by Al-Bukhari but not Muslim. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

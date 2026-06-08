@@ -127,6 +127,15 @@ On the Day, they see these conditions and these frightening sights, they will ha
 
 يُنفَخُ فِي الصُّورِ‌ (رضی The Day when the Horn الصُّورِ‌ [ Sur ] will be blown - 20:102) According to Sayyidna Ibn ` Umar اللہ تعالیٰ عنہما ، a Bedouin الصُّورِ‌ asked the Holy Prophet ﷺ about صُور (the Horn) to which he replied that it is something like a horn which will be blown, meaning thereby that when the angel will blow into it all those who had lain dead for centuries will return to life. Only Allah knows the true nature of the Sur (the Horn).
 
+## AI Translation
+
+On that Day all will follow the caller for assembly, and none will dare to deviate. All voices will be hushed before the the Rahman. Only whispers will be heard.
+
+## AI Tafsir
+
+**What this ayah teaches:** The word Qa' means a piece of land that is level and the word Safsafa is used to place emphasis on this meaning. And all voices will be humbled for the ar-Rahman (Allah), and nothing shall you hear except Hamsa .
+
+**Classical tafsir:** Ibn Kathir notes: The word Qa' means a piece of land that is level and the word Safsafa is used to place emphasis on this meaning.
 ## Personal Reflections
 
 

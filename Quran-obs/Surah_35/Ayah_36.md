@@ -192,6 +192,17 @@ Imam Al-Bukhari also recorded, in the Book of Riqaq in his Sahih, that Abu Huray
 
 In verse 35: الَّذِي أَحَلَّنَا دَارَ‌ الْمُقَامَةِ مِن فَضْلِهِ لَا يَمَسُّنَا فِيهَا نَصَبٌ وَلَا يَمَسُّنَا فِيهَا لُغُوبٌ (who, out of His grace, has made us land at a home of eternal living where neither we are touched by weariness. Nor are we touched by boredom." ), some characteristics of Jannah have been described: (1) That it is an eternal home with no danger of any lapse of time, or expulsion from there at any time. (2) That no one will face any sorrow while there. (3) That no one there will experience the least fatigue or boredom, as it happens in the mortal world where one needs to sleep after work. Life in Jannah will be free from this too. This subject also finds mention in some narrations of Hadith. (Mazhari)
 
+## AI Translation
+
+As for those who reject the truth, they will have the Fire of Hell, where death will not finish them nor will its torment be lightened. This is how We repay every stubborn denier.
+
+## AI Tafsir
+
+**What this ayah teaches:** Neither will it have a complete killing effect on them so that they die nor shall its torment be lightened for them.
+
+**Classical tafsir:** Ibn Kathir notes: Neither will it have a complete killing effect on them so that they die nor shall its torment be lightened for them.
+
+**From the Sunnah:** It was reported in Sahih Muslim that the Messenger of Allah ﷺ said: (Sahih Muslim) This is the correct view according to Shayban who narrated that Qatadah said, "Proof will be established against them by the fact that they lived long enough and that Messengers came to them." This is also the view favored by Ibn Jarir, and it is the apparent…
 ## Personal Reflections
 
 

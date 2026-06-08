@@ -194,6 +194,17 @@ The story of this cave (Thawr) is far greater and more wondrous than that of the
 
 About the verse: فَأْوُوا إِلَى الْكَهْفِ (then seek refuge in the Cave - 16), Ibn Kathir says that the course adopted by the People of Kahf was that they left the city in which it was not possible to worship Allah and took refuge in the Cave. This is the Sunnah, the way of all prophets. They migrate from such places and opt for a place where ` Ibadah could be done.
 
+## AI Translation
+
+Since you have distanced yourselves from them and what they worship besides Allah, take refuge in the cave. Your Rabb will extend His mercy to you and accommodate you in your ordeal.”
+
+## AI Tafsir
+
+**What this ayah teaches:** It seems that they lived before the time of Christianity altogether, because if they had been Christians, the Jewish rabbis would not have cared about preserving because of their differences. This was a way that Allah showed kindness for them, because during that time they managed to escape from him and flee from persecution for the sake of their religion.
+
+**Classical tafsir:** Ibn Kathir notes: This indicates that this story was something recorded in the books of the People of the Book, and that it came before Christianity.
+
+**From the Sunnah:** As for the elders of Quraysh, most of them kept to their religion and only a few of them became Muslims.
 ## Personal Reflections
 
 

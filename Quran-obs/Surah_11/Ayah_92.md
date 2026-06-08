@@ -145,6 +145,17 @@ verse of the Qur'an: تِسْعَةُ رَ‌هْطٍ يُفْسِدُونَ ف�
 
 During the Khilafah of Sayyidna ` Umar ibn ` Abd al-` Aziz (رح) ، someone was arrested while he was cutting a dirham coin. He was awarded a punishment of lashes and was paraded around head shaved. (Tafsir al Qurtubi)
 
+## AI Translation
+
+He said, “O my people! Do you have more regard for my clan than for Allah, turning your back on Him entirely? Surely my Rabb is Fully Aware of what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, my Lord is surrounding all that you do.
+
+**Classical tafsir:** Ibn Kathir notes: It has also been said that this means that they would have cursed and insulted him verbally.
+
+**From the Sunnah:** There is a consensus of the entire Muslim Ummah that doing so is strictly Haram (unlawful). (Sahih Muslim)
 ## Personal Reflections
 
 

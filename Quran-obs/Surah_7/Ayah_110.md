@@ -65,6 +65,15 @@ The miracles and sorcery are so distinct in their nature and effect that they do
 
 Even the people of the Pharaoh found the miracles of the prophet Musa (علیہ السلام) somehow different from the normal acts of sorcerers. Therefore, even while accusing him of sorcery they admitted that he was 'of great knowledge' meaning that his act was not comparable with the acts of the normal sorcerers.
 
+## AI Translation
+
+The chiefs of Pharaoh’s people said, “He is indeed a skilled magician, who seeks to drive you from your land.” “What do you propose?”
+
+## AI Tafsir
+
+**What this ayah teaches:** They feared that he might lure people to his side by his magic, they claimed, and thus prevail over them and drive them away from their land.
+
+**Classical tafsir:** Ibn Kathir notes: The people, therefore, take them to be happening without the help of any cause.
 ## Personal Reflections
 
 

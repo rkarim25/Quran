@@ -116,6 +116,19 @@ No one is more unjust than he who belies the truth which the Messengers have bro
 
 The last verse (17) emphasizes the subject conclusively by warning that attributing any statement to Allah Ta` ala that was not His Word, or denying what actually was, were crimes deserving severe punishment.
 
+## AI Translation
+
+Who does more wrong than those who fabricate lies against Allah or deny His revelations? Indeed, the wicked will never succeed.
+
+## AI Tafsir
+
+**Context:** Musaylamah thought for a while and then said: "Something similar to that was also revealed to me." 'Amr asked: "And what is it?" He then recited: "'O Wabr, O Wabr!
+
+**What this ayah teaches:** So who does more wrong than he who forges a lie against Allah or denies His Āyāt? The last verse (17) emphasizes the subject conclusively by warning that attributing any statement to Allah Ta` ala that was not His Word, or denying what actually was, were crimes deserving severe punishment.
+
+**Classical tafsir:** Ibn Kathir notes: The last verse (17) emphasizes the subject conclusively by warning that attributing any statement to Allah Ta` ala that was not His Word, or denying what actually was, were crimes deserving severe punishment.
+
+**From the Sunnah:** When Dimam bin Tha'labah came to Allah's Messenger ﷺ and asked him in the presence of his people - Banu Sa'd bin Bakr: "Who raised…
 ## Personal Reflections
 
 

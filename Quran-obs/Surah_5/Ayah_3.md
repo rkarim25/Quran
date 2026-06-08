@@ -645,6 +645,17 @@ Towards the end of the Verse, the statement: فَمَنِ اضْطُرَّ‌ ف
 
 This is exactly what the words: غَيْرَ‌ مُتَجَانِفٍ لِّإِثْمٍ (having no inclination to sin) following immediately mean, that is, this act should be free from any inclination to commit a sin. Contrary to that, the purpose should only be limited to get relief from the excruciating state of compulsion. Towards the end of the Verse, the statement: فَإِنَّ اللَّـهَ غَفُورٌ‌ رَّ‌حِيمٌ to (Allah is Most-Forgiving, Very-Merciful) makes a pointed reference to the fact that these unlawful things are still unlawful as they already were, but only such a person has been given leave because of the state of compulsion he may be in.
 
+## AI Translation
+
+Forbidden to you are carrion, blood, swine, what is slaughtered invoking any name other than Allah, what dies by strangling, beating, a fall, or goring, what a predator has begun to eat unless you slaughter it properly, and what is sacrificed on altars. You are also forbidden to divide by casting lots. That is grave wrongdoing. Today those who reject the truth have lost hope in your deen—the way of life aligned with divine guidance. So do not fear them; live with taqwa toward Me. Today I have perfected your deen for you, completed My favour upon you, and chosen Islam as your way. Whoever is driven by extreme hunger—not intending sin—Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**Context:** Imam Ahmad recorded that Tariq bin Shihab said, "A Jewish man said to 'Umar bin Al-Khattab, 'O Leader of the Believers!
+
+**What this ayah teaches:** He also forbade them from eating the meat of animals that were slaughtered in the vicinity of the Nusub, even if Allah's Name was mentioned on these animals when they were slaughtered, because it is a type of Shirk that Allah and His Messenger ﷺ have forbidden.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ali bin Abi Talhah reported that Ibn 'Abbas said that an animal that dies by a headlong fall, "Is that which falls from a mountain." Qatadah said that it is the animal that falls in a well.
 ## Personal Reflections
 
 

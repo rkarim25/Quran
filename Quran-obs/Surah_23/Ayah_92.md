@@ -67,6 +67,15 @@ Commentary
 
 وَهُوَ يُجِيرُ‌ وَلَا يُجَارُ‌ عَلَيْهِ (And who gives protection and no protection can be given against him - 23:88) The meaning of the verse is that Allah alone can deliver a person from pain and suffering as He wills, but there is none who can save a person from divine punishment. This is true of this world because nobody can stop Allah from rewarding virtuous people nor can anyone protect someone whom He chooses to punish. And the same is true of the Hereafter also. (Qurtubi)
 
+## AI Translation
+
+He is the Knower of the seen and unseen. Exalted is He above what they associate with Him.
+
+## AI Tafsir
+
+**What this ayah teaches:** Glorified be Allah above all that they attribute to Him (91)All-Knower of the unseen and the seen!
+
+**Classical tafsir:** Ibn Kathir notes: It is impossible for the will of both to be fulfilled because of the conflict.
 ## Personal Reflections
 
 

@@ -212,6 +212,19 @@ Ruling
 
 Scholars have deduced from the above verse that if the family members to anything in violation of the sacred laws, it is not appropriate to be disappointed with them totally, or to be hostile towards them, or to hate or curse them. [ Ruh ]
 
+## AI Translation
+
+O believers: some of your spouses and children are enemies to you—so beware of them. But if you pardon, overlook, and forgive, then Allah is All-Forgiving, the Rahim—whose special mercy is for believers in the Akhirah.
+
+## AI Tafsir
+
+**Context:** يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّ مِنْ أَزْوَاجِكُمْ وَأَوْلَادِكُمْ عَدُوًّا لَّكُمْ فَاحْذَرُ‌وهُمْ ( O those who believe, among your wives and your children there are some enemies for you, so beware of them…4:14).
+
+**What this ayah teaches:** But if you pardon (them) and overlook, and forgive, then verily, Allah is Oft-Forgiving, ar-Rahim (14)Your wealth and your children are only a Fitnah, whereas Allah!
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the wives and children who stood in way of loyalty and obedience to Divine laws are referred to as their enemies, and it was emphasized that they should beware of them, because none can be greater enemy than one who involves a person in the eternal punishment and everl…
+
+**From the Sunnah:** Later when they joined Allah's Messenger ﷺ, they found that those who were with him (the Companions) have gained knowledge…
 ## Personal Reflections
 
 

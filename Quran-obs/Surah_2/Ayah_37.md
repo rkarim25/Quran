@@ -104,6 +104,17 @@ Paradise, Allah also said, بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ:
 
 They were also told that the earth would be a temporary dwelling-place for them, and that they would have to leave it too, which also meant that they would not find real peace of mind there.
 
+## AI Translation
+
+Then Adam received words from his Rabb, and He accepted his repentance. He is the Accepter of Repentance, the Rahim — special mercy for believers in the Akhirah.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then Adam received from his Lord Words.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Paradise?' Allah said, 'Yes. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

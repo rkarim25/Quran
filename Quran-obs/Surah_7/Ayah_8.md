@@ -188,6 +188,17 @@ In the two verses the Tafsir of which you have just read through, sinners were w
 
 In short, Allah Ta` ala has placed all that human beings need on and in this earth which demands that they should be grateful to Him all the time under all conditions. But, human beings are prone to heedlessness. They would not take much time to forget the favours of their Creator and Master - only to return to the same world of things. So, at the end of the verse, it is in a mode of complaint that it was said: قَلِيلًا مَّا تَشْكُرُ‌ونَ (Little you are receptive to advice).
 
+## AI Translation
+
+The weighing on that Day will be just. As for those whose scale will be heavy, they will be successful.
+
+## AI Tafsir
+
+**What this ayah teaches:** Tafsir authority, Ibn Kathir, after having reported all these narrations, has said that it is possible that the weighing is repeated several times in different ways and, it is obvious, the full reality of these matters is known to Allah Ta` ala alone - and for doing what one does in real life, it is, for all practical purposes, not necessary to know this reality.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, scholars of Tafsir say that this shows that weighing in Mahshar (Resurrection) will be twice.
+
+**From the Sunnah:** The Prophet ﷺ mentioned the opposite in the case of the those who reject the truth and the hypocrite. it is authentic. (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

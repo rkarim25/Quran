@@ -120,6 +120,15 @@ Allah consoles His Prophet Muhammad ﷺ for the disbelief of his people and give
 
 In verse 19, it was said: يَعْلَمُ خَائِنَةَ الْأَعْيُنِ (He knows the treachery of the eyes), in other words, eyes that betray the trust. It means the action of a person who would, secretly and surreptitiously, cast a glance over something haram and impermissible for him or her, for example, casts a glance at a non-mahram person with sexual desire, and takes it away in the event someone was around, or casts a glance in a manner that is not noticed by others. All these things are open before Allah Ta’ ala.
 
+## AI Translation
+
+We sent Musa with Our signs and compelling proof
+
+## AI Tafsir
+
+**What this ayah teaches:** Musa and Fir'awn Allah consoles His Prophet Muhammad ﷺ for the disbelief of his people and gives him the glad tidings of good consequences and victory in this world and the Hereafter, as happened to Musa bin 'Imran, peace be upon him, whom Allah sent with clear proof and definitive evidence.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, this was one command after another.
 ## Personal Reflections
 
 

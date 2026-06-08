@@ -302,6 +302,17 @@ And it appears in a narration from the Sahib of Muslim that the Holy Prophet onc
 
 Concluding in the same vein, we refer to another hadith from al-Bukhari and Muslim which proclaims that the back-biter will not be admitted into the Paradise. And a hadith in Nasa` i and the Misnad of Ahmad enlarges on the theme by saying that some kinds of people will not be admitted into the Paradise, that is, the drinker, the disobeyer of parents, the unjustified severer of relations with kinsmen, the publicizer of a favour, the diviner of the unseen through jinns, satans and other mediums and the dayyuth (دَیُّوث), a wittol or cuckold who is so contented with his shamelessness that he never stops his wife and family members from going the way of immodesty. And a hadith from the Sahih of Muslim says that la'nah or the curse of Allah is for one who sacrifices an animal for anyone other than Allah.
 
+## AI Translation
+
+If you avoid the major sins forbidden to you, We will absolve you of your misdeeds and admit you into a place of honour.
+
+## AI Tafsir
+
+**What this ayah teaches:** The distinction between 'kabirah' and 'saghirah', major and minor sins, is made only when these are compared to each other.
+
+**Classical tafsir:** Ibn Kathir notes: However, there is no harm in commercial transactions that transpire between the buyer and the seller with mutual consent, so that money is legally earned from these transactions.
+
+**From the Sunnah:** Eat not up your property among yourselves unjustly) some Muslims said, 'Allah has forbidden us from eating up each other's property unjustly, and food is our best property. to me, 'Do you know what the day of Al-Jumu'ah is? (Musnad Ahmad)
 ## Personal Reflections
 
 

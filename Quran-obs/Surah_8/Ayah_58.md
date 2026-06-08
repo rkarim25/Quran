@@ -115,6 +115,17 @@ Fulfillment of Trust Obligations: A Significant Episode
 
 Based on a narration of Salim ibn ` Amir, it has been reported by Abu Dawud, Tirmidhi, Al-Nasa'i and Imam Ahmad ibn Hanbal (رح) that Sayyidna Mu` awiyah ؓ had a no-war pact with a group of people for a specified period of time. It occurred to Sayyidna Mu` awiyah ؓ that he should move his army and equipment close to those people so that his forces could pounce on the enemy immediately on the expiry of the period of their peace pact. But, exactly at the time when the army of Sayyidna Mu` awiyah ؓ was getting ready to march ahead in the desired direction, it was noticed that an aged person riding on a horse was shouting a slogan very loudly. He was saying: اللہُ اکبر اللہ اکبر وفَآءً لا غدراً (Allahu Akbar, Allahu Akbar - Allah is Great, Allah is Great - we should fulfill the pledge, we should not contravene it). He was saying that with the famous cry of Allahu Akbar (which increased the religious gravity of the matter). The Holy Prophet ﷺ has said: When a ceasefire agreement or a peace pact with a people comes into effect, it is necessary that no knot be opened or tied against their provisions. Sayyidna Mu` awiyah ؓ was informed about it. When he saw the herald of the saying, he recognized him. He was Sayyidna ` Amr ibn ` Anbasah ؓ ، a Sahabi. Sayyidna Mu` awiyah ؓ lost no time and ordered his army to march back so that he does not become one of those who had committed a breach of trust by initiating war action while being within the time frame of a no-war pact. (Ibn Kathir)
 
+## AI Translation
+
+If you fear treachery from a people, announce the dissolution of the treaty to them on equal terms. Allah does not love the treacherous.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Holy Prophet ﷺ has said: When a ceasefire agreement or a peace pact with a people comes into effect, it is necessary that no knot be opened or tied against their provisions.
+
+**Classical tafsir:** Ibn Kathir notes: He wanted to go closer to their forces so that when the treaty of peace ended, he could invade them.
+
+**From the Sunnah:** Given this situation, it remains no more necessary that Muslims should continue to abide by their allegiance to the treaty. However, should there be the danger of a breach of trust from the other party, it is possible to go ahead and openly proclaim before them that Muslims shall not remain bound by the treaty in future.
 ## Personal Reflections
 
 

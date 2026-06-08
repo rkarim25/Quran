@@ -409,6 +409,17 @@ The verse, while permitting the Muslims to marry such women, has added: إِذَ
 
 وَاسْأَلُوا مَا أَنفَقْتُمْ وَلْيَسْأَلُوا مَا أَنفَقُوا (..., and ask that which you had paid, and they should ask to pay that which they had paid ....60:10). It was stated previously that when a woman converts to Islam and emigrates to Madinah, she is not sent back to Makkah, but becomes part of the Muslim Community, and the marriage tie between an emigrant believing woman and her disbelieving husband becomes dissolved in this way. However, it is necessary to give back the mahr (dower) of the disbelieving husband that he paid to her. Similarly, if [ God forbid!] a Muslim woman becomes an apostate and absconds to Makkah, or if she was an infidel from beforehand and flees from her Muslim husband, the pagans of Makkah will not send her back, but they would be legally responsible to return the mahr that the Muslim husband had paid to her. Therefore, the amounts thus obligated should be determined by mutual understanding of the accounts. The Muslims acted upon this law willingly, because they sincerely believed that adherence to the command of the Qur'an is binding. Thus they paid back the mahr to all unbelieving husbands who had paid it to their women. The pagans of Makkah, however, did not believe in the Qur'an. Therefore, they did not act upon it, on which occasion the following verse was revealed. [ Mentioned by al-Baghawi on the authority of Zuhri, as quoted by Mazhari ]
 
+## AI Translation
+
+O believers: when believing women come to you as emigrants, test their intentions—Allah knows their faith best—and if you find them to be believers, do not return them to the those who reject the truth. Those women are not lawful for the those who reject the truth, nor are the those who reject the truth lawful for them. Repay the those who reject the truth whatever dowries they paid. There is no blame on you if you marry them once you pay their dowries. Do not hold to marriages with women who commit shirk—giving anything the devotion owed to Allah alone. Demand repayment of dowries you paid, and let the those who reject the truth do the same. That is Allah's judgment between you. He is All-Knowing, All-Wise.
+
+## AI Tafsir
+
+**Context:** Ibn Thawr narrated that Ma'mar said that Az-Zuhri said, "This Ayah was revealed to Allah's Messenger ﷺ while he was in the area of Al-Hudaybiyyah, after making peace.
+
+**What this ayah teaches:** Exemption of Women from the Terms of the Treaty is not a Breach of Treaty.
+
+**Classical tafsir:** Ibn Kathir notes: " Ibn Jarir recorded that Az-Zuhri said, "The believers abided by Allah's decree and paid what they owed the idolators to compensate for the dowery the idolators gave to the women (who emigrated).
 ## Personal Reflections
 
 

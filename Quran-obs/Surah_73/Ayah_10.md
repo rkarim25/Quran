@@ -131,6 +131,17 @@ So the first interpretation would mean, 'how can you attain safety for yourselve
 
 Some scholars of Tafsir say that the injunction of this verse is repealed by verses of jihad which were revealed later on. But a careful analysis indicates that the injunction is not repealed. The above verses enjoin patience and steadfastness in the face of what the enemies say and cutting off from them courteously. This is not in conflict with verses that deal with reproof, punishment and armed struggle that were revealed subsequently. The injunction of this verse is applicable at all times and under all circumstances, whereas jihad is reproof and punishment, and is a specific injunction to be applied under specific conditions. Islamic jihad and armed struggle is not a matter of taking revenge or expression of anger, which could be in conflict with patience and fortitude or courteous severance. It is purely acting on the Divine command as is patience and courteous severance under general circumstances. Up to this point the Holy Prophet ﷺ was commanded to be steadfast and to abstain from revenge. The next verse, reprimands the deniers of Truth that instead of being grateful to Allah for "ease and plenty" provided for them, they reject the Divine Message:
 
+## AI Translation
+
+Be patient with what they say, and leave them courteously.
+
+## AI Tafsir
+
+**What this ayah teaches:** And be patient with what they say, and keep away from them in a good way (10)And leave Me alone to deal with the deniers, those who are in possession of good things of life. The Command to be Patient with the Harms of the those who reject the truth and a Discussion of what They will receive because of it Allah commands His Messenger ﷺ to be patient with what the foolish who reject him among his people say.
+
+**Classical tafsir:** Ibn Kathir notes: This means, 'you should beware of denying this Messenger, lest you be afflicted by that which befell Fir'awn.
+
+**From the Sunnah:** Therefore, Allah's Messenger is told to cut off relations with the rejecters of Truth, but he must maintain his dignity and integrity.
 ## Personal Reflections
 
 

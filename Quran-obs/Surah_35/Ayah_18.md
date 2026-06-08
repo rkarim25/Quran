@@ -209,6 +209,15 @@ Explaining this verse, Sayyidna ` Ikrimah ؓ said: On that Day, a father would s
 
 Sayyidna ` Ikrimah ؓ said that this is what the verse: لَا تَزِرُ‌ وَازِرَ‌ةٌ وِزْرَ‌ أُخْرَ‌ىٰ (And no bearer will bear the burden of any other) means. Then he said that the noble Qur'an has taken up this subject in several of its verses. At one place, it has said: لَّا يَجْزِي وَالِدٌ عَن وَلَدِهِ وَلَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِ شَيْئًا that is, on that Day, neither a father would be able to have his son be spared from the punishment, nor would a son be able to do that for his father (31:33). The essential sense is that no one will save another person by carrying the burden of his sins over one's own shoulders. However, the matter of intercession (shafa'ah) is dierent. Similarly, in another verse, it was said: يَوْمَ يَفِرُّ‌ الْمَرْ‌ءُ مِنْ أَخِيهِ وَأُمِّهِ وَأَبِيهِ that is, on that Day, one will run from his brother and his mother and father and his wife and children (80:34, 35). The purpose of running is no other but that he would be in fear, lest these people try to pass on the burden of their sins on him or come up with a request for some of his good deeds. (Ibn Kathir)
 
+## AI Translation
+
+No soul burdened with sin will bear another's burden. If a sin-burdened soul cries for help, none of it will be carried—even by a close relative. You can only warn those who stand in awe of their Lord without seeing Him and establish salah. Whoever purifies themselves does so for their own good. To Allah is the final return.
+
+## AI Tafsir
+
+**What this ayah teaches:** But Allah is the Rich, Worthy of all praise (15)If He willed, He could destroy you and bring about a new creation (16)And that is not hard for Allah (17)And no bearer of burdens shall bear another's burden; and if one heavily laden calls another to (bear) his load, nothing of it will be lifted even though he be near of kin.
+
+**Classical tafsir:** Ibn Kathir notes: Instead, their burden will weigh on them as it was in its own place and because of the crime of those who made people go astray, being twofold, their burden too will become twofold, one: that of being astray and two: that of making others go astray.
 ## Personal Reflections
 
 

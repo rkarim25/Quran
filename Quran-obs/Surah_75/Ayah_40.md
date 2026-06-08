@@ -188,6 +188,17 @@ that He has the power to do it"'. The same Hadith narrative states that
 
 when a person recites Surah Tin and reaches the verse اَلَيْسَ اللّٰهُ بِاَحْكَمِ الْحٰكِمِيْنَ 'Is Allah not the Greatest Ruler of all the rulers? [ 95:8] ', he should utter the same words. The same Hadith states that when a person recites Surah Al-Mursalat and reaches the verse U ;'Now, in which discourse, after this, will they believe? [ 77:50] ', he should say فَبِاَيِّ حَدِيْثٍۢ بَعْدَهٗ يُؤْمِنُوْنَ 'I believe in Allah'
 
+## AI Translation
+
+Is such a Creator unable to bring the dead back to life?
+
+## AI Tafsir
+
+**What this ayah teaches:** This means, 'you deserve to strut like this while you have disbelieved in your Creator and Maker.' This is what is commonly said in this type of situation in order to mock and intimidate (someone).
+
+**Classical tafsir:** Ibn Kathir notes: This means, 'you deserve to strut like this while you have disbelieved in your Creator and Maker.' This is what is commonly said in this type of situation in order to mock and intimidate (someone).
+
+**From the Sunnah:** this to Abu Jahl, then Allah, the Mighty and Sublime, revealed this Ayah.'
 ## Personal Reflections
 
 

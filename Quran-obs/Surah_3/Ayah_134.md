@@ -330,6 +330,17 @@ The moral grandeur of the Holy Prophet, may the peace and blessings of Allah be 
 
 There is an apt incident in the life of the great Imam Abu Hanifah (رح) . Someone accosted him in a busy market place and heaped all sorts of insults and invectives on him. The great Imam controlled his anger and said nothing to him. He went home, took out a considerable quantity of gold and silver coins, put them in a gift-wrapped tray and went out to the home of his confronter. He knocked at his door. When this person came out, he presented this tray full of coins before him saying: 'Today, you did something very good to me. You gave me (something) of your good deeds (that you had done). It is in gratitude of this great favour of yours that I am presenting this gift to you.' The Imam's unusual conduct naturally affected the man. He repented and got rid of his bad habit forever. After asking for Imam's forgiveness, he entered into his circle as a disciple and finally became a great scholar.
 
+## AI Translation
+
+Those who donate in prosperity and adversity, control their anger, and pardon others. And Allah loves the good-doers.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Encouragment to Do Good for which Paradise is the Result Allah encourages His servants to perform righteous deeds and to rush to accomplish the acts of obedience.
+
+**Classical tafsir:** Ibn Kathir notes: Allah also commands His servants to have Taqwa of Him so that they may achieve success in this life and the Hereafter.
+
+**From the Sunnah:** a man came to the Messenger of Allah ﷺ and asked him, about Allah's statement, This Hadith was recorded by Imam Ahmad, its chain of narration is good, it does not contain any disparraged narrators, and the meaning is good. (Musnad Ahmad)
 ## Personal Reflections
 
 

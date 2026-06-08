@@ -175,6 +175,17 @@ Salam Greetings : Blessed Legacy of the Holy Prophet ﷺ
 
 After having gone through the description and definition of the people of A` raf, we can now take up the subject of the verse itself which says that the people of A` raf will call out the people of Paradise and say: " سَلَامُ علیکم '' (Salamun Alaiykum). This word of greeting is also used in our present world when we meet each other. This is offered as a gift, a mark of respect and grace felt for the person so greeted. This is Masnun, a way of Sunnah as practiced and recommended to his community by the Holy Prophet ﷺ . This is also said to the dead while visiting their graves. Then, it will also be the form of greeting on the plain of Resurrection, and in Paradise as well. But, a closer look at the verses of the Qur'an and the narrations of Hadith tells us that saying: اَلسلامُ عَلَیکُم (As-Salamu ` Alaiykum) is Masnun as long as we live in this world. Then, after having passed away from this mortal world, what is Masnun is saying: " سَلَامٌ عَلَيْكُمْ " (Salamun ` Alaiykum) - without the letters Alif and Lam at the beginning of Sal-am. The words to be said at the time of visiting graves as mentioned in the Qur'an also appear in this form, that is: سَلَامٌ عَلَيْكُم بِمَا صَبَرْ‌تُمْ ۚ فَنِعْمَ عُقْبَى الدَّارِ‌ ﴿24﴾: Peace on you [ Salamun Alaiykum ] for that you observed patience. Then, fair is the ultimate abode - 13:24). And when the angels will receive the people of Paradise, this word appears in the same form there too: سَلَامٌ عَلَيْكُمْ طِبْتُمْ فَادْخُلُوهَا خَالِدِينَ (Salamun Alaiykum [ Peace on you ], you have done well. So, enter in it to live forever - 39:73). And here too, the people of A` raf will greet the people of Paradise with the same words: سَلَامٌ عَلَيْكُم (Salamun Alaiykum).
 
+## AI Translation
+
+There will be a barrier between Paradise and Hell. And on the heights will be people who will recognize both by their appearance. They will call out to the residents of Paradise, “Peace be upon you!” They will have not yet entered Paradise, but eagerly hope to.
+
+## AI Tafsir
+
+**What this ayah teaches:** As a corollary of the dialogue between those in Paradise and Hell, there is something else pointed to in this verse - that there will be some people who had their deliverance from Hell but had not yet found entry into Paradise, though they did hope that they would.
+
+**Classical tafsir:** Ibn Kathir notes: Place us not with the people who are wrongdoers.") Ad-Dahhak reported that Ibn 'Abbas said, "When the people of Al-A'raf look at the people of the Fire and recognize them, they will supplicate, 'O Lord! The top portion of the wall is known as Al-A` raf because it is the plural form of ` Urf and ` Urf refers to the top portion of everything as it is distinct and recognizable from a distance.
+
+**From the Sunnah:** Paradise, and their good deeds qualified them to avoid the Fire.
 ## Personal Reflections
 
 

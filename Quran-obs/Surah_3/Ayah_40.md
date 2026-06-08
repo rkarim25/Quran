@@ -179,6 +179,15 @@ Commentary
 
 We have already seen that Sayyidna Zakariyya (علیہ السلام) believed in the absolute power of Allah and had seen its manifestation repeatedly and that he had himself made the prayer and knew of its acceptance as well, what then, did he mean by asking: 'how shall I have a boy?' The truth of the matter is that the question asked by him was not be-cause of any doubt in the absolute power of Allah. Quite contrary to this, the purpose of the question was to find out the state in which this was to happen: whether the present extreme old age of both of them would remain just as it was, or would that state be changed. The eloquent reply given in كَذَٰلِكَ اللَّـهُ يَفْعَلُ مَا يَشَاءُ (That is how Allah does what He wills) makes it clear that they were to remain at the same age and that they would have an offspring in that very state. This resolves any doubt that may be entertained at this point. (Bayn al-Qur'n)
 
+## AI Translation
+
+Zachariah exclaimed, “My Rabb! How can I have a son when I am very old and my wife is barren?” He replied, “So will it be. Allah does what He wills.”
+
+## AI Tafsir
+
+**What this ayah teaches:** How can I have a son when I am very old, and my wife is barren?" (Allah) said: "Thus Allah does what He wills.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, Ath-Thawri and Ad-Dahhak said that Sayyidan means, "The noble, wise and pious man." Sa'id bin Al-Musayyib said that Sayyid is the scholar and Faqih. 'Ikrimah said that it refers to a person who is not overcome by anger, while Ibn Zayd said that it refers to the noble man.
 ## Personal Reflections
 
 

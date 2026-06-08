@@ -120,6 +120,15 @@ Here خُلِقَ الْإِنسَانُ مِنْ عَجَلٍ (Man is made of h
 
 These miracles also occurred during the battle of Badr (غزوہ بدر) when the Muslims who were considered weak and worthy of contempt gained a great victory over their enemies.
 
+## AI Translation
+
+In fact, the Hour will take them by surprise, leaving them stunned. So they will not be able to avert it, nor will it be delayed from them.
+
+## AI Tafsir
+
+**What this ayah teaches:** The word is used in situations when one desires things to happen before their time, and this trait is bad by its very nature. The Idolators seek to hasten on the Punishment Allah also tells us how the idolators seek to hasten punishment upon themselves, out of denial, rejection, disbelief, stubbornness and a belief that it will never happen.
+
+**Classical tafsir:** Ibn Kathir notes: The word is used in situations when one desires things to happen before their time, and this trait is bad by its very nature.
 ## Personal Reflections
 
 

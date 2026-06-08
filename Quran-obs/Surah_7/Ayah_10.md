@@ -146,6 +146,17 @@ In the two verses the Tafsir of which you have just read through, sinners were w
 
 In short, Allah Ta` ala has placed all that human beings need on and in this earth which demands that they should be grateful to Him all the time under all conditions. But, human beings are prone to heedlessness. They would not take much time to forget the favours of their Creator and Master - only to return to the same world of things. So, at the end of the verse, it is in a mode of complaint that it was said: قَلِيلًا مَّا تَشْكُرُ‌ونَ (Little you are receptive to advice).
 
+## AI Translation
+
+We have indeed established you on earth and provided you with a means of livelihood. you seldom give any thanks.
+
+## AI Tafsir
+
+**What this ayah teaches:** And surely, We gave you authority on the earth and appointed for you therein livelihoods. Leaving this aside for a moment, the Creator of the Universe does have the power to transform our deeds at some time into a material presence, even give it some shape or form (interesting that people would believe something like this happening in a Speilberg movie, yet squirm at the religious view of things a…
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, scholars of Tafsir say that this shows that weighing in Mahshar (Resurrection) will be twice.
+
+**From the Sunnah:** According to these narrations, a believing Muslim who recites the Kalimah shall always find the scale heavier in his favour, no matter how many sins he carries on him. (Sahih Muslim)
 ## Personal Reflections
 
 

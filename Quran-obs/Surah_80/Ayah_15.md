@@ -146,6 +146,19 @@ This Hadith was reported by the group.
 
 The word safarah, with fathah [=a+a ] on the first two letters, may be the plural of safir which means a 'scribe'. In this case, it would refer to the recording angels, or to the Prophets (علیہم السلام) and those of their aides who write down the revelation. Sayyidna Ibn ` Abbas ؓ and Mujahid (رح) hold this view.
 
+## AI Translation
+
+in the hands of noble scribes,
+
+## AI Tafsir
+
+**Context:** (He frowned and turned away.) "This was revealed about Ibn Umm Maktum, the blind man. He came to the Messenger of Allah ﷺ and began saying, 'Guide me.' At the time the Messenger of Allah ﷺ had a man with him who was one…
+
+**What this ayah teaches:** [ 80:15-16] ) The word safarah, with fathah [=a+a ] on the first two letters, may be the plural of safir which means a 'scribe'. Here it should be noted that it is necessary for one who carries the Qur'an (i.e., the angel) to be following righteousness and guidance.
+
+**Classical tafsir:** Ibn Kathir notes: [ 80:15-16] ) The word safarah, with fathah [=a+a ] on the first two letters, may be the plural of safir which means a 'scribe'.
+
+**From the Sunnah:** He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him.
 ## Personal Reflections
 
 

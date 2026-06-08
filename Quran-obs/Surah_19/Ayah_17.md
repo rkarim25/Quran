@@ -168,6 +168,15 @@ It is not given to a human being to see an angel in its real form, because he wi
 
 Sayyidna Jibra'il (علیہ السلام) appeared before Sayyidah Maryam (علیہا السلام) in the form of a man, so as not to frighten her. When Sayyidah Maryam (علیہا السلام) saw a man near her she became apprehensive of his intentions and said
 
+## AI Translation
+
+screening herself from them. We sent Our angel Gabriel, appearing before her as a perfectly formed man.
+
+## AI Tafsir
+
+**What this ayah teaches:** It is not given to a human being to see an angel in its real form, because he will be overwhelmed by fright at such an experience.
+
+**Classical tafsir:** Ibn Kathir notes: And he will speak to the people, in the cradle and in manhood, and he will be one of the righteous.)[3:45-46] This means that he will call to the worship of his Lord in his cradle and while and adult.
 ## Personal Reflections
 
 

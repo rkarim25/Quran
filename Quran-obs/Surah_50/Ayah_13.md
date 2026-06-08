@@ -96,6 +96,17 @@ Brothers of Lut
 
 It means the community of the Prophet Lut (علیہ السلام) whose story is narrated several times in the Qur'an.
 
+## AI Translation
+
+'Ad, Pharaoh, the kinfolk of Lot,
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, all those who fear suffering the same end should be warned, especially since the latter have denied their Messenger, just as the former denied their Messenger. Fir'aun This is the title of the Egyptian king (The Pharaoh) notorious for his tyranny.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, all those who fear suffering the same end should be warned, especially since the latter have denied their Messenger, just as the former denied their Messenger.
+
+**From the Sunnah:** We mentioned earlier a Hadith collected in the Sahih,
 ## Personal Reflections
 
 

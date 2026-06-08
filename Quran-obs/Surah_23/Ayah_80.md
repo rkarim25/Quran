@@ -146,6 +146,15 @@ Visitation of famine upon Makkah and its deliverance on the prayers of the Holy 
 
 It has been mentioned earlier that the Holy Prophet ﷺ had prayed to Allah to punish the people of Makkah with famine and as a result they were reduced to great straits and were forced to eat dead animals. At last, Abu Sufyan presented himself before the Holy Prophet ﷺ at Madinah and said, "I appeal you in the name of Allah, did you not say that you had been sent by Him as mercy for the whole world?" The Holy Prophet ﷺ replied, "Yes I did, and what I said is true also." Then Abu Sufyan said, "You killed the leaders of your clan with sword at the battle of Badr and now you are killing those who still survive with starvation. Pray to Allah, I beseech you, to remove this curse from over our heads." The Holy Prophet ﷺ then prayed to Allah to forgive the people of Makkah and deliver them from the agony of hunger, and his prayer was granted forthwith. The verse: وَلَقَدْ أَخَذْنَاهُم بِالْعَذَابِ فَمَا اسْتَكَانُوا لِرَ‌بِّهِمْ (23:76) was revealed on this occasion and refers to this incident. (Mazhari)
 
+## AI Translation
+
+And He is the One Who gives life and causes death, and to Him belongs the alternation of the day and night. Will you not then understand?
+
+## AI Tafsir
+
+**What this ayah teaches:** Little thanks you give (78)And it is He Who has created you on the earth, and to Him you shall be gathered back (79)And it is He Who gives life and causes death, and His is the alternation of night and day.
+
+**Classical tafsir:** Ibn Kathir notes: This is only the tales of the ancients!") This means, "It is impossible that we could be brought back.
 ## Personal Reflections
 
 

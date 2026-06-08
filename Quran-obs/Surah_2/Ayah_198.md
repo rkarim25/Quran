@@ -241,6 +241,19 @@ Several causes have been cited for the name, ` Arafat. Out of these, the clearer
 
 Emphasis has been laid in the text on the stay near al-Mash'ar al-Haram المشاعر الحرم on the way back from ` Arafat after having spent the day there and after having departed the plain soon after sunset. Al-Masha’ r Al-Haram الحرم المشاعر is the name of a mountain which is located in Muzdalifah. The word, 'al-mash` ar' المشاعر means 'sign' or 'symbol', and 'haram حرم ' being 'sacred', the name signifies that this mountain is a sacred monument to Islam. The plain adjacent is called Muzdalifah. It is necessary (wajib) to spend the night on this plain and offer the combined prayers of Maghrib and ` Isha' at one time in Muzdalifah. The Qur'anic expression: فَاذْكُرُ‌وا اللَّـهَ عِندَ الْمَشْعَرِ‌ الْحَرَ‌ام ; translated as 'recite the name of Allah near al-Mash'ar al-Haram' certainly includes all kinds of the remembrances of Allah, but here it particularly means the offering of two prayers at one time, that is, offering Maghrib with ` Isha'. This is the special act of ` ibadah peculiar to the plain of Muzdalifah. Perhaps, the sentence that follows: وَاذْكُرُ‌وهُ كَمَا هَدَاكُمْ (recite his name as He has guided you) is indicative of this aspect. It is said that one should remember Allah and recite His name in the manner He has taught without adulterating it with personal opinions because personal deduction would have demanded that the Salah Maghrib be offered at the time set for it and the Salah of ` Isha' at its own time. But, on that day, Allah Almighty favours that the Salah of Maghrib be delayed and offered along with ` Isha'. From the Qur'anic statement cited above, recite His name as He has guided you', we see the emergence of yet another basic ruling that man is not independent in worshipping and remembering Allah, that is, he cannot worship Him as he wishes and he cannot remember Him as he chooses. Instead, every ` ibadah and dhikr of Allah demands the observance of special rules of etiquette. These have to be performed as stipulated; doing it otherwise is not permissible. Then, Allah Almighty does not like any substraction or addition, nor any change in its prescribed time or place, even though the change may lead to an increase in the act of worship. It is observed that people tend to add some features in voluntary prayers and acts of charity from their side without having any reason approved by the Shari'ah, and going a step farther, they take it upon themselves as something necessary while Allah and His blessed Messenger did not declare it as necessary, and last but not the least, such people have the audacity to regard those who do not do all that as in error. This verse exposes their false position by saying that such additional forms of worship reflect the practice of Jahiliyyah when the disbelievers had used their personal opinions and choices to concoct forms of worship and had limited the serious act to few customs.
 
+## AI Translation
+
+There is no blame on you in seeking bounty from your Rabb during the journey. When you leave Arafat, remember Allah at the sacred marker and remember Him for guiding you when you were astray.
+
+## AI Tafsir
+
+**Context:** Al-Bukhari reported that Ibn 'Abbas said, "Ukaz, Mijannah and Dhul-Majaz were trading posts during the time of Jahiliyyah.
+
+**What this ayah teaches:** There is no sin on you if you seek the bounty of your Lord (during pilgrimage by trading).
+
+**Classical tafsir:** Ibn Kathir notes: Thereafter, it was called 'Arafat." Ibn Al-Mubarak said that 'Ata' said, "It was called 'Arafat because Jibril used to teach Ibrahim the rituals of Hajj.
+
+**From the Sunnah:** he heard Allah's Messenger ﷺ saying: (Musnad Ahmad) The Prophet ﷺ stood at 'Arafat during the Farewell Hajj, after he had offered the Zuhr (noon) prayer, until sunset.
 ## Personal Reflections
 
 

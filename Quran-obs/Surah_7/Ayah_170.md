@@ -172,6 +172,15 @@ There are some points of discussion related to this verse. The term 'Book' most 
 
 The next thing we note in this verse is that out of a large number of doctrines of the Torah the verse has made mention of "establishing 'Salah' only. This is because the Salah is the most significant and purposeful act among the precepts enjoined by Allah. This is, in fact, the most basic and quintessential way of expressing one's faith in, and obedience to, Allah. Offering the Salah regularly makes one capable of being regular in other worships more willingly and with more ease. The Holy Prophet ﷺ has termed the Salah as being the pillar of Islam. The whole edifice of Islam rests on it. Whoever has erected it properly has built the whole structure of his faith on a stronghold. Any one not regular in Salah, is of no worth to Allah, even if he is seen reciting His name all the times and has unusual visions and does extraordinary acts.
 
+## AI Translation
+
+As for those who firmly abide by the Scripture and establish salah—surely We never discount the reward of those acting righteously.
+
+## AI Tafsir
+
+**What this ayah teaches:** Do not you then understand (169)And as to those who hold fast to the Book (act on its teachings) and perform the Salah, certainly We shall never waste the reward of those who do righteous deeds .
+
+**Classical tafsir:** Ibn Kathir notes: The term 'Book' most probably refers to the Torah.
 ## Personal Reflections
 
 

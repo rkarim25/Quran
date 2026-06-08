@@ -142,6 +142,15 @@ Prophet Hud said, do not wonder because Allah sent a Messenger to you from among
 
 (2)-In the second verse (66), it was said: قَالَ الْمَلَأُ الَّذِينَ كَفَرُ‌وا مِن قَوْمِهِ إِنَّا لَنَرَ‌اكَ فِي سَفَاهَةٍ وَإِنَّا لَنَظُنُّكَ مِنَ الْكَاذِبِينَ ﴿66﴾ (Said the chiefs of his people who disbelieved, "Indeed, We see you in foolishness, and we certainly believe you to be one of the liars." This stance taken in opposition here resembles the one taken by the people of Sayyidna Nuh (علیہ السلام) . The only difference is that of some words.
 
+## AI Translation
+
+The disbelieving chiefs of his people responded, “We surely see you as a fool, and we certainly think you are a liar.”
+
+## AI Tafsir
+
+**What this ayah teaches:** By Allah, you described it as if you have seen it before." 'Ali said, 'I have not seen it, but it was described to me." The man asked, "What about it, O Commander of the faithful?" 'Ali said, "There is the grave of Hud, peace be upon him, in its vicinity." Ibn Jarir recorded this statement, which gives the benefit of indicating that 'Ad used to live in Yemen, since Prophet Hud…
+
+**Classical tafsir:** Ibn Kathir notes: So remember the graces (bestowed upon you) from Allah so that you may be successful.
 ## Personal Reflections
 
 

@@ -75,6 +75,17 @@ Allah's statement,
 
 The last four verses bring out the miserable plight of the hypocrites with the help of two extended similes. The choice of two examples is meant to divide the hypocrites into two kinds of men. On the one hand were those in whom disbelief had taken deep roots, so that they had little inclination towards Islam, but pretended to be Muslims for worldly motives - the Holy Qur'an compares them to the man who, having found light, again loses it, and is left in darkness. On the other hand were those who did recognize the truth of Islam, and sometimes wished to be genuine Muslims, but worldly interests would not allow them to do so, and they remained in a perpetual state of hesitation and doubt - they have been likened to the men caught in a thunderstorm who move forward a step or two when there is a flash of lightning, but, when it is over, again get stuck. In the course of these parables, the hypocrites have also been warned that they are not beyond the power of Allah, and that He can, as and when He likes, take away their sight and hearing, and even destroy them.
 
+## AI Translation
+
+Deaf, dumb, and blind — they will not return to the right path.
+
+## AI Tafsir
+
+**What this ayah teaches:** Further, this person could not hear or speak and became so blind that even if there were light, he would not be able to see. This is why he cannot return to the state that he was in before this happened to him.
+
+**Classical tafsir:** Ibn Kathir notes: This parable indicates that the hypocrites first believed, then disbelieved, just as Allah stated in other parts of the Qur'an.
+
+**From the Sunnah:** On the one hand were those in whom disbelief had taken deep roots, so that they had little inclination towards Islam, but pretended to be Muslims for worldly motives - the Holy Qur'an compares them to the man who, having found light, again loses it, and is lef…
 ## Personal Reflections
 
 

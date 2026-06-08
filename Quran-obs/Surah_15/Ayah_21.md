@@ -146,6 +146,15 @@ This tells us that it was also within the power of Allah Ta’ ala that He would
 
 And this expression: مِن كُلِّ شَيْءٍ مَّوْزُونٍ (everything in balance) could also be taken in the sense that Allah Ta’ ala has created everything that grows in a suitable and proportionate manner which gives it beauty and attraction. Trees are different, so are their trunks, branches, leaves, flowers and fruits. Different are their sizes, shapes, colours and tastes. at one readily sees is their happy balance and delightful looks. Everyone enjoys having them around. But, a full comprehension of the wisdom which has gone into their making is not possible for any human being.
 
+## AI Translation
+
+There is not any means of sustenance whose reserves We do not hold, only bringing it forth in precise measure.
+
+## AI Tafsir
+
+**What this ayah teaches:** And there is not a thing, but the supplies for it are with Us, and We do not send it down but in a known measure (21)And We send the winds fertilizing, then We cause the water to descend from the sky, and We give it to you to drink, and it is not you who are the owners of its supply (22)And certainly We!
+
+**Classical tafsir:** Ibn Kathir notes: But, this situation could have turned into a punishment for human beings, therefore, these were provided in a particular measure and balance so that their worth and value remains actively recognized, and that they are not left over only to go to waste either.
 ## Personal Reflections
 
 

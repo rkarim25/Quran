@@ -69,6 +69,15 @@ Allah tells us what the end of the disbelievers will be on the Day of Resurrecti
 
 In verse 59, it was said: وَامْتَازُوا الْيَوْمَ أَيُّهَا الْمُجْرِ‌مُونَ (And get apart (from the believers) today 0 the guilty ones.- 36:59) On the plains of the Resurrection, initially when people rise from their graves, they will be scattered all mixed up as said in the Qur'an: كَأَنَّهُمْ جَرَ‌ادٌ مُّنتَشِرٌ‌- (kaannahum jaradum-muntashir: as if they are scattered locusts - Al-Qamar, 54:7). But, later on, group by group, they will be separated in terms of their deeds - disbelievers at one place and the believers, at another, and sinners at one place and the righteous and the accepted, at another - as it has been stated elsewhere: وَإِذَا النُّفُوسُ زُوِّجَتْ (And when the persons will be divided into pairs- at-Takwir, 81:7) In the said verse, this same distinction to be made has been described.
 
+## AI Translation
+
+Then the deniers will be told, "Step away from the believers this Day, O wicked ones!
+
+## AI Tafsir
+
+**What this ayah teaches:** The Isolation of the those who reject the truth and Their Rebuke on the Day of Resurrection Allah tells us what the end of the those who reject the truth will be on the Day of Resurrection, when He commands them to get apart from the believers, i.e., to stand apart from the believers.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

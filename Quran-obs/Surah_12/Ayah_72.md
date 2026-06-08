@@ -103,6 +103,17 @@ Therefore, the correct answer to these questions is what has been given by al-Qu
 
 In this verse, Allah Ta’ ala has very clearly attributed this excuse and plan to Himself. So, when all these things took shape as Divinely commanded, calling them impermissible becomes meaningless. They would be like the incident of the dismantling of the boat and the killing of the boy in the event relating to Sayyidna Musa and Al-Khadir (علیہما السلام) . Obviously, these were sins, therefore, Sayyidna Musa (علیہ السلام) registered his disapproval of them. But, al-Khadir was doing all this with Divine assent and permission under particularly expedient considerations, therefore, he was not committing any sin.
 
+## AI Translation
+
+The herald along with the guards replied, “We have lost the King’s measuring cup. And whoever brings it will be awarded a camel-load of grain. I guarantee it.”
+
+## AI Tafsir
+
+**What this ayah teaches:** The other question which arises here is far more important because it involves things like accusing innocent brothers of theft and concealing something in their baggage secretly to cause them disgrace later.
+
+**Classical tafsir:** Ibn Kathir notes: Shu'bah said that Abu Bishr narrated that Sa'id bin Jubayr said that Ibn 'Abbas said that the king's bowl was made from silver and he used it to drink with.
+
+**From the Sunnah:** Abu Bishr narrated that Sa'id bin Jubayr said that Ibn 'Abbas said that the king's bowl was made from silver and he used it to drink with.
 ## Personal Reflections
 
 

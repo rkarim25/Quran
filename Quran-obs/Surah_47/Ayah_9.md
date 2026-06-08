@@ -184,6 +184,19 @@ Allah then says:
 
 Abu Hurayrah ؓ reports that the Messenger of Allah ﷺ said: "By Him who sent me with the religion of Truth! As you are closely familiar with your wives and homes in this world, so you will know your abode and your wives of Paradise - rather even better. Some reports of Hadith tell us that an angel will be appointed for every single inmate of Paradise who will introduce them to their abode and wives in Paradise. Allah knows best.
 
+## AI Translation
+
+That is because they hate what Allah has revealed, so He has made their deeds fruitless.
+
+## AI Tafsir
+
+**Context:** (tighten their bonds.) 'This is referring to the prisoners of war whom you have captured. Later on, after the war ends and the conflict has ceased, you have a choice in regard to the captives: You may either act gracious…
+
+**What this ayah teaches:** If you support (in the cause of) Allah, He will support you, and make your foothold firm (7)But as for those who disbelieve, misery awaits them, and (Allah) will make their deeds vain (8)That is because they hate that which Allah has sent down; so He has made their deeds fruitless .
+
+**Classical tafsir:** Ibn Kathir notes: Misery awaits him, and degeneracy; and if he is pricked by a thorn, may he not find anyone to pull it for him.) This means may Allah not cure him.
+
+**From the Sunnah:** And goodness is tied around the horses' foreheads till the Day of Resurrection.) An-Nasa'i also recorded this narration.
 ## Personal Reflections
 
 

@@ -128,6 +128,17 @@ but if the water seeps into the boat, it sinks it."
 
 Likewise, as long as the wealth floats around the boat of heart, it would be useful; but when it seeps into the heart, it will destroy it. Towards the conclusion of the Surah a warning has been sounded against these two evil qualities of man for which he will be punished in the Hereafter.
 
+## AI Translation
+
+Truly humanity is intense in love of wealth—
+
+## AI Tafsir
+
+**What this ayah teaches:** The evil of ingratitude is quite obvious and needs no elaboration, but the evil of man's violent love for wealth is not that obvious, and needs some elaboration.
+
+**Classical tafsir:** Ibn Kathir notes: Idiomatically, the word khair, in Arabic, means 'wealth' implying that 'wealth' is an embodiment of goodness and benefit.
+
+**From the Sunnah:** This is just as the Messenger of Allah ﷺ used to perform raids in the early morning.
 ## Personal Reflections
 
 

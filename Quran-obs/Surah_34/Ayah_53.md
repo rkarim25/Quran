@@ -126,6 +126,17 @@ This is the end of the Tafsir of Surah Saba'. Allah, may He be glorified and exa
 
 The word: قَذف (qadhf) in verse 53: وَقَدْ كَفَرُ‌وا بِهِ مِن قَبْلُ وَيَقْذِفُونَ بِالْغَيْبِ مِن مَّكَانٍ بَعِيدٍ (while they had rejected it before, and used to make conjectures from a place (so) far off) means to hit something by throwing. In the Arab idiom, anyone talking out of his hat having no proof for it is referred to by the expressions: رجم بالغیب (rajm bil-ghayb) and: قذف بالغیب (qadhfbil-ghayb), that is, this person shoots arrows in the dark which has no aim or target. At this place, the expression: مِن مَّكَانٍ بَعِيدٍ (from a place far away) means 'what they say is far from their hearts, that is, they do not believe in it by heart.'
 
+## AI Translation
+
+They had already rejected it before, guessing blindly from an equally distant place.
+
+## AI Tafsir
+
+**What this ayah teaches:** If they had believed in this world, that would have been good for them, but now they have entered the Hereafter, there is no way that their faith can be accepted, just as there is no way a person can get a thing if he is far away from it.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** It is also the opinion of Al-Bukhari and the Group. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

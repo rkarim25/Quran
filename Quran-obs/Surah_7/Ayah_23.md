@@ -88,6 +88,17 @@ The story of Sayyidna 'Adam (علیہ السلام) and Iblis mentioned in the p
 
 Detailed comments have been given in the Tafsir of that Surah. If needed, please see Ma‘ariful-Quran, English Translation, Volume I, Pages 170-187.
 
+## AI Translation
+
+They replied, “Our Rabb! We have wronged ourselves. If You do not forgive us and have mercy on us, we will certainly be losers.”
+
+## AI Tafsir
+
+**What this ayah teaches:** If You forgive us not, and bestow not upon us Your mercy, we shall certainly be of the losers.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Paradise, but a tree in Paradise took him by the head.
 ## Personal Reflections
 
 

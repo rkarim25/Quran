@@ -144,6 +144,19 @@ In the Holy Qur'an Surah Maryam has been placed immediately after Surah Al-Kahf,
 
 كهيعص are letters known in Arabic as; حُرُوفِ مُقَطَّعَۃ whose meanings, like are known only to Allah Ta` ala and people should not even attempt to probe their meanings.
 
+## AI Translation
+
+This is a reminder of your Rabb's mercy to His servant Zachariah—
+
+## AI Tafsir
+
+**Context:** The reason for his fear was that he was afraid that the generation that would succeed him would be a wicked generation.
+
+**What this ayah teaches:** A reminder of the mercy of your Lord to His servant Zakariyya.)(3.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, if this was not referring to a specific type of inheritance, then Allah would not have mentioned it.
+
+**From the Sunnah:** about Zakariyya] that He was a carpenter who used to eat from what he earned with his own hand through carpentry (Sahih al-Bukhari) All of this is supported and affirmed by what is in the authentic Hadith: (authentic hadith)
 ## Personal Reflections
 
 

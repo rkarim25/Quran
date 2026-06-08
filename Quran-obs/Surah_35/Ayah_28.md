@@ -164,6 +164,15 @@ The clarifications appearing above also help remove the doubt about many ` Ulama
 
 However, at times, awe and fear of Allah are rooted in one's creed and reason because of which one adheres to the injunctions of the Shari’ ah as a matter of obligation. Then, there are occasions when this awe and fear of Allah become the very state of one's existence and rise to the degree of a firmly ingrained asset whereby the readiness to follow the Shari’ ah becomes a natural reflex. The first degree of the awe and fear of Allah is mandatory and, for an ` Alim necessary. The second degree is certainly superior and sublime, but not necessary. (Bayan ul-Qur an)
 
+## AI Translation
+
+and people, living beings, and cattle are of various colours too. Of all Allah's servants, only the knowledgeable are truly in awe of Him. Allah is Almighty, All-Forgiving.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, this sentence obviously means that only the ` Ulama' (the knowing, the learned, the initiated) fear Allah or have the genuine awe of Allah.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ikrimah said, "Al-Gharabib means mountains which are high and black." This was also the view of Abu Malik, 'Ata' Al-Khurasani and Qatadah. Therefore, this sentence obviously means that only the ` Ulama' (the knowing, the learned, the initiated) fear Allah or have the genuine awe of Allah.
 ## Personal Reflections
 
 

@@ -111,6 +111,15 @@ And their hearts shall be hollow.
 
 After the shape of things to come upon them has been stated, the address is to the Holy Prophet ﷺ who has been asked to warn his people of the punishment of that day, the day on which the unjust and the wrong-doing will have no choice but to call their Lord for some more time to return to the world they knew so that they could say yes to the call of prophets and follow them this time and may thereby have their deliverance from this punishment. The answer to their request will come from Allah Ta’ ala wherein it will be said: This is what you are saying now. Is it not that you had been giving sworn statements to the effect that your wealth and power shall never part with you, and that you shall go on living in the world just like that, in comfort and luxury, forever; and is it not that you had rejected the idea that you will live again and that there was a world hereafter?
 
+## AI Translation
+
+rushing forward, heads raised, never blinking, hearts empty.
+
+## AI Tafsir
+
+**What this ayah teaches:** Consider not that Allah is unaware of that which the wrongdoers do, but He gives them respite up to a Day when the eyes will stare in horror (42)(They will be) hastening forward with necks outstretched, their heads raised up (towards the sky), their gaze returning not towards them and their hearts empty .
+
+**Classical tafsir:** Ibn Kathir notes: Do not think because Allah gave them respite and delayed their punishment that He is unaware or ignoring punishing them for what they do.
 ## Personal Reflections
 
 

@@ -108,6 +108,15 @@ Mentioned here is the Divine punishment that descended upon the people who had r
 
 The state of their dying has been expressed through the word: خَامِدُونَ khamidun) by the Qur'an. The words: خَامِدا (khamada) and خُمُود (khumud) are used to mean the extinguishing or dying of fire. The life of the living depends on energy. When this energy is not there, what remains is death. So, 'khamidun' means extinguished, gone extinct, put off.
 
+## AI Translation
+
+Oh pity, such beings! No messenger ever came to them without being mocked.
+
+## AI Tafsir
+
+**What this ayah teaches:** There never came a Messenger to them but they used to mock at him (30)Do they not see how many of the generations We have destroyed before them? Verily, they will not return to them (31)And surely, all – everyone of them will be brought before Us .
+
+**Classical tafsir:** Ibn Kathir notes: And regarding the sending of punishment, it was said that Allah did not have to send an army of angels to seize these people - nor was it the way of Allah to send such an army, because just a single angel of Allah is enough to destroy the greatest, mightiest and the bravest of na…
 ## Personal Reflections
 
 

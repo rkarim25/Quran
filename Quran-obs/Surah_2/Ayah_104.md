@@ -131,6 +131,17 @@ The verse shows that if a perfectly legitimate action on one's part provides roo
 
 In the vocabulary of the Principles of Islamic Jurisprudence, such injunctions are described as سدَ الذرایع : Sadd al-Dhara'i: "removing the means (to error) " and are accepted by all the jurists -- those of the Hanbali school being very particular about them. (Qurtubi)
 
+## AI Translation
+
+O believers — do not say "Ra'ina" in a way that can be twisted; say "Unzurna" and listen attentively. A painful punishment awaits those who reject the truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** And for the those who reject the truth there is a painful torment (104)Neither those who disbelieve among the People of the Scripture (Jews and Christians) nor Al-Mushrikin (the idolaters) like that there should be sent down unto you any good from your Lord.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn Abu Hatim said that it was reported that Abu Al-'Aliyah, Abu Malik, Ar-Rabi' bin Anas, 'Atiyah Al-'Awfi and Qatadah said similarly. When they wanted to say, 'hear us,' they would use the word Ra'ina, which is an insult (in Hebrew, but means 'hear us' in Arabic).
+
+**From the Sunnah:** Also, the Hadiths stated that when they would greet Muslims, they would say, 'As-Samu 'alaykum,' meaning, 'death be to you'. They used to say to the Prophet ﷺ, Ar'ina samak (which is an insult).
 ## Personal Reflections
 
 

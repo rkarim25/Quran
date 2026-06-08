@@ -150,6 +150,15 @@ Therefore, those who rush to obey Allah in this life and are foremost in perform
 
 خَافِضَةٌ رَّ‌افِعَةٌ (It will be abasing [ some ], exalting [ others ]...56:3). The verse means that the 'Inevitable Event' referred to in the previous verse will bring about a great revolution in the lives of men, as is witnessed at the time of revolution of governments. The high and the mighty will be laid low and the despised and down-trodden will be exalted; the poor become rich and the rich become poor. This is how Sayyidna Ibn ` Abbas ؓ interprets this statement. The purpose is to depict the horrors of the Day of Resurrection.
 
+## AI Translation
+
+It will bring some low and raise others high.
+
+## AI Tafsir
+
+**What this ayah teaches:** There is not, for its occurrence, Kadhibah.)(3.
+
+**Classical tafsir:** Ibn Kathir notes: There is not, for its occurrence, Kadhibah.)(3.
 ## Personal Reflections
 
 

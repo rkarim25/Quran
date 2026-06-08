@@ -101,6 +101,17 @@ The name of the city from which Sayyidna Lut (علیہ السلام) was saved a
 
 تَّعْمَلُ الْخَبَائِثَ (21:74) خَبَائِثَ (Khaba'ith) is the plural of خَبِئیثَہ meaning wickedness. Too many wicked things collectively are called Khaba'ith (خَبَائِثَ ). Their most abominable practice in which even the animals do not indulge, was sodomy or homosexuality. It is possible that because of its extreme wicked nature this practice is referred to as خَبَائِثَ that is in plural instead of خَبِئیثَہ in singular, as some commentators have explained. The second explanation is that the people of Sodom also indulged in other bad habits such as drinking, singing, shaving off beard, growing moustaches, wearing silk clothes, stone throwing, whistling etc. (Ruh ul-Ma` ani).
 
+## AI Translation
+
+And We admitted him into Our mercy, for he was truly one of the righteous.
+
+## AI Tafsir
+
+**Context:** And We rescued him and Lut to the land which We have blessed for the nations (71)And We bestowed upon him Ishaq, and Ya'qub Nafilatan.
+
+**What this ayah teaches:** Verily, they were a people given to evil, and were rebellious (74)And We admitted him to Our mercy; truly, he was of the righteous . And We admitted him to Our mercy; truly, he was of the righteous.)
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

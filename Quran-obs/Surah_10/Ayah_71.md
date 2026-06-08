@@ -271,6 +271,17 @@ As for the good news in this world, the Holy Prophet ﷺ said, `(they are) the t
 
 Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. About it, the Holy Prophet ﷺ said: تِلکَ عَاجِلُ بشرَی المؤمِن that is, ` being taken as good and praiseworthy is, for a true Muslim, good news in ready cash.' (Muslim and al-Baghawi)
 
+## AI Translation
+
+Relate to them O Prophet the story of Noah when he said to his people, “O my People! If my presence and my reminders to you of Allah’s signs are unbearable to you, then know that I have put my trust in Allah. So devise a plot along with your associate-gods—and you do not have to be secretive about your plot—then carry it out against me without delay!
+
+## AI Tafsir
+
+**What this ayah teaches:** So devise your plot, you and your partners, and let not your plot be in confusion for you. Let this be a lesson for your people, lest they will be destroyed like them.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** And I have been commanded to be of the Muslims.) I submit to Islam. Cause me to die as a Muslim, and join me with the righteous.)(12:101) Musa said: (Sahih Muslim)
 ## Personal Reflections
 
 

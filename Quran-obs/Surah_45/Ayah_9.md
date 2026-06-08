@@ -132,6 +132,19 @@ Allah explained the type of torment that these people earn on the Day of Return;
 
 وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ ("Woe to every sinful liar... 45:7) " There are several views related to the background of revelation of this verse. Some Traditions relate that the verse was revealed in connection with Nadr Ibn Harith. Others report that it was revealed in connection with Harith Ibn Kaldah, and yet others feel it is about Abu Jahl and his comrades. (Qurtubi). There is no need to refer to a particular person in order to determine the meaning of a Qur'anic verse. The word کُل kull [ every ] refers to every person who bears the characteristics of the three persons who might have been in the background of the revelation of the verse.
 
+## AI Translation
+
+Whenever he learns anything of Our revelations, he mocks them. Such people will suffer a humiliating punishment.
+
+## AI Tafsir
+
+**Context:** وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ ("Woe to every sinful liar... 45:7) " There are several views related to the background of revelation of this verse.
+
+**What this ayah teaches:** So announce to him a painful torment (8)And when he learns something of Our Ayat, he makes them a jest.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, if they do not believe in Allah's Ayat nor abide by them, what speech after Allah and His Ayat will they then believe in?
+
+**From the Sunnah:** In the Sahih, Muslim recorded from 'Abdullah bin 'Umar that the Messenger of Allah ﷺ prohibited traveling with the Qur'an to enemy lands for fear that the Qur'an might be desecrated by the enemy. (Sahih Muslim)
 ## Personal Reflections
 
 

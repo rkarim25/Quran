@@ -74,6 +74,17 @@ Any one engaged in the worship of Allah is receiving the greatest reward of Alla
 
 This also explains the meaning of another Qur'anic verse in which the believers are promised to receive from their Lord their reward. It said جَزَاءً مِّن رَّ‌بِّكَ عَطَاءً "A recompense from your Lord, a gift." Here the reward of the believers has been expressed by two different words جَزَاءً a recompense and Ata which is gift. The word جَزَاءً signifies something offered in return of some service while the word: عَطَاءً ‘Ata is a gift offered without any service or performance. This leads us to the fact that things which we take to be rewards of our performance or attainments are, in fact, the gift from our Lord. For the performance which has drawn this reward was in itself a gift from Allah Almighty who let us perform that particular service.
 
+## AI Translation
+
+Whoever Allah guides is truly guided. And whoever He leaves to stray, they are the losers.
+
+## AI Tafsir
+
+**What this ayah teaches:** Whomsoever Allah guides, he is the guided one, and whomsoever He sends astray, – then those!
+
+**Classical tafsir:** Ibn Kathir notes: This also explains the meaning of another Qur'anic verse in which the believers are promised to receive from their Lord their reward.
+
+**From the Sunnah:** I bear witness that there is no deity worthy of worship except Allah without partners and that Muhammad is His servant and Messenger.) The complete Hadith was collected by Imam Ahmad and the collectors of Sunan and others. (Musnad Ahmad)
 ## Personal Reflections
 
 

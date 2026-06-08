@@ -129,6 +129,15 @@ Allah's saying;
 
 قَالَ قَرِ‌ينُهُ هَـٰذَا مَا لَدَيَّ عَتِيدٌ (And his companion will say, "This is what I have with me, ready (to be presented as his record of deeds)... 50:23]. The word qarin (translated above as 'companion) refers to the recording angel that accompanies man all the time. Earlier we have learnt that there are two angels that record deeds. In the preceding verse they were referred to as Sa'iq and Shahid. The context indicates that, on the Day of Resurrection, the two scribes will be entrusted with two different tasks. One, named as Sa'iq, will drive the people to the gathering place, and the second, named as Shahid will carry the records of deeds and it is this angel who, after reaching the plane of Hashr, will say, هَـٰذَا مَا لَدَيَّ عَتِيدٌ "This is what I have with me, ready (to be presented as his record of deeds)." Ibn Jarir, in his tafsir, states that the word garin comprehends both the angels Sa'iq and Shahid.
 
+## AI Translation
+
+One's companion angel will say: Here is the record ready with me.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Angel will bear Witness; Allah commands that the those who reject the truth be thrown into the Fire Allah the Exalted states that the scribe angel, who is entrusted with recording the deeds of mankind, will testify against him or her about the deeds he or she did on the Day of Resurrection.
+
+**Classical tafsir:** Ibn Kathir notes: The word qarin (translated above as 'companion) refers to the recording angel that accompanies man all the time.
 ## Personal Reflections
 
 

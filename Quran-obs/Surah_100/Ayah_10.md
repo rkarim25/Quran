@@ -130,6 +130,17 @@ Surah Al‘Adiyat
 
 Ends here
 
+## AI Translation
+
+and what is hidden in chests is exposed—
+
+## AI Tafsir
+
+**What this ayah teaches:** Knows he not that when the contents of the graves are poured forth?)(10.
+
+**Classical tafsir:** Ibn Kathir notes: Knows he not that when the contents of the graves are poured forth?)(10.
+
+**From the Sunnah:** This is just as the Messenger of Allah ﷺ used to perform raids in the early morning. These two evil qualities are the essential characteristics of unbelievers, and if they are found in a Muslim [ Allah forbid!], he needs to reflect and be careful. (Sahih Muslim)
 ## Personal Reflections
 
 

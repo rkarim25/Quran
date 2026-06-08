@@ -191,6 +191,17 @@ Imam Ahmad recorded that 'Abdullah bin Mas'ud said, "Allah curses women who prac
 
 [ 1] fai' is a term for the properties left over by the non-Muslims and possessed by a Muslim state without fighting. As opposed to this, ghanimah (booty) is a property taken over by fighting. The properties of Bani Nadir were taken over without fighting, hence the word fai'. That is why we did not translate fai' as 'booty'. (Muhammad Taqi Usmani)
 
+## AI Translation
+
+As for the gains Allah turned over to His Messenger from them—you did not even ride out for them on horse or camel. Allah gives authority to His messengers over whomever He wills. Allah is Most Capable of everything.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Fai' and how it is spent Allah the Exalted explains the regulations for Fai', the booty that the Muslims acquire from the those who reject the truth, without fighting them or using cavalry and camelry in war against them. For instance, the booty collected from Bani An-Nadir was not acquired because of fighting them using horses and camels.
+
+**Classical tafsir:** Ibn Kathir notes: The Fai' and how it is spent Allah the Exalted explains the regulations for Fai', the booty that the Muslims acquire from the those who reject the truth, without fighting them or using cavalry and camelry in war against them.
+
+**From the Sunnah:** Allah the Exalted explains the regulations for Fai', the booty that the Muslims acquire from the those who reject the truth, without fighting them or using cavalry and camelry in war against them.
 ## Personal Reflections
 
 

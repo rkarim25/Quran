@@ -182,6 +182,15 @@ The word: صرح (sarh) in verse 36: وَقَالَ فِرْ‌عَوْنُ يَ
 
 My respected father, Maulana Muhammad Yasin, a dear disciple of Maulana Muhammad Ya` qub, the first principal of the famous Darul-` Uloom of Deoband in India has reported his learned teacher saying, 'For this lofty palace to collapse, it is not necessary that it be hit by some Divine punishment. The fact is that the height of every building depends on the capability of its foundation to bear weight. No matter how deep the foundation is laid, it cannot go deeper than a certain limit. Now, when levels after levels were added to this building, it was inevitable that, once it exceeded the capability of its foundation to bear additional weight, it must collapse.' This provides another proof of the folly of Pharaoh and Haman. Allah knows best.
 
+## AI Translation
+
+O my people, how is it that I invite you to salvation while you invite me to the Fire!
+
+## AI Tafsir
+
+**Context:** (The Fire, they are exposed to it, morning and afternoon). But the question arises: this Ayah was undoubtedly revealed in Makkah, but they use it as evidence to prove that there will be torment in the grave during the pe…
+
+**What this ayah teaches:** How is it that I call you to salvation while you call me to the Fire! It was said, 'how can this report be reconciled with the fact that the Ayah was revealed in Makkah and the Ayah indicates that there will be torment during the period of Al-Barzakh?' The answer is that the Ayah refers to the souls (of Fir'awn and his people) being exposed to the Fire morning and evening; it does not say that the…
 ## Personal Reflections
 
 

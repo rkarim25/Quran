@@ -110,6 +110,17 @@ Thereafter, if Muslims were half as many as their enemy, they were not allowed t
 
 In the second verse (64) as well, by stating the same subject briefly, the Holy Prophet ﷺ has been comforted by telling him that sufficient for him is Allah Ta` ala in the real sense, and the group of believers in the physical sense. So, he should have no fear of an enemy, no matter how big, strong, numerous or well-equipped. Commentators have said that this verse was revealed before actual fighting started in the battle of Badr so that Muslims, small in numbers and virtually unequipped, would not be overawed by the heavy numerical and technical superiority of their adversary.
 
+## AI Translation
+
+O Prophet: Allah is sufficient for you and for the believers who follow you.
+
+## AI Tafsir
+
+**Context:** The Ayah says, one Muslim should endure ten those who reject the truth. Allah abrogated this part later on, but the good news remained.
+
+**What this ayah teaches:** Allah is sufficient for you and for the believers who follow you (64)O Prophet! In the second verse (64) as well, by stating the same subject briefly, the Holy Prophet ﷺ has been comforted by telling him that sufficient for him is Allah Ta` ala in the real sense, and the group of believers in the physical sense.
+
+**Classical tafsir:** Ibn Kathir notes: If there are twenty steadfast persons among you, they will overcome two hundred, and if there be a hundred steadfast persons they will overcome a thousand of those who disbelieve, because they (the those who reject the truth) are people who do not understand (65)Now Allah has lightened your (t…
 ## Personal Reflections
 
 

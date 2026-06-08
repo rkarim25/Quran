@@ -210,6 +210,19 @@ Special Note
 
 As for the weaning period of two years for a child mentioned in the verse, it is in accordance with customary practice. It carries no clarification concerning the injunction relevant to any additional period of suckling the child. A detailed explanation of this issue will, insha'Allah, appear under the commentary on the verse: وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرً‌ا (And his carrying and weaning is (in) thirty months - A1-Ahgaf, 46:15).
 
+## AI Translation
+
+If they press you to associate with Me what you have no knowledge of, do not obey them. Still keep their company in this dunya — this temporary worldly life — with courtesy, and follow the path of those who turn to Me. Then you will all return to Me, and I will inform you of what you used to do.
+
+## AI Tafsir
+
+**Context:** (But if they strive with you to make you join in worship with Me others that of which you have no knowledge, then obey them not;) was revealed concerning me.
+
+**What this ayah teaches:** Unto Me is the final destination (14)But if they strive with you to make you join in worship with Me others that of which you have no knowledge, then obey them not; but behave with them in the world kindly, and follow the path of him who turns to Me in repentance and in obedience.
+
+**Classical tafsir:** Ibn Kathir notes: Allah describes him in the best terms, and states that he granted him wisdom.
+
+**From the Sunnah:** I was a man who honored his mother, but when I became Muslim, she said: 'O Sa'd! (Sahih Muslim)
 ## Personal Reflections
 
 

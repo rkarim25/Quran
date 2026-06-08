@@ -114,6 +114,15 @@ For this reason, another Tafsir that has been reported from Sayyidna Ibn ` Abbas
 
 Immediately next within verse 158 it was said: وَلَقَدْ عَلِمَتِ الْجِنَّةُ إِنَّهُمْ لَمُحْضَرُ‌ونَ 158) ', while the Jinns already know that they are bound to appear (before Him).' Here, 'they' could be referring to the kinds of Mushriks who took Jinns and Shaitans as equals of God, meaning thereby that the Jinns know that these Mushriks will appear before Allah Ta’ ala for being punished, and could also refer to the Jinns themselves. In this situation, the sense of the verse would come to be that 'the Shaitans and Jinns you have taken to be associated with Allah in one or the other form already know very well that they are going to face a terrible fate in the Hereafter. For example, Iblis is perfectly aware of his evil end. Now, someone who himself believes that he has to taste his punishment could hardly be the equal of God and taking him to be so would certainly be a gross lack of good sense.
 
+## AI Translation
+
+We are indeed the ones lined up in ranks for Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** So, verily you and those whom you worshi (161)Cannot lead astray (162)Except those who are predestined to burn in Hell (163)And there is not one of us (angels) but has his known place (164)And verily, we (angels), we stand in rows (165)And verily, we (angels) indeed are those who glorify (166)And indeed they used to say (167)"If we had a reminder as had the men of old, (168)"We would have indeed b…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

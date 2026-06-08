@@ -184,6 +184,17 @@ The first thing to watch around offices charged with responsibility is the chara
 
 Right from here we also learn that in order to place someone in a position of authority, such as an official of the government, or a judge of the judiciary (or someone in any other role of public or private responsibility), the first thing one has to look for is whether or not this person has the fear of Allah in his heart, the concern for 'Akhirah, the life to come on his mind and, of course, the state of his morals and character. If it is realized that he has nothing of the sort as the fear of Allah in his heart, instead, his desiring self sits there as the monarch of all it surveys, then, no matter how high his degrees in education, and no matter how superb his expertise and experience in the field, he is not deserving of any high office of responsibility in the sight of Islam.
 
+## AI Translation
+
+We told him: "O Dawud, We have made you an authority in the land. Judge between people with truth. Do not follow your nafs—the inner self that pulls toward desire—or it will lead you astray from Allah's way. Those who stray from Allah's way face severe punishment for neglecting the Day of Reckoning."
+
+## AI Tafsir
+
+**What this ayah teaches:** And to accomplish this mission, abstention from following personal desires is a binding condition.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, those who wander astray from the path of Allah (shall) have a severe torment, because they forgot the Day of Reckoni .
+
+**From the Sunnah:** Therefore, the ruler of Muslims, the consultative body or assembly might explain or codify Islamic law as such, but the reality is that they are not lawgivers, instead, are introducers of the law of Allah. Therefore, no doubt, this much has been made clear here that the essential function of the government is to establish truth, but along with it, its administrative details have been left in the safe hands of sound thinking Muslims of every period.
 ## Personal Reflections
 
 

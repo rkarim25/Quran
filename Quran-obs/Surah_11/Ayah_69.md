@@ -207,6 +207,15 @@ This tells us a few things:
 
 3. Receiving guests and offering hospitality to them is a part of the essential etiquette of Islam, in fact, a hallmark of high morals. This is the blessed habit of prophets and the righteous. Is it necessary (wajib) to entertain guests? Or, is it not? ` Ulama' have difference of opinion in this matter. According to the majority of them, it is a sunnah, and desirable, but not wajib (necessary, obligatory). Some of them say that it is wajib on village people that they should offer hospitality to a person who stays in their village because a stranger has no arrangement for his meals there. Since such arrangements are possible through a hotel in cities, therefore, it is not wajib on those who live in cities. Al-Qurtubi has reported all these different views in his Tafsir.
 
+## AI Translation
+
+And surely Our messenger-angels came to Abraham with good news of a son. They greeted him with, “Peace!” And he replied, “Peace be upon you!” Then it was not long before he brought them a fat, roasted calf.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, He (Allah) is All-Praiseworthy, All-Glorious.
+
+**Classical tafsir:** Ibn Kathir notes: Surely, He (Allah) is All-Praiseworthy, All-Glorious.) This means that He is the Most Praiseworthy in all of His actions and statements.
 ## Personal Reflections
 
 

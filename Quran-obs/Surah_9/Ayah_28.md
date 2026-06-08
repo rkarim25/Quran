@@ -262,6 +262,19 @@ As for the problem of the impurity of disbelievers and the problem of keeping ma
 
 When, according to this verse, the entry of Kafirs and Mushriks into the Haram was banned, Muslims had to face an economic problem. Makkah had no produce of its own. Visitors from far and near brought the needed supplies with them. Thus, during the Hajj season, the people of Makkah found what they needed available locally. Now that their entry was banned, the Makkans worried, how things would work for them. In response, they were told in the Qur'an: وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ اللَّـهُ مِن فَضْلِهِ إِن شَاءَ (And if you apprehend poverty, then, Allah shall, if He wills, make you self-sufficient with His grace). In other words, the sense is: if you foresee any economic hardships, then, you must realize that the economic support of the entire creation rests with Allah Almighty. If He wills, He shall make you self-sufficient, free from any dependence on all those kafirs. Incidentally, the restriction of ` if He wills' placed here does not mean that there is any doubt or hesitation in carrying out the Divine will. On the contrary, this is to point out that those who have their sights trained on nothing but material causes find it very difficult to understand and accept a situation like this. Here, the ground reality was that these non-Muslims were the apparent source of all economic support. Putting a ban on the entry of disbelievers amounted to nothing but a termination of the means of livelihood for believers. So, this restriction was placed to remove any such doubts and apprehensions. The strong message given to them was that Allah Ta` ala does not depend on material causes as such. When He intends to do something, all related causes start falling in line with His will. So, His will is what matters - the rest follows. Hence, اِن شآَء (in sha' ) at the end of the sentence serves as a wise indicator of this truth.
 
+## AI Translation
+
+O you who have iman! Indeed, the polytheists are impure, so they should not approach the Sacred Mosque after this year. If you fear poverty, Allah will enrich you out of His bounty, if He wills. Surely, Allah is All-Knowing, All-Wise.
+
+## AI Tafsir
+
+**Context:** Allah commands His believing servants, who are pure in religion and person, to expel the idolators who are filthy in the religious sense, from Al-Masjid Al-Haram.
+
+**What this ayah teaches:** Secondly, if this is particular to the Sacred Mosque, then, is the entry of a Mushrik in the Sacred Mosque banned in an absolute sense?
+
+**Classical tafsir:** Ibn Kathir notes: And if ` najasah' in this verse means the spiritual filthiness of kufr and shirk, then, it is possible that the injunction which covers it may be different from the injunction which covers outward filth.
+
+**From the Sunnah:** The Messenger of Allah ﷺ sent 'Ali in the company of Abu Bakr that year to publicize to the idolators that no Mushrik will be allowed to perform Hajj after that year, nor a naked person allowed to perform Tawaf around the House.
 ## Personal Reflections
 
 

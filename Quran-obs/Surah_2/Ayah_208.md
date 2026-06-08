@@ -150,6 +150,17 @@ The verse holds out a stern warning to those who have got Islam all tied up with
 
 As regards the possibility of 'Allah Almighty and the angels coming upon them in canopies of clouds,' this will be on Doomsday. The correct position is that such coming of Allah Almighty belongs to the Mutashabihat متاشابھا ات ، statements of hidden meaning, about which there is a standard policy practiced by the majority of the blessed Companions, the Tabi` in تابعین ، their successors, and the revered elders of the Muslim ummah, that is, one must believe in its truth and avoid worrying about as to how this would happen because it is beyond human reason to find out the reality and the nature, the whats and the hows of the 'Being' and the Attributes of Allah Almighty, and this too is included therein.
 
+## AI Translation
+
+O believers — enter into submission wholeheartedly and do not follow Satan's footsteps. He is your open enemy.
+
+## AI Tafsir
+
+**What this ayah teaches:** Entering Islam in its Entirety is obligated Allah commands His servants who believe in Him and have faith in His Messenger ﷺ to implement all of Islam's legislation and law, to adhere to all of its commandments, as much as they can, and to refrain from all of its prohibitions.
+
+**Classical tafsir:** Ibn Kathir notes: Enter Silm perfectly) refers to the believers among the People of the Scripture.
+
+**From the Sunnah:** The gist of the two approaches given above is that no Muslim shall be deserving of calling himself a Muslim unless he accepts all Islamic injunctions truly and sincerely from the deep recesses of his heart, irrespective of the department of life they belong to… (Sahih Muslim) The background of the verse's revelation mentioned earlier in the introductory remarks also shows that one must keep nothing but the teachings of Islam in sight, practice it
 ## Personal Reflections
 
 

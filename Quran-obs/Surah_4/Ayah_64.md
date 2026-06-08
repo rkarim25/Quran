@@ -189,6 +189,19 @@ Although, this verse (64) was revealed in the background of a particular inciden
 
 Sayyidna Ali ؓ said: "Three days after we all had finished with the burial of the Messenger of Allah ﷺ a villager came and fell down close to the blessed grave. Weeping bitterly, he referred to this particular verse of the Qur'an and addressing himself to the blessed grave, he said: 'Allah Almighty has promised in this verse that a sinner, if he presented himself before the Rasul of Allah, and the Rasul elects to pray for his forgiveness, then he will be forgiven. Therefore, here I am, presenting myself before you so that I may be blessed with your prayer for my forgiveness.' People personally present there at that time say that, in response to the pleading of the villager, a voice coming out from the sanctified mausoleum rang around with the words: قَد غُفِرَ لَکَ meaning: You have been forgiven. (al-Bahr al-Muhit)
 
+## AI Translation
+
+We only sent messengers to be obeyed by Allah’s Will. If only those came to you —after wronging themselves—seeking Allah’s forgiveness and the Messenger prayed for their forgiveness, they would have certainly found Allah ever Accepting of Repentance, the Rahim.
+
+## AI Tafsir
+
+**Context:** So, Allah's Messenger ﷺ gave Az-Zubayr his full right when the Ansari made him angry. Before that, Allah's Messenger ﷺ had given a generous judgment, beneficial for Az-Zubayr and the Ansari.
+
+**What this ayah teaches:** Thereafter, whatever the Messenger ﷺ commands, is the plain truth that must be submitted to inwardly and outwardly.
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah indicates that the Prophets are only obeyed by whomever Allah directs to obedience.
+
+**From the Sunnah:** The Ansari became angry and said, 'O Allah's Messenger! So, Allah's Messenger ﷺ gave Az-Zubayr his full right when the Ansari made him angry.
 ## Personal Reflections
 
 

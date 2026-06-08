@@ -173,6 +173,17 @@ Is it Possible to Observe the Heaven?
 
 أَفَلَمْ يَنظُرُ‌وا إِلَى السَّمَاءِ (Did they not, then, look to the sky above them? - 50:6). Apparently this sentence indicates that it is possible to see the sky, while the general impression is that the blue colour that we see above is the colour of the atmosphere, and not that of the heaven. However, there is no proof for non-existence of the sky, nor of the presumption that the colour of the heaven is not blue. Besides, the word nazar (seeing) used in the verse could mean perceiving through reason, that is, thinking, pondering etc. (Bayan-ul-Qur’ an)
 
+## AI Translation
+
+When we are dead and turned to dust—will we be brought back? Such a return seems impossible to them.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, Surah Qaf (chapter 50) is the first of the Mufassal, just as we stated, and all praise is due to Allah and all favors are from Him. He did so because this Surah contains news of the beginning of creation, Resurrection, the Return, Standing (before Allah), the Reckoning, Paradise, the Fire, Allah's reward and punishment, lessons of encouragement, and lessons of discouragement.
+
+**Classical tafsir:** Ibn Kathir notes: Some common people say that the Mufassal starts with Surah 'Amma An-Naba, (chapter 78), however, this is not true because none of the respected scholars ever supported this opinion.
+
+**From the Sunnah:** Paradise, the Fire, Allah's reward and punishment, lessons of encouragement, and lessons of discouragement. Al-'Awfi narrated that 'Abdullah bin 'Abbas commented on the statement of Allah the Exalted,
 ## Personal Reflections
 
 

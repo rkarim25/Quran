@@ -165,6 +165,17 @@ This tells us that a prostration done as a token of respect for the Holy Prophet
 
 6. The words of prayer: تَوَفَّنِي مُسْلِمًا (Make me die a Muslim - 101) refer to the prayer of Sayyidna Yusuf (علیہ السلام) in which he has wished to die while adhering to his Belief and Faith ('Iman and Islam). This tells us that to make a dua' for death under particular conditions is not prohibited. And as for the prohibition of wishing for death in sound and authentic Aha-dith, the purpose there is to tell people that it is not correct to go about asking for death just because of depression from worldly hardships or simple lack of patience. The Holy Prophet ﷺ has said: Let no one ask for death because of some hardship. If one has to say something like that, let him say: ` Ya Allah, keep me alive as long as life is better for me, and give me death when death is better for me.'
 
+## AI Translation
+
+“My Rabb! You have surely granted me authority and taught me the interpretation of dreams. O Originator of the heavens and the earth! You are my Guardian in this dunya — this temporary worldly life and the Akhirah. Allow me to die as one who submits and join me with the righteous.”
+
+## AI Tafsir
+
+**Context:** Based on a narration by Sayyidna ` Urwah ibn Zubayr (رح) ، Ibn Ishaq has reported: When Sayyidna Musa (علیہ السلام) was commanded to leave Egypt with the Bani' Isra'il, it was revealed to him that he should not leave the…
+
+**What this ayah teaches:** You have indeed bestowed on me of the sovereignty, and taught me something of the interpretation of dreams - the (Only) Creator of the heavens and the earth! Their attitude is that they may be enjoying the highest possible ranks in this world and in the Hereafter, and they may have all sorts of power and office beneath their feet, yet, they would never wax proud over these.
+
+**Classical tafsir:** Ibn Kathir notes: He begged Him that, when he dies, he dies as a Muslim, as Ad-Dahhak said, and to join him with the ranks of the righteous, with his brethren the Prophets and Messengers, may Allah's peace and blessings be on them all.…
 ## Personal Reflections
 
 

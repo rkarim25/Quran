@@ -160,6 +160,17 @@ The word: صلوۃ (salah) used in the expression: وَصَلِّ عَلَيْه
 
 Here we see that the Holy Prophet ﷺ has been asked to pray for those who give Sadaqah. On this basis, some Muslim jurists rule that it is wajib (obligatory, necessary) for the Muslim head of the state (Imam, 'Amir) to pray for those who give Sadaqah. However, there are others who take this command to be of a recommendatory nature (mustahabb: recommended). (Qurtubi)
 
+## AI Translation
+
+Tell, “Do as you will. Your deeds will be observed by Allah, His Messenger, and those who have iman. And you will be returned to the Knower of the seen and unseen, then He will inform you of what you used to do.”
+
+## AI Tafsir
+
+**Context:** The imperative: خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً : "Take out of their wealth a Sadaqah (obligatory alms) " in the second verse (103) has its background.
+
+**What this ayah teaches:** And one might commit evil deeds for some time in his life, so that if he dies while doing them he will enter the Fire. Allah will see your deeds, and (so will) His Messenger and the believers.
+
+**Classical tafsir:** Ibn Kathir notes: Warning the Disobedient Mujahid said that this Ayah carries a warning from Allah to those who defy His orders.
 ## Personal Reflections
 
 

@@ -163,6 +163,15 @@ Said in the next sentence 12 is: وَيُرْ‌سِلُ الصَّوَاعِق�
 
 The last sentence of this verse is: وَهُمْ يُجَادِلُونَ فِي اللَّـهِ وَهُوَ شَدِيدُ الْمِحَالِ they are quarrelling about Allah, and He is stern in His plan). The word: الْمِحَالِ (al-mihal: with Kasrah on the initial letter Mim) has been used here in the triple sense of stratagem and plan, and retribution and punishment, and in the sense of power as well. The verse means that (it is in the background of what has been stated above) that these people are busy with debates and altercations about the truth of Allah's Oneness - despite the fact that Allah Ta` ala has the ultimate power whose plan overtakes all and nothing works against it.
 
+## AI Translation
+
+Calling upon Him alone is the truth. Whatever the pagans invoke besides Him cannot respond at all—like someone stretching hands toward water, asking it to reach their mouth when it never can. The pleas of those who reject the truth are only empty.
+
+## AI Tafsir
+
+**What this ayah teaches:** And those whom they invoke besides Him, answer them no more than one who stretches forth his hand for water to reach his mouth, but it reaches him not; and the invocation of the those who reject the truth is nothing but misguidance .
+
+**Classical tafsir:** Ibn Kathir notes: And it appears in some narrations of Hadith that Ar-Ra'd is the name of the angel appointed to bring rains.
 ## Personal Reflections
 
 

@@ -86,6 +86,15 @@ They did and it was: أَإِذَا مِتْنَا وَكُنَّا تُرَ‌�
 
 Outwardly, this is a dismissive answer, as is usually given to rigid people. But, a little deliberation would reveal that it happens to be a full-fledged argument as well. Imam Razi has explained it in Tafsir Kabir. He says: By the rational proof of resurrection given earlier, it already stands established that the rising of human beings once again after death is not something impossible. Then, the rule is that the physical happening of anything rationally possible can be proved on the authority of the statement of someone who is harbinger of nothing but the truth. So, once this much is settled that rising again is possible, then, should some true prophet of Allah simply say thereafter: 'Yes, you shall definitely-rise again," this will be an absolute proof that the said event is bound to happen.
 
+## AI Translation
+
+And whenever they see a sign, they make fun of it,
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, the problem of comprehension that confronted them was as to how in the world could they - once they and their forefathers had become dust and bones - be brought back to life all over again. If this is the case, then why do they deny the resurrection, when they see things that are greater than that which they deny?
+
+**Classical tafsir:** Ibn Kathir notes: In other words, the problem of comprehension that confronted them was as to how in the world could they - once they and their forefathers had become dust and bones - be brought back to life all over again.
 ## Personal Reflections
 
 

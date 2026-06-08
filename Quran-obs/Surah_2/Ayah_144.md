@@ -252,6 +252,17 @@ The only condition necessary to be fulfilled in turning to-wards the Qiblah قب
 
 Those interested in a detailed discussion of the subject may consult my book in Urdu, "Simt-e-Qiblah سمت القبلہ ".
 
+## AI Translation
+
+We see you turning your face toward heaven. We will turn you toward a direction that pleases you. Turn your face toward the Sacred Mosque — wherever you are, turn your faces toward it. Those given the Scripture know this is truth from their Rabb. Allah is not unaware of what they do.
+
+## AI Tafsir
+
+**What this ayah teaches:** The exception is of the voluntary prayer (Nafl) while one is traveling, for one is allowed to offer it in any direction his body is facing, while his heart is intending the Ka'bah.
+
+**Classical tafsir:** Ibn Kathir notes: Certainly, the people who were given the Scripture (i.e., Jews and Christians) know well that, that (your turning towards the direction of the Ka'bah at Makkah in prayers) is the truth from their Lord.
+
+**From the Sunnah:** When Allah's Messenger ﷺ migrated to Al-Madinah, the majority of its people were Jews, and Allah commanded him to face Bayt Al-Maqdis. Al-Hakim then commented that the chain of this narration is authentic and that they (i.e., Al-Bukhari and Muslim) did not include it in their collections. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

@@ -202,6 +202,17 @@ And if this act of subjugation be through Divine Names or Qur'anic Verses and th
 
 The last sentence of verse 12 is: وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِ‌نَا نُذِقْهُ مِنْ عَذَابِ السَّعِيرِ‌ (And whoever of them would deviate from Our command, We would make him taste the punishment of the blazing fire.) Most commentators have taken this to mean the punishment of Jahannam (Hell) in the hereafter. Some others have said that, in this world as well, Allah Ta’ ala had set an angel upon them who, in case they fell short in obeying Sayyidna Sulayman (علیہ السلام) ، would beat them with burning lashes and force them to work. (Qurtubi) The doubt that the Jinns are made of fire after all and the fire would hardly affect them is not worth entertaining here. The reason is that the Jinns are made of fire in the same sense as man is made of dust. It means that the preponderant element of man is dust. Still if man were to be hit by a clod of clay, or stone, it would hurt him. Similarly, the preponderant element of the Jinns is fire. But, pure and potent fire would burn them too.
 
+## AI Translation
+
+And to Sulayman We subjected the wind: its morning journey was a month's travel and its evening journey likewise. We made a stream of molten copper flow for him, and some jinn worked under him by his Lord's permission. Whoever among them deviated from Our command, We made them taste the torment of the blazing fire.
+
+## AI Tafsir
+
+**What this ayah teaches:** And to Sulayman (We subjected) the wind, its morning was a month's (journey), and its afternoon was a month's (journey). He subjugated the wind to him, so that it would carry his carpet one way for a month, then back again the next month.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "He set out from Damascus in the morning, landed in Istakhar where he ate a meal, then flew on from Istakhar and spent the night in Kabil." Between Damascus and Istakhar is an entire month's travel for a swift rider, and between Istakhar and Kabul is an entire month's travel… Ibn Zayd said, "This means dwellings." With regard to "Tamathil," 'Atiyah Al-'Awfi, Ad-Dahhak and As-…
+
+**From the Sunnah:** In the Two Sahihs, it is reported that the Messenger of Allah ﷺ said: Ibn Abi Hatim narrated that Fudayl said concerning the Ayah:
 ## Personal Reflections
 
 

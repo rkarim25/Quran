@@ -78,6 +78,15 @@ Fir'awn said, 'I will not believe in what you have said nor entertain your reque
 
 The verse is a clear declaration of the prophet Musa (علیہ السلام) before Pharaoh that he was a messenger of Allah, the Lord of all the worlds, and that his status of prophethood does not allow him to ascribe anything but truth to Allah because the message given to the prophets by Allah is a sacred trust and it is a great sin to tamper with it. All the prophets of Allah are free of all sins and cannot do so. The prophet Musa (علیہ السلام) tried to convince them that they should believe him because his truthfulness was beyond question and that he had never uttered a word of lie. In addition to this, his miracles are a clear proof to support his claim to prophethood.
 
+## AI Translation
+
+And Moses said, “O Pharaoh! I am truly a messenger from the Rabb of all worlds, obliged to say nothing about Allah except the truth. Indeed, I have come to you with clear proof from your Rabb, so let the children of Israel go with me.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, he said, 'if you have proof, then produce it for us to see, so that we know if your claim is true.'
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, he said, 'if you have proof, then produce it for us to see, so that we know if your claim is true.'
 ## Personal Reflections
 
 

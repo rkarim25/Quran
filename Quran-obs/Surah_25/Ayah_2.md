@@ -184,6 +184,17 @@ Special Wisdom in every creation
 
 These verses define the sacred and exalted position of the Holy Qur’ an and by addressing the person on whom the book is revealed as عَبدَہ (His slave) in the very beginning of the Surah, his honoured position is highlighted. There cannot be a greater honour for any one than to be called by Allah Ta’ ala as 'His own'..
 
+## AI Translation
+
+Allah is the One to Whom belongs the kingdom of the heavens and the earth, Who has never had any offspring, nor does He have a partner in governing the kingdom. He has created everything, ordaining it precisely.
+
+## AI Tafsir
+
+**Context:** Here Allah praises Himself for the Noble Qur'an He has revealed to His noble Messenger . This is like the Ayat: (And those who disbelieve say: "Why is not the Qur'an revealed to him all at once" Thus, that We may strengt…
+
+**What this ayah teaches:** He is the Creator, Lord, Master and Allah of all things, and everything is subject to His dominion, control and power.
+
+**Classical tafsir:** Ibn Kathir notes: Blessed be He Who sent down (Nazzala) the criterion to His servant that he may be a warner to all nations.)(2.
 ## Personal Reflections
 
 

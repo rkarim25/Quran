@@ -168,6 +168,17 @@ The special merit of this verse:
 
 Imam al-Baghawi (رح) reports a hadith from the Holy Prophet ﷺ in which he said: It is Allah's promise that anyone who recites, after every Surah, the Surah al-Fatihah, Ayah al-Kursi, two verses of 'Al-` Imran, that is شَهِدَ اللَّـهُ أَنَّهُ لَا إِلَـٰهَ إِلَّا هُوَ (3:18) and the present verse from قُلِ اللَّـهُمَّ مَالِكَ الْمُلْكِ (26-27), He will make his abode in Paradise, and have him placed in the Sacred Enclosure, and bless him with His mercy seventy times every day, and fulfill seventy of his needs, and protect him against every envier and enemy and make him prevail over them.
 
+## AI Translation
+
+You cause the night to pass into the day and the day into the night. You bring forth the living from the dead and the dead from the living. And You provide for whoever You will without limit.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, You are able to do all things (26)You make the night to enter into the day, and You make the day to enter into the night, You bring the living out of the dead, and You bring the dead out of the living.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Allah transferred the prophethood from the Children of Israel to the Arab, Qurashi, Makkan, unlettered Prophet, the Final and Last of all Prophets and the Messenger of Allah ﷺ to all mankind and Jinn. If we were to take 'the living' and the dead' in a broad and general sense, this will become inclusive of the learned and the ignorant, the perfect and the imperfect and the believer and the those who reject the truth (the Muslim and the Kafir). (Sahih Muslim)
 ## Personal Reflections
 
 

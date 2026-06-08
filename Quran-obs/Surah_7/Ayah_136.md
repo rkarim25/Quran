@@ -92,6 +92,15 @@ Al-Hasan Al-Basri and Qatadah commented that Allah's statement,
 
 The sixth punishment has been mentioned in the Qur'an by the Arabic word: رِجز 'Rijz' which signifies plague or pestilence. The number of Egyptians killed in this plague is reported to have been more than seventy thousand. They were relieved of this punishment by the prayer of the prophet Musa (علیہ السلام) . Again they broke their promise as before. Now, when they showed no sign of understanding they were finally caught by the last punishment - the death. Leaving behind all their lands, houses and possessions they chased the prophet Musa (علیہ السلام) and his people and were drowned in the sea.
 
+## AI Translation
+
+So We inflicted punishment upon them, drowning them in the sea for denying Our signs and being heedless of them.
+
+## AI Tafsir
+
+**What this ayah teaches:** The People of Fir'awn drown in the Sea; the Children of Israel inherit the Holy Land Allah states that when the people of Fir'awn rebelled and transgressed, even though He inflicted them with consecutive signs, one after another, He took retribution from them by drowning them in the sea that Musa parted by Allah's power, and he and the Children of Israel passed through.
+
+**Classical tafsir:** Ibn Kathir notes: We drowned them in the sea, because they belied Our Ayat and were heedless with them (136)And We made the people who were considered weak to inherit the eastern parts of the land and the western parts thereof which We have blessed.
 ## Personal Reflections
 
 

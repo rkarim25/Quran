@@ -94,6 +94,15 @@ Commentary
 
 Qurtubi also thinks that this is the best interpretation of this verse. There are some others who are of the view that the word سَمَاء (sky) occurring in this verse means the ceiling of one's house and the verse means that a person who entertains hostile feelings towards Islam and the Holy Prophet ﷺ must realize that he can do them no harm. Hence the best thing for him to do is to hang himself from the ceiling out of sheer mortification. (Mazhari and others).
 
+## AI Translation
+
+And so We revealed this Quran as clear verses. And Allah certainly guides whoever He wills.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then let him see whether his plan will remove that whereat he rages (15)Thus have We sent it down as clear Ayat, and surely, Allah guides whom He wills .
+
+**Classical tafsir:** Ibn Kathir notes: Because of His wisdom, mercy, justice, knowledge, dominion and might, no one can overturn His ruling, and He is swift in bringing to account.
 ## Personal Reflections
 
 

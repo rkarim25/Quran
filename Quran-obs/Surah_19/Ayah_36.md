@@ -140,6 +140,17 @@ The beliefs of the Jews and the Christians about Sayyidna ` Isa (علیہ الس
 
 The phrase قَوْلَ الْحَقِّ (translated in the text as 'the word of truth' in the normal reading is with fathah on the letter Lam (لَ ). In this case the sentence along with its understood words will run like اَقُولُ قَولَ الحَقِّ that is, 'I say the word of truth'. However, in some readings the letter 'Lam' in 'Qawl' is rendered with Dammah i.e. قَوْلُ الْحَقِّ. In this case the sentence will mean that Sayyidna 'Isa (علیہا السلام) himself was a word of truth. It is, then, analogous to the title of کَلِمَۃُ اللہِ (the word of Allah) which is given to him to denote that he was born directly by the word of Allah, having no connection with an apparent cause in this world. (Qurtubi)
 
+## AI Translation
+
+Jesus also declared: "Allah is my Rabb and your Rabb, so worship Him alone. This is the Straight Path—the way of living that pleases Allah."
+
+## AI Tafsir
+
+**What this ayah teaches:** That is the straight path.) Meaning, "That which I have come to you with from Allah is the straight path." This means that the path is correct; whoever follows it will be rightly guided and whoever opposes it will deviate and go astray.
+
+**Classical tafsir:** Ibn Kathir notes: That is the straight path.) Meaning, "That which I have come to you with from Allah is the straight path." This means that the path is correct; whoever follows it will be rightly guided and whoever opposes it will deviate and go astray.
+
+**From the Sunnah:** This has been related in a Hadith collected in the Two Sahihs,
 ## Personal Reflections
 
 

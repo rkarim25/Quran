@@ -186,6 +186,19 @@ Commentary
 
 The first two of the above verses are a complement to the previous verses which announce punishment for the unjust, and glad tidings of success and reward for the virtuous Muslims. In the first verse إِنَّ الَّذِينَ قَالُوا رَ‌بُّنَا اللَّـهُ ثُمَّ اسْتَقَامُوا "Surely, those who said, 'Our Lord is Allah' then stayed firm, (46:13) " all the basic faith and virtuous deeds required by Islam have been comprehensively referred to with great eloquence. The admission that رَ‌بُّنَا اللَّـهُ "Our Lord is Allah." is the whole of faith, and staying firm in it includes holding on to it till death, as well as carrying out all its obligations. The meaning and importance of istiqamah ('Staying firm), have been explained in detail in the commentary of Sarah Ha Meem As-Sajdah (41:30). In this verse here, those who embrace faith and remain steadfast to it are being promised freedom from anxiety and suffering in future, and dispelling of their grief and sorrow over past sufferings. The following verse gives glad tidings of the permanence and continuity of this matchless comfort. In the four verses which follow, man is being directed to behave beautifully with his parents, and is being censured for ill-behaviour towards them; and in this context, the kindness of the parents to him and the parents' bearing hard labor and toiling for their children have been mentioned, and then man has been advised to repent and turn towards Allah Ta’ ala when he gets older. The connection between these verses and the earlier ones, according to Ibn Kathir, is that the usual style of the Holy Qur'an is to instruct man to behave beautifully, to serve and to obey his parents along with the call to obey and worship Allah Almighty. Many verses of the Holy Qur'an in various Surahs bear witness to this style. Here also, in the same way, mention has been made of beautiful behaviour for parents alongwith the call to believe in the Oneness of Allah Ta’ ala. And Qurtubi, with reference to Qushairi has stated the connection to be that there is a kind of solace in it for the Holy Prophet ﷺ that he should continue calling people towards faith and 'tauhid' (the Oneness of Allah) and should not be disheartened if some people do not accept his invitation, because men, by nature, are of diverse characteristics, and some of them do not refrain even from ill-treatment to their parents. (Allah knows best)
 
+## AI Translation
+
+Those who say 'Our Rabb is Allah' and then stand firm on that—no fear will touch them, nor will they grieve.
+
+## AI Tafsir
+
+**Context:** (from Allah, and you disbelieved in it?) meaning, 'what do you think that Allah will do to you if this Book that I have come to you with is actually revealed to me from Him in order that I convey it to you, and yet you d…
+
+**What this ayah teaches:** And this is a Book confirming in the Arabic tongue, to warn those who do wrong, and as glad tidings for the doers of good (12)Verily, those who say: "Our Lord is (only) Allah," and thereafter stand firm, on them shall be no fear, nor shall they grieve (13)Such shall be the dwellers of Paradise, abiding therein (forever) – a reward for what they used to do .
+
+**Classical tafsir:** Ibn Kathir notes: The pagans said this only because they thought that they held a high status with Allah, and that He took special care of them.
+
+**From the Sunnah:** Paradise, abiding therein (forever) – a reward for what they used to do .
 ## Personal Reflections
 
 

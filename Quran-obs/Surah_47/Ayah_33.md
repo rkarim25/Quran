@@ -138,6 +138,17 @@ Ruling:
 
 If a believer starts a nafl (an act of worship that is not obligatory), and then deliberately disrupts it before its completion, this too is deemed by Imam Abu Hanifah as nullifying the deed, and is impermissible according to him. Therefore, if a person commences righteous acts that were initially not compulsory or obligatory, their completion, according to this interpretation of the verse, becomes obligatory. Otherwise he would be committing ibtal-ul-a'mal [ nullification of actions ]. If anyone does this without a legitimate reason or nullifies them purposely, he would be a sinner, and it would be obligatory for him to make qada' for such nullification. According to Imam Shafi` i, neither he is a sinner nor is it obligatory for him to make qada'. His argument is that the act was not initially compulsory or obligatory, therefore its abandonment or nullification would not entail a sin. Hanafis are that the wordings of the current verse are general in their scope embracing all righteous acts, whether obligatory or supererogatory. Therefore, if a supererogatory act is initiated, its completion becomes obligatory. On this occasion, in Tafsir Mazhari, a large number of ahadith are quoted and the issue is discussed in detail.
 
+## AI Translation
+
+O you who have iman: Obey Allah and obey the Messenger, and do not let your deeds be wasted.
+
+## AI Tafsir
+
+**What this ayah teaches:** The other case of ibtal-ul-a'mal is that the acceptability of some righteous deeds is sometimes conditional upon other righteous acts.
+
+**Classical tafsir:** Ibn Kathir notes: He indicates that those people can never harm Allah in the least, and rather they only harm themselves and become losers on the Day of Resurrection.
+
+**From the Sunnah:** If, on the other hand, the those who reject the truth are considered more powerful and numerous than the Muslims, then the Imam (general commander) may decide to hold a treaty if he judges that it entails a benefit for the Muslims.
 ## Personal Reflections
 
 

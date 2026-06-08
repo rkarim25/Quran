@@ -98,6 +98,17 @@ Surah Al-Infitar
 
 Ends here
 
+## AI Translation
+
+with no escape from it.
+
+## AI Tafsir
+
+**What this ayah teaches:** This does not negate intercession, because that will not happen with one's own free will, unless Allah grants permission to someone to intercede on someone's behalf, and then accepts the intercession. They are those who obeyed Allah and did not meet Him with disobedience (sins).
+
+**Classical tafsir:** Ibn Kathir notes: This does not negate intercession, because that will not happen with one's own free will, unless Allah grants permission to someone to intercede on someone's behalf, and then accepts the intercession.
+
+**From the Sunnah:** We will mention here a Hadith (where the Prophet ﷺ said),
 ## Personal Reflections
 
 

@@ -289,6 +289,15 @@ Important Notes
 
 2. About the sentence: فَلَمَّا تَوَفَّيْتَنِي كُنتَ أَنتَ الرَّ‌قِيبَ عَلَيْهِمْ (And when You picked me up You were the One watching over them) in verse 117, a de-tailed discussion of the subject of the ` death' or ` having been raised to-ward Allah' has appeared in the Commentary on Surah Al-'Imran under verse 3:55: إِنِّي مُتَوَفِّيكَ وَرَ‌افِعُكَ (I am to take you in full and lift you towards Me). It may be seen there [ Ma` ariful-Qur'an, English Translation, Volume II, pages 76-81]. As for using the verse 117 : فَلَمَّا تَوَفَّيْتَنِي ` falamma tawaffaitani) to reject his ascension to heavens and to establish his natural death is not a sound inference, because the time of this conversation shall be the day of Qiyamah - and at that time, after he has descended down from the heaven, he would have had his natural and real death. Therefore, as reported by Ibn Kathir on the authority of a narration from Sayyidna Abu Musa al-Ash` ari ؓ ، the Holy Prophet ﷺ said: On the day of Qiyamah, the prophets and their communities will be summoned. Then, Sayyidna ` Isa (علیہ السلام) will be called. Then, Allah Ta` ala will remind him of His blessings and drawing him closer, He will say, ` O ` Isa son of Maryam: اذْكُرْ‌ نِعْمَتِي عَلَيْكَ وَعَلَىٰ وَالِدَتِكَ Remember My blessing upon you and upon your mother.' Then, in the end, He would say: يَا عِيسَى ابْنَ مَرْ‌يَمَ أَأَنتَ قُلْتَ لِلنَّاسِ اتَّخِذُونِي وَأُمِّيَ إِلَـٰهَيْنِ مِن دُونِ اللَّـهِ : ( O ` Isa son of Maryam, did you say to the people: Take me and my mother as gods beside Allah?). Sayyidna ` Isa (علیہ السلام) will deny it saying that he did not. Then, the question will be asked from the Christians. They will say, ` yes, this is what he had ordered us to do.' After that, they will be driven towards Hell.
 
+## AI Translation
+
+And Allah will say, “O Jesus, son of Mary! Did you ever ask the people to worship you and your mother as gods besides Allah?” He will answer, “Glory be to You! How could I ever say what I had no right to say? If I had said such a thing, you would have certainly known it. You know what is within me, but I do not know what is within You. Indeed, You are the Knower of all unseen.
+
+## AI Tafsir
+
+**What this ayah teaches:** Did you say unto men: 'Worship me and my mother as two gods besides Allah?'" He will say: "Glory be to You!
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

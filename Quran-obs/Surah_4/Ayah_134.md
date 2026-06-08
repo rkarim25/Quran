@@ -133,6 +133,15 @@ He has perfect watch over every soul, knowing what it deserves, He is the Watche
 
 The third mention of these words embodies a statement of Allah's mercy which makes things work for people. It means: Should one fear Allah and be obedient to Him, Allah will fulfill all his needs, because He is the owner of everything in this universe.
 
+## AI Translation
+
+Whoever desires the reward of this dunya, then with Allah are the rewards of this dunya and the Akhirah. And Allah is All-Hearing, All-Seeing.
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah is Ever All-Potent over that (133)Whoever desires the rewards of this life, then with Allah is the reward of this worldly life and of the Hereafter.
+
+**Classical tafsir:** Ibn Kathir notes: It means: Should one fear Allah and be obedient to Him, Allah will fulfill all his needs, because He is the owner of everything in this universe.
 ## Personal Reflections
 
 

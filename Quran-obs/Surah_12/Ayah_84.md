@@ -158,6 +158,15 @@ In his Tafsir (Mazhari), Qadi Thana'ullah Panipati (رح) has, with reference to
 
 In the comment quoted above, it is worth noticing that this love, though not the love of dunya really, yet it did have a certain worldly touch. For this reason, this love became the source of the trial and test of Sayyidna Ya` qub (علیہ السلام) ، for which he had to undergo the unbearable shock of a forty-year separation from him. Then, the chains of this event, from the beginning to the end, show that things kept taking shape as determined by Allah Ta’ ala which made this shock stretch longer and longer. Otherwise, at the very start of the event, it would have not been possible for a father who loved his son so intensely that he would simply listen to what his other sons told him and elect to keep sitting home and not do anything about it. In fact, if he had immediately visited the site of the incident and made necessary inquiries and investigations, he would have known the truth of the matter on the spot. But, things happened in a way as Allah would have them, so it just did not occur to him. After that, Sayyidna Yusuf (علیہ السلام) was stopped, through revelation, from sending to his father any news about himself - to the limit that he took no initiative in this direction even after his ascension to power in Egypt. Then, more trying were events which happened concerning the repeated visits of his brothers to Egypt. Even at that time, he said nothing to his brothers about himself, nor did he try to send some note of information to his father. Instead of doing all that, he detained yet another brother through a secret plan, thus inflicting yet another shock on his father. All these actions cannot possibly issue forth from a great prophet such as Sayyidna Yusuf unless and until he had not been prohibited from doing so through the medium of Wahy (revelation). Therefore, al-Qurtubi and other commentators have declared this entire range of actions taken by Sayyidna Yusuf (علیہ السلام) as directly prompted by Divine revelation. The Qur’ anic statement: كَذَٰلِكَ كِدْنَا لِيُوسُفَ (This is how We planned for Yusuf -76) also indicates in this directon. Allah knows best.
 
+## AI Translation
+
+He turned away from them, lamenting, “Alas, poor Joseph!” And his eyes turned white out of the grief he suppressed.
+
+## AI Tafsir
+
+**What this ayah teaches:** He was so affected by his disappearance that, during this whole period of his separation from him which has been reported to be forty years in some narrations while eighty in some others, he kept weeping continuously, so much so that he lost his eyesight.
+
+**Classical tafsir:** Ibn Kathir notes: He was so affected by his disappearance that, during this whole period of his separation from him which has been reported to be forty years in some narrations while eighty in some others, he kept weeping continuously, so much so that he lost his eyesight.
 ## Personal Reflections
 
 

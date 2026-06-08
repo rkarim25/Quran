@@ -110,6 +110,15 @@ Sayyidna ` Abdullah Ibn 'Abbas ؓ is narration also carries the additional infor
 
 In any case, the Muslims are cautioned in this verse that they should prepare themselves to turn to Allah totally and completely, and act upon the teachings of their religion. All actions revolve around khushu`-ul-qalb Sayyidna Shaddad Ibn Aws ؓ narrates that the Messenger of Allah ﷺ said: "The first thing that will be taken away from the people will be their humility or humbleness [ khushu']." [ Ibn Kathir ]
 
+## AI Translation
+
+Know that Allah revives the earth after its death. We have made the signs clear to you so perhaps you will understand.
+
+## AI Tafsir
+
+**Context:** This verse admonishes the believers. Sayyidna ` Abdullah Ibn ` Abbas ؓ reports that some of the believers were found to be lacking in firmness, and somewhat laziness was felt in their practices.
+
+**What this ayah teaches:** Indeed We have made clear the Ayat to you, if you but understand.) This Ayah indicates that He brings subtleness to hearts after they have become hard, guides the confused after they were led astray, and relieves hardships after they have intensified.
 ## Personal Reflections
 
 

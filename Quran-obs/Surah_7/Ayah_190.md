@@ -169,6 +169,17 @@ Havoc caused by immodesty
 
 It is a pity that, one by one, we are depriving ourselves of all the Islamic manners and values. Firstly, we give our children non Islamic names simply following the fashion of the non-Islamic cultures. In addition, we find that most of the parents abbreviate the names of their children into English initials which makes it all the more difficult to distinguish them as Muslims. specially so, when we have worn the appearance of the non-Muslims, altogether. May Allah favour us with the real understanding of Islam and Islamic values.
 
+## AI Translation
+
+But when He granted their descendants good offspring, they associated false gods in what He has given them. Exalted is Allah above what they associate !
+
+## AI Tafsir
+
+**What this ayah teaches:** But when He gave them a Salih child, they ascribed partners to Him (Allah) in that which He has given to them. This Ayah should therefore be understood this way, for it is apparent that it does not refer to Adam and Hawa', but about the idolators among their offspring.
+
+**Classical tafsir:** Ibn Kathir notes: It was reported that Al-Hasan, Ibrahim An-Nakha'i and As-Suddi said similarly. The verse refers to the generations coming after them who were ungrateful to Allah and involved themselves in Shirk.
+
+**From the Sunnah:** Ibn Jarir recorded that Al-Hasan commented on this part of the Ayah, In addition, we find that most of the parents abbreviate the names of their children into English initials which makes it all the more difficult to distinguish them as Muslims.
 ## Personal Reflections
 
 

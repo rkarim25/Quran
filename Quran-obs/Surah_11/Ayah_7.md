@@ -312,6 +312,17 @@ The outcome is that human beings are the real purpose of the creation of the hea
 
 There is something we should also take note of. Allah Ta` ala said: أَحْسَنُ عَمَلًا (who among you is better in deed). He has said nothing about the number of deeds. From here we learn that Allah Ta'ala favors the quality of deed more than He does the abundance or profusion or fre-quency of good deeds such as, Salah, Sawm, Tilawah of Qur'an and Dhikr of Allah. This beauty or excellence of deeds has been expressed through the word: اِحسَان (ihsan) in Hadith. Essentially, it means the doing of a deed for the good pleasure of Allah alone with no worldly motive attached to it. Then, it is also necessary to do it in a way that is liked in the sight of Allah. This way has been demonstrated by the Holy Prophet ﷺ through his conduct and he has made it necessary for his community to follow his Sunnah. In a nutshell, we can say that a little done with total sincerity and according to Sunnah is better than a lot more done with none, or less of the two.
 
+## AI Translation
+
+He it is who created the heavens and earth in six days, then settled upon the Throne. He knows what enters the earth and what emerges from it, what descends from the sky and what ascends to it. He is with you wherever you are — and Allah sees what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** Day is the measure of time which, after the creation of the heavens and the earth, is from sunrise to sunset - although, at the time of the creation of the heavens and the earth, neither did the sun exist nor its rising and setting.
+
+**Classical tafsir:** Ibn Kathir notes: The Meanings of the Word Ummah The word Ummah is used in the Qur'an and Sunnah with a number of different meanings.
+
+**From the Sunnah:** This Hadith has been recorded in the Two Sahihs of Al-Bukhari and Muslim with a variety of wordings. (Sahih al-Bukhari, Sahih Muslim) This is like what has been recorded in Sahih Muslim, (Sahih Muslim)
 ## Personal Reflections
 
 

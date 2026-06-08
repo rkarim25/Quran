@@ -221,6 +221,17 @@ The word: مَک (رح) ر (makr) used in verse 21: قُلِ اللَّـهُ أ
 
 (1) The English language has no such problems as the open sense of makr can be transmitted through ` plan' or ` move' (Translator)
 
+## AI Translation
+
+When We give people a taste of mercy after being afflicted with a hardship, they swiftly devise plots against Our revelations! Say, O Prophet, “Allah is swifter in devising punishment. Surely Our messenger-angels record whatever you devise.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Your rebellion (disobedience to Allah) is only against yourselves,) it is you yourselves that will taste the evil consequence of this transgression.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said that man's attitude indicates a mockery and belying of blessings.
+
+**From the Sunnah:** that Allah's Messenger ﷺ led the Subh (Dawn) prayer after it had rained during the night, then he ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
 
 

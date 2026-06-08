@@ -80,6 +80,15 @@ It means that Allah had already blessed Sayyidna Yusuf (علیہ السلام) w
 
 During his tenure of rule, Sayyidna Yusuf (علیہ السلام) had accomplished great projects designed to bring peace and comfort to the masses of his people. Their parallel would be hard to find. When, according to his interpretation of the dream, seven years of prosperity passed by and the famine set in, Sayyidna Yusuf (علیہ السلام) abandoned eating to his fill. People said: You have the treasures of the land of Egypt in your possession, yet you go hungry? He said: I do this so that the feeling for the hunger of my common people does not disappear from my heart. He even took an administrative step in this matter. The royal cooks were ordered to prepare only one meal a day, at lunch time, so that the residents of the royal pa-lace too could somehow share in the mass hunger of their people!
 
+## AI Translation
+
+And the reward of the Akhirah is far better for those who are faithful and are living with taqwa — living with Allah-consciousness, as though Allah sees you toward Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** We bestow of Our mercy on whom We will, and We make not to be lost the reward of the good doers (56)And verily, the reward of the Hereafter is better for those who believed and had Taqwa .
+
+**Classical tafsir:** Ibn Kathir notes: He said: I do this so that the feeling for the hunger of my common people does not disappear from my heart.
 ## Personal Reflections
 
 

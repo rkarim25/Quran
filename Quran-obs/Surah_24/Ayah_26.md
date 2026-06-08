@@ -121,6 +121,15 @@ In this last verse the common principle is stated that Allah Ta’ ala has creat
 
 In the light of this norm and principle it is now quite clear that the messengers of Allah, who are the models of purity and chastity both outwardly and inwardly in this world, are granted spouses by Allah Ta’ ala in accordance with their status. Hence, the Holy Prophet ﷺ ، who is the head of all messengers, was bestowed with spouses who were befitting to his position and status in purity, chastity and ethical excellence, and Sayyidah ` A'ishah ؓ is more prominent among them all. Only those can have any doubt or suspicion about her who do not have faith in the Holy Prophet ﷺ himself. It is mentioned about the wives of Sayyidna Nuh and Sayyidna Lut (علیہم السلام) in the Qur'an that they (wives) were disbelievers, but it is also established that they were not involved in any obscenity or vulgarity. Sayyidna Ibn ` Abbas ؓ said ما بغت امرأۃ نبی قطّ Never did any wife of a messenger commit adultery'. (ذکرفی الدر المنثور). It is, therefore, corroborated that it is possible that a messenger's wife could be a disbeliever, but it is not possible that she could be vulgar and sexually immoral, because adultery is a natural detestable act in the eyes of people, whereas disbelief is not a natural detestable thing. (Bayan al-Qur’ an)
 
+## AI Translation
+
+Wicked women are for wicked men, and wicked men are for wicked women. And virtuous women are for virtuous men, and virtuous men are for virtuous women. The virtuous are innocent of what the wicked say. They will have forgiveness and an honourable provision.
+
+## AI Tafsir
+
+**Context:** Ibn 'Abbas said, "Evil words are for evil men, and evil men are for evil words; good words are for good men and good men are for good words.
+
+**What this ayah teaches:** Good statements are for good people and good people for good statements: such are innocent of (every) bad statement which they say; for them is forgiveness, and honored provision . It is, therefore, corroborated that it is possible that a messenger's wife could be a those who reject the truth, but it is not possible that she could be vulgar and sexually immoral, because adultery is a natural detestable act in th…
 ## Personal Reflections
 
 

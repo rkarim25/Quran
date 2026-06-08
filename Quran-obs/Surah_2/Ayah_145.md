@@ -179,6 +179,17 @@ Let us make it quite clear that this warning is outwardly addressed to the Holy 
 
 As for the phrase, وما انت بتبع : "You are not to follow their Qiblah قبلہ ", it is meant to declare that the Baytullah بیت اللہ shall now stay as the Qiblah قبلہ upto the end of the world. Thus, the declaration refutes the scoffing allegation of the People of the Book that there was no stability in the Islamic injunctions, and that the Muslims might again adopt the Baytul-Maqdis بیت المقدس as their Qiblah قبلہ . (Al-Bahr al-Muhit)
 
+## AI Translation
+
+Even if you brought every proof to the People of the Book, they would not follow your prayer direction — nor would you follow theirs — nor would they follow one another's. If you followed their desires after knowledge has come to you, you would be among the wrongdoers.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah then warns those who knowingly defy the truth, because the proof against those who know is stronger than against other people.
+
+**Classical tafsir:** Ibn Kathir notes: Allah's statement also indicates that as much as the Jews adhere to their opinions and desires, the Prophet ﷺ adheres by Allah's commands, obeying Him and following what pleases Him, and that he would never adhere to their desires in any case.
+
+**From the Sunnah:** Allah describes the Jews' disbelief, stubbornness and defiance of what they know of the truth of Allah's Messenger ﷺ, that if the Prophet ﷺ brought forward every proof to the truth of what he was sent with, they will never obey him or abandon following their d… Allah's statement also indicates that as much as the Jews adhere to their opinions and desires, the Prophet ﷺ adheres by Allah's commands, obeying Him and following what…
 ## Personal Reflections
 
 

@@ -542,6 +542,17 @@ This is the teaching of the Qur'an and Sunnah which aimed at spreading the virtu
 
 On the other side, there were the masses of people who took it for granted that the eradication of crimes is the exclusive responsibility of the government. In fact, they have become used to keeping crimes covered up. The idea of coming up with true witnesses to confirm truth and eliminate crime is no more a favoured practice among them. Such people must understand that covering up the crime of the criminal and avoiding to put their witness on record is an, abetment of crime which, according to the Holy Qur'an, is Haram (unlawful) and a grave sin in-deed. Furthermore, it is also a flagrant disobedience of the Divine command: وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ (And help each other in righteousness and piety, and do not help each other in sin and aggression) (5:2).
 
+## AI Translation
+
+O you who have iman! Do not violate Allah’s rituals, the sacred months, the sacrificial animals, the garlands, nor those on their way to the Sacred House seeking their Rabb’s bounty and pleasure. When pilgrimage has ended, you are allowed to hunt. Do not let the hatred of a people who once barred you from the Sacred Mosque provoke you to transgress. Cooperate with one another in goodness and righteousness, and do not cooperate in sin and transgression. And live with taqwa—awareness that Allah sees you—toward Allah. Surely Allah is severe in punishment.
+
+## AI Tafsir
+
+**Context:** (and pleasure.) Ibn 'Abbas said that the word 'pleasure' in the Ayah refers to, "seeking Allah's pleasure by their Hajj." 'Ikrimah, As-Suddi and Ibn Jarir mentioned that this Ayah was revealed concerning Al-Hutam bin Hin…
+
+**What this ayah teaches:** The tiny morsel of food which reaches your mouth is the result of the combined contribution of millions of machines, animals and human beings - and it is only after that, that you have been able to pamper your palate.
+
+**Classical tafsir:** Ibn Kathir notes: Violate not the sanctity of Sha'a'ir Allah (the symbols of Allah),) Ibn 'Abbas said, "Sha'a'ir Allah means the rituals of Hajj." Mujahid said, "As-Safa and Al-Marwah, and the sacrificial animal are the symbols of Allah." It was also stated that Sha'a'ir Allah is what He prohibited.
 ## Personal Reflections
 
 

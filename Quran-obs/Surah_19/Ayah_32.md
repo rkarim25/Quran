@@ -153,6 +153,15 @@ Here only the mother is mentioned and not both the parents. Hence it is implied 
 
 discourse coming from an infant was a miracle by itself to prove his miraculous birth.
 
+## AI Translation
+
+and to be kind to my mother. He did not make me arrogant or defiant.
+
+## AI Tafsir
+
+**What this ayah teaches:** Here only the mother is mentioned and not both the parents.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, she referred all speech to him (the child) and she directed them to his address and speech to them.
 ## Personal Reflections
 
 

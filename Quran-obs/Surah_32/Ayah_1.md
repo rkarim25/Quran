@@ -122,6 +122,17 @@ Surah Luqman
 
 Ends here
 
+## AI Translation
+
+Alif-Lam-Mim — opening this surah whose full meaning rests with Allah.
+
+## AI Tafsir
+
+**Context:** There is a reason for this specific treatment and marked attention. Things of the Unseen that one is generally keen to find out are just these five.
+
+**What this ayah teaches:** Therefore, it is not included under the definition of the knowledge of the unseen ('Ilm ul-ghayb) because the news about things unseen given to the blessed prophets through wahy (revelation) and to the men of Allah (auliya' ) through ilham (inspiration) come from Allah Ta’ ala.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the Hadith quoted above means that, no doubt, Allah Ta’ ala has made these five things so exclusive to Himself that no angel or messenger has been given their knowledge even as 'news' of the unseen.
 ## Personal Reflections
 
 

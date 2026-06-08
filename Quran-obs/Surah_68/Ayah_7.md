@@ -188,6 +188,17 @@ Thus, the entire statement means, 'so you will know and they will know,' or 'you
 
 فَسَتُبْصِرُ‌ وَيُبْصِرُ‌ونَ بِأَييِّكُمُ الْمَفْتُونُ (So, you will see, and they will see which of you is demented....68:5-6]. The word maftun, in this context, means 'demented'. In the preceding verses, the Holy Prophet ', was accused of being an insane and demented. This verse turns tables upon the accusers of the Holy Prophet , and making a prophecy, tells them in challenging words that time will show whether it was he or they who suffered from insanity, or whether his claim to be Allah's Messenger ﷺ was the outpouring of heated brain, or whether they themselves were so demented as not to read the signs of time, and thus refuse to believe in him. These were the unfortunate, wretched ones who did not see the light of Truth and were thus disgraced and defeated in this world. But, on the other hand, there were thousands of other lucky ones who, at first did not see the light of Truth and denounced him as demented, soon saw the light and embraced the Faith of Islam. They took the love and obedience of the Holy Prophet as the capital asset of success, prosperity and happiness.
 
+## AI Translation
+
+Your Lord alone knows best who has strayed from His Way and who is rightly guided.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, your Lord is the best Knower of him who has gone astray from His path, and He is the best Knower of those who are guided.) We have already discussed the special letters of the Arabic alphabet at the beginning of Surat Al-Baqarah.
+
+**Classical tafsir:** Ibn Kathir notes: This means that he would act according to the commands and the prohibition in the Qur'an.
+
+**From the Sunnah:** This Hadith has been recorded by Imam Ahmad through various routes of transmission. (Musnad Ahmad, Jami' at-Tirmidhi) "It has been mentioned to us that Sa'd bin Hisham asked 'A'ishah about the character of the Messenger of Allah ﷺ, so she replied: 'Have you not read the Qur'an?' Sa'd said: 'Of course.' Then she said: 'Verily, the character of the Messenger of Allah ﷺ was the… (Sahih Muslim)
 ## Personal Reflections
 
 

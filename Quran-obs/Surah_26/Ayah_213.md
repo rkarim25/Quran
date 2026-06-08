@@ -190,6 +190,17 @@ There is a hint in this verse that those who are bestowed with long life in this
 
 ` O the duped one! Your whole day is spent in negligence and the night in sleep, while death is inevitable for you. Neither you are awake among the alert and woken nor are you the one who will get salvation from among the sleepers. You keep endeavoring for things which will soon bring you unpleasant results. Cattle and animals live like this in the world'.
 
+## AI Translation
+
+So do not ever call upon any other god besides Allah, or you will be one of the punished.
+
+## AI Tafsir
+
+**What this ayah teaches:** There is a hint in this verse that those who are bestowed with long life in this world by Allah Ta’ ala, it is His grace on them.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Ask me for whatever you want of my wealth.) This was recorded by Muslim. (Sahih Muslim, Musnad Ahmad)
 ## Personal Reflections
 
 

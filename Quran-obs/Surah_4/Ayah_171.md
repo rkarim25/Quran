@@ -501,6 +501,19 @@ The Ideal Solution
 
 The Shari'ah of Islam has wisely shielded Muslims from falling into the trap of excess. The middle course in between the two extremes it has suggested is: Learn the Book of Allah (Kitabullah) from the Men of Allah (Rijalullah) and recognize the Men of Allah from the Book of Allah. In other words, one should first recognize those who are engaged in learning and communicating the true knowledge of the Qur'an and Sunnah through the all too well-known teachings of these twin sources of Islamic Faith. Once this is settled, no intricate problem relating to Qur'an and Sunnah will ever bother you - if you give precedence to their explanation above your own opinion, and follow them.
 
+## AI Translation
+
+O People of the Book! Do not go to extremes regarding your faith; say nothing about Allah except the truth. The Messiah, Jesus, son of Mary, was no more than a messenger of Allah and the fulfilment of His Word through Mary and a spirit from Him. So believe in Allah and His messengers and do not say, “Trinity.” Stop!—for your own good. Allah is only One Allah. Glory be to Him! He is far above having a son! To Him belongs whatever is in the heavens and whatever is on the earth. And Allah is sufficient as a Trustee of Affairs.
+
+## AI Tafsir
+
+**Context:** 2. Some commentators have said that the purpose behind the coming of Sayyidna ` Isa (علیہ السلام) was that he should infuse spiritual life into the dead hearts of people and make them alive once again (familiar as born-a…
+
+**What this ayah teaches:** Verily, I am only a servant, so say, 'Allah's servant and His Messenger.') This is the wording of Al-Bukhari.
+
+**Classical tafsir:** Ibn Kathir notes: It means that they had already been excessive in making their prophet a Allah, then they started worshipping later-day religious leaders in the name of following the prophet!
+
+**From the Sunnah:** Verily, I am only a servant, so say, 'Allah's servant and His Messenger.') This is the wording of Al-Bukhari. (Sahih al-Bukhari) he heard Shadh bin Yahya saying about Allah's statement,
 ## Personal Reflections
 
 

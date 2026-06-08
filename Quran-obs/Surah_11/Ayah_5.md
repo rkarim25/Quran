@@ -117,6 +117,15 @@ Behold their breasts did fold up." So I said: 'O Abu Al-'Abbas! What does "their
 
 The sixth verse carries a refutation of what the hypocrites and the disbelievers do. They try to camouflage their hostility, and their antagonistic activism against the Holy Prophet ﷺ as deftly as they could. Their hearts blaze with malice and enmity but they maintain a cool front, find all sorts of covers to hide their true identity and intention and surmise that no one would find out who they were really and what they were doing actually. But, the truth of the matter is that Allah Ta` ala knows it all, that which they let come out in the open and that which they conceal behind all sorts of clothes, covers and curtains: إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ‌ because, ` He is All Aware of [ even ] what lies in the hearts.'
 
+## AI Translation
+
+Indeed, they enfold what is in their hearts, trying to hide it from Him! But even when they cover themselves with their clothes, He knows what they conceal and what they reveal. Surely He knows best what is hidden in the heart.
+
+## AI Tafsir
+
+**Context:** (No doubt! They did fold up their breasts,) was revealed.'" In another wording of this narration, Ibn 'Abbas said, "There were people who used to be shy to remove their clothes while answering the call of nature in an op…
+
+**What this ayah teaches:** Surely, even when they cover themselves with their garments, He knows what they conceal and what they reveal. Their hearts blaze with malice and enmity but they maintain a cool front, find all sorts of covers to hide their true identity and intention and surmise that no one would find out who they were really and what they were doing actually.
 ## Personal Reflections
 
 

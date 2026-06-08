@@ -246,6 +246,17 @@ Surah As-Saff
 
 Ends here
 
+## AI Translation
+
+O believers: stand up for Allah, as Jesus, son of Mary, asked the disciples: 'Who will stand up with me for Allah?' The disciples replied: 'We will stand up for Allah.' Then a group from the Children of Israel believed while another disbelieved. We supported the believers against their enemies, and they prevailed.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then a group of the Children of Israel believed and a group disbelieved. They accepted the guidance that 'Isa brought to them, while another group, was led astray.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the Ummah of Muhammad ﷺ will always be prevalent on the truth until Allah's command (the Final Hour) commences, while they are on this path.
+
+**From the Sunnah:** Similarly, during the days of Hajj, Allah's Messenger ﷺ used to ask, Allah the Exalted and Most Honored raised Al-Aws and Al-Khazraj to support the Prophet ﷺ.
 ## Personal Reflections
 
 

@@ -172,6 +172,19 @@ Surah Al-Lail
 
 Ends here
 
+## AI Translation
+
+And soon he will be well pleased.
+
+## AI Tafsir
+
+**Context:** Many of the scholars of Tafsir have mentioned that these Ayat were revealed about Abu Bakr As-Siddiq. Some of them even mentioned that there is a consensus among the Qur'anic commentators concerning this.
+
+**What this ayah teaches:** The emancipated slaves had not done him any favour in the past, so that one could say that he was returning their favour. Therefore, this last verse of the Surah is a great and splendid news and honour for him given in this very world by Allah.
+
+**Classical tafsir:** Ibn Kathir notes: The emancipated slaves had not done him any favour in the past, so that one could say that he was returning their favour.
+
+**From the Sunnah:** Paradise, and whoever disobeys me, then he has refused.
 ## Personal Reflections
 
 

@@ -228,6 +228,17 @@ Now someone may doubt that a person who is acting in good faith, though in error
 
 However, a person who has striven his best in the quest of truth, yet failed to find the right path and true teaching, may be found excusable in the sight of Allah - as Imam al-Ghazali has said in his book, Al-Tafriqah Bayn al-Islam wa Al-zandaqah واللہ اَعلَم .
 
+## AI Translation
+
+He has guided some, while others are destined to stray. They have taken devils as their masters instead of Allah—thinking they are guided.
+
+## AI Tafsir
+
+**What this ayah teaches:** If this were true, then there would be no difference between the deviations of the misguided group - their belief that they are guided - and the group that is in fact guided.
+
+**Classical tafsir:** Ibn Kathir notes: In the third verse (30), it was said that there are people Allah has guided right while there are others who have provided the proof of their erroneous conduct, because they have, bypassing Allah, made satans their comrades, and they presume that they are on the right path.
+
+**From the Sunnah:** [21:104] This Hadith was collected in the Two Sahihs. I say, what supports this meaning, is the Hadith from Ibn Mas'ud that Al-Bukhari recorded, (that the Prophet ﷺ said:) (Sahih al-Bukhari)
 ## Personal Reflections
 
 

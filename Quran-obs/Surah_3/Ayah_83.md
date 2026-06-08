@@ -169,6 +169,17 @@ The verse implies that a person whom Allah invests with the Book, the Wisdom and
 
 In this, there is the necessary refutation of the Christians who claimed that it was Masih (علیہ السلام) who asked them to have belief in his sonship and godhead. Also chastised were the Muslims who had gone to the Holy Prophet . ﷺ trying to find out if it was all right for them to prostrate before him rather than greet him with the usual سلام salam. Also admonished were the people of the Book who had invested their rabbis and monks with the station of God. Refuge with Allah! (Tafsir ` Usmani)
 
+## AI Translation
+
+Do they desire a way other than Allah’s—knowing that all those in the heavens and the earth submit to His Will, willingly or unwillingly, and to Him they will be returned?
+
+## AI Tafsir
+
+**What this ayah teaches:** And to Allah prostrate all that is in the heavens and all that is in the earth, of the moving creatures and the angels, and they are not proud.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the faithful believer submits to Allah in heart and body, while the those who reject the truth unwillingly submits to Him in body only, since he is under Allah's power, irresistible control and mighty kingship that cannot be repelled or resisted.
+
+**From the Sunnah:** Therefore, faithful Muslims believe in every Prophet whom Allah has sent and in every Book He revealed, and never disbelieve in any of them. Also chastised were the Muslims who had gone to the Holy Prophet .
 ## Personal Reflections
 
 

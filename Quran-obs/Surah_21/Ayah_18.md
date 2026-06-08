@@ -142,6 +142,15 @@ Everything belongs to Allah and serves Him
 
 This verse explains that Allah has not created this marvelous universe with earth and the sky for amusement. This creation is the result of a carefully thought out plan which aims at distinguishing right from wrong. Observation of Nature's creations leads people along the righteous path and protects them from evil. This idea is conveyed in the verse by saying that virtue is hurled against evil and smashes its head so completely that it disappears without a trace.
 
+## AI Translation
+
+In fact, We hurl the truth against falsehood, leaving it crushed, and it quickly vanishes. And woe be to you for what you claim!
+
+## AI Tafsir
+
+**What this ayah teaches:** We created not the heavens and the earth and all that is between them for play (16)Had We intended to take a pastime, We could surely have taken it from Us, if We were going to do (that)(17)Nay, We fling the truth against the falsehood, so it destroys it, and behold, it disappears.
+
+**Classical tafsir:** Ibn Kathir notes: This verse explains that Allah has not created this marvelous universe with earth and the sky for amusement.
 ## Personal Reflections
 
 

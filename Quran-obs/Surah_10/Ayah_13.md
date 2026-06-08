@@ -104,6 +104,17 @@ Then he said: "Son of the mother of 'Umar, you have been appointed as Khalifah, 
 
 The subject of verse 12 has been emphasized from a different angle in verse 13. It has been said: Let no one miscalculate that punishment cannot come in this world just because Allah Ta` ala gives respite to those who deny and disbelieve. The history of past peoples shows that different kinds of punishments have visited them because of their contumacy and disobedience right here in this world. It is a different matter that Allah Ta` ala has promised that no mass punishment will come upon the Muslim ummah in consideration of the honor of Sayyidna Muhammad al-Mustafa ﷺ the foremost among prophets. But, it is in the face of this very merciful indulgence of Almighty Allah that people have become audacious enough to come forward and invite, even demand, Divine punishment. On the contrary, it is necessary to remember that indifference to Divine punishment is not proper under any condition even for them (Muslims). The reason is that the promise of not sending mass punishment upon the Muslim ummah, or the world as a whole, certainly stands there, but the coming of such punishment on particular individuals and nations is possible even now.
 
+## AI Translation
+
+We surely destroyed other peoples before you when they did wrong, and their messengers came to them with clear proofs but they would not believe! This is how We reward the wicked people.
+
+## AI Tafsir
+
+**What this ayah teaches:** And indeed, We destroyed generations before you when they did wrong, while their Messengers came to them with clear proofs, but they were not such as to believe! The history of past peoples shows that different kinds of punishments have visited them because of their contumacy and disobedience right here in this world.
+
+**Classical tafsir:** Ibn Kathir notes: It has been said: Let no one miscalculate that punishment cannot come in this world just because Allah Ta` ala gives respite to those who deny and disbelieve.
+
+**From the Sunnah:** It is a different matter that Allah Ta` ala has promised that no mass punishment will come upon the Muslim ummah in consideration of the honor of Sayyidna Muhammad al-Mustafa ﷺ the foremost among prophets. (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -220,6 +220,15 @@ Sayyidna ` Ali ؓ said, 'Cultivation is of two kinds. Wealth and children are th
 
 ` Ubaid ibn ` Umair ؓ said, 'Everlasting virtues are righteous daughters for they are, for their parents, the greatest treasure-troves of reward from Allah.' This is supported by a narration of Sayyidah ` A'ishah ؓ according to which the Holy Prophet ﷺ has been reported to have said, "I saw a man from my ummah under orders to be taken to Hell. Thereupon, his righteous daughters clung to him and started wailing and crying and plaintively supplicating: 0 Allah, spare him for he was very kind to us in the mortal world and he worked very hard to raise us in our family. Allah Ta` ala, in His mercy, forgave him. (Qurtubi)
 
+## AI Translation
+
+Beware of the Day We will blow the mountains away, and you will see the earth laid bare. And We will gather all humankind, leaving none behind.
+
+## AI Tafsir
+
+**What this ayah teaches:** And (remember) the Day We shall cause the mountains to pass away, and you will see the earth as a levelled plain, and We shall gather them so that We will leave not one of them behind (47)And they will be set before your Lord, aligned.
+
+**Classical tafsir:** Ibn Kathir notes: And (remember) the Day We shall cause the mountains to pass away, and you will see the earth as a levelled plain, and We shall gather them so that We will leave not one of them behind (47)And they will be set before your Lord, aligned.
 ## Personal Reflections
 
 

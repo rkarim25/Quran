@@ -137,6 +137,17 @@ Ibn Kathir has said that included under the sense of this verse are Muslims who,
 
 After that, in verse 107, questioned and deplored is their heedlessness and ignorance as to how could these people, despite their denial and rebellion, become so carefree of the possibility that there may come on them some punishment from Allah which overtakes them from all sides, or that the fateful Hour of the Day of Doom itself descends upon them all of a sudden while they are not ready for it?
 
+## AI Translation
+
+Do they feel secure that an overwhelming torment from Allah will not overtake them, or that the Hour will not take them by surprise when they least expect it?
+
+## AI Tafsir
+
+**What this ayah teaches:** After that, in verse 107, questioned and deplored is their heedlessness and ignorance as to how could these people, despite their denial and rebellion, become so carefree of the possibility that there may come on them some punishment from Allah which overtakes them from all sides, or that the fateful Hour of the Day of Doom itself descends upon them all of a sudden while they are not ready for it?…
+
+**Classical tafsir:** Ibn Kathir notes: Or that He may catch them in the midst of their going to and from, so that there be no escape for them (from Allah's punishment)?
+
+**From the Sunnah:** included under the sense of this verse are Muslims who, despite having 'Iman, are involved with different kinds of Shirk. (Sahih Muslim, Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

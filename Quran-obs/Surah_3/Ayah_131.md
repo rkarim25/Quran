@@ -212,6 +212,17 @@ The detailed rules regarding 'riba' and the philosophy underlying its prohibitio
 
 These words are used only to explain the factual position prevalent at that time, and to indicate its unjust and evil nature. Moreover, these words also suggest that even the interest charged is simple and not compound, yet once a person is engaged in the business of interest he does not stop at charging interest in one transaction only. Rather, he reinvests the income of interest in another loan transaction, and keeps investing the interest proceeds in similar transactions again and again, and thus the ultimate result is that the original interest charged through the first transaction is doubled and multiplied.
 
+## AI Translation
+
+Guard yourselves against the Fire prepared for those who reject the truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** Do not consume Riba doubled and multiplied, but fear Allah that you may be successful (130)And fear the Fire, which is prepared for the those who reject the truth (131)And obey Allah and the Messenger that you may obtain mercy (132)And march forth in the way (which leads to) forgiveness from your Lord, and for Paradise as wide as the heavens and the earth, prepared for the Muttaqin (the piou…
+
+**Classical tafsir:** Ibn Kathir notes: Allah also commands His servants to have Taqwa of Him so that they may achieve success in this life and the Hereafter.
+
+**From the Sunnah:** a man came to the Messenger of Allah ﷺ and asked him, about Allah's statement, This Hadith was recorded by Imam Ahmad, its chain of narration is good, it does not contain any disparraged narrators, and the meaning is good. (Musnad Ahmad)
 ## Personal Reflections
 
 

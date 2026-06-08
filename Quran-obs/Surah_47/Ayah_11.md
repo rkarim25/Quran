@@ -150,6 +150,17 @@ Ibn 'Abbas then said, "The worst of enemies is he who transgresses against Allah
 
 وَأَنَّ الْكَافِرِ‌ينَ لَا مَوْلَىٰ لَهُمْ (As for the disbelievers, there is no supporter them. - 47:11). The word for "mawla" is used in several different senses. One of its meanings is "protector" or "supporter". This is the sense in which it is used here. Another sense of the word is "owner/master". In Qur'an [ 10:30] we come across: وَرُ‌دُّوا إِلَى اللَّـهِ مَوْلَاهُمُ الْحَقِّ "They will be returned to Allah, their Master, the Truth" (10:30). In this phrase, Allah is called the "mawla" of the infidels, that is, their Master / Owner because the mastership / ownership of Allah extends over all - the believers as well as the non-believers; without any exclusion.
 
+## AI Translation
+
+This is because Allah is the protector of the mu'min, while those who reject the truth have no protector.
+
+## AI Tafsir
+
+**Context:** Ibn 'Abbas then said, "The worst of enemies is he who transgresses against Allah in His own sacred place, who kills a person who is not trying to kill him, or who kills because of Jahiliyyah vengeance.
+
+**What this ayah teaches:** Allah destroyed them completely, and a similar (awaits) the those who reject the truth (10)That is because Allah is the Protector of those who believe, whereas the those who reject the truth have no protector (11)Certainly Allah will admit those who believe and do righteous good deeds, into Gardens under which rivers flow (Paradise); while those who disbelieve enjoy their life and eat as cattle eat; but t…
+
+**Classical tafsir:** Ibn Kathir notes: Allah destroyed them completely,) which means that Allah punished them because of their denial and disbelief, and saved the believers from among them.
 ## Personal Reflections
 
 

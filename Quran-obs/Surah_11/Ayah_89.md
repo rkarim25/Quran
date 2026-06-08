@@ -160,6 +160,17 @@ verse of the Qur'an: تِسْعَةُ رَ‌هْطٍ يُفْسِدُونَ ف�
 
 During the Khilafah of Sayyidna ` Umar ibn ` Abd al-` Aziz (رح) ، someone was arrested while he was cutting a dirham coin. He was awarded a punishment of lashes and was paraded around head shaved. (Tafsir al Qurtubi)
 
+## AI Translation
+
+O my people! Do not let your opposition to me lead you to a fate similar to that of the people of Noah, or Hûd, or Ṣâliḥ. And the people of Lot are not far from you.
+
+## AI Tafsir
+
+**What this ayah teaches:** Let not my Shiqaq cause you to suffer the fate similar to that of the people of Nuh or of Hud or of Salih, and the people of Lut are not far off from you!
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "This means that they were only destroyed before you yesterday." It has also been said that it refers to place.
+
+**From the Sunnah:** There is a consensus of the entire Muslim Ummah that doing so is strictly Haram (unlawful). (Sahih Muslim)
 ## Personal Reflections
 
 

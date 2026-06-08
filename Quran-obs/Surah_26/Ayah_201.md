@@ -166,6 +166,15 @@ Urdu translation of Qur’ an is not allowed to be called Urdu Qur’ an
 
 If only the translation of the Qur'an is written in any language without the Arabic text, it cannot be called the Qur'an. Some people call the Urdu translation of the Qur'an as Urdu Qur'an, or the English translation of the Qur'an as English Qur'an. It is not right and amounts to disrespect of the Holy Book. Printing, calling or trading of something in the name of Qur'an, without the Arabic text of the Qur'an, is not permitted. This subject is dealt with in detail in my treatise (تحذیر الاخوان عن تغییر رسم القرآن)
 
+## AI Translation
+
+They will not believe in it until they see the painful punishment,
+
+## AI Tafsir
+
+**What this ayah teaches:** Then they will say: "Can we be respited?") means, when they see the punishment, then they will wish they had a little more time so that they can obey Allah – or so they claim. Instead the majority of Ummah believes that Qur'an is the name not only of its wordings but also of its meanings.
+
+**Classical tafsir:** Ibn Kathir notes: Then they will say: "Can we be respited?") means, when they see the punishment, then they will wish they had a little more time so that they can obey Allah – or so they claim.
 ## Personal Reflections
 
 

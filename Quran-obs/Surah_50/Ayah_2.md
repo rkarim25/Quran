@@ -191,6 +191,17 @@ Is it Possible to Observe the Heaven?
 
 أَفَلَمْ يَنظُرُ‌وا إِلَى السَّمَاءِ (Did they not, then, look to the sky above them? - 50:6). Apparently this sentence indicates that it is possible to see the sky, while the general impression is that the blue colour that we see above is the colour of the atmosphere, and not that of the heaven. However, there is no proof for non-existence of the sky, nor of the presumption that the colour of the heaven is not blue. Besides, the word nazar (seeing) used in the verse could mean perceiving through reason, that is, thinking, pondering etc. (Bayan-ul-Qur’ an)
 
+## AI Translation
+
+Yet those who deny are astonished that a warner from among themselves has come warning of resurrection. They say: This is something unbelievable!
+
+## AI Tafsir
+
+**What this ayah teaches:** So the those who reject the truth say: "This is a strange thing!")(3.
+
+**Classical tafsir:** Ibn Kathir notes: Some common people say that the Mufassal starts with Surah 'Amma An-Naba, (chapter 78), however, this is not true because none of the respected scholars ever supported this opinion.
+
+**From the Sunnah:** Paradise, the Fire, Allah's reward and punishment, lessons of encouragement, and lessons of discouragement. Al-'Awfi narrated that 'Abdullah bin 'Abbas commented on the statement of Allah the Exalted,
 ## Personal Reflections
 
 

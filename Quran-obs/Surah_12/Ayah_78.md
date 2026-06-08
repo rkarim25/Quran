@@ -102,6 +102,15 @@ When it was decided that Benyamin was to be taken and kept with Yusuf according 
 
 In verse 78, it was said: قَالُوا يَا أَيُّهَا الْعَزِيزُ إِنَّ لَهُ أَبًا شَيْخًا كَبِيرً‌ا فَخُذْ أَحَدَنَا مَكَانَهُ ۖ إِنَّا نَرَ‌اكَ مِنَ الْمُحْسِنِين . It means when the brothers of Sayyidna Yusuf (علیہ السلام) realized that nothing seems to be working here and they have no option left but to leave Benyamin behind, they started flattering the ` Aziz of Misr. They told him that Benyamin's father was very old and weak (his separation will be unbearable for him). Therefore, they requested him that he should detain anyone from among them, in lieu of him. They also told him that they were making that request to him in the hope that he, as they feel, appears to be a very generous person - or, he has been gener-ous to them earlier too.
 
+## AI Translation
+
+They appealed, “O Chief Minister! He has a very old father, so take one of us instead. We surely see you as one of the good-doers.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, he has an old father (who will grieve for him); so take one of us in his place. Therefore, they requested him that he should detain anyone from among them, in lieu of him.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, they requested him that he should detain anyone from among them, in lieu of him.
 ## Personal Reflections
 
 

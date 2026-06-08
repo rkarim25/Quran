@@ -159,6 +159,19 @@ Ha Meem- Only Allah knows its meaning.
 
 وَالْكِتَابِ الْمُبِينِ (By the manifest Book - 43:2) The book in this verse refers to the Holy Qur'an. Whenever Allah swears by anything, it is usually an argument for the statement that follows. Swearing by the Qur'an in this verse is an indication that the Qur'an, by virtue of being a miracle, is a proof in itself of its being a Divine Book. To call it a 'manifest book' means that its subjects consisting of exhortations and advices are easily understandable; but as far as deduction of the precepts of 'Shari'ah' is concerned, it certainly is a difficult job which cannot be performed without complete capability of 'ijtihad'. This point has been clarified in Surah Alqamar, verse 17 وَلَقَدْ يَسَّرْ‌نَا الْقُرْ‌آنَ لِلذِّكْرِ‌ فَهَلْ مِن مُّدَّكِرٍ‌ (And indeed We have made the Qur'an easy for seeking advice. So, is there one to seek advice? - 54-17). Here, it has been stated that the Qur'an is easy for obtaining advice. Hence, it does not necessarily follow that ijtihad and inferring injunctions will be easy also; rather, it is proved through other evidences that full expertise in related subjects is a necessary condition for this exercise.
 
+## AI Translation
+
+It is—in the Master Record with Us—highly esteemed, rich in wisdom.
+
+## AI Tafsir
+
+**Context:** (Ha-Mim. By the manifest Book.) means, plain and clear in both wording and meaning, because it was revealed in the language of the Arabs, which is the most eloquent language for communication among people.
+
+**What this ayah teaches:** Verily, We have made it a Qur'an in Arabic that you may be able to understand.)(4. Indeed, He sent it so that those who were decreed to be guided might be guided by it, and so that proof might be established against those who were decreed to be.
+
+**Classical tafsir:** Ibn Kathir notes: By the manifest Book.) means, plain and clear in both wording and meaning, because it was revealed in the language of the Arabs, which is the most eloquent language for communication among people.
+
+**From the Sunnah:** Consolation to the Prophet ﷺ for the Disbelief of Quraysh
 ## Personal Reflections
 
 

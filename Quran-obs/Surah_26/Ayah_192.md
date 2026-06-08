@@ -78,6 +78,17 @@ so they were seized by the torment of the Day of Canopy. - 26:189
 
 عَذَابُ يَوْمِ الظُّلَّةِ (the Torment of the Canopy), mentioned in this verse refers to an incident, which is this: Allah Ta’ ala sent down such an extreme heat on a people that they could not find comfort either inside the houses or outside. Then He sent down a mass of dark cloud over a nearby forest, under which there was a cool breeze. As the entire people were distressed due to excessive heat, they ran to take shelter under the cloud. When all of them assembled under the cover of the cloud, it rained fire instead of water. Thus the whole nation was burnt to ashes. (Ruh al-Ma’ ani)
 
+## AI Translation
+
+This is certainly a revelation from the Rabb of all worlds,
+
+## AI Tafsir
+
+**Context:** Here Allah tells us about the Book which He revealed to His servant and Messenger Muhammad ﷺ. (In the plain Arabic language.) meaning, 'this Qur'an which We have revealed to you, We have revealed in perfect and eloquent…
+
+**What this ayah teaches:** And truly, this is a revelation from the Lord of all that exists (192)Which the trustworthy Ruh (Jibril) has brought down (193)Upon your heart that you may be (one) of the warners (194)In the plain Arabic language .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

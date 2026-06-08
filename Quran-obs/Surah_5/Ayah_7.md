@@ -204,6 +204,17 @@ Muhammad bin Ishaq bin Yasar, Mujahid and 'Ikrimah said that this Ayah was revea
 
 Some injunctions of the Shariah concerning the conduct of worldly life, choices in marriage and food appeared in the previous verses. This verse mentions some injunctions relating to ` Ibadat, acts of worship like Salah, Wudu, Mash مسح ، Tayammum, Ghusl and Taharah
 
+## AI Translation
+
+Remember Allah’s favour upon you and the covenant He made with you when you said, “We hear and obey.” And live with taqwa toward Allah. Surely Allah knows best what is in the heart.
+
+## AI Tafsir
+
+**Context:** Muhammad bin Ishaq bin Yasar, Mujahid and 'Ikrimah said that this Ayah was revealed about Bani An-Nadir, who plotted to drop a stone on the head of the Messenger ﷺ when he came to them for help to pay the blood money of…
+
+**What this ayah teaches:** And remember Allah's favor to you and His covenant with which He bound you when you said: "We hear and we obey." And have Taqwa of Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Muhammad bin Ishaq bin Yasar, Mujahid and 'Ikrimah said that this Ayah was revealed about Bani An-Nadir, who plotted to drop a stone on the head of the Messenger ﷺ when he came to them for help to pay the blood money of two persons whom Muslims killed.
 ## Personal Reflections
 
 

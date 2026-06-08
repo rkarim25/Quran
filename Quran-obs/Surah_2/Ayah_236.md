@@ -136,6 +136,17 @@ The injunction related to the first two situations has been stated in the verses
 
 give something on his own to the woman -- the least being a set of clothes. In fact, the Holy Qur'an has not fixed any amount for this gift. However, it does indicate that the affluent should give in accordance with their capacity, which carries an element of persuasion for the man of means who should not behave tight-fisted in this act of grace. Sayyidna Hasan ؓ ، in a situation like this, gave a gift of twenty thousand dirhams to the divorced woman, and Qadi Shurayh, that of five hundred dirhams; and Sayyidna Ibn ` Abbas ؓ has said that the lowest degree here is to give one set of clothes. (Qurtubi)
 
+## AI Translation
+
+There is no blame if you divorce women before consummating or settling a dowry — but give them a suitable gift. The wealthy according to his means, the poor according to his. A reasonable gift is a duty on those who do good.
+
+## AI Tafsir
+
+**What this ayah teaches:** There is no sin on you, if you divorce women while yet you have not touched them, nor appointed for them their due (dowry).
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, Tawus, Ibrahim and Al-Hasan Al-Basri said that 'touched' (mentioned in the Ayah) means sexual intercourse. However, it does indicate that the affluent should give in accordance with their capacity, which carries an element of persuasion for the man of means who should not behave tight-fisted in this act of grace.
+
+**From the Sunnah:** that Allah's Messenger ﷺ married Umaymah bint Sharahil. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

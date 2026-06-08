@@ -140,6 +140,17 @@ After that appears the tersely-phrased sentence also mentioned above: (that he k
 
 In the last sentence of the verse, it was said: إِنَّ اللَّـهَ عَلِيمٌ قَدِيرٌ‌ (Surely, Allah is All-Knowing, All-Powerful). It means that from knowledge He knows everyone's age, and from power He does what He wills. If He wills, He can have a strong young man be overtaken by the signs of the worst part of old age, and should He so will, even a hundred-year old aged man could remain a strong youngman. All this lies within the power of that sole Being in whose divinity there is no partner or associate.
 
+## AI Translation
+
+Allah has created you, and then causes you to die. And some of you are left to reach the most feeble stage of life so that they may know nothing after having known much. Indeed, Allah is All-Knowing, Most Capable.
+
+## AI Tafsir
+
+**What this ayah teaches:** When one is made to reach its extreme stage, one is left with no functional strength, neither physical nor rational.
+
+**Classical tafsir:** Ibn Kathir notes: And Allah created you and then He will cause you to die; and among you there are some who are sent back to senility, so that they know nothing after having known (much).
+
+**From the Sunnah:** Thus Al-Bukhari, when commenting on this Ayah, reported a narration from Anas bin Malik that the Messenger of Allah ﷺ used to pray: (Sahih al-Bukhari)
 ## Personal Reflections
 
 

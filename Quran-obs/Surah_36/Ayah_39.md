@@ -170,6 +170,15 @@ The word: مَنَازِلَ (manazil) is the plural of: مَنزِل (manzil) a
 
 Relevant details have appeared in the commentary on Surah Yunus. It can be seen in Ma’ ariful-Qur'an, English, Volume IV, pages: 515-520. In this verse of Surah Yunus 10:5, the stages of the sun and the moon both have been mentioned: جَعَلَ الشَّمْسَ ضِيَاءً وَالْقَمَرَ‌ نُورً‌ا وَقَدَّرَ‌هُ مَنَازِلَ "[ He is the One who ] has made the sun a glow and the moon a light, and determined for it the stages - 10:5". The only difference is that the stages of the moon are identified through observation, while the stages of the sun are calculated mathematically. By saying: حَتَّىٰ عَادَ كَالْعُرْ‌جُونِ الْقَدِيمِ - (until it turned [ pale, curved and fine ] like an old branch of date-palm.- 36:39), described there is the state of the moon towards the end of the month when it recedes from the stage of the full moon to the extent that it transforms into the shape of a dried old bough bent like a bow. It is in consonance with the Arab surrounding that it has been likened to a dried bough of the date tree that assumes the shape of a crescent.
 
+## AI Translation
+
+As for the moon, We have ordained precise phases for it, until it ends up like an old, curved palm stalk.
+
+## AI Tafsir
+
+**What this ayah teaches:** That is the decree of the Almighty, the All-Knowing (38)And the moon, We have decreed for it stages, till it returns like the old dried curved date stalk (39)It is not for the sun to overtake the moon, nor does the night outstrip the day.
+
+**Classical tafsir:** Ibn Kathir notes: Dar'a' refers to the black sheep, i.e., the one whose head is black; the next three nights Zulam; then Hanadis, then Da'adi; then Mihaq, because of the absence of moonlight at the beginning of the month.
 ## Personal Reflections
 
 

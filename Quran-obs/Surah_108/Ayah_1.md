@@ -190,6 +190,17 @@ There are Traditions that describe the cleanness and sweetness of water of Kauth
 
 If the revelation of Surah Al-Kauthar is in response to the taunting of the heathens who called him 'abtar' because he had lost his sons, as explained earlier, this Surah comforts him. They used to say that when he would pass away, there shall be none to take his name on account of having no male offspring and his activities will cease. This Surah tells him that he has been granted Al-Kauthar and completely dismisses the reproach of his enemies, in that his lineage does not stop here in this world, but his spiritual lineage will continue till the Day of Gathering. His spiritual sons and daughters will outnumber the Ummahs of the previous Prophets. They will also enjoy the greatest respect and honor.
 
+## AI Translation
+
+We have given you, O Prophet, al-Kawthar—abundant good in this life and the next: honour, a lasting legacy, intercession, and a river in Paradise that those who mocked you will never reach.
+
+## AI Tafsir
+
+**Context:** Ibn 'Abbas, Mujahid, Sa'id bin Jubayr and Qatadah all said, "This Ayah was revealed about Al-'As bin Wa'il. Whenever the Messenger of Allah ﷺ would be mentioned (in his presence) he would say, 'Leave him, for indeed he i…
+
+**What this ayah teaches:** If the revelation of Surah Al-Kauthar is in response to the taunting of the heathens who called him 'abtar' because he had lost his sons, as explained earlier, this Surah comforts him.
+
+**Classical tafsir:** Ibn Kathir notes: So when he dies he will not be remembered.' Therefore, Allah revealed this Surah." Shamir bin 'Atiyah said, "This Surah was revealed concerning 'Uqbah bin Abi Mu'ayt." Ibn 'Abbas and 'Ikrimah have both said, "This Surah was revealed about Ka'b bin Al-Ashraf and a group of the those who reject the truth of the Qur… Because the word Al-Kawthar comes from the word Kathrah (abundance) and it (Al-Kawthar) lingui
 ## Personal Reflections
 
 

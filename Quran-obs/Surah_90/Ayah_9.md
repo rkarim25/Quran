@@ -300,6 +300,17 @@ Thus in the first instance man receives guidance from his own conscience. This i
 
 In sum, an ignoramus and heedless person, who denies the power of the Omnipotent, should look into his own being, he would be able to observe His attribute of perfect power and consummate wisdom. He should observe with his two eyes and confess with his tongue. He has been shown the two ways of good and evil; and of right and wrong so that he may choose between the two. Obviously, he should choose the good way. In his make-up, there exists the ability to take either way. All these bounties have not motivated man to attempt the steep course. Then the heedless man is warned that he should reflect on the clear proofs and arguments pertaining to Allah's Omnipotence, pertaining to the Day of Judgment, life after death and Reckoning, and believe in these articles of faith. This faith requires that man should be a source of benefit and comfort to others; he should abstain from hurting them; he should believe in Allah; he should amend his own conduct and think of reforming others also, so that, on the Day of Judgment, he may be among the people of the right hand, the inmates of Paradise, enjoying a happy recompense for what he has done in this life. The unfortunate ones who persistently denied the Truth shall be encircled by the Hell-fire. This theme has been taken up from this point onward to the end of the Surah. Failing to do a few of the good deeds have been [ selectively ] described in a unique style.
 
+## AI Translation
+
+A tongue and two lips—
+
+## AI Tafsir
+
+**What this ayah teaches:** Probably, this is the reason why the pair of lips is mentioned.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
+
+**From the Sunnah:** Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic. Ali bin Al-Husayn then said (to Sa'id), "Did you hear this from Abu Hurayrah?" Sa'id replied, "Yes." Then 'Ali bin Al-Husayn said to a slave boy that he owned who was the swiftest of his servants, "Call Mutarrif!" So when the slave was brought before him he sa… (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

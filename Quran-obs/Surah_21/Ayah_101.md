@@ -192,6 +192,19 @@ What Ibn Az-Zab'ari said was a serious mistake, because the Ayah was addressed t
 
 At that point Allah Ta` ala revealed the verse : إِنَّ الَّذِينَ سَبَقَتْ لَهُم مِّنَّا الْحُسْنَىٰ أُولَـٰئِكَ عَنْهَا مُبْعَدُونَ (Surely, those for whom the good (news) from Us has come earlier shall be kept far away from it. - 21:101) that is those for whom Our grace and good result is ensured will be kept away from Hell. And for the same Ibn al-Ziba` ra، Allah Ta` ala has revealed this Qur’ anic verse a. وَلَمَّا ضُرِ‌بَ ابْنُ مَرْ‌يَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ (43:57) that is when Ibn al-Ziba` ra put forward the example of Sayyidah Maryam (علیہا السلام) ، the people of his clan, Quraish, were overtaken by joy.
 
+## AI Translation
+
+Surely those for whom We have destined the finest reward will be kept far away from Hell,.
+
+## AI Tafsir
+
+**Context:** (while they abide in that which their own selves desire.) means, they will be safe from that which they fear, and they will have all that they love and desire.
+
+**What this ayah teaches:** Mujahid, 'Ikrimah and Qatadah said: "Its fuel." Ad-Dahhak said: "The fuel of Hell means that which is thrown into it." This was also the view of others.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid, 'Ikrimah and Qatadah said: "Its fuel." Ad-Dahhak said: "The fuel of Hell means that which is thrown into it." This was also the view of others. Zafir refers to their exhalation, and Shahiq refers to their inhalation.
+
+**From the Sunnah:** According to what I have heard, the Messenger of Allah ﷺ sat down one day with Al-Walid bin Al-Mughirah in the Masjid, and An-Nadr bin Al-Harith came and sat down with them. He said this to the Messenger of Allah ﷺ, who said:
 ## Personal Reflections
 
 

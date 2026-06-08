@@ -329,6 +329,17 @@ Included here, undoubtedly, is the person who intentionally rejects the belief t
 
 This is why Muslim jurists, رحمہم اللہ have said that this is a severe warning to those who do not perform Hajj inspite of having the means and the ability to do so and thus, by this heedless act of theirs, they become the likes of disbelievers. Let us seek refuge with Allah from such a fate.
 
+## AI Translation
+
+In it are clear signs and the standing-place of Abraham. Whoever enters it should be safe. Pilgrimage to this House is an obligation by Allah upon whoever is able among the people. And whoever disbelieves, then surely Allah is not in need of creation.
+
+## AI Tafsir
+
+**What this ayah teaches:** The few pebbles left belong to those unfortunate people whose pilgrimage is not accepted by Allah.
+
+**Classical tafsir:** Ibn Kathir notes: It was also said that Makkah was called Bakkah because people do Buka next to it, meaning they gather around it.
+
+**From the Sunnah:** It is not allowed for anyone to hunt in the Haram or to drive game out of its den to be hunted, or cut the trees in its vicinity, or pick its grass, as the Hadiths of the Prophet ﷺ and the statements of the Companions testify. (Sahih Muslim) Al-'Abbas said, 'Except the lemon grass, O Allah's Messenger, as they use it in their houses and graves.' The Prophet ﷺ said:
 ## Personal Reflections
 
 

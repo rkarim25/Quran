@@ -148,6 +148,15 @@ If We so will, We can send down to them a sign from the sky before which their n
 
 Allamah Zamakhshari has explained that the real intent of the text is to say that the disbelievers themselves will stay in submission, but the act of submission is attributed in the verse to their "necks", so that the initial object of submission is pinpointed, because yielding or bowing in humility initially appears on the neck. The substance of the message of this verse is that Allah Ta’ ala also has full authority and control to evince any sign of His Oneness and Omnipotence which brings forth the religious injunctions and the Divine Truth in such a self-evident manner that no one would have the ability to reject it. But the wisdom demands that these injunctions and the understanding of God are not made self-evident but remain visionary, so that they are dependent on deliberations and pondering. This pondering and deliberation is actually the test of man on which the reward and punishment is adjudged. Acceptance of self-evident things is a natural and involuntary phenomenon which lacks the quality of deliberate obedience. (Qurtubi)
 
+## AI Translation
+
+Whatever new reminder comes to them from the the Rahman — mercy that encompasses all creation in this life, they always turn away from it.
+
+## AI Tafsir
+
+**What this ayah teaches:** And never comes there unto them a Reminder as a recent revelation from the ar-Rahman, but they turn away therefrom.)(6. If We will, We could send down to them from the heaven a sign, to which they would bend their necks in humility.)(5.
+
+**Classical tafsir:** Ibn Kathir notes: Abu Al-'Aliyah, Qatadah, Ar-Rabi' bin Anas and Ibn Ishaq said: "He is Almighty in His punishment of those who went against His commands and worshipped others besides Him." Sa'id bin Jubayr said: "He is ar-Rahim towards those who repent to Him and turn to Him."
 ## Personal Reflections
 
 

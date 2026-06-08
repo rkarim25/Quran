@@ -173,6 +173,15 @@ After that, mention has been made of the punishment of hostile deniers of the tr
 
 2. The second doubt expressed by the deniers of the Holy Prophet ﷺ was: 'If you are, in reality, the prophet and messenger of Allah, then, the warnings of punishments you announce against the opponents of prophets should materialize - why is it that this punishment would not come? The answer given appears in the next verse in the following words:
 
+## AI Translation
+
+If anything should amaze you, it is their question: when we are dust, will we really be raised anew? They are the ones who reject their Rabb. Shackles await their necks, and the Fire will be their lasting home.
+
+## AI Tafsir
+
+**What this ayah teaches:** The second doubt expressed by the deniers of the Holy Prophet ﷺ was: 'If you are, in reality, the prophet and messenger of Allah, then, the warnings of punishments you announce against the opponents of prophets should materialize - why is it that this punishment would not come?
+
+**Classical tafsir:** Ibn Kathir notes: Certainly, far more surprising is their statement: 'Is it that, once we are dead, we shall be created anew?' The Holy Qur’ an has not spelled out the reason for this 'wonder' explicitly because, in the previous verses, by describing the wondrous manifestations of the most perfect…
 ## Personal Reflections
 
 

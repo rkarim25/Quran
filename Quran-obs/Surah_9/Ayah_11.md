@@ -91,6 +91,15 @@ We explained these meanings before, as well as, the meaning of,
 
 At the end of verse 11, the text stresses upon the need to abide by given injunctions, regarding those covered under a treaty and those who have repented, by saying: وَنُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَعْلَمُونَ (And We elaborate the verses for people who understand).
 
+## AI Translation
+
+But if they repent, perform salah, and pay zakat, then they are your brothers in faith. This is how We make the revelations clear for people of knowledge.
+
+## AI Tafsir
+
+**What this ayah teaches:** It is they who are the transgressors (10)But if they repent, perform the Salah and give the Zakah, then they are your brethren in religion.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

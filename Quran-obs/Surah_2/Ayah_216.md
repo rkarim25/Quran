@@ -188,6 +188,17 @@ This verse carries the injunction relating to the general call of Jihad mentione
 
 3. It is not correct for one who has a debt to pay to take part in this Fard Kifayah فرض علی الکفایہ until such time that he clears his debt off. But, should there come a time when, either due to a general call for Jihad or an aggressive encirclement of Muslims by the disbelievers, Jihad becomes Fard ` Ayn فرضِ عین ، an absolute obligation on all, then, no condition such as that of the permission of parents or of the husband or of the creditor remains operative. Towards the end of this verse, it is as a mode of persuasion that Jihad has been identified as something which may, temperamentally, appear 'hard' but one must remember that human intelligence and effort fails so many times when it comes to the outcome. It is not at all surprising that the most intelligent person around may take the beneficial to be harmful and vice versa. If everyone was to look back into the events of his or her life, it will be noticed right there that there was something they were going after as beneficial turned out ultimately to be very harmful, or there was something they were avoiding as harmful which later on proved to be very beneficial. This scenario of human reasoning and planning failing time and again is a matter of repeated experience, therefore, it was said that fighting in the way of Allah may obviously appear to be a loss of life and property, yet the time will come when realities will be unveiled and we shall find out that this loss was no loss, instead, it was the ultimate in gain, and a source of eternal peace.
 
+## AI Translation
+
+Fighting has been ordained for you though you dislike it. Perhaps you dislike something that is good for you, and love something that is bad for you. Allah knows and you do not know.
+
+## AI Tafsir
+
+**What this ayah teaches:** Hence, one might covet something, yet in reality it is not good or beneficial for him, such as refraining from joining the Jihad, for it might lead to the enemy taking over the land and the government.
+
+**Classical tafsir:** Ibn Kathir notes: Explanation in brief: Verse 216 establishes the obligatory nature of Jihad even though it may be burdensome for some temperaments.
+
+**From the Sunnah:** Fighting is ordained for you (Muslims) though you dislike it, and it may be that you dislike a thing which is good for you and that you like a thing which is bad for you. In this Ayah, Allah made it obligatory for the Muslims to fight in Jihad against the evil of the enemy who transgress against Islam.
 ## Personal Reflections
 
 

@@ -106,6 +106,17 @@ Sayyidna Hasan Basri رحمۃ علیہ reports that when Sayyidna ` Umar ؓ went
 
 Many faces on that day will be humbled, 'working hard, exhausted. [ 88:2-3] '
 
+## AI Translation
+
+Some faces that Day will be downcast,
+
+## AI Tafsir
+
+**What this ayah teaches:** This verse describes the faces of the unbelievers. Therefore, Qurtubi and other commentators are of the view that the humbleness of their faces relates to the Hereafter, but their working hard and being exhausted refers to their work in this world.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, Qurtubi and other commentators are of the view that the humbleness of their faces relates to the Hereafter, but their working hard and being exhausted refers to their work in this world.
+
+**From the Sunnah:** It has already been mentioned on the authority of An-Nu'man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A'la (87) and Al-Ghashiyah in the 'Id and Friday prayers. (Sahih Muslim, Sunan Abi Dawud)
 ## Personal Reflections
 
 

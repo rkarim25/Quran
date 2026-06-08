@@ -149,6 +149,19 @@ Several Prophetic Traditions and statements of the Companions narrate that this 
 
 It is reported in Muqatil's narration that when this Surah was revealed, the Holy Prophet ﷺ recited it in a gathering of the blessed Companions, among whom were Sayyidna Abu Bakr, ` Umar, Sa'd Ibn Abi Waqqas ؓ . All were happy at the revelation of this Surah, because it contained the glad tidings of the Conquest of Makkah, but Sayyidna ` Abbas ؓ began to weep. The Holy Prophet ﷺ asked him the reason for weeping, and he replied that it covertly conveys the termination of your life and nearness of your death. The Holy Prophet ﷺ confirmed this. Sahih of Bukhari records a similar explanation of this Surah given by Sayyidna Ibn ` Abbas رضی اللہ تعالیٰ عنہما in which there is the addition that when Sayyidna ` Umar رضی اللہ تعالیٰ عنہ heard this, he concurred with him and said: 'I do not know anything about it other than what you [ Ibn ` Abbas ] have said'. [ Transmitted by Tirmidhi who graded it as hasan, Sahih vide Qurtubi ]
 
+## AI Translation
+
+When Allah's decisive help arrives and victory becomes visible—not the small wins of ego, but the opening you could not manufacture yourself—
+
+## AI Tafsir
+
+**Context:** According to the consensus of scholars, this Surah was revealed in Madinah. Its other name is Surah At-Tawdi`. The word Tawdi` means 'to bid farewell'.
+
+**What this ayah teaches:** The expression 'victory' here is in reference to 'the promised Victory or Conquest of Makkah'.
+
+**Classical tafsir:** Ibn Kathir notes: The phrase idha ja'a [ when there comes ] apparently indicates that its revelation took place before the Conquest.
+
+**From the Sunnah:** This Surah Informs of the Completion of the Life of Allah's Messenger (ﷺ) Then he ('Umar) said to me, 'Is this what you say, O Ibn 'Abbas?' I said, 'No.' He then said, 'What do you say?' I said, 'It was the end of the life of Allah's Messenger ﷺ that Allah was informing him of.
 ## Personal Reflections
 
 

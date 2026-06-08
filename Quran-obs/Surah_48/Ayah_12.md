@@ -132,6 +132,17 @@ Related Considerations
 
 Reference in this passage is to those Bedouin tribes who were invited by Allah's Messenger ﷺ to join the party of 1400 Muslims who were marching to Hudaibiyah but on one pretext or another, they requested to be excused. This was narrated in part [ 1] of the story of Hudaibiyah. According to some versions, some of those people later repented and became sincere Muslims.
 
+## AI Translation
+
+The truth is you thought the Messenger and the mu'min would never return to their families. That thought was made to look attractive in your hearts, you harboured evil assumptions about Allah, and you became a doomed people.
+
+## AI Tafsir
+
+**What this ayah teaches:** Nay, but Allah is Aware of what you do (11)Nay, but you thought that the Messenger and the believers would never return to their families, and that was made fair seeming in your hearts, and you did think an evil thought and you became a Bura.
+
+**Classical tafsir:** Ibn Kathir notes: They asked the Messenger of Allah ﷺ to invoke Allah to forgive them, not because they had faith in the Prophet ﷺ and his invocation, but to show off and pretend.
+
+**From the Sunnah:** Allah informs His Messenger ﷺ of the excuses that the bedouins who lagged behind would offer him, those bedouins who preferred to remain in their homes and possessions and did not join the Messenger of Allah ﷺ.
 ## Personal Reflections
 
 

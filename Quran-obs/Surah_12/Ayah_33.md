@@ -191,6 +191,17 @@ Here, the statement of Sayyidna Yusuf (علیہ السلام) that ` the prison 
 
 As for the saying of Sayyidna Yusuf (علیہ السلام) : ` And unless you do not turn their guile away from me, I shall get inclined towards them,' this is not contrary to the concept of the ` Ismah of prophethood (a prophet's state of being Divinely protected from sin) - because the very outcome of ` Ismah is that Allah Ta ala would, by arranging to keep a person safe from sin as a creational imperative, protect him from falling into it. Though Sayyidna Yusuf (علیہ السلام) had this desired cover by virtue of his being a prophet, yet he was compelled to make this du' because of the great awe he had for Him in his heart. This also tells us that no one can, without the help and support of Allah Ta ala, stay safe from sin. And it also makes it clear that every act of sin is caused by ignorance (jahalah), the opposite of which is knowledge ( ‘ilm), and ` Ilm (knowledge) demands abstention from sins. (Qurtubi)
 
+## AI Translation
+
+Joseph prayed, “My Rabb! I would rather be in jail than do what they invite me to. And if You do not turn their cunning away from me, I might yield to them and fall into ignorance.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Unless You turn away their plot from me, I will feel inclined towards them and be one of the ignorant. And unless You turn their guile away from me, I shall get inclined towards them and shall be among the ignorant.
+
+**Classical tafsir:** Ibn Kathir notes: This indicates the best and most perfect grade in this case, for Yusuf was youthful, beautiful and full of manhood.
+
+**From the Sunnah:** An authentic Hadith stated that the Messenger of Allah passed ﷺ by Prophet Yusuf, during the Night of Isra' in the third heaven and commented, (authentic hadith)
 ## Personal Reflections
 
 

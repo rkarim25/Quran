@@ -146,6 +146,17 @@ Punishment in graves
 
 This verse is a proof of punishment in graves. Uninterrupted reports of ahadith and the consensus (ijma) of the Muslim Ummah confirm it. This humble writer has put together all such material, along with relevant verses from the Qur'an, in a regular treatise entitled: السبر بعذاب القبر As-sabr bi'adhabi-l-qabr. This treatise has been published in Arabic as part of Ahkam-ul-Qur'an.
 
+## AI Translation
+
+When they dispute in the Fire, the lowly followers will appeal to the arrogant leaders: "We were your dedicated followers—will you then shield us from a portion of the Fire?"
+
+## AI Tafsir
+
+**What this ayah teaches:** The Dispute of the People of Hell Allah tells us how the people of Hell will dispute and argue with one another, and Fir'awn and his people will be among them. And speak you not to Me!)(23:108), so they will ask the keepers of Hell, who are like jailers watching over the people of Hell, to pray to Allah to lessen the Fire for them if only for one day.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Uninterrupted reports of ahadith and the consensus (ijma) of the Muslim Ummah confirm it. (Sahih Muslim)
 ## Personal Reflections
 
 

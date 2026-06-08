@@ -168,6 +168,17 @@ All these virtues were already part of the habits and traits of the Holy Prophet
 
 "He was always cheerful, naturally obliging, gentle. Neither impolite, nor rude, he was not clamorous or immodest and no faultfinder and no miser. He would remain indifferent to what he did not like, yet would not make others become distracted from it (if halal and desirable to have) and would not say anything that would stop others from having what he did not want (instead, would observe silence). There were three things he had left out for good: (1) Disputation, (2) Arrogance and (3) Indulgence with what was unnecessary, not worth doing.
 
+## AI Translation
+
+Walk with moderation. Lower your voice, for the harshest of voices is the braying of donkeys.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, the harshest of all voices is the braying of the asses.
+
+**Classical tafsir:** Ibn Kathir notes: And whosoever does evil equal to the weight of a speck of dust shall see it.)(99:7-8) Even if this tiny thing were to be hidden inside a solid rock or anywhere in the heavens and the earth, Allah will bring it forth, because nothing is hidden from Him, not even the weight of a sp…
+
+**From the Sunnah:** Likening a loud voice to that of a donkey implies that it is forbidden and extremely blameworthy, because the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

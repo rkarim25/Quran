@@ -225,6 +225,17 @@ Of the glad tidings given to those who repent and seek forgiveness, the second a
 
 A promise was made of Good Life, both in Dunya and Akhirah, in the first sentence, and of everlasting blessings of Paradise, in the second. After that, it was said: وَإِن تَوَلَّوْا فَإِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ كَبِيرٍ‌ (And if you turn away, then, I fear for you the punishment of a great day). That is: ` If you turn away from the good counsel given to you, fail to seek forgiveness for your past sins, and fail to remain safe against sins in the future, then, there is a strong likelihood that you will be seized by the punishment of a great day'. It refers to the day of Qiyamah for it would be a day of one thousand years and, also in terms of what ominous things would transpire in it, it will be the gravest.
 
+## AI Translation
+
+And seek your Rabb — the One who creates, owns, nurtures, and sustains’s forgiveness and turn to Him in repentance. He will grant you a good provision for an appointed term and graciously reward the doers of good. But if you turn away, then I truly fear for you the torment of a formidable Day.
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you but We revealed to him (saying): There is no Allah but I, so worship Me.)[21:25] It is similar to Allah's statement,
+
+**What this ayah teaches:** Put simply, the sense is that Allah Ta` a1a shall bless every doer of good deed with His grace, that is, Paradise.
+
+**Classical tafsir:** Ibn Kathir notes: It refers to the day of Qiyamah for it would be a day of one thousand years and, also in terms of what ominous things would transpire in it, it will be the gravest.
 ## Personal Reflections
 
 

@@ -136,6 +136,17 @@ As for the good news in this world, the Holy Prophet ﷺ said, `(they are) the t
 
 Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. About it, the Holy Prophet ﷺ said: تِلکَ عَاجِلُ بشرَی المؤمِن that is, ` being taken as good and praiseworthy is, for a true Muslim, good news in ready cash.' (Muslim and al-Baghawi)
 
+## AI Translation
+
+They argued, “Have you come to turn us away from the faith of our forefathers so that the two of you may become supreme in the land? We will never believe in you!”
+
+## AI Tafsir
+
+**What this ayah teaches:** As for the good news of the Hereafter, it will come at the time of death when the spirit of the deceased will be taken to Allah. Then, on the day of Qiyamah, when he rises from his grave, he will receive the good news of being welcome to Paradise.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. (Sahih Muslim)
 ## Personal Reflections
 
 

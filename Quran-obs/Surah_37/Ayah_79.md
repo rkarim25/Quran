@@ -90,6 +90,17 @@ This was also recorded by At-Tirmidhi. What is meant here by Romans is the origi
 
 In verses 78 and 79, it was said: وَتَرَ‌كْنَا عَلَيْهِ فِي الْآخِرِ‌ينَ سَلَامٌ عَلَىٰ نُوحٍ فِي الْعَالَمِينَ (And We left for him (a word of praise) among the later people, (that is): Salam be on Nuh (علیہ السلام) among [ the people on all the worlds.). It means that, in the sight of those who were born after Sayyidna Nuh (علیہ السلام) he was made so revered that they would continue praying for his peace and well-being right through the last day of the Qiyamah. As such, this is how it actually happened. All religions with attribution to Divine Scriptures subscribe to the mission of Sayyidna Nuh (علیہ السلام) as a prophet and hold him in great reverence. In addition to Muslims, even Jews and Christians regard him as being their spiritual leader.
 
+## AI Translation
+
+"Peace be upon Noah among all peoples."
+
+## AI Tafsir
+
+**What this ayah teaches:** What is meant here by Romans is the original Romans, i.e., the Greeks who claimed descent from Ruma (Roma) the son of Liti, the son of Yunan, the son of Yafith, the son of Nuh, peace be upon him. He stayed among them for one thousand years less fifty, and after he stayed among them for so long and their disbelief became too much for him to bear – for every time he called them, they turned away fro…
+
+**Classical tafsir:** Ibn Kathir notes: He stayed among them for one thousand years less fifty, and after he stayed among them for so long and their disbelief became too much for him to bear – for every time he called them, they turned away from him even more – he prayed to his Lord saying, "I have been overcome, so he…
+
+**From the Sunnah:** In addition to Muslims, even Jews and Christians regard him as being their spiritual leader.
 ## Personal Reflections
 
 

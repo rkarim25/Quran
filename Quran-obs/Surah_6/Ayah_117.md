@@ -96,6 +96,15 @@ The gist of the advice is that he should not be impressed by their numerical maj
 
 ` Surely, your Lord knows best those who go astray from His way, and He is the best knower of those who are on the right path (consequently, as the errants shall be punished, the people of the straight path shall be rewarded).
 
+## AI Translation
+
+Indeed, your Rabb knows best who has strayed from His Way and who is guided.
+
+## AI Tafsir
+
+**What this ayah teaches:** It is He Who knows best who strays from His way, and He knows best the rightly guided . They follow nothing but whims, and they do nothing but make conjectures.' The gist of the advice is that he should not be impressed by their numerical majority as a model to follow because they lack principles and go off the right way: At the end of the verse (117), it was said: ` Surely, your Lord knows best t…
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the address made to the Holy Prophet ﷺ was: And if you obey the majority of those on earth, they will make you lose the way of Allah.
 ## Personal Reflections
 
 

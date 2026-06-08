@@ -94,6 +94,15 @@ The text then says: قَدْ فَصَّلْنَا الْآيَاتِ لِقَو�
 
 The word: فَصَّلْنَا (Fassalna: We have made elaborate) is from: تَفصِیل (tafsil) which basically means to describe a subject by analysing it unit by unit. This way comprehending the subject becomes easy. Therefore, the outcome of tafsil is to explain explicitly. So, the sense comes to be: ` We have stated matters of principle explicitly and in details in which there remains no brevity or ambiguity.' After that, by saying: (for people who accept the advice), it was pointed out that, though these statements of the Qur'an are clear, but benefit from them has been derived only by those who ponder over the Qur'an to seek good counsel honestly, that is, doggedness, inherent resistance, opinionatedness, a priori hostility or the barriers of blind adherence to or following of ancestral customs do not come in between as walls.
 
+## AI Translation
+
+That is your Rabb’s Path—perfectly straight. We have already made the signs clear to those who live with taqwa.
+
+## AI Tafsir
+
+**What this ayah teaches:** And this is the path of your Lord leading straight.
+
+**Classical tafsir:** Ibn Kathir notes: Allah described Paradise as 'the abode of peace', because its residents are safe due to their access to the straight path, which conforms to the way of the Prophets.
 ## Personal Reflections
 
 

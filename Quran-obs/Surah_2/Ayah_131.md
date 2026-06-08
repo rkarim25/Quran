@@ -174,6 +174,17 @@ A man keeps doing the kind of good deeds for which Paradise has been promised an
 
 We have said that there is no contradiction involved, for some texts of this hadith mention a proviso too - "as it appeared to people." That is to say, the first of these two men appeared in the eyes of the onlookers to be performing good deeds, while in fact he was doing just the opposite; similarly, the second man had from the outset been doing what would make him worthy of Paradise, though people thought him to be a sinner. (Ibn Kathir) We conclude this discussion with the remark that the man who has been steadfast in doing good deeds, should trust the divine promise, rely on the usual way of Allah with His creatures, and hope that through the grace of Allah he would depart from this world in this blessed state.
 
+## AI Translation
+
+When his Rabb said to him, "Submit," he said, "I submit to the Rabb of all that exists — al-alamin, every realm of creation."
+
+## AI Tafsir
+
+**Context:** Abu Al-'Aliyah and Qatadah said, "This Ayah (2:130) was revealed about the Jews who invented a practice that did not come from Allah and that defied the religion of Ibrahim." Allah's statement,
+
+**What this ayah teaches:** We have said that there is no contradiction involved, for some texts of this hadith mention a proviso too - "as it appeared to people." That is to say, the first of these two men appeared in the eyes of the onlookers to be performing good deeds, while in fact he was doing just the opposite; similarly, the second man had from the outset been doing what would make him worthy of P…
+
+**Classical tafsir:** Ibn Kathir notes: This means that these Prophets loved these words so much that they preserved them until the time of death and advised their children to adhere to them after them.
 ## Personal Reflections
 
 

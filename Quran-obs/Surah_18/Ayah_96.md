@@ -284,6 +284,17 @@ The source of the second argument is the Hadith of Tirmidhi and the Musnad of Ah
 
 In short, there is no clear and definite proof in the Qur’ an and Sunnah that goes on to establish that the Wall of Dhul-Qarnain will remain standing right through the last day of Qiyamah. Or, their elementary and insignificant attacks against the human population on this side will not be possible. However, in all certainty, the time of that horrific and devastating onslaught which will destroy the entire human population will be but close to the Qiyamah as has been mentioned repeatedly. To sum up, it can be said that based on the textual authority (nusus) of the Qur'an, and Sunnah, it is not possible to give an absolute verdict that the Wall against the Ya'juj and Ma'juj has disintegrated leaving the passage open. Nor can it be said that, according to the Qur'an, and Sunnah, it is necessary that it survives up to the Qiyamah. Both probabilities exist. And Pure and High is Allah who knows reality best.
 
+## AI Translation
+
+Bring me blocks of iron!” Then, when he had filled up the gap between the two mountains, he ordered, “Blow!” When the iron became red hot, he said, “Bring me molten copper to pour over it.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Located in between this mountain range is the 'Wall of Alexander.' It is situated in the middle of the ninth part of the seventh kingdom as we have identified earlier and the Qur'an too informs us about it.
+
+**Classical tafsir:** Ibn Kathir notes: And as for the statement of the Qur'an, that is, no hole can be made in this Wall, it refers to the time when Dhul-Qarnain had made it.
+
+**From the Sunnah:** It has been reported in the Sahih of Muslim and in all books of Ahadith recognized for their authenticity. (Sahih Muslim) And Allah is, in my absence, the guardian and protector of all Muslims. (Sahih Muslim)
 ## Personal Reflections
 
 

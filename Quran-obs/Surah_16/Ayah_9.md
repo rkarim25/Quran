@@ -121,6 +121,15 @@ But, counter to this, people have preferred to go by other crooked ways. It is u
 
 After that it was said that Allah Ta’ ala, if He had so willed, would have made all of them to (compulsively) be on the right path. Had He done so, it was within His power. But, wisdom and expedient considerations required that there be no compulsion. Let the two paths be before everyone. Whoever elects to take whichever path should be free to take it. Everyone goes his or her way. The Straight Path (al-Sirat al-Mustaqim) will take people to Allah Ta’ ala and Jannah (Paradise). As for other crooked ways, they will take people to Jahannam (Hell). Human beings have been given the power to choose whichever path they wish to take.
 
+## AI Translation
+
+It is upon Allah alone to clearly show the Straight Way. Other ways are deviant. Had He willed, He would have easily imposed guidance upon all of you.
+
+## AI Tafsir
+
+**What this ayah teaches:** After that it was said that Allah Ta’ ala, if He had so willed, would have made all of them to (compulsively) be on the right path.
+
+**Classical tafsir:** Ibn Kathir notes: And it is for this that He did create them; and the Word of your Lord has been fulfilled (i.e.
 ## Personal Reflections
 
 

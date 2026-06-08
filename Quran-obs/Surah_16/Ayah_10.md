@@ -98,6 +98,15 @@ The word: شَجَر (shajar) in verse 10: مِنْهُ شَجَرٌ‌ فِيه
 
 The last word: (tusimun) is a derivation from isamah which means to leave cattle to graze freely in a pasture.
 
+## AI Translation
+
+He is the One Who sends down rain from the sky, from which you drink and by which plants grow for your cattle to graze.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Blessings of Rain, and explaining how it is one of the Signs When Allah mentions the blessings of cattle and other animals that He has granted mankind, He then mentions how He has blessed them by sending rain down from the sky above, which has been fulfilling the needs and bringing joy to people and their cattle.
+
+**Classical tafsir:** Ibn Kathir notes: The last word: (tusimun) is a derivation from isamah which means to leave cattle to graze freely in a pasture.
 ## Personal Reflections
 
 

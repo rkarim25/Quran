@@ -167,6 +167,17 @@ In his Musnad, Abu Bakr 'Abdullah bin Az-Zubayr Al-Humaydi recorded from Abu Har
 
 هُمُ الَّذِينَ يَقُولُونَ لَا تُنفِقُوا عَلَىٰ مَنْ عِندَ رَ‌سُولِ اللَّـهِ حَتَّىٰ يَنفَضُّوا (They are the ones who say, “ Do not spend on those who are with Allah’ s Messenger, so that they disperse…63:7). This verse points out to the foolish statement that Ibn Ubayy had made at the time of the dispute between Jahjah, the Emigrant, and Sinan, the Helper. Allah Ta’ ala has responded to it that these foolish people have presumed that the Emigrants need their donations and they are their sustainers, while all treasures of heavens and the earth belong to Allah. If He will, He can provide to them everything without any contribution from their side. Since the statement made by Ibn Ubayy was an evidence of his foolishness, the Holy Qur’ an states لَا یَفقَھونَ “…but the hypocrites do not understand [ 7].”
 
+## AI Translation
+
+They say to one another: 'Do not spend on those with the Messenger of Allah so they will break away from him.' Yet to Allah alone belong the treasuries of the heavens and the earth, but the hypocrites do not comprehend.
+
+## AI Tafsir
+
+**Context:** Several of the Salaf mentioned that this entire passage was revealed in the case of 'Abdullah bin Ubay bin Salul, as we will soon mention, Allah willing and our trust and reliance are on Him.
+
+**What this ayah teaches:** He will not enter it until you say so." The Messenger ﷺ gave his permission to 'Abdullah bin Ubay and his son said, "Enter, now that the Messenger of Allah ﷺ gave you his permission." In his Musnad, Abu Bakr 'Abdullah bin Az-Zubayr Al-Humaydi recorded from Abu Harun Al-Madani that 'Abdullah, the son of 'Abdullah bin Ubay bin Salul, said to his father, "You will never enter Al-M…
+
+**Classical tafsir:** Ibn Kathir notes: Go back so that Allah's Messenger ﷺ asks Allah to forgive you.' He said, 'By Allah, I do not wish that he ask Allah to forgive me.'" Qatadah and As-Suddi said, "This Ayah was revealed about 'Abdullah bin Ubay.
 ## Personal Reflections
 
 

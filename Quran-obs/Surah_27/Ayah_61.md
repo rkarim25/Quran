@@ -151,6 +151,15 @@ Ruling
 
 This verse also teaches the formalities of an address, a sermon or a lecture, that it should start with the praise of Allah and the salah (durood) and salam to the prophets. This had always been the practice of the Holy Prophet ﷺ in his addresses. His companions also adopted the same practice by commencing not only their addresses but also all the important jobs by praising Allah Ta’ ala and then salah and salam on the Holy Prophet ﷺ '. (Ruh).
 
+## AI Translation
+
+Or ask them, “Who made the earth a place of settlement, caused rivers to flow through it, placed firm mountains upon it, and set a barrier between fresh and salt bodies of water? Was it another god besides Allah?” Absolutely not! But most of them do not know.
+
+## AI Tafsir
+
+**What this ayah teaches:** The sweet water is that which flows in rivers among mankind, and it is meant to be fresh and palatable so that it may be used to water animals and plants and fruits.
+
+**Classical tafsir:** Ibn Kathir notes: The sweet water is that which flows in rivers among mankind, and it is meant to be fresh and palatable so that it may be used to water animals and plants and fruits.
 ## Personal Reflections
 
 

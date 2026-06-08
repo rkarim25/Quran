@@ -127,6 +127,17 @@ Sequence
 
 While discussing the matters relating to the open disbelievers, the Holy Qur'an has, in some places in the previous verses, referred to the hypocrites and has pointed out that Kufr or disbelief was the common denominator between them. Further on, a particular episode relating to some hypocrites finds mention in the present verses, details of which are being given below.
 
+## AI Translation
+
+Indeed, We have sent down the Book to you in truth to judge between people by means of what Allah has shown you. So do not be an advocate for the deceitful.
+
+## AI Tafsir
+
+**What this ayah teaches:** You are those who have argued for them in the life of this world,) meaning, suppose these people gain the verdict from the rulers in their favor in this life, since the rulers judge according to what is apparent to them.
+
+**Classical tafsir:** Ibn Kathir notes: Some of you might be more eloquent in presenting his case than others, so that I judge in his favor.
+
+**From the Sunnah:** Umm Salamah said that the Messenger of Allah ﷺ heard the noise of disputing people close to the door of his room, and he went out to them saying, If I judge in one's favor concerning the right of another Muslim, then it is a piece of the Fire. (Sahih Muslim)
 ## Personal Reflections
 
 

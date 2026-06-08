@@ -219,6 +219,17 @@ he had been created, just as infants are denied heavy food till they have grown 
 
 Anyhow, the essential point is that Adam did not deliberately and willfully disobey Allah; all that he did was an act of oversight or the kind of mistake which a Mujtahid مجتہد can make. The error was not, properly speaking, a sin, but Adam (علیہ السلام) being so close to Allah, and in view of his station of a prophet, even this lapse was regarded as very serious, and described as a ` sin' in the Holy Qur'an. But the Holy Qur'an tells us that when he repented and prayed for pardon, Allah forgave him.
 
+## AI Translation
+
+We said, "O Adam, live with your spouse in Paradise and eat freely, but do not approach this tree, or you will be among the wrongdoers."
+
+## AI Tafsir
+
+**What this ayah teaches:** Moreover, the right to 'own' a dwelling-place in Paradise is earned through 'Iman (faith) and good deeds, which one can acquire only after the Day of Judgment.
+
+**Classical tafsir:** Ibn Kathir notes: But I am shy.') Adam remained in Paradise for an Hour Al-Hakim recorded that Ibn 'Abbas said, "Adam was allowed to reside in Paradise during the time period between the 'Asr (Afternoon) prayer, until sunset." Al-Hakim then commented this is "Sahih according to the Two Shaykhs (Al-Bukhari and Muslim)… But the common noun Shaytan, or its plural Shayatin refers to the genus, which includes men and jinn…
+
+**From the Sunnah:** Paradise during the time period between the 'Asr (Afternoon) prayer, until sunset. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

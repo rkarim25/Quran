@@ -88,6 +88,19 @@ Sa’ id ibn Jubayr said that this verse was revealed about six men from the Jew
 
 In addition to that, through this word, the aim is to grant an exemption from punishment for people who were though engaged at that time, in tandem with disbelievers, in their struggle against Muslims and Islam but the likelihood was that, in future, a time will come when they will repent their past mistakes and embrace Islam. The fact is that this is how it came to be. A very large group from among them became, by embracing Islam, not only personally pious and righteous, but rose to be - in word and deed alike - leaders among men and women of the world as heralds of moral betterment and paradigms of responsible conduct of life before the Creator.
 
+## AI Translation
+
+The worst of living beings before Allah are those who persist in rejection and will not believe.
+
+## AI Tafsir
+
+**Context:** Sa’ id ibn Jubayr said that this verse was revealed about six men from the Jews about whom Allah Ta` ala has declared in advance that they will never enter the fold of Faith.
+
+**What this ayah teaches:** The sense is that these people have allowed their Allah-given abilities to go waste by making the satisfaction of their physical needs the very purpose of their life, therefore, having access to the refinements of Faith was just not possible for them.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, this word covers human beings and whatever of the animals walk on the earth.
+
+**From the Sunnah:** In addition to that, through this word, the aim is to grant an exemption from punishment for people who were though engaged at that time, in tandem with those who reject the truth, in their struggle against Muslims and Islam but the likelihood was that, in future, a time wi…
 ## Personal Reflections
 
 

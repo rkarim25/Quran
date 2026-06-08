@@ -192,6 +192,15 @@ According to Tafsir Al-Bahr Al-Muhit, the attributes of true Muslims mentioned i
 
 Counter-poised against these three kinds, three rewards have been mentioned. High ranks have been set against inward and spiritual attributes; forgiveness has been placed against deeds which are related to outward human physique, like Salah and Sawm. Salah, as in Hadith, becomes the Kaffarah (expiation) of sins. Finally, 'dignified provision' has been set against spending in the way of Allah, that is, one would get what is much better and much more than what one has spent in the mortal life.
 
+## AI Translation
+
+Those are the mu'minin in truth. For them are elevated ranks with their Rabb, forgiveness, and a noble provision.
+
+## AI Tafsir
+
+**What this ayah teaches:** The believers are only those who, when Allah is mentioned, feel a fear in their hearts and when His Ayat are recited unto them, they increase their faith; and they put their trust in their Lord (2)Who perform the Salah and spend out of what We have provided them (3)It is they who are the believers in truth.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "Establishing the prayer requires preserving its times, making ablution for it, bowing down and prostrating." Muqatil bin Hayyan said, "Establishing the prayer means to preserve its times, perform perfect purity for it, perform perfect bowings and prostrations, recite the Qur'an during…
 ## Personal Reflections
 
 

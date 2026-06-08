@@ -128,6 +128,15 @@ Perhaps, the ears, the eyes and the heart have been particularized here on the b
 
 Now, the senses through which man becomes aware of different things are five: the ears, the eyes, the nose, the faculty of speech and the sensation in the whole body that tells one about something being hot or cold. But, habitually man finds out more through the ears and eyes. Awareness about things acquired through the senses of smell, taste and touch is fairly lower in frequency as compared to things heard or seen. That it has been considered sufficient to mention only two of the five senses at this place may, perhaps, be because of this very reason. Then, even from among these two, it is the ear that has been made to precede the eye - and on other occasions of the Holy Qur'an as well, wherever these two has been mentioned, it is the ear that has been mentioned first. In all likelihood, the reason for it is that the major part of man's in-formation is comprised of things heard through the ears. Things seen through the eyes happen to be comparatively much less.
 
+## AI Translation
+
+Do not follow what you have no sure knowledge of. Indeed, all will be called to account for their hearing, sight, and intellect.
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, it should have attained the degree of perfect certitude and absolute category.
+
+**Classical tafsir:** Ibn Kathir notes: Do not speak without Knowledge Ali bin Abi Talhah reported that Ibn 'Abbas said: "This means) do not say (anything of which you have no knowledge)." Al-'Awfi said: "Do not accuse anyone of that of which you have no knowledge." Muhammad bin Al-Hanafiyyah said: "It means bearing false witness." Qatada…
 ## Personal Reflections
 
 

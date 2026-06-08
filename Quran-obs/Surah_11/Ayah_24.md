@@ -97,6 +97,15 @@ The Sahih of Muslim reports on the authority of Sayyidna Abu Hurairah ؓ that th
 
 This should remove the misunderstanding of those who regard the Jews and Christians or the adherents of other religions as being on haqq (the truth) on the basis of some outward deeds and consider these to be sufficient for salvation without having faith in the Holy Prophet ﷺ and the Qur'an. This is an open clash with the present ayah of the Holy Qur'an, and the authentic ahadith. اَلعَیَاذ بِاللہ (Allah may save us from that! )
 
+## AI Translation
+
+The example of these two parties is that of the blind and the deaf, compared to the seeing and the hearing. Can the two be equal? Will you not then be living with taqwa?
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, those who believe and do righteous good deeds, and humble themselves before their Lord, they will be the dwellers of Paradise to dwell therein forever (23)The likeness of the two parties is as the blind and the deaf and the seer and the hearer.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, falsehood does not overcome him.
 ## Personal Reflections
 
 

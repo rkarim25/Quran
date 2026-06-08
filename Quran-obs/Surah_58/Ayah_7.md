@@ -272,6 +272,17 @@ Imam Ahmad commented, "Allah began the Ayah (58:7) by mentioning His knowledge a
 
 أَحْصَاهُ اللَّـهُ وَنَسُوهُ (...Allah has its full account, while they have forgotten transgressions, but because he treats them as trivial and insignificant, he is unable to remember and recall them. However, they are all recorded and kept safely with Allah, even though the humans have done the actions and forgotten them. Allah will call them to give an account of them on the Day of Resurrection and chastise them.
 
+## AI Translation
+
+Do you not see that Allah knows what is in the heavens and on the earth? When three speak privately, He is their fourth; when five, their sixth; whether fewer or more, He is with them wherever they are. Then on the Day of Judgment He will tell them what they did. Allah has perfect knowledge of all things.
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah is Witness over all things (6)Have you not seen that Allah knows whatsoever is in the heavens and whatsoever is on the earth?
+
+**Classical tafsir:** Ibn Kathir notes: And Our messengers are by them to record.)(43:80) For this reason, several mentioned that there is a consensus among the scholars that this "with" refers to Allah's knowledge.
+
+**From the Sunnah:** Imam Ahmad commented, "Allah began the Ayah (58:7) by mentioning His knowledge and ended it by mentioning His knowledge." (Musnad Ahmad)
 ## Personal Reflections
 
 

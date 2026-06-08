@@ -300,6 +300,17 @@ Surah Al-Balad
 
 Ends here
 
+## AI Translation
+
+Those are the people of the right—the blessed companions.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then he became one of those who believed and recommended one another to patience, and recommended one another to compassion.)(18. The word sabr signifies 'to withhold oneself from evil deeds and to act upon good deeds'.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
+
+**From the Sunnah:** Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
 ## Personal Reflections
 
 

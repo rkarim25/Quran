@@ -319,6 +319,19 @@ And the statement: زَوَّجْنَاكَهَا literally means: 'We solemnize
 
 As for the saying of Sayyidah Zainab ؓ before other women, "Your nikah was done by your parents. My nikah was done by Allah Ta’ ala Himself on the heavens," which appears in Hadith narrations, it turns out to be true both ways. Under the first probability, it is very clear while the other one too is not contrary to it.
 
+## AI Translation
+
+And remember, O Prophet, when you said to the one for whom Allah has done a favour and you too have done a favour, “Keep your wife and fear Allah,” while concealing within yourself what Allah was going to reveal. And so you were considering the people, whereas Allah was more worthy of your consideration. So when Zaid totally lost interest in keeping his wife, We gave her to you in marriage, so that there would be no blame on the mu'mins for marrying the ex-wives of their adopted sons after their divorce. And Allah’s command is totally binding.
+
+## AI Tafsir
+
+**Context:** (But you did hide in yourself that which Allah will make manifest, you did fear the people whereas Allah had a better right that you should fear Him.) Ibn Jarir narrated that 'A'ishah, may Allah be pleased with her, said…
+
+**What this ayah teaches:** As for the apprehension of taunts from people, it was said, 'and you were fearing people, while Allah is more entitled to be feared by you - (37).
+
+**Classical tafsir:** Ibn Kathir notes: It means: We gave Zainab in marriage to you so that Muslims do not have to face any practical difficulty in marrying the divorced wives of adopted sons.
+
+**From the Sunnah:** And he was a great leader, held in high esteem and beloved by the Prophet ﷺ.
 ## Personal Reflections
 
 

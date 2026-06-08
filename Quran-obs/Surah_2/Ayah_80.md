@@ -131,6 +131,17 @@ The claim of the Jews that they would not be sent to Hell for their sins, or, if
 
 The principle is common to all the Shari'ahs that if a believer commits sins, he will receive a punishment in Hell for some time and in accordance with the degree and nature of his sins, but as he possesses 'Iman ایمان (faith), he will not be assigned to Hell for ever, and will be released after having served his term. Now, the argument on which the assertion of the Jews was based was that since the Shari ah of Sayyidna Musa (Moses علیہ السلام) had not, in their view, been abrogated, they were true believers (Mumins مؤمنین ), and had not turned into infidels (Kafirs) by denying the prophethood of Sayyidna ` Isa (علیہ السلام) (Jesus ( and of Sayyidna Muhammad ﷺ ; hence - so the argument ran - if they were sent to Hell in punishment of some sin, they would again' be taken out after a few days. This false assertion is, thus based on another false assertion. The Torah never declares that the Shari` ah of Sayyidna Musa (علیہ السلام) is meant to last forever. To claim perpetuity for it is an unfounded and false assertion, and hence the Jews who made such a claim and denied the prophethood of Sayyidna ` Isa (علیہ السلام) and of Sayyidna Muhammad ﷺ ، must on account of this denial be held to be infidels and disbelievers (Kafirs کفار ). And no Book of Allah holds out to the infidels the promise that they would be released from Hell after a while. The present verse refers to such a promise as the "pledge" of Allah. Since Allah has never made such a promise, it goes to show that the Jews were making a baseless claim.
 
+## AI Translation
+
+Some among them claim, "The Fire will touch us only for a counted number of days." Say, "Have you taken a pledge from Allah? Allah never breaks His word — or are you saying about Allah what you do not know?"
+
+## AI Tafsir
+
+**What this ayah teaches:** The Messenger of Allah ﷺ ordered, 'Assemble before me all the Jews who were here.' The Jews were summoned and the Prophet ﷺ said (to them), 'Who is your father?' They replied, 'So-and-so.' He said, 'You have lied; your father is so-and-so.' They said, 'You have uttered the truth.' He said, 'Will you now tell me the truth, if I ask you about something?' They replied, 'Yes, O Abu…
+
+**Classical tafsir:** Ibn Kathir notes: "The Jews said, 'The Fire will only touch us for forty days.'" Others added that this was the period during which the Jews worshipped the calf.
+
+**From the Sunnah:** (to them), 'Who is your father? (Sahih al-Bukhari, Musnad Ahmad)
 ## Personal Reflections
 
 

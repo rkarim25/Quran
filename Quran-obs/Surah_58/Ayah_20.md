@@ -162,6 +162,19 @@ In contra-distinction to Muwalah [ intimate friendship ], there is a concept of 
 
 وَيَحْلِفُونَ عَلَى الْكَذِبِ (and they swear false oaths ...58:14). It means they swear oaths profanely. According to some reports, this verse was revealed in connection with ` Abdullah Ibn 'Ubayy and ` Abdullah Ibn Nabtal: One day the Messenger of Allah ﷺ was sitting with his noble Companions ؓ and said to them: "Soon a person will come to you whose heart will be the heart of a tyrant and who sees through the Shaitan's eyes." Soon afterwards ` Abdullah Ibn Nabtal, the hypocrite, entered. He was blue-eyed, wheat-coloured, short-statured and skimpy-bearded. The Messenger of Allah ﷺ asked him: "Why do you and your comrades use obscene words against me?" He swore that he did not do that. Then he called his comrades and they too took this false oath. Allah told the Holy Prophet ﷺ ; about their lie and profane oath. [ Qurtubi ]
 
+## AI Translation
+
+Those who defy Allah and His Messenger will be among the most debased.
+
+## AI Tafsir
+
+**Context:** (You will not find any people who believe in Allah and the Last Day...) was revealed in the case of Abu 'Ubaydah 'Amir bin 'Abdullah bin Al-Jarrah when he killed his disbelieving father, during the battle of Badr.
+
+**What this ayah teaches:** Indeed, this is the final judgement and a matter ordained; the final triumph and victory are for the believers in this life and the Hereafter.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, the party of Allah will be the successful.) indicates that they are the party of Allah, meaning, His servants who are worthy of earning His honor.
+
+**From the Sunnah:** A similar matter is when Allah's Messenger ﷺ consulted with his Companions about what should be done with the captives of Badr.
 ## Personal Reflections
 
 

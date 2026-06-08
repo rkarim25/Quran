@@ -178,6 +178,17 @@ Qatadah said, "These stars were only created for three purposes: Allah created t
 
 ارْ‌جِعِ الْبَصَرَ‌ هَلْ تَرَ‌ىٰ مِن فُطُورٍ‌ (So, cast your eye again. Do you see any rifts?...67:3). Apparently, this verse shows that it is possible to see the nearest sky with the naked eyes. Sky, in this context, does not necessarily refer to the bluish atmosphere seen over the earth. In fact, the sky may be very much higher than this, and the bluish colour may be that of the upper atmosphere, as claimed by the scientists. This, on the other hand, does not necessarily imply that the sky cannot be seen at all. It is possible that the bluish atmosphere, on account of being transparent, may not block the vision of the actual sky. However, if it is proved by any evidence that the sky cannot be seen with eyes, then the 'casting ones eyes' in this verse would refer to 'intellectual observation'. [ Bayan-ul-Qur’ an ]
 
+## AI Translation
+
+Then look again and again—your sight will return humbled and weary.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then look again and yet again, your sight will return to you Khasi', and worn out.)(5. Thus, the Ayah means that if you continuously looked, no matter how much you look, your sight will return to you.
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah means that He brought creation into existence from nothing in order to test the creatures.
+
+**From the Sunnah:** This Hadith was collected by At-Tirmidhi and the four Sunan Compilers. (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

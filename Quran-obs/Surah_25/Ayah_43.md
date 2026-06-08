@@ -100,6 +100,15 @@ Following forbidden things - a type of idolatry
 
 أَرَ‌أَيْتَ مَنِ اتَّخَذَ إِلَـٰهَهُ هَوَاهُ (Tell me about the one who has taken his desire as his god - 25:43). The one who practises forbidden things which are against the tenets of Islam to satisfy his personal desires is described in this verse as the worshiper of his own lust. Sayyidna Ibn ` Abbas ؓ said that the selfish desires are like an idol which is worshipped (by the infidels) and then he recited this verse to prove his point. (Qurtubi)
 
+## AI Translation
+
+Have you seen O Prophet the one who has taken their own desires as their god? Will you then be a keeper over them?
+
+## AI Tafsir
+
+**What this ayah teaches:** The one who practises forbidden things which are against the tenets of Islam to satisfy his personal desires is described in this verse as the worshiper of his own lust.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

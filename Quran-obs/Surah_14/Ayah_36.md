@@ -145,6 +145,17 @@ We also learn from this prayer that emotional concern for one's children, and th
 
 Then comes the second prayer. This too has great comprehensiveness because Shirk and idol-worship are sins for which there is no forgiveness, therefore, he has asked for being shielded against them. If a sin gets to be committed after that, it can also be expiated through other deeds, and such sins could also be forgiven through someone's intercession. And if we take the 'worship of idols' mentioned in the text in its broader sense as taken by the noble mystics, that is, everything which makes man heedless to Allah is his idol, and overcome by its love, when man takes the initiative and disobeys Allah, this then is, in a way, its worship. So, in this prayer, that is, to be kept away from idol-worship, there is a coverage of being kept away from all sins. It is in this sense that some noble mystics of Islam have admonished their self against heedlessness and disobedience to the Creator; or, as the great Gnostic Rumi says: 'Every (evil) desire is an idol in your way.'
 
+## AI Translation
+
+My Rabb, they have led many astray. Whoever follows me is with me; whoever disobeys me—You are still All-Forgiving, the Rahim whose special mercy awaits believers in the Akhirah.
+
+## AI Tafsir
+
+**What this ayah teaches:** And if we take the 'worship of idols' mentioned in the text in its broader sense as taken by the noble mystics, that is, everything which makes man heedless to Allah is his idol, and overcome by its love, when man takes the initiative and disobeys Allah, this then is, in a way, its worship.
+
+**Classical tafsir:** Ibn Kathir notes: This too has great comprehensiveness because Shirk and idol-worship are sins for which there is no forgiveness, therefore, he has asked for being shielded against them.
+
+**From the Sunnah:** 'Abdullah bin 'Amr narrated that the Messenger of Allah ﷺ recited Ibrahim's supplication, Allah said to the angel Jibril, "O Jibril, go to Muhammad, and Your Lord has more knowledge, and ask him what makes him cry." Jibril came to the Prophet ﷺ and asked him, and he repeated to him what he said (in his supplication).
 ## Personal Reflections
 
 

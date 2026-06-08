@@ -142,6 +142,15 @@ Repentance from Sin brings Forgiveness: Is it Open or Restricted?
 
 In the last verse (119): ثُمَّ إِنَّ رَ‌بَّكَ لِلَّذِينَ عَمِلُوا السُّوءَ بِجَهَالَةٍ (Then your Lord – for those who did evil through ignorance ...), it will be noticed that the sense of ignorance has been conveyed by the use of the word: جَهَالَةٍ (jahalah), not: جَھل (jahl). As for the word: جَھل (jahl), it is employed as an antonym of: عِلَم (` ilm: knowledge) and releases the sense of a lack of knowledge or understanding while the word: جَهَالَةٍ (jahalah) denotes acting ignorantly - even if done knowingly. This tells us that the forgiveness of sins through Taubah (repentance) is not restricted to a situation where a sin is committed with lack of understanding or volition. (Rather, a true taubah or repentance may forgive all sins, even though committed deliberately).
 
+## AI Translation
+
+As for those who commit evil ignorantly or recklessly, then repent afterwards and mend their ways, then your Rabb is surely All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** And We did not wrong them, but they wronged themselves (118)Then, your Lord for those who did evil out of ignorance and afterward repent and do righteous deeds - verily, after that, your Lord is Pardoning, ar-Rahim .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

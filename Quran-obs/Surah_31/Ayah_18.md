@@ -178,6 +178,17 @@ In verse 18, it was said: وَلَا تُصَعِّرْ‌ خَدَّكَ لِل
 
 In the next sentence of the verse, it was said: وَلَا تَمْشِ فِي الْأَرْ‌ضِ مَرَ‌حًا (and do not walk on the earth haughtily - 18). The last word: مَرَ‌حًا (maraha) denotes walking proudly with assumed airs. The sense of the statement is that Allah Ta’ ala has given this earth the lowest profile from among the entire range of elements He created. Is it not that you were born from it and on it you walk around? Know your reality and do not walk haughtily. This is the way of the arrogant. Therefore, after that, it was said: إِنَّ اللَّـهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ‌ (Surely, Allah does not like anyone arrogant, proud - 18).
 
+## AI Translation
+
+Do not turn your face away from people in contempt, nor walk the earth with arrogance. Allah does not love the arrogant boaster.
+
+## AI Tafsir
+
+**What this ayah teaches:** And whosoever does evil equal to the weight of a speck of dust shall see it.)(99:7-8) Even if this tiny thing were to be hidden inside a solid rock or anywhere in the heavens and the earth, Allah will bring it forth, because nothing is hidden from Him, not even the weight of a speck of dust in the heavens or on the earth.
+
+**Classical tafsir:** Ibn Kathir notes: And whosoever does evil equal to the weight of a speck of dust shall see it.)(99:7-8) Even if this tiny thing were to be hidden inside a solid rock or anywhere in the heavens and the earth, Allah will bring it forth, because nothing is hidden from Him, not even the weight of a sp…
+
+**From the Sunnah:** Likening a loud voice to that of a donkey implies that it is forbidden and extremely blameworthy, because the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

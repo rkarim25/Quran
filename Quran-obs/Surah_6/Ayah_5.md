@@ -106,6 +106,15 @@ Thus, the very presence of the Holy Prophet , U1 and the Glorious Qur'an, was a 
 
 Now, pointed out at the conclusion of the verse is the sad end of their effort to falsify truth: فَسَوْفَ يَأْتِيهِمْ أَنبَاءُ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ (Now, there shall come to them the full account of what they have been laughing at). It means that right now these people who are heedless to their fate mock at the miracles and commandments of Allah brought by the Holy Prophet ﷺ and at the all true message that there is a Qiyamah (Doomsday) and Akhirah (Hereafter), but very soon will come the time when all these realities will be before their eyes. There will be a Qiyamah in fact. There will be a Reckoning (Hisab) when everyone will have to account for one's faith and deed - and everyone shall get the reward or punishment for what he or she has done. But, believing and confessing at that time is not going to work for them because that will be no day of deeds - rather, that day will be the day of Retribution. The time to think is now. Allah Almighty has given the respite - a God-sent piece of luck, so to say. Act now, for it is by having faith alone that you will succeed in this world and in the lasting world to come.
 
+## AI Translation
+
+They have indeed rejected the truth when it came to them, so they will soon face the consequences of their ridicule.
+
+## AI Tafsir
+
+**What this ayah teaches:** And never an Ayah comes to them from the Ayat of their Lord, but that they have been turning away from it (4)Indeed, they rejected the truth when it came to them, but there will come to them the news of that which they used to mock at (5)Have they not seen how many a generation before them We have destroyed whom We had established on the earth such as We have not established you?
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, beware of the same end that might befall you, for you are not dearer to Allah than these previous nations, but the Messenger whom you defied is dearer to Allah than the Messengers they defied.
 ## Personal Reflections
 
 

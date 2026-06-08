@@ -294,6 +294,17 @@ They are fearful of a day in which the hearts and the eyes will be overturned - 
 
 The last quality of those believers who are mentioned in the above verse is that despite being busy in Allah's obedience, remembrance and worshiping all the time, they do not become careless or free themselves from Allah's fear. Instead the fear of reckoning on the Day of Judgment is constantly in their mind, which is the fruit of Nur of guidance granted to them by Allah Ta ala, mentioned in the earlier verse يَهْدِي اللَّـهُ لِنُورِ‌هِ مَن يَشَاءُ.
 
+## AI Translation
+
+by men who are not distracted—either by buying or selling—from Allah’s dhikr, or performing salah — the formal prayer, or paying zakat — obligatory sharing of wealth to purify what remains. They fear a Day when hearts and eyes will tremble,
+
+## AI Tafsir
+
+**Context:** (Men whom neither trade nor business diverts from the remembrance of Allah nor from performing the Salah nor from giving the Zakah).
+
+**What this ayah teaches:** This verse describes that the involvement in trade and sales does not stop the righteous believers from the remembrance of Allah. This verse describes special attributes of those believers who are the distinguished recipients of the Nur of guidance and remain in the mosques.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ali bin Abi Talhah reported that Ibn 'Abbas said, "This meant from the prescribed prayers." This was also the view of Muqatil bin Hayyan and Ar-Rabi' bin Anas.
 ## Personal Reflections
 
 

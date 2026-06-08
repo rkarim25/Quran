@@ -100,6 +100,15 @@ This Surah warns of the severe punishment on three grave sins, and then highligh
 
 "The worst servants of Allah are those who speak ill of someone, creating enmity between friends and finding fault with innocent people."
 
+## AI Translation
+
+Woe to every slanderer who habitually mocks people—destroying reputations for sport in a world built on viral humiliation—
+
+## AI Tafsir
+
+**What this ayah teaches:** This means that the person finds fault with people and belittles them. Warning against dreadful end of those committing three obnoxious sins This Surah warns of the severe punishment on three grave sins, and then highlights the nature of that severe punishment.
+
+**Classical tafsir:** Ibn Kathir notes: This means that the person finds fault with people and belittles them.
 ## Personal Reflections
 
 

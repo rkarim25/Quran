@@ -238,6 +238,17 @@ Let us now recapitulate that the acceptance of any deed with Allah depends on th
 
 At the end of the verse (125), an example has been cited, the example of sincerity and good conduct set by Sayyidna Ibrahim (علیہ السلام) the following of which has been declared as mandatory. By saying: وَاتَّخَذَ اللَّـهُ إِبْرَ‌اهِيمَ خَلِيلًا (And Allah has made Ibrahim a friend), it has been hinted that this high station bestowed on Sayyidna Ibrahim (علیہ السلام) has good reason behind it for he was absolutely and superbly sincere and his deed too was sound and correct with intimation from Allah.
 
+## AI Translation
+
+To Allah belongs whatever is in the heavens and whatever is on the earth. And Allah is Fully Aware of everything.
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah did take Ibrahim as a Khalil (an intimate friend)(125)And to Allah belongs all that is in the heavens and all that is in the earth.
+
+**Classical tafsir:** Ibn Kathir notes: Firstly, 'surrenders his or her self to Allah.' In other words, acts for the good pleasure of Allah with all sincerity at one's command without ever contaminating one's deeds with hypocritical or materialistic motives.
+
+**From the Sunnah:** Therefore, we should have more right to Allah than you have.' Muslims said, 'Rather, we have more right to Allah than you, our Prophet is the Final Prophet and our Book supersedes all the Books before it.' Allah sent down, This is the wording collected by Ahmad through Sufyan bin 'Uyaynah. (Sahih Muslim, Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

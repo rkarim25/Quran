@@ -308,6 +308,17 @@ In summation, it can be said that the world has openly witnessed the fulfillment
 
 In our time, some groups of muhajirin (emigrants) who are living in distress are either in that transitory stage of the early period of Hijrah which is usually marked with hardships, or they are not Muhajirs in the real sense. They should correct their intention and take charge of the circumstances under which they live. After their intention and their corresponding deeds have been corrected, they shall witness the truth of Allah's promise with their own eyes.
 
+## AI Translation
+
+Whoever emigrates in the cause of Allah will find many safe havens and bountiful resources throughout the earth. Those who leave their homes and die while emigrating to Allah and His Messenger—their reward has already been secured with Allah. And Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**Context:** Ad-Dahhak stated that this Ayah was revealed about some hypocrites who did not join the Messenger of Allah ﷺ but remained in Makkah and went out with the idolators for the battle of Badr.
+
+**What this ayah teaches:** Verily, as for those whom the angels take (in death) while they are wronging themselves, they (angels) say (to them): "In what (condition) were you?" They reply: "We were weak and oppressed on the earth." They (angels) say: "Was not the earth of Allah spacious enough for you to emigrate therein?" Such men will find their abode in Hell - what an evil destination (97)Except the weak ones among men,…
+
+**Classical tafsir:** Ibn Kathir notes: In other words, they just did not like worldly wealth and property as a result of which they lost no time in spending what they received, in the way of Allah.
 ## Personal Reflections
 
 

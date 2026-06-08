@@ -219,6 +219,19 @@ The best person among you is the one who fulfils his obligation (loan) in a good
 
 If increase or premium has been made a condition, then, that is haram (unlawful), and it is riba (interest) as well.
 
+## AI Translation
+
+Who will lend Allah a good loan that He will multiply many times over? Allah decreases and increases, and to Him you will return.
+
+## AI Tafsir
+
+**Context:** The third group is that of sincere Muslims who lost no time and acted as directed by the verse giving the best of their possessions in the way of Allah, such as is the case of Companion Abu al-Dahdah ؓ and others.
+
+**What this ayah teaches:** It simply means that whatever you spend will surely be returned to you (in the form of a reward in the Hereafter) just as a loan is surely returned.
+
+**Classical tafsir:** Ibn Kathir notes: Dead People Ibn Abu Hatim related that Ibn 'Abbas said that these people mentioned herein, were the residents of a village called Dawardan.
+
+**From the Sunnah:** 'Umar bin Al-Khattab once went to Ash-Sham (Syria). (Musnad Ahmad, authentic hadith) For every Muslim, who gives loan to another Muslim, it will be equal to having given sadaqah (charity) twice. (Sahih Muslim, Sunan Ibn Majah)
 ## Personal Reflections
 
 

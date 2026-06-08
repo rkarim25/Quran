@@ -156,6 +156,17 @@ Imam Qurtubi (رح) has said that Allah Ta` ala has taken upon Himself to accept
 
 A Sahih hadith of the Holy Prophet ﷺ says that ` Three supplications are surely accepted, in which there is no room for doubt. One, from an oppressed person, two, by a traveler, and three, from a father against his children'. After citing this hadith, Qurtubi has commented that in all these three cases the situation is the same as the supplication of a Mudtar, because when an oppressed person calls Allah after having been frustrated from mundane support and help, his condition is no different than that of a MOW. Similarly, a traveler is away from his dear ones, hence helpless, while in journey. Likewise, a father cannot plead for something against his children because of his paternal love and affection for them, unless he is totally dejected and heart-broken, and calls Allah to save himself from the misery of sufferings. ` Ajurri, a scholar of hadith, has quoted on the authority of Sayyidna Abu Dharr4 that the Holy Prophet ﷺ said ` Allah Ta` ala has pronounced that He shall never reject an appeal from an oppressed person, even if it is made by an infidel'. (Qurtubi) If a Mudtar or an oppressed person or a traveler has a feeling that his appeal to Allah has not been accepted, he should not be dejected and be skeptical, because sometimes the request is accepted but its manifestation is delayed due to some expediency and divine wisdom. As an alternative, such a person should search his soul to find out if there was any deficiency in his sincerity or concentration while praying to Allah Ta` ala. (Only Allah knows best) Surah An-Naml : 27:65 – 75
 
+## AI Translation
+
+Or ask them, “Who responds to the distressed when they cry to Him, relieving their affliction, and Who makes you successors in the earth? Is it another god besides Allah? Yet you are hardly mindful!”
+
+## AI Tafsir
+
+**What this ayah teaches:** Likewise, a father cannot plead for something against his children because of his paternal love and affection for them, unless he is totally dejected and heart-broken, and calls Allah to save himself from the misery of sufferings.
+
+**Classical tafsir:** Ibn Kathir notes: Whoever evinces sincerity, no matter if he is a believer or an infidel, a pious or a sinner, because of the auspiciousness of sincerity the divine favour gets attentive towards him.
+
+**From the Sunnah:** : "O Messenger of Allah, what are you calling for?" He said: (Musnad Ahmad)
 ## Personal Reflections
 
 

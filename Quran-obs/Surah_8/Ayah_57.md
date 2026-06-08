@@ -88,6 +88,15 @@ Here, the word: تَثْقَفَنَّهُمْ (tathqafannahum) means to get the
 
 By saying: لَعَلَّهُمْ يَذَّكَّرُ‌ونَ (so that they take a lesson - 57) at the end of the verse, a hint has been given towards the universal mercy of the Lord of all the worlds. This treatment makes it clear that the real purpose of this exemplary punishment was not to take revenge or release personal anger, in fact, this was being awarded in their own interest and expedient gain whereby they may, perhaps, review conditions before them, regain some of their sanity, feel ashamed of what they did and go on to correct themselves.
 
+## AI Translation
+
+If you gain the upper hand over them in war, disperse those behind them by making a severe example, so they may take heed.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, the worst of living creatures before Allah are those who disbelieve, – so they shall not believe (55)They are those with whom you made a covenant, but they break their covenant every time and they do not have Taqwa (56)So if you gain the mastery over them in war, then disperse those who are behind them, so that they may learn a lesson .
+
+**Classical tafsir:** Ibn Kathir notes: Verily, the worst of living creatures before Allah are those who disbelieve, – so they shall not believe (55)They are those with whom you made a covenant, but they break their covenant every time and they do not have Taqwa (56)So if you gain the mastery over them in war, then dis…
 ## Personal Reflections
 
 

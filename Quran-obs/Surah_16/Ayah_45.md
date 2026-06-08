@@ -159,6 +159,19 @@ Reading Poets from Jahiliyyah is Permissible, Even if Full of Pagan Absurdities
 
 This also tells us that, in order to understand the Qur'an and to understand the Arabic language and its usage during the period of Jahiliyyah, it is permissible to read and teach the poetry of that period. Though, it is obvious that such poetry will be full of pagan themes and customs highlighting pagan sayings and doings counter to Islam. But, such was the need to understand the Qur’ an that reading and teaching it was declared to be permissible.
 
+## AI Translation
+
+Do those who devise evil plots feel secure that Allah will not cause the earth to swallow them? Or that the torment will not come upon them in ways they cannot comprehend?
+
+## AI Tafsir
+
+**Context:** The first thing the report referred to above proves is that the ability to speak and write the Arabic language is not enough for the understanding of Qur'an.
+
+**What this ayah teaches:** Or do you feel secure that He Who is over the heaven (Allah), will not send a storm of stones upon you?
+
+**Classical tafsir:** Ibn Kathir notes: Also possible is yet another form of punishment when punishment may not come all of a sudden, but a general decrease sets in causing wealth, health, fitness, means of sustenance and comfort and peace go on shrinking so much so that the day comes when the people so punished disapp…
+
+**From the Sunnah:** This is how it happened during the Battle of Badr when they received a punishment at the hands of some ragtag Muslims arrayed against their thousand strong armed young-men, something they would have never perceived as possible.
 ## Personal Reflections
 
 

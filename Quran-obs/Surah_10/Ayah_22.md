@@ -301,6 +301,17 @@ The word: مَک (رح) ر (makr) used in verse 21: قُلِ اللَّـهُ أ
 
 (1) The English language has no such problems as the open sense of makr can be transmitted through ` plan' or ` move' (Translator)
 
+## AI Translation
+
+He is the One Who enables you to travel through land and sea. And it so happens that you are on ships, sailing with a favourable wind, to the passengers’ delight. Suddenly, the ships are overcome by a gale wind and those on board are overwhelmed by waves from every side, and they assume they are doomed. They cry out to Allah alone in sincere devotion, “If You save us from this, we will certainly be showing shukr — gratitude shown in word and action.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Say: "Allah is more swift in planning!" Certainly, Our messengers (angels) record all of that which you plot (21)He it is Who enables you to travel through land and sea, till when you are in the ships, and they sail with them with a favorable wind, and they are glad therein, then comes a stormy wind and the waves come to them from all sides, and they think that they are encircled therein.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said that man's attitude indicates a mockery and belying of blessings.
+
+**From the Sunnah:** that Allah's Messenger ﷺ led the Subh (Dawn) prayer after it had rained during the night, then he ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
 
 

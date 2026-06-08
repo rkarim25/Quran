@@ -104,6 +104,15 @@ The word ‘su' in السُّوءِ وَالْفَحْشَاءِ means something
 
 The expression إِنَّمَا يَأْمُرُ‌كُم (innama ya'murukum: he only orders you' ) means instigating a suggestion in the heart. The meaning can be seen more clearly in a hadith from the blessed Companion ` Abdullah ibn Masud ؓ who said that the Holy Prophet ﷺ has said: The son of Adam آدم is influenced by a suggestion from the Satan شیطان and a suggestion from the angel. The Satanic suggestion has the effect of bringing forth the expedient gains in evil deeds and thereby opening the avenues of negating the truth, while the angelic suggestion promises reward and success for good deeds and leaves the happy effect of a heart in peace at its attestation of the truth."
 
+## AI Translation
+
+He only commands evil, indecency, and that you attribute to Allah what you do not know.
+
+## AI Tafsir
+
+**What this ayah teaches:** He commands you to commit what is even worse, that is, saying about Allah without knowledge.' So this includes every innovator and those who reject the truth.
+
+**Classical tafsir:** Ibn Kathir notes: The word fahsha covers what is immodest.
 ## Personal Reflections
 
 

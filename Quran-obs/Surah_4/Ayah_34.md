@@ -379,6 +379,19 @@ The role of the family arbitrator in disputes
 
 The arrangement described so far was to help tempers cool off within the privacy of the house keeping it restricted to the married couple. But, there are times when the family feud becomes long-drawn. It may be because the woman is temperamentally obstinate and contumacious, or it may be the fault of the man who may have been unjustly oppressive. Whatever it actually is, one thing is certain that the unfortunate tussle will not remain restricted within the four walls of the house; it will _definitely spread out. Then, as usual, supporters of one party wi11 go about maligning the others with all sort of accusations. This will cause tempers of parties to rise and what started as the disagreement of two individuals will turn into a confrontation between two families.
 
+## AI Translation
+
+Men are the caretakers of women, as men have been provisioned by Allah over women and tasked with supporting them financially. And righteous women are devoutly obedient and, when alone, protective of what Allah has entrusted them with. And if you sense ill-conduct from your women, advise them, do not share their beds, then discipline them. But if they change their ways, do not be unjust to them. Surely Allah is Most High, All-Great.
+
+## AI Tafsir
+
+**Context:** The present verse relates to one such event, which can be termed as the background of its revelation. Sayyidna Zayd ibn Zuhayr ؓ had married his daughter, Sayyidah Habibah ؓ to Sayyidna Sa'd ibn Rabi' ؓ During a dispute…
+
+**What this ayah teaches:** According to them, this precedence men have over women is in terms of genus.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said that it means, a beating that is not severe. Men are the protectors and maintainers of women, because Allah has made one of them to excel the other, and because they spend (to support them) from their means.
+
+**From the Sunnah:** during the Farewell Hajj, the Prophet ﷺ said; (Sahih Muslim) It is from here that Muslim jurists have deduced that this staying apart should be limited to 'beds' and not to the 'house' itself. (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -192,6 +192,15 @@ Qatadah said, "This means he is a witness against himself." In another narration
 
 The verb bariqa means for the eyes 'to be dazzled and unable to see'. On the Day of Resurrection, the eyes of all will be dazzled and will not be able to see consistently. The verb khasafa is derived from khusuf which means 'to lose light and become dark'. The verse purports to say that the moon will lose its light or will be eclipsed. The statement that 'the sun and the moon will be joined together' signifies that not only the moon will lose its light, but also the sun will be eclipsed. Astronomers have discovered that the sun has the original light, and the light of the moon is borrowed from the sun. Allah says that the sun and the moon on the Day of Resurrection will be fused together, so that they both will lose their lights. Some scholars interpret this statement to mean that on that Day the sun and the moon will rise from the same point, as some narratives report. And Allah know best!
 
+## AI Translation
+
+On that Day every soul will stand before your Rabb.
+
+## AI Tafsir
+
+**What this ayah teaches:** On that Day man will say: "Where (is the refuge) to flee?")(11.
+
+**Classical tafsir:** Ibn Kathir notes: I swear by An-Nafs Al-Lawwamah.) Qatadah said, "This means, I swear by both of these things." This has also been reported from Ibn 'Abbas and Sa'id bin Jubayr. This means Our power is suitable to gather (and recreate) them, and if We wished We could surely resurrect him with more than what he originally had.
 ## Personal Reflections
 
 

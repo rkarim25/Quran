@@ -284,6 +284,17 @@ This Hadith has many chains of narration collected in the Sahihs and other colle
 
 لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ (neither interrupted [ in any season ], nor prohibited ...56:33) The word maqtu` ah means the fruits the supply of which is cut off at the end of the season. In this world most fruits are seasonal; some bear in summer, some in winter and others in rainy season. Once the season of the fruit is over, it ceases to be available. However, the supply of the fruits of Paradise never runs out in any season. Rather they will always be available for those who want to eat from them. Whenever these fruits are desired, they will be available and easy to grasp by Allah's power. The word mamnu` ah (prohibited) means that in this world there are caretakers appointed to look after the gardens, who stop and prohibit people from picking the fruits, but in the gardens of Paradise there will be no such hindrance. The inmates will be able to pick them whenever they wish.
 
+## AI Translation
+
+never out of season nor forbidden,
+
+## AI Tafsir
+
+**What this ayah teaches:** Once the season of the fruit is over, it ceases to be available.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "Nothing will prevent them from reaching out to get these fruits, no branches, thorns or distance." We mentioned a Hadith before that states that whenever someone takes a fruit in Paradise, another one grows in its place.
+
+**From the Sunnah:** Paradise the shade of which a rider would take one hundred years to pass. (Sahih al-Bukhari, Sahih Muslim) Paradise, the believer will be given such and such strength for women.
 ## Personal Reflections
 
 

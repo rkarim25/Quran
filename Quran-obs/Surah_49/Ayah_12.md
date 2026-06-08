@@ -384,6 +384,17 @@ Some narrations show that the general prohibition of backbiting in the verse is 
 
 But the necessary condition for invoking these exceptions is that speaking ill of someone is not with the intention of insulting or disgracing him, but only to fulfill a genuine need.
 
+## AI Translation
+
+O you who have iman: Avoid much suspicion—some suspicion is sin. Do not spy on one another or backbite. Would any of you like to eat the flesh of his dead brother? You would loathe it. Have taqwa of Allah. Allah accepts repentance and is the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** [ e ] When someone consults another person in any matter, it is obligatory for him to apprise him of all aspects, including weaknesses, so that he is not deceived because of ignorance.
+
+**Classical tafsir:** Ibn Kathir notes: Some scholars stated that it is not necessary for one to ask those whom he has backbitten to forgive him, because if they knew what was said about them, they could be hurt more than if they were not told about it.
+
+**From the Sunnah:** Therefore, Muslims are to avoid suspicion without foundation. Be brothers!) The Two Sahihs and Abu Dawud recorded this Hadith. (Sunan Abi Dawud)
 ## Personal Reflections
 
 

@@ -86,6 +86,19 @@ There is a hint in this verse that those who are bestowed with long life in this
 
 ` O the duped one! Your whole day is spent in negligence and the night in sleep, while death is inevitable for you. Neither you are awake among the alert and woken nor are you the one who will get salvation from among the sleepers. You keep endeavoring for things which will soon bring you unpleasant results. Cattle and animals live like this in the world'.
 
+## AI Translation
+
+it is not for them to do so, nor can they,
+
+## AI Tafsir
+
+**Context:** Then Allah explains that even if they wanted to and were able to bear it and convey it, they still would not be able to achieve that, because they were prevented from hearing the Qur'an when it was brought down, for the…
+
+**What this ayah teaches:** One is that it would not suit them, i.e., they have no desire to do so and they do not want to, because their nature is to corrupt and misguide people, but this contains words enjoining what is right and forbidding what is evil, and light, guidance and mighty proofs.
+
+**Classical tafsir:** Ibn Kathir notes: Then Allah explains that even if they wanted to and were able to bear it and convey it, they still would not be able to achieve that, because they were prevented from hearing the Qur'an when it was brought down, for the heavens were filled with guardians and shooting stars at the…
+
+**From the Sunnah:** protection of His Laws,…
 ## Personal Reflections
 
 

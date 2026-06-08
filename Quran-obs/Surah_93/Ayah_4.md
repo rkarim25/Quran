@@ -217,6 +217,19 @@ This is the end of the Tafsir of Surat Ad-Duha, and unto Allah is due all praise
 
 وَلَلْآخِرَ‌ةُ خَيْرٌ‌ لَّكَ مِنَ الْأُولَىٰ (And the Hereafter is much better for you than the present life....93:4). The word 'akhirah may be taken in its popular sense of the 'Hereafter' and its opposite ula may be taken in the sense of the present 'world'. With these words, Allah tells the Holy Prophet not to be disturbed by the taunts of the pagans, because they will see in this world that their assumptions and accusations were absolutely false. In the Hereafter, he will be blessed with Divine favours to his heart's content - much more than what he will receive in this fleeting world. The word 'akhirah may also be taken in its primitive sense i.e. 'the later state or condition' as opposed to ula 'the former state or condition'. The verse, in this case, would mean that every succeeding moment of the Holy Prophet's ﷺ life is better than the preceding one. It includes progress in knowledge and wisdom, as well as in degrees of his nearness to Allah, and it also includes progress in economic and political fields.
 
+## AI Translation
+
+The Akhirah—the everlasting life after death—is better for you than this dunya, the temporary worldly life.
+
+## AI Tafsir
+
+**Context:** Al-'Awfi reported from Ibn 'Abbas, "When the Qur'an was revealed to the Messenger of Allah ﷺ, Jibril was delayed from coming to him for a number of days (on one occasion).
+
+**What this ayah teaches:** The verse, in this case, would mean that every succeeding moment of the Holy Prophet's ﷺ life is better than the preceding one.
+
+**Classical tafsir:** Ibn Kathir notes: Your Lord has neither forsaken you nor hates you.)(4.
+
+**From the Sunnah:** this Hadith. (Sahih al-Bukhari, Sahih Muslim) Therefore, the Messenger of Allah ﷺ was affected by this.
 ## Personal Reflections
 
 

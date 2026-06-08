@@ -132,6 +132,15 @@ As it is condemned in the verses under study that Divine message is ignored. It 
 
 It is a matter of great satisfaction that there is a new tendency among the younger generation and modern educated people to study the Qur’ an but to achieve this purpose they often deem it enough to study the Qur’ an and try to understand it through the translations of the Qur'an on their own. This practice being against the correct principles of learning something, often makes them fall into misconceptions. It is a well-settled fact that education and knowledge cannot be imparted only through books unless guidance of a teacher is available for explaining the intricacies of the subject which normally go unnoticed by an ordinary reader. It is rather strange why people feel that this basic rule does not apply to Qur'an and its related subjects and try to indulge in interpreting the Holy Book according to their own wishes. This type of study and interpreting Qur'an on one's own without the help and guidance of a well qualified teacher also falls under the purview of this verse i.e. "they do not throw themselves upon as if they were blind and dumb". May Allah lead us to the right path.
 
+## AI Translation
+
+They are those who, when reminded of the revelation of their Rabb, do not turn a blind eye or a deaf ear to it.
+
+## AI Tafsir
+
+**What this ayah teaches:** When they hear the Words of Allah, they are not affected by them or moved to change their ways. Second, to fall at the verses like deaf and dumb people which means to listen to the message but without any purpose or commitment and act in a manner that the real message has not been registered, and even if they follow the Qur'anic message it is not in line with the practices of the companions of the…
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "This means (offspring) who will strive to obey Allah and bring them joy in this world and the Hereafter." Imam Ahmad recorded that Jubayr bin Nufayr said: "We sat with Al-Miqdad bin Al-Aswad one day, and a man passed by and said, "How blessed are these two eyes which saw the Messen…
 ## Personal Reflections
 
 

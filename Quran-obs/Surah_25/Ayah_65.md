@@ -128,6 +128,15 @@ The Fifth Characteristic
 
 وَالَّذِينَ يَقُولُونَ رَ‌بَّنَا اصْرِ‌فْ عَنَّا عَذَابَ جَهَنَّمَ (and those who say, "Our Lord, avert from us the punishment of Jahannam - 25:65). It means that despite their constant prayers day and night, these favoured ones do not sit content, but are always fearful of God and keep in mind the Day of Judgment. To that end they keep alive the righteous deeds as well as supplications before Allah.
 
+## AI Translation
+
+They are those who pray, “Our Rabb! Keep the punishment of Hell away from us, for its punishment is indeed unrelenting.
+
+## AI Tafsir
+
+**What this ayah teaches:** The inseparable, permanent punishment is that which lasts as long as heaven and earth.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

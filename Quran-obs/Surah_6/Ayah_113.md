@@ -142,6 +142,15 @@ Similar is the case of the veracity of a prophet or Rasul of Allah. To that end 
 
 After that, upto the end of the cited verses, Muslims have been directly instructed that their duty is to stay firm on the true faith in their individual capacity, as well as convey it to others correctly and properly. If they, even then, show signs of rigidness and obstinacy, one should not worry about them because no one has to be forced into becoming a Muslim. If this was what could be done by force, who can claim to have greater coercive power than Allah Ta` ala. He Himself would have made everyone a Muslim. And in order to give Muslims their peace of heart, it was also explained in the verse that these people will not believe even if Allah were to show them the miracles of their choice openly and clearly. The reason was that their denial was not based on any misunderstanding or lack of awareness. In fact, it was due to their hostility and obstinacy - a disease which cannot be treated by miracles. In verse 111 وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلَائِكَةَ , it has been said that these people, if they were shown all miracles demanded by them, in fact, even if they were made to meet with angels and talk to the dead, they would still not believe. In the two verses that follow (112 113), the Holy Prophet ﷺ has been comforted by saying that the hostility of such people against him is nothing surprising. Past prophets too had their enemies - so, let him not be sad about it.
 
+## AI Translation
+
+And so We have made for every prophet enemies—devilish humans and jinn—whispering to one another with elegant words of deception. Had it been your Rabb’s Will, they would not have done such a thing. So leave them and their deceit, so that the hearts of those who reject the truth in the Akhirah may be receptive to it, be pleased with it, and be persistent in their evil pursuits.
+
+## AI Tafsir
+
+**Context:** The previous verses had mentioned how obstinate people failed to benefit from clear signs of Allah and open miracles of His Messenger and kept on denying the message of truth.
+
+**What this ayah teaches:** If your Lord had so willed, they would not have done it; so leave them alone with their fabrications (112)And 'Taşghā' to it that the hearts of those who do not believe in the Hereafter may incline to such (deceit), and that they may remain pleased with it, and that they may commit what they are committing .
 ## Personal Reflections
 
 

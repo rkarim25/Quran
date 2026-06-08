@@ -233,6 +233,15 @@ In verse 6, it was said: وَأَنزَلَ لَكُم مِّنَ الْأَنْ
 
 Towards the later part of verse 6, it was said: خَلْقًا مِّن بَعْدِ خَلْقٍ فِي ظُلُمَاتٍ ثَلَاثٍ (He creates you in the wombs of your mothers, creation after creation, in three layers of darkness.) Here, some clues to the mysteries of Divine power that work in the creation of man have been released. First of all, it was well within the power of Allah Ta’ ala that He could have made the infant come to be created whole and complete in the womb of the mother within a single instant. But, such was the dictate of wisdom and expedient consideration that it was not done. Instead, a process of gradualness was opted for as indicated by: خَلْقًا مِّن بَعْدِ خَلْقٍ (creation after creation). The purpose was to ensure that the woman in whose womb this 'mini universe' was taking shape should gradually become used to bearing its burden. Secondly, the creation of this matchless marvel of beauty and efficiency provided with hundreds of precision gadgets, hair-thin veins to carry life-blood and spiritual input was not to look like things created by common industrialists in spacious factories under glowing lights. Instead of that, this marvel of creation has reached its completion at a place shielded by three layers of darkness, a location so hidden from night that it beats all imagination. فَتَبَارَ‌كَ اللَّـهُ أَحْسَنُ الْخَالِقِينَ (glorious is Allah, the best of the Creators – Al-mu’ minun, 23:14).
 
+## AI Translation
+
+He created you all from a single soul, then from it made its mate. He produced for you four pairs of cattle. He creates you in the wombs of your mothers in stages, one development after another, in three layers of darkness. That is Allah—your Lord! All authority belongs to Him. There is no god worthy of worship except Him. How can you then be turned away?
+
+## AI Tafsir
+
+**What this ayah teaches:** Everyone of you is originally a Nutfah, then he becomes an 'Alaqah, then he becomes a Mudghah, then he is created and becomes flesh and bones and nerves and veins, and the Ruh (soul) is breathed into him, and he becomes another type of creation.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, it can be said that these too were as if sent down from the skies.
 ## Personal Reflections
 
 

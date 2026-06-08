@@ -124,6 +124,17 @@ The next verse explains the reason, that is, Allah has set a seal on their heart
 
 The Holy Qur'an describes .the condition of these disbelievers in terms of their hearts and ears having been sealed, but in the case of the eyes it refers to a covering. The subtle distinction arises from the fact that an idea can enter the heart from all possible directions and not from one particular direction alone, and so can a sound enter the ears; an idea or a sound can be blocked only by sealing the heart and the ears. On the contrary, the eyes work only in one direction, and can see only the things which lie in front of them; if there is a covering on them, they cease to function. (See Mazhari)
 
+## AI Translation
+
+As for those who persist in rejecting the truth, it makes no difference whether you warn them or stay silent — they will not accept iman — faith that reshapes how you live.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, those who disbelieve, it is the same to them whether you warn them or do not warn them, they will not believe .
+
+**Classical tafsir:** Ibn Kathir notes: The Holy Qur'an describes .the condition of these those who reject the truth in terms of their hearts and ears having been sealed, but in the case of the eyes it refers to a covering.
+
+**From the Sunnah:** That the Messenger of Allah ﷺ was eager for all the people to believe and follow the guidance he was sent with. They tried to convince the Muslims that they had faith in the Holy Qur'an and its teachings, that they were as good a Muslim as any and would support the Muslims against the those who reject the truth. (Sahih Muslim)
 ## Personal Reflections
 
 

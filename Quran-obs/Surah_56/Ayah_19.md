@@ -190,6 +190,17 @@ This is the narration that Abu Ya'la collected, and Al-Hafiz Ad-Diya' said, "Thi
 
 لَا يُنزِفُونَ nor will they be intoxicated...56:19). The Arabic verb is derived from nazf, the root-meaning of which being 'the well became empty, all the water having been taken out of it.' Here it means 'the spring of his brain or mind or senses became exhausted.'
 
+## AI Translation
+
+that causes neither headache nor intoxication.
+
+## AI Tafsir
+
+**What this ayah teaches:** This is because this Ummah is the best of all nations, according to the text of the Qur'an. Therefore, it is not possible that the foremost believers from earlier nations are more numerous than those of in this Ummah; the opposite is true.
+
+**Classical tafsir:** Ibn Kathir notes: Some said that the former means earlier (believing) nations, while the later refers to this Ummah.
+
+**From the Sunnah:** He considered it supported by the saying of Allah's Messenger ﷺ: And a few of those will be from the later ones.), this news became hard for the Companions of the Prophet ﷺ.
 ## Personal Reflections
 
 

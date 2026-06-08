@@ -124,6 +124,15 @@ Ibn Abi Hatim recorded that 'Uqbah bin 'Amir, may Allah be pleased with him, sai
 
 فَاسْتَخَفَّ قَوْمَهُ (Thus he made fool of his people - 43:54). According to the Arabic expression, this sentence may be translated in two ways; the translation adopted in the text above is based on one of them. The second one may be: "He (Fir'aun) easily made his people to follow him". (Ruh-u1-Ma’ ani)
 
+## AI Translation
+
+And so he fooled his people, and they obeyed him. They were truly a rebellious people.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, they were ever a people who were rebellious (54)So when they angered Us, We punished them, and drowned them all (55)And We made them a precedent, and an example to later generations . Even though Fir'awn had the intelligence to understand that, he wanted to confuse and mislead his people, who were ignorant and stupid.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

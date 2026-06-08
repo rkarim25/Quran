@@ -183,6 +183,17 @@ Commentary
 
 وَإِنِّي عُذْتُ بِرَ‌بِّي وَرَ‌بِّكُمْ أَن تَرْ‌جُمُونِ "And I have sought refuge with my Lord and your Lord, lest you stone me to death. (44:20) " The word rajm means 'to stone to death'. Another meaning of the word is 'to revile or to make a verbal assault or to heap up insults'. Both senses are possible here, but it seems more likely that the word is used here in the sense of stoning to death, because Fir'aun's people must have been threatening Prophet Musa (علیہ السلام) with death.
 
+## AI Translation
+
+And indeed, I seek refuge with my Lord and your Lord so you do not stone me to death.
+
+## AI Tafsir
+
+**Context:** And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid (of drowning in the sea). (20:77)
+
+**What this ayah teaches:** You have indeed bestowed on Fir'awn and his chiefs splendor and wealth in the life of this world, our Lord! This refers to the clear signs and definitive evidence with which Allah sent him.
+
+**Classical tafsir:** Ibn Kathir notes: This refers to the clear signs and definitive evidence with which Allah sent him.
 ## Personal Reflections
 
 

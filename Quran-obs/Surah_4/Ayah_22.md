@@ -252,6 +252,17 @@ Ruling:
 
 Marrying the legally wedded wife of the father has been declared unlawful in this noble verse. There is no restriction here to indicate marital consummation by the father. So, the fact that the father has married a woman is enough to forbid the son from entering into marriage with that woman. It will never be lawful. Similarly, it is not correct for the father to marry the wife of his son, even if the marriage of the son is limited to formal 'nikah' and his wife have not yet come to live with him. (Ibn ` Abidin)
 
+## AI Translation
+
+Do not marry former wives of your fathers—except what was done previously. It was indeed a shameful, despicable, and evil practice.
+
+## AI Tafsir
+
+**Context:** (O you who believe! You are not permitted to inherit women against their will,) "Before, the practice was that when a man dies, his male relatives used to have the right to do whatever they wanted with his wife.
+
+**What this ayah teaches:** If you dislike them, it may be that you dislike a thing and Allah brings through it a great deal of good (19)But if you intend to replace a wife by another and you have given one of them a Qintar, take not the least bit of it back; would you take it wrongfully without a right and (with) a manifest sin (20)And how could you take it (back) while you have gone in unto each other, and they have taken…
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, 'Ikrimah and Ad-Dahhak said that Fahishah refers to disobedience and defiance.
 ## Personal Reflections
 
 

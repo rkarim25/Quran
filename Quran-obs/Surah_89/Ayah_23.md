@@ -148,6 +148,19 @@ This is the end of the Tafsir of Surat Al-Fajr, and all praise and blessings are
 
 يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي (He will say, "0 Would that I had sent ahead [ some good deeds ] for [ this ] my life!"....89:24). When he faces the torment of disbelief and idolatry on that day of devastation, man will lament that he should have carried out good deeds and refrained from sin in this world to be saved from punishment in the Hereafter. But it will be of no avail. Allah says: 'So, that day, no one can punish like He will punish, nor can anyone shackle like He will shackle....89:26] Having described the torment of the unbelievers, the conclusion of the Surah gives cheerful news to the believers that they will be admitted into Paradise. Thus it says:
 
+## AI Translation
+
+And Hell is brought near that Day—then every soul remembers, but remembrance then cannot buy back a life misspent.
+
+## AI Tafsir
+
+**Context:** He said, "This Ayah was revealed while Abu Bakr was sitting (with the Prophet ﷺ). So he said, 'O Messenger of Allah! There is nothing better than this!' The Prophet ﷺ then replied,
+
+**What this ayah teaches:** When the earth is flatened, Dakkan Dakka (21)And your Lord comes with the angels in rows (22)And Hell will be brought near that Day.
+
+**Classical tafsir:** Ibn Kathir notes: The unbelievers will realise the errors of their ways in the Hereafter, but it will be too late, because it is this present world where 'Imn and good deeds benefit the people.
+
+**From the Sunnah:** This is similar to what Imam Ahmad bin Hanbal recorded from Muhammad bin Abi 'Amirah, who was one of the Companions of the Messenger of Allah ﷺ. (Musnad Ahmad)
 ## Personal Reflections
 
 

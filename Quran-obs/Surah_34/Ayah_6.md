@@ -155,6 +155,15 @@ The Exalted in might is the One Who is All-Powerful, Whom none can overwhelm or 
 
 Verse 6: وَيَرَ‌ى الَّذِينَ أُوتُوا الْعِلْمَ (34:6) talks about believers in contrast with those who denied the coming of the Qiyamah. The former had put their faith in it and became the beneficiaries of the knowledge given by Allah Ta’ ala to the Holy Prophet ﷺ by revelation.
 
+## AI Translation
+
+Those given knowledge clearly see that what was revealed to you from your Lord is the truth, and that it guides to the path of the Almighty, the Praiseworthy.
+
+## AI Tafsir
+
+**Context:** Those who disbelieve say: "The Hour will not come to us." Say: "Yes, by my Lord, the All-Knower of the Unseen, it will come to you; not even the weight of a speck of dust or less than that or greater escapes His knowledg…
+
+**What this ayah teaches:** Those, theirs is forgiveness and generous provision (4)But those who strive against Our Ayat to frustrate them – those, for them will be a severe painful torment (5)And those who have been given knowledge see that what is revealed to you from your Lord is the truth, and that it guides to the path of the Exalted in might, Owner of all praise .
 ## Personal Reflections
 
 

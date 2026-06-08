@@ -144,6 +144,15 @@ Surah Al-Munafiqun
 
 Ends here
 
+## AI Translation
+
+Give from what We have provided before death comes to one of you and he cries: 'My Lord, if only You delayed me a little, I would give in charity and be among the righteous.'
+
+## AI Tafsir
+
+**What this ayah teaches:** Furthermore, charity [ sadaqah ] is efficacious in averting calamities and punishment.
+
+**Classical tafsir:** Ibn Kathir notes: Earlier on it was learned that the word dhikr (remembrance of Allah) refers to all forms of obedience and following the dictates of Shari’ ah, which include spending wealth as due.
 ## Personal Reflections
 
 

@@ -129,6 +129,15 @@ The next verse refers to the former nations who denied and rejected the truth an
 
 The next verse turns once again to the central theme of the Surah, that is, the description of various forms and functions of Allah's creation to prove His Oneness, His knowledge and power. Thus far human souls, forms and functions of the sky, the stars, the earth and so on were discussed. The next verse mentions birds that fly about in the atmosphere above us.
 
+## AI Translation
+
+Or do you feel secure that He will not unleash upon you a storm of stones? Then you would know how serious My warning was.
+
+## AI Tafsir
+
+**What this ayah teaches:** Do you feel secure that He, Who is over the heaven, will not cause the earth to sink with you, and then it should quake (16)Or do you feel secure that He, Who is over the heaven, will not send against you a Hasib?
+
+**Classical tafsir:** Ibn Kathir notes: The next verse refers to the former nations who denied and rejected the truth and how they were annihilated by Divine scourge.
 ## Personal Reflections
 
 

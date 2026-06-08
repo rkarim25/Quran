@@ -162,6 +162,17 @@ verse of the Qur'an: تِسْعَةُ رَ‌هْطٍ يُفْسِدُونَ ف�
 
 During the Khilafah of Sayyidna ` Umar ibn ` Abd al-` Aziz (رح) ، someone was arrested while he was cutting a dirham coin. He was awarded a punishment of lashes and was paraded around head shaved. (Tafsir al Qurtubi)
 
+## AI Translation
+
+And as for those destined to joy, they will be in Paradise, staying there forever, as long as the heavens and the earth will endure, except what your Rabb wills—a generous giving, without end.
+
+## AI Tafsir
+
+**What this ayah teaches:** There is a consensus of the entire Muslim Ummah that doing so is strictly Haram (unlawful).
+
+**Classical tafsir:** Ibn Kathir notes: This has been mentioned so that the suspicious person will not doubt after the mention of the will of Allah.
+
+**From the Sunnah:** There is a consensus of the entire Muslim Ummah that doing so is strictly Haram (unlawful). (Sahih Muslim)
 ## Personal Reflections
 
 

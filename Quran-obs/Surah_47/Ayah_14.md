@@ -191,6 +191,17 @@ Honey, in this world, is the secretion derived principally from the nectarines o
 
 All four kinds of rivers - of water, milk, wine and honey - are used in their primary senses. There is no need to apply them unnecessarily in their figurative sense. However, it is obvious that the bounties of Paradise cannot be compared to things of this world. The taste and quality of the bounties of Paradise will be unique and can only be experienced in the gardens of Paradise.
 
+## AI Translation
+
+Can those who stand on clear proof from their Rabb be like those whose evil deeds are made to look attractive, so they follow only their desires?
+
+## AI Tafsir
+
+**Context:** (Can then he, who stands on clear evidence from his Lord...) This means a person who is upon clear vision and certainty concerning Allah's commands and His religion, because of the guidance and knowledge that Allah has r…
+
+**What this ayah teaches:** Can then he, who stands on clear evidence from his Lord, be like those for whom their evil deeds are beautified for them, while they follow their own lusts (14)The description of Paradise which is promised to those who have Taqwa, (is that) in it are rivers of water that are not Asin, rivers of milk the taste of which never changes, rivers of wine delicious to those who drink it, and rivers of ref…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

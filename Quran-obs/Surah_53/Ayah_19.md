@@ -146,6 +146,17 @@ The preceding verses declared the Glory of Allah, His Majesty and Dignity. They 
 
 Pagans of Arabia had countless idols that they worshipped. However, there were three of them that were most popular, and they were worshipped by strong and powerful tribes of Arabia. The three idols were Lat, ` Uzza and Manat. Lat was the idol of the tribe of Thaqif or of the residents of Ta'if , ` Uzza was the idol of Quraish, and Manat was the idol of Banu Hilal. They built houses for their idols to resemble the Ka'bah. After the conquest of Makkah, the Holy Prophet ﷺ demolished them. (Qurtubi)
 
+## AI Translation
+
+Have you considered al-Lat,
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah mentioned these three here because they were more famous than the others. They built houses for their idols to resemble the Ka'bah built by Prophet Ibrahim, Allah's Khalil.
+
+**Classical tafsir:** Ibn Kathir notes: Allah mentioned these three here because they were more famous than the others.
+
+**From the Sunnah:** a statement from 'A'ishah with this meaning. (Sahih al-Bukhari) When he went back to the Prophet ﷺ and informed him of the story, the Prophet said to him, (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

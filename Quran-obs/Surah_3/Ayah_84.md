@@ -232,6 +232,17 @@ The verse implies that a person whom Allah invests with the Book, the Wisdom and
 
 In this, there is the necessary refutation of the Christians who claimed that it was Masih (علیہ السلام) who asked them to have belief in his sonship and godhead. Also chastised were the Muslims who had gone to the Holy Prophet . ﷺ trying to find out if it was all right for them to prostrate before him rather than greet him with the usual سلام salam. Also admonished were the people of the Book who had invested their rabbis and monks with the station of God. Refuge with Allah! (Tafsir ` Usmani)
 
+## AI Translation
+
+Say, “We believe in Allah and what has been revealed to us and what was revealed to Abraham, Ishmael, Isaac, Jacob, and his descendants; and what was given to Moses, Jesus, and other prophets from their Rabb—we make no distinction between any of them, and to Him we submit.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, the faithful believer submits to Allah in heart and body, while the those who reject the truth unwillingly submits to Him in body only, since he is under Allah's power, irresistible control and mighty kingship that cannot be repelled or resisted.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the faithful believer submits to Allah in heart and body, while the those who reject the truth unwillingly submits to Him in body only, since he is under Allah's power, irresistible control and mighty kingship that cannot be repelled or resisted.
+
+**From the Sunnah:** Therefore, faithful Muslims believe in every Prophet whom Allah has sent and in every Book He revealed, and never disbelieve in any of them. Also chastised were the Muslims who had gone to the Holy Prophet .
 ## Personal Reflections
 
 

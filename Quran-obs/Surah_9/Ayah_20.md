@@ -132,6 +132,19 @@ There is a Hadith [from the Prophet ﷺ] about the Tafsir of this Ayah that we s
 
 Verse 20 enlarges upon the subject initiated with the words: لَا يَسْتَوُونَ (la yastawun: they are not equal) in the previous verse (19) where it was said that the believing Mujahidin and those engaged only in maintaining the masjid and serving water to pilgrims are not equal. This was enlarged by saying: الَّذِينَ آمَنُوا وَهَاجَرُ‌وا وَجَاهَدُوا فِي سَبِيلِ اللَّـهِ بِأَمْوَالِهِمْ وَأَنفُسِهِمْ أَعْظَمُ دَرَ‌جَةً عِندَ اللَّـهِ ۚ وَأُولَـٰئِكَ هُمُ الْفَائِزُونَ ﴿20﴾ (those who believed and emigrated and took up jihad in the way of Allah, with their wealth and lives, are greater in rank in the sight of Allah, and they are the successful ones). The reason is that the Mushriks against them simply had no measure of success whatsoever. As for Muslims in general, they too shared this success in essence, but the success of those identified above had more to it. There-fore, they were the ones whose success was comprehensive.
 
+## AI Translation
+
+Those who have believed, emigrated, and strived in the cause of Allah with their wealth and their lives are greater in rank in the sight of Allah. It is they who will triumph.
+
+## AI Tafsir
+
+**Context:** Ali bin Abi Talhah reported that Ibn 'Abbas said, "This Ayah was revealed about Al-'Abbas bin 'Abdul-Muttalib, for when he was captured in the battle of Badr, he said, 'If you rushed before us to embrace Islam, perform H…
+
+**What this ayah teaches:** And Allah guides not those people who are the wrongdoers (19)Those who believed and emigrated and strove hard and fought in Allah's cause with their wealth and their lives, are far higher in degree with Allah. These actions – maintaining and serving Allah's House – will not benefit them with Allah because they associate others with Him.
+
+**Classical tafsir:** Ibn Kathir notes: These actions – maintaining and serving Allah's House – will not benefit them with Allah because they associate others with Him.
+
+**From the Sunnah:** They used to talk about this by night while shunning the Qur'an and the Prophet ﷺ.
 ## Personal Reflections
 
 

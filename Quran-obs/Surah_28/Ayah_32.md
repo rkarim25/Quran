@@ -217,6 +217,15 @@ The place also becomes auspicious if righteous deeds are performed there
 
 فِي الْبُقْعَةِ الْمُبَارَ‌كَةِ (In the blessed ground - 28:30). The Holy Qur'an has termed the mount Tur as blessed ground. It is obvious that the reason of its being auspicious is the refulgence of Allah Ta` ala, which was manifested at that spot in the form of fire. It proves that if something virtuous happens at a place, that particular spot also turns auspicious.
 
+## AI Translation
+
+Now put your hand through the opening of your collar, it will come out shining white, unblemished. And cross your arms tightly to calm your fears. These are two proofs from your Rabb to Pharaoh and his chiefs. They have truly been a rebellious people.”
+
+## AI Tafsir
+
+**What this ayah teaches:** These were two clear and definitive proofs of the power of the One Who does as He chooses, and of the truth of the prophethood of the one at whose hands these miracles occurred. This indicates that when Musa headed for the fire, he headed in the direction of the Qiblah with the western mountain on his right.
+
+**Classical tafsir:** Ibn Kathir notes: This indicates that when Musa headed for the fire, he headed in the direction of the Qiblah with the western mountain on his right.
 ## Personal Reflections
 
 

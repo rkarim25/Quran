@@ -211,6 +211,19 @@ The calamities of one group are the gains of another.
 
 In short, the evil of things we regard as evil is partial. Looked at from its relationship to the Creator of the Universe and the Lord of all there is, and viewed in the perspective of the totality of the world of our experience, nothing is really evil or bad as such. So given the wis-dom, the power and the consideration of the created universe as a whole, everything is good, 'khair' as the verse sees sufficient to say.
 
+## AI Translation
+
+Say, “O Allah! Rabb over all authorities! You give authority to whoever You please and remove it from who You please; You honour whoever You please and disgrace who You please—all good is in Your Hands. Surely You are Most Capable of everything.
+
+## AI Tafsir
+
+**Context:** In these verses, Muslims have been taught and prompted to make a particular prayer which, in a subtle way, gives an indication that they are going to overpower those who reject the truth.
+
+**What this ayah teaches:** Looked at from its relationship to the Creator of the Universe and the Lord of all there is, and viewed in the perspective of the totality of the world of our experience, nothing is really evil or bad as such.
+
+**Classical tafsir:** Ibn Kathir notes: This trench was several miles long and fairly deep and wide, so that the enemy would find it impossible to cross over.
+
+**From the Sunnah:** Allah transferred the prophethood from the Children of Israel to the Arab, Qurashi, Makkan, unlettered Prophet, the Final and Last of all Prophets and the Messenger of Allah ﷺ to all mankind and Jinn.
 ## Personal Reflections
 
 

@@ -77,6 +77,15 @@ Allah swears by His creation, in which some of His signs can be seen in His crea
 
 فَلَا أُقْسِمُ بِمَا تُبْصِرُ‌ونَ وَمَا لَا تُبْصِرُ‌ونَ (I swear by what you see, and what you do not see….69:38-39). This comprehends the entire body of creation. Some say 'what you do not see' refers to the Being of Allah Ta` ala and His attributes. Others say 'what you see' refers to things of the mortal world, and 'what you do not see,' refers to things of the Hereafter. [ Mazhari ] And Allah, the Pure and Exalted, Knows best!
 
+## AI Translation
+
+Nor is it the mumbling of a fortune-teller, yet you are hardly mindful.
+
+## AI Tafsir
+
+**What this ayah teaches:** So, I swear by whatsoever you see (38)And by whatsoever you see not (39)That this is verily the word of an honored Messenger (40)It is not the word of a poet, little is that you believe (41)Nor is it the word of a soothsayer, little is that you remember (42)This is the revelation sent down from the Lord of all that exists .
+
+**Classical tafsir:** Ibn Kathir notes: Some say 'what you do not see' refers to the Being of Allah Ta` ala and His attributes.
 ## Personal Reflections
 
 

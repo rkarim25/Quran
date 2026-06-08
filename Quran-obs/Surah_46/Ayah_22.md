@@ -180,6 +180,17 @@ Commentary
 
 These verses are to remind the infidels of the severe punishments faced by earlier people who rejected the messengers sent to them. Special reference is made to ` Ad, the people of Sayyidna Hud (علیہ السلام) who has been described as their 'brother', firstly because he belonged to their tribe, and secondly because he was their well-wisher as a brother. Since this nation lived in valleys surrounded by long, curved sand dunes, called in Arabic Ahqaf , special reference is made to these dunes, so that one could find out their places, if he so wishes when traveling to their localities. It is mentioned in verse 22 that they themselves demanded Allah's punishment to be brought upon them. Then verse 24 states that the punishment was sent to them in the form of a cloud that appeared to be benign, and therefore they were happy to see it in the hope that it would bring rain to them, but in fact it contained the divine punishment in the form of a violent wind that destroyed everything, leaving nothing except their empty homes that remained as a sign for those who might learn a lesson. The detailed account of the story of ` Ad and Thamud has already been given in Surah Hud (11:50) for which volume 4, page 643 of this book may be consulted. Mention of these events in these verses is in the form of a brief reference, and in verse 26 the infidels of Makkah are reminded that those nations were much more powerful and well-established than the people of Makkah. Still, their power and strength was of no use to them against Allah's punishment. Moreover, verse 28 points out that the false gods believed by them to be their patrons could not save them from the torment they faced, because they were coined only by their false imagination, having no real existence at all.
 
+## AI Translation
+
+They replied: Have you come to turn us away from our gods? Bring us what you threaten, if you are truthful.
+
+## AI Tafsir
+
+**What this ayah teaches:** It could be like what the people of 'Ad said, (Then, when they saw it as a dense cloud approaching their valleys, they said: "This is a cloud bringing us rain!")) We have previously mentioned the story of the destruction of the people of 'Ad in both Surat Al-A'raf and Surah Hud.
+
+**Classical tafsir:** Ibn Kathir notes: It is mentioned in verse 22 that they themselves demanded Allah's punishment to be brought upon them.
+
+**From the Sunnah:** Under the chapter, "He Who supplicates should first mention Himself," Ibn Majah recorded that Ibn 'Abbas narrated that the Prophet ﷺ said: (Sunan Ibn Majah) On seeing the punishment approaching them, a nation once said: "This is a cloud bringing us rain.") This is also recorded by Al-Bukhari and Muslim. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

@@ -148,6 +148,15 @@ It is Not permissible to prostrate before anyone except Allah Almighty
 
 Prostration of worship for any being other than Allah has never been lawful for any Ummah in any Shari` ah of any prophet, because it becomes a practice of shirk (polytheism) and shirk has never been allowed in any code of shari'ah revealed to any prophet. However, prostration in respect and reverence of anyone (with no intention to worshipping him) had been allowed in the codes of shari'ah revealed to some prophets. All the angels were ordered to prostrate before Sayyidna 'Adam (علیہ السلام) before he came into this world. It is stated in the Qur'an that the father and brothers of Sayyidna Yusuf (علیہ السلام) prostrated before him. But the jurisprudents of this Ummah are unanimous on the point that such a prostration was permissible in the earlier codes only, and it stands abrogated in Islam. Prostration for any being other than Allah has been declared absolutely haram (forbidden). Full details of this issue are given in the author's booklet ( المقالۃ المرضیۃ فی حکم سجدۃ التحیۃ) Al-maqalat-ulmardiyyah, fi Hukmi sajdat-it-tahiyyah' in Arabic, and its Urdu translation has also been published.
 
+## AI Translation
+
+Among His signs are the day and the night, the sun and the moon. Do not prostrate to the sun or the moon, but prostrate to Allah, Who created them all, if you truly worship Him alone.
+
+## AI Tafsir
+
+**Context:** Prostration of worship for any being other than Allah has never been lawful for any Ummah in any Shari` ah of any prophet, because it becomes a practice of shirk (polytheism) and shirk has never been allowed in any code…
+
+**What this ayah teaches:** Do not prostrate yourselves to the sun nor to the moon, but prostrate yourselves to Allah Who created them, if you worship Him (37)But if they are too proud, then there are those who are with your Lord glorify Him night and day, and never are they tired (38)And among His signs; that you see the earth barren, but when We send down water to it, it is stirred to life and growth.
 ## Personal Reflections
 
 

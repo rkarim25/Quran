@@ -118,6 +118,17 @@ This verse: أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُ
 
 Since it is established that Resurrection is a reality and inevitable, the reward of good deeds is a reality and the punishment of evil deeds is a reality, the verses that follow describe the horrors of the Day of Judgment and the punishment of the evil ones, including the description of the exposure of the Shin [ kashf-us-saq ] in Verse 42 (the explanation of which may be seen in the foot-note given in the translation of that verse.)
 
+## AI Translation
+
+Beware of the Day the Shin will be bared and the wicked will be asked to prostrate but will not be able to.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Day when the Shin shall be laid bare and they shall be called to prostrate themselves, but they shall not be able to do so (42)Their eyes will be cast down and ignominy will cover them; they used to be called to prostrate themselves, while they were (43)Then leave Me alone with whoever denies this narration.
+
+**Classical tafsir:** Ibn Kathir notes: The Terror of the Day of Judgement After Allah mentions that those who have Taqwa, will have Gardens of Delight with their Lord, He explains when this will be, and its actual occurrence.
+
+**From the Sunnah:** he heard the Prophet ﷺ saying, (Sahih al-Bukhari)
 ## Personal Reflections
 
 

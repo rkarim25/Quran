@@ -111,6 +111,17 @@ Allah's Fairness to Sinners
 
 كُلُّ امْرِ‌ئٍ بِمَا كَسَبَ رَ‌هِينٌ (Every person will be pledged for what he earned.) After Allah mentioned His favour of elevating the children to the ranks of their parents, even though the deeds of the former did not qualify them, He affirmed His fairness in that, He does not punish anyone for the sins of others. Therefore, every person will be responsible for his actions. No sins committed by others shall ever be added to one's load, even if committed by his parents or children. (Ibn Kathir)
 
+## AI Translation
+
+So keep reminding. By your Rabb's grace you are not a fortune-teller or a madman.
+
+## AI Tafsir
+
+**What this ayah teaches:** Absolving the Prophet (ﷺ) of the False Accusations the Idolators made against Him Allah the Exalted commands His Messenger ﷺ to convey His Message to His servants and remind them of His revelation that has been sent down to him. In fact, this equalization will take place as a result of Allah's grace.
+
+**Classical tafsir:** Ibn Kathir notes: I am with you among those who wait!") 'wait and I too will wait with you, and you will come to know to whom the good end and triumph shall be granted in this life and the Hereafter.' Muhammad bin Ishaq reported that 'Abdullah bin Abi Najih said that Mujahid said that Ibn 'Abbas said, "When the Quray…
+
+**From the Sunnah:** Next, Allah refutes the false accusations that the liars and sinners accused the Prophet ﷺ of, Allah the Exalted said, while chastising the pagans for uttering false statements about the Prophet ﷺ,
 ## Personal Reflections
 
 

@@ -198,6 +198,15 @@ WASILAH, a she-camel giving birth to female offspring continuously, uninterrupte
 
 In addition to doing what was Shirk, these people were challenging the right of benefiting from the meat of an animal, or its milk, or riding it, declared permissible by Almighty Allah, and placing their own restrictions on their being lawful or unlawful - as if the office of making Divine laws belonged to them! And the cruel joke was that they took these polytheistic customs of theirs to be the source of attaining the pleasure and nearness of Almighty Allah. The answer to this was: Almighty Allah had never appointed these customs. If their elders did it, they fabricated lies against Him, and the ignorant masses accepted them. In short, a two-pronged warning has been given here by saying that the way it is a crime to invite hardships in Divine injunctions by asking purposeless questions, similarly, it is much more serious a crime that one goes about proposing things as Halal or حَرَام haram based on one's personal opinions and desires without the will and command of the Law-Giver. (Tafsir Usmani )
 
+## AI Translation
+
+Allah has never ordained the baḥîrah, sâ'ibah, waṣîlah, and ḥâm camels. But those who reject the truth just fabricate lies about Allah, and most of them lack understanding.
+
+## AI Tafsir
+
+**What this ayah teaches:** But those who disbelieve invent lies against Allah, and most of them have no understanding (103)And when it is said to them: "Come to what Allah has revealed and unto the Messenger." They say: "Enough for us is that which we found our fathers following," even though their fathers had no knowledge whatsoever and no guidance (104).
+
+**Classical tafsir:** Ibn Kathir notes: As for the Sa'ibah, Mujahid said that it is for sheep, and mentioned a similar meaning as for Bahirah.
 ## Personal Reflections
 
 

@@ -365,6 +365,19 @@ Given below are some injunctions and instructions which emerge from these verses
 
 4. The rewards and blessings of Allah keep increasing in relation to the measure of gratitude. A person, who wishes an increase in Divine rewards, must make gratitude, expressed through word and deed, his way of life, a constant of personality.
 
+## AI Translation
+
+Do not dismiss those who invoke their Rabb morning and evening, seeking His pleasure. You are not accountable for them whatsoever, nor are they accountable for you. So do not dismiss them, or you will be one of the wrongdoers.
+
+## AI Tafsir
+
+**Context:** Say: "I don't tell you that with me are the treasures of Allah, nor (that) I know the Unseen; nor do I tell you that I am an angel.
+
+**What this ayah teaches:** Therefore, the first and the last lesson given by the blessed prophets and the religions they brought with them was that there is a life after this life, which will be eternal and uninterrupted.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the first and the last lesson given by the blessed prophets and the religions they brought with them was that there is a life after this life, which will be eternal and uninterrupted.
+
+**From the Sunnah:** This is because at first, most of those who followed the Messenger of Allah ﷺ were the weak among the people, men, women, slaves, and only a few chiefs or noted men followed him.
 ## Personal Reflections
 
 

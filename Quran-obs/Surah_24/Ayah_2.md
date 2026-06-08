@@ -330,6 +330,19 @@ Initially Islam requires not to publicize the crimes, but once they are establis
 
 For the control of vulgarity and shamelessness Islamic laws have imposed far reaching restrictions. It is made obligatory for women to cover themselves. Men are asked to lower their eyes on seeing women-folk. The sound of jewelry or the singing of women are prohibited as they may lead to wanton acts. However, if someone is seen wanting in adopting Islamic teachings, he should be guided in private, but is not allowed to be disgraced. But if someone has crossed all limits and has broken all the ties with Islamic laws, and his crime is established in accordance with the Islamic jurisprudence, then keeping his crime secret might embolden others for committing this crime. Hence, the extent to which Islam has cared for avoiding publicity of the crime, to the same extent the emphasis is laid in making it public for disgracing the culprits, once the crime is established. It is for this reason that not only the punishment for adultery is enjoined to be executed publicly, but the presence of a group of Muslims at the time of execution is also made mandatory.
 
+## AI Translation
+
+As for female and male fornicators, give each of them one hundred lashes, and do not let pity for them make you lenient in enforcing the law of Allah, if you truly believe in Allah and the Last Day. And let a number of mu'mins witness their punishment.
+
+## AI Tafsir
+
+**Context:** Imam Malik recorded that 'Umar, may Allah be pleased with him, stood up and praised and glorified Allah, then he said; "O people! Allah sent Muhammad ﷺ with the truth, and revealed to him the Book.
+
+**What this ayah teaches:** The punishment of whipping a hundred times is exclusive to unmarried man and woman.
+
+**Classical tafsir:** Ibn Kathir notes: This indicates that if the person who is guilty of illegal sex is a virgin and unmarried, he should be banished in addition to being given one hundred stripes.
+
+**From the Sunnah:** The Messenger of Allah ﷺ carried out the punishment of stoning and after him we did so, but I am afraid that as time goes by, some will say that they did not find the Ayah of stoning in the Book of Allah, and they will go astray because they abandoned one of t… The same version is narrated in Sahih of al-Bukhari also with greater detail (Bukhari 1009…
 ## Personal Reflections
 
 

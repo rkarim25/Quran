@@ -271,6 +271,17 @@ Sayyidna ` Abdullah Ibn ` Umar ؓ says: "When you hear anyone reviling a Compani
 
 ` Amr Ibn Haushab (رح) says: "I have found the earlier generations of this Ummah uniformly and strongly advise people to describe the merits of the noble Companions ؓ and their good qualities, so that they may develop love for them. Do not ever talk about their conflicts and disagreements, so that people may become bold and show disrespect to them." [ All these narratives have been adapted from Qurtubi ].
 
+## AI Translation
+
+Those who come after them pray: 'Our Lord, forgive us and our fellow believers who preceded us in faith, and do not put bitterness in our hearts toward those who believe. Our Lord, You are Ever Gracious, the Rahim—whose special mercy is for believers in the Akhirah.'
+
+## AI Tafsir
+
+**What this ayah teaches:** Then he argues, on the basis of this verse, that every Muslim has a share in the fai' property, and anyone who has no share, his faith in Islam is doubtul.
+
+**Classical tafsir:** Ibn Kathir notes: He retained them as public endowment for next generations, so that the income might accrue to the Islamic public treasury and the Muslims till the Last Hour may benefit from it.
+
+**From the Sunnah:** He also recorded that Abu Hurayrah said, "The Ansar said (to the Prophet ﷺ), 'Distribute our date-palms between us and our emigrant brothers.' He replied, 'No.' The Ansar said (to the emigrants), 'Look tend to the trees and share the fruits with us.' The emigr… (Sahih al-Bukhari, Sahih Muslim) Abu Bakr As-Siddiq gave away all his wealth in charity and Allah's Messenger ﷺ asked him,
 ## Personal Reflections
 
 

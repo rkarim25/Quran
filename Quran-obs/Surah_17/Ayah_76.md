@@ -91,6 +91,19 @@ As an alternate, he points out to another event which transpired in Makkah al-Mu
 
 Thereupon, Allah Ta’ ala revealed the verse: كَادُوا لَيَسْتَفِزُّونَكَ where the Quraysh disbelievers were warned that in the event they expelled the Holy Prophet ﷺ from Makkah, they too would not be sitting in Makkah in peace any longer. This is the event Ibn Kathir considers to be the weightier choice as the point of reference in the verse. Then, he goes on to explain that this warning of the Holy Qur’ an was seen come true by the disbelievers of Makkah with their own eyes. When the Holy Prophet ﷺ migrated from Makkah al-Mukarramah, they were unable to sit there in peace even for a day. It was within a period of a year and six months that Allah Ta` ala made them assemble on the plains of Badr where seventy of their chiefs were killed and their initial aggressive power was broken. Then came the final outcome of the battle of 'Uhud which made them more awe-stricken, and the last confrontation of the battle of al-Ahzab virtually broke their back. It was in the eighth year of Hijrah that the Holy Prophet ﷺ conquered the whole of Makkah al-Mukarramah.
 
+## AI Translation
+
+They were about to intimidate you to drive you out of the land of Mecca, but then they would not have survived after you had left except for a little while.
+
+## AI Tafsir
+
+**Context:** This was revealed concerning the those who reject the truth among the Quraysh, when they wanted to expel the Messenger of Allah ﷺ from among themselves.
+
+**What this ayah teaches:** They told him: 'O Abu a1-Qasim, if you are true in your claim to be a prophet, you should go and live in Syria because the land of Syria is the land of al-Mahshar (the Resurrection) and the land of prophets too.' The Holy Prophet ﷺ was somewhat impressed by what they said and when he traveled to Syria at the time of the battle of Tabuk, the idea of taking up residence in Syria…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** This was revealed concerning the those who reject the truth among the Quraysh, when they wanted to expel the Messenger of Allah ﷺ from among themselves.
 ## Personal Reflections
 
 

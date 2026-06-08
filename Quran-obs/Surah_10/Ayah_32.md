@@ -150,6 +150,17 @@ important note
 
 In relation to issues of religious beliefs embedded in this verse, it must be borne in mind that the statement: مَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ (What is there, after truth, but error?) proves that there is no intermediary link between truth and error. What is not the truth will be included in error and straying. There can be no such thing that is neither truth nor error. And it is also not possible that two opposite things could be the truth. This is an established rule in the sight of the majority of scholars in the Muslim Ummah. However, difference exists among ` Ulama' regarding minor and subsidiary juristic issues. In the view of some of them, both sides would be considered as on truth in Ijtihad-based issues and, according to the majority of them, there is consensus on the view that the taking of contra-position in Ijtihad-based problems cannot be termed as error and straying.
 
+## AI Translation
+
+That is Allah—your True Rabb. So what is beyond the truth except falsehood? How can you then be turned away?”
+
+## AI Tafsir
+
+**What this ayah teaches:** How then are you turned away (32)Thus is the Word of your Lord justified against those who rebel (disobey Allah), that they will not believe .
+
+**Classical tafsir:** Ibn Kathir notes: How then are you turned away (32)Thus is the Word of your Lord justified against those who rebel (disobey Allah), that they will not believe .
+
+**From the Sunnah:** This is an established rule in the sight of the majority of scholars in the Muslim Ummah. (Sahih Muslim)
 ## Personal Reflections
 
 

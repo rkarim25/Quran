@@ -170,6 +170,17 @@ It is interesting that the text, while making a comparison between hypocrites an
 
 Moreover, since this friendship and concern for each other is for Allah alone, it is always constant. It remains the same under all conditions, open or secret, present or absent. And it is lasting. This is the mark of a true believer. It is in the very nature of 'Iman (faith) and Al-Amal as-Salih اَلاَعمَال اصَآالح (good deed) that they generate mutual love and friendship. The Holy Qur'an confirms it when it says: سَيَجْعَلُ لَهُمُ الرَّ‌حْمَـٰنُ وُدًّا (19:96). It means that among those who have believed and taken to consistent good conduct in life, Allah Ta` ala creates friendship that is deeply rooted into their hearts. What has happened to us in our time? May be we are short on the faith in our hearts and the concern for good in our conduct. That is why mutual relationships among Muslims do not seem to be what the Qur'an would like them to be. Unfortunately, these are subservient to worldly needs and interests - and are not for the sake of Allah alone, as they should be.
 
+## AI Translation
+
+Those who have iman, both men and women, are guardians of one another. They encourage good and forbid evil, establish salah and pay zakat, and obey Allah and His Messenger. It is they who will be shown Allah’s mercy. Surely Allah is Almighty, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** The believers, men and women, are supporters of one another; they enjoin good, and forbid evil; they perform the Salah, and give the Zakah, and obey Allah and His Messenger.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** That is why mutual relationships among Muslims do not seem to be what the Qur'an would like them to be.
 ## Personal Reflections
 
 

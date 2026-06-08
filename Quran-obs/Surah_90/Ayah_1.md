@@ -300,6 +300,19 @@ Commentary
 
 لَا أُقْسِمُ بِهَـٰذَا الْبَلَدِ (I swear by this city...90:1). The particle la ('no' ) in the beginning of this sentence has no meaning here. Such particles in Arabic language are commonplace. However, the more appropriate view is that when a Surah begins with a la (no) followed by an oath, it was revealed in refutation to a false assumption of the opponents. In other words, Allah is saying, 'No, what you [ the unbelievers ] are saying or thinking is not correct, but the truth is what We are swearing about...'. The word al-balad 'the City' refers to the Holy City of Makkah, as in Surah At-Tin [ 95:3] where Allah swears an oath 'by this peaceful City [ of Makkah ] وھٰذا البَلَدِ الاَمِین . The adjective attached to the 'City' is 'peaceful'. This shows the superiority and honour of Makkah over other cities. Sayyidna ` Abdullah Ibn ` Adiyy ؓ reports that when the Holy Prophet of Allah ﷺ was migrating from Makkah to Madinah, he addressed the city of Makkah and said: "By Allah, you are dearer to Allah than the entire earth. If I was not forced out of this place, I would never have abandoned you." [ Transmitted by Tirmidhi and Ibn Majah vide Mazhari ].
 
+## AI Translation
+
+I swear by this city—Makkah, the sacred sanctuary—
+
+## AI Tafsir
+
+**Context:** لَا أُقْسِمُ بِهَـٰذَا الْبَلَدِ (I swear by this city...90:1). The particle la ('no' ) in the beginning of this sentence has no meaning here. Such particles in Arabic language are commonplace.
+
+**What this ayah teaches:** The adjective attached to the 'City' is 'peaceful'.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
+
+**From the Sunnah:** Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
 ## Personal Reflections
 
 

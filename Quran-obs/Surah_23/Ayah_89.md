@@ -132,6 +132,15 @@ Commentary
 
 وَهُوَ يُجِيرُ‌ وَلَا يُجَارُ‌ عَلَيْهِ (And who gives protection and no protection can be given against him - 23:88) The meaning of the verse is that Allah alone can deliver a person from pain and suffering as He wills, but there is none who can save a person from divine punishment. This is true of this world because nobody can stop Allah from rewarding virtuous people nor can anyone protect someone whom He chooses to punish. And the same is true of the Hereafter also. (Qurtubi)
 
+## AI Translation
+
+They will reply, “Allah.” Say, “How are you then so deluded?”
+
+## AI Tafsir
+
+**What this ayah teaches:** The Idolators Believe in Tawhid Ar-Rububiyyah, Which Requires Them to Believe in Tawhid Al-Uluhiyyah Allah states that the fact that He is One and that He is independent in His creation, control, dominion and guides one to realize that there is no Allah except Him and that none should be worshipped except Him Alone, with no partner or associate.
+
+**Classical tafsir:** Ibn Kathir notes: This is true of this world because nobody can stop Allah from rewarding virtuous people nor can anyone protect someone whom He chooses to punish.
 ## Personal Reflections
 
 

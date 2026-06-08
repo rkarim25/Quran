@@ -344,6 +344,17 @@ Therefore, for Taubah (repentance) to be total and complete, the way it is neces
 
 Similar is the case of the Rights of the Servants of Allah (Huquq al-'lbad). If someone's property has been taken unlawfully, it should be returned to him, or have him forgive it. And if someone has been caused pain physically or verbally, forgiveness must be sought from the aggrieved person. And if, it is not possible or within one's control to have him forgive it - for example, he dies; or goes away to a place the address of which is not known - then, the way out is that one should make it a point to keep praying for his forgiveness before Allah Ta` ala consistently. If so, it can be hoped that the holder of the right will be pleased and the person who was unable to have the forgiveness of the deceased during his lifetime will become absolved of what was due on him.
 
+## AI Translation
+
+When those who have iman in Our revelations come to you, say, “Peace be upon you! Your Rabb has taken upon Himself to be Merciful. Whoever among you commits evil ignorantly then repents afterwards and mends their ways, then Allah is truly All-Forgiving, the Rahim.”
+
+## AI Tafsir
+
+**Context:** Say: "I don't tell you that with me are the treasures of Allah, nor (that) I know the Unseen; nor do I tell you that I am an angel.
+
+**What this ayah teaches:** You are accountable for them in nothing, and they are accountable for you in nothing, that you may turn them away, and thus become of the wrongdoers (52)Thus We have tried some of them with others, that they might say: "Is it these (poor believers) that Allah has favored from amongst us?" Does not Allah know best those who are grateful (53)When those who believe in Our Ayat come to you, say: "Sala…
+
+**Classical tafsir:** Ibn Kathir notes: But, this is not true - because Jahalah (ignorance) here means acting ignorantly which refers to the act of ignorance, that is, one ends up doing something as would have been done by one who is ignorant and unaware of the outcome of his or her act.
 ## Personal Reflections
 
 

@@ -174,6 +174,19 @@ Though the verse has been revealed in relation to physical pain and loss, but it
 
 Mentioned in verse 126: وَإِنْ عَاقَبْتُمْ , (And if you were to harm...) was the general law in which avenging harm done with even harm was declared to be permissible for all Muslims, but taking the option of patience was recommended as definitely much better. And in the next verse (127), the Holy Prophet ﷺ has been addressed in a special manner and prompted to be patient because, in view of his great dignity and high station, the later response was certainly more appropriate and becoming for him as compared with others. Therefore, it was said: وَاصْبِرْ‌ وَمَا صَبْرُ‌كَ إِلَّا بِاللَّـهِ (And be patient. And your patience is bestowed by none but Allah). It means: 'As for you, you just do not even contemplate a revenge. Take to Sabr (patience) as your only option.' And then, he was also told that his Sabr will come with the help of Allah alone, that is, observing Sabr will be made easy for him.
 
+## AI Translation
+
+Be patient O Prophet, for your sabr — steadfast endurance that keeps you upright is only with Allah’s help. Do not grieve over those who reject the truth, nor be distressed by their schemes.
+
+## AI Tafsir
+
+**Context:** Ibn Sirin said, "If a man among you takes something from you, then you should take something similar from him." This was also the opinion of Mujahid, Ibrahim, Al-Hasan Al-Basri, and others.
+
+**What this ayah teaches:** But if you have patience with them, then it is better for those who are patient (126)And be patient, and your patience will not be, but by the help of Allah.
+
+**Classical tafsir:** Ibn Kathir notes: No matter how softly and politely one explains things to them and no matter how much goodwill one has for them in his heart, they would, even then, go in a fit of anger, use bad language and cause pain.
+
+**From the Sunnah:** The narration in Sahih al-Bukhari is in accordance with it. (Sahih al-Bukhari) Therefore, Muslim jurists say that in the event a person kills someone, the killed will be avenged by killing the killer. (Sahih Muslim)
 ## Personal Reflections
 
 

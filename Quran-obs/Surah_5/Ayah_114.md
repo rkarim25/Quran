@@ -194,6 +194,15 @@ From the words of the verse 115: فَإِنِّي أُعَذِّبُهُ عَذ�
 
 Whether or not the ` Ma'idah' (food-spread) came down from the heaven is something commentators differ in. The majority of them hold that it did. Accordingly, it has been reported from Sayyidna ` Ammar ibn Yasir ؓ as in a Hadith of Tirmidhi, that ` Ma'idah' did come from the heavens which included bread and meat. It also appears in this Hadith that some of those people committed a breach of trust, and put it off for the next day as well. As a result, they were transformed into monkeys and swines. (May Allah keep us protected from His wrath). This very Hadith also tells us that they ate from it as they wanted to do as mentioned in the word, ` na'kulu' (we eat) - however, storing it for future use was prohibited. (Mayan al-Qur'an)
 
+## AI Translation
+
+Jesus, son of Mary, prayed, “O Allah, our Rabb! Send us from heaven a table spread with food as a feast for us—the first and last of us—and as a sign from You. Provide for us! You are indeed the Best Provider.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Can your Lord send down to us a Ma'idah from heaven) The Ma'idah is the table that has food on it.
+
+**Classical tafsir:** Ibn Kathir notes: Some scholars said that the disciples requested this table because they were poor and deprived.
 ## Personal Reflections
 
 

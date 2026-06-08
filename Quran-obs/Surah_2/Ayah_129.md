@@ -204,6 +204,19 @@ In the end, let us note that the three prophetic functions which Sayyidna Ibrahi
 
 "Those who are with him are hard against the disbelievers, merciful to one another; you see them-bowing and prostrating themselves (in prayers), seeking the bounty of Allah and His pleasure". (48:29).
 
+## AI Translation
+
+Our Rabb, raise from among them a messenger from themselves who will recite Your signs, teach them the Book and wisdom, and purify them. You are the Almighty, the All-Wise.
+
+## AI Tafsir
+
+**Context:** Now that we are on the subject of purification (tazkiyah تزکیہ ), we might add another important consideration. From the days of the First Prophet to the days of the Last (علیہم السلام) it has been the Way of Allah that…
+
+**What this ayah teaches:** According to the present verses, "teaching the Book" is a prophetic function distinct from "reciting the Verses".
+
+**Classical tafsir:** Ibn Kathir notes: This indicates the general principle that for their guidance men need, on the one hand, a Divine Teaching revealed in the form of a Book, and, on the other, a human teacher in the form of a prophet who should train and discipline them into absorbing the divine guidance fully.
+
+**From the Sunnah:** Hence, Ibrahim was the first person to mention the Prophet ﷺ to the people. Al-Bukhari added in his Sahih, (And they will reside in Ash-Sham.). (Sahih al-Bukhari)
 ## Personal Reflections
 
 

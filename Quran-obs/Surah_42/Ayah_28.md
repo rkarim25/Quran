@@ -150,6 +150,15 @@ The Reason why Provision is not Increased
 
 وَهُوَ الَّذِي يُنَزِّلُ الْغَيْثَ مِن بَعْدِ مَا قَنَطُوا (And He is the One who sends down rain after they have lost hope - 42:28) ". It is usual for Allah Almighty to send down rain whenever the earth is in severe need of water. But by saying "after they have lost hope", attention is being drawn towards the fact that sometimes Allah Almighty, in deviation from His usual norm, delays sending down rain so much that people begin losing hope. Apart from trial, such a happening is to warn that rain and famine are all in the power of Allah Ta’ ala; whenever He wants, He stops rain because of people's misdeeds, etc., so that people turn their attention towards His kindness, and display their humility and dependence. If rains had been subject to a strict time-table without any deviation, people would have considered rains to be purely subject to apparent causes, and would have become inattentive to Allah's Almighty's power. Here losing hope means losing hope in their contrivances because disappointment with Allah's kindness is kufr (infidelity).
 
+## AI Translation
+
+He is the One Who sends down rain after people have given up hope, spreading out His mercy. He is the Guardian, the Praiseworthy.
+
+## AI Tafsir
+
+**What this ayah teaches:** And He it is Who accepts repentance from His servants, and forgives sins, and He knows what you do (25)And He answers those who believe and do righteous good deeds, and gives them increase of His bounty.
+
+**Classical tafsir:** Ibn Kathir notes: Here losing hope means losing hope in their contrivances because disappointment with Allah's kindness is kufr (infidelity).
 ## Personal Reflections
 
 

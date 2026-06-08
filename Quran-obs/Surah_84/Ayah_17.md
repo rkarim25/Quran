@@ -156,6 +156,17 @@ The ignoramus and unmindful man is made aware of the fact that the vicissitudes 
 
 Under the phrase above طَبَقًا عَن طَبَقٍ tabaqan ` an tabaq 'from stage to stage', a similar narration is cited by Abu Nu'aim from Sayyidna Jabir Ibn ` Abdullah that the Holy Prophet ﷺ stated that these verses remind the unmindful of his creation, the vicissitudes of his life and instructs him to reconsider his position and the consequences [ of his attitude in this life as there is still time ] and to prepare for next life. However, despite these clear guidelines, there are people who never desist from their heedlessness.
 
+## AI Translation
+
+by the night and whatever it gathers in,
+
+## AI Tafsir
+
+**What this ayah teaches:** And when the Qur'an is recited to them, they fall not prostrate.) meaning, what prevents them from believing in Allah, His Messenger ﷺ and the Last Day, and what is wrong with them that when Allah's Ayat and His Words are recited to them they do not prostrate due to awe, respect and reverence?
+
+**Classical tafsir:** Ibn Kathir notes: The primitive sense of the word wasaqa means to 'pile, gather, heap up the thing'.
+
+**From the Sunnah:** His main goal in this life should be to cultivate for the next life as the Prophet ﷺ said:
 ## Personal Reflections
 
 

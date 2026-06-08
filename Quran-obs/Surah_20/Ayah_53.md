@@ -152,6 +152,15 @@ Concerning Allah's statement,
 
 The word ازواج (pairs) used in verse 53 is used here in the sense of "Kinds" or "Species", and the word is the plural of the word which means "different" or "diverse". The verse means that Allah has created so many kinds of plants that they are beyond human reckoning and each of them contains special properties which make them invaluable to man for his well-being. It is impossible for man to comprehend completely all the properties and uses of all the plants created by Allah Ta` ala. For centuries scientists have been working to find out all about them and researches have revealed a great deal about their properties. However it is impossible to claim that whatever we know at present is the last word.
 
+## AI Translation
+
+He is the One Who has laid out the earth for all of you, and set in it pathways for you, and sends down rain from the sky, causing various types of plants to grow,.
+
+## AI Tafsir
+
+**What this ayah teaches:** Who has made earth for you like a bed; and has opened ways for you therein, and has sent down water (rain) from the sky.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

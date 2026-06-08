@@ -266,6 +266,17 @@ The word: آثارَ (athar: traces or effects) is also used in the sense of foo
 
 There could be a possible doubt here in that the present Surah is Makki, while the event mentioned in these Hadith belongs to Madinah. This could be answered by saying that the verse might as well be in its general sense - that is, the traces of deeds are also written - and that this verse may have been revealed in Makkah. But thereafter, when this event came to pass in Madinah, he mentioned this verse in support. Then he counted footprints too within the effects and traces the writing of which has been mentioned in this verse of the Qur'an. This way the apparent contradiction between these two explanations also stands removed (as explicated and preferred by Ibn Kathir).
 
+## AI Translation
+
+It is certainly We Who resurrect the dead, and write what they send forth and what they leave behind. Everything is listed by Us in a perfect Record.
+
+## AI Tafsir
+
+**Context:** There could be a possible doubt here in that the present Surah is Makki, while the event mentioned in these Hadith belongs to Madinah.
+
+**What this ayah teaches:** Because these footsteps are being recorded, then those which are setting an example, whether good or bad, are more likely to be recorded.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "If Allah were to have neglected anything with regard to you, O son of Adam, He would have neglected what the wind could remove of these footsteps." But He takes into account the footsteps of the son of Adam and all his deeds; He even takes into account these footsteps and whether they… This also indicates that Allah gives life to the heart of whomever He wills among the those who reject the truth,…
 ## Personal Reflections
 
 

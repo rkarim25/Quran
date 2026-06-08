@@ -148,6 +148,15 @@ Man and Devil Dispute before Allah
 
 قَالَ قَرِ‌ينُهُ رَ‌بَّنَا مَا أَطْغَيْتُهُ (His (evil) companion (i.e. the Shaitan) will say, "0 our Lord, I did not cause him to rebel,...50:27). The word qarin literally denotes a companion, that is, one who accompanies or associates with another. From this point of view, qarin in the preceding verse referred to the two angels that accompany human beings and record their deeds. Just as there are two angels in the company of man, there is a devil entrusted to every man, who calls him towards commission of sins, and thus leads him astray. In this verse qarin refers to that devil. When it will be ordered that the person be thrown into Hell, it seems that he will say that the devil had led him astray, otherwise he would have done righteous deeds. In response, the devil will disown him and say about the human who came on the Day of Resurrection as an unbeliever that "I did not lead him astray. In fact he himself was misguided, paying no heed to the truth". In response Allah will say what follows in the next verse.
 
+## AI Translation
+
+One's devilish companion will say: Our Rabb, I did not make them transgress. They were already far astray on their own.
+
+## AI Tafsir
+
+**What this ayah teaches:** The word qarin literally denotes a companion, that is, one who accompanies or associates with another.
+
+**Classical tafsir:** Ibn Kathir notes: The word qarin literally denotes a companion, that is, one who accompanies or associates with another.
 ## Personal Reflections
 
 

@@ -188,6 +188,17 @@ Said in the next sentence 12 is: وَيُرْ‌سِلُ الصَّوَاعِق�
 
 The last sentence of this verse is: وَهُمْ يُجَادِلُونَ فِي اللَّـهِ وَهُوَ شَدِيدُ الْمِحَالِ they are quarrelling about Allah, and He is stern in His plan). The word: الْمِحَالِ (al-mihal: with Kasrah on the initial letter Mim) has been used here in the triple sense of stratagem and plan, and retribution and punishment, and in the sense of power as well. The verse means that (it is in the background of what has been stated above) that these people are busy with debates and altercations about the truth of Allah's Oneness - despite the fact that Allah Ta` ala has the ultimate power whose plan overtakes all and nothing works against it.
 
+## AI Translation
+
+The thunder glorifies His praise, and the angels in awe of Him. He sends thunderbolts, striking with them whomever He wills—yet they argue about Allah. He is tremendous in might.
+
+## AI Tafsir
+
+**What this ayah teaches:** And it is He Who brings up the clouds, heavy (with water)(12)And Ar-Ra'd (thunder) glorifies and praises Him, and so do the angels because of His awe. He sends the thunderbolts, and therewith He strikes whom He wills, yet they (those who reject the truth) dispute about Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said that this part of the Ayah is about clouds that are heavy with rain. Al-Hafiz Abu Al-Qasim At-Tabarani narrated that Ibn 'Abbas said that Arbad bin Qays bin Juzu' bin Julayd bin Ja'far bin Kulab, and 'Amir bin At-Tufayl bin Malik came to Al-Madinah to the Messenger of Allah ﷺ and sat where he was sitting.
+
+**From the Sunnah:** Ibn Jarir recorded that Ibn 'Abbas once wrote to Abu Al-Jald asking about the meaning of Al-Barq, and he said that it is water.
 ## Personal Reflections
 
 

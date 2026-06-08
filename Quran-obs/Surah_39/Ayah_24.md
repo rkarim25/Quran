@@ -109,6 +109,15 @@ Verse أَفَمَن يَتَّقِي بِوَجْهِهِ (Tell Me about the on
 
 Out of the authorities of Tafsir, ` Ata and Ibn Zayd said that a person condemned to Jahannam will have his hands and feet tied before being dragged in there. (Qurtubi)
 
+## AI Translation
+
+Are those who will only have their bare faces to shield themselves from the awful torment on Judgment Day better than those in Paradise? It will then be said to the wrongdoers: "Reap what you sowed!"
+
+## AI Tafsir
+
+**What this ayah teaches:** Even if he wished to ward off the punishment in defense, he would have no option but to use his very face as the shield, because he would have been thrown in Jahannam with his hands and feet tied.
+
+**Classical tafsir:** Ibn Kathir notes: Even if he wished to ward off the punishment in defense, he would have no option but to use his very face as the shield, because he would have been thrown in Jahannam with his hands and feet tied.
 ## Personal Reflections
 
 

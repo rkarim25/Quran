@@ -82,6 +82,15 @@ Allah the Exalted says, 'O Muhammad, turn away from these people who, when they 
 
 مُّهْطِعِينَ إِلَى الدَّاعِ (rushing quickly towards the caller....54:8). The word muhti` in literally denotes walking quickly with one's head raised above. This, together with the two preceding verses, gives a graphic picture of the Day of Gathering or Reckoning. The people will hasten hurriedly in the direction of the voice of the Caller towards the mahshar (area of Reckoning). The words: "With their eyes humbled, "in preceding verse (7) are in no conflict with the present verse, because there will be many different occasions in mahshar. On some of these occasions, the eyes of all the people will be cast down.
 
+## AI Translation
+
+rushing toward the caller. Those who rejected the truth will cry: This is a hard Day!
+
+## AI Tafsir
+
+**What this ayah teaches:** The Day that the caller will call (them) to a terrible thing (6)They will come forth, with humbled eyes from (their) graves as if they were locusts spread abroad (7)Hastening towards the caller. The word muhti` in literally denotes walking quickly with one's head raised above.
+
+**Classical tafsir:** Ibn Kathir notes: The word muhti` in literally denotes walking quickly with one's head raised above.
 ## Personal Reflections
 
 

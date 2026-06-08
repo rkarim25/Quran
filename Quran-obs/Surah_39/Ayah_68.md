@@ -214,6 +214,17 @@ Commentary
 
 In verse 68, it was said: فَصَعِقَ مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْ‌ضِ إِلَّا مَن شَاءَ اللَّـهُ and all those in the heavens and all those in the earth will faint, except the one whom Allah wills." The word: صَعِقَ (sa'iqa) literally means to swoon, faint or fall unconscious, and the sense is that they all will become unconscious first, then die, and those who had already died, their spirits will become unconscious (as in Bayan ul-Qur’ an under the commentary on Surah An-Naml and in Ibn Kathir likewise).The last part of the verse: إِلَّا مَن شَاءَ اللَّـهُ : "except those whom Allah wills [ otherwise ] " needs to be explained. Included here, according to the narrations of ad-durr-ul-manthur, there are four angels - Jibra'il, Mika'il, Israfil and ` Izra'il (the angel of death) - and as in some narrations, the angels bearing the Throne are also included therein. That they have been so exempted means that the effect of the blowing of the sur will not cause death to them. But, later on, they too will meet their death. And no one, except the one and single Being of Allah subhanahu wa to ala, will remain alive at that time. Ibn Kathir has also opted for this view, and has said that, even out of all of them, the angel of death will be the last to die. Another verse similar to this has appeared in Surah An-Naml also where instead of the word: صَعِقَ (sa'iqa: faint), the word used is: فَزِعَ (fazi'a: frightened). Some details about it have been given there as well. (Ma’ ariful-Qur'an, Volume VI, please see under commentary on Surah An-Naml, 27:87).
 
+## AI Translation
+
+The Trumpet will be blown and all those in the heavens and all those on the earth will fall dead, except those Allah wills to spare. Then it will be blown again and they will rise up at once, looking on in anticipation.
+
+## AI Tafsir
+
+**What this ayah teaches:** By this trumpet-blast, everyone who is alive in the heavens and on earth will be caused to die, except for him whom Allah wills.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** All that I said was that after a little while you would see something of great importance." 'Abdullah bin 'Amr, may Allah be pleased with him, said, "The Messenger of Allah ﷺ said: (Musnad Ahmad) Then Allah will send a cool wind from the direction of Ash-Sham, which will take the soul of every person who has even a speck of faith in his heart; even if one of them were to be inside the heart of a mountain, it would enter upon him.)" He said, "I heard it…
 ## Personal Reflections
 
 

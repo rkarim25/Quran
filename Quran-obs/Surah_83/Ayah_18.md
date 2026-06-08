@@ -113,6 +113,15 @@ Ibn Mas'ud said concerning Allah's statement,
 
 كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ (No! The record of deeds of the righteous is in ` illiyyun....83:18). According to some authorities, ` illiyyun is the plural of ` uluww and it signifies the 'highest point'. According to Farra', this is the name of a place. It is not a plural, but on the measure of plural. When analysing the word sijjin in the foregoing paragraphs, the traceable Tradition of Sayyidna Bath' Ibn ` Azib ؓ was cited to prove that ` illiyyin is a place on the seventh heaven beneath the Divine Throne where the souls of the believers and their registers of deeds are kept. The phrase: كِتَابٌ مَّرْقُومٌ(A register inscribed...83:20) is not the interpretation of illiyyin, but rather an explication their records of deeds, as in the verse that precedes it:
 
+## AI Translation
+
+No—the virtuous are bound for 'Illiyyun, a sealed register in the highest Gardens.
+
+## AI Tafsir
+
+**What this ayah teaches:** According to some authorities, ` illiyyun is the plural of ` uluww and it signifies the 'highest point'.
+
+**Classical tafsir:** Ibn Kathir notes: This refers to a drink called Tasnim, and it is the most excellent and exalted drink of the people of Paradise.
 ## Personal Reflections
 
 

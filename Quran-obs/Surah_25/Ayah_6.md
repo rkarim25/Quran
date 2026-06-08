@@ -133,6 +133,15 @@ The essence of this answer is that the Qur'an itself is an evidence to the fact 
 
 This is a clear proof of the fact that it is not a work of a human being. Otherwise other people could also have composed passages similar to Qur'an. Therefore, it is definitely the revelation from Allah Ta ala. Apart from the beauty of expression and language, the Book also excels in its meanings. The multifarious subjects it covers can only be dealt by One who knows everything whether hidden or exposed. This subject has been dealt with in detail in the first volume of Ma’ ariful Qur'an.
 
+## AI Translation
+
+Say, O Prophet, “This Quran has been revealed by the One Who knows the secrets of the heavens and the earth. Surely He is All-Forgiving, the Rahim — special mercy for believers in the Akhirah — the everlasting life after death.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Because this idea is so foolish and is so patently false, everyone knows that it is not true.
+
+**Classical tafsir:** Ibn Kathir notes: And because he could not read or write, he would get them read out to him day and night, so that he could remember them by heart, then he would repeat them before people and claim that he had received that revelation from Allah Ta’ ala.
 ## Personal Reflections
 
 

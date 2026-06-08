@@ -136,6 +136,17 @@ The Supplication of Musa
 
 وَاضْمُمْ يَدَكَ إِلَىٰ جَنَاحِكَ (And put your hand under your arm - 20:22). The word جَنَاحِ means fore-limb of an animal or wing of a bird. Here Sayyidna Musa (علیہ السلام) was commanded to press his hand under his armpit so that when he brings it out it will shine as brilliantly as the sun, and this will be the second miracle granted to him. This is the meaning given to the words by Sayyidna Ibn ` Abbas ؓ (Mazhari).
 
+## AI Translation
+
+And put your hand under your armpit, it will come out shining white, unblemished, as another sign,.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Hand of Musa turning White without any Disease This is the second sign of Musa.
+
+**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported from Abu Sa'id, from 'Ikrimah, who said that Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
+
+**From the Sunnah:** Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
 ## Personal Reflections
 
 

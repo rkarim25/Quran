@@ -135,6 +135,15 @@ After that, identified there is yet another benefit of these cattle - though, in
 
 Finally, mention has been made of another important benefit which comes from these animals. They carry heavy loads to far out places, places which could not be reached 'without putting yourselves into hardship.' Out of the animals, camels and oxen have been particularly har-nessed into this service of man at a large scale. Even during our day of trains, trucks and cargo planes, human beings cannot universally claim to have become free of their need. There are places in the world where none of our modern means of transportation can work. Consequently, one is compelled to borrow their services.
 
+## AI Translation
+
+And they carry your loads to distant lands which you could not otherwise reach without great hardship. Surely your Rabb — the One who creates, owns, nurtures, and sustains is Ever Gracious, the Rahim — special mercy for believers in the Akhirah — the everlasting life after death.
+
+## AI Tafsir
+
+**What this ayah teaches:** And you find (many other) benefits in them; you may reach by their means a desire that is in your breasts (i.e.
+
+**Classical tafsir:** Ibn Kathir notes: It signifies that there are countless benefits tied to the meat, skin, bone and hair of animals.
 ## Personal Reflections
 
 

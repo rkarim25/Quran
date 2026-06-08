@@ -88,6 +88,15 @@ In the last verse: إِن تَدْعُوهُمْ لَا يَسْمَعُوا د�
 
 The issue of the ability of the dead to hear سماع الموتی sama`-ulmawta) has appeared earlier. The present verse neither confirms nor rejects it. Arguments and proofs relating to this issue are different. They have already been mentioned in details under the commentary on Surah Ar-Rum [ 30] (Ma` ariful-Qur an, Volume VI).
 
+## AI Translation
+
+If He willed, He could eliminate you and bring a new creation.
+
+## AI Tafsir
+
+**What this ayah teaches:** But Allah is the Rich, Worthy of all praise (15)If He willed, He could destroy you and bring about a new creation (16)And that is not hard for Allah (17)And no bearer of burdens shall bear another's burden; and if one heavily laden calls another to (bear) his load, nothing of it will be lifted even though he be near of kin.
+
+**Classical tafsir:** Ibn Kathir notes: To explain, it can be said that if you call those idols or some prophets or angels you take as Allah and worship them asking them to help you in distress, they will, first of all, be unable to listen to you because idols do not have the ability to listen.
 ## Personal Reflections
 
 

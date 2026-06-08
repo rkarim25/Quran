@@ -208,6 +208,19 @@ The verse ends with the admonition, إِنَّهُ كَانَ حُوبًا كَ�
 
 The stern warning to those who eat up the property of an orphan appears later towards the end of this section (4:10).
 
+## AI Translation
+
+Give orphans their wealth, and do not exchange your worthless possessions for their valuables, nor cheat them by mixing their wealth with your own. For this would indeed be a great sin.
+
+## AI Tafsir
+
+**Context:** Al-Bukhari recorded that 'A'ishah said, "A man was taking care of a female orphan and he married her, although he did not desire to marry her.
+
+**What this ayah teaches:** So Allah is commanding: Do not marry unless you give your wife something that is her right.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, spending anything from the property of the orphan unlawfully by any means whatsoever is absolutely Haram (forbidden).
+
+**From the Sunnah:** So, such guardians were forbidden to marry such orphan girls unless they treated them justly and gave them the most suitable dowry; otherwise they were ordered to marry woman besides them." 'A'ishah further said, "After that verse, the people again asked the M… to him, "Choose any four of them (and divorce the rest). (Sahih Muslim, Musnad Ahmad)
 ## Personal Reflections
 
 

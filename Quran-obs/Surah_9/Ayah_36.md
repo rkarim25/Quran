@@ -328,6 +328,17 @@ In his Ahkam a1-Qur'an, Imam Abu Bakr al-Jassas has said: The hint given here is
 
 Up to this point, the text has described and refuted a particular custom of Jahiliyyah practiced by the Mushriks of Makkah. At the end of the verse, the text reverts to the command, given at the beginning of the verse (5), requiring that, soon after the expiry of the treaty deadline, Jihad is obligatory against all Mushriks and disbelievers.
 
+## AI Translation
+
+Indeed, the number of months ordained by Allah is twelve—in Allah’s Record since the day He created the heavens and the earth—of which four are sacred. That is the Right Way. So do not wrong one another during these months. And together fight the polytheists as they fight against you together. And know that Allah is with those who live with taqwa.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, the number of months with Allah is twelve months (in a year), so was it ordained by Allah on the Day when He created the heavens and the earth; of them four are sacred.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the Holy Prophet ﷺ by mentioning this month as ` Rajab Mudar' - also made it clear that it means the month of Rajab which is in between Jumada ath-Thaniah and Sha` ban.
+
+**From the Sunnah:** the Prophet ﷺ said in a speech during his Hajj, (Musnad Ahmad) In a small book collected by Shaykh 'Alam ad-Din As-Sakhawi, entitled, Al-Mashhur fi Asma' Al-Ayam wash-Shuhur, he mentioned that Muharram is so named because it is a sacred month.
 ## Personal Reflections
 
 

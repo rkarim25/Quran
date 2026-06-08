@@ -188,6 +188,17 @@ Surah An-Nur
 
 Ends here.
 
+## AI Translation
+
+Do not treat the Messenger’s summons to you as lightly as your summons to one another. Allah certainly knows those of you who slip away, hiding behind others. So let those who disobey his orders beware, for an affliction may befall them, or a painful torment may overtake them.
+
+## AI Tafsir
+
+**What this ayah teaches:** According to this explanation it means calling of the Holy Prophet ﷺ by the people for some need which implies that 'the messenger' is the object of the 'call'.
+
+**Classical tafsir:** Ibn Kathir notes: The Etiquette of Addressing the Prophet (ﷺ) Ad-Dahhak said, reporting from Ibn 'Abbas: "They used to say, 'O Muhammad,' or 'O Abu Al-Qasim,' but Allah forbade them to do that, as a sign of respect towards His Prophet ﷺ, and told them to say, 'O Prophet of Allah,' 'O Messenger of Allah.'" This was al…
+
+**From the Sunnah:** It was not proper for a man to leave on Fridays once the Khutbah began, unless he had permission from the Prophet ﷺ. It was recorded in the Two Sahihs and elsewhere that the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

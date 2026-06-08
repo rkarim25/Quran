@@ -161,6 +161,15 @@ After describing how they will eat Zaqqum (a bitter tree of Hell) and drink Hami
 
 In verse 74, it was said: قَالُوا ضَلُّوا عَنَّا (They will say, "They are lost to us,...), that is, once they reach Jahannam, the disbelievers will say that all those idols and shaitans they used to worship have disappeared in the sense that they do not see them around, though, they might as well be lying somewhere in a corner of Jahannam, as their being in Jahannam stands proved from other verses of the Qur'an, for instance: إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ اللَّـهِ حَصَبُ جَهَنَّمَ , (Surely, you and whatever you worship other than Allah are the fuel for Jahannam - Al-Anbiya', 21:98)
 
+## AI Translation
+
+with Allah?" They will cry: "They have all failed us. In fact, we did not invoke anything real before." This is how Allah leaves those who reject the truth to stray.
+
+## AI Tafsir
+
+**What this ayah teaches:** See you not those who dispute about the Ayat of Allah How are they turning away (69)Those who deny the Book, and that with which We sent Our Messengers they will come to know (70)When iron collars will be rounded over their necks, and the chains, they shall be dragged along (71)In the boiling water, then they will be burned in the Fire (72)Then it will be said to them: "Where are (all) those whom…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

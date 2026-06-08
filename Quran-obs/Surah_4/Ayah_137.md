@@ -172,6 +172,15 @@ Important Notes
 
 2. The second part of the verse 137 لَّمْ يَكُنِ اللَّـهُ لِيَغْفِرَ‌ لَهُمْ وَلَا لِيَهْدِيَهُمْ سَبِيلًا Allah is not to forgive them nor lead them on the path), when read as a whole with the first part, would mean that their repeated return to disbelief will cause their very ability to receive true guidance to be taken away from them and, in that event, they will have neither the future option to repent nor the opportunity to believe. Otherwise, the general rule laid out by the definitive texts of the Qur'an and ' Sunnah is that a disbeliever (kafir) or an apostate (مُاتَد murtadd), no matter how hardened, has his past sins forgiven -- if the taubah (repentance) made by him is sincere and true. So, if such, people too change and repent, the law of amnesty and forgiveness is open.
 
+## AI Translation
+
+Indeed, those who believed then disbelieved, then believed and again disbelieved— increasing in rejection of the truth—Allah will neither forgive them nor guide them to the Way.
+
+## AI Tafsir
+
+**Context:** Verily, those who believe, then disbelieve, then believe (again), and (again) disbelieve, and go on increasing in disbelief; Allah will not forgive them, nor guide them on the (right) way (137)Give to the hypocrites the…
+
+**What this ayah teaches:** Verily, those who believe, then disbelieve, then believe (again), and (again) disbelieve, and go on increasing in disbelief; Allah will not forgive them, nor guide them on the (right) way (137)Give to the hypocrites the tidings that there is for them a painful torment (138)Those who take those who reject the truth for friends instead of believers, do they seek honor with them?
 ## Personal Reflections
 
 

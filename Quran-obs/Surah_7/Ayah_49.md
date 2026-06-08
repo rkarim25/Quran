@@ -99,6 +99,15 @@ Said in the sixth verse (49) is: أَهَـٰؤُلَاءِ الَّذِينَ �
 
 Explaining this, Sayyidna ` Abdullah ibn ` Abbas ؓ says: When the questions and answers between the people of A` raf and the people of Paradise and Hell both will be over, that will be the time when the Lord of all the worlds will address the people of Hell and tell them about the people of A` raf that they swore that the people of A` raf will not be forgiven their sins and mercy will not be shown to them. Then, there comes an immediate declaration of His mercy when the people of A` raf will be told: Go and enter the Paradise. You should have no fear of what had happened in the past nor should you have any anxiety about the future. (Ibn Kathir)
 
+## AI Translation
+
+Are these the ones you swore would never be shown Allah’s mercy?” “Enter Paradise! There will be no fear for you, nor will you grieve.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Then, there comes an immediate declaration of His mercy when the people of A` raf will be told: Go and enter the Paradise.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

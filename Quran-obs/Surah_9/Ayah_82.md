@@ -132,6 +132,17 @@ Commentator Ibn Abi Hatim reports the explanation of this verse from Sayyidna ` 
 
 The dunya (present world) is short-lived. So, let them laugh therein as they wish but when ` dunya will come to an end and they will start coming to Allah, then, they will start weeping, a weeping which will never come to an end. (Mazhari)
 
+## AI Translation
+
+So let them laugh a little—they will weep much as a reward for what they have committed.
+
+## AI Tafsir
+
+**What this ayah teaches:** The wisdom behind the use of the imperative form given by them is that this is categorical and certain.
+
+**Classical tafsir:** Ibn Kathir notes: Though, the word ` falya dhak u' (So, laugh) has been used in the imperative form, but commentators interpret it in the sense of the predicate of a nominal clause.
+
+**From the Sunnah:** Allah admonishes the hypocrites who lagged behind from the battle of Tabuk with the Companions of the Messenger of Allah ﷺ, rejoicing that they remained behind after the Messenger ﷺ departed for the battle,
 ## Personal Reflections
 
 

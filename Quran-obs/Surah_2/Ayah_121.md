@@ -185,6 +185,19 @@ That is to say, they have distorted neither the words nor the meanings, nor have
 
 33. The commentary we have here is based on a report from the blessed Companion Ibn ` Abbas ؓ ، according to whom this verse was revealed on the occasion of the arrival of forty Christians from Abyssinia who had accepted Islam. But other commentators believe that "those to whom We have given the Book" are the blessed Companions, and "the Book" is the Holy Qur'an. As for reading the Book "observing the rights of its recitation", it means enunciating each word correctly and clearly, and keeping the fear and love of Allah present in one's heart while reading, and also the resolve to follow divine guid-nce and to obey divine commandments. The blessed second Khalifah ` Umar ؓ has said that reading the Holy Qur'an "observing the rights of its recitation" requires that when one comes to a description of Paradise, one should pray to Allah for granting one this abode, and when one finds a description of Hell, one should seek Allah's protection from it. (Ibn Abi Hatim)
 
+## AI Translation
+
+Those to whom We gave the Book follow it as it deserves to be followed. They are the ones who truly believe. Those who reject it are the losers.
+
+## AI Tafsir
+
+**Context:** These Ayat mean, "Those among the People of the Book who perfectly adhered to the Books that were revealed to the previous Prophets, will believe in what I have sent you with, O Muhammad!" Allah said in another Ayah, 33.…
+
+**What this ayah teaches:** Verily, those who were given knowledge before it, when it is recited to them, fall down on their faces in humble prostration.
+
+**Classical tafsir:** Ibn Kathir notes: These Ayat indicate that what Allah promised for Muhammad ﷺ will certainly occur.
+
+**From the Sunnah:** This Hadith was collected in the Sahih and narrated from 'Abdullah bin 'Amr. This Ayah carries a stern warning for the Muslim Ummah against imitating the ways and methods of the Jews and Christians, after they have acquired knowledge of the Qur'an and Sunnah, may Allah grant us refuge from this behavior. (Sahih Muslim)
 ## Personal Reflections
 
 

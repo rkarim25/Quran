@@ -118,6 +118,17 @@ The answer given was: قَالُوا جَزَاؤُهُ مَن وُجِدَ فِ
 
 The sense of the statement is that the punishment for theft in the Shari` ah of Sayyidna Ya` qub11 allowed the person whose property had been stolen to take the thief as his slave. Thus, the state functionaries made the brothers of Sayyidna Yusuf (علیہ السلام) to tell them the punishment of a thief as in Jacobian law and thereby had them committed to hand over Benyamin to Sayyidna Yusuf (علیہ السلام) according to their own decision following the recovery of the stolen goods from Benyamin's baggage.
 
+## AI Translation
+
+Joseph’s brothers responded, “The price will be the enslavement of the one in whose bag the cup is found. That is how we punish the wrongdoers.”
+
+## AI Tafsir
+
+**What this ayah teaches:** This is how we punish the wrongdoers.' The sense of the statement is that the punishment for theft in the Shari` ah of Sayyidna Ya` qub11 allowed the person whose property had been stolen to take the thief as his slave.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Allah is the All-Knowing and His knowledge is above the knowledge of every knowledgeable person.' Simak narrated that 'Ikrimah said that Ibn 'Abbas said about Allah's statement,
 ## Personal Reflections
 
 

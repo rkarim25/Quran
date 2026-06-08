@@ -123,6 +123,15 @@ After having reported all Hadith narrations cited above, it has been said in Taf
 
 In verse 32, it was said: كَذَّبَ بِالصِّدْقِ (rejects the truth) while in verse 33, it was said: الَّذِي جَاءَ بِالصِّدْقِ (As for the one who has come with the truth): At both these places, the word الصِّدْقِ : (as-sidq: the truth) means teachings brought by the Holy Prophet ﷺ ، whether it be the Qur'an, or be other teachings of ahadith in addition to the Qur'an. And the expression: صَدَّقَ بِهِ (saddaga bihi: and believed it to be true - 39:33) includes all believers who have testified to it.
 
+## AI Translation
+
+Who then does more wrong than those who lie about Allah and reject the truth after it has reached them? Is Hell not a fitting home for those who reject the truth?
+
+## AI Tafsir
+
+**What this ayah teaches:** Then, who does more wrong than one who utters a lie against Allah, and denies the truth when it comes to him! Is there not in Hell an abode for the those who reject the truth (32)And he who has brought the truth and (those who) believed therein, they are those who have Taqwa (33)They shall have all that they will desire with their Lord.
+
+**Classical tafsir:** Ibn Kathir notes: The Punishment of the those who reject the truth and Liars, and the Reward of the Sincere Believers The idolators uttered lies against Allah and said that there were other gods besides Him and claimed that the angels were the daughters of Allah and that Allah had a son – glorified be He far ab…
 ## Personal Reflections
 
 

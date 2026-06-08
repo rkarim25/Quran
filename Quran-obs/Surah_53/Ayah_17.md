@@ -286,6 +286,19 @@ The main theme of the initial verses of Surah An-Najm is to confirm the propheth
 
 However, from verse [ 11] مَا كَذَبَ الْفُؤَادُ مَا رَ‌أَىٰ 'The heart did not err in what he saw' to verse [ 18] لَقَدْ رَ‌أَىٰ مِنْ آيَاتِ رَ‌بِّهِ الْكُبْرَ‌ىٰ 'He has indeed seen a part of the biggest signs of your Lord.' describes the incidents of Isra' and Mi` raj. Though in this passage to the vision of Jibra'il (علیہ السلام) is mentioned, yet it is a part of many great signs' The possibility cannot be ruled out that the phrase ‘greatest Signs' includes the 'ru'yat' (vision) of Allah' which is supported by authentic Traditions and the views of noble Companions and their followers, which cannot be overlooked or ignored. Verse [ 11] مَا كَذَبَ الْفُؤَادُ مَا رَ‌أَىٰ "The heart did not err in what he saw", means that what the Holy Prophet ﷺ saw with his eyes his blessed heart confirmed that he saw correctly, with no mistakes. 'Ma kadhaba' describes this situation and the particle 'Ma' [ whatever ] is general, referring to the vision of Jibra'il (علیہ السلام) and whatever else he saw on the Night of Mi` raj and above all the Vision of Allah Himself. This is supported by verse [ 12] أَفَتُمَارُ‌ونَهُ عَلَىٰ مَا يَرَ‌ىٰ 'Do you quarrel with him in what he sees?' This verse addresses pagans of Makkah that they should not dispute or be sceptical about what he saw [ in the past ] or will see in the future. Everything he saw was the veritable truth and whatever he will see in the future will be a veritable reality. This verse did not say قَد راٰیٰ [...qad ra'a ] '...he saw' [ using the past perfect tense ] but rather عَلَىٰ مَا يَرَ‌ىٰ ['ala ma yara ] which may be translated as '...will see' [ using the future tense ] which indicates that he will see him on the Night of Mi` raj. Thus verse [ 13]
 
+## AI Translation
+
+The sight did not swerve, nor did it overstep.
+
+## AI Tafsir
+
+**Context:** He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While he was in the highest part of the horizon (7)Then he approached and came closer (8)And was at a distance of two bows' length or less (9)So (…
+
+**What this ayah teaches:** In response to this suspicion the Qur'an uses two expressions because there are two ways in which human sight can go awry: [ 1] not looking at the object directly that one was supposed to see, and turning the eye to some other side.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, this verifies the facts mentioned, leaving no doubt or means of refute.
+
+**From the Sunnah:** that Abdullah bin Mas'ud said, "The Messenger of Allah ﷺ saw Jibril in his original shape having six hundred wings, each wing filling the side of the horizon, with a colorful array, and pearls and rubies falling from each wing as much as only Allah knows."…
 ## Personal Reflections
 
 

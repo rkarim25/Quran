@@ -144,6 +144,19 @@ Allah swears to the Greatness of the Qur’ an
 
 The word مَوَاقِعِ mawaqi` is the plural of مَوقع mawq' and refers to the points where or times when the stars set. Here, like in Surah -Najm وَالنَّجْمِ إِذَا هَوَىٰ "By the star when it goes down to set, [ 1] ", the oath of stars is qualified by their setting-time. The wisdom underlying this is that when the stars set, their function seems to have been cut off from the horizon, and we witness effects of their vanishing. This is the proof of their perishability and dependence on Divine power.
 
+## AI Translation
+
+and this, if you knew, is a mighty oath—
+
+## AI Tafsir
+
+**Context:** (That (this) is indeed an honorable recitation.) means, verily, this Qur'an that was revealed to Muhammad ﷺ is a Glorious Book,
+
+**What this ayah teaches:** Rather it is used at the beginning of an oath when the oath is a negation.
+
+**Classical tafsir:** Ibn Kathir notes: I swear by the Mawaqi' of the stars.) Mujahid said, "The setting positions of the stars in the sky," and he said that it refers to the rising and setting positions.
+
+**From the Sunnah:** Allah's Messenger ﷺ did not touch any woman's hand at all. Sharik reported from Hakim, that is Ibn Jubayr, from Sa'id bin Jubayr, from Ibn 'Abbas that about: (al-Mustadrak)
 ## Personal Reflections
 
 

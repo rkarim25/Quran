@@ -203,6 +203,19 @@ The Underlying Divine Wisdom is identification
 
 The Qur'an in this verse has made it clear that Allah has created all mankind from a single mother and a single father, and made them into a single brotherhood. But he has divided them into different tribes, nations, races, lineage and language-speakers/linguistic groups. The underlying Divine wisdom in such a division is mutual identification. For example, if there are two persons bearing the same name, they could be differentiated by family name. It can also show the near and remote relations. Their Shari rights can be fulfilled on the basis of near and distant lineage. It is incumbent to determine the near and remote agnate heirs when applying the law of succession or dividing the estate of a deceased. In short, reference to one's lineage for the purpose of identification is not deemed to be pride and conceit.
 
+## AI Translation
+
+O humanity: We created you from one man and one woman, and made you into nations and tribes so you may know one another. The noblest among you in Allah's sight is the one with most taqwa. Allah is All-Knowing, All-Aware.
+
+## AI Tafsir
+
+**Context:** This verse was revealed on the occasion of the conquest of Makkah. When it was time for prayer, the Holy Prophet ﷺ asked Sayyidna Bilal ؓ to call the adhan.
+
+**What this ayah teaches:** Division into nations, tribes and sub-tribes of all sizes, and races is meant only to give a better identification of one another.
+
+**Classical tafsir:** Ibn Kathir notes: Analysis of Important Words in the Verse The word Shu` ub is the plural of Sha'b which refers to a large group of persons of the same origin, (like a nation).
+
+**From the Sunnah:** Various statements about this were collected in an individual introduction from the book, Al-Inbah, by Abu 'Amr Ibn 'Abdul-Barr, and from the book, Al-Qasad wal-Amam fi Ma'rifah Ansab Al-Arab wal-'Ajam. this Hadith in several places of his Sahih, An-Nasa'i did as well in the Tafsir section of his Sunan. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

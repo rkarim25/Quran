@@ -160,6 +160,17 @@ Since Allah has, in granting the two prayers, sent such great blessings to manki
 
 In the light of this commentary, one can see that the word "as" (in Arabic, the letter Kaf which denotes a comparison between two terms) provides the link between Verse 151 and Verse 152. But, according to al-Qurtubi, the word Kaf or "as" is connected with the first phrase of Verse 152 -: "Remember Me, then". Viewed in the line of this syntactical relationship, the two verses, taken together, would mean that the ability to "remember" Allah is as much a blessing for men as the ordination of the new Qiblah قبلہ and the coming of the Last Prophet ﷺ ، and hence it is the duty of men to render thanks to Allah, so that they may continue to receive His favours.
 
+## AI Translation
+
+Just as We sent among you a messenger from yourselves — reciting Our signs, purifying you, teaching you the Book and wisdom, and teaching you what you did not know —
+
+## AI Tafsir
+
+**What this ayah teaches:** The Messenger ﷺ also takes them away from the darkness (of disbelief) to the light (of faith) and teaches them the Book, the Qur'an, and the Hikmah (i.e., the wisdom), which is his Sunnah.
+
+**Classical tafsir:** Ibn Kathir notes: In the light of this commentary, one can see that the word "as" (in Arabic, the letter Kaf which denotes a comparison between two terms) provides the link between Verse 151 and Verse 152.
+
+**From the Sunnah:** that Allah's Messenger ﷺ said: (Musnad Ahmad)
 ## Personal Reflections
 
 

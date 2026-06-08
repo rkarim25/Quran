@@ -110,6 +110,17 @@ The verse no. 184 has refuted the false notion of the disbelievers that the Holy
 
 The verse said that a little reflection on their part shall be enough to prove that the Holy Prophet ﷺ was neither a man of unsound mind, nor was he under the influence of Jinns. His matchless wisdom and knowledge is an obvious feature of his personality. Those having claim to wisdom and knowledge are astoundingly bewildered how a man of such extraordinary insight and sagacity could be blamed of madness? Blaming him with madness, in fact, is madness itself. He is only an elucidator of realities and a warner against the punishment from Allah.
 
+## AI Translation
+
+Have they not ever given it a thought? Their fellow man is not insane. He is only sent with a clear warning.
+
+## AI Tafsir
+
+**What this ayah teaches:** If you do this, it will become clear to you that he is the Messenger of Allah ﷺ in truth and justice.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** If you do this, it will become clear to you that he is the Messenger of Allah ﷺ in truth and justice.
 ## Personal Reflections
 
 

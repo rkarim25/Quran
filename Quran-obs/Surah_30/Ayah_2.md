@@ -126,6 +126,15 @@ As regards the use of the word suht (سُحت), in the first place the scholars 
 
 Acceptance of this interpretation of the religious scholars is also necessary because if in fact these camels were haram, then according to religious law this was to be returned to the person from whom it was taken. The commodity, which is haram, can only be given in charity (sadaqah) under any one of the three situations: One, when the owner of the commodity is not known. Two, when it is not possible to deliver the commodity to the owner. And third, when there is any religious complication in the delivery of the commodity. وَاللہُ سبحانَہُ و تعالیٰ اَعلَم
 
+## AI Translation
+
+The Romans have been defeated
+
+## AI Tafsir
+
+**Context:** These Ayat were revealed about the victory of Sabur, the king of Persia, over Ash-Sham (Greater Syria), the adjoining partisan states of the Arabian Peninsula, and the outlying regions of the land of the Romans.
+
+**What this ayah teaches:** The Muslims wanted the Romans to prevail over them (the Persians), because they were both people who followed a Book. On that, the Holy Prophet ﷺ said to him that he did not fix the time of three years, because Qur'an has used the word Bid' Sinin (a few years) under which the time limit could be anything between three to nine years.
 ## Personal Reflections
 
 

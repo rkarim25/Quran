@@ -84,6 +84,15 @@ Commentary
 
 This verse directs the Holy Prophet ﷺ to tell his people the story of the pious lady who controlled her passions and then through Jibra'il (علیہ السلام) Allah had breathed His Spirit into her and she gave birth to a son (Sayyidna ` Isa علیہ السلام) who was a symbol of Allah's Divine Power that He can cause babies to be born without a father, and also without both the parents as in the case of Sayyidna 'Adam (علیہ السلام)
 
+## AI Translation
+
+And remember the one who guarded her chastity, so We breathed into her through Our angel, Gabriel, making her and her son a sign for all peoples.
+
+## AI Tafsir
+
+**What this ayah teaches:** And she who guarded her chastity, We breathed into her through Our Ruh, and We made her and her son a sign for nations .
+
+**Classical tafsir:** Ibn Kathir notes: He mentions the story of Zakariyya first, followed by the story of Maryam because the one is connected to the other.
 ## Personal Reflections
 
 

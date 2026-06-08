@@ -294,6 +294,19 @@ This proves that prophethood and messenger-ship are not controlled by human bein
 
 Towards the end of the verse, it was said: سَيُصِيبُ الَّذِينَ أَجْرَ‌مُوا صَغَارٌ‌ عِندَ اللَّـهِ وَعَذَابٌ شَدِيدٌ بِمَا كَانُوا يَمْكُرُ‌ونَ ﴿124﴾ (Those who committed sin shall soon suffer from disgrace before Allah and face severe punishment for the mischief they have been making). Here, the word: صَغَار (saghar) is a verbal noun which means disgrace. The sentence means that these antagonists of truth who are known to be the big chiefs of their people will see their pride and prestige rolling in dust. Disgrace is coming; so is punishment - and both are grim. That can be within the life of the present world, and in the 'Akhirah as well - as has been the fate of the oppressors of the prophets in the past who were put to disgrace in the present world as well. The topmost antagonists of our own Prophet ﷺ ، may the blessing of Allah and peace be upon him, who boasted about their prestige, either entered the fold of Islam or, as was the case with those who did not, were destroyed in disgrace. at happened to the legendary chiefs of Quraysh, Abu Jahl and Abu Lahb, became a lesson when the Conquest of Makkah broke their backs.
 
+## AI Translation
+
+Whenever a sign comes to them, they say, “We will never believe until we receive what Allah’s messengers received.” Allah knows best where to place His message. The wicked will soon be overwhelmed by humiliation from Allah and a severe punishment for their evil plots.
+
+## AI Tafsir
+
+**Context:** They said, why was not this Qur'an revealed to a mighty, respectable leader, honored by us,
+
+**What this ayah teaches:** But they plot not except against themselves, and they perceive (it) not (123)And when there comes to them a sign they say: "We shall not believe until we receive the like of that which the Messengers of Allah received." Allah knows best with whom to entrust His Message.
+
+**Classical tafsir:** Ibn Kathir notes: This is because they, may Allah curse them, belittled the Messenger ﷺ out of envy, transgression, rebellion and defiance.
+
+**From the Sunnah:** The those who reject the truth used to call the Prophet ﷺ, before he received revelation, 'Al-Amin' – the Truthful.
 ## Personal Reflections
 
 

@@ -113,6 +113,15 @@ The verse ends by telling man that he will ultimately go back to Allah. This, of
 
 According to this verse, the chief blessing of Allah for man is life, for without life he cannot profit from any other blessing. This is obvious enough. But the verse counts death too as a blessing. It is so, because physical death is the door to the perpetual life of the other world after which there is no death.
 
+## AI Translation
+
+How can you reject Allah when you were lifeless and He gave you life, then He will cause you to die and bring you to life again, and to Him you will all return?
+
+## AI Tafsir
+
+**What this ayah teaches:** The second verse refers to the general blessings which are common to man and other creatures -- firstly, the earth and all that it contains and on which man's life immediately depends, and secondly, the skies with which life on earth is directly related.
+
+**Classical tafsir:** Ibn Kathir notes: The first of these two verses refers to the blessings which are particular to the very being of man -- that is to say, he had no life before Allah gave him existence.
 ## Personal Reflections
 
 

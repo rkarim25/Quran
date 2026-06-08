@@ -269,6 +269,17 @@ Verse 248: The story of Talut and Jalut
 
 The Bani Isra'il used to have the legacy of a wooden chest (also identified as the Ark of the Covenant). Moses and other prophets of Bani Isra'il would keep this chest in the frontline of the battlefield. Its barakah بَرَکَہ (blessing, benediction) used to give them victory. When )Jalut: Goliath) overcame Bani Isra'il, he took this chest away with him. When Allah Almighty willed the return of the chest, it so happened that the infidels were struck by some epidemic or calamity at places where they carried this chest. Five cities were turned desolate. Nonplussed, they loaded it on two bullocks and drove them off. Then, the angels took control of the bullocks and made it reach Talut's doorsteps. (Talut is the Qur'anic name of the king known in the Bible as Saul) When the Bani Isra'il saw this sign, they believed in the kingdom of Talut, who then mounted an attack on Jalut while the weather was very hot.
 
+## AI Translation
+
+Have you not considered the leaders of the Children of Israel after Moses? They said to their prophet, "Appoint a king for us and we will fight in Allah's cause." He said, "Will you not hold back if fighting is ordained for you?" They said, "Why would we refuse to fight in Allah's cause when we were driven from our homes and separated from our children?" But when fighting was ordained, most of them turned away — except a few. Allah knows the wrongdoers.
+
+## AI Tafsir
+
+**Context:** As that boy grew, Allah raised him to be a righteous person. When he reached the age of prophethood, Allah revealed to him and commanded him to call (his people) to Him and to His Tawhid (Oneness).
+
+**What this ayah teaches:** Shamwil called the Children of Israel (to Allah) and they asked him to appoint a king over them so that they could fight their enemies under his command. Earlier, anyone who would fight the Israelites would lose, because they had the Torah and the Tabut, which they inherited generation after generation ever since the time of Moses, who spoke to Allah directly.
+
+**Classical tafsir:** Ibn Kathir notes: Jews Who sought a King to be appointed over Them Mujahid said that the Prophet (mentioned in the Ayah 2:246 above) is Shamwil (Samuel).
 ## Personal Reflections
 
 

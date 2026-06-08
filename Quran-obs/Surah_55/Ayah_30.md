@@ -72,6 +72,15 @@ After Allah stated that all of the inhabitants of the earth will die and end up 
 
 (1) This is according to one construction of the sentence. Other exegetes have taken the phrase 'every day' as relating to 'He is at some task'. The translation of the verse given above is based on this latter construction, which is also adopted by Moulana Thanawi (رح) . (Muhammad Taqi Usmani). causes to become ill and others He cures. He alleviates the adversity of some; He causes the aggrieved ones to smile; He grants the requests of suppliants; He forgives the sins of the sinners and makes them deserving of Paradise; He gives power to some, and He snatches it away from others and abases them. In sum, every Attribute of Allah keeps finding its manifestation in diverse ways all the time
 
+## AI Translation
+
+So which of your Rabb's favours will you both—humans and jinn—deny?
+
+## AI Tafsir
+
+**What this ayah teaches:** Whatsoever is on it (the earth) will perish (26)And the Face of your Lord Dhul-Jalal wal-Ikram will remain forever (27)Then which of the blessings of your Lord will you both deny (28)Whosoever is in the heavens and on the earth begs of Him.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "First, Allah mentioned His creatures and then He said that all of this will perish." And in the reported supplication: 'O You the Ever Living Who sustains all that exists!
 ## Personal Reflections
 
 

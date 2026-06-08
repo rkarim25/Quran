@@ -122,6 +122,15 @@ Commentary
 
 When Sayyidna Musa (علیہ السلام) left Egypt, he was in a condition that he had neither any provisions for the journey nor any baggage, and also he did not know the route. In this state of helplessness he turned to Allah Ta` ala and asked عَسَىٰ رَ‌بِّي أَن يَهْدِيَنِي سَوَاءَ السَّبِيلِ (I hope my Lord will guide me to the straight path - 28:22), Allah Ta` ala accepted this prayer. Scholars have observed that the only food Musa علیہ السلام had during this journey was the leaves of trees. Sayyidna Ibn ` Abbas ؓ has said that this was the first trial and test of Sayyidna Musa (علیہ السلام) . Details of trials and tests of Musa (علیہ السلام) have already been described under Surah Taha while quoting a lengthy hadith.
 
+## AI Translation
+
+And as he made his way towards Midian, he said, “I trust my Rabb will guide me to the Sirat al-Mustaqim — the way of living that pleases Allah.”
+
+## AI Tafsir
+
+**What this ayah teaches:** He was not used to being alone, because before that he had been living a life of luxury and ease, in a position of leadership. Musa, peace be upon him, in Madyan, and how He watered the Flocks of the Two Women When the man told Musa about how Fir'awn and his chiefs were conspiring against him, he left Egypt on his own.
+
+**Classical tafsir:** Ibn Kathir notes: He was not used to being alone, because before that he had been living a life of luxury and ease, in a position of leadership.
 ## Personal Reflections
 
 

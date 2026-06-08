@@ -150,6 +150,15 @@ The reason why they act in the way they do is envy, that is, they envy Muslims a
 
 That this envy is based on not knowing the nature, timing and wisdom of Allah's grace and mercy is explained in the later part of verse 73 and in verse 74.
 
+## AI Translation
+
+A group among the People of the Book said, “Believe in what has been revealed to those who have iman in the morning and reject it in the evening, so they may abandon their faith.
+
+## AI Tafsir
+
+**Context:** A party of the People of the Scripture wish to lead you astray. But they shall not lead astray anyone except themselves, and they perceive not (69)"O People of the Scripture!
+
+**What this ayah teaches:** However, when the day ended, they would revert to their old religion so that the ignorant people would say, "They reverted to their old religion because they uncovered some shortcomings in the Islamic religion." This is why they said next.
 ## Personal Reflections
 
 

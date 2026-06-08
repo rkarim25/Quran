@@ -189,6 +189,17 @@ This مَن يُطِعِ اللَّـهَ relates to the obligations toward Alla
 
 things he is given the good tiding of فَأُولَـٰئِكَ هُمُ الْفَائِزُونَ (that such people are the victorious). And Fa'iz is that person who gets deliverance from Jahannam and earns a place in the Paradise. After hearing this explanation Sayyidna ` Umar ؓ said the endorsement of this is available in the utterance of the Holy Prophet ﷺ ، who had said that اُوتیت جوامع الکلم Allah has graced me with such comprehensive expressions in which words are few but the meanings are vast'. (Qurtubi)
 
+## AI Translation
+
+Say, “Obey Allah and obey the Messenger. But if you turn away, then he is only responsible for his duty and you are responsible for yours. And if you obey him, you will be rightly guided. The Messenger’s duty is only to deliver the message clearly.”
+
+## AI Tafsir
+
+**What this ayah teaches:** The Messenger's duty is only to convey (the Message) in a clear way.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** But lately he had heard a verse of the Holy Qur'an recited by a Muslim prisoner and realized that in that small verse all the older books have been condensed. (Sahih Muslim)
 ## Personal Reflections
 
 

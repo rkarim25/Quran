@@ -140,6 +140,15 @@ It has been said, "They were hoping for something better in exchange in this lif
 
 Imam Baghawi reports from Sayyidna ` Abdullah Ibn Masud ؓ that, according to his information, when these brothers repented truly, Allah blessed them with a better vineyard that bore such large bunches of grapes that a single bunch could be loaded on a mule. [ Mazhari ].
 
+## AI Translation
+
+They said: 'Woe to us! We have certainly been transgressors.'
+
+## AI Tafsir
+
+**What this ayah teaches:** Then, when he died, and his children inherited the garden they said, 'Verily, our father was foolish for giving some of this garden's harvest to the poor. If we prevent them from it, then we will have more.' So when they made up their minds to do this they were punished with what was contrary to their plan.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -80,6 +80,17 @@ When the Pharaoh threatened the magicians to kill them, and to cut their limbs a
 
 It is worth noting here that the magicians who had involved all their lives practicing the sinful sorcery and who believed in the Pharaoh's claim to be a god, rather, used to worship him, pronounced faith in Allah before that tyrant and despotic king and the entire nation. This was in itself something most astonishing and courageous, but it was not just the pronouncement of faith in Allah, but a demonstration of such deep devotion as if they could see the Dooms Day and the Hereafter before their eyes. The blessings and bounties of the Hereafter were within their sight, for which they raised themselves over and above any punishment or torment of this world, and said فَاقْضِ مَا أَنتَ قَاضٍ that is ` You do whatever you are to do (20:72). We are not going back from our faith'. This in fact was also a miracle of Sayyidna Musa (علیہ السلام) which was no less than the miracle of the staff and the luminous hand. Many incidents of similar nature have also occurred with our Holy Prophet ﷺ . In one such incident a drastic change had occurred in a seventy years old infidel in that within a minute he not only converted to Islam, but was ready to lay down his life to become a martyr.
 
+## AI Translation
+
+So We lured the tyrants out of their gardens, springs,
+
+## AI Tafsir
+
+**Context:** And We revealed to Musa, saying: "Depart by night with My servants, verily, you will be pursued. (52)Then Fir'awn sent callers to (all) the cities (53)(Saying): "Verily, these indeed are but a small band.
+
+**What this ayah teaches:** The Exodus of the Children of Israel From Egypt After Musa stayed in Egypt for a long time, and the proof of Allah was established against Fir'awn and his chiefs, yet they were still arrogant and stubborn, then there was nothing left for them but punishment and vengeance.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

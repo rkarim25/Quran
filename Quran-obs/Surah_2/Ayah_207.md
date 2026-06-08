@@ -214,6 +214,17 @@ The revelation of the verse under reference in connection with this particular e
 
 However, some commentators cite similar events relating to other noble Companions as the background of the verse's revelation (Mazhari).
 
+## AI Translation
+
+And among people is one who sells his soul seeking Allah's pleasure. Allah is gentle with His servants.
+
+## AI Tafsir
+
+**Context:** As-Suddi said that these Ayat were revealed about Al-Akhnas bin Shariq Ath-Thaqafi who came to Allah's Messenger ﷺ and announced his Islam although his heart concealed otherwise.
+
+**What this ayah teaches:** And of mankind there is he whose speech may please you (O Muhammad ﷺ), in this worldly life, and he calls Allah to witness as to that which is in his heart, yet he is the most quarrelsome of the opponents (204)And when he turns away (from you O Muhammad ), his effort in the land is to make mischief therein and to destroy the crops and the cattle, and Allah likes not mischief (2…
+
+**Classical tafsir:** Ibn Kathir notes: The Characteristics of the Hypocrites As-Suddi said that these Ayat were revealed about Al-Akhnas bin Shariq Ath-Thaqafi who came to Allah's Messenger ﷺ and announced his Islam although his heart concealed otherwise.
 ## Personal Reflections
 
 

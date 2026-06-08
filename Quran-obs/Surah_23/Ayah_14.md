@@ -199,6 +199,17 @@ Biological spirit and Real Spirit
 
 Here the word خَالِقِینَ (creators) has been used in the plural and the meaning is that though ordinary human beings who manufacture things may also be called خَالِق or creators in the metaphorical sense, yet Allah is the best among all those creators.
 
+## AI Translation
+
+then We developed the drop into a clinging clot of blood, then developed the clot into a lump of flesh, then developed the lump into bones, then clothed the bones with flesh, then We brought it into being as a new creation. So Blessed is Allah, the Best of Creators.
+
+## AI Tafsir
+
+**What this ayah teaches:** This real spirit was created long before the creation of human beings, and it is these spirits which were assembled by Allah when He asked them, "Am I not your Lord?" and they answered, "Why not?" This Real Spirit having been created long before, is connected by Allah Ta’ ala with biological spirit in a manner not known to anyone.
+
+**Classical tafsir:** Ibn Kathir notes: Tafsir Mazhari mentions that most probably it refers to the biological spirit.
+
+**From the Sunnah:** from Abu Musa that the Prophet ﷺ said: (Musnad Ahmad) Paradise until there is no more than a forearm's length between him and it, then the decree will overtake him and he will do the deeds of the people of Hell and thus enter Hell. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

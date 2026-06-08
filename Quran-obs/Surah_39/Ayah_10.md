@@ -139,6 +139,15 @@ Qatadah reports from Sayyidna Anas ؓ that the Holy Prophet ﷺ said, 'On the Da
 
 Imam Malik (رح) has taken: صَابرین (as-sabirun) in this verse to mean people who endure hardships and remain patient over sorrows of the mortal life. Some elders have said that it means people who hold their self in check against acts of disobedience and sin. Qurtubi says, 'when the word: صَابِر (sabir: patient) is uttered unaccompanied by some other word, it invariably means a person who observes patience against hardships caused during the process of making one's desiring self abstain from sins. And when the word: صَبر (sabir) is used for a person who remains patient against distress, it is coupled with some other words: صَابِرت علی کَذَا (one who is patient against such and such distress). وَاللہ سبحانہ و تعالیٰ اَعلَم Allah knows best.
 
+## AI Translation
+
+Say that Allah says: "O My servants who believe! Live with taqwa—Allah-consciousness as though Allah sees you. Those who do good in this world will have a good reward. And Allah's earth is spacious. Only those who endure with sabr will be given their reward without limit."
+
+## AI Tafsir
+
+**What this ayah teaches:** Good is for those who do good in this world, and Allah's earth is spacious!
+
+**Classical tafsir:** Ibn Kathir notes: So much so that people who had lived their life of the mortal world in perfect peace and comfort would wish, 'alas!
 ## Personal Reflections
 
 

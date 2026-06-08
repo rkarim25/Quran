@@ -188,6 +188,17 @@ It is, therefore, evident that Sayyidna ` Ali ؓ is included in the words: 'our 
 
 The fallacy of this argument is evident from what has been discussed above.
 
+## AI Translation
+
+Certainly, this is the true narrative, and there is no god except Allah. And indeed, Allah is the Almighty, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** And indeed, Allah is the Almighty, the All-Wise (62)And if they turn away, then surely, Allah is All-Aware of those who do mischief .
+
+**Classical tafsir:** Ibn Kathir notes: Since curse means 'moving someone far away from the divine mercy', - and moving far away from mercy is being close to divine wrath--therefore, the essence of the meaning is: Wrath be on the liar.
+
+**From the Sunnah:** they never saw a delegation like them after that...Then Abu Harithah bin 'Alqamah and Al-'Aqib 'Abdul-Masih or As-Sayyid Al-Ayham spoke to the Messenger of Allah ﷺ, and they were Christians like the king (Roman King). Let us think about this matter and get back to you with our decision to what we want to do.' They left the Prophet ﷺ and conferred with Al-'Aqib, to whom they referred to for advice.
 ## Personal Reflections
 
 

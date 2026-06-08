@@ -204,6 +204,15 @@ Further, the Qur'an again disposes of the doubt of the rejecters of resurrection
 
 In the verses that follow, the horrors of the Day of Judgment are depicted. It is mentioned that on that Day, every person will be presented with his deeds. Described also are the abodes of the inmates of Paradise and Hell. Towards the end, special traits of the people of Paradise and those of Hell are portrayed by which a man can decide in this very world whether, according to the rules, his abode would be Paradise or Hell. The expression 'according to the rules' has been used because many verses and narratives indicate that there could be 'exceptions to the rules'. For example, a person might attain freedom from Hell and enter Paradise by virtue of intercession or directly through the grace of Allah. This is an exception to the rule. The general rule is the same as has been mentioned in these verses.
 
+## AI Translation
+
+all as sustenance for you and your animals.
+
+## AI Tafsir
+
+**What this ayah teaches:** The phrase 'punishment of the 'akhirah' refers to the punishment of the Hereafter that will be meted out to Fir'aun (the Pharaoh). The phrase 'punishment of the 'al a' refers to the punishment meted out to Fir'aun (the Pharaoh) and his army in this world whereby they were destroyed by drowning.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "He did Aghtasha of its night means that He made it dark." Mujahid, 'Ikrimah, Sa'id bin Jubayr and a large group have said this as well. The phrase 'punishment of the 'akhirah' refers to the punishment of the Hereafter that will be meted out to Fir'aun (the Pharaoh).
 ## Personal Reflections
 
 

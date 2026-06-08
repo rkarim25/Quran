@@ -242,6 +242,15 @@ By giving an example of sleeping then waking up in this verse, Allah Ta` ala has
 
 (Thereafter, to Him you are to return; then He will tell you what you have been doing) meaning thereby that there will be the reckoning of deeds, then, will come their rewards and punishments.
 
+## AI Translation
+
+He is the One Who calls back your souls by night and knows what you do by day, then revives you daily to complete your appointed term. To Him is your return, then He will inform you of what you used to do.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Servants are in Allah's Hands Before and After Death Allah states that He brings death to His servants in their sleep at night, for sleep is minor death.
+
+**Classical tafsir:** Ibn Kathir notes: The second verse (60) describes Allah's attribute of power which is also exclusive to Him.
 ## Personal Reflections
 
 

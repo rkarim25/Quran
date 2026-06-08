@@ -155,6 +155,15 @@ Here Allah reminds His Creation of His power, and that He is the One Who has no 
 
 Sayyidna ` Abdullah Ibn ` Umar ؓ has also advised prostration at this place. Masruq, Abu ` Abdur Rahman Sulami, Ibrahim Nakha` i, Ibn Sirin, Qatadah, etc., and most jurists used to prostrate at verse 38, i.e. at the end of لَا يَسْأَمُونَ ۩. Imam Abu Bakr Jassas has said in Ahkam-ul-Qur'an that this has been the view of all the leading Hanafi scholars. He has further said that in view of the differences, it is on the safer side to prostrate at the end of the verse 38, because even if prostration becomes wajib at the end of the verse 37, then the obligation would be discharged if it is performed after the recitation of the verse 38, and if it becomes wajib at the verse 38, then, the discharge of obligation (if it is performed after verse 38) is more obvious.
 
+## AI Translation
+
+Among His signs is that you see the earth devoid of life, but as soon as We send down rain upon it, it begins to stir and swell. The One Who revives it can easily revive the dead. He is Most Capable of everything.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, He Who gives it life, surely is able to give life to the dead.
+
+**Classical tafsir:** Ibn Kathir notes: and He allotted their stages and gave them separate orbits in the heavens, so that by the variations in their movements man may know the stages of night and day, of weeks, months and years, and time periods related to people's rights, acts of worship and various transactions.
 ## Personal Reflections
 
 

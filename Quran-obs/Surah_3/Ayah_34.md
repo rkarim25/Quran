@@ -49,6 +49,15 @@ Allah states that He has chosen these households over the people of the earth. F
 
 In these verses a reference has been made to some past prophets to comfort the Holy Prophet ﷺ since disbelievers did not obey him because they doubted his prophethood. It is for their guidance that names of some past prophets have been cited to help remove such doubts. However, these prophets have been referred to very briefly as the main purpose is to mention Sayyidna ` Isa (علیہ السلام) which follows immediately because he will come again to this world and will work with the followers of the Holy Prophet ﷺ ، therefore, it is necessary for the Muslims to know his identification.
 
+## AI Translation
+
+They are descendants of one another. And Allah is All-Hearing, All-Knowing.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah chose Adam, Nuh (Noah), the family of Ibrahim and the family of 'Imran above the nations (33)Offspring, one of the other, and Allah is All-Hearer, All-Knower .
+
+**Classical tafsir:** Ibn Kathir notes: In these verses a reference has been made to some past prophets to comfort the Holy Prophet ﷺ since those who reject the truth did not obey him because they doubted his prophethood.
 ## Personal Reflections
 
 

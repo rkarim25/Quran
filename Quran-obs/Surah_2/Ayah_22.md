@@ -228,6 +228,17 @@ In order to rescue men from this slavery to others, the Holy Qur'an says at the 
 
 "So, do not set up parallels to Allah when you know."
 
+## AI Translation
+
+He made the earth a place to settle for you and the sky a canopy; He sends rain from the sky and brings forth fruit as provision. Do not knowingly set up rivals to Allah in worship — that is shirk, giving anything the devotion owed to Allah alone.
+
+## AI Tafsir
+
+**What this ayah teaches:** The actual birth and growth of the tree, and the putting forth of leaves, branches and fruits is the work of Divine Power, and of no one else.
+
+**Classical tafsir:** Ibn Kathir notes: Employs the Arabic particle l` alla which indicates an expectation or hope, and is used on an occasion when it is not definite that a certain action or event would necessarily be actualized.
+
+**From the Sunnah:** So call the Muslims with their names that Allah has called them: 'The Muslims, the believing servants of Allah.') (Sahih Muslim)
 ## Personal Reflections
 
 

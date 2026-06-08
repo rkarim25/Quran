@@ -227,6 +227,17 @@ Incidentally, the details appearing above also serve to remove the misunderstand
 
 Though surprising, Allah Almighty has Himself phrased these very two verses with the necessary material to remove this misunderstanding. The indication given in the present verses by the use of the words: فَلَا تَمِيلُوا كُلَّ الْمَيْلِ (So, do not lean totally) has appeared immediately before while the words used in verse 3 were: فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا فَوَاحِدَةً "But, if you fear that you will not maintain equity, then, (keep to) one woman." Here, in the later verse, saying: 'If you fear' as a condition openly indicates that maintaining justice and equality between wives is not beyond the realm of possibility or ability. Otherwise, there was no need for this extended word arrangement, more so, not to the limit of two full verses. For example, the verse which says: حُرِّ‌مَتْ عَلَيْكُمْ أُمَّهَاتُكُمْ وَبَنَاتُكُمْ (Forbidden for you are your mothers and your daughters - 4:23) carries details pertaining to women marriage with whom is forbidden. Then, by saying: وَأَن تَجْمَعُوا بَيْنَ الْأُخْتَيْنِ (and that you combine two sisters in the bond of marriage - 4:23), it has been declared that combining two sisters in marriage is unlawful. Similarly, it was quite possible to say that having more than one wife simultaneously is unlawful. If so, the restriction of بَيْنَ الْأُخْتَيْنِ (two sisters) with وَأَن تَجْمَعُوا (that you combine) would have become redundant. It was possible to say this in one single sentence, something like: وَأَن تَجْمَعُوا بَيْنَ الْأُخْتَيْنِ (and that you combine two women in the bond of marriage) which would have made it unlawful in the absolute sense. But, the Holy Qur'an avoids this lexical brevity for the sake of a longer narration, the detail of which extends to as much as two full verses. This treatment also indicates that the verse: وَأَن تَجْمَعُوا بَيْنَ الْأُخْتَيْنِ )that you combine two sisters in the bond of marriage - 4:23) is, in a way, suggesting the justification of combining more than one woman in the bond of marriage which is quite permissible with the condition that they should not be sisters of each other
 
+## AI Translation
+
+You will never be able to maintain justice between your wives—no matter how keen you are. So do not totally incline towards one leaving the other in suspense. And if you do what is right and live with taqwa, surely Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**Context:** (And if a woman fears cruelty or desertion on her husband's part), that it refers to, "A man who is married to an old woman, and he does not desire her and wants to divorce her.
+
+**What this ayah teaches:** The veneer of the words in verse 3 of Surah al-Nis-a' gave' the impression that maintaining equity between wives was ark absolute obligation which, obviously, includes equity in emotional inclination while this is something not in one's control.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ali bin Abi Talhah related that Ibn 'Abbas said that the Ayah refers to, "When the husband gives his wife the choice between staying with him or leaving him, as this is better than the husband preferring other wives to her." However, the apparent wording of the Ayah refers to the settlement where t… This leads us to realize that the inability to maintain equality pointed out in this verse…
 ## Personal Reflections
 
 

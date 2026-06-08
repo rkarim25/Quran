@@ -106,6 +106,17 @@ Allah gave him wisdom and knowledge; He sent Revelation to him, made him a Proph
 
 وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ نَافِلَةً (And We blessed him with Ishaq and Ya` qub as gift - 21:72) That is, Allah Ta` la had bestowed upon him the son Ishaq (علیہ السلام) as per his supplication and in addition to that a grandson Ya` qub (علیہ السلام) as a gift. This is why he is referred to as نَافِلَةً nafilah which originally means 'extra'.
 
+## AI Translation
+
+And We blessed him with Isaac as a son and Jacob as a grandson, as an additional favour—making all of them righteous.
+
+## AI Tafsir
+
+**Context:** And We rescued him and Lut to the land which We have blessed for the nations (71)And We bestowed upon him Ishaq, and Ya'qub Nafilatan.
+
+**What this ayah teaches:** And We rescued him and Lut to the land which We have blessed for the nations (71)And We bestowed upon him Ishaq, and Ya'qub Nafilatan.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

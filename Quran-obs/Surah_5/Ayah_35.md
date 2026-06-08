@@ -158,6 +158,17 @@ It is reported that the Holy Prophet ﷺ had himself taught a blind Sahabi to pr
 
 Moving on to the second (36) and the third (37) verses, one notices the manner in which the grave curse of Kufr (disbelief), Shirk (the associating of partners in the Divinity of Allah) and sin has been pointed out. It is so poignant that even a little reflection on it could bring an instant revolution in the lives of men and women of such persuasion compelling them to abandon all Kufr and Shirk and sin. To explain the curse of sinful living a little further, it can be said that sins in which one gets involved usually is because of personal desires and needs or for the desires and needs of family and children. Since their Fulfillment comes through an increase in wealth and property, one goes after amassing wealth and property without making any distinc-tion between what is Halal (lawful) and what is Haram (unlawful) in it. In these verses, Almighty Allah has censured the acquisition mania of such people which will prove to be futile in the ultimate analysis because its cure lies in realizing that things of comfort collected to satisfy a short lived span of life by working hard day and night still remain unattained. More and more stays to be the order of every other day in life. What begins must end and this race of gold and greed will also end when the punishment of the Doomsday will appear in sight and, at that time, if these people were to offer all they had collected in the mortal world, wealth and property, things and things of comfort, taste and value, offer all of it in return for their release from the punishment, then, this would not be possible anymore. Even if the wager is increased higher, suppose everything of value were to be owned by one person, nay, let us say twice as much, and if he were to offer all of it to have his release from the punishment, still then, nothing would be accepted from him and he will not have his deliverance from the punishment of the Hereafter.
 
+## AI Translation
+
+O you who have iman! live with taqwa toward Allah and seek what brings you closer to Him and struggle in His Way, so you may be successful.
+
+## AI Tafsir
+
+**What this ayah teaches:** Have Taqwa of Allah and seek the Wasilah to Him, and strive hard in His cause, so that you may be successful (35)Verily, those who disbelieve, if they had all that is in the earth, and as much again therewith to ransom themselves thereby from the torment on the Day of Resurrection, it would never be accepted of them.
+
+**Classical tafsir:** Ibn Kathir notes: Now, after this lexical explanation of the word, ` Wasilah,' and the exegetical notes from the Sahabah and Tabi` in, we do know how every-thing which becomes the means of achieving the pleasure and nearness of Allah is, for a human being, the ` Wasilah' of becoming close to Allah…
+
+**From the Sunnah:** Paradise, and it is the grade of the Messenger of Allah ﷺ, his residence and the nearest grade in Paradise to Allah's Throne. (Sahih al-Bukhari) he heard the Prophet ﷺ saying, (Sahih Muslim)
 ## Personal Reflections
 
 

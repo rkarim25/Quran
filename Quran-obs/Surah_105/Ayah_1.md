@@ -207,6 +207,17 @@ Lexical Analysis
 
 Verse [ 105:1] أَلَمْ تَرَ‌ كَيْفَ فَعَلَ رَ‌بُّكَ بِأَصْحَابِ الْفِيلِ (Have you not seen how your Lord dealt with the people of the Elephant?) In the phrase alam tara [ have you not seen ], the second person pronoun refers to the Holy Prophet ﷺ . It is interesting to note that the event took place before the blessed birth of the Holy Prophet ﷺ . He could not have seen or witnessed it with his own eyes. However, the incident was so widely known as if the Prophet ﷺ had seen it with his own eyes, which is a sign of the certainty of its happening. Such a knowledge is described by the word ru'yat [ seeing ]. As reported earlier, Sayyidah ` A'ishah ؓ and her sister, Sayyidah Asma' ؓ both say that they had seen the two camel drivers had become blind and paralyzed and used to go around begging. In this way, the traces of this event were seen even after the birth of the Holy Prophet ﷺ .
 
+## AI Translation
+
+Have you not seen how your Lord dealt with the army of the elephant—when worldly power marched against His House, confident that sheer force decides history?
+
+## AI Tafsir
+
+**What this ayah teaches:** However, the incident was so widely known as if the Prophet ﷺ had seen it with his own eyes, which is a sign of the certainty of its happening.
+
+**Classical tafsir:** Ibn Kathir notes: Commentary The subject-matter of the Surah This Surah refers to the story of the People of the Elephants who came with an army of elephants for the purpose of destroying the House of Allah in (The Holy Ka'bah) in Makkah.
+
+**From the Sunnah:** However, this was a means of giving a sign and preparing the way for the coming of the Messenger of Allah ﷺ. We have mentioned previously in the Tafsir of Surat Al-Fath that when the Messenger of Allah ﷺ approached the mountain pass that would lead him to the Quraysh on the Day of Al-Hudaybiyyah, his she-camel knelt down.
 ## Personal Reflections
 
 

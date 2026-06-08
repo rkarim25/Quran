@@ -229,6 +229,17 @@ On this basis, they argue that abrogation is possible, but has never actually oc
 
 The injunctions with regard to abrogation are too many and too intricate to be discussed here -- they properly belong to the books on the Principles of Jurisprudence.
 
+## AI Translation
+
+Whatever sign We abrogate or cause to be forgotten, We bring something better or similar. Do you not know that Allah is capable of everything?
+
+## AI Tafsir
+
+**What this ayah teaches:** Know you not that Allah is Able to do all things (106)Know you not that it is Allah to Whom belongs the dominion of the heavens and the earth?
+
+**Classical tafsir:** Ibn Kathir notes: The word, 'Nasakh' literally means, 'to copy a book'.
+
+**From the Sunnah:** The Prophet ﷺ brought another Book - the Qur'an - which is the last revelation from Allah. This provided the Jews and some of the associators too with an occasion to taunt the Muslims, and to say that such changes were made by the Holy Prophet ﷺ himself and not by Allah.
 ## Personal Reflections
 
 

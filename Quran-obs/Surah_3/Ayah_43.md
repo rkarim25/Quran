@@ -94,6 +94,17 @@ Ibn Jarir recorded that 'Ikrimah said, "Maryam's mother left with Maryam, carryi
 
 وَارْ‌كَعِي مَعَ الرَّ‌اكِعِينَ (and bow down with those who bow) while giving an order to bow down, the imperative has been qualified with the words "with those who bow"- but no such qualification appears while giving an order of prostration. This apparently seems to hint that people generally do not observe due concern while making ruk a` (bowing). They tend to bend a little, then resume the standing position (as if in a hurry). This kind of رکوع ruku' (bowing) is closer to standing قیام (qiyam). As said earlier, it apparently seems to suggest that Allah Almighty, by mentioning the qualification 'those who bow', has given a model to be followed so that one's bowing in prayer could become similar to those who bow fully and perfectly as due.
 
+## AI Translation
+
+O Mary! Be devout to your Rabb, prostrate yourself and bow along with those who bow down.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Submit yourself with obedience (Aqnuti) to your Lord and prostrate yourself, and bow down along with Ar-Raki'in. Maryam Over the Women of Her Time Allah states that the angels spoke to Maryam by His command and told her that He chose her because of her service to Him, because of her modesty, honor, innocence, and conviction.
+
+**Classical tafsir:** Ibn Kathir notes: Rather, Allah disclosed these facts to you as if you were a witness, when they conducted a lottery to choose the custodian of Maryam, seeking the reward of this good deed." Ibn Jarir recorded that 'Ikrimah said, "Maryam's mother left with Maryam, carrying her in her infant cloth, and took her to the…
+
+**From the Sunnah:** The Six, with the exception of Abu Dawud, recorded it. (Sahih al-Bukhari, Sunan Abi Dawud)
 ## Personal Reflections
 
 

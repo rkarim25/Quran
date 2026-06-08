@@ -203,6 +203,17 @@ A doubt and its answer
 
 Here, while mentioning the prophets, it has been said that they do not fear anyone except Allah. But, in the verse previous to it while referring to the Holy Prophet ﷺ it was said: تَخْشَى النَّاسَ (you fear people - 37). How would this be correct? The answer is that, in the cited verse, this matter of prophets not fearing anyone other than Allah has been mentioned in connection with the conveying of Divine messages while the Holy Prophet t, faced the fear of being taunted in a matter which was obviously of a worldly nature. It had nothing to do with his mission and prophethood. But, as soon as it became clear to him from the cited verses that this marriage too was a part of the practical aspect of his mission and prophethood, no fear of taunts, thereafter, from anyone stopped him from doing what he had to. And this marriage took place despite the objections raised by many disbelievers - which they still keep doing.
 
+## AI Translation
+
+That is His way with those prophets who deliver the messages of Allah, and consider Him, and none but Allah. And sufficient is Allah as a vigilant Reckoner.
+
+## AI Tafsir
+
+**What this ayah teaches:** And sufficient is Allah as a Reckoner (39)Muhammad is not the father of any of your men, but he is the Messenger of Allah and the last of the Prophets.
+
+**Classical tafsir:** Ibn Kathir notes: If there will be no Prophet after him then there will surely be no Messenger after him either, because the status of a Messenger is higher than that of a Prophet, for every Messenger is a Prophet but the reverse is not the case.
+
+**From the Sunnah:** The leader of all people in this regard and in all regards is Muhammad the Messenger of Allah ﷺ, for he undertook to convey the Message to the people of the east and of the west, to all kinds of the sons of Adam, so Allah caused his word, his religion and his… No male child of the Prophet ﷺ lived until puberty.
 ## Personal Reflections
 
 

@@ -138,6 +138,15 @@ The three angels; Jibril, Mika'il and Israfil came to Ibrahim in the image of ha
 
 فَأَوْجَسَ مِنْهُمْ خِيفَةً (So he felt some fear in his heart...51:28). When the guests did not eat the food, the Holy Prophet Ibrahim (علیہ السلام) conceived fear of them. In those days it was the custom of the noble people to entertain the guests who were expected to accept the hospitality of the host. If they did not, the host would become apprehensive that there is some danger afoot - probably they are enemies who came to cause some kind of trouble for them. In those days, even the rogues and wrongdoers had the noble quality that they would not cause any harm to anyone whose food they had eaten. Hence refusing to eat was a sign of hostility or danger.
 
+## AI Translation
+
+When they did not eat, he grew uneasy about them. They said: Do not fear—and gave him glad news of a knowledgeable son.
+
+## AI Tafsir
+
+**What this ayah teaches:** He did not place the food far from them and invite them to come close to it to eat. For he brought the food to his guests quickly, while they were unaware that it was being prepared for them.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

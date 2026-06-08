@@ -138,6 +138,17 @@ And if the event featuring the hypocrites, described under the background of rev
 
 Later, towards the end of this verse, by saying: اِن اللہَ عَلِیماً حَکِیمَاً (Surely, Allah is All- Knowing, Wise - 1), stated there is the wisdom of the order given immediately earlier - that is, 'fear Allah and do not obey the disbelievers and hypocrites.' The reason is that Allah Ta’ ala, who knows the consequences of everything, is most wise, and fully aware of what is better for His servants. This was said to counter some of the things put forth by the disbelievers or hypocrites which could generate for them certain advantages of lesser tension and increased mutual tolerance. But, from this Allah Ta’ ala prohibited him by declaring that even this tolerance of such people was counter to what was expedient under the circumstances and that such a policy was not going to end well.
 
+## AI Translation
+
+O Prophet — live with taqwa toward Allah, and do not yield to those who reject the truth or those of nifaq. Indeed, Allah is All-Knowing, All-Wise.
+
+## AI Tafsir
+
+**Context:** (1. O Prophet! Have Taqwa of Allah, and obey not the those who reject the truth and the hypocrites. Verily, Allah is Ever All-Knower, All-Wise.)(2. And follow that which is revealed to you from your Lord.
+
+**What this ayah teaches:** And Ibn Kathir has said: In this verse, the real purpose of prohibiting the obedience of the those who reject the truth is that the Holy Prophet ﷺ should not consult with them or let them have the opportunity of sitting with him frequently, because such consultation or mutual interaction generally becomes the cause of ending up in a disposition favouring the acceptance of what they proposed.
+
+**Classical tafsir:** Ibn Kathir notes: But, if the hypocrites said anything counter to Islam, they would no longer remain hypocrites, because in that case they would become open those who reject the truth.
 ## Personal Reflections
 
 

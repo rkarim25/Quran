@@ -165,6 +165,19 @@ Sayyidna ` Abdullah Ibn 'Abbas ؓ is narration also carries the additional infor
 
 In any case, the Muslims are cautioned in this verse that they should prepare themselves to turn to Allah totally and completely, and act upon the teachings of their religion. All actions revolve around khushu`-ul-qalb Sayyidna Shaddad Ibn Aws ؓ narrates that the Messenger of Allah ﷺ said: "The first thing that will be taken away from the people will be their humility or humbleness [ khushu']." [ Ibn Kathir ]
 
+## AI Translation
+
+Those who give in charity—men and women—and lend Allah a good loan will have it multiplied for them, and they will have a generous reward.
+
+## AI Tafsir
+
+**Context:** This verse admonishes the believers. Sayyidna ` Abdullah Ibn ` Abbas ؓ reports that some of the believers were found to be lacking in firmness, and somewhat laziness was felt in their practices.
+
+**What this ayah teaches:** Verily, those who give Sadaqat, men and women, and lend Allah handsome loan, it shall be increased manifold (to their credit), and theirs shall be an honorable good reward (18)And those who believe in Allah and His Messengers. They do not seek worldly rewards or appreciation from those to whom they give in charity.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Paradise will look at the dwellers of the lofty mansions as one looks at a brilliant star far away in the east or in the west on the horizon, because of their superiority over one another.
 ## Personal Reflections
 
 

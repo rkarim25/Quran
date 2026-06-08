@@ -152,6 +152,17 @@ Some Rulings about touching the Holy Qur’ an
 
 (4) Scholars have ruled it which is proved by this very verse with grater force that a person in the state of janabah (sexual defilement) and a woman in the state of menstruation or postpartum bleeding cannot recite it, even from memory until bath has been taken, because if it is obligatory to honour the written letters of the Holy Qur'an by touching them only in the state of purity, its spoken words deserve the same honour with greater importance. The requirement of this honour should have been that even in the state of minor impurity a person should not be allowed to recite the Holy Qur'an. But Sayyidna Ibn ` Abbas and ` Ali ؓ report that the Holy Prophet ﷺ recited the Qur'an without wudu'. On this basis, the jurists have ruled that it is permissible to recite it without wudu'. (But in the case of major impurity the rule will remain intact). [ Mazhari ]
 
+## AI Translation
+
+touched by none except the purified angels.
+
+## AI Tafsir
+
+**Context:** (That (this) is indeed an honorable recitation.) means, verily, this Qur'an that was revealed to Muhammad ﷺ is a Glorious Book,
+
+**What this ayah teaches:** The commentators have different views about them, because the structure of verse 78 and 79 has two possibilities grammatically: The first possibility is that the phrase 'that is not touched except by the purified ones' is the qualification of the Preserved Tablet referred to in the previous verse.
+
+**Classical tafsir:** Ibn Kathir notes: I swear by the Mawaqi' of the stars.) Mujahid said, "The setting positions of the stars in the sky," and he said that it refers to the rising and setting positions.
 ## Personal Reflections
 
 

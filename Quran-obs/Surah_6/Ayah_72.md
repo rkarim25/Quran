@@ -158,6 +158,17 @@ When you come to think of it, wrong environment and bad company really hurt all 
 
 As for the next three verses (71-73), they too deal with the refutation of Shirk (the attribution of partners to Allah) and the affirmation of Tauhid (the Oneness of Allah) and 'Akhirah (the Hereafter, the life to come) as fairly evident from the translation itself.
 
+## AI Translation
+
+Ask, “Should we invoke, other than Allah, those which cannot benefit or harm us, and turn back to rejection of the truth after Allah has guided us? like those disoriented by devils in the wilderness, while their companions call them to guidance,, ‘Come to us!’ Say, “Allah’s guidance is the true guidance. And we are commanded to submit to the Rabb of all worlds, establish salah, and be mindful of Him. To Him you will all be gathered together.
+
+## AI Tafsir
+
+**What this ayah teaches:** – Like one whom the Shayatin (devils) have made to go astray, confused (wandering) through the land, his companions calling him to guidance (saying): 'Come to us.'" Say: "Verily, Allah's guidance is the only guidance, and we have been commanded to submit (ourselves) to the Lord of all that exists (71)And to perform the Salah, and have Taqwa of Him, and it is He to Whom you shal…
+
+**Classical tafsir:** Ibn Kathir notes: They are so disobedient and wicked because they are be-witched by the glamour of their mortal life totally forgetting that they have another state of life ahead of them.
+
+**From the Sunnah:** In this verse, the Holy Prophet ﷺ and Muslims at large have been given two orders that they should not only avoid the people identified, but that they should also act positively and continue preaching through the Qur'an and keep putting the fear of Allah's…
 ## Personal Reflections
 
 

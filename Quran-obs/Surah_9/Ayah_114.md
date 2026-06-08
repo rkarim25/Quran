@@ -185,6 +185,17 @@ Imam al-Qurtubi said, ` this proves that it is permissible to pray for the forgi
 
 In the last sentence of the verse (114), it was said: إِنَّ ِبْرَ‌اهِيمَ حَلِيمٌ (Surely, Ibrahim is oft sighing [ before Allah ], forbearing). The word: اوَّاه awwah) is used for a host of meanings. Al-Qurtubi has reported fifteen meanings of this word but they are all close to each other without any real difference between them. Some of these are: one who sighs a lot, or one who supplicates profusely, or one who is full of mercy for the servants of Allah. This (last) meaning is reported from Sayyidna ` Abdullah ibn Masud ؓ .
 
+## AI Translation
+
+As for Abraham’s prayer for his father’s forgiveness, it was only in fulfilment of a promise he had made to him. But when it became clear to Abraham that his father was an enemy of Allah, he broke ties with him. Abraham was truly tender-hearted, forbearing.
+
+## AI Tafsir
+
+**Context:** (I will invoke Allah for forgiveness for you, as long as I am not prohibited from doing so.) This verse was revealed, Ali bin Abi Talhah narrated that Ibn 'Abbas commented on this Ayah, "They used to invoke Allah for the…
+
+**What this ayah teaches:** The object of this prayer of forgiveness for the those who reject the truth is no other but that Allah may bless them with the taufiq of 'Iman and Islam so that they could become deserving of being forgiven.
+
+**Classical tafsir:** Ibn Kathir notes: But when it became clear to him [Ibrahim] that he (his father) is an enemy of Allah, he dissociated himself from him.
 ## Personal Reflections
 
 

@@ -132,6 +132,17 @@ Surah Adh-Dhariyat
 
 Ends here
 
+## AI Translation
+
+The wrongdoers will have a share of torment like that of their predecessors. So do not let them ask Me to hasten it.
+
+## AI Tafsir
+
+**What this ayah teaches:** Nay, they are themselves a people transgressing beyond bounds (53)So turn away from them, you are not blameworthy (54)And remind, for verily, the reminding profits the believers (55)And I created not the Jinn and mankind except that they should worship Me (56)I seek not any provision from them nor do I ask that they should feed Me (57)Verily, Allah is the All-Provider, Owner of…
+
+**Classical tafsir:** Ibn Kathir notes: This verse, in which the word dhanuban occurs, indicates that they will receive their due share of the torment, and it will surely come in due time; so they should not ask for it to be hastened on or rushed to them.
+
+**From the Sunnah:** this Hadith. (Musnad Ahmad, Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

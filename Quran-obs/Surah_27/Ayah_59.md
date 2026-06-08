@@ -137,6 +137,15 @@ Ruling
 
 This verse also teaches the formalities of an address, a sermon or a lecture, that it should start with the praise of Allah and the salah (durood) and salam to the prophets. This had always been the practice of the Holy Prophet ﷺ in his addresses. His companions also adopted the same practice by commencing not only their addresses but also all the important jobs by praising Allah Ta’ ala and then salah and salam on the Holy Prophet ﷺ '. (Ruh).
 
+## AI Translation
+
+Say, O Prophet, “Praise be to Allah, and peace be upon the servants He has chosen.” Ask those who reject the truth, “Which is better: Allah or whatever gods they associate with Him?”
+
+## AI Tafsir
+
+**What this ayah teaches:** This was the view of 'Abdur-Rahman bin Zayd bin Aslam and others; the meaning of the servants He has chose is the Prophets.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

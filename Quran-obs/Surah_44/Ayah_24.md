@@ -181,6 +181,17 @@ Ibn Jarir recorded that Sa'id bin Jubayr said, "A man came to Ibn 'Abbas, may Al
 
 وَاتْرُ‌كِ الْبَحْرَ‌ رَ‌هْوًا "And leave the sea in the state of stillness; (44:24) " The word rahwan means 'to be still/calm/motionless'. When Prophet Musa (علیہ السلام) and his companions crossed the sea, Musa ill naturally desired for the sea to go back to its original state. So he wanted to strike it with his staff so that it would form a barrier between them and Fir'aun to prevent him from reaching them. But Allah commanded him to leave it as it was, quiet and divided, and gave him the glad tidings that they were a host to be drowned, and he should not fear either being overtaken by Fir'aun or drowning in the sea. When Fir'aun, with his host, will reach the middle of the dry path, Allah will cause the water to flow and they will drown. (Ibn Kathir).
 
+## AI Translation
+
+And leave the sea parted, for they are certainly an army bound to drown."
+
+## AI Tafsir
+
+**Context:** And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid (of drowning in the sea). (20:77)
+
+**What this ayah teaches:** Verily, they are a host to be drowned.) When Musa and the Children of Israel has crossed the sea, Musa wanted to strike it with his staff so that it would go back as it had been, and it would form a barrier between then and Fir'awn and prevent him from reaching them.
+
+**Classical tafsir:** Ibn Kathir notes: This refers to the clear signs and definitive evidence with which Allah sent him.
 ## Personal Reflections
 
 

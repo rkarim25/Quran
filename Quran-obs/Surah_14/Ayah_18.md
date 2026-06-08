@@ -142,6 +142,15 @@ In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَك
 
 So, whatever good there is in gratitude, that is for you alone. There-fore, when you are asked to be grateful by Allah Ta’ ala, there is no gain for Him in doing so. In fact, it is His infinite mercy reaching out to you in your interest.
 
+## AI Translation
+
+The deeds of those who reject their Rabb are like ashes blown fiercely by wind on a stormy day. They gain nothing from what they earned. That is the farthest straying.
+
+## AI Tafsir
+
+**What this ayah teaches:** His parable is that of a smooth rock on which is a little dust; on it falls heavy rain which leaves it bare.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -154,6 +154,19 @@ Lexically, the Arabic word: مَکر (makr: translated as 'plot' ) means restric
 
 At this place, it is also noteworthy that the words used at the end of the verse are in the indefinite tense which denotes present and future. It was said: وَيَمْكُرُ‌ونَ وَيَمْكُرُ‌ اللَّـهُ (And they were plotting and Allah was plotting - 30), that is, they will keep plotting to hurt believers while Allah Ta'ala will keep plotting to thwart and frustrate their plots. The hint given therein is that this will continue to remain a lasting mark of disbelievers that they go about engineering designs to hurt Muslims - while, in the same way, the help and support of Allah Ta'ala shall also keep repulsing their evil designs against true believers.
 
+## AI Translation
+
+Remember when those who reject the truth plotted against you—to imprison you, kill you, or expel you. They plotted, and Allah plotted. Allah is the best of planners.
+
+## AI Tafsir
+
+**Context:** Jibril came to the Prophet ﷺ and commanded him not to sleep in his bed that night and conveyed to him the news of their plot.
+
+**What this ayah teaches:** And (remember) when the those who reject the truth plotted against you to imprison you, or to kill you, or to expel you (from your home, Makkah); they were plotting and Allah too was plotting; and Allah is the best of plotters . Therefore, seek an opinion other than this one.' Another one of them said, 'Expel him from your land, so that you are free from his trouble!
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, seek an opinion other than this one.' Another one of them said, 'Expel him from your land, so that you are free from his trouble!
+
+**From the Sunnah:** Jibril came to the Prophet ﷺ and commanded him not to sleep in his bed that night and conveyed to him the news of their plot.
 ## Personal Reflections
 
 

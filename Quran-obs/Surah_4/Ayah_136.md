@@ -162,6 +162,15 @@ Sequence
 
 Discussed upto this point were subsidiary injunctions mostly, alongwith issues relating to faith ('Iman) and disbelief (kufr) appearing as a corollary to dealings with antagonists. Onwards from here, these issues appear in some detail continuing almost close to the end of the Surah. In the sequence of statements, first comes a description of 'Iman (faith) as credible in the sight of the Shari’ ah. After that, various groups of disbelievers have been censured for their beliefs and for some of their deeds also which issue forth from their faulty beliefs.
 
+## AI Translation
+
+O you who have iman! Have faith in Allah, His Messenger, the Book He has revealed to His Messenger, and the Scriptures He revealed before. Indeed, whoever denies Allah, His angels, His Books, His messengers, and the Last Day has clearly gone far astray.
+
+## AI Tafsir
+
+**What this ayah teaches:** Believe in Allah, and His Messenger, and the Book (the Qur'an) which He has sent down to His Messenger, and the Scripture which He sent down to those before; and whosoever disbelieves in Allah, His Angels, His Books, His Messengers, and the Last Day, then indeed he has strayed far away .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

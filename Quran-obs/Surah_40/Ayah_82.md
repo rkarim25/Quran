@@ -169,6 +169,15 @@ This is the end of the Tafsir of Surah Ghafir. Praise and thanks be to Allah.
 
 In verse 77, it was said: فَاصْبِرْ‌ إِنَّ وَعْدَ اللَّـهِ حَقٌّ فَإِمَّا نُرِ‌يَنَّكَ (Therefore, be patient. Surely, the promise of Allah is true. Then, whether We show you [ in your life ] a part of the promise We are making to them, or make you die [ before they are punished ], in any case they have to be returned to Us). From this verse it appears that the Holy Prophet ﷺ was hopefully waiting for the disbelievers to be punished. Therefore, it was to comfort him that he was asked to be somewhat patient about it. The promise of Allah for them, that they will be punished, will certainly be fulfilled - may be during his lifetime, or after he has departed from the mortal world. Waiting for the disbelievers to be punished apparently seems contrary to the dignity of one who was sent with universal mercy. But, here the matter is different. When the purpose of punishing criminals is to bring comfort to innocent believers who were oppressed, then, the punishment of criminals is not contrary to compassion and mercy. Nobody regards the punishment given to a criminal against the dictate of mercy.
 
+## AI Translation
+
+Have they not travelled throughout the land to see the end of those destroyed before them? They were far superior in might and richer in monuments throughout the land, but their worldly gains were of no benefit to them.
+
+## AI Tafsir
+
+**What this ayah teaches:** They were more in number than them and mightier in strength, and in the traces in the land; yet all that they used to earn availed them not (82)Then when their Messengers came to them with clear proofs, they were glad (and proud) with that which they had of the knowledge (of worldly things).
+
+**Classical tafsir:** Ibn Kathir notes: The Lesson to be learned from what happened to Those Who Came before Allah tells us about the nations who rejected their Messengers in ancient times.
 ## Personal Reflections
 
 

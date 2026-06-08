@@ -181,6 +181,17 @@ However, the meaning of these words in view of the first explanation of this ver
 
 Towards the end of these verses it is clarified that a bond woman owned by the Holy Prophet ﷺ is exempt from fifth and seventh rules in the sense that she is lawful for him, even if she is a Christian or Jew, and it is also permitted for him to replace her with another bondwoman. Lastly it has been reminded that Allah Ta’ ala is watchful of everything's reality, appearance and underlying reasons. All these injunctions and rules are based on divine wisdom and expedience, even if the wisdom is not stated specifically, and hence no one has the right to question them or raise objections against them.
 
+## AI Translation
+
+It is not lawful for you O Prophet to marry more women after this, nor can you replace any of your present wives with another, even if her beauty may attract you—except those bondwomen in your possession. And Allah is ever Watchful over all things.
+
+## AI Tafsir
+
+**Context:** More than one of the scholars, such as Ibn 'Abbas, Mujahid, Ad-Dahhak, Qatadah, Ibn Zayd, Ibn Jarir and others stated that this Ayah was revealed as a reward to the wives of the Prophet ﷺ expressing Allah's pleasure with…
+
+**What this ayah teaches:** Towards the end of these verses it is clarified that a bond woman owned by the Holy Prophet ﷺ is exempt from fifth and seventh rules in the sense that she is lawful for him, even if she is a Christian or Jew, and it is also permitted for him to replace her with another bondwoman.
+
+**Classical tafsir:** Ibn Kathir notes: Then Allah lifted the restriction stated in this Ayah and permitted him to marry more women, but he did not marry anyone else, so that the favor of the Messenger of Allah ﷺ towards them would be clear.
 ## Personal Reflections
 
 

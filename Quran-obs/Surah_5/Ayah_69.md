@@ -196,6 +196,19 @@ So, if they (the Companions) believe in the like of what you (the Prophets) beli
 
 It means that the kind of 'Iman the noble Sahabah had is the only 'Iman which deserves to be called 'Iman bil-lah. And it is obvious that 'Iman bir-rasul was a great pillar of the edifice of their 'Iman. Therefore, the words: مَن اٰمَنَ بِاللہِ (whoever believes in Allah) are inclusive of the belief in the Messenger of Allah.
 
+## AI Translation
+
+Indeed, those who have iman, Jews, Sabians and Christians—whoever believes in Allah and the Last Day and does good, there will be no fear for them, nor will they grieve.
+
+## AI Tafsir
+
+**Context:** (O People of the Scripture! You have nothing...) meaning no real religion until you adhere to and implement the Tawrah and the Injil.
+
+**What this ayah teaches:** And there is no fear for them nor shall they grieve.
+
+**Classical tafsir:** Ibn Kathir notes: A surface view of the subject may suggest to someone that this should not be the place to mention Muslims because they are - in their faith and through their obedience - at the stage desired in the verse.
+
+**From the Sunnah:** Three of these Communities - Muslims, Jews and Christians - are well-known and found in most parts of the world. And it is obvious that total obedience after the revelation of the Qur'an depends on being a Muslim - because, there are instructions to this effect in the past Scriptures of the Torah and the Injil as well, while the Qur'an itself was revealed for this partic… (Sahih Muslim)
 ## Personal Reflections
 
 

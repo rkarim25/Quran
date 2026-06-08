@@ -345,6 +345,19 @@ In the next verses, there is the mention of the Hereafter and its horrors.
 
 اِنَّهَا لَاِحْدَى الْكُبَرِ (saqar: Hell) is one of the greatest things....74:35) The pronoun in the phrase innaha refers to saqar 'Hell' which has been mentioned in one of the preceding verses. The word kubar is the plural of kubaa which is an adjective for dahiyah or musibah 'calamity'. The verse purports to say that Hell which the unbelievers will enter will be one of the greatest calamities. Besides, there will be many different kinds of torments and tortures.
 
+## AI Translation
+
+We have set only stern angels as wardens of the Fire. We made their number a test for those who reject the truth—so the People of the Book would be certain, believers would grow in iman, and neither group would doubt. Those with sickness in their hearts and those who reject the truth would ask, 'What does Allah mean by this number?' Thus Allah leaves astray whomever He wills and guides whomever He wills. None knows the armies of your Rabb except Him. This is only a reminder for humanity.
+
+## AI Tafsir
+
+**Context:** وَمَا يَعْلَمُ جُنُوْدَ رَبِّكَ اِلَّا هُو (...And no one knows the hosts of your Lord but He 74:31) Muqatil, among the leading authorities, says that this is rebuttal to Abu Jahl's statement.
+
+**What this ayah teaches:** Under each of these angels, the number of Allah's angels is legion beyond human count or computation.
+
+**Classical tafsir:** Ibn Kathir notes: This is so that one does not make the mistake of thinking that they are only nineteen in all.
+
+**From the Sunnah:** It has been confirmed in the Hadith concerning Al-Isra' that is reported in the Two Sahihs and other collections, that the Messenger of Allah ﷺ said in describing the Frequented House (Al-Bayt Al-Ma'mur), which is in the seventh heaven,
 ## Personal Reflections
 
 

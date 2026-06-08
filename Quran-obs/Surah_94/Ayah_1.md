@@ -122,6 +122,15 @@ It was mentioned at the end of the preceding Surah that twenty-two Surahs from S
 
 The Holy Prophet's ﷺ bosom was expanded to receive the knowledge and wisdom and the gracious morals and ethical qualities, which the greatest philosophers could not match. As a result of this expansion of heart, tawajjuh ilal-makhluq (attentiveness to the creation) did not disturb his attentiveness to and concentration on Allah. Some of the authentic Traditions report that the angels, with Allah's permission, physically opened the blessed chest of the Holy Prophet ﷺ . Some of the commentators interpret this 'expansion of the chest' to refer to the same miracle, as mentioned in Ibn Kathir and others. And Allah knows best!
 
+## AI Translation
+
+Have We not opened your chest for you, O Prophet—widened your heart to carry the weight of revelation and mission?
+
+## AI Tafsir
+
+**What this ayah teaches:** The word sharp literally denotes 'to open, to cause the bosom to be widely opened'.
+
+**Classical tafsir:** Ibn Kathir notes: And to your Lord turn intentions and hopes.) meaning, 'when you have completed your worldy affairs and its tasks, and you have broken away from its routine, then get up to perform the worship, and stand for it with zeal, complete devotion and purify your intention and desire for your Lord.' Similar…
 ## Personal Reflections
 
 

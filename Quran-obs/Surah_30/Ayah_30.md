@@ -234,6 +234,17 @@ It is obligatory to avoid the company of wrongdoers and evil society
 
 Although in this verse the sentence لَا تَبْدِيلَ لِخَلْقِ اللَّـهِ (There is no change in Allah's creation - 30:30) is in the form of information, which means that no one can change the nature designed by Allah, but it also contains a latent prohibition in the sense that this nature should not be tampered with. Therefore, it is inferred from this verse that one should avoid the situations that render the capability of accepting the truth ineffective or weak. Such situations generally emerge in an evil environment and bad company, or by reading books written by those having wrong beliefs, especially when the reader does not have extensive knowledge and information about Islam.
 
+## AI Translation
+
+So stand firm in upright iman, O Prophet — the natural way Allah instilled in people. Do not alter Allah's creation. That is the Sirat al-Mustaqim — the way of living that pleases Allah — though most do not know.
+
+## AI Tafsir
+
+**What this ayah teaches:** Although the commentators have assigned different grammatical constructions to this sentence, yet all of them agree that "the nature designed by Allah" refers to the "straight Faith" that is ordered to be followed in the first sentence.
+
+**Classical tafsir:** Ibn Kathir notes: Others said that this means, Allah made all of His creation equal, all of them have the same sound Fitrah and are by nature upright; they are all born with this nature and there is no disparity among people in this regard.
+
+**From the Sunnah:** This Ummah too has split into sects, all of which are misguided apart from one, which is Ahlus-Sunnah Wal-Jama'ah, those who adhere to the Book of Allah and the Sunnah of the Messenger of Allah ﷺ and what was followed by the first generations, the Companions,… (al-Mustadrak) Hence the meaning is that Allah Ta’ ala has made all human beings Muslim…
 ## Personal Reflections
 
 

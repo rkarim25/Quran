@@ -142,6 +142,17 @@ In contra-distinction to Muwalah [ intimate friendship ], there is a concept of 
 
 وَيَحْلِفُونَ عَلَى الْكَذِبِ (and they swear false oaths ...58:14). It means they swear oaths profanely. According to some reports, this verse was revealed in connection with ` Abdullah Ibn 'Ubayy and ` Abdullah Ibn Nabtal: One day the Messenger of Allah ﷺ was sitting with his noble Companions ؓ and said to them: "Soon a person will come to you whose heart will be the heart of a tyrant and who sees through the Shaitan's eyes." Soon afterwards ` Abdullah Ibn Nabtal, the hypocrite, entered. He was blue-eyed, wheat-coloured, short-statured and skimpy-bearded. The Messenger of Allah ﷺ asked him: "Why do you and your comrades use obscene words against me?" He swore that he did not do that. Then he called his comrades and they too took this false oath. Allah told the Holy Prophet ﷺ ; about their lie and profane oath. [ Qurtubi ]
 
+## AI Translation
+
+They use their oaths as a shield, blocking others from the path of Allah. They will suffer a humiliating punishment.
+
+## AI Tafsir
+
+**Context:** وَيَحْلِفُونَ عَلَى الْكَذِبِ (and they swear false oaths ...58:14). It means they swear oaths profanely. According to some reports, this verse was revealed in connection with ` Abdullah Ibn 'Ubayy and ` Abdullah Ibn Nab…
+
+**What this ayah teaches:** Evil indeed is that which they used to do (15)They have made their oaths a screen. Thus they hinder (others) from the path of Allah,) meaning, the hypocrites pretended to be believers and concealed disbelief under the shield of their false oaths.
+
+**Classical tafsir:** Ibn Kathir notes: Here 'love', 'affection' or 'intimacy' refers to the one coming from the heart involving intense emotional commitment (which necessarily includes having love with his way of life.
 ## Personal Reflections
 
 

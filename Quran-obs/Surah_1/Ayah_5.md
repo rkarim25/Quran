@@ -50,6 +50,17 @@ Then, acts of worship (Ibadah) are not limited merely to prescribed prayers or f
 10. To follow the Sunnah, or the practice of the Holy Prophet (peace be upon him)
 Therefore, not associating anyone with Allah in worship means that one should not love or fear or depend on anyone else as one loves , or fears or depends on Allah, nor should one repose one's hope in anyone else, nor should one consider obedience or submission or service to another as obligatory as the worship of Allah, nor make a votive offering or consecrate or dedicate anything to anyone or take a vow in the name of anyone similar to the way one does these things in the case of Allah, nor should one show complete self-abasement and total humility before anyone as one is required to do before Allah, nor should one engage in the particular God-oriented acts of worship for anyone other than Allah, acts which symbolize the farthest limits of self-abasement, such as, ruku and sajdah (the bowing and prostrating in salah).
 
+## AI Translation
+
+You alone we worship with full devotion—we do not give our ultimate loyalty to wealth, status, approval, or power. You alone we ask for help—knowing that no system, person, or plan can replace reliance on You.
+
+## AI Tafsir
+
+**What this ayah teaches:** Worship (*ibadah*) and reliance (*isti'anah*) belong to Allah alone—not to wealth, status, fear of people, or self-reliance.
+
+**Classical tafsir:** Ibn Kathir: this is the heart of *tawhid al-uluhiyyah*. Between Allah and the servant is the covenant of exclusive devotion.
+
+**From the Sunnah:** "You alone we worship; You alone we ask for help" — Allah says: "This is between Me and My servant, and for My servant is what he asks" (Muslim).
 ## Personal Reflections
 
 

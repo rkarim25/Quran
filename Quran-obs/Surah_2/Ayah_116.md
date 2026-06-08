@@ -218,6 +218,17 @@ He commands its Essence, which already exists in His Knowledge, "to be", and it 
 
 At the end, we shall again insist that no good can come out of unnecessarily meddling with such delicate questions, especially if the purpose is no more than to seek a new sensation.
 
+## AI Translation
+
+They say Allah has taken a child. Glory be to Him! To Him belongs whatever is in the heavens and earth — all are obedient to Him.
+
+## AI Tafsir
+
+**What this ayah teaches:** Nay, to Him belongs all that is in the heavens and on earth, and all are Qānitūn to Him (116)The Originator of the heavens and the earth.
+
+**Classical tafsir:** Ibn Kathir notes: Sa'id bin Jubayr said that Qānitūn is sincerity. Mujahid and As-Suddi said that this is the linguistic meaning, for all new matters are called Bid'ah. But, according to the Maturidi group, the phrase literally means what it says.
+
+**From the Sunnah:** And there is a linguistic Bid'ah, such as the statement of the Leader of the faithful 'Umar bin Al-Khattab when he gathered the Muslims to pray the Tarawih prayer in congregation (which was also an earlier practice of the Prophet ﷺ) and said, "What a good Bid'…
 ## Personal Reflections
 
 

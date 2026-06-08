@@ -176,6 +176,17 @@ Another question which arises in this verse is about what has been said in some 
 
 The answer is that such address or speech will not be in the form of honouring them or accepting their prayers. As for the negation of an address based on admonition, that is not intended in this verse. It could also be said that the address mentioned in this verse may be through the angels. As for the verse where Divine speech or address has been negated, it refers to an indirect address.
 
+## AI Translation
+
+Their only argument will be: “By Allah, our Rabb! We were never polytheists.”
+
+## AI Tafsir
+
+**What this ayah teaches:** If he chooses to lie, as he did in his mortal life, his right to do that will not be snatched away from him - because Allah will Himself, in His absolute power, demolish the facade of his lie through the testimony of his own body parts. Therefore, on the day of Resurrection they would swear to it that they were not Mushriks.
+
+**Classical tafsir:** Ibn Kathir notes: As for the verse where Divine speech or address has been negated, it refers to an indirect address.
+
+**From the Sunnah:** It appears no one will have the courage to lie in this test, otherwise a Kafir could have given the same answer as was given by a Muslim. (Sahih Muslim)
 ## Personal Reflections
 
 

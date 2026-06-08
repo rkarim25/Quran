@@ -74,6 +74,15 @@ And weigh with an even balance. - 26:182
 
 Some scholars have held the word Quistas as a Roman word, which means justice, while others have taken it as an Arabic word, derived from Qist, which is also used for justice. It means to make use of the scale and other measuring tools in a straight and correct manner, where there is no possibility of weighing less.
 
+## AI Translation
+
+Weigh with an even balance,.
+
+## AI Tafsir
+
+**What this ayah teaches:** - 26:182 Some scholars have held the word Quistas as a Roman word, which means justice, while others have taken it as an Arabic word, derived from Qist, which is also used for justice. It means to make use of the scale and other measuring tools in a straight and correct manner, where there is no possibility of weighing less.
+
+**Classical tafsir:** Ibn Kathir notes: - 26:182 Some scholars have held the word Quistas as a Roman word, which means justice, while others have taken it as an Arabic word, derived from Qist, which is also used for justice.
 ## Personal Reflections
 
 

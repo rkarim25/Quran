@@ -172,6 +172,19 @@ These verses purport to confirm the risalah of the Final Messenger of Allah ﷺ 
 
 إِنَّ رَ‌بَّكَ يَقْضِي بَيْنَهُمْ ("...Surely your Lord will judge between them, on the Day of Judgment, in the matters in which they used to differ... 45:17) " This far the verses confirm two points: This verse purports to say, firstly, that the Book of Musa (علیہ السلام) contains many clear prophecies about the advent of the Holy Prophet ﷺ and, secondly to comfort the Holy Prophet ﷺ that the Israelites rejected him not because there was any dearth of arguments, signs and Divine prophecies to support and establish his claim, but because of jealousy, love of the world and personal desires, that is, they did not like the very idea that the Final Messenger ﷺ should have appeared from among the non-Israelites . (Bayan-ul-Qur’ an).
 
+## AI Translation
+
+We gave them clear commandments regarding faith. But they differed only after knowledge came to them, out of mutual envy. Your Lord will judge between them on the Day of Judgment regarding their differences.
+
+## AI Tafsir
+
+**Context:** (Then We have put you on a (legal) way of commandment. So follow you that.) 'follow what was revealed to you from your Lord, O Muhammad, there is no true deity except Him, and turn away from the idolators.' Allah said,
+
+**What this ayah teaches:** And they differed not until after the knowledge came to them, through envy among themselves. And indeed We gave the Children of Israel the Scripture, and the understanding of the Scripture and its laws, and the prophethood; and provided them with good things, and preferred them above the nations (16)And gave them clear proofs in matters.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** This Ayah contains a warning to the Muslim Ummah as well. (Sahih Muslim) These verses purport to confirm the risalah of the Final Messenger of Allah ﷺ .
 ## Personal Reflections
 
 

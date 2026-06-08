@@ -210,6 +210,17 @@ Surah Aljathiyah
 
 Ends here
 
+## AI Translation
+
+This is because you mocked Allah's revelations and were deluded by your worldly life." From that Day on they will not be taken out of the Fire, nor allowed to appease their Lord.
+
+## AI Tafsir
+
+**What this ayah teaches:** If this be taken for granted, the difficulty automatically disappears because such a sitting is not out of fear or horror.
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah means, Allah is the Almighty, Worthy of all praise; everything and everyone is subservient and in complete need of and dependent upon Him.
+
+**From the Sunnah:** So this Day, they shall not be taken out from there (Hell), nor shall they be returned to the worldly life (35)So all praise is due to Allah, the Lord of the heavens and the Lord of the earth, and the Lord of all that exists (36)And His is the majesty in the h… (al-Mustadrak)
 ## Personal Reflections
 
 

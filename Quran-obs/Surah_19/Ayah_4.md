@@ -189,6 +189,19 @@ Mention of one's needs in supplication is desirable
 
 Here Sayyidna Zakariyya (علیہ السلام) before making his supplication, mentioned about his weakness and old age by referring to his bones. One of the reasons for this was, as pointed out in the translation, that in his peculiar circumstances i.e. his old age and physical weakness, it was not appropriate for him to ask for a child. Another reason given by Imam Qurtubi in his commentary is, that for possible acceptance of supplication it is better to mention one's weakness, destitution and inadequacy. For this reason religious scholars have emphasized that one should recount Allah Ta` ala's blessings and his own exigency before making his supplication.
 
+## AI Translation
+
+saying: "My Rabb, my bones have grown frail and grey hair spreads across my head, yet I have never been disappointed calling upon You, my Rabb.
+
+## AI Tafsir
+
+**Context:** The reason for his fear was that he was afraid that the generation that would succeed him would be a wicked generation.
+
+**What this ayah teaches:** Here the word is used as a simile for grey hair covering the head like a glow of fire. When he called his Lord [with] a call in secret.)(4.
+
+**Classical tafsir:** Ibn Kathir notes: When he called his Lord [with] a call in secret.)(4.
+
+**From the Sunnah:** about Zakariyya] that He was a carpenter who used to eat from what he earned with his own hand through carpentry (Sahih al-Bukhari) All of this is supported and affirmed by what is in the authentic Hadith: (authentic hadith)
 ## Personal Reflections
 
 

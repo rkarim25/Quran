@@ -134,6 +134,17 @@ This is the end of the Tafsir of Surat Al-Muddaththir, all praise and thanks are
 
 The word tadhkirah (Reminder), in this context, refers to the Holy Qur'an, because the word literally signifies a 'reminder or something that reminds'. The Qur'an is unique in reminding Allah's attributes of perfection, His mercy and wrath, and the reward and punishment. Towards the end, the verse 54 has explained that the 'Reminder' is the Holy Qur'an that is rejected by them. The allergy of the infidels against the Holy Qur'an has been mentioned in verses 50 and 51 in the following words, فَرَّتْ مِنْ قَسْوَرَةٍ كَاَنَّهُمْ حُمُرٌ مُّسْتَنْفِرَةٌ "as if they were wild donkeys, fleeing from a lion?" The word qaswarah used in verse 51 has two meanings: [ 1] a 'lion'; and [ 2] an 'archer' or a 'hunter'. Both meanings have been reported from the noble Companions.
 
+## AI Translation
+
+No—they do not fear the Akhirah—the life after death.
+
+## AI Tafsir
+
+**Context:** (Nay, everyone of them desires that he should be given pages spread out.) meaning, each one of these idolators wants to have a book revealed to him as Allah revealed to the Prophet ﷺ. Mujahid and others have said this.
+
+**What this ayah teaches:** But they fear not the Hereafter (53)Nay, verily, this is an admonition (54)So, whosoever wills receives admonition from it (55)And they will not receive admonition unless Allah wills; He is the One, deserving of the Taqwa and He is the One Who forgives .
+
+**Classical tafsir:** Ibn Kathir notes: 74:49) The word tadhkirah (Reminder), in this context, refers to the Holy Qur'an, because the word literally signifies a 'reminder or something that reminds'.
 ## Personal Reflections
 
 

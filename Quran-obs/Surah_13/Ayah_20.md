@@ -123,6 +123,15 @@ People who were parties to this solemn pledge were so true to their word of hono
 
 That the noble Sahabah did so was the result of the great feeling of love and the passionate desire to obey their master in their hearts. Otherwise, it was fairly obvious that he had never intended to stop them from making a request of this nature. This is very much like what happened when Sayyidna ` Abdullah ibn Masud ؓ was entering the Masjid on a certain occasion. He saw that the Holy Prophet ﷺ was addressing a gathering. It was only by chance that, at the time he was entering the Masjid, the words: 'Sit down' happened to have been uttered by the Holy Prophet ﷺ as part of his address. Sayyidna ` Abdullah ibn Masud ؓ knew that this never meant that anyone, no matter where, should sit down on the street, passage way, or a spot not suitable for the purpose. But, such was his passion for obedience that it did not allow him to take even one step forward from outside the Masjid gate where he was. Just as these words of his master struck his ears, he sat down right there.
 
+## AI Translation
+
+They are the ones who honour Allah's covenant and never break the pledge.
+
+## AI Tafsir
+
+**What this ayah teaches:** People who were parties to this solemn pledge were so true to their word of honour that, should they happen to drop their whip from their hand while riding, they would never ask anyone to pick up and hand over that whip to them.
+
+**Classical tafsir:** Ibn Kathir notes: One of them would die while his need is still in his chest, because he was unable to satisfy it himself.
 ## Personal Reflections
 
 

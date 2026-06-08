@@ -154,6 +154,19 @@ Verses [ 2-3] يَتْلُو صُحُفًا مُّطَهَّرَ‌ةً فِيه
 
 The word مُطَھَّرَۃً mutahharatan [ purified ] is an adjective qualifying the noun suhuf [ pages/scrolls ]. According to Ibn ` Abbas ؓ ، the Scriptures are completely free from all possible flaws, forgeries, doubt, hypocrisy and deviations. The word qayyimah is used in the sense of 'straight', and is the adjective of the noun kutub, and it means its laws, ordinances and injunctions are upright, straight, just and balanced. It could also mean 'lasting and permanent'. In this instance, the phrase would signify that the Divine injunctions of the Holy Qur'an will last permanently till the Day of Judgment. The verse thus purports to say that the sending of the Holy Prophet Muhammad ﷺ [ as the Clear Proof ] was essential to the transformation of the people of earlier revelations and the pagans who had ended up in disbelief and could not have departed from their erring ways without the help of his ﷺ Prophetic mission. His mission was to recite the pure scrolls to them which contained clear Divine injunctions. Initially he did not recite from the Scriptures but from his memory, but the sense here is that he recited to them a discourse that was later written and preserved in scrolls. The Qur'an [ as the Clear Proof ] is the compendium of all that is good, lasting and immutable teachings.
 
+## AI Translation
+
+containing upright commands that cut through inherited confusion.
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you but We revealed to him: La ilaha illa Ana.)(21:25)
+
+**What this ayah teaches:** The word suhuf is the plural of sahifah and it refers to 'a leaf or a page of a book or some leaves of paper on which something is written'. The pronoun -ha in the phrase refers to suhuf, and the two statements would mean: 'reciting purified written pages in which are true written pages'.
+
+**Classical tafsir:** Ibn Kathir notes: The word suhuf is the plural of sahifah and it refers to 'a leaf or a page of a book or some leaves of paper on which something is written'.
+
+**From the Sunnah:** from Anas bin Malik that the Messenger of Allah ﷺ said to Ubayy bin Ka'b, (Musnad Ahmad) this Hadith from Shu'bah. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

@@ -208,6 +208,15 @@ According to Sayyidna Abu Said al-Khudri ؓ there is another hadith in which the
 
 Here a point arises that if after admittance to Paradise a person remained deprived of something, he will nourish a sense of sorrow and grief, whereas Paradise is no place for such feelings, because everyone who is admitted to Paradise should at all times be easy in his mind and free from anxiety. On the other hand, if the deprivation of certain facilities causes no sorrow and grief, then the deprivation loses its purpose. Qurtubi has given a very convincing explanation to this matter. He says that the people of Paradise will be given different grades and places at different levels, depending on how well they stood in Allah's favour on account of their good deeds and devotion to the cause of the True Faith. Everybody will be aware of these differences, but Allah will fill their hearts with tranquility and contentment, so that they will not feel grief and sorrow about these differences: وَاللہُ سبحانَہُ و تعالیٰ اَعلَم
 
+## AI Translation
+
+But Allah will surely admit those who believe and do good into Gardens, under which rivers flow, where they will be adorned with bracelets of gold and pearls, and their clothing will be silk,
+
+## AI Tafsir
+
+**What this ayah teaches:** In brief, just as wearing a crown is a royal privilege and not a common practice among men, similarly wearing bracelets by men is a royal privilege, and thus the men admitted to heaven will wear them as a symbol of honour and Divine favour.
+
+**Classical tafsir:** Ibn Kathir notes: This objection is not entirely relevant because throughout ages monarchs have embellished their persons with costly jewellery, crowns and bracelets as symbols of their might and wealth.
 ## Personal Reflections
 
 

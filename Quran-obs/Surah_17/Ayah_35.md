@@ -112,6 +112,15 @@ Regarding the verse: أَوْفُوا الْكَيْلَ إِذَا كِلْتُ
 
 At the end of verse 35, it was said about the fulfillment of weight and measure: ذَٰلِكَ خَيْرٌ‌ وَأَحْسَنُ تَأْوِيلًا (That is good, and better in the end). As for making the weight and measure correct and even, two things have been said here: (1) Firstly, the rule is good. It means that it is intrinsically good. No normal and decent person is going to take weighing less and measuring short as something nice, neither religiously, nor rationally, nor naturally. (2) Secondly, it is better in the end. The end includes the consequent success of the Hereafter, reward of deeds and the blessing of Paradise as well as the happy outcome of the very life in this world. This is suggestive of the fact that no business can prosper until its goodwill stands recognized in the market - and that cannot happen without this commercial honesty.
 
+## AI Translation
+
+Give in full when you measure, and weigh with an even balance. That is fairest and best in the end.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, the covenant will be questioned about (34)And give full measure when you measure, and weigh with a balance that is straight.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

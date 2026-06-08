@@ -465,6 +465,17 @@ From this we also learn that the wages or salary of the woman employed for suckl
 
 After stating all these injunctions relating to rada` ah (suckling) رضاعہ ، the Qur'an once again returns to its special manner and style whereby it brings into focus the fear of Allah Almighty and the concept of His all-encompassing Knowledge so that acting in accordance with law becomes easy, and one remains bound by it under all conditions, seen or unseen. It is said: وَاتَّقُوا اللَّـهَ وَاعْلَمُوا أَنَّ اللَّـهَ بِمَا تَعْمَلُونَ بَصِي that is, 'keep fearing Allah and know for sure that Allah Almighty is fully watching over your open and secret, and your seen and unseen, and He is aware of all intents and purposes hidden in your hearts.' Any party that acts against these injunctions of suckling and weaning or takes a decision in this connection disregarding the welfare of the child, shall deserve punishment.
 
+## AI Translation
+
+Mothers should nurse their children two full years for those who wish to complete nursing. The father is responsible for their food and clothing fairly. No soul is burdened beyond capacity. No mother or father should suffer because of their child. The heirs have the same duty. If both agree by mutual consent to wean early, there is no blame. If you choose wet-nurses, pay them fairly. Live with taqwa and know that Allah sees what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** Here her maintenance, which is the responsibility of the child's father, is enough in itself.
+
+**Classical tafsir:** Ibn Kathir notes: So, the Ayah indicates that one parent is not allowed to make this kind of decision without duly consulting the other parent, as stated by Ath-Thawri.
+
+**From the Sunnah:** that Allah's Messenger ﷺ said: (Jami' at-Tirmidhi) At-Tirmidhi is alone in recording this Hadith and the narrators in its chain meet the criteria of the Sahihayn. (Jami' at-Tirmidhi, authentic hadith)
 ## Personal Reflections
 
 

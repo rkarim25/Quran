@@ -101,6 +101,17 @@ It is narrated in Musnad of Ahmad, Bayhaqi, Tirmidhi and Hakim on the authority 
 
 Upto this point the traits and deeds of the sincere believers and their rewards and recompense were described. Then in the last verse the infidels and disbelievers have been warned again of the chastisement on which the Surah is concluded.
 
+## AI Translation
+
+staying there forever. What an excellent place to settle and reside!
+
+## AI Tafsir
+
+**What this ayah teaches:** Those will be rewarded with the highest place because of their patience.
+
+**Classical tafsir:** Ibn Kathir notes: Those will be rewarded with the highest place because of their patience.
+
+**From the Sunnah:** Paradise which will look like stars to common people. (Sahih al-Bukhari, Sahih Muslim) Paradise there will be such upper Houses that their interior could be seen from outside and the exterior from inside". (Sahih Muslim, Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

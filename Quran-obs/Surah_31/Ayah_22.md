@@ -119,6 +119,15 @@ The word: اسباغ (isbagh) in the next sentence of verse 20: وَأَسْبَ
 
 The manifestations of Allah's knowledge, power and blessings are endless. These cannot by encompassed by anyone through speech, nor can any pen write them comprehensively.
 
+## AI Translation
+
+Whoever submits fully to Allah and does good has grasped the firmest handhold. With Allah rests the outcome of every affair.
+
+## AI Tafsir
+
+**What this ayah teaches:** And whosoever submits his face (himself) to Allah, while he is a Muhsin, then he has grasped the most trustworthy handhold. And whoever disbelieves, let not his disbelief grieve you.) means, 'do not grieve over them, O Muhammad, because they disbelieve in Allah and in the Message you have brought, for their return will be to Allah and He will tell them what they used to do,' i.e., He will punish t…
+
+**Classical tafsir:** Ibn Kathir notes: And whoever disbelieves, let not his disbelief grieve you.) means, 'do not grieve over them, O Muhammad, because they disbelieve in Allah and in the Message you have brought, for their return will be to Allah and He will tell them what they used to do,' i.e., He will punish them…
 ## Personal Reflections
 
 

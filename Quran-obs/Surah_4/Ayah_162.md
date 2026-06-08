@@ -196,6 +196,17 @@ Commentary
 
 The great reward promised to those referred to here is because of their qualities of faith and righteous deeds. As far as salvation as such is concerned that depends on the correction of essentials of doctrinal matters - of course, subject to the condition, that one's life ends with the blessing of faith ('Iman).
 
+## AI Translation
+
+But those of them well-grounded in knowledge, the faithful believe in what has been revealed to you and what was revealed before you— those who establish salah—and those who pay zakat and believe in Allah and the Last Day, to these We will grant a great reward.
+
+## AI Tafsir
+
+**Context:** Ibn 'Abbas said, "This Ayah was revealed concerning 'Abdullah bin Salam, Tha'labah bin Sa'yah, Zayd bin Sa'yah and Asad bin 'Ubayd who embraced Islam and believed what Allah sent Muhammad ﷺ with. Allah said,
+
+**What this ayah teaches:** And We have prepared for the those who reject the truth among them a painful torment (161)But those among them who are well-grounded in knowledge, and the believers, believe in what has been sent down to you and what was sent down before you; and those who perform the Salah, and give Zakah and believe in Allah and in the Last Day, it is they to whom We shall give a great reward .
+
+**Classical tafsir:** Ibn Kathir notes: And verily, We are Truthful.) This means, We prohibited these things for them because they deserved it due to their transgression, injustice, defying their Messenger and disputing with him.
 ## Personal Reflections
 
 

@@ -122,6 +122,17 @@ Lexicographical Analysis
 
 The word عَادِیَات adiyat is derived from the root ` adw' which means 'to run'. The ضَبح dabh means 'the sound coming out of the chest of a horse when it runs fast and breathes laboriously; panting.' The word مُورِیَاتِ muriyat is the active participle of the infinitive of اِیراَء ‘ira. The infinitive means 'to strike or produce fire with a particular piece of wood.' The word قَدح qadh means 'to strike or produce fire with a flint; striking sparks of fire when the horse runs fast on a rocky ground with horse-shoes on'. The word مُغِیرَات mughirat is active participle of the infinitive اِغَارَۃ igharah. The infinitive means 'to attack, or make a sudden hostile excursion upon, an enemy'. The word subh means 'morning or dawn'. This time has been specifically mentioned because it was the practice of Arabs to attack their enemy at dawn, and not at night in order to show off their bravery. They thought making a hostile excursion on the enemy in the darkness of night was an act of cowardice. The word اَثَرنَ atharna is derived from ` itharah, which means 'to raise dust'. The word نَقع naq' means 'dust'. This implies that the dust became stirred up and spread upon the horizon, especially in the morning when the horses run fast. Normally, this is not the time for clouds of dust to fly in this way, unless it was caused by very fast running.
 
+## AI Translation
+
+By the charging warhorses, panting—
+
+## AI Tafsir
+
+**Context:** According to Sayyidna Ibn Masud, Jabir, Hasan Basri, ` Ikramah and ` Ata' رحمۃ اللہ علیہم Surah Al-` Adiyat was revealed in Makkah and, according to Sayyidna Ibn ` Abbas, Anas ؓ ، Imam Malik and Qatadah رحمۃ اللہ علیہما…
+
+**What this ayah teaches:** In this Surah Allah describes the special features of war-horses or chargers, and swears by them. In other words, man needs to look at the horses, especially the war-horses, who risk their lives to travel under very dangerous and difficult conditions, especially in the battlefields where they follow the commands of their masters, whereas man has not created them, he has not even created the fodder…
+
+**Classical tafsir:** Ibn Kathir notes: In this Surah Allah describes the special features of war-horses or chargers, and swears by them.
 ## Personal Reflections
 
 

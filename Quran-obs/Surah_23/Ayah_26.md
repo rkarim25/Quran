@@ -84,6 +84,17 @@ as Allah mentions in another Ayah:
 
 In the last benefit, ships and boats are also included, because they are also used in transportation وَعَلَيْهَا وَعَلَى الْفُلْكِ تُحْمَلُونَ (And on them and on the boats you are transported - 23:22). All types of mounts which are run with wheels may also be added to fulk (boats) because they render the same service.
 
+## AI Translation
+
+Noah prayed, “My Rabb — the One who creates, owns, nurtures, and sustains! Help me, because they have denied me.”
+
+## AI Tafsir
+
+**Context:** He said: "O my Lord! Help me because they deny me. (26)So, We revealed to him: "Construct the ship under Our Eyes and under Our revelation.
+
+**What this ayah teaches:** Help me because they deny me.) At that point, Allah commanded him to build a boat and to make it strong and firm, and to carry therein of every kind two, i.e., a male and a female of every species of animals, plants and fruits etc. All types of mounts which are run with wheels may also be added to fulk (boats) because they render the same service.
+
+**Classical tafsir:** Ibn Kathir notes: Then, when Our command comes, and (water) gushes forth from the oven, take on board of each kind two, and your family, except those thereof against whom the Word has already gone forth.
 ## Personal Reflections
 
 

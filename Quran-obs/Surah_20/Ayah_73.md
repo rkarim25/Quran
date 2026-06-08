@@ -145,6 +145,17 @@ The propitious end of 'Asiyah ؓ ، the Pharaoh's wife
 
 Qurtubi has mentioned in his commentary that while the contest between vice and virtue was in progress, the Pharaoh's wife kept herself informed of the minute to minute developments and when she learned that Sayyidna Musa (علیہ السلام) had emerged victorious, she at once declared her adherence to the True Faith. When the Pharaoh was informed of his wife's defection, he ordered that a huge rock be thrown upon her. When 'Asiyah saw the rock coming, she raised her eyes in supplication to Allah who took away her soul so that the rock fell on her lifeless body.
 
+## AI Translation
+
+Indeed, we have believed in our Rabb so He may forgive our sins and that magic you have forced us to practice. And Allah is far superior in reward and more lasting in punishment.”
+
+## AI Tafsir
+
+**What this ayah teaches:** The magicians now accused the Pharaoh of having forced them to practice magic else they would not have taken it up. How, then, could they justify their accusation that the Pharaoh had forced them to practice magic?
+
+**Classical tafsir:** Ibn Kathir notes: When 'Asiyah saw the rock coming, she raised her eyes in supplication to Allah who took away her soul so that the rock fell on her lifeless body.
+
+**From the Sunnah:** Ibn Abi Hatim recorded that Ibn 'Abbas said concerning Allah's statement,
 ## Personal Reflections
 
 

@@ -96,6 +96,15 @@ Some scholars have tried to prove that he was unlettered in the beginning, but l
 
 In this narration, the act of writing has been attributed to the Holy Prophet ﷺ which led some people to think that he knew how to write. But the correct position is that the act of writing was attributed to him in the narration as a colloquial expression. It is a fairly common idiom spoken quite widely that if someone gets something written by an ascribe, the writing is attributed to the former, even though he has not written it himself. The other possibility is that Allah Ta’ ala made him write this bit miraculously on this occasion. Also, by writing just a few words, one cannot be called a literate, but would still remain an unlettered. Furthermore, it would not be an honour for him to be labeled as literate, rather the honour is in him being an unlettered.
 
+## AI Translation
+
+They urge you to hasten punishment. Hell will encompass those who rejected the truth
+
+## AI Tafsir
+
+**What this ayah teaches:** How the Idolators asked for the Torment to be hastened on Allah tells us of the ignorance of the idolators and how they asked for the punishment of Allah to be hastened so that it would befall them quickly. And they ask you to hasten on the torment, and had it not been for a term appointed, the torment would certainly have come to them.
+
+**Classical tafsir:** Ibn Kathir notes: How the Idolators asked for the Torment to be hastened on Allah tells us of the ignorance of the idolators and how they asked for the punishment of Allah to be hastened so that it would befall them quickly.
 ## Personal Reflections
 
 

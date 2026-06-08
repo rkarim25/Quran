@@ -201,6 +201,17 @@ Illustrating the futility of polytheism and idol-worship by citing a parable
 
 Generally the words ضُرِبَ مَثَلُ are used for quoting an incident as an example. However, it is not used here in that sense but the foolishness of idol worship has been illustrated by citing a parable. The infidels are told that the idols from which they seek the gratification of their desires are so utterly helpless that all of them together cannot create a humble thing like a fly. Indeed they cannot even protect the offerings of eatables, which their worshippers bring them daily, against the inroads of flies. Then how can they protect you from any calamity? The stupidity and foolishness of the idol-worshippers has been described at the end of the verse by the words ضَعُفَ الطَّالِبُ وَالْمَطْلُوبُ (Feeble are the invoker and the invoked - 22:73) meaning thereby that if the object of worship is so utterly weak and powerless, those worshipping it must be more so.
 
+## AI Translation
+
+O humanity! A lesson is set forth, so listen to it carefully: those idols you invoke besides Allah can never create so much as a fly, even if they all were to come together for that. And if a fly were to snatch anything away from them, they cannot even retrieve it from the fly. How powerless are those who invoke and those invoked!
+
+## AI Tafsir
+
+**What this ayah teaches:** If they wanted to recover that, they would not be able to, even though the fly is the weakest and most insignificant of Allah's creatures.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** that Abu Hurayrah recorded the Marfu' report: (Musnad Ahmad) This was also recorded by the authors of the Two Sahihs via 'Umarah from Abu Zur'ah from Abu Hurayrah, who said that the Prophet ﷺ said:
 ## Personal Reflections
 
 

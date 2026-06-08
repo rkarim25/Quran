@@ -269,6 +269,15 @@ This tells us that correspondence with sunnah is the condition of perfect accept
 
 Some commentators suggest another syntactical arrangement in respect of this sentence. According to them, the subjective pronoun in: يَرْ‌فَعُهُ (uplifts) reverts to: ضَمِر فَاعِل good word) and the objective pronoun (i.e.'it' ) to: کلم طیّب ( good deed). Thus, the meaning of the sentence become totally different from that of the earlier, that is, 'good word' which is the dhikr of Allah, makes 'good deed' ascend and makes it rise higher up, that is, makes it worthy of being accepted. The outcome would then be that a person who does good deeds, and along with it, also does his dhikr of Allah abundantly, then, this dhikr of Allah embellishes his deed and makes it acceptable.
 
+## AI Translation
+
+Whoever seeks honour and power—all honour and power belong to Allah. Good words ascend to Him, and righteous deeds He raises up. As for those who plot evil, they will suffer severe punishment, and their plotting will fail.
+
+## AI Tafsir
+
+**What this ayah teaches:** And the sense of ascending to and being helped to ascend is being accepted in the sight of Allah, therefore, the gist of the sentence would be that good word, be it the kalimah of tauhid or others words of the remembrance and glorification of Allah, nothing of it gets to be acceptable with Allah without good deed.
+
+**Classical tafsir:** Ibn Kathir notes: Evidence of Life after Death Often Allah refers to the Resurrection by using the analogy of the earth coming back to life after it has died, as in the beginning of Surat Al-Hajj, where He urges His servants to draw the lesson of the former from the latter.
 ## Personal Reflections
 
 

@@ -88,6 +88,17 @@ It can be answered by saying that it was there in Divine knowledge with the appe
 
 Ibn Abi Shaibah, Ibn al-Mundhir and Ibn Abi Hatim have reported from Ibn ` Atiyyah that Allah Ta` ala had blessed the parents of the slain boy with a girl in his place who became the mother of a prophet. And, as in a report from Sayyidna Ibn ` Abbas ؓ she gave birth to two prophets. Some other reports say that through the prophet she gave birth to, Allah Ta` ala gave guidance to a large community.
 
+## AI Translation
+
+So we hoped that their Rabb would give them another, more virtuous and caring in his place.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then this doubt would be incorrect for the reason that nothing can come into being contrary to Divine knowledge. It can be answered by saying that it was there in Divine knowledge with the appendage and condition: If he reached maturity, he will not only become a those who reject the truth himself but would pose a danger for other Muslims also.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Ibn 'Abbas narrated from Ubayy bin Ka'b that the Prophet ﷺ said: It can be answered by saying that it was there in Divine knowledge with the appendage and condition: If he reached maturity, he will not only become a those who reject the truth himself but would pose a danger for other Muslims also.
 ## Personal Reflections
 
 

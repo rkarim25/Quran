@@ -141,6 +141,17 @@ When the calamities fall, they are meant for trial and test for some good people
 
 Sayyidi Hakim-ul-Ummah Ashraf Thanavi (رح) has given another distinction between the two calamities. If one becomes aware of his sins and faults and finds greater inclination toward seeking pardon from Allah Ta’ ala, then it is a sign of His kindness and favour. But if one gets frustrated and indulges more in sins and evil, then it is a sign of Allah's wrath and torment. وَاللہُ سبحانَہُ و تعالیٰ اَعلَم
 
+## AI Translation
+
+So stand firm in upright faith, O Prophet, before a Day from Allah that cannot be turned back. On that Day people will be divided:
+
+## AI Tafsir
+
+**What this ayah teaches:** Big calamities fall upon the world because of the sins of people It is in this backdrop that some scholars have declared that if a man commits an evil deed, he harms the entire human kind, beasts, birds and other animals, because whatever calamities fall upon earth due to his sins, all others are also affected by it.
+
+**Classical tafsir:** Ibn Kathir notes: The author of Ruh ul-Ma’ ani has explained that the word fasad' (translated in the text as 'plight' ) means all sorts of calamities, such as famine, epidemic diseases, frequency of the incidents of fire, drowning, lack of Allah's blessing in everything, and reduction in profits a…
+
+**From the Sunnah:** Further, it is also a common experience that generally the Muslim believers live a difficult life, whereas the infidels and libertines live a comfortable and easy life. (Sahih Muslim)
 ## Personal Reflections
 
 

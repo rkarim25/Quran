@@ -145,6 +145,19 @@ It is learnt from the foregoing discussion that these verses are related to fals
 
 All this does not imply that if a person has been lax in the performance of good deeds, he should abandon preaching to others. Or if he has been indulging in any kind of sin, he should not forbid others from indulging in such sins. It needs to be borne in mind that the performance of a righteous deed is one form of virtue, and urging others to perform this righteous deed is another form of virtue in its own right. Obviously, if one has abandoned one form of virtue, it does not necessarily follow that he should abandon the other form as well. It is possible that through the blessing of the preachment, the preacher might develop the ability to perform the righteous deed. This has been experienced widely and on a large scale. However, if the deed belongs to the category of wajib or sunnah mu'akkadah, it is obligatory, in the light of the verses, to continuously show remorse and regret on one's not practicing it. And if the action belongs to the category of mustahabbat, it is mustahab [ rewardable ] to show remorse and regret.
 
+## AI Translation
+
+How despicable in the sight of Allah that you say what you do not do!
+
+## AI Tafsir
+
+**Context:** Some said that it was revealed about the gravity of fighting in battle, when one says that he fought and endured the battle, even though he did not do so.
+
+**What this ayah teaches:** We mentioned the meaning of these two Hadiths in the beginning of the explanation of Sahih Al-Bukhari, and to Allah is the praise and the thanks.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah and Ad-Dahhak said that this Ayah was sent down to admonish some people who used to say that they killed, fought, stabbed, and did such and such during battle, even though they did not do any of it.
+
+**From the Sunnah:** We mentioned the meaning of these two Hadiths in the beginning of the explanation of Sahih Al-Bukhari, and to Allah is the praise and the thanks. (Sahih al-Bukhari) Come, I want to give you something.' Allah's Messenger ﷺ said to her, (Musnad Ahmad, Sunan Abi Dawud)
 ## Personal Reflections
 
 

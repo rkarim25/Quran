@@ -110,6 +110,15 @@ In the verses cited above, after having mentioned various punishments which coul
 
 First of all, by using the word: رَبّ (Rabb: Lord) here, the hint given is that all these punishments which overtake human beings in this world are there to warn them as part of the dictates of Divine mercy. After that, by introducing the word: رَ‌ءُوفٌ(Ra uf: Kind) headed by the intensifying particle lam) that is, the lam of ta'kid), and thus by placing stress on the fact that Allah Ta’ ala was Very Kind and Very Merciful, the hint given was that warnings sent during the life of the world were, in reality, called for by His intrinsic Kindness and Mercy so that heedless men and women would learn from the warning and correct their deeds (before comes 'the last spasm of mass extinction' they themselves are talking about at the closing of the twentieth century, but are still not ready to learn, believe and correct).
 
+## AI Translation
+
+Or that He will not destroy them gradually? But your Rabb is truly Ever Gracious, the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** Indeed, Your Lord is full of kindness, ar-Rahim .
+
+**Classical tafsir:** Ibn Kathir notes: Do then those who devise evil plots feel secure that Allah will not cause them to sink into the earth, or that torment will not seize them from where they do not perceive it (45)Or that He may punish them in the midst of their going to and fro (in their livelihood), so that there…
 ## Personal Reflections
 
 

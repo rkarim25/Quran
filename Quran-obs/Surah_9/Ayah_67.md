@@ -144,6 +144,15 @@ Commentary
 
 The first verse begins with a profile of the hypocrites. One of the expressions used there: يَقْبِضُونَ أَيْدِيَهُمْ (and they withhold their hands) has been explained in Tafsir al-Qurtubi as abandonment of Jihad and non-compliance of obligatory rights and duties. Then, the sentence that follows: نَسُوا اللَّـهَ فَنَسِيَهُمْ literally means ` they forgot Allah, so He forgot them.' But, Allah Ta` ala is free of forgetfulness. So, the sense at this place is: ` those people had abandoned the commandments of Allah, as if they had forgotten it, therefore, Allah too abandoned their prospects of better life in the Hereafter, to the extent that there remained just no trace of any good, or reward, in their name.'
 
+## AI Translation
+
+The those living in nifaq—outward acceptance with inward rejection, both men and women, are all alike: they encourage what is evil, forbid what is good, and withhold their hands. They neglected Allah, so He neglected them. Surely the those living in nifaq—outward acceptance with inward rejection are the rebellious.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah has cursed them and for them is the lasting torment .
+
+**Classical tafsir:** Ibn Kathir notes: So, the sense at this place is: ` those people had abandoned the commandments of Allah, as if they had forgotten it, therefore, Allah too abandoned their prospects of better life in the Hereafter, to the extent that there remained just no trace of any good, or reward, in their na…
 ## Personal Reflections
 
 

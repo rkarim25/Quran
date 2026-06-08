@@ -163,6 +163,15 @@ According to the commentators of the Holy Qur'an, Pharaoh tried to satisfy his p
 
 The above statement of Pharaoh's people, 'Even when he abandons you and your gods' makes us understand that Pharaoh himself used to worship other gods, even though he claimed to be the god of his people. The law about killing of the males of the Israelites and leaving their women alive was now promulgated the second time. The first time it was put into force prior to the birth of the prophet Musa (علیہ السلام) . He was witnessing the failure of this law up to this day which was evident from the huge crowd of the Israelites present at this occasion. When Allah intends to bring disgrace to a people, all they contrive leads to nothing but disaster. We shall soon see that this tyranny and oppression, at last, led him and his people to an ignominious end.
 
+## AI Translation
+
+The chiefs of Pharaoh’s people protested, “Are you going to leave Moses and his people free to spread corruption in the land and abandon you and your gods?” He responded, “We will kill their sons and keep their women. We will completely dominate them.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Pharaoh was frightened It is to be noted that the Pharaoh was in some degree successful in keeping his ignorant people in their former ignorance through his clever and false statements, but at the same time, they strangely noted that all the fury and rage of Pharaoh was limited to the sorcerers only.
+
+**Classical tafsir:** Ibn Kathir notes: He had tormented them [killing every newly born male] before Musa was born, so that Musa would not live.
 ## Personal Reflections
 
 

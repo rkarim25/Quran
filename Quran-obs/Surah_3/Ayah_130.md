@@ -242,6 +242,17 @@ The detailed rules regarding 'riba' and the philosophy underlying its prohibitio
 
 These words are used only to explain the factual position prevalent at that time, and to indicate its unjust and evil nature. Moreover, these words also suggest that even the interest charged is simple and not compound, yet once a person is engaged in the business of interest he does not stop at charging interest in one transaction only. Rather, he reinvests the income of interest in another loan transaction, and keeps investing the interest proceeds in similar transactions again and again, and thus the ultimate result is that the original interest charged through the first transaction is doubled and multiplied.
 
+## AI Translation
+
+O you who have iman! Do not consume interest, multiplying it many times over. And live with taqwa toward Allah, so you may prosper.
+
+## AI Tafsir
+
+**What this ayah teaches:** Interest (Riba) is Prohibited Allah prohibits His believing servants from dealing in Riba and from requiring interest on their capital, just as they used to do during the time of Jahiliyyah.
+
+**Classical tafsir:** Ibn Kathir notes: Allah also commands His servants to have Taqwa of Him so that they may achieve success in this life and the Hereafter.
+
+**From the Sunnah:** a man came to the Messenger of Allah ﷺ and asked him, about Allah's statement, This Hadith was recorded by Imam Ahmad, its chain of narration is good, it does not contain any disparraged narrators, and the meaning is good. (Musnad Ahmad)
 ## Personal Reflections
 
 

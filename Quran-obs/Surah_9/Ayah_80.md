@@ -155,6 +155,19 @@ Please note that, in the sentence: سَخِرَ‌ اللَّـهُ مِنْهُ
 
 In the second verse (80), there is a statement about the hypocrites. It has been addressed to the Holy Prophet ﷺ . He has been told whether or not he seeks forgiveness for them makes no difference - and no matter how many times he seeks forgiveness for them, they shall not be forgiven. A detailed explanation of this appears under the comments on verse 84: لَا تُصَلِّ عَلَىٰ أَحَدٍ مِّنْهُم (and never offer a prayer on anyone of them who dies) appearing a little later.
 
+## AI Translation
+
+Whether you pray for them to be forgiven or not. Even if you pray for their forgiveness seventy times, Allah will never forgive them. That is because they have lost faith in Allah and His Messenger. And Allah does not guide the rebellious people.
+
+## AI Tafsir
+
+**Context:** Mentioned in the first verse (79) are taunts thrown at Muslims who gave away in charity on a voluntary basis (Nafli Sadaqat).
+
+**What this ayah teaches:** Whether you (O Muhammad ﷺ) ask forgiveness for them (hypocrites) or ask not forgiveness for them – (and even) if you ask seventy times for their forgiveness – Allah will not forgive them because they have disbelieved in Allah and His Messenger.
+
+**Classical tafsir:** Ibn Kathir notes: Whether you (O Muhammad ﷺ) ask forgiveness for them (hypocrites) or ask not forgiveness for them – (and even) if you ask seventy times for their forgiveness – Allah will not forgive them because they have disbelieved in Allah and His Messenger.
+
+**From the Sunnah:** The Prophet ﷺ went along with him, attended his father's funeral, gave him his shirt as a shroud and prayed the funeral prayer for him.
 ## Personal Reflections
 
 

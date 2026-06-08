@@ -132,6 +132,19 @@ Prophet Yusuf (علیہ السلام) prayed:
 
 The above supplications indicate that the company of the righteous is such a great blessing that even the Holy Prophets cannot do without, as a result they pray for it.
 
+## AI Translation
+
+Enter among My righteous servants—
+
+## AI Tafsir
+
+**Context:** He said, "This Ayah was revealed while Abu Bakr was sitting (with the Prophet ﷺ). So he said, 'O Messenger of Allah! There is nothing better than this!' The Prophet ﷺ then replied,
+
+**What this ayah teaches:** In other words, the contented soul will be addressed [ compassionately ], and first asked to enter the fold of righteous and sincere slaves, and then to enter Paradise. This indicates that entry into Paradise depends on their being, first and foremost, in the fold of the righteous believers.
+
+**Classical tafsir:** Ibn Kathir notes: This indicates that entry into Paradise depends on their being, first and foremost, in the fold of the righteous believers.
+
+**From the Sunnah:** This is similar to what Imam Ahmad bin Hanbal recorded from Muhammad bin Abi 'Amirah, who was one of the Companions of the Messenger of Allah ﷺ. (Musnad Ahmad)
 ## Personal Reflections
 
 

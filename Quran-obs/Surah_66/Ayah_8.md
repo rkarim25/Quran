@@ -301,6 +301,17 @@ Sayyidna ` Ali ؓ was asked as to what is 'taubah' and he replied that it consis
 
 عَسَىٰ رَ‌بُّكُمْ أَن يُكَفِّرَ‌ عَنكُمْ (It is hoped from your Lord that he will write off your faults...66:8). The verb ` asa means 'it is hoped'. In this context, it purports to mean 'promise', but the expression of 'hope' is used to indicate that taubah or any other righteous deeds are not the just and equal price for the Paradise or the divine forgiveness. In fact, one compensation for man's good deeds has already been given to him in this world in the form of worldly blessings. Therefore, as regards the law of equality, it is not necessary that he is further compensated by the Jannah. It entirely depends on Divine grace and favour as is mentioned in a Hadith which says: 'Your actions alone cannot salvage you.' The Companions inquired: '0 Messenger of Allah, not even you?' He replied: 'No, not even me unless the Divine grace and mercy covers me.' [ Bukhari and Muslim as quoted by Mazhari ]
 
+## AI Translation
+
+O believers: turn to Allah in sincere repentance, so your Lord may absolve you of your sins and admit you to Gardens under which rivers flow. On the Day when Allah will not disgrace the Prophet or the believers with him, their light will shine ahead of them and on their right. They will say: 'Our Lord, perfect our light for us and forgive us. You are Most Capable of everything.'
+
+## AI Tafsir
+
+**What this ayah teaches:** It may be that your Lord will expiate from you your sins, and admit you into Gardens under which rivers flow – the Day that Allah will not disgrace the Prophet and those who believe with him. The word taubah, literally, means 'to turn' or 'to return', in the sense of turning or withdrawing from sins.
+
+**Classical tafsir:** Ibn Kathir notes: The word taubah, literally, means 'to turn' or 'to return', in the sense of turning or withdrawing from sins.
+
+**From the Sunnah:** Paradise or the divine forgiveness. (Sahih Muslim)
 ## Personal Reflections
 
 

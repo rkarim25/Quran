@@ -250,6 +250,17 @@ Allah is Above having Children and Procreating
 
 Verse [ 112:3] لَمْ يَلِدْ وَلَمْ يُولَدْ (He neither begot anyone, nor was begotten.) This verse responds to those who had questioned about the ancestry of Allah. There is no analogy between Allah, the Creator, and His creation. While His creation comes into being through the biological process of procreation, Allah Himself has no children, nor is He the child of anyone.
 
+## AI Translation
+
+He has never begotten a child, nor was He born—free from the cycle of birth and death that defines everything in this dunya.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah was not born nor does He beget—no lineage, no offspring, no partnership in divinity.
+
+**Classical tafsir:** Ibn Kathir: this refutes claims that angels are Allah's daughters or that He took a son. Pure *tawhid* in Allah's essence.
+
+**From the Sunnah:** Whoever recites al-Ikhlas ten times, Allah builds a house in Paradise (Bukhari, Ahmad).
 ## Personal Reflections
 
 

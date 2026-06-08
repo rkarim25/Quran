@@ -174,6 +174,15 @@ When he would talk to one of his friends, Mu'adh used to say: "What I am saying 
 
 إِنَّهُ لَحَقٌّ مِّثْلَ مَا أَنَّكُمْ تَنطِقُونَ (...it [ the Day of Recompense ] is a reality, as sure as that you speak....51:23). It means that all of the matters relating to Judgment, Resurrection and Recompense that they have been promised shall certainly occur. Therefore, it is the truth, there being no doubt about it, so they should not doubt its coming, just as they do not doubt that they can speak. There are five physical sensations of perception: sight, hearing, tasting, feeling and smelling. Here 'speaking' has been singled out probably because the faculty of speech is the only one where there can be no trace of deception or illusion, whereas the other sensations, on account of ailments, can get contorted. Differences in hearing and seeing are known. In sickness the sensation of tasting gets reversed or distorted in some other way. Sometimes sweet things taste bitter and bitter things taste sweet. (Qurtubi)
 
+## AI Translation
+
+Then by the Rabb of heaven and earth—this is as true as the fact that you can speak.
+
+## AI Tafsir
+
+**What this ayah teaches:** Will you not then see (21)And in the heaven is your provision, and that which you are promised (22)Then by the Lord of the heaven and the earth, it is the truth, just as you can speak .
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Every night, they would worship Allah, even during a little part of the night." Qatadah narrated that Mutarrif bin 'Abdullah said, "Hardly a night would pass by them that they did not pray to Allah the Exalted and Most Honored, either in the beginning, or the middle of it." Mujahid… As for the Mahrum, Ibn 'Abbas and Mujahid said, "He is the poor person who does not receive a stipen…
 ## Personal Reflections
 
 

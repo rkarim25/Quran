@@ -154,6 +154,15 @@ Special Note
 
 According to some of the learned predecessors, this verse is a proof that man, by virtue of his innate nature, is forced to love Allah. Therefore, all unbelievers in the world, no matter how deeply they are steeped in their form of disbelief or hold false beliefs regarding the [ Supreme ] Being and attributes of Allah, there is a common denominator in their hearts. They love, respect and honour Allah. They worship Him according to their belief system in quest of Him and His pleasure. Because they have taken the wrong road, they are unable to reach their destination, but they are, nonetheless, in search of the same destination of truth. If they did not have the desire to see their Lord, it would not have been said, in their punishment, that they will remain deprived of seeing Allah, because if a person is not desirous [ rather he is hateful ] of seeing Him, it would be no punishment for him.
 
+## AI Translation
+
+and be told, 'This is what you used to deny.'
+
+## AI Tafsir
+
+**What this ayah teaches:** But on their hearts is the Ran (covering) which they used to earn.) meaning, the matter is not as they claim, nor as they say: "Verily, this Qur'an is tales of the ancients." Rather, it is the Word of Allah, His inspiration and His revelation to His Messenger ﷺ.
+
+**Classical tafsir:** Ibn Kathir notes: Truly, the Record of the wicked is in Sijjin.) meaning, that their final destination and their abode will be in Sijjin, which is derived from the word prison (Sijn), and here it means straitened circumstances.
 ## Personal Reflections
 
 

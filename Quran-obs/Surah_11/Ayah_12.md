@@ -171,6 +171,17 @@ The Holy Prophet ﷺ felt the pinch of these absurd, even disrespectfully audaci
 
 In brief, when the Holy Prophet ﷺ became very sad because of such demands, this verse was revealed to comfort him and to revitalize his thinking. Addressing him first, it was said: Would you - surrendering to the pressure of these people - leave out some part of the Qur'an, sent by Allah, which they do not like, such as a part where it talks about the utter helplessness of idols? Would you, then, still be disturbed in the face of such demands? The introduction of the statement in verse 12 with the word: aW (la'allaka: Is it then expected of you) does not mean that something like that could be expected of him actually. Instead, the purpose is to establish that he was free from such things. He would not leave out any part of the Qur'an in consideration of their insistence, nor does he have to be sad, concerned and straitened over their demands. The reason is that he has been sent from Allah as nadhir, as one who warns people against what is harmful for them, then, Allah takes care of the rest for He is powerful over everything. Nadhir has been mentioned here particularly because those being addressed were kafirs, and kafirs deserve nothing but warning against the consequences of their deeds. Otherwise, the Holy Prophet ﷺ is not simply nadhir, one who warns, he is bashir too, one who announces glad tidings for people who do good deeds. In addition to what has been said here about the mission of a nadhir, we should understand that, in reality, nadhir is a person who warns out of love and affection against what is evil and harmful. Therefore, in a way, the sense of bashir, a giver of glad tidings, is included in the sense of nadhir, a giver of warning.
 
+## AI Translation
+
+Perhaps you O Prophet may wish to give up some of what is revealed to you and may be distressed by it because they say, “If only a treasure had been sent down to him, or an angel had come with him!” You are only a warner, and Allah is the Trustee of All Affairs.
+
+## AI Tafsir
+
+**Context:** The fourth verse (12) has been revealed about a particular event. What happened was that the Mushriks of Makkah placed a host of demands before the Holy Prophet One of these was, ` our idols have been maligned in this Qu…
+
+**What this ayah teaches:** So perchance you may give up a part of what is revealed unto you, and that your breast feels straitened for it because they say, "Why has not a treasure been sent down unto him, or an angel come with him" But you are only a warner.
+
+**Classical tafsir:** Ibn Kathir notes: The introduction of the statement in verse 12 with the word: aW (la'allaka: Is it then expected of you) does not mean that something like that could be expected of him actually.
 ## Personal Reflections
 
 

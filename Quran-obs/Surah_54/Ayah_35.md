@@ -96,6 +96,17 @@ All these five nations were the strongest and resourceful. It was not possible f
 
 The forthcoming verses address the people of the time of the Prophet Muhammad ﷺ that they are not more powerful in terms of wealth, number and might than the people of Prophet Lut (علیہ السلام) the tribes of ` Ad and Thamud, Prophet Lut’ s علیہ السلام people and the people of Fir'aun. Then how are they sitting in a careless manner?
 
+## AI Translation
+
+as a favour from Us. This is how We repay whoever shows shukr.
+
+## AI Tafsir
+
+**Context:** رَ‌اوَدُوهُ عَن ضَيْفِهِ (And they had even tried to tempt him against his guests...54:37). The word murawadah signifies to entice someone to satisfy one's lust.
+
+**What this ayah teaches:** Thus do We reward him who gives thanks (35)And he indeed had warned them of Our punishment, but they doubted the warnings (36)And they indeed sought to shame his guests.
+
+**Classical tafsir:** Ibn Kathir notes: The word murawadah signifies to entice someone to satisfy one's lust.
 ## Personal Reflections
 
 

@@ -178,6 +178,17 @@ Left behind in Makkah were Muslims who were unable to migrate because of physica
 
 According to this verse, Muslims had requested Allah Almighty the favour of two things - that they be rescued from that town (meaning Makkah) and that they be blessed with some supporter and helper. The fact is that Allah Almighty granted both these prayers when He provided some of them with the opportunity to move out from there which was the fulfillment of their first wish. However, some of them remained staying right there until the Conquest of Makkah. At that time, the Holy Prophet ﷺ appointed Sayyidna ` Attab ibn Asid as their caretaker and who had the oppressed Muslims delivered from their oppressors. Thus, granted was their second wish as well. It will be noted that the Holy Qur'an, rather than give a straightforward command to fight in this verse, has elected to use the words: وَمَا لَكُمْ لَا تُقَاتِلُونَ فِي سَبِيلِ اللَّـهِ ): (What has happened to you that you do not fight in the way of Allah?). Here the hint given is that fighting and Jihad is a natural duty under such conditions,_ not doing which is certainly far from a reasonable man.
 
+## AI Translation
+
+And what is it with you? You do not fight in the cause of Allah and for oppressed men, women, and children who cry out, “Our Rabb! Deliver us from this land of oppressors! Appoint for us a saviour; appoint for us a helper—all by Your grace.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Encouraging Jihad to Defend the Oppressed Allah encouraged His believing servants to perform Jihad in His cause and to strive hard to save the oppressed Muslims in Makkah, men, women and children who were restless because of having to remain there.
+
+**Classical tafsir:** Ibn Kathir notes: Encouraging Jihad to Defend the Oppressed Allah encouraged His believing servants to perform Jihad in His cause and to strive hard to save the oppressed Muslims in Makkah, men, women and children who were restless because of having to remain there.
+
+**From the Sunnah:** Allah encouraged His believing servants to perform Jihad in His cause and to strive hard to save the oppressed Muslims in Makkah, men, women and children who were restless because of having to remain there.
 ## Personal Reflections
 
 

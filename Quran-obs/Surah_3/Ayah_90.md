@@ -146,6 +146,19 @@ On a superficial view of the verse كَيْفَ يَهْدِي اللَّـهُ 
 
 The answer is that the withholding of guidance mentioned here is in accordance with common usage. For instance, some criminal when punished by a certain ruler may say, 'I have been given a special treatment by the ruler with his own hands.' And in answer to him, it is said: 'Why are we going to give a special treatment to such a criminal?' That is, there is just no special treatment called for in this case, while it does not mean that such a person cannot, in any way, become deserving of special treatment even if he behaved well. (Bayern a1-Qur'an)
 
+## AI Translation
+
+Indeed, those who reject the truth after having believed then increase in rejection of the truth, their repentance will never be accepted. It is they who are astray.
+
+## AI Tafsir
+
+**Context:** (never will their repentance be accepted. And they are those who went astray.) to those who abandon the path of truth for the path of wickedness.
+
+**What this ayah teaches:** Verily, those who disbelieved after their belief and then went on increasing in their disbelief never will their repentance be accepted. And they are those who are astray (90)Verily, those who disbelieved, and died while they were those who reject the truth, the (whole) earth full of gold will not be accepted from anyone of them if they offered it as a ransom.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hafiz Abu Bakr Al-Bazzar recorded that Ibn 'Abbas said that some people embraced Islam, reverted to disbelief, became Muslims again, then reverted from Islam.
+
+**From the Sunnah:** some people embraced Islam, reverted to disbelief, became Muslims again, then reverted from Islam.
 ## Personal Reflections
 
 

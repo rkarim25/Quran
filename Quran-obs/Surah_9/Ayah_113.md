@@ -174,6 +174,19 @@ The background of revelation
 
 The event that was the cause or background of the revelation of this ayah has been reported in a narrative appearing in the Sahih of al-Bukhari and Muslim. According to this report, Abu Talib, the uncle of the Holy Prophet ﷺ had not, though, embraced Islam, yet he continued to support and protect the Holy Prophet ﷺ throughout his life. He did not listen to any member of his clan in this matter. The Holy Prophet ﷺ too was concerned about him. He wished that his uncle would somehow recite the Kalimah and embrace Islam. He would thus be able to intercede on his behalf and he could have his deliverance from the punishment of Jahannam. When Abu Talib was suffering from his last sickness and death became certain, the Holy Prophet ﷺ was worried. He wished if his uncle were to recite the Kalimah even now, things might work for him. He came close to him in that state of anxiety - but, Abu Jahl and ` Abdullah ibn Umayyah (disbelieving diehards) were already there. He said, ` my uncle, recite the Kalimah: لا إلہ إلا اللہ (La ilaha illallah). I shall try to seek forgiveness for you.' But, Abu Jahl interrupted, ` would you forsake the faith of ` Abd al-Muttalib (father of Abu Talib)?' The Holy Prophet ﷺ repeated what he had said several times. But, every time, Abu Jahl would say the same thing he had said before - until the last words spoken by Abu Talib were, ` I am on the faith of ` Abd al-Muttalib.' It was in this very condition that he died. Then, the Holy Prophet ﷺ swore that he would continue seeking forgiveness for him until he was prohibited from it. Thereupon, this verse of prohibition was revealed where the Holy Prophet ﷺ and all Muslims were prohibited from praying for the forgiveness of kafirs and mushriks - even if they were close relatives.
 
+## AI Translation
+
+It is not for the Prophet and those who have iman to seek forgiveness for the polytheists, even if they were close relatives, after it has become clear to those who have iman that they are bound for the Hellfire.
+
+## AI Tafsir
+
+**Context:** (I will invoke Allah for forgiveness for you, as long as I am not prohibited from doing so.) This verse was revealed, Ali bin Abi Talhah narrated that Ibn 'Abbas commented on this Ayah, "They used to invoke Allah for the…
+
+**What this ayah teaches:** It is not (proper) for the Prophet and those who believe to ask Allah's forgiveness for the Mushrikin, even though they be of kin, after it has become clear to them that they are the dwellers of the Fire (because they died in a state of disbelief)(113)And Ibrahim's invoking (of Allah) for his father's forgiveness was only because of a promise he [Ibrahim] had made to him (his father).
+
+**Classical tafsir:** Ibn Kathir notes: But when it became clear to him [Ibrahim] that he (his father) is an enemy of Allah, he dissociated himself from him.
+
+**From the Sunnah:** intercede on his behalf and he could have his deliverance from the…
 ## Personal Reflections
 
 

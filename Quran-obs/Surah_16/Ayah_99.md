@@ -82,6 +82,15 @@ Verses 99 and 100 make it clear that Allah Ta’ ala has not given the Shaitan t
 
 The same subject has been taken up in verse 42 of Surah al-Hijr where Allah Ta’ ala has Himself refuted the claim of the Shaitan by saying: إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ إِلَّا مَنِ اتَّبَعَكَ (Surely, My servants [ are such that ] you have no power over them - except [ over ] the one who follows you from among the astray - 15:42).
 
+## AI Translation
+
+He certainly has no authority over those who believe and put their trust in their Rabb.
+
+## AI Tafsir
+
+**What this ayah teaches:** The way of Faith and Trust in Allah is the way of freedom from the power and control of the Shaitan Verses 99 and 100 make it clear that Allah Ta’ ala has not given the Shaitan the kind of power which would disarm any human being and compel him to become helpless and take to evil.
+
+**Classical tafsir:** Ibn Kathir notes: So, should one opt for not using his capability of choice and control because of sheer carelessness or some selfish motive, then, this would be his own fault.
 ## Personal Reflections
 
 

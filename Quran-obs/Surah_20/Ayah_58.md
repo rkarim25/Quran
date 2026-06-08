@@ -96,6 +96,15 @@ Abdur-Rahman bin Zayd bin Aslam said, "It was a flat place where all of the peop
 
 By words مَكَانًا سُوًى(at an even place) in verse 58 the Pharaoh proposed that the contest between Sayyidna Musa (علیہ السلام) and his own magicians should be held at a place which should, as far as possible, be within easy access of the Egyptians, Sayyidna Musa (علیہ السلام) and the Bani Isra'il. The latter readily accepted this proposal and fixed the day and the time for the contest by suggesting۔
 
+## AI Translation
+
+We can surely meet you with similar magic. So set for us an appointment that neither of us will fail to keep, in a central place.”
+
+## AI Tafsir
+
+**What this ayah teaches:** I say that Allah destroyed Fir'awn and his armies on a day similar to this, just as is confirmed in the Sahih.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "The day of their festivity was the day of 'Ashura'." As-Suddi, Qatadah and Ibn Zayd said, "It was the day of their great celebration." Sa'id bin Jubayr said, "It was the day of their great bazzar." These statements are not contradictory.
 ## Personal Reflections
 
 

@@ -74,6 +74,15 @@ This point calls for some elucidation which is given in the following lines. The
 
 In brief, every created thing has been programmed, by Allah, with a guidance of Takwin (creation) which it is genetically bound to follow and deviating from the same is beyond its power. The other kind of guidance which is given to the human beings and to Jinns is not inherent in the nature and thus, is not compulsory but optional. It is this freedom of choice which renders them liable to reward for good deeds and to punishment for their sins. The verse
 
+## AI Translation
+
+Pharaoh asked, “Who then is the Rabb of you two, O Moses?”
+
+## AI Tafsir
+
+**What this ayah teaches:** Fir'awn said: "Who then, O Musa, is the Lord of you two (49)[Musa] said: "Our Lord is He Who gave to each thing its form and nature, then guided it aright.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, He did not give man the form of a wild beast, nor did He give wild beasts the form of the dog.
 ## Personal Reflections
 
 

@@ -299,6 +299,15 @@ The first example is of the advocates of disbelief who have complex ignorance, w
 
 The last four verses bring out the miserable plight of the hypocrites with the help of two extended similes. The choice of two examples is meant to divide the hypocrites into two kinds of men. On the one hand were those in whom disbelief had taken deep roots, so that they had little inclination towards Islam, but pretended to be Muslims for worldly motives - the Holy Qur'an compares them to the man who, having found light, again loses it, and is left in darkness. On the other hand were those who did recognize the truth of Islam, and sometimes wished to be genuine Muslims, but worldly interests would not allow them to do so, and they remained in a perpetual state of hesitation and doubt - they have been likened to the men caught in a thunderstorm who move forward a step or two when there is a flash of lightning, but, when it is over, again get stuck. In the course of these parables, the hypocrites have also been warned that they are not beyond the power of Allah, and that He can, as and when He likes, take away their sight and hearing, and even destroy them.
 
+## AI Translation
+
+The lightning almost snatches their sight. Whenever it flashes they walk in its light; when darkness returns they stand still. Had Allah willed, He could have taken their hearing and sight. Allah is capable of everything.
+
+## AI Tafsir
+
+**Context:** Consequently, there are several types of people. There are the believers whom the first four Ayat (2:2-5) in Surat Al-Baqarah describe. There are the those who reject the truth who were described in the next two Ayat.
+
+**What this ayah teaches:** On the other hand were those who did recognize the truth of Islam, and sometimes wished to be genuine Muslims, but worldly interests would not allow them to do so, and they remained in a perpetual state of hesitation and doubt - they have been likened to the men caught in a thunderstorm who move forward a step or two when there is a flash of lightning, but, when it is over, aga…
 ## Personal Reflections
 
 

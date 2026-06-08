@@ -138,6 +138,17 @@ The verse holds out a stern warning to those who have got Islam all tied up with
 
 As regards the possibility of 'Allah Almighty and the angels coming upon them in canopies of clouds,' this will be on Doomsday. The correct position is that such coming of Allah Almighty belongs to the Mutashabihat متاشابھا ات ، statements of hidden meaning, about which there is a standard policy practiced by the majority of the blessed Companions, the Tabi` in تابعین ، their successors, and the revered elders of the Muslim ummah, that is, one must believe in its truth and avoid worrying about as to how this would happen because it is beyond human reason to find out the reality and the nature, the whats and the hows of the 'Being' and the Attributes of Allah Almighty, and this too is included therein.
 
+## AI Translation
+
+If you slip after clear proofs have come to you, know that Allah is Almighty, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, he is to you a plain enemy (208)Then if you slide back after the clear signs (Prophet Muhammad ﷺ, and this Qur'an and Islam) have come to you, then know that Allah is All-Mighty, All-Wise .
+
+**Classical tafsir:** Ibn Kathir notes: Enter Silm perfectly) refers to the believers among the People of the Scripture.
+
+**From the Sunnah:** The gist of the two approaches given above is that no Muslim shall be deserving of calling himself a Muslim unless he accepts all Islamic injunctions truly and sincerely from the deep recesses of his heart, irrespective of the department of life they belong to… (Sahih Muslim) The background of the verse's revelation mentioned earlier in the introductory remarks also shows that one must keep nothing but the teachings of Islam in sight, practice it in its entirety which will, in consequence, make Muslims independent of all rel
 ## Personal Reflections
 
 

@@ -47,6 +47,15 @@ commentators have said that the word: الشَّيَاطِينِ (ash-shayatin) 
 
 The sense of the rest of the verses is clear from their translation.
 
+## AI Translation
+
+And surely most of the earlier generations had strayed before them,
+
+## AI Tafsir
+
+**What this ayah teaches:** And indeed most of the earlier ones went astray before them (71)And indeed We sent among them warners (72)Then see what was the end of those who were warned (73)Except the chosen servants of Allah .
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, in Urdu and Hindi too, it is called 'nagphan' (hood of the serpent) for this very reason.
 ## Personal Reflections
 
 

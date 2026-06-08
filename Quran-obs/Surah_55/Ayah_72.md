@@ -152,6 +152,17 @@ This is the end of the Tafsir of Surat Ar-Rahman, all praise is due to Allah and
 
 فِيهِنَّ خَيْرَ‌اتٌ حِسَانٌ (In them there are women, good and gorgeous,...55:70) The word خَيْرَ‌اتٌ khairat (translated above as 'good' ) refers to 'the good character of those women'; and the word حِسَانٌ hisan (translated above as 'gorgeous' ) refers to 'women who have beautiful features'. These qualities too will be common with the maidens of both the Gardens, to which reference was made in the foregoing verses.
 
+## AI Translation
+
+Companions of gorgeous eyes, reserved in pavilions.
+
+## AI Tafsir
+
+**What this ayah teaches:** These qualities too will be common with the maidens of both the Gardens, to which reference was made in the foregoing verses.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** that this tent is thirty miles wide (Sahih Muslim)
 ## Personal Reflections
 
 

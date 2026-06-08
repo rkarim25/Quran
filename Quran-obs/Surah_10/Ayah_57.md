@@ -152,6 +152,17 @@ Some research-oriented commentators who have gone deeper into the meanings of th
 
 The word: هُدًى (huda) means guidance or the showing of or leading onto the way. The Holy Qur'an invites human beings to the way of truth and faith. It invites them to ponder over the great signs Allah Ta'ala has placed in the near and far ranges of the world, even inside their own person, [ staggering would certainly be the interior distances of the universe within us ] and recognize the creator and master of everything.
 
+## AI Translation
+
+O humanity, guidance has come from your Rabb — the One who creates, owns, nurtures, and sustains. A cure for what is in the hearts, guidance and mercy for those who have iman.
+
+## AI Tafsir
+
+**What this ayah teaches:** Of course, on top of everything, there is the miraculous diction of the Holy Qur'an that, by itself, has a class of its own in the matter of reversal of hearts.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, at this place, only spiritual diseases that relate to the heart have been mentioned.
+
+**From the Sunnah:** Hadith reports and countless experiments of the religious scholars of the Muslim community are witnesses to the fact that the way the Holy Qur'an is a great elixir for diseases of the heart, very similarly, it is the best of treatments for physical diseases al… (Sahih Muslim) Scholars of the Muslim community have compiled the properties and efficacies of the Qur'anic verses in regular books by extracting these partly from narratives of Hadith and the sayings of the Sahabah, and partly from their own experiments and experience. (Sahih Muslim)
 ## Personal Reflections
 
 

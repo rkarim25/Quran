@@ -114,6 +114,17 @@ This is the end of the Tafsir of Surah Alam Nashrah and all praise and blessings
 
 Sayyidna Hasan Al-Basri (رح) reports that once the Holy Prophet ﷺ emerged from his home in a very happy mood and, giving cheerful news to his Companions on the basis of the current verse, said: "One hardship cannot overcome twofold ease". Thus history and biographical books written by Muslims and non-Muslims - all bear ample testimony to fact that the most difficult task, even the seemingly impossible task, became easy for him. The above narration further indicates that the Arabic definite article al- signifies that it is an article used to indicate previous knowledge [ that is, al- lil ` ahd ] and refers to the hardship of the Holy Prophet ﷺ and his Companions. Allah kept to His promise to them in such a way that the world saw it visibly how in the wake of every hardship the Holy Prophet and his Companions experienced the manifold ease that made their task easy. If a person does not achieve 'ease' after 'hardship', it does not contradict this verse. In fact, even now Allah's universal principle applies. One needs to exercise fortitude against hardship, rely on Allah with purity of heart, devote oneself totally to Him, hold onto high hopes for His grace, and one should not despair of His mercy if there is delay in success - He certainly will grant relief after every instance of hardship. [ Fawa'id-e-` Usmaniah ]. Hadith narratives support this.
 
+## AI Translation
+
+So indeed with hardship comes ease—
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, along with every hardship is relief,)(6.
+
+**Classical tafsir:** Ibn Kathir notes: And to your Lord turn intentions and hopes.) meaning, 'when you have completed your worldy affairs and its tasks, and you have broken away from its routine, then get up to perform the worship, and stand for it with zeal, complete devotion and purify your intention and desire for your Lord.' Similar… The above narration further indicates that the Arabic definite article al- signifies that it is an ar…
+
+**From the Sunnah:** Thus history and biographical books written by Muslims and non-Muslims - all bear ample testimony to fact that the most difficult task, even the seemingly impossible task, became easy for him.
 ## Personal Reflections
 
 

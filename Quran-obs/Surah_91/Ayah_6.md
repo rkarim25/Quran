@@ -206,6 +206,17 @@ The sixth oath is:
 
 وَالْأَرْ‌ضِ وَمَا طَحَاهَا (and by the earth, and the One who spread it...91:6). The ma in this phrase too stands for masdariyyah or infinitival particle, signifying 'by the earth and its expanse'. The word tahwun means 'to spread'. Thus in the two verses above attention has been focused on the great Designer and Architect of the sky and earth [ that is, the universe ], and on the perfection and complete freedom from flaw or defect in the design and creation of the universe. Sayyidna Qatadah and others reported this interpretation. Kashshaf, Baidawi and Qurtubi preferred this interpretation. Some of the commentators have taken ma in the sense of man 'the One Who' and refer it to 'Allah', signifying 'by the sky and its Maker and by the earth and One who spreads it. Thus far, all the oaths were taken by the created objects and phenomena. In between is taken oath by Allah. And Allah knows best! The seventh oath is taken thus:
 
+## AI Translation
+
+By the earth and the One who spread it—
+
+## AI Tafsir
+
+**What this ayah teaches:** Thus in the two verses above attention has been focused on the great Designer and Architect of the sky and earth [ that is, the universe ], and on the perfection and complete freedom from flaw or defect in the design and creation of the universe.
+
+**Classical tafsir:** Ibn Kathir notes: This is as Qatadah said, "He cleanses it from the lowly and despicable characteristics." Similar to this has been reported from Mujahid, 'Ikrimah and Sa'id bin Jubayr. This means that He clarified that for it and He guided it to what has been ordained for him.
+
+**From the Sunnah:** Both Al-Bukhari and Muslim recorded this Hadith from Abu Hurayrah. (Sahih al-Bukhari, Sahih Muslim) I only asked you about that in order to inform you that a man from Muzaynah or Juhaynah tribe came to the Allah's Messenger ﷺ and asked him:
 ## Personal Reflections
 
 

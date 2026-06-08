@@ -113,6 +113,15 @@ The author of Bayan ul-Qur'an has said, 'the text's كُلَّ شَيْءٍ (wha
 
 The sentence that follows next reads: وَبَدَأَ خَلْقَ الْإِنسَانِ مِن طِينٍ (and started the creation of man from clay - 7). Earlier, it was said that Allah Ta’ ala has made everything 'good' in this world. Mentioned thereafter was man, the most beautiful of all. Then, to give expression to His most perfect power alongside, it was also said that the making of man as the most superior form of creation was not because the essential ingredient of his creation was most noble, elegant and superior, which may have made it so. In fact, as for the essential ingredient that went into his making, it was something as mean and lowly as the semen. Thereafter, the rest was a masterpiece of His perfect power and profound wisdom. It was this great combination that took something so low to such a height that man was rated as the most noble Divine creation.
 
+## AI Translation
+
+They ask mockingly: When we are scattered in the earth, will we really be raised anew? They are in denial of meeting their Rabb.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then, in those terms, everything is not good, in fact, it is circumscribed by a little detail, that is, whatever has not been allowed by Allah Ta` Hla is not good, but is, rather bad.' Allah knows best.
+
+**Classical tafsir:** Ibn Kathir notes: In fact, dogs, pigs, snakes, scorpions and wolfs are commonly considered bad because they are either poisonous or beastly.
 ## Personal Reflections
 
 

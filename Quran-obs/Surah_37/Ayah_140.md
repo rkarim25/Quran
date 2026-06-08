@@ -132,6 +132,17 @@ Some of them mentioned that the squash has a number of benefits: it grows quickl
 
 The word: أَبَقَ (abaqa) in the next verse (140):إِذْ أَبَقَ إِلَى الْفُلْكِ الْمَشْحُونِ (when he ran towards the boat already loaded) has been derived from: اِبَاق (ibaq) which means 'escaping of a slave from his master'. Allah Ta’ ala has used this word for Sayyidna Yunus (علیہ السلام) for the reason that he had started off without waiting for the revelation from his Lord. The noble prophets are the close ones among the servants of Allah. The slightest slip from them causes the swiftest grip. Hence comes this strong expression أَبَقَ ('abaqa': 'he ran' ).
 
+## AI Translation
+
+Remember when he fled to the overloaded ship.
+
+## AI Tafsir
+
+**What this ayah teaches:** This was because the ship was being pounded by the waves on all sides, and they were at risk of drowning, so they drew lots, and whoever lost would be thrown overboard so as to lighten the load.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, narrating from Ash-Sha'bi, "It swallowed him in the morning and cast him forth in the evening." And Allah knows best how long exactly was.
+
+**From the Sunnah:** In the Two Sahihs it is reported that the Messenger of Allah ﷺ said: This is what is indicated in the authentic Hadith which we quote below, if Allah wills. (authentic hadith)
 ## Personal Reflections
 
 

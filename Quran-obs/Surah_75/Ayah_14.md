@@ -226,6 +226,15 @@ According to an authentic Hadith, Imam (one who leads a congregational prayer) i
 
 This explains the function of an Imam. In matters of bowing and prostrating, the followers should do as he does, that is, they should perform the acts of bowing and prostrating along with him. However, following him in the matter of recitation is different. When the Imam recites, the followers should be silent and listen. This is the argument of Imam Abu Hanifah and some other Imams in holding that the mugtadis should not recite when following an Imam in prayer. And Allah knows best!
 
+## AI Translation
+
+In truth, people will testify against their own nafs,
+
+## AI Tafsir
+
+**What this ayah teaches:** Though he may put forth his excuses.) The Oath about the Final Return on the Day of Resurrection and the Refutation against the Plots of the Thinkers It has been mentioned previously on more than one occasion that if the thing that is being sworn about is something that is being negated, then it is permissible to use the word "La" (Nay) before the oath to emphasize the negation.
+
+**Classical tafsir:** Ibn Kathir notes: I swear by An-Nafs Al-Lawwamah.) Qatadah said, "This means, I swear by both of these things." This has also been reported from Ibn 'Abbas and Sa'id bin Jubayr.
 ## Personal Reflections
 
 

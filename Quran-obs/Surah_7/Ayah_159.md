@@ -88,6 +88,19 @@ The Prophet of Allah asked them if they had some means of weighing and measuring
 
 In short, this verse makes us understand that there has always been a group among the Israelites who followed the Truth. Be they the people described above or the ones who embraced Islam after the appearance of the Holy Prophet ﷺ .
 
+## AI Translation
+
+There are some among the people of Moses who guide with the truth and establish justice accordingly.
+
+## AI Tafsir
+
+**Context:** (And there are, certainly, among the People of the Scripture, those who believe in Allah and in that which has been revealed to you, and in that which has been revealed to them, humbling themselves before Allah.
+
+**What this ayah teaches:** And of the people of Musa there is a community who lead (the men) with truth and establish justice therewith .
+
+**Classical tafsir:** Ibn Kathir notes: This refers to the people who faithfully followed the commandments of the Torah and the Injil at the time they were revealed, and those who readily accepted the faith of Islam after the appearance of the Holy Prophet ﷺ according to the predictions contained in the Torah and the I…
+
+**From the Sunnah:** They answered that their usual practice was that they cultivated the land and collected the whole produce together in a heap.
 ## Personal Reflections
 
 

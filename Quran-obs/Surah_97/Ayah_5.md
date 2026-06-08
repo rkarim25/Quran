@@ -216,6 +216,17 @@ Surah Al-Qadr
 
 Ends here
 
+## AI Translation
+
+Peace it is until the breaking of dawn—mercy without turmoil until morning comes.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therein descend the angels and the Ruh by their Lord's permission with every matter.)(5. Therefore, the wording of the Ayah is a method of adding the name of the distinct object (in this case Jibril) separate from the general group (in this case the angels).
+
+**Classical tafsir:** Ibn Kathir notes: Therein descend the angels and the Ruh by their Lord's permission with every matter.)(5.
+
+**From the Sunnah:** Shu'bah and Sufyan both narrated it from Ishaq and they both considered it to be a statement of the Companion (Ibn 'Umar, and thus not the statement of the Prophet ﷺ). (Sunan Abi Dawud) Then Jibril came to him and said, 'That which you are seeking is in front of you.' So the Prophet ﷺ performed I'tikaf during the middle ten days of Ramadan and we also performed I'tikaf with him.
 ## Personal Reflections
 
 

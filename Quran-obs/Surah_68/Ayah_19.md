@@ -148,6 +148,15 @@ It has been said, "They were hoping for something better in exchange in this lif
 
 وَهُمْ نَائِمُونَ (...while they were asleep.... 68:19). In other words, the devastating disaster overtook the entire garden while its owners were asleep.
 
+## AI Translation
+
+Then a torment from your Lord struck it while they slept,
+
+## AI Tafsir
+
+**What this ayah teaches:** The word 'whirl' refers to 'a whirl of calamity' as a result of which Divine punishment overtook the garden in a sudden and swift sweep. In other words, the devastating disaster overtook the entire garden while its owners were asleep.
+
+**Classical tafsir:** Ibn Kathir notes: The word 'whirl' refers to 'a whirl of calamity' as a result of which Divine punishment overtook the garden in a sudden and swift sweep.
 ## Personal Reflections
 
 

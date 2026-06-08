@@ -222,6 +222,15 @@ He also said to his father and his people,
 
 The Holy Prophet ﷺ has been asked to say to the unbelievers that your false gods are nothing but slaves like you, and being devoid of essential faculties of moving, seeing, hearing and speaking cannot help themselves, far from coming to your help in your need. If you are not sure, then "Call them and they should respond to you," and "Call to your associate-gods, then plot against me and allow me no respite."
 
+## AI Translation
+
+Do they have feet to walk with? Or hands to hold with? Or eyes to see with? Or ears to hear with? Say, “Call upon your associate-gods and conspire against me without delay!
+
+## AI Tafsir
+
+**What this ayah teaches:** So call upon them and let them answer you if you are truthful (194)Have they feet wherewith they walk? If you are not sure, then "Call them and they should respond to you," and "Call to your associate-gods, then plot against me and allow me no respite."
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, if an object is this weak, how can it be worshipped and invoked for provisions and aid?
 ## Personal Reflections
 
 

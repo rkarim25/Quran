@@ -86,6 +86,15 @@ Commentary
 
 وَآوَيْنَاهُمَا إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ (and We gave them shelter on a height, a place of rest and running springs). According to Bayan-ul-Qur’ an, this verse refers to the event that a tyrant was resolute to kill Sayyidna ` Isa and his mother (علیہما السلام) right from his childhood. They escaped from him and, with Allah's grace, found a place on a height where they enjoyed a peaceful life until Sayyidna ` Isa (علیہ السلام) attained maturity and was entrusted with prophethood. (This commentary is taken from Khulasa-e-tafsir of Ma` ariful-Qur’ an).
 
+## AI Translation
+
+Then We raised other generations after them.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then, after them, We created other generations (42)No nation can advance their term, nor can they delay it (43)Then We sent Our Messengers in succession.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

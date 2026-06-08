@@ -166,6 +166,19 @@ It has been asked whether it is necessary, in times of drought, to offer formal 
 
 No matter what form the prayer takes, all the scholars agree that it cannot be effective unless it is accompanied by a repentance for one's sins, a confession of one's powerlessness, a sincere expression of humility and an affirmation of servitude to Allah. So long as one persists in sin and transgression, one has no right to hope that the prayer would be answered. But if Allah may, in His mercy and benevolence, grant the prayer without this condition being fulfilled, it is His will, and He is All-Powerful.
 
+## AI Translation
+
+And when Moses prayed for water for his people, We said, "Strike the rock with your staff." Twelve springs gushed forth — each tribe knew its drinking place. "Eat and drink of Allah's provision, and do not spread corruption in the land."
+
+## AI Tafsir
+
+**Context:** This story is similar to the story in Surat Al-'Araf (Chapter 7) although the latter was revealed in Makkah. In Surat Al-A'raf, Allah used the third person when He mentioned the Children of Israel to the Prophet ﷺ and na…
+
+**What this ayah teaches:** And (remember) when Musa asked for water for his people, We said: "Strike the stone with your stick." Then gushed forth therefrom twelve springs. As he did so, twelve streams gushed forth out of the rock, one for each of the twelve tribes.
+
+**Classical tafsir:** Ibn Kathir notes: Each tribe was, therefore, designated a certain spring, and they used to drink from their springs.
+
+**From the Sunnah:** In Surat Al-A'raf, Allah used the third person when He mentioned the Children of Israel to the Prophet ﷺ and narrated what He favored them with.
 ## Personal Reflections
 
 

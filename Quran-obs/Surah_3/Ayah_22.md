@@ -88,6 +88,15 @@ In verse 21, 'those who disbelieve the verses of Allah' refers to Jews who did n
 
 Because of this whole set of their terrible deeds, verse 22 says that all their good deeds have gone waste both here and there, and when they are punished, they will find no one to assist them.
 
+## AI Translation
+
+They are the ones whose deeds are wasted in this dunya and the Akhirah. And they will have no helpers.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, those who disbelieve in the Ayat of Allah and kill the Prophets without right, and kill those men who order just dealings, then announce to them a painful torment (21)They are those whose works will be lost in this world and in the Hereafter, and they will have no helpers .
+
+**Classical tafsir:** Ibn Kathir notes: Because of this whole set of their terrible deeds, verse 22 says that all their good deeds have gone waste both here and there, and when they are punished, they will find no one to assist them.
 ## Personal Reflections
 
 

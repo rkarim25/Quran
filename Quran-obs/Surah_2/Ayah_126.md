@@ -563,6 +563,17 @@ The point becomes all the more clear if we consider the word Thamarat (plural of
 
 Verse 126 also provides an example of the rectitude of Sayyidna Ibrahim (علیہ السلام) The first phrase of his prayer for the well-being and prosperity of the people of Makkah seems to suggest that he wished to include the infidels as much as the faithful. But earlier when he had prayed for all his descendants without making any distinction between the faithful and the infidels (as reported in Verse 124), Allah had answered that the prayer would be granted in the case of the faithful, but not in the case of the unjust - that is, mushrikin مشرکین (associators). On that occasion, he had prayed for the position of imamah (leadership). But the fear of Allah and the solicitude for being totally obedient to Him was so deeply ingrained in the heart of "the Friend of Allah" that even in praying for the prosperity of his people the earlier proviso came to his mind, and he at once added a rejoinder to the effect that he was praying only for the faithful. Allah was pleased with his rectitude, and told him that the worldly prosperity would be given to the disbelievers too, but that in the other world the faithful would be the only ones to prosper, while the disbelievers would receive nothing more than the punishment due to them.
 
+## AI Translation
+
+When Abraham prayed, "My Rabb, make this city secure and provide its people with fruits — those among them who believe in Allah and the Last Day," He answered, "As for those who reject, I will let them enjoy briefly, then drive them to the torment of the Fire — an evil destination."
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, my Lord is indeed the Hearer of invocations)(14:39).
+
+**Classical tafsir:** Ibn Kathir notes: She ran to and fro (between the two mountains) seven times." Ibn 'Abbas said that the Messenger of Allah ﷺ said, "This is why the people make the trip between As-Safa and Al-Marwah (during Hajj and Umrah)." "When she reached Al-Marwah, she heard a voice and said, 'Shush,' to herself.
+
+**From the Sunnah:** I have collected a book on this subject, and all praise is due to Allah. Therefore, its game should not be hunted, and its trees should not be cut.) An-Nasa'i and Muslim also recorded this Hadith. (Sahih Muslim, Sunan an-Nasa'i)
 ## Personal Reflections
 
 

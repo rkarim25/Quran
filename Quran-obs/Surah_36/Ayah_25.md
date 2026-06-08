@@ -86,6 +86,15 @@ Quoting what reached him from Ibn 'Abbas, Ka'b Al-Ahbar and Wahb bin Munabbih �
 
 The addressee here could be his own people where calling Allah Ta’ ala their Lord was to express a reality - though, they did not accept it. Then, it could also be that this address is to the messengers and the purpose of saying: إِنِّي آمَنتُ بِرَ‌بِّكُمْ فَاسْمَعُونِ (listen to me) may be that they should hear what he was saying and bear witness before Allah that he was a believer.
 
+## AI Translation
+
+I do believe in your Lord, so listen to me."
+
+## AI Tafsir
+
+**What this ayah teaches:** The addressee here could be his own people where calling Allah Ta’ ala their Lord was to express a reality - though, they did not accept it.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -136,6 +136,17 @@ Imam al-Qurubi (رح) has said in his Tafsir that 'remaining satisfied with disb
 
 In the later part of the present verse (181) and in the third verse (182), the text recounts the punishment to be meted out to such loud-mouthed people by saying that they shall be consigned to the Hell to experience the taste of burning in fire which is but the outcome of their own deeds and certainly no injustice from Allah.
 
+## AI Translation
+
+This is for what your hands have done. And Allah is never unjust to creation.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Along with this act of effrontery committed by the Jews, yet another crime of theirs has been mentioned, that is, they not 'only falsified the prophets and mocked at them, they even went to the limit of killing them!
+
+**Classical tafsir:** Ibn Kathir notes: This absurd argument of theirs being false in itself was not worth responding to because the injunction of Allah Almighty was not for His benefit; it was, rather, for the benefit of the owners of wealth themselves in this world and the hereafter.
+
+**From the Sunnah:** This Hadith was collected by Ibn Marduwyah and Ibn Abi Hatim.
 ## Personal Reflections
 
 

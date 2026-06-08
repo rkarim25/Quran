@@ -134,6 +134,17 @@ A Special Warning
 
 The Qur'an here describes the condition of those unbelievers who denied the Hereafter and the Day of Judgment. Regretfully, nowadays the Muslims have characterized themselves by the same condition as a result of Western education and material needs and desires. All our attempts to make progress in the fields of various branches of knowledge, sciences and arts pivot on, or revolve around, economics. They do not think even by mistake about ma'adiyyat (matters relating to the Life Hereinafter). We believe in the Holy Prophet ﷺ and hope for his intercession. But Allah commands the Holy Prophet ﷺ to withdraw from the people of misguidance and shun them. We seek refuge in Allah from such misguidance!
 
+## AI Translation
+
+That is the limit of their knowledge. Your Rabb knows best who strayed from His path and who is guided.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, your Lord is He, Who knows best him who goes astray from His path, and He knows best him who receives guidance .
+
+**Classical tafsir:** Ibn Kathir notes: Allah is the One Who guides whom He wills and misguides whom He wills, and all of this indicates His power, knowledge and wisdom.
+
+**From the Sunnah:** Regretfully, nowadays the Muslims have characterized themselves by the same condition as a result of Western education and material needs and desires.
 ## Personal Reflections
 
 

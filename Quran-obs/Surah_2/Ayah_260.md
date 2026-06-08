@@ -277,6 +277,15 @@ In short, using this question as an excuse to say that Sayyidna Ibrahim (علی�
 
 Towards the end of the verse it was said أَنَّ اللَّـهَ عَزِيزٌ حَكِيمٌ, that is, Allah Almighty is All-Powerful and All-Wise. Through ` Aziz عَزِيز ٌ, the perfect power of Allah was pointed to, and through 'Hakim حَكِيمٌ ' (the All-Wise), it was indicated that it is in Allah's wisdom that visual experience of life after death is not granted to everyone, otherwise it is not at all difficult for Allah to make every man see it for himself. But, in that case, the superior quality of having faith without seeing (الایمان بالغیب ‘Iman bi l'ghayb) will not be there.
 
+## AI Translation
+
+And when Abraham said, "My Rabb, show me how You give life to the dead," He said, "Do you not believe?" He said, "Yes — but so my heart may be at rest." He said, "Take four birds, train them to return to you, then cut them and place a portion on each hilltop. Call them — they will come to you in haste. Know that Allah is Almighty, All-Wise."
+
+## AI Tafsir
+
+**What this ayah teaches:** The state that helps remove this mental distraction and is replaced by a heart at rest is called sukun or peace.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, Ibrahim caught four birds, slaughtered them, removed the feathers, tore the birds to pieces and mixed the pieces together.
 ## Personal Reflections
 
 

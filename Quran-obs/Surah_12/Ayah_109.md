@@ -221,6 +221,15 @@ Messengers are from Towns
 
 3. The expression: أَهْلِ الْقُرَ‌ىٰ (men from the people of the towns) appearing in the verse quoted immediately above tells us that Allah Ta` la sends his messengers generally from among those who live in cities and towns. Messengers are not from among those who reside in the country-side and forest lands - because the dwellers of these habitations are generally rustic, hard and less perfect in comprehension and understanding. (Ibn Kathir, Qurtubi others)
 
+## AI Translation
+
+We only sent before you O Prophet men inspired by Us from among the people of each society. Have the deniers not travelled through the land to see what was the end of those destroyed before them? And surely the eternal Home of the Akhirah is far better for those living with taqwa toward Allah. Will you not then understand?
+
+## AI Tafsir
+
+**What this ayah teaches:** And surely the abode of the Hereafter is better for those who fear Allah.
+
+**Classical tafsir:** Ibn Kathir notes: They both used to eat food.)[5:75] Therefore, the best description Allah gave her is Siddiqah.
 ## Personal Reflections
 
 

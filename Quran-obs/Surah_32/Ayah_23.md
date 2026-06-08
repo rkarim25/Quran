@@ -125,6 +125,15 @@ On the other hand, its tafsir from Sayyidna Ibn ` Abbas and Qatadah ؓ has been 
 
 And Hasan al-Basri (رح) explains it by saying: The way Sayyidna Musa (علیہ السلام) was given a Book, then people belied and harassed him, the prophet of Islam too should anticipate that he will have to face similar treatment at the hands of his people. Therefore, he should not grieve over the pains inflicted by disbelievers. In fact, he should take that as the blessed practice of prophets, and endure.
 
+## AI Translation
+
+We gave the Scripture to Moses — let there be no doubt, O Prophet, that you too receive revelation — and made it a guide for the Children of Israel.
+
+## AI Tafsir
+
+**What this ayah teaches:** And We made it a guide to the Children of Israel (23)And We made from among them, leaders, giving guidance under Our command, when they were patient and used to believe with certainty in Our Ayat (24)Verily, your Lord will judge between them on the Day of Resurrection, concerning that wherein they used to differ .
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, he should not grieve over the pains inflicted by those who reject the truth.
 ## Personal Reflections
 
 

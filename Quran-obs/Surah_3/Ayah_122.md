@@ -158,6 +158,19 @@ Tawakkul توکل is one of the superior human qualities. It does not mean that 
 
 4. The focus now turns to a particular battle where Muslims had demonstrated perfect توکل tawakkul and Allah Almighty had blessed them with support and success. The reference to the battle of Badr, in the following words, has appeared in this very context.
 
+## AI Translation
+
+When two groups among you were about to cower, then Allah reassured them. So in Allah let those who have iman put their trust.
+
+## AI Tafsir
+
+**Context:** (When two parties from among you were about to lose heart) was revealed about us, [the two Muslim tribes of] Bani Harithah and Bani Salamah.
+
+**What this ayah teaches:** This Ayah reminds them that victory is only from Allah, not because of a large army and adequate supplies.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ikrimah said that Uhud occurred in the middle of the month of Shawwal, and Allah knows best.
+
+**From the Sunnah:** The Messenger of Allah ﷺ led the Friday prayer and when he finished with it, he performed the funeral prayer for a man from Bani An-Najjar called Malik bin 'Amr. The Messenger of Allah ﷺ went to his home, put on his shield and came out.
 ## Personal Reflections
 
 

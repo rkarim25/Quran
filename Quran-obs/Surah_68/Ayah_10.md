@@ -134,6 +134,17 @@ The word zanim refers to 'a person whose legitimate birth from a father is not p
 
 The preceding verse prohibited any compromise with the unbelievers in general in matters of religion. The current verse prohibits specifically yielding to such mean leader of falsehood as Walid Ibn Mughirah, who possessed the base characteristics as listed in verses [ 10] to [ 13], the worst mischief-maker. [ As transmitted by Ibn Jarir on the authority of Ibn ` Abbas ؓ . Having described this person's bad manners and his arrogance in several verses that follow, verse [ 16] says:
 
+## AI Translation
+
+Do not obey every habitual oath-breaker,
+
+## AI Tafsir
+
+**What this ayah teaches:** _68:10-13) The word zanim refers to 'a person whose legitimate birth from a father is not proved'.
+
+**Classical tafsir:** Ibn Kathir notes: _68:10-13) The word zanim refers to 'a person whose legitimate birth from a father is not proved'.
+
+**From the Sunnah:** Al-Waki' said, "It ('Utul) is every Jawwaz, Ja'zari and arrogant person." Both Al-Bukhari and Muslim recorded this in their Two Sahihs, as well as the rest of the Group, except for Abu Dawud. (Sahih al-Bukhari, Sahih Muslim) Concerning the word Zanim, Al-Bukhari recorded from Ibn 'Abbas that he said concerning the Ayah, (Sahih al-Bukhari)
 ## Personal Reflections
 
 

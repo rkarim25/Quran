@@ -172,6 +172,15 @@ Commentary
 
 عَمَّ يَتَسَاءَلُونَ (About what are they asking each other?...78:1). The word ` amma is made up of two particles: [ 1] The preposition' عن an (about); and [ 2] the interrogative particle ما 'ma' (what?) (the last letter, that is, 'ma' has been omitted according to the grammatical composition. The sense is: About what are they asking each other?' Allah Himself replies to the question when He says:
 
+## AI Translation
+
+What are they asking one another about?
+
+## AI Tafsir
+
+**What this ayah teaches:** The sense is: About what are they asking each other?' Allah Himself replies to the question when He says: This is so that it may be suitable for dwelling and not quake with those who are in it.
+
+**Classical tafsir:** Ibn Kathir notes: This is so that it may be suitable for dwelling and not quake with those who are in it.
 ## Personal Reflections
 
 

@@ -175,6 +175,17 @@ Having indicated this, the Holy Qur'an makes a claim about itself: "There is no 
 
 ھُدًى لِّلْمُتَّقِيْنَ :"A guidance for the God-fearing": The Arabic word for the God-fearing is Muttaqin, derived from Taqwa which literally means "to fear, to refrain from", and in Islamic terminology it signifies fearing Allah and refraining from the transgression of His commandments. As for the Holy Qur'an being a guidance to the God-fearing, it actually means that although the Holy Qur'an provides guidance not only to mankind but to all existents in the universe, yet the special guidance which is the means of salvation in the other world is reserved for the God-fearing alone. We have already explained in the commentary on the Surah "Al-Fatihah" that there are three degrees of divine guidance - the first degree being common to the whole of mankind and even to animals etc., the second being particular to men and jinns, and the third being special to those who are close to Allah and have found His favour, the different levels of this last degree being limitless. It is the last two degrees of guidance which are intended in the verse under discussion. With regard to the second degree, the implication is that those who accept the guidance will have the hope of being elevated to the rank of the God-fearing. With reference to the third degree, the suggestion is that those who are already God-fearing may receive further and limitless guidance through the Holy Qur'an. This explanation should be sufficient to remove the objection that guidance is needed much more by those who are not God-fearing, for now we know that the specification of the God-fearing does not entail a denial of guidance to those who not possess this qualification.
 
+## AI Translation
+
+This is the Book — there is no doubt in it. It is guidance for people of taqwa — living with Allah-consciousness, as though He sees you in every choice you make.
+
+## AI Tafsir
+
+**What this ayah teaches:** That is Book in which there is no Rayb, guidance for the Muttaqin .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Abu Malik and Abu Salih narrated from Ibn 'Abbas, and Murrah Al-Hamadani narrated from Ibn Mas'ud and several other Companions of the Messenger of Allah ﷺ that,
 ## Personal Reflections
 
 

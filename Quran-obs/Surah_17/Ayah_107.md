@@ -190,6 +190,19 @@ Hearing what the Holy Prophet ﷺ said, they both kissed his hands and feet and 
 
 Since this explanation of the verse stands proved on the authority of Sahih Hadith, therefore, this is what many commentators have preferred to go by.
 
+## AI Translation
+
+Say, O Prophet, “Believe in this Quran, or do not. Indeed, when it is recited to those who were gifted with knowledge before it was revealed, they fall upon their faces in prostration,.
+
+## AI Tafsir
+
+**Context:** ("Believe in it (the Qur'an) or do not believe (in it).) meaning, it is all the same whether you believe in it or not, for it is true in and of itself.
+
+**What this ayah teaches:** Verily, those who were given knowledge before it, when it is recited to them, fall down on their chins (faces) in humble prostration.
+
+**Classical tafsir:** Ibn Kathir notes: And a Sahih Hadith tells us that the word 'ayat' used here means divine injunctions.
+
+**From the Sunnah:** This Hadith has been reported in Abu Dawud, an-Nasa'i, Tirmidhi and Ibn Majah on the authority of Sayyidna Safwan ibn al-` Aththal. (Jami' at-Tirmidhi, Sunan Abi Dawud)
 ## Personal Reflections
 
 

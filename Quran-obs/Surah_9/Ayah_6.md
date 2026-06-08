@@ -144,6 +144,19 @@ Non-Resident Non-Muslims should not be permitted to stay in Dar al-Islam any lon
 
 Stated in the next four verses (7-10) is the wisdom behind the proclamation of withdrawal mentioned in the initial verses of Surah At-Taubah. Here, by referring to the inherent meanness of pledge-breaking disbelievers whose malice and hostility against Muslims knew no bounds, it was advised in verses 7 and 8 that entertaining any hope from such people that they would ever abide by their pledge was simply wrong to begin with. It was said in the text: Except for some people with whom Muslims had entered into a treaty near the masjid al-Haram, how could any pledge given by these disbelievers be credible before Allah and His Messenger? The fact was that they were a set of people who, if given the least opportunity, would not blink about any relationship they had with them or bother to honor the word of promise given by them. The simple reason was that these people had no intention of honoring the treaty even when they were signing it. Their sole purpose was just to placate them. With their hearts set elsewhere, most of them were sinners, compulsive breakers of pledges and practitioners of treachery.
 
+## AI Translation
+
+And if anyone from the polytheists asks for your protection, grant it to them so they may hear the Word of Allah, then escort them to a place of safety, for they are a people who have no knowledge.
+
+## AI Tafsir
+
+**Context:** Ibn Abi Najih narrated that Mujahid said that this Ayah, "Refers to someone who comes to you to hear what you say and what was revealed to you (O Muhammad).
+
+**What this ayah teaches:** And if anyone of the Mushrikin seeks your protection then grant him protection so that he may hear the Word of Allah (the Qur'an) and then escort him to where he can be secure, that is because they are men who know not .
+
+**Classical tafsir:** Ibn Kathir notes: And if anyone of the Mushrikin seeks your protection then grant him protection so that he may hear the Word of Allah (the Qur'an) and then escort him to where he can be secure, that is because they are men who know not .
+
+**From the Sunnah:** They witnessed the great respect the Muslims had for the Prophet ﷺ, which astonished them, for they never before saw such respect for anyone, kings nor czars.
 ## Personal Reflections
 
 

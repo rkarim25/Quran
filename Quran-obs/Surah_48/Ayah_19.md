@@ -68,6 +68,17 @@ Al-Bukhari narrated from Tariq that 'Abdur-Rahman said, "I went on Hajj and pass
 
 وَمَغَانِمَ كَثِيرَ‌ةً يَأْخُذُونَهَا (and many spoils that they would receive...48:19) This clause refers to the great booty that fell into the hands of Muslims during the conquest of Khaibar.
 
+## AI Translation
+
+and abundant spoils they would take. Allah is Almighty, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah is Ever All-Mighty, All-Wise .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Allah declares that He is pleased with the believers who gave the pledge to the Messenger of Allah ﷺ under the tree.
 ## Personal Reflections
 
 

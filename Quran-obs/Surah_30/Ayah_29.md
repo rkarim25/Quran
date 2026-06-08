@@ -124,6 +124,15 @@ At-Tabarani recorded that Ibn 'Abbas said, "The people of Shirk used to say in t
 
 لَهُ الْمَثَلُ الْأَعْلَىٰ (For Him is the highest attribute - 30:27) The word مَثَل mathal is used for any such thing which has resemblance and similarity with something else, but its being exactly like that is not necessary. Therefore, the Qur'an has used the word 'mathal' for Allah Ta’ ala at several places, as in this very verse, and in another but Allah Ta’ ala's Being is completely beyond resemblance. (That is why the word 'mathal' has been translated above as 'attribute', which is also a possible lexical meaning of the word.)
 
+## AI Translation
+
+Wrongdoers follow desire without knowledge. Who can guide those Allah leaves astray? They have no helpers.
+
+## AI Tafsir
+
+**What this ayah teaches:** Thus do We explain the signs in detail to a people who have sense (28)Nay, but those who do wrong follow their own lusts without knowledge. Then who will guide him whom Allah has sent astray And for such there will be no helpers .
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the Qur'an has used the word 'mathal' for Allah Ta’ ala at several places, as in this very verse, and in another but Allah Ta’ ala's Being is completely beyond resemblance.
 ## Personal Reflections
 
 

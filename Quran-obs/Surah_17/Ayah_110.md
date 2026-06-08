@@ -218,6 +218,19 @@ In prayers with voiced recitation, included there are the Fard of Maghrib, ` Ish
 
 Problems and their solutions relating to the loud or lowered rendering of the recitation of the Qur'an in Salah, or on occasions other than it, have been already explained in Surah al-A` raf (see commentary under Verse 55, Volume III). About the last verse beginning with: قُلِ الحَمدُ للہِ (say, 'alhamdulillah: praise belongs to Allah' ), the Hadith says that this is the 'ayah' (verse) of 'izzah' (power and glory). [ The reference is to the efficacy of the verse in seeking the help of Allah to overcome weaknesses and difficulties ]. (Reported by Abmad and at-Tabarani on the authority of Sayyidna Mu۔ adh al-Juhaniyy as in Mazhari) This verse also provides an essential guidance. The drive of the meaning is that it does not matter how much one devotes to the worship of Allah, one is still obligated to take his or her deed to be deficient as compared with His due right and confess to the likely shortfall in performing it. (Mazhari)
 
+## AI Translation
+
+Say, O Prophet, “Call upon Allah or call upon the the Rahman — mercy that encompasses all creation in this life—whichever you call, He has the Most Beautiful Names.” Do not recite your prayers too loudly or silently, but seek a way between.
+
+## AI Tafsir
+
+**Context:** (And offer your Salah neither aloud) Imam Ahmad reported that Ibn 'Abbas said: "This Ayah was revealed when the Messenger of Allah ﷺ was preaching underground in Makkah." (but follow a way between.)" This was the view of…
+
+**What this ayah teaches:** This injunction, as obvious, is particular with prayers wherein the recitation is voiced.
+
+**Classical tafsir:** Ibn Kathir notes: The third problem was that the Jews and Christians proposed children for Allah Ta` ala and the pagan Arabs said that idols were partners of Allah.
+
+**From the Sunnah:** All that is in the heavens and the earth glorify Him.)[59:24] Makhul reported that one of the idolators heard the Prophet ﷺ saying when he was prostrating: "O ar-Rahman, O ar-Rahim." The idolator said, he claims to pray to One, but he is praying to tw… If the Prophet ﷺ lowered his voice, those who wanted to listen to his reci…
 ## Personal Reflections
 
 

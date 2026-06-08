@@ -244,6 +244,17 @@ The first doubt expressed by these disbelievers was: If Allah does not like our 
 
 The absurdity of this doubt was all too evident. Therefore, instead of answering it, just saying words of comfort for the Holy Prophet ﷺ was considered sufficient, so that he does not feel sad about such senseless questions. The reason why their doubt was absurd is also obvious. Allah Ta` ala has set up the system of this world on the basic arrangement that human beings have not been kept under compulsion totally. A kind of power to choose was given to them. If they use this choice in obedience to Allah, they have their reward for it; and if they use it to disobey Him, then, there stands His promise of punishment. That there will be a day of Judgment when the dead shall be resurrected and called to account for their deeds are the consequential outcome of this early warning. If Allah Ta’ ala had decided that He would force everyone to obey Him, who then would have dared to remain outside the fold of obedience to Him? But, His wisdom so required that such compulsion was not appropriate. Therefore, choice was given to human beings. Now, if the disbelievers were to say - had Allah disliked our ways, why would He not stop us by force? - It is an absurd and hostile question.
 
+## AI Translation
+
+The polytheists argue, “Had Allah willed, neither we nor our forefathers would have worshipped anything other than Him, nor prohibited anything without His command.” So did those before them. Is not the messengers’ duty only to deliver the message clearly?
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you (O Muhammad) but We revealed to him (saying): None has the right to be worshipped but I (Allah), so worship Me (alone and none else).")(21:25)
+
+**What this ayah teaches:** And those who worshipped others with Allah said: "If Allah had so willed, neither we nor our fathers would have worshipped any but Him nor would we have forbidden anything without (a command from) Him." Those before them did the same. All of the Messengers called their people to worship Allah (Alone) as well as forbidding them from worshipping anything or anybody except for Him.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, instead of answering it, just saying words of comfort for the Holy Prophet ﷺ was considered sufficient, so that he does not feel sad about such senseless questions.
 ## Personal Reflections
 
 

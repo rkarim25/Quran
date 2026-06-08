@@ -85,6 +85,17 @@ Ascribing the attribute of creation to anyone other than Allah is not permissibl
 
 At this point, it should be borne in mind that خَلَق (khalq) means to create, that is, to bring something from the state of non-being into the state of being solely on the strength of the creator's inherent power. Therefore, this attribute is particular to Allah Ta’ ala. Ascribing it to someone else is not permissible. Hence, the custom prevailing in our time that the articles of writers, compositions of poets and paintings of painters are readily referred to as their 'creations' is simply not permissible. How can people who write become 'creators' of those articles? It is not correct. Allah is the khaliq, the creator. This is Him alone - no one else can be. Therefore, their good writings should be called articles or something else that alludes to their effort, imagination, research work or whatever applies as appropriate - but, not 'creation.'
 
+## AI Translation
+
+Do you call upon the idol of Ba'l and abandon the Best of Creators—
+
+## AI Tafsir
+
+**What this ayah teaches:** This is what was narrated by Wahb bin Munabbih from the People of the Book; Allah knows best how true it is.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ikrimah and Qatadah said, "This is the language of the people of Yemen." According to another report from Qatadah, it is the language of Azd Shanu'ah.
+
+**From the Sunnah:** Qatadah and Muhammad bin Ishaq said, "Ilyas is another name for Idris." Ibn Abi Hatim recorded that 'Abdullah bin Mas'ud, may Allah be pleased with him, said, "Ilyas is Idris." This was also the view of Ad-Dahhak .
 ## Personal Reflections
 
 

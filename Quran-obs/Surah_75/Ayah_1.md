@@ -194,6 +194,15 @@ Commentary
 
 On the same basis, Sayyidna Hasan al-Basri interpreted nafs lawwamah as nafs mu'minah meaning, the 'believing soul' and said that 'By Allah! A believer at all times upbraids his own self. It is obvious why he should reproach himself when he commits evil. He reproaches himself when he does good deeds as well, because he feels that he has not performed his duties of servitude and Divine worship adequately. He feels that he has not fulfilled and consummated his obligations of slave-hood perfectly. Therefore, he reproaches himself for his shortcomings in the performance of his duties and obligations.'
 
+## AI Translation
+
+I swear by the Day of Resurrection—
+
+## AI Tafsir
+
+**What this ayah teaches:** Though he may put forth his excuses.) The Oath about the Final Return on the Day of Resurrection and the Refutation against the Plots of the Thinkers It has been mentioned previously on more than one occasion that if the thing that is being sworn about is something that is being negated, then it is permissible to use the word "La" (Nay) before the oath to emphasize the negation.
+
+**Classical tafsir:** Ibn Kathir notes: I swear by An-Nafs Al-Lawwamah.) Qatadah said, "This means, I swear by both of these things." This has also been reported from Ibn 'Abbas and Sa'id bin Jubayr. The phrase refers to the human conscience that upbraids him for doing bad deeds.
 ## Personal Reflections
 
 

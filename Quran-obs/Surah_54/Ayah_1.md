@@ -232,6 +232,17 @@ Such a thinking is too simplistic which lacks careful analysis. A careful analys
 
 Besides, the event is recorded in the famous and reliable history book of India called 'Tarikh-e-Farishtah'. It has been mentioned in this book that the Maharajah, a native ruler, of Malabar had witnessed this phenomenon that night with his own eyes, and had it entered in his diary. This incident was the cause of his embracing Islam. Earlier on the narratives of Abu Dawud Tayalisi and Baihaqi were quoted about the pagans of Makkah themselves who inquired from the people arriving from the neighboring parts of the country and they confirmed and verified that they had seen it. Allah, the Pure and the Exalted, knows best!
 
+## AI Translation
+
+The Hour has drawn near, and the moon was split—a sign witnessed yet dismissed.
+
+## AI Tafsir
+
+**What this ayah teaches:** But if they have not seen the parts of the moon, then this is indeed a magical illusion which he has performed on you.' When the travelers arrived and were asked about it, they all confirmed that they did see the two parts of the moon.' :(Ibn Kathir) Criticism against the Miracle of 'Moon-Splitting' The critics have raised two types of criticism against the miracle: one is base…
+
+**Classical tafsir:** Ibn Kathir notes: The Narration of 'Abdullah bin 'Abbas Al-Bukhari recorded that Ibn 'Abbas said, "The moon was split during the time of the Prophet ﷺ." Al-Bukhari and Muslim collected this Hadith.
+
+**From the Sunnah:** The Hadith of Abu Waqid preceded, in which it is mentioned that the Messenger of Allah ﷺ would recite Surah Qaf (chapter 53) and Iqtarabat As-Sa'ah (Al-Qamar, chapter 54), during (the 'Id Prayers of) Al-Adha and Al-Fitr.
 ## Personal Reflections
 
 

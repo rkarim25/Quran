@@ -190,6 +190,19 @@ The Background of Revelation
 
 Reporting from ` Ikrimah, Ibn Jarir ؓ has said that this verse was revealed in the background of a particular event. After the Holy Prophet ﷺ had settled in Madinah, he had entered into a treaty with Jews and Christians living nearby which required that they would neither fight against Muslims nor help any other tribe at war with them, rather, they would join Muslims to fight against them. Similarly, Muslims will not fight them nor help anyone against them, rather, would de-fend them against the aggressors. For some time, both parties kept adhering to the treaty. But, the Jews could not observe the terms of the treaty any longer because of their conspiratorial nature and anti-Islam temperament. They made a secret deal with the pagans of Makkah against Muslims and wrote them a letter inviting them to their fortress. When the Holy Prophet ﷺ came to know about this conspiracy, he dispatched a posse of Mujahidin to confront them. These Jews from Banu Qurayzah were, on the one hand, conspiring with the disbelievers of Makkah, while on the other, having infiltrated among Mus-lims, they had succeeded in making pacts of friendship with many of them. This was their front of spying for the disbelievers of Makkah against Muslims. Revealed thereupon was this verse which stopped Muslims from indulging in deep friendship with Jews and Christians, so that they could be deprived of having access to sensitive information about Muslims. At that time, some noble Companions, including Sayyidna ` Ubadah ibn Samit ؓ ، openly announced the cancellation of their treaty obligations as well as their support for abandonment of any close friendship in the future. As for the hypocrites who had their pragmatic relationship with Muslims, or people whose hearts had yet to taste the sweetness of genuine faith, they apprehended dangers in breaking relationships with Jews and Christians lest the conspiracy hatched by the disbelievers and the Jews succeeded and Muslims were overpowered in which case it would be necessary that they keep their relationships balanced both ways to avoid any problems Tor them later on. It was on this basis that ` Abdullah ibn Ubaiyy ibn Salul ؓ had said that he saw danger in cutting off relationship with these people and, therefore, he cannot do that. Revealed thereupon was the second verse (52):
 
+## AI Translation
+
+O you who have iman! Take neither Jews nor Christians as guardians—they are guardians of each other. Whoever does so will be counted as one of them. Surely Allah does not guide the wrongdoing people.
+
+## AI Tafsir
+
+**Context:** Reporting from ` Ikrimah, Ibn Jarir ؓ has said that this verse was revealed in the background of a particular event.
+
+**What this ayah teaches:** Commentary In the first verse (51), Muslims have been commanded not to enter into "Muwalat" (deep friendship) with Jews and Christians as is the customary practice of non-Muslims in general and, of Jews and Christians in particular, who reserve deep friendship for their own people only.
+
+**Classical tafsir:** Ibn Kathir notes: The Prohibition of Taking the Jews, Christians and Enemies of Islam as Friends Allah forbids His believing servants from having Jews and Christians as friends, because they are the enemies of Islam and its people, may Allah curse them.
+
+**From the Sunnah:** Ibn Abi Hatim recorded that 'Umar ordered Abu Musa Al-Ash'ari to send him on one sheet of balance the count of what he took in and what he spent.
 ## Personal Reflections
 
 

@@ -192,6 +192,17 @@ It has been mentioned in verse 31: يُحَلَّوْنَ فِيهَا (They wil
 
 The answer is that embellishment and beauty are subservient to practice or custom as recognized in a society. What is considered to be embellishment and beauty in one country or region could more than often be detested in other countries and regions. And this could be the other way round as well. Similarly, something is taken to be an embellishment in a given period of time. Comes another time and it becomes a blemish. When ornaments and silk dresses will come to be established as embellishment and beauty for men of Jannah too, no one is going to feel strange with it there. That which puts restraints on us here is a law of this world which stipulates that it is not permissible for men to wear any ornament of gold, even a ring or chain for watch made of gold. Similarly, silk clothes are not permissible for men. This will not be the law of Jannah. That is a universe of existence separate from this entire universe of our experience. It cannot be imagined on the analogy of anything in and around us on this basis alone.
 
+## AI Translation
+
+It is they who will have the Gardens of Eternity, with rivers flowing under their feet. There they will be adorned with bracelets of gold, and wear green garments of fine silk and rich brocade, reclining there on canopied couches. What a marvellous reward! And what a fabulous place to rest!
+
+## AI Tafsir
+
+**What this ayah teaches:** For them will be Jannatu 'Adn; wherein rivers flow beneath them; therein they will be adorned with bracelets of gold, and they will wear green garments of Sundus and Istabraq. Therein they shall be met with greetings and the word of peace and respect.
+
+**Classical tafsir:** Ibn Kathir notes: Therein they shall be met with greetings and the word of peace and respect.
+
+**From the Sunnah:** But, the creation of such a division would have amounted to seating the rebellious rich on a pedestal of honor, an action that could have broken the hearts of poor Muslims or dampened their courage.
 ## Personal Reflections
 
 

@@ -93,6 +93,17 @@ Then Allah points out the great virtue of the Qur'an, and says that even if mank
 
 We can now move to verse 86: وَلَئِن شِئْنَا لَنَذْهَبَنَّ (And if We so will, We will surely take away...). It will be recollected that, in the previous verse (85), by giving an answer to the question about Ruh as true to the measure of its necessity, the underlying effort to find out the reality of the Ruh was blocked and it was declared that man's knowledge, no matter how much, still remains relatively insignificant in terms of the great span of the ultimate reality of things. Therefore, getting entangled with unnecessary debates and investigations is a waste of precious time. The present verse: وَلَئِن شِئْنَا (And if We so will) indicates that the sum total of whatever knowledge human beings have been given, even that is no private property of theirs. Allah Ta` ala can, if He so wills, take away that too. Therefore, they should be grateful to Allah for whatever of knowledge they have and stay away from wasting time in redundant and unnecessary investigations - specially when pure investigation is just not the objective, instead, testing others or belittling them is. If one did that, it is not out of the realm of possibility that this crookedness may result in all that one has in the name of knowledge taken away in toto. The address in this verse is, though, to the Holy Prophet ﷺ ، but the purpose is to really make his followers listen and get the message - when even the knowledge of the Rasul of Allah ﷺ is not within his exclusive power and control, not much can be said about others!
 
+## AI Translation
+
+If We willed, We could have certainly taken away what We have revealed to you O Prophet—then you would find none to guarantee its return from Us—
+
+## AI Tafsir
+
+**Context:** And if We willed, We could surely take away that which We have revealed to you. Then you would find no protector for you against Us in that respect (86)Except as a mercy from your Lord.
+
+**What this ayah teaches:** And if We willed, We could surely take away that which We have revealed to you. Therefore, they should be grateful to Allah for whatever of knowledge they have and stay away from wasting time in redundant and unnecessary investigations - specially when pure investigation is just not the objective, instead, testing others or belittling them is.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, getting entangled with unnecessary debates and investigations is a waste of precious time.
 ## Personal Reflections
 
 

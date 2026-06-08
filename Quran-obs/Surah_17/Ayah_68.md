@@ -101,6 +101,15 @@ Allah says, do you think that by emerging onto dry land you will be safe from Hi
 
 As for the sense of: وَشَارِ‌كْهُمْ فِي الْأَمْوَالِ وَالْأَوْلَادِ (and share with them in their wealth and their children - 64), Sayyidna ` Abdullah ibn ` Abbas ؓ said: Wealth and property acquired by false, impermissible and unlawful means or spent on what is haram is the sharing of the Shaitan in it. As for the sharing of the Shaitan in children, it could either be through illegitimacy, or by naming them like disbelievers and polytheists, or by indulging in polytheistic customs to ensure their security, or by taking to Haram sources of income to bring them up. (Qurtubi)
 
+## AI Translation
+
+Do you feel secure that He will not cause the land to swallow you up, or unleash upon you a storm of stones? Then you will find none to protect you.
+
+## AI Tafsir
+
+**What this ayah teaches:** Or do you feel secure that He, Who is over the heaven (Allah), will not send against you a Hasib?
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

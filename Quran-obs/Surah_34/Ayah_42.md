@@ -160,6 +160,17 @@ The hint embedded in this verse also tells us that as long as the things of use 
 
 Once the Arabs tapered down their use of camels for riding and transport purposes, the usual increase in the populations of their camels has also gone down. Incidentally, what has been said here also helps remove that atheistic doubt usually dished out with reference to the Islamic injunctions of sacrifice saying that it is likely to affect the economy of Muslims adversely.
 
+## AI Translation
+
+So today none of you can benefit or protect the other. We will tell the wrongdoers, "Taste the torment of the Fire that you used to deny."
+
+## AI Tafsir
+
+**What this ayah teaches:** And He is the best of the sustainers.) in verse 39 literally means: 'For anything that you spend, Allah Ta’ ala gives you a return from His unseen treasures - at times, within this world and at times, in the Hereafter and at times, in both.' In things happening around us, we see that water comes down from above, animals and humans use it freely, needs of farms and forests are satiated, and no soon…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Incidentally, what has been said here also helps remove that atheistic doubt usually dished out with reference to the Islamic injunctions of sacrifice saying that it is likely to affect the economy of Muslims adversely.
 ## Personal Reflections
 
 

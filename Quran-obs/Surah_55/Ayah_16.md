@@ -114,6 +114,15 @@ Qatadah said, "Al-Munsha'at means created." Others said that it is Al-Munshi'at 
 
 وَخَلَقَ الْجَانَّ مِن مَّارِ‌جٍ مِّن نَّارٍ‌ (and created Jann [ father of the Jinns ] from a smokeless flame of fire...55:15) The word جَانَّ - jann, refers to the class of beings called jinn'. The word مَّارِ‌جٍ marij refers to the ' smokeless flame of fire'. The major element in the creation of jinn is the smokeless flame of fire, just as the major element in the creation of man is dry sounding clay.
 
+## AI Translation
+
+So which of your Rabb's favours will you both—humans and jinn—deny?
+
+## AI Tafsir
+
+**What this ayah teaches:** The Creation of Humans and Jinns Allah mentions that He created mankind from clay, like that used in pottery, and created the Jinns from the tip of the flame of a smokeless fire.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid, Qatadah, Abu Ruzayn, Ad-Dahhak said it, and it has also been reported from 'Ali.
 ## Personal Reflections
 
 

@@ -216,6 +216,15 @@ In the seventh and the eighth verses (31, 32), the Holy Qur'an has, in its typic
 
 After that, it was said when these questions will be addressed to them, all of them would say that all these things were created by One Allah! Then, the Holy Prophet ﷺ was to ask them: Why then, would you not fear Allah? When you know that it is Allah alone who creates, sustains and manages everything, why do you have to take someone else other than Him as deserving of your devotion and obedience?
 
+## AI Translation
+
+Ask them, O Prophet, “Who provides for you from heaven and earth? Who owns your hearing and sight? Who brings forth the living from the dead and the dead from the living? And who conducts every affair?” They will surely say, “Allah.” Say, “Will you not then fear Him?
+
+## AI Tafsir
+
+**What this ayah teaches:** Who brings forth the living from the dead, such as vegetation and trees from the soil? And who brings forth the dead from the living, such as a lifeless sperm from humans and animals?
+
+**Classical tafsir:** Ibn Kathir notes: How then are you turned away (32)Thus is the Word of your Lord justified against those who rebel (disobey Allah), that they will not believe .
 ## Personal Reflections
 
 

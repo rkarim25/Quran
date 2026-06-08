@@ -121,6 +121,19 @@ These are the details of the episode. Let us now give some thought to what has b
 
 After telling the Holy Prophet ﷺ the reality behind the case of theft, in the first verse (105), it was said: Allah has given you the Qur'an through revelations so that you can use the knowledge and insight gifted to you to decide matters accordingly, abstaining from taking sides with traitors, that is, Banu Ubayriq. No doubt, the obvious circumstances and evidences were such that a tilt towards the probability of the Jew having committed the theft was not a sin, yet contrary to the actual fact it was. Therefore, in the second verse (106), the Holy Prophet ﷺ was asked to seek forgiveness from Allah because the station of prophets (علیہم السلام) is very high and Allah does not favour the issuance of even something so insignificant from them.
 
+## AI Translation
+
+And seek Allah’s forgiveness—indeed, Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**Context:** Not much time had passed when a whole section of the Qur'an was revealed about this episode through which the reality behind it was shown to the Holy Prophet ﷺ and general instructions covering such cases were given.
+
+**What this ayah teaches:** Surely, We have sent down to you (O Muhammad ﷺ) the Book in truth that you might judge between men by that which Allah has shown you, so be not a pleader for the treacherous (105)And seek the forgiveness of Allah, certainly, Allah is Ever Oft-Forgiving, ar-Rahim (106)And argue not on behalf of those who deceive themselves.
+
+**Classical tafsir:** Ibn Kathir notes: Some of you might be more eloquent in presenting his case than others, so that I judge in his favor.
+
+**From the Sunnah:** Umm Salamah said that the Messenger of Allah ﷺ heard the noise of disputing people close to the door of his room, and he went out to them saying, I…
 ## Personal Reflections
 
 

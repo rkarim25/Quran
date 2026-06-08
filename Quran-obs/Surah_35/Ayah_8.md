@@ -150,6 +150,15 @@ Having stated that the ultimate destiny of the followers of Iblis will be the bl
 
 Imam al-Baghawi has reported on the authority of Sayyidna ` Abdullah Ibn ` Abbas ؓ that the verse: فَإِنَّ اللَّـهَ يُضِلُّ مَن يَشَاءُ وَيَهْدِي مَن يَشَاءُ (The fact, therefore, is that Allah lets go astray whomsoever He wills , and leads to the right path whomsoever He wills.- 8) was revealed at a time when the Holy Prophet ﷺ had made the prayer: '0 Allah, bless Islam with prestige and power, through ` Umar Ibn al-Khattab, or Abu Jahl.' Out of the two, Allah Ta’ ala showed the right path to Sayyidna 'Umar ؓ and made him the cause of Islam's prestige and power, while Abu Jahl remained as astray as he was. (Mazhari)
 
+## AI Translation
+
+Is the one whose evil deeds are made to look good to him—so he considers them fine—equal to the one rightly guided? Allah leaves to stray whomever He wills and guides whomever He wills. Do not grieve yourself to death over them. Allah fully knows what they do.
+
+## AI Tafsir
+
+**What this ayah teaches:** Those who disbelieve, theirs will be a severe torment; and those who believe and do righteous good deeds, theirs will be forgiveness and a great reward (7)Is he, then, to whom the evil of his deeds is made fairseeming, so that he considers it as good?
+
+**Classical tafsir:** Ibn Kathir notes: Those who disbelieve, theirs will be a severe torment; and those who believe and do righteous good deeds, theirs will be forgiveness and a great reward (7)Is he, then, to whom the evil of his deeds is made fairseeming, so that he considers it as good?
 ## Personal Reflections
 
 

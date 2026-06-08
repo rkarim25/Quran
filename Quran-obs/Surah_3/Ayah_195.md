@@ -286,6 +286,17 @@ While explaining the statement لَأُكَفِّرَ‌نَّ عَنْهُمْ 
 
 So, let us keep in mind that all sins are forgiven following Hijrah (Emigration) and Shahadah (Surrendering life in the way of Allah, martyrdom) but the forgiveness of debts and other rights of people (Huququl-` Ibad) has not been promised.
 
+## AI Translation
+
+So their Rabb responded to them: “I will never deny any of you—male or female—the reward of your deeds. Both are equal in reward. Those who migrated or were expelled from their homes, and were persecuted for My sake and fought and were martyred—I will certainly forgive their sins and admit them into Gardens under which rivers flow, as a reward from Allah. And with Allah is the finest reward!”
+
+## AI Tafsir
+
+**What this ayah teaches:** You are (members) one of another, so those who emigrated and were driven out from their homes, and suffered harm in My cause, and who fought and were killed (in My cause), verily, I will expiate from them their evil deeds and admit them into Gardens under which rivers flow (in Paradise); a reward from Allah, and with Allah is the best of rewards.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Yes.' The Prophet ﷺ then asked the man, 'What did you ask? In the second and third verses (196-197), Muslims have been instructed not to be deceived by the apparent affluence and worldwide maneuvering of those who reject the truth for this is transitory and the punishment which follows in its wake is eternal.
 ## Personal Reflections
 
 

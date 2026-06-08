@@ -210,6 +210,19 @@ The subject verse refers to this happening and sets out the injunction to leave 
 
 As the verse opens addressed to Muslims, they were first given the command of اتَّقُوا اللَّـهَ that is, 'fear Allah.' Given after that was the injunction covering the real issue. This is the same unique style of the Qur'an which distinguishes it from all the law books of the world. When a law, which is somewhat difficult to act upon, is given, it has the prefixes and suffixes of accountability of deeds before Allah Almighty, and the punishment and reward of the Hereafter, so that Muslim minds and hearts become prepared to act upon it; the injunction is announced after that. Here too, the forsaking of the amount of matured ربا riba could weigh heavy on human disposition, therefore, said first was اتَّقُوا اللَّـهَ (fear Allah). After that, came the injunction: وَذَرُ‌وا مَا بَقِيَ مِنَ الرِّ‌بَا that is, 'leave off ربا riba that remains.' Towards the end of the verse it was said: إِن كُنتُم مُّؤْمِنِين that is, 'if you are believers.' Here it was indicated that ‘Iman (faith, belief) requires that Divine injunctions should be followed faithfully. Acting otherwise negates ایمان 'Iman. Since this injunction was somewhat heavy on temperaments, اتَّقُوا اللَّـهَ (Fear Allah) was added before it, and; إِن كُنتُم مُّؤْمِنِين (If you are believers) after it.
 
+## AI Translation
+
+O believers — live with taqwa and give up whatever remains of interest, if you are true believers.
+
+## AI Tafsir
+
+**Context:** (if you indeed have been believers) believing in the trade that He allowed you and the prohibition of Riba. Zayd bin Aslam, Ibn Jurayj, Muqatil bin Hayyan and As-Suddi said that this Ayah was revealed about Bani 'Amr bin…
+
+**What this ayah teaches:** And if you do not do it, then take a notice of war from Allah and His Messenger.) They said, "We repent to Allah and abandon whatever is left of our Riba", and they all abandoned it This Ayah serves as a stern threat to those who continue to deal in Riba after Allah revealed this warning.
+
+**Classical tafsir:** Ibn Kathir notes: Zayd bin Aslam, Ibn Jurayj, Muqatil bin Hayyan and As-Suddi said that this Ayah was revealed about Bani 'Amr bin 'Umayr, a sub-tribe of Thaqif, and Bani Al-Mughirah, from the tribe of Bani Makhzum, between whom were outstanding transactions of Riba leftover from time of Jahiliyyah.
+
+**From the Sunnah:**…
 ## Personal Reflections
 
 

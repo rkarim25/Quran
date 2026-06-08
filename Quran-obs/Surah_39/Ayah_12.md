@@ -71,6 +71,15 @@ Qatadah reports from Sayyidna Anas ؓ that the Holy Prophet ﷺ said, 'On the Da
 
 Imam Malik (رح) has taken: صَابرین (as-sabirun) in this verse to mean people who endure hardships and remain patient over sorrows of the mortal life. Some elders have said that it means people who hold their self in check against acts of disobedience and sin. Qurtubi says, 'when the word: صَابِر (sabir: patient) is uttered unaccompanied by some other word, it invariably means a person who observes patience against hardships caused during the process of making one's desiring self abstain from sins. And when the word: صَبر (sabir) is used for a person who remains patient against distress, it is coupled with some other words: صَابِرت علی کَذَا (one who is patient against such and such distress). وَاللہ سبحانہ و تعالیٰ اَعلَم Allah knows best.
 
+## AI Translation
+
+And I am commanded to be the first of those who submit to His Will."
+
+## AI Tafsir
+
+**What this ayah teaches:** Go and live at a place and in a surrounding that is conducive to remaining obedient to Divine commandments.' This persuades one to migrate from a place living in which one cannot dutifully follow and observe what has been enjoined by his religion.
+
+**Classical tafsir:** Ibn Kathir notes: So much so that people who had lived their life of the mortal world in perfect peace and comfort would wish, 'alas!
 ## Personal Reflections
 
 

@@ -135,6 +135,15 @@ An important instruction concerning 'mushajarat' (disagreements among Sahabah)
 
 Someone asked Rabi' Ibn-u1_-Khaitham about the shahadah (martyrdom) of Sayyidna Husain ؓ . He sighed and recited the verse (46): قُلِ اللَّـهُمَّ فَاطِرَ‌ السَّمَاوَاتِ وَالْأَرْ‌ضِ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ أَنتَ تَحْكُمُ بَيْنَ عِبَادِكَ ( O Allah, Creator of the heavens and the earth, Knower of the unseen and the seen, You will judge between Your servants...) and said, 'whenever you have a doubt in your heart about the mutual difference of the noble Sahabah, do recite this verse.' Tafsir Ruh-ul-Ma’ ani reports this statement and then says: This teaches us the best etiquette in regard to this issue, and is something one should always bear in mind.
 
+## AI Translation
+
+So the evil consequences of their deeds overtook them. And the wrongdoers among these pagans will be overtaken by the evil consequences of their deeds. And they will have no escape.
+
+## AI Tafsir
+
+**What this ayah teaches:** When harm touches man, he calls to Us (for help); then when We have changed it into a favor from Us, he says: "Only because of knowledge I obtained it." Nay, it is only a trial, but most of them know not (49)Verily, those before them said it, yet (all) that they had earned availed them not (50)So, the evil results of that which they earned overtook them.
+
+**Classical tafsir:** Ibn Kathir notes: When harm touches man, he calls to Us (for help); then when We have changed it into a favor from Us, he says: "Only because of knowledge I obtained it." Nay, it is only a trial, but most of them know not (49)Verily, those before them said it, yet (all) that they had earned availe…
 ## Personal Reflections
 
 

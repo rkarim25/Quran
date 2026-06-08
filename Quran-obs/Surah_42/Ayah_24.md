@@ -171,6 +171,15 @@ When Allah Ta’ ala bestows prophethood and messenger-ship on anyone, He also f
 
 In view of this rule, it should be understood that the Noble Qur'an is such a miracle that all the humans and all the jins of this world are unable to produce even one verse comparable to the verse of the Qur'an. Their inability to do so was proved in the days of the Holy Prophet ﷺ and continues till today. Such an open and obvious miracle cannot be accomplished by a false claimant of prophethood. The Holy Prophet's claim to ` wahy' and messenger-ship is, therefore, correct and true, and those who hold it to be incorrect and forged are misguided calumniators.
 
+## AI Translation
+
+Or do they say, "He has fabricated a lie about Allah"? If you had, Allah would have sealed your heart if He willed. And Allah wipes out falsehood and establishes the truth by His Words. He certainly knows best what is hidden in the heart.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, had there been, Allah forbid, something forged by the Holy Prophet ﷺ in the Qur'an, Allah would have put a seal on his heart, and he would have never been able to come up with such a miraculous discourse. Verily, Allah is Oft-Forgiving, Most Ready to appreciate (23)Or say they: "He has invented a lie against Allah?" If Allah willed, He could have sealed up your heart.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, had there been, Allah forbid, something forged by the Holy Prophet ﷺ in the Qur'an, Allah would have put a seal on his heart, and he would have never been able to come up with such a miraculous discourse.
 ## Personal Reflections
 
 

@@ -142,6 +142,17 @@ It will be noticed that Habib Najjar did not attribute all these things to them,
 
 In our time, da'wah workers have generally abandoned this prophetic way, therefore, their call and communication have lost effectiveness. Betraying anger and making damaging comments against the adversary are supposed to be master strokes in lectures and sermons while, in reality, such tactics push the adversary to more hardened stances of doggedness and hostility. 0 Allah make us follow the way of prophets and bless us with the good fortune of doing what you like and are pleased with.
 
+## AI Translation
+
+of how my Lord has forgiven me, and made me one of the honoured."
+
+## AI Tafsir
+
+**What this ayah teaches:** In response to the honest call and advice of these messengers, the polytheists had said three things: 1. This he said so that the adversary might not be enraged, rather, should think about it with a cool mind.
+
+**Classical tafsir:** Ibn Kathir notes: In response to the honest call and advice of these messengers, the polytheists had said three things: 1.
+
+**From the Sunnah:** When he adopted Constantinople as his city, the Patriarch of Rome moved there, as has been mentioned by several historian, such as Sa'id bin Batriq and others, both People of the Book and Muslims.
 ## Personal Reflections
 
 

@@ -116,6 +116,17 @@ Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His M
 
 عَلَى الْعَرْ‌شِ اسْتَوَىٰ (Positioned Himself on the Throne - 20:5): About these words the truth is what the majority of the early scholars have held that the exact nature of 'Istiwa" (positioning) is not known to anybody. It is included in 'Mutashabihat' (the verses meaning of which is unknown). A Muslim has to believe that Istiwa’ ‘Ala-Al-` Arsh' (positioning on the Throne) is true, the nature of which must be in accordance with the high attributes of Allah, but nobody can comprehend it in this world.
 
+## AI Translation
+
+the the Rahman — mercy that encompasses all creation in this life, Who is established on the Throne.
+
+## AI Tafsir
+
+**Context:** Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His Messenger ﷺ, he and his Companions adhered to it.
+
+**What this ayah teaches:** A Muslim has to believe that Istiwa’ ‘Ala-Al-` Arsh' (positioning on the Throne) is true, the nature of which must be in accordance with the high attributes of Allah, but nobody can comprehend it in this world.
+
+**Classical tafsir:** Ibn Kathir notes: To Him belongs the Best Names.) This means, 'He Who revealed this Qur'an to you (O Muhammad), He is Allah, there is no Allah except Him.
 ## Personal Reflections
 
 

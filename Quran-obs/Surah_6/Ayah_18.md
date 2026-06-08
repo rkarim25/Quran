@@ -139,6 +139,19 @@ At the end of verse 18, it was said: وَهُوَ الْقَاهِرُ‌ فَو
 
 And then, He is Wise too, for everything He does is essential Wisdom. And then, He is All-Aware too, for He is the One who knows everything. Thus, by the word, al-Qahir (the Dominant) pointed to is the perfect power of Allah Ta` ala and, by the word, al-Hakim (the All-Wise), His all-encompassing knowledge - and the two tell us that perfection in knowledge and power are the sole attributes of Almighty Allah and it is only Him that they belong to.
 
+## AI Translation
+
+He reigns supreme over His creation. And He is the All-Wise, All-Aware.
+
+## AI Tafsir
+
+**Context:** And if Allah touches you with harm, none can remove it but He, and if He touches you with good, then He is able to do all things (17)And He is the Irresistible, above His servants, and He is the All-Wise, Well-Acquainted…
+
+**What this ayah teaches:** And then, He is All-Aware too, for He is the One who knows everything.
+
+**Classical tafsir:** Ibn Kathir notes: This is because they received good news from the previous Messengers and Prophets about the coming of Muhammad ﷺ, his attributes, homeland, his migration, and the description of his Ummah.
+
+**From the Sunnah:** It is recorded in the Sahih that the Messenger of Allah ﷺ used to supplicate, Thus, by the word, al-Qahir (the Dominant) pointed to is the perfect power of Allah Ta` ala and, by the word, al-Hakim (the All-Wise), His all-encompassing knowledge - and the two tell us that perfection in knowledge and power are the…
 ## Personal Reflections
 
 

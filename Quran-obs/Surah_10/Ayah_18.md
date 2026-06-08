@@ -168,6 +168,15 @@ means that if Allah had not decreed He would not punish anyone until the evidenc
 
 The last verse (17) emphasizes the subject conclusively by warning that attributing any statement to Allah Ta` ala that was not His Word, or denying what actually was, were crimes deserving severe punishment.
 
+## AI Translation
+
+They worship besides Allah others who can neither harm nor benefit them, and say, “These are our intercessors with Allah.” Ask them, O Prophet, “Are you informing Allah of something He does not know in the heavens or the earth? Glorified and Exalted is He above what they associate with Him!”
+
+## AI Tafsir
+
+**What this ayah teaches:** And they worship besides Allah things that harm them not, nor profit them, and they say: These are our intercessors with Allah." Say: Do you inform Allah of that which He knows not in the heavens and on the earth?" Glorified and Exalted is He above all that which they associate as partners (with Him)(18)Mankind were but one community, then they differed (later); and had not it…
+
+**Classical tafsir:** Ibn Kathir notes: The last verse (17) emphasizes the subject conclusively by warning that attributing any statement to Allah Ta` ala that was not His Word, or denying what actually was, were crimes deserving severe punishment.
 ## Personal Reflections
 
 

@@ -370,6 +370,17 @@ Misappropriation in Waqf properties and government Treasuries comes under Ghulul
 
 The same rule applies to mosques, religious schools and institu-tions, khanqahs and properties of اوقاف awqaf (endowments) since they represent the contribution of millions of Muslims. If an unfortunate misappropriator was to go about seeking to be forgiven for his evil act, how could he possibly go to each one of those millions. The same rule holds good for public or government treasury بیت المال (Bayt al-Mal) because all citizens of a country have a right in it. One who steals from it steals from everyone. But, the problem is that these very holdings are such that a single owner does not sit over them. The caretakers become negligent. Avenues of pilferage abound. It is in such moneys and properties that a lot of thefts and misappropriations have become rampant all over the world with most people heedless to the evil end that awaits them. They do not realize that this is a terrible burden to haul onto the plains of Resurrection, not to speak of the punishment of Hell that is bound to come as a result of this crime. Then, last but not the least, comes the sad deprivation from the promised intercession of the Messenger of Allah. Let us all seek refuge from such a fate!
 
+## AI Translation
+
+It is not appropriate for a prophet to illegally withhold spoils of war. And whoever does so, it will be held against them on the Day of Judgment. Then every soul will be paid in full for what it has done, and none will be wronged.
+
+## AI Tafsir
+
+**Context:** (It is not for any Prophet to illegally take a part of the booty,) was revealed in connection with a red robe that was missing from the spoils of war of Badr.
+
+**What this ayah teaches:** This is also applied particularly to misappropriation in the spoils as the crime of stealing from the spoils is far more serious as compared to common thefts and filching since spoils belong to the whole Muslim army as a matter of right.
+
+**Classical tafsir:** Ibn Kathir notes: His abode is Hell, and worse indeed is that destination!)[3:162], This refers to those seeking what pleases Allah by obeying His legislation, thus earning His pleasure and tremendous rewards, while being saved from His severe torment.
 ## Personal Reflections
 
 

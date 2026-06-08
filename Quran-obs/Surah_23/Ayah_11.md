@@ -170,6 +170,19 @@ Those are the inheritors who will inherit Firdaus (Paradise) - 23:10, 11.
 
 The good Muslims who possess the attributes described above have been declared in this verse to be the heirs to the garden of Paradise. There is a suggestion here that just as the assets of a deceased person must devolve on his heirs, similarly the possessors of these attributes will, without doubt, enter Paradise. It should be noted that the possessors of these seven qualities have been mentioned in the beginning as those who attain falah or success, then after describing these qualities it is mentioned in this last sentence that possessors of these qualities will inherit Paradise. This indicates that the total falah (success) may be achieved in Paradise only.
 
+## AI Translation
+
+Paradise as their own. They will be there forever.
+
+## AI Tafsir
+
+**Context:** (And those who pay the Zakah.) Most commentators say that the meaning here is the Zakah that is paid on wealth, even though this Ayah was revealed in Makkah, and Zakah was ordained in Al-Madinah in the year 2 H.
+
+**What this ayah teaches:** One who seeks what Allah has made permissible for him is not to be blamed and there is no sin on him.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Their Khushu' was in their hearts." So they lowered their gaze and were humble towards others. This indicates that the total falah (success) may be achieved in Paradise only.
+
+**From the Sunnah:** At that point it becomes a delight and a joy for eyes, as in the Hadith recorded by Imam Ahmad and An-Nasa'i from Anas, who said that the Messenger of Allah ﷺ said: (Musnad Ahmad, Sunan an-Nasa'i) This is not like the hypocrites about whom the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

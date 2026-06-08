@@ -90,6 +90,17 @@ More than one of the scholars of Tafsir said that they stood there not knowing w
 
 The reasoning for this he gave إِنَّ مَعِيَ رَ‌بِّي سَيَهْدِينِ (62) "Indeed with me is my Lord. He will guide me." Such are the moments for the test of faith, when Sayyidna Musa (علیہ السلام) was not terror stricken at all, as if he was seeing for himself the way out. Almost the same thing happened with Holy Prophet ﷺ at the time of migration while hiding in the cave of Thaur. The enemy had reached right at the opening of the cave in his pursuit. In fact they were so close that they could have seen him if they had looked down towards their toes. Sayyidna Abu Bakr ؓ got alarmed a little, but Holy Prophet ﷺ said exactly the same thing لَا تَحْزَنْ إِنَّ اللَّـهَ مَعَنَا ` Do not grieve, Allah is surely with us' (9:40). It is worth noting in the two incidents that while Sayyidna Musa (علیہ السلام) said to his Ummah in order to console them مَعِيَ رَ‌بِّي ` With me is my Lord', Holy Prophet ﷺ said toSayyidna Abu Bakr ؓ in reply ` Allah is with us (two) '. It is a special privilege of the Ummah of Muhammad ﷺ that his followers are also honoured by the company of Allah when they are with their Rasul.
 
+## AI Translation
+
+and delivered Moses and those with him all together.
+
+## AI Tafsir
+
+**Context:** So, they pursued them at sunrise (60)And when the two hosts saw each other, the companions of Musa said: "We are sure to be overtaken. (61)(Musa) said: "Nay, verily with me is my Lord. He will guide me.
+
+**What this ayah teaches:** At that point Allah commanded his Prophet Musa, peace be upon him, to strike the sea with his staff, so he struck it, and it parted, by the will of Allah. And verily your Lord, He is truly the All-Mighty, the ar-Rahim.) The explanation of this phrase has already been discussed above.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ata' Al-Khurasani said, "It refers to a pass between two mountains." Ibn 'Abbas said, "The sea divided into twelve paths, one for each of the tribes." As-Suddi added, "And in it there were windows through which they could see one another, and the water was erected like walls." Allah sent the wind t…
 ## Personal Reflections
 
 

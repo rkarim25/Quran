@@ -164,6 +164,15 @@ This tells us that it is not proper to name a house in this world as Daru 's-Sal
 
 After that, it was said in the cited verse: وَيَهْدِي مَن يَشَاءُ إِلَىٰ صِرَ‌اطٍ مُّسْتَقِيمٍ (and He brings whom He wills to a straight path - 25).
 
+## AI Translation
+
+Allah invites to the Home of Peace and guides whomever He wills to the Straight Path — the way of living that pleases Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah is able to do everything.)(18:45) He also gave similar examples in both Surat Az-Zumar [39:21] and Surat Al-Hadid [57:20].
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said: "As if it had not flourished; as if it was never blessed." Such are things after they perish, they are as if they had never existed.
 ## Personal Reflections
 
 

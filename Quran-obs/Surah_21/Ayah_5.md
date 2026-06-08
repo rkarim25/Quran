@@ -163,6 +163,17 @@ None of the peoples to whom Messengers were sent were given a sign at the hands 
 
 فَلْيَأْتِنَا بِآيَةٍ (So let him bring to us a sign - 21:5) It means that the unbelievers demanded from the Holy Prophet ﷺ certain specific miracles to be shown as a proof of his being a real Prophet. In response to this demand, Allah Ta` ala said in this verse that the same demand for miracles was also made by the people in the past from other prophets, and when their request was met, it was of no avail. They did not submit to Allah even after witnessing the miracles of their choice. And Allah has decreed that people who do not submit to Him even after they have seen the miracle of their choice are subjected to His wrath even in this world and are destroyed. Allah, in His Divine Mercy and in view of the honoured position of the Holy Prophet ﷺ had granted to his Ummah immunity from the terrible punishment which is the inevitable fate of those people who defy the Will of Allah. It was not, therefore, considered desirable to show them miracles of their choice because if they, like the earlier people, persisted in their unbelief even after seeing those miracles, they too would invite the wrath of Allah Ta` ala.
 
+## AI Translation
+
+Yet they say, “This Quran is a set of confused dreams! No, he has fabricated it! No, he must be a poet! So let him bring us a tangible sign like those prophets sent before.”
+
+## AI Tafsir
+
+**What this ayah teaches:** It was not, therefore, considered desirable to show them miracles of their choice because if they, like the earlier people, persisted in their unbelief even after seeing those miracles, they too would invite the wrath of Allah Ta` ala.
+
+**Classical tafsir:** Ibn Kathir notes: It was not, therefore, considered desirable to show them miracles of their choice because if they, like the earlier people, persisted in their unbelief even after seeing those miracles, they too would invite the wrath of Allah Ta` ala.
+
+**From the Sunnah:** 'Abdullah said, "Banu Isra'il, Al-Kahf, Maryam, Ta Ha and Al-Anbiya' - they are among the earliest and most beautiful Surahs and they are my treasure." (Sahih al-Bukhari) that Abu Sa'id reported from the Prophet ﷺ: (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

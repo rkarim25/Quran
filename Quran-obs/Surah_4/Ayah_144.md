@@ -155,6 +155,17 @@ Ibn Abi Hatim recorded that when Ibn Mas'ud was asked about the hypocrites, he s
 
 Maulana Ashraf ` Ali Thanavi (رح) has, in his Tafsir Bay-an al-Qur'an, taken up the question of 'standing up lazily' in the expression: قَامُوا كُسَالَ which appears in verse 142 saying: 'The laziness censured here is doctrinal laziness, (that is, slothfulness towards observance of the articles of faith due to lack of true conviction). However, laziness which is there despite correct beliefs stands excluded from the purview of this censure. Then, should this laziness be there due to some excuse, such as, sickness, fatigue or sleepiness, it is not even blameworthy. But, when without excuse, it is.'
 
+## AI Translation
+
+O you who have iman! Do not take those who reject the truth as allies instead of those who have iman. Would you like to give Allah solid proof against yourselves?
+
+## AI Tafsir
+
+**What this ayah teaches:** Do you wish to offer Allah a manifest Sultan against yourselves (144)Verily, the hyprocrites will be in the lowest depth (grade) of the Fire; no helper will you find for them (145)Except those who repent, do righteous good deeds, depend on Allah, and purify their religion for Allah, then they will be with the believers. Do not take those who reject the truth as friends instead of believers.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Ibn Abi Hatim recorded that when Ibn Mas'ud was asked about the hypocrites, he said, "They will be placed in coffins made of fire and they will be closed in them in the lowest depth of the Fire."
 ## Personal Reflections
 
 

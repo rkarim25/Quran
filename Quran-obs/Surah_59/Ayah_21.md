@@ -236,6 +236,17 @@ This is the end of the Tafsir of Surat Al-Hashr. All praise is due to Allah.
 
 لَوْ أَنزَلْنَا هَـٰذَا الْقُرْ‌آنَ عَلَىٰ جَبَلٍ (Had We sent down this Qur'an to a mountain, ....59:21) This is a parable that Allah is using to illustrate the fact that if the Holy Qur'an were to be revealed on such strong, firm and unmovable mountain and endowed with intelligence like man, it would have submitted to the greatness of the Qur'an, nay, it would have crushed to pieces. But man is too selfish and proud. As a result, he has lost his natural intelligence and remains unaffected by the powerful message of the Qur'an. This, it would appear, is a hypothetical example, that is 'if mountains had sense or intelligence. Some scholars have stated that reason and revelation both bear testimony to the fact that everything in nature has sense, perception and intelligence, be it a mountain or a tree. Therefore, this is not a hypothetical example. It is a stark reality. [ Mazhari ]. And Allah knows best!
 
+## AI Translation
+
+Had We sent this Quran upon a mountain, you would have seen it humbled and torn apart in awe of Allah. We set forth such comparisons so people may reflect.
+
+## AI Tafsir
+
+**What this ayah teaches:** This, it would appear, is a hypothetical example, that is 'if mountains had sense or intelligence.
+
+**Classical tafsir:** Ibn Kathir notes: In one of the narrations for this Hadith, Al-Hasan Al-Basri said after narrating the Hadith, "You – mankind – are more worthy to miss the Messenger of Allah ﷺ than the tree trunk!" Likewise, this honorable Ayah asks that if the solid mountains feel humble and are rent asunder from the fear of Allah,…
+
+**From the Sunnah:** So, when the Minbar was made and placed in the Masjid, the Prophet ﷺ came to deliver a speech and passed the tree trunk, headed towards the Minbar, the tree trunk started weeping, just like an infant.
 ## Personal Reflections
 
 

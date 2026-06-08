@@ -132,6 +132,17 @@ It is obvious that the real purpose of listening is fully realized only through 
 
 In the verse cited above (20), the address is to Muslims who have been told that they do listen to the message of truth after all, that is, the initial requirement of listening, understanding and believing is present in their attitude as it is, but they have to do more than that. They must act, do what must be done and do it fully and faithfully. They have been asked not to do anything which would take them away from the path of obedience so that the real purpose of listening to the word of truth stands realized fully.
 
+## AI Translation
+
+O you who have iman: obey Allah and His Messenger, and do not turn away from him while you hear his call.
+
+## AI Tafsir
+
+**What this ayah teaches:** This degree is that of the munafiqin (hypocrites) for they do listen to the Qur'an, understand it too, even have a feigned claim to desired belief and deed, but the reality is that they do not believe and do what is right and due.
+
+**Classical tafsir:** Ibn Kathir notes: Muhammad bin Ishaq said that this Ayah refers to hypocrites, as we stated.
+
+**From the Sunnah:** In the present verse, the other side of this very problem has been taken up by addressing Muslims. In the verse cited above (20), the address is to Muslims who have been told that they do listen to the message of truth after all, that is, the initial requirement of listening, understanding and believing is present in their attitude as it is, but they have t…
 ## Personal Reflections
 
 

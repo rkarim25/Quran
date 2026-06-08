@@ -298,6 +298,17 @@ The previous verse had told us how the breaking of pledges and disobedience had 
 
 The Torah had already given the Jews the good tidings of the coming of the Holy Prophet . When he actually came with all signs which the Torah had indicated, thus confirming the Sacred Book of the Jews, a large number of them refused to accept him as a prophet. In doing this, they were, in fact, denying the Torah itself, and behaving as if they know nothing of the prophecy, or even the Torah being a Book of Allah. Thus, they were being guilty of infidelity (Kufr) even in terms of the Torah itself.
 
+## AI Translation
+
+When a messenger from Allah came to them confirming what they had, a group among the People of the Book threw Allah's Book behind their backs as if they did not know.
+
+## AI Tafsir
+
+**Context:** (And indeed We have sent down to you manifest Ayat) means, "We have sent to you, O Muhammad, clear signs that testify to your prophethood." These Ayat are contained in the Book of Allah (Qur'an) which narrates the secret…
+
+**What this ayah teaches:** Muhammad ﷺ) confirming what was with them, a party of those who were given the Scripture threw away the Book of Allah behind their backs as if they did not know (101)They followed what the Shayatin (devils) gave out (falsely of the magic) in the lifetime of Sulayman (Solomon).
+
+**Classical tafsir:** Ibn Kathir notes: What should I do?" Al-Hasan Al-Basri said that this Ayah means, "The angels were sent with magic, so that the people whom Allah willed would be tried and tested.
 ## Personal Reflections
 
 

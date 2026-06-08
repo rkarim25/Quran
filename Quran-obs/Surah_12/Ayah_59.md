@@ -138,6 +138,17 @@ Having found out all those details from his brothers, it was only natural that h
 
 Bring to me your step brother from your father's side. Do you not see that I give full measure and I am the best of hosts? - 59
 
+## AI Translation
+
+When he had provided them with their supplies, he demanded, “Bring me your brother on your father’s side. Do you not see that I give full measure and I am the best of hosts?
+
+## AI Tafsir
+
+**What this ayah teaches:** After him, he became attached to his younger real brother and that is why he did not send him along with us on this trip so that he can be a source of his comfort.
+
+**Classical tafsir:** Ibn Kathir notes: They were ten, because Ya'qub peace be upon him kept his son and Yusuf's brother Binyamin with him.
+
+**From the Sunnah:** Prophet Yusuf efficiently guarded the people's harvest and collected it, and what he collected became a great fortune for the people.
 ## Personal Reflections
 
 

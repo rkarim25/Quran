@@ -142,6 +142,15 @@ Pharaoh said, "And what is the Lord of the worlds?" (26:23)
 
 This verse proves that it is not possible to know the exact reality of Allah's Being. Since the Pharaoh had asked a question regarding Allah Ta’ ala's intrinsic-self and reality, Sayyidna Musa (علیہ السلام) instead of giving a direct answer to his query, described the attributes of Allah Ta’ ala in reply. He hinted in his reply that it is not possible for a man to perceive the essence and reality of Allah Ta’ ala. Hence, it was a futile question. (Ruh)
 
+## AI Translation
+
+He replied, “My Rabb! I fear that they will reject me.
+
+## AI Tafsir
+
+**What this ayah teaches:** It leads to the principle that so far as the objective is to obey Allah's command, praying for some helping resources cannot be regarded as seeking ruses and excuses to escape from the required act.
+
+**Classical tafsir:** Ibn Kathir notes: But the word is also used for 'unawareness' (which includes unintentional mistakes) It is this meaning that is intended here.
 ## Personal Reflections
 
 

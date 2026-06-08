@@ -105,6 +105,15 @@ In the Qur'an, the word: رسول (rasul: messenger) and: مُرسل (mursal: se
 
 And it has been reported from Sayyidna Qatadah ؓ that the word: مُّرْ‌سَلُونَ (mursalun: sent ones) has not been used here in its technical sense, instead, it appears in the sense of a bearer of message, and the three elders who were sent to this town were no prophets themselves, rather, were from among the disciples of Sayyidna ` Isa (علیہ السلام) and were sent for the guidance of this town under his order (Ibn Kathir). And since their sender, Sayyidna ` Isa (علیہ السلام) was a messenger of Allah, therefore, in a way, his sending was indirectly the sending of Allah Ta’ ala. Hence, his sending has been attributed to Allah Ta’ ala. Out of the commentators, Ibn Kathir has opted for the first saying while al-Qurtubi and others have gone by the second. From the apparent sense of the text of the Qur'an too, it is generally gathered that these blessed souls were prophets of Allah. Allah knows best.
 
+## AI Translation
+
+The messengers responded, "Our Lord knows that we have truly been sent to you.
+
+## AI Tafsir
+
+**What this ayah teaches:** You are only telling lies." The Messengers said: "Our Lord knows that we have been sent as Messengers to you.") This means that the three Messengers answered them saying: "Allah knows that we are His Messengers to you. This too indicates that they are prophets who have been sent to accomplish some mission.
+
+**Classical tafsir:** Ibn Kathir notes: You are only telling lies." The Messengers said: "Our Lord knows that we have been sent as Messengers to you.") This means that the three Messengers answered them saying: "Allah knows that we are His Messengers to you.
 ## Personal Reflections
 
 

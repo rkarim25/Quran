@@ -110,6 +110,17 @@ The last sentence of verse 108 is: سُبْحَانَ اللَّـهِ وَمَ�
 
 To this, the disbelievers of Makkah used to object. They took the plea that a Rasul or messenger of Allah should not be a human being. He should, rather, be an angel. A reply to this doubt has been given in the next verse
 
+## AI Translation
+
+Say, O Prophet, “This is my way. I invite to Allah with insight—I and those who follow me. Glory be to Allah, and I am not one of the polytheists.”
+
+## AI Tafsir
+
+**What this ayah teaches:** The Messenger's Way Allah orders His Messenger ﷺ to say to mankind and the Jinns that this is his way, meaning, his method, path and Sunnah, concentrating on calling to the testimony that there is no deity worthy of worship except Allah alone without partners.
+
+**Classical tafsir:** Ibn Kathir notes: You should learn their morals, habits and ways because they are the ones who are on the straight path.
+
+**From the Sunnah:** He calls to this way, and those who followed him call to what Allah's Messenger ﷺ called to with sure knowledge, certainty and evidence, whether logical or religious evidence,
 ## Personal Reflections
 
 

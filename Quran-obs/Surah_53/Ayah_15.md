@@ -258,6 +258,17 @@ This verse verifies that Paradise exists at the present moment, as is the belief
 
 Many European excavators and explorers of the current age made attempts to dig into the ground in order to build roads so as to travel around from place to place for many long years. For this task, they invented the largest and most sophisticated machinery. Various groups of scientists and experts exerted efforts in this direction. The most successful group was the one who by means of various types of machinery was able to dig six miles deep into the recesses of the earth, but beyond that they came across immovable rocks which frustrated them. They attempted to excavate in another place and dug for six miles and again came across unshakeable rocks beyond which they could not dig. In this way they experimented in many places and came to the conclusion that beyond the depth of six miles into the recesses of the earth there is a rocky covering on the entire earth at that level where no machinery can penetrate. The earth covers thousands of miles in diameter but despite advances and strides made in sciences they could have access only to the depth of six miles. Beyond that point they acknowledged the existence of impenetrable rocky covering and abandoned their attempts. This scientific experiment to excavate and explore supports the notion that the entire earth is covered with adamantine rocks, and access beyond them is not possible. If any authentic narration proves the location of Hell in this rocky covering, it should not come as a surprise. Allah knows best!
 
+## AI Translation
+
+near which is the Garden of Abode—
+
+## AI Tafsir
+
+**Context:** He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While he was in the highest part of the horizon (7)Then he approached and came closer (8)And was at a distance of two bows' length or less (9)So (…
+
+**What this ayah teaches:** He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While he was in the highest part of the horizon (7)Then he approached and came closer (8)And was at a distance of two bows' length or less (9)So (Allah) revealed to His servant whatever He revealed (10)The heart lied not in what he saw (11)Will you then dispute with him about what he saw (12)And indeed he…
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, this verifies the facts mentioned, leaving no doubt or means of refute.
 ## Personal Reflections
 
 

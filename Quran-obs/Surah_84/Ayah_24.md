@@ -146,6 +146,15 @@ Surah Al-Inshiqaq
 
 Ends here
 
+## AI Translation
+
+So give them news of a painful punishment—
+
+## AI Tafsir
+
+**What this ayah teaches:** I swear by Ash-Shafaq (16)And the night and what it Wasaqa (17)And the moon when it Ittasaq (18)You shall certainly travel from stage to stage (19)What is the matter with them, that they believe not (20)And when the Qur'an is recited to them, they fall not prostrate (21)Nay, those who disbelieve deny (22)And Allah knows best what they gather (23)So, announce to them a painful t…
+
+**Classical tafsir:** Ibn Kathir notes: However, this interpretation is after all merely a possibility, but the clear context of the verse indicates that it seems to be far-fetched to take the verse in this sense.
 ## Personal Reflections
 
 

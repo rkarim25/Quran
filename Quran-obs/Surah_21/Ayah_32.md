@@ -152,6 +152,17 @@ They do not think about how Allah has created it, so vast and high, and adorned 
 
 وَجَعَلْنَا فِي الْأَرْ‌ضِ رَ‌وَاسِيَ أَن تَمِيدَ بِهِمْ (And We created mountains on the earth, lest it should shake with them. 21:31) The word مَید (mayd) in Arabic language means to be convulsed. Therefore, the meaning of this verse is that Allah Ta` ala has planted mountains on the earth to hold it in place because any violent movement of the earth would be catastrophic to those who live on it.
 
+## AI Translation
+
+And We have made the sky a well-protected canopy, still they turn away from its signs.
+
+## AI Tafsir
+
+**What this ayah teaches:** Yet they turn away from its signs (32)And He it is Who has created the night and the day, and the sun and the moon, each in an orbit floating .
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the meaning of this verse is that Allah Ta` ala has planted mountains on the earth to hold it in place because any violent movement of the earth would be catastrophic to those who live on it.
+
+**From the Sunnah:** a man came to him and questioned him about when the heavens and earth were joined together then they were parted. This chain of narration fulfills the conditions of the Two Sahihs, apart from Abu Maymunah, who is one of the men of the Sunans, his first name was Salim; and At-Tirmidhi classed him as Sahih. (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

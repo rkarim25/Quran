@@ -198,6 +198,15 @@ The second condition is that they stick to their doggedness and hostility. The i
 
 In brief, if they fail to desist from their tyranny and disbelief, the injunction Muslims are obligated with is the same as stated above, that is, continue fighting them. Since Jihad involves fighting and killing, it is usually associated with a big army, ample weapons and other hardware and logistic support. But, those days Muslims did not have much of this normally, therefore, it was possible that Muslims would have found this command to fight and kill somewhat heavy, or their lack of numbers or paucity of equipment may have led them to realize that they could not win a war like that. Therefore, Muslims were given the antidote they needed. They were told that it did not matter if the disbelievers had more men and equipment to fight with, but where in the world, were they going to get the unseen support and help of Allah Ta` ala which Muslims have with them and which they have been witnessing as being along with them on every battlefield. Then, towards the end it was said that, for all practical purposes, everyone in the world finds some help and support from someone or somewhere, but the touchstone of how effective and functionally superior it is depends on the power, strength, knowledge and experience of that helper or supporter. It goes without saying that a whole world-full of people could never exceed, even equal the power and strength and knowledge and perception of Allah Ta` ala because He is an excellent protector and an excellent supporter with no one to match Him.
 
+## AI Translation
+
+If they turn away, know that Allah is your Protector. What an excellent Protector, and what an excellent Helper.
+
+## AI Tafsir
+
+**What this ayah teaches:** But if they cease, then certainly, Allah is All-Seer of what they do (39)And if they turn away, then know that Allah is your protector – (what) an excellent protector and (what) an excellent helper .
+
+**Classical tafsir:** Ibn Kathir notes: But, those days Muslims did not have much of this normally, therefore, it was possible that Muslims would have found this command to fight and kill somewhat heavy, or their lack of numbers or paucity of equipment may have led them to realize that they could not win a war like tha…
 ## Personal Reflections
 
 

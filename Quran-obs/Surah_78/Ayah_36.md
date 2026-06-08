@@ -192,6 +192,17 @@ This is the end of the Tafsir of Surat An-Naba'. And all praise and thanks are d
 
 The word hisaban has two meanings: [ 1] a grant [ that is ] sufficient [ and ] abundant. This meaning is adapted from the following idiom: اَحسبتُ فُلاناً ای اَعطَیتُہ، ما یَکفِیہِ حَتَٰی قَالَ حَسبِی 'ahsabtu means that I gave him so much so that it was sufficient for him until he yelled out "enough, this is too much for me"; and [ 2] the second meaning 'balancing of account' and 'comparing'. Sayyidna Mujahid ؓ says that in this context the verse purports to say that the Divine grant will be given gratis to the inmates of Paradise. The grant will be in keeping with the degree of sincerity as reported in authentic Traditions. The deeds of the noble Companions are greater than the deeds of the rest of the Ummah. If a Companion were to spend in the way of Allah one mudd = [ 815, 39 grams ] and a non-Companion were to spend to the equivalent of Mount Uhud, the Companion's one mudd will weigh heavier than the mountain. And Allah knows best!
 
+## AI Translation
+
+a generous reward from your Rabb,
+
+## AI Tafsir
+
+**What this ayah teaches:** The blessings of Paradise described above is the reward of the believers and is an abundant grant from their Lord.
+
+**Classical tafsir:** Ibn Kathir notes: He explains that He is the ar-Rahman, Whose mercy covers all things.
+
+**From the Sunnah:** Paradise described above is the reward of the believers and is an abundant grant from their Lord.
 ## Personal Reflections
 
 

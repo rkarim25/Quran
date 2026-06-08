@@ -84,6 +84,17 @@ Ruling
 
 Scholars have different viewpoints in the matter of killing of spiders and removing of cobwebs from the houses. Some do not like it, because at the time of hijrah the spider weaved its web at the mouth of the cave Thaur, and thus made a place of respect for itself. Khatib has reported that Sayyidna ` Ali ؓ had prohibited its killing. But Tha` labi and Ibn ` Atiyyah have quoted a narration, again from Sayyidna ` Ali رضی اللہ تعالیٰ عنہ that says طَھِّرُوا بُیُوتَکُم مِّن نَسجِ العَنکَبُوتِ فَاِنَّ ترکَہ، یُورثُ الفَقَر (Clean your homes from the web of the spider, because its retaining causes poverty.) The chain of the narrators of both these reports is not reliable, but the second narration draws credence from other narrations in which keeping of homes clean is stressed. (Ruh u1-Mani)
 
+## AI Translation
+
+Allah knows that whatever they invoke besides Him is nothing. He is the Almighty, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** The parable of those who seek protectors from other than Allah is that of a spider who builds a house; but indeed, the weakest of houses is the spider's house – if they but knew (41)Verily, Allah knows what things they invoke instead of Him.
+
+**Classical tafsir:** Ibn Kathir notes: In this regard, they were like the house of a spider, which is so weak and frail, because by clinging to these gods they were like a person who holds on to a spider's web, who does not gain any benefit from that.
+
+**From the Sunnah:** This is unlike the Muslim believer, whose heart is devoted to Allah, yet he still does righteous deeds and follows the Laws of Allah, for he has grasped the most trustworthy handle that will never break because it is so strong and firm. (Sahih Muslim)
 ## Personal Reflections
 
 

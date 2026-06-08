@@ -144,6 +144,15 @@ How to conduct oneself when the Qur'an is being recited
 
 فَاسْتَمِعْ لِمَا يُوحَىٰ (So listen to what is revealed - 20:13). Sayyidna Wahb Ibn Munabbih has said that the correct behavior while listening to the recitation of the Qur'an is, that one sits still, refrains from any unnecessary movement in a way that no organ of his body is involved in any other work, keeps eyes down - concentrates the mind towards understanding its meaning. The person who listens to the Holy Qur'an in this respectful manner is rewarded by Allah Ta` ala with a better understanding of His word.
 
+## AI Translation
+
+I have chosen you, so listen to what is revealed:.
+
+## AI Tafsir
+
+**What this ayah teaches:** It shall not come upon you except all of a sudden.)[7:187] This means that its knowledge weighs heavily upon the dwellers of the heavens and the earth. Whoever behaves like these people, then verily he has failed and lost.
+
+**Classical tafsir:** Ibn Kathir notes: It shall not come upon you except all of a sudden.)[7:187] This means that its knowledge weighs heavily upon the dwellers of the heavens and the earth.
 ## Personal Reflections
 
 

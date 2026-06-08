@@ -148,6 +148,15 @@ Glorious is the One who made stellar formations in the sky and placed therein a 
 
 وَمَكَرُ‌وا مَكْرً‌ا كُبَّارً‌ا (and they devised an enormous plan....71:22). In other words, they hatched a mighty plot. They rejected the message and persecuted Prophet Nuh (علیہ السلام) . In addition, they let loose hooligans and hoodlums on him. They agreed that they will not abandon their gods, especially the five major idols whose names appear in the following verse:
 
+## AI Translation
+
+Allah alone caused you to grow from the earth like a plant.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, I have called to my people night and day (5)But all my calling added nothing but to (their) flight (6)And verily, every time I called unto them that You might forgive them, they thrust their fingers into their ears, covered themselves up with their garments, and persisted, and magnified themselves in pride (7)Then verily, I called to them openly (aloud)(8)Then verily, I…
+
+**Classical tafsir:** Ibn Kathir notes: This means that He will give you more wealth, more children and gardens with various types of fruits.
 ## Personal Reflections
 
 

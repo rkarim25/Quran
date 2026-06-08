@@ -276,6 +276,17 @@ This Hadith has many chains of narration collected in the Sahihs and other colle
 
 وَطَلْحٍ مَّنضُودٍ (and the trees of tulh, having layers one upon the other - 28:29). The word talh refers to 'banana tree' and mandud means 'clustered', fruits piled on top of each other as in a bunch of bananas.
 
+## AI Translation
+
+clustered bananas piled in abundance,
+
+## AI Tafsir
+
+**What this ayah teaches:** The word talh refers to 'banana tree' and mandud means 'clustered', fruits piled on top of each other as in a bunch of bananas.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "Nothing will prevent them from reaching out to get these fruits, no branches, thorns or distance." We mentioned a Hadith before that states that whenever someone takes a fruit in Paradise, another one grows in its place. The word talh refers to 'banana tree' and mandud means 'clustered', fruits piled on top of each other as in a bunch of bananas.
+
+**From the Sunnah:** Paradise the shade of which a rider would take one hundred years to pass. (Sahih al-Bukhari, Sahih Muslim) Paradise, the believer will be given such and such strength for women.
 ## Personal Reflections
 
 

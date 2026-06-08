@@ -114,6 +114,17 @@ That commitments should be fulfilled has been stressed in the Qur'an and Sunnah 
 
 And a grievous punishment shall await them.
 
+## AI Translation
+
+Absolutely! Those who honour their trusts and shun evil—surely Allah loves those who live with taqwa.
+
+## AI Tafsir
+
+**What this ayah teaches:** Among the People of the Scripture is he who, if entrusted with a Qintar (a great amount of wealth), will readily pay it back; and among them there is he who, if entrusted with a single silver coin, will not repay it unless you constantly stand demanding, because they say: "There is no blame on us to betray and take the properties of the illiterates (Arabs)." But they tell a lie against Allah while…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** one who usurps the right of a Muslim under false oath makes the fire of Hell compulsory for himself. (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -126,6 +126,17 @@ In the same verse (12), it was said: إِنَّهُمْ لَا أَيْمَان�
 
 At the end of verse 12, it was said: لَعَلَّهُمْ يَنتَهُونَ (so that they may stop). This last sentence tells us that the objective of Jihad carried out by Muslims should never be the conquest of countries like common kings or to hurt the enemy and to take vengeance as belligerent people around the world would love to do. Instead of doing anything like that, when it comes to fighting that they must, the driving objective should be compassion for the enemy, the empathy and the desire that they would stop doing what was not right.
 
+## AI Translation
+
+But if they break their oaths after making a pledge and attack your faith, then fight the champions of rejection of the truth—who never honour their oaths—so perhaps they will desist.
+
+## AI Tafsir
+
+**What this ayah teaches:** Honest critical study of Islam by Protected Non-Muslim Citizens of Dar al-Islam is possible - vilification is not Some commentators have interpreted the words: (speak evil of your faith) to mean that speaking evil of the Faith of Muslims is included under contravention of pledge.
+
+**Classical tafsir:** Ibn Kathir notes: Some commentators say that ` leaders of infidelity' at this place refers to the chiefs of the tribe of Quraysh in Makkah who kept on instigating people against Muslims and remained busy making war preparations.
+
+**From the Sunnah:** And in the 11th verse it was announced that, despite having broken their solemn covenant, if these Mushriks become Muslims and start expressing their faith in Islam through prayers and fasting, then, Muslims are duty-bound to keep their present dealings with t… Some commentators say that ` leaders of infidelity' at…
 ## Personal Reflections
 
 

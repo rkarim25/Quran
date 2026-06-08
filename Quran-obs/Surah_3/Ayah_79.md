@@ -194,6 +194,17 @@ The verse implies that a person whom Allah invests with the Book, the Wisdom and
 
 In this, there is the necessary refutation of the Christians who claimed that it was Masih (علیہ السلام) who asked them to have belief in his sonship and godhead. Also chastised were the Muslims who had gone to the Holy Prophet . ﷺ trying to find out if it was all right for them to prostrate before him rather than greet him with the usual سلام salam. Also admonished were the people of the Book who had invested their rabbis and monks with the station of God. Refuge with Allah! (Tafsir ` Usmani)
 
+## AI Translation
+
+It is not appropriate for someone who Allah has blessed with the Scripture, wisdom, and prophethood to say to people, “Worship me instead of Allah.” Rather, he would say, “Be devoted to the worship of your Rabb ”—in accordance with what these prophets read in the Scripture and what they taught.
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you (O Muhammad ﷺ) but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me".)[21:25],
+
+**What this ayah teaches:** The infallibility of the Prophets The verse implies that a person whom Allah invests with the Book, the Wisdom and the power of making decisions, and places him on the great station of prophethood is always faithful to his mission when he communicates the Divine message to people and calls on them to be-come His faithful servants.
+
+**Classical tafsir:** Ibn Kathir notes: This criticism refers to the ignorant rabbis, priests and teachers of misguidance, unlike the Messengers and their sincere knowledgeable followers who implement their knowledge; for they only command what Allah commands them, as their honorable Messengers conveyed to them.
 ## Personal Reflections
 
 

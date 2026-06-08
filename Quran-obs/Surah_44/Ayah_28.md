@@ -172,6 +172,17 @@ Ibn Jarir recorded that Sa'id bin Jubayr said, "A man came to Ibn 'Abbas, may Al
 
 وَأَوْرَ‌ثْنَاهَا قَوْمًا آخَرِ‌ينَ And We made other people inherit all this." (44:28) In Surah Shu'ara', it is explicitly stated that 'other people' refers to the Children of Israel. It is objected that there is no historical evidence to show that the Children of Israel ever settled again in Egypt. This objection has been rebutted in Surah Shu` ara'.
 
+## AI Translation
+
+So it was. And We awarded it all to another people.
+
+## AI Tafsir
+
+**Context:** And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid (of drowning in the sea). (20:77)
+
+**What this ayah teaches:** This refers to the clear signs and definitive evidence with which Allah sent him. Destroy their wealth, and harden their hearts, so that they will not believe until they see the painful torment." Allah said: "Verily, the invocation of you both is accepted.
+
+**Classical tafsir:** Ibn Kathir notes: This refers to the clear signs and definitive evidence with which Allah sent him.
 ## Personal Reflections
 
 

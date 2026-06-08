@@ -141,6 +141,17 @@ Ruling
 
 There are four 'sacred months': Dhul-Qa'dah, Dhul-Hijjah, Muharram which are consecutive and the fourth is Rajab. Even before Islam, fighting in these months was considered unlawful and the disbelievers of Makkah too used to observe their sanctity. Even in the early days of Islam, right through the year 7 A.H., this law was in force which is why the noble Companions were perplexed. Later, according to the consensus of the Ummah, this unlawfulness of fighting was abrogated and the permission to fight was given, but it is still preferable not to initiate fighting in these four months without the need to defend. Therefore, it can be said that the sanctity of the 'sacred months' has not been abrogated totally, but it holds good like the sanctity of Haram. Both of them have been subjected to an exception for the sake of defence.
 
+## AI Translation
+
+A sacred month for a sacred month, and violations demand equal retaliation. Whoever aggresses against you, retaliate in the same measure. Live with taqwa, and know that Allah is with those who live with taqwa.
+
+## AI Tafsir
+
+**What this ayah teaches:** The sacred month is for the sacred month, and for the prohibited things, there is the Law of equality (Qisas).
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, it can be said that the sanctity of the 'sacred months' has not been abrogated totally, but it holds good like the sanctity of Haram.
+
+**From the Sunnah:** Then, the idolators prevented him from entering the Sacred House (the Ka'bah in Makkah) along with the Muslims who came with him. Hence, when the Prophet ﷺ was told that 'Uthman was killed (in Makkah) when he was camped at the area of Al-Hudaybiyyah, after he had sent 'Uthman as his emissary to the polytheists, he accepted the pledge from his Companions under the tree to fight the polyth…
 ## Personal Reflections
 
 

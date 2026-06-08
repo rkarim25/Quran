@@ -60,6 +60,15 @@ After the miraculous victory of the Israelites over Pharaoh and his people, and 
 
 The next verses remind them of their pitiable condition and their persecutions at the hands of Pharaoh when their sons were killed and their daughters were saved to serve them as their maid-servants. Allah relieved them of this disgraceful chastisement through His prophet. Shall they be as ungrateful to their Lord as to take the abject stones as gods and make them partners with Allah? They must repent to Allah for their transgression.
 
+## AI Translation
+
+He added, “Shall I seek for you a god other than Allah, while He has honoured you above the others?”
+
+## AI Tafsir
+
+**What this ayah teaches:** How could he think of making for them a Allah other than Allah while he had given to them excellence over the people of all the worlds. Shall they be as ungrateful to their Lord as to take the abject stones as gods and make them partners with Allah?
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

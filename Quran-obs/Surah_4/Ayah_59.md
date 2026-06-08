@@ -232,6 +232,17 @@ This 'reverting back to Allah and the Messenger' takes two forms:
 
 The words of the expression: فَرُدُّہ (revert it back) are general, thus being inclusive of both forms.
 
+## AI Translation
+
+O you who have iman! Obey Allah and obey the Messenger and those in authority among you. Should you disagree on anything, then refer it to Allah and His Messenger, if you believe in Allah and the Last Day. This is the best and fairest resolution.
+
+## AI Tafsir
+
+**Context:** (Obey Allah and obey the Messenger, and those of you who are in authority.) "Was revealed about 'Abdullah bin Hudhafah bin Qays bin 'Adi, who the Messenger of Allah ﷺ sent on a military expedition." This statement was co…
+
+**What this ayah teaches:** Mujahid and several others among the Salaf said that the Ayah means, "(Refer) to the Book of Allah and the Sunnah of His Messenger." This is a command from Allah that whatever areas the people dispute about, whether major or minor areas of the religion, they are required to refer to the Qur'an and Sunnah for judgment concerning these disputes.
+
+**Classical tafsir:** Ibn Kathir notes: [42:10] Therefore, whatever the Book and Sunnah decide and testify to the truth of, then it, is the plain truth.
 ## Personal Reflections
 
 

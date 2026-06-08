@@ -180,6 +180,15 @@ Commentary
 
 The infidels of Makkah believed that it is Allah who has created the whole universe, but they deemed it impossible that the people will be resurrected after they once die. The present verses have described the fallacy of their view. It is stated that repeating the process of creation is much easier than its origination. It is strange that these infidels do believe that Allah has originated the creation, but they deny His power to do it again, while the latter is easier than the former. Then verse 20 has induced them to look around them to appreciate the splendors of the creation, so that they may apprehend that the One who has originated this marvelous creation can easily repeat the process. After establishing the Resurrection, the last three verses describe the punishment for those who deny it.
 
+## AI Translation
+
+He told them: You took idols instead of Allah only to preserve worldly harmony among yourselves. On Judgment Day you will disown and curse one another. Your home is the Fire, and you have no helper.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then verse 20 has induced them to look around them to appreciate the splendors of the creation, so that they may apprehend that the One who has originated this marvelous creation can easily repeat the process. So nothing was the answer of people except that they said: "Kill him or burn him." Then Allah saved him from the fire.
+
+**Classical tafsir:** Ibn Kathir notes: Then verse 20 has induced them to look around them to appreciate the splendors of the creation, so that they may apprehend that the One who has originated this marvelous creation can easily repeat the process.
 ## Personal Reflections
 
 

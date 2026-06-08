@@ -130,6 +130,15 @@ Commentary
 
 The word: عوج ('iwaj) in: وَلَمْ يَجْعَل لَّهُ عِوَجًا (and allowed no crookedness in it - 1) means crookedness of any kind, or inclination towards one side or deviation from the norms of rectitude. The Holy Qur'an remains pure and free of all that in terms of the perfection of its words and meanings. It simply admits of no distortion anywhere, either in eloquence or in knowledge and wisdom. The sense which has been conveyed in a negative or eliminative form through: ` وَلَمْ يَجْعَل لَّهُ عِوَجًا (and allowed no crookedness in it) has been fortified positively through the word: قَيِّمًا (qayyima) which follows immediately for emphasis. The reason is that this word carries the sense of: مُستَقِیمَا (mustaqima) and that which is: مُستَقِیم (mustaqim: straightforward, straight, upright) will not have the least crookedness or tilt towards any side. However, قَیَّم (qayyim) can also have another sense, that of caretaker, custodian and protector. Given this probability, the sense of the expression would be that the Qur’ an, while perfect in itself as free from all kinds of excess, deficiency and crookedness, keeps others upright, firm and unflinching and protects the inter-ests and advantages of all servants of Allah. Thus the gist of the two expressions would be that the Holy Qur'an stands perfect in itself and has the ability to make men and women created by Allah become equally perfect. (Mazhari)
 
+## AI Translation
+
+Now, perhaps you O Prophet will grieve yourself to death over their denial, if they continue to reject the truth in this message.
+
+## AI Tafsir
+
+**What this ayah teaches:** Perhaps, you would kill yourself in grief, over their footsteps, because they believe not in this narration (6)Verily, we have made that which is on earth an adornment for it, in order that We may test which of them are best in deeds (7)And verily, We shall make all that is on it bare, dry soil .
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said: "a dry and barren plain." Qatadah said, "A plain on which there are no trees or vegetation."
 ## Personal Reflections
 
 

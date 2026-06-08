@@ -154,6 +154,17 @@ The report of al-Siyar al-Kabir from Imam Abu Hanifah (رح) could also be inten
 
 1. Some more detail about the war-prisoners will appear in the commentary of Surah Muhammad insha-allah. (Editor)
 
+## AI Translation
+
+So consume what you have taken as lawful and good, and live with taqwa toward Allah. Surely Allah is All-Forgiving, the Rahim whose special mercy is reserved for believers in the Akhirah.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, Allah is Most-Forgiving, Very-Merciful - 69).
+
+**Classical tafsir:** Ibn Kathir notes: In his Sunan, Imam Abu Dawud recorded that Ibn 'Abbas said that the Messenger of Allah ﷺ fixed four hundred (Dirhams) in ransom from the people of Jahiliyyah in the aftermath of Badr.
+
+**From the Sunnah:** Cut off their necks,' but the Prophet ﷺ turned away from him. Umar again stood up and said, 'O Allah's Messenger!
 ## Personal Reflections
 
 

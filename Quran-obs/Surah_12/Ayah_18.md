@@ -142,6 +142,15 @@ Al-Mawardi has said: The legendary shirt of Yusuf (علیہ السلام) is a w
 
 According to Al-Qurtubi, it proves that an error of opinion can be committed by the highest of the high. Therefore, every man or woman of opinion should take his or her opinion as suspect, and should not become so rigid about it as not to be ready to listen or entertain what others have to say.
 
+## AI Translation
+
+And they brought his shirt, stained with false blood. He responded, “No! Your souls must have tempted you to do something evil. So I can only endure with beautiful sabr — steadfast endurance that keeps you upright! It is Allah’s help that I seek to bear your claims.”
+
+## AI Tafsir
+
+**What this ayah teaches:** But, they forgot to tear the shirt, and this is why Allah's Prophet Ya'qub did not believe them.
+
+**Classical tafsir:** Ibn Kathir notes: The first of them turned out to be true; the other was not - because, in this, the brothers were not to be blamed.
 ## Personal Reflections
 
 

@@ -268,6 +268,17 @@ That is an enjoyment of the worldly life. And with Allah lies the beauty of the 
 
 In other words, it means that all these things are there simply to serve a purpose in man's mortal life in the present world and certainly not to have him fall in love with things for their own sake, for the real beauty of the experience lies in one's ultimate resort with Allah in blissful eternity enjoying what would never perish, diminish or weaken.
 
+## AI Translation
+
+The enjoyment of desires—women, children, treasures of gold and silver, fine horses, cattle, and fertile land—has been made appealing to people. These are the pleasures of this worldly life, but with Allah is the finest destination.
+
+## AI Tafsir
+
+**What this ayah teaches:** When the purpose for having children is to reproduce and increase the Ummah of Muhammad ﷺ with those who worship Allah alone without partners, then it is encouraged and praised.
+
+**Classical tafsir:** Ibn Kathir notes: Scholars of Tafsir have conflicting opinions about the amount of the Qintar, all of which indicate that the Qintar is a large amount of money, as Ad-Dahhak and other scholars said.
+
+**From the Sunnah:** A'ishah, may Allah be pleased with her, said, "Nothing was more beloved to the Messenger of Allah ﷺ than women, except horses," and in another narration, "...than horses except women." Now, in these verses the text explains the reason why the those who reject the truth indulge in hostility against Islam and Muslims.
 ## Personal Reflections
 
 

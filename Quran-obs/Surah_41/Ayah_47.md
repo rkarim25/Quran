@@ -211,6 +211,15 @@ Then Allah says:
 
 أُولَـٰئِكَ يُنَادَوْنَ مِن مَّكَانٍ بَعِيدٍ (Such people are being called from a distant place. - 44) This is a similitude. A person who understands what is being said, the Arabs say to him, اَنتَ تسمَعُ مِن قَرِیب (you are listening from a near place) and if a person does not understand the discourse, they say to him اَنتَ تُنَادٰی مِن بَعِید (you are being called from a distant place) (Qurtubi). The meaning is that since these people do not intend to listen and to understand the directions of the Qur'an, their ears are almost deaf and their eyes are blind, therefore teaching them the Qur'anic guidance is like calling someone from such a distant place that the voice does not reach his ears.
 
+## AI Translation
+
+With Him alone is the knowledge of the Hour. No fruit comes out of its husk, nor does a female conceive or deliver without His knowledge. Consider the Day He will call to them, "Where are My so-called associate-gods?" They will cry, "We declare before you that none of us testifies to that any longer."
+
+## AI Tafsir
+
+**What this ayah teaches:** Whosoever does righteous good deed, it is for himself; and whosoever does evil, it is against himself.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore ` ajamiyy is a person who is non-Arab, even though he may speak eloquently, and a'jamiyy is a person who cannot speak eloquently (Qurtubi).
 ## Personal Reflections
 
 

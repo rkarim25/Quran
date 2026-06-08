@@ -124,6 +124,17 @@ Allah, the Exalted, says to His Prophet ﷺ concerning these stories and their l
 
 To console the Holy Prophet ﷺ ، it was said at the end of the verse that there were so many open proofs to the fact that he was a prophet and messenger of Allah. If there were some unfortunate human beings that see the sun yet insist that they do not, even challenge him and confront him, then, he should look at the role model of his predecessor, Sayyidna Nuh (علیہ السلام) ، peace on him. He spent one thousand years of his long life suffering from pain inflicted by his people. He remained patient. Let him stay as patient as he was - because, it stands determined that success will ultimately kiss the hands of those patient and God-fearing.
 
+## AI Translation
+
+This is one of the stories of the unseen, which we reveal to you O Prophet. Neither you nor your people knew it before this. So be patient! Surely the ultimate outcome belongs only to the righteous.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, the (good) end is for those who have Taqwa (49).
+
+**Classical tafsir:** Ibn Kathir notes: This is so that no one who rejects you can say that you learned it from him.
+
+**From the Sunnah:** Allah revealed it to you (the Prophet ﷺ) in the way that it occurred, as if he witnessed it himself.
 ## Personal Reflections
 
 

@@ -120,6 +120,15 @@ Ibn Zayd said, "The Shawa is the marrow of the bones." As for,
 
 وَلَا يَسْأَلُ حَمِيمٌ حَمِيمًا يُبَصَّرُ‌ونَهُمْ (and no friend will ask about any friend, (though) they will be made to see each other....70:10, 11). The word hamim means a 'sincere friend'. The context describes the horrors of the Day of Resurrection. On that Day, no bosom friend will inquire about his friend - let alone helping him. This is not because they will not be able to see each other. The Divine power, in fact, will make them see each other. Every person will be in a state of 'each for himself. No person will be able to pay heed to the comfort or discomfort, pleasure or pain of others.
 
+## AI Translation
+
+No close friend will ask about their friends—
+
+## AI Tafsir
+
+**What this ayah teaches:** This is because they were, as Allah said, of those who turned their backs and turned away. This means they denied with their hearts and abandoned the performance of deeds with their limbs.
+
+**Classical tafsir:** Ibn Kathir notes: This means they denied with their hearts and abandoned the performance of deeds with their limbs.
 ## Personal Reflections
 
 

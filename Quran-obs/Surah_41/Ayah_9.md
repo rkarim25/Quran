@@ -295,6 +295,17 @@ The narration of Sayyidna Ibn ` Abbas ؓ quoted above from Ibn Jarir has also an
 
 Briefly, of all the ahadith wherein the duration, days and sequence of creation of the earth and skies is narrated, no narration is such which can be said to be as absolutely certain as the Qur'an. Rather, it is very likely that these may be Israelite traditions, not noble ahadith, as clarified by Ibn Kathir about the Hadith quoted in Sahih of Muslim and Nasa'i. Therefore conclusions should be drawn from the verses of the Qur'an only. The one thing found absolutely certain from the verses of the Qur'an collectively is that the earth, the skies and whatever is inside them were created in six days only. The other thing found from the verses of Surah Ha Meem Sajdah is that the creation of the earth, its mountains, trees, etc. took full four days. The third thing found is that the creation of skies took two days - it is not clarified whether it took two full days. There is some indication that two full days were not used and some part of the last day, being Friday, was left unused. It appears from these verses that it took four days for the creation of the earth and the remaining two days for the creation of the skies, the earth having been created first. But the verse of Surah Nazi` at states clearly that the laying out of the earth and its completion took place after the creation of the skies. Therefore the sequence stated above, with reference to Bayan-ul-Qur'an, that the creation of the earth took place in two stages, is not beyond reason. In the first two days, the earth and the matter for mountains, etc. were created, in the next two days the skies were created, and in the last two days the laying out of the earth and the creation of the mountains, trees rivers, springs etc. was completed. In this way the four days of the creation of the earth were not continuous. As for the sequence mentioned in the present verse of Surah Ha Meem Sajdah, it is stated first that the creation of the earth took place in two days: خَلَقَ الْأَرْ‌ضَ فِي يَوْمَيْنِ (the One who has created the earth in two days, - 41:9), then after giving a reprimand to the mushrikin,
 
+## AI Translation
+
+Ask them: "How can you reject the One Who created the earth in two Days? How can you set up equals with Him? He is the Lord of all worlds."
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah says that He created the earth first, because it is the foundation, and the foundation should be built first, then the roof.
+
+**Classical tafsir:** Ibn Kathir notes: And the mountains He has fixed firmly, (to be) a provision and benefit for you and your cattle.)(79:27-33) This Ayah states that the spreading out of the earth came after the creation of the heavens, but the earth itself was created before the heavens according to some texts.
+
+**From the Sunnah:** This was the response of Ibn 'Abbas, may Allah be pleased with him, as recorded by Al-Bukhari in his Tafsir of this Ayah in his Sahih. (Sahih al-Bukhari) The commencement of creation took place on Saturday according to a Hadith narrated by Sayyidna Abu Hurairah, reported in Sahih of Muslim. (Sahih Muslim)
 ## Personal Reflections
 
 

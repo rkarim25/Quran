@@ -202,6 +202,17 @@ The style of expression used here is that of a welcome news flash - that one hun
 
 The encounter at Badr was the very first battle Muslims had ever fought. At that time, they were in a terrible condition. The total number of Muslims itself was insignificant. Then, all of them had not gone to the war front. The hard fact was that only those who could get ready on the spot were the ones who became the 'army' of this war. Therefore, in this Jihad, one hundred Muslims were commanded to confront one thousand disbelievers in a style which carried the promise of Divine help and support.
 
+## AI Translation
+
+O Prophet: rouse the believers to fight. If there are twenty steadfast among you, they will overcome two hundred. If there are a hundred, they will overcome a thousand of those who reject the truth, because they are a people who do not understand.
+
+## AI Tafsir
+
+**Context:** The Ayah says, one Muslim should endure ten those who reject the truth. Allah abrogated this part later on, but the good news remained.
+
+**What this ayah teaches:** If there are twenty steadfast persons among you, they will overcome two hundred, and if there be a hundred steadfast persons they will overcome a thousand of those who disbelieve, because they (the those who reject the truth) are people who do not understand (65)Now Allah has lightened your (task), for He knows that there is weakness in you.
+
+**Classical tafsir:** Ibn Kathir notes: If there are twenty steadfast persons among you, they will overcome two hundred, and if there be a hundred steadfast persons they will overcome a thousand of those who disbelieve, because they (the those who reject the truth) are people who do not understand (65)Now Allah has lightened your (t…
 ## Personal Reflections
 
 

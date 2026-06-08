@@ -140,6 +140,17 @@ The sentence: فَزَادَتْهُمْ إِيمَانًا (they have been incr
 
 Sayyidna ` Ali ؓ has said, ` when 'Iman enters the heart, it is like a radiant dot. As 'Iman increases, its radiance increases, until the whole heart becomes blissfully radiant. Similarly, disbelief and hypocrisy start appearing on the heart first as a black dot. Then, with every increase in sin and disbelief, the dot keeps increasing in size until the whole heart turns black.' (Mazhari). For this reason, the noble Companions of the Holy Prophet ﷺ used to tell each other, ` let us sit together for a while and remind each other of things relating to our din دِین and 'akhirah so that it increases our 'Iman.'
 
+## AI Translation
+
+Whenever a sûrah is revealed, some of them ask, “Which of you has this increased in faith?” As for those who have iman, it has increased them in faith and they rejoice.
+
+## AI Tafsir
+
+**Context:** Previous verses carried inducement to Jihad. The first verse from the present ones (123) which opens with the words: يَا أَيُّهَا الَّذِينَ آمَنُوا قَاتِلُوا ( O those who believe, fight those those who reject the truth who are near y…
+
+**What this ayah teaches:** And whenever there comes down a Surah, some of them (hypocrites) say: "Which of you has had his faith increased by it" As for those who believe, it has increased their faith, and they rejoice (124)But as for those in whose hearts is a disease, it will add Rijs (doubt) to their Rijs (doubt); and they die while they are those who reject the truth .
+
+**Classical tafsir:** Ibn Kathir notes: He carried out the command by assembling people from his family and conveyed to them the Word of Allah as revealed to him.
 ## Personal Reflections
 
 

@@ -184,6 +184,17 @@ Similarly, says Sayyidna Ka’ b ibn Malik ؓ ‘when the Holy Prophet ﷺ had t
 
 On occasions of good cheer and Iight humor too, tauriyah stands proved from the Holy Prophet ﷺ . According to narration from the Shama'il of Tirmidhi, the Holy Prophet ﷺ humorously said to an old woman, "No old woman will go to Paradise." That woman became very anxious. Then he explained that he meant that the old women will not go Paradise in the state of their old age - yes, they will go there after having turned young.
 
+## AI Translation
+
+He later looked up to the stars in contemplation,
+
+## AI Tafsir
+
+**What this ayah teaches:** It was in this state of indecision that he, quite involuntarily, cast a glance towards the stars and, only after that, came his response. This explanation of casting a glance towards the stars apparently seems to be cloudless.
+
+**Classical tafsir:** Ibn Kathir notes: Ibrahim, peace be upon him, said this to his people so that he could stay behind in the city when they went out for their festival.
+
+**From the Sunnah:** Ibn Jarir narrated here a Hadith from Abu Hurayrah, may Allah be pleased with him, stating that the Messenger of Allah ﷺ said: The former is more apparent because of the report recorded by Al-Bukhari in the Book Af'al Al-'Ibad from Hudhayfah, attributed to the Prophet ﷺ: (Sahih al-Bukhari)
 ## Personal Reflections
 
 

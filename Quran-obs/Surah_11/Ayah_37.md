@@ -133,6 +133,17 @@ From here we also learn that industries devoted to essential human needs are so 
 
 Soon after instructing Sayyidna Nuh (علیہ السلام) how he would make an ark, he was told that a flood would come and his people will be drowned and that, at the time, he was not to intercede out of compassion on their behalf.
 
+## AI Translation
+
+And build the Ark under Our watchful Eyes and directions, and do not plead with Me for those who have done wrong, for they will surely be drowned.”
+
+## AI Tafsir
+
+**Context:** And it was revealed to Nuh: "None of your people will believe except those who have believed already. So be not sad because of what they used to do (36)"And construct the ship under Our Eyes and with Our revelation, and…
+
+**What this ayah teaches:** Therefore, the greatest inventor of moving vehicles is the person who invented the wheel that is the life and soul of a lot of machines. He had used wood from the saul tree (shorea robusta) to build this ark.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the greatest inventor of moving vehicles is the person who invented the wheel that is the life and soul of a lot of machines.
 ## Personal Reflections
 
 

@@ -491,6 +491,17 @@ Then the other question -- when the Holy Prophet ﷺ had already ruled three div
 
 Now that all doubts have been removed, let Allah be praised. The purpose here does not warrant going into comprehensive and exhaustive details on the subject of three talaqs. That appears in extensive details in Hadith commentaries and several ` ulama have explained it in detailed treatises. Here, this much is sufficient to understand the subject. And Allah is our supporter and helper.
 
+## AI Translation
+
+If he divorces her a third time, she is not lawful to him until she marries another husband and is divorced from him. Then it is lawful for them to reunite if they believe they can keep within Allah's limits. These are Allah's limits — He makes them clear for people who know.
+
+## AI Tafsir
+
+**Context:** Ibn Jarir said that the Ayah (2:229) was revealed about Thabit bin Qays bin Shammas and his wife Habibah bint 'Abdullah bin Ubayy bin Salul.
+
+**What this ayah teaches:** In accordance with the dictates of this principle, the false steps taken., such as, the ignoring of concessions given by the Shari'ah and shooting upto three talaqs unnecessarily, bypassing all choices of talaq one has, no doubt, became a cause of anger for the Holy Prophet ﷺ as stated in the previous report, and for this reason, this act was considered ` undesirable' by the co…
+
+**Classical tafsir:** Ibn Kathir notes: And whoever transgresses the limits ordained by Allah, then such are the wrongdoers.) This means that the laws that Allah has legislated are His set limits, so do not transgress them.
 ## Personal Reflections
 
 

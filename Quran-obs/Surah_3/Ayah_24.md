@@ -106,6 +106,15 @@ While dealing with the subject of Jews, as in verses 21-22, the text goes on to 
 
 Jews contended that they had worshipped the calf for 40 days and so they will incur punishment, if any, for the same period only.
 
+## AI Translation
+
+This is because they say, “The Fire will not touch us except for a few days.” They have been deceived in their faith by their wishful lying.
+
+## AI Tafsir
+
+**What this ayah teaches:** But they elect to be in-different because they say and believe that the fire of Hell will not touch them except for a few days, after which, according to their supposition, they would be forgiven. They are being invited to the Book of Allah to settle their dispute, then a party of them turned away, and they are averse (23)This is because they say: "The Fire shall not touch us but for a number of d…
+
+**Classical tafsir:** Ibn Kathir notes: Chastising the People of the Book for Not Referring to the Book of Allah for Judgment Allah criticizes the Jews and Christians who claim to follow their Books, the Tawrah and the Injil, because when they are called to refer to these Books where Allah commanded them to follow Muha…
 ## Personal Reflections
 
 

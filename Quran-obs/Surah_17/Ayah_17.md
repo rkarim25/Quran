@@ -100,6 +100,15 @@ The influence of the rich over a people is a natural phenomenon
 
 By particularly mentioning affluent people who use their wealth to pursue a life of luxury, it has been indicated that the masses are naturally affected with the deeds and morals of those rich among them and those who rule over them. When these people get used to misdeeds, the whole nation follows suit and takes to misdeeds (as the only available norm of social survival). Therefore, those who have been blessed with wealth by Allah Ta’ ala should be more concerned with the correction of their deeds and morals - lest they fall into the trap of a luxurious life style, are heedless to self-correction, and make the entire nation go astray because of them. If so, the curse of the misdeeds that issue forth from their nation will fall on them too.
 
+## AI Translation
+
+Imagine how many peoples We have destroyed after Noah! And sufficient is your Rabb as All-Aware and All-Seeing of the sins of His servants.
+
+## AI Tafsir
+
+**What this ayah teaches:** And sufficient is your Lord as All-Knower and Seer of the sins of His servants .
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, those who have been blessed with wealth by Allah Ta’ ala should be more concerned with the correction of their deeds and morals - lest they fall into the trap of a luxurious life style, are heedless to self-correction, and make the entire nation go astray because of th…
 ## Personal Reflections
 
 

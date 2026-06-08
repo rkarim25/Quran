@@ -155,6 +155,15 @@ So we say, just as the believers among the Jinns said, "O Allah! None of Your fa
 
 The word مِيزَانَ mizan has been interpreted variously. In the current verse, scholars like Mujahid, Qatadah, Suddi رحمۃ اللہ علیہم and others interpret it in the sense of 'justice', because that is the purpose of mizan [ scale ]. Other scholars have taken the word in its obvious sense of a piece of equipment used to determine the weights of people or things. This equipment could be a pair of scales, consisting of a bar with a pan or a dish at each end or it may be some modern equipment used for the purpose of measuring and weighing. The ultimate sense of this interpretation in any case is maintaining rights and establishing justice and fair play.
 
+## AI Translation
+
+He raised the sky and set the balance of justice,
+
+## AI Tafsir
+
+**What this ayah teaches:** And the heaven He has raised high, and He has set up the balance.)(8. Having described the high position of the heaven, the Qur'an goes on to describe that Allah has set the balance, but 'placing the scale' vis-a-vis 'raising the heaven' does not seem to form a suitable pair according to the linguistic norm.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "An-Najm (the star); the one that is in the sky." Al-Hasan and Qatadah said similarly. Ibn Jurayj reported that Ibn 'Abbas said said Al-Akmam, means sheathed fruit stalks.
 ## Personal Reflections
 
 

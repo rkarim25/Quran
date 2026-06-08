@@ -224,6 +224,19 @@ While writing these lines, this humble servant of Allah has completed full seven
 
 (Abridged from the detailed note)
 
+## AI Translation
+
+Say: Praise belongs to Allah, who has taken no son, has no partner in dominion, and needs no protector from humiliation. So glorify Him greatly.
+
+## AI Tafsir
+
+**Context:** (And offer your Salah neither aloud) Imam Ahmad reported that Ibn 'Abbas said: "This Ayah was revealed when the Messenger of Allah ﷺ was preaching underground in Makkah." (but follow a way between.)" This was the view of…
+
+**What this ayah teaches:** Praise be-longs to Allah who has neither taken to Him a son, nor is there any partner to Him in His kingdom, nor is anyone (needed) to protect Him because of (any) weakness.
+
+**Classical tafsir:** Ibn Kathir notes: Praise be-longs to Allah who has neither taken to Him a son, nor is there any partner to Him in His kingdom, nor is anyone (needed) to protect Him because of (any) weakness.
+
+**From the Sunnah:** All that is in the heavens and the earth glorify Him.)[59:24] Makhul reported that one of the idolators heard the Prophet ﷺ saying when he was prostrating: "O ar-Rahman, O ar-Rahim." The idolator said, he claims to p…
 ## Personal Reflections
 
 

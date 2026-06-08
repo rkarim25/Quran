@@ -285,6 +285,19 @@ Al-Suddi says that a شھید shahld is informed beforehand when one of his clos
 
 The background of the revelation of this verse as narrated by Abu Dawud on sound authorities from Sayyidna Ibn ` Abbas is as follows. The Holy Prophet said to the noble Companions: 'When your brothers-in-faith fell martyrs at the battle of Uhud, Allah Almighty placed their spirits in the bodies of green birds and set them free. They get their sustenance from the streams and fruit-trees of the Paradise following which they return to special candelabrums held suspending for them underneath the عرش 'throne' ('arsh) of the All-Merciful. When they noticed the luxury of their life there, they said, 'Can anyone tell them (their grieving friends and relatives in the world) about how we live here so that they stop grieving about us and go about striving in Jihad as we did.' Allah Almighty said, 'We shall let them know about this state of yours.' Thereupon, this verse was revealed (Qurtubi).
 
+## AI Translation
+
+Never think of those martyred in the cause of Allah as dead. In fact, they are alive with their Rabb, well provided for— rejoicing in Allah’s bounties and being delighted for those yet to join them. There will be no fear for them, nor will they grieve.
+
+## AI Tafsir
+
+**Context:** Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud. (They rejoice in what Allah has bestowed upon them) indicates that the martyrs who were killed in Allah's cause are alive with…
+
+**What this ayah teaches:** Those who answered (the Call of) Allah and the Messenger after being wounded; for those of them who did good deeds and feared Allah, there is a great reward.)(173.
+
+**Classical tafsir:** Ibn Kathir notes: Nay, they are alive, with their Lord, and they have provision.) Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud.
+
+**From the Sunnah:** He would like to be returned to this life so that he could be martyred again, for he tastes the honor achieved from martyrdom.) Muslim collected this Hadith (Sahih Muslim) Paradise, and some remain close to this river by the door of Paradise.
 ## Personal Reflections
 
 

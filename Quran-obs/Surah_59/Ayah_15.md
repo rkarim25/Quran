@@ -155,6 +155,19 @@ As stated earlier, when the Holy Prophet migrated from Makkah and settled in Mad
 
 The Holy Prophet's ﷺ decision was to have the Jewish men executed. But ` Abdullah Ibn 'Ubayy, the hypocrite, intervened and pleaded to the Holy Prophet ﷺ to pardon them. In the end, it was decided that they should leave the area and go into exile and their belongings would be the spoils falling to the lot of the Muslims. Accordingly, they left Madinah and proceeded to settle in an area called Adhra` at in Syria. In compliance with the law of spoils, one-fifth was retained for Bait-ul-mal [ public treasury ] and the rest of the spoils was disbursed among the fighters. After the battle of Badr, this was the first one-fifth of the booties that was retained for the public treasury. This incident took place on Monday, 15th Shawwal, in the 2nd year of Hijrah - twenty months after the migration.
 
+## AI Translation
+
+They are like those who came before them: they tasted the evil result of their deeds and will suffer a painful punishment.
+
+## AI Tafsir
+
+**Context:** As stated earlier, when the Holy Prophet migrated from Makkah and settled in Madinah, he concluded a peace treaty with the Jewish tribes of Madinah, and of its neighbourhood.
+
+**What this ayah teaches:** The False Promise of Support the Hypocrites gave to the Jews Allah states that the hypocrites, 'Abdullah bin Ubayy and his like, sent a messenger to Bani An-Nadir promising them help. That is because they are a people who comprehend not (13)They fight not against you even together, except in fortified townships, or from behind walls.
+
+**Classical tafsir:** Ibn Kathir notes: That is because they are a people who comprehend not (13)They fight not against you even together, except in fortified townships, or from behind walls.
+
+**From the Sunnah:** They only fight when they have to defend themselves (even though they threaten Muslims of reprisals).
 ## Personal Reflections
 
 

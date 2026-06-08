@@ -122,6 +122,17 @@ It is the very subject of these verses that the Holy Prophet has summarized in t
 
 This hadith has been reported by Ibn Majah and al-Tabarani on the authority of Sayyidna Abu Hurairah ؓ .
 
+## AI Translation
+
+Who are patient, sincere, obedient, and charitable, and who pray for forgiveness before dawn.
+
+## AI Tafsir
+
+**What this ayah teaches:** Is there anyone to invoke Me, so that I may respond to his invocation? Out of the rest, children were not mentioned because man loves children during his life in the world as children help and strengthen him in what he does and through them his name lives on.
+
+**Classical tafsir:** Ibn Kathir notes: Is there anyone to invoke Me, so that I may respond to his invocation?
+
+**From the Sunnah:** Paradise will have bricks of gold and silver masoned one after the other.
 ## Personal Reflections
 
 

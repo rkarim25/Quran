@@ -182,6 +182,17 @@ Explanation of Verses in the Light of the Details of the Event
 
 After having heard the details of the event, let us go back to the verses cited above. That it has been said in the first verse (5): وَإِنَّ فَرِ‌يقًا مِّنَ الْمُؤْمِنِينَ لَكَارِ‌هُونَ (while a group from the believers was averse to this Jihad) is actually a hint towards the state of mind which some noble Companions were in while being consulted on the advisability of waging Jihad and to which they seemed to be averse or not courageous enough to undertake it.
 
+## AI Translation
+
+It is like when your Rabb brought you out of your home for a right cause, and a group among the believers resented it—though the truth had already been made clear.
+
+## AI Tafsir
+
+**What this ayah teaches:** Sa'd said, 'We have faith and believed in you, testified that what you brought is the truth, and gave you our pledges and promises of allegiance and obedience.
+
+**Classical tafsir:** Ibn Kathir notes: This is because the majority of the people with him then were the Ansar.
+
+**From the Sunnah:** As your Lord caused you to go out from your home with the truth; and verily, a party among the believers disliked it (5)Disputing with you concerning the truth after it was made manifest, as if they were being driven to death, while they were looking (at it)(6… The people started mobilizing Muslims, although some of them did not mobilize, thinking that the Prophet ﷺ would not have to fight.
 ## Personal Reflections
 
 

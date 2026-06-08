@@ -72,6 +72,15 @@ The story of Sayyidna Musa (علیہ السلام) which is related here begins 
 
 It was a dark and cold night and to add to the misery, his wife began to experience birth pangs. He tried to strike fire with flint but did not succeed. In this state of utter confusion he saw light on the Tur mountain which, in fact, was the Nur (the light symbolizing the truth). So he said to his family, "I have noticed fire. I am going there to bring for you a live coal and I may also find someone who could tell me the way to Egypt." The presence of his wife on the journey is well established. According to some traditions there was a servant with him who is also addressed. Others say that there were some other companions also who were separated when they lost their way. (Al-Bahr ul-Muhit)
 
+## AI Translation
+
+Has the story of Moses reached you O Prophet?
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, he settled down, making a camp between some mountain passes and mountains that were covered with snow, sleet, dense clouds, darkness and fog. A Discussion of the Message of Musa From this point, Allah begins to mention the story of Musa, how revelation began to come to Him, and Allah's speaking directly to him.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, he settled down, making a camp between some mountain passes and mountains that were covered with snow, sleet, dense clouds, darkness and fog.
 ## Personal Reflections
 
 

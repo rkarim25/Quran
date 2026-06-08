@@ -165,6 +165,17 @@ Commentary
 
 اَلحَمدُ للہ Today on Shawwal 24, 1391 Hijrah the commentary of Surah An-Naml is complete. The Indian army has unleashed full-scale war against Pakistan since Shawwal 14, and its aeroplanes are pounding Karachi heavily. Bombs are being dropped regularly every night on civil population as well. There is a complete blackout at nights. The houses get jolted with the explosion of the bombs. But by the grace of Allah there was no break in the writing of this commentary. During the last ten days of war twenty pages of the commentary were written.
 
+## AI Translation
+
+Say, O Prophet, “I have only been commanded to worship the Rabb of this city of Mecca, Who has made it sacred, and to Him belongs everything. And I am commanded to be one of those who fully submit to Him,
+
+## AI Tafsir
+
+**What this ayah teaches:** And your Lord is not unaware of what you do.
+
+**Classical tafsir:** Ibn Kathir notes: Word Haram is derived from Tahrim, which means "to prohibit" and also means "complete respect and veneration", and because of this respect and veneration whatever special religious prohibitions are applicable to Makkah and its surrounding land are also included in it.
+
+**From the Sunnah:** It was recorded that Imam Ahmad, may Allah have mercy upon him, used to recite the following two lines of verse, whether they were written by him or someone else: "If you are alone one day, do not say, 'I am alone.' Rather say, 'Someone is watching me.' Do not… (Musnad Ahmad)
 ## Personal Reflections
 
 

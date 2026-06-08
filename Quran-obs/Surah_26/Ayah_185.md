@@ -122,6 +122,15 @@ And do not make people short of their things - 26:183
 
 What it means is that it is unlawful to reduce any quantity or amount from that which has been contracted with anyone, whether it is a measurable thing or otherwise. Therefore, if a servant or a laborer does not work his full time at his workplace, he too is included in this warning. Imam Malik (رح) has reported a narration in his Muwatta' that Sayyidna ` Umar ؓ noticed that someone did not join in the ` Asr prayer. So, he enquired about the reason for that, to which he offered some excuse. Then Sayyidna ` Umar ؓ said, طَفَّفتَ ` You have reduced in measuring'. As prayer is not something to be measured, hence after quoting this hadith Imam Malik (رح) has said that this command is not restricted to measurable things. Rather, performing any obligation less than due is included in prohibition highlighted in this verse and in Surah "At-tatfif 84".
 
+## AI Translation
+
+They replied, “You are simply bewitched!
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, if a servant or a laborer does not work his full time at his workplace, he too is included in this warning. Indeed that was the torment of a Great Day (189)Verily, in this is indeed a sign, yet most of them are not believers (190)And verily your Lord, He is indeed the All-Mighty, the ar-Rahim .
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, if a servant or a laborer does not work his full time at his workplace, he too is included in this warning.
 ## Personal Reflections
 
 

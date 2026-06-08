@@ -172,6 +172,17 @@ III. Given this meaning, the word, laghw لغو is inclusive of ghamus, which be
 
 As compared to this, the oath that requires kaffarah کَفَّارہ is called mun'aqidah منعقدہ (that which is established, confirmed: fait accompli). For instance, if someone intentionally declares on oath to the effect that he or she would or would not perform a certain act, then, acting contrarily requires kaffarah. (Bayan al-Qur'an)
 
+## AI Translation
+
+Allah will not hold you accountable for careless oaths, but He will hold you accountable for what your hearts intended. Allah is All-Forgiving, Most Forbearing.
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah is All-Hearer, All-Knower (i.e., do not swear much and if you have sworn against doing something good then give an expiation for the oath and do good)(224)Allah will not call you to account for that which is unintentional in your oaths, but He will call you to account for that which your hearts have earned.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the Prophet ﷺ ordered them to intentionally recite the slogan of Ikhlas, just as they mentioned these words by mistake, so that it (the word of Ikhlas) may eradicate the word (of Shirk).
+
+**From the Sunnah:** This is how Muslim reported this Hadith and also Imam Ahmad. (Sahih Muslim, Musnad Ahmad) Suporting this view, which is the majority view, is what is reported in the Two Sahihs that Abu Musa Al-Ash'ari narrated that Allah's Messenger ﷺ said:
 ## Personal Reflections
 
 

@@ -158,6 +158,15 @@ Said in the sixth verse (49) is: أَهَـٰؤُلَاءِ الَّذِينَ �
 
 Explaining this, Sayyidna ` Abdullah ibn ` Abbas ؓ says: When the questions and answers between the people of A` raf and the people of Paradise and Hell both will be over, that will be the time when the Lord of all the worlds will address the people of Hell and tell them about the people of A` raf that they swore that the people of A` raf will not be forgiven their sins and mercy will not be shown to them. Then, there comes an immediate declaration of His mercy when the people of A` raf will be told: Go and enter the Paradise. You should have no fear of what had happened in the past nor should you have any anxiety about the future. (Ibn Kathir)
 
+## AI Translation
+
+The residents of the Fire will then cry out to the residents of Paradise, “Aid us with some water or any provision Allah has granted you.” They will reply, “Allah has forbidden both to those who reject the truth, those who took this faith as mere amusement and play and were deluded by worldly life.” “Today We will ignore them just as they ignored the coming of this Day of theirs and for rejecting Our revelations.”
+
+## AI Tafsir
+
+**What this ayah teaches:** The Favors of paradise are Prohibited for the People of the Fire Allah emphasizes the disgrace of the people of the Fire.
+
+**Classical tafsir:** Ibn Kathir notes: The Favors of paradise are Prohibited for the People of the Fire Allah emphasizes the disgrace of the people of the Fire.
 ## Personal Reflections
 
 

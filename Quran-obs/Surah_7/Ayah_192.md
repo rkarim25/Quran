@@ -165,6 +165,17 @@ Havoc caused by immodesty
 
 It is a pity that, one by one, we are depriving ourselves of all the Islamic manners and values. Firstly, we give our children non Islamic names simply following the fashion of the non-Islamic cultures. In addition, we find that most of the parents abbreviate the names of their children into English initials which makes it all the more difficult to distinguish them as Muslims. specially so, when we have worn the appearance of the non-Muslims, altogether. May Allah favour us with the real understanding of Islam and Islamic values.
 
+## AI Translation
+
+Do they associate those which cannot create anything, but are in fact created; which cannot help them, or even help themselves?
+
+## AI Tafsir
+
+**What this ayah teaches:** The above interpretation, however, clears away any possible doubt even if the story is taken to be authentic.
+
+**Classical tafsir:** Ibn Kathir notes: The verse refers to the generations coming after them who were ungrateful to Allah and involved themselves in Shirk.
+
+**From the Sunnah:** In addition, we find that most of the parents abbreviate the names of their children into English initials which makes it all the more difficult to distinguish them as Muslims.
 ## Personal Reflections
 
 

@@ -250,6 +250,19 @@ An event similar to this happened when Haritha ibn Badr rebelled, left the city 
 
 At this point, it is worth remembering that the waiver in the Islamic Legal Punishment (حَد شَرعی) does not make it necessary that the Rights of the Servants of Allah the criminal has trampled upon will also be forgiven. On the contrary, the fact of the matter is that any-thing valuable taken from anyone, which is still available, must be re-turned back. And if someone was killed or wounded, one is duty-bound to go through the consequences as stipulated under the Law of Qisas (Even Retaliation). However, since Qisas is the Right of the Servant of Allah, it could be forgiven if forgiven by the guardians of the person killed or by the person who holds that Right. Other than that, if someone has hurt someone else financially, it is necessary to vacate the liability (Daman), or have it forgiven by the person concerned. This is the favoured position of Imam Abu Hanifah and that of the majority of the jurists of Islam. A little reflection would show that this is a fairly obvious matter as the act of seeking deliverance from any infringement of the Rights of the Servants of Allah is a part of the act of Taubah (repentance) itself. Taubah without it remains just incomplete. Therefore, a robber or dacoit will be taken as genuinely repentant only when he pays for whatever Rights of the Servants of Allah he has infringed upon, or has it forgiven by them.
 
+## AI Translation
+
+As for those who repent before you seize them, then know that Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**Context:** (Allah is Of-Forgiving, ar-Rahim,) "Were revealed about the idolators. Therefore, the Ayah decrees that, whoever among them repents before you apprehend them, then you have no right to punish them.
+
+**What this ayah teaches:** That is their disgrace in this world, and a great torment is theirs in the Hereafter (33)Except for those who (having fled away and then) came back (as Muslims) with repentance before they fall into your power; in that case, know that Allah is Oft-Forgiving, ar-Rahim .
+
+**Classical tafsir:** Ibn Kathir notes: This view is supported by the fact that the word Aw (or), indicates a choice.
+
+**From the Sunnah:** That is their disgrace in this world, and a great torment is theirs in the Hereafter (33)Except for those who (having fled away and then) came back (as Muslims) with repentance before they fall into your power; in that case, know that Alla…
 ## Personal Reflections
 
 

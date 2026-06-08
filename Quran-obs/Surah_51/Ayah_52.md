@@ -140,6 +140,17 @@ This is the end of the Tafsir of Surat Adh-Dhariyat; all praise is due to Allah 
 
 فَفِرُّ‌وا إِلَى اللَّـهِ (So flee to Allah....51:50). Sayyidna Ibn ` Abbas ؓ said: "It means: Flee from your sins and take shelter in Allah for repentance." Abu Bakr Warraq and Junaid Baghdadi رحمۃ اللہ علیہما said that the base self of man and the devil invite him to commit sins, and they deceive him. He needs to take refuge in Allah who will protect him against their evil. (Qurtubi)
 
+## AI Translation
+
+Every messenger who came to those before them was met with: A magician or a madman!
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, the latter said the same as those before them have said. Nay, they are themselves a people transgressing beyond bounds (53)So turn away from them, you are not blameworthy (54)And remind, for verily, the reminding profits the believers (55)And I created not the Jinn and mankind except that they should worship Me (56)I seek not any provision from them nor do I ask that they should feed Me…
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the latter said the same as those before them have said.
+
+**From the Sunnah:** this Hadith. (Musnad Ahmad, Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

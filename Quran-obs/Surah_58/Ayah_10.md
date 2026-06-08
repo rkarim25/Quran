@@ -220,6 +220,17 @@ Return Good for Evil
 
 It was narrated earlier that one of the evil practices of some of the Jews of Madinah was that when they came to the Messenger of Allah ﷺ ، they greeted him by invoking curses upon him, thus: اَلسَّام عَلَیکُم As-Samu` alaykum' [ death to you!] instead of saluting him with the usual اَلسَّلَام عَلَیکُم 'As-Salamu ` alaykum' [ peace be upon you ]. The word 'As-Sam' means 'death' instead of 'As-Salam' which means 'peace'. The latter word was distorted and pronounced with a little twist of the tongue, which sounded like the former word, but the difference between the two words was so subtle that the Companions ؓ could hardly detect the difference. One day, however, Sayyidah Siddiqah 'A'ishah ؓ detected that the Jews were invoking curses upon the Messenger of Allah ﷺ by saying 'As-Samu ` alaykum' [ death to you!], so she replied: اَلسَّام عَلَیکُم وَ لَعَنَکُمُ اللہُ وَ غَضِبَ عَلَیکُم As-Samu ` alaykum wa la` anakumullah wa ghadiba ` alaykum' [ death to you, and the curse of Allah be on you, and His wrath!]. The Messenger of Allah ﷺ prevented her from this and said: "0 ` A'ishah , Allah does not like rudeness and foul speech." Sayyidah Siddiqah ` A'ishah ؓ said: "0 Messenger of Allah, did you not hear what they said." He said to her: "Did you not hear my answering them back by saying وَعَلَیکُم 'wa ` alaykum' [ same to you ]?" He further said to her 'Allah accepts our supplication against them, but not theirs against us'. This event tells us that even in response to the mischievous words of the infidels, the Muslims should always adopt a soft and noble way.
 
+## AI Translation
+
+Secret plotting is stirred by Satan to grieve the believers—but he cannot harm them except by Allah's permission. So let the believers place their trust in Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** But he cannot harm them in the least, except as Allah permits. When one of the Prophet's Companions would pass by a gathering of Jews, they would speak among themselves in secret, prompting the believer to think that they were plotting to kill or harm him.
+
+**Classical tafsir:** Ibn Kathir notes: The word 'As-Sam' means 'death' instead of 'As-Salam' which means 'peace'.
+
+**From the Sunnah:** The Prophet ﷺ advised them to abandon their evil secret talks, but they did not listen and kept on holding the Najwa. the Jews used to say, "Sam 'Alayka," to Allah's Messenger ﷺ. (Musnad Ahmad)
 ## Personal Reflections
 
 

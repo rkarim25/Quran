@@ -106,6 +106,15 @@ Allah sends the winds as heralds of glad tidings, i.e., they bring the clouds be
 
 وَلَقَدْ صَرَّ‌فْنَاهُ بَيْنَهُمْ (And We have distributed it (the water) among them - 25:50). The verse says that We keep rotating the rainfall, that is, it sometimes falls in one locality and sometimes in another. Then sometimes a locality receives in one year more rain and in subsequent years less. Sayyidna ` Abdullah Ibn ` Abbas ؓ says that the presumption of some people that the quantity of rains varies from year to year is not really correct. In fact the aggregate amount of water sent down to the world (at macro-level) is equal every year. However, according to Allah's will, its allocation for different territories may change from year to year. Sometimes the quantity of water is curtailed for a specific habitation as a punishment and warning for it, and sometimes the quantity of rain is increased for a particular population, again as a punishment for their misdeeds. Thus the water that was a blessing in its origin turns into a torment for the people who are ungrateful and disobedient.
 
+## AI Translation
+
+We certainly disperse it among them so they may be mindful, but most people persist in ungratefulness.
+
+## AI Tafsir
+
+**What this ayah teaches:** And it is He Who sends the winds as heralds of glad tidings, going before His mercy; and We send down pure water from the sky (48)That We may give life thereby to a dead land, and We give to drink thereof many of the cattle and men that We have created (49)And indeed We have distributed it among them in order that they may remember the grace of Allah, but most men refuse (out of) gratitude .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

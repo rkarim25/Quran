@@ -124,6 +124,15 @@ Allah sends the winds as heralds of glad tidings, i.e., they bring the clouds be
 
 When the water is in large quantity as in the case of a pond, pool or a canal, it remains pure even if something filthy has fallen in it. On this point also there is a general consensus, unless the effect of filth is perceptible and the colour, taste and smell of water changes. However, if the quantity of water is small and some filth drops in it, then there is a difference of opinion among the jurists (مُجتھدین) on the nature and quantity of filth as well as the quantity of water in which the filth falls. Details on this issue are described by Mazhari and Qurtubi in their commentaries and are also available in the books on Fiqh.
 
+## AI Translation
+
+And He is the One Who sends the winds ushering in His mercy, and We send down pure rain from the sky,
+
+## AI Tafsir
+
+**What this ayah teaches:** As for the one who said, 'We have been given rain by the mercy and grace of Allah,' he is a believer in Me and a those who reject the truth in the stars.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -256,6 +256,19 @@ Even the polytheists of that period were better than the disbelievers of today
 
 Modern day materialistic disbelievers already deny the very existence of Allah Ta’ ala and would not demur when making audacious remarks against Him. Kufr or disbelief is now an imported stuff. Take the kufr that is imported from Europe. It may come in different colors and shades, like capitalism and communism. Yet, there is a common denominator. God forbid, they hold, nothing like God exists. We are masters of our destiny. There is no one to question us as to what we are doing. Terrible ingratitude indeed! As a consequence, peace has disappeared from the whole world. Ever-new gadgets of comfort proliferate, but real comfort remains missing. Advancements in health care have never been at a level they are today, but there is a matching abundance of diseases hitherto unheard of. Security arrangements, police, guards, surveillance abound, but the graph of crime keeps rising. This craze for new instrumentation and gadgetry and this relentless pursuit of pleasure and comfort through state-of-the-art objects one is being pushed to live with are things, if someone cares to think about it, that have assumed the proportions of a curse for innocent human beings so fondly created by their Maker. As for the punishment of kufr in the Hereafter, it is, as due for all disbelievers, an everlasting stay in the Jahannam. But, one should not forget that this blind ingratitude could not go unaccounted for. The ungrateful person has to undergo some punishment for it within this world for the reason that the ungrateful person used the blessings of Allah even to ride the skies, yet failed to thank Him for it. How apt is the Persian quip: 'In the middle of the house, I forgot the master of the house!'
 
+## AI Translation
+
+Sincere devotion is due only to Allah. As for those who take other lords besides Him, saying, "We worship them only so they may bring us closer to Allah," Allah will judge between all regarding what they differed about. Allah does not guide whoever persists in lying and rejection of the truth.
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I (Allah), so worship Me.")(21:25)
+
+**What this ayah teaches:** This is a conditional sentence which does not imply that this happened or that it is permitted; indeed, it is impossible.
+
+**Classical tafsir:** Ibn Kathir notes: So, worship Allah by doing religious deeds sincerely for Him only.)(3.
+
+**From the Sunnah:** that 'A'ishah, may Allah be pleased with her, said, "The Messenger of Allah ﷺ used to fast until we would say, 'He does not want to break fast,' and he would not fast until we would say, 'He does not want to fast.' And he ﷺ used to recite Bani Isra'il [Al-Isra… (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

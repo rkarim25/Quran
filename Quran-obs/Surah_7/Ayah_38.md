@@ -276,6 +276,15 @@ In other words, what is being said here is that those committing excesses who, d
 
 As for the appointed time not being late or early as stated in this verse, it is a manner of saying, something like saying to a salesperson in a store: at is your last price, more or less? It is obvious that the inquiry is for the lower price, not the higher. But, it is put there as a subordinate suffix. Similarly, the real objective here is to state that there will be no delay after the appointed time. The mention of ` before' along with ` late' makes it closer to common comprehension.
 
+## AI Translation
+
+Allah will say, “Enter the Fire along with the groups of jinn and humans that preceded you.” Whenever a group enters Hell, it will curse the preceding one until they are all gathered inside, the followers will say about their leaders, “Our Rabb! They have misled us, so multiply their torment in the Fire.” He will answer, “It has already been multiplied for all, but you do not know.”
+
+## AI Tafsir
+
+**What this ayah teaches:** This is because the earlier nations were worse criminals than those who followed them, and this is why they entered the Fire first.
+
+**Classical tafsir:** Ibn Kathir notes: This is because the earlier nations were worse criminals than those who followed them, and this is why they entered the Fire first.
 ## Personal Reflections
 
 

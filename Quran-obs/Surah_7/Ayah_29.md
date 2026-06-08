@@ -230,6 +230,17 @@ At the end of the verse (29), it was said: كَمَا بَدَأَكُمْ تَ�
 
 There is an additional benefit of introducing this sentence here. It helps one in abiding by the injunctions of the Shari’ ah - because it is the realization that there is a life-to-come, and a Last Day, the Day of Qiyamah, and reward or punishment for deeds, good or bad, which makes what is difficult easy, and what is painful bearable. Experience bears out that man is a tough customer. Unless one is under such grip-ping apprehension, no word of advice can make him do what is right, nor can the restriction of any law stop him from going into crimes.
 
+## AI Translation
+
+Say, “My Rabb has commanded uprightness and dedication in worship, calling upon Him with sincere devotion. Just as He first brought you into being, you will be brought to life again.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah has originally created all of His servants able to recognize Him, to single Him out in worship, and know that there is no deity worthy of worship except Him.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, under this sense of qist' included there are all acts of worship and obedience as well as all general injunctions of the Shari'ah.
+
+**From the Sunnah:** [21:104] This Hadith was collected in the Two Sahihs. I say, what supports this meaning, is the Hadith from Ibn Mas'ud that Al-Bukhari recorded, (that the Prophet ﷺ said:) (Sahih al-Bukhari)
 ## Personal Reflections
 
 

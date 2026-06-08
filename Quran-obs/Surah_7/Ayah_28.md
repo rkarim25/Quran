@@ -262,6 +262,19 @@ Then, come the two arguments they advanced in support of the continuance of this
 
 The second argument in favour of their naked Tawaf advanced by these people was that Allah had ordered them to do so. This was a flagrant lie. They were attributing to Allah what He had never commanded. Addressing the Holy Prophet ﷺ the answer given was: قُلْ إِنَّ اللَّـهَ لَا يَأْمُرُ‌ بِالْفَحْشَاءِ (Allah never bids anything shameful) – because commanding people to do something like that is against His wisdom and counter to His state of being the Purest of the pure. Then, taken to task was their false and untrue, attribution to Allah. They were warned with the words: أَتَقُولُونَ عَلَى اللَّـهِ مَا لَا تَعْلَمُونَ (Do you say about Allah what you do not know?). It means that they were attributing a falsity to Allah without having an evidence in support; and it is obvious that attributing something to someone without proper investigation and authority is an act of rank effrontery and patent injustice. Then if done in the case of Allah Jalla Sha'nuhu, reporting anything so falsely will be a crime and injustice the magnitude of which cannot be imagined. At this point, let it be understood clearly that the respected Mujtahid Imams, when they deduce, formulate and describe injunctions which appear in the verses of the Qur'an through Ijtihad, that effort does not fall under the purview of this verse. The reason is that their deduction is a process which operates under the justification of the very words and meanings of the Qur'an.
 
+## AI Translation
+
+Whenever they commit a shameful deed, they say, “We found our forefathers doing it and Allah has commanded us to do it.” Say, “No! Allah never commands what is shameful. How can you attribute to Allah what you do not know?”
+
+## AI Tafsir
+
+**Context:** The first verse among those cited above has been revealed to identify and eliminate this absurd custom. It was said in the verse that on occasions when they did something shameful and people told them not to do so, their…
+
+**What this ayah teaches:** Allah has originally created all of His servants able to recognize Him, to single Him out in worship, and know that there is no deity worthy of worship except Him.
+
+**Classical tafsir:** Ibn Kathir notes: Mmmm50 As obvious, the Quraysh could not provide clothes to the whole people of Arabia, therefore, the consequence was that these people would make Tawaf mostly naked, men and women, both, with women usually doing their Tawaf in the darkness of the night.
+
+**From the Sunnah:** [21:104] This Hadith was collected in the Two Sahihs.
 ## Personal Reflections
 
 

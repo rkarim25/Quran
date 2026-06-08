@@ -157,6 +157,19 @@ Nature of Prohibitions: The Correct View
 
 The restrictive particle: اَنَّمَا (innama: only) appearing in verse 115 seems to give the impression that things Haram are no more than the four mentioned in the verse. This impression emerges more clearly in another verse: قُل لَّا أَجِدُ فِي مَا أُوحِيَ إِلَيَّ مُحَرَّ‌مًا (Say, I do not find, in what has been revealed to me, anything prohibited... - Surah a1-An` am, 6:145). It seems to be suggestive of nothing being Haram other than the things mentioned in the verse while the fact is that according to clarifications of the Qur'an and Sunnah and by the Consensus of the Muslim Ummah, there are many more things rated as Haram. The answer to this difficulty comes through deliberation into the context of these very verses which tells us that the purpose at this place is not to describe Halal and Haram as they are commonly understood. Instead, the purpose is to point out to what the mushrikin of the period of Jahiliyah had done. They had made many things Haram on their own although Allah Ta’ ala had never ordered them about their unlawfulness. It amounts to saying: Out of the things you have (arbitrarily) made out as Haram, only that which is really Haram is being mentioned here. A comprehensive explanation of this verse along with a detailed description of these four prohibitions has appeared in the Commentary of Surah al-Baqarah, Ma` ariful-Qur’ an, Volume I, pages 424-438, under Verses 173-174. Those interested may see it there.
 
+## AI Translation
+
+He has only forbidden you to eat carrion, blood, swine, and what is slaughtered in the name of any other than Allah. But if someone is compelled by necessity—neither driven by desire nor exceeding immediate need—then surely Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**Context:** The restrictive particle: اَنَّمَا (innama: only) appearing in verse 115 seems to give the impression that things Haram are no more than the four mentioned in the verse.
+
+**What this ayah teaches:** And be grateful for Allah's favor, if it is He Whom you worship (114)He has only forbidden dead flesh, blood, the flesh of swine, and any animal which is slaughtered as a sacrifice for other than Allah.
+
+**Classical tafsir:** Ibn Kathir notes: and then to Us will be their return, then We shall make them taste the severest torment because they disbelieved.)(10:69-70)
+
+**From the Sunnah:** It seems to be suggestive of nothing being Haram other than the things mentioned in the verse while the fact is that according to clarifications of the Qur'an and Sunnah and by the Consensus of the Muslim Ummah, there are many more things rated as Haram. (Sahih Muslim)
 ## Personal Reflections
 
 

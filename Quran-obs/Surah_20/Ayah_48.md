@@ -122,6 +122,17 @@ This point calls for some elucidation which is given in the following lines. The
 
 In brief, every created thing has been programmed, by Allah, with a guidance of Takwin (creation) which it is genetically bound to follow and deviating from the same is beyond its power. The other kind of guidance which is given to the human beings and to Jinns is not inherent in the nature and thus, is not compulsory but optional. It is this freedom of choice which renders them liable to reward for good deeds and to punishment for their sins. The verse
 
+## AI Translation
+
+It has indeed been revealed to us that the punishment will be upon whoever denies the truth and turns away.’”
+
+## AI Tafsir
+
+**Context:** Both of them said: "Our Lord! Verily, we fear lest he should hasten to punish us or lest he should transgress. (45)He (Allah) said: "Fear not, verily, I am with you both, hearing and seeing.
+
+**What this ayah teaches:** Truly, it has been revealed to us that the torment will be for him who denies, and turns away.) In His flawless revelation, Allah has revealed to us that torment is prepared exclusively for those who reject the signs of Allah and turn away from His obedience.
+
+**Classical tafsir:** Ibn Kathir notes: But on the contrary, he belied and turned away.)[75:31-32] This means that he denied with his heart and turned away by his actions.
 ## Personal Reflections
 
 

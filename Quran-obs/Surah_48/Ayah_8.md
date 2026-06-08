@@ -237,6 +237,17 @@ Other scholars refer the third person anaphoric pronouns attached to the verbs o
 
 After that, there is reference to the pledge of Ridwan which was narrated in part [ 10] of the story of Hudaibiyah. The purpose of the believers in entering into the pledge at the hands of the Holy Prophet ﷺ was to act upon the command of Allah and to receive His good pleasure. Therefore, when the blessed Companions ؓ placed their hands on the hand of the Holy Prophet ﷺ it was tantamount to taking the pledge at the hands of Allah. 'Allah's hand' is in any case something falling in the category of mutashabihat the correct nature of which is cannot be known to us, nor should we attempt to investigate its reality. The significance of the pledge of Ridwan is described later in the Surah. The word bai'ah, lexically, connotes a pledge to do some particular work. The ancient and traditional method of this pledge is for the pledging parties to place their hands upon each other, although the placing of hands is not a necessary condition. Nevertheless once the pledge is consummated, juristically it is binding, and its violation is unlawful. Therefore, it is later laid down that whoever violates the pledge will cause loss to himself. It will not cause loss to Allah and His Messenger ﷺ . Whoever fulfils the terms of the pledge will receive a mighty reward from Allah.
 
+## AI Translation
+
+We have sent you as a witness, a bearer of glad news, and a warner,
+
+## AI Tafsir
+
+**What this ayah teaches:** Shahid means 'witness' and its sense here is the same as that of shahid which occurs in [ 4:41].
+
+**Classical tafsir:** Ibn Kathir notes: Other scholars express the view that the Holy Prophet ﷺ will bear witness to the entire community's good and bad works, and to its obedience and defiance, because, according to some versions, angels present to the Holy Prophet ﷺ morning and evening the works of the community.
+
+**From the Sunnah:** The number of the Companions who gave their pledge to Allah's Messenger ﷺ at that time was either 1,300, 1,400 or 1,500. that Jabir bin 'Abdullah, may Allah be pleased with him, said, "We numbered one thousand and four hundred on the day of Hudaybiyyah." Muslim also collected this Hadith. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

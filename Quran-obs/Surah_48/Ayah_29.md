@@ -466,6 +466,17 @@ Surah Al-Fath
 
 Ends here
 
+## AI Translation
+
+Muhammad is the Messenger of Allah. Those with him are firm against those who reject the truth and merciful among themselves. You see them bowing and prostrating in salah, seeking Allah's bounty and pleasure. The mark of their prostration shows on their faces. This is their description in the Torah. Their parable in the Gospel is a seed that sends out its shoot, then strengthens it, then grows thick and stands firm on its stem, delighting the sower—so Allah makes the believers a source of dismay to those who deny. To those among them who have iman and do good, Allah has promised forgiveness and a great reward.
+
+## AI Tafsir
+
+**What this ayah teaches:** Everything was for the sake of Allah and His Messenger - and this is the highest degree of perfect faith.
+
+**Classical tafsir:** Ibn Kathir notes: This in fact refers to the light and brightness that is reflected naturally on the faces of the devout as a result of humility, meekness and gentleness of disposition.
+
+**From the Sunnah:** The best and most honored members of this Ummah are the Companions of the Messenger of Allah ﷺ. (Sunan Abi Dawud) Gradually, but progressively, the strength of the Muslims continued to grow, so much so that the number of the noble Companions who performed the farewell pilgrimage with the Holy Prophet ﷺ is said to be about One hundred and fifty thousand (150, 000).
 ## Personal Reflections
 
 

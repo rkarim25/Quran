@@ -252,6 +252,19 @@ And obey Allah and obey the Messenger, and be careful. If you turn back, be sure
 
 The lesson to be learnt is that the command to obey Allah and His Messenger is in one's own interest, and benefit. If one does not listen to the good counsel, their action brings no loss to Allah Jalla Sha'nuhu or to His Messenger. That Allah is far above any gain or loss was quite obvious, but in the case of the Messenger someone might have thought that a refusal to listen to him might affect or lessen the degree of his reward or station. To remove this doubt, it was said: أَنَّمَا عَلَىٰ رَ‌سُولِنَا الْبَلَاغُ الْمُبِي . It means: Even if none of you were to listen to and obey Our Messenger, it would still not make any difference to his integrity and station because he has completed the mission entrusted with him. His mission was to convey the commands of Allah Ta ala, openly and clearly. This he has accomplished. Now, after that, whoever chooses not to obey him will bring loss on his or her person - Our Messenger has nothing to lose in this case.
 
+## AI Translation
+
+Obey Allah and obey the Messenger and beware! But if you turn away, then know that Our Messenger’s duty is only to deliver clearly.
+
+## AI Tafsir
+
+**Context:** It is recorded in the Two Sahihs, that 'Umar bin Al-Khattab said in a speech; while standing on the Minbar of the Messenger of Allah (in the Prophet's Masjid in Al-Madinah) "O people!
+
+**What this ayah teaches:** If you turn back, be sure that the duty of Our Messenger is only to convey the Message clearly.
+
+**Classical tafsir:** Ibn Kathir notes: It means: Even if none of you were to listen to and obey Our Messenger, it would still not make any difference to his integrity and station because he has completed the mission entrusted with him.
+
+**From the Sunnah:** When the Messenger of Allah ﷺ migrated to Al-Madinah, the people were consuming alcohol and gambling, so they asked the Messenger of Allah ﷺ about these things, Allah revealed, (Musnad Ahmad) So they said, 'We abstained, O Lord!' Later, some people said, 'O Allah's Messenger!
 ## Personal Reflections
 
 

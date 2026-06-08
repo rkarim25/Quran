@@ -82,6 +82,17 @@ Then Allah says,
 
 Verse [ 106:3] فَلْيَعْبُدُوا رَ‌بَّ هَـٰذَا الْبَيْتِ (they must worship the Lord of this House.) Having mentioned the Divine favors, the Quraish are especially enjoined to express their gratitude to 'the Lord of this House'. Here, out of many attributes of Allah, 'the Lord of this House' is singled out, because it was this House that became the source and fountain of all blessings for them.
 
+## AI Translation
+
+Let them worship the Rabb of this House—the Ka'bah through which their safety and livelihood flowed—
+
+## AI Tafsir
+
+**What this ayah teaches:** Here, out of many attributes of Allah, 'the Lord of this House' is singled out, because it was this House that became the source and fountain of all blessings for them.
+
+**Classical tafsir:** Ibn Kathir notes: Their Ilaf caravans, in winter and in summer.)(3.
+
+**From the Sunnah:** And I am commanded to be from among the Muslims.)(27:91)
 ## Personal Reflections
 
 

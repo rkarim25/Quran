@@ -152,6 +152,19 @@ Al-Bait-ul-Ma` mur
 
 Al-Bait-ul-Ma` mur is the Ka'bah of the angels who reside in the seventh heaven. When the Holy Prophet ﷺ reached the seventh heaven on the Night of Ascension, he saw Holy Prophet Ibrahim (علیہ السلام) reclining with his back on Al-Bait-ul-Ma` mur. It was Holy Prophet Ibrahim (علیہ السلام) who built the Ka'bah on earth, and thus the reward is compatible with his action in that Allah Ta’ ala has blessed him with a special connection with Al-Bait-ul-Ma` mur (IbnKathir).
 
+## AI Translation
+
+and by the canopy raised high,
+
+## AI Tafsir
+
+**Context:** (And by the Book inscribed), it is said that it means Al-Lawh Al-Mahfuz, (the Preserved Table). It is also said that is refers to the divinely revealed inscribed Books that people recite, and this is why Allah said,
+
+**What this ayah teaches:** The Day when they will be pushed down by force to the fire of Hell, with a horrible, forceful pushing.)(14.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** And by Al-Bayt Al-Ma'mur.) In the Two Sahihs it is confirmed that the Messenger of Allah ﷺ said in the Hadith about Al-Isra', after ascending to the seventh heaven:
 ## Personal Reflections
 
 

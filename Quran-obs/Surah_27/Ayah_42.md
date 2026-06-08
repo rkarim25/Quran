@@ -169,6 +169,17 @@ The assertion أَنَا آتِيكَ بِهِ قَبْلَ أَن يَرْ‌ت
 
 This explanation is taken from the commentary ` Ahkam ul Qur'an' by Sayyidi Hakimul Ummah Maulana Ashraf ` Ali Thanawi (رح) ، on Surah An-Naml. Apart from that, he has also written a pamphlet on Tasarruf in Arabic under the title ` At-Tasarruf, which I have translated in Urdu and has been published separately.
 
+## AI Translation
+
+So when she arrived, it was said to her, “Is your throne like this?” She replied, “It looks to be the same. We have already received knowledge of Solomon’s prophethood before this miracle, and have submitted to Allah.”
+
+## AI Tafsir
+
+**What this ayah teaches:** The only difference between the two is that if such an unusual act is demonstrated through a prophet, it is known as a miracle; and if it is demonstrated through someone who is not a prophet, it is called Karamah.
+
+**Classical tafsir:** Ibn Kathir notes: The Test of Bilqis When Sulayman brought the throne of Bilqis before she and her people arrived, he issued orders that some of its features should be altered, so that he could test her and see whether she recognized it and how composed she would be when she saw it.
+
+**From the Sunnah:** In the general use of the term, Tasarruf means to captivate the audience by the power of sight and mind, for which it is not necessary for the person performing it that he is a prophet or saint or even a Muslim. (Sahih Muslim)
 ## Personal Reflections
 
 

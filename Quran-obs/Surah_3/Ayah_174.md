@@ -293,6 +293,17 @@ The imperative in the present verse obligates Muslims that they must always keep
 
 Abu ` Ali al-Daqqaq, may Allah's mercy be upon him, says that Abu Bakr ibn al-Fuwarrak ؓ was sick so he paid him a visit. When Abu Bakr saw him, he was in tears. Abu ` Ali consoled him by saying that there was nothing to worry about, Allah Almighty will give him health soon enough. Abu Bakr corrected Abu 'Ali's impression and said that he was certainly not weeping because of any fear of death. What he really worried about was his fate after death lest he may be awarded some punishment then. (Qurtubi)
 
+## AI Translation
+
+So they returned with Allah’s favours and grace, suffering no harm. For they sought to please Allah. And surely Allah is Rabb of infinite bounty.
+
+## AI Tafsir
+
+**Context:** Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud. (They rejoice in what Allah has bestowed upon them) indicates that the martyrs who were killed in Allah's cause are alive with…
+
+**What this ayah teaches:** Those to whom the people said, "Verily, the people have gathered against you, therefore, fear them." But it (only) increased them in faith, and they said: "Allah is Sufficient for us, and He is the Best Disposer of affairs.")(174.
+
+**Classical tafsir:** Ibn Kathir notes: Nay, they are alive, with their Lord, and they have provision.) Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud.
 ## Personal Reflections
 
 

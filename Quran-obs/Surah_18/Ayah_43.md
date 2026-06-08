@@ -120,6 +120,15 @@ Some others read it as Al-Wilayah, meaning that on that Day the rule will belong
 
 The word: حُسبانا - (husbana) in verse 40 has been explained by Qatadah as 'punishment' in an absolute sense, by Sayyidna Ibn ` Abbas ؓ as 'fire' and by some as 'stoning.' As for what appears after that in the Qur'an: أُحِيطَ بِثَمَرِ‌هِ (And its produce was struck by destruction from all sides - 42), it obviously means that some major calamity hit his gardens, wealth and things of luxury reducing everything to ruins. The Qur'an does not mention any particular calamity explicitly. It appears that, some fire came down from the skies and burnt the whole thing - as it appears in the Tafsir of 'husban' by Sayyidna Ibn 'Abbas ؓ who has explained it as 'fire.' And Allah knows best.
 
+## AI Translation
+
+And he had no manpower to help him against Allah, nor could he even help himself.
+
+## AI Tafsir
+
+**What this ayah teaches:** He (Allah) is the best for reward and the best for the final end . What is meant is that what this those who reject the truth was afraid of and what the believer had terrified him actually had happened.
+
+**Classical tafsir:** Ibn Kathir notes: He (Allah) is the best for reward and the best for the final end .
 ## Personal Reflections
 
 

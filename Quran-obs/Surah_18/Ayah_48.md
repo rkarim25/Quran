@@ -230,6 +230,17 @@ The address to everyone on that fateful Day of Qiyamah shall be: جِئْتُم�
 
 According to al-Qurtubi, the statement appearing in a Hadith that the dead will meet each other in Barzakh dressed in their shrouds is not contradictory of this Hadith, because that is the case of Grave and Barzakh (post-death - pre-resurrection state) while the present one concerns the plains of Resurrection. And there are some Hadith reports to the effect that the deceased person will rise on the Day of Resurrection in the dress he or she was buried. Sayyidna ` Umar ؓ said, 'Give good kafn (shroud) to the deceased among you because they will rise on the Last Day dressed in these.' Some commentators have interpreted the report as relating to Shahids (martyrs who are buried in their dress). Then, there are others who have said that it is possible that some people rise dressed on the Day of Resurrection and some others, without it. In this way, both kinds of reports conjoin. (Mazhari)
 
+## AI Translation
+
+They will be presented before your Rabb in rows, and the deniers will be told, “You have surely returned to Us all alone as We created you the first time, although you always claimed that We would never appoint a time for your return.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Then, there are others who have said that it is possible that some people rise dressed on the Day of Resurrection and some others, without it.
+
+**Classical tafsir:** Ibn Kathir notes: And (remember) the Day We shall cause the mountains to pass away, and you will see the earth as a levelled plain, and We shall gather them so that We will leave not one of them behind (47)And they will be set before your Lord, aligned.
+
+**From the Sunnah:** I said to the doorkeeper, 'Tell him that Jabir is at the door.' He said, 'Jabir bin 'Abdullah?' I said, 'Yes.' So he came out, still putting his garment on, and embraced me, and I embraced him, and said: 'I heard a Hadith narrated by you, that you heard from t… (Musnad Ahmad) Shu'bah narrated from Al-'Awwam bin Muzahim from Abu 'Uthman from 'Uthman bin 'Affan, may Allah be pleased with him, that the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

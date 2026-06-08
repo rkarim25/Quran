@@ -158,6 +158,17 @@ Imam Muslim recorded that Jabir bin 'Abdullah said that the Messenger of Allah �
 
 In the verse: أَفَمَنْ هُوَ قَائِمٌ عَلَىٰ كُلِّ نَفْسٍ (Is then He, who is watchful over everyone ... 33), the ignorance and irrationality of the disbelievers has been exposed by saying that these people are certainly short on sense when they equate inert idols with His pure Being, a Being that watches everyone and is the ultimate reckoner of everyone's deeds. Then, it was said that the real reason behind their unreasonable attitude is that shaitan has made their very ignorance look good in their sight and, therefore, this they take to be 'achievement' and 'success.'
 
+## AI Translation
+
+For them is punishment in this life, but the punishment of the Akhirah is far worse. None can shield them from Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** For them is a torment in the life of this world, and certainly, harder is the torment of the Hereafter.
+
+**Classical tafsir:** Ibn Kathir notes: Then, it was said that the real reason behind their unreasonable attitude is that shaitan has made their very ignorance look good in their sight and, therefore, this they take to be 'achievement' and 'success.'
+
+**From the Sunnah:** The Messenger of Allah ﷺ said to those who agreed to Mula'anah, Paradise has foods, fruits and drinks that never end or finish.
 ## Personal Reflections
 
 

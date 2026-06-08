@@ -184,6 +184,15 @@ This report has an authentic chain of narration. More than one person has narrat
 
 Having mentioned in the preceding verses the beginning and the end of human life, Divine Omnipotence and Divine blessings, the current verses warn the non-believing man that the demand of Divine Signs and blessings was to carefully ponder and believe in Allah, and comply with His injunctions, but the unfortunate creature failed to do so. Further, the Divine favours are mentioned that were conferred on man between the beginning and end of his life. Man is then asked to consider the sources of his food. Allah showers down water abundantly from the clouds. He cleaves the earth with new growth. Thereupon He causes grain to grow out of it. At first, a fragile shoot germinates and sprouts. Then many different kinds of grain, fruits and gardens come into existence. Having warned man several times about these Divine blessings, the Surah concludes with the mention of Resurrection, thus:
 
+## AI Translation
+
+split the earth open carefully,
+
+## AI Tafsir
+
+**What this ayah teaches:** How ungrateful he is (17)From what thing did He create him (18)From a Nutfah He created him and then set him in due proportion (19)Then He made the path easy for him (20)Then He causes him to die and puts him in his grave (21)Then when it is His will, He will resurrect him (22)Nay, but he has not done what He commanded him (23)Then let man look at his food (24)We pour forth wat…
+
+**Classical tafsir:** Ibn Kathir notes: Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them.
 ## Personal Reflections
 
 

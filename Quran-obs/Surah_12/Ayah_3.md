@@ -130,6 +130,19 @@ In the third verse, it was said: نَحْنُ نَقُصُّ عَلَيْكَ أ
 
 This is to chasten the Jews that they had tried to test the Messenger of Allah ﷺ which proved to be in vain, for its effect turned out to be just the reverse of what they had intended. It only went on to prove the excellence and authenticity of the Messenger of Allah ﷺ in a far more evident manner. From this it became clear that he was already an Ummiyy and had no knowledge of world history. Now that he came to know of this needs an explanation and there can be no explanation for this except that he was Divinely educated and blessed with revelation as a prophet of Allah Ta’ ala.
 
+## AI Translation
+
+We narrate to you, O Prophet, the best of stories through what We reveal to you in this Quran — though before it you were among those unaware.
+
+## AI Tafsir
+
+**Context:** (Verily, We have sent it down as an Arabic Qur'an in order that you may understand.) The Arabic language is the most eloquent, plain, deep and expressive of the meanings that might arise in one's mind.
+
+**What this ayah teaches:** We relate unto you the best of stories through Our revelations unto you, of this Qur'an. Verily, We have sent it down as an Arabic Qur'an in order that you may understand.)(3.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, We have sent it down as an Arabic Qur'an in order that you may understand.)(3.
+
+**From the Sunnah:** a narration from Jabir bin 'Abdullah that 'Umar bin Al-Khattab came to the Prophet ﷺ with a book that he took from some of the People of the Book.
 ## Personal Reflections
 
 

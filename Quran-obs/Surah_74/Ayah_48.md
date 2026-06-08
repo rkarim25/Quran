@@ -140,6 +140,19 @@ A Special Note
 
 Sayyidna ` Abdullah Ibn Masud 4 narrates that Allah's angels and Prophets, the martyrs and the righteous will intercede for sinners in the Hereafter, and they will be delivered from Hell by virtue of their intercession, except the four types of sinners who have been classified above, that is, those who failed to perform their obligatory prayer and to pay their Zakah, those who opposed Islam with the opponents of Islam and denied the Hereafter. This shows that intercession will not be accepted for those who fail to perform their obligatory Salah and pay their Zakah. However, other narratives indicate that the correct view with regard to the verse under comment is that the unacceptability of intercession refers to those sinners who commit the four types of crimes that include the rejection of the Hereafter. Besides the rejection, it is not necessary that sinners committing other sins should be punished in the same way. However, there are other Hadith narratives that refer to certain major sins which deprive people of intercession. For instance, if a person denies the veracity of intercession, or if he denies the existence of the Pond of Kauthar, he will have no share in either of the two.
 
+## AI Translation
+
+So the pleas of intercessors will not help them.
+
+## AI Tafsir
+
+**Context:** (Nay, everyone of them desires that he should be given pages spread out.) meaning, each one of these idolators wants to have a book revealed to him as Allah revealed to the Prophet ﷺ. Mujahid and others have said this.
+
+**What this ayah teaches:** This is because intercession is only useful if the conditions for it are met.
+
+**Classical tafsir:** Ibn Kathir notes: However, other narratives indicate that the correct view with regard to the verse under comment is that the unacceptability of intercession refers to those sinners who commit the four types of crimes that include the rejection of the Hereafter.
+
+**From the Sunnah:** intercede for one another, and their intercession will be accepted.
 ## Personal Reflections
 
 

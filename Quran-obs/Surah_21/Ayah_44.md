@@ -171,6 +171,15 @@ Here خُلِقَ الْإِنسَانُ مِنْ عَجَلٍ (Man is made of h
 
 These miracles also occurred during the battle of Badr (غزوہ بدر) when the Muslims who were considered weak and worthy of contempt gained a great victory over their enemies.
 
+## AI Translation
+
+In fact, We have allowed enjoyment for these Meccans and their forefathers for such a long time that they took it for granted. Do they not see that We gradually reduce their land from its borders? Is it they who will then prevail?
+
+## AI Tafsir
+
+**What this ayah teaches:** The word is used in situations when one desires things to happen before their time, and this trait is bad by its very nature.
+
+**Classical tafsir:** Ibn Kathir notes: How the Idolators are deceived by their long and luxurious Lives in this World,and the Explanation of the Truth Allah explains that they have been deceived and misled by the luxuries that they enjoy in this world and the long life that they have been given, so they believe that t…
 ## Personal Reflections
 
 

@@ -155,6 +155,15 @@ In the concluding sentence of the same verse, it was said: لِّمَنِ الْ
 
 But, some other narrations show that this statement will be made by Allah Ta’ ala Himself when the entire creation will lie annihilated after the blowing of the first Horn, and when even specially close ones, the angels - Jibra'il, Mika'il, Israfil and the angel of death - will also meet death, and no one except the One Being of Allah subhanahu wa ta’ ala will remain, that will be the time He will say: لِّمَنِ الْمُلْكُ الْيَوْمَ (To whom belongs the kingdom today?). Since there will be no one to answer at that time, He will Himself answer: لِلَّـهِ الْوَاحِدِ الْقَهَّار (To Allah alone, the One, the All-Dominant.). Sage Hasan al-Basri (رح) has said: In this situation, the entity asking the question and the entity responding to it is no other but the entity of one and only Allah. Muhammad Ibn Ka'b al-Qurai also says this. It is supported by the Hadith of Sayyidna Abu Hurairah and Ibn ` Umar ؓ in which it is said, 'On the Day of Judgment, Allah Ta’ ala will - with all earth surfaces rolled up in His left hand and all heavens rolled up in His right hand - say: اناالملک این الجبارون این المتکبرون (I am the owner of the kingdom. Where are the tyrants? Where are the arrogants?). In Tafsir Ad-Durr-ul- Manthur where, after reporting both narrations of this nature, it has been said that it is possible that this statement is made twice, the first being at the time of the annihilation of the existing universe following the first blowing of the Horn, and the second at the time the entire creation has been brought back to life following the second blowing of the Horn. Maulana Ashraf Thanavi (رح) has said in Bayan-ul-Qur'an that the Tafsir of the noble Qur'an does not hinge on declaring it as made twice only, instead, it is also possible that the cited verse is mentioning the event that will come to pass after the first blowing of the Horn, but it has been referred to here (while mentioning the events after the second blowing) as a reminder of what happened before. Allah knows best.
 
+## AI Translation
+
+the Day all will appear before Allah. Nothing about them will be hidden. He will ask: "Who does all authority belong to this Day?" To Allah—the One, the Supreme!
+
+## AI Tafsir
+
+**What this ayah teaches:** He sends the revelation by His command to any of His servants He wills, that he may warn of the Day of Mutual Meeting (15)The Day when they will come out, nothing of them will be hidden from Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, everyone will be in an open expanse, open to view.
 ## Personal Reflections
 
 

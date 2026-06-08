@@ -92,6 +92,17 @@ The last two verses further fortify the doctrine of توحید tauhid on the gro
 
 (1.) Whenever the Holy Qur'an speaks of the 'Torah and the Injil' it refers to the original books revealed to the prophets Moses and Jesus (علیہ السلام) . This should not, therefore, be confused. With the present Old and New testaments.
 
+## AI Translation
+
+He is the One Who shapes you in the wombs of your mothers as He wills. There is no god except Him—the Almighty, All-Wise.
+
+## AI Tafsir
+
+**Context:** (1.) Whenever the Holy Qur'an speaks of the 'Torah and the Injil' it refers to the original books revealed to the prophets Moses and Jesus (علیہ السلام) . This should not, therefore, be confused.
+
+**What this ayah teaches:** Truly, nothing is hidden from Allah, in the earth or in the heaven (5)He it is Who shapes you in the wombs as He wills. None has the right to be worshipped but He, the Almighty, the All-Wise .
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah refers to the fact that 'Isa, son of Mary, is a created servant, just as Allah created the rest of mankind.
 ## Personal Reflections
 
 

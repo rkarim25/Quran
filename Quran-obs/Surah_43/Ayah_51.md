@@ -167,6 +167,15 @@ Commentary
 
 Incidents related to Sayyidna Musa (علیہ السلام) have been stated by the Qur'an at many places repeatedly, and the incidents referred to in the present verses have been described in detail in Surah Al-A` raf. The reason for reminding these incidents here is to show that the objection of the infidels of Makkah that the Holy Prophet ﷺ is not a wealthy man is not a new objection; Fir'aun had expressed the same doubt against Sayyidna Musa (علیہ السلام) and his prophethood. His contention was that being the ruler of Egypt, and owner of the palaces and rivers flowing beneath them, how could Musa (علیہ السلام) claim to be a prophet against him. But just as Fir'aun's disbelief could be of no avail to him, and he got drowned along with his people, this objection of 'kuffar' of Makkah, too, will not save them from the divine punishment in this world, or in the Hereafter.
 
+## AI Translation
+
+Pharaoh called out to his people, boasting: "O my people, am I not sovereign over Egypt as well as all these streams flowing at my feet? Can you not see?
+
+## AI Tafsir
+
+**What this ayah teaches:** He assembled his people and addressed them in a vainglorious fashion, boasting of his dominion over Egypt.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

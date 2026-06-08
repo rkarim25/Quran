@@ -150,6 +150,17 @@ meaning, on the Day of Judgement the secrets will be tested. This means that the
 
 Likewise, his deeds and actions that he had done secretly, and no one was aware of them in this world, all of them will be tested and scrutinised on the Plain of Gathering and will be laid bare. Said 'Abdullah Ibn ` Umar ؓ has said that on the Day of Judgment Allah will disclose the secrets of all human beings. The sign of every good or bad belief and action will be displayed on man's face, in the form of beauty or darkness or gloom [ depending on each individual's situation ]. [ Qurtubi ].
 
+## AI Translation
+
+Surely He is able to bring them back to life
+
+## AI Tafsir
+
+**Context:** يَوْمَ تُبْلَى السَّرَائِرُ (on a day when all the secrets will be searched out.. 86:9). The word tubla literally means 'to test/examine' and sara'ir means 'secrets'.
+
+**What this ayah teaches:** This is clearly possible, because whoever is able to begin the creation then he surely is able to repeat it.
+
+**Classical tafsir:** Ibn Kathir notes: The word tubla literally means 'to test/examine' and sara'ir means 'secrets'.
 ## Personal Reflections
 
 

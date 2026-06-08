@@ -116,6 +116,15 @@ Imam al-Baghawi said: This recognition will be possible during the
 
 early stage. Later, when the horrendous happenings of the Qiyamah, the Day of Doom, will unfold, this ability to recognize each other will stand disabled. According to some other narrations, the ability to recognize each other will, though, still remain, but such will be the awe of the situation that they will be unable to say anything. (Mazhari)
 
+## AI Translation
+
+Tell them O Prophet, “Imagine if His torment were to overcome you by night or day—do the wicked realize what they are really asking Him to hasten?
+
+## AI Tafsir
+
+**What this ayah teaches:** The Deniers of the Day of Resurrection wish to hasten its Coming and their Response Allah told us about the idolators who reject faith through their demand that the punishment be hastened, inquiring about the time of punishment.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -197,6 +197,17 @@ Later on, the Caliph sent one hundred gold dinars to him as a present. Abu Hazim
 
 Abu Hazim's refusal to accept the wages for giving advice clearly shows that taking wages for an act of worship or obedience to Allah is not permissible.
 
+## AI Translation
+
+Do not mix truth with falsehood or hide the truth while you know it.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verse 42 explicitly shows that it is not permissible to mix truth and falsehood together in such a way that the addressee falls into a confusion as to what the truth is, and that it is forbidden to conceal the truth because of fear or greed.
+
+**Classical tafsir:** Ibn Kathir notes: Verse 42 explicitly shows that it is not permissible to mix truth and falsehood together in such a way that the addressee falls into a confusion as to what the truth is, and that it is forbidden to conceal the truth because of fear or greed.
+
+**From the Sunnah:** "What kind of man is the wisest among the Muslims?"
 ## Personal Reflections
 
 

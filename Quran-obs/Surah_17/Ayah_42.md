@@ -83,6 +83,15 @@ Commentary
 
 According to the proof of Tauhid (the Oneness of Allah) given in the verse: إِذًا لَّابْتَغَوْا إِلَىٰ ذِي الْعَرْ‌شِ سَبِيلًا (then they would have found out a way to the Lord of the Throne - 42), Allah alone is the creator, owner and master of the entire universe. The argument is if it was not so and He had other partners in this godhead, differences would have necessarily emerged among them. And, in the eventuality of a difference, the whole universal system would have gone to ruins - because, ever abiding peace among them is habitually impossible. Though, this argument has been enunciated here in a prohibitive manner, but there are books of Scholastic Theology (` Ilm al-Kalam) where the logical rationale behind this argument has also been described in great details. The learned may consult these at their discretion.
 
+## AI Translation
+
+Say, O Prophet, “Had there been other gods besides Him—as they claim—then they would have certainly sought a way to challenge the Rabb of the Throne.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah says: 'Say, O Muhammad, to these idolators who claim that Allah has a partner among His creation, and who worship others besides Him that they may bring them nearer to Him: if the matter is as you say, and there is another Allah besides Him whom you worship in order to draw closer to Him and so that he will intercede for you with Him, then those whom you worship would thems…
+
+**Classical tafsir:** Ibn Kathir notes: And, in the eventuality of a difference, the whole universal system would have gone to ruins - because, ever abiding peace among them is habitually impossible.
 ## Personal Reflections
 
 

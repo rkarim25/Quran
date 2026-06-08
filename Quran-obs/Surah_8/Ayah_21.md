@@ -108,6 +108,17 @@ He would have helped them understand. However, this did not happen because there
 
 For added emphasis on the same subject, it was said in the second verse (21): وَلَا تَكُونُوا كَالَّذِينَ قَالُوا سَمِعْنَا وَهُمْ لَا يَسْمَعُونَ ﴿21﴾ (and do not be like those who say, "we have heard" while they do not listen). Meant here are common disbelievers who claim to be listening but make no such claim about believing. Also meant here are the hypocrites who go beyond the elementary listening which they already do. In fact, they also claim to understand what that they listen to and to believe in it as well. But, the truth of the matter is that they both remain deprived of genuine deliberation and correct understanding. Therefore, their listening falls under the category of not listening. So, Muslims have been forbidden from becoming like them.
 
+## AI Translation
+
+Do not be like those who say, "We hear," while they do not truly listen.
+
+## AI Tafsir
+
+**What this ayah teaches:** Obey Allah and His Messenger, and turn not away from him while you are hearing (20)And be not like those who say: "We have heard," but they hear not (21)Verily, the worst of living creatures with Allah are the deaf and the dumb (the those who reject the truth), who understand not (22)Had Allah known of any good in them, He would indeed have made them listen; and even if He had made them listen, they would but h…
+
+**Classical tafsir:** Ibn Kathir notes: Muhammad bin Ishaq said that this Ayah refers to hypocrites, as we stated.
+
+**From the Sunnah:** So, Muslims have been forbidden from becoming like them.
 ## Personal Reflections
 
 

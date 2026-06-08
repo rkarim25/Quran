@@ -170,6 +170,15 @@ The fourth quality of the angels:
 
 فَالسَّابِقَاتِ سَبْقًا (then proceed forward quickly...79:4). According to Divine instruction, the angels do not delay in transporting the souls of people to their good or their bad abodes. The soul of a believer is transported to the atmosphere and blessings of Paradise, and that of an unbeliever to the atmosphere and torment of Hell.
 
+## AI Translation
+
+and those racing ahead with vigor,
+
+## AI Tafsir
+
+**What this ayah teaches:** There are those people whose souls the angels remove with ease, as if they were unraveling him (i.e., his soul from him) due to their briskness.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

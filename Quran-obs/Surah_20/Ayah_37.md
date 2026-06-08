@@ -92,6 +92,15 @@ Commentary
 
 وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّ‌ةً أُخْرَ‌ىٰ (And We have bestowed Our favour on you once more - 20:37). Having bestowed His gifts and special favours on Sayyidna Musa (علیہ السلام) such as the honour of conversation with Allah, the grant of prophethood and miracles etc. Allah Ta'ala reminds him of the benefits and favours which He had showered on him throughout his life - from his birth uptill that time and how He had saved his life from numerous risks and hazards. In relation to time, these benefits (which will be discussed in the following pages) pertain to an earlier period.
 
+## AI Translation
+
+And surely We had shown You favour before,.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, with Allah having the great authority and the most perfect power, He determined that Musa would not be raised except upon Fir'awn's own bed. And I endued you with love from Me,) This means that I made your enemy love you.
+
+**Classical tafsir:** Ibn Kathir notes: And I endued you with love from Me,) This means that I made your enemy love you.
 ## Personal Reflections
 
 

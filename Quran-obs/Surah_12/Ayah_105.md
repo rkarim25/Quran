@@ -122,6 +122,15 @@ The sense is that these people are not of the kind who would simply not listen t
 
 This was a description of people who simply did not believe in the existence of Allah Ta` ala, the great Creator, and in His wisdom and power. Mentioned next are those who do believe in Allah as the Creator,
 
+## AI Translation
+
+How many signs in the heavens and the earth do they pass by with indifference!
+
+## AI Tafsir
+
+**What this ayah teaches:** And how many a sign in the heavens and the earth they pass by, while they are averse therefrom (105)And most of them believe not in Allah except that they attribute partners unto Him (106)Do they then feel secure from the coming against them of the covering veil of the torment of Allah, or of the coming against them of the (Final) Hour, all of a sudden while they perceive not .
+
+**Classical tafsir:** Ibn Kathir notes: Or that He may catch them in the midst of their going to and from, so that there be no escape for them (from Allah's punishment)?
 ## Personal Reflections
 
 

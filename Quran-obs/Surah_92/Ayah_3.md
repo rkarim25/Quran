@@ -234,6 +234,19 @@ Surah Ash-Shams
 
 Ends here
 
+## AI Translation
+
+By the One who created male and female—
+
+## AI Tafsir
+
+**Context:** Ibn Jarir recorded from 'Amir bin 'Abdullah bin Az-Zubayr that he said, "Abu Bakr used to free servants upon their acceptance of Islam in Makkah. He used to free the elderly and the women when they accepted Islam.
+
+**What this ayah teaches:** The word damdama refers to such tormenting scourge as is unleashed on a person or a nation again and again, until it destroys or crushes them completely.
+
+**Classical tafsir:** Ibn Kathir notes: The word damdama refers to such tormenting scourge as is unleashed on a person or a nation again and again, until it destroys or crushes them completely.
+
+**From the Sunnah:** This Hadith has been recorded by At-Tirmidhi in the Book of Al-Qadar and he said "Hasan Sahih.". (Jami' at-Tirmidhi, authentic hadith)
 ## Personal Reflections
 
 

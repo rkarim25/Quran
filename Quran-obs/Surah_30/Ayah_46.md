@@ -167,6 +167,17 @@ When the calamities fall, they are meant for trial and test for some good people
 
 Sayyidi Hakim-ul-Ummah Ashraf Thanavi (رح) has given another distinction between the two calamities. If one becomes aware of his sins and faults and finds greater inclination toward seeking pardon from Allah Ta’ ala, then it is a sign of His kindness and favour. But if one gets frustrated and indulges more in sins and evil, then it is a sign of Allah's wrath and torment. وَاللہُ سبحانَہُ و تعالیٰ اَعلَم
 
+## AI Translation
+
+One of His signs: He sends winds bringing good news of rain, gives you a taste of His mercy, lets ships sail by His command, and lets you seek His bounty — perhaps you will show shukr.
+
+## AI Tafsir
+
+**What this ayah teaches:** And among His signs is this that He sends the winds as glad tidings, giving you a taste of His mercy, and that the ships may sail at His command, and that you may seek of His bounty, in order that you may be thankful (46)And indeed We did send Messengers before you to their own peoples.
+
+**Classical tafsir:** Ibn Kathir notes: The author of Ruh ul-Ma’ ani has explained that the word fasad' (translated in the text as 'plight' ) means all sorts of calamities, such as famine, epidemic diseases, frequency of the incidents of fire, drowning, lack of Allah's blessing in everything, and reduction in profits a…
+
+**From the Sunnah:** Further, it is also a common experience that generally the Muslim believers live a difficult life, whereas the infidels and libertines live a comfortable and easy life. (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -153,6 +153,15 @@ Commentary
 
 In the first verse (39): وَمَاذَا عَلَيْهِمْ لَوْ آمَنُوا بِاللَّـهِ it is said: What conceivable harm could have affected them if they had believed in Allah and the Last Day and spent out of what Allah had given them? at is so tough, difficult or frightening about it? All these are as easy as they come. Going by them, taking to them and believing in them does not hurt or harm or cause any inconvenience. Why then, would someone elect to be disobedient, the certain outcome of which is nothing but disaster in the Akhirah?
 
+## AI Translation
+
+What harm could have come to them if they had believed in Allah and the Last Day and donated from what Allah has provided for them? And Allah has knowledge of them.
+
+## AI Tafsir
+
+**What this ayah teaches:** The apparent wording for this Ayah indicates that it is talking about being stingy with money, even though miserly conduct with knowledge is also included.
+
+**Classical tafsir:** Ibn Kathir notes: The apparent wording for this Ayah indicates that it is talking about being stingy with money, even though miserly conduct with knowledge is also included.
 ## Personal Reflections
 
 

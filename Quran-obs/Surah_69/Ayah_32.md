@@ -86,6 +86,15 @@ Ad-Dahhak said, "Meaning a death which is not followed by any life." Likewise sa
 
 ثُمَّ فِي سِلْسِلَةٍ ذَرْ‌عُهَا سَبْعُونَ ذِرَ‌اعًا فَاسْلُكُوهُ (Thereafter, make him enter into a chain, the measure of which is seventy hands....69:32). The phrase 'make him enter into a chain' could be interpreted metaphorically as 'bind him in a chain' but it could be taken in its primary sense, that is, to pierce the chain through one side of the body, so that it could come out from the other side of it like a string is passed through a pearl or the bead of a rosary. Traditional narratives seem to support the primary sense. [ Mazhari ]
 
+## AI Translation
+
+then tie them with chains seventy arms long.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Bad Condition of Whoever is given His Record in His Left Hand These Ayat inform about the condition of the wretched people when one of them is given his Record (of deeds) in his left hand when the people are brought before Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "It will be the worst food of the people of the Hellfire." Ar-Rabi' and Ad-Dahhak both said, "It (Ghislin) is a tree in Hell." Shabib bin Bishr reported from 'Ikrimah that Ibn 'Abbas said, 'Ghislin will be the blood and fluid that will flow from their flesh." 'Ali bin Abi Talhah report…
 ## Personal Reflections
 
 

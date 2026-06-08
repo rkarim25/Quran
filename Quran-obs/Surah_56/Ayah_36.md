@@ -276,6 +276,17 @@ This Hadith has many chains of narration collected in the Sahihs and other colle
 
 أَبْكَارً‌ا - 56:36). The word abkaran, being the plural of bikr, means 'virgins'. The sense is the creation of the maidens of Paradise will be of such a nature that, even after every sexual intercourse, they will remain like virgins.
 
+## AI Translation
+
+These opening letters—known as the muqatta'at—are among the signs whose full meaning Allah kept with Himself. They open the surah by reminding the reader that this Book is from beyond human authorship: approach it with humility, not arrogance.
+
+## AI Tafsir
+
+**What this ayah teaches:** The word abkaran, being the plural of bikr, means 'virgins'. Rather, they are always available for those who want to eat from them, forever.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "Nothing will prevent them from reaching out to get these fruits, no branches, thorns or distance." We mentioned a Hadith before that states that whenever someone takes a fruit in Paradise, another one grows in its place.
+
+**From the Sunnah:** Paradise the shade of which a rider would take one hundred years to pass. (Sahih al-Bukhari, Sahih Muslim) Paradise, the believer will be given such and such strength for women.
 ## Personal Reflections
 
 

@@ -194,6 +194,19 @@ In contrast to what has been stated above, there are narrations that seem to hin
 
 As for the reports attributed to some revered Sufis, that they listened to 'ghina" (sama' ), it is based on this kind of permissible 'ghina"- because, it is certain that they followed the Shari` ah and Sunnah faithfully. That they would ever commit some such sin, simply cannot be imagined. Those learned among the Sufis have themselves explained it explicitly. The treatise mentioned earlier carries the sayings of the jurists of the four schools of jurisprudence as well as those of the Sufi authorities. At this place, the summary as given has been considered sufficient in the present context.( The original work in Arabic and its Urdu translation with exhaustive notes under the title, "Islam our Mausiqi" (Islam and Music) has been published by Maktaba-e-Darul-Uloom, Jamia Darul-Uloom, Korangi, Karachi-75180, Pakistan. Those interested in a detailed discussion of the subject would find both versions useful.)
 
+## AI Translation
+
+Those who believe and do good will have the Gardens of Bliss —
+
+## AI Tafsir
+
+**Context:** This verse was revealed because of a particular event relating to Nadr Ibn Harith. He was one of the top businessmen from among the Mushriks of Makkah who used to travel to different countries in connection with his busi…
+
+**What this ayah teaches:** And as for those who disbelieve, there is heaviness (deafness) in their ears, and it is blindness for them)(41:44).
+
+**Classical tafsir:** Ibn Kathir notes: They started listening to his stories eagerly simply because they contained no lessons to learn and no work to do.
+
+**From the Sunnah:** Imam al-Bukhari in his book, al-'Adab al-Mufrad, and al-Baihaqi in his Sunan have both elected to go by this Tafsfr. (Sahih al-Bukhari) It also carries an equally detailed discussion on music and musical instruments in the light of the Qur'an and Hadith along with the sayings of Muslim jurists and mystics. (Sahih Muslim)
 ## Personal Reflections
 
 

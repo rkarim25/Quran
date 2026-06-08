@@ -177,6 +177,15 @@ Said Ibn Jubayr has said, 'When a believer goes to Jannah, he will ask about his
 
 After having reported this Hadith narration in Tafsir Mazhari, the author said, 'this 'mawquf (a Hadith mawquf or restricted tradition from a Companion who does not connect it to the Holy Prophet ﷺ) has the same authority and force as 'marfu" (a Hadith marfu` is a tradition attributed to the Holy Prophet ﷺ) and is explicit on the point that 'doing good' that is held as a pre-condition for having this privilege means 'Iman' or adhering to the true faith.
 
+## AI Translation
+
+It will be announced to those who reject the truth: "Allah's contempt for you—as you rejected when invited to iman—was far worse than your contempt for one another today."
+
+## AI Tafsir
+
+**What this ayah teaches:** And none remembers but those who turn in repentance (13)So, call you upon Allah making religion sincerely for Him, however much the those who reject the truth may hate . When they actually experience the unbearable punishment of Allah, they will hate themselves with the utmost hatred, because of the sins they committed in the past, which were the cause of their entering the Fire.
+
+**Classical tafsir:** Ibn Kathir notes: When they actually experience the unbearable punishment of Allah, they will hate themselves with the utmost hatred, because of the sins they committed in the past, which were the cause of their entering the Fire.
 ## Personal Reflections
 
 

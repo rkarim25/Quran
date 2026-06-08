@@ -94,6 +94,15 @@ Allah says, when Yusuf's brothers told him about the afflictions and hardship, a
 
 Now the brothers of Yusuf (علیہ السلام) had no choice left with them but to confess the wrongs they had done and admit the grace and excellence of Sayyidna Yusuf (علیہ السلام) . So, in one voice, they all said: تَاللَّـهِ لَقَدْ آثَرَ‌كَ اللَّـهُ عَلَيْنَا وَإِن كُنَّا لَخَاطِئِينَ : ` By God, Allah has given to you preference over us [ which you deserved ], and we were surely in error [ in whatever we did - and so, forgive us in the name of Allah ].' To this in reply, Sayyidna Yusuf' (علیہ السلام) said what a prophet of his stature would say:
 
+## AI Translation
+
+They admitted, “By Allah! Allah has truly preferred you over us, and we have surely been sinful.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Indeed Allah has preferred you above us, and we certainly have been sinners.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

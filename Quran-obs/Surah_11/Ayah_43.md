@@ -187,6 +187,15 @@ Dust, air, water and fire are all 'servants'
 
 For you and me, dead, but with Him, live.
 
+## AI Translation
+
+He replied, “I will take refuge on a mountain, which will protect me from the water.” Noah cried, “Today no one is protected from Allah’s decree except those to whom He shows mercy!” And the waves came between them, and his son was among the drowned.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, in this verse, if the address to the heaven and the earth is taken in the real sense, it does not matter.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, he (Nuh) mentions that His Lord is Oft Forgiving, ar-Rahim.
 ## Personal Reflections
 
 

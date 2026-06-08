@@ -194,6 +194,17 @@ Ibn Abi Hatim recorded that Ibn 'Abbas said concerning Allah's statement,
 
 فَلَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْ‌جُلَكُم مِّنْ خِلَافٍ (I will certainly cut apart your hands and your legs from opposite sides - 20:71). The Pharaoh thus threatened his magicians with dire punishment. He said he would cut off their hands and feet from opposite sides i.e. first the right hand, then the left foot. This apparently was the mode of inflicting punishment under the laws of the Pharaoh. وَلَأُصَلِّبَنَّكُمْ فِي جُذُوعِ النَّخْلِ (And will crucify you on the trunks of palm-trees - 20:71) He also said that after cutting off their hands and feet he would crucify them on the trunks of palm-trees where they would remain suspended until they died of starvation.
 
+## AI Translation
+
+Pharaoh threatened, “How dare you believe in him before I give you permission? He must be your master who taught you magic. I will certainly cut off your hands and feet on opposite sides, and crucify you on the trunks of palm trees. You will really see whose punishment is more severe and more lasting.”
+
+## AI Tafsir
+
+**What this ayah teaches:** So I will surely cut off your hands and feet on opposite sides, and I will surely crucify you on the trunks of date palms, and you shall surely know which of us can give the severe and more lasting torment. He said he would cut off their hands and feet from opposite sides i.e.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Ibn Abi Hatim recorded that Ibn 'Abbas said concerning Allah's statement,
 ## Personal Reflections
 
 

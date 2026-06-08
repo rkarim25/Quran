@@ -87,6 +87,15 @@ This she-camel of Allah is a sign to you, so leave her to graze in Allah's land,
 
 As part of this event, the people of Sayyidna Salih (علیہ السلام) have been reported to have said to him: قَدْ كُنتَ فِينَا مَرْ‌جُوًّا قَبْلَ هَـٰذَا ( O Salih, we had hopes in you before this - 62). It means that, before he claimed to be a prophet and started telling them to shun idol-worship, they had great hopes in him. They thought he would rise to be a great reformer and leader of their people. The reason is that Allah Ta` a1a nurtures and grooms his prophets from their childhood in a way that they become models of good morals and habits. Whoever looks at them, loves and respects them. This is what happened in the case of the Last Prophet ﷺ Before he declared that he has been sent as a prophet, the whole Arabia called him al-amin (the trustworthy one) and took him to be true and righteous. It was only when he announced his prophet-hood and prohibited idol-worship that everyone turned hostile to him.
 
+## AI Translation
+
+And O my people! This she-camel of Allah is a sign for you. So leave her to graze freely on Allah’s earth and do her no harm, or a swift punishment will overtake you!”
+
+## AI Tafsir
+
+**What this ayah teaches:** This she-camel of Allah is a sign to you, so leave her to graze in Allah's land, and touch her not with evil, lest a near torment should seize you.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

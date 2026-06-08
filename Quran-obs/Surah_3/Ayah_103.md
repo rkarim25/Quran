@@ -386,6 +386,19 @@ It also follows from here that for Muslims, if they desire to have a stable orga
 
 This is how Allah makes His signs clear to you, so that you may take the right path. (103)
 
+## AI Translation
+
+And hold firmly to the rope of Allah and do not be divided. Remember Allah’s favour upon you when you were enemies, then He united your hearts, so you—by His grace—became brothers. And you were at the brink of a fiery pit and He saved you from it. This is how Allah makes His revelations clear to you, so that you may be guided.
+
+## AI Tafsir
+
+**Context:** This was revealed about the Aws and Khazraj. During the time of Jahiliyyah, the Aws and Khazraj were at war and had great hatred, enmity and ill feelings towards each other, causing long conflicts and battles to occur be…
+
+**What this ayah teaches:** Activating mutual love and consideration in the hearts of a people is purely a Divine blessing.
+
+**Classical tafsir:** Ibn Kathir notes: Did I not find you misguided and Allah directed you to guidance because of me?
+
+**From the Sunnah:** Have Taqwa of Allah as is His due, and die not except as (true) Muslims (102)And hold fast, all of you together, to the Rope of Allah, and be not divided among yourselves, and remember Allah's favor on you, for you were enemies of one another but He joined you… Ibn Abi Hatim recorded that 'Abdullah bin Mas'ud commented on the Ayah,
 ## Personal Reflections
 
 

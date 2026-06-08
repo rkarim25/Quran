@@ -110,6 +110,15 @@ So, Musa asked Allah to remove these difficulties for him, as he said in Surah T
 
 زَوْجٍ كَرِ‌يمٍ (noble pair - 26:7). The word زَوْجٍ (zawj) literally means a pair. That is why man and woman, and male and female are called Zawj. Many species of trees have male and female among them. On this basis they can also be called Zawj (زَوْجٍ ). Sometimes the word Zawj is also used for a special kind. On the basis of this meaning all species of trees can be called Zawj. The meaning of Karim is a nice and favourite thing.
 
+## AI Translation
+
+the people of Pharaoh. Will they not fear Allah?”
+
+## AI Tafsir
+
+**What this ayah teaches:** Between Musa and Fir'awn Allah tells us what He commanded His servant, son of 'Imran and Messenger Musa, peace be upon him, who spoke with Him, to do, when He called him from the right side of the mountain, and conversed with him, and chose him, sent him, and commanded him to go to Fir'awn and his people.
+
+**Classical tafsir:** Ibn Kathir notes: Sometimes the word Zawj is also used for a special kind.
 ## Personal Reflections
 
 

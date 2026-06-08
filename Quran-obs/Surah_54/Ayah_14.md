@@ -149,6 +149,15 @@ However, it appears that the meaning here is that Allah kept ships as a sign. Fo
 
 ذَاتِ أَلْوَاحٍ وَدُسُرٍ‌ (to board that [ ship ] which had planks and nails...54:13). The word alwah is the plural of lawh and it refers to a board or a plank. The word dusur is the plural of disar and it stands for nail. It also means a cord of fibres of the palm tree with which the planks of a ship are bound together.
 
+## AI Translation
+
+sailing under Our watchful eyes—a repayment for the one they had rejected.
+
+## AI Tafsir
+
+**What this ayah teaches:** So, the waters met for a matter predestined (12)And We carried him on a (ship) made of planks and nails (Dusur (13)Floating under Our Eyes, a reward for him who had been rejected (14)And indeed, We have left this as a sign. The word alwah is the plural of lawh and it refers to a board or a plank.
+
+**Classical tafsir:** Ibn Kathir notes: The word alwah is the plural of lawh and it refers to a board or a plank.
 ## Personal Reflections
 
 

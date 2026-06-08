@@ -142,6 +142,15 @@ Commentary
 
 وَهُوَ يُجِيرُ‌ وَلَا يُجَارُ‌ عَلَيْهِ (And who gives protection and no protection can be given against him - 23:88) The meaning of the verse is that Allah alone can deliver a person from pain and suffering as He wills, but there is none who can save a person from divine punishment. This is true of this world because nobody can stop Allah from rewarding virtuous people nor can anyone protect someone whom He chooses to punish. And the same is true of the Hereafter also. (Qurtubi)
 
+## AI Translation
+
+Allah has never had any offspring, nor is there any god besides Him. Otherwise, each god would have taken away what he created, and they would have tried to dominate one another. Glorified is Allah above what they claim!
+
+## AI Tafsir
+
+**What this ayah teaches:** No son (or offspring) did Allah beget, nor is there any Allah along with Him.
+
+**Classical tafsir:** Ibn Kathir notes: It is impossible for the will of both to be fulfilled because of the conflict.
 ## Personal Reflections
 
 

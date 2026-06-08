@@ -154,6 +154,17 @@ Mujahid says that As-sabiqun (the Foremost) refers to 'the Prophets'. Ibn Sirin 
 
 Ibn-Kathir (رح) cites all these views and concludes that they are all correct and authentic in their own right. The opinions are not in conflict with one another, because As-sabiqun are those who must have been foremost in their invincible faith and righteous deeds in this world, and as such they would be the 'Foremost' in the Hereafter in terms of reward which will befit their faith and good deeds.
 
+## AI Translation
+
+and the foremost in faith will be the foremost in Paradise.
+
+## AI Tafsir
+
+**What this ayah teaches:** And those on the left – how (unfortunate) will be those on the left!)(10. The opinions are not in conflict with one another, because As-sabiqun are those who must have been foremost in their invincible faith and righteous deeds in this world, and as such they would be the 'Foremost' in the Hereafter in terms of reward which will befit their faith and good deeds.
+
+**Classical tafsir:** Ibn Kathir notes: And those on the left – how (unfortunate) will be those on the left!)(10.
+
+**From the Sunnah:** : "They are those who accept the truth when it is presented to them; when they are asked for the rights due from them, they fulfill them; and they judge about the matters of others as they would judge about themselves. (Musnad Ahmad) Ibn Sirin says that it refers to early Muslims who performed their prayers facing the two qiblas, namely, baytul-maqdis and baitulllah.
 ## Personal Reflections
 
 

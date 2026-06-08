@@ -144,6 +144,17 @@ A doctrinal point
 
 Verse 50 speaks of the splitting of the sea, and clearly proves that miracles do occur at the hands of prophets, which some Westernized Muslims have been trying to deny. (Bayn al-Quran (
 
+## AI Translation
+
+And when We parted the sea for you, saved you, and drowned Pharaoh's people while you watched.
+
+## AI Tafsir
+
+**What this ayah teaches:** We should state here that 'Pharaoh' (Fir'awn) is a title that was given to every disbelieving king who ruled Egypt, whether from the 'Amaliq (Canaanites) or otherwise, just as Caesar (Qaysar) is the title of the disbelieving kings who ruled Rome and Damascus.
+
+**Classical tafsir:** Ibn Kathir notes: Imam Ahmad reported that Ibn 'Abbas said that the Messenger of Allah came to Al-Madinah and found that the Jews were fasting the day of 'Ashura'.
+
+**From the Sunnah:** that the Messenger of Allah came to Al-Madinah and found that the Jews were fasting the day of 'Ashura'. (Musnad Ahmad) So the Messenger of Allah ﷺ fasted that day and ordered that it be fasted. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

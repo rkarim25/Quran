@@ -156,6 +156,17 @@ Moreover, it is also possible that these three words are numerical adjectives re
 
 The next sentence: يَزِيدُ فِي الْخَلْقِ مَا يَشَاءُ (He adds to the creation what He wills) means that Allah Ta’ ala has the power to increase whatever He wills and as much as He wills in the creation of everything He has originated. This obviously is related to: أَجْنِحَةٍ (ajnihah: wings) in that the feathers and wings of the angels are not something simply restricted to two or four in numbers, for they could be many more than these if Allah Ta’ ala so wills. Most commentators say exactly this. And Tafsir authorities Zuhri, Qatadah and others have said that this increase in creation is to be taken in its general sense which includes increase in the feathers and wings of angels as well as the increase of particular attributes in the creation of different human beings which, then, includes the beauty of form, the beauty of character, the beauty of voice and many more increased assets like these. Abu Hayyan has, in al-Bahr ul-Muhit, followed this track of explanation and said that things like good manners, beauty of figure and face, perfection of reason and intellect, politeness in discourse and similar others are all included therein. This second Tafsir proves that the beauty or perfection of anything one has is invariably a gift and blessing from Allah Ta’ ala for which one should be grateful to Him.
 
+## AI Translation
+
+All praise belongs to Allah—the Originator of the heavens and the earth, Who made angels as messengers with wings of two, three, or four. He adds to creation whatever He wills. Surely Allah has power over all things.
+
+## AI Tafsir
+
+**What this ayah teaches:** And Tafsir authorities Zuhri, Qatadah and others have said that this increase in creation is to be taken in its general sense which includes increase in the feathers and wings of angels as well as the increase of particular attributes in the creation of different human beings which, then, includes the beauty of form, the beauty of character, the beauty of voice and many more in…
+
+**Classical tafsir:** Ibn Kathir notes: Verily, Allah is Able to do all things.) As-Suddi said, "He increases their wings and creates them as He wills."
+
+**From the Sunnah:** Some have more than that, as stated in the Hadith mentioning that the Messenger of Allah ﷺ saw Jibril, peace be upon him, on the Night of the Isra' with six hundred wings.
 ## Personal Reflections
 
 

@@ -151,6 +151,17 @@ These verses have described the event of two persons one of whom had a lot of we
 
 The other person, though less than him in wealth, was a true believer. He refuted the argument of the former one by saying that the worldly wealth is not a sign of one's being close to Allah, because the worldly benefits are given by Allah, in one way or the other, even to the disbelievers and sinful persons, rather to the snakes, scorpions and beasts. It is a horrible mistake to presume that they are the signs of one's being approved by Allah. Therefore, neither your wealth is the proof of your behaviour being approved by Allah, nor my lesser wealth is a proof of disapproval by Him. Allah's approval or disapproval depends on one's faith and deeds alone and not on the amount of wealth one has.
 
+## AI Translation
+
+His believing companion replied, while conversing with him, “Do you reject the truth in the One Who created you from dust, then developed you from a sperm-drop, then formed you into a man?
+
+## AI Tafsir
+
+**What this ayah teaches:** There is no power but with Allah!?'" One of the Salaf said, "Whoever is delighted with something in his circumstances or his wealth or his children, let him say, 'That which Allah wills!
+
+**Classical tafsir:** Ibn Kathir notes: He refuted the argument of the former one by saying that the worldly wealth is not a sign of one's being close to Allah, because the worldly benefits are given by Allah, in one way or the other, even to the those who reject the truth and sinful persons, rather to the snakes, scorpions and beas…
+
+**From the Sunnah:** It was reported in the Sahih from Abu Musa that the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

@@ -74,6 +74,15 @@ Commentary
 
 وَمَا تِلْكَ بِيَمِينِكَ يَا مُوسَىٰ The question: "What is in your right hand, 0 Musa"? - 20:17 marks the beginning of the special favour which Allah Ta` ala showed towards Sayyidna Musa (علیہ السلام) in order to dispel the fear created by the unusual sights that he had seen and the Divine Word that he had heard. The style in which Allah Ta` ala addressed him was friendly, inquiring from him what he held in his hand. Besides there was a subtle purpose in the question, namely to make him aware that what he held in his hand was a staff made of wood and nothing more. And when he had satisfied himself again that it was indeed a wooden staff, then the miracle of turning it into a serpent was revealed, thus precluding any doubt in his mind that in the darkness of the night he might have picked up a serpent instead of his staff.
 
+## AI Translation
+
+Allah added, “And what is that in your right hand, O Moses?”
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, that which is in your right hand is a stick that you are familiar with.
+
+**Classical tafsir:** Ibn Kathir notes: It was a snake, moving quickly.) This means that the stick changed into a huge snake, like a long python, and it moved with rapid movements.
 ## Personal Reflections
 
 

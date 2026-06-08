@@ -230,6 +230,19 @@ The Commentary on
 
 Surah Al-Buruj Ends here
 
+## AI Translation
+
+Those who persecute believing men and women and do not repent will suffer Hell's punishment and burning torment.
+
+## AI Tafsir
+
+**Context:** Then, after Ibn Ishaq explained that the people of Najran began following the religion of the boy after his murder, which was the religion of Christianity, he said, "Then (the king) Dhu Nuwas came to them with his army a…
+
+**What this ayah teaches:** Another possible interpretation is that the second statement describes the wrong-doers' torment in this world, as is narrated in some reports.
+
+**Classical tafsir:** Ibn Kathir notes: And Allah is Witness over everything.)(10.
+
+**From the Sunnah:** During it there is an hour that no Muslim servant catches while asking Allah from some good except that Allah will give it to him. (Sahih Muslim) The Oppression of the People of the Ditch against the Muslims
 ## Personal Reflections
 
 

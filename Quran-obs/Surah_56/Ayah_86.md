@@ -92,6 +92,15 @@ Their denial of Resurrection by the unbelievers, in a way, amounts to a claim th
 
 In short, it is not within people's power to get together and save a soul or life. Allah is nearer to a dying person than his soul or life. Allah has pre-designated a particular time for the soul to be separated from the body. None can avert it. In view of this graphic picture, the disbelievers are reminded that if they think that they cannot be resurrected after death, and they are too strong to come under Allah's grasp, then they must restore the soul when it has reached the throat and is about to depart from the body or it has already departed and died. If it is not possible to do any of these, how illogical or irrational it is for man to think that he can escape the Divine grasp and reject life after death!
 
+## AI Translation
+
+if you are not subject to Our command as you claim,
+
+## AI Tafsir
+
+**What this ayah teaches:** So, if you are not going to be recompensed [ in the Hereafter for your deeds ], then why do you not bring the soul back, if you are truthful?...56:83-87) The preceding verses proved two facts through rational arguments and by swearing an oath by the falling stars: [ 1] that the Holy Qur'an-is the word of Allah.
+
+**Classical tafsir:** Ibn Kathir notes: In the current verse the word is used in the sense of hypocrisy and rejection of Allah's verses carelessly.
 ## Personal Reflections
 
 

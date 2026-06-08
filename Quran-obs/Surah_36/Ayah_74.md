@@ -75,6 +75,15 @@ Consolation for the Mercy to the Worlds
 
 In verse 72: وَذَلَّلْنَاهَا لَهُمْ (And We have brought them under their control), yet another favor and blessing has been pointed to. If one were to look at the camel, horse, elephant, ox and other animals, it will be realized that they are seemingly far stronger than human beings. Man is weak as compared to them - as a result of which, it should have not been possible for him to tame and control them. But, Allah Ta` la had it arranged in His own way. The way He created these animals and gifted them to human beings, in the same way, He made these free animals naturally subservient to man. A boy reins a strong horse and rides on its back to anywhere he likes to go. This thing too is no achievement of man. This comes from Allah Ta` H1a as His grace, a blessing that is given to man without asking.
 
+## AI Translation
+
+Still they have taken other gods besides Allah, hoping to be helped by them.
+
+## AI Tafsir
+
+**What this ayah teaches:** And they have taken besides Allah, gods, hoping that they might be helped (74)They cannot help them, but they will be brought forward as a troop (against those who worshipped them)(75)So, let not their speech then grieve you.
+
+**Classical tafsir:** Ibn Kathir notes: This means that those idols will be gathered together and will be present when their worshippers are brought to account, as this will add to their grief and will be more effective in establishing proof against them.
 ## Personal Reflections
 
 

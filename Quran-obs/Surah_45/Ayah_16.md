@@ -129,6 +129,19 @@ Another point worth noting is that when the Qur'an commanded ` Say, [ 0 Muhammad
 
 Some of the scholars maintain that the rule of forgiving the infidels applied only before the revelation of the verse of jihad. When jihad was ordained, the rule of forgiveness, in terms of the current verse, was abrogated. However, most research scholars express the view that this verse has nothing to do with the verse of jihad. The current verse sets down the general social law that the Muslims should not wreak vengeance for every little thing. This law is universally applicable in every age and situation - the social law is needed even at the present time, and therefore it is not accurate to treat it as abrogated - especially if we were to take into account the circumstances under which it was revealed: the battle of Bani-l-Mustaliq. If this battle is the cause of revelation of this verse, then verses of jihad cannot be the abrogators, because they were revealed before this event.
 
+## AI Translation
+
+We gave the Children of Israel the Scripture, wisdom, and prophethood; granted them good lawful provisions; and favoured them above others.
+
+## AI Tafsir
+
+**Context:** (Then We have put you on a (legal) way of commandment. So follow you that.) 'follow what was revealed to you from your Lord, O Muhammad, there is no true deity except Him, and turn away from the idolators.' Allah said, ق…
+
+**What this ayah teaches:** And indeed We gave the Children of Israel the Scripture, and the understanding of the Scripture and its laws, and the prophethood; and provided them with good things, and preferred them above the nations (16)And gave them clear proofs in matters.
+
+**Classical tafsir:** Ibn Kathir notes: The word ayyam (days) in the Arabic language is abundantly used in the sense of ` turn of events'.
+
+**From the Sunnah:** This Ayah contains a warning to the Muslim Ummah as well. (Sahih Muslim) ` Abdullah Ibn 'Ubayy, the leader of the hypocrites, was with the Muslims.
 ## Personal Reflections
 
 

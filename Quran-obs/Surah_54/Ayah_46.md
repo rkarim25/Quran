@@ -103,6 +103,19 @@ The word زُبُر zubur (in verse 43) is the plural of zabur, which stands for
 
 In the phrase مَقْعَدِ صِدْقٍ maq` adi-sidqin, the word maq'ad means 'seat' and the word sidq means 'truth' and implies the 'seat of truth' where there will be no idle and obscene talks.
 
+## AI Translation
+
+Better yet—the Hour is their appointed time, and the Hour will be most catastrophic and most bitter.
+
+## AI Tafsir
+
+**Context:** Al-Bukhari also recorded that Yusuf bin Mahak said, "I was with the Mother of the faithful, 'A'ishah, when she said, 'When I was still a young playful girl in Makkah, this Ayah was revealed to Muhammad ﷺ, The word زُبُر…
+
+**What this ayah teaches:** The word amarr is derived from murr which originally means 'bitter'. The other meaning of the word is 'madness' and the translation in the text is based on this meaning.
+
+**Classical tafsir:** Ibn Kathir notes: The other meaning of the word is 'madness' and the translation in the text is based on this meaning.
+
+**From the Sunnah:** Abu Bakr caught him by the hand and said, 'This is sufficient, O Allah's Messenger! This is the abridged narration that Al-Bukhari collected, but he also collected a longer narration of it in the Book of the Virtues of the Qur'an. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

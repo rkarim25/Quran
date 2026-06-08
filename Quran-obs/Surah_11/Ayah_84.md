@@ -166,6 +166,15 @@ Turning to the verses cited above, we see that Sayyidna Shu'aib (علیہ الس
 
 When a people start lessening weights and measures, Allah Ta` ala makes them suffer from the punishment of famine and price hikes.'
 
+## AI Translation
+
+And to the people of Midian We sent their brother Shu’aib. He said, “O my people! Worship Allah. You have none other worthy of worship than Him. And do not give short measure and weight. I do see you in prosperity now, but I truly fear for you the torment of an overwhelming Day.
+
+## AI Tafsir
+
+**What this ayah teaches:** Worship Allah, you have no other Allah but Him, and give not short measure or weight. Besides being kafirs and mushriks, his people used to give less in weights and measures.
+
+**Classical tafsir:** Ibn Kathir notes: Their land was known by the name of their tribe and was thus, called Madyan.
 ## Personal Reflections
 
 

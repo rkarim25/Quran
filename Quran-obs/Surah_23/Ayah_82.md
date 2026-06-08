@@ -138,6 +138,15 @@ Visitation of famine upon Makkah and its deliverance on the prayers of the Holy 
 
 It has been mentioned earlier that the Holy Prophet ﷺ had prayed to Allah to punish the people of Makkah with famine and as a result they were reduced to great straits and were forced to eat dead animals. At last, Abu Sufyan presented himself before the Holy Prophet ﷺ at Madinah and said, "I appeal you in the name of Allah, did you not say that you had been sent by Him as mercy for the whole world?" The Holy Prophet ﷺ replied, "Yes I did, and what I said is true also." Then Abu Sufyan said, "You killed the leaders of your clan with sword at the battle of Badr and now you are killing those who still survive with starvation. Pray to Allah, I beseech you, to remove this curse from over our heads." The Holy Prophet ﷺ then prayed to Allah to forgive the people of Makkah and deliver them from the agony of hunger, and his prayer was granted forthwith. The verse: وَلَقَدْ أَخَذْنَاهُم بِالْعَذَابِ فَمَا اسْتَكَانُوا لِرَ‌بِّهِمْ (23:76) was revealed on this occasion and refers to this incident. (Mazhari)
 
+## AI Translation
+
+They said, “Once we are dead and reduced to dust and bones, will we really be resurrected?
+
+## AI Tafsir
+
+**What this ayah teaches:** They said: "When we are dead and have become dust and bones, shall we be resurrected indeed?") They thought it very unlikely that this would happen after they had disintegrated into nothing.
+
+**Classical tafsir:** Ibn Kathir notes: This is only the tales of the ancients!") This means, "It is impossible that we could be brought back.
 ## Personal Reflections
 
 

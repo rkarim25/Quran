@@ -126,6 +126,15 @@ Ibn Abi Hatim also recorded it from them and from Ad-Dahhak bin Muzahim. This is
 
 أَوَلَمْ يَسِيرُ‌وا فِي الْأَرْ‌ضِ (Have they not travelled on earth - 30:9). It means that the Makkans live in a land where there is neither any cultivation and industry nor any tall and beautiful buildings, but for the sake of trade they do travel to Syria and Yemen. So, have they not seen, during the course of their trips, what was the fate of the earlier people, whom Allah Ta’ ala had endowed with skills to make use of the land? For instance, they had the skill to draw underground water by excavating the earth for irrigating fields and gardens, and dig out concealed precious minerals, such as gold and silver, and make use of them to their benefit. For their advanced skills and way of living, they were regarded as civilized nations. But they got engrossed so much in material life, transitory luxuries and comforts that they forgot Allah Ta’ ala and the Hereafter. Then, Allah Ta’ ala sent prophets and books to remind them of their duties, but they did not pay any heed. Ultimately, they were overtaken by Allah's wrath even in this world. The ruins of their desolate cities still stand witness to their destruction. At the end of the verse it is suggested to ponder whether they were subjected to any oppression from Allah Ta’ ala, or they subjected themselves to their own cruelty by accumulating causes of the divine punishment.
 
+## AI Translation
+
+Then the worst end was for those who denied and mocked Allah's signs.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then evil was the end of those who did evil, because they dendied the Ayât of Allâh and made a mockery of them.) Signs of Tawhid Allah tells us that pondering His creation will show that He exists and that He is Unique in creating it, and that there is no Allah nor lord besides Him. Surely, Allâh wronged them not, but they used to wrong themselves.)(10.
+
+**Classical tafsir:** Ibn Kathir notes: Surely, Allâh wronged them not, but they used to wrong themselves.)(10.
 ## Personal Reflections
 
 

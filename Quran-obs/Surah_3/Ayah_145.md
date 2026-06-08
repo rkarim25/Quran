@@ -260,6 +260,17 @@ And whoever seeks the return in this world, We shall give him out of it, and who
 
 Here, it has been hinted that they made a mistake when they abandoned the duty assigned to them by the Holy Prophet ﷺ in order to collect spoils. At this point, let us keep in mind that, in its real sense, the collection of spoils is not the same as the unabashed pursuit of the material which has been condemned in the Shari’ ah of Islam. On the contrary, collecting spoils, depositing it in safe custody and spending it where it must be spent is all a part of Jihad, and for that matter, an act of worship. So, the Companions who took part in this mission never did it for sheer material gain, for they would have been entitled to receive their due share in the spoils of war even if they had not actively participated in the collection of spoils as guaranteed under the Islamic Law. Therefore, it cannot be said that these blessed Companions abandoned their post of duty under the temptation of worldly gains. But, as explained earlier under comments on the first verse (144), even minor mistakes made by major people draw more attention. Even an ordinary deviation from their duty is taken to be serious and they are admonished for that. This applies here as well. Granted that their collecting of spoils could be related with the desire to make worldly gains, at the most in some minor way; and equally granted is the possibility that this small connection had not influenced their hearts; yet, it was to take the morals of the noble Companions ؓ to the highest possible level that this act of theirs was identified as 'the seeking of return in this world' so that even the tiniest speck of worldly temptation fails to find its way into their hearts.
 
+## AI Translation
+
+No soul can ever die without Allah’s Will at the destined time. Those who desire worldly gain, We will let them have it, and those who desire heavenly reward, We will grant it to them. And We will reward those who are grateful.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, it cannot be said that these blessed Companions abandoned their post of duty under the temptation of worldly gains. And he who turns back on his heels, not the least harm will he do to Allah; and Allah will reward the grateful (144)And no person can ever die except by Allah's leave and at an appointed term.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the Muslims' resolve was weakened and they did not actively participate in battle.
+
+**From the Sunnah:** When Muslims suffered defeat in battle at Uhud and some of them were killed, Shaytan shouted, "Muhammad has been killed." Ibn Qami'ah went back to the idolators and claimed, "I have killed Muhammad." Some Muslims believed this rumor and thought that the Messen… This story was collected by Al-Hafiz Abu Bakr Al-Bayhaqi in Dala'il An-Nubuwwah.
 ## Personal Reflections
 
 

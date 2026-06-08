@@ -138,6 +138,17 @@ Allah said,
 
 In the fourth verse (47) it was said that the people of the Injil should enforce injunctions in accordance with the Law revealed by Al-mighty Allah in the Injil, and those who enforce what is against the in-junctions sent down by Almighty Allah are disobedient, sinners.
 
+## AI Translation
+
+So let the people of the Gospel judge by what Allah has revealed in it. And those who do not judge by what Allah has revealed are the rebellious.
+
+## AI Tafsir
+
+**Context:** (And whosoever does not judge by what Allah has revealed, such are the rebellious.) meaning, the rebellious and disobedient of Allah who prefer falsehood and abandon truth.
+
+**What this ayah teaches:** And whosoever does not judge by what Allah has revealed, such are the rebellious . And in their footsteps, We sent 'Isa, son of Maryam, confirming the Tawrah that had come before him, and We gave him the Injil, in which was guidance and light and confirmation of the Tawrah that had come before it, a guidance and an admonition for those who have Taqwa (46)Let the people of the Injil judge by what A…
+
+**Classical tafsir:** Ibn Kathir notes: Or, the Ayah means, so that they believe in all that is in it and adhere to all its commands, including the good news about the coming of Muhammad ﷺ and the command to believe in and follow him when he is sent.
 ## Personal Reflections
 
 

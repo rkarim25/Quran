@@ -98,6 +98,17 @@ The Supplication of Musa
 
 Sayyidna Harun (علیہ السلام) was three or four years senior to Sayyidna Musa علیہ السلام and died three years before the latter. When Sayyidna Musa (علیہ السلام) petitioned to Allah Ta` ala for his appointment as Wazir he was in Egypt, and there he received, through an angel, information about his elevation to the status of a prophet and his appointment as an assistant to Sayyidna Musa (علیہ السلام) . He was also instructed to receive Sayyidna Musa (علیہ السلام) outside Egypt when he arrived there in pursuance of his mission to persuade the Pharaoh to accept the true faith. This he did.
 
+## AI Translation
+
+Aaron, my brother.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, he was left with the remnants of this accident that took place with his tongue. That was his request for the assistance of his brother, Harun.
+
+**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported from Abu Sa'id, from 'Ikrimah, who said that Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
+
+**From the Sunnah:** Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
 ## Personal Reflections
 
 

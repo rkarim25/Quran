@@ -218,6 +218,17 @@ Having urged the people to be concerned about the Hereafter and having asserted 
 
 الِمُ الْغَيْبِ وَالشَّهَادَةِ (...the Knower of the unseen and the seen - 22). The attribute 'the Knower of the Unseen and the seen' means that Allah knows all things, visible or invisible.
 
+## AI Translation
+
+He is Allah—there is no god worthy of worship except Him: Knower of the seen and unseen. He is the Rahman—mercy that encompasses all creation in this life—and the Rahim—special mercy for believers in the Akhirah.
+
+## AI Tafsir
+
+**What this ayah teaches:** He is the ar-Rahman, the ar-Rahim (22)He is Allah, beside Whom La ilaha illa Huwa, Al-Malik, Al-Quddus, As-Salam, Al-Mu'min, Al-Muhaymin, Al-'Aziz, Al-Jabbar, Al-Mutakabbir.
+
+**Classical tafsir:** Ibn Kathir notes: In one of the narrations for this Hadith, Al-Hasan Al-Basri said after narrating the Hadith, "You – mankind – are more worthy to miss the Messenger of Allah ﷺ than the tree trunk!" Likewise, this honorable Ayah asks that if the solid mountains feel humble and are rent asunder from the fear of Allah,…
+
+**From the Sunnah:** So, when the Minbar was made and placed in the Masjid, the Prophet ﷺ came to deliver a speech and passed the tree trunk, headed towards the Minbar, the tree trunk started weeping, just like an infant.
 ## Personal Reflections
 
 

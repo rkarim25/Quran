@@ -155,6 +155,19 @@ Addressing his own clan, the Holy Prophet ﷺ said:
 
 Another hadith says: من بطابہ عملہ لم یسرع بہ نسبہ :"He who has been pulled back by his deeds cannot be pushed forward by his ancestry."
 
+## AI Translation
+
+That was a community that has passed. For them is what they earned; for you is what you earn. You will not be asked about what they did.
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you (O Muhammad ﷺ)[but We revealed to him (saying): La ilaha illa Ana [none has the right to be worshipped but I (Allah)], so worship Me (alone and none else))(21:25).
+
+**What this ayah teaches:** This Ayah is used as evidence that the grandfather is called a father and inherits, rather than the brothers (i.e.
+
+**Classical tafsir:** Ibn Kathir notes: Verse 134 tells us that the good deeds of one's forefathers shall not suffice one, if one has not been performing good deeds oneself, and that, similarly, one shall not have to suffer for the misdeeds of one's forefathers, if one's own account is clean.
+
+**From the Sunnah:** when his son dies), as Abu Bakr asserted, according to Al-Bukhari who narrated Abu Bakr's statement from Ibn 'Abbas and Ibn Az-Zubayr.
 ## Personal Reflections
 
 

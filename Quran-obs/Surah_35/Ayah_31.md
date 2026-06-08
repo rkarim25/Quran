@@ -122,6 +122,19 @@ It has been characterized as trade in the sense that a trader invests his capita
 
 Included within this grace and increase is the promise of Allah Ta’ ala that He rewards the deed of a believer multiplied many times, the lowest denominator of which could be ten times of the deed, and the highest could reach seven hundred times, even higher than that. Then, also included in this grace is the acceptance of their intercession on behalf of sinners - as it appears in a Hadith narrated by Sayyidna ` Abdullah Ibn Masud ؓ where he has reported the explanation of this grace from the Holy Prophet ﷺ : 'These people will intercede on behalf of anyone who had done some favor to them during the life of the mortal world. Then, despite being deserving of the punishment of Jahannam, such people will stand delivered of it by virtue of their intercession.' (Tafsir Mazhari with reference to Ibn Abi Hatim) (And it is obvious that intercession will be possible only for the people of faith. No one will be allowed to intercede on behalf of a disbeliever). Similarly, the foremost part of this grace is that they will have an opportunity to see Allah Ta’ ala.
 
+## AI Translation
+
+The Book We revealed to you is the truth, confirming what came before it. Allah is All-Aware, All-Seeing of His servants.
+
+## AI Tafsir
+
+**Context:** And what We have revealed to you of the Book, it is the (very) truth confirming that which was (revealed) before it.
+
+**What this ayah teaches:** And what We have revealed to you of the Book, it is the (very) truth confirming that which was (revealed) before it.
+
+**Classical tafsir:** Ibn Kathir notes: When the text says 'secretly and openly', it indicates that it is often better to spend secretly in order to stay safe from riya' (show off) in acts of worship.
+
+**From the Sunnah:** Muslim jurists have laid out details in the matter of salah and spending in the way of Allah. (Sahih Muslim)
 ## Personal Reflections
 
 

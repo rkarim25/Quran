@@ -148,6 +148,17 @@ In the verses appearing above, there is a continuity of arguments against positi
 
 The fact, as narrated by Sayyidna Ibn ` Abbas ؓ in an authentic re-port, is that Jacob suffered from Sciatica. He had taken a vow that he would abandon what he liked most in what he ate if Allah Almighty cured him of the disease. He was cured and camel meat was what he liked most, so he abandoned it. (See Al-Hakim and al-Tirmidhi as quoted by Ruh a1-Ma` ni). Then, it, so happened that this prohibition which started because of a vow continued among the Bani Isra'il as a divine injunction. It seems their code recognized a vow as a cause of unlawfulness of something lawful, like in our own Shari'ah, a vow may make the permissible acts as obligatory. However, a vow or pledge which renders things unlawful is, in reality, an oath which is not permissible in our Shari` ah. In fact, in such a case, it is obligatory to break the oath and make amends by making کفارہ Ka ffarah. This. Is in accordance with what Allah Almighty has said in the verse لِمَ تُحَرِّ‌مُ مَا أَحَلَّ اللَّـهُ لَكَ why do you forbid what Allah has made lawful for you? - 66:1) (See al-Tafsir al Jabir)
 
+## AI Translation
+
+Say, “Allah has declared the truth. So follow the Way of Abraham, the upright—who was not a polytheist.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Indeed, this is the truth, there is no doubt in it, and the perfect way, and no Prophet has brought a more complete, clear, plain and perfect way than he did.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, let the Jews consider what Allah legislated for 'Isa and if such legislation falls under the category of abrogation or not.
+
+**From the Sunnah:** Ask me about whatever you wish. (Musnad Ahmad) Was not the best food to him camel meat and the best drink camel milk?' They said, 'Yes, by Allah.' The Messenger ﷺ said, 'O Allah, be Witness against them.' The Prophet ﷺ then said, 'I ask you by Allah, other than Whom there is no deity (worthy of worship), W…
 ## Personal Reflections
 
 

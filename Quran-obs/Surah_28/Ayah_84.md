@@ -148,6 +148,17 @@ It is clarified in this verse that the intention for mischief and pride will deb
 
 The last verse وَالْعَاقِبَةُ لِلْمُتَّقِينَ (And the (best) end is for the God-fearing - 28:83) elaborates that it is not enough to abstain from mischief and pride to get the share of the Hereafter, but following the righteous path is as much a requirement. To follow all the religious obligations is also essential for the salvation in the Hereafter.
 
+## AI Translation
+
+Whoever comes with a good deed will be rewarded with what is better. And whoever comes with an evil deed, then the evildoers will only be rewarded for what they used to do.
+
+## AI Tafsir
+
+**Context:** (It has been revealed to me that you should be humble to the extent that none of you boasts to others or mistreats others.) But if a person simply likes to look good, then there is nothing wrong with that.
+
+**What this ayah teaches:** And the good end is for those who have Taqwa (83)Whosoever brings good, he shall have the better thereof; and whosoever brings evil, then those who do evil deeds will only be requited for what they used to do .
+
+**Classical tafsir:** Ibn Kathir notes: 'Ikrimah said that this phrase referred to haughtiness and arrogance.
 ## Personal Reflections
 
 

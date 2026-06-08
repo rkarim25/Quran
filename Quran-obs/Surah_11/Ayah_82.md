@@ -122,6 +122,17 @@ After that, the Qur'an portrays the occurrence of the punishment by saying: So, 
 
 Reports say that these habitations were composed of four major towns where those people lived. These very habitations have been named as 'al-mu'tafikat' (the towns overturned) elsewhere in the Holy Qur'an (9:70, 69:9). When the Divine command came, the archangel Jibra'il al-Amin dissected the base of the land mass holding all those towns on top of it with his wing, raised all of it upwards in a way that everything stayed where it was, even water in a water vessel. It was in the backdrop of human, animal and canine voices coming from the sky that he heaved all these habitations straight up towards the sky and, then, threw the whole thing back upside down - as appropriate to and as called for by the evil they indulged in.
 
+## AI Translation
+
+When Our command came, We turned the cities upside down and rained down on them clustered stones of baked clay,.
+
+## AI Tafsir
+
+**What this ayah teaches:** So when Our commandment came, We turned them upside down, and rained on them stones of clay, in an array (82)Marked from your Lord; and they are not ever far from the wrongdoers .
+
+**Classical tafsir:** Ibn Kathir notes: Some of the scholars said that it (Sijjil) derived from the word Sang, which means a stone.
+
+**From the Sunnah:** "Sijjil means that which is big and strong." Concerning Allah's statement, (Sahih al-Bukhari) Verily, it has been reported in a Hadith of the Sunan collections, from Ibn 'Abbas, which he attributed to the Prophet ﷺ,
 ## Personal Reflections
 
 

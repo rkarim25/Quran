@@ -182,6 +182,15 @@ This is why it will be said to them in order to scold and reprimand them,
 
 Then the next verse warns the disbelievers that the sustenance Allah grants them by sending down rain from the clouds and by growing plants/ vegetation in the earth is not their personal property. It is a gift and bounty from Allah. If He wills, He can withhold it. This is the import of the following verse:
 
+## AI Translation
+
+What force will help you besides the Rahman? The those who reject the truth are lost in delusion.
+
+## AI Tafsir
+
+**What this ayah teaches:** The those who reject the truth are in nothing but delusion (20)Who is it that can provide for you if He should withhold His provision?
+
+**Classical tafsir:** Ibn Kathir notes: This means that it will surround them and Allah will command what they were not able to reckon or fully comprehend to come to them.
 ## Personal Reflections
 
 

@@ -94,6 +94,15 @@ Verse 51 refers to other incidents in the same story. When the Pharaoh had been 
 
 Verse 51 calls them "unjust" for having committed this sin, for 'injustice' lies in putting things in the improper places, and idolatory is essentially just that.
 
+## AI Translation
+
+And when We appointed forty nights for Moses, then you took the calf for worship in his absence, wronging yourselves.
+
+## AI Tafsir
+
+**What this ayah teaches:** And (remember) when We appointed for Musa (Moses) forty nights, and (in his absence) you took the calf (for worship), and you were Zalimun (polytheists and wrongdoers)(51)Then after that We forgave you so that you might be grateful (52)And (remember) when We gave Musa the Scripture (the Tawrah)) and the criterion (of right and wrong) so that you may be guided aright .
+
+**Classical tafsir:** Ibn Kathir notes: Verse 51 refers to other incidents in the same story.
 ## Personal Reflections
 
 

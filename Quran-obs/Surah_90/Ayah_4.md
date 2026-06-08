@@ -308,6 +308,17 @@ The oath and its subject makes plain to man that his desire to live peacefully a
 
 Then, after describing a few of the ignorant disbeliever's qualities, the following verse says about an unbeliever: أَيَحْسَبُ أَن لَّمْ يَرَ‌هُ أَحَدٌ (Does he think that no one has seen him?...90:7) that is, his evil deeds. He should realise that his Creator watches every action of his.
 
+## AI Translation
+
+We created humankind in unceasing struggle—kabad: toil, pain, and uphill effort from birth through livelihood.
+
+## AI Tafsir
+
+**What this ayah teaches:** And she brings him forth with hardship.)(46:15) and she breast-feeds him with hardship, and his livelihood is a hardship.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
+
+**From the Sunnah:** Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
 ## Personal Reflections
 
 

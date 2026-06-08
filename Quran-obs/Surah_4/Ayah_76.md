@@ -144,6 +144,17 @@ That the guile of Satan has been called 'feeble' in this verse (76) is not an is
 
 Sayyidna Ibn Abbas ؓ has said: When you see Satan, do not think twice. Attack him.' After that, he recited this very verse: إِنَّ كَيْدَ الشَّيْطَانِ كَانَ ضَعِيفًا (No doubt, the guile of Satan is feeble.) (al-Qurtub)
 
+## AI Translation
+
+Those who have iman fight for the cause of Allah, whereas those who reject the truth fight for the cause of the Devil. So fight against Satan’s forces. Indeed, Satan’s schemes are ever weak.
+
+## AI Tafsir
+
+**What this ayah teaches:** So, Muslims should really not demur when it comes to fighting against the friends of Satan, that is, against the those who reject the truth.
+
+**Classical tafsir:** Ibn Kathir notes: Encouraging Jihad to Defend the Oppressed Allah encouraged His believing servants to perform Jihad in His cause and to strive hard to save the oppressed Muslims in Makkah, men, women and children who were restless because of having to remain there.
+
+**From the Sunnah:** Allah encouraged His believing servants to perform Jihad in His cause and to strive hard to save the oppressed Muslims in Makkah, men, women and children who were restless because of having to remain there. Allah Almighty responded to their prayer and commanded Muslims to wage Jihad against their oppressors and which put an end to their hardships immediately. (Sahih Muslim)
 ## Personal Reflections
 
 

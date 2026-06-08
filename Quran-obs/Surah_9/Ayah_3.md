@@ -239,6 +239,17 @@ The Qur'anic proclamation of the withdrawal of Hijrah year 9 and the ensuing ins
 
 5. The fifth ruling from the cited verses tells us about the standard Muslim attitude towards the enemies of Islam. When confronted with enemies, Muslims should always keep in mind that they are no enemy to them personally. The truth of the matter is that they are opposed to their disbelief, which is actually the cause of their own loss in the present world as well as in the Hereafter. As for the opposition of Muslims to them, that too is really based on good wishes for them. Therefore, Muslims should never abandon the opportunity to give good counsel to them, whether in war or peace. This theme appears in these verses repeatedly. It promises real prosperity for them in this world and in the world to come, only if they were to rescind their thinking. The text does not leave it at that. It also warns them of the consequences: if they refused to repent and correct, they would not only be destroyed and killed in the present world but, they would also not es-cape their punishment even after death. It is interesting that, along with the proclamation of withdrawal in these verses, the strain of sympathetic insistence also continues.
 
+## AI Translation
+
+A declaration from Allah and His Messenger to all people on the day of the greater pilgrimage that Allah and His Messenger are free of the polytheists. So if you repent, it will be better for you. But if you turn away, then know that you will have no escape from Allah. And give good news to those who reject the truth of a painful punishment.
+
+## AI Tafsir
+
+**Context:** Muhammad bin Ishaq reported a narration from Abu Ja'far Muhammad bin 'Ali bin Al-Husayn who said, "When Bara'ah was revealed to Allah's Messenger ﷺ, and he had sent Abu Bakr to oversee the Hajj rites for the people, he w…
+
+**What this ayah teaches:** So if you repent, it is better for you, but if you turn away, then know that you cannot escape Allah.
+
+**Classical tafsir:** Ibn Kathir notes: The lesson was: if they overpower an enemy who stands helpless before them, they should not seek revenge from that enemy for his past hostilities.
 ## Personal Reflections
 
 

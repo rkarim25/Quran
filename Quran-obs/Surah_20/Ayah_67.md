@@ -84,6 +84,19 @@ Ibn Abi Hatim recorded that Ibn 'Abbas said, "The magicians were seventy men who
 
 فَأَوْجَسَ فِي نَفْسِهِ خِيفَةً مُّوسَىٰ (So Musa concealed some fear in his heart - 20:67.). The sight of so many snakes crawling around evoked a sense of fear in Sayyidna Musa (علیہ السلام) which he did not reveal to anyone. Even if this fear was for his own personal safety then it can be regarded as a natural human reaction to a dangerous situation and does not conflict with the mission of prophethood. It is clear, however, that the fear which he felt was not for his own life. His apprehension was that if the immense crowd, which had assembled to see the contest, sensed that the Egyptian magicians had the upper hand then the purpose of his mission would be frustrated. These doubts and fears were dispelled when in the next verse Allah assured him لَا تَخَفْ إِنَّكَ أَنتَ الْأَعْلَىٰ (do not be scared. Certainly, you are to be the upper most - 20:68).
 
+## AI Translation
+
+So Moses concealed fear within himself.
+
+## AI Tafsir
+
+**Context:** (So Musa conceived fear in himself.) This means that he feared for the people that they would be tested and deceived by their magic before he could even have a chance to throw what was in his right hand.
+
+**What this ayah teaches:** Therefore, when this happened, they fell down into prostration to Allah. Even if this fear was for his own personal safety then it can be regarded as a natural human reaction to a dangerous situation and does not conflict with the mission of prophethood.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, when this happened, they fell down into prostration to Allah.
+
+**From the Sunnah:** Paradise was raised up before them until they were looking at it.
 ## Personal Reflections
 
 

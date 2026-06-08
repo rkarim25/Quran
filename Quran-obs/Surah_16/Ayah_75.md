@@ -137,6 +137,15 @@ Al-'Awfi reported that Ibn 'Abbas said: "This is the example which Allah gives o
 
 In the first of the two examples given in the last two verses, the description is that of a master and a slave, that is, the owner and the owned. By giving this example, it is being said: When these two, despite being from the same genus and the same kind, cannot be equal to each other, how then could you equate someone or something created by Allah with Him?
 
+## AI Translation
+
+Allah sets forth a parable: a slave who lacks all means, compared to a free man to whom We granted a good provision, of which he donates freely, openly and secretly. Are they equal? Praise be to Allah. In fact, most of them do not know.
+
+## AI Tafsir
+
+**What this ayah teaches:** The servant who has no power over anything is like the those who reject the truth, and the one who is given good provisions and spends of them secretly and openly is like the believer.
+
+**Classical tafsir:** Ibn Kathir notes: The Example of the Believer and the those who reject the truth, or the Idol and the True Allah Al-'Awfi reported that Ibn 'Abbas said: "This is the example which Allah gives of the those who reject the truth and the believer." This was also the view of Qatadah and Ibn Jarir.
 ## Personal Reflections
 
 

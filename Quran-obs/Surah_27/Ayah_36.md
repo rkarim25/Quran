@@ -134,6 +134,17 @@ Shamsul 'A` immah has commented after citing these narrations that, in his view,
 
 Bilqis took the rejection of her presents by Sayyidna Sulaiman (علیہ السلام) as a sign of his prophethood - not because the acceptance of gifts from disbelievers is not permissible - but she had purposefully sent those presents as a bribe, in order to save herself from any attack from him.
 
+## AI Translation
+
+When the chief-envoy came to him, Solomon said, “Do you offer me wealth? What Allah has granted me is far greater than what He has granted you. No! It is you who rejoice in receiving gifts.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, I do not accept your presents of wealth. When her messengers came back to her with her undelivered gift, and told her what Sulayman said, she and her people paid heed and obeyed him.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, I do not accept your presents of wealth.
+
+**From the Sunnah:** The correct position about this question is that if this may lead to weakening of one's position or that of Muslim community, or is likely to go against the expediency of the national interest, then it is prudent not to accept their presents. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

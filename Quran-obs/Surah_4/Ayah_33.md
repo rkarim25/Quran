@@ -170,6 +170,17 @@ Inheriting through pledge
 
 The giving of a share on the basis of a pledge mentioned at the end of verse 33 refers to a practice during the initial period of Islam. This was later abrogated by the verse وَأُولُو الْأَرْ‌حَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ (As for the womb - relatives, some of them are closer to some...) (33:6) Now, if other heirs exist, a pledge or mutual contract between two parties does not affect the inheritance in any manner whatsoever.
 
+## AI Translation
+
+And We have appointed heirs to what has been left by parents and next of kin. As for those you have made a pledge to, give them their share. Surely Allah is a Witness over all things.
+
+## AI Tafsir
+
+**Context:** A woman asked the Holy Prophet ﷺ 'A man gets a double share in the inheritance and the witness of a woman is half as compared with a man - does that mean that we shall be getting a half reward for all of our acts of wors…
+
+**What this ayah teaches:** There were other women who wished: Had we been men, we would have taken part in Jihad and the merit of Jihad would have been ours.' A woman asked the Holy Prophet ﷺ 'A man gets a double share in the inheritance and the witness of a woman is half as compared with a man - does that mean that we shall be getting a half reward for all of our acts of worship?' Thereupon, the present…
+
+**Classical tafsir:** Ibn Kathir notes: Inheriting through pledge The giving of a share on the basis of a pledge mentioned at the end of verse 33 refers to a practice during the initial period of Islam.
 ## Personal Reflections
 
 

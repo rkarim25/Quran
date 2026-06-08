@@ -131,6 +131,17 @@ It is clarified in this verse that the intention for mischief and pride will deb
 
 The last verse وَالْعَاقِبَةُ لِلْمُتَّقِينَ (And the (best) end is for the God-fearing - 28:83) elaborates that it is not enough to abstain from mischief and pride to get the share of the Hereafter, but following the righteous path is as much a requirement. To follow all the religious obligations is also essential for the salvation in the Hereafter.
 
+## AI Translation
+
+That eternal Home in the Akhirah We reserve only for those who seek neither tyranny nor corruption on the earth. The ultimate outcome belongs only to the righteous.
+
+## AI Tafsir
+
+**Context:** (It has been revealed to me that you should be humble to the extent that none of you boasts to others or mistreats others.) But if a person simply likes to look good, then there is nothing wrong with that.
+
+**What this ayah teaches:** That is the home of the Hereafter, We shall assign to those who do not want to exalt themselves in the land nor cause corruption. The Blessings of the Hereafter for the humble Believers Allah tells us that He has made the home of the Hereafter, and its eternal delights which will never change or fade away, for His believing, humble servants who do not rebel against the truth with pride and oppress…
+
+**Classical tafsir:** Ibn Kathir notes: 'Ikrimah said that this phrase referred to haughtiness and arrogance.
 ## Personal Reflections
 
 

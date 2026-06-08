@@ -180,6 +180,19 @@ Having stated the creative acumen of the Great Creator, the verse states: يَا
 
 'How many humans are there whose faults are put [ by Allah ] under cover, (i.e. He did not disgrace them), yet they do not appreciate (and are deluded by His grace.'
 
+## AI Translation
+
+knowing whatever you do.
+
+## AI Tafsir
+
+**Context:** Al-Baghawi mentioned that Al-Kalbi and Muqatil said, "This Ayah was revealed about Al-Aswad bin Shariq who struck the Prophet ﷺ and he was not punished in retaliation. So Allah revealed,
+
+**What this ayah teaches:** Then I fashioned you and made your creation balanced so that you walked between the two outer garments.
+
+**Classical tafsir:** Ibn Kathir notes: Then I fashioned you and made your creation balanced so that you walked between the two outer garments.
+
+**From the Sunnah:** from Jabir that Mu'adh stood and lead the people in the Night prayer, and he made the recitation of his prayer long. (Sunan an-Nasa'i) from Busr bin Jahhash Al-Qurashi that one day the Messenger of Allah ﷺ spat in his palm and placed his finger on it. (Musnad Ahmad)
 ## Personal Reflections
 
 

@@ -110,6 +110,17 @@ The name of the mother of Sayyidna Musa (علیہ السلام)
 
 In Ruh ul-Ma` ani her name is given as Yuhanadh (یُحَانذ) and in Itqan it is said that her name was Lihyana daughter of Yasmad Ibn Lawi (لحیانہ بنت یصمد بن لاوی). Others say her name was Barkha ( (بَارخَا and still others say that it was Bazakht (بَازخت). Some people who dispense charms and amulets attribute strange properties to her name but according to Ruh u1-Ma` ani there is no basis for such a belief and probably it is nothing more than a hoax to entice innocent and ignorant people.
 
+## AI Translation
+
+when We inspired your mother with this:.
+
+## AI Tafsir
+
+**Context:** إِذْ أَوْحَيْنَا إِلَىٰ أُمِّكَ مَا يُوحَىٰ (When We revealed to your mother what was to be revealed - 20:38) It means that the information given to the mother of Sayyidna Musa (علیہ السلام) was about a matter which coul…
+
+**What this ayah teaches:** The first was inspiring his mother when she was breastfeeding him and she feared that Fir'awn and his chiefs would kill him. Therefore, with Allah having the great authority and the most perfect power, He determined that Musa would not be raised except upon Fir'awn's own bed.
+
+**Classical tafsir:** Ibn Kathir notes: And I endued you with love from Me,) This means that I made your enemy love you.
 ## Personal Reflections
 
 

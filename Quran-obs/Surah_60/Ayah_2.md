@@ -195,6 +195,19 @@ This is why Allah's Messenger ﷺ accepted Hatib's excuse when he said that he o
 
 وَوَدُّوا لَوْ تَكْفُرُ‌ونَ (...and they desire that you should reject the (true) faith...60:2). The greatest desire of the non-believers' hearts is to see the Muslims revert to disbelief. Thus when the Muslims stretch their hand of friendship towards them, it will be at the cost of their belief. They will never be happy with the Muslims unless they give up their faith.
 
+## AI Translation
+
+If they gain the upper hand over you, they become open enemies: their hands and tongues strike at you, and they wish you would abandon iman.
+
+## AI Tafsir
+
+**Context:** (O you who believe! Take not my enemies and your enemies as protecting friends'...) was revealed about Hatib, but I do not know if the Ayah was mentioned in the Hadith (or was added as an explanation by one of the narrat…
+
+**What this ayah teaches:** Should they gain the upper hand over you, they would behave to you as enemies, and stretch forth their hands and their tongues against you with evil, and they desire that you should disbelieve.)(3. They would use all means, their hands and their tongues, and would spare no effort to harm the Muslims.
+
+**Classical tafsir:** Ibn Kathir notes: The verse indicates how bitter are the feelings of those who reject the truth towards Muslims.
+
+**From the Sunnah:** And whosoever of you (Muslims) does that, then indeed he has gone (far) astray from the straight path.)(2. The Prophet ﷺ sent someone after the woman and retrieved the letter.
 ## Personal Reflections
 
 

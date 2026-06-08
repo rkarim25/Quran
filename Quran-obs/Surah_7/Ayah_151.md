@@ -120,6 +120,15 @@ Ibn Abi Hatim recorded that Ibn 'Abbas said that the Messenger of Allah ﷺ said
 
 Thereafter he turned to the Prophet Harun (علیہ السلام) and grasped the hair of his head. The Prophet Harun (علیہ السلام) then gave him the true account of the events and said that it was not his fault, for he stopped them from this wicked act but they did not listen to him. They were so obstinate about it that they were about to kill him. He said that he should not count him among the ignorant people and should not let his enemies laugh at him by treating him in that way. This made the Prophet Musa (علیہ السلام) cool down. At this occasion, he prayed to Allah, saying, رَ‌بِّ اغْفِرْ‌ لِي وَلِأَخِي وَأَدْخِلْنَا فِي رَ‌حْمَتِكَ ۖ وَأَنتَ أَرْ‌حَمُ الرَّ‌احِمِينَ "My Lord, forgive me and my brother, and admit us to Your mercy, and You are the most merciful of all those who show mercy." He asked forgiveness for his brother for any of his shortcoming with regard to his duties. He asked forgiveness for himself either for his putting away the tablets of the Torah in a hurry which the Holy Qur'an had described as having been 'dropped' to make a gesture of warning, or perhaps, for educating people that they should include themselves while asking forgiveness for others to preclude the sense of complacency on their part.
 
+## AI Translation
+
+Moses prayed, “My Rabb! Forgive me and my brother! And admit us into Your mercy. You are the the Rahim of the merciful.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Forgive me and my brother, and admit us into Your mercy, for You are the ar-Rahim of those who show mercy.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

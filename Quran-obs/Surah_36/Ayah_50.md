@@ -70,6 +70,15 @@ Allah tells us how the disbelievers thought that the Day of Resurrection would n
 
 In verse 50, it was said فَلَا يَسْتَطِيعُونَ تَوْصِيَةً وَلَا إِلَىٰ أَهْلِهِمْ يَرْ‌جِعُونَ (So they will not be able to make a bequest, nor will they return to their household.), that is, people who are gathered there will not have the respite to make a will among themselves to do something on their behalf, and those who are still outside their houses will not find the respite even to go into their houses. They will lie dead in the very state in which they would be at that time. This is a description of the first blowing of the Horn of the day of Qiyamah as a result of which the entire gamut of the earth and heavens will be destroyed.
 
+## AI Translation
+
+Then they will not be able to make a last will, nor can they return to their own people.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then the people who are alive will be driven to the gathering place by a fire which will surround them on all sides. After this there will be the Trumpet blast which will cause everyone who is alive to die, besides the One Who is Ever Living, Eternal.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

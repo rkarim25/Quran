@@ -235,6 +235,15 @@ Acceptability in the sight of Allah: A Criterion
 
 The fourth verse (125) lays down a criterion to help determine correctly as to who is acceptable in the sight of Allah, and who is not. This criterion has two components. Any shortfall in either of the two components makes all efforts go waste. A careful look will reveal that all strayings into error and evil, wherever they may be in this wide world, are triggered because of a shortfall in one of these two components. Compare Muslims with non-Muslims. Or, compare the different sects, groups and parties within the Muslim community itself. You will come across the same two points of reference - any deviation from either is bound to land one in disgrace.
 
+## AI Translation
+
+But those who do good—whether male or female—and have faith will enter Paradise and will never be wronged the speck on a date stone.
+
+## AI Tafsir
+
+**What this ayah teaches:** It will not be in accordance with your desires, nor those of the People of the Scripture, whosoever works evil, will have the recompense thereof, and he will not find any protector or helper besides Allah (123)And whoever does righteous good deeds, male or female, and is a believer, such will enter Paradise and not the least injustice, even to the size of a Naqir, will be done…
+
+**Classical tafsir:** Ibn Kathir notes: The hint given here is that the People of the Book or other non-Muslims may also have some good deeds of their own, but, since their faith is not sound, therefore, those deeds of theirs are not acceptable.
 ## Personal Reflections
 
 

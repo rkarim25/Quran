@@ -96,6 +96,15 @@ Surah As-Saffat
 
 Ends here.
 
+## AI Translation
+
+And praise be to Allah—Lord of all worlds.
+
+## AI Tafsir
+
+**What this ayah teaches:** And all the praises and thanks be to Allah, Lord of all that exists)." Other Hadiths concerning the expiation for any wrongs that may have occurred during a gathering prescribe saying the words: "Glory be to You, O Allah, and praise. Because Tasbih (glorification) implies a declaration of being free from all shortcomings, the two ideas appear together here and in many places in the Qur'an.
+
+**Classical tafsir:** Ibn Kathir notes: Because Tasbih (glorification) implies a declaration of being free from all shortcomings, the two ideas appear together here and in many places in the Qur'an.
 ## Personal Reflections
 
 

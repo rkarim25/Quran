@@ -168,6 +168,17 @@ Then Allah tells us:
 
 Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ الْحَرَّ‌ (shirts which protect you from heat - 81). Here, protection from heat has been identified as the purpose of a shirt - though, a shirt protects one from heat and cold both. This has been answered by Imam Al-Qurtubi and other commentators by saying that the Holy Qur’ an has been revealed in the Arabic language, its first addressees are Arabs, therefore, it speaks by taking Arab habits and needs into account. Arabia is a hot country where the very thought of snow and winter chill is far-fetched, therefore, the statement was left with the mention of protection from heat as being sufficient. Yet another explanation for this has been given by Maulana Ashraf Ali Thanavi in Bayan al-Qur’ an by saying that in the beginning of this Surah, the Qur’ an had already said: لَكُمْ فِيهَا دِفْءٌ (and for you, there is provision against cold in them - 16:5). Thus, it was in view of this earlier mention of beating cold and having warmth that only protection from heat has been mentioned here.
 
+## AI Translation
+
+They will offer full submission to Allah on that Day, and whatever gods they fabricated will fail them.
+
+## AI Tafsir
+
+**Context:** Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ الْحَرَّ‌ (shirts which protect you from heat - 81). Here, protection from heat has been identified as the purpose of a shirt - though, a shirt protects one from…
+
+**What this ayah teaches:** Nay, it (the Fire) will come upon them all of a sudden and will perplex them, and they will have no power to avert it nor will they have any respite.)(21:39-40) The gods of the Idolators will disown Them at the Time when They need them most Then Allah tells us that their gods will disown them when they need them most.
+
+**Classical tafsir:** Ibn Kathir notes: Arabia is a hot country where the very thought of snow and winter chill is far-fetched, therefore, the statement was left with the mention of protection from heat as being sufficient.
 ## Personal Reflections
 
 

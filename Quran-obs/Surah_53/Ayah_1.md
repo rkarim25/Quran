@@ -88,6 +88,17 @@ Allah Swears that the Messenger is True
 
 The verb hawa means to fall or plunge. When stars fall, they set. In this verse Allah swears an oath to show that the Messenger ﷺ is true, and his words are a revelation from Allah, in which there is no room for any doubt. In Surah As-Saffat it has been explained in detail that the Creator, for various wise reasons, swears by whatever He wills among His creation, but His created beings only swear by the Creator. They are not allowed to swear by anything else. Here Allah has sworn an oath by the stars. Probably, the underlying wisdom in this is that as the Arabs are used to determine the course and direction of, and are guided in their travels by the movements of the stars in the sandy waste of Arabia, so they would now be led to the goal and end of their spiritual journey by the star par excellence, that is, by the Holy Prophet ﷺ .
 
+## AI Translation
+
+By the star as it sets—Allah swears by the celestial sign that just as stars guide travellers through the desert, His Messenger guides souls to their true destination.
+
+## AI Tafsir
+
+**What this ayah teaches:** Probably, the underlying wisdom in this is that as the Arabs are used to determine the course and direction of, and are guided in their travels by the movements of the stars in the sandy waste of Arabia, so they would now be led to the goal and end of their spiritual journey by the star par excellence, that is, by the Holy Prophet ﷺ .
+
+**Classical tafsir:** Ibn Kathir notes: 53:1) The word najm means a star, and as a common noun every star is referred to as najm, and in that case the plural is nujum.
+
+**From the Sunnah:** The Prophet ﷺ (recited it in Makkah) and prostrated. (Sahih al-Bukhari, Sahih Muslim) Ibn Abi Hatim recorded that Ash-Sha'bi and others stated that the Creator swears by whatever He wills among His creation, but the created only vow by the Creator.
 ## Personal Reflections
 
 

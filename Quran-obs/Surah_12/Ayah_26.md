@@ -177,6 +177,15 @@ Apart from being a miracle of speech manifested by a child, this was something w
 
 The explanation of the ` shahid' or witness of Sayyidna Yusuf (علیہ السلام) given here - that he was a small child blessed with the power of speech as a miracle - stands proved from a Hadith of the Holy Prophet t. This Hadith has been reported by Imam Abmad in his Musnad, Ibn Hibban in his Sahih and Hakim in Mustadrak. They have rated this Hadith as Sahih (sound). In this Hadith, it is said: ` Allah Ta` ala has blessed four children the power of speech while still in their cradle.' These four are the same as mentioned earlier. (Mazhari) However, in some narrations, other explanations of ` shahid' or witness have also been reported. But, Tafsir authorities such as Ibn Jarir, Ibn Kathir and others have declared the first Tafsir to be the weightier one.
 
+## AI Translation
+
+Joseph responded, “It was she who tried to seduce me.” And a witness from her own family testified: “If his shirt is torn from the front, then she has told the truth and he is a liar.
+
+## AI Tafsir
+
+**What this ayah teaches:** So, when the direction was followed, it was observed that the shirt was torn up from the back. The 'Aziz was an easy man, or gave excuse to his wife because she saw in Yusuf an appeal she could not resist.
+
+**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported that Jabir said that Ibn Abi Mulaykah said that Ibn 'Abbas said, "He was from the king's entourage." Mujahid, 'Ikrimah, Al-Hasan, Qatadah, As-Suddi, Muhammad bin Ishaq and others also said that the witness was an adult male.
 ## Personal Reflections
 
 

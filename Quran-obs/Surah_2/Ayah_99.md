@@ -246,6 +246,17 @@ Allah then said,
 
 In denying the Holy Prophet ﷺ ، the Jews used to say that no clear evidence or sign of his prophethood had been revealed to him such as they could recognize and accept. In reply to this the Holy Qur'an says that Allah has revealed a number of very clear signs and evidences of his prophethood which even they know and understand very well. So, their denial is not based on a lack of recognition or knowledge, but on their habitual disobedience, for, as a general rule, no one denies such evidence except those who are willful and stubborn in their disobedience.
 
+## AI Translation
+
+We have sent down to you clear signs. None reject them except the rebellious.
+
+## AI Tafsir
+
+**Context:** (And indeed We have sent down to you manifest Ayat) means, "We have sent to you, O Muhammad, clear signs that testify to your prophethood." These Ayat are contained in the Book of Allah (Qur'an) which narrates the secret…
+
+**What this ayah teaches:** And indeed We have sent down to you manifest Ayat and none disbelieve in them but Fasiqun (those who rebel against Allah's command)(99)Is it not (the case) that every time they make a covenant, some party among them throw it aside? What should I do?" Al-Hasan Al-Basri said that this Ayah means, "The angels were sent with magic, so that the people whom Allah willed would be tried and tested.
+
+**Classical tafsir:** Ibn Kathir notes: What should I do?" Al-Hasan Al-Basri said that this Ayah means, "The angels were sent with magic, so that the people whom Allah willed would be tried and tested.
 ## Personal Reflections
 
 

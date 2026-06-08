@@ -303,6 +303,19 @@ The Pharaoh, who claimed to be a god, was also absolutely guilty of the massacre
 
 An unfortunate tendency is in vogue among the scholars of criticizing each other which they regard as a service to Islam. There is a need for curbing this tendency and the true teaching of Islam should be adopted.
 
+## AI Translation
+
+Go forth, you and your brother, with My signs and never falter in remembering Me.
+
+## AI Tafsir
+
+**Context:** As Sayyidna Musa and Bani Isra'il continued their journey they came across a people who worshipped idols which they themselves had fashioned.
+
+**What this ayah teaches:** Then you came here according to the fixed term which I ordained (for you), O Musa (40)And I have chosen you for Myself (41)Go you and your brother with My Ayat, and do not, you both, slacken and become weak in My remembrance (42)Go both of you to Fir'awn, verily, he has transgressed (43)And speak to him mildly, perhaps he may accept admonition or fear (Allah).
+
+**Classical tafsir:** Ibn Kathir notes: Rather, they both should remember Allah during their meeting with Fir'awn so that the remembrance of Allah can be an aid for them against him.
+
+**From the Sunnah:** protection from the Muslims.
 ## Personal Reflections
 
 

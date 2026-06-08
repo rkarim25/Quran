@@ -120,6 +120,17 @@ The tenth verse (52), while mentioning the charming demeanor of the man of true 
 
 The first sentence of the verse: قُلْ هَلْ تَرَ‌بَّصُونَ بِنَا إِلَّا إِحْدَى الْحُسْنَيَيْن (Say, "Is it not that you are expecting for us but one of the two good things [ martyrdom and victory ] "?) means exactly this. However, along with it, it was also said that the fate of the disbelievers was quite contrary for they will find no respite from suffering or punishment under any condition. Either, they would be punished at the hands of Muslims right here in this world, in which case, they will taste the punishment in the mortal and the eternal world both. And, in case, they somehow escaped unscathed in the mortal world, there is no possibility of deliverance from the punishment of the Hereafter.
 
+## AI Translation
+
+Say, “ donate willingly or unwillingly, it will never be accepted from you, for you have been a rebellious people.”
+
+## AI Tafsir
+
+**What this ayah teaches:** This is why Allah does not accept charity or good deeds from the people described in these Ayat, because He only accepts it from those who have Taqwa.
+
+**Classical tafsir:** Ibn Kathir notes: This is why Allah does not accept charity or good deeds from the people described in these Ayat, because He only accepts it from those who have Taqwa.
+
+**From the Sunnah:** The tenth verse (52), while mentioning the charming demeanor of the man of true faith, has given an answer to hypocrites delighted over the discomfort of Muslims. Either, they would be punished at the hands of Muslims right here in this world, in which case, they will taste the punishment in the mortal and the eternal world both.
 ## Personal Reflections
 
 

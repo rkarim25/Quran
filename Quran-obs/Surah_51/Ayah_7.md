@@ -132,6 +132,17 @@ Differing Beliefs of the Pagans
 
 إِنَّكُمْ لَفِي قَوْلٍ مُّخْتَلِفٍ (you are [ involved ] in a contradictory statement... 51:8) Verse [ 7] was an oath and this verse is the statement for which oath is sworn. Apparently, the verse addresses the pagans of Makkah who assigned contradictory attributes to the Holy Prophet ﷺ ، calling him at different times a madman, a sorcerer, a poet and other discordant names. According to another possible interpretation, the verse addresses the entire humankind - Muslims as well as non-believers. Thus 'contradictory statement' would mean that a sector believed in the Holy Prophet ﷺ and accepted him; and another sector rejected him and opposed him (Mazhari).
 
+## AI Translation
+
+By the heaven with its marvellous design—
+
+## AI Tafsir
+
+**What this ayah teaches:** And verily, Ad-Din is sure to occur.)(7. They resemble tracks and pathways; therefore pathways are also referred to as hubuk in Arabic.
+
+**Classical tafsir:** Ibn Kathir notes: And verily, Ad-Din is sure to occur.)(7.
+
+**From the Sunnah:** According to another possible interpretation, the verse addresses the entire humankind - Muslims as well as non-believers.
 ## Personal Reflections
 
 

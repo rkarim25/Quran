@@ -99,6 +99,15 @@ While refusing to prostrate before Sayyidna 'Adam (علیہ السلام) ، Ibl
 
 (1) That 'Adam was created from mud and he was from fire and that there was no reason why mud was given precedence over fire. This question was an effort to find out the wisdom of the order given to him before he could comply with the Divine command - something the one so commanded has no right to ask. That Allah, the Exalted, would let the commanded one have the right to demand the wisdom of His command is far out specially when we see in our everyday life that human beings themselves would not give their servant the right to say no to them. Think of a master asking his servants to do something and the servant demanding the master that he should first explain the wisdom of that assignment. Therefore, this question was considered unworthy of an answer and no answer was given. In addition to that, the answer is already obvious. Giving precedence to something over the other is the prerogative of the Being that created and nurtured everyone. Whenever and whatever He declares to be superior becomes exactly so.
 
+## AI Translation
+
+Adding, “Do you see this one you honoured above me? If you delay my end until the Day of Judgment, I will certainly take hold of his descendants, except for a few.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, this question was considered unworthy of an answer and no answer was given. And (remember) when We said to the angels: "Prostrate yourselves unto Adam." They prostrated themselves except Iblis.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, this question was considered unworthy of an answer and no answer was given.
 ## Personal Reflections
 
 

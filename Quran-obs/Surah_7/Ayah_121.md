@@ -62,6 +62,17 @@ Next, the verse said:
 
 The sorcerers were so overawed by the miracle of the prophet Musa (علیہ السلام) that they fell in prostration. This may also imply that Allah blessed them with favour and put them in prostration. They added the phrase, the Lord of Musa and Harun (علیہما السلام) after saying, the Lord of the worlds, to make it clear that the Lord worshipped by Musa (علیہ السلام) and Harun (علیہ السلام) is, in fact, the Lord of the Universe, and not the Pharaoh as he pretended to be.
 
+## AI Translation
+
+They declared, “We believe in the Rabb of all worlds— the Rabb of Moses and Aaron.”
+
+## AI Tafsir
+
+**Context:** And We revealed to Musa (saying): "Throw your stick," and behold! It swallowed up straight away all the falsehood which they showed (117)Thus truth was confirmed, and all that they did was made of no effect (118)So they…
+
+**What this ayah teaches:** It swallowed up straight away all the falsehood which they showed (117)Thus truth was confirmed, and all that they did was made of no effect (118)So they were defeated there and returned disgraced (119)And the sorcerers fell down prostrate (120)They said: "We believe in the Lord of all that exists (121)"The Lord of Musa and Harun.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said that Musa's stick swallowed all the ropes and sticks that the magicians threw.
 ## Personal Reflections
 
 

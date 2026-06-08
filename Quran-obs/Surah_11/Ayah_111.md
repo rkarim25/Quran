@@ -116,6 +116,17 @@ verse of the Qur'an: تِسْعَةُ رَ‌هْطٍ يُفْسِدُونَ ف�
 
 During the Khilafah of Sayyidna ` Umar ibn ` Abd al-` Aziz (رح) ، someone was arrested while he was cutting a dirham coin. He was awarded a punishment of lashes and was paraded around head shaved. (Tafsir al Qurtubi)
 
+## AI Translation
+
+And surely your Rabb will fully pay all for their deeds. He is certainly All-Aware of what they do.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, He is All-Aware of what they do .
+
+**Classical tafsir:** Ibn Kathir notes: Surely, He is All-Aware of what they do.) This means that He is All-Knower of all of their deeds.
+
+**From the Sunnah:** There is a consensus of the entire Muslim Ummah that doing so is strictly Haram (unlawful). (Sahih Muslim)
 ## Personal Reflections
 
 

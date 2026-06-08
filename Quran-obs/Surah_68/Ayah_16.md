@@ -110,6 +110,17 @@ Concerning the word Zanim, Al-Bukhari recorded from Ibn 'Abbas that he said conc
 
 سَنَسِمُهُ عَلَى الْخُرْ‌طُومِ (We will soon brand him on the snout...68:16). That is, as, disbelievers, out of pride and false sense of power rejected the Divine Message in this world, Allah will disgrace and humiliate them on the Day of Resurrection so that the earlier and later generations will be able to see it. His nose has been described by way of reproach as khurtum (snout). This refers specifically to the long nose of a pig or a trunk of an elephant.
 
+## AI Translation
+
+We will soon brand him on the snout.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then he said: "This is nothing but magic from that of old, this is nothing but the word of a human being!" I will cast him into Hellfire. That is, as, those who reject the truth, out of pride and false sense of power rejected the Divine Message in this world, Allah will disgrace and humiliate them on the Day of Resurrection so that the earlier and later generations will be able to see it.
+
+**Classical tafsir:** Ibn Kathir notes: Then he said: "This is nothing but magic from that of old, this is nothing but the word of a human being!" I will cast him into Hellfire.
+
+**From the Sunnah:** Al-Waki' said, "It ('Utul) is every Jawwaz, Ja'zari and arrogant person." Both Al-Bukhari and Muslim recorded this in their Two Sahihs, as well as the rest of the Group, except for Abu Dawud.
 ## Personal Reflections
 
 

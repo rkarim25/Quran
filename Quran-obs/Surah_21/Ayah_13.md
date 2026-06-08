@@ -120,6 +120,15 @@ These verses describe the destruction of those settlements which some exegesists
 
 This King was placed in authority over them just as he was used as an instrument for the punishment of Bani Isra'i1 when they strayed from the righteous path in Palestine. In fact, Qur'an has not identified any specific settlement. Hence it will be apt to leave the subject open, so that these settlements of Yemen may also come in its ambit. واللہ (Only Allah knows best).
 
+## AI Translation
+
+They were told, “Do not run away! Return to your luxuries and your homes, so you may be questioned about your fate.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Hence it will be apt to leave the subject open, so that these settlements of Yemen may also come in its ambit.
+
+**Classical tafsir:** Ibn Kathir notes: Hence it will be apt to leave the subject open, so that these settlements of Yemen may also come in its ambit.
 ## Personal Reflections
 
 

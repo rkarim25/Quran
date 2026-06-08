@@ -166,6 +166,19 @@ Allah is saying, 'for which day are the Messengers postponed and their matter ex
 
 This is the subject of these oaths. It means that the Day of Judgment, Reckoning, and Reward and Punishment that is promised by the Prophets (علیہم السلام) has certainly to be fulfilled. Allah then describes some of the events that will occur on the Day of Judgment. The stars will be extinguished, which could mean that they will be completely destroyed, or they will exist, but their lights will be lost. In this way the entire world will be plunged in absolute darkness. The second event to occur is the splitting of the sky. The third event to occur is that the mountains will be blown away as dust. The fourth event is described in the following verse:
 
+## AI Translation
+
+the mountains are blown away like dust,
+
+## AI Tafsir
+
+**Context:** (By the Mursalat.) was revealed to him. He was reciting it and I was learning it from his mouth. Verily, his mouth was moist with it when a snake leaped out at us. The Prophet ﷺ said,
+
+**What this ayah teaches:** And when the mountains are blown away.)(11. The third event to occur is that the mountains will be blown away as dust.
+
+**Classical tafsir:** Ibn Kathir notes: This means, what you all have been promised concerning the establishment of the Hour (Judgement Day), the blowing of the horn, the resurrection of the bodies, the gathering of those of old and those of latter times on one common ground and the rewarding of every doer of a deed ba…
+
+**From the Sunnah:** from Ibn 'Abbas, who reported from his mother that she heard the Prophet ﷺ reciting (Sahih Muslim, Musnad Ahmad) In a report from Malik on the authority of Ibn 'Abbas, he narrated that Umm Al-Fadl (his mother)…
 ## Personal Reflections
 
 

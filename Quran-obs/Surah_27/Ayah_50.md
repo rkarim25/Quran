@@ -111,6 +111,17 @@ The point to note here is that all the acts of infidelity, disbelief, killing an
 
 The other thing worth noting in this verse is that the one whom these infidels had mentioned as the Wall or heir of Sayyidna Salili (علیہ السلام) was a man of his own family. So, why did they leave him out from being assassinated? The answer to this question is that he might have been the successor from the lineage point of view, but otherwise he could be an infidel and be a party with the infidels. There could have been the consideration that he might claim the compensation for the blood of Sayyidna Salih (علیہ السلام) because of his relationship with him. The other possibility is that he might have been a Muslim but enjoyed a prominent position and hence there could have been the risk of uprising and reprisal among the people. Only Allah knows best.
 
+## AI Translation
+
+And so they made a plan, but We too made a plan, while they were unaware.
+
+## AI Tafsir
+
+**What this ayah teaches:** When we have finished him off, we will go to his family and finish them off too.' Then Allah sent down a rock upon them from the mountains round about; they feared that it would crush them, so they ran into the cave and the rock covered the mouth of the cave while they were inside.
+
+**Classical tafsir:** Ibn Kathir notes: Al-'Awfi reported that Ibn 'Abbas said: "These were the people who killed the she-camel," Meaning, that happened upon their instigation, may Allah curse them.
+
+**From the Sunnah:** The other possibility is that he might have been a Muslim but enjoyed a prominent position and hence there could have been the risk of uprising and reprisal among the people. (Sahih Muslim)
 ## Personal Reflections
 
 

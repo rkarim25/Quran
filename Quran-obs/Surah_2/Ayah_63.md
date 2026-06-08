@@ -113,6 +113,15 @@ Having received the Torah from Allah, Sayyidna Musa (Moses علیہ السلام
 
 A doubt is quite likely to arise here. The Holy Qur'an says in another place that force should not be used to make a man change his religion, while in the present instance it appears that force is being used. But, in fact, force is not being used to make the Israelites change their religion, for they had already accepted Sayyidna Musa (علیہ السلام) as a prophet of Allah, and willingly made a covenant with Allah that they would act upon the Book of Allah, if one was given to them. So, they now stand as rebels, and are being threatened with dire punishment for persisting in their rebellion. This is exactly how even a secular state deals with rebels, and how it adopts towards them an attitude quite different from that towards aliens or enemies, for it leaves only two ways open to the rebel -- either to submit himself, or to lose his life. That is why it is only an apostate (Murtadd مُرتد ) who is, according to the Islamic Shari` ah, condemned to capital punishment, and not an outright disbeliever. Moreover, the Israelites were being threatened with death as criminals and offenders against the law which they acknowledged to be the divine law, but which they refused to obey.
 
+## AI Translation
+
+And when We took your covenant and raised the mountain above you: "Hold firmly to what We gave you and observe its teachings, so that you may live with taqwa."
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah stated that when He took their pledge from them, He raised the mountain above their heads, so that they affirm the pledge that they gave Allah and abide by it with sincerity and seriousness.
+
+**Classical tafsir:** Ibn Kathir notes: Allah stated that when He took their pledge from them, He raised the mountain above their heads, so that they affirm the pledge that they gave Allah and abide by it with sincerity and seriousness.
 ## Personal Reflections
 
 

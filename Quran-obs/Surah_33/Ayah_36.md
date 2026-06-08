@@ -232,6 +232,17 @@ In a Hadith, the Holy Prophet ﷺ has been reported to have said that the nikah 
 
 Hence, the outcome is that the consideration of kafa'ah (equalness and likeness) in nikah (marriage) is desirable in religion, so that the spouses live in accord and harmony. But, should some other important consideration, more important than this kafa'ah, come up, then, it is permissible for the woman and her guardians that they surrender this right of theirs and marry in ghayr kuf, that is, other than equal and like. Particularly so, when there is some religious consideration in sight - if so, it is better and more merit worthy to do so, as proved from several events pertaining to the noble Sahabah. Incidentally, from this we also know that these events do not negate the basic premise of the issue of kafa'ah. Allah knows best.
 
+## AI Translation
+
+It is not for a believing man or woman—when Allah and His Messenger decree a matter—to have any other choice in that matter. Indeed, whoever disobeys Allah and His Messenger has clearly gone far astray.
+
+## AI Tafsir
+
+**Context:** This is how it was recorded by Imam Ahmad, in full. Muslim and An-Nasa'i recorded the story of his death in Al-Fada'il.
+
+**What this ayah teaches:** Whoever does not have it, no matter how noble his family is, he yet has no status in the sight of Allah.
+
+**Classical tafsir:** Ibn Kathir notes: The Issue of Equality in marriage (Kaf'ah) Marriage (nikah) is a matter in which the absence of homogeneity in the temperaments of the spouses disturbs the purpose of marriage, disturbs the process of fulfilling each other's rights and breeds mutual disputes.
 ## Personal Reflections
 
 

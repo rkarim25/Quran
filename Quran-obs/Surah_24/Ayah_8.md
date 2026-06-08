@@ -238,6 +238,17 @@ Ruling
 
 Although the torment of Hereafter would increase on the one who is liar, after the li'an, but the punishment of the world be annulled. Similarly, it is not permissible to call the woman an adulterer nor is it permissible to call her child illegitimate. This was also ruled by the Holy Prophet ﷺ in the case of Hilal Ibn Umayyah ؓ . وقضٰی بان لا تُرمٰی ولا ولدھا .
 
+## AI Translation
+
+For her to be spared the punishment, she must swear four times by Allah that he is telling a lie,
+
+## AI Tafsir
+
+**Context:** In both these incidents it is reported that the verses of lian were revealed for that particular incident. Hafiz Ibn Hajar and Shaikh ul Islam Nawawi (رح) have noted the alikeness in the two by explaining that it looks t…
+
+**What this ayah teaches:** The Messenger of Allah ﷺ recited this Ayah to them both, and reminded them that the punishment of the Hereafter is more severe than the punishment in this world.
+
+**Classical tafsir:** Ibn Kathir notes: Imam Ahmad recorded that Sa'id bin Jubayr said: During the governorship of Ibn Az-Zubayr I was asked about the couple who engage in Li'an, and whether they should be separated, and I did not know the answer.
 ## Personal Reflections
 
 

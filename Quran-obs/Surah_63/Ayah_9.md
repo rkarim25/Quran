@@ -126,6 +126,17 @@ The preceding section dealt with the hypocrites, their false oaths and their con
 
 In short, we are permitted to be involved in the material wealth up to the degree that it does not divert us from Allah’ s obedience. If one becomes engrossed in the material wealth or become absorbed in the forbidden or abominable things, which divert him from our duties and obligations towards Allah, the sentence أُولَـٰئِكَ هُمُ الْخَاسِرُ‌ونَ “…they are the losers” will apply, because he has sold the great and eternal reward of the Hereafter for the petty and perishable enjoyment of this world. What loss could be greater than this!
 
+## AI Translation
+
+O believers: do not let your wealth or your children divert you from the remembrance of Allah. Whoever does so are the true losers.
+
+## AI Tafsir
+
+**What this ayah teaches:** The import of the verse is that love of wealth and children to some extend is not bad.
+
+**Classical tafsir:** Ibn Kathir notes: Some say it refers to the five daily prayers, while others say it refers to Zakah or Hajj.
+
+**From the Sunnah:** They outwardly claimed to be Muslims, and might share the spoils of war with them.
 ## Personal Reflections
 
 

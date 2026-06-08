@@ -92,6 +92,15 @@ Obviously, the very prohibition of weighing and measuring short makes weighing a
 
 And 0 my people, perfect the measure and the balance with justice and do not make the people short of their things, and do not go about the earth spreading disorder - 85.
 
+## AI Translation
+
+O my people! Give full measure and weigh with justice. Do not defraud people of their property, nor go about spreading corruption in the land.
+
+## AI Tafsir
+
+**What this ayah teaches:** Give full measure and weight in justice and reduce not the things that are due to the people, and do not commit mischief in the land, causing corruption. He commanded them to give just measure and weight whether they were giving or receiving (in transactions).
+
+**Classical tafsir:** Ibn Kathir notes: In other words, "Do this for Allah and not to be seen by the people."
 ## Personal Reflections
 
 

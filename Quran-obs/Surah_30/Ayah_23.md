@@ -109,6 +109,15 @@ The same principle applies to earning of sustenance. It is a common knowledge th
 
 At the end of this sign of divine omnipotence it is saidإِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَسْمَعُونَ (Surely in this there are signs for a people who listen - 30:23) Perhaps dependence on listening is placed here because it is commonly seen that the sleep takes over once one lays down in comfort. Similarly, one earns his living by putting in effort and labour in trade, services etc. But the hand of nature in their attainment is not seen by the ordinary eye. This fact is described and explained by the prophets of Allah. Hence it is said that these signs are beneficial for those who listen with care, and once the reality is understood, they accept it without obstinacy.
 
+## AI Translation
+
+One of His signs: your sleep by night and day for rest, and your seeking of His bounty. In that are signs for people who listen.
+
+## AI Tafsir
+
+**What this ayah teaches:** And among His signs is the creation of the heavens and the earth, and the difference of your languages and colors.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, one should try to earn the living through all the means available to him, but should not ignore the reality that the outcome of his endeavours depends on the will of Allah, as He is the real provider.
 ## Personal Reflections
 
 

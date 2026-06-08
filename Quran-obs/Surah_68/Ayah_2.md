@@ -196,6 +196,17 @@ Special Note
 
 Scholars have explained the Qur'anic concept of 'oath': Wherever Allah has sworn an oath by an object or a phenomenon, its subject has been cited as evidence or testimony to support and substantiate the claim. Here the phrase مَا يَسْطُرُ‌ونَ 'what they write [ 1] '. Is the proof of the claim, that is, world history has been cited as testimony for critics to look into the pages of history, if they can ever find a person of such lofty calibre as the Messenger of Allah ﷺ ، with high morals insane. He takes care of other people's sanity. The next verse reinforces the subject.
 
+## AI Translation
+
+by the grace of your Lord, you are not insane.
+
+## AI Tafsir
+
+**What this ayah teaches:** Calling such a sane person insane is itself insanity.
+
+**Classical tafsir:** Ibn Kathir notes: This means that he would act according to the commands and the prohibition in the Qur'an.
+
+**From the Sunnah:** This Hadith has been recorded by Imam Ahmad through various routes of transmission. (Musnad Ahmad, Jami' at-Tirmidhi) "It has been mentioned to us that Sa'd bin Hisham asked 'A'ishah about the character of the Messenger of Allah ﷺ, so she replied: 'Have you not read the Qur'an?' Sa'd said: 'Of course.' Then she said: 'Verily, the character of the Messenger of Allah ﷺ was the… (Sahih Muslim)
 ## Personal Reflections
 
 

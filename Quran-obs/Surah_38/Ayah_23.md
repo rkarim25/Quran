@@ -148,6 +148,17 @@ The statement in verse 22: قَالُوا لَا تَخَفْ (They said: "Be no
 
 The entrant also said: وَلَا تُشْطِطْ (and do not cross the limits - 38:22). This manner of address was obviously very audacious as coming from a stranger. First of all, they came at a late hour, and that too by climbing over the wall. Then, once they were in, they started teaching a prophet as august as Sayyidna Dawud (علیہ السلام) lessons in morality by asking him to be just and not to be unjust. All this was heedless simplicity. But, Sayyidna Dawud (علیہ السلام) observed patience over whatever they did and said, and just avoided telling anything bad to them in response.
 
+## AI Translation
+
+"This is my brother. He has ninety-nine sheep while I have only one. Still he demanded I give mine to him, overwhelming me with his argument."
+
+## AI Tafsir
+
+**What this ayah teaches:** Two men barging into one's privacy in that manner at an odd hour beating the security cordon can only be because of some bad intention in most cases.
+
+**Classical tafsir:** Ibn Kathir notes: Two men barging into one's privacy in that manner at an odd hour beating the security cordon can only be because of some bad intention in most cases.
+
+**From the Sunnah:** The evidence for it is the report recorded by Imam Ahmad from Ibn 'Abbas, may Allah be pleased with him, who said; "The prostration in Surah Sad is not one of the obligatory prostrations; I saw the Messenger of Allah ﷺ prostrating in this Surah." This was also… (Sahih al-Bukhari, Musnad Ahmad) he asked Mujahid about the prostration in Surah Sad. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

@@ -130,6 +130,15 @@ The reality of Zaqqum
 
 A tree by the name of Zaqqum is found in the territory of Tihamah, a part of the Arabian Peninsula, and ` Allamah ` Alusi has written that it is also found in other barren deserts. Some say that this is the same tree known as تھوھڑ thohar (Euphorbia neriifolia or antiquorum) in Urdu and Hindi. Some others point out to another tree known as nagphan (hood of serpent) found in India as being the zaqqum that appears to be more likely. Now, commentators differ in this matter. What tree is it the fruit from which the people of Jahannam will be given to eat? Is it one of the trees found somewhere in this world, or is it some other tree? Some support the view that it is what is found growing in this world. Some others say that the zaqqum of Jahannam is an entirely different thing. It has nothing to do with the earthly zaqqum. Apparently, the way there are snakes and scorpions in the mortal world, it seems they are there in Jahannam as well. But, it goes without saying, that the snakes and scorpions of the Jahannam will be far ferocious than their counterparts here. Similarly, the zaqqum of Jahannam will, though, be like the zaqqum of this world in terms of its genus, but it will be far too gruesome to look at, and far too unpalatable to eat. And Allah is pure and high who knows best.
 
+## AI Translation
+
+Is this bliss a better accommodation or the tree of Zaqqum?
+
+## AI Tafsir
+
+**What this ayah teaches:** The reality of Zaqqum A tree by the name of Zaqqum is found in the territory of Tihamah, a part of the Arabian Peninsula, and ` Allamah ` Alusi has written that it is also found in other barren deserts.
+
+**Classical tafsir:** Ibn Kathir notes: The reality of Zaqqum A tree by the name of Zaqqum is found in the territory of Tihamah, a part of the Arabian Peninsula, and ` Allamah ` Alusi has written that it is also found in other barren deserts.
 ## Personal Reflections
 
 

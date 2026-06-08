@@ -218,6 +218,17 @@ When Sayyidna ` Abdullah ibn ` Umar ؓ ، saw someone crying at the Janazah of a
 
 At the conclusion of the verse, it was said that, finally they have to go to their Lord after all where they will find out the ultimate verdict on all their differences - which means that they would be better off keeping their verbal confrontation in check and devoting more to the end of things.
 
+## AI Translation
+
+Say, “Should I seek a lord other than Allah while He is the Rabb of everything?” No one will reap except what they sow. No soul burdened with sin will bear the burden of another. Then to your Rabb is your return, and He will inform you of your differences.
+
+## AI Tafsir
+
+**What this ayah teaches:** But, I only trust in Him and go back to Him, because He is the Lord of everything, Owner of all things and His is the creation and the decision.
+
+**Classical tafsir:** Ibn Kathir notes: No person shall carry the burden of another person, a fact that indicates Allah's perfect justice.
+
+**From the Sunnah:** The those who reject the truth of Makkah al-Mukarramah, with Walid ibn Mughirah among them, used to say to the Holy Prophet ﷺ and to the Muslims in general that they should return to their faith and they will bear the burden of all their sins. But, it also tells Muslims at large about the rule that they too should not take the matters of Qiyamah on the analogy of their ways in the mortal world where one person commits a crime and succeeds in putting it on someone else - especially when the other per… (al-Mustadrak)
 ## Personal Reflections
 
 

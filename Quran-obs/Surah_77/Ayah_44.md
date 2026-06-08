@@ -98,6 +98,15 @@ This is the end of the Tafsir of Surat Al-Mursalat, and all praise and thanks ar
 
 هَـٰذَا يَوْمُ لَا يَنطِقُونَ وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُ‌ونَ (This is a day when they will not speak, nor will they be allowed to offer excuses....77:35, 36) In other words, this is the Day in which they will not be able to talk, nor will they be permitted to offer pleas for their misdeeds. However, other verses of the Qur'an inform us that they will speak and will be permitted to offer excuses. There is no discrepancy between the two verses, because there will be various stages on the Plain of Gathering (Mahshar) through which people will have to pass. Sometimes they will pass through a stage where it would be forbidden for them to speak or offer excuses; and at another stage they will be permitted. [ Ruh ].
 
+## AI Translation
+
+This is how We reward those who do good.
+
+## AI Tafsir
+
+**What this ayah teaches:** There is no discrepancy between the two verses, because there will be various stages on the Plain of Gathering (Mahshar) through which people will have to pass.
+
+**Classical tafsir:** Ibn Kathir notes: There is no discrepancy between the two verses, because there will be various stages on the Plain of Gathering (Mahshar) through which people will have to pass.
 ## Personal Reflections
 
 

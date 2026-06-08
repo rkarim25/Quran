@@ -184,6 +184,15 @@ Some commentators have said that this state has been particularized with believe
 
 But, the truth of the matter is that there is no likelihood of a contra-diction between these two sayings. May be, in the beginning, all rise praising. Later, when disbelievers are separated from believers as said in Surah Ya Sin: وَامْتَازُوا الْيَوْمَ أَيُّهَا الْمُجْرِ‌مُونَ (But today, 0 criminals, you stand out distinctly apart - 36:59), they will also say what appears in the cited verses. Then, it stands proved from many explications of the Qur'an, and Sunnah that stations of Resurrection will be different with a corresponding difference in the states and conditions of people in each of these. Imam al-Qurtubi has said that rising in Resurrection will begin with the praise of Allah with everyone doing it when rising and on it will end all matters. This is as it was already said: وَقُضِيَ بَيْنَهُم بِالْحَقِّ وَقِيلَ الْحَمْدُ لِلَّـهِ رَ‌بِّ الْعَالَمِينَ (And matters between them have been settled in accordance with the truth and it was said: All praise belongs to Allah, the Lord of the Worlds - az-Zumar, 39:75)
 
+## AI Translation
+
+On the Day He will call you, you will instantly respond by praising Him, thinking you had remained in the world only for a little while.
+
+## AI Tafsir
+
+**What this ayah teaches:** As outwardly obvious, the verse does seem to indicate that this will be the state of all, believers or those who reject the truth - they both will rise praising Allah.
+
+**Classical tafsir:** Ibn Kathir notes: This means that if you were to assume that you would become dead, which is the opposite of living, Allah will resurrect you when He wills, for nothing can stop Him when He wills a thing.
 ## Personal Reflections
 
 

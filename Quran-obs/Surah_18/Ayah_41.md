@@ -107,6 +107,17 @@ Here he was urging and encouraging him to say that, as if he was saying, "When y
 
 The word: حُسبانا - (husbana) in verse 40 has been explained by Qatadah as 'punishment' in an absolute sense, by Sayyidna Ibn ` Abbas ؓ as 'fire' and by some as 'stoning.' As for what appears after that in the Qur'an: أُحِيطَ بِثَمَرِ‌هِ (And its produce was struck by destruction from all sides - 42), it obviously means that some major calamity hit his gardens, wealth and things of luxury reducing everything to ruins. The Qur'an does not mention any particular calamity explicitly. It appears that, some fire came down from the skies and burnt the whole thing - as it appears in the Tafsir of 'husban' by Sayyidna Ibn 'Abbas ؓ who has explained it as 'fire.' And Allah knows best.
 
+## AI Translation
+
+Or its water may sink into the earth, and then you will never be able to seek it out.”
+
+## AI Tafsir
+
+**What this ayah teaches:** The Response of the Poor Believer Allah tells us how the rich man's believing companion replied to him, warning and rebuking him for his disbelief in Allah and allowing himself to be deceived.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** It was reported in the Sahih from Abu Musa that the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

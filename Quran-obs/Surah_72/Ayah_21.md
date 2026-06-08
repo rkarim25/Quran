@@ -148,6 +148,19 @@ Concerning Allah's statement,
 
 The word masajid could also have another sense. It could be the plural of masjad, with the letter jim carrying fath, in which case it would be masdar mimi 'infinitivity' and mean 'to prostrate or prostration'. The verse in this sense would signify that worship is reserved exclusively for Allah. It is not permitted to prostrate to anyone, because if he calls on anyone else for help, it is as though he is prostrating to him which must be avoided.
 
+## AI Translation
+
+Say: I have no power to harm or benefit you.
+
+## AI Tafsir
+
+**Context:** (Say: "It has been revealed to me that a group of Jinn listened.")(72:1) They were listening to the Qur'an." This is one opinion and it has been reported from Az-Zubayr bin Al-'Awwam.
+
+**What this ayah teaches:** This means that the idolators have no helper at all and they are fewer in number than the soldiers of Allah. Here the word could be taken in its popular sense, that is, mosques or places of worship dedicated for the performance of prayers.
+
+**Classical tafsir:** Ibn Kathir notes: This means that the idolators have no helper at all and they are fewer in number than the soldiers of Allah.
+
+**From the Sunnah:** Al-Hasan said, "When the Messenger of Allah ﷺ stood up and said none has the right to be worshipped except Allah, and he called the people to their Lord, the Arabs almost crowded over him together (against him)." Qatadah said concerning Allah's statement,
 ## Personal Reflections
 
 

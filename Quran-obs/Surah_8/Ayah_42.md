@@ -295,6 +295,17 @@ Therefore, that formidable Divine system created such conditions on both sides a
 
 The word: هَلَاكَت (halakah: death, destruction) in this verse means Kufr or disbelief while حَیَات (hayat : life) denotes Islam. In other words, once the truth has come out in the open, the probability and excuse of misunderstanding stand eliminated. Now, whoever takes to disbelief as his or her life style is going towards destruction with open eyes. And whoever takes to Islam takes to eternal life knowingly, consciously and deliberately. Then, it was said: وَإِنَّ اللَّـهَ لَسَمِيعٌ عَلِيمٌ (And Allah is indeed All-Hearing, All-Knowing - 42) that is, He knows the secrets in everyone's heart, even the nature of everyone's belief and disbelief, as well as the due reward and punishment for it.
 
+## AI Translation
+
+Remember when you were on the near side of the valley, they on the far side, and the caravan below you. Even if you had agreed on a meeting time, you would have missed it. But it happened so Allah might carry out a matter already decreed—so that those marked to perish and those marked to live might meet after the truth had been made clear. Surely Allah is All-Hearing, All-Knowing.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah says, He made you meet your enemy in one area without appointment, so that He gives you victory over them.' This way, 'He will raise the word of truth above falsehood, so that the matter is made clear, the proof unequivocal and the evidence plain.
+
+**Classical tafsir:** Ibn Kathir notes: It means that, despite conditions being what they were, the war had to be fought so that Allah might accomplish what was destined to be done.
+
+**From the Sunnah:** You [the companions] had no knowledge this would happen, but it was out of Allah's compassion that He did that." In a Hadith, Ka'b bin Malik said, "The Messenger of Allah ﷺ and the Muslims marched to intercept the Quraysh caravan, but Allah made them meet thei… Besides the many considerations of wisdom behind these details, one such consideration is to assert that there was just no possibility, either visibly…
 ## Personal Reflections
 
 

@@ -223,6 +223,17 @@ The joys of Paradise will also be unlike the joys of the earth in that they will
 
 In giving these good tidings to those who believe, the Holy Qur'an adds another condition - that of good deeds -, for without good deeds, one cannot deserve such good tidings on the merit of 'Iman ایمان (faith) alone. 'Iman itself can, no doubt, save a man from being consigned to the fires of hell for ever, and every Muslim, even if he is a great sinner, will finally be taken out of hell, once he has undergone a period of punishment. But no one can altogether escape the fires of hell unless he has been doing good deeds defined by the Sharl'ah. (Ruh al Bayan: Qurtubi)
 
+## AI Translation
+
+Give good news to those who believe and do righteous deeds: they will have Gardens beneath which rivers flow. Whenever they are given fruit there, they will say, "This resembles what we were given before" — though each taste is new. They will have pure spouses, and they will remain there forever.
+
+## AI Tafsir
+
+**What this ayah teaches:** And give glad tidings to those who believe and do righteous good deeds, that for them will be Gardens under which rivers flow (Paradise). Every time they will be provided with a fruit therefrom, they will say: "This is what we were provided with before," and they will be given things in resemblance (i.e.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn Abi Talhah reported that Ibn 'Abbas said, "Purified from filth and impurity." Also, Mujahid said, "From menstruation, relieving the call of nature, urine, spit, semen and pregnancies." Also, Qatadah said, "Purified from impurity and sin." In another narration, he said, "From menstruation and pre…
+
+**From the Sunnah:** Paradise and its other joys, the Holy Qur'an has employed only a metaphysical mode of expression in order to suggest spiritual bliss which, by its very nature, is intangible.
 ## Personal Reflections
 
 

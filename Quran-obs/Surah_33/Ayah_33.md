@@ -302,6 +302,19 @@ We now move to the last sentence of verse 33 which says: إِنَّمَا يُر
 
 The word: الرِّ‌جْسَ (ar-rijs) has been used in the Qur'an for several meanings. At one place, ar-rijs has appeared in the sense of idols: فَاجْتَنِبُوا الرِّ‌جْسَ مِنَ الْأَوْثَانِ (So refrain from the filth of idols - 22:30) and on other occasions, it is used in the sense of sin in absolute terms and at times it is employed to carry the meaning of punishment or impurity or filth. The outcome is that everything which is legally or naturally (or rationally) considered detestable is ar-rijs. In the present verse, the word: الرِّ‌جْسَ arrijs) appears in this very general sense. (A1-Bahr u1-Muhit)
 
+## AI Translation
+
+Settle in your homes, and do not display yourselves as women did in the days of pre-Islamic ignorance. Establish salah — the formal prayer, give zakat — obligatory sharing of wealth to purify what remains, and obey Allah and His Messenger. Allah only intends to keep the causes of evil away from you and purify you completely, O members of the Prophet’s family!
+
+## AI Tafsir
+
+**Context:** (Allah wishes only to remove Ar-Rijs from you, O members of the family, and to purify you with a thorough purification.) This is a clear statement that the wives of the Prophet ﷺ are included among the members of his fam…
+
+**What this ayah teaches:** In this verse, the essential injunction about hijab is that women stay at home (that is, do not go out without the need as admissible in the Shari'ah).
+
+**Classical tafsir:** Ibn Kathir notes: In other words, it means that the blessed wives are not like common women, because the state of their dignity is the highest of all.
+
+**From the Sunnah:** These are the good manners which Allah enjoined upon the wives of the Prophet ﷺ so that they would be an example for the women of the Ummah to follow.
 ## Personal Reflections
 
 

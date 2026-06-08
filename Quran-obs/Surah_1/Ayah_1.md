@@ -254,6 +254,17 @@ Rulings:
 
 (2) In the course of salah, whether one is reciting the Holy Qur'an loudly or silently, one should not recite 'Bismillah' before beginning a Su-rah just after the Surah 'Fatihah'. Such a practice has not been reported either from the Holy Prophet ﷺ or from any of the first four Khulafa'. According to Sharh al-munyah, this is the view of Imam Abu Hanifah and of Imam Abu Yusuf رحمہم اللہ ، and Shrah al-munyah, al-Durr al-Mukhtar, al-Burhan etc. prefer it to other views. But Imam Muhammad (رح) considers it to be preferable that one should recite Bismillah' if one is reciting the Holy Qur'an in a salah offered silently. Certain reports attribute this view even to Imam Abu Hanifah (رح) ، and al-Shami (رح) has quoted some Muslim jurists in support of this view,--which has been adopted even in 'Bahishti Zewar' of Maulana Thanavi (رح) . Anyhow, there is a complete agreement among the scholars that it is not makruh or reprehensible for someone to recite 'Bismillah' in this situation.
 
+## AI Translation
+
+I begin in the name of Allah—calling on the Rahman, whose mercy in this life extends over every creature whether they recognize Him or not, and the Rahim, whose fullest mercy is reserved for those who turn to Him in the Akhirah.
+
+## AI Tafsir
+
+**What this ayah teaches:** Every action of worth in Islam begins by calling on Allah and acknowledging ar-Rahman (mercy that embraces all creation in this life) and ar-Rahim (special mercy for those who turn to Him in the Akhirah).
+
+**Classical tafsir:** Ibn Kathir notes that opening with Allah's name teaches that no deed is valid without sincerity to Him alone. Maarif ul Quran explains that *Bismillah* is the key to every surah except at-Tawbah.
+
+**From the Sunnah:** The Prophet ﷺ said: "Every important matter not begun with Bismillah remains deficient" (reported in several collections).
 ## Personal Reflections
 
 

@@ -114,6 +114,17 @@ In verses 50 and 51 towards the end, given there is the state in which the peopl
 
 Finally, in the last verse (52), it was made clear that the description of conditions to be faced by people on the day of Qiyamah was to warn them so that they would realize that there is no Being worthy of worship and obedience except the One Being of Allah T, and so that whoever from among them has some sense left in him or her would desist from Shirk while there was still the time to do so.
 
+## AI Translation
+
+Alif-Lam-Ra. These are the ayahs of the Book — the clear Quran.
+
+## AI Tafsir
+
+**What this ayah teaches:** Out of the narrations of Hadith reported on this subject, only some of them seem to indicate either a change in features only while others suggest a change of the thing itself. In other words, all this territory which now holds the population of the world will become the territory of Hell.
+
+**Classical tafsir:** Ibn Kathir notes: Out of the narrations of Hadith reported on this subject, only some of them seem to indicate either a change in features only while others suggest a change of the thing itself.
+
+**From the Sunnah:** How much would those who disbelieved wish that they had been Muslims.)(3. The those who reject the truth will someday wish that They had been Muslims
 ## Personal Reflections
 
 

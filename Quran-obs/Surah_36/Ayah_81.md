@@ -142,6 +142,17 @@ In verse 80, it was said: جَعَلَ لَكُم مِّنَ الشَّجَرِ�
 
 But, in the present verse, since the quality of the 'shajar' or tree has also been mentioned as being 'akhdar' or green, therefore, here it seems that meant here are those particular trees that used to be a source of fire despite being green and moisturized.
 
+## AI Translation
+
+Can the One Who created the heavens and the earth not easily resurrect these deniers?" Yes He can! For He is the Master Creator, All-Knowing.
+
+## AI Tafsir
+
+**What this ayah teaches:** Is not He Who created the heavens and the earth, able to create the like of them? Allah points out His great might and power in that He created the seven heavens with all their stars and planets, and the seven earths with everything in them of mountains,sands, oceans and wildernesses, and everything in between He tells us to find the proof that He will re-create our bodies in His creation of these…
+
+**Classical tafsir:** Ibn Kathir notes: But, in the present verse, since the quality of the 'shajar' or tree has also been mentioned as being 'akhdar' or green, therefore, here it seems that meant here are those particular trees that used to be a source of fire despite being green and moisturized.
+
+**From the Sunnah:** the Messenger of Allah ﷺ said: (Musnad Ahmad)
 ## Personal Reflections
 
 

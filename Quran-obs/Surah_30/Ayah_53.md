@@ -95,6 +95,15 @@ Allah says, 'just as you are not able to make the dead hear in their graves, or 
 
 فَإِنَّكَ لَا تُسْمِعُ الْمَوْتَىٰ (So you cannot make the dead to hear 30:52). As for the issue whether the dead have the ability to hear or not, and if they have this ability, whether it is exclusive to some, or all can hear, this subject has been dealt with briefly in the commentary of Sarah An-Naml in this volume, and a detailed discussion can be seen in my book تکمیل الحبور بسماع اھل القبور .
 
+## AI Translation
+
+Nor guide the blind out of misguidance. You can make none hear except those who believe in Our ayahs, fully submitting.
+
+## AI Tafsir
+
+**What this ayah teaches:** The those who reject the truth are like the Dead, Deaf and Blind Allah says, 'just as you are not able to make the dead hear in their graves, or to make your words reach the deaf who cannot hear and who still turn away from you, so too you cannot guide the blind to the truth and bring them back from their misguidance.' That is a matter which rests with Allah, for by His power He can make the…
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said: "Allah brought them back to life for him so that they could hear what he said by way of rebuke and vengeance."
 ## Personal Reflections
 
 

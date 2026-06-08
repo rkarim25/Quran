@@ -232,6 +232,17 @@ This is the end of the Tafsir of Surat Idha Zulzilat (Az-Zalzalah) and all prais
 
 Verse [ 7] فَمَن يَعْمَلْ مِثْقَالَ ذَرَّ‌ةٍ خَيْرً‌ا يَرَ‌هُ (So, whoever does good [ even ] to the weight of a particle shall see it.) The word 'good' here refers to what is good in terms of Shari` ah, that is, only a good deed done in the wake of faith is recognized by Allah. Any good deed done in the state of disbelief is not recognized, and consequently it will not be rewarded in the Hereafter, though it might have been rewarded in this world. It is argued on the basis of this verse that anyone who has an atom's weight of faith will eventually be taken out of Hell. The reason being that, according to the promise made in this verse, man must reap the fruit of his righteousness in the Hereafter. If he has not done any righteous deeds, faith itself is a great righteousness. Thus no matter how sinful a believer may be, he will not be condemned to Hell for good. On the other hand, if a non-believer has done tons of good deeds, they will be rendered vain in the Hereafter on account of lack of faith. He will, however, receive reward for them here in this world.
 
+## AI Translation
+
+Whoever did an atom's weight of good will see it—no good erased as 'too small.'
+
+## AI Tafsir
+
+**What this ayah teaches:** That Day mankind will proceed in scattered groups that they may be shown their deeds.)(7. When they passed through a stream from which they did drink, though he (their owner) does not intend to quench their thirst, yet, it would be counted as good deeds, Therefore, they are a reward for that man.
+
+**Classical tafsir:** Ibn Kathir notes: This refers to the alteration of the state of things and the earth moving and shaking.
+
+**From the Sunnah:** Then the man said, 'Rather give me something to recite that is comprehensive (of all of these), O Messenger of Allah.' So the Prophet ﷺ told him to recite So the man came to him and the Prophet ﷺ said to him,
 ## Personal Reflections
 
 

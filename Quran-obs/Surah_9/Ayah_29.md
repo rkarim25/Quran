@@ -284,6 +284,17 @@ It should be noted that the paying of jizyah in this verse has been qualified wi
 
 Regarding the instruction given in this verse that once these people have agreed to pay jizyah, fighting should be stopped; a little explanation may be useful. According to the majority of Muslim jurists, it includes all disbelievers - whether from the People of the Book or from those other than them. However, the Mushriks of Arabia stand excluded from it for jizyah was not accepted from them.
 
+## AI Translation
+
+Fight those who do not believe in Allah and the Last Day, nor comply with what Allah and His Messenger have forbidden, nor embrace the deen of truth from among those who were given the Scripture, until they pay the tax, willingly submitting, fully humbled.
+
+## AI Tafsir
+
+**Context:** Allah commands His believing servants, who are pure in religion and person, to expel the idolators who are filthy in the religious sense, from Al-Masjid Al-Haram.
+
+**What this ayah teaches:** Surely, Allah is All-Knowing, All-Wise (28)Fight against those who believe not in Allah, nor in the Last Day, nor forbid that which has been forbidden by Allah and His Messenger, and those who acknowledge not the religion of truth among the People of the Scripture, until they pay the Jizyah with willing submission, and feel themselves subdued .
+
+**Classical tafsir:** Ibn Kathir notes: In the terminology of the Shari’ ah, it refers to the amount of money taken from those who reject the truth in lieu of killing.
 ## Personal Reflections
 
 

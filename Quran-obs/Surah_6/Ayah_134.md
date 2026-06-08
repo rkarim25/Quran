@@ -137,6 +137,15 @@ After having established in the first verse that Allah is All-Independent (Ghani
 
 Another method to awaken them from their heedlessness was adopted in the third verse (135) where it was said: قُلْ يَا قَوْمِ اعْمَلُوا عَلَىٰ مَكَانَتِكُمْ إِنِّي عَامِلٌ ۖ فَسَوْفَ تَعْلَمُونَ مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ‌ ۗ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ ﴿135﴾ (Say, "0 my people, do at your place (whatever you do) I am to do (in my way). So, you will know for whom is the ultimate abode. Surely, the unjust shall not be successful). This is addressed to the Holy Prophet ﷺ . He is being asked to tell those people of his in Makkah that the choice of not accepting what he is saying is theirs. Let them not accept it, stay as they are and keep on doing what their belief and hostility tell them to do - and he too will keep on doing what his belief tells him to do. In that, there was no loss for him. But, very soon, they will be the ones to find out who will be blessed with the ultimate salvation and success of the Hereafter. And, in this, let them not forget that the Zalim, the unjust, the usurpers of rights, never succeed.
 
+## AI Translation
+
+Indeed, what you have been promised will certainly come to pass. And you will have no escape.
+
+## AI Tafsir
+
+**What this ayah teaches:** Certainly, Allah is able to do all things and nothing ever escapes His power.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

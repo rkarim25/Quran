@@ -224,6 +224,15 @@ In the statement which follows immediately after, that is: وَلِنُعَلِ�
 
 Verse 21 ends with the statement: وَاللَّـهُ غَالِبٌ عَلَىٰ أَمْرِ‌هِ (And Allah is powerful in (enforcing) His command ... ). In other words, it means that Allah Ta` ala is powerful and fully in control over what He wills and when He does so will, all outward chains of causes in this world start falling in line with His will - as said the Holy Prophet ﷺ in a Hadith: ` When Allah Ta` ala intends to do something, He makes all worldly causes ready to act accordingly.' But, says the last part of the sentence: وَلَـٰكِنَّ أَكْثَرَ‌ النَّاسِ لَا يَعْلَمُونَ that is, most of the people do not understand this reality. They have their eyes on obvious causes. These they take to be everything and keep going after them all the time. That there is the Causer of all Causes and the Holder of Absolute Power over everything is a thought they would seldom pay heed to.
 
+## AI Translation
+
+The man from Egypt who bought him said to his wife, “Take good care of him, perhaps he may be useful to us or we may adopt him as a son.” This is how We established Joseph in the land, so that We might teach him the interpretation of dreams. Allah’s Will always prevails, but most people do not know.
+
+## AI Tafsir
+
+**What this ayah teaches:** And he (the man) from Egypt who bought him, said to his wife: "Make his stay comfortable, maybe he will profit us or we shall adopt him as a son." Thus did We establish Yusuf in the land, that We might teach him the interpretation of events.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, they did not stop at simply selling him because they felt the danger that the caravan may somehow leave him behind as a result of which he may somehow reach their father and tell him all about their conspiracy.
 ## Personal Reflections
 
 

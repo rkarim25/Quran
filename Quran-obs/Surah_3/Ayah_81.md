@@ -194,6 +194,17 @@ The verse implies that a person whom Allah invests with the Book, the Wisdom and
 
 In this, there is the necessary refutation of the Christians who claimed that it was Masih (علیہ السلام) who asked them to have belief in his sonship and godhead. Also chastised were the Muslims who had gone to the Holy Prophet . ﷺ trying to find out if it was all right for them to prostrate before him rather than greet him with the usual سلام salam. Also admonished were the people of the Book who had invested their rabbis and monks with the station of God. Refuge with Allah! (Tafsir ` Usmani)
 
+## AI Translation
+
+When Allah made a covenant with the prophets, “Now that I have given you the Book and wisdom, if there comes to you a messenger confirming what you have, you must believe in him and support him.” He added, “Do you affirm this covenant and accept this commitment?” They said, “Yes, we do.” Allah said, “Then bear witness, and I too am a Witness.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Taking a Pledge From the Prophets to Believe in Our Prophet, Muhammad (ﷺ) Allah states that He took a pledge from every Prophet whom He sent from Adam until 'Isa, that when Allah gives them the Book and the Hikmah, thus acquiring whatever high grades they deserve, then a Messenger came afterwards, they would believe in and support him.
+
+**Classical tafsir:** Ibn Kathir notes: Tawus, Al-Hasan Al-Basri and Qatadah said, "Allah took the pledge from the Prophets that they would believe in each other", and this statement does not contradict what 'Ali and Ibn 'Abbas stated.
+
+**From the Sunnah:** Also chastised were the Muslims who had gone to the Holy Prophet .
 ## Personal Reflections
 
 

@@ -139,6 +139,17 @@ In the last verse (67), it was said: وَالْأَرْ‌ضُ جَمِيعًا 
 
 Later day scholars, taking this verse to be metaphorical, explain it by saying that having something grasped in hand and having something in the right hand is an allusion to having something under full possession and control - and it is this perfect possession and control that is meant here. And Allah, He is pure and high - He knows best.
 
+## AI Translation
+
+They have not shown Allah His proper reverence—when on the Day of Judgment the whole earth will be in His Grip, and the heavens will be rolled up in His Right Hand. Glorified and Exalted is He above what they associate with Him!
+
+## AI Tafsir
+
+**Context:** (They made not a just estimate of Allah such as is due to Him.) means, the idolators did not give Allah His due when they worshipped others alongside Him.
+
+**What this ayah teaches:** Later day scholars, taking this verse to be metaphorical, explain it by saying that having something grasped in hand and having something in the right hand is an allusion to having something under full possession and control - and it is this perfect possession and control that is meant here.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

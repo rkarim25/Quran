@@ -146,6 +146,17 @@ In short, there is someone by sitting in whose company one gets the taufiq of re
 
 It has been said in Tafsir Mazhari: There is a prevailing assumption among masses that things like getting to know what is hidden (kashf), doing some extraordinary things (karamah) or claiming to be aware of what is al-Ghayb (Unseen) are signs of someone being among the Auliya' of Allah. This is nothing but error and self-deception. There are thousands of Auliya' who are not credited with anything like this, that could be termed as authentically proved while, in sharp contrast, reports of things otherwise hidden and unseen are accredited to those whose very basic 'Iman (belief) is not correct!
 
+## AI Translation
+
+They are those who are faithful and are living with taqwa of Him.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, the degree of their Wilayah was higher than that of all Auliya' and aqtab (plural of qutb, literally axis, meaning a man of Allah who stays at one place, as in Sufi orders). Only those who are colored with the color of the word, deed and message of the Holy Prophet ﷺ and follow his Sunnah, in all love and obedience, can become such an intermediary.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the degree of their Wilayah was higher than that of all Auliya' and aqtab (plural of qutb, literally axis, meaning a man of Allah who stays at one place, as in Sufi orders).
+
+**From the Sunnah:** Ibn Jarir narrated from 'Ubadah bin As-Samit that he [recited] to Allah's Messenger ﷺ: Paradise which you have been promised! We have been your friends in the life of this world and are (so) in the Hereafter.
 ## Personal Reflections
 
 

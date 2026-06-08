@@ -134,6 +134,15 @@ Surah Al-A` la
 
 Ends here
 
+## AI Translation
+
+Has news of the Overwhelming Event reached you?
+
+## AI Tafsir
+
+**Context:** Sayyidna Abu Dharr Al-Ghifari ؓ says that he asked the Holy Prophet ﷺ whether anything from these scriptures was revealed to him, he replied in the affirmative and asked Sayyidna Abu Dharr Ghifari ؓ to recite verses 14-1…
+
+**What this ayah teaches:** I did not give you kingdom so that you may amass wealth, but I had given you power so that you may let the supplication of the oppressed against the oppressor reach me, because my law does not reject the supplication of an oppressed, even though it may be uttered by an unbeliever.
 ## Personal Reflections
 
 

@@ -138,6 +138,17 @@ These habitations were close by the main road, therefore, these were called: Ù‚Ù
 
 In the last sentence of verse 18: (Travel along them at nights and days peacefully.), mention has been made of a third blessing bestowed on the people of Saba'. It means that these settlements were located at such equal and balanced distances that a traveler would be able to cover them in almost identical time. Then the routes were secure. Theft and highway robbery were unknown. One could travel at any time of the night or day without any hesitation or concern.
 
+## AI Translation
+
+We had placed between them and the blessed cities many towns within sight of one another, with moderate travel distances between them: "Travel through them safely by day and night."
+
+## AI Tafsir
+
+**What this ayah teaches:** The Trade of Saba' and Their Destruction Allah tells us about the blessings which the people of Saba' enjoyed, and the luxuries and plentiful provision which was theirs in their land, with its secure dwellings and towns which were joined to one another, with many trees, crops and fruits.
+
+**Classical tafsir:** Ibn Kathir notes: In the last sentence of verse 18: (Travel along them at nights and days peacefully.), mention has been made of a third blessing bestowed on the people of Saba'.
+
+**From the Sunnah:** This was also recorded by An-Nasa'i in Al-Yawm wal-Laylah. (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

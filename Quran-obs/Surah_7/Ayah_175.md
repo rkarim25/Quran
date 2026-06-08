@@ -171,6 +171,15 @@ Consequently plague overtook them as a punishment, with a death toll of seventy 
 
 The Holy Qur'an used the expression of 'wriggling out' for Bal'am's disregard to the knowledge and wisdom Allah had given to him through His verses. The Arabic expression فَانسَلَخَ مِنْهَا "He wriggled out from the verses of Allah" signifies coming out of an animal from its skin like a snake which leaves its old skin behind having no concern with it. This indicates that Bal'am had totally disregarded the knowledge and wisdom he was granted by Allah. The text phrase: فَأَتْبَعَهُ الشَّيْطَانُ "So, Satan overtook him" implies that as long as he possessed the knowledge of the verses of Allah, Satan was unable to possess him. As soon as Bal'am was deprived of this great gift of Allah, he overtook him and led him astray. Consequently he became one of the misguided people فَكَانَ مِنَ الْغَاوِينَ "And he became one of the misled.
 
+## AI Translation
+
+And relate to them the story of the one to whom We gave Our signs, but he abandoned them, so Satan took hold of him, and he became a deviant.
+
+## AI Tafsir
+
+**Context:** "Is about Bal'am bin Ba'ura' a man from the Children of Israel." Shu'bah and several other narrators narrated this statement from Mansur who got it from Ibn Mas'ud.
+
+**What this ayah teaches:** And recite to them the story of him to whom We gave Our Ayat, but he threw them away; so Shaytan followed him up, and he became of those who went astray (175)And had We willed, We would surely have elevated him therewith, but he clung to the earth and followed his own vain desires.
 ## Personal Reflections
 
 

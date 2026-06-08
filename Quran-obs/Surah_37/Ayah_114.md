@@ -62,6 +62,17 @@ Commentary
 
 Described in the verses cited above is the third event relating to Sayyidna Musa (علیہ السلام) and Harun (علیہ السلام) . It has appeared in details at several places. Here it serves as an indicator. The purpose is to tell how Allah Ta’ ala helps out His sincere and obedient servants, and how He bestows so many of His rewards on them. Mentioned here are His favors bestowed upon Sayyidna Musa علیہ السلام and Harun (علیہ السلام) . These favors are of two kinds. First come positive favors that bring benefits as in: وَلَقَدْ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَارُ‌ونَ (And We did bestow favors upon Musa (علیہ السلام) and Harun (علیہ السلام) - 37:114). This points out towards those beneficial favors. Then there are negative favors that save from loss or harm. Later verses spell out details of the other kind.
 
+## AI Translation
+
+And We certainly showed favour to Moses and Aaron,
+
+## AI Tafsir
+
+**Context:** Allah tells us how He blessed Musa and Harun with prophethood and how He saved them, along with those who believed, from the oppression of Fir'awn and his people, who had persecuted them by killing their sons and sparing…
+
+**What this ayah teaches:** Musa and Harun Allah tells us how He blessed Musa and Harun with prophethood and how He saved them, along with those who believed, from the oppression of Fir'awn and his people, who had persecuted them by killing their sons and sparing their women, and by forcing them to do the most menial tasks, then ultimately He caused them to prevail over them and to seize their lands and their wealth and all…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

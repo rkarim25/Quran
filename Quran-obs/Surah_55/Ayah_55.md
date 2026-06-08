@@ -106,6 +106,17 @@ Allah the Exalted said,
 
 فِيهِمَا مِن كُلِّ فَاكِهَةٍ زَوْجَانِ (In both there are two kinds of every fruit...52). The phrase مِن كُلِّ فَاكِهَةٍ "of every fruit " denotes that the first two gardens will comprehend all kinds of fruit. As opposed to this, verse [ 68] simply states فَاكِهَةٍ fakihah [=fruits ] about the second two gardens. The word زَوْجَانِ zawjan [ two kinds ] means every fruit will be of two types. This may be referring to one kind of dried fruits, and the other of fresh ones. It could also mean that one kind will be of normal taste, and the other of some extra ordinary flavor. [ Mazhari ]
 
+## AI Translation
+
+So which of your Rabb's favours will you both—humans and jinn—deny?
+
+## AI Tafsir
+
+**What this ayah teaches:** Reclining upon the couches lined with Istabraq, and the fruits of the two Gardens will be near at hand (54)Then which of the blessings of your Lord will you both deny (55)Wherein both will be Qaşirāt Aṭ-Ṭarf, whom never deflowered a human before nor Jinn (56)Then which of the blessings of your Lord will you both deny (57)They are like Yaqut and Marjan (58)Then which of the bles…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Paradise, men or women. (Sahih Muslim) Paradise as small as that occupied by the whip of one of you, is better than the world and whatever is on its surface. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

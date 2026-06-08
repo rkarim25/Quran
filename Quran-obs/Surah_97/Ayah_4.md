@@ -218,6 +218,17 @@ Verse [ 4] نَزَّلُ الْمَلَائِكَةُ وَالرُّ‌وحُ (
 
 Sayyidna Anas ؓ narrates that the Messenger of Allah ﷺ said: "When the Night of Qadr occurs, Jibra'il (علیہ السلام) descends on the earth with a huge throng of angels and all of them pray for every servant of Allah, man or woman, busy in salah or dhikr, to be blessed by Allah." [ Mazhari ]. In the phrase مِّن كُلِّ أَمْرٍ‌ (along with every command), the preposition min is used in the sense of 'with' as in [ 13:11] يَحْفَظُونَهُ مِنْ أَمْرِ‌ اللَّـهِ. The verse under comment means the angels bring down, during the Night of Qadr, the decree for everything destined to occur in the coming year. Some of the commentators, like Mujahid and others, say that the phrase مِّن كُلِّ أَمْرٍ‌min kulli amrin is syntactically related to salam, and the word Amr means 'everything'. Thus they interpret the statement to mean: 'The night is a security from every evil, harm and calamity.' [ Ibn Kathir ].
 
+## AI Translation
+
+On it the angels and the Spirit—Jibril—descend by their Lord's permission with every decreed matter—
+
+## AI Tafsir
+
+**What this ayah teaches:** The angels descend with the descending of blessings and mercy, just as they descend when the Qur'an is recited, they surround the circles of Dhikr (remembrance of Allah) and they lower their wings with true respect for the student of knowledge.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the wording of the Ayah is a method of adding the name of the distinct object (in this case Jibril) separate from the general group (in this case the angels).
+
+**From the Sunnah:** Shu'bah and Sufyan both narrated it from Ishaq and they both considered it to be a statement of the Companion (Ibn 'Umar, and thus not the statement of the Prophet ﷺ). (Sunan Abi Dawud) Then Jibril came to him and said, 'That which you are seeking is in front of you.' So the Prophet ﷺ performed I'tikaf during the middle ten days of Ramadan and we also performed I'tikaf with him.
 ## Personal Reflections
 
 

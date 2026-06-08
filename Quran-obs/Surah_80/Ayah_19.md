@@ -184,6 +184,15 @@ This report has an authentic chain of narration. More than one person has narrat
 
 The word qaddara is derived from taqdir which is also used in the sense of 'predestination'. Taking the word in this sense, the verse may also mean here that when man is under creation in his mother's womb, Allah predetermines four things for him: his life span, his sustenance, his deeds and whether he would be miserable or happy [ as in the hadith of Ibn Mas’ ud ؓ recorded by Shaikhain ].
 
+## AI Translation
+
+From a drop of fluid He created them and proportioned them,
+
+## AI Tafsir
+
+**What this ayah teaches:** The word qaddara is derived from taqdir which is also used in the sense of 'predestination'.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them.
 ## Personal Reflections
 
 

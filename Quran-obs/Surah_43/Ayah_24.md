@@ -137,6 +137,17 @@ Allah condemns the idolators for worshipping others instead of Allah with no evi
 
 وَهُوَ فِي الْخِصَامِ غَيْرُ‌ مُبِينٍ (and who cannot express themselves in debate clearly - 18). This reflects the reality that a great majority of women do not have the same ability as men to express their feelings clearly. Therefore, if it comes to argumentation, it is difficult for them to prove their own contention and to refute the other's arguments in a clear manner. But this applies to the majority. If some women are eloquent in their speech and excel even men in this regard, it does not go against this verse, because the rule applies to the majority, and not to every single individual.
 
+## AI Translation
+
+Each warner asked: "Even if what I brought you is better guidance than what you found your forefathers practicing?" They replied: "We totally reject whatever you have been sent with."
+
+## AI Tafsir
+
+**Context:** (Or have We revealed to them an authority (a Scripture), which speaks of that which they have been associating with Him?)(30:35) meaning, that did not happen. Then Allah says:
+
+**What this ayah teaches:** They say: "we found our fathers following a certain way and religion (Ummah), and we guide ourselves by their footsteps.") meaning, they have no grounds for their belief in idolatry apart from the fact that they are imitating their fathers and forefathers who were following a certain Ummah or way, i.e., religion.
+
+**Classical tafsir:** Ibn Kathir notes: As such, there is consensus on this issue, but at the same time the manner of speech indicates that getting so much involved in adornment that one is busy in it the whole day long, is not proper; it is not only a symptom of one's being short-sighted, but also a cause of it.
 ## Personal Reflections
 
 

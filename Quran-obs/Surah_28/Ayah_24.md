@@ -139,6 +139,15 @@ When the man told Musa about how Fir'awn and his chiefs were conspiring against 
 
 ثُمَّ تَوَلَّىٰ إِلَى الظِّلِّ فَقَالَ رَ‌بِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ‌ فَقِيرٌ‌ (Then he turned to a shade and said, "0 my Lord, I am in need of whatever good you send down to me." - 28:24). Sayyidna Musa (علیہ السلام) did not have any food for the last seven days. He came under the shade of a tree and prayed to Allah describing his condition and need in an exquisite manner. The word Khair is sometimes used for wealth as in the case of إِن تَرَ‌كَ خَيْرً‌ا الْوَصِيَّةُ (he leaves some wealth - 2:180). Sometimes it is used for strength like أَهُمْ خَيْرٌ‌ أَمْ قَوْمُ تُبَّعٍ they better, or the people of Tubba - 44:37) and sometimes for food as in the verse under reference. (Qurtubi)
 
+## AI Translation
+
+So he watered their herd for them, then withdrew to the shade and prayed, “My Rabb! I am truly in desperate need of whatever provision You may have in store for me.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Truly, I am in need of whatever good that You bestow on me!") the women heard him." He came under the shade of a tree and prayed to Allah describing his condition and need in an exquisite manner.
+
+**Classical tafsir:** Ibn Kathir notes: He was not used to being alone, because before that he had been living a life of luxury and ease, in a position of leadership.
 ## Personal Reflections
 
 

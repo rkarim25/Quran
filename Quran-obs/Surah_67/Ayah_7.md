@@ -107,6 +107,15 @@ The statement '[ We ] have made them [ stars ] devices to stone the devils' prob
 
 وَلِلَّذِينَ كَفَرُ‌وا بِرَ‌بِّهِمْ عَذَابُ جَهَنَّمَ (And for those who disbelieve, there is the punishment of Jahannam ...67:6). The subject runs through seven verses. Thereafter, the subject of Divine knowledge and power is revisited.
 
+## AI Translation
+
+When they are thrown into it, they will hear its roaring as it boils over,
+
+## AI Tafsir
+
+**What this ayah teaches:** And for those who disbelieve in their Lord is the torment of Hell, and worst indeed is that destination (6)When they are cast therein, they will hear its Shahiq while it is simmering (7)It almost bursts up with fury.
+
+**Classical tafsir:** Ibn Kathir notes: The word 'masabih' (translated above as 'lamps' ) stands for 'stars'.
 ## Personal Reflections
 
 

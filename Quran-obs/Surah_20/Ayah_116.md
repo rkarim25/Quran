@@ -122,6 +122,17 @@ Al-Bukhari recorded that Abu Hurayrah said that the Prophet ﷺ said,
 
 وَإِذْ قُلْنَا لِلْمَلَائِكَةِ (And when We said to angels - 20:116)Here is a brief mention of the command which, after the creation of Sayyidna 'Adam (علیہ السلام) Allah gave to all the angels including Iblis (Shaitan) who at that time lived in the Paradise with them, to prostrate to him. All the angels obeyed but Shaitan refused. In his haughtiness he claimed that he was made of fire while Sayyidna 'Adam (علیہ السلام) was made of clay, and fire being superior to clay, he could not be expected to prostrate to the latter. As a punishment for his arrogance and defiance of the command of Allah he was accursed and driven from Paradise while all the gates of Paradise were opened wide for Sayyidna 'Adam (علیہ السلام) and Sayyidnh Hawwa' (علیہا السلام) to enjoy the fruits of its gardens and all the blessings of Allah at their will. However, there was one particular tree which they were told to shun in all circumstances and never to partake of any of its produce. This story has been related in Surah Al-Baqarah and Al-A'rif. Instead of repeating it here, Allah has mentioned his directives given to Sayyidna 'Adam (علیہ السلام) to comply with His commands to the fullest extent. Referring to the rebellious conduct of shaitan He reminds Sayyidna 'Adam (علیہ السلام) that the former is his enemy and that both he himself and his wife should at all times be on their guard against his deceptions. But if they succumbed to his tricks and became heedless of the commands of Allah then they would be expelled from Paradise and face distress
 
+## AI Translation
+
+And remember when We said to the angels, “Prostrate before Adam,” so they all did—but not Iblîs, who refused arrogantly.
+
+## AI Tafsir
+
+**What this ayah teaches:** In this story, Allah mentions the creation of Adam and that He commanded the angels to prostrate to Adam as a sign of honor and respect. He also explains the enmity of Iblis for the Children of Adam and for their father, Adam, before them.
+
+**Classical tafsir:** Ibn Kathir notes: Adam and Iblis Ibn Abi Hatim recorded that Ibn 'Abbas said, "Verily, man was named Insan only because he was given a covenant, but he forgot it (Nasiya)." 'Ali bin Abi Talhah reported the same from Ibn 'Abbas. He also explains the enmity of Iblis for the Children of Adam and for their father, Adam, before them.
+
+**From the Sunnah:** Ibn Abi Hatim recorded that Ibn 'Abbas said, "Verily, man was named Insan only because he was given a covenant, but he forgot it (Nasiya)." 'Ali bin Abi Talhah reported the same from Ibn 'Abbas.
 ## Personal Reflections
 
 

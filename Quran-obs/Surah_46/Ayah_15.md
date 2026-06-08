@@ -365,6 +365,19 @@ It is reported by Sayyidna ` Uthman ؓ that the Holy Prophet has said that when 
 
 Since Ibn Kathir (رح) has adopted the first explanation, that the verse does not refer to any particular person, like Sayyidna Abu Bakr ؓ but it is meant for a common people, the specific words, like 'until when he reached his maturity and attained the age of forty years" are all by way of example, wherein the instruction is being imparted that when one reaches the age of forty years, one should have due care for correcting himself and his family members, and his endeavor for the betterment of the Hereafter should take precedence over all his thoughts. (Allah knows best)
 
+## AI Translation
+
+We have commanded people to honour their parents. Mothers carried them through hardship and gave birth in hardship. Bearing and weaning takes about thirty months. Then, when the child reaches full strength at forty and says: My Rabb, inspire me to show shukr—gratitude in word and deed—for the favours You gave me and my parents, and to do righteous deeds that please You. Make my children righteous. I turn to You in repentance, and I submit to You.
+
+## AI Tafsir
+
+**Context:** (And We have enjoined on man to be dutiful and kind to his parents.)(46:15) meaning, 'We have commanded him to treat them well and show compassion towards them.
+
+**What this ayah teaches:** If the maximum period of suckling, that is twenty four months according to the verse 2:233 cited above, is deducted from thirty months, the balance is no more than six months which has been taken as the minimum period of pregnancy.
+
+**Classical tafsir:** Ibn Kathir notes: The reference to the maturity after that means that the child lived, became mature in his physical and mental strength and reached the age of forty years.
+
+**From the Sunnah:** Truly, I have turned to You in repentance, and truly, I am one of the Muslims.
 ## Personal Reflections
 
 

@@ -164,6 +164,17 @@ The last sentence carries a warning for those who pride on their brute economic 
 
 It has been reported that Sayyidna ` Ali ؓ said: 'Anyone who takes a Muslim man or woman low in status because of his or her hunger, Allah Almighty will put him to disgrace before a gathering of all, from the first to the last. And anyone who falsely accuses a Muslim man or woman of a weakness, Allah Almighty would put him on a high mound until he falsifies himself.' (a1-Qurtubi)
 
+## AI Translation
+
+Ask the Children of Israel how many clear signs We gave them. Whoever trades Allah's favour after receiving it for rejection should know that Allah is severe in punishment.
+
+## AI Tafsir
+
+**What this ayah teaches:** And whoever changes Allah's favor after it has come to him, [e.g., renounces the religion of Allah (Islam) and accepts Kufr (disbelief)] then surely, Allah is severe in punishment (211)Beautified is the life of this world for those who disbelieve, and they mock at those who believe.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, they will be exalted above the those who reject the truth at the Gathering Place, when they are gathered, during the resurrection and in their final destination.
+
+**From the Sunnah:** In addition, Imam Ahmad reported that the Prophet ﷺ said: (Musnad Ahmad) So, it should not be strange that many chiefs among the Israelites and the ignorant among polytheists would make fun of poor Muslims.
 ## Personal Reflections
 
 

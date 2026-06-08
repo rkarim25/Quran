@@ -128,6 +128,15 @@ Commentary
 
 وَلَمْ تُحِيطُوا بِهَا عِلْمًا (while you did not comprehend them with knowledge - 27:84). There is an allusion in this verse that falsifying the message of Allah Ta` ala is by itself a great sin, especially when one falsifies it without giving any consideration or thought, then the crime is doubled. This has brought to light that if an issue or subject is duly considered and thought over, and yet one could not get to the truth, in that situation the intensity of the crime is reduced. Nevertheless, the denial of the existence of Allah and His Oneness would not save any one from infidelity and adoption of the wrong path, and would thus lead to perpetual torment. It is because they are such self-evident matters that any mistake of judgment is not allowed in them.
 
+## AI Translation
+
+Watch for the Day We will gather from every iman-community a group of those who denied Our revelations, and they will be driven in ranks.
+
+## AI Tafsir
+
+**What this ayah teaches:** Gathering the Wrongdoers on the Day of Resurrection Allah tells us about the Day of Resurrection when the wrongdoers who disbelieved in the signs and Messengers of Allah will be gathered before Allah, so that He will ask them about what they did in this world, rebuking, scolding and belittling them.
+
+**Classical tafsir:** Ibn Kathir notes: Commentary (and they will be kept under control - 27:83), The word used here is derived from Waz', which means to stop.
 ## Personal Reflections
 
 

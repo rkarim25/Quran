@@ -258,6 +258,19 @@ As for trading goods and cattle, the Nisab (threshold) was given by the Holy Pro
 
 At the end of the verse (141) it was said: وَلَا تُسْرِ‌فُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِ‌فِين is That is, do not spend beyond limits because Allah Ta` ala does not like wasteful spenders. A question arises here. In case a person spends everything he has in the way of Allah, his wealth, even his life, this cannot be called ` Israf (extravagance). In fact, it would be difficult to say that, even by having done all that, one can be sure that he or she has done what was really the due of Allah! Then, what does this prohibition of ` Israf or extravagance at this place really mean? The answer is that extravagance in one department of life usually causes shortfall, short-coming or deficiency in other departments. One who spends extravagantly to fulfill his desires generally ends up failing in his duty to fulfill the due rights of others. Prohibited here is this kind of shortcoming. It means that should a person give away whatever he has in the way of Allah and return wits empty hands, how is he going to fulfill the rights of his children, family and relatives, even those of his own self? Therefore, the rule of guidance given is that one should observe moderation even when spending in the way of Allah so that all due rights can be taken care of.
 
+## AI Translation
+
+Some cattle are fit for labour, others are too small. Eat of what Allah has provided for you and do not follow Satan’s footsteps. Certainly, he is your sworn enemy.
+
+## AI Tafsir
+
+**Context:** It was said that the extravagance prohibited here refers to excessive charity beyond normal amounts. Ibn Jurayj said, "This Ayah was revealed concerning Thabit bin Qays bin Shammas, who plucked the fruits of his date pal…
+
+**What this ayah teaches:** Certainly unusual is the phenomena when some trees were made to stand on strong trunks and taken as high as it would not be possible for human ingenuity to accomplish in.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, He likes not the wasteful.) It was said that the extravagance prohibited here refers to excessive charity beyond normal amounts.
+
+**From the Sunnah:** "When planting, one gives away handfuls (of seed grains) and on harvest, he gives away handfuls and allows them to pick whatever is left on the ground of the harvest." Ath-Thawri said that Hammad narrated that Ibrahim An-Nakha'i said, "One gives away some of t… In…
 ## Personal Reflections
 
 

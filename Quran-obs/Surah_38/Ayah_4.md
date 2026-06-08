@@ -190,6 +190,17 @@ Accordingly, these people came to Abu Talib and said to him that his nephew spok
 
 Finally, the Holy Prophet ﷺ said, 'My dear uncle, should I not be inviting them to something that is better for them?' Abu Talib said, 'What thing is that?' He said, 'I want them to say a particular kalimah (statement) by virtue of which the whole Arabia will be at their feet, and they will become masters of the non-Arab lands beyond it.' Thereupon, Abu Jahl said, 'Tell us. What that kalimah is? By your father, not simply one kalimah, we are ready to say ten of them.' To this he replied, 'Just say: لا إله إلا اللہ (la ilaha il-lal-lah: There is no god (worthy of worship) but Allah). Hearing this, all of them rose to leave saying, 'Are we supposed to leave all objects of worship we have, and take to just one? This is something very strange.' It was on this occasion that these verses of Surah Sad were revealed. (Tafsir Ibn Kathir, pp. 27, 28 v. 4)
 
+## AI Translation
+
+The pagans are astonished that a warner has come from among themselves. Those who reject the truth say, "This is a sorcerer, a total liar!"
+
+## AI Tafsir
+
+**Context:** (Has he made the gods into One Allah. Verily, this is a curious thing!) Then this passage was revealed, from this Ayah to the Ayah: When they said this, it indicated their ignorance and lack of understanding since they tho…
+
+**What this ayah teaches:** Nay, but they have not tasted (My) torment (8)Or have they the treasures of the mercy of your Lord, the Almighty, the Real Bestower (9)Or is it that the dominion of the heavens and the earth and all that is between them is theirs If so, let them ascend up with means (10)They will be a defeated host like the Confederates of the old times .
+
+**Classical tafsir:** Ibn Kathir notes: The idolators – may Allah curse them – denounced that and were amazed at the idea of giving up Shirk, because they had learned from their forefathers to worship idols and their hearts were filled with love for that.
 ## Personal Reflections
 
 

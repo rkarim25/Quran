@@ -102,6 +102,17 @@ This exposes the error of people who turn their radios to full volume at the tim
 
 Yes, if one supplicates voicelessly after the recitation of such verses during his na f Z prayers, it is an act proved by Sunnah, and is worthy of reward as well. (Mazhari)
 
+## AI Translation
+
+When the Quran is recited, listen to it attentively and be silent, so you may be shown mercy.
+
+## AI Tafsir
+
+**What this ayah teaches:** But, some other jurists have distinguished different situations from one another by saying that listening attentively is wajib only on occasions where the Qur'an is being recited for the express purpose of being listened to - such as, in Salah and Khutbah etc.
+
+**Classical tafsir:** Ibn Kathir notes: The main subject of the verse is not but that the people for whom the Qur'an has been declared to be mercy should realize the condition that they have to recognize the etiquette and respect aligned with the Qur'an and observe it literally in practice.
+
+**From the Sunnah:** Even Muslim jurists who have directed the muqtadis to recite Alfatihah behind the Imam, they too, having kept this verse in view have suggested that a muqtadi should recite only in an interval when the Imam is silent.
 ## Personal Reflections
 
 

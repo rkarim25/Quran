@@ -134,6 +134,17 @@ Surah At-Tin
 
 Ends here
 
+## AI Translation
+
+So what makes you deny the Judgment?
+
+## AI Tafsir
+
+**What this ayah teaches:** Then they shall have a reward without end.)(7.
+
+**Classical tafsir:** Ibn Kathir notes: Then they shall have a reward without end.)(7.
+
+**From the Sunnah:** Malik and Shu'bah narrated from 'Adi bin Thabit, who narrated that Al-Bara' bin 'Azib said, "The Prophet ﷺ used to recite in one of his Rak'ahs while traveling 'At-Tin waz-Zaytun' (Surat At-Tin), and I have never heard anyone with a nicer voice or recitation t…
 ## Personal Reflections
 
 

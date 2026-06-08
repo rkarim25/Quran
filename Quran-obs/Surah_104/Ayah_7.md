@@ -102,6 +102,15 @@ Surah Al-Humazah
 
 Ends here
 
+## AI Translation
+
+that rises over hearts—the place where greed, cruelty, and arrogance are finally met on their own terms.
+
+## AI Tafsir
+
+**What this ayah teaches:** Which leaps up over the hearts.)(8. This means that the person finds fault with people and belittles them.
+
+**Classical tafsir:** Ibn Kathir notes: This means that the person finds fault with people and belittles them.
 ## Personal Reflections
 
 

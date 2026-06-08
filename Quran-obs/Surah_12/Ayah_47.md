@@ -117,6 +117,17 @@ During the seven years of drought, they will eat from the harvest they collected
 
 Obviously, the dream of the king had told him only about seven years of good crops followed by seven years of famine. But, Sayyidna Yusuf (علیہ السلام) also added to it that, following the year of drought, there will be an year of good rains and crops. Sayyidna Yusuf (علیہ السلام) came to know about it either because the total number of years of famine were no more than seven whereby, as the customary practice of Allah would have it, the eighth year would be that of rains and crops. According to early commentator, Qatadah, Allah Tai a had Sayyidna Yusuf (علیہ السلام) know about it through a revelation so that the amount of information they receive could be over and above that which was to be interpreted through the dream - so that the spiritual excellence of Sayyidna Yusuf (علیہ السلام) is further enhanced to become the cause of his being released. Then, another factor was added to this. Sayyidna Yusuf (علیہ السلام) did not consider it sufficient to limit himself to the technical interpretation of the dream only. The fact was that he also gave them a good counsel based on wisdom and fellow-feeling. He advised them to keep the extra produce yielded during the first seven years within the ears of the crop of wheat, so that it may not be affected by bacteria when old. It is borne by experience that grain while in ears is not affected by bacteria.
 
+## AI Translation
+
+Joseph replied, “You will plant grain for seven consecutive years, leaving in the ear whatever you will harvest, except for the little you will eat.
+
+## AI Tafsir
+
+**What this ayah teaches:** It is borne by experience that grain while in ears is not affected by bacteria.
+
+**Classical tafsir:** Ibn Kathir notes: Stay away from extravagance, so that you use what remains of the harvest during the seven years of drought that will follow the seven fertile years.' This was represented by the seven lean cows that eat the seven fat cows.
+
+**From the Sunnah:** During the seven years of drought, they will eat from the harvest they collected during the seven fertile years, as represented by the dry ears of corn in the dream.
 ## Personal Reflections
 
 

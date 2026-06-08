@@ -128,6 +128,15 @@ Allah the Exalted said,
 
 Here ends the teachings of the scriptures of Musa and Ibrahim (علیہما السلام) .
 
+## AI Translation
+
+and covered them with what covered them.
+
+## AI Tafsir
+
+**What this ayah teaches:** This refers to the fact that the cities were first overturned, and after that stones of hard clay were sent down on them, which covered them.
+
+**Classical tafsir:** Ibn Kathir notes: This means they are able to use it to their benefit, is this out of the completeness of His favor.
 ## Personal Reflections
 
 

@@ -150,6 +150,17 @@ After these two, comes information which one deduces by deliberating into things
 
 On this occasion, Allah Ta'a1a has mentioned the faculties of hearing, seeing and understanding. Speech was not mentioned because speech plays no role in the acquisition of knowledge. It is, rather, a source of the expression of knowledge. In addition to that, according to Imam Al-Qurtubi, the word: سَمَع 'sam’ a" (hearing) is inclusive of نُطق nutq (speech) as a corollary, as experience bears out that a person who hears speaks as well. A person deprived of the power of speech remains deaf in the ears as well. Perhaps, the reason why a dumb person cannot speak lies in the person's very inability to hear any sounds which could make learning to speak through hearing possible. وَاللہُ اَعلم Wallahu a` lam: 'And Allah knows best' is a standard appendage to conclusions where definite knowledge about a subject in flux is not available or accessible or reliable. For a believer, this serves as a safety device against the possibility of having made any false statements, which may be a sin.
 
+## AI Translation
+
+Have they not seen the birds glide in the open sky? None holds them up except Allah. Surely in this are signs for those who believe.
+
+## AI Tafsir
+
+**What this ayah teaches:** Say: "It is He Who has created you on the earth, and to Him shall you be gathered (in the Hereafter).")(67:23-24) In the Subjection of the Birds in the Sky there is a Sign Then Allah tells His servants to look at the birds held (flying) in the sky, between heaven and earth, and how He has caused them to fly with their wings in the sky.
+
+**Classical tafsir:** Ibn Kathir notes: Nature has poured a special kind of love in the hearts of the father and the mother for the needs of the infant, because of which, when they hear the sounds made by the child, they become all too eager to find out what is bothering the baby, and all too willing to remove the prob…
+
+**From the Sunnah:** Information collected visually is much less than that.
 ## Personal Reflections
 
 

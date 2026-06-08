@@ -81,6 +81,15 @@ There is absolutely no doubt that Allah's knowledge precedes the occurrence of a
 
 حَتَّىٰ نَعْلَمَ الْمُجَاهِدِينَ مِنكُمْ (...until We know those of you who carry out Jihad,... - 47:31) Allah's knowledge of every person’ s works and deeds is all-encompassing and eternal. It may be noted here that knowledge is of two kinds: [ i ] a priori knowledge or fore-knowledge, knowledge about a thing before its occurrence; and [ ii ] a posteriori knowledge or –in Mariam knowledge, knowledge about a thing after it has actually happened. Here knowledge refers to the second category. Allah’ s knowledge of things is since eternity. In this context, the knowledge about things is a posterioi, after the occurrence of the events in the external world. (ibn kathir) (The purport of this part of the verse is that Allah has enjoined fighting on the believers so that sincere believers may become distinguished from the hypocrites who shrink in horror at the very thought of fighting). Allah knows best.
 
+## AI Translation
+
+We will certainly test you until We make evident those among you who strive in jihad—struggle in Allah's cause—and those who remain steadfast, and until We see how you conduct yourselves.
+
+## AI Tafsir
+
+**What this ayah teaches:** Because of that, this Surah (Surah Bara'ah) is also called "The Exposer". In this Ayah, "until We know" means 'until We know of its occurrence.' This is why Ibn 'Abbas said in regard to this and similar texts, "Except so that We may know, means, so that We may see."
+
+**Classical tafsir:** Ibn Kathir notes: In this Ayah, "until We know" means 'until We know of its occurrence.' This is why Ibn 'Abbas said in regard to this and similar texts, "Except so that We may know, means, so that We may see."
 ## Personal Reflections
 
 

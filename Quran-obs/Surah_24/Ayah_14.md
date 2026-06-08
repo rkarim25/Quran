@@ -131,6 +131,17 @@ And had it not been for the grace of Allah upon you, and His mercy in this world
 
 This verse was revealed for those believers who had by mistake got somehow involved in the slander, but then repented and begged Allah's pardon. Some of them were even punished, but all of them were told through this verse that the crime they had committed was a very grave one, and on that crime they could have been subjected to punishment even in this world, like the one sent down on earlier people. In addition, they would have also been punished severely in the Hereafter, but Allah's dealings with those believers were that of grace and mercy, both in this world and in the Hereafter. Hence, the chastisement was withdrawn from them. The manifestation of Allah's grace and mercy in the world is that, first, the Divine help was granted to adopt Islam and its faith, then the company of the Holy Prophet ﷺ ﷺ accorded, which is an impediment for the award of punishment, and then again the Divine help was granted to repent sincerely and beg Allah's forgiveness for the sin which was committed, and ultimately the repentance was accepted and the sin was pardoned. While in the Hereafter, the token of Allah's grace and mercy is that He has promised to forgive and overlook and grant pardon.
 
+## AI Translation
+
+Had it not been for Allah’s grace and mercy upon you in this dunya — this temporary worldly life and the Akhirah, you would have certainly been touched with a tremendous punishment for what you plunged into—
+
+## AI Tafsir
+
+**Context:** This verse was revealed for those believers who had by mistake got somehow involved in the slander, but then repented and begged Allah's pardon.
+
+**What this ayah teaches:** The manifestation of Allah's grace and mercy in the world is that, first, the Divine help was granted to adopt Islam and its faith, then the company of the Holy Prophet ﷺ ﷺ accorded, which is an impediment for the award of punishment, and then again the Divine help was granted to repent sincerely and beg Allah's forgiveness for the sin which was committed, and ultimately the re…
+
+**Classical tafsir:** Ibn Kathir notes: According to her, the meaning refers to lies which a person persists in telling.
 ## Personal Reflections
 
 

@@ -154,6 +154,15 @@ Third sign of divine omnipotence
 
 The people living on earth are divided into many races, having different physical features and colours. Some are white, while others are black, brown, and yellow. Rather many have multitude of in-between shades of colours, because of inter-marriages among those having different colours. They speak different languages with many different dialects. The creation of the sky and earth is no doubt a great Divine masterpiece, but the difference of 'tongues' between human beings is also an equally astonishing Divine marvel. The difference of 'tongues' mentioned in this verse includes the difference of languages. There are hundreds of languages spoken in different parts of the world. Some of them are so much at variance from each other that there seems to be absolutely no link between them. Then, it also includes the difference of accents, pronunciations and the qualities of voices. Allah's omnipotence has created the voice of each individual distinguishable from that of the others. The voices of men are clearly distinct from those of women, and the voices of children, from those of aged people, and so on, although the apparatus of speech, i.e. the tongue, the lips, the throat etc. are the same in all human beings. تَبَارَ‌كَ اللَّـهُ أَحْسَنُ الْخَالِقِينَ
 
+## AI Translation
+
+One of His signs: He created for you spouses from yourselves so you find comfort in them. He placed compassion and mercy between you. In that are signs for people who reflect.
+
+## AI Tafsir
+
+**What this ayah teaches:** The verse has thus indicated that the total outcome of married life is peace of mind and comfort; the couple that enjoys it is successful in the object of its creation, while the family that is deprived of peace of mind and tranquility is unsuccessful in its married life.
+
+**Classical tafsir:** Ibn Kathir notes: It is possible that mawaddah (love) refers to the young age when spouses are attracted towards each other with love and affection, while rahmah refers to the old age when passions subside and compassion for each other takes over.
 ## Personal Reflections
 
 

@@ -278,6 +278,19 @@ Then it was said that Muslims do know some of those people who are to be impress
 
 It goes without saying that the process of putting war materials together and fighting a war has to be backed financially and when it comes to actual production or procurement of military support, that too can be made available through investment of money. Therefore, at the end of the verse, the great merit and reward of spending wealth in the way of Allah has been described by saying that 'the return for whatever you spend in the way of Allah shall be given to you in full.' There are times when this return is received in the form of war spoils right here in this mortal world as well, otherwise, the return to be received in the Hereafter stands already determined - and, as obvious, that is more praiseworthy.
 
+## AI Translation
+
+Prepare against them whatever military strength and mounted forces you can, to deter Allah's enemies and your enemies—and others you do not know but Allah knows. Whatever you spend in Allah's cause will be repaid to you in full, and you will not be wronged.
+
+## AI Tafsir
+
+**Context:** (Nothing has been revealed to me from Allah about them except these unique, comprehensive Ayat:
+
+**What this ayah teaches:** And Allah is All-Sufficient for His creatures' needs, All-Knower.)[2:261] Production and Supply of Military Hardware for Jihad is a Religious Obligation Given in the second verse (60), there are injunctions relating to preparations for the defence of Islam against those who reject the truth.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the Holy Prophet ﷺ said: Allah Ta` ala has placed barakah on the forehead of horses.
+
+**From the Sunnah:** Allah commands Muslims to prepare for war against those who reject the truth, as much as possible, according to affordability and availability. he heard the Messenger of Allah ﷺ saying, while standing on the Minbar; (Musnad Ahmad)
 ## Personal Reflections
 
 

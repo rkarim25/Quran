@@ -88,6 +88,15 @@ Commentary
 
 فَهُمْ فِي رَ‌وْضَةٍ يُحْبَرُ‌ونَ (They will be in a garden, extremely delighted - 30:15). Yuhbarun (يُحْبَرُ‌ونَ ) is derived from hubur, (حَبُور)which means happiness, joy, or delight. This word encompasses all types of delight, which the dwellers of paradise will draw from the bounties of Paradise. The Holy Qur'an has not specified this, and has rather kept it generalized. At another place it is said فَلَا تَعْلَمُ نَفْسٌ مَّا أُخْفِيَ لَهُم مِّن قُرَّ‌ةِ أَعْيُنٍ (32:17) that is, ` no one knows in this world what delight and joy is in store for them (the people of Paradise) in Paradise'. While explaining this verse some commentators have mentioned various delightful things, which all fall under the category of joy and delight.
 
+## AI Translation
+
+Those who rejected the truth, denied Our signs and meeting in the Akhirah — they will remain in punishment.
+
+## AI Tafsir
+
+**What this ayah teaches:** This word encompasses all types of delight, which the dwellers of paradise will draw from the bounties of Paradise.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

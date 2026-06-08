@@ -212,6 +212,19 @@ Thus, Sayyidna Yunus علیہ السلام was alerted to that slip, and later o
 
 In this story, as for parts that have been mentioned in the Qur'an, or stand proved from authentic narratives of Hadith, they are certain. The rest of them come from historical reports - and no ruling of Islamic law can be based on them.
 
+## AI Translation
+
+and ‘Do not invoke, instead of Allah, what can neither benefit nor harm you—for if you do, then you will certainly be one of the wrongdoers,’
+
+## AI Tafsir
+
+**Context:** Allah, the Exalted, says to His Messenger, Muhammad , 'Say: O mankind! If you are in doubt about the correctness of that which I have been sent with the Hanif (monotheism) religion - the religion which Allah has revealed…
+
+**What this ayah teaches:** In fact, it falls under it because they, no doubt, made their Taubah when they saw the punishment coming, but they certainly did so before the punishment overtook them, and did it before death too. So, they said, let that person show himself up so that others do not suffer because of one person.
+
+**Classical tafsir:** Ibn Kathir notes: So, they said, let that person show himself up so that others do not suffer because of one person.
+
+**From the Sunnah:** protection from other sins.
 ## Personal Reflections
 
 

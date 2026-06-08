@@ -172,6 +172,17 @@ Al-Qurtubi has taken up the issue of following the mujtahid imams within his com
 
 "Some people have quoted this verse to support their criticism against Taqlid (following). As far as following the false is concerned, this is correct. But, this has nothing to do with following what is true which is, in fact, a basic religious principle, and a great means of protecting the religion of Muslims in as much as one who does not have the ability to do Ijtihad must rely on 'following' in matters of religion." (volume 2, page 194)
 
+## AI Translation
+
+When told, "Follow what Allah has revealed," they say, "We follow only what we found our forefathers doing." Would they do so even if their forefathers understood nothing and were not guided?
+
+## AI Tafsir
+
+**Context:** Allah states that if the those who reject the truth and polytheists are called to follow what Allah has revealed to His Messenger ﷺ and abandon the practices of misguidance and ignorance that they indulge in, they will say, "Rather.
+
+**What this ayah teaches:** Now we can see that following the model of those identified in the text cannot be permitted because they do not have a revealed set of laws from Allah, nor do they have the ability to deduce injunctions from the Word of Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Now we can see that following the model of those identified in the text cannot be permitted because they do not have a revealed set of laws from Allah, nor do they have the ability to deduce injunctions from the Word of Allah.
 ## Personal Reflections
 
 

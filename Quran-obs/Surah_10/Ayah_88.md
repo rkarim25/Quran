@@ -190,6 +190,17 @@ The invocation of this curse obviously appears to be something far out as coming
 
 But, in terms of the hard facts of the situation here, Sayyidna Musa (علیہ السلام) has already made whatever efforts he could. He was to-tally disappointed. Now he wanted that they better learn through the punishment for their deeds. In doing so, it was probable that these people, once they see the punishment coming, may make a confession and declare that they now believed, whereby the punishment could stand warded off. Therefore, what became the cause of this invocation from him was his hatred for kufr (disbelief, infidelity). This is similar to what happened to the Pharaoh. When he started to announce his belief at the time he was drowning, the angel, Jibra'il shut his mouth lest Divine mercy turns to him and he stands delivered from the punishment.
 
+## AI Translation
+
+Moses prayed, “Our Rabb! You have granted Pharaoh and his chiefs luxuries and riches in this worldly dunya, which they abused to lead people astray from Your Way! Our Rabb, destroy their riches and harden their hearts so that they will not believe until they see the painful punishment.”
+
+## AI Tafsir
+
+**What this ayah teaches:** The invocation of this curse obviously appears to be something far out as coming through the speech of an apostle or prophet, because the sole mission of a prophet's life is nothing but to invite people to believe and act right and make efforts towards that end.
+
+**Classical tafsir:** Ibn Kathir notes: So you both keep to the straight way) So as I have answered your prayer, you should remain steadfast on My command.' Ibn Jurayj narrated that Ibn 'Abbas said about this Ayah: "Be steadfast and follow My command."
+
+**From the Sunnah:** So you both keep to the straight way) So as I have answered your prayer, you should remain steadfast on My command.' Ibn Jurayj narrated that Ibn 'Abbas said about this Ayah: "Be steadfast and follow My command."
 ## Personal Reflections
 
 

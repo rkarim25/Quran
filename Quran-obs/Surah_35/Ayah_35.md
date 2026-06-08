@@ -122,6 +122,17 @@ Ibn 'Abbas, may Allah be pleased with him, and others said, "He forgives them fo
 
 In verse 35: الَّذِي أَحَلَّنَا دَارَ‌ الْمُقَامَةِ مِن فَضْلِهِ لَا يَمَسُّنَا فِيهَا نَصَبٌ وَلَا يَمَسُّنَا فِيهَا لُغُوبٌ (who, out of His grace, has made us land at a home of eternal living where neither we are touched by weariness. Nor are we touched by boredom." ), some characteristics of Jannah have been described: (1) That it is an eternal home with no danger of any lapse of time, or expulsion from there at any time. (2) That no one will face any sorrow while there. (3) That no one there will experience the least fatigue or boredom, as it happens in the mortal world where one needs to sleep after work. Life in Jannah will be free from this too. This subject also finds mention in some narrations of Hadith. (Mazhari)
 
+## AI Translation
+
+Who out of His grace has settled us in the Home of Everlasting Stay, where we will feel neither fatigue nor weariness."
+
+## AI Tafsir
+
+**What this ayah teaches:** The words translated here as "toil" and "weariness" both mean exhaustion, as if what is meant by the negation of both is that neither their bodies nor their souls will become exhausted; and Allah knows best. That no one there will experience the least fatigue or boredom, as it happens in the mortal world where one needs to sleep after work.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** It was recorded in the Sahih that the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

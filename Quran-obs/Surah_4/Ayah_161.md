@@ -146,6 +146,17 @@ Commentary
 
 In the Shari` ah brought by the Holy Prophet Muhammad al Mustafa ﷺ there are some things too, known as Haram or unlawful, but these were forbidden because of one or the other physical or spiritual harm they bring. This was contrary to what happened with the Jews - the good things forbidden to them had no physical or spiritual harm in them, instead, these were forbidden to them as the punishment of their acts of transgression and disobedience.
 
+## AI Translation
+
+We forbade the Jews certain foods that had been lawful to them for their wrongdoing, and for hindering many from the Way of Allah, taking interest despite its prohibition, and consuming people’s wealth unjustly. We have prepared for those who reject the truth among them a painful punishment.
+
+## AI Tafsir
+
+**Context:** Ibn 'Abbas said, "This Ayah was revealed concerning 'Abdullah bin Salam, Tha'labah bin Sa'yah, Zayd bin Sa'yah and Asad bin 'Ubayd who embraced Islam and believed what Allah sent Muhammad ﷺ with. Allah said,
+
+**What this ayah teaches:** And We have prepared for the those who reject the truth among them a painful torment (161)But those among them who are well-grounded in knowledge, and the believers, believe in what has been sent down to you and what was sent down before you; and those who perform the Salah, and give Zakah and believe in Allah and in the Last Day, it is they to whom We shall give a great reward .
+
+**Classical tafsir:** Ibn Kathir notes: And verily, We are Truthful.) This means, We prohibited these things for them because they deserved it due to their transgression, injustice, defying their Messenger and disputing with him.
 ## Personal Reflections
 
 

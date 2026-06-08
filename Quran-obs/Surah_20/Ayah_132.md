@@ -187,6 +187,19 @@ The meaning of the words لم اسد فقرک (I will not free you from want) is
 
 "A man who makes his concern for the Hereafter the focal point of all his efforts, Allah will take care of his concerns, but a person whose concerns are all about worldly affairs, Allah does not care in which valley he perishes."
 
+## AI Translation
+
+Bid your people to pray, and be diligent in observing it. We do not ask you to provide. It is We Who provide for you. And the ultimate outcome is only for the people of righteousness.
+
+## AI Tafsir
+
+**Context:** وَأْمُرْ‌ أَهْلَكَ بِالصَّلَاةِ وَاصْطَبِرْ‌ عَلَيْهَا (And bid your family to perform salah and adhere to it yourself - 132) Here the Holy Prophet has been asked to direct the members of his family to say prayers and th…
+
+**What this ayah teaches:** But the provision of your Lord is better and more lasting (131)And enjoin Salah on your family, and be patient in offering them. For verily, it is only short-lived splendor and a feeble bounty, which We are using to test them with.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** When he came in, he saw him (the Prophet ﷺ) lying down upon a sandy straw mat.
 ## Personal Reflections
 
 

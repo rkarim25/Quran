@@ -178,6 +178,15 @@ The word أَوْصَانِي is derived from the word وَصِیِّۃ (Wasiyya
 
 It means that the injunction of prayers and Zakah is forever i.e. as long as I live. It is obvious that the reference here is to the life in this world, because these duties can be performed only here in this world.
 
+## AI Translation
+
+He made me a blessing wherever I go, and enjoined salah and zakat upon me as long as I live,
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, she referred all speech to him (the child) and she directed them to his address and speech to them. They scoffed at her because they thought that she was mocking at them and playing with them.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, she referred all speech to him (the child) and she directed them to his address and speech to them.
 ## Personal Reflections
 
 

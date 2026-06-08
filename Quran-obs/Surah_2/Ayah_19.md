@@ -275,6 +275,15 @@ The first example is of the advocates of disbelief who have complex ignorance, w
 
 The last four verses bring out the miserable plight of the hypocrites with the help of two extended similes. The choice of two examples is meant to divide the hypocrites into two kinds of men. On the one hand were those in whom disbelief had taken deep roots, so that they had little inclination towards Islam, but pretended to be Muslims for worldly motives - the Holy Qur'an compares them to the man who, having found light, again loses it, and is left in darkness. On the other hand were those who did recognize the truth of Islam, and sometimes wished to be genuine Muslims, but worldly interests would not allow them to do so, and they remained in a perpetual state of hesitation and doubt - they have been likened to the men caught in a thunderstorm who move forward a step or two when there is a flash of lightning, but, when it is over, again get stuck. In the course of these parables, the hypocrites have also been warned that they are not beyond the power of Allah, and that He can, as and when He likes, take away their sight and hearing, and even destroy them.
 
+## AI Translation
+
+Or like those caught in a rainstorm from the sky — darkness, thunder, and lightning. They thrust their fingers into their ears at every thunderclap, terrified of death. And Allah encompasses those who reject Him by His might.
+
+## AI Tafsir
+
+**Context:** Consequently, there are several types of people. There are the believers whom the first four Ayat (2:2-5) in Surat Al-Baqarah describe. There are the those who reject the truth who were described in the next two Ayat.
+
+**What this ayah teaches:** Ibn 'Abbas said, "Allah is able to punish or pardon His servants as He wills." Ibn Jarir commented, "Allah only described Himself with the ability to do everything in this Ayah as a warning to the hypocrites of His control over everything, and to inform them that His ability completely encompasses them and that He is able to take away their hearing and sight." Ibn Jarir and sev…
 ## Personal Reflections
 
 

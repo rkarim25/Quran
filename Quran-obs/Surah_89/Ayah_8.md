@@ -230,6 +230,17 @@ The word ` imad' and 'amud' means 'pillar'. The people of ` Ad are mentioned as 
 
 Some commentators say that 'Iram' is the name of the 'paradise' which ` Ad's son Shaddad had built. The epithet 'possessor of tall pillars' [ translated above as 'men of tall pillars'] is used for him. The [ so-called paradise ] was a lofty structure standing on tall pillars built with gold and silver and studded with jewels, gems and other precious stones, so that people may prefer an instant and ready at hand paradise instead of Paradise of the Hereafter. When this magnificent palace was ready for use, and Shaddad, together with the leaders of his kingdom, wanted to enter, Divine punishment overtook them. They, together with the palaces, were completely destroyed. [ Qurtubi ]. In this interpretation, the verse refers to a specific punishment which descended upon the paradise built by ` Ad's son Shaddad. In the first interpretation, which the majority of the commentators prefer, it refers to all the punishments that descended upon the nation of ` Ad.
 
+## AI Translation
+
+The likes of whom were never built in any land?
+
+## AI Tafsir
+
+**What this ayah teaches:** The intellect has only been called Hijr because it prevents the person from doing that which is not befitting of him of actions and statement.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "Iram was an ancient nation who were the first people of 'Ad." Qatadah bin Di'amah and As-Suddi both said, "Verily, Iram refers to the House of the kingdom of 'Ad." This latter statement is good and strong. Ibn 'Abbas said, "They carved them and they hewed them." This was also said by Mujahid, Qatadah, Ad-Dahhak and Ibn Zayd.
+
+**From the Sunnah:** a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. (Sunan an-Nasa'i) It is said, "Hajara Al-Hakim so-and-so (The judge passed a judgement preventing so-and-so)," when his judgement prevents the person from his liberty (i.e., of freely utilizing his wealth). (al-Mustadrak)
 ## Personal Reflections
 
 

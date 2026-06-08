@@ -152,6 +152,17 @@ This is the end of the Tafsir of Surat Ar-Rahman, all praise is due to Allah and
 
 فِيهِنَّ خَيْرَ‌اتٌ حِسَانٌ (In them there are women, good and gorgeous,...55:70) The word خَيْرَ‌اتٌ khairat (translated above as 'good' ) refers to 'the good character of those women'; and the word حِسَانٌ hisan (translated above as 'gorgeous' ) refers to 'women who have beautiful features'. These qualities too will be common with the maidens of both the Gardens, to which reference was made in the foregoing verses.
 
+## AI Translation
+
+So which of your Rabb's favours will you both—humans and jinn—deny?
+
+## AI Tafsir
+
+**What this ayah teaches:** And below these two, there are two other Gardens (62)Then which of the blessings of your Lord will you both deny (63)Mudhāmmatān (64)Then which of the blessings of your Lord will you both deny (65)In them (both) will be two springs Naddakhatan (66)Then which of the blessings of your Lord will you both deny (67)In them (both) will be fruits, and date palms and pomegranates (68)Then which of the ble…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** that this tent is thirty miles wide (Sahih Muslim)
 ## Personal Reflections
 
 

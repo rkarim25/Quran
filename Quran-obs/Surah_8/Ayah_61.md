@@ -134,6 +134,17 @@ However, should there arise a situation in which Muslims are totally encircled a
 
 And since the proposal of peace initiated by the enemy does have the probability that they might use it as a strategy of deceit, make them negligent and then make a surprise attack, therefore, at the end of the verse, the instruction given to the Holy Prophet ﷺ was: وَتَوَكَّلْ عَلَى اللَّـهِ ۚ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ (and place your trust in Allah. Surely, He is the All-Hearing, All-Knowing - 61). It means that Allah Ta` ala hears what they say and also knows the intentions and designs concealed in their hearts. He is sufficient to help you, therefore, do not base your decisions to do things on such probabilities which cannot be proved. The safest policy was to entrust all such apprehensions and scruples with Allah.
 
+## AI Translation
+
+If they incline toward peace, incline toward it and put your trust in Allah. He is All-Hearing, All-Knowing.
+
+## AI Tafsir
+
+**What this ayah teaches:** Thus, the intended sense is that at a time when those who reject the truth are inclined towards peace, the Holy Prophet ﷺ also has the choice of making peace, if he feels peace is in the best interest of Muslims.
+
+**Classical tafsir:** Ibn Kathir notes: The Command to Facilitate Peace when the Enemy seeks a Peaceful Resolution Allah says, if you fear betrayal from a clan of people, then sever the peace treaty with them, so that you both are on equal terms.
+
+**From the Sunnah:** This is why when the pagans inclined to peace in the year of Hudaybiyah and sought cessation of hostilities for nine years, between them and the Messenger of Allah ﷺ he accepted this from them, as well as, accepting other terms of peace they brought forth. (Musnad Ahmad) Allah mentioned His favor on the Prophet ﷺ, in that He aided him with believers, the Muhajirin and the Ansar,
 ## Personal Reflections
 
 

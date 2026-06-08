@@ -85,6 +85,15 @@ Allah tells us that on the Day of Resurrection, when the people of Paradise have
 
 Next, in verse 56, it was said: هُمْ وَأَزْوَاجُهُمْ They and their spouses...). The word: اَزوَاج (azwaj) as used here includes the Hurs حُور of Jannah as well as wives of the mortal world.
 
+## AI Translation
+
+They and their spouses will be in cool shade, reclining on canopied couches.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, the dwellers of the Paradise, that Day, will be busy with joyful things (55)They and their wives will be in pleasant shade, reclining on thrones (56)They will have therein fruits and all that they ask for (57)(It will be said to them): "Salam (Peace!)" – a Word from the Lord, ar-Rahim .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

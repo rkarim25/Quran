@@ -88,6 +88,17 @@ Verse 138 delineates Islam as the "colouring of Allah", and explains this "colou
 
 Verse 138 presents religion as "colouring" صبغہ (Sibghah). The expression carries within itself several levels of meaning. But the immediate allusion is to a certain ceremony of the Christians. On the seventh day of its birth, they used to bathe an infant in coloured (probably yellow) water, which was supposed to be a substitute for circumcision, and a sufficient guarantee for the external and internal purification of the infant - the fast and indelible "colouring" of Christian faith, so to say. The verse suggests that this colour is wasted away with the water, without leaving a trace outside or inside, nor does this kind of baptism serve the purpose of circumcision and cleanse a man of physical impurity. And the verse declares that the only colouring worth the name is the colouring of a genuine and unabrogated religion - that is, Islam اسلام۔ the only colouring which can guarantee physical and spiritual purification, and the only one which shall remain. Then, the word Sibghah صِبْغَةَ or "colouring" has a deeper meaning too. Just as a certain colour is openly and clearly visible to the beholder, the signs of genuine and pure 'Iman ایمان should shine through the face, the movements, the habits and the behaviour of a Muslim. In this sense, the verse is a commandment, asking Muslims "to dye" themselves in the "colouring of Allah", outwardly and inwardly by offering unalloyed worship to Him alone, by submitting themselves totally to His commandments, and by gladly accepting His will.
 
+## AI Translation
+
+This is the colouring of Allah — and who colours better than Allah? We worship Him alone.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Colour of Allah Verse 138 delineates Islam as the "colouring of Allah", and explains this "colouring" as the unalloyed worship of Allah and total submission to Him.
+
+**Classical tafsir:** Ibn Kathir notes: Ad-Dahhak said that Ibn 'Abbas commented, "The religion of Allah." This Tafsir was also reported of Mujahid, Abu Al-'Aliyah, 'Ikrimah, Ibrahim, Al-Hasan, Qatadah, Ad-Dahhak, 'Abdullah bin Kathir, 'Atiyah Al-'Awfi, Ar-Rabi' bin Anas, As-Suddi and other scholars.
+
+**From the Sunnah:** Allah's Islamic Monotheism))(30:30) directs Muslims to, "Hold to it." In this sense, the verse is a commandment, asking Muslims "to dye" themselves in the "colouring of Allah", outwardly and inwardly by offering unalloyed worship to Him alone, by submitting themselves totally to His commandments, and by gladly accepting His will… (Sahih Muslim)
 ## Personal Reflections
 
 

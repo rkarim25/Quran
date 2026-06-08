@@ -172,6 +172,17 @@ In the religious code of earlier prophets, there was a method of worship through
 
 From here we learn that a mother holds a certain measure of guardianship over her child in respect of his or her education and training, for Sayyidah Maryam's mother would have never vowed if the mother had no right of guardianship over her child. Similarly, it proves that a mother too has the right to give a name to her child. (a1-Jassas)
 
+## AI Translation
+
+When she delivered, she said, “My Rabb! I have given birth to a girl,”—and Allah fully knew what she had delivered—“and the male is not like the female. I have named her Mary, and I seek Your protection for her and her offspring from Satan, the accursed.”
+
+## AI Tafsir
+
+**What this ayah teaches:** I have vowed to You what is in my womb to be dedicated for Your services, so accept this from me.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** They also recorded that Anas bin Malik brought his newborn brother to the Messenger of Allah ﷺ who chewed a piece of date and put it in the child's mouth and called him 'Abdullah. This Hadith was collected by Ahmad and the collectors of the Sunan, and was graded Sahih by At-Tirmidhi. (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

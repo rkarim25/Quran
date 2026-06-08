@@ -90,6 +90,17 @@ And in some narrations of Hadith, the third kalimah, that is: سُبحَانَ �
 
 upon in the matter of the merits of good deeds. (Ruh-ul-Ma’ ani)
 
+## AI Translation
+
+Rather, worship Allah alone and be one of the grateful."
+
+## AI Tafsir
+
+**Context:** Allah is the Creator of all things, and He is the Trustee over all things (62)To Him belong the Maqalid of the heavens and the earth.
+
+**What this ayah teaches:** Therefore, the sense of the verse is that the keys to whatever treasures lie hidden in the heavens and the earth are in the hands of Allah and He alone is the custodian and the dispenser in that it is He who gives whenever He wills to whomever He wills and as much as He wills - and would just not give to anyone He so wills.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the sense of the verse is that the keys to whatever treasures lie hidden in the heavens and the earth are in the hands of Allah and He alone is the custodian and the dispenser in that it is He who gives whenever He wills to whomever He wills and as much as He wills - a…
 ## Personal Reflections
 
 

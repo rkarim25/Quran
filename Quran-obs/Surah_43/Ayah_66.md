@@ -144,6 +144,17 @@ Then it will be said to them, as a reminder of the blessing and favor of Allah:
 
 وَلِأُبَيِّنَ لَكُم بَعْضَ الَّذِي تَخْتَلِفُونَ فِيهِ (and to explain to you some of those matters in which you differ...43:63) Since Bana Isra'il were drowned in arrogance and obstinacy, they had tampered with the Divine laws. Sayyidna ` Isa (علیہ السلام) disclosed the reality of such distortions. The words 'some matters' are used because some other matters were purely of mundane nature. He might have not felt the need to deal with those differences. (Bayan-ul-Qur an).
 
+## AI Translation
+
+Are they waiting for the Hour to take them by surprise when they least expect it?
+
+## AI Tafsir
+
+**What this ayah teaches:** Do they only wait for the Hour that it shall come upon them suddenly while they perceive not (66)Friends on that Day will be foes one to another except those who have Taqwa (67)My servants! The words 'some matters' are used because some other matters were purely of mundane nature.
+
+**Classical tafsir:** Ibn Kathir notes: The words 'some matters' are used because some other matters were purely of mundane nature.
+
+**From the Sunnah:** Paradise, which you have been made to inherit because of your deeds that you used to do (72)Therein for you will be fruits in plenty, of which you will eat (as you desire).
 ## Personal Reflections
 
 

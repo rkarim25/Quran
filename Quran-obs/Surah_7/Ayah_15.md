@@ -82,6 +82,15 @@ In the present verse (17), Iblis is said to have identified four sides from whic
 
 In the cited verses (13 18), the Shaytan has been commanded to leave the heavens twice. First, when it was said: فَاخْرُ‌جْ إِنَّكَ مِنَ الصَّاغِرِ‌ينَ (So, go. You are of the low.) and then, when it was said: فَاخْرُ‌جْ إِنَّكَ مِنَ الصَّاغِرِ‌ينَ (Get out of here, condemned ...). Here, the first saying is perhaps a proposal while the other is its implementation. (Abridged from Bayan a1-Qur'an)
 
+## AI Translation
+
+Allah said, “You are delayed.”
+
+## AI Tafsir
+
+**What this ayah teaches:** ` Ulama say that this was a somber and highly cutting manifestation of the Divine wrath that, because of the rejection of Iblis, his view was so obstructed (hijab) that he became blind to the grandeur and awe of Allah Ta` ala and irreverence came down to settle on him all over. Therefore, the probability of his leading people astray from above and beneath the feet does not contradict it.
+
+**Classical tafsir:** Ibn Kathir notes: ` Ulama say that this was a somber and highly cutting manifestation of the Divine wrath that, because of the rejection of Iblis, his view was so obstructed (hijab) that he became blind to the grandeur and awe of Allah Ta` ala and irreverence came down to settle on him all over.
 ## Personal Reflections
 
 

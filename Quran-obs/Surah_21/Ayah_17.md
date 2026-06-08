@@ -136,6 +136,15 @@ In Arabic language the word لَو is used for imaginary and non-existent things
 
 The commonly accepted meaning of لَھو is a purposeless pastime, and this meaning has been adopted in translating this verse. According to some commentators this word لَھو is also used sometimes for wife or children in which case the meaning of the verse would be a denial of the belief of the Jews and Christians, who thought that Sayyidna ` Uzair and Sayyidna Masih (علیہما السلام) were God's sons. If Allah wished to have children why should they be from humans and not from other creatures around Him. (Allah knows best).
 
+## AI Translation
+
+Had We intended to take some amusement, We could have found it in Our presence, if that had been Our Will.
+
+## AI Tafsir
+
+**What this ayah teaches:** We created not the heavens and the earth and all that is between them for play (16)Had We intended to take a pastime, We could surely have taken it from Us, if We were going to do (that)(17)Nay, We fling the truth against the falsehood, so it destroys it, and behold, it disappears.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -241,6 +241,19 @@ Then he raised his hands, he wept and prayed:
 
 Allah sent Jibra'il علیہ السلام to inquire as to why he was weeping [ while Allah knows the reason ]. Jibra'il Amin علیہ السلام came and inquired why he was weeping. The Holy Prophet ﷺ replied: "I seek my ummah's forgiveness." Allah sent Jibra'il (علیہ السلام) back to inform him that He has pardoned them, and that Allah would please him and would not displease him regarding his ummah.
 
+## AI Translation
+
+And your Rabb will give you until you are pleased—
+
+## AI Tafsir
+
+**Context:** Al-'Awfi reported from Ibn 'Abbas, "When the Qur'an was revealed to the Messenger of Allah ﷺ, Jibril was delayed from coming to him for a number of days (on one occasion).
+
+**What this ayah teaches:** And verily, your Lord will give you so that you shall be well-pleased.)(6. And indeed the Hereafter is better for you than the present.)(5.
+
+**Classical tafsir:** Ibn Kathir notes: And indeed the Hereafter is better for you than the present.)(5.
+
+**From the Sunnah:** this Hadith. (Sahih al-Bukhari, Sahih Muslim) Therefore, the Messenger of Allah ﷺ was affected by this.
 ## Personal Reflections
 
 

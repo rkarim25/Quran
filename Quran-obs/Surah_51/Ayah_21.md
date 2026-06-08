@@ -156,6 +156,15 @@ The Development of the Sperm and Embryo in the Womb
 
 Human microscopic sperm and egg is an amazing phenomenon. It is made up of foodstuff and tenuous particles from various parts of the world. If the sperm establishes itself in the mother's womb, then more material is added to it, and it changes into a red clot. It then changes and becomes a shapeless lump of flesh, like a piece of meat with no form or shape. Then out of this shapeless lump bones are fashioned; then the bones are clothed with flesh; and it starts to take on a form and shape, developing a head, arms, chest, stomach, thighs, legs, feet and all its members. A wonderful brain is placed under its skull in whose complicated layers lie all mental abilities. Thus equipping it, Allah sends an angel to it who breathes the soul into it. After the completion of its creation, it is brought into this world where he develops from infancy to full adulthood to old age. Then he gradually progresses from zero level of knowledge and consciousness to an intelligent, rational and active being. The human forms and shapes are so different that no two faces are identical in millions and billions of people even in a small area. Furthermore, there are differences in their temperaments, dispositions and habits. There is unity in this diversity. All this is the marvel of the perfect power of Allah who has neither partners nor rivals: فَتَبَارَ‌كَ اللَّـهُ أَحْسَنُ الْخَالِقِينَ "So blessed is Allah, the Best Creator!" (23:14)Man experiences all this not from outside himself, but within himself, day and night. Only a person who is absolutely blind and senseless will ever deny the existence of Allah. Therefore, at the conclusion of the verse, the Qur'an poses the rhetorical question: "So, do you not perceive?" (21) A person need not be very intelligent to understand the facts of life. If his sight is intact, he can arrive at the right conclusion.
 
+## AI Translation
+
+and within yourselves as well. Will you not see?
+
+## AI Tafsir
+
+**What this ayah teaches:** Will you not then see (21)And in the heaven is your provision, and that which you are promised (22)Then by the Lord of the heaven and the earth, it is the truth, just as you can speak .
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Every night, they would worship Allah, even during a little part of the night." Qatadah narrated that Mutarrif bin 'Abdullah said, "Hardly a night would pass by them that they did not pray to Allah the Exalted and Most Honored, either in the beginning, or the middle of it." Mujahid… As for the Mahrum, Ibn 'Abbas and Mujahid said, "He is the poor person who does not receive a stipen…
 ## Personal Reflections
 
 

@@ -130,6 +130,17 @@ Nor should one raise the doubt here that they had perhaps accepted the challenge
 
 Nor can one suppose that they did make an oral declaration, for the fact has not been reported, and thus has not come down to us. Such a supposition would be wrong, because the opponents of Islam have always outnumbered its adherents, and if such a thing had happened, they must have been trumpeting it aloud to show to the world that the Jews had successfully passed the test proposed by the Holy Qur'an itself.
 
+## AI Translation
+
+They will never wish for it because of what their hands have sent ahead. Allah has full knowledge of the wrongdoers.
+
+## AI Tafsir
+
+**What this ayah teaches:** Also, the Mubahalah involves invoking Allah for death of the unjust group, because to those who reject the truth, life is the biggest prize, especially when they know the evil destination they will meet after death.
+
+**Classical tafsir:** Ibn Kathir notes: So they claimed that they are Allah's sons and loved ones and said, "Only those who are Christian or Jews shall enter Paradise." Therefore, they were called to invoke Allah to destroy the lying group, be it them or the Muslims.
+
+**From the Sunnah:** So they claimed that they are Allah's sons and loved ones and said, "Only those who are Christian or Jews shall enter Paradise." Therefore, they were called to invoke Allah to destroy the lying group, be it them or the Muslims.
 ## Personal Reflections
 
 

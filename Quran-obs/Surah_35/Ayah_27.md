@@ -152,6 +152,15 @@ The Holy Qur'an has mentioned different colors of fruits at the first place in V
 
 And in case of mountains, used there was the word: جُدَدٌ (judad). This is the plural form of: جُدَّہ (juddah) the well-recognized meaning of which is that of a mini pathway also known as: جادہ (jadah). Some respected elders have taken juddah in the sense of a tract, patch or segment that, in both situations, denotes parts of the mountains being different in colors. Out of these, white was mentioned first while black, last. In between, along with the mention of red, the expression: مُّخْتَلِفٌ أَلْوَانُهَا (of different colors) was introduced. This could be releasing a hint that, in reality, the colors in this world are no more than two - white and black. The rest of the colors in the spectrum emerge by compounding different degrees of white and black.
 
+## AI Translation
+
+Do you not see that Allah sends rain from the sky with which We bring forth fruits of different colours? In the mountains are streaks of white, red, and raven black;
+
+## AI Tafsir
+
+**What this ayah teaches:** With regard to fruits the difference of colors is mentioned by an adverbial phrase (translated above as ' having different cobblers', while in the case of mountains, it has been expressed by an adjectival phrase (translated above as ' of different cobblers'.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ikrimah said, "Al-Gharabib means mountains which are high and black." This was also the view of Abu Malik, 'Ata' Al-Khurasani and Qatadah. According to the Arabic grammar, an adjective normally refers to the permanent quality of a thing, while an adverb may refer to a quality or condition that is subject to change.
 ## Personal Reflections
 
 

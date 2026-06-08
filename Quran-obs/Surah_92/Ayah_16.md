@@ -192,6 +192,19 @@ Surely, those for whom the good (news) from Us has come earlier shall be kept fa
 
 Husna in this statement also refers to 'Paradise'. The pronoun 'it' in the phrase 'from it' refers to 'Hell', signifying that they will be far away from Hell. A Tradition says that 'Hell-Fire will not touch him who has seen me'. [ Tirmidhi transmitted it from Jabir ؓ ].
 
+## AI Translation
+
+Who deny and turn away—
+
+## AI Tafsir
+
+**Context:** Many of the scholars of Tafsir have mentioned that these Ayat were revealed about Abu Bakr As-Siddiq. Some of them even mentioned that there is a consensus among the Qur'anic commentators concerning this.
+
+**What this ayah teaches:** The one who is called from them will not have any need.
+
+**Classical tafsir:** Ibn Kathir notes: The pronoun 'it' in the phrase 'from it' refers to 'Hell', signifying that they will be far away from Hell.
+
+**From the Sunnah:** Paradise, and whoever disobeys me, then he has refused. (Sahih al-Bukhari) For verily, he was truthful, pious, generous, charitable, and he always spent his wealth in obedience of His Master (Allah) and in aiding the Messenger of Allah ﷺ.
 ## Personal Reflections
 
 

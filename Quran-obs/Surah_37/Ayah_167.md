@@ -112,6 +112,15 @@ Commentary
 
 After having provided proofs of the basic beliefs of Islam, these verses now mention the obstinacy of the disbelievers. It has been said that, before the blessed appearance of the Holy Prophet ﷺ ، these people used to crave for the coming of some prophet from Allah, so that they could follow him. But, when he did come, they started confronting him with a posture of obstinacy and hostility. After that, the Holy Prophet has been comforted that he should not worry about the pain these people cause to him. The time was coming very soon when he will prevail, and his oppressors will be defeated and punished. That this will unfold comprehensively in the Hereafter is already settled, but in the mortal world too, Allah Ta’ ala showed the spectacle that, in every Jihad from the battle of Badr up to the conquest of Makkah, His blessed rasul came out victorious and his adversaries, disgraced.
 
+## AI Translation
+
+They certainly used to say,
+
+## AI Tafsir
+
+**What this ayah teaches:** So, verily you and those whom you worshi (161)Cannot lead astray (162)Except those who are predestined to burn in Hell (163)And there is not one of us (angels) but has his known place (164)And verily, we (angels), we stand in rows (165)And verily, we (angels) indeed are those who glorify (166)And indeed they used to say (167)"If we had a reminder as had the men of old, (168)"We would have indeed b…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

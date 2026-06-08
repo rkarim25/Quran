@@ -132,6 +132,19 @@ Commentary
 
 Sayyidna Said Ibn Jubair ؓ has narrated that when Sayyidna Ja'far ؓ had gone to Habshah before the hijrah to Madinah, and presented the teachings of Islam in the court of Najashi, at that time Najashi and many of his courtiers, who were people of the book, had submitted to Islam, as Allah Ta` ala had put faith in their hearts. (Mazhari)
 
+## AI Translation
+
+As for those faithful to whom We had given the Scripture before this Quran, they do believe in it.
+
+## AI Tafsir
+
+**Context:** (And there are, certainly, among the People of the Scripture, those who believe in Allah and in that which has been revealed to you, and in that which has been revealed to them, humbling themselves before Allah)(3:199).
+
+**What this ayah teaches:** In this verse those people of the book are mentioned who had faith in the prophethood of the Holy Prophet ﷺ and revelation of the Qur'an on the basis of the prophesies given by Torah and Injil, even before the coming of the Holy Prophet ﷺ and the Qur'an.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** When they came to the Prophet ﷺ, he recited to them: It was reported in the Sahih from the Hadith of 'Amir Ash-Sha'bi from Abu Burdah that Abu Musa Al-Ash'ari, may Allah be pleased with him, said that the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

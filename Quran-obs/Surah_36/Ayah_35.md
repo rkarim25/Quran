@@ -114,6 +114,15 @@ Thus, creating fruit and giving man the expertise to compound fruit with other i
 
 Going into a little detail, it can be said that animals too eat vegetation and fruits. Some eat meat. Some others eat soil. But, they all feed on simples. The grass eater eats grass only. The meat eater eats meat only. Preparing different kinds of food by combining a variety of ingredients whereby the addition of salt, chilies, sugar and the sour makes food turn into tens of kinds happens to be the singularity of human beings alone. They alone have been given the ability to put different edibles together and come out with a meal tasting different from the other. This is ingenious. The preparation of meat with salt and seasonings and fruits with sweeteners is a culinary art Allah Ta’ ala has taught human beings to use to their advantage. The text, after recounting the substance and design of these great Divine blessings in these verses, concludes by saying: أَفَلَا يَشْكُرُ‌ونَ afala yashkurun: Would they not then offer gratitude?) which means that even after having seen all these things how is it possible from a reasonable person that he does not be grateful to Allah? Onwards from here, after having mentioned land produce and climate, human beings and animals have been included in the spectrum whereby there appears yet another sign of the absolute Power:
 
+## AI Translation
+
+so that they may eat from its fruit, which they had no hand in making. Will they not then give shukr?
+
+## AI Tafsir
+
+**What this ayah teaches:** We give it life, and We bring forth from it grains, so that they eat thereof (33)And We have made therein gardens of date palms and grapes, and We have caused springs of water to gush forth therein (34)So that they may eat of the fruit thereof – and their hands made it not.
+
+**Classical tafsir:** Ibn Kathir notes: In that case, this part of verse 35 would come to mean that all these things have been created, so that they eat fruits there from, and also eat that which human hands make, produce or process out of these vegetations and fruits.
 ## Personal Reflections
 
 

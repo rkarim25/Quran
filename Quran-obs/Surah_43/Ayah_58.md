@@ -262,6 +262,17 @@ In reality, there is no conflict between these three narrations. The infidels wi
 
 The gist of the objection mentioned in the first and second narrations is essentially the same. The statement in the Qur'an that all those who are worshipped except Allah will become fuel for Hell or the statement of the Holy Prophet ﷺ that there is no good in whatever is worshipped except Allah, refer to the lifeless objects of worship, such as idols or those living beings who directed their followers towards their own worship, or who liked to be worshipped, such as shaitans, Fir'aun, Namrud, etc.. So Sayyidna ` Isa (علیہ السلام) is obviously not included in this category, since at no stage did he like to be worshipped. Christians do not worship him because of any direction having being given by Sayyidna ` Isa (علیہ السلام) ، rather they were misled and started worshipping him by deducing the wrong conclusion from his birth without a father which was a sample of Allah's power to show to the people that Allah does not need even any apparent cause or means to create something. This worship of Sayyidna ` Isa (علیہ السلام) by Christians was not only irrational, but also against his own teachings, because he had always preached 'tauhid' (Oneness of Allah); his own disgust against being worshipped simply does not allow his inclusion in the ranks of false gods.
 
+## AI Translation
+
+They exclaimed: "Which is better—our gods or 'Isa?" They cite him only to argue. In fact, they are a people prone to dispute.
+
+## AI Tafsir
+
+**Context:** وَلَمَّا ضُرِ‌بَ ابْنُ مَرْ‌يَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ (And when the example of the son of Maryam was cited, your people started at once shouting at it [ in joy ]...43:57).
+
+**What this ayah teaches:** And when the son of Maryam is quoted as an example, behold, your people cry aloud thereat (57)And say: "Are our gods better or is he?" They quoted not the above example except for argument.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore have Taqwa of Allah and obey me.
 ## Personal Reflections
 
 

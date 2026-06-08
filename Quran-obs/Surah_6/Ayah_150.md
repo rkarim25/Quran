@@ -264,6 +264,19 @@ As for trading goods and cattle, the Nisab (threshold) was given by the Holy Pro
 
 At the end of the verse (141) it was said: وَلَا تُسْرِ‌فُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِ‌فِين is That is, do not spend beyond limits because Allah Ta` ala does not like wasteful spenders. A question arises here. In case a person spends everything he has in the way of Allah, his wealth, even his life, this cannot be called ` Israf (extravagance). In fact, it would be difficult to say that, even by having done all that, one can be sure that he or she has done what was really the due of Allah! Then, what does this prohibition of ` Israf or extravagance at this place really mean? The answer is that extravagance in one department of life usually causes shortfall, short-coming or deficiency in other departments. One who spends extravagantly to fulfill his desires generally ends up failing in his duty to fulfill the due rights of others. Prohibited here is this kind of shortcoming. It means that should a person give away whatever he has in the way of Allah and return wits empty hands, how is he going to fulfill the rights of his children, family and relatives, even those of his own self? Therefore, the rule of guidance given is that one should observe moderation even when spending in the way of Allah so that all due rights can be taken care of.
 
+## AI Translation
+
+Say, “Bring your witnesses who can testify that Allah has forbidden this.” If they testify, do not testify with them. And do not follow the desires of those who deny Our proofs, reject the truth in the Akhirah, and set up equals with their Rabb.
+
+## AI Tafsir
+
+**Context:** Tafsir authority, Ibn Kathir, in his Tafsir and Ibn al-Arabi in Ahkam al-Qur'an have resolved this by saying that, whether the verse is Makki or Madani, in both events, the verse could mean the Zakah of land, that is, `…
+
+**What this ayah teaches:** This is a phenomenon which compels even a man of ordinary insight to realize and accept that the Power and Being that created them is a Being beyond the parameters of comprehension, the measure of whose knowledge and wisdom cannot even be imagined by human beings.
+
+**Classical tafsir:** Ibn Kathir notes: Some others among them have counted this verse as one of the Madani verses and, according to them, ` haqqah u' refers to the Zakah of the land which is ` Ushr.
+
+**From the Sunnah:** The determination of this quantity was not needed there because Muslims did not have the assurance of acquiring the produce of their lands and fruit…
 ## Personal Reflections
 
 

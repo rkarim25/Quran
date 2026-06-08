@@ -164,6 +164,17 @@ They do not think about how Allah has created it, so vast and high, and adorned 
 
 كُلٌّ فِي فَلَكٍ يَسْبَحُونَ (Each floating in an orbit - 21:33) The word فَلَک '' (falak) is used for circle or anything round. For this reason the word فَلَک '' (falak) is also used sometimes for sky. In this verse it means the orbits of the sun and the moon in which they revolve. The Qur'anic words do not specify the location of the orbits in the space but space research has now established that these orbits are located in the space much below the sky. This verse apparently indicates that the Sun also moves around an orbit. The scientists previously did not believe in the rotation of the Sun, but the most modern research has now accepted it.
 
+## AI Translation
+
+And He is the One Who created the day and the night, the sun and the moon—each travelling in an orbit.
+
+## AI Tafsir
+
+**What this ayah teaches:** Yet they turn away from its signs (32)And He it is Who has created the night and the day, and the sun and the moon, each in an orbit floating .
+
+**Classical tafsir:** Ibn Kathir notes: This verse apparently indicates that the Sun also moves around an orbit.
+
+**From the Sunnah:** a man came to him and questioned him about when the heavens and earth were joined together then they were parted. This chain of narration fulfills the conditions of the Two Sahihs, apart from Abu Maymunah, who is one of the men of the Sunans, his first name was Salim; and At-Tirmidhi classed him as Sahih. (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

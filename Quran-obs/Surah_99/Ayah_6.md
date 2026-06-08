@@ -236,6 +236,17 @@ Verse [ 2] وَأَخْرَ‌جَتِ الْأَرْ‌ضُ أَثْقَالَ�
 
 "The earth will throw out the pieces of its liver [ contents ]. Gold and silver will come out like columns. A murderer will come and say: 'I killed for this?' The one who broke the ties of kinship will say: 'For this I severed the ties of kinship?' The thief will say: 'For this I got my hand amputated?' Then they will leave it there, and no one will take anything from it."
 
+## AI Translation
+
+That Day people will return in groups to be shown the results of what they did—no more crowds to hide in.
+
+## AI Tafsir
+
+**What this ayah teaches:** That Day mankind will proceed in scattered groups that they may be shown their deeds.)(7. Because your Lord will inspire it.)(6.
+
+**Classical tafsir:** Ibn Kathir notes: This refers to the alteration of the state of things and the earth moving and shaking.
+
+**From the Sunnah:** Then the man said, 'Rather give me something to recite that is comprehensive (of all of these), O Messenger of Allah.' So the Prophet ﷺ told him to recite So the man came to him and the Prophet ﷺ said to him,
 ## Personal Reflections
 
 

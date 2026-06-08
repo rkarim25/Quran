@@ -278,6 +278,19 @@ However, as far as the standard or general rule regarding faith and good deeds i
 
 Justice was served when in the last verse (67), it was also added that the evil doings of Jews mentioned in the text do not apply to all Jews. Among them there were moderate people, people who were on the right path. But, the majority was evil doing. ` People on the right path' denotes people who were first Jews and Christians, then believed in the Qur'an and the Holy Prophet ﷺ and entered the fold of Islam.
 
+## AI Translation
+
+And had they observed the Torah, the Gospel, and what has been revealed to them from their Rabb, they would have been overwhelmed with provisions from above and below. Some among them are upright, yet many do nothing but evil.
+
+## AI Tafsir
+
+**Context:** (And let not your hand be tied (like a miser) to your neck.) Therefore, this is the meaning that the Jews meant, may Allah's curses be on them.
+
+**What this ayah teaches:** And among them is a Muqtasid Ummah, but for most of them; evil is their work .
+
+**Classical tafsir:** Ibn Kathir notes: 'Ikrimah said that this Ayah was revealed about Finhas, one of the Jews, may Allah curse him. Instead of that, the word placed here is ` Iqamah' which means to establish, and to make something stand upright and straight.
+
+**From the Sunnah:** The Revelation to the Muslims only Adds to the Transgression and Disbelief of the Jews They were scared at the idea that by becoming Muslims, their leadership role in the community will be all over.
 ## Personal Reflections
 
 

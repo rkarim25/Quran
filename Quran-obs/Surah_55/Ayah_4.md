@@ -146,6 +146,15 @@ So we say, just as the believers among the Jinns said, "O Allah! None of Your fa
 
 Having created man, uncountable bounties are bestowed upon him. Of them, imparting the knowledge of expression has been mentioned especially, because the bounties necessary for man's growth and development, and his existence and survival like his food and water, his protection against cold and heat, his dwelling arrangements and so on are bounties in which all creatures are equal partners. Among the bounties that are peculiar to human beings Knowledge of the Qur'an has been mentioned first, and it was followed by the knowledge of expressions, because deriving benefit from the Qur'an, and imparting it to others, is dependent on the knowledge of expression. The word bayan ('how to express himself) comprehends all the means of communication created by Allah, like speech, writing etc. There are various languages and dialects of various nations in various regions of the world. All these are constituent parts of linguistic knowledge which is the practical interpretation or application of the verse عَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا (And He taught Adam (علیہ السلام) the names, all of them) [ 2:31] فَتَبَارَ‌كَ اللَّـهُ أَحْسَنُ الْخَالِقِينَ
 
+## AI Translation
+
+and taught them speech—every means of expression Allah placed in you.
+
+## AI Tafsir
+
+**What this ayah teaches:** He taught him Al-Bayan.) Al-Hasan said: "Eloquent speech." This refers to Allah teaching the Qur'an, that is, teaching the servants how to recite it by making it easy for them to speak and pronounce letters with the various parts of the mouth, such as the alveolar bridge, the tongue and the lips.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "An-Najm (the star); the one that is in the sky." Al-Hasan and Qatadah said similarly. Ibn Jurayj reported that Ibn 'Abbas said said Al-Akmam, means sheathed fruit stalks.
 ## Personal Reflections
 
 

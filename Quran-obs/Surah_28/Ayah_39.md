@@ -148,6 +148,17 @@ Commentary
 
 فَأَوْقِدْ لِي يَا هَامَانُ عَلَى الطِّينِ (So kindle for me, 0 Haman, a fire on the clay (to bake bricks) - 28:38). When the Pharaoh planned to build a very tall palace for himself, he asked his minister Haman to get the bricks baked properly first, because half baked bricks could not take the load of a tall building. Some people have observed that the Pharaoh was the first one to have tough bricks baked for the buildings, as no one had used them before. Historical narrations have recorded that Haman had collected fifty thousand masons for building this palace. Skilled labour, such as carpenters and blacksmith, were additional. This palace was built so tall that there was no parallel to it in the world. When it was completed, Allah Ta` ala commanded Jibra'il (علیہ السلام) to knock it down. He struck only one blow to it and it tumbled down in three pieces, killing thousands of soldiers of the Pharaoh's army. (Qurtubi)
 
+## AI Translation
+
+And so he and his soldiers behaved arrogantly in the land with no right, thinking they would never be returned to Us.
+
+## AI Tafsir
+
+**What this ayah teaches:** So kindle for me (a fire), O Haman, to bake clay, and set up for me a Sarh in order that I may look at the Allah of Musa; and verily, I think that he (Musa) is one of the liars.
+
+**Classical tafsir:** Ibn Kathir notes: So kindle for me (a fire), O Haman, to bake clay, and set up for me a Sarh in order that I may look at the Allah of Musa; and verily, I think that he (Musa) is one of the liars.
+
+**From the Sunnah:** Historical narrations have recorded that Haman had collected fifty thousand masons for building this palace.
 ## Personal Reflections
 
 

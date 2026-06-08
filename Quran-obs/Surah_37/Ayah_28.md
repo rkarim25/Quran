@@ -121,6 +121,17 @@ When the leading elders among disbelievers who had misled their common adherents
 
 1. The word: يَمِينِ (yamin) in:إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ الْيَمِينِ (You were the ones who used to come to [ mislead ] us forcefully.- 37:28) may have several meanings. One possible meaning of the expression: عَنِ الْيَمِينِ ('ani'l-yamin) is 'powerfully' or 'forcefully'. The translation given in the text above is based on this meaning, which seems to be fairly clear and cloudless. In addition to that, 'yamin' is also used to mean oath. Some commentators have explained it as: 'you came to us with oaths,' that is, 'you made us believe on oath that our creed is correct and the teaching of the messenger of Allah is, God forbid, false.' In terms of the words of the Qur'an, both these explanations are possible and acceptable comfortably.
 
+## AI Translation
+
+The misled will say: "It was you who deluded us away from what is right."
+
+## AI Tafsir
+
+**Context:** (I have been commanded to fight the people until they say La ilaha ill-Allah. Whoever says La ilaha illallah, he and his property are safe from me except for his obligation, and his reckoning will be with Allah, may He b…
+
+**What this ayah teaches:** And (they) said: "Are we going to abandon our gods for the sake of a mad poet?") meaning, 'Shall we stop worshipping our gods and the gods of our forefathers just because of the words of this mad poet?' – meaning the Messenger of Allah ﷺ.
+
+**Classical tafsir:** Ibn Kathir notes: And (they) said: "Are we going to abandon our gods for the sake of a mad poet?") meaning, 'Shall we stop worshipping our gods and the gods of our forefathers just because of the words of this mad poet?' – meaning the Messenger of Allah ﷺ.
 ## Personal Reflections
 
 

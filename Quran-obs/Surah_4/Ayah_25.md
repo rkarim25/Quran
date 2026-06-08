@@ -376,6 +376,17 @@ Common domestic servants in our own time are not 'bondmen' and 'bondwomen' becau
 
 In some parts of the world, children are sold out or enslaved. This is absolutely and totally Haram (forbidden). They do not become 'bondmen' and 'bondwomen' by doing that.
 
+## AI Translation
+
+But if any of you cannot afford to marry a free believing woman, then a believing bondwoman possessed by one of you. Allah knows best your faith. You are from one another. So marry them with the permission of their owners, giving them their dowry in fairness, if they are chaste, neither promiscuous nor having secret affairs. If they commit indecency after marriage, they receive half the punishment of free women. This is for those of you who fear falling into sin. But if you are patient, it is better for you. And Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then, the injunction of Hadd punishment concerning them has been added along since the status of a bondman and bondwoman is different from a free man and a free woman.
+
+**Classical tafsir:** Ibn Kathir notes: This clearly indicates that one should, as far as possible, marry only a free woman and simply not marry a bondwoman.
+
+**From the Sunnah:** The sense of the verse is that one who does not have the capability or means to marry free Muslim women, can marry Muslim bondwomen. (Sahih Muslim) However, if one has to do so under personal lack of choice, marrying a Muslim bondwoman is better. (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -262,6 +262,17 @@ It is not lawful for any waliyy or man of Allah to contravene the injunction of 
 
 Right from here we learn that there is no shortage of ignorant and misguided Sufis who give a bad name to Tasawwuf. The likes of them would say that Shari’ ah is something else and Tariqah is something else. There are many things taken as حرام haram in the Shari` ah, but they are permissible in the Tariqah. Therefore, even if you see a waliyy (man of Allah) involved in a major sin openly and clearly, you cannot raise an objection against him! This is heresy, flagrant and false. No waliyy, no man of Allah anywhere in this world can be taken on the analogy of al-Khadir nor can any act contrary to the codified Shari` ah issuing forth from him be called permissible.
 
+## AI Translation
+
+There they found a servant of Ours, to whom We had granted mercy from Us and enlightened with knowledge of Our Own.
+
+## AI Tafsir
+
+**Context:** (Musa got up to deliver a speech before the Children of Israel and he was asked, "Who is the most learned person among the people?" Musa replied, "I am." Allah rebuked him because he did not refer the knowledge to Allah.…
+
+**What this ayah teaches:** Al-Khidr said to Musa, "My knowledge and your knowledge, in comparison to Allah's knowledge, is like what this bird has taken out of the sea." Then they both disembarked from the boat, and while they were walking on the shore, Al-Khidr saw a boy playing with other boys.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn Jarir (may Allah have mercy on him) said, "Some of the scholars of the Arabic language said that Huqub means a year in the dialect of [the tribe of] Qays," then he narrated that 'Abdullah bin 'Amr said, "Huqub means eighty years." Mujahid said, "Seventy years." 'Ali bin Abi Talhah reported that…
 ## Personal Reflections
 
 

@@ -295,6 +295,17 @@ After having reported all these narrations in his Tafsir, Imam Ibn Kathir said: 
 
 It is like the Shaitan when he tells man: "Disbelieve." Then, after he becomes a disbeliever, he says: "I have nothing to do with you. I am scared of Allah, the Lord of all the worlds". (59:16)
 
+## AI Translation
+
+Remember when Satan made their deeds look fair to them and said: "No one can overcome you today, and I am at your side." But when the two armies came in sight of each other, he turned on his heels and said: "I disown you—I see what you do not see. I fear Allah, and Allah is severe in punishment."
+
+## AI Tafsir
+
+**What this ayah teaches:** No doubt, they had demonstrated their readiness to respond to the plaintive appeal for help made by Aba Sufyan, the leader of their trade caravan, but they were dragging their feet because of this danger.
+
+**Classical tafsir:** Ibn Kathir notes: This event has been mentioned at the beginning of verse 48.
+
+**From the Sunnah:** I am your neighbor.' When they met the Muslims and Shaytan witnessed the angels coming to their aid, They believed, without doubt, that they would defeat the Muslims.
 ## Personal Reflections
 
 

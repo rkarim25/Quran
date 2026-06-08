@@ -126,6 +126,15 @@ Surah Al-Inshirah
 
 Ends here
 
+## AI Translation
+
+So when you are free from your immediate task, strive onward in devotion—
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, along with every hardship is relief.)(7.
+
+**Classical tafsir:** Ibn Kathir notes: And to your Lord turn intentions and hopes.) meaning, 'when you have completed your worldy affairs and its tasks, and you have broken away from its routine, then get up to perform the worship, and stand for it with zeal, complete devotion and purify your intention and desire for your Lord.' Similar… Note This indicates that scholars [ who are involved in education, propagation and human reform ] sho…
 ## Personal Reflections
 
 

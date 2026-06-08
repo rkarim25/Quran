@@ -228,6 +228,17 @@ of his achievements.
 
 It is from this verse: إِلَّا مَا دُمْتَ عَلَيْهِ قَائِمًا (unless you keep standing over him - 75) that Imam Abu Hanifah (رح) has deduced the ruling that the lender has the right to keep pursuing the borrower until he receives his due. (Qurtubi)
 
+## AI Translation
+
+There are some among the People of the Book who, if entrusted with a stack of gold, will readily return it. Yet there are others who, if entrusted with a single coin, will not repay it unless you constantly demand it. This is because they say, “We are not accountable for the Gentiles.” And they attribute lies to Allah knowingly.
+
+## AI Tafsir
+
+**What this ayah teaches:** Among the People of the Scripture is he who, if entrusted with a Qintar (a great amount of wealth), will readily pay it back; and among them there is he who, if entrusted with a single silver coin, will not repay it unless you constantly stand demanding, because they say: "There is no blame on us to betray and take the properties of the illiterates (Arabs)." But they tell a lie…
+
+**Classical tafsir:** Ibn Kathir notes: If this 'some' refers to those among the people of the Book who had embraced Islam, praising them poses no problems.
+
+**From the Sunnah:** This included disbelieving in the verses of Allah, confusing the truth with what is false, concealing the truth and conspiring to mislead Muslim believers. (Sahih Muslim) Praising good qualities in some non-Muslim is correct (Sahih Muslim)
 ## Personal Reflections
 
 

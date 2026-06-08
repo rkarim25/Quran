@@ -160,6 +160,17 @@ Note
 
 This verse has proved that when Muslims meet each other, their greeting should be assalamu ` alaykum whether from the older to the younger or from the younger to the older.
 
+## AI Translation
+
+Their greeting on the Day they meet Him will be, “Peace!” And He has prepared for them an honourable reward.
+
+## AI Tafsir
+
+**What this ayah teaches:** And He is Ever ar-Rahim to the believers (43)Their greeting on the Day they shall meet Him will be "Salam (Peace!)" And He has prepared for them a generous reward (44). Allah much Allah commands His believing servants to remember their Lord much, Who has bestowed upon them all kinds of blessings and favors, because this will bring them a great reward and a wonderful destiny.
+
+**Classical tafsir:** Ibn Kathir notes: His mercy towards them in the Hereafter means that He will save them from the greater terror (of the Day of Resurrection) and will command His angels to greet them with the glad tidings of Paradise and salvation from the Fire, which will only be because of His love for them and H…
+
+**From the Sunnah:** People such as An-Nasa'i and Al-Ma'mari and others have written books about the Adhkar to be recited at different times of the night and day.
 ## Personal Reflections
 
 

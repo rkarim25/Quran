@@ -183,6 +183,15 @@ Never! It is just a word he has to utter. And in front of them there is a barrie
 
 The word بَرْ‌زَخٌ (Barzakh) means "barrier" and implies anything which intervenes between two conditions or two objects. For this reason it also means the intervening period between death and the Day of Judgment. The meaning of this verse is that the wish of the infidel who has died to be returned to this world is fruitless, because he has reached the Barzakh from which no return is possible and a second life cannot be given until the Day of Resurrection, when all the dead will rise and be brought back to life.
 
+## AI Translation
+
+so I may do good in what I left behind.” Never! It is only a useless appeal they make. And there is a barrier behind them until the Day they are resurrected.
+
+## AI Tafsir
+
+**What this ayah teaches:** And in front of them there is a barrier till the day when they will be resurrected.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, Al-Barzakh is a barrier between this world and the Hereafter.
 ## Personal Reflections
 
 

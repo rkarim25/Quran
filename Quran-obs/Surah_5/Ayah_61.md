@@ -219,6 +219,15 @@ Consideration of the Addressee : A Principle of Da'wah
 
 The condition of a people who were under the curse and wrath of Allah has been introduced through a similitude in the next verse (60) which begins with: قُلْ هَلْ أُنَبِّئُكُم[ Should I (not) tell you...]. In fact, this condition applied to these very addressees. The occasion demanded that they should have been the ones to be directly charged with the blame. But, the Qur'an has changed the mode of direct address into the form of a similitude (to show consideration). This shows us a distinctive method of Da'wah (Call) as used by prophets, that is, never say things in a manner which makes the addressees angry.
 
+## AI Translation
+
+When they come to you they say, “We believe.” But they are committed to rejection of the truth when they enter and when they leave. And Allah knows what they hide.
+
+## AI Tafsir
+
+**What this ayah teaches:** Those who were before you were destroyed because they committed sins and the 'Rabbāniyyūn' and 'Aḥbār' did not forbid them from evil.
+
+**Classical tafsir:** Ibn Kathir notes: Those who were before you were destroyed because they committed sins and the 'Rabbāniyyūn' and 'Aḥbār' did not forbid them from evil.
 ## Personal Reflections
 
 

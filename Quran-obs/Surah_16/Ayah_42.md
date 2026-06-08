@@ -113,6 +113,17 @@ These six kinds belong to migration undertaken to run for safety against somethi
 
 9. The journey to visit relatives and friends: This too has been classed as an act deserving of return and reward. A Hadith of Sahih Muslim mentions the prayer of angels in favour of those who undertake a journey to visit relatives and friends (which is valid only when the purpose of meeting them is to seek the pleasure of Allah Ta ale and not to seek any material gains). Allah knows best. (Qurtubi, p. 349-351, v. 5, Surah An-Nisa' )
 
+## AI Translation
+
+It is they who have patiently endured, and in their Rabb they put their trust.
+
+## AI Tafsir
+
+**Context:** Allah tells us about the reward of those who migrated for His sake, seeking His pleasure, those who left their homeland behind, brothers and friends, hoping for the reward of Allah.
+
+**What this ayah teaches:** This may have been revealed concerning those who migrated to Ethiopia, those whose persecution at the hands of their own people in Makkah was so extreme that they left them and went to Ethiopia so that they would be able to worship their Lord.
+
+**Classical tafsir:** Ibn Kathir notes: This may have been revealed concerning those who migrated to Ethiopia, those whose persecution at the hands of their own people in Makkah was so extreme that they left them and went to Ethiopia so that they would be able to worship their Lord.
 ## Personal Reflections
 
 

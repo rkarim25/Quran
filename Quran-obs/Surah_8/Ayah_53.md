@@ -124,6 +124,17 @@ However, a return to the subject of the verse tells us that there are occasions 
 
 At the end of the verse, it was said: وَأَنَّ اللَّـهَ سَمِيعٌ عَلِيمٌ (and that Allah is All-Hearing, All-Knowing - 53). It means that Allah Ta` ala is the one who hears everything they say and knows everything they do, there-fore, there is no probability of some error or misunderstanding in the decision He finally takes.
 
+## AI Translation
+
+That is because Allah does not change a favor He has bestowed on a people until they change what is within themselves. Surely Allah is All-Hearing, All-Knowing.
+
+## AI Tafsir
+
+**What this ayah teaches:** The first thing worth pondering about at this place is that Allah Ta` ala has not set forth any rule as to the bestowal of blessing and favour, nor has He put any restriction and condition for it, nor has He made it to be dependent on some good deed - because, had this been so, then, the foremost favour bestowed on us is our very existence.
+
+**Classical tafsir:** Ibn Kathir notes: That is so because Allah will never change a grace which He has bestowed on a people until they change what is in themselves.
+
+**From the Sunnah:** Rather than keep to their tradition of hospitality, pledges were written and promulgated that a total boycott of such Muslims be made, even to the limit of holding back the supply of food and water to them.
 ## Personal Reflections
 
 

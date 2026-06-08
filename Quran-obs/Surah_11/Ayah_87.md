@@ -136,6 +136,15 @@ The Holy Prophet ﷺ said about Sayyidna Shu'aib that he was an orator among pro
 
 The salah (prayer) of Sayyidna Shu'aib (علیہ السلام) was well known among his people as he was constantly devoted to it. Therefore, they referred to it tauntingly in the sense that (God forbid) his salah taught him to say all those 'wild' things. From what they said we learn that they too thought that religion is restricted to acts of worship, and that it had nothing to do with material dealings. Let everyone earn and spend one's wealth at will. Placing any restriction on that is no job of religion - as many people, even in this time of ours, generally believe, in total ignorance of the real fact.
 
+## AI Translation
+
+They asked sarcastically, “O Shu’aib! Does your salah — the formal prayer command you that we should abandon what our forefathers worshipped or give up managing our wealth as we please? Indeed, you are such a tolerant, sensible man!”
+
+## AI Tafsir
+
+**What this ayah teaches:** Does your Salah command you that we give up what our fathers used to worship, or that we give up doing what we like with our property?
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, they referred to it tauntingly in the sense that (Allah forbid) his salah taught him to say all those 'wild' things.
 ## Personal Reflections
 
 

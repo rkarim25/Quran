@@ -108,6 +108,17 @@ In other words, then the trumpet will be blown a second time and at once they wi
 
 According to some narratives, a third 'trumpet' will also be blown before the two trumpets, which is referred to as nafkhat-ul-faza` ('the trumpet of fright or panic). By a careful analysis of all the narratives and texts, it appears that the first trumpet in its initial stage is nafthat-ul-faza' and in its final stage it will become sa` aq 'the trumpet of swoon or death'. [ Mazhari ]
 
+## AI Translation
+
+When the Trumpet is blown with one blast,
+
+## AI Tafsir
+
+**What this ayah teaches:** The second trumpet is called nafkhat-ul-ba` th 'trumpet of Resurrection'.
+
+**Classical tafsir:** Ibn Kathir notes: It is emphasized here that it is one blowing, because the command of Allah cannot be opposed or prevented, and it does not need to be repeated or stressed.
+
+**From the Sunnah:** Between the lobe of his ear to his shoulder is the distance of seven hundred years (of travelling).) This is the wording recorded in Abu Dawud. (Sunan Abi Dawud) Some of them will receive the records in their right hands and some will receive them in their left hands.) Ibn Majah and At-Tirmidhi both recorded this Hadith. (Jami' at-Tirmidhi, Sunan Ibn Majah)
 ## Personal Reflections
 
 

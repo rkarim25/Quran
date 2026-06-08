@@ -154,6 +154,15 @@ This is the end of the Tafsir of Surah Qaf. All praise is due to Allah, He is fo
 
 "From here towards that [ pointing towards Syria ] you will be raised, some riding, and others on foot, and yet others will be dragged on the faces on the Day of Judgment..."
 
+## AI Translation
+
+On the Day the earth splits open and they rush out—that gathering is easy for Us.
+
+## AI Tafsir
+
+**What this ayah teaches:** And listen on the Day when the caller will call from a near place (41)The Day when they will hear As-Sayhah in truth, that will be the Day of coming out (42)Verily, it is We Who give life and cause death; and to Us is the final return (43)On the Day when the earth shall be cleft, from off them (they will come out) hastening forth.
+
+**Classical tafsir:** Ibn Kathir notes: The Prophetic Tradition indicates that this 'hurrying up' will be towards Syria where the Dome of the Rock is situated.
 ## Personal Reflections
 
 

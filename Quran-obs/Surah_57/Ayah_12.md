@@ -277,6 +277,17 @@ Tafsir Mazhari, on this occasion, has, on the basis of Qur'an and Hadith, descri
 
 [ 12] The Messenger of Allah ﷺ said: اِیَّاکُم وَ الظُلمَ فَاِنَّہ، ھُوَ الظُلُمٰتُ یَوم القِیامَۃِ "Beware of zulm [ injustice ] because that will yield zulumat [ layers of darkness ] on the Day of Judgment." (Bukhari and Muslim from Ibn Umar ؓ ، Muslim from Jabir ؓ and Hakim from Abu Hurairah and Ibn ` Umar ؓ ، and Tabarani from Ibn Ziyad ؓ .
 
+## AI Translation
+
+On the Day you see believing men and women with their light running before them and to their right, they will be told: Good news for you today—Gardens beneath which rivers flow, to remain forever. That is the supreme triumph.
+
+## AI Tafsir
+
+**What this ayah teaches:** On the Day you shall see the believing men and the believing women – their light running forward before them and in their right hands. The Believers are awarded a Light on the Day of Resurrection, according to Their Good Deeds Allah the Exalted states that the believers who spend in charity will come on the Day of Resurrection with their light preceding them in the area of the Gathering, according…
+
+**Classical tafsir:** Ibn Kathir notes: Inside it will be mercy, and outside it will be torment.) Al-Hasan and Qatadah said that the wall mentioned here is located between Paradise and Hellfire.
+
+**From the Sunnah:** Muslim, Ahmad and Darqutni record on the authority of Sayyidna Jabir Ibn ` Abdullah the Prophetic Hadith that at first, light will be given to both believers and hypocrites, but when the latter would reach the bridge, it will be snatched away from the…
 ## Personal Reflections
 
 

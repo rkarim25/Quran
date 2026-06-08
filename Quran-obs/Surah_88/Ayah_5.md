@@ -100,6 +100,17 @@ This means that the intent in eating it will not be achieved, and nothing harmfu
 
 نَارًا حَامِيَةً (...[ the ] scorching fire...88:4). The word حَامِيَةً hamiyah literally means 'hot' and 'scorching'. Although this is the natural property of fire that needed no mention, yet the specific reference to this quality of the fire brings out the point that the fire of Hell cannot be compared to the fire of this world. The heat of the fire of this world, some time or the other, is reduced or ends. But the fire of Hell is everlasting and eternal. Its heat will neither reduce nor end.
 
+## AI Translation
+
+given only scalding water to drink,
+
+## AI Tafsir
+
+**What this ayah teaches:** They will be given to drink from a boiling (Aniyah) spring,)(6. They will enter into Fire, Hamiyah.)(5.
+
+**Classical tafsir:** Ibn Kathir notes: They will enter into Fire, Hamiyah.)(5.
+
+**From the Sunnah:** It has already been mentioned on the authority of An-Nu'man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A'la (87) and Al-Ghashiyah in the 'Id and Friday prayers. (Sahih Muslim, Sunan Abi Dawud)
 ## Personal Reflections
 
 

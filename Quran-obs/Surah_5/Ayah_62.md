@@ -214,6 +214,15 @@ According to Ruh al-Ma'ani, by using the expression ` racing towards sin' about 
 
 This tells us that a good or bad deed when done many times repeatedly becomes a part and parcel of the inmost being of a person, almost a skill or drive or a fixed habit, after which, there remains no exertion or hesitation in doing what one does. This was the limit reached by Jews in pursuing their evil traits. To highlight it, it was said: يُسَارِ‌عُونَ فِي الْإِثْمِ (They race towards sin). The same thing applies to prophets and men of Allah in the case of their good traits. About them too, the Holy Qur'an has used the same expression when it says: يُسَارِ‌عُونَ فِي الخیراتِ (They race towards good deeds - 3:114).
 
+## AI Translation
+
+You see many of them racing towards sin, transgression, and consumption of forbidden gain. Evil indeed are their actions!
+
+## AI Tafsir
+
+**What this ayah teaches:** Evil indeed is that which they have been doing (62)Why do not the 'Rabbāniyyūn' and the 'Aḥbār' forbid them from uttering sinful words and from eating illegal things.
+
+**Classical tafsir:** Ibn Kathir notes: Those who were before you were destroyed because they committed sins and the 'Rabbāniyyūn' and 'Aḥbār' did not forbid them from evil.
 ## Personal Reflections
 
 

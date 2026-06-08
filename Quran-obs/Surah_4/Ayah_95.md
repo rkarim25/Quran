@@ -248,6 +248,17 @@ Generally, injunctions related to collective needs have been, of necessity, clas
 
 The statement وَكُلًّا وَعَدَ اللَّـهُ الْحُسْنَىٰ (and to each, Allah has promised good) in this verse gives peace of mind to those who are engaged in religious duties other than Jihad. But, this injunction is operative in normal conditions when the Jihad waged by some people is sufficient for defence against the enemy attack. Should it be that their Jihad needs additional support, Jihad becomes an absolute obligation on neighbouring Muslims in the first instance. If this support too turns out to be still deficient, Jihad becomes an absolute obligation on Muslims living nearby in their proximity. Finally, just in case, they too are unable to meet the challenge from the enemy, the mantle of Jihad duty falls on the shoulders of other Muslims to the limit that there may come a time when every Muslim from the East and the West may have to participate in the Jihad as solemn religious obligation.
 
+## AI Translation
+
+Those who stay at home—except those with valid excuses—are not equal to those who strive in the cause of Allah with their wealth and their lives. Allah has elevated in rank those who strive with their wealth and their lives above those who stay behind. Allah has promised each a fine reward, but those who strive will receive a far better reward than others— far superior ranks, forgiveness, and mercy from Him. And Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** Not equal are those of the believers who sit (at home), except those who are disabled, and those who strive hard and fight in the cause of Allah with their wealth and their lives. Allah has preferred in grades those who strive hard and fight with their wealth and their lives above those who sit (at home).
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah indicates that Jihad is not Fard on each and every individual, but it is Fard Kifayah (which is a collective duty).
+
+**From the Sunnah:** He told us that Zayd bin Thabit told him that Allah's Messenger ﷺ dictated this Ayah to him, (Sahih al-Bukhari) Ibn Umm Maktum came to the Prophet ﷺ as he was dictating that very Ayah to me.
 ## Personal Reflections
 
 

@@ -116,6 +116,15 @@ Reported in the third verse (90) is a misleading statement of the arrogant chief
 
 The account of the punishment of these wicked people was given in the fourth verse (91) in the following words: فَأَخَذَتْهُمُ الرَّ‌جْفَةُ فَأَصْبَحُوا فِي دَارِ‌هِمْ جَاثِمِينَ ﴿91﴾ (So, the earthquake seized them, and they were [ found dead ] in their homes fallen on their knees).
 
+## AI Translation
+
+The disbelieving chiefs of his people threatened, “If you follow Shu’aib, you will surely be losers!”
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah describes the enormity of disbelief, rebellion, transgression and misguidance (of Shu'ayb's people) and the defiance of truth encrypted in their hearts.
+
+**Classical tafsir:** Ibn Kathir notes: Allah describes the enormity of disbelief, rebellion, transgression and misguidance (of Shu'ayb's people) and the defiance of truth encrypted in their hearts.
 ## Personal Reflections
 
 

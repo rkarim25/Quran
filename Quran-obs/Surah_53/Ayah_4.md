@@ -90,6 +90,17 @@ The Holy Prophet's Words are a Revelation from Allah
 
 The foregoing discussion also allays the following doubt: It seems, according to the above verses, that the Messenger ﷺ does not speak of his own desire, but whatever he conveys to the people is a revelation from Allah. It follows from this that he does not exercise independent reasoning in any matter whatsoever, whereas authentic Traditions show otherwise. There are incidents recorded .that at the beginning, he promulgated one law, but, later on, revelation descended and the law was changed. This is an indication that the earlier law was not the law of Allah, but it was based on his ijtihad. The foregoing paragraph already responded to this objection: The second type of revelation establishes a general principle of law from which the Messenger ﷺ derives laws on the basis of ijtihad, and promulgates them. Because the general principle has descended from Allah, all the laws are said to be the revelation from Allah. Allah knows best!
 
+## AI Translation
+
+It is only revelation sent down to him.
+
+## AI Tafsir
+
+**What this ayah teaches:** It is only a revelation revealed.) Allah swears the Messenger is True and His Words are a Revelation from Him Ibn Abi Hatim recorded that Ash-Sha'bi and others stated that the Creator swears by whatever He wills among His creation, but the created only vow by the Creator.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, Allah exonerated His Messenger and his Message from being similar to the misguided ways of the Christians and the erroneous paths of the Jews, such as knowing the Truth and hiding it, while abiding by falsehood.
+
+**From the Sunnah:** The Prophet ﷺ (recited it in Makkah) and prostrated. (Sahih al-Bukhari, Sahih Muslim) Ibn Abi Hatim recorded that Ash-Sha'bi and others stated that the Creator swears by whatever He wills among His creation, but the created only vow by the Creator.
 ## Personal Reflections
 
 

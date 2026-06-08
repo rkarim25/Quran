@@ -274,6 +274,19 @@ It is quite clear from the above discussion that complete equality in incomes is
 
 Islamic equality, therefore, from the purely economic point of view means that everybody should have equal opportunities to earn livelihood, and Islam does not tolerate that a few wealthy persons should control and monopolize the sources of wealth whereas small traders should be unable to do business in the market place. By forbidding interest, speculative transactions, gambling, hoarding, monopolistic trade agreements, and by applying zakah, ` ushr, kharaj, maintenance allowances, alms and other compulsory payments, an environment of freedom has been created in which every individual can get an opportunity of earning livelihood according to his ability, endeavor and investment. A prosperous society can be built upon this foundation. The differences in incomes which remain despite all this are actually unavoidable, and cannot be erased just as the differences in human beings in respect of beauty and elegance, health and vigor, sense and intelligence and offspring and progeny cannot be wiped out.
 
+## AI Translation
+
+Is it they who distribute your Lord's mercy? We alone have distributed their livelihood among them in this dunya and raised some in rank above others so some may employ others in service. But your Lord's mercy is far better than whatever wealth they amass.
+
+## AI Tafsir
+
+**Context:** (And they say) means, objecting to that which Allah has revealed to him, (Why is not this Qur'an sent down to some great man of the two towns?) meaning, why was this Qur'an not revealed to some man who was great and prom…
+
+**What this ayah teaches:** But the mercy of your Lord is better than what they amass (32)And were it not that mankind would have become of one community, We would have provided for those who disbelieve in the ar-Rahman, silver roofs for their houses, and elevators whereby they ascend (33)And for their houses, doors, and thrones on which they could recline (34)And adornments of gold.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn Zayd said, "The word of Islam," which refers to the same thing suggested by the group.
+
+**From the Sunnah:** In as the Two Sahihs and elsewhere, it is reported that the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

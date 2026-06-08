@@ -110,6 +110,17 @@ The Pharaoh made all the efforts that he could to control his people. The belief
 
 The sorcerers were fully aware of Pharaoh's power and authority over them. They did not say that Pharaoh will not be able to kill them because of their new faith. Their answer was to suggest that the whole life of this temporary world had no value in their eyes. Their satisfaction was due to the fact that they were sure of meeting the Lord of the worlds after passing away from this world. There they shall get an everlasting life of peace and comfort. Another interpretation of their answer is that though the Pharaoh had all the power to finish their life, but soon he will be presented before the Lord of the worlds where he shall be taken to account for his despotism. In another verse, the following statement is also included in the answer of the sorcerers, فَاقْضِ مَا أَنتَ قَاضٍ ۖ إِنَّمَا تَقْضِي هَـٰذِهِ الْحَيَاةَ الدُّنْيَا You may pass any judgment you can against us, but your judgment will be restricted to this worldly life." (72:20) This also shows their total indifference towards the temporary life of this world.
 
+## AI Translation
+
+They responded, “Surely to our Rabb we will return.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, this is a plot which you have plotted in the city to drive out its people, but you shall come to know.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said that Fir'awn was the first to crucify and cut off hands and legs on opposite sides.
+
+**From the Sunnah:** pour out on us patience, and cause us to die as Muslims. Fir'awn then sent emissaries to various cities of his kingdom and collected magicians who were scattered throughout Egypt.
 ## Personal Reflections
 
 

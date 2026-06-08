@@ -344,6 +344,17 @@ Injunctions and related considerations:
 
 The Holy Qur'an says that real losers are those who go against divine commandments. There is a suggestion here that real loss pertains to the other world, the loss of this world being too small a thing to be worthy of serious consideration.
 
+## AI Translation
+
+Allah is not ashamed to set forth a parable — even of a mosquito or what is smaller. The believers know it is truth from their Rabb. Those who reject it ask, "What does Allah mean by this?" Through it He lets many stray and guides many — and none stray except the rebellious,
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, Allah is not ashamed to set forth a parable even of a mosquito or so much more when it is bigger (or less when it is smaller) than it.
+
+**Classical tafsir:** Ibn Kathir notes: The reference to the disavowing of one's covenant with Allah indicates that the infringement of a contract or agreement made with one's fellow men is a grave sin, which may have the consequence of depriving a man of the ability to do good deeds.
+
+**From the Sunnah:** Breaking Allah's covenant in this case occured when the People of the Book rejected the Prophet ﷺ after they knew the truth about him, and they hid this truth from people, even though they swore to Allah that they would do otherwise. These miracles testified to the truth of Allah's Messengers.
 ## Personal Reflections
 
 

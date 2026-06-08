@@ -91,6 +91,17 @@ If someone takes an oath that he will not have sexual intercourse with his wife,
 
 So, situations A, B and C are termed in Shari` ah as 'Ild' (ایلاء ). The injunction covering these situations is: If the oath-taker breaks his oath within four months and resumes sexual intercourse with his wife, he will have to come up with kaffarah کَفَّارہ for his oath while his nikah (marriage) remains intact. And should it be that the time-limit of four months did expire and the oath-taker did not break his oath, an irrevocable divorce on his wife will become effective, that is, taking her back without remarriage does not remain correct any more. However, if they, by mutual consent, enter into marriage this will be correct. Halalah حلالہ (an intermediary marriage of the woman with a third person) is not required. The injunction in the fourth situation is: If the oath is broken, kaffarah کَفَّارہ will be required and if the oath is completed, the marriage, even then, will remain valid. (Bayan al-Qur°an)
 
+## AI Translation
+
+If they resolve on divorce, Allah is All-Hearing, All-Knowing.
+
+## AI Tafsir
+
+**What this ayah teaches:** Those who take an oath not to have sexual relation with their wives must wait for four months, then if they return, verily, Allah is Oft-Forgiving, ar-Rahim (226)And if they decide upon divorce, then Allah is All-Hearer, All-Knower .
+
+**Classical tafsir:** Ibn Kathir notes: Otherwise, he should divorce her, by being forced to do so by the authorities if necessary, so that the wife is not harmed.
+
+**From the Sunnah:** Allah's Messenger ﷺ swore he would stay away from with his wives for a month.
 ## Personal Reflections
 
 

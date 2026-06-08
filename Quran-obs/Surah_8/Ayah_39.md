@@ -251,6 +251,15 @@ The present verse of the Holy Qur'an under study along with re-ports from Hadith
 
 This teaching of Islam applied to the condition in which the enemies of Islam promise to desist from their hostility and enter into agreement to that effect.
 
+## AI Translation
+
+Fight them until there is no more fitnah—no coercion in deen, the way of life aligned with divine guidance—and worship is devoted to Allah alone. If they desist, Allah sees what they do.
+
+## AI Tafsir
+
+**What this ayah teaches:** But if they return (thereto), then the examples of those (punished) before them have already preceded (as a warning)(38)And fight them until there is no more Fitnah, and the religion (worship) will all be for Allah alone.
+
+**Classical tafsir:** Ibn Kathir notes: Given this situation, this injunction will be specific to only the people of Makkah and the people of Arabia - because, the Arabian Peninsula is the home of Islam.
 ## Personal Reflections
 
 

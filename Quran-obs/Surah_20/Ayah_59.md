@@ -79,6 +79,15 @@ Magic - its truth, forms and the rules governing it
 
 For a detailed discussion on this subject reference may be made to the story of Harut and Marut in Surah Al-Baqarah at page 265 to 278 of Ma'ariful Qur'an vol. I.
 
+## AI Translation
+
+Moses said, “Your appointment is on the Day of the Festival, and let the people be gathered mid-morning.”
+
+## AI Tafsir
+
+**What this ayah teaches:** This day was selected so that all of the people could witness the power of Allah to do whatever He wills. There was also a point in fixing early forenoon as the time for the contest because this is the time when people, having finished their daily chores, are free to engage in other things.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "The day of their festivity was the day of 'Ashura'." As-Suddi, Qatadah and Ibn Zayd said, "It was the day of their great celebration." Sa'id bin Jubayr said, "It was the day of their great bazzar." These statements are not contradictory.
 ## Personal Reflections
 
 

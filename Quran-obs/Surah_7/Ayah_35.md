@@ -128,6 +128,15 @@ In other words, what is being said here is that those committing excesses who, d
 
 As for the appointed time not being late or early as stated in this verse, it is a manner of saying, something like saying to a salesperson in a store: at is your last price, more or less? It is obvious that the inquiry is for the lower price, not the higher. But, it is put there as a subordinate suffix. Similarly, the real objective here is to state that there will be no delay after the appointed time. The mention of ` before' along with ` late' makes it closer to common comprehension.
 
+## AI Translation
+
+O children of Adam! When messengers from among yourselves come to you reciting My revelations—whoever shuns evil and mends their ways, there will be no fear for them, nor will they grieve.
+
+## AI Tafsir
+
+**What this ayah teaches:** If there come to you Messengers from among you, reciting to you My Ayat, then whosoever has Taqwa and becomes righteous, on them shall be no fear nor shall they grieve (35)But those who reject Our Ayat and treat them with arrogance, they are the dwellers of the Fire, they will abide therein forever .
+
+**Classical tafsir:** Ibn Kathir notes: The third verse (34) describes their sad end and the punishment they would have in the Hereafter.
 ## Personal Reflections
 
 

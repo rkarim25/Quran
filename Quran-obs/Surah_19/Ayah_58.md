@@ -227,6 +227,17 @@ And for the verse of Sajdah under reference the following should be recited.
 
 ( O Allah make me of those among Your slaves upon whom You bestowed Your bounties, who prostrate before You, who weep while reciting Your verses.) (Qurtubi)
 
+## AI Translation
+
+Those were among the prophets Allah blessed—from Adam's descendants, from those carried with Noah, from Abraham and Israel's line, and from those We guided and chose. When the revelations of the Rahman were recited to them, they fell prostrating, weeping.
+
+## AI Tafsir
+
+**What this ayah teaches:** This is because among them is he who was not a descendant of those who were on the ship with Nuh, and he that is Idris.
+
+**Classical tafsir:** Ibn Kathir notes: The word Bukiyan at the end of the Ayah means those who are crying, and it is the plural of Baki.
+
+**From the Sunnah:** In Sahih Al-Bukhari it is reported from Mujahid that he asked Ibn 'Abbas, "Is there a prostration in Surah Sad?" Ibn 'Abbas replied, "Yes." Then he recited, (Sahih al-Bukhari)
 ## Personal Reflections
 
 

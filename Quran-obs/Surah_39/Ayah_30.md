@@ -136,6 +136,19 @@ Commentary
 
 In verse 30, it was said: إِنَّكَ مَيِّتٌ وَإِنَّهُم مَّيِّتُونَ (Verily, you are to die and they are to die). The word: مَيِّتٌ (mayyit) with a doubling sound on the letter: اَلیاء (al-ya) denotes someone who will die in the future and مَیت (mait) with the letter al-ya' remaining quiescent, someone who has died. In this verse, the address is to the Holy Prophet ﷺ and it is being said to him that he too is to die and so are his friends and foes, who will also die. The objective behind the statement is to alert and persuade everyone to be concerned about the Hereafter and be ready to do everything necessary to achieve this goal. Then, as an inter-related side of the subject, the purpose is also to make it very clear that the Holy Prophet ﷺ too, despite being the most sublime among the creation and the foremost among prophets, is not exempted from death, so that people would not differ about this matter after his passing away from this mortal world (from al-Qurtubi).
 
+## AI Translation
+
+You will certainly die, and they will die too.
+
+## AI Tafsir
+
+**Context:** (Yes.) He (Az-Zubayr) said, 'This is a very serious matter.'" Ahmad recorded from Az-Zubayr bin Al-'Awwam, may Allah be pleased with him, that when this Surah was revealed to the Messenger of Allah ﷺ: Ibn Abi Hatim recor…
+
+**What this ayah teaches:** But most of them know not (29)Verily, you will die, and verily, they (too) will die (30)Then, on the Day of Resurrection, you will be disputing before your Lord .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** The fact that the Messenger of Allah ﷺ and Quraysh will die, and how They will dispute before Allah Az-Zubayr, may Allah be pleased with him, said, "By Allah, it is a very serious matter." It was also recorded by At-Tirmidhi, who said "Hasan Sahih." (Jami' at-Tirmidhi, authentic hadith)
 ## Personal Reflections
 
 

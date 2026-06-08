@@ -141,6 +141,15 @@ With this, Al-Qurtubi has also reported the saying of Sayyidn Ka'b ؓ : 'There a
 
 What is apparent here is that real merit does lie in praying in the first row - as stands proved from the clear statements of the Qur'an and Sunnah. But, a person who does not, for some reason, find a place in the first row, then, he too will have a sort of merit in that there may perhaps be some righteous servant of Allah praying in the front rows for whose sake, he too may be forgiven. And the way praying in the first row of Salah stands proved from this verse, also proved is the superiority of being in the front lines of Jihad.
 
+## AI Translation
+
+Surely your Rabb — the One who creates, owns, nurtures, and sustains alone will gather them together for judgment. He is truly All-Wise, All-Knowing.
+
+## AI Tafsir
+
+**What this ayah teaches:** Truly, He is Most Wise, (and) Knowing .
+
+**Classical tafsir:** Ibn Kathir notes: They can be accommodated all in one because the all-encompassing knowledge of Allah Ta` ala covers all kinds of people 'who go ahead' or 'remain behind.' In his Tafsir, Al-Qurtubi has said that this verse indicates the merit of performing Salah in the first row, and soon after th…
 ## Personal Reflections
 
 

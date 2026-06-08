@@ -219,6 +219,19 @@ This Ayah has been used as evidence that the Jinns have warners from among thems
 
 یغْفِرْ‌ لَكُم مِّن ذُنُوبِكُمْ (will forgive your sins for you,) The word 'min' used in the text gives the sense of 'some'. If it is taken in this sense here, it would mean that 'some sins' will be forgiven by embracing Islam. It will indicate that only sins relating to the rights of Allah would be forgiven but not the rights of people. But some exegetes have taken 'min' in this verse as an extra word that has no additional meaning in Arabic idioms. Given this interpretation, no explanation is required.
 
+## AI Translation
+
+Whoever does not answer Allah's caller cannot escape on earth, nor will they find protectors besides Him. They are clearly astray.
+
+## AI Tafsir
+
+**Context:** And (remember) when We sent toward you a group of the Jinn, to listen to the Qur'an. When they attended it, they said: "Listen quietly!" And when it was concluded, they returned to their people, as warners (29)They said:…
+
+**What this ayah teaches:** Respond to Allah's Caller,) This is proof that Muhammad ﷺ has been sent to both the human beings and the Jinns.
+
+**Classical tafsir:** Ibn Kathir notes: Because of this, many of the Jinns took heed and came to Allah's Messenger ﷺ in successive delegations; and verily, Allah is worthy of all praise and gratitude, and Allah knows best.
+
+**From the Sunnah:** from Az-Zubayr that he commented on the Ayah; (Musnad Ahmad) Allah's Messenger ﷺ was heading with a group of his Companions towards the 'Ukaz market. (Musnad Ahmad)
 ## Personal Reflections
 
 

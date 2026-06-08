@@ -132,6 +132,15 @@ When Sayyidna Musa (علیہ السلام) appeared before Divine Presence, Alla
 
 Sayyidna Musa (علیہ السلام) ، ignorant of Samiri's mischief, answered the question put to him by Allah that his haste was the result of his ardent desire to fulfill Allah's command without loss of time so as to deserve His greater favour, and that his people were close behind him and might arrive at any time. It was at that moment that Allah informed him of the evil that had befallen his people and the part played by Samiri in bringing it about.
 
+## AI Translation
+
+He replied, “They are close on my tracks. And I have hastened to You, my Rabb, so You will be pleased.”
+
+## AI Tafsir
+
+**What this ayah teaches:** They said: "This is your Allah, and the Allah of Musa," but he had forgotten (88)Did they not see that it could not return them a word (for answer), and that it had no power either to harm them or to do them good .
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Nay, by Allah, the moaning sound of the calf was nothing but wind that would enter into its behind and come out of its mouth, thus causing it to make a sound." In a Hadith of Al-Fitun recorded from Al-Hasan Al-Basri, it is mentioned that this calf's name was Bahmut.
 ## Personal Reflections
 
 

@@ -160,6 +160,15 @@ It appears in Tafsir al-Qurtubi that ` Abdullah ibn Shaddad ibn al-Had said that
 
 At the end of the verse, it was said: إِنَّ رَ‌بَّكَ عَلِيمٌ حَكِيمٌ (Surely, your Lord is All-Wise, All-Knowing). So He is. For Him, teaching an art to someone is not difficult, nor does He, as His wisdom would have it, teach this art to just anyone. Instead of that, He elects someone, in His wisdom, and lets him have this expertise.
 
+## AI Translation
+
+And so will your Rabb — the One who creates, owns, nurtures, and sustains choose you O Joseph, and teach you the interpretation of dreams, and perfect His favour upon you and the descendants of Jacob—just as He once perfected it upon your forefathers, Abraham and Isaac. Surely your Rabb is All-Knowing, All-Wise.”
+
+## AI Tafsir
+
+**What this ayah teaches:** This tells us that an instant actualization of an interpretation is not necessary either.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

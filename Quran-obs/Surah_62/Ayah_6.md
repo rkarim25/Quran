@@ -144,6 +144,17 @@ Friends of Allah to the exclusion of all other people, then express your desire 
 
 Despite their kufr, shirk and moral aberration, the Jews claimed نَحْنُ أَبْنَاءُ اللَّـهِ وَأَحِبَّاؤُهُ (…We are the sons of Allah and His favourites) [ 5:18] and they also claimed لَن يَدْخُلَ الْجَنَّةَ إِلَّا مَن كَانَ هُودًا (…no one shall ever enter Paradise unless he is a Jew) [ 2:111]. In other words, they believed themselves to be safe and immune from the punishment of the Hereafter, and thought that the blessings of Paradise are their personal property. Obviously, if a person believes that the blessings of the Hereafter are a zillion times better than the blessings of this world, he must, of necessity, wish for death, so that he is able to enter Paradise sooner and start enjoying its blessings forthwith. He sees with his own eyes that this world is not free from miseries, sorrows and hardships and one has to suffer from certain diseases as long as he is living here. Then if he believes that, as soon as he dies, he will certainly receive those numerous and eternal blessings, a wise man should naturally wish for death in his heart, so that he may be set free from this miserable world and reach the next world where he will reside forever in eternal peace and comfort. That is why the Messenger of Allah ﷺ is instructed in the present verse to challenge that if they are Allah’ s children and His beloved ones they do not have any fear of punishment in the Hereafter, then the reason demands that they should wish for death. Then the Holy Qur’ an itself falsified them in the following words:
 
+## AI Translation
+
+Say: 'O Jews, if you claim to be Allah's chosen people above all others, then wish for death, if what you say is true.'
+
+## AI Tafsir
+
+**What this ayah teaches:** Obviously, if a person believes that the blessings of the Hereafter are a zillion times better than the blessings of this world, he must, of necessity, wish for death, so that he is able to enter Paradise sooner and start enjoying its blessings forthwith.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, they are worse than the donkey, because the donkey cannot understand.
+
+**From the Sunnah:** Paradise unless he is a Jew) [ 2:111].
 ## Personal Reflections
 
 

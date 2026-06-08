@@ -160,6 +160,17 @@ Injunction [ 5]
 
 وَلَا تَمْنُنْ تَسْتَكْثِرُ (...and do no favour [ to anyone merely ] to ask more [ in exchange ]....74:6). In other words, no gift should be given to anyone seeking to get back in return more than what was given. This indicates that it is reprehensible to give to someone a gift with the intention that the person will give him a higher gift. Although it seems to be allowed, by another verse of the Qur'an, for common people, yet it is reprehensible and morally unrighteous - especially for the Holy Prophet, it is unlawful, as explained by Ibn ` Abbas
 
+## AI Translation
+
+Do not give expecting more in return.
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, no gift should be given to anyone seeking to get back in return more than what was given.
+
+**Classical tafsir:** Ibn Kathir notes: This indicates that it is reprehensible to give to someone a gift with the intention that the person will give him a higher gift.
+
+**From the Sunnah:** It has been confirmed in the Sahih Al-Bukhari and Sahih Muslim on the authority of Abu Salamah that Jabir bin 'Abdullah informed him that he heard the Messenger of Allah ﷺ speaking about the time period (of the pause in) revelation. (Sahih al-Bukhari, Sahih Muslim) from Abu Salamah bin 'Abdur-Rahman that Jabir bin 'Abdullah informed him that he heard the Messenger of Allah ﷺ saying, (Musnad Ahmad)
 ## Personal Reflections
 
 

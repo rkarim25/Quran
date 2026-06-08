@@ -94,6 +94,17 @@ The most upright way
 
 The way to which the Qur'an guides has been called 'aqwam,' the most upright. 'Aqwam' can be explained by saying that it is a way that is closer to the destination, is easy and free of dangers at the same time. (Qurtubi) This tells us that the rules set for human life by the Holy Qur'an are a combination of all three features mentioned above. However, it is a different matter that man may start taking this way to be difficult or dangerous on occasions because of his own lack of comprehension. But, the Lord of all the worlds has the most comprehensive knowledge of every single particle in the entire universe. Before Him, the past and the future are the same. It is He who can have the knowledge of the reality as to the function and form most beneficial for human beings. And since man is unaware of things as they are in a comprehensive setting, he can-not identify even his own good or bad fully and decisively.
 
+## AI Translation
+
+And it warns those who do not believe in the Akhirah — the everlasting life after death that We have prepared for them a painful punishment.
+
+## AI Tafsir
+
+**Context:** Allah praises His noble Book, the Qur'an, which He revealed to His Messenger Muhammad ﷺ. It directs people to the best and clearest of ways.
+
+**What this ayah teaches:** Verily, this Qur'an guides to that which is most just and right and gives good news to those who believe, those who do righteous deeds, that they will have a great reward (Paradise)(9)And that those who do not believe in the Hereafter, for them We have prepared a painful torment (Hell).
+
+**Classical tafsir:** Ibn Kathir notes: However, it is a different matter that man may start taking this way to be difficult or dangerous on occasions because of his own lack of comprehension.
 ## Personal Reflections
 
 

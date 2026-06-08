@@ -208,6 +208,19 @@ Injunctions and related considerations
 
 Verse 133 reports that the sons of Sayyidna Ya` qub (علیہ السلام) (Jacob) promised to worship اِلٰہ اٰباءک ابراہیم و اسماعیل و اسحٰق :"The God of your father, Ibrahim and Ismail and-Ishaq ." This phrase indicates that the term "father" includes the grand-father as well. The blessed Companion ` Abdullah ibn ` Abbas ؓ has deduced from this verse the rule that in matters of inheritance the grandfather shall be treated like the father.
 
+## AI Translation
+
+Or were you present when death approached Jacob? He asked his children, "Who will you worship after me?" They said, "We will worship Allah — the One your fathers Abraham, Ishmael, and Isaac worshipped — the One Allah alone — and to Him we submit."
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you (O Muhammad ﷺ)[but We revealed to him (saying): La ilaha illa Ana [none has the right to be worshipped but I (Allah)], so worship Me (alone and none else))(21:25).
+
+**What this ayah teaches:** When death came to Jacob, he advised his children to worship Allah alone without partners. Ya'qub's Will and Testament to His Children upon His Death This Ayah contains Allah's criticism of the Arab pagans among the offspring of Isma'il as well as the those who reject the truth among the Children of Israel Jacob the son of Isaac, the son of Ibrahim.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** when his son dies), as Abu Bakr asserted, according to Al-Bukhari who narrated Abu Bakr's statement from Ibn 'Abbas and Ibn Az-Zubayr.
 ## Personal Reflections
 
 

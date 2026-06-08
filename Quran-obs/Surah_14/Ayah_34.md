@@ -125,6 +125,17 @@ Justice demanded that, in return for these countless blessings, equally countles
 
 At the end of the verse (34), it was said:إِنَّ الْإِنسَانَ لَظَلُومٌ كَفَّارٌ‌ (Surely, man is very unjust, very ungrateful). It means that he should face hardship with patience, keep his words and feelings free from any complaint thinking that the fate he faces has come from a wise Master and that too, being in His infinite Wisdom is nothing but a blessing, and when he is blessed with what is good and comforting, let him be thankful for it from his heart both verbally and practically - as is the dictate of justice. But, common human habit works differently from this norm. A little discomfort or pain would make them lose patience and go about broadcasting their problem. And if they find some blessing or a little wealth, they would get intoxicated with it and forget all about Allah Ta’ ala, their Benefactor. Therefore, in a verse appearing earlier (5), the attribute of sincere believers has been identified as Sabbar (very patient) and Shakur (very grateful).
 
+## AI Translation
+
+He granted you everything you asked for. If you tried to count Allah's blessings, you could never number them. Humanity is truly unfair—deeply ungrateful.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah is He Who has created the heavens and the earth and sends down water (rain) from the sky, and thereby brought forth fruits as provision for you; and He has made the ships to be of service to you, that they may sail through the sea by His command; and He has made rivers (also) to be of service to you (32)And He has made the sun and the moon, both constantly pursuing their courses, to be of se…
+
+**Classical tafsir:** Ibn Kathir notes: But man, because of his lack of knowledge, cannot realize that, therefore, he feels disappointed.
+
+**From the Sunnah:** In Sahih Al-Bukhari it is recorded that the Messenger of Allah ﷺ used to supplicate; (Sahih al-Bukhari)
 ## Personal Reflections
 
 

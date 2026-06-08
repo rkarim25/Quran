@@ -145,6 +145,17 @@ Some scholars have tried to prove that he was unlettered in the beginning, but l
 
 In this narration, the act of writing has been attributed to the Holy Prophet ﷺ which led some people to think that he knew how to write. But the correct position is that the act of writing was attributed to him in the narration as a colloquial expression. It is a fairly common idiom spoken quite widely that if someone gets something written by an ascribe, the writing is attributed to the former, even though he has not written it himself. The other possibility is that Allah Ta’ ala made him write this bit miraculously on this occasion. Also, by writing just a few words, one cannot be called a literate, but would still remain an unlettered. Furthermore, it would not be an honour for him to be labeled as literate, rather the honour is in him being an unlettered.
 
+## AI Translation
+
+Rather, these are clear ayahs preserved in the hearts of those gifted with knowledge. None rejects them except wrongdoers.
+
+## AI Tafsir
+
+**What this ayah teaches:** This is because it is preserved in the hearts and is easy on the tongue (i.e., is easy to recite), and is controlling people's hearts and minds.
+
+**Classical tafsir:** Ibn Kathir notes: This is because it is preserved in the hearts and is easy on the tongue (i.e., is easy to recite), and is controlling people's hearts and minds.
+
+**From the Sunnah:** What I have been given is revelation which Allah reveals to me, and I hope that I will have the most followers among them.) According to the Hadith of 'Iyad bin Himar, recorded in Sahih Muslim, Allah says: (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -108,6 +108,15 @@ Allah's is the perfect will and wisdom in all decrees and decisions, and He is n
 
 The reason for this has been given in the fifth verse (107). There it has been said: If Allah Ta` ala had willed - in consideration of His own creational imperative - that the whole human race should become Muslim in faith, then, it would have become impossible for them to associate partners in the Divinity of Allah (Shirk). But, it was because of their misdeeds that Allah willed that they be punished. So, He created the necessary conditions for that end. Now, how could he make them Muslims under these circumstances? In fact, why should he worry about what they choose to do with their lives? Allah has not made him to stand guard over what they do, nor has he been authorized by Allah to bring punishment on them for their misdeeds. Therefore, he should not have any anxiety on account of what they do to themselves or for themselves.
 
+## AI Translation
+
+Had Allah willed, they would not have been polytheists. We have not appointed you as their keeper, nor are you their maintainer.
+
+## AI Tafsir
+
+**Context:** (Follow what has been inspired to you from your Lord,) meaning, follow it, obey it and act according to it. What has been revealed to you from your Lord is the Truth, no doubt, and there is no deity worthy of worship exc…
+
+**What this ayah teaches:** Follow what has been inspired (revealed) to you from your Lord, none has the right to be worshipped but He, and turn aside from the idolators (106)Had Allah willed, they would not have taken others besides Him in worship.
 ## Personal Reflections
 
 

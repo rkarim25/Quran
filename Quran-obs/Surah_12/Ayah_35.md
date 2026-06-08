@@ -72,6 +72,15 @@ Later on, even after having seen the signs, they [ the ` Aziz of Misr and his ad
 
 Thus, to the prison he was sent.
 
+## AI Translation
+
+And so it occurred to those in charge, despite seeing all the proofs of his innocence, that he should be imprisoned for a while.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then it occurred to them, after they had seen the proofs (of his innocence), to imprison him for a time . Yusuf is imprisoned without Justification Allah says, 'Then it occurred to them that it would be in their interest to imprison Yusuf for a time, even after they were convinced of his innocence and saw the proofs of his truth, honesty and chastity.' It appears, and Allah knows best, that they i…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

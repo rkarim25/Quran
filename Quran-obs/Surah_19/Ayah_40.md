@@ -134,6 +134,19 @@ And Al-Baghawi (رح) has narrated quoting Abu Hurairah ؓ that The Holy Prophet
 
 The companions of the Holy Prophet ﷺ asked him what would be that remorse and regret about? Then The Holy Prophet ﷺ explained that those who acted righteously will regret not having performed more righteous deeds which would have helped them attain a higher position in Paradise. On the other hand, the evil doers will repent their evil actions and sins. (Mazhari)
 
+## AI Translation
+
+It is We who will inherit the earth and all upon it. To Us they will all return.
+
+## AI Tafsir
+
+**Context:** Ibn Abi Hatim recorded that Hazm bin Abi Hazm Al-Quta'i said, "'Umar bin 'Abdul-Aziz wrote to 'Abdul-Hamid bin 'Abdur-Rahman, who was the governor of Kufah: 'Thus, to proceed: Verily, Allah prescribed death for His creat…
+
+**What this ayah teaches:** But the wrongdoers today are in plain error (38)And warn them of the Day of grief and regrets, when the case has been decided, while (now) they are in a state of carelessness, and they believe not (39)Verily, We will inherit the earth and whatsoever is thereon.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, no soul will be done any injustice, nor wronged even the weight of a mosquito or an atom.
+
+**From the Sunnah:** Paradise enter Paradise and the people of the Hellfire enter the Hellfire, death will be brought in the form of a handsome ram and it will be placed between Paradise and the Hellfire.
 ## Personal Reflections
 
 

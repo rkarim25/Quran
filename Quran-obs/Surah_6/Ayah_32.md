@@ -121,6 +121,15 @@ In a Hadith, the Holy Prophet ﷺ has said:
 
 Wise is he who controls his self, and stays pleased with minimal resources, and devotes his deeds for what is after death.
 
+## AI Translation
+
+This worldly life is no more than play and amusement, but far better is the Home of the Akhirah for those who live with taqwa. Will you not then understand?
+
+## AI Tafsir
+
+**What this ayah teaches:** But, none of them will say: Now, we have believed and now we shall be doing nothing but what is good - because they would have seen reality and seen it very clearly - that the phase of Akhirah, the Hereafter, is not the Venue of Deeds (Dar al-Amal), and that the soundness of 'Iman (faith) depends on its being ` bil-ghayb,' that is, without having the need to see what is Unseen.
+
+**Classical tafsir:** Ibn Kathir notes: If seen closely, a teacher (of religion) and a student (of religion) are included under the Dhikr (Remembrance) of Allah because 'Ilm' means the knowledge which becomes the cause of the pleasure of Allah.
 ## Personal Reflections
 
 

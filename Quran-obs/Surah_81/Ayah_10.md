@@ -268,6 +268,17 @@ Ruling [ 2]: Birth Control
 
 Birth control, whose many forms are invented today, is also termed by the Holy Prophet ﷺ as 'hidden infanticide' in a hadith reported by Muslim from Judhamah bint Wahb ؓ . There are, however, some ahadith in which the Holy Prophet ﷺ is reported to have allowed ` azl (coitus interruptus) or to have observed silence when asked about it, which is a sign of permissibility of such an act. But it should be remembered that its permissibility is restricted to genuine needs, and that too in a way that productivity of the woman is not permanently blocked. [ Mazhari ]. The present-day medical science has invented some measures that prevent pregnancy forever. The Shari'ah does not permit such measures under any circumstances. Allah knows best!
 
+## AI Translation
+
+when records of deeds are laid open,
+
+## AI Tafsir
+
+**What this ayah teaches:** And when the heaven is Kushitat;)(12.
+
+**Classical tafsir:** Ibn Kathir notes: We have neglected nothing in the Book, then unto their Lord they shall be gathered.)(6:38) Ibn 'Abbas said, "Everything will be gathered, even the flies." This statement was recorded by Ibn Abi Hatim.
+
+**From the Sunnah:** Likewise, if a person strikes on the stomach of a pregnant woman which causes the baby to abort, then, according to the common consent of the Muslim jurists, it would be incumbent upon him to set free a slave or pay its price in blood-wit or diyah. (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -58,6 +58,15 @@ Special note
 
 Here the verse فَاتَّقُوا اللَّـهَ وَأَطِيعُونِ (So, fear Allah and obey me - 110) is repeated twice to make clear that for the obedience of the Messenger and fear of Allah it was enough that the prophet has any one of the two qualities: One, his honesty and integrity, and the second, his teaching and preaching without a fee. But when the Messenger who is personified of all these traits, his obedience and the fear of his God becomes all the more necessary.
 
+## AI Translation
+
+So fear Allah, and obey me.”.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, the righteous elders have ruled it as forbidden, but the later generations have allowed it under compelling circumstances. Allah sent him to forbid that and to warn people of the consequences of idol worship.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the righteous elders have ruled it as forbidden, but the later generations have allowed it under compelling circumstances.
 ## Personal Reflections
 
 

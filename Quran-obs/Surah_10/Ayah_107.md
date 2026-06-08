@@ -246,6 +246,19 @@ Thus, Sayyidna Yunus علیہ السلام was alerted to that slip, and later o
 
 In this story, as for parts that have been mentioned in the Qur'an, or stand proved from authentic narratives of Hadith, they are certain. The rest of them come from historical reports - and no ruling of Islamic law can be based on them.
 
+## AI Translation
+
+and ‘If Allah touches you with harm, none can undo it except Him. And if He intends good for you, none can withhold His bounty. He grants it to whoever He wills of His servants. And He is the All-Forgiving, the Rahim — special mercy for believers in the Akhirah.’”
+
+## AI Tafsir
+
+**Context:** Allah, the Exalted, says to His Messenger, Muhammad , 'Say: O mankind! If you are in doubt about the correctness of that which I have been sent with the Hanif (monotheism) religion - the religion which Allah has revealed…
+
+**What this ayah teaches:** And if He intends good for you, then none can repel His favor which He causes to reach whom He wills among His servants. So, they said, let that person show himself up so that others do not suffer because of one person.
+
+**Classical tafsir:** Ibn Kathir notes: So, they said, let that person show himself up so that others do not suffer because of one person.
+
+**From the Sunnah:** protection from other sins.
 ## Personal Reflections
 
 

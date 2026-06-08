@@ -108,6 +108,15 @@ In the verses cited above, after having mentioned various punishments which coul
 
 First of all, by using the word: رَبّ (Rabb: Lord) here, the hint given is that all these punishments which overtake human beings in this world are there to warn them as part of the dictates of Divine mercy. After that, by introducing the word: رَ‌ءُوفٌ(Ra uf: Kind) headed by the intensifying particle lam) that is, the lam of ta'kid), and thus by placing stress on the fact that Allah Ta’ ala was Very Kind and Very Merciful, the hint given was that warnings sent during the life of the world were, in reality, called for by His intrinsic Kindness and Mercy so that heedless men and women would learn from the warning and correct their deeds (before comes 'the last spasm of mass extinction' they themselves are talking about at the closing of the twentieth century, but are still not ready to learn, believe and correct).
 
+## AI Translation
+
+And Allah has said, “Do not take two gods. There is only One Allah. So be in awe of Me alone.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah Alone is Deserving of Worship Allah tells us that there is no Allah but He, and that no one else should be worshipped except Him, alone, without partners, for He is the Sovereign, Creator, and Lord of all things.
+
+**Classical tafsir:** Ibn Kathir notes: It was also reported that Ibn 'Abbas said, "It means obligatory." Mujahid said: "It means purely for Him," i.e., worship is due to Him Alone, from whoever is in the heavens and on earth.
 ## Personal Reflections
 
 

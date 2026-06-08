@@ -72,6 +72,17 @@ This Ayah is general and applies to both humans and Jinns, providing proof that 
 
 ذَوَاتَا أَفْنَانٍ (both having lot of branches...55:48). This describes the first two Gardens. There will be plenty of trees abounding in. branches and consequently their shade will be dense, and the fruits will be in abundance. The other two Gardens are described later. No such qualities are mentioned about them, which may imply their relative deficiency in this quality.
 
+## AI Translation
+
+Both with spreading branches.
+
+## AI Tafsir
+
+**What this ayah teaches:** branches and consequently their shade will be dense, and the fruits will be in abundance.
+
+**Classical tafsir:** Ibn Kathir notes: This describes the first two Gardens.
+
+**From the Sunnah:** The Group, with the exception of Abu Dawud, collected this via the Hadith of 'Abdul-'Aziz. (Sunan Abi Dawud)
 ## Personal Reflections
 
 

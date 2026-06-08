@@ -226,6 +226,17 @@ The penalty for zihar is obligatory, which is given in this and the next verse. 
 
 It is recorded in Traditions that when Sayyidah Khaulah ؓ complained to Allah's Messenger ﷺ about her husband and pleaded her case to Allah, verses relating to zihar and its expiation were revealed. So, Allah's Messenger ﷺ called for the husband. When he came, the Holy Prophet ﷺ noticed that he was a weak-sighted old man. He recited to him the verses resolving his case, and commanded him to emancipate a slave, he said that he does not have the means to do that. The Holy Prophet ﷺ then asked him to fast two successive months, to which he replied: "By Him Who has sent you as the true Messenger, if I do not have two or three meals a day, I lose my sight completely." The Holy Prophet ﷺ said 'Then feed sixty poor people'. He said 'I do not have the ability for that either, unless you help me'. The Holy Prophet ﷺ gave him some food grain, and also other people gathered more food grain for him, which amounted to the measure of sadaqatul-fitr for sixty poor men, and in this way the expiation was made. [ Ibn Kathir ]
 
+## AI Translation
+
+Whoever divorces in this manner and then wishes to take his wife back must free a slave before they may be intimate again. This penalty exists to deter you from treating such words lightly. Allah is fully aware of what you do.
+
+## AI Tafsir
+
+**Context:** By Allah! Before I departed, parts of the Qur'an were revealed about me. Allah's Messenger ﷺ felt the hardship upon receiving the revelation as he usually did and then became relieved. He said to me,
+
+**What this ayah teaches:** And verily, Allah is Oft-Pardoning, Oft-Forgiving (2)And those who make unlawful to them (their wives) by Zihar and wish to free themselves from what they uttered, (the penalty) in that case is the freeing of a slave before they touch each other.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said that it is to utilize her sexual organ, and he did not see any harm in doing what is less than that before paying the expiation.
 ## Personal Reflections
 
 

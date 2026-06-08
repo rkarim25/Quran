@@ -171,6 +171,15 @@ Commentary
 
 I would have been the first to worship - 43:81) It does not mean that, God forbid, there is any possibility of Rahman (Allah) having offspring. What is really being said is that the Holy Prophet t is not denying your beliefs due to enmity or obstinacy, but because they are illogical. If precise logical arguments could prove the existence of offspring of Allah, he would certainly have accepted it. But every intellectual argument contradicts this possibility, and therefore there is no question of accepting it. This tells us that it is lawful, rather desirable, to declare during a debate with erring people that if their claim had been proved by strong arguments, it would have been accepted, because such a manner of speech may sometimes soften the heart of the opponent and may persuade him to accept the truth.
 
+## AI Translation
+
+Say: "If the Rahman really had offspring, I would be the first worshipper."
+
+## AI Tafsir
+
+**What this ayah teaches:** Exalted be He from all that they ascribe (to Him).) meaning, exalted and sanctified and glorified be the Creator of all things far above having any offspring, for He is Unique, One and Eternally Self-Sufficient.
+
+**Classical tafsir:** Ibn Kathir notes: He is eternally free of all faults and shortcomings, because He is the Lord, the Exalted, the Almighty, the Sovereign of all things, Who is in control of all affairs.
 ## Personal Reflections
 
 

@@ -74,6 +74,19 @@ Sequence of Verses
 
 In the previous verse (98), there was an instruction to say اَعُوذ بِاللہ 'a udhu bil-lah' (I seek protection with Allah) while reciting the Qur’ an which indicates that the Shaitan puts scruples in the heart when one recites the Qur'an. In the verses cited above, there is a refutation of such Satanic instigations.
 
+## AI Translation
+
+No one fabricates lies except those who reject the truth in Allah’s revelations, and it is they who are the true liars.
+
+## AI Tafsir
+
+**Context:** Allah tells us that He does not guide those who turn away from remembering Him and who are heedless of that which He revealed to His Messenger ﷺ, those who have no intention of believing in that which he has brought from…
+
+**What this ayah teaches:** Verily, those who do not believe in Allah's Ayat (signs, or revelation), Allah will not guide them, and theirs will be a painful punishment (104)It is only those who do not believe in Allah's Ayat who fabricate the falsehood, and it is they who are liars .
+
+**Classical tafsir:** Ibn Kathir notes: Then Allah informs us that His Messenger ﷺ is not a forger nor a liar, because the one who fabricates falsehood about Allah and His Messenger ﷺ is the most evil of creatures.
+
+**From the Sunnah:** Thus when Heraclius, the king of the Romans, asked Abu Sufyan about the attributes of the Messenger of Allah ﷺ, one of the things he said to…
 ## Personal Reflections
 
 

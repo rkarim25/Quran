@@ -134,6 +134,19 @@ Surah Shura
 
 ends here.
 
+## AI Translation
+
+These opening letters—known as the muqatta'at—are among the signs whose full meaning Allah kept with Himself. They open the surah by reminding the reader that this Book is from beyond human authorship: approach it with humility, not arrogance.
+
+## AI Tafsir
+
+**Context:** (Ha-Mim. By the manifest Book.) means, plain and clear in both wording and meaning, because it was revealed in the language of the Arabs, which is the most eloquent language for communication among people. Allah says:
+
+**What this ayah teaches:** Shall We then take away the Reminder from you, because you are a people excessive.)(6. Indeed, He sent it so that those who were decreed to be guided might be guided by it, and so that proof might be established against those who were decreed to be.
+
+**Classical tafsir:** Ibn Kathir notes: Shall We then take away the Reminder from you, because you are a people excessive.)(6.
+
+**From the Sunnah:** Consolation to the Prophet ﷺ for the Disbelief of Quraysh
 ## Personal Reflections
 
 

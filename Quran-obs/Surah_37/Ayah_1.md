@@ -128,6 +128,17 @@ So this is not for angels only. Human beings too have been induced to and bound 
 
 So many ahadith stressing on the need to make rows complete and keep them straight in Salah have appeared that they could fill an independent treatise on the subject. Sayyidna Abu Mas'ud al-Badri ؓ says that the Holy Prophet ﷺ would touch our shoulders with his blessed hand during Salah and say, "Stand straight, do not step ahead or fall behind, otherwise, it will cause dissension to creep up in your hearts." (Jam' al-Fawa'id, with reference to Muslim and an-Nasa'i, p. 91, v.1)
 
+## AI Translation
+
+By those angels lined up in ranks,
+
+## AI Tafsir
+
+**Context:** This Surah is Makki, that is, it was revealed in Makkah al-Mukarramah. Like other Makki Surahs, matters of faith have been taken up as its essential subject.
+
+**What this ayah teaches:** Therefore, the Surah has been initiated with an oath taken in the name of angels combined with a declaration of the attributes of their servitude. Towards the end, this belief has been refuted in details and an overall view of the Surah seems to indicate that the refutation of this particular kind of shirk (ascribing partners to the Divinity of Allah by declaring angels to be the daughters of Allah)…
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the Surah has been initiated with an oath taken in the name of angels combined with a declaration of the attributes of their servitude.
 ## Personal Reflections
 
 

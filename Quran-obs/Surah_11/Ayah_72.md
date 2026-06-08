@@ -158,6 +158,15 @@ Al-Tabari reports at this place: When the angels abstained from eating the first
 
 This tells us that saying:.. بسم اللہ (bismillah: With the name of Allah) when beginning to eat, and saying: الحمد للہ (alhamdulillah: Praise belongs to Allah) at the end of it is Sunnah.
 
+## AI Translation
+
+She wondered, “Oh, my! How can I have a child in this old age, and my husband here is an old man? This is truly an astonishing thing!”
+
+## AI Tafsir
+
+**What this ayah teaches:** So do not be amazed at this, even though you are old and barren and your husband is a very old man.
+
+**Classical tafsir:** Ibn Kathir notes: Surely, He (Allah) is All-Praiseworthy, All-Glorious.) This means that He is the Most Praiseworthy in all of His actions and statements.
 ## Personal Reflections
 
 

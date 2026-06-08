@@ -106,6 +106,17 @@ Said in verse 48 was: ثُمَّ يَأْتِي مِن بَعْدِ ذَٰلِك
 
 The context of the story shows that this person, after having found out the interpretation of the dream, returned to the king and told him about it. He was pleased with it and convinced of the intellectual and spiritual excellence of Sayyidna Yusuf (علیہ السلام) . But, the Holy Qur’ an has not considered it necessary to mention all these things because they are self-explanatory. What transpired later was described by saying:
 
+## AI Translation
+
+Then after that will come a year in which people will receive abundant rain and they will press oil and wine.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Though, an year is no eatable, the sense is that the people and animals will eat up during the time of famine whatever grain was stored up during past years.
+
+**Classical tafsir:** Ibn Kathir notes: Stay away from extravagance, so that you use what remains of the harvest during the seven years of drought that will follow the seven fertile years.' This was represented by the seven lean cows that eat the seven fat cows.
+
+**From the Sunnah:** During the seven years of drought, they will eat from the harvest they collected during the seven fertile years, as represented by the dry ears of corn in the dream.
 ## Personal Reflections
 
 

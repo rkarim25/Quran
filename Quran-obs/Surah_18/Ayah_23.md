@@ -88,6 +88,17 @@ In the third verse (25), a decision has been given on a controversy. This was a 
 
 After that, those who still differ with it have been warned once again that they are not the ones who know the reality of things as they are. The One who knows it all is none else but Allah with whom rests the knowledge of all that is unseen in the heavens and the earth. He is All Hearing. He is All Seeing. The time duration of three hundred nine years given by Him should be enough for their satisfaction.
 
+## AI Translation
+
+And never say of anything, “I will definitely do this tomorrow,”
+
+## AI Tafsir
+
+**Context:** At the beginning of this Surah we discussed the reason why this Ayah was revealed: when the Prophet was asked about the story of the people of the Cave, he said, "I will tell you tomorrow." Then the revelation was delaye…
+
+**What this ayah teaches:** Therefore, a believer should be confident about it in his or her heart, and confess to it verbally as well that in the event of making a commitment to do something next day, what will be said will be: If Allah Ta` ala wills, I shall do this thing tomorrow.' This is what the saying of Insha'Allah means.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, a believer should be confident about it in his or her heart, and confess to it verbally as well that in the event of making a commitment to do something next day, what will be said will be: If Allah Ta` ala wills, I shall do this thing tomorrow.' This is what the sayin…
 ## Personal Reflections
 
 

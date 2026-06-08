@@ -182,6 +182,17 @@ It means: I know that the necessary precautions I have ordered you to take so as
 
 The reality which Sayyidna Ya` qub (علیہ السلام) was talking about became all too visible in this trip as well. By chance it so happened that all measures taken to bring Benyamin back home safely just failed and he was detained in Egypt. As a consequence of which, Sayyidna Yaqub (علیہ السلام) received another severe shock. That the measure taken by him failed, as categorically mentioned in the next verse, had a purpose behind it. It means that this measure failed in terms of the essential objective, that is, the safe return of Benyamin back home - though, the measure taken to keep them protected against the evil eye or envy did succeed, because no such incident showed up during this trip. But, the unforeseen inci-dent Divine destiny had in store for them was a factor not noticed by Sayyidna Ya` qub (علیہ السلام) nor could he do anything to counter it. However, despite this visible failure, it was the barakah (blessing) of his tawakkul (trust) that this second shock turned out to be an antidote for the first one, and resulted in the happy reunion with both his sons, Yusuf and Benyamin, safely and honourably.
 
+## AI Translation
+
+He then instructed them, “O my sons! Do not enter the city all through one gate, but through separate gates. I cannot help you against what is destined by Allah in the least. It is only Allah Who decides. In Him I put my trust. And in Him let the faithful put their trust.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Do not enter by one gate, but enter by different gates, and I cannot avail you against Allah at all. Ya'qub orders His Children to enter Egypt from Different Gates Allah says that Ya'qub, peace be upon him, ordered his children, when he sent Binyamin with them to Egypt, to enter from different gates rather than all of them entering from one gate.
+
+**Classical tafsir:** Ibn Kathir notes: It means that this measure failed in terms of the essential objective, that is, the safe return of Benyamin back home - though, the measure taken to keep them protected against the evil eye or envy did succeed, because no such incident showed up during this trip.
+
+**From the Sunnah:** there is a consensus of all ` Ulama' of the Muslim Ummah among Ahl al-Sunnah wa al-Jama` ah on the truth of the evil eye as affecting and causing harm. (Sahih Muslim)
 ## Personal Reflections
 
 

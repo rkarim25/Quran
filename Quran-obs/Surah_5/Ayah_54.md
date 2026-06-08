@@ -324,6 +324,17 @@ Thus, the practical demonstration of the truth of the word of Allah mentioned to
 
 Pointing out to the reality of realities, it was clearly stressed that all these high qualities of character, their timely use and the ultimate success in the Islamic expedition through them were things which are not achieved by simple reliance on planning or power or numbers. This is nothing but the grace of Allah. It is He who bestows this blessing upon whom He wills.
 
+## AI Translation
+
+O you who have iman! Whoever among you abandons their faith, Allah will replace them with others who love Him and are loved by Him. They will be humble with those who have iman but firm towards those who reject the truth, struggling in the Way of Allah; fearing no blame from anyone. This is the favour of Allah. He grants it to whoever He wills. And Allah is All-Bountiful, All-Knowing.
+
+## AI Tafsir
+
+**Context:** Therefore, Sayyidna ` Ali ؓ ، Hasan al-Basri, Dahhak, Qatadah and other Imams of Tafsir have said that this verse has been revealed about Sayyidna Abu Bakr As-Siddiq ؓ .
+
+**What this ayah teaches:** Threatening to Replace the Believers With Another People if They Revert from Islam Allah emphasizes His mighty ability and states that whoever reverts from supporting His religion and establishing His Law, then Allah will replace them with whomever is better, mightier and more righteous in Allah's religion and Law.
+
+**Classical tafsir:** Ibn Kathir notes: Threatening to Replace the Believers With Another People if They Revert from Islam Allah emphasizes His mighty ability and states that whoever reverts from supporting His religion and establishing His Law, then Allah will replace them with whomever is better, mightier and more ri…
 ## Personal Reflections
 
 

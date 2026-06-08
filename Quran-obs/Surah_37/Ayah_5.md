@@ -116,6 +116,17 @@ The One True God is Allah
 
 It was said: رَّ‌بُّ السَّمَاوَاتِ وَالْأَرْ‌ضِ وَمَا بَيْنَهُمَا وَرَ‌بُّ الْمَشَارِ‌قِ (the Lord of the heavens and the earth and what is between them, and Lord of the points of the sunrise. - 37:5). Now, a Being to whom goes the credit of having created and sustained such a mind-boggling range of creations has to be the One most deserving of ownership. And this entire universe is a positive proof of His existence and Oneness. The word: الْمَشَارِ‌قِ (al-mashariq) as used here is the plural form of مَشرِق mashriq or East. Since, the sun rises from a new point every day of the year, therefore, its orientations in the East are many, and it is on this basis that the plural form has been employed here.
 
+## AI Translation
+
+He is the Lord of the heavens and the earth and everything in between, and the Lord of all points of sunrise.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, your Allah is indeed One;)(5.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, your Allah is indeed One;)(5.
+
+**From the Sunnah:** that 'Abdullah bin 'Umar, may Allah be pleased with him, said, "The Messenger of Allah ﷺ used to command us to make our prayers short and he used to recite As-Saffat when he lead us in prayer." This was recorded by An-Nasa'i only. (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

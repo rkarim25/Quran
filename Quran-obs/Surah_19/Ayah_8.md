@@ -100,6 +100,15 @@ The Answer of the Angel
 
 The word عِتِيًّا is derived from which actually means 'unresponsive' or 'insensitive', and in the present context it means dryness of the bones.
 
+## AI Translation
+
+He wondered: "My Rabb, how can I have a son when my wife is barren and I have reached extreme old age?"
+
+## AI Tafsir
+
+**What this ayah teaches:** How can I have a son, when my wife is barren, and I have reached the extreme old age.
+
+**Classical tafsir:** Ibn Kathir notes: This was particularly amazing because his wife was an old woman who was barren and had not given birth to any children in her entire life.
 ## Personal Reflections
 
 

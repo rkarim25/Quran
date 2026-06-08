@@ -102,6 +102,19 @@ Conversion to Islam and bowing in prostration by the Pharaoh's magicians
 
 The Egyptian magicians who were masters of their art realized at once that what they had just witnessed was not magic but a miracle brought about by a Supreme Power. Consequently they fell in prostration and declared openly their faith in Allah - the God of Sayyidna Musa (علیہ السلام) and Sayyidna Harun (علیہ السلام) . According to some traditions these magicians did not raise their heads until they had seen a glimpse of heaven and hell. (رواہ عبد بن حمید و ابن ابی حاتم وابن ال؛منذر عن عکرمہ - روح)
 
+## AI Translation
+
+So the magicians fell down in prostration, declaring, “We believe in the Rabb of Aaron and Moses.”
+
+## AI Tafsir
+
+**Context:** (So Musa conceived fear in himself.) This means that he feared for the people that they would be tested and deceived by their magic before he could even have a chance to throw what was in his right hand.
+
+**What this ayah teaches:** Therefore, when this happened, they fell down into prostration to Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, when this happened, they fell down into prostration to Allah.
+
+**From the Sunnah:** Paradise was raised up before them until they were looking at it.
 ## Personal Reflections
 
 

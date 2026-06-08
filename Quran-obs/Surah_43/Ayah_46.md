@@ -86,6 +86,15 @@ Commentary
 
 Incidents related to Sayyidna Musa (علیہ السلام) have been stated by the Qur'an at many places repeatedly, and the incidents referred to in the present verses have been described in detail in Surah Al-A` raf. The reason for reminding these incidents here is to show that the objection of the infidels of Makkah that the Holy Prophet ﷺ is not a wealthy man is not a new objection; Fir'aun had expressed the same doubt against Sayyidna Musa (علیہ السلام) and his prophethood. His contention was that being the ruler of Egypt, and owner of the palaces and rivers flowing beneath them, how could Musa (علیہ السلام) claim to be a prophet against him. But just as Fir'aun's disbelief could be of no avail to him, and he got drowned along with his people, this objection of 'kuffar' of Makkah, too, will not save them from the divine punishment in this world, or in the Hereafter.
 
+## AI Translation
+
+We sent Musa with Our signs to Pharaoh and his chiefs, and he said: "I am a messenger of the Rabb of all that exists."
+
+## AI Tafsir
+
+**What this ayah teaches:** Musa was sent with the Message of Tawhid to Fir'awn and His Chiefs Here Allah tells us about His servant and Messenger Musa, peace be upon him, and how He sent him to Fir'awn and his chiefs.
+
+**Classical tafsir:** Ibn Kathir notes: Invoke your Lord for us because of His promise to you.
 ## Personal Reflections
 
 

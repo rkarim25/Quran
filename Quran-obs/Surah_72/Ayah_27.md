@@ -166,6 +166,15 @@ Technically, this 'exception', in Arabic grammar, is referred to as istithna' mu
 
 Some unintelligent people do not grasp the distinction between 'Knowledge of the Unseen' and 'reports of the unseen events'. As a result, they attempt to prove 'total knowledge of the Unseen' for the Prophets of Allah, especially for the Last Prophet ﷺ . They believe that the Holy Prophet ﷺ ، like Allah, is omniscient - having knowledge of every particle of the universe. This is clearly shirk - assigning to the Holy Prophet ﷺ the status of Godhead, God forbid! If any person discloses a secret to a friend of his, of which no one else has that piece of knowledge or information, such a friend cannot be described as omniscient. Likewise, Allah has granted thousands of pieces of information of the unseen world through revelation to His Holy Prophets ﷺ ، but it is not true to say that they are omniscient. The ignorant laity do not understand the difference between the concepts. When they are told that the Holy Prophet ﷺ is not omniscient, they understand this statement to imply that the Holy Prophet ﷺ [ God forbid!] did not have any information about anything unseen. No believer in the world ever holds such a belief, nor can he ever do so because if anyone does so the whole structure of nubuwwah and risalah would come crumbling down. It is not possible for any believer to behave in this way.
 
+## AI Translation
+
+except to messengers He chooses. Then He posts angel-guards before and behind them
+
+## AI Tafsir
+
+**What this ayah teaches:** In this noble Ayah is an evidence that the Hadith that many of the ignorant people often circulate, which says that the Prophet ﷺ will not remain under the earth more than one thousand years (i.e., the Hour will be before that period) is a baseless lie. Except to a Messenger whom He has chosen,) This includes the angelic Messenger and the human Messenger.
+
+**Classical tafsir:** Ibn Kathir notes: In this noble Ayah is an evidence that the Hadith that many of the ignorant people often circulate, which says that the Prophet ﷺ will not remain under the earth more than one thousand years (i.e., the Hour will be before that period) is a baseless lie.
 ## Personal Reflections
 
 

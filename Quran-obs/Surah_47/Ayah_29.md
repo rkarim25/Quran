@@ -96,6 +96,17 @@ There is absolutely no doubt that Allah's knowledge precedes the occurrence of a
 
 أَمْ حَسِبَ الَّذِينَ فِي قُلُوبِهِم مَّرَ‌ضٌ أَن لَّن يُخْرِ‌جَ اللَّـهُ أَضْغَانَهُمْ (Do those having disease in their hearts rather think that Allah will never expose their grudges [ against Islam ]? - 47:29) " The word adghan is the plural of dighn which means secret enmity, rancour, malice or spite. This verse was revealed in connection with hypocrites to expose their bitter hatred and rancour against Islam which they were hiding in their hearts. Outwardly, they expressed their love for the Holy Prophet ﷺ and inwardly they harbored violent hatred and enmity for him. They knew that Allah is the knower of the unseen, yet they were not concerned that He would expose their inner secret and covert enmity to the people. Ibn Kathir says in Surah Bara'ah that Allah has described their works, actions and activities which expose their hypocrisy and they would be identified as hypocrites. Therefore, another name of that Surah is fadihah meaning exposing to shame or disgrace, because specific qualities of the hypocrites are set out in it.
 
+## AI Translation
+
+Or do those with sickness in their hearts think Allah will not expose their hidden malice?
+
+## AI Tafsir
+
+**Context:** أَمْ حَسِبَ الَّذِينَ فِي قُلُوبِهِم مَّرَ‌ضٌ أَن لَّن يُخْرِ‌جَ اللَّـهُ أَضْغَانَهُمْ (Do those having disease in their hearts rather think that Allah will never expose their grudges [ against Islam ]?
+
+**What this ayah teaches:** Or do those in whose hearts is a disease, think that Allah will not expose their ill–wills (29)Had We so willed, We could have shown them clearly to you, so that you would know them by their marks; but you will know them by the tone of their speech!
+
+**Classical tafsir:** Ibn Kathir notes: In this Ayah, "until We know" means 'until We know of its occurrence.' This is why Ibn 'Abbas said in regard to this and similar texts, "Except so that We may know, means, so that We may see."
 ## Personal Reflections
 
 

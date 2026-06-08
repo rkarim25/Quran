@@ -195,6 +195,15 @@ Special Note
 
 In the matter of light, the infidels are not mentioned anywhere, because in their case there is no question of having such a light. The hypocrites are, however, mentioned and there are two narrations concerning them: [ 1] That they will not receive light at all from the outset; or [ 2] They will receive it at first, but when they arrive at the Bridge of Sirat, it will be extinguished. A wall will be erected as a barrier between them and the believers. This goes to show that only the believers will cross the Bridge of Sirat from above the Hell. The infidels and pagans will not pass through the Bridge. They will be pushed into the Fire direct through the doors of Hell. The sinful believers, who will be kept in the Hell for a while to be cleansed of their sins, will fall into the Hell while crossing the Bridge. The rest of the believers will cross the bridge safely and enter Paradise, as explicitly stated by Shah ` Abdul-Qadir Dehlawi (رح) and supported by Durr. Allah knows best!
 
+## AI Translation
+
+Today no ransom will be accepted from you or from those who rejected the truth. Your home is the Fire—it is your only fitting refuge. What an evil destination!
+
+## AI Tafsir
+
+**What this ayah teaches:** They remained deceived until Allah cast them into Hellfire." The meaning here is that the believers will answer the hypocrites by saying, "You were with us in bodies which were heartless and devoid of intentions. Having received the reply from either the believers or the angels, the hypocrites will return to the place where the light was distributed.
+
+**Classical tafsir:** Ibn Kathir notes: Inside it will be mercy, and outside it will be torment.) Al-Hasan and Qatadah said that the wall mentioned here is located between Paradise and Hellfire.
 ## Personal Reflections
 
 

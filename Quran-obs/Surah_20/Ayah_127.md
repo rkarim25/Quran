@@ -91,6 +91,15 @@ The answer to the question posed above is that the punishment which the evil-doe
 
 Another interpretation given to these words by Sayyidna Said ibn Jubair ؓ is that these people will be deprived of the gift of contentment which will result in an overpowering greed for worldly goods (Mazhari) but no amount of wealth will ever give them peace and content. The constant desire to augment their worldly possessions and the fear of any decrease in their size will always keep them anxious and uneasy. It is generally observed that the wealthy people who have all the means of comfort at their disposal actually are unable to enjoy comfort themselves, because comfort cannot be achieved without content and peace of mind.
 
+## AI Translation
+
+This is how We reward whoever transgresses and does not believe in the revelations of their Rabb. And the punishment of the Akhirah — the everlasting life after death is far more severe and more lasting.
+
+## AI Tafsir
+
+**What this ayah teaches:** And thus do We requite him who transgresses beyond bounds and believes not in the Ayat of his Lord; and the torment of the Hereafter is far more severe and more lasting .
+
+**Classical tafsir:** Ibn Kathir notes: The answer to the question posed above is that the punishment which the evil-doers will suffer in this world refers to the chastisement which awaits them in the grave where their existence will be made miserable and beyond endurance.
 ## Personal Reflections
 
 

@@ -156,6 +156,19 @@ The expression وَأَنتُمْ أَذِلَّةٌ translated as 'when you wer
 
 The verse ends with the statement: فَاتَّقُوا اللَّـهَ لَعَلَّكُمْ تَشْكُرُ‌ونَ (So, fear Allah, that you may be grateful). This may remind one of the many places in the Holy Qur'an where Taqwa (fear of Allah) and Sabr (patience) have been prescribed as a security shield against the machinations of the hypocrites and the harmful effects of hostile enemies. Right here, in these two behaviour models, there lies the secret of an entire organized struggle, and clear victory, that comes in its wake. As mentioned elsewhere, Taqwa and Sabr have not been mentioned here, in conjunction. Instead, Taqwa has been considered sufficient for, in reality, Taqwa is such a comprehensive human attribute that صبر Sabr too gets to be included therein.
 
+## AI Translation
+
+Indeed, Allah made you victorious at Badr when you were outnumbered. So live with taqwa toward Allah, perhaps you will be grateful.
+
+## AI Tafsir
+
+**Context:** (When two parties from among you were about to lose heart) was revealed about us, [the two Muslim tribes of] Bani Harithah and Bani Salamah.
+
+**What this ayah teaches:** And Allah is All-Hearer, All-Knower (121)When two parties from among you were about to lose heart, but Allah was their Wali (Supporter and Protector).
+
+**Classical tafsir:** Ibn Kathir notes: 'Ikrimah said that Uhud occurred in the middle of the month of Shawwal, and Allah knows best.
+
+**From the Sunnah:** The Messenger of Allah ﷺ led the Friday prayer and when he finished with it, he performed the funeral prayer for a man from Bani An-Najjar called Malik bin 'Amr. The Messenger of Allah ﷺ went to his home, put on his shield and came out.
 ## Personal Reflections
 
 

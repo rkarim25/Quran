@@ -119,6 +119,15 @@ Commentary
 
 The last few verses of this Surah Al-Mu'minun from verse 115 to verse 118 have special merit. Baghawi and Thalabi have related from Sayyidna Ibn Masud ؓ that he came across a person who was very ill. He recited the above verses into the sick man's ears and he was cured immediately. The Holy Prophet ﷺ asked him what he had whispered in the sick man's ears to which Sayyidna 'Abdullah Ibn Masud ؓ replied that he had recited these verses (115 to 118) in his ears. Thereupon the Holy Prophet ﷺ said, "I swear by Him Who has power over my life that if a person with genuine faith were to recite these verses on a mountain, the mountain itself may move from its place". (Qurtubi and Mazhari)
 
+## AI Translation
+
+Whoever invokes, besides Allah, another god—for which they can have no proof—they will surely find their penalty with their Rabb. Indeed, those who reject the truth will never succeed.
+
+## AI Tafsir
+
+**What this ayah teaches:** And whoever invokes besides Allah, any other Allah, of whom he has no proof; then his reckoning is only with his Lord.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

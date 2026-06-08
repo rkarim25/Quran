@@ -140,6 +140,15 @@ Uphold truth and commit no excess or injustice even against disbelievers is the 
 
 This statement of the Qur'an provides guidance for Muslims that they should never surrender truth and justice even when they are dealing with confronting enemies. Whenever they have to take up an issue with them, they are required not to slip into taking exaggerated approaches and stances against them. This is as it has been demonstrated in these verses where full consideration has been given to the case of the disbelievers of Makkah. The fact was that most of them had broken their pledge. Naturally, when something like this happens in that setting, people tend to make a sweeping allegation against every-one. But, the Holy Qur'an, by saying: إِلَّا الَّذِينَ عَاهَدتُّمْ عِندَ الْمَسْجِدِ الْحَرَ‌امِ (except those with whom you made a treaty near al-masjid-al-Haram), has exempted those who had not broken their pledge. In fact, it has ordered that Muslims should stay firm on their commitment as long as the others remain committed and faithful to their pledge. The breach of trust committed by other people should in no case influence their stance whereby they themselves may be led to become breakers of the pledge given to them.
 
+## AI Translation
+
+How can such polytheists have a treaty with Allah and His Messenger, except those you have made a treaty with at the Sacred Mosque? So, as long as they are true to you, be true to them. Indeed Allah loves those who live with taqwa.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, Allah loves those who have Taqwa.) The Messenger of Allah ﷺ and the Muslims preserved the terms of the treaty with the people of Makkah from the month of Dhul-Qa'dah in the sixth year [of Hijrah], until the Quraysh broke it and helped their allies, Banu Bakr, against Khuza'ah, the allies of Allah's Messenger ﷺ.
+
+**Classical tafsir:** Ibn Kathir notes: These numbered around two thousands, and they were refered to by the name 'Tulaqa' afterwards.
 ## Personal Reflections
 
 

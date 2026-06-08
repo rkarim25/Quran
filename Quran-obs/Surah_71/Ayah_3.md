@@ -82,6 +82,15 @@ Surah Al-Ma’ arij
 
 Ends here.
 
+## AI Translation
+
+worship Allah alone, fear Him, and obey me.
+
+## AI Tafsir
+
+**What this ayah teaches:** This includes testifying to the faith of Islam, Divine existence and His Oneness, and testifying that Sayyidna Muhammad ﷺ is His Final Messenger.
+
+**Classical tafsir:** Ibn Kathir notes: The use of plural number in this verse too indicates that there are many types and categories of 'testimony', and it is necessary to stand firm by one's testimony of any type.
 ## Personal Reflections
 
 

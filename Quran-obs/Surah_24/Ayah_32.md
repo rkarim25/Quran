@@ -284,6 +284,19 @@ There is a good news in this verse for such poor Muslims who want to marry for t
 
 Sayyidna Ibn ` Abbas ؓ has said that Allah Ta’ ala has persuaded all Muslims for marriage in this verse, for which He has included every one, either free or slave, and has promised to enrich ti em if they marry. (Ibn Kathir). And Ibn Abi Hatim has reported that Sayyidna Abu Bakr ؓ while addressing the Muslims said that ` You follow the injunction of Allah Ta’ ala for marriage, and He will fulfill His promise for granting the riches'. Then he recited this verseإِن يَكُونُوا فُقَرَ‌اءَ يُغْنِهِمُ اللَّـهُ (32) Sayyidna ` Abdullah Ibn Masud ؓ has said ` If you want to be rich, then get married, because Allah Ta’ ala has said إِن يَكُونُوا فُقَرَ‌اءَ يُغْنِهِمُ اللَّـهُ (Ibn Kathir)
 
+## AI Translation
+
+Marry off the free singles among you, as well as the righteous of your bondmen and bondwomen. If they are poor, Allah will enrich them out of His bounty. For Allah is All-Bountiful, All-Knowing.
+
+## AI Tafsir
+
+**Context:** (And force not your slave-girls to prostitution...) Among the people of the Jahiliyyah, there were some who, if he had a slave-girl, he would send her out to commit Zina and would charge money for that, which he would ta…
+
+**What this ayah teaches:** Majority of the jurists have attributed this narration as well to that condition when there is a predominant risk of sinning by abstaining from marriage.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn Abi Talhah narrated that Ibn 'Abbas said, "If you do that, then Allah is Oft-Forgiving, ar-Rahim, and their sin will be on the one who forced them to do that." This was also the view of Mujahid, 'Ata' Al-Khurasani, Al-A'mash and Qatadah.
+
+**From the Sunnah:** In the Sunan, it was recorded from more than one person that the Messenger of Allah ﷺ said: It was reported from Al-Layth from Muhammad bin 'Ajlan from Sa'id Al-Maqburi fro…
 ## Personal Reflections
 
 

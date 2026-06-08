@@ -138,6 +138,15 @@ Prophet Shu'ayb forbade his people from setting up blockades on the roads, sayin
 
 In the last verse (87), an answer has been given to scruples of these people about the division in their ranks after some of them believed in the call of Sayyidna Shu'aib (علیہ السلام) while others kept rejecting him. But, there was no difference between them outwardly. Both groups were living comfortably. If being a disbeliever or denier would have been a crime, the criminal would have been punished. To answer that doubt, it was said: فَاصْبِرُ‌وا حَتَّىٰ يَحْكُمَ اللَّـهُ بَيْنَنَا Is that is, do not make haste. Allah Ta` ala is Forbearing and Merciful. He gives respite to wrongdoers. It is only when they become absolutely wicked and highhanded that the decree of Allah comes into action. The state in which they were was similar. If they remained sticking to their denial, the time was not far when the decisive punishment will overtake the deniers.
 
+## AI Translation
+
+If some of you do believe in what I have been sent with while others do not, then be patient until Allah judges between us. He is the Best of Judges.”
+
+## AI Tafsir
+
+**What this ayah teaches:** If being a those who reject the truth or denier would have been a crime, the criminal would have been punished. See the torment and punishment they suffered, because they disobeyed Allah and rejected His Messengers.
+
+**Classical tafsir:** Ibn Kathir notes: See the torment and punishment they suffered, because they disobeyed Allah and rejected His Messengers.
 ## Personal Reflections
 
 

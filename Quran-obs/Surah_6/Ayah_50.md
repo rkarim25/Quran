@@ -313,6 +313,19 @@ Imam Ahmad recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
 
 In the last verse (45), it was said that, when the mass punishment of Allah Ta` ala came, the people who did wrong were uprooted to the last man. Said immediately after was: وَالْحَمْدُ لِلَّـهِ رَ‌بِّ الْعَالَمِينَ (And praise be to Allah, the Lord of the worlds) where the hint given is: Whenever the wrongdoers and the unjust are visited by some punishment or calamity, that is a blessing for the whole world for which people should be grateful.
 
+## AI Translation
+
+Say, “I do not say to you that I possess Allah’s treasuries or know the unseen, nor do I claim to be an angel. I only follow what is revealed to me.” Say, “Are those blind equal to those who can see? Will you not then reflect?”
+
+## AI Tafsir
+
+**Context:** Say: "I don't tell you that with me are the treasures of Allah, nor (that) I know the Unseen; nor do I tell you that I am an angel.
+
+**What this ayah teaches:** I but follow what is revealed to me." Say: "Are the blind and the one who sees equal?
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** This is because at first, most of those who followed the Messenger of Allah ﷺ were the weak among the people, men, women, slaves, and only a few chiefs or noted men followed him. The idolators of Quraysh used to mock the weak among them who believed in the Prophet ﷺ and they even tortured some of them.
 ## Personal Reflections
 
 

@@ -251,6 +251,19 @@ Mujahid said that Jabir bin 'Abdullah said, "This Ayah [3:168] was revealed abou
 
 Immediately later, in verse 166, the words fa bi idhnillahi: فَبِإِذْنِ اللَّـه indicate that whatever happened there was with the leave and will of Allah Almighty operating behind which are many wise divine arrangements, some of them having been explained earlier. One such wise arrangement is that Allah will 'see' His true believers, and the hypocrites too, that is, the sincerity of Muslims and the hypocrisy of the hypocrites will become so clear that everybody could see it for himself. Here, the reference to Allah's knowing or seeing means seeing in the perspective of our own sense-experience in the mortal world. Otherwise, as far as Allah is concerned, He knows and sees everything, all the time. So, the wise arrangement became all the more clear when, at the time of the trial, the hypocrites bowed out of the harm's way while true Muslims stood undaunted' in the middle of the battle front.
 
+## AI Translation
+
+So what you suffered on the day the two armies met was by Allah’s Will, so that He might distinguish those who have iman and expose the those living in nifaq—outward acceptance with inward rejection. When it was said to them, “Come fight in the cause of Allah or defend yourselves,” they replied, “If we had known there was fighting, we would have definitely gone with you.” They were closer to rejection of the truth than to belief on that day—for saying with their mouths what was not in their hearts. Allah is All-Knowing of what they hide.
+
+## AI Tafsir
+
+**Context:** Mujahid said that Jabir bin 'Abdullah said, "This Ayah [3:168] was revealed about 'Abdullah bin Ubayy bin Salul (the chief hypocrite)."
+
+**What this ayah teaches:** One such wise arrangement is that Allah will 'see' His true believers, and the hypocrites too, that is, the sincerity of Muslims and the hypocrisy of the hypocrites will become so clear that everybody could see it for himself.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said that Jabir bin 'Abdullah said, "This Ayah [3:168] was revealed about 'Abdullah bin Ubayy bin Salul (the chief hypocrite)."
+
+**From the Sunnah:** Thus, they suffered the loss of seventy fatalities and the Companions of the Messenger of Allah ﷺ gave flight and abandoned him. They knew that there was an army of idolators that came from a far land raging against the Muslims, to avenge their noble men whom the Muslims killed in Badr.
 ## Personal Reflections
 
 

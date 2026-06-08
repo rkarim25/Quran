@@ -144,6 +144,15 @@ In the last verse: إِن تَدْعُوهُمْ لَا يَسْمَعُوا د�
 
 The issue of the ability of the dead to hear سماع الموتی sama`-ulmawta) has appeared earlier. The present verse neither confirms nor rejects it. Arguments and proofs relating to this issue are different. They have already been mentioned in details under the commentary on Surah Ar-Rum [ 30] (Ma` ariful-Qur an, Volume VI).
 
+## AI Translation
+
+If you call upon them, they cannot hear your call. Even if they could hear, they could not respond. On the Day of Judgment they will disown your worship of them. No one can inform you like the All-Knowledgeable.
+
+## AI Tafsir
+
+**What this ayah teaches:** And none can inform you like Him Who is the All-Knower .
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "He is referring to Himself, may He be blessed and exalted, for He undoubtedly tells the truth."
 ## Personal Reflections
 
 

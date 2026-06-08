@@ -138,6 +138,17 @@ The same deputation from the tribe of Hawazin had requested the return of their 
 
 This proves that the matter of rights is serious. It is not permissible to take what belongs to a person as a matter of right unless it becomes certain that this was done on the basis of his or her free will. The silence of a person either due to the awe of the crowd or the sense of shame before people is not a sufficient proof of the person's free will and heartfelt consent. From here, Muslim jurists have deduced the ruling that it is not correct to solicit contributions even for some religious purpose when it is done to impress a person by one's personal office, power, or influence. The reason is that there are many gentle people who would be affected by such conditions around and decide to get away by giving something just to avoid being embarrassed - of course, this does not have the backing of genuine free will, approval and pleasure. Incidentally, what is given in that spirit does not have any barakah either.
 
+## AI Translation
+
+Then afterwards Allah will turn in grace to whoever He wills. And Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** Such is the recompense of those who reject the truth (26)Then after that Allah will accept the repentance of whom He wills. Allah then sent down His aid and support to His Messenger ﷺ and the believers who remained with him, so that they were aware that victory is from Allah alone and through His aid, even if the victorious were few.
+
+**Classical tafsir:** Ibn Kathir notes: This indicates the tremendous trust in Allah and reliance upon Him, as well as, sure knowledge that He will give him victory, complete what He has sent him for and give prominence to his religion above all other religions.
+
+**From the Sunnah:** On the day of Hunayn, the Muslims were proud because of their large number, which did not avail them in the least; they retreated and fled from battle.
 ## Personal Reflections
 
 

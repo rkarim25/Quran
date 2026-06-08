@@ -98,6 +98,15 @@ Saying what is right leads to doing what is right both here and Hereinafter
 
 Shah ` Abdul-Qadir of Delhi (رح) has translated this verse in a way that leads to the conclusion that the promise of correction and betterment of deeds made to those who get used to speaking in straight forward manner is not restricted to religious deeds alone. In fact, everything one does in this material world is also included therein. Anyone who gets used to saying the right thing - that is, never lies, speaks with deliberation without erring or wavering, does not deceive anyone and does not say what would hurt - shall find his spiritual deeds for his eternal life in the Hereafter, also come out right for him. As for the things he must do to live in this mortal world, these too will turn for the better. (The Urdu speaking readers should refer to the original translation of Shah Abdul Qadir to have a taste of its sweetness-editor)
 
+## AI Translation
+
+He will bless your deeds for you, and forgive your sins. And whoever obeys Allah and His Messenger, has truly achieved a great triumph.
+
+## AI Tafsir
+
+**What this ayah teaches:** And whosoever obeys Allah and His Messenger, he has indeed achieved a great victory . Have Taqwa of Allah and speak (always) the truth (70)He will direct you to do righteous good deeds and will forgive you your sins.
+
+**Classical tafsir:** Ibn Kathir notes: At another place the command of taqwa is followed by the direction of pondering on what one has sent ahead for the Hereafter, because it leads one to observe Taqwa (59.18).
 ## Personal Reflections
 
 

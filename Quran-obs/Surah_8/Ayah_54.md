@@ -104,6 +104,17 @@ The words used in the first of the verses cited above are almost the same as hav
 
 In addition to that, in the first verse (52), said there was: فَأَخَذَهُمُ اللَّـهُ بِذُنُوبِهِمْ (so, Allah seized them for their sins) while what has been said here is: فَأَهْلَكْنَاهُم بِذُنُوبِهِمْ (so, We destroyed them for their sins - 54). This explains the brevity in the first statement because, in the first verse, mentioned there was their being seized in punishment which could take different forms. May be, they are overtaken by misfortunes with-in their lifetime on this earth, or that their very existence in eliminated outright. In the present verse (54), by saying: أَهْلَكْنَاهُم (We destroyed them), it was made clear that the punishment all those peoples deserved was the punishment of death, therefore, they were destroyed. The destruction of every set of such people took different forms. Since the Pharaoh from among them claimed godhood and his people attested to his claim, therefore, he was mentioned particularly: وَأَغْرَ‌قْنَا آلَ فِرْ‌عَوْنَ (and drowned the people of Pharaoh - 54). As for the forms in which destruction came upon other peoples, it has not been described here. However, details pertaining to these too have appeared in other verses where it has been said that some of them were overrun by an earthquake, some others were made to sink into the earth, or transformed into animals, or seized by wind storms - and finally, came the punishment for the disbelievers of Makkah at the hands of Muslims in the battle of Badr.
 
+## AI Translation
+
+Their end is like that of Pharaoh's people and those before them—they denied their Rabb's signs, so We destroyed them for their sins and drowned Pharaoh's people. They were all wrongdoers.
+
+## AI Tafsir
+
+**What this ayah teaches:** That is so because Allah will never change a grace which He has bestowed on a people until they change what is in themselves.
+
+**Classical tafsir:** Ibn Kathir notes: This explains the brevity in the first statement because, in the first verse, mentioned there was their being seized in punishment which could take different forms.
+
+**From the Sunnah:** However, details pertaining to these too have appeared in other verses where it has been said that some of them were overrun by an earthquake, some others were made to sink into the earth, or transformed into animals, or seized by wind storms - and finally, ca…
 ## Personal Reflections
 
 

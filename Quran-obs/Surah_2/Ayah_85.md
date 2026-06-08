@@ -302,6 +302,17 @@ A doctrinal point
 
 Verse 85 announces the "punishment" for Jews. One may very well ask here why the direst punishment should be reserved for the Jews, and not for atheists, for the Jews at least believe in Allah. The famous Commentator 'Aids' says in his "Ruh al-Ma'ani" that every punishment meted out to the infidels will be "the direst" in the sense that it will have no end or limit. So, what the verse implies is not that the punishment given to the Jews will be more severe than the one given to all the other infidels, but that they will be given the kind of punishment which is "the direst" in the sense of having no end or limit. In other words, the verse suggests that the punishment given to the infidels will be more severe than the one given to Muslim sinners. But if there are going to be different degrees in the punishment meted out to different kinds of infidels, it does not in any way go against the implications of this verse. (Bayan al-Qur an)
 
+## AI Translation
+
+Yet here you are, killing one another and driving out groups among you from their homes, aiding one another in sin and aggression. When captives come to you, you ransom them — though expelling them was forbidden to you. Do you believe in part of the Scripture and reject the rest? What reward is there for that except disgrace in this dunya — this temporary worldly life — and harsh punishment on the Day of Judgment? Allah is not unaware of what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** And if they come to you as captives, you ransom them, although their expulsion was forbidden to you. Then, (this) you ratified and (to this) you bore witness (84)After this, it is you who kill one another and drive out a party of you from their homes, assist (their enemies) against them, in sin and transgression.
+
+**Classical tafsir:** Ibn Kathir notes: If we take the words of the present verse literally, it means that the Jews had become infidels by not having faith in some parts (that is to say, some injunctions) of the Torah.
+
+**From the Sunnah:** Allah criticized the Jews who lived in Al-Madinah during the time of the Messenger of Allah ﷺ.
 ## Personal Reflections
 
 

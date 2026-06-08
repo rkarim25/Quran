@@ -254,6 +254,17 @@ Allah owns everything that is in the heavens and earth, and all their inhabitant
 
 وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ (...And He is with you wherever you are, ...57:4) No man is able to comprehend the essential nature of Allah's company or His being with us, though it is absolutely true that He is with us, because no man can exist or do any work without it. The Divine Will [ mashiyyah ] and power is necessary for everything. Therefore, Allah is with every human being in every situation, at every place. Allah knows best!
 
+## AI Translation
+
+He is the One who created the heavens and the earth in six days, then established Himself on the Kursi—Allah's Footstool, symbol of His dominion over creation. He knows what enters the earth and what emerges from it, what descends from the sky and what ascends to it. He is with you wherever you are. Allah sees everything you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** And He knows whatever there is in the land and in the sea; not a leaf falls, but He knows it.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, Allah is with every human being in every situation, at every place.
+
+**From the Sunnah:** In the Sahih, there is a Hadith in which the Messenger of Allah ﷺ answered Jibril, when he asked him about Ihsan:
 ## Personal Reflections
 
 

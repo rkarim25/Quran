@@ -158,6 +158,17 @@ Commentary
 
 Those people who had left their hearth and homes in the cause of Allah and were killed or died of natural death, they would definitely be rewarded. If they have not benefited in this world, their reward will be there in the Hereafter.
 
+## AI Translation
+
+As for those who emigrate in the cause of Allah and then are martyred or die, Allah will indeed grant them a good provision. Surely Allah is the Best Provider.
+
+## AI Tafsir
+
+**Context:** (That is so. And whoever has retaliated with the like of that which he was made to suffer....) Muqatil bin Hayan and Ibn Jurayj mentioned that this was revealed about a skirmish in which the Companions encountered some o…
+
+**What this ayah teaches:** And verily, it is Allah Who indeed is the Best of those who make provision (58)Truly, He will make them enter an entrance with which they shall be well-pleased, and verily, Allah indeed is All-Knowing, Most Forbearing (59)That is so.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

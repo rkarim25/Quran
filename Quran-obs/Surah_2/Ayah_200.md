@@ -227,6 +227,19 @@ Moderation in religious and worldly pursuits
 
 Besides what the people of Jahiliyyah used to do during their stay at Mina, some of them had another habit during the Hajj. Normally, they would be engaged in acts of devotion to Allah, yet when it came to making a prayer, they would focus all their attention to praying for worldly needs, such as, comfort, wealth, honour and their likes, showing no concern for the life to come. It was to correct this sort of approach in supplication that it was said that there are people who would use the great occasion of Hajj to pray for the insignificant gains of the present life and forget the Hereafter. For such people the Hereafter holds nothing because their conduct shows that they have gone through the obligation of Hajj merely in a formal manner, or have done it to earn prestige in their society. To please Allah and to earn salvation in the Hereafter are objectives alien to them.
 
+## AI Translation
+
+When you have completed your rites, remember Allah as you used to remember your forefathers — or with greater intensity. Among people are some who say, "Our Rabb, give us in this dunya" — and they have no share in the Akhirah.
+
+## AI Tafsir
+
+**Context:** Sa'id bin Jubayr said that Ibn 'Abbas said, "During the time of Jahiliyyah, people used to stand during the (Hajj) season, and one of them would say, 'My father used to feed (the poor), help others (end their disputes, w…
+
+**What this ayah teaches:** Compared with the time spent by the people of Jahiliyyah in forefather tale-telling which brought them no benefit here, or there, the thing to do here is the dhikr of Allah which is all radiance and benefit for this world, and for the Hereafter.
+
+**Classical tafsir:** Ibn Kathir notes: It also refers to being questioned lightly and the other favors in the Hereafter.
+
+**From the Sunnah:** that the Prophet ﷺ used to say: (Sahih al-Bukhari) to him, 'Were you asking or supplicating to Allah about something? (Sahih Muslim, Musnad Ahmad)
 ## Personal Reflections
 
 

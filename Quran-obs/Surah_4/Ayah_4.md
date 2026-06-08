@@ -216,6 +216,19 @@ The words, هَنِيئًا : hani'an and مَّرِ‌يئًا mari'an appearin
 
 The word, mari'an (from mara'a: to be wholesome) is also used in the same sense and is very close to each other. For this reason, some translators have made one word, in the sense of 'wholesome', stand for both.
 
+## AI Translation
+
+Give women their due dowries graciously. But if they waive some of it willingly, then you may enjoy it freely with a clear conscience.
+
+## AI Tafsir
+
+**Context:** Al-Bukhari recorded that 'A'ishah said, "A man was taking care of a female orphan and he married her, although he did not desire to marry her.
+
+**What this ayah teaches:** So, the verse here teaches that the dower of women is their right which must be fulfilled as a matter of obligation.
+
+**Classical tafsir:** Ibn Kathir notes: The word, hani'an (from han'a and hanu'a and hani'a) means something received without having to go through labour and pain.
+
+**From the Sunnah:** So, such guardians were forbidden to marry such orphan girls unless they treated them justly and gave them the most suitable dowry; otherwise they were ordered to marry woman besides them." 'A'ishah further said, "After that verse, the people again asked the M… to him, "Choose any four of them (and divorce the rest). (Sahih Muslim, Musnad Ahmad)
 ## Personal Reflections
 
 

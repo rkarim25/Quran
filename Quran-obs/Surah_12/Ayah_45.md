@@ -107,6 +107,17 @@ While watching the proceedings of this event, that released prisoner recollected
 
 It means: Just send me (to Yusuf علیہ السلام). Things like the introduction of Sayyidna Yusuf (علیہ السلام) the official permission to see him and then the final arrival in the prison are parts of the event which can be understood contextually. Therefore, they were not described specifically, instead, the story was initiated as follows.
 
+## AI Translation
+
+Finally, the surviving ex-prisoner remembered Joseph after a long time and said, “I will tell you its interpretation, so send me forth to Joseph.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Yusuf's Interpretation of the King's Dream This is when Yusuf, peace be upon him, told the interpretation of the dream, without criticizing the man for forgetting his request that he had made to him.
+
+**Classical tafsir:** Ibn Kathir notes: Stay away from extravagance, so that you use what remains of the harvest during the seven years of drought that will follow the seven fertile years.' This was represented by the seven lean cows that eat the seven fat cows.
+
+**From the Sunnah:** During the seven years of drought, they will eat from the harvest they collected during the seven fertile years, as represented by the dry ears of corn in the dream.
 ## Personal Reflections
 
 

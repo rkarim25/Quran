@@ -210,6 +210,19 @@ Favour [ 2]
 
 وَوَجَدَكَ ضَالًّا فَهَدَىٰ (And He found you unaware of the way [ the Shari` ah ], then He guided you....93:7). The word dall has two meanings: [ 1] stray; and [ 2] unaware. Here it stands for the second meaning. The verse signifies that before Muhammad k was commissioned as the Prophet ﷺ ، he was unaware of Divine Shari'ah. He was granted the status of the Prophet ﷺ and thus was guided.
 
+## AI Translation
+
+Did He not find you seeking and guide you?
+
+## AI Tafsir
+
+**Context:** Al-'Awfi reported from Ibn 'Abbas, "When the Qur'an was revealed to the Messenger of Allah ﷺ, Jibril was delayed from coming to him for a number of days (on one occasion).
+
+**What this ayah teaches:** Did He not find you an orphan and gave you a refuge?)(7.
+
+**Classical tafsir:** Ibn Kathir notes: Did He not find you an orphan and gave you a refuge?)(7.
+
+**From the Sunnah:** this Hadith. (Sahih al-Bukhari, Sahih Muslim) Therefore, the Messenger of Allah ﷺ was affected by this.
 ## Personal Reflections
 
 

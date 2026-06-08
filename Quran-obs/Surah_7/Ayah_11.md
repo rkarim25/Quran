@@ -188,6 +188,17 @@ In the two verses the Tafsir of which you have just read through, sinners were w
 
 In short, Allah Ta` ala has placed all that human beings need on and in this earth which demands that they should be grateful to Him all the time under all conditions. But, human beings are prone to heedlessness. They would not take much time to forget the favours of their Creator and Master - only to return to the same world of things. So, at the end of the verse, it is in a mode of complaint that it was said: قَلِيلًا مَّا تَشْكُرُ‌ونَ (Little you are receptive to advice).
 
+## AI Translation
+
+Surely We created you, then shaped you, then said to the angels, “Prostrate before Adam,” so they all did—but not Iblîs, who refused to prostrate with the others.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, the Ayah (7:11) refers to Adam, although Allah used the plural in this case, because Adam is the father of all mankind.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the Ayah (7:11) refers to Adam, although Allah used the plural in this case, because Adam is the father of all mankind.
+
+**From the Sunnah:** Similarly, Allah said to the Children of Israel who lived during the time of the Prophet ﷺ, According to these narrations, a believing Muslim who recites the Kalimah shall always find the scale heavier in his favour, no matter how many sins he carries on him. (Sahih Muslim)
 ## Personal Reflections
 
 

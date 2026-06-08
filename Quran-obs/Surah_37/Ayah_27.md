@@ -112,6 +112,17 @@ Similarly, they are described here as saying:
 
 After that, a command will go forth to angels: فَاهْدُوهُمْ إِلَىٰ صِرَ‌اطِ الْجَحِيمِ (and show them the way to Jahannam - 37:23). When the angels will take them away, and reach close to the Bridge of Sirat, they will be commanded: YP (make them stop - they are to be questioned - 37:24). Thereupon, at this place, they will be questioned about their beliefs and deeds - that have been mentioned in the Qur'an and Hadith at many places.
 
+## AI Translation
+
+They will turn on each other, throwing blame.
+
+## AI Tafsir
+
+**Context:** (I have been commanded to fight the people until they say La ilaha ill-Allah. Whoever says La ilaha illallah, he and his property are safe from me except for his obligation, and his reckoning will be with Allah, may He b…
+
+**What this ayah teaches:** And (they) said: "Are we going to abandon our gods for the sake of a mad poet?") meaning, 'Shall we stop worshipping our gods and the gods of our forefathers just because of the words of this mad poet?' – meaning the Messenger of Allah ﷺ.
+
+**Classical tafsir:** Ibn Kathir notes: And (they) said: "Are we going to abandon our gods for the sake of a mad poet?") meaning, 'Shall we stop worshipping our gods and the gods of our forefathers just because of the words of this mad poet?' – meaning the Messenger of Allah ﷺ.
 ## Personal Reflections
 
 

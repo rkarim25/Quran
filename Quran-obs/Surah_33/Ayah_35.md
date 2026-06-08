@@ -290,6 +290,15 @@ What is the wisdom behind it? To begin with, it can be said that the Dhikr of Al
 
 Secondly, it is the easiest of all acts of ` Ibadah. The Shari'ah too has placed no condition for it. Be it with wudu' or without, be it lying, sitting, or walking, the Dhikr of Allah can be done at all times. It demands no hard labor from anyone nor does it require any formal free time. Yet, so great is the effect and benefit of the Dhikr of Allah that, through it, even worldly chores transform into worship and religious acts. The prayers that are made before and after eating, on going out and on coming back, before travel, in travel and on returning home, and before and after starting a business have all been taught to us by the Holy Prophet ﷺ . The outcome of this enormous, treasure of prophetic prayers is that no Muslim should do anything at any time while he or she may be heedless toward or negligent of Allah. And should one make it a point to recite these prayers as part of what he or she has to do in life and its work, then, dunya becomes deen, i.e. worldly duties start releasing the fragrance of faith, a wonderful experience indeed.
 
+## AI Translation
+
+Surely Muslim men and women, believing men and women, devout men and women, truthful men and women, patient men and women, humble men and women, charitable men and women, fasting men and women, men and women who guard their chastity, and men and women who remember Allah often — for all of them Allah has prepared forgiveness and a great reward.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, the Muslims: men and women, the believers: men and women, the Qanit: men and the women, the men and women who are truthful, the men and the women who are patient, the Khashi': men and the women, the men and the women who give Sadaqat, the men and the women who fast, the men and the women who guard their chastity and the men and the women who remember Allah much with their hearts and tongue…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

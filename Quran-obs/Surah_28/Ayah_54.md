@@ -154,6 +154,17 @@ There are two important advices in this verse:
 
 Firstly, if someone commits a sin, its best remedy is that he should look for doing something good. The virtuous deed becomes expiation for the sin, as quoted in the hadi'th of Sayyidna Mu` adh ضی اللہ تعالیٰ عنہ above. Secondly, if a person behaves with someone badly, the wronged one is within his right to take revenge, provided he does not exceed the wrong done to him. However, it is much better for him that, instead of taking revenge, he returns the cruelty with kindness and the evil with virtue. It is an act of high degree of nobility of character. There are innumerable benefits in such an act, both in this world and in the Hereafter. In another Qur'anic verse this advice is given in very clear words ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ وَلِيٌّ حَمِيمٌ (Repel with that which is fairer and behold, he between whom and thee there is enmity shall be as if he were a loyal friend - 41:34). It means that one should act kindly in return of cruelty. In this way his foe will become his sincere friend.
 
+## AI Translation
+
+These mu'mins will be given a double reward for their perseverance, responding to evil with good, and for donating from what We have provided for them.
+
+## AI Tafsir
+
+**Context:** (And there are, certainly, among the People of the Scripture, those who believe in Allah and in that which has been revealed to you, and in that which has been revealed to them, humbling themselves before Allah)(3:199).
+
+**What this ayah teaches:** As for the reason why these people have been chosen for such an extra ordinary reward, the straight answer is that it is Allah Ta` ala's prerogative to declare any deed preferable or superior to other deeds, and enhance its reward.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore the double reward contemplated for all these types, is that for every single good deed they will be awarded double the reward.
 ## Personal Reflections
 
 

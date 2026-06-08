@@ -300,6 +300,17 @@ Surah Al-Balad
 
 Ends here
 
+## AI Translation
+
+Over them the Fire will close, sealed shut.
+
+## AI Tafsir
+
+**What this ayah teaches:** The word marhamah signifies 'to show mercy to one another or to empathise with others and abstain from hurting them.' This embraces almost all the injunctions of the entire religion. But those who disbelieved in Our Ayat, they are those on the Left.)(20.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
+
+**From the Sunnah:** Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
 ## Personal Reflections
 
 

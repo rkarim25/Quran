@@ -150,6 +150,15 @@ Commentary
 
 The infidels of Makkah believed that it is Allah who has created the whole universe, but they deemed it impossible that the people will be resurrected after they once die. The present verses have described the fallacy of their view. It is stated that repeating the process of creation is much easier than its origination. It is strange that these infidels do believe that Allah has originated the creation, but they deny His power to do it again, while the latter is easier than the former. Then verse 20 has induced them to look around them to appreciate the splendors of the creation, so that they may apprehend that the One who has originated this marvelous creation can easily repeat the process. After establishing the Resurrection, the last three verses describe the punishment for those who deny it.
 
+## AI Translation
+
+Abraham's people only said: Kill him or burn him. Allah saved him from the fire. In that are signs for those who trust.
+
+## AI Tafsir
+
+**What this ayah teaches:** So nothing was the answer of people except that they said: "Kill him or burn him." Then Allah saved him from the fire. The Response of Ibrahim's People – and how Allah controlled the Fire Allah tells us how Ibrahim's people stubbornly and arrogantly disbelieved, and how they resisted the truth with falsehood.
+
+**Classical tafsir:** Ibn Kathir notes: Then verse 20 has induced them to look around them to appreciate the splendors of the creation, so that they may apprehend that the One who has originated this marvelous creation can easily repeat the process.
 ## Personal Reflections
 
 

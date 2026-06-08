@@ -92,6 +92,17 @@ A Cautionary Note
 
 This verse refers to a theoretical situation relating to the Apostle of Allah in particular that lest, God forbid, if he were to concoct a word and impute it to Allah, this is the way he would have been dealt with. A hypothetical situation is a possible situation, not an actual situation. Thus this does not necessarily set down a universal principle that any and every impostor, who lays claim to prophethood, would be destroyed as a matter of general rule. History records that many impostors laid claim to prophethood, but no such destructive punishment was ever imposed on them.
 
+## AI Translation
+
+We would have seized him by his right hand,
+
+## AI Tafsir
+
+**What this ayah teaches:** The expression 'right hand' is used probably because when a convicted criminal is to be executed, the executioner stands in front facing the condemned person.
+
+**Classical tafsir:** Ibn Kathir notes: A Cautionary Note This verse refers to a theoretical situation relating to the Apostle of Allah in particular that lest, Allah forbid, if he were to concoct a word and impute it to Allah, this is the way he would have been dealt with.
+
+**From the Sunnah:** The argument is to the effect that if the Prophet ﷺ had been a forger of lies against Allah, Allah's strong hand would have seized him by the throat and cut off his life-artery and he would have certainly met with a violent death.
 ## Personal Reflections
 
 

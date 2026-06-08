@@ -58,6 +58,15 @@ The next verse (183) is also related with 'Istidraj'. It said:
 
 That is, the disbelievers are left to enjoy their worldly life just for a while. Then, they shall be caught by punishment.
 
+## AI Translation
+
+I delay their end for a while, but My planning is flawless.
+
+## AI Tafsir
+
+**What this ayah teaches:** They will be deceived by all this and think that they are on the correct path.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

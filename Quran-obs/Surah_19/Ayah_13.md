@@ -100,6 +100,15 @@ This also implies what is not mentioned, that this promised boy was born and he 
 
 حَنَانًا Literal meaning of this word is soft heartedness, compassion and mercy, and these qualities were specially granted to Sayyidna Yahya (علیہ السلام) .
 
+## AI Translation
+
+and purity and compassion from Us. He was one of taqwa—living with Allah-consciousness.
+
+## AI Tafsir
+
+**What this ayah teaches:** Hold fast to the Scripture [the Tawrah].) Means, "Learn the Book with strength." In other words, learn it well, with zeal and studious effort.
+
+**Classical tafsir:** Ibn Kathir notes: Hold fast to the Scripture [the Tawrah].) Means, "Learn the Book with strength." In other words, learn it well, with zeal and studious effort.
 ## Personal Reflections
 
 

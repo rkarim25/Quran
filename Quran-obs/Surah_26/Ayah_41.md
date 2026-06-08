@@ -152,6 +152,17 @@ After that he turned to the second point regarding his upbringing in the Pharaoh
 
 This is what is known as God gifted awe of truth, veracity and reality. The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee. That is how they become so appealing to people and convince the biggest defiant
 
+## AI Translation
+
+When the magicians came, they asked Pharaoh, “Shall we have a suitable reward if we prevail?”
+
+## AI Tafsir
+
+**What this ayah teaches:** The Egyptians wanted to extinguish the Light of Allah with their words, but Allah insisted that His Light should prevail even though the those who reject the truth disliked that. The sorcerers stood before Fir'awn, asking him to treat them well and bring them closer to him if they prevailed in this matter which he had brought them together for.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee.
 ## Personal Reflections
 
 

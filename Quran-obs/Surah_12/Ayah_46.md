@@ -154,6 +154,17 @@ After having related the dream, this person said: لَّعَلِّي أَرْ‌
 
 According to Tafsir Mazhari, the format of events present in the world of autonomous images is what one sees in dreams. In that world, these images have particular meanings. The edifice of the art of interpreting dreams solely depends on knowing what a particular autonomous image in that world means. Allah Ta` ala had blessed Sayyidna Yusuf (علیہ السلام) with perfection in this art. As soon as he heard the dream related, he knew that seven fat cows and seven green ears denote seven years during which crops will grow well as usual - because animal-driven ploughing to level land and grow grain has a distinct role in it. Simi-larly, seven lean cows and seven dry ears of grain mean that, after the first seven years, there will be seven years of severe famine. As for the seven lean cows eating the seven fat ones, it means that the grain stored during the first seven years will all be eaten up during those years of famine - remaining there will be some grain needed for sowing.
 
+## AI Translation
+
+He said, “Joseph, O man of truth! Interpret for us the dream of seven fat cows eaten up by seven skinny ones; and seven green ears of grain and seven others dry, so that I may return to the people and let them know.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Yusuf's Interpretation of the King's Dream This is when Yusuf, peace be upon him, told the interpretation of the dream, without criticizing the man for forgetting his request that he had made to him.
+
+**Classical tafsir:** Ibn Kathir notes: Stay away from extravagance, so that you use what remains of the harvest during the seven years of drought that will follow the seven fertile years.' This was represented by the seven lean cows that eat the seven fat cows.
+
+**From the Sunnah:** During the seven years of drought, they will eat from the harvest they collected during the seven fertile years, as represented by the dry ears of corn in the dream.
 ## Personal Reflections
 
 

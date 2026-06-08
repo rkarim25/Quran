@@ -224,6 +224,17 @@ It should be noted that the purpose in this Hadith is to praise the patience, fo
 
 In addition to that, as said in Tafsir al-Qurtubi, it is also possible that the modus operandi employed by Sayyidna Yusuf (علیہ السلام) is an outstanding proof of his patience, forbearance and noble traits of character - and is highly commendable at its place. But, the pragmatic method of doing things which the Holy Prophet attributed to himself was partic-ularly appropriate to and better for educating his community and offering to its teeming masses the best course of action likely to bring nothing but good to them. The reason in the present setting is that the temperament of kings changes. Placing trust in them is not a wise thing to do. On an occasion such as this, putting conditions or delaying the process is not the appropriate thing to do for common people. The probability remains that the king may change his opinion and one is left to rot in that prison, as it had long been the practice. As for Sayyidna Yusuf (علیہ السلام) ، he is a prophet of Allah. As such, he could have been given to understand by Allah Ta ala that the delay he would cause would not go against his interest in any way. But, others do not enjoy that degree of closeness to Allah. The Holy Prophet was mercy for all the worlds. In his temperament and taste, he had an elemental rapport with the entire creation of Allah. He always preferred to make things easier and better for the great masses of people. To him this was more important. Therefore, he said: If he had the opportunity, he would have not delayed. Allah knows best.
 
+## AI Translation
+
+The King then said, “Bring him to me.” When the messenger came to him, Joseph said, “Go back to your master and ask him about the case of the women who cut their hands. Surely my Rabb has full knowledge of their cunning.”
+
+## AI Tafsir
+
+**What this ayah teaches:** And the king said: "Bring him to me." But when the messenger came to him, [Yusuf] said: "Return to your king and ask him, 'What happened to the women who cut their hands Surely, my Lord (Allah) is Well-Aware of their plot.' (50)(The king) said (to the women): "What was your affair when you did seek to seduce Yusuf" The women said: "Allah forbid!
+
+**Classical tafsir:** Ibn Kathir notes: He said this so that the king too will get to know the truth of the matter - which is a delicate approach to register his innocence in it.
+
+**From the Sunnah:** If I were to stay in prison for such a long time as Yusuf did, I would have accepted the offer.) In another narration collected by Ahmad from Abu Hurayrah, the Prophet ﷺ said about Yusuf's statement,
 ## Personal Reflections
 
 

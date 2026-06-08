@@ -172,6 +172,15 @@ meaning, 'so that We may bring out great abundance, goodness, benefit, and bless
 
 Then the Holy Qur'an has pointed to different demonstrations of His power to prove that it is not impossible for Allah to destroy this entire world and re-create it once again. Reference is made to the creation of earth, mountains, human beings, males and females and the creation of suitable conditions for human life, health and activities. One of the things mentioned in this connection is:
 
+## AI Translation
+
+the mountains as pegs holding it steady,
+
+## AI Tafsir
+
+**What this ayah teaches:** Have We not made the earth as a bed,)(7.
+
+**Classical tafsir:** Ibn Kathir notes: Have We not made the earth as a bed,)(7.
 ## Personal Reflections
 
 

@@ -66,6 +66,17 @@ Allah complimented Idris for being a truthful Prophet and He mentioned that he r
 
 Sayyidna Idris (علیہ السلام) lived one thousand years before Sayyidna Nuh (علیہ السلام) and was among his ancestors. (Ruh ul-Ma` ani with reference to Mustadrak al-Hakim). He was the first Prophet after Sayyidna Adam (علیہ السلام) and Allah Ta’ ala bestowed upon him thirty books. (Abi zar- Zamkhashari). Sayyidna Idris (علیہ السلام) was the first man who was given the knowledge of astrology and mathematics through a miracle, (Bahr ul-Muhit). He was also the first man who learnt how to write with a pen, and also the first who invented stitching of cloth, people used to wear animal skins instead of clothes before his time. He also invented measurement tools for the first time. Making of weapons also started in his time and he used them in his wars - the Holy wars : جھاد)Jihad) against the descendents of Qabil (بنو قابیل) (Bahr ul-Muhit, Qurtubi, Mazhari, Ruh ul-Ma ani)
 
+## AI Translation
+
+And mention Enoch in the Book. He was a man of truth and a prophet.
+
+## AI Tafsir
+
+**What this ayah teaches:** Mentioning Idris Allah complimented Idris for being a truthful Prophet and He mentioned that he raised him to a high station.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** It has previously been mentioned that in the Sahih it is recorded that the Messenger of Allah ﷺ passed by Idris on the night of the Isra (Night Journey) and he (Idris) was in the fourth heaven.
 ## Personal Reflections
 
 

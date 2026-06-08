@@ -148,6 +148,15 @@ Allah praised those who believe in His Lordship, obey His commands, thank Him an
 
 The third verse (277) mentions the great reward of peace and comfort that awaits the truly believing and practising Muslims, who are steadfast in Salah نماز and زکاۃ Zakah. Since, in the verse previous to this, the punishment of Hell and the disgrace the consumers of ربا riba will be facing was mentioned, so in accordance with the general style of the noble Qur'an, the merit - in آخرۃ Akhirah - of the believing-practising Muslims, those steadfast in Salah نماز and زکاۃ Zakah, was mentioned alongside.
 
+## AI Translation
+
+Those who believe, do righteous deeds, establish salah, and give zakat will have their reward with their Rabb. They will have no fear and will not grieve.
+
+## AI Tafsir
+
+**What this ayah teaches:** There is a connection between the beginning of the Ayah on Riba and what Allah ended it with.
+
+**Classical tafsir:** Ibn Kathir notes: Because of their Riba, Allah will torment them in this life and punish them for it on the Day of Resurrection.
 ## Personal Reflections
 
 

@@ -178,6 +178,15 @@ And according to another narration by Sayyidna Abu Hurairah ؓ ، this person's 
 
 Sayyidna Ma'qil Ibn Yasar ؓ has narrated that the Holy Prophet ﷺ has said that every new day calls the humans saying, ` I am a new day, and I shall be a witness to whatever you do today. So you should do some good deed before I come to an end, in order that I may give evidence, because once I am gone, you will never find me again. Similarly, every night gives the same call.' (Al-Qurtubi, with reference to Abu Nu'aim)
 
+## AI Translation
+
+You did not hide yourselves from your ears, eyes, and skin to prevent them from testifying. Rather, you assumed Allah did not know much of what you used to do.
+
+## AI Tafsir
+
+**What this ayah teaches:** When it is known that our ears, eyes, hands, feet, skin and hair are not ours, rather they are witnesses of the state against us, and when they would be questioned about our deeds, they would give true evidence, then there is no way to hide the commitment of a crime or a sin.
+
+**Classical tafsir:** Ibn Kathir notes: So you should do some good deed before I come to an end, in order that I may give evidence, because once I am gone, you will never find me again.
 ## Personal Reflections
 
 

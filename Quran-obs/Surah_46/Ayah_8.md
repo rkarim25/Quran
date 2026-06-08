@@ -219,6 +219,19 @@ The original word used in the text is 'atharah' which is an infinitive in the se
 
 The explanation given above is taken from the Tafsir of Qurtubi, and this is the explanation accepted by most exegetes. There are some other views in the interpretation of this verse, but they are neither well-established, nor in full harmony with the textual structure. Therefore, they are not adopted by the majority of the exegetes. (Allah knows best)
 
+## AI Translation
+
+Or do they say he fabricated this Qur'an? Say: If I have invented it, you cannot shield me from Allah. He knows best the accusations you spread about it. He is enough as Witness between you and me. He is the All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**Context:** And when Our Clear Ayat are recited to them, the those who reject the truth say of the truth when it reaches them: "This is plain magic!
+
+**What this ayah teaches:** Sufficient is He as a witness between me and you!
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, I am not an unprecedented incident that should cause you all to reject me and doubt my being sent to you.
+
+**From the Sunnah:** Allah's Messenger ﷺ then came in, and I said, 'O Abu As-Sa'ib! (Musnad Ahmad) But by Allah, even though I am Allah's Messenger, I do not know what will happen to me (after death).) I then said, 'Never will I claim a person to be pious after this.' This incident caused me some distress, and I went to sleep thereafter.
 ## Personal Reflections
 
 

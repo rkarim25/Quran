@@ -115,6 +115,17 @@ Verse [ 35] depicts the delights of Paradise: The first part states لَهُم �
 
 The second part of the verse states: وَلَدَيْنَا مَزِيدٌ (and with Us there is even more.) In other words, there are with Allah such desirable delights which have not been conceived of by any man and, therefore, they could not wish or desire for them. Sayyidna Anas and Jabir ؓ said that "more" in this context refers to the greatest reward of enabling the people of Jannah to see Allah bila kaif [ without "how" or in an indescribable manner ]. This, according to the Holy Prophet ﷺ ، is similar to His other statement in [ 10:26] لِّلَّذِينَ أَحْسَنُوا الْحُسْنَىٰ وَزِيَادَةٌ "For those who have done good is the best and even more." Some reports narrate that the inmates of Paradise will see Allah on Friday [ Qurtubi ]
 
+## AI Translation
+
+There they will have whatever they desire, and with Us is even more.
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, the righteous will have whatever delights they wish brought forthwith without any delay.
+
+**Classical tafsir:** Ibn Kathir notes: In other words, the righteous will have whatever delights they wish brought forthwith without any delay.
+
+**From the Sunnah:** Paradise until Allah creates another creation and He, the Exalted, makes them dwell in the empty parts of Paradise. (Sahih Muslim)
 ## Personal Reflections
 
 

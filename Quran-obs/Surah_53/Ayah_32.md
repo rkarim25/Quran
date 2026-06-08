@@ -257,6 +257,15 @@ In other words, the merit of a person lies not only in his outer actions, but in
 
 Sayyidah Zainab bint Abi Salamah ؓ was named by her parents as Barrah which means 'righteous or upright'. The Holy Prophet ﷺ recited the concluding part of this verse فَلَا تُزَكُّوا أَنفُسَكُمْ (Do not claim purity for your selves.) and suggested the name be changed. Therefore, they changed her name to 'Zainab'. Imam Ahmad records on the authority of ` Abdur-Rahman Ibn Abi Bakrah ؓ that a person praised another person in the presence of the Holy Prophet ﷺ . He stopped him and said "If you have to praise a person, then say, 'according to my knowledge the person appears to be upright and God-fearing وَلَا اُزَکِّی عَلَی اللہِ - and I cannot say that he is so` in the sight of Allah as well'.
 
+## AI Translation
+
+those who avoid major sins and shameful acts except minor lapses. Your Rabb is vast in forgiveness. He knew you best when He produced you from the earth and while you were still fetuses in your mothers' wombs. So do not claim purity for yourselves. He knows best who has taqwa.
+
+## AI Tafsir
+
+**What this ayah teaches:** Definition of Major and Minor Sins This subject is taken up in full detail in Surah An-Nisa' in this book Vol.
+
+**Classical tafsir:** Ibn Kathir notes: [ 3:135] It should be noted that overwhelming majority of scholars concur that if a person persists in a minor sin and continues to do it in a determined way so that it becomes a habit, it will no longer be a minor sin, but will turn into a major sin.
 ## Personal Reflections
 
 

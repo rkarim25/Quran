@@ -248,6 +248,17 @@ This prophecy of the Holy Qur'an was proved true when, during the entire period 
 
 The next verse (112) makes the description complete.
 
+## AI Translation
+
+They can never inflict harm on you, except a little annoyance. But if they meet you in battle, they will flee and they will have no helpers.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, whoever among this Ummah acquires these qualities, will have a share in this praise.
+
+**Classical tafsir:** Ibn Kathir notes: This is because they disbelieved in the Ayat of Allah and killed the Prophets without right.
+
+**From the Sunnah:** This is a well-known Hadith about which At-Tirmidhi said, "Hasan", and which is also narrated from Mu'adh bin Jabal and Abu Sa'id. (Musnad Ahmad, Jami' at-Tirmidhi) the same Hadith with another chain of narration, and this Hadith meets the criteria of Muslim in his Sahih. (Sahih Muslim, Musnad Ahmad)
 ## Personal Reflections
 
 

@@ -184,6 +184,17 @@ This is the narration that Abu Ya'la collected, and Al-Hafiz Ad-Diya' said, "Thi
 
 وَلَحْمِ طَيْرٍ‌ مِّمَّا يَشْتَهُونَ (and the meat of birds that they desire....56:21]. It is recorded in a Prophetic Tradition that the inmates of Paradise will get meat of whatever birds they desire, as and when they desire it.
 
+## AI Translation
+
+only good and virtuous speech.
+
+## AI Tafsir
+
+**What this ayah teaches:** Some said that the former means earlier (believing) nations, while the later refers to this Ummah. This is because this Ummah is the best of all nations, according to the text of the Qur'an.
+
+**Classical tafsir:** Ibn Kathir notes: Some said that the former means earlier (believing) nations, while the later refers to this Ummah.
+
+**From the Sunnah:** He considered it supported by the saying of Allah's Messenger ﷺ: And a few of those will be from the later ones.), this news became hard for the Companions of the Prophet ﷺ.
 ## Personal Reflections
 
 

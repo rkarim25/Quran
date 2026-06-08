@@ -94,6 +94,15 @@ Commentary
 
 The words فَجَمَعَ كَيْدَهُ (and put his plot together) in verse 60 indicate that the Pharaoh assembled his magicians and their tools. According to Sayyidna Ibn ` Abbas ؓ there were seventy two magicians but others have put their number at figures which vary from four hundred to nine hundred thousand. Their leader was a blind man whose name was Sham` un (شمعُون).
 
+## AI Translation
+
+Pharaoh then withdrew, orchestrated his scheme, then returned.
+
+## AI Tafsir
+
+**What this ayah teaches:** Invent not a lie against Allah...") This means, "Do not make an illusion before the people of something that is not real, making it appear as if it were a creature, when it is not really a creature. And surely, he who invents a lie (against Allah) will fail miserably.") (62 Then they debated one with another what they must do, and they kept their talk secret (61)They said: "Verily, these are two m…
+
+**Classical tafsir:** Ibn Kathir notes: Invent not a lie against Allah...") This means, "Do not make an illusion before the people of something that is not real, making it appear as if it were a creature, when it is not really a creature.
 ## Personal Reflections
 
 

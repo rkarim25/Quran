@@ -127,6 +127,17 @@ The present verses take up the matter of dealings with enemies. It brings into s
 
 In the previous verse (46), there was a description of the Jewish stance against Islam which ranged from flat denial to laboured falsification, something born out of the desire to misrepresent, alter and ridicule. The present verse addresses them directly and commands them to believe in the final revelation and demonstrate their confirmation. Should they continue ignoring the warning and remain hostile, they should really be concerned with the chilling prospects of what their fate would be as a consequence of their ill choice.
 
+## AI Translation
+
+Have you not seen those who were given a portion of the Scriptures yet trade it for misguidance and wish to see you deviate from the Path?
+
+## AI Tafsir
+
+**What this ayah teaches:** This last aspect is in a way an exhortation to Muslims that they should be careful in choosing the words they use to say what they have to say, for mincing words is not their style.
+
+**Classical tafsir:** Ibn Kathir notes: They also ignored the knowledge that they inherited from previous Prophets, about the description of Muhammad ﷺ, so that they may have a small amount of the delights of this life.
+
+**From the Sunnah:** This last aspect is in a way an exhortation to Muslims that they should be careful in choosing the words they use to say what they have to say, for mincing words is not their style.
 ## Personal Reflections
 
 

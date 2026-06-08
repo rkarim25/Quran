@@ -94,6 +94,15 @@ To accommodate and reconcile the sense of the two verses given above, Sayyidna `
 
 Some commentators have said that it is also possible that the people of Sayyidna Shu'aib (علیہ السلام) were split in different groups or sections where some were hit by the earthquake while others were destroyed by the punishment of the shade.
 
+## AI Translation
+
+Then an earthquake struck them and they fell lifeless in their homes.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, Allah stated that each of these forms of punishment struck them on the Day of the Shadow. At that time, the whole cloud became a cloud of fire raining on them and also came the earthquake which turned them to ashes.
+
+**Classical tafsir:** Ibn Kathir notes: It refers to what happened to them when to come on them first was the shade of a deep and thick cloud under which they all assembled.
 ## Personal Reflections
 
 

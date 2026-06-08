@@ -180,6 +180,15 @@ All the jurists are unanimous that if the shoes are clean they may be worn when 
 
 إِنَّكَ بِالْوَادِ الْمُقَدَّسِ طُوًى (You are in the sacred valley of Tuwa - 20:12): Allah, in his Divine Wisdom, has granted special status to some selected places such as Baitullah (the Holy Ka'bah), the Aqsa Mosque, Masjid Nabawi etc. Wadi Tuwa (the valley of Tuwa) is also one such sacred place and is situated at the foot of the mount of Tur.
 
+## AI Translation
+
+It is truly I. I am your Rabb — the One who creates, owns, nurtures, and sustains! So take off your sandals, for you are in the sacred valley of Ṭuwa.
+
+## AI Tafsir
+
+**What this ayah teaches:** It has also been said that it means 'doubly sacred' and that Tuwa is something that has repetitious blessings.
+
+**Classical tafsir:** Ibn Kathir notes: It shall not come upon you except all of a sudden.)[7:187] This means that its knowledge weighs heavily upon the dwellers of the heavens and the earth.
 ## Personal Reflections
 
 

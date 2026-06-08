@@ -125,6 +125,17 @@ This verse tells us that when an infidel regards himself totally helpless and ca
 
 The declaration in another verse وَمَا دُعَاءُ الْكَافِرِ‌ينَ إِلَّا فِي ضَلَالٍ (And the prayer of the disbelievers does not but go astray - 13:14) relates to the Hereafter, where no entreaty from them will be accepted when they would appeal for mercy against the torment.
 
+## AI Translation
+
+If they are aboard a ship in storm, they call to Allah with sincere devotion. Once delivered to shore, they associate others with Him again.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, the home of the Hereafter – that is the life indeed, if they but knew (64)And when they embark on a ship, they invoke Allah, making their faith pure for Him only, but when He brings them safely to land, behold, they give a share of their worship to others (65)So that they become ingrate for that which We have given them, and that they take their enjoyment, but they will come to know .
+
+**Classical tafsir:** Ibn Kathir notes: When he was on the sea, headed for Ethiopia, the ship started to rock and the crew said: "O people, pray sincerely to your Lord alone, for no one can save us from this except Him." 'Ikrimah said: "By Allah, if there is none who can save us on the sea except Him, then there is none who can save us on…
+
+**From the Sunnah:** Muhammad bin Ishaq reported from 'Ikrimah bin Abi Jahl that when the Messenger of Allah ﷺ conquered Makkah, he…
 ## Personal Reflections
 
 

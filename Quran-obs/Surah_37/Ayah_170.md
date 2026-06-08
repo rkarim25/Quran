@@ -116,6 +116,15 @@ Commentary
 
 After having provided proofs of the basic beliefs of Islam, these verses now mention the obstinacy of the disbelievers. It has been said that, before the blessed appearance of the Holy Prophet ﷺ ، these people used to crave for the coming of some prophet from Allah, so that they could follow him. But, when he did come, they started confronting him with a posture of obstinacy and hostility. After that, the Holy Prophet has been comforted that he should not worry about the pain these people cause to him. The time was coming very soon when he will prevail, and his oppressors will be defeated and punished. That this will unfold comprehensively in the Hereafter is already settled, but in the mortal world too, Allah Ta’ ala showed the spectacle that, in every Jihad from the battle of Badr up to the conquest of Makkah, His blessed rasul came out victorious and his adversaries, disgraced.
 
+## AI Translation
+
+But now they reject it, so they will soon know.
+
+## AI Tafsir
+
+**What this ayah teaches:** Who then does more wrong than one who rejects the Ayat of Allah and turns away therefrom? The time was coming very soon when he will prevail, and his oppressors will be defeated and punished.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

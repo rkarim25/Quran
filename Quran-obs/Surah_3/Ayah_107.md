@@ -166,6 +166,17 @@ Sinning man earns his own punishment:
 
 The verse فَذُوقُوا الْعَذَابَ بِمَا كُنتُمْ تَكْفُرُ‌ونَ (106) (now taste the punishment because you have been sinning) indicates that the punishment on that Day is not from Allah but that it is as consequence of what man has earned while living his mortal life, for the truth is that the blessings of paradise and the hardships of hell are simply a changed form of our very deeds. So, later on in verse 108, it was said: وَمَا اللَّـهُ يُرِ‌يدُ ظُلْمًا لِّلْعَالَمِينَ (and Allah wants no injustice for { anyone in the worlds} which means that Allah has no intention of being unjust to His creation. Whatever reward or punishment is there, is nothing but justice and very much the perfect expression of the divine wisdom and mercy.
 
+## AI Translation
+
+As for the bright-faced, they will be in Allah’s mercy, where they will remain forever.
+
+## AI Tafsir
+
+**What this ayah teaches:** This means that the mercy in which the believers shall rest will not be temporary; it would be forever and eternal.
+
+**Classical tafsir:** Ibn Kathir notes: This means that the mercy in which the believers shall rest will not be temporary; it would be forever and eternal.
+
+**From the Sunnah:** The objective of this Ayah is that there should be a segment of this Muslim Ummah fulfilling this task, even though it is also an obligation on every member of this Ummah, each according to his ability. (Sahih Muslim) this Hadith and said, "Hasan". (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

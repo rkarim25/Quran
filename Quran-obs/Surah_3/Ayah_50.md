@@ -182,6 +182,15 @@ Ruling:
 
 Making the shape of a bird was the making of a picture, something permitted in that Shari` ah. In our Shari'ah, its permissibility was abrogated.
 
+## AI Translation
+
+And I will confirm the Torah revealed before me and legalize some of what had been forbidden to you. I have come to you with a sign from your Rabb, so live with taqwa toward Allah and obey me.
+
+## AI Tafsir
+
+**What this ayah teaches:** This is because the Qur'an is the Word of Allah and is nothing like that of the creatures.
+
+**Classical tafsir:** Ibn Kathir notes: This is because the Qur'an is the Word of Allah and is nothing like that of the creatures.
 ## Personal Reflections
 
 

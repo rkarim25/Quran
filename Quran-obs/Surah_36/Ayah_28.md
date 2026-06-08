@@ -150,6 +150,17 @@ Mentioned here is the Divine punishment that descended upon the people who had r
 
 The state of their dying has been expressed through the word: خَامِدُونَ khamidun) by the Qur'an. The words: خَامِدا (khamada) and خُمُود (khumud) are used to mean the extinguishing or dying of fire. The life of the living depends on energy. When this energy is not there, what remains is death. So, 'khamidun' means extinguished, gone extinct, put off.
 
+## AI Translation
+
+We did not send any soldiers from the heavens against his people after his death, nor did We need to.
+
+## AI Tafsir
+
+**What this ayah teaches:** And regarding the sending of punishment, it was said that Allah did not have to send an army of angels to seize these people - nor was it the way of Allah to send such an army, because just a single angel of Allah is enough to destroy the greatest, mightiest and the bravest of nations.
+
+**Classical tafsir:** Ibn Kathir notes: And regarding the sending of punishment, it was said that Allah did not have to send an army of angels to seize these people - nor was it the way of Allah to send such an army, because just a single angel of Allah is enough to destroy the greatest, mightiest and the bravest of na…
+
+**From the Sunnah:** When he adopted Constantinople as his city, the Patriarch of Rome moved there, as has been mentioned by several historian, such as Sa'id bin Batriq and others, both People of the Book and Muslims.
 ## Personal Reflections
 
 

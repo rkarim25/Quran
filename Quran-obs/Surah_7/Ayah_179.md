@@ -240,6 +240,15 @@ In another verse the Holy Qur'an, speaking the destruction of the people of ` Ad
 
 The people of ` Ad and Thamud being allured by satanic influences involved themselves in evil deeds which led them to their destruction. That is to say they kept the use of their capabilities limited to abject worldly gains like serving their physical needs and remained heedless to their spiritual demands. No matter what great advances they make in science and technology, they may conquer space, explore moon and other planets, make the world full of their sophisticated satellites, and tame the natural forces to serve their varied needs, but all such efforts are no more than a means of serving their physical and material life. It does not go beyond, to seek spiritual peace and comfort. This achievement science and technology of man is certainly confined to serving his physical life only, which does not make him distinct from the animal in technicality. It is why the Holy Qur'an calls them deaf, dumb and blind because they heard, saw and understood things that belonged to this world only. They did not make proper use of these functions which could lead them to eternal success and peace. The last phrase of this verse said that they are like cattle investing all their effort in serving their bodily desires. Next the verse added بَلْ هُمْ أَضَلُّ "Rather they are much more misled." that is, they are far more unwise than are the cattle, because the animals are not bound to follow the laws of the Shari'ah. They have no reward or punishment for their acts. They are required only to serve their physical needs which they are efficiently doing, contrary to human beings who are accountable for everything they do in this world, and they are going to be punished or rewarded according to their performance. If they confine their effort only to seek material gains of this world and do not make proper use of their faculties, they are certainly more imprudent and unwise as compared to animals.
 
+## AI Translation
+
+Indeed, We have destined many jinn and humans for Hell. They have hearts they do not understand with, eyes they do not see with, and ears they do not hear with. They are like cattle. In fact, they are even less guided! Such are heedless.
+
+## AI Tafsir
+
+**What this ayah teaches:** As a substance of the verse we are given to understand that ultimate end or destiny is a divine secret, not known to anyone, but there are definite signs which help us to make a surmise.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, those people who obey Allah are more honorable than some angels, while cattle are better than those who disbelieve in Him.
 ## Personal Reflections
 
 

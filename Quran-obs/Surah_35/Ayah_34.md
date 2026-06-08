@@ -128,6 +128,17 @@ At this point, let us refer back to the Hadith of Sayyidna Abu-D-Darda` ؓ that 
 
 Imam Abu Bakr al-Jassas (رح) said: It is the typical state of a believer that he never remains free of concerns while in this world. The Holy Prophet ﷺ has said that the world is a prison for the believer. This is the reason why it appears in the accounts of the lives of the Holy Prophet ﷺ and his great Sahabah ؓ that these blessed souls used to look sad fairly often.
 
+## AI Translation
+
+They will say, "Praise be to Allah, Who has removed from us all sorrow. Our Lord is All-Forgiving, Most Appreciative,
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, our Lord is indeed Oft-Forgiving, Most Ready to appreciate.
+
+**Classical tafsir:** Ibn Kathir notes: This is because they would initially face great anxiety on the plains of Resurrection but, finally, when they are asked to enter Paradise, it will sound removed.
+
+**From the Sunnah:** It was recorded in the Sahih that the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

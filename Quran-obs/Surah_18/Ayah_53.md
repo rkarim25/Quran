@@ -128,6 +128,15 @@ The progeny of Iblis, and his descendants and followers
 
 The word: ذُرِّ‌يَّتَهُ (dhurriyyatah) in verse 50 indicates that Iblis (Shaitan) has offspring, and a host of descendants and followers. Some commentators have said that 'progeny' at this place means 'accomplices.' That the Shaitan has offspring from his loins is not necessary. But, there is a Sahih Hadith which Humaidi has reported in Kitab al-Jam' bain al-Sahihain on the authority of Sayyidna Salman al-Farisi ؓ . According to his narration, the Holy Prophet ﷺ told him, "do not become like those who are the first to enter the bazaar (shopping centre), or those who are the last to leave it, for the bazaar is a place where the Shaitan has his eggs and offspring laid around." This would indicate that the progeny of Shaitan spreads out in that manner - through what is laid and hatched by him. After having presented this report, al-Qurtubi has said that the Shaitan has accomplices and armies is something established by conclusive proofs - and as for the Shaitan having offspring, a Sahih Hadith has appeared above. Allah knows best.
 
+## AI Translation
+
+The wicked will see the Fire and realize that they are bound to fall into it, and will find no way to avoid it.
+
+## AI Tafsir
+
+**What this ayah teaches:** And (remember) the Day He will say: "Call those (so-called) partners of Mine whom you claimed." Then they will cry unto them, but they will not answer them, and We shall put Mawbiq between them (52)And the criminals shall see the Fire and apprehend that they are to fall therein.
+
+**Classical tafsir:** Ibn Kathir notes: 'Abdullah bin 'Amr understood the pronoun in the phrase "between them" to refer to the believers and the those who reject the truth, meaning that the people of guidance and the people of misguidance will be separated.
 ## Personal Reflections
 
 

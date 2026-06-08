@@ -126,6 +126,15 @@ Allah the Exalted notifies the servants of His infinite power, which He demonstr
 
 After mentioning the confused state of the infidels, Allah draws man's attention to His infinite power which He demonstrated by creating what is bigger than that which they wondered about and whose possibility they discounted. Referring to the heaven, the Qur'an says: وَمَا لَهَا مِن فُرُ‌وجٍ (...and it has no cracks...50:6). Lexically, the word furuj is the plural of farj which means a crack, or an opening. This and the following few verses draw attention to the marvels of Allah's creation, the wonderful design in the universe, and to the flawless celestial firmament. If this was made by man there would have been patches, cracks, clefts or rifts. But no one can find any sort of patchwork or stitching in the sky. This, however, does not negate the existence of doors in the heaven. A door is not referred to as a crack:
 
+## AI Translation
+
+as provision for Our servants. With this rain We revive a dead land. The same power will bring you out of your graves.
+
+## AI Tafsir
+
+**What this ayah teaches:** However, when rain falls upon it, it is stirred to life; it swells and produces all of the lovely pairs such as flowers and the like – amazing on account of their beauty.
+
+**Classical tafsir:** Ibn Kathir notes: Lexically, the word furuj is the plural of farj which means a crack, or an opening.
 ## Personal Reflections
 
 

@@ -67,6 +67,15 @@ Sayyidna ` Abdullah Ibn ` Umar ؓ has reported that he had heard a hadith (حَ�
 
 The sum and substance of this story is that Dhul-Kifl was the deputy of Prophet Yasa' (علیہ السلام) and it is possible that because of his virtuous deeds his name has been mentioned along with prophets. It is also possible that initially he was the deputy of Sayyidna Yasa` (علیہ السلام) and later on he was elevated to the status of a prophet by Allah Ta` ala.
 
+## AI Translation
+
+And remember Ishmael, Enoch, and Ⱬul-Kifl. They were all steadfast.
+
+## AI Tafsir
+
+**What this ayah teaches:** From the context and the fact that Dhul-Kifl is mentioned alongside Prophets, it appears that he was also a Prophet.
+
+**Classical tafsir:** Ibn Kathir notes: Even if the tradition is true, it mentioned the name as Kifl and not Dhul-Kifl, which means he was some other person.
 ## Personal Reflections
 
 

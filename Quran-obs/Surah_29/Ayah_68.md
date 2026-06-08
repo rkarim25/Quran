@@ -135,6 +135,17 @@ Some disbelievers in Makkah used to put forward the plea that although they acce
 
 In reply to this, Allah Ta’ ala said that this was also a bogus excuse, because He had accorded such an honour and eminence to Makkans, that is not available to any people living anywhere in the world. He had made the entire land of Makkah حَرَم haram. All Arabs respected حَرَم haram, whether they were believers or infidels. They all believed that killing was not allowed there. It was not only the killing and fighting that was banned in the حَرَم haram but the hunting and cutting of trees too were not permitted. If any stranger entered the حَرَم haram, his life would be completely secured. Therefore, putting forward the risk of life as justification for non-acceptance of Islam was only a lame excuse.
 
+## AI Translation
+
+Who does greater wrong than one who fabricates lies against Allah or rejects truth after it reached them? Is Hell not a fitting home for those who rejected the truth?
+
+## AI Tafsir
+
+**What this ayah teaches:** Then do they believe in falsehood, and deny the graces of Allah (67)And who does more wrong than he who invents a lie against Allah or denies the truth, when it comes to him? Is there not a dwelling in Hell for the those who reject the truth (68)As for those who strive hard for Us, We will surely guide them to Our paths.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, putting forward the risk of life as justification for non-acceptance of Islam was only a lame excuse.
+
+**From the Sunnah:** Ibn Abi Hatim narrated that 'Abbas Al-Hamdani Abu Ahmad – one of the people of 'Akka (Palestine) – said, concerning the Ayah: If they became Muslims, the Arabs would pounce upon them and kill them.
 ## Personal Reflections
 
 

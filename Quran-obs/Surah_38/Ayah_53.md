@@ -100,6 +100,15 @@ Consideration of matching age between spouses is better
 
 Then there is the other situation. If being of the same age is taken to mean that spouses will be of the same age, the good thing about it would be that there would be temperamental harmony between them, and they will have consideration for each other's preferences. This tells us that consideration should be made to keep ages of spouses matched, for it generates mutual love, and makes the relationship of marriage pleasant and permanent.
 
+## AI Translation
+
+This is what you are promised for the Day of Reckoning.
+
+## AI Tafsir
+
+**What this ayah teaches:** And verily, for those who have Taqwa is a good final return (49)'Adn Paradise, whose doors will be opened for them (50)Therein they will recline; therein they will call for fruits in abundance and drinks (51)And beside them will be Qasirat-at-Tarf, (and) of equal ages (52)This it is what you are promised for the Day of Reckoning (53)(It will be said to them)!
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

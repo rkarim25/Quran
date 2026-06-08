@@ -199,6 +199,15 @@ The word مُؤْتَفِكَاتُ mu'tafikat (in verse 9) means 'adjacent to o
 
 (1) Another possible meaning of mu'tafikat is 'overthrown' as mentioned by several exegetes. The translation in the text is based on this meaning. Muhammad Taqi Usmani
 
+## AI Translation
+
+Pharaoh and those before him, and the overturned cities of Lot, indulged in sin,
+
+## AI Tafsir
+
+**What this ayah teaches:** The word husuman (in verse 7) is the plural of hasim and means 'cutting them off entirely' or 'causing them to perish completely'. Others recited it with a Fathah over the letter Qaf (as the word Qablahu), which means those nations before him who were similar to him.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said similar to this when he said, "At-Taghiyah is the shout." Mujahid said, "At-Taghiyah means the sins." This was also said by Ar-Rabi' bin Anas and bin Zayd. And We have created for them of the like thereunto, on which they ride.)(36:41,42) Qatadah said, "Allah caused this ship to remain until the first people of this Ummah saw it." However, the first view (that it refers to all ships in…
 ## Personal Reflections
 
 

@@ -181,6 +181,17 @@ The polytheists in India take an incredibly high number of gods as partners in t
 
 By saying in this verse of the Holy Qur'an that Allah Ta` ala is the Creator of the heavens and the earth and He is the Maker of darkness and light, all such false notions have been refuted - when He is the sole Creator and Maker of everything, ascribing partners to His Divinity makes no sense.
 
+## AI Translation
+
+All praise is for Allah Who created the heavens and the earth and made darkness and light. Yet those who reject the truth set up equals to their Rabb.
+
+## AI Tafsir
+
+**Context:** Al-'Awfi, 'Ikrimah and 'Ata' said that Ibn 'Abbas said, "Surat Al-An'am was revealed in Makkah" At-Tabarani recorded that Ibn 'Abbas said, "All of Surat Al-An'am was revealed in Makkah at night, accompanied by seventy th…
+
+**What this ayah teaches:** By bringing in the sentence which follows immediately, which mentions the creation of the heavens and the earth and the darkness and the light, given there is the very proof of His being the Praised One.
+
+**Classical tafsir:** Ibn Kathir notes: In this Ayah, Allah describes darkness in the plural, Zulumat [where Zulmah is singular for darkness], while describing the light in the singular, An-Nur, because An-Nur is more honored.
 ## Personal Reflections
 
 

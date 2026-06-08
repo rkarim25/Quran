@@ -171,6 +171,15 @@ Ruling:
 
 The angel of death does not know the time of anyone's death in advance - until he is ordered to exact the soul of a certain person. (Deduced by Ahmad and Ibn Abi ad-Dunya from Ma'mar, Mazhari)
 
+## AI Translation
+
+Had We willed, We could have imposed guidance on every soul. But My word stands: I will surely fill Hell with jinn and humans together.
+
+## AI Tafsir
+
+**What this ayah teaches:** Whenever and wherever a person is destined to die, it is precisely at that time that he draws out his soul from his body.' This is what has been stated in the cited verse.
+
+**Classical tafsir:** Ibn Kathir notes: But, some other reports show that this exacting of the soul is particular to human beings - because of their nobility and distinction.
 ## Personal Reflections
 
 

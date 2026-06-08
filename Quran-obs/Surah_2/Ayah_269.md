@@ -215,6 +215,15 @@ This sense has been interpreted in different words. Somewhere it means, the Qur'
 
 This is the more evident view; more so, since the words of the Qur'an وَمَن يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرً‌ا كَثِيرً‌ا "And whoever is given wisdom is certainly given a lot of good" do hint in that direction as they mean that the hikmah حِكْمَةَ covers a lot of good. Allah knows best.
 
+## AI Translation
+
+Allah grants wisdom to whomever He wills. Whoever is granted wisdom has been given abundant good — but none remember except people of reason.
+
+## AI Tafsir
+
+**Context:** (O you who believe! Spend of the good things which you have (legally) earned, and of that which We have produced from the earth for you, and do not aim at that which is bad to spend from it,) that it was revealed about t…
+
+**What this ayah teaches:** And know that Allah is Rich (free of all needs), and worthy of all praise (267)Shaytan threatens you with poverty and orders you to commit Fahsha' (evil deeds) whereas Allah promises you forgiveness from Himself and bounty, and Allah is All-Sufficient for His creatures' needs, All-Knower (268)He grants Hikmah to whom He wills, and he, to whom Hikmah is granted, is indeed grante…
 ## Personal Reflections
 
 

@@ -107,6 +107,17 @@ How will the deeds be weighed?
 
 There are different versions about the method for the weighing of deeds, and all of them are derived from hadith. One version is that the believers and the infidels will be weighed bodily in the scale of justice and the infidel will not be able to tilt the scale however obese and corpulent he may be (Bukhari and Muslim, quoting Abu Hurairah ؓ . Another version says that the scrolls on which their deeds are recorded will be weighed. Tirmidhi, Ibn Majah, Ibn Hayyan have taken this version from Sayyidna ` Abdullah Ibn ` Umar ؓ . And according to a third version a man's deeds which were weightless and intangible in this world, will be made solid on the Day of Judgment and will be placed on the scales and weighed. Tabrani has related this version from the Holy Prophet ﷺ on the authority of Sayyidna Ibn ` Abbas ؓ . The words and the text: of all these hadiths are given in full in Tafsir Mazhari which may be consulted if required. Abdur Razzaq has quoted a hadith in his book under the chapter on فَضلُ اِلعِلَم (the merits of knowledge) on the authority of Ibrahim Nakha` i which supports the just preceded version. This version has it that on the Day of Judgment a person's deeds will be brought for weighing and when placed in the pan, they will fail to tilt it. Then something resembling clouds will be brought and put in the pan of good deeds which will then weigh down. The man will then be asked what was it that lent weight to the pan of his good deeds, but he will express his ignorance. Then he will be informed that the object in question was his learning which he used to impart to other people. Dhahabi has included a hadith in فَضلُ اِلعِلَم which he heard from Sayyidna ` Imran Ibn Husain ؓ that the Holy Prophet ﷺ said, "On the Day of Judgment the blood of the martyrs will be weighed against the ink of scholars (with which they wrote books on the science of religion) and the latter will be heavier than the former." (Mazhari) After giving the above mentioned versions about the weighing of deeds, Tafsir Mazhari says that it is not wholly inconceivable that man himself and his deeds may be weighed physically or that he and his record of deeds may be weighed together. Thus there is no inconsistency in these three versions.
 
+## AI Translation
+
+As for those whose scale is heavy with good deeds, it is they who will be successful.
+
+## AI Tafsir
+
+**What this ayah teaches:** As for the Muslims who have committed sins and whose good deeds and evil deeds will be placed in the two pans of the scale for weighing, there is no specific mention about them in the Qur'an which is, in general, silent about the punishment and reward of erring Muslims.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** In this verse there is a comparison between perfect Muslims and the infidels and their deeds and the end which awaits them. Paradise and if their evil deeds exceed their good by a single deed, they would go to Hell. (Sahih Muslim)
 ## Personal Reflections
 
 

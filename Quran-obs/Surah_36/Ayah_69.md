@@ -146,6 +146,17 @@ But the holy Prophet ﷺ recited this as: وزن شعری in a manner that broke
 
 Ibn Kathir has reported this narration in his Tafsir, and at-Tirmidhi, an-Nasa'I and Imam Ahmad have also reported it. This tells us that he simply did not consider reciting verses of poetry composed by others as appropriate for him. That he would compose it himself was unthinkable. As for some sentences having the resonance of poetic measure reported from the Holy Prophet ﷺ himself, they did not issue forth from him with the intention of composing formal poetry. They were casual, and should some one or two lines issue forth from a person that fall into poetic measure, these do not make him a poet. But, from this natural condition of the Holy Prophet ﷺ that was based on great considerations of wisdom, it does not become necessary that poetry should be taken as blameworthy in any absolute sense - as explained under the details of injunctions relating to poetry in our commentary on verse 224 of Surah Ash-Shu` ara' (26) appearing at its end in Volume VI of Ma’ ariful-Qur'an, English. Those interested may see it there.
 
+## AI Translation
+
+We have not taught him poetry, nor is it fitting for him. This Book is only a Reminder and a clear Quran
+
+## AI Tafsir
+
+**What this ayah teaches:** Will they not then understand (68)And We have not taught him poetry, nor is it suitable for him.
+
+**Classical tafsir:** Ibn Kathir notes: On what basis could this be because neither is the Qur'an restricted by the compulsion of poetic meter, nor of radif (the unchanging word that appears at the end of the hemistich) and qafiyah (the changing rhymed word that appears before the radif) anywhere in the text?
+
+**From the Sunnah:** It was narrated that he ﷺ never memorized a stanza of poetry with the correct meter or rhyme – he would transpose words or memorize it incompletely. In Ad-Dala'il, Al-Bayhaqi recorded that the Messenger of Allah ﷺ said to Al-'Abbas bin Mirdas As-Sulami, may Allah be pleased with him:
 ## Personal Reflections
 
 

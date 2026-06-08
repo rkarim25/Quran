@@ -124,6 +124,15 @@ Ibn Abi Hatim recorded that Sa'id bin Jubayr said, "When the people of Hell get 
 
 Allah Ta'ala gave an answer in a single sentence by saying: إِنَّهَا شَجَرَ‌ةٌ تَخْرُ‌جُ فِي أَصْلِ الْجَحِيمِ (That is a tree that comes out in the bottom of Jahannam - 37:64). Thus, neither does it mean date and butter, nor the objection as to how could a tree survive in fire hold valid - particularly when that tree owes its very origin to the fire itself. Hence, Allah Ta ala has placed such properties in it that instead of getting burnt in fire, it is actually nurtured by it. For example, there are many life forms that would survive only in fire that does not burn them, in fact, makes them grow.
 
+## AI Translation
+
+Indeed, it is a tree that grows in the depths of Hell,
+
+## AI Tafsir
+
+**What this ayah teaches:** Thus, neither does it mean date and butter, nor the objection as to how could a tree survive in fire hold valid - particularly when that tree owes its very origin to the fire itself.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

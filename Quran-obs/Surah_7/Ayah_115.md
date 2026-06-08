@@ -84,6 +84,15 @@ They said,
 
 The Arabic word:'' اِلقَا ‘ ء ! 'ilga' means to drop something down. On the day of encounter the sorcerers asked the prophet Musa (علیہ السلام) if he would drop down his staff first or should they throw theirs first? This question of the sorcerers was perhaps to show their complacency about their art, though the mode of their sentence indicated that they wanted to start first, but for giving an impression of power to their opponent they put that question. Since-the prophet Musa (علیہ السلام) had nothing to fear about, he invited them saying 'you drop.'
 
+## AI Translation
+
+They asked, “O Moses! Will you cast, or shall we be the first to cast?”
+
+## AI Tafsir
+
+**What this ayah teaches:** It was said that the wisdom behind asking them to throw first, is that - Allah knows best - the people might witness the magicians' sorcery first.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

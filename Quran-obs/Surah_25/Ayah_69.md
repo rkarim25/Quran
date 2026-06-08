@@ -148,6 +148,17 @@ The next verse mentions some details of the punishment to be faced by the aforem
 
 Ibn Kathir has given another explanation for conversion of sins into virtues. He says that when they will remember all those sins which they had committed during the period of their infidelity, they will repent and seek Allah's forgiveness. This act of repentance will replace their sins into virtues. In support of this explanation some traditions have also been quoted.
 
+## AI Translation
+
+Their punishment will be multiplied on the Day of Judgment, and they will remain in it forever, in disgrace.
+
+## AI Tafsir
+
+**Context:** (And whoever kills a believer intentionally)(4:93), because even though this was revealed in Al-Madinah, the meaning is general, and it could be interpreted to refer to one who does not repent, because this Ayah states t…
+
+**What this ayah teaches:** As-Suddi said that Athama referred to punishment, which is closer to the apparent meaning of the Ayah.
+
+**Classical tafsir:** Ibn Kathir notes: As-Suddi said that Athama referred to punishment, which is closer to the apparent meaning of the Ayah.
 ## Personal Reflections
 
 

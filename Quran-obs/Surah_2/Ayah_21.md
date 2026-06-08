@@ -168,6 +168,15 @@ Tauhid توحید ، the most fundamental doctrine of Islam, is not a mere theor
 
 This is the significance of the basic declaration of the Islamic creed, لَا الٰہَ الا اللہ (there is no God but Allah). But, obviously, it is not enough to affirm the Oneness of God orally; one must have a complete certitude, and must also have the truth always present close to one's heart, for Tauhid توحید is to see God as one, and not merely to say that He is one. Today, the number of those who can respect this basic formula of the Islamic creed runs to millions all over the world - far more than it ever did, but mostly it is just an expense of breath: their lives do not show the colour of Tauhid توحید ; or otherwise, they should have been like their forefathers who were daunted neither by wealth nor by power, awed neither by numbers nor by pomp and show to turn their back upon the Truth - when a prophet could all by himself stand up against the world, and say: ثُمَّ كِيدُونِ فَلَا تُنظِرُ‌ونِ :"So try your guile on me, then give me no respite" (7 :195). If the blessed Companions and their successors came to dominate the world in a few years, the secret lay in this Tauhid توحید ، correctly understood and practised. May Allah bless all the Muslims with this great gift!
 
+## AI Translation
+
+O humanity — worship your Rabb, who created you and those before you, so that you may live with taqwa.
+
+## AI Tafsir
+
+**Context:** In adding to the phrase: الَّذِي خَلَقَكُمْ :"who created you" the words, الَّذِي خَلَقَكُمْ وَالَّذِينَ مِن قَبْلِكُمْ ; and those before you," the verse shows that Allah alone is the Creator of all mankind.
+
+**What this ayah teaches:** So call the Muslims with their names that Allah has called them: 'The Muslims, the believing servants of Allah.') This is a Hasan Hadith, and it contains the statement, "Allah has created and sustains you, so worship Him and do not associate anything with Him in worship." This statement is relevant in the Ayat (2:21-22) we are discussing here and supports singling Allah in wors…
 ## Personal Reflections
 
 

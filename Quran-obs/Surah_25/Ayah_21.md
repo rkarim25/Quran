@@ -230,6 +230,17 @@ Commentary
 
 وَقَالَ الَّذِينَ لَا يَرْ‌جُونَ لِقَاءَنَا (And said those who do not believe in meeting Us - 25:21). رَجَاء (Raja:) means to hope for something desired. Sometimes it is also used for having fear, as mentioned by Ibn-al-Ambari, the famous scholar of Arabic lexicon. Here in this verse it is used for apprehension and fear. Thus the meaning of the phrase is 'those who are not apprehensive of being brought before Us'. The allusion is toward those who totally deny the Hereafter as only they could have the courage to raise such preposterous and absurd points and put such frivolous demands. Those who believe in the Hereafter dread it so much all the time that they have no time to waste over such ridiculous ideas. In the present time those who appear to be unsure about the teachings and injunctions of Islam and indulge in dubious debate and arguments under the influence of modern education allude toward weakness of their faith in the Hereafter. When one attains total faith in the Hereafter then there is no question of having such dubious doubts.
 
+## AI Translation
+
+Those who do not expect to meet Us say, “If only the angels were sent down to us, or we could see our Rabb!” They have certainly been carried away by their arrogance and have entirely exceeded all limits.
+
+## AI Tafsir
+
+**What this ayah teaches:** And those who expect not a meeting with Us said: "Why are not the angels sent down to us, or why do we not see our Lord" Indeed they think too highly of themselves, and are scornful with great pride (21)On the Day they will see the angels – no good news will there be for the criminals that day.
+
+**Classical tafsir:** Ibn Kathir notes: This day you shall be recompensed with the torment of degradation because of what you used to utter against Allah other than the truth.
+
+**From the Sunnah:** Paradise which you have been promised! We have been your friends in the life of this world and are (so) in the Hereafter. (authentic hadith) this referred to the words of the idolators.
 ## Personal Reflections
 
 

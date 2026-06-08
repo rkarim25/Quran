@@ -178,6 +178,17 @@ But surely he who bears patiently and forgives - surely that is true constancy -
 
 In all these verses it is encouraged not to retaliate for revenge and rather forgive and forget, which is a magnanimous way of dealing with fellow human beings. This is the way Qur'anic teachings stand and call it a supreme and superior trait. Thus it may perhaps be argued that the person who retaliates against the wrongs done to him and conducts himself contrary to the course of action preferred by Allah Ta’ ala will be deprived of His support and help. But this doubt has been allayed in the final part of this verseإِنَّ اللَّـهَ لَعَفُوٌّ غَفُورٌ‌ (22:60) that is, Allah will not punish him for this lapse and will help him if he is subjected to injustice by his oppressors ever again. (Ruh-ul-Ma’ ani)
 
+## AI Translation
+
+To Him belongs whatever is in the heavens and whatever is on the earth. Allah alone is truly the Self-Sufficient, Praiseworthy.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, Allah is the Most Kind and Courteous, Well-Acquainted with all things (63)To Him belongs all that is in the heavens and all that is on the earth.
+
+**Classical tafsir:** Ibn Kathir notes: In the raging sea with its tempestuous waves, the ships sail gently with their passengers and carry them wherever they want to go for trading and other purposes from one land to another, so that they bring goods from here to there, or vice versa, whatever people want or need.
+
+**From the Sunnah:** On the other hand there are several verses which promise Allah's goodwill to those Muslims who bear their sufferings with patience and equanimity and do not seek vengeance from their oppressors.
 ## Personal Reflections
 
 

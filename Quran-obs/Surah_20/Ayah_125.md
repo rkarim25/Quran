@@ -105,6 +105,17 @@ The answer to the question posed above is that the punishment which the evil-doe
 
 Another interpretation given to these words by Sayyidna Said ibn Jubair ؓ is that these people will be deprived of the gift of contentment which will result in an overpowering greed for worldly goods (Mazhari) but no amount of wealth will ever give them peace and content. The constant desire to augment their worldly possessions and the fear of any decrease in their size will always keep them anxious and uneasy. It is generally observed that the wealthy people who have all the means of comfort at their disposal actually are unable to enjoy comfort themselves, because comfort cannot be achieved without content and peace of mind.
 
+## AI Translation
+
+They will cry, “My Rabb! Why have you raised me up blind, although I used to see?”
+
+## AI Tafsir
+
+**Context:** (But whosoever turns away from My Reminder,) This means, "Whoever opposes my command and what I have revealed to My Messenger, then he has turned away from it, neglected it and taken his guidance from other than it."
+
+**What this ayah teaches:** Why have you raised me up blind, while I had sight (before).) This means in the life of this world. Why have you raised me up blind, while I had sight (before).
+
+**Classical tafsir:** Ibn Kathir notes: The Descent of Adam to the Earth and the Promise of Good for the Guided and Evil for the Transgressors Allah says to Adam, Hawwa' and Iblis, "Get down from here, all of you." This means each of you should get out of Paradise.
 ## Personal Reflections
 
 

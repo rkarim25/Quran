@@ -122,6 +122,17 @@ Imam Ahmad recorded from Abu Musa that the Prophet ﷺ said:
 
 In the next verse : ثُمَّ جَعَلْنَاهُ نُطْفَةً (then We made him a sperm-drop) this same point has been mentioned differently. The meaning of all this is that the first life i.e. Sayyidna 'Adam علیہ السلامٍ was created from earth and continued further with the sperm which is a refined element of the same earth. This is how a majority of commentators have explained this verse. Another view is that (extract of clay) may also mean human seed because it is produced from the food which a man takes and the food grows out of the earth.
 
+## AI Translation
+
+then placed each human as a sperm-drop in a secure place,
+
+## AI Tafsir
+
+**What this ayah teaches:** Another view is that (extract of clay) may also mean human seed because it is produced from the food which a man takes and the food grows out of the earth.
+
+**Classical tafsir:** Ibn Kathir notes: Another view is that (extract of clay) may also mean human seed because it is produced from the food which a man takes and the food grows out of the earth.
+
+**From the Sunnah:** from Abu Musa that the Prophet ﷺ said: (Musnad Ahmad) Paradise until there is no more than a forearm's length between him and it, then the decree will overtake him and he will do the deeds of the people of Hell and thus enter Hell. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

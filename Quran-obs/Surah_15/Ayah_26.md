@@ -102,6 +102,15 @@ With this, Al-Qurtubi has also reported the saying of Sayyidn Ka'b ؓ : 'There a
 
 What is apparent here is that real merit does lie in praying in the first row - as stands proved from the clear statements of the Qur'an and Sunnah. But, a person who does not, for some reason, find a place in the first row, then, he too will have a sort of merit in that there may perhaps be some righteous servant of Allah praying in the front rows for whose sake, he too may be forgiven. And the way praying in the first row of Salah stands proved from this verse, also proved is the superiority of being in the front lines of Jihad.
 
+## AI Translation
+
+We created humanity from sounding clay, from moulded mud.
+
+## AI Tafsir
+
+**What this ayah teaches:** And indeed, We created man from dried (sounding) clay of altered mud (26)And the Jinn, We created earlier from the smokeless flame of fire .
+
+**Classical tafsir:** Ibn Kathir notes: The Substances from which Mankind and Jinns were created Ibn 'Abbas, Mujahid and Qatadah said that Salsal means dry mud. They can be accommodated all in one because the all-encompassing knowledge of Allah Ta` ala covers all kinds of people 'who go ahead' or 'remain behind.' In his Tafsir, Al-Qurtubi has said that this verse indicates the merit of performing Salah in the first row, and soon after th…
 ## Personal Reflections
 
 

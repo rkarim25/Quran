@@ -115,6 +115,17 @@ They are unable to create a single fly and, moreover, they are unable to resist 
 
 مَا قَدَرُ‌وا اللَّـهَ حَقَّ قَدْرِ‌هِ (They did not recognize Allah in His true esteem - 22:74). It means that these people are so foolish and ungrateful that they did not recognize the power of Allah Ta’ ala and place their helpless idols at the same level with Him.
 
+## AI Translation
+
+They have not shown Allah the reverence He deserves. Surely Allah is All-Powerful, Almighty.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, Allah is All-Strong, All-Mighty .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** that Abu Hurayrah recorded the Marfu' report: (Musnad Ahmad) This was also recorded by the authors of the Two Sahihs via 'Umarah from Abu Zur'ah from Abu Hurayrah, who said that the Prophet ﷺ said:
 ## Personal Reflections
 
 

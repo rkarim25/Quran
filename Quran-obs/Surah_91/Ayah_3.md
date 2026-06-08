@@ -204,6 +204,17 @@ Zayd then said, "The Messenger of Allah ﷺ used to teach us these (words) and w
 
 وَالنَّهَارِ‌ إِذَا جَلَّاهَا (and by the day when it shows its brightness...91:3). The attached pronoun ha 'its' may possibly refer to the earth or the world, although neither of the nouns precedes it. Such usage in Arabic is commonplace, especially if the phenomenon, such as the earth or the world, with which man is generally familiar. In such a case Arabs commonly refer to the phenomenon simply by using a pronoun without making prior reference to it. The addressee understands the meaning by implication. The Qur'an has many examples of, and bears ample testimony to, this grammatical phenomenon. The verse thus signifies 'by the day and by the world or the earth which the day has brightened up'. In other words, 'by the day when it is fully bright'. Another possibility, which is more pertinent to the context, is that the pronoun 'its' refers to the 'sun' in which case it signifies 'by the day when it brightens up the sun'. This relation of attribution, in this case, would be a metaphorical relationship. Although the sun is usually understood to be the cause of the day to come out, here the day is said to brighten up the sun. Thus the verse would signify 'when the sun is seen brightened up because the day is out.
 
+## AI Translation
+
+By the day as it reveals the sun—
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, 'by the day when it is fully bright'.
+
+**Classical tafsir:** Ibn Kathir notes: This is as Qatadah said, "He cleanses it from the lowly and despicable characteristics." Similar to this has been reported from Mujahid, 'Ikrimah and Sa'id bin Jubayr. Another possibility, which is more pertinent to the context, is that the pronoun 'its' refers to the 'sun' in which case it signifies 'by the day when it brightens up the sun'.
+
+**From the Sunnah:** Both Al-Bukhari and Muslim recorded this Hadith from Abu Hurayrah. (Sahih al-Bukhari, Sahih Muslim) I only asked you about that in order to inform you that a man from Muzaynah or Juhaynah tribe came to the Allah's Messenger ﷺ and asked him:
 ## Personal Reflections
 
 

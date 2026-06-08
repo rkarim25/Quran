@@ -146,6 +146,17 @@ Note
 
 Shah ` Abdul Ghani Phulpuri رحمۃ اللہ علیہ relates from Haji Imdadullah (رح) that anyone who recites the above verse i.e. اللَّـهُ لَطِيفٌ بِعِبَادِهِ يَرْ‌زُقُ مَن يَشَاءُ ۖ وَهُوَ الْقَوِيُّ الْعَزِيزُ seventy times every morning regularly, would be preserved from shortage of sustenance and said that experience has shown it to be very effective.
 
+## AI Translation
+
+Allah is ever kind to His servants. He provides abundantly to whoever He wills. And He is the All-Powerful, Almighty.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah is very Gracious and Kind to His servants.
+
+**Classical tafsir:** Ibn Kathir notes: That is why many meanings of the word latif have been stated in the Tafsir of Qurtubi, all of which are covered by the words ` kind' and ` benefactor'.
+
+**From the Sunnah:** It was recorded in the Sahih that the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

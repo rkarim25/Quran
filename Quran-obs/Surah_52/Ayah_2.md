@@ -148,6 +148,19 @@ Allah said;
 
 وَكِتَابٍ مَّسْطُورٍ‌ فِي رَ‌قٍّ مَّنشُورٍ‌ (and by a book, written on an unrolled scroll....52:2-3) The word raqq means fine parchment or fine piece of skin, used for the purpose of writing on it. It is, therefore, usually translated as paper. Here it could be referring to man's account-book of deeds or, according to some of the scholars, it stands for the Qur'an. (Qurtubi)
 
+## AI Translation
+
+And by a Book written
+
+## AI Tafsir
+
+**Context:** (And by the Book inscribed), it is said that it means Al-Lawh Al-Mahfuz, (the Preserved Table). It is also said that is refers to the divinely revealed inscribed Books that people recite, and this is why Allah said,
+
+**What this ayah teaches:** Here it could be referring to man's account-book of deeds or, according to some of the scholars, it stands for the Qur'an.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** And by Al-Bayt Al-Ma'mur.) In the Two Sahihs it is confirmed that the Messenger of Allah ﷺ said in the Hadith about Al-Isra', after ascending to the seventh heaven:
 ## Personal Reflections
 
 

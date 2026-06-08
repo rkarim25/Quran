@@ -151,6 +151,19 @@ Surah Luqman
 
 Ends here
 
+## AI Translation
+
+The revelation of this Book is, beyond doubt, from the Rabb of all that exists — every realm of creation.
+
+## AI Tafsir
+
+**Context:** There is a reason for this specific treatment and marked attention. Things of the Unseen that one is generally keen to find out are just these five.
+
+**What this ayah teaches:** The revelation of the Book in which there is no doubt, is from the Lord of all that exists.)(3.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the Hadith quoted above means that, no doubt, Allah Ta’ ala has made these five things so exclusive to Himself that no angel or messenger has been given their knowledge even as 'news' of the unseen.
+
+**From the Sunnah:** That the knowledge of the unseen is particular to Allah Ta’ ala in the absolute sense has been explicitly mentioned in this verse - and this has been the belief of the entire Muslim community from the earliest to the succeeding generations.
 ## Personal Reflections
 
 

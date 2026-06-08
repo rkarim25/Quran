@@ -180,6 +180,17 @@ The power and rule, therefore, is a test for the rulers to see how far they have
 
 Abu Hayyan in his Tafsir Al-Bahr-al Muhit has included the following event under the comments on this verse: ` Amr ibn ` Ubaid once visited Mansur, the second caliph of the Abbaside dynasty, prior to his designation to caliphate and recited this verse: 'It is likely that Allah will destroy your enemy and make you successor in the earth.' This was a sort of prediction by ` Amr ibn ` Ubaid of his succession to the throne. Soon after Mansur succeeded to the throne and became the Caliph. ` Amr ibn ` Ubaid came to the Caliph again. Mansur reminded him of the prediction made by him. Amr ibn ` Ubaid instantly answered, "Well, the first part of the prediction has come true and you have become the Caliph, but the second part of it still remains unfulfilled. The verse also contains this phrase, فَیَنظُرَ کَیفَ تَعمَلُون "Then, He will see how you act." Amr ibn ` Ubaid suggested that gaining power is not a matter of pride because thereafter, Allah judges the acts of those in authority and sees how they make use of this trust.
 
+## AI Translation
+
+They complained, “We have always been oppressed—before and after you came to us.” He replied, “Perhaps your Rabb will destroy your enemy and make you successors in the land to see what you will do.”
+
+## AI Tafsir
+
+**Context:** Abu Hayyan in his Tafsir Al-Bahr-al Muhit has included the following event under the comments on this verse: ` Amr ibn ` Ubaid once visited Mansur, the second caliph of the Abbaside dynasty, prior to his designation to c…
+
+**What this ayah teaches:** He had tormented them [killing every newly born male] before Musa was born, so that Musa would not live. Rather, Fir'awn and his people are the mischief-makers, but they did not realize it.
+
+**Classical tafsir:** Ibn Kathir notes: He had tormented them [killing every newly born male] before Musa was born, so that Musa would not live.
 ## Personal Reflections
 
 

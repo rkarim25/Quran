@@ -108,6 +108,17 @@ Good companions are a help in the better performance of worship and Dhikr (remem
 
 كَيْ نُسَبِّحَكَ كَثِيرً‌ا وَنَذْكُرَ‌كَ كَثِيرً‌ا (So that we proclaim Your purity a lot and remember You a lot - 20:33, 34). The advantage of making Sayyidna Harun a Wazir and a partner in prophethood would be that both of them together would be able to pray to Allah Ta` ala and glorify His name more often. Here the question may arise that a man by himself can also pray as often as he desires, so where was the need for a companion? The answer to this is that good companions and a conducive environment definitely contribute towards the better performance of worship and Dhikr. A person whose friends are negligent about Allah cannot devote himself to His worship with the same quality and quantity as the person who is fortunate to have the company of pious men and righteous friends devoted to Allah's worship and Dhikr.
 
+## AI Translation
+
+for truly You have always been overseeing us.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, he was left with the remnants of this accident that took place with his tongue. If he had asked for the removal of his affliction in its entirety, it would have been cured for him.
+
+**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported from Abu Sa'id, from 'Ikrimah, who said that Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
+
+**From the Sunnah:** Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
 ## Personal Reflections
 
 

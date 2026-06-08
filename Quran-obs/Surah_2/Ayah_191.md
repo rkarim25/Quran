@@ -310,6 +310,19 @@ Rulings
 
 2. It also comes out from this verse that the prohibition of initiating Jihad جھاد or Qital قتال is restricted to Al-Masjid al-Haram المسجد الحرام and its environs to which the sacred precincts extend in Makkah. At other places, just as the defensive Jihad جھاد is necessary, the initiating of Jihad جھاد and Qital قتال is also valid.
 
+## AI Translation
+
+Kill them wherever you encounter them and drive them out from where they drove you out. fitnah — trial and turmoil that tests faith — is worse than killing. Do not fight them at the Sacred Mosque unless they attack you there. If they do, then fight them — that is the recompense of those who reject the truth.
+
+## AI Tafsir
+
+**Context:** Abu Al-'Aliyah said, "This was the first Ayah about fighting that was revealed in Al-Madinah. Ever since it was revealed, Allah's Messenger ﷺ used to fight only those who fought him and avoid non-combatants.
+
+**What this ayah teaches:** Whoever entered the (Sacred) Mosque is safe.
+
+**Classical tafsir:** Ibn Kathir notes: Truly, Allah likes not the transgressors.) This Ayah means, 'Fight for the sake of Allah and do not be transgressors,' such as, by committing prohibitions.
+
+**From the Sunnah:** The Command to fight Those Who fight Muslims and killing Them wherever They are found Ever since it was revealed, Allah's Messenger ﷺ used to fight only those who fought him and avoid non-combatants.
 ## Personal Reflections
 
 

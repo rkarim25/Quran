@@ -230,6 +230,17 @@ And then, at the end of the verse, it was said: كَذَٰلِكَ نُخْرِ�
 
 According to a narration of Sayyidna Abu Hurairah ؓ the Holy Prophet ﷺ said: صُور (Sur : Horn) will be blown twice on the day of Qiyamah. On the first صُور Sur, the whole world will perish. Nothing will remain alive. On the second صُور Sur, a new world will come into being. The dead will become alive.' The Hadith also mentions ` an interval of forty years between the two blowings of the صُور Sur and rains would continue to fall throughout these forty years. During this period, the body parts of every dead human being and animal will become assembled into them giving everyone a complete skeleton. Then, at the time of the blowing of the second صُور Sur, رُوح Ruh (soul) will enter these corpses. They will rise alive.' A major portion of this narration can be seen in Al-Bukhari and Muslim. Some portions have been taken from Kitab al-Ba’ th of Ibn Abi Dawud.
 
+## AI Translation
+
+He is the One Who sends the winds ushering in His mercy. When they bear heavy clouds, We drive them to a lifeless land and then cause rain to fall, producing every type of fruit. Similarly, We will bring the dead to life, so perhaps you will be mindful.
+
+## AI Tafsir
+
+**What this ayah teaches:** It is as simple as it can be - when Allah Ta` ala wills, vapours from the waters start rising upwards, turn into clouds and what you have is a sky-filling plane carrying a cargo of hundreds and thousands of gallons of water in its holds flying on the cushion of winds towards higher altitudes!
+
+**Classical tafsir:** Ibn Kathir notes: The verse, thus, means: ` When the winds lifted the heavy clouds up, We drove the clouds to a dead town.' Dead town refers to the habitation rendered desolate because of an scarcity of water.
+
+**From the Sunnah:** They will rise alive.' A major portion of this narration can be seen in Al-Bukhari and Muslim. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

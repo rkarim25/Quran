@@ -292,6 +292,17 @@ Now, concluding our discussion about the meanings of verse 135 in conjunction wi
 
 2. The second element of importance here is that the responsibility of establishing justice and fairness as a way of life has been placed on the shoulders of all human beings. As for the verses from Surah al-Nis-a' and Surah al-Ma` idah wherein, by saying: يَا أَيُّهَا الَّذِينَ آمَنُوا (0 those who believe), the entire Muslim community has been addressed. But, in Surah al-Hadid, by saying: لِيَقُومَ النَّاسُ بِالْقِسْطِ (so that mankind stands firm with justice - 57:25), this duty has been considered binding on all human beings. Similarly, by saying: وَلَوْ عَلَىٰ أَنفُسِكُمْ (even though against yourselves...), instruction has been given that justice is not something to be demanded from others only, instead, it should also be exacted from one's own self. It means that one should say nothing against what is true and just, even when one has to declare something against one's own self, even if such an action is likely to bring loss upon one's person, because this loss is insignificant, tiny and transitory. On the contrary, should someone elect to placate his self by flat lies, then he has bought for himself the severe punishment of the Day of Retribution.
 
+## AI Translation
+
+O you who have iman! Stand firm for justice as witnesses for Allah even if it is against yourselves, your parents, or close relatives. Be they rich or poor, Allah is best to ensure their interests. So do not let your desires cause you to deviate. If you distort the testimony or refuse to give it, then Allah is certainly All-Aware of what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** However, my love for him (the Prophet ﷺ) and hatred for you shall not prevent me from being just with you." On that, they said, "This (justice) is the basis which the heavens and earth were created.
+
+**Classical tafsir:** Ibn Kathir notes: It means that one should say nothing against what is true and just, even when one has to declare something against one's own self, even if such an action is likely to bring loss upon one's person, because this loss is insignificant, tiny and transitory.
+
+**From the Sunnah:** Be just: that is nearer to piety)[5:8] when the Prophet ﷺ sent 'Abdullah bin Rawahah to collect the tax on the fruits and produce of the Jews of Khaybar, they offered him a bribe so that he would go easy on them. In this verse of Surah Al-Nisa', all Muslims have been instructed to uphold justice and be true when appearing as witnesses.
 ## Personal Reflections
 
 

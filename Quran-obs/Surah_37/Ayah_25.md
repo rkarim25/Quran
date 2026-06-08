@@ -81,6 +81,15 @@ Allah tells us what the disbeliever will say on the Day of Resurrection, how the
 
 After that, a command will go forth to angels: فَاهْدُوهُمْ إِلَىٰ صِرَ‌اطِ الْجَحِيمِ (and show them the way to Jahannam - 37:23). When the angels will take them away, and reach close to the Bridge of Sirat, they will be commanded: YP (make them stop - they are to be questioned - 37:24). Thereupon, at this place, they will be questioned about their beliefs and deeds - that have been mentioned in the Qur'an and Hadith at many places.
 
+## AI Translation
+
+Then they will be asked: "What is the matter with you that you can no longer help each other?"
+
+## AI Tafsir
+
+**What this ayah teaches:** The Day of Recompense Allah tells us what the those who reject the truth will say on the Day of Resurrection, how they will blame themselves and admit that they wronged themselves in this world.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

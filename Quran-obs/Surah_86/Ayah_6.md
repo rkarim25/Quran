@@ -148,6 +148,15 @@ If these findings have any value, it is not far-fetched to reconcile them with t
 
 If we analyse the verse of the Qur'an carefully, we notice that it does not specify 'man or woman'. It merely says 'He is created of spouting water that comes out from between the loins and the chest-bones.' This may simply signify that the seminal fluid comes out from the entire body of both men and women. The expression 'the entire body' is understood from the mention of the principal organs of front and back. The front part of the body is chest and the back part of the body is the loin. These are the principal parts of the body. The expression, 'the spouting water that comes out from between the loins and the chest-bones' may mean 'comes out from the entire body'.
 
+## AI Translation
+
+from a spurting, humble fluid
+
+## AI Tafsir
+
+**What this ayah teaches:** It (the fluid) is yellow and fine in texture.
+
+**Classical tafsir:** Ibn Kathir notes: So, let man see from what he is created!)(6.
 ## Personal Reflections
 
 

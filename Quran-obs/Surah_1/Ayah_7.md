@@ -1098,6 +1098,17 @@ To conclude, one must have firm faith in the doctrine that everything that happe
 The problems we have discussed above perplex many a mind. But the answer is essentially simple. Taking prophets and saints as a medium (wasilah) for drawing divine mercy upon oneself is neither absolutely permissible nor absolutely forbidden. There is a condition attached to it. If one does so, believing a prophet or a saint to be all-powerful, it becomes an act of shirk (association) and is hence forbidden. But if one takes a prophet or a saint to be no more than a medium or a means, it is permissible. But one finds that in this matter people generally adopt either of the two extreme positions, outright rejection of wasilah or exaggerated veneration. The truth, however, lies between the two
 6. Success in this world and in the Hereafter As we have said before, the prayer which the Holy Qur'an has chosen to recommend to everyone, in every situation and for everything one does, is the prayer for being guided in the straight path. Just as success in the Hereafter depends on taking the straight path which leads one to Paradise, in the same way, if you come to think about it, success in all worldly concerns too depends on keeping to the straight path -- that is, on using the means and methods which habitually lead to the attainment of one's goal. Conversely, a little reflection will reveal that failure is always due to having strayed from the straight path. In view of the need for the straight path in worldly and other worldly concerns both, this is the prayer which should constantly be on the lips and in the heart of a true Muslim -- never as an empty verbal exercise, but with a sincere intention and with the meaning of the words fully present in the mind. With Allah's help, the commentary on Surah Al-Fatihah ends here.
 
+## AI Translation
+
+The path of those You favoured with guidance—not the path of those who knew the truth and chose resentment, nor of those who lost their way through neglect, distraction, or following every passing voice.
+
+## AI Tafsir
+
+**What this ayah teaches:** The path of those Allah favoured (the prophets and truthful followers), not those who knew truth yet chose resentment, nor those who lost the way through heedlessness.
+
+**Classical tafsir:** Ibn Kathir identifies the two misguided groups as Jews (knowledge without practice) and Christians (practice without knowledge), per authentic reports. The safe path is that of the prophets and their steadfast followers.
+
+**From the Sunnah:** The Fatihah dialogue concludes with Allah granting what was asked (Muslim, Ahmad).
 ## Personal Reflections
 
 

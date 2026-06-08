@@ -80,6 +80,17 @@ This Ayah is general and applies to both humans and Jinns, providing proof that 
 
 ذَوَاتَا أَفْنَانٍ (both having lot of branches...55:48). This describes the first two Gardens. There will be plenty of trees abounding in. branches and consequently their shade will be dense, and the fruits will be in abundance. The other two Gardens are described later. No such qualities are mentioned about them, which may imply their relative deficiency in this quality.
 
+## AI Translation
+
+So which of your Rabb's favours will you both—humans and jinn—deny?
+
+## AI Tafsir
+
+**What this ayah teaches:** But for him who fears the standing before his Lord, there will be two Gardens (46)Then which of the blessings of your Lord will you both deny (47)With Afnān (48)Then which of the blessings of your Lord will you both deny (49)In them (both) will be two springs flowing (free)(50)Then which of the blessings of your Lord will you both den (51)In them (both) will be every kind of fruit in pairs (52)The…
+
+**Classical tafsir:** Ibn Kathir notes: This describes the first two Gardens.
+
+**From the Sunnah:** The Group, with the exception of Abu Dawud, collected this via the Hadith of 'Abdul-'Aziz. (Sunan Abi Dawud)
 ## Personal Reflections
 
 

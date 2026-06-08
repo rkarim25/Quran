@@ -280,6 +280,17 @@ This Hadith has many chains of narration collected in the Sahihs and other colle
 
 إِنَّا أَنشَأْنَاهُنَّ إِنشَاءً (Surely We have created those [ females ] a fresh creation...56:35) The word insha' means 'to create'. The pronoun هُنَّ hunna refers to the women of Paradise, although there is no mention of them in the immediately preceding verses. However, they have been mentioned in connection with 'the Foremost' in distantly foregoing verses [ 22-23]. If the word firash in the foregoing verse (34) refers to the women of Paradise, the antecedent of the pronoun is quite obvious. Likewise, the mention of beds, couches, thrones and other delightful items gives the pronoun the context to refer to women. The meaning of the verse is: 'We have created the Paradisiacal women in a special way, that is, the houris are created without being born biologically, and the women of this world who will enter the Paradise will also be reshaped in a way that the women who were ugly, dark-coloured or old in this world will be made beautiful, young and graceful.' It is recorded in Tirmidhi and Baihaqi on the authority of Sayyidna Anas that the Holy Prophet ﷺ said in explanation of Verse 35 that the women who were old, blear eyed, with gray hair and ugly features in the world will be made beautiful and young in this new creation. Baihaqi also reports from Sayyidah ` A'ishah ؓ that an old lady asked the Messenger of Allah ﷺ to pray to Allah that she may enter Paradise. The Messenger of Allah ﷺ said in a humorous way: لَا تَدخُلُ الجَنَّۃُ عَجُوزُ "Old ladies will not enter Paradise." Hearing this the old lady got very sad, and according to some narrations, started weeping. The Messenger of Allah ﷺ then explained that she would not be old when she would enter Paradise; she would be transformed into a young beautiful woman. Then the Holy Prophet ﷺ recited this verse 35. [ Mazhari ]
 
+## AI Translation
+
+We have created their companions with perfect form,
+
+## AI Tafsir
+
+**What this ayah teaches:** If the word firash in the foregoing verse (34) refers to the women of Paradise, the antecedent of the pronoun is quite obvious.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "Nothing will prevent them from reaching out to get these fruits, no branches, thorns or distance." We mentioned a Hadith before that states that whenever someone takes a fruit in Paradise, another one grows in its place. If the word firash in the foregoing verse (34) refers to the women of Paradise, the antecedent of the pronoun is quite obvious.
+
+**From the Sunnah:** Paradise the shade of which a rider would take one hundred years to pass. (Sahih al-Bukhari, Sahih Muslim) Paradise, the believer will be given such and such strength for women.
 ## Personal Reflections
 
 

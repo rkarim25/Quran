@@ -370,6 +370,19 @@ A doctrinal point
 
 Verse 102 says: "They could not thus do any harm to anyone, except with the permission of Allah". This shows that causes in themselves and by themselves cannot produce the effects one usually associates with them, and it is Allah who creates the effects as much as the causes. (Bayan al-Qur'an)
 
+## AI Translation
+
+If they had believed and lived with taqwa, a better reward from Allah would have awaited them — if only they knew.
+
+## AI Tafsir
+
+**Context:** (And indeed We have sent down to you manifest Ayat) means, "We have sent to you, O Muhammad, clear signs that testify to your prophethood." These Ayat are contained in the Book of Allah (Qur'an) which narrates the secret…
+
+**What this ayah teaches:** There is a difference of opinion regarding this story.
+
+**Classical tafsir:** Ibn Kathir notes: What should I do?" Al-Hasan Al-Basri said that this Ayah means, "The angels were sent with magic, so that the people whom Allah willed would be tried and tested. Therefore, do not fall in disbelief.'" Also, As-Suddi said, "When a man would come to the two angels they would advise him, 'Do not fall into disbelief.
+
+**From the Sunnah:** When Solomon was sent as a Prophet, he collected these books in a box and buried it under his throne; any devil that dared get near the box was burned.
 ## Personal Reflections
 
 

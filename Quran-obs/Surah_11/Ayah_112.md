@@ -123,6 +123,17 @@ And it is also possible that he was not that concerned about his personal stance
 
 After the command to stand firm, it was said: وَلَا تَطْغَوْا is (and do not cross the limits). This word is a derivation from the verbal noun: طغیان (tughy an) which means to cross limits, and which is the opposite of standing firm. It will be noticed that the positive statement to stand firm in the verse has not been considered sufficient, rather, its negative aspect, that of its prohibition, was clarified expressly. This establishes the sense of the verse: ` do not cross the limits set by Allah and His Rasul - in beliefs, acts of worship, transactions, morals etc. - for it was the outlet of all disorder and corruption in material and religious life.
 
+## AI Translation
+
+So be steadfast as you were commanded — you and those who turned with you — and do not transgress. He sees what you do.
+
+## AI Tafsir
+
+**Context:** Sayyidna ` Abdullah ibn ` Abbas ؓ ، said that no verse revealed to the Holy Prophet ﷺ in the entire Qur'an was harder and more trying than this (112).
+
+**What this ayah teaches:** So stand (ask Allah to make) you firm and straight as you are commanded and those who turn in repentance with you, and transgress not. Perhaps, it was because the verse did not ask him to stand firm in an absolute sense, instead, asked him that this act of standing firm should be as commanded by Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the Holy Prophet ﷺ has very emphatically prohibited his community from indulging in self-innovated ways in established religion (bid'at and muhdathat) and has declared that to be acute error and straying.
 ## Personal Reflections
 
 

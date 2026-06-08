@@ -201,6 +201,17 @@ Really and truly, coercion and compulsion to make one accept a faith are not pos
 
 Faith). (Mazhari, Qurtubi)
 
+## AI Translation
+
+There is no compulsion in deen — the truth stands clear from falsehood. Whoever rejects false gods and believes in Allah has grasped the firmest handhold that never breaks. Allah is All-Hearing, All-Knowing.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, there is no need to force anyone to embrace Islam.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, there is no need to force anyone to embrace Islam.
+
+**From the Sunnah:** the Messenger of Allah ﷺ said to a man, (Musnad Ahmad) to the man that even though he dislikes embracing Islam, he should still embrace it, 'for Allah will grant you sincerity and true intent. (Sahih Muslim, Musnad Ahmad)
 ## Personal Reflections
 
 

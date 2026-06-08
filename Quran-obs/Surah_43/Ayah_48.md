@@ -91,6 +91,15 @@ Commentary
 
 Incidents related to Sayyidna Musa (علیہ السلام) have been stated by the Qur'an at many places repeatedly, and the incidents referred to in the present verses have been described in detail in Surah Al-A` raf. The reason for reminding these incidents here is to show that the objection of the infidels of Makkah that the Holy Prophet ﷺ is not a wealthy man is not a new objection; Fir'aun had expressed the same doubt against Sayyidna Musa (علیہ السلام) and his prophethood. His contention was that being the ruler of Egypt, and owner of the palaces and rivers flowing beneath them, how could Musa (علیہ السلام) claim to be a prophet against him. But just as Fir'aun's disbelief could be of no avail to him, and he got drowned along with his people, this objection of 'kuffar' of Makkah, too, will not save them from the divine punishment in this world, or in the Hereafter.
 
+## AI Translation
+
+although every sign We showed them was greater than the one before. Ultimately We seized them with torments so that they might return to the Straight Path.
+
+## AI Tafsir
+
+**What this ayah teaches:** He sent him with mighty signs, such as his hand and his staff, other signs such as the flood, locusts, Qummal, frogs and blood, and the loss of their crops and lives. Allah sent him to call them to worship Allah alone, with no partner or associate, and to forbid them from worshipping anything other than Him.
+
+**Classical tafsir:** Ibn Kathir notes: Invoke your Lord for us because of His promise to you.
 ## Personal Reflections
 
 

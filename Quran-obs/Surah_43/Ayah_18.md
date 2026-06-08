@@ -130,6 +130,15 @@ And Allah says in this Ayah, after mentioning this argument of theirs:
 
 وَهُوَ فِي الْخِصَامِ غَيْرُ‌ مُبِينٍ (and who cannot express themselves in debate clearly - 18). This reflects the reality that a great majority of women do not have the same ability as men to express their feelings clearly. Therefore, if it comes to argumentation, it is difficult for them to prove their own contention and to refute the other's arguments in a clear manner. But this applies to the majority. If some women are eloquent in their speech and excel even men in this regard, it does not go against this verse, because the rule applies to the majority, and not to every single individual.
 
+## AI Translation
+
+Do they attribute to Him those brought up in fineries who are not commanding in disputes?
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, man is indeed a manifest ingrate (15)Or has He taken daughters out of what He has created, and He has selected for you sons (16)And if one of them is informed of the news of that which he sets forth as a parable to the ar-Rahman, his face becomes dark, and he is filled with grief (17)A creature who is brought up in adornments, and who in dispute cannot make itself c…
+
+**Classical tafsir:** Ibn Kathir notes: They do nothing but lie!) Mujahid said, "They do not appreciate the power of Allah." As such, there is consensus on this issue, but at the same time the manner of speech indicates that getting so much involved in adornment that one is busy in it the whole day long, is not proper; it is not only a symptom of one's being short-sighted, but also a cause of it.
 ## Personal Reflections
 
 

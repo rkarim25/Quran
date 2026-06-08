@@ -86,6 +86,17 @@ Apparently it is elucidated in this verse that Bani Isra'il were made the owners
 
 Sayyidna Qatadah ؓ has explained the situation in another way. He says that although all the Qur'anic verses which have quoted this incident, for instance, verses 128 and 137 of Surah Al-A` raf, 5 of Surah Al-Qassas, 25 to 28 of Surah Ad-Dukhan, and the verse under reference of Surah Ash-Shu'ara', invite the attention to the point that Bani Isra'il were given the custody of that very wealth and property which the people of the Pharaoh had left in Egypt, for which it was necessary for the Bani Isra'il to return to Egypt to take possession. But all these verses can be interpreted to mean that Bani Isra'il were given the wealth and property equal and similar to that which was possessed by the Pharaoh's people. For this it was not necessary that the same lands and wealth of Egypt are given to Bani Isra'il. These bounties might have been granted in Syria. This interpretation is more likely in the verse of Surah Al-A` raf where the land possessed by Bani Isra'il is referred to by the words, الَّتِي بَارَ‌كْنَا فِيهَا (i.e. the land blessed by Us) because the word Barakna is used for the land of Syria in many verses of the Qur'an. Therefore, Sayyidna Qatadah ؓ has opined that it is not correct to attribute Qur'anic verses toward something which is in conflict with the history. The gist of the whole explanation is that if it is established through proved facts that Bani Isra'il did not occupy the land of Egypt at any time after the death of the Pharaoh, then according to explanation of Sayyidna Qatadah ؓ the land of Syria is purported for the wealth and property which was granted to Bani Isra'il. (Only God knows best)
 
+## AI Translation
+
+And so they pursued them at sunrise.
+
+## AI Tafsir
+
+**Context:** So, they pursued them at sunrise (60)And when the two hosts saw each other, the companions of Musa said: "We are sure to be overtaken. (61)(Musa) said: "Nay, verily with me is my Lord. He will guide me.
+
+**What this ayah teaches:** the land blessed by Us) because the word Barakna is used for the land of Syria in many verses of the Qur'an.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ata' Al-Khurasani said, "It refers to a pass between two mountains." Ibn 'Abbas said, "The sea divided into twelve paths, one for each of the tribes." As-Suddi added, "And in it there were windows through which they could see one another, and the water was erected like walls." Allah sent the wind t…
 ## Personal Reflections
 
 

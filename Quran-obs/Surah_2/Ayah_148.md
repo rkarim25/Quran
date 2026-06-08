@@ -158,6 +158,17 @@ Injunctions and related considerations
 
 In short, Verse 148 has, according to a consensus of all the Fugaha', established the principle that when the time for offering a prescribed prayer has arrived, one should not delay it without a valid excuse, which may either be a clear-cut specification in the Shari'ah (as we have just defined), or a physical disability, like illness, etc.
 
+## AI Translation
+
+Each community has its direction to which it turns. So compete in doing good. Wherever you are, Allah will bring you all together. Allah is capable of everything.
+
+## AI Tafsir
+
+**What this ayah teaches:** What these men of good will tend to ignore is the elementary fact that the Word of Allah cannot be subservient to the rules of philosophical or literary composition, and that the reiteration of words and phrases, even of a sequence of sentences, is a regular mode of expression common to all the Sacred Books of the world.
+
+**Classical tafsir:** Ibn Kathir notes: Verse 149 repeats the commandment with the addition of the phrase "from wheresoever you set out", which shows that the injunction now refers to the state of a journey.
+
+**From the Sunnah:** Anyhow, once the divine commandment has been promulgated, the Muslims need not worry about the objections or the ridicule of others, but should, above all, concern themselves with the performance of good deeds (as defined by Allah and His Prophet ﷺ).
 ## Personal Reflections
 
 

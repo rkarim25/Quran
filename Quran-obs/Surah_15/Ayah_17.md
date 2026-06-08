@@ -70,6 +70,17 @@ Commentary
 
 The word: بُرُ‌وجًا ; is the plural of: بُرُج (burj) which is applied to big palaces and castles and to similar other structural entities. Tafsir authorities Mujahid, Qatadah, Abu Salih and others have explained 'buruj' at this place in the sense of big stars. As for the statement in this verse which points to the creation of these big stars in the sky, the word: السَّمَاءِ (as-sama’) sky means atmosphere which, in common modern day terminology, is called the 'space.' The application of 'as-sama" in both these senses is common, and recognized. Thus, the physical presence of deep space is identified as 'as-sama" and the atmosphere much lower than it has also been repeatedly termed as 'as-sama" in the Holy Qur'an. As for the planets and stars being in the space, and not in the skies, the relevant investigative details, as coordinated with the verses of the Qur’ an and classical and modern astronomy, will Insh’ Allah appear under our comments on the verse: تَبَارَ‌كَ الَّذِي جَعَلَ فِي السَّمَاءِ بُرُ‌وجًا وَجَعَلَ فِيهَا سِرَ‌اجًا وَقَمَرً‌ا مُّنِيرً‌ا (Blessed is He Who made in the sky stellar formations and made in it the Sun and the Moon providing light) of Surah Al-Furqan (25 :61).
 
+## AI Translation
+
+And We protected it from every accursed devil,.
+
+## AI Tafsir
+
+**What this ayah teaches:** And indeed, We have put the big stars in the heaven and We beautified it for the beholders (16)And We have guarded it (near heaven) from every outcast Shaytan (devil)(17)Except him (devil) who steals the hearing, then he is pursued by a clear flaming fire (18)And We have spread out the earth, and have placed firm mountains in it, and caused all kinds of things to grow in it, in due proportion (19)…
+
+**Classical tafsir:** Ibn Kathir notes: Here, Mujahid and Qatadah said that Buruj [big stars] refers to the heavenly bodies.
+
+**From the Sunnah:** Explaining this Ayah, Al-Bukhari reported from Abu Hurayrah that the Prophet ﷺ said: (Sahih al-Bukhari) This was also the opinion of Sa'id bin Jubayr, 'Ikrimah, Abu Malik, Mujahid, Al-Hakim bin 'Utaybah, Al-Hasan bin Muhammad, Abu Salih and Qatadah. (al-Mustadrak)
 ## Personal Reflections
 
 

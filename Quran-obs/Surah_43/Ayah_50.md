@@ -65,6 +65,15 @@ Commentary
 
 Incidents related to Sayyidna Musa (علیہ السلام) have been stated by the Qur'an at many places repeatedly, and the incidents referred to in the present verses have been described in detail in Surah Al-A` raf. The reason for reminding these incidents here is to show that the objection of the infidels of Makkah that the Holy Prophet ﷺ is not a wealthy man is not a new objection; Fir'aun had expressed the same doubt against Sayyidna Musa (علیہ السلام) and his prophethood. His contention was that being the ruler of Egypt, and owner of the palaces and rivers flowing beneath them, how could Musa (علیہ السلام) claim to be a prophet against him. But just as Fir'aun's disbelief could be of no avail to him, and he got drowned along with his people, this objection of 'kuffar' of Makkah, too, will not save them from the divine punishment in this world, or in the Hereafter.
 
+## AI Translation
+
+But as soon as We removed the torments from them, they broke their promise.
+
+## AI Tafsir
+
+**What this ayah teaches:** On each occasion, they promised Musa that if the torment was lifted from them, they would believe in him and let the Children of Israel go with him, but on each occasion they went back on their word.
+
+**Classical tafsir:** Ibn Kathir notes: Invoke your Lord for us because of His promise to you.
 ## Personal Reflections
 
 

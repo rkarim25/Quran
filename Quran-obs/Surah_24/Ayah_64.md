@@ -192,6 +192,17 @@ Surah An-Nur
 
 Ends here.
 
+## AI Translation
+
+Surely to Allah belongs whatever is in the heavens and the earth. He knows well what you stand for. And on the Day all will be returned to Him, He will inform them of what they did. For Allah has perfect knowledge of all things.
+
+## AI Tafsir
+
+**What this ayah teaches:** And He knows whatever there is in the land and in the sea; not a leaf falls, but He knows it.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, call him by an honorific form of address such as ` Ya Rasul Allah i.e.
+
+**From the Sunnah:** In the final analysis it is obligatory on all Muslims to have respect and veneration for the Holy Prophet ﷺ and to avoid all such things which are in conflict with respect and etiquette, or which may cause inconvenience to the Holy Prophet ﷺ . It has also been inferred from the second explanation that as a common etiquette it is incumbent upon Muslims to pay respect to the elders, and to call them by their names is disrespect.
 ## Personal Reflections
 
 

@@ -118,6 +118,17 @@ The Commentary on
 
 Surah Al-Buruj Ends here
 
+## AI Translation
+
+while Allah encompasses them from every side.
+
+## AI Tafsir
+
+**What this ayah teaches:** The those who reject the truth (persisted) in denying (19)And Allah encompasses them from behind (20)Nay!
+
+**Classical tafsir:** Ibn Kathir notes: It signifies that they will be put into Hell and will have to suffer eternal torment of the fire.
+
+**From the Sunnah:** After that the fire flared up so high that it spread out wildly through the city and burned all those who were watching the fun of burning the Muslims.
 ## Personal Reflections
 
 

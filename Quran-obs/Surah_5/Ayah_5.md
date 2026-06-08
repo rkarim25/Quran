@@ -359,6 +359,19 @@ The injunction that governs them is like that of their forefathers. This conditi
 In recapitulation, it can be said that in the sight of the learned elders of the Muslim Community who have permitted the consumption of animals slaughtered by the People of the Book - those upon which the name of Allah was not invoked, rather, invoked thereupon was a name other than that of Allah - it was clear that these things are an integral part of the real faith of the People of the Book and are equally unlawful there. But, these learned elders allowed the erring masses also to be governed by the injunction which applies to the original People of the Book. It was for this reason that they allowed the animals slaughtered by the People of the Book to be taken as lawful. On the other side, the majority of the Sahabah, Tabi` in and Mujtahid Imams noticed that the animals slaughtered by the misled masses among the People of the Book, whether in a name other than that of Allah or without the name of Allah, were after all against the Islamic injunction but, in addition to that, the practice was against the current faith of the Christians themselves. Therefore, what they do should not affect the standing injunctions. So, they gave the verdict that the animals slaughtered by such people are not included under 'the food of the People of the Book' and, as such, there is no reason to support its lawfulness. Also, the act of going by the saying that their own wrong doing had caused particularization or abrogation in the verses of the Qur'an is not correct in any manner whatsoever.
 Therefore, all leading authorities in Tafsir - Ibn Jarir, Ibn Kathir, Abu Hayyan and others - are unanimous in holding that there was no abrogation (Naskh) in the verses of Surah al-Baqarah and Surah al. An'-am. This is also the favoured position of the majority of Sahabah and Ta
 
+## AI Translation
+
+Today all good, pure foods have been made lawful for you. Similarly, the food of the People of the Book is permissible for you and yours is permissible for them. And permissible for you in marriage are chaste women who have iman as well as chaste women of those given the Scripture before you—as long as you pay them their dowries in wedlock, neither fornicating nor taking them as mistresses. And whoever rejects iman, all their good deeds will be void and in the Akhirah they will be among the losers.
+
+## AI Tafsir
+
+**Context:** Ibn Abi Hatim recorded that Abu Malik Al-Ghifari said that Ibn 'Abbas said that when this Ayah was revealed, (And do not marry idolatresses till they believe,)[2:221] the people did not marry the pagan women.
+
+**What this ayah teaches:** This ruling, that the slaughtered animals of the People of the Book are permissible for Muslims, is agreed on by the scholars, because the People of the Book believe that slaughtering for other than Allah is prohibited.
+
+**Classical tafsir:** Ibn Kathir notes: This ruling, that the slaughtered animals of the People of the Book are permissible for Muslims, is agreed on by the scholars, because the People of the Book believe that slaughtering for other than Allah is prohibited.
+
+**From the Sunnah:** This ruling, that the slaughtered animals of the People of the Book are permissible for Muslims, is agreed on by the scholars, because the People…
 ## Personal Reflections
 
 

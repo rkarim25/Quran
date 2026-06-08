@@ -172,6 +172,15 @@ meaning, 'so that We may bring out great abundance, goodness, benefit, and bless
 
 Then the Holy Qur'an has pointed to different demonstrations of His power to prove that it is not impossible for Allah to destroy this entire world and re-create it once again. Reference is made to the creation of earth, mountains, human beings, males and females and the creation of suitable conditions for human life, health and activities. One of the things mentioned in this connection is:
 
+## AI Translation
+
+created you in pairs,
+
+## AI Tafsir
+
+**What this ayah teaches:** This is so that it may be suitable for dwelling and not quake with those who are in it. In other words, when they die, they will discover the realities of the next world.
+
+**Classical tafsir:** Ibn Kathir notes: This is so that it may be suitable for dwelling and not quake with those who are in it.
 ## Personal Reflections
 
 

@@ -363,6 +363,17 @@ Here are some injunctions relating to the apostates:
 
 4. In short, the fate of an apostate is worse than that of an original disbeliever. This is why Jizyah جزیہ can be accepted from an original disbeliever while a male apostate who does not return to Islam is killed. If the apostate is a woman, she is imprisoned for life. The reason is that their conduct insults Islam and the insult of such a binding authority deserves no less a punishment.
 
+## AI Translation
+
+They ask you about fighting in the sacred months. Say, "Fighting in them is a grave offence, but blocking Allah's path, rejecting Him, and expelling worshippers from the Sacred Mosque is graver with Allah. fitnah is worse than killing." They will not stop fighting you until they turn you from your deen if they can. Whoever among you turns back from iman and dies rejecting — their deeds are void in this life and the Akhirah. They are the people of the Fire, remaining forever.
+
+## AI Tafsir
+
+**Context:** The people continued talking about this matter, then Allah revealed to His Messenger ﷺ: Ibn Ishaq went on: When 'Abdullah bin Jahsh and his companions were relieved from their depressing thoughts after the Qur'an was rev…
+
+**What this ayah teaches:** Say, "Fighting therein is a great (transgression) but a greater (transgression) with Allah is to prevent mankind from following the way of Allah, to disbelieve in Him, to prevent access to Al-Masjid Al-Haram (at Makkah), and to drive out its inhabitants, and Al-Fitnah is worse than killing." And they will never cease fighting you until they turn you back from your religion (Isl…
+
+**Classical tafsir:** Ibn Kathir notes: Of the verse relating to fighting, this verse was the last one to be revealed and the Address of the Last Hajj which was delivered only 80 days before the Holy Prophet ﷺ passed away clearly indicates the sanctity…
 ## Personal Reflections
 
 

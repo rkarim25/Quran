@@ -118,6 +118,17 @@ The word خَنَّاسِ khannas is derived from khanasa which means 'to sneak,
 
 "Allah has built two houses in the heart of man, in one of which an angel resides and in the other the Shaitan. The angel urges him to do good works and the Shaitan induces him to do evil works. When man remembers Allah, the Shaitan withdraws. And when he stops remembering Allah, the Shaitan perches on the heart of man and pecks with his beak to whisper into it to do evil things." [ Transmitted by Abu Ya` la on the authority of Anas ؓ ، as quoted by Mazhari ].
 
+## AI Translation
+
+Who whispers into the hearts of people—among jinn and among humans—through suggestion, propaganda, envy, and the quiet narratives that reshape conscience without announcement.
+
+## AI Tafsir
+
+**What this ayah teaches:** This is because they (the Jinns) are also included in the usage of the word An-Nas (the people) in most cases. Therefore, He commands whoever is seeking protection to seek refuge with the One Who has these attributes from the evil of the whisperer who withdraws.
+
+**Classical tafsir:** Ibn Kathir notes: This is because they (the Jinns) are also included in the usage of the word An-Nas (the people) in most cases.
+
+**From the Sunnah:** It is also confirmed in the Two Sahihs from Anas, who reported the story of Safiyyah when she came to visit the Prophet ﷺ while he was performing I'tikaf, that he went out with her during the night to walk her back to her house.
 ## Personal Reflections
 
 

@@ -296,6 +296,15 @@ In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَك
 
 So, whatever good there is in gratitude, that is for you alone. There-fore, when you are asked to be grateful by Allah Ta’ ala, there is no gain for Him in doing so. In fact, it is His infinite mercy reaching out to you in your interest.
 
+## AI Translation
+
+Satan will say after judgment: "Allah gave you a true promise. I made you a promise too, but I failed you. I had no authority over you—I only called you, and you answered. Do not blame me; blame yourselves. I cannot save you, nor can you save me. I reject your past association of me with Allah. The wrongdoers will suffer painful punishment."
+
+## AI Tafsir
+
+**What this ayah teaches:** I had no authority over you except that I called you, and you responded to me.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

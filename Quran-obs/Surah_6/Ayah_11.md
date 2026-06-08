@@ -131,6 +131,15 @@ After having answered all these hostile questions, solace has been given to the 
 
 In short, the Holy Prophet ﷺ has been assured that his mission is to convey the commandments of Allah. Once he feels he has done that, let his heart be at rest. Whether someone is affected by the message or not, that is not for him to worry about - for it is not a part of his duty as a Messenger of Allah. So, let this concern bring no sorrow to his heart.
 
+## AI Translation
+
+Say, “Travel throughout the land and see the fate of the deniers.”
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, it means ` If We do send the miracle they demand, that is, send an angel, then, these people who are not the kind who would accept truth will still act contrary and hostile even after having seen the miracle, then, the Divine command to have them destroyed would stand activated.
+
+**Classical tafsir:** Ibn Kathir notes: In other words, it means ` If We do send the miracle they demand, that is, send an angel, then, these people who are not the kind who would accept truth will still act contrary and hostile even after having seen the miracle, then, the Divine command to have them destroyed would s…
 ## Personal Reflections
 
 

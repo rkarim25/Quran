@@ -103,6 +103,17 @@ At this place, by mentioning the skies, the stars and the meteors, two objective
 
 In addition to that, also refuted here is the objection of those who used to degrade the Divine revelation (wahy) sent to the Holy Prophet ﷺ as the predictions of the soothsayers. These verses clearly indicate that the noble Qur'an rejects the soothsayers for the sum-total of their information is what they receive through the shaitans. And the Qur'an says that the shaitans do not have access to the higher echelons. They cannot bring back the true information out of what remains in the realm of the Unseen (alghayb). When the Qur'an states this as its creed relating to soothsaying, how can it become soothsaying as such? Thus, these verses carry clear hints to the subject of Allah's Oneness and the veracity of the mission of the prophet. Later on, through the example of these very cosmic creations, the belief in the Hereafter has been proved.
 
+## AI Translation
+
+fiercely driven away. And they will suffer an everlasting torment.
+
+## AI Tafsir
+
+**What this ayah teaches:** They cannot listen to the Upper Realm and are hit from every side, to be driven off, and for them there is a lasting punishment, (however, if one snatches a little bit, he is pursued by a bright flame - 37:10).
+
+**Classical tafsir:** Ibn Kathir notes: If some Shaitan picks up even a part of their conversation, and tries to decamp with it, he is hit by a blazing flame, so that he remains unable to pass on this information to his devotees among soothsayers in the world.
+
+**From the Sunnah:** When the Messenger of Allah ﷺ was sent, if a Shaytan wanted to take his seat in the heavens, the flaming fire would come and would not miss him; it would burn him every time.
 ## Personal Reflections
 
 

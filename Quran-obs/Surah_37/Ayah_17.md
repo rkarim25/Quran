@@ -88,6 +88,15 @@ In response, Sayyidna Musa (علیہ السلام) had shown the miracle of his 
 
 In addition to that, it has been the customary practice of Allah Ta’ ala that, once some people were granted the miracle they had asked for - and they still failed to believe - then, they were destroyed through a mass punishment. But, in view of the intended survival of the community of the Holy Prophet and with the objective of keeping it safe from any mass punishment, no such miracle on demand was shown before it.
 
+## AI Translation
+
+And our forefathers as well?"
+
+## AI Tafsir
+
+**What this ayah teaches:** And place after place in the Qur'an, the word: v i (ayat) has appeared in the sense of mu jizah or miracle. If anyone still refuses to accept the true message conveyed by him, then, coming up with a new miracle everyday is counter to the dignity of the prophet, as well as counter to the will of Allah Ta’ ala.
+
+**Classical tafsir:** Ibn Kathir notes: And place after place in the Qur'an, the word: v i (ayat) has appeared in the sense of mu jizah or miracle.
 ## Personal Reflections
 
 

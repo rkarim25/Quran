@@ -205,6 +205,17 @@ Allah mentions the first Messenger who was sent after Adam, that is, Nuh, peace 
 
 Be that as it may, the pagans of Makkah and the infidels of the early ages, both demanded that their prophets should also follow the misguidance they themselves had adopted. Therefore the Holy Prophet ﷺ has been addressed in the following verse as follows:
 
+## AI Translation
+
+They did not split into sects out of mutual envy until knowledge came to them. Had it not been for a prior decree from your Lord for an appointed term, the matter would have been settled between them at once. Surely those who inherited the Scripture after them are truly in alarming doubt about this Quran.
+
+## AI Tafsir
+
+**Context:** He (Allah) has ordained for you the same religion which He ordained for Nuh, and that which We have revealed to you, and that which We ordained for Ibrahim, Musa and 'Isa saying you should establish religion and make no…
+
+**What this ayah teaches:** And had it not been for a Word that went forth before from your Lord for an appointed term, the matter would have been settled between them.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore the Holy Prophet ﷺ has been addressed in the following verse as follows:
 ## Personal Reflections
 
 

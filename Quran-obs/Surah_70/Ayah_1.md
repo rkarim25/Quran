@@ -168,6 +168,17 @@ The result of this demand was that Nadr Ibn Harith was killed by Muslims in the 
 
 The word ma’ arij is the plural of mi` raj or mi'raj. It means a 'ladder or a staircase, having steps for reaching high places. The Divine attribute given in this verse as 'dhil-ma’ arij' [ Lord of the stairways ] means that He is the Lord of high degrees. This is the interpretation given by Said Ibn Jubair. Sayyidna Ibn Masud ؓ says that these stairways or higher rungs are seven heavens one above another, and 'dhil-ma’ arij' means 'dhis-samawat', that is to say, malik-us-samawat [ Lord of the heavens ].
 
+## AI Translation
+
+A challenger has demanded a punishment bound to come
+
+## AI Tafsir
+
+**What this ayah teaches:** The Qur'an, further setting down the factual position of the demanded punishment, says that the punishment is inevitable and will most certainly occur in this world or in the Hereafter or in both the worlds.
+
+**Classical tafsir:** Ibn Kathir notes: It could also be referring to the name of the souls (Arwah) of the Children of Adam (humans).
+
+**From the Sunnah:** Then the man said, 'O Abu Hurayrah what is this?' Abu Hurayrah replied, 'I heard the Messenger of Allah ﷺ say, In this narration (of Ahmad) the Prophet ﷺ also added,
 ## Personal Reflections
 
 

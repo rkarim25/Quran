@@ -172,6 +172,15 @@ The Arabs have a name for each set of three nights in a month, according to the 
 
 In verse 37, it was said: وَآيَةٌ لَّهُمُ اللَّيْلُ نَسْلَخُ مِنْهُ النَّهَارَ‌ (And a sign for them is the night. We strip the [ cover on day from it, and they are suddenly in darkness.). After having described the signs of Divine power in what was created on the earth, the text mentions cosmic creations. The word: سَلخ (salkh) literally means to skin. If the skin from an animal or the cover from things is removed, the thing inside becomes obvious. Allah Ta’ ala has, in this similitude, pointed out that the real element in this world is darkness. Light is transitory, for it spreads over the earth through planets and stars. In a predetermined system, at a fixed time, this light that is spread over the darkness of the world is removed from on top. What remains is darkness. This, in common parlance, is called night.
 
+## AI Translation
+
+There is also a sign for them in the night: We strip from it daylight, then—behold!—they are in darkness.
+
+## AI Tafsir
+
+**What this ayah teaches:** In a predetermined system, at a fixed time, this light that is spread over the darkness of the world is removed from on top.
+
+**Classical tafsir:** Ibn Kathir notes: Dar'a' refers to the black sheep, i.e., the one whose head is black; the next three nights Zulam; then Hanadis, then Da'adi; then Mihaq, because of the absence of moonlight at the beginning of the month.
 ## Personal Reflections
 
 

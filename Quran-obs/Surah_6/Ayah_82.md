@@ -184,6 +184,19 @@ Said in this verse وَلَمْ يَلْبِسُوا إِيمَانَهُم بِ
 
 We also come to know from this verse that Shirk is not restricted to becoming a Mushrik or idolater. In fact, also Mushrik is a person who does not worship idols in the customary sense, but recites the Kalimah of Islam, yet takes some angel or messenger or waliy or ‘saint’ of Allah as partners or sharers in some exclusive attributes of Allah. This verse carries a stern warning for those who take the Aulia' of Allah (The Men of Allah) and their Mazars (resting places, tombs) as capable of answering their prayers and granting their needs, and go as far as believing practically as if the Divine powers have been delegated to them. Refuge with Allah!
 
+## AI Translation
+
+It is those who are faithful and do not tarnish their faith with falsehood who are guaranteed security and are guided.
+
+## AI Tafsir
+
+**Context:** (Verily! Joining others in worship with Allah is a great Zulm (wrong) indeed.)[31:13], was later revealed." Imam Ahmad recorded that 'Abdullah said, "When this Ayah was revealed, In the first (82) of the present verses,…
+
+**What this ayah teaches:** If you but know.) means, which of the two parties is on the truth, those who worship Him in Whose Hand is harm and benefit, or those who worship what cannot bring harm or benefit, without authority to justify worshipping them?
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, how can I ever consider your misguided statements and false doubts?
+
+**From the Sunnah:** And who among us did not commit Zulm against himself? Joining others in worship with Allah is a great Zulm (wrong) indeed.)[31:13], was later revealed." Imam Ahmad recorded that 'Abdullah said, "When this Ayah was revealed, (Musnad Ahmad)
 ## Personal Reflections
 
 

@@ -188,6 +188,17 @@ The preceding verses mentioned that the Qur’ an is exalted and that belief in 
 
 First a question is raised: '0 man! Consider what Allah has created you from?' Since its reply is so obvious that there can be no other reply, the next verse itself says: 'From a drop of semen!' Thus the verse draws pointed attention to the very humble beginning of man, so that it may be brought home to him that Allah having created him from such an insignificant thing as a sperm-drop, created him and proportioned him:
 
+## AI Translation
+
+From what did He create them?
+
+## AI Tafsir
+
+**What this ayah teaches:** Consider what Allah has created you from?' Since its reply is so obvious that there can be no other reply, the next verse itself says: 'From a drop of semen!' Thus the verse draws pointed attention to the very humble beginning of man, so that it may be brought home to him that Allah having created him from such an insignificant thing as a sperm-drop, created him and proportione…
+
+**Classical tafsir:** Ibn Kathir notes: Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them.
+
+**From the Sunnah:** The ` ulama' (knowledgeable persons) of the Muslim community' are also included in this term, because they too are envoys between the Holy Prophet and the Muslim community. (Sahih Muslim)
 ## Personal Reflections
 
 

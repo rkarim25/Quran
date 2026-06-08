@@ -191,6 +191,17 @@ To explain, it can be said that the human self when on its own does incite to ev
 
 At the end of the verse (53), it was said: إِنَّ رَ‌بِّي غَفُورٌ‌ رَّ‌حِيمٌ (Certainly, my Lord is the Most-Forgiving, Very-Merciful) which has a hint in the word: غَفُورٌ‌ Ghafur: Most-Forgiving. When the self that incites to evil deeds ( ‘Ammarah) is ashamed of its doings, repents, corrects and becomes the reproaching self (Lawwamah), then, certainly great is the forgiveness of Allah - He will forgive. The word: رَحِیم (Rahim : Very-Merciful) indicates that a person who is blessed with a self at peace (Mutma'innah), that too is nothing but a result of the mercy of Allah.
 
+## AI Translation
+
+I do not claim my nafs — my inner self — is innocent. The nafs indeed commands evil, except those my Rabb has mercy upon. My Rabb is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** And the king said: "Bring him to me." But when the messenger came to him, [Yusuf] said: "Return to your king and ask him, 'What happened to the women who cut their hands Surely, my Lord (Allah) is Well-Aware of their plot.' (50)(The king) said (to the women): "What was your affair when you did seek to seduce Yusuf" The women said: "Allah forbid!
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, he expressly confessed that he did not totally absolve his inner self from blame.
+
+**From the Sunnah:** If I were to stay in prison for such a long time as Yusuf did, I would have accepted the offer.) In another narration collected by Ahmad from Abu Hurayrah, the Prophet ﷺ said about Yusuf's statement,
 ## Personal Reflections
 
 

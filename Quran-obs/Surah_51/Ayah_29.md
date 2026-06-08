@@ -138,6 +138,15 @@ The three angels; Jibril, Mika'il and Israfil came to Ibrahim in the image of ha
 
 فَأَقْبَلَتِ امْرَ‌أَتُهُ فِي صَرَّ‌ةٍ (So his wife came forward with a clamour,...51:29). The word sarrah means vociferation or clamour or most vehement clamour of crying. Sarir is the sound of a pen when it is writing. When Sayyidah Sarah ؓ heard that the angels were giving good news to her husband Ibrahim (علیہ السلام) of the birth of a son, she thought that this news was as good to her as it was to her husband, for the son would be theirs, and therefore, they both were getting some good news. As a result, she involuntarily screamed loudly, she struck herself upon her forehead as women do when confronted with an amazing thing and said: and slapped her own face and said, عَجُوزٌ عَقِيمٌ "A barren old woman?" meaning 'How can I give birth while I am an old woman? And even when I was young I was barren and could not have children.' The angels replied that Allah has power over all things and therefore this would happen even so: "This is how your Lord has said." Thus when Holy Prophet Ishaq (علیہ السلام) was born, Sayyidah Sarah ؓ was ninety-nine years old and Holy Prophet Ibrahim (علیہ السلام) was one hundred years old. (Qurtubi)
 
+## AI Translation
+
+His wife came forward with a cry, striking her face in astonishment: A child from a barren old woman?
+
+## AI Tafsir
+
+**What this ayah teaches:** Shall I bear a child while I am an old woman, and here is my husband an old man?
+
+**Classical tafsir:** Ibn Kathir notes: The word sarrah means vociferation or clamour or most vehement clamour of crying.
 ## Personal Reflections
 
 

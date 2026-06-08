@@ -120,6 +120,15 @@ When the calamities fall, they are meant for trial and test for some good people
 
 Sayyidi Hakim-ul-Ummah Ashraf Thanavi (رح) has given another distinction between the two calamities. If one becomes aware of his sins and faults and finds greater inclination toward seeking pardon from Allah Ta’ ala, then it is a sign of His kindness and favour. But if one gets frustrated and indulges more in sins and evil, then it is a sign of Allah's wrath and torment. وَاللہُ سبحانَہُ و تعالیٰ اَعلَم
 
+## AI Translation
+
+so He may generously reward believers who did good from His grace. He does not love those who reject the truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** Answer to a doubt It is recorded in authentic ahadith that the Holy Prophet ﷺ has said, ` this world is a prison for the believers and heaven for the infidels.' He then elaborated that the infidels get the reward of their good deeds in this world only in the form of wealth and health, whereas the reward of the believers is saved up to be awarded in the Hereafter.
+
+**Classical tafsir:** Ibn Kathir notes: The author of Ruh ul-Ma’ ani has explained that the word fasad' (translated in the text as 'plight' ) means all sorts of calamities, such as famine, epidemic diseases, frequency of the incidents of fire, drowning, lack of Allah's blessing in everything, and reduction in profits a…
 ## Personal Reflections
 
 

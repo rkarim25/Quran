@@ -136,6 +136,15 @@ When he came into this world, his condition was that وَاللَّـهُ أَخ
 
 ثُمَّ جَعَلَ مِن بَعْدِ ضَعْفٍ (Then He created strength after weakness - 30:54). When man reaches the stage of his strength, he gets involved in showing off his powers and intelligence. He flies to reach the moon and Mars, and tries to overpower the earth and oceans. He forgets all about his past and becomes oblivious of his future, and cries out مَنْ أَشَدُّ مِنَّا قُوَّةً (Who is stronger than us in might? - 41:15); so much so that in this state of intoxication, he even forgets his Creator and His commands. So the Nature has warned to make him realize his folly ثُمَّ جَعَلَ مِن بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً (Then created weakness and old age - 30:54). 0 remiss! Be mindful of the fact that your present strength is temporary and you have to return to the same old weakness, and it will take you gradually to your grey hair. Then all your limbs and organs will change their shape and form. You need not go through any books and the history of the world, but look into your own concealed self, and you will be left with no other option but to accept and believe that يَخْلُقُ مَا يَشَاءُ وَهُوَ الْعَلِيمُ الْقَدِيرُ‌ (He creates what He wills, and He is the All-Knowing, the All-Powerful - 30:54). All this control and running of affairs are by the One who creates them. He does as He pleases, and in a manner as it pleases Him. He has no parallel in knowledge and power. Knowing all this, is there any room for doubt that He can resurrect the dead whenever He likes?
 
+## AI Translation
+
+Allah created you weak, then gave strength after weakness, then weakness and old age after strength. He creates what He wills. He is All-Knowing, Most Capable.
+
+## AI Tafsir
+
+**What this ayah teaches:** It is in his own interest that he should keep in mind the impending weakness while he is still strong, and does not forget how he achieved strength gradually from the state of weakness.
+
+**Classical tafsir:** Ibn Kathir notes: The first lesson was to teach you crying, so that you could attract the attention of your parents towards you, and they should look for your needs of thirst and hunger.
 ## Personal Reflections
 
 

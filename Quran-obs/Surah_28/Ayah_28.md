@@ -173,6 +173,17 @@ Ruling
 
 The word أُنكِحَكَ (I wish to marry...with you) has proved that the father had arranged the nikah. Jurists are unanimous that it should be done as such. It is the father's duty and privilege to make arrangements of daughter's marriage. A girl should not arrange her own marriage. But there is difference of opinion between jurists on the issue whether the nikah is lawful or not, if a girl arranges her own marriage due to some need or pressure. Imam Abu Hanifah (رح) has ruled that it is lawful. However, this verse is silent on the issue.
 
+## AI Translation
+
+Moses responded, “Then it is settled between you and I. Whichever term I fulfill, there will be no further obligation on me. And Allah is a Witness to what we say.”
+
+## AI Tafsir
+
+**What this ayah teaches:** And there is evidence which indicates that Musa, peace be upon him, fulfilled the longer of the two terms.
+
+**Classical tafsir:** Ibn Kathir notes: And there is evidence which indicates that Musa, peace be upon him, fulfilled the longer of the two terms.
+
+**From the Sunnah:** And the Messenger of Allah ﷺ said to Hamzah bin 'Amr Al-Aslami, may Allah be pleased with him, who used to fast a great deal and who asked him about fasting while traveling:
 ## Personal Reflections
 
 

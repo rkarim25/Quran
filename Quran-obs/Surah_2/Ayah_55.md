@@ -117,6 +117,17 @@ This shows that the Children of Israel were required to fulfill the commandments
 
 Then Sayyidna Musa (علیہ السلام) (Moses) brought the Torah from Mount Tur طور (Sinai) and presented it to the Israelites as the book of Allah, some of them were insolent enough to say that they could not believe it until and unless Allah Himself told them in so many words. With the permission of Allah, Sayyidna Musa (علیہ السلام) replied that even this condition would be fulfilled, if they went with him to Mount Tur طور . The Israelites chose seventy men for this purpose. Arriving there, they heard the words of Allah with their own ears. Now, in their perversity, they invented a new ruse. It was not enough, they said, to hear the speech, for they could not be sure whether it was Allah Himself who had spoken to them or someone else. But they promised that they would be finally convinced if they could see Allah with their own eyes. Since it is beyond the power of a living being to be able to see Allah in the physical world, they had to pay for their impertinence, and were killed by a thunderbolt -- the next verse reports their death.
 
+## AI Translation
+
+And when you said, "O Moses, we will not believe you until we see Allah plainly," a thunderbolt seized you while you looked on.
+
+## AI Tafsir
+
+**Context:** (If it had been Your will, You could have destroyed them and me before; would You destroy us for the deeds of the foolish ones among us)' Allah revealed to Musa that these seventy men were among those who worshipped the…
+
+**What this ayah teaches:** He said to them, 'These Tablets have Allah's Book, containing what He commanded you and what He forbade for you.' They said, 'Should we believe this statement because you said it? By Allah, we will not believe until we see Allah in the open, until He shows us Himself and says: This is My Book, therefore, adhere to it.
+
+**Classical tafsir:** Ibn Kathir notes: He said to them, 'These Tablets have Allah's Book, containing what He commanded you and what He forbade for you.' They said, 'Should we believe this statement because you said it?
 ## Personal Reflections
 
 

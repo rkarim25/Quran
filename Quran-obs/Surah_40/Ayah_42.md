@@ -206,6 +206,15 @@ The word: صرح (sarh) in verse 36: وَقَالَ فِرْ‌عَوْنُ يَ
 
 My respected father, Maulana Muhammad Yasin, a dear disciple of Maulana Muhammad Ya` qub, the first principal of the famous Darul-` Uloom of Deoband in India has reported his learned teacher saying, 'For this lofty palace to collapse, it is not necessary that it be hit by some Divine punishment. The fact is that the height of every building depends on the capability of its foundation to bear weight. No matter how deep the foundation is laid, it cannot go deeper than a certain limit. Now, when levels after levels were added to this building, it was inevitable that, once it exceeded the capability of its foundation to bear additional weight, it must collapse.' This provides another proof of the folly of Pharaoh and Haman. Allah knows best.
 
+## AI Translation
+
+You invite me to reject Allah and associate with Him what I have no knowledge of, while I invite you to the Almighty, ever-forgiving.
+
+## AI Tafsir
+
+**Context:** (The Fire, they are exposed to it, morning and afternoon). But the question arises: this Ayah was undoubtedly revealed in Makkah, but they use it as evidence to prove that there will be torment in the grave during the pe…
+
+**What this ayah teaches:** You invite me to disbelieve in Allah, and to join partners in worship with Him of which I have no knowledge;) means, on the basis of ignorance, with no proof or evidence. Since no one expects any head of the state to go that wild in his imagination, therefore, some commentators have said that this much he too knew that, no matter how high a structure is made for him, he still cannot reach the skie…
 ## Personal Reflections
 
 

@@ -154,6 +154,17 @@ At the end of the verse (36), given there is the evil end of these people in ter
 
 In the verse under study, the mention of an evil end of spending wealth to stop people from following the true faith also includes the disbelievers of today who spend enormous wealth in the name of hospitals, educational institutions and charities only to stop people from following Islam and to attract them to their call for the false. Similarly, also included here are all those who have gone astray, those who spend their wealth to invite people to listen to doubts and superstitions they have generated into the established collective beliefs of Is-lam. But, Allah Ta` a1a has His ways of keeping the faith revealed by Him protected. There are many occasions when it is openly noticed that such people fail to achieve their objective despite having spent huge amount of money and materials.
 
+## AI Translation
+
+Those who reject the truth spend their wealth to block the path of Allah. They will keep spending until it becomes a source of regret for them. Then they will be overcome, and toward the Fire they will be driven.
+
+## AI Tafsir
+
+**Context:** Muhammad bin Ishaq narrated that Az-Zuhri, Muhammad bin Yahya bin Hibban, 'Asim bin 'Umar bin Qatadah, and Al-Husayn bin 'Abdur-Rahman bin 'Amr bin Sa'id bin Mu'adh said, "The Quraysh suffered defeat at Badr and their fo…
+
+**What this ayah teaches:** Verily, those who disbelieve spend their wealth to hinder (men) from the path of Allah, and so will they continue to spend it; but in the end it will become an anguish for them. Allah states here that the those who reject the truth spend their wealth to hinder from the path of truth.
+
+**Classical tafsir:** Ibn Kathir notes: Ad-Dahhak said that this Ayah was revealed about the idolators of Badr.
 ## Personal Reflections
 
 

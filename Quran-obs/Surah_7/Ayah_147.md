@@ -135,6 +135,15 @@ We find it stated in Ruh-al-Bayan that arrogance is such a wicked habitude as ra
 
 "Water flows down towards the slope, and solution goes where difficulty appears."
 
+## AI Translation
+
+The deeds of those who deny Our signs and the meeting in the Akhirah will be in vain. Will they be rewarded except for what they have done?”
+
+## AI Tafsir
+
+**What this ayah teaches:** And if they see the way of righteousness, they will not adopt it as the way, but if they see the way of error, they will adopt that way, that is because they have rejected Our Ayat and were heedless of them (146)Those who deny Our Ayat and the meeting in the Hereafter, vain are their deeds.
+
+**Classical tafsir:** Ibn Kathir notes: The word without truth or unjustly indicates that assuming arrogance in response to the arrogant people is a justified act, since it is the act of arrogance in appearance, and not in reality.
 ## Personal Reflections
 
 

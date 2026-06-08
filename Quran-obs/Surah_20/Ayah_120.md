@@ -148,6 +148,17 @@ Today it is not permissible for any of us to use the word عِصیَان (disobe
 
 The same views have been expressed by Qushairi Abu Nasr.
 
+## AI Translation
+
+But Satan whispered to him, saying, “O Adam! Shall I show you the Tree of Immortality and a kingdom that does not fade away?”
+
+## AI Tafsir
+
+**What this ayah teaches:** Shall I lead you to the Tree of Eternity and to a kingdom that will never waste away? He also explains the enmity of Iblis for the Children of Adam and for their father, Adam, before them.
+
+**Classical tafsir:** Ibn Kathir notes: Adam and Iblis Ibn Abi Hatim recorded that Ibn 'Abbas said, "Verily, man was named Insan only because he was given a covenant, but he forgot it (Nasiya)." 'Ali bin Abi Talhah reported the same from Ibn 'Abbas. He also explains the enmity of Iblis for the Children of Adam and for their father, Adam, before them.
+
+**From the Sunnah:** Ibn Abi Hatim recorded that Ibn 'Abbas said, "Verily, man was named Insan only because he was given a covenant, but he forgot it (Nasiya)." 'Ali bin Abi Talhah reported the same from Ibn 'Abbas.
 ## Personal Reflections
 
 

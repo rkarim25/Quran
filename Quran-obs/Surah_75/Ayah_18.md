@@ -207,6 +207,19 @@ According to an authentic Hadith, Imam (one who leads a congregational prayer) i
 
 This explains the function of an Imam. In matters of bowing and prostrating, the followers should do as he does, that is, they should perform the acts of bowing and prostrating along with him. However, following him in the matter of recitation is different. When the Imam recites, the followers should be silent and listen. This is the argument of Imam Abu Hanifah and some other Imams in holding that the mugtadis should not recite when following an Imam in prayer. And Allah knows best!
 
+## AI Translation
+
+When We recite it through Gabriel, follow its recitation closely.
+
+## AI Tafsir
+
+**Context:** This is Allah teaching His Messenger ﷺ how to receive the revelation from the angel. For verily, he (the Prophet ﷺ) was rushing in his attempts to grasp the revelation and he would be reciting the revelation with the ang…
+
+**What this ayah teaches:** Move not your tongue concerning to make haste therewith (16)It is for Us to collect it and that it be recited (17)And when We have recited it to you, then follow its recitation (18)Then it is for Us to make it clear (19)But no!
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, Allah commanded him that when the angel brings some revelation to him he should just listen.
+
+**From the Sunnah:** For verily, he (the Prophet ﷺ) was rushing in his attempts to grasp the revelation and he would be reciting the revelation with the angel while he was reciting it.
 ## Personal Reflections
 
 

@@ -148,6 +148,17 @@ Allah says,
 
 إِنَّهُمْ يَرَ‌وْنَهُ بَعِيدًا وَنَرَ‌اهُ قَرِ‌يبًا (They see it far off, and We see it near....70:6-7). In this context, the expressions 'far off and 'near' do not refer to time or space, but 'far off in terms of possibility and occurrence. The verse purports to describe that the pagans see the occurrence of Resurrection as impossible, and Allah sees its occurrence not only possible, but a certain reality.
 
+## AI Translation
+
+They see this Day as impossible,
+
+## AI Tafsir
+
+**What this ayah teaches:** It could also be referring to the name of the souls (Arwah) of the Children of Adam (humans). The word "Ba'id" here means that which is impossible to occur.
+
+**Classical tafsir:** Ibn Kathir notes: It could also be referring to the name of the souls (Arwah) of the Children of Adam (humans).
+
+**From the Sunnah:** Then the man said, 'O Abu Hurayrah what is this?' Abu Hurayrah replied, 'I heard the Messenger of Allah ﷺ say, In this narration (of Ahmad) the Prophet ﷺ also added,
 ## Personal Reflections
 
 

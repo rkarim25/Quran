@@ -97,6 +97,17 @@ The opening sentence of the sixth verse (48): لَقَدِ ابْتَغَوُا 
 
 The statement وَظَهَرَ‌ أَمْرُ‌ اللَّـهِ وَهُمْ كَارِ‌هُونَ (… and the will of Allah prevailed, though they disliked it) at the end of the verse indicates that victory is in the hands of Allah. This has been proved on earlier occasions when the Holy Prophet ﷺ was blessed with victory. The same will happen in this Jihad as well when all tricks played by hypocrites will fail.
 
+## AI Translation
+
+They had already sought to spread discord before and devised every plot against you, until the truth came and Allah’s Will prevailed—much to their dismay.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, they had plotted sedition before, and had upset matters for you, until the truth (victory) came and the decree of Allah became manifest though they hated it .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** For a long time,' Allah says, hypocrites thought and plotted against you and your Companions, as well as, failing and attempting to extinguish your religion.' This occurred soon after the Prophet ﷺ migrated to Al-Madinah, when pagan Arabs joined force and the…
 ## Personal Reflections
 
 

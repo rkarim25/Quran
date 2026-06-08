@@ -136,6 +136,17 @@ Imam Ahmad recorded that Al-Harith Al-Bakri said: "I went to the Messenger of Al
 
 This story leaves a trail of good counsel. It reminds heedless human beings to keep remembering Allah and take to a life style which is marked with obedience to Him. Then, to those who elect to reject honest advice and refuse to learn a lesson, it shows what to expect the end. And, as for preachers and reformers, it is a mirror of the prophetic method of communication in Tabligh and Islah.
 
+## AI Translation
+
+So We saved him and those with him by Our mercy and uprooted those who denied Our signs. They were not those who have iman.
+
+## AI Tafsir
+
+**What this ayah teaches:** They were subjected to it for seven nights and eight days in succession, so that you could see men lying overthrown (destroyed), as if they were hollow trunks of date palms! They also spread throughout the land and defeated various peoples, because of the strength that Allah gave them.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said that, 'Rijs', means scorn and anger.
+
+**From the Sunnah:** I also found a black flag raised high, while Bilal was holding a sword before the Messenger of Allah ﷺ. (Musnad Ahmad, Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

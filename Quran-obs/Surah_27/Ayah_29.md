@@ -108,6 +108,15 @@ The language of the letter of Sulaiman
 
 Although Sayyidna Sulaiman (علیہ السلام) was not an Arab, yet it is not unlikely that he knew the Arabic language, especially when he knew the languages of the animals. As the Arabic language is supreme among all the languages, it is possible that he might have written the letter in Arabic. It is also probable because Bilqis was an Arab by race, and she read the letter and understood it. The other probability is that he had written the letter in his own language and an interpreter read it for her. (Ruh)
 
+## AI Translation
+
+The Queen later announced, “O chiefs! Indeed, a noble letter has been delivered to me.
+
+## AI Tafsir
+
+**What this ayah teaches:** Literal meaning of Karim is respectable, honorable or esteemed, and idiomatically this word is used for a letter when it is sealed.
+
+**Classical tafsir:** Ibn Kathir notes: It is also probable because Bilqis was an Arab by race, and she read the letter and understood it.
 ## Personal Reflections
 
 

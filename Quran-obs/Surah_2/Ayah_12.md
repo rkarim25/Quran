@@ -121,6 +121,17 @@ To another aspect of the question, it is easy enough to find a cure for thieves 
 
 This is an indication that Allah alone10 knows the states of men's hearts and their intentions, and He alone knows the nature and consequences of each human deed as to whether it would help the cause of order or of disorder. So, to serve the cause of order, it is not sufficient merely to possess such an intention; much more essential than that is to orient oneself in thought and deed in harmony with the Shari'ah, for an action may, in spite of the best intentions, sometimes result in mischief and disorder, if it is not guided by the Shari` ah.
 
+## AI Translation
+
+In truth, they are the ones spreading corruption — but they do not perceive it.
+
+## AI Tafsir
+
+**What this ayah teaches:** This Ayah means that the hypocrites' behavior, and their claim that it is for peace, is itself mischief, although in their ignorance, they do not see it to be mischief.
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah means that the hypocrites' behavior, and their claim that it is for peace, is itself mischief, although in their ignorance, they do not see it to be mischief.
+
+**From the Sunnah:** If the hypocrite remains a those who reject the truth (rather than pretending to be Muslim), the evil that results from him would be less. (Sahih Muslim) But all this while they had been freely giving vent to their malice and envy by conspiring with the enemies of the Muslims.
 ## Personal Reflections
 
 

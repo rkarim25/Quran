@@ -166,6 +166,17 @@ Commentary
 
 It was during the presence of the deputation from Najran that some Jews and Christians had said: '0 Muhammad, do you want us to worship you the way Christians worship Jesus, son of Mary?' He said: 'I seek refuge with Allah that we worship someone other than Allah or call on others to do so. Allah Almighty has not sent us to do that.' Thereupon, this verse was revealed.
 
+## AI Translation
+
+There are some among them who distort the Book with their tongues to make you think this is from the Book—but it is not what the Book says. They say, “It is from Allah”—but it is not from Allah. And they attribute lies to Allah knowingly.
+
+## AI Tafsir
+
+**Context:** It was during the presence of the deputation from Najran that some Jews and Christians had said: '0 Muhammad, do you want us to worship you the way Christians worship Jesus, son of Mary?' He said: 'I seek refuge with All…
+
+**What this ayah teaches:** And verily, among them is a party who distort the Book with their tongues, so that you may think it is from the Book, but it is not from the Book, and they say: This is from Allah, but it is not from Allah; and they speak a lie against Allah while they know it .
+
+**Classical tafsir:** Ibn Kathir notes: Commentary It was during the presence of the deputation from Najran that some Jews and Christians had said: '0 Muhammad, do you want us to worship you the way Christians worship Jesus, son of Mary?' He said: 'I seek refuge with Allah that we worship someone other than Allah or ca…
 ## Personal Reflections
 
 

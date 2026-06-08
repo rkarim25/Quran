@@ -234,6 +234,15 @@ The hardships faced by the prophets are the hardest faced by men, after that, by
 
 2. The second point one must note here concerns the prophets and their followers. That they reached a point of suffering when they cried out as to when will the help of Allah come, was not because of any doubt since that would be against the dignity of their station. In fact, the call was made in the background of Allah's promised help for which the time and place was left undetermined. As such, using these words in a state of distress indicated the desire for early help. Making such a prayer is not against one's trust in Allah (tawakkul تَوَکَّل) or against the station of prophet hood. On the contrary, the fact is that Allah Almighty favours the earnest supplication of his servants. Who else other than the prophets and the pious of the community would be more deserving of what Allah likes?
 
+## AI Translation
+
+Do you think you will enter Paradise without being tested as those before you were? They were struck by hardship and adversity and shaken until the Messenger and the believers with him cried, "When will Allah's help come?" Indeed, Allah's help is near.
+
+## AI Tafsir
+
+**What this ayah teaches:** They were afflicted with severe poverty and ailments and were so shaken that even the Messenger and those who believed along with him said, "When (will come) the help of Allah" Yes! Apparently, this verse seems to indicate that nobody shall enter Paradise unless he goes through hardships and sufferings, although, Qur'anic statements and sayings of the Holy Prophet ﷺ prove that many sinners will en…
+
+**Classical tafsir:** Ibn Kathir notes: Apparently, this verse seems to indicate that nobody shall enter Paradise unless he goes through hardships and sufferings, although, Qur'anic statements and sayings of the Holy Prophet ﷺ prove that many sinners will enter Paradise simply because of the grace, mercy and forgivenes…
 ## Personal Reflections
 
 

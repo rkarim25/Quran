@@ -180,6 +180,15 @@ meaning, 'so that We may bring out great abundance, goodness, benefit, and bless
 
 Sayyidna Ibn ` Abbas ؓ reports that when the revelation of Qur'an started, the pagan Arabs used to form circles and discuss and criticise it, especially about the tremendous import of Resurrection and Judgment referred to in the Qur'an. The pagans thought this was impossible, and they used to have protracted discussion. The disbelievers persuade themselves to believe that the predicted event will never take place, though there were others who believed in the event. The Surah opens by shunning the enquirers and the enquiry, it wonders that anyone should raise any doubts about Resurrection and Judgment. Some of the commentators express the opinion that their enquiry was not a genuine one where they were keen to learn about the truth. So they ask half-mockingly and half in doubt, when that event, so loudly pronounced, will happen. Qur'an has responded by asserting one statement twice for emphasis, thus:
 
+## AI Translation
+
+over which they dispute.
+
+## AI Tafsir
+
+**What this ayah teaches:** Nay, again, they will come to know!) This is a severe threat and a direct warning.
+
+**Classical tafsir:** Ibn Kathir notes: This is so that it may be suitable for dwelling and not quake with those who are in it.
 ## Personal Reflections
 
 

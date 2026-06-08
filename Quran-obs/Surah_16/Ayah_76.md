@@ -162,6 +162,15 @@ Mujahid said, "This also refers to idols and the True God, may He be exalted." M
 
 In the second example, there is a man who bids justice and teaches what is good. This is a model of his intellectual perfection. Then he him-self takes the path of moderation and right guidance. This is the model of his practical perfection. Set against the power of this intellectually and practically perfect man, there is the other man who cannot do anything for himself nor can he do anything right for others. These two men of two different kinds, despite being from one genus, one species and one brotherhood, cannot be equal to each other. So, how can some created being or thing become equal to the Creator and Master of the universe who is Absolute in Wisdom, Absolute in Power, and All-Knowing and All-Aware?
 
+## AI Translation
+
+And Allah sets forth a parable of two men: one of them is dumb, incapable of anything. He is a burden on his master. Wherever he is sent, he brings no good. Can such a person be equal to the one who commands justice and is on the Sirat al-Mustaqim — the way of living that pleases Allah?
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah gives an example of two men, one of them dumb, who has no power over anything, and he is a burden on his master; whichever way he directs him, he brings no good.
+
+**Classical tafsir:** Ibn Kathir notes: Another Example Mujahid said, "This also refers to idols and the True Allah, may He be exalted." Meaning that the idol is dumb and cannot speak or say anything, good or otherwise.
 ## Personal Reflections
 
 

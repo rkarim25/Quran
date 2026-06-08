@@ -132,6 +132,17 @@ Dailami has reproduced a narration on the authority of Sayyidna Ibn ` Abbas ؓ w
 
 Ibn ` Arabi has said that it is evident from this verse that the desire for a righteous deed which results in people's praise is allowed. Imam Ghazzali (رح) has ruled that the love for being praised and the position of respect is permissible under three conditions. One, when the object is not to proclaim oneself as superior to others and to degrade them to an insignificant position, but for the benefit in the Hereafter, so that others may be influenced to follow his example and try to emulate him. Second, when the object is not to earn false praise against a trait one does not possess, and desire that people should eulogize him for that. Third, when one does not have to indulge in a sin or negligence in the matter of faith in order to achieve it.
 
+## AI Translation
+
+Make me one of those awarded the Garden of Bliss.
+
+## AI Tafsir
+
+**What this ayah teaches:** One, when the object is not to proclaim oneself as superior to others and to degrade them to an insignificant position, but for the benefit in the Hereafter, so that others may be influenced to follow his example and try to emulate him.
+
+**Classical tafsir:** Ibn Kathir notes: One, when the object is not to proclaim oneself as superior to others and to degrade them to an insignificant position, but for the benefit in the Hereafter, so that others may be influenced to follow his example and try to emulate him.
+
+**From the Sunnah:** Paradise to the those who reject the truth. (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

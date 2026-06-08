@@ -140,6 +140,17 @@ And according to another narration by Sayyidna Abu Hurairah ؓ ، this person's 
 
 Sayyidna Ma'qil Ibn Yasar ؓ has narrated that the Holy Prophet ﷺ has said that every new day calls the humans saying, ` I am a new day, and I shall be a witness to whatever you do today. So you should do some good deed before I come to an end, in order that I may give evidence, because once I am gone, you will never find me again. Similarly, every night gives the same call.' (Al-Qurtubi, with reference to Abu Nu'aim)
 
+## AI Translation
+
+Even if they endure patiently, the Fire will always be their home. And if they beg to appease their Lord, they will never be allowed to.
+
+## AI Tafsir
+
+**What this ayah teaches:** So you should do some good deed before I come to an end, in order that I may give evidence, because once I am gone, you will never find me again.
+
+**Classical tafsir:** Ibn Kathir notes: So you should do some good deed before I come to an end, in order that I may give evidence, because once I am gone, you will never find me again.
+
+**From the Sunnah:** Abu Musa said, "The those who reject the truth or the hypocrite will be called to account and his Lord will show him his deeds, but he will deny them and say, 'O Lord, by Your glory, this angel has written about me something that I did not do.' The angel will say to him, 'Di… (Sahih Muslim, Sunan an-Nasa'i) They said some words I could not hear, then one of them said, 'Do you think that Allah can hear what we are saying now?' The other said, 'If we raise our voices, He will hear it, but if we do not raise our vo
 ## Personal Reflections
 
 

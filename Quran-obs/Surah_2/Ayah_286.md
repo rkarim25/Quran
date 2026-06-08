@@ -365,6 +365,19 @@ In short, Allah Almighty bestowed His best when He promised the acceptance of al
 
 و للہ الحمد اول و آخرہ و ظاہرہ و باطنہ و ھو المستعا
 
+## AI Translation
+
+Allah does not burden any soul beyond what it can bear. It will have the reward of what good it earned, and the consequence of what evil it earned. They pray: "Our Rabb, do not hold us accountable if we forget or make a mistake. Our Rabb, do not place on us a burden like the one You placed on those before us. Our Rabb, do not burden us with what we cannot bear. Pardon us, forgive us, and have mercy on us. You are our Protector — so grant us victory over those who reject the truth."
+
+## AI Tafsir
+
+**Context:** (Our Lord! Lay not on us a burden like that which You did lay on those before us (Jews and Christians),) means, "Even if we were able to perform them, do not require us to perform the difficult deeds as You required the…
+
+**What this ayah teaches:** He gets reward for that (good) which he has earned, and he is punished for that (evil) which he has earned.
+
+**Classical tafsir:** Ibn Kathir notes: The noble Qur'an, towards the far end, teaches Muslims to make a special du` a or prayer in which forgiveness has been sought on commission of some act because of forgetfulness or neglect or mistake.
+
+**From the Sunnah:** The Two Sahihs recorded this Hadith using various chains of narration, and Imam Ahmad also recorded it.
 ## Personal Reflections
 
 

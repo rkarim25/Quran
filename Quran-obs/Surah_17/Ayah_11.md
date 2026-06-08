@@ -74,6 +74,15 @@ O Allah, if this [ Islam ] is the truth from You, then, rain down on us rocks fr
 
 In that case, 'al-insan' of the text would be referring to those mentioned above, or those like them.
 
+## AI Translation
+
+And humans swiftly pray for evil as they pray for good. For humankind is ever hasty.
+
+## AI Tafsir
+
+**What this ayah teaches:** And man invokes (Allah) for evil as he invokes (Allah) for good and man is ever hasty .
+
+**Classical tafsir:** Ibn Kathir notes: Perhaps, it is based on this congruity that it was said in verse 11 that man would, on occasions, pray for something in a haste, something that spells out destruction for him.
 ## Personal Reflections
 
 

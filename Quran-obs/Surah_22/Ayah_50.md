@@ -94,6 +94,15 @@ A doubt and its explanation
 
 There is a verse in Surah Al-Ma'arij which says that the day with your Lord will be equal to fifty thousand years كَانَ مِقْدَارُ‌هُ خَمْسِينَ أَلْفَ سَنَةٍ. (Whereof the measure is fifty thousand yours - 70:4) This can also be explained by applying either of the two explanations of the present verse and in the first case since every person will suffer different levels of severity, to some it will appear as if he has suffered pain for one thousand years, while to others the period will appear equal to fifty thousand years. If, however, the second explanation is applied to this verse, then there would appear to be a contradiction between the verses where one verse equates the Day of Resurrection to one thousand years and the other to fifty thousand years. But this so-called contradiction has been reconciled by Sayyidna Ashraf ` Ali Thanavi (رح))in his commentary Bayan ul-Qur'an, by saying that this difference may be due to different horizons. Just as we see in our world that the length of day and night is different on different horizons, (on zero latitude it is of 24 hours while at the latitude of 900 it is one year. Likewise it is possible that the length of the Day of Resurrection would be different on different horizons, and if its length right below the day line is one thousand years because of miraculously slow rotation of sun or earth), the areas falling 50 times far from it may have a day 50 times more in length. And Allah knows best.
 
+## AI Translation
+
+So those who believe and do good will have forgiveness and an honourable provision.
+
+## AI Tafsir
+
+**What this ayah teaches:** So those who believe and do righteous good deeds,) means, whose hearts believe and whose actions confirm their faith. Likewise it is possible that the length of the Day of Resurrection would be different on different horizons, and if its length right below the day line is one thousand years because of miraculously slow rotation of sun or earth), the areas falling 50 times far from it may have a da…
+
+**Classical tafsir:** Ibn Kathir notes: The first meaning is that the verse refers to the Day of Resurrection and the events which will take place on that day will be so horrifying and of such extreme severity that the day will appear never to end, as if it was equal to one thousand years according to our reckoning.
 ## Personal Reflections
 
 

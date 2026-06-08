@@ -203,6 +203,17 @@ The Linkage of Verses
 
 In the verses cited above, the answer to disbelievers who were demanding that the Divine punishment should come to them posthaste was given in: وَهُوَ خَيْرُ‌ الْفَاصِلِينَ (He is the best decision-maker) while the mention of the perfect power of Almighty Allah was made in: وَاللَّـهُ أَعْلَمُ بِالظَّالِمِينَ (Allah knows the unjust best). Next from here, there is a description of the encompassment of the Knowledge and Power of Allah Ta` ala on all conceivable data and destiny.
 
+## AI Translation
+
+Say, “Indeed, I stand on a clear proof from my Rabb—yet you have denied it. That you seek to hasten is not within my power. It is only Allah Who decides. He declares the truth. And He is the Best of Judges.”
+
+## AI Tafsir
+
+**Context:** (Say: "I am on clear proof from my Lord...") means: I have a clear understanding of the Law of Allah that He has revealed to me,
+
+**What this ayah teaches:** Therefore, Allah has sent the Angel of the Mountains to you so that you may order him to do whatever you wish to these people.' The Angel of the Mountains called and greeted me, and then said, 'O Muhammad! With Him (Alone) is the knowledge of the Hour, He sends down the rain, and knows that which is in the wombs.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, Allah has sent the Angel of the Mountains to you so that you may order him to do whatever you wish to these people.' The Angel of the Mountains called and greeted me, and then said, 'O Muhammad!
 ## Personal Reflections
 
 

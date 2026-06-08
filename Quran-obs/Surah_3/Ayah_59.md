@@ -184,6 +184,17 @@ The background of these verses is that the Holy Prophet ﷺ ultimatum to the Chr
 
 After mutual consultation, the Christians sent a delegation to the Holy Prophet ﷺ consisting of Shurahbil ` Abdullah b. Shurahbil and Jabbar ibn Fayd to the Holy Prophet ﷺ ۔ They came and began their talks on religious issues. When they, in their effort to prove the godhood of Jesus (علیہ السلام) ، took their debate to the extremes of dispute, that was the moment this verse of Mubahala was revealed. Thereupon, the Holy Prophet ﷺ invited the Christians to join in the Mubahala confrontation (a form of resolving disputes by praying to Allah, the details of which shall shortly be discussed) and quite readily, he himself came out with Sayyidah Fatimah ؓ Sayyidna Ali ؓ and their sons, Hasan and Husain ؓ along with him all set for the مُباھلہ Mubahalah. Looking at this, Shurahbil said to his two comrades: 'Look, you already know that he is a prophet of Allah and getting into a Mubahalah confrontation with a prophet means certain death and destruction for us. So find out some other way to get out of this fix.' His comrades asked him as to what he thought it could be. Shurahbil said: 'I think the best solution is to opt for a truce as advised by the prophet'. So, on this everybody agreed. As a result, the Holy Prophet ﷺ made peace by fixing a levy on them which was accepted by them as well. (Tafsir ibn Kathir).
 
+## AI Translation
+
+Indeed, the example of Jesus in the sight of Allah is like that of Adam. He created him from dust, then said to him, “Be!” And he was!
+
+## AI Tafsir
+
+**What this ayah teaches:** And indeed, Allah is the Almighty, the All-Wise (62)And if they turn away, then surely, Allah is All-Aware of those who do mischief .
+
+**Classical tafsir:** Ibn Kathir notes: If the claim is made that 'Isa is Allah's son because he was created without a father, then the same claim befits Adam even more.
+
+**From the Sunnah:** they never saw a delegation like them after that...Then Abu Harithah bin 'Alqamah and Al-'Aqib 'Abdul-Masih or As-Sayyid Al-Ayham spoke to the Messenger of Allah ﷺ, and they were Christians like the king (Roman King). Let us think about this matter and get back to you with our decision to what we want to do.' They left the Prophet ﷺ and conferred with Al-'Aqib, to whom they referred to for advice.
 ## Personal Reflections
 
 

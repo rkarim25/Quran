@@ -134,6 +134,15 @@ Allah tells us of Fir'awn's disbelief and wrongdoing, and how he falsely claimed
 
 وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَى النَّارِ‌ (And We had made them leaders who called (people) towards hell. - 28:41). Allah Ta` ala had elevated the courtiers of the Pharaoh as leaders of their people, but these wrong-doers were busy inviting the people towards fire - jahannam. Most commentators have taken the expression ` invitation to fire' as a metaphor. That is, by fire the allusion is toward evil deeds that will result in burning in the fire of Jahannam. But according to the work of my respected teacher Sayyidna Maulana Sayyid Muhammad Anwar Shah Kashmiri a (رح) the reward of the Hereafter is the deed itself. One's deeds in this world will change their forms first in barzakh and then in mahshar. The righteous deeds will change into flowers and gardens and take the shape of the bounties of paradise; and the evil deeds will turn into snakes and scorpions, ultimately manifesting themselves in various types of torments. Therefore, if someone invites any one in this world toward evil and infidelity, he in fact is bidding him to go into the fire. Although these evils do not manifest themselves in this world as fire, yet in reality they are fire. Thus there is no metaphor in the verse, and it rests with its true meaning. If this course of argument is adopted in explaining the verses of Qur'an, then many of them will get rid of dependence on metaphors; and it will make the reading easy and straightforward. For instance, وَوَجَدُوا مَا عَمِلُوا حَاضِرً‌ا (And they will find what they did all there - 18:49) or مَن يَعْمَلْ مِثْقَالَ ذَرَّ‌ةٍ خَيْرً‌ا يَرَ‌هُ. (Whoever does good to the measure of a particle will see it. 99:7)mmmm48
 
+## AI Translation
+
+We made them leaders inviting others to the Fire. And on the Day of Judgment they will not be helped.
+
+## AI Tafsir
+
+**What this ayah teaches:** That is, by fire the allusion is toward evil deeds that will result in burning in the fire of Jahannam.
+
+**Classical tafsir:** Ibn Kathir notes: So kindle for me (a fire), O Haman, to bake clay, and set up for me a Sarh in order that I may look at the Allah of Musa; and verily, I think that he (Musa) is one of the liars.
 ## Personal Reflections
 
 

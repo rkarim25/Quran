@@ -155,6 +155,15 @@ Maximum Regard for the Rights of Allah's Creation
 
 Everyone knows that animals have not been obligated to observe the percepts of any Shari` ah or code of laws. Only human beings and Jinns have been so obligated. And it is obvious that the jurisdiction of reward and punishment does not apply to the non-obligated. Therefore, ` Ulama' have said that the retaliation against the behaviour of animals on the day of Resurrection will not be because of their being obligated, but it will be because of the Lord's utmost regard for equity and justice - based on which the cruelty of one living creature against' the other living creature will be recompensed, with no reward or punishment to follow for the rest of their behaviour. This tells us that the matter of mutual rights, and their infringements, pertaining to the creation of Allah is so serious that even non-obligated animals have not been left as exempted from it. But, it is regrettable that there are even many religiously-observing people who would act negligently about it.
 
+## AI Translation
+
+Ask, “Imagine if you were overwhelmed by Allah’s torment or the Hour—would you call upon any other than Allah ? if your claims are true!
+
+## AI Tafsir
+
+**What this ayah teaches:** And We seized them with extreme poverty and loss of health so that they might believe with humility (42)When Our torment reached them, why then did they not believe with humility? To Him alone you call, and, if He willed, He would remove that (distress) for which you call upon Him, and you forget at that time whatever partners you joined with Him (in worship)(41)Verily, We sent (Messengers) to man…
+
+**Classical tafsir:** Ibn Kathir notes: And We seized them with extreme poverty and loss of health so that they might believe with humility (42)When Our torment reached them, why then did they not believe with humility?
 ## Personal Reflections
 
 

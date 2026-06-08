@@ -92,6 +92,17 @@ It has been reported from Sayyidna Abu Ad-Darda' ؓ that he stood up on the Mimb
 
 Imam Al-Hasan Al-Basri (رح) said: A person with long plans, hopes and fancies is bound to ruin his proper conduct in life. (Al-Qurtubi)
 
+## AI Translation
+
+Why do you not bring us the angels, if what you say is true?”
+
+## AI Tafsir
+
+**What this ayah teaches:** e., those who deny the Day of Resurrection and the life of the Hereafter), say: "Why are not the angels sent down to us, or why do we not see our Lord?" Indeed they think too highly of themselves, and are scornful with great pride.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, he is careful about everything he does and finds out whether it is Halal or Haram, permissible or forbidden.
+
+**From the Sunnah:** There have been big people before you who made big money, collected gold and things, built magnificent palaces and made long-hauled plans and projections for the future.
 ## Personal Reflections
 
 

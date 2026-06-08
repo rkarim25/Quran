@@ -240,6 +240,17 @@ Guidance has Degrees, the Last being the Entry into Paradise
 
 Imam Raghib al-Isfahani (رح) ، who has explained Hidayah or guidance in a comprehensive manner as it appears in the Holy Qur'an, has said that guidance is a popular term but it has different degrees. The truth of the matter is that guidance is another name of finding the way to reach Allah Ta` ala. Therefore, the degrees of achieving nearness to Allah are many and different and unending. Similarly, the degrees of guidance too are extremely varied and different from each other. The lowest degree of guidance is deliverance from Kufr and Shirk, and having 'Iman. One on this degree of guidance has his or her orientation changed, away from the path of error - towards Allah. Then, there is the distance between Allah Ta` ala and His servants. This distance takes a journey to cover - and every stage so covered has degrees, which is called Hidayah or guidance. Therefore, guidance is a need. At no time, can anyone claim not to need it, not even prophets and messengers of Allah. For this reason, the Holy Prophet ﷺ ، not only taught his people the lesson of: اهْدِنَا الصِّرَ‌اطَ الْمُسْتَقِيمَ ﴿6﴾ (Guide us in the straight path), but he himself kept making this prayer - because there is no end to the stages and ranks of nearness to Allah, so much so, that entry into the Paradise mentioned in this verse has been identified as Hidayah or guidance, for this is the last station of Hidayah.( Those interested in reading more about the implications, meaning and degrees of guidance may see Ma'ariful-Qur'an, English Translation, Vol.I, pages 72-77)
 
+## AI Translation
+
+We will remove whatever bitterness they had in their hearts. Rivers will flow under their feet. And they will say, “Praise be to Allah for guiding us to this. We would have never been guided if Allah had not guided us. The messengers of our Rabb had certainly come with the truth.” It will be announced to them, “This is Paradise awarded to you for what you used to do.”
+
+## AI Tafsir
+
+**What this ayah teaches:** They will drink from one of them, and all hatred will be removed from their hearts, for it is the cleansing drink.
+
+**Classical tafsir:** Ibn Kathir notes: The purpose is to emphasize that good deeds - which is a condition for entry into Paradise - is really not something so difficult as would be beyond the ability of a man or woman.
+
+**From the Sunnah:** Paradise that belonged to the people of the Fire, they will be told, "This is the Paradise that you inherited because of what you used to do. Instead of that, in accordance with a Hadith in al-Bukhari and Muslim, this payment will be made in the currency of deeds. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

@@ -170,6 +170,19 @@ Surah Al-Kauthar
 
 Ends here
 
+## AI Translation
+
+It is your enemy who is truly cut off—severed from lasting good, from remembrance, and from the reward he assumed his mockery could erase.
+
+## AI Tafsir
+
+**Context:** Ibn 'Abbas, Mujahid, Sa'id bin Jubayr and Qatadah all said, "This Ayah was revealed about Al-'As bin Wa'il. Whenever the Messenger of Allah ﷺ would be mentioned (in his presence) he would say, 'Leave him, for indeed he i…
+
+**What this ayah teaches:** So from this goodness is the river (in Paradise).
+
+**Classical tafsir:** Ibn Kathir notes: So when he dies he will not be remembered.' Therefore, Allah revealed this Surah." Shamir bin 'Atiyah said, "This Surah was revealed concerning 'Uqbah bin Abi Mu'ayt." Ibn 'Abbas and 'Ikrimah have both said, "This Surah was revealed about Ka'b bin Al-Ashraf and a group of the those who reject the truth of the Qur… Because the word Al-Kawthar comes from the word Kathrah (abundance) and it (Al-Kawthar) linguistical…
+
+**From the Sunnah:** this in his Sahih, and so did Muslim, on the authority of Anas bin Malik.
 ## Personal Reflections
 
 

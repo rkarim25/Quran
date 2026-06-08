@@ -157,6 +157,15 @@ An anecdote worth remembering
 
 Someone accused Hajjaj ibn Yusuf before certain Mujtahid Imams. Hajjaj ibn Yusuf is the most notorious tyrant of Islamic history. Since, he has killed thousands of Sahabah and Tabi` in unjustly, therefore, it generally happens that people tend to overlook the evil lurking behind calling him evil. The pious elder before whom this accusation was leveled against Hajjaj ibn Yusuf asked the accusers, "Do you have any authority or evidence to support your accusation?" They said, "No." Then he said, "If Allah Ta’ ala will avenge the unjust killing of thousands of in-nocent people by Hajjaj ibn Yusuf, remember that anyone who is unjust to Hajjaj will also not be allowed to escape from that revenge. Allah Ta` la will wreak vengeance of Hajjaj from him too. There is no partisanship in the justice of Allah Ta` ala, therefore, it is not possible that He would release others to go about maligning His sinning servants by giving them a free hand to accuse and blame them at will.
 
+## AI Translation
+
+Do not take a human life—made sacred by Allah—except with legal right. If anyone is killed unjustly, We have given their heirs the authority, but do not let them exceed limits in retaliation, for they are already supported by law.
+
+## AI Tafsir
+
+**What this ayah teaches:** He who has killed a person unjustly [ for his punishment is that the waliyy (legal heir) of the person killed can get him killed under the law of qisas (even retaliation)].
+
+**Classical tafsir:** Ibn Kathir notes: The great scholar and Imam Ibn 'Abbas understood from the general meaning of this Ayah that Mu'awiyah should take power, because he was the heir of 'Uthman, who had been killed wrongfully, may Allah be pleased with him, and Mu'awiyah did eventually take power, as Ibn 'Abbas said on the basis of this…
 ## Personal Reflections
 
 

@@ -186,6 +186,17 @@ Surah Ash-Shu` ara'
 
 Ends here.
 
+## AI Translation
+
+those who establish salah — the formal prayer, give zakat — obligatory sharing of wealth to purify what remains, and have sure iman in the Akhirah — the everlasting life after death.
+
+## AI Tafsir
+
+**Context:** The word شَاعِر (Sha` ir) is used in this verse in its technical and commonly known meaning, that is the rhythmic composer.
+
+**What this ayah teaches:** Every art or learning, which makes one oblivious of Allah and Hereafter, is contemptible Ibn Abi Jamrah has ruled that excessive involvement in poetry and all such learning or art which makes one oblivious of the remembrance of Allah Ta'ala and causes doubts in the mind about beliefs of Islam or helps in promoting spiritual ills, fall under the same ruling as is given for conte…
+
+**Classical tafsir:** Ibn Kathir notes: Their objective was to call him a liar, because the word Sha` ir is also used in the sense of lie, and Shi` r for a liar.
 ## Personal Reflections
 
 

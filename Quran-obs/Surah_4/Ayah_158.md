@@ -361,6 +361,17 @@ According to some other reports, when some of them woke up to what had happened,
 
 Verse 158, part of which was referred to immediately earlier, ends at: وَكَانَ اللَّـهُ عَزِيزًا حَكِيمًا : (And Allah is All-Mighty, All-Wise) carrying a significant message. It means that the planning of Jews to kill Sayyidna ` Isa (علیہ السلام) was insignificant as matched against the Power of Allah who has taken it upon Himself to protect Sayyidna ` Isa (علیہ السلام) . Might and mastery are His domain. If materialists in their single-track isolation, remain incapable of understanding the reality of the 'lifting off of Sayyidna ` Isa (علیہ السلام) ، that is their own limitation. As for Allah, He is All-Wise - everything He does is based on wisdom and fitness to whatever end is desired.
 
+## AI Translation
+
+Rather, Allah raised him up to Himself. And Allah is Almighty, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah is Ever All-Powerful, All-Wise (158)And there is none of the People of the Scripture, but must believe in him, before his death.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, you are a mad man!)[15:6] When Allah sent 'Isa with proofs and guidance, the Jews, may Allah's curses, anger, torment and punishment be upon them, envied him because of his prophethood and obvious miracles; curing the blind and leprous and bringing the dead back to life,…
+
+**From the Sunnah:** Paradise)?' One of the youngest ones among them volunteered and 'Isa asked him to sit down. (Sahih Muslim, Sunan an-Nasa'i) And on the Day of Resurrection, he will be a witness against them.) Ibn Jarir recorded that Ibn 'Abbas commented,
 ## Personal Reflections
 
 

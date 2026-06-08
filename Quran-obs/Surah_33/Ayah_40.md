@@ -331,6 +331,17 @@ Qadi ` Iyad in his book 'Ash-shifa', after declaring that a person who claims to
 
 "The Ummah holds by consensus that this discourse bears the obvious meaning and that this verse means what it says, without any other interpretation or any exception. Therefore, there is no doubt in the kufr (infidelity) of all those sects (who follow any claim out of prophethood) rather their kufr stands absolutely proved in view of the consensus of the Ummah and the express texts of the Qur'an and Sunnah.
 
+## AI Translation
+
+Muḥammad is not the father of any of your men, but is the Messenger of Allah and the seal of the prophets. And Allah has perfect knowledge of all things.
+
+## AI Tafsir
+
+**What this ayah teaches:** If there will be no Prophet after him then there will surely be no Messenger after him either, because the status of a Messenger is higher than that of a Prophet, for every Messenger is a Prophet but the reverse is not the case.
+
+**Classical tafsir:** Ibn Kathir notes: If there will be no Prophet after him then there will surely be no Messenger after him either, because the status of a Messenger is higher than that of a Prophet, for every Messenger is a Prophet but the reverse is not the case.
+
+**From the Sunnah:** The leader of all people in this regard and in all regards is Muhammad the Messenger of Allah ﷺ, for he undertook to convey the Message to the people of the east and of the west, to all kinds of the sons of Adam, so Allah caused his word, his religion and his… No male child of the Prophet ﷺ lived until puberty.
 ## Personal Reflections
 
 

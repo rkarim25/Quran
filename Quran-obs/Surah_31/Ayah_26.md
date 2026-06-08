@@ -86,6 +86,15 @@ The word: اسباغ (isbagh) in the next sentence of verse 20: وَأَسْبَ
 
 The manifestations of Allah's knowledge, power and blessings are endless. These cannot by encompassed by anyone through speech, nor can any pen write them comprehensively.
 
+## AI Translation
+
+To Allah belongs whatever is in the heavens and the earth. He is the Self-Sufficient, Praiseworthy.
+
+## AI Tafsir
+
+**What this ayah teaches:** And if you ask them: "Who has created the heavens and the earth," they will certainly say: "Allah." Say: "All the praises and thanks be to Allah!" But most of them know not (25)To Allah belongs whatsoever is in the heavens and the earth.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, Allah Ta` a1a did put all these things into the service of human beings but did not make them subject to their will and command.
 ## Personal Reflections
 
 

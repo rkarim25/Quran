@@ -104,6 +104,17 @@ Verily, Allah responded to the supplication of both of these Prophets concerning
 
 وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا (…let not the wrongdoers progress in anything but deviation from the right path 71:24). This is the supplication of Prophet Nuh (علیہ السلام) against his people. It may not be surmised that the duty and obligation of a Prophetic office is to guide the people, but here Prophet NuhI is praying for increase in his people's misguidance. Prophet Nuh (علیہ السلام) did not invoke this curse out of despair or impatience. In fact, he invoked it when, after doing full justice to his mission for many centuries, his people chose the path of deviation, rebellion, disbelief and obstinacy and persisted in it until they had reached a point of no return, of which Allah informed him thus, 'And it was revealed to Nuh (علیہ السلام) that none of your people would ever believe except those who have already believed__ [ 11:36] '. This situation made it clear to him that his people would definitely and certainly die in the state of disbelief. So he prayed for their final destiny to overtake them sooner and destroy them.
 
+## AI Translation
+
+Those leaders have already led many astray. So, O Lord, only allow the wrongdoers to stray farther away.'
+
+## AI Tafsir
+
+**Context:** وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا (…let not the wrongdoers progress in anything but deviation from the right path 71:24). This is the supplication of Prophet Nuh (علیہ السلام) against his people.
+
+**What this ayah teaches:** They had many idols, the five mentioned in the verse under comment being the most popular because of the deep love they had for them.
+
+**Classical tafsir:** Ibn Kathir notes: Destroy their wealth, and harden their hearts, so that they will not believe until they see the painful torment.)(10:88) Verily, Allah responded to the supplication of both of these Prophets concerning their people and He drowned their nations due to their rejection of what he (t…
 ## Personal Reflections
 
 

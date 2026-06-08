@@ -221,6 +221,17 @@ Rulings
 
 3. As for the right to make a will covering the one-third of his property, one has the right to make some change in this will or cancel it totally during his life time.
 
+## AI Translation
+
+Whoever fears bias or sin in a will and brings about a fair settlement among the parties commits no sin. Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** In such cases, the executive of the will and testament is allowed to correct the errors and to replace the unjust items in the will with a better solution, so that both the Islamic law and what the dead person had wished for are respected and observed.
+
+**Classical tafsir:** Ibn Kathir notes: But, in commonly accepted usage, it refers to what must be done after death.
+
+**From the Sunnah:** For this reason we see the Hadith narrated in the Sunan and other books that 'Amr bin Kharijah said: I heard Allah's Messenger ﷺ saying in a speech: that Muhammad bin Sirin said: Ibn 'Abbas recited Surat Al-Baqarah (chapter 2 in the Qur'an) until he reached the Ayah: (Musnad Ahmad)
 ## Personal Reflections
 
 

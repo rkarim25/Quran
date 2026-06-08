@@ -164,6 +164,19 @@ They neither understand Allah's Word nor attempt to comprehend it nor want it. R
 
 In verse 126: يُفْتَنُونَ فِي كُلِّ عَامٍ مَّرَّ‌ةً أَوْ مَرَّ‌تَيْنِ (they are put to trial every year once or twice), hypocrites have been warned about their incorrigible hypocrisy and constant breach of trust which brought all sorts of troubles for them every year once or twice. They saw the defeat of their disbelieving accomplices, the kuffar of Makkah. Then, they had to face the disgrace brought upon them when their hypocrisy was exposed. So, there was no dearth of warning signals for them. Incidentally, the count of ` once' or ` twice' here does not signify the numbers one and two as such. In fact, the purpose is to stress that this chain of action and reaction keeps moving all the time yet they take no lesson from what happens to them.
 
+## AI Translation
+
+Whenever a sûrah is revealed, they look at one another, “Is anyone watching you?” Then they slip away. Allah has turned their hearts away because they are a people who do not comprehend.
+
+## AI Tafsir
+
+**Context:** This describes the hypocrites that when a Surah is revealed to the Messenger of Allah ﷺ,
+
+**What this ayah teaches:** Allah has turned their hearts because they are a people that understand not . Yet, they turn not in repentance, nor do they learn a lesson (from it)(126)And whenever there comes down a Surah, they look at one another (saying): "Does any one see you?" Then they turn away.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said that hypocrites are tested with drought and hunger.
+
+**From the Sunnah:** This describes the hypocrites that when a Surah is revealed to the Messenger of Allah ﷺ,
 ## Personal Reflections
 
 

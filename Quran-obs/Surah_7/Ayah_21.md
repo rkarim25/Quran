@@ -74,6 +74,15 @@ The story of Sayyidna 'Adam (علیہ السلام) and Iblis mentioned in the p
 
 Detailed comments have been given in the Tafsir of that Surah. If needed, please see Ma‘ariful-Quran, English Translation, Volume I, Pages 170-187.
 
+## AI Translation
+
+And he swore to them, “I am truly your sincere advisor.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Thus, Shaytan envied them and plotted deceitfully, whispering and suggesting treachery. He wished to rid them of the various favors and nice clothes that they were enjoying.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

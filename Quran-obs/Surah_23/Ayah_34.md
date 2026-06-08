@@ -92,6 +92,15 @@ In the earlier verses the story of Sayyidna Nuh (علیہ السلام) was told
 
 An alternative explanation is that the word صَیحَہ (Cry) has been used in the general sense of punishment from Allah in which case it would include the tribe of ` Ad also.
 
+## AI Translation
+
+And if you ever obey a human like yourselves, then you would certainly be losers.
+
+## AI Tafsir
+
+**What this ayah teaches:** It was said that this was 'Ad, because they were the successors of the people of Nuh. Far, very far is that which you are promised!) meaning, very unlikely.
+
+**Classical tafsir:** Ibn Kathir notes: It was said that this was 'Ad, because they were the successors of the people of Nuh.
 ## Personal Reflections
 
 

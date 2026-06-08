@@ -239,6 +239,17 @@ In short, the verse points out to the perfect power and wisdom of Allah who crea
 
 For added warning, it was said at the end of the verse (5): مَا خَلَقَ اللَّـهُ ذَٰلِكَ إِلَّا بِالْحَقِّ ۚ يُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَعْلَمُونَ (Allah has not created all this but for something right. He elaborates the signs for a people who understand). It means that Allah did not create all these things in vain. There is great wisdom behind it, and certainly numerous are the benefits they bring for human beings. These are elaborated signs. They are loud and clear. They are telling the truth to people who are blessed with reason and insight.
 
+## AI Translation
+
+He is the One Who made the sun a radiant source and the moon a reflected light, with precisely ordained phases, so that you may know the number of years and calculation of time. Allah did not create all this except for a purpose. He makes the signs clear for people of knowledge.
+
+## AI Tafsir
+
+**What this ayah teaches:** For the usual business of life, the sharp and clear light of the day is required, while the com-paratively dim light of the night is preferred for ordinary chores.
+
+**Classical tafsir:** Ibn Kathir notes: He explains the Ayat in detail for people who have knowledge (5)Verily, in the alternation of the night and the day and in all that Allah has created in the heavens and the earth are Ayat for those who have Taqwa .
+
+**From the Sunnah:** However, this is subject to the condition that the Lunar Calendar must continue to be in use among Muslims on a collective basis, so that the occasions and timings of religious obligations such as Ramadan and Hajj are in common knowledge at all times. (Sahih Muslim) Using it, following in their footsteps, is certainly an effective cause of blessings and rewards for modern day Muslims as well.
 ## Personal Reflections
 
 

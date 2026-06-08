@@ -164,6 +164,17 @@ Allah then says:
 
 "All praise to Allah who has led us unto this. [ 7:43].
 
+## AI Translation
+
+He will guide them, improve their condition,
+
+## AI Tafsir
+
+**Context:** (tighten their bonds.) 'This is referring to the prisoners of war whom you have captured. Later on, after the war ends and the conflict has ceased, you have a choice in regard to the captives: You may either act gracious…
+
+**What this ayah teaches:** This sentence refers to two of Allah's bounties: First, He will steer them by His guidance; and secondly, He will improve their conditions. But those who are killed in the way of Allah, He will never let their deeds be lost (4)He will guide them and amend their condition (5)And admit them to Paradise, which He has made known to them (6)O you who believe!
+
+**Classical tafsir:** Ibn Kathir notes: Misery awaits him, and degeneracy; and if he is pricked by a thorn, may he not find anyone to pull it for him.) This means may Allah not cure him.
 ## Personal Reflections
 
 

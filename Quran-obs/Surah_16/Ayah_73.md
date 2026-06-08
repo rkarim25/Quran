@@ -106,6 +106,15 @@ There is yet another hint visible in this sentence which mentions grandsons alon
 
 After that, by saying: وَرَ‌زَقَكُم مِّنَ الطَّيِّبَاتِ (and gave you provision from good things), mention was made of things which guarantee personal survival. In other words, once a human child is born, food is needed for its personal survival. That too was provided by Allah Ta’ ala. The real meaning of the word: حَفَدَةً - (hafadah) in this verse is that of one who helps and serves. That this word has been used for children suggests that children should always be at the service of their father and mother. (Qurtubi)
 
+## AI Translation
+
+Yet they worship besides Allah those idols who do not afford them any provision from the heavens and the earth, nor do they have the power to.
+
+## AI Tafsir
+
+**What this ayah teaches:** Denouncing the Worship of anything besides Allah Allah tells us about the Mushrikin who worship others besides Him, even though He alone is the bountiful Provider, the Creator and Sustainer, without partners or associates, but they still worship idols and make rivals for Him.
+
+**Classical tafsir:** Ibn Kathir notes: Given here, there may be another hint towards the fact that spouses belong to each other's genus and, as such, their needs and feelings are common to both, therefore, mutual consideration is but necessary for them.
 ## Personal Reflections
 
 

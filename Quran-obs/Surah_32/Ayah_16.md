@@ -180,6 +180,19 @@ Ibn Kathir and other Tafsir authorities have said that there is no contradiction
 
 And Sayyidah Asma' bint Yazid ؓ narrates: The Holy Prophet ﷺ said, 'when Allah Ta’ ala will gather everyone from the first to the last, a proclaimer whose call will be heard by the entire creation will call: 'This day everyone on the plains of Resurrection will find out as to who is really deserving of honor and compliment.' Then, the proclaiming angel will proclaim: '0 people assembled on the plains of Resurrection, let those rise from among you, those whose attribute was: تَتَجَافَىٰ جُنُوبُهُمْ (Their sides remain apart from their beds - 16) '. At this call, these people will stand up, though their number will be small. (Ibn Kathir) And some words of the same narration say that these people will be sent to Paradise without reckoning. After that, all others will stand and face reckoning. (Mazhari)
 
+## AI Translation
+
+They leave their beds calling on their Rabb with hope and fear, and give from what We provided them.
+
+## AI Tafsir
+
+**Context:** Sayyidna Abu ad-Darda', Qatadah and Dahhak ؓ have said that this attribute of sides remaining apart from beds also applies to those who make their Salah of ` Isha' with Jama` ah and then go on to make their Salah of Fajr…
+
+**What this ayah teaches:** Ibn Kathir and other Tafsir authorities have said that there is no contradiction in all these sayings.
+
+**Classical tafsir:** Ibn Kathir notes: Because they conceal their good deeds, Allah conceals the reward for them, a fitting reward which will suit their deeds.
+
+**From the Sunnah:** Their leader in this world and the Hereafter is the Messenger of Allah ﷺ. Paradise and keep me away from Hell. (Musnad Ahmad)
 ## Personal Reflections
 
 

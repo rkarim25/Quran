@@ -125,6 +125,17 @@ In this verse, these brothers have referred to themselves as: عُصبَۃً (` 
 
 And about the brothers of Sayyidna Yusuf (علیہ السلام) ، it has been mentioned in the Qur'an itself that they, later on, admitted their crime and requested their father to pray for their forgiveness which he accepted to do. This makes it obvious that their mistake was forgiven. Now, this can become possible only when all of them are believers - otherwise, the prayer for the forgiveness of a disbeliever is not permissible. This is the reason why there is no difference of opinion about their being believers, although ` Ulama' do differ about these brothers being prophets. This tells us that the word: ضَلَال (dalal: error) has been uttered at this place in the sense that he does not treat brothers equally in the matter of their rights.
 
+## AI Translation
+
+Remember when they said to one another, “Surely Joseph and his brother Benjamin are more beloved to our father than we, even though we are a group of so many. Indeed, our father is clearly mistaken.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, their story is unique and is worthy of being narrated.
+
+**Classical tafsir:** Ibn Kathir notes: As-Suddi said that his name was Yahudha (Judah).
+
+**From the Sunnah:** May Allah forgive them, and indeed, He is the ar-Rahim among those who have mercy, for they intended to carry out a "grave error." Ibn Abi Hatim collected this statement, from the route of Salamah bin Al-Fadl from Muhammad bin Ishaq.
 ## Personal Reflections
 
 

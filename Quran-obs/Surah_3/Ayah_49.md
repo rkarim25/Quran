@@ -292,6 +292,15 @@ Ruling:
 
 Making the shape of a bird was the making of a picture, something permitted in that Shari` ah. In our Shari'ah, its permissibility was abrogated.
 
+## AI Translation
+
+And Allah will teach him writing and wisdom, the Torah and the Gospel, and a messenger to the Children of Israel ‘I have come to you with a sign from your Rabb: I will make for you a bird from clay, breathe into it, and it will become a bird—by Allah’s Will. I will heal the blind and the leper and raise the dead to life—by Allah’s Will. And I will prophesize what you eat and store in your houses. Surely in this is a sign for you if you believe.
+
+## AI Tafsir
+
+**What this ayah teaches:** In order that they believe, enumerated in verse 49, there are four signs or miracles that he would perform, being enough for willing believers. These are the miracles that 'Isa performed; he used to make the shape of a bird from clay and blow into it, and it became a bird by Allah's leave.
+
+**Classical tafsir:** Ibn Kathir notes: This is because the Qur'an is the Word of Allah and is nothing like that of the creatures.
 ## Personal Reflections
 
 

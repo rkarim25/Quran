@@ -252,6 +252,17 @@ Allah said,
 
 ذُو مِرَّ‌ةٍ فَاسْتَوَىٰ وَهُوَ بِالْأُفُقِ الْأَعْلَىٰ (one of vigour. So he stood poised, while he was on the upper horizon...53:6-7] The word mirrah means 'strength' or 'vigour'. This is another quality of Jibra'il (علیہ السلام) in that he is no weakling, but strong, mighty in power and firm, so that it may not be suspected that the devil may intercept the angel carrying the Divine revelation and snatch it away from him. Jibra'il (علیہ السلام) is so mighty in power and strength that the devil dare not come anywhere near him. The word اِسْتَوَىٰ istawa means to be or become straight or to level. The verse means that when he saw Jibra'il (علیہ السلام) the first time, the latter was descending from the heaven. Having descended, he sat or settled straight on the highest part of the horizon. Ufuq [ horizon ] is qualified by a'la [ the highest part or uppermost ] and it signifies that Jibra'il (علیہ السلام) was shown on the uppermost horizon, [ so that he could be seen clearly ] because the lower part of the horizon which seems to be adjacent to the earth is normally hidden from the sight [ as a result he would not have been visible to the Holy Prophet ﷺ .
 
+## AI Translation
+
+possessing great perfection, who assumed his true form
+
+## AI Tafsir
+
+**Context:** He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While he was in the highest part of the horizon (7)Then he approached and came closer (8)And was at a distance of two bows' length or less (9)So (…
+
+**What this ayah teaches:** Therefore, this verifies the facts mentioned, leaving no doubt or means of refute. This is a tremendous quality that demonstrates the Prophet's firm obedience to Allah, because he only did what was commanded and did ask beyond what he was given.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, this verifies the facts mentioned, leaving no doubt or means of refute.
 ## Personal Reflections
 
 

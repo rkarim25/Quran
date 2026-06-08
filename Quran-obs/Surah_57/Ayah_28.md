@@ -150,6 +150,17 @@ This is the end of the Tafsir of Surat Al-Hadid, all praise is due to Allah, and
 
 Then the verse promises the People of the Book that believe in the Holy Prophet ﷺ ، their reward will be doubled. The first reward is on account of their believing in Prophet ` Isa (علیہ السلام) or Musa (علیہ السلام) and following their Shari’ ah, and the second reward is for their believing in the Holy Prophet ﷺ and acting upon his Shari’ ah. The reason for their double reward is that Jews and Christians were unbelievers until they believed in the Holy Prophet ﷺ ، and no worship of an unbeliever is acceptable. It required that any action they had performed according to a previous Shari` ah would go waste. But the present verse clarifies that when an unbeliever embraces Islam, all his good actions are restored, hence he is doubly rewarded.
 
+## AI Translation
+
+O you who have iman: Have taqwa of Allah and believe in His Messenger. He will give you a double portion of His mercy, grant you a light to walk by, and forgive you. Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** A person who has a slave-girl and he educates her properly and teaches her good manners properly (without violence) and then manumits and marries her, will get a double reward.) This Hadith is recorded in the Two Sahihs.
+
+**Classical tafsir:** Ibn Kathir notes: And Allah is Oft-Forgiving, ar-Rahim (28)So that the People of the Scriptures may know that they have no power whatsoever over the grace of Allah, and that (His) grace is in His Hand to bestow it on whomsoever He wills.
+
+**From the Sunnah:** Earlier we mentioned a Hadith that An-Nasa'i collected from Ibn 'Abbas that this Ayah is about the People of the Scriptures who believe in Islam, and that they will earn double their reward if they do so.
 ## Personal Reflections
 
 

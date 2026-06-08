@@ -160,6 +160,15 @@ It is stated in a Hadith that the Holy Prophet ﷺ said that in Paradise, if the
 
 In another Hadith, the Holy Prophet ﷺ said that if a Mu'min in Paradise wishes to have a child born in his house, the conception, delivery, weaning, growing into being an adult - all this would take place in a moment. (Tirmidhi, Baihaqi, etc. - Mazhari)
 
+## AI Translation
+
+We are your supporters in this worldly life and in the Akhirah. There you will have whatever your souls desire, and whatever you ask for:
+
+## AI Tafsir
+
+**What this ayah teaches:** - 41:31-32) In other words, ` all your desires' would be fulfilled whether you request or you don't.' The word used after that is ` nuzulan'1 meaning hospitality indicates that many the delights provided to you there will be such that even desire had not entered your heart, as happens to a guest, specially of a great personage, that many such things also are presented to him that the guest had not…
+
+**Classical tafsir:** Ibn Kathir notes: - 41:31-32) In other words, ` all your desires' would be fulfilled whether you request or you don't.' The word used after that is ` nuzulan'1 meaning hospitality indicates that many the delights provided to you there will be such that even desire had not entered your heart, as ha…
 ## Personal Reflections
 
 

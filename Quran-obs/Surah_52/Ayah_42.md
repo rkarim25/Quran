@@ -110,6 +110,17 @@ This Hadith is collected in the Two Sahihs using various chains of narration. Ju
 
 { 2} This points out to the demand of the pagans of Makkah that they would not believe in the Holy Prophet unless he brings some pieces of the sky falling down from above. (See 17:92 and 26:187 in the Qur an) The answer given is that even if Allah fulfils this absurd demand, they would still not believe and would seek other excuses like claiming that the mass they are seeing is nothing but a cloud. (Muhammad Taqi Usmani)
 
+## AI Translation
+
+Or do they intend to plot? Then it is those who reject the truth who will be outplotted.
+
+## AI Tafsir
+
+**What this ayah teaches:** But those who disbelieve are themselves plotted against!) Allah the Exalted is asking, 'Do these people who utter such statements about the Messenger and his religion seek to deceive the people and plot against the Messenger and his Companions?
+
+**Classical tafsir:** Ibn Kathir notes: Then let their listener produce some manifest proof (38)Or has He only daughters and you have sons (39)Or is it that you ask a wage from them so that they are burdened with a load of debt (40)Or that the Unseen is with them, and they write it down (41)Or do they intend a plot?
+
+**From the Sunnah:** This Hadith is collected in the Two Sahihs using various chains of narration.
 ## Personal Reflections
 
 

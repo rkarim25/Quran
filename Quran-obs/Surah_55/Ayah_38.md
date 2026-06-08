@@ -130,6 +130,15 @@ And saying that it means "prepared" does not contradict the first report from Al
 
 يُرْ‌سَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ‌ وَنُحَاسٌ فَلَا تَنتَصِرَ‌انِ (A flame of fire and a smoke will be loosed against you, and you will not [ be able ] to defend... 55:35) Sayyidna Ibn ` Abbas ؓ and other leading authorities on Qur'anic exegesis have said that the word shuwaz with refers to 'flame or fire without smoke' and the word nuhas refers to 'smoke in which there is no flame'. This verse too addresses the two species of creation, the jinns and mankind. It addresses them and describes how fire and smoke will be unleashed against them. The verse could mean that after the reckoning is over, and the disbelievers are sent to the Hell, they will experience two different types of punishment. In some places there will be only fire and flame, with no smoke at all. In other places there will be only smoke and no flame or fire. Other Qur'anic exegetes regard this verse as a supplement to the preceding one, and assign the following meaning to it: O jinn and mankind, it is not within your power to cross the bounds of the heavens. If you do attempt to escape on the Day of Resurrection, then the angels [ including those guarding the Hellfire ] will bring you back by directing the flames of fire and smoke. The verb فَلَا تَنتَصِرَ‌انِ fala-tantasiran is derived from اِنتِصَار intisar which means 'to help someone to defend him against a calamity' and thus the words فَلَا تَنتَصِرَ‌انِ fala-tantasiran signify that the jinns and mankind will not be able to help each other against Divine punishment, try as they might.
 
+## AI Translation
+
+So which of your Rabb's favours will you both—humans and jinn—deny?
+
+## AI Tafsir
+
+**What this ayah teaches:** Then when the heaven is rent asunder, and it becomes Wardah like Dihan (37)Then which of the blessings of your Lord will you both deny (38)So, on that Day he will not be questioned about his sin, (neither) human nor Jinn (39)Then which of the blessings of your Lord will you both deny (40)The criminals will be known by their marks, and they will be seized by their foreheads and…
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan and Qatadah said, "They will be known by their dark faces and their blue eyes." I say that this contrasts to the marks that will distinguish the believers, such as the light that will appear on the parts of the body that they used to wash while performing ablution.
 ## Personal Reflections
 
 

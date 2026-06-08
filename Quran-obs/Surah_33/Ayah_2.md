@@ -102,6 +102,17 @@ Here Allah points out something lower by referring to something higher. When He 
 
 What is said in verse وَاتَّبِعْ مَا يُوحَىٰ إِلَيْكَ مِن رَّ‌بِّكَ ۚ إِنَّ اللَّـهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرً‌ا وَاتَّبِعْ مَا يُوحَىٰ إِلَيْكَ مِن رَّ‌بِّكَ ۚ إِنَّ اللَّـهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرً‌ا (And follow what is revealed to you from your Lord. Surely Allah is All-Aware of what you do.) is actually a complement of the first order. It means: Do not be beguiled or taken in by what the disbelievers and hypocrites say and do not agree or yield to it. Instead of all that, whatever you have been told by Allah through walhy (revelation) remains the only thing you and your companions should follow. Since, the noble companions ؓ and Muslims at large are included under this address, therefore, by saying: بِمَا تَعمَلُونَ (what you do) in the plural form at the end, everyone was alerted.
 
+## AI Translation
+
+Follow what is revealed to you from your Rabb — the One who creates, owns, nurtures, and sustains. Surely Allah is All-Aware of what you all do.
+
+## AI Tafsir
+
+**Context:** (1. O Prophet! Have Taqwa of Allah, and obey not the those who reject the truth and the hypocrites. Verily, Allah is Ever All-Knower, All-Wise.)(2. And follow that which is revealed to you from your Lord.
+
+**What this ayah teaches:** And follow that which is revealed to you from your Lord.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, Allah is Ever All-Knower, All-Wise.)(2.
 ## Personal Reflections
 
 

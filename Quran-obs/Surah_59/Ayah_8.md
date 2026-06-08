@@ -248,6 +248,17 @@ The third characteristic of the emigrants is described thus: وَيَنصُرُ�
 
 The fourth characteristic of the emigrants is described thus: أُولَـٰئِكَ هُمُ الصَّادِقُونَ (... They are the truthful...59:8). That is, such people are sincerely true in words and deeds. The covenant they made with Allah and His Messenger by reciting the kalimah, they duly fulfilled it and proved themselves to be true about it. This verse candidly testifies to the truthfulness of all emigrant Companions. Anyone calling any of them a 'liar' cannot be a Muslim, because he is rejecting this verse. God forbid! Rawafid call these Companions 'hypocrites'. This is a clear rejection of the verse. The Messenger of Allah ﷺ held the emigrant Companions ؓ in such high esteem that when he prayed to Allah, he would supplicate through their wasilah. [ as transmitted by Al-Baghawi and Mazhari ].
 
+## AI Translation
+
+A share is for poor emigrants who were driven from their homes and wealth while seeking Allah's bounty and pleasure and supporting Allah and His Messenger. They are the ones true in faith.
+
+## AI Tafsir
+
+**What this ayah teaches:** The word fadl [ bounty, grace ] is normally used for worldly blessings and ridwan [ good pleasure ] for blessings of the Hereafter.
+
+**Classical tafsir:** Ibn Kathir notes: [ Mazhari, Qurtubi ] An Important Issue: The rule about the control of unbelievers over the wealth and property of the Muslims This verse describes the emigrants as poor, whereas a faqir [ poor ] in Islamic law refers to a person who has no property whatever, or a person who poss…
+
+**From the Sunnah:** He also recorded that Abu Hurayrah said, "The Ansar said (to the Prophet ﷺ), 'Distribute our date-palms between us and our emigrant brothers.' He replied, 'No.' The Ansar said (to the emigrants), 'Look tend to the trees and share the fruits with us.' The emigr… (Sahih al-Bukhari, Sahih Muslim) Abu Bakr As-Siddiq gave away all his wealth in charity and Allah's Messenger ﷺ asked him,
 ## Personal Reflections
 
 

@@ -217,6 +217,17 @@ The blessings it has are both religious and worldly. As for religious blessings,
 
 Sayyidna Mu` adh ibn Jabal reports that the Holy Prophet ﷺ said: Allah Ta’ ala says: 0 land of Syria, thou art My region chosen from many and I shall make My chosen servants reach thee. (Qurtubi) And it appears in a Hadith of the Musnad of Ahmad that the Imposter will traverse the whole Earth but he will not be granted access to four Mosques: (1) Masjid of Madinah, (2) Masjid of Makkah al-Mukarramah, (3) Al-Masjid al-Aqsa and (4) Masjid Tur.
 
+## AI Translation
+
+O descendants of those We carried with Noah in the Ark! He was indeed a showing shukr — gratitude shown in word and action servant.”
+
+## AI Tafsir
+
+**Context:** ("... other than Me as (your) Wakil") means, 'you have no protector, supporter or Allah besides Me,' because Allah revealed to every Prophet that he should worship Him alone with no partner or associate. Then Allah says:
+
+**What this ayah teaches:** But, as obvious, this event took place after the return because it has been reported in the incident relating to his meeting with blessed prophets at different heavens that it was Sayyidna Jibra'il who introduced him to all prophets.
+
+**Classical tafsir:** Ibn Kathir notes: ) carries a hint in this direction because this word is used to register wonder or introduce a great marvel.
 ## Personal Reflections
 
 

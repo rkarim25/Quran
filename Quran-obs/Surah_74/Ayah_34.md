@@ -116,6 +116,19 @@ In the next verses, there is the mention of the Hereafter and its horrors.
 
 اِنَّهَا لَاِحْدَى الْكُبَرِ (saqar: Hell) is one of the greatest things....74:35) The pronoun in the phrase innaha refers to saqar 'Hell' which has been mentioned in one of the preceding verses. The word kubar is the plural of kubaa which is an adjective for dahiyah or musibah 'calamity'. The verse purports to say that Hell which the unbelievers will enter will be one of the greatest calamities. Besides, there will be many different kinds of torments and tortures.
 
+## AI Translation
+
+and the dawn as it brightens—
+
+## AI Tafsir
+
+**Context:** وَمَا يَعْلَمُ جُنُوْدَ رَبِّكَ اِلَّا هُو (...And no one knows the hosts of your Lord but He 74:31) Muqatil, among the leading authorities, says that this is rebuttal to Abu Jahl's statement.
+
+**What this ayah teaches:** And by the moon (32)And by the night when it withdraws (33)And by the dawn when it brightens (34)Verily, it is but one of the greatest (signs)(35)A warning to mankin (36)To any of you that chooses to go forward, or to remain behind .
+
+**Classical tafsir:** Ibn Kathir notes: This is so that one does not make the mistake of thinking that they are only nineteen in all.
+
+**From the Sunnah:** It has been confirmed in the Hadith concerning Al-Isra' that is reported in the Two Sahihs and other collections, that the Messenger of Allah ﷺ said in describing the Frequented House (Al-Bayt Al-Ma'mur), which is in the seventh heaven,
 ## Personal Reflections
 
 

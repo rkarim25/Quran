@@ -179,6 +179,17 @@ In the concluding sentence of verse [ 36] نَقَّبُوا فِي الْبِل
 
 The word mahis means asylum or a place of refuge. In this verse Allah poses a rhetorical question to the unbelievers: How many generations We have destroyed before you! They were more numerous and mightier than you, and they traveled throughout the land for trade and business, but they could not find shelter from their destined death. No land could give them shelter.
 
+## AI Translation
+
+How many communities We destroyed before them who were mightier in strength! When the punishment came, they fled across the land. Was there any escape?
+
+## AI Tafsir
+
+**What this ayah teaches:** Could they find any place of refuge (36)Verily, therein is indeed a reminder for him who has a heart or gives ear while he is heedful (37)And indeed We created the heavens and the earth and all between them in six Days and nothing of fatigue touched Us (38)So bear with patience all that they say, and glorify the praises of your Lord, before the rising of the sun and before (its…
+
+**Classical tafsir:** Ibn Kathir notes: The word mahis means asylum or a place of refuge.
+
+**From the Sunnah:** Have what they collected benefited them or averted Allah's torment when it came to them on account of their denial of the Messengers? Qiyam Al-Layl, prayer at night, was a command for the Prophet ﷺ and his followers for sometime but it was later abrogated for the Ummah. (Musnad Ahmad)
 ## Personal Reflections
 
 

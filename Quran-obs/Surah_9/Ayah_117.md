@@ -174,6 +174,17 @@ Coming to words: سَاعَةِ الْعُسْرَ‌ةِ (translated as ` the h
 
 As for the next sentence: مِن بَعْدِ مَا كَادَ يَزِيغُ قُلُوبُ فَرِ‌يقٍ مِّنْهُمْ (after the hearts of a group of them were about to turn crooked), the زَیغ (zaigh: crookedness) of the hearts of some people referred to here does not mean some deviation from faith. In fact, it means to lose heart and wish to avoid action in Jihad because of the hardship of hot weather and the dearth of necessary supplies. Hadith narratives prove that. It was in view of these hardships they faced that their repentance was accepted.
 
+## AI Translation
+
+Allah has certainly turned in mercy to the Prophet as well as the Emigrants and the Helpers who stood by him in the time of hardship, after the hearts of a group of them had almost faltered. He then accepted their repentance. Surely He is Ever Gracious and the Rahim to them.
+
+## AI Tafsir
+
+**Context:** Mujahid and several others said, "This Ayah was revealed concerning the battle of Tabuk. They left for that battle during a period of distress.
+
+**What this ayah teaches:** Certainly, He is unto them full of kindness, ar-Rahim .
+
+**Classical tafsir:** Ibn Kathir notes: It was a year with little rain, intense heat and scarcity of supplies and water." Qatadah said, "They went to Ash-Sham during the year of the battle of Tabuk at a time when the heat was intense.
 ## Personal Reflections
 
 

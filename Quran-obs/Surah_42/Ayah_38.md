@@ -144,6 +144,17 @@ As reported in a hadith, the Holy Prophet ﷺ said, "So far as your rulers are t
 
 Sixth virtue:- مِمَّا رَ‌زَقْنَاهُمْ يُنفِقُونَ (who spend out of what We have given to them - 38) It refers to spending for virtuous deeds, such as zakah, obligatory and optional alms. Qur'an usually mentions zakah and sadaqat (alms) immediately after salah. But the mention of mutual consultation immediately after salah and the mention of Zakah after it is perhaps to attract attention to the possibility of utilizing the five times daily salah congregation in mosques for the purpose of consultation also in matters which require mutual consultation. (Ruh-ul-Ma'ani)
 
+## AI Translation
+
+who respond to their Lord, establish salah, conduct their affairs by mutual consultation, and spend from what We have provided for them;
+
+## AI Tafsir
+
+**What this ayah teaches:** So whatever you have been given is but (a passing) enjoyment for this worldly life, but that which is with Allah is better and more lasting for those who believe and put their trust in their Lord (36)And those who shun the greater sins, and Al-Fawahish, and when they are angry, they forgive (37)And those who answer the Call of their Lord, and perform the Salah, and who (conduct…
+
+**Classical tafsir:** Ibn Kathir notes: ` Affairs' have been qualified by us with the word ` important', because the word 'Amr' used in the text signifies importance in common usage.
+
+**From the Sunnah:** It was reported in the Sahih that the Messenger of Allah ﷺ never took revenge for his own sake, only when the sacred Laws of Allah were violated. The Prophet ﷺ used to consult with them concerning wars and other matters, so that they would feel confidant.
 ## Personal Reflections
 
 

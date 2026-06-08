@@ -138,6 +138,17 @@ Allah owns everything that is in the heavens and earth, and all their inhabitant
 
 وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ (...And He is with you wherever you are, ...57:4) No man is able to comprehend the essential nature of Allah's company or His being with us, though it is absolutely true that He is with us, because no man can exist or do any work without it. The Divine Will [ mashiyyah ] and power is necessary for everything. Therefore, Allah is with every human being in every situation, at every place. Allah knows best!
 
+## AI Translation
+
+To Him belongs the dominion of the heavens and the earth. And to Allah all matters are returned.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah's Knowledge, Power and Kingdom are Limitless Allah the Exalted states that He created the heavens and earth, and all that is between them, in six Days and then rose over the Throne after He created them.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, Allah is with every human being in every situation, at every place.
+
+**From the Sunnah:** In the Sahih, there is a Hadith in which the Messenger of Allah ﷺ answered Jibril, when he asked him about Ihsan:
 ## Personal Reflections
 
 

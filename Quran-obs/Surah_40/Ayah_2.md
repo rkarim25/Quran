@@ -134,6 +134,17 @@ Explanation of Verses
 
 Some commentators have said that: حٰم (Ha Meem) is the name of Allah Ta’ ala. But, in the sight of early authorities, these isolated letters (al-huruf-ul-muqatta` at) are all from the category of: مُتَشابِھَات (mutashabihat: of hidden meaning). Their meanings are known to Allah Ta’ ala alone - or, that they are a secret between Allah Ta’ ala and the Holy Prophet ﷺ .
 
+## AI Translation
+
+The revelation of this Book is from Allah—the Almighty, All-Knowing,
+
+## AI Tafsir
+
+**What this ayah teaches:** The revelation of the Book is from Allah, the Almighty, the All-Knower.)(3.
+
+**Classical tafsir:** Ibn Kathir notes: These two attributes (mercy and punishment) are often mentioned together in the Qur'an, so that people will remain in a state of both hope and fear.
+
+**From the Sunnah:** In a Hadith recorded by Abu Dawud and At-Tirmidhi from one who heard it from the Messenger of Allah ﷺ, it says: (Jami' at-Tirmidhi, Sunan Abi Dawud)
 ## Personal Reflections
 
 

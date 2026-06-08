@@ -172,6 +172,19 @@ This difficulty can be resolved by turning to an analogy. This saying is similar
 
 The same applies here as the punishment in the world has already been given; now the punishment of the Hereafter will be added on and the sum-total will be finally executed on the Last Day, that is, having been punished in the world will not serve as expiation for the punishment of the Hereafter. This is contrary to the condition of believers who, when struck by suffering in the mortal world, have their sins forgiven and find the punishment due in the Hereafter lightened or warded off. For this reason, a hint to this effect has been made in لَا يُحِبُّ الظَّالِمِي and Allah does not like transgressors -v. 57), that is, believers are dear because of their belief and the beloved ones are always treated in such a manner. The disbelievers are detested because of their disbelief and those detested do not receive such treatment. (Bayan a1-Qur'an)
 
+## AI Translation
+
+And as for those who believe and do good, they will be rewarded in full. And Allah does not like the wrongdoers.”
+
+## AI Tafsir
+
+**Context:** (This is what We recite to you of the verses and the Wise Reminder.) meaning, "What We narrated to you, O Muhammd, regarding 'Isa, his birth and his life, is what Allah conveyed and revealed to you, sent down from the Al…
+
+**What this ayah teaches:** And Allah does not like the wrongdoers (57)This is what We recite to you of the verses and the Wise Reminder .
+
+**Classical tafsir:** Ibn Kathir notes: And on the Day of Resurrection, he ['Isa] will be a witness against them.)[4:156-159] His death' refers to 'Isa, and the Ayah means that the People of the Book will believe in 'Isa, before 'Isa dies.
+
+**From the Sunnah:** The Messenger of Allah ﷺ used to recite the following words when he would awaken; This is why Allah allowed Muslims to conquer the eastern and western parts of the world and the kingdoms of the earth.
 ## Personal Reflections
 
 

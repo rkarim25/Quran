@@ -127,6 +127,17 @@ After that he turned to the second point regarding his upbringing in the Pharaoh
 
 This is what is known as God gifted awe of truth, veracity and reality. The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee. That is how they become so appealing to people and convince the biggest defiant
 
+## AI Translation
+
+He replied, “Yes, and you will then certainly be among those closest to me.”
+
+## AI Tafsir
+
+**What this ayah teaches:** This is not only cruelty but also ingratitude toward those among whom you are raised to your manhood. So, he said ` that he realized his mistake and left the city for the fear of being caught.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee.
 ## Personal Reflections
 
 

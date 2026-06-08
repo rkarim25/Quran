@@ -174,6 +174,17 @@ When he would talk to one of his friends, Mu'adh used to say: "What I am saying 
 
 قُتِلَ الْخَرَّ‌اصُونَ (Death upon those who make conjectures - 51:10). The expression kharrasun is the plural of kharras which means one who estimates or say things by conjecture. In this context the word refers to those stubborn and obstinate infidels who, without any reason or evidence, say discordant things about the Messenger ﷺ . Thus it would not be out of turn to interpret kharrasun as kadhdhabun, meaning 'the great liars' as they are condemned, denounced, cursed and imprecated (Mazhari) in this statement. After the mention of infidels, several verses that follow describe the qualities of the righteous people and the pleasant consequences of their righteousness.
 
+## AI Translation
+
+joyfully receiving what their Rabb gives them. Before this reward they were already doers of good:
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, those who have Taqwa will be in the midst of Gardens and Springs (15)Taking joy in the things which their Lord has given them. They will receive what their Lord gives them, meaning, delight, happiness and favors.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Every night, they would worship Allah, even during a little part of the night." Qatadah narrated that Mutarrif bin 'Abdullah said, "Hardly a night would pass by them that they did not pray to Allah the Exalted and Most Honored, either in the beginning, or the middle of it." Mujahid… As for the Mahrum, Ibn 'Abbas and Mujahid said, "He is the poor person who does not receive a stipen…
+
+**From the Sunnah:** Ibn 'Abbas said, "Every night, they would worship Allah, even during a little part of the night." Qatadah narrated that Mutarrif bin 'Abdullah said, "Hardly a night would pass by them…
 ## Personal Reflections
 
 

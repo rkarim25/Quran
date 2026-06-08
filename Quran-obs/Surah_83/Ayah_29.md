@@ -105,6 +105,17 @@ Surah At-Tatfif
 
 Ends here
 
+## AI Translation
+
+The wicked used to laugh at the believers,
+
+## AI Tafsir
+
+**What this ayah teaches:** The Wicked Behavior of the Criminals and Their mocking of the Believers Allah informs that the criminals used to laugh at the believers in the worldly life. The non-believers used to laugh at the believers in the worldly life.
+
+**Classical tafsir:** Ibn Kathir notes: In other words, they would mock them and despise them.
+
+**From the Sunnah:** May Allah salvage the Muslims from this painful scourge.
 ## Personal Reflections
 
 

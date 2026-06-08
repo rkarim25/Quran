@@ -204,6 +204,15 @@ Allah says,
 
 وَيُسْقَوْنَ فِيْهَا كَاْسًا كَانَ مِزَاجُهَا زَنْجَبِيْلًا (And they will be served with a goblet of drink blended with ginger...76:17). The word zanjabil means 'ginger'. The Arabs loved that their drink should be mixed with ginger. Therefore, it is mentioned in the context of Paradise [ so that they are served with drinks flavoured with ginger of paradisiacal quality and splendour ]. Some scholars say that the only thing the blessings of Paradise and the blessings of this world share in common is their name, and they have nothing else in common. Therefore, the 'ginger' of this world cannot be equated with the 'ginger' of Paradise.
 
+## AI Translation
+
+Eternal youths serve them—if you saw them you would think them scattered pearls.
+
+## AI Tafsir
+
+**What this ayah teaches:** If you see them, you would think them scattered pearls.) meaning, young boys from the boys of Paradise will go around serving the people of Paradise. Therefore, it is mentioned in the context of Paradise [ so that they are served with drinks flavoured with ginger of paradisiacal quality and splendour ].
+
+**Classical tafsir:** Ibn Kathir notes: This refers to Paradise and its beauty, its vastness, its loftiness and the joy and happiness it contains.
 ## Personal Reflections
 
 

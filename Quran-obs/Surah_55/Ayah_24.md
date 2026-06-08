@@ -123,6 +123,15 @@ Qatadah said, "Al-Munsha'at means created." Others said that it is Al-Munshi'at 
 
 وَلَهُ الْجَوَارِ‌ الْمُنشَآتُ فِي الْبَحْرِ‌ كَالْأَعْلَامِ (And His are the sailing ships raised up in the sea like mountains...55:24). The word جَوَارِی۔ jawari is the plural of جَارِیَہ - jariyah. One of its meanings is ship and that is the sense in which it is used in the current verse. The word مُنشَآتُ munsha'at is derived from نَشَأ nasha'a which means 'to rise up or high, be lofty'. Al-munsha'at thus refers to 'sails of the ships that are lofty'. The verse describes the wisdom of making the ship and its running on the surface of the water.
 
+## AI Translation
+
+His are the ships with raised sails, sailing the seas like mountains.
+
+## AI Tafsir
+
+**What this ayah teaches:** The verse describes the wisdom of making the ship and its running on the surface of the water. The Creation of Humans and Jinns Allah mentions that He created mankind from clay, like that used in pottery, and created the Jinns from the tip of the flame of a smokeless fire.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid, Qatadah, Abu Ruzayn, Ad-Dahhak said it, and it has also been reported from 'Ali.
 ## Personal Reflections
 
 

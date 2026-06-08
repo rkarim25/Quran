@@ -158,6 +158,15 @@ It is a book inscribed and sealed. No one can add anything to it, nor can anyone
 
 كَلَّا سکتہ إِنَّهُمْ عَن رَّ‌بِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ (No! But that which they used to commit has covered their hearts with rust...83:14). The word rana is derived from rain and it means 'rust' or 'dust' or 'filth'. In other words, the rust of committing many sins has covered up their hearts. Just as rust consumes the iron, and turns it into dust, in the same way, the rust of while he was on the upper horizon....53:7)
 
+## AI Translation
+
+None deny it except every transgressing sinner.
+
+## AI Tafsir
+
+**What this ayah teaches:** Truly, the Record of the wicked is in Sijjin.) meaning, that their final destination and their abode will be in Sijjin, which is derived from the word prison (Sijn), and here it means straitened circumstances. He is a sinner in his statements, because he lies whenever he speaks, he breaks his promises whenever he makes them, and he behaves in an abusive and wicked manner whenever he argues.
+
+**Classical tafsir:** Ibn Kathir notes: Truly, the Record of the wicked is in Sijjin.) meaning, that their final destination and their abode will be in Sijjin, which is derived from the word prison (Sijn), and here it means straitened circumstances.
 ## Personal Reflections
 
 

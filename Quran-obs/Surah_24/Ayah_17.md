@@ -94,6 +94,17 @@ A doubt and its answer
 
 If someone has a doubt that just as the truth of an event cannot be verified without a proof, and hence it is unlawful to mention it and spread it, likewise, the report of that event should not be believed to be a lie and a 'terrible calumny' without a proof of its being a lie. The answer to this doubt is that it is the integral spirit of Islam to consider every Muslim as free from sins, and this is based on reasoning. Anything contrary to this proven reality is a lie if put forward without a proof, and no further proof is required to prove this assertion a lie. This is enough to call it a slander if a believer Muslim is blamed for a crime without proof.
 
+## AI Translation
+
+Allah forbids you from ever doing something like this again, if you are true mu'mins.
+
+## AI Tafsir
+
+**What this ayah teaches:** Further Discipline This is further discipline, in addition to the command to think well of people, i.e., if something unbefitting is mentioned about good people, then one should think well of them, and not feel towards them anything but good.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Then if a person has any unsuitable thoughts about them, insinuated into his mind and imagination by Shaytan, he should not speak about that, for the Prophet ﷺ said: In this verse the same advice is repeated which was imparted in an earlier verse, with further elaboration as to what should the Muslims do in such a situation when they hear a rumor.
 ## Personal Reflections
 
 

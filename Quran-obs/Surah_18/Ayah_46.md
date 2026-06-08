@@ -160,6 +160,17 @@ Sayyidna ` Ali ؓ said, 'Cultivation is of two kinds. Wealth and children are th
 
 ` Ubaid ibn ` Umair ؓ said, 'Everlasting virtues are righteous daughters for they are, for their parents, the greatest treasure-troves of reward from Allah.' This is supported by a narration of Sayyidah ` A'ishah ؓ according to which the Holy Prophet ﷺ has been reported to have said, "I saw a man from my ummah under orders to be taken to Hell. Thereupon, his righteous daughters clung to him and started wailing and crying and plaintively supplicating: 0 Allah, spare him for he was very kind to us in the mortal world and he worked very hard to raise us in our family. Allah Ta` ala, in His mercy, forgave him. (Qurtubi)
 
+## AI Translation
+
+Wealth and children are the adornment of this dunya — this temporary worldly life. But lasting good deeds are better with your Rabb in reward and in hope.
+
+## AI Tafsir
+
+**What this ayah teaches:** And mention the parable of the worldly life: it is like the water which We send down from the sky, and the vegetation of the earth mingles with it, and becomes fresh and green.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** 'Ata' bin Abi Rabah and Sa'id bin Jubayr narrated from Ibn 'Abbas, "The good righteous deeds that last are 'Subhan Allah (glory be to Allah)', 'Al-Hamdu Lillah (praise be to Allah)', 'La ilaha illallah (there is none worthy of worship except Allah)', and 'Alla… (Musnad Ahmad) from a freed slave of the Messenger of Allah ﷺ that he said: (Musnad Ahmad)
 ## Personal Reflections
 
 

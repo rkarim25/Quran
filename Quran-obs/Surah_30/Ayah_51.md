@@ -124,6 +124,17 @@ Commentary
 
 فَانتَقَمْنَا مِنَ الَّذِينَ أَجْرَ‌مُوا وَكَانَ حَقًّا عَلَيْنَا نَصْرُ‌ الْمُؤْمِنِينَ (Then We took vengeance upon those who were guilty. And it was due on Us to help the believers. -30:47). This verse tells us that Allah Ta’ ala has taken it upon Himself to help the believers. On the face of this statement, one would have expected that Muslims would never be defeated against the infidels. But on many occasions, results have been exactly opposite. Answer to this confusion is at hand in this very verse, that by the word 'believers' those believers are intended who fight with infidels purely for the sake of Allah. Allah Ta’ ala takes revenge of only such believers from the criminals and helps them overpower their adversaries. Wherever the position is different, it is due to some sort of slip on the part of the believers, as Qur'an itself has quoted about the battle of Uhud: إِنَّمَا اسْتَزَلَّهُمُ الشَّيْطَانُ بِبَعْضِ مَا كَسَبُوا (Shaitan had but made them slip for some of their deeds - 3:155). Even in such a situation, Allah Ta’ ala graces them with victory and upper hand, once they realize their fault, as it happened in the battle of Uhud. As for such people who are Muslims only by name and are habitual defiant and negligent of the teachings of Islam, and are not penitent even when the infidels gain upper hand, they are for sure not included in this promise of Allah Ta’ ala, and do not qualify for His help. Nonetheless, Allah Ta’ ala provides help by His grace on many occasions without any one deserving it. Therefore, it is always beneficial to beg for His mercy and hope for His help.
 
+## AI Translation
+
+If We send a harsh wind and they see crops wither, they deny old favours at once.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah is He Who sends the winds, so that they raise clouds and spread them along the sky as He wills, and then break them into fragments until you see rain drops come forth from their midst! Verily, that shall indeed raise the dead, and He is able to do all things (50)And if We send a wind, and they see it turn yellow – behold, they then would become unthankful (those who reject the truth).
+
+**Classical tafsir:** Ibn Kathir notes: The Revival of the Earth is a Sign of the Resurrection Here Allah explains how He creates the clouds that rain the water.
+
+**From the Sunnah:** On the face of this statement, one would have expected that Muslims would never be defeated against the infidels.
 ## Personal Reflections
 
 

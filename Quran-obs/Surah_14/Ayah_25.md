@@ -127,6 +127,15 @@ In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَك
 
 So, whatever good there is in gratitude, that is for you alone. There-fore, when you are asked to be grateful by Allah Ta’ ala, there is no gain for Him in doing so. In fact, it is His infinite mercy reaching out to you in your interest.
 
+## AI Translation
+
+always yielding fruit in every season by its Rabb's will? This is how Allah sets parables for people, so they may take heed.
+
+## AI Tafsir
+
+**What this ayah teaches:** A goodly word as a goodly tree, whose root is firmly fixed, and its branches (reach) to the sky (24)Giving its fruit at all times, by the leave of its Lord, and Allah sets forth parables for mankind in order that they may remember (25)And the parable of an evil word is that of an evil tree uprooted from the surface of earth, having no stability .
+
+**Classical tafsir:** Ibn Kathir notes: They stated that this parable describes the believer's deeds, good statements and good actions.
 ## Personal Reflections
 
 

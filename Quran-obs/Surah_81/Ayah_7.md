@@ -252,6 +252,17 @@ Concerning Allah's statement,
 
 وَإِذَا النُّفُوسُ زُوِّجَتْ (and when the people will be arranged in categories...81:7). It means that the people on the Plain of Gathering will be grouped, like with like, in terms of belief and deeds. Disbelievers will be grouped together and believers will be grouped together. There are differences between the deeds and habits of believers and there are differences between the deeds and habits of disbelievers. The non-believers will be regrouped according to their essential characteristics and the Muslims too will be regrouped according to their essential characteristics as is reported in Baihaqi on the authority of Sayyidna Nu` man Ibn Bashir ؓ that Sayyidna ` Umar Ibn Khattab ؓ said that the people doing similar deeds, good or bad, will be joined together. For example, the knowledgeable persons from among the Muslims who were serving Islamic studies will be made into one group; the people who devoted themselves for worship will be made into another group; the people performing jihad will be together, and the people whose main characteristic was to spend in charities will be gathered in one place. On the other hand, those who were involved in wicked activities like thieves, robbers, adulterers will also be assembled in their respective groups. Sayyidna ` Umar ؓ based this statement on the verse of the Holy Qur'an in which Allah says in Surah [ and you will be (divided into) three categories. (56:7) It is mentioned further in that Surah that out of the three categories, two will attain salvation who are named as the 'foremost' and 'people of the right' while another group, namely the 'people of the left' will be comprised of the infidels.
 
+## AI Translation
+
+when souls are paired again with their bodies,
+
+## AI Tafsir
+
+**What this ayah teaches:** And when the heaven is Kushitat;)(12.
+
+**Classical tafsir:** Ibn Kathir notes: We have neglected nothing in the Book, then unto their Lord they shall be gathered.)(6:38) Ibn 'Abbas said, "Everything will be gathered, even the flies." This statement was recorded by Ibn Abi Hatim.
+
+**From the Sunnah:** For example, the knowledgeable persons from among the Muslims who were serving Islamic studies will be made into one group; the people who devoted themselves for worship will be made into another group; the people performing jihad will be together, and the peo…
 ## Personal Reflections
 
 

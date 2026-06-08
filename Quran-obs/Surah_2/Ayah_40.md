@@ -202,6 +202,17 @@ This is a subtle suggestion which brings out the superiority of this Ummah over 
 
 According to a hadith reported by Muslim, those who break their promises would, before being finally punished in the other world, be humiliated before the whole human race when it assembles together on the Day of Judgment, for a flag would be placed as a stigma beside everyone who has committed this sin, and the bigger the crime, the higher would the flag be.
 
+## AI Translation
+
+O Children of Israel — remember My favours to you. Fulfil your covenant and I will fulfil Mine, and stand in awe of Me alone.
+
+## AI Tafsir
+
+**What this ayah teaches:** In verse 40, Allah asks the Israelites to fulfill His covenant - that is to say, the one they had made with Allah.
+
+**Classical tafsir:** Ibn Kathir notes: So, after dealing with the idolaters and associators, it addresses the people of the Book in a special manner, from verse 40 to verse 123.
+
+**From the Sunnah:** 'Israel' means, 'the servant of Allah.' The Surah Al-Baqarah begins by speaking of the Holy Qur'an itself, and tells us that although it provides guidance to all men, yet only true Muslims will derive a full benefit from it.
 ## Personal Reflections
 
 

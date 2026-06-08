@@ -396,6 +396,19 @@ This gives us an idea of the enormous age of this world as thought by the Holy P
 
 1. By inference it seems physically impossible to have an exact assessment of the age of this universe, because it would give the exact time of the end of this universe which has been precluded by the above verse saying that the knowledge of the occurrence of the Doomsday is not known to any one but Allah. (Translator)
 
+## AI Translation
+
+They ask you regarding the Hour, “When will it be?” Say, “That knowledge is only with my Rabb. He alone will reveal it when the time comes. It is too tremendous for the heavens and the earth and will only take you by surprise.” They ask you as if you had full knowledge of it. Say, “That knowledge is only with Allah, but most people do not know.”
+
+## AI Tafsir
+
+**Context:** It was said that this Ayah was revealed about the Quraysh or the Jews, although it appears that it was about the Quraysh, because this Ayah was revealed in Makkah.
+
+**What this ayah teaches:** The Hour will start when a man is making his watering hole (for his animals), but will not have time to make use of the pool.
+
+**Classical tafsir:** Ibn Kathir notes: It was said that this Ayah was revealed about the Quraysh or the Jews, although it appears that it was about the Quraysh, because this Ayah was revealed in Makkah.
+
+**From the Sunnah:** When Jibril came in the shape of a bedouin man to teach the people matters of their religion, he sat next to the Messenger of Allah ﷺ asking him as if to learn.
 ## Personal Reflections
 
 

@@ -290,6 +290,17 @@ The Reward of Those on the Right
 
 وَأَصْحَابُ الْيَمِينِ مَا أَصْحَابُ الْيَمِينِ As for the People of the right, How (lucky) are the People of the Right!...56:27). The People of the Right are initially the God-fearing and the righteous believers. Sinful believers will also join the People of the Right, some through the sheer grace of Allah, and others will be forgiven through the intercession of a prophet or a friend of Allah. Some sinful believers will be punished for their sins, but after serving their punishment, they too will be purified and cleansed of the dross of their sins, after which they will join the People of the Right, because the fire of the Hell is not, in fact, a punishment; it is rather a way to cleanse him from the dross of his sins. (Mazhari)
 
+## AI Translation
+
+And the people of the right—how blessed they will be!
+
+## AI Tafsir
+
+**What this ayah teaches:** For those on the right.) This is the view of Ibn Jarir.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "Nothing will prevent them from reaching out to get these fruits, no branches, thorns or distance." We mentioned a Hadith before that states that whenever someone takes a fruit in Paradise, another one grows in its place.
+
+**From the Sunnah:** Paradise the shade of which a rider would take one hundred years to pass. (Sahih al-Bukhari, Sahih Muslim) Paradise, the believer will be given such and such strength for women.
 ## Personal Reflections
 
 

@@ -126,6 +126,17 @@ Injunctions and related considerations
 
 (1) It has sometimes been debated as to whether the distinction between Kufr کفر (infidelity or disbelief) and Nifaq نفاق (hypocrisy) still holds good even after the days of the Holy Prophet ﷺ The correct position with regard to this question is this. At that time, there were two ways of identifying a hypocrite and declaring him to be one -either Allah Himself informed the Holy Prophet ﷺ through revelation that such and such a man was not a Muslim at heart but a hypocrite, or a man through some word or deed overtly repugnant to the Islamic creed or practice showed himself up as a hypocrite, thus providing a clear evidence against himself. Divine revelation having ceased with the departure of the Holy Prophet ﷺ from this world, the first way of identifying a hypocrite is no longer available, but the second way is still valid. That is to say, if a man is found, on certain evidence, to be guilty, in word or deed, of rejecting or opposing or distorting or holding in scorn the basic doctrines of Islam undeniably established by the Holy Qur'an, the Hadith and ` ijma اجمع (consensus), he would be regarded as a Munafiq منافق (hypocrite) in spite of his claim to be a true Muslim. The Holy Qur'an Ives such a hypocrite the name of a mulhid مُلحد or heretic- لَّذِينَ يُلْحِدُونَ فِي آيَاتِنَا : "Those who distort Our verses", 41:40), and the Hadith calls them a zindiq ماکهن . One must also add that since the kufr کفر (infidelity) of such a man has been proved by clear and definite evidence, the Shari'ah will not put him in a separate category, but deal with him as it would deal with any other kafir کافر (infidel). That is why the authentic scholars are unanimous in concluding that after the departure of the Holy Prophet ﷺ the question of hypocrites ceased to be a relevant one - now anyone who is not a genuine Muslim will be regarded as kafir کافر . The famous author, Al-` Aini, in his commentary on Al-Bukhari, reports from Imam Malik that after the days of the Holy Prophet ﷺ this is the only available means of identifying 'hypocrisy', and that a man who carries this mark could be called a hypocrite.
 
+## AI Translation
+
+When told, "Trust as other people trust," they reply, "Shall we trust as the foolish trust?" In reality, they are the foolish — but they do not know.
+
+## AI Tafsir
+
+**What this ayah teaches:** The hypocrites said, "Us and them having the same status, following the same path, while they are fools?!" 'The fool' is the ignorant, simple-minded person who has little knowledge in areas of benefit and harm.
+
+**Classical tafsir:** Ibn Kathir notes: The hypocrites said, "Us and them having the same status, following the same path, while they are fools?!" 'The fool' is the ignorant, simple-minded person who has little knowledge in areas of benefit and harm.
+
+**From the Sunnah:** In the company of the Muslims, they would vociferously declare their faith in Islam; but, going back to their own people, would reassure them that they had never left the way of their ancestors, and had been meeting the Muslims only to make fun of them.
 ## Personal Reflections
 
 

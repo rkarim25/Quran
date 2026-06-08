@@ -162,6 +162,15 @@ It is from this verse that we also come to know an important rule, that is, when
 
 The last sentence of verse 82: وَلَوْ كَانَ مِنْ عِندِ غَيْرِ‌ اللَّـهِ لَوَجَدُوا فِيهِ اخْتِلَافًا كَثِيرً‌ا translated as 'Had it been from someone other than Allah, they would have found in it a great deal of contradiction' needs some explanation. Here, 'a great deal of contradiction' means: Had there been a contradiction in one subject, the contradiction in many subjects would obviously have become a great deal of contradiction (Bayan a1-Qura'n). But, the truth of the matter is that there is just no contradiction anywhere in the Qur'an. So, this is the word of Allah Almighty. This perfect uniformity cannot be found in the word of man. Then there is its unmatched eloquence which never tapers. It talks about the Oneness of Allah and the disbelief of men and lays down rules for the lawful and the unlawful, yet there is no inconsistency, no discrepancy in the process. It offers information about the unseen but there is not one bit of information which does not match with reality. Then there is the very order of the Qur'an which retains the quality of its diction all along, never ever touching a pitch which is low. The speech or writing of man is affected by circumstances. It varies with peace and distraction and happiness and sorrow. But, Qur'an is free of all sorts of incongruities and contradictions - actually, it is beyond any such thing. And this is a clear proof of its being the word of God.
 
+## AI Translation
+
+Do they not then reflect on the Quran? Had it been from anyone other than Allah, they would have certainly found in it many inconsistencies.
+
+## AI Tafsir
+
+**Context:** We should mention here the Hadith of 'Umar bin Al-Khattab collected in the Two Sahihs. When 'Umar was informed that the Messenger of Allah ﷺ divorced his wives, he came from his house, entered the Masjid and found the pe…
+
+**What this ayah teaches:** Here, 'a great deal of contradiction' means: Had there been a contradiction in one subject, the contradiction in many subjects would obviously have become a great deal of contradiction (Bayan a1-Qura'n).
 ## Personal Reflections
 
 

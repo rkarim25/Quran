@@ -246,6 +246,19 @@ The words: وَأَرْ‌سَلْنَاكَ لِلنَّاسِ رَ‌سُول�
 
 In fact, his prophethood is universal, open to all human beings of this entire universe, whether they'are present at this point of time, or may come to be there right through the Qiyamah, the fateful Last Day of this universe of ours. (Mazhari)
 
+## AI Translation
+
+Whatever good befalls you is from Allah and whatever evil befalls you is from yourself. We have sent you as a messenger to people. And Allah is sufficient as a Witness.
+
+## AI Tafsir
+
+**Context:** In the beginning of Islam, Muslims in Makkah were commanded to perform the prayer and pay some charity, so as to comfort the poor among them.
+
+**What this ayah teaches:** The Hereafter is (far) better for him who fears Allah, and you shall not be dealt with unjustly even equal to the 'Fatīl' (77)"Wheresoever you may be, death will overtake you even if you are in fortresses built up strong and high!" And if some good reaches them, they say, "This is from Allah," but if some evil befalls them, they say, "This is from you." Say: "All things are fro…
+
+**Classical tafsir:** Ibn Kathir notes: However, they were eager and anticipating the time when they would be allowed to fight, so that they could punish their enemies.
+
+**From the Sunnah:** In the beginning of Islam, Muslims in Makkah were commanded to perform the prayer and pay some charity, so as to comfort the poor among them.
 ## Personal Reflections
 
 

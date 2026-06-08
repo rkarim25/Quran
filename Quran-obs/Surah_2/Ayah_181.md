@@ -208,6 +208,17 @@ Rulings
 
 3. As for the right to make a will covering the one-third of his property, one has the right to make some change in this will or cancel it totally during his life time.
 
+## AI Translation
+
+Whoever changes the will after hearing it bears sin only upon those who changed it. Allah is All-Hearing, All-Knowing.
+
+## AI Tafsir
+
+**What this ayah teaches:** The making of a will made obligatory for one who is leaving behind some wealth has three aspects: 1.
+
+**Classical tafsir:** Ibn Kathir notes: But, in commonly accepted usage, it refers to what must be done after death.
+
+**From the Sunnah:** For this reason we see the Hadith narrated in the Sunan and other books that 'Amr bin Kharijah said: I heard Allah's Messenger ﷺ saying in a speech: that Muhammad bin Sirin said: Ibn 'Abbas recited Surat Al-Baqarah (chapter 2 in the Qur'an) until he reached the Ayah: (Musnad Ahmad)
 ## Personal Reflections
 
 

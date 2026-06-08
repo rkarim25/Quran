@@ -256,6 +256,15 @@ Allah said,
 
 In the verse: أَفَمَنْ هُوَ قَائِمٌ عَلَىٰ كُلِّ نَفْسٍ (Is then He, who is watchful over everyone ... 33), the ignorance and irrationality of the disbelievers has been exposed by saying that these people are certainly short on sense when they equate inert idols with His pure Being, a Being that watches everyone and is the ultimate reckoner of everyone's deeds. Then, it was said that the real reason behind their unreasonable attitude is that shaitan has made their very ignorance look good in their sight and, therefore, this they take to be 'achievement' and 'success.'
 
+## AI Translation
+
+Is there any equal to the Vigilant One who knows what every soul commits? Yet they assign partners to Allah. Say: "Name them! Or will you inform Him of something on earth He does not know? Are these only empty names?" Their falsehood has been made appealing to them, turning them from the path. Whoever Allah leaves astray will have no guide.
+
+## AI Tafsir
+
+**What this ayah teaches:** To those who disbelieved, their plotting is made fair-seeming, and they have been hindered from the right path; and whom Allah sends astray, for him there is no guide .
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah refers to the misguidance of the polytheists and their propagation night and day.
 ## Personal Reflections
 
 

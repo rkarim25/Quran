@@ -252,6 +252,19 @@ Allah said,
 
 ولَقَدْ رَ‌آهُ نَزْلَةً أُخْرَ‌ىٰ عِندَ سِدْرَ‌ةِ الْمُنتَهَىٰ (And indeed he saw him another time by sidrat-ul-muntaha [ the lote-tree in the upper realm ]...53:13-14). Here too there are two views regarding the antecedent of the pronoun hu (him): [ 1] that it refers to seeing Allah; or [ 2] that it refers to seeing Jibra'il (علیہ السلام) . The adverb نَزْلَةً أُخْرَ‌ىٰ nazlatan ` ukhra [ another time or at another descent ], according to overwhelming majority, this nuzul refers to the second descent of Jibra'il (علیہ السلام) . The first vision was experienced in this world on the uppermost horizon of Makkah. The second vision was experienced on the seventh heaven near the Lote-Tree of the Uppermost Realm. Obviously, the Holy Prophet ﷺ went up to the seventh heaven on the Night of Mi` raj. Thus it is possible to determine the approximate time of the second experience, which took place on that occasion. The word sidrah literally denotes lote-tree and muntaha means the place of intiha' [ end ]. Thus sidrat-ul-muntaha is the Lote-Tree on the seventh heaven under the Throne of the Gracious Allah. According to a narration in Muslim, the Tree is on the sixth heaven. Reconciliation is possible between the two apparently conflicting versions in that its root is on the sixth heaven and its branches are spread on the seventh heaven (Qurtubi). Generally the access of angels ends at this point, and therefore, it is called muntaha (the end). Some Traditions inform us that the Divine injunctions first descend from the Divine Throne to the sidrat-ul-muntaha which are handed over to the relevant angels. Similarly, angels going up from the earth to the heaven with Books of Deeds etc. convey them to this point. Then there may be some other way for their presentation to Allah Almighty. This subject is reported from ` Abdullah Ibn Masud ؓ as recorded by Imam Ahmad in his Musnad.
 
+## AI Translation
+
+at the Lote Tree of the Utmost Boundary—
+
+## AI Tafsir
+
+**Context:** He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While he was in the highest part of the horizon (7)Then he approached and came closer (8)And was at a distance of two bows' length or less (9)So (…
+
+**What this ayah teaches:** According to a narration in Muslim, the Tree is on the sixth heaven.
+
+**Classical tafsir:** Ibn Kathir notes: The word sidrah literally denotes lote-tree and muntaha means the place of intiha' [ end ].
+
+**From the Sunnah:** that Abdullah bin Mas'ud said, "The Messenger of Allah ﷺ saw Jibril in his original shape having six hundred wings, each wing filling the side of the horizon, with a colorful array, and pearls and rubies falling from each wing as much as only Allah knows." Onl… (Musnad Ahmad) When the Prophet ﷺ saw Jibril in his original shape, he was knocked unconscious. (Musnad Ahmad)
 ## Personal Reflections
 
 

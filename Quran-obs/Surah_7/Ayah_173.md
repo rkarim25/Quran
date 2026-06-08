@@ -161,6 +161,17 @@ Another possible excuse from them was to say:
 
 The verse precludes them from seeking refuge in saying that they were unaware of the Truth. Being a progeny of their forefathers they only followed their path. Therefore they should not be punished for the error of their forefathers. The verse has said that they shall not be punished for the acts of their forefather. It was their own fault and their apathetic attitude that led them to this disaster. It is because the covenant had sown the seed of Truth in their heart and it was not difficult for them to decide that the stones, shaped by themselves into idols, or the fire, the trees and other created beings could, in no way, be considered as being their creator or possessing powers of helping them in their need.
 
+## AI Translation
+
+Nor say, ‘It was our forefathers who had associated others and we, as their descendants, followed in their footsteps. Will you then destroy us for the falsehood they invented?’”
+
+## AI Tafsir
+
+**What this ayah teaches:** Or lest you should say: "It was only our fathers aforetime who took others as partners in worship along with Allah,")[7:172-173] Therefore they should not be punished for the error of their forefathers.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore they should not be punished for the error of their forefathers.
+
+**From the Sunnah:** the Messenger of Allah ﷺ said; (Sahih Muslim) "This Hadith is Hasan Sahih, and it was reported from various chains of narration through Abu Hurayrah from the Prophet ﷺ". (Sahih Muslim, Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

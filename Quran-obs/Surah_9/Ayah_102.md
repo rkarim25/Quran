@@ -140,6 +140,19 @@ It appears in Tafsir al-Qurtubi that this verse though revealed about a particul
 
 Abu ` Uthman ؓ has said, ` this verse of the Holy Qur'an brings great hope for this ummah.' A detailed Hadith relating to the Ascension of the Holy Prophet ﷺ appearing in the Sahih of Al-Bukhari on the authority of Sayyidna Samurah ibn Jundub ؓ says, ` On the seventh heaven, when the Holy Prophet ﷺ met with Sayyidna Ibrahim (علیہ السلام) ، he saw some people with him whose faces were bright. And some of them had some spots and stains on their faces. When these people went into a stream and came out all washed up, their faces had also turned bright. The Archangel Jibra'il (علیہ السلام) told the Holy Prophet ﷺ that these people with bright faces you saw first were those who had professed faith and then kept clean from sins: الَّذِينَ آمَنُوا وَلَمْ يَلْبِسُوا إِيمَانَهُم بِظُلْمٍ (those who have believed and have not mixed their faith with injustice - 6:82). The others were people who did what was a mixture of good and evil, but repented later. Allah accepted their repentance and their sins were forgiven.' (Qurtubi)
 
+## AI Translation
+
+Some others have confessed their wrongdoing: they have mixed goodness with evil. It is right to hope that Allah will turn to them in mercy. Surely Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**Context:** These people admitted their error to themselves and their Lord. They had performed good deeds before, as well as, this evil deed that they committed. For them there was forgiveness and pardon of Allah.
+
+**What this ayah teaches:** Surely, Allah is Oft-Forgiving, ar-Rahim .
+
+**Classical tafsir:** Ibn Kathir notes: The third group was that of people who were genuinely handicapped because of which they could not go.
+
+**From the Sunnah:** When the Messenger of Allah ﷺ returned from that battle, this group, Abu Lubabah and five, seven or nine with him, tied themselves to the pillars of the Masjid and refused to let anyone untie them except the Messenger of Allah ﷺ. this Hadith in a short form upon the explanation of this Ayah. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

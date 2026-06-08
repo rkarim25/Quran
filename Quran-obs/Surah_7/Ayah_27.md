@@ -166,6 +166,15 @@ Some righteous elders have said that the defence against the enemy who sees us b
 
 And the statement, that human beings cannot see Shaytan, is in terms of general conditions and habit. If a human being were to see them contra-habitually, that would not be considered contrary to it - as is the case of Jinns coming to the Holy Prophet ﷺ who asked questions and embraced Islam, which appears in authentic narrations of Hadith. (Ruh al-Ma'ani)
 
+## AI Translation
+
+O children of Adam! Do not let Satan deceive you as he tempted your parents out of Paradise and caused their cover to be removed in order to expose their nakedness. Surely he and his soldiers watch you from where you cannot see them. We have made the devils allies of those who reject the truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** Iblis plotted to have Adam expelled from Paradise, which is the dwelling of comfort, to the dwelling of hardship and fatigue (this life) and caused him to have his private part uncovered, after it had been hidden from him.
+
+**Classical tafsir:** Ibn Kathir notes: Then, what has been said at the end of this verse - that ` We have made the satans friends and guardians of those who do not believe' - also indicates that those who believe should not find staying away from their web of deception at all difficult.
 ## Personal Reflections
 
 

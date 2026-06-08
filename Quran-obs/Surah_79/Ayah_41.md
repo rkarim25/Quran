@@ -170,6 +170,17 @@ Surah An-Naziat
 
 Ends here
 
+## AI Translation
+
+will have Paradise as home.
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, [ 1] the first characteristic of a Allah-fearing person is that, in this life, he shudders at the thought of appearing before Allah to account for his deeds on the Day of Reckoning; and [ 2] forbids the baser self from its evil desires. One is at times deceived by them, because he continues to think that his actions are right.
+
+**Classical tafsir:** Ibn Kathir notes: In other words, [ 1] the first characteristic of a Allah-fearing person is that, in this life, he shudders at the thought of appearing before Allah to account for his deeds on the Day of Reckoning; and [ 2] forbids the baser self from its evil desires.
+
+**From the Sunnah:** In this level, a person deserves to be called 'Sunni Muslim'. (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -410,6 +410,19 @@ Then after their being compelled, Allah is Most-Forgiving, Very-Merciful - 33.
 
 The gist of this sentence is that it is prohibited to force the slave girls to adultery. If someone does that and the slave girl gets involved in adultery because of the compulsion exercised by her owner, then Allah Ta’ ala will pardon her sin and that sin will be passed on to the one who had forced her. (Mazhari).
 
+## AI Translation
+
+And let those who do not have the means to marry keep themselves chaste until Allah enriches them out of His bounty. And if any of those bondspeople in your possession desires a deed of emancipation, make it possible for them, if you find goodness in them. And give them some of Allah’s wealth which He has granted you. Do not force your slave girls into prostitution for your own worldly gains while they wish to remain chaste. And if someone coerces them, then after such a coercion Allah is certainly All-Forgiving, the Rahim to them.
+
+## AI Tafsir
+
+**Context:** (And force not your slave-girls to prostitution...) Among the people of the Jahiliyyah, there were some who, if he had a slave-girl, he would send her out to commit Zina and would charge money for that, which he would ta…
+
+**What this ayah teaches:** In addition to this, it has also been made incumbent upon him to pass on certain part of his possession to others, which is made the right of recipients on those things.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn Abi Talhah narrated that Ibn 'Abbas said, "If you do that, then Allah is Oft-Forgiving, ar-Rahim, and their sin will be on the one who forced them to do that." This was also the view of Mujahid, 'Ata' Al-Khurasani, Al-A'mash and Qatadah.
+
+**From the Sunnah:** In the Sunan, it was recorded from more than one person that the Messenger of Allah ﷺ said: It was reported from Al-Layth from Muhammad bin 'Ajlan from Sa'i…
 ## Personal Reflections
 
 

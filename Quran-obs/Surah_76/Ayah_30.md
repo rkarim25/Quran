@@ -174,6 +174,17 @@ Surah Ad-Dahr
 
 Ends here
 
+## AI Translation
+
+You cannot will that unless Allah wills. He is All-Knowing, All-Wise.
+
+## AI Tafsir
+
+**Context:** (Therefore be patient with constancy to the command of your Lord.,) meaning, 'just as you have been honored by what has been revealed to you, then be patient with His decree and decision and know that He will handle your…
+
+**What this ayah teaches:** Verily, Allah is Ever All-Knowing, All-Wise.) meaning, He is Most Knowledgeable of who deserves to be guided.
+
+**Classical tafsir:** Ibn Kathir notes: Secondly, he is commanded to pronounce the name of Allah, and worship Him day and night.
 ## Personal Reflections
 
 

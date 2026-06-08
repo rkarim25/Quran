@@ -107,6 +107,17 @@ Rawh said, "so he let him go, humiliated." ) This was also recorded by Muslim an
 
 In verse 38, it was said: مُقَرَّ‌نِينَ فِي الْأَصْفَادِ (held in chains). Details about the subjugation of Jinns and the services they performed have appeared earlier in the commentary on Surah Saba' within this Volume VII. Here, it has been said that Sayyidna Sulayman (علیہ السلام) was holding the unruly Jinns by having them chained. Now, it is not necessary that these chains be the visible chains of iron. It is possible that there could have been some other method used to tie them up more tightly or securely - and it has been expressed as 'chains' for the sake of common comprehension.
 
+## AI Translation
+
+He too will have closeness to Us and an honourable destination.
+
+## AI Tafsir
+
+**What this ayah teaches:** He consulted with Jibril, peace be upon him, who said, "Be humble." So he chose the former because it has a greater value before Allah and brings a higher status in the Hereafter, even though the second option, prophethood combined with kingship, is also a great thing both in this world and in the Hereafter, when Allah tells us what He gave to Sulayman, peace be upon him, in this world, He tells u…
+
+**Classical tafsir:** Ibn Kathir notes: Allah enabled me to overpower him, and I wanted to tie him to one of the pillars in the Masjid so that you could see him this morning.
+
+**From the Sunnah:** Some of them said, "No one after me will have the right to ask Allah for such a kingdom." This is the apparent meaning from the context of the Ayah, and several Hadiths with a similar meaning have been narrated from the Messenger of Allah ﷺ.
 ## Personal Reflections
 
 

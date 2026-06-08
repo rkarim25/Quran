@@ -220,6 +220,17 @@ A little thought would reveal that the lack of concern for the 'Akhirah is the m
 
 O Allah, make all our concerns a single concern - the concern for 'Akhirah.
 
+## AI Translation
+
+This is a blessed Book which We have revealed—confirming what came before it—so you may warn the Mother of Cities and everyone around it. Those who believe in the Akhirah believe in it and guard their prayers.
+
+## AI Tafsir
+
+**Context:** Allah says that those who rejected His Messengers did not give Allah due consideration. Ibn 'Abbas, Mujahid and 'Abdullah bin Kathir said that this Ayah was revealed about the Quraysh.
+
+**What this ayah teaches:** And that it was revealed after the Torah and Injil is because these two Books were sent for the Bani Isra'il while for their other branch of Bani Isma'il, known as Arabs living in Umm al-Qura, that is, Makkah and its environs, there has been no prophet or book of guidance until that time.
+
+**Classical tafsir:** Ibn Kathir notes: Allah sent the Tawrah as a light and a guidance for people, so that it could shed light on the answers to various disputes, and to guide away from the darkness of doubts.
 ## Personal Reflections
 
 

@@ -130,6 +130,19 @@ The verse implies that a person whom Allah invests with the Book, the Wisdom and
 
 In this, there is the necessary refutation of the Christians who claimed that it was Masih (علیہ السلام) who asked them to have belief in his sonship and godhead. Also chastised were the Muslims who had gone to the Holy Prophet . ﷺ trying to find out if it was all right for them to prostrate before him rather than greet him with the usual سلام salam. Also admonished were the people of the Book who had invested their rabbis and monks with the station of God. Refuge with Allah! (Tafsir ` Usmani)
 
+## AI Translation
+
+And he would never ask you to take angels and prophets as lords. Would he ask you to reject the truth after you have submitted?
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you (O Muhammad ﷺ) but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me".)[21:25],
+
+**What this ayah teaches:** Otherwise, it would mean that Divine knowledge is defective (we seek refuge with Allah!
+
+**Classical tafsir:** Ibn Kathir notes: This criticism refers to the ignorant rabbis, priests and teachers of misguidance, unlike the Messengers and their sincere knowledgeable followers who implement their knowledge; for they only command what Allah commands them, as their honorable Messengers conveyed to them.
+
+**From the Sunnah:** Also chastised were the Muslims who had gone to the Holy Prophet .
 ## Personal Reflections
 
 

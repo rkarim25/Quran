@@ -71,6 +71,15 @@ Construction of buildings without any need is contemptible
 
 This verse indicates that the construction of houses and buildings without need is a condemnable act. The hadith quoted by Imam Tirmidhi (رح) on the authority of Sayyidna Anas ؓ conveys exactly the same message: النفقۃ کلھا فی سبیل اللہ إلّا البناء فلا خیر فیہ (All spendings are in Allah's way, except construction, which has no merit). It means that the building which is constructed in excess of requirement has no benefit or virtue. Another narration of Sayyidna Anas ؓ also confirms this: اِن کُلّ بناء وبال علی صاحبہ إلّا – مَالا ، إلّا مالا، یعنی اِلَّا مالا بدّ منہ - ` Every building is a tribulation for the builder, except that which is necessary, because it is not a nuisance'. It is commented in Ruh al-Ma’ ani that without genuine requirement construction of tall buildings is contemptible and condemned under the Sharl'ah of the Holy Prophet ﷺ .
 
+## AI Translation
+
+Do you think you will be forever left secure in what you have here:
+
+## AI Tafsir
+
+**What this ayah teaches:** There is no contradiction between the two views, because they built the houses which they carved in the mountains as a form of extravagant play, with no need for them as dwelling places.
+
+**Classical tafsir:** Ibn Kathir notes: There is no contradiction between the two views, because they built the houses which they carved in the mountains as a form of extravagant play, with no need for them as dwelling places.
 ## Personal Reflections
 
 

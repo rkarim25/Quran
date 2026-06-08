@@ -196,6 +196,15 @@ The current verse emphasizes that Muslims should follow the excellent model of H
 
 Some of the scholars analyze the phrase اِلَّا قَولَ اِبرٰھِیمَ (but not in what Ibrahim said ...) grammatically as istithna' munqati`, that is, exceptive sentence in which the exception is severed from, or wholly different in kind from, the general term. In terms of this grammatical analysis, praying for his father's forgiveness is not contrary to Abrahamic model. Holy Prophet Ibrahim (علیہ السلام) was under the impression that his father had become a Muslim, so he prayed for the forgiveness of his Muslim father. Later when he learnt the truth, he gave up praying for him and renounced him. If anyone believes, even today, that a particular unbeliever has most probably embraced Islam, there is no harm in praying for his pardon. [ Qurtubi ]. Allah knows best!
 
+## AI Translation
+
+You have an excellent example in them for whoever hopes in Allah and the Last Day. Whoever turns away should know that Allah alone is Self-Sufficient, Praiseworthy.
+
+## AI Tafsir
+
+**What this ayah teaches:** And whosoever turns away, then verily, Allah is Al-Ghani, Al-Hamid .
+
+**Classical tafsir:** Ibn Kathir notes: Make us not a trial for the those who reject the truth,) Mujahid said, "It means, 'Do not punish us by their hands, nor with a punishment from You.' Or they will say, 'Had these people been following the truth, the torment would not have struck them'." Ad-Dahhak said something similar.
 ## Personal Reflections
 
 

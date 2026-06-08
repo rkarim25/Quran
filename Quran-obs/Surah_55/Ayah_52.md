@@ -84,6 +84,17 @@ This Ayah is general and applies to both humans and Jinns, providing proof that 
 
 فِيهِمَا مِن كُلِّ فَاكِهَةٍ زَوْجَانِ (In both there are two kinds of every fruit...52). The phrase مِن كُلِّ فَاكِهَةٍ "of every fruit " denotes that the first two gardens will comprehend all kinds of fruit. As opposed to this, verse [ 68] simply states فَاكِهَةٍ fakihah [=fruits ] about the second two gardens. The word زَوْجَانِ zawjan [ two kinds ] means every fruit will be of two types. This may be referring to one kind of dried fruits, and the other of fresh ones. It could also mean that one kind will be of normal taste, and the other of some extra ordinary flavor. [ Mazhari ]
 
+## AI Translation
+
+In each are two kinds of every fruit.
+
+## AI Tafsir
+
+**What this ayah teaches:** This may be referring to one kind of dried fruits, and the other of fresh ones.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** The Group, with the exception of Abu Dawud, collected this via the Hadith of 'Abdul-'Aziz. (Sunan Abi Dawud)
 ## Personal Reflections
 
 

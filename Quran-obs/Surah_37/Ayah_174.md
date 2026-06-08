@@ -98,6 +98,15 @@ But, it should always be borne in mind that no group of people achieves this sup
 
 In verse 177, it was said: فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَاءَ صَبَاحُ الْمُنذَرِ‌ينَ (So, when it descends in their courtyard, then, evil with be the dawn of the warned). The word: سَاحَۃُ (sahah) appearing in this verse literally means a courtyard, and the expression: نَزَلِ بِسَاحَتِہٖ (nazala bisahatihi: descended in his courtyard) is an Arabic idiom that denotes the appearance of a calamity face to face, while the time of morning has been specified, as an attack would usually come at that hour among the people of Arabia. This also used to be the practice with the Holy Prophet ﷺ that, should he reach the territorial jurisdiction of some enemy at the time of night, he used to postpone his attack until the morning (Mazhari). According to Hadith narrations, when the Holy Prophet ﷺ attacked the fort of Khaibar during the morning hours, he said: اللہ اکبر، خربت حیبر، انّا اذا نزلنا قوم فساء صباح المنذرین (Allahu Akbar, Khaibar is destroyed. Verily, when we descend on the courtyard of a people, the morning of those who had been already warned is too bad).
 
+## AI Translation
+
+So turn away from the deniers for a while, O Prophet.
+
+## AI Tafsir
+
+**What this ayah teaches:** they verily would be the victors (173)So, turn away from them for a while (174)And watch them and they shall see (175)Do they seek to hasten on Our torment (176)Then, when it descends in their courtyard, evil will be the morning for those who had warned (177)So, turn away from them for a while (178)And watch and they shall see .
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, simply due to this temporary ascendancy, neither can we call that robber an authority, nor that authority a subject.
 ## Personal Reflections
 
 

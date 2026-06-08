@@ -198,6 +198,17 @@ We need to bear in mind the verse foretells that they will be invited to take pa
 
 تُقَاتِلُونَهُمْ أَوْ يُسْلِمُونَ ("...you will have to fight them, or they will submit" ) According to the gira’ ah (reading) of Sayyidna 'Ubaiyy in the second disjunctive clause أَوْ يُسْلِمُوا au yuslimu the nun has been omitted. Therefore, Imam Qurtubi takes the disjunctive particle au originally standing for "or" in the sense of hatta (until). In other words, the fighting will carry on with that nation until they surrender - whether by embracing Islam or by submitting to the Islamic rule.
 
+## AI Translation
+
+Say to the desert Arabs who stayed behind: You will be called to fight a people of great might. You will fight them unless they submit. If you obey, Allah will give you a fine reward. If you turn away as you did before, He will inflict a painful punishment on you.
+
+## AI Tafsir
+
+**Context:** Some people have tried to argue that the restrictive injunction is found in the Qur'an itself, that is in verses 18 and 19 of this very Surah "so He sent down tranquility upon them, and rewarded them with a well-nigh vic…
+
+**What this ayah teaches:** Verse [ 16] consoles and comforts the laggards that though, because of Allah's promise made to the participants of Hudaibiyah, they cannot be allowed to take part in the expedition of Khaibar, yet in the near future the sincere Muslims would be called upon to fight against much more powerful enemies.
+
+**Classical tafsir:** Ibn Kathir notes: In another narration Mujahid said, "They are men given to great warfare," and did not specify any particular people.
 ## Personal Reflections
 
 

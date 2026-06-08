@@ -109,6 +109,17 @@ In the Two Sahihs it is recorded from the Messenger of Allah ﷺ that he said,
 
 Towards the end, the story of Sayyidna Yunus (علیہ السلام) is concisely told that when his people constantly demanded punishment, he became indignant and prayed for the punishment to be sent down. The signs of the punishment started appearing. Sayyidna Yunus (علیہ السلام) left the place and transferred himself elsewhere. In the meantime the entire nation wept, wailed, sincerely repented and begged refuge from the Divine punishment. Allah pardoned them and took away the punishment. Sayyidna Yunus (علیہ السلام) felt embarrassed and thought that if he goes back to his people, they might think he was a liar. As a result, without the clear permission of Allah, he acted purely on his ijtihad [ independent judgment ] that he would not go back to his people. At this, Allah, in order to caution him, created a situation where he had to undertake sea voyage, and then was lowered into the sea where he was swallowed up by a fish. Being thus cautioned, Sayyidna Yunus (علیہ السلام) sought the Divine pardon. Consequently, Allah once again opened the doors of the former blessings to be restored to him. Full description of the event has been given in Surah Yunus (Verse 10:98) and other Surahs. The Holy Prophet ﷺ is comforted by this story not to be impressed by people's demands nor to be anxious to get them punished hastily. Allah's wisdom is profound and unfathomable. Allah alone knows what is in the best interests of the world. Allah should be trusted and relied on.
 
+## AI Translation
+
+Or are you asking them for a reward that burdens them with debt?
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, My plan is strong (45)Or is it that you ask them a wage, so that they are heavily burdened with debt (46)Or that the Unseen is in their hands, so that they can write it down .
+
+**Classical tafsir:** Ibn Kathir notes: The Terror of the Day of Judgement After Allah mentions that those who have Taqwa, will have Gardens of Delight with their Lord, He explains when this will be, and its actual occurrence.
+
+**From the Sunnah:** he heard the Prophet ﷺ saying, (Sahih al-Bukhari)
 ## Personal Reflections
 
 

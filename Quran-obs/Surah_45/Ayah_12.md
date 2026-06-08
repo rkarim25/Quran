@@ -135,6 +135,17 @@ Commentary
 
 اللَّـهُ الَّذِي سَخَّرَ‌ لَكُمُ الْبَحْرَ‌ لِتَجْرِ‌يَ الْفُلْكُ فِيهِ بِأَمْرِ‌هِ وَلِتَبْتَغُوا مِن فَضْلِهِ ("Allah is the One who has subjugated for you the sea, so that you may seek His grace, ... 45:12) ". Generally, when Qur'an uses the expression ` to seek His grace' it refers to exerting oneself in seeking one's livelihood. Another meaning of the phrase could be that man has been given the skill to move the boats or pilot the ships on the surface of the waters so that he may carry out his commercial activities across the globe. It is possible that ` seeking grace' does not have anything to do with the sailing of the boats or the ships. Therefore, a third meaning is possible. ` Subjugating the sea' has a special meaning, that is, Allah has created many useful things in the sea and subjugated the sea for the benefit of mankind so that they may exploit the minerals and other wealth. Contemporary science confirms that the oceans and seas have much more minerals and much more wealth hidden in them than in the dry land.
 
+## AI Translation
+
+Allah subjected the sea for you so ships sail upon it by His command, that you may seek His bounty and perhaps be grateful.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah, it is He Who has subjected to you the sea, that ships may sail through it by His command, and that you may seek of His bounty, and that you may be thankful (12)And has subjected to you all that is in the heavens and all that is on the earth; it is all (as a favor and kindness) from Him.
+
+**Classical tafsir:** Ibn Kathir notes: Generally, when Qur'an uses the expression ` to seek His grace' it refers to exerting oneself in seeking one's livelihood.
+
+**From the Sunnah:** Then, when harm touches you unto Him you cry aloud for help.)(16:53) Ibn Jarir recorded that Al-'Awfi reported that Ibn 'Abbas said about Allah's statement, In the beginning of Islam, Muslims were ordered to observe patience in the face of the oppression of the idolators and the People of the Scriptures so that their hearts may incline towards Islam.
 ## Personal Reflections
 
 

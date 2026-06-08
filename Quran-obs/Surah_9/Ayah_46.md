@@ -153,6 +153,15 @@ Take an example from everyday life. One makes the necessary preparations to get 
 
 In short, a decision about an excuse being reasonable or unreasonable can be taken only by knowing whether or not preparation was made to carry out orders. Simply using a lot of words to make a point gets nothing done.
 
+## AI Translation
+
+Had they intended to march forth, they would have made preparations for it. But Allah disliked that they should go, so He let them lag behind, and it was said, “Stay with those who remain behind.”
+
+## AI Tafsir
+
+**What this ayah teaches:** And indeed We would then have bestowed upon them a great reward from Ourselves. After that, by chance, whatever arrangements were made did not work - and because of this, the Salah was missed.
+
+**Classical tafsir:** Ibn Kathir notes: After that, by chance, whatever arrangements were made did not work - and because of this, the Salah was missed.
 ## Personal Reflections
 
 

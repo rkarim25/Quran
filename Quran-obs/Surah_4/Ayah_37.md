@@ -181,6 +181,17 @@ Sayyidna Abu Said ؓ narrates that the Holy Prophet ﷺ said:
 
 "Two traits cannot get combined in a true Muslim: miserliness and bad morals." (Tirmidhi)
 
+## AI Translation
+
+Worship Allah and associate none with Him. And be kind to parents, relatives, orphans, the poor, near and distant neighbours, close friends, travellers, and those in your possession. Surely Allah does not like whoever is arrogant, boastful— those who are stingy, promote stinginess among people, and withhold Allah’s bounties. We have prepared for those who reject the truth a humiliating punishment.
+
+## AI Tafsir
+
+**Context:** A narration from Sayyidna Ibn ` Abbas ؓ tells us that this verse was revealed about the Jews of Madinah. They were very arrogant, and extremely miserly. When it came to spending money, they were miserably miserly.
+
+**What this ayah teaches:** Those who are stingy and encourage people to be stingy and hide what Allah has bestowed upon them of His bounties. And We have prepared for the those who reject the truth a disgraceful torment (37)And (also) those who spend of their wealth to be seen of men, and believe not in Allah and the Last Day, and whoever takes Shaytan as an intimate; then what a dreadful intimate he has (38)And what loss have they if th…
+
+**Classical tafsir:** Ibn Kathir notes: The apparent wording for this Ayah indicates that it is talking about being stingy with money, even though miserly conduct with knowledge is also included.
 ## Personal Reflections
 
 

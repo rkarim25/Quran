@@ -125,6 +125,15 @@ Commentary
 
 لَعَلَّكَ بَاخِعٌ نَّفْسَكَ Seemingly you are going to let yourself collapse in grief - 26:3). The word بَاخِعٌ (bakhi" )is derived from بَخعٌ (bakh' ) which means to reach up to Bikha`, an artery of the neck, while slaughtering. In this verse baki` is used in the sense of putting oneself into trouble and toil. "Allamah ` Askari has said, ` Although at such places the sentence appears to be informative but in fact it means to prohibit or prevent'. What it conveys is that, ` O Messenger, do not be so despondent because of your people's disbelief and rejection of Islam that you cause yourself to collapse'. One learns from this verse that even if it is apparent that a disbeliever would not convert to Islam, still it is not right to stop preaching to him. The second thing one learns is that the efforts one makes for a certain objective must be balanced and moderate, and if someone is adamant not to be guided to the right path, one should not be over-grieved.
 
+## AI Translation
+
+Perhaps you O Prophet will grieve yourself to death over their rejection of the truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** What it conveys is that, ` O Messenger, do not be so despondent because of your people's disbelief and rejection of Islam that you cause yourself to collapse'. These are Ayat of the Book Mubin.)(3.
+
+**Classical tafsir:** Ibn Kathir notes: Abu Al-'Aliyah, Qatadah, Ar-Rabi' bin Anas and Ibn Ishaq said: "He is Almighty in His punishment of those who went against His commands and worshipped others besides Him." Sa'id bin Jubayr said: "He is ar-Rahim towards those who repent to Him and turn to Him."
 ## Personal Reflections
 
 

@@ -120,6 +120,17 @@ After Yusuf's servants accused his brothers of theft, they said,
 
 In verse 73, it was said: قَالُوا تَاللَّـهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِي الْأَرْ‌ضِ وَمَا كُنَّا سَارِ‌قِينَ that is, when the royal announcer accused the brothers of Sayyidna Yusuf (علیہ السلام) of theft, they said that responsible people of the state know them and know that they had not come to create any disorder in the country, nor have they ever been thieves.
 
+## AI Translation
+
+Joseph’s brothers replied, “By Allah! You know well that we did not come to cause trouble in the land, nor are we thieves.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Indeed you know that we came not to make mischief in the land, and we are no thieves!
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Allah is the All-Knowing and His knowledge is above the knowledge of every knowledgeable person.' Simak narrated that 'Ikrimah said that Ibn 'Abbas said about Allah's statement,
 ## Personal Reflections
 
 

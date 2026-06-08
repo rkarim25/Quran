@@ -197,6 +197,15 @@ Allah mentions the descriptions of the liars who falsely claim faith with their 
 
 (2)-The sense is that they did not believe in Islam with their hearts, and this fact cannot: be concealed from Him, because He knows whatever lies in the hearts of the people.
 
+## AI Translation
+
+Some say, We believe in Allah, yet when they suffer for Allah's cause they treat people's persecution as Allah's punishment. When victory comes from your Rabb, they say to believers, We were always with you. Does Allah not know best what is in every heart?
+
+## AI Tafsir
+
+**What this ayah teaches:** Of mankind are some who say: "We believe in Allah." But if they are made to suffer for Allah, they consider the trial of mankind as Allah's punishment; and if victory comes from your Lord, they will say: "Verily, we were with you." Is not Allah Best Aware of what is in the breasts of the creatures (10)And indeed Allah knows those who believe, and verily, He knows the hypocrites .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -153,6 +153,17 @@ Verse 139 brings out the essential and peculiar characteristic of the Islamic Um
 
 Nor should we forget another serious aspect of the problem. There is another allied notion of "sincerity" which has been disturbing the peace of many pious people even in the past, but which has acquired a devastating intensity in our own days. This notion of "sincerity" demands one to seek fixity and unrelieved continuity in an emotional state, which is, of course, not possible for man as he is constituted. It so happens with some pious people that once they start seeking this kind of "sincerity" in offering their enjoined prayers, they find that they cannot keep up an unbroken concentration of mind, and are so frightened by this lapse that they sometimes give up offering their prayers, believing such worship to be "insincere" and hence invalid. Let us make it clear once for all that the only thing the Shari` ah requires from us is to have the correct intention and attitude when we begin our prayers or perform any other good deed. This alone is the pre-requisite for attaining Ikhlas اخلاص ، which, anyhow, is not a matter of emotions and affective states. In short, Islam requires us to perfect the quality of Ikhlas اخلاص as defined by the Shari'ah, and not to seek "sincerity" in the Western sense of the term, ancient or modern. For an elaborate treatment of the subject, see Tarbiyyah al-Salik تربیہ السالک by Maulana Ashraf ` Ali Thanavi (رح) .
 
+## AI Translation
+
+That was a community that has passed. For them is what they earned; for you is what you earn. You will not be asked about what they did.
+
+## AI Tafsir
+
+**What this ayah teaches:** Thus, at the end of this section, Verse 141, which is a repetition of Verse 134, warns them against the consequences of their vanity and pretentiousness, and advises them to take care of themselves rather than relying on ancestral glory.
+
+**Classical tafsir:** Ibn Kathir notes: Thus, at the end of this section, Verse 141, which is a repetition of Verse 134, warns them against the consequences of their vanity and pretentiousness, and advises them to take care of themselves rather than relying on ancestral glory.
+
+**From the Sunnah:** Paradise which would be denied to Muslims.
 ## Personal Reflections
 
 

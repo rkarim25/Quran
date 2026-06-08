@@ -93,6 +93,17 @@ Commentary
 
 وَهُوَ يُجِيرُ‌ وَلَا يُجَارُ‌ عَلَيْهِ (And who gives protection and no protection can be given against him - 23:88) The meaning of the verse is that Allah alone can deliver a person from pain and suffering as He wills, but there is none who can save a person from divine punishment. This is true of this world because nobody can stop Allah from rewarding virtuous people nor can anyone protect someone whom He chooses to punish. And the same is true of the Hereafter also. (Qurtubi)
 
+## AI Translation
+
+Say, O Prophet, “My Rabb! Should You show me what they are threatened with,
+
+## AI Tafsir
+
+**What this ayah teaches:** This is true of this world because nobody can stop Allah from rewarding virtuous people nor can anyone protect someone whom He chooses to punish.
+
+**Classical tafsir:** Ibn Kathir notes: This is true of this world because nobody can stop Allah from rewarding virtuous people nor can anyone protect someone whom He chooses to punish.
+
+**From the Sunnah:** If You would show me that with which they are threatened.) meaning, 'if You punish them while I am witnessing that, then do not cause me to be one of them.' As was said in the Hadith recorded by Imam Ahmad and At-Tirmidhi, who graded it Sahih: (Musnad Ahmad, Jami' at-Tirmidhi) We have already stated, when discussing Isti'adhah (seeking refuge), that the Messenger of Allah ﷺ used to say,
 ## Personal Reflections
 
 

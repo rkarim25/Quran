@@ -214,6 +214,17 @@ Say, "I do not demand from you any fee, except that whoever so wills, should ado
 
 Allah Ta’ ala advised the Holy Prophet ﷺ to say that he has no personal interest in inviting to accept and follow Allah's message in order to be profitable in this world and the Hereafter. He does not seek any reward from them for his efforts. His reward is only that they turn towards Allah. It is but obvious that if someone moves to the righteous path it is he who will be the gainer. As for the Holy Prophet , it was his love for the people that he was striving, and has considered the gain of the people as his own. It is just like an old father asks his children to eat and drink and be merry, and declares to them that their eating and drinking is a reward for himself. It is also possible that the correct attitude of the people is taken as a reward for the Holy Prophet ﷺ because he will also be rewarded if the people take up to right path. Some authentic traditions say that if someone asks people to take up the righteous path and they oblige, then not only those who have acted righteously will be rewarded for the good acts, but also the one who has persuaded them to follow the righteous path. (Mazhari)
 
+## AI Translation
+
+Say, “I do not ask you for any reward for this message, but whoever wishes, let them pursue the Way to their Rabb.”
+
+## AI Tafsir
+
+**Context:** (Then He rose over (Istawa) the Throne. The ar-Rahman! Ask Him, as He is the All-Knower.) meaning, find out about Him from one who knows most about Him, and follow him and take him as your example.
+
+**What this ayah teaches:** His reward is only that they turn towards Allah.
+
+**Classical tafsir:** Ibn Kathir notes: It is also possible that the correct attitude of the people is taken as a reward for the Holy Prophet ﷺ because he will also be rewarded if the people take up to right path.
 ## Personal Reflections
 
 

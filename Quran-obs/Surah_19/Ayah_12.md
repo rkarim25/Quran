@@ -106,6 +106,15 @@ This also implies what is not mentioned, that this promised boy was born and he 
 
 سَوِيًّا means healthy. This word has been added here to denote that Sayyidna Zakariyya's (علیہ السلام) loss of speech for three days was not due to any illness, for during this entire period of three days he could utter words of prayer and supplication. This special condition was a miracle and a sign from Allah Ta’ ala about his wife's pregnancy.
 
+## AI Translation
+
+O John, hold firmly to the Scripture. We granted him wisdom while still a child,
+
+## AI Tafsir
+
+**What this ayah teaches:** Hold fast to the Scripture [the Tawrah].) Means, "Learn the Book with strength." In other words, learn it well, with zeal and studious effort.
+
+**Classical tafsir:** Ibn Kathir notes: Hold fast to the Scripture [the Tawrah].) Means, "Learn the Book with strength." In other words, learn it well, with zeal and studious effort.
 ## Personal Reflections
 
 

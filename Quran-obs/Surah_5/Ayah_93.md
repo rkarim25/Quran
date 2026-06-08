@@ -332,6 +332,19 @@ And if the animal was edible (that is, Halal), then, whatever the estimate (of c
 
 11. Pointing to, guiding along or assisting in hunting is حَرَام haram (unlawful) as hunting itself.
 
+## AI Translation
+
+There is no blame on those who believe and do good for what they had consumed before, as long as they fear Allah, have faith, and do what is good; then they believe and act virtuously, then become fully mindful and do righteous deeds. For Allah loves the good-doers.
+
+## AI Tafsir
+
+**Context:** It is recorded in the Two Sahihs, that 'Umar bin Al-Khattab said in a speech; while standing on the Minbar of the Messenger of Allah (in the Prophet's Masjid in Al-Madinah) "O people!
+
+**What this ayah teaches:** Here it means that all types of games are not prohibited, but the prohibition is restricted to some of them.
+
+**Classical tafsir:** Ibn Kathir notes: The Lam of ` Ahd indicates that the word is used in a restricted sense and not in a general sense.
+
+**From the Sunnah:** When the Messenger of Allah ﷺ migrated to Al-Madinah, the people were consuming alcohol and gambling, so they asked the Messenger of Allah ﷺ about these things, Allah revealed, (Musnad Ahmad) So they said, 'We abstained, O Lord!' Later, some people said, 'O Allah's Messenger!
 ## Personal Reflections
 
 

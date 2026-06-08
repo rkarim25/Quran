@@ -123,6 +123,15 @@ Thus, the verse comes to mean that the Quran and its injunctions sent down to th
 
 That Allah Ta` ala exists and that He is One has been emphasized in the second verse. The proof stands obvious. Look at what has been created and ponder over the matchless mastery with which everything was created. One can come to only one conclusion that their maker has abso-lute power over everything and that He controls all creations and universes as the master.
 
+## AI Translation
+
+Alif-Lam-Mim-Ra. These are the ayahs of the Book—what has been sent down to you from your Rabb is the truth, yet most people do not accept it.
+
+## AI Tafsir
+
+**Context:** The first verse says that the Holy Qur'an is Divine Word, and that it is true. The word, الْكِتَابِ (Al-Kitab: The Book) means the Qur’ an, and it is possible that the expression which follows it, that is, الَّذِي أُنزِل…
+
+**What this ayah teaches:** These are the verses of the Book (the Qur'an), and that which has been revealed unto you from your Lord is the truth, but most men believe not.) The Qur'an is Allah's Kalam (Speech) We talked before, in the beginning of Surat Al-Baqarah (chapter 2) about the meaning of the letters that appear in the beginnings of some chapters in the Qur'an.
 ## Personal Reflections
 
 

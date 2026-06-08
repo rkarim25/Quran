@@ -78,6 +78,15 @@ Qatadah commented, "They shamed them (Lut and the believers) with what is not a 
 
 In the third verse (82) Lut (علیہ السلام) in response to his word of advice has been put in a way that it shows that his people could not find a suitable rejoinder to what he had said. But, they were still adamant and started saying among themselves that these people seem to be self-righteous claiming a lot of purity for themselves. The treatment they deserved was that they should be thrown out of their town.
 
+## AI Translation
+
+But his people’s only response was to say, “Expel them from your land! They are a people who wish to remain chaste!”
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah indeed removed Prophet Lut safely from among them, and He destroyed them in their land in disgrace and humiliation. But, they were still adamant and started saying among themselves that these people seem to be self-righteous claiming a lot of purity for themselves.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

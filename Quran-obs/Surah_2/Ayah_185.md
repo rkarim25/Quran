@@ -382,6 +382,19 @@ Note:
 
 In the sentence وَمَن كَانَ مَرِ‌يضًا أَوْ عَلَىٰ سَفَرٍ‌ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَر (should anyone be sick, or on a journey, then, a number from other days), the sick and the travelling have been granted leave that they may not fast at that time. When the sick person regains his health and the traveller returns home, they can make up for the days they missed by doing qada' قضاء fasts. It will be recalled that this injunction had appeared in the previous verse, but now that the choice of paying fidyah (ransom) for not fasting has been cancelled, a doubt could creep up in relation to the concession granted to the sick and the travelling, that it may have been abrogated as well, therefore, the provision was positively repeated.
 
+## AI Translation
+
+Ramadan is the month in which the Quran was sent down as guidance for humanity with clear proofs of guidance and the Furqan. Whoever witnesses the month should fast. Whoever is ill or travelling should make up days later. Allah intends ease for you, not hardship, so you may complete the count and magnify Allah for guiding you, and so you may be grateful.
+
+## AI Tafsir
+
+**Context:** Allah praised the month of Ramadan out of the other months by choosing it to send down the Glorious Qur'an, just as He did for all of the Divine Books He revealed to the Prophets.
+
+**What this ayah teaches:** So whoever of you sights (the crescent on the first night of) the month (of Ramadan, i.e., is present at his home), he must observe Sawm (fasting) that month, and whoever is ill or on a journey, the same number [of days which one did not observe Sawm (fasting) must be made up] from other days.
+
+**Classical tafsir:** Ibn Kathir notes: The sentence, therefore, means that it is obligatory for one who is 'present' in the month of Ramadan that he fasts throughout that month.
+
+**From the Sunnah:** The authentic Sunnah states that Allah's Messenger (ﷺ) traveled during the month of Ramadan for the battle for Makkah.
 ## Personal Reflections
 
 

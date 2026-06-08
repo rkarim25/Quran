@@ -190,6 +190,15 @@ Qatadah said, "This means he is a witness against himself." In another narration
 
 بَلْ يُرِيْدُ الْاِنْسَانُ لِيَفْجُرَ اَمَامَهٗ (But man wishes to go on violating Allah's injunctions [ even in future ] ahead of him...75:5). The word amam signifies 'ahead or future'. The verse purports to say that the unbeliever or the unmindful man does not ponder over the manifestations of Divine Omnipotence, so that he may regret his denial in the past and make amends for the future. In fact, he wishes to persist in his denial, polytheism and sins even in the future.
 
+## AI Translation
+
+mockingly asking, 'When is this Day of Resurrection?'
+
+## AI Tafsir
+
+**What this ayah teaches:** Man desires to break out ahead of himself.)(6.
+
+**Classical tafsir:** Ibn Kathir notes: I swear by An-Nafs Al-Lawwamah.) Qatadah said, "This means, I swear by both of these things." This has also been reported from Ibn 'Abbas and Sa'id bin Jubayr. This means Our power is suitable to gather (and recreate) them, and if We wished We could surely resurrect him with more than what he originally had.
 ## Personal Reflections
 
 

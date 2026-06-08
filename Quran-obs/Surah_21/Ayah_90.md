@@ -128,6 +128,15 @@ Allah tells us of His servant Zakariyya, who asked Allah to grant him a son who 
 
 يَدْعُونَنَا رَ‌غَبًا وَرَ‌هَبًا (and call Us with hope and fear - 21:90). This may be interpreted to mean that they call Allah Ta` ala both in comfort and distress. The other explanation of the verse is that during their prayers they remain suspended between hope and fear hoping that Allah would forgive their sins and fearing that their lapses may bring on them His displeasure.
 
+## AI Translation
+
+So We answered his salah, granted him John, and made his wife fertile. Indeed, they used to race in doing good, and call upon Us with hope and fear, totally humbling themselves before Us.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, they used to hasten on to do good deeds, and they used to call on Us with hope and fear, and they were Khashi'in before Us .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

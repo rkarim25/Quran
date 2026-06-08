@@ -98,6 +98,17 @@ Some of the scholars said that it (Sijjil) derived from the word Sang, which mea
 
 At the end of the verse (83), after having mentioned the actual punishment that hit the people of Sayyidna Lut (علیہ السلام) was to warn the contemporary peoples of the world that it was said: وَمَا هِيَ مِنَ الظَّالِمِينَ بِبَعِيدٍ (And it is not far from the transgressors). It means that people who insist upon indulging in this shameful act should not consider themselves very far from this punishment. It can come even today. The Holy Prophet said, ` even in my Ummah, some people will do what the people of Lut (علیہ السلام) used to do. When this starts happening, then wait, for they too would be subjected to the same punishment that was inflicted on the people of Lut (علیہ السلام) .'
 
+## AI Translation
+
+marked by your Rabb O Prophet. And these stones are not far from the pagan wrongdoers!
+
+## AI Tafsir
+
+**What this ayah teaches:** So when Our commandment came, We turned them upside down, and rained on them stones of clay, in an array (82)Marked from your Lord; and they are not ever far from the wrongdoers . Some of the scholars said that it (Sijjil) derived from the word Sang, which means a stone.
+
+**Classical tafsir:** Ibn Kathir notes: Some of the scholars said that it (Sijjil) derived from the word Sang, which means a stone.
+
+**From the Sunnah:** "Sijjil means that which is big and strong." Concerning Allah's statement, (Sahih al-Bukhari) Verily, it has been reported in a Hadith of the Sunan collections, from Ibn 'Abbas, which he attributed to the Prophet ﷺ,
 ## Personal Reflections
 
 

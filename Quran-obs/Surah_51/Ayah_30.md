@@ -134,6 +134,15 @@ The three angels; Jibril, Mika'il and Israfil came to Ibrahim in the image of ha
 
 When, in the course of the conversation, Holy Prophet Ibrahim (علیہ السلام) discovered that the guests were angels, he asked them what was their mission and they replied that they had been sent to the people of Lut (علیہ السلام) to destroy them as a punishment for their unspeakable crime. They would be stoned to death, but not with large stones.
 
+## AI Translation
+
+They said: Such is what your Rabb has decreed. He is the All-Wise, the All-Knowing.
+
+## AI Tafsir
+
+**What this ayah teaches:** They said: "Fear not, we have been sent against the people of Lut." And his wife was standing (there), and she laughed.)(11:70-71), meaning, she was glad that the people of Lut would be destroyed on account of their rebellion and transgression against Allah, the Exalted. Verily, this is a strange thing!" They said, "Do you wonder at the decree of Allah?
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

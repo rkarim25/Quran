@@ -363,6 +363,17 @@ Let there be no misgiving that during the course of history the coming of prophe
 
 3. The third lesson we learn from this verse is that evil people have always elected to oppose every prophet and every divine Book and have been even eager to line up their maximum forces against them. This being the customary situation allowed to prevail by Allah Almighty, people who have the strength of faith in their hearts should not feel bad about the chronic pursuit of intrigues and hostility by the evil ones against them. Very simply, just as the disbelievers took to the ways of their elders in the form of denial, hostility and prophet-bashing, all true Muslims on the straight path should take to the consistent practice of their elders, the great prophets (علیہم السلام) ، by staying patient against injuries inflicted on them, nevertheless, keep calling them to the true Faith with wisdom, sound advice and good grace. Perhaps, it is because of this congruity of purpose, that the next verse counsels Muslims to maintain a stance of forbearance and patience against all situations of distress.
 
+## AI Translation
+
+Humanity was once one community; then Allah sent prophets as bearers of good news and warners, and sent down Scripture with them in truth to judge disputes among people. Only those who received it disputed it — out of jealousy — after clear proofs came to them. Allah guided the believers by His grace to the truth in what they disputed. Allah guides whomever He wills to the Straight Path.
+
+## AI Tafsir
+
+**What this ayah teaches:** Obviously, the two sentences do not seem to synchronize because the cause of sending prophets and Books is the disputation of people, which did not exist at that time.
+
+**Classical tafsir:** Ibn Kathir notes: This comparative examination tells us that the unity mentioned in this verse means the unity of ideas and the unity of beliefs.
+
+**From the Sunnah:** this in his Mustadrak and said, "Its chain of narrators is Sahih, but they (Al-Bukhari and Muslim) did not record it." Abu Ja'far Razi reported that Abu Al-'Aliyah said that Ubayy bin Ka'b read the Ayah as: (Sahih al-Bukhari, Sahih Muslim) that when Allah's Messenger ﷺ used to wake up at night to pray, he would say: (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

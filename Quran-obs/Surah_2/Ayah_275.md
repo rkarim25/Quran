@@ -574,6 +574,17 @@ What has been said here has two aims:
 
 In the end, I present some ahadith of the Holy Prophet to further strengthen the statement of above-mentioned aims. These re-assert the same Qur'anic verses where ربا riba has been strongly prohibited and where warnings of severe punishment have been given to those involved in it. The purpose is to bring about, at least, a sense of awakening - the realization that a sin is a sin, and the concern that something should be done to abstain from it. Perhaps, the minimum change that can come out of this is not to make two sins out of one by treating the Haram as halal. Thus we shall be saved from seeing even highly righteous and observing Muslims who would spend nights in تھجد tahajjud (pre-dawn nafl Salah) and ذکر dhikr of Allah (remembrance of Allah), yet when they reach their store or factory in the morning, they would not even think that, by indulging in dealings of interest and gambling, they are committing some sin!
 
+## AI Translation
+
+Those who consume interest will stand on the Day of Judgment like those driven to madness by Satan's touch. That is because they say trade is like interest — but Allah permitted trade and forbade interest. Whoever refrains after warning from his Rabb may keep past gains; his case is with Allah. Whoever persists — they are the people of the Fire, remaining forever.
+
+## AI Tafsir
+
+**Context:** 2. The noble Companions, all of them, abandoned this ربا riba the moment its unlawfulness was revealed in the Qur'an. None of them had any difficulty or doubt in comprehending or explaining its meaning.
+
+**What this ayah teaches:** Taking or giving interest is a sin but taking the haram to be halal is a much greater sin.
+
+**Classical tafsir:** Ibn Kathir notes: Muhaqalah, which refers to trading produce not yet harvested, with crops already harvested, was also prohibited.
 ## Personal Reflections
 
 

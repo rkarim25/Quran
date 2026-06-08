@@ -104,6 +104,17 @@ Knowledge improves if it is acted upon
 
 Sayyidna Abu Ad-Darda' ؓ while interpreting this verse has said that the people who strive for acting in accordance with their knowledge are promised by Allah Ta’ ala in this verse that He will disclose to them some other areas of knowledge that they did not have before. Fudayl Ibn ` Iyad (رح) has given yet another interpretation to this verse, that is, ` those who strive for knowledge, We make it easy for them to act'. (Mazhari). وَاللہُ سبحانَہُ و تعالیٰ اَعلَم
 
+## AI Translation
+
+Those who struggle in Our cause — We will guide them on Our ways. Allah is with those who do good.
+
+## AI Tafsir
+
+**What this ayah teaches:** Is there not a dwelling in Hell for the those who reject the truth (68)As for those who strive hard for Us, We will surely guide them to Our paths.
+
+**Classical tafsir:** Ibn Kathir notes: In other words, He turns their hearts toward a way that may bring the divine blessing and the best results.
+
+**From the Sunnah:** Ibn Abi Hatim narrated that 'Abbas Al-Hamdani Abu Ahmad – one of the people of 'Akka (Palestine) – said, concerning the Ayah:
 ## Personal Reflections
 
 

@@ -164,6 +164,15 @@ This tells us that they too regarded Allah Ta’ ala as the ultimate Razzaq or P
 
 Now, there remains the question: On which basis, did the believers ask the disbelievers to spend in the way of Allah, particularly when they simply did not have the very faith in Allah and, as the jurists maintain, they were no addressees of the subsidiary injunctions of the Shari` ah? The answer to that is clear. When the believers said that, they had no intention to have disbelievers implement some religious injunction, it was said on the basis of the accepted norm of human good will, sympathy and gentleness.
 
+## AI Translation
+
+And when it is said to them, "Spend from what Allah has provided for you," those who reject the truth say to the believers, "Why should we feed those whom Allah could have fed if He wanted to? You are clearly astray!"
+
+## AI Tafsir
+
+**What this ayah teaches:** In their sarcastic response, the those who reject the truth say: You say that Allah is the provider and sustainer of the entire creation, yet He did not give them anything.
+
+**Classical tafsir:** Ibn Kathir notes: This aversion of theirs has not been expressly mentioned here in the words of the Qur'an, because the 'I` rad' or aversion mentioned in the next verse automatically proves their aversion here too.
 ## Personal Reflections
 
 

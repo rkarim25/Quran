@@ -249,6 +249,17 @@ It is the very subject of these verses that the Holy Prophet has summarized in t
 
 This hadith has been reported by Ibn Majah and al-Tabarani on the authority of Sayyidna Abu Hurairah ؓ .
 
+## AI Translation
+
+Say: Shall I tell you what is better than worldly gains? For those who live with taqwa—awareness that Allah sees them—there are Gardens with their Rabb under which rivers flow, where they will remain forever, with purified spouses and Allah's pleasure. And Allah is All-Seeing of His servants.
+
+## AI Tafsir
+
+**What this ayah teaches:** Abu Hurayrah said "The Qintar is twelve thousand Uwqiyah, each Uwqiyah is better than what is between the heavens and earth." [This was recorded by Ibn Jarir].
+
+**Classical tafsir:** Ibn Kathir notes: Scholars of Tafsir have conflicting opinions about the amount of the Qintar, all of which indicate that the Qintar is a large amount of money, as Ad-Dahhak and other scholars said.
+
+**From the Sunnah:** A'ishah, may Allah be pleased with her, said, "Nothing was more beloved to the Messenger of Allah ﷺ than women, except horses," and in another narration, "...than horses except women." Paradise will have bricks of gold and silver masoned one after the other.
 ## Personal Reflections
 
 

@@ -111,6 +111,15 @@ Injunctions and related consideration
 
 In this incident the statement of the murdered man was considered evidence for condemning the murderer, because Allah had informed Sayyidna Musa (علیہ السلام) through revelation that the man would, on coming back to life, speak the truth. Otherwise, one cannot be declared as being guilty of murder without proper evidence, the rules of which have been laid down by the Shari'ah.
 
+## AI Translation
+
+We said, "Strike the dead body with part of the cow." Thus Allah brings the dead to life and shows you His signs, so you may understand.
+
+## AI Tafsir
+
+**What this ayah teaches:** But Allah brought forth that which you were Taktumun (72)So We said: "Strike him (the dead man) with a piece of it (the cow)." Thus Allah brings the dead to life and shows you His Ayat (proofs, evidences, etc.) so that you may understand . When this was done, the dead man came back to life, announced the name of his murderer, and died again.
+
+**Classical tafsir:** Ibn Kathir notes: Verse 73 says that this precedent should induce people to make use of their reason, and see that what has happened in a past instance can as easily happen in a future instance.
 ## Personal Reflections
 
 

@@ -95,6 +95,15 @@ Imam al-Baghawi said: This recognition will be possible during the
 
 early stage. Later, when the horrendous happenings of the Qiyamah, the Day of Doom, will unfold, this ability to recognize each other will stand disabled. According to some other narrations, the ability to recognize each other will, though, still remain, but such will be the awe of the situation that they will be unable to say anything. (Mazhari)
 
+## AI Translation
+
+They ask the believers, “When will this threat come to pass if what you say is true?”
+
+## AI Tafsir
+
+**What this ayah teaches:** For every Ummah, there is a term appointed; when their term comes, neither can they delay it nor can they advance it an hour (or a moment). I was told that the Hour is going to come, but He has not told me when it will occur.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

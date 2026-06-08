@@ -236,6 +236,17 @@ The Two Sahihs also recorded from Ibn 'Umar that the Messenger of Allah ﷺ burn
 
 يُخْرِ‌بُونَ بُيُوتَهُم بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ (...they were spoiling their homes with their own hands and with the hands of the believers....59:2) Banu Nadir had spoiled their houses by removing their doors and shutters. 'Spoiling their homes with the hands of the believers' means that when the Jews locked themselves up in their fortresses, the Muslims destroyed the trees and homes outside the fortresses to make them surrender.
 
+## AI Translation
+
+This is because they defied Allah and His Messenger. Whoever defies Allah should know that Allah is severe in punishment.
+
+## AI Tafsir
+
+**Context:** Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur recorded that Sa'id bin Jubayr said, "I asked Ibn 'Abbas about Surat Al-Hashr and he said, 'It was revealed about Bani An-Nadir.'" Al-Bukhari…
+
+**What this ayah teaches:** That is because they opposed Allah and His Messenger.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur recorded that Sa'id bin Jubayr said, "I asked Ibn 'Abbas about Surat Al-Hashr and he said, 'It was revealed about Bani An-Nadir.'" Al-Bukhari and Muslim recorded it using another chain of narration from Ibn 'Abbas.
 ## Personal Reflections
 
 

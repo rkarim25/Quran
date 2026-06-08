@@ -158,6 +158,15 @@ The story of Sayyidna 'Adam (علیہ السلام) and Iblis mentioned in the p
 
 Detailed comments have been given in the Tafsir of that Surah. If needed, please see Ma‘ariful-Quran, English Translation, Volume I, Pages 170-187.
 
+## AI Translation
+
+Then Satan tempted them in order to expose what was hidden of their nakedness. He said, “Your Rabb has forbidden this tree to you only to prevent you from becoming angels or immortals.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Shaytan's Deceit with Adam and Hawwa' and Their eating from the Forbidden Tree Allah states that He allowed Adam and his wife to dwell in Paradise and to eat from all of its fruits, except one tree. Thus, Shaytan envied them and plotted deceitfully, whispering and suggesting treachery.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

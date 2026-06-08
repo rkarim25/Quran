@@ -226,6 +226,19 @@ Commentary
 
 The scholars call this verse as the ` Verse of Radiance', because it describes in great detail the radiance of faith and the darkness of disbelief.
 
+## AI Translation
+
+Indeed, We have sent down to you clear revelations, along with examples of those who had gone before you, and a lesson to the Allah-fearing.
+
+## AI Tafsir
+
+**Context:** (And force not your slave-girls to prostitution...) Among the people of the Jahiliyyah, there were some who, if he had a slave-girl, he would send her out to commit Zina and would charge money for that, which he would ta…
+
+**What this ayah teaches:** But if anyone compels them, then after such compulsion, Allah is Oft-Forgiving, ar-Rahim (33)And indeed We have sent down for you Ayat that make things plain, and the example of those who passed away before you, and an admonition for those who have Taqwa .
+
+**Classical tafsir:** Ibn Kathir notes: Ibn Abi Talhah narrated that Ibn 'Abbas said, "If you do that, then Allah is Oft-Forgiving, ar-Rahim, and their sin will be on the one who forced them to do that." This was also the view of Mujahid, 'Ata' Al-Khurasani, Al-A'mash and Qatadah.
+
+**From the Sunnah:** In the Sunan, it was recorded from more than one person that the…
 ## Personal Reflections
 
 

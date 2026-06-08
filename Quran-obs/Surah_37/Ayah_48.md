@@ -136,6 +136,17 @@ Allah refined the wine of Paradise from the bad effects of the wine of this worl
 
 ` Allamah Ibn-ul-Jauzi has given yet another sense of 'those with lowered gaze' when he says that they will cause the gaze of their spouses remain lowered. In other words, they will be so beautiful and so faithful that their spouses would simply not have a wish to look at anyone else. (Tafsir Zad-ul-Masir , pages 57, 58, volume 8)
 
+## AI Translation
+
+And with them will be maidens of modest gaze and gorgeous eyes,
+
+## AI Tafsir
+
+**What this ayah teaches:** It was also said that it means with wide eyes, which is connected to the first meaning.
+
+**Classical tafsir:** Ibn Kathir notes: This is unlike the wine of this world, which causes colic and so on, because it is too watery.
+
+**From the Sunnah:** Malik narrated that Zayd bin Aslam said, "White flowing wine," meaning, with a bright, shining color, unlike the wine of this earth with its ugly, repulsive colors of red, black, yellow and turbid shades, and other features which are repugnant to anyone of a s… Paradise, He states that it is free of these characteristics, as mentioned in Surat As-Saffat. (Sahih Muslim)
 ## Personal Reflections
 
 

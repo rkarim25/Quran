@@ -158,6 +158,15 @@ Allah tells us that the return of the creatures on the Day of Resurrection is to
 
 The fourth verse describes the ` Aqidah of 'Akhirah (Belief in the Hereafter) إِلَيْهِ مَرْ‌جِعُكُمْ جَمِيعًا (Towards Him is the return of you all). The announcement is asserted by saying: وَعْدَ اللَّـهِ حَقًّا (a real [ and true ] promise from Allah). That it must be as promised has been explained through the simple logic of: إِنَّهُ يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ (Surely, He originates the creation, then He will bring it again). The sentence is telling us that there is nothing surprising about it and that there is no sense in worrying about as to how this entire universe would start pulsating with life after it has been eliminated. The reason is that the Sacred Power who has the mastery to create something the first time, without any pre-existing matter and without any prototype of form and shape, should hardly find any difficulty in creating once again everything He had made then unmade.
 
+## AI Translation
+
+To Him is your return all together. Allah’s promise is always true. Indeed, He originates the creation then resurrects it so that He may justly reward those who believe and do good. But those who reject the truth will have a boiling drink and a painful punishment for their rejection of the truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Return of Everything is to Allah Allah tells us that the return of the creatures on the Day of Resurrection is to Him.
+
+**Classical tafsir:** Ibn Kathir notes: But those who disbelieved will have a drink of boiling fluids and painful torment because they used to disbelieve .
 ## Personal Reflections
 
 

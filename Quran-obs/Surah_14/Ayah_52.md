@@ -123,6 +123,15 @@ In verses 50 and 51 towards the end, given there is the state in which the peopl
 
 Finally, in the last verse (52), it was made clear that the description of conditions to be faced by people on the day of Qiyamah was to warn them so that they would realize that there is no Being worthy of worship and obedience except the One Being of Allah T, and so that whoever from among them has some sense left in him or her would desist from Shirk while there was still the time to do so.
 
+## AI Translation
+
+This Quran is sufficient message for humanity—that they may take warning, know there is only One worthy of worship, and that people of reason may live with taqwa.
+
+## AI Tafsir
+
+**What this ayah teaches:** In verses 50 and 51 towards the end, given there is the state in which the people of Jahannam will find themselves.
+
+**Classical tafsir:** Ibn Kathir notes: This (Qur'an) is a Message for mankind (and a clear proof against them), in order that they may be warned thereby, and that they may know that He is the only One Allah and that men of understanding may take heed .
 ## Personal Reflections
 
 

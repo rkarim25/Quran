@@ -220,6 +220,19 @@ The way the spreading of the message of the verses of the Qur'an and the making 
 
 This incident too is an apt testimony to the fact that all Sahabah considered the implementation of this injunction of the Qur'an to be obligatory, and necessary. And since the noble Sahabah had demonstrated the highest care and concern in conveying Hadith to people with utmost precaution, the protection of Hadith too came, in a certain degree, fairly close to that of the Qur'an. Picking doubts in this matter really amounts to picking doubts in the Qur'an. Allah knows best.
 
+## AI Translation
+
+Always remember what is recited in your homes of Allah’s revelations and prophetic wisdom. Surely Allah is Most Subtle, All-Aware.
+
+## AI Tafsir
+
+**Context:** (Allah wishes only to remove Ar-Rijs from you, O members of the family, and to purify you with a thorough purification.) This is a clear statement that the wives of the Prophet ﷺ are included among the members of his fam…
+
+**What this ayah teaches:** Allah wishes only to remove the Ar-Rijs from you, O members of the family, and to purify you with a thorough purification (33)And remember, that which is recited in your houses of the Ayat of Allah and Al-Hikmah.
+
+**Classical tafsir:** Ibn Kathir notes: Some of the scholars, may Allah have mercy on them, said: "This was because he did not marry any other virgin besides her, and no man slept with her in her bed before him ﷺ, may Allah be pleased with her." So it was befitting that she should be singled out for this blessing and h…
+
+**From the Sunnah:** These are the good manners which Allah enjoined upon the wives of the Prophet…
 ## Personal Reflections
 
 

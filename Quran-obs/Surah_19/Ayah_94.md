@@ -100,6 +100,15 @@ After Allah affirms in this noble Surah that 'Isa was a worshipper and servant o
 
 It means that Allah Ta’ ala has full knowledge of their doings.
 
+## AI Translation
+
+He fully knows them and has counted them precisely.
+
+## AI Tafsir
+
+**What this ayah teaches:** For verily, partners are associated with Him and a son is ascribed to Him, while He is the One Who gives them good health, protects them and sustains them.) This narration is also recorded in the Two Sahihs.
+
+**Classical tafsir:** Ibn Kathir notes: Just as the idolator does not benefit by his good deeds because of associating partners with Allah, we hope that Allah would forgive the sins of those who believed in His absolute Oneness by worshipping Him alone.
 ## Personal Reflections
 
 

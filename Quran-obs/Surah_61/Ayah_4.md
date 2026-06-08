@@ -154,6 +154,19 @@ It is a known fact that the previously revealed Divine scriptures have been chan
 
 This book was originally written in Arabic, later its translations appeared in Turkish and English. Christian missionaries attempted their utmost to destroy it. Its Urdu translation was not available until recently. A little while back, Maulana Akbar ` Ali, a lecturer at Darul Uloom Karachi, translated it into Urdu, with in-depth research into current versions of the Bible by Maulana Muhammad Taqi, lecturer at Darul Uloom, and published in three volumes. Volume [ 3] from pages 182 to 362 elaborates on the prophecies pertaining to the Holy Prophet ﷺ with reference to the currently published Bibles, and rebuts their doubts and allays their suspicions.
 
+## AI Translation
+
+Surely Allah loves those who fight in His cause in solid ranks, standing together like a well-built structure.
+
+## AI Tafsir
+
+**Context:** Some said that it was revealed about the gravity of fighting in battle, when one says that he fought and endured the battle, even though he did not do so.
+
+**What this ayah teaches:** We mentioned the meaning of these two Hadiths in the beginning of the explanation of Sahih Al-Bukhari, and to Allah is the praise and the thanks.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah and Ad-Dahhak said that this Ayah was sent down to admonish some people who used to say that they killed, fought, stabbed, and did such and such during battle, even though they did not do any of it.
+
+**From the Sunnah:** We mentioned the meaning of these two Hadiths in the beginning of the explanation of Sahih Al-Bukhari, and to Allah is the praise and the thanks. (Sahih al-Bukhari) Come, I want to give you something.' Allah's Messenger ﷺ said to her, (Musnad Ahmad, Sunan Abi Dawud)
 ## Personal Reflections
 
 

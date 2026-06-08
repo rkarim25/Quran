@@ -208,6 +208,17 @@ The fifth oath is:
 
 1. It should be kept in mind that the translation of the text is not based on this construction. It is based on taking 'ma' as mousulah in the sense of 'the one' as adopted by Maulana Thanawi, and explained by the author in the following verse. word taswiyah means, to proportion, balance, perfect. The meaning of this word has been explained in the previous Surah.
 
+## AI Translation
+
+By the heaven and the One who built it—
+
+## AI Tafsir
+
+**What this ayah teaches:** This means that He clarified that for it and He guided it to what has been ordained for him. This means that he makes it dull, and he disregards it by neglecting to allow it to receive guidance.
+
+**Classical tafsir:** Ibn Kathir notes: This is as Qatadah said, "He cleanses it from the lowly and despicable characteristics." Similar to this has been reported from Mujahid, 'Ikrimah and Sa'id bin Jubayr. This means that He clarified that for it and He guided it to what has been ordained for him.
+
+**From the Sunnah:** Both Al-Bukhari and Muslim recorded this Hadith from Abu Hurayrah. (Sahih al-Bukhari, Sahih Muslim) I only asked you about that in order to inform you that a man from Muzaynah or Juhaynah tribe came to the Allah's Messenger ﷺ and asked him:
 ## Personal Reflections
 
 

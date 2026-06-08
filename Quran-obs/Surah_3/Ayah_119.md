@@ -212,6 +212,19 @@ Allah then mentions the story of Uhud, the defeat that He tested the believers w
 
 After that, in verse هَا أَنتُمْ أُولَاءِ تُحِبُّونَهُمْ ; Muslims have been told that it is certainly strange that you go about loving them as friends, yet they are no friends of yours. Indeed, they are your worst enemies. Still more unusual is the situation because you believe in all Scriptures without any reservations as to the people they address, the time when they were sent down and the prophet they were revealed to. Contrary to this, they do not accept your Book and your Prophet ﷺ . Their belief in their own Books is not correct either. Given this state of affairs it would have been expected that they should have been affectionate towards you and you should have been the ones to give them a cold shoulder. But, what is happening here is just the reverse of what it should have been.'
 
+## AI Translation
+
+Here you are! You love them but they do not love you, and you believe in all Scriptures. When they meet you they say, “We believe.” But when alone, they bite their fingertips in rage. Say, “ die of your rage!” Surely Allah knows best what is in the heart.
+
+## AI Tafsir
+
+**Context:** After that, in verse هَا أَنتُمْ أُولَاءِ تُحِبُّونَهُمْ ; Muslims have been told that it is certainly strange that you go about loving them as friends, yet they are no friends of yours.
+
+**What this ayah teaches:** Certainly, Allah knows what is in the breasts (all the secrets).
+
+**Classical tafsir:** Ibn Kathir notes: The Prohibition of Taking Advisors From Among the those who reject the truth Allah forbids His believing servants from taking the hypocrites as allies, so that the hypocrites do not have the opportunity to expose the secrets of the believers and their plans against their enemies.
+
+**From the Sunnah:** When the Muslims suffer a drought or their enemies gain the upper hand against them, by Allah's decree, just as occurred during the battle of Uhud, the hypocrites become pleased.
 ## Personal Reflections
 
 

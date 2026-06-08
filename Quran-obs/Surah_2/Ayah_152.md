@@ -123,6 +123,17 @@ This explanation is fully supported by a hadith cited by Al-Qurtubi on the autho
 
 The great Sufi Master Dhu al-Nun al-Misri has said that the man who remembers Allah in the full sense of the term forgets everything else, and that, in reward of such a total absorption, Allah Himself takes care of all his concerns, and grants him something far more valuable for everything he loses. Similarly, the blessed Companion Mu` adh ؓ has remarked that in so far as winning absolution from divine wrath is concerned, no good deed on the part of man can compare with Dhikr ذکر . And in a hadith reported by the blessed Companion Abu Hurayrah ؓ ، Allah Himself says that so long as the servant keeps remembering Him and his lips keep moving in Dhikr ذکر ، Allah is with him (for a more elaborate discussion of the subject, see Dhikrulldh ذکراللہ by the author).
 
+## AI Translation
+
+remember Me and I will remember you. Be grateful to Me and do not be ungrateful.
+
+## AI Tafsir
+
+**What this ayah teaches:** I will remember you, and be grateful to Me (for My countless favors on you) and never be ungrateful to Me . Let us add that Verse 152 means to say that if men "remember" Allah by obeying His commandments, He will "remember" them by granting His pardon and His rewards.
+
+**Classical tafsir:** Ibn Kathir notes: Let us add that Verse 152 means to say that if men "remember" Allah by obeying His commandments, He will "remember" them by granting His pardon and His rewards.
+
+**From the Sunnah:** that Allah's Messenger ﷺ said: (Musnad Ahmad) He replied that, according to the promise made in the Holy Qur'an, when a Muslim remembers Allah, He too remembers him, and thus everyone can know for himself that as soon as he turns to Allah and remembers Him, Allah too remembers him. (Sahih Muslim)
 ## Personal Reflections
 
 

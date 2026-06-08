@@ -204,6 +204,17 @@ Allah swears by the objects and phenomena mentioned in verses [ 1-7], which give
 
 وَالشَّمْسِ وَضُحَاهَا (I swear by the sun and his broad light,...91:1). The phrase and his broad light' is, though conjoined to 'by the sun' by means of the conjunctive particle 'and', the context indicates that 'broad light' is in adjectival position qualifying shams 'the sun', that is to say, 'I swear by the sun when it is in the time of forenoon. The word duha is that part of the day when the sun rises [ early in the morning ] and goes up slightly higher [ on the sky ], and its light spreads on the earth. Man observes it to be near to himself and observes it fully on account of lack of heat.
 
+## AI Translation
+
+By the sun and its morning brightness—
+
+## AI Tafsir
+
+**What this ayah teaches:** The phrase and his broad light' is, though conjoined to 'by the sun' by means of the conjunctive particle 'and', the context indicates that 'broad light' is in adjectival position qualifying shams 'the sun', that is to say, 'I swear by the sun when it is in the time of forenoon.
+
+**Classical tafsir:** Ibn Kathir notes: This is as Qatadah said, "He cleanses it from the lowly and despicable characteristics." Similar to this has been reported from Mujahid, 'Ikrimah and Sa'id bin Jubayr. The phrase and his broad light' is, though conjoined to 'by the sun' by means of the conjunctive particle 'and', the context indicates that 'broad light' is in adjectival position qualifying shams 'the sun', that is to say, 'I swear b…
+
+**From the Sunnah:** Both Al-Bukhari and Muslim recorded this Hadith from Abu Hurayrah.
 ## Personal Reflections
 
 

@@ -117,6 +117,15 @@ These verses suggest that the earth, the mountains and everything that grows the
 
 These verses refer to this very perception of these things that to associate anything or being with Allah Ta` ala, specially to assert that He has children is a sin which makes the earth and the mountains quake with fear. Sayyidna ` Abdullah Ibn ` Abbas ؓ has said that except humans every created thing is terrified of any suggestion of association with Allah (Ruh, -ul-Ma` ani).
 
+## AI Translation
+
+It does not befit the Rahman to have children.
+
+## AI Tafsir
+
+**What this ayah teaches:** These verses refer to this very perception of these things that to associate anything or being with Allah Ta` ala, specially to assert that He has children is a sin which makes the earth and the mountains quake with fear.
+
+**Classical tafsir:** Ibn Kathir notes: This explains the fact that everything in the world glorifies Allah Ta’ ala as will be evident from the verse.
 ## Personal Reflections
 
 

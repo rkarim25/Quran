@@ -120,6 +120,17 @@ For Muslims, the same exhortation to fight in Jihad appears in verses 14 and 15 
 
 In the previous verse (12), by saying: لَعَلَّهُمْ يَنتَهُونَ (so that they may stop), Muslims were told that they should not fight a people just to release their anger, rather make their correction and betterment the main purpose of their action. When they cleanse their intention from all irrelevant shades, and let it be for Allah alone, and fight for none but Allah, then, Allah Ta'ala shall cause things to unfold in a manner that automatically removes the feelings of anger and sorrow raging in their hearts.
 
+## AI Translation
+
+Fight them and Allah will punish them at your hands, put them to shame, help you overcome them, and soothe the hearts of those who have iman— removing rage from their hearts. And Allah pardons whoever He wills. For Allah is All-Knowing, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah has more right that you should fear Him if you are believers (13)Fight against them so that Allah will punish them by your hands, and disgrace them and give you victory over them, and heal the breasts of a believing people (14)And remove the anger of their (believers') hearts. If you get ready to fight them, the help and support from Allah will be with you.
+
+**Classical tafsir:** Ibn Kathir notes: Allah has more right that you should fear Him if you are believers (13)Fight against them so that Allah will punish them by your hands, and disgrace them and give you victory over them, and heal the breasts of a believing people (14)And remove the anger of their (believers') hear…
+
+**From the Sunnah:** When they knew that their caravan escaped safely, they still went ahead with their intent to fight Muslims out of arrogance, as we mentioned before.
 ## Personal Reflections
 
 

@@ -134,6 +134,19 @@ This event appears in Ruh al-Ma'ani as narrated by Ibn Ishaq while there are oth
 
 The expression وَمَن يَعْتَصِم بِاللَّـهِ ,'translated as 'And whoever holds on to Allah' means one who stays firm in, and totally committed to, his ایمان 'iman or faith, for اعتصام 'i` tisam', the act of holding on to Allah firmly, denotes that one should affirm His Being and His Attributes, be staunchly faithful to what He has ordained, and in the process, be sure not to be lured into supporting the position of any adversary whoever that may be. One who acts in this manner 'is surely guided to the straight path'. It means that such a person is on the 'straight path', and being on the 'straight path' is the key to all that is good and beneficial which the Word of Allah promises to him.
 
+## AI Translation
+
+O you who have iman! If you were to yield to a group of those who were given the Scripture, they would turn you back from belief to rejection of the truth.
+
+## AI Tafsir
+
+**Context:** They took the warning to their hearts. They knew this was a slip caused by شیطان Satan. They embraced each other, wept and repented. These verses were revealed in the background of this event.
+
+**What this ayah teaches:** If you obey a group of those who were given the Scripture (Jews and Christians), they would (indeed) render you those who reject the truth after you have believed (100)And how would you disbelieve, while unto you are recited the verses of Allah, and among you is His Messenger?
+
+**Classical tafsir:** Ibn Kathir notes: It means that such a person is on the 'straight path', and being on the 'straight path' is the key to all that is good and beneficial which the Word of Allah promises to him.
+
+**From the Sunnah:** Warning Muslims Against Imitating People of the Scriptures Why would they not believe while the revelation is sent down to them?
 ## Personal Reflections
 
 

@@ -210,6 +210,15 @@ In the third verse, this subject has been further enlarged by saying that Allah 
 
 After that, it was said: أَلَا لَهُ الْحُكْمُ (Beware, to Him alone belongs the judgement). This certainly leaves no doubt that He is the best in His decision and decree. However, one may be inclined to think how it will be possible for Allah who is One alone to take care of the reckoning of age-long deeds of billions and billions of human beings? Therefore, after that, it was said: أَسْرَ‌عُ الْحَاسِبِينَ (and He is the swiftest reckoner). It means that taking what is done by Allah on the analogy of what is done by human beings is ignorance. He shall do that in no time. (When His servants at the Mainframe factories of Cray and IBM can churn billions and billions of data in seconds, why anyone in his senses would ever doubt the power of the Maker of all makers ! -Tr.)
 
+## AI Translation
+
+He reigns supreme over all of His creation, and sends recording-angels, watching over you. When death comes to any of you, Our angels take their soul, never neglecting this duty.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then, death is not all, for the matter is still not closed.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

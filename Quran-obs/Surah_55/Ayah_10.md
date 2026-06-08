@@ -148,6 +148,15 @@ So we say, just as the believers among the Jinns said, "O Allah! None of Your fa
 
 وَالْأَرْ‌ضَ وَضَعَهَا لِلْأَنَامِ (And the earth is placed by Him for creatures...55:10). The word 'anam with fatha [=a ] on the first letter on the grammatical measure of سَحَاب sahab, refers to all the creatures that are on the surface of the earth. Baidawi translates the word as 'everything having a soul'. Evidently, the word 'anam in the verse refers to mankind and the jinn, because only these two species of Allah's creation are obligated to observe the precepts of Shari` ah. Furthermore, they are addressed throughout the Surah. For instance in the refrain verse فَبِأَيِّ آلَاءِ رَ‌بِّكُمَا تُكَذِّبَانِ (So, [ 0 mankind and Jinn,] which of the bounties of your Lord will you deny?...55:13) The dual second person attached pronouns and the dual forms of the verbs second person sustained throughout Surah Ar-Rahman are addressed to Jinn and mankind.
 
+## AI Translation
+
+He spread out the earth for all creatures.
+
+## AI Tafsir
+
+**What this ayah teaches:** Evidently, the word 'anam in the verse refers to mankind and the jinn, because only these two species of Allah's creation are obligated to observe the precepts of Shari` ah. And observe the weight with equity and do not make the balance deficient.)(10.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "An-Najm (the star); the one that is in the sky." Al-Hasan and Qatadah said similarly. Ibn Jurayj reported that Ibn 'Abbas said said Al-Akmam, means sheathed fruit stalks.
 ## Personal Reflections
 
 

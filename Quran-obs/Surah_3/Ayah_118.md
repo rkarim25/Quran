@@ -278,6 +278,15 @@ The reason why this command has been given is explained soon after. Starting fro
 
 The sentence وَدُّوا مَا عَنِتُّمْ ; (they want you to be in trouble) is a perfect mirror of the mentality of disbelievers. Here, the in-depth teaching is that no non-Muslim can ever be the real friend and well-wisher of Muslims.
 
+## AI Translation
+
+O you who have iman! Do not associate closely with others who would not miss a chance to harm you. Their only desire is to see you suffer. Their prejudice has become evident from what they say—and what their hearts hide is far worse. We have made Our revelations clear to you, if only you understood.
+
+## AI Tafsir
+
+**Context:** These verses were revealed in a particular background. There were Jewish settlements around Madinah. They had old friendly ties with the tribes of Aws and Khazraj.
+
+**What this ayah teaches:** This only emphasizes the severity of the enmity that the hypocrites feel against the believers. The Prohibition of Taking Advisors From Among the those who reject the truth Allah forbids His believing servants from taking the hypocrites as allies, so that the hypocrites do not have the opportunity to expose the secrets of the believers and their plans against their enemies.
 ## Personal Reflections
 
 

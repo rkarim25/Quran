@@ -101,6 +101,15 @@ Though Allah Ta’ ala is, in His infinite power, inherently capable of making t
 
 Some other commentators have explained it by saying that, overtaken by wonder, they will start looking at each other. (Qurtubi)
 
+## AI Translation
+
+They will be told: "This is the Day of Final Decision which you used to deny."
+
+## AI Tafsir
+
+**What this ayah teaches:** Given in the first verse (19) is the mode in which the dead will rise again.
+
+**Classical tafsir:** Ibn Kathir notes: Given in the first verse (19) is the mode in which the dead will rise again.
 ## Personal Reflections
 
 

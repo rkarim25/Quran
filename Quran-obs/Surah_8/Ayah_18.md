@@ -104,6 +104,17 @@ According to the report of that event, when the army of Qurayshi disbelievers wa
 
 "0 Allah, let victory come to the superior-most out of the two armies, and to the better-guided out of the two groups, and to the nobler out of the two parties, and to the religion and faith which is more sublime out of the two." (Mazhari)
 
+## AI Translation
+
+That is how Allah frustrates the schemes of those who reject the truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, it can be said that Muslims were blessed with this victory for yet another reason, that is, the plans of the those who reject the truth should be rendered ineffective through it, something which would make them understand that Divine support is not with them - and no plan can succeed without it.
+
+**Classical tafsir:** Ibn Kathir notes: The fifth verse (19) carries an address to the defeated those who reject the truth from the tribe of Quraysh and refers to an event which came to pass when the Quraysh army was about to depart Makkah on their mission to confront Muslims.
+
+**From the Sunnah:** While in the bunker, the Prophet ﷺ invoked Allah humbly and expressing his neediness before Allah.
 ## Personal Reflections
 
 

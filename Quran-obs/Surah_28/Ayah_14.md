@@ -106,6 +106,15 @@ Commentary
 
 فَوَكَزَهُ مُوسَىٰ (So Musa struck him with his fist). Wakaza (وَكَزَ ) means to box فَقَضَىٰ عَلَيْهِ (28:15). The phrase of Qadahu (قَضَاہ) and Qada 'Alaihi (فَقَضَىٰ عَلَيْهِ ) is used when one is totally finished. Hence, here it means that he killed him. (Mazhari)
 
+## AI Translation
+
+And when he reached full strength and maturity, We gave him wisdom and knowledge. This is how We reward the good-doers.
+
+## AI Tafsir
+
+**What this ayah teaches:** And when he reached maturity, and was complete, We bestowed on him Hukm and knowledge. How Musa killed a Coptic Man Having described Musa's beginnings, Allah then tells us that when he reached maturity, and was complete in stature, Allah gave him Hukm and religious knowledge.
+
+**Classical tafsir:** Ibn Kathir notes: Most commentators have interpreted that the word 'city' is used here for the main city of Egypt.
 ## Personal Reflections
 
 

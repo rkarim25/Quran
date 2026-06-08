@@ -157,6 +157,15 @@ So, proclaim Allah's purity when you see the evening and when you see the mornin
 
 That whoever will recite them in the morning, all shortcomings in his acts during the day will be repaired; and whoever will recite these verses in the evening all shortcomings in his actions during the night will be repaired. (Ruh).
 
+## AI Translation
+
+He brings the living from the dead and the dead from the living. He gives life to earth after its death — and so you will be brought forth from the grave.
+
+## AI Tafsir
+
+**What this ayah teaches:** He brings out the living from the dead and brings out the dead from the living, and gives life to the land after it is dead.
+
+**Classical tafsir:** Ibn Kathir notes: These Ayat which come one after the other are all of the same; in each of them Allah mentions the creation of things and their opposites, to indicate to His creation the perfection of His power.
 ## Personal Reflections
 
 

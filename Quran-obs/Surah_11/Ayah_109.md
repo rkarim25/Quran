@@ -159,6 +159,17 @@ verse of the Qur'an: تِسْعَةُ رَ‌هْطٍ يُفْسِدُونَ ف�
 
 During the Khilafah of Sayyidna ` Umar ibn ` Abd al-` Aziz (رح) ، someone was arrested while he was cutting a dirham coin. He was awarded a punishment of lashes and was paraded around head shaved. (Tafsir al Qurtubi)
 
+## AI Translation
+
+So do not be in doubt O Prophet about what those pagans worship. They worship nothing except what their forefathers worshipped before them. And We will certainly give them their share of punishment in full, without any reduction.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, Allah will give them due recompense for that and He will punish them with a punishment the likes of which none can give besides Him. So be not in doubt as to what these people (pagans and polytheists) worship.
+
+**Classical tafsir:** Ibn Kathir notes: Surely, He is All-Aware of what they do.) This means that He is All-Knower of all of their deeds.
+
+**From the Sunnah:** There is a consensus of the entire Muslim Ummah that doing so is strictly Haram (unlawful). (Sahih Muslim)
 ## Personal Reflections
 
 

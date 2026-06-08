@@ -220,6 +220,17 @@ Allah is the creator of the language
 
 (3) One should note a subtle suggestion here in the use of two words. In asking the angels for the names of things, Allah said, أَنبِئُونِي "Tell Me"; but in commanding Adam (علیہ السلام) to do so, He said, أَنبِئْهُم : "Tell them." The difference in the mode of expression shows that Adam (علیہ السلام) was given the rank of a teacher, and the angels that of pupils. It is thus an indication of his superiority over them. Another thing the episode indicates is that an increase or decrease is possible in the degree of knowledge the angels possess, for they were given, through Adam (علیہ السلام) ، at least a primary knowledge about a thing which they did not know before.
 
+## AI Translation
+
+He said, "O Adam, inform them of their names." When Adam did, Allah said, "Did I not tell you that I know the unseen of the heavens and earth, and what you reveal and what you conceal?"
+
+## AI Tafsir
+
+**What this ayah teaches:** Inform them of their names," and when he had informed them of their names, He said: "Did I not tell you that I know the Ghayb (unseen) in the heavens and the earth, and I know what you reveal and what you have been concealing? Adam over the Angels Allah stated the virtue of Adam above the angels, because He taught Adam, rather than them, the names of everything.
+
+**Classical tafsir:** Ibn Kathir notes: Adam over the Angels Allah stated the virtue of Adam above the angels, because He taught Adam, rather than them, the names of everything.
+
+**From the Sunnah:** intercede for us with your Lord, so that he relieve us from this gathering place?' On that Adam will reply, 'I cannot do what you have asked'. (Sahih Muslim, Sunan Ibn Majah)
 ## Personal Reflections
 
 

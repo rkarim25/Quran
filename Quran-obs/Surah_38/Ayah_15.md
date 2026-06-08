@@ -90,6 +90,15 @@ It was also said that they asked for their share of Paradise to be hastened, if 
 
 The word: فَوَاقُ (fawaq) in verse 15: مَّا لَهَا مِن فَوَاقٍ (that will have no pause.) is used in Arabic to convey several meanings. To begin with, 'fawaq' is the period of time that intervenes between milking an animal and creation of milk in its teats once again. Then, it also means 'comfort.' Whatever the case, the sense is that the Horn صُور (Sur) blown by Sayyidna Israfil (علیہ السلام) would be so continuous that there will be no pause in it. (Qurtubi)
 
+## AI Translation
+
+These pagans await nothing but a single Blast that cannot be stopped or postponed.
+
+## AI Tafsir
+
+**What this ayah teaches:** It was also said that they asked for their share of Paradise to be hastened, if it really existed, so that they might have their share in this world; they said this because they thought it unlikely to exist and they disbelieved in it.
+
+**Classical tafsir:** Ibn Kathir notes: Qitt refers to a book or record, or it was said that it means one's allotted share or fortune.
 ## Personal Reflections
 
 

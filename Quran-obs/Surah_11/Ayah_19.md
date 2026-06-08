@@ -146,6 +146,17 @@ The Sahih of Muslim reports on the authority of Sayyidna Abu Hurairah ؓ that th
 
 This should remove the misunderstanding of those who regard the Jews and Christians or the adherents of other religions as being on haqq (the truth) on the basis of some outward deeds and consider these to be sufficient for salvation without having faith in the Holy Prophet ﷺ and the Qur'an. This is an open clash with the present ayah of the Holy Qur'an, and the authentic ahadith. اَلعَیَاذ بِاللہ (Allah may save us from that! )
 
+## AI Translation
+
+who hinder others from Allah’s Path, striving to make it appear crooked, and reject the truth in the Akhirah.
+
+## AI Tafsir
+
+**What this ayah teaches:** The curse of Allah is on the wrongdoers (18)Those who hinder (others) from the path of Allah, and seek a crookedness therein, while they are those who reject the truth in the Hereafter (19)By no means will they escape on earth, nor have they protectors besides Allah!
+
+**Classical tafsir:** Ibn Kathir notes: Those Who invent Lies against Allah and hinder Others from His Path are the Greatest Losers Allah, the Exalted, explains the condition of those who lie against Him and that their scandal in the Hereafter will be presented before the heads of creation (for testimony) from the ange…
+
+**From the Sunnah:** This is just as Imam Ahmad recorded from Safwan bin Muhriz. (Musnad Ahmad)
 ## Personal Reflections
 
 

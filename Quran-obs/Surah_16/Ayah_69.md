@@ -217,6 +217,17 @@ It has been reported about some Muslim mystics (Sufiya' ) that they did not like
 
 But, occurrences of this nature do not go to prove that these blessed souls took medical treatment to be reprehensible (makruh). May be, at that time, it was not upto their personal taste and inclination. There-fore, it was because of their inability to accept it temperamentally that they did not favour to go by it. This is a transitory phase of psyche when one comes under the overwhelming logic and effect of the state one is in, and which cannot be used as an argument to prove that medical treatment is either impermissible or reprehensible. The very request made to Sayyidna Ibn Masud ؓ by Sayyidna ` Uthman ؓ that he be allowed to bring a physician for him is, in itself, a proof of the fact that treatment is permissible - rather, there are situations when doing so becomes mandatory as well.
 
+## AI Translation
+
+and feed from the flower of any fruit you please and follow the ways your Rabb has made easy for you.” From their bellies comes forth liquid of varying colours, in which there is healing for people. Surely in this is a sign for those who reflect.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then Allah decrees that the bee will have permission to eat from all fruits and to follow the ways which Allah has made easy for it, wherever it wants to go in the vast spaces of the wilderness, valleys and high mountains. Allah Ta’ ala has made for it flying routes in the air because in going by the circuitous pathways on land, there is the likelihood of going astray.
+
+**Classical tafsir:** Ibn Kathir notes: Allah Ta’ ala has made for it flying routes in the air because in going by the circuitous pathways on land, there is the likelihood of going astray.
+
+**From the Sunnah:** in their Sahihs from Qatadah from Abu Al-Mutawakkil 'Ali bin Dawud An-Naji from Abu Sa'id Al-Khudri that a man came to the Messenger of Allah ﷺ and said, "My brother is suffering from diarrhea".
 ## Personal Reflections
 
 

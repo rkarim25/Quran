@@ -156,6 +156,17 @@ So we say, just as the believers among the Jinns said, "O Allah! None of Your fa
 
 وَالرَّ‌يْحَانُ (...and fragrant flowers....55:12). The popular meaning of the word رَّ‌يْحَانُ raihan is fragrance or fragrant plant or sweet-scented plants. Ibn Zaid has interpreted the word thus in the current verse. Allah has produced a variety of fragrances and sweet-smelling flowers on plants and trees. Sometimes the word raihan is used in the sense of livelihood and sustenance. It is said in Arabic: خَرَجتُ اَطلُبَ رَیحَانَ اللہِ (I came out looking for sustenance provided by Allah.) Sayyidna Ibn ` Abbas ؓ interprets it in this strain.
 
+## AI Translation
+
+grain in husks, and fragrant plants.
+
+## AI Tafsir
+
+**What this ayah teaches:** The mention of ` asf [ husk ] is to remind that it is the fodder for your animals.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "An-Najm (the star); the one that is in the sky." Al-Hasan and Qatadah said similarly. Ibn Jurayj reported that Ibn 'Abbas said said Al-Akmam, means sheathed fruit stalks.
+
+**From the Sunnah:** a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! (Musnad Ahmad) it and he said, "This Hadith is Gharib." Al-Hafiz Abu Bakr Al-Bazzar also collected this Hadith. (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

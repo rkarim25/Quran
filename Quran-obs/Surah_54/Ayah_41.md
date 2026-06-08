@@ -100,6 +100,19 @@ All these five nations were the strongest and resourceful. It was not possible f
 
 The forthcoming verses address the people of the time of the Prophet Muhammad ﷺ that they are not more powerful in terms of wealth, number and might than the people of Prophet Lut (علیہ السلام) the tribes of ` Ad and Thamud, Prophet Lut’ s علیہ السلام people and the people of Fir'aun. Then how are they sitting in a careless manner?
 
+## AI Translation
+
+Warnings also came to the people of Pharaoh.
+
+## AI Tafsir
+
+**Context:** Al-Bukhari also recorded that Yusuf bin Mahak said, "I was with the Mother of the faithful, 'A'ishah, when she said, 'When I was still a young playful girl in Makkah, this Ayah was revealed to Muhammad ﷺ, رَ‌اوَدُوهُ عَن…
+
+**What this ayah teaches:** First it has appeared in verse 24 in connection with the people of Thamud where it is their own word, and means 'madness or insanity'.
+
+**Classical tafsir:** Ibn Kathir notes: The word murawadah signifies to entice someone to satisfy one's lust.
+
+**From the Sunnah:** Abu Bakr caught him by the hand and said, 'This is sufficient, O Allah's Messenger! This is the abridged narration that Al-Bukhari collected, but he also collected a longer narration of it in the Book of the Virtues of the Qur'an. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

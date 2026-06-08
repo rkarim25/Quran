@@ -172,6 +172,17 @@ Surah Ash-Shu` ara'
 
 Ends here.
 
+## AI Translation
+
+Ta-Sin. These are the ayahs of the Quran — a clear Book.
+
+## AI Tafsir
+
+**Context:** The word شَاعِر (Sha` ir) is used in this verse in its technical and commonly known meaning, that is the rhythmic composer.
+
+**What this ayah teaches:** These are the Ayat of the Qur'an, and (it is) a Book (that is) clear.)(2.
+
+**Classical tafsir:** Ibn Kathir notes: Their objective was to call him a liar, because the word Sha` ir is also used in the sense of lie, and Shi` r for a liar.
 ## Personal Reflections
 
 

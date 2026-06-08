@@ -114,6 +114,15 @@ Yes, al-Khidr did break the boat while sailing at sea But,
 
 a hundred saving graces in his breaking we see
 
+## AI Translation
+
+“As for the ship, it belonged to some poor people, working at sea. So I intended to damage it, for there was a tyrant king ahead of them who seizes every good ship by force.
+
+## AI Tafsir
+
+**What this ayah teaches:** Interpretations of why the Ship was damaged This is an explanation of what Musa found so hard to understand, and the appearence of which he condemed.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

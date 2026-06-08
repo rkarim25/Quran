@@ -148,6 +148,15 @@ It means that man is tested both by good things and by bad things. شَر (bad) 
 
 "We were tested by discomforts and We bore it with patience, but when we were tested by pleasures, we could not observe patience (i.e. we could not offer gratitude to Allah as was due) ". (Ruh ul-Ma'ani)
 
+## AI Translation
+
+When those who reject the truth see you O Prophet, they only make fun of you, saying, “Is this the one who speaks ill of your gods?” while they reject the truth at the mention of the the Rahman.
+
+## AI Tafsir
+
+**What this ayah teaches:** And when those who disbelieved see you, they take you not except for mockery (saying): "Is this the one who talks about your gods?" While they disbelieve at the mention of the ar-Rahman (36)Man is created of haste.
+
+**Classical tafsir:** Ibn Kathir notes: Here the word soul refers to the living things of the earth, who must all face death, but does not include the angels.
 ## Personal Reflections
 
 

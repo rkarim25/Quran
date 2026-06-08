@@ -111,6 +111,15 @@ Here Allah commands His Messenger ﷺ to patiently bear the rejection of those w
 
 In verse 77, it was said: فَاصْبِرْ‌ إِنَّ وَعْدَ اللَّـهِ حَقٌّ فَإِمَّا نُرِ‌يَنَّكَ (Therefore, be patient. Surely, the promise of Allah is true. Then, whether We show you [ in your life ] a part of the promise We are making to them, or make you die [ before they are punished ], in any case they have to be returned to Us). From this verse it appears that the Holy Prophet ﷺ was hopefully waiting for the disbelievers to be punished. Therefore, it was to comfort him that he was asked to be somewhat patient about it. The promise of Allah for them, that they will be punished, will certainly be fulfilled - may be during his lifetime, or after he has departed from the mortal world. Waiting for the disbelievers to be punished apparently seems contrary to the dignity of one who was sent with universal mercy. But, here the matter is different. When the purpose of punishing criminals is to bring comfort to innocent believers who were oppressed, then, the punishment of criminals is not contrary to compassion and mercy. Nobody regards the punishment given to a criminal against the dictate of mercy.
 
+## AI Translation
+
+So be patient, O Prophet. Surely Allah's promise is true. Whether We show you some of what We threaten them with, or cause you to die before that, to Us they will all be returned.
+
+## AI Tafsir
+
+**What this ayah teaches:** So be patient, verily, the promise of Allah is true and whether We show you some part of what We have promised them, or We cause you to die, then still it is to Us they all shall be returned (77)And, indeed We have sent Messengers before you, of some of them We have related to you their story.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, it was to comfort him that he was asked to be somewhat patient about it.
 ## Personal Reflections
 
 

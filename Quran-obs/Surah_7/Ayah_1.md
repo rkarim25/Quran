@@ -74,6 +74,15 @@ Commentary
 
 An overview of the Surah shows that most of the subjects it deals with are related to Ma` ad (Return to the Hereafter) and Risalah (Prophethood). The former appear from the beginning of the Surah upto approximately the end of the sixth section. Then, from the eighth to the twenty first sections, there is a detailed description of past prophets, events about their communities, their reward and punishment and the punishment which overtook them.
 
+## AI Translation
+
+These opening letters—known as the muqatta'at—are among the signs whose full meaning Allah kept with Himself. They open the surah by reminding the reader that this Book is from beyond human authorship: approach it with humility, not arrogance.
+
+## AI Tafsir
+
+**What this ayah teaches:** Little do you remember!) We mentioned before the explanation of the letters [such as, Alif-Lam, that are in the beginning of some Surahs in the Qur'an].
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

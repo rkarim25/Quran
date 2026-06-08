@@ -166,6 +166,19 @@ Seventh attribute
 
 A careful study of the above seven attributes would show that they encompass all the duties which man owes to Allah and to fellow men, and all the laws governing those duties. A person who possesses these attributes and adheres to them is a complete mu'min (believer) and deserving of falah in this world and in the Hereafter. It will also be noted that these seven attributes begin and also end with a reference to prayers which suggests that if prayers are offered in the prescribed manner with all their requirements, the other attributes will appear automatically.
 
+## AI Translation
+
+and those who are properly observant of their prayers.
+
+## AI Tafsir
+
+**Context:** (And those who pay the Zakah.) Most commentators say that the meaning here is the Zakah that is paid on wealth, even though this Ayah was revealed in Makkah, and Zakah was ordained in Al-Madinah in the year 2 H.
+
+**What this ayah teaches:** Those who are faithfully true to their Amanat and to their covenants are Ra'un.)(9.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Their Khushu' was in their hearts." So they lowered their gaze and were humble towards others.
+
+**From the Sunnah:** At that point it becomes a delight and a joy for eyes, as in the Hadith recorded by Imam Ahmad and An-Nasa'i from Anas, who said that the Messenger of Allah ﷺ said: (Musnad Ahmad, Sunan an-Nasa'i) This is not like the hypocrites about whom the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

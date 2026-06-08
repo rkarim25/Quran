@@ -232,6 +232,15 @@ Verse 248: The story of Talut and Jalut
 
 The Bani Isra'il used to have the legacy of a wooden chest (also identified as the Ark of the Covenant). Moses and other prophets of Bani Isra'il would keep this chest in the frontline of the battlefield. Its barakah بَرَکَہ (blessing, benediction) used to give them victory. When )Jalut: Goliath) overcame Bani Isra'il, he took this chest away with him. When Allah Almighty willed the return of the chest, it so happened that the infidels were struck by some epidemic or calamity at places where they carried this chest. Five cities were turned desolate. Nonplussed, they loaded it on two bullocks and drove them off. Then, the angels took control of the bullocks and made it reach Talut's doorsteps. (Talut is the Qur'anic name of the king known in the Bible as Saul) When the Bani Isra'il saw this sign, they believed in the kingdom of Talut, who then mounted an attack on Jalut while the weather was very hot.
 
+## AI Translation
+
+Their prophet said, "Allah has appointed Saul as your king." They said, "How can he be king when we are more deserving and he has not been given vast wealth?" He said, "Allah chose him over you and increased him in knowledge and stature. Allah grants authority to whomever He wills. Allah is all-bountiful, all-knowing."
+
+## AI Tafsir
+
+**What this ayah teaches:** In short, he has more knowledge and is stronger than you are.
+
+**Classical tafsir:** Ibn Kathir notes: This is because Allah has perfect knowledge, wisdom and kindness with His creation.
 ## Personal Reflections
 
 

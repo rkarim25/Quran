@@ -160,6 +160,17 @@ As for the present verse, it obviously seems to have no condition, almost to the
 
 Similarly, if we were to say the words of dua' negligently, heedlessly, without paying any attention, the Hadith says something about that too - that such a dua' is also not accepted. (Tirmidhi from Sayyidna Abu Hurairah ؓ .
 
+## AI Translation
+
+Your Lord has proclaimed: "Call upon Me, I will respond to you. Surely those too proud to worship Me will enter Hell, fully humbled."
+
+## AI Tafsir
+
+**What this ayah teaches:** In this verse under study, those who abandon dua' in the sense of ` ibadah the warning of Jahannam given to them is in the eventuality of being too proud, that is, a person who, in his pride, considers himself in no need of making a dua' and actually abandons it, then, this is a sign of kufr (open infidelity), therefore, the warning of Jahannam became due against him.
+
+**Classical tafsir:** Ibn Kathir notes: Literally, du'a means to call, and it is frequently used to call for something needed.
+
+**From the Sunnah:** This was also recorded by the Sunan compilers; At-Tirmdhi, An-Nasa'i, Ibn Majah, and Ibn Abi Hatim and Ibn Jarir. (Jami' at-Tirmidhi, Sunan Abi Dawud) from 'Amr bin Shu'ayb from his father, from his grandfather that the Prophet ﷺ said: (Musnad Ahmad)
 ## Personal Reflections
 
 

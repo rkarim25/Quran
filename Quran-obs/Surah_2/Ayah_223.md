@@ -292,6 +292,19 @@ The verse 223 points out to the lawful ways of having sexual intercourse with on
 
 Subject to these two conditions (namely, the purity of the woman from her menses, and avoiding the carnal intercourse) one can enjoy whatever way he wishes to have sexual intimacy with his wife. In this context, it has been said, "Come to your soil from where you will". It indicates that in so far as the ultimate place (of penetration) is a 'soil' (which stands for the female vagina which is productive like a soil), one can elect whatever way he likes to reach this ultimate place. Thus, lying over the woman or beside her or beneath her, acceding to the vagina from any side, front or back, sitting or kneeling -- all these and similar other positions are allowed while performing sexual intercourse subject to the two conditions mentioned above.
 
+## AI Translation
+
+Your wives are farmland for you — approach them consensually as you please, and send ahead good deeds for yourselves. Live with taqwa and know you will meet Him. Give good news to the believers.
+
+## AI Tafsir
+
+**Context:** For instance, Al-Bukhari recorded that Ibn Al-Munkadir said that he heard Jabir say that the Jews used to claim that if one has sex with his wife from behind (in the vagina) the offspring would become cross-eyed.
+
+**What this ayah teaches:** It indicates that in so far as the ultimate place (of penetration) is a 'soil' (which stands for the female vagina which is productive like a soil), one can elect whatever way he likes to reach this ultimate place.
+
+**Classical tafsir:** Ibn Kathir notes: It indicates that in so far as the ultimate place (of penetration) is a 'soil' (which stands for the female vagina which is productive like a soil), one can elect whatever way he likes to reach this ultimate place.
+
+**From the Sunnah:** the Jews used to avoid their menstruating women, they would not eat, or even mingle with them in the house.
 ## Personal Reflections
 
 

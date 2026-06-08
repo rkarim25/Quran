@@ -228,6 +228,17 @@ It is evident that even the polytheists did not believe that the idols of their 
 
 In short, taking any created being as equal to Allah in His particular attributes - such as, the Creator, the Provider, the Absolute Master, the Knower of the Seen and the Unseen - is Shirk
 
+## AI Translation
+
+Instead of Allah, they only invoke female gods and they invoke none but a rebellious Satan— cursed by Allah—who said, “I will surely take hold of a certain number of Your servants.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, Allah forgives not (the sin of) setting up partners (in worship) with Him, but He forgives whom He wills, sins other than that, and whoever sets up partners in worship with Allah, has indeed strayed far away (116)They invoke nothing but female deities besides Him (Allah), and they invoke nothing but Shaytan, a persistent rebel (117)Allah cursed him.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, his line of action is accompanied by his firm intention that he will always be like that.
+
+**From the Sunnah:** In his Sahih, Muslim recorded the prohibition of tattooing the face, which in one of its wordings states: "May Allah curse whoever does this." It is also recorded in the Sahih that Ibn Mas'ud said, "May Allah curse those who have tattoos and those who do it, w… (Sahih Muslim) The Messenger of Allah ﷺ used to proclaim in his speech,
 ## Personal Reflections
 
 

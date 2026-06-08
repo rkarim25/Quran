@@ -132,6 +132,15 @@ Commentary
 
 The word ھُدٰی - (guidance) implied in the first sentence of verse 128 can refer either to the Qur'an or to the Holy Prophet ﷺ and the meaning would be, "Did not the Qur'an or the Holy Prophet ﷺ direct them i.e. the people of Makkah and tell them about the nations and the societies who were destroyed because they disobeyed the commands of Allah and turned away from the message brought to them by the Holy Prophet ﷺ ، and whose houses and lands are now occupied by them?" It is also possible that the word ھُدٰی (guidance) may refer to God in which case the meaning would be "Did God not direct."
 
+## AI Translation
+
+Had it not been for a prior decree from your Rabb O Prophet and a term already set, their instant doom would have been inevitable.
+
+## AI Tafsir
+
+**What this ayah teaches:** And had it not been for a Word that went forth before from your Lord, and a term determined, (their punishment) must necessarily have come (in this world)(128)So bear patiently what they say, and glorify the praises of your Lord before the rising of the sun, and before its setting, and during some hours of the night, and at the ends of the day, that you may become pleased with the reward which All…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -130,6 +130,15 @@ Since the affirmation of the prophethood of the noble Messenger of Allah is also
 
 It is being said here that these verses in which this event has been mentioned 'are the verses of Allah that We recite to you with all veracity' and this proves that you are certainly among the Messengers.'
 
+## AI Translation
+
+These are Allah's signs — We recite them to you in truth, and you are indeed among the messengers.
+
+## AI Tafsir
+
+**What this ayah teaches:** But Allah is full of bounty to the 'Alamin (mankind, Jinn and all that exists)(251)These are the verses of Allah, We recite them to you (O Muhammad ﷺ) in truth, and surely, you are one of the Messengers (of Allah).
+
+**Classical tafsir:** Ibn Kathir notes: Verse 252 here (and verse 253 which follows) demonstrate this proof.
 ## Personal Reflections
 
 

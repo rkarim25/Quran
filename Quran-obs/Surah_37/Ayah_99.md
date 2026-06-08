@@ -187,6 +187,17 @@ Explanatory Notes on the verses
 
 The first verse (99) opens with the words:... وَقَالَ إِنِّي ذَاهِبٌ إِلَىٰ رَ‌بِّي سَيَهْدِينِ (And he said, "I am going to my Lord...). Sayyidna Ibrahim (علیہ السلام) said this at a time when he was totally disappointed by his countrymen, for nobody except Sayyidna Lut (علیہ السلام) ، his nephew, was willing to believe in him. The statement: دار الکفر (I am going to my Lord) means that he will leave the abode of disbelief and go to a place whereto Allah Ta’ ala has commanded him to go, a place where he will be able to worship his Lord in peace. So, he started on a journey accompanied by his blessed wife, Sayyidah Sarah ؓ and his nephew, Sayyidna Lut (علیہ السلام) . After having passed through different areas of Iraq, he finally reached Syria. Sayyidna Ibrahim (علیہ السلام) had no children until then, therefore, he made the prayer mentioned in the next verse (100).
 
+## AI Translation
+
+He later said: "I am leaving in obedience to my Lord. He will guide me.
+
+## AI Tafsir
+
+**What this ayah teaches:** They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs. They were jealous of them, so they added this idea and changed the meaning of the phrase "only son" to mean 'the only son who is with you,' because Isma'il had been taken with his mother to Makkah.
+
+**Classical tafsir:** Ibn Kathir notes: They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs.
+
+**From the Sunnah:** The Muslims and the People of the Book agree, and indeed it is stated in their Book, that Isma'il, peace be upon him, was born when Ibrahim, peace be upon him, was eighty-six years old, and Ishaq was born when Ibrahim was ninety-nine years old.
 ## Personal Reflections
 
 

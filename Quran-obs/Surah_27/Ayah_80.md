@@ -112,6 +112,17 @@ Commentary
 
 It was the demand of love and affection the Holy Prophet ﷺ had for all human beings that he should save them all from the fire of jahannam by making them accept the message of Allah. It used to hurt him a lot if someone did not accept it. He used to feel as if someone's children were proceeding toward the fire by not heeding to the advice of his parents. Therefore, Qur'an has adopted different expressions to console him at many places. One such advice was contained in the sentence وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُن فِي ضَيْقٍ مِّمَّا يَمْكُرُ‌ونَ (And do not grieve for them, and do not be straitened because of what they plan - 27:70) which has appeared in the earlier verse. In the above verse he has been consoled in a slightly different manner, that his job was only to convey the message of truth, which he had done admirably. If someone had not accepted this, it was not his fault or deficiency. So, he need not worry and be despondent. Rather it is their own fault that they have lost their sense of direction. Qur'an has described the loss of their sense of direction by presenting three examples. First, that they were like dead bodies in the matter of acceptance of truth, and thus cannot take any one's advice to their advantage. Second, that they were like the deaf man who does not wish to hear anything, rather they turn their back and go away if someone tries to give them any advice. Third, that they were like the blind that cannot see even if someone tries to show them the path. After providing these three examples it is said:
 
+## AI Translation
+
+You certainly cannot make the dead hear the truth. Nor can you make the deaf hear the call when they turn their backs and walk away.
+
+## AI Tafsir
+
+**What this ayah teaches:** And He is the All-Mighty, the All-Knowing (78)So, put your trust in Allah; surely, you are on manifest truth (79)Verily, you cannot make the dead to hear nor can you make the deaf to hear the call, when they flee, turning their backs (80)Nor can you lead the blind out of their error.
+
+**Classical tafsir:** Ibn Kathir notes: The Word of your Lord has been justified against them, so that they will not believe even if all the signs are brought to them.
+
+**From the Sunnah:** You can only make to hear those who believe in Our Ayat, so they submit (became Muslims).
 ## Personal Reflections
 
 

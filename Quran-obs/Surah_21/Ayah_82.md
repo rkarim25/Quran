@@ -194,6 +194,17 @@ These are ethereal beings made of fire, who possess intelligence and understandi
 
 It will be observed that while in the case of Sayyidna Dawad (علیہ السلام) Allah Ta` ala had made subservient to him things which are extremely hard and dense, like iron and mountains, Sulayman (علیہ السلام) was given mastery over things which are ethereal and cannot even be perceived e.g. wind and Jinn. This shows that He is omnipotent and that His authority extends over all created things. (Commentary by Ra'zi)
 
+## AI Translation
+
+And We subjected some jinn that dived for him, and performed other duties. It is We Who kept them in check.
+
+## AI Tafsir
+
+**What this ayah teaches:** Those beings who fulfill these conditions are described by the word Jinn, while those among them who disobey the rules of Shari'ah and persist in their unbelief are called satans. And of everything We are the All-Knower (81)And of the Shayatin were some who dived for him, and did other work besides that; and it was We Who guarded them .
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said that before that, they used to wear plated armor; he was the first one to make rings of chain-armor.
+
+**From the Sunnah:** Ibn Abi Hatim recorded that when Iyas bin Mu'awiyah was appointed as a judge, Al-Hasan came to him and found Iyas weeping. With regard to others, it is recorded in Sahih Al-Bukhari from 'Amir bin Al-'As that the Messenger of Allah ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
 
 

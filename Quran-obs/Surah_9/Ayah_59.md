@@ -180,6 +180,17 @@ In verse 54, two signs of hypocrites have been given: (1) they come to the Sa ل
 
 Muslims have been warned here that sloth in Salah and being sour at heart while spending in the way of Allah, that is, Zakah and Sadaqah, are signs of nifaq (hypocrisy). All Muslims should make conscious effort to stay safe from these signs.
 
+## AI Translation
+
+If only they had been content with what Allah and His Messenger had given them and said, “Allah is sufficient for us! Allah will grant us out of His bounty, and so will His Messenger. To Allah we turn with hope.”
+
+## AI Tafsir
+
+**What this ayah teaches:** If, at this place, Sadaqat are taken in their general sense - which includes all Sadaqat, necessary (wajib) and voluntary (nafl) - then, there is no problem, because non-Muslims can be given out of the voluntary Sadaqat.
+
+**Classical tafsir:** Ibn Kathir notes: If, at this place, Sadaqat are taken in their general sense - which includes all Sadaqat, necessary (wajib) and voluntary (nafl) - then, there is no problem, because non-Muslims can be given out of the voluntary Sadaqat.
+
+**From the Sunnah:** If they rise (against Muslims rulers) then kill them, if they rise, kill them, then if they rise kill them.) If, at this place, Sadaqat are taken in their general sense - which includes all Sadaqat, necessary (wajib) and voluntary (nafl) - then, there is no problem, because non-Muslims can be given out of the voluntary Sadaqat. (Sahih Muslim)
 ## Personal Reflections
 
 

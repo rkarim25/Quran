@@ -207,6 +207,17 @@ For the Trumpet shall be blown and whosoever is in the heavens and whosoever is 
 
 This verse tells us that when the Horn will be blown, all those in the heavens and the earth will get unconscious, and then die. Here also an exception is made, which according to one hadith is meant for six angels, namely Jibra'il, Mik` ail, Israfil, Malakul-Maut and Hamalatul- 'Arsh, who will not die by the blow of Sur. Later, they will also die, as explained in the hadith. Those who have held that Faza' and Sa'aqa both relate to the same blowing, they have taken the exception, here as well, for the special angels, like Surah Az-Zumar. But those who have held that Faza' and Sa'aqa relate to two different blowings, they interpret the exception in the present verse as referring to the martyrs, as explained above.
 
+## AI Translation
+
+And beware of the Day the Trumpet will be blown, and all those in the heavens and all those on the earth will be horrified to the point of death, except those Allah wills to spare. And all will come before Him, fully humbled.
+
+## AI Tafsir
+
+**What this ayah teaches:** And (remember) the Day on which the Trumpet (Şūr) will be blown – and all who are in the heavens and all who are on the earth, will be terrified except him whom Allah wills. This verse tells us that when the Horn will be blown, all those in the heavens and the earth will get unconscious, and then die.
+
+**Classical tafsir:** Ibn Kathir notes: Quashiri has observed that prophets are the very first included among them, because they have the status of martyrs also, and their position as prophet is still higher.
+
+**From the Sunnah:** after a little while, you will see a major event which will destroy the House [the Ka'bah], and such and such will happen." Then he said, "The Messenger of Allah ﷺ said: (Sahih Muslim)
 ## Personal Reflections
 
 

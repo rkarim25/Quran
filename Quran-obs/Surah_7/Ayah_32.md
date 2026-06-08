@@ -169,6 +169,15 @@ Some other commentators have determined its meaning by saying that all blessings
 
 At the end of the verse, it was said: كَذَٰلِكَ نُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَعْلَمُونَ (This is how We elaborate the verses for people who understand). This verse carries a refutation of the excessive deeds and ignorant views of people who suggested that Allah Ta` ala is pleased with the practice of abandoning good dress and good food.
 
+## AI Translation
+
+Ask, “Who has forbidden the adornments and lawful provisions Allah has brought forth for His servants?” Say, “They are for the enjoyment of those who have iman in this worldly life, but they will be exclusively theirs on the Day of Judgment. This is how We make Our revelations clear for people of knowledge.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Contrary is the case of those who reject the truth and sinners who, though they too receive these blessing in their mortal life, rather receive more of it, but these blessings of theirs are going to become their nemesis in the Hereafter bringing punishment which will last forever.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, those who consider good dress and good food made lawful by Allah as something Haram for themselves deserve the wrath and punishment from Allah.
 ## Personal Reflections
 
 

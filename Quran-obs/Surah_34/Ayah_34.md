@@ -210,6 +210,17 @@ It appears in Hadith that, during the period of Jahiliyah, two persons ran a bus
 
 In this verse, the word: مُترَف (mutraf, translated above as 'those who lived a luxurious life) has been derived from: تَرَف (taraf) which carries the sense of a life abounding in material assets, ease and comfort. Hence, مُترَفِین (mutrafin) denotes rich people of a community (who are arrogant and careless about what is right or wrong) .The Holy Qur'an is saying in the verse cited above that whenever Allah has sent a messenger, these people intoxicated with their riches and pampered by a life of luxury have always confronted him with a flat denial of his mission.
 
+## AI Translation
+
+Whenever We sent a warner to a community, its elite would say, "We reject what you have been sent with."
+
+## AI Tafsir
+
+**What this ayah teaches:** He tells him that no Prophet was ever sent to a township but those among its people who lived a life of luxury disbelieved in him, and the weaker people of the town followed him. Then, they transgress therein, and thus the Word (of torment) is justified against it (them).
+
+**Classical tafsir:** Ibn Kathir notes: This means that just as there are differences between them in this world – where one may be poor and in straitened circumstances while another is rich and enjoys a life of plenty – so they will be in the Hereafter.
+
+**From the Sunnah:** Paradise, whilst another will be in the lowest levels of Hell.
 ## Personal Reflections
 
 

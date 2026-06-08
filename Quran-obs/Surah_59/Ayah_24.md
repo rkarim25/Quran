@@ -248,6 +248,17 @@ Surah Al-Hashr
 
 Ends here
 
+## AI Translation
+
+He is Allah: the Creator, the Inventor, the Shaper. He alone has the Most Beautiful Names. Whatever is in the heavens and the earth constantly glorifies Him. He is the Almighty, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** He is the ar-Rahman, the ar-Rahim.) Allah states that He Alone is worthy of worship, there is no Lord or Allah for the existence, except Him.
+
+**Classical tafsir:** Ibn Kathir notes: In one of the narrations for this Hadith, Al-Hasan Al-Basri said after narrating the Hadith, "You – mankind – are more worthy to miss the Messenger of Allah ﷺ than the tree trunk!" Likewise, this honorable Ayah asks that if the solid mountains feel humble and are rent asunder from the fear of Allah,…
+
+**From the Sunnah:** So, when the Minbar was made and placed in the Masjid, the Prophet ﷺ came to deliver a speech and passed the tree trunk, headed towards the Minbar, the tree trunk started weeping, just like an infant. Tirmidhi has collected all the ninety-nine names in one Tradition. (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

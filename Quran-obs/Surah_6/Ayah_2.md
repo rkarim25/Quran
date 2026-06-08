@@ -171,6 +171,17 @@ After that, comes the mention of the end of the whole world, that is, the Qiyama
 
 Summing up in a sequence, we can say that, in the first verse, we have been told about the ` big universe', that is, the whole wide world, which has been created and made by Allah Ta` ala. Then, in the second verse, very similarly, we have been told that the ` small universe', that is, the human beings, have also been created by Allah. Then, it is to shake human beings out of their negligence that they have been told that every human being has a particular age, after which death is certain. This is a constant fact of life observed by human beings all the time. The words: وَأَجَلٌ مُّسَمًّى عِندَهُ ۖ ثُمَّ أَنتُمْ تَمْتَرُ‌ونَ (And the fixed term lies with Him, yet you are in doubt) carry the instruction that using the personal death of a human being as the proof of the general and collective death of the whole world system, that is, the Qiyamah, is something very natural and logical. Therefore, there is absolutely no doubt about the coming of the Qiyamah (the much publicized but least believed ` Apocalypse' of the West). Therefore, towards the end of the verse (2), the text wonders as to why would people keep doubting the coming of Qiyamah which stands proved so clearly.
 
+## AI Translation
+
+He is the One Who created you from clay, then appointed a term and another known only to Him —yet you continue to doubt!
+
+## AI Tafsir
+
+**Context:** Al-'Awfi, 'Ikrimah and 'Ata' said that Ibn 'Abbas said, "Surat Al-An'am was revealed in Makkah" At-Tabarani recorded that Ibn 'Abbas said, "All of Surat Al-An'am was revealed in Makkah at night, accompanied by seventy th…
+
+**What this ayah teaches:** Then, it is to shake human beings out of their negligence that they have been told that every human being has a particular age, after which death is certain.
+
+**Classical tafsir:** Ibn Kathir notes: All praise be to Allah, Who created the heavens and the earth, and originated the darkness and the light, yet those who disbelieve hold others as equal with their Lord.)(2.
 ## Personal Reflections
 
 

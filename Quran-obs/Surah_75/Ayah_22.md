@@ -170,6 +170,19 @@ These are the faces of the sinners that will be Basirah on the Day of Judgement.
 
 وُجُوْهٌ يَّوْمَىِٕذٍ نَّاضِرَةٌ اِلٰى رَبِّهَا نَاظِرَةٌ (Many faces, that day, will be glowing, looking towards their Lord,...75:23). The word nadirah means 'fresh'. In other words, many faces that day will be happy, fresh and radiant. The words 'looking towards their Lord' mean 'gazing at their Lord'. This proves that the inmates of Paradise will see Allah in the Hereafter with physical eyes. The scholars of Ahlus-sunnah (those following the classic way of interpreting the religion) are unanimous on this issue. The Mu'tazilites and the Kharijites deny the possibility of seeing Allah, even in Paradise. Their reasoning is philosophical scepticism. They say that there are certain conditions of distance that must be met between the one who sees with his physical eyes and the object that is seen. But these conditions cannot be met between the Creator and the created. The Ahlus-sunnah respond that in the Hereafter the Beatific Vision of Allah will be beyond the need of these conditions. He will be seen [ unlike any material being ] beyond space, direction, shape or form. Hadith narratives make the subject even clearer. The inmates of Paradise will occupy different positions. Consequently, some will see Allah on a weekly basis, on Fridays. Others will see Him daily, morning and evening. Yet others will see Him all the time under all conditions. [ Mazhari ].
 
+## AI Translation
+
+Some faces that Day will be radiant,
+
+## AI Tafsir
+
+**Context:** This is Allah teaching His Messenger ﷺ how to receive the revelation from the angel. For verily, he (the Prophet ﷺ) was rushing in his attempts to grasp the revelation and he would be reciting the revelation with the ang…
+
+**What this ayah teaches:** In other words, many faces that day will be happy, fresh and radiant.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, Allah commanded him that when the angel brings some revelation to him he should just listen.
+
+**From the Sunnah:** For verily, he (the Prophet ﷺ) was rushing in his attempts to grasp the revelation and he would be reciting the revelation with the angel while he was reciting it. the Messenger of Allah ﷺ used to struggle very hard to grasp the revelation and he used to move his lips (rapidly with the recitation). (Musnad Ahmad)
 ## Personal Reflections
 
 

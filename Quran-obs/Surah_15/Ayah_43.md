@@ -126,6 +126,17 @@ Therefore, in the present verse, the sense of saying that the special servants o
 
 As for the events mentioned above, they offer no contradiction be-cause 'Adam and Hawwa' (علیہما السلام) made their Taubah and this repentance was accepted. Similarly, the noble Companions referred to above had also made their Taubah. Thus, whatever sin they fell into because of the mechanization of Shaitan was forgiven.
 
+## AI Translation
+
+and surely Hell is their destined place, all together.
+
+## AI Tafsir
+
+**What this ayah teaches:** Because You misled me, I shall indeed adorn the path of error for them (mankind) on the earth, and I shall mislead them all.
+
+**Classical tafsir:** Ibn Kathir notes: Because You misled me, I shall indeed adorn the path of error for them (mankind) on the earth, and I shall mislead them all.
+
+**From the Sunnah:** Ibn Abi Hatim recorded that Samurah bin Jundub reported from the Prophet ﷺ about,
 ## Personal Reflections
 
 

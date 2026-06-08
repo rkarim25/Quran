@@ -121,6 +121,17 @@ A doubt and its explanation
 
 There is a verse in Surah Al-Ma'arij which says that the day with your Lord will be equal to fifty thousand years كَانَ مِقْدَارُ‌هُ خَمْسِينَ أَلْفَ سَنَةٍ. (Whereof the measure is fifty thousand yours - 70:4) This can also be explained by applying either of the two explanations of the present verse and in the first case since every person will suffer different levels of severity, to some it will appear as if he has suffered pain for one thousand years, while to others the period will appear equal to fifty thousand years. If, however, the second explanation is applied to this verse, then there would appear to be a contradiction between the verses where one verse equates the Day of Resurrection to one thousand years and the other to fifty thousand years. But this so-called contradiction has been reconciled by Sayyidna Ashraf ` Ali Thanavi (رح))in his commentary Bayan ul-Qur'an, by saying that this difference may be due to different horizons. Just as we see in our world that the length of day and night is different on different horizons, (on zero latitude it is of 24 hours while at the latitude of 900 it is one year. Likewise it is possible that the length of the Day of Resurrection would be different on different horizons, and if its length right below the day line is one thousand years because of miraculously slow rotation of sun or earth), the areas falling 50 times far from it may have a day 50 times more in length. And Allah knows best.
 
+## AI Translation
+
+They challenge you O Prophet to hasten the torment. And Allah will never fail in His promise. But a day with your Rabb is indeed like a thousand years by your counting.
+
+## AI Tafsir
+
+**What this ayah teaches:** And verily a day with your Lord is as a thousand years of what you reckon (47)And many a township did I give respite while it was given to wrongdoing.
+
+**Classical tafsir:** Ibn Kathir notes: The first meaning is that the verse refers to the Day of Resurrection and the events which will take place on that day will be so horrifying and of such extreme severity that the day will appear never to end, as if it was equal to one thousand years according to our reckoning.
+
+**From the Sunnah:** And to Me is the (final) return (of all).) Ibn Abi Hatim recorded from Abu Hurayrah that the Messenger of Allah ﷺ said: Paradise half a day before the rich – five hundred years. (Jami' at-Tirmidhi, Sunan an-Nasa'i)
 ## Personal Reflections
 
 

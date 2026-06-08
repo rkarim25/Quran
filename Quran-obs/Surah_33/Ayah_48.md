@@ -131,6 +131,19 @@ The attributes of the Holy Prophet ﷺ ، as stated in the Holy Qur'an, are also
 
 The Holy Qur'an, after attributing the above qualities to the Holy Prophet ﷺ ، is asking him to carry on his functions, that is, to give the good news to the faithful that they are going to receive great bounties and mercy from Allah and not to obey the desires of the infidels and hypocrites. It was, though, not possible for the Holy Prophet obey the infidels and the hypocrites or to give up preaching and inviting people, yet there was a chance that, in order to avoid people's sarcasm and taunts, he might have inclined to avoid marrying Sayyidah Zainab ؓ that was, in fact, a practical demonstration of the divine rule of Shari'ah. This has been alluded to as obeying the infidels and hypocrites. He was further directed not to mind any vexation that he may receive from the infidels and hypocrites (as he did) and also not to worry about physical harm afflicted by them, but in case such a thought crosses his mind, he was directed to trust in Allah, because Allah is enough to put all matters right - He will protect him from all harms, and if an apparent harm is caused during preaching, it is a gain in reality, and is not against the promise of protection and putting things right.
 
+## AI Translation
+
+Do not yield to those who reject the truth and those of nifaq — outward acceptance with inward rejection. Overlook their annoyances, and put your trust in Allah. For Allah is sufficient as a Trustee of Affairs.
+
+## AI Tafsir
+
+**Context:** Wahb bin Munabbih said: "Allah revealed to one of the Prophets of the Children of Israel whose name was Sha'ya' (Isaiah); 'Stand up among your people the Children of Israel and I shall cause your tongue to utter (words o…
+
+**What this ayah teaches:** And put your trust in Allah, and sufficient is Allah as a Trustee .
+
+**Classical tafsir:** Ibn Kathir notes: If he were to pass by a lamp, it would not be extinguished, because of his tranquillity.
+
+**From the Sunnah:** he met 'Abdullah bin 'Amr bin Al-'As, may Allah be pleased with him, and said to him: (Musnad Ahmad) However due to this life, the hearts of all Muslims would keep on receiving the radiant light of his blessed heart, and the share of each individual would be in accordance with the intensity of love and reverence he has towards the Holy Prophet ﷺ and the abund…
 ## Personal Reflections
 
 

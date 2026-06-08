@@ -138,6 +138,17 @@ Commentary
 
 The two verses cited above admonish those who missed to join the expedition of Tabuk for no valid reason. They have also been told that they did what was not proper. Then the verses describe the merits of people who take part in Jihad and tell us about the great rewards they get for everything they do there. Included here is the causing of hurt or loss to the enemy and the using of a strategy that infuriates the adversary. All these are good deeds, and worthy of thawab (reward from Allah).
 
+## AI Translation
+
+And whenever they make a donation, small or large, or cross a valley —it is written to their credit, so that Allah may grant them the best reward for what they used to do.
+
+## AI Tafsir
+
+**What this ayah teaches:** Neither do they spend any contribution – small or great – nor cross a valley, but is written to their credit that Allah may recompense them with the best of what they used to do .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** 'Uthman poured the money on the Prophet's lap, and the Prophet ﷺ started turning it around with his hand and declaring repeatedly,
 ## Personal Reflections
 
 

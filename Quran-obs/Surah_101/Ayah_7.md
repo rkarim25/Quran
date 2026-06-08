@@ -148,6 +148,15 @@ Surah al-Qari’ ah
 
 Ends here
 
+## AI Translation
+
+they will dwell in a pleasing life in the Akhirah.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then as for him whose Balance will be heavy,)(7.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "He will fall into the Hellfire on his head." Abu Salih made a similar statement when he said, "They will fall into the Fire on their heads." It has also been said that it means his mother that he will return to and end up with in the Hereafter will be Hawiyah, which is one of the name…
 ## Personal Reflections
 
 

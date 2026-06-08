@@ -104,6 +104,17 @@ Allah does not bring aright the works of those who commit mischief. Jabir bin 'A
 
 Then, in the last verse (110), it was said that this building would al-ways keep increasing the doubt and hypocrisy in their hearts unless their hearts are shredded into pieces. The sense is that their doubt, hypocrisy, envy and chagrin would go on increasing right to the end of their life.
 
+## AI Translation
+
+The building which they erected will never cease to fuel hypocrisy in their hearts until their hearts are torn apart. And Allah is All-Knowing, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah guides not the people who are the wrongdoers (109)The building which they built will never cease to be a cause of hypocrisy and doubt in their hearts unless their hearts are cut to pieces. Because of this awful action that they committed, they inherited hypocrisy in their hearts, just as those who worshipped the calf were inclined to adoring it.
+
+**Classical tafsir:** Ibn Kathir notes: Is it then he who laid the foundation of his building on Taqwa to Allah and His good pleasure better, or he who laid the foundation of his building on the brink of an undetermined precipice ready to crumble down, so that it crumbled to pieces with him into the fire of Hell.
+
+**From the Sunnah:** Jabir bin 'Abdullah said, "I saw the Masjid that was built to cause harm with smoke rising up from it, during the time of the Messenger of Allah ﷺ." Allah's statement,
 ## Personal Reflections
 
 

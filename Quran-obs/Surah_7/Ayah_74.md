@@ -259,6 +259,19 @@ Some fundamental and subsidiary rulings emerge from the cited verse. These are a
 
 However, this is an entirely different matter that the noble prophets and the men of Allah have not favoured them as they make people heedless. The sayings of the Holy Prophet ﷺ about high rising buildings are of this nature.
 
+## AI Translation
+
+Remember when He made you successors after ’Âd and established you in the land— you built palaces on its plains and carved homes into mountains. So remember Allah’s favours, and do not go about spreading corruption in the land.”
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me.")[21:25] and,
+
+**What this ayah teaches:** This she-camel of Allah is a sign unto you; so you leave her to graze in Allah's earth, and touch her not with harm, lest a painful torment should seize you (73)And remember when He made you successors (generations) after 'Ad and gave you habitations in the land, you build for yourselves palaces in plains, and carve out homes in the mountains.
+
+**Classical tafsir:** Ibn Kathir notes: 'Abdur-Razzaq narrated that Ma'mar said that Az-Zuhri said that Abu Righal is the father of the tribe of Thaqif.
+
+**From the Sunnah:** The Messenger of Allah ﷺ passed by the area and ruins of Thamud when he went to Tabuk (in northern Arabia) during the ninth year of Hijrah.
 ## Personal Reflections
 
 

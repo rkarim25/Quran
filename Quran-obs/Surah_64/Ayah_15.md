@@ -160,6 +160,17 @@ Wealth and Children are a Trial
 
 The truth of the matter is that the love of wealth and children is a great trial for man. He mostly commits sins for their love, especially when he indulges in earning livelihood through unlawful means. According to a hadith, some people will be brought on the Day of Judgment, and the people will look at him and say اَکَلَ عَیَالُہ حَسَنَاتِہٖ (His family ate up his good deeds.) [ Ruh ]. In another narration, the Holy Prophet ﷺ ، referring to the children, said: مَبخَلَۃٌ مَّجبنَۃٌ (They are the cause of one’ s miserliness and cowardice.) It means that on account of their love, man fails to spend in Allah’ s way, and on account of their love he fails to participate in jihad. Some righteous elders have said, اَلعَیِال سُوسُ الطَّاعَات (Family is the weevil of obedience.” A weevil is small beetle that feeds on grain and seeds and destroys crops. Likewise, a family feeds on man’ s good deeds and destroys them.
 
+## AI Translation
+
+Your wealth and children are only a test, but with Allah is a great reward.
+
+## AI Tafsir
+
+**What this ayah teaches:** The purport of the verse is to say that Allah tests man by means of his wealth and children as to whether he is so much engrossed in the love of wealth and children as to become heedless of Divine laws and injunctions, or he maintains his love for them within limits and remains heedful of his duties and obligations toward Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, among your wives and your children there are enemies for you; therefore beware of them!
+
+**From the Sunnah:** Later when they joined Allah's Messenger ﷺ, they found that those who were with him (the Companions) have gained knowledge in the religion, so they were about to punish their wives and children.
 ## Personal Reflections
 
 

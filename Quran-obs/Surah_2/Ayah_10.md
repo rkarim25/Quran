@@ -150,6 +150,17 @@ The curse of telling lies
 
 "Guard yourselves against the filth of idols and against telling lies" (22:30)
 
+## AI Translation
+
+There is sickness in their hearts, and Allah lets that sickness grow. A painful punishment awaits them for the lies they spread.
+
+## AI Tafsir
+
+**What this ayah teaches:** In their hearts is a disease and Allah has increased their disease.
+
+**Classical tafsir:** Ibn Kathir notes: They planned to excite the Prophet's camel, so that she would throw him down the hill.
+
+**From the Sunnah:** The scholars who stated that the Prophet ﷺ knew the hypocrites of his time have only the Hadith of Hudhayfah bin Al-Yaman as evidence. These Ayat prove that the Prophet ﷺ was not informed about each and everyone among the hypocrites of his time.
 ## Personal Reflections
 
 

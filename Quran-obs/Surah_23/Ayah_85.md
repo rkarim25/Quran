@@ -138,6 +138,15 @@ Visitation of famine upon Makkah and its deliverance on the prayers of the Holy 
 
 It has been mentioned earlier that the Holy Prophet ﷺ had prayed to Allah to punish the people of Makkah with famine and as a result they were reduced to great straits and were forced to eat dead animals. At last, Abu Sufyan presented himself before the Holy Prophet ﷺ at Madinah and said, "I appeal you in the name of Allah, did you not say that you had been sent by Him as mercy for the whole world?" The Holy Prophet ﷺ replied, "Yes I did, and what I said is true also." Then Abu Sufyan said, "You killed the leaders of your clan with sword at the battle of Badr and now you are killing those who still survive with starvation. Pray to Allah, I beseech you, to remove this curse from over our heads." The Holy Prophet ﷺ then prayed to Allah to forgive the people of Makkah and deliver them from the agony of hunger, and his prayer was granted forthwith. The verse: وَلَقَدْ أَخَذْنَاهُم بِالْعَذَابِ فَمَا اسْتَكَانُوا لِرَ‌بِّهِمْ (23:76) was revealed on this occasion and refers to this incident. (Mazhari)
 
+## AI Translation
+
+They will reply, “To Allah!” Say, “Why are you not then mindful?”
+
+## AI Tafsir
+
+**What this ayah teaches:** He tells His Messenger Muhammad ﷺ to say to the idolators who worship others besides Him, even though they admit His Lordship, that He has no partner in Lordship. Visitation of famine upon Makkah and its deliverance on the prayers of the Holy Prophet ﷺ It has been mentioned earlier that the Holy Prophet ﷺ had prayed to Allah to punish the people of Makkah with famine and as a result they were redu…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

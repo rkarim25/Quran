@@ -150,6 +150,17 @@ The reason why olive tree has been associated with the Tur mountain is that this
 
 Then there is a mention of the blessings and the numerous gifts which Allah has provided for the benefitof ankind so that they may ponder and worship Him. The words of the verse are وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَ‌ةً (And indeed there is a sure lesson in the cattle for you - 23:21). The lesson to which this verse refers has been described further in the words نُّسْقِيكُم مِّمَّا فِي بُطُونِهَا (We give you a drink from that which lies in their bellies - 23:21). Some of the ways in which the cattle serve mankind are that they provide milk which is a very clear and nourishing food; every part of their body is put to some use, and their wool, hides, intestines etc. are all utilized, in industries which support a country's economy, the meat of the animals, which are halal (permissible) is a favourite food for all men. وَمِنْهَا تَأْكُلُونَ (and of them you eat - 23:21). And finally they are used, together with ships, as mounts and as means of transporting goods from one place to another.
 
+## AI Translation
+
+And there is certainly a lesson for you in cattle, from whose bellies We give you milk to drink, and in them are many other benefits for you, and from them you may eat.
+
+## AI Tafsir
+
+**What this ayah teaches:** And We sent down from the sky water in measure, and We gave it lodging in the earth, and verily, We are able to take it away (18)Then We brought forth for you therewith gardens of date palms and grapes, wherein is much fruit for you, and whereof you eat (19)And a tree that springs forth from Tur Sinai, that grows oil, and relish for the eaters (20)And verily, in the cattle ther…
+
+**Classical tafsir:** Ibn Kathir notes: are all utilized, in industries which support a country's economy, the meat of the animals, which are halal (permissible) is a favourite food for all men.
+
+**From the Sunnah:** Abd bin Humayd recorded in his Musnad and Tafsir from 'Umar that the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

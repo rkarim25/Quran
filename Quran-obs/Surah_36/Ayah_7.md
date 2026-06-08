@@ -117,6 +117,17 @@ Imam Razi (رح) has said that there are two kinds of barriers against perceptio
 
 The majority of commentators have declared the present verse to be a similitude of their disbelief and hostility only. And some commentators, on the basis of some narrations, have taken it to be the description of an event, that is, Abu Jahl and some others, bent on killing or hurting the Holy Prophet ﷺ ، lunged towards him but Allah Ta’ ala cast curtain over their eyes. Thus, rendered helpless, they went back. Many similar events have been reported in books of Tafsir, such as, Ibn Kathir, Ruh-ul-Ma’ ani, al-Qurtubi, Mazhari and others. But, most of these are weak narrations. The Tafsir of the verse cannot be based on such sources.
 
+## AI Translation
+
+The decree of torment has already been justified against most of them, for they will never believe.
+
+## AI Tafsir
+
+**What this ayah teaches:** Indeed the Word has proved true against most of them, so they will not believe.) The Messenger (ﷺ) was sent as a Warner We have already discussed the individual letters at the beginning of Surat Al-Baqarah. In order that you may warn a people whose forefathers were not warned, so they are heedless.)(7.
+
+**Classical tafsir:** Ibn Kathir notes: In order that you may warn a people whose forefathers were not warned, so they are heedless.)(7.
+
+**From the Sunnah:** We have already mentioned the Ayat and Mutawatir Hadiths which state that the mission of the Prophet ﷺ is universal, when we discussed the meaning of the Ayah:
 ## Personal Reflections
 
 

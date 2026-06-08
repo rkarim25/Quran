@@ -97,6 +97,17 @@ As-Suddi said:
 
 In verse 59, it was said: بَلَىٰ قَدْ جَاءَتْكَ آيَاتِي فَكَذَّبْتَ بِهَا (Why not? My verses had reached you, but you called them untrue, and waxed proud, and became of those who disbelieved...). In this verse, what the disbelievers said in: (If Allah were to show me the way, I would have surely been among those who fear Allah",- 39:57) has been answered. The outcome of this verse is that Allah had already given the necessary guidance, fully and conclusively. He had sent His books, verses and signs. Therefore, their claim that Allah gave them no guidance was absurd. Of course, once He had given the guidance, Allah never forced anyone to be good and obedient. In fact, every servant of His was given the choice to take to either the way of the truth or the way of the false. This was a test for the maker of the choice. On this depended his or her success or failure. Whoever took to the way of error by one's own free will, choice and volition, he or she is, himself or herself, responsible for it.
 
+## AI Translation
+
+Allah is the Creator of all things, and He is the Maintainer of everything.
+
+## AI Tafsir
+
+**Context:** Allah is the Creator of all things, and He is the Trustee over all things (62)To Him belong the Maqalid of the heavens and the earth.
+
+**What this ayah teaches:** Allah is the Creator and Controller, and associating others in worship with Him cancels out Good Deeds Allah tells us that He is the Creator, Lord, Sovereign and Controller of all things; everything is subject to His dominion, power and guardianship.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, their claim that Allah gave them no guidance was absurd.
 ## Personal Reflections
 
 

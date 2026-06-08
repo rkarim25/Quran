@@ -152,6 +152,19 @@ One part of the Qur'an explains the other.
 
 It is not permissible for anyone to explain the Qur'an in any way contrary to the Tafsir of the Qur'an itself.
 
+## AI Translation
+
+As for those who believe in Allah and His messengers—accepting all; rejecting none—He will surely give them their rewards. And Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**Context:** (The Messenger believes in what has been revealed to him from his Lord, and (so do) the believers. All of them believe in Allah.)(2:285).
+
+**What this ayah teaches:** Believing in Some Prophets and Rejecting Others is Pure Kufr Allah threatens those who disbelieve in Him and in His Messengers, such as the Jews and Christians, who differentiate between Allah and His Messengers regarding faith.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, whoever rejects only one of Allah's Prophets, he will have disbelieved in all of them, because it is required from mankind to believe in every prophet whom Allah sent to the people of the earth.
+
+**From the Sunnah:** Or, their behavior could be the result of their disbelief in the Prophet after they were aware of his truth, just as the Jewish rabbis did during the time of Muhammad, the Messenger of Allah ﷺ.
 ## Personal Reflections
 
 

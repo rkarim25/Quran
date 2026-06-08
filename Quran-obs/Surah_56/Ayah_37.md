@@ -278,6 +278,17 @@ This Hadith has many chains of narration collected in the Sahihs and other colle
 
 أَتْرَ‌ابً (...matching them in age...56:37) The word atrab is the plural of tirb, meaning 'a person of equal age who played together with his mate in dust'. The verse means that men and women will be made of equal ages in Paradise. Some narrations report that they will be about thirty-three years old. [ Mazhari ]
 
+## AI Translation
+
+loving and of equal age,
+
+## AI Tafsir
+
+**What this ayah teaches:** This refers to a woman who loves her husband passionately and is his beloved. The verse means that men and women will be made of equal ages in Paradise.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "Nothing will prevent them from reaching out to get these fruits, no branches, thorns or distance." We mentioned a Hadith before that states that whenever someone takes a fruit in Paradise, another one grows in its place. This refers to a woman who loves her husband passionately and is his beloved.
+
+**From the Sunnah:** Paradise the shade of which a rider would take one hundred years to pass. (Sahih al-Bukhari, Sahih Muslim) Paradise, the believer will be given such and such strength for women.
 ## Personal Reflections
 
 

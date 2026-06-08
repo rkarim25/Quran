@@ -230,6 +230,17 @@ That a medicine or clinical procedure may turn out to be personally beneficial a
 
 Summing up the main elements of our explanations, we can say that Muslims should specially take a lesson from this reference to disbelievers that they too remembered Allah when in distress. It is the duty of a true Muslim that he should, in order to remove his pain and anxiety in distress, first rely on and turn to Allah Ta` ala, much more than simply relying on and turning to the material solutions of his trying situation. If he fails to do that, he will meet the same end being witnessed today. Plans will generally fall flat. A thousand efforts are made to stop floods and to minimize losses caused by them, but they keep coming. Ever-new methods of treating diseases are found and used, but diseases keep increasing. Devices and theories are employed to check rising prices of things - which seem to be effective too, though on the surface - but the result on the whole is that prices keep rising on almost a daily basis. Think of crimes like theft, robbery, kidnapping, bribery and smuggling. Governments all over the world, including the most advanced, are employing all sorts of material means to stop them. But, common people do not have to look into a crime graph to find out what is happening - they see that crimes are increasing. We can only wish that human beings of the modern era would do well by rising a little bit higher than the levels of person, identity, profit and loss, and surveying conditions prevailing, then, they would come to realize that, when seen collectively, all our material efforts have failed, in fact, they are compounding our problems. Then, if they were to look at the remedy proposed by the Qur'an which tells us that there is only one way of staying safe from all kinds of hardship, and that is to turn to the Creator of the universe. Whatever material solutions there are, they are fine, and they too should be used as blessings from Him. Other than this, there is no way to ideal security.
 
+## AI Translation
+
+Say, “ Allah rescues you from this and any other distress, yet you associate others with Him.”
+
+## AI Tafsir
+
+**Context:** "Yalbisakum means, 'cover you with confusion', So it means to, 'divide into parties and sects'. Jabir bin 'Abdullah said, 'When this Ayah was revealed,
+
+**What this ayah teaches:** Not only that these two verses tell us about the perfect power of Allah Ta` ala which delivers human beings from their hour of distress, it also emphasizes that the removal of all sorts of hardships, troubles and anxieties is also in the hands of Allah Ta` ala alone as evident from the behaviour of diehard those who reject the truth too who are ultimately compelled to turn to Allah when ther…
+
+**Classical tafsir:** Ibn Kathir notes: Al-Walibi ('Ali bin Abi Talhah) reported that Ibn 'Abbas said that this Ayah refers to desires.
 ## Personal Reflections
 
 

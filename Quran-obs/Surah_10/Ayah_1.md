@@ -112,6 +112,19 @@ The Surah opens with the letters: Alif, Lam, Ra الر‌). Known as ` isolated 
 
 In the first verse: تِلْكَ آيَاتُ الْكِتَابِ الْحَكِيمِ (These are verses of the Wise Book), the word: تِلکَ (tilka: these) points out to the 'ay at of this Surah which follow. 'The Book' refers to the Qur'an. To describe its attribute, the Qur'an has used the word: حَکِیم (hakim) at this place. It means the Book of Wisdom.
 
+## AI Translation
+
+Alif-Lam-Ra. These are the ayahs of the Book rich in wisdom.
+
+## AI Tafsir
+
+**Context:** Surah Yunus is among the Makki Surahs. Three of its verses revealed after the Hijrah to Madinah have been called Madani.
+
+**What this ayah teaches:** Therefore, we too should not go about digging into it - because, it is certain that had the knowing of their meaning been expedient for us, our master, who was mercy personified for the whole world, would have never hesitated in telling us about it.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, we too should not go about digging into it - because, it is certain that had the knowing of their meaning been expedient for us, our master, who was mercy personified for the whole world, would have never hesitated in telling us about it.
+
+**From the Sunnah:** These are the verses of the Book (the Qur'an) Al-Hakim.)(2.
 ## Personal Reflections
 
 

@@ -119,6 +119,15 @@ In the verses cited above, after having mentioned various punishments which coul
 
 First of all, by using the word: رَبّ (Rabb: Lord) here, the hint given is that all these punishments which overtake human beings in this world are there to warn them as part of the dictates of Divine mercy. After that, by introducing the word: رَ‌ءُوفٌ(Ra uf: Kind) headed by the intensifying particle lam) that is, the lam of ta'kid), and thus by placing stress on the fact that Allah Ta’ ala was Very Kind and Very Merciful, the hint given was that warnings sent during the life of the world were, in reality, called for by His intrinsic Kindness and Mercy so that heedless men and women would learn from the warning and correct their deeds (before comes 'the last spasm of mass extinction' they themselves are talking about at the closing of the twentieth century, but are still not ready to learn, believe and correct).
 
+## AI Translation
+
+Have they not considered how the shadows of everything Allah has created incline to the right and the left as the sun moves, totally submitting to Allah in all humility?
+
+## AI Tafsir
+
+**What this ayah teaches:** Have they not observed things that Allah has created: (how) their shadows shift from right to left, prostrating to Allah while they are humble (48)And to Allah prostrate all that are in the heavens and all that are in the earth, the moving creatures and the angels, and they are not proud [i.e.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "When the sun passes its zenith, everything prostrates to Allah, may He be glorified." This was also said by Qatadah, Ad-Dahhak and others.
 ## Personal Reflections
 
 

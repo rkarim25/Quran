@@ -120,6 +120,15 @@ The Creation of Humans and Jinns
 
 خَلَقَ الْإِنسَانَ مِن صَلْصَالٍ كَالْفَخَّارِ‌ (He has created man from dry clay, ringing like pottery... 55:14). The word insan [ man ] in this context refers unanimously to 'Adam (علیہ السلام) . The word salsal [ clay ] refers to the wet soil when it becomes dry and heavy. The word fakhkhar refers to the wet soil when it is baked.
 
+## AI Translation
+
+He created humanity from sounding clay like pottery,
+
+## AI Tafsir
+
+**What this ayah teaches:** The Creation of Humans and Jinns Allah mentions that He created mankind from clay, like that used in pottery, and created the Jinns from the tip of the flame of a smokeless fire. The word salsal [ clay ] refers to the wet soil when it becomes dry and heavy.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid, Qatadah, Abu Ruzayn, Ad-Dahhak said it, and it has also been reported from 'Ali. The word salsal [ clay ] refers to the wet soil when it becomes dry and heavy.
 ## Personal Reflections
 
 

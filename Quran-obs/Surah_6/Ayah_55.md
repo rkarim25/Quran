@@ -170,6 +170,17 @@ Therefore, for Taubah (repentance) to be total and complete, the way it is neces
 
 Similar is the case of the Rights of the Servants of Allah (Huquq al-'lbad). If someone's property has been taken unlawfully, it should be returned to him, or have him forgive it. And if someone has been caused pain physically or verbally, forgiveness must be sought from the aggrieved person. And if, it is not possible or within one's control to have him forgive it - for example, he dies; or goes away to a place the address of which is not known - then, the way out is that one should make it a point to keep praying for his forgiveness before Allah Ta` ala consistently. If so, it can be hoped that the holder of the right will be pleased and the person who was unable to have the forgiveness of the deceased during his lifetime will become absolved of what was due on him.
 
+## AI Translation
+
+This is how We make Our signs clear, so the way of the wicked may become distinct.
+
+## AI Tafsir
+
+**Context:** (Say: "I am on clear proof from my Lord...") means: I have a clear understanding of the Law of Allah that He has revealed to me, Thereupon, the present verses were revealed to comfort him.
+
+**What this ayah teaches:** Therefore, Allah has sent the Angel of the Mountains to you so that you may order him to do whatever you wish to these people.' The Angel of the Mountains called and greeted me, and then said, 'O Muhammad! With Him (Alone) is the knowledge of the Hour, He sends down the rain, and knows that which is in the wombs.
+
+**Classical tafsir:** Ibn Kathir notes: But, this is not true - because Jahalah (ignorance) here means acting ignorantly which refers to the act of ignorance, that is, one ends up doing something as would have been done by one who is ignorant and unaware of the outcome of his or her act.
 ## Personal Reflections
 
 

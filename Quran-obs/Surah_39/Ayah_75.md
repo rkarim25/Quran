@@ -128,6 +128,17 @@ Surah Az-Zumar
 
 Ends here
 
+## AI Translation
+
+You will see the angels all around the Throne, glorifying the praises of their Lord, for judgment will have been passed on all with fairness. And it will be said, "Praise be to Allah—Lord of all worlds!"
+
+## AI Tafsir
+
+**What this ayah teaches:** And you will see the angels surrounding the Throne from all round, glorifying the praises of their Lord. Then He tells us of His angels who surround His majestic Throne, glorifying the praises of their Lord, extolling and magnifying Him, and declaring Him to be above any shortcomings or injustice whatsoever, for He has passed judgement in the fairest and most just manner.
+
+**Classical tafsir:** Ibn Kathir notes: These words are not attributed to any specific speaker, which indicates that the whole of creation will testify to His praise.
+
+**From the Sunnah:** In this verse, it was clearly stated that Muslims who obey Allah and the Messenger would invariably be with the prophets and those others mentioned therein.
 ## Personal Reflections
 
 

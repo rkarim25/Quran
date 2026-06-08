@@ -165,6 +165,17 @@ This مَن يُطِعِ اللَّـهَ relates to the obligations toward Alla
 
 things he is given the good tiding of فَأُولَـٰئِكَ هُمُ الْفَائِزُونَ (that such people are the victorious). And Fa'iz is that person who gets deliverance from Jahannam and earns a place in the Paradise. After hearing this explanation Sayyidna ` Umar ؓ said the endorsement of this is available in the utterance of the Holy Prophet ﷺ ، who had said that اُوتیت جوامع الکلم Allah has graced me with such comprehensive expressions in which words are few but the meanings are vast'. (Qurtubi)
 
+## AI Translation
+
+They swear by Allah their most solemn oaths that if you O Prophet were to command them, they would certainly march forth in Allah’s cause. Say, “You do not have to swear; your obedience is well known!” Surely Allah is All-Aware of what you do.”
+
+## AI Tafsir
+
+**What this ayah teaches:** They swear by Allah their strongest oaths that if only you would order them, they would leave.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** But lately he had heard a verse of the Holy Qur'an recited by a Muslim prisoner and realized that in that small verse all the older books have been condensed. (Sahih Muslim)
 ## Personal Reflections
 
 

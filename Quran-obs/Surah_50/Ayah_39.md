@@ -172,6 +172,17 @@ Although according to the majority of commentators, tasbih in the verse refers t
 
 In the same collections, a narration by the same authority, says that whosoever recites subhanallahi wa bi hamdihi one hundred times in a day, his sins will be forgiven, even though they may be more than the waves of the sea. (Mazhari)
 
+## AI Translation
+
+So endure with sabr what they say. Glorify your Rabb before sunrise and before sunset,
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, some scholars say that tasbih before sunrise refers to the morning prayer, and tasbih before sunset refers to ` Asr (late afternoon) prayer. Could they find any place of refuge (36)Verily, therein is indeed a reminder for him who has a heart or gives ear while he is heedful (37)And indeed We created the heavens and the earth and all between them in six Days and nothing of fatigue touche…
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, some scholars say that tasbih before sunrise refers to the morning prayer, and tasbih before sunset refers to ` Asr (late afternoon) prayer.
+
+**From the Sunnah:** Have what they collected benefited them or averted Allah's torment when it came to them on account of their denial of the Messengers?
 ## Personal Reflections
 
 

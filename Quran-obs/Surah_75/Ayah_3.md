@@ -206,6 +206,15 @@ The second stage of development is called An-nafs-ul-lawwamah 'the self that bla
 
 The first stage is developed into the second stage when the traveler perform righteousness, and exerts himself in riyadah 'ascetic discipline' and mujahadah 'spiritual struggle'. This Self is conscious of its own imperfections. It regrets its evils and shortcomings, but it is not completely cut off from the evils. The third and highest stage of development is called An-nafs-ul-mutma'innah 'the self at peace'. This self develops into this stage when it progressively performs righteousness and attains Divine nearness and applies the sacred laws of Shari` ah so rigorously that Shari'ah becomes his nature and develops a natural hatred for anything contrary to Shari` ah . The title of the self at this stage is mutma'innah.
 
+## AI Translation
+
+Do people think We cannot reassemble their bones?
+
+## AI Tafsir
+
+**What this ayah teaches:** Though he may put forth his excuses.) The Oath about the Final Return on the Day of Resurrection and the Refutation against the Plots of the Thinkers It has been mentioned previously on more than one occasion that if the thing that is being sworn about is something that is being negated, then it is permissible to use the word "La" (Nay) before the oath to emphasize the negation.
+
+**Classical tafsir:** Ibn Kathir notes: I swear by An-Nafs Al-Lawwamah.) Qatadah said, "This means, I swear by both of these things." This has also been reported from Ibn 'Abbas and Sa'id bin Jubayr. This means Our power is suitable to gather (and recreate) them, and if We wished We could surely resurrect him with more than what he originally had.
 ## Personal Reflections
 
 

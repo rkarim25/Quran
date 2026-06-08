@@ -118,6 +118,17 @@ To sum up, it can be said that the spirits of deniers and disbelievers are taken
 
 Towards the end of the verse, it was said: وَلَا يَدْخُلُونَ الْجَنَّةَ حَتَّىٰ يَلِجَ الْجَمَلُ فِي سَمِّ الْخِيَاطِ (and they shall not enter the Paradise unless a camel enters into the eye of a needle). Here, the word: ' يَلِجَ (yalij) is from: وَلوُج (wuluj) which means to enter a narrow opening. Jamal is camel and Samm, the eye of a needle. The translation covers the meaning literally. The sense of the verse is that the camel is a big animal and its entry into the eye of a needle is functionally impossible. So, equally impossible is their entry into Paradise. The purpose is to state that the punishment of Hell for them is everlasting. Then, follow the words which describe the added severity of the punishment in Hell: لَهُم مِّن جَهَنَّمَ مِهَادٌ وَمِن فَوْقِهِمْ (For them there is a bed from the Jahannam, and over them there are coverings). The word: مِهَادٌ (mihad) means a place of rest, bed or floor and: غَوَاشٍ (ghawash) is the plural form of: (ghashiyah) which means something which covers. The sense is that for these people to rest, the bed and the top sheet will all come from Hell (an eloquent manner of putting the extreme severity of the punishment in everyday idiom). It will be noticed that at the end of the first verse, which mentions the deprivation from Paradise, it was said: وَكَذَٰلِكَ نَجْزِي الظَّالِمِينَ (And this is how We recompense the sinners). Then, in the second verse, which describes the punishment of Hell, it was said: وَكَذَٰلِكَ نَجْزِي الظَّالِمِينَ (And this is how We recompense the transgressors) because it is more severe than the former.
 
+## AI Translation
+
+Hell will be their bed; flames will be their cover. This is how We reward the wrongdoers.
+
+## AI Tafsir
+
+**What this ayah teaches:** The purpose is to state that the punishment of Hell for them is everlasting.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid and 'Ikrimah said that Ibn 'Abbas used to recite this Ayah this way, "Until the Jummal goes through the eye of the needle", whereas 'Jummal' is a thick rope.
+
+**From the Sunnah:** 'Ata' narrated this from Ibn 'Abbas. This is a part of a long Hadith which was also recorded by Abu Dawud, An-Nasa'i and Ibn Majah. (Sunan Abi Dawud, Sunan Ibn Majah)
 ## Personal Reflections
 
 

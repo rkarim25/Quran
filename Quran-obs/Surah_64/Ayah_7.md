@@ -154,6 +154,17 @@ Allah explained His statement saying;
 
 فَقَالُوا أَبَشَرٌ‌ يَهْدُونَنَا (…but they said, “ Shall some mortals give us guidance?”…64:6). Though the word basher [ mortal (s)] is singular, but in meaning it is plural. Therefore, the verb يَهْدُونَنَا ‘give us guidance’ is plural. All unbelievers held the notion that prophets and messengers cannot be human beings. The Qur’ an has time and again falsified and refuted this notion of the unbelievers. Alas, there is also a group of Muslims who denies the mortality of the Allah’ s Messenger. They need to think in which direction they are moving. His mortality is not contradictory to his prophet-hood, nor is it incompatible with his high station of messenger-ship, nor is his being a Messenger inconsistent with his being a Nur (light). He is Nur (light) as well as a mortal. It is a false analogy to compare his light with that of a lamp or of the sun or the moon.
 
+## AI Translation
+
+Those who reject the truth claim they will not be resurrected. Say: 'Yes, by my Lord, you will surely be resurrected, then you will be informed of what you did. That is easy for Allah.'
+
+## AI Tafsir
+
+**What this ayah teaches:** By my Lord, you will certainly be resurrected, then you will be informed of what you did; and that is easy for Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Though the word basher [ mortal (s)] is singular, but in meaning it is plural.
+
+**From the Sunnah:** Alas, there is also a group of Muslims who denies the mortality of the Allah’ s Messenger.
 ## Personal Reflections
 
 

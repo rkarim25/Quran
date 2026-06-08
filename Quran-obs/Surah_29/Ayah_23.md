@@ -121,6 +121,15 @@ Commentary
 
 The infidels of Makkah believed that it is Allah who has created the whole universe, but they deemed it impossible that the people will be resurrected after they once die. The present verses have described the fallacy of their view. It is stated that repeating the process of creation is much easier than its origination. It is strange that these infidels do believe that Allah has originated the creation, but they deny His power to do it again, while the latter is easier than the former. Then verse 20 has induced them to look around them to appreciate the splendors of the creation, so that they may apprehend that the One who has originated this marvelous creation can easily repeat the process. After establishing the Resurrection, the last three verses describe the punishment for those who deny it.
 
+## AI Translation
+
+Those who reject Allah's signs and meeting Him — they have no hope in His mercy and will suffer painful punishment.
+
+## AI Tafsir
+
+**What this ayah teaches:** And besides Allah you have neither any protector nor any helper (22)And those who disbelieve in the Ayat of Allah and meeting with Him, such have no hope of My mercy: and for such there is a painful torment .
+
+**Classical tafsir:** Ibn Kathir notes: All of that indicates that these are themselves created things, and that there must be a Creator Who does as He chooses, Who merely says to a thing "Be!" and it is.
 ## Personal Reflections
 
 

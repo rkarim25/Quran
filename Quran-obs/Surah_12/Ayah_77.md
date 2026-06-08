@@ -157,6 +157,15 @@ Now in the second sentence of the first verse (77) it was said: فَأَسَرّ
 
 Said in the next and last sentence of the verse was: قَالَ أَنتُمْ شَرٌّ‌ مَّكَانًا ۖ وَاللَّـهُ أَعْلَمُ بِمَا تَصِفُونَ that is, ` Sayyidna Yusuf (علیہ السلام) said (in his heart): ` You are even worse in position (as you accuse your brother of theft, falsely and knowingly). And Allah knows best of what you allege (whether what you are saying is true or false).' The first sentence has been uttered in the heart. The other sentence may possibly have been said publicly as his response to what his brothers had said.
 
+## AI Translation
+
+To distance themselves, Joseph’s brothers argued, “If he has stolen, so did his full brother before.” But Joseph suppressed his outrage—revealing nothing to them—and said to himself, “You are in such an evil position, and Allah knows best the truth of what you claim.”
+
+## AI Tafsir
+
+**What this ayah teaches:** As for his brothers, they were fully aware of the fact that he was totally free from this blame. But, he kept his reaction to himself and did not let his brothers know that he had heard what they had said and was affected by it in any way.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, he was put under the care of his paternal aunt.
 ## Personal Reflections
 
 

@@ -196,6 +196,19 @@ According to the majority of commentators like Sayyidna Ibn ` Abbas, Mujahid, Da
 
 The word falak in this verse does not refer to the sky, but rather to the orbits of the stars and planets in which they move. [ Mazhari ]
 
+## AI Translation
+
+By the sky with its towering constellations,
+
+## AI Tafsir
+
+**Context:** Then, after Ibn Ishaq explained that the people of Najran began following the religion of the boy after his murder, which was the religion of Christianity, he said, "Then (the king) Dhu Nuwas came to them with his army a…
+
+**What this ayah teaches:** Verily, those who put into trial the believing men and believing women, and then do not turn in repentance, then they will have the torment of Hell, and they will have the punishment of the burning Fire.) The Interpretation of the Word Buruj Allah swears by the heaven and its Buruj.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, those who put into trial the believing men and believing women, and then do not turn in repentance, then they will have the torment of Hell, and they will have the punishment of the burning Fire.) The Interpretation of the Word Buruj Allah swears by the heaven and its Bur…
+
+**From the Sunnah:** During…
 ## Personal Reflections
 
 

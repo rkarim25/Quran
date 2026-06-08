@@ -186,6 +186,19 @@ Before we proceed, we may point out that in speaking of faith in the hereafter a
 
 It is these who are on guidance given by their Lord; and it is just these who are successful.
 
+## AI Translation
+
+They trust in what was sent down to you, O Prophet, and in what was sent before you, and they hold firm conviction in the Akhirah — the everlasting life after death.
+
+## AI Tafsir
+
+**Context:** And who have faith in what is revealed to you and in what was revealed before you, and in the Hereafter they are certain (4) (And who have faith in what is revealed to you and in what was revealed before you.) means, "Th…
+
+**What this ayah teaches:** The Hereafter is so named because it comes after this earthly life.
+
+**Classical tafsir:** Ibn Kathir notes: Lexically the Akhirah signifies 'that which comes after something'; in the present context, it indicates a relationship of contrast with the physical world, and thus signifies the other world which is beyond physical reality as we know it and also beyond the sensuous or rational…
+
+**From the Sunnah:** Therefore, if the believers in Islam among the People of the Book gain two rewards, other Muslims who have firmer Islamic faith might gain an equal reward that compares to the two the People of the Book gain (upon embracing…
 ## Personal Reflections
 
 

@@ -133,6 +133,15 @@ Allah the Exalted said,
 
 Some of the commentators interpret that this statement purports to say that the access of human thought and imagination ends with Allah. The reality of His Being and attributes cannot be discovered by human imagination, because they are beyond conceptualization. Thus we are clearly prohibited from deliberating (See Ma’ ariful Qur’ an, Vol.2/pp 277-280 [ Tr.]) in His Being and His Attributes. There are narrations that tell us to ponder over the manifestation of His Attributes and bounties, and not to conceptualize His Being and His Attributes or Qualities, the reality of which should be left to the Divine Knowledge only.
 
+## AI Translation
+
+and that to your Rabb is the final return.
+
+## AI Tafsir
+
+**What this ayah teaches:** And that to your Lord is the End (42)And that it is He Who makes laugh, and makes weep (43)And that it is He Who causes death and gives life (44)And that He creates the pairs, male and female (45)From Nutfah when it is emitted (46)And that upon Him is another bringing forth (Resurrection)(47)And that it is He Who Aghna and Aqna (48)And that He is the Lord of Ash-Shi'ra (49)And…
+
+**Classical tafsir:** Ibn Kathir notes: This means they are able to use it to their benefit, is this out of the completeness of His favor.
 ## Personal Reflections
 
 

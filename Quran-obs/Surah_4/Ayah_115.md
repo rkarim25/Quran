@@ -192,6 +192,17 @@ That is, the hand of Allah is on the Muslim community. Whoever breaks away or se
 
 Imam al-Shafi` (رح) was asked: 'Can the validity of the authority of the Consensus of Muslim Ummah be proved from the Holy Qur'an?' He devoted to the recitation of the Qur'an full three days, completing three recitals each during the day and night. Finally, the proof that he came up with was this verse. When he cited it before scholars, they all agreed: This proof is sufficient to confirm the authority of ` Ijma`, the Consensus of Muslim Community
 
+## AI Translation
+
+And whoever defies the Messenger after guidance has become clear to them and follows a path other than that of those who have iman, We will let them pursue what they have chosen, then burn them in Hell—what an evil end!
+
+## AI Tafsir
+
+**Context:** (And whoever contradicts and opposes the Messenger after the right path has been shown clearly to him.) refers to whoever intentionally takes a path other than the path of the Law revealed to the Messenger, after the tru…
+
+**What this ayah teaches:** There is no good in most of their secret talks save (in) him who orders Sadaqah, or goodness, or conciliation between mankind; and he who does this, seeking the good pleasure of Allah, We shall give him a great rewar (114)And whoever contradicts and opposes the Messenger after the right path has been shown clearly to him, and follows other than the believers' way, We shall keep him in the path he…
+
+**Classical tafsir:** Ibn Kathir notes: In other words, we know that following the injunctions given in the Qur'an and Sunnah is obligatory.
 ## Personal Reflections
 
 

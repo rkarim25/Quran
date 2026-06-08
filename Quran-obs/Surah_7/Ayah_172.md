@@ -317,6 +317,17 @@ The next sentence of the verse has said:
 
 That is to say, the pledge taken by Allah has lit the candle of Faith in their hearts. Now with little reflection they can easily recognize Him as their Lord. Therefore, their excuse of ignorance shall not be of any avail to them on the Day of Judgment.
 
+## AI Translation
+
+And when your Rabb brought forth from the loins of the children of Adam their descendants and had them testify regarding themselves. “Am I not your Rabb?” They replied, “Yes, You are! We testify.” “Now you have no right to say on Judgment Day, ‘We were not aware of this.’
+
+## AI Tafsir
+
+**What this ayah teaches:** The Covenant taken from the Descendants of Adam Allah stated that He brought the descendants of Adam out of their fathers' loins, and they testified against themselves that Allah is their Lord and King and that there is no deity worthy of worship except Him.
+
+**Classical tafsir:** Ibn Kathir notes: It is because He is All-Aware of the deeds, even of the hidden thoughts and intentions of His servants without the remotest possibility of making wrong judgment.
+
+**From the Sunnah:** the Messenger of Allah ﷺ said; (Sahih Muslim) "This Hadith is Hasan Sahih, and it was reported from various chains of narration through Abu Hurayrah from the Prophet ﷺ". (Sahih Muslim, Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

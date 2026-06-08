@@ -146,6 +146,15 @@ And he said: When you drink milk, say اللھم بارک لٰنا فیہ وَ �
 
 In the second prayer, he did not ask for something 'better than it' (as in the first prayer) for, in human cuisine, there is no nutrient better than milk. Therefore, nature has made milk the very first food given to every man and animal through breast-feeding by mothers. (Al-Qurtubi)
 
+## AI Translation
+
+And there is certainly a lesson for you in cattle: We give you to drink of what is in their bellies, from between digested food and blood: pure milk, pleasant to drink.
+
+## AI Tafsir
+
+**What this ayah teaches:** For cattle are the creatures which provide a drink from what is in their bellies and in another Ayah it is 'in their bellies.' Either way is plausible.
+
+**Classical tafsir:** Ibn Kathir notes: It also indicates that strong drink (i.e., intoxicating drink) derived from dates is the same as strong drink derived from grapes.
 ## Personal Reflections
 
 

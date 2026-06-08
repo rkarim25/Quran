@@ -131,6 +131,17 @@ In the seventh verse (49), after citing a particular excuse made by a noted hypo
 
 The last sentence of the verse: وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌ بِالْكَافِرِ‌ينَ (and certainly the Jahannam has the disbelievers encircled) could have two meanings. It could either mean that the Hell would encircle them in the Hereafter. Or, it could mean that the very chain of causes, which are operating to take them to Hell, and which have them all encircled at that time, are what has been equated with Hell. Given this interpretation, it would suggest that they happen to be, even now, within the larger circle of nothing but Hell.
 
+## AI Translation
+
+There are some of them who say, “Exempt me and do not expose me to temptation.” They have already fallen into temptation. And Hell will surely engulf those who reject the truth.
+
+## AI Tafsir
+
+**Context:** (I give you permission.) In Al-Jadd's case, this Ayah was revealed, Therefore, Allah says that the Fitnah that he fell into because of not joining the Messenger of Allah ﷺ (in Jihad) and preferring his safety to the safe…
+
+**What this ayah teaches:** And among them is he who says: "Grant me leave and put me not into trial." Surely, they have fallen into trial.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

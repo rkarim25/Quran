@@ -108,6 +108,17 @@ The Holy Prophet ﷺ has said:
 
 He who obeyed Muhammad ﷺ obeyed Allah and he who disobeyed Muhammad ﷺ disobeyed Allah. (Tafsir Mazhari)
 
+## AI Translation
+
+Say, “Obey Allah and His Messenger.” If they still turn away, then truly Allah does not like those who reject the truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, if a person living in the world of today claims that he loves his Creator and Master, then, he must test it on the touch-stone of his obedience to the Messenger, that is, match it against the frequency and quality of where and how he has been following him.
+
+**Classical tafsir:** Ibn Kathir notes: Affirmed now is the belief in prophethood as well as the necessity of following the Messenger so that we stand informed that the rejection of prophethood or refusal to obey the Prophet ﷺ is also an act of disbelief (kufr) like the rejection of the Oneness of Allah.
+
+**From the Sunnah:** This is the Prophet ﷺ who, if the previous Prophets and mighty Messengers were to have been alive during his time, they would have no choice but to follow, obey him, and to abide by his Law.
 ## Personal Reflections
 
 

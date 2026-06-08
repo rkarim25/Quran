@@ -168,6 +168,17 @@ However, only Imam Shafi` i (رح) differs on this issue. He says that the rewar
 
 The foregoing verses have elaborated on two issues with reference to the scriptures of Prophets Musa and Ibrahim (علیہما السلام) [ 1] No one will bear the burden of another's sin and punishment; and [ 2] No one shall be freed of his Shar’ i obligations, unless he himself performs them. These two rules of law were available in the Shari’ ah of all the Prophets. However, they are especially mentioned in relation to Musa and Ibrahim (علیہما السلام) probably because in their days an evil custom had taken deep root that the son used to be killed instead of the father; and father, brother, sister or some other member of the family used to be killed instead of the son. The Shari’ ah of these prophets abolished all the evil customs of the Dark Age.
 
+## AI Translation
+
+and that each person will have only what they strove for,
+
+## AI Tafsir
+
+**Context:** Allah the Exalted explained what He has revealed in the Scripture of Ibrahim and Musa,
+
+**What this ayah teaches:** They are that just as it is possible to pray for and proffer the reward of charity to another person, so likewise it is possible to recite the Qur'an and perform other voluntary prayers to pass the reward to another person who will receive it.
+
+**Classical tafsir:** Ibn Kathir notes: Such a person has stopped giving in charity for righteous causes and did not keep relations with kith and kin because of his miserliness, being stingy and out of fear of poverty.
 ## Personal Reflections
 
 

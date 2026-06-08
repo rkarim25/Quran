@@ -184,6 +184,17 @@ This is more clear in Surah Taubah in the verse following the verse.
 
 This shows that Sayyidna Ibrahim's (علیہ السلام) promise to his father to invoke Allah's Mercy for him was made before the latter's firm adherence to infidelity, and his hostility to Allah became clearly evident. When the position was no longer in doubt Sayyidna Ibrahim (علیہ السلام) announced his dissociation from his father.
 
+## AI Translation
+
+Abraham replied: "Peace be upon you. I will ask my Rabb to forgive you. He has been gracious to me.
+
+## AI Tafsir
+
+**What this ayah teaches:** For verily, he (Ibrahim) is the leader of the Prophets other than Muhammad ﷺ.
+
+**Classical tafsir:** Ibn Kathir notes: Then Allah explains that Ibrahim abandoned this statement and retracted it.
+
+**From the Sunnah:** Forgive me and my parents, and (all) the believers on the Day when the reckoning will be established.)[14:41] From this tradition, during the beginning stages of Islam, the Muslims used to seek forgiveness for their relatives and their family members who were…
 ## Personal Reflections
 
 

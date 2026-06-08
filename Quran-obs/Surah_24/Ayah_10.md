@@ -230,6 +230,17 @@ Ruling
 
 Although the torment of Hereafter would increase on the one who is liar, after the li'an, but the punishment of the world be annulled. Similarly, it is not permissible to call the woman an adulterer nor is it permissible to call her child illegitimate. This was also ruled by the Holy Prophet ﷺ in the case of Hilal Ibn Umayyah ؓ . وقضٰی بان لا تُرمٰی ولا ولدھا .
 
+## AI Translation
+
+You would have suffered, had it not been for Allah’s grace and mercy upon you, and had Allah not been Accepting of Repentance, All-Wise.
+
+## AI Tafsir
+
+**Context:** In both these incidents it is reported that the verses of lian were revealed for that particular incident. Hafiz Ibn Hajar and Shaikh ul Islam Nawawi (رح) have noted the alikeness in the two by explaining that it looks t…
+
+**What this ayah teaches:** By Allah, he never married a woman who was not a virgin, and he never divorced a woman but none of us would dare to marry her because he is so jealous.' Sa'd said, 'By Allah, O Messenger of Allah, I know that it (the Ayah) is true and is from Allah, but I am surprised.
+
+**Classical tafsir:** Ibn Kathir notes: Imam Ahmad recorded that Sa'id bin Jubayr said: During the governorship of Ibn Az-Zubayr I was asked about the couple who engage in Li'an, and whether they should be separated, and I did not know the answer.
 ## Personal Reflections
 
 

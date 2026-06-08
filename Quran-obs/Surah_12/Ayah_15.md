@@ -130,6 +130,17 @@ At this point, Imam Al-Qurtubi and other commentators have described the event o
 
 Sayyidna Yusuf (علیہ السلام) remained in that well for three days. Hiding away from others, his brother, Yahuda, brought food and water for him every day and lowered it down to him through a bucket.
 
+## AI Translation
+
+And so, when they took him away and decided to throw him into the bottom of the well, We inspired him: “One day you will remind them of this deed of theirs while they are unaware of who you are.”
+
+## AI Tafsir
+
+**Context:** So, when they took him away, they all agreed to throw him down to the bottom of the well, and We revealed to him: "Indeed, you shall (one day) inform them of this their affair, when they know (you) not.
+
+**What this ayah teaches:** And by virtue of these changed circumstances, he would be in a position to take account of their unjust treatment meted out to their younger brother while they themselves would be unaware of the whole matter. This was their intent, yet when they took him from his father, they pretended otherwise, so that his father sends him with a good heart and feeling at ease and comfortable with his decision.
+
+**Classical tafsir:** Ibn Kathir notes: As-Suddi said that the time spent between pretending to be well-wishers and harming Yusuf was no longer than their straying far from their father's eyes.
 ## Personal Reflections
 
 

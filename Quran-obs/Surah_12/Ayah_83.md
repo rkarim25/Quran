@@ -170,6 +170,15 @@ Here, it is also possible that by his comment about 'maneuvering something' ment
 
 In short, the outcome of the refusal of Sayyidna Ya` qub (علیہ السلام) to accept the statement of his sons this time was that there was no theft really, nor was Benyamin arrested, and the truth of the matter was to be found elsewhere. This was true in its place. But, whatever was said by his sons, as they knew it, was not wrong either.
 
+## AI Translation
+
+He cried, “No! Your souls must have tempted you to do something evil. So I am left with nothing but beautiful sabr! I trust Allah will return them all to me. Surely He alone is the All-Knowing, All-Wise.”
+
+## AI Tafsir
+
+**What this ayah teaches:** So patience is most fitting (for me).) Some said that since this new development came after what they did before [to Yusuf], they were given the same judgement to this later incident that was given to them when they did what they did [to Yusuf].
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

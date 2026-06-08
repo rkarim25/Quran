@@ -94,6 +94,17 @@ This is the end of the Tafsir of Surat Al-Infitar. All praise and blessings are 
 
 The verse informs us that each person, on the Day of Reckoning, will know what he has done, and what will be the consequences of his deeds. The present verse says that the righteous will be in perfect bliss, while the sinners will be in a Blazing Fire of Hell.
 
+## AI Translation
+
+and the wicked in a blazing Fire,
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, the Abrar (the righteous believers) will be in Delight (13)And verily, the wicked will be in the blazing Fire (Hell)(14)Therein they will enter, and taste its burning flame on the Day of Recompense (15)And they will not be absent therefrom (16)And what will make you know what the Day of Recompense is (17)Again, what will make you know what the Day of Recompense is (18)(It will be) the Day…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** We will mention here a Hadith (where the Prophet ﷺ said),
 ## Personal Reflections
 
 

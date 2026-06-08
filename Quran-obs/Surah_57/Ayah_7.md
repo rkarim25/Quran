@@ -247,6 +247,17 @@ Ibn Abi Hatim recorded that 'Abdullah bin Mas'ud said, "When this Ayah,
 
 [ 1] The original word used in the text is 'mustakhlafin' which has two meanings: 'deputies' and 'successors'. Taken in the first meaning, the verse indicates that the wealth held by human beings originally belongs to Allah, but He has made them His deputies or representatives to use it according to His directions. Although He has allowed them to use it for their own benefit, it should always be subject to the rules prescribed by Him in Shari'ah. Once it is believed that one is not the absolute owner of this wealth, it should not be difficult for him to spend according to the command of its absolute Owner. This is the interpretation of the verse according to the majority of commentators. However, some other exegetes have taken the word 'mustakhlafin' in the sense of 'successors'. In this case the verse reminds us that whatever wealth we have in our hands today has reached us from other people who owned it before us. We have succeeded them in its ownership, and ultimately it will be passed on to some others through any mode of transfer including inheritance. All kinds of wealth are thus in transit, moving from one person to another. Therefore, one should not hesitate in spending it in Allah's way, because it has to be passed on to some others in any case. (Muhammad Taqi Usmani)
 
+## AI Translation
+
+Believe in Allah and His Messenger, and spend from what He has made you trustees over. Those among you who have iman and spend will have a great reward.
+
+## AI Tafsir
+
+**What this ayah teaches:** And such of you as believe and spend, theirs will be a great reward (7)And what is the matter with you that you believe not in Allah!
+
+**Classical tafsir:** Ibn Kathir notes: Taken in the first meaning, the verse indicates that the wealth held by human beings originally belongs to Allah, but He has made them His deputies or representatives to use it according to His directions.
+
+**From the Sunnah:** And we have reported the Hadith through different routes in the beginning of the explanation on the chapter on Faith in Sahih Al-Bukhari, wherein one day the Messenger of Allah ﷺ said to his Companions, (Sahih al-Bukhari) Before Makkah was conquered, things were difficult for Muslims and only the righteous ones embraced Islam.
 ## Personal Reflections
 
 

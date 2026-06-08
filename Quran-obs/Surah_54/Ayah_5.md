@@ -193,6 +193,17 @@ Allah said,
 
 وَكُلُّ أَمْرٍ‌ مُّسْتَقِرٌّ‌ (...while every matter has to be settled....54:3). The literal meaning of the word istiqrar is to settle. The verse means that everything must ultimately reach its end and the matter must become clear. If a veil is fabricated and cast over the truth or reality, eventually [ in its designated time ] the false veil will be removed and the truth and falsehood will be clearly distinguished.
 
+## AI Translation
+
+This Qur'an is profound wisdom, but warnings do them no good.
+
+## AI Tafsir
+
+**What this ayah teaches:** And indeed there has come to them news wherein there is Muzdajar.)(5.
+
+**Classical tafsir:** Ibn Kathir notes: The Narration of 'Abdullah bin 'Abbas Al-Bukhari recorded that Ibn 'Abbas said, "The moon was split during the time of the Prophet ﷺ." Al-Bukhari and Muslim collected this Hadith.
+
+**From the Sunnah:** The Hadith of Abu Waqid preceded, in which it is mentioned that the Messenger of Allah ﷺ would recite Surah Qaf (chapter 53) and Iqtarabat As-Sa'ah (Al-Qamar, chapter 54), during (the 'Id Prayers of) Al-Adha and Al-Fitr. one day, when the sun was about to set, the Messenger of Allah ﷺ gave a speech to his Companions, saying,
 ## Personal Reflections
 
 

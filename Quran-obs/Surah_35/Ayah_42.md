@@ -152,6 +152,17 @@ Allah tells us how Quraysh and the Arabs swore by Allah their most binding oath 
 
 In the expression: إِنَّ اللَّـهَ يُمْسِكُ السَّمَاوَاتِ (Undoubtedly, Allah holds back the heavens and the earth - 35:41), the 'holding' of the heavens or the skies does not mean that their movement was stopped. Instead, it means holding them from moving askance - as the word: أَن تَزُولَا (an tazula: from leaving their existing state,) bears it out. Therefore, in this verse, there exists no supporting evidence on either side as to the skies move or they are static.
 
+## AI Translation
+
+They swore their most solemn oaths that if a warner came to them, they would be better guided than any other community. Yet when a warner came, it only drove them farther away—
+
+## AI Tafsir
+
+**Context:** (yet when a warner came to them,) – meaning, Muhammad ﷺ with the Book revealed to him, i.e., the Clear Qur'an,
+
+**What this ayah teaches:** And they swore by Allah their most binding oath that if a warner came to them, they would be more guided than any of the nations; yet when a warner came to them, it increased in them nothing but flight (from the truth)(42)(They took to flight because of their) arrogance in the land and their plotting of evil. This means, no one can remove that from them or ward it off from them.
+
+**Classical tafsir:** Ibn Kathir notes: This means, no one can remove that from them or ward it off from them.
 ## Personal Reflections
 
 

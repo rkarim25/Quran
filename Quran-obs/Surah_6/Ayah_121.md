@@ -215,6 +215,17 @@ The Qur'anic order of reciting the name of Allah implied; مَا ذُكِرَ‌
 
 Similarly, the words " مَّا ذُكِرَ‌ اسْمُ اللَّـهِ عَلَيْهِ " include reciting actually or as implied. That is why Imam Abu Hanifah (رح) has allowed to eat an animal upon which the reciting of the name of Allah was missed inadvertently. However if it is missed deliberately, it will render the animal Haram.
 
+## AI Translation
+
+Do not eat of what is not slaughtered in Allah’s Name. For that would certainly be disobedience. Surely the devils whisper to their associates to argue with you. If you were to obey them, then you would be polytheists.
+
+## AI Tafsir
+
+**What this ayah teaches:** e., slaughter) and you can eat what is slaughtered and the Name of Allah is mentioned at the time of slaughtering.) This Hadith was also collected in the Two Sahihs.
+
+**Classical tafsir:** Ibn Kathir notes: Abu Ishaq (Al-Mukhtar) claimed that he received revelation this night.' Ibn 'Abbas said, He has said the truth.' I was upset and said, 'Ibn 'Abbas says that Al-Mukhtar has said the truth?' Ibn 'Abbas replied, 'There are two types of revelation, one from Allah and one from the devil.
+
+**From the Sunnah:** This Ayah is used to prove that slaughtered animals are not lawful when Allah's Name is not mentioned over them – even if slaughtered by a Muslim. (Sahih Muslim) The Hadith narrated by 'Adi bin Hatim and Abu Tha'labah (that the Prophet ﷺ said);
 ## Personal Reflections
 
 

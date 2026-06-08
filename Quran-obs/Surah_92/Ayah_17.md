@@ -162,6 +162,19 @@ This is the end of the Tafsir of Surat Al-Layl, and all praise and thanks are du
 
 The wordings of the verse give good news, in general, to anyone who spends in Allah's cause in a state of faith, but the occasion of revelation indicates that atqa refers to Sayyidna Abu Bakr As-Siddiq ؓ in particular. Ibn Abi Hatim reports from Sayyidna 'Urwah ؓ that seven Muslims had been enslaved by the Makkan disbelievers. When they became Muslims, they were persecuted in a variety of ways. Sayyidna Abu Bakr ؓ spent a great amount of his money, and purchased them and set them free. Verses [ 17-21] were revealed on this occasion. [ Mazhari ]
 
+## AI Translation
+
+But the most mindful of taqwa will be kept far from it—
+
+## AI Tafsir
+
+**Context:** Many of the scholars of Tafsir have mentioned that these Ayat were revealed about Abu Bakr As-Siddiq. Some of them even mentioned that there is a consensus among the Qur'anic commentators concerning this.
+
+**What this ayah teaches:** This verse describes the reward of the most Allah-fearing person, as opposed to the punishment of the most wretched in the preceding verse. The word atqa is the superlative form and signifies a man of taqwa, that is, the most Allah-fearing person, who spends his wealth in obedience of his Lord in order to purify himself from sins, will be kept far away from the fire of Hell.
+
+**Classical tafsir:** Ibn Kathir notes: This verse describes the reward of the most Allah-fearing person, as opposed to the punishment of the most wretched in the preceding verse.
+
+**From the Sunnah:** Paradise, and whoever disobeys me, then he has refused.
 ## Personal Reflections
 
 

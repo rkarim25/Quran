@@ -196,6 +196,15 @@ Verse 248: The story of Talut and Jalut
 
 The Bani Isra'il used to have the legacy of a wooden chest (also identified as the Ark of the Covenant). Moses and other prophets of Bani Isra'il would keep this chest in the frontline of the battlefield. Its barakah بَرَکَہ (blessing, benediction) used to give them victory. When )Jalut: Goliath) overcame Bani Isra'il, he took this chest away with him. When Allah Almighty willed the return of the chest, it so happened that the infidels were struck by some epidemic or calamity at places where they carried this chest. Five cities were turned desolate. Nonplussed, they loaded it on two bullocks and drove them off. Then, the angels took control of the bullocks and made it reach Talut's doorsteps. (Talut is the Qur'anic name of the king known in the Bible as Saul) When the Bani Isra'il saw this sign, they believed in the kingdom of Talut, who then mounted an attack on Jalut while the weather was very hot.
 
+## AI Translation
+
+Their prophet said, "The sign of his kingship is that the Ark will come to you — containing reassurance from your Rabb and relics left by Moses' and Aaron's families, carried by angels. In that is a sign for you, if you believe."
+
+## AI Tafsir
+
+**What this ayah teaches:** The sign of His kingdom is that there shall come to you At-Tabut, wherein is Sakinah (peace and reassurance) from your Lord and a remnant of that which Musa (Moses) and Harun (Aaron) left behind, carried by the angels.
+
+**Classical tafsir:** Ibn Kathir notes: Verse 248: The story of Talut and Jalut The Bani Isra'il used to have the legacy of a wooden chest (also identified as the Ark of the Covenant).
 ## Personal Reflections
 
 

@@ -66,6 +66,15 @@ The City of Sodom on the Highroad
 
 The local Department of Archaeology has set up some hotels and residential quarters at this site to attract tourists. The result is that people with an incorrigible infatuation with the material and who are equally dismissive of the concerns of the Hereafter have made this site a place of fun and frolic. People go there to enjoy the sights of the ancient. Lest such heedlessness becomes a habit, the Holy Qur’ an has served a warning towards the end by saying: إِنَّ فِي ذَٰلِكَ لَآيَةً لِّلْمُؤْمِنِينَ (Surely, in it there are signs for the believers). It means: In reality, these sites and the events associated with them are full of moral lessons for everyone having in-sight. But, it is the good fortune of believers only who would benefit by learning what these sites teach, while others would go through these sites as tourists and leave empty-handed.
 
+## AI Translation
+
+Surely in this is a sign for those who believe.
+
+## AI Tafsir
+
+**What this ayah teaches:** So the Sayhah overtook them at the time of sunrise (73)And We turned them upside down and rained stones of baked clay upon them (74)Surely, in this are signs for those who see (75)And verily, they were right on the highroad (76)Surely, there is indeed a sign in that for the believers .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -116,6 +116,15 @@ It means that man is tested both by good things and by bad things. شَر (bad) 
 
 "We were tested by discomforts and We bore it with patience, but when we were tested by pleasures, we could not observe patience (i.e. we could not offer gratitude to Allah as was due) ". (Ruh ul-Ma'ani)
 
+## AI Translation
+
+Every soul will taste death. We test you with evil and good as fitnah — trial that tests faith — and to Us you will be returned.
+
+## AI Tafsir
+
+**What this ayah teaches:** This pleasure does not negate the agony of death, because where the reward is high, a little pain is easily tolerated.
+
+**Classical tafsir:** Ibn Kathir notes: Here the word soul refers to the living things of the earth, who must all face death, but does not include the angels.
 ## Personal Reflections
 
 

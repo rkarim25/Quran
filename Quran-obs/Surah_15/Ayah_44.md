@@ -138,6 +138,17 @@ The Seven Gates of Jahannam
 
 About the statement: لَهَا سَبْعَةُ أَبْوَابٍ (It has seven gates - 44), according to a narration of Sayyidna ` Ali ؓ reported by Imam Alhmad, Ibn Jarir Al-Tabari and Al-Baihaqi, the seven gates of Jahannam (Hell) are in terms of seven levels, one upon the other. Some others have taken these as common gates where every gate will be reserved for a special kind of sinners. (Qurtubi)
 
+## AI Translation
+
+It has seven gates, to each a group of them is designated.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Because You misled me, I shall indeed adorn the path of error for them (mankind) on the earth, and I shall mislead them all.
+
+**Classical tafsir:** Ibn Kathir notes: Because You misled me, I shall indeed adorn the path of error for them (mankind) on the earth, and I shall mislead them all.
+
+**From the Sunnah:** Ibn Abi Hatim recorded that Samurah bin Jundub reported from the Prophet ﷺ about,
 ## Personal Reflections
 
 

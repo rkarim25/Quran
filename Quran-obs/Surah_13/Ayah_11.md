@@ -265,6 +265,19 @@ What has been said here is, no doubt, correct to a certain extent. But, this is 
 
 Take our own existence and its countless blessings. These are not the outcome of our effort, nor had we ever prayed that we be given such a presence with eyes, nose, ears and rest of the most perfect body. These are wonderful blessings - and we have them without having to ask for them. However, the right to deserve blessings and to become worthy recipients of the fruits of the Divine promise cannot be received without making one's own effort to earn it - and should a people keep waiting for Divine rewards without putting in the due effort and deed, it would amount to nothing but self-deception.
 
+## AI Translation
+
+For each person, angels succeed one another before and behind, guarding by Allah's command. Allah does not change a people's condition until they change what is within themselves. When Allah wills punishment for a people, none can avert it, and they find no protector besides Him.
+
+## AI Tafsir
+
+**Context:** Ibn Abi Hatim narrated that Ibrahim said, "Allah revealed to a Prophet from among the Children of Israel, 'Say to your nation: every people of a village or a house who used to obey Allah but changed their behavior to dis…
+
+**What this ayah teaches:** The assignment given to them under the command of Allah is that they should protect human beings.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, there are four angels that surround each person by day and they are replaced by four others at night, two scribes and two guards.
+
+**From the Sunnah:** By Allah, she who came to complain about her husband to the Messenger of Allah ﷺ was speaking while I was in another part of the room, yet I did not hear some of what she said.
 ## Personal Reflections
 
 

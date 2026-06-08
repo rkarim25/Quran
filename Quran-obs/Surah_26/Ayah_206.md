@@ -150,6 +150,15 @@ There is a hint in this verse that those who are bestowed with long life in this
 
 ` O the duped one! Your whole day is spent in negligence and the night in sleep, while death is inevitable for you. Neither you are awake among the alert and woken nor are you the one who will get salvation from among the sleepers. You keep endeavoring for things which will soon bring you unpleasant results. Cattle and animals live like this in the world'.
 
+## AI Translation
+
+then there came to them what they had been threatened with:
+
+## AI Tafsir
+
+**What this ayah teaches:** There is a hint in this verse that those who are bestowed with long life in this world by Allah Ta’ ala, it is His grace on them.
+
+**Classical tafsir:** Ibn Kathir notes: Then they will say: "Can we be respited?") means, when they see the punishment, then they will wish they had a little more time so that they can obey Allah – or so they claim.
 ## Personal Reflections
 
 

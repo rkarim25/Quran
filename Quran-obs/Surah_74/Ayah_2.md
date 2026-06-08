@@ -158,6 +158,17 @@ Injunction [ 1]
 
 قُمْ فَاَنْذِرْ (stand up and warn...74:2) 'Stand up' could be taken in its primary sense. It will mean: 'Remove the additional clothes in which you have wrapped yourself. It is also not unlikely that 'stand up' means 'Prepare yourself for the onerous task of reforming the creation of Allah'. The command fa-andhir (and warn) comes from the infinitive indhar (warning) which is based on love and affection', such as a father's warning his children against the dangers of a snake, scorpion or fire. The Prophets proclaim the Divine Message and warn its rejecters of the evil consequences of rejection. Therefore, they have received the titles of nadhir and bashir. 'Nadhir' means 'the one who affectionately and endearingly warns [ people ] against harmful things' and 'Bashir' refers to 'the one who gives glad tidings'. The Qur'an has conferred both the titles on the Holy Prophet and the Holy Book is replete with them. Here, however, the Qur'an takes it as sufficient to mention indhar 'to warn' because at the time of revelation of this verse there were only a handful of Muslims. The rest of the people were all rejecters and disbelievers. They needed to be warned and did not merit glad tidings.
 
+## AI Translation
+
+rise and warn everyone.
+
+## AI Tafsir
+
+**What this ayah teaches:** The command fa-andhir (and warn) comes from the infinitive indhar (warning) which is based on love and affection', such as a father's warning his children against the dangers of a snake, scorpion or fire. 'Nadhir' means 'the one who affectionately and endearingly warns [ people ] against harmful things' and 'Bashir' refers to 'the one who gives glad tidings'.
+
+**Classical tafsir:** Ibn Kathir notes: 'Nadhir' means 'the one who affectionately and endearingly warns [ people ] against harmful things' and 'Bashir' refers to 'the one who gives glad tidings'.
+
+**From the Sunnah:** It has been confirmed in the Sahih Al-Bukhari and Sahih Muslim on the authority of Abu Salamah that Jabir bin 'Abdullah informed him that he heard the Messenger of Allah ﷺ speaking about the time period (of the pause in) revelation.
 ## Personal Reflections
 
 

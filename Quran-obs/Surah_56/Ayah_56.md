@@ -118,6 +118,15 @@ Allah, the Exalted, said,
 
 If we go by the second view of the commentators, who say that both 'earlier' and 'later' generations are from the ummah of the Holy Prophet ﷺ ، then even the later generations of this ummah will not be totally deprived of 'the Foremost', though their number in later generations will be less. As for the People of the Right, their number will be large in both 'earlier' and 'later' generations. This fact is proved by a Hadith reported by Bukhari and Muslim from Sayyidna Mu` awiyah ؓ in which the Holy Prophet ﷺ has said, 'A group of my 'Ummah will always remain on the truth and dominant, unharmed by those who fail to support them and those who defy them, until the Last Hour begins.'.
 
+## AI Translation
+
+This will be their hospitality on the Day of Judgment.
+
+## AI Tafsir
+
+**What this ayah teaches:** This is also the meaning reported from Mujahid, 'Ikrimah, Ad-Dahhak, Qatadah, As-Suddi and others.
+
+**Classical tafsir:** Ibn Kathir notes: As-Suddi said "Al-Him is a disease that strikes camels, causing them to feel thirst, and they drink until they die." Therefore, he said, the people of Hell, will never quench their thirst from drinking Hamim.
 ## Personal Reflections
 
 

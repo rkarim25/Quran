@@ -146,6 +146,17 @@ From the words of the text :'and died while they were disbelievers', commentator
 
 From this we also find out that the act of cursing is so grave that it has been disallowed even if the target be an infidel about whom it is not certain that he is going to die as one. If so, how can this become permissible if the target is a Muslim or, even if it is directed at an animal? Common people in Muslim societies seem to neglect this aspect of standard Muslim behaviour, specially our Muslim sisters who are prone to use very hard language about those they do not like among the circle of their acquaintances. It should be clearly understood that the act of cursing becomes effective not only by using the word, 'curse' but all synonyms used are subject to the same ruling. The word 'La` nah لعنہ ' (curse) means: to remove away from the mercy of Allah Almighty'. Therefore, all damnatory swearing and cursing, whatever the shade, circumstance or language, falls under the purview of "la` nah" لعنہ or 'curse'.
 
+## AI Translation
+
+Those who reject and die while rejecting — upon them is the curse of Allah, the angels, and all people combined.
+
+## AI Tafsir
+
+**Context:** These Ayat sternly warn against those who hide the clear signs that the Messengers were sent with which guide to the correct path and beneficial guidance for the hearts, after Allah has made such aspects clear for His se…
+
+**What this ayah teaches:** And I am the One Who accepts repentance, the ar-Rahim (160)Verily, those who disbelieve, and die while they are those who reject the truth, it is they on whom is the curse of Allah and of the angels and of mankind, combined (161)They will abide therein (under the curse in Hell), their punishment will neither be lightened nor will they be reprieved .
+
+**Classical tafsir:** Ibn Kathir notes: And I am the One Who accepts repentance, the ar-Rahim.) This Ayah also indicates that those who used to call to innovation, or even disbelief, and repent to Allah, then Allah will forgive them.
 ## Personal Reflections
 
 

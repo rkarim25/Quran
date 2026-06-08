@@ -173,6 +173,17 @@ Then Allah rebukes the idolators who prostrate to idols and rivals instead of Al
 
 وَهُوَ الَّذِي خَلَقَ مِنَ الْمَاءِ بَشَرً‌ا فَجَعَلَهُ نَسَبًا وَصِهْرً‌ا (And He is the One who created man from water then made of him kinship of blood and kinship of in-laws. 25:54) نَسَب (nasab, translated above as 'kinship of blood' ) is that relationship which emanates from either parent, and صِهْر (sihr, translated above as 'kinship of in-laws' ) is that kinship which is drawn from the wife's side and is called in - laws. All these relations and bonds are Allah's graces given to mankind for a pleasant and tranquil life. If these relations are taken away from someone's life it will be impossible for him to live by himself.
 
+## AI Translation
+
+And We have sent you O Prophet only as a deliverer of good news and a warner.
+
+## AI Tafsir
+
+**Context:** (Then He rose over (Istawa) the Throne. The ar-Rahman! Ask Him, as He is the All-Knower.) meaning, find out about Him from one who knows most about Him, and follow him and take him as your example.
+
+**What this ayah teaches:** Ask Him, as He is the All-Knower (59)And when it is said to them: "Prostrate yourselves to Ar-Rahman!" They say: "And what is Ar-Rahman Shall we fall down in prostration to that which you command us" And it increases in them only aversion . They do this with no evidence or proof; the only thing that led them to do this was their own whims and desires.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

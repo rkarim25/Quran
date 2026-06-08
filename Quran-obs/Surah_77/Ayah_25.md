@@ -84,6 +84,15 @@ Allah says,
 
 أَلَمْ نَجْعَلِ الْأَرْ‌ضَ كِفَاتًا أَحْيَاءً وَأَمْوَاتًا (Did We not make the earth a container that collects the living and the dead?....25, 26) The word kit is derived from kaft. It means 'to gather things together'. Thus kit is a thing that embodies many things within itself. Earth is created by Allah in a fashion that humans when alive, remain on its back, and when dead, in its belly.
 
+## AI Translation
+
+Have We not made the earth a dwelling
+
+## AI Tafsir
+
+**What this ayah teaches:** The earth is held in place with them so that it does not shake and sway.
+
+**Classical tafsir:** Ibn Kathir notes: The earth is held in place with them so that it does not shake and sway.
 ## Personal Reflections
 
 

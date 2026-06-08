@@ -157,6 +157,15 @@ The punishment proposed by Sayyidna Musa (علیہ السلام) for Samiri in t
 
 The word لَنُحَرِّقَنَّہ، means "we will certainly burn it". Here the question arises: how could the calf which was carved from gold and silver be burnt, because these metals when subjected to extreme heat are melted but are not reduced to ashes. Several possibilities have been advanced. The first is that after signs of life appeared in it, the calf ceased to be a figure of gold and silver and became an animal of flesh and blood in which case it could be slaughtered and burnt. The second explanation is that it could be filed with a rasp into very minute particles of dust (Ad-Dur al-Manthur). A third explanation is that it could be burnt by means of some chemical device (Rub u1-Ma` ani). There is yet a fourth explanation, namely that the calf could be burnt by some miracle (Bayanul-Qur’ an).
 
+## AI Translation
+
+Then Moses addressed his people, “Your only god is Allah, there is none worthy of worship of worship except Him. He encompasses everything in His knowledge.”
+
+## AI Tafsir
+
+**What this ayah teaches:** For everything is in need of Him and everything is His servant.
+
+**Classical tafsir:** Ibn Kathir notes: Here the question arises: how could the calf which was carved from gold and silver be burnt, because these metals when subjected to extreme heat are melted but are not reduced to ashes.
 ## Personal Reflections
 
 

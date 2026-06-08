@@ -84,6 +84,17 @@ Their love for him might make them follow him in disbelief. Qatadah said, "His p
 
 The opening sentence of verse 80: وَأَمَّا الْغُلَامُ (As for the boy) means the boy who was killed by al-Khadir (علیہ السلام) . The reality behind it, as stated by him, was that the boy was cut out for infidelity and rebellion against parents. But, his parents were pious people. Al-Khadir (علیہ السلام) said that they apprehended that, once this boy grew up, he would harass his parents and cause them pain. And when he took to infidelity as a young man, he would not only become a live trial for the parents but would also endanger the very faith of his parents because of their love for him.
 
+## AI Translation
+
+“And as for the boy, his parents were true believers, and we feared that he would pressure them into defiance and rejection of the truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** And when he took to infidelity as a young man, he would not only become a live trial for the parents but would also endanger the very faith of his parents because of their love for him.
+
+**Classical tafsir:** Ibn Kathir notes: And when he took to infidelity as a young man, he would not only become a live trial for the parents but would also endanger the very faith of his parents because of their love for him.
+
+**From the Sunnah:** Ibn 'Abbas narrated from Ubayy bin Ka'b that the Prophet ﷺ said:
 ## Personal Reflections
 
 

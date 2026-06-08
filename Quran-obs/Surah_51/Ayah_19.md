@@ -161,6 +161,15 @@ Special Guidance for Philanthropists
 
 The purpose of the verse is to show that the believers and the righteous do not only perform bodily worship, such as prayers and remaining awake at night, but they also play a major role in performing pecuniary worship, in that besides helping the people who beg they also look for, and help, those who out of self-respect do not express their needs to anyone. When mentioning this pecuniary worship, the expression used by the Qur'an is the following, وَفِي أَمْوَالِهِمْ حَقٌّ "and in their wealth, there was a right". It means that when they meet the needs of the poor, they do not deem it a favour shown to them, but they appreciate that the poor have a 'right' in the wealth Allah has blessed them with, and fulfilling one's right is not a favour; it is rather a duty and responsibility that one has to discharge.
 
+## AI Translation
+
+and in their wealth there was a due share for the beggar and the deprived.
+
+## AI Tafsir
+
+**What this ayah teaches:** Will you not then see (21)And in the heaven is your provision, and that which you are promised (22)Then by the Lord of the heaven and the earth, it is the truth, just as you can speak .
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Every night, they would worship Allah, even during a little part of the night." Qatadah narrated that Mutarrif bin 'Abdullah said, "Hardly a night would pass by them that they did not pray to Allah the Exalted and Most Honored, either in the beginning, or the middle of it." Mujahid… As for the Mahrum, Ibn 'Abbas and Mujahid said, "He is the poor person who does not receive a stipen…
 ## Personal Reflections
 
 

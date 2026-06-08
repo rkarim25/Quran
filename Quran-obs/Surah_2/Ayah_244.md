@@ -268,6 +268,17 @@ The incident relating to the Bani Israel was brought in this verse as an introdu
 
 The third verse (245), which follows, deals with the merits of spending in the way of Allah.
 
+## AI Translation
+
+Fight in Allah's cause and know that Allah is All-Hearing, All-Knowing.
+
+## AI Tafsir
+
+**What this ayah teaches:** Truly, Allah is full of bounty to mankind, but most men thank not (243)And fight in the way of Allah and know that Allah is All-Hearer, All-Knower (244)Who is he that will lend to Allah a goodly loan so that He may multiply it to him many times?
+
+**Classical tafsir:** Ibn Kathir notes: Dead People Ibn Abu Hatim related that Ibn 'Abbas said that these people mentioned herein, were the residents of a village called Dawardan. And this also explains the hadith in which it is said: The plague is shahadah (martyrdom) and one who dies in the plague is a shahid (martyr).
+
+**From the Sunnah:** 'Umar bin Al-Khattab once went to Ash-Sham (Syria). (Musnad Ahmad, authentic hadith) So, when every human bone found its proper place at the behest of a single call, the Prophet ﷺ was commanded to give yet another call to them as follows:
 ## Personal Reflections
 
 

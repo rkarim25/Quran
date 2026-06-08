@@ -68,6 +68,17 @@ Then, they were told: ` As for the condition you impose that I should remove the
 
 And: مُّلَاقُو رَ‌بِّهِمْ (They are surely to meet their Lord) could also mean: If, supposedly, I were to turn them out, when they go to their Lord on the day of Qiyamah and complain, what would I have to say? The subject continues in the fourth verse (30): If I were to turn them out, who would save me from Divine punishment? At the end, it was said: All this is nothing but your ignorance and heedlessness. To you being a man is counter to being a prophet, or you go to the other extreme and demand that poor people should be driven away from his company.
 
+## AI Translation
+
+O my people! Who would protect me from Allah if I were to dismiss them? Will you not then be living with taqwa?
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, they are going to meet their Lord, but I see that you are a people that are ignorant (29)And O my people! This is similar to the request of those who reject the truth to the seal of the Messengers ﷺ to disassociate himself from a group of the people who were considered weak in their social status.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** They wanted the Prophet ﷺ to sit with them in a special gathering of the elite.
 ## Personal Reflections
 
 

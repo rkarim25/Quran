@@ -339,6 +339,19 @@ The verse 223 points out to the lawful ways of having sexual intercourse with on
 
 Subject to these two conditions (namely, the purity of the woman from her menses, and avoiding the carnal intercourse) one can enjoy whatever way he wishes to have sexual intimacy with his wife. In this context, it has been said, "Come to your soil from where you will". It indicates that in so far as the ultimate place (of penetration) is a 'soil' (which stands for the female vagina which is productive like a soil), one can elect whatever way he likes to reach this ultimate place. Thus, lying over the woman or beside her or beneath her, acceding to the vagina from any side, front or back, sitting or kneeling -- all these and similar other positions are allowed while performing sexual intercourse subject to the two conditions mentioned above.
 
+## AI Translation
+
+They ask about menstruation. Say, "It is harm — so keep apart from women during it and do not be intimate until they are purified. When they purify themselves, approach them as Allah has commanded. Allah loves those who turn to Him in repentance and those who keep themselves pure."
+
+## AI Tafsir
+
+**Context:** For instance, Al-Bukhari recorded that Ibn Al-Munkadir said that he heard Jabir say that the Jews used to claim that if one has sex with his wife from behind (in the vagina) the offspring would become cross-eyed.
+
+**What this ayah teaches:** Sexual Intercourse with Menstruating Women is prohibited Imam Ahmad recorded that Anas said that the Jews used to avoid their menstruating women, they would not eat, or even mingle with them in the house.
+
+**Classical tafsir:** Ibn Kathir notes: It indicates that in so far as the ultimate place (of penetration) is a 'soil' (which stands for the female vagina which is productive like a soil), one can elect whatever way he likes to reach this ultimate place.
+
+**From the Sunnah:** the Jews used to avoid their menstruating women, they would not eat, or even mingle with them in the house.
 ## Personal Reflections
 
 

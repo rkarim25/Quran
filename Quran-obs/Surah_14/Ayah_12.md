@@ -160,6 +160,15 @@ In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَك
 
 So, whatever good there is in gratitude, that is for you alone. There-fore, when you are asked to be grateful by Allah Ta’ ala, there is no gain for Him in doing so. In fact, it is His infinite mercy reaching out to you in your interest.
 
+## AI Translation
+
+Why should we not trust Allah when He has guided us to the best ways? We will patiently endure whatever harm you cause us. In Allah let the faithful put their trust."
+
+## AI Tafsir
+
+**What this ayah teaches:** So, whatever good there is in gratitude, that is for you alone.
+
+**Classical tafsir:** Ibn Kathir notes: those who reject the truth reject Prophethood because the Messengers were Humans!
 ## Personal Reflections
 
 

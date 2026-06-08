@@ -82,6 +82,15 @@ After this, in the first part of verse 28, it was said: يُرِ‌يدُ الل
 
 At the end, in the second part of verse 28, the text says: وَخُلِقَ الْإِنسَانُ ضَعِيفًا ،(And man has been created weak). It means that man is weak by nature, and constituted desire-prone. If man was asked to stay away from women, totally and absolutely, he would have been a hopeless performer when it came to obeying the injunctions of Allah. It was, in view of his weakness and limitations, that he was not only permitted to marry women, but also that he was induced to do so. It goes without saying that the post-marriage life of a couple offers great benefits of mutual self-realization and most of all they enjoy the blessings of a sight that is untainted and a character that is unalloyed. This mutual purity of the couple increases the moral quality of life for both of them, making them strong, self-reliant and happy. So, marriage is a smart mutual contract to remove any chances of weakness that may afflict men and. women - a peerless method indeed.
 
+## AI Translation
+
+And it is Allah’s Will to lighten your burdens, for humankind was created weak.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah wishes to make clear (what is lawful and what is unlawful) to you, and to show you the ways of those before you, and accept your repentance, and Allah is All-Knower, All-Wise (26)Allah wishes to accept your repentance, but those who follow their lusts, wish that you (believers) should deviate tremendously away (from the right path (27)Allah wishes to lighten (the burden)…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

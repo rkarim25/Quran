@@ -134,6 +134,15 @@ Allah says,
 
 As for the sense of: وَشَارِ‌كْهُمْ فِي الْأَمْوَالِ وَالْأَوْلَادِ (and share with them in their wealth and their children - 64), Sayyidna ` Abdullah ibn ` Abbas ؓ said: Wealth and property acquired by false, impermissible and unlawful means or spent on what is haram is the sharing of the Shaitan in it. As for the sharing of the Shaitan in children, it could either be through illegitimacy, or by naming them like disbelievers and polytheists, or by indulging in polytheistic customs to ensure their security, or by taking to Haram sources of income to bring them up. (Qurtubi)
 
+## AI Translation
+
+Or do you feel secure that He will not send you back to sea once again, and send upon you a violent storm, drowning you for your denial? Then you will find none to avenge you against Us.
+
+## AI Tafsir
+
+**What this ayah teaches:** Or do you feel secure that He will not send you back a second time to sea and send against you a Qasif and drown you because of your disbelief?
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "A helper who will avenge you," i.e., take revenge on your behalf. Qatadah said it means, "We are not afraid that anyone will pursue Us with anything of that nature (i.e., vengeance)."
 ## Personal Reflections
 
 

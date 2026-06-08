@@ -110,6 +110,17 @@ Allah the Exalted said,
 
 هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ (Is there any reward for goodness other than goodness?...55:60). Having described the two Gardens for the intimate believers, it is declared as a principle that a good deed attracts a good reward. The righteous believers will be blessed, therefore, with good rewards.
 
+## AI Translation
+
+Is the reward for ihsan—worshipping as though you see Allah—anything but ihsan?
+
+## AI Tafsir
+
+**What this ayah teaches:** The righteous believers will be blessed, therefore, with good rewards.
+
+**Classical tafsir:** Ibn Kathir notes: The righteous believers will be blessed, therefore, with good rewards.
+
+**From the Sunnah:** Paradise, men or women. (Sahih Muslim) Paradise as small as that occupied by the whip of one of you, is better than the world and whatever is on its surface. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

@@ -166,6 +166,17 @@ The jurists have pointed out that, according to the verse under comment, it is t
 
 يَا أَيُّهَا الَّذِينَ كَفَرُ‌وا لَا تَعْتَذِرُ‌وا الْيَوْمَ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ (0 those who disbelieve, do not make excuses today. You will only be recompensed for what you have been doing....66:7) After advising the general body of believers, the current verse turns attention to the non-believers who are asked not to try to make excuses, because they will not be accepted. They will be told that they are merely being repaid for what they did.
 
+## AI Translation
+
+O those who reject the truth, make no excuses this Day. You are only rewarded for what you used to do.
+
+## AI Tafsir
+
+**Context:** The word أَهْلِيكُمْ (your families) comprehends wife, children and slaves [ males as well as females ]. It is not inconceivable to include full-time servants in the imperative like slaves.
+
+**What this ayah teaches:** You will only be recompensed for what you have been doing....66:7) After advising the general body of believers, the current verse turns attention to the non-believers who are asked not to try to make excuses, because they will not be accepted.
+
+**Classical tafsir:** Ibn Kathir notes: You will only be recompensed for what you have been doing....66:7) After advising the general body of believers, the current verse turns attention to the non-believers who are asked not to try to make excuses, because they will not be accepted.
 ## Personal Reflections
 
 

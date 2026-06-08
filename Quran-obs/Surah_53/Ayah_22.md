@@ -146,6 +146,17 @@ If this is the case with the angels who are close to Him, how can you, O ignoran
 
 قِسْمَةٌ ضِيزَىٰ (If so, it is a totally unjust division.... 53:22) " Diza means to act or behave unjustly or to defraud one of one's right or due. Therefore, Sayyidna Ibn ` Abbas ؓ interprets the phrase as unjust or unfair division.
 
+## AI Translation
+
+That is a most unfair division.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah mentioned these three here because they were more famous than the others.
+
+**Classical tafsir:** Ibn Kathir notes: Allah mentioned these three here because they were more famous than the others.
+
+**From the Sunnah:** a statement from 'A'ishah with this meaning. (Sahih al-Bukhari) When he went back to the Prophet ﷺ and informed him of the story, the Prophet said to him, (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

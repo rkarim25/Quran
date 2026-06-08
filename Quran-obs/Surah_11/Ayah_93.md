@@ -170,6 +170,17 @@ verse of the Qur'an: تِسْعَةُ رَ‌هْطٍ يُفْسِدُونَ ف�
 
 During the Khilafah of Sayyidna ` Umar ibn ` Abd al-` Aziz (رح) ، someone was arrested while he was cutting a dirham coin. He was awarded a punishment of lashes and was paraded around head shaved. (Tafsir al Qurtubi)
 
+## AI Translation
+
+O my people! Persist in your ways, for I too will persist in mine. You will soon come to know who will be visited by a humiliating torment and is a liar! And watch! I too am watching with you!”
+
+## AI Tafsir
+
+**What this ayah teaches:** You will come to know who it is on whom descends the torment that will cover him with ignominy, and who is a liar!
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** There is a consensus of the entire Muslim Ummah that doing so is strictly Haram (unlawful). (Sahih Muslim)
 ## Personal Reflections
 
 

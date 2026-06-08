@@ -150,6 +150,15 @@ An oath sworn to deceive someone may cause forfeiture of Faith ('Iman)
 
 Verse 94 which begins with the words: وَلَا تَتَّخِذُوا أَيْمَانَكُمْ دَخَلًا (do not take your oaths as a means of mischief) gives yet another instruction to stay away from getting involved in what is a great sin laden with evil consequences. It means that anyone who at the very time of taking an oath harbours other ideas and intentions, is all set to act counter to the oath taken while going through the exercise of oath-taking merely to deceive the other party, then, this would be an act far more dangerous than that of breaking a common oath. As a result, the danger is that this person may end up being all deprived of the very asset of'Iman (faith). The sentence which follows immediately, that is: فَتَزِلَّ قَدَمٌ بَعْدَ ثُبُوتِهَا (lest a foot should slip after it is firmly placed - 94), means exactly this. [ Qurtubi ]
 
+## AI Translation
+
+And do not take your oaths as a means of deceiving one another or your feet will slip after they have been firm. Then you will taste the evil consequences of hindering others from the Way of Allah, and you will suffer a tremendous punishment.
+
+## AI Tafsir
+
+**What this ayah teaches:** But you shall certainly be called to account for what you used to do (93)And do not make your oaths a means of deception among yourselves, resulting in the slip of a foot after it was firmly planted, and you taste the evil of having hindered from the path of Allah, and you will suffer a terrible punishment (94)And do not use an oath by Allah for the purchase of little value, wh…
+
+**Classical tafsir:** Ibn Kathir notes: This is an analogy describing one who was on the right path but then deviated and slipped from the path of guidance because of an unfulfilled oath that involved hindering people from the path of Allah.
 ## Personal Reflections
 
 

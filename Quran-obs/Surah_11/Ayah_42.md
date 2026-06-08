@@ -170,6 +170,15 @@ Dust, air, water and fire are all 'servants'
 
 For you and me, dead, but with Him, live.
 
+## AI Translation
+
+And so the Ark sailed with them through waves like mountains. Noah called out to his son, who stood apart, “O my dear son! Come aboard with us and do not be with those who reject the truth.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Yes, their consciousness and perception are not of a level as given to humankind and others, therefore, by declaring them to be inanimate, they were not obligated with the percepts and injunctions of the Shari'ah.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, he (Nuh) mentions that His Lord is Oft Forgiving, ar-Rahim.
 ## Personal Reflections
 
 

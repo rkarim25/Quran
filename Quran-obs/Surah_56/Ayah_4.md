@@ -158,6 +158,15 @@ Therefore, those who rush to obey Allah in this life and are foremost in perform
 
 خَافِضَةٌ رَّ‌افِعَةٌ (It will be abasing [ some ], exalting [ others ]...56:3). The verse means that the 'Inevitable Event' referred to in the previous verse will bring about a great revolution in the lives of men, as is witnessed at the time of revolution of governments. The high and the mighty will be laid low and the despised and down-trodden will be exalted; the poor become rich and the rich become poor. This is how Sayyidna Ibn ` Abbas ؓ interprets this statement. The purpose is to depict the horrors of the Day of Resurrection.
 
+## AI Translation
+
+When the earth is shaken with a violent shake,
+
+## AI Tafsir
+
+**What this ayah teaches:** When the earth will be shaken with a terrible shake.)(5.
+
+**Classical tafsir:** Ibn Kathir notes: They are the chiefs of those on the right side, because they include the Messengers, Prophets, true believers and martyrs.
 ## Personal Reflections
 
 

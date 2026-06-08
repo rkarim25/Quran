@@ -254,6 +254,17 @@ The following instructions from the Holy Prophet ﷺ given to the Companions goi
 
 When Sayyidna Abu Bakr al-Siddiq ؓ sent Yazid ibn Abi Sufyan ؓ to Syria, he gave him the same instructions. Also added there is the prohibition of killing the religiously-devoted, the monks and priests, and the labourers employed by disbelievers, especially when they do not take part in fighting (Qurtubi).
 
+## AI Translation
+
+Fight in Allah's cause against those who fight you, but do not exceed the limits. Allah does not love transgressors.
+
+## AI Tafsir
+
+**Context:** Abu Al-'Aliyah said, "This was the first Ayah about fighting that was revealed in Al-Madinah. Ever since it was revealed, Allah's Messenger ﷺ used to fight only those who fought him and avoid non-combatants.
+
+**What this ayah teaches:** Such is the recompense of the those who reject the truth (191)But if they cease, then Allah is Oft-Forgiving, ar-Rahim (192)And fight them until there is no more Fitnah (disbelief and worshipping of others along with Allah) and the religion (all and every kind of worship) is for Allah (Alone).
+
+**Classical tafsir:** Ibn Kathir notes: Truly, Allah likes not the transgressors.) This Ayah means, 'Fight for the sake of Allah and do not be transgressors,' such as, by committing prohibitions.
 ## Personal Reflections
 
 

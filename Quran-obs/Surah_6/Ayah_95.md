@@ -206,6 +206,15 @@ Then, it was said: يُخْرِ‌جُ الْحَيَّ مِنَ الْمَيِ�
 
 After that, it was said: ذَٰلِكُمُ اللَّـهُ ۖ فَأَنَّىٰ تُؤْفَكُونَ (That is Allah. Whereto, then, are you straying away?). In other words, the sense is that all these things have been done by Allah Ta` ala alone, yet here you are knowlingly straying away to strange directions, such as, taking self-carved idols as your removers of difficulties and fulfillers of needs and thus the objects of your worship.
 
+## AI Translation
+
+Indeed, Allah is the One Who causes seeds and fruit stones to sprout. He brings forth the living from the dead and the dead from the living. That is Allah! How can you then be deluded ?
+
+## AI Tafsir
+
+**What this ayah teaches:** Such is Allah, then how are you deluded away from the truth (95)(He is the) Cleaver of the daybreak.
+
+**Classical tafsir:** Ibn Kathir notes: The ` dead' or lifeless refers to cell or egg which serves to create human and animal life forms.
 ## Personal Reflections
 
 

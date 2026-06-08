@@ -136,6 +136,19 @@ This is also as required by the general exegetic rule under which a commentator 
 
 A similar promise has been made for Muhajirin in the following verse of Surah An-Nisa' وَمَن يُهَاجِرْ‌ فِي سَبِيلِ اللَّـهِ يَجِدْ فِي الْأَرْ‌ضِ مُرَ‌اغَمًا كَثِيرً‌ا وَسَعَةً [ And whoever migrates in the way of Allah he shall find many a place to settle and wide dimension (of resources) - 4:100] particularly promised wherein are spatial abundance and extensive means. But, along with these promises, the Holy Qur'an has also put forth some qualifications of Muhajirin and some conditions of Hijrah as well. Therefore, those deserving of the fulfillment of these promises can only be the Muhajirin who possess these qualifications and who have satisfied the desired conditions.
 
+## AI Translation
+
+As for those who emigrated in the cause of Allah after being persecuted, We will surely bless them with a good home in this dunya. But the reward of the Akhirah is far better, if only they knew.
+
+## AI Tafsir
+
+**Context:** Allah tells us about the reward of those who migrated for His sake, seeking His pleasure, those who left their homeland behind, brothers and friends, hoping for the reward of Allah.
+
+**What this ayah teaches:** To bless them with the greater reward of the Hereafter which is limitless.
+
+**Classical tafsir:** Ibn Kathir notes: This may have been revealed concerning those who migrated to Ethiopia, those whose persecution at the hands of their own people in Makkah was so extreme that they left them and went to Ethiopia so that they would be able to worship their Lord.
+
+**From the Sunnah:** Among the most prominent of these migrants were 'Uthman bin 'Affan and his wife Ruqayyah, the daughter of the Messenger of Allah ﷺ, Ja'far bin Abi Talib, the cousin of the Messenger ﷺ, and Abu Salamah bin 'Abdul-Asad, among a group of almost eighty sincere and…
 ## Personal Reflections
 
 

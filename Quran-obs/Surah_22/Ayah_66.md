@@ -158,6 +158,15 @@ Commentary
 
 سَخَّرَ‌ لَكُم مَّا فِي الْأَرْ‌ضِ (Allah has subjugated to you whatever there is on the earth - 22:65) It means that everything on this earth has been placed under the control of man. This raises the question that the mountains, rivers, beasts and birds and thousands of similar objects do not follow the commands of man. But placing something in the service of someone is also like putting it under his control, and in this verse the word Taskhir (subjugation) has been used to mean ` to serve'. The verse therefore means that all the things mentioned above are all the time working in the service of man by the command of Allah. It was quite within the power of Allah Ta’ ala to have placed all these things under the control of man, but in such a situation man himself would have been the loser, because human natures, desires and needs differ. If a person ordered the river to divert towards a particular direction, and some other person ordered to the contrary, the result would have been utter chaos and confusion. Therefore, Allah Ta’ ala has retained with Him alone the command of these things, but the benefits to be derived from them accrue to human beings.
 
+## AI Translation
+
+And He is the One Who gave you life, then will cause you to die, and then will bring you back to life. But surely humankind is ever ungrateful.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, Allah is for mankind, full of kindness, ar-Rahim (65)It is He, Who gave you life, and then will cause you to die, and will again give you life. In the raging sea with its tempestuous waves, the ships sail gently with their passengers and carry them wherever they want to go for trading and other purposes from one land to another, so that they bring goods from here to there, or vice ver…
+
+**Classical tafsir:** Ibn Kathir notes: The verse therefore means that all the things mentioned above are all the time working in the service of man by the command of Allah.
 ## Personal Reflections
 
 

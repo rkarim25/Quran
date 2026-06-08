@@ -185,6 +185,17 @@ The Fourth Bequest of Luqman about the Betterment of People
 
 Islam is a collective religion. Betterment of the community, along with the betterment of the individual, is an important part of its social system. Therefore, the duty of Bidding the Fair and Forbidding the Unfair (amr bi 'l-ma` ruf and nahy 'ani 'l-munkar) was mentioned along with as important a duty as the Salah. It was said: وَأْمُرْ‌ بِالْمَعْرُ‌وفِ وَانْهَ عَنِ الْمُنكَرِ‌ (and bid the Fair and forbid the Unfair -17). Here are two duties: (1) Make yourself better and (2) make others better. Both need a lot of restraint and hard work. Facing these difficulties and remaining firm is no easy task. Particularly so, when those who stand to serve people by telling them what is good for them receive nothing but opposition and hostility in return. Therefore, while making this recommendation, it was also recommended: وَاصْبِرْ‌ عَلَىٰ مَا أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ‌ (and observe patience on what befalls you. Surely, this is among the matters of determination - 17).
 
+## AI Translation
+
+My dear son, establish salah, command what is right, forbid what is wrong, and bear sabr — steadfast endurance that keeps you upright — over whatever befalls you. That is a resolve worth holding.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, this is among the matters of determination - 17).
+
+**Classical tafsir:** Ibn Kathir notes: And whosoever does evil equal to the weight of a speck of dust shall see it.)(99:7-8) Even if this tiny thing were to be hidden inside a solid rock or anywhere in the heavens and the earth, Allah will bring it forth, because nothing is hidden from Him, not even the weight of a sp…
+
+**From the Sunnah:** Likening a loud voice to that of a donkey implies that it is forbidden and extremely blameworthy, because the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

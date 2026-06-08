@@ -251,6 +251,17 @@ This is the end of the Tafsir of Surat Al-Hashr. All praise is due to Allah.
 
 الْمُتَكَبِّرُ‌ The attribute Al-Mutakabbir [ the Lord of Greatness ] is derived from takabbur and that from kibriya' meaning 'greatness' which is one of the peculiar characteristics of Allah. It implies that every greatness is attributable only to Allah who is not in need of anyone. Whoever is in need cannot be great. Therefore, if this word is used for a person other than Allah, it is a defect and sin, because the claim of greatness by a person who is not actually great is false and tantamount to a claim of being a partner of Allah, the Besought of all, in one of His exclusive attributes. That is why the word Al-Mutakabbir, when attributed to Allah is an attribute of perfection, but in respect of others it is no more than a false claim.
 
+## AI Translation
+
+He is Allah—there is no god except Him: the King, the Most Holy, the All-Perfect, the Source of Serenity, the Watcher, the Almighty, the Supreme in Might, the Majestic. Glorified is Allah far above what they associate with Him in worship.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, none except Allah is able to measure, bring forth and create whatever He wills to come to existence.
+
+**Classical tafsir:** Ibn Kathir notes: In one of the narrations for this Hadith, Al-Hasan Al-Basri said after narrating the Hadith, "You – mankind – are more worthy to miss the Messenger of Allah ﷺ than the tree trunk!" Likewise, this honorable Ayah asks that if the solid mountains feel humble and are rent asunder from the fear of Allah,… It could also be derived from the word jabr, meaning to 'join broken bones' and thus we have the wor…
+
+**From the Sunnah:** So, when the Minbar was made and placed in the Masjid, the Prophet ﷺ came to deliver a speech and passed the tree trunk, headed towards the Minbar, the tree trunk started weeping, just like an infant.
 ## Personal Reflections
 
 

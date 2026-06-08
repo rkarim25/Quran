@@ -164,6 +164,19 @@ Ruling
 
 By saying إِنِّي قَرِ‌يبٌ (I am near) in this verse, it has been hinted that prayer should be made slowly and quietly; to raise voice while praying is not desirable. This is confirmed by the background in which this verse was revealed. According to Ibn Kathir, a visitor from a village asked the Holy Prophet ﷺ : "Tell me if our Lord is near us, then we shall pray in a lowered voice; and if He is far, we shall call Him with raised voices." Thereupon, this verse was revealed.
 
+## AI Translation
+
+When My servants ask you about Me — I am near. I respond to the caller when he calls upon Me. So let them respond to Me and believe in Me, so they may be guided.
+
+## AI Tafsir
+
+**Context:** By saying إِنِّي قَرِ‌يبٌ (I am near) in this verse, it has been hinted that prayer should be made slowly and quietly; to raise voice while praying is not desirable.
+
+**What this ayah teaches:** The One Whom you call is closer to one of you than the neck of his animal.
+
+**Classical tafsir:** Ibn Kathir notes: So let them obey Me and believe in Me, so that they may be led aright .
+
+**From the Sunnah:** This Hadith was also recorded in the Two Sahihs, and Abu Dawud, An-Nasa'i, At-Tirmidhi and Ibn Majah recorded similar wordings. (Musnad Ahmad, Jami' at-Tirmidhi) Abu Sa'id saying that the Prophet ﷺ said: (Musnad Ahmad)
 ## Personal Reflections
 
 

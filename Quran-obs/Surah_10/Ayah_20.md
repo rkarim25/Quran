@@ -152,6 +152,17 @@ Then, it is also obvious that there is a long period of time between Sayyidna Ad
 
 Of course, when Kufr and Shirk spread out and posed a threat to 'Iman or true belief, Kafirs and Mushriks were declared to be a separate community of people as indicated in: فَاخْتَلَفُوا (later, they differed). Another verse of the Holy Qur'an: هُوَ الَّذِي خَلَقَكُمْ فَمِنكُمْ كَافِرٌ‌ وَمِنكُم مُّؤْمِنٌ is He who created you; yet there is among you a disbeliever and there is among you a believer - At-taghabun, 64:2) makes it more explicit. It tells that the thing that separates the progeny of Sayyidna Adam (علیہ السلام) created by Allah into different peoples is the deviation from 'Iman and Islam. Bonds of lineage or country do not make people separate. Bracketing human beings into different groups on the basis of language, homeland, color or race is ignorance dished out in the garb of enlightenment. It is new. But everything new is not necessarily true and wise. In fact, it might as well be the exact opposite of what is wise. Today, there are many educated people who have also fallen into the trap of this narrow concept of nationalism based on the factors enumerated above. Unfortunately, this approach towards ordering the social life of human beings is fraught with seeds of countless unseen disasters. May Allah keep Muslims safe from its evil effects.
 
+## AI Translation
+
+They ask, “Why has no other sign been sent down to him from his Rabb?” Say, O Prophet, “The knowledge of the unseen is with Allah alone. So wait! I too am waiting with you.”
+
+## AI Tafsir
+
+**Context:** These stubborn, lying those who reject the truth said, "Why would not a sign be revealed to Muhammad from his Lord." They meant a sign such as given to Salih. Allah sent the she-camel to Thamud.
+
+**What this ayah teaches:** The Idolators requested a Miracle These stubborn, lying those who reject the truth said, "Why would not a sign be revealed to Muhammad from his Lord." They meant a sign such as given to Salih.
+
+**Classical tafsir:** Ibn Kathir notes: The Idolators requested a Miracle These stubborn, lying those who reject the truth said, "Why would not a sign be revealed to Muhammad from his Lord." They meant a sign such as given to Salih.
 ## Personal Reflections
 
 

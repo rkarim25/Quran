@@ -78,6 +78,17 @@ Other exegetes have interpreted the phrases وَجْهُ رَ‌بِّكَ 'your
 
 ذُو الْجَلَالِ وَالْإِكْرَ‌امِ (...full of majesty, full of honour...55:27). In other words, the Lord is the Master of Greatness, Grandeur and Tremendousness. This is Allah's Majesty that overwhelms His creation and fills them with awe. The Lord is also the Master of Honour, signifying that those who benefit by the great favours Allah has bestowed upon them and walk in the path of truth and righteousness will be granted more favours by the Lord of Honour. Despite being the Lord of Greatness and Majesty, Allah is not like the worldly kings and rulers who would not pay attention to others or the indigent people. He grants their petition and invocation. The next verse [ to be analysed in the forthcoming paragraph ] bears testimony to this interpretation. The current phrase under discussion constitutes one of those special Attributes of Allah which if a suppliant were to invoke before calling upon Allah for help, protection, inspiration and a host of other things, the supplication will be readily granted as recorded in Tirmidhi, Nasa'i and Musnad of Ahmad. Ibn ` Amir, has transmitted that the Messenger of Allah ﷺ said: اَلِظُّوا بِیَا ذَا الجَلَال وَالاِکرَام (Persist [ in invoking Allah ] with '0 Lord of Majesty and Honour'." The imperative alizzu is derived from the infinitive ilzaz which means 'to continue firmly in some course of action'. [ Mazhari ]
 
+## AI Translation
+
+So which of your Rabb's favours will you both—humans and jinn—deny?
+
+## AI Tafsir
+
+**What this ayah teaches:** Whatsoever is on it (the earth) will perish (26)And the Face of your Lord Dhul-Jalal wal-Ikram will remain forever (27)Then which of the blessings of your Lord will you both deny (28)Whosoever is in the heavens and on the earth begs of Him.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "First, Allah mentioned His creatures and then He said that all of this will perish." And in the reported supplication: 'O You the Ever Living Who sustains all that exists! The phrase 'what is with you' refers to 'wealth and power, comfort and discomfort, love and hatred'.
+
+**From the Sunnah:** The attached second person pronoun in rabb-i-ka [=your Lord ] refers to the Messenger of Allah ﷺ . : اَلِظُّوا بِیَا ذَا الجَلَال وَالاِکرَام (Persist [ in invoking Allah ] with '0 Lord of Majesty and Honour'. (Jami' at-Tirmidhi, Sunan an-Nasa'i)
 ## Personal Reflections
 
 

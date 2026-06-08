@@ -107,6 +107,17 @@ Repel evil with that which is best - 23:96
 
 Allah instructs the Holy Prophet ﷺ to counter evil with good, oppression with justice and cruelty with mercy. These virtues of conduct have been taught by Allah to the Holy Prophet ﷺ and are generally observed in settling affairs among the Muslims. Later on these instructions were repealed in so far as the infidels and the unbelievers were concerned when Allah permitted Muslims to embark on (Jihad). Nevertheless even during Jihad the Muslims were told to adopt a humane approach towards the enemy. For example they were forbidden to kill women and children or the priests who did not engage in battle against the Muslims. Similarly, mutilation of the dead bodies of enemies was strictly forbidden. It is for this reason that the Holy Prophet ﷺ is instructed in the next verse to seek protection from Shaitan's evil suggestions even in the battle fields where he may arouse emotions to act against ethics.
 
+## AI Translation
+
+Respond to evil with what is best. We know well what they claim.
+
+## AI Tafsir
+
+**What this ayah teaches:** It is for this reason that the Holy Prophet ﷺ is instructed in the next verse to seek protection from Shaitan's evil suggestions even in the battle fields where he may arouse emotions to act against ethics.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** If You would show me that with which they are threatened.) meaning, 'if You punish them while I am witnessing that, then do not cause me to be one of them.' As was said in the Hadith recorded by Imam Ahmad and At-Tirmidhi, who graded it Sahih: (Musnad Ahmad, Jami' at-Tirmidhi) We have already stated, when discussing Isti'adhah (seeking refuge), that the Messenger of Allah ﷺ used to say,
 ## Personal Reflections
 
 

@@ -195,6 +195,17 @@ Availability of all types of produce in Haram of Makkah is a special Divine gift
 
 Allah Ta` ala chose Makkah Mukkarramah, out of the whole world, to establish the Ka'bah and Haram. In terms of its environment and geography it is a region where, under the normal circumstances, hardly any economic or commercial goods and activity should have existed. Even the basic staple agricultural products like wheat, rice, gram and sundry cereals were not cultivated before on a significant scale, let alone its and variety of vegetables. Though, in recent years there has been some emphasis from the Saudi Government toward their cultivation. Yet, everything is available there in such an abundance that one gets amazed. During the period of hajj some two million people are drawn from all over the world and stay there for an average of one month. It has never been heard that any scarcity of food items was ever experienced there. On the contrary, everyone can witness that cooked and prepared food to cater for all types of races and people is readily available all the time. If we ponder over Qur'anic words, which say ثَمَرَ‌اتُ كُلِّ شَيْءٍ (fruits of everything), a question arises that fruits are the product of trees, so it would have been apt to say ثَمَرَ‌اتُ كُلِّ شَجر (fruits of every tree) rather than ثَمَرَ‌اتُ كُلِّ شَيْءٍ (fruits of everything). Therefore, it is quite likely that the word 'everything' used here, encompasses the produce and products of all kind, including agricultural produce. For instance, the produce of industrial factories is also their fruit. Hence, the gist of the discussion is that not only food items but also all sorts of things of human need would be made available in Makkah. Any one visiting Makkah, either for hajj or ` umrah, can confirm that everything produced anywhere in the world is readily available there. This was one reply to the excuse put forward by the infidels of Makkah, and the gist of the reply was that the Lord who had been so kind to them that He had made available all the bounties of the world in their city, despite the fact that they are not produced there, and who had made the city completely free of risk and danger, it is the worst kind of ignorance to presume about Him that He would deprive them of these benefits if they would believe in Him.
 
+## AI Translation
+
+They say to the Prophet, “If we were to follow true guidance with you, we would certainly be snatched away from our land.” Have We not established for them a safe haven in Mecca to which fruits of all kinds are brought as a provision from Us? But most of them do not know this favour.
+
+## AI Tafsir
+
+**Context:** (Verily, you guide not whom you like, but Allah guides whom He wills. And He knows best those who are the guided.) meaning: Allah knows best who deserves to be guided and who deserves to be misguided.
+
+**What this ayah teaches:** And He knows best those who are the guided (56)And they say: "If we follow the guidance with you, we would be snatched away from our land." Have We not established for them a secure sanctuary, to which are brought fruits of all kinds, a provision from Ourselves, but most of them know not .
+
+**Classical tafsir:** Ibn Kathir notes: Az-Zuhri said: "Sa'id bin Al-Musayyib narrated to me that his father, Al-Musayyib bin Hazan Al-Makhzumi, may Allah be pleased with him, said: "When Abu Talib was dying, the Messenger of Allah ﷺ came to him and found Abu Jahl bin Hisham and 'Abdullah bin Abi Umayyah bin Al-Mughirah with him.
 ## Personal Reflections
 
 

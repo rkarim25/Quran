@@ -184,6 +184,17 @@ Commentary
 
 However, in the present context it is used for Hudaibiyah, because of its close proximity to Makkah. This supports the Hanafi view that some parts of Hudaibiyah are included in the حِرِم Haram. The relevant details may be found in our commentary on the verse 2:196.
 
+## AI Translation
+
+He is the One who held their hands back from you and your hands back from them in the valley of Makkah, after He had given you the upper hand over them. Allah sees everything you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** And you will not find any change in the way of Allah (23)And He it is Who has withheld their hands from you and your hands from them in the midst of Makkah, after He had made you victors over them.
+
+**Classical tafsir:** Ibn Kathir notes: Al-'Awfi reported that Ibn 'Abbas said that it refers to the conquest of Khaybar. Qatadah said that this part of the Ayah refers to the conquest of Makkah, and this opinion was preferred by Ibn Jarir.
+
+**From the Sunnah:** Good News of continuous Muslim Victories until the Day of Resurrection (Sahih Muslim) that Ibn 'Abbas commented on the Ayah, (Sunan Abi Dawud)
 ## Personal Reflections
 
 

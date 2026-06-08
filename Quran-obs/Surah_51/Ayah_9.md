@@ -130,6 +130,15 @@ Allah the Exalted said,
 
 يُؤْفَكُ عَنْهُ مَنْ أُفِكَ (Turned away from this (Qur'an) is the one who is turned away 51:9). The word 'ufik literally denotes to turn away. The pronoun in ` anhu has two possibilities: [ 1] it could be referring to Qur'an and Rasul. In this case, the verse would mean that only that person turns away from the Qur'an who has been destined to be deprived of their guidance. And [ 2] the pronoun could be referring to the 'contradictory statement' in which case the meaning would be: he who turns away from the truth because of your discordant thoughts, is the one deprived of truth.
 
+## AI Translation
+
+Only those already destined to stray are turned away from it.
+
+## AI Tafsir
+
+**What this ayah teaches:** Turned aside therefrom is he who is turned aside.)(10.
+
+**Classical tafsir:** Ibn Kathir notes: Certainly, you have different ideas.)(9.
 ## Personal Reflections
 
 

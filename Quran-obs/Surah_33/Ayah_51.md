@@ -261,6 +261,19 @@ At the end of this injunction the Holy Qur'an has declared:
 
 The context of the foregoing and forthcoming verses is the mention of the rules peculiar to the Holy Prophet ﷺ in the matter of marriage. In between these rules, the statement that Allah knows whatever lies in your hearts and Allah is All-Knowing, All-Wise does not appear to bear any nexus with the subject. It is stated in Ruh ul-Ma’ ani that the permission given to the Holy Prophet ﷺ to marry more than four wives or to marry without dower could have created satanic scruples in somebody's mind. So, this verse, coming in between, has directed that Muslims have to guard themselves against such suspicions and scruples and have to firm up their faith that all these exclusive exemptions are given by Allah Almighty on the basis of His infinite wisdom and expedience, and that the selfish desires have no room here.
 
+## AI Translation
+
+It is up to you O Prophet to delay or receive whoever you please of your wives. There is no blame on you if you call back any of those you have set aside. That is more likely that they will be content, not grieved, and satisfied with what you offer them all. Allah fully knows what is in your hearts. And Allah is All-Knowing, Most Forbearing.
+
+## AI Tafsir
+
+**Context:** Al-Bukhari recorded that 'A'ishah said: "The Messenger of Allah ﷺ used to ask permission of us (for changing days) after this Ayah was revealed: This Hadith indicates that what is meant in this Hadith from 'A'ishah is th…
+
+**What this ayah teaches:** If you wish, you may divide you time and if you do not wish, you need not divide your time, there is no sin on you no matter which you do.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** that 'A'ishah, may Allah be pleased with her, used to feel jealous of the women who offered themselves to the Prophet ﷺ.
 ## Personal Reflections
 
 

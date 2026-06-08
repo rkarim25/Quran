@@ -208,6 +208,19 @@ A discussion of the word Hanif has already been mentioned previously and in Sura
 
 Verse [ 5] وَذَٰلِكَ دِينُ الْقَيِّمَةِ (And that is the way of the straight religion.) The word qayyimah [ the straight ] is apparently the qualifier of the noun kutub [ Books ] which occurred earlier. Some treat the adjective as qualifying the noun millah [ religion ]. The verse purports to say that Allah commanded the People of the former Scriptures that they should render full and sincere obedience to Divine commandments, that is, to worship Allah alone. They should also establish the regular prayers and pay the obligatory alms. Then the Qur'an reminds them that this is not their distinctive feature exclusively. All former religions that are upright and received Books from Allah have the same features. This is the true religion of all the Prophets (علیہم السلام) that they preached to their respective people. It would appear that the phrase hutubun qayyimah [(right and) straight writings ], contextually, refers to the Qur'anic ordinances and injunctions. From this point of view, the verse would signify that the ordinances and injunctions of the Shari` ah of the Holy Prophet Muhammad ﷺ are exactly the same as those that were given to them in their revealed Scriptures. They were not divergent so that they could find a pretext to oppose.
 
+## AI Translation
+
+They were commanded only to worship Allah with sincere devotion, establish salah, and give zakat. That is the upright deen.
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you but We revealed to him: La ilaha illa Ana.)(21:25)
+
+**What this ayah teaches:** The verse purports to say that Allah commanded the People of the former Scriptures that they should render full and sincere obedience to Divine commandments, that is, to worship Allah alone. And the People of the Scripture differed not until after there came to them the Bayyinah.)(5.
+
+**Classical tafsir:** Ibn Kathir notes: It would appear that the phrase hutubun qayyimah [(right and) straight writings ], contextually, refers to the Qur'anic ordinances and injunctions.
+
+**From the Sunnah:** from Anas bin Malik that the Messenger of Allah ﷺ said to Ubayy bin Ka'b, (Musnad Ahmad) this Hadith from Shu'bah. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

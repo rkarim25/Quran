@@ -216,6 +216,17 @@ Guidance has Degrees, the Last being the Entry into Paradise
 
 Imam Raghib al-Isfahani (رح) ، who has explained Hidayah or guidance in a comprehensive manner as it appears in the Holy Qur'an, has said that guidance is a popular term but it has different degrees. The truth of the matter is that guidance is another name of finding the way to reach Allah Ta` ala. Therefore, the degrees of achieving nearness to Allah are many and different and unending. Similarly, the degrees of guidance too are extremely varied and different from each other. The lowest degree of guidance is deliverance from Kufr and Shirk, and having 'Iman. One on this degree of guidance has his or her orientation changed, away from the path of error - towards Allah. Then, there is the distance between Allah Ta` ala and His servants. This distance takes a journey to cover - and every stage so covered has degrees, which is called Hidayah or guidance. Therefore, guidance is a need. At no time, can anyone claim not to need it, not even prophets and messengers of Allah. For this reason, the Holy Prophet ﷺ ، not only taught his people the lesson of: اهْدِنَا الصِّرَ‌اطَ الْمُسْتَقِيمَ ﴿6﴾ (Guide us in the straight path), but he himself kept making this prayer - because there is no end to the stages and ranks of nearness to Allah, so much so, that entry into the Paradise mentioned in this verse has been identified as Hidayah or guidance, for this is the last station of Hidayah.( Those interested in reading more about the implications, meaning and degrees of guidance may see Ma'ariful-Qur'an, English Translation, Vol.I, pages 72-77)
 
+## AI Translation
+
+The residents of Paradise will call out to the residents of the Fire, “We have certainly found our Rabb’s promise to be true. Have you too found your Rabb’s promise to be true?” They will reply, “Yes, we have!” Then a caller will announce to both, “May Allah’s condemnation be upon the wrongdoers, those who hindered from Allah’s Way, strived to make it crooked, and disbelieved in the Akhirah.”
+
+## AI Tafsir
+
+**What this ayah teaches:** The purpose is to emphasize that good deeds - which is a condition for entry into Paradise - is really not something so difficult as would be beyond the ability of a man or woman.
+
+**Classical tafsir:** Ibn Kathir notes: They sought to make Allah's path appear crooked and winding, so that no one would follow it.
+
+**From the Sunnah:** The Messenger of Allah ﷺ admonished the inhabitants of the well at Badr: Instead of that, in accordance with a Hadith in al-Bukhari and Muslim, this payment will be made in the currency of deeds. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

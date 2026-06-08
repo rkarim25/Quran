@@ -80,6 +80,15 @@ After Allah mentioned the sins of the hypocrites, He praised the faithful believ
 
 The expression: اُولُوا الطَّولِ (ulu 'at-caul: translated as ` the capable ones' ) (86) is not for particularization. Instead, it serves a purpose. It tells that there were others too, the ones not so capable. And the incapable ones had, at least, some obvious excuse to stay behind.
 
+## AI Translation
+
+Allah has prepared for them Gardens under which rivers flow, to stay there forever. That is the ultimate triumph.
+
+## AI Tafsir
+
+**What this ayah teaches:** Such are they for whom are the good things, and it is they who will be successful (88)For them Allah has prepared Gardens (Paradise) under which rivers flow, to dwell therein forever.
+
+**Classical tafsir:** Ibn Kathir notes: This describes the qualities, as well as, the reward of faithful believers.
 ## Personal Reflections
 
 

@@ -110,6 +110,15 @@ Ruling:
 
 The angel of death does not know the time of anyone's death in advance - until he is ordered to exact the soul of a certain person. (Deduced by Ahmad and Ibn Abi ad-Dunya from Ma'mar, Mazhari)
 
+## AI Translation
+
+Say, O Prophet: The angel of death, who is set over you, will take your souls. Then to your Rabb you will all be returned.
+
+## AI Tafsir
+
+**What this ayah teaches:** In some reports he (the angel of death) is called 'Izra'il, which is well known.
+
+**Classical tafsir:** Ibn Kathir notes: But, some other reports show that this exacting of the soul is particular to human beings - because of their nobility and distinction.
 ## Personal Reflections
 
 

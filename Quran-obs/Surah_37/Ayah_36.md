@@ -117,6 +117,17 @@ Similarly, they are described here as saying:
 
 2. From verse 33: فَإِنَّهُمْ يَوْمَئِذٍ فِي الْعَذَابِ مُشْتَرِ‌كُونَ (So, this day, they will be sharers in the punishment.), we learn that should a certain person invite someone else to participate in what is impermissible and use his clout to coax him into sin, then, he will certainly incur the punishment of so inviting that person to sin. But, a person who accepts his invitation of his volition and choice, he too cannot be absolved from the sin of his deed. He cannot appear in the Hereafter and get away by saying that he was made to go astray by this or that person. Yes, if he has not committed sin by his volition and choice, instead, has done so under coercion, just to save his life, then, insha'Allah, it is hoped that he will be forgiven.
 
+## AI Translation
+
+and argued, "Should we really abandon our gods for a mad poet?"
+
+## AI Tafsir
+
+**Context:** (I have been commanded to fight the people until they say La ilaha ill-Allah. Whoever says La ilaha illallah, he and his property are safe from me except for his obligation, and his reckoning will be with Allah, may He b…
+
+**What this ayah teaches:** And (they) said: "Are we going to abandon our gods for the sake of a mad poet?") meaning, 'Shall we stop worshipping our gods and the gods of our forefathers just because of the words of this mad poet?' – meaning the Messenger of Allah ﷺ.
+
+**Classical tafsir:** Ibn Kathir notes: And (they) said: "Are we going to abandon our gods for the sake of a mad poet?") meaning, 'Shall we stop worshipping our gods and the gods of our forefathers just because of the words of this mad poet?' – meaning the Messenger of Allah ﷺ.
 ## Personal Reflections
 
 

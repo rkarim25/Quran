@@ -99,6 +99,15 @@ Allah says to His Messenger, while comforting him in facing his people's denial 
 
 it was said to comfort him: وَلَقَدِ اسْتُهْزِئَ بِرُ‌سُلٍ مِّن قَبْلِكَ فَأَمْلَيْتُ لِلَّذِينَ كَفَرُ‌وا ثُمَّ أَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ عِقَابِ (And Messengers have been mocked at before you, so I let the disbelievers go on for a while. Then I seized them. So, how was My punishment?) In other words, it means that conditions faced by the Holy Prophet were not faced by him alone. There were prophets before him who had been facing similar conditions when their deniers were not seized immediately upon the commitment of their crime and they continued to make fun of the prophets. When they reached the limit, they were seized by Divine punishment and what a seizure that was which left none of them active enough to go on with their confrontation.
 
+## AI Translation
+
+Messengers before you were mocked too. I gave respite to those who rejected, then seized them. How severe was My punishment!
+
+## AI Tafsir
+
+**What this ayah teaches:** And indeed (many) Messengers were mocked at before you but I granted respite to those who disbelieved, and finally I punished them. When they reached the limit, they were seized by Divine punishment and what a seizure that was which left none of them active enough to go on with their confrontation.
+
+**Classical tafsir:** Ibn Kathir notes: So, how was My punishment?) In other words, it means that conditions faced by the Holy Prophet were not faced by him alone.
 ## Personal Reflections
 
 

@@ -183,6 +183,19 @@ In verse 89, by saying: وَنَزَّلْنَا عَلَيْكَ الْكِتَ
 
 The answer is that the Qur’ an, does carry the basic principles concerning all problems, and it is in their light that the Ahadith of the Rasul of Allah clarify these problems. Then, there are some details which are delegated to the principles of Ijma` (consensus) and Al-Qiyas (analogical deduction following the norms set by the Shari` ah of Islam). This tells us that the religious rulings deduced from the Ahadith of the Holy Prophet ﷺ ، and from Ijma` and Qiyas are also, in a way, as stated by the Qur’ an itself.
 
+## AI Translation
+
+Consider, O Prophet, the Day We will call against every faith-community a witness of their own. And We will call you to be a witness against these people of yours. We have revealed to you the Book as an explanation of all things, a guide, a mercy, and good news for those who fully submit.
+
+## AI Tafsir
+
+**Context:** (And We shall bring you (O Muhammad) as a witness against these.) the meaning - and Allah knows best - is that the One Who obligated you to convey the Book which He revealed to you, will also ask you about that on the Da…
+
+**What this ayah teaches:** And We have revealed the Book (the Qur'an) to you as an explanation of everything, a guidance, a mercy, and good news for the Muslims . It means everything about the religion because the objective of Divine revelation and Prophetic mission concerns with these very things.
+
+**Classical tafsir:** Ibn Kathir notes: It means everything about the religion because the objective of Divine revelation and Prophetic mission concerns with these very things.
+
+**From the Sunnah:** And We have revealed the Book (the Qur'an) to you as an explanation of everything, a guidance, a mercy, and good news for the Muslims .
 ## Personal Reflections
 
 

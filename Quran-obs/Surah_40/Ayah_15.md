@@ -159,6 +159,15 @@ The word: دَرَجَات (darajat, translated above as 'stations' ) in: رَ�
 
 According to some further investigation into this verse by Ibn Kathir, it should be borne in mind that this measure of fifty thousand years is a description of the travel distance from the seventh level of the earth up to the 'arsh, and this is what has been declared as the preferred position by a majority of earlier and later scholars. He has also said that according to many scholars, 'arsh is made of a red ruby the diameter of which is so big as would take a travel distance of fifty thousand years to cover. Similarly, its height would take an identical travel distance to cover. Then there are commentators who have said that رَ‌فِيعُ الدَّرَ‌جَاتِ (rafi` u-d-darajat) appears in the sense of رَافعُ الدَّرَ‌جَاتِ (rafi'u-d-darajat: that is, the One who elevates others in ranks), that is, Allah Ta'la is the one who elevates the ranks of believers who have His fear in their hearts as borne by verses of the Qur'an, such as: نَرْ‌فَعُ دَرَ‌جَاتٍ مَّن نَّشَاءُ (We raise in ranks whom We will -Al-An am, 6:83) and هُمْ دَرَ‌جَاتٌ عِندَ اللَّـهِ (They are of various ranks with Allah -'Al-'Imran, 3:163).
 
+## AI Translation
+
+Highly Exalted in rank, Rabb of the Throne. He sends down revelation by His command to whichever of His servants He wills, to warn all of the Day of Meeting—
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah sends the Revelation to warn His Servants of the Day of Mutual Meeting Allah tells us of His might and pride, and that His Mighty Throne is raised above all of His creation like a roof.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

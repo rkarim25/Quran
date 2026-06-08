@@ -123,6 +123,17 @@ This is the end of the Tafsir of Surat Adh-Dhariyat; all praise is due to Allah 
 
 مَا أُرِ‌يدُ مِنْهُم مِّن رِّ‌زْقٍ (I do not want any sustenance from them, nor do I want them to feed Me...51:57). It means that by creating jinn and mankind, Allah does not stand in need of them, so that they will have to produce sustenance for Him or for themselves or for any of His other creations or that they earn to feed Him. This has been stated according to the general trend of people. The most affluent of men buys a slave and spends on him not for nothing, but he has an underlying purpose: He expects the slaves to work for him, help him in his tasks, fulfill his needs and earn livelihood for his master. Allah is immaculate, pure and above all these things. In creating human beings, He does not profit or benefit anything.
 
+## AI Translation
+
+I seek no provision from them, nor do I need them to feed Me.
+
+## AI Tafsir
+
+**What this ayah teaches:** Nay, they are themselves a people transgressing beyond bounds (53)So turn away from them, you are not blameworthy (54)And remind, for verily, the reminding profits the believers (55)And I created not the Jinn and mankind except that they should worship Me (56)I seek not any provision from them nor do I ask that they should feed Me (57)Verily, Allah is the All-Provider, Owner of…
+
+**Classical tafsir:** Ibn Kathir notes: It means that by creating jinn and mankind, Allah does not stand in need of them, so that they will have to produce sustenance for Him or for themselves or for any of His other creations or that they earn to feed Him.
+
+**From the Sunnah:** this Hadith. (Musnad Ahmad, Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

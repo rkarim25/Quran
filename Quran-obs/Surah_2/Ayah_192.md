@@ -217,6 +217,17 @@ Commentary
 
 2. The second problem that bothered the noble Companions was about the month, which was Dhul-Qa'dah ذوالقعدہ ، being one of the four known as the 'sacred months' wherein fighting anyone anywhere was not permissible. Now, the Muslims thought if the disbelievers of Makkah started fighting against them how could Muslims fight a defensive battle during a 'sacred month'? The verse under reference (194) was revealed to answer this doubt. The answer is that, the way a state of defence grants an exception to observing the sanctity of the Haram of Makkah, in the same manner, it allows an exception to observing the sanctity of the 'sacred months' also.
 
+## AI Translation
+
+But if they cease, then Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**Context:** Abu Al-'Aliyah said, "This was the first Ayah about fighting that was revealed in Al-Madinah. Ever since it was revealed, Allah's Messenger ﷺ used to fight only those who fought him and avoid non-combatants.
+
+**What this ayah teaches:** Such is the recompense of the those who reject the truth (191)But if they cease, then Allah is Oft-Forgiving, ar-Rahim (192)And fight them until there is no more Fitnah (disbelief and worshipping of others along with Allah) and the religion (all and every kind of worship) is for Allah (Alone).
+
+**Classical tafsir:** Ibn Kathir notes: Truly, Allah likes not the transgressors.) This Ayah means, 'Fight for the sake of Allah and do not be transgressors,' such as, by committing prohibitions.
 ## Personal Reflections
 
 

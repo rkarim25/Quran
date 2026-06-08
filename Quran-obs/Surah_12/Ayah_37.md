@@ -165,6 +165,15 @@ Yusuf, peace be upon him, told the two men that he has knowledge in the interpre
 
 ذَٰلِكُمَا مِمَّا عَلَّمَنِي رَ‌بِّي (This is of the knowledge my Lord has given me). He is saying that this has nothing to do with the art of divination through computation of figures and lines (Um al-jafr and 'am al-raml - not Jafar and Ramal, soothsaying or any other occult act of conjuring). Instead of all that, this is what my Rabb tells me - and I pass on the information. And this was an open miracle which is proof positive of prophethood and a major cause of confidence.
 
+## AI Translation
+
+Joseph replied, “I can even tell you what kind of meal you will be served before you receive it. This knowledge is from what my Rabb has taught me. I have shunned the faith of a people who reject the truth in Allah and deny the Akhirah — the everlasting life after death.
+
+## AI Tafsir
+
+**What this ayah teaches:** Yusuf calls His Jail Mates to Tawhid even before He interprets Their Dreams Yusuf, peace be upon him, told the two men that he has knowledge in the interpretation of whatever they saw in their dream, and that he will tell them about the interpretation of the dreams before they become a reality.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

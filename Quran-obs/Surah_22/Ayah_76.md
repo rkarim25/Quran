@@ -86,6 +86,15 @@ Allah tells us that He chooses Messengers from His angels as He wills by His law
 
 مَا قَدَرُ‌وا اللَّـهَ حَقَّ قَدْرِ‌هِ (They did not recognize Allah in His true esteem - 22:74). It means that these people are so foolish and ungrateful that they did not recognize the power of Allah Ta’ ala and place their helpless idols at the same level with Him.
 
+## AI Translation
+
+He knows what is ahead of them and what is behind them. And to Allah all matters will be returned for judgment.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, Allah is All-Hearer, All-Seer (75)He knows what is before them, and what is behind them.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

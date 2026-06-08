@@ -146,6 +146,17 @@ It is Allah Ta’ ala alone who grants female children to whom He wills, and mal
 
 While stating the sex of children in this verse, Allah Ta’ ala has mentioned females first, and males later. Taking a hint from this verse, Sayyidna Wathilah Ibn Asqa' ؓ has said that blessed is the woman who gives birth to a daughter first. (Qurtubi)
 
+## AI Translation
+
+They will have no protectors to help them against Allah. And whoever Allah leaves to stray, for them there is no way.
+
+## AI Tafsir
+
+**What this ayah teaches:** And whomsoever Allah sends astray, for him there is no protector after Him.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** The earlier three of the above verses state the end of those people who, as against the virtuous Muslims, remained desirous of the delights and luxuries of this world, instead of caring about the Hereafter.
 ## Personal Reflections
 
 

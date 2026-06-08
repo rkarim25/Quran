@@ -138,6 +138,17 @@ Qadi Thanaullah of Panipat has said in Tafsir Mazhari that Allah Almighty calls 
 
 These people do know outward matters of the present life while they are heedless to the Hereafter. (30:7)
 
+## AI Translation
+
+When you call to prayer, they mock it in amusement. This is because they are a people without understanding.
+
+## AI Tafsir
+
+**What this ayah teaches:** When the call is finished he comes back, and when the Iqamah is pronounced, Shaytan again takes to his heels.
+
+**Classical tafsir:** Ibn Kathir notes: They mock such acts and make them the subject of jest and play, because this is what these acts represent in their misguided minds and cold hearts.
+
+**From the Sunnah:** In the sixth verse (57), Allah Almighty has again stressed upon the injunction mentioned in verse 51 at the beginning of the Section, the sense of which is that the Muslims should not seek close friendship with people who make fun of their religion. The attitude of mockery against Muslims was something that they displayed most.
 ## Personal Reflections
 
 

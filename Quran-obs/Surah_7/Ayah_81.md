@@ -95,6 +95,15 @@ Therefore, the Sahabah, the Tabi` in and Mujtahid Imams have declared this crime
 
 At the end of the verse (81), it was said: بَلْ أَنتُمْ قَوْمٌ مُّسْرِ‌فُونَ (No, you are a people who cross the limits). In other words, their real disease was that they would go beyond the limits set by Allah for everything - in their case, it would be the very limit of humanity they would be hopping over. The same thing happened about sexual desire when they crossed the limits appointed by Allah only to reach for a taste of the counter-natural.
 
+## AI Translation
+
+You lust after men instead of women! You are certainly transgressors.”
+
+## AI Tafsir
+
+**What this ayah teaches:** In the second verse (81), this immodesty has been stated more explicitly - ` Surely, you come to men lustfully instead of women.' Here, the hint given is that, for the natural satisfaction of human desire, Allah 'Ta` ala has appointed marrying women as a lawful method.
+
+**Classical tafsir:** Ibn Kathir notes: Indeed, this behavior is evil and ignorant because you have placed things in their improper places.
 ## Personal Reflections
 
 

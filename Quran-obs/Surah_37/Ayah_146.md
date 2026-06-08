@@ -132,6 +132,17 @@ Some of them mentioned that the squash has a number of benefits: it grows quickl
 
 Said next, it was: وَأَنبَتْنَا عَلَيْهِ شَجَرَ‌ةً مِّن يَقْطِينٍ (and We caused a tree of gourd to grow over him. - 146). The word: يَقْطِينٍ (yagtin) signifies every such tree that has no trunk. It appears in Hadith narrations that it was a gourd creeper. The purpose of having a tree grow there was to make the provision of shade for Sayyidna Yunus (علیہ السلام) . The word: شَجَرَ‌ةً (shajarah: tree) at this place serves as an indicator of two possibilities: Either Allah had made this very plant of gourd grow with a trunk by way of a miracle, or it was some other tree on which the creeping plant of gourd was made to wind its way up, so that it could provide a thick shade, otherwise, having enough shade from a winding plant alone would have been difficult.
 
+## AI Translation
+
+and caused a squash plant to grow over him.
+
+## AI Tafsir
+
+**What this ayah teaches:** And verily, Yunus was one of the Messengers (139)When he ran to the laden ship (140)Then he (agreed to) cast lots, and he was among the losers (141)Then a (big) fish swallowed him as he had done an act worthy of blame (142)Had he not been of them who glorify Allah (143)He would have indeed remained inside its belly (the fish) till the Day of Resurrection (144)But We cast him forth on the naked sho…
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, narrating from Ash-Sha'bi, "It swallowed him in the morning and cast him forth in the evening." And Allah knows best how long exactly was.
+
+**From the Sunnah:** In the Two Sahihs it is reported that the Messenger of Allah ﷺ said: This is what is indicated in the authentic Hadith which we quote below, if Allah wills. (authentic hadith)
 ## Personal Reflections
 
 

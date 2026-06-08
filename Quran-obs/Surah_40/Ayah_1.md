@@ -94,6 +94,17 @@ Surah Az-Zumar
 
 Ends here
 
+## AI Translation
+
+These opening letters—known as the muqatta'at—are among the signs whose full meaning Allah kept with Himself. They open the surah by reminding the reader that this Book is from beyond human authorship: approach it with humility, not arrogance.
+
+## AI Tafsir
+
+**What this ayah teaches:** These two attributes (mercy and punishment) are often mentioned together in the Qur'an, so that people will remain in a state of both hope and fear. In the Islamic terminology, it normally refers to those Companions of a prophet who excel all others in their submission to Allah and is Messenger.
+
+**Classical tafsir:** Ibn Kathir notes: In the Islamic terminology, it normally refers to those Companions of a prophet who excel all others in their submission to Allah and is Messenger.
+
+**From the Sunnah:** In a Hadith recorded by Abu Dawud and At-Tirmidhi from one who heard it from the Messenger of Allah ﷺ, it says: (Jami' at-Tirmidhi, Sunan Abi Dawud) In this verse, it was clearly stated that Muslims who obey Allah and the Messenger would invariably be with the prophets and those others mentioned therein.
 ## Personal Reflections
 
 

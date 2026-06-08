@@ -106,6 +106,17 @@ Let us explain how evil can take hold of a man so completely that no trace of go
 
 In short, the infidel, according to this divine law, must always live in Hell. Since Sayyidna Musa (علیہ السلام) (Moses) was not the last prophet, but was followed by two other prophets, Sayyidna ` Isa (علیہ السلام) (Jesus) and Sayyidna Muhammad ﷺ ، the Jews turned into infidels by denying these two prophets. So, in accordance with this law, they too will be assigned to Hell for ever like other infidels, and their claim that they would be released from Hell after few days can now be seen to be totally false and baseless.
 
+## AI Translation
+
+And those who believe and do righteous deeds will be among the people of Paradise, remaining there forever.
+
+## AI Tafsir
+
+**What this ayah teaches:** And whoever does righteous good deeds, male or female, and is a (true) believer [in the Oneness of Allah (Muslim)], such will enter Paradise and not the least injustice, even the size of a Naqira (speck on the back of a date stone), will be done to them)(4:123-124).
+
+**Classical tafsir:** Ibn Kathir notes: Those who commit evil deeds knowingly and deliberately so that evil takes hold of them completely, leaving no trace of goodness - such men shall go to the Hell, and live there forever, without any intermission or release.
+
+**From the Sunnah:** Paradise and not the least injustice, even the size of a Naqira (speck on the back of a date stone), will be done to them)(4:123-124). (Sahih Muslim) the Messenger of Allah ﷺ gave them an example,
 ## Personal Reflections
 
 

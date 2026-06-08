@@ -69,6 +69,15 @@ O those who believe, fear Allah, and speak what is straight forward. Allah will 
 
 The original word used in the text for "what is straight forward" is 'sadid' which has been explained by some exegetes as what is the truth. Others explain it as straight, while still others, as correct. Quoting all of these, Ibn Kathir calls all these true (on the beam hitting the target). The Holy Qur'an has chosen this word, instead of sadiq or mustaqim, because the present word holds all these attributes of ideal speech within itself. It was for this reason that Kashifi said in Ruh-ul-Bayan: Qawl Sadid is the saying of what is true having no trace of falsity; correct having no trace of error, right thing being no joke or fun; spoken softly, not harshly.
 
+## AI Translation
+
+O mu'mins! Be living with taqwa toward Allah, and say what is right.
+
+## AI Tafsir
+
+**What this ayah teaches:** Have Taqwa of Allah and speak (always) the truth (70)He will direct you to do righteous good deeds and will forgive you your sins.
+
+**Classical tafsir:** Ibn Kathir notes: The Holy Qur'an has chosen this word, instead of sadiq or mustaqim, because the present word holds all these attributes of ideal speech within itself.
 ## Personal Reflections
 
 

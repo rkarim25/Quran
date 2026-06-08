@@ -238,6 +238,19 @@ All Heavenly Books were revealed in Ramadan
 
 Sayyidna Abu Dhar Ghifari ؓ narrates that the Messenger of Allah ﷺ said: "Holy Prophet Ibrahim's (علیہ السلام) Scriptures were revealed on 3rd of Ramadan; Torah was revealed on 6th of Ramadan; Injil was revealed on 13th of Ramadan; Zabur was revealed on 18th of Ramadan; and the Holy Qur'an was revealed on 24th of Ramadan." [ Mazhari ].
 
+## AI Translation
+
+And what will explain to you what the Night of Decree is?
+
+## AI Tafsir
+
+**Context:** Ibn Abi Hatim has reported from Mujhid (as mursal hadith) that the Messenger of Allah ﷺ was told about a mujahid [ warrior in the cause of religion ] from amongst the Children of Israel who carried weapons of war on his…
+
+**What this ayah teaches:** And what will make you know what the Night of Al-Qadr is?)(3.
+
+**Classical tafsir:** Ibn Kathir notes: We were to send the Messenger [ 5].(44:3-5) 'Laylatun Mubarakah' or the 'blessed', according to overwhelming scholars of the Qur'an, refers to the Night of Qadr.
+
+**From the Sunnah:** Shu'bah and Sufyan both narrated it from Ishaq and they both considered it to be a statement of the Companion (Ibn 'Umar, and thus not the statement of the Prophet ﷺ).
 ## Personal Reflections
 
 

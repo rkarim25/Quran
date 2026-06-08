@@ -98,6 +98,15 @@ As for the pronoun of the word: بَعْضَهُمْ (ba` dahum) in بَعْضَ
 
 The pronoun in: فَجَمَعْنَاهُمْ (fajama'nahum: Then We shall gather them together - 99) is reverting back to the creation at large, human beings and the Jinn. The sense is that the entire creation of human beings and the Jinn who have been obligated with the percepts of the Shari` ah (mukallaf) shall be gathered together on the plains of Resurrection (al-Hashr).
 
+## AI Translation
+
+those who turned a blind eye to My Reminder and could not stand listening to it.
+
+## AI Tafsir
+
+**What this ayah teaches:** And on that Day We shall present Hell to the those who reject the truth, plain to view (100)(To) those whose eyes had been under a covering from My Reminder, and they could not bear to hear (it)(101)Do then those who disbelieved think that they can take My servants as Awliya' [protectors] besides Me?
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

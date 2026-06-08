@@ -152,6 +152,19 @@ This is the type of praiseworthy bedouins. They give charity in Allah's cause as
 
 In the second verse (98) too, yet another aspect of the condition of these very Bedouins has been described as: ` those who take what they spend (in Zakah etc.) as a penalty.' Why would they do so? The reason is that they hardly have any faith in their heart. When it comes to making Salah, they would, though, do that, but just to camouflage their disbelief. They would even fulfill the obligation of Zakah, but their hearts would keep worrying as to why they had to put good money down the drain. Therefore, they always look forward to the time when Muslims are hit by some calamity or defeat that may possibly deliver them from having to pay this penalty. The word: الدَّوَائِرَ‌ (aldawa'ir: the cycles of time) is the plural of: دَائِرَ‌ةُ (da'irah). According to the Arabic lexicon, da'irah is the changed state that shifts away from the good state into a bad one. Therefore, the Holy Qur'an says in response to them: عَلَيْهِمْ دَائِرَ‌ةُ السَّوْءِ (upon them is the evil cycle). In other words, the evil state of affairs they wish would strike at Muslims is going to descend upon them all right - and, because their words and deeds are such, they will find themselves far more disgraced.
 
+## AI Translation
+
+And among the nomads are those who consider what they donate to be a loss and await your misfortune. May ill-fortune befall them! And Allah is All-Hearing, All-Knowing.
+
+## AI Tafsir
+
+**Context:** The bedouins are the worst in disbelief and hypocrisy, and more likely to not know the limits which Allah has revealed to His Messenger.
+
+**What this ayah teaches:** In other words, the evil state of affairs they wish would strike at Muslims is going to descend upon them all right - and, because their words and deeds are such, they will find themselves far more disgraced. Therefore, they always look forward to the time when Muslims are hit by some calamity or defeat that may possibly deliver them from having to pay this penalty.
+
+**Classical tafsir:** Ibn Kathir notes: In other words, the evil state of affairs they wish would strike at Muslims is going to descend upon them all right - and, because their words and deeds are such, they will find themselves far more disgraced.
+
+**From the Sunnah:** this Hadith.
 ## Personal Reflections
 
 

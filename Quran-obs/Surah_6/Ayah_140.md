@@ -138,6 +138,15 @@ of slaughter, the calf came out alive, they would slaughter it as well - but, wo
 
 [ All these narrations appear in Ad-Durr Al-Manthur and Ruh al-Mani from Sayyidna Ibn ` Abbas, Mujahid, Ibn Zayd and As-Suddiy with exegetic deductions of Ibn al-Mundhir, Ibn Abi Hatim, Ibn Abi Ash-Shaybah and Ibn Humayd) [ As in Bayn al-Qur'an of Maulana Thanavi ]
 
+## AI Translation
+
+Lost indeed are those who have murdered their own children foolishly out of ignorance and have forbidden what Allah has provided for them—falsely attributing lies to Allah. They have certainly strayed and are not guided.
+
+## AI Tafsir
+
+**What this ayah teaches:** Indeed lost are they who have killed their children, foolishly, without knowledge, and (they) have forbidden that which Allah has provided for them, inventing a lie against Allah. As for this life, they lost when they killed their children and made it difficult for themselves by prohibiting some types of their wealth, as an act of innovation that they invented on their own.
+
+**Classical tafsir:** Ibn Kathir notes: As for the Hereafter, they will end up in the worst dwellings, because they used to lie about Allah and invent falsehood about Him.
 ## Personal Reflections
 
 

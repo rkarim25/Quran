@@ -106,6 +106,17 @@ Hafiz Ibn ajar in Fath al-Bari has adopted this ruling, and it is not in conflic
 
 Ibn Jarir has reported with his own chain of narrators that Sayyidna Said Ibn Jubair (رح) had said ` leave that city where sins and obscenity are common'. And the Imam of Tafsir, ` Ata' ؓ had said that ` run away from the city where you are forced to commit sins'.
 
+## AI Translation
+
+Allah gives abundant or limited provision to whom He wills among His servants. He has full knowledge of everything.
+
+## AI Tafsir
+
+**What this ayah teaches:** So, Allah stated that He has alone created everything, and that He alone is controlling them – if this is how it is, then why worship anyone else?
+
+**Classical tafsir:** Ibn Kathir notes: He made them and their provision different, so that some were rich and some were poor, and He knew best what was suitable for each of them, who deserved to be rich and who deserved to be poor.
+
+**From the Sunnah:** When the Holy Prophet ﷺ migrated from Makkah under instructions from Allah Ta’ ala, and in turn instructed all the Muslims to do the same, provided they had the means, at that time, it was obligatory for all Muslims to migrate. At that time migration was not just compulsory but was also regarded as a sign of being Muslim. (Sahih Muslim)
 ## Personal Reflections
 
 

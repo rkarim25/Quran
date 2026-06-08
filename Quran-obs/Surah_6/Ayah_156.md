@@ -124,6 +124,17 @@ The reason of being ` ignorant of (or heedless to) what they studied - 156' was 
 
 As for their second saying: لَوْ أَنَّا أُنزِلَ عَلَيْنَا الْكِتَابُ لَكُنَّا أَهْدَىٰ مِنْهُمْ (If the Book had been sent down to us, we would have been more adhering to the right path than they' ), a question and its answer has already appeared under the commentary on verse 19 of Surah A-Ma'idah earlier in this volume. This concerns the hope of salvation during the period of Fatrah or gap between prophets.
 
+## AI Translation
+
+You can no longer say, “Scriptures were only revealed to two groups before us and we were unaware of their teachings.”
+
+## AI Tafsir
+
+**Context:** (Or lest you should say: "If only the Book had been sent down to us, we would surely, have been better guided than they.") meaning: We also refuted this excuse, had you used it, lest you say, "If a Book was revealed to u…
+
+**What this ayah teaches:** We shall requite those who turn away from Our Ayat with an evil torment, because of their turning away . Commentary The reason of being ` ignorant of (or heedless to) what they studied - 156' was not that the Torah and the Injil were non-existent in the Arabic language because it is possible to become informed of the contents through a translation, in fact, this happens.
+
+**Classical tafsir:** Ibn Kathir notes: This is the explanation of As-Suddi for Sadafa, while Ibn 'Abbas, Mujahid and Qatadah said that Sadafa means, he turned away from it.
 ## Personal Reflections
 
 

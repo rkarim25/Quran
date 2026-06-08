@@ -111,6 +111,17 @@ Since it is possible to suppress the aggressive might of disbelievers and their 
 
 And according to the interpretation of Imam al-Qurtubi, this verse contains a guideline for Muslims as to how they should address each other. It suggests that they should not speak harshly at the time of mutual difference, for this is a trap door through which the Shaitan pushes them into mutual infighting and disorder.
 
+## AI Translation
+
+Tell My believing servants to say only what is best. Satan certainly seeks to sow discord among them. Satan is indeed a sworn enemy to humankind.
+
+## AI Tafsir
+
+**Context:** Since it is possible to suppress the aggressive might of those who reject the truth and their hostility to Islam through fighting and killing (as an inevitable measure of defense), therefore, it is allowed.
+
+**What this ayah teaches:** People should speak Good Words with Politeness Allah commands His servant Muhammad ﷺ to tell the believing servants of Allah that they should address one another in their conversations and discussions with the best and politest of words, for if they do not do that, Shaytan will sow discord among them, and words will lead to actions, so that evil and conflicts and fights will arise among them.
+
+**Classical tafsir:** Ibn Kathir notes: Since it is possible to suppress the aggressive might of those who reject the truth and their hostility to Islam through fighting and killing (as an inevitable measure of defense), therefore, it is allowed.
 ## Personal Reflections
 
 

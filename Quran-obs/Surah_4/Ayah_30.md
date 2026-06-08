@@ -260,6 +260,17 @@ This is the wording of Muslim. At-Tirmidhi said, "Sahih." It is recorded in the 
 
 After that, the next verse (30) says: وَمَن يَفْعَلْ ذَٰلِكَ عُدْوَانًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارً‌ا . It means: If, despite the instructions of the Holy Qur'an, anyone acts otherwise, and knowingly, aggressively and unjustly, takes what belongs to someone else, or kills anyone unjustly, Allah will cast him into Fire. Here, the restriction of 'aggression' and 'injustice' shows that, should this happen out of forgetfulness or mistake, it is not included in this warning.
 
+## AI Translation
+
+And whoever does this sinfully and unjustly, We will burn them in the Fire. That is easy for Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** Eat not up your property among yourselves unjustly) some Muslims said, 'Allah has forbidden us from eating up each other's property unjustly, and food is our best property.
+
+**Classical tafsir:** Ibn Kathir notes: However, there is no harm in commercial transactions that transpire between the buyer and the seller with mutual consent, so that money is legally earned from these transactions.
+
+**From the Sunnah:** Eat not up your property among yourselves unjustly) some Muslims said, 'Allah has forbidden us from eating up each other's property unjustly, and food is our best property. to me, 'Do you know what the day of Al-Jumu'ah is? (Musnad Ahmad)
 ## Personal Reflections
 
 

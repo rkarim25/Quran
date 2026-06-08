@@ -134,6 +134,15 @@ The Exalted in might is the One Who is All-Powerful, Whom none can overwhelm or 
 
 This sentence is connected with the earlier one: لَتَأْتِيَنَّكُمْ that is, al-Qiyamah or the Doomsday is bound to come and its purpose will be to reward believers and to provide for them the best sustenance from Jannah (Paradise).
 
+## AI Translation
+
+So He may reward those who have iman and do good: forgiveness and a generous, honourable provision in the Akhirah.
+
+## AI Tafsir
+
+**Context:** Those who disbelieve say: "The Hour will not come to us." Say: "Yes, by my Lord, the All-Knower of the Unseen, it will come to you; not even the weight of a speck of dust or less than that or greater escapes His knowledg…
+
+**What this ayah teaches:** The Hour will come so that each Person will be rewarded or punished in accordance with His Deeds This is one of three Ayat – there is no fourth – where Allah commands His Messenger ﷺ to swear by His Almighty Lord that the resurrection will surely come, because the stubborn followers of disbelief denied that it would happen.
 ## Personal Reflections
 
 

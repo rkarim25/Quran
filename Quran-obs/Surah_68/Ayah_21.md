@@ -128,6 +128,15 @@ It has been said, "They were hoping for something better in exchange in this lif
 
 وَهُمْ يَتَخَافَتُونَ (...while they were whispering to each other ... 68:23). They were speaking in a low voice, lest a poor man should hear their talk and accompany them.
 
+## AI Translation
+
+By daybreak they called out to one another:
+
+## AI Tafsir
+
+**What this ayah teaches:** This means that they starting waking up each other in the early morning that they should set out early if they wanted to harvest.
+
+**Classical tafsir:** Ibn Kathir notes: This means that they starting waking up each other in the early morning that they should set out early if they wanted to harvest.
 ## Personal Reflections
 
 

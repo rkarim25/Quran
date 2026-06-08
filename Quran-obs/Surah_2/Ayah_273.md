@@ -297,6 +297,19 @@ This tells us that it is correct to give rulings based on circumstantial evidenc
 
 On the surface, this verse gives the sense that they do not solicit importunately but it does not negate soliciting without importunity, as is the actual interpretation of some commentators. But, in accordance with the consensus of commentators, it means that they just do not ask; لاَنھم متعففون عن المساَلہ عفۃ تامۃ (totally refrain from asking) (Qurtubi).
 
+## AI Translation
+
+Charity is for the poor who are so engaged in Allah's cause they cannot travel for work. Those unfamiliar with them think they are not in need because they do not beg. You can recognize them by their appearance. They do not beg persistently. Whatever you give in charity, Allah knows it.
+
+## AI Tafsir
+
+**Context:** Abu 'Abdur-Rahman An-Nasa'i recorded that Ibn 'Abbas said that they, "Disliked giving charity to their polytheist relatives, but were later on allowed to give it to them when they inquired about this matter, and this Aya…
+
+**What this ayah teaches:** And whatever you spend in good, it will be repaid to you in full, and you shall not be wronged (272)(Charity is) for Fuqara' (the poor), who in Allah's cause are restricted (from travel), and cannot move about in the land (for trade or work).
+
+**Classical tafsir:** Ibn Kathir notes: The one who knows them not, thinks that they are rich because of their modesty.
+
+**From the Sunnah:** this Hadith from Ibn Mas'ud.
 ## Personal Reflections
 
 

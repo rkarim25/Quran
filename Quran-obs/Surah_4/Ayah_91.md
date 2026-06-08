@@ -284,6 +284,19 @@ The words of the verse 89: وَلَا تَتَّخِذُوا مِنْهُمْ و
 
 he said: v 'I (The bad ones! We do not need them). (Mazhari, v.2
 
+## AI Translation
+
+You will find others who wish to be safe from you and their own people. Yet they cannot resist the temptation. If they do not keep away, offer you peace, or refrain from attacking you, then seize them and kill them wherever you find them. We have given you full permission over such people.
+
+## AI Tafsir
+
+**Context:** Al-'Awfi reported that Ibn 'Abbas said that the Ayah was revealed about some people in Makkah who said they embraced Islam, yet they gave their support to the idolators.
+
+**What this ayah teaches:** So, if they withdraw from you, and fight not against you, and offer you peace, then Allah has made no way for you against them (90)You will find others that wish to have security from you and security from their people.
+
+**Classical tafsir:** Ibn Kathir notes: Al-'Awfi reported that Ibn 'Abbas said that the Ayah was revealed about some people in Makkah who said they embraced Islam, yet they gave their support to the idolators. As-Suddi said that the Fitnah mentioned here refers to Shirk.
+
+**From the Sunnah:** Messenger of Allah ﷺ marched towards Uhud.
 ## Personal Reflections
 
 

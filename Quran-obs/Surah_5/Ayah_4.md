@@ -275,6 +275,17 @@ Ruling: This injunction covers wild animals out of one's possession and control.
 
 Finally, at the end of the verse, there comes the instruction that hunting through a beast of prey has no doubt been made lawful by Al-mighty Allah, but, it is not permissible to ignore Salah and other necessary religious obligations for the sake of having fun chasing game.
 
+## AI Translation
+
+They ask you, what is permissible for them. Say, “What is good and lawful. Also what is caught by your hunting animals and birds of prey which you have trained as instructed by Allah. So eat what they catch for you, but mention the Name of Allah over it.” And live with taqwa toward Allah. Surely Allah is swift in reckoning.
+
+## AI Tafsir
+
+**What this ayah teaches:** This refers to trained dogs and falcons, as is the opinion of the majority of the Companions, their followers, and the Imams.
+
+**Classical tafsir:** Ibn Kathir notes: This refers to trained dogs and falcons, as is the opinion of the majority of the Companions, their followers, and the Imams.
+
+**From the Sunnah:** It is recorded in the Two Sahihs that the Messenger of Allah ﷺ taught his stepson 'Umar bin Abu Salamah saying,
 ## Personal Reflections
 
 

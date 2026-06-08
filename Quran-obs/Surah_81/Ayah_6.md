@@ -252,6 +252,15 @@ Concerning Allah's statement,
 
 وَإِذَا الْبِحَارُ‌ سُجِّرَ‌تْ (and when the seas will be flared up...81:6). The word sujjirat is derived from tasfir and it signifies 'to set ablaze'. Sayyidna Ibn ` Abbas ؓ assigns this interpretation to the word in this context. Another sense of the word is 'to fill' and a third sense of the word is 'to mix or admix'. Some commentators have interpreted it in this sense. None of these interpretations is contradictory to each other. First, the salt and sweet water are admixed and the rivers are made to flow forth into the sea; then the seas will meet together and become one and having more water; then the seas will be set on fire; and then the Sun and the Moon and the stars will be thrown into the water. Then all the water will be turned into fire which will become part of Hell. [ Mazhari ]
 
+## AI Translation
+
+when seas are set ablaze,
+
+## AI Tafsir
+
+**What this ayah teaches:** And when the heaven is Kushitat;)(12.
+
+**Classical tafsir:** Ibn Kathir notes: We have neglected nothing in the Book, then unto their Lord they shall be gathered.)(6:38) Ibn 'Abbas said, "Everything will be gathered, even the flies." This statement was recorded by Ibn Abi Hatim.
 ## Personal Reflections
 
 

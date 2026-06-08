@@ -144,6 +144,15 @@ The word: طبع is used for printing or stamping. It implies that these people 
 
 This perversion of human understanding has been termed in the Holy Qur'an as ' ra'n' signifying the rust of the heart. In this verse, as in many other verses of the Holy Qur'an, this stage has been named as 'taba". The result of their hearts being sealed has been mentioned at the end of the verse by saying (لَا يَسْمَعُونَ ) "so that they do not listen". One may think that more appropriate expression in this context was (S' ) they do not understand" as the adverse effect of sealing, of فَهُمْ لَا يَفقھُونَ the heart is obviously related to the faculty of understanding and not to the listening. The Holy Qur'an has used the word 'listen' to indicate that understanding is usually the result of listening to the truth. Now, since their hearts have been sealed they are rendered unable to listening the truth. Another explanation to this may be that all human faculties and limbs are controlled by human heart, that is, the function of all human parts is adversely affected by malfunctioning of the heart. When one loves anyone or anything he likes everything - good or bad - in that person or object.
 
+## AI Translation
+
+Is it not clear to those who take over the land after its former residents that—if We will—We can punish them for their sins and seal their hearts so they will not hear ?
+
+## AI Tafsir
+
+**What this ayah teaches:** It implies that these people have taken no lesson from the past events with the result that they incurred the wrath of Allah making their hearts sealed. The Holy Qur'an has used the word 'listen' to indicate that understanding is usually the result of listening to the truth.
+
+**Classical tafsir:** Ibn Kathir notes: The Holy Qur'an has used the word 'listen' to indicate that understanding is usually the result of listening to the truth.
 ## Personal Reflections
 
 

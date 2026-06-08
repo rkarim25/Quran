@@ -122,6 +122,17 @@ Poorly managed spending is prohibited
 
 And the main thing in the verse is that it prohibits spending haphazardly in the sense that one would ignore what may happen in the near future and spend on the spot. The result is that comes tomorrow, other needy people show up or one is required to take care of a major religious exigency and he would, then, be in no position to help out. (Qurtubi) Or, he may be rendered equally incapable of fulfilling the rights of his family, something he is duty-bound to fulfill. (Mazhari) Explaining the words: مَلُومًا مَّحْسُورً‌ا (reproached, empty-handed - 29), Tafsir Mazhari says that the first word: مَلُوم (malum) relates to the first condition, that is, miserliness - meaning if he were to hold back on giving out of miserliness, people would reproach him.' And the word: مَّحْسُورً‌ا (mahsura) relates to some condition other than this - meaning that one should not exaggerate in spending to the extent that he himself becomes a pauper. If so, he will turn empty-handed, defeated and rueful.
 
+## AI Translation
+
+Surely your Rabb gives abundant or limited provisions to whoever He wills. He is certainly All-Aware, All-Seeing of His servants.
+
+## AI Tafsir
+
+**What this ayah teaches:** He makes rich whomever He wills, and He makes poor whomever He wills, by the wisdom that is His.
+
+**Classical tafsir:** Ibn Kathir notes: And let not your hand be tied (like a miser) to your neck, nor overextend it (like a spendthrift), so that you become blameworthy and in severe poverty (29)Truly, your Lord expands the provision for whom He wills and straitens (for whom He wills).
+
+**From the Sunnah:** It was reported in the Two Sahihs from the Hadith of Abu Az-Zinad from Al-A'raj that Abu Hurayrah heard the Messenger of Allah ﷺ say: This version was recorded by Al-Bukhari in the Book of Zakah. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

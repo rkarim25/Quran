@@ -98,6 +98,15 @@ The Fifth Characteristic
 
 وَالَّذِينَ يَقُولُونَ رَ‌بَّنَا اصْرِ‌فْ عَنَّا عَذَابَ جَهَنَّمَ (and those who say, "Our Lord, avert from us the punishment of Jahannam - 25:65). It means that despite their constant prayers day and night, these favoured ones do not sit content, but are always fearful of God and keep in mind the Day of Judgment. To that end they keep alive the righteous deeds as well as supplications before Allah.
 
+## AI Translation
+
+It is certainly an evil place to settle and reside.”
+
+## AI Tafsir
+
+**What this ayah teaches:** This does not mean that they should walk like sick people, making a show of their humility, for the leader of the sons of Adam (the Prophet) used to walk as if he was coming downhill, and as if the earth were folded up beneath him.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

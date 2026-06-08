@@ -134,6 +134,17 @@ Then, Allah commands His believing servants to obey Him and His Messenger ﷺ, w
 
 إِنَّ الَّذِينَ كَفَرُ‌وا وَصَدُّوا عَن سَبِيلِ اللَّـهِ ثُمَّ مَاتُوا وَهُمْ كُفَّارٌ‌ (Those who disbelieve and prevent (others) from Allah's way, Allah will never forgive them...- 47:34): verse [ 32] has a similar warning in similar words. The present verse [ 34] seems to repeat almost the same warning. But the difference is probably that verse 32 describes the loss of the infidels in this world, and the current verse describes their loss in the next world as indicated in the commentary. It is also possible that in the earlier verse the reference was to infidels in general which included those people who embraced Islam later on. The ruling regarding them was that all the good works which they had done in the state of disbelief would go to waste. Even after embracing Islam they would not be rewarded for them. The current verse refers in particular to those infidels who persisted in their disbelief and idolatry until their dying day. The ruling regarding them is that Allah will never forgive them in the next world. Allah knows best.
 
+## AI Translation
+
+Those who reject the truth, block Allah's path, and die in denial—Allah will never forgive them.
+
+## AI Tafsir
+
+**What this ayah teaches:** The ruling regarding them is that Allah will never forgive them in the next world.
+
+**Classical tafsir:** Ibn Kathir notes: He indicates that those people can never harm Allah in the least, and rather they only harm themselves and become losers on the Day of Resurrection.
+
+**From the Sunnah:** If, on the other hand, the those who reject the truth are considered more powerful and numerous than the Muslims, then the Imam (general commander) may decide to hold a treaty if he judges that it entails a benefit for the Muslims.
 ## Personal Reflections
 
 

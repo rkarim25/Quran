@@ -78,6 +78,15 @@ meaning, they do not command that the poor and the needy be treated with kindnes
 
 وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَّمًّا (And you devour the inheritance with a sweeping gulp...89:19). The word lamm means to 'gather, amass, concentrate the thing'. This is the third evil trait of the unbelievers, and the verse signifies that they devour inheritance with voracious appetites however they can get it, whether by lawful means or unlawful means. They gather them all together to make a sweeping gulp. When someone passes away, they take their own shares, together with the shares of others, regardless of whether the shares belong to orphans, widows or people who are absent. [ As a matter of principle,] it is not permitted to mix up lawful and forbidden wealth in any transaction. Here, however, 'inheritance' has been particularly mentioned, probably because having a greedy eye on it and pursuing it are a proof of man's greed and voracity for wealth. He stares at it like a beast of prey waiting for the person to die, and looking for the opportunity to distribute the estate. But an honourable man of principle and a noble person would not look at the wealth of the deceased with greedy eyes.
 
+## AI Translation
+
+And you devour inheritance greedily, by trickery or outright theft—
+
+## AI Tafsir
+
+**What this ayah teaches:** This is the third evil trait of the unbelievers, and the verse signifies that they devour inheritance with voracious appetites however they can get it, whether by lawful means or unlawful means. Here, however, 'inheritance' has been particularly mentioned, probably because having a greedy eye on it and pursuing it are a proof of man's greed and voracity for wealth.
+
+**Classical tafsir:** Ibn Kathir notes: This is the third evil trait of the unbelievers, and the verse signifies that they devour inheritance with voracious appetites however they can get it, whether by lawful means or unlawful means.
 ## Personal Reflections
 
 

@@ -243,6 +243,19 @@ Verse 23 opens with the words: اللَّـهُ نَزَّلَ أَحْسَنَ 
 
 It has been narrated by Sayyidna ` Abdullah Ibn ` Abbas ؓ that the Holy Prophet ﷺ said, "A servant over whose body hair would stand on end due to the fear of Allah, then, Allah Ta’ ala forbids the Fire from ever touching his body. (Qurtubi)
 
+## AI Translation
+
+Allah has sent down the best message—a Book of perfect consistency and repeated lessons—which causes the skin and hearts of those who fear their Lord to tremble, then their skin and hearts soften at the mention of the mercy of Allah. That is the guidance of Allah, through which He guides whoever He wills. But whoever Allah leaves to stray will be left with no guide.
+
+## AI Tafsir
+
+**Context:** Here Allah praises His Book, the Noble Qur'an, which was revealed to His noble Messenger ﷺ. Allah says,
+
+**What this ayah teaches:** Here, in the verse under study (23), we have been told that the whole Qur'an is 'ahsan-ul-hadith,' the best of what is said.
+
+**Classical tafsir:** Ibn Kathir notes: Then their skin and their heart soften to the remembrance of Allah.) means, this is the description of the righteous, when they hear the Words of the Compeller, the Protector, the Almighty, the Oft-Forgiving, because they understand the promises and warnings contained therein.
+
+**From the Sunnah:** As the Companions, may Allah be pleased with them, used to do when they listened to the words of Allah recited by the Messenger of Allah ﷺ.
 ## Personal Reflections
 
 

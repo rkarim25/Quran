@@ -219,6 +219,17 @@ Another hadith similar to this appears in Sahih Muslim as well. It is said in a 
 
 Another hadith says that a person who wishes that his prayer be answered, or his misfortune be removed, he should give respite to the penniless in debt.
 
+## AI Translation
+
+If a debtor is in hardship, grant time until ease. If you waive it as charity, that is better for you — if only you knew.
+
+## AI Tafsir
+
+**Context:** (if you indeed have been believers) believing in the trade that He allowed you and the prohibition of Riba. Zayd bin Aslam, Ibn Jurayj, Muqatil bin Hayyan and As-Suddi said that this Ayah was revealed about Bani 'Amr bin…
+
+**What this ayah teaches:** Deal not unjustly, and you shall not be dealt with unjustly (279)And if the debtor is having a hard time, then grant him time till it is easy for him to repay; but if you remit it by way of charity, that is better for you if you did but know (280)And have Taqwa the Day when you shall be brought back to Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Zayd bin Aslam, Ibn Jurayj, Muqatil bin Hayyan and As-Suddi said that this Ayah was revealed about Bani 'Amr bin 'Umayr, a sub-tribe of Thaqif, and Bani Al-Mughirah, from the tribe of Bani Makhzum, between whom were outstanding transactions of Riba leftover from time of Jahiliyyah.…
 ## Personal Reflections
 
 

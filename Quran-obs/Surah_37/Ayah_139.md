@@ -132,6 +132,17 @@ The last event described in this Sarah is that of Sayyidna Yunus (علیہ ال�
 
 In the opening verse (139), it was said: وَإِنَّ يُونُسَ لَمِنَ الْمُرْ‌سَلِينَ (And surely, Yunus (علیہ السلام) is from among the messengers). Was Sayyidna Yunus (علیہ السلام) ordained as a messenger much earlier than his encounter with the fish, or did it come to pass after that? This issue has been a subject of debate among some commentators and historians. Some of them think that he was made a messenger after this event. But, in view of the apparent order and style of the noble Qur'an, and from most Hadith narrations, it is more likely that he was invested with the mission of prophethood earlier. The event of the fish came later.
 
+## AI Translation
+
+And Jonah was indeed one of the messengers.
+
+## AI Tafsir
+
+**What this ayah teaches:** And verily, Yunus was one of the Messengers (139)When he ran to the laden ship (140)Then he (agreed to) cast lots, and he was among the losers (141)Then a (big) fish swallowed him as he had done an act worthy of blame (142)Had he not been of them who glorify Allah (143)He would have indeed remained inside its belly (the fish) till the Day of Resurrection (144)But We cast him forth on the naked sho…
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, narrating from Ash-Sha'bi, "It swallowed him in the morning and cast him forth in the evening." And Allah knows best how long exactly was.
+
+**From the Sunnah:** In the Two Sahihs it is reported that the Messenger of Allah ﷺ said: This is what is indicated in the authentic Hadith which we quote below, if Allah wills. (authentic hadith)
 ## Personal Reflections
 
 

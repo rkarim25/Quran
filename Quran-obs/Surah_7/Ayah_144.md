@@ -115,6 +115,15 @@ The fact that Allah spoke directly to the Prophet Musa (علیہ السلام) i
 
 As to the question what was the nature and character of this discourse, cannot be ascertained by anyone but Allah. Only those logical suppositions, in this regard, can be allowed which do not go against any rule of the Shari` ah. None of such views can be accepted as being definite unless supported by some valid argument. The best practice, in this regard, is the one followed by the Companions, their disciples, and the elders who followed them. They left such matters to Allah and never tried to make ungrounded supposition to resolve them. (Bayan al-Qur'an).
 
+## AI Translation
+
+Allah said, “O Moses! I have elevated you above all others by My messages and speech. So hold firmly to what I have given you and be grateful.”
+
+## AI Tafsir
+
+**What this ayah teaches:** So hold that which I have given you and be of the grateful. The wording of the present verse indicates that this later discourse of Allah had some additional characteristics as compared to the first speech of Allah.
+
+**Classical tafsir:** Ibn Kathir notes: The wording of the present verse indicates that this later discourse of Allah had some additional characteristics as compared to the first speech of Allah.
 ## Personal Reflections
 
 

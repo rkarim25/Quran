@@ -144,6 +144,15 @@ This verse also tells us that faith ('Iman ایمان ) is the greatest blessing
 
 and disbelief (kufr کفر ) is the greatest misfortune, and that there is darkness in friendship with those who disbelieve (kuffar کُفار ).
 
+## AI Translation
+
+Allah is the ally of those who believe — He brings them out of darkness into light. As for those who reject, their allies are false powers that pull them from light into darkness. They are the people of the Fire, remaining forever.
+
+## AI Tafsir
+
+**What this ayah teaches:** But as for those who disbelieve, their Awliya' (supporters and helpers) are Taghut (false deities and false leaders), they bring them out from light into darknesses. He brings them out from darknesses into light.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

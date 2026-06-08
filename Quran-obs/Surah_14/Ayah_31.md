@@ -144,6 +144,15 @@ As for the statement that no friendship will work for anyone on the day of Qiyam
 
 In the third, fourth and fifth verses (32-34), after recounting the major blessings of Allah Ta’ ala, human beings have been invited to worship and obey Him. They are told that it is Allah alone who has created the heavens and the earth on which depends the emergence and survival of human existence. Then, He sent water down from the sky through which He created produce of many kinds so that they can serve as sustenance for them. The word: الثَّمَرات (ath-thamarat) is the plural form of ثَمَرَہ (thamarah) which is the end product of everything. Therefore, included under 'ath-thamarat' is everything which becomes for human beings their food, dress or a home to live in - because, the word: رِزَق (rizq) translated as 'sustenance' in this verse covers all human needs. (Mazhari)
 
+## AI Translation
+
+Tell My believing servants to establish salah and give from what We provided—openly and secretly—before a Day arrives when there will be no ransom and no friendly ties.
+
+## AI Tafsir
+
+**What this ayah teaches:** Rather, on that Day, there will be fairness and justice." Qatadah said, "Allah knows that in this life, there is mutual bargaining and there are friendships which people benefit from.
+
+**Classical tafsir:** Ibn Kathir notes: Rather, on that Day, there will be fairness and justice." Qatadah said, "Allah knows that in this life, there is mutual bargaining and there are friendships which people benefit from.
 ## Personal Reflections
 
 

@@ -141,6 +141,15 @@ Among them there was a person named Samiri who was a prominent man, but at the s
 
 Having designed this satanic invention he invited the people to worship the calf and said that it was god. He said that the Prophet Musa (علیہ السلام) had gone to speak with God to the mount of Sinai while god had come to them in the form of this calf. Samiri already enjoyed a place of respect among them, this unusual demonstration increased their trust in him and they started worshipping the calf, and took it as their god. The verse 148 has given a short description of this event while another verse of the Holy Qur'an has described it in detail.
 
+## AI Translation
+
+In the absence of Moses, his people made from their jewellery an idol of a calf that made a lowing sound. Did they not see that it could neither speak to them nor guide them to the Path? Still they took it as a god and were wrongdoers.
+
+## AI Tafsir
+
+**What this ayah teaches:** They said that this, the calf, is your Allah and the Allah of Musa, but Musa forgot it!
+
+**Classical tafsir:** Ibn Kathir notes: The verse 148 has given a short description of this event while another verse of the Holy Qur'an has described it in detail.
 ## Personal Reflections
 
 

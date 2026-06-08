@@ -150,6 +150,17 @@ The third ruling that we come to know from this verse is: If someone utters an o
 
 "A person who utters an oath, then he decides that doing otherwise is better, then he should invariably do what is better - and pay kaffrah for his oath."
 
+## AI Translation
+
+We told him: "Take a bundle of grass in your hand and strike with it without breaking your oath." We found him patient—what an excellent servant! He constantly turned back to Allah.
+
+## AI Tafsir
+
+**Context:** (Allah's Prophet Ayyub, peace be upon him, suffered for eighteen years from his affliction and was shunned by relatives and strangers alike, besides two men who were the closest of his brothers to him.
+
+**What this ayah teaches:** Otherwise, Hanafi jurists have clearly said that, should the striking be accomplished subject to these two conditions, the oath is fulfilled.
+
+**Classical tafsir:** Ibn Kathir notes: Then he had nothing left in this world which he could use to help him deal with his sickness or the predicament he was in, besides his wife, who retained her devotion to him because of her faith in Allah and His Messenger.
 ## Personal Reflections
 
 

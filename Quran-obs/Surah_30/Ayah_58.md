@@ -154,6 +154,19 @@ Surah Ar-Rum
 
 Ends here.
 
+## AI Translation
+
+We set forth every kind of lesson in this Quran. Whatever sign you bring, those who reject the truth will say to believers: You are only people of falsehood.
+
+## AI Tafsir
+
+**Context:** It is revealed in this verse that the infidels will lie on the Day of Resurrection in their swearing that they did not stay in the world or barzakh for more than an hour.
+
+**What this ayah teaches:** If it were possible to speak a lie, he would have said ` Allah is my Lord' and ` Muhammad is His Prophet ﷺ .' It looks rather strange that infidels are capable of speaking lies before Allah Ta’ ala, but not before the angels.
+
+**Classical tafsir:** Ibn Kathir notes: It is probable that the stay referred to here is the stay in this world, because they spent the time in this world in comfort and ease.
+
+**From the Sunnah:** from a man among the Companions of the Prophet ﷺ that the Messenger of Allah ﷺ led them in Fajr prayer and recited Ar-Rum in the prayer, but he became confused in his recitation.
 ## Personal Reflections
 
 

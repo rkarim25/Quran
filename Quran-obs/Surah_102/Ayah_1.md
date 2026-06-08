@@ -178,6 +178,19 @@ Warning Against Materialistic Attitude
 
 Verse [ 1] أَلْهَاكُمُ التَّكَاثُرُ‌ (You are distracted by mutual competition in amassing [ worldly benefits ].) The word takathur is derived from the root kathrah, and means 'to amass much wealth'. Sayyidna Ibn ` Abbas ؓ and Hasan Basri (رح) have assigned this interpretation to it. Qatadah رحمۃ اللہ علیہ says that this word is also used in the sense of 'taking pride in the abundance of material goods'. Sayyidna Ibn ` Abbas ؓ reports that the Messenger of Allah ﷺ recited this verse and explained its meaning, thus: "Acquiring wealth but not paying out of it the obligatory dues." [ Qurtubi ].
 
+## AI Translation
+
+Rivalry in piling up more—followers, income, gadgets, status—distracts you from what matters until you visit the graves.
+
+## AI Tafsir
+
+**Context:** In Sahih Al-Bukhari, it is recorded in the Book of Ar-Riqaq (Narrations that soften the Heart) from Anas bin Malik, who reported that Ubayy bin Ka'b said, "We used to think that this was a part of the Qur'an until the Ay…
+
+**What this ayah teaches:** Therefore, whoever does not maintain the right that is obligatory upon him, then he is unjust. The mutual increase diverts you,)(2.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, whoever does not maintain the right that is obligatory upon him, then he is unjust.
+
+**From the Sunnah:** this Hadith. (Sahih Muslim, Jami' at-Tirmidhi) This Hadith has also been recorded by Muslim, At-Tirmidhi and An-Nasa'i. (Sahih Muslim, Musnad Ahmad)
 ## Personal Reflections
 
 

@@ -124,6 +124,17 @@ According to a narration of Sayyidna Abu Said al-Khudri ؓ ، the Holy Prophet �
 
 Imam al-Qurtubi (رح) Ta’ ala said: Commentators explain that every inmate of Jannah will have bracelets to wear on their hands - of gold, silver, and pearls. About this celestial bracelet, a verse mentions 'of silver' (76:21) while others, 'of gold' (18:31; 22:23; 35:33; 43:53). The present explanation brings both verses in correspondence.
 
+## AI Translation
+
+They will enter the Gardens of Eternity, adorned with bracelets of gold and pearls, clothed in silk.
+
+## AI Tafsir
+
+**What this ayah teaches:** They will be ornamented with bracelets of gold and with pearls, and their dress therein will be (of) silk.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** It was recorded in the Sahih that the Messenger of Allah ﷺ said: Light emitted by the smallest of its pearls will fill the entire horizon from the East to the West.' (Reported by at-Tirmidhi and al-Hakim, who has authenticated it, and by al-Baihaqi - from Mazhari) (Jami' at-Tirmidhi, al-Mustadrak)
 ## Personal Reflections
 
 

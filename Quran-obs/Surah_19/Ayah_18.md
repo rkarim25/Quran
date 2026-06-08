@@ -149,6 +149,15 @@ This means that he will call to the worship of his Lord in his cradle and while 
 
 These are the words which a helpless person would utter to a cruel oppressor begging him that if he is a believer then he should desist from tormenting him. The intention is that Sayyidah Maryam (علیہا السلام) entreated Sayyidna Jibra'il (علیہ السلام) who stood before her in the guise of a man, that he should fear Allah and abstain from evil deeds. In short, the expressionإِن كُنتَ تَقِيًّا (if you are God-fearing - 19:18) is not a precondition for seeking the protection of Allah but a condition to make her prayer more effective and inducing. Some other commentators have said that this expression is used for emphasis, meaning that even if you fear Allah I seek His protection; and if the position is otherwise then I shall seek Allah's refuge with added vehemence. (Mazhari)
 
+## AI Translation
+
+She said: "I seek refuge in the Rahman—whose mercy encompasses all creation—from you. Leave me if you have taqwa."
+
+## AI Tafsir
+
+**What this ayah teaches:** Some other commentators have said that this expression is used for emphasis, meaning that even if you fear Allah I seek His protection; and if the position is otherwise then I shall seek Allah's refuge with added vehemence. This is what is legislated in defense against (evil), so that it may be repulsed with ease.
+
+**Classical tafsir:** Ibn Kathir notes: And he will speak to the people, in the cradle and in manhood, and he will be one of the righteous.)[3:45-46] This means that he will call to the worship of his Lord in his cradle and while and adult.
 ## Personal Reflections
 
 

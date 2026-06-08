@@ -154,6 +154,17 @@ Giving the second reason for fighting against them, it was said: وَهُم بَ
 
 Then, to remove the awe of the enemy from the hearts of Muslims, it was said: أَتَخْشَوْنَهُمْ ۚ فَاللَّـهُ أَحَقُّ أَن تَخْشَوْهُ (Do you fear them? Then, Allah is worthier that you fear Him) for there is no power that can cause His punishment to disappear. Finally, by saying: إِن كُنتُم مُّؤْمِنِينَ (if you are be-lievers), it was made clear that fearing anyone or anything other than Allah in a manner that obstructs the fulfillment of the injunctions of the Shari’ ah of Islam is not what a true believing-practicing Muslim would do.
 
+## AI Translation
+
+Will you not fight those who have broken their oaths, conspired to expel the Messenger, and attacked you first? Do you fear them? Allah is more deserving of your fear, if you are those who have iman.
+
+## AI Tafsir
+
+**What this ayah teaches:** What Muslims have to do now is simply to defend themselves, an action universally sane and normal.
+
+**Classical tafsir:** Ibn Kathir notes: This refers to the Jews of Madinah who had hatched a plan to expel the Holy Prophet ﷺ from the city of Madinah.
+
+**From the Sunnah:** When they knew that their caravan escaped safely, they still went ahead with their intent to fight Muslims out of arrogance, as we mentioned before. After that, to persuade Muslims to fight, they were told in verse 13 that there was no reason why they would not be ready to fight against the kind of people who had conspired to expel the Messenger of Allah.
 ## Personal Reflections
 
 

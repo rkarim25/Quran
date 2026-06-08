@@ -169,6 +169,15 @@ That they are proofs of the Oneness of Allah (Tauhid) is not difficult to see. H
 
 And they are proofs of the 'Akhirah (Hereafter) because Allah is a great creator. He created, in His infinite wisdom, objects of such pro-portion and efficiency for the benefit of human beings. Then, He made them follow a remarkably stable system. Now, it is not possible that He would have created human beings, who are the served ones in this universe, just for nothing, or just to eat and drink, or in some other nonchalant manner without assigning any duties to them. When it stands settled that some restrictions must apply to the served one of this universe, it also becomes necessary that those who observe or do not observe these restrictions should face an accounting of what they have done, sometime, somewhere. Naturally, those who do observe these shall be rewarded and those who do not shall be punished. Then, it is also obvious that things do not work like this in the present world of our experience. Here, reward and punishment do not follow that pattern. It is quite likely that a criminal here may be living better as compared to someone God-fearing, righteous and innocent. Therefore, it is necessary to have a day for the accounting of deeds, rewards and punishments. This is what Qiyamah (The Last Day) and 'Akhirah (Hereafter) are.
 
+## AI Translation
+
+Surely in the alternation of night and day, and in what Allah created in the heavens and earth, are signs for people who live with taqwa — Allah-consciousness, as though Allah sees you.
+
+## AI Tafsir
+
+**What this ayah teaches:** He explains the Ayat in detail for people who have knowledge (5)Verily, in the alternation of the night and the day and in all that Allah has created in the heavens and the earth are Ayat for those who have Taqwa .
+
+**Classical tafsir:** Ibn Kathir notes: He explains the Ayat in detail for people who have knowledge (5)Verily, in the alternation of the night and the day and in all that Allah has created in the heavens and the earth are Ayat for those who have Taqwa .
 ## Personal Reflections
 
 

@@ -164,6 +164,15 @@ Verse 241: The divorced women deserve a benefit
 
 Providing compensatory benefits (` mata متاع `) for divorced women has also been dealt with in verses earlier than this, but that was restricted to two types of divorced women who were divorced before privacy and consummation. The first case of providing compensatory benefits was the giving of a set of clothes. The second case was of providing compensatory benefit in the form of half of the dower. Now remains the case of divorcees who were divorced after privacy and con-summation. Here, providing compensatory benefits to one whose dower has already been fixed lies in giving her the full amount of dower or mahr. For one whose dower has not already been fixed, a post-consummation divorce will make it obligatory to give her mahr almithl مھر المثل or 'equivalent dower' (as customarily given in the immediate family circle of the woman). If the word 'benefit' used in this verse is taken to mean 'dower', its payment is obligatory according to these de-tails. However, if we take math' to mean a particular benefit, that is, the giving of a gift or set of clothes, then giving this to a particular type of divorced woman is obligatory which has been pointed out earlier. In the rest of the cases, this is mustahabb مستحب or desirable. And should math` be taken to mean maintenance or nafaqah, then it is obligatory until the expiry of ` iddah in the case of a divorce after which ` iddah has to be observed. The divorce may be revocable (رجعی) or irrevocable (باین) --it does not matter. To sum up, the verse, by using universally applicable words, covers all situations.
 
+## AI Translation
+
+Reasonable provision must be made for divorced women — a duty on those who live with taqwa.
+
+## AI Tafsir
+
+**What this ayah teaches:** This is a duty on Al-Muttaqin (the pious).) The scholars who ruled that the Mut'ah (reasonable gift) at the time of divorce is required for every divorced woman, whether she had a bridal-money appointed for her or not, and whether the marriage was consummated or not, relied on this Ayah (2:241) when they issued their ruling.
+
+**Classical tafsir:** Ibn Kathir notes: Later, the Ayah that specified the inheritance (4:12) abrogated this Ayah (2:240), and thus the widow inherits one-fourth or one-eighth of what her (deceased) husband leaves behind." Ibn Abu Hatim also related that 'Ali bin Abu Talhah stated that Ibn 'Abbas said, "When a man died and left behind a w…
 ## Personal Reflections
 
 

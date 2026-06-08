@@ -299,6 +299,17 @@ The punishment for miserliness بُخُل (Bukhl) mentioned in this verse: 'They
 
 'Anyone Allah blessed with some wealth and who did not pay the zakah due on it properly will find his or her wealth turn into a deadly snake shackled round the neck chomping at the person's mouth from one to the other end of the lips and saying: 'I am your wealth. I am your capital gain.' Thereafter, the Holy Prophet ﷺ recited this verse (180). (Al-Nas'i, from Tafsir al-Qurtubi)
 
+## AI Translation
+
+And do not let those who withhold Allah’s bounties think it is good for them—in fact, it is bad for them! They will be leashed on the Day of Judgment with whatever they used to withhold. And Allah is the inheritor of the heavens and the earth. And Allah is All-Aware of what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** And let not those who are stingy with that which Allah has bestowed on them of His bounty think that it is good for them.
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah refers to Uhud, since Allah tested the believers in that battle, thus making known the faith, endurance, patience, firmness and obedience to Allah and His Messenger ﷺ that the believers had.
+
+**From the Sunnah:** Because the Prophet ﷺ was eager for people's benefit, he would become sad when the those who reject the truth would resort to defiance, rebellion and stubbornness. Allah mentions the money that the miser collected on the Day of Resurrection,
 ## Personal Reflections
 
 

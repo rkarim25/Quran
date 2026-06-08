@@ -190,6 +190,15 @@ Then Allah mentions the reason why He punished them, and the sins which they com
 
 In verse 19, it was said: يَعْلَمُ خَائِنَةَ الْأَعْيُنِ (He knows the treachery of the eyes), in other words, eyes that betray the trust. It means the action of a person who would, secretly and surreptitiously, cast a glance over something haram and impermissible for him or her, for example, casts a glance at a non-mahram person with sexual desire, and takes it away in the event someone was around, or casts a glance in a manner that is not noticed by others. All these things are open before Allah Ta’ ala.
 
+## AI Translation
+
+Have they not travelled throughout the land to see the end of those destroyed before them? They were far superior in might and richer in monuments throughout the land. But Allah seized them for their sins, and they had no protector from Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** Have they not traveled in the land and seen what was the end of those who were before them? They were superior to them in strength, and in the traces in the land.
+
+**Classical tafsir:** Ibn Kathir notes: And none had they to protect them from Allah (21)That was because there came to them their Messengers with clear evidences but they disbelieved (in them).
 ## Personal Reflections
 
 

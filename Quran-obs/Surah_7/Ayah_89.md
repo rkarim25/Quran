@@ -234,6 +234,15 @@ It was due to this quality of trusting in Allah alone that when, after having ta
 
 And in reality, through these words, Sayyidna Shu'aib (علیہ السلام) had prayed for the destruction of the disbelievers from among his people - which was answered by Allah Ta'ala when they were destroyed by an earthquake.
 
+## AI Translation
+
+We would surely be fabricating a lie against Allah if we were to return to your faith after Allah has saved us from it. It does not befit us to return to it unless it is the Will of Allah, our Rabb. Our Rabb has encompassed everything in knowledge. In Allah we trust. Our Rabb! Judge between us and our people with truth. You are the best of those who judge.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Now if we were to return to your faith, this would amount to a false and grim accusation by us against Allah Ta` ala. And it is not for us to return to it unless Allah, our Lord, should will.
+
+**Classical tafsir:** Ibn Kathir notes: Allah describes the way the those who reject the truth answered His Prophet Shu'ayb and those who believed in him,by threatening them with expulsion from their village,or with forceful reversion to the those who reject the truth's religion.
 ## Personal Reflections
 
 

@@ -252,6 +252,17 @@ This command to show forbearance towards the Jews was proper to the situations o
 
 30. Which is a special levy on non-Muslims who live under the protection of the Islamic state and which absolves them from military service.
 
+## AI Translation
+
+Many among the People of the Book wish they could turn you back to rejection after the truth has become clear to them — out of envy. Pardon and bear with them until Allah delivers His decision. Allah is capable of everything.
+
+## AI Tafsir
+
+**Context:** Allah said that after He illuminated the truth for them, such that they were not ignorant of any of it, yet their envy made them deny the Prophet ﷺ.
+
+**What this ayah teaches:** Many of the People of the Scripture (Jews and Christians) wish that they could turn you away as those who reject the truth after you have believed, out of envy from their own selves, even after the truth (that Muhammad ﷺ is Allah's Messenger) has become manifest unto them.
+
+**Classical tafsir:** Ibn Kathir notes: Allah's pardon for the those who reject the truth was repealed." Abu Al-'Aliyah, Ar-Rabi' bin Anas, Qatadah and As-Suddi said similarly: It was abrogated by the Ayah of the sword." (Mentioned above).
 ## Personal Reflections
 
 

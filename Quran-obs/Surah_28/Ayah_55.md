@@ -157,6 +157,17 @@ Allah tells us that the pious scholars among the People of the Book believe in t
 
 سَلَامٌ عَلَيْكُمْ لَا نَبْتَغِي الْجَاهِلِينَ (Peace be on you. We do not seek (the way of) the ignorant. - 28:55). These people have a good quality in that when they hear something stupid from an ignorant foe, they simply say salam, instead of giving a reply. They do not entangle themselves with the ignorant. Imam Jassas (رح) has said that there are two kinds of salarns. One is for salutation, as Muslims do to one another. The other type is for musalamah (adopting peaceful attitude with others) and mutarakah, (to avoid debate) which is to convey to one's adversary that he does not wish to take note of the latter's stupidity. At this place the latter meaning is intended.
 
+## AI Translation
+
+When they hear slanderous talk, they turn away from it, saying, “We are accountable for our deeds and you for yours. Peace is our only response to you! We want nothing to do with those who act ignorantly.”
+
+## AI Tafsir
+
+**Context:** (And there are, certainly, among the People of the Scripture, those who believe in Allah and in that which has been revealed to you, and in that which has been revealed to them, humbling themselves before Allah)(3:199).
+
+**What this ayah teaches:** These people have a good quality in that when they hear something stupid from an ignorant foe, they simply say salam, instead of giving a reply. The other type is for musalamah (adopting peaceful attitude with others) and mutarakah, (to avoid debate) which is to convey to one's adversary that he does not wish to take note of the latter's stupidity.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

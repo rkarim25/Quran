@@ -502,6 +502,17 @@ Surah Al-Muzzammil
 
 Ends here
 
+## AI Translation
+
+Your Rabb knows you stand in prayer nearly two-thirds of the night, or half, or a third—and so do some believers with you. He measures night and day precisely. He knows you cannot keep that burden, and has eased it for you in mercy. So recite whatever you can of the Qur'an. He knows some of you are ill, some travel seeking Allah's bounty, and some strive in Allah's cause. Recite what you can. Establish salah—the formal prayer—pay zakat—the obligatory sharing of wealth—and lend Allah a good loan. Whatever good you send ahead, you will find it with Allah, better and greater in reward. And seek Allah's forgiveness. He is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**Context:** (He knows that there will be some among you sick, others traveling through the land, seeking of Allah's bounty, yet others fighting in Allah's cause.) meaning, He knows that there will be people of this nation who will h…
+
+**What this ayah teaches:** If tahajjud is a nafl prayer for all, then it is not clear why addressing the Holy Prophet the verse adds lak 'for you' as if it is a distinctively voluntary act for the Holy Prophet.
+
+**Classical tafsir:** Ibn Kathir notes: Even if the verse is treated as Makki, there should be no problem in taking the word zakah in its technical sense of prescribed zakah as Iruh-ul- Ma` ani explains in detail.
 ## Personal Reflections
 
 

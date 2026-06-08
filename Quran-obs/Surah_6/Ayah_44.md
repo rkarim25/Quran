@@ -176,6 +176,15 @@ Following a narration from Sayyidna ` Ubadah ibn Al-Samit, leading commentator I
 
 When Allah Ta’ ala wills to have a nation survive and grow, He creates in them two qualities: (1) moderation in everything they do, and (2) modesty and chastity, that is, abstinence from indulging in what is not right. And when Allah Ta` ala wills to destroy a nation, He opens for them the doors of breach of faith (Khiyanah), that is, they appear to be successful in the world despite their breaches of faith and wrong doings.
 
+## AI Translation
+
+When they became oblivious to warnings, We showered them with everything they desired. But just as they became prideful of what they were given, We seized them by surprise, then they instantly fell into despair!
+
+## AI Tafsir
+
+**What this ayah teaches:** And We seized them with extreme poverty and loss of health so that they might believe with humility (42)When Our torment reached them, why then did they not believe with humility?
+
+**Classical tafsir:** Ibn Kathir notes: And We seized them with extreme poverty and loss of health so that they might believe with humility (42)When Our torment reached them, why then did they not believe with humility?
 ## Personal Reflections
 
 

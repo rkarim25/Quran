@@ -165,6 +165,15 @@ And Allah knows best. This is the end of the Tafsir of Surat Az-Zukhruf.
 
 It should be noted that the present verse has been construed in different ways. The above translation is based on the construction adopted by Maulana Ashraf ` Ali Thanawi (رح) . Various other constructions are given in Ruh-ul-Ma` ani.
 
+## AI Translation
+
+Allah is aware of the Prophet's cry: "O my Lord, indeed these are a people who persist in rejecting the truth."
+
+## AI Tafsir
+
+**What this ayah teaches:** He is eternally free of all faults and shortcomings, because He is the Lord, the Exalted, the Almighty, the Sovereign of all things, Who is in control of all affairs.
+
+**Classical tafsir:** Ibn Kathir notes: He is eternally free of all faults and shortcomings, because He is the Lord, the Exalted, the Almighty, the Sovereign of all things, Who is in control of all affairs.
 ## Personal Reflections
 
 

@@ -144,6 +144,15 @@ After Allah mentions the wrongdoers and their threat, He then commends the pious
 
 يُنفَخُ فِي الصُّورِ‌ (رضی The Day when the Horn الصُّورِ‌ [ Sur ] will be blown - 20:102) According to Sayyidna Ibn ` Umar اللہ تعالیٰ عنہما ، a Bedouin الصُّورِ‌ asked the Holy Prophet ﷺ about صُور (the Horn) to which he replied that it is something like a horn which will be blown, meaning thereby that when the angel will blow into it all those who had lain dead for centuries will return to life. Only Allah knows the true nature of the Sur (the Horn).
 
+## AI Translation
+
+But whoever does good and is a believer will have no fear of being wronged or denied their reward.
+
+## AI Tafsir
+
+**What this ayah teaches:** And he who carried wrongdoing, will be indeed a complete failure (111)And he who works deeds of righteousness, while he is a believer, then he will have no fear of injustice, nor of any curtailment . This means that their evils will not be increased and their good deeds will not be decreased.
+
+**Classical tafsir:** Ibn Kathir notes: This means that their evils will not be increased and their good deeds will not be decreased.
 ## Personal Reflections
 
 

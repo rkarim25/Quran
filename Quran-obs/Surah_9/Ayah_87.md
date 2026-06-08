@@ -88,6 +88,15 @@ Allah said next,
 
 The expression: اُولُوا الطَّولِ (ulu 'at-caul: translated as ` the capable ones' ) (86) is not for particularization. Instead, it serves a purpose. It tells that there were others too, the ones not so capable. And the incapable ones had, at least, some obvious excuse to stay behind.
 
+## AI Translation
+
+They preferred to stay behind with the helpless, and their hearts have been sealed so they do not comprehend.
+
+## AI Tafsir
+
+**What this ayah teaches:** But when a decisive Surah (explaining and ordering things) is sent down, and fighting is mentioned therein, you will see those in whose hearts is a disease looking at you with a look of one fainting to death.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

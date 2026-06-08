@@ -182,6 +182,17 @@ The next sentence of the verse declares: يُغْشِي اللَّيْلَ ال�
 
 The last sentence of the verse: إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُ‌ونَ translated as 'surely, in that there are signs for a people who think,' means that there is no doubt about the fact that many signs of the most perfect power of Allah Ta’ ala are present all over for those who care to think about and deliberate in the arrangement and system of this whole universe.
 
+## AI Translation
+
+He spread out the earth, placed on it firm mountains and rivers, and created every kind of fruit in pairs. He wraps the day in night. In this are signs for people who reflect.
+
+## AI Tafsir
+
+**What this ayah teaches:** The expression: 'spread out the earth' is not contradictory of its being round - because each part of something very big and round appears to be, when looked at separately, nothing but a surface spread out - and the Qur’ an addresses common people in terms of their view of things.
+
+**Classical tafsir:** Ibn Kathir notes: Instead, it may be referring to several kinds the least number of which is two, therefore, it was termed as 'the pairs of two.' And it is not so unlikely that 'pairs' refers to the male and female, as we know about many trees which have males and females, for example, the date-pa…
+
+**From the Sunnah:** This meaning was collected from Ibn 'Abbas, Mujahid, Sa'id bin Jubayr, Ad-Dahhak and several others. There is an authentic Hadith that states that the Messenger of Allah ﷺ said to 'Umar bin Al-Khattab, (authentic hadith)
 ## Personal Reflections
 
 

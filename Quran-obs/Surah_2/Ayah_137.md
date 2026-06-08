@@ -138,6 +138,17 @@ Similarly, there are people whose minds and hearts are so befogged in modern mat
 
 Having defined the 'Iman which is acceptable to Allah, Verse 137 also points out that the enemies of Islam may yet remain unconvinced out of sheer obstinacy and malice. Allah asks the Holy Prophet not to worry about them, for Allah will deal with them Himself, and protect His prophet. This promise has been made more explicitly in an other verse: وَاللَّـهُ يَعْصِمُكَ مِنَ النَّاسِ : "And Allah will protect you against these people." (5:67) Subsequent events showed the fulfillment of this promise.
 
+## AI Translation
+
+If they believe as you believe, they are guided. If they turn away, they are in opposition. Allah will spare you their harm. He is the All-Hearing, the All-Knowing.
+
+## AI Tafsir
+
+**What this ayah teaches:** So if they believe in the like of that which you believe then they are rightly guided; but if they turn away, then they are only in opposition. The earlier verses having established that the only religion which is valid at present is Islam, this verse assures the Muslims that the Jews and the Christians can find the guidance only "if they believe just as you believe", or, in other words, "if they…
+
+**Classical tafsir:** Ibn Kathir notes: Ad-Dahhak said that Ibn 'Abbas commented, "The religion of Allah." This Tafsir was also reported of Mujahid, Abu Al-'Aliyah, 'Ikrimah, Ibrahim, Al-Hasan, Qatadah, Ad-Dahhak, 'Abdullah bin Kathir, 'Atiyah Al-'Awfi, Ar-Rabi' bin Anas, As-Suddi and other scholars.
+
+**From the Sunnah:** Allah's Islamic Monotheism))(30:30) directs Muslims to, "Hold to it." The earlier verses having established that the only religion which is valid…
 ## Personal Reflections
 
 

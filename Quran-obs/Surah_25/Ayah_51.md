@@ -132,6 +132,15 @@ Allah says:
 
 وَلَقَدْ صَرَّ‌فْنَاهُ بَيْنَهُمْ (And We have distributed it (the water) among them - 25:50). The verse says that We keep rotating the rainfall, that is, it sometimes falls in one locality and sometimes in another. Then sometimes a locality receives in one year more rain and in subsequent years less. Sayyidna ` Abdullah Ibn ` Abbas ؓ says that the presumption of some people that the quantity of rains varies from year to year is not really correct. In fact the aggregate amount of water sent down to the world (at macro-level) is equal every year. However, according to Allah's will, its allocation for different territories may change from year to year. Sometimes the quantity of water is curtailed for a specific habitation as a punishment and warning for it, and sometimes the quantity of rain is increased for a particular population, again as a punishment for their misdeeds. Thus the water that was a blessing in its origin turns into a torment for the people who are ungrateful and disobedient.
 
+## AI Translation
+
+Had We willed, We could have easily sent a warner to every society.
+
+## AI Tafsir
+
+**What this ayah teaches:** And had We willed, We would have raised a warner in every town (51)So obey not the those who reject the truth, but strive against them with the utmost endeavor with it (52)And it is He Who has let free the two seas, this is palatable and sweet, and that is salty and bitter; and He has set a barrier and a complete partition between them (53)And it is He Who has created man from water, and has appointed for him k…
+
+**Classical tafsir:** Ibn Kathir notes: Allah has told us about reality so that His servants may realize His blessings to them and give thanks to Him.
 ## Personal Reflections
 
 

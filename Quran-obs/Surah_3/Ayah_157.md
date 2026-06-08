@@ -119,6 +119,15 @@ Allah forbids His believing servants from the disbelievers' false creed, seen in
 
 The saying of the hypocrites in verse 156 here is an extension of what was cited in verse 154 earlier: لَوْ كَانَ لَنَا مِنَ الْأَمْرِ‌ شَيْءٌ مَّا قُتِلْنَا هَاهُنَا :"If we had any say in the matter, we would have not been killed here." Since there were chances that sincere Muslims may be affected by such doubt-creating devices used by hypocrites, Muslims were asked through these verses to remain unconcerned with such sayings and doings and adhere to the belief that the span of life and the time of death are ordained by Allah alone.
 
+## AI Translation
+
+Should you be martyred or die in the cause of Allah, then His forgiveness and mercy are far better than whatever those accumulate.
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah is All-Seer of what you do (156)And if you are killed or die in the way of Allah, forgiveness and mercy from Allah are far better than all that they amass (157)And whether you die or are killed, verily, unto Allah you shall be gathered .
+
+**Classical tafsir:** Ibn Kathir notes: Be not like those who disbelieve and who say to their brethren when they travel through the earth or go out to fight: "If they had stayed with us, they would not have died or been killed," so that Allah may make it a cause of regret in their hearts.
 ## Personal Reflections
 
 

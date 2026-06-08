@@ -86,6 +86,15 @@ After Allah mentioned the sins of the hypocrites, He praised the faithful believ
 
 The expression: اُولُوا الطَّولِ (ulu 'at-caul: translated as ` the capable ones' ) (86) is not for particularization. Instead, it serves a purpose. It tells that there were others too, the ones not so capable. And the incapable ones had, at least, some obvious excuse to stay behind.
 
+## AI Translation
+
+But the Messenger and those who have iman with him strived with their wealth and their lives. They will have all the best, and it is they who will be successful.
+
+## AI Tafsir
+
+**What this ayah teaches:** But the Messenger and those who believed with him strove hard and fought with their wealth and their lives. This describes the qualities, as well as, the reward of faithful believers.
+
+**Classical tafsir:** Ibn Kathir notes: This describes the qualities, as well as, the reward of faithful believers.
 ## Personal Reflections
 
 

@@ -133,6 +133,15 @@ The name of this believing member of the House of the Pharaoh has been given as 
 
 In a Hadith, the Holy Prophet ﷺ said, 'Of some صِّدِّيقِين (siddiqin: the truthful ones), there is Habib najjar (carpenter) whose incident appears in Surah Ya Sin; the other is the believer from the House of Pharaoh; the third, Abu Bakr (Sayyidna Abu Bakr as۔ ؓ ), and he is the foremost among them.' (Qurtubi)
 
+## AI Translation
+
+to Pharaoh, Haman, and Qarun. But they responded: "Sorcerer! Total liar!"
+
+## AI Tafsir
+
+**What this ayah teaches:** - A1-Qasas, 28:20) The name of this believing member of the House of the Pharaoh has been given as Habib in some sources.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, this was one command after another.
 ## Personal Reflections
 
 

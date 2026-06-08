@@ -74,6 +74,15 @@ It was said that these days were during the month of Dhul-Qa'dah plus the first 
 
 The Israelites were forgiven only when they had offered Taubah توبہ (repentance), as recounted in Verse 54. In saying that they were pardoned so that they might learn gratefulness, the present verse employs the Arabic word لَعَلَ La` lla which indicates expectation. In the present context it does not mean that Allah had or could have any doubt or misgiving about this or any other matter; what the word implies here is just that when a man receives a pardon, the onlookers may expect him to feel grateful.
 
+## AI Translation
+
+Even then We forgave you, so that you might show shukr — gratitude in word and action.
+
+## AI Tafsir
+
+**What this ayah teaches:** And (remember) when We appointed for Musa (Moses) forty nights, and (in his absence) you took the calf (for worship), and you were Zalimun (polytheists and wrongdoers)(51)Then after that We forgave you so that you might be grateful (52)And (remember) when We gave Musa the Scripture (the Tawrah)) and the criterion (of right and wrong) so that you may be guided aright .
+
+**Classical tafsir:** Ibn Kathir notes: In the present context it does not mean that Allah had or could have any doubt or misgiving about this or any other matter; what the word implies here is just that when a man receives a pardon, the onlookers may expect him to feel grateful.
 ## Personal Reflections
 
 

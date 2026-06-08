@@ -99,6 +99,15 @@ The composition of every human being contains, together with the seed, the earth
 
 The words مِنْهَا خَلَقْنَاكُمْ (From this We created you) in verse 55 means that Allah created you from the earth. This verse is addressed to all mankind although it is known that man is created from seed and not from earth, except Sayyidna 'Adam (علیہ السلام) who was created directly from earth. One possible explanation for this is that since Sayyidna 'Adam علیہ السلامٍ is the father of all mankind and was himself created from earth, therefore all his descendants have been similarly described. Others have said that the seed itself is made of earth therefore anything created from the seed is in fact created from the earth. According to Imam al-Qurtubi (رح) the text of the Qur'an clearly indicates that man is created from the earth.
 
+## AI Translation
+
+And We certainly showed Pharaoh all of Our signs, but he denied them and refused to believe.
+
+## AI Tafsir
+
+**What this ayah teaches:** And We have brought forth with it various kinds of vegetation (53)Eat and pasture your cattle; verily, in this are Ayat for men of understanding (54)Thereof We created you, and into it We shall return you, and from it We shall bring you out once again (55)And indeed We showed him (Fir'awn) all Our Ayat, but he denied and refused .
+
+**Classical tafsir:** Ibn Kathir notes: Others have said that the seed itself is made of earth therefore anything created from the seed is in fact created from the earth.
 ## Personal Reflections
 
 

@@ -101,6 +101,17 @@ Commentary
 
 لَأُوتَيَنَّ مَالًا وَوَلَدًا ("I shall certainly be given wealth and children". - 19:77) Bukhari and Muslim relate the story of Sayyidna Khabab Ibn Al-'Aratt ؓ who had lent some money to ` As Ibn Wa’ il. When pressed to return the loan, ` As Ibn Wa’ il said that he would not make the payment until he (Sayyidna Khabab ؓ dissociated himself from the Holy Prophet ﷺ . Sayyidna Khabab ؓ replied that he would never do that - not until ` As was dead and rose to life again. At this ` As Ibn Wa’ il said, "What? Will I be brought to life again after I am dead? If so I will repay the loan only after I am brought back to life again because even then I will have my wealth and my children." (Qurtubi)
 
+## AI Translation
+
+Have you seen one who rejects Our revelations yet boasts: "I will definitely be granted wealth and children"?
+
+## AI Tafsir
+
+**What this ayah teaches:** It means, "We will take all of this from him, in opposition to his claim that he will be given more wealth and children in the Hereafter than he had in this life." To the contrary, in the Hereafter that which he had in this life will be taken from him.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** It has already been stated that in Sahih Al-Bukhari it is mentioned that covenant means an agreement. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

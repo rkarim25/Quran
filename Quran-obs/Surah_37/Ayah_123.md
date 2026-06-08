@@ -132,6 +132,17 @@ It seems that scholars like Ka'b al-Ahbar and Wahb Ibn Munabbih who were well ve
 
 In short, it is not proved from any authentic Islamic report that Sayyidna Ilyas (علیہ السلام) is alive. Hence, in this matter, the safest (and the sanest) course is to observe silence. Particularly, in the case of Isra'ili (Judaic) narratives, one should follow the teaching of the Holy Prophet ﷺ : 'neither confirm, nor falsify these.' The reason is that the Qur'an has a purpose - that is, it should be understood, provide lessons and give good counsel. This purpose can be achieved fully even without having to do something like this. And Allah is Pure and High - He knows best. Now, we can turn to an explanation of the verses.
 
+## AI Translation
+
+And Elias was indeed one of the messengers.
+
+## AI Tafsir
+
+**What this ayah teaches:** Since the noble Qur'an is no book of history, therefore, rather than describe details of this struggle, it restricts itself to saying only that which was necessary for taking a lesson. But, except for a few votaries of truth, no one listened to him, in fact, tried to harass him in all sorts of ways, so much so that Ahab and his wife, Isabelle planned to kill him.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ikrimah and Qatadah said, "This is the language of the people of Yemen." According to another report from Qatadah, it is the language of Azd Shanu'ah.
+
+**From the Sunnah:** Qatadah and Muhammad bin Ishaq said, "Ilyas is another name for Idris." Ibn Abi Hatim recorded that 'Abdullah bin Mas'ud, may Allah be pleased with him, said, "Ilyas is Idris." This was also the view of Ad-Dahhak .
 ## Personal Reflections
 
 

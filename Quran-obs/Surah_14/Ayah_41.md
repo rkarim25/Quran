@@ -122,6 +122,15 @@ Here, Baytullah has been qualified as: مُحَرَّم (muharram) which means '
 
 However, ثَمَرَۃ thamrah or fruit is also used in the sense of outcome and produce which is more general than things edible. The outcome of everything beneficial can be called its thamrah or fruit. Thus, the fruits of industries would be their products. The fruit of a job or work would be the pay or wages received as a result. In a verse of Surah Al-Qasas, also used there is the expression ثَمَرَ‌اتُ كُلِّ شَيْءٍ (fruits [ or produce ] of all things - 28:57). Here, instead of using the word: " شَجَرَ " (shajar : tree), what has been used is the word: شَيْءٍ (sha'ii : thing). Perhaps, this may be indicating that for these people Sayyidna Ibrahim (علیہ السلام) has not simply prayed for the provision of fruits to eat. Rather, the prayer he has made is for the end product of everything which includes the products and produce and use-worthy things of all kinds, and again, with earnest pleading and humble plaint alongwith the recounting of praises for Allah Ta’ ala, then, this would be a manner in which it can be strongly hoped that the prayer will be answered.
 
+## AI Translation
+
+Our Rabb, forgive me, my parents, and the believers on the Day judgment arrives."
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, my Lord is indeed the All-Hearer of invocations.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, there is no contradiction between this statement and the comment made on the verse 35.
 ## Personal Reflections
 
 

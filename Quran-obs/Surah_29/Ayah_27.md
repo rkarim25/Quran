@@ -162,6 +162,17 @@ The reward for some actions is bestowed in this world as well
 
 وَآتَيْنَاهُ أَجْرَ‌هُ فِي الدُّنْيَا (And gave his reward in the world - 29:27). That is, ` We rewarded Ibrahim for his sacrifices in the way of Allah and righteous actions in this world also'. He is made popular and the Imam among the people of the world. He is respected by all alike, whether Jews, Christians or idol worshippers. In the Hereafter he will be among the Salihin (righteous) of the Paradise. It clarifies that although the real reward for good deeds will be awarded in the Hereafter, but a small part of it is also given in this world. Some authentic ahadith have also described about the award of benefits in this world against good deeds, and depraved outcome of the bad deeds. Maulana Hakim-ul-Ummah (رح) has put together all such acts in his booklet ` Jaza'-ul-A` mal' (جَزَاّء الاَعمَال ).
 
+## AI Translation
+
+We blessed him with Isaac and Jacob, and placed prophethood and revelation among his descendants. We gave him his reward in this dunya, and in the Akhirah he is among the righteous.
+
+## AI Tafsir
+
+**What this ayah teaches:** It clarifies that although the real reward for good deeds will be awarded in the Hereafter, but a small part of it is also given in this world.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas and Ad-Dahhak said that Ibrahim is the one who is referred in the phrase.
+
+**From the Sunnah:** But if it is asked how we may reconcile this Ayah with the Hadith narrated in the Sahih which says that when Ibrahim passed by that tyrant and he asked about Sarah and what her relationship was to him, Ibrahim said, "My sister." Then he went to her and said, "… (Sahih Muslim)
 ## Personal Reflections
 
 

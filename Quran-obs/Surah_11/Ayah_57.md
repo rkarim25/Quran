@@ -132,6 +132,15 @@ After that, the next eight verses (61-68) carry the story of Sayyidna Salih peac
 
 Sayyidna Salih (علیہ السلام) warned them: If Allah Ta` ala shows you your custom-ordered miracles, and you still fail to believe, then, according to the customary practice of Allah, the punishment will come and destroy all of you. But, they remained obstinate and Allah Ta` a1a, in His perfect power, made the miracle they demanded manifest before them. The rock of the mountain in front of them split asunder. Out from it came the she-camel bearing the features specified by them. Allah Ta` ala ordered them not to harm that she-camel in any manner, otherwise the punishment will come upon them. But, they disobeyed this order as well, and killed the she-camel. Consequently, they were seized by Allah Ta` ala, Sayyidna Salih (علیہ السلام) and his companions were saved from the punishment, and the rest of those people were destroyed by a Sound which was severe and terrifying.
 
+## AI Translation
+
+But if you turn away, I have already delivered to you what I have been sent with. My Rabb will replace you with others. You are not harming Him in the least. Indeed, my Rabb is a vigilant Keeper over all things.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, my Lord is Guardian over all things (57)And when Our commandment came, We saved Hud and those who believed with him by a mercy from Us, and We saved them from a severe torment (58)Such were [the people of] 'Ad.
+
+**Classical tafsir:** Ibn Kathir notes: They rejected the Ayat of their Lord) This means they disbelieved in the proofs and revelations (of Allah) and they disobeyed the Messengers of Allah.
 ## Personal Reflections
 
 

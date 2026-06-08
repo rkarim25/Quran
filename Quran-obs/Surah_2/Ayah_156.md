@@ -148,6 +148,17 @@ A formula of peace in hardship
 
 That the patient people used to recite: إِنَّا لِلَّـهِ وَإِنَّا إِلَيْهِ رَ‌اجِعُونَ : 'We belong to Allah and to Him we are to return' is, in fact, an inculcation of the principle of virtue. The suggestion is that this is what the patient people should say as it brings excellent reward, relieves from the burden of sorrow and suffering and consoles effectively the grieved heart.
 
+## AI Translation
+
+who, when disaster strikes, say, "We belong to Allah and to Him we return."
+
+## AI Tafsir
+
+**What this ayah teaches:** It is not because I do not want you, but I am very jealous and I fear that you might experience some wrong mannerism from me for which Allah would punish me. It will not, therefore, amount to impatience if one does regard such accidents as either strange or a remote chance.
+
+**Classical tafsir:** Ibn Kathir notes: It is not because I do not want you, but I am very jealous and I fear that you might experience some wrong mannerism from me for which Allah would punish me.
+
+**From the Sunnah:** For instance, Imam Ahmad reported that Umm Salamah narrated: Once, Abu Salamah came back after he was with Allah's Messenger ﷺ and said: I heard Allah's Messenger ﷺ recite a statement that made me delighted.
 ## Personal Reflections
 
 

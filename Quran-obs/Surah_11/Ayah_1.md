@@ -162,6 +162,17 @@ And it could also mean that, as far as Allah Ta` ala's will is concerned, the en
 
 After that, it was said: مِن لَّدُنْ حَكِيمٍ خَبِيرٍ‌ that is, all these verses have come from a Sacred Being who is absolutely and simultaneously Wise and Aware. In other words, there are so many considerations of wisdom ingrained in everything that issues forth from Him. It is impossible for human beings to encompass them all. Then He is fully aware of every particle, present now or to be present in the future, of this multi-faceted universe. He knows all states of their existence as it is and as it will be and releases His commands keeping all this in sight. This is not like what human beings do. No matter how intelligent, smart and experienced they may be, their reason and vision are still cordoned by a limited frame of reference. Their experience is the product of what is around them. And this, mostly, proves to be unsuccessful, even wrong, especially when it concerns what would happen in the future under different times and conditions. (Interestingly enough, the observations of the commentator apply to what we now know as the intellectual phenomena of Futurology with its pundits, fellow travelers and dabblers all over the world, including Pakistan! tr).
 
+## AI Translation
+
+Alif-Lam-Ra. This is a Book whose ayahs are perfected, then explained in detail from One who is All-Wise, All-Aware.
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you but We revealed to him (saying): There is no Allah but I, so worship Me.)[21:25] It is similar to Allah's statement,
+
+**What this ayah teaches:** But, after the revelation of this Book, since the very chain of the coming of prophets and revelations came to an end, therefore, this Book will not be abrogated until the last day of Qiyamah.
+
+**Classical tafsir:** Ibn Kathir notes: But, after the revelation of this Book, since the very chain of the coming of prophets and revelations came to an end, therefore, this Book will not be abrogated until the last day of Qiyamah.
 ## Personal Reflections
 
 

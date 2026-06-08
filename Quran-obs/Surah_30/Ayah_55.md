@@ -127,6 +127,17 @@ Surah Ar-Rum
 
 Ends here.
 
+## AI Translation
+
+On the Day the Hour arrives, the wicked will swear they stayed in this dunya only an hour — so they were always deluded.
+
+## AI Tafsir
+
+**Context:** It is revealed in this verse that the infidels will lie on the Day of Resurrection in their swearing that they did not stay in the world or barzakh for more than an hour.
+
+**What this ayah teaches:** It is probable that the stay referred to here is the stay in this world, because they spent the time in this world in comfort and ease.
+
+**Classical tafsir:** Ibn Kathir notes: It is probable that the stay referred to here is the stay in this world, because they spent the time in this world in comfort and ease.
 ## Personal Reflections
 
 

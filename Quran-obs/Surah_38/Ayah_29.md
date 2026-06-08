@@ -74,6 +74,17 @@ Allah tells us that He did not create the creatures in vain; He created them to 
 
 In verse 28, it was said: أَمْ نَجْعَلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَالْمُفْسِدِينَ فِي الْأَرْ‌ضِ أَمْ نَجْعَلُ الْمُتَّقِينَ كَالْفُجَّارِ‌ (Shall We make those who believe and do righteous deeds equal to those who commit mischief on the earth? Or shall We make the God-fearing equal to the sinners?) - that is, this can never be. In fact, the end of both will be totally different. Right from here, we learn that this difference between a believer and disbeliever is there in terms of the injunctions of the Hereafter. While living in the present world, it is quite possible that a disbeliever has a lot more comforts than a believer. Likewise, it cannot be deduced thereby that the material rights of the disbeliever cannot be equal to the rights of the believer, instead, the truth of the matter is that a disbeliever could be allowed human rights equal to a believer. Accordingly, non-Muslim minorities who live in an Islamic state under mutual pledges shall be given all human rights that will be but equal to those of Muslim.
 
+## AI Translation
+
+This is a blessed Book We revealed to you so they may contemplate its ayahs—signs and verses—and so people of reason may take heed.
+
+## AI Tafsir
+
+**What this ayah teaches:** Or shall We treat those who have Taqwa as the evildoers (28)(This is) a Book which We have sent down to you, full of blessings, that they may ponder over its Verses, and that men of understanding may remember . Then Allah explains that because of His justice and wisdom, He does not treat the believers and the those who reject the truth equally.
+
+**Classical tafsir:** Ibn Kathir notes: Then Allah explains that because of His justice and wisdom, He does not treat the believers and the those who reject the truth equally.
+
+**From the Sunnah:** Accordingly, non-Muslim minorities who live in an Islamic state under mutual pledges shall be given all human rights that will be but equal to those of Muslim. (Sahih Muslim)
 ## Personal Reflections
 
 

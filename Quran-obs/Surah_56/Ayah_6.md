@@ -154,6 +154,15 @@ Therefore, those who rush to obey Allah in this life and are foremost in perform
 
 خَافِضَةٌ رَّ‌افِعَةٌ (It will be abasing [ some ], exalting [ others ]...56:3). The verse means that the 'Inevitable Event' referred to in the previous verse will bring about a great revolution in the lives of men, as is witnessed at the time of revolution of governments. The high and the mighty will be laid low and the despised and down-trodden will be exalted; the poor become rich and the rich become poor. This is how Sayyidna Ibn ` Abbas ؓ interprets this statement. The purpose is to depict the horrors of the Day of Resurrection.
 
+## AI Translation
+
+becoming scattered dust,
+
+## AI Tafsir
+
+**What this ayah teaches:** And the mountains will be powdered to dust,)(6. So that they will become floating dust particles.)(7.
+
+**Classical tafsir:** Ibn Kathir notes: And the mountains will be powdered to dust,)(6.
 ## Personal Reflections
 
 

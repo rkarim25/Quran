@@ -118,6 +118,15 @@ Therefore, Allah stated that each of these forms of punishment struck them on th
 
 In verse 92, the fate of the people of Sayyidna Shu'aib (علیہ السلام) has been cited as a lesson - which is the real purpose behind the description of this event. It was said: الَّذِينَ كَذَّبُوا شُعَيْبًا كَأَن لَّمْ يَغْنَوْا فِيهَا (Those who belied Shu'aib are as if they never dwelt there). One of the meanings of the word: غِنیٰ (ghina) is to live at some place in peace and comfort. At this place, this is the meaning intended. The sense of the sentence is that the homes where they lived in peace and comfort, turned so deserted after this punishment as if peace and comfort had never existed there. Then, it was said: الَّذِينَ كَذَّبُوا شُعَيْبًا كَانُوا هُمُ الْخَاسِرِ‌ينَ (Those who belied Shu'aib were themselves the losers). The hint given is that these were the people threatening to throw Sayyidna Shu'aib (علیہ السلام) and his believing companions out from their city, but, in the end, the loss hit none but them.
 
+## AI Translation
+
+Those who rejected Shu’aib were as if they had never lived there. Those who rejected Shu’aib were the true losers.
+
+## AI Tafsir
+
+**What this ayah teaches:** The sense of the sentence is that the homes where they lived in peace and comfort, turned so deserted after this punishment as if peace and comfort had never existed there. Therefore, Allah stated that each of these forms of punishment struck them on the Day of the Shadow.
+
+**Classical tafsir:** Ibn Kathir notes: Allah describes the enormity of disbelief, rebellion, transgression and misguidance (of Shu'ayb's people) and the defiance of truth encrypted in their hearts.
 ## Personal Reflections
 
 

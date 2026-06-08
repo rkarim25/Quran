@@ -208,6 +208,17 @@ important note
 
 In relation to issues of religious beliefs embedded in this verse, it must be borne in mind that the statement: مَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ (What is there, after truth, but error?) proves that there is no intermediary link between truth and error. What is not the truth will be included in error and straying. There can be no such thing that is neither truth nor error. And it is also not possible that two opposite things could be the truth. This is an established rule in the sight of the majority of scholars in the Muslim Ummah. However, difference exists among ` Ulama' regarding minor and subsidiary juristic issues. In the view of some of them, both sides would be considered as on truth in Ijtihad-based issues and, according to the majority of them, there is consensus on the view that the taking of contra-position in Ijtihad-based problems cannot be termed as error and straying.
 
+## AI Translation
+
+It is not possible for this Quran to have been produced by anyone other than Allah. In fact, it is a confirmation of what came before, and an explanation of the Scripture. It is, without a doubt, from the Rabb of all worlds.
+
+## AI Tafsir
+
+**What this ayah teaches:** With this complete and more than sufficient explanation, the Qur'an leaves no doubt that it is from Allah, the Lord of all that exists.
+
+**Classical tafsir:** Ibn Kathir notes: So those who believed among them, believed because of what they knew and felt in the Book, including its beauty, elegance, benefit, and fluency.
+
+**From the Sunnah:** This is an established rule in the sight of the majority of scholars in the Muslim Ummah. (Sahih Muslim)
 ## Personal Reflections
 
 

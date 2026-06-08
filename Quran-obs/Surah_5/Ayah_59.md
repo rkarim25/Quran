@@ -236,6 +236,15 @@ Commentary
 
 Referring to the Jews and Christians in: أَكْثَرَ‌كُمْ فَاسِقُونَ (most of you are sinners) at the end of the first verse, ` most' - not ` all'- of them have been declared to be outside the fold of Faith. The reason for this is that they did have people among them who remained believers under all conditions. Before the coming of the Holy Prophet ﷺ all they followed the injunctions of the Torah and Injil and believed in them. When the Holy Prophet ﷺ came and the Qur'an was revealed, they believed in him too and started following the injunctions of the Qur'an.
 
+## AI Translation
+
+Say, “O People of the Book! Do you resent us only because we believe in Allah and what has been revealed to us and what was revealed before—while most of you are rebellious?”
+
+## AI Tafsir
+
+**What this ayah teaches:** Those who were before you were destroyed because they committed sins and the 'Rabbāniyyūn' and 'Aḥbār' did not forbid them from evil.
+
+**Classical tafsir:** Ibn Kathir notes: Those who were before you were destroyed because they committed sins and the 'Rabbāniyyūn' and 'Aḥbār' did not forbid them from evil.
 ## Personal Reflections
 
 

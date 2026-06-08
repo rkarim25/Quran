@@ -138,6 +138,17 @@ In verse 28, it was said: يَكْتُمُ إِيمَانَهُ (who had kept hi
 
 Earlier in the verse, by saying: مُّؤْمِنٌ مِّنْ آلِ فِرْ‌عَوْنَ (a believing man from the House of the Pharaoh), it is virtually demonstrated that the believer, in his ensuing dialogue with Pharaoh and his people, invited them toward truth and faith as well as restrained them from killing Sayyidna Musa (علیہ السلام) .
 
+## AI Translation
+
+like the fate of the people of Nuh, 'Ad, Thamud, and those after them. Allah would never will to wrong His servants.
+
+## AI Tafsir
+
+**What this ayah teaches:** However, making this verbal declaration before people publicly is not necessary.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** The only reason why it is needed is that unless people come to know about the person's 'iman, they would remain unable to interact with him or her in the same way as they do with Muslims.
 ## Personal Reflections
 
 

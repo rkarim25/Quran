@@ -92,6 +92,15 @@ Though Allah Ta’ ala is, in His infinite power, inherently capable of making t
 
 Some other commentators have explained it by saying that, overtaken by wonder, they will start looking at each other. (Qurtubi)
 
+## AI Translation
+
+They will cry, "Oh, woe to us! This is the Day of Judgment!"
+
+## AI Tafsir
+
+**What this ayah teaches:** Given in the first verse (19) is the mode in which the dead will rise again.
+
+**Classical tafsir:** Ibn Kathir notes: Given in the first verse (19) is the mode in which the dead will rise again.
 ## Personal Reflections
 
 

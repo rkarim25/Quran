@@ -108,6 +108,17 @@ This verse (51) brings into sharp focus the essential reality of the religious i
 
 Speaking generally, people around the world are found in great confusion about the religious problem of Taqdir and Tawakkul. Some of them are plain irreligious. They just do not recognize the very possibility that something like that exists. They are content with material means as the deity they are comfortable with. Then, there are other people who lack proper awareness. They have turned destiny and trust into a pretext for their sloth and inertia. The Prophet of Islam, may the blessing of Allah and peace be upon him, made full preparation for Jihad, after which, the revelation of this verse put an end to this cycle of excess and deficiency and showed the right way - as put in the lively Persian saying: بر توکل زانوے اشتربہ بند (With Tawakkul [ trust ], do tie the knees of the camel). To sum up, means which you have the option to utilize, are nothing but blessings given by Allah Ta` ala. Not taking ad-vantage of these means is ingratitude, even stupidity. Of course, do not give means the status they do not have and believe that results and outcomes are not subservient to these means - instead of all that, they obey the command of Allah Almighty.
 
+## AI Translation
+
+Say, “Nothing will ever befall us except what Allah has destined for us. He is our Protector.” So in Allah let those who have iman put their trust.
+
+## AI Tafsir
+
+**What this ayah teaches:** Belief in Destiny includes Management of affairs: Giving Inaction or Mismanagement the name of Trust is Wrong This verse (51) brings into sharp focus the essential reality of the religious issue of Taqdir (destiny) and Tawakkul (trust).
+
+**Classical tafsir:** Ibn Kathir notes: Allah emphasizes the enmity that the hypocrites have for the Prophet ﷺ.
+
+**From the Sunnah:** Allah emphasizes the enmity that the hypocrites have for the Prophet ﷺ. If a blessing, such as victory and triumph over the enemies, is given to the Prophet ﷺ, thus pleasing him and his Companions, it grieves the hypocrites,
 ## Personal Reflections
 
 

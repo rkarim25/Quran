@@ -98,6 +98,17 @@ The Qur'anic system for the prevention of obscenity
 
 The Holy Qur'an has drawn out this unique system for the prevention of obscenity that, in the first place such a news should not spread, and if at all it is leaked out, it should be backed up with lawful proof, so that the punishment of adultery is also executed publicly, immediately after the spread of the news. This way the publicity itself will serve as a preventive measure. If there were no condition of lawful proof, then it would have been lot easy to pass on and publicize such scandals, especially, when there is no punishment attached to it. Absence of any fear against spreading scandals leads to minimizing the repulsion against immorality and obscenity from the people's mind; rather it encourages to indulge in such crimes and to propagate them. This is an everyday experience that this sort of scandals is published in the newspapers daily. Young men and women read them frequently. As a result, the intensity of such wicked acts is minimized gradually, and instead a slow inclination for indulging in them develops in their minds. It is for this reason that the Holy Qur’ an has allowed publicity of such news only in such situations when it is supported with lawful evidence, so that people should see the severe punishment for the obscene crime along with the news of adultery when they learn about it. Where there is no proof and punishment, Qur'an has proclaimed the publicity of such news as a tool for spreading obscenity among the Muslims. This vital point needs to be pondered by the Muslims. This verse actually emphasizes that to give publicity to scandals without proof will invite very severe punishment both in this world and in the Hereafter. The punishment in the Hereafter will naturally follow after the Dooms Day, and thus cannot be experienced here, but the punishment of the world can be seen. So, those who were punished for false accusation have in fact experienced the punishment of the world. If anyone has escaped the execution of the punishment for want of proof needed for the award of this punishment, even then he has earned the punishment (which will be executed in the Hereafter). For the implication of the verse even this is enough.
 
+## AI Translation
+
+You would have suffered, had it not been for Allah’s grace and mercy upon you, and had Allah not been Ever Gracious, the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** And had it not been for the grace of Allah and His mercy on you, and that Allah is full of kindness, ar-Rahim (20)O you who believe!
+
+**Classical tafsir:** Ibn Kathir notes: 'Ikrimah said that it means his evil whispers.
+
+**From the Sunnah:** An extra element in this verse is that those who propagate such rumors actually want the spread of obscenity and immorality among the Muslims. Where there is no proof and punishment, Qur'an has proclaimed the publicity of such news as a tool for spreading obscenity among the Muslims.
 ## Personal Reflections
 
 

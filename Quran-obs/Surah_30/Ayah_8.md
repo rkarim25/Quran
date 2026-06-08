@@ -120,6 +120,17 @@ Therefore, it is necessary that a time should come when this system should come 
 
 The gist of this discussion is that if the disbelievers had pondered over these things, then this very sky and earth and the creatures in between them would have testified that they were not permanent. They are here but for a short time, after which a new world is to come, which will be permanent. This is the essence of the first of the above verses أَوَلَمْ يَتَفَكَّرُ‌وا فِي أَنفُسِهِم (30:8) This was a matter of logical rationale. In the next verse worldly thinking and experiences are presented as a testimony, and the Makkans are addressed in the following words:
 
+## AI Translation
+
+Have they not reflected on themselves? Allah created the heavens and earth and everything between for a purpose and an appointed term. Yet most reject meeting their Rabb.
+
+## AI Tafsir
+
+**What this ayah teaches:** There is a great wisdom and purpose behind their creation, which is, that people should recognize the Creator through all His creations, and then get on to look for things that He likes and dislikes.
+
+**Classical tafsir:** Ibn Kathir notes: It is obvious that there should be rewards for good deeds, and punishments for evil doings, because equating good with bad is against justice and fair play.
+
+**From the Sunnah:** It was reported in the Hadith recorded by At-Tirmidhi, Ibn Jarir, Ibn Abi Hatim and Al-Bazaar that Abu Said said: “On the day of Badr, the Romans defeated the Persians, and the believers were happy and rejoiced about that.
 ## Personal Reflections
 
 

@@ -150,6 +150,15 @@ Ibn Kathir has, with reference to Ibn Jarir, answered this possible doubt by say
 
 In the later part of verse 51, it was said: يَوْمَ يَقُومُ الْأَشْهَادُ (as well as on the day in which witnesses will stand [ to give their testimony ]. It means the day of Qiyamah (Doomsday). Once they are there, Divine help for prophets and believers will show itself specially.
 
+## AI Translation
+
+We certainly help Our messengers and the believers, both in this dunya and on the Day the witnesses will stand forth—
+
+## AI Tafsir
+
+**What this ayah teaches:** It is obvious that this help is intended to be against adversaries and enemies.
+
+**Classical tafsir:** Ibn Kathir notes: Then Allah took him (in death), because of his high status and honor, and He established his Companions as his Khalifahs.
 ## Personal Reflections
 
 

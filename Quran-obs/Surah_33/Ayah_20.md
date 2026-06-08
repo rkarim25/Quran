@@ -163,6 +163,17 @@ The last three (25-27) of the cited verses refer to the event relating to Banu Q
 
 In the last verse (27), good news of future victories has been given. Gone is the time when disbelievers attacked. Now the cycle of Muslim victories will begin and they will come to be on lands their feet have not touched yet. And this prophecy unfolded itself during the tenure of the noble Sahabah and everyone witnessed the spectacle of great empires ruled by Cyrus and Caesar come under them. And Allah does what He wills.
 
+## AI Translation
+
+They still think that the enemy alliance has not yet withdrawn. And if the allies were to come again, those of nifaq — outward acceptance with inward rejection would wish to be away in the desert among nomadic Arabs, only asking for news about you mu'mins. And if those of nifaq — outward acceptance with inward rejection were in your midst, they would hardly take part in the fight.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah already knows those among you who keep back (men) from fighting (in Allah's cause), and those who say to their brethren, "Come here towards us," while they come not to the battle except a little (18)Being miserly towards you.
+
+**Classical tafsir:** Ibn Kathir notes: And any act or omission on his part that is proved to have been done as a preferable conduct (istihbab) and not as an obligatory one, should be followed by us too as a commendable (mustahab) conduct and not as a necessary obligation This, in other words, means that its contravent…
+
+**From the Sunnah:** Onward from here, mention has been made of two groups of hypocrites who were practically a part of the Jihad effort along with Muslims, though outwardly only. But, the Shari'ah authorities have explained the rule about the different degrees of following required from a Muslim. (Sahih Muslim)
 ## Personal Reflections
 
 

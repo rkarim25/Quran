@@ -148,6 +148,15 @@ This means that he will call to the worship of his Lord in his cradle and while 
 
 لِأَهَبَ لَكِ غُلَامًا (to give you a boy - 19:19) Here Sayyidna Jibra'n (علیہ السلام) had attributed to himself the gift of the child because Allah Ta’ ala had sent him in order that he should breathe into her collar, and this breath would be the means of her conceiving the child, whereas in reality this gift was by the act of Allah.
 
+## AI Translation
+
+He said: "I am only a messenger from your Rabb, sent to bless you with a pure son."
+
+## AI Tafsir
+
+**What this ayah teaches:** And he will speak to the people, in the cradle and in manhood, and he will be one of the righteous.)[3:45-46] This means that he will call to the worship of his Lord in his cradle and while and adult.
+
+**Classical tafsir:** Ibn Kathir notes: And he will speak to the people, in the cradle and in manhood, and he will be one of the righteous.)[3:45-46] This means that he will call to the worship of his Lord in his cradle and while and adult.
 ## Personal Reflections
 
 

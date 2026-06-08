@@ -126,6 +126,17 @@ Surah Al-Ma’ un
 
 Ends here
 
+## AI Translation
+
+and refuse even small acts of neighbourly help—the everyday zakat of kindness they withhold.
+
+## AI Tafsir
+
+**What this ayah teaches:** However, in the current verse the word ma’ un is taken in the sense of Zakah [ obligatory alms ] because it is a little amount out of much wealth - only 2-½% out of the entire wealth. Those who do good deeds only to be seen,)(7.
+
+**Classical tafsir:** Ibn Kathir notes: This may either be referring to its act entirely, as Ibn 'Abbas said, or it may be referring to performing it in its stipulated time that has been legislated Islamically. Have you seen the one who denies the Din'?' Here the word Din means the Hereafter, the Recompense and the Final Reward.
+
+**From the Sunnah:** This does not refer to the unintentional errors, slips and mistakes that Muslims make in their prayers.
 ## Personal Reflections
 
 

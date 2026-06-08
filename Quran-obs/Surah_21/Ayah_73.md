@@ -136,6 +136,17 @@ Allah gave him wisdom and knowledge; He sent Revelation to him, made him a Proph
 
 وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ نَافِلَةً (And We blessed him with Ishaq and Ya` qub as gift - 21:72) That is, Allah Ta` la had bestowed upon him the son Ishaq (علیہ السلام) as per his supplication and in addition to that a grandson Ya` qub (علیہ السلام) as a gift. This is why he is referred to as نَافِلَةً nafilah which originally means 'extra'.
 
+## AI Translation
+
+We also made them leaders, guiding by Our command, and inspired them to do good deeds, establish salah — the formal prayer, and give zakat — obligatory sharing of wealth to purify what remains. And they were devoted to Our worship.
+
+## AI Tafsir
+
+**Context:** And We rescued him and Lut to the land which We have blessed for the nations (71)And We bestowed upon him Ishaq, and Ya'qub Nafilatan.
+
+**What this ayah teaches:** Each one We made righteous (72)And We made them leaders, guiding by Our command, and We revealed to them the doing of good deeds, performing Salah, and the giving of Zakah, and of Us (Alone) they were the worshippers (73)And (remember) Lut, We gave him wisdom and knowledge, and We saved him from the town who practised Al-Khaba'ith.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

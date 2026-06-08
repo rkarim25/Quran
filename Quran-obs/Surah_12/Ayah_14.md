@@ -82,6 +82,15 @@ Thus, when Allah Ta` ala put mercy in the heart of Yahuda and the ability to do 
 
 The brothers told Yahuda: We know what you mean. You wish to rise higher than us in the sight of our father. So, you better listen to us. If you do anything to resist our intention, we shall kill you too. When Yahuda realized that he alone could do nothing against his nine brothers, he told them: Well, if you have decided to get rid of this child, then, listen to me carefully. There is an old well nearby with a lot of wild growth in it and now a home for many lethal crawlers. Put him in that well. If a snake or scorpion bites and kills him there, you shall have what you are looking for. Thus, you shall remain free of the blame of shedding his blood by your own hands. And, in case, he still remains alive, then, may be there comes a caravan this way, lowers its bucket to draw water from it and finds him instead. It is likely that they would take him away with them to some other country in which case too you would have achieved your objective.
 
+## AI Translation
+
+They said, “If a wolf were to devour him, despite our strong group, then we would certainly be losers!”
+
+## AI Tafsir
+
+**What this ayah teaches:** If a wolf could be expected to eat up Yusuf despite their being there to guard him, it would render their very presence around him totally senseless.
+
+**Classical tafsir:** Ibn Kathir notes: This demonstrates the deep love that Ya'qub had for his son, because he saw in Yusuf great goodness and exalted qualities with regards to conduct and physical attractiveness associated with the rank of prophethood.
 ## Personal Reflections
 
 

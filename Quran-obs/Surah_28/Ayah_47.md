@@ -176,6 +176,17 @@ Allah points out the proof of the prophethood of Muhammad ﷺ, whereby he told o
 
 لِتُنذِرَ‌ قَوْمًا مَّا أَتَاهُم مِّن نَّذِيرٍ‌ ( so that you warn a people to whom no warner has come before - 28:46). The expression ` a people' is purported here for the Arabs, who are the progeny of Sayyidna Ismail (علیہ السلام) . No prophet was sent to this ` people' after Sayyidna Ismail علیہ السلام until the Holy Prophet ﷺ was sent. The same subject will follow in Surah Yasin. But this verse is not in conflict with the other verse إِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ‌ (There is no community, but there has come a warner among them - 35:24). What the present verse means here is that there was no prophet in ` this people' for a long time after Ismail . But after the arrival of the Holy Prophet ﷺ this void was filled up.
 
+## AI Translation
+
+Also so they would not say, if struck by an affliction for what their hands have done: “Our Rabb! If only You had sent us a messenger, we would have followed Your revelations and become mu'mins.”
+
+## AI Tafsir
+
+**Context:** (and you were not among the witnesses.) 'to that event, but Allah has revealed this to you,' so that it may be evidence and proof of events which happened centuries ago, for people have forgotten the evidence that Allah…
+
+**What this ayah teaches:** We would then have followed Your Ayat and would have been among the believers.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

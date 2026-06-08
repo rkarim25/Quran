@@ -174,6 +174,15 @@ The same subject is coming ahead in Surah Ar-Rum, where it is said يَعْلَ�
 
 Some commentators have interpreted the meaning of وَكَانُوا مُسْتَبْصِرِ‌ينَ (They were people of insight) that these people did have faith in their heart and did understand well the necessity of the Day of Judgment, but the mundane considerations had compelled them to reject it.
 
+## AI Translation
+
+We seized each for their sin: some by stones from the sky, some by blast, some swallowed by earth, some drowned. Allah did not wrong them; they wronged themselves.
+
+## AI Tafsir
+
+**What this ayah teaches:** And indeed Musa came to them with clear Ayat, but they were arrogant in the land, yet they could not outstrip Us (39)So, We punished each for his sins, of them were some on whom We sent a Hasib, and of them were some who were overtaken by As-Sayhah, and of them were some whom We caused the earth to swallow, and of them were some whom We drowned.
+
+**Classical tafsir:** Ibn Kathir notes: It carried them through the air, lifting a man up to the sky and then hurling him headlong to the ground, so that his head split and he was left as a body without a head, like uprooted stems of date palms.
 ## Personal Reflections
 
 

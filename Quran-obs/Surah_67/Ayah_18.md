@@ -111,6 +111,15 @@ The next verse refers to the former nations who denied and rejected the truth an
 
 The next verse turns once again to the central theme of the Surah, that is, the description of various forms and functions of Allah's creation to prove His Oneness, His knowledge and power. Thus far human souls, forms and functions of the sky, the stars, the earth and so on were discussed. The next verse mentions birds that fly about in the atmosphere above us.
 
+## AI Translation
+
+Those before them denied as well—then how severe was My response.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then you shall know how has been My warning (17)And indeed those before them rejected, then how terrible was My reproach (18)Do they not see the birds above them, spreading out their wings and folding them in?
+
+**Classical tafsir:** Ibn Kathir notes: The next verse refers to the former nations who denied and rejected the truth and how they were annihilated by Divine scourge.
 ## Personal Reflections
 
 

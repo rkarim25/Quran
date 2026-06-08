@@ -97,6 +97,17 @@ Surah At-Tatfif
 
 Ends here
 
+## AI Translation
+
+When they saw believers, they would say, 'These people are truly astray,'
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, they would mock them and despise them. In other words, they would mock at them and despise them.
+
+**Classical tafsir:** Ibn Kathir notes: In other words, they would mock them and despise them.
+
+**From the Sunnah:** May Allah salvage the Muslims from this painful scourge.
 ## Personal Reflections
 
 

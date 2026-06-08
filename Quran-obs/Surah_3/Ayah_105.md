@@ -210,6 +210,17 @@ All this discussion about Ijtihad relates to the one carried out under the stand
 
 This will also be true about the person who does not fulfill the conditions of Ijtihad. What he says does not affect the question at all. This tendency has unfortunately become fairly visible in Muslim societies. Those who consider themselves educated (in modern sciences) have started to express their personal opinions relating to matters that have been settled in the Qur'an and Sunnah. This is ignorance at its ugliest. These are issues where even Imams and مجتھدین mujtahids would not dare speak. How can the exercise of so called Ijtihad be acceptable from a person who does not even possess the knowledge of Islamic sciences let alone the highest level of learning required for Ijtihad.
 
+## AI Translation
+
+And do not be like those who split and differed after clear proofs had come to them. It is they who will suffer a tremendous punishment.
+
+## AI Tafsir
+
+**What this ayah teaches:** The statement after clear signs had come to them' is an obvious indicator towards this explanation.
+
+**Classical tafsir:** Ibn Kathir notes: It means that Muslims should not be like Jews and Christians who, even after clear injunctions of Allah Almighty had reached them, became divided in the implementation of the basic code of faith simply because they preferred to follow the dictates of their desires.
+
+**From the Sunnah:** The objective of this Ayah is that there should be a segment of this Muslim Ummah fulfilling this task, even though it is also an obligation on every member of this Ummah, each according to his ability. (Sahih Muslim) this Hadith and said, "Hasan". (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

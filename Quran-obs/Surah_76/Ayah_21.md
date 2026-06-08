@@ -223,6 +223,17 @@ Allah says,
 
 However, a question arises in any case: A bracelet looks good on women, but does not suit men. Why will the men of Paradise wear bracelets? The Answer is that suitability of any piece of jewellery to men or women depends on custom. The style and appeal of jewellery differ from country to country and vary from nation to nation. In some cultures, a piece of jewellery is treated as highly inappropriate for men, and in other cultures it is regarded as highly beautiful and elegant. The Chosros [ Persian kings ] used to wear bracelets around their wrists, and various kinds of jewellery used to be studded on their chest and crown. This was counted as a distinctive feature of their prestige and honour. After the conquest of Persian empire, the treasures that fell into Muslims' hands contained the Persian Emperor's bracelets. Thus the various cultures and nations differ in their taste for jewellery in this very world. The flair and taste for jewellery for men in Paradise cannot be equated with their flair for it in this world.
 
+## AI Translation
+
+The virtuous wear fine green silk and brocade, adorned with silver bracelets, and their Rabb gives them a purifying drink.
+
+## AI Tafsir
+
+**What this ayah teaches:** So these cups are made of silver, but due to their fine thinness, what is inside of them will be visible from outside of them (as if they are glass).
+
+**Classical tafsir:** Ibn Kathir notes: This refers to Paradise and its beauty, its vastness, its loftiness and the joy and happiness it contains.
+
+**From the Sunnah:** Paradise wear bracelets? The Answer is that suitability of any piece of jewellery to men or women depends on custom.
 ## Personal Reflections
 
 

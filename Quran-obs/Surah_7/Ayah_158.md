@@ -267,6 +267,19 @@ The 'words' کلمات refer to the word of Allah revealed to his prophets like 
 
 The great saint and spiritual leader Sheikh Junaid of Baghdad has remarked that all the paths leading to Allah are closed except the path specifically defined by the Holy Prophet ﷺ .
 
+## AI Translation
+
+Say, “O humanity! I am Allah’s Messenger to you all. To Him belongs the kingdom of the heavens and the earth. There is no god except Him. He gives life and causes death.” So believe in Allah and His Messenger, the unlettered Prophet, who believes in Allah and His revelations. And follow him, so you may be guided.
+
+## AI Tafsir
+
+**Context:** (Say, "Allah is Witness between you and I; this Qur'an has been revealed to me that I may therewith warn you and whomsoever it may reach.")[6:19], "And this Qur'an has been revealed to me that I may warn you thereby, and…
+
+**What this ayah teaches:** It is He Who gives life and causes death.) describes Allah by the words of the Messenger ﷺ that He Who has sent him is the Creator, Lord and King of all things and in His Hand is the control, life, death and the decision.
+
+**Classical tafsir:** Ibn Kathir notes: So believe in Allah and His Messenger, the Prophet who can neither read nor write, who believes in Allah and His Words, and follow him so that you may be guided.
+
+**From the Sunnah:** It is also well-known in our religion that the Messenger of Allah ﷺ was sent to all mankind [and the Jinns].
 ## Personal Reflections
 
 

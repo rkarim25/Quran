@@ -150,6 +150,17 @@ No. But what they did has rusted their hearts (83:14)
 
 which makes it plain that it is their arrogance and their evil deeds themselves that have settled do their hearts as a rust رَان . In the verse under discussion, it is this very rust which has been described as 'a seal' or 'a covering'. So, there is no occasion here to raise the objection that if Allah Himself has sealed their hearts and blocked their senses, they are helpless and cannot be held responsible for being disbelievers, and hence they should not be punished for what they have not themselves chosen to do. If we consider the two verses (2:7 and 83:14) together, we can easily see why they should be punished in adopting the way of arrogance and pride they have, willfully and out of their own choice, destroyed their capacity for accepting the truth, and thus they themselves are the authors of their own ruin. But Allah, being Creator of all the actions of His creatures, has in verse 2:7 attributed to Himself the setting of a seal on the hearts and the ears of the disbelievers, and has thus pointed out that when these people insisted, as a matter of their own choice, on destroying their aptitude for receiving the truth, Allah produced, as is His way in such cases, the state of insensitivity in their hearts and senses.
 
+## AI Translation
+
+Allah has sealed their hearts and their hearing, and a veil covers their sight. A tremendous punishment awaits them.
+
+## AI Tafsir
+
+**What this ayah teaches:** In delineating such a situation certain elders have remarked that one punishment for an evil deed is another evil deed which comes after, and one reward for a good deed is another good deed which comes after.
+
+**Classical tafsir:** Ibn Kathir notes: The hearts will therefore become two categories: white, just like the barren rock; no Fitnah shall ever harm this category as long as the heavens and earth still exist.
+
+**From the Sunnah:** He then mentioned the Hadith about changing the hearts, (in which the Prophet ﷺ supplicated), it is Hasan Sahih.. (Jami' at-Tirmidhi, Sunan Ibn Majah)
 ## Personal Reflections
 
 

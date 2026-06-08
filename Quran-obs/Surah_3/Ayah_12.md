@@ -124,6 +124,17 @@ Commentary
 
 Some readers of verse 12: قُل لِّلَّذِينَ كَفَرُ‌وا سَتُغْلَبُونَ just cited, above may have some doubt about disbelievers being overcome because this is not the case with all disbelievers of the world. But, this doubt is unfounded as the disbelievers referred to here are the disbelievers and Jews of that particular time - from among whom, the pagans were overcome when killed or taken prisoners, and the Jews were overcome through killing or imprisonment as well as through Jizya and extradition. Therefore, this 'overcoming' of disbelievers mentioned in the verse simply does not refer to disbelievers universally.
 
+## AI Translation
+
+Tell those who reject the truth, “Soon you will be overpowered and driven to Hell—what an evil place to rest!”
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, this 'overcoming' of those who reject the truth mentioned in the verse simply does not refer to those who reject the truth universally.
+
+**Classical tafsir:** Ibn Kathir notes: When the two camps saw each other, the Muslims thought that the idolators were twice as many as they were, so that they would trust in Allah and seek His help.
+
+**From the Sunnah:** when the Messenger of Allah ﷺ gained victory in the battle of Badr and went back to Al-Madinah, he gathered the Jews in the marketplace of Bani Qaynuqa'. When the two camps saw each other, the Muslims thought that the idolators were twice as many as they were, so that they would trust in Allah and seek His help.
 ## Personal Reflections
 
 

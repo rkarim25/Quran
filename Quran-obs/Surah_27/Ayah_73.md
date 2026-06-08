@@ -128,6 +128,15 @@ Rather, their knowledge failed in the matter of Hereafter. Rather, they are in d
 
 There are different recitations for the word اِدّٰرَکَ (iddaraka) and their meanings are also different. Those who are interested should refer to different commentaries for the details. It is enough to understand here that some commentators have taken it to mean "completion" and have explained the verse thus: "Their knowledge and understanding will be completed in the Hereafter", because then the truth about every thing shall be laid bare. But knowledge of truth at that time will be of no avail, because they had been contradicting the Hereafter in the world. But some other commentators have taken the word in the meaning of 'having failed' and 'hating been lost'. The sense in this case would be that their knowledge about the Hereafter was lost, and they could not understand what it was.
 
+## AI Translation
+
+Surely your Rabb is ever Bountiful to humanity, but most of them are ungrateful.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah tells us about how the idolators asked about the Day of Resurrection, but thought it unlikely that it would ever come to pass. It is enough to understand here that some commentators have taken it to mean "completion" and have explained the verse thus: "Their knowledge and understanding will be completed in the Hereafter", because then the truth about every thing shall be laid bare.
+
+**Classical tafsir:** Ibn Kathir notes: Allah tells us about how the idolators asked about the Day of Resurrection, but thought it unlikely that it would ever come to pass.
 ## Personal Reflections
 
 

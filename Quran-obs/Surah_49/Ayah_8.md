@@ -83,6 +83,17 @@ According to the previous verse, Walid Ibn 'Uqbah ؓ reported that Banul-Mustali
 
 Lexically, the word is derived from and it connotes "to commit a sin or crime" and it also means "to suffer from hardship". In this context, both connotations appropriately fit (Qurtubi).
 
+## AI Translation
+
+That is a favour and blessing from Allah. Allah is All-Knowing, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah is All-Knowing, All-Wise.) All-Knower in those who deserve guidance and those who deserve misguidance, All-Wise in His statements, actions, legislation and the destiny He appoints.
+
+**Classical tafsir:** Ibn Kathir notes: Lexically, the word is derived from and it connotes "to commit a sin or crime" and it also means "to suffer from hardship".
+
+**From the Sunnah:** Allow us to die as Muslims, live as Muslims and join us with the ranks of the righteous ones, without tasting humiliation or turmoil. (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

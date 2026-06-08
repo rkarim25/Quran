@@ -196,6 +196,17 @@ Living such an unusually long life continuously in preaching and teaching, and e
 
 The second story is that of Sayyidna Ibrahim (علیہ السلام) who too passed through many testing trials. First the fire of Namrud, then migration from Syria to a howling deserted place, then slaughtering of the son. All these tribulations tell about the hardships he had gone through. Within the story of Sayyidna Ibrahim (علیہ السلام) a brief mention is also made of Lut (علیہ السلام) and his people. Then upto the end of the Surah mention is made of some other prophets and their antagonistic people. All these stories were related to keep the spirit of the Holy Prophet ﷺ high, and to make Muslims steadfast to the religion.
 
+## AI Translation
+
+You worship besides Allah only idols you invent. What you worship besides Allah cannot provide for you. Seek provision from Allah, worship Him, and show shukr. To Him you will all return.
+
+## AI Tafsir
+
+**What this ayah teaches:** Ibrahim's preaching to His People Allah tells us how His servant, Messenger and close friend Ibrahim, the Imam of the monotheists, called his people to worship Allah alone, with no partner or associate, to fear Him alone, to seek provision from Him alone, with no partner or associate, to give thanks to Him alone, for He is the One to Whom thanks should be given for the blessing…
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, you too should not care about the troubles afflicted by the infidels, and should keep on performing firmly your prophetic obligations.
+
+**From the Sunnah:** It was described in the previous verses that infidels keep on their opposition and afflictions on Muslims as a routine. All these stories were related to keep the spirit of the Holy Prophet ﷺ high, and to make Muslims steadfast to the religion.
 ## Personal Reflections
 
 

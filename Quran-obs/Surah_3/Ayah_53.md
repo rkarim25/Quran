@@ -108,6 +108,17 @@ An Important Note:
 
 Verse 52 states that Sayyidna ` Isa (علیہ السلام) looked for helpers in the way of Allah only when he sensed hostility from disbelievers, and not at the initial stage of his call. As obvious, he had risen to the task all alone obeying the command of his Lord without worrying about setting up a 'party' in advance. When came the need, he found a group around him. A little thought here would show that every worthy mission demands such determination and courage.
 
+## AI Translation
+
+“Our Rabb! We believe in Your revelations and follow the messenger, so count us among those who bear witness.”
+
+## AI Tafsir
+
+**What this ayah teaches:** We believe in what You have sent down, and we follow the Messenger ['Isa]; so write us down among those who bear witness.
+
+**Classical tafsir:** Ibn Kathir notes: Incidentally, the word 'hawariyy' is also, at times, used in the absolute sense of 'helper' or 'supporter'.
+
+**From the Sunnah:** The Prophet ﷺ said during the Hajj season, before the Hijrah, The Ansar helped the Prophet ﷺ and gave him refuge.
 ## Personal Reflections
 
 

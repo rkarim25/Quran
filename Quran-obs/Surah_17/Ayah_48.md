@@ -102,6 +102,17 @@ Ya Seen. By the wise Qur'an, surely you [ 0 Muhammad ] are from among the messen
 
 Imam al-Qurtubi (رح) says that he himself went through an incident in the Manthur Castle of al-Qartubah in his own country of al-Andalus (Spain). I ran in front of the enemy and sat in a corner. The enemy sent two horsemen after me. I was on open grounds. There was nothing to obstruct the view between us. But, I was reciting these verses of Surah Ya Sin. Both these horsemen passed by me. Then they went back towards where they had come from, saying, 'this person must be some devil,' because they could not see me. Allah Ta’ ala had turned them blind as far as I was concerned. (Qurtubi)
 
+## AI Translation
+
+See how they call you names O Prophet! So they have gone so far astray that they cannot find the Right Way.
+
+## AI Tafsir
+
+**Context:** The subject taken up in the first two verses (45, 46) has a particular event as a background. According to al-Qurtubi reporting on the authority of Sayyidna Said ibn Jubayr ؓ ، when Surah al-Masad/al-Lahab (iii) beginnin…
+
+**What this ayah teaches:** So they have gone astray, and never can they find a way.) meaning, they will never be guided to the truth and will never find a way to reach it. So they have gone astray, and never can they find a way .
+
+**Classical tafsir:** Ibn Kathir notes: The those who reject the truth used to call the Holy Prophet ﷺ t 'bewitched person' in this later sense which was totally impossible in his case, while the hadith refers to the physical illness suffered by the Holy Prophet ﷺ which was caused by an act of magic.
 ## Personal Reflections
 
 

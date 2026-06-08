@@ -91,6 +91,15 @@ Qatadah, Ibn Jurayj and Ibn Zayd said, "This means that no one had this name bef
 
 The word سَمِی means "person having the same name." It also means "similar." If the first meaning is adopted here then it would suggest that no one else had the name Yahya before him. This fact also suggests that he possessed certain special attributes which were not granted to anyone else before him. And if we take the second meaning of the word سَمِی then it will mean that some of his attributes and situations were such that they were peculiar to him and were not shared by any other prophet, and that he was unique in the possession of those special attributes, for instance his self abnegation and denial of worldly comforts (حصُور). However, it does not necessarily follow that he was superior to all the prophets who preceded him, for the superiority of Sayyidna Ibrahim Khalilullah (علیہ السلام) and Sayyidna Musa Kalimullah (علیہ السلام) over him is established and well known. (Mazhari)
 
+## AI Translation
+
+The angels announced: "O Zachariah, We give you good news of a son whose name will be John—a name We have given to no one before."
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, We give you the good news of a son, whose name will be Yahya. We have given that name to none before (him).
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

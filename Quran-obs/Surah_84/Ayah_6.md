@@ -182,6 +182,17 @@ Mankind is addressed in this verse and shown a road that if he were to think abo
 
 The verses that follow depict separately the consequences of the good and the bad people, of the believers and the non-believers. First, the ledger of deeds must be received in the right or the left hand. Those who receive the ledgers in their right hands will be the inmates of Paradise with its eternal blessings. Those who receive the ledgers in their left hands will be the inmates of Hell. The point for careful consideration is that necessities of life, as well as unnecessary desires are fulfilled by both righteous and wicked people in this world, and thus both spend their lives in some way or the other, but the consequences of the two [ for the Hereafter ] are diametrically opposite to each other. One results in eternal and unending comfort, and the other results in eternal perdition, torture and torment. Man still has the chance [ while he is living ] to redirect his attention to working hard towards switching the situation in a direction that not only fulfils his legitimate needs and desires in this world, but also attains the eternal pleasures of the Hereafter.
 
+## AI Translation
+
+O humanity, you are labouring restlessly toward your Rabb, and you will meet the consequences of what you did.
+
+## AI Tafsir
+
+**What this ayah teaches:** Return to Allah Mankind is addressed in this verse and shown a road that if he were to think about it carefully, and use his sense and intelligence, he could exert his efforts in the right direction that will ensure for him welfare, well-being and safety in this world, as well as in the Hereafter.
+
+**Classical tafsir:** Ibn Kathir notes: This means that he will not be investigated for all the minute details of his deeds.
+
+**From the Sunnah:** Then when he completed the prayer, he informed them that the Messenger of Allah ﷺ prostrated during its recitation. (Sahih Muslim, Sunan an-Nasa'i) from Abu Rafi' that he prayed the Night prayer with Abu Hurayrah) recited, (Sahih al-Bukhari)
 ## Personal Reflections
 
 

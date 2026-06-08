@@ -284,6 +284,17 @@ They said, "0 Musa, there is a nation of tyrants over there and we shall never g
 
 It appears in the next verse (23) that two persons, God-fearing and blessed by Allah, hearing the remarks made by the Bani Isra'il, gave them some good counsel by saying: Why are you so scared of death much before it has come? Just take a few steps. The gate of the city of Baytul-Maqdis is not far. Take heart and make your move. Only this much of your action, we believe, will become the cause of your victory. Once you enter the gate of Baytul-Maqdis, you will overcome your enemy who would run in defeat. These two persons mentioned in this verse are, according to most commentators, the same two of the twelve chiefs who had faithfully acted upon the advice given by Sayyidna Musa (علیہ السلام) and had abstained from telling the Bani Isra'il every-thing about the Amalkites - that is, Yusha` ibn Nun and Kalib ibn Yu'gina.
 
+## AI Translation
+
+They replied, “O Moses! There is an enormously powerful people there, so we will never enter it until they leave. If they do, then we will enter!”
+
+## AI Tafsir
+
+**What this ayah teaches:** Instead of doing that, they said: ` 0 Musa, there is a nation of tyrants over there, and we shall never go in there until they get out of it.
+
+**Classical tafsir:** Ibn Kathir notes: It was also said that the Ayah reads in a way that means that these men were respected and honored by their people.
+
+**From the Sunnah:** The Muslim Ummah is more respected and honored before Allah, and has a more perfect legislative code and system of life, it has the most honorable Prophet, the larger kingdom, more provisions, wealth and children, a larger domain and more lasting glory than th… (Sahih Muslim) Musa, Allah's Messenger, ordered the Children of Israel to enter Jerusalem and fight their enemy, and he promised them victory and triumph over the mighty people if they did so.
 ## Personal Reflections
 
 

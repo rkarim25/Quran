@@ -158,6 +158,17 @@ A Preacher must not give up his preaching due to disappointment
 
 أَفَنَضْرِ‌بُ عَنكُمُ الذِّكْرَ‌ صَفْحًا أَن كُنتُمْ قَوْمًا مُّسْرِ‌فِينَ (Shall we remove the advice away from you because you are a transgressing people? - 43:5) The meaning is that We will not give up advising you through the Qur'an, no matter how rebellious and disobedient you may become. This tells us that the person who is engaged in preaching and inviting others towards Islam should carry the message to everybody; he must not give up preaching to some people or any group simply because they are non-believers, highly irreligious, sinners and transgressors.
 
+## AI Translation
+
+Should We then turn the Reminder away from you simply because you have been a transgressing people?
+
+## AI Tafsir
+
+**Context:** (Ha-Mim. By the manifest Book.) means, plain and clear in both wording and meaning, because it was revealed in the language of the Arabs, which is the most eloquent language for communication among people. Allah says:
+
+**What this ayah teaches:** Shall We then take away the Reminder from you, because you are a people excessive.)(6. This tells us that the person who is engaged in preaching and inviting others towards Islam should carry the message to everybody; he must not give up preaching to some people or any group simply because they are non-believers, highly irreligious, sinners and transgressors.
+
+**Classical tafsir:** Ibn Kathir notes: By the manifest Book.) means, plain and clear in both wording and meaning, because it was revealed in the language of the Arabs, which is the most eloquent language for communication among people.
 ## Personal Reflections
 
 

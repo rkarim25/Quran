@@ -196,6 +196,19 @@ This rule that no one can converse face to face with Allah Ta’ ala, without an
 
 The third method is mentioned in the verse as أَوْ يُرْ‌سِلَ رَ‌سُولًا "that He sends a messenger" (42:51). The messenger could be Jibra'il (علیہ السلام) or any other angel who may carry Allah Ta’ ala's message, and read it out to the prophet. And this has been the most common way. The whole of Glorious Qur'an has been revealed in this fashion through angels. It should be noted that the word ` wahy' has been explained above to mean infusion in mind or heart only, but this word is often used for all kinds of Divine discourses also, as narrated in a lengthy hadith of Bukhari where the message sent through an angel has also been termed as one kind of ` wahy'. And there are two forms in which the angel carries the message. Sometimes he appears in his original form, and sometimes in the human form. (Allah knows best).
 
+## AI Translation
+
+It is not possible for a human being to have Allah communicate with them, except through inspiration, or from behind a veil, or by sending a messenger-angel to reveal whatever He wills by His permission. He is surely Most High, All-Wise.
+
+## AI Tafsir
+
+**Context:** The first of the above verses (51) was revealed in response to a hostile Jewish demand. As mentioned by Baghawl, Qurtubi and others, the Jews asked the Holy Prophet ﷺ ، "How can we believe in you while you neither see Al…
+
+**What this ayah teaches:** The specific mention of ` human being' in this verse is because the intention here is to address mankind.
+
+**Classical tafsir:** Ibn Kathir notes: How the Revelation comes down This refers to how Allah sends revelation.
+
+**From the Sunnah:** Sometimes He casts something into the heart of the Prophet ﷺ, and he has no doubt that it is from Allah, as it was reported in Sahih Ibn Hibban that the Messenger of Allah ﷺ said: (Sahih Ibn Hibban) In the Sahih, it recorded that the Messenger of Allah ﷺ said to Jabir bin 'Abdullah, may Allah be pleased with him:
 ## Personal Reflections
 
 

@@ -105,6 +105,17 @@ I seek refuge with Allah's Perfect Words from Allah's wrath and His punishment, 
 
 Sayyidna Khalid ؓ did as advised and was soon cured of insomnia.
 
+## AI Translation
+
+And say, “My Rabb! I seek refuge in You from the temptations of the devils.
+
+## AI Tafsir
+
+**What this ayah teaches:** I seek refuge with You from the whisperings of the Shayatin.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** If You would show me that with which they are threatened.) meaning, 'if You punish them while I am witnessing that, then do not cause me to be one of them.' As was said in the Hadith recorded by Imam Ahmad and At-Tirmidhi, who graded it Sahih: (Musnad Ahmad, Jami' at-Tirmidhi) We have already stated, when discussing Isti'adhah (seeking refuge), that the Messenger of Allah ﷺ used to say,
 ## Personal Reflections
 
 

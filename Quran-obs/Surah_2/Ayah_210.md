@@ -139,6 +139,15 @@ The verse holds out a stern warning to those who have got Islam all tied up with
 
 As regards the possibility of 'Allah Almighty and the angels coming upon them in canopies of clouds,' this will be on Doomsday. The correct position is that such coming of Allah Almighty belongs to the Mutashabihat متاشابھا ات ، statements of hidden meaning, about which there is a standard policy practiced by the majority of the blessed Companions, the Tabi` in تابعین ، their successors, and the revered elders of the Muslim ummah, that is, one must believe in its truth and avoid worrying about as to how this would happen because it is beyond human reason to find out the reality and the nature, the whats and the hows of the 'Being' and the Attributes of Allah Almighty, and this too is included therein.
 
+## AI Translation
+
+Are they waiting for Allah Himself to come in clouds of shade with the angels — so the matter would be settled at once? To Allah all matters return.
+
+## AI Tafsir
+
+**What this ayah teaches:** Since Islam is the name of that particular way of life which has been given through the Qur'an and Sunnah, there-fore, it does not matter, which facet of life it concerns, it may be beliefs and acts of worship or social dealings or business transactions or government and politics or trade and industry or any other field; what matters is one's entry into Islam as a complete syst…
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the prohibition 'do not follow the footsteps of Satan', an enemy who would cheat you into taking to something which obviously looks very much like your Faith, but happens to be totally contrary to it in reality.
 ## Personal Reflections
 
 

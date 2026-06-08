@@ -80,6 +80,15 @@ A gist of Torah in fifteen verses
 
 Sayyidna ` Abdullah ibn ` Abbas ؓ said that the commandments of the entire Torah have been reduced to fifteen verses of Surah Bani Isra'il. (Mazhari)
 
+## AI Translation
+
+We have surely varied the signs in this Quran so perhaps they may be living with taqwa, but it only drives them farther away.
+
+## AI Tafsir
+
+**What this ayah teaches:** Since all these things are haram or reprehensible, therefore, it has been called 'makruh' in a general sense of 'detestable' which includes the haram and makruh both. But, within these there are some commandments where rights of parents and relatives have been enjoined or fulfillment of promises has been made mandatory.
+
+**Classical tafsir:** Ibn Kathir notes: Since all these things are haram or reprehensible, therefore, it has been called 'makruh' in a general sense of 'detestable' which includes the haram and makruh both.
 ## Personal Reflections
 
 

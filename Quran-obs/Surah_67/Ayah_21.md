@@ -172,6 +172,17 @@ The last sentence of the verse purports to express the unbelievers' sad state of
 
 Next, the conditions of non-believers and believers on the field of Resurrection are described. It is mentioned that the unbelievers will be brought to the field of Resurrection, crawling on their faces instead of walking on their feet. Bukhari and Muslim record on the authority of Sayyidna Anas that the noble Companions asked the Messenger of Allah ﷺ : "How will the non-believers walk on their faces on the Day of Resurrection?" The Messenger of Allah ﷺ replied: "Is Allah who made them walk on their feet not powerful enough to make them walk on their faces and their heads?" The following verse depicts the scene of such crawling:
 
+## AI Translation
+
+Or who will provide for you if He withholds His provision? Yet they persist in arrogance and aversion to the truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** This is like a person walking bent over on his face (with his head down) instead of walking upright.
+
+**Classical tafsir:** Ibn Kathir notes: This means that it will surround them and Allah will command what they were not able to reckon or fully comprehend to come to them.
+
+**From the Sunnah:** Bukhari and Muslim record on the authority of Sayyidna Anas that the noble Companions asked the Messenger of Allah ﷺ : "How will the non-believers walk on their faces on the Day of Resurrection?" The Messenger of Allah ﷺ replied: "Is Allah who made them walk o… (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -130,6 +130,15 @@ Similarly in وَجَعَلَ النَّهَارَ‌ نُشُورً‌ا (and h
 
 As in the case of sleep, Allah Ta’ ala has bestowed a great blessing on human beings by creating its need at night. He has also made it part of human nature to keep awake and attend to work during day time, so that people should look after each other's needs. He has also fixed certain timings for certain desires and needs common in all human beings. For instance, all people feel hungry in the mornings and evenings and want to eat. So the eating times of all humans are common which is again a great blessing from Allah Ta’ ala
 
+## AI Translation
+
+He is the One Who has made the night for you as a cover, and made sleep for resting, and the day for rising.
+
+## AI Tafsir
+
+**What this ayah teaches:** Hence, night by itself is a blessing and sleep is another blessing.
+
+**Classical tafsir:** Ibn Kathir notes: So the sense of the verse is that Allah Ta’ ala has created the night as a covering to everything then imposed sleep on men and all living things, so that they rest and relax.
 ## Personal Reflections
 
 

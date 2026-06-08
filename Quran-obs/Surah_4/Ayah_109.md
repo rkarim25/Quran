@@ -138,6 +138,17 @@ The two men cried and each one of them said, 'I forfeit my right to my brother.'
 
 Banu Ubayriq telling them that their support given to betrayers of trust in the mortal world does not end at that. There will be the Day of Doom when their case will come before Almighty Allah. Who will lend support to them at that time? The verse serves two purposes. It admonishes them, and then reminds them of the hazards of the Hereafter persuading them thereby to repent and turn to Allah.
 
+## AI Translation
+
+Here you are! You are advocating for them in this life, but who will advocate for them before Allah on the Day of Judgment? Or who will come to their defence?
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, Allah does not like anyone who is a betrayer, sinner (107)They may hide (their crimes) from men, but they cannot hide (them) from Allah; for He is with them (by His knowledge), when they plot by night in words that He does not approve.
+
+**Classical tafsir:** Ibn Kathir notes: Some of you might be more eloquent in presenting his case than others, so that I judge in his favor.
+
+**From the Sunnah:** Umm Salamah said that the Messenger of Allah ﷺ heard the noise of disputing people close to the door of his room, and he went out to them saying, If I judge in one's favor concerning the right of another Muslim, then it is a piece of the Fire. (Sahih Muslim)
 ## Personal Reflections
 
 

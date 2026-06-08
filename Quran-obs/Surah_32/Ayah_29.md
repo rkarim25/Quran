@@ -142,6 +142,15 @@ Surah As-Sajdah
 
 Ends here.
 
+## AI Translation
+
+Say, O Prophet: On the Day of Decision it will not benefit those who rejected the truth to believe then, nor will they be delayed.
+
+## AI Tafsir
+
+**Context:** (So turn aside from them and await, verily, they (too) are awaiting.) meaning, 'turn away from these idolators, and convey that which has been revealed to you from your Lord.' This is like the Ayah, (Follow what has been…
+
+**What this ayah teaches:** How the those who reject the truth sought to hasten on the Punishment, and what happened to Them Allah tells us how the those who reject the truth sought to hasten on the punishment, and to bring the wrath and vengeance of Allah upon themselves, because they thought this punishment would never happen, and because of their disbelief and stubbornness.
 ## Personal Reflections
 
 

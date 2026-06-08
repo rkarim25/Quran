@@ -203,6 +203,17 @@ It is Allah Ta’ ala alone who grants female children to whom He wills, and mal
 
 While stating the sex of children in this verse, Allah Ta’ ala has mentioned females first, and males later. Taking a hint from this verse, Sayyidna Wathilah Ibn Asqa' ؓ has said that blessed is the woman who gives birth to a daughter first. (Qurtubi)
 
+## AI Translation
+
+But if they turn away, We have not sent you as a keeper over them. Your duty is only to deliver the message. And indeed, when We let someone taste mercy from Us, they become prideful because of it. But when afflicted with evil because of what their hands have done, they become totally ungrateful.
+
+## AI Tafsir
+
+**What this ayah teaches:** And verily, when We cause man to taste of mercy from Us, he rejoices there at; but when some evil befalls them because of the deeds which their hands have sent forth, then verily, man (becomes) ingrate . You will have no refuge on that Day nor there will be for you any denying (47)But if they turn away, We have not sent you as a Hafiz over them.
+
+**Classical tafsir:** Ibn Kathir notes: And verily, when We cause man to taste of mercy from Us, he rejoices there at; but when some evil befalls them because of the deeds which their hands have sent forth, then verily, man (becomes) ingrate .
+
+**From the Sunnah:** This is like what the Messenger of Allah ﷺ said to the women: As the Prophet ﷺ said, the believer is the one who:
 ## Personal Reflections
 
 

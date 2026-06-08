@@ -202,6 +202,15 @@ After that they were reminded of the blessings Allah Ta` ala had bestowed upon t
 
 Remembering these blessings would have been for their own good, but wicked and intoxicated with power and wealth as they were, they paid no heed and gave a reply which was no different from what is generally given by people who have gone astray. They said that if Sayyidna Hud (علیہ السلام) was trying to wean them away from the faith of their ancestors and hoping that they would abandon their idols and come around to believing in just one God, then, this they would never be able to do. As for the warning of punishment he was giving to them, they would say: go ahead and bring it upon us, if you are telling the truth.
 
+## AI Translation
+
+Do you find it astonishing that a reminder should come to you from your Rabb through one of your own so he may warn you? Remember that He made you successors after the people of Noah and increased you greatly in stature. So remember Allah’s favours, so you may be successful.”
+
+## AI Tafsir
+
+**What this ayah teaches:** There is no foolishness in me, but (I am) a Messenger from the Lord of all that exists (67)"I convey unto you the Messages of my Lord, and I am a trustworthy adviser (or well-wisher) for you (68)"Do you wonder that there has come to you a Reminder (and an advice) from your Lord through a man from among you to warn you?
+
+**Classical tafsir:** Ibn Kathir notes: So remember the graces (bestowed upon you) from Allah so that you may be successful.
 ## Personal Reflections
 
 

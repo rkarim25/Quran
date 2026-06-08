@@ -95,6 +95,15 @@ A gist of Torah in fifteen verses
 
 Sayyidna ` Abdullah ibn ` Abbas ؓ said that the commandments of the entire Torah have been reduced to fifteen verses of Surah Bani Isra'il. (Mazhari)
 
+## AI Translation
+
+The violation of any of these commandments is detestable to your Rabb.
+
+## AI Tafsir
+
+**What this ayah teaches:** So everything that is mentioned here is a Sayi'ah (evil deed) for which a person is to be blamed before Allah, Who does not like or accept these deeds.
+
+**Classical tafsir:** Ibn Kathir notes: Since all these things are haram or reprehensible, therefore, it has been called 'makruh' in a general sense of 'detestable' which includes the haram and makruh both.
 ## Personal Reflections
 
 

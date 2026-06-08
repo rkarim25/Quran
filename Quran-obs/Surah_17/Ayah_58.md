@@ -116,6 +116,15 @@ The word 'al-wasilah' in: يَبْتَغُونَ إِلَىٰ رَ‌بِّهِ�
 
 About the sentence which follows immediately after: يَرْ‌جُونَ رَ‌حْمَتَهُ وَيَخَافُونَ عَذَابَهُ (hope for His Mercy and fear His punishment - 57), Sahl ibn ` Abdullah said: Hope and Fear, that is, hoping for mercy from Allah as well as fearing Him are two different states one is in. When they stay at par, one keeps on course, correct and stable. And if any one of the two overcomes the other, one finds the equilibrium of his spiritual state subjected to disorder to the measure of that imbalance. (Qurtubi)
 
+## AI Translation
+
+There is not a wicked society that We will not destroy or punish with a severe torment before the Day of Judgment. That is written in the Record.
+
+## AI Tafsir
+
+**What this ayah teaches:** And there is not a town (population) but We shall destroy it before the Day of Resurrection, or punish it with a severe torment.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

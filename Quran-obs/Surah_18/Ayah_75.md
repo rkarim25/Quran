@@ -93,6 +93,15 @@ The Story of killing the Boy
 
 We now move to the sentence: حَتَّىٰ إِذَا لَقِيَا غُلَامًا (until when they met a boy -74). The word: غُلَام (ghulam) in the text is used for a minor boy in the Arabic usage. This boy killed by al-Khadir (علیہ السلام) was a minor - as corroborated by Sayyidna Ibn ` Abbas ؓ and most commentators. Further on, when the words: نَفْسًا زَكِيَّةً (innocent person) were used for him, that too supports the view that he was a minor. The reason is that زَكِيَّةً (zakiyyah) means 'free of sin' and it can be either the attribute of a prophet or a minor child who faces no accounting for what is done by him and no sin is written in his Book of Deeds.
 
+## AI Translation
+
+He answered, “Did I not tell you that you cannot have sabr with me?”
+
+## AI Tafsir
+
+**What this ayah teaches:** Then they both proceeded till they met a boy, and he (Khidr) killed him.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

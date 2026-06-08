@@ -156,6 +156,17 @@ Mentioned in the second verse (78) is the sad end of those from the Bani Isra'il
 
 In the last two verses (80, 81), the cultivation of deep friendship with disbelievers has been prohibited as its outcome is disastrous. It may also be indicative of the possibility that the deviation of Bani Isra'il was a result of their close friendly collaboration with disbelievers which may have affected their ways adversely and finally became the cause of their fall into the abyss.
 
+## AI Translation
+
+They did not forbid one another from doing evil. Evil indeed was what they did!
+
+## AI Tafsir
+
+**Context:** Those among the Children of Israel who disbelieved were cursed by the tongue of Dawud and 'Isa, son of Maryam. That was because they disobeyed (Allah and the Messengers) and were ever transgressing (beyond the bounds)(78…
+
+**What this ayah teaches:** Evil indeed is that which they have sent forward before themselves; for that (reason) Allah is wrath with them, and in torment they will abide (80)And had they believed in Allah, and in the Prophet and in what has been revealed to him, never would they have taken them as friends; but many of them are rebellious .
+
+**Classical tafsir:** Ibn Kathir notes: The Sad End of Bani Isra'Il Mentioned in the second verse (78) is the sad end of those from the Bani Isra'il who were involved in this error of excess and deficiency.
 ## Personal Reflections
 
 

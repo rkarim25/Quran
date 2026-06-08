@@ -140,6 +140,15 @@ The process of inventing things and making them work makes inventors self-center
 
 From here unfolds the difference between the world of a believer and the world of a disbeliever. Both ride. But, when a believer steps in there, the conveyance does not simply shorten his travel distances on the land, it introduces him to the one higher, more sublime.
 
+## AI Translation
+
+And he said, “Board it! In the Name of Allah it will sail and cast anchor. Surely my Rabb is All-Forgiving, the Rahim — special mercy for believers in the Akhirah.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, my Lord is Oft-Forgiving, ar-Rahim.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, he (Nuh) mentions that His Lord is Oft Forgiving, ar-Rahim.
 ## Personal Reflections
 
 

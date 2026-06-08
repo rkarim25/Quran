@@ -79,6 +79,15 @@ About it, Sayyidna ` Abdullah Ibn ` Abbas ؓ said:
 
 They are two days mentioned by Allah Ta’ ala in His Book. Allah Ta’ ala knows best about them and I dislike to say in the matter of the Book of Allah that which I do not know.
 
+## AI Translation
+
+That is the Knower of the seen and unseen — the Almighty, the Rahim — whose special mercy is reserved for believers in the Akhirah.
+
+## AI Tafsir
+
+**What this ayah teaches:** That is He, the All-Knower of the unseen and the seen,) meaning, He is controlling all these affairs.
+
+**Classical tafsir:** Ibn Kathir notes: Big criminals will find the day longer while the small ones will find it comparatively shorter, so much so that the day some would feel to be of a thousand years, to others, it would appear as of fifty thousand years.
 ## Personal Reflections
 
 

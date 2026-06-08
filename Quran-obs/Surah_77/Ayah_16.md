@@ -80,6 +80,15 @@ Allah says,
 
 أَلَمْ نُهْلِكِ الْأَوَّلِينَ (Did We not destroy the earlier people?...77:16) It refers to the nations of ` Ad, Thamud, nation of Lut (علیہ السلام) and Fir'aun (The Pharaoh) who were destroyed because of their obstinacy.
 
+## AI Translation
+
+Did We not destroy earlier rejecters?
+
+## AI Tafsir
+
+**What this ayah teaches:** The earth is held in place with them so that it does not shake and sway.
+
+**Classical tafsir:** Ibn Kathir notes: The earth is held in place with them so that it does not shake and sway.
 ## Personal Reflections
 
 

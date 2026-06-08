@@ -200,6 +200,17 @@ The verse under comment defines that Paradise will be as wide as the heaven and 
 
 ذَٰلِكَ فَضْلُ اللَّـهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّـهُ ذُو الْفَضْلِ الْعَظِيمِ (That is the bounty of Allah that He gives to whomever He wills, and Allah is the Lord of the great bounty...57:21) The foregoing verse enjoined upon us to march forth and compete each other in marching to Paradise and its bounties. This could give rise to the thought that Paradise and its eternal pleasures and delights are the direct result of our actions. This verse clarifies the point that good actions are not necessarily the sufficient cause for the attainment of Paradise. Man's life-long actions cannot be an adequate price even for the bounties he has received in this world, let alone the everlasting bounties of Paradise and its eternal blessings. Anyone who enters Paradise will do so out of Allah's grace and mercy, as is mentioned in a Prophetic Hadith, recorded in Sahilhain on the authority of Sayyidna Abu Hurairah ؓ who reports that the Messenger of Allah ﷺ has said: "No one will attain salvation by means of his actions only." The Companions enquired: "Not even you, 0 Messenger of Allah?" He replied: "No, not even I will attain Paradise because of my actions, unless Allah bestows His grace and compassion on me." [ Mazhari ]
 
+## AI Translation
+
+Race toward forgiveness from your Rabb and a Garden as wide as the heavens and earth, prepared for those who have iman in Allah and His messengers. That is the bounty of Allah—He gives it to whom He wills. Allah's bounty is immense.
+
+## AI Tafsir
+
+**What this ayah teaches:** And the life of this world is only a deceiving enjoyment (20)Race with one another in hastening towards forgiveness from your Lord, and Paradise the width whereof is as the width of the heaven and the earth, prepared for those who believe in Allah and His Messengers.
+
+**Classical tafsir:** Ibn Kathir notes: And He is the All-Knowing, the All-Powerful.)(30:54) This parable indicates the near demise of this life and the imminent end of it, while in contrast, the Hereafter is surely coming.
+
+**From the Sunnah:** Paradise is nearer to any of you than the strap on his shoe, and so is the (Hell) Fire. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

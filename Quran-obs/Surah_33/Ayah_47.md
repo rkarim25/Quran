@@ -114,6 +114,17 @@ The attributes of the Holy Prophet ﷺ ، as stated in the Holy Qur'an, are also
 
 The Holy Qur'an, after attributing the above qualities to the Holy Prophet ﷺ ، is asking him to carry on his functions, that is, to give the good news to the faithful that they are going to receive great bounties and mercy from Allah and not to obey the desires of the infidels and hypocrites. It was, though, not possible for the Holy Prophet obey the infidels and the hypocrites or to give up preaching and inviting people, yet there was a chance that, in order to avoid people's sarcasm and taunts, he might have inclined to avoid marrying Sayyidah Zainab ؓ that was, in fact, a practical demonstration of the divine rule of Shari'ah. This has been alluded to as obeying the infidels and hypocrites. He was further directed not to mind any vexation that he may receive from the infidels and hypocrites (as he did) and also not to worry about physical harm afflicted by them, but in case such a thought crosses his mind, he was directed to trust in Allah, because Allah is enough to put all matters right - He will protect him from all harms, and if an apparent harm is caused during preaching, it is a gain in reality, and is not against the promise of protection and putting things right.
 
+## AI Translation
+
+Give good news to the mu'mins that they will have a great bounty from Allah.
+
+## AI Tafsir
+
+**Context:** Wahb bin Munabbih said: "Allah revealed to one of the Prophets of the Children of Israel whose name was Sha'ya' (Isaiah); 'Stand up among your people the Children of Israel and I shall cause your tongue to utter (words o…
+
+**What this ayah teaches:** I will make them the heirs of their Prophet, calling people to their Lord, enjoining what is good, forbidding what is evil, establishing regular prayer, paying the Zakah and fulfilling their promises.
+
+**Classical tafsir:** Ibn Kathir notes: If he were to pass by a lamp, it would not be extinguished, because of his tranquillity.
 ## Personal Reflections
 
 

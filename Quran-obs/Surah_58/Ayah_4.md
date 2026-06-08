@@ -241,6 +241,17 @@ Al-Hasan Al-Basri said that it is to utilize her sexual organ, and he did not se
 
 ذَٰلِكَ لِتُؤْمِنُوا بِاللَّـهِ وَرَ‌سُولِهِ وَتِلْكَ حُدُودُ اللَّـهِ وَلِلْكَافِرِ‌ينَ عَذَابٌ أَلِيمٌ (...This is [ laid down ] so that you believe in Allah and His Messenger. And these are the limits set by Allah. And for the disbelievers there is a painful chastisement. 58:4) This part of the verse contains the phrase 'so that you believe'. Belief here implies 'to act upon the sacred laws, ordinances and injunctions or obey the commandments of Allah and His Messenger'. Then the verse says that the laws of expiation are limits set by Allah. It is prohibited to exceed them. It indicates that in matters of marriage, divorce, incestuous comparison and so on, Islam has abolished all traces of pre-Islamic pagan elements of customs and practices, and set down the just and approved code of conduct. Man is required to stick strictly to the parameters of Islam. Those who oppose and deny the Divine limits will be tormented most severely.
 
+## AI Translation
+
+If he cannot afford to free a slave, he must fast two consecutive months before they touch each other. If he is unable to fast, he must feed sixty poor people. These rules re-affirm iman—faith that reshapes how you live—in Allah and His Messenger. These are Allah's limits; whoever crosses them wrongs his own soul. You never know—perhaps Allah will bring about a change of heart afterward.
+
+## AI Tafsir
+
+**Context:** By Allah! Before I departed, parts of the Qur'an were revealed about me. Allah's Messenger ﷺ felt the hardship upon receiving the revelation as he usually did and then became relieved. He said to me,
+
+**What this ayah teaches:** None can be their mothers except those who gave them birth.) meaning, when the husband says to his wife that she is like his mother, or the back of his mother etc., she does not become his mother.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said that it is to utilize her sexual organ, and he did not see any harm in doing what is less than that before paying the expiation.
 ## Personal Reflections
 
 

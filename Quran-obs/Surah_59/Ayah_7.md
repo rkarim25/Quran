@@ -298,6 +298,19 @@ Priority should be given to the Indigent Righteous and Religious Scholars servin
 
 This shows that although charities, especially fai' are meant to fulfill the needs of the indigent Muslims in general, the righteous, especially students and learned scholars serving the cause of religion should be given priority over all others. This is the reason why Islamic governments gave allowance from the fai' fund to learned scholars, muftis and judges for serving the cause of education, propagation of Islam and reform of human beings, because these verses establish two categories of the noble Companions. Under the first category fall the emigrants who in the very first instance made great sacrifices for Islam and the Messenger of Allah ﷺ . They endured great hardships, and eventually bid farewell to their wealth and property, to their land and country, and to their relatives and the near and dear ones, and emigrated to Madinah. Under the second category fall the Ansar, the natives of Madinah who helped the emigrants and cooperated with them. They invited the Messenger of Allah and with him the emigrants and thus caused the whole world around them to stand in their opposition. Their hospitality is unparalleled in the annals of the nations of the world. After these two major categories, comes a third category which comprises those people who embraced Islam after the blessed Companions and followed their footsteps closely. The last category embraces all Muslims who will follow until the Last Hour. The three categories are discussed below, in succession.
 
+## AI Translation
+
+Gains that Allah grants His Messenger from other peoples are for Allah, the Messenger, his close relatives, orphans, the poor, and needy travellers—so wealth does not circulate only among your rich. Whatever the Messenger gives you, take it; whatever he forbids, leave it. Fear Allah. Surely Allah is severe in punishment.
+
+## AI Tafsir
+
+**Context:** Although the verse was revealed in connection with fai', its words are general. They are not specific to wealth. They cover all the commands as well.
+
+**What this ayah teaches:** The Messenger's Command is Binding like the Qur’ anic Command Although the verse was revealed in connection with fai', its words are general.
+
+**Classical tafsir:** Ibn Kathir notes: However, the word 'fai' refers to a property acquired without resorting to an actual fight, (like in a state of peaceful surrender.) These two terms have been used to set down rules of these two types in the Holy Qur'an.
+
+**From the Sunnah:** Allah the Exalted explains the regulations for Fai', the booty that the Muslims acquire from the those who reject the truth, without fighting them or using cavalry and camelry in war against them. The Group, with the exception of Ibn Majah, collected this Hadith.
 ## Personal Reflections
 
 

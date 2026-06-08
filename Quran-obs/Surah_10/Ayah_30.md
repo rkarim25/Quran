@@ -187,6 +187,17 @@ All affairs and matters will be brought back to Allah, the Judge, the All-Just. 
 
 Described in the sixth verse (30) is what would happen to both the peoples of Jannah and Jahannam by saying that, in this excruciating place called the plains of Resurrection, everyone would have assessed his or her respective deeds, individually and personally, whether they were beneficial or harmful. And they all would then be taken to their true Lord, the only One worthy of worship. At that time, all options of trust and support one usually looks up to will stand terminated. Even the idols the Mushriks used to take as their patrons and intercessors will evaporate in thin air en-block.
 
+## AI Translation
+
+Then and there every soul will face the consequences of what it had done. They all will be returned to Allah—their True Master. And whatever gods they fabricated will fail them.
+
+## AI Tafsir
+
+**What this ayah teaches:** This refers to the partners responding to those who worshipped them. You and your partners." Then We shall separate them, and their partners shall say: "It was not us that you used to worship.
+
+**Classical tafsir:** Ibn Kathir notes: This refers to the partners responding to those who worshipped them.
+
+**From the Sunnah:** intercede to Allah so the Final Judgement may come and they get rid of that state.
 ## Personal Reflections
 
 

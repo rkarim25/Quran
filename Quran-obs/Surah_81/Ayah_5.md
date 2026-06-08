@@ -252,6 +252,15 @@ Concerning Allah's statement,
 
 وَإِذَا الْعِشَارُ‌ عُطِّلَتْ (and when the ten-months pregnant she-camels will be abandoned...81:4). The Arabic word ` ishar is the plural of the word ` ushara' and is applied to she-camels having ten months pregnancy. Such she-camels were considered by the Arabs to be a very valuable asset, because they expected her to give birth to more camels and abundant milk. As such, they used to protect her and never left her free. The verse referring to this custom of the Arabs, who were the immediate addressees, depicts the horrible scene of the Doomsday when even the most favorite wealth, like such a she-camel, will be abandoned and neglected by its owners because of the calamity they will be facing.
 
+## AI Translation
+
+when wild beasts are herded together,
+
+## AI Tafsir
+
+**What this ayah teaches:** And when the heaven is Kushitat;)(12.
+
+**Classical tafsir:** Ibn Kathir notes: We have neglected nothing in the Book, then unto their Lord they shall be gathered.)(6:38) Ibn 'Abbas said, "Everything will be gathered, even the flies." This statement was recorded by Ibn Abi Hatim.
 ## Personal Reflections
 
 

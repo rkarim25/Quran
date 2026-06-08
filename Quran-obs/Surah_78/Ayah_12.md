@@ -182,6 +182,15 @@ Thereafter the verse reads:
 
 Now attention is drawn to the comforts we get from the sky. The most useful thing in the sky is the light of the sun. It is mentioned in the following verse: وَجَعَلْنَا سِرَ‌اجًا وَهَّاجًا . (and created a luminous lamp [ the sun ]....78:13). Then, among the useful things below the sky, the most beneficial and the most essential thing is the raining clouds which are mentioned thus:
 
+## AI Translation
+
+built above you seven strong heavens,
+
+## AI Tafsir
+
+**What this ayah teaches:** And We have built above you seven strong,)(13. And We have made the day for livelihood.)(12.
+
+**Classical tafsir:** Ibn Kathir notes: And We have made the day for livelihood.)(12.
 ## Personal Reflections
 
 

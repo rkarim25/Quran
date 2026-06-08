@@ -225,6 +225,15 @@ Surah Al-Alikaf (The Sand-dunes)
 
 Ends here
 
+## AI Translation
+
+So endure with sabr—as the resolute messengers endured. Do not seek to hasten punishment for those who deny. On the Day they see what they were warned about, it will seem they lived in this world only an hour of a day. This is enough warning. Is anyone destroyed except people who insist on rebellion?
+
+## AI Tafsir
+
+**What this ayah teaches:** The word 'resolute' has been used here as a qualification for all the messengers, and not only for some of them, because the word 'min' used with 'rusul' is not, according to the authentic exegetes, in the sense of 'some'.
+
+**Classical tafsir:** Ibn Kathir notes: The word 'resolute' has been used here as a qualification for all the messengers, and not only for some of them, because the word 'min' used with 'rusul' is not, according to the authentic exegetes, in the sense of 'some'.
 ## Personal Reflections
 
 

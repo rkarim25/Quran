@@ -174,6 +174,15 @@ Commentators have stated that the example given by the verse for Jews applies to
 
 He is but an animal of four legs, carrying the load of some books'
 
+## AI Translation
+
+The example of those entrusted with the Torah yet failed to carry it is like a donkey loaded with books. How evil is the example of those who reject Allah's signs! Allah does not guide the wrongdoing people.
+
+## AI Tafsir
+
+**What this ayah teaches:** The donkey carries its loads, but it is neither aware of its subject-matter, nor does it benefit by it.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, they are worse than the donkey, because the donkey cannot understand.
 ## Personal Reflections
 
 

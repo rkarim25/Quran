@@ -225,6 +225,17 @@ Following an Undeserving Leader is Asking for Trouble
 
 This sentence of the Qur'an gives everyone a clear lesson in wisdom - that none of these criterions are at all sufficient to help in choosing someone as a leader to be followed. The correct attitude is that every-one should first determine the aim of his life and the direction of his journey in it. Then, in order to achieve that purpose, he has to look for a person who has the knowledge of that direction and is himself proceeding to it. When one finds a person like that, then, tagging along behind him can certainly take one all the way to his destination. This is the reality underlying what we know as the Taqlid (following) of the Mujtahid Imams. They know دین Din and they follow it too. Therefore, those who do not know can, by following them, achieve the main purpose of religion, that is, the obedience to Allah and His Messenger, and the following of their commands. As for one who is already astray, who does not himself know the destination, or is knowingly going in a direction opposite to the destination, then, following him shall be, in the sight of every wise person, a waste of one's efforts and deeds, rather the signing of one's own warrant of destruction. It is a pity that in the present age of so-called knowledge and enlightenment, even the people of education and foresight are ignoring the fact that the greatest cause of world upheaval is the locked following of leaders who are incompetent, undeserving, and false.
 
+## AI Translation
+
+When it is said to them, “Come to Allah’s revelations and to the Messenger,” they reply, “What we found our forefathers practicing is good enough for us.” even if their forefathers had absolutely no knowledge or guidance?
+
+## AI Tafsir
+
+**Context:** Following forefathers was one of the many customs of Jahiliyyah which had involved them in all sorts of evils, and equally deprived them of all kinds of virtues too.
+
+**What this ayah teaches:** But those who disbelieve invent lies against Allah, and most of them have no understanding (103)And when it is said to them: "Come to what Allah has revealed and unto the Messenger." They say: "Enough for us is that which we found our fathers following," even though their fathers had no knowledge whatsoever and no guidance (104).
+
+**Classical tafsir:** Ibn Kathir notes: As for the Sa'ibah, Mujahid said that it is for sheep, and mentioned a similar meaning as for Bahirah.
 ## Personal Reflections
 
 

@@ -82,6 +82,15 @@ Allah the Exalted says, 'O Muhammad, turn away from these people who, when they 
 
 وَكُلُّ أَمْرٍ‌ مُّسْتَقِرٌّ‌ (...while every matter has to be settled....54:3). The literal meaning of the word istiqrar is to settle. The verse means that everything must ultimately reach its end and the matter must become clear. If a veil is fabricated and cast over the truth or reality, eventually [ in its designated time ] the false veil will be removed and the truth and falsehood will be clearly distinguished.
 
+## AI Translation
+
+With eyes downcast they will emerge from the graves like swarming locusts,
+
+## AI Tafsir
+
+**What this ayah teaches:** The Day that the caller will call (them) to a terrible thing (6)They will come forth, with humbled eyes from (their) graves as if they were locusts spread abroad (7)Hastening towards the caller.
+
+**Classical tafsir:** Ibn Kathir notes: The literal meaning of the word istiqrar is to settle.
 ## Personal Reflections
 
 

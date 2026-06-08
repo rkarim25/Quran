@@ -138,6 +138,17 @@ Surah Al-Ma’ un
 
 Ends here
 
+## AI Translation
+
+And does not urge feeding the poor—indifferent to hunger while surplus exists.
+
+## AI Tafsir
+
+**What this ayah teaches:** He does not feed him, nor is he kind to him.
+
+**Classical tafsir:** Ibn Kathir notes: This may either be referring to its act entirely, as Ibn 'Abbas said, or it may be referring to performing it in its stipulated time that has been legislated Islamically. Have you seen the one who denies the Din'?' Here the word Din means the Hereafter, the Recompense and the Final Reward.
+
+**From the Sunnah:** This does not refer to the unintentional errors, slips and mistakes that Muslims make in their prayers.
 ## Personal Reflections
 
 

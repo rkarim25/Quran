@@ -256,6 +256,19 @@ In conclusion, if the prophecy of dukhan ('smoke' ) be taken as one of the porte
 
 The author of Ruh-ul-Ma` ani, in terms of his preferred interpretation, has expressed his suspicion on the authenticity of this narration. However, if the narration can be confirmed, then there will remain no conflict between the Tafsir of Ibn Masud ؓ and the express wordings of the Qur'an and the Prophetic ahadith. Allah, the Pure and Exalted, knows best
 
+## AI Translation
+
+And do not be arrogant with Allah. I have certainly come to you with a compelling proof.
+
+## AI Tafsir
+
+**Context:** And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid (of drowning in the sea).
+
+**What this ayah teaches:** For Khadijah, may Allah be pleased with her, is higher than her in status or is equal to her, as was Asiyah bint Muzahim, the wife of Fir'awn.
+
+**Classical tafsir:** Ibn Kathir notes: This refers to the clear signs and definitive evidence with which Allah sent him.
+
+**From the Sunnah:** : "I warn you against three things: one, the smoke which will only cause cold in a believer, but will permeate the entire body of an unbeliever so much so that it will ooze out from every pore and minute hole of the skin; the second thing is the beast (of the…
 ## Personal Reflections
 
 

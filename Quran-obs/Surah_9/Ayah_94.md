@@ -183,6 +183,17 @@ Three instructions about them have been given to the Holy Prophet ﷺ in the ver
 
 1. When they come to make excuses, they should be told that they do not have to make false excuses for they were not going to be believed in their word. Allah Ta` ala had already told the Holy Prophet ﷺ about the condition of their thinking and doing including the details of their wicked plans and secret intentions. This was enough to prove that they were liars, therefore, offering excuses makes no sense. After that, it was said: وَسَيَرَ‌ى اللَّـهُ عَمَلَكُمْ (And Allah will see what you do...). Here, respite has been given to them so that they could still make their Taubah (repentance), renounce Nifaq (hypocrisy) and become true Muslims - because, the wording of the text stipulates that Allah and His Messenger shall see what they do and how they do it. In other words, action shall be taken in consonance with their behavior pattern. If they repented sincerely and became true Muslims, their sins shall stand forgiven. Otherwise, these false excuses were not going to do them any good.
 
+## AI Translation
+
+They will make excuses to you when you return to them. Say, “Make no excuses, we will not believe you. Allah has already informed us about your state. Your deeds will be observed by Allah and His Messenger as well. And you will be returned to the Knower of the seen and unseen, then He will inform you of what you used to do.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, they are Rijs (impure), and Hell is their dwelling place – a recompense for that which they used to earn (95)They (the hypocrites) swear to you (Muslims) that you may be pleased with them, but if you are pleased with them, certainly Allah is not pleased with the people who are Fasiqin (rebellious).
+
+**Classical tafsir:** Ibn Kathir notes: Here, respite has been given to them so that they could still make their Taubah (repentance), renounce Nifaq (hypocrisy) and become true Muslims - because, the wording of the text stipulates that Allah and His Messenger shall see what they do and how they do it.
+
+**From the Sunnah:** They (the hypocrites) will present their excuses to you (Muslims), when you return to them.
 ## Personal Reflections
 
 

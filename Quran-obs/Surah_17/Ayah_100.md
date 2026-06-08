@@ -103,6 +103,15 @@ Commentators generally take the expression 'the treasures of the Lord's blessing
 
 My master and mentor, Hadrat Thanavi (رح) ، in his Bayan al-Qur'an, has interpreted 'my Lord's mercy' as the station of prophethood and messenger-ship, and 'the treasures of mercy' as the varied perfection of prophethood. Given this Tafsir, this verse will be linked with previous verses by saying: The outcome of all those absurd demands you are making against my status as a prophet and Messenger of Allah ﷺ is that you just do not want to believe in it. Do you, then, want that the function of prophethood should be entrusted in your hands, so that you can make anyone a prophet at your sweet will? If such a wish were to be granted, the consequence would be that you would never give prophethood or messenger-ship to anyone, sitting over it like misers. After having given this explanation, he has added that this Tafsir is something that comes as one of the many divine gifts. It fits the occasion. Interpreting proph-ethood in this setting with mercy would be similar to its interpretation in the verse of Surah az-Zukhruf. It was said: أَهُمْ يَقْسِمُونَ رَ‌حْمَتَ رَ‌بِّكَ (Do they distribute the mercy of your Lord? - 43:32). Here, 'rahmah' (mercy) means nothing but 'nubuwwah' (prophethood) - and there is a consensus on it. Allah knows best.
 
+## AI Translation
+
+Say to them, O Prophet, “Even if you were to possess the infinite treasuries of my Rabb’s mercy, then you would certainly withhold them, fearing they would run out—for humankind is ever stingy!”
+
+## AI Tafsir
+
+**What this ayah teaches:** This has its link with previous verses (90, 91) where the those who reject the truth of Makkah had demanded that the Holy Prophet ﷺ should - if he was really a prophet in truth - make rivers flow in the barren desert of Makkah and trans-form it into lush green farms, like the land of Syria.
+
+**Classical tafsir:** Ibn Kathir notes: Holding back is Part of Man's Nature Allah says to His Messenger ﷺ: "Tell them, O Muhammad, even if you had authority over the treasures of Allah, you would refrain from spending for fear of exhausting it." Ibn 'Abbas and Qatadah said, "This means for fear of poverty," lest it run out, despite the f…
 ## Personal Reflections
 
 

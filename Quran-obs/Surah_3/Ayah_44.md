@@ -158,6 +158,19 @@ The rule governing قُرعَہ Qur'ah (to the drawing of lots) according to Han
 
 In other words, it can be said that in a situation where the rights of all parties are equal and the purpose of the lot is only to allocate equal portions to each of them and to decide as to which portion is for whom, then drawing a lot is permissible.
 
+## AI Translation
+
+This is news of the unseen that We reveal to you. You were not with them when they cast lots to decide who would be Mary’s guardian, nor were you there when they argued.
+
+## AI Tafsir
+
+**Context:** This verse presents an argument to prove the prophethood of Sayyidna Muhammad ﷺ by referring to happenings in the lives of Sayyidna Zakariyya (علیہ السلام) and Sayyidah Maryam.
+
+**What this ayah teaches:** These took place in the remote past and there is no likelihood of their being seen or heard or read, specially so, by the Holy Prophet ﷺ which by itself proves that his being so informed of the unknown was beyond the ordinary course of learning.
+
+**Classical tafsir:** Ibn Kathir notes: Rather, Allah disclosed these facts to you as if you were a witness, when they conducted a lottery to choose the custodian of Maryam, seeking the reward of this good deed." Ibn Jarir recorded that 'Ikrimah said, "Maryam's mother left with Maryam, carrying her in her infant cloth, and took her to the…
+
+**From the Sunnah:** The Six, with the exception of Abu Dawud, recorded it.
 ## Personal Reflections
 
 

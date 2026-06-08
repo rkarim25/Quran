@@ -98,6 +98,15 @@ Allah says,
 
 أَلَمْ نَجْعَلِ الْأَرْ‌ضَ كِفَاتًا أَحْيَاءً وَأَمْوَاتًا (Did We not make the earth a container that collects the living and the dead?....25, 26) The word kit is derived from kaft. It means 'to gather things together'. Thus kit is a thing that embodies many things within itself. Earth is created by Allah in a fashion that humans when alive, remain on its back, and when dead, in its belly.
 
+## AI Translation
+
+set upon it firm mountains, and given you fresh water to drink?
+
+## AI Tafsir
+
+**What this ayah teaches:** Did We not destroy the ancients (16)So shall We make later generations to follow them (17)Thus do We deal with the criminals (18)Woe that Day to the deniers (19)Did We not create you from a despised water (20)Then We placed it in a place of safety (21)For a known period (22)So We did measure; and We are the best to measure (23)Woe that Day to the deniers (24)Have We not made the earth Kifat (a rec…
+
+**Classical tafsir:** Ibn Kathir notes: The earth is held in place with them so that it does not shake and sway.
 ## Personal Reflections
 
 

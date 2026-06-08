@@ -229,6 +229,19 @@ The wife mentioned here was Umm Salamah, and she is the one who advised 'Umar to
 
 قَدْ فَرَ‌ضَ اللَّـهُ لَكُمْ تَحِلَّةَ أَيْمَانِكُمْ (Allah has prescribed [ the way on absolution from your oaths....66:2). This verse reminds that where it is necessary or better to break the oath, Allah has prescribed a way to absolve oneself from the liability of the oath by expiation, the details of which are given in other verses.
 
+## AI Translation
+
+Allah has already ordained for you believers a way to absolve yourselves from your oaths. Allah is your Guardian. He is the All-Knowing, All-Wise.
+
+## AI Tafsir
+
+**Context:** In another narration collected from 'Ubayd bin 'Umayr, from 'A'ishah, it was Zaynab bint Jahsh who gave the honey to the Prophet ﷺ, while 'A'ishah and Hafsah were the plotters. Allah knows best.
+
+**What this ayah teaches:** And Allah is Oft-Forgiving, ar-Rahim.)(2.
+
+**Classical tafsir:** Ibn Kathir notes: And Allah is Oft-Forgiving, ar-Rahim.)(2.
+
+**From the Sunnah:** he heard 'A'ishah claiming that Allah's Messenger ﷺ used to stay for a period in the house of Zaynab bint Jahsh and drink honey in her house. (Sahih al-Bukhari) this Hadith in the Book of Divorce; then he said, "Al-Maghafir is a type of sap, and in Ar-Rimth (a type of citrus) its taste is sweet..." (Sahih al-Bukhari)
 ## Personal Reflections
 
 

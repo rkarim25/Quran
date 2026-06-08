@@ -119,6 +119,15 @@ Creation of Plants, Sending down of Rain and Creation of Fire are Proof of Allah
 
 After referring to the birth of man from very insignificant beginning, the Surah, from verse [ 63] onwards, proceeds to give a brief account of things upon which man's life on earth depends. There are three principal things upon which man's life in this world depends - food, water and fire. The first thing is food to which verse [ 63] refers.
 
+## AI Translation
+
+You already know how you were first created. Will you not then take heed?
+
+## AI Tafsir
+
+**What this ayah teaches:** The first thing is food to which verse [ 63] refers.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, whatever comes into existence comes under the veils of causes.
 ## Personal Reflections
 
 

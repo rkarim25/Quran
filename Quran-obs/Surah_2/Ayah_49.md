@@ -178,6 +178,17 @@ Someone had made a prediction to the Pharaoh (فرعون) that a child was going
 
 The next verse gives us the details about this deliverance.
 
+## AI Translation
+
+Remember when We saved you from Pharaoh's people, who afflicted you with terrible torment, slaughtering your sons and sparing your women. That was a severe trial from your Rabb.
+
+## AI Tafsir
+
+**What this ayah teaches:** We should state here that 'Pharaoh' (Fir'awn) is a title that was given to every disbelieving king who ruled Egypt, whether from the 'Amaliq (Canaanites) or otherwise, just as Caesar (Qaysar) is the title of the disbelieving kings who ruled Rome and Damascus.
+
+**Classical tafsir:** Ibn Kathir notes: Imam Ahmad reported that Ibn 'Abbas said that the Messenger of Allah came to Al-Madinah and found that the Jews were fasting the day of 'Ashura'. What the verse refers to as "a great trial" is either the slaughter of the sons - which was a calamity, and it is the quality of patience that is tested in a calamity - or the deliverance from the people of the Pharaoh - which was a blessing, and it is the…
+
+**From the Sunnah:** that the Messenger of Allah came to Al-Madinah and found that the Jews were fasting the day of 'Ashura'.
 ## Personal Reflections
 
 

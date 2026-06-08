@@ -185,6 +185,17 @@ Imam Ahmad (رح) has reported from Sayyidna Bilal Ibn Harith Al-Muzani ؓ that 
 
 Sayyidna ` Alqamah ؓ ، after narrating this from Bilal Ibn Harith ؓ ، used to say: "How many words did I not utter because of this hadith." (Ibn Kathir)
 
+## AI Translation
+
+not a word does a person utter without a vigilant observer present to record it.
+
+## AI Tafsir
+
+**What this ayah teaches:** This narration states that in the first instance every utterance is recorded, whether or not it is sinful or rewardable. Pay my debt!' The fox went out howling and continued until his neck was cutoff, (i.e.,) he died.) This parable indicates that just as the fox had no way of escaping or avoiding the earth, likewise, man has no way of avoiding death.
+
+**Classical tafsir:** Ibn Kathir notes: Pay my debt!' The fox went out howling and continued until his neck was cutoff, (i.e.,) he died.) This parable indicates that just as the fox had no way of escaping or avoiding the earth, likewise, man has no way of avoiding death.
+
+**From the Sunnah:** Those who explained 'We' in the Ayah to mean 'Our knowledge,' have done so to avoid falling into the idea of incarnation or indwelling; but these two creeds are false according to the consensus of Muslims.
 ## Personal Reflections
 
 

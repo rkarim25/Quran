@@ -104,6 +104,15 @@ Commentary
 
 When Sayyidna Nuh علیہ السلام invited his people to believe, they responded with some doubts and objections against the veracity of his mission as a prophet and messenger of Allah. Sayyidna Nuh (علیہ السلام) with the will and permission of Allah, answered their questions. Many primary and subsidiary religious rulings relating to honesty and social living emerge from here as a corollary. This dialogue forms the core of the subject taken up in these verses.
 
+## AI Translation
+
+Surely We sent Noah to his people. He said, “Indeed, I am sent to you with a clear warning.
+
+## AI Tafsir
+
+**What this ayah teaches:** No one continues doubtfully pondering the truth (after it is made clear) except one who is ignorant and excessively critical.
+
+**Classical tafsir:** Ibn Kathir notes: For verily, the truth is not to be rejected because of the lowly status of those who follow it.
 ## Personal Reflections
 
 

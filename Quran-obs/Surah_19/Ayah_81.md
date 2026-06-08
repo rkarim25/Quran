@@ -136,6 +136,15 @@ It is foolish of him to talk about retaining his wealth and children in the Here
 
 And on the Day of Judgment he will appear in God's presence one without his wealth and his children.
 
+## AI Translation
+
+They have taken gods besides Allah, seeking strength through them.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Idols of the Polytheists will deny Their Worship Allah, the Exalted, informs about the those who reject the truth who associate partners with their Lord, that they have taken gods besides Allah, so that these gods may be a source of honor and might for them.
+
+**Classical tafsir:** Ibn Kathir notes: The Idols of the Polytheists will deny Their Worship Allah, the Exalted, informs about the those who reject the truth who associate partners with their Lord, that they have taken gods besides Allah, so that these gods may be a source of honor and might for them.
 ## Personal Reflections
 
 

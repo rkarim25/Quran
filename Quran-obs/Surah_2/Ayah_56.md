@@ -88,6 +88,17 @@ This shows that the Children of Israel were required to fulfill the commandments
 
 This verse refers to death, which suggests that the thunderbolt had killed them. Since the Israelites had always been mistrusting Sayyidna Musa (علیہ السلام) ، he feared that they would suspect him of having taken the men to a solitary place and got them slaughtered. So, he prayed to Allah to save him from such a vile accusation. Allah granted his prayer, and gave those a new life.
 
+## AI Translation
+
+Then We revived you after your death, so that you might be grateful.
+
+## AI Tafsir
+
+**Context:** (If it had been Your will, You could have destroyed them and me before; would You destroy us for the deeds of the foolish ones among us)' Allah revealed to Musa that these seventy men were among those who worshipped the…
+
+**What this ayah teaches:** Afterwards, Allah brought them back to life one man at a time, while the rest of them were watching how Allah was bringing them back to life. This verse refers to death, which suggests that the thunderbolt had killed them.
+
+**Classical tafsir:** Ibn Kathir notes: This verse refers to death, which suggests that the thunderbolt had killed them.
 ## Personal Reflections
 
 

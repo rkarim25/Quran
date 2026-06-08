@@ -242,6 +242,17 @@ According to the majority of Muslim scholars, the station of Nu-buwwah (propheth
 
 And We have not sent any (one) before you but men to whom We revealed from among the peoples of the towns - Surah Yusuf, 12 : 109. (Tafsir Usmani)
 
+## AI Translation
+
+Those who say, “Allah is one in a Trinity,” have certainly fallen into rejection of the truth. There is only One Allah. If they do not stop saying this, those who reject the truth among them will be afflicted with a painful punishment.
+
+## AI Tafsir
+
+**Context:** Mujahid and several others said that this Ayah was revealed about the Christians in particular. As-Suddi and others said that this Ayah was revealed about taking 'Isa and his mother as gods besides Allah, thus making All…
+
+**What this ayah teaches:** And for the wrongdoers there are no helpers (72)Surely, they have disbelieved who say: "Allah is the third of three." And there is no Allah but One Allah (Allah).
+
+**Classical tafsir:** Ibn Kathir notes: In the present verse (75), the complimentary use of the word "Siddiqah" (truthful) obviously seems to indicate that she was a godly person, not a Nabiyy ( prophet) - because on a complimentary occasion, what is mentioned is the higher rank.
 ## Personal Reflections
 
 

@@ -103,6 +103,17 @@ Allah said to His Messenger ﷺ,
 
 In verse وَإِن مَّا نُرِ‌يَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ (And if We show you some of what We promise them, or We take you back to Us), it is to comfort and assure the Holy Prophet ﷺ that he has been given the good news that the promises Allah has made to him that Islam will have the final victory and disbelief and disbelievers will be disgraced shall come to pass definitely. But, he is told, 'you should not concern yourself as to when this victory will finally come.' May be, this happens within his life time, and it is also possible that it comes after his departure from this mortal world. ` For your peace of heart, even this much is enough that you are continuously witnessing that We are causing the lands of the dis-believers to keep being sliced off their sides,' that is, these sides pass on under Muslim control whereby the land occupied by them keeps reducing in area. This causes well-being for Muslims and a day will come when the final phase of their victory shall stand completed. The command is in the very hands of Allah Ta` ala. There is no one who can avert this command. And He is the One swift at reckoning.
 
+## AI Translation
+
+Whether We show you part of what We threaten them with, or take you back before that, your duty is only to deliver the message. Judgment belongs to Us.
+
+## AI Tafsir
+
+**What this ayah teaches:** Whether We show you part of what We have promised them or cause you to die, your duty is only to convey (the Message) and on Us is the reckoning (40)See they not that We gradually reduce the land from its outlying borders.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** ` For your peace of heart, even this much is enough that you are continuously witnessing that We are causing the lands of the dis-believers to keep being sliced off their sides,' that is, these sides pass on under Muslim control whereby the land occupied by th… (Sahih Muslim)
 ## Personal Reflections
 
 

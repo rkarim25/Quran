@@ -158,6 +158,17 @@ This humble writer has restricted the above rule to the ` religious matters' onl
 
 In our time, the edifice of nationalities is raised on the foundations of homeland, language or color whereby Muslims are segregated into one or the other ` nation' under false banners. This is contrary to the Qur'an, and Sunnah, and amounts to rising in rebellion against the principles of political and social management enunciated by the Holy Prophet ﷺ .
 
+## AI Translation
+
+Allah replied, “O Noah! He is certainly not of your family—he was entirely of unrighteous conduct. So do not ask Me about what you have no knowledge of! I warn you so you do not fall into ignorance.”
+
+## AI Tafsir
+
+**What this ayah teaches:** And certainly, Your promise is true, and You are the Most Just of the judges.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, my son is of my family!") This means, "Verily, You promised to save my family and Your promise is the truth that does not fail.
+
+**From the Sunnah:** 'Abdur-Razzaq recorded that Ibn 'Abbas said, "He was the son of Nuh, but he opposed him in deeds and intention." 'Ikrimah said in some of the modes of recitation it said here, It is common knowledge among Muslims that the battles of Badr, Uhud and al-Ahzab were fought among individuals coming from the same families.
 ## Personal Reflections
 
 

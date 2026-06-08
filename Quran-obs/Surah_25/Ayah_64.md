@@ -105,6 +105,15 @@ The Fourth Characteristic
 
 Sayyidna Ibn ` Abbas ؓ has said that one who has offered two or more Rak'ats after 'Isha' prayers is also covered by the verse. (Mazhari from Bayhaqi and Sayyidna ` Uthman ؓ is reported to have observed that the Holy Prophet ﷺ has said that one who has offered his ` Isha' prayer with congregation would be regarded as having worshipped half the night and the one who has offered Fajr prayer with congregation would be regarded as having offered the other half of the night in prayers. (Ahmed and Muslim from Mazhari)
 
+## AI Translation
+
+They are those who spend a good portion of the night, prostrating themselves and standing before their Rabb.
+
+## AI Tafsir
+
+**What this ayah teaches:** Special mention of night worship is made here firstly, because this time being a time of rest, requires extra effort, and secondly because it rules out the possibility of showing one's worship to others.
+
+**Classical tafsir:** Ibn Kathir notes: Special mention of night worship is made here firstly, because this time being a time of rest, requires extra effort, and secondly because it rules out the possibility of showing one's worship to others.
 ## Personal Reflections
 
 

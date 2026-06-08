@@ -172,6 +172,17 @@ This is the end of the Tafsir of Surat At-Tahrim, all thanks and praise are due 
 
 ضَرَ‌بَ اللَّـهُ مَثَلًا لِّلَّذِينَ آمَنُوا امْرَ‌أَتَ فِرْ‌عَوْنَ إِذْ قَالَتْ رَ‌بِّ ابْنِ لِي عِندَكَ بَيْتًا فِي الْجَنَّةِ (And Allah has cited for the believers the example of the wife of Fir'aun (the Pharaoh), when she said, "My Lord, build for me, near You, a house in the Paradise...66:11) This is the example of the wife of Fir'aun (the Pharaoh) whose name was ` Asiyah bint Muzahim. When Musa (علیہ السلام) accomplished his task in defeating the sorcerers who embraced Mosaic faith, she too embraced the Mosaic faith and became a Muslim. Fir'aun ordered that she should be tortured severely and tormented harshly. According to some reports, her hands and feet were pegged with nails to the ground and a huge rock was placed on her chest, so that she might not be able to move. In this state she supplicated to Allah as mentioned in this verse. According to other reports, it was suggested that a huge rock be dropped on her. They had hardly dropped the rock and she prayed to Allah as quoted in the verse. Allah then showed Sayyidah 'Asiyah ؓ her house in Paradise, and while looking at this vision her soul departed. When the rock fell on her body, it was lifeless. [ Mazhari ].
 
+## AI Translation
+
+Allah sets forth an example for the believers: the wife of Pharaoh, who prayed: 'My Lord, build me a house in Paradise near You, deliver me from Pharaoh and his evil doing, and save me from the wrongdoing people.'
+
+## AI Tafsir
+
+**What this ayah teaches:** The those who reject the truth can cause no Harm to the Believers This is a parable that Allah made of the believers, in that, if they needed to, their association with the those who reject the truth will not harm them.
+
+**Classical tafsir:** Ibn Kathir notes: His wife was not affected by her husband's disbelief, because she obeyed her Lord.
+
+**From the Sunnah:** Paradise, and while looking at this vision her soul departed. (Sahih Muslim)
 ## Personal Reflections
 
 

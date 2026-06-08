@@ -108,6 +108,17 @@ In the third verse (89), it was said that the prayer of Sayyidna Musa (علیہ 
 
 As for the acceptance of prayer, the information was given to the two prophets as it appears in this verse. But, even they were some-what tested in that the effect of the prayer, according to al-Baghawi, unfolded after forty years. For this reason, soon after the mention of the acceptance of their prayer in this verse, they both were given the instruction: فَاسْتَقِيمَا وَلَا تَتَّبِعَانِّ سَبِيلَ الَّذِينَ لَا يَعْلَمُونَ (so stand firm, and never follow the way of those who do not know). It means that they should go on carrying the mission of calling people to the true faith and do not get embarrassed, disappointed or hasty like the ignorant when the effects of the acceptance of some prayer takes its due time.
 
+## AI Translation
+
+Allah responded to Moses and Aaron, “Your salah is answered! So be steadfast and do not follow the way of those who do not know.”
+
+## AI Tafsir
+
+**What this ayah teaches:** If You leave them, they will mislead Your servants, and they will beget none but wicked those who reject the truth.)(71:26-27) Harun said "Amin" to his brother's prayer.
+
+**Classical tafsir:** Ibn Kathir notes: So you both keep to the straight way) So as I have answered your prayer, you should remain steadfast on My command.' Ibn Jurayj narrated that Ibn 'Abbas said about this Ayah: "Be steadfast and follow My command."
+
+**From the Sunnah:** So you both keep to the straight way) So as I have answered your prayer, you should remain steadfast on My command.' Ibn Jurayj narrated that Ibn 'Abbas said about this Ayah: "Be steadfast and follow My command."
 ## Personal Reflections
 
 

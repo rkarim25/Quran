@@ -112,6 +112,15 @@ Here Allah reminds His Creation of His power, and that He is the One Who has no 
 
 Sayyidna ` Abdullah Ibn ` Umar ؓ has also advised prostration at this place. Masruq, Abu ` Abdur Rahman Sulami, Ibrahim Nakha` i, Ibn Sirin, Qatadah, etc., and most jurists used to prostrate at verse 38, i.e. at the end of لَا يَسْأَمُونَ ۩. Imam Abu Bakr Jassas has said in Ahkam-ul-Qur'an that this has been the view of all the leading Hanafi scholars. He has further said that in view of the differences, it is on the safer side to prostrate at the end of the verse 38, because even if prostration becomes wajib at the end of the verse 37, then the obligation would be discharged if it is performed after the recitation of the verse 38, and if it becomes wajib at the verse 38, then, the discharge of obligation (if it is performed after verse 38) is more obvious.
 
+## AI Translation
+
+But if the pagans are too proud, know that those nearest to your Lord glorify Him day and night and never grow weary.
+
+## AI Tafsir
+
+**What this ayah teaches:** Do not prostrate yourselves to the sun nor to the moon, but prostrate yourselves to Allah Who created them, if you worship Him (37)But if they are too proud, then there are those who are with your Lord glorify Him night and day, and never are they tired (38)And among His signs; that you see the earth barren, but when We send down water to it, it is stirred to life and growth.
+
+**Classical tafsir:** Ibn Kathir notes: He has further said that in view of the differences, it is on the safer side to prostrate at the end of the verse 38, because even if prostration becomes wajib at the end of the verse 37, then the obligation would be discharged if it is performed after the recitation of the verse…
 ## Personal Reflections
 
 

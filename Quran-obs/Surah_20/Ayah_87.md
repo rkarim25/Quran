@@ -166,6 +166,17 @@ The word فَقَذَفنٰھَا - means, "we cast away the ornaments". Accordi
 
 فَكَذَٰلِكَ أَلْقَى السَّامِرِ‌يُّ (So did throw Samiri - 20:87) It appears from the hadith-ul-futun related by Sayyidna ` Abdullah Ibn ` Abbas ؓ (reported in earlier pages) that after the Bani Isra'il had thrown away all the ornaments, Sayyidna Harun (علیہ السلام) ordered a big fire to be lit in the pit which melted them and left them in one solid piece. The decision as to the disposal of this precious metal was deferred till the return of Sayyidna Musa' (علیہ السلام) . After all this had happened Samiri approached Sayyidna Harun (علیہ السلام) . He had something in his closed fists and sought permission to throw it in the pit. Sayyidna Harun (علیہ السلام) thinking that he held some ornaments in his fists permitted him to cast them in the pit. Then Samiri said, "I will certainly throw it, but first I want you to pray to God that a wish which I have may be granted." Sayyidna Harun (علیہ السلام) ، unaware of the evil which he planned, prayed to Allah in his behalf, and Samiri opened his hands and threw what he held in the pit. It was not ornaments but only dust from under the hoof marks of the horse of Jibra'il (علیہ السلام) which Samiri had collected after he observed that signs of life appeared in the dust under the hoof marks of the horse. Aided by Shaitan he now wished to put life into a calf by means of this dust. Nevertheless, whether it was the result of the miraculous property of the dust or whether it was a consequence of the prayer of Sayyidna Harun (علیہ السلام) in behalf of Samiri, the molten lump of gold and silver assumed the form of a calf and started making bovine sounds. There are other traditions also which relate that it was Samiri himself who persuaded the Bani Isra'il to throw the ornaments in the pit after which he carved the molten metal in the shape of a calf which had no life. He then sprinkled on it the dust from the hoof marks of the mount of Sayyidna Jibra'il (علیہ السلام) and it became a living calf. All these and similar stories which are based on Isra'ilite traditions have been related by Qurtubi in his commentary and by other writers as well. These traditions cannot be wholly relied upon, yet at the same time we do not possess sufficient ground to disprove them either.
 
+## AI Translation
+
+They argued, “We did not break our promise to you of our own free will, but we were made to carry the burden of the people’s golden jewellery, then we threw it into the fire, and so did the Sâmiri.”
+
+## AI Tafsir
+
+**What this ayah teaches:** They said: "This is your Allah, and the Allah of Musa," but he had forgotten (88)Did they not see that it could not return them a word (for answer), and that it had no power either to harm them or to do them good .
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Nay, by Allah, the moaning sound of the calf was nothing but wind that would enter into its behind and come out of its mouth, thus causing it to make a sound." In a Hadith of Al-Fitun recorded from Al-Hasan Al-Basri, it is mentioned that this calf's name was Bahmut.
+
+**From the Sunnah:** When does the property of infidels become lawful for the Muslims? The non-Muslims who live in a Muslim state and abide by its laws they are known as Dhimmis. (Sahih Muslim)
 ## Personal Reflections
 
 

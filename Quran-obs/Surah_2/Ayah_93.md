@@ -151,6 +151,17 @@ This verse reports the Jews as having replied that they had heard the Command of
 
 Having referred to such example of their perversity and rebellion, the Holy Qur'an asks the Jews to have a look at themselves and also at their claim to genuine faith. Could a true faith ever inspire men to such deeds? If it is their brand of "faith" which leads them into such grave sins, then it cannot be a true faith. Hence their claim to be true believers is evidently false.
 
+## AI Translation
+
+And when We took your covenant and raised the mountain over you: "Hold firmly to what We gave you and obey." They said, "We hear and disobey." Love of the calf was rooted in their hearts because of rejection. Say, "How evil is what your belief drives you to do, if you truly believe."
+
+## AI Tafsir
+
+**What this ayah teaches:** And (remember) when We took your covenant and We raised above you the Mount (saying), "Hold firmly to what We have given you and hear (Our Word)." They said, "We have heard and disobeyed." And their hearts absorbed (the worship of) the calf because of their disbelief.
+
+**Classical tafsir:** Ibn Kathir notes: And (remember) when We took your covenant and We raised above you the Mount (saying), "Hold firmly to what We have given you and hear (Our Word)." They said, "We have heard and disobeyed." And their hearts absorbed (the worship of) the calf because of their disbelief.
+
+**From the Sunnah:** Ma'mar narrated that Qatadah said that,
 ## Personal Reflections
 
 

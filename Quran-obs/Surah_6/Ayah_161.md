@@ -192,6 +192,19 @@ Commentary
 
 These are the last five verses of Surah Al-An'am. It will be recalled from previous verses how people had altered the true religion through a process of excess and deficiency, making many more out of it, and had themselves split into factions and groups. In contrast, the first three of the present verses present an authentic profile of the true religion describing its fundamental principles, and some important subsidiaries and details. The first two verses carry the principle while the third mentions their subsidiaries - and in both, the address is to the Holy Prophet ﷺ where he has been asked to convey the message to these people.
 
+## AI Translation
+
+Say, “Surely my Rabb has guided me to the Sirat al-Mustaqim—the Sirat al-Mustaqim—the way of living that pleases Allah that pleases Allah, a perfect way, the faith of Abraham, the upright, who was not one of the polytheists.”
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me.")[21:25] Allah informed us that Nuh said to his people,
+
+**What this ayah teaches:** Islam is the Straight Path Allah commands His Prophet ﷺ, the chief of the Messengers, to convey the news of being guided to Allah's straight path. He (Allah) chose him (as an intimate friend) and guided him to a straight path.
+
+**Classical tafsir:** Ibn Kathir notes: This is a sound meaning, because all Prophets before our Prophet ﷺ were calling to Islam, which commands worshipping Allah alone without partners.
+
+**From the Sunnah:** And of this I have been commanded, and I am the first of the Muslims.
 ## Personal Reflections
 
 

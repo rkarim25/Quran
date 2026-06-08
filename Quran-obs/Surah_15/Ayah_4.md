@@ -64,6 +64,17 @@ It has been reported from Sayyidna Abu Ad-Darda' ؓ that he stood up on the Mimb
 
 Imam Al-Hasan Al-Basri (رح) said: A person with long plans, hopes and fancies is bound to ruin his proper conduct in life. (Al-Qurtubi)
 
+## AI Translation
+
+We have never destroyed a society without a destined term.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Holy Prophet ﷺ said: The first set of people from this Ummah will have their salvation because of their perfect faith, and avoidance of the pursuit of the material (dunya); and the later people of the Ummah will be destroyed because of miserliness, and fancies projected too far.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, he is careful about everything he does and finds out whether it is Halal or Haram, permissible or forbidden.
+
+**From the Sunnah:** There have been big people before you who made big money, collected gold and things, built magnificent palaces and made long-hauled plans and projections for the future.
 ## Personal Reflections
 
 

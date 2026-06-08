@@ -228,6 +228,19 @@ These verses contradict the possibility that taghin 'rebellious people' could be
 
 A group of commentators find a third interpretation of this verse. A statement after this verse, namely, لَّا يَذُوقُونَ فِيهَا بَرْ‌دًا وَلَا شَرَ‌ابًا إِلَّا حَمِيمًا وَغَسَّاقًا will taste nothing cool in it, nor a drink, except boiling water and pus...78:25) - is circumstantial clause to ahqab, in which case the verse purports to say that for the countless aeons of ahqab that they will be in Hell they will not be tasting any coolness of air nor any food or drink excepting for boiling water and [ scalding ] pus. When the ahqab is over, the condition may change, and other kinds of punishment may be imposed. The word hamim means 'intensely boiling water if brought near the face, it would burn its flesh, and when put into the stomach it would cut into pieces the internal organs'. The word ghassaq means 'blood and pus, and washings of wounds that will ooze from the inmates of Hell'.
 
+## AI Translation
+
+except scalding water and oozing pus—
+
+## AI Tafsir
+
+**Context:** (But they denied Our Ayat Kidhdhaba.) meaning, they used to deny the evidences of Allah and His proofs for His creation, which He revealed to His Messengers. So they met these proofs with rejection and obstinance.
+
+**What this ayah teaches:** Every part of the last person will deteriorate except for one bone, and it is the coccyx bone (tailbone).
+
+**Classical tafsir:** Ibn Kathir notes: The word labithin is the plural of labith which means 'one who abides'.
+
+**From the Sunnah:** Al-Bukhari reported concerning the explanation of Allah's statement, (Sahih al-Bukhari)
 ## Personal Reflections
 
 

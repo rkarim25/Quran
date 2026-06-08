@@ -324,6 +324,17 @@ Given below are some injunctions and instructions which emerge from these verses
 
 4. The rewards and blessings of Allah keep increasing in relation to the measure of gratitude. A person, who wishes an increase in Divine rewards, must make gratitude, expressed through word and deed, his way of life, a constant of personality.
 
+## AI Translation
+
+In this way We have tested some by means of others, so those may say, “Has Allah favoured these out of all of us?” Does Allah not best recognize the grateful?
+
+## AI Tafsir
+
+**Context:** Say: "I don't tell you that with me are the treasures of Allah, nor (that) I know the Unseen; nor do I tell you that I am an angel.
+
+**What this ayah teaches:** In other words, in the real sense, a person of nobility and honour is he who recognizes the right of his Benefactor and is grateful to Him, and it is he who is deserving of all reward and honour - and definitely not the one who, day in and day out, despite being soaked with the blessings of his Provider and Benefactor, goes on disobeying Him.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the first and the last lesson given by the blessed prophets and the religions they brought with them was that there is a life after this life, which will be eternal and uninterrupted.
 ## Personal Reflections
 
 

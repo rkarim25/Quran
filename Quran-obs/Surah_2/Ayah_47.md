@@ -108,6 +108,17 @@ A doctrinal point
 
 On the basis of verse 48, the Mu'tazilah and some other groups of a more recent origin have denied the possibility of all intercession in favour of Muslims. But, as we have shown above, the negation of intercession applies only to disbelievers and infidels. (Bayan al-Qur an)
 
+## AI Translation
+
+O Children of Israel — remember My favours to you and that I preferred you above the nations of your time.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verse 47 asks the Israelites to call to their minds the blessing of Allah, so that the recognition of the benefits they have received may induce them to be thankful to Allah and thus to obey Him. Reminding the Children of Israel that They were preferred above the Other Nations Allah reminds the Children of Israel of the favors that He granted their fathers and grandfathers, how He showed preferenc…
+
+**Classical tafsir:** Ibn Kathir notes: As for Allah giving preference to the Israelites "over the worlds", the phrase means that they were given preference only in certain matters, or only over a large part of men - for example, over the contemporaries of the earlier Israelites.
+
+**From the Sunnah:** On the basis of verse 48, the Mu'tazilah and some other groups of a more recent origin have denied the possibility of all intercession in favour of Muslims.
 ## Personal Reflections
 
 

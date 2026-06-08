@@ -241,6 +241,15 @@ Commentary
 
 The outcome of both parables is that foam does appear prominent for a while on the real thing, but it finally gets to be thrown away and the real thing remains. Similar is the case of the false. Though the false may, for a short while, appear to have overcome the true, but the false is finally subdued and eliminated and that which is true remains and stands manifestly proven. (Tafsir A1-Jalalayn)
 
+## AI Translation
+
+Ask them: "Who is the Rabb of the heavens and earth?" Say: "Allah." Ask them: "Why then have you taken besides Him lords who cannot benefit or protect themselves?" Say: "Can the blind and the sighted be equal? Can darkness and light?" Have they assigned to Allah partners who supposedly created like His creation, leaving them confused between two creations? Say: "Allah is the Creator of all things. He is the One, the Supreme."
+
+## AI Tafsir
+
+**What this ayah teaches:** Affirming Tawhid Allah affirms here that there is no deity worthy of worship except Him, since they admit that He alone created the heavens and the earth and that He is their Lord and the Disposer of all affairs.
+
+**Classical tafsir:** Ibn Kathir notes: Or do they assign to Allah partners who created the like of His creation, so that the creation seemed alike to them?" Say: "Allah is the Creator of all things; and He is the One, the Irresistible.
 ## Personal Reflections
 
 

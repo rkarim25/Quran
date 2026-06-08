@@ -214,6 +214,17 @@ Zayd then said, "The Messenger of Allah ﷺ used to teach us these (words) and w
 
 Some of the commentators have analysed that the pronouns of zakka 'He purified' and dassa 'He caused to pollute' as referring to 'Allah', signifying that 'he is successful indeed whose soul Allah has purified and he has failed whose soul Allah pollutes '. This verse has divided the entire mankind into two groups: [ 1] successful; and [ 2] unsuccessful. An example of the second group has been cited to show how it rejected the message of Allah and consequently how Allah destroyed them. Such a group will receive severe punishment in the Hereafter. Sometimes, however, an installment of punishment is meted out to them in this world as in the case of Thamud. Their story is recounted fully in Surah A` raf [ S.7:73-79; S.11:61-68; S. 26:141-159; S.27:45-53; S..41:17-18; S.54:23-32; and S. 69:4-5]. Here a brief reference is made to that story and their punishment.
 
+## AI Translation
+
+And ruined is the one who buries it in corruption.
+
+## AI Tafsir
+
+**What this ayah teaches:** And indeed he fails who Dassaha.) This could mean that whoever purifies himself by obedience to Allah, then he will be successful. The primitive meaning of tazkiyah is 'inner cleanliness', signifying 'he who obeyed Allah and purified his inner and outer selves.' Verse [ 10] signifies 'he who caused his soul to sink in the swamp of sins will be deprived'.
+
+**Classical tafsir:** Ibn Kathir notes: This is as Qatadah said, "He cleanses it from the lowly and despicable characteristics." Similar to this has been reported from Mujahid, 'Ikrimah and Sa'id bin Jubayr. This means that He clarified that for it and He guided it to what has been ordained for him.
+
+**From the Sunnah:** Both Al-Bukhari and Muslim recorded this Hadith from Abu Hurayrah.
 ## Personal Reflections
 
 

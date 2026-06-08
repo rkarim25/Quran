@@ -335,6 +335,19 @@ Mischief of the Jews
 
 It was narrated earlier that there was a peace treaty between the Holy Prophet and the Jews. During this period, if one of the noble Companions passed by an assembly of the Jews, they would confer secretly among themselves in such a manner as to arouse suspicion and anxiety in the mind of the believer making him think that they were conspiring to injure or hurt him. Verse [ 8] أَلَمْ تَرَ‌ إِلَى الَّذِينَ نُهُوا عَنِ النَّجْوَىٰ (Did you not see those who were forbidden to hold secret counsels,....58:8) prohibits the holding of such secret conferences. This rule applies not only to the enemies but also to the Muslims, in that they should not hold secret conference to harm or hurt another Muslim. However, the Muslims and others are allowed to hold secret conferences to promote good and righteous causes. A narration of Sayyidna ` Abdullah Ibn ` Abbas is recorded in Bukhari, Muslim and other authentic collections, according to which the Messenger of Allah ﷺ has stated اِذَا کُنتُم ثلٰثۃً فَلَا یَتَنَاجَا رَجُلَانِ دُونَ الاٰخَرِ حَتّٰی یَختَلِطُوا بِالنَّاسِ فَاِنَّ ذٰلِکَ یَحزُنُہُ , (If you were three, then two of you should not hold secret conference leaving aside the third person [ in another narration of Muslim: 'except with his permission'] because this bad manners would cause him anxiety and wound his feelings", [ i.e. because he will feel estranged or alienated and possibly suspicions may arise that the two are plotting something against him and keeping it as a secret.] [ Mazhari ]
 
+## AI Translation
+
+Have you not seen those who were forbidden from secret counsel yet return to it—plotting sin, aggression, and defiance of the Messenger? When they greet the Prophet, they do not greet him as Allah teaches greeting. They whisper among themselves: 'Why does Allah not punish us for what we say?' Hell is enough for them—they will burn in it. What an evil end.
+
+## AI Tafsir
+
+**Context:** Although the present verses were revealed in some particular events, as detailed above, the rules laid down by them are of general application, regardless of their cause of revelation.
+
+**What this ayah teaches:** Have you not seen those who were forbidden to hold secret counsels, and afterwards returned to that which they had been forbidden, and conspired together for sin and wrongdoing and disobedience to the Messenger.
+
+**Classical tafsir:** Ibn Kathir notes: Probably, people in this category might have felt it difficult to advance freewill alms, because on the one hand, their means were limited, and on the other hand, they were unsure whether they were indigent.
+
+**From the Sunnah:** The Prophet ﷺ advised them to abandon their evil secret talks, but they did not listen and kept on holding the Najwa. the Jews used to say, "Sam 'Alayka," to Allah's Messenger ﷺ.
 ## Personal Reflections
 
 

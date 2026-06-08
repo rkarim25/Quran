@@ -136,6 +136,15 @@ The statement: قُلْنَا يَا ذَا الْقَرْ‌نَيْنِ (We sa
 
 Dhul-Qarnain). This way could be to take this address to have been made to Dhul-Qarnain through the medium of some prophet - as suggested by the reported presence of Al-Khadir (علیہ السلام) with him. Then, it is also possible that this revelation is just not the kind of wahy that is peculiar to a prophet or messenger of Allah. May be, it is a wahy or revelation in the literal sense like the word: وَاَوحَینَا (awhaina: We revealed or put into the heart) used in the Qur’ an for the mother of Sayyidna Musa (علیہ السلام) - though, there is no probability of her being a prophet or messenger of Allah. But, Abu Hayyan says in al-Bahr al-Muhit that the command given here to Dhul-Qarnain is a command to punish and kill those people. No such command can be given without the authority of a revelation to a prophet. This action cannot be taken on the authority of Kashf (illumination) and Ilham (inspiration), nor can it be activated through any other source without the authority of wahy (revelation) to a nabiyy (prophet). For this reason, no probability other than the one being mentioned here is sound: Either Dhul-Qarnain himself is taken to be a prophet, or that there may be a prophet present during his time and it is through him that Dhul-Qarnain is addressed. And Allah knows best.
 
+## AI Translation
+
+As for those who believe and do good, they will have the finest reward, and we will assign them easy commands.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Then, he would punish those who stood by their infidelity and reward those who believed and did what was good. Therefore, as said in the next verses, Allah Ta’ ala gave Dhul-Qarnain the choice of punishing them right away for their infidelity.
+
+**Classical tafsir:** Ibn Kathir notes: Hami'ah is, according to one of the two views, derived from the word Hama'ah, which means mud.
 ## Personal Reflections
 
 

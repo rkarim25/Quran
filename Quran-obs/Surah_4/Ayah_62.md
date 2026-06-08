@@ -160,6 +160,17 @@ As evident, they came up with all these interpretations only when their secret w
 
 In short, it was a consequence of their evil deed which brought upon them the disgrace or disaster of an accomplice killed, following which they started making statements on oath with all sorts of excuses and interpretations. Allah Almighty, in this verse, makes it very clear that these people are liars in their oaths and interpretations and that everything they have done, they have done because of their disbelief and hypocrisy. Their pattern of behaviour is that, when called to come to the Book of Allah and to His Messenger, they would turn away, all averse - which is no hallmark of a true Muslim. But they, as the verse says, would become all alert once they get into trouble as a result of their own evil deeds - like when the exposure of their breach of trust or hypocrisy brings shame on them, or when it leads to the killing of their man - then, they come to the Messenger swearing by Allah that they meant nothing but good. That they took their case to somebody else was not because they did not believe in the Prophet, or that they doubted the veracity of his judgment, but that their aim was to promote good and. bring about harmony between the disputing parties.
 
+## AI Translation
+
+How will it be if a disaster strikes them because of what their hands have done, then they come to you swearing by Allah, “We intended nothing but goodwill and reconciliation.”
+
+## AI Tafsir
+
+**Context:** Allah chastises those who claim to believe in what Allah has sent down to His Messenger ﷺ and to the earlier Prophets, yet they refer to other than the Book of Allah and the Sunnah of His Messenger ﷺ for judgment in vari…
+
+**What this ayah teaches:** Allah Almighty, in this verse, makes it very clear that these people are liars in their oaths and interpretations and that everything they have done, they have done because of their disbelief and hypocrisy.
+
+**Classical tafsir:** Ibn Kathir notes: Let Allah be sufficient for you in this regard, because He has perfect knowledge of their apparent and hidden affairs.
 ## Personal Reflections
 
 

@@ -164,6 +164,17 @@ Commentary
 
 أَوْلَىٰ لَهُمْ (So, destruction is very close to them - 47:20] The Arabic word used in the text, according to Asma'i, means that the causes of destruction have approached or drawn near to them (Qurtubi).
 
+## AI Translation
+
+to obey and speak honestly. Then when fighting was ordained, it would have been far better for them if they had been true to Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** And when the matter is resolved, then if they had been true to Allah, it would have been better for them (21)So would you perhaps, if you turned away, spread corruption on earth, and sever your ties of kinship (22)Such are the ones whom Allah has cursed, so that He has made them deaf and blinded their vision .
+
+**Classical tafsir:** Ibn Kathir notes: Here the word Surah has been qualified by the adjective muhkamah so that the eagerness of the believers for a new Surah is understandable only when it embodies an operative divine commandment that is not abrogated.
+
+**From the Sunnah:** Many authentic and sound Hadiths have been reported through numerous routes of transmission from Allah's Messenger in this regard. (Sahih al-Bukhari) from Abu Bakrah, may Allah be pleased with him, that Allah's Messenger ﷺ said: (Musnad Ahmad)
 ## Personal Reflections
 
 

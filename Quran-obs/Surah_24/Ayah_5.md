@@ -90,6 +90,15 @@ Those who have been punished for false accusation of adultery, if they beg pardo
 
 This exemption, that isإِلَّا الَّذِينَ تَابُوا refers to only the last sentence of the previous verse according to Imam Abu Hanifah (رح) and some other Imams, which is وَأُولَـٰئِكَ هُمُ الْفَاسِقُونَ (24:4). So, with this exemption it means that the one who is punished for false accusation is a sinner, but if he repents with sincerity and improves himself after obtaining forgiveness from the one he had falsely accused, then he will no longer remain a sinner, and his punishment will be pardoned in the Hereafter. In other words the two punishments meant for this world, which are referred in the beginning of the verse, that is eighty stripes and inadmissibility of his evidence, will remain despite the repentance. It is because the big punishment of stripes has already been executed and the second punishment is part of hadd. All scholars are unanimous on the point that repentance does not remit punishment of hadd, only the torment of the Hereafter is pardoned. Since inadmissibility of the evidence is part of hadd, it will not be remitted by repentance. Imam Shafi'i (رح) and some other Imams have taken this exemption toward all the sentences of the previous verse, which means that as one does not remain sinner after repentance, hence he would also not be debarred from giving evidence. Jassas and Mazhari have provided arguments on both sides - Those interested may consult them.
 
+## AI Translation
+
+except those who repent afterwards and mend their ways, then surely Allah is All-Forgiving, the Rahim — special mercy for believers in the Akhirah — the everlasting life after death.
+
+## AI Tafsir
+
+**What this ayah teaches:** The flogging has been carried out regardless of whether he repents or persists, and after that there is no further punishment, as is agreed among the scholars.
+
+**Classical tafsir:** Ibn Kathir notes: Ash-Sha'bi and Ad-Dahhak said, "His testimony cannot be accepted even if he does repent, unless he himself admits that he said something false, in which case his testimony may be accepted." And Allah knows best.
 ## Personal Reflections
 
 

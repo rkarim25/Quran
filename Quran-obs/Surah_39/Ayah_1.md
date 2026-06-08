@@ -150,6 +150,19 @@ The Commentary on
 
 Surah Sad
 
+## AI Translation
+
+The revelation of this Book is from Allah—the Almighty, All-Wise.
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I (Allah), so worship Me.")(21:25)
+
+**What this ayah teaches:** The revelation of this Book is from Allah, the Almighty, the All-Wise.)(2.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** that 'A'ishah, may Allah be pleased with her, said, "The Messenger of Allah ﷺ used to fast until we would say, 'He does not want to break fast,' and he would not fast until we would say, 'He does not want to fast.' And he ﷺ used to recite Bani Isra'il [Al-Isra… (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

@@ -120,6 +120,17 @@ Here Ibrahim, upon him be peace, asks his Lord to give him Hukm. Ibn 'Abbas said
 
 The reasoning for this he gave إِنَّ مَعِيَ رَ‌بِّي سَيَهْدِينِ (62) "Indeed with me is my Lord. He will guide me." Such are the moments for the test of faith, when Sayyidna Musa (علیہ السلام) was not terror stricken at all, as if he was seeing for himself the way out. Almost the same thing happened with Holy Prophet ﷺ at the time of migration while hiding in the cave of Thaur. The enemy had reached right at the opening of the cave in his pursuit. In fact they were so close that they could have seen him if they had looked down towards their toes. Sayyidna Abu Bakr ؓ got alarmed a little, but Holy Prophet ﷺ said exactly the same thing لَا تَحْزَنْ إِنَّ اللَّـهَ مَعَنَا ` Do not grieve, Allah is surely with us' (9:40). It is worth noting in the two incidents that while Sayyidna Musa (علیہ السلام) said to his Ummah in order to console them مَعِيَ رَ‌بِّي ` With me is my Lord', Holy Prophet ﷺ said toSayyidna Abu Bakr ؓ in reply ` Allah is with us (two) '. It is a special privilege of the Ummah of Muhammad ﷺ that his followers are also honoured by the company of Allah when they are with their Rasul.
 
+## AI Translation
+
+“My Rabb! Grant me wisdom, and join me with the righteous.
+
+## AI Tafsir
+
+**What this ayah teaches:** Bestow Hukm on me, and join me with the righteous (83)And grant me an honorable mention in later generations (84)And make me one of the inheritors of the Paradise of Delight (85)And forgive my father, verily, he is of the erring (86)And disgrace me not on the Day when they will be resurrected (87)The Day whereon neither wealth nor sons will avail (88)Except him who brings to Allah a clean heart .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Paradise to the those who reject the truth. (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

@@ -110,6 +110,19 @@ Then, there are many commentators who take 'al-qawl' at this place to mean what 
 
 Therefore, it has been said that this verse was revealed about Sayyidna Zayd Ibn ` Amr Ibn Nufayl, Sayyidna Abu Dharr al-Ghifari and Sayyidna Salman al-Farisi ؓ . Sayyidna Zayd Ibn ` Amru Ibn Nufayl ؓ used to hate shirk and idol worship even during the days of Jahiliyyah. The other two Sahabah, Sayyidna Abu Dharr al-Ghifari and Sayyidna Salman al-Farisi ؓ listened to people of different religions, to the mushriks, the Jews and the Christians, and saw their ways of life, and it was only then that they embraced Islam and, finding the teachings of the Qur'an as the best, they preferred them. (Qurtubi)
 
+## AI Translation
+
+What about those against whom the decree of torment has been justified? Is it you who will then save those bound for the Fire?
+
+## AI Tafsir
+
+**Context:** Therefore, it has been said that this verse was revealed about Sayyidna Zayd Ibn ` Amr Ibn Nufayl, Sayyidna Abu Dharr al-Ghifari and Sayyidna Salman al-Farisi ؓ .
+
+**What this ayah teaches:** Is, then one against whom the Word of punishment is justified (equal to the one who avoids evil)?
+
+**Classical tafsir:** Ibn Kathir notes: Allah says, 'if He has decreed that someone is to be doomed, can you save him from his misguidance and doom?' Which means, no one can guide him apart from Allah, because whomever Allah leaves astray cannot be guided, and whomever He guides cannot be led astray.
+
+**From the Sunnah:** from Sahl bin Sa'd, may Allah be pleased with him, that the Messenger of Allah ﷺ said: (Musnad Ahmad, Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

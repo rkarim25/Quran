@@ -146,6 +146,17 @@ At the end of this subject the Qur'an says:
 
 إِنَّ هَـٰذَا لَهُوَ حَقُّ الْيَقِينِ (Indeed this is certainty in its true sense...56:95). None of the reward or punishment mentioned in the preceding verses is refutable because they are a dead certainty that has no room for any doubt or suspicion.
 
+## AI Translation
+
+This is the absolute truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** This is an absolute truth with certainty (95)So, glorify with praises the Name of your Lord, the Most Great .
+
+**Classical tafsir:** Ibn Kathir notes: Abu Hazrah said that Rawh means: "Rest from the world." Sa'id bin Jubayr and As-Suddi said that it means to rejoice. Ibn 'Abbas, Mujahid and Sa'id bin Jubayr said that Rayhan means provisions.
+
+**From the Sunnah:** I heard him say, 'So-and-so narrated to me that he heard the Messenger of Allah ﷺ say, (Musnad Ahmad) This is the narration that Imam Ahmad collected; and in the Sahih, there is a Hadith with this meaning collected from 'A'ishah. (Musnad Ahmad)
 ## Personal Reflections
 
 

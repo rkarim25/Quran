@@ -297,6 +297,17 @@ As reported by Sayyidna ` Awf ibn Malik ؓ ، a case involving two men came up f
 
 Allah censures inaction but it is your duty to use means, following which, when you find yourself powerless against odds, then say: 'Allah is all-sufficient for me, and the best one to trust in.'
 
+## AI Translation
+
+Those who were warned, “Your enemies have mobilized their forces against you, so fear them,” the warning only made them grow stronger in faith and they replied, “Allah is sufficient for us and is the best Protector.”
+
+## AI Tafsir
+
+**Context:** Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud. (They rejoice in what Allah has bestowed upon them) indicates that the martyrs who were killed in Allah's cause are alive with…
+
+**What this ayah teaches:** Those to whom the people said, "Verily, the people have gathered against you, therefore, fear them." But it (only) increased them in faith, and they said: "Allah is Sufficient for us, and He is the Best Disposer of affairs.")(174.
+
+**Classical tafsir:** Ibn Kathir notes: Nay, they are alive, with their Lord, and they have provision.) Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud.
 ## Personal Reflections
 
 

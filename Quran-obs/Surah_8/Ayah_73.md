@@ -101,6 +101,15 @@ This sentence is connected with all those injunctions mentioned a little earlier
 
 Thereafter the text says if things were not done according to these injunctions, there shall be disorder and corruption on the earth. Perhaps, this warning has been given in view of the importance of the injunctions described here for they were based on major principles of equity, justice and public peace. The related verses make it amply clear that the way mutual help, support and inheritance depend on lineal bond - in the same manner, religious bond has its own importance in this matter. In fact, religious bond has precedence over lineal bond. This is the reason why a Kafir (disbeliever) cannot inherit from a Muslim and a Muslim cannot inherit from a Kafir - even though, they be fathers or sons or brothers by lineage. Along with it, in order to block religious prejudice and pagan partisanship, instructions were given that, no doubt, the religious bond is so formidable, yet standing by the terms of a treaty comes first and is more preferable. Contravention of the terms of a treaty is not permissible under the heat of religious partisanship. Similarly, also given was the instruction that the disbelievers are responsible for each other as guardians and inheritors, therefore, no interference should be made in their personal law of guardianship and inheritance. On the surface, these look like a few subsidiary injunctions, but they are, in reality, comprehensive basic principles of equity and justice for all which guarantee world peace. This is the reason why, at this place, following the description of these injunctions, warning has been given in words which have not been generally used in the case of other injunctions: 'If you will not do so, there shall be disorder and corruption on the earth.' Also given within these words is a hint that these injunctions have an effectiveness of their own in checking disorder and corruption.
 
+## AI Translation
+
+Those who reject the truth are allies of one another. Unless you maintain this bond among believers, there will be fitnah and great corruption in the land.
+
+## AI Tafsir
+
+**What this ayah teaches:** Similarly, also given was the instruction that the those who reject the truth are responsible for each other as guardians and inheritors, therefore, no interference should be made in their personal law of guardianship and inheritance. And those who disbelieve are allies of one another, (and) if you (Muslims) do not do so (protect one another), there will be Fitnah on the earth, and great corruption .
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, from this verse, we learn that those who reject the truth shall be considered inheritors to each other and the very law of the distribution of inheritance which is in force in their own religion shall be implemented as far as matters of their inheritance are concerned.
 ## Personal Reflections
 
 

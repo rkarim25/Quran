@@ -391,6 +391,17 @@ It means that the above mentioned rules are exclusive for the Holy Prophet ﷺ �
 
 Towards the end, it is said, لِكَيْلَا يَكُونَ عَلَيْكَ حَرَ‌جٌ (so that there should be no difficulty for you - 50). It means that these special injunctions in the matter of nikah for the Holy Prophet ﷺ ، were prescribed so that he does not face any difficulty. As for the restrictions and conditions imposed on the Holy Prophet ﷺ and not on other Muslims which appear to be difficult, but keeping in view the expedience and wisdom under which the restrictions were placed, those restrictions were, in fact, to remove the spiritual discomfort and embarrassment. So far five rules of marriage have been enunciated which have some exclusiveness for the Holy Prophet ﷺ Further on two rules have been stated which are related to the above five rules.
 
+## AI Translation
+
+O Prophet! We have made lawful for you your wives to whom you have paid their full dowries as well as those bondwomen in your possession, whom Allah has granted you. And you are allowed to marry the daughters of your paternal uncles and aunts, and the daughters of your maternal uncles and aunts, who have emigrated like you. Also allowed for marriage is a believing woman who offers herself to the Prophet without dowry if he is interested in marrying her—this is exclusively for you, not for the rest of the mu'mins. We know well what rulings We have ordained for the mu'mins in relation to their wives and those bondwomen in their possession. As such, there would be no blame on you. And Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** As such it is stated in 'Ruh ul-Ma’ ani' as a particularity of the Holy Prophet ﷺ that just as the nikah of any of his wives with any other Muslim is not lawful after him, similarly any of his bondwomen is not lawful for any Muslim after him ﷺ .
+
+**Classical tafsir:** Ibn Kathir notes: And whomsoever you desire of those whom you have set aside, it is no sin on you) I said, 'I see that your Lord hastens to confirm your desires.'" Ibn Abi Hatim recorded that Ibn 'Abbas said: "The Messenger of Allah ﷺ did not have any wife who offered herself to him.
+
+**From the Sunnah:** The dowery which he gave to his wives was twelve and half 'Uqiyah (measures of gold) so they all received five hundred Dirhams except for Umm Habibah bint Abi Sufyan, to whom An-Najashi, may Allah have mercy on him, gave four hundred Dinars (on behalf of the P… from Sahl bin Sa'd As-Sa'idi that…
 ## Personal Reflections
 
 

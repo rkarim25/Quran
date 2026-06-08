@@ -52,6 +52,15 @@ According to Tafsir al-Qurtubi, these three days were Thursday, Friday and Satur
 
 From this verse we learn that the people of Sayyidna Salih (علیہ السلام) were destroyed by a severe Sound, but what Surah al-A` raf says about them is: فَأَخَذَتْهُمُ الرَّ‌جْفَةُ (So, the earthquake seized them - 7:78, 91) which, as obvious, tells us that the punishment visiting them was that of the earthquake. Commentator al-Qurtubi has said that there is no contradiction here. It is possible that the earthquake came first and then they all were destroyed by the severe Sound. Allah knows best.
 
+## AI Translation
+
+And the mighty blast overtook the wrongdoers, so they fell lifeless in their homes,.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, your Lord – He is the All-Strong, the All-Mighty (66)And As-Sayhah (awful cry) overtook the wrongdoers, so they lay (dead), prostrate in their homes (67)As if they had never lived there.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

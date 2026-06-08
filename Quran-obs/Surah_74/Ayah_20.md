@@ -188,6 +188,19 @@ This shows that just as the birth of children and their being alive are a boon o
 
 '...those who forgot Allah, so He made them forget their own selves_[ 59:19] '
 
+## AI Translation
+
+Damned again—how evil was what he decided!
+
+## AI Tafsir
+
+**Context:** "Al-Walid bin Al-Mughirah entered the house of Abu Bakr bin Abi Quhafah and asked him about the Qur'an. When Abu Bakr informed him about it, he left and went to the Quraysh saying, 'What a great thing this is that Ibn Ab…
+
+**What this ayah teaches:** And once more let him be cursed, how he plotted!) This is a supplication against him.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn Abbas and Mujahid said that they were ten. This refers to his ungratefulness for his blessings after knowing (these blessings).
+
+**From the Sunnah:** Let alone unbelievers, even the pious and religious Muslims do not find it hateful.
 ## Personal Reflections
 
 

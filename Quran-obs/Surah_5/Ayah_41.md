@@ -570,6 +570,19 @@ However, in the event that they turn to a Muslim judge or ruler and show that th
 
 Now as we move on to other aspects of verse 41, we see that it be-gins with words of comfort for the Holy Prophet ﷺ after which, he has been informed of the conspiracy hatched by the Jews, the description of which goes right upto its end. It reveals that the deputation coming to him was comprised of hypocrites who were secretly in league with the Jews and it is at their behest that they were going to see him. After that, there is a description of some evil traits of character the visiting group has against which Muslims have been warned. As an adjunct, it has been pointed out that these traits of character are rejectionist in nature, therefore, effort should be made to stay safe from them. Listed below are these four evil traits of character.
 
+## AI Translation
+
+O Messenger! Do not grieve for those who race to reject the truth—those who say, “We believe” with their tongues, but their hearts are in rejection of the truth. Nor those among the Jews who eagerly listen to lies, attentive to those who are too arrogant to come to you. They distort the Scripture, taking rulings out of context, then say, “If this is the ruling you get, accept it. If not, beware!” Whoever Allah allows to be deluded, you can never be of any help to them against Allah. It is not Allah’s Will to purify their hearts. For them is disgrace in this dunya, and they will suffer a tremendous punishment in the Akhirah.
+
+## AI Tafsir
+
+**Context:** These honorable Ayat were revealed about those who rush into disbelief, deviating from the obedience of Allah, His Messenger, prefering their opinions and lusts to what Allah has legislated, It was reported that this par…
+
+**What this ayah teaches:** He asked, ` What do you think about him?' They said, ` Of the learned people among Jews, there is no scholar greater than him on this earth.' He said, ` Call him in.' So, he came.
+
+**Classical tafsir:** Ibn Kathir notes: Al-'Awfi and 'Ali bin Abi Talhah reported that Ibn 'Abbas said that these Ayat were revealed about the two Jews who committed adultery, and we mentioned the Hadiths about this story before.
+
+**From the Sunnah:** It is the verse about stoning.' The Messenger of Allah ﷺ decided that the adulterers be stoned to death and his command was carried out.
 ## Personal Reflections
 
 

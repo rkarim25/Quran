@@ -207,6 +207,19 @@ Details of the method that governs the performance of the Hajj, ` Umrah and Saye
 
 It is advisable to guard against a possible doubt that may arise while reading the words used in the verse under study. One may think that the Qur'an simply says that making Sayee سعی between Safa صفاء and Marwah مروہ is 'no sin'; at the most, it proves that it is one of the many 'allowed' acts. This approach can be corrected by looking at the leading expression لاجُناحَ :'no sin' which has been used here in relation to a question. The question related to all those idols sitting on top of the Safa صفاء and Marwah مروہ hills and it was to show their devotion to them that the people of the Jahiliyyah جاھلیہ used to do say between Safa صفاء and Marwah مروہ ، and in which case, this practice should be haram حرام (forbidden). It is in answer to this doubt that it was declared, "there is no sin" in it. This being the real and authentic Abrahamic Tradition, there is no reason why it should be considered tainted with 'sin'? The 'malpractice' of a pagan band of people in this intervening period does not end up making a 'sin' of what is 'good' in the sight of Allah. The use of the expression 'no sin', therefore, does not go against its being wajib واجب or necessary.
 
+## AI Translation
+
+Safa and Marwah are among the symbols of Allah. Whoever performs Hajj or Umrah commits no sin by walking between them. Whoever does good voluntarily — Allah is appreciative, all-knowing.
+
+## AI Tafsir
+
+**Context:** "By Allah! It is not a sin if someone did not perform Tawaf around them." 'A'ishah said, "Worst is that which you said, O my nephew!
+
+**What this ayah teaches:** However, I heard learned men saying that all the people, except those whom 'A'ishah mentioned, said, 'Our Tawaf between these two hills is a practice of Jahiliyyah.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** that he asked 'A'ishah about what Allah stated: (Musnad Ahmad) So they (during the Islamic era) asked Allah's Messenger ﷺ about it, saying, 'O Messenger of Allah!
 ## Personal Reflections
 
 

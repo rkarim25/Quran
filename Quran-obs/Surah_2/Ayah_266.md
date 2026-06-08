@@ -238,6 +238,17 @@ Then there are a thousand forms of spending in the way of Allah. The sunnah meth
 
 The essence of the third condition is that spending at a place or in a cause with even good intention is not good enough. This will not suffice to make it an act of thawab ثواب . It is also necessary that the place or cause of spending should be permissible and commendable in the sight of the Shari'ah. If a person was to bequeath his property for impermissible games and amusements he would be deserving of ` adhab عذاب (punishment) rather than thawab ثواب (reward). This holds good for all other possible avenues of investment which are not desirable in the view of the Shari'ah.
 
+## AI Translation
+
+Would any of you wish for a garden of palms and vines with rivers flowing beneath — then, as he grows old with dependent children, a fiery whirlwind strikes and burns it all? Thus Allah makes His signs clear, so you may reflect.
+
+## AI Tafsir
+
+**What this ayah teaches:** Would any of you wish to have a garden with date palms and vines, with rivers flowing underneath, and all kinds of fruits for him therein, while he is striken with old age, and his children are weak (not able to look after themselves), then it is struck with a fiery whirlwind, so that it is burnt?
+
+**Classical tafsir:** Ibn Kathir notes: Would any of you wish to have a garden with date palms and vines, with rivers flowing underneath, and all kinds of fruits for him therein, while he is striken with old age, and his children are weak (not able to look after themselves), then it is struck with a fiery whirlwind, so…
+
+**From the Sunnah:** In his Mustadrak, Al-Hakim recorded that the Messenger of Allah ﷺ used to say in his supplication, (al-Mustadrak)
 ## Personal Reflections
 
 

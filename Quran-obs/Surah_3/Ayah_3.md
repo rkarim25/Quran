@@ -150,6 +150,17 @@ The last two verses further fortify the doctrine of توحید tauhid on the gro
 
 (1.) Whenever the Holy Qur'an speaks of the 'Torah and the Injil' it refers to the original books revealed to the prophets Moses and Jesus (علیہ السلام) . This should not, therefore, be confused. With the present Old and New testaments.
 
+## AI Translation
+
+He has revealed to you the Book in truth, confirming what came before it, as He revealed the Torah and the Gospel previously, as a guide for people, and revealed the Furqan—the criterion to distinguish right and wrong. Surely those who reject Allah’s revelations will suffer a severe torment. For Allah is Almighty, capable of punishment.
+
+## AI Tafsir
+
+**Context:** Surah Āl-'Imrān was revealed in Al-Madinah, as evident by the fact that the first eighty-three Ayat in it relate to the delegation from Najran that arrived in Al-Madinah on the ninth year of Hijrah (632 CE).
+
+**What this ayah teaches:** It is He Who has sent down the Book to you with truth, confirming what came before it. None has the right to be worshipped but He, the Ever Living, the One Who sustains and protects all that exists.)(3.
+
+**Classical tafsir:** Ibn Kathir notes: None has the right to be worshipped but He, the Ever Living, the One Who sustains and protects all that exists.)(3.
 ## Personal Reflections
 
 

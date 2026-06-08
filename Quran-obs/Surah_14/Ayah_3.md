@@ -172,6 +172,17 @@ According to Tafsir al-Qurtubi, though, in this verse, these three traits have b
 
 To try to misread and misinterpret the Qur'an and Sunnah in order to apply them to fit into personal ideas and wishes. May Allah protect us from it.
 
+## AI Translation
+
+They prefer the life of this world over the Akhirah and block others from Allah's path, trying to make it appear crooked. They have gone far astray.
+
+## AI Tafsir
+
+**Context:** ((This is) a Book which We have revealed unto you...) Allah says, 'This is a Book that We have revealed to you, O Muhammad.
+
+**What this ayah teaches:** And if they happen to come across some word supposedly in sup-port of that idea of theirs, they would take it to be a Qur'anic proof in their favour - although, this method is wrong in principle because it is the duty of a true believer that he should first unburden his or her mind from personal ideas and wishes and then consult the Book of Allah and the Sunnah of His Prophet ﷺ…
+
+**Classical tafsir:** Ibn Kathir notes: And woe unto the those who reject the truth from a severe torment.)(3.
 ## Personal Reflections
 
 

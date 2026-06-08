@@ -154,6 +154,17 @@ meaning, certainly Allah will repeat his creation just as he began his creation,
 
 وَإِذَا الْأَرْضُ مُدَّتْ (and when the earth will be stretched [ to give room to more people ]...84:3) The word madda means 'to stretch, spread, expand out'. Sayyidna Jabir ibn ` Abdullah ؓ narrates that the Holy Prophet said that on the Day of Judgment the earth will be stretched out like leather (or rubber) and expanded into a smooth plain, and there will be just enough space on it for all individuals of human race to keep their feet. To understand this tradition, it is necessary to keep in mind that on the Day of Resurrection all individuals who will have been born from the inception of creation till resurrection will be brought back to life simultaneously. Thus each individual will have just enough space on the earth where he could place his feet. [ Transmitted by Hakim with a good chain of authorities - Mazhari ].
 
+## AI Translation
+
+when the earth is flattened,
+
+## AI Tafsir
+
+**What this ayah teaches:** And when the earth is stretched forth,)(4.
+
+**Classical tafsir:** Ibn Kathir notes: This means that he will not be investigated for all the minute details of his deeds.
+
+**From the Sunnah:** Then when he completed the prayer, he informed them that the Messenger of Allah ﷺ prostrated during its recitation. (Sahih Muslim, Sunan an-Nasa'i) from Abu Rafi' that he prayed the Night prayer with Abu Hurayrah) recited, (Sahih al-Bukhari)
 ## Personal Reflections
 
 

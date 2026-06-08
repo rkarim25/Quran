@@ -186,6 +186,19 @@ This command to show forbearance towards the Jews was proper to the situations o
 
 30. Which is a special levy on non-Muslims who live under the protection of the Islamic state and which absolves them from military service.
 
+## AI Translation
+
+Establish salah and give zakat. Whatever good you send ahead for yourselves, you will find it with Allah. Allah sees everything you do.
+
+## AI Tafsir
+
+**Context:** Allah said that after He illuminated the truth for them, such that they were not ignorant of any of it, yet their envy made them deny the Prophet ﷺ.
+
+**What this ayah teaches:** Certainly, Allah is the Seer of what you do .
+
+**Classical tafsir:** Ibn Kathir notes: Allah's pardon for the those who reject the truth was repealed." Abu Al-'Aliyah, Ar-Rabi' bin Anas, Qatadah and As-Suddi said similarly: It was abrogated by the Ayah of the sword." (Mentioned above).
+
+**From the Sunnah:** Many of the People of the Scripture (Jews and Christians) wish that they could turn you away as those who reject the truth after you have believed, out of envy from their own selves, even after the truth (that Muhammad ﷺ is Allah's Messenger) has become manifest unto them. Ka'b bin Al-Ashraf, who was a Jew and a poet, used to criticize the Prophet ﷺ in his poems, so Allah revealed,
 ## Personal Reflections
 
 

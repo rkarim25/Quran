@@ -250,6 +250,19 @@ He also said about Allah's statement,
 
 At the beginning of this Surah, particular injunctions relating to orphans and women were mentioned. Also stressed there was the mandatory nature of the need to fulfill their rights. The reason was that, during the days of Jahiliyyah, some people would simply refuse to give any part of the inheritance to them, others would unlawfully eat up what they got in inheritance or through any other alternate source, still others would marry them but avoided paying full dower they were entitled to; these were practices prohibited as stated earlier. This caused different situations to arise. There were those who thought that women and children are not entitled to inherit as a matter of right - may be, this injunction had come as an expedient measure for some people only and it was likely that it will be abrogated later. Some of them even waited for this to happen. But, when there was no abrogation, they decided among themselves that they should go directly to the Holy Prophet ﷺ and ask him. This they did. According to Ibn Jarir and Ibn al-Mundhir, this very question was the reason behind the revelation of this verse and the verses which followed carried additional rulings relating to women (Bayan al-Qur'an).
 
+## AI Translation
+
+They ask you regarding women. Say, “It is Allah Who instructs you regarding them. Instruction has been revealed in the Book concerning the orphan women you deprive of their due rights but still wish to marry, also helpless children, as well as standing up for orphans’ rights. And whatever good you do is certainly well known to Allah.”
+
+## AI Tafsir
+
+**Context:** It is about the man who is taking care of a female orphan, being her caretaker and inheritor. Her money is joined with his money to such an extent, that she shares with him even the branch of a date that he has.
+
+**What this ayah teaches:** Sometimes, the caretaker does not desire to marry the orphan under his care, because she is not attractive to his eye.
+
+**Classical tafsir:** Ibn Kathir notes: It refers to the people who did not marry the orphan girls because of their unattractive features, but at the same time did not let them marry others, because they wanted that their wealth should remain in their hands.
+
+**From the Sunnah:** that 'A'ishah said about the Ayah, (Sahih al-Bukhari) If he does not want to do that, then let him marry other women, for Allah has made this matter easy for Muslims.
 ## Personal Reflections
 
 

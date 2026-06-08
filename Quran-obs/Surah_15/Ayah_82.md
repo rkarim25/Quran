@@ -86,6 +86,17 @@ Here, he is being asked not to grieve over their hostile opposition because ther
 
 This being the wise arrangement of things, let him not grieve. The better course for him is to overlook their wicked behaviour in a gracious manner, that is, neither pay attention to their behavior nor complain about it. The reason is that his Lord is great as Creator and great as the Master Knower as well. He knows his patience and fortitude and He knows the evil mechanizations of his enemies too. Therefore, He is to exact the full return from them of what they have been doing.
 
+## AI Translation
+
+They carved their homes in the mountains, feeling secure.
+
+## AI Tafsir
+
+**What this ayah teaches:** And verily, the Dwellers of Al-Hijr denied the Messengers (80)And We gave them Our signs, but they were averse to them (81)And they used to hew out dwellings from the mountains, (feeling) secure (82)But the Sayhah (torment - awful cry) overtook them in the early morning (83)And all that they used to earn availed them not .
+
+**Classical tafsir:** Ibn Kathir notes: Some commentators say that there was a dense forest near Madyan, therefore, Aikah is actually the title of the people of Madyan.
+
+**From the Sunnah:** This could be seen from their work in the houses in the Al-Hijr through which the Messenger of Allah ﷺ passed on his way to Tabuk.
 ## Personal Reflections
 
 

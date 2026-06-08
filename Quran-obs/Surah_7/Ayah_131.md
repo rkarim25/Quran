@@ -154,6 +154,17 @@ When a people are stamped with the wrath of Allah they lose their faculty of dis
 
 The Arabic word: طَائِرٍ‌ 'T-a'ir' used for omen signifies a bird. The Arabs had a superstition that a bird coming down to their right or left meant a good or bad fate. The verse implies that good or bad fate comes from Allah. Everything in this world happens under the will of Allah. No one is there to bring good or bad fate to anyone. It is sheer ignorance to believe in such things and base their activities on such baseless assumptions. The last verse describes their rejection of the truth in these words:
 
+## AI Translation
+
+In times of prosperity, they said, “This is what we deserve,” but in adversity, they blamed it on Moses and those with him. Surely all is destined by Allah. Yet most of them did not know.
+
+## AI Tafsir
+
+**What this ayah teaches:** And indeed We punished the people of Fir'awn with years of drought and lack of fruits (crops), that they might remember (take heed)(130)But whenever good came to them, they said: "This is for us." And if evil afflicted them, they considered it an omen about Musa and those with him.
+
+**Classical tafsir:** Ibn Kathir notes: The last verse describes their rejection of the truth in these words:
+
+**From the Sunnah:** Abu Ishaq narrated that Raja' bin Haywah said, "The date tree used to produce only one date!"
 ## Personal Reflections
 
 

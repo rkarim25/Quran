@@ -126,6 +126,15 @@ The Eleventh Characteristic
 
 وَإِذَا مَرُّ‌وا بِاللَّغْوِ مَرُّ‌وا كِرَ‌امًا (and when they pass by the absurd things, Pass by with dignity - 72). That is if by chance they happen to pass by immoral gatherings, they walk away with dignity and grace. In other words as they do not attend such gatherings intentionally, if they happen to pass by them sometimes by chance they just walk away from there in a dignified manner. That is despite their belief that their evil acts are hateful, they do not take pride or regard themselves superior for not indulging in them. Once Sayyidna Abdullah Ibn Masud ؓ happened to pass by an absurd and dissolute gathering, so he did not stop there but simply walked away. When the Holy Prophet ﷺ learnt about this incidence he remarked "Ibn Masud has become کریم (dignified) " and then recited this verse wherein it is enjoined to walk away from dissolute gatherings with dignity. (Ibn Kathir)
 
+## AI Translation
+
+They are those who do not bear false witness, and when they come across falsehood, they pass it by with dignity.
+
+## AI Tafsir
+
+**What this ayah teaches:** The biggest falsehood is the kufr (disbelief) and shirk, and the next in order comes the common lie and acts of sin.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "This means (offspring) who will strive to obey Allah and bring them joy in this world and the Hereafter." Imam Ahmad recorded that Jubayr bin Nufayr said: "We sat with Al-Miqdad bin Al-Aswad one day, and a man passed by and said, "How blessed are these two eyes which saw the Messen…
 ## Personal Reflections
 
 

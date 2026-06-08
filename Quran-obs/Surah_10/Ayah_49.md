@@ -158,6 +158,15 @@ Imam al-Baghawi said: This recognition will be possible during the
 
 early stage. Later, when the horrendous happenings of the Qiyamah, the Day of Doom, will unfold, this ability to recognize each other will stand disabled. According to some other narrations, the ability to recognize each other will, though, still remain, but such will be the awe of the situation that they will be unable to say anything. (Mazhari)
 
+## AI Translation
+
+Say, O Prophet, “I have no power to benefit or protect myself, except by the Will of Allah.” For each community there is an appointed term. When their time arrives, they cannot delay it for a moment, nor could they advance it.
+
+## AI Tafsir
+
+**What this ayah teaches:** For every Ummah, there is a term appointed; when their term comes, neither can they delay it nor can they advance it an hour (or a moment).
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

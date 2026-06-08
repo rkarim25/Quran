@@ -250,6 +250,17 @@ Some commentators like Ibn Sirin, Masruq, Abu Salih and Qatadah رحمۃ علی�
 
 أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ ۔ إِرَمَ ذَاتِ الْعِمَادِ (Have you not seen how your Lord dealt with [ the people ] ` Ad of Iram, the men of tall pillars...(89:6-7). The word 'Iram' in verse [ 7] is, grammatically speaking, either ` atf bayan (syndetic explicative) or badal (complement). The purpose of the construction is to specify one of the two tribes of ` Ad. This statement specifies that it refers to ` Ad-ul-'ula (the early generation of ` Ad). A remnant from the former generation is referred to as ` Ad-ul-'Ukhra, because they are linked with their great-grand father Iram more closely than ` Ad-ul-'Ukhra. Here the Qur'an refers to the first tribe as ` Ad Iram. In Surah An-Najm, they are described as: عَادًا الْأُولَىٰ (the earlier ` Ad,) [ 53:50] '
 
+## AI Translation
+
+Is this oath not enough for those who reflect—who see that Allah's appointed times of worship carry real weight?
+
+## AI Tafsir
+
+**What this ayah teaches:** The oath that is referred to here is about the times of worship and the acts of worship themselves, such as Hajj, Salah and other acts of worship that Allah's pious, obedient, servants who fear Him and are humble before Him, seeking His Noble Face, perform in order to draw nearer to Him.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "Iram was an ancient nation who were the first people of 'Ad." Qatadah bin Di'amah and As-Suddi both said, "Verily, Iram refers to the House of the kingdom of 'Ad." This latter statement is good and strong. Ibn 'Abbas said, "They carved them and they hewed them." This was also said by Mujahid, Qatadah, Ad-Dahhak and Ibn Zayd.
+
+**From the Sunnah:** a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer.
 ## Personal Reflections
 
 

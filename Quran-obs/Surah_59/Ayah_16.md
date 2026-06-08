@@ -177,6 +177,17 @@ If the verse refers to this incident, in which the Shaitan provokes man to disbe
 
 Tafsir Mazhari, Qurtubi, Ibn Kathir and others have cited several incidents where monks and devotees were deceived into kufr. For example, one of the Israeli monks devoted himself to Allah in his synagogue, and fasted consecutively and broke his fast only once in ten days. In this way, he spent seventy years of his life. The accursed Shaitan pursued him. He sent after him the most cunning devil in the shape of a monk, a devotee of God. He went up to him and exerted himself in the worship of God and thus built up confidence in the genuine monk. Eventually, the impostor succeeded in teaching the monk a few of the prayers that are efficacious in curing the sickly people. Then the former exerted his influence on many people to fall sick, and gave them the monk's address. When the latter recited the prayers, the devil would remove his influence and thus they would feel cured. He kept up this process for a long period of time, until one day he performed his exertion on the beautiful daughter of an Israeli leader. He sent her also to the monk. He succeeded in getting her into his synagogue and gradually he succeeded in getting him to commit fornication with the girl who, as a result, fell pregnant. He suggested that the girl be killed to save face. After the killing, the devil himself went around telling the story of the killing and put up the people against the monk. They, in their fury, demolished the synagogue and decided to kill him and crucify him. Then the Shaitan went back to the monk and said to him that there is no way out to save his life. 'Of course', he said to him, 'there is one way of saving your life, in that you prostrate to me and I will save your life.' The monk had already committed all the sins. The way to commit kufr was paved. So, he prostrated. At that juncture, the Shaitan said to him plainly, 'You were not falling into my trap. I adopted all these guiles for you to commit kufr. I cannot assist you in any way.' This story is recounted fully in Tafsir Mazhari and Qurtubi. Allah, the Pure and Exalted, knows best!
 
+## AI Translation
+
+They are like Satan when he lures someone to reject the truth, then on Judgment Day says: 'I have nothing to do with you—I fear Allah, Lord of all worlds.'
+
+## AI Tafsir
+
+**What this ayah teaches:** If the verse refers to this incident, in which the Shaitan provokes man to disbelieve and when he does that, he washes his hands of them, it does not seem that the Shaitan asked them to commit kufr, because they were already kafirs.
+
+**Classical tafsir:** Ibn Kathir notes: If the verse refers to this incident, in which the Shaitan provokes man to disbelieve and when he does that, he washes his hands of them, it does not seem that the Shaitan asked them to commit kufr, because they were already kafirs.
+
+**From the Sunnah:** They only fight when they have to defend themselves (even though they threaten Muslims of reprisals). But when the Muslims besieged them, not a single hypocrite came forward to assist.
 ## Personal Reflections
 
 

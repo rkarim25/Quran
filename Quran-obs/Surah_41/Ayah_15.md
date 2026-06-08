@@ -215,6 +215,15 @@ Commentary
 
 The basic purpose of these verses is to warn the people of Makkah that if, even after seeing the manifest proofs of the Oneness of Allah, they do not accept the call of the Holy Prophet ﷺ ، they may face a punishment like the earlier people of ` Ad and Thamud had faced. In this context, a brief account of what happened to these people has been given. The people of Makkah are also reminded that their punishment on the Day of Judgment will be much more severe, and they will not be able to escape it, because even the organs of their body will testify against them. And in this context, some events of that Day are mentioned.
 
+## AI Translation
+
+As for 'Ad, they acted arrogantly throughout the land with no right, boasting, "Who is superior to us in might?" Did they not see that Allah, Who created them, was far superior in might? Still they persisted in denying Our signs.
+
+## AI Tafsir
+
+**What this ayah teaches:** But surely the torment of the Hereafter will be more disgracing, and they will never be helped (16)And as for Thamud, We showed them the path of truth but they preferred blindness to guidance; so the Sa'iqah of disgracing torment seized them because of what they used to earn (17)And We saved those who believed and had Taqwa .
+
+**Classical tafsir:** Ibn Kathir notes: But surely the torment of the Hereafter will be more disgracing, and they will never be helped (16)And as for Thamud, We showed them the path of truth but they preferred blindness to guidance; so the Sa'iqah of disgracing torment seized them because of what they used to earn (17)…
 ## Personal Reflections
 
 

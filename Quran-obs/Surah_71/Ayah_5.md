@@ -148,6 +148,15 @@ Commentary
 
 يَغْفِرْ‌ لَكُم مِّن ذُنُوبِكُمْ and Allah will forgive you your sins, 71:4). The particle min is often used to indicate division into parts, that is, to refer to only a part of an amount, group or number. If it is taken in that sense here, it would signify that by embracing the faith only those sins would be forgiven which pertains to the Divine rights because violation of human rights would be forgiven only when the believer fulfills the human rights which he has violated [ such as pecuniary obligations ] and if they cannot be fulfilled [ such as hurting somebody physically or verbally ], then the person who has been so hurt must first be requested to forgive. The hadith which reports that by embracing the faith all sins are forgiven must be understood in the light of the foregoing explanation. In other words, the hadith has the same conditions attached to it as the verse under comment, that is, violation of the rights of the human beings is not forgiven except upon fulfillment of those rights or seeking forgiveness from the victims of that violation. Other scholars of Tafsir interpret the particle min as za'idah, (having no meaning, and added only because of usage). In this way, it signifies that all their sins would be forgiven. However, on the basis of other texts, this general expression is subject to the conditions mentioned above.
 
+## AI Translation
+
+He cried: 'My Lord, I have called my people day and night,
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, I have called to my people night and day (5)But all my calling added nothing but to (their) flight (6)And verily, every time I called unto them that You might forgive them, they thrust their fingers into their ears, covered themselves up with their garments, and persisted, and magnified themselves in pride (7)Then verily, I called to them openly (aloud)(8)Then verily, I…
+
+**Classical tafsir:** Ibn Kathir notes: This means that He will give you more wealth, more children and gardens with various types of fruits.
 ## Personal Reflections
 
 

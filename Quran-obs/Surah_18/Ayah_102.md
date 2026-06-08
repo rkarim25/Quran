@@ -112,6 +112,15 @@ The word: عبادی (` ibadi: My servants) used here means angels, and the part
 
 The word: أَوْلِيَاءَ (awliya' ) is the plural of وَلِی (waliyy). This word is used in the Arabic language to carry several meanings. At this place, it means one who gets things done, resolves matters, fulfills needs - which is the particular attribute of the true object of worship. The purpose thereby is to take them as objects of worship.
 
+## AI Translation
+
+Do those who reject the truth think they can simply take My servants as Rabbs instead of Me? We have surely prepared Hell as an accommodation for those who reject the truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** Some other commentators have taken is?
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

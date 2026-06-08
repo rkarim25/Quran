@@ -130,6 +130,17 @@ Despite what has been said here, there are occasions when comes that moment of D
 
 The outcome of all these Hadith reports is as follows. As obvious, the main address in the verse under reference concerns the deniers of 'Akhirah who demanded an instant punishment. But, in view of its universality, it includes Muslims as well, who may also break into invoking a curse on themselves or on their belongings and children under some fit of grief or anger. Such is the customary practice of Allah Ta` ala, because of His grace and compassion, that he deals with both of them in the same manner. He does not allow such invocations for curses to be actualized and implemented instantly so that the erring person gets the opportunity to think it out and rescind.
 
+## AI Translation
+
+If Allah were to hasten evil for people as they wish to hasten good, they would have certainly been doomed. But We leave those who do not expect to meet Us to wander blindly in their defiance.
+
+## AI Tafsir
+
+**What this ayah teaches:** And were Allah to hasten for mankind the evil as He hastens for them the good then they would have been ruined. So We leave those who expect not their meeting with Us, in their trespasses, wandering blindly in distraction .
+
+**Classical tafsir:** Ibn Kathir notes: But, the case of a person who, because of his ignorance, or anger, or grief, falls into the error of hurling on himself or his family a curse in the fair name of prayer is different.
+
+**From the Sunnah:** Ibn Jarir on the authority of Qatadah and al-Bukhari and Muslim on the authority of Mujahid report that, at this place, the invoking of curse refers to what an angry person sometimes does when he breaks into supplicating adversely to the effect that his childr… (Sahih al-Bukhari, Sahih Muslim) But, in view of its universality, it includes Muslims as well, who may also break into invoking a curse on…
 ## Personal Reflections
 
 

@@ -173,6 +173,17 @@ According to the previous verse, Walid Ibn 'Uqbah ؓ reported that Banul-Mustali
 
 Lexically, the word is derived from and it connotes "to commit a sin or crime" and it also means "to suffer from hardship". In this context, both connotations appropriately fit (Qurtubi).
 
+## AI Translation
+
+Know that Allah's Messenger is still among you. If he were to follow you in most matters, you would fall into hardship. But Allah has made iman beloved to you and adorned it in your hearts, and made denial, rebellion, and disobedience hateful to you. Those are the rightly guided.
+
+## AI Tafsir
+
+**What this ayah teaches:** Thus in matters requiring consultation it is proper to express a view but it is not proper for you to exert efforts to get the Holy Prophet ﷺ to act upon your opinion.
+
+**Classical tafsir:** Ibn Kathir notes: Lexically, the word is derived from and it connotes "to commit a sin or crime" and it also means "to suffer from hardship".
+
+**From the Sunnah:** Allow us to die as Muslims, live as Muslims and join us with the ranks of the righteous ones, without tasting humiliation or turmoil. (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

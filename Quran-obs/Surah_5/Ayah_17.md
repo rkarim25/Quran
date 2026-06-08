@@ -249,6 +249,17 @@ This one sentence answers the reasoning by saying that Allah has the most perfec
 
 The reason lies in pondering that Allah Ta` ala did create Sayyidna Adam (علیہ السلام) without a father and mother both. He has the power, all power, over everything. He is the Creator and the Master and the most worthy of worship. No one else can be associated with His Divinity as a partner or sharer.
 
+## AI Translation
+
+Indeed, those who say, “Allah is the Messiah, son of Mary,” have fallen into rejection of the truth. Say, “Who has the power to prevent Allah if He chose to destroy the Messiah, son of Mary, his mother, and everyone in the world all together?” To Allah belongs the kingdom of the heavens and the earth and everything in between. He creates whatever He wills. And Allah is Most Capable of everything.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, in disbelief are they who say that Allah is the Messiah, son of Maryam.
+
+**Classical tafsir:** Ibn Kathir notes: Some of the People of the Book who later became Muslims refuted this false statement saying, "This statement only indicates honor and respect, as is common in their speech at that time." The Christians claim that 'Isa said to them, "I will go back to my father and your father," m…
+
+**From the Sunnah:** Some of the People of the Book who later became Muslims refuted this false statement saying, "This statement only indicates honor and respect, as is common in their speech at that time." The Christians claim that 'Isa said to them, "I will go back to my father…
 ## Personal Reflections
 
 

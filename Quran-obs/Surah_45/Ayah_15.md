@@ -128,6 +128,17 @@ Another point worth noting is that when the Qur'an commanded ` Say, [ 0 Muhammad
 
 Some of the scholars maintain that the rule of forgiving the infidels applied only before the revelation of the verse of jihad. When jihad was ordained, the rule of forgiveness, in terms of the current verse, was abrogated. However, most research scholars express the view that this verse has nothing to do with the verse of jihad. The current verse sets down the general social law that the Muslims should not wreak vengeance for every little thing. This law is universally applicable in every age and situation - the social law is needed even at the present time, and therefore it is not accurate to treat it as abrogated - especially if we were to take into account the circumstances under which it was revealed: the battle of Bani-l-Mustaliq. If this battle is the cause of revelation of this verse, then verses of jihad cannot be the abrogators, because they were revealed before this event.
 
+## AI Translation
+
+Whoever does good, it is for their own benefit. Whoever does evil, it is to their own loss. Then to your Lord you will all return.
+
+## AI Tafsir
+
+**Context:** قُل لِّلَّذِينَ آمَنُوا يَغْفِرُ‌وا لِلَّذِينَ لَا يَرْ‌جُونَ أَيَّامَ اللَّـهِ ("Tell those who believe that they should forgive those who do not believe in Allah's days ...14) ".
+
+**What this ayah teaches:** Verily, in it are signs for a people who think deeply (13)Say to the believers to forgive those who hope not for the Days of Allah, that He may recompense people, according to what they have earned (14)Whosoever does a good deed, it is for himself, and whosoever does evil, it is against (himself).
+
+**Classical tafsir:** Ibn Kathir notes: In the beginning of Islam, Muslims were ordered to observe patience in the face of the oppression of the idolators and the People of the Scriptures so that their hearts may incline towards Islam.
 ## Personal Reflections
 
 

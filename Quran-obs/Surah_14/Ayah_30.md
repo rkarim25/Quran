@@ -130,6 +130,17 @@ The word: اَندَاد (andad) is the plural of نِدّ (nidd) which means li
 
 In the second Verse (31), the Holy Prophet ﷺ has been asked: (Though, the disbelievers of Makkah have turned their backs on the favour of Allah and have chosen the way of infidelity, a strange exchange indeed, so then) 'you tell my believing servants that they should establish Salah and be particular about it, and spend in the way of Allah from the sustenance We have given to them, spending it both secretly and openly.' This verse carries significant glad tidings for all believing servants of Allah, and showers on them a great honour indeed. To begin with, Allah Ta’ ala has addressed them as 'His servants.' Then, He attributes the quality of faith to them. And then, He tells them how they can achieve eternal peace and comfort and honour, which is: Be particular and punctual in offering Sal. Avoid being sluggish when the time of Salah becomes due. Do not fall short in observing it as true to its required etiquette. And spend out of the sustenance given to you in My way as well. Here, both forms of spending have been declared to be permissible. This can be done secretly or openly. It means that Sadaqah and Khayrat (charities in the way of Allah) can be given in a way that no one knows about it, or these can be done in a way that others could get to know about it. Some ` Ulama say that the obligatory Zakah and Sadaqatul-Fitr should be given openly so that others are prompted to do the same. As for voluntary (Nafl) Sadaqah and Khayrat, it is better to give these secretly, so that there remains no danger of having done it for the sake of recognition and fair name. However, it all depends on one's intention (Niyyah) and attending conditions. If by doing it openly and publi-cly, there emerges the least likelihood of having done it for the sake of name and fame, the intrinsic merit of the charity (Sadaqah) so given is destroyed, whether obligatory (Fard) or voluntary (Nafl). If the intention is that others may also be induced to do the same, then, open and pronounced giving is permissible both in what is obligatory (Fard) and what is voluntary (Nafl).
 
+## AI Translation
+
+They set up rivals to Allah to mislead from His path. Say: "Enjoy yourselves briefly. Your destination is the Fire."
+
+## AI Tafsir
+
+**What this ayah teaches:** But certainly, your destination is the (Hell) Fire!
+
+**Classical tafsir:** Ibn Kathir notes: And then unto Us will be their return, then We shall make them taste the severest torment because they used to disbelieve.)[10:70]
+
+**From the Sunnah:** Ibn Al-Kawwa' asked 'Ali about Allah's statement,
 ## Personal Reflections
 
 

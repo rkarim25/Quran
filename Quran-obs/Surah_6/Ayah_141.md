@@ -292,6 +292,17 @@ of slaughter, the calf came out alive, they would slaughter it as well - but, wo
 
 [ All these narrations appear in Ad-Durr Al-Manthur and Ruh al-Mani from Sayyidna Ibn ` Abbas, Mujahid, Ibn Zayd and As-Suddiy with exegetic deductions of Ibn al-Mundhir, Ibn Abi Hatim, Ibn Abi Ash-Shaybah and Ibn Humayd) [ As in Bayn al-Qur'an of Maulana Thanavi ]
 
+## AI Translation
+
+He is the One Who produces gardens—both cultivated and wild—and palm trees, crops of different flavours, olives, and pomegranates—similar, but dissimilar. Eat of the fruit they bear and pay the dues at harvest, but do not waste. Surely He does not like the wasteful.
+
+## AI Tafsir
+
+**Context:** It was said that the extravagance prohibited here refers to excessive charity beyond normal amounts. Ibn Jurayj said, "This Ayah was revealed concerning Thabit bin Qays bin Shammas, who plucked the fruits of his date pal…
+
+**What this ayah teaches:** And it is He Who produces gardens Ma'rushat and not Ma'rushat, and date palms, and crops of different shape and taste, and olives, and pomegranates, similar, and different.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, He likes not the wasteful.) It was said that the extravagance prohibited here refers to excessive charity beyond normal amounts.
 ## Personal Reflections
 
 

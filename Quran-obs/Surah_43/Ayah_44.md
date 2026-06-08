@@ -159,6 +159,17 @@ But one must keep in mind that the good fame is praiseworthy only when it is rec
 
 In this verse the words 'your people' have been taken by some exegetes to mean the tribe of Quraish only, thereby proving the superiority of Quraish, whereas ` Allamah Qurtubi says that, according to the correct view, these words refer to the whole Ummah of the Holy Prophet ﷺ ، irrespective of color or race, and the Noble Qur'an is a matter of honor and good fame for the whole Ummah. (Qurtubi)
 
+## AI Translation
+
+Surely this Quran is a glory for you and your people. And you will all be questioned about it.
+
+## AI Tafsir
+
+**Context:** And whosoever Ya'shu (turns away blindly) from the remembrance of the ar-Rahman, We appoint for him Shaytan to be a Qarin (a companion) to him (36)And verily, they hinder them from the path, but they think that they…
+
+**What this ayah teaches:** This means that it is an honor for them in that it was revealed in their language, so they are the people who have the best understanding of it among mankind and hence are obliged to be the most steadfast in adhering to its commandments.
+
+**Classical tafsir:** Ibn Kathir notes: This means that it is an honor for them in that it was revealed in their language, so they are the people who have the best understanding of it among mankind and hence are obliged to be the most steadfast in adhering to its commandments.
 ## Personal Reflections
 
 

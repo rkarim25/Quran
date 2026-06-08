@@ -82,6 +82,15 @@ The Commentary on
 
 Surah Sad
 
+## AI Translation
+
+It is only a reminder to all the worlds.
+
+## AI Tafsir
+
+**What this ayah teaches:** Whatever I am commanded to do, I do it, and I do not add anything or take anything away. The blameworthiness of artificial behavior The statement means: 'I am not declaring my prophethood artificially, nor am I falsely pretending to have knowledge and wisdom, rather, I am conveying the commandments of Allah to you as they are.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ikrimah said, "It means, on the Day of Resurrection." There is no contradiction between the two views, because whoever dies comes under the rulings of the Day of Resurrection.
 ## Personal Reflections
 
 

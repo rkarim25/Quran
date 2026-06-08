@@ -110,6 +110,17 @@ Is Longing for Death Permissible?
 
 This subject has been fully discussed in Surah Al-Baqarah. Traditions forbid anyone to wish for death. The most important reason behind this is that no one has the right to believe that as soon as he dies, he will certainly enter Paradise and will have no fear of any punishment. Wishing for death in such a state of mind is tantamount to show bravery before Allah.
 
+## AI Translation
+
+But they will never wish for it because of what their hands have done. Allah has perfect knowledge of the wrongdoers.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, when the donkey carries books, it will not understand what these books contain because it is only carrying these books using its strength.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, they are worse than the donkey, because the donkey cannot understand.
+
+**From the Sunnah:** A Prophetic Tradition reports that the Messenger of Allah ﷺ has stated that if any one of them at that time had wishes for death, he would have died instantly.
 ## Personal Reflections
 
 

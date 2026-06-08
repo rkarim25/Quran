@@ -216,6 +216,19 @@ Special Note:
 
 Some commentators, have said that the word, هَـٰؤُلَاءِ (them), in this verse (41) points to the disbelievers and hypocrites present during the age of prophethood. Some others say that it refers to the entire community right through the Day of Doom. This is so because, as indicated in some hadith narrations, the deeds of his community are being continuously presented before him. Nevertheless, from here we know that the prophets of past communities will appear as witnesses over their respective communities and that the Holy Prophet ﷺ too will testify to the deeds of his community. This textual style of the noble Qur'an tells us that there is to be no prophet after him who could appear as a witness over a possible community of his - otherwise, the Qur'an would have mentioned him and his community and the testimony he would give. Seen from this angle, this verse is a proof of the finality of prophethood as well.
 
+## AI Translation
+
+So how will it be when We bring a witness from every faith-community and bring you as a witness against yours?
+
+## AI Tafsir
+
+**Context:** Al-Bukhari recorded that 'Abdullah bin Mas'ud said, "The Messenger of Allah ﷺ said to me, 'Recite to me.' I said, 'O Messenger of Allah!
+
+**What this ayah teaches:** Seen from this angle, this verse is a proof of the finality of prophethood as well.
+
+**Classical tafsir:** Ibn Kathir notes: Some others say that it refers to the entire community right through the Day of Doom.
+
+**From the Sunnah:** One year, he went to Hajj before me, and I found the people of Al-Basrah saying that he narrated that he heard the Messenger of Allah ﷺ saying, I heard my brethren in Al-Basrah claim that you narrated that you heard the Messenger of Allah ﷺ saying,
 ## Personal Reflections
 
 

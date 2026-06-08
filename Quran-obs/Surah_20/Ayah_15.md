@@ -168,6 +168,15 @@ Allah, the Exalted, says,
 
 Another possibility about the construction of this phrase is that it is taken to be linked with the words أَكَادُ أُخْفِيهَا (I would keep it secret - 20:15). In this case, it would mean that the philosophy in not revealing the time of death and the Day of Judgment is that people should continue in their endeavours and should not cease to strive in the belief that their own death or the Day of Judgment are still far away in the future. (Ruh)
 
+## AI Translation
+
+The Hour is sure to come. My Will is to keep it hidden, so that every soul may be rewarded according to their efforts.
+
+## AI Tafsir
+
+**What this ayah teaches:** It shall not come upon you except all of a sudden.)[7:187] This means that its knowledge weighs heavily upon the dwellers of the heavens and the earth.
+
+**Classical tafsir:** Ibn Kathir notes: It shall not come upon you except all of a sudden.)[7:187] This means that its knowledge weighs heavily upon the dwellers of the heavens and the earth.
 ## Personal Reflections
 
 

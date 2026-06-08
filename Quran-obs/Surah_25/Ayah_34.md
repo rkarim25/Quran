@@ -110,6 +110,19 @@ Commentary
 
 Verse no. 33 supports and accentuates the explanation given above for the wisdom in the gradual revelation of Qur'an in as much as it promises Allah's support in any situation of awkward questions asked by the infidel.
 
+## AI Translation
+
+Those who will be dragged into Hell on their faces will be in the worst place, and are now farthest from the Sirat al-Mustaqim.
+
+## AI Tafsir
+
+**Context:** And those who disbelieve say: "Why is not the Qur'an revealed to him all at once" Thus, that We may strengthen your heart thereby.
+
+**What this ayah teaches:** And those who disbelieve say: "Why is not the Qur'an revealed to him all at once" Thus, that We may strengthen your heart thereby.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Abu 'Abdur-Rahman An-Nasa'i recorded that Ibn 'Abbas said, "The Qur'an was sent down all at once to the first heaven on Laylatul-Qadr (the Night of Power), then it was revealed over twenty years." Allah says: (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

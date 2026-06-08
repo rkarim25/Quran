@@ -139,6 +139,15 @@ Pity on you, do not fabricate a lie against Allah, lest He uproots you with a pu
 
 It was hardly to be expected that the magicians who had entered the field with all the might of the Pharaoh-behind them would pay any heed to Sayyidna Musa's (علیہ السلام) words of advice. However, the prophets and their followers possess a hidden power so that their plain and simple words penetrate the most unruly and perverse minds, and the address of Sayyidna Musa (علیہ السلام) caused discord and dissensions among the magicians, some of whom thought that these could not be the words of a magician but of a higher being and were therefore, against the contest. But others were adamant,
 
+## AI Translation
+
+Moses warned the magicians, “Woe to you! Do not fabricate a lie against Allah, or He will wipe you out with a torment. Whoever fabricates lies is bound to fail.”
+
+## AI Tafsir
+
+**What this ayah teaches:** So one of them said, "This is not the speech of a magician, but it is the speech of a Prophet." Another said, "No, he is only a magician." There are other opinions that have been mentioned about what they discussed.
+
+**Classical tafsir:** Ibn Kathir notes: Invent not a lie against Allah...") This means, "Do not make an illusion before the people of something that is not real, making it appear as if it were a creature, when it is not really a creature.
 ## Personal Reflections
 
 

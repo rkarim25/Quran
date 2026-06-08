@@ -110,6 +110,17 @@ As for the good news in this world, the Holy Prophet ﷺ said, `(they are) the t
 
 Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. About it, the Holy Prophet ﷺ said: تِلکَ عَاجِلُ بشرَی المؤمِن that is, ` being taken as good and praiseworthy is, for a true Muslim, good news in ready cash.' (Muslim and al-Baghawi)
 
+## AI Translation
+
+They replied, “In Allah we trust. Our Rabb! Do not subject us to the persecution of the oppressive people,.
+
+## AI Tafsir
+
+**What this ayah teaches:** If you have believed in Allah, then put your trust in Him if you are Muslims.) Allah is sufficient for those who put their trust in Him.
+
+**Classical tafsir:** Ibn Kathir notes: Make us not a trial for the folk who are wrongdoers.) This means don't give them victory over us so that they rule us.
+
+**From the Sunnah:** If you have believed in Allah, then put your trust in Him if you are Muslims. If you have believed in Allah, then put your trust in Him if you are Muslims.) Allah is sufficient for those who put their trust in Him.
 ## Personal Reflections
 
 

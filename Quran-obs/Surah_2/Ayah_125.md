@@ -568,6 +568,17 @@ In fact, this is exactly what happened to Sayyidah Umm Salmah ؓ ، one of the w
 
 (7) The verse shows that "the House of Allah" is meant for people to make tawaf طواف of the Ka'bah کعبہ ، to do I` tikaf اعتکاف (to seek a retreat for worship and meditation), and to offer their prayers. In the case of those who come from outside to perform the Hajj حج ، the tawaf طواف carries greater merit than offering prayers. Lastly, the verse makes it clear that it is absolutely permissible to offer one's prayers inside the "House of Allah", whether the prayers are fard فرض (obligatory) or nafl نفل (supererogatory) (Jasss).
 
+## AI Translation
+
+When We made the Sacred House a place of return and security for people — take the standing-place of Abraham as a site of prayer — and entrusted Abraham and Ishmael to purify My House for those who circle it, who retreat in it, and who bow and prostrate.
+
+## AI Tafsir
+
+**What this ayah teaches:** Considering that Makkah has nothing to offer by way of a beautiful landscape or easy access or mundane comforts, yet, its power to draw millions of people to itself every year is nothing short of miracle.
+
+**Classical tafsir:** Ibn Kathir notes: She ran to and fro (between the two mountains) seven times." Ibn 'Abbas said that the Messenger of Allah ﷺ said, "This is why the people make the trip between As-Safa and Al-Marwah (during Hajj and Umrah)." "When she reached Al-Marwah, she heard a voice and said, 'Shush,' to herself.
+
+**From the Sunnah:** I have collected a book on this subject, and all praise is due to Allah. Therefore, its game should not be hunted, and its trees should not be cut.) An-Nasa'i and Muslim also recorded this Hadith. (Sahih Muslim, Sunan an-Nasa'i)
 ## Personal Reflections
 
 

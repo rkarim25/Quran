@@ -133,6 +133,15 @@ Surah AI-Furqan
 
 Ends here.
 
+## AI Translation
+
+Say, O Prophet, “You all would not even matter to my Rabb were it not for your iman in Him. But now you those who reject the truth have denied the truth, so the torment is bound to come.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Different versions are given in the interpretation of this verse, but the one given in the text above is the simplest and straight forward; that is you would have no value or importance before Allah if you do not call Him and pray to Him. That is now this rejection and disbelief have become an integral part of your being and will keep clinging to you until you are thrown in the Fire of Hell forever.
+
+**Classical tafsir:** Ibn Kathir notes: Those will be rewarded with the highest place because of their patience.
 ## Personal Reflections
 
 

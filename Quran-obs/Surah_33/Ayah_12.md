@@ -284,6 +284,17 @@ That the battle of al-Ahzab and Banu Quraizah have been taken up here in a somew
 
 Firstly, mention has been made of extreme hardships faced by Muslims in this battle. One state of the anxiety of believers has been pointed to in the words: تَظُنُّونَ بِاللَّـهِ الظُّنُونَا ( and you were thinking about Allah all sorts of thoughts. - 10) These thoughts refer to scruples that emerge in one's heart beyond his control at the time of acute anxiety under which one may feel death as near with no hope of deliverance left, or at other occasions like that. Such non-voluntary apprehensions and scruples are neither contradictory of the perfection of 'Iman (faith) nor that of one's nearness to Allah (wilayah). Nevertheless, they do point out to the extent of the severity of distress and anxiety under which scruples had started creeping into the hearts of even the noble Sahabah who, otherwise, were virtual mountains of fortitude.
 
+## AI Translation
+
+And remember when those of nifaq — outward acceptance with inward rejection and those with sickness in their hearts said, “Allah and His Messenger have promised us nothing but delusion!”
+
+## AI Tafsir
+
+**What this ayah teaches:** If not, tell us: Is it your personal opinion or you have devised this as a measure to save us from all this hardship and suffering?" The Holy Prophet ﷺ said, "Neither is there a Divine order for it, nor do I have any personal inclination to do so.
+
+**Classical tafsir:** Ibn Kathir notes: But, the value of 'Iman (faith) is the highest of all deeds for the reason that they, even when facing totally contrary causes and conditions, did not have the least doubt or qualm of conscience about what the Holy Prophet t had told them.
+
+**From the Sunnah:** Allah tells us what happened when the Confederates surrounded Al-Madinah and the Muslims were besieged and found themselves in straitened circumstances, with the Messenger of Allah ﷺ in their midst. Hypocrites throw taunts at Muslims for believing in their Prophet's promises
 ## Personal Reflections
 
 

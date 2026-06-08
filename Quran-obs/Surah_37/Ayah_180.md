@@ -105,6 +105,17 @@ Surah As-Saffat
 
 Ends here.
 
+## AI Translation
+
+Glorified is your Lord—the Lord of Honour and Power—above what they claim!
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah glorified Himself and states that He is far above what the lying wrongdoers say about Him; glorified and sanctified and exalted be He far above what they say.
+
+**Classical tafsir:** Ibn Kathir notes: Because Tasbih (glorification) implies a declaration of being free from all shortcomings, the two ideas appear together here and in many places in the Qur'an.
+
+**From the Sunnah:** Along with it, given there was the teaching that it is naturally expected of a true Muslim that he or she would conclude every article, every address and every sitting by admitting and stating the greatness of Allah Ta’ ala, and by saying words of praise for H… (Sahih Muslim)
 ## Personal Reflections
 
 

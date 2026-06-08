@@ -110,6 +110,15 @@ Then, Allah made a covenant with Musa and the Children of Israel on the right si
 
 وَنَزَّلْنَا عَلَيْكُمُ الْمَنَّ وَالسَّلْوَىٰ (And sent down for you the Mann and Sa1w. - 20:80) This incident occurred when, having crossed the river, they were commanded to enter a sacred city, but they refused and as punishment they were confined to a valley which is known as the valley of Tih (Sinai). They stayed there for forty years and in spite of the punishment which they were undergoing they continued to receive gifts from Allah, and the Mann and Salwa (a special kind of food) was one such gifts which was given to them for their sustenance.
 
+## AI Translation
+
+But I am truly Most Forgiving to whoever repents, believes, and does good, then persists on true guidance.”
+
+## AI Tafsir
+
+**What this ayah teaches:** And he on whom My anger descends, he is indeed perished (81)And verily, I am indeed forgiving to him who repents, believes and does righteous deeds, and then Ihtad .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

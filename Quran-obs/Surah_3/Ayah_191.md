@@ -345,6 +345,19 @@ Further on, from verses 192 to 194, there appears a set of pleas and prayers fro
 
 These three requests were aimed at safety against punishment and pain and loss. The fourth request is about promised blessings, the blessings of Paradise promised through the noble prophets. This prayer for blessings is being made with the added request that there be no disgrace on the Day of Judgment. In other words, the request is to be excused from the torturous procedure of accounting (for all of one's deeds), disgrace (as a result of misdeeds) and then forgiveness (on account of Allah's mercy). The prayer is for outright forgiveness for Allah does not go back on His word. What is the purpose of this submission and re-submission? The purpose is to say: 0 Allah, enable us to become deserving, and a beneficiary of this promise (made by You), and enable us to remain steadfast so that we breath our last in this world with faith in our heart (ایمان) and busy doing what is good in Your sight ( عمل صالح).
 
+## AI Translation
+
+Those who remember Allah while standing, sitting, and lying on their sides, and reflect on the creation of the heavens and the earth, “Our Rabb! You have not created this without purpose. Glory be to You! Protect us from the torment of the Fire.
+
+## AI Tafsir
+
+**Context:** (O Bilal! What prevents me from crying, when this night, this Ayah was revealed to me,)
+
+**What this ayah teaches:** Consequently, the speed with which developments in scientific inquiry unfold the secrets of Allah's creation is also the speed at which they are receding farther away from reality and Allah.
+
+**Classical tafsir:** Ibn Kathir notes: In other words it means that they are engaged in the remembrance of Allah under all conditions and at all times.
+
+**From the Sunnah:** The Messenger of Allah ﷺ spoke with his wife for a while and then went to sleep. (Sahih al-Bukhari) The Prophet ﷺ then stood up, performed ablution, used Siwak (to clean his teeth) and prayed eleven units of prayer. (Sahih Muslim)
 ## Personal Reflections
 
 

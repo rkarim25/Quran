@@ -79,6 +79,15 @@ From verse 48: لَا يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَ�
 
 As for the third probability, that the blessings of Jannah may remain everlasting, nor one is expelled from there, but one may himself get bored by living there and wish to go out, the Qur’ an has demolished this probability in one sentence of Surah Al-Kahf with the following words: لَا يَبْغُونَ عَنْهَا حِوَلًا (That is, these people too would never seek to return from there - 18:108).
 
+## AI Translation
+
+They responded, “We give you good news in all truth, so do not be one of those who despair.”
+
+## AI Tafsir
+
+**What this ayah teaches:** We bring you the good news of a boy possessing much knowledge and wisdom.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

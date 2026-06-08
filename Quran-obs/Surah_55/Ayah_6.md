@@ -148,6 +148,15 @@ So we say, just as the believers among the Jinns said, "O Allah! None of Your fa
 
 وَالنَّجْمُ وَالشَّجَرُ‌ يَسْجُدَانِ (And the vine and the tree both prostrate [ to Allah ]....55:6). The word najm refers to the 'plants having no stem' and the word shajar refers to any 'tree' with stems or trunk, twigs and branches. All of them prostrate to Allah. Sajdah or prostration is the supreme symbol of humility, respect, surrender and unconditional love and obedience of Allah. In this context, the verse means that Allah has assigned a specific task to every tree, plant, creeper, and their leaves and fruits for the benefit of mankind and they are performing their tasks without the slightest deviation from their assigned duties. The plants without stems and the trees humbly submit themselves to Allah's will. Verse [ 6], read along with the preceding verse [ 5], shows that everything, from the largest celestial body to the smallest plant, is subject to His laws manifest in nature. A little disturbance in or deviation from their set course would bring down in pieces the whole universe, which has been created for the service of man. It is inconceivable, therefore, that man for whose service this vast and complicated but perfectly regulated universe has been brought into being would have been created without a purpose. The life of man surely has a grand Divine aim to which repeated reference has been made in this entire Surah and in other parts of the Qur'an. There are two types of obedience: [ 1] obedience that is carried out by free will, as for instance, man and jinn are given free will to choose between obeying Allah's laws or disobeying them; and [ 2] all other creation of Allah are assigned specific tasks or duties to perform without any choice. The latter is referred to as ita’ ah takwiniyyah or jabriyyah 'compelled or coerced obedience'. In the current verse, the word sajdah refers to this type of 'obedience to Allah's laws in nature' where the natural objects have no choice.
 
+## AI Translation
+
+The stars and trees bow in submission to His laws.
+
+## AI Tafsir
+
+**What this ayah teaches:** The word najm refers to the 'plants having no stem' and the word shajar refers to any 'tree' with stems or trunk, twigs and branches. In the current verse, the word sajdah refers to this type of 'obedience to Allah's laws in nature' where the natural objects have no choice.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "An-Najm (the star); the one that is in the sky." Al-Hasan and Qatadah said similarly. Ibn Jurayj reported that Ibn 'Abbas said said Al-Akmam, means sheathed fruit stalks.
 ## Personal Reflections
 
 

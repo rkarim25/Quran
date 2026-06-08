@@ -126,6 +126,19 @@ Moreover, Salah نماز does possess a special efficacy in releasing man from a
 
 As to how Sabr صبر can save man from all kinds of trouble and pain and resolve all his difficulties, the secret has been revealed in the last phrase of this verse - "Surely, Allah is with those who are patient." That is to say, as a reward for Sabr صبر man receives the honour of the "company" of Allah. And it goes without saying that when the might of the Lord of the Worlds Himself has come to the aid of a man, what pain or trouble can overcome him, and who can prevent his concerns from prospering?
 
+## AI Translation
+
+O believers — seek help through sabr and salah. Allah is with those who endure patiently.
+
+## AI Tafsir
+
+**Context:** As to how Sabr صبر can save man from all kinds of trouble and pain and resolve all his difficulties, the secret has been revealed in the last phrase of this verse - "Surely, Allah is with those who are patient." That is…
+
+**What this ayah teaches:** If he is tested with a bounty, he is grateful for it and this is better for him; and if he is afflicted with a hardship, he is patient with it and this is better for him.) Allah has stated that the best tools to help ease the effects of the afflictions are patience and prayer.
+
+**Classical tafsir:** Ibn Kathir notes: When they realize that they will be asked (until they answer), they said, 'We wish that You send us back to the earthly life, so that we fight in Your cause until we are killed in Your cause again,' (because of what they enjoy of the rewards of martyrdom).
+
+**From the Sunnah:** from his father that Allah's Messenger…
 ## Personal Reflections
 
 

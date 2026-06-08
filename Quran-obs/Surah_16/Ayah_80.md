@@ -200,6 +200,17 @@ The Qur'an manifests the 'elan vital, the essence and the root of everything. He
 
 The statement: مِّن جُلُودِ الْأَنْعَامِ (from the hides of the cattle - 80) and the statement: أَصْوَافِهَا وَأَوْبَارِ‌هَا out of their wool and their fur and their hair 80) prove that it is Halal to use everything out of the hide, wool and hair of animals. Here, even the restriction that the animal be properly slaughtered or be a dead animal does not exist, nor is there any restriction as to their meat being Halal or Haram. It is perfectly Halal to use the hides of the animals of this kind by tanning them, and as for hair and wool, the death of the animal leaves just no effect on them. That remains halal and permissible without any specific technical treatment. This is the Madhab (creed) of the great Imam, Abu Hanifah. However, the hide of swine and all parts thereof are unclean and unfit for use under all conditions.
 
+## AI Translation
+
+And Allah has made your homes a place to rest, and has given you tents from the hide of animals, light to handle when you travel and when you camp. And out of their wool, fur, and hair He has given you furnishings and goods for a while.
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah had made your homes a place of rest for you, and made dwellings for you out of the hides of the cattle which you find so light when you travel and when you camp; and furnishings and articles of convenience out of their wool, fur, and hair - comfort for a while (80)And Allah has made shade for you out of that which He has created, and He has made places of refuge in the mountains for you,…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** This is interpreted by the majority to mean submitting to Allah or becoming Muslim. (Sahih Muslim)
 ## Personal Reflections
 
 

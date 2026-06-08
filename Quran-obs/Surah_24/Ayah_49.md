@@ -125,6 +125,17 @@ From the sky mountains (of clouds) having hail in them - 43.
 
 Here the word سَمَاء is purported for clouds, and Jibal جِبَالٍ (mountains) for big masses of clouds, while hails are called Barad.
 
+## AI Translation
+
+But if the truth is in their favour, they come to him, fully submitting.
+
+## AI Tafsir
+
+**Context:** (And when they are called to Allah and His Messenger, to judge between them...) means, when they are asked to follow the guidance which Allah has revealed to His Messenger ﷺ, they turn away and are too arrogantly proud o…
+
+**What this ayah teaches:** a party of them refuses and turns away (48)But if the truth is on their side, they come to him willingly with submission (49)Is there a disease in their hearts?
+
+**Classical tafsir:** Ibn Kathir notes: Whenever you are commanded to do something that goes against the Book of Allah, then follow the Book of Allah.'" Qatadah said: We were told that Abu Ad-Darda' said, "There is no Islam except through obedience to Allah, and no goodness except in Jama'ah.
 ## Personal Reflections
 
 

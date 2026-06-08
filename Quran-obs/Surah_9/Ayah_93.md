@@ -148,6 +148,17 @@ Then, Allah criticized those who seek permission to remain behind while they are
 
 Ultimately, there were some of them still left out for the simple reason that they could not find a mount. Rendered totally helpless, they could do nothing about their aspirations for Jihad. These are the kinds of people mentioned in the cited verses whose excuse was accepted by Allah Ta` ala. However, at the end, the warning was repeated by saying that particularly cursed are those who, despite their ability, elected to stay away from Jihad like women. The sentence: الَّذِينَ يَسْتَأْذِنُونَكَ وَهُمْ أَغْنِيَاءُ (Blame lies, in fact, on those who ask your permis-sion despite being rich - 93) means exactly this.
 
+## AI Translation
+
+Blame is only on those who seek exemption from you although they have the means. They preferred to stay behind with the helpless, and Allah has sealed their hearts so they do not realize.
+
+## AI Tafsir
+
+**Context:** Mujahid said; "It was revealed about Bani Muqarrin from the tribe of Muzaynah."
+
+**What this ayah teaches:** And Allah is Oft-Forgiving, ar-Rahim (91)Nor (is there blame) on those who came to you to be provided with mounts, when you said: "I can find no mounts for you," they turned back, with their eyes overflowing with tears of grief that they could not find anything to spend (92)The means (of complaint) is only against those who are rich, and yet ask exemption.
+
+**Classical tafsir:** Ibn Kathir notes: They are content to be with (the women) who sit behind (at home) and Allah has sealed up their hearts so that they know not (what they are losing).
 ## Personal Reflections
 
 

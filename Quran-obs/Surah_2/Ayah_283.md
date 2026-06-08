@@ -293,6 +293,17 @@ The second verse takes up the following two subjects:
 
 2. Secondly, it was said that the person who knows the correct situation in a disputed matter should not withhold his testimony. If he does withhold it, his heart is a sinner. The heart has been identified as the sinner because somebody might think his sin was restricted to the tongue (which failed to speak up). But it was in the heart that he first decided to do what he did and therefore, the sin of his heart comes first.
 
+## AI Translation
+
+If you are on a journey and find no scribe, a pledged collateral is acceptable. If you trust one another, let the trusted one fulfil the trust and fear Allah, their Rabb. Do not conceal testimony — whoever conceals it, their heart is sinful. Allah knows what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** It should rather have witnesses as well so that, in case there is a dispute, the appearance of witnesses in the court could help resolve it.
+
+**Classical tafsir:** Ibn Kathir notes: A written document should be prepared while concluding a transaction on deferred payment basis, so that it may be availed of in cases of error or refusal.
+
+**From the Sunnah:** the Messenger of Allah ﷺ died while his shield was mortgaged with a Jew in return for thirty Wasq (approximately 180 kg) of barley, which the Prophet bought on credit as provisions for his household. This is why the Muslim Jurists have stressed that the time limit so set should not have any ambiguity at all. (Sahih Muslim)
 ## Personal Reflections
 
 

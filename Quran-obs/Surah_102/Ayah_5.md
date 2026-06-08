@@ -185,6 +185,19 @@ This is the end of the Tafsir of Surat At-Takathur, and all praise and blessings
 
 Verse [ 102:5] كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ (No! if you have had sure knowledge..) The word 'if requires a principal clause that seems missing here, but the context suggests that the sense is the following: "If you had the sure knowledge of accountability on the Day of Judgment, you would not have engrossed yourselves in mutual competition in acquiring worldly goods and taking pride in their abundance."
 
+## AI Translation
+
+If you knew with yaqin, with the certainty that ends excuses, you would live differently.
+
+## AI Tafsir
+
+**Context:** In Sahih Al-Bukhari, it is recorded in the Book of Ar-Riqaq (Narrations that soften the Heart) from Anas bin Malik, who reported that Ubayy bin Ka'b said, "We used to think that this was a part of the Qur'an until the Ay…
+
+**What this ayah teaches:** if you have had sure knowledge..) The word 'if requires a principal clause that seems missing here, but the context suggests that the sense is the following: "If you had the sure knowledge of accountability on the Day of Judgment, you would not have engrossed yourselves in mutual competition in acquiring worldly goods and taking pride in their abundance."
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, whoever does not maintain the right that is obligatory upon him, then he is unjust.
+
+**From the Sunnah:** this Hadith. (Sahih Muslim, Jami' at-Tirmidhi) This Hadith has also been recorded by Muslim, At-Tirmidhi and An-Nasa'i.
 ## Personal Reflections
 
 

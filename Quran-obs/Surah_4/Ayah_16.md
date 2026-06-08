@@ -181,6 +181,19 @@ He also narrates that the Holy Prophet ﷺ said: "One who goes unto a woman in m
 
 As for a fixed punishment for this evil act, there is a difference of opinion among Muslim jurists, details of which are available in books of Fiqh. Nevertheless, the nature of such punishments reported by them is as severe as it can be, such as, burning into fire, bashing under a wall felled over, throwing down from a height, stoning and beheading with a sword.
 
+## AI Translation
+
+And the two among you who commit this sin—discipline them. If they repent and mend their ways, relieve them. Surely Allah is ever Accepting of Repentance, the Rahim.
+
+## AI Tafsir
+
+**Context:** Ibn 'Abbas and Sa'id bin Jubayr said that this punishment includes cursing, shaming them and beating them with sandals. This was the ruling until Allah abrogated it with flogging or stoning, as we stated.
+
+**What this ayah teaches:** Surely, Allah is Ever the One Who accepts repentance, (and He is) ar-Rahim .
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "The early ruling was confinement, until Allah sent down Surat An-Nur (chapter 24) which abrogated that ruling with the ruling of flogging (for fornication) or stoning to death (for adultery)." Similar was reported from 'Ikrimah, Sa'id bin Jubayr, Al-Hasan, 'Ata' Al-Khurasani, Abu S… Mujahid said, "It was revealed about the case of two men who do it." As if he was referring to the a…
+
+**From the Sunnah:** Allah has made some other way for them: the (unmarried) gets a hundred lashes and banishment for one yea…
 ## Personal Reflections
 
 

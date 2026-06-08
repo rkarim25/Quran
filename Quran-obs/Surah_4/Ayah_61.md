@@ -150,6 +150,17 @@ These people are hypocrites, and Allah knows what is in their hearts and will pu
 
 The second verse (61) tells us that turning away from the decision of the Holy Prophet ﷺ ، given under the dictates of the Shari’ ah in matters relating to mutual quarrels and disputes, can never be the response of a Muslim. One who does it has to be a munafiq (hypocrite). Thus, when the disbelief of this hypocrite was practically exposed through his dissatisfaction with the decision of the Holy Prophet ﷺ ، his being killed by Sayyidna ` Umar ؓ became all the more justified, because he no more remained a munafiq (hypocrite) and, in fact, became an open Kafir (or apostate). Therefore, it was said; And when it is said to them, "Come to what Allah has revealed, and to the Messenger," you will see the hypocrites turning away from you in aversion.'
 
+## AI Translation
+
+When it is said to them, “Come to Allah’s revelations and to the Messenger,” you see the those living in nifaq—outward acceptance with inward rejection turn away from you stubbornly.
+
+## AI Tafsir
+
+**Context:** Allah chastises those who claim to believe in what Allah has sent down to His Messenger ﷺ and to the earlier Prophets, yet they refer to other than the Book of Allah and the Sunnah of His Messenger ﷺ for judgment in vari…
+
+**What this ayah teaches:** Therefore, it was said; And when it is said to them, "Come to what Allah has revealed, and to the Messenger," you will see the hypocrites turning away from you in aversion.'
+
+**Classical tafsir:** Ibn Kathir notes: Let Allah be sufficient for you in this regard, because He has perfect knowledge of their apparent and hidden affairs.
 ## Personal Reflections
 
 

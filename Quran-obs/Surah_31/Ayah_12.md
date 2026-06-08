@@ -158,6 +158,15 @@ After having mentioned the giving of Hikmah to Luqman (علیہ السلام) ،
 
 Mentioned after that there are some words of wise counsel spoken by Luqman (علیہ السلام) to his son. These have been reported by the Qur'an so that others may also benefit from these.
 
+## AI Translation
+
+We granted Luqman wisdom, saying: Show shukr — gratitude expressed in word and action — to Allah. Whoever is grateful benefits their own soul; whoever is ungrateful, Allah is Self-Sufficient, Praiseworthy.
+
+## AI Tafsir
+
+**What this ayah teaches:** And whoever is unthankful, then verily, Allah is All-Rich, Worthy of all praise .
+
+**Classical tafsir:** Ibn Kathir notes: And Mujahid said that he was a thick-lipped, cracked-footed Ethiopian slave (al-Zajjaj).
 ## Personal Reflections
 
 

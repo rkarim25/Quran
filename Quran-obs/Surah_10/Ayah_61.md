@@ -221,6 +221,15 @@ In the fifth verse (61), mention has been made of the all-encompassing knowledge
 
 At this place, as it seems, the wisdom of describing the all-encompassing nature of Divine knowledge is aimed at consoling the Holy Prophet ﷺ that his enemies cannot harm him in any way for he was under the protection of Allah Ta` ala.
 
+## AI Translation
+
+There is no activity you may be engaged in O Prophet or portion of the Quran you may be reciting, nor any deed you all may be doing except that We are a Witness over you while doing it. Not even an atom’s weight is hidden from your Rabb on earth or in heaven; nor anything smaller or larger than that, but is written in a perfect Record.
+
+## AI Tafsir
+
+**What this ayah teaches:** And He knows whatever there is in the land and in the sea; not a leaf falls, but He knows it.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -168,6 +168,15 @@ The Fifth Attribute: Spending in the Way of Allah
 
 The fifth attribute of a believer, as stated in the verse, is that they spend in the way of Allah out of what Allah has provided them with. This 'spending in the way of Allah' is general. It is inclusive of all charitable spendings (Sadaqat and Khairat), endowments (Waqf) and gifts and grants to relatives. Also included under this category are Islamic legal obligations such as Zakah and the Sadaqatul-Fitr, and voluntary charities, donations and contributions (Nai Sadaqat and Tabarru` at) as well as any financial assistance amiably provided to guests, friends and respected elders.
 
+## AI Translation
+
+They are the ones who establish salah, the formal ritual prayer, and give from what We have provided for them.
+
+## AI Tafsir
+
+**What this ayah teaches:** The believers are only those who, when Allah is mentioned, feel a fear in their hearts and when His Ayat are recited unto them, they increase their faith; and they put their trust in their Lord (2)Who perform the Salah and spend out of what We have provided them (3)It is they who are the believers in truth.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "Establishing the prayer requires preserving its times, making ablution for it, bowing down and prostrating." Muqatil bin Hayyan said, "Establishing the prayer means to preserve its times, perform perfect purity for it, perform perfect bowings and prostrations, recite the Qur'an during…
 ## Personal Reflections
 
 

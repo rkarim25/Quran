@@ -200,6 +200,19 @@ What Ibn Az-Zab'ari said was a serious mistake, because the Ayah was addressed t
 
 لَا يَحْزُنُهُمُ الْفَزَعُ الْأَكْبَرُ‌ (They will not be grieved by the Biggest Panic - 21:103). Sayyidna Ibn ` Abbas ؓ has said that (the Biggest Panic) refers to the second call of the Horn ( صُور ), when all the dead will assemble to give an account of their actions in the world. Some others have said that الْفَزَعُ الْأَكْبَرُ‌ (the Biggest Panic) is the first call of the Horn. Ibn Al-` Arabi has said that the Horn will be blown thrice: The first call will be نَفخَہُ الفَزَع which will put everyone into utter confusion, and is referred to here as الْفَزَعُ الْأَكْبَرُ‌ (the Biggest Panic). The second call will be نَفخہُ الصِّعق when everyone will die. The third call will be نَفخَہُ البَعث when all the dead will be resurrected. This version derives support from a hadith of Abu Hurairah رضی اللہ تعالیٰ عنہ which has been quoted in Musnad Abu Ya` la and Baihaqi, ` Abd Ibn Humaid, Abu al-Sheikh, Ibn Jarir al-Tabari etc. (Mazhari).
 
+## AI Translation
+
+The Supreme Horror of that Day will not disturb them, and the angels will greet them, saying, “This is your Day, which you have been promised.”
+
+## AI Tafsir
+
+**Context:** (while they abide in that which their own selves desire.) means, they will be safe from that which they fear, and they will have all that they love and desire.
+
+**What this ayah teaches:** And if it were Our will, We would have made angels to replace you on the earth. Zafir refers to their exhalation, and Shahiq refers to their inhalation.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid, 'Ikrimah and Qatadah said: "Its fuel." Ad-Dahhak said: "The fuel of Hell means that which is thrown into it." This was also the view of others. Zafir refers to their exhalation, and Shahiq refers to their inhalation.
+
+**From the Sunnah:** According to what I have heard, the Messenger of Allah ﷺ sat down one day with Al-Walid bin Al-Mughirah in the Masjid, and An-Nadr bin Al-Harith came and sat down with them. He said this to the Messenger of Allah ﷺ, who said:
 ## Personal Reflections
 
 

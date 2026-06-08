@@ -132,6 +132,15 @@ And when Sayyidna Abu Hurairah ؓ saw rain falling, he used to say: مُطِرن
 
 [ 1] This translation is based on one way of reading this prayer, that is, jidd (with kasrah on the letter jim, but if it is read as jadd, then the correct translation would be: 'no high status of a person may benefit him against Your decree. (Muhammad Taqi Usmani)
 
+## AI Translation
+
+Whatever mercy Allah opens for people, none can withhold it. Whatever He withholds, none but Him can release it. He is the Almighty, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** It is being said here that the person for whom Allah Ta’ ala intends to open the doors of His mercy, there is no one who can stop it.
+
+**Classical tafsir:** Ibn Kathir notes: Trust in Allah delivers from all hardships The lesson taught by the cited verse (2) to all human beings is that one should not hope any benefit or fear any harm from anyone other than Allah, instead, one should keep his or her sight trained towards Allah alone.
 ## Personal Reflections
 
 

@@ -123,6 +123,17 @@ Commentary
 
 The word: مِعْشَارَ‌ (mi'shar) in verse 45: وَمَا بَلَغُوا مِعْشَارَ‌ مَا آتَيْنَاهُمْ (while these (infidels of Makkah) have not reached even one tenth of what We gave to those (before them) has been taken to mean: عُشُر ('ushr: a tenth) by some early commentators. Some scholars have interpreted it as: عُشرُ العُشر (ushr-ul-` ushr: a hundredth) while others call it: عُشرُ العَشِیر (` ushr-ul ` ashir: a thousandth). Obviously, the later has a higher degree of exaggeration as compared to 'ushr or ten. The sense of the verse is that not even a tenth, rather a thousandth, of the worldly wealth, power, blessings of age and health given to earlier communities was received by the people of Makkah. Therefore, they should take lesson from what happened to past communities and the evil end they faced. These were people who invited upon themselves the wrath of Allah when they rejected prophets and messengers and, consequently, when came the actual punishment, their power, bravery, wealth and fortified fortresses could do nothing for them.
 
+## AI Translation
+
+Those before them denied as well—and these people have not attained even a tenth of what We gave their predecessors. Yet when they rejected My messengers, how severe was My response!
+
+## AI Tafsir
+
+**Context:** (And We had not given them Scriptures that they could study, nor sent to them before you any warner) meaning, Allah did not reveal any Book to the Arabs before the Qur'an, and He did not send any Prophet to them before M…
+
+**What this ayah teaches:** but that did not protect them from the punishment of Allah, and Allah destroyed them because they denied His Messengers. The sense of the verse is that not even a tenth, rather a thousandth, of the worldly wealth, power, blessings of age and health given to earlier communities was received by the people of Makkah.
+
+**Classical tafsir:** Ibn Kathir notes: but that did not protect them from the punishment of Allah, and Allah destroyed them because they denied His Messengers.
 ## Personal Reflections
 
 

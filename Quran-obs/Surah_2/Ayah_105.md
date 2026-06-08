@@ -180,6 +180,17 @@ The previous verse told us how the Jews behaved towards the Holy Prophet ﷺ ; t
 
 These Jews used to make two claims -- firstly, that Judaism was a better religion than Islam; secondly, that they were the well-wishers of the Muslims. They could not establish the first of these claims on the basis of any valid argument, and it remained an empty assertion. Moreover, the difference between Islam and Judaism does not primarily depend on the question of one being better than the other. For, when something new comes to abrogate something older, the latter is automatically given up -- and Allah has sent Islam to abrogate all the earlier religions. The fact being so obvious, the Holy Qur'an says nothing in refutation of the first claim, and takes up only the second. The mushrikin مشرکین (associators) have been mentioned here along with the Jews for the sake of emphasis, and to point out that Jews cannot be the well-wishers of Muslims any more than mushrikin مشرکین can -- the two being alike in their hatred of Muslims.
 
+## AI Translation
+
+Neither the People of the Book nor those who associate partners with Allah wish that any good descend upon you from your Rabb. But Allah selects whomever He wills for His mercy. Allah is the Lord of immense bounty.
+
+## AI Tafsir
+
+**What this ayah teaches:** And for the those who reject the truth there is a painful torment (104)Neither those who disbelieve among the People of the Scripture (Jews and Christians) nor Al-Mushrikin (the idolaters) like that there should be sent down unto you any good from your Lord.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn Abu Hatim said that it was reported that Abu Al-'Aliyah, Abu Malik, Ar-Rabi' bin Anas, 'Atiyah Al-'Awfi and Qatadah said similarly. When they wanted to say, 'hear us,' they would use the word Ra'ina, which is an insult (in Hebrew, but means 'hear us' in Arabic).
+
+**From the Sunnah:** Also, the Hadiths stated that when they would greet Muslims, they would say, 'As-Samu 'alaykum,' meaning, 'death be to you'. They used to say to the Prophet ﷺ, Ar'ina samak (which is an insult).
 ## Personal Reflections
 
 

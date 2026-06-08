@@ -140,6 +140,19 @@ Commentary
 
 Just as this surah was revealed to the Holy Prophet ﷺ for the ascertainment of the religious principles and for other benefits, similarly Allah Ta’ ala has been sending other prophets who preceded him. His Magnificence is such that whatever there is in the heavens and in the earth is His. He is the Supreme, the Most Magnificent. Even though some of the people of this world do not recognize and do not admit the greatness of His magnificence, yet the number of the angels in the heavens, who know Him and recognize His greatness, is so large that their load may, quite likely, cause the heavens to burst apart from above. A hadith narrated in Tirmidhi and Ibn Majah states that due to the large number of the angels, such crackling sounds are produced in the heavens as are produced when an excessive load is placed on something. And that is how it should be, because throughout the heavens there is not even a space of four fingers left vacant by angels who are in the state of prostration.
 
+## AI Translation
+
+To Him belongs whatever is in the heavens and whatever is on the earth. He is the Most High, the Greatest.
+
+## AI Tafsir
+
+**Context:** (Likewise Allah, the Almighty, the All-Wise sends revelation to you as to those before you.) means, 'just as this Qur'an has been revealed to you, so too the Books and Scriptures were revealed to the Prophets who came be…
+
+**What this ayah teaches:** To Him belongs all that is in the heavens and all that is on the earth, and He is the Most High, the Most Great.)(5.
+
+**Classical tafsir:** Ibn Kathir notes: Likewise Allah, the Almighty, the All-Wise sends revelation to you as to those before you.)(4.
+
+**From the Sunnah:** A'ishah, may Allah be pleased with her, said, "I saw him receiving the revelation on a very cold day, and when it departed from him, there were beads of sweat on his forehead." It was also reported in the Two Sahihs, and the version quoted here is that recorde… (Sahih al-Bukhari) A hadith narrated in Tirmidhi and Ibn Majah states that due to the large number…
 ## Personal Reflections
 
 

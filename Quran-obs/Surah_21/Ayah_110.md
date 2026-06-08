@@ -121,6 +121,17 @@ Commentary
 
 It, therefore, follows that performing jihad against the unbelievers in order to lessen shirk and kufr (unbelief) and in the hope of reclaiming those who transgress the Divine Commands of Allah Ta` ala is an act of mercy.
 
+## AI Translation
+
+Allah surely knows what you say openly and whatever you hide.
+
+## AI Tafsir
+
+**Context:** Say: "It is revealed to me that your Allah is only one Allah. Will you then be Muslims? (108)But if they turn away say: "I give you a notice to be known to us all alike.
+
+**What this ayah teaches:** He knows what is visible and what is concealed; He knows what is secret and hidden.
+
+**Classical tafsir:** Ibn Kathir notes: When it is understood that the invocation and worship of Allah Ta` ala is the essence of all living things, then the reason for describing the Holy Prophet ﷺ as mercy to the Worlds becomes obvious because it is his teachings and the purity of his personal life alone which keep al…
 ## Personal Reflections
 
 

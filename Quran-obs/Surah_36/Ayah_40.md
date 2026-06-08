@@ -196,6 +196,15 @@ The Arabs have a name for each set of three nights in a month, according to the 
 
 In verse 40, it was said: وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ (And each one is floating in an orbit - 40). Literally, the word: فَلَک (falak) does not mean the sky. Instead, it means the orbit in which some star moves. This verse has also appeared earlier in Surah Al-Anbiya' (21:33). It tells us that the moon is not contained within some sky as presumed by the astronomical theory of Ptolemy. Instead, it moves in a particular orbit in the space lower than it. Then, there are recent investigations as well as the human access to the moon that have made it certain.
 
+## AI Translation
+
+It is not for the sun to catch up with the moon, nor does the night outrun the day. Each is travelling in an orbit of its own.
+
+## AI Tafsir
+
+**What this ayah teaches:** When the sun is at its zenith at noon, it is in its closest position to Throne, and when it runs in its fourth orbit at the opposite point to its zenith, at midnight, it is in its furthest position from the Throne.
+
+**Classical tafsir:** Ibn Kathir notes: Dar'a' refers to the black sheep, i.e., the one whose head is black; the next three nights Zulam; then Hanadis, then Da'adi; then Mihaq, because of the absence of moonlight at the beginning of the month.
 ## Personal Reflections
 
 

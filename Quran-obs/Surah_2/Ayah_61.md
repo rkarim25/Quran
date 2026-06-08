@@ -369,6 +369,15 @@ Thus, Verse 3:112 helps to elucidate Verse 2:61, and also dispels the doubt whic
 
 Moreover, the half of Palestine which the Jews have usurped and the parasite state they have set up there is no more than a spot on the map of the world. As against this, we have vast expanses of the globe covered by Christian states, by Muslim states, and even by the states of people who do not believe in Allah at all. Can this tiny blot on the map and that too under the American-British umbrella, negate the disgrace which Allah has made to settle upon the Jews?
 
+## AI Translation
+
+And when you said, "O Moses, we cannot bear one kind of food — call on your Rabb to bring forth herbs, cucumbers, garlic, lentils, and onions." He said, "Would you exchange what is better for what is worse? Go down to any town and you will find what you ask for." They were struck with humiliation and misery, and earned Allah's wrath for rejecting His signs and unjustly killing prophets. That is the reward of defiance.
+
+## AI Tafsir
+
+**What this ayah teaches:** So invoke your Lord for us to bring forth for us of what the earth grows, its herbs, its cucumber its Fum, its lentils and its onions." He said, "Would you exchange that which is better for that which is lower? This cannot be described as having temporal power, in the proper sense of the term.
+
+**Classical tafsir:** Ibn Kathir notes: Remember how you asked Musa to exchange this type of food for an inferior type that consists of vegetation, and so forth." Al-Hasan Al-Basri said about the Children of Israel, "They were bored and impatient with the type of food they were provided.
 ## Personal Reflections
 
 

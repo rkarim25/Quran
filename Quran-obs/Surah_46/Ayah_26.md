@@ -185,6 +185,15 @@ Commentary
 
 These verses are to remind the infidels of the severe punishments faced by earlier people who rejected the messengers sent to them. Special reference is made to ` Ad, the people of Sayyidna Hud (علیہ السلام) who has been described as their 'brother', firstly because he belonged to their tribe, and secondly because he was their well-wisher as a brother. Since this nation lived in valleys surrounded by long, curved sand dunes, called in Arabic Ahqaf , special reference is made to these dunes, so that one could find out their places, if he so wishes when traveling to their localities. It is mentioned in verse 22 that they themselves demanded Allah's punishment to be brought upon them. Then verse 24 states that the punishment was sent to them in the form of a cloud that appeared to be benign, and therefore they were happy to see it in the hope that it would bring rain to them, but in fact it contained the divine punishment in the form of a violent wind that destroyed everything, leaving nothing except their empty homes that remained as a sign for those who might learn a lesson. The detailed account of the story of ` Ad and Thamud has already been given in Surah Hud (11:50) for which volume 4, page 643 of this book may be consulted. Mention of these events in these verses is in the form of a brief reference, and in verse 26 the infidels of Makkah are reminded that those nations were much more powerful and well-established than the people of Makkah. Still, their power and strength was of no use to them against Allah's punishment. Moreover, verse 28 points out that the false gods believed by them to be their patrons could not save them from the torment they faced, because they were coined only by their false imagination, having no real existence at all.
 
+## AI Translation
+
+We had established them in the land more firmly than We established you, and gave them hearing, sight, and minds—yet none of that helped them when they kept denying Allah's ayahs. What they mocked overwhelmed them.
+
+## AI Tafsir
+
+**What this ayah teaches:** But their hearing, vision, and hearts availed them nothing since they used to deny the Ayat of Allah, and they were completely encircled by that which they used to ridicule (26)And indeed We have destroyed towns round about you, and We have shown (them) the signs in various ways so that they might return (27)As for those whom they had taken for gods besides Allah, as the means of approach to Him,…
+
+**Classical tafsir:** Ibn Kathir notes: This means, you listeners must beware of being like them lest a punishment similar to theirs strikes you in this life and the Hereafter.
 ## Personal Reflections
 
 

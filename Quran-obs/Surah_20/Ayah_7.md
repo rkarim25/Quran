@@ -129,6 +129,19 @@ Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His M
 
 يَعْلَمُ السِّرَّ‌ وَأَخْفَى (Knows the secret and what is even more hidden - 20:7). سِرّ (Sirr: Secret) means something which a man hides in his heart and which is not known to anyone else and ) اخفٰی (what is more hidden) means a thought which has not even formed in his mind and will take shape later on. Allah is fully aware of what ideas a man conceals in his heart at a particular moment and what thoughts he will entertain in the future, while the person concerned himself does not know what thoughts will come to his mind in the days to come.
 
+## AI Translation
+
+Whether you speak openly or not, He certainly knows what is secret and what is even more hidden.
+
+## AI Tafsir
+
+**Context:** Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His Messenger ﷺ, he and his Companions adhered to it.
+
+**What this ayah teaches:** And if you speak aloud, then verily, He knows the secret and that which is yet more hidden.)(8.
+
+**Classical tafsir:** Ibn Kathir notes: To Him belongs the Best Names.) This means, 'He Who revealed this Qur'an to you (O Muhammad), He is Allah, there is no Allah except Him.
+
+**From the Sunnah:** He created the lofty heavens with their high altitudes and subtleties.' It has been reported in a Hadith, which At-Tirmidhi and others graded as authentic, that the density of each sky of the heavens is the distance of five hundred years travel and the distanc… (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

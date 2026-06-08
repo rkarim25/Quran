@@ -142,6 +142,17 @@ It is the very subject of these verses that the Holy Prophet has summarized in t
 
 This hadith has been reported by Ibn Majah and al-Tabarani on the authority of Sayyidna Abu Hurairah ؓ .
 
+## AI Translation
+
+Say, “Shall I inform you of what is better than this? Those who live with taqwa will have Gardens with their Rabb under which rivers flow, to stay there forever, and pure spouses, along with Allah’s pleasure.” And Allah is All-Seeing of servants, who pray, “Our Rabb! We have believed, so forgive our sins and protect us from the torment of the Fire.”
+
+## AI Tafsir
+
+**What this ayah teaches:** We have indeed believed, so forgive us our sins and save us from the punishment of the Fire. They will say: Our Lord, You have given us everything, what else could we ever need.
+
+**Classical tafsir:** Ibn Kathir notes: Is there anyone to invoke Me, so that I may respond to his invocation?
+
+**From the Sunnah:** Paradise will have bricks of gold and silver masoned one after the other.
 ## Personal Reflections
 
 

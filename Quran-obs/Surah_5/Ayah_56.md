@@ -144,6 +144,17 @@ Therefore, those who accept the allegiance of Allah - His Messenger and the fait
 
 In other words, it is said here that those who obey the commands of Allah are the People of Allah. Given to them is the good news that they will be the ones to finally overcome. The events which unfolded later on confirmed the veracity of this statement when everyone saw that the noble Companions, may Allah be pleased with them all, overcame all powers which threatened them. When internal rebellions challenged Sayyidna Abu Bakr ؓ ، Allah Almighty helped him prevail over all of them. When the towering powers of Ceaser and Cyrus marshaled their menacing might against Sayyidna ` Umar al-Faruq ؓ ، Allah Almighty effaced them from the face of the earth. Then, as long as these injunctions were dutifully observed by the Khulafa' and Muslims at large who came after them - by abstaining from establishing close bonds of friendship with non-Muslims - they had always remained winners in the struggle of life.
 
+## AI Translation
+
+Whoever allies themselves with Allah, His Messenger, and fellow those who have iman, then it is certainly Allah’s party that will prevail.
+
+## AI Tafsir
+
+**What this ayah teaches:** And those who are with him are severe against those who reject the truth, and merciful among themselves.)[48:29] The Prophet ﷺ is described as the smiling fighter, smiling to his allies and fighting his enemies.
+
+**Classical tafsir:** Ibn Kathir notes: Threatening to Replace the Believers With Another People if They Revert from Islam Allah emphasizes His mighty ability and states that whoever reverts from supporting His religion and establishing His Law, then Allah will replace them with whomever is better, mightier and more ri…
+
+**From the Sunnah:** The Prophet ﷺ is described as the smiling fighter, smiling to his allies and fighting his enemies.
 ## Personal Reflections
 
 

@@ -267,6 +267,17 @@ The result of the intellectual and spiritual punishment mentioned above was that
 
 Upto this point, the description of the misconduct of the Ban' Isra'il was obviously demanding enough that the Holy Prophet ﷺ should hold them in contempt and never allow them to come to him. Therefore, in the last sentence of this verse, the instruction given to the Holy Prophet ﷺ was فَاعْفُ عَنْهُمْ وَاصْفَحْ ۚ إِنَّ اللَّـهَ يُحِبُّ الْمُحْسِنِينَ (So for-give them and forego. Indeed, Allah loves the good-in-deed). It means that, despite their peculiar condition being what it is, it is better that the Prophet of Islam abstains from doing what is otherwise quite natural. In other words, he should not treat them with contempt or hatred because after knowing what they are - hardhearted and cold - the chances that any good counsel would affect them are very remote. Granted. But, toleration and civility of morals are wonder virtues which could probe out some sense and sensibility from out of such in-sensate people. Even if this effort to drive some sense into them fails, something worth doing still remains - keeping one's own matters and morals correct is, after all, quite necessary. Allah Almighty likes what is done with good grace - and it will definitely bring Muslims closer to Him.
 
+## AI Translation
+
+But for breaking their covenant We condemned them and hardened their hearts. They distorted the words of the Scripture and neglected a portion of what they had been commanded to uphold. You will always find deceit on their part, except for a few. But pardon them and bear with them. Indeed, Allah loves the good-doers.
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, he should not treat them with contempt or hatred because after knowing what they are - hardhearted and cold - the chances that any good counsel would affect them are very remote. It means that it was because of their contravention of the solemn pledge that Allah made them far-removed from His mercy (that is, from its effects, which is the reality of 'La` nah' or curse - Hadrat Than…
+
+**Classical tafsir:** Ibn Kathir notes: Muhammad bin Ishaq and Ibn 'Abbas said that this occurred when Musa went to fight the mighty enemy (in Palestine), and Allah commanded him to choose a leader from every tribe. Mujahid said that this Ayah refers to their plot to kill the Messenger of Allah ﷺ.
+
+**From the Sunnah:** Likewise, when the Messenger of Allah ﷺ took the pledge from the Ansar in the 'Aqabah area, there were twelve leaders from the Ansar.
 ## Personal Reflections
 
 

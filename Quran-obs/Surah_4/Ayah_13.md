@@ -184,6 +184,17 @@ Rulings
 
 If there is no one from ashabul-furud and no one from ` asbat either, the inheritance goes to Dhawil-Arliam (maternal kinsmen). There is a large list of Dhawil-Arham which includes maternal grand-sons and granddaughters, offspring of sisters, paternal aunts, maternal uncles, and aunts. Since the subject has lot more details which cannot be taken up in the present context, it is hoped that comments already offered will be sufficient.
 
+## AI Translation
+
+These are the limits set by Allah. Whoever obeys Allah and His Messenger will be admitted into Gardens under which rivers flow, to stay there forever. That is the ultimate triumph!
+
+## AI Tafsir
+
+**What this ayah teaches:** If there is no one from ashabul-furud and no one from ` asbat either, the inheritance goes to Dhawil-Arliam (maternal kinsmen).
+
+**Classical tafsir:** Ibn Kathir notes: And whosoever disobeys Allah and His Messenger, and transgresses His (set) limits, He will cast him into the Fire, to abide therein; and he shall have a disgraceful torment.) This is because he changed what Allah has ordained and disputed with His judgment.
+
+**From the Sunnah:** The purpose is to stress upon Muslims to obey these injunctions. Therefore, a Muslim will not inherit from any kafir and no kafir from a Muslim, no matter what lineal relationship they may have between them. (Sahih Muslim)
 ## Personal Reflections
 
 

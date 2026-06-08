@@ -170,6 +170,17 @@ An important instruction concerning 'mushajarat' (disagreements among Sahabah)
 
 Someone asked Rabi' Ibn-u1_-Khaitham about the shahadah (martyrdom) of Sayyidna Husain ؓ . He sighed and recited the verse (46): قُلِ اللَّـهُمَّ فَاطِرَ‌ السَّمَاوَاتِ وَالْأَرْ‌ضِ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ أَنتَ تَحْكُمُ بَيْنَ عِبَادِكَ ( O Allah, Creator of the heavens and the earth, Knower of the unseen and the seen, You will judge between Your servants...) and said, 'whenever you have a doubt in your heart about the mutual difference of the noble Sahabah, do recite this verse.' Tafsir Ruh-ul-Ma’ ani reports this statement and then says: This teaches us the best etiquette in regard to this issue, and is something one should always bear in mind.
 
+## AI Translation
+
+Even if the wrongdoers were to possess everything in the world twice over, they would certainly offer it to ransom themselves from the horrible punishment on Judgment Day, for they will see from Allah what they had never expected.
+
+## AI Tafsir
+
+**What this ayah teaches:** But the ransom will not be accepted from them, even if it were to be an earth-full of gold as He mentioned elswhere (3:91). Even they themselves used to deceive themselves by thinking that these deeds will become a source of salvation for them in the Hereafter.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** She said, may Allah be pleased with her: 'When the Messenger of Allah ﷺ stood up to pray at night, he would start his prayer with the words: (Sahih Muslim)
 ## Personal Reflections
 
 

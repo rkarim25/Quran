@@ -142,6 +142,17 @@ In concluding the discussion, Imam al-Ghazali (رح) remarks that in spite of th
 
 In short, this is a matter in which hope and fear both are involved - there is the fear of having incurred punishment as well as the hope of being ultimately forgiven. So, one should try one's best to get rid of one's laziness and indifference. But it is the mercy of Allah alone which can help one to succeed in this effort.
 
+## AI Translation
+
+who are certain they will meet their Rabb and that to Him they will return.
+
+## AI Tafsir
+
+**Context:** (Recite (O Muhammad ﷺ) what has been revealed to you of the Book (the Qur'an), and perform As-Salah. Verily, As-Salah (the prayer) prevents from Al-Fahsha' (i.e.
+
+**What this ayah teaches:** And seek help in patience and As-Salat (the prayer) and truly, it is extremely heavy and hard except for Al-Khashi'in.) (46 (They are those) who are certain that they are going to meet their Lord, and that unto Him they are going to return .
+
+**Classical tafsir:** Ibn Kathir notes: On the other hand, the word "Khudu`"refers to the bodily posture which shows modesty and humility - for example, the Holy Qur'an says: "So their necks will stay humbled to it".
 ## Personal Reflections
 
 

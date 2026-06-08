@@ -120,6 +120,17 @@ It is confirmed in the Sahih on the authority of Ibn 'Abbas, who said that the M
 
 يُنفَخُ فِي الصُّورِ‌ (رضی The Day when the Horn الصُّورِ‌ [ Sur ] will be blown - 20:102) According to Sayyidna Ibn ` Umar اللہ تعالیٰ عنہما ، a Bedouin الصُّورِ‌ asked the Holy Prophet ﷺ about صُور (the Horn) to which he replied that it is something like a horn which will be blown, meaning thereby that when the angel will blow into it all those who had lain dead for centuries will return to life. Only Allah knows the true nature of the Sur (the Horn).
 
+## AI Translation
+
+And so We have sent it down as an Arabic Quran and varied the warnings in it, so perhaps they will shun evil or it may cause them to be living with taqwa.
+
+## AI Tafsir
+
+**What this ayah teaches:** And thus We have sent it down as a Qur'an in Arabic, and have explained therein in detail the warnings, in order that they may have Taqwa, or that it may cause them to have a lesson from it (113)Then High above all be Allah, the True King.
+
+**Classical tafsir:** Ibn Kathir notes: The Qur'an was revealed so that the People would have Taqwa and reflect After Allah, the Exalted, mentions that on the Day of Judgement both the good and the evil will be recompensed and there is no avoiding it, He then explains that the Qur'an was revealed as a bringer of glad t…
+
+**From the Sunnah:** the Messenger of Allah ﷺ used to go through great pains to retain the revelation. Increase me in knowledge.") meaning, "Give me more knowledge from You." Ibn 'Uyaynah said, "The Prophet ﷺ did not cease increasing (in knowledge) until Allah, the Mighty and Sublime, took him (i.e.
 ## Personal Reflections
 
 

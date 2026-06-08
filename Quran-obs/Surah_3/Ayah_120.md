@@ -221,6 +221,17 @@ The Holy Prophet ﷺ has said, as narrated by Sayyidna Abu Dharr ؓ
 
 I know a verse which, if people were to take to it, would suffice them. And that is: And whoever fears Allah, for him He shall make a way out (of the difficulties) - 65:2.
 
+## AI Translation
+
+When you are touched with good, they grieve; but when you are afflicted with evil, they rejoice. if you are patient and mindful, their schemes will not harm you in the least. Surely Allah is Fully Aware of what they do.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, Allah is All-Encompassing of what they do.
+
+**Classical tafsir:** Ibn Kathir notes: The Prohibition of Taking Advisors From Among the those who reject the truth Allah forbids His believing servants from taking the hypocrites as allies, so that the hypocrites do not have the opportunity to expose the secrets of the believers and their plans against their enemies.
+
+**From the Sunnah:** When the Muslims suffer a drought or their enemies gain the upper hand against them, by Allah's decree, just as occurred during the battle of Uhud, the hypocrites become pleased. How can Muslims remain protected against the aftermath of sinister moves of the hypocrites and the deadly hostility of opponents?
 ## Personal Reflections
 
 

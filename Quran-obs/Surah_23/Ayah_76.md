@@ -138,6 +138,15 @@ Visitation of famine upon Makkah and its deliverance on the prayers of the Holy 
 
 It has been mentioned earlier that the Holy Prophet ﷺ had prayed to Allah to punish the people of Makkah with famine and as a result they were reduced to great straits and were forced to eat dead animals. At last, Abu Sufyan presented himself before the Holy Prophet ﷺ at Madinah and said, "I appeal you in the name of Allah, did you not say that you had been sent by Him as mercy for the whole world?" The Holy Prophet ﷺ replied, "Yes I did, and what I said is true also." Then Abu Sufyan said, "You killed the leaders of your clan with sword at the battle of Badr and now you are killing those who still survive with starvation. Pray to Allah, I beseech you, to remove this curse from over our heads." The Holy Prophet ﷺ then prayed to Allah to forgive the people of Makkah and deliver them from the agony of hunger, and his prayer was granted forthwith. The verse: وَلَقَدْ أَخَذْنَاهُم بِالْعَذَابِ فَمَا اسْتَكَانُوا لِرَ‌بِّهِمْ (23:76) was revealed on this occasion and refers to this incident. (Mazhari)
 
+## AI Translation
+
+And We have already seized them with torment, but they never humbled themselves to their Rabb, nor did they submissively appeal to Him.
+
+## AI Tafsir
+
+**What this ayah teaches:** And indeed We seized them with punishment, but they humbled not themselves to their Lord, nor did they invoke with submission to Him (76)Until, when We open for them the gate of severe punishment, then lo!
+
+**Classical tafsir:** Ibn Kathir notes: This is only the tales of the ancients!") This means, "It is impossible that we could be brought back.
 ## Personal Reflections
 
 

@@ -96,6 +96,17 @@ The One True God is Allah
 
 At this place, by mentioning these three attributes of angels, the noble Qur'an has put together all essential qualities of ideal servitude. To sum up: (1) Stand in perfect linear formation for "ibadah', (2) preventing rebellious forces from disobedience to Allah and (3) to recite the good counsel and commandments of Allah in person as well as to communicate to others. It is obvious that no act of servitude can remain devoid of these three departments. Hence, the sense of all four verse (37:1-4) turns out to be: 'By the angels who imbibe in them all ideal attributes of servitude, your true Lord is but One.'
 
+## AI Translation
+
+and those who recite the Reminder!
+
+## AI Tafsir
+
+**What this ayah teaches:** By those who drive the clouds in a good way.)(3.
+
+**Classical tafsir:** Ibn Kathir notes: By those who drive the clouds in a good way.)(3.
+
+**From the Sunnah:** that 'Abdullah bin 'Umar, may Allah be pleased with him, said, "The Messenger of Allah ﷺ used to command us to make our prayers short and he used to recite As-Saffat when he lead us in prayer." This was recorded by An-Nasa'i only. (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

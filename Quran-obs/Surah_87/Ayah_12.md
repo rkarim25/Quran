@@ -250,6 +250,19 @@ Then, a man from among the people present said, "It is as if the Messenger of Al
 
 فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَىٰ (So, extend advice [ to people ] if advice is useful....87:9) The preceding verses described the facilities created by Allah for the Holy Prophet in performing his Prophetic obligation. This verse commands him to perform his obligation. The verse contains the conditional particle 'in' (if) that apparently makes the sentence a conditional statement. But, in fact, the command is not intended to be made conditional. It is rather an emphatic statement. This is similar to the grammatical phenomenon in many languages. The particle 'if' is sometimes used when something is always true. It is used for introducing a situation that always has the same meaning, result or effect. For example: "If you are a 'man' [ obviously he is a man ], then you will have to do this work;" In neither of such sentences, the particle 'if is conditional, but rather emphatic. Likewise, the verse purports to say that preaching truth and righteousness is certainly useful. Therefore, the beneficial thing should never be abandoned at anytime.
 
+## AI Translation
+
+and burn in the greatest Fire,
+
+## AI Tafsir
+
+**Context:** This Surah was revealed in Makkah before the migration to Al-Madinah. The proof of this is what Al-Bukhari recorded from Al-Bara' bin 'Azib, that he said, "The first people to come to us (in Al-Madinah) from the Companio…
+
+**What this ayah teaches:** However, there will be a group of people - or as he said - whom the Fire will burn due to their sins - or he said - their wrongdoings. But it will be avoided by the wretched,)(12.
+
+**Classical tafsir:** Ibn Kathir notes: But it will be avoided by the wretched,)(12.
+
+**From the Sunnah:** Then 'Umar bin Al-Khattab came with a group of twenty people, after which the Prophet ﷺ came. (Sahih al-Bukhari) It has been confirmed in the Two Sahihs that the Messenger of Allah ﷺ said to Mu'adh,
 ## Personal Reflections
 
 

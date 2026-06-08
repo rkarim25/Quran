@@ -120,6 +120,15 @@ Ibn Kathir has, with reference to Ibn Jarir, answered this possible doubt by say
 
 In the later part of verse 51, it was said: يَوْمَ يَقُومُ الْأَشْهَادُ (as well as on the day in which witnesses will stand [ to give their testimony ]. It means the day of Qiyamah (Doomsday). Once they are there, Divine help for prophets and believers will show itself specially.
 
+## AI Translation
+
+a guide and a reminder for people of reason.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then Allah took him (in death), because of his high status and honor, and He established his Companions as his Khalifahs. Then Allah enabled him to conquer the Yemen, and the entire Arabian Peninsula submitted to him, and the people entered the religion of Allah in crowds.
+
+**Classical tafsir:** Ibn Kathir notes: Then Allah took him (in death), because of his high status and honor, and He established his Companions as his Khalifahs.
 ## Personal Reflections
 
 

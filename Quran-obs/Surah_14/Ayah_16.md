@@ -209,6 +209,17 @@ In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَك
 
 So, whatever good there is in gratitude, that is for you alone. There-fore, when you are asked to be grateful by Allah Ta’ ala, there is no gain for Him in doing so. In fact, it is His infinite mercy reaching out to you in your interest.
 
+## AI Translation
+
+Hell awaits them. They will drink oozing pus,
+
+## AI Tafsir
+
+**Context:** And those who disbelieved, said to their Messengers: "Surely, we shall drive you out of our land, or you shall return to our religion." So their Lord revealed to them: "Truly, We shall destroy the wrongdoers.
+
+**What this ayah teaches:** Then thereafter, verily, their return is to the flaming fire of Hell.)[37:64-68] Allah states that they will either be eating from the Zaqqum, drinking the Hamim, or being tormented in the Fire, again and again; we seek refuge with Allah from all of this. 'Abdur-Rahman bin Zayd bin Aslam said that this Ayah refers to the nations, invoking Allah's victory against themselves!
+
+**Classical tafsir:** Ibn Kathir notes: And other (torments) of similar kind all together!)[38:57-58] Mujahid and 'Ikrimah said that this festering water is made of puss and blood.
 ## Personal Reflections
 
 

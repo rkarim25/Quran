@@ -97,6 +97,17 @@ The present verses, like the previous ones, chastise hypocrites for their absurd
 
 The first verse (61) mentions the painful comment made by the hypocrites against the Holy Prophet ﷺ . They thought, since he hears and believes everything, they had nothing to worry about. In the event, their conspiracy was exposed, they would simply tell him on oath that they had nothing to do with it. Allah Almighty corrected them by saying that His Messenger preferred silence against baseless hostilities because of his high morals. He did not believe in what they said. He himself knew reality as it was. He simply avoided refuting them on their faces because of his inherent gentleness of nature.
 
+## AI Translation
+
+They swear by Allah to you in order to please you, while it is the pleasure of Allah and His Messenger they should seek, if they are those who have iman.
+
+## AI Tafsir
+
+**What this ayah teaches:** They swear by Allah to you (Muslims) in order to please you, but it is more fitting that they should please Allah and His Messenger, if they are believers (62)Know they not that whoever opposes and shows hostility to Allah and His Messenger, certainly for him will be the fire of Hell to abide therein.
+
+**Classical tafsir:** Ibn Kathir notes: Allah Almighty corrected them by saying that His Messenger preferred silence against baseless hostilities because of his high morals.
+
+**From the Sunnah:** They swear by Allah to you (Muslims) in order to please you, but it is more fitting that they should please Allah and His Messenger, if they are believers (62)Know they not that whoever opposes and shows hostility to Allah and His Messenger, certainly for him… If what Muhammad says is true, they are worse than donkeys.' A Muslim man heard him and declared, 'By Allah!
 ## Personal Reflections
 
 

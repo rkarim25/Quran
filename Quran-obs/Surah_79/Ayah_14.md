@@ -186,6 +186,15 @@ The readers are referred to a special research and analysis by the Baihaqi of hi
 
 The Holy Prophet ﷺ used to be hurt by the stubbornness of the obdurate rejecters of Resurrection. The next verses recount the story of Musa (علیہ السلام) and Fir'aun to console him, and to show that the adverse attitude of the pagans is not confined to him. The previous prophets have also faced similar situations, but they endured them with patience. The Holy Prophet ﷺ too should exercise patience and fortitude.
 
+## AI Translation
+
+and at once they will be above ground.
+
+## AI Tafsir
+
+**What this ayah teaches:** Here the learned commentator has added some more details which dispose of many doubts which arise from the above Tradition: The human soul is a refined body which permeates the dense material body.
+
+**Classical tafsir:** Ibn Kathir notes: The statement that 'the soul is in ` Alam-ul-arwah or ` illiyyun' is also true, because the 'soul' in this context refers to ruh mujarrad or 'abstract spirit'.
 ## Personal Reflections
 
 

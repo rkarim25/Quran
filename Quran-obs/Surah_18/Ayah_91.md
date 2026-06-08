@@ -66,6 +66,15 @@ The Holy Qur'an does describe this state of the people Dhul-Qarnain found living
 
 However, it is obvious that these people too were infidels and Dhul-Qarnain handled them the way he had handled the people he had found in the West as mentioned earlier. But, describing it again at this place was not considered necessary since finding it out is also possible on the analogy of the previous event. (As in al-Bahr al-Muhit from Ibn Atiyyah)
 
+## AI Translation
+
+So it was. And We truly had full knowledge of him.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then he followed (another) way (89)Until, when he came to the rising place of the sun, he found it rising on a people for whom We (Allah) had provided no shelter against the sun (90)So (it was)!
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

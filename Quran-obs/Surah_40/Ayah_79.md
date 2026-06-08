@@ -70,6 +70,15 @@ Allah reminds His servants of His blessing in that He created the cattle [Al-An'
 
 In verse 77, it was said: فَاصْبِرْ‌ إِنَّ وَعْدَ اللَّـهِ حَقٌّ فَإِمَّا نُرِ‌يَنَّكَ (Therefore, be patient. Surely, the promise of Allah is true. Then, whether We show you [ in your life ] a part of the promise We are making to them, or make you die [ before they are punished ], in any case they have to be returned to Us). From this verse it appears that the Holy Prophet ﷺ was hopefully waiting for the disbelievers to be punished. Therefore, it was to comfort him that he was asked to be somewhat patient about it. The promise of Allah for them, that they will be punished, will certainly be fulfilled - may be during his lifetime, or after he has departed from the mortal world. Waiting for the disbelievers to be punished apparently seems contrary to the dignity of one who was sent with universal mercy. But, here the matter is different. When the purpose of punishing criminals is to bring comfort to innocent believers who were oppressed, then, the punishment of criminals is not contrary to compassion and mercy. Nobody regards the punishment given to a criminal against the dictate of mercy.
 
+## AI Translation
+
+It is Allah who made cattle for you so that you may ride some and eat others.
+
+## AI Tafsir
+
+**What this ayah teaches:** Cattle are eaten and their milk is drunk; they are also used for plowing the earth.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, it was to comfort him that he was asked to be somewhat patient about it.
 ## Personal Reflections
 
 

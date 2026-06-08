@@ -161,6 +161,17 @@ And go away from you and what you invoke besides Allah. And I shall invoke my Lo
 
 On the one hand Sayyidna Khalilullah (علیہ السلام) went to the extreme to show his respect and love for his father, which has been described above, and on the other hand he did not allow the slightest doubt to be cast on his expression of the universal truth (حق) or on his total belief in it. He accepted willingly his father's orders to leave the house and also made it known that he had totally dissociated himself from his (father's) idols and addressed his prayers only to Allah.
 
+## AI Translation
+
+As I leave you and what you invoke besides Allah, I will call upon my Rabb alone, trusting I will never be disappointed in calling upon Him."
+
+## AI Tafsir
+
+**What this ayah teaches:** And I shall call upon my Lord, and I certainly hope that I shall not be unblessed in my invocation to my Lord. For verily, he (Ibrahim) is the leader of the Prophets other than Muhammad ﷺ.
+
+**Classical tafsir:** Ibn Kathir notes: Then Allah explains that Ibrahim abandoned this statement and retracted it.
+
+**From the Sunnah:** Forgive me and my parents, and (all) the believers on the Day when the reckoning will be established.)[14:41] From this tradition, during the beginning stages of Islam, the Muslims used to seek forgiveness for their relatives and their family members who were…
 ## Personal Reflections
 
 

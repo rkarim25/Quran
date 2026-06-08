@@ -124,6 +124,15 @@ Here, "and whatever spending you do" covers all spendings - those in which all r
 
 Similarly, all votive offerings (نذور : nudhur) come under the general purview of (nadhr نذر : singular: votive offering), for instance, it includes the nadhr نذر of monetary ` ibadah in accordance with which nadhr نذر has been introduced alongwith infaq (spending) and may also include nadhr نذر of physical ` ibadah. It may be absolute, or dependent on something else; or it may or may not have been fulfilled. The purpose of saying all this is that Allah Almighty knows all these things and He shall recompense for them duly. This was made known so that people are persuaded to observe limits and conditions and be warned of their non-observance. The word (al-zalimin الظَّالِمِينَ ) in the text refers to the unjust, the transgressors, who do not observe the necessary conditions. To them was given clear warning.
 
+## AI Translation
+
+Whatever you spend in charity or vow to give — Allah knows it. The wrongdoers have no helpers.
+
+## AI Tafsir
+
+**What this ayah teaches:** And for the wrongdoers there are no helpers (270)If you disclose your Sadaqat (almsgiving), it is well; but if you conceal them and give them to the poor, that is better for you.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, you will gain goodness by your rank being raised, and your sins being forgiven.
 ## Personal Reflections
 
 

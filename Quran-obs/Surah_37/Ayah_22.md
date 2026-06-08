@@ -96,6 +96,15 @@ In verse 22, it was said: احْشُرُ‌وا الَّذِينَ ظَلَمُ�
 
 In addition to that, by saying: وَمَا كَانُوا يَعْبُدُونَ (and whatever they used to worship - 37:22), it was expressly laid out that, along with the Mushriks, all those false objects and entities like idols and shaitans they used to worship and equate with Allah as His associates in the life of the world will all be mustered together - so that, at that time, the helplessness of these false objects of worship could be demonstrated publicly.
 
+## AI Translation
+
+Allah will say to the angels: "Gather all the wrongdoers along with their peers, and whatever they used to worship
+
+## AI Tafsir
+
+**What this ayah teaches:** The Day of Recompense Allah tells us what the those who reject the truth will say on the Day of Resurrection, how they will blame themselves and admit that they wronged themselves in this world. Allah will command the angels to separate the those who reject the truth from the believers in the place where they are standing.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -204,6 +204,17 @@ Apparently, there seems to be a discrepancy between the two verses. The narrativ
 
 Mazhari has interpreted verse [ 5] of Surah As-Sajdah differently. He says that the day of a thousand years mentioned here refers to one of the days of the phenomenal world. Jibra'il (علیہ السلام) and other angels with him descend from the heavens to the earth and then ascend from the earth to the heavens. This is such a long journey that if man were to undertake it, it would take him a thousand years. Authentic ahadith report that the journey from heavens to earth takes five hundred years and the journey back from earth to the heaven takes another five hundred years, totalling a thousand years according to human travelling. Assuming man were to conquer this distance, a return journey would take him a thousand years between heavens and earth and back, although the angels cover this distance in a very short time. In short, verse [ 5] of Surah As-Sajdah refers to a day of the phenomenal world while the verse of Surah Al-Ma` arij refers to the Day of Judgment which will be very much longer than the days of this world, the length and shortness of which will be experienced differently by different people according to their conditions. And Allah, the Pure and Exalted, knows best!
 
+## AI Translation
+
+by which the angels and the holy spirit ascend to Him on a Day whose length is fifty thousand years.
+
+## AI Tafsir
+
+**What this ayah teaches:** The angels and the Ruh ascend to Him in a Day the measure whereof is fifty thousand years.)(5. The Length of the Day of Judgment - A thousand years or Fifty Thousand Years?
+
+**Classical tafsir:** Ibn Kathir notes: He says that the day of a thousand years mentioned here refers to one of the days of the phenomenal world.
+
+**From the Sunnah:** Then the man said, 'O Abu Hurayrah what is this?' Abu Hurayrah replied, 'I heard the Messenger of Allah ﷺ say, In this narration (of Ahmad) the Prophet ﷺ also added,
 ## Personal Reflections
 
 

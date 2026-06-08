@@ -84,6 +84,15 @@ Al-'Awfi reported from Ibn 'Abbas that this means everything on it would be wipe
 
 It was said in verse 7: إِنَّا جَعَلْنَا مَا عَلَى الْأَرْ‌ضِ زِينَةً لَّهَا (Surely, We have made what is on earth an adornment for it) with reference to all living forms, vegetation, mountains, minerals and everything else present on the earth. They are its embellishment. That there are snakes, scorpions, beasts and many harmful and fatal things may lead someone to doubt as to how can they be called 'an adornment for it.' This doubt is unfounded because everything in this world considered harmful, fatal or plain bad may be so in a restricted sense but, in terms of the totality of creation, nothing is bad. Everything, no matter how bad, has been invested with many benefits by Allah Ta’ ala on other counts. The medical use of poisonous and fatal life forms in the interest of human beings is an example. Therefore, things that are considered even bad are not that bad in terms of the function of this entire universe.
 
+## AI Translation
+
+And We will certainly reduce whatever is on it to barren ground.
+
+## AI Tafsir
+
+**What this ayah teaches:** Perhaps, you would kill yourself in grief, over their footsteps, because they believe not in this narration (6)Verily, we have made that which is on earth an adornment for it, in order that We may test which of them are best in deeds (7)And verily, We shall make all that is on it bare, dry soil .
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said: "a dry and barren plain." Qatadah said, "A plain on which there are no trees or vegetation."
 ## Personal Reflections
 
 

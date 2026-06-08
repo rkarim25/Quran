@@ -126,6 +126,15 @@ Imam Ahmad recorded that 'Ali said, "Whenever I hear anything from the Messenger
 
 In the sixth verse (110), we can once again see the wise way of the Qur'an at work when, in order to save sinners from total disappointment, it was said that a sin was a sin, big or small. When a sinner repents and seeks Allah's forgiveness, he finds Him forgiving, merciful. As obvious, there is an element of persuasion for those who have committed sin suggesting that they still had the time and the hope to just desist and repent sincerely; nothing is lost, Allah will forgive everything.
 
+## AI Translation
+
+Whoever commits evil or wrongs themselves then seeks Allah’s forgiveness will certainly find Allah All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, ar-Rahim.) 111. When a sinner repents and seeks Allah's forgiveness, he finds Him forgiving, merciful.
+
+**Classical tafsir:** Ibn Kathir notes: The Encouragement to Seek Allah's Forgiveness, and Warning those who Falsely Accuse Innocent People Allah emphasizes His generosity and kindness, in that He forgives whoever repents to Him from whatever evil they commit.
 ## Personal Reflections
 
 

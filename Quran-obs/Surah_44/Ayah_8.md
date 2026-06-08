@@ -140,6 +140,17 @@ Some other scholars of Tafsir, like ` Ikrimah ؓ ، interpret the phrase 'laylah
 
 Because some versions of the Tradition state that births, deaths and sustenance are decreed in the night of immunity or 15th night of Sha'ban, some of the scholars have interpreted the phrase 'laylah mubarakah' in the current verse as referring to 'laylat-ul-bara'ah' or 'the Night of Immunity'. But this is not correct, because here the revelation of the Qur'an is mentioned first; and its revelation in the month of Ramadan is confirmed by the clear texts of the Qur'an. Some versions state that sustenance and other things are decreed in the Night of Immunity. Ibn Kathir, first of all, says this Tradition is mursal and such Tradition cannot be reliable in the presence of clear/express texts. Qadi Abu Bakr Ibn ` Arabi asserts that no authentic Tradition relating to mid-Sha'ban is available which may show that sustenance, births and deaths are determined and decreed in that night. He further rejects the idea that there is any reliable Tradition on the merit of this night. Ruh-ul-Ma` ani, however, cites a Tradition, without a chain of transmitters, narrated by Sayyidna Ibn ` Abbas ؓ in which he says that sustenance, life and death are determined in the mid-Sha'ban night, and in the Night of Power the decrees are handed over to the angels. If this Tradition is confirmed, then the two interpretations can be reconciled and synchronized. Otherwise, the express words of Qur'an and authentic Traditions relating to 'laylah mubarakah' and 'fiha yufraqu...' in the verse of Surah Dukhan فِيهَا يُفْرَ‌قُ clearly show that they refer to the 'Night of Power'. As far as the merit of the night of mid-Sha'ban is concerned, it is a separate issue. Some Traditions do speak about it but they are weak. Therefore, Qadi Abu Bakr Ibn ` Arabi denied any merit of this night. Chains of Transmission of Traditions concerning mid-Sha'ban are all weak but, it may be suggested that, if the various ways of transmission are put together, they gain strength. Therefore, many great scholars have accepted the Traditions about mid-Sha'ban because there is room to act upon weak Traditions relating to meritorious actions. Allah knows best!
 
+## AI Translation
+
+There is no god worthy of worship except Him. He alone gives life and causes death. He is your Lord, and the Lord of your forefathers.
+
+## AI Tafsir
+
+**Context:** The statement that the Qur’ an was revealed in the Night of Power’ means that it was revealed in its entirety from the Preserved Tablet to the lowest Firmament in one night of the month of Ramadan.
+
+**What this ayah teaches:** We have already quoted the relevant Hadiths in (the Tafsir of) Surat Al-Baqarah, and there is no need to repeat them here.
+
+**Classical tafsir:** Ibn Kathir notes: Because some versions of the Tradition state that births, deaths and sustenance are decreed in the night of immunity or 15th night of Sha'ban, some of the scholars have interpreted the phrase 'laylah mubarakah' in the current verse as referring to 'laylat-ul-bara'ah' or 'the Nigh…
 ## Personal Reflections
 
 

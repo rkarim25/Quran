@@ -196,6 +196,17 @@ Ruling
 
 This verse proves that optional charities may be spent on non-Muslim citizens of an Islamic State and on non-Muslims with whom the Muslims have a peace pact. It is, however, forbidden to spend on non-believers who are at war with Muslims.
 
+## AI Translation
+
+Allah does not forbid you from dealing kindly and fairly with those who have not fought you for your faith nor driven you from your homes. Allah loves those who are fair.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, He is the Oft-Forgiving, the Most-Merciful to those who repent to Him from their sins, no matter what type of the sin it is.
+
+**Classical tafsir:** Ibn Kathir notes: The focus of the verse, therefore, is upon the direction that they should be treated, not only with justice, but also in good and courteous manner.
+
+**From the Sunnah:** I came to the Prophet ﷺ and said, 'O Allah's Messenger! (Musnad Ahmad) 'A'ishah asked the Prophet ﷺ about his verdict and Allah sent down the Ayah, (Musnad Ahmad)
 ## Personal Reflections
 
 

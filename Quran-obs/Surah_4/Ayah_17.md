@@ -234,6 +234,19 @@ This is the Court of My Presence, not the Court of Despair.
 
 Even if you have broken (the promise in) your repentance a hundred times, come again!
 
+## AI Translation
+
+Allah only accepts the repentance of those who commit evil ignorantly then repent soon after—Allah will pardon them. And Allah is All-Knowing, All-Wise.
+
+## AI Tafsir
+
+**Context:** (nor of those who die while they are those who reject the truth), was revealed about the people of Shirk. Imam Ahmad recorded that Usamah bin Salman said that Abu Dharr said that the Messenger of Allah ﷺ said,
+
+**What this ayah teaches:** Repentance is Accepted Until one Faces death Allah states that He accepts repentance of the servant who commits an error in ignorance and then repents, even just before he sees the angel who captures the soul, before his soul reaches his throat.
+
+**Classical tafsir:** Ibn Kathir notes: At does "shortly" signify and how much time will come within the limit of "shortly"?
+
+**From the Sunnah:** This Hadith was also collected by At-Tirmidhi and Ibn Majah, and At-Tirmidhi said, "Hasan Gharib".
 ## Personal Reflections
 
 

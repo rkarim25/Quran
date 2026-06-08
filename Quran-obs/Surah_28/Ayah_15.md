@@ -224,6 +224,15 @@ Commentary
 
 فَوَكَزَهُ مُوسَىٰ (So Musa struck him with his fist). Wakaza (وَكَزَ ) means to box فَقَضَىٰ عَلَيْهِ (28:15). The phrase of Qadahu (قَضَاہ) and Qada 'Alaihi (فَقَضَىٰ عَلَيْهِ ) is used when one is totally finished. Hence, here it means that he killed him. (Mazhari)
 
+## AI Translation
+
+One day he entered the city unnoticed by its people. There he found two men fighting: one of his own people, and the other of his enemies. The man from his people called to him for help against his foe. So Moses punched him, causing his death. Moses cried, “This is from Satan’s handiwork. He is certainly a sworn, misleading enemy.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Most commentators have interpreted that the word 'city' is used here for the main city of Egypt.
+
+**Classical tafsir:** Ibn Kathir notes: Most commentators have interpreted that the word 'city' is used here for the main city of Egypt.
 ## Personal Reflections
 
 

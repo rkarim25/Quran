@@ -127,6 +127,15 @@ Haafiz Ibn Al-Qayyim has drawn an outstanding rule from this verse that the pref
 
 In the same way, many places of the world are preferred over other places, and many days and nights have preference over the normal days and nights. In short, the original standard of preference in the entire universe is His prerogative and selection. However, at times , human acts may also become a cause of preference in the sense that those performing righteous acts are preferred over the others, and the places where such people live or perform virtuous acts may also acquire preference over other places. This preference can be gained by sincerity of effort and righteous deeds. The gist of this discussion is that the basis of preference in the world is dependent on two things. One is beyond one's control and rests entirely on the selection of Allah Ta’ ala, and the other is within the ability of human beings and may be achieved by righteous deeds and superior morals. Allamah Ibn al-Qayyim (رح) has deliberated in great detail on this subject and has concluded that the four Rightly Guided Caliphs have precedence over all other companions of the Prophet ﷺ . Then Sayyidna Abu Bakr ؓ has preference over other three Caliphs. After that Sayyidna ` Umar Ibn al-Khattab ؓ has preference over the other two, and Sayyidna ` Uthman ؓ over Sayyidna 'Ali ؓ . He has proved this sequence with the help of two standards discussed above. Shah Abdul Aziz Dehlavi (رح) has also written a booklet on this subject in Persian language, which I have translated in Urdu and Arabic. Urdu translation has been published under the title (بَعض التفسصِیل لمَسٔلۃ التفضیل) and Arabic translation is included in my book Ahkam al-Qur'an, under Surah Al-Qasas. This is a research work that would be of interest to scholars.
 
+## AI Translation
+
+He is Allah. There is no god worthy of worship except Him. All praise belongs to Him in this life and the next. All authority is His. And to Him you will all be returned.
+
+## AI Tafsir
+
+**What this ayah teaches:** Glorified is Allah, and exalted above all that they associate (68)And your Lord knows what their breasts conceal, and what they reveal (69)And He is Allah; La ilaha illa Huwa, His is the praise in the first and in the last, and His is the decision, and to Him shall you be returned .
+
+**Classical tafsir:** Ibn Kathir notes: - 43:31) that is, ` If Allah had wished to reveal this Qur'an He should have revealed it on some dignitary of Makkah or Ta'if, so that he should have had respect and reverence.
 ## Personal Reflections
 
 

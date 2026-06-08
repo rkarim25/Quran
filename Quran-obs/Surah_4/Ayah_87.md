@@ -227,6 +227,19 @@ Abu Dawud recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
 
 After that comes verse 87 اللَّـهُ لَا إِلَـٰهَ إِلَّا هُوَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ الْقِيَامَةِ لَا رَ‌يْبَ فِيهِ which means that there is no object worthy of worship other than Allah. So, it exhorts: Believe in Him as the only object of your worship and whatever you do let that be with the intention of an act of worship or ` ibadah before Him. He will gather everyone on the Day of Qiyamah, the fateful Day of Doom, in which there is no doubt. That will be the Day when He will give everyone the return for whatever deeds he will come up with the promise that Qiyamah will come and the news that there will be reward and punishment at that time is all true. This is true because this °news° of what will happen is given by Allah, وَمَنْ أَصْدَقُ مِنَ اللَّـهِ حَدِيثًا - and whose word can be more true than that of Allah?
 
+## AI Translation
+
+Allah, there is no god except Him. He will certainly gather you together on the Day of Judgment—about which there is no doubt. And whose word is more truthful than Allah’s?
+
+## AI Tafsir
+
+**Context:** (Intercede and you will gain a reward of it. Yet, Allah shall decide whatever He wills by the words of His Prophet.) Mujahid bin Jabr said, "This Ayah was revealed about the intercession of people on behalf of each other…
+
+**What this ayah teaches:** Certainly, Allah is Ever a Careful Account Taker of all things (86)Allah!
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the better Salam is recommended, while returning it equally is an obligation.
+
+**From the Sunnah:** For instance, the Prophet ﷺ said to the believers at the battle of Badr, while organizing their lines, Paradise, between each two grades is the distance between heaven and Earth.
 ## Personal Reflections
 
 

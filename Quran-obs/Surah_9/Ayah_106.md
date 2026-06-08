@@ -96,6 +96,17 @@ Allah knows those who deserve the punishment and those who deserve the pardon. H
 
 Let us now turn to the statement: وَآخَرُ‌ونَ مُرْ‌جَوْنَ لِأَمْرِ‌ اللَّـهِ (And there are others whose matter is deferred till the command of Allah - 106). We already know that seven of the ten believers, who had missed the battle of Tabuk without a valid excuse, had demonstrated their heartfelt remorse by tying themselves up to the pillars of the Prophet's Mosque. The injunction which covers them appeared in the first verse (102): آخَرُ‌ونَ اعْتَرَ‌فُوا (And there are others who admitted their sins). Verse 106 is now referring to the other three gentlemen who had not done what the group of seven had done in the Masjid. Thus, they had not admitted their misconduct openly. In their case, the Holy Prophet ﷺ ordered his Companions ؓ to see that Muslims boycott them by not talking to them. When things reached those limits, they learnt their lesson, confessed to their misconduct and repented sincerely, following which orders were given for their pardon. (Sahib a1-Bukhari and Muslim)
 
+## AI Translation
+
+And some others are left for Allah’s decision, either to punish them or turn to them in mercy. And Allah is All-Knowing, All-Wise.
+
+## AI Tafsir
+
+**Context:** Some Companions stayed behind from the battle of Tabuk due to laziness, preferring comfort, ease, ripe fruits and shade. They did not lag behind because of hypocrisy or doubts.
+
+**What this ayah teaches:** And others are made to await for Allah's Decree, whether He will punish them or will forgive them. Verse 106 is now referring to the other three gentlemen who had not done what the group of seven had done in the Masjid.
+
+**Classical tafsir:** Ibn Kathir notes: Verse 106 is now referring to the other three gentlemen who had not done what the group of seven had done in the Masjid.
 ## Personal Reflections
 
 

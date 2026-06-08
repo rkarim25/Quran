@@ -174,6 +174,15 @@ Here Allah tells us that this righteous man, the believer from among the family 
 
 In verse 35, it was said: كَذَٰلِكَ يَطْبَعُ اللَّـهُ عَلَىٰ كُلِّ قَلْبِ مُتَكَبِّرٍ‌ جَبَّارٍ‌ (That is how Allah stamps a seal on the entire heart of an arrogant tyrant), that is, the way the hearts of Pharaoh and Haman remained unaffected by the good counsel of Sayyidna Musa (علیہ السلام) and the believer from the House of Pharaoh, similarly, Allah Ta’ ala cancels out or puts a seal on the heart of every such person who is arrogant and tyrannical (someone proud and arrogant, someone unjust and oppressive). When this happens, the effect is that the light of faith does not enter that heart, and one is rendered unable to distinguish between good and bad. In one قِرَأت (qira'ah: rendition of the Qur'an), the words for 'arrogant' and 'tyrant' have been identified as attributes of the heart for the reason that the heart is the reservoir of all morals and deeds. Every deed, good or bad, is born in the heart. Therefore, it has been said in Hadith that there is a piece of flesh (heart) in the human body which, when it works right, it makes the whole body work right, and when it goes bad, it makes the whole body go bad. (Qurtubi)
 
+## AI Translation
+
+those who dispute Allah's ayahs with no proof given to them. How despicable is that for Allah and the believers! This is how Allah seals the heart of every arrogant tyrant."
+
+## AI Tafsir
+
+**What this ayah teaches:** When this happens, the effect is that the light of faith does not enter that heart, and one is rendered unable to distinguish between good and bad.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, it has been said in Hadith that there is a piece of flesh (heart) in the human body which, when it works right, it makes the whole body work right, and when it goes bad, it makes the whole body go bad.
 ## Personal Reflections
 
 

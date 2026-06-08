@@ -115,6 +115,15 @@ Allah Ta` ala had sent Sayyidna Hud (علیہ السلام) as a prophet to the 
 
 Three basic principles of the call of faith Sayyidna Hud (علیہ السلام) presented before his people have been mentioned in the first three verses (50-52). One: Belief in Tauhid (Oneness of Allah) and that taking some-one or something else worthy of worship other than Allah is nothing but a lie and fabrication. Two: He was a Messenger of Allah. He had come with the call of Tauhid for them. This was the mission of his life. He was working hard against heavy odds to convey the message to them. Why would he do that? If they thought about it, they would see that he was not asking them to pay for his services, nor did he receive any material benefits from them. If he did not honestly believe it to be the will and command of Allah, and right and true, why would he go to all that trouble of inviting them to believe and live a better life?
 
+## AI Translation
+
+And to the people of ’Âd We sent their brother Hûd. He said, “O my people! Worship Allah. You have none other worthy of worship than Him. You do nothing but fabricate lies against Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** One: Belief in Tauhid (Oneness of Allah) and that taking some-one or something else worthy of worship other than Allah is nothing but a lie and fabrication.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

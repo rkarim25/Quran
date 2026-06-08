@@ -105,6 +105,15 @@ In verse 32, it was said: يَا قَوْمِ إِنِّي أَخَافُ عَل
 
 And it has been reported from Sayyidna Abu Hazim Al-A` raj ؓ that he used to address his own self saying, "0 A'raj, when comes the call on the day of Qiyamah: 'Let those who committed such and such sins stand' - you would be standing with them; and when comes the call: 'Let those who committed such and such sins stand', you would be standing with them too; and when comes the call: 'Let those who committed such and such sins', you would be standing with them too - and I believe, every time a sin is announced, you would have to stand with them (because you have all sorts of sins in store with you!" ) - Reported by Abu Nu'aym - Mazhari.
 
+## AI Translation
+
+O my people, I truly fear for you the Day all will be crying out to one another—
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, I fear for you an end like that day (of disaster) of the groups (of old)! Verily, I fear for you an end like that day (of disaster) of the groups (of old)!) meaning, those of the earlier nations who disbelieved the Messengers of Allah, such as the people of Nuh, 'Ad, Thamud and the disbelieving nations who came after them, how the punishment of Allah came upon them and they had no one to p…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

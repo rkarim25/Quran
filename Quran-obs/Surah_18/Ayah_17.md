@@ -209,6 +209,17 @@ This arrangement of keeping them shielded from direct sunlight could also be con
 
 To put it candidly, Allah Ta` ala had it all arranged for them that sunlight will not reach their bodies. It may have been caused through its particular formation or location or through the barrier of a cloud or something similar when the Sun would start shining, or the very rays of the Sun would be moved away from them in an extraordinary manner. All these probabilities exist within the verse. There is no need to insist upon fixing any of these as the absolute reality.
 
+## AI Translation
+
+And you would have seen the sun, as it rose, inclining away from their cave to the right, and as it set, declining away from them to the left, while they lay in its open space. That is one of the signs of Allah. Whoever Allah guides is truly guided. But whoever He leaves to stray, you will never find for them a guiding mentor.
+
+## AI Tafsir
+
+**What this ayah teaches:** This supports what we have said, and to Allah is the praise.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, Mujahid and Qatadah said that "turning away from them" means that it would shine on them and then leave them.
+
+**From the Sunnah:** If there was any spiritual or religious interest that could be served by our knowing that, Allah and His Messenger would have taught us about it, as the Prophet ﷺ said:
 ## Personal Reflections
 
 

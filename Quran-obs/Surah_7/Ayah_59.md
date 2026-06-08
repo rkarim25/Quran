@@ -164,6 +164,17 @@ Based on a narration of Sayyidna Ibn ` Abbas ؓ عنہما reports Mustadrak of 
 
 The verse of the Qur'an: لَقَدْ أَرْ‌سَلْنَا نُوحًا إِلَىٰ قَوْمِهِ (Surely, We sent Nuh to his people) proves that Sayyidna Nuh (علیہ السلام) was sent as a prophet only to his people. It was not common to the whole world. His people lived in Iraq. They were outwardly civilized but were involved in Shirk. The call given by Sayyidna Nuh (علیہ السلام) to his people was: اعْبُدُوا اللَّـهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُ‌هُ إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ (0 my people, worship Allah. For you there is no god other than Him. I fear for you the punishment of a great Day). In the first sentence, the invitation given is to worship Allah Ta` ula, which is the essence of the principle. In the second sentence, people have been persuaded to shun Shirk and Kufr, something which had spread out like some epidemic among these people. In the third sentence, the purpose is to warn people against the danger of that great punishment which they would have to face in the event they were to do otherwise. This ` great punishment' could mean the punishment of the Hereafter, and the punishment of the Flood in the present world too. (Tafsir Kabir)
 
+## AI Translation
+
+Indeed, We sent Noah to his people. He said, “O my people! Worship Allah—you have no other god except Him. I truly fear for you the torment of a tremendous Day.”
+
+## AI Tafsir
+
+**What this ayah teaches:** In the first sentence, the invitation given is to worship Allah Ta` ula, which is the essence of the principle.
+
+**Classical tafsir:** Ibn Kathir notes: Allah mentioned the story of Nuh, because he was the first Messenger Allah sent to the people of the earth after Adam.
+
+**From the Sunnah:** In his Sahih, Muslim recorded that the Messenger of Allah ﷺ said to his Companions on the Day of 'Arafah, when their gathering was as large as it ever was, (Sahih Muslim)
 ## Personal Reflections
 
 

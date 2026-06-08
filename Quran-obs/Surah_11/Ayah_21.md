@@ -138,6 +138,17 @@ The Sahih of Muslim reports on the authority of Sayyidna Abu Hurairah ؓ that th
 
 This should remove the misunderstanding of those who regard the Jews and Christians or the adherents of other religions as being on haqq (the truth) on the basis of some outward deeds and consider these to be sufficient for salvation without having faith in the Holy Prophet ﷺ and the Qur'an. This is an open clash with the present ayah of the Holy Qur'an, and the authentic ahadith. اَلعَیَاذ بِاللہ (Allah may save us from that! )
 
+## AI Translation
+
+It is they who have ruined themselves, and whatever gods they fabricated will fail them.
+
+## AI Tafsir
+
+**What this ayah teaches:** They could not bear to listen and they used not to see (the truth)(20)They are those who have lost their own selves, and that which they invented eluded them (21)Certainly, they are those who will be the greatest losers in the Hereafter .
+
+**Classical tafsir:** Ibn Kathir notes: Those Who invent Lies against Allah and hinder Others from His Path are the Greatest Losers Allah, the Exalted, explains the condition of those who lie against Him and that their scandal in the Hereafter will be presented before the heads of creation (for testimony) from the ange…
+
+**From the Sunnah:** This is just as Imam Ahmad recorded from Safwan bin Muhriz. (Musnad Ahmad)
 ## Personal Reflections
 
 

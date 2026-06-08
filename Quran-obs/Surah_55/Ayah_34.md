@@ -100,6 +100,15 @@ This Verse does not point to Space Exploration by Rockets and Sputniks
 
 In the present scientific age, experiments are being conducted in an effort to come out of the gravity of the earth and to explore the heavenly bodies by rockets, sputniks and other spacecrafts. Obviously, none of these experiments are conducted beyond the bounds of the heaven. In fact, they are far below the surface of the heaven, let alone crossing the heavenly confines. Thus this verse has no bearing on space travels and reported incidents of reaching some of the heavenly bodies. Some simple-minded people posit this verse as the basis of demonstrating the possibility of space travels, whereas these simpletons are merely displaying ignorance about the actual meaning of the Qur'an.
 
+## AI Translation
+
+So which of your Rabb's favours will you both—humans and jinn—deny?
+
+## AI Tafsir
+
+**What this ayah teaches:** We shall attend to you, O Thaqalan (31)Then which of the blessings of your Lord will you both deny (32)O assembly of Jinn and men!
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "Molten brass poured over their heads." Qatadah held the same view. But he said that the scholars of Qur'anic recitation said that in this Ayah, the word recited is Nuhas.
 ## Personal Reflections
 
 

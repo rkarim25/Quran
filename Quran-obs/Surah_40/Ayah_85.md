@@ -148,6 +148,15 @@ Surah Al-Mu'min
 
 [ Ghafir ]
 
+## AI Translation
+
+But their faith was of no benefit when they saw Our torment. This has always been Allah's way of dealing with His wicked servants. Then and there those who reject the truth were in total loss.
+
+## AI Tafsir
+
+**What this ayah teaches:** That is because when the Messengers came to them with clear signs and decisive evidence, they did not pay any attention to them.
+
+**Classical tafsir:** Ibn Kathir notes: The Lesson to be learned from what happened to Those Who Came before Allah tells us about the nations who rejected their Messengers in ancient times.
 ## Personal Reflections
 
 

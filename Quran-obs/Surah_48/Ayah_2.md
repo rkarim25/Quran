@@ -174,6 +174,19 @@ Definition of Hidayah
 
 Hidayah has been defined as to show the path or to lead someone gently and kindly towards his destination. The real destination of man is to attain Allah's pleasure and his proximity. The degrees of pleasure and proximity are unlimited. Having attained the first degree, man needs to go for the next one, then he should aim for the third one and so on to no end. Not any man, Muslim, saint or prophet is above the need of such spiritual and moral attainment. Therefore, the instruction to pray for right guidance in the first Surah is not only to the Muslim Community, but also to the Holy Prophet ﷺ . He is to soar higher and higher in the path of spiritual and moral attainment. Allah has, in this manifest victory, raised the Holy Prophet ﷺ to the highest pinnacles of spiritual eminence which is described by the clause yahdiyaka.
 
+## AI Translation
+
+So that Allah may forgive you what came before and what follows, complete His favour upon you, and guide you on the Straight Path.
+
+## AI Tafsir
+
+**Context:** This honorable Surah was revealed after the Messenger of Allah ﷺ returned from the area of Al-Hudaybiyyah, during the month of Dhul-Qa'dah, in the sixth year of Hijrah.
+
+**What this ayah teaches:** That Allah may forgive you your sins of the past and the future, and complete His favor on you, and guide you on the straight path,)(3. The first bounty is forgiveness of all his past and future shortcomings.
+
+**Classical tafsir:** Ibn Kathir notes: If the particle "lam" (translated above as 'so that' ) is taken to be for "ta'lil", it indicates the purpose for which, and the reason why, such a manifest Victory is given to the Holy Prophet ﷺ .
+
+**From the Sunnah:** Allah's Messenger ﷺ recited Surah Al-Fath on the (day) of the conquest of Makkah, riding on his she-camel.
 ## Personal Reflections
 
 

@@ -174,6 +174,15 @@ spirit of a community
 
 The statement given in the verse also tells us something crucial about the life of a community or nation (of true believers) - , that its `.Ulama' and Mashaikh are its real movers and makers, the very spirit of the system. Until such time that there are present in the society (genuine) ` Ulama' and Mashaikh, who would not follow their worldly desires (in matters of Din and public good of Believers) motivated by nothing but the fear of Allah and answerability before Him, then, the community or nation in which they are shall never be deprived of real good and real blessing.
 
+## AI Translation
+
+As for those who reject the truth and reject Our signs, they will be the residents of the Hellfire.
+
+## AI Tafsir
+
+**Context:** Sa'id bin Jubayr, As-Suddi and others said that these Ayat were revealed concerning a delegation that An-Najashi (King of Ethiopia) sent to the Prophet ﷺ in order to hear his words and observe his qualities.
+
+**What this ayah teaches:** Such is the reward of good-doers (85)But those who disbelieved and belied Our Ayat, they shall be the dwellers of Hell . Commentary Some Votaries of the Truth among the People of the Book Mentioned in these verses are those among the people of the Book who, had no feelings of malice or enmity for Muslims because of their godliness and tilt towards truth.
 ## Personal Reflections
 
 

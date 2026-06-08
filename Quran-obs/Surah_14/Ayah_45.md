@@ -157,6 +157,15 @@ And you dwelt in the dwelling of those who wronged themselves, and it became cle
 
 as obvious, the address is to the Mushriks of Arabia. These were the people the Holy Prophet was asked to warn: وَأَنذِرِ‌ النَّاسَ (And warn the people - 44). In this address, they have been asked to take their guard against what could happen to them as a result of their heedlessness. They could learn a lesson from what had happened to past peoples. The conditions they faced and the revolutions that overtook them could be-come their teacher. Yet, it is astonishing that they would still prefer not to learn a lesson - even though, they live in the very homes once occupied by peoples destroyed in punishment and walk around neighbourhoods once walked by them. The truth is that they know by direct observation, and by what some continuing reports have told them that terrible was the punishment which Allah Ta’ ala inflicted on them because of their acts of disobedience. The advice and the examples given here were to bring them to see truth and take the straight path, but it was certainly strange that they would still not listen and learn to act right.
 
+## AI Translation
+
+You passed the ruins of those who wronged themselves. It was made clear how We dealt with them, and We gave you many examples.
+
+## AI Tafsir
+
+**What this ayah teaches:** Yet, it is astonishing that they would still prefer not to learn a lesson - even though, they live in the very homes once occupied by peoples destroyed in punishment and walk around neighbourhoods once walked by them.
+
+**Classical tafsir:** Ibn Kathir notes: The truth is that they know by direct observation, and by what some continuing reports have told them that terrible was the punishment which Allah Ta’ ala inflicted on them because of their acts of disobedience.
 ## Personal Reflections
 
 

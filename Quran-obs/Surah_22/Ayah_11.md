@@ -179,6 +179,19 @@ Commentary
 
 (And among men there is one who worships Allah (standing) on the verge - 22:11.) Bukhari and Ibn Abi Haim have related from Sayyidna Ibn ` Abbas ؓ that when the Holy Prophet ﷺ migrated to Madinah, people flocked to him and accepted the new religion. But there were some among them whose conversion to Islam was far from being genuine, and whose sole motive for their action was to seek self-advancement, and they lacked conviction. If, after becoming Muslims, favorable circumstances resulted in an increase in their prosperity and their children, they thought Islam was a very good religion, but they were equally ready to condemn it if things went against their personal interests. This verse was revealed to describe such people who were mere opportunists and were easily swayed either way depending on where their selfish interests lay.
 
+## AI Translation
+
+And there are some who worship Allah on the verge of iman: if they are blessed with something good, they are content with it; but if they are afflicted with a trial, they relapse into rejection of the truth, losing this dunya and the Akhirah — the everlasting life after death. That is truly the clearest loss.
+
+## AI Tafsir
+
+**Context:** (And among men there is one who worships Allah (standing) on the verge - 22:11.) Bukhari and Ibn Abi Haim have related from Sayyidna Ibn ` Abbas ؓ that when the Holy Prophet ﷺ migrated to Madinah, people flocked to him a…
+
+**What this ayah teaches:** And among mankind is he who worships Allah as it were upon the edge: if good befalls him, he is content therewith; but if a Fitnah strikes him, he turns back on his face.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** If, after becoming Muslims, favorable circumstances resulted in an increase in their prosperity and their children, they thought Islam was a very good religion, but they were equally ready to condemn it if things went against their personal interests.
 ## Personal Reflections
 
 

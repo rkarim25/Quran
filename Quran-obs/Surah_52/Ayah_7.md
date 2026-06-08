@@ -162,6 +162,19 @@ Sayyidna ` Umar ؓ one day recited Surah Tur. When he came to these verses, he h
 
 Sayyidna Jubair Ibn Mut'im ؓ says that before embracing Islam, he once went to the holy city of Madinah to negotiate regarding the prisoners of the battle of Badr. When he arrived there, the Holy Prophet ﷺ was reciting Surah Tur in Maghrib salah and his voice could be heard outside the mosque. When he recited verses [ 7] and [ 81: 'The punishment of your Lord is sure to fall. There is nothing to push it back,' He suddenly felt that his heart would burst through fear. He instantly embraced Islam. He felt at the time that he would not be able to move unless the torment would descend on him. (Qurtubi)
 
+## AI Translation
+
+your Rabb's punishment will certainly come to pass.
+
+## AI Tafsir
+
+**Context:** (And by the Book inscribed), it is said that it means Al-Lawh Al-Mahfuz, (the Preserved Table). It is also said that is refers to the divinely revealed inscribed Books that people recite, and this is why Allah said,
+
+**What this ayah teaches:** When he recited verses [ 7] and [ 81: 'The punishment of your Lord is sure to fall.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** And by Al-Bayt Al-Ma'mur.) In the Two Sahihs it is confirmed that the Messenger of Allah ﷺ said in the Hadith about Al-Isra', after ascending to the seventh heaven:
 ## Personal Reflections
 
 

@@ -169,6 +169,17 @@ Allah the Exalted and Most Honored said, while delivering the glad tidings to th
 
 هُوَ الَّذِي أَرْ‌سَلَ رَ‌سُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ (He is the One who has sent His Messenger ﷺ with Guidance and the religion of truth, so that He makes it prevail over all religions....48:28). In the preceding verses, promises were made about conquests and spoils of war; reference was made to the special merits of the participants of Hudaibiyah and general merits of all the noble Companion ؓ ; and glad tidings were given to them. Now at the conclusion of the Surah all these themes are summarized and emphasized. Because these blessings were showered and the glad tidings were given as a result of accepting and obeying the Holy Prophet ﷺ ، the verse lays further stress on strengthening the acceptance and obedience of the Holy Prophet ﷺ . It also denounces those who reject the messenger-ship of the Holy Prophet ﷺ and allays suspicions of those Muslims who were dissatisfied with the terms and provisions of the Treaty of Hudaibiyah. The verse in addition confirms the messenger-ship of the Holy Prophet ﷺ and, giving glad tidings, makes a very bold prophecy to the effect that not only would Islam prevail in Arabia but would also eventually triumph over all other religions.
 
+## AI Translation
+
+He is the One who sent His Messenger with right guidance and the deen of truth, so it may prevail over every other way. Allah is sufficient as Witness.
+
+## AI Tafsir
+
+**What this ayah teaches:** And All-Sufficient is Allah as a Witness .
+
+**Classical tafsir:** Ibn Kathir notes: The Prophet ﷺ did not order them to do Ramal in all the rounds of Tawaf out of pity for them." Al-Bukhari recorded that Ibn 'Abbas said, "In the year when the Prophet ﷺ came as stipulated by the peace treaty, he said, 'Perform Ramal.' So that the idolators may witness their strength.
+
+**From the Sunnah:** In a dream, the Messenger of Allah ﷺ saw himself entering Makkah and performing Tawaf around the House. The Prophet ﷺ hired the (defeated) Jews of Khaybar to attend to a part of its green fields and divided the province among those who attended Al-Hudaybiyyah with him.
 ## Personal Reflections
 
 

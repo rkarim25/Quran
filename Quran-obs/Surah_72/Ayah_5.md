@@ -164,6 +164,17 @@ Ibn Abi Hatim recorded from 'Ikrimah that he said, "The Jinns used to fear human
 
 The word shatat means 'vile words, extravagant or exorbitant or enormous lies'. The word also means 'to transgress or act wrongfully, unjustly or exceed the legitimate bounds'. The believers from amongst Jinn used to put forward their excuse for being involved in disbelief and idolatry thus: The foolish people from amongst their nation uttered vile slander against Allah, whilst they did not think it possible for a human being or a Jinn to impute a lie to Allah. They were thus far caught up in the foolish people's vile words and committed kufr and shirk, but they had now heard the Qur'an and the reality had later opened up.
 
+## AI Translation
+
+We had assumed that humans and jinn would never fabricate lies about Allah.
+
+## AI Tafsir
+
+**Context:** (1. Say: "It has been revealed to me that a group of Jinn listened. They said: 'Verily, we have heard a wonderful Recitation!')(2.
+
+**What this ayah teaches:** 'And that the foolish among us used to utter against Allah that which was an enormity in falsehood.')(5. They used to seek refuge with the greatest Jinn of a particular place so that no harm or evil would afflict them.
+
+**Classical tafsir:** Ibn Kathir notes: Then he would say, 'I seek refuge with the master (Jinn) of this valley from the Jinns, or that myself, my wealth, my child or my animals are harmed in it.'" Qatadah said, "When they sought refuge with them instead of Allah, the Jinns would overcome them with harm because of that." Ibn Abi Hatim rec… This means that when the Jinns accepted Islam and believed in the Qur'an they professed Allah's magn…
 ## Personal Reflections
 
 

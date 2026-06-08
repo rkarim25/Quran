@@ -155,6 +155,17 @@ Certain rules for preaching
 
 It shows that an important trait of preaching carried out by the prophets was that they used to convey the truth to people continuously. Rejection and falsifying of truth did not deter them at all from their mission. Instead, if someone did not listen to them the first time, they repeated it the second time, and if they did not succeed even the second time, they used to reiterate it a third time, and so on, without showing any sign of exhaustion. It is true that no preacher or sympathizer has power to change one's heart, but what the prophets could do was to keep on making their efforts without being dishearted or exhausted. Even today the same principle applies, and those who preach should take a serious note of it.
 
+## AI Translation
+
+Indeed, We have steadily delivered the Word of Allah to the people so they may be mindful.
+
+## AI Tafsir
+
+**Context:** (Verily, we have heard a Book sent down after Musa, confirming what came before it)(46:30). Waraqah bin Nawfal said, "This is An-Namus, who came down to Musa." And those who are possessed of insight know instinctively th…
+
+**What this ayah teaches:** Verily, Allah guides not the people who are wrongdoers (50)And indeed now We have conveyed the Word to them, in order that they may remember .
+
+**Classical tafsir:** Ibn Kathir notes: Verily, Allah guides not the people who are wrongdoers (50)And indeed now We have conveyed the Word to them, in order that they may remember .
 ## Personal Reflections
 
 

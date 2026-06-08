@@ -135,6 +135,15 @@ Sayyidna Jabir Ibn ` Abdullah ؓ has stated that when Allah Almighty wants the w
 
 فِي أَيَّامٍ نَّحِسَاتٍ (in unlucky days....41:16). It is established by the principles of Islam and ahadith of the Holy Prophet ﷺ that no day or night is in itself unlucky or ill-omened. The days of the windstorm over the people of ` Ad have been called ` unlucky' because those days had become ill-omened for them due to their misdeeds. It does not necessarily mean that those days were ill-omened for everybody. (Mazhari and Bayan-ul-Qur’ an). The detailed investigation as to whether anything can be ill-omened by its nature can be seen in the author's book Ahkam-ul-Qur'an Vol. 5 in Arabic)
 
+## AI Translation
+
+And We delivered those who were faithful and lived with taqwa—Allah-consciousness as though Allah sees you.
+
+## AI Tafsir
+
+**What this ayah teaches:** But surely the torment of the Hereafter will be more disgracing, and they will never be helped (16)And as for Thamud, We showed them the path of truth but they preferred blindness to guidance; so the Sa'iqah of disgracing torment seized them because of what they used to earn (17)And We saved those who believed and had Taqwa .
+
+**Classical tafsir:** Ibn Kathir notes: But surely the torment of the Hereafter will be more disgracing, and they will never be helped (16)And as for Thamud, We showed them the path of truth but they preferred blindness to guidance; so the Sa'iqah of disgracing torment seized them because of what they used to earn (17)…
 ## Personal Reflections
 
 

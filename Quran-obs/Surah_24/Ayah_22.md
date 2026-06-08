@@ -184,6 +184,17 @@ These are the graces of ethics which were imparted to train the illustrious comp
 
 ` He is not the kind hearted towards relatives who only returns their favours, but the real kind hearted towards relatives is the one who maintains his relationship with them, despite they have severed the relations' (Mazhari).
 
+## AI Translation
+
+Do not let the people of virtue and affluence among you swear to suspend donations to their relatives, the needy, and the emigrants in the cause of Allah. Let them pardon and forgive. Do you not love to be forgiven by Allah? And Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**Context:** This Ayah was revealed concerning As-Siddiq, may Allah be pleased with him, when he swore that he would not help Mistah bin Uthathah after he said what he said about 'A'ishah, as we have already seen in the Hadith.
+
+**What this ayah teaches:** So, whereas on the one hand those who had slipped were granted Divine help to repent sincerely and reform themselves, on the other hand those who had sworn not to help any more the poor people, because of the natural grief and displeasure, were imparted wisdom of supreme ethics in this verse, that they should break their oath and expiate for it.
+
+**Classical tafsir:** Ibn Kathir notes: So, whereas on the one hand those who had slipped were granted Divine help to repent sincerely and reform themselves, on the other hand those who had sworn not to help any more the poor people, because of the natural grief and displeasure, were imparted…
 ## Personal Reflections
 
 

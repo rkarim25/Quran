@@ -154,6 +154,15 @@ Merits of Seeking Forgiveness in the hours before dawn
 
 Here it may be noted that in this verse Allah is describing the pre-dawn prayer of forgiveness of those righteous ones who, according to the preceding verse, are preoccupied for the major part of the night with the worship of Allah and sleep very little. Thus there seems to be no link between their previous description and their description of asking for forgiveness in this verse, because forgiveness is sought when there are sins. People who spent the entire night in worshipping Allah - what does it mean to seek forgiveness of sins? The answer to this question is that these people have the true appreciation of Allah's majesty, dignity and splendour, and they realise that there are shortcomings in their night-long worship. Therefore they seek Allah's forgiveness for failing to perform His worship as due. (Mazhari)
 
+## AI Translation
+
+and before dawn they asked Allah for forgiveness,
+
+## AI Tafsir
+
+**What this ayah teaches:** Thus there seems to be no link between their previous description and their description of asking for forgiveness in this verse, because forgiveness is sought when there are sins.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Every night, they would worship Allah, even during a little part of the night." Qatadah narrated that Mutarrif bin 'Abdullah said, "Hardly a night would pass by them that they did not pray to Allah the Exalted and Most Honored, either in the beginning, or the middle of it." Mujahid… As for the Mahrum, Ibn 'Abbas and Mujahid said, "He is the poor person who does not receive a stipen…
 ## Personal Reflections
 
 

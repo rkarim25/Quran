@@ -134,6 +134,17 @@ This is the end of the Tafsir of Surat Al-Anfal, all praise and thanks are for A
 
 Mentioned in the third verse (74) are words of praise for the Sahabah who emigrated from Makkah and for the Ansar of Madinah who helped them, as well as the attestation to their being true Muslims and the promise of forgiveness and respectable provision made to them. When it was said: أُولَـٰئِكَ هُمُ الْمُؤْمِنُونَ حَقًّا (those are the believers in truth), the hint given was in the direction that those who did not migrate were though Muslims, but their Islam was neither perfect, nor certain - because there existed the probability that they may really be hypocrites professing Islam only outwardly. After that, it was said: لَّهُم مَّغْفِرَ‌ةٌ (For them there is forgiveness) - as it has been explained in sound (Sahih) Ahadith: اَلاِسلَامُ یَھدِمُ مَا کَانَ قَبلَہ (Islam demolishes what was before it) and: والھِجرَۃُ تَھدِمُ مَا کَانَ قَبلَھَا (Hijrah razes what was before it). In short, this means that the act of becoming a Muslim goes on to demolish the entire edifice of past sins. Similarly, the making of Hijrah razes all past sins.
 
+## AI Translation
+
+Those who believed, emigrated, and strove in Allah's cause, and those who gave shelter and help—they are the true mu'minin. For them is forgiveness and a generous provision.
+
+## AI Tafsir
+
+**What this ayah teaches:** And those who believed, and emigrated and strove hard in the cause of Allah (Al-Jihad), as well as those who gave (them) asylum and aid – these are the believers in truth, for them is forgiveness and a generous provision (74)And those who believed afterwards, and emigrated and strove hard along with you, they are of you.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Mentioned in the third verse (74) are words of praise for the Sahabah who emigrated from Makkah and for the Ansar of Madinah who helped them, as well as the attestation to their being true Muslims and the promise of forgiveness and respectable provision made t… (Sahih Muslim)
 ## Personal Reflections
 
 

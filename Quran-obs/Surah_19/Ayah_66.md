@@ -129,6 +129,15 @@ Commentary
 
 Many commentators, among them Mujahid, Ibn Zubair, Qatadah, and Ibn ` Abbas ؓ ، are of the view that in the present context the word means "a like" or "comparable" and the sense of the verse is that in the entire pantheon of false gods none is equal or comparable to Allah Ta` ala in so far as divine attributes are concerned.
 
+## AI Translation
+
+Yet people ask mockingly: "After I die, will I really be raised to life?"
+
+## AI Tafsir
+
+**What this ayah teaches:** Man's Amazement about Life after Death and the Refutation against this Amazement Allah, the Exalted, informs that mankind is amazed that he could be returned to life after death and he thinks that this is something farfetched. This means that He, the Exalted, created the human being while he was nothing.
+
+**Classical tafsir:** Ibn Kathir notes: This means that He, the Exalted, created the human being while he was nothing.
 ## Personal Reflections
 
 

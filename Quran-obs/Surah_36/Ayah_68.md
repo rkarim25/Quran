@@ -115,6 +115,17 @@ And for one who lives long in the world, it will turn upside down right before h
 
 Not only that this major change in man's frame of existence is a standing manifestation of the unique power of Allah Ta’ ala, it is also a great favor to him. Is it not that all strengths the supreme Creator has placed in the living presence of man are, in reality, the God-given functional devices issued to him with the clarification that they were neither his property nor were they everlasting and that, finally, they will be taken back from him. This obviously required that, once came the time of such take over, all such strengths should have been taken back simultaneously. But, the most merciful and sublime Lord has not elected to do that. Instead, He has allowed that these strengths be taken back in installments that too are prominently long and spaced apart. Thus, these are taken back gradually, bit by bit, so that one gets alerted and starts getting ready to embark on the ultimate journey of the Hereafter. And Allah knows best.
 
+## AI Translation
+
+And whoever We grant a long life, We reverse them in development. Will they not then understand?
+
+## AI Tafsir
+
+**What this ayah teaches:** And he whom We grant long life – We reverse him in creation. Clearly understanding what is being said becomes difficult because one becomes hard of hearing.
+
+**Classical tafsir:** Ibn Kathir notes: Clearly understanding what is being said becomes difficult because one becomes hard of hearing.
+
+**From the Sunnah:** It was narrated that he ﷺ never memorized a stanza of poetry with the correct meter or rhyme – he would transpose words or memorize it incompletely. In Ad-Dala'il, Al-Bayhaqi recorded that the Messenger of Allah ﷺ said to Al-'Abbas bin Mirdas As-Sulami, may Allah be pleased with him:
 ## Personal Reflections
 
 

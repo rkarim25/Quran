@@ -166,6 +166,17 @@ Al-Baghawi said in his Tafsir, "This was the view of 'Abdullah bin 'Umar, Sa'id 
 
 Thus, by saying 'forbearing' in: فَبَشَّرْ‌نَاهُ بِغُلَامٍ حَلِيمٍ (So, We gave him the good news of a forbearing boy- 101), it was indicated that this newborn would demonstrate such patience, control and forbearance in his life as would be exemplary in the world. The birth of this son had a background of its own. When Sayyidah Sarah ؓ realized that she is not being blessed with children, she took herself to be barren. On the other hand, the Pharaoh had given his daughter named Hajirah ؓ as gift to Sayyidah Sarah ؓ ، so that she could help her in household chores. Sayyidah Sarah ؓ passed on this very Hajirah as gift to Sayyidna Ibrahim (علیہ السلام) who married her. Then the son mentioned here was born to this Hajirah ؓ and he was named Ismail (علیہ السلام) .
 
+## AI Translation
+
+So We gave him good news of a forbearing son.
+
+## AI Tafsir
+
+**What this ayah teaches:** They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs. They were jealous of them, so they added this idea and changed the meaning of the phrase "only son" to mean 'the only son who is with you,' because Isma'il had been taken with his mother to Makkah.
+
+**Classical tafsir:** Ibn Kathir notes: They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs.
+
+**From the Sunnah:** The Muslims and the People of the Book agree, and indeed it is stated in their Book, that Isma'il, peace be upon him, was born when Ibrahim, peace be upon him, was eighty-six years old, and Ishaq was born when Ibrahim was ninety-nine years old.
 ## Personal Reflections
 
 

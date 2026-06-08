@@ -478,6 +478,17 @@ These narrations tell us that just as it is not lawful, after embracing Islam; t
 
 إِنَّ اللَّـهَ كَانَ غَفُورً‌ا رَّ‌حِيمًا (Surely, Allah is Most-Forgiving, Very-Merciful) means that anything people did erroneously before the advent of Islam will be overlooked by Allah Almighty once they have embraced Islam and they can be sure that He will turn to them with the great reach of His mercy.
 
+## AI Translation
+
+Forbidden to you for marriage are your mothers, your daughters, your sisters, your paternal and maternal aunts, your brother’s daughters, your sister’s daughters, your foster-mothers, your foster-sisters, your mothers-in-law, your stepdaughters under your guardianship if you have consummated marriage with their mothers—but if you have not, then you can marry them—nor the wives of your own sons, nor two sisters together at the same time—except what was done previously. Surely Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** As for the wife's daughter, she becomes prohibited for her stepfather when he has sexual relations with her mother, after the marriage contract is ratified.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, no one is allowed to take or keep two sisters as rival wives, according to the consensus of the scholars of the Companions, their followers, and the Imams of old and present.
+
+**From the Sunnah:** Ibn Abi Hatim recorded that Ibn 'Abbas said, "(Allah said) I have prohibited for you seven types of relatives by blood and seven by marriage." Ibn 'Abbas then recited the Ayah, At-Tabari recorded that Ibn 'Abbas said, "Seven degrees of blood relation and seven degrees of marriage relation are prohibited (for marriage)." He then recited the Ayah,
 ## Personal Reflections
 
 

@@ -99,6 +99,15 @@ This shows that her people were star-worshippers and used to worship the sun. So
 
 أَلَّا يَسْجُدُوا لِلَّـهِ الَّذِي يُخْرِ‌جُ الْخَبْءَ (that is, they do not prostrate to Allah who bring forth what is hidden - 25).This sentence is linked with the previous one, "The Shaitan has beautified their deeds - 26" and the sense is that the Shaitan had engrained in their minds that they should not bow down before Allah, or had prevented them from the righteous path so that they should not prostrate before Allah Ta’ ala.
 
+## AI Translation
+
+Solomon said, “We will see whether you are telling the truth or lying.
+
+## AI Tafsir
+
+**What this ayah teaches:** It was said that he carried it on his wings, as is the way with birds, or that he carried it in his beak.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

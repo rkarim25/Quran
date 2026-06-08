@@ -106,6 +106,15 @@ And leave what your Lord has created for you, that is, your wives? - 26:166
 
 In the phrase مِّنْ أَزْوَاجِكُم the word مِّنْ (min) Min could be descriptive (which is translated above as 'that is1) if taken in the technical sense, which would mean that in order to satisfy your lust you go after the homosexual men instead of your wives, whom Allah has given you to meet your natural urge. This is indeed a proof of malignity. The other possibility is that the letter 'Min' is used to mean 'from' or 'out of; then the meaning of the verse would be that it is a special part in the body of your wives which is created for the satisfaction of your natural urge. But you indulge in unnatural act with them, which is totally unlawful. Thus according to this second interpretation, it has also been made clear that it is not permitted to have unnatural intercourse with one's wife. In a hadith Holy Prophet ﷺ has cast curse on such a person. نَعُذ باللہ منۃ (Ruh al-Ma’ ani).
 
+## AI Translation
+
+leaving the wives that your Rabb has created for you? In fact, you are a transgressing people.”
+
+## AI Tafsir
+
+**What this ayah teaches:** The other possibility is that the letter 'Min' is used to mean 'from' or 'out of; then the meaning of the verse would be that it is a special part in the body of your wives which is created for the satisfaction of your natural urge.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

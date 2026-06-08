@@ -123,6 +123,17 @@ the word: أَدْنَىٰ (adna) has been used in the sense of 'nearer' and ا�
 
 Hence, this verse seems to tell us that all these sufferings, accidents, diseases and pains that inflict sinners in the world are nothing but a sort of mercy for them in as much as they help them get out of their heedlessness and save themselves from the punishment of the 'Akhirah. However, for people who take no lesson even from such unwelcome happenings and fail to turn to Allah, for them, this punishment becomes twofold - first, the cash punishment right here in this world and then, the other being the Great Punishment of the Hereafter. As for the hardships of many kinds that come upon prophets and men of Allah, that is a separate matter. These hardships are a trial for them and trials are the source through which their ranks are raised. At is the hallmark of this trial? How do you recognize the quality of their response? If one were to observe such people even under the stress of calamities and hardships, it will be noticed that they have a kind of peace and tranquility emanating from their trust in Allah Ta’ ala. And it is Allah who knows best.
 
+## AI Translation
+
+We will certainly let them taste lesser torment in this dunya before the greater torment of the Akhirah, so perhaps they will return.
+
+## AI Tafsir
+
+**Context:** (Is then he who is a believer like him who is a rebellious? Not equal are they.) i.e., before Allah on the Day of Resurrection.
+
+**What this ayah teaches:** The purpose is to chasten and alert them enough so that they leave off their sins and thus earn their deliverance from the Great Punishment of the Hereafter. However, for people who take no lesson even from such unwelcome happenings and fail to turn to Allah, for them, this punishment becomes twofold - first, the cash punishment right here in this world and then, the other being the Great Punishme…
+
+**Classical tafsir:** Ibn Kathir notes: The purpose is to chasten and alert them enough so that they leave off their sins and thus earn their deliverance from the Great Punishment of the Hereafter.
 ## Personal Reflections
 
 

@@ -118,6 +118,15 @@ Then, it was said that this shameful act has never been committed by anyone in a
 
 Here, their immodesty has been censured on two grounds: (1)-It so happens that men would get involved in many sins because of their social conditions, or because of a blind following of their ancestors - though, that too, is not a valid legal excuse in the Shar'iah of Islam. But, as a matter of customary practice, such a person could be taken as excusable in some or the other degree. But, when it comes to a sin which has never been committed by anyone before, nor does it have any particular compulsions of its own, it becomes a curse of the highest degree. (2)-The other ground is that this act becomes a channel of making others equally accursed. Think of a person who invents some evil act or custom. As obvious, the sin and punishment of his evil act falls on that person anyway, but, along with him, affected are all who sink in sin led by the act of the originator right through the Last Day, for the curse and punishment of all those so affected also sits on the shoulders of the originator of the evil.
 
+## AI Translation
+
+And when Lot scolded his people, “Do you commit a shameful deed that no man has ever done before?
+
+## AI Tafsir
+
+**What this ayah teaches:** And (remember) Lut, when he said to his people: "Do you commit lewdness such as none preceding you has committed in all of the nations (80)"Verily, you practice your lusts on men instead of women. Then, it was said that this shameful act has never been committed by anyone in all the worlds before they did it.
+
+**Classical tafsir:** Ibn Kathir notes: Indeed, this behavior is evil and ignorant because you have placed things in their improper places.
 ## Personal Reflections
 
 

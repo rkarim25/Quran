@@ -243,6 +243,15 @@ This verse does not name any particular scholar of Bani Isra'iil, nor does it sp
 
 The statement by Sayyidna Sa'd ؓ reported in some narrations of Bukhari, Muslim and Nasa'i, that this verse was revealed about Sayyidna ` Abdullah Ibn Salam ؓ and the same statement from Ibn ` Abbas ؓ ، Mujahid , Dahhak, Qatadah , etc. is not against this verse being Makki, as in this case, it will be a prophecy for the future. (IbnKathir)
 
+## AI Translation
+
+Say: Consider—if this Qur'an is from Allah and you deny it, while a witness from the Children of Israel has already testified to something like it and believed, yet you grow arrogant—Allah does not guide people who persist in wrongdoing.
+
+## AI Tafsir
+
+**Context:** (from Allah, and you disbelieved in it?) meaning, 'what do you think that Allah will do to you if this Book that I have come to you with is actually revealed to me from Him in order that I convey it to you, and yet you d…
+
+**What this ayah teaches:** The pagans said this only because they thought that they held a high status with Allah, and that He took special care of them. Verse 10 of this Sarah states that their falsification of the Holy Prophet ﷺ and their claim about the Qur'an that it is a forgery, is baseless firstly because, as mentioned in verse 8, if anyone lays a false claim to prophethood, he has to be eliminated by the divine puni…
 ## Personal Reflections
 
 

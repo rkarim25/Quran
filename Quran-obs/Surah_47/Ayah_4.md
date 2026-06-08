@@ -387,6 +387,17 @@ Wisdom in the Legality of Jihad
 
 وَالَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّـهِ فَلَن يُضِلَّ أَعْمَالَهُمْ (And those who are killed in Allah's way, He will never let their deeds go in vain. - 47:4) At the beginning of the Surah it was asserted that those who persist in infidelity and idolatry and obstruct others from practising Islam, Allah rendered all their good deeds void, such as charity, alms, donations, and philanthropic and public welfare activities, because these deeds are not worthy of reward in the Hereafter without faith. Faith is a necessary condition for good works to be rewarded in the next world. As opposed to the case of the infidels, this verse asserts that those who sacrificed their lives to acquire the glorious privilege of a martyr in the cause of Allah - Allah will never imprint their works with irreverence, profanity or damnation. Even if they did commit sins, their sins will not have a negative impact on their good actions. In fact, often these good deeds of theirs will serve as an expiation for their sins.
 
+## AI Translation
+
+When you meet those who reject the truth in battle, strike until they are subdued, then bind them firmly. Later, release them by grace or by ransom until the war ends. Had Allah willed, He could have punished them Himself—but He tests some of you through others. Those martyred in Allah's cause: He will never let their deeds go to waste.
+
+## AI Tafsir
+
+**Context:** (tighten their bonds.) 'This is referring to the prisoners of war whom you have captured. Later on, after the war ends and the conflict has ceased, you have a choice in regard to the captives: You may either act gracious…
+
+**What this ayah teaches:** Thus none of them is abrogated, because when the those who reject the truth are arrested and come into our control, the leader of the Muslims has four options: [ 1] if he deems appropriate, he may kill them ; [ 2] if he feels that it is in the best interest of the Muslims, he may hold them in bondage; [ 3] if it is appropriate, he may release them in lieu of pecuniary ransom or in exchange o…
+
+**Classical tafsir:** Ibn Kathir notes: Misery awaits him, and degeneracy; and if he is pricked by a thorn, may he not find anyone to pull it for him.) This means may Allah not cure him.
 ## Personal Reflections
 
 

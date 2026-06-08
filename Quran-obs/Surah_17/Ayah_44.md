@@ -186,6 +186,17 @@ Imam al-Qurtubi (رح) has said that Hadith reports relating to such matters abo
 
 After all these reports, why should it remain so far out to realize that everything in the heavens and the earth has consciousness and sense and that everything really glorifies Allah. Ibrahim (رح) says that this tasbih is universal. It includes the animate and the inanimate both. So much so that the least sound made by the panels of doors are not devoid of tasbih. Imam al-Qurtubi has said, 'If this glorification of Allah was a state-articulated tasbih, why was it made so particular to Sayyidna Dawud (علیہ السلام) in the verse referred to a little earlier? A state-articulated tasbih is something every discerning human being can sense out from everything. This makes it obvious that this tasbih was spoken, verbally and audibly.
 
+## AI Translation
+
+The seven heavens, the earth, and all those in them glorify Him. There is not a single thing that does not glorify His praises—but you simply cannot comprehend their glorification. He is indeed Most Forbearing, All-Forgiving.
+
+## AI Tafsir
+
+**What this ayah teaches:** The seven heavens and the earth and all that is therein, glorify Him and there is not a thing but glorifies His praise.
+
+**Classical tafsir:** Ibn Kathir notes: Some ` Ulama' say that their Tasbih is circumstantial, state-articulated, the testimony of their state of being - because, the collective condition of everything other than Allah Ta’ ala is telling us that it is neither permanent existence-wise nor survival-wise.
+
+**From the Sunnah:** It was reported in Sahih Al-Bukhari that Ibn Mas'ud said: "We used to hear the Tasbih of the food as it was being eaten." (Sahih al-Bukhari) ] the Messenger of Allah ﷺ came upon some people who were sitting on their mounts and talking to one another. (Musnad Ahmad)
 ## Personal Reflections
 
 

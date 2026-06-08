@@ -176,6 +176,15 @@ Commentary
 
 أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ (The Shaitan cast (doubts) about what he recited - 22:52) In this verse the word تَمَنَّىٰ has been used as a synonym for قَرَأَ thus أُمْنِيَّتِهِ would mean قِرَأت (recitation). This verse explains that the disputes raised by the disbelievers in regard to Allah's message is not something new as similar doubts were raised by earlier people as well when their prophets presented to them the message of Truth, and the Shaitan cast doubts about it in the hearts of disbelievers. This explanation of the verse is quite clear and straight-forward, and has been adopted by many commentators including Abu Hayyan in his Bahr-ul-Muhit. However, some books of traditions have reported here an incident which is not proved by authentic sources. The incident is known as حَدِیث الٖغرانیق (hadith-ulgharaniq). Some scholars have held that it is invented by some heretics and enemies of Islam. But even those who believe this tradition to be worthwhile have taken pains to remove the doubts, which the words raise about the categorical and undisputed laws of Qur'an and Sunnah. The plain and simple meaning of the verse has been explained above and the alleged incident in no way affects this meaning. Making this incident as a part and parcel of the commentary on this verse, thereby creating unnecessary doubts, and then attempting to answer those doubts is an exercise in futility and absolutely undesirable وَاللہُ سبحانَہُ و تعالیٰ اَعلَم .
 
+## AI Translation
+
+All that so He may make Satan’s influence a trial for those those of nifaq whose hearts are sick and those those who reject the truth whose hearts are hardened. Surely the wrongdoers are totally engrossed in opposition.
+
+## AI Tafsir
+
+**Context:** (And that those who have been given knowledge may know that it is the truth from your Lord, so that they may believe therein,) means, 'so that those who have been given beneficial knowledge with which they may differenti…
+
+**What this ayah teaches:** This verse explains that the disputes raised by the those who reject the truth in regard to Allah's message is not something new as similar doubts were raised by earlier people as well when their prophets presented to them the message of Truth, and the Shaitan cast doubts about it in the hearts of those who reject the truth.
 ## Personal Reflections
 
 

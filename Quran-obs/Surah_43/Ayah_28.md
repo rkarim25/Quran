@@ -175,6 +175,17 @@ Allah has granted these things to them in this world because it is insignificant
 
 We learn from this verse that it is one of the obligatory duties of a Muslim to try his best to put his or her children on the path of the correct religion and to make them practice it throughout their lives. The Holy Qur'an tells us that Sayyidna Yaqub (علیہ السلام) also had directed his sons, shortly before his death, to remain firm on the correct faith. As such, it is necessary, as a consistent practice of the prophets, to employ one's best possible efforts to reform the morals and deeds of his or her children. So to say, there are many ways to reform one's offspring which should be used according to the situation, but Shaikh Abdul Wahhab Sha` rani (رح) has said in his book Lata'if-ul-Minan wal-Akhlaq that the most effective way for the betterment of one's offspring in matters pertaining to 'din' is that the parents should pray to Allah regularly to make them true practicing Muslims . Alas! The negligence of parents from this easy way is becoming very common these days, and the parents themselves are witnessing the ill effects of this negligence.
 
+## AI Translation
+
+He left this enduring declaration among his descendants, so they may always turn back to Allah.
+
+## AI Tafsir
+
+**Context:** (And they say) means, objecting to that which Allah has revealed to him, (Why is not this Qur'an sent down to some great man of the two towns?) meaning, why was this Qur'an not revealed to some man who was great and prom…
+
+**What this ayah teaches:** It is We Who portion out between them their livelihood in this world, and We raised some of them above others in ranks, so that some may employ others in their work. He hastens their reward for good deeds in the form of luxuries in this world, so that when they reach the Hereafter, they will have no good merits with Allah for which they may be rewarded, as was reported in the Sahih Hadith.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn Zayd said, "The word of Islam," which refers to the same thing suggested by the group.
 ## Personal Reflections
 
 

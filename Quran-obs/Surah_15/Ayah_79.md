@@ -67,6 +67,15 @@ Here, he is being asked not to grieve over their hostile opposition because ther
 
 This being the wise arrangement of things, let him not grieve. The better course for him is to overlook their wicked behaviour in a gracious manner, that is, neither pay attention to their behavior nor complain about it. The reason is that his Lord is great as Creator and great as the Master Knower as well. He knows his patience and fortitude and He knows the evil mechanizations of his enemies too. Therefore, He is to exact the full return from them of what they have been doing.
 
+## AI Translation
+
+so We inflicted punishment upon them. The ruins of both nations still lie on a well-known road.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, He is to exact the full return from them of what they have been doing.
+
+**Classical tafsir:** Ibn Kathir notes: Some commentators say that there was a dense forest near Madyan, therefore, Aikah is actually the title of the people of Madyan.
 ## Personal Reflections
 
 

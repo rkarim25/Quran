@@ -106,6 +106,15 @@ Allah reminds us of the creating of the higher and lower worlds,
 
 فَفِرُّ‌وا إِلَى اللَّـهِ (So flee to Allah....51:50). Sayyidna Ibn ` Abbas ؓ said: "It means: Flee from your sins and take shelter in Allah for repentance." Abu Bakr Warraq and Junaid Baghdadi رحمۃ اللہ علیہما said that the base self of man and the devil invite him to commit sins, and they deceive him. He needs to take refuge in Allah who will protect him against their evil. (Qurtubi)
 
+## AI Translation
+
+And do not set up another god with Allah. I am sent to you from Him with a clear warning.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, I am a plain warner to you from Him (50)And set not up any other Allah along with Allah.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

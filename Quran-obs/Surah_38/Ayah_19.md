@@ -101,6 +101,17 @@ In the Salah of ad-duha, one could choose to offer any (even) number of rakat fr
 
 ` Ulama' have said that any (even) number of rakat from two to twelve that can be performed conveniently is correct. But, having some particular routine in the case of its number is better, and if this routine reaches the minimum of four rakat, it is much better - because, the normal routine of the Holy Prophet ﷺ was to do four rakat.
 
+## AI Translation
+
+And the birds gathered in flocks, all echoing his praise—creation joining the worship of its Rabb.
+
+## AI Tafsir
+
+**What this ayah teaches:** He never fled from the battlefield, and he always turned to Allah.) which means that he turned to Allah with regard to all of his affairs. The birds also used to glorify Allah's praises with him.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, may Allah be pleased with him, As-Suddi and Ibn Zayd said, "Al-Ayd means strength." Mujahid said, "Al-Ayd means strength in obedience to Allah." Qatadah said, "Dawud, peace be upon him, was given strength in worship and the proper understanding of Islam." He told us that he, peace be upo… Mujahid and As-Suddi said, "It means passing the right judgement and understanding the case." Mujahi…
+
+**From the Sunnah:** This was reported in the Two Sahihs, where it is recorded that the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

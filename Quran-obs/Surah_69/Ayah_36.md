@@ -78,6 +78,15 @@ Ad-Dahhak said, "Meaning a death which is not followed by any life." Likewise sa
 
 فَلَيْسَ لَهُ الْيَوْمَ هَاهُنَا حَمِيمٌ وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ (So, he has no friend here today, nor any food except from that which flows from wounds when washing...69:35-36]. The word hamim means 'a sincere or bosom friend'. The word ghislin with 'gh' bearing the kasrah [= i ] refers to the water with which the pus and blood of the wounds of the inmates of Hell will be washed. The verses signify that on the Day of Resurrection he will have no friend that will support him or save him from punishment, nor will he have anything to eat except the filthy water with which pus exuding from the wound of the inmates of Hell might have been washed. The words 'nor any food' mean that they will not have any delectable food to eat. This statement does not negate things like ghislin which are distasteful and reprehensible. Therefore, it does not contradict another verse which states that the inmates of Hell will eat zaqqum.
 
+## AI Translation
+
+nor any food except oozing pus,
+
+## AI Tafsir
+
+**What this ayah teaches:** The verses signify that on the Day of Resurrection he will have no friend that will support him or save him from punishment, nor will he have anything to eat except the filthy water with which pus exuding from the wound of the inmates of Hell might have been washed. Nor any food except filth from the washing of wounds.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "It will be the worst food of the people of the Hellfire." Ar-Rabi' and Ad-Dahhak both said, "It (Ghislin) is a tree in Hell." Shabib bin Bishr reported from 'Ikrimah that Ibn 'Abbas said, 'Ghislin will be the blood and fluid that will flow from their flesh." 'Ali bin Abi Talhah report… The word ghislin with 'gh' bearing the kasrah [= i ] refers to the water with which the pus and bloo…
 ## Personal Reflections
 
 

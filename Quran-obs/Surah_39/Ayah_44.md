@@ -106,6 +106,15 @@ According to Tafsir Mazhari, the sense of 'taking the ruh away' is to sever its 
 
 In the verse cited above, the word: يَتَوَفَّى (yatawaffa) in the sense of 'takes in full' (qabd) is used by way of ` umum-ul- majaz which covers both meanings. This difference of ruh (spirit, soul) being taken away both in death and sleep delineated earlier also finds support in a saying of Sayyidna ` Ali ؓ . He said that, at the time of sleep, the ruh of a person goes away from his body, but a beam or ray of ruh stays behind in the body due to which one remains alive - and it is through this 'beamed' connection that one sees a dream. Then this dream, in the event that it has been seen in the state the attention of the ruh was raptly turned towards the universe of images, is a true dream. But, if it was seen in a state when the ruh was returning back to the body, then, it becomes polluted with Shaitanic inputs, and that dream no more remains a true dream. And he also said that the ruh that comes out of the body of a person during the state of sleep returns to the body when one wakes up within a time that is much less than an eye would take to wink.
 
+## AI Translation
+
+Say: "All intercession belongs to Allah alone. To Him belongs the kingdom of the heavens and the earth. Then to Him you will all be returned."
+
+## AI Tafsir
+
+**What this ayah teaches:** Then Allah says: 'Say – O Muhammad – to these people who claim that those whom they have taken as intercessors with Allah, that intercession is of no avail except for the one with whom Allah is pleased and to whom He has granted permission to intercede.
+
+**Classical tafsir:** Ibn Kathir notes: There is no Intercession except with Allah, and how the Idolators are filled with Disgust when Allah is mentioned alone Allah condemns the idolators for taking intercessors besides Allah, namely the idols and false gods whom they have taken on the basis of their own whims, with n…
 ## Personal Reflections
 
 

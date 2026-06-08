@@ -198,6 +198,15 @@ What happened to the twin rows of gardens after the coming of flood and the dest
 
 The word: سِدر (sidr) means بیری beri or بَیر ber in Urdu and is translated in English as the lote-fruit or lotus tree in English. Sidr is of two kinds. The one planted on farms bears fruits of pleasant taste (something close to crunchy pears) and carries more of fruits and less of thorns. The other kind is wild and grows in the form of thorny shrubs and trees with more thorns and less fruits that are bitter as well. At this place, the use of the word:' قَلِیل (qalil: little, some) along with (sidr: bair or lote) perhaps indicates that this too was wild which bears less fruit and is bitter. Allah knows best.
 
+## AI Translation
+
+But they turned away. So We sent against them a devastating flood and replaced their gardens with two others bearing bitter fruit, barren scrub, and a few thorny trees.
+
+## AI Tafsir
+
+**What this ayah teaches:** So they brought cats for a while, but when the decree came to pass, the rats overran the cats and went into the dam, making a hole in it, and it collapsed." Qatadah and others said, "The large rat is the desert rat.
+
+**Classical tafsir:** Ibn Kathir notes: And never do We requite in such a way except those who are ungrateful.) meaning, 'We punished them for their disbelief.' Mujahid said, "He does not punish anyone except the those who reject the truth." Al-Hasan Al-Basri said, "Allah the Almighty has spoken the truth: no one will be punished in a manner that befit… The Disbelief of Saba' (Sheba) and Their Punishment Saba' refers to the kings and people of the Yeme…
 ## Personal Reflections
 
 

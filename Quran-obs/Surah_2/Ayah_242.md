@@ -167,6 +167,17 @@ Verse 241: The divorced women deserve a benefit
 
 Providing compensatory benefits (` mata متاع `) for divorced women has also been dealt with in verses earlier than this, but that was restricted to two types of divorced women who were divorced before privacy and consummation. The first case of providing compensatory benefits was the giving of a set of clothes. The second case was of providing compensatory benefit in the form of half of the dower. Now remains the case of divorcees who were divorced after privacy and con-summation. Here, providing compensatory benefits to one whose dower has already been fixed lies in giving her the full amount of dower or mahr. For one whose dower has not already been fixed, a post-consummation divorce will make it obligatory to give her mahr almithl مھر المثل or 'equivalent dower' (as customarily given in the immediate family circle of the woman). If the word 'benefit' used in this verse is taken to mean 'dower', its payment is obligatory according to these de-tails. However, if we take math' to mean a particular benefit, that is, the giving of a gift or set of clothes, then giving this to a particular type of divorced woman is obligatory which has been pointed out earlier. In the rest of the cases, this is mustahabb مستحب or desirable. And should math` be taken to mean maintenance or nafaqah, then it is obligatory until the expiry of ` iddah in the case of a divorce after which ` iddah has to be observed. The divorce may be revocable (رجعی) or irrevocable (باین) --it does not matter. To sum up, the verse, by using universally applicable words, covers all situations.
 
+## AI Translation
+
+Thus Allah makes His signs clear to you, so you may understand.
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah is All-Mighty, All-Wise (240)And for divorced women, maintenance (should be provided) on reasonable (scale).
+
+**Classical tafsir:** Ibn Kathir notes: Later, the Ayah that specified the inheritance (4:12) abrogated this Ayah (2:240), and thus the widow inherits one-fourth or one-eighth of what her (deceased) husband leaves behind." Ibn Abu Hatim also related that 'Ali bin Abu Talhah stated that Ibn 'Abbas said, "When a man died and left behind a w…
+
+**From the Sunnah:** For instance, Al-Bukhari reported that Ibn Az-Zubayr said: I said to 'Uthman bin 'Affan: (Sahih al-Bukhari) Fari'ah bint Malik bin Sinan, the sister of Abu Sa'id Al-Khudri, told her that she came to Allah's Messenger ﷺ asking him to return to her family's residence with Banu Khudrah.
 ## Personal Reflections
 
 

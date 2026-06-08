@@ -110,6 +110,15 @@ The view of Hadrat Mujaddid Alf Thani (رح) is that the beauty, rather the very
 
 Said in the last sentence of verse 93 was: وَأْتُونِي بِأَهْلِكُمْ أَجْمَعِينَ that is, ` all of you, my brothers, bring your entire family to me.' Though, the real purpose was to have his respected father come to him but, here he did not specifically mention his father, instead, talked about bringing the family - perhaps, because he considered that asking his father to be brought to him was contrary to etiquette. However, he was already certain that the sight of his father would return and there would remain no reason which could stop him from coming to him, rather, he would himself want to honour him with his visit. According to a narration reported by Al-Qurtubi, Yahuda (Judah) from among the brothers of Sayyidna Yusuf (علیہ السلام) offered to carry this shirt personally - because, it was he who had carried young Yusuf’ s shirt smeared with fake blood and which brought many shocks for his father, and now, it should be him again who should carry the shirt in his own hands, so that amends could be made for past injustices.
 
+## AI Translation
+
+Go with this shirt of mine and cast it over my father’s face, and he will regain his sight. Then come back to me with your whole family.”
+
+## AI Tafsir
+
+**What this ayah teaches:** It is obvious that putting someone's shirt on the face of a person cannot become the physical cause of an eyesight to return. Given the conditions, he found it better that his father comes to him with the family.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, every shirt that touched his body could have this property.
 ## Personal Reflections
 
 

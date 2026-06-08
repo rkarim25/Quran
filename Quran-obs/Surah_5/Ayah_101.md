@@ -261,6 +261,19 @@ One of the qualities making someone a good Muslim is that one leaves what is unn
 
 This tells us that many of our brother Muslims who keep investigating into unnecessary subjects, such as, the name of the mother of Sayyidna Musa (علیہ السلام) or the precise length and breadth of the Ark of Sayyidna Nuh (علیہ السلام) ، indulge in what has no effect on one's conduct in life. Therefore, asking such questions is blameworthy - especially when it is already known that people who tend to ask such questions are mostly unaware of the basics of their religion. The problem is that falling for what is wasteful invariably results in making one stay deprived of doing what is necessary. As for the large body of work left by Muslim jurists in which they have answered assumed religious problems and questions, it was not something unnecessary. Later events proved that they were needed by future generations. Therefore, they do not fall under the purview of wasteful or meaningless questions. It is also a part of Islamic teachings that one should not indulge in any activity, whether intellectual or practical, a task or a conversation, and waste precious time through it, unless there is some gain to be made from it in terms of the worldly or other-wordly life.
 
+## AI Translation
+
+O you who have iman! Do not ask about any matter which, if made clear to you, may disturb you. But if you inquire about what is being revealed in the Quran, it will be made clear to you. Allah has forgiven what was done. And Allah is All-Forgiving, Most Forbearing.
+
+## AI Tafsir
+
+**Context:** Imam Ahmad recorded that 'Ali said, "When this Ayah was revealed,
+
+**What this ayah teaches:** Ask not about things which, if made plain to you, may cause you trouble.) This Ayah refers to good conduct that Allah is teaching His believing servants, by forbidding them from asking about useless things. But if you ask about them while the Qur'an is being revealed, they will be made plain to you.
+
+**Classical tafsir:** Ibn Kathir notes: Ask not about things which, if made plain to you, may cause you trouble.) This Ayah refers to good conduct that Allah is teaching His believing servants, by forbidding them from asking about useless things.
+
+**From the Sunnah:** The companions of Allah's Messenger ﷺ covered their faces and the sound of crying was coming out of their chests. Ibn Jarir recorded that Qatadah said about Allah's statement,
 ## Personal Reflections
 
 

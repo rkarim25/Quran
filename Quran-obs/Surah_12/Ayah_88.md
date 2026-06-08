@@ -149,6 +149,15 @@ When Sayyidna Yusuf (علیہ السلام) read this letter, he trembled and br
 
 When his brothers heard his question, they were dumbfounded. What has the ` Aziz of Misr got to do with the story of Yusuf (علیہ السلام) ? Then, they recollected the dream seen by young Yusuf (علیہ السلام) the interpretation of which was that he would achieve some high rank and they would have to bow down before him. Could it be that this ` Aziz of Misr is none else but Yusuf (علیہ السلام) himself? Then, as they exerted and deliberated a little more, they recognized him by some signs. Still, to confirm it further, they asked him:
 
+## AI Translation
+
+When they entered Joseph’s presence, they pleaded, “O Chief Minister! We and our family have been touched with hardship, and we have brought only a few worthless coins, but please give us our supplies in full and be charitable to us. Indeed, Allah rewards the charitable.”
+
+## AI Tafsir
+
+**What this ayah teaches:** After offering praise to Allah: Our entire family is known for hardships and trials.
+
+**Classical tafsir:** Ibn Kathir notes: Presenting their need and helplessness, they told the ` Aziz that they and their family were suffering because of the famine, so much so that they did not have even adequate funds to purchase food grains.
 ## Personal Reflections
 
 

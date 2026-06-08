@@ -137,6 +137,15 @@ Commentary
 
 Lengthy supplications in themselves are praiseworthy and desirable as is proved by authentic ahadith about the etiquettes of supplication where it is mentioned that, while praying to Allah Ta’ ala, beseeching tearfully and repeatedly is desirable. (Bukhari and Muslim) Therefore, the denunciation of the infidel is actually not for lengthy supplications, but for his mean disposition that when Allah blesses him with His bounties, he gets intoxicated with arrogance and pride, and when he faces distress, he keeps on praying in a way of wailing and complaining about his difficulties, as is the habit of heedless people; the intent is not to supplicate, but to wail about his misfortunes and to keep on telling the people about it. (Allah knows best).
 
+## AI Translation
+
+Ask them: "Imagine if this Quran is truly from Allah and you deny it—who can be more astray than those who have gone too far in opposition to the truth?"
+
+## AI Tafsir
+
+**What this ayah teaches:** Here the Qur'an has used the word ` broad' to describe their lengthy supplications, because what is wider will automatically be longer too. As detailed in the science of anatomy, which indicates the wisdom of the Creator – may He be blessed and exalted – and the different inclinations and opposite natures that people have, good and bad, etc., and the (divine) decrees to which man is subjected, hav…
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid, Al-Hasan and As-Suddi said, "And signs within themselves means, the battle of Badr, the conquest of Makkah, and other events which befell them, where Allah granted victory to Muhammad ﷺ and his Companions, and inflicted a humiliating defeat on falsehood and its followers." It may also be th… As detailed in the science of anatomy, which indicates the wisdom of the Creator – may He be blessed…
 ## Personal Reflections
 
 

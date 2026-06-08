@@ -111,6 +111,17 @@ If a blessing, such as victory and triumph over the enemies, is given to the Pro
 
 In the eighth verse (50), yet another aspect of their low nature has been mentioned by saying that, though these people live among Muslims giving the outward impression that they are one of them, but they are soon exposed by their inner reactions to what happens to the Holy Prophet ﷺ . The text illustrates it by saying: إِن تُصِبْكَ حَسَنَةٌ تَسُؤْهُمْ (If some good comes to you, it annoys them) and: وَإِن تُصِبْكَ مُصِيبَةٌ يَقُولُوا قَدْ أَخَذْنَا أَمْرَ‌نَا مِن قَبْلُ وَيَتَوَلَّوا وَّهُمْ فَرِ‌حُونَ (and if some suffering visits you, they say, "We had already taken care of our problem" ). They would take it as expedient in their favour that they did not go along with Muslims and found the results satisfying enough to go away delighted.
 
+## AI Translation
+
+If a blessing befalls you, they grieve, but if a disaster befalls you, they say, “We took our precaution in advance,” and turn away, rejoicing.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah emphasizes the enmity that the hypocrites have for the Prophet ﷺ. They would take it as expedient in their favour that they did not go along with Muslims and found the results satisfying enough to go away delighted.
+
+**Classical tafsir:** Ibn Kathir notes: Allah emphasizes the enmity that the hypocrites have for the Prophet ﷺ.
+
+**From the Sunnah:** Allah emphasizes the enmity that the hypocrites have for the Prophet ﷺ. If a blessing, such as victory and triumph over the enemies, is given to the Prophet ﷺ, thus pleasing him and his Companions, it grieves the hypocrites,
 ## Personal Reflections
 
 

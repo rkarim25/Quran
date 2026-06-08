@@ -83,6 +83,15 @@ Then Allah tells us that if there were another god besides Him, the heavens and 
 
 The next verse viz: لَا يُسْأَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْأَلُونَ (He is not questioned of what He does, and they are questioned) probably reinforces the argument that anyone who is answerable for his actions to someone else cannot be God.
 
+## AI Translation
+
+He cannot be questioned about what He does, but they will all be questioned.
+
+## AI Tafsir
+
+**What this ayah teaches:** Glorified be Allah, the Lord of the Throne, (High is He) above all that (evil) they associate with Him (22)He cannot be questioned as to what He does, while they will be questioned .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

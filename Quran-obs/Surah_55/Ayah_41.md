@@ -142,6 +142,15 @@ And saying that it means "prepared" does not contradict the first report from Al
 
 The word نَّوَاصِي nawasi is the plural of نَاصِیۃُ nasiyah, and means 'forelock'. Some will be dragged by their forelocks, and others will be dragged by their feet. Or it could mean that sometimes they will be dragged by their forelocks and at other times they will be dragged by their feet. The third explanation could be that the angels of punishment will bend their foreheads down to their feet and tie the forelocks to the feet, and throw them into the Hellfire. Allah knows best!
 
+## AI Translation
+
+The guilty will be known by their marks and seized by their foreheads and feet.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then when the heaven is rent asunder, and it becomes Wardah like Dihan (37)Then which of the blessings of your Lord will you both deny (38)So, on that Day he will not be questioned about his sin, (neither) human nor Jinn (39)Then which of the blessings of your Lord will you both deny (40)The criminals will be known by their marks, and they will be seized by their foreheads and feet (41)Then which…
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan and Qatadah said, "They will be known by their dark faces and their blue eyes." I say that this contrasts to the marks that will distinguish the believers, such as the light that will appear on the parts of the body that they used to wash while performing ablution.
 ## Personal Reflections
 
 

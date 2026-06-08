@@ -122,6 +122,15 @@ In verse 24: وَإِنَّا أَوْ إِيَّاكُمْ لَعَلَىٰ ه�
 
 This method of prophetic call, good counsel and good-mannered debate - in line with the command of the Qur'an: وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ (wa jadilhum bil-lati hiya ahsan: (and argue with them in the best manners - 16:125) - is something ` Ulama' should keep in sight all the time. Once this stands ignored, everything done in the fair name of da'wah, tabligh and debate becomes ineffective, rather harmful. As a result, adversaries turn adamant and cling to their error far more firmly.
 
+## AI Translation
+
+Say: "Show me those you have joined with Him as partners. No—in truth He alone is Allah, the Almighty, All-Wise."
+
+## AI Tafsir
+
+**What this ayah teaches:** In their presence, no sensible person could say that tauhid (Oneness of Allah or pure monotheism) and shirk (the attribution of partners in the pristine divinity of Allah) are equally true and that the adherents of both are following the truth. But He is Allah, the Almighty, the All-Wise.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -174,6 +174,15 @@ meaning, 'so that We may bring out great abundance, goodness, benefit, and bless
 
 وَجَعَلْنَا اللَّيْلَ لِبَاسًا (and made the night a covering... 78:10) This points to the fact that man naturally feels sleepy when light decreases and darkness prevails, when there is tranquility all around and there is absence of noises. The verse under comment additionally signifies that Allah did not only give man sleep, but created in the entire world conditions that are suitable for sleep. That is to say: [ 1] darkness of night; [ 2] the state of sleep is imposed on all humans and animals simultaneously, so that they sleep at the same time. In this way, there will be peace and tranquility throughout the world. Like other works, if there are different times for different people to sleep, no one will have peace and tranquility.
 
+## AI Translation
+
+the night as a cover over you,
+
+## AI Tafsir
+
+**What this ayah teaches:** That is to say: [ 1] darkness of night; [ 2] the state of sleep is imposed on all humans and animals simultaneously, so that they sleep at the same time.
+
+**Classical tafsir:** Ibn Kathir notes: And We have made your sleep as a thing for rest.)(10.
 ## Personal Reflections
 
 

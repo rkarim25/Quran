@@ -118,6 +118,17 @@ Commentary
 
 2. It will be noticed that, in the last sentence of verse 43:
 
+## AI Translation
+
+And when the angels said, “O Mary! Surely Allah has selected you, purified you, and chosen you over all women of the world.
+
+## AI Tafsir
+
+**What this ayah teaches:** The superiority of 'A'ishah (his wife) to other women, is like the superiority of Tharid (meat and bread dish) to other meals.) We mentioned the various chains of narration and wordings for this Hadith in the story of 'Isa, son of Maryam, in our book, Al-Bidayah wan-Nihayah, all the thanks are due to Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Rather, Allah disclosed these facts to you as if you were a witness, when they conducted a lottery to choose the custodian of Maryam, seeking the reward of this good deed." Ibn Jarir recorded that 'Ikrimah said, "Maryam's mother left with Maryam, carrying her in her infant cloth, and took her to the…
+
+**From the Sunnah:** The Six, with the exception of Abu Dawud, recorded it. (Sahih al-Bukhari, Sunan Abi Dawud)
 ## Personal Reflections
 
 

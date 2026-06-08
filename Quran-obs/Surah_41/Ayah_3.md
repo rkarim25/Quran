@@ -109,6 +109,15 @@ Description of the Qur'an, and what Those Who turn away from it say
 
 And after stating these qualities, it is said towards the end of the verse-3, لِّقَوْمٍ يَعْلَمُونَ (for a people who understand) which means that the verses of the Holy Qur'an being in Arabic, their being clear and evident and their communicating good news as well as warnings can only benefit those people who intend to ponder over them and understand them. But the Arabs and the Quraysh, despite all this, turned away from the Qur'an, and let alone trying to understand, they did not even bear to listen to the Qur'an. This has been mentioned at the end of verse 4: "Yet most of them turned away, so they do not listen."
 
+## AI Translation
+
+A Book whose ayahs are explained in detail—a Quran in Arabic for people who know,
+
+## AI Tafsir
+
+**What this ayah teaches:** A Book whereof the Ayat are explained in detail – a Qur'an in Arabic for people who know.)(4. A revelation from the ar-Rahman, the ar-Rahim.)(3.
+
+**Classical tafsir:** Ibn Kathir notes: A revelation from the ar-Rahman, the ar-Rahim.)(3.
 ## Personal Reflections
 
 

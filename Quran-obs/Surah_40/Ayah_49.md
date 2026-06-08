@@ -120,6 +120,17 @@ Punishment in graves
 
 This verse is a proof of punishment in graves. Uninterrupted reports of ahadith and the consensus (ijma) of the Muslim Ummah confirm it. This humble writer has put together all such material, along with relevant verses from the Qur'an, in a regular treatise entitled: السبر بعذاب القبر As-sabr bi'adhabi-l-qabr. This treatise has been published in Arabic as part of Ahkam-ul-Qur'an.
 
+## AI Translation
+
+Those in the Fire will cry to the keepers of Hell: "Pray to your Lord to lighten the torment for us, even for one day!"
+
+## AI Tafsir
+
+**What this ayah teaches:** And speak you not to Me!)(23:108), so they will ask the keepers of Hell, who are like jailers watching over the people of Hell, to pray to Allah to lessen the Fire for them if only for one day.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Uninterrupted reports of ahadith and the consensus (ijma) of the Muslim Ummah confirm it. (Sahih Muslim)
 ## Personal Reflections
 
 

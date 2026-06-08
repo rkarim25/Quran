@@ -182,6 +182,17 @@ Ad-Dahhak, said, "Then let them ascend into the seventh heaven." Then Allah says
 
 In verse 6, it was said: وَانطَلَقَ الْمَلَأُ مِنْهُمْ أَنِ امْشُوا وَاصْبِرُ‌وا عَلَىٰ آلِهَتِكُمْ (And the leaders among them went forth saying (to their followers)," Walk away (from the Prophet) and stay firm on (adhering to) your gods - 12). This is pointing out to the event mentioned above that, once they heard the call to pure monotheism (tauhid), they left the meeting.
 
+## AI Translation
+
+"We never heard this in the earlier faith. This is nothing but a fabrication."
+
+## AI Tafsir
+
+**Context:** (Has he made the gods into One Allah. Verily, this is a curious thing!) Then this passage was revealed, from this Ayah to the Ayah: When they said this, it indicated their ignorance and lack of understanding since they tho…
+
+**What this ayah teaches:** Nay, but they have not tasted (My) torment (8)Or have they the treasures of the mercy of your Lord, the Almighty, the Real Bestower (9)Or is it that the dominion of the heavens and the earth and all that is between them is theirs If so, let them ascend up with means (10)They will be a defeated host like the Confederates of the old times .
+
+**Classical tafsir:** Ibn Kathir notes: The idolators – may Allah curse them – denounced that and were amazed at the idea of giving up Shirk, because they had learned from their forefathers to worship idols and their hearts were filled with love for that.
 ## Personal Reflections
 
 

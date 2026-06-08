@@ -294,6 +294,19 @@ After having described the physical and spiritual drawbacks of drinking and gamb
 
 Described in the first two verses (90:91) was the unlawfulness of drinking and gambling, and its strict prohibition - an article of Divine Law, so to say. To make the word of law easy to act upon,
 
+## AI Translation
+
+Satan’s plan is to stir up hostility and hatred between you with intoxicants and gambling and to prevent you from remembering Allah and praying. Will you not then abstain?
+
+## AI Tafsir
+
+**Context:** It is recorded in the Two Sahihs, that 'Umar bin Al-Khattab said in a speech; while standing on the Minbar of the Messenger of Allah (in the Prophet's Masjid in Al-Madinah) "O people!
+
+**What this ayah teaches:** So, will you not then abstain) This is a threat and a warning.
+
+**Classical tafsir:** Ibn Kathir notes: The answer is that Salah has been mentioned separately because the text aims to indicate that Salah is important in its own place and certainly the superior most among all kinds of Dhikrullah (the remembrance of Allah).
+
+**From the Sunnah:** When the Messenger of Allah ﷺ migrated to Al-Madinah, the people were consuming alcohol and gambling, so they asked the Messenger of Allah ﷺ about these things, Allah revealed, (Musnad Ahmad) So they said, 'We abstained, O Lord!' Later, some people said, 'O Allah's Messenger!
 ## Personal Reflections
 
 

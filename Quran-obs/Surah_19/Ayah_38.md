@@ -146,6 +146,17 @@ The beliefs of the Jews and the Christians about Sayyidna ` Isa (علیہ الس
 
 The phrase قَوْلَ الْحَقِّ (translated in the text as 'the word of truth' in the normal reading is with fathah on the letter Lam (لَ ). In this case the sentence along with its understood words will run like اَقُولُ قَولَ الحَقِّ that is, 'I say the word of truth'. However, in some readings the letter 'Lam' in 'Qawl' is rendered with Dammah i.e. قَوْلُ الْحَقِّ. In this case the sentence will mean that Sayyidna 'Isa (علیہا السلام) himself was a word of truth. It is, then, analogous to the title of کَلِمَۃُ اللہِ (the word of Allah) which is given to him to denote that he was born directly by the word of Allah, having no connection with an apparent cause in this world. (Qurtubi)
 
+## AI Translation
+
+How clearly they will hear and see the Day they come to Us. But today the wrongdoers are clearly astray.
+
+## AI Tafsir
+
+**Context:** Ibn Abi Hatim recorded that Hazm bin Abi Hazm Al-Quta'i said, "'Umar bin 'Abdul-Aziz wrote to 'Abdul-Hamid bin 'Abdur-Rahman, who was the governor of Kufah: 'Thus, to proceed: Verily, Allah prescribed death for His creat…
+
+**What this ayah teaches:** How clearly will they see and hear, the Day when they will appear before Us! But the wrongdoers today are in plain error (38)And warn them of the Day of grief and regrets, when the case has been decided, while (now) they are in a state of carelessness, and they believe not (39)Verily, We will inherit the earth and whatsoever is thereon.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, no soul will be done any injustice, nor wronged even the weight of a mosquito or an atom.
 ## Personal Reflections
 
 

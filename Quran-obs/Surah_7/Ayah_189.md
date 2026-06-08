@@ -233,6 +233,17 @@ That is to say, at the initial stage of pregnancy the woman feels free to move a
 
 It happens in a variety of ways. Sometimes they are misled by their false belief that their new born is a gift of some holy or godly person. Sometimes, they devote it to some living or dead person and start making offerings in their names. Some people take their children to them and bow their forehead before them. Sometimes, they involve themselves in Shirk شِرک by naming their children like ` Abdullat عبدَاللات ` Abd ul ` Uzza عبد العُزٰی ` Abdul Shams عَبد الشمس or Bandah ` Ali بَندہِ علی etc., assigning their children to false gods, indicating that these children have been created or gifted by these gods or personalities.
 
+## AI Translation
+
+He is the One Who created you from a single soul, then from it made its spouse so he may find comfort in her. After he had been united with her, she carried a light burden that developed gradually. When it grew heavy, they prayed to Allah, their Rabb, “If you grant us good offspring, we will certainly be grateful.”
+
+## AI Tafsir
+
+**What this ayah teaches:** The next verse 189 speaks of the most basic belief of Islam that is Tauhid and, at the same time, brings out the falsity of believing in more than one Allah.
+
+**Classical tafsir:** Ibn Kathir notes: It was reported that Al-Hasan, Ibrahim An-Nakha'i and As-Suddi said similarly.
+
+**From the Sunnah:** Ibn Jarir recorded that Al-Hasan commented on this part of the Ayah,
 ## Personal Reflections
 
 

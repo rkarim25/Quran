@@ -98,6 +98,19 @@ If Ya'qub had not become a Prophet in the lifetime of Ibrahim, then Allah would 
 
 In the sentence preceding this sentence Hadhrat Ibrahim (علیہ السلام) had expressed the hope that on account of his prayers and devotion Allah Ta` ala would not abandon him. This hope, in fact, was a prayer to Allah to protect him from the pain of loneliness after he left his house and family. The sentence reproduced above describes the manner in which his prayer was granted. When Ibrahim (علیہ السلام) left his home and family and their idols, Allah Ta` ala rewarded him with a son, Ishaq (علیہ السلام) to compensate him for his loss. It was further revealed to him that this son would have long life and also beget a son by the name of Ya` qub. Granting of a son is proof that he (Ibrahim) was married by then. In brief it means that he was granted a better family, which consisted of prophets and pious people after he had left his father's family.
 
+## AI Translation
+
+We showered them with Our mercy and blessed them with honourable mention.
+
+## AI Tafsir
+
+**Context:** In the sentence preceding this sentence Hadhrat Ibrahim (علیہ السلام) had expressed the hope that on account of his prayers and devotion Allah Ta` ala would not abandon him.
+
+**What this ayah teaches:** So when he had turned away from them and from those whom they worshipped besides Allah, We gave him Ishaq and Ya'qub, and each one of them We made a Prophet (49)And We gave them of Our mercy, and We granted them Sidqin 'Aliyyan on the tongues .
+
+**Classical tafsir:** Ibn Kathir notes: The sentence reproduced above describes the manner in which his prayer was granted.
+
+**From the Sunnah:** in a Hadith whose authenticity is agreed upon, when he was asked who was the best of people
 ## Personal Reflections
 
 

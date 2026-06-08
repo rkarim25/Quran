@@ -103,6 +103,17 @@ This tells us that ` difference' at this place means hostility and op-position t
 
 And Allah is Pure and High and He knows everything best.
 
+## AI Translation
+
+And We relate to you O Prophet the stories of the messengers to reassure your heart. And there has come to you in this sûrah the truth, a warning to those who reject the truth, and a reminder to the believers.
+
+## AI Tafsir
+
+**What this ayah teaches:** And all that We relate to you of the news of the Messengers is in order that We may make strong and firm your heart thereby.
+
+**Classical tafsir:** Ibn Kathir notes: This means, 'This comprehensive Surah contains the stories of the Prophets and how Allah saved them, and the believers along with them and how He destroyed the those who reject the truth.
+
+**From the Sunnah:** All of them would have then become nothing but Muslims without any difference remaining between them.
 ## Personal Reflections
 
 

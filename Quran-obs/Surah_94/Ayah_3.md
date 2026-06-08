@@ -122,6 +122,15 @@ The Holy Prophet ﷺ used to feel the heavy weight of this task and responsibili
 
 Verses [ 2-3] give the cheerful news that Allah will remove from him the load which was weighing down his back. The following verses show how the back-breaking load will be removed, and every difficulty will be followed by ease and relief. By means of expansion of bosom, Allah gave the Holy Prophet so much of courage that no instance of hardship seemed hardship, and no burden of any magnitude seemed a burden. And Allah knows best!
 
+## AI Translation
+
+That weighed down your back—grief, doubt, and the pressure of carrying truth to a hostile world?
+
+## AI Tafsir
+
+**What this ayah teaches:** The word wizr literally denotes 'burden' and the phrase naqd-uz-zahr means 'to break one's back as for instance when a heavy load is put on one's back, it bends'. And removed from you your burden.)(3.
+
+**Classical tafsir:** Ibn Kathir notes: And to your Lord turn intentions and hopes.) meaning, 'when you have completed your worldy affairs and its tasks, and you have broken away from its routine, then get up to perform the worship, and stand for it with zeal, complete devotion and purify your intention and desire for your Lord.' Similar… The word wizr literally denotes 'burden' and the phrase naqd-uz-zahr means 'to break one's back as fo…
 ## Personal Reflections
 
 

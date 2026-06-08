@@ -95,6 +95,17 @@ The earlier verses have defined the religion (Millat مِلَّت of Sayyidna Ib
 
 In the second of these verses the progeny of Sayyidna Ya` qub (علیہ السلام) (Jacob) has been described as Asbat اسباط or "tribes." The reason is that he had twelve sons, and the offspring of each son came to form a tribe. Allah so blessed his seed that in Egypt, Sayyidna Yusuf (علیہ السلام) (Joseph) and his brothers made up a group of twelve men, but their lineage flourished, and when the Israelites left Egypt along with Sayyidna Musa (علیہ السلام) (Moses), their number ran into thousands. Another form of this blessing was that the progeny of Sayyidna Ya` qub (علیہ السلام) included a large number of prophets.
 
+## AI Translation
+
+They say, "Be Jews or Christians and you will be guided." Say, "No — we follow the way of Abraham, upright, not among those who associate partners with Allah."
+
+## AI Tafsir
+
+**What this ayah teaches:** Now, the Jews and the Christians, in spite of their pretension to be his followers, did not in actual fact follow his religion.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Each of these two groups, instead of accepting Islam, used to ask the Muslims to accept its own religion in order to find true guidance. (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -136,6 +136,15 @@ It is stated about the people of Sayyidna Nuh (علیہ السلام) that they 
 
 أَصْحَابَ الرَّ‌سِّ (People of Rass - 25:38). In Arabic رَس (Rass) means unlined well. Neither Qur'an nor any authentic tradition describes these people in any detail. Whatever information is available about them is through Israelite traditions, which differ from one another. It is more likely that the remaining people of Thamud had settled down near a well. It is not mentioned in the Qur'an or any tradition as to how they were tormented. (Bayan u1-Qur'an)
 
+## AI Translation
+
+Also We destroyed ’Ȃd, Thamûd, and the people of the Water-pit, as well as many peoples in between.
+
+## AI Tafsir
+
+**What this ayah teaches:** And We have prepared a painful torment for the wrongdoers (37)And (also) 'Ad and Thamud, and the Dwellers of Ar-Rass, and many generations in between (38)And for each We put forward examples, and each We brought to utter ruin (39)And indeed they have passed by the town on which was rained the evil rain.
+
+**Classical tafsir:** Ibn Kathir notes: The most correct view is that a generation refers to nations who are one another's contemporaries, living at the same time.
 ## Personal Reflections
 
 

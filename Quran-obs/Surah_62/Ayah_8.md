@@ -150,6 +150,15 @@ There are many normal causes of death, from which both reason and Shari’ ah re
 
 As for as bubonic plague or epidemic is concerned, it is a separate issue. The details appear in books of jurisprudence and Hadith which may be consulted. The author of Ruh-ul-Ma’ ani has on this occasion discussed this issue exhaustively and clarified it to a great degree. Some of its details have already been given in this book under the verses 2:243 to 244. See vol. 1, pp. 619-622.
 
+## AI Translation
+
+Say: 'The death you flee will surely reach you. Then you will be returned to the Knower of the seen and unseen, and He will inform you of what you used to do.'
+
+## AI Tafsir
+
+**What this ayah teaches:** Since we do not know for sure whether fire, or poison, or some other obnoxious thing will be the destined cause of our death in a particular situation, running away from them would not amount to fleeing from death that is denounced in the verse.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, they are worse than the donkey, because the donkey cannot understand.
 ## Personal Reflections
 
 

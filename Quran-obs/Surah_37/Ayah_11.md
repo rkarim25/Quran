@@ -124,6 +124,15 @@ Anyway, the first verse (11) provides a rational proof of the belief in the 'Akh
 
 After that, in the five verses that follow it, described there is the reaction the disbelievers show on hearing the proofs in support of the Hereafter. The proofs of the belief in the Hereafter presented before disbelievers were of two kinds: (1) Rational proofs as given in the first verse. (2) Reported proofs, that is, they were shown miracles in support of the veracity of the mission of the Holy Prophet ﷺ as prophet and messenger of Allah asserting that he was, as such, from Allah and a prophet of Allah can never lie. He receives the authority of what he says from the heavens. And when he is telling us that the last day of Qiyamah will come, there will be a Resurrection and human beings will account for their deeds, then, this information given by him is definitely true, and it must be accepted as true.
 
+## AI Translation
+
+So ask them which is harder to create: them or other marvels of Our creation? Indeed, We created them from sticky clay.
+
+## AI Tafsir
+
+**What this ayah teaches:** Human creation is from sperm, sperm from blood and blood from food.
+
+**Classical tafsir:** Ibn Kathir notes: In gist, it refers to the huge heavenly bodies of the universe mentioned in previous verses, and points out to the obvious weakness of human beings as compared to them.
 ## Personal Reflections
 
 

@@ -111,6 +111,15 @@ Allah says that even if those oceans were ink for the Words of Allah, and all th
 
 The purpose of the last sentence: لَا يَبْغُونَ عَنْهَا حِوَلًا (and will not wish to move from there - 108) is to tell that this station of Jannah is a never-ending, ever-lasting blessing for them. The reason is that Allah Ta’ ala has promulgated His command to the effect that whoever has entered Jannah will never be expelled from there. But, there was the possibility of some doubt crossing someone's heart, for human beings naturally get fed up by living at one place. They wish to move out and go to other places. Now, if they were not allowed to go elsewhere out of Jannah, they might start feeling the pinch of a sort of restriction. This was answered in the verse by saying that taking Jannah on the analogy of other places is rank ignorance. Once a person goes into the Jannah, everything he saw and lived within the mortal world would find all that trifling in the presence of the bliss and beauty of Jannah and - so blessed in that manner - no one would ever even think of going out of here.
 
+## AI Translation
+
+Say, O Prophet, “If the ocean were ink for writing the Words of my Rabb, it would certainly run out before the Words of my Rabb were finished, even if We refilled it with its equal.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Our Lord is as He says He is and He is beyond what we can say.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

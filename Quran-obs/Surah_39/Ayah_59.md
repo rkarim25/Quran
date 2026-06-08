@@ -216,6 +216,15 @@ When the sinners wish that they could return to this world so that they could be
 
 In verse 59, it was said: بَلَىٰ قَدْ جَاءَتْكَ آيَاتِي فَكَذَّبْتَ بِهَا (Why not? My verses had reached you, but you called them untrue, and waxed proud, and became of those who disbelieved...). In this verse, what the disbelievers said in: (If Allah were to show me the way, I would have surely been among those who fear Allah",- 39:57) has been answered. The outcome of this verse is that Allah had already given the necessary guidance, fully and conclusively. He had sent His books, verses and signs. Therefore, their claim that Allah gave them no guidance was absurd. Of course, once He had given the guidance, Allah never forced anyone to be good and obedient. In fact, every servant of His was given the choice to take to either the way of the truth or the way of the false. This was a test for the maker of the choice. On this depended his or her success or failure. Whoever took to the way of error by one's own free will, choice and volition, he or she is, himself or herself, responsible for it.
 
+## AI Translation
+
+Not at all! My revelations had already come to you, but you rejected them, acted arrogantly, and were among those who rejected the truth."
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, there came to you My Ayat and you denied them, and were proud and were among the those who reject the truth . And if they cease not from what they say, verily, a painful torment will befall on the those who reject the truth among them.)(5:73).
+
+**Classical tafsir:** Ibn Kathir notes: Or he should say when he sees the torment: "If only I had another chance, then I should indeed be among the doers of good.") means, he will wish that he could go back to this world, so that he could do righteous deeds.
 ## Personal Reflections
 
 

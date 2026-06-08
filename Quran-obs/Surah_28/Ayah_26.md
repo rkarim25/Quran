@@ -136,6 +136,17 @@ Al-Bukhari recorded that Sa'id bin Jubayr said: "A Jew from the people of Hirah 
 
 إِنَّ خَيْرَ‌ مَنِ اسْتَأْجَرْ‌تَ الْقَوِيُّ الْأَمِينُ (The best man you hire is the one who is strong, trustworthy - 28:26), One of the daughters of Sayyidna Shu'aib (علیہ السلام) pleaded to her father that as he needed the services of a man to help him in his. daily work at home, he might consider hiring him for this purpose. In support of her suggestion she said further that two qualities are required in a servant. One, that he should be strong, and the second, that he should be trustworthy. The girl pointed out that she had seen his strength when he removed the stone from the mouth of the well, and his integrity when he made her walk behind him.
 
+## AI Translation
+
+One of the two daughters suggested, “O my dear father! Hire him. The best man for employment is definitely the strong and trustworthy one.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Rather she said: "My father is inviting you so that he may reward you for watering our sheep," i.e., give you some payment for that.
+
+**Classical tafsir:** Ibn Kathir notes: And there is evidence which indicates that Musa, peace be upon him, fulfilled the longer of the two terms.
+
+**From the Sunnah:** And the Messenger of Allah ﷺ said to Hamzah bin 'Amr Al-Aslami, may Allah be pleased with him, who used to fast a great deal and who asked him about fasting while traveling:
 ## Personal Reflections
 
 

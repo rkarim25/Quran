@@ -104,6 +104,15 @@ In response, Sayyidna Musa (علیہ السلام) had shown the miracle of his 
 
 In addition to that, it has been the customary practice of Allah Ta’ ala that, once some people were granted the miracle they had asked for - and they still failed to believe - then, they were destroyed through a mass punishment. But, in view of the intended survival of the community of the Holy Prophet and with the objective of keeping it safe from any mass punishment, no such miracle on demand was shown before it.
 
+## AI Translation
+
+saying, "This is nothing but pure magic.
+
+## AI Tafsir
+
+**What this ayah teaches:** It is obvious that declaring an evidence and argument to be open magic does not make any sense. And place after place in the Qur'an, the word: v i (ayat) has appeared in the sense of mu jizah or miracle.
+
+**Classical tafsir:** Ibn Kathir notes: And place after place in the Qur'an, the word: v i (ayat) has appeared in the sense of mu jizah or miracle.
 ## Personal Reflections
 
 

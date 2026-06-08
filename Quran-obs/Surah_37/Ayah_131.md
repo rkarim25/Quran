@@ -74,6 +74,17 @@ Allah sent him to the Children of Israel after Hizqil (Ezekiel), may peace be up
 
 The word: إِلْ يَاسِينَ (il ya sin) used in: سَلَامٌ عَلَىٰ إِلْ يَاسِينَ (Salam on it ya sin -130) is also the very name of Sayyidna Ilyas (علیہ السلام) . The people of Arabia are used to adding the letters 'ya' and 'nun' with non-Arab names fairly often - for example, (sina: Sinai) could take the form of سِینِین (sinin). Similarly, here too, two letters have been added.
 
+## AI Translation
+
+Indeed, this is how We reward the good-doers.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah sent him to the Children of Israel after Hizqil (Ezekiel), may peace be upon them both.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ikrimah and Qatadah said, "This is the language of the people of Yemen." According to another report from Qatadah, it is the language of Azd Shanu'ah.
+
+**From the Sunnah:** Qatadah and Muhammad bin Ishaq said, "Ilyas is another name for Idris." Ibn Abi Hatim recorded that 'Abdullah bin Mas'ud, may Allah be pleased with him, said, "Ilyas is Idris." This was also the view of Ad-Dahhak .
 ## Personal Reflections
 
 

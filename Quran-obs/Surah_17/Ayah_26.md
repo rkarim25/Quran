@@ -126,6 +126,17 @@ Previous verses were devoted to teachings about the rights of parents and how th
 
 In this verse, it has been said that the necessary financial assistance provided to the needy and the wayfarer, and the mercy and generosity practiced in the case of kinsfolk, was their right. The purpose is to point out that the giver has no reason or occasion to harp on the favor done before or behind them because their right is his duty. The giver is simply doing his duty and not showering favours on anyone.
 
+## AI Translation
+
+Give to close relatives their due, as well as the poor and needy travellers. And do not spend wastefully.
+
+## AI Tafsir
+
+**What this ayah teaches:** And give to the kinsman his due, and to the Miskin (poor), and to the wayfarer. If there are several relatives in the same degree of extended means, the expenses will be divided over all of them and the subsistence allowance of the needy will be given in this manner.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn Mas'ud said: "This refers spending extravagantly when it is not appropriate." Ibn 'Abbas said likewise.
+
+**From the Sunnah:** If I pay Zakah to your messenger, will I be absolved of that duty before Allah and His Messenger?' The Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

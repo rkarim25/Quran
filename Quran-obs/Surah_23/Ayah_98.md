@@ -87,6 +87,17 @@ Then Allah shows him the best way to behave when mixing with people, which is to
 
 أَن يَحْضُرُ‌ونِ (from that they come to me - 23:98) According to a Hadith in Sahih of Muslim the Holy Prophet ﷺ is reported to have said that Shaitan meddles in all human affairs and tempts people to do evil deeds, and that this prayer is the best protection against his attempts. (Qurtubi)
 
+## AI Translation
+
+And I seek refuge in You, my Rabb, that they even come near me.”
+
+## AI Tafsir
+
+**What this ayah teaches:** I seek refuge with You from the whisperings of the Shayatin.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** If You would show me that with which they are threatened.) meaning, 'if You punish them while I am witnessing that, then do not cause me to be one of them.' As was said in the Hadith recorded by Imam Ahmad and At-Tirmidhi, who graded it Sahih: (Musnad Ahmad, Jami' at-Tirmidhi) We have already stated, when discussing Isti'adhah (seeking refuge), that the Messenger of Allah ﷺ used to say,
 ## Personal Reflections
 
 

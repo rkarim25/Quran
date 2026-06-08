@@ -176,6 +176,19 @@ Surah Al-Lahab
 
 Ends here
 
+## AI Translation
+
+Around her neck will be a rope of palm fibre—a symbol of the burden she chose and the humiliation that follows arrogance against Allah.
+
+## AI Tafsir
+
+**Context:** The Reason for the Revelation of this Surah and the Arrogance of Abu Lahab toward the Messenger of Allah (ﷺ)
+
+**What this ayah teaches:** In her neck is a twisted rope of Masad.) The Reason for the Revelation of this Surah and the Arrogance of Abu Lahab toward the Messenger of Allah (ﷺ) Al-Bukhari recorded from Ibn 'Abbas that the Prophet ﷺ went out to the valley of Al-Batha and he ascended the mountain.
+
+**Classical tafsir:** Ibn Kathir notes: If the word is read as masad with the letters m-s bearing fatha [= a-a ], the word refers to fibres.
+
+**From the Sunnah:** from Ibn 'Abbas that the Prophet ﷺ went out to the valley of Al-Batha and he ascended the mountain. (Sahih al-Bukhari) This man Abu Lahab was one of the uncles of the Messenger of Allah ﷺ.His name was 'Abdul-'Uzza bin Abdul-Muttalib.
 ## Personal Reflections
 
 

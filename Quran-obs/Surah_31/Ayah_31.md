@@ -149,6 +149,17 @@ In this verse, by saying: بِمِثْلِهِ (bimithlihi: like it), a clear hi
 
 As it appears in some narratives, this verse was revealed in response to a question posed by Jewish priests. The reason which prompted them to ask this question was the verse of the Qur'an where it has been said: وَمَا أُوتِيتُم مِّنَ الْعِلْمِ إِلَّا قَلِيلًا (and you are not given but a little from the knowledge - A1-'Isra', 17:85). When the Holy Prophet ﷺ came to the blessed city of Madinah, some Jewish priests visited him and it was about this verse that they confronted him by saying, "You say that you have been given a little from the knowledge. Is this what you are saying about your people, or have you included us too therein?" The Holy Prophet ﷺ said, "I mean all," that is, 'our people and the Jews and Christians as well.' Thereupon, increasing the tempo of their opposition, they said, "To us, Allah Ta’ ala has given the Torah which stands out as: تِبْيَانًا لِّكُلِّ شَيْءٍ (an explanation of everything)." He said, "That too is but a little as compared to Divine Knowledge. Then, even the total knowledge contained in the Torah is not known to you either - what you go by is no more than a certain measure of what you need. Therefore, as compared to the Divine Knowledge, the collective knowledge of all Scriptures and Prophets is also nothing but a little." It was to support this statement that the verse: وَلَوْ أَنَّمَا فِي الْأَرْ‌ضِ مِن شَجَرَ‌ةٍ أَقْلَامٌ (And if all trees that are on the earth were to be pens... - 27) was revealed. (Ibn Kathir)
 
+## AI Translation
+
+Do you not see ships sailing through the sea by Allah's grace so He may show you signs? In that are signs for whoever is steadfast and grateful.
+
+## AI Tafsir
+
+**Context:** As it appears in some narratives, this verse was revealed in response to a question posed by Jewish priests. The reason which prompted them to ask this question was the verse of the Qur'an where it has been said: وَمَا أ…
+
+**What this ayah teaches:** See you not that the ships sail through the sea by Allah's grace that He may show you of His signs? Allah tells us that He is the One Who has subjugated the sea so that ships may sail on it by His command,i.e, His power.For if He did not give the water the strength to carry the ships, they would not sail.
+
+**Classical tafsir:** Ibn Kathir notes: This word describes a person who, whenever he makes a promise, breaks his promise, and it refers to the worst form of treachery.
 ## Personal Reflections
 
 

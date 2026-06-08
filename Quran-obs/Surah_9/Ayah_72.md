@@ -176,6 +176,17 @@ It is interesting that the text, while making a comparison between hypocrites an
 
 Moreover, since this friendship and concern for each other is for Allah alone, it is always constant. It remains the same under all conditions, open or secret, present or absent. And it is lasting. This is the mark of a true believer. It is in the very nature of 'Iman (faith) and Al-Amal as-Salih اَلاَعمَال اصَآالح (good deed) that they generate mutual love and friendship. The Holy Qur'an confirms it when it says: سَيَجْعَلُ لَهُمُ الرَّ‌حْمَـٰنُ وُدًّا (19:96). It means that among those who have believed and taken to consistent good conduct in life, Allah Ta` ala creates friendship that is deeply rooted into their hearts. What has happened to us in our time? May be we are short on the faith in our hearts and the concern for good in our conduct. That is why mutual relationships among Muslims do not seem to be what the Qur'an would like them to be. Unfortunately, these are subservient to worldly needs and interests - and are not for the sake of Allah alone, as they should be.
 
+## AI Translation
+
+Allah has promised those who have iman, both men and women, Gardens under which rivers flow, to stay there forever, and splendid homes in the Gardens of Eternity, and—above all—the pleasure of Allah. That is the ultimate triumph.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah has promised the believers – men and women, – Gardens under which rivers flow to dwell therein forever, and beautiful mansions in gardens of 'Adn (Eden; Paradise).
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Paradise by Allah, no matter whether he emigrates in Allah's cause, or remains in the land where he is born. Paradise, it will be for only one man, and I hope I am that man.
 ## Personal Reflections
 
 

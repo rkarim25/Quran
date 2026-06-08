@@ -183,6 +183,17 @@ Injunctions and related considerations
 
 In short, Verse 148 has, according to a consensus of all the Fugaha', established the principle that when the time for offering a prescribed prayer has arrived, one should not delay it without a valid excuse, which may either be a clear-cut specification in the Shari'ah (as we have just defined), or a physical disability, like illness, etc.
 
+## AI Translation
+
+Wherever you go, turn your face toward the Sacred Mosque. This is truth from your Rabb. Allah is not unaware of what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** Thus Allah states that this is also the truth from Him that He likes and is pleased with.
+
+**Classical tafsir:** Ibn Kathir notes: Verse 149 repeats the commandment with the addition of the phrase "from wheresoever you set out", which shows that the injunction now refers to the state of a journey.
+
+**From the Sunnah:** In the third command, Allah refutes the Jewish assertion that the Prophet faced their Qiblah ﷺ, as they knew in their Books that the Prophet ﷺ will later on be commanded to face the Qiblah of Ibrahim, the Ka'bah. Therefore, the People of the Book knew from the description of the Muslim Ummah that they would be ordered to face the Ka'bah. (Sahih Muslim)
 ## Personal Reflections
 
 

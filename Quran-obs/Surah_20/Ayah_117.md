@@ -143,6 +143,17 @@ Only four things fall within the definition of obligatory maintenance.
 
 Qurtubi says that this verse clearly indicates that there are four things only which a husband must provide for his wife namely food, water, clothes and shelter. Anything else which he gives her will be regarded as gift, but is not binding on him. From this it has also been deduced that wherever Islamic law makes a person responsible for the maintenance of somebody else (such as sick and needy parents whose maintenance is the responsibility of the children), it is obligatory on him to provide only these four things.
 
+## AI Translation
+
+So We cautioned, “O Adam! This is surely an enemy to you and to your wife. So do not let him drive you both out of Paradise, for you O Adam would then suffer hardship.
+
+## AI Tafsir
+
+**What this ayah teaches:** Here the word has obviously been used in the second meaning because it cannot be used in its first meaning even for pious Muslims, leave alone the prophets. So let him not get you both out of Paradise, so that you will be distressed.
+
+**Classical tafsir:** Ibn Kathir notes: Adam and Iblis Ibn Abi Hatim recorded that Ibn 'Abbas said, "Verily, man was named Insan only because he was given a covenant, but he forgot it (Nasiya)." 'Ali bin Abi Talhah reported the same from Ibn 'Abbas. He also explains the enmity of Iblis for the Children of Adam and for their father, Adam, before them.
+
+**From the Sunnah:** Ibn Abi Hatim recorded that Ibn 'Abbas said, "Verily, man was named Insan only because he was given a covenant, but he forgot it (Nasiya)." 'Ali bin Abi Talhah reported the same from Ibn 'Abbas.
 ## Personal Reflections
 
 

@@ -122,6 +122,17 @@ According to the majority of Muslim scholars, the station of Nu-buwwah (propheth
 
 And We have not sent any (one) before you but men to whom We revealed from among the peoples of the towns - Surah Yusuf, 12 : 109. (Tafsir Usmani)
 
+## AI Translation
+
+Say, “How can you worship besides Allah those who can neither harm nor benefit you? And Allah is the All-Hearing, All-Knowing.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, how did you worship inanimate objects that do not hear, see or know anything - having no power to bring harm or benefit to themselves let alone others - instead of worshipping Allah? In the present verse (75), the complimentary use of the word "Siddiqah" (truthful) obviously seems to indicate that she was a godly person, not a Nabiyy ( prophet) - because on a complimentary occasion, wha…
+
+**Classical tafsir:** Ibn Kathir notes: In the present verse (75), the complimentary use of the word "Siddiqah" (truthful) obviously seems to indicate that she was a godly person, not a Nabiyy ( prophet) - because on a complimentary occasion, what is mentioned is the higher rank.
+
+**From the Sunnah:** According to the majority of Muslim scholars, the station of Nu-buwwah (prophethood) has never appeared among women. (Sahih Muslim)
 ## Personal Reflections
 
 

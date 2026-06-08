@@ -80,6 +80,15 @@ Allah tells us that on the Day of Resurrection, when the people of Paradise have
 
 The word: يَدَّعُونَ (yadda’ un) appearing in verse 57: وَلَهُم مَّا يَدَّعُونَ (wa lahum ma yadda un) is a derivation from: دَعوَیٰ (da'wah) which means to call, that is, the thing the people of Jannah will call or wish to have, will come to them. The Qur'an has not used the word: يَسْأَلُونَ Yas’ alun: they ask) at this place, because having something after having asked for it is also a sort of exertion, something the Jannah will be free from, in fact, it will be a place where everything needed will be ready and present.
 
+## AI Translation
+
+There they will have fruits and whatever they desire.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, the dwellers of the Paradise, that Day, will be busy with joyful things (55)They and their wives will be in pleasant shade, reclining on thrones (56)They will have therein fruits and all that they ask for (57)(It will be said to them): "Salam (Peace!)" – a Word from the Lord, ar-Rahim .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

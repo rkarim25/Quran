@@ -194,6 +194,19 @@ It is masnun to make this prayer particularly while making tawaf. This verse als
 
 In the concluding part of this verse, the end of the other class of people who pray for the good of the dunya دنیا (mortal world) and akhirah آخِرَ‌ةِ (Hereafter) both has been stated by saying that they will be rewarded in both the worlds for their correct and righteous conduct and for their prayers. Following that, it has been said: وَاللَّـهُ سَرِ‌يعُ الْحِسَابِ (And Allah is swift at reckoning) because His all-pervading knowledge and most perfect power is sufficient to assess the life-long deeds of each and every person who ever breathed in His creation; for this He needs none of those computing mechanisms and means on which only man depends. So, the time will soon come when He shall make man account for what he did, and it will be on the basis of that accounting that he will spread out His reward and punishment.
 
+## AI Translation
+
+And among them are those who say, "Our Rabb, give us good in this world and good in the Akhirah, and protect us from the Fire."
+
+## AI Tafsir
+
+**Context:** Sa'id bin Jubayr said that Ibn 'Abbas said, "During the time of Jahiliyyah, people used to stand during the (Hajj) season, and one of them would say, 'My father used to feed (the poor), help others (end their disputes, w…
+
+**What this ayah teaches:** Give us in this world that which is good and in the Hereafter that which is good, and save us from the torment of the Fire!
+
+**Classical tafsir:** Ibn Kathir notes: It also refers to being questioned lightly and the other favors in the Hereafter.
+
+**From the Sunnah:** that the Prophet ﷺ used to say: (Sahih al-Bukhari) to him, 'Were you asking or supplicating to Allah about something? (Sahih Muslim, Musnad Ahmad)
 ## Personal Reflections
 
 

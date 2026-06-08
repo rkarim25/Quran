@@ -173,6 +173,15 @@ From the sky mountains (of clouds) having hail in them - 43.
 
 Here the word سَمَاء is purported for clouds, and Jibal جِبَالٍ (mountains) for big masses of clouds, while hails are called Barad.
 
+## AI Translation
+
+And Allah has created from water every living creature. Some of them crawl on their bellies, some walk on two legs, and some walk on four. Allah creates whatever He wills. Surely Allah is Most Capable of everything.
+
+## AI Tafsir
+
+**What this ayah teaches:** Of them there are some that creep on their bellies, and some that walk on two legs, and some that walk on four.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -140,6 +140,17 @@ Also, Ibn Jarir said that the term 'Amah, in the Ayah means, 'deviation'. He als
 
 The eighth verse is a comment on this attitude of complacency and self-congratulation on the part of the hypocrites. They are mightily pleased with themselves in the belief that they can so easily make a fool of the Muslims and get away with it, while they are, in fact, only making a fool of themselves. For Allah has, in His forbearance and mercy, given them a long rope, but this is a provision for their being thrown into ridicule. It took place like this. Since the hypocrites saw no apparent signs of divine punishment descending on themselves, they were encouraged in their complacency and rebellion, so that the cup of their iniquity was full, and one day they were caught. Allah acted like this in response to their mockery; so, the Holy Qur'an describes this divine action too as a mockery on the part of Allah.
 
+## AI Translation
+
+Allah throws their mockery back at them and leaves them wandering blindly in their defiance.
+
+## AI Tafsir
+
+**What this ayah teaches:** For Allah has, in His forbearance and mercy, given them a long rope, but this is a provision for their being thrown into ridicule.
+
+**Classical tafsir:** Ibn Kathir notes: The Hypocrites' Cunning and Deceit Allah said that when the hypocrites meet the believers, they proclaim their faith and pretend to be believers, loyalists and friends.
+
+**From the Sunnah:** As-Suddi reported that Ibn 'Abbas, Ibn Mas'ud and several other Companions of the Messenger of Allah ﷺ said that, They are mightily pleased with themselves in the belief that they can so easily make a fool of the Muslims and get away with it, while they are, in fact, only making a fool of themselves.
 ## Personal Reflections
 
 

@@ -438,6 +438,17 @@ It means that they should not fear that their people will stop following them or
 
 And whoever does not judge by what Allah has sent down, then, they are the disbelievers.
 
+## AI Translation
+
+Indeed, We revealed the Torah, containing guidance and light, by which the prophets, who submitted themselves to Allah, made judgments for Jews. So too did the rabbis and scholars judge according to Allah’s Book, with which they were entrusted and of which they were made keepers. So do not fear the people; fear Me! Nor trade my revelations for a fleeting gain. And those who do not judge by what Allah has revealed are those who reject the truth.
+
+## AI Tafsir
+
+**Context:** These honorable Ayat were revealed about those who rush into disbelief, deviating from the obedience of Allah, His Messenger, prefering their opinions and lusts to what Allah has legislated, It was reported that this par…
+
+**What this ayah teaches:** Otherwise, the Torah too is a Book revealed by the same Revealer.
+
+**Classical tafsir:** Ibn Kathir notes: Al-'Awfi and 'Ali bin Abi Talhah reported that Ibn 'Abbas said that these Ayat were revealed about the two Jews who committed adultery, and we mentioned the Hadiths about this story before.
 ## Personal Reflections
 
 

@@ -114,6 +114,15 @@ Ibn Abi Hatim reported that 'Abdullah bin Mas'ud was asked about a man committin
 
 The verse 153 speaks of the people who repented to Allah for their sin after the admonitions of their Prophet, and fulfilled the formidable condition of killing each other for their forgiveness. They killed each other as was stipulated in the command of Allah for their forgiveness by Allah. The Prophet Musa (علیہ السلام) called them to him and informed them that Allah had accepted their repentance. The people killed in this combat were awarded martyrdom while those who survived were forgiven by Allah. This implies that those who get themselves involved in sinful acts, if repent to Allah and correct their belief, Allah forgives them in His mercy with no regard to the gravity of the act. It is, therefore wise to turn to Allah in repentance instantly after every sinful act.'
 
+## AI Translation
+
+But those who commit evil, then repent and become those who have iman, your Rabb will certainly be All-Forgiving, Most-Merciful.
+
+## AI Tafsir
+
+**What this ayah teaches:** Thus do We recompense those who invent lies (152)But those who committed evil deeds and then repented afterwards and believed, verily, your Lord after (all) that is indeed Oft-Forgiving, ar-Rahim .
+
+**Classical tafsir:** Ibn Kathir notes: The 'wrath' mentioned here that struck the Children of Israel because of their worshipping the calf, means, Allah did not accept their repentance until some of them [who did not worship the calf] killed others [who worshipped the calf].
 ## Personal Reflections
 
 

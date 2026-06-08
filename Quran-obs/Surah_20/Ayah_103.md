@@ -101,6 +101,15 @@ This means that you only remained in it (the earth) a little while. If you only 
 
 يُنفَخُ فِي الصُّورِ‌ (رضی The Day when the Horn الصُّورِ‌ [ Sur ] will be blown - 20:102) According to Sayyidna Ibn ` Umar اللہ تعالیٰ عنہما ، a Bedouin الصُّورِ‌ asked the Holy Prophet ﷺ about صُور (the Horn) to which he replied that it is something like a horn which will be blown, meaning thereby that when the angel will blow into it all those who had lain dead for centuries will return to life. Only Allah knows the true nature of the Sur (the Horn).
 
+## AI Translation
+
+They will whisper among themselves, “You stayed no more than ten days on the earth.”
+
+## AI Tafsir
+
+**What this ayah teaches:** For the worldly life, with its repetitious time periods and successive nights, days and hours, is as if it is just one day.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

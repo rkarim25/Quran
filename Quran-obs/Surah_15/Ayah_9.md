@@ -105,6 +105,17 @@ One who says that the Ahadith of the Rasul ﷺ of Allah are not absolutely prote
 
 There are people around who would like to deceive the whole world by saying that the treasure of Ahadith present in authentic books is not trustworthy because it has been documented much later than the blessed age of the Holy Prophet ﷺ . First of all, even this assumption of theirs is not correct because the process of protection and documentation of Ahadith had already started within the age of prophethood itself, though it was completed later. In addition to that, the Hadith of the Rasul of Allah is really the explanation of the Qur’ an and the meaning of the Qur’ an. Their protection is something which Allah Ta’ ala has taken upon Himself. Then, how can it be possible that only the words of the Qur’ an remain protected while the meanings of the Qur’ an (that is, the Ahadith of the Rasul) go to waste?
 
+## AI Translation
+
+We certainly revealed the Reminder, and We will certainly preserve it.
+
+## AI Tafsir
+
+**What this ayah teaches:** This also leads us to the ruling that the practice of people who publish the translation of the Qur’ an only in a foreign language and give it the name, for example, an English Qur’ an or an Urdu Qur’ an, is not permissible at all - because, that is not the Qur’ an.
+
+**Classical tafsir:** Ibn Kathir notes: This also leads us to the ruling that the practice of people who publish the translation of the Qur’ an only in a foreign language and give it the name, for example, an English Qur’ an or an Urdu Qur’ an, is not permissible at all - because, that is not the Qur’ an.
+
+**From the Sunnah:** To test him, Ma'mun asked him to become a Muslim in which case he could hope to have the best possible treatment from him.
 ## Personal Reflections
 
 

@@ -133,6 +133,17 @@ There are some crimes the punishment of which comes even within the mortal world
 
 The last sentence of the set of verses cited above reads:إِنَّا مِنَ الْمُجْرِ‌مِينَ مُنتَقِمُونَ (We have to take vengeance upon the sinners - 22). Obviously, the word: الْمُجْرِ‌مِينَ (al-mujrimin: the criminals) includes all kinds of criminals. Then, the word: اِنتِقَام (intiqam: revenge, retribution, return) is also general. It may be in the mortal world or in the Hereafter or in both. But, from some Hadith accounts it appears that there are three sins the punishment of which is experienced - before the Hereafter - right here in this world too. They are: (1) To strive against what is Right and True publicly with flags and slogans; (2) To disobey parents; (3) To help someone unjust or oppressive. (Reported by Ibn Jarir from Sayyidna Mu'dh Ibn Jabal ؓ .
 
+## AI Translation
+
+Who does greater wrong than one reminded of Allah's ayahs yet turns away? We will surely punish the wicked.
+
+## AI Tafsir
+
+**Context:** (Is then he who is a believer like him who is a rebellious? Not equal are they.) i.e., before Allah on the Day of Resurrection.
+
+**What this ayah teaches:** But, from some Hadith accounts it appears that there are three sins the punishment of which is experienced - before the Hereafter - right here in this world too.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

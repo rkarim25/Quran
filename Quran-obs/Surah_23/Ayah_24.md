@@ -150,6 +150,15 @@ Allah tells us about Nuh, peace be upon him, whom He sent him to his people to w
 
 In the last benefit, ships and boats are also included, because they are also used in transportation وَعَلَيْهَا وَعَلَى الْفُلْكِ تُحْمَلُونَ (And on them and on the boats you are transported - 23:22). All types of mounts which are run with wheels may also be added to fulk (boats) because they render the same service.
 
+## AI Translation
+
+But the rejecting the truth chiefs of his people said to the masses, “This is only a human like you, who wants to be superior to you. Had Allah willed, He could have easily sent down angels instead. We have never heard of this in the history of our forefathers.
+
+## AI Tafsir
+
+**What this ayah teaches:** Had Allah willed, He surely could have sent down angels.
+
+**Classical tafsir:** Ibn Kathir notes: All types of mounts which are run with wheels may also be added to fulk (boats) because they render the same service.
 ## Personal Reflections
 
 

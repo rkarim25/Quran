@@ -146,6 +146,15 @@ Allah's saying;
 
 أَلْقِيَا فِي جَهَنَّمَ كُلَّ كَفَّارٍ‌ عَنِيدٍ (Cast, both of you [ 0 angels,] into Jahannam every stubborn disbeliever.... 50:24]. The verb alqiya is grammatically dual in number, that is, addressed to two persons. It appears that Allah will say these words to the Sa'iq and Shahid angels; Allah will order them to throw him in the fire of Hell. Some other scholars explain it differently (Ibn Kathir).
 
+## AI Translation
+
+who set up another god with Allah. Cast them into the severe punishment.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Angel will bear Witness; Allah commands that the those who reject the truth be thrown into the Fire Allah the Exalted states that the scribe angel, who is entrusted with recording the deeds of mankind, will testify against him or her about the deeds he or she did on the Day of Resurrection.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -192,6 +192,15 @@ The word الْقَارِ‌عَةِ Al-Qari'ah, literally, means 'rumbling'. Th
 
 The word الطَّاغِيَةِ At-Taghiyah is derived from tughyan which means 'to exceed the limit', signifying an extremely severe punishment, that is, 'it would be such high pitched sound which would exceed the limit of any of the sounds of the mortal world, and the human heart or brain would not be able to bear'. When Thamud exceeded the limit in denying the Day of Judgment, they were destroyed by that dreadful cry which exceeded all limits. It was a combination of most high pitched sound of thunderbolt together with a flash of lightning that struck them which rent their hearts.
 
+## AI Translation
+
+And what will make you realize what the Inevitable Hour is?
+
+## AI Tafsir
+
+**What this ayah teaches:** And what will make you know what Al-Haqqah is?)(4.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said similar to this when he said, "At-Taghiyah is the shout." Mujahid said, "At-Taghiyah means the sins." This was also said by Ar-Rabi' bin Anas and bin Zayd. And We have created for them of the like thereunto, on which they ride.)(36:41,42) Qatadah said, "Allah caused this ship to remain until the first people of this Ummah saw it." However, the first view (that it refers to all ships in…
 ## Personal Reflections
 
 

@@ -120,6 +120,15 @@ Fir'awn said, 'I will not believe in what you have said nor entertain your reque
 
 In the light of these clear signs he must believe him and let the children of Isra'il go with him free of his illegitimate surveillance.
 
+## AI Translation
+
+And Moses said, “O Pharaoh! I am truly a messenger from the Rabb of all worlds, obliged to say nothing about Allah except the truth. Indeed, I have come to you with clear proof from your Rabb, so let the children of Israel go with me.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Indeed I have come unto you from your Lord with a clear proof. Therefore, he said, 'if you have proof, then produce it for us to see, so that we know if your claim is true.'
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, he said, 'if you have proof, then produce it for us to see, so that we know if your claim is true.'
 ## Personal Reflections
 
 

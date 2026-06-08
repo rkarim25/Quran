@@ -189,6 +189,19 @@ On a superficial view of the verse كَيْفَ يَهْدِي اللَّـهُ 
 
 The answer is that the withholding of guidance mentioned here is in accordance with common usage. For instance, some criminal when punished by a certain ruler may say, 'I have been given a special treatment by the ruler with his own hands.' And in answer to him, it is said: 'Why are we going to give a special treatment to such a criminal?' That is, there is just no special treatment called for in this case, while it does not mean that such a person cannot, in any way, become deserving of special treatment even if he behaved well. (Bayern a1-Qur'an)
 
+## AI Translation
+
+Indeed, if each of those who reject the truth then die as those who reject the truth were to offer a ransom of enough gold to fill the whole world, it would never be accepted from them. It is they who will suffer a painful punishment, and they will have no helpers.
+
+## AI Tafsir
+
+**Context:** (never will their repentance be accepted. And they are those who went astray.) to those who abandon the path of truth for the path of wickedness.
+
+**What this ayah teaches:** For them is a painful torment and they will have no helpers .
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hafiz Abu Bakr Al-Bazzar recorded that Ibn 'Abbas said that some people embraced Islam, reverted to disbelief, became Muslims again, then reverted from Islam.
+
+**From the Sunnah:** some people embraced Islam, reverted to disbelief, became Muslims again, then reverted from Islam. The Prophet ﷺ was asked about 'Abdullah bin Jud'an, who used to be generous to guests, helpful to the indebted and who gave food (to the poor); will all that benefit him?
 ## Personal Reflections
 
 

@@ -160,6 +160,17 @@ This is the end of the Tafsir of Surat Ar-Rahman, all praise is due to Allah and
 
 تَبَارَ‌كَ اسْمُ رَ‌بِّكَ ذِي الْجَلَالِ وَالْإِكْرَ‌امِ (Glorious is the name of your Lord, the Lord of Majesty, the Lord of Honor....55:78) Surah Ar-Rahman is replete with verses that call attention to Allah's blessings, boons and bounties, and His favors upon man. In conclusion, this verse has been appended as a synopsis: What can one say about the Pure Being? Even His Name is Glorious. All Divine boons and bounties subsist by virtue of His Name. Allah, the Pure and the Most High, knows best!
 
+## AI Translation
+
+Blessed is the Name of your Rabb, full of Majesty and Honour.
+
+## AI Tafsir
+
+**What this ayah teaches:** And below these two, there are two other Gardens (62)Then which of the blessings of your Lord will you both deny (63)Mudhāmmatān (64)Then which of the blessings of your Lord will you both deny (65)In them (both) will be two springs Naddakhatan (66)Then which of the blessings of your Lord will you both deny (67)In them (both) will be fruits, and date palms and pomegranates (68)Then which of the ble…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** that this tent is thirty miles wide (Sahih Muslim)
 ## Personal Reflections
 
 

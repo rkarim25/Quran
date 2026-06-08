@@ -221,6 +221,15 @@ And their hearts shall be hollow.
 
 After the shape of things to come upon them has been stated, the address is to the Holy Prophet ﷺ who has been asked to warn his people of the punishment of that day, the day on which the unjust and the wrong-doing will have no choice but to call their Lord for some more time to return to the world they knew so that they could say yes to the call of prophets and follow them this time and may thereby have their deliverance from this punishment. The answer to their request will come from Allah Ta’ ala wherein it will be said: This is what you are saying now. Is it not that you had been giving sworn statements to the effect that your wealth and power shall never part with you, and that you shall go on living in the world just like that, in comfort and luxury, forever; and is it not that you had rejected the idea that you will live again and that there was a world hereafter?
 
+## AI Translation
+
+Warn people of the Day when punishment overtakes the wicked. Wrongdoers will cry: "Our Rabb, delay us a little—we will answer Your call and follow the messengers!" It will be said: "Did you not swear before that you would never be removed?"
+
+## AI Tafsir
+
+**What this ayah teaches:** In the second verse (43), it has been said that the postponement of sudden punishment against these unjust people is not any better for them because, ultimately, they will be seized in the great punishment of the Qiyamah and the 'Akhirah which will overtake them all of a sudden.
+
+**Classical tafsir:** Ibn Kathir notes: In the second verse (43), it has been said that the postponement of sudden punishment against these unjust people is not any better for them because, ultimately, they will be seized in the great punishment of the Qiyamah and the 'Akhirah which will overtake them all of a sudden.
 ## Personal Reflections
 
 

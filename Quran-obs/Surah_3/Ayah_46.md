@@ -125,6 +125,17 @@ One answer to this question appears in Bayan al-Qur'an by Maulana Ashraf Thanavi
 
 Hadith narrations prove that Sayyidna (علیہ السلام) while so raised, was in the approximate age bracket of 30-35 years which is youth at its best. Middle age, kohl in Arabic, was something he never reached during his life in this world. So, his talking to people in his middle age can happen only when he were to grace this world once again with his presence. Therefore, the way his childhood speech was a miracle, his speech in the middle age could be nothing else but another miracle.
 
+## AI Translation
+
+And he will speak to people in infancy and adulthood and will be one of the righteous.”
+
+## AI Tafsir
+
+**What this ayah teaches:** 'Isa will be honored in the Hereafter and will intercede with Allah, by His leave, on behalf of some people, just as is the case with his brethren the mighty Messengers of Allah, peace be upon them all.
+
+**Classical tafsir:** Ibn Kathir notes: Allah used the word 'create' here instead of the word 'does' as in the tale about Zakariyya [3:40], to eradicate any evil thought concerning 'Isa.
+
+**From the Sunnah:** But, speaking to people during one's middle age is very normal, something everyone does no matter whether he is a Muslim, or a non-Muslim, learned or illiterate. (Sahih Muslim)
 ## Personal Reflections
 
 

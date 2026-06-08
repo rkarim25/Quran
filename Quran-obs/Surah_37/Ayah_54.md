@@ -118,6 +118,17 @@ An advice to avoid bad company
 
 Anyhow, whoever this person may be - it does not matter. This event has been mentioned with a purpose. The noble Qur'an is really alerting people towards a beneficial rule operative in human relations. Let everyone make a careful survey of his or her circle of friends, and try to find out whether or nor there is someone included therein who may actually be dragging them towards the sad end of the Jahannam. The destruction bad company can bring about can only be discovered fully and truly in the Hereafter - and that will be a time when there will be no escape from such destruction. Therefore, it is better to take one's guard right here in this world in matters concerning the taking of friends and promoting of relationships, something that must be done with due caution and judgment. There are occasions and circumstances when one does not foresee what would happen after having inculcated relationships with someone who disbelieves or disobeys. What ultimately happens is that one starts becoming affected by his ideas, thoughts and way of life without having any sense of that which is happening to him. This attitude proves lethal for one who is so affected in terms of the end he would have in the Hereafter.
 
+## AI Translation
+
+He will then ask: "Would you care to see his fate?"
+
+## AI Tafsir
+
+**What this ayah teaches:** Except our first death, and we shall not be punished?) This is what the believers will say when they feel joy at what Allah has given them, and they realize that they are to remain in Paradise forever with no punishment and no death to come. The one who had a craft said to the other, 'You do not have a craft, so I think I will divide the money with you and leave you.' So he left him.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, it cannot be said with any degree of certainty as to who this person could be.
+
+**From the Sunnah:** Abu Ja'far bin Jarir recorded that Furat bin Tha'labah Al-Bahrani said concerning the Ayah, Paradise – and he gave one thousand Dinars in charity.
 ## Personal Reflections
 
 

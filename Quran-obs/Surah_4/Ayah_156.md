@@ -330,6 +330,17 @@ Az-Zuhri commented that Ibn Qatan was a man from the tribe of Khuza'ah who died 
 
 Like the earlier verses, the censure of Jews continues through the present ones. As a thematically coherent subject, their false ideas have also been refuted which have been discussed in detail in the following commentary.
 
+## AI Translation
+
+For breaking their covenant, rejecting Allah’s signs, killing the prophets unjustly, and for saying, “Our hearts are unreceptive!”—it is Allah Who has sealed their hearts for their rejection of the truth, so they do not believe except for a few— and for their denial and outrageous accusation against Mary, and for boasting, “We killed the Messiah, Jesus, son of Mary, the messenger of Allah.” But they neither killed nor crucified him—it was only made to appear so. Even those who argue for this are in doubt. They have no knowledge whatsoever—only making assumptions. They certainly did not kill him.
+
+## AI Tafsir
+
+**What this ayah teaches:** This meaning is also apparent in the Ayah, as the Jews accused Maryam and her son of grave accusations: They accused her of fornication and claimed that 'Isa was an illegitimate son.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, you are a mad man!)[15:6] When Allah sent 'Isa with proofs and guidance, the Jews, may Allah's curses, anger, torment and punishment be upon them, envied him because of his prophethood and obvious miracles; curing the blind and leprous and bringing the dead back to life,…
+
+**From the Sunnah:** Paradise)?' One of the youngest ones among them volunteered and 'Isa asked him to sit down. (Sahih Muslim, Sunan an-Nasa'i) And on the Day of Resurrection, he will be a witness against them.) Ibn Jarir recorded that Ibn 'Abbas commented,
 ## Personal Reflections
 
 

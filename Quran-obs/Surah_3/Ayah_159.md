@@ -531,6 +531,17 @@ At this point, especially at the conclusion of the verse, it is very important t
 
 The statement, 'And once you have taken a decision, place your trust in Allah' also clarifies that placing one's trust in Allah does not mean that the efforts to provide means and make plans should be abandoned. The fact is that placing one's trust in Allah while leaving off means near at hand is contrary to the blessed practice of prophets, and against the teachings of the Holy Qur'an. However, if one sits idle dreaming about distant means and irrelevant concerns, or if one relies solely on means and plans as effective agents and ignores the Prime Causer of means and the Planner-par-Excellence of all affairs and plans, then this would certainly be against توکل tawakkul, the placing of trust in Allah.
 
+## AI Translation
+
+It is out of Allah’s mercy that you have been lenient with them. Had you been cruel or hard-hearted, they would have certainly abandoned you. So pardon them, ask Allah’s forgiveness for them, and consult with them in matters. Once you make a decision, put your trust in Allah. Surely Allah loves those who trust in Him.
+
+## AI Tafsir
+
+**Context:** (It is not for any Prophet to illegally take a part of the booty,) was revealed in connection with a red robe that was missing from the spoils of war of Badr.
+
+**What this ayah teaches:** The command to consult given to him is simply to honour the blessed Companions and mollify their broken hearts.
+
+**Classical tafsir:** Ibn Kathir notes: His abode is Hell, and worse indeed is that destination!)[3:162], This refers to those seeking what pleases Allah by obeying His legislation, thus earning His pleasure and tremendous rewards, while being saved from His severe torment.
 ## Personal Reflections
 
 

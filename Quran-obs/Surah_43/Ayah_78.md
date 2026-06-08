@@ -114,6 +114,17 @@ As against this, when one of the Non-Muslim friends will die, and he will be tol
 
 Therefore the best friendship, in respect of this world as well as the Hereafter, is the one that is for the sake of Allah. Many are the merits stated in 'ahadith' for those two Muslims who love each other purely for the sake of Allah. One of these merits is that they will be in the shade of the "'Arsh" (Throne) of Allah. And 'love for the sake of Allah' means to love someone because he is a true follower of the religion prescribed by Allah. As such, it includes sincere love for teachers of religious subjects, spiritual guides, reformers, religious scholars and devotees of Allah, as well as for all the Muslims.
 
+## AI Translation
+
+We certainly brought the truth to you, but most of you were resentful of the truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** The idolators were trying their utmost to find ways of refuting the truth with falsehood, but Allah planned it so that the consequences of that would backfire on them. Then the reason why they are doomed will be given, which is their stubborn resistance to the truth.
+
+**Classical tafsir:** Ibn Kathir notes: And 'love for the sake of Allah' means to love someone because he is a true follower of the religion prescribed by Allah.
+
+**From the Sunnah:** Paradise as You have shown to me, and be pleased with him, as you have been with me. (Sahih Muslim) Many are the merits stated in 'ahadith' for those two Muslims who love each other purely for the sake of Allah.
 ## Personal Reflections
 
 

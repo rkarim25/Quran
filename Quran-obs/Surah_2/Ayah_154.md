@@ -130,6 +130,17 @@ Another answer is that the distinction which Shahids have over others is apparen
 
 By the words, " لَّا تَشْعُرُ‌ونَ ": "you perceive not", the Holy Qur'an asserts the fact that the life in Barzakh برزخ transcends all sensory perceptions.
 
+## AI Translation
+
+Do not say of those killed in Allah's cause that they are dead. They are alive, but you do not perceive it.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Martyrs are not dead One who dies in the cause of Allah is a Shahid (Martyr) and, although, it is correct and even allowed to call him "dead", yet we are forbidden to regard their death like ordinary deaths.
+
+**Classical tafsir:** Ibn Kathir notes: When they realize that they will be asked (until they answer), they said, 'We wish that You send us back to the earthly life, so that we fight in Your cause until we are killed in Your cause again,' (because of what they enjoy of the rewards of martyrdom).
+
+**From the Sunnah:** from his father that Allah's Messenger ﷺ said: (Musnad Ahmad)
 ## Personal Reflections
 
 

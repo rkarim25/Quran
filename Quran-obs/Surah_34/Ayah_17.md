@@ -154,6 +154,15 @@ And sage Hasan al-Basri (رح) said: صَدَقَ اللہُ العَطِیم ل
 
 An interpretation of the sense of this verse appears in Ruh-ul-Ma’ ani with reference to Kashf. There it is said that the statement is made in its real sense. Punishment as punishment is given only to a disbeliever and whatever pain is caused to a believing sinner through things like fire is only an apparent punishment. In reality, the purpose is to cleanse him from sin. This is like heating up gold in a furnace. The purpose is to remove its unwanted sediments. This holds true in the case of a believer as well. If he too is put in Jahannam as a consequence of some sin of his, it will be to burn out those elements of his body that have grown on him from consuming what is haram. Once this is taken care of, he is ready to go to Jannah and it does not take much time that he is taken out of Jahannam (Hell) and admitted into the Paradise (Jannah).
 
+## AI Translation
+
+This is how We repaid them for their ingratitude. We do not punish in this way except those who are deeply ungrateful.
+
+## AI Tafsir
+
+**What this ayah teaches:** As such, the verse could be taken to mean: 'We do not punish anyone other than the one who is very ungrateful or is an absolute those who reject the truth.' This, quite obviously, is counter to all those verses of the Qur'an and sound ahadith which prove that Muslim sinners will also receive the punishment of Jahannam (Hell) to the measure of their deed - even though, finally, once they have…
+
+**Classical tafsir:** Ibn Kathir notes: And never do We requite in such a way except those who are ungrateful.) meaning, 'We punished them for their disbelief.' Mujahid said, "He does not punish anyone except the those who reject the truth." Al-Hasan Al-Basri said, "Allah the Almighty has spoken the truth: no one will be punished in a manner that befit… The Disbelief of Saba' (Sheba) and Their Punishment Saba' refers to the kings and people of the Yeme…
 ## Personal Reflections
 
 

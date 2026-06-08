@@ -106,6 +106,17 @@ Meteors Existed Since the Inception of Time, but were not Used to Repel the Devi
 
 A doubt that may arise here is that the existence of Meteors, which in common parlance are called inqidad-ul-kaukab the 'falling stars', is not a new phenomenon. This verse, however, indicates that they showed up to repel the devils as if they are new-age phenomena of the Holy Prophet ﷺ . In response, it may be stated that there is no denying that the meteors did exist since the inception of time and space before the advent of the Holy Prophet ﷺ ، and that there is no contradiction between what humanity experienced since the beginning of the world, scientific explanations and the Qur'anic statement. Philosophers and scientists explain that the meteors may originate from the earth or stars or disintegrating planets, and wander in space at enormous speeds and fall to the earth. Some fiery matter may arise from the surface of the earth and heat up at some point, or the speed of the meteors makes them glow and burn, or a flame emits from a star - and this may have habitually continued ever since. These flames, however, were not used to serve a particular purpose before the advent of the Holy Prophet ﷺ ; they were merely a natural phenomena. After the advent of the Holy Prophet ﷺ ، meteoric flames were used to serve the purpose of shooting the devils if they attempted to go up and listen furtively the conversation of the angels. See also Ma` ariful Qur’ an, Vol. 5/pp 303-305, under [ 15:17-18].
 
+## AI Translation
+
+We used to try to reach the heavens for news, but found them guarded by stern angels and shooting stars.
+
+## AI Tafsir
+
+**What this ayah teaches:** It happened only after his Advent A doubt that may arise here is that the existence of Meteors, which in common parlance are called inqidad-ul-kaukab the 'falling stars', is not a new phenomenon.
+
+**Classical tafsir:** Ibn Kathir notes: As-Suddi said, "The sky was never guarded except if there was a Prophet in the earth or the religion of Allah was victorious and dominant in the earth." So the devils before the time of Muhammad ﷺ had taken sitting stations for themselves in the heaven of this world and they would listen to the matt… This verse, however, indicates that they showed up to repel the devils as if they are new-age phenom…
+
+**From the Sunnah:** Then they found the Messenger of Allah ﷺ reciting (the Qur'an) while leading his Companions in prayer.
 ## Personal Reflections
 
 

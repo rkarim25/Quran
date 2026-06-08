@@ -123,6 +123,15 @@ Classical commentators like Hafiz Ibn Jarir Tabari, Imam Razi and others have pr
 
 In terms of the words of the noble Qur'an, there is room for both explanations. But, since a marfu' Hadith has appeared in favor of the first Tafsir, a Hadith that is hasan (good) as regards its authority, therefore, it has become weightier and more acceptable.
 
+## AI Translation
+
+When well-trained, swift horses were paraded before him in the evening,
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, he was ever turning in repentance (to Us)(30)When there were displayed before him, in the afternoon, well trained horses of the highest breed (31)He said: "I did love the good instead of remembering my Lord," till the time was over, and (the sun) had hidden in the veil (of night)(32)Then he said: "Bring them back to me." Then he began to pass his hand over their legs and their necks .
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "They were the kind of horses which stand on three legs and raise the fourth, and they were swift horses." This was also the view of several others among the Salaf.
 ## Personal Reflections
 
 

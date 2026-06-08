@@ -188,6 +188,17 @@ Sayyidna Abu Bakr Siddiq ؓ reports that Allah's Messenger ﷺ said: Recite لا
 
 مُتَقَلَّبَكُمْ وَمَثْوَاكُمْ last line (your moving from place to place and your permanent abode.) The word متَقَلَّب mutaqallab lexically means "turning around or turning over". The word mathwa means "permanent resting place ". It is open to several interpretations. As a result, the commentators have assigned different meanings to the phrase. As a matter of fact, all the meanings attached to the phrase are correct, sound, authentic and true, because human beings are confronted by two types of conditions: in the one case their invovement in something is temporary, and other case it is permanent. Likewise, in some places man’ s stay is “ temporary” and in other places it is permanent. In the concluding phrase of the current verse, the word مُتَقَلَّبَ mutaqallab has been used to describe “ temporary” and مثوٰی is used to describe "permanent". Thus this verse signifies that Allah is fully aware of all conditions of human beings.
 
+## AI Translation
+
+So know that there is no god worthy of worship except Allah. Seek forgiveness for your shortcomings and for the believing men and women. Allah knows how you move and where you settle.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Holy Prophet ﷺ is infallible and immune from sin, and therefore the possibility that he would commit sins is unthinkable.
+
+**Classical tafsir:** Ibn Kathir notes: As a matter of fact, all the meanings attached to the phrase are correct, sound, authentic and true, because human beings are confronted by two types of conditions: in the one case their invovement in something is temporary, and other case it is permanent.
+
+**From the Sunnah:** They used to sit before Allah's Messenger ﷺ and listen to his words without understanding anything. Allah's Messenger ﷺ has most clearly informed about the signs and indications of the Hour, as we have discussed elsewhere.
 ## Personal Reflections
 
 

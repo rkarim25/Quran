@@ -152,6 +152,15 @@ This مَن يُطِعِ اللَّـهَ relates to the obligations toward Alla
 
 things he is given the good tiding of فَأُولَـٰئِكَ هُمُ الْفَائِزُونَ (that such people are the victorious). And Fa'iz is that person who gets deliverance from Jahannam and earns a place in the Paradise. After hearing this explanation Sayyidna ` Umar ؓ said the endorsement of this is available in the utterance of the Holy Prophet ﷺ ، who had said that اُوتیت جوامع الکلم Allah has graced me with such comprehensive expressions in which words are few but the meanings are vast'. (Qurtubi)
 
+## AI Translation
+
+For whoever obeys Allah and His Messenger, and fears Allah and is mindful of Him, then it is they who will truly triumph.
+
+## AI Tafsir
+
+**Context:** (And when they are called to Allah and His Messenger, to judge between them...) means, when they are asked to follow the guidance which Allah has revealed to His Messenger ﷺ, they turn away and are too arrogantly proud o…
+
+**What this ayah teaches:** Nay, it is they themselves who are the wrongdoers (50)The only saying of the faithful believers, when they are called to Allah and His Messenger, to judge between them, is that they say: "We hear and we obey." And such are the successful (51)And whosoever obeys Allah and His Messenger, fears Allah, and has Taqwa of Him, such are the successful .
 ## Personal Reflections
 
 

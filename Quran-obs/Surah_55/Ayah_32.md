@@ -98,6 +98,17 @@ Be that as it may, the word ثَّقَلینِ thaqalain in the Tradition refers
 
 Then the verse says, 'Soon We are going to spare Ourselves for you' The verb سَنَفْرُ‌غُ sanafrughu is derived from فَرَاغ faragh, which means to be free from occupation. The antonym of faragh is شُغُل shughl [ to occupy ]. The word faragh informs us of two things: [ 1] that one was occupied with something; and [ 2] now he has become free from that occupation. This type of faragh is common in human beings. However, neither of these senses apply to Allah. He is above them. Surely, nothing will occupy Allah from attending to anything else, nor does He become free or unoccupied like human beings do. Therefore, the verb sanafrughu [ We are going to spare Ourselves to you ] is employed as a metaphor. This metaphorical use of the word is common in human speech. This expression is used to show the importance of some work: 'We are now free to attend to you, being fully focused on you'. Anyone who fully focuses attention on any work, idiomatically it is said that 'he has no other work or he has nothing else to do'. In a verse preceding this [ 29], it was mentioned that the earthly beings ask for their specific needs, such as sustenance, health and welfare, and comfort; and forgiveness, mercy and Paradise. The celestial beings need Allah's mercy, grace and forgiveness which surround them all the time. From this point of view, Allah is, every moment, in a state of characteristic manifestation of His Divinity and Divine Attributes. The verse sanafrughu [ We are going to spare Ourselves for you...] indicates that on the Day of Judgment all petitions, their acceptance and acting on them will come to an end. Of all the manifestations, there shall remain only one manifestation and that is taking account of deeds and passing judgment with absolute justice and equity. [ Ruh ]
 
+## AI Translation
+
+So which of your Rabb's favours will you both—humans and jinn—deny?
+
+## AI Tafsir
+
+**What this ayah teaches:** We shall attend to you, O Thaqalan (31)Then which of the blessings of your Lord will you both deny (32)O assembly of Jinn and men! Thus the word ath-haqalan [ the dual form ] denotes 'the two heavy or weighty things', and signifies 'the men' and 'the Jinn' as the context shows.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "Molten brass poured over their heads." Qatadah held the same view. In Arabic, the word thaqal refers to anything the weight or value of which is well-known.
+
+**From the Sunnah:** The end result of the Tradition is that after the Prophet ﷺ there are two things that will serve to guide and set aright the Muslims: [ 1] the Book of Allah; and [ 2] the example of the blessed Companions in all their mutual dealings and transactions.
 ## Personal Reflections
 
 

@@ -156,6 +156,17 @@ The disbelievers say, what you (O Muhammad ﷺ) brought us was taken from the bo
 
 The verse: وَهُمْ يَنْهَوْنَ عَنْهُ (And from it they prevent - 26), according to early commentators Dahhak, Qatadah and Muhammad ibn Hanafiyah, was revealed about the common disbelievers of Makkah who prevented people from listening to the Qur'an and following it - and saw to it that they themselves stayed away from it. It has also been reported from Sayyidna ` Abdullah ibn ` Abbas ؓ that this verse concerns the Holy Prophet's ﷺ respected uncle, Abu Talib , as well as other uncles who stopped people from causing pain to him, even supported him, but would not believe in the Qur'an nor follow it. If so, the pronoun in يَنْهَوْنَ عَنْهُ will revert to the Holy Prophet ﷺ and not to the Qur'an. (Mazhari with narration by Ibn Abi a1-Hatim from Said ibn Abi Hilal)
 
+## AI Translation
+
+They turn others away from the Prophet and distance themselves as well. They ruin none but themselves, yet they fail to perceive it.
+
+## AI Tafsir
+
+**Context:** The verse: وَهُمْ يَنْهَوْنَ عَنْهُ (And from it they prevent - 26), according to early commentators Dahhak, Qatadah and Muhammad ibn Hanafiyah, was revealed about the common those who reject the truth of Makkah who prevented people f…
+
+**What this ayah teaches:** Yet, they do not perceive this fact!
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

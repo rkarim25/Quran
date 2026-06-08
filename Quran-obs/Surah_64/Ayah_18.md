@@ -154,6 +154,19 @@ Surah At-Taghabun
 
 Ends here
 
+## AI Translation
+
+He is the Knower of the seen and unseen—the Almighty, All-Wise.
+
+## AI Tafsir
+
+**Context:** فَاتَّقُوا اللَّـهَ مَا اسْتَطَعْتُمْ (So, observe taqwa [ total obedience to Allah in awe of Him ] as far as you can…64:16).
+
+**What this ayah teaches:** And Allah is Shakur, Halim (17)All-Knower of the unseen and seen, the Almighty, the All-Wise .
+
+**Classical tafsir:** Ibn Kathir notes: Verily, among your wives and your children there are enemies for you; therefore beware of them!
+
+**From the Sunnah:** Later when they joined Allah's Messenger ﷺ, they found that those who were with him (the Companions) have gained knowledge in the religion, so they were about to punish their wives and children.
 ## Personal Reflections
 
 

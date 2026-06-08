@@ -273,6 +273,17 @@ There are others who have deduced from the above-referred hadith that the earthq
 
 This verse also gives a picture of the earthquake of the Day of Resurrection when all the pregnant women will abort their fetuses and every breast-feeding woman nursing her child will be diverted from it. If the earthquake takes place in this world before the Dooms Day, then there is no ambiguity in all these happenings. But if the earthquake occurs after the Dooms Day, then the explanation would be that a pregnant woman would be raised on the Dooms Day in the same state, and a woman who died while breast-feeding her child will also be raised in the same condition along with her child. (Qurtubi). Allah knows best.
 
+## AI Translation
+
+The Day you see it, every nursing mother will abandon what she is nursing, and every pregnant woman will deliver her burden prematurely. And you will see people as if they were drunk, though they will not be drunk; but the torment of Allah is terribly severe.
+
+## AI Tafsir
+
+**Context:** Commentators differ on whether this Surah is Makkan or Madani. Ibn ` Abbas ؓ has expressed two views on different occasions.
+
+**What this ayah teaches:** The Day you shall see it, every nursing mother will forget her nursling, and every pregnant one will drop her load, and you shall see mankind as in a drunken state, yet they will not be drunken, but Allah's torment is severe.) When his Companions heard that, they hastened to catch up with him, because they knew that he wanted to say something.
+
+**Classical tafsir:** Ibn Kathir notes: Others said that this refers to the terror, fear, earthquakes and chaos that will happen on the Day of Resurrection, in the arena (of Judgement), after the resurrection from the graves.
 ## Personal Reflections
 
 

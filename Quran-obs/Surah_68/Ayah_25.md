@@ -136,6 +136,15 @@ It has been said, "They were hoping for something better in exchange in this lif
 
 (5). This word also means 'to rush quickly'. This meaning of the word has been adopted in the translation of the text. (Muhammad Taqi Usmani)
 
+## AI Translation
+
+They proceeded early, fixated on their plan.
+
+## AI Tafsir
+
+**What this ayah teaches:** The word hard means 'to prevent' and 'to express anger'.5 In other words, they thought they had the power to pick the fruit for themselves and prevent the poor people from having a share in it, and even if they do come to the garden, the owners of the garden decided to chase them out.
+
+**Classical tafsir:** Ibn Kathir notes: The word hard means 'to prevent' and 'to express anger'.5 In other words, they thought they had the power to pick the fruit for themselves and prevent the poor people from having a share in it, and even if they do come to the garden, the owners of the garden decided to chase them…
 ## Personal Reflections
 
 

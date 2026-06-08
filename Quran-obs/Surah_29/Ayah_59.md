@@ -92,6 +92,17 @@ Ibn Abi Hatim, may Allah have mercy on him, recorded from Abu Mu'aniq Al-Ash'ari
 
 The other risk involved in hijrah (migration) is about the arrangement of sustenance in the strange land. One does manage the sustenance at one's own place through employment, trade, cultivation, or inherited land, but on migration all that is left behind. So, how would he manage the sustenance in the new environment? Answer to this apprehension is given in the next three verses by saying that you regard the mundane possessions and arrangements as the cause of your sustenance, but who has given you all this? It is your mistake to consider that you have arranged it all on your own. Without the help and will of Allah nothing could be procured. If He wills, one gets unlimited sustenance without any visible means, and if He does not, then despite all sorts of visible means, one does not get anything. For elaborating this point first it is said:
 
+## AI Translation
+
+those who bear sabr and put trust in their Rabb.
+
+## AI Tafsir
+
+**What this ayah teaches:** Excellent is the reward for the workers (58)Those who are patient, and put their trust in their Lord (59)And so many a moving creature carries not its own provision!
+
+**Classical tafsir:** Ibn Kathir notes: Therefore worship Me.) When things became too difficult for the believers in Makkah who were in a weak position and were oppressed, they left and migrated to Ethiopia, where they were able to practice their religion.
+
+**From the Sunnah:** The Muslims found Ethiopia the best place for guest; where Ashamah, the Negus or king, may Allah have mercy on him, gave them refuge, helped them, supported them, and honored them in his land. Ibn Abi Hatim, may Allah have mercy on him, recorded from Abu Mu'aniq Al-Ash'ari that Abu Malik Al-Ash'ari told him that the Messenger of Allah ﷺ told him:
 ## Personal Reflections
 
 

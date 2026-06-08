@@ -194,6 +194,17 @@ The sign given was remarkably suitable to its purpose. His request for a sign wa
 
 The last phrase: (except through gestures) in this verse tells us that in a situation where speech is not possible because of a valid reason, gesture would be deemed as its substitute. Consequently, it appears in a hadith that the Holy Prophet ﷺ asked a maid-servant: این اللہ ؟ I ('Where is Allah?' ). She pointed out towards the sky. He said: 'This maid-servant is a Muslim.' (al-Qurtubi)
 
+## AI Translation
+
+Zachariah said, “My Rabb! Grant me a sign.” He said, “Your sign is that you will not speak to people for three days except through gestures. Remember your Rabb often and glorify morning and evening.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Make a sign for me." (Allah) said: "Your sign is that you shall not speak to the people for three days except by signals.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, Ath-Thawri and Ad-Dahhak said that Sayyidan means, "The noble, wise and pious man." Sa'id bin Al-Musayyib said that Sayyid is the scholar and Faqih. 'Ikrimah said that it refers to a person who is not overcome by anger, while Ibn Zayd said that it refers to the noble man.
+
+**From the Sunnah:** He said: 'This maid-servant is a Muslim.' (al-Qurtubi) (Sahih Muslim)
 ## Personal Reflections
 
 

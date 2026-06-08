@@ -128,6 +128,17 @@ The Cause of Misfortune is Sin
 
 It is proved from some narrations of Hadith, as reproduced by Hakim in Mustadrak and by Baghawi on the authority of Sayyidna ` Ali ؓ that those sins for which punishment is given in this world are forgiven for Muslims in the Hereafter. (Mazhari)
 
+## AI Translation
+
+You can never escape Him on earth, nor do you have any protector or helper besides Allah.
+
+## AI Tafsir
+
+**Context:** وَمَا أَصَابَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُو عَن كَثِيرٍ‌ (And whatever hardship befalls you is because of what your own hands have committed, while He overlooks many [ of your faults ]....
+
+**What this ayah teaches:** Baidawi and others have stated that this verse is specifically meant for those people who are likely to commit sins.
+
+**Classical tafsir:** Ibn Kathir notes: And He is Able to assemble them whenever He wills (29)And whatever of misfortune befalls you, it is because of what your hands have earned.
 ## Personal Reflections
 
 

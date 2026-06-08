@@ -138,6 +138,19 @@ The last five verses of Surah Ya Sin were revealed in the background of a partic
 
 The expression: خَصِيمٌ مُّبِينٌ (an open adversary) in verse 77 means that this man was created from a lowly drop, yet he has the audacity to challenge Allah, and refuse to accept His power.
 
+## AI Translation
+
+Do people not see that We created them from a sperm-drop, then—behold!—they openly challenge Us?
+
+## AI Tafsir
+
+**Context:** Whether these Ayat were revealed about Ubayy bin Khalaf or Al-'As bin Wa'il, or both of them, they apply to all those who deny the resurrection after death.
+
+**What this ayah teaches:** The One Who created man from this weak Nutfah is not unable to re-create him after his death.
+
+**Classical tafsir:** Ibn Kathir notes: It was said that this refers to the Markh tree and the 'Afar tree, which grow in the Hijaz.
+
+**From the Sunnah:** Will Allah bring this back to life after it has disintegrated? You accumulate and do not spend until the death rattle reaches your throat, then you say, 'I want to give in charity,' but it is too late for charity.")" It was also recorded by Ibn Majah. (Sunan Ibn Majah)
 ## Personal Reflections
 
 

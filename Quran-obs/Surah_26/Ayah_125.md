@@ -78,6 +78,15 @@ They said, "Shall we believe in you while you are followed by the lowest people?
 
 It is related in this verse that the disbelievers rejected the invitation of Sayyidna Nuh (علیہ السلام) to accept the faith on the plea that his followers were worthless poor people. So, how could they, the elite and noble, mix up with them? On this Nuh (علیہ السلام) replied that he did not know about their acts, thereby hinting that their understanding of nobility on the basis of family background, wealth, or status was wrong, and that the nobility or meanness and honour or disgrace is dependent on one's deeds and morals. Hence, it was their ignorance to put the label of sordidness on his followers, because they did not know about their deeds and disposition. Unless one knows fully well about the morals and deeds of others, it is not right to pass any judgment about them. (Qurtubi).
 
+## AI Translation
+
+I am truly a trustworthy messenger to you.
+
+## AI Tafsir
+
+**What this ayah teaches:** So Allah sent Hud, one of their own, as a Messenger bringing them good news and delivering warnings. This refers to the fact that they were physically strong and well-built, and very violent, and very tall; they had also been given a great deal of provisions, wealth, gardens, rivers, sons, crops and fruits.
+
+**Classical tafsir:** Ibn Kathir notes: This refers to the fact that they were physically strong and well-built, and very violent, and very tall; they had also been given a great deal of provisions, wealth, gardens, rivers, sons, crops and fruits.
 ## Personal Reflections
 
 

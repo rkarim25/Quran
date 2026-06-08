@@ -43,6 +43,17 @@ Now, we come to the second question. It should be obvious, on a little reflectio
 The verses of the Surah al-Mumin/Ghafir (Chapter 40) serve as a commentary on the phrase under discussion, and provide a clear account of the Day of Requital. The real and complete mastery over everything, no doubt, belongs to Allah alone even in this world. Yet Allah Himself, in His beneficence and wisdom, has granted a kind of imperfect, temporary and apparent mastery to man as well; and the Shariah, in laying down laws for worldly affairs, has given due consideration to man's limited right to ownership. But today, in possessing lands or money or power, which has been given to him by way of trial, man has always been prone to get drunk with pride and vanity. The phrase 'Master of the Day of Judgment' is a warning to man reeling in his forgetfulness and self-conceit, and an intimation that all his possessions, all his relationships with things and men are only short-lived, and that there shall come a Day when masters will no more be masters and slaves no more slaves, when no one will own anything even in appearance, and the ownership and mastery, apparent as well as real, of the whole universe will be seen to belong to none but Allah, the Exalted. The Holy Quran says:
 “The day they will present themselves (before Allah), and nothing of theirs will remain hidden from Allah (even apparently). 'Whose is the kingdom today?' Of Allah alone, the One, the Mighty. Today everyone will be recompensed for what he has done. Today no one will be wronged. Allah's reckoning is surely swift.” (40:17)
 
+## AI Translation
+
+Sovereign of the Day of Reckoning—when every hidden deed, every word spoken in private, every kindness forgotten, and every account left unsettled in this life will be weighed with perfect justice.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah alone is Malik—absolute Sovereign—of Yawm ad-Din, the Day when every deed is weighed with perfect justice.
+
+**Classical tafsir:** Ibn Kathir: *Malik* and *Maalik* (Owner/Judge) are both recited authentically. Maarif: this ayah turns the heart from worldly masters to the One whose judgment is final.
+
+**From the Sunnah:** In the Fatihah dialogue, Allah says He has entrusted all affairs to Himself (Muslim).
 ## Personal Reflections
 
 

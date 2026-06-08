@@ -209,6 +209,17 @@ Note
 
 Shah ` Abdul Ghani Phulpuri رحمۃ اللہ علیہ relates from Haji Imdadullah (رح) that anyone who recites the above verse i.e. اللَّـهُ لَطِيفٌ بِعِبَادِهِ يَرْ‌زُقُ مَن يَشَاءُ ۖ وَهُوَ الْقَوِيُّ الْعَزِيزُ seventy times every morning regularly, would be preserved from shortage of sustenance and said that experience has shown it to be very effective.
 
+## AI Translation
+
+You will see the wrongdoers fearful of the punishment for what they committed—but it will be inevitable for them. Whereas those who believe and do good will be in the lush Gardens of Paradise. They will have whatever they desire from their Lord. That is the greatest bounty.
+
+## AI Tafsir
+
+**What this ayah teaches:** And verily, for the wrongdoers there is a painful torment (21)You will see the wrongdoers fearful of that which they have earned, and it will surely befall them.
+
+**Classical tafsir:** Ibn Kathir notes: That is why many meanings of the word latif have been stated in the Tafsir of Qurtubi, all of which are covered by the words ` kind' and ` benefactor'.
+
+**From the Sunnah:** It was recorded in the Sahih that the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

@@ -292,6 +292,17 @@ It simply means that, in reality, success is achieved by such people alone.
 
 Primarily, this description applies to the great group of the Companions of the Holy Prophet ﷺ . They were the ones who rose with the great objective of calling towards the good and of curbing what was bad and in a very brief period of time conquered the entire world of their time. There were power centers of Byzantine and Persia which could not stop them and they went ahead teaching lessons in morality and purity and ushering around the light of righteousness and Godliness wherever they went.
 
+## AI Translation
+
+Let there be a group among you who call to goodness, encourage what is good, and forbid what is evil—it is they who will be successful.
+
+## AI Tafsir
+
+**What this ayah teaches:** The nature of this obligation requires that one bid the Fair and forbid the Unfair in what is necessary; this would be obligatory.
+
+**Classical tafsir:** Ibn Kathir notes: It is quite possible that such a person may, because of his lack of knowledge, forbid something Fair or bid something Unfair.
+
+**From the Sunnah:** The objective of this Ayah is that there should be a segment of this Muslim Ummah fulfilling this task, even though it is also an obligation on every member of this Ummah, each according to his ability. (Sahih Muslim) this Hadith and said, "Hasan". (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

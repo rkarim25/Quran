@@ -116,6 +116,15 @@ Then Allah says,
 
 أَلَمْ نَجْعَلِ الْأَرْ‌ضَ كِفَاتًا أَحْيَاءً وَأَمْوَاتًا (Did We not make the earth a container that collects the living and the dead?....25, 26) The word kit is derived from kaft. It means 'to gather things together'. Thus kit is a thing that embodies many things within itself. Earth is created by Allah in a fashion that humans when alive, remain on its back, and when dead, in its belly.
 
+## AI Translation
+
+giving neither coolness nor shelter from the flames.
+
+## AI Tafsir
+
+**What this ayah teaches:** So if you have a plot, use it against Me!) This is an address from the Creator to His servants.
+
+**Classical tafsir:** Ibn Kathir notes: This means it will not protect them from the heat of the flame.
 ## Personal Reflections
 
 

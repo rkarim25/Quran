@@ -91,6 +91,15 @@ Then Allah will remind them of their sins in this world and how they used to mak
 
 وَلَا تُكَلِّمُونِ (Do not speak to Me - 23:108). According to Hasan al-Basri (رح) these will be the last words of the people who are cast in hell and in reply Allah will say, "Do not speak to Me." After this they will not be able to speak like human beings, but will make animal sounds to each other. Baihaqi and others have quoted Muhammad Ibn Ka` b as saying that the Qur'an mentions five requests made by the people condemned to hell. Out of the five, replies were furnished to four, but in reply to the fifth Allah commanded them not to speak to Him. Thus these are the last words to be uttered by them after which they will not be able to speak. (Mazhari)
 
+## AI Translation
+
+Allah will respond, “Be despised in there! Do not ever plead with Me again!
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah's Response and Rejection of the those who reject the truth This is the response of Allah to the those who reject the truth when they ask Him to bring them out of the Fire and send them back to this world. Then he will respond and tell them that they are to abide therein.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

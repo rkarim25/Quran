@@ -184,6 +184,17 @@ Ibn Jarir recorded that Sa'id bin Jubayr said, "A man came to Ibn 'Abbas, may Al
 
 وَآتَيْنَاهُم مِّنَ الْآيَاتِ مَا فِيهِ بَلَاءٌ مُّبِينٌ And We gave them the clear signs in which there was a manifest blessing. (44:33) " The word 'signs' refers to the miracles of the staff, the shining hand and others. The word 1 bala' has two senses: (1) blessing; and (2) trial. Here both senses are possible. (Qurtubi).
 
+## AI Translation
+
+And We showed them signs in which there was a clear test.
+
+## AI Tafsir
+
+**Context:** And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid (of drowning in the sea). (20:77)
+
+**What this ayah teaches:** When the believer dies, that gate is closed; it misses him and weeps for him, and the place of prayer on earth where he used to pray and remember Allah also weeps for him.
+
+**Classical tafsir:** Ibn Kathir notes: This refers to the clear signs and definitive evidence with which Allah sent him.
 ## Personal Reflections
 
 

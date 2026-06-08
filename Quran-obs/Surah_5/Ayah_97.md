@@ -275,6 +275,19 @@ Imam al-Razi has said that there is no contradiction in all these sayings which 
 
 At the end of the verse, it was said: ذَٰلِكَ لِتَعْلَمُوا أَنَّ اللَّـهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْ‌ضِ وَأَنَّ اللَّـهَ بِكُلِّ شَيْءٍ عَلِيمٌ (All this so that you may learn that Allah knows what is in the heavens and what is in the earth, and that Allah is All-Knowing in respect of everything). It means that Allah has made Baytullah and its adjuncts the source of stability, survival, peace and tranquility for people, something the people of Arabia keep witnessing particularly. This has been said so that everyone should know that Allah Ta` ala knows everything in the earth and the heavens and He alone is capable of managing and administering it.
 
+## AI Translation
+
+Allah has made the Ka’bah—the Sacred House—a sanctuary of well-being for all people, along with the sacred months, the sacrificial animals, and the garlands. All this so you may know that Allah knows whatever is in the heavens and whatever is on the earth, and that He has knowledge of everything.
+
+## AI Tafsir
+
+**Context:** Allah says, fear Allah, O people, and beware of His might, by obeying what He commands you and avoiding what He prohibits for you in these Ayat revealed to your Prophet ﷺ.
+
+**What this ayah teaches:** Others have said that it refers to the extended means of sustenance for the people of Makkah, for what is not grown or made there indigenously keeps reaching them from all over the world by the grace of Allah Ta` ala.
+
+**Classical tafsir:** Ibn Kathir notes: Others have said that it refers to the extended means of sustenance for the people of Makkah, for what is not grown or made there indigenously keeps reaching them from all over the world by the grace of Allah Ta` ala.
+
+**From the Sunnah:** Abu 'Ubaydah ordered us to collect all the food for our journey, and it was collected in two bags of dates. Al-Bukhari, At-Tirmidhi and Ibn Hibban graded it Sahih.
 ## Personal Reflections
 
 

@@ -180,6 +180,19 @@ Commentary
 
 That all creatures in the heavens and the earth declare the purity of Allah in a symbolic way is understandable. Everyone may understand that every single particle created by Allah bears testimony to the wisdom and power of the Wise Creator in their circumstantial language, which is their tasbih (proclamation). However, the fact is that, everything proclaims tasbih in its real sense in its own way, because Allah has bestowed some sort of sense and perception to every particle of this universe, even to stones and trees, according to their ability. Since the first demand upon sense and perception is to recognize its Creator and Maker, and glorify Him, therefore, it is not far-fetched to conceive that everything in nature really declares the purity of Allah in its own peculiar language, though human ears might not be able to hear it. Thus the Qur'an on one occasion says: وَلَـٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ (...but you do not understand their extolling ...[ 17:44] At the commencement of most Surahs called Musabbihat the past indefinite tense sabbaha is employed. Only at the beginning of Surahs Al-Jumu'ah and At-Taghabun the present form yusabbihu is used. The different forms at the beginning of different Surah have fresh rhetorical elegance and refinement. The past tense connotes certitude, and therefore mostly this tense has been used. The present form connotes continuity, which is employed in two places for this purpose.
 
+## AI Translation
+
+Whatever is in the heavens and whatever is on the earth constantly glorifies Allah—the King, the Most Holy, the Almighty, All-Wise.
+
+## AI Tafsir
+
+**Context:** (And others among them who have not yet joined them. And He is the Almighty, the All-Wise.) Imam Abu 'Abdullah Al-Bukhari, may Allah have mercy upon him, recorded that Abu Hurayrah said, "We were sitting with the Prophet…
+
+**What this ayah teaches:** Whatsoever is in the heavens and whatsoever is on the earth glorifies Allah – the King, the Holy, the Almighty, the All-Wise.)(2.
+
+**Classical tafsir:** Ibn Kathir notes: And Allah is the Owner of mighty grace.) refers to the great prophethood that He granted Muhammad ﷺ and the qualities that He favored his Ummah with, by sending Muhammad ﷺ to them.
+
+**From the Sunnah:** Ibn 'Abbas and Abu Hurayrah narrated that Allah's Messenger ﷺ used to recite Surat Al-Jumu'ah and Surat Al-Munafiqin during the Friday Prayer. (Sahih Muslim) So Allah's Messenger ﷺ placed his hand on Salman, saying,
 ## Personal Reflections
 
 

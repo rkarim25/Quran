@@ -269,6 +269,19 @@ Praised here is the distinction of this umrnah which is made of people who do no
 
 We have listened, and obeyed. Our Lord, Your pardon! And to You is the return.
 
+## AI Translation
+
+The Messenger believes in what was sent down to him from his Rabb, and so do the believers. Each believes in Allah, His angels, His Books, and His messengers: "We make no distinction between any of His messengers." They say, "We hear and obey. Your forgiveness, our Rabb — and to You is the final return."
+
+## AI Tafsir
+
+**Context:** (Our Lord! Lay not on us a burden like that which You did lay on those before us (Jews and Christians),) means, "Even if we were able to perform them, do not require us to perform the difficult deeds as You required the…
+
+**What this ayah teaches:** Praised here is the distinction of this umrnah which is made of people who do not reject any prophet.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, you should make special effort to learn these verses, and at the same time, teach your women and children how to recite them.
+
+**From the Sunnah:** The Two Sahihs recorded this Hadith using various chains of narration, and Imam Ahmad also recorded it.
 ## Personal Reflections
 
 

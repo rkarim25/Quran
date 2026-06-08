@@ -246,6 +246,17 @@ Surah Ash-Shu` ara'
 
 Ends here.
 
+## AI Translation
+
+only saying what they never do?
+
+## AI Tafsir
+
+**Context:** But this Surah was revealed in Makkah, so how could the reason for its revelation be the poets of the Ansar? This is something worth thinking about.
+
+**What this ayah teaches:** Only that poetry is condemned and abominable which encourages Allah's disobedience or puts hindrance in His remembrance, or disgraces and condemns someone falsely, or be obscene or leads to obscenity.
+
+**Classical tafsir:** Ibn Kathir notes: Their objective was to call him a liar, because the word Sha` ir is also used in the sense of lie, and Shi` r for a liar.
 ## Personal Reflections
 
 

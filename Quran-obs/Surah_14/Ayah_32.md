@@ -159,6 +159,17 @@ It was reported that Prophet Dawud, peace be upon him, used to say in his suppli
 
 After that it was said that Allah Ta’ ala has subjugated boats and ships to work for you for they move over the waters with His command. The word: سَخِّرَ (sakhkhara) appearing in this verse means that Allah Ta` ala has made the use of these things easy on you. Of course, there is wood and steel and the instrumentation and technology to build boats and ships, but when it comes to having the intelligence and ability to use them correctly and expertly, it must be admitted that they were all given by Him. Therefore, those who feel proud of having invented, manufac-tured or produced things like that should better think twice and feel shy of ascribing all credit of such innovations to themselves. The simple reason is that things used in this process are things none of which was created by them, nor they could. How can someone who works with wood, iron, copper and things like that, utilizes them to serve his end product and then goes about declaring himself as its inventor? Otherwise, if we were to look at hard reality, it will not be difficult to realize that this very existence of ours, our hands and feet, our mind and our in-telligence are not what we have made or invented.
 
+## AI Translation
+
+Allah created the heavens and earth and sends rain from the sky, producing fruits as provision for you. He subjected ships to sail the sea by His command, and subjected rivers for you.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah is He Who has created the heavens and the earth and sends down water (rain) from the sky, and thereby brought forth fruits as provision for you; and He has made the ships to be of service to you, that they may sail through the sea by His command; and He has made rivers (also) to be of service to you (32)And He has made the sun and the moon, both constantly pursuing their courses, to be of se…
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, those who feel proud of having invented, manufac-tured or produced things like that should better think twice and feel shy of ascribing all credit of such innovations to themselves.
+
+**From the Sunnah:** In Sahih Al-Bukhari it is recorded that the Messenger of Allah ﷺ used to supplicate; (Sahih al-Bukhari)
 ## Personal Reflections
 
 

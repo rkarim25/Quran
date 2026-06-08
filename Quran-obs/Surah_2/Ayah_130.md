@@ -198,6 +198,19 @@ Verse 130 speaks of the superiority of the religion of Sayyidna Ibrahim (علی�
 
 37. Let us note that the relevant phrase in the Arabic text of this verse can be translated into English in three ways: (a) Such a man is stupid in himself (b) he has besotted himself, and allowed himself to become stupid (c) he is ignorant of his own self.
 
+## AI Translation
+
+Who would turn away from Abraham's way except one who fools himself? We chose him in this world, and in the Akhirah he is among the righteous.
+
+## AI Tafsir
+
+**Context:** Abu Al-'Aliyah and Qatadah said, "This Ayah (2:130) was revealed about the Jews who invented a practice that did not come from Allah and that defied the religion of Ibrahim." Allah's statement,
+
+**What this ayah teaches:** As to the next, Verse 130 has announced the exalted station Allah has granted him in the Hereafter.
+
+**Classical tafsir:** Ibn Kathir notes: This means that these Prophets loved these words so much that they preserved them until the time of death and advised their children to adhere to them after them.
+
+**From the Sunnah:** be a Muslim)!" He said, "I have submitted myself (as a Muslim) to the Lord of the 'Alamin (mankind, Jinn and all that exists). (Sahih Muslim) Verily, among mankind who have the best claim to Ibrahim are those who followed him, and this Prophet (Muhammad ﷺ) and those who have believed (Muslims). (Sahih Muslim)
 ## Personal Reflections
 
 

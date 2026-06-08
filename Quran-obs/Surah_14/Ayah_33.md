@@ -94,6 +94,17 @@ After that, it was said that 'We have subjugated the sun and the moon for you' a
 
 Similarly, the statement that We have subjugated the night and the day for you' also means that both of them have been put in the service of human beings to provide convenience and comfort.
 
+## AI Translation
+
+He subjected the sun and moon, each in constant orbit, and subjected day and night for you.
+
+## AI Tafsir
+
+**What this ayah teaches:** Had the sun and the moon been subjugated for human beings in a way that they would be moving under human command, then, there would have been mutual differences among them with the result that one of them would demand that the sun should better rise today two hours later than usual because he had too much work to do in the night.
+
+**Classical tafsir:** Ibn Kathir notes: Had the sun and the moon been subjugated for human beings in a way that they would be moving under human command, then, there would have been mutual differences among them with the result that one of them would demand that the sun should better rise today two hours later than usu…
+
+**From the Sunnah:** In Sahih Al-Bukhari it is recorded that the Messenger of Allah ﷺ used to supplicate; (Sahih al-Bukhari)
 ## Personal Reflections
 
 

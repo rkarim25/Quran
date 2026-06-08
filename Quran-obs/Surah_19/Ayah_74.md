@@ -104,6 +104,15 @@ On the other hand there are good people who, following the teachings of Qur'an, 
 
 Allah Ta` ala has dispelled the mistaken notions of the infidels by saying that the transient material prosperity cannot be regarded as a token of His goodwill nor as a symbol of their own merit, because it often happens that foolish and undeserving people are loaded with wealth while wise and learned persons spend their lives in poverty.
 
+## AI Translation
+
+How many peoples We destroyed before them who were far better in luxury and splendour!
+
+## AI Tafsir
+
+**What this ayah teaches:** However, it is a common experience that material wealth turns people's heads and makes them unduly proud and arrogant, so that even the sensible and wise among them are led to believe that their prosperity and affluence is the reward of their personal merit and effort, and will last forever.
+
+**Classical tafsir:** Ibn Kathir notes: Thus, this means that their meeting rooms are full of more people who come to attend.
 ## Personal Reflections
 
 

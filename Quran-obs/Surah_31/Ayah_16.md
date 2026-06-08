@@ -210,6 +210,17 @@ The Second Bequest of Luqman about Articles of Belief
 
 One should irrevocably hold the belief that the knowledge of Allah Ta` a1a surrounds every single particle of whatever there is in and around the expanses of the heavens and the earth with His most perfect power. Nothing can - be it the smallest of the small not commonly visible, or be it the farthest of the far, or be it behind layers upon layers of darkness and curtains - simply nothing can hide from the knowledge and view of Allah Ta’ ala. And He can, when He wills, cause it to be present, where He wills. This is what is meant by verse يَا بُنَيَّ إِنَّهَا إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْ‌دَلٍ (My dear son, in fact, if there be anything to the measure of a grain of rye, and it be [ hidden ] in a rock or in the heavens and the earth, Allah will bring it forth. Surely, Allah is All-Fine, All Aware). Then, the all-covering knowledge and power of Allah Ta’ ala is, in its own place, a basic belief of Islam - and certainly, a great proof of Tauhid, the belief in the Oneness of Allah.
 
+## AI Translation
+
+Luqman added: My dear son, even if a deed were the weight of a mustard seed — hidden inside a rock, in the heavens, or in the earth — Allah will bring it forth. He is Most Subtle, All-Aware.
+
+## AI Tafsir
+
+**What this ayah teaches:** And whosoever does evil equal to the weight of a speck of dust shall see it.)(99:7-8) Even if this tiny thing were to be hidden inside a solid rock or anywhere in the heavens and the earth, Allah will bring it forth, because nothing is hidden from Him, not even the weight of a speck of dust in the heavens or on the earth.
+
+**Classical tafsir:** Ibn Kathir notes: And whosoever does evil equal to the weight of a speck of dust shall see it.)(99:7-8) Even if this tiny thing were to be hidden inside a solid rock or anywhere in the heavens and the earth, Allah will bring it forth, because nothing is hidden from Him, not even the weight of a sp…
+
+**From the Sunnah:** Likening a loud voice to that of a donkey implies that it is forbidden and extremely blameworthy, because the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

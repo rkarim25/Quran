@@ -163,6 +163,17 @@ In the first sentence of verse 9, it was said: أَمَّنْ هُوَ قَان�
 
 Immediately next in verse 9, it was said: آنَاءَ اللَّيْلِ (during the hours of the night). The expression means hours of the night and denotes the early, the middle and the last part of the night. Sayyidna Ibn ` Abbas ؓ said that, 'a person who wishes that Allah Ta’ ala would make the reckoning on the plains of Resurrection easy on him should so manage himself that Allah Ta’ ala finds him in the state of Sujud (prostration) and Qiyam (stance of standing) during the darkness of the night in an emotional condition in which he is concerned about his fate in the Hereafter, yet is hoping for the mercy of Allah.' Some early commentators have identified the time between Maghrib and 'Isha' also as included in the expression آنَاءَ اللَّيْلِ ('ana'-ul-lail). (Qurtubi)
 
+## AI Translation
+
+Are they better, or those who worship their Lord devoutly in the hours of the night, prostrating and standing, fearing the Akhirah and hoping for the mercy of their Lord? Say: "Are those who know equal to those who do not know?" None will be mindful except people of reason.
+
+## AI Tafsir
+
+**What this ayah teaches:** Scholars of exegesis have said that there is an ellipsis of a sentence that should have appeared earlier, that is, the those who reject the truth will be told, 'are you better, or is it the obedient believer who has been mentioned later?'.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** This was recorded by At-Tirmidhi, An-Nasa'i in Al-Yawm wal-Laylah, and Ibn Majah from the Hadith of Yasar bin Hatim from Ja'far bin Sulayman. (Jami' at-Tirmidhi, Sunan Ibn Majah) the Messenger of Allah ﷺ said: (Musnad Ahmad)
 ## Personal Reflections
 
 

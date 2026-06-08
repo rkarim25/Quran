@@ -91,6 +91,19 @@ It is indicative of the situation that those who had asked to be informed of wha
 
 This is the reason why the word: لَعلَّ (la'alla) has been brought in here in the sense of ` so that' because the mindset of these addressees was already known - that they would, despite having the benefit of very clear verses before them, still doubt and delay their acceptance of truth.
 
+## AI Translation
+
+Indeed, We have sent it down as an Arabic Quran so that you may understand.
+
+## AI Tafsir
+
+**Context:** (Verily, We have sent it down as an Arabic Qur'an in order that you may understand.) The Arabic language is the most eloquent, plain, deep and expressive of the meanings that might arise in one's mind.
+
+**What this ayah teaches:** Verily, We have sent it down as an Arabic Qur'an in order that you may understand.)(3. These are the verses of the Book that is clear.)(2.
+
+**Classical tafsir:** Ibn Kathir notes: These are the verses of the Book that is clear.)(2.
+
+**From the Sunnah:** a narration from Jabir bin 'Abdullah that 'Umar bin Al-Khattab came to the Prophet ﷺ with a book that he took from some of the People of the Book. (Musnad Ahmad) I passed by a brother of mine from [the tribe of] Qurayzah, so he wrote some comprehensive statements from the Tawrah for me, should I read them to you' The face of Allah's Messenger changed [with anger]. (Musnad Ahmad)
 ## Personal Reflections
 
 

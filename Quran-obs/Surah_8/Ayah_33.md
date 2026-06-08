@@ -192,6 +192,19 @@ As for the phenomenon of the presence of the Holy Prophet ﷺ in this world, it 
 
 The essence of the submission is that the marvel of the Holy Prophet ﷺ being alive in his resting place and the unbroken continuity of his prophethood right through the Last Day of Qiyamah prove that he is in this world right through Qiyamah, therefore, this community of his shall remain safe against any mass punishment until that fateful Day.
 
+## AI Translation
+
+But Allah would not punish them while you were among them, nor while they were seeking forgiveness.
+
+## AI Tafsir
+
+**Context:** In a nutshell, the answer is: Because of your hostility towards Qur'an and Islam, you very much deserve to have stones rain at you but the presence of the Holy Prophet ﷺ in Makkah prohibits it.
+
+**What this ayah teaches:** I will keep forgiving them, as long as they keep invoking Me for forgiveness.') Al-Hakim, "Its chain is Sahih and they did not record it." The answer to this was given by the Qur'an itself.
+
+**Classical tafsir:** Ibn Kathir notes: In a nutshell, the answer is: Because of your hostility towards Qur'an and Islam, you very much deserve to have stones rain at you but the presence of the Holy Prophet ﷺ in Makkah prohibits it.
+
+**From the Sunnah:** Whenever the Prophet ﷺ would leave an audience in which An-Nadr was sitting, An-Nadr began narrating to them the stories that he learned in Persia, proclaiming afterwards, "Who, by Allah, has better tales to narrate,…
 ## Personal Reflections
 
 

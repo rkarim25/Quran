@@ -110,6 +110,15 @@ The Holy Qur'an is an honour and pride for the Arabs
 
 كِتَابًا فِيهِ ذِكْرُ‌كُمْ (a book having a good name for you - 21:10): The word (Book) is meant for Qur'an and ذکر (name) is used here for honour, excellence and fame. Thus what is meant here is that the revelation of Qur'an in Arabic language is a great honour and everlasting fame for the Arabs and they should value it as such. History has proved that by Allah's Mercy and by the blessings of Qur'an Arabs have dominated the world and ruled over it for a long time. This is also a fact of life that Arabs gained dominance over the world not because of any tribal or linguistic supremacy but because of Qur'an. If there was no Qur'an, probably no one would have known about the Arabs at all.
 
+## AI Translation
+
+We have surely revealed to you a Book, in which there is glory for you. Will you not then understand?
+
+## AI Tafsir
+
+**What this ayah teaches:** Indeed, We have sent down for you a Book in which there is Dhikrukum.
+
+**Classical tafsir:** Ibn Kathir notes: This is also a fact of life that Arabs gained dominance over the world not because of any tribal or linguistic supremacy but because of Qur'an.
 ## Personal Reflections
 
 

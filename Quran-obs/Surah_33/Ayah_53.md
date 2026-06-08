@@ -659,6 +659,19 @@ In the injunctions of Hijab mentioned above, there are some exceptions . For exa
 
 In view of the importance of the issue of Hijab, we have reproduced a few essential points from our treatise entitled Tafsil-ul-Khitab fi Ahkam-il-Hijab, something sufficient for common readers. Should someone be interested in an exhaustive treatment of the subject, it could be seen in the treatise under reference. This treatise has been published in Ahkam-ul-Qur'n under the section dealing with the TafsIr of Surah Al-Ahzab. (And Allah, the Pure, the High, knows best).
 
+## AI Translation
+
+O mu'mins! Do not enter the homes of the Prophet without permission and if invited for a meal, do not come too early and linger until the meal is ready. But if you are invited, then enter on time. Once you have eaten, then go on your way, and do not stay for casual talk. Such behaviour is truly annoying to the Prophet, yet he is too shy to ask you to leave. But Allah is never shy of the truth. And when you mu'mins ask his wives for something, ask them from behind a barrier. This is purer for your hearts and theirs. And it is not right for you to annoy the Messenger of Allah, nor ever marry his wives after him. This would certainly be a major offence in the sight of Allah.
+
+## AI Tafsir
+
+**Context:** (And it is not (right) for you that you should annoy Allah's Messenger,) "This was revealed concerning a man who wanted to marry one of the wives of the Prophet ﷺ after he died.
+
+**What this ayah teaches:** Enter not the Prophet's houses, unless permission is given to you for a meal, (and then) not (so early as) to wait for its preparation.
+
+**Classical tafsir:** Ibn Kathir notes: This indicates that it is forbidden to watch out for food being prepared, which is what the Arabs called Tatfil (being an uninvited guest).
+
+**From the Sunnah:** And it is not (right) for you that you should annoy Allah's Messenger, nor that you should ever marry his wives after him (his death). And I said to the wives of the Prophet ﷺ when they conspired against him out of jealousy,
 ## Personal Reflections
 
 

@@ -222,6 +222,17 @@ Verse [ 2] وَأَخْرَ‌جَتِ الْأَرْ‌ضُ أَثْقَالَ�
 
 "The earth will throw out the pieces of its liver [ contents ]. Gold and silver will come out like columns. A murderer will come and say: 'I killed for this?' The one who broke the ties of kinship will say: 'For this I severed the ties of kinship?' The thief will say: 'For this I got my hand amputated?' Then they will leave it there, and no one will take anything from it."
 
+## AI Translation
+
+and throws out its burdens—everything buried, hidden, and stored will surface;
+
+## AI Tafsir
+
+**What this ayah teaches:** When the earth quakes with its Zilzal.)(2. This refers to the alteration of the state of things and the earth moving and shaking.
+
+**Classical tafsir:** Ibn Kathir notes: This refers to the alteration of the state of things and the earth moving and shaking.
+
+**From the Sunnah:** Then the man said, 'Rather give me something to recite that is comprehensive (of all of these), O Messenger of Allah.' So the Prophet ﷺ told him to recite So the man came to him and the Prophet ﷺ said to him,
 ## Personal Reflections
 
 

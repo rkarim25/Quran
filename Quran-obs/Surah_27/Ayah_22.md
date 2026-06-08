@@ -156,6 +156,17 @@ Is it proper for a junior to say to his senior that he knows more than him?
 
 On the basis of this conversation by the hoopoe, some people have deduced that it is appropriate for a pupil to say to his teacher or for a common man to say to a knowledgeable person that he knows more than the latter on the subject, provided he is absolutely confident that his knowledge on that subject is really more than others. But it is argued in Ruh ul-Ma’ ani that such an assertion before the elders and scholars is against the etiquettes, and should be avoided. This argument, however, does not apply to the conversation of the hoopoe, because it made that statement to save itself from the punishment and to justify its excuse for the absence. The hoopoe actually wanted to place before Sulaiman (علیہ السلام) the exact position, so that he could understand the reason for its absence. In such situations it is not improper if something is said against the normal etiquettes.
 
+## AI Translation
+
+It was not long before the bird came and said, “I have found out something you do not know. I have just come to you from Sheba with sure news.
+
+## AI Tafsir
+
+**What this ayah teaches:** In such situations it is not improper if something is said against the normal etiquettes.
+
+**Classical tafsir:** Ibn Kathir notes: This argument, however, does not apply to the conversation of the hoopoe, because it made that statement to save itself from the punishment and to justify its excuse for the absence.
+
+**From the Sunnah:** the Prophet ﷺ forbade killing four kinds of animals: ants, bees, hoopoes and the sparrow hawks. (Musnad Ahmad, Sunan Abi Dawud)
 ## Personal Reflections
 
 

@@ -198,6 +198,19 @@ Then he said, "They will continue increasing in torment forever."
 
 جَزَاءً وِفَاقًا (this being a recompense in full accord [ with their deeds ]..78:26). The punishment given to them in Hell will be based on justice and equity - a fitting recompense - on account of their false beliefs and evil deeds. They will not be wronged in the least.
 
+## AI Translation
+
+and they rejected Our signs outright.
+
+## AI Tafsir
+
+**Context:** (But they denied Our Ayat Kidhdhaba.) meaning, they used to deny the evidences of Allah and His proofs for His creation, which He revealed to His Messengers. So they met these proofs with rejection and obstinance.
+
+**What this ayah teaches:** Explaining the Day of Decision and what occurs during it Allah says about the Day of Decision – and it is the Day of Judgement – that it is at a fixed time, with a set appointment.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Al-Bukhari reported concerning the explanation of Allah's statement, (Sahih al-Bukhari)
 ## Personal Reflections
 
 

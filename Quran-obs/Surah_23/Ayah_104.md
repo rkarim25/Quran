@@ -96,6 +96,15 @@ Allah says that when the Trumpet is blown for the Resurrection, and the people r
 
 وَهُمْ فِيهَا كَالِحُونَ And they will be disfigured therein - 23:104). The word is used for a person whose lips do not meet and leave his teeth fully exposed, which looks very ugly. It is said that the upper lip of a person consigned to Hell will be drawn up and his lower lip will be drawn down so that his teeth will remain visible at all times.
 
+## AI Translation
+
+The Fire will burn their faces, leaving them deformed.
+
+## AI Tafsir
+
+**What this ayah teaches:** they are the successful (102)And those whose Scales (of good deeds) are light, they are those who lose themselves, in Hell will they abide (103)The Fire will burn their faces, and therein they will grin, with displaced lips (disfigured).
+
+**Classical tafsir:** Ibn Kathir notes: The word is used for a person whose lips do not meet and leave his teeth fully exposed, which looks very ugly.
 ## Personal Reflections
 
 

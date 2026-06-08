@@ -183,6 +183,17 @@ Al-Baghawi said in his Tafsir, "This was the view of 'Abdullah bin 'Umar, Sa'id 
 
 By saying: كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ (This is how We reward those who are good in deeds - 110), the sense is, 'when a servant of Allah bows down before the command of Allah and is ready to sacrifice all personal thoughts and feelings, then, ultimately, We take care of him, so that he remains safe from whatever could have afflicted him here in this world, and as for the recompense and reward of the Hereafter, that We write down in his book of deeds.'
 
+## AI Translation
+
+You have already fulfilled the vision." Indeed, this is how We reward the good-doers.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Muslims and the People of the Book agree, and indeed it is stated in their Book, that Isma'il, peace be upon him, was born when Ibrahim, peace be upon him, was eighty-six years old, and Ishaq was born when Ibrahim was ninety-nine years old.
+
+**Classical tafsir:** Ibn Kathir notes: They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs.
+
+**From the Sunnah:** The Muslims and the People of the Book agree, and indeed it is stated in their Book, that Isma'il, peace be upon him, was born when Ibrahim, peace be upon him, was eighty-six years old, and Ishaq was born when Ibrahim was ninety-nine years old. The Quraysh had inherited the horns of the ram that Ibrahim sacrificed, and they had been passed down from generation to generation, until the Messenger of Allah ﷺ was sent.
 ## Personal Reflections
 
 

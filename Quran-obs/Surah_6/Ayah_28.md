@@ -157,6 +157,15 @@ Then, their All-Knowing, All-Aware Master said that this was what they were sayi
 
 That their present statement has been called a lie could also be based on their ultimate deed, that is, their promising not to lie if returned to the world was not true, for this would never happen because they would still do nothing but keep lying when they go there. This lie could also mean that whatever they were saying at that time was not prompted by true intention. They were doing so simply to buy time and avoid punishment while in the heart of their hearts, they still have no intention of doing it.
 
+## AI Translation
+
+But no! because the truth they used to hide will become all too clear to them. Even if they were to be sent back, they would certainly revert to what they were forbidden. Indeed they are liars!
+
+## AI Tafsir
+
+**What this ayah teaches:** But the (lie) which they invented will disappear from them.) It is also possible that the meaning here is that the those who reject the truth will realize the truth that they knew all along in their hearts, that is, that what the Messengers brought them in this life is true, although they used to deny his Message before their followers.
+
+**Classical tafsir:** Ibn Kathir notes: And indeed they are liars.) meaning, they lie when they say they wish to go back to this life so that they can embrace the faith.
 ## Personal Reflections
 
 

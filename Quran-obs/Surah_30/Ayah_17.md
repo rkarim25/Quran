@@ -122,6 +122,15 @@ So, proclaim Allah's purity when you see the evening and when you see the mornin
 
 That whoever will recite them in the morning, all shortcomings in his acts during the day will be repaired; and whoever will recite these verses in the evening all shortcomings in his actions during the night will be repaired. (Ruh).
 
+## AI Translation
+
+So glorify Allah evening and morning —
+
+## AI Tafsir
+
+**What this ayah teaches:** In the sequence of the present verse, evening is mentioned before morning, and the end of the day (` Asr) is mentioned before Zuhr.
+
+**Classical tafsir:** Ibn Kathir notes: These Ayat which come one after the other are all of the same; in each of them Allah mentions the creation of things and their opposites, to indicate to His creation the perfection of His power.
 ## Personal Reflections
 
 

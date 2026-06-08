@@ -222,6 +222,17 @@ Commentary
 
 أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ (The Shaitan cast (doubts) about what he recited - 22:52) In this verse the word تَمَنَّىٰ has been used as a synonym for قَرَأَ thus أُمْنِيَّتِهِ would mean قِرَأت (recitation). This verse explains that the disputes raised by the disbelievers in regard to Allah's message is not something new as similar doubts were raised by earlier people as well when their prophets presented to them the message of Truth, and the Shaitan cast doubts about it in the hearts of disbelievers. This explanation of the verse is quite clear and straight-forward, and has been adopted by many commentators including Abu Hayyan in his Bahr-ul-Muhit. However, some books of traditions have reported here an incident which is not proved by authentic sources. The incident is known as حَدِیث الٖغرانیق (hadith-ulgharaniq). Some scholars have held that it is invented by some heretics and enemies of Islam. But even those who believe this tradition to be worthwhile have taken pains to remove the doubts, which the words raise about the categorical and undisputed laws of Qur'an and Sunnah. The plain and simple meaning of the verse has been explained above and the alleged incident in no way affects this meaning. Making this incident as a part and parcel of the commentary on this verse, thereby creating unnecessary doubts, and then attempting to answer those doubts is an exercise in futility and absolutely undesirable وَاللہُ سبحانَہُ و تعالیٰ اَعلَم .
 
+## AI Translation
+
+Whenever We sent a messenger or a prophet before you O Prophet and he recited Our revelations, Satan would influence people’s understanding of his recitation. But eventually Allah would eliminate Satan’s influence. Then Allah would firmly establish His revelations. And Allah is All-Knowing, All-Wise.
+
+## AI Tafsir
+
+**Context:** (And that those who have been given knowledge may know that it is the truth from your Lord, so that they may believe therein,) means, 'so that those who have been given beneficial knowledge with which they may differenti…
+
+**What this ayah teaches:** And certainly, the wrongdoers are in an opposition far-off (from the truth)(53)And that those who have been given knowledge may know that it (this Qur'an) is the truth from your Lord, so that they may believe therein, and their hearts may submit to it with humility.
+
+**Classical tafsir:** Ibn Kathir notes: This verse explains that the disputes raised by the those who reject the truth in regard to Allah's message is not something new as similar doubts were raised by earlier people as well when their prophets presented to them the message of Truth, and the Shaitan cast doubts about it in the heart…
 ## Personal Reflections
 
 

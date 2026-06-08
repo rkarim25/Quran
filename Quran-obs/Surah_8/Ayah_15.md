@@ -128,6 +128,17 @@ Out of the verses appearing above, the first two (15-16) tell us about a militar
 
 The second verse (16) refers to an exception to this rule, and to a severe punishment for illegal deserters.
 
+## AI Translation
+
+O you who have iman: when you meet those who reject the truth in battle, do not turn your backs to them.
+
+## AI Tafsir
+
+**What this ayah teaches:** When you meet those who disbelieve, in a battlefield, never turn your backs to them (15)And whoever turns his back to them on such a day – unless it be a stratagem of war, or to retreat to a troop (of his own) – he indeed has drawn upon himself wrath from Allah. So that is allowed for him, or even during the battle if he flees from his brigade to the commander.
+
+**Classical tafsir:** Ibn Kathir notes: We are your troop." Mujahid said that 'Umar said, "We are the troop of every Muslim." Abdul-Malik bin 'Umayr reported from 'Umar, "O people! The second verse (16) refers to an exception to this rule, and to a severe punishment for illegal deserters.
+
+**From the Sunnah:** We are your troop." Mujahid said that 'Umar said, "We are the troop of every Muslim." Abdul-Malik bin 'Umayr reported from 'Umar, "O people!
 ## Personal Reflections
 
 

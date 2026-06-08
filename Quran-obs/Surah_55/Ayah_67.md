@@ -152,6 +152,17 @@ This is the end of the Tafsir of Surat Ar-Rahman, all praise is due to Allah and
 
 مُدْهَامَّتَانِ (both dark green!...55:64). This is one word verse, and it means 'dark green with foliage'. The word is derived from idhimam signifying, for a meadow or garden, to become of dark green hue inclining to black by reason of abundance of moisture or irrigation. This description is not assigned to the first two Gardens. This does not necessarily imply that they do not have this quality. The former Gardens are described as ذَوَاتَا of 'having lot of branches'. This comprehends the quality of 'dark green' as well.
 
+## AI Translation
+
+So which of your Rabb's favours will you both—humans and jinn—deny?
+
+## AI Tafsir
+
+**What this ayah teaches:** And below these two, there are two other Gardens (62)Then which of the blessings of your Lord will you both deny (63)Mudhāmmatān (64)Then which of the blessings of your Lord will you both deny (65)In them (both) will be two springs Naddakhatan (66)Then which of the blessings of your Lord will you both deny (67)In them (both) will be fruits, and date palms and pomegranates (68)Then which of the ble…
+
+**Classical tafsir:** Ibn Kathir notes: The word is derived from idhimam signifying, for a meadow or garden, to become of dark green hue inclining to black by reason of abundance of moisture or irrigation.
+
+**From the Sunnah:** that this tent is thirty miles wide (Sahih Muslim)
 ## Personal Reflections
 
 

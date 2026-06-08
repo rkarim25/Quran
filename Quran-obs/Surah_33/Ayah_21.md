@@ -136,6 +136,17 @@ The last three (25-27) of the cited verses refer to the event relating to Banu Q
 
 In the last verse (27), good news of future victories has been given. Gone is the time when disbelievers attacked. Now the cycle of Muslim victories will begin and they will come to be on lands their feet have not touched yet. And this prophecy unfolded itself during the tenure of the noble Sahabah and everyone witnessed the spectacle of great empires ruled by Cyrus and Caesar come under them. And Allah does what He wills.
 
+## AI Translation
+
+In the Messenger of Allah you have an excellent model for whoever hopes in Allah and the Last Day and remembers Allah often.
+
+## AI Tafsir
+
+**What this ayah teaches:** Indeed in the Messenger of Allah you have a good example to follow for him who hopes in Allah and the Last Day, and remembers Allah much (21)And when the believers saw the Confederates, they said: "This is what Allah and His Messenger had promised us; and Allah and His Messenger had spoken the truth." And it only added to their faith and to their submissiveness .
+
+**Classical tafsir:** Ibn Kathir notes: And any act or omission on his part that is proved to have been done as a preferable conduct (istihbab) and not as an obligatory one, should be followed by us too as a commendable (mustahab) conduct and not as a necessary obligation This, in other words, means that its contravent…
+
+**From the Sunnah:** This Ayah is an important principle, to follow the Messenger of Allah ﷺ in all his words, and deeds, etc.
 ## Personal Reflections
 
 

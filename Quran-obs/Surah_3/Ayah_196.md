@@ -107,6 +107,17 @@ While explaining the statement لَأُكَفِّرَ‌نَّ عَنْهُمْ 
 
 So, let us keep in mind that all sins are forgiven following Hijrah (Emigration) and Shahadah (Surrendering life in the way of Allah, martyrdom) but the forgiveness of debts and other rights of people (Huququl-` Ibad) has not been promised.
 
+## AI Translation
+
+Do not be deceived by the prosperity of those who reject the truth throughout the land.
+
+## AI Tafsir
+
+**What this ayah teaches:** In the second and third verses (196-197), Muslims have been instructed not to be deceived by the apparent affluence and worldwide maneuvering of those who reject the truth for this is transitory and the punishment which follows in its wake is eternal.
+
+**Classical tafsir:** Ibn Kathir notes: We postpone the punishment only so that they may increase in sinfulness.
+
+**From the Sunnah:** In the second and third verses (196-197), Muslims have been instructed not to be deceived by the apparent affluence and worldwide maneuvering of those who reject the truth for this is transitory and the punishment which follows in its wake is eternal. Paradise for Muslims who always keep fearing Allah.
 ## Personal Reflections
 
 

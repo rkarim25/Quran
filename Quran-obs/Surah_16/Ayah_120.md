@@ -144,6 +144,19 @@ Commentary
 
 The word: اُمَّہ (ummah) has a few other meanings, but the well-known sense is that of community, nation, or group of people. At this place, this is what it means - as reported from Sayyidna Ibn ` Abbas ؓ . The sense is that Sayyidna Ibrahim (علیہ السلام) is, in his person, a community, a nation, almost a compendium of their perfections and merits. There is another meaning of the word: اُمَّہ (ummah), that of the leader of a community, someone imbibing in his person many perfections. Some commentators have taken exactly this meaning of the word at this place. And the word: قَانِت (qanit) in verse 120 means obedient to the command (of his Creator). Sayyidna Ibrahim (علیہ السلام) has distinct status in these two qualities. As for being a leader, people from all famous Faiths of the world believe in him and consider it an honour to be the followers of his community. Of course, the Jews, the Christians and the Muslims revere him. Even the Mushriks of Arabia, despite their idol-worship, felt proud to believe in him and in (supposedly) following his way (the way of someone who was the foremost idol-breaker in human annals) ! As for the signal distinction of his being 'qanit' (obedient), it becomes crystal clear from the trials this 'friend' (khalil) of Allah has gone through. Imagine the fire of Namrud (Nimrod), the Command to go elsewhere leaving behind his family in a wilderness, and then, his being ready to sacrifice his very dear son. All these are singularities because of which Allah Ta’ ala has honoured him with such epithets.
 
+## AI Translation
+
+Indeed, Abraham was a model of excellence: devoted to Allah, perfectly upright—not a polytheist—
+
+## AI Tafsir
+
+**Context:** (Then, We have sent the revelation to you: "Follow the religion of Ibrahim (he was a) Hanif...) meaning, 'because of his perfection, greatness, and the soundness of his Tawhid and his way, We revealed to you, O Seal of t…
+
+**What this ayah teaches:** Verily, Ibrahim was (himself) an Ummah, obedient to Allah, a Hanif (monotheist), and he was not one of the idolators (120)(He was) thankful for His favors. Some commentators have taken exactly this meaning of the word at this place.
+
+**Classical tafsir:** Ibn Kathir notes: Some commentators have taken exactly this meaning of the word at this place.
+
+**From the Sunnah:** Of course, the Jews, the Christians and the Muslims revere him.
 ## Personal Reflections
 
 

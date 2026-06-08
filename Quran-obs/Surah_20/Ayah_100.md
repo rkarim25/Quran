@@ -77,6 +77,15 @@ Allah, the Exalted, is saying to Prophet Muhammad ﷺ, 'We have told you (O Muha
 
 مَّنْ أَعْرَ‌ضَ عَنْهُ فَإِنَّهُ يَحْمِلُ يَوْمَ الْقِيَامَةِ وِزْرً‌ا (Whoever turns away from it shall certainly bear a heavy burden on the Doomsday - 20:100) Turning aside from the Qur'an can take different forms: not paying proper attention and respect when it is being recited; showing scant desire to learn to read it or to comprehend its meaning, or reading it incorrectly without regard to correct pronunciation etc.; reading it without full concentration; reading it not to win God's goodwill but to attain worldly rewards such as wealth and fame. Likewise not striving to comprehend the laws laid down by the Qur'an or, having understood them, not complying with them or acting in their defiance are extreme forms of disregard for the Qur'an. Any neglect of the rights and claims of the Qur'an is a great sin and the guilty person will bear it on his head on the Day of Judgment in the shape of a heavy load. It has been related in several traditions that the evil deeds and the sins which a person has committed in his life time will be placed on his head in the shape of a heavy burden on the Day of Resurrection.
 
+## AI Translation
+
+Whoever turns away from it will surely bear the burden of sin on the Day of Judgment,.
+
+## AI Tafsir
+
+**What this ayah teaches:** Whoever follows it, then he is rightly guided and whoever opposes it and turns away from it, then he is misguided.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

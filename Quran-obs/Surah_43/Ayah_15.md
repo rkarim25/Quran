@@ -128,6 +128,15 @@ And Allah says in this Ayah, after mentioning this argument of theirs:
 
 وَجَعَلُوا لَهُ مِنْ عِبَادِهِ جُزْءًا (And they have attributed to Him [ that He is composed on parts [ and that too ] out of His slaves...43:15) 'parts' in this verse means 'offspring', because the polytheists used to say that angels are daughters of Allah, and by using the word 'parts' instead of 'offspring' the fallacy of their claim has been pointed out on pure logical ground. The gist of the argument is that had Allah any offspring, that offspring will have been His part, because a son is a part of his father, and it is a rule of logic that an entity that consists of parts is dependent upon its parts for its full existence. This will then necessarily mean that Allah Ta’ ala is also dependent on His offspring, which is obviously impossible, because dependence of any kind, being a negation of the Divine Majesty, is out of question in Allah's case.
 
+## AI Translation
+
+Still the pagans have made some of His creation out to be a part of Him. Indeed, humankind is clearly ungrateful.
+
+## AI Tafsir
+
+**What this ayah teaches:** The gist of the argument is that had Allah any offspring, that offspring will have been His part, because a son is a part of his father, and it is a rule of logic that an entity that consists of parts is dependent upon its parts for its full existence.
+
+**Classical tafsir:** Ibn Kathir notes: They do nothing but lie!) Mujahid said, "They do not appreciate the power of Allah."
 ## Personal Reflections
 
 

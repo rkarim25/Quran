@@ -154,6 +154,17 @@ In brief if a Muslim indulged in a sin by negligence and then realized that he h
 
 Some rules of taubah (repentance) from sins had been mentioned during the traits of Allah's favoured servants. The next verses are back to the original subject.
 
+## AI Translation
+
+And whoever repents and does good has truly turned to Allah properly.
+
+## AI Tafsir
+
+**Context:** (And whoever kills a believer intentionally)(4:93), because even though this was revealed in Al-Madinah, the meaning is general, and it could be interpreted to refer to one who does not repent, because this Ayah states t…
+
+**What this ayah teaches:** And those who invoke not any other Allah along with Allah, nor kill such person as Allah has forbidden, except for just cause, nor commit illegal sexual intercourse – and whoever does this shall receive Athama (68)The torment will be doubled for him on the Day of Resurrection, and he will abide therein in disgrace (69)Except those who repent and believe, and do righteous deeds; f…
+
+**Classical tafsir:** Ibn Kathir notes: As-Suddi said that Athama referred to punishment, which is closer to the apparent meaning of the Ayah.
 ## Personal Reflections
 
 

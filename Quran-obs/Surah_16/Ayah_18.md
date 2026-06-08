@@ -104,6 +104,15 @@ Commentary
 
 Verses appearing immediately earlier described the many blessings of Allah Ta` ala in details, proved that He alone is their Creator and established that He is unique in this matter. Now, in the present verses, there comes an admonition against the failure of people to recognize that there is a fact behind the statement describing all these blessings - and that is Tauhid, the Oneness of Allah Ta’ ala, except whom there is none worthy of worship. Therefore, it was said: When it stands proved that Allah alone made the heavens and the earth, made the mountains and rivers, vegetation and animals, trees and plants with their fruits and flowers, how can that most sacred Being that is the Creator of all these things become, for no reason, like idols and icons which cannot create anything? Why would you not understand something so elementary?
 
+## AI Translation
+
+If you tried to count Allah's blessings, you could never enumerate them. Humanity is truly unjust and ungrateful.
+
+## AI Tafsir
+
+**What this ayah teaches:** Now, in the present verses, there comes an admonition against the failure of people to recognize that there is a fact behind the statement describing all these blessings - and that is Tauhid, the Oneness of Allah Ta’ ala, except whom there is none worthy of worship.
+
+**Classical tafsir:** Ibn Kathir notes: He was the first one to travel by ship, he was taught how to make them, then people took this knowledge from him and passed it down from generation to generation through the centuries, so that they could travel from country to country and from place to place, bringing goods from…
 ## Personal Reflections
 
 

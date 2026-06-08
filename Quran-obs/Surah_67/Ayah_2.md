@@ -244,6 +244,17 @@ What is a Good Action?
 
 Sayyidna Ibn ` Umar ؓ said that once the Holy Prophet ﷺ recited verse [ 2] and when he reached the words "better in deeds", he stopped and explained that 'better in deeds' is the person who abstains most from the things Allah has forbidden and is always ready to obey Him. [ Qurtubi ]
 
+## AI Translation
+
+He created death and life to test which of you is best in deeds. He is the Almighty, All-Forgiving.
+
+## AI Tafsir
+
+**What this ayah teaches:** Various Categories of Death and Life It is stated in Tafsir Mazhari that Allah, with His Supreme Power and Consummate Wisdom, has divided His creation into different types.
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah means that He brought creation into existence from nothing in order to test the creatures.
+
+**From the Sunnah:** This Hadith was collected by At-Tirmidhi and the four Sunan Compilers. (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

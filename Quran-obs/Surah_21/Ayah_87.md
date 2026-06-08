@@ -213,6 +213,17 @@ After learning the background of the episode it would be easier to understand th
 
 اللَّـهُ يَبْسُطُ الرِّ‌زْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ‌ لَهُ (Allah extends provision to whom He wills and straitens it.) The Imams of Tafsir Ata', Said Ibn Jubair, Hasan Basri and many other scholars have adopted this interpretation, and therefore the meaning of the verse would be that Yunus (علیہ السلام) thought that he would not be put in a straitened condition by Allah Ta` a1a if he abandoned his people. This second explanation is adopted by most commentators (and the translation of the text as appeared above is based on it). The third possibility is that نَقدِر is a derivative of تَقدِیر in which case the verse would mean that Yunus (علیہ السلام) was sure that he would not be blamed if he dissociated himself from his people. Qatadah, Mujahid and Farra' have adopted this explanation.
 
+## AI Translation
+
+And to Dhu'l-Nun, when he went off in anger and thought We would not restrict him — he cried out in the darkness: There is none worthy of worship except You. Glory be to You. I was among the wrongdoers.
+
+## AI Tafsir
+
+**What this ayah teaches:** Similarly, his dissociation from his people was nothing new and was in line with the practice of other prophets in similar situations and must, therefore, also have been done by the command and approval from Allah Ta` ala.
+
+**Classical tafsir:** Ibn Kathir notes: Similarly, his dissociation from his people was nothing new and was in line with the practice of other prophets in similar situations and must, therefore, also have been done by the command and approval from Allah Ta` ala.
+
+**From the Sunnah:** You passed by me a short while ago but I was preoccupied with thoughts of something I had heard from the Messenger of Allah ﷺ, which I never think of but a veil comes down over my eyes and my heart.' Sa'd said: 'And I will tell you what it was. (Musnad Ahmad) the Messenger of Allah ﷺ said: (Sahih Muslim, Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

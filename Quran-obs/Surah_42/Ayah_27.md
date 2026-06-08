@@ -193,6 +193,17 @@ Here a question may arise that all kinds of blessings will be provided in abunda
 
 The question why could not greed and inordinate desire be removed and wealth and goods be provided in abundance in this world as well, is quite irrelevant. The very purpose of creating this world is to have co-existence of good and evil. It is simply not possible without it to arrange trial of human beings which is the real purpose of creation of the universe. Therefore, the real purpose of creating this universe would have failed, if greed and desire had been removed altogether from human beings. Paradise, on the other hand, would comprise goodness only therefore, such base emotions will simply not be there.
 
+## AI Translation
+
+Had Allah given abundant provisions to all His servants, they would have certainly transgressed throughout the land. But He sends down whatever He wills in perfect measure. He is truly All-Aware, All-Seeing of His servants.
+
+## AI Tafsir
+
+**Context:** Some narrations also corroborate that this verse was revealed about those Muslims who used to wish that they also should get the same wealth and opulence as was available to the infidels.
+
+**What this ayah teaches:** And as for the those who reject the truth, theirs will be a severe torment (26)And if Allah were to extend the provision for His servants, they would surely rebel in the earth, but He sends down by measure as He wills. Verily, He is, in respect of His servants, the Well-Aware, the All-Seer (27)And He it is Who sends down the rain after they have despaired, and spreads His mercy.
+
+**Classical tafsir:** Ibn Kathir notes: Accordingly, He has provided everybody with what is good for him, and if He has deprived somebody of anything, it is because of his and the whole world's welfare.
 ## Personal Reflections
 
 

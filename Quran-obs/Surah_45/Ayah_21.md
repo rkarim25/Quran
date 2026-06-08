@@ -152,6 +152,17 @@ Of the two verses mentioned, the first one argues rationally that Divine reward 
 
 In short, the need for the Day of Requital may be denied only when it is conceded that there is no such thing as good and bad; or that whatever one acquires, by fair means or foul, it is absolutely rewardable. But no one accepts this position. Similarly it is absurd to believe that there is distinction between good and evil, but the consequences are equal, rather the criminal should have a more comfortable life than the righteous and innocent ones. There could be no greater degree of wrong than this. It is to this absurd judgment that the Qur'an refers in سَوَاءً مَّحْيَاهُمْ وَمَمَاتُهُمْ...so as their life and death becomes equal? Evil is what they judge... 45:21) ". It is a very unreasonable and unjustifiable position that evil-doers should be placed on the same pedestal as the righteous persons. Since the reward and punishment in this world are not given in full measure, then it necessarily follows that there should be life after death in the Hereafter where reward and punishment will be paid in full measure. Thus the second verse in the set complements the same subject –وَلِتُجْزَىٰ كُلُّ نَفْسٍ بِمَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ ...and so that everybody is recompensed for what he (or she) earned. And they will not be wronged. - 45:22). In other words, the Day of Requital is necessary in order to wipe out wrong and injustice. As for the question, why the people are not requited or recompensed for the good or bad deeds in this world, we would respond that this is not in keeping with the Divine wisdom of creation: He made this world the ` domain of deeds and test-n-trial', not the ` domain of requital'. Allah knows best!
 
+## AI Translation
+
+Do those who commit evil deeds think We will make them equal—in life and after death—to those who believe and do good? How wrong is their judgment!
+
+## AI Tafsir
+
+**What this ayah teaches:** Similarly it is absurd to believe that there is distinction between good and evil, but the consequences are equal, rather the criminal should have a more comfortable life than the righteous and innocent ones.
+
+**Classical tafsir:** Ibn Kathir notes: The believers, on the other hand, who follow the Shari'ah strictly, do not touch many kinds of wealth and give up many pleasures because they treat them as unlawful.
+
+**From the Sunnah:** 'Amr bin Murrah narrated that Abu Ad-Duha said that Masruq said that Tamim Ad-Dari once stood in voluntary prayer through the night until the morning only reciting this Ayah,
 ## Personal Reflections
 
 

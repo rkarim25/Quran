@@ -144,6 +144,19 @@ A'ishah, may Allah be pleased with her, said, "I saw him receiving the revelatio
 
 These angels in the heavens proclaim the perfection of their Lord and utter His praises. They also ask for forgiveness of the dwellers of this earth who do not give what is due to Allah's greatness, rather indulge in associating others with Him and in infidelity and hence become liable to suffer scourge. Their asking for forgiveness for disbelievers is for a limited period only and is a supplication that some severe worldly scourge may not befall the humans which may destroy all of them; their safety against ordinary punishments of this world and the real scourge of the Hereafter are not included in this supplication. And Allah, the Almighty accepts this supplication, and saves them from the general scourge in this world. It must be understood thoroughly that Allah and Allah alone is the forgiver and Merciful although this forgiveness of infidels is for a limited duration and is limited to this world only.
 
+## AI Translation
+
+As for those who take other protectors besides Him, Allah is watchful over them. And you are not a keeper over them.
+
+## AI Tafsir
+
+**Context:** (Likewise Allah, the Almighty, the All-Wise sends revelation to you as to those before you.) means, 'just as this Qur'an has been revealed to you, so too the Books and Scriptures were revealed to the Prophets who came be…
+
+**What this ayah teaches:** And as for those who take as protecting friends others besides Him – Allah is Hafiz over them, and you are not a trustee over them.) The Revelation and Allah's Might We have previously discussed the individual letters.
+
+**Classical tafsir:** Ibn Kathir notes: Lo, Verily, Allah is the Oft-Forgiving, the ar-Rahim.)(6.
+
+**From the Sunnah:** A'ishah, may Allah be pleased with her, said, "I saw him receiving the revelation on a very cold day, and when it departed from him, there were beads of sweat on his forehead." It was also reported in the Two Sahihs, and the version quoted here is that recorde… (Sahih al-Bukhari)
 ## Personal Reflections
 
 

@@ -126,6 +126,17 @@ Moreover, the binary division of mankind on the basis of ‘Iman and Kufr is a m
 
 It is this Islamic brotherhood that, in a short span of time, from east to west, north to south, white and black, and Arabs and non-Arabs, whose might and power could not be resisted by the nations of the world, and therefore they revived once again the idols that were shattered by the Messenger of Allah ﷺ and Islam. They partitioned the one mighty ummah and Muslims in to small bits and pieces of nations based on territory, homeland, language and colour, race and lineage, and caused them to collide with one another. This cleared the way for the enemies of Islam to attack, the consequences of which are visible to every eye today. The Muslims of east and west were one nation and one heart, but are now divided into small groups fighting one another. As against this, the Shaitanic forces of Kufr, despite mutual disagreements, look like a united force against the Muslims.
 
+## AI Translation
+
+He created you, yet among you are those who reject the truth and those who believe. Allah is All-Seeing of what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** In this instance, the phrase ‘khalaqakum’ [ created you ] indicates that at the inception of creation there were no unbelievers [ kafis ]. He it is Who created you, then some of you are those who reject the truth and some of you are believers.
+
+**Classical tafsir:** Ibn Kathir notes: In this instance, the phrase ‘khalaqakum’ [ created you ] indicates that at the inception of creation there were no unbelievers [ kafis ].
+
+**From the Sunnah:** In the Days of Ignorance, ethnicity and tribal divisions had become the basis of factionalism but the Messenger of Allah ﷺ broke down these idols, which they pursued.
 ## Personal Reflections
 
 

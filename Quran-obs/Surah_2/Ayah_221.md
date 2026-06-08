@@ -301,6 +301,17 @@ Marrying a woman from such a group of people is not correct. Those who marry wom
 
 2. Similarly, it is not correct to give a Muslim woman in marriage to a man who, in his outward status, is supposed to be a Muslim but whose beliefs are identical with those of a non-Muslim. And should such corruption of beliefs occur after having been married, the nikah or the marriage-contract breaks ipso facto. For instance, a large number of Muslims, in ignorance of their religion and under the influence of the so-called ` modern thinking', ruin their beliefs. It is, therefore, obligatory for the guardians of a girl that they should first investigate into the beliefs of the proposer before they accept the proposal.
 
+## AI Translation
+
+Do not marry women who associate partners with Allah until they believe. A believing slave-woman is better than a free polytheist, even if she pleases you. Do not give your women in marriage to polytheist men until they believe. A believing slave-man is better than a free polytheist, even if he pleases you. They invite to the Fire while Allah invites to Paradise and forgiveness by His grace. He makes His signs clear so people may remember.
+
+## AI Tafsir
+
+**What this ayah teaches:** And give not (your daughters) in marriage to Al-Mushrikin till they believe (in Allah Alone) and verily, a believing servant is better than a (free) Mushrik (idolator), even though he pleases you.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, it was said that these people call everyone to come to Hell while Allah Almighty calls man to Paradise and to His forgiveness and, for this purpose, states His injunctions openly and clearly so that people follow the wise counsel.
+
+**From the Sunnah:** "I do not know of a bigger Shirk than her saying that Jesus is her Lord!" (Sahih al-Bukhari) It is recorded in the Two Sahihs that Abu Hurayrah narrated that the Prophet ﷺ said:
 ## Personal Reflections
 
 

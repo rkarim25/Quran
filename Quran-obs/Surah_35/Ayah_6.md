@@ -108,6 +108,15 @@ Commentary
 
 The word: غَرُ‌ورُ‌ (gharur) is an emphatic form of an adjective that means one who is very deceiving (hence, rendered here as 'big deceiver' ). It refers to the Shaitan (Satan) whose sole job is to deceive people and throw them into disbelief and sin. And the expression لَا يَغُرَّ‌نَّكُم بِاللَّـهِ الْغَرُ‌ورُ‌ (5) means 'nor should you be deceived about Allah'. To explain this deception, it can be said that the Shaitan may not, by showing your evil deeds as good, cause you to become so involved with these that you reach the stage when you go on committing a sin and, at the same time, keep thinking that you are of those accepted in the sight of Allah, and that you will not have to undergo any punishment.' (Qurtubi)
 
+## AI Translation
+
+Satan is an enemy to you—treat him as an enemy. He only invites his followers to become inmates of the Blaze.
+
+## AI Tafsir
+
+**What this ayah teaches:** So, let not this present life deceive you, and let not the chief deceiver deceive you about Allah (5)Surely, Shaytan is an enemy to you, so take (treat) him as an enemy.
+
+**Classical tafsir:** Ibn Kathir notes: It refers to the Shaitan (Satan) whose sole job is to deceive people and throw them into disbelief and sin.
 ## Personal Reflections
 
 

@@ -158,6 +158,17 @@ So, his Lord accepted his prayer and turned their guile away from him. Surely, H
 
 To protect him from the guile of these women, Allah Ta ala made his own wise arrangements. Though the ` Aziz of Misr and his inner circle was already convinced of the great spiritual qualities of Sayyidna Yusuf (علیہ السلام) his piety, fear of Allah and chastity, but rumours of the incident had started circulating in the city. To put a check on this, they found it expedient to confine Sayyidna Yusuf (علیہ السلام) into the prison for a certain period of time so that there remains no source of any doubt in the concerned family, and that the talk of the town too dies out in due course.
 
+## AI Translation
+
+So his Rabb responded to him, turning their cunning away from him. Surely He is the All-Hearing, All-Knowing.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, He is the All-Hearing, the All-Knowing.
+
+**Classical tafsir:** Ibn Kathir notes: This indicates the best and most perfect grade in this case, for Yusuf was youthful, beautiful and full of manhood.
+
+**From the Sunnah:** An authentic Hadith stated that the Messenger of Allah passed ﷺ by Prophet Yusuf, during the Night of Isra' in the third heaven and commented, (authentic hadith)
 ## Personal Reflections
 
 

@@ -170,6 +170,15 @@ Allah, the Exalted, says,
 
 أَقِمِ الصَّلَاةَ لِذِكْرِ‌ي (Establish Salah for My remembrance - 20:14): means that the essence of prayer is the remembrance of Allah Ta` ala and that the Salah, from beginning to end is nothing but remembering Allah - with the tongue, the heart and the other organs of the body. Therefore, one should not neglect to remember Allah Ta` ala while praying. This sentence also means that if a person omits to say his prayers at the appointed time due to over-sleeping or forgetfulness while engrossed in some other task, he should say his prayers as soon as he wakes up from sleep or becomes aware of his lapse. This is according to Hadith.
 
+## AI Translation
+
+Surely I am Allah. There is none worthy of worship except Me. So worship Me and establish salah for My remembrance.
+
+## AI Tafsir
+
+**What this ayah teaches:** There is no Allah but Me, so worship Me, and perform Salah for My remembrance.
+
+**Classical tafsir:** Ibn Kathir notes: It shall not come upon you except all of a sudden.)[7:187] This means that its knowledge weighs heavily upon the dwellers of the heavens and the earth.
 ## Personal Reflections
 
 

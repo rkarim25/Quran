@@ -391,6 +391,17 @@ Injunctions and related considerations
 
 But it is obvious that he could not come out with this counter-demand. The reason is that as soon as he heard the argument, he came to the conclusion that (he himself or anybody else cannot bring out the sun from the East or the West and) it is surely a divine function which proves the existence of God. And once it is proved that it is God who brings the sun out from the East, it necessarily follows from it that He has the power to bring it out from the West also. The king also came to the conclusion that Ibrahim (علیہ السلام) ، ac is the messenger of Allah, and if the prayed Allah to bring out the sun from the. West, Allah will do it, in which case such a miraculous event may bring a revolution against him and he may be deprived of his kingdom. Therefore, he did not make such a demand and having no other answer, was baffled with the argument. (Bayin al-Qur'an)
 
+## AI Translation
+
+Or like the one who passed a ruined town and said, "How will Allah revive this after its death?" So Allah caused him to die for a hundred years, then revived him and asked, "How long did you remain?" He said, "A day or part of a day." He said, "No — you remained a hundred years. Look at your food and drink — it has not spoiled. Look at your donkey. We made you a sign for humanity. Look at the bones — how We assemble them and clothe them with flesh." When it became clear, he said, "I know that Allah is capable of everything."
+
+## AI Tafsir
+
+**What this ayah teaches:** When Allah resurrected 'Uzayr after he died, the first organ that He resurrected were his eyes, so that he could witness what Allah does with him, how He brings life back to his body. He said: "How will Allah ever bring it to life after its death?" So Allah caused him to die for a hundred years, then raised him up (again).
+
+**Classical tafsir:** Ibn Kathir notes: Obviously, his argument was totally absurd, because 'giving life' means to give life to something lifeless56.
+
+**From the Sunnah:** his father said that the Messenger of Allah ﷺ read this Ayah, (al-Mustadrak) It is evident from the words used in the verse that if an infidel is given political power or a high worldly status, there is no harm (for a Muslim) in referring to him as a holder of that position (Qurtubi). (Sahih Muslim)
 ## Personal Reflections
 
 

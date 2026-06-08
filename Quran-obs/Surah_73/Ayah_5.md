@@ -254,6 +254,19 @@ Ibn Jarir recorded from Abu 'Abdur-Rahman that he said, "When the Ayah
 
 The verse under comment prescribes tahajjud prayer on man, so that he may become accustomed to the difficulty of waking at night. This is a struggle against excess sleep and comfort of the carnal self. This exercise will make it easier to abide by the injunctions contained in the 'weighty discourse', that is, the Holy Qur'an.
 
+## AI Translation
+
+We will soon send down upon you a weighty revelation.
+
+## AI Tafsir
+
+**Context:** (Stand (to pray) all night, except a little. Half of it or less than that, a little.)(73:2-3) "This became difficult on the believers.
+
+**What this ayah teaches:** Sometimes the angel comes to me in the form of a man and talks to me and I grasp whatever he says.) A'ishah added, "Verily, I saw him receiving revelation and I noticed the sweat dropping from his forehead on a very cold day as the revelation ended." This is the wording recorded by Al-Bukhari.
+
+**Classical tafsir:** Ibn Kathir notes: 73:5) ' The word thagil means 'heavy' and the phrase 'weighty discourse' refers to the Qur'an, because the Qur'anic teachings of lawful and unlawful are permanently binding and carrying them out is the weightiest task for human nature, except those for whom Allah makes it easier.
+
+**From the Sunnah:** Thus, the Prophet ﷺ did as Allah ordered him, by standing for prayer at night.
 ## Personal Reflections
 
 

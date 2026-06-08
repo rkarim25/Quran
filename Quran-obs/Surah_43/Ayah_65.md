@@ -222,6 +222,17 @@ And on the Day of Resurrection, he will be a witness against them )4:159(. This 
 
 وَلِأُبَيِّنَ لَكُم بَعْضَ الَّذِي تَخْتَلِفُونَ فِيهِ (and to explain to you some of those matters in which you differ...43:63) Since Bana Isra'il were drowned in arrogance and obstinacy, they had tampered with the Divine laws. Sayyidna ` Isa (علیہ السلام) disclosed the reality of such distortions. The words 'some matters' are used because some other matters were purely of mundane nature. He might have not felt the need to deal with those differences. (Bayan-ul-Qur an).
 
+## AI Translation
+
+Yet their various groups have differed among themselves about him, so woe to the wrongdoers when they face the torment of a painful Day!
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore have Taqwa of Allah and obey me. The words 'some matters' are used because some other matters were purely of mundane nature.
+
+**Classical tafsir:** Ibn Kathir notes: The words 'some matters' are used because some other matters were purely of mundane nature.
+
+**From the Sunnah:** Several others narrated that Ibn 'Abbas, may Allah be pleased with him, Mujahid, 'Ikrimah, As-Suddi and Ad-Dahhak said, "They laughed, i.e., they were astounded by that." Qatadah said, "They were repelled by that and they laughed." Ibrahim An-Nakha'i said, "Th… The Messenger of Allah ﷺ spoke, then An-Nadr bin Al-Harith came up to him and the Messenger of Allah ﷺ spoke to him until he ﷺ defeated him in argument.
 ## Personal Reflections
 
 

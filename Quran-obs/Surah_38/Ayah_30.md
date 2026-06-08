@@ -128,6 +128,17 @@ Classical commentators like Hafiz Ibn Jarir Tabari, Imam Razi and others have pr
 
 In terms of the words of the noble Qur'an, there is room for both explanations. But, since a marfu' Hadith has appeared in favor of the first Tafsir, a Hadith that is hasan (good) as regards its authority, therefore, it has become weightier and more acceptable.
 
+## AI Translation
+
+We granted Dawud Sulayman—what an excellent servant! He too constantly turned back to Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, he never wasted the horses, in fact, sacrificed them in the name of Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "They were the kind of horses which stand on three legs and raise the fourth, and they were swift horses." This was also the view of several others among the Salaf. As-Suddi said, "Their necks and hamstrings were struck with swords." Ali bin Abi Talhah reported that Ibn 'Abbas, may Allah be pleased with him, said, "He began patting the horses' heads and legs out of love for them." This…
+
+**From the Sunnah:** He did not miss it deliberately, but because of forgetfulness, as happened to the Prophet ﷺ on the day of Khandaq, when he was too busy to pray 'Asr and he prayed it after the sun had set.
 ## Personal Reflections
 
 

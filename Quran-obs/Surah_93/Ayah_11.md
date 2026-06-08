@@ -242,6 +242,19 @@ Surah Ad-Duha
 
 Ends here
 
+## AI Translation
+
+And proclaim the blessings of your Rabb—speak of His favours with shukr, gratitude shown in word and deed.
+
+## AI Tafsir
+
+**Context:** Al-'Awfi reported from Ibn 'Abbas, "When the Qur'an was revealed to the Messenger of Allah ﷺ, Jibril was delayed from coming to him for a number of days (on one occasion).
+
+**What this ayah teaches:** And verily, your Lord will give you so that you shall be well-pleased.)(6. And repulse not the one who asks.)(11.
+
+**Classical tafsir:** Ibn Kathir notes: And repulse not the one who asks.)(11.
+
+**From the Sunnah:** this Hadith. (Sahih al-Bukhari, Sahih Muslim) Therefore, the Messenger of Allah ﷺ was affected by this.
 ## Personal Reflections
 
 

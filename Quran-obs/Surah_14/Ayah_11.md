@@ -210,6 +210,15 @@ In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَك
 
 So, whatever good there is in gratitude, that is for you alone. There-fore, when you are asked to be grateful by Allah Ta’ ala, there is no gain for Him in doing so. In fact, it is His infinite mercy reaching out to you in your interest.
 
+## AI Translation
+
+Their messengers said: "We are only humans like you, but Allah favours whomever He chooses of His servants. We cannot bring you proof except by Allah's permission. In Allah let the believers put their trust."
+
+## AI Tafsir
+
+**What this ayah teaches:** It is not ours to bring you an authority (proof) except by the permission of Allah. those who reject the truth reject Prophethood because the Messengers were Humans!
+
+**Classical tafsir:** Ibn Kathir notes: those who reject the truth reject Prophethood because the Messengers were Humans!
 ## Personal Reflections
 
 

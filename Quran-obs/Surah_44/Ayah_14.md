@@ -229,6 +229,19 @@ In conclusion, if the prophecy of dukhan ('smoke' ) be taken as one of the porte
 
 The author of Ruh-ul-Ma` ani, in terms of his preferred interpretation, has expressed his suspicion on the authenticity of this narration. However, if the narration can be confirmed, then there will remain no conflict between the Tafsir of Ibn Masud ؓ and the express wordings of the Qur'an and the Prophetic ahadith. Allah, the Pure and Exalted, knows best
 
+## AI Translation
+
+then they turned away from him, saying, "A madman, taught by others!"?
+
+## AI Tafsir
+
+**Context:** (Then wait you for the Day when the sky will bring forth a visible smoke, covering the people, this is a painful torment) A man came to the Messenger of Allah ﷺ and said, "O Messenger of Allah!
+
+**What this ayah teaches:** Then they had turned away from him and said: "(He is) one taught, a madman!") meaning, 'what further admonition do they need when We have sent them a Messenger with a clear Message and warning?
+
+**Classical tafsir:** Ibn Kathir notes: This is possible, but the apparent meaning is that it refers to the Day of Resurrection, although the day of Badr was also a day of vengeance.
+
+**From the Sunnah:** When the Quraysh did not respond to Islam and they grew stubborn, the Messenger of Allah ﷺ invoked Allah against them that they would have years like the years (of drought and famine) of Yusuf. So the Prophet ﷺ prayed for rain for them, and they got rain.
 ## Personal Reflections
 
 

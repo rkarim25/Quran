@@ -86,6 +86,17 @@ Related Considerations
 
 Reference in this passage is to those Bedouin tribes who were invited by Allah's Messenger ﷺ to join the party of 1400 Muslims who were marching to Hudaibiyah but on one pretext or another, they requested to be excused. This was narrated in part [ 1] of the story of Hudaibiyah. According to some versions, some of those people later repented and became sincere Muslims.
 
+## AI Translation
+
+Whoever does not have iman in Allah and His Messenger—We have prepared a blazing Fire for those who reject the truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** They asked the Messenger of Allah ﷺ to invoke Allah to forgive them, not because they had faith in the Prophet ﷺ and his invocation, but to show off and pretend.
+
+**Classical tafsir:** Ibn Kathir notes: They asked the Messenger of Allah ﷺ to invoke Allah to forgive them, not because they had faith in the Prophet ﷺ and his invocation, but to show off and pretend.
+
+**From the Sunnah:** Allah informs His Messenger ﷺ of the excuses that the bedouins who lagged behind would offer him, those bedouins who preferred to remain in their homes and possessions and did not join the Messenger of Allah ﷺ. Rather, your lagging behind was because of hypocrisy and because you thought that the Muslims would be killed to the extent of extermination, their lives would be extinguished and none of them will ever come back,'
 ## Personal Reflections
 
 

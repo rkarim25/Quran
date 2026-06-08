@@ -136,6 +136,15 @@ Ya'qub's children felt pity for him and said, while feeling sorrow and compassio
 
 When the sons of Sayyidna Ya` qub (علیہ السلام) saw the extreme suffering and patience of their father, they said: قَالُوا تَاللَّـهِ تَفْتَأُ تَذْكُرُ‌ يُوسُفَ (By God, you will not stop remembering Yusuf ...), meaning thereby that every shock ends, after all, and so does every sorrow. The passage of days in life makes one forget them. But, he continues to be where he was, even after the passage of such a long time with his sorrow being as fresh as when it came.
 
+## AI Translation
+
+They said, “By Allah! You will not cease to remember Joseph until you lose your health or even your life.”
+
+## AI Tafsir
+
+**What this ayah teaches:** You will never cease remembering Yusuf until you become weak with old age, or until you be of the dead.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

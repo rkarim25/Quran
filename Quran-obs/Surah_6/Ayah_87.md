@@ -236,6 +236,17 @@ The second difficulty posed here relates to Sayyidna Lut (علیہ السلام)
 
 By mentioning the blessings of Allah on Sayyidna Ibrahim (علیہ السلام) in these verses, two things have been made very clear. Firstly, there is the law for anyone who sacrifices whatever he holds dear in the way of Allah, on him or her Allah bestows right here in this mortal world what is better than what he or she has surrendered in the way of Allah. Secondly, the purpose is to make the disbelievers of Makkah hear this background of things in their situation so that they may be guided right. This amounts to telling them: You do not listen to what Our prophet, Muhammad al-Mustafa is telling you. If that is so, consider these you too revere as great. So, Ibrahim and his whole progeny have all been saying the same thing - that Allah is the only object worthy of worship. Associating anyone else with Him in ` Ibadah, or suggesting that someone else is a sharer in His exclusive attributes is what disbelief and straying is. This proves that they are, even in terms of what they themselves accept as established truth, subject to censure.
 
+## AI Translation
+
+And some of their forefathers, their descendants, and their brothers. We chose them and guided them to the Sirat al-Mustaqim—the Sirat al-Mustaqim—the way of living that pleases Allah that pleases Allah.
+
+## AI Tafsir
+
+**Context:** (And indeed it has been revealed to you, as it was to those (Allah's Messengers) before you: "If you join others in worship with Allah, surely your deeds will be in vain.")[39:65]
+
+**What this ayah teaches:** Thus do We reward the good-doers (84)And Zakariyya, and Yahya and 'Isa and Iliyas, each one of them was of the righteous (85)And Isma'il and Al-Yasa', and Yunus and Lut, and each one of them We preferred above the 'Alamin (mankind and Jinns, of their times)(86)And also some of their fathers and their progeny and their brethren, We chose them, and We guided them to a straight pa…
+
+**Classical tafsir:** Ibn Kathir notes: Certainly, one becomes jubilant and joyous when he becomes a grandfather, because this means that his offspring will continue to exist.
 ## Personal Reflections
 
 

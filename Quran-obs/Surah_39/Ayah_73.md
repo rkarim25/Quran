@@ -246,6 +246,17 @@ In the Two Sahihs, it was reported in the story of the Mi'raj which was narrated
 
 In verse 69, it was said: وَجِيءَ بِالنَّبِيِّينَ وَالشُّهَدَاءِ (and the prophets and the witnesses will be brought,) It means that, at the time of reckoning on the plains of Resurrection, present there will be all prophets as well as all other witnesses. The prophets themselves will also be among the witnesses as said in the Qur'an: جِئْنَا مِن كُلِّ أُمَّةٍ بِشَهِيدٍ (We shall bring a witness from every community - An-Nisa', 4:41). And angels too will be among the witnesses, as in the Qur'an: مَّعَهَا سَائِقٌ وَشَهِيدٌ (with each someone [ meaning an angel ] to drive and someone [ meaning an angel ] to bear witness - Qaf, 50:21) where the identity of the driver and the witness has been clearly established as being the angels (Tafsir Ad-Durr-ul-Manthur). And among the witnesses, there will be the followers of the prophet of Islam as in the Qur'an: لِّتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ (and [ so that ] you become witnesses to [ other ] people - Al-Hajj, 22:78). And, for that matter, even one's own body limbs will appear as witnesses as said in the Qur'an تُكَلِّمُنَا أَيْدِيهِمْ وَتَشْهَدُ أَرْ‌جُلُهُم (their hands will speak to Us and their feet will bear witness - Sin, 36:65).
 
+## AI Translation
+
+And those who lived with taqwa will be led to Paradise in successive groups. When they arrive at its already open gates, its keepers will say, "Peace be upon you! You have done well, so come in, to stay forever."
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, our Lord is indeed Oft-Forgiving, Most Ready to appreciate (good deeds).
+
+**Classical tafsir:** Ibn Kathir notes: Each of them will have two wives, the marrow of whose shin bones will be visible from beneath the skin because of their beauty.
+
+**From the Sunnah:** Paradise on the Day of Resurrection and will ask for it to be opened. (Sahih Muslim) Paradise will enter looking like the moon on the night when it is full. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

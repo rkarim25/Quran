@@ -166,6 +166,19 @@ Several verses of the Qur'an bear out that the deeds are not measured with Allah
 
 The noble Sahabah are the front line of Muslims. Their practice of prayers and good deeds may not appear to be very prominent numerically. But, despite all this, the reason why the single insignificant most of their deeds was superior to the highest of the high deeds of the rest of the Ummah was no other but their very perfection of 'iman (faith) and perfection of ikhlas (sincerity).
 
+## AI Translation
+
+We sent down the Book to you in truth, so worship Allah alone, being sincerely devoted to Him.
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I (Allah), so worship Me.")(21:25)
+
+**What this ayah teaches:** The second statement is to emphasize the first statement in that sincerity in worship is the exclusive right of Allah and no one else, other than Him deserves it.
+
+**Classical tafsir:** Ibn Kathir notes: The revelation of this Book is from Allah, the Almighty, the All-Wise.)(2.
+
+**From the Sunnah:** that 'A'ishah, may Allah be pleased with her, said, "The Messenger of Allah ﷺ used to fast until we would say, 'He does not want to break fast,' and he would not fast until we would say, 'He does not want to fast.' And he ﷺ used to recite Bani Isra'il [Al-Isra… (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

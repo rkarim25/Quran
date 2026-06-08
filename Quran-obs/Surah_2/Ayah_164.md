@@ -295,6 +295,15 @@ But, nature did not allow this to happen. For the inhabitants of the earth, huma
 
 To sum up, it can be said that Allah's Oneness has been proved in these verses with the citation of some manifestations of His perfect power. Commentators of the Qur'an have taken up this subject in great details. Those interested may see al-Jassas, al-Qurtubi and others.
 
+## AI Translation
+
+In the creation of the heavens and earth, the alternation of night and day, ships that sail the sea with what benefits people, rain Allah sends from the sky reviving the earth after its death, the scattering of every kind of creature, the shifting of winds, and clouds between heaven and earth — in all this are signs for people who use reason.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, in the creation of the heavens and the earth, and in the alternation of night and day, and the ships which sail through the sea with that which is of use to mankind, and the water (rain) which Allah sends down from the sky and makes the earth alive therewith after its death, and the moving (living) creatures of all kinds that He has scattered therein, and in the veering of winds and clouds…
+
+**Classical tafsir:** Ibn Kathir notes: Now in Verse 164, there is a series of signs and proofs in support of the premise that Allah Almighty is really One.
 ## Personal Reflections
 
 

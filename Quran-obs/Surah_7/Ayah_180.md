@@ -179,6 +179,17 @@ This sinful practice has become quite common among Muslims for no gain. They hav
 
 Many evils are committed for certain worldly gains or benefits. Any one committing such evil deed may pretend to offer an excuse that being constrained by some necessity he had committed the sin, while a great number of evil deeds are simply of no avail, and produce no worldly benefit at all. It is a sad situation that people are seen committing such evil deeds just for being careless of the commandments of Allah and being indifferent to what is prohibited or permitted by Allah. May Allah save us from such ignorance.
 
+## AI Translation
+
+Allah has the Most Beautiful Names. So call upon Him by them, and keep away from those who abuse His Names. They will be punished for what they used to do.
+
+## AI Tafsir
+
+**What this ayah teaches:** The second way of deviating from these names of Allah is to abandon certain name or names only because one thinks them to be inappropriate in certain situations.
+
+**Classical tafsir:** Ibn Kathir notes: The word Ilhad [used in the Ayah in another from] means deviation, wickedness, injustice and straying.
+
+**From the Sunnah:** Allah is Witr (One) and loves Al-Witr (the odd numbered things),) The Two Sahihs collected this Hadith. the Messenger of Allah ﷺ said; (Musnad Ahmad)
 ## Personal Reflections
 
 

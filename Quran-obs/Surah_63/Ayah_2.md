@@ -206,6 +206,19 @@ Taking care of General Welfare of Muslims: Protecting them from misunderstanding
 
 Another point illustrated by this incident is that an act which is permissible in itself should be avoided if it may create a misunderstanding in the mind of a Muslim, or may provide an opportunity for the enemies to spread misunderstanding among them. Thus, despite the fact that Ibn Ubayy’ s hypocrisy was exposed openly, the Messenger of Allah ﷺ did not permit Sayyidna ‘Umer ﷺ to behead him when he sought his permission, because the enemies could create misunderstanding in the public minds that Muhammad ﷺ killed his own Comrades. But it should be noted that, as other traditions prove, such acts may be abandoned only when they are not from the basis objectives of Shariah, they cannot be abandoned for such an apprehension. Instead, attempts must be made to remove the danger and do the work dictated by the objectives of Shari’ ah.
 
+## AI Translation
+
+They use their oaths as a shield, blocking the path of Allah. How evil is what they do.
+
+## AI Tafsir
+
+**Context:** The incident, in which this Surah was revealed, took place in the campaign against Banul-Mustaliq which happened, according to Muhammad Ibn Ishaq in Sha’ ban 6AH and according to Qatadah and ‘Urwah, in Sha’ ban 5AH.
+
+**What this ayah teaches:** In other words, the standard for Muslims to help others or to receive help from others is good will, justice, fair play and equity.
+
+**Classical tafsir:** Ibn Kathir notes: When the hypocrites come to you, they say: "We bear witness that you are indeed the Messenger of Allah." Allah knows that you are indeed His Messenger, and Allah bears witness that the hypocrites are liars indeed.)(2.
+
+**From the Sunnah:** Allah the Exalted states that the hypocrites pretended to be Muslims when they went to the Prophet ﷺ.
 ## Personal Reflections
 
 

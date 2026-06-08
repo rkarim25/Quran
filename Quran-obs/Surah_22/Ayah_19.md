@@ -155,6 +155,19 @@ Commentary
 
 هَـٰذَانِ خَصْمَانِ اخْتَصَمُوا (These are two opponents who have disputed about their Lord - 22:19). This verse, with its general words, deals with two sets of people, namely the Muslims and the infidels whether they belong to the earliest times or to later ages. However, the particular event in the background of which it was revealed about two groups of men who faced each other in combat on the battleground of Badr. Sayyidna Hamzah and ` Ubaidah ؓ stepped out of the Muslim ranks, whereas ` Utbah bin Rabi'ah, his son Walid and his brother Shaibah came out to challenge them. In the ensuing fight the three unbelievers were slain, Sayyidna and Hamzah ؓ emerged unscathed, while Sayyidna ` Ubaidah ؓ was mortally wounded and expired at the feet of the Holy Prophet ﷺ . The revelation of this verse in relation to these warriors of the field of Badr is well established on the authority of traditions contained in Bukhari and Muslim, but it is evident that its message is not exclusive for them alone, but embraces the entire Muslim community of all times and ages.
 
+## AI Translation
+
+These are two opposing groups that disagree about their Rabb — the One who creates, owns, nurtures, and sustains: as for those who reject the truth, garments of Fire will be cut out for them and boiling water will be poured over their heads,
+
+## AI Tafsir
+
+**Context:** (These two opponents dispute with each other about their Lord;) was revealed concerning Hamzah and his two companions, and 'Utbah and his two companions, on the day of Badr when they came forward to engage in single comb…
+
+**What this ayah teaches:** With it will melt (or vanish away) what is within their bellies, as well as (their) skins.) meaning, when the boiling water – which is water that has been heated to the ultimate degree – is poured down over their heads.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** This is the wording of Al-Bukhari in his Tafsir of this Ayah.
 ## Personal Reflections
 
 

@@ -132,6 +132,17 @@ The Lesson given by these verses
 
 Described in these verses is the greatness, virtues, blissfulness and fruitfulness of the belief in the Oneness of Allah and in the Kalimah Taiyyibah: لا إله إلا اللہ (la ilaha illallah). Also identified there are the ill effect and evil outcome of refusing to believe in them. It goes without saying that Tauhid, the belief in the Oneness of Allah, is an everlasting treasure which is full of barakah in many ways. In the present world of our experience, it brings Divine support with it, and which continues after that too, in the 'Akhirah and the grave. And the act of rejecting them amounts to changing what was the blessing and favour of Allah into what is punishment.
 
+## AI Translation
+
+Have you not seen those who meet Allah's favours with ingratitude and lead their people to ruin?
+
+## AI Tafsir
+
+**What this ayah teaches:** Have you not seen those who have changed the blessings of Allah into disbelief (by denying Prophet Muhammad ﷺ and his Message of Islam), and caused their people to dwell in the house of destruction (28)Hell, in which they will burn, - and what an evil place to settle in (29)And they set up rivals to Allah, to mislead (men) from His path!
+
+**Classical tafsir:** Ibn Kathir notes: And then unto Us will be their return, then We shall make them taste the severest torment because they used to disbelieve.)[10:70]
+
+**From the Sunnah:** Ibn Al-Kawwa' asked 'Ali about Allah's statement,
 ## Personal Reflections
 
 

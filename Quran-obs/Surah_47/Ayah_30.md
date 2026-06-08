@@ -99,6 +99,15 @@ There is absolutely no doubt that Allah's knowledge precedes the occurrence of a
 
 Sayyidna ` Uthman Ibn ` Affan ؓ says that anyone who conceals a secret in his heart, Allah displays it on his face, and brings it out by the slip of his tongue. In other words, in the course of conversation, some such words slip out which express their inner secrets. Likewise there is a Hadith which reports that any person harboring a secret thought in his heart, Allah puts a cover on it; if it is good, it becomes manifest. Some narrations of ahadith described that the Holy Prophet ﷺ was imparted the knowledge of a group of the hypocrites by name. For example, it is recorded in Musnad of Imam Ahmad on the authority ‘Uqbah ibn ‘Amr ؓ that the Holy Prophet ﷺ in one of his sermons called out the names of particular hypocrites and asked them to leave the congregation. Thirty - six names were counted altogether. (Ibn Kathir).
 
+## AI Translation
+
+Had We willed, We could have shown them clearly to you, and you would have known them by their marks. But you will know them by the tone of their speech. Allah knows what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** Or do those in whose hearts is a disease, think that Allah will not expose their ill–wills (29)Had We so willed, We could have shown them clearly to you, so that you would know them by their marks; but you will know them by the tone of their speech!
+
+**Classical tafsir:** Ibn Kathir notes: In this Ayah, "until We know" means 'until We know of its occurrence.' This is why Ibn 'Abbas said in regard to this and similar texts, "Except so that We may know, means, so that We may see."
 ## Personal Reflections
 
 

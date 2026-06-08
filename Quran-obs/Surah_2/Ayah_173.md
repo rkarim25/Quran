@@ -401,6 +401,19 @@ The conclusion
 
 The details given above help us find out what we should do about modern medicines that originate mostly from Europe and America, especially those in which the use of alcohol as base or solvent, or the introduction of other impure ingredients, is known and certain. As for medicines in which the presence of unlawful and impure ingredients cannot be ascertained with any degree of certainty, their use would have a little more technical leeway, however, there is nothing like precaution, especially when the need is not that pressing. Allah Almighty knows best.
 
+## AI Translation
+
+He has forbidden you only carrion, blood, swine flesh, and what is slaughtered invoking any name other than Allah's. But whoever is compelled by necessity — not seeking excess or transgression — incurs no sin. Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**Context:** The wordإِنَّمَا حَرَّ‌مَ (innama harrama) is a restrictive particle, therefore, the sense of the verse is that Allah Almighty has forbidden only those things which have been mentioned later, other than which, nothing el…
+
+**What this ayah teaches:** If rennet is taken out of the stomach of an animal slaughtered in the name of Allah, there is no harm in using it.
+
+**Classical tafsir:** Ibn Kathir notes: Truly, Allah is Oft-Forgiving, ar-Rahim.) "For what is eaten out of necessity." Sa'id bin Jubayr said, "Allah is pardoning for what has been eaten of the unlawful, and Merciful' in that He allowed the prohibited during times of necessity." Masruq said, "Whoever is in dire need, but does not eat… Issue: According to Ash-Shafi'i and other scholars, milk and eggs that are inside dead unslaughtered…
+
+**From the Sunnah:** Eating from pure sources is a cause for the acceptance…
 ## Personal Reflections
 
 

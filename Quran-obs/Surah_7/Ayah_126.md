@@ -161,6 +161,17 @@ It was A Miracle
 
 The instant perfect change of mind of the sorcerers was, in no way, a lesser miracle than the other miracles of the prophet Musa (علیہ السلام) . Those who led a life of infidelity and ignorance for their whole life were instantly changed into the most cognizant, knowledgeable and true Muslims, as faithful as to readily sacrifice their life for their faith. It is a pity that the Muslims and the Muslim states are trying all other ways and means to make themselves powerful and strong, but have become neglectful of the real source of power and strength. That is faith, perseverance and patience.
 
+## AI Translation
+
+Your rage towards us is only because we believed in the signs of our Rabb when they came to us. Our Rabb! Shower us with perseverance, and let us die while submitting.”
+
+## AI Tafsir
+
+**What this ayah teaches:** It is because perseverance and patience are the only keys to success over one's enemy. The report of the commission formed for investigating the causes and effects of the World War has remarked that the Muslims who observe faith in Allah and in the Hereafter are the most valiant and brave people in the battle field, and the most patient in the times of difficulty because they have faith in Allah a…
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said that Fir'awn was the first to crucify and cut off hands and legs on opposite sides.
+
+**From the Sunnah:** pour out on us patience, and cause us to die as Muslims. Fir'awn then sent emissaries to various cities of his kingdom and collected magicians who were scattered throughout Egypt.
 ## Personal Reflections
 
 

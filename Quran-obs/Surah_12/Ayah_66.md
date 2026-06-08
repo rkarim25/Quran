@@ -201,6 +201,15 @@ Therefore, when the Holy Prophet ﷺ asked the noble Companions ؓ to give him a
 
 The view of Imam Malik (رح) differs in this respect. According to him, it is only financial guarantee that is allowed in Shari` ah. He does not hold the personal bail (Kafalah bin-nafs) as permissible. ,
 
+## AI Translation
+
+Jacob insisted, “I will not send him with you until you give me a solemn oath by Allah that you will certainly bring him back to me, unless you are totally overpowered.” Then after they had given him their oaths, he concluded, “Allah is a Witness to what we have said.”
+
+## AI Tafsir
+
+**What this ayah teaches:** This would amount to telling him that his behavior demanded that the plea made by him should be rejected, but then, he should be given the feeling that he is being given a fresh chance by forgoing what has gone before - so that his sense of shame returns to him later and he becomes totally repentant.
+
+**Classical tafsir:** Ibn Kathir notes: This would amount to telling him that his behavior demanded that the plea made by him should be rejected, but then, he should be given the feeling that he is being given a fresh chance by forgoing what has gone before - so that his sense of shame returns to him later and he becom…
 ## Personal Reflections
 
 

@@ -376,6 +376,17 @@ Verse 142, thus, fully refutes the antagonists of Islam, and points out that All
 
 According to a With reported from Sayyidah ` A'isha ؓ in the "Musnad" of Imam Ahmad, the People of the Book are specially jealous of the Muslims for three things - (1) in answer to the divine commandment to every Ummah (or religious community) to set aside a day in the week for worship, the Jews chose Saturday and the Christians, Sunday, while the Muslims opted for Friday which happened to be the favourite of Allah; (2) the Ka'bah was appointed as the Qiblah for the Muslims, and not for others; (3) the Muslims were given the privilege of saying Amin while offering Salah behind an 'Imam.
 
+## AI Translation
+
+The foolish among people will ask, "What turned them from the prayer direction they used to face?" Say, "The east and west belong to Allah. He guides whomever He wills to the Straight Path."
+
+## AI Tafsir
+
+**Context:** It is reported in the Sahihayn (Al-Bukhari Muslim) that Ibn 'Umar narrated: While the people were in Quba' (Mosque) performing the Fajr (Dawn) prayer, a man came and said, "A (part of the) Qur'an was revealed tonight to…
+
+**What this ayah teaches:** Also, 'Asr, the prayer that is described as 'Wusta' (a variation of the word Wasat), means the best prayer, as the authentic collections of Ahadith reported.
+
+**Classical tafsir:** Ibn Kathir notes: Ali bin Abu Talhah related that Ibn 'Abbas said: When Allah's Messenger ﷺ migrated to Al-Madinah, Allah commanded him to face Bayt Al-Maqdis (Jerusalem).
 ## Personal Reflections
 
 

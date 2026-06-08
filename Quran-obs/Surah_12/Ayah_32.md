@@ -196,6 +196,17 @@ Then, in verse 32, it was said:
 
 When Zulaikha realized that her secret lay disclosed before those women anyway, she started threatening Sayyidna Yusuf (علیہ السلام) right before them. At that time, according to some commentators, all these women too started telling Sayyidna Yusuf علیہ السلام that Zulaikha was their benefactor, therefore, he should not oppose her.
 
+## AI Translation
+
+She said, “This is the one for whose love you criticized me! I did try to seduce him but he firmly refused. And if he does not do what I order him to, he will certainly be imprisoned and fully disgraced.”
+
+## AI Tafsir
+
+**What this ayah teaches:** And now if he refuses to obey my order, he shall certainly be cast into prison, and will be one of those who are disgraced. She ordered him to keep coming and going, so that they saw him from all sides, and he went back in while they were still cutting their hands.
+
+**Classical tafsir:** Ibn Kathir notes: This indicates the best and most perfect grade in this case, for Yusuf was youthful, beautiful and full of manhood.
+
+**From the Sunnah:** An authentic Hadith stated that the Messenger of Allah passed ﷺ by Prophet Yusuf, during the Night of Isra' in the third heaven and commented, (authentic hadith)
 ## Personal Reflections
 
 

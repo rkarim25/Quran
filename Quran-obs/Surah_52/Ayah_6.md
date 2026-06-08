@@ -150,6 +150,19 @@ Allah said;
 
 A Jewish person asked Sayyidna ` Ali ؓ 'where is the Hell?'. He replied 'the sea'. The Jew, who was the scholar of the previous scriptures, confirmed this. (Qurtubi) Sayyidna Qatadah ؓ and others interpreted the phrase to mean 'filled sea'. Ibn Jarir (رح) preferred this interpretation (Ibn Kathir). ' This is the interpretation adopted by Maulana Ashraf Thanawi (رح)
 
+## AI Translation
+
+and by the sea set ablaze—
+
+## AI Tafsir
+
+**Context:** (And by the Book inscribed), it is said that it means Al-Lawh Al-Mahfuz, (the Preserved Table). It is also said that is refers to the divinely revealed inscribed Books that people recite, and this is why Allah said,
+
+**What this ayah teaches:** In other words, it will be kindled with fire and become a raging fire surrounding the people in the plain of hashr.
+
+**Classical tafsir:** Ibn Kathir notes: In other words, it will be kindled with fire and become a raging fire surrounding the people in the plain of hashr.
+
+**From the Sunnah:** And by Al-Bayt Al-Ma'mur.) In the Two Sahihs it is confirmed that the Messenger of Allah ﷺ said in the Hadith about Al-Isra', after ascending to the seventh heaven:
 ## Personal Reflections
 
 

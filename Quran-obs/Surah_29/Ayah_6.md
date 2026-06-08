@@ -92,6 +92,15 @@ Allah's saying;
 
 Hakim-ul-Ummah Thanawi (رح) has copied the argument of his Shaikh, Maulana Muhammad Ya` qub (رح) that sometimes people are addressed by descending down to their level of intellect. The common man makes distinction between the sincere and the hypocrites by testing him out. Therefore, according to their approach of understanding Allah Ta’ ala has said that, through various means, We would find out who is sincere and who is not, even though He knows everything from the very beginning.
 
+## AI Translation
+
+Whoever strives — in jihad, struggle in Allah's cause by context — does so for their own soul's good. Allah has no need of creation.
+
+## AI Tafsir
+
+**What this ayah teaches:** Whoever hopes in meeting with Allah, then Allah's term is surely coming, and He is the All-Hearer, the All-Knower (5)And whosoever strives, he strives only for himself.
+
+**Classical tafsir:** Ibn Kathir notes: It means that through tests and hardships the good and the bad, and the sincere and non-sincere will be differentiated, because if the hypocrites are mixed up with the sincere believers and are not identified, it may create a number of problems.
 ## Personal Reflections
 
 

@@ -612,6 +612,17 @@ The warning against violation of rules
 
 The verse 196 ends up with the words 'Fear Allah' which is a command to adopt Taqwa تقویٰ - a Qur'anic term which has no equivalent in the English language, and denotes the attitude of fearing and abstaining from doing anything against rules set by Allah Almighty. This command has been followed by a warning: وَاعْلَمُوا أَنَّ اللَّـهَ شَدِيدُ الْعِقَابِ (and be aware that Allah is severe at punishment) which means that anyone who knowingly acts against the injunctions revealed by Allah Almighty, for him the punishment of Allah is severe. The people who go in our days for Hajj or ` Umrah are widely negligent of this warning. To begin with, they do not make the necessary effort to find out the rules of Hajj and 'Umrah. Then a good many do not follow the rules strictly, even if they have the knowledge. Bad guides or careless fellow pilgrims sometimes make one miss the obligatory acts, let alone the sunnah and the proper etiquette of the pilgrimage. May Allah bless all of us with the ability to correct what we do.
 
+## AI Translation
+
+Complete Hajj and Umrah for Allah. If prevented, offer whatever sacrifice you can afford. Do not shave your heads until the sacrifice reaches its place. Whoever is ill or has a scalp ailment may compensate by fasting, charity, or sacrifice. In peace, combine Hajj and Umrah and offer what you can afford. Whoever cannot afford it should fast three days during pilgrimage and seven after returning — ten in all. This is for those who do not live near the Sacred House. Live with taqwa, and know that Allah is severe in punishment.
+
+## AI Tafsir
+
+**Context:** (But if you are prevented, sacrifice a Hady (animals for sacriface) such as you can afford,) was revealed in the sixth year of Hijrah, the year of the treaty of Al-Hudaybiyyah when the polytheists prevented Allah's Messe…
+
+**What this ayah teaches:** But if you are prevented, then sacrifice a Hady that you can afford, and do not shave your heads until the Hady reaches the place of sacrifice. Literally, the word Tamattu' covers both methods since it means to have the benefit of combining Hajj and ` Umrah both' which is equally applicable to both the methods detailed above.
+
+**Classical tafsir:** Ibn Kathir notes: Literally, the word Tamattu' covers both methods since it means to have the benefit of combining Hajj and ` Umrah both' which is equally applicable to both the methods detailed above.
 ## Personal Reflections
 
 

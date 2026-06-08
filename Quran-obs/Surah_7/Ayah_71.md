@@ -186,6 +186,17 @@ Imam Ahmad recorded that Al-Harith Al-Bakri said: "I went to the Messenger of Al
 
 (4)-The sixth verse (70) contains the answer given by Sayyidna Hud (علیہ السلام) . He told them that, in view of their contumacy and lack of good sense, the wrath and punishment of Allah would have not remained far and may come sooner than they expect. So, this was a matter of waiting. Let them wait for it, so shall he do. It would be noticed that the provoking reply given by his people prompted Sayyidna Hud (علیہ السلام) to give a suitable answer which included the news that the punishment they were looking for was to come soon. But, he was a prophet. His paternal affection and the desire to do good to them forced him to say during the course of his reply that he regretted that his people had taken things without sense and life as objects of worship without having any proof from reason or revelation to support their position. Now they had become so staunch in their devotion to the false that they had started quarreling with him, a prophet of Allah.
 
+## AI Translation
+
+He said, “You will certainly be subjected to your Rabb’s torment and wrath. Do you dispute with me regarding the so-called gods which you and your forefathers have made up—a practice Allah has never authorized? Then wait! I too am waiting with you.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Hud said, do you dispute with me over these idols that you and your fathers made gods, even though they do not bring harm or benefit; did Allah give you authority or proof allowing you to worship them? They were subjected to it for seven nights and eight days in succession, so that you could see men lying overthrown (destroyed), as if they were hollow trunks of date palms!
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said that, 'Rijs', means scorn and anger.
+
+**From the Sunnah:** I also found a black flag raised high, while Bilal was holding a sword before the Messenger of Allah ﷺ. (Musnad Ahmad, Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

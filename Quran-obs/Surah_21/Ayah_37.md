@@ -104,6 +104,15 @@ Here خُلِقَ الْإِنسَانُ مِنْ عَجَلٍ (Man is made of h
 
 These miracles also occurred during the battle of Badr (غزوہ بدر) when the Muslims who were considered weak and worthy of contempt gained a great victory over their enemies.
 
+## AI Translation
+
+Humankind is made of haste. I will soon show you My signs, so do not ask Me to hasten them.
+
+## AI Tafsir
+
+**What this ayah teaches:** Man is prone to haste - 17:11, meaning that he is very impatient.
+
+**Classical tafsir:** Ibn Kathir notes: The word is used in situations when one desires things to happen before their time, and this trait is bad by its very nature.
 ## Personal Reflections
 
 

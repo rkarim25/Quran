@@ -284,6 +284,15 @@ The standard rule of conduct we learn from here is that a person whom Allah Ta` 
 
 In short, these two elders advised their people that they should not feel nervous about the apparent power of the Amalkites. If they would place their trust in Allah, just walk upto the gate of Baytul-Maqdis, victory shall be theirs. As for the decisive statement of these elders that once they reach the city gate, they will overcome and the enemy will run away defeated, it could have been based on a close assessment of the Amalkites, that they were, no doubt, unusually huge in built and strength, but were also weak at heart as a result of which, once they hear about the surprise attack, they would be unable to stay there.-And it is also possible that their total faith in the Divine decree which they had heard from Sayyidna Musa (علیہ السلام) as a glad tiding was the basis on which they said so.
 
+## AI Translation
+
+Two Allah-fearing men—who had been blessed by Allah—said, “Surprise them through the gate. If you do, you will certainly prevail. Put your trust in Allah if you are those who have iman.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Musa Reminds His People of Allah's Favors on Them; The Jews Refuse to Enter the Holy Land Allah states that His servant, Messenger, to whom He spoke directly, Musa, the son of 'Imran, reminded his people that among the favors Allah granted them, is that He will give them all of the good of this life and the Hereafter, if they remain on the righteous and straight path.
+
+**Classical tafsir:** Ibn Kathir notes: It was also said that the Ayah reads in a way that means that these men were respected and honored by their people.
 ## Personal Reflections
 
 

@@ -128,6 +128,15 @@ After describing how they will eat Zaqqum (a bitter tree of Hell) and drink Hami
 
 In verse 64, it was said: وَصَوَّرَ‌كُمْ فَأَحْسَنَ صُوَرَ‌كُمْ (and shaped you, and made your shapes so good -). Allah Ta’ ala has blessed the human person with the most distinct, superior and better-balanced form and shape out of all animals. He was given reason. He was given such hands and feet that he could get together materials to make things for his needs and comfort. Then, his eating and drinking is different, rather far distinct from common animals. They eat or graze or drink directly with their mouth. He uses hands. Common animals eat singles. Some eat meat, others eat grass or leaves, that too in singles. Contrary to that, man eats by combining different things like meat, vegetables, spices, herbs and fruits. He eats by making his food taste good. His culinary creativity knows no bounds when he would take a single fruit from nature, and turn it into all sorts of delicious eatables like pies, fruit cakes, jams, preserves and chutneys. فَتَبَارَ‌كَ اللَّـهُ رَ‌بُّ الْعَالَمِينَ (Blessed is Allah, the Best Creator).
 
+## AI Translation
+
+They are the ones who reject this Book and all scriptures We sent Our messengers with. So they will know the consequences
+
+## AI Tafsir
+
+**What this ayah teaches:** See you not those who dispute about the Ayat of Allah How are they turning away (69)Those who deny the Book, and that with which We sent Our Messengers they will come to know (70)When iron collars will be rounded over their necks, and the chains, they shall be dragged along (71)In the boiling water, then they will be burned in the Fire (72)Then it will be said to them: "Where are (all) those whom…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

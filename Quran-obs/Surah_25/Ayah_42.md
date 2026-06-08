@@ -137,6 +137,15 @@ It is stated about the people of Sayyidna Nuh (علیہ السلام) that they 
 
 أَصْحَابَ الرَّ‌سِّ (People of Rass - 25:38). In Arabic رَس (Rass) means unlined well. Neither Qur'an nor any authentic tradition describes these people in any detail. Whatever information is available about them is through Israelite traditions, which differ from one another. It is more likely that the remaining people of Thamud had settled down near a well. It is not mentioned in the Qur'an or any tradition as to how they were tormented. (Bayan u1-Qur'an)
 
+## AI Translation
+
+He would have almost tricked us away from our gods, had we not been so devoted to them.” But soon they will know, when they face the punishment, who is far astray from the Sirat al-Mustaqim.
+
+## AI Tafsir
+
+**What this ayah teaches:** Whatever information is available about them is through Israelite traditions, which differ from one another.
+
+**Classical tafsir:** Ibn Kathir notes: Neither Qur'an nor any authentic tradition describes these people in any detail.
 ## Personal Reflections
 
 

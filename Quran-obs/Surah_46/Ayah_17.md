@@ -217,6 +217,19 @@ In another report recorded by An-Nasa'i, Muhammad bin Ziyad reported that when M
 
 Marwan's saying, in one of his addresses, that this verse holds true for ` Abdur Rahman Ibn Abi Bakr ؓ has been contradicted by Sayyidah ` A'ishah ؓ ، as narrated in Sahih of Bukhari. The fact of the matter is that the verse is general in sense, and there is no correct narration which states this verse to hold true for a particular person.
 
+## AI Translation
+
+But some say to their parents, 'Enough of you! Are you warning me that I will be raised after death, when generations before me have already perished?' The parents call on Allah for help and say, 'Take pity—have iman! Allah's promise is true.' Yet the denier insists, 'This is nothing but old stories.'
+
+## AI Tafsir
+
+**Context:** (But he who says to his parents: "Uff to you! ...") As for the saying "Uff" in this Ayah, it is a general description applying to anyone who says it to his parents.
+
+**What this ayah teaches:** The previous verse has laid down the order to serve and obey the parents; this verse announces punishment for one who maltreats his parents and is impertinent to them, especially when they are calling him towards Islam and virtuous deeds, because rejecting their call is a double sin.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, they are ever the losers (18)And for all, there will be degrees according to that which they did, so that He might fully recompense for their deeds.
+
+**From the Sunnah:** from Yusuf bin Mahak that Marwan (bin Al-Hakam) was governor of Hijaz (Western Arabia), appointed by Mu'awiyah bin Abi Sufyan. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

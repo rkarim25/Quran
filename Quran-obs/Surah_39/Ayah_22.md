@@ -164,6 +164,19 @@ The verse under study has been initiated as headed by an interrogative particle:
 
 In this verse (22), it was said: فَوَيْلٌ لِّلْقَاسِيَةِ قُلُوبُهُم (woe to those whose hearts are too hard to remember Allah). The word: الْقَاسِيَةِ (al-qasiyah) is a derivation from: قَسَاوَت (qasawah) which means to be hard-hearted, having no mercy for anyone, and also the one who remains totally unaffected by the need to remember Allah and follow His injunctions.
 
+## AI Translation
+
+Can the misguided be like those whose hearts Allah has opened to Islam, so they are enlightened by their Lord? Woe to those whose hearts are hardened at the remembrance of Allah! It is they who are clearly astray.
+
+## AI Tafsir
+
+**Context:** In the first sentence of verse 22, it was said: أَفَمَن شَرَ‌حَ اللَّـهُ صَدْرَ‌هُ لِلْإِسْلَامِ فَهُوَ عَلَىٰ نُورٍ‌ مِّن رَّ‌بِّهِ (So I ask about a person whose heart Allah has opened up for Islam, and consequently he…
+
+**What this ayah teaches:** Verily, in this is a reminder for men of understanding (21)Is he whose breast Allah has opened to Islam, so that he is in light from his Lord?
+
+**Classical tafsir:** Ibn Kathir notes: Sa'id bin Jubayr said, its origins lie in the snow, meaning that snow piles up in the mountains, then settles at the bottom (of the mountains) and springs flow from the bottom of them.
+
+**From the Sunnah:** "Longing passionately for the eternal home, and seeking refuge from the deceptive abode, and preparing for death before its arrival." - Reported by al-Hakim in al-Mustadrak and al-Baihaqi in Shu` ab-u1-'iman (Ruh-ul-Ma’ ani). (al-Mustadrak)
 ## Personal Reflections
 
 

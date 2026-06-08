@@ -244,6 +244,17 @@ It is reported from the righteous elders that whoever carries out his commercial
 
 وَاذْكُرُ‌وا اللَّـهَ كَثِيرً‌ا لَّعَلَّكُمْ تُفْلِحُونَ (And remember Allah much, so that you may be successful – 62:10). It means that commercial activities are though allowed after the prayer, one should not neglect Allah’ s remembrance during these activities as the infidels do. Even during such activities one must remain mindful of Allah and His remembrance.
 
+## AI Translation
+
+Once the prayer is over, disperse through the land and seek Allah's bounty. Remember Allah often so you may succeed.
+
+## AI Tafsir
+
+**What this ayah teaches:** That is better for you if you did but know (9)Then when the Salah is complete, you may disperse through the land, and seek the bounty of Allah, and remember Allah much, that you may be successful .
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the scholars of Islam agree, it is prohibited for Muslims to engage in business transactions after the second Adhan.
+
+**From the Sunnah:** he heard Allah's Messenger ﷺ say, (Musnad Ahmad) This Hadith has various chains of narration, the compilers of the Four Sunan collected it, and At-Tirmidhi graded it Hasan. (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

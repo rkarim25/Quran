@@ -120,6 +120,15 @@ Allah's saying;
 
 أَلْقِيَا فِي جَهَنَّمَ كُلَّ كَفَّارٍ‌ عَنِيدٍ (Cast, both of you [ 0 angels,] into Jahannam every stubborn disbeliever.... 50:24]. The verb alqiya is grammatically dual in number, that is, addressed to two persons. It appears that Allah will say these words to the Sa'iq and Shahid angels; Allah will order them to throw him in the fire of Hell. Some other scholars explain it differently (Ibn Kathir).
 
+## AI Translation
+
+withholder of good, aggressor, and doubter,
+
+## AI Tafsir
+
+**What this ayah teaches:** I did not push him to transgression, but he was himself in error far astray.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

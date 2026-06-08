@@ -132,6 +132,17 @@ Surah Y a Sin
 
 Ends here
 
+## AI Translation
+
+All it takes, when He wills something to be, is simply to say to it: "Be!" And it is!
+
+## AI Tafsir
+
+**What this ayah teaches:** He is the All-Knowing Supreme Creator (81)Verily, His command, when He intends a thing, is only that He says to it, "Be!" – and it is (82)So glorified be He and exalted (above all that they associate with Him), and in Whose Hand is the dominion of all things, and to Him you shall be returned .
+
+**Classical tafsir:** Ibn Kathir notes: In other words, the verse means that when Allah Ta’ ala intends to create something, He has no need to follow the way things are made by human beings who have to collect raw materials, assemble technicians and work for a certain period of time until the thing is ready.
+
+**From the Sunnah:** the Messenger of Allah ﷺ said: (Musnad Ahmad)
 ## Personal Reflections
 
 

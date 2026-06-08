@@ -182,6 +182,15 @@ The phrase فَأَقْبَرَ‌هُ fa-aqbarah (and put him into the grave) d
 
 This verse also indicates that it is obligatory to bury a dead human body.
 
+## AI Translation
+
+then causes them to die and be buried,
+
+## AI Tafsir
+
+**What this ayah teaches:** How ungrateful he is (17)From what thing did He create him (18)From a Nutfah He created him and then set him in due proportion (19)Then He made the path easy for him (20)Then He causes him to die and puts him in his grave (21)Then when it is His will, He will resurrect him (22)Nay, but he has not done what He commanded him (23)Then let man look at his food (24)We pour forth wat…
+
+**Classical tafsir:** Ibn Kathir notes: This verse also indicates that it is obligatory to bury a dead human body.
 ## Personal Reflections
 
 

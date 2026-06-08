@@ -96,6 +96,15 @@ Allah Did Not Create His Servants in Vain
 
 وَلَا تُكَلِّمُونِ (Do not speak to Me - 23:108). According to Hasan al-Basri (رح) these will be the last words of the people who are cast in hell and in reply Allah will say, "Do not speak to Me." After this they will not be able to speak like human beings, but will make animal sounds to each other. Baihaqi and others have quoted Muhammad Ibn Ka` b as saying that the Qur'an mentions five requests made by the people condemned to hell. Out of the five, replies were furnished to four, but in reply to the fifth Allah commanded them not to speak to Him. Thus these are the last words to be uttered by them after which they will not be able to speak. (Mazhari)
 
+## AI Translation
+
+Did you then think that We had created you without purpose, and that you would never be returned to Us?”
+
+## AI Tafsir
+
+**What this ayah teaches:** If they had been patient during their short stay in this world, they would have attained victory just like His pious close friends. If you had patiently obeyed Allah and worshipped Him as the believers did, you would have attained victory just as they did.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

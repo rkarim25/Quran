@@ -435,6 +435,17 @@ The first part of verse 219 related to the question asked about wine and gamblin
 
 The second part of the verse appearing here relates to another question -- about how much should be spent in charity. The answer given is 'al-` afw' العفو which has been translated here as 'the surplus'. It means that one should not, by such spending, get into personal trouble in the material life of this world, or by wasting away somebody's due right, get into the pain of answerability in the life to come.
 
+## AI Translation
+
+They ask you about wine and gambling. Say, "In both is great sin and some benefit for people — but the sin outweighs the benefit." They also ask what they should spend. Say, "Whatever you can spare." Thus Allah makes His signs clear, so you may reflect
+
+## AI Tafsir
+
+**Context:** Ibn 'Umar, Ash-Sha'bi, Mujahid, Qatadah, Ar-Rabi' bin Anas and 'Abdur-Rahman bin Aslam stated that the first Ayah revealed about Khamr was: When Islam came, drinking was common practice as part of the general state of Ja…
+
+**What this ayah teaches:** To begin with, gambling is harmful because the addicted gambler comes to be deprived of the very habit of earning his livelihood, because he always keeps dreaming that he will simply sit and grab what belongs to the other person in no time through a bet, specially so as it involves no hard work.
+
+**Classical tafsir:** Ibn Kathir notes: Say: "That which is (spare) beyond your needs.") Al-Hakam said that Miqsam said that Ibn 'Abbas said that this Ayah means, whatever you can spare above the needs of your family.
 ## Personal Reflections
 
 

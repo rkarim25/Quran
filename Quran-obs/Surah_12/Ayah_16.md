@@ -64,6 +64,15 @@ Allah narrates to us the deceit that Yusuf's brothers resorted to, after they th
 
 As in verse 16: وَجَاءُوا أَبَاهُمْ عِشَاءً يَبْكُونَ They came weeping to their father at nightfall. Hearing the sound of their crying, Sayyidna Ya` qub (علیہ السلام) came out and asked: what has happened? Was the flock of your goats attacked by someone? And where is Yusuf?
 
+## AI Translation
+
+Then they returned to their father in the evening, weeping.
+
+## AI Tafsir
+
+**What this ayah teaches:** Yusuf's Brothers try to deceive Their Father Allah narrates to us the deceit that Yusuf's brothers resorted to, after they threw him to the bottom of the well. They went back to their father, during the darkness of the night, crying and showing sorrow and grief for losing Yusuf.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

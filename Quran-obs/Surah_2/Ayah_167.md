@@ -218,6 +218,15 @@ When the so-called 'people' of their leaders will see this turnabout of theirs, 
 
 But, what price are these dreams now? They are not going anywhere. They are stuck with 'their deeds which they see as remorse', and they all, the leaders and their followers, 'are not to come out from the Fire', since the punishment for shirk, the grave sin of associating partners with Allah, is to remain in the Fire for ever.
 
+## AI Translation
+
+The followers will say, "If only we had another chance, we would disown them as they disown us now." Thus Allah will show them their deeds as remorse — and they will never leave the Fire.
+
+## AI Tafsir
+
+**What this ayah teaches:** The severity of the punishment against which the polytheists have been warned will unfold itself when their leaders whom they followed will disown them as their votaries; and they both, the leaders and the led, will witness the punishment, and whatever bonds of leading and following may have existed between them would be snapped apart, very much like it happens in our mortal world when people shar…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

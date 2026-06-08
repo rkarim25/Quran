@@ -182,6 +182,15 @@ Horrors of the Day of Resurrection
 
 إِذَا وَقَعَتِ الْوَاقِعَةُ (When the Imminent Event (of Doom) will occur...56:1). Ibn Kathir says Al-waqi` ah is one of the names of the Day of Resurrection, because there is no room for doubt in its occurrence. It is real and will surely come to pass.
 
+## AI Translation
+
+When the Inevitable Event arrives—
+
+## AI Tafsir
+
+**What this ayah teaches:** They are the chiefs of those on the right side, because they include the Messengers, Prophets, true believers and martyrs. Another category is those who will be placed to the left of Allah's Throne, and they are those who were brought forth from 'Adam's left side.
+
+**Classical tafsir:** Ibn Kathir notes: They are the chiefs of those on the right side, because they include the Messengers, Prophets, true believers and martyrs.
 ## Personal Reflections
 
 

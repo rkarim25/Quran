@@ -108,6 +108,17 @@ Imam Ahmad recorded from Abu Musa that the Messenger of Allah ﷺ said,
 
 As to what is the Throne of the Rahman, what is its reality, its form and shape, how the angels carry it - are transcendental matters and are all beyond human intellect. Allah is beyond time, space and matter, and therefore we are not permitted to pursue these matters pertaining to Him to determine its exact meaning. The noble Companions, their pupils and the righteous elders took the attitude that they simply believed in all transcendental matters and never questioned about them. Whatever Allah means by them is the Truth. Their nature and reality are unknown.
 
+## AI Translation
+
+with the angels on its sides. On that Day eight mighty angels will bear the Throne of your Lord above them.
+
+## AI Tafsir
+
+**What this ayah teaches:** As to what is the Throne of the Rahman, what is its reality, its form and shape, how the angels carry it - are transcendental matters and are all beyond human intellect.
+
+**Classical tafsir:** Ibn Kathir notes: It is emphasized here that it is one blowing, because the command of Allah cannot be opposed or prevented, and it does not need to be repeated or stressed.
+
+**From the Sunnah:** Between the lobe of his ear to his shoulder is the distance of seven hundred years (of travelling).) This is the wording recorded in Abu Dawud. (Sunan Abi Dawud) Some of them will receive the records in their right hands and some will receive them in their left hands.) Ibn Majah and At-Tirmidhi both recorded this Hadith. (Jami' at-Tirmidhi, Sunan Ibn Majah)
 ## Personal Reflections
 
 

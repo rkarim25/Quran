@@ -98,6 +98,19 @@ Sayyidna Abu Hurairah رضی اللہ تعالیٰ عنہ reports that the Messe
 
 In the present set of verses, the greatness of Qur'an and some of its special features are described. وَالْكِتَابِ الْمُبِينِ "By the manifest Book". This verse refers to the Holy 'Qur'an'. In the verse Allah swears an oath by the magnificent Qur'an to state that it was revealed in a blessed and auspicious Night, the purpose of which is to awaken the unmindful human beings from their deep slumber. A similar oath was taken, in exactly the same words, at the commencement of Surah Az-Zukhruf (Chapter 43). The oath-phrase has been fully discussed there.
 
+## AI Translation
+
+These opening letters—known as the muqatta'at—are among the signs whose full meaning Allah kept with Himself. They open the surah by reminding the reader that this Book is from beyond human authorship: approach it with humility, not arrogance.
+
+## AI Tafsir
+
+**Context:** In the present set of verses, the greatness of Qur'an and some of its special features are described. وَالْكِتَابِ الْمُبِينِ "By the manifest Book". This verse refers to the Holy 'Qur'an'.
+
+**What this ayah teaches:** By the manifest Book that makes things clear.)(3.
+
+**Classical tafsir:** Ibn Kathir notes: This verse refers to the Holy 'Qur'an'.
+
+**From the Sunnah:** In Musnad Al-Bazzar, it is recorded from Abu At-Tufayl 'Amir bin Wathilah from Zayd bin Harithah that the Messenger of Allah ﷺ said to Ibn Sayyad: that whoever recites Surah Dukhan on Friday night, his sins will have been forgiven by the morning
 ## Personal Reflections
 
 

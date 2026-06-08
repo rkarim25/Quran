@@ -136,6 +136,15 @@ Ruling:
 
 Making the shape of a bird was the making of a picture, something permitted in that Shari` ah. In our Shari'ah, its permissibility was abrogated.
 
+## AI Translation
+
+Surely Allah is my Rabb and your Rabb. So worship Him. This is the Sirat al-Mustaqim—the Sirat al-Mustaqim—the way of living that pleases Allah that pleases Allah.’”
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, therein is a sign for you, if you believe.
+
+**Classical tafsir:** Ibn Kathir notes: This is because the Qur'an is the Word of Allah and is nothing like that of the creatures.
 ## Personal Reflections
 
 

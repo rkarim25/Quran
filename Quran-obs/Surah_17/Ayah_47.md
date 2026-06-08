@@ -144,6 +144,15 @@ Ya Seen. By the wise Qur'an, surely you [ 0 Muhammad ] are from among the messen
 
 Imam al-Qurtubi (رح) says that he himself went through an incident in the Manthur Castle of al-Qartubah in his own country of al-Andalus (Spain). I ran in front of the enemy and sat in a corner. The enemy sent two horsemen after me. I was on open grounds. There was nothing to obstruct the view between us. But, I was reciting these verses of Surah Ya Sin. Both these horsemen passed by me. Then they went back towards where they had come from, saying, 'this person must be some devil,' because they could not see me. Allah Ta’ ala had turned them blind as far as I was concerned. (Qurtubi)
 
+## AI Translation
+
+We know best how they listen to your recitation and what they say privately—when the wrongdoers say, “You would only be following a bewitched man.”
+
+## AI Tafsir
+
+**Context:** The subject taken up in the first two verses (45, 46) has a particular event as a background. According to al-Qurtubi reporting on the authority of Sayyidna Said ibn Jubayr ؓ ، when Surah al-Masad/al-Lahab (iii) beginnin…
+
+**What this ayah teaches:** In the morning, Al-Akhnas bin Shurayq took his stick and went to the house of Abu Sufyan bin Harb, where he said, 'Tell me, O Abu Hanzalah [i.e., Abu Sufyan], what do you think of what you have heard from Muhammad?' Abu Sufyan said, 'O Abu Tha'labah [i.e., Al-Akhnas], by Allah, I have heard something I understand and I know what is meant by it, and I have heard things I do not…
 ## Personal Reflections
 
 

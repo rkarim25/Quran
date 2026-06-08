@@ -254,6 +254,17 @@ So, Allah sent down His tranquility on him and strengthened him with troops you 
 
 These troops could be troops of angels, and of the elemental forces of the entire universe too - for they are, so to say, a virtual army of Allah. When this happened, the ultimate came to be. The word of disbelievers was rendered low and the word of Allah remained the highest.
 
+## AI Translation
+
+If you do not support him, for Allah did in fact support him when those who reject the truth drove him out and he was only one of two. While they both were in the cave, he reassured his companion, “Do not worry; Allah is certainly with us.” So Allah sent down His serenity upon the Prophet, supported him with forces you did not see, and made the word of those who reject the truth lowest, while the Word of Allah is supreme. And Allah is Almighty, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** If you help him (Muhammad ﷺ) not (it does not matter), for Allah did indeed help him when the those who reject the truth drove him out, the second of the two; when they were both in the cave, he said to his companion: "Be not sad (or afraid), surely, Allah is with us." Then Allah sent down His Sakinah (calmness, tranquillity, peace) upon him, and strengthened him with forces (angels) which you saw not, and made…
+
+**Classical tafsir:** Ibn Kathir notes: The word of those who reject the truth was rendered low and the word of Allah remained the highest.
+
+**From the Sunnah:** During the year of the Hijrah, the idolators tried to kill, imprison or expel the Prophet ﷺ, who escaped with his friend and Companion, Abu Bakr bin Abi Quhafah, to the cave of Thawr.
 ## Personal Reflections
 
 

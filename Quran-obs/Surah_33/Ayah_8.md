@@ -110,6 +110,17 @@ After having generally mentioned prophets, peace be on them all, before saying: 
 
 'I am the first human being in the creation and the last of them in being sent (with the prophetic mission).' (Reported by Ibn Sa'd and Abu Nu'aim in Al-Hilyah from Maisirah al-Mafjar and At-Tabarani in al-Kabir from Ibn ` Abbas ؓ - Mazhari)
 
+## AI Translation
+
+so that He may question these men of truth about their delivery of the truth. And He has prepared a painful punishment for those who reject the truth.
+
+## AI Tafsir
+
+**Context:** (He (Allah) has ordained for you the same religion which He ordained for Nuh, and that which We have revealed to you, and that which We ordained for Ibrahim, Musa and 'Isa saying you should establish religion and make no…
+
+**What this ayah teaches:** We bear witness that the Messengers did indeed convey the Message of their Lord and advised their nations, and that they clearly showed them the truth in which there is no confusion, doubt or ambiguity, even though they were rejected by the ignorant, stubborn and rebellious wrongdoers.
+
+**Classical tafsir:** Ibn Kathir notes: It is to further confirm and emphasize these very two things that, in the present two verses as well, the same two subjects have been reiterated, that is, the recipient of the revelation has been obligated to follow the revelation received by him from Allah and the non-recipient…
 ## Personal Reflections
 
 

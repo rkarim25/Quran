@@ -112,6 +112,17 @@ Surah Al-` Asr
 
 Ends here
 
+## AI Translation
+
+By time itself—every hour scrolling, every season passing, every deadline you feel slipping away—Allah swears an oath that what follows is among the most urgent truths you will ever hear.
+
+## AI Tafsir
+
+**What this ayah teaches:** By al-'Asr (time), humanity is in loss—except those with iman, righteous deeds, mutual truth, and patient perseverance.
+
+**Classical tafsir:** Ibn Kathir: al-'Asr is the era of the Prophet ﷺ or time itself—every moment testifies that neglect is ruin. Imam al-Shafi'i said if people reflected only on this surah, it would suffice them.
+
+**From the Sunnah:** The Prophet ﷺ urged holding to this surah because it summarizes salvation (reported in tafsir literature).
 ## Personal Reflections
 
 

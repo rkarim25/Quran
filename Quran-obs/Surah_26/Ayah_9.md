@@ -118,6 +118,15 @@ At the beginning of the explanation of Surat Al-Baqarah we discussed the letters
 
 زَوْجٍ كَرِ‌يمٍ (noble pair - 26:7). The word زَوْجٍ (zawj) literally means a pair. That is why man and woman, and male and female are called Zawj. Many species of trees have male and female among them. On this basis they can also be called Zawj (زَوْجٍ ). Sometimes the word Zawj is also used for a special kind. On the basis of this meaning all species of trees can be called Zawj. The meaning of Karim is a nice and favourite thing.
 
+## AI Translation
+
+And your Rabb — the One who creates, owns, nurtures, and sustains is certainly the Almighty, the Rahim — special mercy for believers in the Akhirah — the everlasting life after death.
+
+## AI Tafsir
+
+**What this ayah teaches:** And verily your Lord, He is truly the All-Mighty, the ar-Rahim.) The Qur'an and the those who reject the truth Turning Away; They Could Be Compelled to Believe If Allah so Willed At the beginning of the explanation of Surat Al-Baqarah we discussed the letters which appear at the beginning of some Surahs.
+
+**Classical tafsir:** Ibn Kathir notes: Abu Al-'Aliyah, Qatadah, Ar-Rabi' bin Anas and Ibn Ishaq said: "He is Almighty in His punishment of those who went against His commands and worshipped others besides Him." Sa'id bin Jubayr said: "He is ar-Rahim towards those who repent to Him and turn to Him."
 ## Personal Reflections
 
 

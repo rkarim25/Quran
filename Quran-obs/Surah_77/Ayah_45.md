@@ -94,6 +94,15 @@ This is the end of the Tafsir of Surat Al-Mursalat, and all praise and thanks ar
 
 هَـٰذَا يَوْمُ لَا يَنطِقُونَ وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُ‌ونَ (This is a day when they will not speak, nor will they be allowed to offer excuses....77:35, 36) In other words, this is the Day in which they will not be able to talk, nor will they be permitted to offer pleas for their misdeeds. However, other verses of the Qur'an inform us that they will speak and will be permitted to offer excuses. There is no discrepancy between the two verses, because there will be various stages on the Plain of Gathering (Mahshar) through which people will have to pass. Sometimes they will pass through a stage where it would be forbidden for them to speak or offer excuses; and at another stage they will be permitted. [ Ruh ].
 
+## AI Translation
+
+Woe that Day to those who deny!
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, you are criminals (46)Woe that Day to the deniers (47)And when it is said to them: "Bow down yourself!" They bow not down (48)Woe that Day to the deniers (49)Then in what statement after this will they believe .
+
+**Classical tafsir:** Ibn Kathir notes: There is no discrepancy between the two verses, because there will be various stages on the Plain of Gathering (Mahshar) through which people will have to pass.
 ## Personal Reflections
 
 

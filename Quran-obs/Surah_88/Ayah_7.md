@@ -112,6 +112,19 @@ This means that the intent in eating it will not be achieved, and nothing harmfu
 
 لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ (that will neither nourish, nor satisfy hunger...88:7). When the preceding verse was revealed in which it was stated that the inmates of Hell will get food like Dari`, some of the pagans of Makkah [ mockingly ] said that their camels eat Dari` and yet they are fat and healthy. In response to their statement, the following verse of the Qur'an was revealed which means that they should not compare the Dari` of this world with that of the Hereafter. The latter will neither provide nutrition, nor satisfy their hunger.
 
+## AI Translation
+
+that neither nourishes nor satisfies hunger.
+
+## AI Tafsir
+
+**Context:** لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ (that will neither nourish, nor satisfy hunger...88:7). When the preceding verse was revealed in which it was stated that the inmates of Hell will get food like Dari`, some of the pa…
+
+**What this ayah teaches:** No food will there be for them but from Dari',)(7.
+
+**Classical tafsir:** Ibn Kathir notes: No food will there be for them but from Dari',)(7.
+
+**From the Sunnah:** It has already been mentioned on the authority of An-Nu'man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A'la (87) and Al-Ghashiyah in the 'Id and Friday prayers. (Sahih Muslim, Sunan Abi Dawud)
 ## Personal Reflections
 
 

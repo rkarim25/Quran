@@ -222,6 +222,17 @@ Rulings
 
 3. As for the right to make a will covering the one-third of his property, one has the right to make some change in this will or cancel it totally during his life time.
 
+## AI Translation
+
+It is prescribed that when death approaches any of you, if they leave wealth, a will should be made for parents and near relatives with fairness — an obligation on those who live with taqwa.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, the obligatory character of a wasiyyah in their favour is also abrogated (Jassas, Qurtubi).
+
+**Classical tafsir:** Ibn Kathir notes: But, in commonly accepted usage, it refers to what must be done after death.
+
+**From the Sunnah:** For this reason we see the Hadith narrated in the Sunan and other books that 'Amr bin Kharijah said: I heard Allah's Messenger ﷺ saying in a speech: that Muhammad bin Sirin said: Ibn 'Abbas recited Surat Al-Baqarah (chapter 2 in the Qur'an) until he reached the Ayah: (Musnad Ahmad)
 ## Personal Reflections
 
 

@@ -124,6 +124,15 @@ In another Hadith, it is said: Whoever finds any of such girls en-trusted to his
 
 To sum up, it can be said that taking the birth of a girl to be bad is a detestable custom of the pagan period. Muslims must abstain from it. In fact, they should be pleased and satisfied with the promise of Allah against it. Allah knows best.
 
+## AI Translation
+
+By Allah! We have surely sent messengers to communities before you O Prophet, but Satan made their misdeeds appealing to them. So he is their patron today, and they will suffer a painful punishment.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely that is a sign for people who listen .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

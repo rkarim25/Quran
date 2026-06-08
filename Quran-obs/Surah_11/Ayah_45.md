@@ -107,6 +107,17 @@ The remaining account of the flood associated with the name of Sayyidna Nuh alon
 
 When Canaan, the son of Sayyidna Nuh (علیہ السلام) did not board the ark despite the counsel and call of his esteemed father who was still concerned emotionally as he saw his son surrounded by the waves of the flood. His filial love knocked at another door. He turned to his Lord and prayed to Him on the basis of His promise that He would save his family from the flood, and that His promise was true. But, conditions were alarming and his son who was part of his family was going to be swallowed by the flood. The only court of appeal he could now go to was the court of the most just of judges for everything was in His power and control and that He could still save him from the flood.
 
+## AI Translation
+
+Noah called out to his Rabb, saying, “My Rabb! Certainly my son is also of my family, Your promise is surely true, and You are the most just of all judges!”
+
+## AI Tafsir
+
+**What this ayah teaches:** And certainly, Your promise is true, and You are the Most Just of the judges.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, my son is of my family!") This means, "Verily, You promised to save my family and Your promise is the truth that does not fail.
+
+**From the Sunnah:** 'Abdur-Razzaq recorded that Ibn 'Abbas said, "He was the son of Nuh, but he opposed him in deeds and intention." 'Ikrimah said in some of the modes of recitation it said here,
 ## Personal Reflections
 
 

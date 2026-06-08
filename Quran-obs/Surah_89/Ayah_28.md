@@ -129,6 +129,19 @@ This is the end of the Tafsir of Surat Al-Fajr, and all praise and blessings are
 
 رَاضِيَةً مَّرْضِيَّةً (...well-pleased, well-pleasing....89:28). [ The true believer's ] soul is well-pleased with decrees destined by Allah and His legislative commands, and Allah too is well-pleased with His slave. The slave's being pleased with Allah's decrees and injunctions is a sign that Allah is pleased.
 
+## AI Translation
+
+Return to your Rabb, pleased and well pleasing—satisfied with His decree and accepted by Him.
+
+## AI Tafsir
+
+**Context:** He said, "This Ayah was revealed while Abu Bakr was sitting (with the Prophet ﷺ). So he said, 'O Messenger of Allah! There is nothing better than this!' The Prophet ﷺ then replied,
+
+**What this ayah teaches:** When the earth is flatened, Dakkan Dakka (21)And your Lord comes with the angels in rows (22)And Hell will be brought near that Day. Come back to your Lord.) meaning, to His company, His reward and what He has prepared for His servants in His Paradise.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** This is similar to what Imam Ahmad bin Hanbal recorded from Muhammad bin Abi 'Amirah, who was one of the Companions of the Messenger of Allah ﷺ. (Musnad Ahmad)
 ## Personal Reflections
 
 

@@ -137,6 +137,17 @@ The purpose behind the drawing of lots in this event relating to Sayyidna Yunus 
 
 Immediately next in the verse, it was said: فَكَانَ مِنَ الْمُدْحَضِينَ and was the one who was defeated." The word: اِدحَاضُ (idhad) literally means to defeat someone or to make him fail, lose. The sense is that it was his name that came up in the draw - and he threw himself into the waters. No one should raise the objection that it was some sort of a suicide plunge, for it is possible that the shore was near and he intended to swim ashore.
 
+## AI Translation
+
+Then to save it from sinking, he drew straws with other passengers. He lost and was thrown overboard.
+
+## AI Tafsir
+
+**What this ayah teaches:** This was because the ship was being pounded by the waves on all sides, and they were at risk of drowning, so they drew lots, and whoever lost would be thrown overboard so as to lighten the load.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, narrating from Ash-Sha'bi, "It swallowed him in the morning and cast him forth in the evening." And Allah knows best how long exactly was.
+
+**From the Sunnah:** In the Two Sahihs it is reported that the Messenger of Allah ﷺ said: This is what is indicated in the authentic Hadith which we quote below, if Allah wills. (authentic hadith)
 ## Personal Reflections
 
 

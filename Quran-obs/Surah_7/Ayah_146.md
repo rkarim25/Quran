@@ -232,6 +232,15 @@ We find it stated in Ruh-al-Bayan that arrogance is such a wicked habitude as ra
 
 "Water flows down towards the slope, and solution goes where difficulty appears."
 
+## AI Translation
+
+I will turn away from My signs those who act unjustly with arrogance in the land. And even if they were to see every sign, they still would not believe in them. If they see the Right Path, they will not take it. But if they see a crooked path, they will follow it. This is because they denied Our signs and were heedless of them.
+
+## AI Tafsir
+
+**What this ayah teaches:** We find it stated in Ruh-al-Bayan that arrogance is such a wicked habitude as raises a wall between man and the knowledge from Allah.
+
+**Classical tafsir:** Ibn Kathir notes: The word without truth or unjustly indicates that assuming arrogance in response to the arrogant people is a justified act, since it is the act of arrogance in appearance, and not in reality.
 ## Personal Reflections
 
 

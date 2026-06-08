@@ -115,6 +115,15 @@ In the second verse (19), the two groups have been identified as the sighted and
 
 From the third verse (20) begins a description of particular deeds and marks which distinguish the two groups. Taken up first are the attributes of those who believe in and obey Divine injunctions. The initial at-tribute mentioned is:
 
+## AI Translation
+
+Can one who knows your Rabb's revelation to you is the truth be like one who is blind? Only people of reason take heed.
+
+## AI Tafsir
+
+**What this ayah teaches:** Shall he then who knows that what has been revealed unto you from your Lord is the truth, be like him who is blind?
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the Ayah says, those who believe in the truth that you brought, O Muhammad, are not at all similar to those who are blind and cannot find guidance to what benefits them, which they cannot even comprehend.
 ## Personal Reflections
 
 

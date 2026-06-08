@@ -196,6 +196,15 @@ It is certainly a great blessing of Allah, otherwise human beings have their own
 
 After that, it was also made clear that the way His mercy is universal and perfect, in the same way His power holds control over everything. If He wills, He could undo everyone in a moment - and even this undoing of the entire creation would not cause the slightest difference to the working of His power. Then, if He wills to undo the present system of the entire universe and replace it with another set of creation in the same manner and at the same time - He can certainly do that. An evidence of this possible happening always remains before human beings of all ages. Think of the millions of human beings who inhabit the near and far corners of the earth and run the business of their lives, then think of the time a hundred years earlier. You shall realize that the earth was inhabited as it is now, and things were going on as usual, but none of the present inhabitants of the earth, the movers and shakers of things, were there. What was there was a different set of people - and that different set of people lies buried under the earth with no traces to be found today. The people on the earth to-day are the descendants of the earlier generation of people. Says the Qur'an: إِن يَشَأْ يُذْهِبْكُمْ وَيَسْتَخْلِفْ مِن بَعْدِكُم مَّا يَشَاءُ كَمَا أَنشَأَكُم مِّن ذُرِّ‌يَّةِ قَوْمٍ آخَرِ‌ينَ He wills, He shall take you away and shall bring after you whom He wills just as He has raised you from the progeny of other people -133). The sense of " يُذْهِبْكُمْ ": yudhhibkum, translated as ` take you away,' is to undo or make absent with no traces left behind. This is why there is no reference to destroying, killing or exterminating. The statement in the text restricts itself to ` taking' which denotes a state of unmaking, unbeing, loss of name, identity and trace.
 
+## AI Translation
+
+Your Rabb is the Self-Sufficient, Full of Mercy. If He wills, He can do away with you and replace you with whoever He wills, just as He produced you from the offspring of other people.
+
+## AI Tafsir
+
+**What this ayah teaches:** He is All-Independent, yet He is the master-dispenser of mercy - an attribute which is the real cause of sending messengers and books for the good of human beings.
+
+**Classical tafsir:** Ibn Kathir notes: In the first (133) of the four verses cited above, it has been pointed out that the practice of sending needed our obediences and worthier because the Lord of the universe needed our obedience and worship, or some task of His depended on our obedience.
 ## Personal Reflections
 
 

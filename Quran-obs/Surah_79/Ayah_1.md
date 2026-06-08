@@ -178,6 +178,15 @@ The first quality of the angels:
 
 This refers to the angels of punishment who draw the souls of the infidels vigorously and harshly. The words 'vigorously' refer to spiritual pain. The humans around the dying person may not be sensitive to the pain. Often it is noticed that the soul of an infidel apparently slips out easily, but this ease is perceived by humans around the dying man. The pain is felt by the soul of the dying person. Who can perceive it? We are aware of it only because Allah has informed us about it in this verse.
 
+## AI Translation
+
+By those angels who pull out souls with force,
+
+## AI Tafsir
+
+**What this ayah teaches:** The word gharqan is its corroborative because the word gharq is used here in the sense of ighraq and means 'to exert oneself much or to the utmost extent in the thing'.
+
+**Classical tafsir:** Ibn Kathir notes: The word gharqan is its corroborative because the word gharq is used here in the sense of ighraq and means 'to exert oneself much or to the utmost extent in the thing'.
 ## Personal Reflections
 
 

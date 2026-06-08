@@ -246,6 +246,15 @@ In reality, there is no conflict between these three narrations. The infidels wi
 
 The gist of the objection mentioned in the first and second narrations is essentially the same. The statement in the Qur'an that all those who are worshipped except Allah will become fuel for Hell or the statement of the Holy Prophet ﷺ that there is no good in whatever is worshipped except Allah, refer to the lifeless objects of worship, such as idols or those living beings who directed their followers towards their own worship, or who liked to be worshipped, such as shaitans, Fir'aun, Namrud, etc.. So Sayyidna ` Isa (علیہ السلام) is obviously not included in this category, since at no stage did he like to be worshipped. Christians do not worship him because of any direction having being given by Sayyidna ` Isa (علیہ السلام) ، rather they were misled and started worshipping him by deducing the wrong conclusion from his birth without a father which was a sample of Allah's power to show to the people that Allah does not need even any apparent cause or means to create something. This worship of Sayyidna ` Isa (علیہ السلام) by Christians was not only irrational, but also against his own teachings, because he had always preached 'tauhid' (Oneness of Allah); his own disgust against being worshipped simply does not allow his inclusion in the ranks of false gods.
 
+## AI Translation
+
+He was only a servant We showed favour to and made as an example for the Children of Israel.
+
+## AI Tafsir
+
+**Context:** وَلَمَّا ضُرِ‌بَ ابْنُ مَرْ‌يَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ (And when the example of the son of Maryam was cited, your people started at once shouting at it [ in joy ]...43:57).
+
+**What this ayah teaches:** We granted Our favor to him, and We made him an example for the Children of Israel (59)And if it were Our will, We would have made angels to replace you on the earth (60)And he shall be a known sign for (the coming of) the Hour.
 ## Personal Reflections
 
 

@@ -118,6 +118,17 @@ The Commentary on
 
 Surah Al-Buruj Ends here
 
+## AI Translation
+
+Has the story of the destroyed armies reached you—
+
+## AI Tafsir
+
+**What this ayah teaches:** Of Fir'awn and Thamud?) meaning, has the news reached you of what Allah caused to befall them of torment, and that He sent down upon them the punishment that no one was able to ward off from them? It signifies that they will be put into Hell and will have to suffer eternal torment of the fire.
+
+**Classical tafsir:** Ibn Kathir notes: It signifies that they will be put into Hell and will have to suffer eternal torment of the fire.
+
+**From the Sunnah:** After that the fire flared up so high that it spread out wildly through the city and burned all those who were watching the fun of burning the Muslims.
 ## Personal Reflections
 
 

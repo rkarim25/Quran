@@ -166,6 +166,17 @@ Sayyidna ` Abdullah Ibn ` Umar ؓ says: "When you hear anyone reviling a Compani
 
 ` Amr Ibn Haushab (رح) says: "I have found the earlier generations of this Ummah uniformly and strongly advise people to describe the merits of the noble Companions ؓ and their good qualities, so that they may develop love for them. Do not ever talk about their conflicts and disagreements, so that people may become bold and show disrespect to them." [ All these narratives have been adapted from Qurtubi ].
 
+## AI Translation
+
+There is more fear in their hearts for you than for Allah, because they are a people who do not comprehend.
+
+## AI Tafsir
+
+**What this ayah teaches:** Have you not observed the hypocrites who say to their disbelieving brethren among the People of the Scripture, "If you are expelled, we indeed will go out with you, and we shall never obey anyone against you; and if you are attacked, we shall indeed help you." But Allah is Witness that they verily are liars (11)Surely, if they (the Jews) are expelled, never will they (hypocrite…
+
+**Classical tafsir:** Ibn Kathir notes: That is because they are a people who comprehend not (13)They fight not against you even together, except in fortified townships, or from behind walls.
+
+**From the Sunnah:** They only fight when they have to defend themselves (even though they threaten Muslims of reprisals). All Muslims after the Muhajirin and the Ansar are entitled to fai'
 ## Personal Reflections
 
 

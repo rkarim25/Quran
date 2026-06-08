@@ -375,6 +375,19 @@ The point, however, is that if someone had really produced even three or four ve
 
 12. We may conclude this discussion by quoting a passage from the well-known scholar of comparative religion and traditional civilizations, Frithjof Schuon: The superhuman value of a revealed Book cannot be apparent in an absolute fashion from its earthly form, nor from its conceptual content alone; in reality, the Divine and therefore miraculous quality of such a Book is of an order quite other than that of the most perfect dialectic or the most brilliant poetry. This quality shows itself first of all in a richness of meanings - a feature that is incapable of being imitated - and also in what might be called the underlying divine 'magic' which shines through the formal expression and proves itself by its results in souls, and in the world, in space and in time. Only this Divine substance can explain the spiritual and theurgic efficacy of the Qura'nic verses, with its consequences in miraculously rapaid expansion of primitive Islam in the conditions in which it took place, as well as in the stability of Moslem institutions and the extraordinary fruitfulness of Islamic doctrine." ("Dimensions of Islam", London, 1970 page 55).
 
+## AI Translation
+
+If you cannot — and you never will — then guard yourselves against the Fire whose fuel is people and stones, prepared for those who reject the truth.
+
+## AI Tafsir
+
+**Context:** (And this Qur'an is not such as could ever be produced by other than Allah (Lord of the heavens and the earth), but it is a confirmation of (the revelation) which was before it (i.e.
+
+**What this ayah teaches:** 'Prepared' means, it is 'kept' and will surely touch those who disbelieve in Allah and His Messenger ﷺ.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the challenge to creation stands with regards to both the long and short Surahs, and there is no disagreement that I know of on this fact between the scholars of old and new.
+
+**From the Sunnah:** Allah challenged the Arab those who reject the truth both in Makkah and Al-Madinah several times, especially since they had tremendous hatred and enmity for the Prophet ﷺ and his religion.
 ## Personal Reflections
 
 

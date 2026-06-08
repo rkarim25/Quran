@@ -194,6 +194,19 @@ This tells us that relationship with pious elders, whether of lineage, kinship o
 
 Finally, if we consider the statement in verse 25, that is: أُولَـٰئِكَ لَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ (those are the ones for whom there is the curse, and for them there is the evil abode), we would recall that verses previous to it told us about the reward of His obedient servants - that their home will be in Paradise, angels would greet them with Salam, and tell them that the eternal blessings of Paradise are the direct result of their patience, fortitude and obedience. Similarly, in the verse cited above, announced is the end of the disobedient and the contumacious - that they are under the curse of Allah, that is, they are far removed from His mercy and that they have waiting for them an evil abode in Hell. This helps us realize that the breaking of pledges given and the severance of the bonds of kinship is the cause of Divine curse and consignment to Hell. May Allah keep all of us protected from such a fate.
 
+## AI Translation
+
+Those who believe and do good will have bliss and an honourable destination."
+
+## AI Tafsir
+
+**Context:** (Let him then bring us an Ayah like the ones (Prophets) that were sent before (with signs)!)[21:5] We mentioned this subject several times before and stated that Allah is able to bring them what they wanted.
+
+**What this ayah teaches:** The condition attached to this good deed is that one must first repent from the past sin and then do the good deed.
+
+**Classical tafsir:** Ibn Kathir notes: There is a Hadith which mentions that the idolators asked the Prophet to turn Mount As-Safa into gold and, they also asked him for a spring to gush forth for them and to remove the mountains from around Makkah and replace them with green fields and gardens.
+
+**From the Sunnah:** Paradise whose width is a hundred years, and the clothes of the people of Paradise are taken from its bark.
 ## Personal Reflections
 
 

@@ -231,6 +231,19 @@ if you are hurt: it all happened in Allah's cause.'
 
 Sayyidna Jundub ؓ عنہ narrated this incident and said that revelation of the Qur'an to the Holy Prophet ﷺ came to a halt, and that Jibra'il (علیہ السلام) stopped coming to him for a while. The unbelievers taunted, saying: "Mulhammad's Lord has forsaken him, and is displeased with him." Surah Ad-Duha was revealed on this occasion. According to the narration in Bukhari by Sayyidna Jundub ؓ ، the Holy Prophet ﷺ was unable to wake up for a few nights for tahajjud prayer owing to illness. In this narration, there is no mention of 'delay in revelation'. In Timidhi's narration, there is mention about the 'delay in revelation' but no mention about his inability to wake up for tahajjud prayer. These reports are not conflicting. The narrator might have narrated one incident at one time, and reported another incident at another time. The lady who taunted the Holy Prophet ﷺ was Umm Jamil, the wife of Abu Lahab, as other reports indicate. 'Delay in revelation' took place twice. Once in the very early stage of the call. This is known as fatrah al-wahy 'temporary break in the revelation'. This was the longest period. Another narration states that when the pagans or the Jews asked the Holy Prophet ﷺ about the soul, he promised them that he would give them a reply the next day. However, he forgot to add insha'Allah (if Allah wills). As a result, revelation ceased for a few days. The pagans began to taunt the Holy Messenger ﷺ ، saying that Allah had abandoned him, and is displeased with him. It was on this occasion that the Surah was revealed.
 
+## AI Translation
+
+Your Rabb—the One who creates, owns, nurtures, and sustains—has not forsaken you, O Prophet, nor does He despise you; a pause in revelation did not mean abandonment.
+
+## AI Tafsir
+
+**Context:** Al-'Awfi reported from Ibn 'Abbas, "When the Qur'an was revealed to the Messenger of Allah ﷺ, Jibril was delayed from coming to him for a number of days (on one occasion).
+
+**What this ayah teaches:** The unbelievers taunted, saying: "Mulhammad's Lord has forsaken him, and is displeased with him." Surah Ad-Duha was revealed on this occasion.
+
+**Classical tafsir:** Ibn Kathir notes: Another narration states that when the pagans or the Jews asked the Holy Prophet ﷺ about the soul, he promised them that he would give them a reply the next day.
+
+**From the Sunnah:** this Hadith. (Sahih al-Bukhari, Sahih Muslim) Therefore, the Messenger of Allah ﷺ was affected by this.
 ## Personal Reflections
 
 

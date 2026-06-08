@@ -132,6 +132,17 @@ After that he turned to the second point regarding his upbringing in the Pharaoh
 
 This is what is known as God gifted awe of truth, veracity and reality. The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee. That is how they become so appealing to people and convince the biggest defiant
 
+## AI Translation
+
+commanded to say: ‘Let the Children of Israel go with us.’’”
+
+## AI Tafsir
+
+**What this ayah teaches:** Between Musa and Fir'awn Allah tells us what He commanded His servant, son of 'Imran and Messenger Musa, peace be upon him, who spoke with Him, to do, when He called him from the right side of the mountain, and conversed with him, and chose him, sent him, and commanded him to go to Fir'awn and his people.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee.
 ## Personal Reflections
 
 

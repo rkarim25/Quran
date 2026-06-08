@@ -154,6 +154,15 @@ Therefore, those who rush to obey Allah in this life and are foremost in perform
 
 لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ (...there will be no one to deny its occurrence...56:2). The word kadhibah in this context is the verbal noun, like ` afiyah and ` aqibah. The sense of the verse is that 'the news of the occurrence of this event cannot be a false news'. Some authorities have taken the word kadhibah in the sense of takdhib [ to deny ] and the meaning, in that case, is clear that 'no one can deny the fact that it will come to pass'.
 
+## AI Translation
+
+no one can deny it has come.
+
+## AI Tafsir
+
+**What this ayah teaches:** Some authorities have taken the word kadhibah in the sense of takdhib [ to deny ] and the meaning, in that case, is clear that 'no one can deny the fact that it will come to pass'.
+
+**Classical tafsir:** Ibn Kathir notes: They are the chiefs of those on the right side, because they include the Messengers, Prophets, true believers and martyrs.
 ## Personal Reflections
 
 

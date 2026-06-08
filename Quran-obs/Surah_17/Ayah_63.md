@@ -138,6 +138,17 @@ While refusing to prostrate before Sayyidna 'Adam (علیہ السلام) ، Ibl
 
 (1) That 'Adam was created from mud and he was from fire and that there was no reason why mud was given precedence over fire. This question was an effort to find out the wisdom of the order given to him before he could comply with the Divine command - something the one so commanded has no right to ask. That Allah, the Exalted, would let the commanded one have the right to demand the wisdom of His command is far out specially when we see in our everyday life that human beings themselves would not give their servant the right to say no to them. Think of a master asking his servants to do something and the servant demanding the master that he should first explain the wisdom of that assignment. Therefore, this question was considered unworthy of an answer and no answer was given. In addition to that, the answer is already obvious. Giving precedence to something over the other is the prerogative of the Being that created and nurtured everyone. Whenever and whatever He declares to be superior becomes exactly so.
 
+## AI Translation
+
+Allah responded, “Be gone! Whoever of them follows you, Hell will surely be the reward for all of you—an ample reward.
+
+## AI Tafsir
+
+**What this ayah teaches:** From this root is also derived the word Jalabah, which means raising voices. Therefore, this question was considered unworthy of an answer and no answer was given.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "With idle entertainment and singing," meaning, influence them with that. From this root is also derived the word Jalabah, which means raising voices.
+
+**From the Sunnah:** It was reported in Sahih Muslim from 'Iyad bin Himar that the Messenger of Allah ﷺ said: (Sahih Muslim)
 ## Personal Reflections
 
 

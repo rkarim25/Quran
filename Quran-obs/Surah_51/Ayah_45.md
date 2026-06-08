@@ -126,6 +126,15 @@ After the mention of the people of Lut (علیہ السلام) ، the people of 
 
 After this, the stories of the people of ` Ad, Thamud and Nuh (علیہم السلام) are told. These stories were narrated many times before.
 
+## AI Translation
+
+They could not stand up, and no one helped them.
+
+## AI Tafsir
+
+**What this ayah teaches:** This ayah declares: Then they were not able to rise up, nor were they helped.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

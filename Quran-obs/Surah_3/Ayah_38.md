@@ -205,6 +205,15 @@ It appears in a hadith that Umm Sulaym ؓ requested the Holy Prophet ﷺ to pray
 
 It was the outcome of this very prayer that Sayyidna Anas ؓ had about a hundred children and was also blessed with an ample measure of wealth.
 
+## AI Translation
+
+Then and there Zachariah prayed to his Rabb, saying, “My Rabb! Grant me—by your grace—righteous offspring. You are certainly the Hearer of prayers.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, marry a woman who is loving and fertile, for I shall compete with other communities on the basis of your numbers.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, Ath-Thawri and Ad-Dahhak said that Sayyidan means, "The noble, wise and pious man." Sa'id bin Al-Musayyib said that Sayyid is the scholar and Faqih. 'Ikrimah said that it refers to a person who is not overcome by anger, while Ibn Zayd said that it refers to the noble man.
 ## Personal Reflections
 
 

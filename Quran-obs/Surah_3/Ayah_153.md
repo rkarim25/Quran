@@ -269,6 +269,17 @@ The author of Ruh al-Ma'ani resolves this by saying that the first call came fro
 
 In Bay-an al-Qur'an, Maulana Ashraf Thanavi (رح) has said that the real reason for this confusion was the news that the Holy Prophet ﷺ has fallen a martyr on the battlefield. When he called, there was obviously no refutation of the news with the call. Even if his voice can be taken to have reached the retreating Companions, the possibility remains that it was not recognized. Finally, when Sayyidna Ka'b ibn Malik ؓ called out, his call included a refutation of this news mentioning the fact that the Messenger of Allah ﷺ was alive. On hearing this, everybody took a sigh of relief and reassembled. As far as the displeasure of Allah and the sorrow of His Messenger ﷺ are concerned, these can be explained by saying - if they had stayed unagitated and firm, they could have recognized the calling voice.
 
+## AI Translation
+
+When you were running far away —not looking at anyone—while the Messenger was calling to you from behind! So Allah rewarded your disobedience with distress upon distress. Now, do not grieve over the victory you were denied or the injury you suffered. And Allah is All-Aware of what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** But surely, He forgave you, and Allah is ar-Rahman to the believers (152)(And remember) when you ran away without even casting a side glance at anyone, and the Messenger was in your rear calling you back. Therefore, Fatimah, the daughter of Allah's Messenger ﷺ washed off the blood while 'Ali was pouring water on her hand.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn Jurayj said that Ibn 'Abbas said that Fashiltum means, 'lost courage'. Al-Hasan and Qatadah said that, Tus'iduna, means, 'go up the mountain'.
+
+**From the Sunnah:** Allah next conveys the good news that He will put fear of the Muslims, and feelings of subordination to the Muslims in the hearts of their disbelieving enemies, because of their Kufr and Shirk.
 ## Personal Reflections
 
 

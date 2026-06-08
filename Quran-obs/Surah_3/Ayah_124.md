@@ -303,6 +303,15 @@ The expression وَأَنتُمْ أَذِلَّةٌ translated as 'when you wer
 
 The verse ends with the statement: فَاتَّقُوا اللَّـهَ لَعَلَّكُمْ تَشْكُرُ‌ونَ (So, fear Allah, that you may be grateful). This may remind one of the many places in the Holy Qur'an where Taqwa (fear of Allah) and Sabr (patience) have been prescribed as a security shield against the machinations of the hypocrites and the harmful effects of hostile enemies. Right here, in these two behaviour models, there lies the secret of an entire organized struggle, and clear victory, that comes in its wake. As mentioned elsewhere, Taqwa and Sabr have not been mentioned here, in conjunction. Instead, Taqwa has been considered sufficient for, in reality, Taqwa is such a comprehensive human attribute that صبر Sabr too gets to be included therein.
 
+## AI Translation
+
+When you said to those who have iman, “Is it not enough that your Rabb will send down a reinforcement of three thousand angels for your aid?”
+
+## AI Tafsir
+
+**What this ayah teaches:** The word "in succession" means they follow each other and thus indicates that thousands more will follow them. The two Ayat above (8:9 and 3:124) are similar in meaning and it appears that they both were about the battle of Badr, because the angels did fight in the battle of Badr, as the evidence indicates.
+
+**Classical tafsir:** Ibn Kathir notes: Al-'Awfi said that Ibn 'Abbas said that the Ayah means, "All at once". The word "in succession" means they follow each other and thus indicates that thousands more will follow them.
 ## Personal Reflections
 
 

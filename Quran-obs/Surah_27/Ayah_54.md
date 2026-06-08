@@ -90,6 +90,17 @@ The point to note here is that all the acts of infidelity, disbelief, killing an
 
 The other thing worth noting in this verse is that the one whom these infidels had mentioned as the Wall or heir of Sayyidna Salili (علیہ السلام) was a man of his own family. So, why did they leave him out from being assassinated? The answer to this question is that he might have been the successor from the lineage point of view, but otherwise he could be an infidel and be a party with the infidels. There could have been the consideration that he might claim the compensation for the blood of Sayyidna Salih (علیہ السلام) because of his relationship with him. The other possibility is that he might have been a Muslim but enjoyed a prominent position and hence there could have been the risk of uprising and reprisal among the people. Only Allah knows best.
 
+## AI Translation
+
+And remember Lot, when he rebuked the men of his people, “Do you commit that shameful deed while you can see one another?
+
+## AI Tafsir
+
+**What this ayah teaches:** We destined her to be of those who remained behind.) meaning, she was one of those who were destroyed, with her people, because she was a helper to what they did and she approved of their evil deeds. She did not do the evil deeds herself, which was because of the honor of the Lut and not because of any honor on her part.
+
+**Classical tafsir:** Ibn Kathir notes: We destined her to be of those who remained behind.) meaning, she was one of those who were destroyed, with her people, because she was a helper to what they did and she approved of their evil deeds.
+
+**From the Sunnah:** The other possibility is that he might have been a Muslim but enjoyed a prominent position and hence there could have been the risk of uprising and reprisal among the people. (Sahih Muslim)
 ## Personal Reflections
 
 

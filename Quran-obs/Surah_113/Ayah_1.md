@@ -318,6 +318,19 @@ Lexicological Analysis of important words and interpretation of the Surah
 
 Verse [ 113:1] قُلْ أَعُوذُ بِرَ‌بِّ الْفَلَقِ (Say, "I seek refuge with the Lord of the Daybreak." ) The word falaq means 'to split or cleave' and here it is used in the sense of 'break of dawn'. In another verse, a similar quality of Allah is used in [ 6:96] فَالِقُ الْإِصْبَاحِ. ([ He is ] the One who causes the dawn to break). Of all the Divine attributes, this particular attribute is used presumably because the darkness of night often causes evils and difficulties, and the daylight removes them. This attribute of Allah points to the fact that anyone who seeks protection in Allah, He will remove all afflictions from him. [ Mazhari ]
 
+## AI Translation
+
+Say: I seek refuge in the Rabb of the breaking dawn—the One who brings light after the deepest darkness, when fear feels loudest and the night feels endless.
+
+## AI Tafsir
+
+**Context:** (Do you not see that there have been Ayat revealed to me tonight the like of which has not been seen before?) They are This and the next Surah were revealed on the same occasion, and in the same event, as will be explain…
+
+**What this ayah teaches:** Say: "I seek refuge with the Lord of Al-Falaq,")(2. Hafiz Ibn-ul-Qayyim has, therefore, written their commentary together.
+
+**Classical tafsir:** Ibn Kathir notes: Hafiz Ibn-ul-Qayyim has, therefore, written their commentary together.
+
+**From the Sunnah:** from Zirr bin Hubaysh that Ubayy bin Ka'b told him that Ibn Mas'ud did not record the Mu'awwidhatayn in his Mushaf (copy of the Qur'an). (Musnad Ahmad) This Hadith was recorded by Ahmad, At-Tirmidhi and An-Nasa'i. (Jami' at-Tirmidhi, Sunan an-Nasa'i)
 ## Personal Reflections
 
 

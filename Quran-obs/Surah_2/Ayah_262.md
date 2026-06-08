@@ -205,6 +205,15 @@ Two negative conditions governing the acceptance of sadaqah صدقہ have been s
 
 2. Do not consider the receiver practically disgraced, and do nothing to cause him insult or pain.
 
+## AI Translation
+
+Those who spend in Allah's cause and do not follow their giving with reminders of generosity or hurtful words — their reward is with their Rabb. They will have no fear and will not grieve.
+
+## AI Tafsir
+
+**What this ayah teaches:** Those who spend their wealth in the cause of Allah, and do not follow up their gifts with reminders of their generosity or with injury, their reward is with their Lord.
+
+**Classical tafsir:** Ibn Kathir notes: They will not feel sorry for this, because they will acquire what is far better for them.
 ## Personal Reflections
 
 

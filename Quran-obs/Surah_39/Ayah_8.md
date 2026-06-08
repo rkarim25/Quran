@@ -233,6 +233,17 @@ Ahl-us-sunnah wa-l-Jama'ah believe that nothing good or bad, faith or disbelief 
 
 The creed (madhhab) of people who follow the truth (ahl-ul-haqq) is to believe in destiny (al-qadr) and that all existents, good or bad, come into existence under the decision (qada' ) and destination (qadar) of Allah Ta’ ala, and Allah Ta’ ala does make the intention to create these, but He dislikes acts of disobedience and sin - though, the intention of creating these materializes in view of some wise consideration which He alone knows in His most exalted majesty. (Ruh-ul-Ma` ani)
 
+## AI Translation
+
+When one is touched with hardship, they cry out to their Lord, turning to Him alone. But as soon as He showers them with blessings, they totally forget the One they had cried to earlier, and set up equals to Allah to mislead others from His Way. Say: "Enjoy your rejection for a little while! You will certainly be among the inmates of the Fire."
+
+## AI Tafsir
+
+**What this ayah teaches:** Then to your Lord is your return, and He will inform you what you used to do.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, for everything to come into existence, the intention of Allah Ta’ ala is a binding condition.
+
+**From the Sunnah:** According to a Hadith in Sahih of Muslim, Allah Ta’ ala said: "0 My servants, even if the first and the last among you and the humans and the Jinns, all of them, were to fall in sin and disobedience, it does not affect My power and authority in the least." (Ib… (Sahih Muslim)
 ## Personal Reflections
 
 

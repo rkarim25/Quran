@@ -128,6 +128,15 @@ It has been mentioned in verse 31: يُحَلَّوْنَ فِيهَا (They wil
 
 The answer is that embellishment and beauty are subservient to practice or custom as recognized in a society. What is considered to be embellishment and beauty in one country or region could more than often be detested in other countries and regions. And this could be the other way round as well. Similarly, something is taken to be an embellishment in a given period of time. Comes another time and it becomes a blemish. When ornaments and silk dresses will come to be established as embellishment and beauty for men of Jannah too, no one is going to feel strange with it there. That which puts restraints on us here is a law of this world which stipulates that it is not permissible for men to wear any ornament of gold, even a ring or chain for watch made of gold. Similarly, silk clothes are not permissible for men. This will not be the law of Jannah. That is a universe of existence separate from this entire universe of our experience. It cannot be imagined on the analogy of anything in and around us on this basis alone.
 
+## AI Translation
+
+Each garden yielded all its produce, never falling short. And We caused a river to flow between them.
+
+## AI Tafsir
+
+**Context:** (Have you seen him who disbelieved in Our Ayat and said: "I shall certainly be given wealth and children [if I will be alive again).")[19:77] He took it for granted that Allah would give him this, without any sound evide…
+
+**What this ayah teaches:** This was because of his lack of understanding and the weakness of his faith in Allah, and because he was enamored with this world and its adornments, and because he disbelieved in the Hereafter.
 ## Personal Reflections
 
 

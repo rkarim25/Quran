@@ -134,6 +134,19 @@ In verse 80, it was said: جَعَلَ لَكُم مِّنَ الشَّجَرِ�
 
 But, in the present verse, since the quality of the 'shajar' or tree has also been mentioned as being 'akhdar' or green, therefore, here it seems that meant here are those particular trees that used to be a source of fire despite being green and moisturized.
 
+## AI Translation
+
+He is the One Who gives you fire from green trees, and—behold!—you kindle fire from them.
+
+## AI Tafsir
+
+**Context:** Whether these Ayat were revealed about Ubayy bin Khalaf or Al-'As bin Wa'il, or both of them, they apply to all those who deny the resurrection after death. The definite article "Al" in
+
+**What this ayah teaches:** Yet behold he (stands forth) as an open opponent.) means, the one who is denying the resurrection, cannot see that the One Who initiated creation can re-create it.
+
+**Classical tafsir:** Ibn Kathir notes: It was said that this refers to the Markh tree and the 'Afar tree, which grow in the Hijaz.
+
+**From the Sunnah:** Will Allah bring this back to life after it has disintegrated? You accumulate and do not spend until the death rattle reaches your throat, then you say, 'I want to give in charity,' but it is too late for charity.")" It was also recorded by Ibn Majah. (Sunan Ibn Majah)
 ## Personal Reflections
 
 

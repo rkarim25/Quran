@@ -537,6 +537,17 @@ On the other, on the basis of certain Ahadith, some early commentators have inte
 
 Al-Bukliari has reported from the Companion al-Bara’ 'Ibn ` Azib, and al-Tirmidhi from the Companion Ibn ` Abbas ؓ that when the Baytullah بیت اللہ was appointed as the Qiblah قبلہ ، people became worried about the fate of those Muslims who had been praying in the direction of the Baytul-Maqdis بیت المقدس ، but had died before having the opportunity to pray in the direction of the Baytullah بیت اللہ .
 
+## AI Translation
+
+Thus We made you a balanced community, so you may be witnesses over humanity and the Messenger a witness over you. We assigned your former prayer direction only to distinguish those who follow the Messenger from those who turn back on their heels. It was a difficult test except for those Allah guided. Allah would never waste your faith. Allah is full of grace to humanity, the Rahim.
+
+## AI Tafsir
+
+**Context:** It is reported in the Sahihayn (Al-Bukhari Muslim) that Ibn 'Umar narrated: While the people were in Quba' (Mosque) performing the Fajr (Dawn) prayer, a man came and said, "A (part of the) Qur'an was revealed tonight to…
+
+**What this ayah teaches:** Also, 'Asr, the prayer that is described as 'Wusta' (a variation of the word Wasat), means the best prayer, as the authentic collections of Ahadith reported.
+
+**Classical tafsir:** Ibn Kathir notes: Ali bin Abu Talhah related that Ibn 'Abbas said: When Allah's Messenger ﷺ migrated to Al-Madinah, Allah commanded him to face Bayt Al-Maqdis (Jerusalem).
 ## Personal Reflections
 
 

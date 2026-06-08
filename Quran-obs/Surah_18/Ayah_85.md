@@ -82,6 +82,15 @@ His traveling and reaching the Place where the Sun sets (the West)
 
 Verse 85: فَأَتْبَعَ سَبَبًا So he followed a way) means that - though, the material means related to everything, even those that would facilitate his access to every region of the world - however, the first thing he did was to use his means to travel in the direction of the West.
 
+## AI Translation
+
+So he travelled a course,.
+
+## AI Tafsir
+
+**What this ayah teaches:** Hami'ah is, according to one of the two views, derived from the word Hama'ah, which means mud. So he followed a way (85)Until, when he reached the setting place of the sun, he found it setting in a spring of Hami'ah.
+
+**Classical tafsir:** Ibn Kathir notes: Hami'ah is, according to one of the two views, derived from the word Hama'ah, which means mud.
 ## Personal Reflections
 
 

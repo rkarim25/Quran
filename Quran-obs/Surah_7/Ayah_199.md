@@ -167,6 +167,17 @@ But, once ` Uyaiynah was in the company of Sayyidna ` Umar al-Faruq ؓ ، he spo
 
 This verse carries a comprehensive statement of noble traits of character. Some scholars have explained these briefly by saying that there are two kinds of people: (1) Those who are good in deeds and (2) those who are evil and unjust. This verse tells us to treat both kinds nobly. As for those who do good, accept what they offer as such. Do not investigate too much and do not be unnecessarily inquisitive. Do not demand good at its highest from them and accept what they come up with as sufficient. As for the evildoing, the instruction given is: Teach them to do what is good. Show them the way of righteousness. If they do not accept it and choose to stick to their straying and error and talk haughtily and aggressively, the appropriate course is to stay away from them and avoid responding to their ignorant comments. It is hoped that this approach may bring them round at some stage when they may realize their error.
 
+## AI Translation
+
+Be gracious, enjoin what is right, and turn away from those who act ignorantly.
+
+## AI Tafsir
+
+**Context:** (Show forgiveness) was only revealed about the peoples [bad] character." Under the comment on this verse Ibn Marduwaih has reported, on the authority of Sayyidna Sa'ad ibn ` Ubadah ؓ ، that this verse was revealed when,…
+
+**What this ayah teaches:** Show forgiveness, enjoin Al-'Urf (the good), and turn away from the foolish (don't punish them)(199)And if an evil whisper comes to you from Shaytan, then seek refuge with Allah. If he still insists on evil, becomes difficult and continues in his ignorance, then turn away from him, so that your ignoring him might avert his evilness.
+
+**Classical tafsir:** Ibn Kathir notes: If he still insists on evil, becomes difficult and continues in his ignorance, then turn away from him, so that your ignoring him might avert his evilness.
 ## Personal Reflections
 
 

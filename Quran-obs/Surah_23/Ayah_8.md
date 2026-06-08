@@ -165,6 +165,17 @@ Fifth Attribute of a good Muslim is that he should discharge his trust truly and
 
 Sixth Attribute of a perfect Muslim is to fulfill his covenant. The word عھد . (covenant) has two connotations. One is a covenant between two parties specifying the duties and obligations of either party and is binding on both and a breach of this covenant by either party is a fraud and deceit and therefore forbidden in Islam. The other is where a person voluntarily promises to give something to someone or undertakes to do some job. This is known as وعدہ (promise) and its fulfillment is also obligatory under the dictates of Shari. There is a Hadith which says العدۃ دین (a promise is like a debt). It means that a promise is like a debt and must be fulfilled in the same manner as a debt must be discharged, the difference being that whereas the repayment of a debt can be enforced through a court of law, a voluntary promise is not enforceable likewise. Nevertheless the person making the promise is morally bound to abide by it and failure to do so would be a sin unless there is a religious ground for his inability to fulfill his promise.
 
+## AI Translation
+
+the mu'mins are also those who are true to their trusts and covenants;
+
+## AI Tafsir
+
+**Context:** (And those who pay the Zakah.) Most commentators say that the meaning here is the Zakah that is paid on wealth, even though this Ayah was revealed in Makkah, and Zakah was ordained in Al-Madinah in the year 2 H.
+
+**What this ayah teaches:** And indeed he fails who corrupts himself.)(91:9-10) It could be that both meanings are intended, purification of the soul and of one's wealth, because that is part of the purification of the soul, and the true believer is one who pays attention to both matters.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Their Khushu' was in their hearts." So they lowered their gaze and were humble towards others.
 ## Personal Reflections
 
 

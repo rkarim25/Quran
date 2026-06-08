@@ -139,6 +139,17 @@ Allah refined the wine of Paradise from the bad effects of the wine of this worl
 
 4. After that, it was said: عَلَىٰ سُرُ‌رٍ‌ مُّتَقَابِلِينَ (` ala sururim-mutagabilin: facing each other on couches. - 37:44). This is a portrayal of the state in which the people of Jannah will be sitting - no backs against each other. How would that seating arrangement turn out to be in practice? That only Allah knows best. Some commentators say that the circuit of the seating arrangement would be so extensive that no one will need to sit with one's back towards anyone, and Allah Ta’ ala will bless the people of Jannah with such power of sight, audition and speech that they would be able to comfortably converse with people sitting at varying distances. Then, there are some other commentators who have also said that these couches, thrones or settees will be revolving - readily zooming towards whomsoever one wishes to talk to. And Allah knows best.
 
+## AI Translation
+
+A drink of pure wine will be passed around to them from a flowing stream:
+
+## AI Tafsir
+
+**What this ayah teaches:** This is unlike the wine of this world, which causes colic and so on, because it is too watery.
+
+**Classical tafsir:** Ibn Kathir notes: This is unlike the wine of this world, which causes colic and so on, because it is too watery.
+
+**From the Sunnah:** Malik narrated that Zayd bin Aslam said, "White flowing wine," meaning, with a bright, shining color, unlike the wine of this earth with its ugly, repulsive colors of red, black, yellow and turbid shades, and other features which are repugnant to anyone of a s… Paradise, He states that it is free of these characteristics, as mentioned in Surat As-Saffat. (Sahih Muslim)
 ## Personal Reflections
 
 

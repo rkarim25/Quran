@@ -205,6 +205,17 @@ As for angels becoming nervous out of awe referred to in verse 22, its full desc
 
 And it appears in the Sahih of Muslim that Sayyidna Ibn ` Abbas ؓ reports from some Sahabi that the Holy Prophet ﷺ said, 'When our Rabb, may His name be exalted, gives a command, the angels hold in the Divine Throne start reciting tasbih (saying glory) for Him. Hearing the tasbih done by them, angels of the next lower level of the heavens follow suit until this chain of glorification reaches the lowest level that is the firmament of the world (making it a simultaneously recited tasbih by angels from all heavens). Then, they ask the angels who are close to the Throne, 'What did your Lord say?' This they tell them. Then, in the same manner, those of the lower heavens ask those of the upper the same question until this chain of question and answer extends up to the firmament of the world' - excerpt from a long Hadith. (Mazhari)
 
+## AI Translation
+
+Say: "Call upon those you claim as gods besides Allah. They do not own even an atom's weight in the heavens or the earth, nor do they share in governing them, nor is any of them a helper to Him."
+
+## AI Tafsir
+
+**What this ayah teaches:** Then the text clarifies that even angels who are close to Allah cannot intercede for anyone without Allah's permission, and even if they are allowed to intercede, it is not easy for them to do that, because of Allah's awe they' have in their hearts.
+
+**Classical tafsir:** Ibn Kathir notes: So much so that when fear is banished from their hearts, they say: "What is it that your Lord has said?" They say the truth.
+
+**From the Sunnah:** intercede except for him with whom He is pleased. it. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

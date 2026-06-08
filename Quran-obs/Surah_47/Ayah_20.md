@@ -228,6 +228,17 @@ Commentary
 
 أَوْلَىٰ لَهُمْ (So, destruction is very close to them - 47:20] The Arabic word used in the text, according to Asma'i, means that the causes of destruction have approached or drawn near to them (Qurtubi).
 
+## AI Translation
+
+The mu'min say: If only a surah were revealed allowing defence! Yet when a precise surah is revealed in which fighting is mentioned, you see those with sickness in their hearts staring at you like someone on the edge of death. It would have been better for them
+
+## AI Tafsir
+
+**What this ayah teaches:** Here the word Surah has been qualified by the adjective muhkamah so that the eagerness of the believers for a new Surah is understandable only when it embodies an operative divine commandment that is not abrogated.
+
+**Classical tafsir:** Ibn Kathir notes: Here the word Surah has been qualified by the adjective muhkamah so that the eagerness of the believers for a new Surah is understandable only when it embodies an operative divine commandment that is not abrogated.
+
+**From the Sunnah:** Many authentic and sound Hadiths have been reported through numerous routes of transmission from Allah's Messenger in this regard. (Sahih al-Bukhari) from Abu Bakrah, may Allah be pleased with him, that Allah's Messenger ﷺ said: (Musnad Ahmad)
 ## Personal Reflections
 
 

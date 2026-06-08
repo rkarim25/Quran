@@ -133,6 +133,17 @@ Exposing the fraud of the Qadyani imposter
 
 It has already been demonstrated in the Tafsir of Surah Yunus (علیہ السلام) (Ma’ ariful-Qur’ an, English, Volume IV), and it is clear from this verse too, that the reason why the punishment due to visit the people of Sayyidna Yunus (علیہ السلام) was averted was that his people had started believing on time - before it actually materialized. This puts the fraudulent claim of Mirza Ghulam Ahmad Qadiani (the false pretender to prophethood from Qadian located in Punjab, now called Haryana in India) when he had challenged his adversaries that, should they continue to oppose him, it stood decreed that Divine punishment would descend upon them by such and such time. But, quite conversely, the adversaries became stronger and more vocal, yet the punishment never came. At that time, iii order to salvage himself out from the disgrace of failure, the Qadiani imposter started saying that since his adversaries were really scared in their hearts, therefore, this punishment stood removed from them - as it had stood removed from the people of Sayyidna Yunus (علیہ السلام) . But, this verse of the noble Qur'an declares this interpretation to be false and rejected. The reason is that the people of Sayyidna Yunus (علیہ السلام) had stayed safe from the punishment because of their 'iman, belief and faith. Contrary to this was the case of the adversaries of Mirza Ghulam Ahmad of Qadian - not only that they did not believe in him, in fact, their struggle against him gained more strength and momentum.
 
+## AI Translation
+
+who then believed in him, so We allowed them enjoyment for a while.
+
+## AI Tafsir
+
+**What this ayah teaches:** And verily, Yunus was one of the Messengers (139)When he ran to the laden ship (140)Then he (agreed to) cast lots, and he was among the losers (141)Then a (big) fish swallowed him as he had done an act worthy of blame (142)Had he not been of them who glorify Allah (143)He would have indeed remained inside its belly (the fish) till the Day of Resurrection (144)But We cast him forth on the naked sho…
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, narrating from Ash-Sha'bi, "It swallowed him in the morning and cast him forth in the evening." And Allah knows best how long exactly was.
+
+**From the Sunnah:** In the Two Sahihs it is reported that the Messenger of Allah ﷺ said: This is what is indicated in the authentic Hadith which we quote below, if Allah wills. (authentic hadith)
 ## Personal Reflections
 
 

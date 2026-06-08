@@ -159,6 +159,17 @@ At last, things became so bad that the Holy Prophet ﷺ was left with no choice 
 
 Tirmidhi, Nasa’ i, Ibn Majah, Ibn Hibban, Hakim and others have reported on the authority of Sayyidna Ibn ` Abbas ؓ that this is the first verse which permitted the Muslims to offer armed resistance to the infidels, whereas in more than seventy earlier verses armed resistance was forbidden.
 
+## AI Translation
+
+Permission to fight back is hereby granted to those being fought, for they have been wronged. And Allah is truly Most Capable of helping them prevail.
+
+## AI Tafsir
+
+**Context:** Al-'Awfi reported that Ibn 'Abbas said, "This was revealed about Muhammad ﷺ and his Companions, when they were expelled from Makkah." Mujahid, Ad-Dahhak and others among the Salaf, such as Ibn 'Abbas, 'Urwah bin Az-Zubay…
+
+**What this ayah teaches:** Permission (to fight) is given to those (believers) who are fought against, because they have been wronged; and surely, Allah is able to give them victory (39)Those who have been expelled from their homes unjustly only because they said: "Our Lord is Allah." For had it not been that Allah checks one set of people by means of another, Sawami', Biya', Salawat, and Masjids, wherei…
+
+**Classical tafsir:** Ibn Kathir notes: Abu Al-'Aliyah and others said, "Salawat refers to the places of worship of the Sabians." Ibn Abi Najih reported that Mujahid said, "Salawat refers to places of worship of the People of the Book and of the people…
 ## Personal Reflections
 
 

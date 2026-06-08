@@ -74,6 +74,15 @@ The word: خَصِیم (khasim) in verse 4 has been derived from: خُصُومۃ
 
 The word: دِفْءٌ (difun) in verse 5 denotes what provides warmth, that is, wool which is used to make warm clothings. The word: تُرِیحُون (turihun) in verse 6 is a derivation from rawah, and: تَسْرَ‌حُونَ (tasrahun) in the same verse, from saralh. When the cattle are sent to graze, it is called sarah, and when they return home, it is called rawah. The expression: بِشِقِّ الْأَنفُسِ -(shiqqil-anfus) in verse 7 means personal hardship.
 
+## AI Translation
+
+He created the heavens and the earth for a purpose. Exalted is He above what they associate with Him in worship!
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah is the One Who has created the Heavens, the Earth, and Man Allah tells us about His creation of the upper realm, which is the heavens, and the lower realm, which is the earth, and everything in them.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

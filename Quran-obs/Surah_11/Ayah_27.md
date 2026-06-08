@@ -212,6 +212,17 @@ In short, taking poor people to be lowly was ignorance on their part. In reality
 
 Returning to the ignorant thought expressed by the objectors, we see that it has been initially refuted in the third verse (29). It has been said that a prophet does not fancy anyone's wealth or property. He takes no compensation for his service or good counsel to people. His compensation is with Allah alone. Therefore, the rich and the poor are equal in his sight. Let the rich not be scared about their wealth for no one would start asking for it once they become believers.
 
+## AI Translation
+
+The rejecting the truth chiefs of his people said, “We see you only as a human being like ourselves, and we see that no one follows you except the lowliest among us, who do so hastily without thinking. We do not see anything that makes all of you any better than us. In fact, we think you are liars.”
+
+## AI Tafsir
+
+**What this ayah teaches:** No one continues doubtfully pondering the truth (after it is made clear) except one who is ignorant and excessively critical.
+
+**Classical tafsir:** Ibn Kathir notes: For verily, the truth is not to be rejected because of the lowly status of those who follow it.
+
+**From the Sunnah:** Suppose we were to believe, then we understand that we too will be taken as Muslims, like them and equal to them and, in rows of prayers as well as in other meetings, we will have to sit with them as equals.
 ## Personal Reflections
 
 

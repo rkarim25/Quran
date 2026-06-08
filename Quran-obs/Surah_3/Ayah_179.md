@@ -330,6 +330,17 @@ This verse tells us that Allah Almighty does not inform everyone about Unseen ma
 
 ... a part of the news of the Unseen We reveal to you. (11:49)
 
+## AI Translation
+
+Allah would not leave those who have iman in the condition you were in, until He distinguished the good from the evil. Nor would Allah reveal to you the unseen, but He chooses whoever He wills as a messenger. So believe in Allah and His messengers. And if you are faithful and mindful, you will receive a great reward.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Unseen when communicated to anyone is no Knowledge of the Unseen as such This verse tells us that Allah Almighty does not inform everyone about Unseen matters through the medium of revelation (Wahy).
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah refers to Uhud, since Allah tested the believers in that battle, thus making known the faith, endurance, patience, firmness and obedience to Allah and His Messenger ﷺ that the believers had.
+
+**From the Sunnah:** Because the Prophet ﷺ was eager for people's benefit, he would become sad when the those who reject the truth would resort to defiance, rebellion and stubbornness. Allah mentions the money that the miser collected on the Day of Resurrection,
 ## Personal Reflections
 
 

@@ -138,6 +138,17 @@ In short, Maulana Hifzur-Rahman has collected a sufficiently large number of evi
 
 Let us look at the first verse cited above: قُلْ سَأَتْلُو عَلَيْكُم مِّنْهُ ذِكْرً‌ا (I shall now recite to you a narration about him - 83). It prompts us to find out as to why the Holy Qur'an has elected to bypass the possible shorter expression ذِکرَہ dhikrahu (his narrations) at this place and has opted for two words: مِنہُ ذِکراً ('minhu dhikra' ) (some narration about him)? A little reflection would reveal that these two words have been used as indicators. They tell us that the Qur'an has not promised to narrate the entire story of Dhul-Qarnain in its historical setting. Instead, it has stated that it will mention it in part. This is evident from the use of the particle: مِن (min) and the nunnation (tanwin) of 'dhikra' - a distinct feature of Arabic grammar. As for the historical debate relating to the name, lineage and time period of Dhul-Qarnain reported earlier, the Holy Qur’ an has already said in advance that it has skipped it as something unnecessary.
 
+## AI Translation
+
+They ask you about Dhu'l-Qarnayn. Say: I will relate to you something worth remembering.
+
+## AI Tafsir
+
+**What this ayah teaches:** About Dhul-Qarnain, it is a strange coincidence that several men have been famous in the world while bearing the same name.
+
+**Classical tafsir:** Ibn Kathir notes: Some of them said he was called Dhul-Qarnayn (the one with two horns) because he reached the two "Horns" of the sun, east and west, where it rises and where it sets.
+
+**From the Sunnah:** We have already mentioned how the those who reject the truth of Makkah sent word to the People of the Book and asked them for some information with which they could test the Prophet ﷺ. Therefore, neither did the Qur'an take these things up nor were there any details about it described in any authentic Hadith. (authentic hadith)
 ## Personal Reflections
 
 

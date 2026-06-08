@@ -134,6 +134,15 @@ At the beginning of the verse: وَمَا أَنتَ بِمُسْمِعٍ مَّ
 
 This verse has itself clarified it that, at this place, making someone hear means the kind of listening that is going to be useful, effective and beneficial. Otherwise, the effort to make disbelievers listen, in the absolute sense, has remained an exercise in futility since ever. It has even been a matter of common observation that a call was beamed at them, and they did listen to it. Therefore, the verse means that 'the way you cannot bring the dead to the right path by making them hear the Divine Word because they have shifted from the avenue of deeds in the world to the arena of recompense in the Hereafter where, even if they confess to their faith, it will not be deemed as trustworthy, similar to that is the condition of the disbelievers. This proves that the negation of making the ( dead hear referred to in this verse means a particular listening that is beneficial, something because of which the listener forsakes the false and takes to the true. From this presentation, it becomes clear that the present verse has nothing to do with the issue of the ability of the dead to hear. Whether or not the dead hear the living is a different issue in its own place. A detailed discussion about it has appeared in the commentary on Surah Ar-Rum and Surah An-Naml (Ma’ ariful-Qur’ an, Volume VI).
 
+## AI Translation
+
+If they deny you, so did those before them. Their messengers came with clear proofs, divine Books, and enlightening Scriptures.
+
+## AI Tafsir
+
+**What this ayah teaches:** Their Messengers came to them with clear signs, and with the Scriptures, and with the Book giving light (25)Then I took hold of those who disbelieved, and how terrible was My denial . Their Messengers came to them with clear signs,) means, clear miracles and definitive proofs.
+
+**Classical tafsir:** Ibn Kathir notes: This proves that the negation of making the ( dead hear referred to in this verse means a particular listening that is beneficial, something because of which the listener forsakes the false and takes to the true.
 ## Personal Reflections
 
 

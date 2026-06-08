@@ -194,6 +194,19 @@ Maulana Ashraf ` Ali Thanavi (رح) has, in his "Bayan al-Qur'an", warned agains
 
 That should leave no room for any doubt. Moreover, the "heart" perceives words as much as it does meanings; in fact, the perceiving agent is the "heart", while the ears etc. are only its instruments. Specially, in the state of revelation, the external organs of the senses become dormant, and the heart receives even the words directly without the intervention of the ears. Although we cannot understand the nature of revelation properly, yet, choosing a mundane analogy, one can say that while dreaming in our sleep we do hear words and remember them afterwards, in spite of our external sense of hearing having been suspended while we dreamt. This example should make it easy to see that the revelation of meanings to the heart does in no way preclude the revelation of words as well. Anyhow, it is a sin - and an intellectual dishonesty - to rely on one's own conjectures in defiance of a clear and definite statement in the Holy Qur'an.
 
+## AI Translation
+
+Say, "Whoever is an enemy of Gabriel should know that he brought this Quran to your heart by Allah's permission, confirming what came before — a guide and good news for the mu'min."
+
+## AI Tafsir
+
+**Context:** Imam Abu Ja'far bin Jarir At-Tabari said, "The scholars of Tafsir agree that this Ayah (2: 97-98) was revealed in response to the Jews who claimed that Jibril (Gabriel) is an enemy of the Jews and that Mika'il (Michael)…
+
+**What this ayah teaches:** Further, whoever believes in one messenger, is required to believe in all of the messengers.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ikrimah said, "Jibr, Mik and Israf all mean, worshipper, while il means, Allah". Some people say that 'il' means worshipper while whatever word that is added to it becomes Allah's Name, because 'il' is a constant in such conjunction.
+
+**From the Sunnah:** Jibril has just told me the answers. (What do you think if he would embrace Islam?) The Jews said, 'May Allah save him from it. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

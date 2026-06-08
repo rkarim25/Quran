@@ -130,6 +130,15 @@ It has been said, "They were hoping for something better in exchange in this lif
 
 فَلَمَّا رَ‌أَوْهَا قَالُوا إِنَّا لَضَالُّونَ (But when they saw it [ the place of the ruined garden ], they said, "We have missed the way."....68:26). In other words, when they did not find their garden on that spot, they first thought that they must have lost their way and gone to the wrong place. But when they saw the surroundings, they realized that it was the right place they have gone to, but the garden had been burnt up and destroyed. So, they exclaimed: بَلْ نَحْنُ مَحْرُ‌ومُونَ "No, but we are deprived [ of the fruits ]....68:27)
 
+## AI Translation
+
+In fact, we have been deprived of our livelihood.
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, when they did not find their garden on that spot, they first thought that they must have lost their way and gone to the wrong place.
+
+**Classical tafsir:** Ibn Kathir notes: In other words, when they did not find their garden on that spot, they first thought that they must have lost their way and gone to the wrong place.
 ## Personal Reflections
 
 

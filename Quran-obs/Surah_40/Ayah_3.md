@@ -133,6 +133,17 @@ The expression: غَافِرِ‌ الذَّنبِ وَقَابِلِ التَّ
 
 The word: طَول (tawl) which follows immediately in: ذِي الطَّوْلِ (dhit-tawl) literally means vastness and being need-free. Then, it could also mean power or favor. (Mazhari)
 
+## AI Translation
+
+the Forgiver of sin, Accepter of repentance, Severe in punishment, and Infinite in bounty. There is no deity worthy of worship except Him. To Him alone is the final return.
+
+## AI Tafsir
+
+**What this ayah teaches:** La ilaha illa Huwa, to Him is the final return.) We have already discussed the individual letters at the beginning of Surat Al-Baqarah, and there is no need to repeat the discussion here.
+
+**Classical tafsir:** Ibn Kathir notes: The revelation of the Book is from Allah, the Almighty, the All-Knower.)(3.
+
+**From the Sunnah:** In a Hadith recorded by Abu Dawud and At-Tirmidhi from one who heard it from the Messenger of Allah ﷺ, it says: (Jami' at-Tirmidhi, Sunan Abi Dawud)
 ## Personal Reflections
 
 

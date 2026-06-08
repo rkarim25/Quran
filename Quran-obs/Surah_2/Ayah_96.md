@@ -188,6 +188,17 @@ Long life shall not save them from torment. Certainly, the polytheists do not be
 
 This verse shows the basic weakness of the Jews which did not allow them to accept the challenge proposed in Verse 94, and thus exposes the hollowness of their claim to the blessings of the other world being reserved for them. The Holy Qur'an puts a special emphasis on the fact that the Jews loved physical life much more than did the Arab polytheists. Such an inclination should not have been surprising on the part of the latter, for, after all, they did not believe in the other world, and physical life was the be-all and end-all for them. But the Jews acknowledged the existence of the other world, and even had the illusion that they alone deserved its joys, and yet it was they who, above all others, wished to live in this world as long as possible. This very desire shows how baseless their pretention was, and how they themselves knew that they would have to face the fires of Hell in the other world, and that physical life was, as long as it lasted, a kind of protection against their final fate.
 
+## AI Translation
+
+You will find them clinging to life more eagerly than any other people — even more than those who associate partners with Allah. Each of them wishes to live a thousand years, but even that would not save them from punishment. Allah sees everything they do.
+
+## AI Tafsir
+
+**What this ayah teaches:** Also, the Mubahalah involves invoking Allah for death of the unjust group, because to those who reject the truth, life is the biggest prize, especially when they know the evil destination they will meet after death.
+
+**Classical tafsir:** Ibn Kathir notes: So they claimed that they are Allah's sons and loved ones and said, "Only those who are Christian or Jews shall enter Paradise." Therefore, they were called to invoke Allah to destroy the lying group, be it them or the Muslims.
+
+**From the Sunnah:** So they claimed that they are Allah's sons and loved ones and said, "Only those who are Christian or Jews shall enter Paradise." Therefore, they were called to invoke Allah to destroy the lying group, be it them or the Muslims.
 ## Personal Reflections
 
 

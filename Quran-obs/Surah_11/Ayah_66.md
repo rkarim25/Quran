@@ -92,6 +92,15 @@ Verily, your Lord – He is the All-Strong, the All-Mighty (66)And As-Sayhah (aw
 
 In verse 65, it was said: تَمَتَّعُوا فِي دَارِ‌كُمْ ثَلَاثَةَ أَيَّامٍ "Enjoy yourselves in your homes for three days [ only ]." That is, when these people killed the she-camel associated with the miracle in flagrant contravention of the Di-vine command, then, something serious happened. As warned earlier, ` lest a near punishment should seize you - 64', the punishment did come upon them in a manner that they were given a respite of three days and told that they all will be destroyed on the fourth day.
 
+## AI Translation
+
+When Our command came, We saved Ṣâliḥ and those who believed with him by a mercy from Us and spared them the disgrace of that Day. Surely your Rabb alone is the All-Powerful, Almighty.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, your Lord – He is the All-Strong, the All-Mighty (66)And As-Sayhah (awful cry) overtook the wrongdoers, so they lay (dead), prostrate in their homes (67)As if they had never lived there.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

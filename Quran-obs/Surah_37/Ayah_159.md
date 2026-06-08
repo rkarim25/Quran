@@ -120,6 +120,17 @@ For this reason, another Tafsir that has been reported from Sayyidna Ibn ` Abbas
 
 Immediately next within verse 158 it was said: وَلَقَدْ عَلِمَتِ الْجِنَّةُ إِنَّهُمْ لَمُحْضَرُ‌ونَ 158) ', while the Jinns already know that they are bound to appear (before Him).' Here, 'they' could be referring to the kinds of Mushriks who took Jinns and Shaitans as equals of God, meaning thereby that the Jinns know that these Mushriks will appear before Allah Ta’ ala for being punished, and could also refer to the Jinns themselves. In this situation, the sense of the verse would come to be that 'the Shaitans and Jinns you have taken to be associated with Allah in one or the other form already know very well that they are going to face a terrible fate in the Hereafter. For example, Iblis is perfectly aware of his evil end. Now, someone who himself believes that he has to taste his punishment could hardly be the equal of God and taking him to be so would certainly be a gross lack of good sense.
 
+## AI Translation
+
+Glorified is Allah far above what they claim!
+
+## AI Tafsir
+
+**Context:** (Except the servants of Allah, whom He chooses.) The pronoun in the verb translated as "they attribute" refers to all of mankind, then He excludes those whom He chooses, who are the ones who follow the truth revealed to…
+
+**What this ayah teaches:** How do you decide (154)Will you not then remember (155)Or is there for you a plain authority (156)Then bring your Book if you are truthful (157)And they have invented a kinship between Him and the Jinn, but the Jinn know well that they have indeed to appear (before Him)(158)Glorified be Allah!
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

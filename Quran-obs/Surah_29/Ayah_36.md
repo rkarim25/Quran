@@ -107,6 +107,15 @@ Commentary
 
 Out of the three sins mentioned in this verse the first one is most disgusting, which was never committed before in the whole world, and even wild beasts abstain from it. The entire ummah is unanimous on that it is a worse sin than adultery. (Ruh)
 
+## AI Translation
+
+To Midian We sent their brother Shu'ayb. He said: O my people, worship Allah and hope for the Last Day. Do not spread corruption in the land.
+
+## AI Tafsir
+
+**What this ayah teaches:** They used to cheat in weights and measures, and ambush people on the road; this is in addition to their disbelief in Allah and His Messenger.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

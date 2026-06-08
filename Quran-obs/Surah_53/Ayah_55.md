@@ -130,6 +130,15 @@ Allah the Exalted said,
 
 فَبِأَيِّ آلَاءِ رَ‌بِّكَ تَتَمَارَ‌ىٰ (Then, which of your Lord's bounties would you dispute?....53:55). Tamara means to dispute and oppose. According to Ibn ` Abbas ؓ ، the verse is addressed to every human being. After seeing so many and so clear and invincible arguments in the preceding verses and the Signs in the scriptures of Musa and Ibrahim (علیہما السلام) that support and substantiate the claims of the Holy Prophet Muhammad ﷺ about the truth of his revelation, the verse says to the obstinate disbelievers: How long will you continue to deny the truth and wander in the wilderness of disbelief? The verse further makes it abundantly clear for those who think and deliberate that there should be no room for any doubt in the Messenger of Allah ﷺ ، his revelation and his teachings. Having heard about the stories of destruction and punishment of past nations, this is an opportune occasion for them to straighten out. This well-timed occasion is a favour of Allah. They should take advantage of it instead of fighting and opposing it.
 
+## AI Translation
+
+So which of your Rabb's favours will you dispute?
+
+## AI Tafsir
+
+**What this ayah teaches:** And that to your Lord is the End (42)And that it is He Who makes laugh, and makes weep (43)And that it is He Who causes death and gives life (44)And that He creates the pairs, male and female (45)From Nutfah when it is emitted (46)And that upon Him is another bringing forth (Resurrection)(47)And that it is He Who Aghna and Aqna (48)And that He is the Lord of Ash-Shi'ra (49)And…
+
+**Classical tafsir:** Ibn Kathir notes: This means they are able to use it to their benefit, is this out of the completeness of His favor.
 ## Personal Reflections
 
 

@@ -84,6 +84,15 @@ Commentary
 
 اَلحَمدُ للہ Today on Shawwal 24, 1391 Hijrah the commentary of Surah An-Naml is complete. The Indian army has unleashed full-scale war against Pakistan since Shawwal 14, and its aeroplanes are pounding Karachi heavily. Bombs are being dropped regularly every night on civil population as well. There is a complete blackout at nights. The houses get jolted with the explosion of the bombs. But by the grace of Allah there was no break in the writing of this commentary. During the last ten days of war twenty pages of the commentary were written.
 
+## AI Translation
+
+Ta-Sin-Mim — opening letters whose full meaning rests with Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** So Fir'awn took precautions against that happening, by ordering that all boys born to the Children of Israel should be killed, but this precaution did not protect him against the divine decree, because when the term of Allah comes, it cannot be delayed, and for each and every matter there is a decree from Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Word Haram is derived from Tahrim, which means "to prohibit" and also means "complete respect and veneration", and because of this respect and veneration whatever special religious prohibitions are applicable to Makkah and its surrounding land are also included in it.
 ## Personal Reflections
 
 

@@ -158,6 +158,17 @@ Invitation to sin is also a sin, the punishment of which is the same as that of 
 
 It comes out quite clearly from this verse that the one who invites others to sin, or helps others in committing it, is as much a criminal as the one who actually commits it. A hadith quoted by Sayyidna Abu Hurairah ؓ and Anas Ibn Malik ؓ relates that once the Holy Prophet ﷺ said ` Anyone inviting people toward righteousness would be entitled to the collective blessings of all those who would act on his advice, without any reduction from the share of their reward; and anyone inviting people toward sin will also suffer the collective punishment of all those who would act upon his invitation to sin, without any reduction from the punishment of those who have committed that sin'. (Muslim, Ibn Majah, Qurtubi)
 
+## AI Translation
+
+Those who reject the truth tell believers: Follow our way and we will carry your sins. They would never carry any of believers' sins. They lie.
+
+## AI Tafsir
+
+**What this ayah teaches:** And those who disbelieve say to those who believe: "Follow our way and let us bear your sins." Never will they bear anything of their sins.
+
+**Classical tafsir:** Ibn Kathir notes: Because it is against the code of justice that someone else is made to undergo the punishment for the crime committed by another person.
+
+**From the Sunnah:** the Messenger of Allah ﷺ conveyed the Message with which he was sent, then he said: The infidels had tried all sorts of devices to mislead the Muslims and to hinder the progress of their faith.
 ## Personal Reflections
 
 

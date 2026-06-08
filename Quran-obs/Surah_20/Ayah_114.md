@@ -137,6 +137,19 @@ It is confirmed in the Sahih on the authority of Ibn 'Abbas, who said that the M
 
 وَلَا تَعْجَلْ بِالْقُرْ‌آنِ مِن قَبْلِ أَن يُقْضَىٰ إِلَيْكَ وَحْيُهُ (And do not hasten with (reciting) the Qur'an before its revelation is concluded - 20: 114.) It has been stated in Sahih Hadith on the authority of Sayyidna Ibn ` Abbas ؓ that in the early days of revelation when angel Jibra'il (علیہ السلام) brought a Qur’ anic verse and recited it to the Holy Prophet ﷺ ، the latter would try to repeat it after him, lest it escapes from his memory. He had, thus, to make a double effort, i.e. to listen to and understand the meaning of the Qur'anic verses while they were being recited by Jibra'il (علیہ السلام) and also to repeat them in order to commit them to memory. In this verse as well as in the verse لَا تُحَرِّ‌كْ بِهِ لِسَانَكَ occurring in Surah قِیَامۃ (75:16) Allah lightened this burden from the Holy Prophet ﷺ by assuring him that he need not worry himself about memorizing the Qur'anic verses which were revealed to him because He (Allah) would make it possible for him to remember them without any effort on his part. All that he was directed to do was that he should keep praying, رَّ‌بِّ زِدْنِي عِلْمًا (My Lord, improve me in knowledge). This comprehensive prayer includes a plea for memorizing that portion of the Qur'an which had already been revealed to him and a desire for what remained of it and for the ability to understand its true meaning.
 
+## AI Translation
+
+Exalted is Allah, the True King! Do not rush to recite a revelation of the Quran O Prophet before it is properly conveyed to you, and pray, “My Rabb! Increase me in knowledge.”
+
+## AI Tafsir
+
+**Context:** وَلَا تَعْجَلْ بِالْقُرْ‌آنِ مِن قَبْلِ أَن يُقْضَىٰ إِلَيْكَ وَحْيُهُ (And do not hasten with (reciting) the Qur'an before its revelation is concluded - 20: 114.) It has been stated in Sahih Hadith on the authority of S…
+
+**What this ayah teaches:** Likewise, His threat is true, His Messengers are true, the Paradise is true, the Hellfire is true and everything from Him is true.
+
+**Classical tafsir:** Ibn Kathir notes: The Qur'an was revealed so that the People would have Taqwa and reflect After Allah, the Exalted, mentions that on the Day of Judgement both the good and the evil will be recompensed and there is no avoiding it, He then explains that the Qur'an was revealed as a bringer of glad t…
+
+**From the Sunnah:** the Messenger of Allah ﷺ used to go through great pains to retain the revelation.
 ## Personal Reflections
 
 

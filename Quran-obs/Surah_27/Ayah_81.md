@@ -145,6 +145,17 @@ This verse corroborates that even after death some intellect and perception may 
 
 This also proves that when a person visits the grave of a Muslim brother and offers him his salam, the dead listens to his salam and answers back. It happens like this that Allah Ta` ala returns the spirit of the dead back to this world momentarily. It confirms two points. One, that dead can hear, and second, that their hearing and our causing them to hear is not in our control, but is dependent entirely on Allah's will. Whenever He wills, they can hear and whenever He does not will, they do not hear. The above referred hadtth has made it clear that Allah Ta` ala is gracious to let the dead hear the salam of a Muslim brother, and also grants him privilege to answer back. But for any other situation or utterance it is not known whether the dead can hear or not. The research carried out by Imam Ghazzali and Allamah Subki also corroborates that it is established by this Qur'anic verse and Sahih ahadtth that under certain conditions the dead do hear the utterance of the living, but it is not known whether every dead person hears the utterance at all times of all those who are living. This also makes the Qur'anic verse and narrations on the subject comparable. It is quite possible that the dead could hear the utterance of the living at certain times and could not hear at others. This is also possible that they may hear the utterance of some and do not hear of others. Yet there is another possibility that some dead could hear and others could not. It is also established by the verses of Surahs An-Naml, Ar-Rum and Fatir that it is not under the control of human beings to cause the dead to hear; rather it rests with Allah alone to make them hear whenever He wills. Therefore, where it is established by the Sahih ahadith that the dead did hear, we should believe it; and where it is not established, both the situations are possible . Hence, we should neither accept nor deny it. For further details of the subject, my treatise on the subject may be consulted. This treatise is in Arabic and is included in Ahkam-ul-Qur'an.
 
+## AI Translation
+
+Nor can you lead the blind out of their misguidance. You can make none hear the truth except those who believe in Our revelations, fully submitting to Allah.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, where it is established by the Sahih ahadith that the dead did hear, we should believe it; and where it is not established, both the situations are possible .
+
+**Classical tafsir:** Ibn Kathir notes: It is therefore, quite clear that here causing to hear means the under-standing which is beneficial.
+
+**From the Sunnah:** You can only make to hear those who believe in Our Ayat, so they submit (became Muslims). ` When a person passes by the grave of a Muslim brother whom he knew when he was alive and he offers salam to him, Allah Ta` ala returns his spirit into his body, so that he may return the salam'. (Sahih Muslim)
 ## Personal Reflections
 
 

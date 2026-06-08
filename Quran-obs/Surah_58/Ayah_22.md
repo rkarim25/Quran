@@ -353,6 +353,19 @@ Surah A1-Mujadalah
 
 Ends here.
 
+## AI Translation
+
+You will never find people who truly believe in Allah and the Last Day loyal to those who defy Allah and His Messenger—not even if those opponents are their parents, children, siblings, or wider family. For such believers Allah has instilled iman in their hearts and strengthened them with a spirit from Him. He will admit them to Gardens under which rivers flow, to remain forever. Allah is pleased with them and they with Him. They are the party of Allah—and Allah's party is the one that succeeds.
+
+## AI Tafsir
+
+**Context:** (You will not find any people who believe in Allah and the Last Day...) was revealed in the case of Abu 'Ubaydah 'Amir bin 'Abdullah bin Al-Jarrah when he killed his disbelieving father, during the battle of Badr.
+
+**What this ayah teaches:** This verse describes the condition of sincere believers who would not take an enemy of Faith, the opponents of Allah, for intimacy and friendship, even though such people are their own fathers, children, brothers or any other blood relatives.
+
+**Classical tafsir:** Ibn Kathir notes: Verily, the party of Allah will be the successful.) indicates that they are the party of Allah, meaning, His servants who are worthy of earning His honor.
+
+**From the Sunnah:** A similar matter is when Allah's Messenger ﷺ consulted with his Companions about what should be done with the captives of Badr.
 ## Personal Reflections
 
 

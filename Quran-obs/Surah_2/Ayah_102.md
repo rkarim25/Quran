@@ -633,6 +633,17 @@ A doctrinal point
 
 Verse 102 says: "They could not thus do any harm to anyone, except with the permission of Allah". This shows that causes in themselves and by themselves cannot produce the effects one usually associates with them, and it is Allah who creates the effects as much as the causes. (Bayan al-Qur'an)
 
+## AI Translation
+
+They followed what devils recited during Solomon's reign. Solomon did not reject the truth — the devils did. They taught people magic and what was revealed to the two angels Harut and Marut in Babylon. The angels never taught anyone without saying, "We are only a test — do not abandon your faith." Yet people learned what harmed them and did not benefit them, though they knew that whoever buys into magic has no share in the Akhirah. Miserable was the price for which they sold their souls, if only they knew.
+
+## AI Tafsir
+
+**Context:** (And indeed We have sent down to you manifest Ayat) means, "We have sent to you, O Muhammad, clear signs that testify to your prophethood." These Ayat are contained in the Book of Allah (Qur'an) which narrates the secret…
+
+**What this ayah teaches:** Where the causes are evident, the effects are immediately referred back to them, and the events thus produced are not considered to be astonishing, but where the causes are hidden or obscure, the events produced by them arouse wonder and amazement, and those who are ignorant of the causes readily come to believe that the things have happened in contravention of the habitual law…
+
+**Classical tafsir:** Ibn Kathir notes: What should I do?" Al-Hasan Al-Basri said that this Ayah means, "The angels were sent with magic, so that the people whom Allah willed would be tried and tested.
 ## Personal Reflections
 
 

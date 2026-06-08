@@ -212,6 +212,17 @@ Taking Musa as an Example
 
 أُولَـٰئِكَ يُنَادَوْنَ مِن مَّكَانٍ بَعِيدٍ (Such people are being called from a distant place. - 44) This is a similitude. A person who understands what is being said, the Arabs say to him, اَنتَ تسمَعُ مِن قَرِیب (you are listening from a near place) and if a person does not understand the discourse, they say to him اَنتَ تُنَادٰی مِن بَعِید (you are being called from a distant place) (Qurtubi). The meaning is that since these people do not intend to listen and to understand the directions of the Qur'an, their ears are almost deaf and their eyes are blind, therefore teaching them the Qur'anic guidance is like calling someone from such a distant place that the voice does not reach his ears.
 
+## AI Translation
+
+Had We revealed it as a non-Arabic Quran, they would have argued, "If only its verses were made clear in our language. What—a non-Arabic revelation for an Arab audience!" Say: "It is a guide and a healing to the believers. As for those who reject the truth, there is deafness in their ears and blindness in their hearts. It is as if they are being called from a faraway place."
+
+## AI Tafsir
+
+**Context:** (And if We had revealed it unto any of the non-Arabs, and he had recited it unto them, they would not have believed in it.)(26:198-199).
+
+**What this ayah teaches:** Not in Arabic nor an Arab?" Say: "It is for those who believe, a guide and a cure.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore ` ajamiyy is a person who is non-Arab, even though he may speak eloquently, and a'jamiyy is a person who cannot speak eloquently (Qurtubi).
 ## Personal Reflections
 
 

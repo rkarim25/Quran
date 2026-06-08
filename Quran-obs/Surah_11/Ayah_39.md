@@ -112,6 +112,17 @@ Allah, the Exalted, sent revelation to Nuh when his people hastened the vengeanc
 
 In the third verse (38), mentioned there is the total lack of concern for their sad end shown by the people of Sayyidna Nuh (علیہ السلام) during the period he was making the ark. When the chieftains of his people saw him busy with his project under a Divine command, they would ask him, ` what are you doing?' He said, ` a flood is to come, therefore, I am making an ark.' They would mock at him and say, ` we have no water to drink here and this wise man is planning to sail in a boat on this dry land.' In response, Sayyidna Nuh told them, ` if you mock at us today, then remember the day is sure to come when we shall be laughing at you.' The sense is that conditions would change and events would unfold in a manner that they themselves would become the cause of their being mocked at. For, in reality, ridicule is contrary to the spiritual station of prophets. It is simply not permissible for any-one in fact, it is Haram (unlawful). Says the Holy Qur'an: لَا يَسْخَرْ‌ قَوْمٌ مِّن قَوْمٍ عَسَىٰ أَن يَكُونُوا خَيْرً‌ا مِّنْهُمْ ( O those who have believed, no people should mock at [ other ] people - may be, they are better than them - 49:11) Therefore, the mocking referred to here is a pragmatic response to their mockery. This is like saying, ` when you are seized by the punishment, we shall be telling you that this was the outcome of your mockery.' This is as it was said after that in the fourth verse (39): ` So, you shall soon know to whom will come the punishment that will humble him, and upon whom will befall the lasting punishment.' The first punishment refers to the punishment in the mortal world, and the ` lasting punishment' means the never-ending punishment of the Hereafter.
 
+## AI Translation
+
+You will soon come to know who will be visited by a humiliating torment in this life and overwhelmed by an everlasting punishment in the next.”
+
+## AI Tafsir
+
+**Context:** And it was revealed to Nuh: "None of your people will believe except those who have believed already. So be not sad because of what they used to do (36)"And construct the ship under Our Eyes and with Our revelation, and…
+
+**What this ayah teaches:** This is like saying, ` when you are seized by the punishment, we shall be telling you that this was the outcome of your mockery.' This is as it was said after that in the fourth verse (39): ` So, you shall soon know to whom will come the punishment that will humble him, and upon whom will befall the lasting punishment.' The first punishment refers to the punishment in the mortal world, and the ` l…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

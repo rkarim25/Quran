@@ -186,6 +186,17 @@ and such people will be immune on that day from any panic -27:89.
 
 Word Faza' is purported here for any big calamity or perplexity. Thus the meaning of the sentence is that, while living in this world, every pious person is scared of his fate in the Hereafter, and as a matter of fact, he should be scared in the light of Qur'anic verse إِنَّ عَذَابَ رَ‌بِّهِمْ غَيْرُ‌ مَأْمُونٍ (70:28). The torment of Allah is not something to be forgotten and set aside. It is for this reason that even the prophets, the companions, and saints were always frightened and daunted. But after the account taking on Doomsday those who would bring the hasanah (the good deed contemplated in this verse) with them would be free from all fear and grief, and will live forever in complete tranquility. (Only Allah knows best)
 
+## AI Translation
+
+And whoever comes with an evil deed will be hurled face-first into the Fire. Are you rewarded except for what you used to do?
+
+## AI Tafsir
+
+**What this ayah teaches:** The work of Allah, Who perfected all things, verily, He is well-acquainted with what you do (88)Whoever brings a good deed, will have better than its worth; and they will be safe from the terror on that Day (89)And whoever brings an evil deed, they will be cast down on their faces in the Fire.
+
+**Classical tafsir:** Ibn Kathir notes: Some have interpreted that the word "better" means here that the reward of one good deed would be awarded from ten times to seven hundred times more.
+
+**From the Sunnah:** after a little while, you will see a major event which will destroy the House [the Ka'bah], and such and such will happen." Then he said, "The Messenger of Allah ﷺ said: (Sahih Muslim)
 ## Personal Reflections
 
 

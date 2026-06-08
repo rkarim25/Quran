@@ -136,6 +136,17 @@ Allah jalla thana'uh granted the prayer of His 'friend.' His children remained p
 
 Sayyidna Ibrahim (علیہ السلام) . Idol-worship was very much present with them. Tafsir Al-Bahr Al-Muhit answers it on the authority of Sufyan ibn ` Uyaiynah that no one from among the progeny of Sayyidna Ismail (علیہ السلام) did really take to idol-worship. In fact, when people of the tribe of Jurhum took over Makkah and expelled the children of Sayyidna Ismail (علیہ السلام) from the حَرَم Haram, they carried away with them some stones from there out of love and respect for the sacred place. These they used to keep as a momento of the sacred House of Allah before them when they worshipped or went round them making Tawaf. Initially, in doing so, they had no desire to turn back from Allah. They thought that the way making prayers turning towards Baytullah or making Tawaf round it was nothing but devoting to the worship of Allah, so when they turn to that stone from there and make their Tawaf round it, that would not be counter to the worship of Allah. After a passage of time, this very method became the cause of idol-worship.
 
+## AI Translation
+
+Recall when Abraham prayed: "My Rabb, make this city secure, and keep me and my children away from worship of idols.
+
+## AI Tafsir
+
+**What this ayah teaches:** The second prayer made by him was: 'and keep me and my children away from worshiping idols.' Though, prophets on whom be peace are protected by Allah, so Shirk, idol-worship, or a sin cannot issue forth from them.
+
+**Classical tafsir:** Ibn Kathir notes: Ibrahim next mentioned that many among mankind were led astray because of idols, and he disowned those who worship them and referred their matter to Allah; if Allah wills, He will punish them, and if He wills, He will forgive them.
+
+**From the Sunnah:** 'Abdullah bin 'Amr narrated that the Messenger of Allah ﷺ recited Ibrahim's supplication, Allah said to the angel Jibril, "O Jibril, go to Muhammad, and Your Lord has more knowledge, and ask him what makes him cry." Jibril came to the Prophet ﷺ and asked him, and he repeated to him what he said (in his supplication).
 ## Personal Reflections
 
 

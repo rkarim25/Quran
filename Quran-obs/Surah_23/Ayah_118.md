@@ -73,6 +73,15 @@ Here Allah is teaching us to recite this supplication, for forgiveness, in a gen
 
 Surah Al-Mu'minun began with the verse قَدْ أَفْلَحَ الْمُؤْمِنُونَ (Success is really attained by the believers - 23:1) and ends withإِنَّهُ لَا يُفْلِحُ الْكَافِرُ‌ونَ (Surely, the infidels will not achieve success - 23:117) which shows that success will come to believers only and that the unbelievers will have no share of it.
 
+## AI Translation
+
+Say, O Prophet, “My Rabb! Forgive and have mercy, for You are the best of those who show mercy.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Here the object of the forgiveness and having mercy has not been mentioned. What is there to be forgiven and to whom is mercy to be shown?
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

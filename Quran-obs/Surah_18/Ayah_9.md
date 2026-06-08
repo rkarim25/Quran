@@ -152,6 +152,15 @@ Events relating to hiding in caves to protect faith have been many and widesprea
 
 One major reason for differences existing among historians lies in the great importance attached to monasticism by adherents to the faith brought by Sayyidna ` Isa (علیہ السلام) . As a result, there were several instances spread around different regions and countries of the world where some people took shelter in caves to devote themselves to the worship of Allah Ta’ ala living there for the rest of their lives. Now, where so ever some such event has occurred, it was not so far out for a historian to suspect it to be that of the People of Kahf.
 
+## AI Translation
+
+Have you O Prophet thought that the people of the cave and the plaque were the only wonders of Our signs?
+
+## AI Tafsir
+
+**What this ayah teaches:** Qatadah, ` Atiyyah, ` Awfi and Mujhid have said that Raqim is the name of the valley adjoining the mountain in which the hollow cavern of the People of Kahf was located.
+
+**Classical tafsir:** Ibn Kathir notes: Ad-Dahhak said: "As for Al-Kahf, it is a cave in the valley, and Ar-Raqim is the name of the valley." Mujahid said, "Ar-Raqim refers to their buildings." Others said it refers to the valley in which their cave was.
 ## Personal Reflections
 
 

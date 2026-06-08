@@ -188,6 +188,19 @@ Respect for Islamic Scholars and Religious Leaders
 
 Some of the scholars have ruled that Muslims should observe the same rule in respect of Islamic scholars and spiritual masters as enjoined by the Qur'an, because they are the heirs of the Holy Prophet's ﷺ .One day the Holy Prophet ﷺ saw Sayyidna Abud-Darda' ؓ walking in front of Sayyidna Abu Bakr ؓ ، he reprimanded him saying: "you are walking in front of a person who is better than you in this world and in the hereafter". Then he added: "The Sun did not rise or set on any man better than Abu Bakr ؓ in the world besides the Prophets (علیہم السلام) . (Ruh-u1-Bayan on the authority of Kashf-ul-Asrar). Therefore, scholars have ruled that teachers and spiritual guides should be treated with similar respect.
 
+## AI Translation
+
+O you who have iman: Do not put yourselves ahead of Allah and His Messenger. Have taqwa of Allah. Allah hears and knows everything.
+
+## AI Tafsir
+
+**Context:** (O you who believe! Raise not your voices above the voice of the Prophet,) This contains another kind of favorable behavior.
+
+**What this ayah teaches:** Make not (a decision) in advance before Allah and His Messenger,) meaning, do not rush in making decisions before him, rather, follow his lead in all matters. Therefore, scholars have ruled that teachers and spiritual guides should be treated with similar respect.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, scholars have ruled that teachers and spiritual guides should be treated with similar respect.
+
+**From the Sunnah:** Verily, those who lower their voices in the presence of Allah's Messenger, they are the ones whose hearts Allah has tested for Taqwa. Allah the Exalted is teaching the believers that they should not raise their voices above the voice of the Prophet ﷺ.
 ## Personal Reflections
 
 

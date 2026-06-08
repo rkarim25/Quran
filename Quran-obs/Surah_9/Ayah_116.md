@@ -121,6 +121,15 @@ Imam al-Qurtubi said, ` this proves that it is permissible to pray for the forgi
 
 In the last sentence of the verse (114), it was said: إِنَّ ِبْرَ‌اهِيمَ حَلِيمٌ (Surely, Ibrahim is oft sighing [ before Allah ], forbearing). The word: اوَّاه awwah) is used for a host of meanings. Al-Qurtubi has reported fifteen meanings of this word but they are all close to each other without any real difference between them. Some of these are: one who sighs a lot, or one who supplicates profusely, or one who is full of mercy for the servants of Allah. This (last) meaning is reported from Sayyidna ` Abdullah ibn Masud ؓ .
 
+## AI Translation
+
+Indeed, to Allah belongs the kingdom of the heavens and the earth. He gives life and causes death. And besides Allah you have no guardian or helper.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, Allah is the All-Knower of everything (115)Indeed to Allah belongs the dominion of the heavens and the earth, He gives life and He causes death. Recompense comes after Proof is established Allah describes His Honorable Self and just judgment in that He does not lead a people astray but after the Message comes to them, so that the proof is established against them.
+
+**Classical tafsir:** Ibn Kathir notes: Recompense comes after Proof is established Allah describes His Honorable Self and just judgment in that He does not lead a people astray but after the Message comes to them, so that the proof is established against them.
 ## Personal Reflections
 
 

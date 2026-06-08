@@ -92,6 +92,17 @@ Allah tells us that another sign of His great power and dominion is the fact tha
 
 It is proved from some narrations of Hadith, as reproduced by Hakim in Mustadrak and by Baghawi on the authority of Sayyidna ` Ali ؓ that those sins for which punishment is given in this world are forgiven for Muslims in the Hereafter. (Mazhari)
 
+## AI Translation
+
+so those who dispute about Our signs may know that they have no refuge.
+
+## AI Tafsir
+
+**Context:** وَمَا أَصَابَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُو عَن كَثِيرٍ‌ (And whatever hardship befalls you is because of what your own hands have committed, while He overlooks many [ of your faults ]....
+
+**What this ayah teaches:** And He pardons much (34)And those who dispute as regards Our Ayat may know that there is no place of refuge for them .
+
+**Classical tafsir:** Ibn Kathir notes: Verily, in this are signs for everyone patient and grateful (33)Or He may destroy them because of that which their (people) have earned.
 ## Personal Reflections
 
 

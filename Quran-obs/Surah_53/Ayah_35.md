@@ -157,6 +157,17 @@ Then Allah will remind you of your actions and recompense you for them in the be
 
 And whatever thing you spend, He replaces it. And He is the best of the sustainers. [ 34:39]
 
+## AI Translation
+
+Does he possess knowledge of the unseen so that he sees?
+
+## AI Tafsir
+
+**Context:** Allah the Exalted explained what He has revealed in the Scripture of Ibrahim and Musa, أَعِندَهُ عِلْمُ الْغَيْبِ فَهُوَ يَرَ‌ىٰ (Does he have knowledge of the Unseen whereby he sees [ what he believes ]?...53:35) Accord…
+
+**What this ayah teaches:** Does he have the knowledge of the Unseen, so that he is able to see that the chastisement he deserves for disbelief will be taken over for sure by his friend?
+
+**Classical tafsir:** Ibn Kathir notes: Such a person has stopped giving in charity for righteous causes and did not keep relations with kith and kin because of his miserliness, being stingy and out of fear of poverty.
 ## Personal Reflections
 
 

@@ -140,6 +140,17 @@ Imam al-Qurtubi (رح) has said that Hadith reports relating to such matters abo
 
 After all these reports, why should it remain so far out to realize that everything in the heavens and the earth has consciousness and sense and that everything really glorifies Allah. Ibrahim (رح) says that this tasbih is universal. It includes the animate and the inanimate both. So much so that the least sound made by the panels of doors are not devoid of tasbih. Imam al-Qurtubi has said, 'If this glorification of Allah was a state-articulated tasbih, why was it made so particular to Sayyidna Dawud (علیہ السلام) in the verse referred to a little earlier? A state-articulated tasbih is something every discerning human being can sense out from everything. This makes it obvious that this tasbih was spoken, verbally and audibly.
 
+## AI Translation
+
+When you O Prophet recite the Quran, We put a hidden barrier between you and those who do not believe in the Akhirah.
+
+## AI Tafsir
+
+**What this ayah teaches:** And when you recite the Qur'an, We put between you and those who believe not in the Hereafter, an invisible veil (45)And We have put Akinnah over their hearts, lest they should understand it, and in their ears deafness.
+
+**Classical tafsir:** Ibn Kathir notes: Iblis and his troops hated it, but Allah insisted on supporting it so that it would prevail over those who opposed it.
+
+**From the Sunnah:** She came and found Abu Bakr, but she did not see the Prophet ﷺ. Only the Muslims of the Arabian Peninsula, which can be traversed by a rider in a few nights, knew it and accepted it, out of all mankind.
 ## Personal Reflections
 
 

@@ -146,6 +146,17 @@ Rates of Zakah are Specified by Allah
 
 وَالَّذِينَ فِي أَمْوَالِهِمْ حَقٌّ مَّعْلُومٌ (and those in whose riches there is a specified right...70:24). This verse shows that the quantifications of Zakah have been fixed by Allah. The details are recorded in authentic ahadith. These quantifications, whether relating to the nisab (the minimum limit on which Zakah is payable) or to the rate of payment, being fixed by Allah Ta` ala cannot be changed by anyone at any time.
 
+## AI Translation
+
+knowing that none should feel secure from their Lord's punishment—
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, man was created very impatient (19)Apprehensive when evil touches him (20)And suppressive when good touches him (21)Except those who are devoted to Salah (22)Those who with their Salah are Da'imun (23)And those in whose wealth there is a recognized right (24)For the one who asks, and for the deprived (25)And those who believe in the Day of Recompense (26)And those who f…
+
+**Classical tafsir:** Ibn Kathir notes: It has also been said that the meaning here refers to those who perform a deed and are constant in its performance and consistent in it.
+
+**From the Sunnah:** This is like what is reported in the authentic Hadith, (authentic hadith)
 ## Personal Reflections
 
 

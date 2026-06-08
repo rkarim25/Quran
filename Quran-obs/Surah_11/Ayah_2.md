@@ -144,6 +144,17 @@ After that, it was said: إِنَّنِي لَكُم مِّنْهُ نَذِير
 
 The word: نَذِیر (nadhir) is usually taken to mean a person who puts the fear of something into someone's heart. But, this word is not used to denote a fear-generating enemy or beast or others that harm. In-stead of that, nadhir is applied to a person who, out of his love and affection to someone, warns him against and saves him from some harmful things. These could be things that harm in this world and might as well could be those that bring harm in the Hereafter.
 
+## AI Translation
+
+Tell them, O Prophet, “Worship none but Allah. Surely I am a warner and deliverer of good news to you from Him.
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you but We revealed to him (saying): There is no Allah but I, so worship Me.)[21:25] It is similar to Allah's statement,
+
+**What this ayah teaches:** It means that the noble messenger of Allah, ﷺ has been commanded to tell the whole world through these verses that he was for them a carrier of warning (against disobedience) and a bearer of glad tidings (of blessings in this life and in the life to come) from Allah. Verily, I (Muhammad) am unto you from Him a warner and a bringer of glad tidings.)(3.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

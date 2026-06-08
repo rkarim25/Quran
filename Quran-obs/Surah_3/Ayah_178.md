@@ -230,6 +230,17 @@ Material affluence of disbelievers is, after all, an extension of Divine punishm
 
 Let there be no doubt about the worldly wellbeing of disbelievers for one may be tempted to believe that since Allah Almighty has given respite, long life, security and comfort to disbelievers so that they go on increasing in their crimes, they should, then, be taken as innocent. Far from it, because the verse means that Muslims should not feel upset about this temporary respite and affluence given to disbelievers as all this worldly wealth and power in their hands - despite their disbelief and disobedience - is nothing but a form of the very punishment destined for them. Today, they do not realize it. But, once they leave the mortal world, they would. They would discover to their dismay that all those articles of comfort they acquired and spent in sin were, in reality, the very embers of Hell. This is corroborated by several other verses of the Qur'an. For instance, (Allah intends to punish them with it – 9:55) which means that the wealth and power of disbelievers and their vulgarly luxurious consumerism should not be a matter of pride for them for this is nothing but an installment of that very punishment from Allah which will cause their punishment in the Hereafter to increase.
 
+## AI Translation
+
+Those who reject the truth should not think that living longer is good for them. They are only given more time to increase in sin, and they will suffer a humiliating punishment.
+
+## AI Tafsir
+
+**What this ayah teaches:** And let not the those who reject the truth think that Our postponing their punishment is good for them.
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah refers to Uhud, since Allah tested the believers in that battle, thus making known the faith, endurance, patience, firmness and obedience to Allah and His Messenger ﷺ that the believers had.
+
+**From the Sunnah:** Because the Prophet ﷺ was eager for people's benefit, he would become sad when the those who reject the truth would resort to defiance, rebellion and stubbornness. Allah mentions the money that the miser collected on the Day of Resurrection,
 ## Personal Reflections
 
 

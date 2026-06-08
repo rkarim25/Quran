@@ -109,6 +109,15 @@ It will be noticed that all verses cited above point out to Divine blessings and
 
 After that, when came the description of the night and day, the sun, the moon and the stars which have been made subservient by His command, it was said in the concluding sentence of verse 12: إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ (Indeed, in that, there are signs for a people who understand). Given here is the hint that these things are of course subservient to the command of Allah, an open fact which does not need a lot of thinking. Anyone having some reason in him would understand, because there was obviously some human input in the growth of vegetation and trees, but, in this case, there is none.
 
+## AI Translation
+
+With it He produces for you various crops, olives, palm trees, grapevines, and every type of fruit. Surely in this is a sign for those who reflect.
+
+## AI Tafsir
+
+**What this ayah teaches:** Anyone having some reason in him would understand, because there was obviously some human input in the growth of vegetation and trees, but, in this case, there is none.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, while these blessings are being mentioned, they are tied up with a notice to pay attention, think, understand and accept advice.
 ## Personal Reflections
 
 

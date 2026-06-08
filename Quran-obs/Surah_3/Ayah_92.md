@@ -200,6 +200,19 @@ Spending the extra and the spare too is not devoid of merit:
 
 Also stated in this last sentence of the verse is that Allah is fully aware of the real quality of what man spends and knows whether or not it is dear to him, and if he is spending it for the good pleasure of Allah, or for pretense and publicity. The mere verbal claim by some-body that he is spending what he cherishes in the way of Allah is not enough for this purpose. Keeping vigil over him is the One, the all-Knowing, the all-Aware who is cognizant of the secrets of the heart - He is watching and knows what is the true worth of the spending in His way.
 
+## AI Translation
+
+You will never achieve righteousness until you donate some of what you cherish. And whatever you give is certainly well known to Allah.
+
+## AI Tafsir
+
+**Context:** The noble Companions ؓ ، who were the first addressees of the Qur'anic injunctions and the direct disciples of the Holy Prophet ﷺ really loved to carry out the injunctions of the Qur'an in letter and spirit.
+
+**What this ayah teaches:** But, what is certainly undesirable and prohibited is getting into the habit of always picking out the extra and the bad to spend in the way of Allah.
+
+**Classical tafsir:** Ibn Kathir notes: : birr means and what it really signifies so that the whole sense of the verse becomes clear in our minds.
+
+**From the Sunnah:** Sometimes, Allah's Messenger ﷺ used to go to the garden and drink its fresh water." Anas added, "When these verses were revealed, (Musnad Ahmad) Paradise; and abstain from lying because that is a companion of fujur (sin) and both these are in Hell. (Sunan Ibn Majah)
 ## Personal Reflections
 
 

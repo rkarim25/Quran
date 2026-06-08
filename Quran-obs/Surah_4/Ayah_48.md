@@ -218,6 +218,17 @@ Shirk in Power: This is ascribing to others the powers and rights which are the 
 
 Shirk in ` Ibidah: This means the ascribing of a partner to Allah in acts of worship (` Ibadah) which is the sole due of Allah. Some of the forms it could take are to go down in sajdah (prostration) for anyone, to release an animal dedicated in the name of somebody, making cere-monious offering for a person or thing, living or dead, to make a vow (mannat, nadhr) in someone's name; to make tawaf (rounds, circumambulation) of someone's grave or house; to give preference to someone else's word, or custom, as against God's own command; to make bows before anyone in the manner of a ruku`, the bowing position peculiar to Muslim prayer; to slaughter an animal in the name of someone; to take the affairs of the mortal world as subservient to the effect and influence of stars; to regard some month as ill-omened, wretched; and things like that.
 
+## AI Translation
+
+Indeed, Allah does not forgive associating others with Him, but forgives anything else of whoever He wills. And whoever associates others with Allah has indeed committed a grave sin.
+
+## AI Tafsir
+
+**What this ayah teaches:** Shirk in ` Ibidah: This means the ascribing of a partner to Allah in acts of worship (` Ibadah) which is the sole due of Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Shirk in ` Ibidah: This means the ascribing of a partner to Allah in acts of worship (` Ibadah) which is the sole due of Allah.
+
+**From the Sunnah:** It was reported that Ka'b Al-Ahbar became Muslim when he heard this Ayah [4:47]. (Sahih Muslim) Some of the forms it could take are to go down in sajdah (prostration) for anyone, to release an animal dedicated in the name of somebody, making cere-monious offering for a person or thing, living or dead, to make a vow (mannat, nadhr) in someone's name; to m… (Sahih Muslim)
 ## Personal Reflections
 
 

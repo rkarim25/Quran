@@ -187,6 +187,15 @@ How tough I know. What next I know not.
 
 In conclusion, it can be said that this last verse (98) under study is showing a mirror to those who, having sold their souls to the veneer of glamour they see in the obvious and to the craze for things and trends they envy in their fellow beings, have forgotten that their place is elsewhere, that they have to go to their Creator and that there is a journey ahead, to the ultimate domain of the 'Akhirah. The message is: Open your eyes, see reality, walk away from the web of deception and walk into salvation.
 
+## AI Translation
+
+And He is the One Who originated you all from a single soul, then assigned you a place to live and another to rest. We have already made the signs clear for people who comprehend.
+
+## AI Tafsir
+
+**What this ayah teaches:** So, "mustawda"' will denote a place where something is placed temporarily for a few days.
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah means, contemplate the ability of the Creator of these fruits, Who brought them into existence after they were dry wood, and they later became grapes and dates; and similar is the case with the various colors, shapes, tastes and fragrance of whatever Allah created.
 ## Personal Reflections
 
 

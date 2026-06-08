@@ -355,6 +355,17 @@ Surah AI-Hajj
 
 Ends here.
 
+## AI Translation
+
+Strive in jihad — struggle in Allah's cause as He deserves — for He chose you and placed no hardship in the deen, the way of Abraham your forefather. He named you muslims in earlier scriptures and in this Quran, so the Messenger may witness over you and you witness over humanity. Establish salah, give zakat, and hold fast to Allah. He alone is your Guardian — what an excellent Guardian and Helper.
+
+## AI Tafsir
+
+**What this ayah teaches:** He has chosen you, and has not laid upon you in religion any hardship: it is the religion of your father Ibrahim.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, on the Day of Resurrection the testimony of the members of this community will be accepted as proof that the Messengers conveyed the Message of their Lord to them, and the Messenger will testify that he conveyed the Message to them.
+
+**From the Sunnah:** He has named you Muslims both before and in this (Qur'an), that the Messenger may be a witness over you and you be witnesses over mankind! It was reported from 'Uqbah bin 'Amir that the Prophet ﷺ said:
 ## Personal Reflections
 
 

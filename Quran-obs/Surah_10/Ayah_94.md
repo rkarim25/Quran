@@ -130,6 +130,17 @@ In the third verse (94), the address is obviously to the Holy Prophet ﷺ . But,
 
 According to Tafsir Mazhari, this verse tells us that anyone in doubt about some religious matter is duty-bound to have his doubts removed by asking genuine ` Ulama' (religious scholars whose learning, honesty and adherence to Qur'an, and Sunnah is well recognized, popularly referred to as ` Ulama' al-Haqq). To continue nursing such doubts is not a good thing to do.
 
+## AI Translation
+
+If you O Prophet are in doubt about these stories that We have revealed to you, then ask those who read the Scripture before you. The truth has certainly come to you from your Rabb, so do not be one of those who doubt,.
+
+## AI Tafsir
+
+**What this ayah teaches:** According to Tafsir Mazhari, this verse tells us that anyone in doubt about some religious matter is duty-bound to have his doubts removed by asking genuine ` Ulama' (religious scholars whose learning, honesty and adherence to Qur'an, and Sunnah is well recognized, popularly referred to as ` Ulama' al-Haqq).
+
+**Classical tafsir:** Ibn Kathir notes: So be not of those who doubt (it)(94)And be not one of those who belie the Ayat of Allah, for then you shall be one of the losers (95)Truly, those, against whom the Word of your Lord has been justified, will not believe (96)Even if every sign should come to them, until they see t…
+
+**From the Sunnah:** Therefore, the purpose is to beam the message to the Muslim community through this address where he is not the intended recipient. (Sahih Muslim)
 ## Personal Reflections
 
 

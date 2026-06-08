@@ -229,6 +229,19 @@ Then comes the description of the point from where this expedition started. The 
 
 The verse ends with the words, وَاللَّـهُ سَمِيعٌ عَلِيمٌ (And Allah is All-Hearing, All-Knowing). By reminding Muslims of these attributes of Allah, it has been pointed out that everything said by the two parties at that time was all in the knowledge of Allah Almighty. and absolutely nothing of what happened to the two of them remains hidden from Him, and so shall it be with the end of the war; that too, is not hidden from Him.
 
+## AI Translation
+
+When you left your home in the early morning to position those who have iman in the battlefield. And Allah is All-Hearing, All-Knowing.
+
+## AI Tafsir
+
+**Context:** (When two parties from among you were about to lose heart) was revealed about us, [the two Muslim tribes of] Bani Harithah and Bani Salamah.
+
+**What this ayah teaches:** And (remember) when you left your household in the morning to post the believers at their stations for the battle (of Uhud). It will be recalled that the Qurayshi those who reject the truth had brought women with them so that they could excite them to fight and, in case of a retreat, put them to shame and exhort them to go back into the battle.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ikrimah said that Uhud occurred in the middle of the month of Shawwal, and Allah knows best.
+
+**From the Sunnah:** The Messenger of Allah ﷺ led the Friday prayer and when he finished with it, he performed the funeral prayer for a man from Bani An-Najjar called Malik bin 'Amr.
 ## Personal Reflections
 
 

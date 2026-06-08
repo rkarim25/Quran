@@ -92,6 +92,17 @@ Here, it is about Sayyidna 'Adam (علیہ السلام) that Allah Ta’ ala ha
 
 1. This interpretation is based on the line adopted by some theologians. The others are of the view that the word 'yad' (hand) used for Allah does not refer to a limb like the hand of human beings. It is rather an attribute of Allah Ta ala, the exact nature of which is unknown. The third view is of some other elders who abstain from indulging in the interpretation of such expressions and prefer to keep silent about them, and leave their exact meaning to Allah Ta ala. Muhammad Taqi Usmani.
 
+## AI Translation
+
+He replied: "I am better than he is. You created me from fire and him from clay."
+
+## AI Tafsir
+
+**What this ayah teaches:** He refused to prostrate to Adam, and he disputed with his Lord about him, claiming that he was better than Adam, because he was created from fire while Adam was created from clay, and fire was better than clay, or so he said. You created me from fire, and You created him from clay.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the verse means: 'I created 'Adam with My power.' For that matter, everything in this universe owes its creation to nothing but Divine power.
+
+**From the Sunnah:** There is a consensus among the majority of the Muslim Ummah that "hands" do not mean that Allah Ta’ ala has hands as human being do. (Sahih Muslim)
 ## Personal Reflections
 
 

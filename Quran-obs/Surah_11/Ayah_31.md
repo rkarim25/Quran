@@ -156,6 +156,15 @@ Secondly, it was said: وَلَا أَعْلَمُ الْغَيْبَ (nor do I 
 
 Thirdly, it was said: وَلَا أَقُولُ إِنِّي مَلَكٌ (nor do I say that I am an angel). Here we have a refutation of their idea that a ras ul should be some angel.
 
+## AI Translation
+
+I do not say to you that I possess Allah’s treasuries or know the unseen, nor do I claim to be an angel, nor do I say that Allah will never grant goodness to those you look down upon. Allah knows best what is hidden within them. If I did, then I would truly be one of the wrongdoers.”
+
+## AI Tafsir
+
+**What this ayah teaches:** This sentence clarifies that the mission of a prophet and messenger needs no knowledge of the unseen, and why should it when the knowledge of the unseen is an exclusive attribute of Allah Ta'-al-a which no prophet or angel can share with Him.
+
+**Classical tafsir:** Ibn Kathir notes: He also explains that he has no power to manipulate the hidden treasures of Allah, nor does he have any knowledge of the Unseen, except what Allah has allowed him to know.
 ## Personal Reflections
 
 

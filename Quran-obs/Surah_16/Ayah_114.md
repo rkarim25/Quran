@@ -112,6 +112,17 @@ Sequence and Explanation in Gist
 
 Mentioned in the previous verses was that disbelievers will be punished for their ungratefulness to Allah whose blessings they had been enjoying. In the cited verses, Muslims have been instructed to stay away from ungratefulness, rather be grateful for Halal things Allah has given to them. After that, they were told how the disbelievers and polytheists had become ungrateful by declaring what Allah had made Halal for them as Haram and what Allah had called Haram as Halal. Muslims were warned that they should never do that. Making things Halal and Haram is the exclusive right of their Creator. Doing this on your own amounts to interference in Divine prerogatives, in fact, amounts to at-tributing lies to Allah Ta` ala. Towards the end, it was also said that even those who have committed such evil deeds through ignorance should not lose hope in the mercy of Allah Ta’ ala. Should they repent and believe honestly and truly, Allah Ta’ ala will forgive all sins committed by them.
 
+## AI Translation
+
+So eat from the good, lawful things which Allah has provided for you, and be showing shukr — gratitude shown in word and action for Allah’s favours, if you truly worship Him alone.
+
+## AI Tafsir
+
+**What this ayah teaches:** And be grateful for Allah's favor, if it is He Whom you worship (114)He has only forbidden dead flesh, blood, the flesh of swine, and any animal which is slaughtered as a sacrifice for other than Allah.
+
+**Classical tafsir:** Ibn Kathir notes: and then to Us will be their return, then We shall make them taste the severest torment because they disbelieved.)(10:69-70)
+
+**From the Sunnah:** In the cited verses, Muslims have been instructed to stay away from ungratefulness, rather be grateful for Halal things Allah has given to them.
 ## Personal Reflections
 
 

@@ -286,6 +286,15 @@ The warning given in verse 23: إِنَّمَا بَغْيُكُمْ عَلَى�
 
 The Holy Prophet ﷺ has said: ` Allah Ta` ala hastens to repay mercy shown to relatives and favour done to people (whereby its blessings start becoming visible in this world, much before the Hereafter). And He also hastens to repay injustices done and relationships severed (in that its consequences have to be faced within the life of this world).' (Reported by Tirmidhi and Ibn Majah with a hasan chain of narrators) In another Hadith narrated by Sayyidah ` A'ishah ؓ ، the Holy Prophet ﷺ said, ` there are three sins the curse whereof falls on the sinner himself: Injustice, breach of trust and deception.' (Reported by Abu ash-Shaykh and Ibn Marduwayh in Tafsir) (See Mazhari)
 
+## AI Translation
+
+The life of this dunya is just like rain We send down from the sky, producing a mixture of plants which humans and animals consume. Then just as the earth looks its best, perfectly beautified, and its people think they have full control over it, there comes to it Our command by night or by day, so We mow it down as if it never flourished yesterday! This is how We make the signs clear for people who reflect.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, the parable of the life of the world is as the water which We send down from the sky; so by it arises the intermingled produce of the earth of which men and cattle eat: until when the earth is clad in its adornments and is beautified, and its people think that they have all the powers of disposal over it, Our command reaches it by night or by day and We make it like a c…
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said: "As if it had not flourished; as if it was never blessed." Such are things after they perish, they are as if they had never existed.
 ## Personal Reflections
 
 

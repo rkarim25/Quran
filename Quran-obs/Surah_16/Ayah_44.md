@@ -145,6 +145,19 @@ To sum up, it can be said that this verse has declared that the purpose for whic
 
 If today a person calls this treasure of Hadith unreliable under one or the other pretext or artifice, it plainly means that the Holy Prophet acted against this Qur’ anic injunction when he did not explain what the Qur’ an had said; or, that he had explained it but his explanation did not remain preserved for posterity. Under either of the two conditions, it is being suggested that the Qur’ an has not remained protected as to its meaning - the responsibility of protecting which has been undertaken by Allah Ta’ ala Himself: وَإِنَّا لَهُ لَحَافِظُونَ [ We, Ourselves, have sent down the Dhikr (the Qur'an) and We are there to protect it - 15:9]. This claim or inference of such a person is contrary to this textual authority (nass) of the Qur’ an. From here it stands proved that a person who refuses to accept the Sunnah of the Holy Prophet as a binding authority of Islam is, in reality, a denier of the Qur'an itself. Na ‘udhubillah: May Allah protect us from it.
 
+## AI Translation
+
+We sent them with clear proofs and divine Books. And We have sent down to you O Prophet the Reminder, so that you may explain to people what has been revealed for them, and perhaps they will reflect.
+
+## AI Tafsir
+
+**Context:** And We sent not (as Our Messengers) before you (O Muhammad) any but men, whom We sent revelation. So ask Ahl Adh-Dhikr, if you know not (43)With clear signs and Books (We sent the Messengers).
+
+**What this ayah teaches:** So that you may explain in detail what has been mentioned in brief, and explain what is not clear.
+
+**Classical tafsir:** Ibn Kathir notes: And We have also revealed the Dhikr to you so that you may clearly explain to men what was revealed to them, and that perhaps they may reflect .
+
+**From the Sunnah:** Now turn your attention to the great treasure of Hadith which one of the most talented and intellectually peerless people of our community, right from the Sababah and Tabi` in all the way to the Muhaddithin of the later period, have guarded more than their liv… (Sahih Muslim)
 ## Personal Reflections
 
 

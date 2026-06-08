@@ -250,6 +250,17 @@ Commenting on this effrontery, the Holy Qur'an says that this is not the only in
 
 The Holy Qur'an specifically speaks of one group or another breaking the pledge, and not of all the Jews. For there were some among them who did fulfil the pledges, so much so that many Jews finally accepted Sayyidna Muhammad as a true prophet, and joined the ranks of the Muslims.
 
+## AI Translation
+
+Is it not so that whenever they make a covenant, a party among them casts it aside? In fact, most of them do not truly believe.
+
+## AI Tafsir
+
+**Context:** (And indeed We have sent down to you manifest Ayat) means, "We have sent to you, O Muhammad, clear signs that testify to your prophethood." These Ayat are contained in the Book of Allah (Qur'an) which narrates the secret…
+
+**What this ayah teaches:** And indeed We have sent down to you manifest Ayat and none disbelieve in them but Fasiqun (those who rebel against Allah's command)(99)Is it not (the case) that every time they make a covenant, some party among them throw it aside?
+
+**Classical tafsir:** Ibn Kathir notes: What should I do?" Al-Hasan Al-Basri said that this Ayah means, "The angels were sent with magic, so that the people whom Allah willed would be tried and tested.
 ## Personal Reflections
 
 

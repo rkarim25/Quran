@@ -146,6 +146,19 @@ Please note that, in the sentence: سَخِرَ‌ اللَّـهُ مِنْهُ
 
 In the second verse (80), there is a statement about the hypocrites. It has been addressed to the Holy Prophet ﷺ . He has been told whether or not he seeks forgiveness for them makes no difference - and no matter how many times he seeks forgiveness for them, they shall not be forgiven. A detailed explanation of this appears under the comments on verse 84: لَا تُصَلِّ عَلَىٰ أَحَدٍ مِّنْهُم (and never offer a prayer on anyone of them who dies) appearing a little later.
 
+## AI Translation
+
+Those who slander those who have iman for donating liberally and mock others for giving only the little they can afford. Allah will throw their mockery back at them, and they will suffer a painful punishment.
+
+## AI Tafsir
+
+**Context:** Among the traits of the hypocrites is that they will not leave anyone without defaming and ridiculing him in all circumstances even those who give away charity.
+
+**What this ayah teaches:** In the second verse (80), there is a statement about the hypocrites.
+
+**Classical tafsir:** Ibn Kathir notes: The hypocrites mocked at them for having brought something so insignificant in the name of Sadaqah.
+
+**From the Sunnah:** Among the last to come forth was a man who brought a Sa' of dates, saying, 'O Allah's Messenger! This occurred after the Messenger of Allah ﷺ encouraged and called for paying charity.
 ## Personal Reflections
 
 

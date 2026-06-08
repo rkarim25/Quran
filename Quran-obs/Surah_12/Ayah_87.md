@@ -160,6 +160,15 @@ How About Looking at Someone During Salah?
 
 Therefore, in a Hadith of Al-Bukhari narrated by Sayyidah ` A'ishah ؓ ، it appears that she asked the Holy Prophet ﷺ ` How is it to look elsewhere during Salah?' In reply, he said: ` Through it, the shaitan snatches the Salah of a servant of Allah away from him.' May Allah sublhanahu wa Ta’ ala keep us protected.
 
+## AI Translation
+
+Indeed, the reward of the Akhirah — the everlasting life after death — is better for those who believe and live with taqwa.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, this time, he instructed his sons to go to Egypt once again for the purpose of this search. Go you and inquire about Yusuf and his brother, and never give up hope of Allah's mercy.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, Allah Ta’ ala put in his heart the way-out appropriate to it.
 ## Personal Reflections
 
 

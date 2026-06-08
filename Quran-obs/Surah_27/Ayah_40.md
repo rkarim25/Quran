@@ -266,6 +266,17 @@ The assertion أَنَا آتِيكَ بِهِ قَبْلَ أَن يَرْ‌ت
 
 This explanation is taken from the commentary ` Ahkam ul Qur'an' by Sayyidi Hakimul Ummah Maulana Ashraf ` Ali Thanawi (رح) ، on Surah An-Naml. Apart from that, he has also written a pamphlet on Tasarruf in Arabic under the title ` At-Tasarruf, which I have translated in Urdu and has been published separately.
 
+## AI Translation
+
+But the one who had knowledge of the Scripture said, “I can bring it to you in the blink of an eye.” So when Solomon saw it placed before him, he exclaimed, “This is by the grace of my Rabb to test me whether I am showing shukr or ungrateful. And whoever is showing shukr, it is only for their own good. But whoever is ungrateful, surely my Rabb is Self-Sufficient, Most Generous.”
+
+## AI Tafsir
+
+**What this ayah teaches:** And whoever is grateful, truly, his gratitude is for himself; and whoever is ungrateful, certainly my Lord is Rich, Bountiful.
+
+**Classical tafsir:** Ibn Kathir notes: Power such as had never been given to anyone else, before or since, so that this would furnish proof of his prophethood before Bilqis and her people, because this would be a great and wondrous thing, if he brought her throne as if he were in her country, before they could come to…
+
+**From the Sunnah:** Which of you can bring me her throne before they come to me surrendering themselves in obedience (as Muslims)? In the general use of the term, Tasarruf means to captivate the audience by the power of sight and mind, for which it is not necessary for the person performing it that he is a prophet or saint or even a Muslim. (Sahih Muslim)
 ## Personal Reflections
 
 

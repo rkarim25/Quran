@@ -240,6 +240,17 @@ This is the end of the Tafsir of Surat Al-Ikhlas, and all praise and blessings a
 
 Verse [ 112:2] اللَّـهُ الصَّمَدُ (Allah is Besought of all, needing none) The word samad bears several literal senses. Therefore, the Qur'anic exegetical scholars have assigned different meanings to this verse. Tabarani, the leading authority on Prophetic Traditions, in his kitab-us-Sunnah, has collected all the interpretations of the Divine attribute As-samad and concluded that they are all authentic, and comprehend all the attributes of our Lord that have been assigned to Him, but originally it refers to 'the chief who has no superior and to whom the people turn for the fulfillment of their desires and needs; thus all people depend on him, but he does not depend on any one.' [ Ibn Kathir ].
 
+## AI Translation
+
+Allah is al-Samad—the One every created thing depends upon for existence, while He depends on nothing; the eternal refuge when every system, relationship, and plan fails.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah as-Samad—the One all creation depends upon while He depends on none; the Eternal Refuge.
+
+**Classical tafsir:** Ibn Kathir and linguists: as-Samad is the Master sought in every need, without need Himself. Mujahid and others linked it to perfection in nobility and authority.
+
+**From the Sunnah:** Al-Ikhlas was sent as a match for one-third of the Qur'an (Bukhari).
 ## Personal Reflections
 
 

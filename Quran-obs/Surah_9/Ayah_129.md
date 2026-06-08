@@ -175,6 +175,17 @@ The last two verses, according to Sayyidna ` Ubaiyy ibn Ka'b ؓ ، are the last 
 
 Great merits of these two verses appear in Hadith. Sayyidna Abu-d-Darda' ؓ says, ` One who recites these verses three times, morning and evening, shall find that Allah Ta` ala makes things easy for him (Qurtubi) ' Allah knows best.
 
+## AI Translation
+
+But if they turn away, then say, “Allah is sufficient for me. There is no god except Him. In Him I put my trust. And He is the Rabb of the Mighty Throne.”
+
+## AI Tafsir
+
+**Context:** The last two verses, according to Sayyidna ` Ubaiyy ibn Ka'b ؓ ، are the last verses of the Qur'an. After these no other verse was revealed and the Holy Prophet ﷺ left the mortal world.
+
+**What this ayah teaches:** There is no Allah but He,) Allah is sufficient for me, there is no deity worthy of worship except Him, and in Him I put my trust.
+
+**Classical tafsir:** Ibn Kathir notes: The Advent of the Prophet (ﷺ) is a Great Bounty from Allah Allah reminds the believers that He has sent to them a Messenger from among themselves, from their kind, speaking their language.
 ## Personal Reflections
 
 

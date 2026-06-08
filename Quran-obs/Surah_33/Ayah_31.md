@@ -145,6 +145,19 @@ The word: فَاحِشَةٍ (fahishah) appearing in: بِفَاحِشَةٍ م�
 
 It will be noticed that the two-fold punishment has been identified by the Qur'an only with 'clearly shameful act'. But, for the two-fold reward, it has imposed several restrictions, as in: وَمَن يَقْنُتْ مِنكُنَّ لِلَّـهِ وَرَ‌سُولِهِ وَتَعْمَلْ صَالِحًا نُّؤْتِهَا أَجْرَ‌هَا مَرَّ‌تَيْنِ (And whoever of you stays obedient to Allah and His messenger, and acts righteously, We shall give her twice her reward-- 31). Here, qunut, that is, staying obedience to Allah and His Messenger ﷺ is a condition. Then, acting righteously is yet another condition. The reason is that reward comes only when obedience is perfect while, for punishment, even a single sin is enough.
 
+## AI Translation
+
+And whoever of you devoutly obeys Allah and His Messenger and does good, We will grant her double the reward, and We have prepared for her an honourable provision.
+
+## AI Tafsir
+
+**Context:** (And indeed it has been revealed to you, as it was to those before you: "If you join others in worship with Allah, surely your deeds will be in vain.")(39:65)
+
+**What this ayah teaches:** Here, qunut, that is, staying obedience to Allah and His Messenger ﷺ is a condition.
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, may Allah be pleased with him, said: "This means Nushuz (rebellion) and a bad attitude." Whatever the case, this is a conditional phrase and it does not imply that what is referred to would actually happen.
+
+**From the Sunnah:** This Ayah is addressed to the wives of the Prophet who chose Allah and His Messenger and the Home of the Hereafter, and remained married to the Messenger of Allah ﷺ.
 ## Personal Reflections
 
 

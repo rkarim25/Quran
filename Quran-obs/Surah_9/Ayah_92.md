@@ -170,6 +170,19 @@ The present verses mention sincere Muslims who were deprived of participation in
 
 There are many events of this nature recorded in books of Exegesis and History. So, different things happened. To some of them who came initially, the Holy Prophet ﷺ had no choice but to say that they had no arrangements to provide mounts to warriors. But, these people returned from him weeping and when they kept weeping in despair, Allah Ta` ala took care of them in His own way. Six camels arrived before the Holy Prophet ﷺ right at that time. He let them have these. (Mazhari) Then, Sayyidna ` Uthman ؓ arranged mounts for three of them, although he had already made similar ar-rangements for many more of them earlier.
 
+## AI Translation
+
+Nor those who came to you for mounts, then when you said, “I can find no mounts for you,” they left with eyes overflowing with tears out of grief that they had nothing to contribute.
+
+## AI Tafsir
+
+**Context:** Mujahid said; "It was revealed about Bani Muqarrin from the tribe of Muzaynah."
+
+**What this ayah teaches:** There is no blame on those who are weak or ill or who find no resources to spend, if they are sincere and true (in duty) to Allah and His Messenger.
+
+**Classical tafsir:** Ibn Kathir notes: They are content to be with (the women) who sit behind (at home) and Allah has sealed up their hearts so that they know not (what they are losing).
+
+**From the Sunnah:** The present verses mention sincere Muslims who were deprived of participation in Jihad because they were genuinely incapable of doing so.
 ## Personal Reflections
 
 

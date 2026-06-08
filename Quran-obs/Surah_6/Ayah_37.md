@@ -190,6 +190,17 @@ According to another narration reported from Najiyah ibn Ka'b, once Abu Jahl him
 
 Based on these narrations of Hadith, the verse can be taken in its real sense, that is, 'these disbelievers do not belie you, rather, they be-lie the signs of Allah.' And this verse could also be taken in the sense that these disbelievers, though belie you obviously but, in reality, the outcome of belying you is itself the belying of Allah and His signs - as it appears in Hadith, that the Holy Prophet ﷺ said: Whoever causes pain to me is liable to be judged as causing pain to Allah.
 
+## AI Translation
+
+They ask, “Why has no sign been sent down to him from his Rabb?” Say, “Allah certainly has the power to send down a sign”—though most of them do not know.
+
+## AI Tafsir
+
+**What this ayah teaches:** But, He decided out of His wisdom to delay that, because if He sends an Ayah of their liking and they still do not believe, this will hasten their punishment as with the previous nations.
+
+**Classical tafsir:** Ibn Kathir notes: But, He decided out of His wisdom to delay that, because if He sends an Ayah of their liking and they still do not believe, this will hasten their punishment as with the previous nations.
+
+**From the Sunnah:** And this was reported from the Prophet ﷺ in the Hadith about the Trumpet.
 ## Personal Reflections
 
 

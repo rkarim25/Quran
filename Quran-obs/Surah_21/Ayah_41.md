@@ -114,6 +114,15 @@ Here خُلِقَ الْإِنسَانُ مِنْ عَجَلٍ (Man is made of h
 
 These miracles also occurred during the battle of Badr (غزوہ بدر) when the Muslims who were considered weak and worthy of contempt gained a great victory over their enemies.
 
+## AI Translation
+
+Other messengers had already been ridiculed before you O Prophet, but those who mocked them were overtaken by what they used to ridicule.
+
+## AI Tafsir
+
+**What this ayah teaches:** When a man is identified by some intrinsic trait of his character, me Arabs used to say that he is 'made of that trait.
+
+**Classical tafsir:** Ibn Kathir notes: The word is used in situations when one desires things to happen before their time, and this trait is bad by its very nature.
 ## Personal Reflections
 
 

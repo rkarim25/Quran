@@ -149,6 +149,17 @@ According to Ruh ul-Ma` ani Sayyidna Musa (علیہ السلام) embarked on hi
 
 When the Pharaoh learned that the Bani Isra'il had taken flight, he assembled a large army of which the advance units consisted of seven hundred thousand horsemen and started off in pursuit. When the Bani Isra'il saw the river barring their way ahead and the Pharaoh hot on their heels, they cried out in despair. "Surely! We are caught". Sayyidna Musa (علیہ السلام) consoled them with the words إِنَّ مَعِيَ رَ‌بِّي سَيَهْدِينِ (With me is my Lord indeed. He will guide me - 26:62). Then by the command of Allah he struck his staff on the water and twelve dry passageways appeared on which the twelve tribes of Bani Isra'il crossed over to the other side in safety. The Pharaoh who saw all this was frightened but he urged his men on by declaring that the dry paths were formed because the river stopped flowing on account of the awe which it felt in his presence. Saying so, he spurred his horse into the river ordering his army to follow him. When they were all in the middle, Allah commanded the river to resume its flow and water covered them over. (Ruh ul-Ma` ani)
 
+## AI Translation
+
+And We surely inspired Moses, saying, “Leave with My servants at night and strike a dry passage for them across the sea. Have no fear of being overtaken, nor be concerned of drowning.”
+
+## AI Tafsir
+
+**Context:** And indeed We revealed to Musa: "Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid.
+
+**What this ayah teaches:** The Children of Israel leave Egypt Allah, the Exalted, informs that He commanded Musa to journey at night with the Children of Israel, when Fir'awn refused to release them and send them with Musa.
+
+**Classical tafsir:** Ibn Kathir notes: The Pharaoh who saw all this was frightened but he urged his men on by declaring that the dry paths were formed because the river stopped flowing on account of the awe which it felt in his presence.
 ## Personal Reflections
 
 

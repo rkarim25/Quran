@@ -118,6 +118,19 @@ Then Allah says,
 
 Verses [ 6-7] كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَىٰ أَن رَّ‌آهُ اسْتَغْنَىٰ (The fact is that man crosses the limits, because he deems himself to be free of need.) Although the verse immediately refers to a particular person, namely, Abu Jahl who insulted the Holy Prophet ﷺ ، the statement is general which draws man's attention to one of his weaknesses. So long as man is in need of others, he walks straight; but when he thinks that he does not need anyone, he tends towards transgression, and develops the tendency to wrong-doing, tyranny and oppression. This is generally the behavior of the affluent people, government officials, and people with abundant children and friends or servants. They become purse-proud and intoxicated with the leadership power they exercise on their groups. Abu Jahl was a typical example of this. He was one of the well-to-do and prosperous people of Makkah. All the members of his tribe and inhabitants of the city respected and obeyed him. He became arrogant and insulted the leader of all the Prophets - the noblest of creation. The next verse warns such arrogant people about the evil consequences of their behavior.
 
+## AI Translation
+
+Whenever they see themselves as self-sufficient—wealth and status breeding arrogance that blocks the soul.
+
+## AI Tafsir
+
+**Context:** (Have you seen him who prevents. A servant when he prays) This was revealed about Abu Jahl, may Allah curse him. He threatened the Prophet for performing Salah at the Ka`bah.
+
+**What this ayah teaches:** The Threat against Man's Transgression for the sake of Wealth Allah informs that man is very pleased, most evil, scornful and transgressive when he considers himself self-sufficient and having an abundance of wealth.
+
+**Classical tafsir:** Ibn Kathir notes: In the Name of your Lord Who has created.) (96:1) This is the end of the Tafsir of Surah Iqra' (Surat Al-`Alaq).
+
+**From the Sunnah:** Haven't I prevented you from this' He threatened the Prophet and thus, the Messenger of Allah ﷺ became angry with him and reprimanded him. (Jami' at-Tirmidhi, Sunan an-Nasa'i)
 ## Personal Reflections
 
 

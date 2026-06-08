@@ -134,6 +134,15 @@ Injunctions and Rulings
 
 2. If anyone dedicates an animal to anyone other than Allah out of ignorance or carelessness and wishes to make amends, he should resolve to retreat from his misdeed and repent on what he did, in which case, the meat of that animal will become lawful for him.
 
+## AI Translation
+
+O humanity — eat from what is lawful and good on earth, and do not follow Satan's footsteps. He is your open enemy.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, he is to you an open enemy (168)He (Satan) commands you only what is evil and Fahsha' (sinful), and that you should say about Allah what you know not .
+
+**Classical tafsir:** Ibn Kathir notes: Polytheistic practices, such as releasing animals in the name of idols or dedicating them, whether big or small, to a saint or to anyone other than Allah has been declared unlawful in Verse 173 which follows.
 ## Personal Reflections
 
 

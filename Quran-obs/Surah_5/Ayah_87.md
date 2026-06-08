@@ -157,6 +157,19 @@ The Correct Attitude towards Halal Things
 
 At the end of the first verse (87), it was said: وَلَا تَعْتَدُوا إِنَّ اللَّـهَ لَا يُحِبُّ الْمُعْتَدِينَ that is, ` and do not transgress the limits set by Allah because Allah does not like such transgressors.' Here, transgressing means that one abandons something Halal, without any valid excuse, as an act of Thawab. This is something an ignorant person takes to be Taqwa, fear of Allah, while, in the sight of Allah, that is transgression, which is impermissible. Therefore, it was said in the next verse (88): وَاتَّقُوا اللَّـهَ الَّذِي أَنتُم بِهِ مُؤْمِنُونَ that is, `(eat from the good and pure sustenance Allah has blessed you with) and keep fearing Allah whose believers you are.' Stated clearly in this verse is that leaving off good and pure things as a source of Thawab (reward) is no Taqwa. Rather, quite contrary to that, Taqwa lies in using them as the blessings of Allah and showing one's gratitude for them. However, if something is abandoned as a curative measure against a physical or spiritual disease, that does not count here.
 
+## AI Translation
+
+O you who have iman! Do not forbid the good things which Allah has made lawful for you, and do not transgress. Indeed, Allah does not like transgressors.
+
+## AI Tafsir
+
+**Context:** Ali bin Abi Talhah said that Ibn 'Abbas said, "This Ayah [5:87] was revealed about some of the Companions of the Prophet ﷺ who said, 'We should cut off our male organs, abandon the desires of this life and travel in the…
+
+**What this ayah teaches:** Verily, Allah does not like the transgressors (87)And eat of the things which Allah has provided for you, lawful and good, and have Taqwa of Allah in Whom you believe . Make not unlawful the good things which Allah has made lawful to you, and transgress not.
+
+**Classical tafsir:** Ibn Kathir notes: Of course, if such a restriction is not there with the intention of Thawab, instead, it is there for some other reason, such as, some physical or spiritual sickness because of which one abandons something permanently, then, there will be no sin in doing so.
+
+**From the Sunnah:** Ibn 'Abbas narrated a similar Hadith.
 ## Personal Reflections
 
 

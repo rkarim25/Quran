@@ -188,6 +188,17 @@ According to one narration, the following words are added to the above supplicat
 
 وَمَا كُنَّا لَهُ مُقْرِ‌نِينَ (and we were not able to have control over it - 13). This statement is as true for mechanical means of transport as for cattle and animals, because if Allah Ta’ ala had not created their raw materials, or had not endowed them with their particular properties, or had not endowed the human intellect with capability to discover those properties, even the whole universe, acting together in unison, could not have produced these vehicles.
 
+## AI Translation
+
+so you may sit firmly on their backs and remember your Lord's blessings once settled on them, saying, "Glory be to the One who subjected these for us, for we could never have done so on our own.
+
+## AI Tafsir
+
+**What this ayah teaches:** This statement is as true for mechanical means of transport as for cattle and animals, because if Allah Ta’ ala had not created their raw materials, or had not endowed them with their particular properties, or had not endowed the human intellect with capability to discover those properties, even the whole universe, acting together in unison, could not have produced these vehicles.
+
+**Classical tafsir:** Ibn Kathir notes: This statement is as true for mechanical means of transport as for cattle and animals, because if Allah Ta’ ala had not created their raw materials, or had not endowed them with their particular properties, or had not endowed the human intellect with capability to discover those…
+
+**From the Sunnah:** These supplications are collected by ` Allamah Ibn-ul-Jazri in his book Al-Hisn-ul-Hasin, and Maulana Thanawi in Munajat-e-Maqbul.
 ## Personal Reflections
 
 

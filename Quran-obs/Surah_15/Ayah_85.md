@@ -128,6 +128,17 @@ Here, he is being asked not to grieve over their hostile opposition because ther
 
 This being the wise arrangement of things, let him not grieve. The better course for him is to overlook their wicked behaviour in a gracious manner, that is, neither pay attention to their behavior nor complain about it. The reason is that his Lord is great as Creator and great as the Master Knower as well. He knows his patience and fortitude and He knows the evil mechanizations of his enemies too. Therefore, He is to exact the full return from them of what they have been doing.
 
+## AI Translation
+
+We have not created the heavens and the earth and everything in between except for a purpose. And the Hour is certain to come, so forgive graciously.
+
+## AI Tafsir
+
+**Context:** (So turn away from them, and say: "Salam (Peace!)." But they will come to know)(43:89). Mujahid, Qatadah and others said: "This was before fighting was prescribed".
+
+**What this ayah teaches:** And We did not create the heavens and the earth and all that is between them except with the truth, and the Hour is surely coming, so overlook their faults with gracious forgiveness (85)Verily, your Lord is the Knowing Creator .
+
+**Classical tafsir:** Ibn Kathir notes: It is as they said, because this Surah was revealed in Makkah and fighting was prescribed after the Hijrah.
 ## Personal Reflections
 
 

@@ -160,6 +160,15 @@ These verses give a solid proof to the necessity of the Day of Judgment, because
 
 One may argue that a criminal is apprehended, he is exposed to disgrace and is punished. This distinguishes the innocent persons from the evil ones right here in this world. Laws and statutes of a government’ s establish standards of justice and fair play. But this is incorrect, because it is not possible for a government to keep an eye on every one, everywhere and in all circumstances. Wherever it does happen, it is not an easy task to gather the necessary judicial evidence, so that the guilty person may be convicted and punished. And even if the judicial evidence could be gathered, there are several escape doors through which the guilty person could get away, such as force, bribery, intercession and pressure. If we review the punishment history of the present-day governments and courts, it would appear that nowadays only those people are punished who are fools, brainless and helpless or without support. They are not cunning enough to find a loophole in the legal system, or an escape route, nor do they have enough money to pay for bribery, nor do they have an influential person to back them or intercede on their behalf or they cannot use these things because of their foolishness. The rest of the criminals are moving freely.
 
+## AI Translation
+
+That is how We punish in this world. The punishment of the Akhirah is far worse, if only they knew.
+
+## AI Tafsir
+
+**What this ayah teaches:** And, of course, the punishment of the Hereafter is even greater, if they but realize!....68:33).
+
+**Classical tafsir:** Ibn Kathir notes: A Rational Proof of Resurrection These verses give a solid proof to the necessity of the Day of Judgment, because accountability, rewarding the righteous and punishing the evil are all rationally necessary.
 ## Personal Reflections
 
 

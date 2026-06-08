@@ -134,6 +134,17 @@ Earning of mundane needs by neglecting the Hereafter is no sagacity
 
 The Holy Qur'an is full of admonitory stories of the world. Those who had earned a name for collecting all sorts of luxuries and comforts for themselves, and then their disastrous end was witnessed in this very world, will also be subjected to everlasting torment of the Hereafter. So no sane person will call them intellectual or sagacious. Unfortunately, in the present day world the height of sagacity and wisdom is attributed to the one who could accumulate the largest quantity of wealth, and arrange for himself the best of comforts and luxuries. He is called the most successful and wise, no matter how low he might be in his morals. To call such a person wise is indeed an insult to wisdom - both by religious and moral standards. By Qur'anic standard, only those are wise who are conscious of Allah and the Hereafter, and strive for the comforts of the next life, keeping their needs of this wordly life at a level at which such needs are necessary; and do not make their achievement the sole purpose of their lives. The following verse depicts the same meaning:إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْ‌ضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ‌ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ الَّذِينَ يَذْكُرُ‌ونَ اللَّـهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُ‌ونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْ‌ضِ رَ‌بَّنَا مَا خَلَقْتَ هَـٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ‌ (Surely, in the creation of the heavens and the earth, and in the alternation of night and day, there are signs for the people of wisdom, who remember Allah standing and sitting, and (lying) on their sides, and ponder on the creation of the heavens and the earth (saying:) "Our Lord, You have not created all this in vain. We proclaim Your purity. So, save us from the punishment of Fire." (3:190-191).
 
+## AI Translation
+
+They know only outward affairs of this dunya while they are heedless of the Akhirah.
+
+## AI Tafsir
+
+**Context:** These Ayat were revealed about the victory of Sabur, the king of Persia, over Ash-Sham (Greater Syria), the adjoining partisan states of the Arabian Peninsula, and the outlying regions of the land of the Romans.
+
+**What this ayah teaches:** Earning of mundane needs by neglecting the Hereafter is no sagacity The Holy Qur'an is full of admonitory stories of the world.
+
+**Classical tafsir:** Ibn Kathir notes: How Caesar defeated Chosroes (Kisra) It was previously reported that 'Ikrimah said: "Chosroes sent his deputy and his army against Caesar, and they fought." It is well-known that Chosroes himself fought in the army that invaded his land, and he defeated Caesar and overwhelmed him until he had nothin… Mujahid said, “That was a place in the Arabian Peninsula which is closer to the land of the Romans t…
 ## Personal Reflections
 
 

@@ -124,6 +124,17 @@ In addition to that, it is also proved from the cited verses of the Qur'an that 
 
 Though, the author of Fath-ul-Mannan has also given answers to the doubts expressed by Ibn Kathir, however, the easiest way out has been offered by Maulana Ashraf Thanavi (رح) in Tafsir Bayan-ul-Qur'an. To understand the subject of these verses of the Qur'an, he says, it is not necessary to determine the location of this town, and since the noble Qur'an has kept it ambiguous, there is just no need to exert so much effort to determine it. The famous saying of the early forbears of Islam that: اَبھِمُوا مَا اَبھَمَہُ اللہُ (Leave ambiguous that which Allah has left ambiguous) also requires nothing but this.
 
+## AI Translation
+
+Give them an example of the residents of a town, when the messengers came to them.
+
+## AI Tafsir
+
+**Context:** The expression: ضرب مثل (cite an example) in verse 13: وَاضْرِ‌بْ لَهُم مَّثَلًا أَصْحَابَ الْقَرْ‌يَةِ (And cite to them the example of the People of the Town) is generally used to prove something by giving the example…
+
+**What this ayah teaches:** From this clear statement from him also, it seems likely that the town mentioned in this verse is this very town of Antakiyah.
+
+**Classical tafsir:** Ibn Kathir notes: You are only telling lies." The Messengers said: "Our Lord knows that we have been sent as Messengers to you.") This means that the three Messengers answered them saying: "Allah knows that we are His Messengers to you.
 ## Personal Reflections
 
 

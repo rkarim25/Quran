@@ -224,6 +224,17 @@ Explaining the words of the verse الَّذِي بِيَدِهِ عُقْدَة
 
 This also proves that the authority to continue or terminate the bond of marriage rests with the husband. It is he who can pronounce talaq (divorce). The woman cannot divorce her husband.
 
+## AI Translation
+
+If you divorce before consummation but after setting a dowry, pay half unless the wife waives it or the husband pays in full voluntarily. Grace is closer to taqwa. Do not forget kindness among yourselves. Allah sees what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Wife gets half of Her Mahr if She is divorced before the Marriage is consummated This honorable Ayah is not a continuation of the Mut'ah (gift) that was mentioned in the previous Ayah (i.e., divorce before the marriage is consummated).
+
+**Classical tafsir:** Ibn Kathir notes: And the act of forgiving has been declared more merit-worthy, and closer to Tagwa (the sense of being responsible to Allah, commonly rendered as piety or fear or righteousness in absence of an exact equivalent); because this forgiveness symbolically indicates that the severance o…
+
+**From the Sunnah:** his grandfather narrated that the Prophet ﷺ said:
 ## Personal Reflections
 
 

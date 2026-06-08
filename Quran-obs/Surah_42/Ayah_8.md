@@ -194,6 +194,17 @@ Imam Ahmad recorded that Abu Nadrah said, "One of the Companions of the Prophet 
 
 وَمَنْ حَوْلَهَا - means the suburbs in the neighborhood of Makkah Mukarramah; it could mean the neighboring Arab countries as well as the whole of the earth from east to west.
 
+## AI Translation
+
+Had Allah willed, He could have easily made all humanity into a single community of believers. But He admits into His mercy whoever He wills. And the wrongdoers will have no protector or helper.
+
+## AI Tafsir
+
+**Context:** And thus We have revealed to you a Qur'an in Arabic that you may warn the Mother of the Towns and all around it, and warn (them) of the Day of Assembling of which there is no doubt, a party will be in Paradise and a part…
+
+**What this ayah teaches:** And thus We have revealed to you a Qur'an in Arabic that you may warn the Mother of the Towns and all around it, and warn (them) of the Day of Assembling of which there is no doubt, a party will be in Paradise and a party in the blazing Fire (7)And if Allah had willed, He could have made them one nation, but He admits whom He wills to His mercy.
+
+**Classical tafsir:** Ibn Kathir notes: This title has been given to this city because, to Allah Almighty, it is more distinguished and more excellent than all other cities, habitations and the whole earth.
 ## Personal Reflections
 
 

@@ -112,6 +112,15 @@ Reaction of Queen Bilqis on the letter of Sulaiman
 
 After having consulted the functionaries of her government and gaining their confidence, she herself developed a strategy that she should initially test out the real intention of Sayyidna Sulaiman (علیہ السلام) and to find out whether he was actually a prophet and messenger of God, and whether he was really conveying the message of God or he was aspiring for a greater empire. The purpose behind this strategy was to find out that if he was a prophet in reality, then his command should be followed and no hostility be adopted against him. On the other hand if he was only a king and wished to expand his empire by subjugating her kingdom, then a different plan be worked out to face the challenge. To test out the real intention of Sayyidna Sulaiman (علیہ السلام) she adopted the tactic of sending to him precious gifts and presents. If he becomes satisfied after receiving the gifts, then it would indicate that he was only a king and had approached her with mundane motives. On the other hand, if he was actually a prophet then he would not agree on anything other than acceptance of Islam. Ibn Jarir has reported this explanation from Sayyidna Ibn ` Abbas ؓ Mujahid, Ibn Juraij, and Ibn Wahb رحمۃ اللہ علیہم with several chins of narrators.The same subject is elaborated in the following verse:
 
+## AI Translation
+
+She reasoned, “Indeed, when kings invade a land, they ruin it and debase its nobles. They really do so!
+
+## AI Tafsir
+
+**What this ayah teaches:** Because of her remarks, the ministers and the generals expressed their readiness to sacrifice everything they had in order to follow her command. If he becomes satisfied after receiving the gifts, then it would indicate that he was only a king and had approached her with mundane motives.
+
+**Classical tafsir:** Ibn Kathir notes: Because of her remarks, the ministers and the generals expressed their readiness to sacrifice everything they had in order to follow her command.
 ## Personal Reflections
 
 

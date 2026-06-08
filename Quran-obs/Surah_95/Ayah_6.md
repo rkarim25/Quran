@@ -134,6 +134,17 @@ Then Allah says,
 
 Some commentators say that the statement - رَ‌دَدْنَاهُ أَسْفَلَ سَافِلِينَ (We turned him into the lowest of the low) does not refer to human beings in general. It refers specifically to unbelievers who destroyed the God-given best composition, human perfection, honour and intellect by pursuing physical pleasures. As a result of their ingratitude, they will be turned into the lowest of the low. In this interpretation, the exception - إِلَّا الَّذِينَ آمَنُوا (except those who believed and did righteous deeds, because for them there is a reward never ending) will carry its basic interpretation, in that they will not be turned into the lowest of the low. For those who believed and did righteous deeds, there is a reward that is unending. [ Thus in al-Mazhari ].
 
+## AI Translation
+
+Except those with iman—faith that reshapes how you live—who do righteous deeds; for them is unending reward.
+
+## AI Tafsir
+
+**What this ayah teaches:** For those who believed and did righteous deeds, there is a reward that is unending.
+
+**Classical tafsir:** Ibn Kathir notes: Then We reduced him to the lowest of the low.)(6.
+
+**From the Sunnah:** Malik and Shu'bah narrated from 'Adi bin Thabit, who narrated that Al-Bara' bin 'Azib said, "The Prophet ﷺ used to recite in one of his Rak'ahs while traveling 'At-Tin waz-Zaytun' (Surat At-Tin), and I have never heard anyone with a nicer voice or recitation t… Paradise for the righteous believers, the verse reads: لَهُمْ أَجْرٌ‌ غَيْرُ‌ مَمْنُونٍ (for them there is a reward never ending. (Sahih Muslim)
 ## Personal Reflections
 
 

@@ -156,6 +156,15 @@ Tafsir authority Mujahid has said that the blood excreted by a woman in pregnanc
 
 Said in the last sentence of verse وَكُلُّ شَيْءٍ عِندَهُ بِمِقْدَارٍ (And everything has measure with Him). It means that there can be no decrease or in-crease from the norm set with Allah Ta’ ala. All states through which a child-to-be-born passes are also included under this statement, that is, everything pertaining to such a child lies determined with Allah who knows for how many days the child will stay in the womb, then, for how long it will continue to live in the world, and how much of sustenance it will receive. This matchless knowledge of Allah Ta` ala is an open proof of His Oneness (Tauhd).
 
+## AI Translation
+
+Allah knows what every female carries and what wombs fall short of or exceed. With Him everything is measured with precision.
+
+## AI Tafsir
+
+**What this ayah teaches:** Everything with Him is in (due) proportion (8)All-Knower of the unseen and the seen, the Most Great, the Most High .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

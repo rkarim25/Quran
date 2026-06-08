@@ -265,6 +265,15 @@ In this verse, one more condition governing the acceptance of sadaqah صدقہ h
 
 The meaning of وَاللَّـهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِي 'Allah Almighty will not show disbelievers the way' towards the end of verse 264 is that the Qur'anic guidance is universal. It is common to all human beings. But, disbelievers do not take notice of this guidance, rather go a step farther and make fun of it. As a result, Allah Almighty lets them be deprived of the very taufiq توفیق ، the ability to accept guidance. The effect is that they do not accept any guidance.
 
+## AI Translation
+
+O believers — do not ruin your charity with reminders and hurt, like those who give only to show off and do not believe in Allah or the Last Day. Their likeness is hard rock covered with thin soil: when rain hits it, nothing remains. They gain nothing from what they spent. Allah does not guide those who reject the truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** Those who spend their wealth in the cause of Allah, and do not follow up their gifts with reminders of their generosity or with injury, their reward is with their Lord.
+
+**Classical tafsir:** Ibn Kathir notes: They will not feel sorry for this, because they will acquire what is far better for them.
 ## Personal Reflections
 
 

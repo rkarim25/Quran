@@ -304,6 +304,17 @@ And now a word concerning what was said about women -- "There is no sin on you i
 
 52. Surma: collorium, claimed to be an inorganic lead compound -- 'Galena', which has been erroneously translated as 'Antimony' by Western writers. Since 'Antimony' is a known ingredient of modern sophisticated explosives, this age-old eye-cosmetic has gone out of fashion and favour.
 
+## AI Translation
+
+There is no blame if you hint at marriage to widows or keep it in your hearts. Allah knows you will mention them. Do not make secret commitments — speak honourably. Do not confirm marriage until the waiting period ends. Know that Allah knows what is in your hearts, so beware of Him. Allah is All-Forgiving, Most Forbearing.
+
+## AI Tafsir
+
+**What this ayah teaches:** As for the divorced wife (not irrevocably divorced), there is no disagreement that it is not allowed for other than her husband to mention marriage proposals to her directly or indirectly (before the 'Iddah finishes).
+
+**Classical tafsir:** Ibn Kathir notes: And now a word concerning what was said about women -- "There is no sin on you in what they do for themselves as recognized."This teaches us that it becomes obligatory on others to stop one who acts against the Shari'ah, of course, if they have the ability or power to do so.
+
+**From the Sunnah:** The Prophet ﷺ ordered Fatimah bint Qays to remain in the house of Ibn Umm Maktum for 'Iddah when her husband Abu 'Amr bin Hafs divorced her for the third time. When she finished the 'Iddah, Usamah bin Zayd, the Prophet's freed slave asked to marry her, and the Prophet ﷺ married her to him.
 ## Personal Reflections
 
 

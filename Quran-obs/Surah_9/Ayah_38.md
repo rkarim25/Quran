@@ -246,6 +246,19 @@ The thrust of the argument is that one's major concern in life should be that of
 
 The ` Aqa'id of Islam (articles of faith) are based on three principles: (1) Tauhid (Oneness of Allah); (2) Risalah (the true mission of the messenger and prophet sent by Allah) and (3) Akhirah (Hereafter). Out of these, the belief in Akhirah is, in all reality, the moving spirit for correction of deeds and serves as an iron wall before crimes and sins. A little thought would make it amply clear that there can be no peace in the world without subscribing to this belief. The world as we see it to-day has reached its zenith in terms of its material progress. Then, there is no dearth of functional solutions and plans designed to eradicate crimes. Laws proliferate. So does the administrative machinery to interpret and implement the objective. No doubt, there is progress in those terms. But, along with it, everyone is witnessing crimes increasing day by day, everywhere, in all societies. The reason, in our humble view, is no other but that the disease has not been properly diagnosed and the line of treatment is not sound. The root of the disease is materialism, excessive indulgence in the temporal and negligence or avoidance of the thought of any life to come. The only way this frame of mind can be corrected is to remember Allah and think about the Akhirah, the life to come. Whenever and wherever in this world this master prescription was used, whole nations and their societies became models of humanity at its best earning the admiration of angels. That this happened during the blessed period of the Holy Prophet ﷺ and during the age of his noble Companions, is sufficient as its proof.
 
+## AI Translation
+
+O you who have iman! What is the matter with you that when you are asked to march forth in the cause of Allah, you cling firmly to land? Do you prefer the life of this dunya over the Akhirah? The enjoyment of this worldly life is insignificant compared to that of the Akhirah.
+
+## AI Tafsir
+
+**Context:** But, destiny has its own workings. Is it not that Allah had already revealed about the blessed person of the Holy Prophet ﷺ .
+
+**What this ayah teaches:** Its treatment appears next when it was said: So, the enjoyment of the worldly life is but little as compared with the Hereafter - 38.
+
+**Classical tafsir:** Ibn Kathir notes: Tabuk is the name of a place located close to the Syrian border towards the north of Madinah.
+
+**From the Sunnah:** Allah admonishes those who lagged behind the Messenger of Allah ﷺ in the battle of Tabuk, at a time when fruits were ripe and shades tempting in the intense and terrible heat, Ath-Thawri narrated that Al-A'mash said about the Ayah, (Sahih Muslim)
 ## Personal Reflections
 
 

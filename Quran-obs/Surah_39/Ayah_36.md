@@ -153,6 +153,17 @@ A lesson, and a good counsel
 
 In verse 36, it was said: وَيُخَوِّفُونَكَ بِالَّذِينَ مِن دُونِهِ (And they are frightening you of those [ false gods whom they worship ] other than Him.), that is, 'the disbelievers frighten you with the displeasure of their false objects of worship'. Readers of this verse generally tend to pass by it thinking that it is talking about a particular event that relates to the threats of disbelievers and to the blessed person of the Holy Prophet t, hence they would not exert enough to find out the guidance that it has for us. Although, it is an open fact that anyone who threatens a Muslim on the ground that, should he not do such and such haram act or sin, his superiors at whose mercy he is, will be displeased with him, and may even hurt him is also included under this verse, even if the person giving a threat is a Muslim, and the person he is being threatened of is also no one else but a Muslim, virtually Muslims on both sides. And these are terrible times for all. This happens all over the world, in most jobs they do. They have to face a dilemma. Are they willing and ready to contravene the Divine laws (they are bound with)? Or else, are they prepared to become targets of the wrath and retribution of their superior officers? This verse gives a guideline good enough for all of them: Is Allah Ta’ ala not sufficient to protect you? Here you are. You make a resolve that you will abstain from committing sins exclusively for the sake of Allah. Then you simply do not care about any officer, any authority asking you to act counter to Divine laws. If you do just that, the help and support of Allah Taala shall be with you. The worst that can happen is that you may lose that job. So, what? Allah Ta’ ala will make some other arrangement for your sustenance. And for that matter, it is typical of a believer that he himself keeps trying to find a suitable job elsewhere after which he is placed in a position of leaving it immediately.
 
+## AI Translation
+
+Is Allah not sufficient for His servant? Yet they threaten you with other powerless gods besides Him! Whoever Allah leaves to stray will be left with no guide.
+
+## AI Tafsir
+
+**Context:** In the first verse (36), it was said: أَلَيْسَ اللَّـهُ بِكَافٍ عَبْدَهُ (Is Allah not sufficient for (the protection of) His slave?). This verse was revealed in the background of an event.
+
+**What this ayah teaches:** Or if He intended some mercy for me, could they withhold His mercy?" Say: "Sufficient for me is Allah; in Him those who trust must put their trust.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

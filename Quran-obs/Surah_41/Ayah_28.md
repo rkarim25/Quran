@@ -154,6 +154,17 @@ It is Wajib (necessary) to listen quietly while Qur’ an is being recited; It i
 
 It is learnt from the above verse that making noises with the intention of creating disturbance in the recitation of the Qur'an is a sign of disbelief. It is also known that to listen quietly to the recitation of the Qur'an is wajib (necessary) and a sign of faith. It has become a usual practice in our days that people put their radios (and cassette players) on where the Holy Qur'an is recited with loud voice, which can be heard in about every restaurant and place of gathering, while people go about their business never paying any attention to the Holy Qur'an. This practice presents a picture that was a sign of infidels. May Allah Almighty guide Muslims. They should either avoid the recitation of the Holy Qur'an at such places and on such occasions where people are unable to listen to it, or if they wish to benefit from the blessing of the recitation, they must listen to it quietly and attentively.
 
+## AI Translation
+
+That is the reward of Allah's enemies: the Fire, their eternal home—a fitting reward for their denial of Our revelations.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therein will be for them the eternal home, a recompense for that they used to deny Our Ayat. And the Word is justified against them as it was justified against those who were among the previous generations of Jinn and men that had passed away before them.
+
+**Classical tafsir:** Ibn Kathir notes: And the Word is justified against them as it was justified against those who were among the previous generations of Jinn and men that had passed away before them.
+
+**From the Sunnah:** "And make noise in the midst of its (recitation)" means whistling and trying to make the Messenger of Allah ﷺ confused when he recited Qur'an, which is what the Quraysh did.
 ## Personal Reflections
 
 

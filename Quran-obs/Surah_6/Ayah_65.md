@@ -358,6 +358,17 @@ In short, not every difference is absolutely blameworthy, nor every agreement ab
 
 This tells us that the problem does not lie in difference of opinion, nor does it lie in acting according to a particular opinion, instead, all problems show up when others are suspected and slandered - which is an outcome of lack of knowledge and honesty and plenty of self-serving desires and fancies. When a nation or country stoops to that level, this merciful difference is changed into punishing difference. Of all the people, Muslims themselves split into parties, fight among themselves, even do the impossible by killing each other. Hurling insults on others is taken to be a defence of religious position, although, religion has nothing to do with such excess and aggression. In fact, this is the confrontation and fighting which has been sternly prohibited by the Holy Prophet ﷺ . In authentic Ahadith, it has been cited as the cause of peoples and nations going astray. (Tirmidhi, Ibn Majah)
 
+## AI Translation
+
+Say, “He has the power to unleash upon you a torment from above or below you or split you into factions and make you taste the violence of one another.” See how We vary the signs, so perhaps they will comprehend.
+
+## AI Tafsir
+
+**Context:** "Yalbisakum means, 'cover you with confusion', So it means to, 'divide into parties and sects'. Jabir bin 'Abdullah said, 'When this Ayah was revealed, So, the verse could be translated in the sense that one kind of ` Ad…
+
+**What this ayah teaches:** In the light of these Hadith narrations and the explanation of related verses, the outcome is that hardships faced by people at the hands of their rulers are a punishment which comes from above - and that which is inflicted through servants and subordinates is a punishment which comes from beneath.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Walibi ('Ali bin Abi Talhah) reported that Ibn 'Abbas said that this Ayah refers to desires.
 ## Personal Reflections
 
 

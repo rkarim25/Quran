@@ -99,6 +99,17 @@ And of course, We do have the power to show you what We threatened them with. (2
 
 Some commentators say that even though Allah has promised, on account of His regard for the Holy Prophet ﷺ that He will not punish the entire community while he (Holy Prophet ﷺ) lives among them وَمَا كَانَ اللَّـهُ لِيُعَذِّبَهُمْ وَأَنتَ فِيهِمْ (And Allah is not to send punishment upon them while you are in their midst-- 8:33) yet the punishment of some selected persons in special circumstance does not negate the promise. The punishment of the infidels of Makkah through famine and through their defeat at the hands of the Muslims at the Battle of Badr had taken place in the lifetime of the Holy Prophet ﷺ ، which is emphasized in this verse that "We have the power to show you what We threatened them with".
 
+## AI Translation
+
+We are indeed able to show you what We have threatened them with.
+
+## AI Tafsir
+
+**What this ayah teaches:** So we are commanded to mention Allah at the beginning of any undertaking, in order to ward off the Shayatin at the time of eating, intercourse, slaughtering animals for food, etc.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** If You would show me that with which they are threatened.) meaning, 'if You punish them while I am witnessing that, then do not cause me to be one of them.' As was said in the Hadith recorded by Imam Ahmad and At-Tirmidhi, who graded it Sahih: (Musnad Ahmad, Jami' at-Tirmidhi) We have already stated, when discussing Isti'adhah (seeking refuge), that the Messenger of Allah ﷺ used to say,
 ## Personal Reflections
 
 

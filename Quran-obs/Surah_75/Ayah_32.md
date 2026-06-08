@@ -172,6 +172,17 @@ In the preceding verses, reckoning on the Day of Reckoning and conditions of the
 
 Sayyidna Ibn ` Abbas says that the two 'shanks' refer to the two worlds: the Here and the Hereafter. The verse signifies 'the last day of the days of this world and the first day of the days of the Hereafter; one affliction will be joined to another, and the agony of leaving this world will be joined to the agony of the punishment awaiting the disbeliever in the next world'. And Allah knows best!
 
+## AI Translation
+
+but denied and turned away,
+
+## AI Tafsir
+
+**What this ayah teaches:** But on the contrary, he denied and turned away!) This is to inform about the those who reject the truth who used to deny the truth in his heart in the abode of this worldly life, and he used to turn away from acting according to its way.
+
+**Classical tafsir:** Ibn Kathir notes: This means, 'you deserve to strut like this while you have disbelieved in your Creator and Maker.' This is what is commonly said in this type of situation in order to mock and intimidate (someone).
+
+**From the Sunnah:** this to Abu Jahl, then Allah, the Mighty and Sublime, revealed this Ayah.'
 ## Personal Reflections
 
 

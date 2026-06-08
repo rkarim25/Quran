@@ -134,6 +134,15 @@ The men of Allah, however, have suggested some distinct signs to differentiate b
 
 The verses 97 to 99 have warned the people of the world saying: "So, do the people of the towns feel secure from Our punishment coming upon them at night while they are asleep?" The verse implies that the residents of these towns (the people living in the time of the holy Prophet seem to be unmindful of the fact that they can be caught by the punishment of Allah any time when sleeping at night. They should not feel themselves secure from the punishment of Allah which may come to them suddenly any day when they are busy in their worldly pursuits. What has made them so fearless of Allah's plan? The fate of the early people referred to in the foregoing verses should be a lesson for these people. Man should be wise enough to take lesson from the events of other people and avoid things to do which had led them to death and disaster.
 
+## AI Translation
+
+Did they feel secure against Allah’s planning? None would feel secure from Allah’s planning except the losers.
+
+## AI Tafsir
+
+**What this ayah teaches:** None feels secure from Allah's plan except the people who are the losers . Or, did the people of the towns then feel secure against the coming of Our punishment in the forenoon while they were playing?) while they are busy in their affairs and unaware.
+
+**Classical tafsir:** Ibn Kathir notes: Except the people of Yunus; when they believed, We removed from them the torment of disgrace in the life of the (present) world, and permitted them to enjoy for a while.)[10:98] This Ayah indicates that no city believed in its entirety, except the city of Prophet Yunus, for they…
 ## Personal Reflections
 
 

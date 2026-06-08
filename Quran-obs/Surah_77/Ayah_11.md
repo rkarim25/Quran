@@ -164,6 +164,17 @@ Allah is saying, 'for which day are the Messengers postponed and their matter ex
 
 وَإِذَا الرُّ‌سُلُ أُقِّتَتْ (and when the messengers will be assembled at the appointed time, [ then all matters will be decided.] [ 77:11] ' The word uqqitat is derived from tauqit which primarily means 'appointment of time'. According to Zamakhshari, it signifies 'to arrive at an appointed time' [ as cited in Ruh ]. In this context, the second meaning appears to be more appropriate. The verse signifies that the appointed time for the Prophets and Messengers to assemble with their communities will arrive, so that all matters concerning them may be decided. The verses further describe the Day of Judgment as the great and horrible day and the Day of Decision. It shall be the day of destruction for the deniers and rejecters, thus:
 
+## AI Translation
+
+and the messengers' appointed time to testify arrives—
+
+## AI Tafsir
+
+**Context:** (By the Mursalat.) was revealed to him. He was reciting it and I was learning it from his mouth. Verily, his mouth was moist with it when a snake leaped out at us. The Prophet ﷺ said,
+
+**What this ayah teaches:** The verse signifies that the appointed time for the Prophets and Messengers to assemble with their communities will arrive, so that all matters concerning them may be decided. And when the mountains are blown away.)(11.
+
+**Classical tafsir:** Ibn Kathir notes: This means, what you all have been promised concerning the establishment of the Hour (Judgement Day), the blowing of the horn, the resurrection of the bodies, the gathering of those of old and those of latter times on one common ground and the rewarding of every doer of a deed ba…
 ## Personal Reflections
 
 

@@ -96,6 +96,17 @@ Surah At-Tatfif
 
 Ends here
 
+## AI Translation
+
+That Day the believers will laugh at those who rejected the truth,
+
+## AI Tafsir
+
+**What this ayah teaches:** The Wicked Behavior of the Criminals and Their mocking of the Believers Allah informs that the criminals used to laugh at the believers in the worldly life. Whenever they would pass by the believers, they would wink at each other about them, meaning in contempt of them.
+
+**Classical tafsir:** Ibn Kathir notes: In other words, they would mock them and despise them.
+
+**From the Sunnah:** May Allah salvage the Muslims from this painful scourge.
 ## Personal Reflections
 
 

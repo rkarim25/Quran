@@ -134,6 +134,15 @@ Allah the Exalted said,
 
 قُتِلَ الْخَرَّ‌اصُونَ (Death upon those who make conjectures - 51:10). The expression kharrasun is the plural of kharras which means one who estimates or say things by conjecture. In this context the word refers to those stubborn and obstinate infidels who, without any reason or evidence, say discordant things about the Messenger ﷺ . Thus it would not be out of turn to interpret kharrasun as kadhdhabun, meaning 'the great liars' as they are condemned, denounced, cursed and imprecated (Mazhari) in this statement. After the mention of infidels, several verses that follow describe the qualities of the righteous people and the pleasant consequences of their righteousness.
 
+## AI Translation
+
+The Day they will be tormented over the Fire.
+
+## AI Tafsir
+
+**What this ayah teaches:** They ask: "When will be the Day of Ad-Din?")(13. In this context the word refers to those stubborn and obstinate infidels who, without any reason or evidence, say discordant things about the Messenger ﷺ .
+
+**Classical tafsir:** Ibn Kathir notes: In this context the word refers to those stubborn and obstinate infidels who, without any reason or evidence, say discordant things about the Messenger ﷺ .
 ## Personal Reflections
 
 

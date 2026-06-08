@@ -470,6 +470,17 @@ According to some other reports, when some of them woke up to what had happened,
 
 Verse 158, part of which was referred to immediately earlier, ends at: وَكَانَ اللَّـهُ عَزِيزًا حَكِيمًا : (And Allah is All-Mighty, All-Wise) carrying a significant message. It means that the planning of Jews to kill Sayyidna ` Isa (علیہ السلام) was insignificant as matched against the Power of Allah who has taken it upon Himself to protect Sayyidna ` Isa (علیہ السلام) . Might and mastery are His domain. If materialists in their single-track isolation, remain incapable of understanding the reality of the 'lifting off of Sayyidna ` Isa (علیہ السلام) ، that is their own limitation. As for Allah, He is All-Wise - everything He does is based on wisdom and fitness to whatever end is desired.
 
+## AI Translation
+
+For breaking their covenant, rejecting Allah’s signs, killing the prophets unjustly, and for saying, “Our hearts are unreceptive!”—it is Allah Who has sealed their hearts for their rejection of the truth, so they do not believe except for a few— and for their denial and outrageous accusation against Mary, and for boasting, “We killed the Messiah, Jesus, son of Mary, the messenger of Allah.” But they neither killed nor crucified him—it was only made to appear so. Even those who argue for this are in doubt. They have no knowledge whatsoever—only making assumptions. They certainly did not kill him.
+
+## AI Tafsir
+
+**What this ayah teaches:** They even said that Maryam sat under the corpse of the crucified man and cried, and they say that the dead man spoke to her. Because of their breaking the covenant, and their rejecting the Ayat of Allah, and their killing the Prophets unjustly, and their saying: "Our hearts are Ghulf," nay, Allah has set a seal upon their hearts because of their disbelief, so they believe not but a little (155)And…
+
+**Classical tafsir:** Ibn Kathir notes: Verily, you are a mad man!)[15:6] When Allah sent 'Isa with proofs and guidance, the Jews, may Allah's curses, anger, torment and punishment be upon them, envied him because of his prophethood and obvious miracles; curing the blind and leprous and bringing the dead back to life,…
+
+**From the Sunnah:** Paradise)?' One of the youngest ones among them volunteered and 'Isa asked him to sit down.
 ## Personal Reflections
 
 

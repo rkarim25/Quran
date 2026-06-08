@@ -106,6 +106,15 @@ In this verse (19), by adding the word: سَعْيَهَا (as due), it has been
 
 Explaining the word: سَعْيَهَا (as due), Tafsir Ruh al-Ma’ ani says that the 'effort' should be in accordance with 'sunnah.' Along with it, it adds that this effort or deed should also have uprightness and firmness. In other words, this deed should be beneficial in accordance with the Sunnah as well as it should be upright and constant. Doing it haphazardly or doing it in a cycle of doing and not doing is not good. It never yields the maximum benefit.
 
+## AI Translation
+
+But whoever desires the Akhirah and strives for it accordingly, and is a true believer, it is they whose striving will be appreciated.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then, afterwards, We have appointed for him Hell; he will burn therein disgraced and rejected (18)And whoever desires the Hereafter and strives for it, with the necessary effort due for it while he is a believer, then such are the ones whose striving shall be appreciated, (rewarded by Allah).
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, even well meaning efforts made by insisting on bland personal opinion and self-invented ways - which includes common customs of Bid'ah (innovations in established religion) - no matter how good and beneficial they may appear at their face, but are not appropriate to th…
 ## Personal Reflections
 
 

@@ -184,6 +184,15 @@ As for the day being bright, it has two elements of wisdom. Firstly, one can ear
 
 Similarly, other calculations are also related to the alternation of night and day. If this variation of night and day were not there, it would have been difficult to fix the wages of the wage earner, the employment of the employee and the time duration of transactions.
 
+## AI Translation
+
+We made the day and night as two signs. So We made the sign of the night devoid of light, and We made the sign of the day perfectly bright, so that you may seek the bounty of your Rabb and know the number of years and calculation of time. And We have explained everything in detail.
+
+## AI Tafsir
+
+**What this ayah teaches:** It has, however, been mentioned in other verses that the darkness of the night is appropriate and conducive to sleep and rest.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

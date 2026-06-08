@@ -136,6 +136,15 @@ The word 'al-wasilah' in: يَبْتَغُونَ إِلَىٰ رَ‌بِّهِ�
 
 About the sentence which follows immediately after: يَرْ‌جُونَ رَ‌حْمَتَهُ وَيَخَافُونَ عَذَابَهُ (hope for His Mercy and fear His punishment - 57), Sahl ibn ` Abdullah said: Hope and Fear, that is, hoping for mercy from Allah as well as fearing Him are two different states one is in. When they stay at par, one keeps on course, correct and stable. And if any one of the two overcomes the other, one finds the equilibrium of his spiritual state subjected to disorder to the measure of that imbalance. (Qurtubi)
 
+## AI Translation
+
+Even the closest to Allah of those invoked would be seeking a way to their Rabb, hoping for His mercy, and fearing His punishment. Indeed, your Rabb’s torment is fearsome.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, the torment of your Lord is (something) to be afraid of .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

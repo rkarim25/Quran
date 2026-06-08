@@ -110,6 +110,15 @@ Ibn Abi Hatim recorded that 'Uqbah bin 'Amir, may Allah be pleased with him, sai
 
 فَلَمَّا آسَفُونَا (So, when they provoked our anger, - 43:55). Since Allah Almighty is pure of the states of anger and sorrow, the meaning is that their behavior caused Us to decide that they should be punished. (Ruh-ul-Ma’ ani)
 
+## AI Translation
+
+We made them an example and a lesson for those after them.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, they were ever a people who were rebellious (54)So when they angered Us, We punished them, and drowned them all (55)And We made them a precedent, and an example to later generations .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

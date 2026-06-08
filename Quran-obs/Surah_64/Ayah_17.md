@@ -184,6 +184,19 @@ Surah At-Taghabun
 
 Ends here
 
+## AI Translation
+
+If you lend to Allah a good loan, He will multiply it for you and forgive you. Allah is Most Appreciative, Most Forbearing.
+
+## AI Tafsir
+
+**Context:** فَاتَّقُوا اللَّـهَ مَا اسْتَطَعْتُمْ (So, observe taqwa [ total obedience to Allah in awe of Him ] as far as you can…64:16).
+
+**What this ayah teaches:** But if you pardon (them) and overlook, and forgive, then verily, Allah is Oft-Forgiving, ar-Rahim (14)Your wealth and your children are only a Fitnah, whereas Allah!
+
+**Classical tafsir:** Ibn Kathir notes: Verily, among your wives and your children there are enemies for you; therefore beware of them!
+
+**From the Sunnah:** Later when they joined Allah's Messenger ﷺ, they found that those who were with him (the Companions) have gained knowledge in the religion, so they were about to punish their wives and children.
 ## Personal Reflections
 
 

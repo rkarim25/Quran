@@ -119,6 +119,15 @@ Commentary
 
 The word لَاعِبِينَ is taken from لِعَب (play), which means having no useful objective (Raghib) while لَھَو (pastime) means an act which has no purpose at all except to provide amusement in free time. The disbelievers who argue against the Holy Prophet ﷺ and the Holy Qur'an and reject the Oneness of Allah and deny His Power, despite its abundant manifestations, then it is apparent that they have a notion that all this creation is meant for amusement and pastime. The verse rejects this false view and says that Allah's creation is not for fun and pastime. A little reflection will show that even the minutest particle of the universe has its utility and each and everything created by Allah has a purpose which speaks by itself for His omniscience and Oneness.
 
+## AI Translation
+
+We did not create the heavens and the earth and everything in between for sport.
+
+## AI Tafsir
+
+**What this ayah teaches:** We created not the heavens and the earth and all that is between them for play (16)Had We intended to take a pastime, We could surely have taken it from Us, if We were going to do (that)(17)Nay, We fling the truth against the falsehood, so it destroys it, and behold, it disappears.
+
+**Classical tafsir:** Ibn Kathir notes: Having witnessed the marvels and wonders of creation which are so abundantly spread all over, manifesting Allah's omnipotence and omniscience, do they still think that all these things are futile and without significance?
 ## Personal Reflections
 
 

@@ -121,6 +121,17 @@ Informing about the past nations and the torment and disciplinary lessons that t
 
 فَقَالُوا أَبَشَرٌ‌ يَهْدُونَنَا (…but they said, “ Shall some mortals give us guidance?”…64:6). Though the word basher [ mortal (s)] is singular, but in meaning it is plural. Therefore, the verb يَهْدُونَنَا ‘give us guidance’ is plural. All unbelievers held the notion that prophets and messengers cannot be human beings. The Qur’ an has time and again falsified and refuted this notion of the unbelievers. Alas, there is also a group of Muslims who denies the mortality of the Allah’ s Messenger. They need to think in which direction they are moving. His mortality is not contradictory to his prophet-hood, nor is it incompatible with his high station of messenger-ship, nor is his being a Messenger inconsistent with his being a Nur (light). He is Nur (light) as well as a mortal. It is a false analogy to compare his light with that of a lamp or of the sun or the moon.
 
+## AI Translation
+
+That was because their messengers came with clear proofs, but they said mockingly: 'How can humans be our guides?' So they persisted in rejection and turned away. Allah was not in need of them. He is Self-Sufficient, Praiseworthy.
+
+## AI Tafsir
+
+**What this ayah teaches:** And so they tasted the evil result of their disbelief, and theirs will be a painful torment (5)That was because there came to them their Messengers with Bayyinat, but they said: "Shall mere men guide us?" So they disbelieved and turned away.
+
+**Classical tafsir:** Ibn Kathir notes: And so they tasted the evil result of their disbelief, and theirs will be a painful torment (5)That was because there came to them their Messengers with Bayyinat, but they said: "Shall mere men guide us?" So they disbelieved and turned away.
+
+**From the Sunnah:** Alas, there is also a group of Muslims who denies the mortality of the Allah’ s Messenger.
 ## Personal Reflections
 
 

@@ -190,6 +190,15 @@ When the man told Musa about how Fir'awn and his chiefs were conspiring against 
 
 Some very important points are learnt by this incident. One, that it was the practice of the prophets to help the weak. Sayyidna Musa (علیہ السلام) saw that two girls had brought their goats for drinking water, but they were unable to find room because of the rush of people. Therefore, he asked them about their problem. Two, that there is no harm to talk to stranger women, if no mischief is involved. Three, that although this incident had happened when hijab was not enjoined, a situation that continued even in the early days of Islam (hijab was enjoined in Madinah after the Hijrah), but the underlying spirit of hijab, i.e the natural instinct of modesty and bashfulness, was there even in those days. Because of this natural instinct the two girls preferred hardship rather than getting mixed with men-folk. Four, that it was not considered desirable for women even in those days to go out and perform such type of duties. It was for this reason that they put forward the justification that their father was very old and weak.
 
+## AI Translation
+
+When he arrived at the well of Midian, he found a group of people watering their herds. Apart from them, he noticed two women holding back their herd. He asked them, “What is the problem?” They replied, “We cannot water our animals until the other shepherds are done, for our father is a very old man.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Two, that there is no harm to talk to stranger women, if no mischief is involved.
+
+**Classical tafsir:** Ibn Kathir notes: He was not used to being alone, because before that he had been living a life of luxury and ease, in a position of leadership.
 ## Personal Reflections
 
 

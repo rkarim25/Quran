@@ -106,6 +106,15 @@ Allah asked the Jews if they have a share in the dominion. That is merely a stat
 
 Linked with previous verses, the description of Jewish traits of character continues in the present verses as well.
 
+## AI Translation
+
+Do they have control over shares of the kingdom? If so, they would not have given anyone so much as the speck on a date stone.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Envy and Miserly Conduct of the Jews Allah asked the Jews if they have a share in the dominion.
+
+**Classical tafsir:** Ibn Kathir notes: The Envy and Miserly Conduct of the Jews Allah asked the Jews if they have a share in the dominion.
 ## Personal Reflections
 
 

@@ -152,6 +152,17 @@ The Second View
 
 فَمَن يُؤْمِن بِرَ‌بِّهِ فَلَا يَخَافُ بَخْسًا وَلَا رَ‌هَقًا (...so if one believes in his Lord, he will have no fear of either any curtailment [ in his reward ] or any excess [ in his punishment ]...72:13). The ward bakhs, with ba' carrying fatha ] and kha' carrying sukun, means 'to reduce the right' and the word rahaq means 'disgrace'. In other words, anyone who believes in Allah need fear neither curtailment in the reward of his good deeds, nor disgrace by excess in his punishment in the Hereafter.
 
+## AI Translation
+
+If those who reject the truth had followed the Straight Path, We would have granted them abundant rain to drink—
+
+## AI Tafsir
+
+**Context:** Al-'Awfi reported similar to this from Ibn 'Abbas, and likewise said Mujahid, Sa'id bin Jubayr, Sa'id bin Al-Musayyib, 'Ata, As-Suddi, Muhammad bin Ka'b Al-Qurazi, Qatadah and Ad-Dahhak.
+
+**What this ayah teaches:** And whosoever has embraced Islam, then such have sought the right path.' (14)And as for the Qasitun, they shall be firewood for Hell (15)If they had believed in Allah, and went on the way, We would surely have bestowed on them water in abundance (16)That We might try them thereby.
+
+**Classical tafsir:** Ibn Kathir notes: The ward bakhs, with ba' carrying fatha ] and kha' carrying sukun, means 'to reduce the right' and the word rahaq means 'disgrace'.
 ## Personal Reflections
 
 

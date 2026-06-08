@@ -136,6 +136,15 @@ What have You whispered to the ear of a flower (0 Allah) whereby it is smiling?
 
 And what have You said to the nightingale whereby it is weeping all the times?
 
+## AI Translation
+
+from a drop of emitted fluid,
+
+## AI Tafsir
+
+**What this ayah teaches:** And that to your Lord is the End (42)And that it is He Who makes laugh, and makes weep (43)And that it is He Who causes death and gives life (44)And that He creates the pairs, male and female (45)From Nutfah when it is emitted (46)And that upon Him is another bringing forth (Resurrection)(47)And that it is He Who Aghna and Aqna (48)And that He is the Lord of Ash-Shi'ra (49)And…
+
+**Classical tafsir:** Ibn Kathir notes: This means they are able to use it to their benefit, is this out of the completeness of His favor.
 ## Personal Reflections
 
 

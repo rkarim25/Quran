@@ -144,6 +144,15 @@ Say, "No one in the heavens and the earth has the knowledge of Unseen except All
 
 The Holy Prophet ﷺ was instructed to tell people that all the creatures that live in the heavens, like angels, and all the creatures that live in this world, like humans and jinns, none of them have any knowledge of the unseen (ghayb) except Allah. In the above-referred verse it has been stated very clearly that it is an exclusive attribute of Allah Ta` ala, and no one else, not even an angel or a prophet, could share this attribute. This subject has been dealt with in detail under verse No. 59 of Surah al-'am on page No.360 in the 3rd volume. In addition to that, I have written a separate treatise on the subject under the title (کشف الریب عن علم الغیب) which has been published in my book Ahkam-ul Qur'an in arabic. Those who are interested in this subject can refer to that.
 
+## AI Translation
+
+Or ask them, “Who originates the creation then resurrects it, and gives you provisions from the heavens and the earth? Is it another god besides Allah?” Say, O Prophet, “Show me your proof, if what you say is true.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Is not He Who originates creation, and shall thereafter repeat it, and Who provides for you from heaven and earth?
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

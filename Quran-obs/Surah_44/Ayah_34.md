@@ -46,6 +46,15 @@ Abdur-Razzaq recorded that Abu Hurayrah, may Allah be pleased with him, said, "T
 
 وَآتَيْنَاهُم مِّنَ الْآيَاتِ مَا فِيهِ بَلَاءٌ مُّبِينٌ And We gave them the clear signs in which there was a manifest blessing. (44:33) " The word 'signs' refers to the miracles of the staff, the shining hand and others. The word 1 bala' has two senses: (1) blessing; and (2) trial. Here both senses are possible. (Qurtubi).
 
+## AI Translation
+
+Indeed, these people say,
+
+## AI Tafsir
+
+**What this ayah teaches:** They Tubba' were Arab descendants of Qahtan, just as these people (Quraysh) were Arab descendants of 'Adnan.
+
+**Classical tafsir:** Ibn Kathir notes: This was brought about because the idolators denied the Resurrection.
 ## Personal Reflections
 
 

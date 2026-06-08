@@ -106,6 +106,17 @@ Here Allah tells us about the terror of the Day of Resurrection and the tremendo
 
 تَشَقَّقُ السَّمَاءُ بِالْغَمَامِ (The sky will break open with a cloud - 25:25). The explanation of the verse is that the sky will rip apart and a sort of liquid cloud will descend from it which will be carrying angels with it. This cloud will look like a canopy descending from the sky and will be bearing Allah Ta’ ala's refulgence surrounded by angels. This will precede the beginning of the reckoning and the sky will rip open only to make an opening. It will not be the same ripping as the one when the sur (صُور) will be blown to finish off the earth and the sky, because this descension of the cloud will take place after the second blowing of the sur (صُور) when the earth and the sky would have taken the new shape. (Bayan u1-Qur’ an)
 
+## AI Translation
+
+Watch for the Day the heavens will burst with clouds, and the angels will be sent down in successive ranks.
+
+## AI Tafsir
+
+**Context:** (And (remember) the Day when the wrongdoer will bite at his hands, he will say: "O! Would that I had taken a path with the Messenger.") Here Allah tells us of the regret felt by the wrongdoer who rejected the path of the…
+
+**What this ayah teaches:** The Terrors of the Day of Resurrection, and How the Wrongdoers Will Wish That They Had Taken a Path With the Messenger (ﷺ) Here Allah tells us about the terror of the Day of Resurrection and the tremendous events that will happen, including the splitting of heavens when they are pierced by the clouds, that is the shadow of the magnificent light which dazzles all sight.
+
+**Classical tafsir:** Ibn Kathir notes: Would that I had never taken so-and-so as an intimate friend!) meaning, the one among the propagators of misguidance who diverted him from true guidance and led him to follow the path of misguidance, whether this refers to…
 ## Personal Reflections
 
 

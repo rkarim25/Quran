@@ -142,6 +142,19 @@ Ibn Kathir and other Tafsir authorities have said that there is no contradiction
 
 And Sayyidah Asma' bint Yazid ؓ narrates: The Holy Prophet ﷺ said, 'when Allah Ta’ ala will gather everyone from the first to the last, a proclaimer whose call will be heard by the entire creation will call: 'This day everyone on the plains of Resurrection will find out as to who is really deserving of honor and compliment.' Then, the proclaiming angel will proclaim: '0 people assembled on the plains of Resurrection, let those rise from among you, those whose attribute was: تَتَجَافَىٰ جُنُوبُهُمْ (Their sides remain apart from their beds - 16) '. At this call, these people will stand up, though their number will be small. (Ibn Kathir) And some words of the same narration say that these people will be sent to Paradise without reckoning. After that, all others will stand and face reckoning. (Mazhari)
 
+## AI Translation
+
+Those who believe and do good will have Gardens of lasting residence as reward for what they used to do.
+
+## AI Tafsir
+
+**Context:** (Is then he who is a believer like him who is a rebellious? Not equal are they.) i.e., before Allah on the Day of Resurrection.
+
+**What this ayah teaches:** Ibn Kathir and other Tafsir authorities have said that there is no contradiction in all these sayings.
+
+**Classical tafsir:** Ibn Kathir notes: Pointed to in the cited verse is one such attribute of these believers: They leave the comfort of their beds, rise and get busy with the remembrance of Allah in submission and supplication - because, they are apprehensive of His displeasure and punishment while remaining hopeful…
+
+**From the Sunnah:** Paradise and keeps me away from Hell. (Jami' at-Tirmidhi, Sunan an-Nasa'i)
 ## Personal Reflections
 
 

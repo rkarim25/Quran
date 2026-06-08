@@ -203,6 +203,17 @@ Punishment in graves
 
 This verse is a proof of punishment in graves. Uninterrupted reports of ahadith and the consensus (ijma) of the Muslim Ummah confirm it. This humble writer has put together all such material, along with relevant verses from the Qur'an, in a regular treatise entitled: السبر بعذاب القبر As-sabr bi'adhabi-l-qabr. This treatise has been published in Arabic as part of Ahkam-ul-Qur'an.
 
+## AI Translation
+
+they are exposed to the Fire in their graves morning and evening. And on the Day the Hour is established it will be said: "Admit Pharaoh's people into the harshest punishment."
+
+## AI Tafsir
+
+**Context:** (The Fire, they are exposed to it, morning and afternoon). But the question arises: this Ayah was undoubtedly revealed in Makkah, but they use it as evidence to prove that there will be torment in the grave during the pe…
+
+**What this ayah teaches:** It was said, 'how can this report be reconciled with the fact that the Ayah was revealed in Makkah and the Ayah indicates that there will be torment during the period of Al-Barzakh?' The answer is that the Ayah refers to the souls (of Fir'awn and his people) being exposed to the Fire morning and evening; it does not say that the pain will affect their bodies in the grave.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

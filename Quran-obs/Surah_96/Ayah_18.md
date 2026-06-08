@@ -114,6 +114,19 @@ Then Allah says,
 
 Verse [ 15 - concluding part ] لَنَسْفَعًا بِالنَّاصِيَةِ (...We will certainly drag [ him ] by forelock.) The nasfa'an is derived from the infinitive safuun which means 'to seize and drag' and the word nasiyah means 'forelock', that is, the front part of a person's hair that falls forward over the forehead. When a person's forelock is seized, he becomes helpless in the hands of the seizer.
 
+## AI Translation
+
+We will call the guardians of Hell—
+
+## AI Tafsir
+
+**Context:** (Have you seen him who prevents. A servant when he prays) This was revealed about Abu Jahl, may Allah curse him. He threatened the Prophet for performing Salah at the Ka`bah.
+
+**What this ayah teaches:** In other words, let him call them in order to seek help from them. In the Name of your Lord Who has created.) (96:1) This is the end of the Tafsir of Surah Iqra' (Surat Al-`Alaq).
+
+**Classical tafsir:** Ibn Kathir notes: In the Name of your Lord Who has created.) (96:1) This is the end of the Tafsir of Surah Iqra' (Surat Al-`Alaq).
+
+**From the Sunnah:** Haven't I prevented you from this' He threatened the Prophet and thus, the Messenger of Allah ﷺ became angry with him and reprimanded him. (Jami' at-Tirmidhi, Sunan an-Nasa'i)
 ## Personal Reflections
 
 

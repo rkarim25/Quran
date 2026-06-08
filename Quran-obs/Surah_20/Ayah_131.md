@@ -200,6 +200,17 @@ What I fear most about you is wealth and worldly splendor which will be arrayed 
 
 In this Hadith the Holy Prophet ﷺ has foretold the Muslims about their conquests and the acquisition of vast territories which will bring them untold wealth and means of luxury. But there is no cause to feel satisfaction at these prospects; on the other hand there is every reason to fear such an eventuality because an excess of indulgence in luxuries may make people forget their duty to Allah.
 
+## AI Translation
+
+Do not let your eyes crave what We have allowed some of those who reject the truth to enjoy; the fleeting splendour of this worldly dunya, which We test them with. But your Rabb’s provision in the Akhirah is far better and more lasting.
+
+## AI Tafsir
+
+**What this ayah teaches:** But the provision of your Lord is better and more lasting (131)And enjoin Salah on your family, and be patient in offering them.
+
+**Classical tafsir:** Ibn Kathir notes: They are told not to cast covetous eyes at the splendor and glitter of those who revel in the enjoyment of worldly pleasures, because all these things are fleeting and transient while the grace and blessings bestowed upon the Holy Prophet and through him upon his followers are ev…
+
+**From the Sunnah:** When he came in, he saw him (the Prophet ﷺ) lying down upon a sandy straw mat. Those people have had their good hastened for them in the life of this world.) Thus, the Prophet ﷺ was the most abstinent of people concerning worldly luxuries, even though he had the ability to attain them.
 ## Personal Reflections
 
 

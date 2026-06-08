@@ -208,6 +208,17 @@ Ya Seen. By the wise Qur'an, surely you [ 0 Muhammad ] are from among the messen
 
 Imam al-Qurtubi (رح) says that he himself went through an incident in the Manthur Castle of al-Qartubah in his own country of al-Andalus (Spain). I ran in front of the enemy and sat in a corner. The enemy sent two horsemen after me. I was on open grounds. There was nothing to obstruct the view between us. But, I was reciting these verses of Surah Ya Sin. Both these horsemen passed by me. Then they went back towards where they had come from, saying, 'this person must be some devil,' because they could not see me. Allah Ta’ ala had turned them blind as far as I was concerned. (Qurtubi)
 
+## AI Translation
+
+And they say mockingly, “When we are reduced to bones and ashes, will we really be raised as a new creation?”
+
+## AI Tafsir
+
+**Context:** The subject taken up in the first two verses (45, 46) has a particular event as a background. According to al-Qurtubi reporting on the authority of Sayyidna Said ibn Jubayr ؓ ، when Surah al-Masad/al-Lahab (iii) beginnin…
+
+**What this ayah teaches:** This means that if you were to assume that you would become dead, which is the opposite of living, Allah will resurrect you when He wills, for nothing can stop Him when He wills a thing. A word derived from the same root, Naghd, is used to refer to the young of the ostrich, because when it walks, it walks quickly and moves its head.
+
+**Classical tafsir:** Ibn Kathir notes: This means that if you were to assume that you would become dead, which is the opposite of living, Allah will resurrect you when He wills, for nothing can stop Him when He wills a thing.
 ## Personal Reflections
 
 

@@ -212,6 +212,19 @@ O Emigrants, I seek the refuge of Allah Almighty against five traits of characte
 
 May Allah Almighty give us and all Muslims the most perfect ability to stay safe against such unfortunate happenings.
 
+## AI Translation
+
+Do not consume one another's wealth unjustly, nor bribe authorities to devour part of others' property knowingly — that is a sin.
+
+## AI Tafsir
+
+**Context:** This verse was revealed in the background of a particular event which relates to a land dispute between two of the noble Companions. The case came up for hearing in the court of the Holy Prophet ﷺ .
+
+**What this ayah teaches:** These are the commonly shared property of all human beings; it is not permissible for anyone to take these over as an owner.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, anyone who snatches the other person's money or property by false means, in fact, opens the door to the unlawful plundering of his money and property.
+
+**From the Sunnah:** It is reported in the Two Sahihs that Umm Salamah narrated that Allah's Messenger ﷺ said: So, if I give a Muslim's right to another, I am really giving him a piece of fire; so he should not take it.) (Sahih Muslim)
 ## Personal Reflections
 
 

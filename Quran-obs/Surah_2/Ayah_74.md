@@ -307,6 +307,17 @@ Then, we do not claim that fear of Allah is always the only cause which makes a 
 
 The order in which the three kinds of stones have been mentioned is very subtle, and, in view of the meaning and purpose intended, extremely expressive and significant. The verse places in the highest degree those stones whose affectivity is so strong that rivers gush forth from them, and provide sustenance to beasts and men. In contrast to them, it has been suggested, the hearts of the Jews are so hard that they are incapable of feeling any sympathy for their fellow-men even in suffering and pain, and hence incapable of wishing to do them good. In the second degree come the stones which do serve the creatures of Allah, but to a lesser extent. But the hearts of Jews are harder than even these. To the lowest degree of affectivity belong those stones which do not benefit anyone, but can at least 'feel' the fear of Allah. But the Jews are devoid of even this minimum degree of sensitivity.
 
+## AI Translation
+
+Even then your hearts hardened like stone — or harder. Some stones gush rivers; others split and water flows from them; others fall down in awe of Allah. Allah is not unaware of what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** And indeed, there are stones out of which rivers gush forth, and indeed, there are of them (stones) which split asunder so that water flows from them, and indeed, there are of them (stones) which fall down for fear of Allah. Some other scholars said that this Ayah means their hearts are only of two types, as hard as stone or harder than stone.
+
+**Classical tafsir:** Ibn Kathir notes: Some other scholars said that this Ayah means their hearts are only of two types, as hard as stone or harder than stone.
+
+**From the Sunnah:** Similarly, the compassion of the stump of the palm tree for the Prophet ﷺ as confirmed in authentic narrations. (Sahih Muslim)
 ## Personal Reflections
 
 

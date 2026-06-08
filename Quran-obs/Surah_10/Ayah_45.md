@@ -169,6 +169,15 @@ Imam al-Baghawi said: This recognition will be possible during the
 
 early stage. Later, when the horrendous happenings of the Qiyamah, the Day of Doom, will unfold, this ability to recognize each other will stand disabled. According to some other narrations, the ability to recognize each other will, though, still remain, but such will be the awe of the situation that they will be unable to say anything. (Mazhari)
 
+## AI Translation
+
+On the Day He will gather them, it will be as if they had not stayed in the world except for an hour of a day, as though they were only getting to know one another. Lost indeed will be those who denied the meeting with Allah, and were not rightly guided!
+
+## AI Tafsir
+
+**What this ayah teaches:** And on the Day when He shall gather them together, (it will be) as if they had not stayed (in the life of this world and graves) but an hour of a day. They will know them just like they used to know them during the life in this world.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

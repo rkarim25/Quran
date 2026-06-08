@@ -196,6 +196,17 @@ Despite their being in such proximity with each other, the varied difference amo
 
 Said in the last sentence of the verse (4) was: إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ (Surely, in that there are signs for a people who understand). It means that there are in it, absolutely without doubt, many signs of the power and greatness of Allah Ta’ ala which go on to prove that He is One and that He alone is worthy of worship. By saying that these signs are 'for a people who understand,' the hint released is that those who do not think about these things are not the people of understanding, no matter how highly they are rated and advertized for their intellect and intelligence.
 
+## AI Translation
+
+On the earth are neighbouring tracts—vineyards, diverse crops, palm trees in shared and separate clusters—all watered by the same rain, yet We make some taste better than others. In this are signs for people who understand.
+
+## AI Tafsir
+
+**What this ayah teaches:** All this indicates the existence of the Creator Who does what He wills, there is no deity or lord except Him.
+
+**Classical tafsir:** Ibn Kathir notes: All this indicates the existence of the Creator Who does what He wills, there is no deity or lord except Him.
+
+**From the Sunnah:** This meaning was collected from Ibn 'Abbas, Mujahid, Sa'id bin Jubayr, Ad-Dahhak and several others. There is an authentic Hadith that states that the Messenger of Allah ﷺ said to 'Umar bin Al-Khattab, (authentic hadith)
 ## Personal Reflections
 
 

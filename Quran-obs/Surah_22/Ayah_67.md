@@ -151,6 +151,17 @@ A doubt and its answer
 
 In verse 67 it has been averred that Allah Ta’ ala granted to the earlier nations their own Shari` ah or set of rules, and the Mosaic Code and the Christian Code are instances in point. The Jews and the Christians may, therefore, are that their Codes also being Divine should be allowed to exist alongside of the Islamic Code. But this is a fallacious argument because it is a well established fact that an earlier Shari` ah is cancelled by a subsequent Shari` ah, and this view is reinforced by the following verses in which the infidels who challenge the Islamic Shari` ah have been warned of severe chastisement. وَإِن جَادَلُوكَ فَقُلِ اللَّـهُ أَعْلَمُ بِمَا تَعْمَلُونَ (And if they dispute with you, then say, "Allah knows best what you do." - 22:68)
 
+## AI Translation
+
+For every community We appointed a code of life to follow. So do not let them dispute with you O Prophet in this matter. And invite all to your Rabb, for you are truly on the right guidance.
+
+## AI Tafsir
+
+**Context:** One interpretation of this verse is that the infidels used to engage the Muslims in futile arguments regarding the slaughter of animals.
+
+**What this ayah teaches:** For every nation We have made Mansak which they must follow; so let them not dispute with you on the matter, but invite them to your Lord. Surely, you are on straight Guidance - 22:67) in which the Holy Prophet ﷺ has been advised not to take any notice of the machinations and disputes raised by the infidels but to continue with his mission, because he was following the path of righteousness wherea…
+
+**Classical tafsir:** Ibn Kathir notes: A doubt and its answer In verse 67 it has been averred that Allah Ta’ ala granted to the earlier nations their own Shari` ah or set of rules, and the Mosaic Code and the Christian Code are instances in point.
 ## Personal Reflections
 
 

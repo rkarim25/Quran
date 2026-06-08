@@ -379,6 +379,17 @@ Like mut'ah, a time bound marriage is also unlawful. A time-bound marriage (term
 
 There are many people, educated but ignorant, visibly spread out in our contemporary Muslim and non-Muslim societies, who go about gopher-like, searching for the causes of Divine injunctions. When they fail to find any, they side-track the need to comply with the injunction by saying that the Word of God was, God-forbid, contrary to the requirements of the modern age, or worse still, unsuitable. The words of the verse have silenced such people for ever by telling them: 'You are ignorant. Your Creator is All-Knowing. You lack understanding. Allah is All-Wise. Do not make your reason the touchstone of the Truth.'
 
+## AI Translation
+
+Also married women—except captives in your possession. This is Allah’s commandment to you. Lawful to you are all beyond these—as long as you seek them with your wealth in a legal marriage, not in fornication. Give those you have consummated marriage with their due dowries. It is permissible to be mutually gracious regarding the set dowry. Surely Allah is All-Knowing, All-Wise.
+
+## AI Tafsir
+
+**Context:** Imam Ahmad recorded that Abu Sa'id Al-Khudri said, "We captured some women from the area of Awtas who were already married, and we disliked having sexual relations with them because they already had husbands.
+
+**What this ayah teaches:** There are conditions and circumstances in married life when it is not possible for her to fulfill the rights of even one husband, let alone more than one husband seeking her physical attention.
+
+**Classical tafsir:** Ibn Kathir notes: Literally, it means 'flowing of water' and indicates to seeking ejaculation out of lust.
 ## Personal Reflections
 
 

@@ -272,6 +272,17 @@ It is evident that even the polytheists did not believe that the idols of their 
 
 In short, taking any created being as equal to Allah in His particular attributes - such as, the Creator, the Provider, the Absolute Master, the Knower of the Seen and the Unseen - is Shirk
 
+## AI Translation
+
+I will certainly mislead them and delude them with empty hopes. Also, I will order them and they will slit the ears of cattle and alter Allah’s creation.” And whoever takes Satan as a guardian instead of Allah has certainly suffered a tremendous loss.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, his line of action is accompanied by his firm intention that he will always be like that. Now, if such a Kafir or Mushrik adheres to this position right through the last breath, he has committed a permanent crime to the extent of his choice and volition, therefore, the punishment for it has to be permanent.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, his line of action is accompanied by his firm intention that he will always be like that.
+
+**From the Sunnah:** In his Sahih, Muslim recorded the prohibition of tattooing the face, which in one of its wordings states: "May Allah curse whoever does this." It is also recorded in the Sahih that Ibn Mas'ud said, "May Allah curse those who have tattoos and those who do it, w… (Sahih Muslim) The Messenger of Allah ﷺ used to proclaim in his speech,
 ## Personal Reflections
 
 

@@ -128,6 +128,17 @@ Therefore, Allah asserts that He will honor the righteous and humiliate the sinn
 
 فَأَنسَاهُمْ أَنفُسَهُمْ He made them forget their own selves....59:19) It means they did not forget Allah but themselves, because they are unaware of their own loss and gain.
 
+## AI Translation
+
+Do not be like those who forgot Allah, so He made them forget themselves. They are the truly rebellious.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, Allah is All-Aware of what you do (18)And be not like those who forgot Allah, and He caused them to forget themselves.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** The color of the face of the Messenger of Allah ﷺ underwent a change when he saw them in poverty. (Musnad Ahmad)
 ## Personal Reflections
 
 

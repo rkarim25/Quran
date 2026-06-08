@@ -181,6 +181,17 @@ Imam Muslim recorded that Jabir bin 'Abdullah said that the Messenger of Allah �
 
 In the verse: أَفَمَنْ هُوَ قَائِمٌ عَلَىٰ كُلِّ نَفْسٍ (Is then He, who is watchful over everyone ... 33), the ignorance and irrationality of the disbelievers has been exposed by saying that these people are certainly short on sense when they equate inert idols with His pure Being, a Being that watches everyone and is the ultimate reckoner of everyone's deeds. Then, it was said that the real reason behind their unreasonable attitude is that shaitan has made their very ignorance look good in their sight and, therefore, this they take to be 'achievement' and 'success.'
 
+## AI Translation
+
+The Paradise promised to those with taqwa—living with Allah-consciousness, as though Allah sees you—is described as gardens beneath which rivers flow, with eternal fruit and shade. That is the outcome for those with taqwa. The outcome for those who reject the truth is the Fire.
+
+## AI Tafsir
+
+**What this ayah teaches:** And they have no defender (or protector) against Allah (34)The description of the Paradise which those who have Taqwa have been promised: Underneath it rivers flow, its provision is eternal and so is its shade; this is the end (final destination) of those who have Taqwa, and the end (final destination) of the those who reject the truth is Fire .
+
+**Classical tafsir:** Ibn Kathir notes: Then, it was said that the real reason behind their unreasonable attitude is that shaitan has made their very ignorance look good in their sight and, therefore, this they take to be 'achievement' and 'success.'
+
+**From the Sunnah:** The Messenger of Allah ﷺ said to those who agreed to Mula'anah, Paradise has foods, fruits and drinks that never end or finish.
 ## Personal Reflections
 
 

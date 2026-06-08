@@ -104,6 +104,17 @@ The statement '[ We ] have made them [ stars ] devices to stone the devils' prob
 
 وَلِلَّذِينَ كَفَرُ‌وا بِرَ‌بِّهِمْ عَذَابُ جَهَنَّمَ (And for those who disbelieve, there is the punishment of Jahannam ...67:6). The subject runs through seven verses. Thereafter, the subject of Divine knowledge and power is revisited.
 
+## AI Translation
+
+Whether you speak secretly or openly, He knows best what is hidden in the heart.
+
+## AI Tafsir
+
+**What this ayah teaches:** This means that his sins will be remitted and he will be rewarded abundantly. Verily, those who fear their Lord unseen, theirs will be forgiveness and a great reward (12)And whether you keep your talk secret or disclose it, verily, He is the All-Knower of what is in the breasts (13)Should not He Who has created know?
+
+**Classical tafsir:** Ibn Kathir notes: This means that his sins will be remitted and he will be rewarded abundantly.
+
+**From the Sunnah:** This is similar to what Imam Ahmad recorded from 'Umar bin Al-Khattab, that he heard the Messenger of Allah ﷺ say, (Musnad Ahmad) this Hadith. (Jami' at-Tirmidhi, Sunan Ibn Majah)
 ## Personal Reflections
 
 

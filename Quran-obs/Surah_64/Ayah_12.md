@@ -116,6 +116,17 @@ Commentary
 
 مَا أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ اللَّـهِ ۗ وَمَن يُؤْمِن بِاللَّـهِ يَهْدِ قَلْبَهُ (And no calamity befalls [ one ], but with the leave of Allah. And whoever believes in Allah, He guides his heart…64:11) In other words, it is a reality that not even a particle can move without the Divine will. Without the will of Allah no one can harm or benefit anyone. If a person does not believe in Allah and the Divine destination, he would not have any means of comforting himself when a calamity befalls him. He receives it with despair, and gropes for means of alleviating it. A believer, on the other hand, who reposes his faith in Divine will and destination is guided by Allah, and his heart is filled with peace and tranquility. Allah will guide his heart to certainty that whatever difficulty afflicts him could never have missed him, and whatever adversity has missed him could never have afflicted him. As a result of this belief, he is promised a reward in the Hereafter, which he keeps in view all the time. This strong belief in the promise of a reward in the Hereafter alleviates the worst calamity of this world.
 
+## AI Translation
+
+Obey Allah and obey the Messenger. If you turn away, the Messenger's duty is only to deliver the message clearly.
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah is the All-Knower of everything (11)Obey Allah, and obey the Messenger; but if you turn away, then the duty of Our Messenger is only to convey clearly (12)Allah!
+
+**Classical tafsir:** Ibn Kathir notes: 'Az-Zuhri said, "From Allah comes the Message, its deliverance is up to the Messenger, and the adherence is up to us." Tawhid Allah states that He is the One, Whom all creations need and seek, the One other than Whom there is no (true) Allah.
+
+**From the Sunnah:** There is an agreed upon Hadith [that Al-Bukhari and Muslim collected and] which states, (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

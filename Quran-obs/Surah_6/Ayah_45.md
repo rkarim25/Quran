@@ -124,6 +124,15 @@ He added, "By the Lord of the Ka'bah! Allah deceived these people, when He gave 
 
 In the last verse (45), it was said that, when the mass punishment of Allah Ta` ala came, the people who did wrong were uprooted to the last man. Said immediately after was: وَالْحَمْدُ لِلَّـهِ رَ‌بِّ الْعَالَمِينَ (And praise be to Allah, the Lord of the worlds) where the hint given is: Whenever the wrongdoers and the unjust are visited by some punishment or calamity, that is a blessing for the whole world for which people should be grateful.
 
+## AI Translation
+
+So the wrongdoers were utterly uprooted. And all praise is for Allah—Rabb of all worlds.
+
+## AI Tafsir
+
+**What this ayah teaches:** And all the praises and thanks be to Allah, the Lord of the all that exists . And We seized them with extreme poverty and loss of health so that they might believe with humility (42)When Our torment reached them, why then did they not believe with humility?
+
+**Classical tafsir:** Ibn Kathir notes: And We seized them with extreme poverty and loss of health so that they might believe with humility (42)When Our torment reached them, why then did they not believe with humility?
 ## Personal Reflections
 
 

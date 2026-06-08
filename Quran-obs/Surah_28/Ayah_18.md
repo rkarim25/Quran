@@ -108,6 +108,15 @@ Rulings
 
 It is worth noting here that this saying of Musa (علیہ السلام) has established two rulings about two issues. One, that even if an oppressed person is a sinner or infidel, he should be helped. The second ruling is that it is not permitted to help any criminal or oppressor. Scholars have argued on the basis of this verse that working in the employment of cruel rulers is also not permitted, for they too would be regarded as their associates. Many citations from the righteous salaf (elders) have also been quoted in support of this argument. (Ruh u1-Ma’ ani) To provide support to the oppressors or to the infidels may take different forms. The different rulings about these forms are laid down in the books of fiqh in detail. This humble writer has also dealt with the subject in his Arabic book Ahkamul-Qur'an with greater elaboration. The scholars interested in the subject may consult it.
 
+## AI Translation
+
+And so Moses became fearful, watching out in the city, when suddenly the one who sought his help the day before cried out to him again for help. Moses rebuked him, “Indeed, you are clearly a trouble-maker.”
+
+## AI Tafsir
+
+**What this ayah teaches:** So he became afraid, looking about in the city, when behold, the man who had sought his help the day before, called for his help (again). Therefore, by declaring him a criminal he vowed not to help such a person again.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, by declaring him a criminal he vowed not to help such a person again.
 ## Personal Reflections
 
 

@@ -147,6 +147,17 @@ Barzakh and Punishment Therein
 
 Ibn Jarir has related a story on the authority of Ibn Juraij that the Holy Prophet ﷺ once said, "At the time of death when a good Muslim perceives the angels of mercy and all the luxuries of Paradise spread out before him, and the angels ask whether he wishes to be sent back to the world, his reply invariably is in the negative. He refuses to return to a place which is full of woes and suffering and misery, and only desires to be taken to Allah's presence. But when the same question is put to an infidel, his answer is رَ‌بِّ ارْ‌جِعُونِ i.e. he wishes to be sent back to the world."
 
+## AI Translation
+
+When death approaches any of them, they cry, “My Rabb! Let me go back,
+
+## AI Tafsir
+
+**What this ayah teaches:** The those who reject the truth' Hope When Death Approaches Allah tells us about what happens when death approaches one of the those who reject the truth or one of those who have been negligent with the commands of Allah.He tells us what he says and how he asks to come back to this world,so that he can certify whatever wrong he commited during his life time.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, Al-Barzakh is a barrier between this world and the Hereafter.
+
+**From the Sunnah:** Paradise spread out before him, and the angels ask whether he wishes to be sent back to the world, his reply invariably is in the negative. (Sahih Muslim)
 ## Personal Reflections
 
 

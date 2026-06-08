@@ -289,6 +289,19 @@ In sum, the purport of the verse is to put forward the wisdom underlying the inj
 
 The 'weighty discourse' was concerned specifically with the Holy Prophet ﷺ as it was revealed to him. But for common people, Night-Prayer has two characteristics: [ 1] bringing harmony between the heart and the tongue; and [ 2] peace of mind - making it easier to recite the Qur'an.
 
+## AI Translation
+
+Night worship cuts deeper and makes recitation more focused.
+
+## AI Tafsir
+
+**Context:** (Stand (to pray) all night, except a little. Half of it or less than that, a little.)(73:2-3) "This became difficult on the believers.
+
+**What this ayah teaches:** The verse signifies that the recitation of the Qur'an is more upright and concentrated, because during the night there are no noises and commotion to distract the heart or the mind.
+
+**Classical tafsir:** Ibn Kathir notes: Furthermore, the word tahajjud itself, literally, means 'to sleep at night and then wake up to perform the prayer'.
+
+**From the Sunnah:** Thus, the Prophet ﷺ did as Allah ordered him, by standing for prayer at night. In Sahih Al-Bukhari, it is recorded from Anas that he was asked about the recitation of the Messenger of Allah ﷺ, so he replied, "He used to elongate the letters." Then he (Anas) recited, (Sahih al-Bukhari)
 ## Personal Reflections
 
 

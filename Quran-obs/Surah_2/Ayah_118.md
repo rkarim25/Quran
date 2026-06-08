@@ -186,6 +186,15 @@ The first of these demands was, on the face of it, silly enough, for, with all t
 
 At this point, we had better say a word to resolve a difficulty that is likely to arise. The Jews and the Christians were the People of the Book", and some of them were men of learning, and yet Allah calls them ignorant. Why? The reason is that although Allah had sent such a large number of clear signs and definite proofs to establish the prophethood of Sayyidna Muhammad .i" , yet they persisted in their denial. This is the mentality and the conduct of the ignorant.
 
+## AI Translation
+
+Those without knowledge say, "If only Allah would speak to us or a sign would come." Those before them said the same. Their hearts are alike. We have made the signs clear for people of firm conviction.
+
+## AI Tafsir
+
+**What this ayah teaches:** Their hearts are alike, We have indeed made plain the signs for people who believe with certainty . And those who have no knowledge say: "Why does not Allah speak to us (face to face) or why does not a sign come to us?" So said the people before them words of similar import.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

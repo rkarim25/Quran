@@ -172,6 +172,19 @@ Grammatically, there are two views regarding the conjoining of the word 'akharin
 
 Sayyidna Abu Hurairah رضی اللہ تعالیٰ عنہ narrates, as recorded in Bukhari and Muslim, that they were sitting in the company of the Holy Prophet ﷺ when Surah Al-Jumu'ah was revealed. He recited it to them, and when he reached the verse وَآخَرِ‌ينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْ (...and others of them who have not joined them so far...62:3) they asked him who are these 'others'. He remained silent. They asked him the second time and he remained silent. They asked him the third time, and he put his blessed hand on the back of Sayyidna Salman Al-Farisi ؓ [ who was at that time in the gathering ] and said: "If faith were on Pleiades, even then some men or a man from these people would attain it." [ Mazhari ]. This narration does not specify people of Persia, but it does prove that they are included in the general sense of 'others'. This narration speaks greatly of all non-Arabs who embrace Islam. [ Mazhari ].
 
+## AI Translation
+
+This is the favour of Allah. He grants it to whomever He wills. Allah is the Lord of infinite bounty.
+
+## AI Tafsir
+
+**Context:** (And others among them who have not yet joined them. And He is the Almighty, the All-Wise.) Imam Abu 'Abdullah Al-Bukhari, may Allah have mercy upon him, recorded that Abu Hurayrah said, "We were sitting with the Prophet…
+
+**What this ayah teaches:** That is the grace of Allah, which He bestows on whom He wills.
+
+**Classical tafsir:** Ibn Kathir notes: Bayan-ul-Qur'an explains that 'sending among them' stands for 'sending for them' because the preposition fi in Arabic is also used in the sense of 'for'.
+
+**From the Sunnah:** Ibn 'Abbas and Abu Hurayrah narrated that Allah's Messenger ﷺ used to recite Surat Al-Jumu'ah and Surat Al-Munafiqin during the Friday Prayer. (Sahih Muslim) So Allah's Messenger ﷺ placed his hand on Salman, saying,
 ## Personal Reflections
 
 

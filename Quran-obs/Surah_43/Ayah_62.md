@@ -205,6 +205,17 @@ And on the Day of Resurrection, he will be a witness against them )4:159(. This 
 
 وَإِنَّهُ لَعِلْمٌ لِّلسَّاعَةِ (And he (Isa علیہ السلام) is a source of knowledge of the Hour [ the day of judgment ] - 43:61). This verse has been explained in two different ways. One is that Sayyidna ` Isa (علیہ السلام) being born without a father is a proof to the fact that Allah Almighty can create people without apparent causes. Thus resurrecting the dead is not at all difficult for Him. But most exegetes have taken this verse in another sense. According to them it means that the descent of Sayyidna ` Isa (علیہ السلام) from the sky is a sign of the Doomsday. And his coming to this world again in its last days and killing Dajjal (the Antichrist) is proved by mutawatir ahadith. Some details on this subject have already been given in the explanation of the verse (3:54-55) of Surah 'Al-` Imran, (See V, 2, pp.76 onward of this book) and in Surah Nisa' 3:54-55 (See V. 2, PP. 622 onward of this book) and some in Surah Al-Ma'idah (5:110). For more details one should refer to the author's book “ التصریح بم اتواتر فی نزول المسیح ” At-Tasrih bi ma tawatara f nuzul-il-Masih in Arabic and Masih-e-Mau’ ud ki pehchan مسیح موعود کی پہچان in Urdu.
 
+## AI Translation
+
+Do not let Satan hinder you—he is certainly your sworn enemy.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore have Taqwa of Allah and obey me.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore have Taqwa of Allah and obey me.
+
+**From the Sunnah:** Several others narrated that Ibn 'Abbas, may Allah be pleased with him, Mujahid, 'Ikrimah, As-Suddi and Ad-Dahhak said, "They laughed, i.e., they were astounded by that." Qatadah said, "They were repelled by that and they laughed." Ibrahim An-Nakha'i said, "Th… The Messenger of Allah ﷺ spoke, then An-Nadr bin Al-Harith came up to him and the Messenger of Allah ﷺ spoke to him until he ﷺ defeated him in argument.
 ## Personal Reflections
 
 

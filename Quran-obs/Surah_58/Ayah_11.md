@@ -238,6 +238,15 @@ Another etiquette of an assembly is that if two persons are sitting closely, a n
 
 The reasoning behind the ruling is that sometimes two persons sit together for some specific purpose, and breaking them up might defeat that purpose.
 
+## AI Translation
+
+O believers: when you are told to make room in gatherings, make room. Allah will make room for you in His grace. When you are told to rise, rise. Allah will elevate those of you who have iman and raise those gifted with knowledge in rank. Allah is All-Aware of what you do.
+
+## AI Tafsir
+
+**Context:** Qatadah said, "This Ayah was revealed about gatherings in places where Allah is being remembered. When someone would come to join in assemblies with the Messenger ﷺ, they would hesitate to offer them space so that they w…
+
+**What this ayah teaches:** And Allah is Well-Acquainted with what you do.) means, do not think that if one of you makes room for his brother, or rises up when he is commanded to do so, that this will diminish his right or honor.
 ## Personal Reflections
 
 

@@ -184,6 +184,17 @@ This shows that just as the birth of children and their being alive are a boon o
 
 '...those who forgot Allah, so He made them forget their own selves_[ 59:19] '
 
+## AI Translation
+
+These opening letters—known as the muqatta'at—are among the signs whose full meaning Allah kept with Himself. They open the surah by reminding the reader that this Book is from beyond human authorship: approach it with humility, not arrogance.
+
+## AI Tafsir
+
+**Context:** "Al-Walid bin Al-Mughirah entered the house of Abu Bakr bin Abi Quhafah and asked him about the Qur'an. When Abu Bakr informed him about it, he left and went to the Quraysh saying, 'What a great thing this is that Ibn Ab…
+
+**What this ayah teaches:** Verily, he has been opposing Our Ayat (16)I shall force him to Sa'ud (17)Verily, he thought and plotted (18)So let him be cursed, how he plotted (19)And once more let him be cursed, how he plotted (20)Then he thought (21)Then he frowned and he looked in a bad tempered way (22)Then he turned back, and was proud (23)Then he said: "This is nothing but magic from that of old (24)"T…
+
+**Classical tafsir:** Ibn Kathir notes: Ibn Abbas and Mujahid said that they were ten.
 ## Personal Reflections
 
 

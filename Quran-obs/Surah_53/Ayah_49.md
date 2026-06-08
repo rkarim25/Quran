@@ -130,6 +130,15 @@ Allah the Exalted said,
 
 وَأَنَّهُ هُوَ رَ‌بُّ الشِّعْرَ‌ىٰ (and that He is the One who is the Lord of Sirius ...53:49) The word shi` ra with the diacritical symbol kasrah under the letter shin is the name of a star, called Sirius which is behind Jauza'. Some of the Arab tribes worshipped the mighty star, Sirius, because they regarded it as a source of good or bad luck for them. Allah mentions this star in particular in order to refute their false notion and to affirm that He is the Lord and Master of this star as well, although He is the Creator, Master and Lord of all the stars, heavens and the earth.
 
+## AI Translation
+
+and that He is the Rabb of Sirius,
+
+## AI Tafsir
+
+**What this ayah teaches:** And that to your Lord is the End (42)And that it is He Who makes laugh, and makes weep (43)And that it is He Who causes death and gives life (44)And that He creates the pairs, male and female (45)From Nutfah when it is emitted (46)And that upon Him is another bringing forth (Resurrection)(47)And that it is He Who Aghna and Aqna (48)And that He is the Lord of Ash-Shi'ra (49)And…
+
+**Classical tafsir:** Ibn Kathir notes: This means they are able to use it to their benefit, is this out of the completeness of His favor.
 ## Personal Reflections
 
 

@@ -184,6 +184,19 @@ Thus, Sayyidna Yunus علیہ السلام was alerted to that slip, and later o
 
 In this story, as for parts that have been mentioned in the Qur'an, or stand proved from authentic narratives of Hadith, they are certain. The rest of them come from historical reports - and no ruling of Islamic law can be based on them.
 
+## AI Translation
+
+Follow what is revealed to you, and be patient until Allah judges. He is the Best of judges.
+
+## AI Tafsir
+
+**Context:** Say: "O people! Now the truth has come to you from your Lord. So whoever receives guidance, he does so for the good of himself. And whoever goes astray, he does so at his own loss.
+
+**What this ayah teaches:** And I am not set over you as a guardian (108)And follow what is revealed to you, and be patient until Allah gives judgment.
+
+**Classical tafsir:** Ibn Kathir notes: So, they said, let that person show himself up so that others do not suffer because of one person.
+
+**From the Sunnah:** protection from other sins. (Sahih Muslim) If there were something somewhere even in the Qur'an, and Hadith, seemingly contrary to the established principles of Qur'an, and Sunnah, and the collective Muslim belief in prophets being protected from sins, it would have been necessary to interpret it in a… (Sahih Muslim)
 ## Personal Reflections
 
 

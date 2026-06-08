@@ -152,6 +152,17 @@ For this very reason, the statement: لِيَقْضِيَ اللَّـهُ أَ�
 
 At the end of the verse, it was said: وَإِلَى اللَّـهِ تُرْ‌جَعُ الْأُمُورُ‌ (And to Allah all matters are returned - 44). It means that He does what He wills and He commands as He wills. He can make a minority overcome a majority and weakness overtake strength. He may make less become more and more become less.
 
+## AI Translation
+
+When you met, He made them appear few in your eyes and made you appear few in theirs, so Allah might carry out a matter already decreed. To Allah all matters return.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, in this is a lesson for those who understand.)[3:13] This is how we combine these two Ayat, and certainly, each one of them is true, all the thanks are due to Allah and all the favors are from Him.
+
+**Classical tafsir:** Ibn Kathir notes: Certainly, He is the All-Knower of that is in the breasts (43)And (remember) when you met, He showed them to you as few in your eyes and He made you appear as few in their eyes, so that Allah might accomplish a matter already ordained, and to Allah return all matters (for decisio…
+
+**From the Sunnah:** This could also mean that Muslims were, in reality, already few in number, thus, what was shown to those who reject the truth was their number as it was.
 ## Personal Reflections
 
 

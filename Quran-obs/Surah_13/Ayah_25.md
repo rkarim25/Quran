@@ -194,6 +194,17 @@ This tells us that relationship with pious elders, whether of lineage, kinship o
 
 Finally, if we consider the statement in verse 25, that is: أُولَـٰئِكَ لَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ (those are the ones for whom there is the curse, and for them there is the evil abode), we would recall that verses previous to it told us about the reward of His obedient servants - that their home will be in Paradise, angels would greet them with Salam, and tell them that the eternal blessings of Paradise are the direct result of their patience, fortitude and obedience. Similarly, in the verse cited above, announced is the end of the disobedient and the contumacious - that they are under the curse of Allah, that is, they are far removed from His mercy and that they have waiting for them an evil abode in Hell. This helps us realize that the breaking of pledges given and the severance of the bonds of kinship is the cause of Divine curse and consignment to Hell. May Allah keep all of us protected from such a fate.
 
+## AI Translation
+
+Those who break Allah's covenant after affirming it, sever what He ordered joined, and spread corruption on earth—they are cursed and will have the worst home.
+
+## AI Tafsir
+
+**What this ayah teaches:** And those who break the covenant of Allah, after its ratification, and sever that which Allah has commanded to be joined, and work mischief in the land, on them is the curse, and for them is the unhappy (evil) home (i.e.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, when a human being deviates from any injunction made binding by Allah or deviates from the command given by His Messenger, he or she commits a breach of trust by breaking this pledge to have faith.
+
+**From the Sunnah:** It appears in a IIadith of Sahih Muslim that the Holy Prophet ﷺ said: 'Most commendable is the act of maintaining relations when a person maintains the same relations with the friends of his dead father, as they were during his lifetime.
 ## Personal Reflections
 
 

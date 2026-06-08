@@ -259,6 +259,17 @@ In Sufi thought, ` Khalq' and ` Amr' are two domains. ` Khalq' relates to matter
 
 At the end of the verse, it was said: تَبَارَ‌كَ اللَّـهُ رَ‌بُّ الْعَالَمِينَ (Glorious is Allah, the Lord of the worlds). The word: تَبَارَک (tabarak) appearing here is a derivation from barakah which means to increase, grow, become more, remain, sustain, besides being employed in many other shades of meaning. At this place, ` tabaraka' means to be high and supreme. It can be taken in the sense of high and sustaining, for Allah Ta` ala is both. The sense of high finds confirmation in a sentence of the Hadith which says: تَبَرَکتَ وَ تَعَلَیتَ یَا ذَا الجلالِ وَ الاِکرَامِ (You are blessed and high, 0 Master of Glory and Honour). Here, the word: ` tabarkta' has been explained by the word: ta` aiaita which follows.
 
+## AI Translation
+
+Indeed your Rabb is Allah Who created the heavens and the earth in six Days, then established Himself on the Throne. He makes the day and night overlap in rapid succession. He created the sun, the moon, and the stars—all subjected by His command. The creation and the command belong to Him. Blessed is Allah—Rabb of all worlds!
+
+## AI Tafsir
+
+**What this ayah teaches:** The Universe was created in Six Days Allah states that He created the universe, the heavens and earth and all that is in, on and between them in six days, as He has stated in several Ayat in the Qur'an.
+
+**Classical tafsir:** Ibn Kathir notes: Commentary Verse 54 begins with the statement that Allah has created the heavens and the earth and the planets and the stars and that they perform their functions under a firmly established system.
+
+**From the Sunnah:** There is a difference of opinion whether these days were the same as our standard days as suddenly comes to the mind, or each day constitutes one thousand years, as reported from Mujahid, Imam Ahmad bin Hanbal, and from Ibn 'Abbas according to Ad-Dahhak's narr… (Musnad Ahmad) Abu Hurayrah saying: 'Allah's Messenger ﷺ told me: (Musnad Ahmad)
 ## Personal Reflections
 
 

@@ -262,6 +262,17 @@ The old age of parents, when they become helpless, depend on children for everyt
 
 3. Address them with respectable words - (وَقُل لَّهُمَا قَوْلًا كَرِ‌يمًا). This is the third instruction. The first two instructions related to the negative aspects where bringing the least emotional pressure on parents has been prohibited. Given in this third instruction is a lesson in the art of conversation with parents - talk to them softly with love, grace and concern for them. Says the revered Tabi` i, Said ibn Mussaiyyab, ' like a slave talking to his strict master!'
 
+## AI Translation
+
+Your Rabb has decreed that you worship none but Him, and show excellence to parents. If one or both reach old age with you, never say even 'uff' to them, nor rebuke them — speak to them with honour.
+
+## AI Tafsir
+
+**What this ayah teaches:** This proves that, after the obligation of worshipping the most exalted Allah, obeying parents is most important and being grateful to parents like being grateful to Allah Ta’ ala is wajib (necessary).
+
+**Classical tafsir:** Ibn Kathir notes: The word Qada [normally having the meaning of decree] here means "commanded".
+
+**From the Sunnah:** Paradise is at her feet. (Musnad Ahmad, Sunan Ibn Majah) This has its confirmation in the Hadith of Sahih al-Bukhari where a person reportedly asked the Holy Prophet ﷺ "Which is the most favoured deed in the sight of Allah?" He said, "Salah at its (mustahabb: preferred) time." The person asked again, "Which is the m… (Sahih al-Bukhari)
 ## Personal Reflections
 
 

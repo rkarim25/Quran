@@ -138,6 +138,15 @@ The word: مُعَاجِزِينَ which appears immediately after the verse cit
 
 The sentence that follows immediately after: أُولَـٰئِكَ لَهُمْ عَذَابٌ مِّن رِّ‌جْزٍ أَلِيم ; means that these people shall receive punishment, a severe punishment that will be painful.
 
+## AI Translation
+
+As for those who work to discredit Our ayahs—signs and revelations—they will face a torment of crushing pain.
+
+## AI Tafsir
+
+**Context:** Those who disbelieve say: "The Hour will not come to us." Say: "Yes, by my Lord, the All-Knower of the Unseen, it will come to you; not even the weight of a speck of dust or less than that or greater escapes His knowledg…
+
+**What this ayah teaches:** Those, theirs is forgiveness and generous provision (4)But those who strive against Our Ayat to frustrate them – those, for them will be a severe painful torment (5)And those who have been given knowledge see that what is revealed to you from your Lord is the truth, and that it guides to the path of the Exalted in might, Owner of all praise .
 ## Personal Reflections
 
 

@@ -168,6 +168,19 @@ Islam's Peerless Law of Justice
 
 Now in a situation under which the parents force a son or daughter to take to Shirk and Kufr while the command of Allah Ta’ ala tells them not to do what they say, things become difficult. One naturally fails to stay within limits. In this case, while implementing the Divine injunction, the probability did exist that the son or daughter would have used improper language or manners in their response to parents and thus insulted them. Islam is a law, just and equitable. Here, everything has a limit. Therefore, right along with the command of not obeying parents in matters of Shirk, also given there was the command:
 
+## AI Translation
+
+We commanded people to honour parents. Mothers carry them through hardship upon hardship, and weaning takes two years. Be grateful to Me and to your parents. To Me is the final return.
+
+## AI Tafsir
+
+**Context:** (But if they strive with you to make you join in worship with Me others that of which you have no knowledge, then obey them not;) was revealed concerning me.
+
+**What this ayah teaches:** His mother bore him in weakness and hardship upon weakness and hardship, and his weaning is in two years – give thanks to Me and to your parents.
+
+**Classical tafsir:** Ibn Kathir notes: Allah describes him in the best terms, and states that he granted him wisdom.
+
+**From the Sunnah:** I was a man who honored his mother, but when I became Muslim, she said: 'O Sa'd! (Sahih Muslim)
 ## Personal Reflections
 
 

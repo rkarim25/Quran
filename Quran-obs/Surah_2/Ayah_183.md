@@ -164,6 +164,17 @@ The verse simply says that fasts have been enjoined on Muslims as were enjoined 
 
 By saying لَعَلَّكُمْ تَتَّقُونَ (so that you be God-fearing), the text has pointed out to the inherent quality of fasting which contributes significantly to one's ability to become abstaining from the sins and God-fearing. Fasting grows into man a power which helps him control his desires, which is really the foundation of Taqwa تقویٰ , the very special term of the Holy Qur'an which has been tentatively translated as fear of God, abstinence, and the warding of evil.
 
+## AI Translation
+
+O believers — fasting is prescribed for you as it was for those before you, so that you may live with taqwa.
+
+## AI Tafsir
+
+**What this ayah teaches:** Fasting is prescribed for you as it was prescribed for those before you, that you may acquire Taqwa (183)Fast for a fixed number of days, but if any of you is ill or on a journey, the same number (should be made up) from other days.
+
+**Classical tafsir:** Ibn Kathir notes: It indicates that although there may be some inconvenience in fasting but the same inconvenience was also faced by the earlier communities.
+
+**From the Sunnah:** Allah mentioned that He has ordained fasting for Muslims just as He ordained it for those before them, they being an example for them in that, so they should vigorously perform this obligation more obediently than the previous nations.
 ## Personal Reflections
 
 

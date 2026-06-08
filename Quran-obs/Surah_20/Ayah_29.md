@@ -116,6 +116,17 @@ In this prayer Sayyidna Musa (علیہ السلام) has specified that the help
 
 In his prayer Sayyidna Musa (علیہ السلام) first asked that the helper he required should be from his own family and then specifically asked for his brother Harun to be his Wazir so that with the latter's support and assistance he could better perform the duties of his prophetic mission.
 
+## AI Translation
+
+and grant me a helper from my family,.
+
+## AI Tafsir
+
+**What this ayah teaches:** The literal meaning of the word j is "one who carries a burden", and since a minister of a state carries the burden of responsibilities entrusted to him by the ruler, he is called a minister.
+
+**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported from Abu Sa'id, from 'Ikrimah, who said that Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
+
+**From the Sunnah:** Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
 ## Personal Reflections
 
 

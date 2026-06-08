@@ -194,6 +194,17 @@ On hearing this, Sayyidna ` Abdullah ibn ` Abbas ؓ said: مَا اَشبَہَ 
 
 The aim of the Hadith is fairly evident. It warns that Muslims too will start following the ways of the Jews and Christians by latter times. This statement appears only after a punishment has been announced for the hypocrites. It serves as an indicator that good Muslims would not do that. Only those among them, who are weak in 'Iman may do so because they are still infected with the germs of hypocrisy. All good men and women of the Muslim community have been instructed in this verse that they should themselves abstain from such ways as well as help others do the same.
 
+## AI Translation
+
+Like those before you. They were far superior to you in might and more abundant in wealth and children. They enjoyed their share in this life. You have enjoyed your share, just as they did. And you have engaged in idle talk, just as they did. Their deeds have become void in this dunya and the Akhirah. And it is they who are the losers.
+
+## AI Tafsir
+
+**What this ayah teaches:** Like those before you: they were mightier than you in power, and more abundant in wealth and children.
+
+**Classical tafsir:** Ibn Kathir notes: Such are they who are the losers.) because they will not acquire any rewards for their actions.
+
+**From the Sunnah:** This Hadith is similar to another Hadith collected in the Sahih. According to one exegetical explanation, this is addressed to hypocrites while according to the other explanation, the address is to Muslims.
 ## Personal Reflections
 
 

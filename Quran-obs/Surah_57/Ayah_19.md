@@ -195,6 +195,17 @@ However, another verse of the Qur'an seems to be against this concept. It is the
 
 The Holy Prophet ﷺ is reported to have said: اَللَّعَّانُونَ لَا یَکُونُونَ شُھَدَاَء (The cursers cannot be 'Shuhada"." This Tradition supports the notion. Sayyidna ` Umar Al-Faruq ؓ once said to the people: "What is the matter with you? You see someone defaming people, you neither stop him nor do you raise your eyebrows about it! They replied: 'We are afraid of his violent tongue. If we tell him something, he will also attack our honour.' Sayyidna ` Umar ؓ made a rejoinder 'if that is the case, then you cannot be 'Shuhada"'. Ibn Athir cited this narration and said: 'This means that such coward people will not be among the 'Shuhada' who will bear witness against the communities of the previous Prophets.' [ Ruh-ul-Ma’ ani ]. Mazhari states that the word الَّذِينَ آمَنُوا 'believers' in verse [ 19] refers only to the Companions ؓ of the Holy Prophet ﷺ who reposed their faith in Allah and His Messenger ﷺ ، saw him and had the pleasure of his company. As such, the restrictive phrase, هُمُ الصِّدِّيقُونَ 'it is they who are the Siddiqs..' in Verse [ 19] indicate that the status of Siddiq is limited or restricted to the noble Companions of the Holy Prophet ﷺ . Mujaddid Alf Thani states that all the noble Companions ؓ had a share in the noble qualities of prophet-hood. Any Companion who saw him in a state of faith even for a short time is absorbed and drowned in such qualities of perfection. Allah, the Pure and Exalted, knows best!
 
+## AI Translation
+
+Those who have iman in Allah and His messengers—they are the truthful and the witnesses with their Rabb. They will have their reward and their light. As for those who rejected and denied Our ayahs, they are the people of Hell.
+
+## AI Tafsir
+
+**What this ayah teaches:** Ruh-ul-Ma’ ani states that it is appropriate to believe that the verse under comment refers to people who have perfect faith and perform deeds of righteousness. Verily, those who give Sadaqat, men and women, and lend Allah handsome loan, it shall be increased manifold (to their credit), and theirs shall be an honorable good reward (18)And those who believe in Allah and His Messengers.
+
+**Classical tafsir:** Ibn Kathir notes: ...57:19) This verse indicates that every 'believer' is a 'Siddiq' and a 'Shahid'.
+
+**From the Sunnah:** Paradise will look at the dwellers of the lofty mansions as one looks at a brilliant star far away in the east or in the west on the horizon, because of their superiority over one another. these are for men who believe in Allah and believe in the Messengers.) Al-Bukhari and Muslim also collected this Hadith.
 ## Personal Reflections
 
 

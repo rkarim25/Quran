@@ -86,6 +86,17 @@ After that, when these two emissaries had completed their circuit of Sadaqah col
 
 When these two gentlemen reached Madinah, they went to see the Holy Prophet ﷺ . At that time he, before hearing their report on the mission, repeated the words he had said earlier: یَا وَیحَ ثَعلَبَۃ یَا وَیحَ ثَعلَبَۃ یَا وَیحَ ثَعلَبَۃ (Alas for Tha'labah). He said it three times. After that, he was pleased to hear about the Sulaymi deal and prayed for him. Thereupon, came the verse: وَمِنْهُم مَّنْ عَاهَدَ اللَّـهَ (And among them there are those who made a pledge with Allah - 75). It means: ` if Allah gave them wealth, they would give out alms and charities and fulfill the rights of all de-serving people, the relatives and the poor, as done by the righteous people of the community. But, when Allah blessed them with wealth, out of His grace, they became misers overnight and turned away from their pledge of obedience to Allah and His Messenger.'
 
+## AI Translation
+
+But when He gave them out of His bounty, they withheld it and turned away indifferently.
+
+## AI Tafsir
+
+**What this ayah teaches:** They told him that his ` wealth' had increased to such proportions that he had to go far away from Madinah and that is why he is not seen in the city.
+
+**Classical tafsir:** Ibn Kathir notes: They told him that they have orders not to pick out the best among animals, in fact, they were supposed to take the average ones, therefore, they could not take these.
+
+**From the Sunnah:** He had the whole law of Sadaqat committed to writing, appointed two persons as the collectors of Sadaqah and sent them to collect the Sadaqat due on livestock owned by Muslims. When the two collectors reached Tha'labah and presented the order of the Holy Prophet ﷺ he said that this thing had be-come a sort of Jizyah which is taken from non-Muslims.
 ## Personal Reflections
 
 

@@ -194,6 +194,15 @@ At the end of the verse, it was said: وَأَنشَأْنَا مِن بَعْد
 
 Once, while on the plains of Arafat with a million men and women spread around, came the thought that only a mere seventy or eighty years earlier, none among this whole assembly of people existed. Yet, on this same place of ` Arafat, nearly that many other human beings were present, no trace of whom exists today. On this analogy, imagine about any assembly of human beings, any animated gathering of people, think about their past and future, and then figure out what you get - somebody telling you. to wise up to the ultimate truth of things فَتَبَارَ‌كَ اللَّـهُ أَحْسَنُ الْخَالِقِينَ (Praised be Allah, the best of creators).
 
+## AI Translation
+
+Have they not seen how many peoples We destroyed before them? We had made them more established in the land than you. We sent down abundant rain for them and made rivers flow at their feet. Then We destroyed them for their sins and replaced them with other peoples.
+
+## AI Tafsir
+
+**What this ayah teaches:** And never an Ayah comes to them from the Ayat of their Lord, but that they have been turning away from it (4)Indeed, they rejected the truth when it came to them, but there will come to them the news of that which they used to mock at (5)Have they not seen how many a generation before them We have destroyed whom We had established on the earth such as We have not established you?
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, beware of the same end that might befall you, for you are not dearer to Allah than these previous nations, but the Messenger whom you defied is dearer to Allah than the Messengers they defied.
 ## Personal Reflections
 
 

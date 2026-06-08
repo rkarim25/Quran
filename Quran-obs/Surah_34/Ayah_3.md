@@ -224,6 +224,15 @@ Commentary
 
 عَالِمِ الْغَيْبِ (the knower of the unseen). This is an attribute of the Rabb (Lord) in whose name an oath has been taken in verse 3. At this place, out of the many attributes of Allah Ta’ ala, the attribute of all-encompassing knowledge and the knowledge of the unseen has, perhaps, been mentioned particularly because the text is dealing with the matter of the deniers of the day of Resurrection. The major reason why the disbelievers rejected the inevitability of Qiyamah, the day of doom, was their inability to comprehend how the whole thing would work out. When all human beings die, and become dust, and the particles of this dust get scattered all over the world, they wondered, how would it be possible to collect all these particles, separate the particles belonging to each human being from the particles of all others, and then go on to put the relevant particles back into the frame of everyone's existence? And they took it as impossible because they had very conveniently taken the knowledge and power of Allah Ta’ ala on the analogy of their own knowledge and power! Allah Ta’ ala has told them that His knowledge encompasses the entire universe in a manner that He knows everything in the heavens and the earth to the extent that He also knows where and in what state it is. Not a single particle of what has been created remains outside His knowledge - and this comprehensive and all-encompassing knowledge is hallmark of Allah Ta’ ala. No created entity, whether an angel or prophet, can ever have such an all-encompassing knowledge that no particle of this universe remains outside it. Then, for a Being that has such an all-encompassing knowledge, why would it be difficult to reclaim the scattered particles of a human being from all over the universe, each separate from the other, and reconstitute their bodies from these once again?
 
+## AI Translation
+
+Those who reject the truth say, "The Hour will never come to us." Say: "Yes—by my Lord, the Knower of the unseen—it will certainly come to you!" Not even the weight of an atom is hidden from Him in the heavens or the earth, nor anything smaller or greater, but it is recorded in a clear Book.
+
+## AI Tafsir
+
+**Context:** Those who disbelieve say: "The Hour will not come to us." Say: "Yes, by my Lord, the All-Knower of the Unseen, it will come to you; not even the weight of a speck of dust or less than that or greater escapes His knowledg…
+
+**What this ayah teaches:** Those, theirs is forgiveness and generous provision (4)But those who strive against Our Ayat to frustrate them – those, for them will be a severe painful torment (5)And those who have been given knowledge see that what is revealed to you from your Lord is the truth, and that it guides to the path of the Exalted in might, Owner of all praise .
 ## Personal Reflections
 
 

@@ -349,6 +349,17 @@ According to yet another story from the Sahih al-Bukhari, the Holy Prophet ﷺ h
 
 1. Bayan al-Qura'n.
 
+## AI Translation
+
+Most certainly, if you are firm and mindful and the enemy launches a sudden attack on you, Allah will reinforce you with five thousand angels designated.
+
+## AI Tafsir
+
+**Context:** From the verse لَيْسَ لَكَ مِنَ الْأَمْرِ‌ شَيْءٌ (You have no authority in the matter) (128), the text returns to the main event of Uhud after a brief mention of the event of Badr in between.
+
+**What this ayah teaches:** Evidences prove that the angels of Allah did a few things to impress upon Muslims that the angels too are participating in fighting as a sort of assurance that His support through the angels is there.
+
+**Classical tafsir:** Ibn Kathir notes: Al-'Awfi said that Ibn 'Abbas said that the Ayah means, "All at once".
 ## Personal Reflections
 
 

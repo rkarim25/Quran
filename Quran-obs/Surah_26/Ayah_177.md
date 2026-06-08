@@ -58,6 +58,15 @@ and subjected them to a terrible rain. So evil was the rain of those who were wa
 
 This verse has confirmed that if a man commits sodomy, he may be punished with throwing a wall on him or by throwing him down from a high place, as suggested by Hanafi scholars, because the people of Lut (علیہ السلام) were destroyed in a similar manner. Their township was lifted and thrown on the ground. (Shami Kitab Al-Hudud)
 
+## AI Translation
+
+when Shu’aib said to them, “Will you not fear Allah?
+
+## AI Tafsir
+
+**What this ayah teaches:** Shu'ayb preached to them and commanded them to be fair in their weights and measures, the same as is mentioned in the story of Madyan, which also indicates that they were the same nation.
+
+**Classical tafsir:** Ibn Kathir notes: Shu'ayb preached to them and commanded them to be fair in their weights and measures, the same as is mentioned in the story of Madyan, which also indicates that they were the same nation.
 ## Personal Reflections
 
 

@@ -96,6 +96,15 @@ Commentary
 
 Verse 51 tells us that the Pharaoh had asked the question regarding the end of earlier people. If Sayyidna Musa (علیہ السلام) had given a straightforward answer that they were misled and will go to Jahannam, then the Pharaoh would have got a chance to scorn that it was not just him whom Sayyidna Musa (علیہ السلام) was blaming but all their ancestors as well. Naturally such a situation would have created doubts in the minds of people. Therefore Sayyidna Musa (علیہ السلام) gave such an answer which was full of wisdom and did not give any chance to the Pharaoh for misleading the people. He said (as mentioned in verse 52) that only Allah knows their end. He never makes a mistake nor does He forget things. The words "My Lord does neither err" mean that it is inconceivable that Allah wills one thing and something different should happen.
 
+## AI Translation
+
+He replied, “That knowledge is with my Rabb in a Record. My Rabb neither falters nor forgets anything.”
+
+## AI Tafsir
+
+**What this ayah teaches:** He does not forget anything and His Most Exalted knowledge is described as encompassing everything.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, He did not give man the form of a wild beast, nor did He give wild beasts the form of the dog.
 ## Personal Reflections
 
 

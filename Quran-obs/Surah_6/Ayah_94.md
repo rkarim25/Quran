@@ -304,6 +304,19 @@ A little thought would reveal that the lack of concern for the 'Akhirah is the m
 
 O Allah, make all our concerns a single concern - the concern for 'Akhirah.
 
+## AI Translation
+
+You have come back to Us all alone as We created you the first time—leaving behind everything We have provided you with. We do not see your intercessors with you—those you claimed were Allah’s partners. All your ties have been broken and all your claims have let you down.”
+
+## AI Tafsir
+
+**Context:** 'Ikrimah and Qatadah said that this Ayah was revealed about Musaylimah Al-Kadhdhab. After having concluded the argument concerning Books revealed by Allah Ta` ala against deniers, it was said in the third verse (92): وَه…
+
+**What this ayah teaches:** We see not with you your intercessors whom you claimed to be your partners. This day you shall be recompensed with the torment of degradation because of what you used to utter against Allah other than the truth.
+
+**Classical tafsir:** Ibn Kathir notes: This day you shall be recompensed with the torment of degradation because of what you used to utter against Allah other than the truth.
+
+**From the Sunnah:** The wealth and the money that you collected in the life of the world, you left all this behind you. I collected it and left it as intact as ever.' Allah will say to him, 'O Son of Adam!
 ## Personal Reflections
 
 

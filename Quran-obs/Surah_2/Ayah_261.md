@@ -205,6 +205,17 @@ Thus, the similitude unfolds for us the great merit spending in the way of Allah
 
 The correct and masnun مسنون (according to Sunnah) method of giving sadaqah صدقہ has been pointed out in the second verse. It is said that people who spend in the way of Allah and do do not publicise their favour after having spent, nor cause any pain to those on whom they have spent, their reward is secure with their Lord. For them there is no danger in the future, and no sorrow of the past.
 
+## AI Translation
+
+The likeness of those who spend their wealth in Allah's cause is a grain that sprouts seven ears, each bearing a hundred grains. Allah multiplies for whomever He wills. Allah is all-bountiful, all-knowing.
+
+## AI Tafsir
+
+**What this ayah teaches:** The outcome is that one who spends in the way of Allah receives in return (reward in the Hereafter) on the scale of one to seven hundred, that is, spending one cent could bring the merit of seven hundred cents.
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah indicates that Allah 'grows' the good deeds for its doers, just as He grows the plant for whoever sows it in fertile land.
+
+**From the Sunnah:** Fasting is a shield (against sinning), fasting is a shield.) Muslim recorded this Hadith. (Sahih Muslim)
 ## Personal Reflections
 
 

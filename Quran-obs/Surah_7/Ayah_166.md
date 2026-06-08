@@ -110,6 +110,15 @@ The detailed discussion of the events contained in the above verses have been pr
 
 The Holy Prophet ﷺ has been asked to warn the Israelites present in his time by reminding them the events related in these verses. The events referred to in these verses are clear and require no explanation.
 
+## AI Translation
+
+But when they stubbornly persisted in violation, We said to them, “Be disgraced apes!”
+
+## AI Tafsir
+
+**What this ayah teaches:** They said, 'why do you forbid these people from evil, when you know that they are destroyed and have earned Allah's punishment?' Therefore, they said, there is no benefit in forbidding them. This type did not do what would warrant praise, nor commit wrong so that they are admonished.
+
+**Classical tafsir:** Ibn Kathir notes: They said, 'why do you forbid these people from evil, when you know that they are destroyed and have earned Allah's punishment?' Therefore, they said, there is no benefit in forbidding them.
 ## Personal Reflections
 
 

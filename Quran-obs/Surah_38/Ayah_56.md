@@ -124,6 +124,15 @@ Consideration of matching age between spouses is better
 
 Then there is the other situation. If being of the same age is taken to mean that spouses will be of the same age, the good thing about it would be that there would be temperamental harmony between them, and they will have consideration for each other's preferences. This tells us that consideration should be made to keep ages of spouses matched, for it generates mutual love, and makes the relationship of marriage pleasant and permanent.
 
+## AI Translation
+
+Hell, where they will burn—what an evil place to rest.
+
+## AI Tafsir
+
+**What this ayah teaches:** Where they will enter it, and worst (indeed) is that place to rest (56)This is so!
+
+**Classical tafsir:** Ibn Kathir notes: Verily, they shall enter in the Fire!) meaning, because they are of the people of Hell.
 ## Personal Reflections
 
 

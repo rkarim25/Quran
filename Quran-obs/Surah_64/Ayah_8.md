@@ -120,6 +120,15 @@ Allah explained His statement saying;
 
 فَآمِنُوا بِاللَّـهِ وَرَ‌سُولِهِ وَالنُّورِ‌ الَّذِي أَنزَلْنَا (So, believe in Allah and His Messenger, and in the light We have sent down…64:8). The word Nur [ light ] in this context refers to the Qur’ an. ‘Light’ fulfils two functions: In the first place it is itself luminous and in the second place it makes other things luminous and bright. The Qur’ an, on account of its miraculous nature, is itself luminous, and it illuminates what pleases or displeases Allah, the sacred laws, injunctions and commands, and the realities of the Hereafter, which human being ought to know.
 
+## AI Translation
+
+So believe in Allah and His Messenger and in the Light We have revealed. Allah is All-Aware of what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** The word Nur [ light ] in this context refers to the Qur’ an.
+
+**Classical tafsir:** Ibn Kathir notes: The word Nur [ light ] in this context refers to the Qur’ an.
 ## Personal Reflections
 
 

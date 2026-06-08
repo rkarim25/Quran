@@ -99,6 +99,17 @@ It appears in a Hadith of the Sahih of al-Bukhari that the Holy Prophet ﷺ said
 
 During this episode, as reported from Sayyidna ` Abdullah ibn ` Abbas ؓ when the people of Sayyidna Lut (علیہ السلام) mobbed his home, he had closed the entrance door. The conversation with these wicked people was going on from behind it. The angels too were inside. The mob was threatening to jump the walls, barge in and break the door. Thereupon, came these words on the lips of Sayyidna Lut (علیہ السلام) . When the angels saw this anxiety of Sayyidna Lut (علیہ السلام) they disclosed their real identity and asked him to open the door. It was time that they took over and gave the miscreants a foretaste of the Divine punishment. When the door was opened, archangel Jibra'il (علیہ السلام) pointed his 'Feather' towards their eyes. They turned blind and started running.
 
+## AI Translation
+
+He responded, “If only I had the strength to resist you or could rely on a strong supporter.”
+
+## AI Tafsir
+
+**What this ayah teaches:** They also told him that his people would not be able to reach him (with any harm). They shall not reach you!) They commanded him to travel with his family during the last part of night and that he should follow them from behind.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** protection of some strong group. (Sahih al-Bukhari, Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

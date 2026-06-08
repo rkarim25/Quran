@@ -92,6 +92,15 @@ Allah mentions the descriptions of the liars who falsely claim faith with their 
 
 (2)-The sense is that they did not believe in Islam with their hearts, and this fact cannot: be concealed from Him, because He knows whatever lies in the hearts of the people.
 
+## AI Translation
+
+Allah will distinguish those of sure iman from those of nifaq — outward acceptance with inward rejection.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Attitudes of the Hypocrites and the Ways in which Allah tests People Allah mentions the descriptions of the liars who falsely claim faith with their lips, while faith is not firm in their hearts.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -431,6 +431,17 @@ The ninth sentence is: وَلَا يَئُودُهُ حِفْظُهُمَا :'An
 
 The tenth and the last sentence is: وَهُوَ الْعَلِيُّ الْعَظِيمُ :'And He is the High, the Supreme.' It means that He is most exalted and great in majesty. In the previous nine sentences, the perfections of Allah's being and His attributes were stated. After having seen and understood these, every rational human being is bound to acknowledge that all honour, power and superiority belongs to none but the same Allah Almighty. To sum up, these ten sentences epitomize a description of Allah's Oneness and His perfections with clarity, and in detail.
 
+## AI Translation
+
+Allah — there is no god worthy of worship except Him, the Ever-Living, All-Sustaining. Neither drowsiness nor sleep overtakes Him. To Him belongs whatever is in the heavens and whatever is on earth. Who can intercede with Him except by His permission? He knows what is before them and what is behind them, and they grasp none of His knowledge except what He wills. His Kursi — the Footstool symbolizing His dominion over creation — encompasses the heavens and earth, and their preservation does not weary Him. He is the Most High, the Greatest.
+
+## AI Tafsir
+
+**What this ayah teaches:** Ayat al-Kursi declares Allah's absolute life, wakefulness, ownership of the heavens and earth, perfect knowledge, vast Kursi, and that no intercession occurs except by His permission.
+
+**Classical tafsir:** Ibn 'Abbas: the Kursi is the footstool; the Throne is vastly greater. Ibn Kathir: al-Hayy al-Qayyum means the Self-Sustaining who sustains all else.
+
+**From the Sunnah:** 'Ubayy ibn Ka'b said this is the greatest ayah in the Book of Allah (Musnad Ahmad, Sahih Muslim). Reciting it after each fard prayer is authentically reported. It is a protection by night (Bukhari).
 ## Personal Reflections
 
 

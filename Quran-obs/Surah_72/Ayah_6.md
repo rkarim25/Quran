@@ -188,6 +188,17 @@ I asked him who that person was. He replied that he was the Arabian Holy Prophet
 
 Having narrated this story, Sayyidna Said Ibn Jubair ؓ said that the following verse was revealed in this connection. وَأَنَّهُ كَانَ رِ‌جَالٌ مِّنَ الْإِنسِ يَعُوذُونَ بِرِ‌جَالٍ مِّنَ الْجِنِّ (and that some people from human beings used to seek refuge with some people of the Jinn…72:6)
 
+## AI Translation
+
+Some men used to seek refuge with jinn, and that only pushed both sides deeper into wrongdoing.
+
+## AI Tafsir
+
+**Context:** (1. Say: "It has been revealed to me that a group of Jinn listened. They said: 'Verily, we have heard a wonderful Recitation!')(2.
+
+**What this ayah teaches:** 'And verily, we thought that men and Jinn would not utter a lie against Allah.')(6. They used to seek refuge with the greatest Jinn of a particular place so that no harm or evil would afflict them.
+
+**Classical tafsir:** Ibn Kathir notes: Then he would say, 'I seek refuge with the master (Jinn) of this valley from the Jinns, or that myself, my wealth, my child or my animals are harmed in it.'" Qatadah said, "When they sought refuge with them instead of Allah, the Jinns would overcome them with harm because of that." Ibn Abi Hatim rec… This means that when the Jinns accepted Islam and believed in the Qur'an they professed Allah's magn…
 ## Personal Reflections
 
 

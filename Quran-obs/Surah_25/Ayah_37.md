@@ -157,6 +157,15 @@ It is stated about the people of Sayyidna Nuh (علیہ السلام) that they 
 
 أَصْحَابَ الرَّ‌سِّ (People of Rass - 25:38). In Arabic رَس (Rass) means unlined well. Neither Qur'an nor any authentic tradition describes these people in any detail. Whatever information is available about them is through Israelite traditions, which differ from one another. It is more likely that the remaining people of Thamud had settled down near a well. It is not mentioned in the Qur'an or any tradition as to how they were tormented. (Bayan u1-Qur'an)
 
+## AI Translation
+
+And when the people of Noah rejected the messengers, We drowned them, making them an example to humanity. And We have prepared a painful punishment for the wrongdoers.
+
+## AI Tafsir
+
+**What this ayah teaches:** And when the people of Nuh denied him, Allah destroyed them likewise, for whoever denies one Messenger denies all the Messengers, because there is no difference between one Messenger and another.
+
+**Classical tafsir:** Ibn Kathir notes: The most correct view is that a generation refers to nations who are one another's contemporaries, living at the same time.
 ## Personal Reflections
 
 

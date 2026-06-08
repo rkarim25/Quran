@@ -139,6 +139,19 @@ The Holy Qur'an does not explicitly say as to who asked the question. Therefore,
 
 The essence of the answer given by the polytheists is that they simply refused to acknowledge that there was any word of Allah really revealed from Him. In fact, they dismissed the Qur'an as nothing but tales of people from early ages. Thereupon, the Qur’ an admonished those unjust people for disinforming people about the Qur'an by telling them that it was nothing but the tales of the ancient whereby they make others too go astray like them. As for the consequences, these they shall have to face. It means that the total curse of their sins has to fall on them anyway on the Day of Judgment, but part of the curse of the evil consequences of their role in misguiding others will also fall on them. Then it was said that the burden of sins which these people are piling up on their shoulders is a terribly evil burden.
 
+## AI Translation
+
+Let them bear their burdens in full on the Day of Judgment as well as some of the burdens of those they mislead without knowledge. Evil indeed is what they will bear!
+
+## AI Tafsir
+
+**Context:** ("Tales of the men of old!") meaning nothing is revealed to him, what he is reciting to us is just tales of the men of old, taken from the previous Books. As Allah says,
+
+**What this ayah teaches:** Evil indeed is that which they shall bear .
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said: "They will bear the burden of their own sins, and they will bear the sins of those who obeyed them, but that will not lessen the punishment of those who obeyed them at all."
+
+**From the Sunnah:** They used to say that he (the Prophet ﷺ) was a sorcerer, a poet, a soothsayer, or a madman, then they settled on an idea proposed by their leader, an individual known as Al-Walid bin Al-Mughirah Al-Makhzumi, when: Still others take one question to have been asked by the polytheists while the other by Muslims.
 ## Personal Reflections
 
 

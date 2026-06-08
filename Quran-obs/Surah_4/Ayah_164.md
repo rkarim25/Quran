@@ -166,6 +166,17 @@ In verse 164 which opens with the words: وَرُ‌سُلًا قَدْ قَصَ
 
 As reported by Sayyidna Abu Dharr al-Ghifari ؓ ، the Holy Prophet ﷺ said: Almighty Allah has sent one hundred and twenty four thousand prophets out of which three hundred and thirteen were Shari` ah-bearing Messengers of Allah. (Qurtubi)
 
+## AI Translation
+
+There are messengers whose stories We have told you already and others We have not. And to Moses Allah spoke directly.
+
+## AI Tafsir
+
+**Context:** (...and to Dawud We gave the Zabur.) The 'Zabur' (Psalms) is the name of the Book revealed to Prophet Dawud, peace be upon him.
+
+**What this ayah teaches:** Therefore, the saying of Jews that they would believe only if there comes to them a written Book like the Torah, otherwise they would not, is to say the least, being short on sense and tall on disbelief.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the saying of Jews that they would believe only if there comes to them a written Book like the Torah, otherwise they would not, is to say the least, being short on sense and tall on disbelief.
 ## Personal Reflections
 
 

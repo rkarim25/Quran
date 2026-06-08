@@ -172,6 +172,15 @@ Ruling:
 
 The angel of death does not know the time of anyone's death in advance - until he is ordered to exact the soul of a certain person. (Deduced by Ahmad and Ibn Abi ad-Dunya from Ma'mar, Mazhari)
 
+## AI Translation
+
+If only you could see the wrongdoers hanging their heads before their Rabb: Our Rabb, we have seen and heard — send us back and we will do good. We now have sure iman!
+
+## AI Tafsir
+
+**What this ayah teaches:** We have now seen and heard, so send us back that we will do righteous good deeds.
+
+**Classical tafsir:** Ibn Kathir notes: But, some other reports show that this exacting of the soul is particular to human beings - because of their nobility and distinction.
 ## Personal Reflections
 
 

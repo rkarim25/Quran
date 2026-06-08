@@ -93,6 +93,15 @@ The birds also used to glorify Allah's praises with him. If a bird flew by him a
 
 The word: الْحِكْمَةَ (al-hikmah) appearing in verse 38:20: وَآتَيْنَاهُ الْحِكْمَةَ وَفَصْلَ الْخِطَابِ (and gave him wisdom, and a decisive speech), as obvious, means wisdom, that is, 'We had blessed him with the precious assets of reason, insight and vision.' Some elders have suggested that it means 'nubuwwah', the station and mission of a prophet. As for the second gift: فَصْلَ الْخِطَابِ (fasl al-khitab: translated here as: a decisive speech), it has been explained in different ways by commentators. Some have said that it means power of oration - and the fact is that Sayyidna Dawud (علیہ السلام) was a great orator. He was the first one who started saying اَمَّا بَعد (amma bad: after that) following hamd and Salah in his religious sermons. Some others have said that it means the ability to make a decision at its best, 'that is, Allah Ta’ ala had given him the ability and power to resolve disputes and decide matters comprehensively. The truth of the matter is that the words used in the Qur'an seem to have ample room for both meanings, and both are meant. Incidentally, the translation done by Mau1ana Ashraf ` Ali Thanavi (رح) - 'Faisla kar denay wali taqrir' - helps accommodate both meanings. (And so does the English translation given above.)
 
+## AI Translation
+
+We strengthened his kingship and gave him wisdom and sound judgment.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, he was ever oft-returning in all matters and in repentance (17)Verily, We made the mountains to glorify Our praises with him in the 'Ashi and Ishraq (18)And (so did) the birds assembled, all obedient to him (19)We made his kingdom strong and gave him Al-Hikmah and sound judgement in speech and decision .
+
+**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, may Allah be pleased with him, As-Suddi and Ibn Zayd said, "Al-Ayd means strength." Mujahid said, "Al-Ayd means strength in obedience to Allah." Qatadah said, "Dawud, peace be upon him, was given strength in worship and the proper understanding of Islam." He told us that he, peace be upo… Mujahid and As-Suddi said, "It means passing the right judgement and understanding the case." Mujahi…
 ## Personal Reflections
 
 

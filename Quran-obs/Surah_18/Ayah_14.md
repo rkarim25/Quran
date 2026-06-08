@@ -194,6 +194,17 @@ The story of this cave (Thawr) is far greater and more wondrous than that of the
 
 The first sentence of verse 14: وَرَ‌بَطْنَا عَلَىٰ قُلُوبِهِمْ (And We made their hearts firm) refers to the event described by Ibn Kathir a little earlier. This tells us that Allah made the hearts of these people firm when the king who was cruel and worshipped idols summoned them in his court and questioned them. This was a matter of life and death. But, despite their apprehension for the worst, Allah Ta` ala made His love, awe and grandeur prevail over their hearts which empowered them to face any eventuality of death or distress. The outcome was that they proclaimed their belief clearly and courageously saying that they did not worship anyone or anything other than Allah and would not do that in future as well. People who firmly resolve to do something for the sake of Allah, this is how they receive help from Allah Ta’ ala.
 
+## AI Translation
+
+And We strengthened their hearts when they stood up and declared, “Our Rabb is the Rabb of the heavens and the earth. We will never call upon anything besides Allah worthy of worship Him, or we would truly be uttering an outrageous lie.”
+
+## AI Tafsir
+
+**What this ayah teaches:** It seems that they lived before the time of Christianity altogether, because if they had been Christians, the Jewish rabbis would not have cared about preserving because of their differences.
+
+**Classical tafsir:** Ibn Kathir notes: This indicates that this story was something recorded in the books of the People of the Book, and that it came before Christianity.
+
+**From the Sunnah:** As for the elders of Quraysh, most of them kept to their religion and only a few of them became Muslims. We have mentioned above the report from Ibn 'Abbas that the Quraysh sent a message to the Jewish rabbis in Al-Madinah to ask them for things with which they could test the Messenger of Allah ﷺ, and they told them to ask him about these young men, and about Dhu…
 ## Personal Reflections
 
 

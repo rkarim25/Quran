@@ -260,6 +260,17 @@ When you come to think of it, wrong environment and bad company really hurt all 
 
 As for the next three verses (71-73), they too deal with the refutation of Shirk (the attribution of partners to Allah) and the affirmation of Tauhid (the Oneness of Allah) and 'Akhirah (the Hereafter, the life to come) as fairly evident from the translation itself.
 
+## AI Translation
+
+And leave those who take this faith as mere play and amusement and are deluded by worldly life. Yet remind them by this, so no one should be ruined for their misdeeds. They will have no protector or intercessor other than Allah. Even if they were to offer every ransom, none will be accepted from them. Those are the ones who will be ruined for their misdeeds. They will have a boiling drink and painful punishment for their rejection of the truth.
+
+## AI Tafsir
+
+**What this ayah teaches:** This verse also tells us that the very company of people who are heedless to the 'Akhirah and are content with their life in the mortal world is fatal for everyone.
+
+**Classical tafsir:** Ibn Kathir notes: Ad-Dahhak from Ibn 'Abbas, Mujahid, 'Ikrimah, Al-Hasan and As-Suddi said that Tubsal means, be submissive. Al-Walibi said that Ibn 'Abbas said that Tubsal means, 'be exposed'.
+
+**From the Sunnah:** In this verse, the Holy Prophet ﷺ and Muslims at large have been given two orders that they should not only avoid the people identified, but that they should also act positively and continue preaching through the Qur'an and keep putting the fear of Allah's pun… The essential objective in these three verses (68-70) is to save Muslims from evil environment and bad company which can be as deadly as poison.
 ## Personal Reflections
 
 

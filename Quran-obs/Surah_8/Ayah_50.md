@@ -126,6 +126,17 @@ Then, there are other Commentators who have kept the sense of this verse general
 
 Therefore, the modality used to address the Holy Prophet ﷺ was: 'And only if you were to see,' you would have seen a scene full of sobering lessons. This tells us that, after death, punishment is given to disbelievers while they are in the state of Barzakh, but that phenomenon is related to the universe of the Unseen کلام الغیب (` clam al-ghayb), therefore, it is not seen usually. The punishment of the grave finds mention in several other verses of the Holy Qur'an as well, while Hadith narrations on this subject just abound.
 
+## AI Translation
+
+If only you could see when the angels take the souls of those who reject the truth, striking their faces and backs: "Taste the torment of burning."
+
+## AI Tafsir
+
+**What this ayah teaches:** Whoever found other than that, has only himself to blame.) This is why Allah said, Commentary Mentioned in the first two of the verses cited above is the punishment of those who reject the truth at the time of their death and the warnings given to them by the angels.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the modality used to address the Holy Prophet ﷺ was: 'And only if you were to see,' you would have seen a scene full of sobering lessons.
+
+**From the Sunnah:** the Messenger of Allah ﷺ said; (Sahih Muslim) Some of the leading Commentators have declared this statement to be about the particular those who reject the truth from among the Quraysh who had come out to confront Muslims at the site of Badr where Allah Ta` ala had sent an army of angels to help Muslims.
 ## Personal Reflections
 
 

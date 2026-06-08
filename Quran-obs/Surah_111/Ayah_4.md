@@ -166,6 +166,19 @@ Tale-Bearing: A Gravely Major Sin
 
 It is recorded in the two Sahihs that the Messenger of Allah ﷺ is reported to have said that a tale-bearer (to harm others) will not enter Paradise. Fudail Ibn ` Iyad (رح) says that there are three evil deeds of man that destroy all his righteous actions. They are: [ 1] backbiting; [ 2] tale-bearing; and [ 3] lying. ` Ata' Ibn Sa'ib (رح) says that he asked Sha'bi (رح) about the Prophetic Tradition in which the Messenger of Allah ﷺ is reported to have said: لَا یدخل الجنّۃ سافک دم ولا مشّاء بنمیمۃ ولا تاجر یربی . "Three types of people will not enter Paradise: [ 1] a murderer; [ 2] a tale-bearer; and [ 3] a trader who is involved in usury." ` Ata' (رح) says that I cited this Tradition to Sha'bi and asked him in a surprising tone that the Holy Prophet ﷺ has equated 'a tale-bearer' with a murderer and a usurer. He replied: "Indeed, tale-bearing is the root cause of murder and usurpation of wealth." [ Qurtubi ]
 
+## AI Translation
+
+and his wife too, the carrier of thorns—she who spread harm alongside him, fueling hostility against the truth.
+
+## AI Tafsir
+
+**Context:** The Reason for the Revelation of this Surah and the Arrogance of Abu Lahab toward the Messenger of Allah (ﷺ)
+
+**What this ayah teaches:** He will enter a Fire full of flames!)(4.
+
+**Classical tafsir:** Ibn Kathir notes: He will enter a Fire full of flames!)(4.
+
+**From the Sunnah:** from Ibn 'Abbas that the Prophet ﷺ went out to the valley of Al-Batha and he ascended the mountain. (Sahih al-Bukhari) This man Abu Lahab was one of the uncles of the Messenger of Allah ﷺ.His name was 'Abdul-'Uzza bin Abdul-Muttalib.
 ## Personal Reflections
 
 

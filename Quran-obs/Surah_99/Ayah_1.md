@@ -230,6 +230,17 @@ The Scene of the Day of Resurrection
 
 Verse [ 1] إِذَا زُلْزِلَتِ الْأَرْ‌ضُ زِلْزَالَهَا (When the earth will be trembled with its quake.) It is not clear whether this earthquake refers to the convulsion that will take place in the world before the 'first blowing of the trumpet', as is mentioned in connection with the portents of the Doomsday, or it refers to the quake that will occur after the 'second blowing' when the dead bodies will be resurrected and thrown out of their graves. Narratives and views of the commentators differ on this issue. It is not inconceivable that many quakes and convulsions would occur: first, before the 'first blowing'; and second, after the 'second blowing' at the time of raising the dead. Here it probably refers to the second quake, and the context supports it, because the Surah later on describes the scenes of the Day of Resurrection, such as reckoning, weighing and evaluating of deeds, and recompense. Allah knows best. [ Mazhari ]
 
+## AI Translation
+
+When the earth is shaken with its final earthquake—
+
+## AI Tafsir
+
+**What this ayah teaches:** Here it probably refers to the second quake, and the context supports it, because the Surah later on describes the scenes of the Day of Resurrection, such as reckoning, weighing and evaluating of deeds, and recompense. This refers to the alteration of the state of things and the earth moving and shaking.
+
+**Classical tafsir:** Ibn Kathir notes: Here it probably refers to the second quake, and the context supports it, because the Surah later on describes the scenes of the Day of Resurrection, such as reckoning, weighing and evaluating of deeds, and recompense.
+
+**From the Sunnah:** Then the man said, 'Rather give me something to recite that is comprehensive (of all of these), O Messenger of Allah.' So the Prophet ﷺ told him to recite So the man came to him and the Prophet ﷺ said to him,
 ## Personal Reflections
 
 

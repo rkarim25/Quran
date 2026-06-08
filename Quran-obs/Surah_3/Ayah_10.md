@@ -126,6 +126,17 @@ Sequence
 
 The text now shifts from the verbal confrontation with disbelievers on the warnings about the coming physical encounter as pointed out in verse 12 - 'You shall soon be overcome (by Muslims) ' while the verses earlier (10 and 11) serve as the introduction.
 
+## AI Translation
+
+Indeed, neither the wealth nor children of those who reject the truth will be of any benefit to them against Allah—and they will be the fuel for the Fire.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, those who disbelieve, neither their properties nor their offspring will avail them whatsoever against Allah; and it is they who will be fuel of the Fire (10)Like the behavior of the people of Fir'awn and those before them; they belied Our Ayat.
+
+**Classical tafsir:** Ibn Kathir notes: The Ayah indicates that the those who reject the truth will not benefit from their wealth or offspring.
+
+**From the Sunnah:** The text now shifts from the verbal confrontation with those who reject the truth on the warnings about the coming physical encounter as pointed out in verse 12 - 'You shall soon be overcome (by Muslims) ' while the verses earlier (10 and 11) serve as the introduction.
 ## Personal Reflections
 
 

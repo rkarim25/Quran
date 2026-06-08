@@ -102,6 +102,17 @@ Allah the Exalted said,
 
 لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَانٌّ (...whom neither a man will have touched before them, nor a Jinn....55:56). The word طْمِث tamth has different meanings. 'Menstrual discharge' is termed as tamth, and the menstruating woman as طْامِث 'tamith'. It also means 'sexual intercourse with a virgin'. This second sense is meant here in this verse.
 
+## AI Translation
+
+Beautiful as rubies and coral.
+
+## AI Tafsir
+
+**What this ayah teaches:** I neither see anything in Paradise more handsome than you nor more beloved to me than you.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** Paradise, men or women. (Sahih Muslim) Paradise as small as that occupied by the whip of one of you, is better than the world and whatever is on its surface. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

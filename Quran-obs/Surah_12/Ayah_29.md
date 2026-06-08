@@ -136,6 +136,15 @@ In the verses which will follow, mentioned there is another event which is conne
 
 These women were talking among themselves. They were saying: Look, how regrettable it is that the wife of the ` Aziz of Misr, despite enjoying a status so high, had become enamoured with her young slave and was looking for the fulfillment of what she wanted from him. In this, we think, she is in a grave error. The word used in the verse (30) is: فَتَاھَا (fate ha: translated as ` her youthful slave' ). Fata' denotes someone youthful. In customary usage, a boy slave when small is called a ghulam. If in his youth, the boy is called fata, and the girl, fata. Here, Sayyidna Yusuf (علیہ السلام) has been referred to as the slave of Zulaikha either because that which is owned by the husband is also customarily called as that which is owned by the wife; and/or because Zulaikha had taken Sayyidna Yusuf (علیہ السلام) from her husband as gift. (Qurtubi)
 
+## AI Translation
+
+O Joseph! Forget about this. And you O wife! Seek forgiveness for your sin. It certainly has been your fault.”
+
+## AI Tafsir
+
+**What this ayah teaches:** Special Note At this point, it is very surprising that a husband, who finds out an open proof of such immodesty and breach of trust on the part of his wife, would not be agitated, rather, go on talking with perfect peace of mind - unusual indeed, given the compulsion of human nature in such circumstances.
+
+**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported that Jabir said that Ibn Abi Mulaykah said that Ibn 'Abbas said, "He was from the king's entourage." Mujahid, 'Ikrimah, Al-Hasan, Qatadah, As-Suddi, Muhammad bin Ishaq and others also said that the witness was an adult male.
 ## Personal Reflections
 
 

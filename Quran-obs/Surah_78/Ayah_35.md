@@ -196,6 +196,15 @@ This is the end of the Tafsir of Surat An-Naba'. And all praise and thanks are d
 
 Thus far the punishment of disbelievers was depicted. As opposed to this, the reward and blessings of the righteous believers are depicted below.
 
+## AI Translation
+
+hearing no idle talk or lies there—
+
+## AI Tafsir
+
+**What this ayah teaches:** They meant by this that the breasts of these girls will be fully rounded and not sagging, because they will be virgins, equal in age. Verily, for those who have Taqwa, there will be a success (31)Hada'iq and vineyards (32)And Kawa'ib Atrab (33)And a cup Dihaq (34)No Laghw shall they hear therein, nor lying (35)Rewarded from your Lord with a sufficient gift .
+
+**Classical tafsir:** Ibn Kathir notes: He explains that He is the ar-Rahman, Whose mercy covers all things.
 ## Personal Reflections
 
 

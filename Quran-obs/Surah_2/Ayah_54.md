@@ -163,6 +163,15 @@ This verse describes the special mode of offering their Taubah توبہ (repenta
 
 Then the Israelites acted upon this divine commandments, they became worthy of receiving the mercy and favour of Allah in the other world.
 
+## AI Translation
+
+And when Moses said to his people, "You wronged yourselves by worshipping the calf. Turn in repentance to your Creator and put the guilty among you to death. That is best for you with your Creator." Then He accepted your repentance. He is the Accepter of Repentation, the Rahim.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, you have wronged yourselves by worshipping the calf. The Children of Israel kill each other in Repentance This was the repentance required from the Children of Israel for worshipping the calf.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

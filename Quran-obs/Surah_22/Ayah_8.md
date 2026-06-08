@@ -160,6 +160,17 @@ He then adds:
 
 (And in spite of all this Imam Ahmad Ibn Hanbal (رح) has related it in his Musnad both as a saying of the Holy Prophet ﷺ and as a saying of a Sahabi, that is traced.
 
+## AI Translation
+
+Still there are some who dispute about Allah without knowledge, guidance, or an enlightening scripture,
+
+## AI Tafsir
+
+**What this ayah teaches:** And among men is he who disputes about Allah, without knowledge or guidance, or a Book giving light (from Allah)(8)Bending his neck in pride, and leading (others) too (far) astray from the path of Allah.
+
+**Classical tafsir:** Ibn Kathir notes: That is because of what your hands have sent forth,) means, this will be said to him by way of rebuke.
+
+**From the Sunnah:** protection and provide him strength. (Sahih Muslim)
 ## Personal Reflections
 
 

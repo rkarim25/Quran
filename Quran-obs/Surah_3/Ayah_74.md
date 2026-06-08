@@ -112,6 +112,19 @@ The reason why they act in the way they do is envy, that is, they envy Muslims a
 
 That this envy is based on not knowing the nature, timing and wisdom of Allah's grace and mercy is explained in the later part of verse 73 and in verse 74.
 
+## AI Translation
+
+He chooses whoever He wills to receive His mercy. And Allah is the Rabb of infinite bounty.
+
+## AI Tafsir
+
+**Context:** A party of the People of the Scripture wish to lead you astray. But they shall not lead astray anyone except themselves, and they perceive not (69)"O People of the Scripture!
+
+**What this ayah teaches:** That this envy is based on not knowing the nature, timing and wisdom of Allah's grace and mercy is explained in the later part of verse 73 and in verse 74.
+
+**Classical tafsir:** Ibn Kathir notes: However, when the day ended, they would revert to their old religion so that the ignorant people would say, "They reverted to their old religion because they uncovered some shortcomings in the Islamic religion." This is why they said next.
+
+**From the Sunnah:** The Envy the Jews Feel Towards Muslims; Their Wicked Plots Against Muslims This is a wicked plan from the People of the Book to deceive Muslims who are weak in the religion.
 ## Personal Reflections
 
 

@@ -164,6 +164,17 @@ Allah is saying, 'for which day are the Messengers postponed and their matter ex
 
 عُذْرً‌ا أَوْ نُذْرً‌ا ( to provide excuses [ for the believers ] or giving warnings (to disbelievers…77:6) This phrase is complement to verse [ 5]: فَالْمُلْقِيَاتِ ذِكْرً‌ا then bring down the advice, [ 77:5] The 'advice' refers to the 'revelation' that came down upon the Prophets. Verse 6 says that it serves two purposes. In the case of the people of truth and believers, it persuades them to seek excuse from Allah for their shortcomings, and pray for forgiveness; and in the case of the people of falsehood and disbelievers, it contains a warning for them of Allah's torment, if they oppose His command.
 
+## AI Translation
+
+ending excuses and giving warnings—
+
+## AI Tafsir
+
+**Context:** (By the Mursalat.) was revealed to him. He was reciting it and I was learning it from his mouth. Verily, his mouth was moist with it when a snake leaped out at us. The Prophet ﷺ said,
+
+**What this ayah teaches:** There is no difference of opinion here, because they (the angels) are the ones who descend with Allah's command to the Messengers, separating between the truth and falsehood, guidance and misguidance, and the lawful and the forbidden.
+
+**Classical tafsir:** Ibn Kathir notes: This means, what you all have been promised concerning the establishment of the Hour (Judgement Day), the blowing of the horn, the resurrection of the bodies, the gathering of those of old and those of latter times on one common ground and the rewarding of every doer of a deed ba…
 ## Personal Reflections
 
 

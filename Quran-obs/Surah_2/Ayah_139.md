@@ -149,6 +149,17 @@ Verse 139 brings out the essential and peculiar characteristic of the Islamic Um
 
 Nor should we forget another serious aspect of the problem. There is another allied notion of "sincerity" which has been disturbing the peace of many pious people even in the past, but which has acquired a devastating intensity in our own days. This notion of "sincerity" demands one to seek fixity and unrelieved continuity in an emotional state, which is, of course, not possible for man as he is constituted. It so happens with some pious people that once they start seeking this kind of "sincerity" in offering their enjoined prayers, they find that they cannot keep up an unbroken concentration of mind, and are so frightened by this lapse that they sometimes give up offering their prayers, believing such worship to be "insincere" and hence invalid. Let us make it clear once for all that the only thing the Shari` ah requires from us is to have the correct intention and attitude when we begin our prayers or perform any other good deed. This alone is the pre-requisite for attaining Ikhlas اخلاص ، which, anyhow, is not a matter of emotions and affective states. In short, Islam requires us to perfect the quality of Ikhlas اخلاص as defined by the Shari'ah, and not to seek "sincerity" in the Western sense of the term, ancient or modern. For an elaborate treatment of the subject, see Tarbiyyah al-Salik تربیہ السالک by Maulana Ashraf ` Ali Thanavi (رح) .
 
+## AI Translation
+
+Say, "Do you argue with us about Allah when He is our Rabb and your Rabb? We have our deeds and you have yours, and we are devoted to Him alone."
+
+## AI Tafsir
+
+**What this ayah teaches:** The earlier verses have established that the religion of all these prophets was Islam, in the general sense of the term, but that the earlier Shari` ahs have now been abrogated, and the title of "Islam" been specially given to the religion of Sayyidna Muhammad ﷺ .
+
+**Classical tafsir:** Ibn Kathir notes: The earlier verses have established that the religion of all these prophets was Islam, in the general sense of the term, but that the earlier Shari` ahs have now been abrogated, and the title of "Islam" been specially given to the religion of Sayyidna Muhammad ﷺ .
+
+**From the Sunnah:** Paradise which would be denied to Muslims.
 ## Personal Reflections
 
 

@@ -136,6 +136,15 @@ The believer, therefore, is aware of the test behind the afflictions whether it 
 
 The Arabic word: سَّيِّئَةِ 'sayyiah' in this verse refers to distress, while the word: حَسَنَةَ 'hasanah' signifies prosperity, and the word عَفَو ` Afw': signifies increase or growth. The verse implies firstly that, they were made to undergo a test of hardship and suffering in order that they may repent and turn to Allah. When they did not take lesson from this warning and were a failure in this test, they were put to another test of a different kind. Their adversity was replaced with prosperity and their distress with ease and comfort until they increased in number and strength. This prosperity, after a long period of adversity, should have made them grateful to their Lord and they should have repented to Allah, but being completely lost in material pursuits and perverted by their mundane desires, they did nothing but to say, 'The suffering and prosperity came to our fathers (too).' that is, their suffering and prosperity had nothing to do with their deeds, it was just a natural course of changing phenomena. It was after their obstinate persistence in their evil and ignorance that they were seized by the punishment of Allah. The verse said, 'Then We seized them suddenly while they were unaware.'
 
+## AI Translation
+
+Then We changed their adversity to prosperity until they flourished and argued, “Our forefathers had been visited by adversity and prosperity.” So We seized them by surprise, while they were unaware.
+
+## AI Tafsir
+
+**What this ayah teaches:** And We sent no Prophet unto any town (and they denied him), but We seized its people with Ba'sā' and Ḍarrā', so that they might humble themselves (to Allah)(94)Then We changed the evil for the good, until they 'Afaw (increased), and said: "Our fathers were touched with evil and with good." So We seized them all of a sudden while they were unaware .
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah indicates that Allah sent down severe afflictions to them so that they might invoke Him, but they did not do what He ordered them.
 ## Personal Reflections
 
 

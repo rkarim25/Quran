@@ -184,6 +184,15 @@ He is Mighty in power and nothing escapes His ability. Allah used the word 'crea
 
 The glad tidings given by the angel (verse 46) regarding the birth of Sayyidna ` Isa without a father surprised Sayyidah Maryam as she was a virgin. She wondered how it would happen. Would that be a Divine miracle or would she be asked to marry a man? The Divine answer eliminates the latter possibility. Not restricted by it, 'Allah creates what He wills', that is, His will is all sufficient to bring some-thing into existence. He needs no medium or cause. It is only His command "be" which makes things come into existence.
 
+## AI Translation
+
+Mary wondered, “My Rabb! How can I have a child when no man has ever touched me?” An angel replied, “So will it be. Allah creates what He wills. When He decrees a matter, He simply tells it, ‘Be!’ And it is!
+
+## AI Tafsir
+
+**What this ayah teaches:** Not restricted by it, 'Allah creates what He wills', that is, His will is all sufficient to bring some-thing into existence.
+
+**Classical tafsir:** Ibn Kathir notes: Allah used the word 'create' here instead of the word 'does' as in the tale about Zakariyya [3:40], to eradicate any evil thought concerning 'Isa.
 ## Personal Reflections
 
 

@@ -110,6 +110,15 @@ Allah sends the winds as heralds of glad tidings, i.e., they bring the clouds be
 
 وَنُسْقِيَهُ مِمَّا خَلَقْنَا أَنْعَامًا وَأَنَاسِيَّ كَثِيرً‌ا And give drink to the many cattle and humans We have created - 25:49). The word أَنَاسِيَّ is the plural of إنسِیّ and some linguistics have taken it as a plural of إنسَان (both the words mean 'human' ). This verse has described that the rain is a source of irrigation for land, while it serves as a drink for 'many cattle and humans'. The point worth consideration here is why the word 'many' is used which indicates that some human beings do not benefit from it. This question may be answered by saying that the reference here is to the cattle and human beings living in jungles and deserts who directly use the water of rain. As for the urban people, they normally use the water of wells and canals etc.
 
+## AI Translation
+
+giving life to a lifeless land, and providing water for countless animals and humans of Our Own creation.
+
+## AI Tafsir
+
+**What this ayah teaches:** And it is He Who sends the winds as heralds of glad tidings, going before His mercy; and We send down pure water from the sky (48)That We may give life thereby to a dead land, and We give to drink thereof many of the cattle and men that We have created (49)And indeed We have distributed it among them in order that they may remember the grace of Allah, but most men refuse (out of) gratitude .
+
+**Classical tafsir:** Ibn Kathir notes: The point worth consideration here is why the word 'many' is used which indicates that some human beings do not benefit from it.
 ## Personal Reflections
 
 

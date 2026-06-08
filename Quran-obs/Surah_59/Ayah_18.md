@@ -178,6 +178,17 @@ The phrase مَّا قَدَّمَتْ لِغَدٍ 'what he (or she) has sent a
 
 Also, it is possible that the first command to fear Allah is to send forth good deeds for the Hereafter by acting upon imperatives set by Allah, and the second command to fear is to ensure that what is being sent is not fake or counterfeit. Fake or counterfeit deeds, in relation to the Hereafter, would imply the deeds done seem to be genuinely righteous deeds, but they lack sincerity of purpose and the good pleasure of Allah. What was done ostentatiously or for ulterior motive or an ostensible action that seems like an act of worship, but having no base in religion, it is tantamount to innovation (Bid'ah). Thus the second command to fear Allah implies that for the Hereafter it is not sufficient to merely accumulate ostensible actions, but to send forth genuine deeds performed with sincerity according to the rules set in religion. Spurious actions will not be acceptable there.
 
+## AI Translation
+
+O believers: be living with taqwa—Allah-consciousness, and let every soul consider what it has sent ahead for tomorrow. Fear Allah—He is All-Aware of what you do.
+
+## AI Tafsir
+
+**What this ayah teaches:** Second of all, this verse shows that the Day of Resurrection is as certain as the arrival of tomorrow after today which is a stark reality, and no one doubts it.
+
+**Classical tafsir:** Ibn Kathir notes: In fact, in terms of pure calculation, this comparison too is difficult to imagine, because the Hereafter is eternal which will exist without an end.
+
+**From the Sunnah:** The color of the face of the Messenger of Allah ﷺ underwent a change when he saw them in poverty. (Musnad Ahmad)
 ## Personal Reflections
 
 

@@ -333,6 +333,19 @@ A Summary of Subsidiary Injunctions
 
 The fifth injunction which emerges clearly from these verses is that all prophets, may peace be upon them, and their Shari'ahs agree in principle, but there is that difference in minute and subsidiary in-junctions with them - a difference which is based on considerations of great wisdom.
 
+## AI Translation
+
+And judge between them by what Allah has revealed, and do not follow their desires. And beware, so they do not lure you away from some of what Allah has revealed to you. If they turn away, then know that it is Allah’s Will to repay them for some of their sins, and that many people are indeed rebellious.
+
+## AI Tafsir
+
+**Context:** (So judge between them by what Allah has revealed.) The Ayah commands: O Muhammad! Rule between the people, Arabs and non-Arabs, lettered and unlettered, by what Allah has revealed to you in this Glorious Book and what i…
+
+**What this ayah teaches:** This Glorious Book, which Allah revealed as the Last and Final Book, is the most encompassing, glorious and perfect Book of all times.
+
+**Classical tafsir:** Ibn Kathir notes: Al-'Awfi said that Ibn 'Abbas said that Muhayminan means, 'dominant over the previous Scriptures'.
+
+**From the Sunnah:** But, there is enmity between us and some of our people, so we will refer to you for judgement in this matter, and you should rule in our favor against them and we will believe in you.' The Messenger of Allah ﷺ refused the offer and Allah sent down these Ayat a… If they became Muslims, the rest of them would become Muslims too.
 ## Personal Reflections
 
 

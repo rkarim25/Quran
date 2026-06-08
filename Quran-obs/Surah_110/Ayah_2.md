@@ -137,6 +137,17 @@ This is the end of the Tafsir of Surat An-Nasr, and all praise and blessings are
 
 Verse [ 110:2] وَرَ‌أَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّـهِ أَفْوَاجًا (And you see people entering Allah's [ approved ] religion in multitudes,) Before the conquest of Makkah there were many people who were almost convinced of the verity of the Holy Prophet Muhammad ﷺ and Islam, but there were several factors that were obstructing them to embrace the religion. Some people were afraid of the Quraishite opposition, or they were hesitant for some other reason. The Conquest of Makkah removed those obstacles, and people entered the fold of Islam in throngs. Seven hundred people from Yemen embraced the religion, and joined the Holy Prophet ﷺ . On the way, they recited the call to prayer [ adhan ] and recited the Qur'an. In this way, the populace of Arabia embraced the religion of Islam and entered into its fold in droves.
 
+## AI Translation
+
+and you see people entering Allah's deen in waves, no longer mocking what they once dismissed,
+
+## AI Tafsir
+
+**What this ayah teaches:** They said, "If he (Muhammad ﷺ is victorious over his people, then he is a (true) Prophet." So when Allah gave him victory over Makkah, they entered into the religion of Allah (Islam) in crowds.
+
+**Classical tafsir:** Ibn Kathir notes: When there comes the help of Allah and the Conquest.)(2.
+
+**From the Sunnah:** This Surah Informs of the Completion of the Life of Allah's Messenger (ﷺ) Then he ('Umar) said to me, 'Is this what you say, O Ibn 'Abbas?' I said, 'No.' He then said, 'What do you say?' I said, 'It was the end of the life of Allah's Messenger ﷺ that Allah was informing him of.
 ## Personal Reflections
 
 

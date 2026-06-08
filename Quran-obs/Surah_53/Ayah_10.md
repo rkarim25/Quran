@@ -271,6 +271,19 @@ It is learnt from a Hadith recorded in chapter [ 1] of the Sahih of Bukhari, tha
 
 Thus marked by thematic and structural coherence, the Qur'an confirms that it is an absolutely true and veritable words of Allah. This may be compared to the Muhaddithins' study of Hadith. In order to verify the authenticity of the Traditions of the Holy Prophet ﷺ they trace in full the chains of authorities from themselves [ that is, the last of the authorities ] to the Holy Prophet ﷺ . In these verses Allah sets up the chain of authorities: [ 1] Allah is the Muhi, that is, He is the Ultimate Source from where the revelation originates; and [ 2] Jibra'il (علیہ السلام) is the transmitting authority between Allah and the Messenger of Allah ﷺ . The above verses describe Jibra'il (علیہ السلام) as magnificent in status and mighty in power: This confirms his honesty and integrity as the transmitting authority.
 
+## AI Translation
+
+Then Allah revealed to His servant what He revealed.
+
+## AI Tafsir
+
+**Context:** He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While he was in the highest part of the horizon (7)Then he approached and came closer (8)And was at a distance of two bows' length or less (9)So (…
+
+**What this ayah teaches:** In the phrase maawha 'whatever He revealed' is obscure or vague.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, this verifies the facts mentioned, leaving no doubt or means of refute.
+
+**From the Sunnah:** that Abdullah bin Mas'ud said, "The Messenger of Allah ﷺ saw Jibril in his original shape having six hundred wings, each wing filling the side of the horizon, with a colorful array, and pearls and rubies falling from each wing as much as only Allah knows." Onl… (Musnad Ahmad) When the Prophet ﷺ saw Jibril in his original shape, he was knocked unconscious. (Musnad Ahmad)
 ## Personal Reflections
 
 

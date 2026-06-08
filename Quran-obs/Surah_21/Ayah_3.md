@@ -166,6 +166,17 @@ None of the peoples to whom Messengers were sent were given a sign at the hands 
 
 أَفَتَأْتُونَ السِّحْرَ‌ وَأَنتُمْ تُبْصِرُ‌ونَ (Would you then go along with sorcery while you have eyes to see? - 21:3) Those people used to discuss among themselves secretly that the claim of the Holy Prophet about his prophethood should not be accepted, because he was an ordinary human being like all others and not an angel. On the other hand not even the most rigid among the unbelievers could deny the supreme charm and eloquence of the Book of Allah nor its power to influence people when it was recited before them. Therefore, in order to turn people away from the Holy Book they started calling it magic and black art. They thought that they could keep people away from Islam by labeling the Qur'an as a book of magic thereby dissuading people from going to the Holy Prophet ﷺ and listening to Qur'an. Probably they used to discuss this subject secretly among themselves lest the Muslims come to know about their foolish views and unveil their fallacy.
 
+## AI Translation
+
+with their hearts totally distracted. The evildoers would converse secretly, saying, “Is this one not human like yourselves? Would you fall for this witchcraft, even though you can clearly see?”
+
+## AI Tafsir
+
+**What this ayah teaches:** - 21:3) Those people used to discuss among themselves secretly that the claim of the Holy Prophet about his prophethood should not be accepted, because he was an ordinary human being like all others and not an angel. Comes not unto them an admonition from their Lord as a recent revelation but they listen to it while they play.)(3.
+
+**Classical tafsir:** Ibn Kathir notes: Comes not unto them an admonition from their Lord as a recent revelation but they listen to it while they play.)(3.
+
+**From the Sunnah:** 'Abdullah said, "Banu Isra'il, Al-Kahf, Maryam, Ta Ha and Al-Anbiya' - they are among the earliest and most beautiful Surahs and they are my treasure." (Sahih al-Bukhari) that Abu Sa'id reported from the Prophet ﷺ: (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

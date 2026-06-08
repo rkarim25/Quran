@@ -180,6 +180,19 @@ Concerning Allah's statement,
 
 The verse further goes on to remind man of the inceptive stages of his creation. First, it says: خَلَقَكَ فَسَوَّاكَ (who created you, then perfected you...82:7). The sense is that not only did Allah create man, but He also perfected his creation and proportioned his body, limbs and organs. Every limb and organ is well placed. The body, height, length and breadth of every limb are kept in harmony, symmetry and balance. Any deviation from the symmetrical construction of the human body, the organs will become dysfunctional. Then the verse says: فَعَدَلَكَ (...then brought you in due proportion?...82:7). Man is granted such symmetry, harmony and balance that no other animal in the world is granted to that degree. Along with physical and physiological symmetry and harmony, he has been granted well-balanced disposition, despite the fact that man is made up of opposing humours - blood, phlegm, black bile and yellow bile. Some are hot and others are cold, and yet the perfect wisdom of Allah prepared a well-balanced disposition. Thereafter a third characteristic is mentioned as follows:
 
+## AI Translation
+
+Who created you, fashioned you, and balanced your form,
+
+## AI Tafsir
+
+**Context:** Al-Baghawi mentioned that Al-Kalbi and Muqatil said, "This Ayah was revealed about Al-Aswad bin Shariq who struck the Prophet ﷺ and he was not punished in retaliation. So Allah revealed,
+
+**What this ayah teaches:** Who created you, fashioned you perfectly, and gave you due proportion.)(8. What has made you careless about your Lord, the Most Generous?)(7.
+
+**Classical tafsir:** Ibn Kathir notes: What has made you careless about your Lord, the Most Generous?)(7.
+
+**From the Sunnah:** from Jabir that Mu'adh stood and lead the people in the Night prayer, and he made the recitation of his prayer long. (Sunan an-Nasa'i) from Busr bin Jahhash Al-Qurashi that one day the Messenger of Allah ﷺ spat in his palm and placed his finger on it. (Musnad Ahmad)
 ## Personal Reflections
 
 

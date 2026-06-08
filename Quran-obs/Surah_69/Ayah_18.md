@@ -93,6 +93,17 @@ Imam Ahmad recorded from Abu Musa that the Messenger of Allah ﷺ said,
 
 يَوْمَئِذٍ تُعْرَ‌ضُونَ لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌ (On that day, you will be brought forward in a way that no secret of yours will remain secret...69:18). In other words, on the Day of Judgment people will be exposed - no concealed act they did will stay concealed. Nothing is concealed from Divine knowledge and sight even today. The Plain of Gathering has been particularly mentioned in this connection probably because the entire ground will be levelled out as a plain surface. There will be no caves nor mountains, no buildings nor houses nor barriers of any trees. These are the things behind which people normally hide in the mortal world. On the Day of Judgment, none of these things will be available and there will be no possibility of hiding.
 
+## AI Translation
+
+You will be presented for judgment, and none of your secrets will stay hidden.
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, on the Day of Judgment people will be exposed - no concealed act they did will stay concealed. It is emphasized here that it is one blowing, because the command of Allah cannot be opposed or prevented, and it does not need to be repeated or stressed.
+
+**Classical tafsir:** Ibn Kathir notes: It is emphasized here that it is one blowing, because the command of Allah cannot be opposed or prevented, and it does not need to be repeated or stressed.
+
+**From the Sunnah:** Between the lobe of his ear to his shoulder is the distance of seven hundred years (of travelling).) This is the wording recorded in Abu Dawud. (Sunan Abi Dawud) Some of them will receive the records in their right hands and some will receive them in their left hands.) Ibn Majah and At-Tirmidhi both recorded this Hadith. (Jami' at-Tirmidhi, Sunan Ibn Majah)
 ## Personal Reflections
 
 

@@ -89,6 +89,17 @@ And it was just this kind of gross dishonesty that the People of the Book were i
 
 The phrase, "The Truth is from your Lord", can also be interpreted in a general sense as providing a definition of the nature of truth - namely, that alone is truth which comes from Allah. One who has understood this fact can never allow himself to be in doubt with regard to this particular truth or to any other which has been revealed to a prophet by Allah.
 
+## AI Translation
+
+This is truth from your Rabb — so do not be among those who doubt.
+
+## AI Tafsir
+
+**Context:** The phrase, "The Truth is from your Lord", can also be interpreted in a general sense as providing a definition of the nature of truth - namely, that alone is truth which comes from Allah.
+
+**What this ayah teaches:** The phrase, "The Truth is from your Lord", can also be interpreted in a general sense as providing a definition of the nature of truth - namely, that alone is truth which comes from Allah.
+
+**Classical tafsir:** Ibn Kathir notes: The phrase, "The Truth is from your Lord", can also be interpreted in a general sense as providing a definition of the nature of truth - namely, that alone is truth which comes from Allah.
 ## Personal Reflections
 
 

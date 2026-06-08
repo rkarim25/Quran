@@ -234,6 +234,17 @@ As for Verse 115, we have already pointed out that Allah not being limited to an
 
 Similarly, if one does not know the direction of the Qiblah, nor can correctly determine it on account of the darkness of the night or for some other valid reason, nor can find someone to provide correct information, the same rule would apply in this case too. In such a situation, one is allowed to follow one's conjecture, and to turn in the direction which seems to be the most likely. The direction one chooses would serve as the Qiblah. If, having finished one's prayers, one discovers that the choice of this particular direction was wrong, even then one's prayers would remain acceptable, and one would not have to repeat them.
 
+## AI Translation
+
+Who does greater wrong than those who prevent Allah's Name from being mentioned in His mosques and strive to ruin them? They should not enter except in fear. For them is disgrace in this world, and a tremendous punishment in the Akhirah.
+
+## AI Tafsir
+
+**What this ayah teaches:** prayers and invocations) in Allah's Masjids and strive for their ruin?) is about the Quraysh idolators who prevented the Prophet ﷺ from entering Makkah from Al-Hudaybiyyah, until he slaughtered the Hadi (animal for sacrifice) at Dhi-Tuwa.
+
+**Classical tafsir:** Ibn Kathir notes: Injunctions and related considerations Verse 114 lays down, or helps us to infer, some very important injunctions: All the mosques in the world are equally worthy of respect.
+
+**From the Sunnah:** prayers and invocations) in Allah's Masjids and strive for their ruin?) is about the Quraysh idolators who prevented the Prophet ﷺ from entering Makkah from Al-Hudaybiyyah, until he slaughtered the Hadi (animal for sacrifice) at Dhi-Tuwa. the Quraysh prevented the Prophet ﷺ from praying at the Ka'bah in Al-Masjid Al-Haram, so Allah revealed,
 ## Personal Reflections
 
 

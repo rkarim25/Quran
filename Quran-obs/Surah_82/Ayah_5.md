@@ -184,6 +184,19 @@ Commentary
 
 عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَ‌تْ (...then one will know what he sent ahead and what he left behind....82:5) In the preceding verses [ 1-4] of the Surah, Allah depicts the scene of the Day of Judgment that when the sky splits, the stars fall, the seas are poured forth [ i.e. the fresh and salt water bodies will merge to form one mass of water ] and the graves are overturned [ i.e. corpses will emerge from their graves ], every soul shall come to know what it had sent ahead and what it had left behind. The phrase 'what he sent ahead' means the good or evil act which he has done in his life; and the phrase 'what he left behind' means what he failed to do or refrained from doing. It is also possible that 'what he sent ahead' refers to the acts he has done himself, and 'what he left behind' refers to the acts one has not done himself, but he has laid down a custom in the society. The Holy Prophet ﷺ is reported to have said: "If anyone establishes a good tradition in Islam, he will have a reward for it and the equivalent of the rewards of those who act upon it after him, without theirs being diminished in any respect; but he who establishes a bad custom in Islam will bear the responsibility of it and the responsibility of those who act upon it after him, without theirs being diminished in any respect." This subject was dealt with earlier under the following verse: يُنَبَّأُ الْإِنسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ 'Man will be informed of what he sent ahead and what he left behind. [ 75:13] '
 
+## AI Translation
+
+each soul will know what it sent ahead and left behind.
+
+## AI Tafsir
+
+**Context:** Al-Baghawi mentioned that Al-Kalbi and Muqatil said, "This Ayah was revealed about Al-Aswad bin Shariq who struck the Prophet ﷺ and he was not punished in retaliation. So Allah revealed,
+
+**What this ayah teaches:** A person will know what he has sent forward and left behind.)(6. corpses will emerge from their graves ], every soul shall come to know what it had sent ahead and what it had left behind.
+
+**Classical tafsir:** Ibn Kathir notes: The phrase 'what he sent ahead' means the good or evil act which he has done in his life; and the phrase 'what he left behind' means what he failed to do or refrained from doing.
+
+**From the Sunnah:** from Jabir that Mu'adh stood and lead the people in the Night prayer, and he made the recitation of his prayer long.
 ## Personal Reflections
 
 

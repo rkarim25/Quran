@@ -188,6 +188,15 @@ Surah Fatir
 
 Ends here
 
+## AI Translation
+
+Have they not travelled the land and seen the end of those before them? They were far superior in might. But nothing escapes Allah in the heavens or earth. He is All-Knowing, Most Capable.
+
+## AI Tafsir
+
+**What this ayah teaches:** There is another answer given by some elders who say that there are occasions when the curse of contriving against someone innocent or inflicting injustice on him, more than often, falls on the person causing it, right here in this world as well.
+
+**Classical tafsir:** Ibn Kathir notes: In other words, a person who wishes evil for others, he himself falls a victim to it.
 ## Personal Reflections
 
 

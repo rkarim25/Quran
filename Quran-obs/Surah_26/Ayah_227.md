@@ -306,6 +306,19 @@ Surah Ash-Shu` ara'
 
 Ends here.
 
+## AI Translation
+
+Except those who believe, do good, remember Allah often, and poetically avenge the mu'mins after being wrongfully slandered. The wrongdoers will come to know what evil end they will meet.
+
+## AI Tafsir
+
+**Context:** But this Surah was revealed in Makkah, so how could the reason for its revelation be the poets of the Ansar? This is something worth thinking about.
+
+**What this ayah teaches:** If its subject matter is good and useful, it is good, and if its subject is bad or sinful, it is bad.
+
+**Classical tafsir:** Ibn Kathir notes: Their objective was to call him a liar, because the word Sha` ir is also used in the sense of lie, and Shi` r for a liar.
+
+**From the Sunnah:** The shooting star may strike the Jinn before he passes it on, or he may pass it on before he is struck, and he adds to it one hundred lies, thus it is said: "Did he not tell us that on such and such a day, such and such would happen?" So they believe him becau… (Sahih al-Bukhari) from 'A'ishah, may Allah be pleased with her, that the Prophet ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
 
 

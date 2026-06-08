@@ -248,6 +248,19 @@ Then, a man from among the people present said, "It is as if the Messenger of Al
 
 The word مَرْعَىٰ ma’ ra means 'pasturage'. This is the land that has grass growing on it, and that is used for animals to graze. The word ghutha' غُثَا refers to 'stubble, and scum borne upon the surface of a torrent'. The word أَحْوَىٰ ahwa is derived from the root huwwah which refers to 'a kind of black colour that comes upon a dense vegetation'. The verse purports to depict the Divine power and wisdom related to herbage and vegetation. He grows the green vegetation and then He gradually turns it into black colour, and it loses its freshness. This directs man's attention also to his end. His body radiating with health, beauty, smartness and alertness is a Divine gift, but its tenure of life is limited. Eventually it will come to an end.
 
+## AI Translation
+
+then reduces it to dry stubble.
+
+## AI Tafsir
+
+**Context:** This Surah was revealed in Makkah before the migration to Al-Madinah. The proof of this is what Al-Bukhari recorded from Al-Bara' bin 'Azib, that he said, "The first people to come to us (in Al-Madinah) from the Companio…
+
+**What this ayah teaches:** And Who brings out the pasturage,)(5.
+
+**Classical tafsir:** Ibn Kathir notes: And Who brings out the pasturage,)(5.
+
+**From the Sunnah:** Then 'Umar bin Al-Khattab came with a group of twenty people, after which the Prophet ﷺ came. (Sahih al-Bukhari) It has been confirmed in the Two Sahihs that the Messenger of Allah ﷺ said to Mu'adh,
 ## Personal Reflections
 
 

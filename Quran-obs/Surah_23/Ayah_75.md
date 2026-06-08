@@ -176,6 +176,17 @@ Or did they not recognize their messenger? - 23:69.
 
 One reason for their denial of the true faith could have been if the message was brought to them by an outsider who was a stranger to them and with whose character and antecedents they were unfamiliar. But this argument could not be invoked in the case of the Holy Prophet ﷺ who belonged to the noble family of Quraish, was born in Makkah, grew up among them, and his whole life was like an open book before them: Before prophethood was bestowed upon him, he was known among the unbelievers of Makkah as اَمِین (trustworthy) and صَادِق (truthful) and nobody had ever raised an accusing finger on his character and general behavior. Thus they could not take the plea that their repudiation of the Holy Prophet ﷺ and of the message brought to him was due to their ignorance about him or about his family connections.
 
+## AI Translation
+
+Even if We had mercy on them and removed their affliction, they would still persist in their transgression, wandering blindly.
+
+## AI Tafsir
+
+**What this ayah teaches:** But the recompense of your Lord is better, and He is the Best of those who give sustenance (72)And certainly, you call them to the straight path (73)And verily, those who believe not in the Hereafter are indeed deviating far astray from the path (74)And though We had mercy on them and removed the distress which is on them, still they would obstinately persist in their transgres…
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** What these people, upon whom the blessing had been bestowed, should have done, was to accept it and give thanks for it, and try to understand it and act in accordance with it night and day, as was done by the wise ones among them who became Muslim and followed… (Sahih Muslim) When the Byzantine ruler Heraclius asked Abu Sufyan Sakhr bin Harb and…
 ## Personal Reflections
 
 

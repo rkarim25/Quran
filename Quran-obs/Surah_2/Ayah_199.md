@@ -114,6 +114,19 @@ Human equality in practice
 
 This statement of the Holy Qur'an teaches us an important principle of social living which demands that the people of a higher status should not cut off their relations with those of a lower status; they should rather behave like members of a large family in their different forms of subsistence, stay and movement. This creates mutual brotherhood, concern and love, removes the walls between the rich and the poor, the employer and the employee. It was during his last sermon of Hajj that the Holy Prophet openly declared for all times to come that no Arab is superior to non-Arab and no white person is superior to a black person. Superiority depends on Taqwa and Ita` ah اِطاعت (the fear of Allah and the obedience to His command). Therefore, those who wanted to establish a distinct status for themselves by staying at Muzdalifah, contrary to the rest, were told that this act of theirs was a sin and they must seek forgiveness for it so that Allah Almighty may forgive them and bless them with His mercy.
 
+## AI Translation
+
+Then depart with the rest of the pilgrims and seek Allah's forgiveness. Allah is All-Forgiving, the Rahim.
+
+## AI Tafsir
+
+**Context:** The third verse (199): ثُمَّ أَفِيضُوا مِنْ حَيْثُ أَفَاضَ النَّاسُ وَاسْتَغْفِرُ‌وا اللَّـهَ ۚ إِنَّ اللَّـهَ غَفُورٌ‌ رَّ‌حِيمٌ,(Then, flow down from where the people flowed, and seek forgiveness from Allah.
+
+**What this ayah teaches:** Muslim reported that Allah's Messenger ﷺ used to ask Allah for His forgiveness thrice after the prayer is finished.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Bukhari reported that Ibn 'Abbas said that 'depart' mentioned in the Ayah refers to proceeding from Al-Muzdalifah to Mina to stone the pillars.
+
+**From the Sunnah:** Allah commands the Muslim to stand with the rest of the pilgrims at 'Arafat, unlike Quraysh who (before Islam) used to remain in the sanctuary, near Al-Muzdalifah, saying that they are the people of Allah's Town and the servants of His House.
 ## Personal Reflections
 
 

@@ -173,6 +173,17 @@ In verses 50 and 51 towards the end, given there is the state in which the peopl
 
 Finally, in the last verse (52), it was made clear that the description of conditions to be faced by people on the day of Qiyamah was to warn them so that they would realize that there is no Being worthy of worship and obedience except the One Being of Allah T, and so that whoever from among them has some sense left in him or her would desist from Shirk while there was still the time to do so.
 
+## AI Translation
+
+Watch for the Day when the earth will be changed into a different earth and the heavens as well, and all will appear before Allah—the One, the Supreme.
+
+## AI Tafsir
+
+**What this ayah teaches:** It is possible that the features of the present earth will be changed at the time the first Horn is blown, then people will be transferred to some other earth for the purpose of reckoning of deeds.
+
+**Classical tafsir:** Ibn Kathir notes: When the womans discharge is greater than the man's, it becomes a female by Allah's permission.) The Jew said, 'You have told the truth and are indeed a Prophet.' Then he left.
+
+**From the Sunnah:** it, and At-Tirmidhi said "Hasan Sahih". (Sahih al-Bukhari, Sahih Muslim) I was standing next to the Messenger of Allah ﷺ when a Jewish rabbi came to him and said, 'Peace be to you, O Muhammad. (Sahih Muslim)
 ## Personal Reflections
 
 

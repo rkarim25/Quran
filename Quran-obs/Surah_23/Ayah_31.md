@@ -86,6 +86,15 @@ In the earlier verses the story of Sayyidna Nuh (علیہ السلام) was told
 
 An alternative explanation is that the word صَیحَہ (Cry) has been used in the general sense of punishment from Allah in which case it would include the tribe of ` Ad also.
 
+## AI Translation
+
+Then We raised another generation after them,
+
+## AI Tafsir
+
+**What this ayah teaches:** It was said that this was 'Ad, because they were the successors of the people of Nuh. 'Ad or Thamud Allah tells us that after the people of Nuh, He created another nation.
+
+**Classical tafsir:** Ibn Kathir notes: It was said that this was 'Ad, because they were the successors of the people of Nuh.
 ## Personal Reflections
 
 

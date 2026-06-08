@@ -124,6 +124,15 @@ Commentary
 
 After having provided proofs of the basic beliefs of Islam, these verses now mention the obstinacy of the disbelievers. It has been said that, before the blessed appearance of the Holy Prophet ﷺ ، these people used to crave for the coming of some prophet from Allah, so that they could follow him. But, when he did come, they started confronting him with a posture of obstinacy and hostility. After that, the Holy Prophet has been comforted that he should not worry about the pain these people cause to him. The time was coming very soon when he will prevail, and his oppressors will be defeated and punished. That this will unfold comprehensively in the Hereafter is already settled, but in the mortal world too, Allah Ta’ ala showed the spectacle that, in every Jihad from the battle of Badr up to the conquest of Makkah, His blessed rasul came out victorious and his adversaries, disgraced.
 
+## AI Translation
+
+"If only we had a Reminder like those of earlier peoples,
+
+## AI Tafsir
+
+**What this ayah teaches:** That this will unfold comprehensively in the Hereafter is already settled, but in the mortal world too, Allah Ta’ ala showed the spectacle that, in every Jihad from the battle of Badr up to the conquest of Makkah, His blessed rasul came out victorious and his adversaries, disgraced.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

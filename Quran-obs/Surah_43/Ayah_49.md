@@ -83,6 +83,15 @@ Commentary
 
 Incidents related to Sayyidna Musa (علیہ السلام) have been stated by the Qur'an at many places repeatedly, and the incidents referred to in the present verses have been described in detail in Surah Al-A` raf. The reason for reminding these incidents here is to show that the objection of the infidels of Makkah that the Holy Prophet ﷺ is not a wealthy man is not a new objection; Fir'aun had expressed the same doubt against Sayyidna Musa (علیہ السلام) and his prophethood. His contention was that being the ruler of Egypt, and owner of the palaces and rivers flowing beneath them, how could Musa (علیہ السلام) claim to be a prophet against him. But just as Fir'aun's disbelief could be of no avail to him, and he got drowned along with his people, this objection of 'kuffar' of Makkah, too, will not save them from the divine punishment in this world, or in the Hereafter.
 
+## AI Translation
+
+Then they pleaded: "O mighty sorcerer! Pray to your Lord on our behalf, by virtue of the covenant He made with you. We will certainly accept guidance."
+
+## AI Tafsir
+
+**What this ayah teaches:** Invoke your Lord for us according to what He has made a pact with you. Invoke your Lord for us because of His promise to you.
+
+**Classical tafsir:** Ibn Kathir notes: Invoke your Lord for us because of His promise to you.
 ## Personal Reflections
 
 

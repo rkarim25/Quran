@@ -134,6 +134,15 @@ On the other hand there are good people who, following the teachings of Qur'an, 
 
 Allah Ta` ala has dispelled the mistaken notions of the infidels by saying that the transient material prosperity cannot be regarded as a token of His goodwill nor as a symbol of their own merit, because it often happens that foolish and undeserving people are loaded with wealth while wise and learned persons spend their lives in poverty.
 
+## AI Translation
+
+When Our clear revelations are recited, those who reject the truth ask the believers mockingly: "Which of us is better in status and superior in assembly?"
+
+## AI Tafsir
+
+**What this ayah teaches:** The those who reject the truth boast over Their good Fortune in the World Allah, the Exalted, informs that when the clear, evident Ayat of Allah are recited to the those who reject the truth, they reject them and turn away. However, it is a common experience that material wealth turns people's heads and makes them unduly proud and arrogant, so that even the sensible and wise among them are led to believe that their prosperit…
+
+**Classical tafsir:** Ibn Kathir notes: Thus, this means that their meeting rooms are full of more people who come to attend.
 ## Personal Reflections
 
 

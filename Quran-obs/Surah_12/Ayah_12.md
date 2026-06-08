@@ -68,6 +68,15 @@ Permissibility of a trip for pleasure
 
 In this verse, the permission sought from Sayyidna Ya` qub (علیہ السلام) is to go for an outing and have the freedom to enjoy eating and playing together. This was something Sayyidna Ya'qub (علیہ السلام) did not disallow at all. He only showed his reluctance in sending Sayyidna Yusuf JI with them, which will appear in the next verse. From here we find out that going out to enjoy and play is allowed under permissible limits. Authentic Ahadith too seem to indicate its justification. But, the condition is that in this activity of fun and games, there should be no transgression of the limits set by the Shari` ah, nor should it be mixed up with any act not permissible there. (Qurtubi others)
 
+## AI Translation
+
+Send him out with us tomorrow so that he may enjoy himself and play. And we will really watch over him.”
+
+## AI Tafsir
+
+**What this ayah teaches:** From here we find out that going out to enjoy and play is allowed under permissible limits.
+
+**Classical tafsir:** Ibn Kathir notes: Authentic Ahadith too seem to indicate its justification.
 ## Personal Reflections
 
 

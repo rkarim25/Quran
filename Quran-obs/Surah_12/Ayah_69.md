@@ -117,6 +117,17 @@ Some injunctions and rulings come out from verses 67 and 68. These are given bel
 
 8. A question arises here that Sayyidna Yusuf (علیہ السلام) made efforts to call his younger brother, even insisted on it. And when he came, he even disclosed his identity before him. But, he neither thought of calling his father, nor took any steps to inform him about his well-being while in Egypt. The reason for this is the same as described earlier. There is no doubt that he did have many opportunities during those forty years when he could have sent a message to his father about himself. But, whatever happened in this matter was Divine decree communicated through the medium of Wahy (revelation). Allah Ta’ ala would have not given him the permission to tell his father about himself - because he was yet to be tested once again through his separation from his son, Benyamin. It was to complete this Divine arrangement that all these situations were created.
 
+## AI Translation
+
+When they entered Joseph’s presence, he called his brother Benjamin aside, and confided to him, “I am indeed your brother Joseph! So do not feel distressed about what they have been doing.”
+
+## AI Tafsir
+
+**What this ayah teaches:** He comforted him and asked him not to worry about what their brothers have been doing until that time. Allah Ta’ ala would have not given him the permission to tell his father about himself - because he was yet to be tested once again through his separation from his son, Benyamin.
+
+**Classical tafsir:** Ibn Kathir notes: Allah Ta’ ala would have not given him the permission to tell his father about himself - because he was yet to be tested once again through his separation from his son, Benyamin.
+
+**From the Sunnah:** The ideal approach of a wise Muslim to whatever he does is that he must place his real trust in Allah Ta’ ala to begin with but, at the same time, he should not ignore physical and material means. (Sahih Muslim)
 ## Personal Reflections
 
 

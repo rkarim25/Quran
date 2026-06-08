@@ -143,6 +143,15 @@ There is yet another hint visible in this sentence which mentions grandsons alon
 
 After that, by saying: وَرَ‌زَقَكُم مِّنَ الطَّيِّبَاتِ (and gave you provision from good things), mention was made of things which guarantee personal survival. In other words, once a human child is born, food is needed for its personal survival. That too was provided by Allah Ta’ ala. The real meaning of the word: حَفَدَةً - (hafadah) in this verse is that of one who helps and serves. That this word has been used for children suggests that children should always be at the service of their father and mother. (Qurtubi)
 
+## AI Translation
+
+And Allah has made for you spouses of your own kind, and given you through your spouses children and grandchildren. And He has granted you good, lawful provisions. Are they then faithful to falsehood and ungrateful for Allah’s favours?
+
+## AI Tafsir
+
+**What this ayah teaches:** There is yet another hint visible in this sentence which mentions grandsons along with sons, that is, the real purpose behind creating spouses is the procreation and survival of human race so that they have children, then, their children have their children.
+
+**Classical tafsir:** Ibn Kathir notes: Given here, there may be another hint towards the fact that spouses belong to each other's genus and, as such, their needs and feelings are common to both, therefore, mutual consideration is but necessary for them.
 ## Personal Reflections
 
 

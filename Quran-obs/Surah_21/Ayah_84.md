@@ -133,6 +133,17 @@ Sayyidna Ibn Masud ؓ says that Sayyidna Ayyub (علیہ السلام) had seven
 
 Some scholars say that he was granted as many new children as he had before and the word مِثل (the like) refers to an equal number of grand children. (Only Allah knows best).
 
+## AI Translation
+
+So We answered his salah and removed his adversity, and gave him back his family, twice as many, as a mercy from Us and a lesson for the devoted worshippers.
+
+## AI Tafsir
+
+**What this ayah teaches:** His wife, Layya once asked him to pray to Allah for His Mercy as his sufferings had become unbearable, to which he replied that having enjoyed for seventy years the best of health surrounded by all the luxuries that money could buy, it would be unworthy of him to complain because a mere seven years has been spent in pain and poverty.
+
+**Classical tafsir:** Ibn Kathir notes: Because of this serious illness all his relatives, friends and neighbors avoided him and placed him near a garbage-dump outside the city.
+
+**From the Sunnah:** Ibn Abi Hatim recorded from Abu Hurayrah that the Prophet ﷺ said:
 ## Personal Reflections
 
 

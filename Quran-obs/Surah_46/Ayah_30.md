@@ -224,6 +224,17 @@ This Ayah has been used as evidence that the Jinns have warners from among thems
 
 كِتَابًا أُنزِلَ مِن بَعْدِ مُوسَىٰ (a book sent down after Musa). Here the words 'after Musa (علیہ السلام) have been taken by some exegetes to indicate that these jinns were Jews, because Injil that was revealed to Sayyidna 'Isa (علیہ السلام) after Sayyidna Musa (علیہ السلام) ، has not been mentioned. But there is no clear narration to support this inference. That they did not refer to Injil cannot be a sufficient proof for the jinns being Jews. Another reason for not mentioning Injil may be that Injil follows Torah in most commandments, and the Qur'an, like Torah, is an independent Book, having different commands, rules and regulations. It is likely that the underlying idea was to state that the Qur'an is the Book which is independent like Torah.
 
+## AI Translation
+
+They said: Our people, we have heard a Book revealed after Moses, confirming what came before it. It guides to the truth and to the Straight Path.
+
+## AI Tafsir
+
+**Context:** And (remember) when We sent toward you a group of the Jinn, to listen to the Qur'an. When they attended it, they said: "Listen quietly!" And when it was concluded, they returned to their people, as warners (29)They said:…
+
+**What this ayah teaches:** Verily, we have heard a Book sent down after Musa, confirming what came before it, it guides to the truth and to the straight path. Because of this, many of the Jinns took heed and came to Allah's Messenger ﷺ in successive delegations; and verily, Allah is worthy of all praise and gratitude, and Allah knows best.
+
+**Classical tafsir:** Ibn Kathir notes: Because of this, many of the Jinns took heed and came to Allah's Messenger ﷺ in successive delegations; and verily, Allah is worthy of all praise and gratitude, and Allah knows best.
 ## Personal Reflections
 
 

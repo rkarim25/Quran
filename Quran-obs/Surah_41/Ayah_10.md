@@ -273,6 +273,17 @@ And some exegetes Ibn Zayd, etc., have linked the words ` for those who ask' wit
 
 Ibn Kathir has quoted this explanation and said that it is like the statement of the Qur'an وَآتَاكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ (And He gave you whatever you asked for. - 14:34) ` you asked for' in this verse means ` you were in need of' even though it has not been asked literally, because Allah Almighty has bestowed those things even to those who did not ask for them.
 
+## AI Translation
+
+He placed firm mountains on it, showered His blessings upon it, and ordained all its means of sustenance—totaling four Days exactly—for all who ask.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah says that He created the earth first, because it is the foundation, and the foundation should be built first, then the roof.
+
+**Classical tafsir:** Ibn Kathir notes: - 14:34) ` you asked for' in this verse means ` you were in need of' even though it has not been asked literally, because Allah Almighty has bestowed those things even to those who did not ask for them.
+
+**From the Sunnah:** This was the response of Ibn 'Abbas, may Allah be pleased with him, as recorded by Al-Bukhari in his Tafsir of this Ayah in his Sahih. (Sahih al-Bukhari)
 ## Personal Reflections
 
 

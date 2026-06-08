@@ -122,6 +122,15 @@ A person who performs Salah openly, then, does it well; and when performs it in 
 
 All praises are for Allah from the beginning to the end.
 
+## AI Translation
+
+To Allah belongs the kingdom of the heavens and the earth and everything within. And He is Most Capable of everything.
+
+## AI Tafsir
+
+**What this ayah teaches:** That is the great success (119)To Allah belongs the dominion of the heavens and the earth and all that is therein, and He is able to do all things .
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, everything and everyone are in His domain and under His power and will.
 ## Personal Reflections
 
 

@@ -196,6 +196,17 @@ The meaning of Ihsan احسان
 
 "We may add that 'sincerity' and 'wholeheartedness' are a very weak rendering in English of the essential quality of the text's Muhsinun محسنون (rendered here as "those who are good in deeds" ). This word comes from Ihsan احسان which signifies "doing a thing beautifully - that is, in the manner that is proper to it." Beside this lexical meaning, Ihsan احسان has a technical meaning which has been defined in a famous Hadith: تعبداللہ کانک تراہ ، فالم تکن تراہ فانہُ یراک : "Offer your prayers as if you can see Him, and if you do not see Him, He is seeing you (in any case)." (Bayan al-Qur'an)
 
+## AI Translation
+
+And when We said, "Enter this town and eat freely wherever you wish. Enter the gate humbly, saying 'Remove our burdens,' and We will forgive your sins and increase reward for the doers of good."
+
+## AI Tafsir
+
+**What this ayah teaches:** the plague) is a Rijz, a punishment with which some nations who were before you were punished.) The basis of this Hadith was also collected in the Two Sahihs.
+
+**Classical tafsir:** Ibn Kathir notes: Khasif said that 'Ikrimah said that Ibn 'Abbas said, "The door mentioned here was facing the Qiblah." Ibn 'Abbas, Mujahid, As-Suddi, Qatadah and Ad-Dahhak said that the door is the door of Hittah in Iylya', which is Jerusalem. Khasif said that 'Ikrimah said that Ibn 'Abbas said that the Children of Israel entered the door sideways.
+
+**From the Sunnah:** The correct opinion about the meaning of, 'the holy land' mentioned here is that it was Bayt Al-Maqdis (Jerusalem), as As-Suddi, Ar-Rabi' bin Anas, Qatadah and Abu Muslim Al-Asfahani, as well as others have stated.
 ## Personal Reflections
 
 

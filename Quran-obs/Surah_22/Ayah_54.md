@@ -197,6 +197,17 @@ Commentary
 
 أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ (The Shaitan cast (doubts) about what he recited - 22:52) In this verse the word تَمَنَّىٰ has been used as a synonym for قَرَأَ thus أُمْنِيَّتِهِ would mean قِرَأت (recitation). This verse explains that the disputes raised by the disbelievers in regard to Allah's message is not something new as similar doubts were raised by earlier people as well when their prophets presented to them the message of Truth, and the Shaitan cast doubts about it in the hearts of disbelievers. This explanation of the verse is quite clear and straight-forward, and has been adopted by many commentators including Abu Hayyan in his Bahr-ul-Muhit. However, some books of traditions have reported here an incident which is not proved by authentic sources. The incident is known as حَدِیث الٖغرانیق (hadith-ulgharaniq). Some scholars have held that it is invented by some heretics and enemies of Islam. But even those who believe this tradition to be worthwhile have taken pains to remove the doubts, which the words raise about the categorical and undisputed laws of Qur'an and Sunnah. The plain and simple meaning of the verse has been explained above and the alleged incident in no way affects this meaning. Making this incident as a part and parcel of the commentary on this verse, thereby creating unnecessary doubts, and then attempting to answer those doubts is an exercise in futility and absolutely undesirable وَاللہُ سبحانَہُ و تعالیٰ اَعلَم .
 
+## AI Translation
+
+This is also so that those gifted with knowledge would know that this revelation is the truth from your Rabb, so they have iman in it, and so their hearts would submit humbly to it. And Allah surely guides the mu'mins to the Sirat al-Mustaqim — the way of living that pleases Allah.
+
+## AI Tafsir
+
+**Context:** (And that those who have been given knowledge may know that it is the truth from your Lord, so that they may believe therein,) means, 'so that those who have been given beneficial knowledge with which they may differenti…
+
+**What this ayah teaches:** And Allah is All-Knower, All-Wise (52)That He (Allah) may make what is thrown in by Shaytan a trial for those in whose hearts is a disease and whose hearts are hardened.
+
+**Classical tafsir:** Ibn Kathir notes: This verse explains that the disputes raised by the those who reject the truth in regard to Allah's message is not something new as similar doubts were raised by earlier people as well when their prophets presented to them the message of Truth, and the Shaitan cast doubts about it in the heart…
 ## Personal Reflections
 
 

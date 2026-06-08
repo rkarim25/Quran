@@ -613,6 +613,19 @@ Observe the limits of Allah
 
 Towards the end of the verse, by saying تِلْكَ حُدُودُ اللَّـهِ فَلَا تَقْرَ‌بُوهَا ('These are the limits set by Allah, so do not go near them' ), it has been hinted that the forbiddance of eating, drinking and marital intimacy while fasting are the limits set by Allah. One should not even go near them because, if you go near them, you may cross those limits. This is why overindulgence in gargling while fasting is makruh مکروہ (reprehensible) as it holds the danger of water slipping into the throat; also makruh مکروہ is the use of some medicine inside the mouth; again, equally makruh مکروہ is the kissing and hugging of one's wife. Similarly, it is better to stop eating and drinking a couple of minutes ahead of the time allowed for sahri or suhur just as a matter of precaution, and also, delaying the if-tar a couple of minutes. Becoming heedless and ease-prone in these matters is against this command from Allah.
 
+## AI Translation
+
+It is permitted for you to be intimate with your wives on the nights of fasting. They are a garment for you and you for them. Allah knew you were deceiving yourselves, so He accepted your repentance and pardoned you. Now be intimate with them and seek what Allah ordained for you. Eat and drink until the white thread of dawn is distinct from the black thread of night, then complete the fast until nightfall. Do not be intimate with them while you are in retreat in the mosques. These are Allah's limits — do not cross them. Thus Allah makes His signs clear, so you may live with taqwa.
+
+## AI Tafsir
+
+**Context:** Abu Ishaq reported that Al-Bara' bin 'Azib said, "When the Companions of Allah's Messenger ﷺ observed fast but would sleep before breaking their fast, they would continue fasting until the following night.
+
+**What this ayah teaches:** We also mentioned the fast's objectives, what is permitted during it, and what is required of it.
+
+**Classical tafsir:** Ibn Kathir notes: When she returned she found her husband asleep, obviously because he was so tired from his day-long work.
+
+**From the Sunnah:** These Ayat contain a relief from Allah for the Muslims by ending the practice that was observed in the early years of Islam. Did you sleep' In the middle of the next day, he lost consciousness and mentioned what had happened to the Prophet ﷺ.
 ## Personal Reflections
 
 

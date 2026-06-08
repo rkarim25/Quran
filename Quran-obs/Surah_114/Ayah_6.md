@@ -230,6 +230,17 @@ Surah An-Nas
 
 Ends he
 
+## AI Translation
+
+From among jinn and mankind—reminding you that harm is not only supernatural; people, too, can whisper corruption into a community, a family, or a soul.
+
+## AI Tafsir
+
+**What this ayah teaches:** A subtle difference between the two Surahs of Mu'awwadhatain In the present Surah, rabb [ Lord ], malik [ King ] and ilah [ Allah ], three Divine attributes have been invoked, while the evil from which protection is sought is only one, that is, the whispering.
+
+**Classical tafsir:** Ibn Kathir notes: In sum: This Tradition indicates that Shaitanic pranks are highly dangerous.
+
+**From the Sunnah:** It is also confirmed in the Two Sahihs from Anas, who reported the story of Safiyyah when she came to visit the Prophet ﷺ while he was performing I'tikaf, that he went out with her during the night to walk her back to her house. protection against the mischief of sneaking devils, whether from amongst the Jinn or from amongst human devils.
 ## Personal Reflections
 
 

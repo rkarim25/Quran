@@ -213,6 +213,15 @@ As for the sentence: كَتَبَ عَلَىٰ نَفْسِهِ الرَّ‌ح�
 
 The sentence which appears at the end of the verse: الَّذِينَ خَسِرُ‌وا أَنفُسَهُمْ (Those who have brought loss to themselves ... ) indicates that the deprivation of the disbelievers from the universal mercy of Allah Almighty mentioned earlier was caused by their own deeds, for they did not take to the way which brings mercy - that is, the way of belief and faith. (Qurtubi)
 
+## AI Translation
+
+Ask, “To whom belongs everything in the heavens and the earth?” Say, “To Allah!” He has taken upon Himself to be Merciful. He will certainly gather you together for the Day of Judgment—about which there is no doubt. But those who have ruined themselves will never believe.
+
+## AI Tafsir
+
+**What this ayah teaches:** Say: "To whom belongs all that is in the heavens and the earth?" Say: "To Allah." He has prescribed mercy for Himself.
+
+**Classical tafsir:** Ibn Kathir notes: ) indicates that the deprivation of the those who reject the truth from the universal mercy of Allah Almighty mentioned earlier was caused by their own deeds, for they did not take to the way which brings mercy - that is, the way of belief and faith.
 ## Personal Reflections
 
 

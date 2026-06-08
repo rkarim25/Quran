@@ -126,6 +126,15 @@ Some reciters read the Ayah as,
 
 سَرِیّاً The literal meaning of the word سَرِی appearing in verse 24 is a small canal. Allah Ta’ ala caused a small stream to flow at the moment either by his direct command or through Sayyidna Jibra'il (علیہ السلام) . There are reports supporting both these probabilities. It is worth noting here that while describing the means to bring consolation to Sayyidah Maryam (علیہا السلام) water was mentioned first and then date as something to eat
 
+## AI Translation
+
+A voice reassured her from below: "Do not grieve. Your Rabb has provided a stream at your feet.
+
+## AI Tafsir
+
+**What this ayah teaches:** And if you see any human being, say: 'Verily, I have vowed a fast for the ar-Rahman so I shall not speak to any human being today., .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

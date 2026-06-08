@@ -160,6 +160,17 @@ The assertion أَنَا آتِيكَ بِهِ قَبْلَ أَن يَرْ‌ت
 
 This explanation is taken from the commentary ` Ahkam ul Qur'an' by Sayyidi Hakimul Ummah Maulana Ashraf ` Ali Thanawi (رح) ، on Surah An-Naml. Apart from that, he has also written a pamphlet on Tasarruf in Arabic under the title ` At-Tasarruf, which I have translated in Urdu and has been published separately.
 
+## AI Translation
+
+But she had been hindered by what she used to worship instead of Allah, for she was indeed from a rejecting the truth people.
+
+## AI Tafsir
+
+**What this ayah teaches:** What is meant here is that Sulayman built a huge, lofty palace of glass for this queen, in order to show her the greatness of his authority and power.
+
+**Classical tafsir:** Ibn Kathir notes: The Test of Bilqis When Sulayman brought the throne of Bilqis before she and her people arrived, he issued orders that some of its features should be altered, so that he could test her and see whether she recognized it and how composed she would be when she saw it.
+
+**From the Sunnah:** In the general use of the term, Tasarruf means to captivate the audience by the power of sight and mind, for which it is not necessary for the person performing it that he is a prophet or saint or even a Muslim. (Sahih Muslim)
 ## Personal Reflections
 
 

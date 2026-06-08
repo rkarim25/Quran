@@ -167,6 +167,15 @@ So, the comforts and discomforts of this mortal life are not rewards and punishm
 
 At the end of verse 42 itself, this element of wisdom finds expression through the words: لَعَلَّهُمْ يَتَضَرَّ‌عُونَ (so that they may supplicate in humility). It means that the hardship inflicted on them during their life in the present world was really not aimed at punishing them. Since everyone turns to Allah naturally when in distress, the purpose was to make people turn to Allah through a little hardship. This tells us that the hardship or pain which visits a person or group as punishment is, in a sense, the working of Divine mercy.
 
+## AI Translation
+
+Why did they not humble themselves when We made them suffer? Instead, their hearts were hardened, and Satan made their misdeeds appealing to them.
+
+## AI Tafsir
+
+**What this ayah teaches:** But their hearts became hardened, and Shaytan made fair-seeming to them that which they used to do (43)So, when they forgot (the warning) with which they had been reminded, We opened to them the gates of every (pleasant) thing, until in the midst of their enjoyment in that which they were given, all of a sudden, We took them to punishment, and lo!
+
+**Classical tafsir:** Ibn Kathir notes: And We seized them with extreme poverty and loss of health so that they might believe with humility (42)When Our torment reached them, why then did they not believe with humility?
 ## Personal Reflections
 
 

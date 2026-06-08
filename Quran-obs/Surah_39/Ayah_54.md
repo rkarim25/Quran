@@ -234,6 +234,17 @@ Therefore, the outcome of the subject taken up in the verse comes to be that, we
 
 Sayyidna ` Abdullah Ibn ` Umar ؓ said that, out of all verses of the Qur'an, this verse brings the strongest message of hope for sinners. But, Sayyidna Ibn ` Abbas ؓ said that the strongest such verse is: إِنَّ رَ‌بَّكَ لَذُو مَغْفِرَ‌ةٍ لِّلنَّاسِ عَلَىٰ ظُلْمِهِمْ (And surely, your Lord is the lord of forgiveness for the people against their wrongdoings - Ar-Ra'd, 13:6)
 
+## AI Translation
+
+Turn to your Lord in repentance, and fully submit to Him before the punishment reaches you—for then you will not be helped.
+
+## AI Tafsir
+
+**What this ayah teaches:** Additionally, one must not despair of the mercy of Allah even if his sins are many and great, for the door of repentance and mercy is expansive.
+
+**Classical tafsir:** Ibn Kathir notes: Or he should say when he sees the torment: "If only I had another chance, then I should indeed be among the doers of good.") means, he will wish that he could go back to this world, so that he could do righteous deeds.
+
+**From the Sunnah:** some of the people of Shirk killed many people and committed Zina (illegal sexual acts) to a great extent; they came to Muhammad ﷺ and said, "What you are saying and calling us to is good; if only you could tell us that there is an expiation for what we have d… (Sahih al-Bukhari) Despair not of the mercy of Allah.) This was also recorded by Muslim, Abu Dawud and An-Nasa'i. (Sahih Muslim, Sunan Abi Dawud)
 ## Personal Reflections
 
 

@@ -214,6 +214,19 @@ Commentary
 
 Ibn Mundhir (رح) etc., have reproduced a narration according to which this verse was revealed about a slave-girl of Sayyidna ` Umar Ibn Khattab ؓ named Zunairah who had embraced Islam when he was still a disbeliever. She used to be beaten up and threatened by him, so that she might give up Islam somehow or the other, and the kuffar of Quraish used to say that had Islamic faith been a good thing, such a worthless woman as Zunairah would not have preceded us in embracing it. (Mazhari)
 
+## AI Translation
+
+Those who reject the truth say of the mu'min: If this path were truly good, they would not have reached it before us. Since they refuse its guidance, they dismiss it as ancient myth.
+
+## AI Tafsir
+
+**Context:** (from Allah, and you disbelieved in it?) meaning, 'what do you think that Allah will do to you if this Book that I have come to you with is actually revealed to me from Him in order that I convey it to you, and yet you d…
+
+**What this ayah teaches:** She used to be beaten up and threatened by him, so that she might give up Islam somehow or the other, and the kuffar of Quraish used to say that had Islamic faith been a good thing, such a worthless woman as Zunairah would not have preceded us in embracing it.
+
+**Classical tafsir:** Ibn Kathir notes: The pagans said this only because they thought that they held a high status with Allah, and that He took special care of them.
+
+**From the Sunnah:** Paradise, abiding therein (forever) – a reward for what they used to do . This has been recorded in the Two Sahihs and An-Nasa'i. (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

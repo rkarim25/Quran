@@ -122,6 +122,15 @@ Significant Inferences
 
 Readily noticeable here is the repetition of لِّلَّـهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْ‌ضِ which means that everything created in the heavens and the earth belongs to Allah. Repeated thrice, these words signify three shades of meaning. In the first place, the aim is to point out to the limitless scope of Allah's power of creation which lacks nothing. In the second instance, the objective is to focus on Allah's attribute of self sufficiency, self-adequacy and His being need-free. It means: Should one disbelieve, deny or reject the good counsel given, He is in no need of anyone's obedience for He stands ever-praised in His pristine glory.
 
+## AI Translation
+
+To Allah belongs whatever is in the heavens and whatever is on the earth. And Allah is sufficient as a Trustee of Affairs.
+
+## AI Tafsir
+
+**What this ayah teaches:** And to Allah belongs all that is in the heavens and all that is in the earth.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, if you ask Allah for both, He will enrich you, award you and suffice for you.
 ## Personal Reflections
 
 

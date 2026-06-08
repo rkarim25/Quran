@@ -100,6 +100,15 @@ The story of Sayyidna 'Adam (علیہ السلام) and Iblis mentioned in the p
 
 Detailed comments have been given in the Tafsir of that Surah. If needed, please see Ma‘ariful-Quran, English Translation, Volume I, Pages 170-187.
 
+## AI Translation
+
+Allah said, “Descend as enemies to each other. You will find in the earth a residence and provision for your appointed stay.”
+
+## AI Tafsir
+
+**What this ayah teaches:** On earth will be a dwelling place for you and an enjoyment for a time. Some scholars mentioned the location on earth they were sent down, but these accounts are taken from the Israelite tales, and only Allah knows if they are true.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

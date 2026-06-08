@@ -72,6 +72,15 @@ Allah tells us what the end of the disbelievers will be on the Day of Resurrecti
 
 In verse 60, it was said: أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَن لَّا تَعْبُدُوا الشَّيْطَانَ (Did I not direct you, 0 children of 'Adam, that you must not worship the Shaitan, (because) he is an open enemy for you,- 36:60). In other words, this would be said on the day of Qiyamah to all human beings, (even to the Jinn). But, the question remains that the disbelievers did not generally worship the Shaitan. They worshipped idols or other things. Therefore, how does this blame fall on them? The answer is that submitting before some entity in the absolute sense and to obey that entity in word and deed in everything and under all conditions is nothing but worship. Since these people always followed Shaitanic teachings, therefore, they were called the worshipers of the Shaitan - as said in Hadith that a person who, driven by love for money or spouse, starts doing everything that would increase wealth or please the spouse, even at the cost of the displeasure of Allah, is an obedient servant of the silver coin and the obedient servant of the spouse (Abd-ud-dirham, Abd-uz-zawjah).
 
+## AI Translation
+
+but to worship Me alone? This is the Straight Path.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, he is a plain enemy to you.) This is a rebuke from Allah to the those who reject the truth among the sons of Adam, those who obey the Shaytan even though he was a plain enemy to them, and they disobeyed Ar-Rahman Who created them and granted them provision.
+
+**Classical tafsir:** Ibn Kathir notes: In other words, this would be said on the day of Qiyamah to all human beings, (even to the Jinn).
 ## Personal Reflections
 
 

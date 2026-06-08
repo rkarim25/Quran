@@ -169,6 +169,17 @@ These are the last verses of Surah At-Taubah where it has been declared that the
 
 That this theme appears at the end of Surah At-Taubah happens to be very appropriate. It will be recalled that this Surah has been full of references to the declaration of withdrawal from the disbelievers, the ultimate severance of relationship with them and then fighting in Jihad against them. This is, however, the last resort of the Call to Allah subject to the condition that the initial steps of Da'wah (call) and Tabligh (communication of the Message) leave no hope of correction and betterment. But, the basic function of the prophets is to invite people to the way of Allah with love, affection, sympathy and an earnest de-sire for their well-being; if they have to face aversion from the people or have to suffer some hardships, they are supposed to leave it to Allah and place their trust in Him, for He is the Lord of the Great Throne. By saying the Rabb رَبّ or Lord of the Great ` Arsh, the purpose is to lay stress on the fact that He encompasses the entire creation.
 
+## AI Translation
+
+There certainly has come to you a messenger from among yourselves. He is concerned by your suffering, anxious for your well-being, and gracious and merciful to those who have iman.
+
+## AI Tafsir
+
+**What this ayah teaches:** There is no Allah but He, in Him I put my trust and He is the Lord of the Mighty Throne.
+
+**Classical tafsir:** Ibn Kathir notes: The Advent of the Prophet (ﷺ) is a Great Bounty from Allah Allah reminds the believers that He has sent to them a Messenger from among themselves, from their kind, speaking their language.
+
+**From the Sunnah:** These are the last verses of Surah At-Taubah where it has been declared that the Holy Prophet ﷺ is very kind and merciful for the entire creation of Allah, particularly so for Muslims.
 ## Personal Reflections
 
 

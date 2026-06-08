@@ -382,6 +382,17 @@ The third sentence of the first verse (29) says: وَلَا تَقْتُلُوا
 
 Verse 29 closes with the statement: إِنَّ اللَّـهَ كَانَ بِكُمْ رَ‌حِيمًا ، which means that the injunctions given in this verse -- 'do not eat up each other's property by false means' or 'do not kill anyone unjustly' -- are injunctions that come to you as Divine Mercy, so that you can take your guard against falling into these misdeeds and thereby become liable to punishment in the life to come, and also that you may stay safe from punishments which could afflict you right here in the present life.
 
+## AI Translation
+
+O you who have iman! Do not devour one another’s wealth illegally, but rather trade by mutual consent. And do not kill yourselves. Surely Allah is ever Merciful to you.
+
+## AI Tafsir
+
+**What this ayah teaches:** However, there is no harm in commercial transactions that transpire between the buyer and the seller with mutual consent, so that money is legally earned from these transactions.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, the transactions of gambling, speculation and usury or the transactions of sale where the commodity does not exist are forbidden and are not valid in Shari’ ah, because these transactions cannot be termed as trade, even though they are effected in the name of trade.
+
+**From the Sunnah:** Eat not up your property among yourselves unjustly) some Muslims said, 'Allah has forbidden us from eating up each other's property unjustly, and food is our best property. to me, 'Do you know what the day of Al-Jumu'ah is? (Musnad Ahmad)
 ## Personal Reflections
 
 

@@ -115,6 +115,19 @@ In verse 92, swearing by His Own sacred Being, Allah Ta’ ala has declared that
 
 The Sahabah ؓ asked the Holy Prophet ﷺ as to what it will be about. He said that it will be about saying: لا إله إلا اللہ (la ilaha illallah: there is no god worthy of worship but Allah). Al-Qurtubi, after reporting this narration in his Tafsir, has said: It means the fulfilling of this pledge practically as signified by the Kalimah Tayyibah: La ilaha illallah. A simple verbal statement is not what is desired here because, as for verbal attestation, that was done by the hypocrites (munafiqin) too. Hazrat al-Hasan al-Basri (رح) said: 'Iman (faith) does not become a living reality by taking on a particular style and form, and Din (religion) does not prosper by simply having the best of wishes for it. 'Iman is the name of that certitude which has been poured into the heart and which has been proved true by deeds. This is well illustrated by a Hadith from Sayyidna Zayd ibn Arqam in which the Holy Prophet ﷺ has been reported to have said: A person who says: لا إله إلا اللہ (la ilaha illallah : there is no god worthy of worship but Allah) with ikhlas (totally unalloyed sincerity) will definitely go to Jannah. People asked: Ya Rasul Allah, how is 'ikhlas' related to this Kalimah? He said: When this Kalimah stops a person from what has been prohibited by Allah as unlawful and impermissible, then, it is with 'ikhlas' (with sincerity in the absolute sense). (Qurtubi)
 
+## AI Translation
+
+a warning similar to what We sent to those who divided the Scriptures,.
+
+## AI Tafsir
+
+**Context:** (Who have made the Qur'an into parts.) meaning, they have split up the Books that were revealed to them, believing in parts of them and rejecting parts of them.
+
+**What this ayah teaches:** A simple verbal statement is not what is desired here because, as for verbal attestation, that was done by the hypocrites (munafiqin) too. 'Iman is the name of that certitude which has been poured into the heart and which has been proved true by deeds.
+
+**Classical tafsir:** Ibn Kathir notes: Commentary Surah Al-Fatihah is the Text and Summary of the Whole Qur'an That Surah Al-Fatihah (The Opening) has been called the Glorious Qur’ an in this verse (87) indicates that Surah Al-Fatihah is, in a way, the whole Qur’ an - because the basic principles of Islam have been me…
+
+**From the Sunnah:** In the two Sahihs it is reported from Abu Musa that the Prophet ﷺ said:
 ## Personal Reflections
 
 

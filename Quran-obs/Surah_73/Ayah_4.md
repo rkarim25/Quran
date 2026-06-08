@@ -273,6 +273,19 @@ Sayyidna ` Alqamah ؓ saw a person reciting with a beautiful voice and he exclai
 
 In short, tartil basically signifies that the letters and the words must be pronounced clearly and distinctly that will help understanding the Qur'an, and paying due care to its meaning. Hasan al-Basri (رح) reports that Allah's Messenger ﷺ passed by a person who was reciting a verse of the Qur'an and weeping. He said to the people, 'Have you heard of the command of Allah' وَرَ‌تِّلِ الْقُرْ‌آنَ تَرْ‌تِيلًا '...and recite the Qur'an clearly with tartil (in a distinct and measured tone). [ 73:4] '? This is tartil which this person is doing. [ Qurtubi ]
 
+## AI Translation
+
+or a little more—and recite the Qur'an in a measured, deliberate way.
+
+## AI Tafsir
+
+**Context:** (Stand (to pray) all night, except a little. Half of it or less than that, a little.)(73:2-3) "This became difficult on the believers.
+
+**What this ayah teaches:** Half of it or less than that, a little.)(4. The point is that Nashi'ah of the night refers to its hours and its times, every hour of it is called Nashi'ah, so it refers to the periods of time.
+
+**Classical tafsir:** Ibn Kathir notes: Lord of the east and the west; La ilaha illa Huwa, so take Him as a trustee.) The Command to stand at Night (in Prayer) Allah commands His Messenger ﷺ to cease being wrapped up, and this means to be covered during the night.
+
+**From the Sunnah:** Thus, the Prophet ﷺ did as Allah ordered him, by standing for prayer at night.
 ## Personal Reflections
 
 

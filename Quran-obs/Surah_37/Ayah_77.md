@@ -92,6 +92,15 @@ A third group of commentators says that as for the Great Flood, it was worldwide
 
 Given the context of the Qur'an, this third view is very weak, while the first view is the best for the reason that it is supported by some ahadith as well which Imam Tirmidhi and others have reported directly from the Holy Prophet under the Tafsir of this verse. In a narration from Sayyidna Samurah Ibn Jundub 4, the Holy Prophet t has been reported to have said: "Sam is the father of the people of Arabia; Ham is the father of the people of Ethiopia, and Yafith, that of the people of Byzantine." Imam Tirmidhi calls this Hadith as Hasan, while Imam Hakim rates it as Sahih (Ruh-ul-Ma’ ani, p. 98, v.23).
 
+## AI Translation
+
+and made his descendants the sole survivors.
+
+## AI Tafsir
+
+**What this ayah teaches:** He stayed among them for one thousand years less fifty, and after he stayed among them for so long and their disbelief became too much for him to bear – for every time he called them, they turned away from him even more – he prayed to his Lord saying, "I have been overcome, so help (me)!" So Allah became angry because Nuh was angry with them.
+
+**Classical tafsir:** Ibn Kathir notes: He stayed among them for one thousand years less fifty, and after he stayed among them for so long and their disbelief became too much for him to bear – for every time he called them, they turned away from him even more – he prayed to his Lord saying, "I have been overcome, so he…
 ## Personal Reflections
 
 

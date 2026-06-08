@@ -224,6 +224,15 @@ The hint embedded in this verse also tells us that as long as the things of use 
 
 Once the Arabs tapered down their use of camels for riding and transport purposes, the usual increase in the populations of their camels has also gone down. Incidentally, what has been said here also helps remove that atheistic doubt usually dished out with reference to the Islamic injunctions of sacrifice saying that it is likely to affect the economy of Muslims adversely.
 
+## AI Translation
+
+When Our clear ayahs are recited to them, they say, "This is only a man trying to stop you from what your forefathers worshipped." They also say, "This Quran is nothing but a fabricated lie." And when the truth comes to them, they call it pure magic.
+
+## AI Tafsir
+
+**Context:** (And We had not given them Scriptures that they could study, nor sent to them before you any warner) meaning, Allah did not reveal any Book to the Arabs before the Qur'an, and He did not send any Prophet to them before M…
+
+**What this ayah teaches:** They used to wish for that and say, 'if only a warner comes to us or a Book is revealed to us, we would be more guided than others,' but when Allah blessed them with that, they disbelieved him and stubbornly rejected him.
 ## Personal Reflections
 
 

@@ -173,6 +173,15 @@ He also said to his father and his people,
 
 The Holy Prophet ﷺ has been asked to say to the unbelievers that your false gods are nothing but slaves like you, and being devoid of essential faculties of moving, seeing, hearing and speaking cannot help themselves, far from coming to your help in your need. If you are not sure, then "Call them and they should respond to you," and "Call to your associate-gods, then plot against me and allow me no respite."
 
+## AI Translation
+
+Those you invoke besides Allah are created beings like yourselves. So call upon them and see if they will answer you, if your claims are true!
+
+## AI Tafsir
+
+**What this ayah teaches:** It is the same for you whether you call them or you keep silent (193)Verily, those whom you call upon besides Allah are servants like you. Therefore, the result is the same, whether calling the idols or shunning them.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, if an object is this weak, how can it be worshipped and invoked for provisions and aid?
 ## Personal Reflections
 
 

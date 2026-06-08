@@ -259,6 +259,15 @@ Concerning Allah's statement,
 
 Having described the horrors of Resurrection, and the accountability of deeds, Allah swears an oath by a few stars to confirms that the Qur'an is the truth that has been sent down, fully protected from any interruption or distortion, and that the Prophet ﷺ who has received it is a great personality, and the angel (Jibra'il علیہ السلام) who descended with it was known to him before hand. Therefore, there can be no room for any doubt about its veracity. The verses here swear an oath by five stars which the ancient Greeks called khamsah mutahayyirah or 'the five wandering stars', since they seemed to stray irregularly across the sky. At times they are seen moving from East to West, and at others, from West to East. Different reasons have been assigned to their irregular movements. The ancient Greeks hold several contradictory explanations for this. The research of modern scientists concurs with some of the ancient philosophers, and differs from some others. The Creator alone knows the truth and reality. The scientists merely guess and conjecture which may be wrong. The Qur'an has, therefore, not involved its readers in such a useless debate. Allah showed us what was beneficial, that is, to observe the Divine Omnipotence, His Consummate Wisdom and to repose our faith in Him.
 
+## AI Translation
+
+each soul will know what it brought along.
+
+## AI Tafsir
+
+**What this ayah teaches:** What is intended is that the 'Ishar is a type of camel.
+
+**Classical tafsir:** Ibn Kathir notes: We have neglected nothing in the Book, then unto their Lord they shall be gathered.)(6:38) Ibn 'Abbas said, "Everything will be gathered, even the flies." This statement was recorded by Ibn Abi Hatim.
 ## Personal Reflections
 
 

@@ -209,6 +209,17 @@ In this verse, by saying: نُورً‌ا يَمْشِي بِهِ فِي الن�
 
 In this similitude, there is yet another hint that light is after all universally beneficial. Every human being and every animal benefits by it, intentionally, or without intention, more or less. Let us suppose that a person who has the light but does not wish to let the other person benefit from it, nor the other person has come out to seek the benefit of his light, but the very fact that someone is walking with light by his side is bound to spread out its benefit to others naturally, rather compulsively. This is what happens with the 'Iman of a true Muslim. It does make its benefit shower on others too, in some degree, whether or not the receivers realize it. At the end of the verse, it was said: كَذَٰلِكَ زُيِّنَ لِلْكَافِرِ‌ينَ مَا كَانُوا يَعْمَلُونَ (This is how their deeds appear beautified to the disbelievers). It means that the disbelievers and deniers of truth who do not accept proofs which are open and clear do so because everyone has a craze of his own which keeps him pleased with himself. There is the ever-present Sahytan, and no less is the retinue of one's desires, whims and fancies which present before the eyes of such people a mosaic of their evil deeds which they start seeing as nice and beautiful. Calling it a deception is an understatement. May Allah keep all of us protected from it.
 
+## AI Translation
+
+Can those who had been dead, to whom We gave life and a light with which they can walk among people, be compared to those in complete darkness from which they can never emerge? That is how the misdeeds of those who reject the truth have been made appealing to them.
+
+## AI Tafsir
+
+**What this ayah teaches:** The light mentioned here is the Qur'an, according to Ibn 'Abbas, as Al-'Awfi and Ibn Abi Talhah reported from him.
+
+**Classical tafsir:** Ibn Kathir notes: As-Suddi said that the light mentioned here is Islam. It means that the those who reject the truth and deniers of truth who do not accept proofs which are open and clear do so because everyone has a craze of his own which keeps him pleased with himself.
+
+**From the Sunnah:** In Musnad Ahmad, it is recorded that the Prophet ﷺ said; It means that one who was dead earlier, that is, was a those who reject the truth, then, Allah raised him back to life, that is, gave him the taufiq to become a Muslim - and then, He gave him a light, that is, ` Iman or faith, with which he moves about among people. (Sahih Muslim)
 ## Personal Reflections
 
 

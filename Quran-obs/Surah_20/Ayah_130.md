@@ -182,6 +182,15 @@ Everyone in this world, whether he is big or small, good or bad, has enemies and
 
 وَسَبِّحْ بِحَمْدِ رَ‌بِّكَ (And proclaim the purity and praise of your Lord - 20:130) Here the direction of proclaiming Allah's purity is followed by the direction of proclaiming His praise. It implies an indication that when a person is given taufiq to remember Allah by performing dhikr or any other form of worship, it should not make him proud of it. Instead, he should praise Allah, because without His taufiq (facilitation) he could not perform that worship. Then, proclaiming the purity and praise of Allah may mean invocation of Allah and His praise, and they may also mean the prescribed prayers. The subsequent fixed times which have been mentioned obviously refer to prayer timings. Thus قَبْلَ طُلُوعِ الشَّمْسِ (before the sunrise) means early morning (fajr) prayer وَقَبْلَ غُرُ‌وبِهَا (before it sets) means midday prayers (zhur) and afternoon prayers (` asr) while وَمِنْ آنَاءِ اللَّيْلِ (and in some hours of night) means all prayers after sunset i.e. maghrib, ` isha' and tahajjud. The words أَطْرَ‌افَ النَّهَارِ‌ (the edges of the day) are intended to put additional emphasis on Fajr and Maghrib prayers.
 
+## AI Translation
+
+So bear with sabr — steadfast endurance that keeps you upright — over what they say, and glorify the praise of your Rabb before sunrise and before sunset, and during parts of the night, and at the ends of the day, so you may be content.
+
+## AI Tafsir
+
+**What this ayah teaches:** And had it not been for a Word that went forth before from your Lord, and a term determined, (their punishment) must necessarily have come (in this world)(128)So bear patiently what they say, and glorify the praises of your Lord before the rising of the sun, and before its setting, and during some hours of the night, and at the ends of the day, that you may become pleased with the reward which All…
+
+**Classical tafsir:** Ibn Kathir notes: Therefore everybody has to be on his guard to protect himself from the hostile designs of his enemies.
 ## Personal Reflections
 
 

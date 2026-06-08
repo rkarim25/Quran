@@ -143,6 +143,19 @@ It is certainly an astonishing fact that, in our time, the number of books on Ar
 So, it was in this manner that the language of the Holy Prophet ﷺ and the Book he was given, despite being Arabic, overtook the whole world. At least, for all practical purposes of Dawah (Call) and Tabligh (Spreading of the Message), the difference of Arab and non-Arab was eliminated. In every country and community, and among peoples speaking non-Arab languages, rose such ` Ulama who communicated to their own people the teachings of Quran and Sunnah through their indigenous languages, easily and effectively. Thus, the wisdom of sending a messenger speaking the language of the addressed people stood realized and proved.
 Toward the end of the verse it was said that it is for the convenience of people that Allah Ta’ ala has sent His messengers speaking their language, so that they can explain His injunctions to them clearly and satisfactorily. But, it is still beyond human control to bring someone onto the right path. The truth is that it lies in the power of Allah Ta’ ala alone. Whom He wills He lets go astray and whom He wills He would give guidance. He is Mighty, and Wise.
 
+## AI Translation
+
+We never sent a messenger except in the language of his people, to clarify for them. Then Allah leaves whomever He wills to stray and guides whomever He wills. He is the Almighty, All-Wise.
+
+## AI Tafsir
+
+**Context:** Commentary Mentioned in the first sentence of this verse is the particular blessing and convenience granted by Allah Ta’ ala that whenever He has sent a messenger to a people, He has sent him speaking their language, in…
+
+**What this ayah teaches:** The Distinctions of Arabic First of all, the Arabic language is the official language of the heavens.
+
+**Classical tafsir:** Ibn Kathir notes: Given their spiritual status, other Scriptures too are the Word of Allah, but none of the other Scriptures made such a claim, perhaps because they were not in their original form in Arabic but were its translation.
+
+**From the Sunnah:** Muhammad bin 'Abdullah, Allah's Messenger, peace and blessings be upon him, was sent to all people. Paradise which is the real home of human beings and to where they have to return - and its language is also Arabic. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
 
 

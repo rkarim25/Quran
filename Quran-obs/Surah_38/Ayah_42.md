@@ -113,6 +113,17 @@ The nature of the ailment of Sayyidna Ayyub (علیہ السلام)
 
 The Qur'an tells us only this much that Sayyidna Ayyub (علیہ السلام) was afflicted with a serious disease, but nothing was said about the nature of this disease. Even in Ahadith, no details about it have been reported from the Holy Prophet ﷺ . Nevertheless, from some reports attributed to the Sahabah, it appears that blisters had erupted all over his body, and people had put him off on a dirt-heap out of nausea. But, some discerning commentators have refused to accept these attributed reports as correct. They say that diseases can afflict the blessed prophets, but they are not made to suffer from such diseases as would make people nauseated with it. Hence, this sort of disease cannot be attributed to Sayyidna Ayyub (علیہ السلام) . Instead, they say, it was some common disease. Therefore, reports in which blisters have been attributed to Sayyidna Ayyub (علیہ السلام) or in which it has been said that he was put off on a dirt-heap are not trustworthy, neither in terms of the authenticity of the report, nor rationally (abridged from Ruh-ul-Ma’ ani and Ahkam-ul-Qur’ an).
 
+## AI Translation
+
+We said: "Strike the ground with your foot—here is cool water for washing and drinking."
+
+## AI Tafsir
+
+**Context:** (Allah's Prophet Ayyub, peace be upon him, suffered for eighteen years from his affliction and was shunned by relatives and strangers alike, besides two men who were the closest of his brothers to him.
+
+**What this ayah teaches:** This is (a spring of) water to wash in, cool and a drink.
+
+**Classical tafsir:** Ibn Kathir notes: Then he had nothing left in this world which he could use to help him deal with his sickness or the predicament he was in, besides his wife, who retained her devotion to him because of her faith in Allah and His Messenger.
 ## Personal Reflections
 
 

@@ -164,6 +164,17 @@ Ibrahim Nakha (رح) has stated that former virtuous elders did not like that Mu
 
 Maulana Ashraf ` Ali Thanawi (رح) ، has, however, explained the issue in Bayan-ul-Qur'an from a little different angle. He says that Allah Ta’ ala has mentioned two qualities particular to the true, sincere and virtuous Muslims in both the verses. The verse emphasizing on forgiveness tells us that they are not overcome by anger, rather kindness and generosity remains dominant in their temperament because of which they forgive the ones who commit excess against them. And in the verse that refers to revenge, we are told that it is a particular quality of these virtuous people that if at any time their heart is inclined to take revenge of an injustice and they do so, they do not exceed the equitable limit, although to forgive is always better for them.
 
+## AI Translation
+
+And whoever Allah leaves to stray will have no guide after Him. You will see the wrongdoers, when they face the torment, pleading, "Is there any way back to the world?"
+
+## AI Tafsir
+
+**What this ayah teaches:** And whomsoever Allah sends astray, for him there is no protector after Him.
+
+**Classical tafsir:** Ibn Kathir notes: And in the verse that refers to revenge, we are told that it is a particular quality of these virtuous people that if at any time their heart is inclined to take revenge of an injustice and they do so, they do not exceed the equitable limit, although to forgive is always better f…
+
+**From the Sunnah:** He says that Allah Ta’ ala has mentioned two qualities particular to the true, sincere and virtuous Muslims in both the verses.
 ## Personal Reflections
 
 

@@ -164,6 +164,19 @@ The delegation returned and posed those three questions before the Holy Prophet 
 
 Investigative observations on the reality of Ruh (soul, spirit) and Nafs (self) have appeared earlier in this volume under verse 29 of Sarah al-Hijr: نَفَخْتُ فِيهِ مِن رُّ‌وحِي (I have blown into him of my spirit - 15:29). Presented with reference to Tafsir Mazhari, it makes the kinds of Ruh along with the reality of each sufficiently clear.
 
+## AI Translation
+
+They ask you O Prophet about the spirit. Say, “Its nature is known only to my Rabb, and you O humanity have been given but little knowledge.”
+
+## AI Tafsir
+
+**Context:** (And they ask you concerning the Ruh (the spirit). Say: "The Ruh (the spirit) is one of the things, the knowledge of which is only with my Lord...") This context would seem to imply that this Ayah was revealed in Al-Madi…
+
+**What this ayah teaches:** Say: "The Ruh (the spirit) is one of the things, the knowledge of which is only with my Lord...") This context would seem to imply that this Ayah was revealed in Al-Madinah, and that it was revealed when the Jews asked him this question in Al-Madinah, although the entire Surah was revealed in Makkah.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, many learned scholars from the early and later period of Islam have written standard books about Ruh.
+
+**From the Sunnah:** The Prophet ﷺ kept quiet and did not give them an answer, and I knew that he was receiving revelation, so I stayed where I was.
 ## Personal Reflections
 
 

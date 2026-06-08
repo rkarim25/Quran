@@ -143,6 +143,15 @@ It is obvious that the person alluded to here is no other but the Holy Prophet �
 
 The word: مُزِّقْتُمْ (when you are totally torn into pieces) is a derivation from: مزقِ (mazq) which means splitting apart and rendering to pieces, and: كُلَّ مُمَزَّقٍ (kulla mumazzaq: (totally torn) means the disintegration of the human body in a manner that all its particles get dispersed separately. Onwards from here, they take up another mode to comment on his statement relating to the Qiyamah.
 
+## AI Translation
+
+Those who reject the truth mock one another: "Shall we show you a man who claims that after you have been utterly scattered as dust you will be raised as a new creation?"
+
+## AI Tafsir
+
+**What this ayah teaches:** This means that in looking at the creation of the heavens and the earth, there is a sign for every servant who is intelligent and wise and who turns towards Allah.
+
+**Classical tafsir:** Ibn Kathir notes: This means that in looking at the creation of the heavens and the earth, there is a sign for every servant who is intelligent and wise and who turns towards Allah.
 ## Personal Reflections
 
 

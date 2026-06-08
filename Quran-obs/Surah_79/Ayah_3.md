@@ -170,6 +170,15 @@ The third quality of the angels:
 
 وَالسَّابِحَاتِ سَبْحًا (and by those who float [ in the atmosphere ] swiftly... 79:3). The word sabh literally means to 'swim' or 'float'. Here it signifies 'to glide along swiftly as in the sea where there is no mountain barrier'. The one who swims fast and goes far in swimming or a boatman who moves directly towards his final destination. The 'angels who float swiftly' refer to the quality of the angels of death who extract human souls and take them quickly towards the sky.
 
+## AI Translation
+
+and those gliding swiftly through the heavens,
+
+## AI Tafsir
+
+**What this ayah teaches:** Here it signifies 'to glide along swiftly as in the sea where there is no mountain barrier'.
+
+**Classical tafsir:** Ibn Kathir notes: The word sabh literally means to 'swim' or 'float'.
 ## Personal Reflections
 
 

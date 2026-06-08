@@ -131,6 +131,17 @@ Ruling
 
 Firstly, these two verses (23, 24) tell us that saying Insha'Allah in the given situation is mustahabb (recommended). Secondly, they tell us that, should this part of the statement be left unsaid inadvertently, then, one may say it at the time one remembers. This injunction relates to the particular matter for which these verses have been revealed. It means that the purpose is simply to say this word to invoke Divine blessing and to confess to one's servitude and not to make the statement contingent or conditional. Therefore, it does not follow from here that one would do the same in buying and selling transactions and contracts where conditions are imposed and on this rests the contract between parties. Is it possible to impose a condition whenever one remembers later in case one had for-gotten to include the condition at the time of signing the original contract? The difference of some jurists exists in this issue details of which appear in books of Fiqh.
 
+## AI Translation
+
+without adding, “if Allah so wills!” But if you forget, then remember your Rabb, and say, “I trust my Rabb will guide me to what is more right than this.”
+
+## AI Tafsir
+
+**Context:** At the beginning of this Surah we discussed the reason why this Ayah was revealed: when the Prophet was asked about the story of the people of the Cave, he said, "I will tell you tomorrow." Then the revelation was delaye…
+
+**What this ayah teaches:** Al-A'mash was asked, "Did you hear this from Mujahid?" He said, "Layth bin Abi Salim told it to me." The meaning of Ibn 'Abbas' view, that a person may say "If Allah wills", even if it is a year later, is that if he forgets to say it when he makes the oath or when he speaks, and he remembers it later, even a year later, the Sunnah is that he should say it, so that he will still…
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, it does not follow from here that one would do the same in buying and selling transactions and contracts where conditions are imposed and on this rests the contract between parties.
 ## Personal Reflections
 
 

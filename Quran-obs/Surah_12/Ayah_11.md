@@ -80,6 +80,15 @@ Appearing in the fifth (111) and sixth (112) verse is the request of these broth
 
 The tone of the very request made by the brothers of Sayyidna Yusuf (علیہ السلام) indicates that they had already made such a request earlier too which was not accepted by their father. Therefore, in the present request, they seem to have tried to assure their father with added effort and insistence.
 
+## AI Translation
+
+They said, “O our father! Why do you not trust us with Joseph, although we truly wish him well?
+
+## AI Tafsir
+
+**What this ayah teaches:** Appearing in the fifth (111) and sixth (112) verse is the request of these brothers before their father in which they wondered why he would not trust them with Yusuf, although they wished him fully well. Why do you not trust us with Yusuf though we are indeed his well-wishers?
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, in the present request, they seem to have tried to assure their father with added effort and insistence.
 ## Personal Reflections
 
 

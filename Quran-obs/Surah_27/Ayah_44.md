@@ -221,6 +221,15 @@ Did Sayyidna Sulaiman (علیہ السلام) marry Bilqis?
 
 The story of Bilqis has ended in the above verses on the statement that she converted to Islam after coming to Sayyidna Sulaiman ۔ (علیہ السلام) What happened after that? The Qur'an is silent on this. It is for this reason that when someone asked ` Abdullah ibn ` Uyaynah whether Sayyidna Sulaiman (علیہ السلام) had married Bilqis, he answered that her case has finished on this أَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّـهِ رَ‌بِّ الْعَالَمِينَ (I submit, along with Sulaiman (علیہ السلام) ، to Allah, the Lord of the worlds - 44). The idea behind this answer was that when Qur'an has not divulged anything after that, it is not for us to probe any further. But Ibn ` Asakir has reported on the authority of Sayyidna ` Ikrimah ؓ that Sayyidna Sulaiman (علیہ السلام) had married Bilqis after that, and she was retained as the sovereign of her country. She was then sent back to Yemen, and Sayyidna Sulaiman (علیہ السلام) used to visit her every month for three days. He got three palaces made for her in Yemen, which had no parallel of their kind. (Only God knows best)
 
+## AI Translation
+
+Then she was told, “Enter the palace.” But when she saw the hall, she thought it was a body of water, so she bared her legs. Solomon said. “It is just a palace paved with crystal.” At last she declared, “My Rabb! I have certainly wronged my soul. Now I fully submit myself along with Solomon to Allah, the Rabb of all worlds.”
+
+## AI Tafsir
+
+**What this ayah teaches:** The Test of Bilqis When Sulayman brought the throne of Bilqis before she and her people arrived, he issued orders that some of its features should be altered, so that he could test her and see whether she recognized it and how composed she would be when she saw it. She did not hasten to say that this was her throne, because it was far away from her.
+
+**Classical tafsir:** Ibn Kathir notes: The Test of Bilqis When Sulayman brought the throne of Bilqis before she and her people arrived, he issued orders that some of its features should be altered, so that he could test her and see whether she recognized it and how composed she would be when she saw it.
 ## Personal Reflections
 
 

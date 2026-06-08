@@ -136,6 +136,17 @@ As for the good news in this world, the Holy Prophet ﷺ said, `(they are) the t
 
 Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. About it, the Holy Prophet ﷺ said: تِلکَ عَاجِلُ بشرَی المؤمِن that is, ` being taken as good and praiseworthy is, for a true Muslim, good news in ready cash.' (Muslim and al-Baghawi)
 
+## AI Translation
+
+Then after him We sent other messengers to their own people and they came to them with clear proofs. But they would not believe in what they had rejected before. This is how We seal the hearts of the transgressors.
+
+## AI Tafsir
+
+**What this ayah teaches:** They brought them clear proofs, but they would not believe what they had already rejected beforehand. If the people before them who rejected their Messengers had received this much punishment, then what did they think will happen to them since they perpetrated even greater sins than others before them?
+
+**Classical tafsir:** Ibn Kathir notes: This means that Allah destroyed the nations after Nuh.
+
+**From the Sunnah:** Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. (Sahih Muslim)
 ## Personal Reflections
 
 

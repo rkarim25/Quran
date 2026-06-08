@@ -115,6 +115,15 @@ The angels will enter on them from every direction congratulating them for enter
 
 After that, the text states the additional honour they shall have in their 'ultimate abode' of the Hereafter when the angels emerge from each of its doors greeting them with Salam and telling them that their Sabr brings to them eternal security from all hardships and that they can themselves see how good is the ultimate abode of the 'Akhirah.
 
+## AI Translation
+
+"Peace be upon you for your sabr. How excellent is the final home!"
+
+## AI Tafsir
+
+**What this ayah teaches:** Excellent indeed is the final home!
+
+**Classical tafsir:** Ibn Kathir notes: One of them would die while his need is still in his chest, because he was unable to satisfy it himself.
 ## Personal Reflections
 
 

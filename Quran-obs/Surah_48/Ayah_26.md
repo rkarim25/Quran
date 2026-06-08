@@ -399,6 +399,17 @@ Imam Ahmad recorded that 'Abdullah bin 'Abbas said, "On the day of Hudaybiyyah, 
 
 لَّقَدْ صَدَقَ اللَّـهُ رَ‌سُولَهُ الرُّ‌ؤْيَا بِالْحَقِّ (and made them stick to the word of piety, and they were very much entitled to it, and competent for it - 48:26) ". The construction kalimat-at-taqwa connotes the word of the pious persons, that is, the Kalimah of Tauhid and Risalah whereby a person declares his faith in Allah's Oneness and in the Messenger-ship of Sayyidna Muhammad ﷺ . It is named here as 'word of piety' because this word is the foundation of piety, righteousness and right conduct. The noble Companions ؓ here are said to have better right to it and more worthy of it, and thus Allah exposed and unmasked those people who accused them of infidelity and hypocrisy. Allah asserts that the noble Companions ؓ are more worthy of the word of Islam and better entitled to it, and thus made them adhere to it firmly, whereas the wretched evil-minded people refuse to acknowledge their value and entitlement.
 
+## AI Translation
+
+When those who rejected the truth filled their hearts with the arrogance of pre-Islamic ignorance, Allah sent down His tranquillity upon His Messenger and the believers, and bound them to the declaration of tawhid—they were more entitled to it and worthier of it. Allah has perfect knowledge of everything.
+
+## AI Tafsir
+
+**What this ayah teaches:** Erase it and write instead: "These are the peace terms agreed to by Muhammad bin 'Abdullah.") By Allah, Allah's Messenger ﷺ is better than 'Ali, and the Messenger ﷺ erased his title.
+
+**Classical tafsir:** Ibn Kathir notes: The those who reject the truth sent two men in pursuit who said to the Prophet ﷺ, 'Abide by the promise you gave us.' So, the Prophet ﷺ handed him over to them.
+
+**From the Sunnah:** "Abu Bakr, may Allah be pleased with him, said, "O, Allah's Messenger! By Allah, Khalid did not perceive the arrival of the Muslims until the dust arising from the march of the Muslim army reached him, then he turned back hurriedly to inform the Quraysh. (Sahih Muslim)
 ## Personal Reflections
 
 

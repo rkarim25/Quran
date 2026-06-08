@@ -138,6 +138,17 @@ Surah Al-Ma’ un
 
 Ends here
 
+## AI Translation
+
+yet are heedless in it—bodies present, minds elsewhere, treating prayer like a badge rather than standing before Allah;
+
+## AI Tafsir
+
+**What this ayah teaches:** Al-Mas'udi narrated from Salamah bin Kuhayl who reported from Abu Al-'Ubaydin that he asked Ibn Mas'ud about Al-Ma'un and he said, "It is what the people give to each other, like an axe, a pot, a bucket and similar items." This is the end of the Tafsir of Surat Al-Ma'un, and all praise and thanks are due to Allah.
+
+**Classical tafsir:** Ibn Kathir notes: This may either be referring to its act entirely, as Ibn 'Abbas said, or it may be referring to performing it in its stipulated time that has been legislated Islamically. Have you seen the one who denies the Din'?' Here the word Din means the Hereafter, the Recompense and the Final Reward.
+
+**From the Sunnah:** This does not refer to the unintentional errors, slips and mistakes that Muslims make in their prayers.
 ## Personal Reflections
 
 

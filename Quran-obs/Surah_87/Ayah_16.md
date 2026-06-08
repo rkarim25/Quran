@@ -140,6 +140,17 @@ This is the end of the Tafsir of Surat Al-A'la (Sabbih). All praise and blessing
 
 Let us consider the following scenario: It is said to a person that there are two houses in front of him, one of which is a magnificent mansion, fully furnished and another an ordinary, substandard house, not properly furnished. He has the choice to take the mansion, but only for a month or two. Thereafter, he will have to vacate the mansion. Or he may take the underdeveloped house that he will own permanently. Which of the two houses a wise person will prefer? The answer is obvious that he will prefer the second option. On this analogy, one should prefer the blessings of the Hereafter even if, for argument's sake, they are substandard, because they are permanent and eternal. But the fact is that they are not only permanent, but also much better and far more superior to the worldly comforts. In this situation only an unfortunate fool will prefer the blessings of this life to the bounties of the Hereafter.
 
+## AI Translation
+
+But you prefer the life of this dunya,
+
+## AI Tafsir
+
+**Context:** meaning, he purifies himself from despised characteristics and he follows what Allah has revealed to the Messenger ﷺ.
+
+**What this ayah teaches:** Thus, how can an intelligent person prefer that which is short-lived over that which is eternal.
+
+**Classical tafsir:** Ibn Kathir notes: Indeed whosoever purifies himself shall achieve success (14)And remembers the Name of his Lord, and performs Salah (15)Rather you prefer the life of this world (16)Although the Hereafter is better and more lasting (17)Verily, this is in the former Scripture (18)The Scriptures of…
 ## Personal Reflections
 
 

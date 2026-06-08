@@ -126,6 +126,17 @@ When people start worshipping the present and elect to remain drunk with the sta
 
 A perfect believer, in fact, a perfect human being is one who is able to perceive the hidden Power behind every change, revolution, sorrow and comfort, ignore their transitory phases, dismiss their material causes as the sole explanation. The mark of an intelligent person is that he looks at the originator or causer of causes more than he would look at causes, and it is with Him alone that he would relate to as firmly as possible.
 
+## AI Translation
+
+But if We give them a taste of prosperity after being touched with adversity, they say, “My ills are gone,” and become totally prideful and boastful,.
+
+## AI Tafsir
+
+**What this ayah teaches:** And if We give man a taste of mercy from Us, and then withdraw it from him, verily, he is despairing, ungrateful (9)But if We let him taste good (favor) after evil (poverty and harm) has touched him, he is sure to say: "Ills have departed from me." Surely, he is exultant and boastful (ungrateful to Allah)(10)Except those who show patience and do righteous good deeds: those, the…
+
+**Classical tafsir:** Ibn Kathir notes: Allah explains that when any hardship befalls man, after he has experienced blessings, he is disheartened and he despairs of any good in the future.
+
+**From the Sunnah:** At the beginning, in the first three verses (9-11), an instinctively bad human habit has been mentioned with an instruction to Muslims that they should stay away from it.
 ## Personal Reflections
 
 

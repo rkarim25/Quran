@@ -88,6 +88,15 @@ and subjected them to a terrible rain. So evil was the rain of those who were wa
 
 This verse has confirmed that if a man commits sodomy, he may be punished with throwing a wall on him or by throwing him down from a high place, as suggested by Hanafi scholars, because the people of Lut (علیہ السلام) were destroyed in a similar manner. Their township was lifted and thrown on the ground. (Shami Kitab Al-Hudud)
 
+## AI Translation
+
+Surely in this is a sign. Yet most of them would not believe.
+
+## AI Tafsir
+
+**What this ayah teaches:** Lut's Denunciation of His People's Deeds, Their Response and Their Punishment The Prophet of Allah forbade them from committing evil deeds and intercourse with males, and he taught them that they should have intercourse with their wives whom Allah had created for them.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

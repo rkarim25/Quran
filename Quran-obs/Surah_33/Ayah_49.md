@@ -180,6 +180,17 @@ The third injunction is: (سَرِّ‌حُوهُنَّ سَرَ‌احًا جَ
 
 Only that person can honor the rights of the opponents during confrontation who can control his emotions and passions. All the teachings of Islam have laid due emphasis on this principle.
 
+## AI Translation
+
+O mu'mins! If you marry believing women and then divorce them before you touch them, they will have no waiting period for you to count, so give them a suitable compensation, and let them go graciously.
+
+## AI Tafsir
+
+**What this ayah teaches:** Let us look at the matter of divorce which obviously is a result of mutual discord, anger and disharmony which usually results in the relationship which was established on the basis of extreme concord, love and affection changing to the opposite i.e.
+
+**Classical tafsir:** Ibn Kathir notes: It also indicates that it is permissible to divorce a woman before consummating the marriage with her.
+
+**From the Sunnah:** "This is a Hasan Hadith, and it is the best thing that has been narrated on this matter." It was also recorded by Ibn Majah from 'Ali and Al-Miswar bin Makhramah, may Allah be pleased with them, that the Messenger of Allah ﷺ said: (Jami' at-Tirmidhi, Sunan Abi Dawud) But before that, a general rule regarding divorce has been mentioned as a prologue which is applicable to all Muslims in general.
 ## Personal Reflections
 
 

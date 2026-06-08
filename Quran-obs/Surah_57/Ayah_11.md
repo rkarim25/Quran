@@ -290,6 +290,17 @@ Ibn Taimiyyah confirms, in Sharh-ul-` Aqidah Al-Wasitiyyah, the consensual belie
 
 A detailed account of the status of the sahabah is given in Surah Al-Fath under verse [ 29]. I have written a book entitled maqam-e-sahabah in which I have collected relevant Qur'anic verses and Prophetic Traditions pertaining to the status of the Companions. This book has already been published. The Ummah is unanimous on the point that all the blessed Companions ؓ are impartial, unbiased, reliable and worthy of confidence. The book deals elaborately with their disagreements and the civil wars that took place among them. It deals with the status of the historical narratives and their true place in critical study. Some of these issues to the degree necessary have been included in the commentary of Surah Muhammad and Surah Al-Fath. Please refer to the relevant sections there. Allah's help is sought and on Him is our reliance!
 
+## AI Translation
+
+Who will lend Allah a good loan, so He may multiply it for them and they will have a generous reward?
+
+## AI Tafsir
+
+**What this ayah teaches:** And such of you as believe and spend, theirs will be a great reward (7)And what is the matter with you that you believe not in Allah!
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, O mankind, spend as Allah commanded you from the wealth that He entrusted to you for His obedience.
+
+**From the Sunnah:** And we have reported the Hadith through different routes in the beginning of the explanation on the chapter on Faith in Sahih Al-Bukhari, wherein one day the Messenger of Allah ﷺ said to his Companions, (Sahih al-Bukhari) Before Makkah was conquered, things were difficult for Muslims and only the righteous ones embraced Islam.
 ## Personal Reflections
 
 

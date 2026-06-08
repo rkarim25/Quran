@@ -288,6 +288,17 @@ This is no occasion to go into details of the issue and proofs thereof. Venerabl
 
 In brief, the generality of the command to attend Salat-ul-Jumu’ ah is restricted to a specific sector of the addressees. It is not obligatory on every member of the Muslim community, but for it to be compulsory, there are some conditions and pre-requisites. The disagreement exists only in identifying the pre-requisites. But where the pre-requisites apply and Salat-ul-Jumu’ ah becomes obligatory according to any school of thought, it is very important to observe it, and there is grave warnings for those who neglect it without any vaid reason in terms of Shari’ ah. On the other hand, there is a promise of great reward and blessings for those who offer in fulfilling all its conditions and pre-requisites.
 
+## AI Translation
+
+O believers: when the call to prayer is made on Friday, proceed diligently to the remembrance of Allah and leave off your trade. That is better for you, if only you knew.
+
+## AI Tafsir
+
+**What this ayah teaches:** When the Imam appears, the angels present themselves to listen to Allah's remembrance.) It is recommended that one cleans his body, performs Ghusl, wears his best clothes, applies perfume and uses Siwak (tooth stick) for Jumu'ah.
+
+**Classical tafsir:** Ibn Kathir notes: The verse under comment indicates that the bar on the activities of buying and selling after the adhan of Jumu’ ah needs to be implemented for particular purposes in such a way that the shops are closed at that particular time, so that all trading activities automatically come to…
+
+**From the Sunnah:** he heard Allah's Messenger ﷺ say, (Musnad Ahmad) This Hadith has various chains of narration, the compilers of the Four Sunan collected it, and At-Tirmidhi graded it Hasan. (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

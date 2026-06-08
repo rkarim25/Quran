@@ -266,6 +266,17 @@ The answer is given by this very verse where it is said that the شُھَدا sh
 
 There are no easy answers to questions such as - what is that distinct status and what is the nature of that life? The only answer is that its reality remains unknown to all except to the Creator of the universe; nobody has the power to know what is it - nor is there, for that matter, any need to know. Nevertheless, there are times when the effect of their special life does show up on their bodies buried in this world, that is, the earth they rest in does not eat them up but leaves them good and intact (Qurtubi). There have been many incidents where this phenomena has been physically witnessed.
 
+## AI Translation
+
+Never think of those martyred in the cause of Allah as dead. In fact, they are alive with their Rabb, well provided for— rejoicing in Allah’s bounties and being delighted for those yet to join them. There will be no fear for them, nor will they grieve.
+
+## AI Tafsir
+
+**Context:** Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud. (They rejoice in what Allah has bestowed upon them) indicates that the martyrs who were killed in Allah's cause are alive with…
+
+**What this ayah teaches:** He said, 'Ask Me and I will give you.' He said, 'I ask that I am returned to life so that I am killed in Your cause again.' The Lord, Exalted He be, said, 'I have spoken the word that they shall not be returned back to it (this life).
+
+**Classical tafsir:** Ibn Kathir notes: Nay, they are alive, with their Lord, and they have provision.) Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud.
 ## Personal Reflections
 
 

@@ -275,6 +275,19 @@ This is the reason why it was the usual practice of the Holy Prophet ﷺ that he
 
 After that, the Holy Prophet ﷺ has been specially commanded to proclaim - a common practice of all past prophets (علیہم السلام) - in the words which follow: قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرً‌ا ۖ إِنْ هُوَ إِلَّا ذِكْرَ‌ىٰ لِلْعَالَمِينَ (Say: "I ask you no reward for it. It is nothing but an advice for all the worlds). In other words, it means: I am not asking you to pay for the good counsel I am offering to help you better your life. I need no fees or wages or rewards. If you accept it, I gain nothing. If you do not accept it, I lose nothing. This is only a message, a message for people all over, a message of good counsel, good will. Not accepting any return for teaching and preaching has been the common legacy of all prophets (علیہم السلام) . This is a powerful factor which goes on to make Tabligh (conveying the message of religion to others) effective.
 
+## AI Translation
+
+These were guided by Allah, so follow their guidance. Say, “I ask no reward of you for these verses—it is a reminder to the whole world.”
+
+## AI Tafsir
+
+**Context:** (And indeed it has been revealed to you, as it was to those (Allah's Messengers) before you: "If you join others in worship with Allah, surely your deeds will be in vain.")[39:65]
+
+**What this ayah teaches:** Thus, the guidance given in this verse is bi-polar.
+
+**Classical tafsir:** Ibn Kathir notes: Certainly, one becomes jubilant and joyous when he becomes a grandfather, because this means that his offspring will continue to exist.
+
+**From the Sunnah:** While mentioning this Ayah, Al-Bukhari recorded that Mujahid asked Ibn 'Abbas, "Is there an instance where prostration is warranted in [Surah] 'Şād'?" Ibn 'Abbas said, "Yes." He then recited, (Sahih al-Bukhari) The first element is addressed to the people of Arabia, and to the whole Muslim Ummah by implication, that is, they should forsake the superstition of following forefathers and take to following prophets guided by Al
 ## Personal Reflections
 
 

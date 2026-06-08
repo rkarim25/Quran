@@ -146,6 +146,17 @@ The wilderness was just a barren space without a tree or a building which could 
 
 Allah had commanded the Israelites to take as much of the miraculous food as they really needed, and not to store it for future use. But when they disobeyed this commandment, the meat began to rot. This is how they harmed, not Allah, but themselves.
 
+## AI Translation
+
+And We shaded you with clouds and sent down manna and quails: "Eat from the good things We provided." They did not wrong Us — they wronged themselves.
+
+## AI Tafsir
+
+**What this ayah teaches:** When manna is mixed with water, it becomes a sweet drink.
+
+**Classical tafsir:** Ibn Kathir notes: As for the quail (Salwa) in question, 'Ali bin Abi Talhah reported that Ibn 'Abbas said, "The (Salwa) is a bird that looks like the quail." This is the same opinion reported from Mujahid, Ash-Sha'bi, Ad-Dahhak, Al-Hasan, 'Ikrimah and Ar-Rabi' bin Anas, may Allah have mercy upon them. Also, 'Ikrimah said that the Salwa is a bird in Paradise about the size of a sparrow.
+
+**From the Sunnah:** The group of Hadith compilers, with the exception of Abu Dawud, also collected it, and At-Tirmidhi graded it Hasan Sahih. (Musnad Ahmad, Jami' at-Tirmidhi) Paradise and it cures poison, Al-Kam'ah (truffles) is a form of manna, and its liquid heals the eye. (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

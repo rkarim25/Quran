@@ -209,6 +209,19 @@ Therefore, they will receive the same punishment that is prescribed for a sin or
 
 Nevertheless, it is not at all necessary that in the current verse, Walid Ibn 'Uqbah ؓ is categorically referred to as fasiq. Despite the fact that the verse is supposed to have been revealed in his incident, it does not mean that the word 'fasiq' is used for him, because before this incident, Walid Ibn 'Uqbah had not done any such thing on account of which he could be referred to as fasiq. An analysis of the incident of Banul-Mustaliq indicates that he conveyed an incorrect information about that tribe which, acting in good faith, he thought was true whereas in reality it was not. Therefore, the plain import of the current verse would be that it simply establishes the general rule that the news conveyed by a fasiq would be unacceptable. However, it may be emphasized that Walid Ibn 'Uqbah was not a fasiq, but his information, because of strong external context, did not seem acceptable. As a result, the Holy Prophet ﷺ refrained from taking any measures merely on his information, and sent Khalid Ibn Walid for proper investigation. If this is the case of the news conveyed by a bona fide reliable and righteous person, then with the stronger reason a fasiq's news should be rejected and should not be acted upon. The truthfulness of the Companions ؓ is discussed fully by this author in his book "The Status of the Companions" which is already published in Urdu. It will partly be discussed under forthcoming verses 9-10.
 
+## AI Translation
+
+O you who have iman: If someone untrustworthy brings you news, verify it first, so you do not harm people in ignorance and then regret what you did.
+
+## AI Tafsir
+
+**Context:** (And Allah is Forgiving, ar-Rahim.) It was reported that this Ayah was revealed about Al-Aqra' bin Habis At-Tamimi, may Allah be pleased with him, according to more than one source.
+
+**What this ayah teaches:** Wait until the news or information is confirmed by other independent sources.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, according to majority of scholars a statement or evidence of an ungodly person, in terms of Shari'ah, is not acceptable.
+
+**From the Sunnah:** Allah the Exalted and Most Blessed admonished those, such as the uncivilized bedouins, who used to call to the Prophet ﷺ from behind the dwellings which belong to his wives, And know that among you there is the Messenger of Allah.) 'know that among you is the Messenger of Allah ﷺ.
 ## Personal Reflections
 
 

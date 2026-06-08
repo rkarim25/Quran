@@ -141,6 +141,19 @@ Another point worth noting is that when the Qur'an commanded ` Say, [ 0 Muhammad
 
 Some of the scholars maintain that the rule of forgiving the infidels applied only before the revelation of the verse of jihad. When jihad was ordained, the rule of forgiveness, in terms of the current verse, was abrogated. However, most research scholars express the view that this verse has nothing to do with the verse of jihad. The current verse sets down the general social law that the Muslims should not wreak vengeance for every little thing. This law is universally applicable in every age and situation - the social law is needed even at the present time, and therefore it is not accurate to treat it as abrogated - especially if we were to take into account the circumstances under which it was revealed: the battle of Bani-l-Mustaliq. If this battle is the cause of revelation of this verse, then verses of jihad cannot be the abrogators, because they were revealed before this event.
 
+## AI Translation
+
+Tell the believers to forgive those who do not fear Allah's days of reckoning, so that He may reward each group for what they used to do.
+
+## AI Tafsir
+
+**Context:** قُل لِّلَّذِينَ آمَنُوا يَغْفِرُ‌وا لِلَّذِينَ لَا يَرْ‌جُونَ أَيَّامَ اللَّـهِ ("Tell those who believe that they should forgive those who do not believe in Allah's days ...14) ".
+
+**What this ayah teaches:** The word ayyam (days) in the Arabic language is abundantly used in the sense of ` turn of events'.
+
+**Classical tafsir:** Ibn Kathir notes: In the beginning of Islam, Muslims were ordered to observe patience in the face of the oppression of the idolators and the People of the Scriptures so that their hearts may incline towards Islam.
+
+**From the Sunnah:** Then, when harm touches you unto Him you cry aloud for help.)(16:53) Ibn Jarir recorded that Al-'Awfi reported that Ibn 'Abbas said about Allah's statement, In the beginning of Islam, Muslims were ordered to observe patience in the face of the oppression of the idolators and the People of the Scriptures so that their…
 ## Personal Reflections
 
 

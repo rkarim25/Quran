@@ -260,6 +260,17 @@ This was a view of the outward blessings which, of course, are not the ultimate 
 
 As far as the merits of Hajj are concerned, Muslims generally know the Hadith which declares that a Muslim who performs his Hajj obligations correctly is so cleansed of his past sins as if he was born on that day, all pure and pristine. Obviously, all these are spiritual blessings of the بیت اللہ Baytullah. These very blessings have been identified bythe word ھدی towards the end of the verse: مُبَارَ‌كًا وَهُدًى لِّلْعَالَمِينَ (having blessings and guidance for all worlds).
 
+## AI Translation
+
+Surely the first House established for humanity is the one at Bakkah—a blessed sanctuary and a guide for people.
+
+## AI Tafsir
+
+**What this ayah teaches:** It does not matter whether you say that the letter 'mim' has been substituted for 'ba since, in common Arab usage, 'mim' is substituted for 'ba', or simply say that 'Bakkah' is an alternate name for 'Makkah'.
+
+**Classical tafsir:** Ibn Kathir notes: The word, 'mubarak' has been derived from 'barakah' which means 'to grow' and 'to sustain'.
+
+**From the Sunnah:** It is not allowed for anyone to hunt in the Haram or to drive game out of its den to be hunted, or cut the trees in its vicinity, or pick its grass, as the Hadiths of the Prophet ﷺ and the statements of the Companions testify. (Sahih Muslim) Al-'Abbas said, 'Except the lemon grass, O Allah's Messenger, as they use it in their houses and graves.' The Prophet ﷺ said:
 ## Personal Reflections
 
 

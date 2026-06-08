@@ -152,6 +152,15 @@ Pharaoh said, "And what is the Lord of the worlds?" (26:23)
 
 This verse proves that it is not possible to know the exact reality of Allah's Being. Since the Pharaoh had asked a question regarding Allah Ta’ ala's intrinsic-self and reality, Sayyidna Musa (علیہ السلام) instead of giving a direct answer to his query, described the attributes of Allah Ta’ ala in reply. He hinted in his reply that it is not possible for a man to perceive the essence and reality of Allah Ta’ ala. Hence, it was a futile question. (Ruh)
 
+## AI Translation
+
+And so my heart will be broken and my tongue will be tied. So send Aaron along as a messenger.
+
+## AI Tafsir
+
+**What this ayah teaches:** [ 12] And my heart gets straitened and my tongue is not fluent; so send for Harun.
+
+**Classical tafsir:** Ibn Kathir notes: But the word is also used for 'unawareness' (which includes unintentional mistakes) It is this meaning that is intended here.
 ## Personal Reflections
 
 

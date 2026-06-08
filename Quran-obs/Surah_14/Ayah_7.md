@@ -125,6 +125,15 @@ And then it was said: If you are ungrateful for My blessings then severe is My p
 
 It is worth remembering at this point that in this verse, Allah Tad does promise good return, reward and increase in blessing, and that too in an emphatic manner: لَازِیدَنَّکُم (I shall certainly give you more). But, in contrast to this, for the ungrateful it was not said: لَاُعُذِّبَںَّکُم (I shall certainly punish you). Instead of that, given here is a limited warning which conveys the sense that 'My punishment too, to whomsoever it reaches, is very severe.' In this particular interpretation, there is a hint that it is not necessary that every ungrateful person has to undergo punishment - the likelihood of forgiveness also exists.
 
+## AI Translation
+
+And when your Rabb proclaimed: "If you show shukr—gratitude in word and action—I will give you more. If you are ungrateful, My punishment is severe."
+
+## AI Tafsir
+
+**What this ayah teaches:** It is possible that this Ayah means, your Lord has vowed and sworn by His might, grace and exaltness. Instead of that, given here is a limited warning which conveys the sense that 'My punishment too, to whomsoever it reaches, is very severe.' In this particular interpretation, there is a hint that it is not necessary that every ungrateful person has to undergo punishment - the likelihood of forgiv…
+
+**Classical tafsir:** Ibn Kathir notes: It is possible that this Ayah means, your Lord has vowed and sworn by His might, grace and exaltness.
 ## Personal Reflections
 
 

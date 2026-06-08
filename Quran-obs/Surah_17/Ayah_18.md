@@ -132,6 +132,15 @@ Two behavior models of human beings appear in the cited verses side by side. As 
 
 The first condition can only be that of a denier of the Hereafter, therefore, none of his deeds is acceptable. Then, the second condition is that of a true believer. A particular deed by him that issues forth with sincerity of intention, and is for the Hereafter - along with the presence of other conditions - shall be acceptable. And a deed even from the same person, a deed that has no sincerity, or where other conditions are missing, will not be acceptable.
 
+## AI Translation
+
+Whoever desires this fleeting world alone, We hasten in it whatever We please to whoever We will; then We destine them for Hell, where they will burn, condemned and rejected.
+
+## AI Tafsir
+
+**What this ayah teaches:** Then, afterwards, We have appointed for him Hell; he will burn therein disgraced and rejected (18)And whoever desires the Hereafter and strives for it, with the necessary effort due for it while he is a believer, then such are the ones whose striving shall be appreciated, (rewarded by Allah).
+
+**Classical tafsir:** Ibn Kathir notes: These words signify continuity and permanence meaning that this punishment of Hell will materialize only when one's actions are all the time motivated by material interests only, having practically no concern for the Hereafter.
 ## Personal Reflections
 
 

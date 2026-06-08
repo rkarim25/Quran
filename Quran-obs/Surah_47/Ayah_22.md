@@ -162,6 +162,17 @@ The word اَرحَام 'arham' is the plural of رَحَم 'rahim' (womb). This
 
 "The person who perfectly maintains the ties of kinship is not the one who does it because he gets recompensed by his relatives for being kind and good to them, but the one who truly maintains the bonds of kinship is he who treats his kinsmen fairly, even though others have severed the ties of kinship with him." (Ibn Kathir)
 
+## AI Translation
+
+If you turn away, you may spread corruption across the land and sever the ties of kinship Allah commanded you to maintain.
+
+## AI Tafsir
+
+**What this ayah teaches:** Because that is the source of all relationships and kinship, it is idiomatically used in the sense of human relationship and kinship.
+
+**Classical tafsir:** Ibn Kathir notes: This Hadith indicates how important it is to treat relatives kindly in terms of words, deeds and wealth.
+
+**From the Sunnah:** Many authentic and sound Hadiths have been reported through numerous routes of transmission from Allah's Messenger in this regard. (Sahih al-Bukhari) from Abu Bakrah, may Allah be pleased with him, that Allah's Messenger ﷺ said: (Musnad Ahmad)
 ## Personal Reflections
 
 

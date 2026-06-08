@@ -120,6 +120,17 @@ Verse [ 100:5] فَوَسَطْنَ بِهِ جَمْعًا (then enter, at the 
 
 The word kanud, (100:6) according to Hasan Basri (رح) ، refers to the one who counts the calamities that befall him, and forgets Allah's favours. Abu Bakr Wasiti said that kanud is the one who spends the bounties of Allah for sinful purposes. Tirmidhi said that kanud is the one who looks at the bounty, and not at the Bounteous Lord. In short, all these interpretations lead to the sense of 'ungratefulness to favours and bounties' and hence the expression kanud means 'ungrateful'.
 
+## AI Translation
+
+Humanity is deeply ungrateful to its Rabb—quick to forget blessings once urgency fades.
+
+## AI Tafsir
+
+**What this ayah teaches:** And penetrating forthwith as one into the midst.)(6.
+
+**Classical tafsir:** Ibn Kathir notes: And penetrating forthwith as one into the midst.)(6.
+
+**From the Sunnah:** This is just as the Messenger of Allah ﷺ used to perform raids in the early morning.
 ## Personal Reflections
 
 

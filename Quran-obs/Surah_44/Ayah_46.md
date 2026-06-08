@@ -92,6 +92,17 @@ Punishment of the Dwellers of Hell
 
 "Indeed the tree of zaqqum... (44:43) ". Some necessary information regarding the reality of zaqqum has been given in Surah As-Saffat. Please see under (37:64-65). Here the Qur'an apparently indicates that the infidels will be given zaqqum to eat even before they enter Hell, because in this verse the Qur'an says that after having fed them with zaqqum they will be seized by the keepers of Hell and dragged into the middle of the blazing fire of Hell. According to some commentators, this is the meaning of (56:56) Surah –Al-Waqi'ah هَـٰذَا نُزُلُهُمْ يَوْمَ الدِّينِ (This will be their entertainment on the Day of Requital". They argue that the word nuzul (entertainment) originally refers to the starter food and provision served to guests to make them feel welcome before the main course of entertainment is served. The main course of food and provision served later on is called diyafah or ma'dubah. The wordings of the Qur'an do carry the possibility that the feeding of zaqqum could be after the entry into Hell. In this case the word nuzul would refer, by extension, to the main course of meals and provisions served. The verse under comment which speaks about 'dragging the dweller of Hell towards the middle of the blazing fire' means, he would already be in Hell but after feeding him zaqqum he will be dragged towards the middle of the fire to expose him to a greater degree of disgrace and torture. Allah knows best! (Condensed from Bayan-ul-Qur'an).
 
+## AI Translation
+
+like the boiling of hot water.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, the tree of Zaqqu (43)Will be the food of the sinners (44)Like boiling oil, it will boil in the bellies (45)Like the boiling of scalding water (46)(It will be said:) "Seize him and drag him into the midst of blazing Fire, (47)"Then pour over his head the torment of boiling water.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said, "If a drop of it were to fall on the earth, it would corrupt the living of all the people of earth." A similar Marfu' report has been narrated earlier. Here the Qur'an apparently indicates that the infidels will be given zaqqum to eat even before they enter Hell, because in this verse the Qur'an says that after having fed them with zaqqum they will be seized by the keepers of Hell and…
+
+**From the Sunnah:** Ibn Jarir recorded that Abu Ad-Darda' was reciting to a man:
 ## Personal Reflections
 
 

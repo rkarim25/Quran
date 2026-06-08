@@ -95,6 +95,15 @@ The statement '[ We ] have made them [ stars ] devices to stone the devils' prob
 
 وَلِلَّذِينَ كَفَرُ‌وا بِرَ‌بِّهِمْ عَذَابُ جَهَنَّمَ (And for those who disbelieve, there is the punishment of Jahannam ...67:6). The subject runs through seven verses. Thereafter, the subject of Divine knowledge and power is revisited.
 
+## AI Translation
+
+So they will confess their sins. Away with the people of the Blaze.
+
+## AI Tafsir
+
+**What this ayah teaches:** This further shows that devils who attempt to eavesdrop on celestial conversations for information are driven away before they can reach the stars.
+
+**Classical tafsir:** Ibn Kathir notes: The word 'masabih' (translated above as 'lamps' ) stands for 'stars'.
 ## Personal Reflections
 
 

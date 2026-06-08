@@ -110,6 +110,15 @@ Commentary
 
 The last few verses of this Surah Al-Mu'minun from verse 115 to verse 118 have special merit. Baghawi and Thalabi have related from Sayyidna Ibn Masud ؓ that he came across a person who was very ill. He recited the above verses into the sick man's ears and he was cured immediately. The Holy Prophet ﷺ asked him what he had whispered in the sick man's ears to which Sayyidna 'Abdullah Ibn Masud ؓ replied that he had recited these verses (115 to 118) in his ears. Thereupon the Holy Prophet ﷺ said, "I swear by Him Who has power over my life that if a person with genuine faith were to recite these verses on a mountain, the mountain itself may move from its place". (Qurtubi and Mazhari)
 
+## AI Translation
+
+Exalted is Allah, the True King! There is no god worthy of worship except Him, the Rabb of the Honourable Throne.
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah tells them how much they wasted in their short lives in this world by failing to obey Allah and worship Him Alone. If you had patiently obeyed Allah and worshipped Him as the believers did, you would have attained victory just as they did.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

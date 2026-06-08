@@ -194,6 +194,19 @@ Dark shall be the record of deeds, even if one be an angel.
 
 By saying: نَرْ‌فَعُ دَرَ‌جَاتٍ مَّن نَّشَاءُ (We raise in ranks whom We will) towards the end of the verse (83), the hint given is that the station of special reverence received by Sayyidna Ibrahim (علیہ السلام) in this world which would last through generations to come until the Last Day, a homage universally paid by Jews, Christians, Muslims and Buddhists, was no feat of personal acquisition or recognition, instead of which, this was nothing but the grace and reward from Allah.
 
+## AI Translation
+
+This was the argument We gave Abraham against his people. We elevate in rank whoever We please. Surely your Rabb is All-Wise, All-Knowing.
+
+## AI Tafsir
+
+**Context:** (Verily! Joining others in worship with Allah is a great Zulm (wrong) indeed.)[31:13], was later revealed." Imam Ahmad recorded that 'Abdullah said, "When this Ayah was revealed,
+
+**What this ayah teaches:** Certainly your Lord is All-Wise, All-Knowing .
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, how can I ever consider your misguided statements and false doubts?
+
+**From the Sunnah:** And who among us did not commit Zulm against himself? Joining others in worship with Allah is a great Zulm (wrong) indeed.)[31:13], was later revealed." Imam Ahmad recorded that 'Abdullah said, "When this Ayah was revealed, (Musnad Ahmad)
 ## Personal Reflections
 
 

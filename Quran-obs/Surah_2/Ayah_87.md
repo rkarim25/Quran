@@ -215,6 +215,17 @@ Allah helped and supported Sayyidna ` Isa (علیہ السلام) through Jibra'
 
 In. spite of all these divine favours, the Jews persisted in their rebellion. They were so stubborn in the worship of their desires, that whenever the prophets brought to them certain divine injunctions which did not please them, the Jews would deny the prophets – they denied even Sayyidna ` Isa (علیہ السلام) ، or would kill them outright -- for example, they dealt in this vile manner with Sayyidna Zakariyya (علیہ السلام) (Zachariah) and Sayyidna Yahya (علیہ السلام) (John the Baptist).
 
+## AI Translation
+
+We gave Moses the Book and sent messengers after him in succession. We gave Jesus, son of Mary, clear proofs and supported him with the holy spirit. Why is it that whenever a messenger comes to you with what your souls dislike, you become arrogant — rejecting some and killing others?
+
+## AI Tafsir
+
+**What this ayah teaches:** And indeed, We gave Musa the Book and followed him up with a succession of Messengers. And We gave 'Isa, the son of Maryam, clear signs and supported him with Ruh-il-Qudus.
+
+**Classical tafsir:** Ibn Kathir notes: As-Suddi said that Abu Malik said that Qaffayna means, "Succeeded", while others said, "Followed".
+
+**From the Sunnah:** 'A'ishah saying that the Messenger of Allah ﷺ erected a Minbar in the Masjid on which Hassan bin Thabit (the renowned poet) used to defend the Messenger of Allah (with his poems). (Sahih al-Bukhari) this Hadith in his Sunan as did At-Tirmidhi who graded it Hasan Sahih. (Jami' at-Tirmidhi, Sunan Abi Dawud)
 ## Personal Reflections
 
 

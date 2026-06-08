@@ -254,6 +254,15 @@ This tells us that keeping wealth which remains after taking out Zakah is no sin
 
 The majority of Muslim jurists and Imams have taken this approach. It should be noted that the pronoun in وَلَا یُنفِقُونَھَا (and do not spend it) reverts to فِضَّۃ (fiddah) which means silver. Two things, gold and silver, were mentioned immediately earlier but the pronoun was made to revert to silver only. Tafsir Mazhari takes it to be a clear indicator of the rule that should a person have a little of both gold and silver, his threshold (nisab) will be determined in terms of silver. His Zakah will be paid by calculating the price of gold in terms of the price of silver.
 
+## AI Translation
+
+O you who have iman! Indeed, many rabbis and monks consume people’s wealth wrongfully and hinder from the Way of Allah. Give good news of a painful torment to those who hoard gold and silver and do not spend it in Allah’s cause.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, there are many of the Ahbar (rabbis) and the Ruhban (monks) who devour the wealth of mankind in falsehood, and hinder (them) from the way of Allah. The verse states that many rabbis and monks among the Jews and Christians eat up the wealth of the people by false means and prevent (them) from the way of Allah.
+
+**Classical tafsir:** Ibn Kathir notes: Warning against Corrupt Scholars and Misguided Worshippers As-Suddi said that the Ahbar are Jewish rabbis, while the Ruhban are Christian monks.
 ## Personal Reflections
 
 

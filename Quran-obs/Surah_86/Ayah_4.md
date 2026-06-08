@@ -164,6 +164,15 @@ behind him, who guard him under the command of Allah [ 13:11]
 
 A tradition has reported the Messenger of Allah saying that Allah has appointed three hundred and sixty angels for every believer. They protect every limb of his. Of the three hundred and sixty, seven angels alone protect man's eye. These angels defend man from every calamity that is not decreed, like a fan chases away the flies coming to a vessel containing honey. If there are no security guards for man, the devils will snatch them away. [ Qurtubi ].
 
+## AI Translation
+
+There is no soul without a vigilant guardian recording its deeds.
+
+## AI Tafsir
+
+**What this ayah teaches:** There is no human being but has a protector over him.)(5.
+
+**Classical tafsir:** Ibn Kathir notes: In the first sense, the word hafiz refers to the angels who record the deeds.
 ## Personal Reflections
 
 

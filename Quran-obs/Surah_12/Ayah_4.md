@@ -91,6 +91,17 @@ This was the dream seen by Sayyidna Yusuf (علیہ السلام) interpreting w
 
 According to al-Qurtubi, though the mother of Sayyidna Yusuf (علیہ السلام) had passed away from this mortal world before this event, but in her place, his father was wedded to her sister. A maternal aunt already has love and concern for her sister's children as their natural mother would normally have. Now when she, after the death of her sister, comes to be the wife of the father, she would customarily be referred to as the mother.
 
+## AI Translation
+
+Remember when Joseph said to his father, “O my dear father! Indeed I dreamt of eleven stars, and the sun, and the moon—I saw them prostrating to me!”
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, I saw (in a dream) eleven stars and the sun and the moon - I saw them prostrating themselves to me. Scholars of Tafsir explained that in Yusuf's dream the eleven stars represent his brothers, who were eleven, and the sun and the moon represent his father and mother.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+
+**From the Sunnah:** This explanation was collected from Ibn 'Abbas, Ad-Dahhak, Qatadah, Sufyan Ath-Thawri and 'Abdur-Rahman bin Zayd bin Aslam.
 ## Personal Reflections
 
 

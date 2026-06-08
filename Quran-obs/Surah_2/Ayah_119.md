@@ -83,6 +83,15 @@ Imam Ahmad recorded 'Ata' bin Yasar saying that he met 'Abdullah bin 'Amr bin Al
 
 The implication of Verse 118 was that those who persisted in their denial of the Holy Prophet ﷺ did so out of sheer malice and ignorance, and could not be expected to reform themselves. Since he has been sent as the mercy for all the worlds", the thought of their being incorrigible was likely to make him sad on their account. So, in this verse Allah offers him a consolation. He has been sent down to men, bearing the truth and the genuine faith. His function is twofold -- to give glad tidings to those who accept the truth, and warnings of dire punishment to those who deny. Allah assures him that he will not be held responsible or taken to account for those who willingly pursue the way to Hell. All that he is required to do is to keep performing his own function, and not to worry as to who accepts the truth and who does not.
 
+## AI Translation
+
+We have sent you with the truth as a bearer of good news and a warner. You will not be asked about the people of the Fire.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, We have sent you (O Muhammad ﷺ) with the truth (Islam), a bringer of glad tidings (for those who believe in what you brought, that they will enter Paradise) and a warner (for those who disbelieve in what you brought, that they will enter the Hellfire). We have sent you as a witness, a bringer of good news, a warner, and as safe refuge for the unlettered people.
+
+**Classical tafsir:** Ibn Kathir notes: Allah will not bring his life to an end, until he straightens the wicked's religion by his hands so that the people proclaim: There is no deity worthy of worship except Allah.
 ## Personal Reflections
 
 

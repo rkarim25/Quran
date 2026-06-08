@@ -114,6 +114,15 @@ For this reason, another Tafsir that has been reported from Sayyidna Ibn ` Abbas
 
 Immediately next within verse 158 it was said: وَلَقَدْ عَلِمَتِ الْجِنَّةُ إِنَّهُمْ لَمُحْضَرُ‌ونَ 158) ', while the Jinns already know that they are bound to appear (before Him).' Here, 'they' could be referring to the kinds of Mushriks who took Jinns and Shaitans as equals of God, meaning thereby that the Jinns know that these Mushriks will appear before Allah Ta’ ala for being punished, and could also refer to the Jinns themselves. In this situation, the sense of the verse would come to be that 'the Shaitans and Jinns you have taken to be associated with Allah in one or the other form already know very well that they are going to face a terrible fate in the Hereafter. For example, Iblis is perfectly aware of his evil end. Now, someone who himself believes that he has to taste his punishment could hardly be the equal of God and taking him to be so would certainly be a gross lack of good sense.
 
+## AI Translation
+
+Surely you pagans and whatever idols you worship
+
+## AI Tafsir
+
+**What this ayah teaches:** Who then does more wrong than one who rejects the Ayat of Allah and turns away therefrom?
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

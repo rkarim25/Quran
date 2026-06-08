@@ -206,6 +206,17 @@ Then Allah tells us:
 
 Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ الْحَرَّ‌ (shirts which protect you from heat - 81). Here, protection from heat has been identified as the purpose of a shirt - though, a shirt protects one from heat and cold both. This has been answered by Imam Al-Qurtubi and other commentators by saying that the Holy Qur’ an has been revealed in the Arabic language, its first addressees are Arabs, therefore, it speaks by taking Arab habits and needs into account. Arabia is a hot country where the very thought of snow and winter chill is far-fetched, therefore, the statement was left with the mention of protection from heat as being sufficient. Yet another explanation for this has been given by Maulana Ashraf Ali Thanavi in Bayan al-Qur’ an by saying that in the beginning of this Surah, the Qur’ an had already said: لَكُمْ فِيهَا دِفْءٌ (and for you, there is provision against cold in them - 16:5). Thus, it was in view of this earlier mention of beating cold and having warmth that only protection from heat has been mentioned here.
 
+## AI Translation
+
+And when the polytheists see their associate-gods, they will say, “Our Rabb! These are our associate-gods that we used to invoke besides You.” Their gods will throw a rebuttal at them, saying, “You are definitely liars.”
+
+## AI Tafsir
+
+**Context:** Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ الْحَرَّ‌ (shirts which protect you from heat - 81). Here, protection from heat has been identified as the purpose of a shirt - though, a shirt protects one from…
+
+**What this ayah teaches:** These are our partners whom we used to call upon besides you." But they will throw back their statement at them (saying): "You indeed are liars!
+
+**Classical tafsir:** Ibn Kathir notes: Arabia is a hot country where the very thought of snow and winter chill is far-fetched, therefore, the statement was left with the mention of protection from heat as being sufficient.
 ## Personal Reflections
 
 

@@ -143,6 +143,15 @@ Special Wisdom in every creation
 
 These verses define the sacred and exalted position of the Holy Qur’ an and by addressing the person on whom the book is revealed as عَبدَہ (His slave) in the very beginning of the Surah, his honoured position is highlighted. There cannot be a greater honour for any one than to be called by Allah Ta’ ala as 'His own'..
 
+## AI Translation
+
+those who reject the truth say, “This Quran is nothing but a fabrication which he made up with the help of others.” Their claim is totally unjustified and untrue!
+
+## AI Tafsir
+
+**What this ayah teaches:** Because this idea is so foolish and is so patently false, everyone knows that it is not true. Despite all their lies, immorality, falsehood, disbelief and stubbornness, and saying what they said about the Messenger and the Qur'an, He still invites them to repent and give up their sin, and to come to Islam and true guidance.
+
+**Classical tafsir:** Ibn Kathir notes: Because this idea is so foolish and is so patently false, everyone knows that it is not true.
 ## Personal Reflections
 
 

@@ -194,6 +194,17 @@ In the verses which will follow, mentioned there is another event which is conne
 
 These women were talking among themselves. They were saying: Look, how regrettable it is that the wife of the ` Aziz of Misr, despite enjoying a status so high, had become enamoured with her young slave and was looking for the fulfillment of what she wanted from him. In this, we think, she is in a grave error. The word used in the verse (30) is: فَتَاھَا (fate ha: translated as ` her youthful slave' ). Fata' denotes someone youthful. In customary usage, a boy slave when small is called a ghulam. If in his youth, the boy is called fata, and the girl, fata. Here, Sayyidna Yusuf (علیہ السلام) has been referred to as the slave of Zulaikha either because that which is owned by the husband is also customarily called as that which is owned by the wife; and/or because Zulaikha had taken Sayyidna Yusuf (علیہ السلام) from her husband as gift. (Qurtubi)
 
+## AI Translation
+
+Some women of the city gossiped, “The Chief Minister’s wife is trying to seduce her slave-boy. Love for him has plagued her heart. Indeed, we see that she is clearly mistaken.”
+
+## AI Tafsir
+
+**What this ayah teaches:** In customary usage, a boy slave when small is called a ghulam.
+
+**Classical tafsir:** Ibn Kathir notes: This indicates the best and most perfect grade in this case, for Yusuf was youthful, beautiful and full of manhood.
+
+**From the Sunnah:** An authentic Hadith stated that the Messenger of Allah passed ﷺ by Prophet Yusuf, during the Night of Isra' in the third heaven and commented, (authentic hadith)
 ## Personal Reflections
 
 

@@ -206,6 +206,17 @@ Thus, Sayyidna Yunus علیہ السلام was alerted to that slip, and later o
 
 In this story, as for parts that have been mentioned in the Qur'an, or stand proved from authentic narratives of Hadith, they are certain. The rest of them come from historical reports - and no ruling of Islamic law can be based on them.
 
+## AI Translation
+
+Are they waiting for anything except the same torments that befell those before them? Say, “Keep waiting then! I too am waiting with you.”
+
+## AI Tafsir
+
+**What this ayah teaches:** This is all under the control of the Most Able; there is no Allah worthy of worship except Him and there is no true Lord other than Him.
+
+**Classical tafsir:** Ibn Kathir notes: So, they said, let that person show himself up so that others do not suffer because of one person.
+
+**From the Sunnah:** protection from other sins. (Sahih Muslim) If there were something somewhere even in the Qur'an, and Hadith, seemingly contrary to the established principles of Qur'an, and Sunnah, and the collective Muslim belief in prophets being protected from sins, it would have been necessary to interpret it in a… (Sahih Muslim)
 ## Personal Reflections
 
 

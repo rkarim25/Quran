@@ -155,6 +155,15 @@ The torment will strike them because of disbelieving in the Message of the Messe
 
 In the last verse (45), it was said that, when the mass punishment of Allah Ta` ala came, the people who did wrong were uprooted to the last man. Said immediately after was: وَالْحَمْدُ لِلَّـهِ رَ‌بِّ الْعَالَمِينَ (And praise be to Allah, the Lord of the worlds) where the hint given is: Whenever the wrongdoers and the unjust are visited by some punishment or calamity, that is a blessing for the whole world for which people should be grateful.
 
+## AI Translation
+
+We have sent messengers only as deliverers of good news and as warners. Whoever believes and does good, there will be no fear for them, nor will they grieve.
+
+## AI Tafsir
+
+**What this ayah teaches:** So whosoever believes and does righteous good deeds, upon such shall come no fear, nor shall they grieve (48)But those who reject Our Ayat, the torment will strike them for their rebelling .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

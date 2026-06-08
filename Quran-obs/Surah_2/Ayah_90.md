@@ -172,6 +172,17 @@ The Holy Qur'an says that the Jews will have to undergo a punishment which would
 
 The next verse reports what the Jews used to say with regard to the Holy Qur'an, which clearly shows their envy and malice as well as their infidelity (Kufr کفر).
 
+## AI Translation
+
+Miserable is what they sold their souls for — rejecting Allah's revelation out of envy that He sends His grace to whomever He wills among His servants. They earned wrath upon wrath, and a humiliating punishment awaits those who persist in rejection.
+
+## AI Tafsir
+
+**Context:** (How bad is that for which they have sold their own selves) means, "The Jews sold themselves." meaning, what is worse is what they chose for themselves by disbelieving in what Allah revealed to Muhammad ﷺ instead of beli…
+
+**What this ayah teaches:** How bad is that for which they have sold their own selves, that they should disbelieve in that which Allah has revealed (the Qur'an), grudging that Allah should reveal of His grace unto whom He wills of His servants.
+
+**Classical tafsir:** Ibn Kathir notes: Everything shall be above them, because of the humiliation placed on them, until they enter a prison in Jahannam called 'Bawlas' where the fire will surround them from above.
 ## Personal Reflections
 
 

@@ -156,6 +156,19 @@ Nature of Prohibitions: The Correct View
 
 The restrictive particle: اَنَّمَا (innama: only) appearing in verse 115 seems to give the impression that things Haram are no more than the four mentioned in the verse. This impression emerges more clearly in another verse: قُل لَّا أَجِدُ فِي مَا أُوحِيَ إِلَيَّ مُحَرَّ‌مًا (Say, I do not find, in what has been revealed to me, anything prohibited... - Surah a1-An` am, 6:145). It seems to be suggestive of nothing being Haram other than the things mentioned in the verse while the fact is that according to clarifications of the Qur'an and Sunnah and by the Consensus of the Muslim Ummah, there are many more things rated as Haram. The answer to this difficulty comes through deliberation into the context of these very verses which tells us that the purpose at this place is not to describe Halal and Haram as they are commonly understood. Instead, the purpose is to point out to what the mushrikin of the period of Jahiliyah had done. They had made many things Haram on their own although Allah Ta’ ala had never ordered them about their unlawfulness. It amounts to saying: Out of the things you have (arbitrarily) made out as Haram, only that which is really Haram is being mentioned here. A comprehensive explanation of this verse along with a detailed description of these four prohibitions has appeared in the Commentary of Surah al-Baqarah, Ma` ariful-Qur’ an, Volume I, pages 424-438, under Verses 173-174. Those interested may see it there.
 
+## AI Translation
+
+Do not falsely declare with your tongues, “This is lawful, and that is unlawful,” only fabricating lies against Allah. Indeed, those who fabricate lies against Allah will never succeed.
+
+## AI Tafsir
+
+**Context:** The restrictive particle: اَنَّمَا (innama: only) appearing in verse 115 seems to give the impression that things Haram are no more than the four mentioned in the verse.
+
+**What this ayah teaches:** But if one is forced by necessity, without willful disobedience, nor transgressing, then, Allah is Pardoning, ar-Rahim (115)And do not describe what your tongues have lied about, saying: "This is lawful and this is forbidden," to invent lies against Allah.
+
+**Classical tafsir:** Ibn Kathir notes: and then to Us will be their return, then We shall make them taste the severest torment because they disbelieved.)(10:69-70)
+
+**From the Sunnah:** It seems to be suggestive of nothing being Haram other than the things mentioned in the verse while the fact is that according to clarifications of the Qur'an and Sunnah and by the Consensus of the Muslim Ummah, there are many more things…
 ## Personal Reflections
 
 

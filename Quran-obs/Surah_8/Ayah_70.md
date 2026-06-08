@@ -212,6 +212,19 @@ When came the time to pay ransom, he said to the Holy Prophet ﷺ that the gold 
 
 Following this conversation with Sayyidna ` Abbas ؓ ، the Holy Prophet ﷺ also told him about the promise appearing in the present verse which says that should he embrace Islam and become a Muslim with unalloyed sincerity of heart, then, the money he has spent in ransom shall be returned to him by Allah Ta` ala making it much more and much better for him. Hence, it was after his adherence to Islam had become public knowledge, he used to say: As for me, I am seeing the manifestation of this promise with my own eyes - because the amount of gold taken from me in ransom at that time was seven hundred guineas (20 Uqiyah). Now, at present, twenty of my slaves are running businesses at several places and no business venture being run by them is worth any less than twenty thousand dirhams each. And on top of all this, I have been blessed with the opportunity to serve Hujjaj, the visiting pilgrims, by providing to them drinking water from the sacred well of Zamzam - a service I consider to be so valuable as would pale out the possession of the entire wealth of the people of Makkah.
 
+## AI Translation
+
+O Prophet, tell the captives in your hands: "If Allah knows good in your hearts, He will give you better than what was taken from you and forgive you. Allah is All-Forgiving, the Rahim."
+
+## AI Tafsir
+
+**Context:** Most commentators have said that this verse was revealed about Sayyidna ` Abbas ؓ the uncle of the Holy Prophet ﷺ because he too was one of the prisoners of Badr and ransom was taken from him too.
+
+**What this ayah teaches:** Say to the captives that are in your hands: "If Allah knows any good in your hearts, He will give you something better than what has been taken from you, and He will forgive you, and Allah is Oft-Forgiving, ar-Rahim.")[8:70] Al-'Abbas commented, 'After I became Muslim, Allah gave me twenty servants in place of the twenty Uwqiyah I lost.
+
+**Classical tafsir:** Ibn Kathir notes: It has been said in verse 70: If Allah shall find any good in your hearts, then, He shall give you what is better than what has been taken from you - and in addition to that, He shall forgive your past sins.
+
+**From the Sunnah:** Why do you not sleep?' Al-'Abbas had been capt…
 ## Personal Reflections
 
 

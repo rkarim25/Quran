@@ -70,6 +70,17 @@ Ad-Dahhak said, "Meaning a death which is not followed by any life." Likewise sa
 
 هَاؤُمُ اقْرَ‌ءُوا كِتَابِيَهْ (Come here, read my book… 69:19). The word ha'umu, literally means, "come" but, idiomatically, it is used in the sense of the plural imperative verb khudhu "take'. In other words, one who is given his record book in his right hand, he will be elated and, looking at the people around him, will say 'Here, take my account book and read it!'
 
+## AI Translation
+
+I wish death had been the end!
+
+## AI Tafsir
+
+**What this ayah teaches:** In other words, one who is given his record book in his right hand, he will be elated and, looking at the people around him, will say 'Here, take my account book and read it!'
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "It will be the worst food of the people of the Hellfire." Ar-Rabi' and Ad-Dahhak both said, "It (Ghislin) is a tree in Hell." Shabib bin Bishr reported from 'Ikrimah that Ibn 'Abbas said, 'Ghislin will be the blood and fluid that will flow from their flesh." 'Ali bin Abi Talhah report…
+
+**From the Sunnah:** And if it (the same drop of lead) were sent from the head of the chain (of Hell), it would travel forty fall seasons, night and day, before it would reach its (Hell's) cavity or base.) At-Tirmidhi also recorded this Hadith and he said, "This Hadith is Hasan."… (Jami' at-Tirmidhi)
 ## Personal Reflections
 
 

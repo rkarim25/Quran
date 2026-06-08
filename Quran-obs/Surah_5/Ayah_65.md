@@ -229,6 +229,19 @@ Full obedience to the Divine Commands brings Blessings in This World Too
 
 In verse 65, the Jews have been admonished that the people of the Torah and Injil have not derived any benefit from the guidance given therein nor from the teachings of the blessed prophets. Once involved in worldly greed, they ignored what was not to be ignored. As a result, they ran into straightened circumstances right here in this world as well. But, if they were to take to the ways of faith and godliness even now, Allah could forgive them their past sins and admit them to Gardens full of bliss.
 
+## AI Translation
+
+Had the People of the Book only been faithful and mindful, We would have certainly absolved them of their sins and admitted them into the Gardens of Bliss.
+
+## AI Tafsir
+
+**Context:** (And let not your hand be tied (like a miser) to your neck.) Therefore, this is the meaning that the Jews meant, may Allah's curses be on them.
+
+**What this ayah teaches:** After that, it was said that the people the Prophet of Islam is dealing with are contumacious people as they refuse to benefit from the open and clear words of the Qur'an revealed to him, instead of which, their disbelief in and denial of the truth keeps getting more hardened.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ikrimah said that this Ayah was revealed about Finhas, one of the Jews, may Allah curse him.
+
+**From the Sunnah:** The Revelation to the Muslims only Adds to the Transgression and Disbelief of the Jews So, it is to keep Muslims safe from their evil designs that Allah has caused differences to crop up within their own sects because of which they would neither dare fight an open war nor would…
 ## Personal Reflections
 
 

@@ -143,6 +143,17 @@ Allah criticized those who make lawful what Allah has made unlawful or vice vers
 
 In the third verse (59), warning has been given to people who introduce their personal opinion in the serious matter of Halal (lawful) and Haram (unlawful). They would, at will, declare something to be Halal and dub something to be Haram - without any authority of the Qur'an, and Sunnah. A severe warning of no less a punishment than that of the day of Qiyamah has been given to those who commit this crime (60). This tells us that the fact of something being Halal or Haram does not depend on human opinion. Instead of that, it is the special right and prerogative of Allah Ta` ala and His Messenger. Without their injunctions, it is not permissible to call something either حلال Halal or حرام Haram.
 
+## AI Translation
+
+What do those who fabricate lies against Allah expect on Judgment Day? Surely Allah is ever Bountiful to humanity, but most of them are ungrateful.
+
+## AI Tafsir
+
+**Context:** Ibn 'Abbas, Mujahid, Ad-Dahhak, Qatadah, 'Abdur-Rahman bin Zayd bin Aslam and others said: "This Ayah was revealed to criticize the idolators for what they used to make lawful and unlawful.
+
+**What this ayah teaches:** He also has not prohibited them except what is harmful to them in their world and the Hereafter.
+
+**Classical tafsir:** Ibn Kathir notes: This is because they are based on mere desires and false opinions that are not supported with evidence or proof.
 ## Personal Reflections
 
 

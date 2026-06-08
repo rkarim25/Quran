@@ -141,6 +141,15 @@ Commentary
 
 جَعَلَ لَكُمُ الْأَرْ‌ضَ مَهْدًا (has made the earth a cradle for you - 10) meaning that the comfort provided by the earth is that of a cradle; its apparent look of being a plain floor does not negate its being spherical.
 
+## AI Translation
+
+He is the One who sends down rain from the sky in perfect measure, with which We give life to a lifeless land. And so will you be brought forth from the grave.
+
+## AI Tafsir
+
+**What this ayah teaches:** By referring to the revival of the earth, Allah draws attention to how He will bring bodies back to life on the Day of Resurrection, after they have been dead.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -83,6 +83,17 @@ The last two verses further fortify the doctrine of توحید tauhid on the gro
 
 (1.) Whenever the Holy Qur'an speaks of the 'Torah and the Injil' it refers to the original books revealed to the prophets Moses and Jesus (علیہ السلام) . This should not, therefore, be confused. With the present Old and New testaments.
 
+## AI Translation
+
+Surely nothing on earth or in the heavens is hidden from Allah.
+
+## AI Tafsir
+
+**Context:** (1.) Whenever the Holy Qur'an speaks of the 'Torah and the Injil' it refers to the original books revealed to the prophets Moses and Jesus (علیہ السلام) . This should not, therefore, be confused.
+
+**What this ayah teaches:** Truly, nothing is hidden from Allah, in the earth or in the heaven (5)He it is Who shapes you in the wombs as He wills.
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah refers to the fact that 'Isa, son of Mary, is a created servant, just as Allah created the rest of mankind.
 ## Personal Reflections
 
 

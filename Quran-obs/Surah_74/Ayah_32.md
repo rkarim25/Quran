@@ -112,6 +112,15 @@ In the next verses, there is the mention of the Hereafter and its horrors.
 
 اِنَّهَا لَاِحْدَى الْكُبَرِ (saqar: Hell) is one of the greatest things....74:35) The pronoun in the phrase innaha refers to saqar 'Hell' which has been mentioned in one of the preceding verses. The word kubar is the plural of kubaa which is an adjective for dahiyah or musibah 'calamity'. The verse purports to say that Hell which the unbelievers will enter will be one of the greatest calamities. Besides, there will be many different kinds of torments and tortures.
 
+## AI Translation
+
+No! By the moon and its cycles,
+
+## AI Tafsir
+
+**Context:** وَمَا يَعْلَمُ جُنُوْدَ رَبِّكَ اِلَّا هُو (...And no one knows the hosts of your Lord but He 74:31) Muqatil, among the leading authorities, says that this is rebuttal to Abu Jahl's statement.
+
+**What this ayah teaches:** And by the moon (32)And by the night when it withdraws (33)And by the dawn when it brightens (34)Verily, it is but one of the greatest (signs)(35)A warning to mankin (36)To any of you that chooses to go forward, or to remain behind .
 ## Personal Reflections
 
 

@@ -143,6 +143,15 @@ In verse 24: وَإِنَّا أَوْ إِيَّاكُمْ لَعَلَىٰ ه�
 
 This method of prophetic call, good counsel and good-mannered debate - in line with the command of the Qur'an: وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ (wa jadilhum bil-lati hiya ahsan: (and argue with them in the best manners - 16:125) - is something ` Ulama' should keep in sight all the time. Once this stands ignored, everything done in the fair name of da'wah, tabligh and debate becomes ineffective, rather harmful. As a result, adversaries turn adamant and cling to their error far more firmly.
 
+## AI Translation
+
+Ask them: "Who provides for you from the heavens and the earth?" Say: "Allah! One of our two groups is rightly guided and the other is clearly astray."
+
+## AI Tafsir
+
+**What this ayah teaches:** As they used to admit that no one in heaven or on earth except Allah gave them provision, i.e., by sending down water and causing crops to grow, so they should also realize that there is no Allah worthy of worship besides Him.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

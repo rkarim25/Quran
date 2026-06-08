@@ -204,6 +204,15 @@ The Admonition for Disbelievers - A Lesson for Muslims
 
 This is an admonition directed against the waywardness of the disbelievers of Arabia. However, by implication, it holds a sharp lesson for Muslims as well - Muslims who devote their full potential, their life given by Allah, their body and mind, into different sections. They would reserve part of their years and time in life for Allah and His worship - though the right of Allah demanded that all time frames of their living years should have been reserved to obey and worship Him alone. May be, they could have taken out some time for themselves too to take care of human compulsions - and even then, the truth is that the right of Allah that we be grateful to Him would have still remained unfulfilled! But, here we are, in our time and in our places, doing unbelievable things. If, in the twenty four hours of a day and night of our lives, we do get around to fix some time to be devoted to remember Allah and engage ourselves in what we know as His essential ` Ibadah, then strange things start happening. There comes an urgent need, a call or an appointment or something like that, and we be-come pragmatic all of a sudden. The function, the business, the need comes first. No postponement is made in what is pragmatic or personal. The urgency of work stays. The inevitability of rest time stays. The axe falls on nothing but the time which had been fixed for devotion to Allah through prayers and recitation of the Qur'an. This happens most of the time - emergency, urgency, sickness or any other call - what is the first casualty in this rush is nothing but the time that we had ear-marked for our Dhikr and ` Ibadah. We just cannot say how wrong, how ungrateful and how right-compromising this attitude is. May Allah Ta` ala keep us and all Muslims protected from it.
 
+## AI Translation
+
+The pagans set aside for Allah a share of the crops and cattle He created, saying, “This is for Allah,” so they claim, “and this for our associate-gods.” Yet the portion of their associate-gods is not shared with Allah while Allah’s portion is shared with their associate-gods. What unfair judgment!
+
+## AI Tafsir
+
+**What this ayah teaches:** And they assign to Allah a share of the tilth and cattle which He has created, and they say: "This is for Allah," according to their claim, "and this is for our partners." But the share of their "partners" reaches not Allah, while the share of Allah reaches their "partners"!
+
+**Classical tafsir:** Ibn Kathir notes: It means that their judgment is evil and crude because they are not realizing that it is Allah who created them and created everything that appears to belong to them, yet they go about equating others with Him, and to top it all, they find excuses to shift elsewhere what, accordi…
 ## Personal Reflections
 
 

@@ -128,6 +128,19 @@ The consideration of property and the love of children and family made him do wh
 
 When the Holy Prophet ﷺ got this news initially, he said: If he had come to me first, I would have sought forgiveness for him and his taubah would have been accepted. Now that he has gone through this act of his, there is nothing left but to wait for the revela-tion of the Divine acceptance of his taubah. So, it was after seven days when, late at night, these verses relating to the acceptance of his taubah were revealed. Some Sahabah gave him the good news and reached out to untie him from the pillar. But, he said: Until such time that the Holy Prophet ﷺ would not decide to untie me, I would not prefer to be untied. Thus, when he came into the Masjid at the time of the Fajr Salah, he untied him with his own blessed hands. The real cause of the revelation of the cited verse which contains the prohibition of becoming overwhelmed by the concern and love for property and children and not fulfilling the trust of Allah is as stated above. Allah knows best.
 
+## AI Translation
+
+Know that your wealth and your children are a fitnah—a trial that tests where your heart truly lies—and that with Allah is a tremendous reward.
+
+## AI Tafsir
+
+**Context:** However, it appears that this Ayah is more general, even if it was revealed about a specific incident. Such rulings are dealt with by their indications, not the specific reasons behind revealing them, according to the ma…
+
+**What this ayah teaches:** Betray not Allah and His Messenger, nor betray knowingly your Amanat (things entrusted to you)(27)And know that your possessions and your children are but a trial and that surely, with Allah is a mighty reward .
+
+**Classical tafsir:** Ibn Kathir notes: He grants these to you so that He knows which of you will be grateful and obedient to Him, or become busy with and dedicated to them instead of Him.
+
+**From the Sunnah:** In the year of the victory of Makkah he wrote to the Quraysh alerting them that the Messenger of Allah ﷺ intended to march towards them. Paradise are better for you than wealth and children.
 ## Personal Reflections
 
 

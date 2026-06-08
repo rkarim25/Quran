@@ -126,6 +126,15 @@ in order that you turn to your Lord in tears."
 
 The verse 94 has referred to this fact by saying, 'We seized it's people with hardship so that they may turn in humbleness. The Arabic word: بَاسَاء 'Ba'sa' signifies hunger or poverty while the word: ضَرَّاء 'Darra' signifies illness. The Holy Qur'an has used these words to signify the same meanings in other situations. The respected Companion ` Abdullah ibn Masud ؓ has confirmed these meanings of the two words. Some linguists have said that the word: بَاسَاء refers to financial distress while the word: ضَرَّاء 'Darra' signifies loss of health. The verse 95 said: "Thereafter, We substituted good in place of evil until they increased."
 
+## AI Translation
+
+Whenever We sent a prophet to a society, We afflicted its people with suffering and adversity, so perhaps they would be humbled.
+
+## AI Tafsir
+
+**What this ayah teaches:** This suffering is, in fact, a blessing of Allah in disguise as it is meant for their good.
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah indicates that Allah sent down severe afflictions to them so that they might invoke Him, but they did not do what He ordered them.
 ## Personal Reflections
 
 

@@ -479,6 +479,17 @@ Jibril then came down, took him to the House and said, 'Raise its foundations.' 
 
 Verse 127 shows another essential quality of this great prophet. In obedience to Allah, he had left the fertile land of Syria and made his wife and child to settle in the barren desert, and now he was taking up the labour of building "the House of Allah." This was a moment when a man who had been bearing such hardships in the way of Allah could normally be expected to feel satisfied with himself and relax in a mood of self-congratulation. But "the Friend of Allah" recognized the Majesty of Allah, and knew that no creature can possibly worship or obey his Creator as is His due, but within his own limited powers. Consequently, he also knew that in performing the hardest or the greatest tasks one should not be proud of one's attainment, but should, in all humility, pray to Allah to accept the little effort one has been capable of making - and that, too, with the grace of Allah Himself. That is exactly what Sayyidna Ibrahim did when he started, along with his young son, to build the Ka'bah. That is to say, he prayed to Allah to accept this deed, for Allah hears all prayers, and knows the intentions of His creatures.
 
+## AI Translation
+
+When Abraham and Ishmael were raising the foundations of the House, they prayed, "Our Rabb, accept this from us. You are the All-Hearing, the All-Knowing."
+
+## AI Tafsir
+
+**What this ayah teaches:** We all accept him; This is Muhammad.' When the Prophet ﷺ reached the area where the leaders were gathering and they informed him about their dispute, he asked them to bring a garment and place it on the ground.
+
+**Classical tafsir:** Ibn Kathir notes: She ran to and fro (between the two mountains) seven times." Ibn 'Abbas said that the Messenger of Allah ﷺ said, "This is why the people make the trip between As-Safa and Al-Marwah (during Hajj and Umrah)." "When she reached Al-Marwah, she heard a voice and said, 'Shush,' to herself.
+
+**From the Sunnah:** I have collected a book on this subject, and all praise is due to Allah. Therefore, its game should not be hunted, and its trees should not be cut.) An-Nasa'i and Muslim also recorded this Hadith. (Sahih Muslim, Sunan an-Nasa'i)
 ## Personal Reflections
 
 

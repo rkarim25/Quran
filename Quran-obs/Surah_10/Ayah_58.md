@@ -104,6 +104,15 @@ Special Note
 
 At this point it is worth our attention that there is another verse of the Qur'an which, in terms of its outward literal sense, seems to indicate that this world is just no place for any highly stimulated expression of joy and merriment. It was said: لَا تَفْرَ‌حْ ۖ إِنَّ اللَّـهَ لَا يُحِبُّ الْفَرِ‌حِين (Do not exult. Indeed, Allah does not like the exultant - Al-Qasas 28:76). The word: لَا تَفْرَ‌حْ (la tafrah) translated here as ` do not exult' means rejoicing in triumph or intoxication. But, in the verse under study (58), the command to rejoice appears in the imperative mood. One answer for this seemingly apparent contradiction is that the place where rejoicing has been prohibited is a place where rejoicing relates to the fleeting enjoyments of the mortal world. And the place where rejoicing is commanded is a place where rejoicing is related to the grace and mercy of Allah Ta` ala. Then, there is yet another difference here. Wherever rejoicing is prohibited, it does not refer to rejoicing in the absolute sense. Instead, it means getting euphoric and intoxicated in exultation and rejoicing. And wherever permitted, it means rejoicing in an absolute sense.
 
+## AI Translation
+
+Say, O Prophet, “In Allah’s grace and mercy let them rejoice. That is far better than whatever wealth they amass.”
+
+## AI Tafsir
+
+**What this ayah teaches:** There has come to you good advice from your Lord, and a cure for that which is in your breasts, – a guidance and a mercy for the believers (57)Say: "In the bounty of Allah, and in His mercy; therein let them rejoice." That is better than what (the wealth) they amass .
+
+**Classical tafsir:** Ibn Kathir notes: Because, to start with, no matter how much one has, it turns out to be not as much as one would have wished.
 ## Personal Reflections
 
 

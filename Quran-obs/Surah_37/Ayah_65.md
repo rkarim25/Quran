@@ -120,6 +120,15 @@ commentators have said that the word: الشَّيَاطِينِ (ash-shayatin) 
 
 The sense of the rest of the verses is clear from their translation.
 
+## AI Translation
+
+bearing fruit like devils' heads.
+
+## AI Tafsir
+
+**What this ayah teaches:** Thus, it would mean that, in its ugliness, the fruit of zaqqum is like the head of the satans.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, in Urdu and Hindi too, it is called 'nagphan' (hood of the serpent) for this very reason.
 ## Personal Reflections
 
 

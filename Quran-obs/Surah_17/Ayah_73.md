@@ -87,6 +87,17 @@ Through this verse, the Holy Prophet ﷺ was sounded that their suggestion was a
 
 From this verse, says Tafsir Mazhari, it is clearly understood that there was just no probability of the Holy Prophet ﷺ ever tilting towards such absurd demands from the Quraysh disbelievers. Yes, coming close to tilting, and that too within a very insignificant limit, was probable. But, by making him ma` sum (protected, infallible), Allah Ta’ ala saved him from drifting even to that limit. If we were to think about it, this verse provides a great proof of the highest moral disposition with which all prophets (علیہم السلام) were blessed. So, had there been even no shield of prophetic infallibility, still such was the natural disposition of the Prophet of Islam that tilting towards the absurd proposal of disbelievers would have never been possible for him. However, there did exist the probability of his coming somewhat closer, in an insignificant measure, towards the act of tilting - something terminated by the prophetic infallibility.
 
+## AI Translation
+
+They definitely thought they were about to lure you away from what We have revealed to you O Prophet, hoping that you would attribute something else to Us falsely—and then they would have certainly taken you as a close friend.
+
+## AI Tafsir
+
+**Context:** Verily, they were about to tempt you away from that which We have revealed to you, to fabricate something other than it against Us, and then they would certainly have taken you as an intimate frien (73)And had We not mad…
+
+**What this ayah teaches:** Verily, they were about to tempt you away from that which We have revealed to you, to fabricate something other than it against Us, and then they would certainly have taken you as an intimate frien (73)And had We not made you stand firm, you would nearly have inclined to them a little (74)In that case We would have made you taste a double portion in this life and a double portion after death.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

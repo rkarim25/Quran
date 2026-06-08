@@ -346,6 +346,17 @@ The incident relating to the Bani Israel was brought in this verse as an introdu
 
 The third verse (245), which follows, deals with the merits of spending in the way of Allah.
 
+## AI Translation
+
+Have you not considered those who left their homes by the thousands, fleeing death? Allah said to them, "Die," then revived them. Allah is bountiful to humanity, but most people are ungrateful.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, this effort to run from death is not only redundant and wasteful, but also goes on to become the cause of Allah Almighty's displeasure.
+
+**Classical tafsir:** Ibn Kathir notes: Dead People Ibn Abu Hatim related that Ibn 'Abbas said that these people mentioned herein, were the residents of a village called Dawardan. And this also explains the hadith in which it is said: The plague is shahadah (martyrdom) and one who dies in the plague is a shahid (martyr).
+
+**From the Sunnah:** 'Umar bin Al-Khattab once went to Ash-Sham (Syria). (Musnad Ahmad, authentic hadith) So, when every human bone found its proper place at the behest of a single call, the Prophet ﷺ was commanded to give yet another call to them as follows:
 ## Personal Reflections
 
 

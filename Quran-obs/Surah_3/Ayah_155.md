@@ -258,6 +258,17 @@ Abridged below is what Hafiz Ibn Taymiyyah (رح) has said in al-'Aqidatul Wasit
 
 "It is a cardinal belief of Ahl al-Sunnah wal-Jama'ah that Muslims must refrain from accusing or criticizing any Companion of the Holy Prophet ﷺ in the matter of disagreements or armed conflicts which may have come up among them. There is a reason for this. Most of the narrations imputing drawbacks in them which have crept into history are a pack of lies planted by enemies. They simply have no truth in them. Then, there are others in which the reality has been reversed by additions and alterations. Even if, there was some truth about something, that has to be taken as the independent judgment of the Companions in which they have no choice. Going a step further, we can assume a situation where they may not be helpless but be capable of using their choice, then, what works there is the Divine Law إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ that is, good deeds make up for the bad ones. And it is more than obvious that nobody can claim equality with them in the matter of good deeds. The good they did cannot be matched by the good done by anybody else. Similarly, nobody else can be more deserving of the mercy and forgiveness of Allah Almighty as compared to them. Therefore, nobody has the right to sit on judgment against them and call their deeds to account and in that process, criticise or speak ill of them."
 
+## AI Translation
+
+Indeed, those who fled on the day when the two armies met were made to slip by Satan because of their misdeeds. But Allah has pardoned them. Surely Allah is All-Forgiving, Most Forbearing.
+
+## AI Tafsir
+
+**What this ayah teaches:** Surely, Allah is Oft-Forgiving, Most Forbearing .
+
+**Classical tafsir:** Ibn Kathir notes: In other words, all deeds - good and bad - have a sort of magnetic pull of their own.
+
+**From the Sunnah:** from Anas that Abu Talhah said, "On the day of Uhud, I raised my head and looked around and found that everyone's head was nodding from slumber." This is the wording of At-Tirmidhi, who said, "Hasan Sahih". (Sahih al-Bukhari, Jami' at-Tirmidhi) As for his statement that I remained behind from participating in Badr, I was nursing Ruqayyah, the daughter of the Messenger of Allah ﷺ, until she passed away.
 ## Personal Reflections
 
 

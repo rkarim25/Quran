@@ -138,6 +138,17 @@ Allah threatens the idolators who denied and opposed His Messenger Muhammad and 
 
 الَّذِينَ كَذَّبُوا بِآيَاتِنَا (who have rejected Our signs - 25:36). Here it is described that the people of Pharaoh had denied Allah's verses. It is to be noted that by that time Torah was not revealed to Sayyidna Musa (علیہ السلام) . Therefore it cannot be Torah which was denied. Hence it is either the proofs of the Oneness of Allah, which can be understood by any one according to his mental level, or the traditions of the past prophets which are passed on through generations, no matter in what little detail, are referred here as rejection of His message. The same thing is referred in Qur'an as well وَلَقَدْ جَاءَكُمْ يُوسُفُ مِن قَبْلُ بِالْبَيِّنَاتِ (Joseph brought you the clear signs before - 40:34). It mentions about the teachings of the earlier prophets, which had also reached them. (Bayan ul-Quran)
 
+## AI Translation
+
+We had ordered them, “Go to the people who would deny Our signs.” Then We annihilated the deniers entirely.
+
+## AI Tafsir
+
+**Context:** الَّذِينَ كَذَّبُوا بِآيَاتِنَا (who have rejected Our signs - 25:36). Here it is described that the people of Pharaoh had denied Allah's verses.
+
+**What this ayah teaches:** And when the people of Nuh denied him, Allah destroyed them likewise, for whoever denies one Messenger denies all the Messengers, because there is no difference between one Messenger and another.
+
+**Classical tafsir:** Ibn Kathir notes: The most correct view is that a generation refers to nations who are one another's contemporaries, living at the same time.
 ## Personal Reflections
 
 

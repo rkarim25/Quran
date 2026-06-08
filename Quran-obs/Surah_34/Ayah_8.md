@@ -139,6 +139,15 @@ Here Allah tells us how the disbelievers and heretics denied that the Hour will 
 
 They say: أَفْتَرَ‌ىٰ عَلَى اللَّـهِ كَذِبًا أَم بِهِ جِنَّةٌ (Has he forged a lie against Allah, or is there a madness in him?"- 34:8). The drive of their remark is that the idea that all totally disintegrated particles of the body will stand reassembled together, turn into the human body once again and be alive as well, is so unreasonable, to start with, that there remains practically no question of entertaining or accepting it. Therefore, this claim of the Holy Prophet ﷺ is either a deliberate attempt to fabricate a lie against Allah Ta’ ala, or the person who says so is insane and no premise of his statement is correct.
 
+## AI Translation
+
+"Has he invented a lie against Allah, or is he mad?" In truth, those who do not believe in the Akhirah are heading for torment and have strayed farthest from the right path.
+
+## AI Tafsir
+
+**What this ayah teaches:** Therefore, this claim of the Holy Prophet ﷺ is either a deliberate attempt to fabricate a lie against Allah Ta’ ala, or the person who says so is insane and no premise of his statement is correct. Nay, but those who disbelieve in the Hereafter are (themselves) in a torment, and in far error (8)See they not what is before them and what is behind them, of the heaven and the earth?
+
+**Classical tafsir:** Ibn Kathir notes: This means that in looking at the creation of the heavens and the earth, there is a sign for every servant who is intelligent and wise and who turns towards Allah.
 ## Personal Reflections
 
 

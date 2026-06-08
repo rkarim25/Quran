@@ -178,6 +178,17 @@ Verse 172 forbids eating that which is Karam and along with it, allows eating th
 
 This shows that eating and using what is halal حلال plays a vital role in doing what is good and virtuous. Similarly, living by the halal حلال helps the chances of a prayer being answered while living by the haram حرام kills those chances. The Holy Prophet has said that there are many people, tired and distressed, who stretch their hands in prayer before Allah fervently calling '0 Lord, 0 Lord, yet haram حرام is what they eat, haram حرام is what they drink and haram حرام is what they wear, how then, under these conditions, could they hope to have their prayers answered?' (The Sahih, Muslim, and Tirmidhi as quoted by Ibn Kathir)
 
+## AI Translation
+
+O believers — eat from the good things We provided and be grateful to Allah, if you truly worship Him alone.
+
+## AI Tafsir
+
+**What this ayah teaches:** Truly, Allah is Oft-Forgiving, ar-Rahim .
+
+**Classical tafsir:** Ibn Kathir notes: Truly, Allah is Oft-Forgiving, ar-Rahim.) "For what is eaten out of necessity." Sa'id bin Jubayr said, "Allah is pardoning for what has been eaten of the unlawful, and Merciful' in that He allowed the prohibited during times of necessity." Masruq said, "Whoever is in dire need, but does not eat… Issue: According to Ash-Shafi'i and other scholars, milk and eggs that are inside dead unslaughtered…
+
+**From the Sunnah:** Eating from pure sources is a cause for the acceptance of supplications and acts of worship, just as eating from impure sources prevents the acceptance of supplications and acts of worship, as mentioned in a Hadith recorded by Imam Ahmad, that Abu Hurayrah sai… (Musnad Ahmad) The Musnad, Al-Muwatta' and the Sunan recorded the Prophet ﷺ saying about the sea…
 ## Personal Reflections
 
 

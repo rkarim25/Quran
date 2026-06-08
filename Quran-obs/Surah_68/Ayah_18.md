@@ -126,6 +126,15 @@ It has been said, "They were hoping for something better in exchange in this lif
 
 وَلَا يَسْتَثْنُونَ (and did not make any exception (by saying 'insha'Allah' ). [ 68:18] '. The word isthisna' in the original Arabic means 'to make an exception by saying "insha'Allah"'. However, some scholars interpret this word, in this context, to mean that 'they would devour the entire harvest themselves, with no exception for the poor. [ Mazhari ].
 
+## AI Translation
+
+making no allowance for Allah's Will.
+
+## AI Tafsir
+
+**What this ayah teaches:** The word isthisna' in the original Arabic means 'to make an exception by saying "insha'Allah"'. In this way they would be able to keep its fruit for themselves and not give any of it in charity.
+
+**Classical tafsir:** Ibn Kathir notes: The word isthisna' in the original Arabic means 'to make an exception by saying "insha'Allah"'.
 ## Personal Reflections
 
 

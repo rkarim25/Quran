@@ -140,6 +140,17 @@ When 'Amir and Arbad left, 'Amir said, "O Arbad! I will keep Muhammad busy while
 
 After that, it was said in verse 12: هُوَ الَّذِي يُرِ‌يكُمُ الْبَرْ‌قَ خَوْفًا وَطَمَعًا وَيُنشِئُ السَّحَابَ الثِّقَالَ. It means that it is Allah Ta` ala Who makes you see the lightening and the thunder which can become a matter of fear for human beings lest it may destroy what it strikes. Then, it has a dimension of hope too by raising expectations that rains may follow the thunder, rains which support animal and human lives. And then, He is the One who lifts heavy and huge clouds up from the surface of the sea as the monsoons and carries these water-laden clouds post-haste through the atmosphere to places near and far off and has them deliver their rains over lands He chooses in accordance with His decree and corresponding to the measure determined by Him.
 
+## AI Translation
+
+He shows you lightning, stirring hope and fear, and builds heavy clouds.
+
+## AI Tafsir
+
+**What this ayah teaches:** Clouds, Thunder and Lightning are Signs of Allah's Power Allah states that He has full power over Al-Barq (lightning), which is the bright light that originates from within clouds.
+
+**Classical tafsir:** Ibn Kathir notes: Mujahid said that this part of the Ayah is about clouds that are heavy with rain. Al-Hafiz Abu Al-Qasim At-Tabarani narrated that Ibn 'Abbas said that Arbad bin Qays bin Juzu' bin Julayd bin Ja'far bin Kulab, and 'Amir bin At-Tufayl bin Malik came to Al-Madinah to the Messenger of Allah ﷺ and sat where he was sitting.
+
+**From the Sunnah:** Ibn Jarir recorded that Ibn 'Abbas once wrote to Abu Al-Jald asking about the meaning of Al-Barq, and he said that it is water.
 ## Personal Reflections
 
 

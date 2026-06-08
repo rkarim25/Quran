@@ -216,6 +216,15 @@ trial.
 
 (3) The most perfect who did not bother even about that.
 
+## AI Translation
+
+They defeated them by Allah's will. David killed Goliath, and Allah gave him kingship and wisdom and taught him what He willed. Had Allah not repelled some people by means of others, the earth would be overrun with corruption. But Allah is gracious to all creation.
+
+## AI Tafsir
+
+**What this ayah teaches:** Talut promised that whoever killed Jalut, would marry his daughter and would share his kingship and authority. Allah Almighty willed that such people be pruned out.
+
+**Classical tafsir:** Ibn Kathir notes: This purpose was accomplished by this test, which is very appropriate, because steadfastness is necessary in fighting.
 ## Personal Reflections
 
 

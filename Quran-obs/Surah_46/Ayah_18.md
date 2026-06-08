@@ -168,6 +168,19 @@ In another report recorded by An-Nasa'i, Muhammad bin Ziyad reported that when M
 
 Marwan's saying, in one of his addresses, that this verse holds true for ` Abdur Rahman Ibn Abi Bakr ؓ has been contradicted by Sayyidah ` A'ishah ؓ ، as narrated in Sahih of Bukhari. The fact of the matter is that the verse is general in sense, and there is no correct narration which states this verse to hold true for a particular person.
 
+## AI Translation
+
+These are the ones against whom the verdict passed on earlier communities of jinn and humans is justified—they were truly among the losers.
+
+## AI Tafsir
+
+**Context:** (But he who says to his parents: "Uff to you! ...") As for the saying "Uff" in this Ayah, it is a general description applying to anyone who says it to his parents.
+
+**What this ayah teaches:** Verily, they are ever the losers (18)And for all, there will be degrees according to that which they did, so that He might fully recompense for their deeds. Today, you will be recompensed with the torment of extreme humiliation, because you were arrogant upon the earth without a right, and because you used to rebel against Allah's command .
+
+**Classical tafsir:** Ibn Kathir notes: Verily, they are ever the losers (18)And for all, there will be degrees according to that which they did, so that He might fully recompense for their deeds.
+
+**From the Sunnah:** from Yusuf bin Mahak that Marwan (bin Al-Hakam) was governor of Hijaz (Western Arabia), appointed by Mu'awiyah bin Abi Sufyan.
 ## Personal Reflections
 
 

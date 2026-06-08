@@ -249,6 +249,19 @@ Ruling
 
 If a person has sent someone to call another person, and he comes along with the person who had gone to fetch him, then he need not take permission to go in. The messenger who had gone to fetch him is permission by itself. But if he does not turn up along with the messenger, but goes later, then seeking of permission will be required. The Holy Prophet ﷺ has said اذا دعی أحدکم فجاء مع الرسول فان ذلک اذن ` If someone is called and he comes along with the messenger, then this by itself is permission for going in'. (Abu Dawud - Mazhari)
 
+## AI Translation
+
+There is no blame on you if you enter public places where there is something of benefit for you. And Allah knows what you reveal and what you conceal.
+
+## AI Tafsir
+
+**Context:** Literal meaning of the word متاع Mata` is to use, put to use, and to benefit from something. Anything from which some benefit is drawn is also called Mata`.
+
+**What this ayah teaches:** Anything from which some benefit is drawn is also called Mata`.
+
+**Classical tafsir:** Ibn Kathir notes: It indicates that the one who has come to meet you, it is his right that you talk to him, and do not refuse meeting him without reason, similarly, the one who wants to talk to you on telephone, it is his right that you respond.
+
+**From the Sunnah:** the Messenger of Allah ﷺ asked for permission to enter upon Sa'd bin 'Ubadah. (Musnad Ahmad) In the Two Sahihs, it is recorded that the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

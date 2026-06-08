@@ -176,6 +176,17 @@ Rulings:
 
 In this verse (102), mention has been made of both groups making one Raka'ah each, but the method of performing the second Raka'ah has appeared in Hadith which says: 'When the Holy Prophet ﷺ turned for Salim after the completion of his two Raka’ at, the two groups went on to complete their one Raka'ah each on their own'. More details can be seen there.
 
+## AI Translation
+
+Do not falter in pursuit of the enemy—if you are suffering, they too are suffering. But you can hope to receive from Allah what they can never hope for. And Allah is All-Knowing, All-Wise.
+
+## AI Tafsir
+
+**What this ayah teaches:** Paradise) that for which they hope not; and Allah is Ever All-Knowing, All-Wise .
+
+**Classical tafsir:** Ibn Kathir notes: The concessions given in travel (In Islamic legal terminology, Safar means journey or travel; Qasr refers to the making of one's Salah short while in that status.
+
+**From the Sunnah:** Verse 102 mentions a special way of offering Sarah in a state where, due to the fear of enemy, all the Muslims cannot pray in a single congregation.
 ## Personal Reflections
 
 

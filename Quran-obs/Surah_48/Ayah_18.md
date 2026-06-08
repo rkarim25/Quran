@@ -140,6 +140,19 @@ Khaibar was conquered in the month of Safar in the 7th year of Hijrah. This is r
 
 In any case, this shows that the conquest of Khaibar took place many days after the march to Hudaibiyah. According to consensus of scholarly opinion, Surah Al-Fath was revealed in the course of his return journey from Hudaibiya. However, there is a difference of opinion whether the Surah was revealed in its entirety or some of its verses were revealed later. If the first view is preferred, then the conquest of Khaibar is a prophecy that Muslims will definitely achieve and is described in past perfect tense to denote that it is as certain as an event that has already happened in the past. If the second view is preferred, it is possible that these verses were revealed after the conquest of Khaibar. Allah knows best!
 
+## AI Translation
+
+Allah was pleased with the believers when they pledged allegiance to you under the tree. He knew what was in their hearts, sent tranquillity down upon them, and rewarded them with a victory close at hand
+
+## AI Tafsir
+
+**Context:** In any case, this shows that the conquest of Khaibar took place many days after the march to Hudaibiyah. According to consensus of scholarly opinion, Surah Al-Fath was revealed in the course of his return journey from Hu…
+
+**What this ayah teaches:** My father said: The following year, when we went out, we forgot its place and could not agree which tree it was.' Sa'id said, 'The Companions of Muhammad ﷺ forgot where the tree was, but you know where it is.
+
+**Classical tafsir:** Ibn Kathir notes: There is consensus of the scholars on that 'well-nigh victory' in this verse means the victory of Khaibar which occurred after returning from Hudaibiyah.
+
+**From the Sunnah:** Allah declares that He is pleased with the believers who gave the pledge to the Messenger of Allah ﷺ under the tree. Paradise to the participants of the battle of Badr. (Sahih Muslim)
 ## Personal Reflections
 
 

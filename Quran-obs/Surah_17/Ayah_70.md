@@ -120,6 +120,15 @@ No less is their gift of communication, speech, comprehension, under-standing an
 
 they are much more misled - 7:179) (Tafsir Mazhari). Allah knows best.
 
+## AI Translation
+
+Indeed, We have dignified the children of Adam, carried them on land and sea, granted them good and lawful provisions, and privileged them far above many of Our creatures.
+
+## AI Tafsir
+
+**What this ayah teaches:** That human beings are superior to them as well is accepted by all.
+
+**Classical tafsir:** Ibn Kathir notes: This Ayah indicates that human are also preferred over the angels.
 ## Personal Reflections
 
 

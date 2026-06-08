@@ -173,6 +173,17 @@ It was regarding this that it was said in the first verse (114): أَفَغَي�
 
 After the description of these four qualities of the Holy Qur'an, the address is to the Holy Prophet ﷺ : فَلَا تَكُونَنَّ مِنَ الْمُمْتَرِ‌ينَ (So, never be one of those who are suspicious). It means that in the presence of such clear proofs, there is no room for doubt. It is obvious that the Holy Prophet ﷺ was never one of those who were in doubt, nor he could be, as confirmed by his saying reported in Tafsir Ibn Kathir: "Neither I ever doubted, nor I ever asked." This tells us that, though in terms of the words, the address is to the Holy Prophet ﷺ but, in reality, the purpose is to make others hear it. That it has been ascribed to him is a manner in which the aim is to lay emphasis on and heighten the effect of the command - in the sense: ` when this has been said to the Holy Prophet ﷺ who would have the audacity to entertain any doubt?'
 
+## AI Translation
+
+“Should I seek a judge other than Allah while He is the One Who has revealed for you the Book perfectly explained?” Those who were given the Scripture know that it has been revealed from your Rabb in truth. So do not be one of those who doubt.
+
+## AI Tafsir
+
+**What this ayah teaches:** [Say:] "Shall I seek a judge other than Allah while it is He Who has sent down unto you the Book, explained in detail." Those unto whom We gave the Scripture know that it is revealed from your Lord in truth.
+
+**Classical tafsir:** Ibn Kathir notes: In other words, it means: ` Do you want that I should, after this decision (of Allah Ta` ala to reveal the Qur'an to me), go and look for a judge other than Him?
+
+**From the Sunnah:** The conditional 'if' in this Ayah does not mean that 'doubt' will ever occur to the Prophet ﷺ.
 ## Personal Reflections
 
 

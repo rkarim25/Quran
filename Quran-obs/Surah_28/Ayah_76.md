@@ -198,6 +198,15 @@ The other meaning of Bagha is conceit or arrogance. Many a commentators have ado
 
 لَا تَفْرَ‌حْ (Do not exult - 28:76). Literal meaning of the word فَرَح (Farah) is the happiness one gets as a result of an instant pleasure. Many a Qur'anic verses have declared Farah as contemptible, as in this very verse also إِنَّ اللَّـهَ لَا يُحِبُّ الْفَرِ‌حِينَ (Allah does not like the exultant - 28:76). In another verse it is said لَا تَفْرَ‌حُوا بِمَا آتَاكُمْ (nor rejoice in what has come to you - 57:23). Yet another verse says فَرِ‌حُوا بِالْحَيَاةِ الدُّنْيَا (And they are happy with the worldly life - 13:26). But in some verses Farah is allowed, rather in a way it is declared as desirable. For example in verses, يَوْمَئِذٍ يَفْرَ‌حُ الْمُؤْمِنُونَ (And on that day the believers will rejoice - 30:4) and فَبِذَٰلِكَ فَلْيَفْرَ‌حُوا (with these they should rejoice - 10:58). All these verses put together give us the guideline that Farah is contemptible and is not allowed when it reaches the level of arrogance and boasting. Thus one gets to a point where he regards the attainment of pleasure as his own personal achievement, and not a gift and favour from Allah Ta’ ala. But if the happiness and pleasure does not get to that position, then it is not disallowed; rather in a way it is desirable. In such a situation happiness would be to express the gratitude to Allah Ta’ ala.
 
+## AI Translation
+
+Indeed, Korah was from the people of Moses, but he behaved arrogantly towards them. We had granted him such treasures that even their keys would burden a group of strong men. Some of his people advised him, “Do not be prideful! Surely Allah does not like the prideful.
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, Qarun was of Musa's people, but he behaved arrogantly towards them. Normally the keys of the locks are light, but because of their large number, their weight had multiplied so much that it was not possible even for a group of strong persons to lift them all.
+
+**Classical tafsir:** Ibn Kathir notes: Normally the keys of the locks are light, but because of their large number, their weight had multiplied so much that it was not possible even for a group of strong persons to lift them all.
 ## Personal Reflections
 
 

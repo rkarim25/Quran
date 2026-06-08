@@ -94,6 +94,15 @@ This is the end of the Tafsir of Surat Al-Mursalat, and all praise and thanks ar
 
 كُلُوا وَتَمَتَّعُوا قَلِيلًا إِنَّكُم مُّجْرِ‌مُونَ ("Eat and drink for a while! You are guilty ones...77:46) This verse addresses the infidels through the Holy Prophet ﷺ . They may eat and drink and enjoy themselves in this world, but the span is short, and then there will be nothing but punishment for them. [ Abu Hayyan ].
 
+## AI Translation
+
+Woe that Day to those who deny!
+
+## AI Tafsir
+
+**What this ayah teaches:** Verily, you are criminals (46)Woe that Day to the deniers (47)And when it is said to them: "Bow down yourself!" They bow not down (48)Woe that Day to the deniers (49)Then in what statement after this will they believe .
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

@@ -74,6 +74,15 @@ Torah is the book which was given to Sayyidna Musa (علیہ السلام)
 
 In the language of the Holy Qur'an, al-Furgan الفرقان is a term signifying something which separates truth from falsehood or distinguishes the one from the other. In the present verse, it refers either to (a) the injunctions of the Shari` ah which are to be found in the Torah, for the Shari` ah resolves all the differences that may arise with regard to the doctrines or the practice of good deeds; or to (b) miracles which decide between a true or a false claim in a palpable manner; or even to (c) the Torah itself which has the twin qualities of being a Book of Allah and of being an instrument for separating truth from falsehood.
 
+## AI Translation
+
+And when We gave Moses the Scripture and the Furqan — the criterion that separates truth from falsehood — so you might be guided.
+
+## AI Tafsir
+
+**What this ayah teaches:** And (remember) when We appointed for Musa (Moses) forty nights, and (in his absence) you took the calf (for worship), and you were Zalimun (polytheists and wrongdoers)(51)Then after that We forgave you so that you might be grateful (52)And (remember) when We gave Musa the Scripture (the Tawrah)) and the criterion (of right and wrong) so that you may be guided aright .
+
+**Classical tafsir:** Ibn Kathir notes: And (remember) when We appointed for Musa (Moses) forty nights, and (in his absence) you took the calf (for worship), and you were Zalimun (polytheists and wrongdoers)(51)Then after that We forgave you so that you might be grateful (52)And (remember) when We gave Musa the Scriptu…
 ## Personal Reflections
 
 

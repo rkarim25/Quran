@@ -149,6 +149,15 @@ Commentary
 
 Qurtubi also thinks that this is the best interpretation of this verse. There are some others who are of the view that the word سَمَاء (sky) occurring in this verse means the ceiling of one's house and the verse means that a person who entertains hostile feelings towards Islam and the Holy Prophet ﷺ must realize that he can do them no harm. Hence the best thing for him to do is to hang himself from the ceiling out of sheer mortification. (Mazhari and others).
 
+## AI Translation
+
+Whoever thinks that Allah will not help His Prophet in this dunya and the Akhirah, let them stretch out a rope to the ceiling and strangle themselves, then let them see if this plan will do away with the cause of their rage.
+
+## AI Tafsir
+
+**What this ayah teaches:** Qurtubi also thinks that this is the best interpretation of this verse.
+
+**Classical tafsir:** Ibn Kathir notes: Because of His wisdom, mercy, justice, knowledge, dominion and might, no one can overturn His ruling, and He is swift in bringing to account.
 ## Personal Reflections
 
 

@@ -133,6 +133,17 @@ Then Allah denounces the idolators for fabricating lies and worshipping others i
 
 مِنَ الَّذِينَ فَرَّ‌قُوا دِينَهُمْ وَكَانُوا شِيَعًا (Among those who split up religion and became sects - 30:32) that is, these disbelievers are those who have created a difference between Natural Faith and the true religion, or they have alienated themselves from the Natural Faith, as a result of which they are divided into different sects. شِيَعًا :Shiya'an is the plural of شِیعۃ shi` ah. A group of people following a leader is called shi ah. The fact is that the Natural Faith was based on the Oneness of Allah, by following which the entire human kind should have been one solid unit and one party. But it so happened that people split out from this unity and started following the personal views of their own leaders. Since the personal views and opinions of different people may always vary from person to person, different groups of people invented their own beliefs and religion. As a consequence, people were divided into various groups and sects, and the Shaitan made them believe that they were the only people on the right path كُلُّ حِزْبٍ بِمَا لَدَيْهِمْ فَرِ‌حُونَ (Each group is happy with what it has before it - 30:32). That is, each group is happy and contended in its own beliefs and declare others being wrong, although they all are astray and treading the wrong path.
 
+## AI Translation
+
+If We give people a taste of mercy, they grow proud. If evil afflicts them for what their hands did, they fall into despair.
+
+## AI Tafsir
+
+**Context:** And when harm touches men, they cry sincerely only to their Lord, turning to Him in repentance; but when He gives them a taste of His mercy, behold, a party of them associates partners in worship with their Lord (33)So a…
+
+**What this ayah teaches:** A group of people following a leader is called shi ah.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

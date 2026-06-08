@@ -134,6 +134,15 @@ When the people of Sayyidna Shu'aib (علیہ السلام) told him: Had you be
 
 As for the return of ` the rest of believers in Sayyidna Shu'aib (علیہ السلام) to the fold of their old faith' is concerned, it is something which can be understood, for all of them were a part of the faith and way of the disbelievers. It was only later that they had embraced Islam. But, the case of Sayyidna Shu'aib (علیہ السلام) was different. He had never followed their false faith and way even for a day - nor can a prophet of Allah Ta` ala ever follow a faith which is counter to pure monotheism. Why then would they be asking him to return to their faith? Perhaps, it was because Sayyidna Shu'aib (علیہ السلام) - before prophethood was bestowed on him - would maintain silence over their false sayings and doings and continued living among the people as one of them. Because of this, his disbelieving people took Sayyidna Shu'aib (علیہ السلام) too as one of the rest, a fellow-traveller and votary of their faith. It was only after he gave his call of true 'Iman that they discovered that his faith or religion was different from their own. Then, this led them to conclude that he had turned away from their old faith. About their warning that he must return to their old faith, Sayyidna Shu'aib (علیہ السلام) said: أَوَلَوْ كُنَّا كَارِ‌هِي . It means: Are you trying to say that we should return to the fold of your faith despite that we do not like it and consider it to be false? This is a manner of saying that it can never be.
 
+## AI Translation
+
+The arrogant chiefs of his people threatened, “O Shu’aib! We will certainly expel you and your fellow those who have iman from our land, unless you return to our faith.” He replied, “Even if we hate it?
+
+## AI Tafsir
+
+**What this ayah teaches:** Not convinced by his answer, the arrogant chiefs of those people said what is always said by oppressive practitioners of arrogance.
+
+**Classical tafsir:** Ibn Kathir notes: Allah describes the way the those who reject the truth answered His Prophet Shu'ayb and those who believed in him,by threatening them with expulsion from their village,or with forceful reversion to the those who reject the truth's religion.
 ## Personal Reflections
 
 

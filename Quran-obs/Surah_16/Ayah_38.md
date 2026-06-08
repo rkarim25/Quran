@@ -146,6 +146,15 @@ Has a Rasul of Allah appeared in India and Pakistan too?
 
 From verse 36 in the present Surah: وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّ‌سُولًا (And We did raise a messenger among every people), as well as from verse 24 of Surah Fatir: وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ‌ (And there is no group of people among whom there has not been a warner - 35:24), it outwardly appears that messen-gers may have also been sent to areas now known as India and Pakistan - whether residents of the area, or located in another country whose deputies or emissaries had reached there. Then, there is the verse of Surah Al-Qasas: لِتُنذِرَ‌ قَوْمًا مَّا أَتَاهُم مِّن نَّذِيرٍ‌ (so that you may warn a people unto whom came no warner - 28:46). The sense released by the verse is that no warner had come before him to the people unto whom the Holy Prophet ﷺ was sent. This can be answered by saying that this obviously refers to the people of Arabia who became the first addressees of the prophetic mission of Sayyidna Muhammad al-Mustafa ﷺ - the fact being that no prophet since Sayyidna Ismail (علیہ السلام) had appeared among them. Therefore, the title given to these people in the Holy Qur'an was "Ummiyyin" (the unlettered ones). This does not necessarily imply that no prophet came before him in the rest of the world as well. Allah knows best.
 
+## AI Translation
+
+They swear by Allah their most solemn oaths that Allah will never raise the dead to life. Yes He will! It is a true promise binding on Him, but most people do not know.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Resurrection after Death is true, there is Wisdom behind it, and it is easy for Allah Allah tells us that the idolators swore by Allah their strongest oaths, meaning that they made oaths swore fervently that Allah would not resurrect the one who died.
+
+**Classical tafsir:** Ibn Kathir notes: Yes, (He will raise them up), a promise (binding) upon Him in truth, but most of mankind know not (38)In order that He may make clear to them what they differed over, and so that those who disbelieved may know that they were liars (39)Verily, Our Word to a thing when We intend it…
 ## Personal Reflections
 
 

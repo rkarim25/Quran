@@ -223,6 +223,17 @@ The lexical item اشراط "ashrat" occurring in this passage means "signs". Th
 
 Abu Hurayrah ؓ reports Allah's Messenger ﷺ as saying: "When the spoils of war are taken as personal wealth, property given in trust is treated as spoil, zakah is treated as a fine, learning is acquired for other than religious purpose, a man obeys his wife and is undutiful towards his mother, brings his friend near and drives his father far off, voices are raised in the mosques, the most wicked member of a tribe becomes its ruler, the most worthless member of a people becomes its leader, a man is honored through fear of the evil he may do, singing-girls and stringed-instruments make their appearance, wines are drunk, and the last members of this community curse the earlier ones, look at that time for a violent wind, an earthquake, being swallowed up by the earth, metamorphosis, pelting rain, and signs following one another like bits of a necklace falling one after the other when its string is cut. (Tirmidhi)
 
+## AI Translation
+
+Some of them listen to you, but when they leave they say mockingly to those gifted with knowledge, 'What did he just say?' These are people whose hearts Allah has sealed, and who follow only their desires.
+
+## AI Tafsir
+
+**What this ayah teaches:** But already there have come (some of) its portents; and when it (actually) is on them, how can they benefit then by their reminder (18)So know that La ilaha illallah and ask forgiveness for your sin, and also for (the sin of) believing men and women.
+
+**Classical tafsir:** Ibn Kathir notes: The Description of the Situation of the Hypocrites and the Command to maintain Tawhid and seek Forgiveness Allah describes the hypocrites' stupidity and limited understanding.
+
+**From the Sunnah:** They used to sit before Allah's Messenger ﷺ and listen to his words without understanding anything. Allah's Messenger ﷺ has most clearly informed about the signs and indications of the Hour, as we have discussed elsewhere.
 ## Personal Reflections
 
 

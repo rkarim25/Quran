@@ -113,6 +113,15 @@ Then Allah says,
 
 هَـٰذَا يَوْمُ لَا يَنطِقُونَ وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُ‌ونَ (This is a day when they will not speak, nor will they be allowed to offer excuses....77:35, 36) In other words, this is the Day in which they will not be able to talk, nor will they be permitted to offer pleas for their misdeeds. However, other verses of the Qur'an inform us that they will speak and will be permitted to offer excuses. There is no discrepancy between the two verses, because there will be various stages on the Plain of Gathering (Mahshar) through which people will have to pass. Sometimes they will pass through a stage where it would be forbidden for them to speak or offer excuses; and at another stage they will be permitted. [ Ruh ].
 
+## AI Translation
+
+If you have any scheme to save yourselves, use it against Me now.'
+
+## AI Tafsir
+
+**What this ayah teaches:** So if you have a plot, use it against Me!) This is an address from the Creator to His servants.
+
+**Classical tafsir:** Ibn Kathir notes: There is no discrepancy between the two verses, because there will be various stages on the Plain of Gathering (Mahshar) through which people will have to pass.
 ## Personal Reflections
 
 

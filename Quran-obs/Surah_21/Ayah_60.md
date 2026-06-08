@@ -113,6 +113,17 @@ Muhammad bin Sirin said, "When Abu Hurayrah narrated this Hadith, he said, 'This
 
 لَعَلَّهُمْ إِلَيْهِ يَرْ‌جِعُونَ (So that they may come back to him - 21:58) There can be three explanations to this expression. One, if the object of إِلَيْهِ (to him) is Sayyidna Ibrahim (علیہ السلام) then the meaning would be that he himself wanted the unbelievers to ask him why he had broken the idols which would give him a chance to sneer at them that what they worshipped could not even look after themselves. The second meaning of إِلَيْهِ يَرْ‌جِعُونَ could be that he destroyed the idols in the hope that when the unbelievers saw them in pieces it might convince them of the futility of idol-worship and cause their return toward the religion of Sayyidna Ibrahim (علیہ السلام) . The third explanation is given by Kalbi. He says that the object of إِلَيْهِ is کَبِیر (the big). In that case the explanation would be that when the unbelievers, on their return saw the idols in pieces except the big one, who had a hammer resting on his shoulder, they might turn towards it for an explanation and getting no response from it they would see for themselves the helplessness of the idol.
 
+## AI Translation
+
+Some said, “We heard a young man, called Abraham, speaking ill of them.”
+
+## AI Tafsir
+
+**What this ayah teaches:** This was Ibrahim's ultimate purpose, so that he could tell this great gathering about the extent of their ignorance and how foolish they were to worship idols which could not defend themselves from harm or help themselves, so how could they ask them for help?
+
+**Classical tafsir:** Ibn Kathir notes: This was Ibrahim's ultimate purpose, so that he could tell this great gathering about the extent of their ignorance and how foolish they were to worship idols which could not defend themselves from harm or help themselves, so how could they ask them for help?
+
+**From the Sunnah:** In the Two Sahihs it was recorded from Abu Hurayrah that the Messenger of Allah ﷺ said:
 ## Personal Reflections
 
 

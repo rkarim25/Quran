@@ -168,6 +168,17 @@ Another answer is that the distinction which Shahids have over others is apparen
 
 By the words, " لَّا تَشْعُرُ‌ونَ ": "you perceive not", the Holy Qur'an asserts the fact that the life in Barzakh برزخ transcends all sensory perceptions.
 
+## AI Translation
+
+We will surely test you with something of fear, hunger, loss of wealth, lives, and crops. Give good news to those who endure patiently —
+
+## AI Tafsir
+
+**What this ayah teaches:** Reward me for my loss and give me what is better than it,' but Allah will do just that.) Umm Salamah said: So I memorized these words.
+
+**Classical tafsir:** Ibn Kathir notes: It is not because I do not want you, but I am very jealous and I fear that you might experience some wrong mannerism from me for which Allah would punish me.
+
+**From the Sunnah:** For instance, Imam Ahmad reported that Umm Salamah narrated: Once, Abu Salamah came back after he was with Allah's Messenger ﷺ and said: I heard Allah's Messenger ﷺ recite a statement that made me delighted. (Musnad Ahmad) She said, "I have surrendered to Allah's Messenger." Allah's Messenger ﷺ married her and Umm Salamah said later, "Allah compensated me with who is better than Abu Salamah: Allah's Messenger ﷺ." Muslim reported a shorter version of this Hadith. (Sahih Muslim)
 ## Personal Reflections
 
 

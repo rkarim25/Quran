@@ -183,6 +183,17 @@ The injunction on hijab for women has already appeared earlier in detail in two 
 
 In the next verse the third exemption is granted on the basis of a woman's personal situation. If a woman has grown so old that no one would have any (sexual) desire towards her, nor is she marriageable, for such a woman concession in hijab is allowed in that even strangers (non-Mahrams) are treated like mahrams for her. She is not required to cover those parts of her body before non-Mahrams which are not required to be covered before mahrams. Hence, it is said وَالْقَوَاعِدُ مِنَ النِّسَاءِ اللَّاتِي (And those old women who have no hope for marriage - 60). The explanation of this verse is already given above. Although very old women are allowed to uncover those parts of their body before non-Mahrams which are not required to be covered before mahrams, yet this exemption is allowed with the condition that they do so without applying any makeup or adornment. The other thing said in the last is وَأَن يَسْتَعْفِفْنَ خَيْرٌ‌ لَّهُنَّ (60) that is, it is better for them if they avoid going before non-Mahrams altogether.
 
+## AI Translation
+
+As for elderly women past the age of marriage, there is no blame on them if they take off their outer garments, without revealing their adornments. But it is better for them if they avoid this altogether. And Allah is All-Hearing, All-Knowing.
+
+## AI Tafsir
+
+**What this ayah teaches:** And Allah is All-Knowing, All-Wise (59)And the Qawa'id among women who do not hope for marriage, it is no sin on them if they discard their (outer) clothing in such a way as not to show their adornment.
+
+**Classical tafsir:** Ibn Kathir notes: Abu Dawud recorded that Ibn 'Abbas said: "Most of the people do not follow it, the Ayah that speaks about asking permission, but I tell my servant woman to seek permission to enter." Abu Dawud said: 'Ata' also narrated that Ibn 'Abbas commanded this.
+
+**From the Sunnah:** that Ibn 'Abbas said: "Most of the people do not follow it, the Ayah that speaks about asking permission, but I tell my servant woman to seek permission to enter." Abu Dawud said: 'Ata' also narrated that Ibn 'Abbas commanded this. (Sunan Abi Dawud)
 ## Personal Reflections
 
 

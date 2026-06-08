@@ -106,6 +106,15 @@ In the last verse: إِن تَدْعُوهُمْ لَا يَسْمَعُوا د�
 
 The issue of the ability of the dead to hear سماع الموتی sama`-ulmawta) has appeared earlier. The present verse neither confirms nor rejects it. Arguments and proofs relating to this issue are different. They have already been mentioned in details under the commentary on Surah Ar-Rum [ 30] (Ma` ariful-Qur an, Volume VI).
 
+## AI Translation
+
+O humanity, it is you who need Allah, while Allah alone is Self-Sufficient, Praiseworthy.
+
+## AI Tafsir
+
+**What this ayah teaches:** Mankind is in need of Allah, and each Person will carry His own Burdens on the Day of Resurrection Allah tells us that He has no need of anyone or anything else, but all of creation is in need of Him and is in a position of humility before Him.
+
+**Classical tafsir:** Ibn Kathir notes: To explain, it can be said that if you call those idols or some prophets or angels you take as Allah and worship them asking them to help you in distress, they will, first of all, be unable to listen to you because idols do not have the ability to listen.
 ## Personal Reflections
 
 

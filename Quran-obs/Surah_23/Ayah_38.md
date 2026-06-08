@@ -114,6 +114,17 @@ There is nothing but our worldly life. We die and we live and we are not to be r
 
 This is the argument which the unbelievers advance when denying belief in the Day of Judgment. Those who deny it publicly are confirmed infidels, but it is very unfortunate that many Muslims also act in a manner that the same denial can be felt from their deeds and actions. They seem to be totally oblivious of the coming in of the Hereafter. May Allah Ta'ala grant them faith to release themselves from the clutches of this belief of theirs.
 
+## AI Translation
+
+He is no more than a man who has fabricated a lie about Allah, and we will never believe in him.”
+
+## AI Tafsir
+
+**What this ayah teaches:** They did not believe in the meeting with Allah on the Day of Resurrection and they denied the idea of physical resurrection. Those who deny it publicly are confirmed infidels, but it is very unfortunate that many Muslims also act in a manner that the same denial can be felt from their deeds and actions.
+
+**Classical tafsir:** Ibn Kathir notes: It was said that this was 'Ad, because they were the successors of the people of Nuh.
+
+**From the Sunnah:** Those who deny it publicly are confirmed infidels, but it is very unfortunate that many Muslims also act in a manner that the same denial can be felt from their deeds and actions.
 ## Personal Reflections
 
 

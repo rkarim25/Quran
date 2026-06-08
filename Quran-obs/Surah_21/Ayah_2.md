@@ -148,6 +148,17 @@ None of the peoples to whom Messengers were sent were given a sign at the hands 
 
 مَا يَأْتِيهِم مِّن ذِكْرٍ‌ مِّن رَّ‌بِّهِم مُّحْدَثٍ إِلَّا اسْتَمَعُوهُ وَهُمْ يَلْعَبُونَ ﴿2﴾ لَاهِيَةً قُلُوبُهُمْ (No new message comes to them from their Lord, but they listen to it in a state of playing, their hearts paying no heed. 21:2, 3) This verse describes the state of those who disregard the punishment in the grave and in the Hereafter and do not prepare themselves to counter it with good deeds. The verse further describes their practice of making light of new Qur'anic verses when they are recited before them. They are totally oblivious of the fear of God and the Hereafter. The verse can be explained in two other ways. One, that they keep themselves engaged in their own amusement and take no notice of Qur'anic verses when they are recited before them and two, that they redicule the Qur'anic verses themselves.
 
+## AI Translation
+
+Whatever new reminder comes to them from their Rabb — the One who creates, owns, nurtures, and sustains, they only listen to it jokingly,.
+
+## AI Tafsir
+
+**What this ayah teaches:** 21:2, 3) This verse describes the state of those who disregard the punishment in the grave and in the Hereafter and do not prepare themselves to counter it with good deeds. Comes not unto them an admonition from their Lord as a recent revelation but they listen to it while they play.)(3.
+
+**Classical tafsir:** Ibn Kathir notes: 21:2, 3) This verse describes the state of those who disregard the punishment in the grave and in the Hereafter and do not prepare themselves to counter it with good deeds.
+
+**From the Sunnah:** 'Abdullah said, "Banu Isra'il, Al-Kahf, Maryam, Ta Ha and Al-Anbiya' - they are among the earliest and most beautiful Surahs and they are my treasure." (Sahih al-Bukhari) that Abu Sa'id reported from the Prophet ﷺ: (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

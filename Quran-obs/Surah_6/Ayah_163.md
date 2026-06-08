@@ -175,6 +175,19 @@ After that it was said: وَبِذَٰلِكَ أُمِرْ‌تُ وَأَنَ�
 
 There could be a hint in the expression ` first Muslim,' towards the saying that the first to be created was the blessed Nur (light) of the Holy Prophet ﷺ ، after which the heavens and the earth and the rest of creation came into existence - as it appears in a Hadith with the words: اَوَّل مَا خَلَقَ اللہُ تعالیٰ نُورِی (Ruh a1-Ma` ani).
 
+## AI Translation
+
+He has no partner. So I am commanded, and so I am the first to submit.”
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me.")[21:25] Allah informed us that Nuh said to his people,
+
+**What this ayah teaches:** This is a sound meaning, because all Prophets before our Prophet ﷺ were calling to Islam, which commands worshipping Allah alone without partners. Therefore, the religion, representing the one father, is one; worshipping Allah alone without partners, even though the laws which are like the different mothers in this parable, are different.
+
+**Classical tafsir:** Ibn Kathir notes: This is a sound meaning, because all Prophets before our Prophet ﷺ were calling to Islam, which commands worshipping Allah alone without partners.
+
+**From the Sunnah:** And of this I have been commanded, and I am the first of the Muslims.
 ## Personal Reflections
 
 

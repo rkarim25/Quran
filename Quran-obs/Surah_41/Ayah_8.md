@@ -124,6 +124,17 @@ Mujahid and others said, "It will never be cut off or decrease." This is like th
 
 لَهُمْ أَجْرٌ‌ غَيْرُ‌ مَمْنُونٍ (For them there is a reward that will never be interrupted 41:8) The word mamnun used here means something interrupted. The sense is that the reward of those people who are firm in their faith and regular in their good deeds would be continuous and eternal. Some exegetes have explained the intention of the verse that if a Muslim, despite being regular in religious duties, could not perform them at any time due to illness, travel or some other reason, the reward for the good deeds is not cut off. Rather, Allah Almighty orders the angels to keep on crediting those good deeds to his account which he used to carry out regularly in normal conditions, but could not do them due to illness or some other reason. Ahadith on this subject are narrated in Sahih of Bukhari as reported by Sayyidna Abu Musa Ash'ari and in Sharh-us-Sunnah of Baghawi by Sayyidna Ibn ` Umar and by Sayyidna Anas ؓ and in Razin by Sayyidna ` Abdullah Ibn Masud ؓ . (Mazhari)
 
+## AI Translation
+
+But those who believe and do good will have a reward that never ends.
+
+## AI Tafsir
+
+**Context:** Say: "I am only a human being like you. It is revealed to me that your Allah is One Allah, therefore take straight path to Him and obedience to Him, and seek forgiveness of Him.
+
+**What this ayah teaches:** Some exegetes have explained the intention of the verse that if a Muslim, despite being regular in religious duties, could not perform them at any time due to illness, travel or some other reason, the reward for the good deeds is not cut off.
+
+**Classical tafsir:** Ibn Kathir notes: Qatadah said, "They withheld the Zakah of their wealth." This is the apparent meaning according to many of the scholars of Tafsir, and this is the view favored by Ibn Jarir.
 ## Personal Reflections
 
 

@@ -92,6 +92,15 @@ Certainly great is the majesty of Allah Ta'ala. When He seizes a people in punis
 
 Allah Ta` ala has, in His great design, made this world of ours an open gallery of lessons full of the countless exhibits of His perfect power and eloquent wisdom. He made His friend Sayyidna Ibrahim (علیہ السلام) come out as a prophet from the home of Azar, the idol-worshipper. In the home of the highly revered prophet, Sayyidna Lut (علیہ السلام) there was that wife of his who worked in league with disbelievers and opposed her prophet husband. When these honored guests in the form of handsome young men came to stay at the home of Sayyidna Lut (علیہ السلام) his wife passed on the information to perverted hoods from these people telling them about the kind of guests they had in their home on that day. (Qurtubi, Mazhari)
 
+## AI Translation
+
+Then after the fear had left Abraham, and the good news had reached him, he began to plead with Us for the people of Lot.
+
+## AI Tafsir
+
+**What this ayah teaches:** That a man would pollute his honor and dignity with another man is a curse the fallout from which is far more injurious than common forni-cation.
+
+**Classical tafsir:** Ibn Kathir notes: Indeed, the commandment of your Lord has gone forth.) This means the decree was settled concerning them and the Word was already given that they should be destroyed.
 ## Personal Reflections
 
 

@@ -128,6 +128,19 @@ Qatadah said, "Al-Hasan used to say, 'How evil is that all that some people have
 
 إِنَّهُ لَقُرْ‌آنٌ كَرِ‌يمٌ فِي كِتَابٍ مَّكْنُونٍ لَّا يَمَسُّهُ إِلَّا الْمُطَهَّرُ‌ونَ (It is surely the Noble Qur'an (recorded already) in a protected book [ i.e. the Preserved Tablet ] that is not touched except by the purified ones [ the angels ]....77-79) Verses [ 75-76] constituted oath and the current set of verses is the subject of the oath jawab-ul-qasam ]. The Qur'an is a noble and glorious Book. The verse refutes the assumption of the pagans that this Book has been forged by a human being or that [ God forbid!] it is a speech inspired by the devil.
 
+## AI Translation
+
+that this is a noble Qur'an,
+
+## AI Tafsir
+
+**Context:** (That (this) is indeed an honorable recitation.) means, verily, this Qur'an that was revealed to Muhammad ﷺ is a Glorious Book,
+
+**What this ayah teaches:** Allah swears to the Greatness of the Qur'an The usage of La (in Fala) is not an extra character without meaning, as some of the scholars of Tafsir say.
+
+**Classical tafsir:** Ibn Kathir notes: I swear by the Mawaqi' of the stars.) Mujahid said, "The setting positions of the stars in the sky," and he said that it refers to the rising and setting positions.
+
+**From the Sunnah:** Allah's Messenger ﷺ did not touch any woman's hand at all. Sharik reported from Hakim, that is Ibn Jubayr, from Sa'id bin Jubayr, from Ibn 'Abbas that about: (al-Mustadrak)
 ## Personal Reflections
 
 

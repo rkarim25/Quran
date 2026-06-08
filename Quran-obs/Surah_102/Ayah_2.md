@@ -190,6 +190,19 @@ Imam Bukhari records from Sayyidna Anas ؓ عنہ that the Messenger of Allah �
 
 Sayyidna 'Ubayy Ibn Ka` b ؓ ، referring to the Tradition quoted above, says, "We used to think that this was a part of the Qur'an until the first verse of Surah At-Takathur was revealed." It seems that the Holy Prophet ﷺ recited the verse and interpreted it in his own words. As a result, some of the Companions were under the impression that the Prophetic words were part of the Qur'an. Later on, when the Surah was recited in its entirety, it did not contain the Prophetic words. This made them realize that the Prophetic words were actually of explanatory nature, and not part of the Qur'an.
 
+## AI Translation
+
+You keep accumulating as though death were a hypothetical for other people.
+
+## AI Tafsir
+
+**Context:** In Sahih Al-Bukhari, it is recorded in the Book of Ar-Riqaq (Narrations that soften the Heart) from Anas bin Malik, who reported that Ubayy bin Ka'b said, "We used to think that this was a part of the Qur'an until the Ay…
+
+**What this ayah teaches:** This delays you until death comes to you and you visit the graves, thus becoming its inhabitants. The mutual increase diverts you,)(2.
+
+**Classical tafsir:** Ibn Kathir notes: The mutual increase diverts you,)(2.
+
+**From the Sunnah:** this Hadith. (Sahih Muslim, Jami' at-Tirmidhi) This Hadith has also been recorded by Muslim, At-Tirmidhi and An-Nasa'i. (Sahih Muslim, Musnad Ahmad)
 ## Personal Reflections
 
 

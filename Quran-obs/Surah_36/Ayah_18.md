@@ -99,6 +99,15 @@ They (people) said: "For us, we see an evil omen from you; if you cease not, we 
 
 The word: تَطَيَّرْ‌ (tatayyur) in verse 18: قَالُوا إِنَّا تَطَيَّرْ‌نَا بِكُمْ (We take you as a bad omen for us.) means the seeing of an evil omen in someone or taking someone to be wretched. It is being said here that the people of this town did not listen to these blessed souls sent to them and chided them as being wretched or carriers of misfortune. It appears in some narrations that a famine had overtaken this town, because the people of the town had curtly turned down the good counsel of the messengers. That is why the people of the town called them wretched, or maybe they were hurt in some other way. So, as is the common habit of disbelievers, they would hasten to attribute any distress that afflicts them to prophets and the righteous who are nothing but their guides and benefactors. Hence, in this case too, they lost no time and attributed their own wretchedness to these blessed elders. This happens to be similar to what has been said in the Qur'an about the people of Sayyidna Musa (علیہ السلام) فَإِذَا جَاءَتْهُمُ الْحَسَنَةُ قَالُوا لَنَا هَـٰذِهِ وَإِن تُصِبْهُمْ سَيِّئَةٌ يَطَّيَّرُ‌وا بِمُوسَىٰ وَمَن مَّعَهُ (So when something good come to them they said, "This is our right". And if they suffered from something evil, they ascribed it as an ill omen to Musa and those with him - 7:131). Similarly, the people of Sayyidna Salih (علیہ السلام) said to him: اطَّيَّرْ‌نَا بِكَ وَبِمَن مَّعَكَ (They said, "we regard you and those with you as a sign of bad omen". - 27:47).
 
+## AI Translation
+
+The people replied, "We definitely see you as a bad omen for us. If you do not desist, we will certainly stone you and you will be touched with a painful punishment from us."
+
+## AI Tafsir
+
+**What this ayah teaches:** Nay, but you are a people mischievous.) means, 'because of us, because we admonished you and told you to worship Allah Alone and with all sincerity, and in return you said what you said and threatened us. It appears in some narrations that a famine had overtaken this town, because the people of the town had curtly turned down the good counsel of the messengers.
+
+**Classical tafsir:** Ibn Kathir notes: Nay, but you are a people mischievous.) means, 'because of us, because we admonished you and told you to worship Allah Alone and with all sincerity, and in return you said what you said and threatened us.
 ## Personal Reflections
 
 

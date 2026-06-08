@@ -209,6 +209,17 @@ Since this claim of the Jews that Allah had taken a pledge from them was false, 
 
 Let no one have any doubt here despite the fact that while this claim of the Jews was absolutely false, may be, if this miracle did come to pass at the hand of the Holy Prophet ﷺ chances were that they would probably have come to believe. Such a doubt is unfounded 'because Allah Almighty knew that these people were saying such things simply out of hostility and obstinacy. Thus, even if the miracle they demanded came to pass, they would have still not believed.
 
+## AI Translation
+
+Those who say, “Allah has commanded us not to believe in any messenger unless he brings us an offering to be consumed by fire.” Say, “Other prophets did in fact come to you before me with clear proofs and what you demanded—why then did you kill them, if what you say is true?”
+
+## AI Tafsir
+
+**What this ayah teaches:** They, not resting at that, became audacious enough to fabricate lies against Allah Almighty claiming that 'He has taken pledge from them to the effect that they are not to believe in a person who is unable to cause the miracle of the coming of a heavenly fire which burns the charitable offerings.
+
+**Classical tafsir:** Ibn Kathir notes: Such a doubt is unfounded 'because Allah Almighty knew that these people were saying such things simply out of hostility and obstinacy.
+
+**From the Sunnah:** This Hadith was collected by Ibn Marduwyah and Ibn Abi Hatim. They were given to the poor and needy among Muslims.
 ## Personal Reflections
 
 

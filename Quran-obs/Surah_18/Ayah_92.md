@@ -80,6 +80,15 @@ The Holy Qur'an does describe this state of the people Dhul-Qarnain found living
 
 However, it is obvious that these people too were infidels and Dhul-Qarnain handled them the way he had handled the people he had found in the West as mentioned earlier. But, describing it again at this place was not considered necessary since finding it out is also possible on the analogy of the previous event. (As in al-Bahr al-Muhit from Ibn Atiyyah)
 
+## AI Translation
+
+Then he travelled a third course.
+
+## AI Tafsir
+
+**What this ayah teaches:** Shall we then pay you a tribute in order that you might erect a barrier between us and them?
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

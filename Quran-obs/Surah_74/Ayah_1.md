@@ -166,6 +166,17 @@ The Holy Prophet is addressed in this Surah as: يٰٓاَيُّهَا الْم�
 
 (0 you, enveloped in a mantle...74:1) The word al-Muddaththir is derived from dithar which refers to a 'thick, warm over-garment [ such as a cloak or mantle ] which a person wears in winter over his other clothes in order to protect himself from cold.' The form of address is affectionate and endearing as was explained under Al-Muzzammil in the preceding Surah. The two forms of address, al-Muzzammil and al-Muddaththir, are near-synonyms. Ruh-ul-Ma ani cites a report from Jabir Ibn Zaid who says that Al-Muddaththir was revealed after Al-Muzzammil. Some scholars attribute this narration to Sayyidna Ibn ` Abbas w as well. However, according to the narration previously reported from Sahihain, it is clear that the first Surah to be revealed [ after the temporary cessation ] was Al-Muddaththir. If Al-Muzzammil was revealed before this, Sayyidna Jabir Ibn ` Abdullah [ the narrator of the Hadith ] would have narrated it. Clearly, Al-Muzzammil and Al-Muddaththir, are near-synonyms. Therefore, it is very likely that the two Surahs might have been revealed in connection with the same incident - when the Holy Prophet, whilst walking, heard a voice from the sky and saw Jibra'il Amin sitting on a chair between the sky and the earth, and then went to the house and wrapped himself in a mantle. This at least confirms the point that the initial verses of the two Surahs were among the first verses to be revealed after the temporary break in the revelation. It is however not clear as to which set of the verses was revealed first, and which was revealed subsequently. Authentic narratives confirm that the initial verses of Surah Iqra' were first to be revealed. Al-Muzzammil and Al-Muddaththir were though revealed approximately the same time in connection with the same incident, there is a difference between the two: The injunctions given at the beginning of Al-Muzzammil are related to the Holy Prophet's personal purification and perfection, and in Al-Muddaththir the injunctions are related to preaching, propagation and human reform.
 
+## AI Translation
+
+O you wrapped in your cloak—
+
+## AI Tafsir
+
+**Context:** (0 you, enveloped in a mantle...74:1) The word al-Muddaththir is derived from dithar which refers to a 'thick, warm over-garment [ such as a cloak or mantle ] which a person wears in winter over his other clothes in orde…
+
+**What this ayah teaches:** Therefore, some of the scholars considered this Surah to be the first one in order of revelation. Therefore, it is very likely that the two Surahs might have been revealed in connection with the same incident - when the Holy Prophet, whilst walking, heard a voice from the sky and saw Jibra'il Amin sitting on a chair between the sky and the earth, and then went to the house and wrapped himself in a…
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, some of the scholars considered this Surah to be the first one in order of revelation.
 ## Personal Reflections
 
 

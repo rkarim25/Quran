@@ -123,6 +123,15 @@ Allah the Exalted said,
 
 وَالْمُؤْتَفِكَةَ أَهْوَىٰ (And He destroyed the overturned towns also,... 53:53) The word Mu'tafikah literally means mu'talifah (joined together). These were a few settlements adjacent to the city. Holy Prophet Lut (علیہ السلام) was sent to them. Because of disobedience and commission of shameful and unspeakable sins, their cities [ of Sodom and Gomorrah ] were turned upside down by Jibra'il (علیہ السلام) .
 
+## AI Translation
+
+and He overturned the overturned cities,
+
+## AI Tafsir
+
+**What this ayah teaches:** Allah turned their cities upside down over them and sent on them stones of Sijjil. 53:53) The word Mu'tafikah literally means mu'talifah (joined together).
+
+**Classical tafsir:** Ibn Kathir notes: 53:53) The word Mu'tafikah literally means mu'talifah (joined together).
 ## Personal Reflections
 
 

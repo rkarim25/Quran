@@ -343,6 +343,17 @@ After proclaiming basic Ihram prohibitions, the sentence: وَمَا تَفْع�
 
 The sentence that follows immediately: وَتَزَوَّدُوا فَإِنَّ خَيْرَ‌ الزَّادِ التَّقْوَىٰ : 'And take provisions along, for the merit of provision is to abstain (from asking) ' aims to correct those who leave their homes for Hajj and ` Umrah without adequate preparation claiming that they do so because they have trust in Allah. Obviously, they have to ask for help on their way, or worse still, they themselves go through privation and suffering and in the process, bother others as well. Hence, the instruction has been given that provisions needed for the proposed trip for Hajj should be taken along. This is not against tawakkul تَوکُّل or trust in Allah; it is rather, the very essence of tawakkul تَوکُّل ، which conveys the sense that one should first acquire and collect the means and resources provided by Allah Almighty to the best of one's capability and, then, place his trust (tawakkul تَوکُّل) in Allah. This is the exact explanation of tawakkul reported from the Holy Prophet ﷺ . Forsaking all efforts to acquire means of subsistence (tark al-asbab ترک الاسباب ) and calling it tawakkul is sheer ignorance.
 
+## AI Translation
+
+Hajj is in known months. Whoever commits to Hajj in them must avoid intimacy, foul speech, and quarrelling. Whatever good you do, Allah knows it. Take provisions — the best provision is taqwa. And be mindful of Me, O people of reason.
+
+## AI Tafsir
+
+**What this ayah teaches:** The Hajj (pilgrimage) is (in) the well-known months.
+
+**Classical tafsir:** Ibn Kathir notes: 'Ali bin Abu Talhah said that Ibn 'Abbas said, "Rafath means having sex with the wife, kissing, fondling and saying foul words to her, and similar acts." Ibn 'Abbas and Ibn 'Umar said that Rafath means to have sex with women. The word jidal' means an effort to upturn the adversary, therefore, a rough altercation or quarrel is known as jidal.
+
+**From the Sunnah:** Ibn Marduwyah related that Jabir narrated that the Prophet ﷺ said: Ash-Shafi'i and Al-Bayhaqi recorded this Hadith from Ibn Jurayj who related that Abu Az-Zubayr said that he heard Jabir bin 'Abdullah being asked, "Does one assume Ihram for Hajj before the months of the Hajj?" He said, "No." This narration is more reliable th…
 ## Personal Reflections
 
 

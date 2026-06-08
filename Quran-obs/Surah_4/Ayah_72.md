@@ -159,6 +159,19 @@ Allah then said,
 
 2. Seen outwardly, the words of the verse 72 (... وَإِنَّ مِنكُمْ ) seem to suggest that this too is addressed to the believers, although the characteristics described later on cannot be taken to be those of the believers. Therefore, al-Qurtubi says that they signify hypocrites. Since, they were the ones who used to claim being Muslims, at least outwardly. This is why they have been identified as a group from among the believers.
 
+## AI Translation
+
+There will be some among you who will lag behind so that if you face a disaster, they will say, “Allah has blessed us for not being there among them.”
+
+## AI Tafsir
+
+**Context:** (There is certainly among you he who would linger behind.) Mujahid and others said that this Ayah was revealed about the hypocrites. Muqatil bin Hayyan said that,
+
+**What this ayah teaches:** Take your precautions, and either go forth (on an expedition) in parties, or go forth all together (71)There is certainly among you he who would linger behind.
+
+**Classical tafsir:** Ibn Kathir notes: Because he considers this one of Allah's favors on him, unaware of the reward that he might have gained from enduring war or martyrdom, if he was killed.
+
+**From the Sunnah:** Since, they were the ones who used to claim being Muslims, at least outwardly.
 ## Personal Reflections
 
 

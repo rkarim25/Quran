@@ -154,6 +154,15 @@ Fifth sign of divine omnipotence
 
 Allah Ta’ ala shows the flash of lightning to people in which there is risk of its striking, thus destruction. At the same time, there is a hope for rain following the lightning. The rain does follow with His will and gives rise to numerous types of vegetation. At the end of the verse, it is said فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ (Surely in this there are signs for a people who understand - 30:24), because the mysteries of lightning and rain, and the resultant growth of vegetation can be understood by those with intellect.
 
+## AI Translation
+
+One of His signs: He shows you lightning, stirring hope and fear, and sends rain from the sky, reviving earth after death. In that are signs for people who understand.
+
+## AI Tafsir
+
+**What this ayah teaches:** Fifth sign of divine omnipotence Allah Ta’ ala shows the flash of lightning to people in which there is risk of its striking, thus destruction.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

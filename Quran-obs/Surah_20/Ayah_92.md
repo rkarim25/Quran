@@ -89,6 +89,15 @@ Differences between two prophets when the opinions of both could be right
 
 In this affair the considered opinion of Sayyidna Musa (علیہ السلام) ، by way of ijtihad was that in the situation as it took shape Sayyidna Harun (علیہ السلام) should have totally dissociated himself from the Bani Isra'il by removing himself and his followers from their company, and that by continuing to stay with them he had compromised his position. On the other hand Sayyidna Harun (علیہ السلام) felt, by way of ijtihad, that such an action would have caused a permanent split among the Bani Isra'il and divided them into factions, and since there was hope that they would see the error of their way when Sayyidna Musa (علیہ السلام) returned, he thought it wise to adopt a conciliatory attitude towards them. The purpose of both the prophets was a strict adherence to the commands of Allah and to ensure that the Bani Isra'il remained steadfast in the observance of the True Faith and in their belief in the Oneness of Allah. Where they differed, however, was the manner in which these objectives could be achieved whether to make a complete break with the dissidents or to bear with them in the hope those things would improve ultimately. Both these views have merit and it is not possible to pass a firm and final judgment on them. The differences among the jurists based on ijtihad are of a similar nature and those holding different opinions cannot be charged of having broken any religious laws. As regards Sayyidna Musa (علیہ السلام) seizing his brother by the hairs, it only shows his anger and frustration with the situation which had developed during his absence, but on hearing his explanation, he prayed to Allah to forgive them both.
 
+## AI Translation
+
+Moses scolded his brother, “O Aaron! What prevented you, when you saw them going astray,.
+
+## AI Tafsir
+
+**What this ayah teaches:** What happened between Musa and Harun after Musa returned Allah informs of what happened when Musa returned to his people and saw the great matter that had taken place among them. Then, he grabbed his brother Harun by his head and pulled him towards himself.
+
+**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
 
 

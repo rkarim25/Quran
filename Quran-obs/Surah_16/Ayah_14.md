@@ -156,6 +156,15 @@ The third benefit of the sea appears in: وَتَرَ‌ى الْفُلْكَ م
 
 The sense of the verse (14) is that Allah Ta’ ala has made the sea one of the means of reaching distant countries. Thus, He has made it easy for human beings to travel by sea and bring in or send out their commercial goods. The text also declares it to be an excellent means of seeking the bounty of Allah, that is, their rizq or sustenance - because, trading through the sea routes is most economical and beneficial.
 
+## AI Translation
+
+And He is the One Who has subjected the sea, so from it you may eat tender seafood and extract ornaments to wear. And you see the ships ploughing their way through it, so you may seek His bounty and give thanks to Him.
+
+## AI Tafsir
+
+**What this ayah teaches:** The text also declares it to be an excellent means of seeking the bounty of Allah, that is, their rizq or sustenance - because, trading through the sea routes is most economical and beneficial.
+
+**Classical tafsir:** Ibn Kathir notes: The text also declares it to be an excellent means of seeking the bounty of Allah, that is, their rizq or sustenance - because, trading through the sea routes is most economical and beneficial.
 ## Personal Reflections
 
 

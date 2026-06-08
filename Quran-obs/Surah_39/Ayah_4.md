@@ -180,6 +180,19 @@ And Allah tells us that the angels in the heavens, those who are close to Him an
 
 The first sentence of verse 4: لَّوْ أَرَ‌ادَ اللَّـهُ أَن يَتَّخِذَ وَلَدًا (Had Allah opted to have a son of His own) is a refutation of the allegation of those who said that angels were the progeny of Allah. The idea was false and absurd. Taking it on as a supposition of the impossible, it was said: If Allah Ta’ ala were to have, God forbid, any children, it goes without saying that it could not have happened without His intention and will, for it would have been impossible as children are not imposed on anyone - definitely not so in the case of Allah. Then, suppose He had the intention, in which case, everyone other than Him happens to have been created him, so He would have picked up one of them to be His progeny. Now, children have to be of the same genus as the father, and the created cannot be of the same genus as the creator, therefore, the intention to have progeny from the created becomes impossible.
 
+## AI Translation
+
+Had it been Allah's Will to have offspring, He could have chosen whatever He willed of His creation. Glory be to Him! He is Allah—the One, the Supreme.
+
+## AI Tafsir
+
+**Context:** (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I (Allah), so worship Me.")(21:25)
+
+**What this ayah teaches:** He is Allah, the One, the Irresistible.) means, exalted and sanctified be He above the idea that He could have any offspring, for He is the One, the Only, the Unique, the Self-Sufficient Master to Whom everything is enslaved and is in need of.
+
+**Classical tafsir:** Ibn Kathir notes: Truly, Allah guides not him who is a liar, and a those who reject the truth.)(4.
+
+**From the Sunnah:** that 'A'ishah, may Allah be pleased with her, said, "The Messenger of Allah ﷺ used to fast until we would say, 'He does not want to break fast,' and he would not fast until we would say, 'He does not want to fast.' And he ﷺ used to recite Bani Isra'il [Al-Isra… (Sunan an-Nasa'i)
 ## Personal Reflections
 
 

@@ -146,6 +146,17 @@ Qatadah reports from Sayyidna Anas ؓ that the Holy Prophet ﷺ said, 'On the Da
 
 Imam Malik (رح) has taken: صَابرین (as-sabirun) in this verse to mean people who endure hardships and remain patient over sorrows of the mortal life. Some elders have said that it means people who hold their self in check against acts of disobedience and sin. Qurtubi says, 'when the word: صَابِر (sabir: patient) is uttered unaccompanied by some other word, it invariably means a person who observes patience against hardships caused during the process of making one's desiring self abstain from sins. And when the word: صَبر (sabir) is used for a person who remains patient against distress, it is coupled with some other words: صَابِرت علی کَذَا (one who is patient against such and such distress). وَاللہ سبحانہ و تعالیٰ اَعلَم Allah knows best.
 
+## AI Translation
+
+Worship then whatever gods you want instead of Him." Say: "The true losers are those who will lose themselves and their families on Judgment Day. That is indeed the clearest loss."
+
+## AI Tafsir
+
+**What this ayah teaches:** So much so that people who had lived their life of the mortal world in perfect peace and comfort would wish, 'alas! When people who had given Sadaqah (charity) come forward, whatever they had given will be weighed, and they will be given their full reward against it.
+
+**Classical tafsir:** Ibn Kathir notes: So much so that people who had lived their life of the mortal world in perfect peace and comfort would wish, 'alas!
+
+**From the Sunnah:** This is a conditional sentence, and if what is referred to here applies to the Prophet ﷺ, it applies even more so to others,
 ## Personal Reflections
 
 

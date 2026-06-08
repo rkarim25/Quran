@@ -332,6 +332,17 @@ Let me give a brief summary of the whole discussion. The verses which tell us of
 
 Then, there are lower degrees pertaining to the pious and the virtuous Muslims down to the lowest degree where stand people who are sinful, yet, being Muslims, can hope for salvation. Allah alone knows best as to who belongs to which degree; below the degree of the blessed Companions one can never speak with certitude. If we allow ourselves to associate vice regency with an ordinary Muslim, it would only be viceregency, so to say, by reflection, just as the 'Iman of every Muslim is only a reflection of the 'Iman of the Holy Prophet ﷺ . Anyway, the necessary condition of receiving even a faint reflection of viceregency and "Manhood" is that one should be a Muslim, for, as the Holy Qur'an has explicitly declared, 'Allah shall not now accept any faith except Islam.' As for attributing viceregency of "Manhood" to common man as such is concerned, it can at best only be viceregency, to use Aristotelean terms, in potency and not in act - it cannot be effective unless it is actualized through a total submission to the Shari'ah and a strenuous spiritual effort and waiting upon the grace of Allah. In fact, the highest excellence open to man now is to be in word and deed and thought a perfect follower of the Sunnah, the way of the Holy Prophet ﷺ .
 
+## AI Translation
+
+When your Rabb said to the angels, "I am placing on earth a successive human authority," they said, "Will You place there one who spreads corruption and sheds blood while we glorify You and proclaim Your holiness?" He replied, "I know what you do not know."
+
+## AI Tafsir
+
+**What this ayah teaches:** They thought that they themselves were more suited to perform this function, as the nature of angels is wholly good, no evil deed can possibly come out of them, they are totally obedient to Allah, and should hence be more capable of managing the affairs of the world.
+
+**Classical tafsir:** Ibn Kathir notes: So, Allah mentioned this in the assembly of the angels so that they may disclose what they had been thinking.
+
+**From the Sunnah:** The Sahih recorded that when the angels ascend to Allah with the records of the servant's deeds, Allah asks them, while having better knowledge, "How did you leave My servants?" They will say, "We came to them while they were praying and left them while they w… We should state here that Imamah occurs by either naming a successor, as a group among Ahl As-Sunnah scholars said occurred - by the Prophet ﷺ - in the case of Abu Bakr,
 ## Personal Reflections
 
 

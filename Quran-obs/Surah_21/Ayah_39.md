@@ -144,6 +144,15 @@ Here خُلِقَ الْإِنسَانُ مِنْ عَجَلٍ (Man is made of h
 
 These miracles also occurred during the battle of Badr (غزوہ بدر) when the Muslims who were considered weak and worthy of contempt gained a great victory over their enemies.
 
+## AI Translation
+
+If only those who reject the truth knew that a time will come when they will not be able to keep the Fire off their faces or backs, nor will they be helped.
+
+## AI Tafsir
+
+**What this ayah teaches:** The word is used in situations when one desires things to happen before their time, and this trait is bad by its very nature.
+
+**Classical tafsir:** Ibn Kathir notes: The word is used in situations when one desires things to happen before their time, and this trait is bad by its very nature.
 ## Personal Reflections
 
 

@@ -133,6 +133,17 @@ The first word, Alif Lam Mim (الم ) at the head of the first verse be-longs t
 
 Then come the words الْحَيُّ الْقَيُّومُ (the Alive, the All-Sustaining) which lay out a rational proof of the Oneness of Allah. The essence of the argument is that worship means to present oneself before somebody in utter submission and humility. It, therefore, requires that the one who is being worshipped must occupy the highest point of honour and power and who has to be most perfect from all angles. From this it is obvious that anything which cannot sustain its own being, rather is dependent upon somebody else for its very existence, could hardly claim to have any honour or power in its own right. Therefore, it is crystal clear that all things in this world which have no power to come into being by themselves, nor can they sustain it - be they idols carved in stone, or water, or trees, or angels and apostles - none of them is worthy of worship. The only Being worthy of worship is the One who has always been Alive and Present and shall always live and sustain. Such a Being is none but Allah; there is none worthy of worship but Him.
 
+## AI Translation
+
+Allah—there is none worthy of worship except Him, the Ever-Living, the All-Sustaining.
+
+## AI Tafsir
+
+**Context:** Surah Āl-'Imrān was revealed in Al-Madinah, as evident by the fact that the first eighty-three Ayat in it relate to the delegation from Najran that arrived in Al-Madinah on the ninth year of Hijrah (632 CE).
+
+**What this ayah teaches:** The only Being worthy of worship is the One who has always been Alive and Present and shall always live and sustain.
+
+**Classical tafsir:** Ibn Kathir notes: This is because of the indications, signs, plain evidences and clear proofs that it contains, and because of its explanations, clarifications, etc.
 ## Personal Reflections
 
 

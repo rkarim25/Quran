@@ -108,6 +108,17 @@ The first addressees of this Surah are Quraysh of ` Arabia among whom Qur'an was
 
 This is the meaning of the first five verses of this Surah. In these verses, Allah Almighty has specially addressed and advised Quraysh that Qur'an has been revealed in Arabic language, so that you do not have any difficulty in understanding the contents. At the same time three qualities of the Holy Qur'an have been stated. Firstly it is said, فُصِّلَتْ آيَاتُهُ Here, the word fussilat' is a derivative of fasl which originally means distinguishing the subjects by separating them. So فُصِّلَتْ means stating things very clearly by explaining in detail, either by separating them subject - wise in different chapters, or by mentioning them at one place. Different subjects like injunctions of Shari'ah, stories, beliefs, refutation of the people of false beliefs, etc. have been stated separately in the verses of the Holy Qur'an, and each subject has been explained by examples as well. The second and third qualities of the Holy Qur'an have been stated as that of communicating good news of everlasting happiness to the believers and of warning the non-believers of perpetual scourges.
 
+## AI Translation
+
+A revelation from the Rahman—mercy that encompasses all creation in this life—and the Rahim—special mercy for believers in the Akhirah.
+
+## AI Tafsir
+
+**Context:** The first addressees of this Surah are Quraysh of ` Arabia among whom Qur'an was revealed in their own language.
+
+**What this ayah teaches:** A revelation from the ar-Rahman, the ar-Rahim.) means, the Qur'an is revealed from the ar-Rahman, ar-Rahim.
+
+**Classical tafsir:** Ibn Kathir notes: In these verses, Allah Almighty has specially addressed and advised Quraysh that Qur'an has been revealed in Arabic language, so that you do not have any difficulty in understanding the contents.
 ## Personal Reflections
 
 

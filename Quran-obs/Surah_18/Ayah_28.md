@@ -213,6 +213,15 @@ Pursuant to events of this nature, came the Divine instruction that firmly stopp
 
 The reason why he was prevented from accepting the advice of the Quraysh chiefs has been given towards the end of the verse. It was said that their hearts were heedless of the remembrance of Allah, everything they did was subservient to their physical desires and these conditions guaranteed that they would stand alienated far from the mercy and support of Allah Ta` ala.
 
+## AI Translation
+
+And patiently stick with those who call upon their Rabb morning and evening, seeking His pleasure. Do not let your eyes look beyond them, desiring the luxuries of this this dunya — this temporary worldly life. And do not obey those whose hearts We have made heedless of Our dhikr — conscious remembrance of Allah, who follow only their desires and whose state is total loss.
+
+## AI Tafsir
+
+**Context:** And recite what has been revealed to you (O Muhammad) of your Lord's Book. None can change His Words, and none will you find as refuge other than Him (27)And keep yourself (O Muhammad) patiently with those who call on th…
+
+**What this ayah teaches:** None can change His Words, and none will you find as refuge other than Him (27)And keep yourself (O Muhammad) patiently with those who call on their Lord morning and afternoon, seeking His Face; and let not your eyes overlook them, desiring the pomp and glitter of the life of the world; and obey not him whose heart We have made heedless of Our remembrance, and who follows his own lusts, and whose…
 ## Personal Reflections
 
 

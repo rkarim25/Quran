@@ -383,6 +383,17 @@ There is a doubt here: When a man has one wife, there will be just no chance of 
 
 The answer is: The addition of the word, اَدنیٰ 'adna (closer) in the text is there to point out to all those people who would not hesitate in inflicting all sorts of injustices on even one wife. So, to block this source of injustice, the absence of more than one wife is not enough. In this situation, however, the likelihood does exist that the danger of injustice will decrease and you will come closer to justice. But, the complete deliverance from injustice and oppression will only be possible when the rights of one wife are totally and fully given and she is treated fairly and generously, forgiving her shortcomings and being patient with her crooked ways.
 
+## AI Translation
+
+If you fear you might fail to give orphan women their rights, then marry other women of your choice—two, three, or four. But if you are afraid you will fail to maintain justice, then one or those in your possession. This way you are less likely to commit injustice.
+
+## AI Tafsir
+
+**Context:** Al-Bukhari recorded that 'A'ishah said, "A man was taking care of a female orphan and he married her, although he did not desire to marry her.
+
+**What this ayah teaches:** So, the Holy Qur'an has very clearly declared that every excuse, device or stratagem set up to usurp the property of the orphan is impermissible.
+
+**Classical tafsir:** Ibn Kathir notes: Therefore, had it been allowed for men to marry more than four women at the same time, the Prophet ﷺ would have allowed Ghilan to keep more than four of his wives since they all embraced Islam with him.
 ## Personal Reflections
 
 

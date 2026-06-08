@@ -313,6 +313,17 @@ Surah Al-Balad
 
 Ends here
 
+## AI Translation
+
+As for those who reject Our signs, they are the people of the left.
+
+## AI Tafsir
+
+**What this ayah teaches:** But those who disbelieved in Our Ayat, they are those on the Left.)(20. The word sabr signifies 'to withhold oneself from evil deeds and to act upon good deeds'.
+
+**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
+
+**From the Sunnah:** Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
 ## Personal Reflections
 
 
