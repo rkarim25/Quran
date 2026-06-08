@@ -838,6 +838,124 @@ body {
   gap: 0.5rem;
 }
 
+.ayah-stream.layout-book {
+  gap: 0;
+}
+
+.book-stream {
+  display: flex;
+  flex-direction: column;
+  gap: 1.75rem;
+}
+
+.book-section {
+  padding: 0.25rem 0;
+}
+
+.book-flow {
+  margin: 0;
+  max-width: 100%;
+}
+
+.book-flow.arabic-flow {
+  font-family: var(--font-arabic);
+  font-size: calc(1.42rem * var(--arabic-scale));
+  line-height: 2.55;
+  text-align: justify;
+  text-align-last: center;
+  color: var(--ink);
+}
+
+.book-ayah {
+  cursor: pointer;
+  transition: background 0.2s ease;
+  border-radius: 4px;
+  padding: 0.05rem 0.1rem;
+  scroll-margin-top: calc(var(--header-h) + 100px);
+}
+
+.book-ayah:hover,
+.book-ayah.active {
+  background: rgba(230, 242, 236, 0.55);
+}
+
+.book-flow.translit-flow {
+  font-family: var(--font-ui);
+  font-size: 0.84rem;
+  line-height: 1.85;
+  color: var(--muted);
+  text-align: left;
+}
+
+.book-translit-seg::after {
+  content: " · ";
+  opacity: 0.45;
+}
+
+.book-translit-seg:last-child::after {
+  content: "";
+}
+
+.book-flow.translation-flow {
+  font-family: var(--font-body);
+  font-size: 1.05rem;
+  line-height: 1.9;
+  font-style: italic;
+  color: var(--ink-soft);
+  text-align: left;
+}
+
+.book-trans-seg::after {
+  content: " ";
+}
+
+.book-translation-section.ai-mode .book-flow.translation-flow {
+  font-style: normal;
+  background: linear-gradient(135deg, rgba(230, 242, 236, 0.35), rgba(245, 240, 230, 0.4));
+  border-radius: var(--radius-sm);
+  padding: 1rem 1.1rem;
+  border: 1px solid rgba(31, 107, 82, 0.1);
+}
+
+.translation-badge.inline-badge {
+  font-size: 0.58rem;
+  padding: 0.12rem 0.4rem;
+  margin-right: 0.2rem;
+  vertical-align: middle;
+}
+
+.book-study-slot {
+  margin-top: 0.5rem;
+}
+
+.book-study-slot .study-panel {
+  margin-top: 0;
+}
+
+.transliteration-text {
+  font-family: var(--font-ui);
+  font-size: 0.82rem;
+  line-height: 1.65;
+  color: var(--muted);
+  text-align: center;
+  margin-top: 0.55rem;
+  direction: ltr;
+  letter-spacing: 0.02em;
+}
+
+.mode-arabic .mushaf-sheet {
+  max-width: min(var(--mushaf-width), 100%);
+}
+
+.layout-book .mushaf-sheet {
+  padding: 1.25rem 1.5rem 2rem;
+}
+
+.layout-book.mode-arabic .book-flow.arabic-flow {
+  font-size: calc(1.55rem * var(--arabic-scale));
+  line-height: 2.7;
+}
+
 .ayah-block {
   padding: 2rem 0.75rem;
   border-radius: var(--radius-sm);
@@ -1607,6 +1725,17 @@ body {
   }
 
   .reader-toolbar { gap: 0.45rem; }
+
+  #read-mode { max-width: 8.5rem; font-size: 0.78rem; }
+
+  .layout-book .mushaf-sheet { padding: 1rem 0.5rem 1.5rem; }
+
+  .book-flow.arabic-flow {
+    font-size: calc(clamp(1.35rem, 5.5vw, 1.55rem) * var(--arabic-scale));
+    line-height: 2.35;
+  }
+
+  .book-flow.translation-flow { font-size: 0.95rem; line-height: 1.75; }
 
   .surah-progress-label { font-size: 0.68rem; }
 

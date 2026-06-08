@@ -17,11 +17,27 @@ let expandedAyah = null;
 
 const prefs = loadPrefs();
 
+const DEFAULT_PREFS = {
+  readMode: "translation",
+  showTransliteration: false,
+  layoutMode: "verse",
+  fontScale: 1,
+  activePanel: "reflection",
+};
+
 function loadPrefs() {
   try {
-    return { showTranslation: true, showAiTranslation: false, fontScale: 1, activePanel: "reflection", ...JSON.parse(localStorage.getItem(LS.prefs) || "{}") };
+    const raw = JSON.parse(localStorage.getItem(LS.prefs) || "{}");
+    const merged = { ...DEFAULT_PREFS, ...raw };
+    if (!raw.readMode) {
+      if (raw.showAiTranslation) merged.readMode = "ai";
+      else if (raw.showTranslation === false) merged.readMode = "arabic";
+    }
+    if (!["arabic", "translation", "ai"].includes(merged.readMode)) merged.readMode = "translation";
+    if (!["verse", "book"].includes(merged.layoutMode)) merged.layoutMode = "verse";
+    return merged;
   } catch {
-    return { showTranslation: true, showAiTranslation: false, fontScale: 1, activePanel: "reflection" };
+    return { ...DEFAULT_PREFS };
   }
 }
 
@@ -192,7 +208,7 @@ function route() {
   return { view: "surah", surah: +parts[0], ayah: +parts[1], study };
 }
 
-const DATA_VERSION = "16";
+const DATA_VERSION = "17";
 
 async function loadIndex() {
   if (!cache.index) cache.index = await (await fetch(`data/index.json?v=${DATA_VERSION}`)).json();
@@ -286,18 +302,49 @@ function renderArabicWords(ayah, surahId) {
     .join(" ");
 }
 
+function renderAyahTransliteration(ayah) {
+  const words = orderedWords(ayah.word_by_word);
+  if (!words.length) return "";
+  return words
+    .map((w) => (w.transliteration || "").trim())
+    .filter(Boolean)
+    .join(" ");
+}
+
 function displayTranslation(ayah) {
-  if (prefs.showAiTranslation && ayah.ai_translation) {
+  if (prefs.readMode === "arabic") return { text: "", mode: "none" };
+  if (prefs.readMode === "ai" && ayah.ai_translation) {
     return { text: ayah.ai_translation, mode: "ai" };
   }
+  if (prefs.readMode === "ai" || prefs.readMode === "translation") {
+    return { text: ayah.translation || "", mode: prefs.readMode === "ai" ? "ai" : "standard" };
+  }
   return { text: ayah.translation || "", mode: "standard" };
+}
+
+function transliterationHtml(ayah) {
+  if (!prefs.showTransliteration) return "";
+  const text = renderAyahTransliteration(ayah);
+  if (!text) return "";
+  return `<p class="transliteration-text">${esc(text)}</p>`;
+}
+
+function translationBlockHtml(ayah, { inline = false } = {}) {
+  const { text: transText, mode: transMode } = displayTranslation(ayah);
+  if (prefs.readMode === "arabic" || !transText) return "";
+  const tag = inline ? "span" : "div";
+  const cls = inline ? "book-trans-seg" : `translation-block ${transMode === "ai" ? "ai-mode" : ""}`;
+  return `<${tag} class="${cls}">
+        ${transMode === "ai" ? `<span class="translation-badge">AI Translation</span>` : ""}
+        <p class="translation-text">${esc(transText)}</p>
+        ${!inline && transMode === "standard" ? `<button type="button" class="translation-edit-btn" data-action="edit-translation" title="Edit translation" aria-label="Edit translation">✎</button>` : ""}
+      </${tag}>`;
 }
 
 function ayahBlock(data, ayah, surahId) {
   const a = mergeLocalEdits(ayah, surahId);
   const bookmarked = isBookmarked(surahId, ayah.ayah);
   const hasReflection = !!(a.personal_reflections && a.personal_reflections.trim());
-  const { text: transText, mode: transMode } = displayTranslation(a);
   return `
     <article class="ayah-block" id="ayah-${surahId}-${ayah.ayah}" data-surah="${surahId}" data-ayah="${ayah.ayah}">
       <div class="ayah-meta">
@@ -315,13 +362,109 @@ function ayahBlock(data, ayah, surahId) {
       </div>
       <div class="arabic-block">
         <p class="arabic-text">${renderArabicWords(a, surahId)}${ayahMarkerHtml(ayah.ayah, { end: true })}</p>
+        ${transliterationHtml(a)}
       </div>
-      <div class="translation-block ${prefs.showTranslation ? "" : "hidden"} ${transMode === "ai" ? "ai-mode" : ""}">
-        ${transMode === "ai" ? `<span class="translation-badge">AI Translation</span>` : ""}
-        <p class="translation-text">${esc(transText)}</p>
-        ${transMode === "standard" ? `<button type="button" class="translation-edit-btn" data-action="edit-translation" title="Edit translation" aria-label="Edit translation">✎</button>` : ""}
-      </div>
+      ${translationBlockHtml(a)}
     </article>`;
+}
+
+function bookAyahSpan(ayah, surahId) {
+  const a = mergeLocalEdits(ayah, surahId);
+  return `<span class="book-ayah" id="ayah-${surahId}-${ayah.ayah}" data-surah="${surahId}" data-ayah="${ayah.ayah}" title="Ayah ${ayah.ayah} — click for tafsir">
+      ${renderArabicWords(a, surahId)}${ayahMarkerHtml(ayah.ayah, { end: true })}
+    </span>`;
+}
+
+function bookViewHtml(data, surahId) {
+  const arabicFlow = data.ayahs.map((a) => bookAyahSpan(a, surahId)).join(" ");
+  const translitFlow = prefs.showTransliteration
+    ? data.ayahs
+        .map((a) => {
+          const text = renderAyahTransliteration(mergeLocalEdits(a, surahId));
+          return text ? `<span class="book-translit-seg" data-ayah="${a.ayah}">${esc(text)}</span>` : "";
+        })
+        .filter(Boolean)
+        .join(" ")
+    : "";
+  const showTrans = prefs.readMode !== "arabic";
+  const transFlow = showTrans
+    ? data.ayahs
+        .map((a) => {
+          const merged = mergeLocalEdits(a, surahId);
+          const { text, mode } = displayTranslation(merged);
+          if (!text) return "";
+          return `<span class="book-trans-seg" data-ayah="${a.ayah}">${mode === "ai" ? '<span class="translation-badge inline-badge">AI</span> ' : ""}${esc(text)}</span>`;
+        })
+        .filter(Boolean)
+        .join(" ")
+    : "";
+
+  return `
+    <div class="book-stream">
+      <section class="book-section book-arabic-section" aria-label="Arabic text">
+        <p class="book-flow arabic-flow" dir="rtl">${arabicFlow}</p>
+      </section>
+      ${translitFlow ? `<section class="book-section book-translit-section" aria-label="Transliteration">
+        <p class="book-flow translit-flow" dir="ltr">${translitFlow}</p>
+      </section>` : ""}
+      ${transFlow ? `<section class="book-section book-translation-section ${prefs.readMode === "ai" ? "ai-mode" : ""}" aria-label="Translation">
+        <p class="book-flow translation-flow">${transFlow}</p>
+      </section>` : ""}
+      <div id="book-study-slot" class="book-study-slot"></div>
+    </div>`;
+}
+
+function verseViewHtml(data, surahId) {
+  return data.ayahs.map((a) => ayahBlock(data, a, surahId)).join("");
+}
+
+function renderAyahStreamHtml(data, surahId) {
+  const inner = prefs.layoutMode === "book" ? bookViewHtml(data, surahId) : verseViewHtml(data, surahId);
+  return `<div class="ayah-stream layout-${prefs.layoutMode}">${inner}</div>`;
+}
+
+function readerHintText() {
+  if (prefs.readMode === "ai") {
+    return "AI Translation explains concepts in context — Arabic terms like Rahman, taqwa, and deen are unpacked, not flattened.";
+  }
+  if (prefs.layoutMode === "book" && prefs.readMode === "arabic") {
+    return "Continuous mushaf view — click any ayah for tafsir and tadabbur.";
+  }
+  if (prefs.layoutMode === "book") {
+    return "Book view — flowing text like a printed edition · click an ayah for study.";
+  }
+  if (prefs.showTransliteration) {
+    return "Transliteration below each ayah · hover a word for its meaning · ☰ for tafsir.";
+  }
+  if (prefs.readMode === "arabic") {
+    return "Arabic only — hover a word for its meaning · ☰ to open tafsir and tadabbur.";
+  }
+  return "Hover a word for its meaning · ✎ to edit translation · ☰ to expand tadabbur & tafsir below";
+}
+
+function toolbarHtml(data, ayah) {
+  const jumpOptions = data.ayahs
+    .map((a) => `<option value="${a.ayah}" ${a.ayah === ayah ? "selected" : ""}>Ayah ${a.ayah}</option>`)
+    .join("");
+  return `
+      <div class="reader-toolbar sticky-toolbar">
+        <div class="surah-progress-wrap">
+          <div class="surah-progress" role="progressbar"><div class="surah-progress-bar" style="width:0"></div></div>
+          <span class="surah-progress-label">Ayah ${ayah} of ${data.verses_count}</span>
+        </div>
+        <div class="toolbar-actions">
+          <select id="ayah-jump" class="select-input" aria-label="Jump to ayah">${jumpOptions}</select>
+          <select id="read-mode" class="select-input" aria-label="Reading mode">
+            <option value="arabic" ${prefs.readMode === "arabic" ? "selected" : ""}>Arabic only</option>
+            <option value="translation" ${prefs.readMode === "translation" ? "selected" : ""}>Translation</option>
+            <option value="ai" ${prefs.readMode === "ai" ? "selected" : ""}>AI Translation</option>
+          </select>
+          <button type="button" class="btn ${prefs.showTransliteration ? "active" : ""}" id="toggle-transliteration" title="Show romanized pronunciation">Transliteration</button>
+          <button type="button" class="btn ${prefs.layoutMode === "book" ? "active" : ""}" id="toggle-layout" title="Continuous text like a book">Book view</button>
+          <button type="button" class="btn icon-only" id="font-smaller" title="Smaller text">A−</button>
+          <button type="button" class="btn icon-only" id="font-larger" title="Larger text">A+</button>
+        </div>
+      </div>`;
 }
 
 async function saveAyah(data) {
@@ -537,7 +680,23 @@ function openStudyPanel(ayahNum) {
   expandedAyah = ayahNum;
   selectedAyah = getAyahData(currentSurah.id, ayahNum);
   const block = document.getElementById(`ayah-${currentSurah.id}-${ayahNum}`);
-  if (!block) return;
+  if (!block || !selectedAyah) return;
+
+  if (prefs.layoutMode === "book" && block.classList.contains("book-ayah")) {
+    document.querySelectorAll(".book-ayah").forEach((el) => el.classList.remove("active"));
+    block.classList.add("active");
+    const slot = document.getElementById("book-study-slot");
+    if (slot) {
+      slot.dataset.surah = currentSurah.id;
+      slot.dataset.ayah = ayahNum;
+      slot.innerHTML = studyPanelHtml(selectedAyah);
+      bindStudyPanelEvents(slot);
+      requestAnimationFrame(() => {
+        slot.querySelector(".study-panel")?.scrollIntoView({ behavior: "smooth", block: "nearest" });
+      });
+    }
+    return;
+  }
 
   block.insertAdjacentHTML("beforeend", studyPanelHtml(selectedAyah));
   block.classList.add("expanded", "active");
@@ -552,10 +711,13 @@ function openStudyPanel(ayahNum) {
 function closeStudyPanel() {
   expandedAyah = null;
   document.querySelectorAll(".study-panel").forEach((el) => el.remove());
+  const bookSlot = document.getElementById("book-study-slot");
+  if (bookSlot) bookSlot.innerHTML = "";
   document.querySelectorAll(".ayah-block").forEach((el) => {
     el.classList.remove("expanded");
     el.classList.remove("active");
   });
+  document.querySelectorAll(".book-ayah").forEach((el) => el.classList.remove("active"));
   document.querySelectorAll(".study-btn").forEach((btn) => btn.classList.remove("open"));
 }
 
@@ -605,7 +767,24 @@ function showWordTooltip(el, editing = false) {
   });
 }
 
+async function refreshAyahStream(surahId, ayahNum) {
+  const wasExpanded = expandedAyah === ayahNum;
+  const data = await loadSurah(surahId);
+  const stream = document.querySelector(".ayah-stream");
+  if (!stream) return;
+  const tmp = document.createElement("div");
+  tmp.innerHTML = renderAyahStreamHtml(data, surahId);
+  stream.replaceWith(tmp.firstElementChild);
+  bindSurahEvents();
+  setupScrollObserver(surahId);
+  if (wasExpanded) openStudyPanel(ayahNum);
+}
+
 async function refreshAyahBlock(surahId, ayahNum) {
+  if (prefs.layoutMode === "book") {
+    await refreshAyahStream(surahId, ayahNum);
+    return;
+  }
   const wasExpanded = expandedAyah === ayahNum;
   const data = await loadSurah(surahId);
   const ayah = data.ayahs.find((a) => a.ayah === ayahNum);
@@ -615,6 +794,7 @@ async function refreshAyahBlock(surahId, ayahNum) {
     tmp.innerHTML = ayahBlock(data, ayah, surahId);
     el.replaceWith(tmp.firstElementChild);
     bindSurahEvents();
+    setupScrollObserver(surahId);
     if (wasExpanded) openStudyPanel(ayahNum);
   }
 }
@@ -638,7 +818,10 @@ function setupScrollObserver(surahId) {
     },
     { rootMargin: "-40% 0px -45% 0px", threshold: [0, 0.25, 0.5] }
   );
-  document.querySelectorAll(".ayah-block").forEach((el) => observer.observe(el));
+  const targets = prefs.layoutMode === "book"
+    ? document.querySelectorAll(".book-ayah")
+    : document.querySelectorAll(".ayah-block");
+  targets.forEach((el) => observer.observe(el));
 }
 
 function updateProgress(surahId, ayah) {
@@ -711,19 +894,30 @@ function bindSurahEvents() {
     });
   });
 
-  document.getElementById("toggle-translation")?.addEventListener("click", () => {
-    prefs.showTranslation = !prefs.showTranslation;
-    savePrefs();
-    document.getElementById("toggle-translation").classList.toggle("active", prefs.showTranslation);
-    document.querySelectorAll(".translation-block").forEach((el) => el.classList.toggle("hidden", !prefs.showTranslation));
+  document.querySelectorAll(".book-ayah").forEach((el) => {
+    el.addEventListener("click", (e) => {
+      if (e.target.closest(".q-word")) return;
+      openStudyPanel(+el.dataset.ayah);
+    });
   });
 
-  document.getElementById("toggle-ai-translation")?.addEventListener("click", async () => {
-    prefs.showAiTranslation = !prefs.showAiTranslation;
-    if (prefs.showAiTranslation) prefs.showTranslation = true;
+  document.getElementById("read-mode")?.addEventListener("change", async (e) => {
+    prefs.readMode = e.target.value;
     savePrefs();
-    document.getElementById("toggle-ai-translation")?.classList.toggle("active", prefs.showAiTranslation);
-    document.getElementById("toggle-translation")?.classList.toggle("active", prefs.showTranslation);
+    if (currentSurah) await renderSurah(currentSurah, getLastRead()?.ayah);
+  });
+
+  document.getElementById("toggle-transliteration")?.addEventListener("click", async () => {
+    prefs.showTransliteration = !prefs.showTransliteration;
+    savePrefs();
+    document.getElementById("toggle-transliteration")?.classList.toggle("active", prefs.showTransliteration);
+    if (currentSurah) await renderSurah(currentSurah, getLastRead()?.ayah);
+  });
+
+  document.getElementById("toggle-layout")?.addEventListener("click", async () => {
+    prefs.layoutMode = prefs.layoutMode === "book" ? "verse" : "book";
+    savePrefs();
+    document.getElementById("toggle-layout")?.classList.toggle("active", prefs.layoutMode === "book");
     if (currentSurah) await renderSurah(currentSurah, getLastRead()?.ayah);
   });
 
@@ -1099,12 +1293,11 @@ async function renderSurah(data, targetAyah, openStudy = false) {
 
   setBreadcrumb(`<a href="#/">Home</a> › ${esc(data.translated_name)}`);
 
-  const jumpOptions = data.ayahs.map((a) => `<option value="${a.ayah}" ${a.ayah === ayah ? "selected" : ""}>Ayah ${a.ayah}</option>`).join("");
   const prevSurah = data.id > 1 ? `<a class="nav-btn" href="#/${data.id - 1}">← ${data.id - 1}</a>` : `<span class="nav-btn disabled">←</span>`;
   const nextSurah = data.id < 114 ? `<a class="nav-btn" href="#/${data.id + 1}">${data.id + 1} →</a>` : `<span class="nav-btn disabled">→</span>`;
 
   document.getElementById("app").innerHTML = `
-    <div class="surah-reader">
+    <div class="surah-reader mode-${prefs.readMode} layout-${prefs.layoutMode}">
       <header class="surah-opener">
         <div class="surah-opener-arch" aria-hidden="true"></div>
         <span class="surah-index">${data.id}</span>
@@ -1116,22 +1309,10 @@ async function renderSurah(data, targetAyah, openStudy = false) {
         </div>
         ${ornament()}
       </header>
-      <div class="reader-toolbar sticky-toolbar">
-        <div class="surah-progress-wrap">
-          <div class="surah-progress" role="progressbar"><div class="surah-progress-bar" style="width:0"></div></div>
-          <span class="surah-progress-label">Ayah ${ayah} of ${data.verses_count}</span>
-        </div>
-        <div class="toolbar-actions">
-          <select id="ayah-jump" class="select-input" aria-label="Jump to ayah">${jumpOptions}</select>
-          <button type="button" class="btn icon-only" id="font-smaller" title="Smaller text">A−</button>
-          <button type="button" class="btn icon-only" id="font-larger" title="Larger text">A+</button>
-          <button type="button" class="btn ${prefs.showTranslation ? "active" : ""}" id="toggle-translation">Translation</button>
-          <button type="button" class="btn ai-translate-btn ${prefs.showAiTranslation ? "active" : ""}" id="toggle-ai-translation" title="Conceptual translation for the modern reader">AI Translation</button>
-        </div>
-      </div>
-      <p class="reader-hint">${prefs.showAiTranslation ? "AI Translation explains concepts in context — Arabic terms like Rahman, taqwa, and deen are unpacked, not flattened." : "Hover a word for its meaning · ✎ to edit translation · ☰ to expand tadabbur & tafsir below"}</p>
+      ${toolbarHtml(data, ayah)}
+      <p class="reader-hint">${readerHintText()}</p>
       <div class="mushaf-sheet">
-        <div class="ayah-stream">${data.ayahs.map((a) => ayahBlock(data, a, data.id)).join("")}</div>
+        ${renderAyahStreamHtml(data, data.id)}
       </div>
       <nav class="surah-nav" aria-label="Surah navigation">${prevSurah}<span class="nav-label">${data.id} / 114</span>${nextSurah}</nav>
     </div>`;
