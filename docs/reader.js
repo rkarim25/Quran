@@ -42,7 +42,9 @@ function loadPrefs() {
 const prefs = loadPrefs();
 
 function savePrefs() {
+  prefs.updatedAt = Date.now();
   localStorage.setItem(LS.prefs, JSON.stringify(prefs));
+  QuranGitHubSync?.schedulePush();
 }
 
 function getLastRead() {
@@ -55,6 +57,7 @@ function getLastRead() {
 
 function saveLastRead(surah, ayah) {
   localStorage.setItem(LS.lastRead, JSON.stringify({ surah, ayah, at: Date.now() }));
+  QuranGitHubSync?.schedulePush();
 }
 
 function getBookmarks() {
@@ -75,6 +78,7 @@ function toggleBookmark(surah, ayah, surahName, snippet) {
   if (i >= 0) list.splice(i, 1);
   else list.unshift({ surah, ayah, surahName, snippet: snippet.slice(0, 80), at: Date.now() });
   localStorage.setItem(LS.bookmarks, JSON.stringify(list));
+  QuranGitHubSync?.schedulePush();
   return i < 0;
 }
 
@@ -86,23 +90,23 @@ async function checkSync() {
   const badge = document.getElementById("sync-badge");
   if (!isLocalDev()) {
     canSync = false;
-    if (badge) badge.hidden = true;
     return;
   }
   try {
     const res = await fetch("/api/health", { signal: AbortSignal.timeout(2000) });
     if (res.ok) {
       canSync = true;
-      if (badge) {
+      if (badge && !QuranGitHubSync?.isEnabled()) {
         badge.hidden = false;
-        badge.textContent = "Sync on";
-        badge.classList.remove("readonly");
+        badge.textContent = "Local sync";
+        badge.title = "Edits save to markdown via serve.py";
+        badge.classList.remove("readonly", "syncing", "offline", "synced", "error");
+        badge.classList.add("local-sync");
       }
       return;
     }
   } catch (_) {}
   canSync = false;
-  if (badge) badge.hidden = true;
 }
 
 function getMyWork() {
@@ -502,7 +506,9 @@ async function saveAyah(data) {
     cache.surahs[currentSurah.id] = currentSurah;
     return;
   }
+  payload.updatedAt = Date.now();
   localStorage.setItem(LS.ayahEdits(currentSurah.id, data.ayah), JSON.stringify(payload));
+  QuranGitHubSync?.schedulePush();
 }
 
 function showSaveStatus(msg, ok, el) {
@@ -532,7 +538,12 @@ async function persistAyah(ayahData, statusEl) {
         context: ayahData.context,
       };
     }
-    showSaveStatus(canSync ? "Saved to markdown" : "Saved locally", true, statusEl);
+    const saveMsg = canSync
+      ? "Saved to markdown"
+      : QuranGitHubSync?.isEnabled()
+        ? "Saved · syncing"
+        : "Saved locally";
+    showSaveStatus(saveMsg, true, statusEl);
     recordMyWork(currentSurah.id, ayahData.ayah, ayahData, currentSurah.translated_name);
   } catch (e) {
     showSaveStatus("Save failed", false, statusEl);
@@ -1287,6 +1298,7 @@ function renderBookmarks() {
       const list = getBookmarks();
       list.splice(+btn.dataset.i, 1);
       localStorage.setItem(LS.bookmarks, JSON.stringify(list));
+      QuranGitHubSync?.schedulePush();
       renderBookmarks();
     });
   });
@@ -1404,10 +1416,30 @@ function showBootError(err) {
   }
 }
 
+function reloadPrefsFromStorage() {
+  Object.assign(prefs, loadPrefs());
+  document.documentElement.style.setProperty("--arabic-scale", prefs.fontScale);
+}
+
 async function boot() {
   try {
+    QuranGitHubSync?.init({
+      lsKeys: LS,
+      ayahEditsKey: LS.ayahEdits,
+      onMerged: () => {
+        reloadPrefsFromStorage();
+        rebuildMyWorkIndex().catch((err) => console.warn("My-work index rebuild failed", err));
+        if (!scrollLock) render();
+      },
+    });
+
+    await checkSync();
+    if (QuranGitHubSync?.isEnabled()) {
+      await QuranGitHubSync.pullAndMerge();
+      reloadPrefsFromStorage();
+    }
+
     render();
-    checkSync().catch((err) => console.warn("Sync check failed", err));
     rebuildMyWorkIndex().catch((err) => console.warn("My-work index rebuild failed", err));
   } catch (err) {
     showBootError(err);

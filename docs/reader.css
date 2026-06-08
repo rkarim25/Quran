@@ -242,11 +242,170 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
   letter-spacing: 0.04em;
+  border: none;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, transform 0.1s;
+}
+
+.sync-badge:hover {
+  background: var(--green);
+  color: var(--parchment);
 }
 
 .sync-badge.readonly {
   background: var(--parchment-deep);
   color: var(--muted);
+}
+
+.sync-badge.readonly:hover {
+  background: var(--green-light);
+  color: var(--green);
+}
+
+.sync-badge.syncing {
+  background: #e8dcc8;
+  color: #8a6d3b;
+}
+
+.sync-badge.synced {
+  background: var(--green-light);
+  color: var(--green);
+}
+
+.sync-badge.offline {
+  background: #f0e0e0;
+  color: #8b4545;
+}
+
+.sync-badge.error {
+  background: #f5d4d4;
+  color: #a33;
+}
+
+.sync-badge.local-sync {
+  background: #dce8f0;
+  color: #3a6a8a;
+}
+
+.sync-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(30, 28, 24, 0.45);
+  z-index: 200;
+}
+
+.sync-modal-backdrop[hidden],
+.sync-modal[hidden] {
+  display: none;
+}
+
+.sync-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 201;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.sync-modal-inner {
+  width: min(100%, 420px);
+  max-height: 90vh;
+  overflow-y: auto;
+  background: var(--parchment);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-lg);
+  padding: 1.25rem 1.35rem 1.35rem;
+}
+
+.sync-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.65rem;
+}
+
+.sync-modal-header h2 {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin: 0;
+}
+
+.sync-modal-close {
+  font-size: 1.4rem;
+  line-height: 1;
+}
+
+.sync-modal-intro {
+  font-size: 0.88rem;
+  color: var(--muted);
+  line-height: 1.5;
+  margin: 0 0 1rem;
+}
+
+.sync-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  margin-bottom: 0.85rem;
+}
+
+.sync-toggle {
+  flex-direction: row;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.sync-label {
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.sync-input {
+  font-family: var(--font-ui);
+  font-size: 0.92rem;
+  padding: 0.5rem 0.65rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--parchment-light);
+  color: var(--ink);
+}
+
+.sync-input:focus {
+  outline: 2px solid var(--green-light);
+  border-color: var(--green-mid);
+}
+
+.sync-hint {
+  font-size: 0.78rem;
+  color: var(--muted);
+  line-height: 1.45;
+}
+
+.sync-status-msg {
+  font-size: 0.82rem;
+  color: var(--green-mid);
+  min-height: 1.2em;
+  margin: 0.25rem 0 0.85rem;
+}
+
+.sync-modal-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: flex-end;
 }
 
 /* ─── Main layout ─── */

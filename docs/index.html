@@ -17,7 +17,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Amiri:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="preload" href="https://verses.quran.foundation/fonts/quran/hafs/uthmanic_hafs/UthmanicHafs1Ver18.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="reader.css?v=21">
+  <link rel="stylesheet" href="reader.css?v=22">
 </head>
 <body>
   <div class="ambient-pattern" aria-hidden="true"></div>
@@ -58,7 +58,7 @@
             <span class="nav-label">Bookmarks</span>
           </a>
         </nav>
-        <div id="sync-badge" class="sync-badge" hidden></div>
+        <button type="button" id="sync-badge" class="sync-badge readonly" title="Cross-device sync settings">Sync</button>
       </div>
     </div>
   </header>
@@ -70,9 +70,44 @@
   <footer class="site-footer">
     <p class="footer-verse" dir="rtl">أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ</p>
     <p class="footer-translation">Verily, in the remembrance of Allah do hearts find rest <span class="footer-ref">— 13:28</span></p>
-    <p class="footer-note">Run <code>python scripts/serve.py</code> locally to sync reflections to your notes</p>
+    <p class="footer-note">Enable <strong>Sync</strong> in the header to share edits across devices · or run <code>python scripts/serve.py</code> locally to write reflections to markdown</p>
   </footer>
 
-  <script src="reader.js?v=21"></script>
+  <div id="sync-modal-backdrop" class="sync-modal-backdrop" hidden></div>
+  <div id="sync-modal" class="sync-modal" role="dialog" aria-labelledby="sync-modal-title" hidden>
+    <div class="sync-modal-inner">
+      <header class="sync-modal-header">
+        <h2 id="sync-modal-title">Cross-device sync</h2>
+        <button type="button" id="sync-modal-close" class="icon-btn sync-modal-close" aria-label="Close">×</button>
+      </header>
+      <p class="sync-modal-intro">Sync reflections, edits, bookmarks, and reading position across your phone and computer via your GitHub repo. Your token stays in this browser only.</p>
+      <label class="sync-field sync-toggle">
+        <input type="checkbox" id="sync-enabled">
+        <span>Enable GitHub sync</span>
+      </label>
+      <label class="sync-field">
+        <span class="sync-label">GitHub personal access token</span>
+        <input type="password" id="sync-pat" class="sync-input" autocomplete="off" spellcheck="false">
+        <span class="sync-hint">Create a <strong>fine-grained</strong> token at github.com/settings/tokens with <em>Contents: Read and write</em> on the Quran repo only. Never share or commit this token.</span>
+      </label>
+      <label class="sync-field">
+        <span class="sync-label">Repository</span>
+        <input type="text" id="sync-repo" class="sync-input" value="rkarim25/Quran">
+      </label>
+      <label class="sync-field">
+        <span class="sync-label">Branch</span>
+        <input type="text" id="sync-branch" class="sync-input" value="main">
+      </label>
+      <p id="sync-status-msg" class="sync-status-msg" aria-live="polite"></p>
+      <div class="sync-modal-actions">
+        <button type="button" id="sync-pull-btn" class="btn">Pull now</button>
+        <button type="button" id="sync-disable-btn" class="btn">Disable</button>
+        <button type="button" id="sync-save-btn" class="btn active">Save &amp; sync</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="github-sync.js?v=22"></script>
+  <script src="reader.js?v=22"></script>
 </body>
 </html>
