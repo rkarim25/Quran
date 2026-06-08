@@ -14,7 +14,7 @@ from urllib.parse import unquote, urlparse
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from build_site import load_ai_translations
+from build_site import load_ai_tafsir, load_ai_translations
 from md_io import ayah_path, read_ayah, to_json_ayah, write_ayah
 
 
@@ -22,6 +22,9 @@ def enrich_ayah(row: dict, surah: int) -> dict:
     ai_map = load_ai_translations(surah)
     if row["ayah"] in ai_map:
         row["ai_translation"] = ai_map[row["ayah"]]
+    tafsir_map = load_ai_tafsir(surah)
+    if row["ayah"] in tafsir_map:
+        row["ai_tafsir"] = tafsir_map[row["ayah"]]
     return row
 
 ROOT = Path(__file__).resolve().parent.parent

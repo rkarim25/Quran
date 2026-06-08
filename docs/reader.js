@@ -192,7 +192,7 @@ function route() {
   return { view: "surah", surah: +parts[0], ayah: +parts[1], study };
 }
 
-const DATA_VERSION = "15";
+const DATA_VERSION = "16";
 
 async function loadIndex() {
   if (!cache.index) cache.index = await (await fetch(`data/index.json?v=${DATA_VERSION}`)).json();
@@ -448,8 +448,11 @@ function panelContent(ayah) {
       <textarea class="reflection-area" id="context-input" placeholder="Revelation context…"></textarea><div class="save-status"></div>`;
   }
   if (prefs.activePanel === "tafsir") {
-    let html = "";
-    if (ayah.tafsir_summary) html += `<details open><summary>Tafsir Summary</summary>${md(ayah.tafsir_summary)}</details>`;
+    let html = `<p class="panel-intro tafsir-intro">Concise commentary drawing on Ibn Kathir, Maarif ul Quran, classical scholars, and authenticated hadith.</p>`;
+    if (ayah.ai_tafsir) {
+      html += `<details open class="ai-tafsir-block"><summary class="ai-tafsir-summary">AI Tafsir</summary><div class="ai-tafsir-body">${md(ayah.ai_tafsir)}</div></details>`;
+    }
+    if (ayah.tafsir_summary) html += `<details><summary>Tafsir Summary</summary>${md(ayah.tafsir_summary)}</details>`;
     if (ayah.tafsir_ibn_kathir) html += `<details><summary>Ibn Kathir</summary>${md(ayah.tafsir_ibn_kathir)}</details>`;
     if (ayah.maarif_ul_quran) html += `<details><summary>Maarif ul Quran</summary>${md(ayah.maarif_ul_quran)}</details>`;
     return html || `<p class="empty-note">No tafsir available.</p>`;
