@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who have Taqwa will be in the midst of Gardens and Springs (15)Taking joy in the things which their Lord has given them. Special Guidance for Philanthropists وَفِي أَمْوَالِهِمْ حَقٌّ لِّلسَّائِلِ وَالْمَحْرُ‌ومِ (and in their wealth, there was a right for the one who asks and the one who is deprived...51:19) The word sail means the poor or needy who begs others, that is, he expresses his needs to people who help him.
+Will you not then see (21)And in the heaven is your provision, and that which you are promised (22)Then by the Lord of the heaven and the earth, it is the truth, just as you can speak .
 
 ## Tafsir Ibn Kathir
 

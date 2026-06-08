@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) Dawud and Sulayman, when they gave judgement in the case of the field in which the sheep of certain people had Nafashat; and We were witness to their judgement (78)And We made Sulayman to understand (the case); and to each of them We gave wisdom (Hukm) and knowledge. نَفَشَتْ فِيهِ غَنَمُ الْقَوْمِ the goats of the people wandered therein grazing - 21:78).
+And (remember) Dawud and Sulayman, when they gave judgement in the case of the field in which the sheep of certain people had Nafashat; and We were witness to their judgement (78)And We made Sulayman to understand (the case); and to each of them We gave wisdom (Hukm) and knowledge.
 
 ## Tafsir Ibn Kathir
 

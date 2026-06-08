@@ -162,7 +162,7 @@ In the beginning of Islam, Muslims in Makkah were commanded to perform the praye
 
 ## Tafsir Summary
 
-Have you not seen those who were told to hold back their hands (from fighting) and perform Salah and give Zakah, but when the fighting was ordained for them, behold! In أَيْنَمَا تَكُونُوا يُدْرِ‌ككُّمُ الْمَوْتُ (verse 78) (Wherever you will be death will over-take you), Allah Almighty removes any doubts the deserters from Jihad may entertain.
+The Hereafter is (far) better for him who fears Allah, and you shall not be dealt with unjustly even equal to the 'Fatīl' (77)"Wheresoever you may be, death will overtake you even if you are in fortresses built up strong and high!" And if some good reaches them, they say, "This is from Allah," but if some evil befalls them, they say, "This is from you." Say: "All things are from Allah," so what is wrong with these people that they fail to understand any word (78)Whatever of g…
 
 ## Tafsir Ibn Kathir
 

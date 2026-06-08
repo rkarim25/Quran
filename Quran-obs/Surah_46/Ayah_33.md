@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do they not see that Allah, Who created the heavens and the earth, and was not wearied by their creation, is Able to give life to the dead Yes, He surely is Able to do all things (33)And on the Day when those who disbelieve will be exposed to the Fire (it will be said to them): "Is this not the truth?" They will say: "Yes, by our Lord!" He will say: "Then taste the torment, because you used to disbelieve! یغْفِرْ‌ لَكُم مِّن ذُنُوبِكُمْ (will forgive your sins for you,) The word 'min' used in the text gives the sense of 'some'.
+It will indicate that only sins relating to the rights of Allah would be forgiven but not the rights of people.
 
 ## Tafsir Ibn Kathir
 

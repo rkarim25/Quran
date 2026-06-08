@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then he cried unto her from below her, saying: "Grieve not: your Lord has provided a Sariy under you. سَرِیّاً The literal meaning of the word سَرِی appearing in verse 24 is a small canal.
+And if you see any human being, say: 'Verily, I have vowed a fast for the Most Gracious so I shall not speak to any human being today., .
 
 ## Tafsir Ibn Kathir
 

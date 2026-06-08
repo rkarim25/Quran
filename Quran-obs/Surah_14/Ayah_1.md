@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The Surah and Its Subjects Beginning here is Surah Ibrahim, the fourteenth Surah of the Holy Qur'an.
+It is obvious that the mention of darkness and light in the above verse is not referring to the darkness and light which could be seen with naked eyes as a physical phenomenon.
 
 ## Tafsir Ibn Kathir
 

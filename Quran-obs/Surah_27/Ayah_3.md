@@ -48,7 +48,7 @@ The word شَاعِر (Sha` ir) is used in this verse in its technical and commo
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. As for the poets, they are followed by the straying people.
+Every art or learning, which makes one oblivious of Allah and Hereafter, is contemptible Ibn Abi Jamrah has ruled that excessive involvement in poetry and all such learning or art which makes one oblivious of the remembrance of Allah Ta'ala and causes doubts in the mind about beliefs of Islam or helps in promoting spiritual ills, fall under the same ruling as is given for contemptible poetry.
 
 ## Tafsir Ibn Kathir
 

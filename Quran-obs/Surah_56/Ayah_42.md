@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those on the left? ثُلَّةٌ مِّنَ الْأَوَّلِينَ وَثُلَّةٌ مِّنَ الْآخِرِ‌ينَ (many from the earlier generations, and many from the later ones....56:39-40) In connection with sabiqun, (the Foremost) two views of the commentators were quoted earlier as to the identity of 'the earlier' and the 'later' generations.
+Depart you to a shadow in three columns, neither shady nor of any use against the fierce flame of the Fire. Besides, the words 'many from the later generations' has the scope of being larger in number than the 'many from the earlier generations'.
 
 ## Tafsir Ibn Kathir
 

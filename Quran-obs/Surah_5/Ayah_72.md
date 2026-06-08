@@ -149,7 +149,7 @@ Mujahid and several others said that this Ayah was revealed about the Christians
 
 ## Tafsir Summary
 
-Surely, they have disbelieved who say: "Allah is the Messiah ['Isa], son of Maryam." But the Messiah said: "O Children of Israel! This is an account of how the Bani Isra'il kept breaking the pledge taken from them.
+And for the wrongdoers there are no helpers (72)Surely, they have disbelieved who say: "Allah is the third of three." And there is no god but One God (Allah).
 
 ## Tafsir Ibn Kathir
 

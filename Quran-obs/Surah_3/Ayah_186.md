@@ -111,7 +111,7 @@ The seventh verse (186) was revealed in the background of a particular event whi
 
 ## Tafsir Summary
 
-Everyone shall taste death. Thoughts of the Hereafter heal all sorrows and remove all doubts The sixth verse (185) puts a sharp focus on the ultimate reality of things in a situation when sometime somewhere disbelievers come to enjoy ascendency one way or the other and they have all the luxury they can think of in this world.
+The life of this world is only the enjoyment of deception (185)You shall certainly be tried and tested in your wealth and properties and in yourselves, and you shall certainly hear much that will grieve you from those who received the Scripture before you (Jews and Christians) and from those who ascribe partners to Allah; but if you persevere patiently, and have Taqwa, then verily, that will be a determining factor in all affairs .
 
 ## Tafsir Ibn Kathir
 

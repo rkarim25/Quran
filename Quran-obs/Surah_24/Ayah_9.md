@@ -48,7 +48,7 @@ In both these incidents it is reported that the verses of lian were revealed for
 
 ## Tafsir Summary
 
-And for those who accuse their wives, but have no witnesses except themselves, let the testimony of one of them be four testimonies by Allah that he is one of those who speak the truth (6)And the fifth (testimony); invok… The fourth injunction is of Li'an (لِعَان : curse) among the adjuncts of fornication The meaning of لِعَان and is to curse and praying for Allah's wrath on each other.
+And the fifth; should be that the wrath of Allah be upon her if he speaks the truth.) The wrath of Allah is mentioned specially in the case of the woman, because usually a man would not go to the extent of exposing his wife and accusing her of Zina unless he is telling the truth and has good reason to do this, and she knows that what he is accusing her of is true.
 
 ## Tafsir Ibn Kathir
 

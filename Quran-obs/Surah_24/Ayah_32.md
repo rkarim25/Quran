@@ -84,7 +84,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And marry those among you who are single (Al-Ayama) and the pious of your servants and maidservants. Some injunctions regarding marriage It has been pointed out earlier that Surah an-Nur contains mostly the injunctions relating to protection of chastity and continence, and prevention of obscenity and shamelessness.
+This is a command from Allah to slave-owners: if their servants ask them for a contract of emancipation, they should write it for them, provided that the servant has some skill and means of earning so that he can pay his master the money that is stipulated in the contract.
 
 ## Tafsir Ibn Kathir
 

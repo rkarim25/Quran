@@ -52,7 +52,7 @@ Muhammad bin Ishaq bin Yasar, Mujahid and 'Ikrimah said that this Ayah was revea
 
 ## Tafsir Summary
 
-And remember Allah's favor to you and His covenant with which He bound you when you said: "We hear and we obey." And have Taqwa of Allah. The subject of the first of the three verses given above has appeared earlier in Surah al-Nis-a' in almost the same words.
+Verily, Allah is All-Knower of that which is in the breasts (7)O you who believe!
 
 ## Tafsir Ibn Kathir
 

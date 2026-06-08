@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, the likeness of 'Isa before Allah is the likeness of Adam. The event of Mubahala and the refutation of heretics.
+And indeed, Allah is the Almighty, the All-Wise (62)And if they turn away, then surely, Allah is All-Aware of those who do mischief .
 
 ## Tafsir Ibn Kathir
 

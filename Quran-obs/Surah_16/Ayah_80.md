@@ -112,7 +112,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Allah had made your homes a place of rest for you, and made dwellings for you out of the hides of the cattle which you find so light when you travel and when you camp; and furnishings and articles of convenience out… In the statement: وَاللَّـهُ جَعَلَ لَكُم مِّن بُيُوتِكُمْ سَكَنًا (And Allah has made for you of your houses a place of comfort - 80), the word: بُيُوتِ (buyut) is the plural of bayt (بَیت) which means a house where night could be spent.
+And Allah had made your homes a place of rest for you, and made dwellings for you out of the hides of the cattle which you find so light when you travel and when you camp; and furnishings and articles of convenience out of their wool, fur, and hair - comfort for a while (80)And Allah has made shade for you out of that which He has created, and He has made places of refuge in the mountains for you, and He has made garments for you to protect you from the heat, and coats of mai…
 
 ## Tafsir Ibn Kathir
 

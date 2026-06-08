@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He who obeys the Messenger, has indeed obeyed Allah, but he who turns away, then We have not sent you as a watcher over them (80)They say: "We are obedient," but when they leave you, a section of them spends all night in planning other than what you say. That obedience to the Holy Prophet ﷺ is obligatory was the subject of verse 80.
+Thereupon, Allah Almighty instructed him to ignore them and continue with his mission placing his trust in Allah because Allah is all-sufficient for him.
 
 ## Tafsir Ibn Kathir
 

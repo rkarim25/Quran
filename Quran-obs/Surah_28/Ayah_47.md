@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And you were not on the western side (of the Mount), when We made clear to Musa the commandment, and you were not among the witnesses (44)But We created generations, and long were the ages that passed over them. لِتُنذِرَ‌ قَوْمًا مَّا أَتَاهُم مِّن نَّذِيرٍ‌ ( so that you warn a people to whom no warner has come before - 28:46).
+We would then have followed Your Ayat and would have been among the believers.
 
 ## Tafsir Ibn Kathir
 

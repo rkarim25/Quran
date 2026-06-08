@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who avoid At-Taghut by not worshipping them and turn to Allah, for them are glad tidings; so announce the good news to My servants (17)Those who listen to the Word and follow the best thereof, those are (the ones)… In verse 10, it was said: وَأَرْ‌ضُ اللَّـهِ وَاسِعَةٌ (and the earth of Allah is wide).In the sentence previous to this, Good deeds had been enjoined.
+Those who avoid At-Taghut by not worshipping them and turn to Allah, for them are glad tidings; so announce the good news to My servants (17)Those who listen to the Word and follow the best thereof, those are (the ones) whom Allah has guided and those are men of understanding .
 
 ## Tafsir Ibn Kathir
 

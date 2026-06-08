@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Faces that Day will be joyful (8)Glad with their endeavor (9)In a lofty Paradise (10)Where they shall neither hear harmful speech nor falsehood (11)Therein will be a running spring (12)Therein will be thrones raised high… وَأَكْوَابٌ مَّوْضُوعَةٌ (and goblets, well placed...88:14) The word akwab is the plural of kub and it refers to a 'goblet', a 'glass' or a cup for drinking water.
+A11 this is deducible from the word maudu'ah 'well placed', because Allah has arranged the goblets near the water for the comfort of the inmates of Paradise.
 
 ## Tafsir Ibn Kathir
 

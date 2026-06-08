@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then fight in the cause of Allah, you are not tasked (held responsible) except for yourself, and incite the believers (to fight along with you), it may be that Allah will restrain the evil might of the disbelievers. The Reality of Recommendation and its rules and kinds Verse 85 beginning with مَّن يَشْفَعْ شَفَاعَةً حَسَنَةً points out to the act of شَفَاعَۃ 'shafah' (recommendation) under two heads, the good and the bad, a division which helps clarify its nature.
+From here we find out that prompting someone to do a good deed is a good deed in its own right and carries an identical reward for having done it and, by the same token, prompting someone to do an evil deed or to indulge in an act of sin is also a sin of equal gravity.
 
 ## Tafsir Ibn Kathir
 

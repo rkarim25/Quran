@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "I seek refuge with the Lord of An-Nas, (1)"The King of An-Nas, (2)"The God of An-Nas, (3)"From the evil of the whisperer who withdraws. Verses [ 114:2 3] مَلِكِ النَّاسِ إِلَـٰهِ النَّاسِ (the King of mankind, the God of mankind.) The reason for adding these two attributes is that the word rabb, attributed to a particular thing, could refer to someone other than Allah also, as for instance rabb-ud-dar [ land-lord ] or رَبُّ المال rabb-ul-mal [ owner of wealth ].
+The word rabb that refers to nurturer-ship of Allah is a hint to this, because children need nurturing the most. This is because they (the Jinns) are also included in the usage of the word An-Nas (the people) in most cases.
 
 ## Tafsir Ibn Kathir
 

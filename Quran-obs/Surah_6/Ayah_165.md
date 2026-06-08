@@ -95,7 +95,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And it is He Who has made you generations coming after generations, replacing each other on the earth. In the fifth (164) verse, Surah Al-An` am reaches its end at a comprehensive note of advice.
+Surely, your Lord is Swift in retribution, and certainly He is Oft-Forgiving, Most Merciful .
 
 ## Tafsir Ibn Kathir
 

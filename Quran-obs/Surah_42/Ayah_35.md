@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And among His signs are the ships in the sea like mountains (32)If He wills, He causes the wind to cease, then they would become motionless on the surface (of the sea). وَمَا أَصَابَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُو عَن كَثِيرٍ‌ (And whatever hardship befalls you is because of what your own hands have committed, while He overlooks many [ of your faults ]....
+And He pardons much (34)And those who dispute as regards Our Ayat may know that there is no place of refuge for them .
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And who does more wrong than he who invents a lie against Allah. The word: bayyinah (بینہ) appearing in this verse refers to the Qur'an.
+The curse of Allah is on the wrongdoers (18)Those who hinder (others) from the path of Allah, and seek a crookedness therein, while they are disbelievers in the Hereafter (19)By no means will they escape on earth, nor have they protectors besides Allah!
 
 ## Tafsir Ibn Kathir
 

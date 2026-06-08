@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or have they taken protecting friends besides Him? لِّتُنذِرَ‌ أُمَّ الْقُرَ‌ىٰ (So that you may warn the town that is the mother of all towns) - Umm-ul- Qura (mother of all the towns) means the origin and foundation of all habitations and cities which is Makkah.
+But Allah – He Alone is the protector.
 
 ## Tafsir Ibn Kathir
 

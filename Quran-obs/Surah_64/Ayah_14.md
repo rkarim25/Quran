@@ -88,7 +88,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّ مِنْ أَزْوَاجِكُمْ وَأَوْلَادِكُمْ عَدُوًّا لَّكُمْ فَاحْذَرُ‌وهُمْ ( O those who believe, among your wives and your children there are some enemies for you, so beware of them…4:14).
+This is the pleasure of the present world's life; but Allah has the excellent return with him.)(3:14), and the Ayah after it.
 
 ## Tafsir Ibn Kathir
 

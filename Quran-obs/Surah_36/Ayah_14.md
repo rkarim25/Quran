@@ -53,7 +53,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And put forward to them a similitude; the Dwellers of the Town, when there came Messengers to them (13)When We sent to them two Messengers, they denied them both; so We reinforced them with a third, and they said: "Verily, we have been sent to you as Messengers. In the next sentence of verse 13: إِذْ أَرْ‌سَلْنَا إِلَيْهِمُ اثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍ فَقَالُوا إِنَّا إِلَيْكُم مُّرْ‌سَلُونَ (when the messengers came to it...
+You are only telling lies." The Messengers said: "Our Lord knows that we have been sent as Messengers to you.") This means that the three Messengers answered them saying: "Allah knows that we are His Messengers to you. This too indicates that they are prophets who have been sent to accomplish some mission.
 
 ## Tafsir Ibn Kathir
 

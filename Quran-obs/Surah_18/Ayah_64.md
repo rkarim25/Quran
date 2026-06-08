@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Musa said to his boy-servant: "I will not give up until I reach the junction of the two seas or a Huqub passes. Precedence of Sayyidna Musa (علیہ السلام) over Al-Khadir (علیہ السلام) ، his up-bringing and miracles So, when they reached the meeting point of the two seas, they forgot their fish and it made its way into the sea as in a tunnel- 61.
+It took its course into the sea in a strange (way (63)[Musa] said: "That is what we have been seeking." So they went back retracing their footsteps (64)Then they found one of Our servants, on whom We had bestowed mercy from Us, and whom We had taught knowledge from Us (65).
 
 ## Tafsir Ibn Kathir
 

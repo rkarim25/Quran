@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Until, when death comes to one of them, he says: "My Lord! Never!
+And in front of them there is a barrier till the day when they will be resurrected.
 
 ## Tafsir Ibn Kathir
 

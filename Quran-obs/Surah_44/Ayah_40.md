@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This World was created for a Wisdom Here Allah tells us of His justice, and that He is far above mere play, folly and falsehood. مَا خَلَقْنَاهُمَا إِلَّا بِالْحَقِّ وَلَـٰكِنَّ أَكْثَرَ‌هُمْ لَا يَعْلَمُونَ "We did not create them but with true purpose, yet most of them do not know.
+This World was created for a Wisdom Here Allah tells us of His justice, and that He is far above mere play, folly and falsehood. Though they shall be made to see one another) (70:10-11) which means, he will not ask his brother about how he is, even though he can see him with his own eyes.
 
 ## Tafsir Ibn Kathir
 

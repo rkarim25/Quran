@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when We showed Ibrahim the site of the House (saying): "Associate not anything with Me, and sanctify My House for those who circumambulate it, and those who stand up (for prayer), and those who bow and make prostration (in prayer); (26)And proclaim to mankind the Hajj (pilgrimage). The previous verse contains a warning of severe punishment to the infidels who prevented the Muslims from entering the Sacred Mosque and the precincts of Haram.
+Tawaf is done around the Ka'bah and prayer is offered facing its direction in the majority of cases, with a few exceptions, such as when one is uncertain of the direction of the Qiblah, during battle and when praying optional prayers while traveling.
 
 ## Tafsir Ibn Kathir
 

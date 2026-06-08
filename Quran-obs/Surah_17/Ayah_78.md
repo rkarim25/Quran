@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Perform the Salah from midday till the darkness of the night, and recite the Qur'an in the early dawn. Salah is the best defense against enemy hostility Previous verses have mentioned the hostility of the enemies of Islam, the plans they made to hurt and harass the Holy Prophet ﷺ and what was to be done in response.
+Verily, the recitation of the Qur'an in the early dawn is ever witnessed (78)And in some parts of the night (also) offer the Salah with it as an additional prayer for you.
 
 ## Tafsir Ibn Kathir
 

@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who disbelieve, and hinder from the path of Allah, and oppose the Messenger, after the guidance has been clearly shown to them, they will not harm Allah in the least, but He will make their deeds fruitless (32)O you who believe! فَلَا تَهِنُوا وَتَدْعُوا إِلَى السَّلْمِ (So, do not lose heart, and do not appeal - 47:35".
+This verse indicates that if the infidels want peace, it is permissible to enter into peace agreement with them.
 
 ## Tafsir Ibn Kathir
 

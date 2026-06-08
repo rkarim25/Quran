@@ -43,7 +43,7 @@ Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His M
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. يَعْلَمُ السِّرَّ‌ وَأَخْفَى (Knows the secret and what is even more hidden - 20:7).
+To Him belong the Best Names.) The Qur'an is a Reminder and a Revelation from Allah We have already discussed the separated letters at the beginning of Surah Al-Baqarah, so there is no need to repeat its discussion here.
 
 ## Tafsir Ibn Kathir
 

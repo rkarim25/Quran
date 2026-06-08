@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then they both proceeded till they met a boy, and he (Khidr) killed him. We now move to the sentence: حَتَّىٰ إِذَا لَقِيَا غُلَامًا (until when they met a boy -74).
+Then they both proceeded till they met a boy, and he (Khidr) killed him.
 
 ## Tafsir Ibn Kathir
 

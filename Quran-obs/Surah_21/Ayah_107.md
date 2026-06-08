@@ -32,7 +32,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We have written in Az-Zabur after Adh-Dhikr that My righteous servants shall inherit the land (105)Verily, in this there is a plain Message for people who worship Allah (106)And We have sent you (O Muhammad ﷺ)… وَمَا أَرْ‌سَلْنَاكَ إِلَّا رَ‌حْمَةً لِّلْعَالَمِينَ (And We have not.
+When this essence departs from this world and no one is left to worship Allah, everything in it will perish.
 
 ## Tafsir Ibn Kathir
 

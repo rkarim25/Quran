@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Thus have We caused it to enter the hearts of the criminals (200)They will not believe in it until they see the painful torment (201)It shall come to them of a sudden, while they perceive it not (202)Then they will say: "Can we be respited? Qur’ an is the name of the collection of its words and meanings It is brought by the Trusted Spirit down [ 193] to your heart, so that you become one of the warners [ 194] in plain Arabic language.
+Hence the inclusion of the meanings of Qur’ an in them is referred in this verse as ` Qur'an'.
 
 ## Tafsir Ibn Kathir
 

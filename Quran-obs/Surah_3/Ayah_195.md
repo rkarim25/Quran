@@ -188,7 +188,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So their Lord accepted of them (their supplication and answered them), "Never will I allow to be lost the work of any of you, be he male or female. Mentioned in verses previous to this were some prayers made by good believers.
+You are (members) one of another, so those who emigrated and were driven out from their homes, and suffered harm in My cause, and who fought and were killed (in My cause), verily, I will expiate from them their evil deeds and admit them into Gardens under which rivers flow (in Paradise); a reward from Allah, and with Allah is the best of rewards.
 
 ## Tafsir Ibn Kathir
 

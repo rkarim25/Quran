@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) the Day on which the Trumpet (Şūr) will be blown – and all who are in the heavens and all who are on the earth, will be terrified except him whom Allah wills. "Whoever will come with the good deed will have (a reward) better than that" - 27:89 This description relates to the situation that will take place after the Doomsday and the account taking.
+Some have interpreted that the word "better" means here that the reward of one good deed would be awarded from ten times to seven hundred times more. The work of Allah, Who perfected all things, verily, He is well-acquainted with what you do (88)Whoever brings a good deed, will have better than its worth; and they will be safe from the terror on that Day (89)And whoever brings an evil deed, they will be cast down on their faces in the Fire.
 
 ## Tafsir Ibn Kathir
 

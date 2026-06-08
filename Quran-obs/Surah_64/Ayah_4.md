@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. وَصَوَّرَ‌كُمْ فَأَحْسَنَ صُوَرَ‌كُمْ (…and shaped your figures, and made your figures good…64:3).
+He knows what is in the heavens and on earth, and He knows what you conceal and what you reveal. He has created the heavens and the earth with truth, and He shaped you and made good your shapes.
 
 ## Tafsir Ibn Kathir
 

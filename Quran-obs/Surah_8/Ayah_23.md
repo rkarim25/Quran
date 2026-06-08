@@ -53,7 +53,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! In the fourth verse (23), it was said: وَلَوْ عَلِمَ اللَّـهُ فِيهِمْ خَيْرً‌ا لَّأَسْمَعَهُمْ ۖ وَلَوْ أَسْمَعَهُمْ لَتَوَلَّوا وَّهُم مُّعْرِ‌ضُونَ ﴿23﴾ (And had Allah seen in them some good, He would have made them listen.
+In other words, the sense of the verse is: Had Allah seen in them some pliability towards receiving good counsel, He would have blessed them with the ability to listen with faith - and if, in their present state of being with no desire to receive truth, He were to make them listen to what is true, they would have certainly turned away from it paying no heed.
 
 ## Tafsir Ibn Kathir
 

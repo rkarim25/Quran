@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And every Ummah has its appointed term; when their term comes, neither can they delay it nor can they advance it an hour (or a moment)(34)O Children of Adam! The first and the second verse both mentioned two crimes committed by disbelievers.
+If there come to you Messengers from among you, reciting to you My Ayat, then whosoever has Taqwa and becomes righteous, on them shall be no fear nor shall they grieve (35)But those who reject Our Ayat and treat them with arrogance, they are the dwellers of the Fire, they will abide therein forever . And every Ummah has its appointed term; when their term comes, neither can they delay it nor can they advance it an hour (or a moment)(34)O Children of Adam!
 
 ## Tafsir Ibn Kathir
 

@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, for those who have Taqwa, there will be a success (31)Hada'iq and vineyards (32)And Kawa'ib Atrab (33)And a cup Dihaq (34)No Laghw shall they hear therein, nor lying (35)Rewarded from your Lord with a sufficient… یوْمَ يَقُومُ الرُّ‌وحُ وَالْمَلَائِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّ‌حْمَـٰنُ وَقَالَ صَوَابًا (on the Day when the Spirit and the angels will stand in rows.
+They will not speak, except the one who is permitted by the Rahman [ the All-Merciful ] and speaks aright -78:38).
 
 ## Tafsir Ibn Kathir
 

@@ -72,7 +72,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And follow not that of which you have no knowledge. Two injunctions in these verses, the twelfth and the thirteenth, relate to mores of common social living.
+In other words, it should have attained the degree of perfect certitude and absolute category. And follow not that of which you have no knowledge.
 
 ## Tafsir Ibn Kathir
 

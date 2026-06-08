@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah is very Gracious and Kind to His servants. اللَّـهُ لَطِيفٌ بِعِبَادِهِ (Allah is kind to His slaves - 42:19).
+Allah is very Gracious and Kind to His servants.
 
 ## Tafsir Ibn Kathir
 

@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, the sorcerers were assembled at a fixed time on a day appointed (38)And it was said to the people: "Are you (too) going to assemble? Commentary.
+Fir'awn's supporters, who sought and hoped that they would prevail over Musa, were themselves defeated. Therefore, he asked them to show their tricks or magic.
 
 ## Tafsir Ibn Kathir
 

@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And of mankind are some who take (for worship) others besides Allah as rivals (to Allah). Towards the end of the preceding verse it was said that the punishment of the Hereafter is severe.
+The severity of the punishment against which the polytheists have been warned will unfold itself when their leaders whom they followed will disown them as their votaries; and they both, the leaders and the led, will witness the punishment, and whatever bonds of leading and following may have existed between them would be snapped apart, very much like it happens in our mortal world when people share in the illegal but wriggle out when apprehended, so much so, that they would e…
 
 ## Tafsir Ibn Kathir
 

@@ -32,7 +32,7 @@ The third attribute is Zakah which, literally means "to purify" but in religious
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Success is really attained by the believers - 23:1.
+Hakim ul-Ummah has written in Bayan ul-Qur'an that while Khushu' is not a necessary condition for the validity of the prayers, yet it is an essential element for the acceptance of the prayers by Allah and from this point of view it is obligatory.
 
 ## Tafsir Ibn Kathir
 

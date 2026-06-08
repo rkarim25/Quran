@@ -70,7 +70,7 @@ And if We willed, We could surely take away that which We have revealed to you. 
 
 ## Tafsir Summary
 
-And if We willed, We could surely take away that which We have revealed to you. The last verse: وَلَقَدْ صَرَّ‌فْنَا (And surely We have explained - 89) tells us that the Holy Qur’ an stands out as a miracle so clear that it leaves no room for any question and doubt.
+And if We willed, We could surely take away that which We have revealed to you.
 
 ## Tafsir Ibn Kathir
 

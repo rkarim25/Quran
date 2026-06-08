@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! It is interesting that the modern world would very much like to eradicate crimes but it would do so by not having to bother about God and the Hereafter.
+But little is the enjoyment of the life of this world compared to the Hereafter (38)If you march not forth, He will punish you with a painful torment and will replace you by another people; and you cannot harm Him at all, and Allah is able to do all things .
 
 ## Tafsir Ibn Kathir
 

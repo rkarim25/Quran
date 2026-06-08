@@ -50,7 +50,7 @@ When this verse was revealed, 'Abdullah Ibn-uz-ziba'ra claimed that he had the p
 
 ## Tafsir Summary
 
-And when the son of Maryam is quoted as an example, behold, your people cry aloud thereat (57)And say: "Are our gods better or is he?" They quoted not the above example except for argument. وَلَمَّا ضُرِ‌بَ ابْنُ مَرْ‌يَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ (And when the example of the son of Maryam was cited, your people started at once shouting at it [ in joy ]...43:57).
+And when the son of Maryam is quoted as an example, behold, your people cry aloud thereat (57)And say: "Are our gods better or is he?" They quoted not the above example except for argument.
 
 ## Tafsir Ibn Kathir
 

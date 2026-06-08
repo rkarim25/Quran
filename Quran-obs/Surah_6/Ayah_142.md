@@ -80,7 +80,7 @@ Tafsir authority, Ibn Kathir, in his Tafsir and Ibn al-Arabi in Ahkam al-Qur'an 
 
 ## Tafsir Summary
 
-And it is He Who produces gardens Ma'rushat and not Ma'rushat, and date palms, and crops of different shape and taste, and olives, and pomegranates, similar, and different. Mentioned in the previous verses was how astray the disbelievers of Makkah had gone when they had taken their self-carved, lifeless, insensate idols as partners in the Divinity of Allah as they made them share in animals created by Him and in many other blessings which were bestowed on them.
+Certainly unusual is the phenomena when some trees were made to stand on strong trunks and taken as high as it would not be possible for human ingenuity to accomplish in.
 
 ## Tafsir Ibn Kathir
 

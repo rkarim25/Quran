@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when the Word is fulfilled against them, We shall bring out from the earth a beast for them, to speak to them because mankind believed not with certainty in Our Ayat (82) The Emergence Of the Beast Of the Earth The nature of the beast coming out of the earth, and its time and place It is reported in Musnad of Ahmad on the authority of Sayyidna Hudhaifah ؓ that the Holy Prophet ﷺ said that the Doomsday would not come until you witness ten signs of it.
+The Emergence Of the Beast Of the Earth This is the beast which will emerge at the end of time, when mankind has become corrupt and neglected the commands of Allah and changed the true religion.
 
 ## Tafsir Ibn Kathir
 

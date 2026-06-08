@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Recitation of Surah Ash-Shams wa Duhaha in the 'Isha' Prayer The Hadith of Jabir which was recorded in the Two Sahihs has already been mentioned. وَالْأَرْ‌ضِ وَمَا طَحَاهَا (and by the earth, and the One who spread it...91:6).
+Thus in the two verses above attention has been focused on the great Designer and Architect of the sky and earth [ that is, the universe ], and on the perfection and complete freedom from flaw or defect in the design and creation of the universe.
 
 ## Tafsir Ibn Kathir
 

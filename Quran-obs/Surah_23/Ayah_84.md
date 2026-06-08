@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Whose is the earth and whosoever is therein? And We have already seized them with punishment, but they did not turn humble to their Lord, nor do they supplicate in humility.
+And He protects, while against Whom there is no protector, if you know? He tells His Messenger Muhammad ﷺ to say to the idolators who worship others besides Him, even though they admit His Lordship, that He has no partner in Lordship.
 
 ## Tafsir Ibn Kathir
 

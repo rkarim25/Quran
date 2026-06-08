@@ -140,7 +140,7 @@ Allah directed His believing servants to believe in what He sent down to them th
 
 ## Tafsir Summary
 
-Say (O Muslims): "We believe in Allah and that which has been sent down to us and that which has been sent down to Ibrahim (Abraham), Isma'il (Ishmael), Ishaq (Isaac), Ya'qub (Jacob), and to Al-Asbat (the offspring of the twelve sons of Ya'qub), and that which has been given to Musa (Moses) and 'Isa (Jesus), and that which has been given to the Prophets from their Lord. The earlier verses have defined the religion (Millat مِلَّت of Sayyidna Ibrahim (علیہ السلام) and established that its present form is Islam.
+Allah directed the believers to refrain from differentiating between the Prophets and to believe in them all.
 
 ## Tafsir Ibn Kathir
 

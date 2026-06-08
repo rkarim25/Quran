@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! وَأُخْرَ‌ىٰ تُحِبُّونَهَا ۖ نَصْرٌ‌ مِّنَ اللَّـهِ وَفَتْحٌ قَرِ‌يبٌ (And [ He will give you ] another thing that you love: Help from Allah, and a victory, near at hand ...61:13) This verse adds that the blessings of this trade are not restricted to the Hereafter.
+There is one blessing that will be granted right here in this world, which is the Divine help and an imminent victory, that is, conquests of enemy territories.
 
 ## Tafsir Ibn Kathir
 

@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who convey the Message of Allah and fear Him, and fear none save Allah. Mentioned next are particular attributes of the prophets علیہم السلام about whom we have learnt a while ago that they were permitted to have several wives in earlier times.
+And sufficient is Allah as a Reckoner (39)Muhammad is not the father of any of your men, but he is the Messenger of Allah and the last of the Prophets.
 
 ## Tafsir Ibn Kathir
 

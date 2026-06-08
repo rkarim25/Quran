@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Is not He Who created the heavens and the earth, able to create the like of them? In verse 82, it was said: إِنَّمَا أَمْرُ‌هُ إِذَا أَرَ‌ادَ شَيْئًا أَن يَقُولَ لَهُ كُن فَيَكُونُ (His practice, when He intends to do something, is no more than He says, "Be", and it comes to be.).
+He is the All-Knowing Supreme Creator (81)Verily, His command, when He intends a thing, is only that He says to it, "Be!" – and it is (82)So glorified be He and exalted (above all that they associate with Him), and in Whose Hand is the dominion of all things, and to Him you shall be returned .
 
 ## Tafsir Ibn Kathir
 

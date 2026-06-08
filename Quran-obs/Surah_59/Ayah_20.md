@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! فَأَنسَاهُمْ أَنفُسَهُمْ He made them forget their own selves....59:19) It means they did not forget Allah but themselves, because they are unaware of their own loss and gain.
+Those are the rebellious (19)Not equal are the dwellers of the Fire and the dwellers of the Paradise.
 
 ## Tafsir Ibn Kathir
 

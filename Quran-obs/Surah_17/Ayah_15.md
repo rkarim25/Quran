@@ -95,7 +95,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Whoever goes right, then he goes right only for the benefit of himself. On the basis of this verse, some leading Muslim jurists rule that people to whom the call of any prophet or messenger did not reach will not be subject to any punishment, despite their disbelief.
+No One will have to bear the Sins of Another Allah tells us that whoever is guided and follows the truth, walking in the footsteps of the Prophet ﷺ, he will gain the good consequences of that for himself.
 
 ## Tafsir Ibn Kathir
 

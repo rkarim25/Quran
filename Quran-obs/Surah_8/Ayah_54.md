@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-That is so because Allah will never change a grace which He has bestowed on a people until they change what is in themselves. The words used in the first of the verses cited above are almost the same as have appeared a verse earlier in: كَدَأْبِ آلِ فِرْ‌عَوْنَ ۙ وَالَّذِينَ مِن قَبْلِهِمْ ۚ كَذَّبُوا بِآيَاتِ رَ‌بِّهِمْ فَأَهْلَكْنَاهُم بِذُنُوبِهِمْ ' (Their way is) like the way of the people of Pharaoh and of those before them - 52.' But, the purpose behind these two statements differs in both.
+That is so because Allah will never change a grace which He has bestowed on a people until they change what is in themselves.
 
 ## Tafsir Ibn Kathir
 

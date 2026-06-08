@@ -85,7 +85,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And we descend not except by the command of your Lord. "They will not hear anything absurd therein but a word of peace." - 19:62.
+To Him belongs what is before us and what is behind us, and what is between those two; and your Lord is never forgetful (64)Lord of the heavens and the earth, and all that is between them, so worship Him and abide patiently in His worship.
 
 ## Tafsir Ibn Kathir
 

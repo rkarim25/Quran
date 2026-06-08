@@ -203,7 +203,7 @@ In any case, the real subject of these four verses is to instruct man to behave 
 
 ## Tafsir Summary
 
-And We have enjoined on man to be dutiful and kind to his parents. In any case, the real subject of these four verses is to instruct man to behave beautifully with one's parents, and in that context there are other instructions also.
+If the maximum period of suckling, that is twenty four months according to the verse 2:233 cited above, is deducted from thirty months, the balance is no more than six months which has been taken as the minimum period of pregnancy.
 
 ## Tafsir Ibn Kathir
 

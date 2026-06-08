@@ -158,7 +158,7 @@ Ka'b al-Ahbar, an accomplished scholar of the Torah, was a Jew before he became 
 
 ## Tafsir Summary
 
-"And come not near to the orphan's property, except to improve it, until he (or she) attains the age of full strength; and give full measure and full weight with justice." – We burden not any person, but that which he can bear – "And whenever you speak, say the truth even if a near relative is concerned, and fulfill the covenant of Allah.
+Therefore, precaution demands that one should not even go near what is prohibited.
 
 ## Tafsir Ibn Kathir
 

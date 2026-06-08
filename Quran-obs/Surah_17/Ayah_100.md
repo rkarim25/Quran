@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "If you possessed the treasure of the mercy of my Lord, then you would surely hold back for fear of spending, and man is ever miserly! The truth of the matter about what has been said in the last verse (100) is that the treasures of the mercy of Allah are limit-less and end-less.
+This has its link with previous verses (90, 91) where the disbelievers of Makkah had demanded that the Holy Prophet ﷺ should - if he was really a prophet in truth - make rivers flow in the barren desert of Makkah and trans-form it into lush green farms, like the land of Syria.
 
 ## Tafsir Ibn Kathir
 

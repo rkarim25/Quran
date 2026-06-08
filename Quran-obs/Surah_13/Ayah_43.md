@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who disbelieved, say: "You are not a Messenger." Say: "Sufficient as a witness between me and you is Allah and those too who have knowledge of the Scripture. In verse وَإِن مَّا نُرِ‌يَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ (And if We show you some of what We promise them, or We take you back to Us), it is to comfort and assure the Holy Prophet ﷺ that he has been given the good news that the promises Allah has made to him that Islam will have the final victory and disbelief and disbelievers will be disgraced shall come to pass definitely.
+This is the end of Surat Ar-Ra'd, and all praise is due to Allah and all favors are from Him.
 
 ## Tafsir Ibn Kathir
 

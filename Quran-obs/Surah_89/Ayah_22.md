@@ -30,7 +30,7 @@ He said, "This Ayah was revealed while Abu Bakr was sitting (with the Prophet �
 
 ## Tafsir Summary
 
-Nay! وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا (and your Lord will come, and the angels as well, lined up in rows....89:22) They will arrive in the Plain of Gathering.
+The words 'your Lord will come' is an allegorical expression.
 
 ## Tafsir Ibn Kathir
 

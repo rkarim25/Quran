@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Introduction to Surat Ar-Rahman Imam Ahmad recorded that Zirr said that a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! خَلَقَ الْإِنسَانَ عَلَّمَهُ الْبَيَانَ (He has created man.
+He taught him Al-Bayan.) Al-Hasan said: "Eloquent speech." This refers to Allah teaching the Qur'an, that is, teaching the servants how to recite it by making it easy for them to speak and pronounce letters with the various parts of the mouth, such as the alveolar bridge, the tongue and the lips.
 
 ## Tafsir Ibn Kathir
 

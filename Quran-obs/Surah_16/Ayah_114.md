@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So eat of the lawful and good food which Allah has provided for you. Sequence and Explanation in Gist Mentioned in the previous verses was that disbelievers will be punished for their ungratefulness to Allah whose blessings they had been enjoying.
+And be grateful for Allah's favor, if it is He Whom you worship (114)He has only forbidden dead flesh, blood, the flesh of swine, and any animal which is slaughtered as a sacrifice for other than Allah.
 
 ## Tafsir Ibn Kathir
 

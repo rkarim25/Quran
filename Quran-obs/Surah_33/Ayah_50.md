@@ -265,7 +265,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Prophet! These verses contain seven injunctions about marriage and divorce that are specific to the Holy Prophet t and these specifics signify his distinctive eminence and his special honor.
+As such it is stated in 'Ruh ul-Ma’ ani' as a particularity of the Holy Prophet ﷺ that just as the nikah of any of his wives with any other Muslim is not lawful after him, similarly any of his bondwomen is not lawful for any Muslim after him ﷺ .
 
 ## Tafsir Ibn Kathir
 

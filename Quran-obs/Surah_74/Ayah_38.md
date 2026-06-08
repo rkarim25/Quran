@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Every person is a pledge for what he has earned (38)Except those on the Right (39)In Gardens they will ask one another (40)About criminals (and they will say to them)(41)"What has caused you to enter Hell? كُلُّ نَفْسٍۢ بِمَا كَسَبَتْ رَهِيْنَةٌ اِلَّآ اَصْحٰبَ الْيَمِيْنِ (Everyone will be detained [ in the Hell ] because of what he did, [ 38] except the People of the Right, [ i.e.
+However, if 'detention' refers to being held at some other place before giving account or before admission into Paradise or Hell, it signifies that every person will be held to give an account of his deeds.
 
 ## Tafsir Ibn Kathir
 

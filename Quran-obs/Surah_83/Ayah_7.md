@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nay! كَلَّا إِنَّ كِتَابَ الْفُجَّارِ‌ لَفِي سِجِّينٍ (Never!
+Truly, the Record of the wicked is in Sijjin.) meaning, that their final destination and their abode will be in Sijjin, which is derived from the word prison (Sijn), and here it means straitened circumstances.
 
 ## Tafsir Ibn Kathir
 

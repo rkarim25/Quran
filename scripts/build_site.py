@@ -15,7 +15,17 @@ from md_io import SOURCE, ayah_path, read_ayah, to_json_ayah
 
 ROOT = Path(__file__).resolve().parent.parent
 OUTPUT = ROOT / "docs" / "data"
+AI_TRANSLATIONS = OUTPUT / "ai_translations"
 QURAN_API = "https://api.quran.com/api/v4/chapters?language=en"
+
+
+def load_ai_translations(surah: int) -> dict[int, str]:
+    path = AI_TRANSLATIONS / f"surah_{surah}.json"
+    if not path.exists():
+        return {}
+    data = json.loads(path.read_text(encoding="utf-8"))
+    ayahs = data.get("ayahs", {})
+    return {int(k): v for k, v in ayahs.items() if v and str(v).strip()}
 
 
 def fetch_chapters() -> dict[int, dict]:
@@ -31,8 +41,12 @@ def build_surah(surah: int, chapters: dict[int, dict]) -> None:
         return
 
     ayahs = []
+    ai_map = load_ai_translations(surah)
     for path in sorted(surah_dir.glob("Ayah_*.md"), key=lambda p: int(p.stem.split("_")[1])):
-        ayahs.append(to_json_ayah(read_ayah(path)))
+        row = to_json_ayah(read_ayah(path))
+        if row["ayah"] in ai_map:
+            row["ai_translation"] = ai_map[row["ayah"]]
+        ayahs.append(row)
 
     chapter = chapters[surah]
     surah_data = {

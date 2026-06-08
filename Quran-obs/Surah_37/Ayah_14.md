@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then ask them: "Are they harder to create, or those whom We have created?" Verily, We created them of a sticky clay (11)Nay, you wondered while they mock (12)And when they are reminded, they pay no attention (13)And when they see an Ayah (a sign) from Allah, they mock at it (14)And they say: "This is nothing but evident magic! As for reported proofs, their reaction is: وَإِذَا رَ‌أَوْا آيَةً يَسْتَسْخِرُ‌ونَ (And when they see a sign, they make a fun of it - 37:14).
+this is a dismissive answer, as is usually given to rigid people. But, a little deliberation would reveal that it happens to be a full-fledged argument as well.
 
 ## Tafsir Ibn Kathir
 

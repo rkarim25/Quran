@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when Al-Hawariyun said: "O 'Isa, son of Maryam! A True Believer Should Not Demand Miracles When the disciples of Sayyidna ` Isa (علیہ السلام) asked him to make ` Ma'idah' (food-spread) come down from the heavens, he replied by saying: قَالَ اتَّقُوا اللَّـهَ إِن كُنتُم مُّؤْمِنِين (Fear Allah if you are believers).
+Some scholars said that the disciples requested this table because they were poor and deprived. This very Hadith also tells us that they ate from it as they wanted to do as mentioned in the word, ` na'kulu' (we eat) - however, storing it for future use was prohibited.
 
 ## Tafsir Ibn Kathir
 

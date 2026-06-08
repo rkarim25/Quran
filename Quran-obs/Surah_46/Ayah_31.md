@@ -70,7 +70,7 @@ And (remember) when We sent toward you a group of the Jinn, to listen to the Qur
 
 ## Tafsir Summary
 
-And (remember) when We sent toward you a group of the Jinn, to listen to the Qur'an. یغْفِرْ‌ لَكُم مِّن ذُنُوبِكُمْ (will forgive your sins for you,) The word 'min' used in the text gives the sense of 'some'.
+Respond to Allah's Caller,) This is proof that Muhammad ﷺ has been sent to both the human beings and the Jinns.
 
 ## Tafsir Ibn Kathir
 

@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "You have come to us that we should worship Allah Alone and forsake that which our fathers used to worship. (5)-In the last verse (72) it was said that the final outcome of the entire struggle of Sayyidna Hud (علیہ السلام) against the contumacy of the people of ` Ad was that Allah Ta` ala kept Sayyidna Hud (علیہ السلام) and those who had believed in him safe from the punishment and cut off the root of those who had belied him - and they were not of those who would have believed.
+They were subjected to it for seven nights and eight days in succession, so that you could see men lying overthrown (destroyed), as if they were hollow trunks of date palms! They also spread throughout the land and defeated various peoples, because of the strength that Allah gave them.
 
 ## Tafsir Ibn Kathir
 

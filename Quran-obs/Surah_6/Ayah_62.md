@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is He, Who takes your souls by night (when you are asleep), and has knowledge of all that you have done by day, then he raises (wakes) you up again, that a term appointed be fulfilled, then (in the end), unto Him will be your return. In the third verse, this subject has been further enlarged by saying that Allah Ta` ala has absolute subduing power over all His servants.
+Surely, His is the judgment and He is the swiftest in taking account .
 
 ## Tafsir Ibn Kathir
 

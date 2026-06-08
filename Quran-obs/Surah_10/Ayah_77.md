@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then after them We sent Musa and Harun to Fir'awn and his chiefs with Our Ayat. It was said in the last verse (64) that, for the friends of Allah, there is the good news in the worldly life and in the Hereafter.
+As for the good news of the Hereafter, it will come at the time of death when the spirit of the deceased will be taken to Allah.
 
 ## Tafsir Ibn Kathir
 

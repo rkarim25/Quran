@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We know that they (polytheists and pagans) say: "It is only a human being who teaches him." The tongue of the man they refer to is foreign, while this (the Qur'an) is (in) a clear Arabic tongue (103) The Idola… In the previous verse (98), there was an instruction to say اَعُوذ بِاللہ 'a udhu bil-lah' (I seek protection with Allah) while reciting the Qur’ an which indicates that the Shaitan puts scruples in the heart when one recites the Qur'an.
+And indeed We know that they (polytheists and pagans) say: "It is only a human being who teaches him." The tongue of the man they refer to is foreign, while this (the Qur'an) is (in) a clear Arabic tongue .
 
 ## Tafsir Ibn Kathir
 

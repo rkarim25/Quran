@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And on the Day when We shall gather them all together, We shall say to those who joined partners in worship (with Us): "Where are your partners (false deities) whom you used to assert (as partners in worship with Allah)? In verse 24, it was said: انظُرْ‌ كَيْفَ كَذَبُوا عَلَىٰ أَنفُسِهِمْ ۚ وَضَلَّ عَنْهُم مَّا كَانُوا يَفْتَرُ‌ونَ (See how they lied about themselves - and lost to them was all that they used to coin).
+The address here is to the Holy Prophet ﷺ who has been asked to see how these people have lied against their own selves, and whatever they used to forge and fabricate against Allah (their idols and so-called partners to Allah) is lost to them.
 
 ## Tafsir Ibn Kathir
 

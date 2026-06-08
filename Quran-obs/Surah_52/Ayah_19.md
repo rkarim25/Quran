@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who have Taqwa will be in Gardens and Delight (17)Enjoying in that which their Lord has bestowed on them, and (the fact that) their Lord saved them from the torment of the blazing Fire (18)"Eat and drink with happiness because of what you used to do. يَوْمَ تَمُورُ‌ السَّمَاءُ مَوْرً‌ا (...the Day when the sky will tremble, a horrible trembling, ...52:9) The lexicographical denotation of the word mawr is violent shaking, or movement caused by unrest.
+We mentioned the description of Al-Hur Al-'Ayn in several other places in this Tafsir, and therefore, it is not necessary to repeat their description here.
 
 ## Tafsir Ibn Kathir
 

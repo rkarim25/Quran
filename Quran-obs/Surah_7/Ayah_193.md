@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do they attribute as partners to Allah those who created nothing but they themselves are created (191)No help can they give them, nor can they help themselves (192)And if you call them to guidance, they follow you not. In short, all the above acts or beliefs are different forms of 'Shirk' ~,.
+It is the same for you whether you call them or you keep silent (193)Verily, those whom you call upon besides Allah are servants like you. Therefore, the result is the same, whether calling the idols or shunning them.
 
 ## Tafsir Ibn Kathir
 

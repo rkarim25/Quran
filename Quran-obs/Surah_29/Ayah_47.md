@@ -91,7 +91,7 @@ The manner in which this verse endorses the belief of Muslims in Torah and Injil
 
 ## Tafsir Summary
 
-And thus We have sent down the Book to you, and those whom We gave the Scripture believe therein as also do some of these and none but the disbelievers reject Our Ayat (47)Neither did you read any book before it nor did you write any book with your right hand. وَلَا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ إِلَّا الَّذِينَ ظَلَمُوا (And do not debate with the people of the Book unless it is in the best way, except those from them who commit injustice.
+In that case, indeed, the followers of falsehood might have doubted (48)Nay, but it is clear Ayat, (preserved) in the breasts of those who have been given knowledge.
 
 ## Tafsir Ibn Kathir
 

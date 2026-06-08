@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-We narrate unto you their story with truth: Truly, they were young men who believed in their Lord (Allah), and We increased them in guidance (13)And We made their hearts firm and strong when they stood up and said: "Our Lord is the Lord of the heavens and the earth, never shall we call upon any god other than Him; if we did, we should indeed have uttered an enormity in disbelief (14)These our people have taken for worship gods other than Him. The first sentence of verse 14: وَرَ‌بَطْنَا عَلَىٰ قُلُوبِهِمْ (And We made their hearts firm) refers to the event described by Ibn Kathir a little earlier.
+Why do they not bring for them a clear authority?) meaning, why do they not produce some clear evidence and genuine proof for their behavior?
 
 ## Tafsir Ibn Kathir
 

@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Their likeness is as the likeness of one who kindled a fire; then, when it illuminated all around him, Allah removed their light and left them in darkness. The last four verses bring out the miserable plight of the hypocrites with the help of two extended similes.
+On the one hand were those in whom disbelief had taken deep roots, so that they had little inclination towards Islam, but pretended to be Muslims for worldly motives - the Holy Qur'an compares them to the man who, having found light, again loses it, and is left in darkness.
 
 ## Tafsir Ibn Kathir
 

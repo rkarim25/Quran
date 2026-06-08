@@ -84,7 +84,7 @@ Imam Ahmad recorded that Anas bin Malik said, "When this Ayah was revealed,
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. لَا تَرْ‌فَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ do not raise your voices above the voice of the Prophet ﷺ .
+Therefore, some of the scholars have expressed the view that it is disrespectful to say salam or speak very loudly in front of the Holy Prophet's mausoleum.
 
 ## Tafsir Ibn Kathir
 

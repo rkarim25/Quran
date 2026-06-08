@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The love of the world causes nations to lose faith and consign Allah to oblivion This Surah denounces some of the evil actions of the pagans and the hypocrites, and it holds out a threat of destruction to those who commit them.
+Al-Mas'udi narrated from Salamah bin Kuhayl who reported from Abu Al-'Ubaydin that he asked Ibn Mas'ud about Al-Ma'un and he said, "It is what the people give to each other, like an axe, a pot, a bucket and similar items." This is the end of the Tafsir of Surat Al-Ma'un, and all praise and thanks are due to Allah.
 
 ## Tafsir Ibn Kathir
 

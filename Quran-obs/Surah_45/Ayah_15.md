@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah, it is He Who has subjected to you the sea, that ships may sail through it by His command, and that you may seek of His bounty, and that you may be thankful (12)And has subjected to you all that is in the heavens and all that is on the earth; it is all (as a favor and kindness) from Him. قُل لِّلَّذِينَ آمَنُوا يَغْفِرُ‌وا لِلَّذِينَ لَا يَرْ‌جُونَ أَيَّامَ اللَّـهِ ("Tell those who believe that they should forgive those who do not believe in Allah's days ...14) ".
+Verily, in it are signs for a people who think deeply (13)Say to the believers to forgive those who hope not for the Days of Allah, that He may recompense people, according to what they have earned (14)Whosoever does a good deed, it is for himself, and whosoever does evil, it is against (himself).
 
 ## Tafsir Ibn Kathir
 

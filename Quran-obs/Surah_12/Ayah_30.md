@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And women in the city said: "The wife of the 'Aziz is seeking to seduce her (slave) young man, indeed she loves him violently; verily, we see her in plain error. So, after having pointed out to Zulaikha her error, the ` Aziz of Misr said to Sayyidna Yusuf (علیہ السلام) : يُوسُفُ أَعْرِ‌ضْ عَنْ هَـٰذَا :'O Yusuf, ignore this matter' - that is, do not speak about it before others so there be no disgrace because of this.
+In customary usage, a boy slave when small is called a ghulam.
 
 ## Tafsir Ibn Kathir
 

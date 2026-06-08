@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Musa said to him: "May I follow you so that you teach me something of that knowledge which you have been taught (by Allah)? Following the teacher is incumbent on the student In verse 66: هَلْ أَتَّبِعُكَ عَلَىٰ أَن تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُ‌شْدًا ، Sayyidna Musa (علیہ السلام) despite being a prophet and messenger of great resolve, has most reverentially requested al-Khadir (علیہ السلام) if he could follow him to learn his knowledge from him.
+This tells us that the etiquette of acquiring knowledge is nothing but that the student should show respect for the teacher and follow him (as an individual who is eager to learn) - even if the student happens to be superior to his teacher.
 
 ## Tafsir Ibn Kathir
 

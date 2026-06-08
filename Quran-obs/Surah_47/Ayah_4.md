@@ -171,7 +171,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, when you meet those who disbelieve (in battle), smite (their) necks until you have fully defeated them, then tighten their bonds. This verse lays down two points of law: first, it lays down that when war breaks the might and power of the enemy, and does away with their pomp and glory, they should be arrested rather than being killed.
+Thus none of them is abrogated, because when the disbelievers are arrested and come into our control, the leader of the Muslims has four options: [ 1] if he deems appropriate, he may kill them ; [ 2] if he feels that it is in the best interest of the Muslims, he may hold them in bondage; [ 3] if it is appropriate, he may release them in lieu of pecuniary ransom or in exchange of Muslim POWs ; and [ 4] if it seems proper, they may be released.
 
 ## Tafsir Ibn Kathir
 

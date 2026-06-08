@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. After having mentioned these two attributes of Allah Ta’ ala earlier, it was said: اللَّـهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْ‌ضِ (Allah, the One to whom be-longs what is in the heavens and what is in the earth).
+Allah to Whom belongs all that is in the heavens and all that is in the earth!
 
 ## Tafsir Ibn Kathir
 

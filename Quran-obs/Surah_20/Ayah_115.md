@@ -56,7 +56,7 @@ And now we come to the story of Sayyidna 'Adam (علیہ السلام) which has
 
 ## Tafsir Summary
 
-And indeed We made a covenant with Adam before, but he forgot, and We found on his part no firm willpower (115)And (remember) when We said to the angels: "Prostrate yourselves to Adam." They prostrated themselves (all) except Iblis; he refused (116)Then We said: "O Adam! And now we come to the story of Sayyidna 'Adam (علیہ السلام) which has been related earlier in Surah Al-Baqarah and Al-A` raf and partly in Surah Hijr and Al-Kahf, and will also appear later in Surah Sad.
+He also explains the enmity of Iblis for the Children of Adam and for their father, Adam, before them. Thus Adam disobeyd his Lord, so he went astray (121)Then his Lord chose him, and turned to him with forgiveness, and gave him guidance (122).
 
 ## Tafsir Ibn Kathir
 

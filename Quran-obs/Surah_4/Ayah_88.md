@@ -105,7 +105,7 @@ Al-'Awfi reported that Ibn 'Abbas said that the Ayah was revealed about some peo
 
 ## Tafsir Summary
 
-Then what is the matter with you that you are divided into two parties about the hypocrites? The verses quoted above describe three groups of people about whom two injunctions have been given.
+The second groups is exempted from being arrested and killed.
 
 ## Tafsir Ibn Kathir
 

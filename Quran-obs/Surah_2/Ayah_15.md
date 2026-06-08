@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when they meet those who believe, they say: "We believe," but when they are alone with their Shayatin (devils), they say: "Truly, we are with you; verily, we were but mocking. The eighth verse is a comment on this attitude of complacency and self-congratulation on the part of the hypocrites.
+For Allah has, in His forbearance and mercy, given them a long rope, but this is a provision for their being thrown into ridicule.
 
 ## Tafsir Ibn Kathir
 

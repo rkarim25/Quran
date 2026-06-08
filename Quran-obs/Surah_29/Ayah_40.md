@@ -124,7 +124,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And 'Ad and Thamud! The stories of the earlier people, that are mentioned in these verses briefly, have been related in detail in the previous Surahs.
+And indeed Musa came to them with clear Ayat, but they were arrogant in the land, yet they could not outstrip Us (39)So, We punished each for his sins, of them were some on whom We sent a Hasib, and of them were some who were overtaken by As-Sayhah, and of them were some whom We caused the earth to swallow, and of them were some whom We drowned.
 
 ## Tafsir Ibn Kathir
 

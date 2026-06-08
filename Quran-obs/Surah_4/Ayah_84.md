@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then fight in the cause of Allah, you are not tasked (held responsible) except for yourself, and incite the believers (to fight along with you), it may be that Allah will restrain the evil might of the disbelievers. The Background of Revelation When the battle of Uhud came to pass in the month of Shawwal, the Holy Prophet ﷺ ، in keeping with the promised date set by the disbelievers, started preparations to confront them at Badr in the month of Dhi-Qa'dah (historians identify which as the minor Badr).
+This is the narration recorded by Abu Dawud.
 
 ## Tafsir Ibn Kathir
 

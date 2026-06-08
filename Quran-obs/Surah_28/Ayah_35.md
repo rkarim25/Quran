@@ -70,7 +70,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "My Lord! A sermon should have high degree of eloquence هُوَ أَفْصَحُ مِنِّي لِسَانًا (He is more fluent in his tongue - 28:34).
+This verse points out that a high degree of oratory and eloquence is desirable for sermons and preaching, and there is no harm if one takes training in that.
 
 ## Tafsir Ibn Kathir
 

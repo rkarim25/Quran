@@ -20,7 +20,7 @@ The Holy Prophet ﷺ disliked the intrusion, and showed his displeasure by turni
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Circumstance of Revelation Sayyidna ` Abdullah Ibn Umm Maktum ؓ ، the companion of the Holy Prophet ﷺ was a blind man.
+...80:3) alludes to the fact that the Holy Prophet ﷺ was excusable, because it did not come to his attention that the Companion is asking something whose effect will be certain and the effect of conversation with others is dubious.
 
 ## Tafsir Ibn Kathir
 

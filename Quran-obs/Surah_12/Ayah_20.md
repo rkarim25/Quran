@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And there came a caravan of travelers and they sent their water-drawer, and he let down his bucket (into the well). Verse 20 begins with the words: وَشَرَ‌وْهُ بِثَمَنٍ بَخْسٍ دَرَ‌اهِمَ مَعْدُودَةٍ (And they sold him for a paltry price, for a few silver-coins, and they were disinterested in him).
+Thus, the sense would be: ` the brothers of Yusuf sold him - or, the people of the caravan bought him - for a paltry price, that is, for a counted few dirhams in return.' Al-Qurtubi says: The Arab traders used to transact deals involving big amounts by weight while, for amounts not more than forty, they would go by count.
 
 ## Tafsir Ibn Kathir
 

@@ -46,7 +46,7 @@ A party of the People of the Scripture wish to lead you astray. But they shall n
 
 ## Tafsir Summary
 
-A party of the People of the Scripture wish to lead you astray. The words in أَنتُمْ تَشْهَدُونَ (you are yourselves a witness - 70) and in أَنتُمْ تَعْلَمُونَ (you know ( 71) should not be taken to mean that disbelief will become permissible for them if they do not attest to the truth or have no knowledge about it.
+However, when the day ended, they would revert to their old religion so that the ignorant people would say, "They reverted to their old religion because they uncovered some shortcomings in the Islamic religion." This is why they said next. Why do you disbelieve in the Ayat of Allah, while you bear witness.
 
 ## Tafsir Ibn Kathir
 

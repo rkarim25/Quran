@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those on the left? ثُلَّةٌ مِّنَ الْأَوَّلِينَ وَثُلَّةٌ مِّنَ الْآخِرِ‌ينَ (many from the earlier generations, and many from the later ones....56:39-40) In connection with sabiqun, (the Foremost) two views of the commentators were quoted earlier as to the identity of 'the earlier' and the 'later' generations.
+Besides, the words 'many from the later generations' has the scope of being larger in number than the 'many from the earlier generations'. As for the People of the Right, their number will be large in both 'earlier' and 'later' generations.
 
 ## Tafsir Ibn Kathir
 

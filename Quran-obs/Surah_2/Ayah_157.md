@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And certainly, We shall test you with something of fear, hunger, loss of wealth, lives and fruits, but give glad tidings to As-Sabirin (the patient)(155)Who, when afflicted with calamity, say: "Truly, to Allah we belong and truly, to Him we shall return. Patience in hardship: The way to make it easy The nature and the significance of the severe test man is put to by Allah has been thoroughly discussed while explaining the verse’ وَإِذِ ابْتَلَىٰ إِبْرَ‌اهِيمَ رَ‌بُّهُ 'And when his Lord put Ibrahim to a test'.
+And as the Ummah, generally, displays the spirit of patience in all its deeds, the reward of Mercy is common to everyone who strives to be patient.
 
 ## Tafsir Ibn Kathir
 

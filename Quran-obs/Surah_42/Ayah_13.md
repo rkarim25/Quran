@@ -172,7 +172,7 @@ He (Allah) has ordained for you the same religion which He ordained for Nuh, and
 
 ## Tafsir Summary
 
-He (Allah) has ordained for you the same religion which He ordained for Nuh, and that which We have revealed to you, and that which We ordained for Ibrahim, Musa and 'Isa saying you should establish religion and make no divisions in it. شَرَ‌عَ لَكُم مِّنَ الدِّينِ مَا وَصَّىٰ بِهِ نُوحًا (He has ordained for you the same religion as He had enjoined upon Nuh (علیہ السلام) -- 42:13) Allah Almighty's obvious and material blessings were stated in the previous verses.
+He (Allah) has ordained for you the same religion which He ordained for Nuh, and that which We have revealed to you, and that which We ordained for Ibrahim, Musa and 'Isa saying you should establish religion and make no divisions in it.
 
 ## Tafsir Ibn Kathir
 

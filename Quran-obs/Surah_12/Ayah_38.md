@@ -114,7 +114,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "No food will come to you as your provision, but I will inform its interpretation before it comes. After that, he declares his abhorrence for disbelief and his disengagement from the community of disbelievers.
+Then, he said that the Taufiq of following a true religion ('the favour of Allah upon us and upon all people' ) was nothing but the Fadl or grace of Allah Ta’ ala, for it was He who, by giving proper understanding, made the acceptance of truth easy on us.
 
 ## Tafsir Ibn Kathir
 

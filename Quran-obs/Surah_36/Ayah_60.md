@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(It will be said): "And O you the criminals! In verse 60, it was said: أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَن لَّا تَعْبُدُوا الشَّيْطَانَ (Did I not direct you, 0 children of 'Adam, that you must not worship the Shaitan, (because) he is an open enemy for you,- 36:60).
+Verily, he is a plain enemy to you.) This is a rebuke from Allah to the disbelievers among the sons of Adam, those who obey the Shaytan even though he was a plain enemy to them, and they disobeyed Ar-Rahman Who created them and granted them provision.
 
 ## Tafsir Ibn Kathir
 

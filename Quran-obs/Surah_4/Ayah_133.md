@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Allah belongs all that is in the heavens and all that is in the earth. The third mention of these words embodies a statement of Allah's mercy which makes things work for people.
+And Allah is Ever All-Sufficient as Disposer of affairs (132)If He wills, He can take you away, O people, and bring others.
 
 ## Tafsir Ibn Kathir
 

@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) the Day when We shall roll up the heaven like a Sijill for books. يَوْمَ نَطْوِي السَّمَاءَ كَطَيِّ السِّجِلِّ لِلْكُتُبِ (The Day when We roll up the sky like a scroll rolls up the writings.
+As He created them in the first place, He is surely able to re-create them.
 
 ## Tafsir Ibn Kathir
 

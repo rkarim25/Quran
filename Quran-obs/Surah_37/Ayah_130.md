@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, Ilyas was one of the Messengers (123)When he said to his people: "Will you not have Taqwa? The word: إِلْ يَاسِينَ (il ya sin) used in: سَلَامٌ عَلَىٰ إِلْ يَاسِينَ (Salam on it ya sin -130) is also the very name of Sayyidna Ilyas (علیہ السلام) .
+Allah sent him to the Children of Israel after Hizqil (Ezekiel), may peace be upon them both.
 
 ## Tafsir Ibn Kathir
 

@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when your Lord said to the angels: "I am going to create a man (Adam) from dried (sounding) clay of altered mud. Blowing of Spirit into the Human Body and Making Angels Prostrate to him: A Brief Review
+Then, this lower form of spirit which is identified as Nafs or self armed with the states and effects which it has acquired from the higher forms of spirits first gets connected with the heart muscle of the human body.
 
 ## Tafsir Ibn Kathir
 

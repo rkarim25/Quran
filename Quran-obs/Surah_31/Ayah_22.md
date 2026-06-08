@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And whosoever submits his face (himself) to Allah, while he is a Muhsin, then he has grasped the most trustworthy handhold. At the beginning of the Surah, the Kafirs and the Mushriks were admonished for still persisting with their Kufr and Shirk despite that they had seen the manifestations of the all-encompassing knowledge and the most perfect power of Allah Ta’ ala.
+And whosoever submits his face (himself) to Allah, while he is a Muhsin, then he has grasped the most trustworthy handhold. And whoever disbelieves, let not his disbelief grieve you.) means, 'do not grieve over them, O Muhammad, because they disbelieve in Allah and in the Message you have brought, for their return will be to Allah and He will tell them what they used to do,' i.e., He will punish them for it.
 
 ## Tafsir Ibn Kathir
 

@@ -128,7 +128,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Musa said: "Our Lord! Mentioned in the second verse (88), there is a curse which Sayyidna Musa (علیہ السلام) invoked after having lost all hopes of reforming the people of the Pharaoh.
+The invocation of this curse obviously appears to be something far out as coming through the speech of an apostle or prophet, because the sole mission of a prophet's life is nothing but to invite people to believe and act right and make efforts towards that end.
 
 ## Tafsir Ibn Kathir
 

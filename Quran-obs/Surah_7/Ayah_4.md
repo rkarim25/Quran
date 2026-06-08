@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And a great number of towns We destroyed. In the statement فَلَا يَكُن فِي صَدْرِ‌كَ حَرَ‌جٌ appearing in the first verse, the address is to the Holy Prophet .
+Or that He may catch them in the midst of their going to and from, so that there be no escape for them?
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the king (of Egypt) said: "Verily, I saw (in a dream) seven fat cows, whom seven lean ones were devouring, and seven green ears of corn, and (seven) others dry. Said in verse 48 was: ثُمَّ يَأْتِي مِن بَعْدِ ذَٰلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ (Then there shall come, after that, seven hard years which shall eat up what you have stored for them).
+Though, an year is no eatable, the sense is that the people and animals will eat up during the time of famine whatever grain was stored up during past years.
 
 ## Tafsir Ibn Kathir
 

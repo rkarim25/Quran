@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-What has been narrated about This Surah Imam Ahmad recorded from Ibn 'Umar that the Messenger of Allah ﷺ said, وَإِذَا الْبِحَارُ‌ سُجِّرَ‌تْ (and when the seas will be flared up...81:6).
+The word sujjirat is derived from tasfir and it signifies 'to set ablaze'. And when the wild beasts are gathered together.)(6.
 
 ## Tafsir Ibn Kathir
 

@@ -139,7 +139,7 @@ To prove one's obedience to the Divine Shari` ah, the instruction given in this 
 
 ## Tafsir Summary
 
-Say: "O People of the Scripture! Earlier, the people of the Book were persuaded to embrace Islam.
+Commentary Follow the Divine Shari` ah: Instruction for the people of the Book In the first verse (68), the people of the Book, that is, the Jews and Christians were instructed to follow the Divine Shari` ah by making it clear that they would be reduced to nothing if they chose not to abide by the injunctions of the Shari` ah.
 
 ## Tafsir Ibn Kathir
 

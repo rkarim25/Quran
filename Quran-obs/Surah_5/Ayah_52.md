@@ -124,7 +124,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Now, you see those who have disease in their hearts race to-wards them saying, "We apprehend that some misfortune may overtake us." It means that after hearing the religiously binding injunction of the abandonment of close friendships, people who have the disease of hypocricy in their hearts started racing towards their disbelieving friends saying that cutting off relationships with these people is dangerous for them.
+The Prohibition of Taking the Jews, Christians and Enemies of Islam as Friends Allah forbids His believing servants from having Jews and Christians as friends, because they are the enemies of Islam and its people, may Allah curse them.
 
 ## Tafsir Ibn Kathir
 

@@ -84,7 +84,7 @@ So, this was the background under which this verse was revealed. To begin with, 
 
 ## Tafsir Summary
 
-And eat up not one another's property unjustly (in any illegal way, e.g., stealing, robbing, deceiving), nor give bribery to the rulers (judges before presenting your cases) that you may knowingly eat up a part of the pr… Previous verses dealt with injunctions relating to fasting in which the use of lawful things has been forbidden during a fixed period and fixed timings.
+These are the commonly shared property of all human beings; it is not permissible for anyone to take these over as an owner.
 
 ## Tafsir Ibn Kathir
 

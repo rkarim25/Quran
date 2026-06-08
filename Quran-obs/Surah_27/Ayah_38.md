@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "O chiefs! Qurtubi has reported, giving references of historical record, that Bilqis's envoys returned from the court of Sulaiman (علیہ السلام) totally dumb-founded and awe-struck, and conveyed his declaration of war to the queen.
+Which of you can bring me her throne before they come to me surrendering themselves in obedience (as Muslims)? Power such as had never been given to anyone else, before or since, so that this would furnish proof of his prophethood before Bilqis and her people, because this would be a great and wondrous thing, if he brought her throne as if he were in her country, before they could come to it, although it was hidden and protected by so many locked doors.
 
 ## Tafsir Ibn Kathir
 

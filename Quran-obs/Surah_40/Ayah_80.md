@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah, it is He Who has made cattle for you, that you may ride on some of them, and of some you eat (79)And you have (many other) benefits from them, and that you may reach by their means a desire that is in your breasts, and on them and on ships you are carried (80)And He shows you His Ayat. In verse 77, it was said: فَاصْبِرْ‌ إِنَّ وَعْدَ اللَّـهِ حَقٌّ فَإِمَّا نُرِ‌يَنَّكَ (Therefore, be patient.
+Allah, it is He Who has made cattle for you, that you may ride on some of them, and of some you eat (79)And you have (many other) benefits from them, and that you may reach by their means a desire that is in your breasts, and on them and on ships you are carried (80)And He shows you His Ayat.
 
 ## Tafsir Ibn Kathir
 

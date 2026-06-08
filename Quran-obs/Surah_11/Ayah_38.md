@@ -92,7 +92,7 @@ And it was revealed to Nuh: "None of your people will believe except those who h
 
 ## Tafsir Summary
 
-And it was revealed to Nuh: "None of your people will believe except those who have believed already. In the third verse (38), mentioned there is the total lack of concern for their sad end shown by the people of Sayyidna Nuh (علیہ السلام) during the period he was making the ark.
+When the chieftains of his people saw him busy with his project under a Divine command, they would ask him, ` what are you doing?' He said, ` a flood is to come, therefore, I am making an ark.' They would mock at him and say, ` we have no water to drink here and this wise man is planning to sail in a boat on this dry land.' In response, Sayyidna Nuh told them, ` if you mock at us today, then remember the day is sure to come when we shall be laughing at you.' The sense is that…
 
 ## Tafsir Ibn Kathir
 

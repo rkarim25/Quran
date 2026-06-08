@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-That is of the news of the Ghayb (Unseen) which We reveal to you. Commentary After a full description of the story of Sayyidna Yusuf (علیہ السلام) ، first to come in the verses cited above is an address to the Holy Prophet ﷺ : ذَٰلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ (That is a part of the reports of the unseen We reveal to you), and that ` you were not there with the brothers of Yusuf (علیہ السلام) when they had decided to throw Sayyidna Yusuf (علیہ السلام) into the well and were making plans for it.
+Thereupon, said in the next verse was: And most of the people are not going to believe - even though, the proofs of his being a prophet were clear, and even if he himself longed for it, or tried his best. You were not (present) with them when they arranged their plan together, and (while) they were plotting (102)And most of mankind will not believe even if you desire it eagerly (103)And no reward you ask of them for it; it (the Qur'an) is no less than a Reminder unto the 'Ala…
 
 ## Tafsir Ibn Kathir
 

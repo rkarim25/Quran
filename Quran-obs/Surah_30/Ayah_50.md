@@ -85,7 +85,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah is He Who sends the winds, so that they raise clouds and spread them along the sky as He wills, and then break them into fragments until you see rain drops come forth from their midst! فَانتَقَمْنَا مِنَ الَّذِينَ أَجْرَ‌مُوا وَكَانَ حَقًّا عَلَيْنَا نَصْرُ‌ الْمُؤْمِنِينَ (Then We took vengeance upon those who were guilty.
+The Revival of the Earth is a Sign of the Resurrection Here Allah explains how He creates the clouds that rain the water.
 
 ## Tafsir Ibn Kathir
 

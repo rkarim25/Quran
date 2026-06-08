@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who disbelieve say to those who believe: "Follow our way and let us bear your sins." Never will they bear anything of their sins. وَقَالَ الَّذِينَ كَفَرُ‌وا (And those who disbelieve say - 29:12).
+And those who disbelieve say to those who believe: "Follow our way and let us bear your sins." Never will they bear anything of their sins.
 
 ## Tafsir Ibn Kathir
 

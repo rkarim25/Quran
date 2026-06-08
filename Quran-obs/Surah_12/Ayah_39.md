@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"O two companions of the prison! After that, he declares his abhorrence for disbelief and his disengagement from the community of disbelievers.
+Are many different lords (gods) better or Allah, the One, the Irresistible? After having said that, he asked the same prisoners to tell him if it was better that human beings should be worshiping many gods, or was it better that one becomes a servant of one Allah alone - whose subduing power is all-dominant.
 
 ## Tafsir Ibn Kathir
 

@@ -48,7 +48,7 @@ Say: "I am only a warner and there is no God (worthy of worship) except Allah th
 
 ## Tafsir Summary
 
-Say: "I am only a warner and there is no God (worthy of worship) except Allah the One, the Irresistible, (65)"The Lord of the heavens and the earth and all that is between them, the Almighty, the Oft-Forgiving. In verse 69, it was said: مَا كَانَ لِيَ مِنْ عِلْمٍ بِالْمَلَإِ الْأَعْلَىٰ إِذْ يَخْتَصِمُونَ (I had no knowledge of the Heavenly Beings when they were debating (about the creation of 'Adam).
+This is similar to a younger person questioning an elder person, who refers to that question and answer, in a frank and casual manner, as a debate or quarrel.
 
 ## Tafsir Ibn Kathir
 

@@ -133,7 +133,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(cont.) And We commanded Ibrahim (Abraham) and Isma'il (Ishmael) that they should purify My House (the Ka'bah at Makkah) for those who are circumambulating it, or staying (I'tikaf), or bowing or prostrating themselves (t… Sayyidna Ibrahim (علیہ السلام) always carried out the commandments of Allah without losing a moment, and was ready to make all kinds of sacrifices in His way, whether they involved worldly goods, or wife and children, or his own likes and dislikes.
+Verily, my Lord is indeed the Hearer of invocations)(14:39).
 
 ## Tafsir Ibn Kathir
 

@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The Command for Teachers and Preachers to Remember Allah During Spare Hours فَإِذَا فَرَ‌غْتَ فَانصَبْ وَإِلَىٰ رَ‌بِّكَ فَارْ‌غَب (So when you are free [ from collective services ], exert yourself [ in worship ], and towards your Lord turn with eagerness....94:8).
+Verily, along with every hardship is relief.)(7. So when you have finished, devote yourself to Allah's worship.)(8.
 
 ## Tafsir Ibn Kathir
 

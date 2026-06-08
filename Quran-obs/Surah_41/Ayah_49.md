@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Man does not get tired of asking for good; but if an evil touches him, then he gives up all hope and is lost in despair (49)And truly, if We give him a taste of mercy from Us, after some adversity has touched him, he is sure to say: "This is due to my (merit); I think not that the Hour will be established. أَأَعْجَمِيٌّ وَعَرَ‌بِيٌّ (Is it a non- Arabic [ book ] and an Arab [ messenger ]?
+But when We have removed his harm from him, he passes on as if he had never invoked Us for a harm that touched him!)(10:12) Therefore ` ajamiyy is a person who is non-Arab, even though he may speak eloquently, and a'jamiyy is a person who cannot speak eloquently (Qurtubi).
 
 ## Tafsir Ibn Kathir
 

@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when your Lord said to the angels: "I am going to create a man (Adam) from dried (sounding) clay of altered mud. The Command to Prostrate was Given to Angels - Iblis was to Follow Suit Addressing Iblis in Surah Al-A` raf, it was said: مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْ‌تُكَ (What stopped you from prostrating when I ordered you?
+This indicates that the main prostraters were after all the angels but Iblis too, being present with them, was reason-bound to join the prostrating an-gels. He mentions how His enemy Iblis, amidst all the angels, refused to prostrate to him out of envy, disbelief, stubbornness, arrogance, and false pride.
 
 ## Tafsir Ibn Kathir
 

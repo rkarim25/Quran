@@ -30,7 +30,7 @@ The reason for his fear was that he was afraid that the generation that would su
 
 ## Tafsir Summary
 
-Muhammad bin Ishaq recorded a Hadith of Umm Salamah in his Sirah, and Ahmad bin Hanbal recorded from Ibn Mas'ud, the story of the Hijrah (migration) to Ethiopia from Makkah. In the Holy Qur'an Surah Maryam has been placed immediately after Surah Al-Kahf, presumably because there appears some kind of similarity between the two Surahs.
+A reminder of the mercy of your Lord to His servant Zakariyya.)(3.
 
 ## Tafsir Ibn Kathir
 

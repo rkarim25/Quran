@@ -157,7 +157,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And be not like those who come out of their homes boastfully and to be seen of men, and hinder (men) from the path of Allah; and Allah is 'Muhīt' (eneompassing and thoroughly comprehending) all that they do (47)And (reme… Since its beginning, Surah al-Anfal has been dealing with the actual events and attending circumstances of the battle of Badr along with subsequent lessons learnt and related injunctions given.
+No doubt, they had demonstrated their readiness to respond to the plaintive appeal for help made by Aba Sufyan, the leader of their trade caravan, but they were dragging their feet because of this danger. This event has been mentioned at the beginning of verse 48.
 
 ## Tafsir Ibn Kathir
 

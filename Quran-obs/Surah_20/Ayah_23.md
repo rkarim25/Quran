@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And press your (right) hand to your (left) side: it will come forth white (and shining), without any disease as another sign, (22)"That We may show you (some) of Our greater signs. وَاضْمُمْ يَدَكَ إِلَىٰ جَنَاحِكَ (And put your hand under your arm - 20:22).
+"And press your (right) hand to your (left) side: it will come forth white (and shining), without any disease as another sign, (22)"That We may show you (some) of Our greater signs.
 
 ## Tafsir Ibn Kathir
 

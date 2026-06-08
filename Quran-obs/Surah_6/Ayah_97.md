@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily! In the third verse (97), it was said: وَهُوَ الَّذِي جَعَلَ لَكُمُ النُّجُومَ لِتَهْتَدُوا بِهَا فِي ظُلُمَاتِ الْبَرِّ‌ وَالْبَحْرِ‌ (And He is the one who made for you the stars, so that you may be guided by them in 'darknesses' of the land and the sea).
+Out of many considerations of Divine wisdom, one immediate benefit they provide for human beings travelling on high seas or open lands is that they can chart their course in the darkness of nights when it is not easy to do so.
 
 ## Tafsir Ibn Kathir
 

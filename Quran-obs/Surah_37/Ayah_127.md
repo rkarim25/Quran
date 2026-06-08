@@ -19,7 +19,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, Ilyas was one of the Messengers (123)When he said to his people: "Will you not have Taqwa? In verse 127, it was said: فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُ‌ونَ : "Then they rejected him.
+A horse of fire was brought to him, so he rode it, and Allah clothed him with light and covered him with feathers, and he used to fly with the angels as a human angel, heavenly yet also earthly.
 
 ## Tafsir Ibn Kathir
 

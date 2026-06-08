@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, the Day of Decision is a fixed time (17)The Day when the Trumpet will be blown, and you shall come forth in crowds (18)And the heaven shall be opened, and it will become as gates (19)And the mountains shall be mo… جَزَاءً وِفَاقًا (this being a recompense in full accord [ with their deeds ]..78:26).
+We will reward them based upon this.' If their deeds were good then their reward will be good, and if their deeds were evil their reward will be evil.
 
 ## Tafsir Ibn Kathir
 

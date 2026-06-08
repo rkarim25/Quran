@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This is of the news of the Unseen which We reveal unto you; neither you nor your people knew it before this. To console the Holy Prophet ﷺ ، it was said at the end of the verse that there were so many open proofs to the fact that he was a prophet and messenger of Allah.
+Surely, the (good) end is for those who have Taqwa (49).
 
 ## Tafsir Ibn Kathir
 

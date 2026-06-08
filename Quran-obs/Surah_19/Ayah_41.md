@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And mention in the Book, Ibrahim. صِدِّيقًا نَّبِيًّا (Siddiq (a man of truth), a prophet - 19:41) The word صِدِّيقً (Siddiq) is a Qur'anic term which has been defined differently by different scholars.
+Verily, I fear lest a torment from the Most Gracious should overtake you, so that you become a companion of Shaytan. In other words his utterances truly reflect his beliefs, and his actions in turn match with his beliefs and words.
 
 ## Tafsir Ibn Kathir
 

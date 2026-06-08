@@ -88,7 +88,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. (1) Zihar is a term denoting a custom of the Arabs in the days of Ignorance.
+Indeed Allah has heard the statement of her that disputes with you concerning her husband, and complains to Allah.
 
 ## Tafsir Ibn Kathir
 

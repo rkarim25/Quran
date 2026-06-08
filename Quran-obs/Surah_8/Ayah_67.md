@@ -91,7 +91,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is not (fitting) for a Prophet that he should have prisoners of war until he has fought (his enemies thoroughly) in the land. The verses cited above relate to a particular event of the battle of Badr.
+It is not (fitting) for a Prophet that he should have prisoners of war until he has fought (his enemies thoroughly) in the land.
 
 ## Tafsir Ibn Kathir
 

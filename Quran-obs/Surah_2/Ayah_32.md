@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And He taught Adam all the names (of everything), then He showed them to the angels and said, "Tell Me the names of these if you are truthful. Allah is the creator of the language (2) This episode, according to Imam al-Ash'ari (رح) ، shows that language as such has been created by Allah Himself, and not invented by man - its use by different kinds of men has later on produced the many forms of language.
+Verily You are the Knower, the Wise) meaning, Allah is knowledgeable of everything, Most Wise about His creation, and He makes the wisest decisions, and He teaches and deprives whom He wills from knowledge.
 
 ## Tafsir Ibn Kathir
 

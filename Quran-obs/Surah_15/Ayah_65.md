@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Then travel for a portion of the night with your family, and you go behind them in the rear, and let no one amongst you look back, but go on to where you are ordered. From verse 48: لَا يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَا هُم مِّنْهَا بِمُخْرَ‌جِينَ (No weariness shall touch them therein nor will they be expelled from there), we learn about two features of Jannah: (1) No one shall ever feel tired or weak.
+Lut is ordered to leave with His Family during the Night Allah tells us that His angels ordered Lut to set out after part of the night had passed.
 
 ## Tafsir Ibn Kathir
 

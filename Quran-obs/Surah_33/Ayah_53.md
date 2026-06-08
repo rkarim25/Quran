@@ -303,7 +303,7 @@ This was also stated by Muqatil bin Hayyan and 'Abdur-Rahman bin Zayd bin Aslam.
 
 ## Tafsir Summary
 
-O you who believe! These verses have laid down some etiquettes and rules of Islamic social behavior.
+Enter not the Prophet's houses, unless permission is given to you for a meal, (and then) not (so early as) to wait for its preparation.
 
 ## Tafsir Ibn Kathir
 

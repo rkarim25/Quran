@@ -101,7 +101,7 @@ And he was shown Malik, the keeper of Hell, and the Dajjal, with the signs that 
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Isra' Imam Al-Hafiz Abu 'Abdullah Muhammad bin Isma'il Al-Bukhari recorded that Ibn Mas'ud said concerning Surah Bani Isra'il (i.e., Surat Al-Isra'), Al-Kahf and Maryam: "They are among the earlie… Described in this verse is the event of Mi` raj (the Ascent to the heavens, or al-'Isra', the midnight journey of the Holy Prophet ﷺ which is a signal honor and distinctive miracle of our Messenger of Allah ﷺ).
+It was said, 'Who is this?' He said, 'Jibril.' It was said, 'Who is with you?' He said, 'Muhammad.' It was said, 'Has his Mission started?' He said, 'Yes.' It was said, 'Welcome to him, blessed is the one who comes.' So it was opened for us and when I entered, I saw Adam.
 
 ## Tafsir Ibn Kathir
 

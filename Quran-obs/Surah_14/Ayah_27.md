@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah will keep firm those who believe, with the word that stands firm in this world, and in the Hereafter. Towards the end of the verse (27), it was said: وَيُضِلُّ اللَّـهُ الظَّالِمِينَ (And Allah lets the unjust go astray).
+Allah will keep firm those who believe, with the word that stands firm in this world, and in the Hereafter. And Allah will cause the wrongdoers to go astray, and Allah does what He wills .
 
 ## Tafsir Ibn Kathir
 

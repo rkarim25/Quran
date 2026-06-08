@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) Lut! We shall attack him (Salih علیہ السلام) and his family at night, then will say to his heir, We did not witness the destruction of his family and we are really truthful - 27:49.
+We destined her to be of those who remained behind.) meaning, she was one of those who were destroyed, with her people, because she was a helper to what they did and she approved of their evil deeds.
 
 ## Tafsir Ibn Kathir
 

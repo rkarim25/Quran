@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then when the Trumpet will be blown with one blowing (13)And the earth and the mountains shall be removed from their places, and crushed with a single crushing (14)Then on that Day shall the Event occur (15)And the heave… فَإِذَا نُفِخَ فِي الصُّورِ‌ نَفْخَةٌ وَاحِدَةٌ (Then, when the Trumpet will be blown for the first time…69:13).
+The second trumpet is called nafkhat-ul-ba` th 'trumpet of Resurrection'.
 
 ## Tafsir Ibn Kathir
 

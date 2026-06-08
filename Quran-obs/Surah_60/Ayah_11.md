@@ -100,7 +100,7 @@ Sayyidna Ibn ` Abbas ؓ reports that about six women altogether abandoned Islam 
 
 ## Tafsir Summary
 
-O you who believe! And if some of your [ non-Muslim ] wives have slipped from you, [ and their present non-Muslim husbands do not pay to you the dower as aforesaid,] and you have your turn [ of paying dower to the previous non-Muslim husbands of your present wives ], then [ instead of paying dower to them,] give those whose wives have slipped the like amount of what they had paid [ to them ].
+And have Taqwa of Allah, the One in Whom your are believers.) Therefore, if a Muslim woman reverts to the idolators, the believers should give back the dowery her Muslim husband paid her, from whatever money is left with them from the dowery of women who migrated to the Muslims.
 
 ## Tafsir Ibn Kathir
 

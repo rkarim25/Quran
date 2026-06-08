@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-How? Earlier when it was said that disbelieving people had nursed betrayal in their hearts right from the beginning and had no intention of staying faithful to their pledge, an exception was also granted.
+Therefore, as the Qur'anic justice and equity would have it, the eleventh verse gives the following instruction: With their mouths they please you, but their hearts are averse to you, and most of them are rebellious .
 
 ## Tafsir Ibn Kathir
 

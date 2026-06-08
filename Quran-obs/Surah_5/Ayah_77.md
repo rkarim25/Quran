@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "How do you worship besides Allah something which has no power either to harm or to benefit you? The Crookedness of Bani Isra'il : Yet Another Aspect It will be recalled that, in previous verses, mentioned there was the contumacy of Bani Isra'il along with their tyranny and injustice with reference to what they did to their benefactors, the prophets sent by Allah who had come to show them the way to succeed in this life and in the life to come.
+Verse 77 which says, "do not be excessive in your faith," is a preface to this very subject.
 
 ## Tafsir Ibn Kathir
 

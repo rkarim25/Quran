@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Go you in unto the males of Al-'Alamin (people), (165)"And leave those whom Allah has created for you to be your wives? Unnatural act is unlawful even with one's own wife And leave what your Lord has created for you, that is, your wives?
+The other possibility is that the letter 'Min' is used to mean 'from' or 'out of; then the meaning of the verse would be that it is a special part in the body of your wives which is created for the satisfaction of your natural urge.
 
 ## Tafsir Ibn Kathir
 

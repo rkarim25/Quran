@@ -139,7 +139,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So he became afraid, looking about in the city, when behold, the man who had sought his help the day before, called for his help (again). قَالَ رَ‌بِّ بِمَا أَنْعَمْتَ عَلَيَّ فَلَنْ أَكُونَ ظَهِيرً‌ا لِّلْمُجْرِ‌مِينَ (He [ Musa ] said, "0 my Lord, since You have favoured me, I will never be a supporter to the sinners." -28:17).
+Is it your intention to kill me as you killed a man yesterday?) Nobody except him and Musa, peace be upon him, knew about it, but when the other Coptic heard this, he took the news to Fir'awn's gate and told him about it.
 
 ## Tafsir Ibn Kathir
 

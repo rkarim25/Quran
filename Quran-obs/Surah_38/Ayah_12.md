@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Before them denied – the people of Nuh; and 'Ad; and Fir'awn the man of stakes (12)And Thamud, and the people of Lut, and the Dwellers of Al-Aykah; such were the Confederates (13)Not one of them but denied the Messengers; therefore My torment was justified (14)And these only wait for a single Sayhah there will be no pause or ending thereto (15)They say: "Our Lord! وَفِرْ‌عَوْنُ ذُو الْأَوْتَادِ (and Fir'aun, the man of the stakes - 12).
+Ibn Jarir said, "They asked for whatever they deserved, good or bad, to be hastened for them in this world." What he said is good, and A-Dahhak and Isma'il bin Abi Khalid based their views on it.
 
 ## Tafsir Ibn Kathir
 

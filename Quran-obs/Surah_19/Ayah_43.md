@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And mention in the Book, Ibrahim. How to give counsel to elders.
+Instead, guided by prophetic wisdom he merely invited his father's attention to the helplessness and insensitivity of his idols, so that he might himself realize the fallacy of his beliefs. So follow me, I will guide you to the straight path.
 
 ## Tafsir Ibn Kathir
 

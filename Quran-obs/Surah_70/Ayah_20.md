@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, man was created very impatient (19)Apprehensive when evil touches him (20)And suppressive when good touches him (21)Except those who are devoted to Salah (22)Those who with their Salah are Da'imun (23)And those i… إِذَا مَسَّهُ الشَّرُّ‌ جَزُوعًا وَإِذَا مَسَّهُ الْخَيْرُ‌ مَنُوعًا (very upset when touched by evil, and very niggard when visited by good (fortune)...
+This verse describes the fickle nature of man.
 
 ## Tafsir Ibn Kathir
 

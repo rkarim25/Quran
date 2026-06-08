@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have they taken as intercessors besides Allah? The time to sleep and the time to die: How is the soul exacted and what is the difference between the two In verse 42, it was said: اللَّـهُ يَتَوَفَّى الْأَنفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ فِي مَنَامِهَا (Allah fully takes away the souls [ of the people ] at the time of their death, and [ of ] those who do not die, in their sleep.).
+Then Allah says: 'Say – O Muhammad – to these people who claim that those whom they have taken as intercessors with Allah, that intercession is of no avail except for the one with whom Allah is pleased and to whom He has granted permission to intercede.
 
 ## Tafsir Ibn Kathir
 

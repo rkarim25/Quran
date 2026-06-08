@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-As your Lord caused you to go out from your home with the truth; and verily, a party among the believers disliked it (5)Disputing with you concerning the truth after it was made manifest, as if they were being driven to… Then, the same event has been alluded to in the second verse (6): يُجَادِلُونَكَ فِي الْحَقِّ بَعْدَ مَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ إِلَى الْمَوْتِ وَهُمْ يَنظُرُ‌ونَ (they were disputing with you about the truth after it became clear, as if they were being driven to a death being seen by them).
+As your Lord caused you to go out from your home with the truth; and verily, a party among the believers disliked it (5)Disputing with you concerning the truth after it was made manifest, as if they were being driven to death, while they were looking (at it)(6)And (remember) when Allah promised you (Muslims) one of the two parties, that it should be yours; you wished that the one not armed should be yours, but Allah willed to justify the truth by His Words and to cut off the…
 
 ## Tafsir Ibn Kathir
 

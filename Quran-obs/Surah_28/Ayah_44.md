@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And you were not on the western side (of the Mount), when We made clear to Musa the commandment, and you were not among the witnesses (44)But We created generations, and long were the ages that passed over them. وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ مِن بَعْدِ مَا أَهْلَكْنَا الْقُرُ‌ونَ الْأُولَىٰ بَصَائِرَ‌ لِلنَّاسِ (And We gave Musa, after We destroyed the earlier generations, the Book having insights for people - 28:43).
+It, therefore, does not necessarily follow that reading of Torah and Injil is banned for all times. And you were not on the western side (of the Mount), when We made clear to Musa the commandment, and you were not among the witnesses (44)But We created generations, and long were the ages that passed over them.
 
 ## Tafsir Ibn Kathir
 

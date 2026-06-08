@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The subject-matter of the Surah This Surah refers to the story of the People of the Elephants who came with an army of elephants for the purpose of destroying the House of Allah in (The Holy Ka'bah) in Makkah.
+Have you not seen how your Lord dealt with the Owners of the Elephant?)(2.
 
 ## Tafsir Ibn Kathir
 

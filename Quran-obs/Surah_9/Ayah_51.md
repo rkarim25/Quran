@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-If good befalls you, it grieves them, but if a calamity overtakes you, they say: "We took our precaution beforehand," and they turn away rejoicing (50)Say: "Nothing shall ever happen to us except what Allah has ordained for us. In the ninth verse (51), Allah Ta` ala has instructed the Holy Prophet ﷺ and Muslims, that they should not allow themselves to be affected by things like that said by the hypocrites and that they must always keep reality as it is before them.
+Belief in Destiny includes Management of affairs: Giving Inaction or Mismanagement the name of Trust is Wrong This verse (51) brings into sharp focus the essential reality of the religious issue of Taqdir (destiny) and Tawakkul (trust).
 
 ## Tafsir Ibn Kathir
 

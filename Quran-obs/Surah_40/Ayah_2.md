@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of the Surahs that begin with Ha Mim Ibn 'Abbas, may Allah be pleased with him, said, "Everything has an essence and the essence of the Qur'an is the family of Ha Mim," or he said, "the Ha Mims." Mis'ar bin Kidam said, "They used to be called 'the brides'." All of this was recorded by the the Imam, great scholar, Abu 'Ubayd Al-Qasim bin Sallam, may Allah have mercy upon him, in his book Fada'il Al-Qur'an. Surah A1-Mu'min: Characteristics and Merits From here (40) to Surah Al-Ahqaf (46) starts a series of seven Surahs that begin with the isolated letters: حم (Ha Meem).
+The revelation of the Book is from Allah, the Almighty, the All-Knower.)(3.
 
 ## Tafsir Ibn Kathir
 

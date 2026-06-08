@@ -86,7 +86,7 @@ Abu Al-'Aliyah and Qatadah said, "This Ayah (2:130) was revealed about the Jews 
 
 ## Tafsir Summary
 
-And who turns away from the religion of Ibrahim (i.e. The earlier verses have defined the basic principles of the religion of Sayyidna Ibrahim (علیہ السلام) ، called upon men to follow it, and warned them against the dangers involved in turning away from it.
+As to the next, Verse 130 has announced the exalted station Allah has granted him in the Hereafter.
 
 ## Tafsir Ibn Kathir
 

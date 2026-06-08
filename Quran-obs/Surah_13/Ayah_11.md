@@ -157,7 +157,7 @@ Ibn Abi Hatim narrated that Ibrahim said, "Allah revealed to a Prophet from amon
 
 ## Tafsir Summary
 
-It is the same (to Him) whether any of you conceals his speech or declares it openly, whether he be hid by night or goes forth freely by day (10)For him (each person), there are angels in succession, before and behind him. For him there are angels replacing each other, before him and behind him, who guard him under the command of Allah - 11.
+The assignment given to them under the command of Allah is that they should protect human beings.
 
 ## Tafsir Ibn Kathir
 

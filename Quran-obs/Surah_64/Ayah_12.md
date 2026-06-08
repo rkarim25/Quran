@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-No calamity occurs, but by the permission of Allah, and whosoever believes in Allah, He guides his heart. مَا أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ اللَّـهِ ۗ وَمَن يُؤْمِن بِاللَّـهِ يَهْدِ قَلْبَهُ (And no calamity befalls [ one ], but with the leave of Allah.
+And Allah is the All-Knower of everything (11)Obey Allah, and obey the Messenger; but if you turn away, then the duty of Our Messenger is only to convey clearly (12)Allah!
 
 ## Tafsir Ibn Kathir
 

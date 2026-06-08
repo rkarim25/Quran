@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We sent Messengers before you, and made for them wives and offspring. Said in the next verse (39) was: يَمْحُو اللَّـهُ مَا يَشَاءُ وَيُثْبِتُ ۖ وَعِندَهُ أُمُّ الْكِتَابِ : 'Allah wipes off what He wills and affirms (what He wills).
+This is what Allah blots out, while what He confirms is a man who works in His disobedience, but since goodness was destined for him, he dies after reverting to the obedience of Allah.
 
 ## Tafsir Ibn Kathir
 

@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who have Taqwa will be in the midst of Gardens and Springs (15)Taking joy in the things which their Lord has given them. Merits of Seeking Forgiveness in the hours before dawn وَبِالْأَسْحَارِ‌ هُمْ يَسْتَغْفِرُ‌ونَ (and in the hours before dawn, they used to pray for forgiveness..., 51:18) The word ashar is the plural of sahar, and it refers to the latter sixth part of the night.
+Thus there seems to be no link between their previous description and their description of asking for forgiveness in this verse, because forgiveness is sought when there are sins.
 
 ## Tafsir Ibn Kathir
 

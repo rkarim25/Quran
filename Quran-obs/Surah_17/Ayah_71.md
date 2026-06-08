@@ -73,7 +73,7 @@ Allah tells us that on the Day of Resurrection, he will call each people to acco
 
 ## Tafsir Summary
 
-(And remember) the Day when We shall call together all human beings with their (respective) Imam (i.e. The word: اِمَام (Imam) in the first sentence of verse يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ translated as ' (Think of) the Day We will call every people with their book of deeds' appears here in the sense of 'book' as in Surah Ya Sin: وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ فِي إِمَامٍ مُّبِينٍ (and We have enumerated everything in a clear book - 36:12).
+So whosoever is given his record in his right hand, such will read their records, and they will not be dealt with unjustly in the least (71)And whoever is blind in this [world] then he will be blind in the Hereafter, and most astray from the path .
 
 ## Tafsir Ibn Kathir
 

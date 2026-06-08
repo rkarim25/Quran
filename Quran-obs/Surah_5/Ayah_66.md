@@ -112,7 +112,7 @@ Mentioned in verse 66 which begins with the words: وَلَوْ أَنَّهُم
 
 ## Tafsir Summary
 
-The Jews say: "Allah's Hand is tied up." Be their hands tied up and be they accursed for what they uttered. Mentioned in verse 66 which begins with the words: وَلَوْ أَنَّهُمْ أَقَامُوا التَّوْرَ‌اةَ (And if they had upheld the Torah ...), are some details of the same faith and godliness for which worldly blessings have been promised in the previous verse (65).
+And among them is a Muqtasid Ummah, but for most of them; evil is their work .
 
 ## Tafsir Ibn Kathir
 

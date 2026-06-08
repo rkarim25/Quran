@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! وَأَنفِقُوا مِن مَّا رَ‌زَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ أَحَدَكُمُ الْمَوْتُ (And spend out of what We have given to you before death comes to one of you…63:10) ‘Coming of death’ in this verse refers to ‘witnessing the signs of death’.
+Furthermore, charity [ sadaqah ] is efficacious in averting calamities and punishment.
 
 ## Tafsir Ibn Kathir
 

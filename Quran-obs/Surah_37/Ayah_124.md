@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, Ilyas was one of the Messengers (123)When he said to his people: "Will you not have Taqwa? Described in the verses cited above is the fourth event relating to Sayyidna Ilyas علیہ السلام .
+After that he prayed that the people of Isra'il be seized with famine, so that he may show them some miracles at his hand for removing the famine, may be, they would, then, come to believe. Since the noble Qur'an is no book of history, therefore, rather than describe details of this struggle, it restricts itself to saying only that which was necessary for taking a lesson.
 
 ## Tafsir Ibn Kathir
 

@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, man was created very impatient (19)Apprehensive when evil touches him (20)And suppressive when good touches him (21)Except those who are devoted to Salah (22)Those who with their Salah are Da'imun (23)And those i… وَالَّذِينَ هُم بِشَهَادَاتِهِمْ قَائِمُونَ (...and those who are upright in their testimonies, [ 70:33] '.
+The use of plural number in this verse too indicates that there are many types and categories of 'testimony', and it is necessary to stand firm by one's testimony of any type.
 
 ## Tafsir Ibn Kathir
 

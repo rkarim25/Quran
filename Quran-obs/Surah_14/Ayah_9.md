@@ -162,7 +162,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Has not the news reached you, of those before you, the people of Nuh, 'Ad, and Thamud? In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَكْفُرُ‌وا أَنتُمْ وَمَن فِي الْأَرْ‌ضِ جَمِيعًا (And Musa said, "If you are ungrateful, you and all those on earth, then, Allah is free of all needs, worthy of every praise.) " This was said by Sayyidna Musa (علیہ السلام) to his people.
+Earlier Nations disbelieved in Their Prophets Allah narrated to this Ummah (followers of Muhammad ﷺ) the stories of the people of Prophet Nuh, 'Ad and Thamud, and other ancient nations that belied their Messengers.
 
 ## Tafsir Ibn Kathir
 

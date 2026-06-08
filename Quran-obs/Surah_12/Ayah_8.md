@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, in Yusuf and his brethren there were Ayat for those who ask (7)When they said: "Truly, Yusuf and his brother are dearer to our father than we, while we are 'Usbah (a group). From the second verse (8), begins the story of Sayyidna Yusuf (علیہ السلام) which tells that the brothers of Sayyidna Yusuf (علیہ السلام) saw that their father, Sayyidna Ya` qub (علیہ السلام) loved Sayyidna Yusuf (علیہ السلام) unusually more than them who were older than him.
+Surely, their story is unique and is worthy of being narrated.
 
 ## Tafsir Ibn Kathir
 

@@ -145,7 +145,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And recite to them the news of Nuh. It was said in the last verse (64) that, for the friends of Allah, there is the good news in the worldly life and in the Hereafter.
+So devise your plot, you and your partners, and let not your plot be in confusion for you. Let this be a lesson for your people, lest they will be destroyed like them.
 
 ## Tafsir Ibn Kathir
 

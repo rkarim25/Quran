@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, We have tried them as We tried the People of the Garden, when they swore to pluck the fruits in the morning (17)Without (saying: "If Allah wills." (18)Then there passed over it a Ta'if from your Lord while they were asleep (19)So by the morning, it became like As-Sarim (20)Then they called out (one to another as soon) as the morning broke (21)Saying: "Go to your tilth in the morning, if you would pluck (the fruits). فَتَنَادَوْا مُصْبِحِينَ (So, they called out each other as the morning broke 68:21).
+This means that they starting waking up each other in the early morning that they should set out early if they wanted to harvest.
 
 ## Tafsir Ibn Kathir
 

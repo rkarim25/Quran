@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We bestowed grace on Dawud from Us (saying): "O you mountains! In the last sentence of verse 10 and the first sentence of verse 11, it was said: وَأَلَنَّا لَهُ الْحَدِيدَ أَنِ اعْمَلْ سَابِغَاتٍ وَقَدِّرْ‌ فِي السَّرْ‌دِ (And We made the iron soft for him (saying to him) " Make coats of armour, and maintain balance in combining (their) rings,' - 34:10).
+The part of the statement appearing in verse 11 goes on to state that the iron was made soft for him so that he could easily make coats of mail with iron. The sense thus released is to make a coat of mail in a manner that its links come out balanced and proportionate without one being small and the other being big, so that it turns out strong as well as looks good when seen.
 
 ## Tafsir Ibn Kathir
 

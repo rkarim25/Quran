@@ -149,7 +149,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And you might have seen the sun, when it rose, declining to the right from their cave, and when it set, turning away from them to the left, while they lay in the midst of the cave. In these verses, Allah Ta` ala has told us about three states of the People of Kahf.
+This supports what we have said, and to Allah is the praise.
 
 ## Tafsir Ibn Kathir
 

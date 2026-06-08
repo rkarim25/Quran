@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Imam Ahmad bin Hanbal, may Allah have mercy on him, recorded that Ma'diykarib said: "We came to 'Abdullah and asked him to recite to us: (Ṭa Sīn Mīm.) the two hundred. وَنُرِ‌يدُ أَن نَّمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْ‌ضِ وَنَجْعَلَهُمْ أَئِمَّةً ؓ (And We intended to favour those who were held as weak in the land and to make them leaders - 28:5).
+And We wished to do a favor to those who were weak in the land, and to make them rulers and to make them the inheritors,)(6. And to establish them in the land, and We let Fir'awn and Haman and their armies receive from them that which they feared.).
 
 ## Tafsir Ibn Kathir
 

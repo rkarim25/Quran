@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have they not pondered over the Word, or has there come to them what had not come to their fathers of old (68)Or is it that they did not recognize their Messenger so they deny him (69)Or they say: There is madness in him Nay, but he brought them the truth, but most of them are averse to the truth (70)And if Al-Haqq had followed their desires, verily, the heavens and the earth, and whosoever is therein would have been corrupted! The verses 68, 69 and 70 mention five reasons which might possibly have prevented the unbelievers from accepting the faith brought by the Holy Prophet ﷺ ، and also give a rebuttal of each of these causes.
+Have they not pondered over the Word, or has there come to them what had not come to their fathers of old (68)Or is it that they did not recognize their Messenger so they deny him (69)Or they say: There is madness in him Nay, but he brought them the truth, but most of them are averse to the truth (70)And if Al-Haqq had followed their desires, verily, the heavens and the earth, and whosoever is therein would have been corrupted!
 
 ## Tafsir Ibn Kathir
 

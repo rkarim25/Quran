@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, for those who have Taqwa, there will be a success (31)Hada'iq and vineyards (32)And Kawa'ib Atrab (33)And a cup Dihaq (34)No Laghw shall they hear therein, nor lying (35)Rewarded from your Lord with a sufficient… يَوْمَ يَنظُرُ‌ الْمَرْ‌ءُ مَا قَدَّمَتْ يَدَاهُ day when one will see what his hands have sent ahead....78:40) Apparently, this refers to the Day of Judgment.
+At that moment the disbelievers will wish that they were also animals and would become dust like them, so that they would have been spared the torment of reckoning and punishment of Hell. It is mentioned here to emphasize the fact that its occurrence has become close, because everything that is coming will certainly come to pass.
 
 ## Tafsir Ibn Kathir
 

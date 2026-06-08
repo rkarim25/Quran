@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or were they created by nothing? { 1} It means that their arguments against Islam having failed on rational grounds, the only possibility was that they had a direct link with Allah whereby they have ensured that their faith was true, but no one could bring any proof of having such a link with Allah.
+Allah is the One Who created them and brought them into existence after they were nothing.
 
 ## Tafsir Ibn Kathir
 

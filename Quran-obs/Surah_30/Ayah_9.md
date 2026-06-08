@@ -142,7 +142,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(the Most Merciful.) means, towards His believing servants. أَوَلَمْ يَسِيرُ‌وا فِي الْأَرْ‌ضِ (Have they not travelled on earth - 30:9).
+It means that the Makkans live in a land where there is neither any cultivation and industry nor any tall and beautiful buildings, but for the sake of trade they do travel to Syria and Yemen.
 
 ## Tafsir Ibn Kathir
 

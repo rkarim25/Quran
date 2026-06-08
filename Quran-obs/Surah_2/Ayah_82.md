@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Yes! Having refuted the claim of the Jews as baseless, the Holy Qur'an lays down the divine law in this regard.
+And whoever does righteous good deeds, male or female, and is a (true) believer [in the Oneness of Allah (Muslim)], such will enter Paradise and not the least injustice, even the size of a Naqira (speck on the back of a date stone), will be done to them)(4:123-124).
 
 ## Tafsir Ibn Kathir
 

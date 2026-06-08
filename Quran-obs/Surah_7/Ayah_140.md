@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "Shall I seek for you an ilah (a god) other than Allah, while He has given you superiority over the nations. After the miraculous victory of the Israelites over Pharaoh and his people, and having a life of ease and comfort, they started to show the signs of ignorance as people of wealth show when given a life of luxury and opulence.
+How could he think of making for them a god other than Allah while he had given to them excellence over the people of all the worlds. Shall they be as ungrateful to their Lord as to take the abject stones as gods and make them partners with Allah?
 
 ## Tafsir Ibn Kathir
 

@@ -42,7 +42,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(1. A Preacher must not give up his preaching due to disappointment أَفَنَضْرِ‌بُ عَنكُمُ الذِّكْرَ‌ صَفْحًا أَن كُنتُمْ قَوْمًا مُّسْرِ‌فِينَ (Shall we remove the advice away from you because you are a transgressing people?
+And never came there a Prophet to them but they used to mock at him.)(8.
 
 ## Tafsir Ibn Kathir
 

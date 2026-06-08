@@ -63,7 +63,7 @@ In the Musnad of Said ibn Mansur, it has been mentioned on the authority of Sayy
 
 ## Tafsir Summary
 
-And give to the kinsman his due, and to the Miskin (poor), and to the wayfarer. What an unusual moral training is being given here in this verse through the Holy Prophet ﷺ to the entire Muslim community!
+Therefore, he refused to give it to them, for this refusal was a device to stop them from indulging in disorder. But spend not wastefully (your wealth) in the manner of a spendthrift (26)Verily, the spendthrifts are brothers of the Shayatin (devils), and the Shaytan is ever ungrateful to his Lord (27)And if you turn away from them and you are awaiting a mercy from your Lord for which you hope, then, speak unto them a soft, kind word .
 
 ## Tafsir Ibn Kathir
 

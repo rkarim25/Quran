@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Iblis) said: "Because You have 'Aghwaytni', surely, I will sit in wait against them (human beings) on Your straight pat (16)"Then I will come to them from before them and behind them, from their right and from their left, and You will not find most of them to be thankful. The event relating to Sayyidna 'Adam (علیہ السلام) and the Shaytan has appeared earlier in Section four of Surah Al-Baqarah (Ma` ariful-Qur'an, English Translation, under verse 34).
+This is why there is a Hadith that encourages seeking refuge with Allah from the lures of Shaytan from all directions.
 
 ## Tafsir Ibn Kathir
 

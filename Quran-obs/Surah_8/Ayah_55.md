@@ -52,7 +52,7 @@ Sa’ id ibn Jubayr said that this verse was revealed about six men from the Jew
 
 ## Tafsir Summary
 
-Verily, the worst of living creatures before Allah are those who disbelieve, – so they shall not believe (55)They are those with whom you made a covenant, but they break their covenant every time and they do not have Taq… In the verse which follows immediately, it was said about the same disbelievers: إِنَّ شَرَّ‌ الدَّوَابِّ عِندَ اللَّـهِ الَّذِينَ كَفَرُ‌وا (Surely, the worst of all the living, in the sight of Allah, are those who reject Faith - 55).
+The sense is that these people have allowed their God-given abilities to go waste by making the satisfaction of their physical needs the very purpose of their life, therefore, having access to the refinements of Faith was just not possible for them.
 
 ## Tafsir Ibn Kathir
 

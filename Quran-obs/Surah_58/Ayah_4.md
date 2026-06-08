@@ -121,7 +121,7 @@ By Allah! Before I departed, parts of the Qur'an were revealed about me. Allah's
 
 ## Tafsir Summary
 
-Those among you who make their wives unlawful to them by Zihar they cannot be their mothers. ذَٰلِكَ لِتُؤْمِنُوا بِاللَّـهِ وَرَ‌سُولِهِ وَتِلْكَ حُدُودُ اللَّـهِ وَلِلْكَافِرِ‌ينَ عَذَابٌ أَلِيمٌ (...This is [ laid down ] so that you believe in Allah and His Messenger.
+None can be their mothers except those who gave them birth.) meaning, when the husband says to his wife that she is like his mother, or the back of his mother etc., she does not become his mother.
 
 ## Tafsir Ibn Kathir
 

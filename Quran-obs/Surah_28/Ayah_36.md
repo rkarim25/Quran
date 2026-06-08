@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then when Musa came to them with Our Clear Ayat, they said: "This is nothing but invented magic. A sermon should have high degree of eloquence هُوَ أَفْصَحُ مِنِّي لِسَانًا (He is more fluent in his tongue - 28:34).
+Musa before Fir'awn and His People Allah tells us how Musa and his brother Harun came before Fir'awn and his chiefs, and showed them the clear miracles and overwhelming proof that Allah had given them to confirm the truth of what they were saying about Allah being One and that His commandments were to be followed.
 
 ## Tafsir Ibn Kathir
 

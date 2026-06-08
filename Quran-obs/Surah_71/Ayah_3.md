@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. وَالَّذِينَ هُم بِشَهَادَاتِهِمْ قَائِمُونَ (...and those who are upright in their testimonies, [ 70:33] '.
+This includes testifying to the faith of Islam, Divine existence and His Oneness, and testifying that Sayyidna Muhammad ﷺ is His Final Messenger.
 
 ## Tafsir Ibn Kathir
 

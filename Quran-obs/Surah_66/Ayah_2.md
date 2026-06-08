@@ -59,7 +59,7 @@ I said, 'Messenger of Allah, have you divorced them?' He said, 'No.' I stood at 
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. قَدْ فَرَ‌ضَ اللَّـهُ لَكُمْ تَحِلَّةَ أَيْمَانِكُمْ (Allah has prescribed [ the way on absolution from your oaths....66:2).
+And Allah is Oft-Forgiving, Most Merciful.)(2.
 
 ## Tafsir Ibn Kathir
 

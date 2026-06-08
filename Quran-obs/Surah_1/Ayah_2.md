@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah says, 'My servant has praised Me.' When the servant says, This Surah comprises seven verses.
+All praise and thanks be to Allah, the Lord of existence . The next phrase to follow in the Surah speaks of an attribute of Allah -- Lord of the Worlds.
 
 ## Tafsir Ibn Kathir
 

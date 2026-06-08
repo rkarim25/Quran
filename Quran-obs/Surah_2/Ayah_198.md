@@ -121,7 +121,7 @@ Verse 198: لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَبْتَ�
 
 ## Tafsir Summary
 
-There is no sin on you if you seek the bounty of your Lord (during pilgrimage by trading). Trading or earning during the Hajj Verse 198: لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَبْتَغُوا فَضْلًا مِّن رَّ‌بِّكُمْ : There is no sin on you that you seek the bounty of your Lord (by trading) ' was revealed in a particular background of the Jahiliyyah when the people of Arabia had distorted all rules of worship and social dealings by injecting in them all sorts of absurd customs rendering acts of devotion into amusement.
+this is how they reached Al-Muzdalifah. There, he led the Maghrib (Evening) and 'Isha' (Night) prayers with one Adhan and two Iqamah (which announces the imminent start of the acts of the prayer) and did not glorify Allah in between them (i.e., he did not perform voluntary Rak'ah).
 
 ## Tafsir Ibn Kathir
 

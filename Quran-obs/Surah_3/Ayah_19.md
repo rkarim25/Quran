@@ -114,7 +114,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah bears witness that none has the right to be worshipped but He, and the angels, and those having knowledge (also bear witness to this); (He always) maintains His creation in justice. The word, Din (دین) has more than one meaning in the Arabic language, one of them being 'the way'.
+Islam is the Religion of Mankind and the Prophet (ﷺ) Was Sent to all Mankind Allah commanded His servant and Messenger, Muhammad ﷺ, to call the People of the Two Scriptures and the unlettered idolators to his religion, way, Law and all that Allah sent him with.
 
 ## Tafsir Ibn Kathir
 

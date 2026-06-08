@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Recitation of Surat As-Sajdah and Al-Insan in the Morning Prayer on Friday It has been mentioned previously that it is recorded in Sahih Muslim from Ibn 'Abbas that the Messenger of Allah ﷺ used to recite in the Morn… Surah Ad-Dahr has also been called Surah Al-Insan (Man) and Surah Al-Abrar (The Righteous) [ Ruh ].
+If the period of that time is calculated, this long indefinite period of time can stretch into thousands of years.
 
 ## Tafsir Ibn Kathir
 

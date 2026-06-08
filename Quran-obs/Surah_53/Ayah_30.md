@@ -72,7 +72,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who believe not in the Hereafter, name the angels with female names (27)But they have no knowledge thereof. Necessity of turning away from the Misguided People The Qur'an here describes the condition of those unbelievers who denied the Hereafter and the Day of Judgment.
+Verily, your Lord is He, Who knows best him who goes astray from His path, and He knows best him who receives guidance .
 
 ## Tafsir Ibn Kathir
 

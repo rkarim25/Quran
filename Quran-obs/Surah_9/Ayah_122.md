@@ -105,7 +105,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And it is not (proper) for the believers to go out (to fight - Jihad) all together. It will be realized that the expedition of Tabuk has continued appearing as an important subject in Surah At-Taubah.
+However, this is Fard al-Kifayah (collective obligation), and as such, it becomes the responsibility of the Islamic world as a whole.
 
 ## Tafsir Ibn Kathir
 

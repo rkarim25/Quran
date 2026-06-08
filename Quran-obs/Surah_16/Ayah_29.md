@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those whose lives the angels take while they are doing wrong to themselves. It will be recalled that, after describing the blessings of Allah and proving that He was unique in the creation of the universe, the text made a pointed reference to how the polytheists chose to stick to their own ways of error.
+Earlier to that (24), there is a question about the Qur’ an, and the addressees of the question, at this place, are the polytheists.
 
 ## Tafsir Ibn Kathir
 

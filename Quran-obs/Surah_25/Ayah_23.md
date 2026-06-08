@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who expect not a meeting with Us said: "Why are not the angels sent down to us, or why do we not see our Lord" Indeed they think too highly of themselves, and are scornful with great pride (21)On the Day they will see the angels – no good news will there be for the criminals that day. حِجْرً‌ا مَّحْجُورً‌ا (25:22) The literal meaning of حِجر is protection, and مَّحْجُورًا is fully protected.
+Allah tells us that the deeds which these idolators thought would bring them salvation will be of no avail to them, because they were not in accordance with the Shari'ah or Laws of Allah, whether in terms of sincere intention or in terms of following the Laws set out by Allah.
 
 ## Tafsir Ibn Kathir
 

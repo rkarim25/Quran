@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nay! يَشْهَدُهُ الْمُقَرَّبُونَ (...attended by those [ angels ] who are blessed with nearness to Allah!...83:21) The verb yash-hadu is derived from shuhud which means 'to attend, to witness, to be present, to observe'.
+Surely, they (evildoers) will be veiled from seeing their Lord that Day.)(83:15) Thus, it has been mentioned that these (righteous people) will be allowed to look at Allah while they are upon their thrones and elevated couches. This refers to a drink called Tasnim, and it is the most excellent and exalted drink of the people of Paradise.
 
 ## Tafsir Ibn Kathir
 

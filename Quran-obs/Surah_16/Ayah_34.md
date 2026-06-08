@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Are they but waiting for the angels to come to them, or there comes the command of your Lord? It will be recalled that, after describing the blessings of Allah and proving that He was unique in the creation of the universe, the text made a pointed reference to how the polytheists chose to stick to their own ways of error.
+And Allah did not wrong them, but they were wronging themselves (33)Then, they were afflicted by their evil deeds, and they were surrounded by that which they used to mock . It means that the total curse of their sins has to fall on them anyway on the Day of Judgment, but part of the curse of the evil consequences of their role in misguiding others will also fall on them.
 
 ## Tafsir Ibn Kathir
 

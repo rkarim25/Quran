@@ -87,7 +87,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. قُلْ أَرَ‌أَيْتُم مَّا تَدْعُونَ مِن دُونِ اللَّـهِ (Say, "Tell me about those whom you invoke instead of Allah,...46:4) In these verses, the claim of the polytheists about the existence of some other gods has been refuted by demanding a proof to substantiate this claim, because no claim can be accepted, neither rationally nor according to the religious principles, unless it is proved by concrete evidences to support it.
+And who is more astray than those who invoke besides Allah others who will not answer them until the Day of Resurrection, and who are unaware of their invocations to them?)(6.
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-On that day no intercession shall avail, except the one for whom the Most Gracious has given permission and whose word is acceptable to Him (109)He knows what happens to them, and what will happen to them, but they will never encompass anything of His knowledge (110)And (all) faces shall be humbled before the Ever Living, the Sustainer.
+And he who carried wrongdoing, will be indeed a complete failure (111)And he who works deeds of righteousness, while he is a believer, then he will have no fear of injustice, nor of any curtailment .
 
 ## Tafsir Ibn Kathir
 

@@ -95,7 +95,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The chiefs of Fir'awn's people said: "Will you leave Musa and his people to spread mischief in the land, and to abandon you and your gods?" He said: "We will kill their sons, and let their women live, and we have indeed irresistible power over them. It is to be noted that the Pharaoh was in some degree successful in keeping his ignorant people in their former ignorance through his clever and false statements, but at the same time, they strangely noted that all the fury and rage of Pharaoh was limited to the sorcerers only.
+Pharaoh was frightened It is to be noted that the Pharaoh was in some degree successful in keeping his ignorant people in their former ignorance through his clever and false statements, but at the same time, they strangely noted that all the fury and rage of Pharaoh was limited to the sorcerers only.
 
 ## Tafsir Ibn Kathir
 

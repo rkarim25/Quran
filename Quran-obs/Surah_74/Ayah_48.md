@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Every person is a pledge for what he has earned (38)Except those on the Right (39)In Gardens they will ask one another (40)About criminals (and they will say to them)(41)"What has caused you to enter Hell? فَمَا تَنْفَعُهُمْ شَفَاعَةُ الشّٰفِعِيْنَ (Then intercession of intercessors will not avail them...74:48) The attached pronoun of tanfa'uhum refers to those sinners who have been mentioned in the preceding verses.
+This is because intercession is only useful if the conditions for it are met.
 
 ## Tafsir Ibn Kathir
 

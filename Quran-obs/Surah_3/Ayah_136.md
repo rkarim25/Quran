@@ -70,7 +70,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Upto this point, the text describes qualities of character that relate to the fulfillment of human rights.
+How excellent is this reward for the doers (of good).
 
 ## Tafsir Ibn Kathir
 

@@ -196,7 +196,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed, Allah took the covenant from the Children of Israel (Jews), and We appointed twelve leaders among them. In the seventh verse of Surah al-Ma'idah which appeared earlier Allah Almighty has asked Muslims to remember the pledge taken from them to which they professed belief and obedience: And remember Allah's favour upon you and His Covenant that He has taken from you when you said, "We have listened and obeyed." And fear Allah ...
+As for this figure of twelve, it is rather unusual and lends to popular interpretations.
 
 ## Tafsir Ibn Kathir
 

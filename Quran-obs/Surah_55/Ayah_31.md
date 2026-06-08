@@ -23,7 +23,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-We shall attend to you, O Thaqalan (31)Then which of the blessings of your Lord will you both deny (32)O assembly of Jinn and men! . A Warning for Humans and Jinn
+For example, one would say, "I will attend to you," even when one is not busy with anything else.
 
 ## Tafsir Ibn Kathir
 

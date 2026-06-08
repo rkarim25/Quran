@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-No calamity occurs in the earth nor in yourselves but it is inscribed in the Book of Decrees before We bring it into existence. لِّكَيْلَا تَأْسَوْا عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَ‌حُوا بِمَا آتَاكُمْ (...so that you may neither grieve on what has escaped you, nor over-exult on what He has given you ...57:23) This means that Allah has informed us of His encompassing knowledge, recording all things before they occur and creating all things in due measure known to Him, so that we may know that what has met us would never have missed us, and what has missed us would never have met us.
+And whosoever turns away, then Allah is Rich, Worthy of all praise .
 
 ## Tafsir Ibn Kathir
 

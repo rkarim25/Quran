@@ -56,7 +56,7 @@ Whether these Ayat were revealed about Ubayy bin Khalaf or Al-'As bin Wa'il, or 
 
 ## Tafsir Summary
 
-Does not man see that We have created him from Nutfah. In verse 80, it was said: جَعَلَ لَكُم مِّنَ الشَّجَرِ‌ الْأَخْضَرِ‌ نَارً‌ا (the One who created for you fire from the green tree).
+Yet behold he (stands forth) as an open opponent.) means, the one who is denying the resurrection, cannot see that the One Who initiated creation can re-create it.
 
 ## Tafsir Ibn Kathir
 

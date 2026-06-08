@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And even if We opened to them a gate to the heavens and they were to continue ascending through it (all day long)(14)They would surely say (in the evening): "Our eyes have been (as if) dazzled (we have not seen any angel or heaven). A Lexical Note of Explanation The word: اَلشِيَعِ in the first verse (10) is the plural form of: شِیعہ (shah) which means the follower or helper of a person.
+The Stubborn Disbelievers will never believe, no matter what Signs and Wonders They see Allah explains the extent of their disbelief and stubborn resistance to the truth by stating that even if a door to heaven were to be opened for them, and they were to be taken up through it, they would still not believe.
 
 ## Tafsir Ibn Kathir
 

@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Musa) said: "And what is the matter with you. بَصُرْ‌تُ بِمَا لَمْ يَبْصُرُ‌وا بِهِ (I perceived something they perceived not - 20:96) The reference here is to Jibra'il (علیہ السلام) .
+There is a tradition that he was present on his horse at the river crossing when, the Bani Isra'il having crossed it safely to the other side, the Pharaoh and his army entered the river in pursuit of the fugitives.
 
 ## Tafsir Ibn Kathir
 

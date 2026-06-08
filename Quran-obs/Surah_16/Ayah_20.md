@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Allah knows what you conceal and what you reveal (19)Those whom they invoke besides Allah have not created anything, but are themselves created (20)(They are) dead, not alive; and they do not know when they will be resurrected (21) Allah tells us that He knows what is hidden in people's hearts as well as what is apparent. Verses appearing immediately earlier described the many blessings of Allah Ta` ala in details, proved that He alone is their Creator and established that He is unique in this matter.
+And Allah knows what you conceal and what you reveal (19)Those whom they invoke besides Allah have not created anything, but are themselves created (20)(They are) dead, not alive; and they do not know when they will be resurrected . Therefore, it was said: When it stands proved that Allah alone made the heavens and the earth, made the mountains and rivers, vegetation and animals, trees and plants with their fruits and flowers, how can that most sacred Being that is the Creato…
 
 ## Tafsir Ibn Kathir
 

@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. إِنَّ فِي السَّمَاوَاتِ وَالْأَرْ‌ضِ لَآيَاتٍ لِّلْمُؤْمِنِينَ ("Surely in the heavens and the earth, there are signs for those who have faith..
+this verse, and similar other verses, is to affirm the Oneness of Allah.
 
 ## Tafsir Ibn Kathir
 

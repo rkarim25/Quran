@@ -100,7 +100,7 @@ Out of the hostile questions the disbelievers and polytheists have al-ways been 
 
 ## Tafsir Summary
 
-And indeed We sent Messengers before you, and made for them wives and offspring. The common thinking of disbelievers and polytheists about a prophet and messenger was that he should be from a species other than human, such as a creation like angels so that their supremacy over the general run of human beings becomes clearly pronounced.
+We have not given such a right to any messenger.' Similar is the case with the demand that he shows to them a particular miracle as identified by them.
 
 ## Tafsir Ibn Kathir
 

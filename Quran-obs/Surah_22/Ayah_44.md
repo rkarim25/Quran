@@ -53,7 +53,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if they deny you, so did deny before them the people of Nuh, 'Ad and Thamud (42)And the people of Ibrahim and the people of Lut (43)And the dwellers of Madyan; and denied was Musa. Qur’ anic prophecy about the Rightly Guided Caliphs ( خُلفأے راشدین ) and its fulfillment الَّذِينَ إِن مَّكَّنَّاهُمْ فِي الْأَرْ‌ضِ (Those who, when We give them power in the land - 22:41) In this verse the word (those) refers to those people who have been mentioned in the preceding verse: الَّذِينَ أُخْرِ‌جُوا مِن دِيَارِ‌هِم بِغَيْرِ‌ حَقٍّ (Those are the ones who were expelled from their homes without any just reason - 22:40).
+But I granted respite to the disbelievers for a while, then I seized them, and how (terrible) was My punishment (44)And many a township did We destroy while they were given to wrongdoing, so that it lie in ruins, and a deserted well and castle Mashid (45)Have they not traveled through the land, and have they hearts wherewith to understand and ears wherewith to hear Verily, it is not the eyes that grow blind, but it is the hearts which are in the breasts that grow blind .
 
 ## Tafsir Ibn Kathir
 

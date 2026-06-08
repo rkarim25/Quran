@@ -26,7 +26,7 @@ Al-Baghawi mentioned that Al-Kalbi and Muqatil said, "This Ayah was revealed abo
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Infitar An-Nasa'i recorded from Jabir that Mu'adh stood and lead the people in the Night prayer, and he made the recitation of his prayer long. ‌ يَا أَيُّهَا الْإِنسَانُ مَا غَرَّ‌كَ (0 man!
+Who created you, fashioned you perfectly, and gave you due proportion.)(8.
 
 ## Tafsir Ibn Kathir
 

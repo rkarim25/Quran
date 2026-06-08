@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, We have tried them as We tried the People of the Garden, when they swore to pluck the fruits in the morning (17)Without (saying: "If Allah wills." (18)Then there passed over it a Ta'if from your Lord while they were asleep (19)So by the morning, it became like As-Sarim (20)Then they called out (one to another as soon) as the morning broke (21)Saying: "Go to your tilth in the morning, if you would pluck (the fruits). فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَاوَمُونَ (Then, (at the beginning,) they started reproaching one another; 68:30).
+That is to say, at the beginning they made admission of guilt, but then they turned to face each other in mutual accusation, blaming each other for the punishment that visited them, whereas the crime was not committed by only a single person from among them, but it was committed jointly by all or most of them.
 
 ## Tafsir Ibn Kathir
 

@@ -67,7 +67,7 @@ Ata' Al-Khurasani said similarly. Mujahid said, "This Ayah was revealed about so
 
 ## Tafsir Summary
 
-May Allah forgive you. Mentioned in most of the seventeen verses of this entire section are hypocrites who had, on false pretexts, secured permission from the Holy Prophet ﷺ that they would not go to participate in the Jihad of Tabuk.
+He has been told that those hypocrites were lying when they presented themselves as de-serving of being excused from active service in Jihad. But, the drift of the argument is that, in case, permission was not given, they were still not going to go anyway - however, their hypocrisy would have definitely been exposed and they would not have had the opportunity to throw taunts at Muslims and exult that they had fooled them.
 
 ## Tafsir Ibn Kathir
 

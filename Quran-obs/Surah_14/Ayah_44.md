@@ -117,7 +117,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And warn mankind of the Day when the torment will come unto them; then the wrongdoers will say: "Our Lord! In the second verse (43), it has been said that the postponement of sudden punishment against these unjust people is not any better for them because, ultimately, they will be seized in the great punishment of the Qiyamah and the 'Akhirah which will overtake them all of a sudden.
+In the second verse (43), it has been said that the postponement of sudden punishment against these unjust people is not any better for them because, ultimately, they will be seized in the great punishment of the Qiyamah and the 'Akhirah which will overtake them all of a sudden.
 
 ## Tafsir Ibn Kathir
 

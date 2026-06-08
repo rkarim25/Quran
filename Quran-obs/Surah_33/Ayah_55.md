@@ -133,7 +133,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is no sin on them before their fathers, or their sons, or their brothers, or their brother's sons, or the sons of their sisters, or their own (believing) women, or their (female) slaves. إِن تُبْدُوا شَيْئًا أَوْ تُخْفُوهُ فَإِنَّ اللَّـهَ كَانَ بِكُلِّ شَيْءٍ عَلِيمًا (If you disclose any thing, or conceal it, Allah is All-Knowing about everything - 33:54).
+It is no sin on them before their fathers, or their sons, or their brothers, or their brother's sons, or the sons of their sisters, or their own (believing) women, or their (female) slaves.
 
 ## Tafsir Ibn Kathir
 

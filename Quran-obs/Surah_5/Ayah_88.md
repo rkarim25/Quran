@@ -60,7 +60,7 @@ Ali bin Abi Talhah said that Ibn 'Abbas said, "This Ayah [5:87] was revealed abo
 
 ## Tafsir Summary
 
-O you who believe! Upto this point, the subject revolved around the people of the Book.
+This is something an ignorant person takes to be Taqwa, fear of Allah, while, in the sight of Allah, that is transgression, which is impermissible.
 
 ## Tafsir Ibn Kathir
 

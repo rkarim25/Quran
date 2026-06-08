@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "We shall not believe in you, until you cause a spring to gush forth from the earth for us; (90)"Or you have a garden of date palms and grapes, and cause rivers to gush forth in their midst abundantly; (91)… A prophetic answer to hostile questions sounding absurd The questions asked and the demands made in these verses from the Holy Prophet ﷺ were virtually conditions on the fulfillment of which his antagonists were supposed to believe.
+And they say: "We shall not believe in you, until you cause a spring to gush forth from the earth for us; (90)"Or you have a garden of date palms and grapes, and cause rivers to gush forth in their midst abundantly; (91)"Or you cause the heaven to fall upon us in pieces, as you have pretended, or you bring Allah and the angels before (us) face to face; (92)"Or you have a house of Zukhruf, or you ascend up into the sky, and even then we will put no faith in your ascension unti…
 
 ## Tafsir Ibn Kathir
 

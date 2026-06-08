@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And for those who are Jews, We have forbidden such things as We have mentioned to you before. In the last verse (119): ثُمَّ إِنَّ رَ‌بَّكَ لِلَّذِينَ عَمِلُوا السُّوءَ بِجَهَالَةٍ (Then your Lord – for those who did evil through ignorance ...), it will be noticed that the sense of ignorance has been conveyed by the use of the word: جَهَالَةٍ (jahalah), not: جَھل (jahl).
+And We did not wrong them, but they wronged themselves (118)Then, your Lord for those who did evil out of ignorance and afterward repent and do righteous deeds - verily, after that, your Lord is Pardoning, Most Merciful .
 
 ## Tafsir Ibn Kathir
 

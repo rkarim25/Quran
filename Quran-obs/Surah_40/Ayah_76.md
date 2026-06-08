@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-See you not those who dispute about the Ayat of Allah How are they turning away (69)Those who deny the Book, and that with which We sent Our Messengers they will come to know (70)When iron collars will be rounded over their necks, and the chains, they shall be dragged along (71)In the boiling water, then they will be burned in the Fire (72)Then it will be said to them: "Where are (all) those whom you used to consider partners (73)"Besides Allah?" They will say: "They have vanished from us.
+As for farah or marah, it can be explained by saying that seeking enjoyment out of sinfulness under the intoxication of wealth coupled with the absence of any thought of there being a God is certainly Haram and impermissible.
 
 ## Tafsir Ibn Kathir
 

@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then when the fear had gone away from (the mind of) Ibrahim, and the glad tidings had reached him, he began to plead with Us (Our messengers) for the people of Lut (74)Verily, Ibrahim was, without doubt, forbearing, used to invoke Allah with humility, and was repentant (75)"O Ibrahim! Surah Hud (علیہ السلام) carries an account of different kinds of Divine punishments sent over past peoples because of their antagonism to prophets of the time.
+Indeed, the commandment of your Lord has gone forth.) This means the decree was settled concerning them and the Word was already given that they should be destroyed.
 
 ## Tafsir Ibn Kathir
 

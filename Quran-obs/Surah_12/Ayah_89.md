@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "Do you know what you did with Yusuf and his brother, when you were ignorant? Mentioned in the verses appearing above is the remaining part of the story of Sayyidna Yusuf (علیہ السلام) and his brothers.
+To start with, he first asked his brothers if they remembered what they had done with Yusuf and his brother at a time when they were ignorant, unable to distinguish between good and bad, and quite neglectful of acting with foresight. Presenting their need and helplessness, they told the ` Aziz that they and their family were suffering because of the famine, so much so that they did not have even adequate funds to purchase food grains.
 
 ## Tafsir Ibn Kathir
 

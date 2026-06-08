@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to the 'Ad (people We sent) their brother Hud. Mentioned in the first eleven verses (50-60) from the ones cited above are the events of the revered prophet of Allah, Sayyidna Hud by whose name this Surah is identified.
+One: Belief in Tauhid (Oneness of Allah) and that taking some-one or something else worthy of worship other than Allah is nothing but a lie and fabrication.
 
 ## Tafsir Ibn Kathir
 

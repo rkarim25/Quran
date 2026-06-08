@@ -141,7 +141,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Verse 184 gives concession in the matter of fasting to a 'sick' person and to a person on journey'.
+Right from here comes the ruling that anyone who intends to stay out for fifteen days, not at one place but at different places and towns, he shall continue to remain in the status of a 'traveller' and thereby shall continue to enjoy the concession of being 'on a journey' because he is in the state of ` ala safarin.
 
 ## Tafsir Ibn Kathir
 

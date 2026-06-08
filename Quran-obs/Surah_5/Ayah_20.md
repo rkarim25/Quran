@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Musa said to his people: "O my people! Previous to the verses cited above, a pledge was mentioned in which the Bani Isra'il were bound to obey Allah and His Messenger.
+The hint given here is that the people of Bani' Isra'il who were the oppressed slaves of the Pharaoh and his people for many ages saw how Allah Ta` ala destroyed their enemies and how they themselves were made masters and kings.
 
 ## Tafsir Ibn Kathir
 

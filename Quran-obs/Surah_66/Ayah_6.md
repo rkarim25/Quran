@@ -102,7 +102,7 @@ The word أَهْلِيكُمْ (your families) comprehends wife, children and s
 
 ## Tafsir Summary
 
-O you who believe! قُوا أَنفُسَكُمْ وَأَهْلِيكُمْ (0 those who believe, save yourselves and your families from a fire...66:6).
+Towards the end of it the angels in charge of it, whose name is Zabaniah, are described.
 
 ## Tafsir Ibn Kathir
 

@@ -78,7 +78,7 @@ Al-Bukhari recorded that 'A'ishah said, "A man was taking care of a female orpha
 
 ## Tafsir Summary
 
-And give unto orphans their property and do not exchange (your) bad things for (their) good ones; and devour not their substance (by adding it) to your substance. The first verse stressed upon the care and concern for kinship in an absolute sense.
+So Allah is commanding: Do not marry unless you give your wife something that is her right.
 
 ## Tafsir Ibn Kathir
 

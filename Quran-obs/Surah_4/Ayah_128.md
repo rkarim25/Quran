@@ -132,7 +132,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if a woman fears cruelty or desertion on her husband's part, there is no sin on them both if they make terms of peace between themselves; and making peace is better. Some Qur'anic Instructions about Married Life Verses 128-130 which begin with the words: وَإِنِ امْرَ‌أَةٌ خَافَتْ مِن بَعْلِهَا (And if a woman fears ill treatment or aversion from her husband ...) and end at وَاسِعًا حَكِيمًا (...
+'Ali bin Abi Talhah related that Ibn 'Abbas said that the Ayah refers to, "When the husband gives his wife the choice between staying with him or leaving him, as this is better than the husband preferring other wives to her." However, the apparent wording of the Ayah refers to the settlement where the wife forfeits some of the rights she has over her husband, with the husband agreeing to this concession, and that this settlement is better than divorce.
 
 ## Tafsir Ibn Kathir
 

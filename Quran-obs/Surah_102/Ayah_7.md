@@ -26,7 +26,7 @@ In Sahih Al-Bukhari, it is recorded in the Book of Ar-Riqaq (Narrations that sof
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 102:8] ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ (Then you will be asked about all the pleasures [ you enjoyed in the world ].) This means that, on the Day of Judgment, all of you will be questioned whether you had shown gratitude towards Allah's favors, or did you misuse them and were ungrateful to Allah?
+Verily, you shall see the blazing Fire!)(7. Qurtubi, having cited this, concludes that this is absolutely true, because the question does not specify any particular blessing.
 
 ## Tafsir Ibn Kathir
 

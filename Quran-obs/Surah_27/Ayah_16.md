@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We gave knowledge to Dawud and Sulayman, and they both said: "All praise be to Allah, Who has preferred us above many of His believing servants! There is no heritage of wealth among the prophets وَوَرِ‌ثَ سُلَيْمَانُ دَاوُودَ (And Sulaiman inherited Dawud - 27:16).
+He also knew the language of the birds and animals, which is something that had never been given to any other human being – as far as we know from what Allah and His Messenger ﷺ told us.
 
 ## Tafsir Ibn Kathir
 

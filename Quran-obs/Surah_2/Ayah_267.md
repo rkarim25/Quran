@@ -134,7 +134,7 @@ On the basis of the circumstances in which this verse was revealed, the word: (t
 
 ## Tafsir Summary
 
-O you who believe! The preceding section dealt with spending in the way of Allah.
+So who would lend to He Who is neither poor nor unjust, Who is worthy of all praise in all His actions, statements, and decisions, of Whom there is neither a deity worthy of worship except Him, nor a Lord other than Him?
 
 ## Tafsir Ibn Kathir
 

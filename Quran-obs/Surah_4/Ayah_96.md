@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Not equal are those of the believers who sit (at home), except those who are disabled, and those who strive hard and fight in the cause of Allah with their wealth and their lives. The third verse (96) too recounts the same degrees of precedence that the Mujahidin have over others.
+Unto each, Allah has promised good (Paradise), but Allah has preferred those who strive hard and fight, above those who sit (at home), by a huge reward (95)Degrees of (higher) grades from Him, and forgiveness and mercy. Allah mentions what He has given them rooms in Paradise, along with His forgiveness and the descent of mercy and blessing on them, as a favor and honor from Him.
 
 ## Tafsir Ibn Kathir
 

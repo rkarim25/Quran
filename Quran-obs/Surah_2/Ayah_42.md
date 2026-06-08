@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And mix not truth with falsehood, nor conceal the truth while you know (the truth)(42)And perform As-Salah, and give Zakah, and bow down along with Ar-Raki'in (43) The Prohibition of hiding the Truth and distorting It wi… (6) Verse 42 explicitly shows that it is not permissible to mix truth and falsehood together in such a way that the addressee falls into a confusion as to what the truth is, and that it is forbidden to conceal the truth because of fear or greed.
+Verse 42 explicitly shows that it is not permissible to mix truth and falsehood together in such a way that the addressee falls into a confusion as to what the truth is, and that it is forbidden to conceal the truth because of fear or greed.
 
 ## Tafsir Ibn Kathir
 

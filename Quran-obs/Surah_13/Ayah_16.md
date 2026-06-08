@@ -197,7 +197,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Who is the Lord of the heavens and the earth?" Say: "(It is) Allah." Say: "Have you then taken (for worship) Awliya' (protectors) other than Him, such as have no power either for benefit or for harm to themselves?" Say: "Is the blind equal to the one who sees? The outcome of both parables is that foam does appear prominent for a while on the real thing, but it finally gets to be thrown away and the real thing remains.
+Affirming Tawhid Allah affirms here that there is no deity worthy of worship except Him, since they admit that He alone created the heavens and the earth and that He is their Lord and the Disposer of all affairs.
 
 ## Tafsir Ibn Kathir
 

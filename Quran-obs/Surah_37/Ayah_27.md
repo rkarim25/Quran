@@ -32,7 +32,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they will turn to one another and question one another (27)They will say: "It was you who used to come to us from the right side. After that, a command will go forth to angels: فَاهْدُوهُمْ إِلَىٰ صِرَ‌اطِ الْجَحِيمِ (and show them the way to Jahannam - 37:23).
+And (they) said: "Are we going to abandon our gods for the sake of a mad poet?") meaning, 'Shall we stop worshipping our gods and the gods of our forefathers just because of the words of this mad poet?' – meaning the Messenger of Allah ﷺ.
 
 ## Tafsir Ibn Kathir
 

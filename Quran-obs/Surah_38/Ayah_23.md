@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And has the news of the litigants reached you? About Sayyidna Dawud (علیہ السلام) ، it was said in verse 22: فَفَزِعَ مِنْهُمْ (and he was scared of them).
+Two men barging into one's privacy in that manner at an odd hour beating the security cordon can only be because of some bad intention in most cases. This tells us that, should someone commit something irregular all of a sudden, one should not start rebuking and chastising him for that on the spur of the moment, instead, one should first listen to what he has to say, so that one can find out whether or not this person had any justification for his irregular behavior.
 
 ## Tafsir Ibn Kathir
 

@@ -99,7 +99,7 @@ Based on a narration by Sayyidna ` Urwah ibn Zubayr (رح) ، Ibn Ishaq has repo
 
 ## Tafsir Summary
 
-"My Lord! The address of Sayyidna Yusuf (علیہ السلام) in the previous verses was to his respected father.
+You have indeed bestowed on me of the sovereignty, and taught me something of the interpretation of dreams - the (Only) Creator of the heavens and the earth! Their attitude is that they may be enjoying the highest possible ranks in this world and in the Hereafter, and they may have all sorts of power and office beneath their feet, yet, they would never wax proud over these.
 
 ## Tafsir Ibn Kathir
 

@@ -95,7 +95,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Prophet! The previous verses have maintained that causing pain to any Muslim, man or woman, is forbidden and is a major sin, and in particular, inflicting pain on the Holy Prophet ﷺ is an act of infidelity, liable to Allah's curse.
+The Command of Hijab Here Allah tells His Messenger ﷺ to command the believing women – especially his wives and daughters, because of their position of honor – to draw their Jilbabs over their bodies, so that they will be distinct in their appearance from the women of the Jahiliyyah and from slave women. Tell your wives and your daughters and the women of the believers to draw their Jalabib over their bodies.
 
 ## Tafsir Ibn Kathir
 

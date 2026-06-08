@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But the Messenger and those who believed with him strove hard and fought with their wealth and their lives. The expression: اُولُوا الطَّولِ (ulu 'at-caul: translated as ` the capable ones' ) (86) is not for particularization.
+Such are they for whom are the good things, and it is they who will be successful (88)For them Allah has prepared Gardens (Paradise) under which rivers flow, to dwell therein forever.
 
 ## Tafsir Ibn Kathir
 

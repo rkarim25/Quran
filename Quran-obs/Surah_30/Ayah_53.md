@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So verily, you cannot make the dead to hear, nor can you make the deaf to hear the call, when they show their backs and turn away (52)And you cannot guide the blind from their straying; you can make to hear only those wh… فَإِنَّكَ لَا تُسْمِعُ الْمَوْتَىٰ (So you cannot make the dead to hear 30:52).
+The Disbelievers are like the Dead, Deaf and Blind Allah says, 'just as you are not able to make the dead hear in their graves, or to make your words reach the deaf who cannot hear and who still turn away from you, so too you cannot guide the blind to the truth and bring them back from their misguidance.' That is a matter which rests with Allah, for by His power He can make the dead hear the voices of the living if He wills.
 
 ## Tafsir Ibn Kathir
 

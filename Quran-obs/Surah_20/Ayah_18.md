@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And what is that in your right hand, O Musa? قَالَ هِيَ عَصَايَ (He said, “ It is my staff” – 20:18.
+Rule This verse also shows that carrying a staff is a practice followed by the prophets.
 
 ## Tafsir Ibn Kathir
 

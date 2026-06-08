@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And there is not a town (population) but We shall destroy it before the Day of Resurrection, or punish it with a severe torment. The word 'al-wasilah' in: يَبْتَغُونَ إِلَىٰ رَ‌بِّهِمُ الْوَسِيلَةَ (seek the means of close ness to their Lord - 57) conveys the sense of that which is used as a means of reaching someone.
+And there is not a town (population) but We shall destroy it before the Day of Resurrection, or punish it with a severe torment.
 
 ## Tafsir Ibn Kathir
 

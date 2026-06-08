@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-'And we have sought to reach the heaven; but we found it filled with stern guards and flaming fires. وَأَنَّا لَا نَدْرِ‌ي أَشَرٌّ‌ أُرِ‌يدَ بِمَن فِي الْأَرْ‌ضِ أَمْ أَرَ‌ادَ بِهِمْ رَ‌بُّهُمْ رَ‌شَدًا (and that we do not know whether it is a bad end that is intended for those on earth, or their Lord has intended for them a right thing,....72:10).
+Therefore, they expressed their reservations about this to the effect that they had no idea as to whether it was a bad end that was intended for the inhabitants of the earth or whether Allah intended them to be rightly guided. However, if Allah intends them to be rightly guided, He has barred the Jinn and Shaitan from having access to the heaven, so that they do not interfere with Divine revelation.
 
 ## Tafsir Ibn Kathir
 

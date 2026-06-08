@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But no! So, what has happened to them that they do not believe, and when the Qur'an is recited to them, they do not offer sajdah [ prostration ] ۩?
+this verse, and others indicate that it is not. As a result, there is a difference of opinion among jurists.
 
 ## Tafsir Ibn Kathir
 

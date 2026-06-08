@@ -132,7 +132,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who conceal what Allah has sent down of the Book, and purchase a small gain therewith (of worldly things), they eat into their bellies nothing but fire. Mentioned in the earlier verses were unlawful things which are tangible.
+So how bold they are (for evil deeds which will push them) to the Fire (175)That is because Allah has sent down the Book (the Qur'an) in truth.
 
 ## Tafsir Ibn Kathir
 

@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-That is the home of the Hereafter, We shall assign to those who do not want to exalt themselves in the land nor cause corruption. لِلَّذِينَ لَا يُرِ‌يدُونَ عُلُوًّا فِي الْأَرْ‌ضِ وَلَا فَسَادًا (We assigned it to those who intend neither haughtiness on earth nor mischief.
+That is the home of the Hereafter, We shall assign to those who do not want to exalt themselves in the land nor cause corruption. The Blessings of the Hereafter for the humble Believers Allah tells us that He has made the home of the Hereafter, and its eternal delights which will never change or fade away, for His believing, humble servants who do not rebel against the truth with pride and oppression in the land.
 
 ## Tafsir Ibn Kathir
 

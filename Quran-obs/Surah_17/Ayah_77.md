@@ -56,7 +56,7 @@ This was revealed concerning the disbelievers among the Quraysh, when they wante
 
 ## Tafsir Summary
 
-And verily, they were about to frighten you so much as to drive you out from the land. The last verse (77): سُنَّةَ مَن قَدْ أَرْ‌سَلْنَا (Such has been Our way with the messengers We sent ...) tells us that, according to the customary way and law of Allah Ta` ala, when a people expel their prophet from his home-land, or compel him to leave by scaring and harassing, then, those people too are not left to continue living there.
+But in that case, they would not have stayed (therein) after you, except for a little while (76)A Sunnah with which We sent Our Messengers before you and you will not find any alteration in Our Sunnah .
 
 ## Tafsir Ibn Kathir
 

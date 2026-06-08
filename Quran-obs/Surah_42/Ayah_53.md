@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is not given to any human being that Allah should speak to him unless (it be) by revelation, or from behind a veil, or (that) He sends a Messenger to reveal what He wills by His leave. مَا كُنتَ تَدْرِ‌ي مَا الْكِتَابُ وَلَا الْإِيمَانُ وَلَـٰكِن (You did not know earlier what is the Book or what is "Iman', but We have made it a light with which We guide whomsoever we will from among Our slaves - 42:52).
+And verily, you are indeed guiding to a straight path (52)The path of Allah to Whom belongs all that is in the heavens and all that is on the earth.
 
 ## Tafsir Ibn Kathir
 

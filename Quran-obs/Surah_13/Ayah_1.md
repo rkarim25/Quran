@@ -73,7 +73,7 @@ The first verse says that the Holy Qur'an is Divine Word, and that it is true. T
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful (1. This Surah is Makki and it has a total of forty three verses.
+These are the verses of the Book (the Qur'an), and that which has been revealed unto you from your Lord is the truth, but most men believe not.) The Qur'an is Allah's Kalam (Speech) We talked before, in the beginning of Surat Al-Baqarah (chapter 2) about the meaning of the letters that appear in the beginnings of some chapters in the Qur'an.
 
 ## Tafsir Ibn Kathir
 

@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those on the right – how (fortunate) will be those on the right (27)(They will be) among Sidri Makhdud (28)And among Talh Mandud (29)And in shade Mamdud (30)And by water flowing constantly (31)And fruit in plenty (32… The Reward of Those on the Right وَأَصْحَابُ الْيَمِينِ مَا أَصْحَابُ الْيَمِينِ As for the People of the right, How (lucky) are the People of the Right!...56:27).
+This is also reported from 'Ikrimah and Mujahid.
 
 ## Tafsir Ibn Kathir
 

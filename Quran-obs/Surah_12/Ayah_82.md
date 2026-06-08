@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, when they despaired of him, they consulted in private. Then, in verse 81, it was said: ارْ‌جِعُوا إِلَىٰ أَبِيكُمْ , that is, the oldest brother said: I am going to stay here.
+Therefore, in order to make things clear, the testimony of the people of the city, and the caravan, was presented in support.
 
 ## Tafsir Ibn Kathir
 

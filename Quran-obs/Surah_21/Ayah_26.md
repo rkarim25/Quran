@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "The Most Gracious has begotten children." Glory to Him! هَـٰذَا ذِكْرُ‌ مَن مَّعِيَ وَذِكْرُ‌ مَن قَبْلِي (Here is the Message for those with me and the Message for those before me.
+And they say: "The Most Gracious has begotten children." Glory to Him!
 
 ## Tafsir Ibn Kathir
 

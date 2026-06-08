@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Who provides for you from the sky and the earth? In the concluding verse (32), it was said: فَذَٰلِكُمُ اللَّـهُ رَ‌بُّكُمُ الْحَقُّ ۖ فَمَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ (So, that is Allah, your Lord in truth.
+How then are you turned away (32)Thus is the Word of your Lord justified against those who rebel (disobey Allah), that they will not believe .
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. If We so will, We can send down to them a sign from the sky before which their necks will stay bent in submission.
+- 26:4 Allamah Zamakhshari has explained that the real intent of the text is to say that the disbelievers themselves will stay in submission, but the act of submission is attributed in the verse to their "necks", so that the initial object of submission is pinpointed, because yielding or bowing in humility initially appears on the neck.
 
 ## Tafsir Ibn Kathir
 

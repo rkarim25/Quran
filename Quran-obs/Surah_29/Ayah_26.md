@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, Lut believed in him. فَآمَنَ لَهُ لُوطٌ ۘ وَقَالَ إِنِّي مُهَاجِرٌ‌ إِلَىٰ رَ‌بِّي (So Lut believed in him and he (Ibrahim علیہ السلام) said, "I am going to leave my homeland towards my Lord.
+The Faith of Lut and His Emigration with Ibrahim Allah tells us that Lut believed in Ibrahim. None of Ibrahim's people believed in Ibrahim besides Lut and Sarah the wife of Ibrahim.
 
 ## Tafsir Ibn Kathir
 

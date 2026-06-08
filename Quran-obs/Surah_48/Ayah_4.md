@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He it is Who sent down As-Sakinah into the hearts of the believers, that they may grow more in faith along with their faith. Bounties of Allah upon the Participants of Hudaibiyah In the first three verses of this Surah, reference was made to Allah's particular bounties bestowed upon the Holy Prophet ﷺ in the wake of the manifest victory.
+Qatadah commented, "Grace into the hearts of the believers", that is, the Companions, may Allah be pleased with them, on the Day of Al-Hudaybiyyah.
 
 ## Tafsir Ibn Kathir
 

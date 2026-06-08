@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So he escaped from there, looking about in a state of fear. قَالَ رَ‌بِّ بِمَا أَنْعَمْتَ عَلَيَّ فَلَنْ أَكُونَ ظَهِيرً‌ا لِّلْمُجْرِ‌مِينَ (He [ Musa ] said, "0 my Lord, since You have favoured me, I will never be a supporter to the sinners." -28:17).
+He was not used to being alone, because before that he had been living a life of luxury and ease, in a position of leadership. Therefore, by declaring him a criminal he vowed not to help such a person again.
 
 ## Tafsir Ibn Kathir
 

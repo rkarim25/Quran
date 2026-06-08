@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, man was created very impatient (19)Apprehensive when evil touches him (20)And suppressive when good touches him (21)Except those who are devoted to Salah (22)Those who with their Salah are Da'imun (23)And those i… Rights of Allah and Rights of Human beings both are included in Trust Obligations وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَ‌اعُونَ (and those who are careful about their trusts and covenants...70:32).
+Breach of trusts and covenants is dishonesty.
 
 ## Tafsir Ibn Kathir
 

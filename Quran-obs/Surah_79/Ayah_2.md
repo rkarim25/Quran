@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَالنَّاشِطَاتِ نَشْطًا (and by those [ angels ] who untie the knot [ of the souls of the believers ] smoothly, [ 2] ' The word nashitat is derived from nasht and it means 'to untie the knot'.
+This signifies 'to untie the knot of something which contains water or air, so that it may be released easily'.
 
 ## Tafsir Ibn Kathir
 

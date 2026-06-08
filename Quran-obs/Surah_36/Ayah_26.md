@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It was said: "Enter Paradise." He said: "Would that my people knew. Verse 26 states: قِيلَ ادْخُلِ الْجَنَّةَ ۖ قَالَ يَا لَيْتَ قَوْمِي يَعْلَمُونَ ﴿26﴾ بِمَا غَفَرَ‌ لِي رَ‌بِّي وَجَعَلَنِي مِنَ الْمُكْرَ‌مِينَ ﴿27﴾(it was said to him, " Enter the paradise".
+He said,"Would that my people knew how my Lord has forgiven me and placed me among the honored ones!" - 26, 27), that is, it was said to the person who had come from the farthest part of the city to prompt people to believe in the messengers, "Enter Paradise." It is obvious that this address was communicated through some angel who told him to go into the Paradise.
 
 ## Tafsir Ibn Kathir
 

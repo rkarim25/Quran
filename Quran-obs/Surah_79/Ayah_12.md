@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. فَالْمُدَبِّرَ‌اتِ أَمْرً‌ا (then manage [ to do ] everything [ they are ordered to do,]...79:5).
+They feel that this is something impossible after the destruction of their physical bodies and the disintegration of their bones and their decaying.
 
 ## Tafsir Ibn Kathir
 

@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O wives of the Prophet! The particular position of the blessed wives and the rationale of hard restrictions placed on them O wives of the Prophet, whoever from among you will commit a clearly shameful act, the punishment will be doubled for her.
+Here, qunut, that is, staying obedience to Allah and His Messenger ﷺ is a condition.
 
 ## Tafsir Ibn Kathir
 

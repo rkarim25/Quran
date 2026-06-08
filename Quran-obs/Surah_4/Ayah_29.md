@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Looking back from the beginning of Surah Al-Nisa', we see that it points out to the creation of all human beings from one father and mother and to the fact that all of them are bound in one big bond of brotherhood which suggests that rights of human beings at large have to be guarded and fulfilled.
+However, there is no harm in commercial transactions that transpire between the buyer and the seller with mutual consent, so that money is legally earned from these transactions.
 
 ## Tafsir Ibn Kathir
 

@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when We said to the angels: "Prostrate yourselves before Adam." And they prostrated except Iblis (Shaytan), he refused and was proud and was one of the disbelievers (disobedient to Allah)(34) Honoring Adam… The episode recounted in the foregoing verses has shown how the angels came to learn that Adam was superior to them in so far as he possessed the forms of knowledge necessary for the function of divine vice regency, while they themselves did not, nor did the jinns.
+And (remember) when We said to the angels: "Prostrate yourselves before Adam." And they prostrated except Iblis (Shaytan), he refused and was proud and was one of the disbelievers (disobedient to Allah). Although Iblis was not an angel, he was trying - and pretending - to imitate the angels' behavior and deeds, and this is why he was also included in the command to the angels to prostrate before Adam.
 
 ## Tafsir Ibn Kathir
 

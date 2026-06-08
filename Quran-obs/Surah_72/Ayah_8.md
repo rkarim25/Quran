@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-'And we have sought to reach the heaven; but we found it filled with stern guards and flaming fires. وَأَنَّا لَمَسْنَا السَّمَاءَ فَوَجَدْنَاهَا مُلِئَتْ حَرَ‌سًا شَدِيدًا وَشُهُبًا (...and that we sought [ to reach ] the sky, but we found it filled with stern guards and flames....72:8).
+It happened only after his Advent A doubt that may arise here is that the existence of Meteors, which in common parlance are called inqidad-ul-kaukab the 'falling stars', is not a new phenomenon.
 
 ## Tafsir Ibn Kathir
 

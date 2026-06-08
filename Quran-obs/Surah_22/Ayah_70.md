@@ -87,7 +87,7 @@ This also shows that there is in fact no inconsistency between the two interpret
 
 ## Tafsir Summary
 
-Know you not that Allah knows all that is in the heaven and on the earth? لِّكُلِّ أُمَّةٍ جَعَلْنَا مَنسَكًا (For every ummah (religious community) We have appointed a way of worship - 22:67).
+Know you not that Allah knows all that is in the heaven and on the earth?
 
 ## Tafsir Ibn Kathir
 

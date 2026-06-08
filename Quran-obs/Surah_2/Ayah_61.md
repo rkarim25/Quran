@@ -255,7 +255,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when you said, "O Musa ! This episode has been indirectly referred to in verse 58, and it also occurred in the wilderness of Tih تیہ .
+So invoke your Lord for us to bring forth for us of what the earth grows, its herbs, its cucumber its Fum, its lentils and its onions." He said, "Would you exchange that which is better for that which is lower?
 
 ## Tafsir Ibn Kathir
 

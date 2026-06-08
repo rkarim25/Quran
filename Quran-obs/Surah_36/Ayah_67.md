@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This is Hell which you were promised (63)Burn (enter) therein this Day, for that you used to disbelieve (64)This Day, We shall seal up their mouths, and their hands will speak to Us, and their legs will bear witness to what they used to earn (65)And if it had been Our will, We would surely have wiped out their eyes, so that they would struggle for the path, how then would they see (66)And if it had been Our will, We could have transformed them in their places. In verse 65, it was said: الْيَوْمَ نَخْتِمُ عَلَىٰ أَفْوَاهِهِمْ (Today We will set a seal on their mouths).
+Then they would have been unable to go forward (move about) nor they could have turned back . This is Hell which you were promised (63)Burn (enter) therein this Day, for that you used to disbelieve (64)This Day, We shall seal up their mouths, and their hands will speak to Us, and their legs will bear witness to what they used to earn (65)And if it had been Our will, We would surely have wiped out their eyes, so that they would struggle for the path, how then would they see (6…
 
 ## Tafsir Ibn Kathir
 

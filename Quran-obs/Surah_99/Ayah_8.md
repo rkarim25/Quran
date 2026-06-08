@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Az-Zalzalah Imam Ahmad recorded from 'Abdullah bin 'Amr that he said, "A man came to the Messenger of Allah ﷺ and said, 'Teach me what to recite, O Messenger of Allah!' The Prophet ﷺ said, Verse [ 8] وَمَن يَعْمَلْ مِثْقَالَ ذَرَّ‌ةٍ شَرًّ‌ا يَرَ‌هُ (And Whoever does evil [ even ] to the weight of a particle shall see it.) By 'evil' here is meant the evil for which the evil-doer has not repented.
+So, whosoever does good equal to the weight of a speck of dust shall see it.)(8.
 
 ## Tafsir Ibn Kathir
 

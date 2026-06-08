@@ -50,7 +50,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. It seems necessary to know a few facts before the start of the study of the Surah, which are as follows: Before the advent of the Holy Prophet ﷺ the devils used to go up to the heavens and eavesdrop on the conversations of the angels.
+'It guides to the right path, and we have believed therein, and we shall never join anything with our Lord.')(3. This species of creation is called 'Jinn' because it literally means 'hidden' or 'invisible'.
 
 ## Tafsir Ibn Kathir
 

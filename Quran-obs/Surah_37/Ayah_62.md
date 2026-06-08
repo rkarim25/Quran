@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Is that (Paradise) better entertainment or the tree of Zaqqum (62)Truly, We have made it (as) a trial for the wrongdoers (63)Verily, it is a tree that springs out of the bottom of Hell-fire (64)The shoots of its fruit st… After having described the conditions prevailing in Jahannam and Jannah briefly, Allah Ta’ ala has invited every human being to compare and decide as to which of the two conditions is better.
+The reality of Zaqqum A tree by the name of Zaqqum is found in the territory of Tihamah, a part of the Arabian Peninsula, and ` Allamah ` Alusi has written that it is also found in other barren deserts.
 
 ## Tafsir Ibn Kathir
 

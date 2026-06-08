@@ -72,7 +72,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "There is nothing but our life of this world, we die and we live and nothing destroys us except Ad-Dahr (time). وَمَا يُهْلِكُنَا إِلَّا الدَّهْرُ‌ "...and nothing destroys us except time...(45:24) " The word dahr means ` time from the beginning of the world to its end'.
+The Messenger of Allah said: "Do not revile time because time actually is Allah." The ignorant who claim that a particular work was done by time is actually the work of Divine power - time is nothing.
 
 ## Tafsir Ibn Kathir
 

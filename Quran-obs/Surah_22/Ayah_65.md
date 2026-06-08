@@ -119,7 +119,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-See you not that Allah sends down water from the sky, and then the earth becomes green? سَخَّرَ‌ لَكُم مَّا فِي الْأَرْ‌ضِ (Allah has subjugated to you whatever there is on the earth - 22:65) It means that everything on this earth has been placed under the control of man.
+And verily, Allah – He is Rich, Worthy of all praise (64)See you not that Allah has subjected to you all that is on the earth, and the ships that sail through the sea by His command He withholds the heaven from falling on the earth except by His leave.
 
 ## Tafsir Ibn Kathir
 

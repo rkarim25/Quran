@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We did not send a warner to a township but those who were given the worldly wealth and luxuries among them said: "We believe not in what you have been sent with. This very subject has been taken up in several other verses of the noble Qur'an.
+Then, they transgress therein, and thus the Word (of torment) is justified against it (them). This means that just as there are differences between them in this world – where one may be poor and in straitened circumstances while another is rich and enjoys a life of plenty – so they will be in the Hereafter.
 
 ## Tafsir Ibn Kathir
 

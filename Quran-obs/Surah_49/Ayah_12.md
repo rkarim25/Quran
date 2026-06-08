@@ -136,7 +136,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! This verse too comprises injunctions relating to mutual rights and manners to be observed in social life.
+This Ayah seeks to discourage people from backbiting and warns against it.
 
 ## Tafsir Ibn Kathir
 

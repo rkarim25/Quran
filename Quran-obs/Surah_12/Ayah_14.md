@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He (Ya'qub) said: "Truly, it saddens me that you should take him away. After hearing what Sayyidna Ya` qub (علیہ السلام) said, those brothers countered it by saying that his apprehension was strange in view of the presence of a strong group of the ten of them to protect Yusuf.
+If a wolf could be expected to eat up Yusuf despite their being there to guard him, it would render their very presence around him totally senseless.
 
 ## Tafsir Ibn Kathir
 

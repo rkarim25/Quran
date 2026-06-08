@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O Musa! وَأَلْقِ مَا فِي يَمِينِكَ (And throw what is in your right hand - 20:69).
+That which they have made is only a magician's trick, and the magician will never be successful, to whatever amount (of skill) he may attain.
 
 ## Tafsir Ibn Kathir
 

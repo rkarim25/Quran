@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, We have put on their necks iron collars reaching to the chins, so that their heads are raised up (8)And We have put a barrier before them, and a barrier behind them, and We have covered them up, so that they cannot see (9)It is the same to them whether you warn them or you warn them not, they will not believe (10)You can only warn him who follows the Reminder, and fears the Most Gracious unseen. Verses 7 and 8 لَقَدْ حَقَّ الْقَوْلُ عَلَىٰ أَكْثَرِ‌هِمْ فَهُمْ لَا يُؤْمِنُونَ إِنَّا جَعَلْنَا فِي أَعْنَاقِهِمْ أَغْلَالًا (The word has indeed come true about most of them, so they will not believe.
+One barrier is of the kind that prevents one from seeing even himself.
 
 ## Tafsir Ibn Kathir
 

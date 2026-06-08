@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Let not the believers take the disbelievers as friends instead of the believers, and whoever does that, will never be helped by Allah in any way, unless you indeed fear a danger from them. In these verses, Muslims have been instructed not to take disbelievers as their friends.
+This is why the Holy Qur'an has, in verses cited at the beginning of the commentary, said that the one who maintains relations based on deep love and friendship with disbelievers is one of them.
 
 ## Tafsir Ibn Kathir
 

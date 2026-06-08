@@ -126,7 +126,7 @@ Say: "I don't tell you that with me are the treasures of Allah, nor (that) I kno
 
 ## Tafsir Summary
 
-Say: "I don't tell you that with me are the treasures of Allah, nor (that) I know the Unseen; nor do I tell you that I am an angel. About verse 54: وَإِذَا جَاءَكَ الَّذِينَ يُؤْمِنُونَ (And when to you come those who believe ...
+You are accountable for them in nothing, and they are accountable for you in nothing, that you may turn them away, and thus become of the wrongdoers (52)Thus We have tried some of them with others, that they might say: "Is it these (poor believers) that Allah has favored from amongst us?" Does not Allah know best those who are grateful (53)When those who believe in Our Ayat come to you, say: "Salamun 'Alaykum" (peace be on you); your Lord has written mercy for Himself, so tha…
 
 ## Tafsir Ibn Kathir
 

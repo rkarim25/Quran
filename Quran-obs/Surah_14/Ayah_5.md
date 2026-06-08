@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We sent Musa with Our Ayat (saying): "Bring out your people from darkness into light, and remind them of the annals (or days) of Allah. . Please see footnote on the first verse of this Surah.
+The sentence means that the Days of Allah - that is, past events whether related to the punishment of the deniers of truth, or to the blessings and favours of Allah Ta’ ala - are full of the signs and proofs of the perfect power and eloquent wisdom of Allah Ta’ ala, particularly for a person who is much observing of patience and gratitude.
 
 ## Tafsir Ibn Kathir
 

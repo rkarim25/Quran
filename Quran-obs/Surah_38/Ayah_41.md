@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And remember Our servant Ayyub, when he invoked his Lord (saying): "Verily, Shaytan has afflicted me with distress and torment! The event relating to Sayyidna Ayyub (علیہ السلام) has been introduced here to comfort and prompt the Holy Prophet (علیہ السلام) ، so that he would also observe patience.
+This is the wording of Ibn Jarir, may Allah have mercy on him.
 
 ## Tafsir Ibn Kathir
 

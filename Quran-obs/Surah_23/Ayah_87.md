@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Whose is the earth and whosoever is therein? And We have already seized them with punishment, but they did not turn humble to their Lord, nor do they supplicate in humility.
+The Idolators Believe in Tawhid Ar-Rububiyyah, Which Requires Them to Believe in Tawhid Al-Uluhiyyah Allah states that the fact that He is One and that He is independent in His creation, control, dominion and guides one to realize that there is no God except Him and that none should be worshipped except Him Alone, with no partner or associate.
 
 ## Tafsir Ibn Kathir
 

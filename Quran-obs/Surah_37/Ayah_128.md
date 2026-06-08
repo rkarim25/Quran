@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, Ilyas was one of the Messengers (123)When he said to his people: "Will you not have Taqwa? In verse 128, it was said: إِلَّا عِبَادَ اللَّـهِ الْمُخْلَصِينَ (except the chosen servants of Allah).
+Verily, he was one of Our believing servants.) We have already discussed the meaning of this above.
 
 ## Tafsir Ibn Kathir
 

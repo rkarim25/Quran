@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Messenger of Allah (ﷺ) recited this Surah to Ubayy Imam Ahmad recorded from Anas bin Malik that the Messenger of Allah ﷺ said to Ubayy bin Ka'b, Verse [ 5] وَذَٰلِكَ دِينُ الْقَيِّمَةِ (And that is the way of the straight religion.) The word qayyimah [ the straight ] is apparently the qualifier of the noun kutub [ Books ] which occurred earlier.
+The verse purports to say that Allah commanded the People of the former Scriptures that they should render full and sincere obedience to Divine commandments, that is, to worship Allah alone. And the People of the Scripture differed not until after there came to them the Bayyinah.)(5.
 
 ## Tafsir Ibn Kathir
 

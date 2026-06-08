@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Your Lord is He Who drives the ship for you through the sea, in order that you may seek of His bounty. (2) Secondly, he had said if he was given respite till the day of Qiyamah, he will mislead the entire progeny of 'Adam, except a few of them.
+Your Lord is He Who drives the ship for you through the sea, in order that you may seek of His bounty.
 
 ## Tafsir Ibn Kathir
 

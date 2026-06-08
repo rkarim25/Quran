@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Every person is a pledge for what he has earned (38)Except those on the Right (39)In Gardens they will ask one another (40)About criminals (and they will say to them)(41)"What has caused you to enter Hell? فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِيْنَ (So what has happened to them that they are turning away from the Reminder...
+Fleeing from a Qaswarah.) meaning, as if they were fleeing from the truth and turning away from it, like a wild donkey when it flees from something that is trying to catch it, like a lion.
 
 ## Tafsir Ibn Kathir
 

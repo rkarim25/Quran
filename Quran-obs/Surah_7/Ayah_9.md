@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the weighing on that Day will be the true (weighing). In the first verse, it was said: وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ ` (And the Weighing on that day is definite).
+The one whose scale-pan with good deeds is heavier will have his salvation while the one whose scale-pan with sins and evils is heavier will have his punishment.
 
 ## Tafsir Ibn Kathir
 

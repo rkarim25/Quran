@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-To Allah belongs the kingdom of the heavens and the earth. The earlier three of the above verses state the end of those people who, as against the virtuous Muslims, remained desirous of the delights and luxuries of this world, instead of caring about the Hereafter.
+It is Allah Ta’ ala alone who grants female children to whom He wills, and male children to whom He wills; to some He grants both male and female children, and He renders some females barren who do not have any children.
 
 ## Tafsir Ibn Kathir
 

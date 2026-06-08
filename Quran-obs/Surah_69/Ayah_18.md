@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then when the Trumpet will be blown with one blowing (13)And the earth and the mountains shall be removed from their places, and crushed with a single crushing (14)Then on that Day shall the Event occur (15)And the heave… يَوْمَئِذٍ تُعْرَ‌ضُونَ لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌ (On that day, you will be brought forward in a way that no secret of yours will remain secret...69:18).
+In other words, on the Day of Judgment people will be exposed - no concealed act they did will stay concealed.
 
 ## Tafsir Ibn Kathir
 

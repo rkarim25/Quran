@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Introduction to Surat Ar-Rahman Imam Ahmad recorded that Zirr said that a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! خَلَقَ الْإِنسَانَ عَلَّمَهُ الْبَيَانَ (He has created man.
+The word bayan ('how to express himself) comprehends all the means of communication created by Allah, like speech, writing etc. He has taught him [ how ] to express himself...55:4) Man's creation itself is a great boon of Allah and in the natural order of things he is first and foremost, so much so that even imparting the knowledge of the Qur'an, which is mentioned first, can only take place after his creation.
 
 ## Tafsir Ibn Kathir
 

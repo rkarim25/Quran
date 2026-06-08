@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The parable of those who spend their wealth in the way of Allah, is that of a grain (of corn); it grows seven ears, and each ear has a hundred grains. This is the thirty-sixth section of Surah Al-Baqarah which begins from verse 262.
+The outcome is that one who spends in the way of Allah receives in return (reward in the Hereafter) on the scale of one to seven hundred, that is, spending one cent could bring the merit of seven hundred cents.
 
 ## Tafsir Ibn Kathir
 

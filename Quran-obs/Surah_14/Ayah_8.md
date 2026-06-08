@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Musa said to his people: "Call to mind Allah's favor to you, when He delivered you from Fir'awn's people who were afflicting you with horrible torment, and were slaughtering your sons and letting your women live; and in it was a tremendous trial from your Lord. In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَكْفُرُ‌وا أَنتُمْ وَمَن فِي الْأَرْ‌ضِ جَمِيعًا (And Musa said, "If you are ungrateful, you and all those on earth, then, Allah is free of all needs, worthy of every praise.) " This was said by Sayyidna Musa (علیہ السلام) to his people.
+He is telling them that should they or, for that matter, all inhabitants of the earth become ungrateful to Allah Ta’ ala, it is not going to cause any loss to Allah Ta’ ala.
 
 ## Tafsir Ibn Kathir
 

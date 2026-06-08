@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (as for) the male thief and the female thief, cut off their hands as a recompense for that which both committed, a punishment by way of example from Allah. Do you know that to Allah alone belongs the kingdom of the heavens and the earth?
+It is to re-move this doubt that Almighty Allah has, in this verse, initially stated that He alone is the real Master of the entire universe.
 
 ## Tafsir Ibn Kathir
 

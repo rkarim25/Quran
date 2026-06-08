@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat At-Tariq An-Nasa'i recorded that Jabir said, "Mu'adh lead the Maghrib prayer and he recited Al-Baqarah and An-Nisa'. إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ (there is no human being, but there is a watcher over him....86:4).
+There is no human being but has a protector over him.)(5.
 
 ## Tafsir Ibn Kathir
 

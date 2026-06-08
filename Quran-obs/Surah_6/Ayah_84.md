@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We bestowed upon him Ishaq and Ya'qub, each of them We guided, and before him, We guided Nuh and among his progeny Dawud, Sulayman, Ayyub, Yusuf, Musa, and Harun. In the six verses (84-89) appearing after that, there is a list of seventeen blessed prophets, some of whom are the forefathers of Sayyidna Ibrahim (علیہ السلام) while most are his progeny, with some being his brothers or nephews.
+This phenomena also punishment tells us that, though honour and salvation or disgrace and punishment really depend on one's personal deeds, but having a prophet or man of Allah (waliy) among forefathers, or having observing ` Alims of Din and men and women of righteous conduct among children, is also a great blessing as this too brings its benefits.
 
 ## Tafsir Ibn Kathir
 

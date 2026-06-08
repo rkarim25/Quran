@@ -54,7 +54,7 @@ Just as this surah was revealed to the Holy Prophet ﷺ for the ascertainment of
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. (Ha Meem ` Ayn Seen Qaf) Only Allah knows the meaning of these letters.
+Likewise Allah, the Almighty, the All-Wise sends revelation to you as to those before you.)(4.
 
 ## Tafsir Ibn Kathir
 

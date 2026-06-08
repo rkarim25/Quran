@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when We took your covenant (saying): Shed not the blood of your (people), nor turn out your own people from their dwellings. This verse is a supplement to the previous verse, and speaks of the other articles of the pledge taken by the Israelites.
+Then, (this) you ratified and (to this) you bore witness (84)After this, it is you who kill one another and drive out a party of you from their homes, assist (their enemies) against them, in sin and transgression.
 
 ## Tafsir Ibn Kathir
 

@@ -110,7 +110,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "O Allah! In verse 47, it was said: وَبَدَا لَهُم مِّنَ اللَّـهِ مَا لَمْ يَكُونُوا يَحْتَسِبُونَ (And there will appear to them from Allah what they have never imagined.) The famous tabi` i, Sufyan Thawri recited this verse and said, 'Ruined are those who did good deeds only to pretend their piety before people.
+But the ransom will not be accepted from them, even if it were to be an earth-full of gold as He mentioned elswhere (3:91). Even they themselves used to deceive themselves by thinking that these deeds will become a source of salvation for them in the Hereafter.
 
 ## Tafsir Ibn Kathir
 

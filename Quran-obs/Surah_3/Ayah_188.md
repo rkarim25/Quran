@@ -96,7 +96,7 @@ As pointed out earlier, they were commanded to tell their people about injunctio
 
 ## Tafsir Summary
 
-(And remember) when Allah took a covenant from those who were given the Scripture (Jews and Christians) to make it (the truth) known and clear to mankind, and not to hide it, but they threw it away behind their backs, and purchased with it some miserable gain! In continuation of the description of evils practiced by the Jews mentioned in previous verses, the first of the present two verses (187, 188) takes up yet another evil practice of theirs.
+And indeed worst is that which they bought (187)Think not that those who rejoice in what they have done (or brought about), and love to be praised for what they have not done, think not that they are rescued from the torment, and for them is a painful torment (188)And to Allah belongs the dominion of the heavens and the earth, and Allah has power over all things .
 
 ## Tafsir Ibn Kathir
 

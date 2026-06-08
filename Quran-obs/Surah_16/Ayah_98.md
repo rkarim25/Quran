@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So when you recite the Qur'an, seek refuge with Allah from Shaytan, the outcast (98)Verily, he has no power over those who believe and put their trust only in their Lord (99)His power is only over those who obey and foll… Emphasis was laid in previous verses over the fulfillment of the covenant with Allah following which stated there was the importance and desirability of acting righteously in one's life.
+Is it not that one who stands subdued by the Satan is actually rejected and deserving of punishment in the sight of Allah?
 
 ## Tafsir Ibn Kathir
 

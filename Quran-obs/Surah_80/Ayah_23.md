@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Qutila mankind! كَلَّا لَمَّا يَقْضِ مَا أَمَرَ‌هُ (No!
+But he has not done what He commanded him.) means, He has not done it (resurrected them) as of yet, until the time period has expired and the extent of the earthly life of humanity is complete, according to the lives of all whom Allah has written it to exist from the time they are brought into existence into the world.
 
 ## Tafsir Ibn Kathir
 

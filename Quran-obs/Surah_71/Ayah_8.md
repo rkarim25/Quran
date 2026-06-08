@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: O my Lord! يَغْفِرْ‌ لَكُم مِّن ذُنُوبِكُمْ and Allah will forgive you your sins, 71:4).
+He made each one of them in a set manner with a distinct quality so that the night and day may be known. He also determined fixed stations and positions for the moon, and He made its light vary so that sometimes it increases until it reaches a maximum, then it begins to decrease until it is completely veiled.
 
 ## Tafsir Ibn Kathir
 

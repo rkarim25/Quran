@@ -58,7 +58,7 @@ It was said that this Ayah was revealed about Al-Julas bin Suwayd, who tried to 
 
 ## Tafsir Summary
 
-O Prophet! In the last verse (73): جَاهِدِ الْكُفَّارَ‌ وَالْمُنَافِقِينَ وَاغْلُظْ عَلَيْهِمْ (carry out Jihad against the disbelievers and hypocrites and be strict with them), the Holy Prophet ﷺ has been commanded to wage Jihad against disbelievers and hypocrites both and to be strict in their case.
+This Ayah means, the Messenger ﷺ did not commit an error against them, other than that Allah has enriched them on account of the Prophet's blessed and honorable mission! And had Allah guided them to what the Prophet ﷺ came with, they would have experienced its delight completely.
 
 ## Tafsir Ibn Kathir
 

@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they ask you to hasten on the torment! How the Day of Resurrection will be equal to one thousand years by our reckoning In this verseإِنَّ يَوْمًا عِندَ رَ‌بِّكَ كَأَلْفِ سَنَةٍ (22:47) means that one day with your Lord is like one thousand years of what you count.
+And verily a day with your Lord is as a thousand years of what you reckon (47)And many a township did I give respite while it was given to wrongdoing.
 
 ## Tafsir Ibn Kathir
 

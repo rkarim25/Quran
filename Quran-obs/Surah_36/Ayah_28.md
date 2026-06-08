@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It was said: "Enter Paradise." He said: "Would that my people knew. In verses 28 and 29, it was said: وَمَا أَنزَلْنَا عَلَىٰ قَوْمِهِ مِن بَعْدِهِ مِن جُندٍ مِّنَ السَّمَاءِ وَمَا كُنَّا مُنزِلِينَ إِن كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ خَامِدُونَ " (And We did not send down to his people any army from the heavens after him, nor were We (in need ) to send down.
+And regarding the sending of punishment, it was said that Allah did not have to send an army of angels to seize these people - nor was it the way of Allah to send such an army, because just a single angel of Allah is enough to destroy the greatest, mightiest and the bravest of nations. Allah tells us that He did not send an army of angels, nor did He need to send them, to destroy these people; the matter was simpler than that.
 
 ## Tafsir Ibn Kathir
 

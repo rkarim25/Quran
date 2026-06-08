@@ -14,7 +14,7 @@ There is a reason for this specific treatment and marked attention. Things of th
 
 ## Tafsir Summary
 
-The Virtues of Surah Alif Lam Mim As-Sajdah In the Book of the Friday prayer, Al-Bukhari recorded that Abu Hurayrah said, "The Prophet ﷺ used to recite in Fajr on Fridays: Surely, it is Allah with whom rests the knowledge of the Hour, and He sends down the rain, and He knows what is in the wombs.
+Therefore, it is not included under the definition of the knowledge of the unseen ('Ilm ul-ghayb) because the news about things unseen given to the blessed prophets through wahy (revelation) and to the men of Allah (auliya' ) through ilham (inspiration) come from Allah Ta’ ala.
 
 ## Tafsir Ibn Kathir
 

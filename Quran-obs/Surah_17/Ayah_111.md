@@ -100,7 +100,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Invoke Allah or invoke Ar-Rahman (the Most Gracious), by whatever name you invoke Him (it is the same), for to Him belong the Best Names. And Sayyidna Anas ؓ has said that a child from the tribe of Bani ` Abd al-Muttalib, when able to say meaningful words, was taught to recite this verse by the Holy Prophet ﷺ .
+Praise be-longs to Allah who has neither taken to Him a son, nor is there any partner to Him in His kingdom, nor is anyone (needed) to protect Him because of (any) weakness.
 
 ## Tafsir Ibn Kathir
 

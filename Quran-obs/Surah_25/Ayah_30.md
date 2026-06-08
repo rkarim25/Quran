@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the Messenger will say: "O my Lord! وَقَالَ الرَّسُوْلُ يٰرَبِّ اِنَّ قَوْمِي اتَّخَذُوْا ھٰذَا الْقُرْاٰنَ مَهْجُوْرًا (That is Rasul will say, 0 my Lord my people have forgotten and forsaken Qur'an - 25:30).
+When he would recite Qur'an to them, they would talk nonsense or speak about something else, so that they would not hear it.
 
 ## Tafsir Ibn Kathir
 

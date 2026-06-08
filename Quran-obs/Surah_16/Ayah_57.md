@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they assign a portion of that which We have provided them with, to what they have no knowledge of (false deities). Even the Punishment of the World is Mercy in Disguise In the verses cited above, after having mentioned various punishments which could seize disbelievers within this world, it was said in the end: فَإِنَّ رَ‌بَّكُمْ لَرَ‌ءُوفٌ رَّ‌حِيمٌ (So, indeed your Lord is Very Kind Very Merciful).
+And for themselves (they assign) what they desire (57)And when the news of (the birth of) a female (child) is brought to any of them, his face becomes dark, and he is filled with inner grief (58)He hides himself from the people because of the evil of what he has been informed. By Allah, you shall certainly be questioned about (all) that you used to fabricate (56)And they assign daughters to Allah!
 
 ## Tafsir Ibn Kathir
 

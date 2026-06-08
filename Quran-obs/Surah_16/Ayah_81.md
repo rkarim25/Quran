@@ -115,7 +115,7 @@ Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ 
 
 ## Tafsir Summary
 
-And Allah had made your homes a place of rest for you, and made dwellings for you out of the hides of the cattle which you find so light when you travel and when you camp; and furnishings and articles of convenience out… Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ الْحَرَّ‌ (shirts which protect you from heat - 81).
+Arabia is a hot country where the very thought of snow and winter chill is far-fetched, therefore, the statement was left with the mention of protection from heat as being sufficient. And Allah had made your homes a place of rest for you, and made dwellings for you out of the hides of the cattle which you find so light when you travel and when you camp; and furnishings and articles of convenience out of their wool, fur, and hair - comfort for a while (80)And Allah has made sh…
 
 ## Tafsir Ibn Kathir
 

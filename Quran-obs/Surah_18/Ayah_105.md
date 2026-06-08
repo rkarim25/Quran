@@ -69,7 +69,7 @@ Are they the Haruriyyah?' He said, 'No, they are the Jews and Christians. As for
 
 ## Tafsir Summary
 
-Say: "Shall We tell you the greatest losers in respect of (their) deeds? The last sentence in the same verse (105): فَلَا نُقِيمُ لَهُمْ يَوْمَ الْقِيَامَةِ وَزْنًا (and We shall not assign to them any weight) means that their deeds may appear to be great outwardly, but when placed on the balance of reckoning, they will carry no weight.
+'Ali bin Abi Talib, Ad-Dahhak and others said: "They are the Haruriyyah," so this means, that according to 'Ali, may Allah be pleased with him, this Ayah includes the Haruriyyah just as it includes the Jews, the Christians and others. This does not mean that the Ayah was revealed concerning any of these groups in particular; it is more general than that, because the Ayah was revealed in Makkah, before the Qur'an addressed the Jews and Christians, and before the Khawarij exist…
 
 ## Tafsir Ibn Kathir
 

@@ -176,7 +176,7 @@ Imam Ahmad recorded that Al-Qa'qa' bin Abdullah bin Abi Hadrad narrated that his
 
 ## Tafsir Summary
 
-O you who believe! CommentarySequence of Verses Stern warning has been given against the killing of a Muslim in previous verses.
+When you go (to fight) in the cause of Allah, verify (the truth), and say not to anyone who greets you: "You are not a believer;" seeking the perishable goods of the worldly life. However, an admonition was considered sufficient and no severe warning was revealed for them against this act because the Companions did not know the rule clearly till that time.
 
 ## Tafsir Ibn Kathir
 

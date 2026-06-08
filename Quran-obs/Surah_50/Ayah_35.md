@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-On the Day when We will say to Hell: "Are you filled?" It will say: "Are there any more? Verse [ 35] depicts the delights of Paradise: The first part states لَهُم مَّا يَشَاءُونَ فِيهَا (For them there will be whatever they wish,,,,, 50:35].
+In other words, the righteous will have whatever delights they wish brought forthwith without any delay.
 
 ## Tafsir Ibn Kathir
 

@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-These are the Ayat of Allah, which We recite to you with truth. إِنَّ فِي السَّمَاوَاتِ وَالْأَرْ‌ضِ لَآيَاتٍ لِّلْمُؤْمِنِينَ ("Surely in the heavens and the earth, there are signs for those who have faith..
+It is worth noting that in all these verses reference is made to the various signs in nature and a concluding statement is made on each occasion: Here it concludes: ` there are signs for those who have faith', in another place it concludes: ` there are signs for those who believe' and in a third place it concludes: ` there are signs for those who understand'.
 
 ## Tafsir Ibn Kathir
 

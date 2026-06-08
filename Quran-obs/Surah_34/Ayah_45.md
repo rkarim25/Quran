@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when Our Clear Verses are recited to them, they say: "This is naught but a man who wishes to hinder you from that which your fathers used to worship." And they say: "This is nothing but an invented lie." And those who disbelieve say of the truth when it has come to them: "This is nothing but evident magic! The word: مِعْشَارَ‌ (mi'shar) in verse 45: وَمَا بَلَغُوا مِعْشَارَ‌ مَا آتَيْنَاهُمْ (while these (infidels of Makkah) have not reached even one tenth of what We gave to those (before them) has been taken to mean: عُشُر ('ushr: a tenth) by some early commentators.
+but that did not protect them from the punishment of Allah, and Allah destroyed them because they denied His Messengers. The sense of the verse is that not even a tenth, rather a thousandth, of the worldly wealth, power, blessings of age and health given to earlier communities was received by the people of Makkah.
 
 ## Tafsir Ibn Kathir
 

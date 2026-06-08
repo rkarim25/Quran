@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And among His Ayat is the creation of the heavens and the earth, and whatever moving creatures He has dispersed in them both. وَمَا أَصَابَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُو عَن كَثِيرٍ‌ (And whatever hardship befalls you is because of what your own hands have committed, while He overlooks many [ of your faults ]....
+Baidawi and others have stated that this verse is specifically meant for those people who are likely to commit sins.
 
 ## Tafsir Ibn Kathir
 

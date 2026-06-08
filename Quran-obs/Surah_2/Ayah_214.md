@@ -132,7 +132,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or think you that you will enter Paradise without such (trials) as came to those who passed away before you? The previous verse has said how hostile the disbelievers have been to prophets (علیہم السلام) and believers and, in a way, has comforted Muslims hurt by the mockery of disbelievers that there is nothing new about this antagonism.
+They were afflicted with severe poverty and ailments and were so shaken that even the Messenger and those who believed along with him said, "When (will come) the help of Allah" Yes! Apparently, this verse seems to indicate that nobody shall enter Paradise unless he goes through hardships and sufferings, although, Qur'anic statements and sayings of the Holy Prophet ﷺ prove that many sinners will enter Paradise simply because of the grace, mercy and forgiveness of Allah Almight…
 
 ## Tafsir Ibn Kathir
 

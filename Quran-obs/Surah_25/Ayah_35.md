@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We gave Musa the Scripture, and placed his brother Harun with him as a helper (35)And We said: "Go you both to the people who have denied Our Ayat." Then We destroyed them with utter destruction (36)And Nuh's people, when they denied the Messengers, We drowned them, and We made them as a sign for mankind. Verse no.
+And indeed We gave Musa the Scripture, and placed his brother Harun with him as a helper (35)And We said: "Go you both to the people who have denied Our Ayat." Then We destroyed them with utter destruction (36)And Nuh's people, when they denied the Messengers, We drowned them, and We made them as a sign for mankind.
 
 ## Tafsir Ibn Kathir
 

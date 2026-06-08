@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Allah) will say: "Enter you in the company of nations who passed away before you, of men and Jinn, into the Fire." Every time a new nation enters, it curses its sister nation (that went before) until they are all together in the Fire. The first and the second verse both mentioned two crimes committed by disbelievers.
+In other words, what is being said here is that those committing excesses who, despite their contumacy, are basking in the sunshine of the blessings of Allah Ta` ala, and do not seem to be anywhere close to being punished, they should not lose sight of the customary practice of Allah that He, in His infinite mercy, keeps granting a long leash to sinners so that they would somehow stop doing what they do.
 
 ## Tafsir Ibn Kathir
 

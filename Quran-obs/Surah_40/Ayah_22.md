@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have they not traveled in the land and seen what was the end of those who were before them? In verse 19, it was said: يَعْلَمُ خَائِنَةَ الْأَعْيُنِ (He knows the treachery of the eyes), in other words, eyes that betray the trust.
+And none had they to protect them from Allah (21)That was because there came to them their Messengers with clear evidences but they disbelieved (in them). Yet despite this great strength, Allah punished them for their sin, which was their disbelief in their Messengers.
 
 ## Tafsir Ibn Kathir
 

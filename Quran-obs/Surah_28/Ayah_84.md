@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-That is the home of the Hereafter, We shall assign to those who do not want to exalt themselves in the land nor cause corruption. لِلَّذِينَ لَا يُرِ‌يدُونَ عُلُوًّا فِي الْأَرْ‌ضِ وَلَا فَسَادًا (We assigned it to those who intend neither haughtiness on earth nor mischief.
+And the good end is for those who have Taqwa (83)Whosoever brings good, he shall have the better thereof; and whosoever brings evil, then those who do evil deeds will only be requited for what they used to do .
 
 ## Tafsir Ibn Kathir
 

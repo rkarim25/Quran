@@ -115,7 +115,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who 'Yulḥidūna Fī' Our Ayat are not hidden from Us. Description and Rules of Ilhad (الحاد) - A particular kind of kufr إِنَّ الَّذِينَ يُلْحِدُونَ فِي آيَاتِنَا (Surely those who go crooked about Our signs are not hidden from Us….41:40) In the earlier verses, there were warnings, threats and mention of scourge for those who used to openly deny the Oneness of Allah and the prophethood of the Holy Prophet ﷺ .
+Is he who is cast into the Fire better or he who comes secure on the Day of Resurrection?
 
 ## Tafsir Ibn Kathir
 

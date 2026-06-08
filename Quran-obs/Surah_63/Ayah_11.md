@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! وَأَنفِقُوا مِن مَّا رَ‌زَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ أَحَدَكُمُ الْمَوْتُ (And spend out of what We have given to you before death comes to one of you…63:10) ‘Coming of death’ in this verse refers to ‘witnessing the signs of death’.
+If only You would give me respite for a little while, then I should give Sadaqah from my wealth, and be among the righteous (10)And Allah grants respite to none when his appointed time comes. And Allah is All-Aware of what you do.) meaning, when the time of death comes, no one will be granted respite.
 
 ## Tafsir Ibn Kathir
 

@@ -100,7 +100,7 @@ Al-Bukhari reported in the explanation of the Ayah (2:143) that Ibn 'Umar narrat
 
 ## Tafsir Summary
 
-The fools (idolators, hypocrites, and Jews) among the people will say: "What has turned them (Muslims) from their Qiblah [prayer direction (towards Jerusalem)] to which they used to face in prayer." Say (O Muhammad ﷺ): "To Allah belong both, east and the west. The orientation of Qiblah قبلہ "Qiblah قبلہ " signifies the direction to which one turns one's face.
+Also, 'Asr, the prayer that is described as 'Wusta' (a variation of the word Wasat), means the best prayer, as the authentic collections of Ahadith reported.
 
 ## Tafsir Ibn Kathir
 

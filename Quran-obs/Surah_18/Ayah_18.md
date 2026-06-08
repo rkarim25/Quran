@@ -100,7 +100,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And you would have thought them awake, whereas they were asleep. The People of Kahf during their long sleep were in a state that an onlooker would have taken them to be awake The second state of the People of Kahf pointed out is that there were no signs of sleep on their bodies in spite of having been put to sleep for such a long period of time.
+The truth of the matter is that Allah Ta’ ala, in His wisdom, had created such conditions for their protection that the Sun stays away from their bodies, and the onlooker takes them to be awake and is filled with awe of them and is consequently unable to see them fully.
 
 ## Tafsir Ibn Kathir
 

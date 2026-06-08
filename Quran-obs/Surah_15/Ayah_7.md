@@ -38,7 +38,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "O you (Muhammad) to whom the Dhikr (the Qur'an) has been revealed! From: ذَرْ‌هُمْ يَأْكُلُوا (Let them eat ...3) we can see that the making of eating and drinking the real occupation and aim of life, and keeping glued to long-drawn material plans while surrounded by countless things of worldly comfort, and becoming totally heedless to death, is something which can be done only by the disbelievers.
+e., those who deny the Day of Resurrection and the life of the Hereafter), say: "Why are not the angels sent down to us, or why do we not see our Lord?" Indeed they think too highly of themselves, and are scornful with great pride.
 
 ## Tafsir Ibn Kathir
 

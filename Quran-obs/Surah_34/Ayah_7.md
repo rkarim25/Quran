@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who disbelieve say: "Shall we direct you to a man who will tell you (that) when you have become fully disintegrated into dust with full dispersion, then you will be created (again) anew? Reported in verse 7: وَقَالَ الَّذِينَ كَفَرُ‌وا هَلْ نَدُلُّكُمْ عَلَىٰ رَ‌جُلٍ يُنَبِّئُكُمْ إِذَا مُزِّقْتُمْ كُلَّ مُمَزَّقٍ إِنَّكُمْ لَفِي خَلْقٍ جَدِيدٍ (Shall we point out to you a man...).
+This means that in looking at the creation of the heavens and the earth, there is a sign for every servant who is intelligent and wise and who turns towards Allah. There is a sign of the Allah's ability to recreate bodies and bring about the Resurrection, because the One Who was able to create these heavens – with their vast reaches of space, and this earth, as deep and vast as it is – is able to recreate bodies and revive decayed bones.
 
 ## Tafsir Ibn Kathir
 

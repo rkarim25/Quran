@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-There is no compulsion in religion. One who holds on to Islam firmly stays protected against destruction and deprivation.
+Therefore, there is no need to force anyone to embrace Islam.
 
 ## Tafsir Ibn Kathir
 

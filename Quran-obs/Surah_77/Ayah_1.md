@@ -20,7 +20,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Revelation of this Surat and its Recitation in the Maghrib Prayer Al-Bukhari recorded from 'Abdullah – that is Ibn Mas'ud – that he said, "While we were with the Messenger of Allah ﷺ in a cave at Mina, Sahih of Bukhari records from Sayyidna ` Abdullah Ibn Masud "While we were with Allah's Messenger in a cave at Mina, the Surah 'wal-Mursalat' was revealed to him.
+The word ` asifat is derived from ` asf that literally means 'winds that blow violently or vehemently'. The word nashirat refers to 'winds that spread (clouds) all over after the rain is over'.
 
 ## Tafsir Ibn Kathir
 

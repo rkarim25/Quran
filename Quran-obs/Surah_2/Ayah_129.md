@@ -78,7 +78,7 @@ Now that we are on the subject of purification (tazkiyah تزکیہ ), we might 
 
 ## Tafsir Summary
 
-"Our Lord! The prayer of Ibrahim (علیہ السلام) for the Holy Prophet ﷺ Let us start by commenting on certain words which occur in this verse.
+According to the present verses, "teaching the Book" is a prophetic function distinct from "reciting the Verses".
 
 ## Tafsir Ibn Kathir
 

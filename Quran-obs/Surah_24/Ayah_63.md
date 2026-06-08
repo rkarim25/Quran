@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Make not the calling of the Messenger among you as your calling one of another. Do not take the call of the messenger among you as a call of one of you to another - 24:63.
+According to this explanation it means calling of the Holy Prophet ﷺ by the people for some need which implies that 'the messenger' is the object of the 'call'.
 
 ## Tafsir Ibn Kathir
 

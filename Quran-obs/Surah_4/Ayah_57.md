@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Surely, those who disbelieved in Our Ayat, We shall burn them in Fire. Particular believers and disbelievers were mentioned in the previous verses.
+Truly, Allah is Ever Most Powerful, All-Wise (56)But those who believe and do deeds of righteousness, We shall admit them to Gardens under which rivers flow (Paradise), abiding therein forever. Therein they shall have Azwajun Mutahharatun (purified mates), and We shall admit them to shades, wide and ever deepening .
 
 ## Tafsir Ibn Kathir
 

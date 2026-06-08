@@ -49,7 +49,7 @@ This Surah was revealed in Makkah before the migration to Al-Madinah. The proof 
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-A'la This Surah was revealed in Makkah before the migration to Al-Madinah. سَنُقْرِئُكَ فَلَا تَنسَىٰ ۔ إِلَّا مَا شَاءَ اللَّـهُ (We will make you recite, then you will not forget, except that which Allah wills.
+Except what Allah may will He knows what is apparent and what is hidden.)(8.
 
 ## Tafsir Ibn Kathir
 

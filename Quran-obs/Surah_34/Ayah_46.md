@@ -106,7 +106,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "I exhort you to one (thing) only, that you stand up for Allah's sake in pairs and singly, and reflect, there is no madness in your companion. Call to the disbelievers of Makkah In verse 46: إِنَّمَا أَعِظُكُم بِوَاحِدَةٍ (I advise you for one thing only), in order to negate any excuse for the people of Makkah, they have been shown a shortcut to ascertain truth.
+And then, the expression 'in pairs and singles' is not intended to point out a particular number.
 
 ## Tafsir Ibn Kathir
 

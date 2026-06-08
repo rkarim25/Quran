@@ -96,7 +96,7 @@ However, the hypocrites defamed him, 'By Allah! 'Abdur-Rahman gave what he gave 
 
 ## Tafsir Summary
 
-Those who defame such of the believers who give charity voluntarily, and such who could not find to give charity except what is available to them – so they mock at them (believers); Allah will throw back their mockery on… Mentioned in the first verse (79) are taunts thrown at Muslims who gave away in charity on a voluntary basis (Nafli Sadaqat).
+In the second verse (80), there is a statement about the hypocrites.
 
 ## Tafsir Ibn Kathir
 

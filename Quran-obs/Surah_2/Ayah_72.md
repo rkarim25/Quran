@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when you killed a man and disagreed among yourselves as to the crime. The murderer had his supporters who wanted to hide his crime, and hence began accusing different people.
+Verse 72 relates how a man was murdered, and how people started accusing each other. And (remember) when you killed a man and disagreed among yourselves as to the crime.
 
 ## Tafsir Ibn Kathir
 

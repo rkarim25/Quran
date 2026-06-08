@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then after him We sent Messengers to their people. It was said in the last verse (64) that, for the friends of Allah, there is the good news in the worldly life and in the Hereafter.
+They brought them clear proofs, but they would not believe what they had already rejected beforehand. If the people before them who rejected their Messengers had received this much punishment, then what did they think will happen to them since they perpetrated even greater sins than others before them?
 
 ## Tafsir Ibn Kathir
 

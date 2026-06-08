@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have they not pondered over the Word, or has there come to them what had not come to their fathers of old (68)Or is it that they did not recognize their Messenger so they deny him (69)Or they say: There is madness in him Nay, but he brought them the truth, but most of them are averse to the truth (70)And if Al-Haqq had followed their desires, verily, the heavens and the earth, and whosoever is therein would have been corrupted! Or did they not recognize their messenger?
+But the recompense of your Lord is better, and He is the Best of those who give sustenance (72)And certainly, you call them to the straight path (73)And verily, those who believe not in the Hereafter are indeed deviating far astray from the path (74)And though We had mercy on them and removed the distress which is on them, still they would obstinately persist in their transgression, wandering blindly .
 
 ## Tafsir Ibn Kathir
 

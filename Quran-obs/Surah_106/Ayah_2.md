@@ -23,7 +23,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 106:2] رِ‌حْلَةَ الشِّتَاءِ وَالصَّيْفِ (...their familiarity with the trips of winter and summer.) It is a known fact that Makkah is situated in an utterly bleak and arid valley where no agricultural produce grows, nor are there any orchards where the people of Makkah could reap any kind of fruits.
+As Syria was a cold region, they went there in summer; and Yemen had a warm climate, so they went there in winter to carry out their commercial activities. This was their situation during their journeys and travels during their winter and summer.
 
 ## Tafsir Ibn Kathir
 

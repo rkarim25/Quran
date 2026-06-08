@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. زَيَّنَّا لَهُمْ أَعْمَالَهُمْ (We have made their deeds adorned in their sight - 27:4)It means that those who do not believe in the Hereafter We have made their bad actions look adorned in their sight.
+Some commentators have interpreted that "their deeds" is used in this verse for good deeds.
 
 ## Tafsir Ibn Kathir
 

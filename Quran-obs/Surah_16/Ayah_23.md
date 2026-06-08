@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Your god is one God. Verses appearing immediately earlier described the many blessings of Allah Ta` ala in details, proved that He alone is their Creator and established that He is unique in this matter.
+None is to be worshipped except Allah Allah tells us that there is none to be worshipped besides Him, the One, the Unique, the Lone, the Self-Sufficient.
 
 ## Tafsir Ibn Kathir
 

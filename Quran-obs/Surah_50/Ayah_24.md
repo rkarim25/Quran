@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And his companion (angel) will say: "Here is (his record) ready with me! أَلْقِيَا فِي جَهَنَّمَ كُلَّ كَفَّارٍ‌ عَنِيدٍ (Cast, both of you [ 0 angels,] into Jahannam every stubborn disbeliever....
+It appears that Allah will say these words to the Sa'iq and Shahid angels; Allah will order them to throw him in the fire of Hell.
 
 ## Tafsir Ibn Kathir
 

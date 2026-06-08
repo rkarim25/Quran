@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And press your (right) hand to your (left) side: it will come forth white (and shining), without any disease as another sign, (22)"That We may show you (some) of Our greater signs. His second prayer was يَسِّرْ‌ لِي أَمْرِ‌ي (make my task easy for me - 20:26).
+Be kind to us and make our difficult tasks easy because it is easy for you to make every difficult thing easy.
 
 ## Tafsir Ibn Kathir
 

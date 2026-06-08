@@ -122,7 +122,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Did you (O Muhammad ﷺ) not think of those who went forth from their homes in the thousands, fearing death? In a uniquely eloquent manner, the two verses (243, 244) appearing above and verse 245 which follows, present guidance that prompts the sacrifice of one's life and possessions in the way of Allah Almighty.
+Therefore, this effort to run from death is not only redundant and wasteful, but also goes on to become the cause of Allah Almighty's displeasure.
 
 ## Tafsir Ibn Kathir
 

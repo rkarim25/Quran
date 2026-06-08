@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-'Adn (Gardens) will they enter, therein will they be adorned with bracelets of gold and pearls, and their garments therein will be of silk (33)And they will say: "All praise and thanks be to Allah, Who has removed from us (all) grief. A close look at the last sentence of verse 32 and the statement in verse ذَٰلِكَ هُوَ الْفَضْلُ الْكَبِيرُ‌ جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ‌ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِ‌يرٌ‌ (That is the great bounty, gardens of eternity they enter.
+They will be ornamented with bracelets of gold and with pearls, and their dress therein will be (of) silk.
 
 ## Tafsir Ibn Kathir
 

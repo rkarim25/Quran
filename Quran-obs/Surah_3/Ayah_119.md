@@ -124,7 +124,7 @@ After that, in verse هَا أَنتُمْ أُولَاءِ تُحِبُّونَ
 
 ## Tafsir Summary
 
-O you who believe! After that, in verse هَا أَنتُمْ أُولَاءِ تُحِبُّونَهُمْ ; Muslims have been told that it is certainly strange that you go about loving them as friends, yet they are no friends of yours.
+Certainly, Allah knows what is in the breasts (all the secrets).
 
 ## Tafsir Ibn Kathir
 

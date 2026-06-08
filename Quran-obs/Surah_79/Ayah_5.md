@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. فَالْمُدَبِّرَ‌اتِ أَمْرً‌ا (then manage [ to do ] everything [ they are ordered to do,]...79:5).
+The statement that 'the soul is in ` Alam-ul-arwah or ` illiyyun' is also true, because the 'soul' in this context refers to ruh mujarrad or 'abstract spirit'.
 
 ## Tafsir Ibn Kathir
 

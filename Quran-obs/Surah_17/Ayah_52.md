@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "When we are bones and fragments (destroyed), should we really be resurrected (to be) a new creation? The word: يَدْعُوكُمْ (He will call you) in: يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِ (on a day when He will call you, and you will respond praising Him - 52) is a derivation from: دُعَاء (dua' ) which means to call out for someone by announcing it vocally.
+As outwardly obvious, the verse does seem to indicate that this will be the state of all, believers or disbelievers - they both will rise praising Allah. Thus, the outcome is that all of them will present themselves praising Allah while coming to those fateful plains.
 
 ## Tafsir Ibn Kathir
 

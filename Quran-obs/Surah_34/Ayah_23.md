@@ -100,7 +100,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Call upon those whom you assert besides Allah, they possess not even the weight of a speck of dust, either in the heavens or on the earth, nor have they any share in either, nor there is for Him any supporter from among them. These verses are meant to prove the falsity of three different types of idol-worshippers.
+The last part of Verse 22 deals with this group by saying, "And He (Allah) has no helper from among them." There was a third group of people who did not hold the idols as gods or helpers of god, but they maintained that these idols are so close to Allah that their intercession is always approved by Him, and whoever has the advantage of their intercession, his desires may well be fulfilled.
 
 ## Tafsir Ibn Kathir
 

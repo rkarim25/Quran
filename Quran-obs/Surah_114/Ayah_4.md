@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "I seek refuge with the Lord of An-Nas, (1)"The King of An-Nas, (2)"The God of An-Nas, (3)"From the evil of the whisperer who withdraws. Verse [ 114:4] مِن شَرِّ‌ الْوَسْوَاسِ الْخَنَّاسِ (from the evil of the whisperer who withdraws [ when Allah's name is pronounced ].) After invoking three attributes of Allah, the present verse describes the one from whom protection is sought.
+This (the whisperer) is the devil that is assigned to man.
 
 ## Tafsir Ibn Kathir
 

@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He (Allah) said: "Get you down, both of you, together, some of you are an enemy to some others. وَمَنْ أَعْرَ‌ضَ عَن ذِكْرِ‌ي (And whoever turns away from My message - 20:124.) Here the word can refer both to the Qur'an and the Holy Prophet ﷺ as has been mentioned in other verses ذِكْرً‌ا ﴿10﴾ رَّ‌سُولًا (65:10).
+The answer to the question posed above is that the punishment which the evil-doers will suffer in this world refers to the chastisement which awaits them in the grave where their existence will be made miserable and beyond endurance. It is generally observed that the wealthy people who have all the means of comfort at their disposal actually are unable to enjoy comfort themselves, because comfort cannot be achieved without content and peace of mind.
 
 ## Tafsir Ibn Kathir
 

@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "O People of the Scripture! In the first verse (62) cited above, mentioned there is the moral depravation and self-destructive attitude of many Jews so that people who know that may take a lesson and stay away from such deeds, as well as from causes that lead to them.
+Evil indeed is that which they have been doing (62)Why do not the 'Rabbāniyyūn' and the 'Aḥbār' forbid them from uttering sinful words and from eating illegal things.
 
 ## Tafsir Ibn Kathir
 

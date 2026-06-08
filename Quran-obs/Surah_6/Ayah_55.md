@@ -38,7 +38,7 @@ Thereupon, the present verses were revealed to comfort him. In gist, the Holy Pr
 
 ## Tafsir Summary
 
-And thus do We explain the Ayat in detail, that the way of the criminals, may become manifest (55)Say: "I have been forbidden to worship those whom you invoke (worship) besides Allah." Say: "I will not follow your vain desires. About verse 54: وَإِذَا جَاءَكَ الَّذِينَ يُؤْمِنُونَ (And when to you come those who believe ...
+Therefore, Allah has sent the Angel of the Mountains to you so that you may order him to do whatever you wish to these people.' The Angel of the Mountains called and greeted me, and then said, 'O Muhammad! With Him (Alone) is the knowledge of the Hour, He sends down the rain, and knows that which is in the wombs.
 
 ## Tafsir Ibn Kathir
 

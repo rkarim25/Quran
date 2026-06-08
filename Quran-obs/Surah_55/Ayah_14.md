@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He created man from sounding clay like the clay of pottery (14)And the Jinn He created from a smokeless flame of fire (15)Then which of the blessings of your Lord will you both deny (16)The Lord of the two easts and the… The Creation of Humans and Jinns خَلَقَ الْإِنسَانَ مِن صَلْصَالٍ كَالْفَخَّارِ‌ (He has created man from dry clay, ringing like pottery...
+The Creation of Humans and Jinns Allah mentions that He created mankind from clay, like that used in pottery, and created the Jinns from the tip of the flame of a smokeless fire. The word salsal [ clay ] refers to the wet soil when it becomes dry and heavy.
 
 ## Tafsir Ibn Kathir
 

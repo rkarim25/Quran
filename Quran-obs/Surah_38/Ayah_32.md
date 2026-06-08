@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Dawud We gave Sulayman. The story of the return and resetting of the Sun Some early interpreters have, while following the first Tafsir, also said that soon after having missed the Salah of al-` Asr, Sayyidna Sulayman (علیہ السلام) prayed to Allah Ta’ ala, or requested the angels, that the Sun should be made to return.
+As-Suddi said, "Their necks and hamstrings were struck with swords." Ali bin Abi Talhah reported that Ibn 'Abbas, may Allah be pleased with him, said, "He began patting the horses' heads and legs out of love for them." This is the view that was favored by Ibn Jarir.
 
 ## Tafsir Ibn Kathir
 

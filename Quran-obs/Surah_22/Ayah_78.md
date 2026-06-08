@@ -193,7 +193,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! وَجَاهِدُوا فِي اللَّـهِ حَقَّ جِهَادِهِ (And struggle for (seeking the pleasure of) Allah, a struggle that is due to him - 22:78) The words جِھَاد - (jihad) and مُجَاھِدہ (mujahadah) mean to exert one's utmost effort to achieve an objective and to take pains for it.
+He has chosen you, and has not laid upon you in religion any hardship: it is the religion of your father Ibrahim.
 
 ## Tafsir Ibn Kathir
 

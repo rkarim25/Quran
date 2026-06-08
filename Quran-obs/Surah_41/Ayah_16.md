@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But if they turn away, then say: "I have warned you of a Sa'iqah like the Sa'iqah which overtook 'Ad and Thamud. فَأَرْ‌سَلْنَا عَلَيْهِمْ رِ‌يحًا صَرْ‌صَرً‌ا (So, We let loose a wild wind on them - 41:16) This is the explanation of what was mentioned as ` calamity of ` Ad and Thamud' in the earlier verse.
+And they used to deny Our Ayat (15)So, We sent upon them a 'Sarsar' wind in days of calamity that We might give them a taste of disgracing torment in this present worldly life. The days of the windstorm over the people of ` Ad have been called ` unlucky' because those days had become ill-omened for them due to their misdeeds.
 
 ## Tafsir Ibn Kathir
 

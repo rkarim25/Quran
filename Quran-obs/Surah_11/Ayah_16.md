@@ -76,7 +76,7 @@ Anas bin Malik and Al-Hasan both said, "This verse was revealed concerning the J
 
 ## Tafsir Summary
 
-Whosoever desires the life of the world and its glitter, to them We shall pay in full (the wages of) their deeds therein, and they will have no diminution therein (15)They are those for whom there is nothing in the Hereafter but Fire, and vain are the deeds they did therein. The second verse (17) presents the high ground the Holy Prophet ﷺ and the purely sincere believers with him occupy.
+Whosoever desires the life of the world and its glitter, to them We shall pay in full (the wages of) their deeds therein, and they will have no diminution therein (15)They are those for whom there is nothing in the Hereafter but Fire, and vain are the deeds they did therein.
 
 ## Tafsir Ibn Kathir
 

@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(And there is also a share in this booty) for the poor emigrants, who were expelled from their homes and their property, seeking bounties from Allah and (His) good pleasure, and helping Allah and His Messenger. All Muslims after the Muhajirin and the Ansar are entitled to fai' وَالَّذِينَ جَاءُوا مِن بَعْدِهِمْ "And [ fai' is also ] for those who came after them ....59:10) This verse lays down that all Muslims until the Last Hour, after the noble Companions from amongst the Muhajirin and Ansar, are entitled to a share in the fai' property.
+Then he argues, on the basis of this verse, that every Muslim has a share in the fai' property, and anyone who has no share, his faith in Islam is doubtul.
 
 ## Tafsir Ibn Kathir
 

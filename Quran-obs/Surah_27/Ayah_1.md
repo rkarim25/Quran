@@ -34,7 +34,7 @@ The word شَاعِر (Sha` ir) is used in this verse in its technical and commo
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. As for the poets, they are followed by the straying people.
+These are the Ayat of the Qur'an, and (it is) a Book (that is) clear.)(2.
 
 ## Tafsir Ibn Kathir
 

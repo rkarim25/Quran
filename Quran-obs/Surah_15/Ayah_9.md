@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "O you (Muhammad) to whom the Dhikr (the Qur'an) has been revealed! An Episode from the Court of Ma'mun Imam Al-Qurtubi has authentically reported an event from the court of ` Abbasi Khalifah, Al-Ma'mun.
+This also leads us to the ruling that the practice of people who publish the translation of the Qur’ an only in a foreign language and give it the name, for example, an English Qur’ an or an Urdu Qur’ an, is not permissible at all - because, that is not the Qur’ an.
 
 ## Tafsir Ibn Kathir
 

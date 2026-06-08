@@ -55,7 +55,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Truly, nothing is hidden from Allah, in the earth or in the heaven (5)He it is Who shapes you in the wombs as He wills. Verse 3 which follows carries the reported proof of the Oneness of Allah.
+Truly, nothing is hidden from Allah, in the earth or in the heaven (5)He it is Who shapes you in the wombs as He wills.
 
 ## Tafsir Ibn Kathir
 

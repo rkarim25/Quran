@@ -66,7 +66,7 @@ A party of the People of the Scripture wish to lead you astray. But they shall n
 
 ## Tafsir Summary
 
-A party of the People of the Scripture wish to lead you astray. Verse 69 exposes the cherished desire of the people of the Book to mislead Muslims away from the true faith they are on.
+Commentary Verse 69 exposes the cherished desire of the people of the Book to mislead Muslims away from the true faith they are on. Verse 70, addressing the people of the Book, asks them as to why they disbelieve in the signs of Allah, such as the verses in Torah and Injil which prove the prophethood of Muhammad ﷺ because the denial of his prophethood amounts to declaring these verses to be false which is infidelity, although they themselves confirm these as true.
 
 ## Tafsir Ibn Kathir
 

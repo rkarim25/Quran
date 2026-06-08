@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Allah increases in guidance those who walk aright. ''And the everlasting virtues are better with your Lord in respect of reward and better in their return".
+And the righteous good deeds that last are better with your Lord for reward and better for resort . Increasing Guidance of Those Who are guided After Allah mentions the extended time and respite that is allowed to those who are in misguidance, increasing them in misguidance, He informs of the increase in guidance of those who are rightly guided.
 
 ## Tafsir Ibn Kathir
 

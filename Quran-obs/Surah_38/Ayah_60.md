@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This is so! In verse 52, it was said: وَعِندَهُمْ قَاصِرَ‌اتُ الطَّرْ‌فِ أَتْرَ‌ابٌ (and in their company there will be females restricting their glances ] to their husbands, and[ of matching ages.).
+It is you who brought this upon us, so evil is this place to stay in!
 
 ## Tafsir Ibn Kathir
 

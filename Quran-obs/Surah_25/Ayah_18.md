@@ -95,7 +95,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And on the Day when He will gather them together and that which they worship besides Allah. The Second Objection was that if the Holy Prophet ﷺ was a prophet, he should not have been eating and drinking like common people; instead he should have been free from eating and drinking like angels.
+It was not for us to take any Awliya' besides You, but You gave them and their fathers comfort till they forgot the warning, and became a lost people.
 
 ## Tafsir Ibn Kathir
 

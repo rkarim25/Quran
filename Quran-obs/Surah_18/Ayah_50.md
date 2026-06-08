@@ -117,7 +117,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when We said to the angels: "Prostrate yourselves unto Adam." So they prostrated themselves, except Iblis. The progeny of Iblis, and his descendants and followers The word: ذُرِّ‌يَّتَهُ (dhurriyyatah) in verse 50 indicates that Iblis (Shaitan) has offspring, and a host of descendants and followers.
+And (remember) when We said to the angels: "Prostrate yourselves unto Adam." So they prostrated themselves, except Iblis.
 
 ## Tafsir Ibn Kathir
 

@@ -64,7 +64,7 @@ We should mention here the Hadith of 'Umar bin Al-Khattab collected in the Two S
 
 ## Tafsir Summary
 
-Do they not then consider the Qur'an carefully? Deliberation in the Qur'an Verse 82 begins with: أَفَلَا يَتَدَبَّرُ‌ونَ الْقُرْ‌آنَ (Do they not, then, ponder in the Qur'an?) Through this verse, Allah Almighty invites people to deliberate in the Qur'an.
+Here, 'a great deal of contradiction' means: Had there been a contradiction in one subject, the contradiction in many subjects would obviously have become a great deal of contradiction (Bayan a1-Qura'n).
 
 ## Tafsir Ibn Kathir
 

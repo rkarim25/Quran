@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "When will be this promise (the torment or the Day of Resurrection), if you speak the truth? In verse 45, it was said: يَتَعَارَ‌فُونَ بَيْنَهُمْ (they will recognize each other), that is, when the dead will be raised from their graves, they will recognize each other as if not much time had passed when they met last.
+The Deniers of the Day of Resurrection wish to hasten its Coming and their Response Allah told us about the idolators who reject faith through their demand that the punishment be hastened, inquiring about the time of punishment.
 
 ## Tafsir Ibn Kathir
 

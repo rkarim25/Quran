@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if Allah were to punish (all) mankind for their wrongdoing, He would not leave on it (the earth) a single moving creature, but He defers them to an appointed term; and when their term comes, they can neither delay nor advance it an hour (or a moment)(61)They assign to Allah that which they dislike (for themselves), and their tongues assert the lie that the better things will be theirs.
+No doubt the Fire is for them, and they will be forsaken .
 
 ## Tafsir Ibn Kathir
 

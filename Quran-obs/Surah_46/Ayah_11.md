@@ -92,7 +92,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Tell me! لَوْ كَانَ خَيْرً‌ا مَّا سَبَقُونَا إِلَيْهِ (Had it [ Islamic faith ] been a good thing, these [ weak and poor ] people would not have preceded us [ in proceeding ] towards it._ 46:11) Arrogance and pride pervert the human intellect also.
+She used to be beaten up and threatened by him, so that she might give up Islam somehow or the other, and the kuffar of Quraish used to say that had Islamic faith been a good thing, such a worthless woman as Zunairah would not have preceded us in embracing it.
 
 ## Tafsir Ibn Kathir
 

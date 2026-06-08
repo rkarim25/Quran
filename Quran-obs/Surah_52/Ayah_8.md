@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat At-Tur Malik narrated that Jubayr bin Mut'im said, "I heard the Prophet ﷺ reciting Surat At-Tur while praying Maghrib. إِنَّ عَذَابَ رَ‌بِّكَ لَوَاقِعٌ مَّا لَهُ مِن دَافِعٍ (the punishment of your Lord is sure to fall.
+There is nothing to push it back,....52:7-8) Verses 1-6 constituted swearing of an oath, and the present verse is jawab-ul-qasam or the fact for which the oath is sworn, assuring that the torment of Allah will come to pass, and none will be able to avert it.
 
 ## Tafsir Ibn Kathir
 

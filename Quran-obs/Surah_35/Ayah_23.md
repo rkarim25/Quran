@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Not alike are the blind and the seeing (19)Nor are (depths of) darkness and light (20)Nor are the shade and the sun's heat (21)Nor are the living and the dead. At the beginning of the verse: وَمَا أَنتَ بِمُسْمِعٍ مَّن فِي الْقُبُورِ‌ (And you cannot make hear those who are in the graves - 22.), disbelievers have been likened to the dead and believers, to the living.
+This proves that the negation of making the ( dead hear referred to in this verse means a particular listening that is beneficial, something because of which the listener forsakes the false and takes to the true. And there never was a nation but a warner had passed among them (24)And if they deny you, those before them also denied.
 
 ## Tafsir Ibn Kathir
 

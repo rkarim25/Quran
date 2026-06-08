@@ -50,7 +50,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, it is We Who have sent down the Qur'an to you by stages (23)Therefore be patient with constancy to the command of your Lord, and obey neither a sinner nor a disbeliever among them (24)And remember the Name of you… اِنَّ هٰذَا كَانَ لَكُمْ جَزَاۗءً وَّكَانَ سَعْيُكُمْ مَّشْكُوْرًا ([ It will be said to them,] This is a reward for you, and your effort has been appreciated....76:22).
+Whoever He guides, there is no one who can lead him astray; and whoever He leads astray, there is no one who can guide him.
 
 ## Tafsir Ibn Kathir
 

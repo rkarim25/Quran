@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Introduction to Surat Ar-Rahman Imam Ahmad recorded that Zirr said that a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! أَلَّا تَطْغَوْا فِي الْمِيزَانِ (so that you should not be wrongful in weighing....55:8).
+And the heaven He has raised high, and He has set up the balance.)(8. The earlier verse stated the creation of the scale, and this verse states the reason for its creation.
 
 ## Tafsir Ibn Kathir
 

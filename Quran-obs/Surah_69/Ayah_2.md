@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. This Surah is almost wholly devoted to the subject of inevitability of the Resurrection, its horrors, the punishment of unbelievers and the reward of believers.
+And what will make you know what Al-Haqqah is?)(4.
 
 ## Tafsir Ibn Kathir
 

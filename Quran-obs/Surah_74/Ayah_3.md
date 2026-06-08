@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَرَبَّكَ فَكَبِّرْ (..and pronounce the greatness of your Lord...74:3) It means: "Proclaim the greatness of your Lord both orally and practically.
+And your Lord is the Most Generous.
 
 ## Tafsir Ibn Kathir
 

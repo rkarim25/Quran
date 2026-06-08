@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O Hud! After that, the next eight verses (61-68) carry the story of Sayyidna Salih peace be upon him.
+And we are not believers in you (53)All that we say is that some of our gods (false deities) have seized you with evil (madness).
 
 ## Tafsir Ibn Kathir
 

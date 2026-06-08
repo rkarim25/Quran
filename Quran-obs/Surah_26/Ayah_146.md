@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Will you be left secure in that which you have here? Explanation of some difficult words Do you erect on every height a sign having no sound purpose, [ 128] and take the objects of architecture as if you are going to live forever, (26:128-129)
+There is no contradiction between the two views, because they built the houses which they carved in the mountains as a form of extravagant play, with no need for them as dwelling places.
 
 ## Tafsir Ibn Kathir
 

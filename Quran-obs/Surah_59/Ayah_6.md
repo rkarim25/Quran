@@ -111,7 +111,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And what Allah gave as booty (Fai') to His Messenger from them – for this you made no expedition with either cavalry or camelry. [ 1] fai' is a term for the properties left over by the non-Muslims and possessed by a Muslim state without fighting.
+The Fai' and how it is spent Allah the Exalted explains the regulations for Fai', the booty that the Muslims acquire from the disbelievers, without fighting them or using cavalry and camelry in war against them. For instance, the booty collected from Bani An-Nadir was not acquired because of fighting them using horses and camels.
 
 ## Tafsir Ibn Kathir
 

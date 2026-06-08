@@ -124,7 +124,7 @@ Mujahid and several others said, "This Ayah was revealed concerning the battle o
 
 ## Tafsir Summary
 
-Allah has forgiven the Prophet, the Muhajirin and the Ansar who followed him in the time of distress (Tabuk expedition), after the hearts of a party of them had nearly deviated (from the right path), but He accepted their repentance. In the comments on verse 102: وَآخَرُ‌ونَ اعْتَرَ‌فُوا (And there are those who admitted...), it was said that following the general call of Jihad at Tabuk which required all Muslims to join in, the people of Madinah had split into five groups.
+Certainly, He is unto them full of kindness, Most Merciful .
 
 ## Tafsir Ibn Kathir
 

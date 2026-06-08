@@ -217,7 +217,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah! The merits of Ayat-al Kursi This is the greatest verse of the noble Qur'an.
+This is Ayat Al-Kursi and tremendous virtues have been associated with it, for the authentic Hadith describes it as 'the greatest Ayah in the Book of Allah.'
 
 ## Tafsir Ibn Kathir
 

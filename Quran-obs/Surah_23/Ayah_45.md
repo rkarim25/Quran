@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then We sent Musa and his brother Harun, with Our Ayat and manifest authority (45)To Fir'awn and his chiefs, but they behaved insolently and they were people self-exalting (by disobeying their Lord)(46)They said: "Shall we believe in two men like ourselves, and their people are obedient to us with humility! وَآوَيْنَاهُمَا إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ (and We gave them shelter on a height, a place of rest and running springs).
+Musa, Peace Be upon Him, And Fir'awn Allah tells us that He sent Musa, peace be upon him, and his brother Harun to Fir'awn and his chiefs with decisive evidence and definitive proof, but Fir'awn and his people were too arrogant to follow them and obey their commands because they were human beings, just as previous nations had denied the Message of the human Messengers.
 
 ## Tafsir Ibn Kathir
 

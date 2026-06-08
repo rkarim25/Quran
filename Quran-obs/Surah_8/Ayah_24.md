@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! In the fifth verse (24), believers have been addressed once again.
+Commanded to obey Allah and His Messenger in a particular manner, they have been told that the thing to which Allah and His Messenger invite you is something which brings no benefit to Allah and His Messenger per se.
 
 ## Tafsir Ibn Kathir
 

@@ -50,7 +50,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. قُلْ أَرَ‌أَيْتُم مَّا تَدْعُونَ مِن دُونِ اللَّـهِ (Say, "Tell me about those whom you invoke instead of Allah,...46:4) In these verses, the claim of the polytheists about the existence of some other gods has been refuted by demanding a proof to substantiate this claim, because no claim can be accepted, neither rationally nor according to the religious principles, unless it is proved by concrete evidences to support it.
+And when mankind are gathered, they (false deities) will become their enemies and will deny their worship.) The Qur'an is a Revelation from Allah and the Universe is His True Creation Allah informs that He has revealed the Book to His servant and Messenger Muhammad – may Allah's blessings be upon him until the Day of Judgement.
 
 ## Tafsir Ibn Kathir
 

@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Thus it is, and whosoever honors the Sha'a'ir of Allah, then it is truly from the Taqwa of the hearts (32)In them are benefits for you for an appointed term, and afterwards they are brought for sacrifice to the 'Atiq Hou… وَمَن يُعَظِّمْ شَعَائِرَ‌ اللَّـهِ (And if one observes the sanctity of the symbols of Allah - 22:32) The word شَعَائِرَ‌ is the plural of شَعِیرہ which means a ` symbol', ` a distinctive sign', and refers to those things which are considered as the specific emblems of certain groups of people or certain faiths.
+When the heart is equipped with this quality, it is reflected in all his actions.
 
 ## Tafsir Ibn Kathir
 

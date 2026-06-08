@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have they not looked at the heaven above them, how We have made it and adorned it, and there are no Furuj in it (6)And the earth! After mentioning the confused state of the infidels, Allah draws man's attention to His infinite power which He demonstrated by creating what is bigger than that which they wondered about and whose possibility they discounted.
+We have spread it out, and set thereon Rawasi standing firm, and We planted in it every lovely (Bahij) pair (7)An insight and a Reminder for every servant who turns to Allah in repentance (8)And We send down blessed water (rain) from the sky, then We produce therewith Jannat and grain that are reaped (9)And date palms Basiqat, with arranged clusters (10)A provision for the servants.
 
 ## Tafsir Ibn Kathir
 

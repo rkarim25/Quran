@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Whose is the earth and whosoever is therein? وَهُوَ يُجِيرُ‌ وَلَا يُجَارُ‌ عَلَيْهِ (And who gives protection and no protection can be given against him - 23:88) The meaning of the verse is that Allah alone can deliver a person from pain and suffering as He wills, but there is none who can save a person from divine punishment.
+And He protects, while against Whom there is no protector, if you know?
 
 ## Tafsir Ibn Kathir
 

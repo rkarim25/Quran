@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-..And remember Our slave Dawud, endued with Al-Ayd. It was said in verse 17 وَاذْكُرْ‌ عَبْدَنَا دَاوُودَ ذَا الْأَيْد (and remember Our servant, Dawud, the man of might).
+Mujahid and As-Suddi said, "It means passing the right judgement and understanding the case." Mujahid also said, "It is soundness in speech and in judgement, and this includes all of the above." This is what is meant, and this is the view favored by Ibn Jarir.
 
 ## Tafsir Ibn Kathir
 

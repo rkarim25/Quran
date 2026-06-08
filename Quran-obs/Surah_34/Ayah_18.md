@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We placed, between them and the towns which We had blessed, towns easy to be seen, and We made the stages (of journey) between them easy (saying): "Travel in them safely both by night and day. In verse 18, it was said: وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ الْقُرَ‌ى الَّتِي بَارَ‌كْنَا فِيهَا قُرً‌ى ظَاهِرَ‌ةً وَقَدَّرْ‌نَا فِيهَا السَّيْرَ‌ سِيرُ‌وا (And We had made towns to be seen between them and between the towns in which We had placed Our blessings, and had measured the journey between them: "Travel along them at nights and days peacefully.
+The Trade of Saba' and Their Destruction Allah tells us about the blessings which the people of Saba' enjoyed, and the luxuries and plentiful provision which was theirs in their land, with its secure dwellings and towns which were joined to one another, with many trees, crops and fruits. In the last sentence of verse 18: (Travel along them at nights and days peacefully.), mention has been made of a third blessing bestowed on the people of Saba'.
 
 ## Tafsir Ibn Kathir
 

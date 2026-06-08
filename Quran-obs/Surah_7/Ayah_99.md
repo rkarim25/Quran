@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if the people of the towns had believed and had Taqwa, certainly, We should have opened for them blessings from the heaven and the earth, but they belied (the Messengers). The Arabic word بَرَکَہ :'barakah' used in this verse and translated as blessing signifies increase or growth.
+None feels secure from Allah's plan except the people who are the losers . Or, did the people of the towns then feel secure against the coming of Our punishment in the forenoon while they were playing?) while they are busy in their affairs and unaware.
 
 ## Tafsir Ibn Kathir
 

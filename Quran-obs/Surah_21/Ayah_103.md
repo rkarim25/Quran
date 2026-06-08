@@ -58,7 +58,7 @@ It was revealed about the mention of 'Isa, 'Uzayr and rabbis and monks who were 
 
 ## Tafsir Summary
 
-Certainly you and that which you are worshipping now besides Allah, are (but) fuel (Hasab) for Hell! لَا يَحْزُنُهُمُ الْفَزَعُ الْأَكْبَرُ‌ (They will not be grieved by the Biggest Panic - 21:103).
+And if it were Our will, We would have made angels to replace you on the earth. Zafir refers to their exhalation, and Shahiq refers to their inhalation.
 
 ## Tafsir Ibn Kathir
 

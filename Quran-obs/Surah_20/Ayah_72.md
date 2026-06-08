@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Fir'awn) said: "Believe you in him before I give you permission? قَالُوا لَن نُّؤْثِرَ‌كَ عَلَىٰ مَا جَاءَنَا مِنَ الْبَيِّنَاتِ وَالَّذِي فَطَرَ‌نَا (They said, "We will never prefer you over the clear signs that have come to us, and over Him who created us." - 20:72).
+They told him plainly that they would not give him, nor anything he said, preference over the clear proofs and the miracles which Allah had shown to them.
 
 ## Tafsir Ibn Kathir
 

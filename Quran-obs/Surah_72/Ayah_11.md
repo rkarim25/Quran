@@ -48,7 +48,7 @@ Al-'Awfi reported similar to this from Ibn 'Abbas, and likewise said Mujahid, Sa
 
 ## Tafsir Summary
 
-'There are among us some that are righteous, and some the contrary; we are groups having different ways. وَأَنَّا لَا نَدْرِ‌ي أَشَرٌّ‌ أُرِ‌يدَ بِمَن فِي الْأَرْ‌ضِ أَمْ أَرَ‌ادَ بِهِمْ رَ‌بُّهُمْ رَ‌شَدًا (and that we do not know whether it is a bad end that is intended for those on earth, or their Lord has intended for them a right thing,....72:10).
+'There are among us some that are righteous, and some the contrary; we are groups having different ways.
 
 ## Tafsir Ibn Kathir
 

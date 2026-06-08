@@ -112,7 +112,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-If Allah brings you back to a party of them (the hypocrites), and they ask your permission to go out (to fight), say: "Never shall you go out with me nor fight an enemy with me; you were pleased to sit (inactive) on the first occasion, then you sit (now) with those who lag behind. The statement: لَّن تَخْرُ‌جُوا (Ian takhruju ...
+Therefore, the Holy Prophet ﷺ was commanded that, even if they want to take part in a Jihad, he should tell them the truth that he does not trust their word and deed. So, they would neither go for Jihad nor fight an enemy of Islam in his company.' Most of the commentators have said that this injunction has been enforced as their punishment in the present world, that is, even if they themselves were to make a request that they be allowed to take part in Jihad, even then, they…
 
 ## Tafsir Ibn Kathir
 

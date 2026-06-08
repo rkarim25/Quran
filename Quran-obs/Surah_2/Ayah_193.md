@@ -75,7 +75,7 @@ Abu Al-'Aliyah said, "This was the first Ayah about fighting that was revealed i
 
 ## Tafsir Summary
 
-And fight in the way of Allah those who fight you, but transgress not the limits. 1.
+Verily aggression can only be started against the unjust.' This is the meaning of Mujahid's statement that only combatants should be fought.
 
 ## Tafsir Ibn Kathir
 

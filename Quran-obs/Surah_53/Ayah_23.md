@@ -111,7 +111,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you then considered Al-Lat, and Al-'Uzza (19)And Manat, the other third (20)Is it for you the males and for Him the females (21)That indeed is a division most unfair (22)They are but names which you have named - you and your fathers - for which Allah has sent down no authority. إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا (and conjecture is of no use in [ the matter on Truth....
+They follow but a guess and that which they themselves desire, whereas there has surely come to them the guidance from their Lord (23)Or shall man have what he wishes (24)But to Allah belongs the last (Hereafter) and the first (the world)(25)And there are many angels in the heavens, whose intercession will avail nothing, except after Allah has given leave for whom He wills and is pleased with . Whatever He wills, occurs and whatever He does not will, never occurs.
 
 ## Tafsir Ibn Kathir
 

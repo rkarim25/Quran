@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The hypocrites, men and women, are one from another; they enjoin evil, and forbid the good, and they close their hands. The first verse begins with a profile of the hypocrites.
+Verily, the hypocrites are the rebellious (67)Allah has promised the hypocrites – men and women – and the disbelievers, the fire of Hell; therein shall they abide.
 
 ## Tafsir Ibn Kathir
 

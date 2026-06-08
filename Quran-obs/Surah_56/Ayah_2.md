@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Waqi'ah Abu Ishaq reported from 'Ikrimah from Ibn 'Abbas that Abu Bakr said, "O Allah's Messenger! لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ (...there will be no one to deny its occurrence...56:2).
+Some authorities have taken the word kadhibah in the sense of takdhib [ to deny ] and the meaning, in that case, is clear that 'no one can deny the fact that it will come to pass'.
 
 ## Tafsir Ibn Kathir
 

@@ -67,7 +67,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. It seems necessary to know a few facts before the start of the study of the Surah, which are as follows: Before the advent of the Holy Prophet ﷺ the devils used to go up to the heavens and eavesdrop on the conversations of the angels.
+Reality of Jinn Jinn is one of the Divine creatures.
 
 ## Tafsir Ibn Kathir
 

@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And on the Day when We shall gather them all together, We shall say to those who joined partners in worship (with Us): "Where are your partners (false deities) whom you used to assert (as partners in worship with Allah)? Mentioned in the previous verse (21) was that the unjust and the deniers of truth will not receive salvation.
+Therefore, this day will seem to be that of fifty thousand years for some and that of one thousand years for others.
 
 ## Tafsir Ibn Kathir
 

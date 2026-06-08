@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Verily, those who believe and do righteous deeds, shall have the Gardens of Al-Firdaws for their entertainment. The purpose of the last sentence: لَا يَبْغُونَ عَنْهَا حِوَلًا (and will not wish to move from there - 108) is to tell that this station of Jannah is a never-ending, ever-lasting blessing for them.
+Now, if they were not allowed to go elsewhere out of Jannah, they might start feeling the pinch of a sort of restriction.
 
 ## Tafsir Ibn Kathir
 

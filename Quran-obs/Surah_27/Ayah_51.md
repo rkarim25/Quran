@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And there were in the city nine Rahtin, who made mischief in the land, and would not reform (48)They said: "Swear one to another by Allah that we shall make a secret night attack on him and his household, and thereafter we will surely say to his near relatives: 'We witnessed not the destruction of his household, and verily, we are telling the truth.' (49)So, they plotted a plot, and We planned a plan, while they perceived not (50)Then see how was the end of their plot! We shall attack him (Salih علیہ السلام) and his family at night, then will say to his heir, We did not witness the destruction of his family and we are really truthful - 27:49.
+The plan was that all of them together should attack him and his companions in the darkness of night, and kill them all. Verily, We destroyed them and their nation all together (51)These are their houses in utter ruin, for they did wrong.
 
 ## Tafsir Ibn Kathir
 

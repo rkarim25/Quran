@@ -64,7 +64,7 @@ The previous verses had mentioned how obstinate people failed to benefit from cl
 
 ## Tafsir Summary
 
-And they swear their strongest oaths by Allah, that if there came to them a sign, they would surely believe therein. The previous verses had mentioned how obstinate people failed to benefit from clear signs of Allah and open miracles of His Messenger and kept on denying the message of truth.
+Therefore, in this recitation, the Ayah means, the idolators will still not believe if the sign that they asked for came. It was also said that 'you' in, 'what will make you preceive', refers to the believers, meaning, what will make you preceive, O believers, that the idolators will still not believe if the signs come.
 
 ## Tafsir Ibn Kathir
 

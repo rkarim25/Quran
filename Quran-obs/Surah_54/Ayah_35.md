@@ -38,7 +38,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The people of Lut denied the warnings (33)Verily, We sent against them Hasib (a violent storm of stones), except the family of Lut, them We saved in the last hour of the night (34)As a favor from Us. The word سُعُر su'ur has appeared twice in this Surah.
+Thus do We reward him who gives thanks (35)And he indeed had warned them of Our punishment, but they doubted the warnings (36)And they indeed sought to shame his guests.
 
 ## Tafsir Ibn Kathir
 

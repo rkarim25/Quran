@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And among His Ayat is the creation of the heavens and the earth, and whatever moving creatures He has dispersed in them both. وَمَا بَثَّ فِيهِمَا مِن (and the creatures He has spread in them - 29).
+And among His Ayat is the creation of the heavens and the earth, and whatever moving creatures He has dispersed in them both.
 
 ## Tafsir Ibn Kathir
 

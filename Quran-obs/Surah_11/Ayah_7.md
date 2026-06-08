@@ -136,7 +136,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And He it is Who has created the heavens and the earth in six Days and His Throne was over the water, that He might try you, which of you is the best in deeds. Another manifestation of the all-encompassing knowledge and perfect power of Allah Ta` ala has been mentioned in the second verse (7) - ` And He is the One who created the heavens and the earth in six days and (before creating these) His throne was on water.' This tells us that water was created before the creation of the heavens and the earth.
+Day is the measure of time which, after the creation of the heavens and the earth, is from sunrise to sunset - although, at the time of the creation of the heavens and the earth, neither did the sun exist nor its rising and setting.
 
 ## Tafsir Ibn Kathir
 

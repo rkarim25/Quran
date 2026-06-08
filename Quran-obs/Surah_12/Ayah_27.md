@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So they raced with one another to the door, and she tore his shirt from the back. Sayyidna Yusuf (علیہ السلام) ، because of his prophetic gentleness, may not have, perhaps, disclosed her secret.
+So they raced with one another to the door, and she tore his shirt from the back. She caught up with him and held on to his shirt from the back, tearing it so terribly that it fell off Yusuf's back.
 
 ## Tafsir Ibn Kathir
 

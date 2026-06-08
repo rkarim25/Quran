@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Allah) said: "(O Iblis) get down from this (Paradise), it is not for you to be arrogant here. The event relating to Sayyidna 'Adam (علیہ السلام) and the Shaytan has appeared earlier in Section four of Surah Al-Baqarah (Ma` ariful-Qur'an, English Translation, under verse 34).
+` Ulama say that this was a somber and highly cutting manifestation of the Divine wrath that, because of the rejection of Iblis, his view was so obstructed (hijab) that he became blind to the grandeur and awe of Allah Ta` ala and irreverence came down to settle on him all over. Therefore, the probability of his leading people astray from above and beneath the feet does not contradict it.
 
 ## Tafsir Ibn Kathir
 

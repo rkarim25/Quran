@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Reciting Surat Al-A'la and Al-Ghashiyah in the Friday Prayer It has already been mentioned on the authority of An-Nu'man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A'la (87) and Al-Ghashiyah in the 'Id and Friday prayers. نَارًا حَامِيَةً (...[ the ] scorching fire...88:4).
+They will be given to drink from a boiling (Aniyah) spring,)(6.
 
 ## Tafsir Ibn Kathir
 

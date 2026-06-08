@@ -80,7 +80,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Allah belongs the Unseen of the heavens and the earth. The Divine statement: لَا تَعْلَمُونَ شَيْئًا (when you knew nothing - 78) indicates that knowledge is not an ingrained personal excellence of man.
+Say: "It is He Who has created you on the earth, and to Him shall you be gathered (in the Hereafter).")(67:23-24) In the Subjection of the Birds in the Sky there is a Sign Then Allah tells His servants to look at the birds held (flying) in the sky, between heaven and earth, and how He has caused them to fly with their wings in the sky.
 
 ## Tafsir Ibn Kathir
 

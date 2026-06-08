@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "It is the same to us whether you preach or be not of those who preach. Explanation of some difficult words Do you erect on every height a sign having no sound purpose, [ 128] and take the objects of architecture as if you are going to live forever, (26:128-129)
+Verily, in this is indeed a sign, yet most of them are not believers (139)And verily your Lord, He is indeed the Almighty, the Most Merciful .
 
 ## Tafsir Ibn Kathir
 

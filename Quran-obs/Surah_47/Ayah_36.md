@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This worldly life is only amusement and diversion. إِنَّمَا الْحَيَاةُ الدُّنْيَا (The worldly life is but play and pastime - 47:36.) As Muslims have been enjoined to fight in the cause of Allah, they will, for this purpose, have to make sacrifices of life and money.
+This worldly life is only amusement and diversion.
 
 ## Tafsir Ibn Kathir
 

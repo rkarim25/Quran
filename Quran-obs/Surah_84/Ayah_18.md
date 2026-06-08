@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But no! فَلَا أُقْسِمُ بِالشَّفَقِ وَاللَّيْلِ وَمَا وَسَقَ وَالْقَمَرِ إِذَا اتَّسَقَ (So, I swear by the twilight [ after sunset ], and by the night and what it envelops, and by the moon when it develops at the full...84:16-18…
+I swear by Ash-Shafaq (16)And the night and what it Wasaqa (17)And the moon when it Ittasaq (18)You shall certainly travel from stage to stage (19)What is the matter with them, that they believe not (20)And when the Qur'an is recited to them, they fall not prostrate (21)Nay, those who disbelieve deny (22)And Allah knows best what they gather (23)So, announce to them a painful torment (24)Save those who believe and do righteous good deeds, for them is a reward that will never…
 
 ## Tafsir Ibn Kathir
 

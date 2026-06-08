@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then when 'Isa came to know of their disbelief, he said: "Who will be my helpers in Allah's cause?" Al-Hawariyyun said: "We are the helpers of Allah; we believe in Allah, and bear witness that we are Muslims. In these verses the miraculous event of the Ascension of Sayyidna ` Isa (علیہ السلام) (Jesus Christ) has been mentioned.
+And Allah is the Best of those who plot .
 
 ## Tafsir Ibn Kathir
 

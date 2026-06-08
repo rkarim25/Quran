@@ -111,7 +111,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And on the Day when We resurrect a witness from each nation from among themselves, and We bring you (O Muhammad) as a witness against these. In verse 89, by saying: وَنَزَّلْنَا عَلَيْكَ الْكِتَابَ تِبْيَانًا لِّكُلِّ شَيْءٍ the Qur'an has been credited as the exposition of everything.
+And We have revealed the Book (the Qur'an) to you as an explanation of everything, a guidance, a mercy, and good news for the Muslims .
 
 ## Tafsir Ibn Kathir
 

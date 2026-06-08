@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And give to the kinsman his due, and to the Miskin (poor), and to the wayfarer. On fulfilling the rights of relatives vigilantly Previous verses were devoted to teachings about the rights of parents and how they should be duly respected.
+And give to the kinsman his due, and to the Miskin (poor), and to the wayfarer. If there are several relatives in the same degree of extended means, the expenses will be divided over all of them and the subsistence allowance of the needy will be given in this manner.
 
 ## Tafsir Ibn Kathir
 

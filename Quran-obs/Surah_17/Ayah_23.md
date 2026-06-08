@@ -110,7 +110,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And your Lord has Qada [decreed] that you worship none but Him. It is very important to respect and obey parents Imam al-Qurtubi says that, in this verse (23), Allah Ta` ala has made it necessary (wajib) to respect and treat parents well by combining it with the command to worship Him.
+This proves that, after the obligation of worshipping the most exalted Allah, obeying parents is most important and being grateful to parents like being grateful to Allah Ta’ ala is wajib (necessary).
 
 ## Tafsir Ibn Kathir
 

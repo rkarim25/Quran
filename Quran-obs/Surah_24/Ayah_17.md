@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And why did you not, when you heard it, say: "It is not right for us to speak of this. And why, when you heard of it, did you not say, It is not for us to speak about this.
+Further Discipline This is further discipline, in addition to the command to think well of people, i.e., if something unbefitting is mentioned about good people, then one should think well of them, and not feel towards them anything but good.
 
 ## Tafsir Ibn Kathir
 

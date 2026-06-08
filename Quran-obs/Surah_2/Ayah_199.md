@@ -60,7 +60,7 @@ The third verse (199): ثُمَّ أَفِيضُوا مِنْ حَيْثُ أَ�
 
 ## Tafsir Summary
 
-Then depart from the place whence all the people depart and ask Allah for His forgiveness. The third verse (199): ثُمَّ أَفِيضُوا مِنْ حَيْثُ أَفَاضَ النَّاسُ وَاسْتَغْفِرُ‌وا اللَّـهَ ۚ إِنَّ اللَّـهَ غَفُورٌ‌ رَّ‌حِيمٌ,(Then, flow down from where the people flowed, and seek forgiveness from Allah.
+Muslim reported that Allah's Messenger ﷺ used to ask Allah for His forgiveness thrice after the prayer is finished.
 
 ## Tafsir Ibn Kathir
 

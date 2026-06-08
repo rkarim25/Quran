@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Faces that Day will be joyful (8)Glad with their endeavor (9)In a lofty Paradise (10)Where they shall neither hear harmful speech nor falsehood (11)Therein will be a running spring (12)Therein will be thrones raised high… لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ (that will neither nourish, nor satisfy hunger...88:7).
+Faces that Day will be joyful (8)Glad with their endeavor (9)In a lofty Paradise (10)Where they shall neither hear harmful speech nor falsehood (11)Therein will be a running spring (12)Therein will be thrones raised high (13)And cups set at hand (14)And Namariq, set in rows (15)And Zarabi, spread out (Mabthuthah).
 
 ## Tafsir Ibn Kathir
 

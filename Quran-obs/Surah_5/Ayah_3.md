@@ -271,7 +271,7 @@ Umar replied, 'By Allah! I know when and where this verse was revealed to Allah'
 
 ## Tafsir Summary
 
-Forbidden to you (for food) are: Al-Maytah (the dead animals), blood, the flesh of swine, and that which has been slaughtered as a sacrifice for other than Allah, and that which has been killed by strangling, or by a violent blow, or by a headlong fall, or by the goring of horns ـand that which has been (partly) eaten by a wild animal ـunless you are able to slaughter it (before its death) - and that which is sacrificed (slaughtered) on An-Nusub (stone altars). This is the third verse of Surah al-Ma'idah where a number of fun damental and subsidiary injunctions and rulings have been described.
+this is what the Arabs mean by Lahm or 'flesh'.
 
 ## Tafsir Ibn Kathir
 

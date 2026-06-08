@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then it occurred to them, after they had seen the proofs (of his innocence), to imprison him for a time (35) Yusuf is imprisoned without Justification Later on, even after having seen the signs, they [ the ` Aziz of Misr and his advisers ] deemed it proper [ or expedient ] to imprison him for a time.
+Then it occurred to them, after they had seen the proofs (of his innocence), to imprison him for a time . Yusuf is imprisoned without Justification Allah says, 'Then it occurred to them that it would be in their interest to imprison Yusuf for a time, even after they were convinced of his innocence and saw the proofs of his truth, honesty and chastity.' It appears, and Allah knows best, that they imprisoned him after the news of what happened spread.
 
 ## Tafsir Ibn Kathir
 

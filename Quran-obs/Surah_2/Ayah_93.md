@@ -121,7 +121,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when We took your covenant and We raised above you the Mount (saying), "Hold firmly to what We have given you and hear (Our Word)." They said, "We have heard and disobeyed." And their hearts absorbed (the worship of) the calf because of their disbelief. In refuting the claim of the Jews to be authentic and true already referred to in Verse 63.
+And (remember) when We took your covenant and We raised above you the Mount (saying), "Hold firmly to what We have given you and hear (Our Word)." They said, "We have heard and disobeyed." And their hearts absorbed (the worship of) the calf because of their disbelief.
 
 ## Tafsir Ibn Kathir
 

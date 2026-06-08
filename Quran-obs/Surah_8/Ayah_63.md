@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But if they incline to peace, you also incline to it, and trust in Allah. The first (63) of the four verses from Surah Al-Anfal cited above describes the cause of Muslim victory and the method through which it was achieved.
+If you had spent all that is in the earth, you could not have united their hearts, but Allah has united them.
 
 ## Tafsir Ibn Kathir
 

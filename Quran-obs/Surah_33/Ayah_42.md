@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! وَسَبِّحُوهُ بُكْرَ‌ةً وَأَصِيلًا ("And proclaim His purity at morn and eve".
+Remember Allah with much remembrance (41)And glorify His praises morning and Asila (42)He it is Who sends Salah on you, and His angels too, that He may bring you out from darkness into light.
 
 ## Tafsir Ibn Kathir
 

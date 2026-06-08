@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Behold! In the verses cited above, particular merits, definition and identity of the Auliya' of Allah have been mentioned.
+Also given there is good news for them in the present world as well as in the Hereafter.
 
 ## Tafsir Ibn Kathir
 

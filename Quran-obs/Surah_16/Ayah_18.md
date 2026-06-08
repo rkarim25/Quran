@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And He it is Who subjected the sea (to you), that you may eat from the fresh tender meat, and that you bring forth out of it ornaments to wear. Verses appearing immediately earlier described the many blessings of Allah Ta` ala in details, proved that He alone is their Creator and established that He is unique in this matter.
+Now, in the present verses, there comes an admonition against the failure of people to recognize that there is a fact behind the statement describing all these blessings - and that is Tauhid, the Oneness of Allah Ta’ ala, except whom there is none worthy of worship.
 
 ## Tafsir Ibn Kathir
 

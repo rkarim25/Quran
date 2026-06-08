@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And O my people! After having given this good counsel to them, he warned them of the punishment of Allah Ta` ala.
+And As-Sayhah (awful cry) seized the wrongdoers, and they lay (Jathimin) in their homes.) His saying Jathimin means extinct and lifeless without any movement.
 
 ## Tafsir Ibn Kathir
 

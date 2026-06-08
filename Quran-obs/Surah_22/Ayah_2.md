@@ -105,7 +105,7 @@ Commentators differ on whether this Surah is Makkan or Madani. Ibn ` Abbas ؓ ha
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Commentators differ on whether this Surah is Makkan or Madani.
+The Day you shall see it, every nursing mother will forget her nursling, and every pregnant one will drop her load, and you shall see mankind as in a drunken state, yet they will not be drunken, but Allah's torment is severe.) When his Companions heard that, they hastened to catch up with him, because they knew that he wanted to say something.
 
 ## Tafsir Ibn Kathir
 

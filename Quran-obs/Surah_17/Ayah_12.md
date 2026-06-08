@@ -104,7 +104,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We have appointed the night and the day as two Ayat (signs). In the verses cited above, first it was declared that the alternation of night and day was a sign of the most perfect power of Allah Ta` ala.
+It has, however, been mentioned in other verses that the darkness of the night is appropriate and conducive to sleep and rest.
 
 ## Tafsir Ibn Kathir
 

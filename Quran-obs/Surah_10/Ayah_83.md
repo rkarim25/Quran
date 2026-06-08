@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But none believed in Musa except the offspring of his people, because of the fear of Fir'awn and his chiefs, lest they should persecute them; and verily, Fir'awn was an arrogant tyrant on the earth, he was indeed one of… It was said in the last verse (64) that, for the friends of Allah, there is the good news in the worldly life and in the Hereafter.
+But none believed in Musa except the offspring of his people, because of the fear of Fir'awn and his chiefs, lest they should persecute them; and verily, Fir'awn was an arrogant tyrant on the earth, he was indeed one of the transgressors .
 
 ## Tafsir Ibn Kathir
 

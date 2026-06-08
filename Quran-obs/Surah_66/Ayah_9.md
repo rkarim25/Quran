@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Prophet! تُوبُوا إِلَى اللَّـهِ تَوْبَةً نَّصُوحًا (...turn to Allah with a faithful repentance...66:8).
+Strive hard against the disbelievers and the hypocrites, and be severe against them; their abode will be Hell, and worst indeed is that destination (9)Allah sets forth an example for those who disbelieve: the wife of Nuh and the wife of Lut.
 
 ## Tafsir Ibn Kathir
 

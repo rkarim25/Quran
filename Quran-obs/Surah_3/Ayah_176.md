@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(176. Previous verses mentioned the treachery and ill-will of the hypocrites.
+And let not the disbelievers think that Our postponing their punishment is good for them.
 
 ## Tafsir Ibn Kathir
 

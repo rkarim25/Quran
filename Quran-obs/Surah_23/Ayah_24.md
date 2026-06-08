@@ -116,7 +116,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We sent Nuh to his people, and he said: "O my people! In the last benefit, ships and boats are also included, because they are also used in transportation وَعَلَيْهَا وَعَلَى الْفُلْكِ تُحْمَلُونَ (And on them and on the boats you are transported - 23:22).
+Had Allah willed, He surely could have sent down angels.
 
 ## Tafsir Ibn Kathir
 

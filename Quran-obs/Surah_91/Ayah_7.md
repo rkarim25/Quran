@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Recitation of Surah Ash-Shams wa Duhaha in the 'Isha' Prayer The Hadith of Jabir which was recorded in the Two Sahihs has already been mentioned. وَنَفْسٍ وَمَا سَوَّاهَا (and by the soul, and the One who made it well,...91:7) If, in this phrase, the particle ma is taken to function as infinitival particle, it signifies 'by the human soul and its perfection'.
+Verily, I seek refuge with You from a heart that is not humble, a soul that is not satisfied, knowledge that does not benefit and a supplication that is not answered.) Zayd then said, "The Messenger of Allah ﷺ used to teach us these (words) and we now teach them to you." Muslim also recorded this Hadith.
 
 ## Tafsir Ibn Kathir
 

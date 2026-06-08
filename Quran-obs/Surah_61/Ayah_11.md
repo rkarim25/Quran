@@ -70,7 +70,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! تُؤْمِنُونَ بِاللَّـهِ وَرَ‌سُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّـهِ بِأَمْوَالِكُمْ وَأَنفُسِكُمْ ( ...you believe in Allah and His Messenger, and carry out jihad in His way with your riches and your lives....61:11) This verse refers to 'faith and jihad (struggle) in Allah's way with one's wealth and life' as a trade, because when man invests wealth in trade and works hard, he gains profit.
+Shall I guide you to a trade that will save you from a painful torment (10)That you believe in Allah and His Messenger, and that you strive hard and fight in the cause of Allah with your wealth and your lives, that will be better for you, if you but know (11)(If you do so) He will forgive you your sins, and admit you into Gardens under which rivers flow, and pleasant dwellings in 'Adn (Eternal) Paradise; that is indeed the great success (12)And also (He will give you) another…
 
 ## Tafsir Ibn Kathir
 

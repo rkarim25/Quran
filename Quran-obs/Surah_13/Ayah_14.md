@@ -119,7 +119,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-For Him is the Word of Truth. In the next verse (13), it was said: وَيُسَبِّحُ الرَّ‌عْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ مِنْ خِيفَتِهِ (And the thunder proclaims His purity with His praise, and [ so do ] the angels, out of His awe).
+And those whom they invoke besides Him, answer them no more than one who stretches forth his hand for water to reach his mouth, but it reaches him not; and the invocation of the disbelievers is nothing but misguidance .
 
 ## Tafsir Ibn Kathir
 

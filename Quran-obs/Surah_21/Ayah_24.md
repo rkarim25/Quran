@@ -105,7 +105,7 @@ Or have they taken for worship gods besides Him Say: "Bring your proof. This is 
 
 ## Tafsir Summary
 
-Or have they taken for worship gods besides Him Say: "Bring your proof. هَـٰذَا ذِكْرُ‌ مَن مَّعِيَ وَذِكْرُ‌ مَن قَبْلِي (Here is the Message for those with me and the Message for those before me.
+The idolators have no proof and their dispute is of no use before their Lord; on them is wrath, and for them will be a severe torment.
 
 ## Tafsir Ibn Kathir
 

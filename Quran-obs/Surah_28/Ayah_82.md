@@ -117,7 +117,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, We caused the earth to swallow him and his dwelling place. وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَيْلَكُمْ (And said those who were given knowledge - 28:80).
+Had it not been that Allah was Gracious to us, He could have caused the earth to swallow us up!
 
 ## Tafsir Ibn Kathir
 

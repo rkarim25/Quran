@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So be patient, verily, the promise of Allah is true and whether We show you some part of what We have promised them, or We cause you to die, then still it is to Us they all shall be returned (77)And, indeed We have sent Messengers before you, of some of them We have related to you their story. In verse 77, it was said: فَاصْبِرْ‌ إِنَّ وَعْدَ اللَّـهِ حَقٌّ فَإِمَّا نُرِ‌يَنَّكَ (Therefore, be patient.
+So be patient, verily, the promise of Allah is true and whether We show you some part of what We have promised them, or We cause you to die, then still it is to Us they all shall be returned (77)And, indeed We have sent Messengers before you, of some of them We have related to you their story.
 
 ## Tafsir Ibn Kathir
 

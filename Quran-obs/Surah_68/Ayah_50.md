@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, wait with patience for the decision of your Lord, and be not like the Companion of the Fish when he cried out (to Us) while he was Makzum (48)Had not a grace from his Lord reached him, he would indeed have been (left… 1-This is the literal translation of the Qur'anic phrase used here.
+Therefore, exposure of the shin has been taken as indicative of such a state. Given this interpretation, the verse means that on the day when the disbelievers will face the severe distress, they will be called upon to prostrate themselves, but they will not be able to do so, because their backs will be made flat, with no elasticity to bow down.
 
 ## Tafsir Ibn Kathir
 

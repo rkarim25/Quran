@@ -122,7 +122,7 @@ When Allah revealed the innocence of the Mother of the believers, 'A'ishah, and 
 
 ## Tafsir Summary
 
-And let not those among you who are blessed with graces and wealth swear not to give to their kinsmen, the poor, and those who left their homes for Allah's cause. And the men of grace and wealth among you should not swear against giving (their charitable gifts) to the kinsmen and the poor and to those who have migrated in the way of Allah.
+So, whereas on the one hand those who had slipped were granted Divine help to repent sincerely and reform themselves, on the other hand those who had sworn not to help any more the poor people, because of the natural grief and displeasure, were imparted wisdom of supreme ethics in this verse, that they should break their oath and expiate for it.
 
 ## Tafsir Ibn Kathir
 

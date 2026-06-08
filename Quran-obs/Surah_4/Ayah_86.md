@@ -72,7 +72,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then fight in the cause of Allah, you are not tasked (held responsible) except for yourself, and incite the believers (to fight along with you), it may be that Allah will restrain the evil might of the disbelievers. Salam and Islam : The Bliss of Muslim Greeting Allah Almighty tells us the etiquette of offering and returning greetings known as Salam among Muslims.
+And Allah is Ever All-Able to do everything (85)When you are greeted with a greeting, greet in return with what is better than it, or (at least) return it equally.
 
 ## Tafsir Ibn Kathir
 

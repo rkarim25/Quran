@@ -22,7 +22,7 @@ In Sahih Al-Bukhari, it is recorded in the Book of Ar-Riqaq (Narrations that sof
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. حَتَّىٰ زُرْ‌تُمُ الْمَقَابِرَ‌Verse [ 2] (until you reach the graves.) Here the words 'reaching the graves' mean 'to die and be buried in the graves', as the following Prophetic Hadith bears testimony to this interpretation.
+This delays you until death comes to you and you visit the graves, thus becoming its inhabitants.
 
 ## Tafsir Ibn Kathir
 

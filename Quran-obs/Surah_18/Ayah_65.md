@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Musa said to his boy-servant: "I will not give up until I reach the junction of the two seas or a Huqub passes. About al-Khadir (علیہ السلام) and the issue of his prophet-hood Though the name of the person concerned in this event has not been mentioned in the Qur'an - in fact, he has been called: عَبداً مِن عِبَادِنَا (a servant from among Our servants - 65) - but, in the Hadith of Sahih al-Bukhari, his name has been given as: اَلخِضر (al-Khadir).
+Al-Khidr said to Musa, "My knowledge and your knowledge, in comparison to Allah's knowledge, is like what this bird has taken out of the sea." Then they both disembarked from the boat, and while they were walking on the shore, Al-Khidr saw a boy playing with other boys.
 
 ## Tafsir Ibn Kathir
 

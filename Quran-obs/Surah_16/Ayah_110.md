@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, verily, your Lord for those who emigrated after they were put to trials and then performed Jihad, and were patient, - after this, your Lord is indeed Forgiving, Most Merciful (110)(Remember) the Day when every pers… Warnings of punishment against disbelief (kufr) - whether original or apostacy (irtidad) - appeared in previous verses.
+Then, verily, your Lord for those who emigrated after they were put to trials and then performed Jihad, and were patient, - after this, your Lord is indeed Forgiving, Most Merciful (110)(Remember) the Day when every person will come pleading for himself, and every one will be paid in full for what he did, and they will not be dealt with unjustly .
 
 ## Tafsir Ibn Kathir
 

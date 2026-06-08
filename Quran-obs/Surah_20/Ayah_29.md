@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And press your (right) hand to your (left) side: it will come forth white (and shining), without any disease as another sign, (22)"That We may show you (some) of Our greater signs. The fourth prayer was وَاجْعَل لِّي وَزِيرً‌ا مِّنْ أَهْلِي (and make for me an assistant from my own family - 20:29).
+The literal meaning of the word j is "one who carries a burden", and since a minister of a state carries the burden of responsibilities entrusted to him by the ruler, he is called a minister.
 
 ## Tafsir Ibn Kathir
 

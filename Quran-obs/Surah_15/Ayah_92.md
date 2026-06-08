@@ -24,7 +24,7 @@ Muhammad bin Ishaq reported from Ibn 'Abbas that Al-Walid bin Al-Mughirah - hold
 
 ## Tafsir Summary
 
-And say (O Muhammad): "I am indeed a plain warner. Surah Al-Fatihah is the Text and Summary of the Whole Qur'an That Surah Al-Fatihah (The Opening) has been called the Glorious Qur’ an in this verse (87) indicates that Surah Al-Fatihah is, in a way, the whole Qur’ an - b…
+In verse 92, swearing by His Own sacred Being, Allah Ta’ ala has declared that all such people who came earlier or later shall definitely be questioned.
 
 ## Tafsir Ibn Kathir
 

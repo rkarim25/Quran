@@ -224,7 +224,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those Messengers! 1.
+We preferred some of them to others; to some of them Allah spoke (directly); others He raised to degrees (of honor); and to 'Isa, the son of Maryam, We gave clear proofs and evidences, and supported him with Ruh-il-Qudus [Jibril].
 
 ## Tafsir Ibn Kathir
 

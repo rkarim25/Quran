@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Is that (Paradise) better entertainment or the tree of Zaqqum (62)Truly, We have made it (as) a trial for the wrongdoers (63)Verily, it is a tree that springs out of the bottom of Hell-fire (64)The shoots of its fruit st… In verse 63, it was said: إِنَّا جَعَلْنَاهَا فِتْنَةً لِّلظَّالِمِينَ (We have made it [ the tree of zaqqum ] a test ['fitnah'] for the unjust).
+Is that (Paradise) better entertainment or the tree of Zaqqum (62)Truly, We have made it (as) a trial for the wrongdoers (63)Verily, it is a tree that springs out of the bottom of Hell-fire (64)The shoots of its fruit stalks are like the heads of Shayatin (65)Truly, they will eat thereof and fill their bellies therewith (66)Then on the top of that they will be given boiling Hamim (67)Then thereafter, verily, their return is to the flaming fire of Hell (68)Verily, they found t…
 
 ## Tafsir Ibn Kathir
 

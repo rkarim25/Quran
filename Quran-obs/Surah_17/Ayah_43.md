@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "If there had been other gods along with Him as they assert, then they would certainly have sought out a way to the Lord of the Throne (42)Glorified and Exalted is He high above what they say (43) Allah says: 'Say,… According to the proof of Tauhid (the Oneness of Allah) given in the verse: إِذًا لَّابْتَغَوْا إِلَىٰ ذِي الْعَرْ‌شِ سَبِيلًا (then they would have found out a way to the Lord of the Throne - 42), Allah alone is the creator, owner and master of the entire universe.
+And, in the eventuality of a difference, the whole universal system would have gone to ruins - because, ever abiding peace among them is habitually impossible.
 
 ## Tafsir Ibn Kathir
 

@@ -133,7 +133,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They (the hypocrites) will present their excuses to you (Muslims), when you return to them. Mentioned in the previous verses were hypocrites who came up with false excuses at the time Jihad forces were getting ready to march out and succeeded in being allowed to stay behind.
+Surely, they are Rijs (impure), and Hell is their dwelling place – a recompense for that which they used to earn (95)They (the hypocrites) swear to you (Muslims) that you may be pleased with them, but if you are pleased with them, certainly Allah is not pleased with the people who are Fasiqin (rebellious).
 
 ## Tafsir Ibn Kathir
 

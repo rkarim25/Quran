@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So Fir'awn withdrew, devised his plot and then came back (60)Musa said to them: "Woe unto you! Said they, "Certainly, these two are sorcerers who wish to drive you out from your land and do away with your excellent way of life.
+Their object is to drive you out from your land with magic, and to take you away from your exemplary way. And surely, he who invents a lie (against Allah) will fail miserably.") (62 Then they debated one with another what they must do, and they kept their talk secret (61)They said: "Verily, these are two magicians.
 
 ## Tafsir Ibn Kathir
 

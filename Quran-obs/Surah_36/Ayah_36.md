@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And a sign for them is the dead land. سُبْحَانَ الَّذِي خَلَقَ الْأَزْوَاجَ كُلَّهَا مِمَّا تُنبِتُ الْأَرْ‌ضُ وَمِنْ أَنفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ (Pure is the One who has created all the pairs of whatever the earth grows, and of the humans themselves, and of that which they do not know.
+Will they not then give thanks (35)Glory be to Him Who has created all the pairs of that which the earth produces, as well as of their own kind, and of that which they know not .
 
 ## Tafsir Ibn Kathir
 

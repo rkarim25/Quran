@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-How can there be a covenant with Allah and with His Messenger for the Mushrikin except those with whom you made a covenant near Al-Masjid Al-Haram (at Makkah)? Uphold truth and commit no excess or injustice even against disbelievers is the teaching of Qur'an This statement of the Qur'an provides guidance for Muslims that they should never surrender truth and justice even when they are dealing with confronting enemies.
+Verily, Allah loves those who have Taqwa.) The Messenger of Allah ﷺ and the Muslims preserved the terms of the treaty with the people of Makkah from the month of Dhul-Qa'dah in the sixth year [of Hijrah], until the Quraysh broke it and helped their allies, Banu Bakr, against Khuza'ah, the allies of Allah's Messenger ﷺ.
 
 ## Tafsir Ibn Kathir
 

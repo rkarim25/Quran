@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Surely, those who disbelieved in Our Ayat, We shall burn them in Fire. Particular believers and disbelievers were mentioned in the previous verses.
+As often as their skins are roasted through, We shall change them for other skins that they may taste the punishment. The Punishment of Those Who Disbelieve in Allah's Books and Messengers Allah describes the torment in the Fire of Jahannam for those who disbelieve in His Ayat and hinder from the path of His Messengers.
 
 ## Tafsir Ibn Kathir
 

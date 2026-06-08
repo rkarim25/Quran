@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And recite to them the story of Ibrahim (69)When he said to his father and his people: "What do you worship? The reasoning for this he gave إِنَّ مَعِيَ رَ‌بِّي سَيَهْدِينِ (62) "Indeed with me is my Lord.
+Verily, my Lord is on the straight path)(11:54-56).
 
 ## Tafsir Ibn Kathir
 

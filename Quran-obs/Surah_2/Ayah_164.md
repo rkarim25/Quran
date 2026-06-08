@@ -187,7 +187,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, in the creation of the heavens and the earth, and in the alternation of night and day, and the ships which sail through the sea with that which is of use to mankind, and the water (rain) which Allah sends down fr… Now in Verse 164, there is a series of signs and proofs in support of the premise that Allah Almighty is really One.
+Verily, in the creation of the heavens and the earth, and in the alternation of night and day, and the ships which sail through the sea with that which is of use to mankind, and the water (rain) which Allah sends down from the sky and makes the earth alive therewith after its death, and the moving (living) creatures of all kinds that He has scattered therein, and in the veering of winds and clouds which are held between the sky and the earth, are indeed Ayat (proofs, evidence…
 
 ## Tafsir Ibn Kathir
 

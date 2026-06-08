@@ -116,7 +116,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Has not the story reached them of those before them? Let us now consider the statement: كَالَّذِينَ مِن قَبْلِكُمْ (You are) like those before you' in verse 69.
+– The people of Nuh,'Ad, Thamud, the people of Ibrahim, the dwellers of Madyan and the overturned cities; to them came their Messengers with clear proofs. Allah destroyed them all because they rejected Allah's Prophet Lut, peace be upon him, and because they committed the sin that none before them had committed (homosexuality).
 
 ## Tafsir Ibn Kathir
 

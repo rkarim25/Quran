@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We had firmly established them with that wherewith We have not established you! { 1} The reference here is to the towns of Thamud and the people of Sayyidna Lut (علیہ السلام) that were in the way of the people of Arabia while they travelled to Syria.
+Moreover, verse 28 points out that the false gods believed by them to be their patrons could not save them from the torment they faced, because they were coined only by their false imagination, having no real existence at all.
 
 ## Tafsir Ibn Kathir
 

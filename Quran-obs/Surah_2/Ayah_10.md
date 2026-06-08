@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In their hearts is a disease and Allah has increased their disease. The third verse indicates why the hypocrites behave so foolishly and why they fail to see the folly of their course: In their hearts there is a malady, so Allah has made them grow in their malady.
+In their hearts is a disease and Allah has increased their disease.
 
 ## Tafsir Ibn Kathir
 

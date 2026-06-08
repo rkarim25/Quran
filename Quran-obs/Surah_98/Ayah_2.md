@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Messenger of Allah (ﷺ) recited this Surah to Ubayy Imam Ahmad recorded from Anas bin Malik that the Messenger of Allah ﷺ said to Ubayy bin Ka'b, Verses [ 2-3] يَتْلُو صُحُفًا مُّطَهَّرَ‌ةً فِيهَا كُتُبٌ قَيِّمَةٌ (a messenger from Allah who recites the purified scrolls containing [ right and ] straight writings.
+However, not every reading or reciting is tilawah, but only the one that is very closely followed according to the teacher's instruction.
 
 ## Tafsir Ibn Kathir
 

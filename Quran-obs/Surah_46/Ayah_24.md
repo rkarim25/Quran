@@ -83,7 +83,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And remember the brother of 'Ad, when he warned his people in Al-Ahqaf. { 1} The reference here is to the towns of Thamud and the people of Sayyidna Lut (علیہ السلام) that were in the way of the people of Arabia while they travelled to Syria.
+On seeing the punishment approaching them, a nation once said: "This is a cloud bringing us rain.") This is also recorded by Al-Bukhari and Muslim.
 
 ## Tafsir Ibn Kathir
 

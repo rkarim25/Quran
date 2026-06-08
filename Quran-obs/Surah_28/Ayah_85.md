@@ -91,7 +91,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, He Who has given you the Qur'an, will surely bring you back to the return. إِنَّ الَّذِي فَرَ‌ضَ عَلَيْكَ الْقُرْ‌آنَ لَرَ‌ادُّكَ إِلَىٰ مَعَادٍ (Surely the One who has enjoined the Qur’ an upon you will surely bring you back to a place of return.
+He tells him that he will be brought back to the return, which is the Day of Resurrection, where he will be asked about the prophethood he was entrusted with.
 
 ## Tafsir Ibn Kathir
 

@@ -78,7 +78,7 @@ Similarly, Sayyidna ` Uthman ibn Maz` un ؓ says: 'At the initial stage, I had e
 
 ## Tafsir Summary
 
-Verily, Allah orders justice and kindness, and giving (help) to the relatives, and He forbids immoral sins, and evil and tyranny. This is the most comprehensive verse of the Holy Qur’ an where the essence of the entire range of Islamic teachings has been condensed into a few words.
+For instance, one sense of Al-'Adl or justice is that man should do justice between his Nafs (self) and his Rabb (Lord-God).
 
 ## Tafsir Ibn Kathir
 

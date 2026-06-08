@@ -75,7 +75,7 @@ Muhammad bin Ishaq and others, including Al-'Awfi who reported it from Ibn 'Abba
 
 ## Tafsir Summary
 
-Not all of them are alike; a party of the People of the Scripture stand for the right, they recite the verses of Allah during the hours of the night, prostrating themselves in prayer (113)They believe in Allah and the La… In verse 110, it was said that among the people of the Book there are those who believe, yet most of them are disbelievers.
+This Ayah means that those among the People of the Book whom Allah rebuked earlier are not at all the same as those among them who embraced Islam. Such is the case with the disbelievers, for Allah destroys the rewards for their good deeds in this life, just as He destroyed the produce of the sinner because of his sins.
 
 ## Tafsir Ibn Kathir
 

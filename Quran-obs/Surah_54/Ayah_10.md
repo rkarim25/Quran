@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The people of Nuh denied (their Messenger) before them. The Story of the People of Nuh (علیہ السلام) and the Lesson Learnt from it مَجْنُونٌ وَازْدُجِرَ‌ (and said, " (He is) a madman", and he was threatened...54:9).
+The word wazdujira literally denotes 'he was rebuked'. But the sky's gates were opened on them that day, and therefore, the water that came down was not from clouds.
 
 ## Tafsir Ibn Kathir
 

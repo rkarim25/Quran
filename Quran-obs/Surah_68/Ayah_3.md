@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(1. وَإِنَّ لَكَ لَأَجْرً‌ا غَيْرَ‌ مَمْنُونٍ (And you will definitely have a reward that will never end....68:3).
+And verily, for you will be reward that is not Mamnun.)(4.
 
 ## Tafsir Ibn Kathir
 

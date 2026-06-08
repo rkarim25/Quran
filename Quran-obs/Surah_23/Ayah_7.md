@@ -38,7 +38,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. فَمَنِ ابْتَغَىٰ وَرَ‌اءَ ذَٰلِكَ فَأُولَـٰئِكَ هُمُ الْعَادُونَ (However, those who seek (sexual pleasure) beyond that are the transgressors - 7).
+The apparent meaning is that the Zakah that was instituted in Al-Madinah is the one based upon the Nusub and the specific amounts, apart from which it seems that the basic principle of Zakah was enjoined in Makkah.
 
 ## Tafsir Ibn Kathir
 

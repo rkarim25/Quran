@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We did not send a warner to a township but those who were given the worldly wealth and luxuries among them said: "We believe not in what you have been sent with. The age-old shaitanic illusion of taking worldly riches and honours as a proof of being loved by Allah All along the lanes of time since the very beginning, people intoxicated with material wealth and luxury have always opposed the voice of truth and taken a stance of hostility against the prophets and the pious people, except those whom Allah willed otherwise.
+He tells him that no Prophet was ever sent to a township but those among its people who lived a life of luxury disbelieved in him, and the weaker people of the town followed him. Then, they transgress therein, and thus the Word (of torment) is justified against it (them).
 
 ## Tafsir Ibn Kathir
 

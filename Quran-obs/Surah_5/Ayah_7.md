@@ -90,7 +90,7 @@ Muhammad bin Ishaq bin Yasar, Mujahid and 'Ikrimah said that this Ayah was revea
 
 ## Tafsir Summary
 
-And remember Allah's favor to you and His covenant with which He bound you when you said: "We hear and we obey." And have Taqwa of Allah. Some injunctions of the Shariah concerning the conduct of worldly life, choices in marriage and food appeared in the previous verses.
+And remember Allah's favor to you and His covenant with which He bound you when you said: "We hear and we obey." And have Taqwa of Allah.
 
 ## Tafsir Ibn Kathir
 

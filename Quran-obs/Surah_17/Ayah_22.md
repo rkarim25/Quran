@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Set not up with Allah any other ilah (god), or you will sit down reproved, forsaken (in the Hellfire)(22) Do not associate Anything in Worship with Allah Previous verses mentioned some conditions attached to the acceptance of deeds.
+One of the conditions required that no deed is accepted unless it comes with 'Iman (faith, belief) and is in accordance with Shari` ah (Law) and Sunnah (sayings and deeds of the Prophet ﷺ).
 
 ## Tafsir Ibn Kathir
 

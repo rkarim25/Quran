@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nay! كَلَّا إِنَّ كِتَابَ الْفُجَّارِ‌ لَفِي سِجِّينٍ (Never!
+And what will make you know what Sijjin is?) and it is full of hardship and misery.
 
 ## Tafsir Ibn Kathir
 

@@ -50,7 +50,7 @@ Here Allah praises Himself for the Noble Qur'an He has revealed to His noble Mes
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Special features of the Surah There is consensus among the commentators that this Surah was revealed in Makkah.
+Blessed be He Who sent down (Nazzala) the criterion to His servant that he may be a warner to all nations.)(2. Each of the previous Books was sent down at one time, but the Qur'an was revealed gradually, in stages, Ayat after Ayat, rulings after rulings, Surahs after Surahs.
 
 ## Tafsir Ibn Kathir
 

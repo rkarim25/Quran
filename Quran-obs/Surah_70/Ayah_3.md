@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The disbelievers used to come to the Holy Prophet ﷺ in groups mocking at the Muslims, and denying the Islamic beliefs, including Resurrection.
+From Allah, the Lord of the ways of ascent.)(4.
 
 ## Tafsir Ibn Kathir
 

@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed, We sent Nuh to his people and he said: "O my people! Described from the beginning of Surah al-A` raf upto this point were the subjects of Tauhid, Risalah and 'Akhirah, the basic principles of Islam.
+In the first sentence, the invitation given is to worship Allah Ta` ula, which is the essence of the principle.
 
 ## Tafsir Ibn Kathir
 

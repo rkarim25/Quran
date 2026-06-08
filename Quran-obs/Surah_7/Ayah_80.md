@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) Lut, when he said to his people: "Do you commit lewdness such as none preceding you has committed in all of the nations (80)"Verily, you practice your lusts on men instead of women. Out of the continuing series of stories relating to prophets (علیہم السلام) and their communities, the fourth story is that of Sayyidna Lut (Lot) tX..JI ...lc.
+And (remember) Lut, when he said to his people: "Do you commit lewdness such as none preceding you has committed in all of the nations (80)"Verily, you practice your lusts on men instead of women. Then, it was said that this shameful act has never been committed by anyone in all the worlds before they did it.
 
 ## Tafsir Ibn Kathir
 

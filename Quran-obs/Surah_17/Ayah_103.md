@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We gave Musa nine clear signs. The first verse (101): وَلَقَدْ آتَيْنَا مُوسَىٰ تِسْعَ آيَاتٍ mentions the bestowal of nine clear signs on Sayyidna Musa (علیہ السلام) .
+And We said to the Children of Israel after him: "Dwell in the land...") This is good news for Muhammad ﷺ, a foretelling of the conquest of Makkah, even though this Surah was revealed in Makkah before the Hijrah.
 
 ## Tafsir Ibn Kathir
 

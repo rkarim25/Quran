@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nay, We gave the luxuries of this life to these men and their fathers until the period grew long for them. Weighing of actions on the Day of Judgment and the scales to be used for this purpose وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ (And We shall place scales to do justice on the Day of Judgment - 21:47) The مَوَازِین word is plural of مِیزان ، which means a scale.
+If it be equal to the weight of a grain of mustard seed, and though it be in a rock, or in the heavens or in the earth, Allah will bring it forth. In this verse the word is used plural which some exegesists have explained by saying that for measuring deeds and actions of people many scales will be used.
 
 ## Tafsir Ibn Kathir
 

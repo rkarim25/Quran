@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Threat against Man's Transgression for the sake of Wealth Allah informs that man is very pleased, most evil, scornful and transgressive when he considers himself self-sufficient and having an abundance of wealth. Verse [ 15 - concluding part ] لَنَسْفَعًا بِالنَّاصِيَةِ (...We will certainly drag [ him ] by forelock.) The nasfa'an is derived from the infinitive safuun which means 'to seize and drag' and the word nasiyah means 'forelock', that is, the front part of a person's hair that falls forward over the forehead.
+In other words, let him call them in order to seek help from them. In the Name of your Lord Who has created.) (96:1) This is the end of the Tafsir of Surah Iqra' (Surat Al-`Alaq).
 
 ## Tafsir Ibn Kathir
 

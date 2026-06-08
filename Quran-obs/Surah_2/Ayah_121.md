@@ -75,7 +75,7 @@ These Ayat mean, "Those among the People of the Book who perfectly adhered to th
 
 ## Tafsir Summary
 
-Never will the Jews nor the Christians be pleased with you (O Muhammad ﷺ) till you follow their religion. Verse 120 dealt with the hopeless condition of the opponents of Islam among the People of the Book.
+Verily, those who were given knowledge before it, when it is recited to them, fall down on their faces in humble prostration.
 
 ## Tafsir Ibn Kathir
 

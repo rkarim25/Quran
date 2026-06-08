@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-I have been commanded only to worship the Lord of this city, Who has sanctified it and to Whom belongs everything. رَ‌بَّ هَـٰذِهِ الْبَلْدَةِ (the Lord of this city - 27:91).
+He will show you His Ayat (signs), and you shall recognize them.) means, praise be to Allah, Who does not punish anyone except after establishing plea against him, warning him [and leaving him with no excuse]. But I worship Allah Who causes you to die.)(10:104) The fact that the word "Rabb" (Lord) is connected to the word city (in the phrase "the Lord of this city") is a sign of honor and divine care for that city.
 
 ## Tafsir Ibn Kathir
 

@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those on the right – how (fortunate) will be those on the right (27)(They will be) among Sidri Makhdud (28)And among Talh Mandud (29)And in shade Mamdud (30)And by water flowing constantly (31)And fruit in plenty (32… فِي سِدْرٍ‌ مَّخْضُودٍ (..amid lote-trees with no thorns - 58:28).
+The lote tree, of this life is thorny and carries few fruits.
 
 ## Tafsir Ibn Kathir
 

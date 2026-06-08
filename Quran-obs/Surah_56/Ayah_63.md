@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do you not see what you sow (63)Is it you that make it grow, or are We the Grower (64)Were it Our will, We could crumble it to dry pieces, and you would be Tafakkahun (65)(Saying:) "We are indeed Mughramun! was lost in the secondary or extrinsic causes and lost sight of his Real Creator and Master, the Primary or Intrinsic Cause of his creation.
+They will be feeling grief for what they spent or for the sins that they have committed in the past (which cost the destruction of their plants). Here too the Qur'an, in its inimitable style, poses the question: 'Have you considered the water you drink?
 
 ## Tafsir Ibn Kathir
 

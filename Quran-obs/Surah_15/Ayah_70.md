@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the inhabitants of the city came rejoicing (67)[Lut] said: "Verily, these are my guests, so do not shame me. From verse 48: لَا يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَا هُم مِّنْهَا بِمُخْرَ‌جِينَ (No weariness shall touch them therein nor will they be expelled from there), we learn about two features of Jannah: (1) No one shall ever feel tired or weak.
+These blessings shall never diminish nor shall anyone be expelled from there. However, here the conjunction (wa, meaning "and") does not imply the sequence of events, especially since there is something to indicate that this is not the case.
 
 ## Tafsir Ibn Kathir
 

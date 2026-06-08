@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! يَا أَيُّهَا الَّذِينَ آمَنُوا ارْ‌كَعُوا وَاسْجُدُوا وَاعْبُدُوا رَ‌بَّكُمْ (0 those who believe, bow down in Ruku' and bow down in Sajdah and worship your Lord - 22:77) Verse 18 of this Surah is a verse of sajdah by consensus of the jurists, which means that whoever recites verse 18 or listens to someone reciting it must offer a sajdah.
+A person is not obliged to stand during the prayer if he is sick; the sick person may pray sitting down, and if he is not able to do that then he may pray lying on his side.
 
 ## Tafsir Ibn Kathir
 

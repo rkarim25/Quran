@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when he came to it (the fire), he was called by name: "O Musa! فَلَا يَصُدَّنَّكَ عَنْهَا (must not make you neglectful of it - 20:16 ) Here Sayyidna Musa (علیہ السلام) is cautioned by Allah Ta’ ala lest he should allow himself to be led away by the infidels and become negligent about the Day of Judgment because that would be the cause of his ruination.
+It is clear that a Prophet and a Messenger who is impeccable cannot commit such a lapse but the fact that such a warning has been addressed to him is meant to warn his followers as well as mankind at large to be cautious in the matter It shall not come upon you except all of a sudden.)[7:187] This means that its knowledge weighs heavily upon the dwellers of the heavens and the earth.
 
 ## Tafsir Ibn Kathir
 

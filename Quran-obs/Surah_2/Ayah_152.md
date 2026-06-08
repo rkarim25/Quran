@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Similarly (to complete My blessings on you), We have sent among you a Messenger (Muhammad ﷺ) of your own, reciting to you Our verses (the Qur'an) and purifying you, and teaching you the Book (the Qur'an) and the Hikmah (i. Dhikr ذکر : or "Remembrance" essentially pertains to the heart, but in so far as the tongue is the interpreter of the heart the oral recitation of a Divine Name or a verse of the Holy Qur'an is also described as Dhikr ذکر .
+I will remember you, and be grateful to Me (for My countless favors on you) and never be ungrateful to Me . Let us add that Verse 152 means to say that if men "remember" Allah by obeying His commandments, He will "remember" them by granting His pardon and His rewards.
 
 ## Tafsir Ibn Kathir
 

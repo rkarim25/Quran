@@ -117,7 +117,7 @@ Thereupon, came the Qur'anic injunction through which Muslims were prohibited fr
 
 ## Tafsir Summary
 
-And insult not those whom they worship besides Allah, lest they insult Allah wrongfully without knowledge. The first of the present verses has been revealed concerning a particular event and provides guidance in a matter of principle, that is, what you are not permitted to do yourself, for that you cannot become the cause or channel either - both shall remain equally impermissible.
+But, the danger is that your people, that is, the common Arabs, who have entered the fold of Islam just now, may fall a victim to some doubts at the sight of Baytullah being demolished, therefore, I have abandoned my intention.
 
 ## Tafsir Ibn Kathir
 

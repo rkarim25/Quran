@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when We delivered you from Fir'awn's (Pharaoh) people, who were afflicting you with a horrible torment, killing your sons and sparing your women, and therein was a mighty trial from your Lord (49)And (reme… Verse 47 had spoken of the special favours shown to the Israelites by Allah.
+We should state here that 'Pharaoh' (Fir'awn) is a title that was given to every disbelieving king who ruled Egypt, whether from the 'Amaliq (Canaanites) or otherwise, just as Caesar (Qaysar) is the title of the disbelieving kings who ruled Rome and Damascus.
 
 ## Tafsir Ibn Kathir
 

@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Now ask them: "Are there (only) daughters for your Lord and sons for them? Events relating to the noble prophets described earlier provided some good counsel and some lessons to learn.
+Then bring your book if you are truthful - 156, 157) this is what it means.
 
 ## Tafsir Ibn Kathir
 

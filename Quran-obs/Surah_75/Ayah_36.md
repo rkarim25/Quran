@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nay, when it reaches to the collarbones (26)And it will be said: "Who can cure him? '[ It will be said to such a man,] Woe to you, then woe to you!
+This means that he will not be left neglected in this worldly life, without being commanded and prohibited. And then woe to you (35)Does man think that he will be left neglected (36)Was he not a Nutfah of semen emitted (37)Then he became an 'Alaqah; then shaped and fashioned in due proportion (38)And made of him two sexes, male and female (39)Is it not so then, that He would be able to give life to the dead .
 
 ## Tafsir Ibn Kathir
 

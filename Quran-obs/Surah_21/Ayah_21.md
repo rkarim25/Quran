@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or have they taken (for worship) gods from the earth who raise the dead (21)Had there been therein (in the heavens and the earth) gods besides Allah, then verily, both would have been ruined. أَمِ اتَّخَذُوا آلِهَةً مِّنَ الْأَرْ‌ضِ هُمْ يُنشِرُ‌ونَ (Or have they taken to gods from the earth who raise the dead?
+Or have they taken (for worship) gods from the earth who raise the dead (21)Had there been therein (in the heavens and the earth) gods besides Allah, then verily, both would have been ruined. Allah says how foolish and ignorant the polytheists are that they have made their gods from amongst the creatures of the earth who do not have the power of life and death.
 
 ## Tafsir Ibn Kathir
 

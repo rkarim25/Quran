@@ -74,7 +74,7 @@ And recite what has been revealed to you (O Muhammad) of your Lord's Book. None 
 
 ## Tafsir Summary
 
-And recite what has been revealed to you (O Muhammad) of your Lord's Book. Yet another question arises here about the People of Kahf.
+But the provision of your Lord is better and more lasting.)[20:131] Yet another question arises here about the People of Kahf.
 
 ## Tafsir Ibn Kathir
 

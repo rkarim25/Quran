@@ -38,7 +38,7 @@ Concerning the poor person and the orphan, an explanation of them and their char
 
 ## Tafsir Summary
 
-Verily, We have prepared for the disbelievers iron chains, iron collars, and Sa'ir (4)Verily, the Abrar (righteous believers) shall drink of a cup mixed with Kafur (5)A spring wherefrom the servants of Allah will drink, causing it to gush forth abundantly (6)They fulfill (their) vows, and they fear a Day whose evil will be wide-spreading (7)And they give food, inspite of their love for it, to the poor, the orphan and the captive (8)(Saying): "We feed you seeking Allah's Face only.
+The word 'captive' refers to all prisoners, Muslim criminals, as well as infidels who are kept in prisons according to the principles of Shari` ah. The word Yashrabu (to drink) includes the meaning of Yarwa (to quench one's thirst).
 
 ## Tafsir Ibn Kathir
 

@@ -70,7 +70,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We sent down from the sky water in measure, and We gave it lodging in the earth, and verily, We are able to take it away (18)Then We brought forth for you therewith gardens of date palms and grapes, wherein is much fruit for you, and whereof you eat (19)And a tree that springs forth from Tur Sinai, that grows oil, and relish for the eaters (20)And verily, in the cattle there is indeed a lesson for you. The reason why olive tree has been associated with the Tur mountain is that this tree first grew on that mountain.
+And We sent down from the sky water in measure, and We gave it lodging in the earth, and verily, We are able to take it away (18)Then We brought forth for you therewith gardens of date palms and grapes, wherein is much fruit for you, and whereof you eat (19)And a tree that springs forth from Tur Sinai, that grows oil, and relish for the eaters (20)And verily, in the cattle there is indeed a lesson for you.
 
 ## Tafsir Ibn Kathir
 

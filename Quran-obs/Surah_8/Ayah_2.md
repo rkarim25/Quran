@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The believers are only those who, when Allah is mentioned, feel a fear in their hearts and when His Ayat are recited unto them, they increase their faith; and they put their trust in their Lord (2)Who perform the Salah and spend out of what We have provided them (3)It is they who are the believers in truth. Particular Attributes of the Believer Described in the verses cited above are particular attributes which should be the hallmark of every believer.
+In both these verses, identified there is a very special pre-requisite of the mention, thought and remembrance of Allah (Dhikr) which is awe and fear.
 
 ## Tafsir Ibn Kathir
 

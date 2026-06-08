@@ -162,7 +162,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, when they despaired of him, they consulted in private. In verse 80, it was said: فَلَمَّا اسْتَيْأَسُوا مِنْهُ خَلَصُوا نَجِيًّا (So when they lost hope in him, they went aside for consultation).
+Yusuf's Brothers consult Each Other in Confidence; the Advice Their Eldest Brother gave Them Allah narrates to us that Yusuf's brothers were desperate because they could not secure the release of their brother Binyamin, even though they had given a promise and sworn to their father to bring him back.
 
 ## Tafsir Ibn Kathir
 

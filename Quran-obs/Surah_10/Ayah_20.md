@@ -78,7 +78,7 @@ These stubborn, lying disbelievers said, "Why would not a sign be revealed to Mu
 
 ## Tafsir Summary
 
-And they say: "How is it that not a sign is sent down on him from his Lord?" Say: "The Unseen belongs only to Allah, so wait you, verily, I am with you among those who wait. Disbelievers and Believers are two separate nationalities: Nationality based on race and country is absurd The statement: كَانَ النَّاسُ إِلَّا أُمَّةً وَاحِدَةً (And people were but one community) in verse 19 means that the progeny of Sayyidna Adam (علیہ السلام) was essentially a single community of monotheists in the earlier stages of man's presence in the world.
+The Idolators requested a Miracle These stubborn, lying disbelievers said, "Why would not a sign be revealed to Muhammad from his Lord." They meant a sign such as given to Salih.
 
 ## Tafsir Ibn Kathir
 

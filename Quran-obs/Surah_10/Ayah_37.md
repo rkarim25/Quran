@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And this Qur'an is not such as could ever be produced by other than Allah but it is a confirmation of (the revelation) which was before it, and a full explanation of the Book – wherein there is no doubt – from the Lord of all that exists (37)Or do they say: "He has forged it?" Say: "Bring then a Surah like unto it, and call upon whomsoever you can besides Allah, if you are truthful! In the concluding verse (32), it was said: فَذَٰلِكُمُ اللَّـهُ رَ‌بُّكُمُ الْحَقُّ ۖ فَمَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ (So, that is Allah, your Lord in truth.
+With this complete and more than sufficient explanation, the Qur'an leaves no doubt that it is from Allah, the Lord of all that exists.
 
 ## Tafsir Ibn Kathir
 

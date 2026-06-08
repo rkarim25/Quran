@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And by Allah, I shall plot a plan for your idols after you have gone away and turned your backs. وَتَاللَّـهِ لَأَكِيدَنَّ أَصْنَامَكُم (And I swear by Allah that I will do something to your idols - 21:57) The wording of the verse indicates that Sayyidna Ibrahim (علیہ السلام) spoke these words before his community.
+How Ibrahim broke the Idols Then Ibrahim swore an oath, which some of his people heard, to plot against their idols, i.e., to break them and destroy them after they had gone away and turned their backs, when they went out to their festival.
 
 ## Tafsir Ibn Kathir
 

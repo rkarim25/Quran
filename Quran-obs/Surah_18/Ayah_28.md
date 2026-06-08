@@ -139,7 +139,7 @@ And recite what has been revealed to you (O Muhammad) of your Lord's Book. None 
 
 ## Tafsir Summary
 
-And recite what has been revealed to you (O Muhammad) of your Lord's Book. Da'wah and Tabligh admit of no discrimination Some events have been mentioned in the background of the revelation of the verse: وَاصْبِرْ‌ نَفْسَكَ (And keep yourself content - 28).
+None can change His Words, and none will you find as refuge other than Him (27)And keep yourself (O Muhammad) patiently with those who call on their Lord morning and afternoon, seeking His Face; and let not your eyes overlook them, desiring the pomp and glitter of the life of the world; and obey not him whose heart We have made heedless of Our remembrance, and who follows his own lusts, and whose affair has been lost .
 
 ## Tafsir Ibn Kathir
 

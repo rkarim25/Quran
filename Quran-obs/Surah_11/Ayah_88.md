@@ -152,7 +152,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "O my people! What Sayyidna Shu'aib (علیہ السلام) had said to his people was good counsel based on earnest fellow feeling.
+Tell me if I have a clear evidence from my Lord and He has given me a good sustenance from Himself (shall I corrupt it by mixing it with the unlawfully earned money).
 
 ## Tafsir Ibn Kathir
 

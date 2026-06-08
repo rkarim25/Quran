@@ -155,7 +155,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And on the Day when He will gather them together (and say): "O you assembly of Jinn! Mentioned in the third verse (128) is a dialogue before a gathering of Jinns and human beings on the plains of the Resurrection (Al-Hashr).
+Certainly your Lord is All-Wise, All-Knowing.
 
 ## Tafsir Ibn Kathir
 

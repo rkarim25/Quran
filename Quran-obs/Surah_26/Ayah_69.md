@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And recite to them the story of Ibrahim (69)When he said to his father and his people: "What do you worship? The reasoning for this he gave إِنَّ مَعِيَ رَ‌بِّي سَيَهْدِينِ (62) "Indeed with me is my Lord.
+Allah commanded His Messenger Muhammad ﷺ to recite this story to his Ummah so that they could follow this example of sincerity towards Allah, putting one's trust in Him, worshipping Him Alone with no partner or associate, and renouncing Shirk and its people.
 
 ## Tafsir Ibn Kathir
 

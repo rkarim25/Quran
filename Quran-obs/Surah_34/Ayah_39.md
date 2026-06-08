@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We did not send a warner to a township but those who were given the worldly wealth and luxuries among them said: "We believe not in what you have been sent with. This verse has appeared a little earlier (36) almost in the same words.
+And He is the best of the sustainers.) in verse 39 literally means: 'For anything that you spend, Allah Ta’ ala gives you a return from His unseen treasures - at times, within this world and at times, in the Hereafter and at times, in both.' In things happening around us, we see that water comes down from above, animals and humans use it freely, needs of farms and forests are satiated, and no sooner does that supply of water gets used up, than another supply descends to reple…
 
 ## Tafsir Ibn Kathir
 

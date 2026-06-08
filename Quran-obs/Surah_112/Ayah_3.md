@@ -26,7 +26,7 @@ The reason for the revelation of this Surah has already been mentioned. 'Ikrimah
 
 ## Tafsir Summary
 
-The Reason for the Revelation of this Surah and its Virtues Imam Ahmad recorded from Ubayy bin Ka'b that the idolators said to the Prophet ﷺ, "O Muhammad! Allah is Above having Children and Procreating Verse [ 112:3] لَمْ يَلِدْ وَلَمْ يُولَدْ (He neither begot anyone, nor was begotten.) This verse responds to those who had questioned about the ancestry of Allah.
+"He begets not, nor was He begotten".)(4. Whenever he began a Surah in the recitation of the prayer that he was leading them, he would start by reciting 'Say: He is Allah, One' until he completed the entire Surah.
 
 ## Tafsir Ibn Kathir
 

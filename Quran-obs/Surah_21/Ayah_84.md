@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) Ayyub, when he cried to his Lord: "Verily, distress has seized me, and You are the Most Merciful of all those who show mercy. The story of Sayyidna Ayyub (علیہ السلام) is based mostly on Jewish legends.
+His wife, Layya once asked him to pray to Allah for His Mercy as his sufferings had become unbearable, to which he replied that having enjoyed for seventy years the best of health surrounded by all the luxuries that money could buy, it would be unworthy of him to complain because a mere seven years has been spent in pain and poverty. Then Allah Ta` ala restored him to complete health and gave him back all his children and also an equal number in addition.
 
 ## Tafsir Ibn Kathir
 

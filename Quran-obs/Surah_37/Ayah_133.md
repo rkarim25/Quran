@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, Lut was one of the Messengers (133)When We saved him and his family, all (134)Except an old woman (his wife) who was among those who remained behind (135)Then We destroyed the rest (136)Verily, you pass by th… Mentioned in these verses is the fifth event that relates to Sayyidna Lut (علیہ السلام) .
+And verily, Lut was one of the Messengers (133)When We saved him and his family, all (134)Except an old woman (his wife) who was among those who remained behind (135)Then We destroyed the rest (136)Verily, you pass by them in the morning (137)And at night; will you not then reflect .
 
 ## Tafsir Ibn Kathir
 

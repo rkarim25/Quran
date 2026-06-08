@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who emigrated in the cause of Allah and after that were killed or died, surely, Allah will provide a good provision for them. Those people who had left their hearth and homes in the cause of Allah and were killed or died of natural death, they would definitely be rewarded.
+And verily, it is Allah Who indeed is the Best of those who make provision (58)Truly, He will make them enter an entrance with which they shall be well-pleased, and verily, Allah indeed is All-Knowing, Most Forbearing (59)That is so.
 
 ## Tafsir Ibn Kathir
 

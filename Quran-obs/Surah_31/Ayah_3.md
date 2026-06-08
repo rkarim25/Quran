@@ -22,7 +22,7 @@ It is revealed in this verse that the infidels will lie on the Day of Resurrecti
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. After this, the falsehood and ignorance of the deniers of the Dooms Day is mentioned وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِ‌مُونَ مَا لَبِثُوا غَيْرَ‌ سَاعَةٍ that is, ‘When the Dooms Day will come, these deniers of the Dooms Day will start swearing by losing senses after looking at the horrid scenes, that their stay was not more than one hour'.
+Allah has made the Qur'an a guidance and healing and a mercy for the Muhsinin, who are those who do good deeds in accordance with the Shari'ah.
 
 ## Tafsir Ibn Kathir
 

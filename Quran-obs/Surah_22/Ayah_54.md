@@ -99,7 +99,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Never did We send a Messenger or a Prophet before you but when he did recite (the revelation or narrated or spoke), Shaytan threw (some falsehood) in his recitation (of the revelation). مِن رَّ‌سُولٍ وَلَا نَبِيٍّ (any messenger and any prophet - 22:52) This shows that the words Rasul رَّ‌سُولٍ and Nabi carry different meanings, though there is no consensus as to the precise nature of the difference.
+And Allah is All-Knower, All-Wise (52)That He (Allah) may make what is thrown in by Shaytan a trial for those in whose hearts is a disease and whose hearts are hardened.
 
 ## Tafsir Ibn Kathir
 

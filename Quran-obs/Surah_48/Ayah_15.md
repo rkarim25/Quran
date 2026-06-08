@@ -141,7 +141,7 @@ Some people have tried to argue that the restrictive injunction is found in the 
 
 ## Tafsir Summary
 
-Those who lagged behind will say, when you set forth to take the spoils, "Allow us to follow you." They want to change Allah's Words. Injunctions and Related Issues The reference in this passage is to the incident which took place in the 7th year of Hijrah after the Holy Prophet ﷺ returned from Hudaibiyah.
+Allah the Exalted ordered His Messenger ﷺ to refuse to give them permission to accompany him, being a punishment that is similar to their error.
 
 ## Tafsir Ibn Kathir
 

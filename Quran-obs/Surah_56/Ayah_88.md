@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, if he be of the Muqarrabin (88)Then Rawh, Rayhan and a Garden of Delights (89)And if he be of those on the right (90)Then Salam (peace) to you from those on the right (91)But if he be of the denying, the erring (92)Then for him is an entertainment with Hamim (93)And entry in Hellfire (94)Verily, this! فَأَمَّا إِن كَانَ مِنَ الْمُقَرَّ‌بِينَ (So, in case he [ the dying person ] is from among those blessed with nearness...56:88).
+Then, if he be of the Muqarrabin (88)Then Rawh, Rayhan and a Garden of Delights (89)And if he be of those on the right (90)Then Salam (peace) to you from those on the right (91)But if he be of the denying, the erring (92)Then for him is an entertainment with Hamim (93)And entry in Hellfire (94)Verily, this!
 
 ## Tafsir Ibn Kathir
 

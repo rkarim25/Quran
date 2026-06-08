@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Has not the news reached you of those who disbelieved aforetime? وَصَوَّرَ‌كُمْ فَأَحْسَنَ صُوَرَ‌كُمْ (…and shaped your figures, and made your figures good…64:3).
+And so they tasted the evil result of their disbelief, and theirs will be a painful torment (5)That was because there came to them their Messengers with Bayyinat, but they said: "Shall mere men guide us?" So they disbelieved and turned away.
 
 ## Tafsir Ibn Kathir
 

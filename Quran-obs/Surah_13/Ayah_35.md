@@ -87,7 +87,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-For them is a torment in the life of this world, and certainly, harder is the torment of the Hereafter. In the verse: أَفَمَنْ هُوَ قَائِمٌ عَلَىٰ كُلِّ نَفْسٍ (Is then He, who is watchful over everyone ...
+And they have no defender (or protector) against Allah (34)The description of the Paradise which those who have Taqwa have been promised: Underneath it rivers flow, its provision is eternal and so is its shade; this is the end (final destination) of those who have Taqwa, and the end (final destination) of the disbelievers is Fire .
 
 ## Tafsir Ibn Kathir
 

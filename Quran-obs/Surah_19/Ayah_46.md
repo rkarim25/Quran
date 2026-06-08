@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He (the father) said: "Do you revile my gods, O Ibrahim? How to give counsel to elders.
+At the same time there is the filial love and respect which he feels towards his father.
 
 ## Tafsir Ibn Kathir
 

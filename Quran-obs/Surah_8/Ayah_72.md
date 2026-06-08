@@ -196,7 +196,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who believed, and emigrated and strove hard and fought with their property and their lives in the cause of Allah as well as those who gave (them) asylum and help, – these are (all) allies to one another. These are the last four verses of Surah Al-Anfal.
+Allied with it, there is another injunction which concerns mutual inheritance between Muhajir and non-Muhajir Muslims about which it has been stated in the first verse that the relationship of a Muslim - until he emigrates from Makkah - shall also remain severed with Muslims who have emigrated, as far as inheritance is concerned.
 
 ## Tafsir Ibn Kathir
 

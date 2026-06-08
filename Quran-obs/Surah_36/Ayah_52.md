@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the Trumpet will be blown and behold from the graves they will come out quickly to their Lord (51)They will say: "Woe to us! In verse 52, it was said: قَالُوا يَا وَيْلَنَا مَن بَعَثَنَا مِن مَّرْ‌قَدِنَا (They will say, "Woe to us!
+Who has raised us up from our place of sleep." (It will be said to them): "This is what the Most Gracious had promised, and the Messengers spoke truth!
 
 ## Tafsir Ibn Kathir
 

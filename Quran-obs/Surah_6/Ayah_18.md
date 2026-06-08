@@ -41,7 +41,7 @@ And if Allah touches you with harm, none can remove it but He, and if He touches
 
 ## Tafsir Summary
 
-And if Allah touches you with harm, none can remove it but He, and if He touches you with good, then He is able to do all things (17)And He is the Irresistible, above His servants, and He is the All-Wise, Well-Acquainted with all things (18)Say: "What thing is the most great in witness?" Say: "Allah is Witness between you and I; this Qur'an has been revealed to me that I may therewith warn you and whomsoever it may reach. At the end of verse 18, it was said: وَهُوَ الْقَاهِرُ‌ فَوْقَ عِبَادِهِ ۚ وَهُوَ الْحَكِيمُ الْخَبِيرُ‌ ﴿18﴾ (And He is dominant over His slaves, and He is the Ali-Wise, the All-Aware).
+And then, He is All-Aware too, for He is the One who knows everything.
 
 ## Tafsir Ibn Kathir
 

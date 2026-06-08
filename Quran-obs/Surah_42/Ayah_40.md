@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The recompense for an evil is an evil like thereof; but whoever forgives and makes reconciliation, his reward is with Allah. Seventh virtue:۔ وَالَّذِينَ إِذَا أَصَابَهُمُ الْبَغْيُ هُمْ يَنتَصِرُ‌ونَ (and those who, when they are subjected to aggression, defend themselves - 39.) The original word used in the text is ` yantasirun' which may be translated as ` defend themselves' and also as ` retaliate'.
+The recompense for an evil is an evil like thereof; but whoever forgives and makes reconciliation, his reward is with Allah.
 
 ## Tafsir Ibn Kathir
 

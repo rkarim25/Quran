@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-See you not that Allah, He it is Whom glorify whosoever is in the heavens and the earth, and the birds with wings outspread? كُلٌّ قَدْ عَلِمَ صَلَاتَهُ وَتَسْبِيحَهُ (Everyone knows one's own (way of) praying - 41).
+Of each one He knows indeed his Salah and his glorification; and Allah is All-Aware of what they do (41)And to Allah belongs the sovereignty of the heavens and the earth, and to Allah is the return .
 
 ## Tafsir Ibn Kathir
 

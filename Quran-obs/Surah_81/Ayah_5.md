@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-What has been narrated about This Surah Imam Ahmad recorded from Ibn 'Umar that the Messenger of Allah ﷺ said, وَإِذَا الْعِشَارُ‌ عُطِّلَتْ (and when the ten-months pregnant she-camels will be abandoned...81:4).
+And when the wild beasts are gathered together.)(6. And when the pregnant she-camels are neglected;)(5.
 
 ## Tafsir Ibn Kathir
 

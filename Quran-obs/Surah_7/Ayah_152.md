@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Certainly, those who took the calf (for worship), wrath from their Lord and humiliation will come upon them in the life of this world. The first verse (152) has warned those who took to the worship of the calf and persisted in it, of their sad fate in the Hereafter, and of disgraceful life in this world.
+The worldly life is also affected by the sinful deeds A part of punishment of some sins is also given in this life.
 
 ## Tafsir Ibn Kathir
 

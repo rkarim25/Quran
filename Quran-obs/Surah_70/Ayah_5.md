@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. تَعْرُ‌جُ الْمَلَائِكَةُ وَالرُّ‌وحُ (to whom ascend the angels and the Spirit ...70:4).
+The angels and the Ruh ascend to Him in a Day the measure whereof is fifty thousand years.)(5.
 
 ## Tafsir Ibn Kathir
 

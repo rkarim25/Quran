@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "My Lord! The word عِتِيًّا is derived from which actually means 'unresponsive' or 'insensitive', and in the present context it means dryness of the bones.
+How can I have a son, when my wife is barren, and I have reached the extreme old age.
 
 ## Tafsir Ibn Kathir
 

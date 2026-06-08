@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 100:8] وَإِنَّهُ لِحُبِّ الْخَيْرِ‌ لَشَدِيدٌ (and in his love for wealth, he is very intense.) Literally, the word khair means 'any good thing'.
+The evil of ingratitude is quite obvious and needs no elaboration, but the evil of man's violent love for wealth is not that obvious, and needs some elaboration.
 
 ## Tafsir Ibn Kathir
 

@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(176. Material affluence of disbelievers is, after all, an extension of Divine punishment Let there be no doubt about the worldly wellbeing of disbelievers for one may be tempted to believe that since Allah Almighty has given respite, long life, security and comfort to disbelievers so that they go on increasing in their crimes, they should, then, be taken as innocent.
+Far from it, because the verse means that Muslims should not feel upset about this temporary respite and affluence given to disbelievers as all this worldly wealth and power in their hands - despite their disbelief and disobedience - is nothing but a form of the very punishment destined for them.
 
 ## Tafsir Ibn Kathir
 

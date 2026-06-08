@@ -24,7 +24,7 @@ And these Ayat have only been mentioned in Surat An-Najm, which was revealed aft
 
 ## Tafsir Summary
 
-But nay! عَلِمَتْ نَفْسٌ مَّا أَحْضَرَ‌تْ (then everyone will know what he [ or she ] has put forward...
+The word 'what' here refers to his good and bad deeds, all of which will be in front of him, either in the form of the Record of Deeds that will be given in his hands or his deeds will assume a specific body shape as is understood from certain Traditions.
 
 ## Tafsir Ibn Kathir
 

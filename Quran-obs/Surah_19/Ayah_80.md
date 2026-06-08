@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you seen him who disbelieved in Our Ayat and said: "I shall certainly be given wealth and children [if I live again]. "And We will inherit from him what he is talking about" - 19:80.
+It is foolish of him to talk about retaining his wealth and children in the Hereafter because he will have to leave behind even these things which he possesses in this world, and his wealth and children will all revert to Allah Ta’ ala.
 
 ## Tafsir Ibn Kathir
 

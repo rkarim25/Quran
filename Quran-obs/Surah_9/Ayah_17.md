@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is not for the Mushrikin, to maintain the Masjids of Allah, while they witness against themselves of disbelief. Mentioned in the previous verses was how crooked the Mushrikin of Makkah were, how they broke their pledges and what they did to defend their false ways in religion.
+Because of their Kufr and Shirk, their deeds had gone waste and they were to live in the Fire of Jahannam eternally. It is not for the Mushrikin, to maintain the Masjids of Allah, while they witness against themselves of disbelief.
 
 ## Tafsir Ibn Kathir
 

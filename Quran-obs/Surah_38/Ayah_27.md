@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We created not the heaven and the earth and all that is between them without purpose! The delicate order of the verses These verses in which the basic beliefs of Islam, particularly that of the Hereafter, have been emphatically confirmed appear in between the description of events relating to Sayyidna Dawud (علیہ السلام) with an order that is extremely delicate and sublime.
+And We created not the heaven and the earth and all that is between them without purpose!
 
 ## Tafsir Ibn Kathir
 

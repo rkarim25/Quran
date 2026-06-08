@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(1. فَسَتُبْصِرُ‌ وَيُبْصِرُ‌ونَ بِأَييِّكُمُ الْمَفْتُونُ (So, you will see, and they will see which of you is demented....68:5-6].
+Verily, your Lord is the best Knower of him who has gone astray from His path, and He is the best Knower of those who are guided.) We have already discussed the special letters of the Arabic alphabet at the beginning of Surat Al-Baqarah.
 
 ## Tafsir Ibn Kathir
 

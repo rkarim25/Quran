@@ -59,7 +59,7 @@ And it was revealed to Nuh: "None of your people will believe except those who h
 
 ## Tafsir Summary
 
-And it was revealed to Nuh: "None of your people will believe except those who have believed already. Boat-Making: The Education of a Prophet ﷺ When Sayyidna Nuh (علیہ السلام) was commanded to make an ark, he knew no ark, nor its making.
+Therefore, the greatest inventor of moving vehicles is the person who invented the wheel that is the life and soul of a lot of machines.
 
 ## Tafsir Ibn Kathir
 

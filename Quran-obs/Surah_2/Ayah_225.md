@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And make not Allah's (Name) an excuse in your oaths against doing good and acting piously, and making peace among mankind.
+And Allah is All-Hearer, All-Knower (i.e., do not swear much and if you have sworn against doing something good then give an expiation for the oath and do good)(224)Allah will not call you to account for that which is unintentional in your oaths, but He will call you to account for that which your hearts have earned.
 
 ## Tafsir Ibn Kathir
 

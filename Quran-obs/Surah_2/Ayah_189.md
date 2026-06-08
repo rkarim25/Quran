@@ -125,7 +125,7 @@ Al-'Awfi related that Ibn 'Abbas said, "The people asked Allah's Messenger ﷺ a
 
 ## Tafsir Summary
 
-They ask you (O Muhammad) about the crescents. The theme of righteousness which started from Verse 177 still continues.
+Say: "These are signs to mark fixed periods of time for mankind and for the pilgrimage." It is not Al-Birr (piety, righteousness, etc.) that you enter the houses from the back, but Al-Birr is from Taqwa.
 
 ## Tafsir Ibn Kathir
 

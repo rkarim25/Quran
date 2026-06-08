@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So whatever you have been given is but (a passing) enjoyment for this worldly life, but that which is with Allah is better and more lasting for those who believe and put their trust in their Lord (36)And those who shun t… The above verses state the imperfection and temporary nature of the blessings of this world, as against the perfection and permanence of the blessings of the Hereafter.
+So whatever you have been given is but (a passing) enjoyment for this worldly life, but that which is with Allah is better and more lasting for those who believe and put their trust in their Lord (36)And those who shun the greater sins, and Al-Fawahish, and when they are angry, they forgive (37)And those who answer the Call of their Lord, and perform the Salah, and who (conduct) their affairs by mutual consultation, and who spend of what We have bestowed on them (38)And those…
 
 ## Tafsir Ibn Kathir
 

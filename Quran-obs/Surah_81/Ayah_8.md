@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-What has been narrated about This Surah Imam Ahmad recorded from Ibn 'Umar that the Messenger of Allah ﷺ said, وَإِذَا الْمَوْءُودَةُ سُئِلَتْ (and when the girl-child that was buried alive will be asked, for what sin she was killed...81:8) The word mau'udah is the girl-child buried alive.
+And when the souls are joined with their mates.)(8. This verse, while depicting the scene of Resurrection, mentions that the girls who were buried alive will be questioned for what crime they were killed.
 
 ## Tafsir Ibn Kathir
 

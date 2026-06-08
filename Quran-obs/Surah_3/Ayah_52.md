@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then when 'Isa came to know of their disbelief, he said: "Who will be my helpers in Allah's cause?" Al-Hawariyyun said: "We are the helpers of Allah; we believe in Allah, and bear witness that we are Muslims. Following blessed predictions mentioned earlier, Sayyidna ` Isa (علیہ السلام) was born with all promised signs.
+We believe in what You have sent down, and we follow the Messenger ['Isa]; so write us down among those who bear witness.
 
 ## Tafsir Ibn Kathir
 

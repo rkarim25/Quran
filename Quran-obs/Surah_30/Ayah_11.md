@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah originates the creation, then He will repeat it, then to Him you will be returned (11)And on the Day when the Hour will be established, the criminals will be plunged into destruction with despair (12)No intercessor… أَوَلَمْ يَسِيرُ‌وا فِي الْأَرْ‌ضِ (Have they not travelled on earth - 30:9).
+Then, Allah Ta’ ala sent prophets and books to remind them of their duties, but they did not pay any heed.
 
 ## Tafsir Ibn Kathir
 

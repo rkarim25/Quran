@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Such is 'Isa, son of Maryam. "This is ` Isa, the son of Maryam." - 19:34.
+That is the straight path.) Meaning, "That which I have come to you with from Allah is the straight path." This means that the path is correct; whoever follows it will be rightly guided and whoever opposes it will deviate and go astray.
 
 ## Tafsir Ibn Kathir
 

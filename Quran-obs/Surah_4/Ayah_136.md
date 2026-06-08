@@ -124,7 +124,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Discussed upto this point were subsidiary injunctions mostly, alongwith issues relating to faith ('Iman) and disbelief (kufr) appearing as a corollary to dealings with antagonists.
+Believe in Allah, and His Messenger, and the Book (the Qur'an) which He has sent down to His Messenger, and the Scripture which He sent down to those before; and whosoever disbelieves in Allah, His Angels, His Books, His Messengers, and the Last Day, then indeed he has strayed far away .
 
 ## Tafsir Ibn Kathir
 

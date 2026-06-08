@@ -82,7 +82,7 @@ When the Holy Prophet ﷺ allowed Jadd ibn Qays that he may not go on Jihad,' sa
 
 ## Tafsir Summary
 
-And those who made excuses from the bedouins came asking your permission to exempt them (from the battle), and those who had lied to Allah and His Messenger sat at home (without asking the permission for it); a painful t… The details given in the verse tell us that there were two kinds of people among the Bedouins of the desert.
+And those who made excuses from the bedouins came asking your permission to exempt them (from the battle), and those who had lied to Allah and His Messenger sat at home (without asking the permission for it); a painful torment will seize those of them who disbelieve . As for the permission, he let them have it, but he did realize that they were making false excuses, therefore, he turned away from them.
 
 ## Tafsir Ibn Kathir
 

@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah it is He Who has created the heavens and the earth, and all that is between them in six Days. The length of the day of Qiyamah The text in verse 5 cited above says: فِي يَوْمٍ كَانَ مِقْدَارُهُ أَلْفَ سَنَةٍ مِّمَّا تَعُدُّونَ (in a day the measure of which is a thousand years according to the way you count - 5).
+That is He, the All-Knower of the unseen and the seen,) meaning, He is controlling all these affairs.
 
 ## Tafsir Ibn Kathir
 

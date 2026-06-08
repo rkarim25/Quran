@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Beneficent, the Most Merciful. وَأَنزَلْنَا مِنَ الْمُعْصِرَ‌اتِ مَاءً ثَجَّاجًا (And We have sent down from the rain-laden clouds abundant water,...78:14).
+There are verses, however, that indicate that rain comes down from the sky. And We have sent down from the Mu'sirat water Thajjaj.)(15.
 
 ## Tafsir Ibn Kathir
 

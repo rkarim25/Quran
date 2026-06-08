@@ -152,7 +152,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when Our Clear Verses are recited to them, they say: "This is naught but a man who wishes to hinder you from that which your fathers used to worship." And they say: "This is nothing but an invented lie." And those who disbelieve say of the truth when it has come to them: "This is nothing but evident magic! This verse has appeared a little earlier (36) almost in the same words.
+They used to wish for that and say, 'if only a warner comes to us or a Book is revealed to us, we would be more guided than others,' but when Allah blessed them with that, they disbelieved him and stubbornly rejected him.
 
 ## Tafsir Ibn Kathir
 

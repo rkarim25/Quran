@@ -53,7 +53,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who disbelieve say to those who believe: "Follow our way and let us bear your sins." Never will they bear anything of their sins. وَقَالَ الَّذِينَ كَفَرُ‌وا (And those who disbelieve say - 29:12).
+The other point made by the Qur'an here is that although they will not be able to relieve others by taking on themselves the recompense for the sins others have committed, but this much is true that their effort to misguide others and to drift them away from the righteous path is by itself a big sin, which will be loaded upon them in addition to their own sins.
 
 ## Tafsir Ibn Kathir
 

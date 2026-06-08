@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: O my Lord! يَغْفِرْ‌ لَكُم مِّن ذُنُوبِكُمْ and Allah will forgive you your sins, 71:4).
+Can this be comprehended simply by hearing it only or is it of the matters that actually can be perceived with the senses which are known about the movements (of the heavenly bodies) and the eclipses.
 
 ## Tafsir Ibn Kathir
 

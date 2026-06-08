@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the Masjids are for Allah, so invoke not anyone along with Allah (18)And when the servant of Allah stood up invoking Him in prayer they just made round him a dense crowd as if sticking one over the other (19)Say: "I invoke only my Lord, and I associate none as partners along with Him. وَأَنَّ الْمَسَاجِدَ لِلَّـهِ فَلَا تَدْعُوا مَعَ اللَّـهِ أَحَدًا (...and that masajid (mosques) belong to Allah; so, do not invoke anyone along with Allah....72:18).
+Then on that day, they will know who's helpers are weaker and fewer in number – them or the believers who worship Allah alone.
 
 ## Tafsir Ibn Kathir
 

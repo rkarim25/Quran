@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) the Day We shall cause the mountains to pass away, and you will see the earth as a levelled plain, and We shall gather them so that We will leave not one of them behind (47)And they will be set before your Lord, aligned. Visualize the Day of Resurrection The address to everyone on that fateful Day of Qiyamah shall be: جِئْتُمُونَا كَمَا خَلَقْنَاكُمْ أَوَّلَ مَرَّ‌ةٍ (Lo!
+Then, there are others who have said that it is possible that some people rise dressed on the Day of Resurrection and some others, without it.
 
 ## Tafsir Ibn Kathir
 

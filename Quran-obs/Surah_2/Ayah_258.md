@@ -187,7 +187,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you not looked at him who disputed with Ibrahim about his Lord (Allah), because Allah had given him the kingdom? The verse refers to Namrud نمرود ، the emperor of Babylon, who denied the very existence of God and had a debate with Sayyidna Ibrahim (علیہ السلام) on this issue.
+When Ibrahim said (to him): "My Lord is He Who gives life and causes death." He said, "I give life and cause death." Ibrahim said, "Verily, Allah brings the sun from the east; then bring it you from the west." So the disbeliever was utterly defeated.
 
 ## Tafsir Ibn Kathir
 

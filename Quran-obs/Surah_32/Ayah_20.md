@@ -100,7 +100,7 @@ Sayyidna Abu ad-Darda', Qatadah and Dahhak ؓ have said that this attribute of s
 
 ## Tafsir Summary
 
-Is then he who is a believer like him who is rebellious? Before approaching verse 16: تَـتَجَافٰى جُنُوْبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُوْنَ رَبَّهُمْ خَوْفًا وَّطَمَعًا (Their sides remain apart from their beds.
+Pointed to in the cited verse is one such attribute of these believers: They leave the comfort of their beds, rise and get busy with the remembrance of Allah in submission and supplication - because, they are apprehensive of His displeasure and punishment while remaining hopeful of His mercy and reward.
 
 ## Tafsir Ibn Kathir
 

@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they worship others besides Allah such as do not have power to grant them any provision from the heavens or the earth nor the ability to do so (73)So do not give examples on behalf of Allah. In verse 72: جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا (Allah has created spouses from among you), a special blessing has been mentioned in that Allah Ta’ ala has created spouses from the same genus so that they remain mutually familiar and their distinction and nobility inherent in the human species also remains stable through generations.
+Denouncing the Worship of anything besides Allah Allah tells us about the Mushrikin who worship others besides Him, even though He alone is the bountiful Provider, the Creator and Sustainer, without partners or associates, but they still worship idols and make rivals for Him.
 
 ## Tafsir Ibn Kathir
 

@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And mix not truth with falsehood, nor conceal the truth while you know (the truth)(42)And perform As-Salah, and give Zakah, and bow down along with Ar-Raki'in (43) The Prohibition of hiding the Truth and distorting It wi… In the last three verses and of these four, Allah reminds the Israelites of the blessings He has bestowed upon them, and invites them to Islam and to good deeds.
+Zakah is not a tax levied by the State or society, but, in the terminology of the Shari'ah, means that portion of one's belongings which is set apart and spent in total accord with the injunctions of the Shari'ah.
 
 ## Tafsir Ibn Kathir
 

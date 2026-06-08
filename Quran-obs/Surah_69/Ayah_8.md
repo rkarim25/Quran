@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ (seven nights and eight consecutive days'...
+Which Allah imposed on them for seven nights and eight days Husum, so that you could see men lying toppled, as if they were trunks of date palms, Khawiyah!)(8. The word husuman (in verse 7) is the plural of hasim and means 'cutting them off entirely' or 'causing them to perish completely'.
 
 ## Tafsir Ibn Kathir
 

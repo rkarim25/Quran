@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nay, when it reaches to the collarbones (26)And it will be said: "Who can cure him? اَلَيْسَ ذٰلِكَ بِقٰدِرٍ عَلٰٓي اَنْ يُّـحْيِۦ الْمَوْتٰى (Has He no power to give life to the dead?...(75:40).
+This means, 'you deserve to strut like this while you have disbelieved in your Creator and Maker.' This is what is commonly said in this type of situation in order to mock and intimidate (someone).
 
 ## Tafsir Ibn Kathir
 

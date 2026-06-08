@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed if you ask them: "Who has created the heavens and the earth?" They will surely say: "The All-Mighty, the All-Knower created them. وَجَعَلَ لَكُم مِّنَ الْفُلْكِ وَالْأَنْعَامِ مَا تَرْ‌كَبُونَ (and has made for you the boats and the cattle that you ride, - 12).
+Similarly the man made vehicles, right from the bicycles to the aeroplanes and the space-crafts are also great blessings of Allah Almighty, because they are, though, made by man apparently, there is no other than Allah Ta’ ala who has provided man with ability and techniques to manufacture them?
 
 ## Tafsir Ibn Kathir
 

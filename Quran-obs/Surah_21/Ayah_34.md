@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We granted not to any human being immortality before you; then if you die, would they live forever (34)Everyone is going to taste death, and We shall test you with evil and with good by way of trial. وَمَا جَعَلْنَا لِبَشَرٍ‌ مِّن قَبْلِكَ الْخُلْدَ (And We did not assign immortality to any human (even) before you.
+And We granted not to any human being immortality before you; then if you die, would they live forever (34)Everyone is going to taste death, and We shall test you with evil and with good by way of trial.
 
 ## Tafsir Ibn Kathir
 

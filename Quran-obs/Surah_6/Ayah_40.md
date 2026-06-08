@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Tell me if Allah's torment comes upon you, or the Hour comes upon you, would you then call upon any one other than Allah? The sixth verse (38): وَمَا مِن دَابَّةٍ (there is no creature moving …) tells us that, on the day of Qiyamah, animals will also be given life along with human beings.
+And We seized them with extreme poverty and loss of health so that they might believe with humility (42)When Our torment reached them, why then did they not believe with humility? To Him alone you call, and, if He willed, He would remove that (distress) for which you call upon Him, and you forget at that time whatever partners you joined with Him (in worship)(41)Verily, We sent (Messengers) to many nations before you.
 
 ## Tafsir Ibn Kathir
 

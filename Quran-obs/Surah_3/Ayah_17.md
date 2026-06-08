@@ -32,7 +32,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who say: "Our Lord! In the second verse that follows (15), the same subject has been further cleared by saying: Say: "Shall I not tell you what is far better than that?
+Is there anyone to invoke Me, so that I may respond to his invocation? Out of the rest, children were not mentioned because man loves children during his life in the world as children help and strengthen him in what he does and through them his name lives on.
 
 ## Tafsir Ibn Kathir
 

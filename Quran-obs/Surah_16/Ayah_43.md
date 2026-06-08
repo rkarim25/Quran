@@ -75,7 +75,7 @@ And We sent not (as Our Messengers) before you (O Muhammad) any but men, whom We
 
 ## Tafsir Summary
 
-And We sent not (as Our Messengers) before you (O Muhammad) any but men, whom We sent revelation. According to Ruh al-Ma’ ani, it was after the revelation of the first verse cited above that the Mushrikin of Makkah sent their emissaries to the Jews of Madinah to find out if it was true that all earlier prophets had always been from the genus of men.
+Therefore, 'ahludh-dhikr' literally means 'the people of knowledge' (as refined in the cited translation). So ask Ahl Adh-Dhikr, if you know not (43)With clear signs and Books (We sent the Messengers).
 
 ## Tafsir Ibn Kathir
 

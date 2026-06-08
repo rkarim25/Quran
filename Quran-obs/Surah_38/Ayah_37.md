@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed, We tried Sulayman and We placed on his throne Jasad (a body), and he returned (34)He said: "My Lord! It was said in verse 35: هَبْ لِي مُلْكًا لَّا يَنبَغِي لِأَحَدٍ مِّن بَعْدِي (bless me with a kingdom that will not be available to anyone after me.).
+Allah enabled me to overpower him, and I wanted to tie him to one of the pillars in the Masjid so that you could see him this morning.
 
 ## Tafsir Ibn Kathir
 

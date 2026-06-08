@@ -20,7 +20,7 @@ This is Allah teaching His Messenger ﷺ how to receive the revelation from the 
 
 ## Tafsir Summary
 
-Move not your tongue concerning to make haste therewith (16)It is for Us to collect it and that it be recited (17)And when We have recited it to you, then follow its recitation (18)Then it is for Us to make it clear (19)But no! In conclusion, the passage says: اِنَّ عَلَيْنَا بَيَانَهٗ (Then, it is undertaken by Us to explain it...75:19).
+It describes the conditions and horrors of the Hereafter. Therefore, Allah commanded him that when the angel brings some revelation to him he should just listen.
 
 ## Tafsir Ibn Kathir
 

@@ -43,7 +43,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Thamud (people, We sent) their brother Salih. The Confrontation Between the Arrogant and the Weakened The third (75) and the fourth (76) verses carry a dialogue between two groups of the people of Thamud.
+'Abdur-Razzaq narrated that Ma'mar said that Az-Zuhri said that Abu Righal is the father of the tribe of Thaqif.
 
 ## Tafsir Ibn Kathir
 

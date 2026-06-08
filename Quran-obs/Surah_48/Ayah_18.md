@@ -90,7 +90,7 @@ In any case, this shows that the conquest of Khaibar took place many days after 
 
 ## Tafsir Summary
 
-Indeed, Allah was pleased with the believers when they gave the pledge to you under the tree, He knew what was in their hearts, and He sent down As-Sakinah upon them, and He rewarded them with a near victory (18)And abundant spoils that they will capture. لَّقَدْ رَ‌ضِيَ اللَّـهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ الشَّجَرَ‌ةِ (Allah was pleased with the believers when they were pledging allegiance with you by placing their hands in your hands under the tree,...48:18).
+My father said: The following year, when we went out, we forgot its place and could not agree which tree it was.' Sa'id said, 'The Companions of Muhammad ﷺ forgot where the tree was, but you know where it is.
 
 ## Tafsir Ibn Kathir
 

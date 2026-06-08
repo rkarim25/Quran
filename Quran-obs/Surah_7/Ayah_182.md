@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who reject Our Ayat, We shall gradually seize them with punishment in ways they perceive not (182)And I respite them; certainly My plan is strong.) Allah sai (183) (Those who reject Our Ayat, We shall gradually seize them in ways they perceive not) meaning, the doors of provisions will be opened for them and also the means of livelihood, in this life. The next verse (182) has provided answer to a common question which bothers the minds of many Muslims.
+The verse answered this question in these words: "As for those who belie our signs, we shall let them be drawn gradually towards (their punishment) from where they do not know." That is to say, Allah does not punish those who reject the signs or verses of Allah immediately for their sins. The present prosperity and progress of the non-Muslims should, therefore, not deceive people, because their prosperity, in fact, is not something propitious for them.
 
 ## Tafsir Ibn Kathir
 

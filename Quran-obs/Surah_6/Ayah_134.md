@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And your Lord is Al-Ghani, full of mercy; if He wills, He can destroy you; and in your place make whom He wills as your successors, as He raised you from the seed of other people (133)Surely, that which you are promised, will verily come to pass, and you cannot escape (134)Say: "O my people! After having established in the first verse that Allah is All-Independent (Ghaniyy), Master of Mercy (Dhur-Rahmah) and All-Powerful too, the text carries a warning given to disobedient people: إِنَّ مَا تُوعَدُونَ لَآتٍ…
+Certainly, Allah is able to do all things and nothing ever escapes His power.
 
 ## Tafsir Ibn Kathir
 

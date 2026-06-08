@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "My Lord! نُودِيَ مِن شَاطِئِ الْوَادِ الْأَيْمَنِ فِي الْبُقْعَةِ الْمُبَارَ‌كَةِ مِنَ الشَّجَرَ‌ةِ أَن يَا مُوسَىٰ إِنِّي أَنَا اللَّـهُ رَ‌بُّ الْعَالَمِينَ He was called by a voice coming from a side of the right valley in the blessed ground, from the tree, saying" 0 Musa, I am Allah, the Lord of the worlds" - 28:30).
+I have killed a man among them, and I fear that they will kill me.
 
 ## Tafsir Ibn Kathir
 

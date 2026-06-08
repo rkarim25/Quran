@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And a great number of towns We destroyed. The statement: فَلَنَسْأَلَنَّ الَّذِينَ أُرْ‌سِلَ إِلَيْهِمْ وَلَنَسْأَلَنَّ الْمُرْ‌سَلِينَ ﴿6﴾ in verse 6 refers to the day of Qiyamah when people will be asked by Allah how did they receive the messengers and Books sent to them by Him - and the messengers will be asked if they did convey to their communities the message and injunctions Allah had sent them with.
+Therefore, all of you should make sure that those who are present do convey my message to those absent. To convey to them the message of the Holy Prophet ﷺ means that people of every time should continue the chain of conveying this message to the generations coming next, so that all children of Adam to be born right through the day of Qiyamah will have received this message.
 
 ## Tafsir Ibn Kathir
 

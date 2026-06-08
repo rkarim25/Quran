@@ -33,7 +33,7 @@ Allah the Exalted explained what He has revealed in the Scripture of Ibrahim and
 
 ## Tafsir Summary
 
-Did you observe him who turned away (from Islam)(33)And gave a little, then stopped (34)Is with him the knowledge of the Unseen so that he sees (35)Or is he not informed with what is in the Suhuf of Musa (36)And of Ibrah… أَعِندَهُ عِلْمُ الْغَيْبِ فَهُوَ يَرَ‌ىٰ (Does he have knowledge of the Unseen whereby he sees [ what he believes ]?...53:35) According to the story recounted in connection with the occasion of revelation, the verse means: The person who embraced Islam and later abandoned it because his friend assured him that he would bear the punishment in the Hereafter on his behalf, and spare him the pain.
+Does he have the knowledge of the Unseen, so that he is able to see that the chastisement he deserves for disbelief will be taken over for sure by his friend?
 
 ## Tafsir Ibn Kathir
 

@@ -119,7 +119,7 @@ Right from here comes a clear refutation of those who deny the authority of Hadi
 
 ## Tafsir Summary
 
-And he said: "Verily, I am going to my Lord. In verse 102, it was said: فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ قَالَ يَا بُنَيَّ إِنِّي أَرَ‌ىٰ فِي الْمَنَامِ أَنِّي أَذْبَحُكَ (Thereafter, when he reached an age in which he could work with him, he said, "0 my little son, I have seen in a dream that I am slaughtering you, so consider, what do you think?" ).
+Furthermore, the firstborn son has a special status that is not shared by subsequent children, so the command to sacrifice him is a more exquisite test.
 
 ## Tafsir Ibn Kathir
 

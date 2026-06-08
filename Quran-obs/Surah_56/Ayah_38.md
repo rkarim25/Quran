@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those on the right – how (fortunate) will be those on the right (27)(They will be) among Sidri Makhdud (28)And among Talh Mandud (29)And in shade Mamdud (30)And by water flowing constantly (31)And fruit in plenty (32… عُرُ‌بًا (...amorous to their husbands,...56:37).
+For those on the right.) This is the view of Ibn Jarir.
 
 ## Tafsir Ibn Kathir
 

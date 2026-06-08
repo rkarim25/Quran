@@ -111,7 +111,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is Allah Who has created seven heavens and of the earth the like thereof. اللَّـهُ الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ وَمِنَ الْأَرْ‌ضِ مِثْلَهُنَّ (Allah is the One who has created seven skies, and their like from earth...65:12).
+This verse indicates that there are seven earths as there are seven heavens, but the question is where these earths are and in what shape or form.
 
 ## Tafsir Ibn Kathir
 

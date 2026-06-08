@@ -79,7 +79,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And among His signs is this that He sends the winds as glad tidings, giving you a taste of His mercy, and that the ships may sail at His command, and that you may seek of His bounty, in order that you may be thankful (46)And indeed We did send Messengers before you to their own peoples. ظَهَرَ‌ الْفَسَادُ فِي الْبَرِّ‌ وَالْبَحْرِ‌ بِمَا كَسَبَتْ أَيْدِي النَّاسِ (Plight has appeared on land and sea because of what the hands of the people have earned 30:41).
+And among His signs is this that He sends the winds as glad tidings, giving you a taste of His mercy, and that the ships may sail at His command, and that you may seek of His bounty, in order that you may be thankful (46)And indeed We did send Messengers before you to their own peoples.
 
 ## Tafsir Ibn Kathir
 

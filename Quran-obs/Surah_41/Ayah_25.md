@@ -111,7 +111,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We have assigned for them intimate companions (in this world), who have made fair seeming to them, what was before them and what was behind them. وَمَا كُنتُمْ تَسْتَتِرُ‌ونَ أَن يَشْهَدَ عَلَيْكُمْ سَمْعُكُمْ (And you had not been hiding your selves [ when committing sins ] because of [ the apprehension ] that your ears and your eyes and your skins would bear witness against you,….41:22) This verse means that if anyone wants to commit a sin or a crime, he may hide it from others, but how can he hide it from his own limbs and organs?
+And the Word is justified against them as it was justified against those who were among the previous generations of Jinn and men that had passed away before them. Show us those among Jinn and men who led us astray, that we may crush them under our feet so that they become the lowest.
 
 ## Tafsir Ibn Kathir
 

@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "If you cease not, O Nuh you will surely be among those stoned. Nobility of a person depends on deeds and moral qualities and not on family or status They said, "Shall we believe in you while you are followed by the lowest people?" [ 111] He said, "I do not know about what they do.
+And verily your Lord, He is indeed the All-Mighty, the Most Merciful.) Hence, it was their ignorance to put the label of sordidness on his followers, because they did not know about their deeds and disposition.
 
 ## Tafsir Ibn Kathir
 

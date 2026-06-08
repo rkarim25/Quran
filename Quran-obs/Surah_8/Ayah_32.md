@@ -85,7 +85,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when Our Ayat are recited to them, they say: "We have heard (the Qur'an); if we wish we can say the like of this. O Allah, if this be indeed the truth [ revealed ] from You, then, rain down upon us stones from the heavens, or bring upon us a painful punishment - 32.
+If this (the Qur'an) is indeed the truth (revealed) from You, then rain down stones on us from the sky or bring on us a painful torment.
 
 ## Tafsir Ibn Kathir
 

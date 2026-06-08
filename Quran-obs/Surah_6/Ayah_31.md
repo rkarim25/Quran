@@ -115,7 +115,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They indeed are losers who denied their meeting with Allah, until all of a sudden, the Hour (signs of death) is upon them, and they say: "Alas for us that we gave no thought to it," while they will bear their burdens on their backs; and evil indeed are the burdens that they will bear (31)And the life of this world is nothing but play and amusement. About the sentence: وَهُمْ يَحْمِلُونَ أَوْزَارَ‌هُمْ (And they shall be carrying their burdens) in verse 31, it appears in Hadith narrations that, on the day of Qiyamah, the deeds of good people will become their ride while the evil deeds of evil people will be placed like a burden on their heads.
+But, none of them will say: Now, we have believed and now we shall be doing nothing but what is good - because they would have seen reality and seen it very clearly - that the phase of Akhirah, the Hereafter, is not the Venue of Deeds (Dar al-Amal), and that the soundness of 'Iman (faith) depends on its being ` bil-ghayb,' that is, without having the need to see what is Unseen.
 
 ## Tafsir Ibn Kathir
 

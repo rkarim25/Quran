@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nuh said: "My Lord! (Did you not see how Allah has created seven heavens one upon another, and has made the moon a light therein?
+They have disobeyed me, and followed one whose wealth and children give him no increase but loss.
 
 ## Tafsir Ibn Kathir
 

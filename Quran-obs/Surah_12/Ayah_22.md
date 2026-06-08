@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And he (the man) from Egypt who bought him, said to his wife: "Make his stay comfortable, maybe he will profit us or we shall adopt him as a son." Thus did We establish Yusuf in the land, that We might teach him the interpretation of events. In the first sentence of the second verse (22), it is said: وَلَمَّا بَلَغَ أَشُدَّهُ آتَيْنَاهُ حُكْمًا وَعِلْمًا (And when he reached at the prime of his age, We gave him wisdom and knowledge ...
+And Allah has full power and control over His affairs, but most of men know not (21)And when he [Yusuf] attained his full manhood, We gave him wisdom and knowledge (the prophethood), thus We reward the doers of good .
 
 ## Tafsir Ibn Kathir
 

@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And had your Lord willed, those on earth would have believed, all of them together. In the seventh verse (98), the heedless deniers of truth have been admonished for their failure to make the optimum use of the time of life allowed to them.
+So, will you then compel mankind, until they become believers (99)It is not for any person to believe, except by the leave of Allah, and He will put the Rijs on those who do not reason .
 
 ## Tafsir Ibn Kathir
 

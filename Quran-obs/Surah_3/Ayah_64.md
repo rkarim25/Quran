@@ -142,7 +142,7 @@ Muhammad bin Ishaq and other scholars said that the beginning of Surah Āl-'Imr�
 
 ## Tafsir Summary
 
-Say: "O people of the Scripture: Come to a word that is just between us and you, that we worship none but Allah the same, and that we associate no partners with Him, and that none of us shall take others as lords besides Allah." Then, if they turn away, say: "Bear witness that we are Muslims. This verse: تَعَالَوْا إِلَىٰ كَلِمَةٍ سَوَاءٍ بَيْنَنَا وَبَيْنَكُمْ unfolds an important principle of Tabligh تبلیغ (Preaching) and Da'wah دعوہ (Preaching Islam).
+"0 people of the Book, come to a word common between us and you that we worship none but Allah, that we associate nothing with Him and that some of us do not take some others as Lord instead of Allah." (Al-Bukhari) The statement, 'you be witness...' in the last sentence of the verse teaches us a lesson, that is, should someone refuse to accept the truth, even after it has been proved clearly, then the proper course is to re-state one's own belief and conclude the conversation…
 
 ## Tafsir Ibn Kathir
 

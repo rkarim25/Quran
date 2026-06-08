@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who accuse chaste believing women, who never even think of anything touching their chastity and are good believers – are cursed in this life and in the Hereafter, and for them will be a great torment (23)On… Surely, those who level a false charge against the chaste, naive and believing women are cursed in this world and the Hereafter, and for them there is a mighty punishment - 24:23.
+Verily, those who accuse chaste believing women, who never even think of anything touching their chastity and are good believers – are cursed in this life and in the Hereafter, and for them will be a great torment (23)On the Day when their tongues, their hands, and their legs will bear witness against them as to what they used to do (24)On that Day Allah will pay them the recompense of their deeds in full, and they will know that Allah, He is the Manifest Truth .
 
 ## Tafsir Ibn Kathir
 

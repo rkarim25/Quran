@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then when they are about to attain their term appointed, either take them back in a good manner or part with them in a good manner. وَيَرْ‌زُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى اللَّـهِ فَهُوَ حَسْبُهُ ۚ إِنَّ اللَّـهَ بَالِغُ أَمْرِ‌هِ ۚ قَدْ جَعَلَ اللَّـهُ لِكُلِّ شَيْءٍ قَدْرً‌ا whoever places his trust in Allah, He is sufficient for him.
+And He will provide him from where he never could imagine.) meaning, whoever has Taqwa of Allah in what He has commanded and avoids what He has forbidden, then Allah will make a way out for him from every difficulty and will provide for him from resources he never anticipated or thought about. And whosoever has Taqwa of Allah, He will make a way for him to get out (2)And He will provide him from where he never could imagine.
 
 ## Tafsir Ibn Kathir
 

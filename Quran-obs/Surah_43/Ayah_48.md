@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We did send Musa with Our Ayat to Fir'awn and his chiefs. Incidents related to Sayyidna Musa (علیہ السلام) have been stated by the Qur'an at many places repeatedly, and the incidents referred to in the present verses have been described in detail in Surah Al-A` raf.
+He sent him with mighty signs, such as his hand and his staff, other signs such as the flood, locusts, Qummal, frogs and blood, and the loss of their crops and lives.
 
 ## Tafsir Ibn Kathir
 

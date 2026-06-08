@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) the Day He will say: "Call those (so-called) partners of Mine whom you claimed." Then they will cry unto them, but they will not answer them, and We shall put Mawbiq between them (52)And the criminals shall see the Fire and apprehend that they are to fall therein. The progeny of Iblis, and his descendants and followers The word: ذُرِّ‌يَّتَهُ (dhurriyyatah) in verse 50 indicates that Iblis (Shaitan) has offspring, and a host of descendants and followers.
+And (remember) the Day He will say: "Call those (so-called) partners of Mine whom you claimed." Then they will cry unto them, but they will not answer them, and We shall put Mawbiq between them (52)And the criminals shall see the Fire and apprehend that they are to fall therein.
 
 ## Tafsir Ibn Kathir
 

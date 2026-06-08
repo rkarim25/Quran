@@ -116,7 +116,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to the Madyan people (We sent) their brother Shu'ayb. An account of Sayyidna Shu'aib and his people appears in the verses cited above.
+Worship Allah, you have no other god but Him, and give not short measure or weight. Besides being kafirs and mushriks, his people used to give less in weights and measures.
 
 ## Tafsir Ibn Kathir
 

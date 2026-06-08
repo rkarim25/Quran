@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, among those who followed his way was Ibrahim (83)When he came to his Lord with a Salim heart (84)When he said to his father and to his people: "What is it that which you worship? After having related the event concerning Sayyidna Nuh (علیہ السلام) the Qur'an mentions two events from the blessed life of Sayyidna Ibrahim ill.
+Both events highlight the great sacrifices Sayyidna Ibrahim offered for the sake of Allah alone.
 
 ## Tafsir Ibn Kathir
 

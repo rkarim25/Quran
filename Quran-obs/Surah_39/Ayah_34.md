@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, who does more wrong than one who utters a lie against Allah, and denies the truth when it comes to him! All deeds will be given against oppressions and infringement of rights, but one's 'iman (faith) will not be given After having reported all Hadith narrations cited above, it has been said in Tafsir Mazhari that the thing mentioned about giving the deeds of the oppressor in settlement of the rights of the oppressed means deeds other than 'iman (faith).
+Its reward too is limitless, that is, living in Jannah forever - even though, it may happen after having gone through the punishment of sins and staying in Jahannam for a certain period of time.
 
 ## Tafsir Ibn Kathir
 

@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-My Lord! The Day when neither wealth will be of any use (to any one) nor sons, [ 88] except to one who will come to Allah with a sound heart, [ 26:89] This verse has declared that wealth and children will not be of any help to a person on the Day of Judgment.
+Ibn Sirin said, "The clean heart knows that Allah is true, that the Hour will undoubtedly come and that Allah will resurrect those who are in the graves." Sa'id bin Al-Musayyib said, "The clean heart is the sound heart." This is the heart of the believer, for the heart of the disbeliever and the hypocrite is sick.
 
 ## Tafsir Ibn Kathir
 

@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 105:4] بِحِجَارَ‌ةٍ مِّن سِجِّيلٍ (...stones of baked clay.) The word sijjil is a compound Persian word, Arabiciszed, made up of two Persian words: sang [ stone ] and gil [ clay ].
+And He made them like 'Asf, Ma'kul.) This is one of the favors Allah did for the Quraysh.
 
 ## Tafsir Ibn Kathir
 

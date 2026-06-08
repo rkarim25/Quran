@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (all) the Most Beautiful Names belong to Allah, so call on Him by them, and leave the company of those who belie His Names. This verse has a relationship with the preceding verses in the sense that the people of Hell discussed above did not use their abilities in seeking the everlasting comforts of the Hereafter, and made themselves liable to eternal punishment.
+The second way of deviating from these names of Allah is to abandon certain name or names only because one thinks them to be inappropriate in certain situations.
 
 ## Tafsir Ibn Kathir
 

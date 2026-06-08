@@ -67,7 +67,7 @@ Out of the verses appearing above, the first three relate to a particular event.
 
 ## Tafsir Summary
 
-Verily, they were about to tempt you away from that which We have revealed to you, to fabricate something other than it against Us, and then they would certainly have taken you as an intimate frien (73)And had We not made you stand firm, you would nearly have inclined to them a little (74)In that case We would have made you taste a double portion in this life and a double portion after death. Out of the verses appearing above, the first three relate to a particular event.
+Verily, they were about to tempt you away from that which We have revealed to you, to fabricate something other than it against Us, and then they would certainly have taken you as an intimate frien (73)And had We not made you stand firm, you would nearly have inclined to them a little (74)In that case We would have made you taste a double portion in this life and a double portion after death.
 
 ## Tafsir Ibn Kathir
 

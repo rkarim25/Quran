@@ -71,7 +71,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who annoy Allah and His Messenger, Allah has cursed them in this world and in the Hereafter, and has prepared for them a humiliating torment (57)And those who annoy believing men and women undeservedly, the… In verses previous to this, some peculiarities and distinctions of the Holy Prophet ﷺ were mentioned as an adjunct to which the command to observe Hijab was revealed while some injunctions of Hijab will also appear later on.
+Verily, those who annoy Allah and His Messenger, Allah has cursed them in this world and in the Hereafter, and has prepared for them a humiliating torment (57)And those who annoy believing men and women undeservedly, they bear the crime of slander and plain sin .
 
 ## Tafsir Ibn Kathir
 

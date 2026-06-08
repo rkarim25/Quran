@@ -88,7 +88,7 @@ This verse was revealed in the background of a special event which has been repo
 
 ## Tafsir Summary
 
-And if We had ordered them (saying), "Kill yourselves (i.e. 1.Siddiq, lexically means 'very truthful'.
+Greater news than this is in the authentic Hadith collected in the Sahih and Musnad compilations, in Mutawatir form, narrated by several Companions that the Messenger of Allah ﷺ was asked about the person who loves a people, but his status is not close to theirs.
 
 ## Tafsir Ibn Kathir
 

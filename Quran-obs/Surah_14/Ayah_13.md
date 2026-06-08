@@ -80,7 +80,7 @@ And those who disbelieved, said to their Messengers: "Surely, we shall drive you
 
 ## Tafsir Summary
 
-And those who disbelieved, said to their Messengers: "Surely, we shall drive you out of our land, or you shall return to our religion." So their Lord revealed to them: "Truly, We shall destroy the wrongdoers. In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَكْفُرُ‌وا أَنتُمْ وَمَن فِي الْأَرْ‌ضِ جَمِيعًا (And Musa said, "If you are ungrateful, you and all those on earth, then, Allah is free of all needs, worthy of every praise.) " This was said by Sayyidna Musa (علیہ السلام) to his people.
+Then thereafter, verily, their return is to the flaming fire of Hell.)[37:64-68] Allah states that they will either be eating from the Zaqqum, drinking the Hamim, or being tormented in the Fire, again and again; we seek refuge with Allah from all of this.
 
 ## Tafsir Ibn Kathir
 

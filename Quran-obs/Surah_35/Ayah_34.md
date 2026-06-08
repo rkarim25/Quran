@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-'Adn (Gardens) will they enter, therein will they be adorned with bracelets of gold and pearls, and their garments therein will be of silk (33)And they will say: "All praise and thanks be to Allah, Who has removed from us (all) grief. A person who will use utensils of gold and silver and dresses of silk will remain deprived of these in Jannah Sayyidna Hudhaifah ؓ says that he heard the Holy Prophet ﷺ saying, 'Do not wear dresses of silk and do not dri…
+Verily, our Lord is indeed Oft-Forgiving, Most Ready to appreciate.
 
 ## Tafsir Ibn Kathir
 

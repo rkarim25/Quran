@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when it is said to them: "What is it that your Lord has revealed?" They say: "Tales of the men of old! It will be recalled that, after describing the blessings of Allah and proving that He was unique in the creation of the universe, the text made a pointed reference to how the polytheists chose to stick to their own ways of error.
+Evil indeed is that which they shall bear .
 
 ## Tafsir Ibn Kathir
 

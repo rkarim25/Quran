@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, set you your face to the straight and right religion, before there comes from Allah a Day which none can avert. ظَهَرَ‌ الْفَسَادُ فِي الْبَرِّ‌ وَالْبَحْرِ‌ بِمَا كَسَبَتْ أَيْدِي النَّاسِ (Plight has appeared on land and sea because of what the hands of the people have earned 30:41).
+Answer to a doubt It is recorded in authentic ahadith that the Holy Prophet ﷺ has said, ` this world is a prison for the believers and heaven for the infidels.' He then elaborated that the infidels get the reward of their good deeds in this world only in the form of wealth and health, whereas the reward of the believers is saved up to be awarded in the Hereafter.
 
 ## Tafsir Ibn Kathir
 

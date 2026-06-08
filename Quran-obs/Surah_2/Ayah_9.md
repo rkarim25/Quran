@@ -52,7 +52,7 @@ The revelations about the characteristics of the hypocrites were revealed in Al-
 
 ## Tafsir Summary
 
-And of mankind, there are some who say: "We believe in Allah and the Last Day" while in fact they do not believe (8)They try to deceive Allah and those who believe, while they only deceive themselves, and perceive (it) not (9) Nifaq means to show conformity - or agreement - and to conceal evil. Misbehaving Prophets (علیہم السلام) is to misbehave with Allah (4) These verses denounce the hypocrites for trying to be clever with Allah Himself and to deceive Him, although no one among them could probably have had such an intention or even thought of such a possibility.
+They think that by doing this, they will mislead Allah, or that the statements they utter will help them with Allah, and this is an indication of their total ignorance.
 
 ## Tafsir Ibn Kathir
 

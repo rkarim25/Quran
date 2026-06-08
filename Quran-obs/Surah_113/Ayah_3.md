@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Position of Ibn Mas'ud concerning Al-Mu'awwidhatayn Imam Ahmad recorded from Zirr bin Hubaysh that Ubayy bin Ka'b told him that Ibn Mas'ud did not record the Mu'awwidhatayn in his Mushaf (copy of the Qur'an). The word Sharr: ` Allamah Ibn Qayyim's Exposition Verse [ 113:2] مِن شَرِّ‌ مَا خَلَقَ (From the evil of everything He has created.) ` Allamah Ibn Qayyim expounds that the word sharr (evil) is employed in two different senses: [ 1] pain, loss, injury, trouble, grief, distress and affliction which affect man directly, and they are by themselves troubles and afflictions; and [ 2] the factors that cause losses, injuries and afflictions.
+The verb waqaba is derived from wuqub which means for utter darkness 'to overspread completely and intensely'.
 
 ## Tafsir Ibn Kathir
 

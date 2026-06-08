@@ -112,7 +112,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when We told you: "Verily, your Lord has encompassed mankind." And We made not the vision which We showed you but a trial for mankind, and (likewise) the accursed tree in the Qur'an. The word fitnah' (فِتنَہ) appearing in verse 60: وَمَا جَعَلْنَا الرُّ‌ؤْيَا الَّتِي أَرَ‌يْنَاكَ إِلَّا فِتْنَةً لِّلنَّاسِ (And We showed you the scene [ in the Night of Ascent - al-Mi` raj ] only to make it a test for the people) is used in the Arabic language to convey many different meanings.
+Allah has encompassed Mankind and made the Vision of His Prophet a Trial for Them Allah says to His Messenger ﷺ, encouraging him to convey the Message and informing him that He is protecting him from the people, that He is able to deal with them and that they are in His grasp and under His domination and control.
 
 ## Tafsir Ibn Kathir
 

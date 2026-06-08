@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Is that (Paradise) better entertainment or the tree of Zaqqum (62)Truly, We have made it (as) a trial for the wrongdoers (63)Verily, it is a tree that springs out of the bottom of Hell-fire (64)The shoots of its fruit st… Allah Ta'ala gave an answer in a single sentence by saying: إِنَّهَا شَجَرَ‌ةٌ تَخْرُ‌جُ فِي أَصْلِ الْجَحِيمِ (That is a tree that comes out in the bottom of Jahannam - 37:64).
+Thus, neither does it mean date and butter, nor the objection as to how could a tree survive in fire hold valid - particularly when that tree owes its very origin to the fire itself.
 
 ## Tafsir Ibn Kathir
 

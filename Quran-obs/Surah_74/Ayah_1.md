@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Surah Al-Muddththir is one of the Surahs that was sent down in very early days of the revelation.
+Therefore, some of the scholars considered this Surah to be the first one in order of revelation. Therefore, it is very likely that the two Surahs might have been revealed in connection with the same incident - when the Holy Prophet, whilst walking, heard a voice from the sky and saw Jibra'il Amin sitting on a chair between the sky and the earth, and then went to the house and wrapped himself in a mantle.
 
 ## Tafsir Ibn Kathir
 

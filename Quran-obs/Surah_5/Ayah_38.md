@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (as for) the male thief and the female thief, cut off their hands as a recompense for that which both committed, a punishment by way of example from Allah. The fourth verse (38) reverts to the subject of the punishment of crimes where the Islamic Legal Punishment of theft has been described.
+The hint given here is that the stern punishment of cutting hands is based on a consideration which is special and wise.
 
 ## Tafsir Ibn Kathir
 

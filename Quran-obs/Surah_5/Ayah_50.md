@@ -54,7 +54,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We have sent down to you the Book (this Qur'an) in truth, confirming the Scripture that came before it and Muhayminan over it (old Scriptures). The Qur'an: Custodian of Torah and Injil In the fifth (48) and the sixth (49) verse, the address is to the Holy Prophet ﷺ saying that to him Allah has revealed the Qur'an which confirms the Torah and Injil, Books previous to it, and is their custodian as well.
+And truly, most men are rebelliou (49)Do they then seek the judgement of (the days of) ignorance And who is better in judgement than Allah for a people who have firm faith .
 
 ## Tafsir Ibn Kathir
 

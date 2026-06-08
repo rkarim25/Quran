@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who believe and work deeds of righteousness, the Most Gracious will bestow love for them (96)So, We have made this easy in your own tongue, only that you may give glad tidings to those who have Taqwa, and warn with it the people that are Ludda (97)And how many a generation before them have We destroyed! "For them the Rahman (All-Merciful) will create love." - 19:96.
+This is something that is absolutely necessary and there is no avoiding it. This has been reported in authentic Hadiths of the Messenger of Allah ﷺ in various different ways.
 
 ## Tafsir Ibn Kathir
 

@@ -150,7 +150,7 @@ Verily, those who believe, then disbelieve, then believe (again), and (again) di
 
 ## Tafsir Summary
 
-Verily, those who believe, then disbelieve, then believe (again), and (again) disbelieve, and go on increasing in disbelief; Allah will not forgive them, nor guide them on the (right) way (137)Give to the hypocrites the tidings that there is for them a painful torment (138)Those who take disbelievers for friends instead of believers, do they seek honor with them? In the third verse (140): وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ (...
+That is, should some people sitting in a group be engaged in denying and deriding the verses revealed by Allah, then, as long as they stay occupied with this vain exercise, sitting in their company to participate or observe is also forbidden (haram).
 
 ## Tafsir Ibn Kathir
 

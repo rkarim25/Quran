@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Leave Me alone (to deal) with whom I created lonely (11)And then granted him resources in abundance (12)And children attending (13)And made life smooth and comfortable for him (14)After all that he desires that I should give more (15)Nay! The Annual Income of Walid Ibn Mughirah: Ten Million Guineas The disbeliever referred to here is Walid Ibn Mughirah.
+When Abu Bakr informed him about it, he left and went to the Quraysh saying, 'What a great thing this is that Ibn Abi Kabshah is saying.
 
 ## Tafsir Ibn Kathir
 

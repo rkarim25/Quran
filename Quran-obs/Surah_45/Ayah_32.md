@@ -99,7 +99,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, as for those who believed and did good deeds, their Lord will admit them to His mercy. وَتَرَ‌ىٰ كُلَّ أُمَّةٍ جَاثِيَةً ("And you will see every community kneeling down...45:28" ).
+And your abode is the Fire, and there is none to help you.
 
 ## Tafsir Ibn Kathir
 

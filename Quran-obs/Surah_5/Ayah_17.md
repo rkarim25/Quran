@@ -183,7 +183,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Surely, in disbelief are they who say that Allah is the Messiah, son of Maryam. Refuted here in this verse is only one saying of the Christians - which is the belief of a sect among them - that Sayyidna Masih (علیہ السلام) is God.
+Surely, in disbelief are they who say that Allah is the Messiah, son of Maryam.
 
 ## Tafsir Ibn Kathir
 

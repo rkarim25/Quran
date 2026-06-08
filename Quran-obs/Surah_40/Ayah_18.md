@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And warn them of the Day that is drawing near, when the hearts will be at the throats Kazimin. The word: بَارِ‌زُونَ (barizun) in verse 16: يَوْمَ هُم بَارِ‌زُونَ ۖ لَا يَخْفَىٰ عَلَى اللَّـهِ مِنْهُمْ (the day they will come in open view) refers to what would happen on the day of Resurrection when its land surface will be turned into a single level without any mountains, caves, trees or buildings that could obstruct the view.
+And warn them of the Day that is drawing near, when the hearts will be at the throats Kazimin.
 
 ## Tafsir Ibn Kathir
 

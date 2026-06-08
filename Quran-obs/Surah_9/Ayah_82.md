@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who stayed away (from Tabuk expedition) rejoiced in their staying behind the Messenger of Allah; they hated to strive and fight with their properties and their lives in the cause of Allah, and they said: "March not… After that it was said: فَلْيَضْحَكُوا قَلِيلًا (So, let them laugh a little, and weep a lot, being a reward of what they used to earn - 82).
+The wisdom behind the use of the imperative form given by them is that this is categorical and certain.
 
 ## Tafsir Ibn Kathir
 

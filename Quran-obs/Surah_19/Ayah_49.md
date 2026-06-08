@@ -68,7 +68,7 @@ In the sentence preceding this sentence Hadhrat Ibrahim (علیہ السلام) 
 
 ## Tafsir Summary
 
-So when he had turned away from them and from those whom they worshipped besides Allah, We gave him Ishaq and Ya'qub, and each one of them We made a Prophet (49)And We gave them of Our mercy, and We granted them Sidqin '… "So, when he went away from them and what they worshipped besides Allah, We blessed him with Ishaq and Ya` qub." - 19:49.
+So when he had turned away from them and from those whom they worshipped besides Allah, We gave him Ishaq and Ya'qub, and each one of them We made a Prophet (49)And We gave them of Our mercy, and We granted them Sidqin 'Aliyyan on the tongues .
 
 ## Tafsir Ibn Kathir
 

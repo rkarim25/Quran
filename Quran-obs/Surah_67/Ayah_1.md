@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Mulk Imam Ahmad recorded from Abu Hurayrah that Allah's Messenger ﷺ said, The Virtues of Surah Al-Mulk Prophetic Tradition has named this Surah as Waqiyah (protector) and Munjiyah (saviour) as well.
+Blessed be He in Whose Hand is the dominion; and He is Able to do all things.)(2.
 
 ## Tafsir Ibn Kathir
 

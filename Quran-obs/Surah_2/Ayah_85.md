@@ -214,7 +214,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when We took your covenant (saying): Shed not the blood of your (people), nor turn out your own people from their dwellings. This verse recounts how the Israelites broke the pledge they had willingly made.
+And if they come to you as captives, you ransom them, although their expulsion was forbidden to you. Then, (this) you ratified and (to this) you bore witness (84)After this, it is you who kill one another and drive out a party of you from their homes, assist (their enemies) against them, in sin and transgression.
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Has then your Lord preferred for you sons, and taken for Himself from among the angels daughters? After having described details of the injunctions appearing above, it was said in the last verse: كُلُّ ذَٰلِكَ كَانَ سَيِّئُهُ عِندَ رَ‌بِّكَ مَكْرُ‌وهًا (That which is evil, of all these, is detestable in the sight of your Lord - 38).
+Has then your Lord preferred for you sons, and taken for Himself from among the angels daughters? Refutation of Those Who claim that the Angels are Daughters of Allah Allah refutes the lying idolators who claim, may the curse of Allah be upon them, that the angels are the daughters of Allah.
 
 ## Tafsir Ibn Kathir
 

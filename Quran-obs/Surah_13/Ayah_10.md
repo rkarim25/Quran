@@ -68,7 +68,7 @@ Ibn Abi Hatim narrated that Ibrahim said, "Allah revealed to a Prophet from amon
 
 ## Tafsir Summary
 
-It is the same (to Him) whether any of you conceals his speech or declares it openly, whether he be hid by night or goes forth freely by day (10)For him (each person), there are angels in succession, before and behind him. Alike [ for Him ] is he, from among you, who speaks quietly and he who speaks aloud, and he who hides in the night and he who walks out in the day - 10.
+Similarly, there is the person hiding in the darkness of the night and there is another walking freely in open daylight.
 
 ## Tafsir Ibn Kathir
 

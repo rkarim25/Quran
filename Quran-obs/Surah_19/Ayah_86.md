@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Day We shall gather those with Taqwa unto the Most Gracious (Allah), like a delegation (85)And We shall drive the criminals to Hell, in a thirsty state (86)None shall have the power of intercession, but such a one as… Towards the Jahannam as herds towards water" - 19:86.
+The Day We shall gather those with Taqwa unto the Most Gracious (Allah), like a delegation (85)And We shall drive the criminals to Hell, in a thirsty state (86)None shall have the power of intercession, but such a one as has received permission (or promise) from the Most Gracious (Allah). A Wafd (delegation) is a group that arrives while riding and from it comes the word Wufud (arriving).
 
 ## Tafsir Ibn Kathir
 

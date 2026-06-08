@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We have created man, and We know what his self whispers to him. وَجَاءَتْ سَكْرَ‌ةُ الْمَوْتِ بِالْحَقِّ ۖ ذَٰلِكَ مَا كُنتَ مِنْهُ تَحِيدُ (And the daze of death has [ to ] come with truth.
+That is what you tried to escape...50:19) The phrase sakrat-ul-maut denotes the agony and the stupor or daze of death that a dying person experiences.
 
 ## Tafsir Ibn Kathir
 

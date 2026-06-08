@@ -150,7 +150,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"When your sister went and said: 'Shall I show you one who will nurse him' So We restored you to your mother, that she might cool her eyes and she should not grieve. إِذْ تَمْشِي أُخْتُكَ (When your sister was going - 20:40).
+So she said to them, "I can take you to a family where there is a woman whose milk, I hope, the child will accept and who will bring him up with great love and affection." Thereupon the servants held her on the suspicion that she was, perhaps, the mother or a close relation of the child and for that reason spoke with such a confidence that the proposed family is well-wisher of and sympathetic to this child.
 
 ## Tafsir Ibn Kathir
 

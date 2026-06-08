@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Whether We show you some of what We promise them (the torment), or We cause you to die – still unto Us is their return, and moreover Allah is Witness over what they used to do (46)And for every Ummah there is a Messenger… In verse 45, it was said: يَتَعَارَ‌فُونَ بَيْنَهُمْ (they will recognize each other), that is, when the dead will be raised from their graves, they will recognize each other as if not much time had passed when they met last.
+Whether We show you some of what We promise them (the torment), or We cause you to die – still unto Us is their return, and moreover Allah is Witness over what they used to do (46)And for every Ummah there is a Messenger; when their Messenger comes, the matter will be judged between them with justice, and they will not be wronged .
 
 ## Tafsir Ibn Kathir
 

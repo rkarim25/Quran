@@ -18,7 +18,7 @@ The reason for the revelation of this Surah has already been mentioned. 'Ikrimah
 
 ## Tafsir Summary
 
-The Reason for the Revelation of this Surah and its Virtues Imam Ahmad recorded from Ubayy bin Ka'b that the idolators said to the Prophet ﷺ, "O Muhammad! Verse [ 112:2] اللَّـهُ الصَّمَدُ (Allah is Besought of all, needing none) The word samad bears several literal senses.
+Therefore, the Qur'anic exegetical scholars have assigned different meanings to this verse.
 
 ## Tafsir Ibn Kathir
 

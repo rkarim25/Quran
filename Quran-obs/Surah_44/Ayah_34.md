@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, these people are saying (34)"There is nothing but our first death, and we shall not be resurrected. وَآتَيْنَاهُم مِّنَ الْآيَاتِ مَا فِيهِ بَلَاءٌ مُّبِينٌ And We gave them the clear signs in which there was a manifest blessing.
+They Tubba' were Arab descendants of Qahtan, just as these people (Quraysh) were Arab descendants of 'Adnan.
 
 ## Tafsir Ibn Kathir
 

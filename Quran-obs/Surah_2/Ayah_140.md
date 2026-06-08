@@ -132,7 +132,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say (O Muhammad ﷺ to the Jews and Christians), "Dispute you with us about Allah while He is our Lord and your Lord? These three verses bring to an end the section of the Surah in which certain claims of the Jews and the Christians have been refuted -- for example, their assertion that Sayyidna Ibrahim (علیہ السلام) (Abraham), Sayyidna…
+Their Book also stated that Ibrahim, Isma'il, Ishaq, Ya'qub and the tribes were neither Jews, nor Christians. The earlier verses have established that the religion of all these prophets was Islam, in the general sense of the term, but that the earlier Shari` ahs have now been abrogated, and the title of "Islam" been specially given to the religion of Sayyidna Muhammad ﷺ .
 
 ## Tafsir Ibn Kathir
 

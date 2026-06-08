@@ -62,7 +62,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We have sent down to you manifest Ayat and none disbelieve in them but Fasiqun (those who rebel against Allah's command)(99)Is it not (the case) that every time they make a covenant, some party among them throw it aside? In connection with these two verses, some commentators have reported certain Judaic traditions, which have given rise to a number of doubts, especially in the minds of Muslims with a Western orientation.
+There is a difference of opinion regarding this story.
 
 ## Tafsir Ibn Kathir
 

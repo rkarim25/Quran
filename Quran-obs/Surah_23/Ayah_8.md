@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Fifth Attribute of a good Muslim is that he should discharge his trust truly and faithfully.
+And indeed he fails who corrupts himself.)(91:9-10) It could be that both meanings are intended, purification of the soul and of one's wealth, because that is part of the purification of the soul, and the true believer is one who pays attention to both matters.
 
 ## Tafsir Ibn Kathir
 

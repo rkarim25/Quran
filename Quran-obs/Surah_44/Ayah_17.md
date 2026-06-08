@@ -46,7 +46,7 @@ According to another report, a man would look at the sky and he would see nothin
 
 ## Tafsir Summary
 
-And indeed We tried before them Fir'awn's people, when there came to them a noble Messenger (17)Saying: "Deliver to me the servants of Allah. دُخَانٍ مُّبِينٍ...visible smoke" in verse (10) embodies a prophecy and the Prophet ﷺ was asked to watch for the Day when the sky will bring forth a manifest smoke covering the people.
+Verily, they are a host to be drowned.) When Musa and the Children of Israel has crossed the sea, Musa wanted to strike it with his staff so that it would go back as it had been, and it would form a barrier between then and Fir'awn and prevent him from reaching them.
 
 ## Tafsir Ibn Kathir
 

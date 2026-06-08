@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the man who believed said: "O my people! The word: صرح (sarh) in verse 36: وَقَالَ فِرْ‌عَوْنُ يَا هَامَانُ ابْنِ لِي صَرْ‌حًا (And the Pharaoh said, "0 Haman, make a tower for me,) means a structure that rises high.
+Truly, this life of the world is nothing but an enjoyment,) meaning, it is insignificant and fleeting, and soon it will diminish and pass away.
 
 ## Tafsir Ibn Kathir
 

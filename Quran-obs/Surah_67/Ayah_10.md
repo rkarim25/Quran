@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And for those who disbelieve in their Lord is the torment of Hell, and worst indeed is that destination (6)When they are cast therein, they will hear its Shahiq while it is simmering (7)It almost bursts up with fury. وَلَقَدْ زَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَجَعَلْنَاهَا رُ‌جُومًا لِّلشَّيَاطِينِ (And We have decorated the nearest sky with lamps, and have made them devices to stone the devils, and We have prepared for them the punishment of Hell....67:5).
+The word 'masabih' (translated above as 'lamps' ) stands for 'stars'.
 
 ## Tafsir Ibn Kathir
 

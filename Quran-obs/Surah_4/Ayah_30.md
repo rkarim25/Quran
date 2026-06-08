@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! After that, the next verse (30) says: وَمَن يَفْعَلْ ذَٰلِكَ عُدْوَانًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارً‌ا .
+Eat not up your property among yourselves unjustly) some Muslims said, 'Allah has forbidden us from eating up each other's property unjustly, and food is our best property.
 
 ## Tafsir Ibn Kathir
 

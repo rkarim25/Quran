@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when the son of Maryam is quoted as an example, behold, your people cry aloud thereat (57)And say: "Are our gods better or is he?" They quoted not the above example except for argument. وَلِأُبَيِّنَ لَكُم بَعْضَ الَّذِي تَخْتَلِفُونَ فِيهِ (and to explain to you some of those matters in which you differ...43:63) Since Bana Isra'il were drowned in arrogance and obstinacy, they had tampered with the Divine laws.
+Muhammad claims that we and these gods that we worship are fuel for Hell.' 'Abdullah bin Az-Zab'ari said, 'By Allah, if I meet with him I will defeat him in argument. The misguided people who came after them took them as lords instead of Allah.
 
 ## Tafsir Ibn Kathir
 

@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Fala! Preceding verses put forward rational arguments, in support of life after death, by inviting attention to Allah's infinite power.
+Rather it is used at the beginning of an oath when the oath is a negation.
 
 ## Tafsir Ibn Kathir
 

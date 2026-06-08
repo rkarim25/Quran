@@ -158,7 +158,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(176. The previous verse (178) answered the question about disbelievers as to why they, being the detested ones in the sight of Allah, are in possession of all sort of wealth, property and other means of luxurious living?
+The Unseen when communicated to anyone is no Knowledge of the Unseen as such This verse tells us that Allah Almighty does not inform everyone about Unseen matters through the medium of revelation (Wahy).
 
 ## Tafsir Ibn Kathir
 

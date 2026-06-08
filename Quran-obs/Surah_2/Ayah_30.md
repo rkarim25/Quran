@@ -124,7 +124,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when your Lord said to the angels: "Verily, I am going to place (mankind) generations after generations on earth." They said: "Will You place therein those who will make mischief therein and shed blood, ـ while we glorify You with praises and thanks and sanctify You." He (Allah) said: "I know that which you do not know. The preceding verses recounted the general and some of the particular blessings of Allah, and asked man to recognize them and not to be ungrateful and disobedient to his Benefactor.
+This is the view of the majority of scholars.
 
 ## Tafsir Ibn Kathir
 

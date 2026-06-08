@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then when the heaven is rent asunder, and it becomes Wardah like Dihan (37)Then which of the blessings of your Lord will you both deny (38)So, on that Day he will not be questioned about his sin, (neither) human nor Jinn… يُرْ‌سَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ‌ وَنُحَاسٌ فَلَا تَنتَصِرَ‌انِ (A flame of fire and a smoke will be loosed against you, and you will not [ be able ] to defend...
+Then when the heaven is rent asunder, and it becomes Wardah like Dihan (37)Then which of the blessings of your Lord will you both deny (38)So, on that Day he will not be questioned about his sin, (neither) human nor Jinn (39)Then which of the blessings of your Lord will you both deny (40)The criminals will be known by their marks, and they will be seized by their foreheads and feet (41)Then which of the blessings of your Lord will you both deny (42)This is the Hell which the…
 
 ## Tafsir Ibn Kathir
 

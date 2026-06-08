@@ -128,7 +128,7 @@ Some people have tried to argue that the restrictive injunction is found in the 
 
 ## Tafsir Summary
 
-Say to the bedouins who lagged behind: "You shall be called to fight against a people given to great warfare, then you shall fight them, or they shall surrender. Injunctions and Related Issues The reference in this passage is to the incident which took place in the 7th year of Hijrah after the Holy Prophet ﷺ returned from Hudaibiyah.
+Verse [ 16] consoles and comforts the laggards that though, because of Allah's promise made to the participants of Hudaibiyah, they cannot be allowed to take part in the expedition of Khaibar, yet in the near future the sincere Muslims would be called upon to fight against much more powerful enemies. In other words, the fighting will carry on with that nation until they surrender - whether by embracing Islam or by submitting to the Islamic rule.
 
 ## Tafsir Ibn Kathir
 

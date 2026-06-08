@@ -119,7 +119,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when harm touches man, he invokes Us, lying on his side, or sitting or standing. An eloquent approach has been made in the second verse (12) to convince those who denied that Allah was One (Tauhid) and that there was a life to come ('Akhirah).
+And when harm touches man, he invokes Us, lying on his side, or sitting or standing. But, as soon as some major distress overtakes them, even these very people, disappointed by the entire range of their false gods they pinned their hopes on, do nothing but call Allah for help, not simply once but repeatedly, lying, sitting, standing.
 
 ## Tafsir Ibn Kathir
 

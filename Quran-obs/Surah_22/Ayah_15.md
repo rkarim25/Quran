@@ -99,7 +99,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Whoever thinks that Allah will not help him in this world and in the Hereafter, let him stretch out a rope to the ceiling and let him strangle himself. مَن كَانَ يَظُنُّ (If someone thinks - 22:15).
+Qurtubi also thinks that this is the best interpretation of this verse.
 
 ## Tafsir Ibn Kathir
 

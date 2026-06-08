@@ -34,7 +34,7 @@ Allah the Exalted explained what He has revealed in the Scripture of Ibrahim and
 
 ## Tafsir Summary
 
-Did you observe him who turned away (from Islam)(33)And gave a little, then stopped (34)Is with him the knowledge of the Unseen so that he sees (35)Or is he not informed with what is in the Suhuf of Musa (36)And of Ibrah… The second injunction is contained in verse [ 39[وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ (and that a man does not deserve but [ the reward of ] his own effort,....53:39) The summary of this verse is that just as no person shall carry the burden of sin of any other, so shall he benefit only from the good that he himself has done.
+They are that just as it is possible to pray for and proffer the reward of charity to another person, so likewise it is possible to recite the Qur'an and perform other voluntary prayers to pass the reward to another person who will receive it.
 
 ## Tafsir Ibn Kathir
 

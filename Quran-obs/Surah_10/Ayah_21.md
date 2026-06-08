@@ -99,7 +99,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when We let mankind taste mercy after some adversity has afflicted them, behold! The word: مَک (رح) ر (makr) used in verse 21: قُلِ اللَّـهُ أَسْرَ‌عُ مَكْرً‌ا (Say, "Allah is more swift in making plans" ) means secret plan or move that could be good or bad.
+Your rebellion (disobedience to Allah) is only against yourselves,) it is you yourselves that will taste the evil consequence of this transgression.
 
 ## Tafsir Ibn Kathir
 

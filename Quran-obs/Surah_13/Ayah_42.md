@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, those before them did devise plots, but all planning is Allah's. In verse وَإِن مَّا نُرِ‌يَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ (And if We show you some of what We promise them, or We take you back to Us), it is to comfort and assure the Holy Prophet ﷺ that he has been given the good news that the promises Allah has made to him that Islam will have the final victory and disbelief and disbelievers will be disgraced shall come to pass definitely.
+He knows what every person earns, and the disbelievers will know who gets the good end (final destination).
 
 ## Tafsir Ibn Kathir
 

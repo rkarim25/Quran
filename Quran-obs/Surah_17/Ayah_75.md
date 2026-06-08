@@ -60,7 +60,7 @@ Verily, they were about to tempt you away from that which We have revealed to yo
 
 ## Tafsir Summary
 
-Verily, they were about to tempt you away from that which We have revealed to you, to fabricate something other than it against Us, and then they would certainly have taken you as an intimate frien (73)And had We not made you stand firm, you would nearly have inclined to them a little (74)In that case We would have made you taste a double portion in this life and a double portion after death. After that, it was said: إِذًا لَّأَذَقْنَاكَ ضِعْفَ الْحَيَاةِ وَضِعْفَ الْمَمَاتِ.
+It means: Supposing the impossible, if you would have come closer to tilting towards their wrong move, your punishment would have been double in life and double after death (in the grave or the Hereafter, because even an insignificant error made by those close to Allah is considered to be very grave).
 
 ## Tafsir Ibn Kathir
 

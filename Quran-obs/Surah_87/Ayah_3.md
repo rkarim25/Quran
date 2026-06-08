@@ -22,7 +22,7 @@ This Surah was revealed in Makkah before the migration to Al-Madinah. The proof 
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-A'la This Surah was revealed in Makkah before the migration to Al-Madinah. Subtle and Profound Wisdom in the Creation of the Universe الَّذِي خَلَقَ فَسَوَّىٰ وَالَّذِي قَدَّرَ فَهَدَىٰ (who created [ everything ], then made [ it ] well, and who determined a measure [ for everything ], then guided [ it ]...87:2, 3).
+The third attribute is qaddara which is derived from taqdir and it means 'to determine; to measure; to balance; to design symmetrically; to decree/decide'.
 
 ## Tafsir Ibn Kathir
 

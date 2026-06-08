@@ -90,7 +90,7 @@ Commentary Mentioned in the first sentence of this verse is the particular bless
 
 ## Tafsir Summary
 
-And We sent not a Messenger except with the language of his people, in order that he might make (the Message) clear for them. Commentary Mentioned in the first sentence of this verse is the particular blessing and convenience granted by Allah Ta’ ala that whenever He has sent a messenger to a people, He has sent him speaking their language, in order that he would convey Divine injunctions to them in their language and usage whereby understanding these becomes easy on them.
+The Distinctions of Arabic First of all, the Arabic language is the official language of the heavens.
 
 ## Tafsir Ibn Kathir
 

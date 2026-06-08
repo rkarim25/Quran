@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the answer of his people was only that they said: "Drive them out of your town, these are indeed men who want to be pure (from sins)! In the third verse (82) Lut (علیہ السلام) in response to his word of advice has been put in a way that it shows that his people could not find a suitable rejoinder to what he had said.
+Allah indeed removed Prophet Lut safely from among them, and He destroyed them in their land in disgrace and humiliation. But, they were still adamant and started saying among themselves that these people seem to be self-righteous claiming a lot of purity for themselves.
 
 ## Tafsir Ibn Kathir
 

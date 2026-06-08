@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Had We sent down this Qur'an on a mountain, you would surely have seen it humbling itself and rent asunder by the fear of Allah. لَوْ أَنزَلْنَا هَـٰذَا الْقُرْ‌آنَ عَلَىٰ جَبَلٍ (Had We sent down this Qur'an to a mountain, ....59:21) This is a parable that Allah is using to illustrate the fact that if the Holy Qur'an were to be revealed on such strong, firm and unmovable mountain and endowed with intelligence like man, it would have submitted to the greatness of the Qur'an, nay, it would have crushed to pieces.
+This, it would appear, is a hypothetical example, that is 'if mountains had sense or intelligence.
 
 ## Tafsir Ibn Kathir
 

@@ -50,7 +50,7 @@ Say: "I am only a human being like you. It is revealed to me that your God is On
 
 ## Tafsir Summary
 
-Say: "I am only a human being like you. لَهُمْ أَجْرٌ‌ غَيْرُ‌ مَمْنُونٍ (For them there is a reward that will never be interrupted 41:8) The word mamnun used here means something interrupted.
+Some exegetes have explained the intention of the verse that if a Muslim, despite being regular in religious duties, could not perform them at any time due to illness, travel or some other reason, the reward for the good deeds is not cut off.
 
 ## Tafsir Ibn Kathir
 

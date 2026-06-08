@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, set you your face to the straight and right religion, before there comes from Allah a Day which none can avert. ظَهَرَ‌ الْفَسَادُ فِي الْبَرِّ‌ وَالْبَحْرِ‌ بِمَا كَسَبَتْ أَيْدِي النَّاسِ (Plight has appeared on land and sea because of what the hands of the people have earned 30:41).
+On that Day men shall be divided (43)Whosoever disbelieves will suffer from his disbelief, and whosoever does righteous good deeds, then such will prepare a good place for themselves (44)That He may reward those who believe and do righteous good deeds, out of His bounty.
 
 ## Tafsir Ibn Kathir
 

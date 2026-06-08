@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when the wife of 'Imran said: "O my Lord! In the religious code of earlier prophets, there was a method of worship through which a child, out of one's children, could be freed from all worldly services and devoted exclusively for Allah.
+Maryam's Birth The wife of 'Imran mentioned here is the mother of Maryam, and her name is Hannah bint Faqudh.
 
 ## Tafsir Ibn Kathir
 

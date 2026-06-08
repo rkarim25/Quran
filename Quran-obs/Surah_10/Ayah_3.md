@@ -132,7 +132,7 @@ Ad-Darawardi narrated from Sa'd bin Ishaq bin Ka'b bin 'Ujrah that he said: "Whe
 
 ## Tafsir Summary
 
-"Surely, your Lord is Allah Who created the heavens and the earth in six Days and then rose over (Istawa) the Throne, arranging the affair [of all things]. In the third verse, the Oneness of Allah (Tauhid) has been proved through the undeniable reality that there is no associate or partner to Allah Ta` ala when it comes to the creation of the heavens and the earth and then to the management and operation of this entire universal system.
+So, up to this point, the third verse has told us that Allah Ta` ala created the heavens and the earth and the whole system of the universe in six days, and ` after that He took a position on the Throne'. It was said in this verse that Allah Ta'ala has created the heavens and the earth in six days.
 
 ## Tafsir Ibn Kathir
 

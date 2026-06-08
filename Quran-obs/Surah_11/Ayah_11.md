@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if We give man a taste of mercy from Us, and then withdraw it from him, verily, he is despairing, ungrateful (9)But if We let him taste good (favor) after evil (poverty and harm) has touched him, he is sure to say: "… In order to make such perfect models of humanity distinct from those having common human temperament, it was said in the third verse (11): إِلَّا الَّذِينَ صَبَرُ‌وا وَعَمِلُوا الصَّالِحَاتِ (except those who are patient and do good deeds).
+Allah does not decree any matter for the believer except that it is good for him.
 
 ## Tafsir Ibn Kathir
 

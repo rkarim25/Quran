@@ -116,7 +116,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Musa said to his people: "Call to mind Allah's favor to you, when He delivered you from Fir'awn's people who were afflicting you with horrible torment, and were slaughtering your sons and letting your women live; and in it was a tremendous trial from your Lord. . Please see footnote on the first verse of this Surah.
+Allah delivered them from all this torment, and this is a great bounty, indeed.
 
 ## Tafsir Ibn Kathir
 

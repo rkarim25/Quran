@@ -115,7 +115,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(So it was) till when Our command came and the oven gushed forth (water like fountains from the earth). From the fifth verse (40) begins the description of the coming of the flood, related instructions and events as they unfolded.
+The oven that bakes bread is also a tan-nur.
 
 ## Tafsir Ibn Kathir
 

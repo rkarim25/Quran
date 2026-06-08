@@ -92,7 +92,7 @@ And thus We have revealed to you a Qur'an in Arabic that you may warn the Mother
 
 ## Tafsir Summary
 
-And thus We have revealed to you a Qur'an in Arabic that you may warn the Mother of the Towns and all around it, and warn (them) of the Day of Assembling of which there is no doubt, a party will be in Paradise and a party in the blazing Fire (7)And if Allah had willed, He could have made them one nation, but He admits whom He wills to His mercy. لِّتُنذِرَ‌ أُمَّ الْقُرَ‌ىٰ (So that you may warn the town that is the mother of all towns) - Umm-ul- Qura (mother of all the towns) means the origin and foundation of all habitations and cities which is Makkah.
+And thus We have revealed to you a Qur'an in Arabic that you may warn the Mother of the Towns and all around it, and warn (them) of the Day of Assembling of which there is no doubt, a party will be in Paradise and a party in the blazing Fire (7)And if Allah had willed, He could have made them one nation, but He admits whom He wills to His mercy.
 
 ## Tafsir Ibn Kathir
 

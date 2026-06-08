@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He it is Who created the heavens and the earth in six Days and then rose (Istawa) over the Throne. وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ (...And He is with you wherever you are, ...57:4) No man is able to comprehend the essential nature of Allah's company or His being with us, though it is absolutely true that He is with us, because no man can exist or do any work without it.
+And to Allah return all the matters (5)He merges night into day, and merges day into night, and He has full knowledge of whatsoever is in the breasts . And Allah is the All-Seer of what you do.) meaning, He is watching over you and witnessing your deeds wherever you may be, on land or at sea, during the night or the day, at home or in open areas or deserts.
 
 ## Tafsir Ibn Kathir
 

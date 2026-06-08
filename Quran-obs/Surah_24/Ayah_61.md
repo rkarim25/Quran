@@ -331,7 +331,7 @@ In the previous verses it was enjoined to seek permission before entering into a
 
 ## Tafsir Summary
 
-There is no restriction on the blind, nor any restriction on the lame, nor any restriction on the sick, nor on yourselves, if you eat from your houses, or the houses of your fathers, or the houses of your mothers, or the… Some injunctions and social etiquettes after the entry in the house In the previous verses it was enjoined to seek permission before entering into anyone's house.
+There is no restriction on the blind, nor any restriction on the lame, nor any restriction on the sick, nor on yourselves, if you eat from your houses, or the houses of your fathers, or the houses of your mothers, or the houses of your brothers, or the houses of your sisters, or the houses of your father's brothers, or the houses of your father's sisters, or the houses of your mother's brothers, or the houses of your mother's sisters, or (from that) whereof you hold keys, or…
 
 ## Tafsir Ibn Kathir
 

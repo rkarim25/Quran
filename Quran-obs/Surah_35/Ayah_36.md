@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But those who disbelieve, for them will be the fire of Hell. In verse 35: الَّذِي أَحَلَّنَا دَارَ‌ الْمُقَامَةِ مِن فَضْلِهِ لَا يَمَسُّنَا فِيهَا نَصَبٌ وَلَا يَمَسُّنَا فِيهَا لُغُوبٌ (who, out of His grace, has made us land at a home of eternal living where neither we are touched by weariness.
+Neither will it have a complete killing effect on them so that they die nor shall its torment be lightened for them.
 
 ## Tafsir Ibn Kathir
 

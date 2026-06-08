@@ -32,7 +32,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We sent Nuh to his people, and he stayed among them a thousand years less fifty years; so the Deluge overtook them while they were wrongdoers (14)Then We saved him and the Companions of the Boat, and made it a… It was described in the previous verses that infidels keep on their opposition and afflictions on Muslims as a routine.
+Therefore, you too should not care about the troubles afflicted by the infidels, and should keep on performing firmly your prophetic obligations. It was so because he was the very first prophet who had to confront with the infidelity and association of others with Allah Ta’ ala.
 
 ## Tafsir Ibn Kathir
 

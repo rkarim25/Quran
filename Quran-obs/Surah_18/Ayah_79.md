@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"As for the boat, it belonged to poor people working in the sea. In the first verse, it was said: أَمَّا السَّفِينَةُ فَكَانَتْ لِمَسَاكِينَ (As for the boat, it belonged to some poor people - 79).
+Interpretations of why the Ship was damaged This is an explanation of what Musa found so hard to understand, and the appearence of which he condemed.
 
 ## Tafsir Ibn Kathir
 

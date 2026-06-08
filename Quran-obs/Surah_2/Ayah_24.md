@@ -67,7 +67,7 @@ Allah also challenged the disbelievers in the Ayat that were revealed in Al-Madi
 
 ## Tafsir Summary
 
-And if you (Arab pagans, Jews, and Christians) are in doubt concerning that which We have sent down (i.e. The Guidance which the Holy Qur'an provides to man rests on two basic principles - Tauhid توحید (the Oneness of God) and Risalah (Prophethood).
+'Prepared' means, it is 'kept' and will surely touch those who disbelieve in Allah and His Messenger ﷺ.
 
 ## Tafsir Ibn Kathir
 

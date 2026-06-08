@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And O my people! In verse 65, it was said: تَمَتَّعُوا فِي دَارِ‌كُمْ ثَلَاثَةَ أَيَّامٍ "Enjoy yourselves in your homes for three days [ only ]." That is, when these people killed the she-camel associated with the miracle in flagrant contravention of the Di-vine command, then, something serious happened.
+Verily, your Lord – He is the All-Strong, the All-Mighty (66)And As-Sayhah (awful cry) overtook the wrongdoers, so they lay (dead), prostrate in their homes (67)As if they had never lived there.
 
 ## Tafsir Ibn Kathir
 

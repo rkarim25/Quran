@@ -75,7 +75,7 @@ Therefore, Allah says that the Fitnah that he fell into because of not joining t
 
 ## Tafsir Summary
 
-And among them is he who says: "Grant me leave and put me not into trial." Surely, they have fallen into trial. In the seventh verse (49), after citing a particular excuse made by a noted hypocrite called Jadd ibn Qays, a comment has been made which shows how astray he had gone.
+And among them is he who says: "Grant me leave and put me not into trial." Surely, they have fallen into trial.
 
 ## Tafsir Ibn Kathir
 

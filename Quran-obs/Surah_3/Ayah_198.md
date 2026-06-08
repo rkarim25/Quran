@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Let not the free disposal (and affluence) of the disbelievers throughout the land deceive you (196)A brief enjoyment; then their ultimate abode is Hell; and worst indeed is that place for rest (197)But, for those who hav… Mentioned in verses previous to this were some prayers made by good believers.
+There is no other alternative in this case unless Allah Almighty is especially generous for someone and puts it in the heart of the wronged party that they should relent and forgive.
 
 ## Tafsir Ibn Kathir
 

@@ -133,7 +133,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(176. Anomalies in the conduct of Jews were mentioned at the beginning of Surah 'Al-` Imran (21-25).
+And let not those who are stingy with that which Allah has bestowed on them of His bounty think that it is good for them.
 
 ## Tafsir Ibn Kathir
 

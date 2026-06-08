@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "Disguise her throne for her that we may see whether she will be guided, or she will be one of those not guided. قَالَ الَّذِي عِندَهُ عِلْمٌ مِّنَ الْكِتَابِ (Said the one who had the knowledge of the book - 27:40).
+What is meant here is that Sulayman built a huge, lofty palace of glass for this queen, in order to show her the greatness of his authority and power.
 
 ## Tafsir Ibn Kathir
 

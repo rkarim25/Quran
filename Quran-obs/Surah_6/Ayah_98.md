@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is He Who has created you from a single person, and has given you a place of residing and a place of storage. In the fourth verse (98), it was said: وَهُوَ الَّذِي أَنشَأَكُم مِّن نَّفْسٍ وَاحِدَةٍ فَمُسْتَقَرٌّ‌ وَمُسْتَوْدَعٌ(And He is the One who created you from one person, then, you have a place to dwell, and a place to sojourn).
+So, "mustawda"' will denote a place where something is placed temporarily for a few days.
 
 ## Tafsir Ibn Kathir
 

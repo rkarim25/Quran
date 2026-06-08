@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat At-Tariq An-Nasa'i recorded that Jabir said, "Mu'adh lead the Maghrib prayer and he recited Al-Baqarah and An-Nisa'. إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ (Surely He is Powerful to bring him back...86:8) The word raj means 'to bring back'.
+The word tubla literally means 'to test/examine' and sara'ir means 'secrets'. On the Day of Reckoning, the secrets will be tested and examined and laid bare.
 
 ## Tafsir Ibn Kathir
 

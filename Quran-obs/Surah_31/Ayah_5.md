@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The words: يُؤْتُونَ الزَّكَاةَ (pay Zakah) in Verse 4 carry the injunction of Zakah, although the verse is Makki.
+Those who perform the Salah and give Zakah and they have faith in the Hereafter with certainty.)(5. Such are on guidance from their Lord, and such are the successful.) At the beginning of Surat Al-Baqarah we discussed the letters such as those that appear at the beginning of this Surah.
 
 ## Tafsir Ibn Kathir
 

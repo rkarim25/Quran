@@ -16,7 +16,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَتَرَ‌ىٰ كُلَّ أُمَّةٍ جَاثِيَةً ("And you will see every community kneeling down...45:28" ).
+Allah then describes Himself as being of unimaginable glory, possessing ultimate wisdom in His statements and actions. It is also possible that the word hull is not used in the sense of "every" but in the sense of ` most' - as is used occasionally.
 
 ## Tafsir Ibn Kathir
 

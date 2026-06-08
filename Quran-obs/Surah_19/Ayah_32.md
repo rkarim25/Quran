@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then she brought him to her people, carrying him. "and (He has made me) good to my mother." - 19:32.
+Here only the mother is mentioned and not both the parents.
 
 ## Tafsir Ibn Kathir
 

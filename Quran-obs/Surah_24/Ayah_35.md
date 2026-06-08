@@ -208,7 +208,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah is the Light of the heavens and the earth. Imam Ghazzali (رح) has given the definition of Nur (light) as الظاھر بنفسہٖ وا؛مظھر لغیرہ that is something which is bright and manifest on its own, and makes other things bright and evident.
+The heart of the believer in its purity and clarity is likened to a lamp in transparent and jewel-like glass, and the Qur'an and Shari'ah by which it is guided are likened to good, pure, shining oil in which there is no impurity or deviation.
 
 ## Tafsir Ibn Kathir
 

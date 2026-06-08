@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or were you witnesses when death approached Ya'qub (Jacob)? Verse 134 tells us that the good deeds of one's forefathers shall not suffice one, if one has not been performing good deeds oneself, and that, similarly, one shall not have to suffer for the misdeeds of one's forefathers, if one's own account is clean.
+This Ayah is used as evidence that the grandfather is called a father and inherits, rather than the brothers (i.e.
 
 ## Tafsir Ibn Kathir
 

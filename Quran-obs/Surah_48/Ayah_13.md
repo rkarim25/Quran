@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those of the bedouins who lagged behind will say to you: "Our possessions and our families occupied us, so ask forgiveness for us." They say with their tongues what is not in their hearts. Reference in this passage is to those Bedouin tribes who were invited by Allah's Messenger ﷺ to join the party of 1400 Muslims who were marching to Hudaibiyah but on one pretext or another, they requested to be excused.
+They asked the Messenger of Allah ﷺ to invoke Allah to forgive them, not because they had faith in the Prophet ﷺ and his invocation, but to show off and pretend. Nay, but Allah is Aware of what you do (11)Nay, but you thought that the Messenger and the believers would never return to their families, and that was made fair seeming in your hearts, and you did think an evil thought and you became a Bura.
 
 ## Tafsir Ibn Kathir
 

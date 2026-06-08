@@ -188,7 +188,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-If you help him (Muhammad ﷺ) not (it does not matter), for Allah did indeed help him when the disbelievers drove him out, the second of the two; when they were both in the cave, he said to his companion: "Be not sad (or… In the third verse (40), by citing the event of the Hijrah of the Holy Prophet, it has been stressed that the Rasul of Allah has no need to depend on any human help and support.
+If you help him (Muhammad ﷺ) not (it does not matter), for Allah did indeed help him when the disbelievers drove him out, the second of the two; when they were both in the cave, he said to his companion: "Be not sad (or afraid), surely, Allah is with us." Then Allah sent down His Sakinah (calmness, tranquillity, peace) upon him, and strengthened him with forces (angels) which you saw not, and made the word of those who disbelieved the lowermost, while the Word of Allah that b…
 
 ## Tafsir Ibn Kathir
 

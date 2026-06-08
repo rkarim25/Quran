@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if they belie you, say: "For me are my deeds and for you are your deeds! In the concluding verse (32), it was said: فَذَٰلِكُمُ اللَّـهُ رَ‌بُّكُمُ الْحَقُّ ۖ فَمَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ (So, that is Allah, your Lord in truth.
+In other words, once it stands proved that Allah Ta` ala is the only true and rightful object of worship, it is terribly senseless to abandon this truth and allow yourself to be diverted elsewhere.
 
 ## Tafsir Ibn Kathir
 

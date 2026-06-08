@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We sent down from the sky water in measure, and We gave it lodging in the earth, and verily, We are able to take it away (18)Then We brought forth for you therewith gardens of date palms and grapes, wherein is much fruit for you, and whereof you eat (19)And a tree that springs forth from Tur Sinai, that grows oil, and relish for the eaters (20)And verily, in the cattle there is indeed a lesson for you. وَشَجَرَ‌ةً تَخْرُ‌جُ مِن طُورِ‌ سَيْنَاءَ (And [ We produced ] a tree [ of olive ] that comes out from the [ mount ] Tur of Sinai.
+Mount Sinai is the same as Tur Sinin, and it is the mountain on which Allah spoke to Musa bin 'Imran, peace be upon him, and in the surrounding mountains there are olive trees.
 
 ## Tafsir Ibn Kathir
 

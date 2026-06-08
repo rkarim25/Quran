@@ -56,7 +56,7 @@ Whether these Ayat were revealed about Ubayy bin Khalaf or Al-'As bin Wa'il, or 
 
 ## Tafsir Summary
 
-Does not man see that We have created him from Nutfah. In verse 78, it was said: ضَرَ‌بَ لَنَا مَثَلًا (And he has set up an argument about Us).
+He says: "Who will give life to these bones after they are rotten and have become dust?") meaning, he thinks it unlikely that Allah, the Almighty Who created the heavens and the earth, will re-create these bodies and dry bones.
 
 ## Tafsir Ibn Kathir
 

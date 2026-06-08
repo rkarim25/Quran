@@ -56,7 +56,7 @@ The word أَهْلِيكُمْ (your families) comprehends wife, children and s
 
 ## Tafsir Summary
 
-O you who believe! قُوا أَنفُسَكُمْ وَأَهْلِيكُمْ (0 those who believe, save yourselves and your families from a fire...66:6).
+You will only be recompensed for what you have been doing....66:7) After advising the general body of believers, the current verse turns attention to the non-believers who are asked not to try to make excuses, because they will not be accepted.
 
 ## Tafsir Ibn Kathir
 

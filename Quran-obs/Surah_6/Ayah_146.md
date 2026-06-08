@@ -128,7 +128,7 @@ Tafsir authority, Ibn Kathir, in his Tafsir and Ibn al-Arabi in Ahkam al-Qur'an 
 
 ## Tafsir Summary
 
-And unto those who are Jews, We forbade every (animal) with undivided hoof, and We forbade them the fat of the ox and the sheep except what adheres to their backs or their Hawaya, or is mixed up with a bone. Mentioned in the previous verses was how astray the disbelievers of Makkah had gone when they had taken their self-carved, lifeless, insensate idols as partners in the Divinity of Allah as they made them share in animals created by Him and in many other blessings which were bestowed on them.
+And unto those who are Jews, We forbade every (animal) with undivided hoof, and We forbade them the fat of the ox and the sheep except what adheres to their backs or their Hawaya, or is mixed up with a bone.
 
 ## Tafsir Ibn Kathir
 

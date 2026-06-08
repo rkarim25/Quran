@@ -125,7 +125,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O mankind! Illustrating the futility of polytheism and idol-worship by citing a parable Generally the words ضُرِبَ مَثَلُ are used for quoting an incident as an example.
+If they wanted to recover that, they would not be able to, even though the fly is the weakest and most insignificant of Allah's creatures.
 
 ## Tafsir Ibn Kathir
 

@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, verily you and those whom you worshi (161)Cannot lead astray (162)Except those who are predestined to burn in Hell (163)And there is not one of us (angels) but has his known place (164)And verily, we (angels), we stand in rows (165)And verily, we (angels) indeed are those who glorify (166)And indeed they used to say (167)"If we had a reminder as had the men of old, (168)"We would have indeed been the chosen servants of Allah! In verse 158, it was said: وَجَعَلُوا بَيْنَهُ وَبَيْنَ الْجِنَّةِ نَسَبًا (And they have made up between Him and the Jinns some kinship).
+Who then does more wrong than one who rejects the Ayat of Allah and turns away therefrom?
 
 ## Tafsir Ibn Kathir
 

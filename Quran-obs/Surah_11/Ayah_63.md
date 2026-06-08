@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O Salih! As part of this event, the people of Sayyidna Salih (علیہ السلام) have been reported to have said to him: قَدْ كُنتَ فِينَا مَرْ‌جُوًّا قَبْلَ هَـٰذَا ( O Salih, we had hopes in you before this - 62).
+Tell me, if I have a clear proof from my Lord, and there has come to me a mercy from Him, who then can help me against Allah, if I were to disobey Him?
 
 ## Tafsir Ibn Kathir
 

@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Truly, this, your Ummah is one, and I am your Lord, therefore worship Me (92)But they have broken up and differed in their religion among themselves. So far the Surah deals with the stories of the prophets and several basic as well as minor principles relevant to those stories.
+Truly, this, your Ummah is one, and I am your Lord, therefore worship Me (92)But they have broken up and differed in their religion among themselves.
 
 ## Tafsir Ibn Kathir
 

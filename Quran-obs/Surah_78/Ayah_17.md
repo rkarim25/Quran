@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, the Day of Decision is a fixed time (17)The Day when the Trumpet will be blown, and you shall come forth in crowds (18)And the heaven shall be opened, and it will become as gates (19)And the mountains shall be mo… إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا (Surely the Day of Decision is an appointed time...78:17).
+Verily, the Day of Decision is a fixed time (17)The Day when the Trumpet will be blown, and you shall come forth in crowds (18)And the heaven shall be opened, and it will become as gates (19)And the mountains shall be moved away from their places and they will be as if they were a mirage (20)Truly, Hell is a place of ambus (21)A dwelling place for the Taghun (22)They will abide therein Ahqab (23)Nothing cool shall they taste therein, nor any drink (24)Except Hamim, and Ghassa…
 
 ## Tafsir Ibn Kathir
 

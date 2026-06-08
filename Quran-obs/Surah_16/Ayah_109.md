@@ -40,7 +40,7 @@ Those so arrested were Sayyidna ` Ammar ؓ ' and his parents, Sayyidna Yasir and
 
 ## Tafsir Summary
 
-Whoever disbelieves in Allah after his belief - except one who was forced while his heart is at peace with the faith - but whoever opens their breasts to disbelief, on them is wrath from Allah, and theirs will be a terrible torment (106)That is because they preferred the life of this world over that of the Hereafter. From the first verse (106) comes the religious ruling about a person who has been compelled to utter a word of infidelity (kufr) under the threat that he would be killed if he did not do that.
+And they are the heedless (108)No doubt, in the Hereafter they will be the losers . Whoever disbelieves in Allah after his belief - except one who was forced while his heart is at peace with the faith - but whoever opens their breasts to disbelief, on them is wrath from Allah, and theirs will be a terrible torment (106)That is because they preferred the life of this world over that of the Hereafter.
 
 ## Tafsir Ibn Kathir
 

@@ -114,7 +114,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Whether you hide what is in your breasts or reveal it, Allah knows it, and He knows what is in the heavens and what is in the earth. In these verses, Muslims have been instructed not to take disbelievers as their friends.
+And Allah warns you against Himself and Allah is full of kindness with the servants .
 
 ## Tafsir Ibn Kathir
 

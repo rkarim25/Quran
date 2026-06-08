@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then he cried unto her from below her, saying: "Grieve not: your Lord has provided a Sariy under you. سَرِیّاً The literal meaning of the word سَرِی appearing in verse 24 is a small canal.
+This is why 'Amr bin Maymun said, "Nothing is better for the woman confined in childbed than dried dates and fresh dates." Then he recited this noble Ayah.
 
 ## Tafsir Ibn Kathir
 

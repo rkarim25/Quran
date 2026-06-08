@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when they advanced to meet Jalut (Goliath) and his forces, they invoked: "Our Lord! Verse 249: قَالَ إِنَّ اللَّـهَ مُبْتَلِيكُم بِنَهَرٍ (He said: Allah is going to test you by a river).
+Pour forth on us patience, and set firm our feet and make us victorious over the disbelieving people.
 
 ## Tafsir Ibn Kathir
 

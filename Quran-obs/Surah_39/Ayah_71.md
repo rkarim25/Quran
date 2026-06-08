@@ -150,7 +150,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who disbelieved will be driven to Hell in groups till when they reach it, the gates thereof will be opened. In verse 69, it was said: وَجِيءَ بِالنَّبِيِّينَ وَالشُّهَدَاءِ (and the prophets and the witnesses will be brought,) It means that, at the time of reckoning on the plains of Resurrection, present there will be all prophets as well as all other witnesses.
+And those who disbelieved will be driven to Hell in groups till when they reach it, the gates thereof will be opened.
 
 ## Tafsir Ibn Kathir
 

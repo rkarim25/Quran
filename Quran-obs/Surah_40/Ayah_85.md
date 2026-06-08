@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have they not traveled through the earth and seen what was the end of those before them? In verse 85, it was said: فَلَمْ يَكُ يَنفَعُهُمْ إِيمَانُهُمْ (But, their profession of faith was not [ competent ] to benefit them, once they had seen Our punishment), that is, it is after seeing the punishment that these people are confessing to the true faith, but a declaration of faith at this late hour is not acceptable and trustworthy with Allah.
+That is because when the Messengers came to them with clear signs and decisive evidence, they did not pay any attention to them. The Lesson to be learned from what happened to Those Who Came before Allah tells us about the nations who rejected their Messengers in ancient times.
 
 ## Tafsir Ibn Kathir
 

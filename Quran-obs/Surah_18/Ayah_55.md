@@ -87,7 +87,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And nothing prevents men from believing, while the guidance has come to them, and from asking forgiveness of their Lord, except that the ways of the ancients be repeated with them, or the torment be brought to them face to face (55)And We send not the Messengers except as bearers of good news and warners. The statement: وَكَانَ الْإِنسَانُ أَكْثَرَ‌ شَيْءٍ جَدَلًا (And man is the most quarrel-some of all things - 54) has been testified through a Hadith narrated by Sayyidna 'Anas ؓ in which the Holy Prophet ﷺ has been reported to have said, "On the day of Qiyamah, a man from among the disbelievers will be brought forth.
+And nothing prevents men from believing, while the guidance has come to them, and from asking forgiveness of their Lord, except that the ways of the ancients be repeated with them, or the torment be brought to them face to face (55)And We send not the Messengers except as bearers of good news and warners. Nothing stopped them from following the truth except their demand to witness with their own eyes the punishment which they were being warned about.
 
 ## Tafsir Ibn Kathir
 

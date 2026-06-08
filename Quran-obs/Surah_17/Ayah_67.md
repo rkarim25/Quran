@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when harm touches you upon the sea, those that you call upon vanish from you except Him. (2) Secondly, he had said if he was given respite till the day of Qiyamah, he will mislead the entire progeny of 'Adam, except a few of them.
+When Harm befalls Them, the Disbelievers do not remember anyone except Allah Allah tells us that when harm befalls people, they call on Him, turning to Him and sincerely beseeching Him.
 
 ## Tafsir Ibn Kathir
 

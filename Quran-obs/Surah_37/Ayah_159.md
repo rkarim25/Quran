@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Now ask them: "Are there (only) daughters for your Lord and sons for them? In verse 158, it was said: وَجَعَلُوا بَيْنَهُ وَبَيْنَ الْجِنَّةِ نَسَبًا (And they have made up between Him and the Jinns some kinship).
+How do you decide (154)Will you not then remember (155)Or is there for you a plain authority (156)Then bring your Book if you are truthful (157)And they have invented a kinship between Him and the Jinn, but the Jinn know well that they have indeed to appear (before Him)(158)Glorified be Allah!
 
 ## Tafsir Ibn Kathir
 

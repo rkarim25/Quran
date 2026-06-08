@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Before them denied – the people of Nuh; and 'Ad; and Fir'awn the man of stakes (12)And Thamud, and the people of Lut, and the Dwellers of Al-Aykah; such were the Confederates (13)Not one of them but denied the Messengers; therefore My torment was justified (14)And these only wait for a single Sayhah there will be no pause or ending thereto (15)They say: "Our Lord! أُولَـٰئِكَ الْأَحْزَابُ (They were the [ strong ] groups.
+It was also said that they asked for their share of Paradise to be hastened, if it really existed, so that they might have their share in this world; they said this because they thought it unlikely to exist and they disbelieved in it.
 
 ## Tafsir Ibn Kathir
 

@@ -32,7 +32,7 @@ In this Surah too, the proof of the basic objectives of Qur'an, and Islam, such 
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Beneficent, the Most Merciful (1. Surah Yunus is among the Makki Surahs.
+Therefore, we too should not go about digging into it - because, it is certain that had the knowing of their meaning been expedient for us, our master, who was mercy personified for the whole world, would have never hesitated in telling us about it.
 
 ## Tafsir Ibn Kathir
 

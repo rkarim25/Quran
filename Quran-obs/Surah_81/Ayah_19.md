@@ -29,7 +29,7 @@ And these Ayat have only been mentioned in Surat An-Najm, which was revealed aft
 
 ## Tafsir Summary
 
-But nay! إِنَّهُ لَقَوْلُ رَ‌سُولٍ كَرِ‌يمٍ ذِي قُوَّةٍ عِندَ ذِي الْعَرْ‌شِ مَكِينٍ (it [ the Qur'an ] is surely the word of a noble messenger [ Jibra'il ], the one possessing power and a high status with the Lord of the Throne...81:19-20).
+Many of the scholars of the fundamentals of language have said that the word 'As'as is used to mean advancing and retreating, with both meanings sharing the same word.
 
 ## Tafsir Ibn Kathir
 

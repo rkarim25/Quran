@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the servants of the Most Gracious are those who walk on the earth Hawna, and when the foolish address them they say; "Salama. وَالَّذِينَ يَقُولُونَ رَ‌بَّنَا اصْرِ‌فْ عَنَّا عَذَابَ جَهَنَّمَ (and those who say, "Our Lord, avert from us the punishment of Jahannam - 25:65).
+This does not mean that they should walk like sick people, making a show of their humility, for the leader of the sons of Adam (the Prophet) used to walk as if he was coming downhill, and as if the earth were folded up beneath him.
 
 ## Tafsir Ibn Kathir
 

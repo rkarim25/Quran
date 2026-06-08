@@ -56,7 +56,7 @@ The correct view is that the Ayah is general in meaning, and includes the Mu'adh
 
 ## Tafsir Summary
 
-And who is better in speech than he who invites to Allah, and does righteous deeds, and says: "I am one of the Muslims. وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ (And good and evil are not equal - 34).
+And if an evil whisper comes to you from Shaytan, then seek refuge with Allah. Repel (the evil) with one which is better, then verily he, between whom and you there was enmity, (will become) as though he was a close friend (34)But none is granted it except those who are patient – and none is granted it except the owner of the great portion in this world (35)And if an evil whisper from Shaytan tries to turn you away, then seek refuge in Allah.
 
 ## Tafsir Ibn Kathir
 

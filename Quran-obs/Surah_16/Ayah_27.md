@@ -95,7 +95,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those before them indeed plotted, but Allah struck at the foundation of their building, the roof fell down upon them from above them, and the torment overtook them from directions they did not perceive (26)Then, on the Day of Resurrection, He will disgrace them and will say: "Where are My (so-called) partners, those over which you caused so much discord?" Those who have been given the knowledge will say: "Indeed it is a Day of disgrace and misery for the disbelievers.
+Then, after five verses (30), the same question has been addressed to believers who fear Allah which is followed by their answer, and where a promise of reward for it has been mentioned.
 
 ## Tafsir Ibn Kathir
 

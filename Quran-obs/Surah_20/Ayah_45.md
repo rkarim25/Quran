@@ -54,7 +54,7 @@ Both of them said: "Our Lord! Verily, we fear lest he should hasten to punish us
 
 ## Tafsir Summary
 
-Both of them said: "Our Lord! The words إِنَّنَا نَخَافُ (We are afraid) signifies that here Sayyidna Musa (علیہ السلام) and Sayyidna Harun (علیہ السلام) expressed twofold fear before Allah.
+The second point is that fear of fearsome things is a natural instinct and even prophets are not free from it in spite of their complete faith in the promises of Allah.
 
 ## Tafsir Ibn Kathir
 

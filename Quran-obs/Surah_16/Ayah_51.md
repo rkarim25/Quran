@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Allah said "Do not worship two gods. Even the Punishment of the World is Mercy in Disguise In the verses cited above, after having mentioned various punishments which could seize disbelievers within this world, it was said in the end: فَإِنَّ رَ‌بَّكُمْ لَرَ‌ءُوفٌ رَّ‌حِيمٌ (So, indeed your Lord is Very Kind Very Merciful).
+Allah Alone is Deserving of Worship Allah tells us that there is no god but He, and that no one else should be worshipped except Him, alone, without partners, for He is the Sovereign, Creator, and Lord of all things.
 
 ## Tafsir Ibn Kathir
 

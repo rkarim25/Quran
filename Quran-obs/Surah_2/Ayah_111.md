@@ -85,7 +85,7 @@ Verse 112 also announces the reward of those who act upon these principles -- on
 
 ## Tafsir Summary
 
-And they say, "None shall enter Paradise unless he be a Jew or a Christian." These are their own desires. The Jews and the Christians were hostile not only to the Muslims, but also to each other.
+The differences between the Jews and the Christians In so far as these verses deal with the claims of the Jews and the Christians, the point of the argument is this:- Having laid down the two principles the acceptance of which makes one worthy of Paradise, the Holy Qur'an suggests that they should now try to find out who is really acting upon them.
 
 ## Tafsir Ibn Kathir
 

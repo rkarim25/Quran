@@ -106,7 +106,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-All food was lawful to the Children of Israel, except what Isra'il made unlawful for himself before the Tawrah was revealed. In the verses appearing above, there is a continuity of arguments against positions taken by the people of the Book.
+However, a vow or pledge which renders things unlawful is, in reality, an oath which is not permissible in our Shari` ah.
 
 ## Tafsir Ibn Kathir
 

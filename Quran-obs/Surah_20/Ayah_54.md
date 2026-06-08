@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Who has made earth for you like a bed; and has opened ways for you therein, and has sent down water (rain) from the sky. The next verse (54) says إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّأُولِي النُّهَىٰ (Surely, in that there are signs for the people of understanding.
+And We have brought forth with it various kinds of vegetation (53)Eat and pasture your cattle; verily, in this are Ayat for men of understanding (54)Thereof We created you, and into it We shall return you, and from it We shall bring you out once again (55)And indeed We showed him (Fir'awn) all Our Ayat, but he denied and refused .
 
 ## Tafsir Ibn Kathir
 

@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَالسَّابِحَاتِ سَبْحًا (and by those who float [ in the atmosphere ] swiftly...
+Here it signifies 'to glide along swiftly as in the sea where there is no mountain barrier'.
 
 ## Tafsir Ibn Kathir
 

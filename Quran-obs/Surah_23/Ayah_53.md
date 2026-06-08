@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Messengers! فَتَقَطَّعُوا أَمْرَهُم بَيْنَهُمْ زُبُرًا But they split up ways from one another (dividing themselves) into factions - 23:53).
+It should be noted that the difference of opinion among the mujtahidin (competent Shari` ah Scholars) in some minor issues is not included in this division which is condemned in this verse, because these differences do not cause a division of the religion, nor do the people maintaining these differences become separate sects.
 
 ## Tafsir Ibn Kathir
 

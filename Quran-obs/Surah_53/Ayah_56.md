@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This is a warner from the warners of old (56)The Azifah draws near (57)None besides Allah can avert it (58)Do you then wonder at this recitation (59)And you laugh at it and weep not (60)While you are Sāmidūn (61)So fall… هَـٰذَا نَذِيرٌ‌ مِّنَ النُّذُرِ‌ الْأُولَىٰ (This [ Holy Prophet ] is a warner from the (genus of the) previous warners...53:56).
+The warner is eager to convey his knowledge of the imminence of a calamity, so that it does not befall those to whom he is a warner.
 
 ## Tafsir Ibn Kathir
 

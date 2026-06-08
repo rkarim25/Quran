@@ -65,7 +65,7 @@ At this stage, Imam al-Baghawi says in his Tafsir that Zabur is a book of Allah 
 
 ## Tafsir Summary
 
-Say: "Call upon those - besides Him whom you pretend. That Zabur (the Psalms) has been mentioned particularly in the last sentence of verse 55: وَآتَيْنَا دَاوُودَ زَبُورً‌ا ، (And We gave Dawud the Zabur) has been done, perhaps, because Zabur reports that the Holy Prophet ﷺ will be a ruler along with being a messenger and prophet.
+They have neither the power to remove the adversity from you nor even to shift (it from you to another person).
 
 ## Tafsir Ibn Kathir
 

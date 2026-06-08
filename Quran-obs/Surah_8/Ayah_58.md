@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-If you fear treachery from any people, throw back (their covenant) to them (so as to be) on equal terms. The Option to Cancel a Peace Treaty In the fifth verse (58), the Holy Prophet has been told about an important article which forms part of the law of war and peace.
+The Holy Prophet ﷺ has said: When a ceasefire agreement or a peace pact with a people comes into effect, it is necessary that no knot be opened or tied against their provisions.
 
 ## Tafsir Ibn Kathir
 

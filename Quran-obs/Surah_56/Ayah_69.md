@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do you not see what you sow (63)Is it you that make it grow, or are We the Grower (64)Were it Our will, We could crumble it to dry pieces, and you would be Tafakkahun (65)(Saying:) "We are indeed Mughramun! was lost in the secondary or extrinsic causes and lost sight of his Real Creator and Master, the Primary or Intrinsic Cause of his creation.
+Did you send it down from the clouds, or did We send it?' The answer is obvious: 'Allah'.
 
 ## Tafsir Ibn Kathir
 

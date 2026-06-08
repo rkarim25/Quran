@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And you will see the angels surrounding the Throne from all round, glorifying the praises of their Lord. In verse 74, it was said: نَتَبَوَّأُ مِنَ الْجَنَّةِ حَيْثُ نَشَاءُ (we can dwell anywhere we wish in Jannah).
+And you will see the angels surrounding the Throne from all round, glorifying the praises of their Lord. Then He tells us of His angels who surround His majestic Throne, glorifying the praises of their Lord, extolling and magnifying Him, and declaring Him to be above any shortcomings or injustice whatsoever, for He has passed judgement in the fairest and most just manner.
 
 ## Tafsir Ibn Kathir
 

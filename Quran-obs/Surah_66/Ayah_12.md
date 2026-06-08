@@ -83,7 +83,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Allah has set forth an example for those who believe: the wife of Fir'awn, when she said: "My Lord! وَصَدَّقَتْ بِكَلِمَاتِ رَ‌بِّهَا وَكُتُبِهِ (and she testified to the truth of the words of her Lord and His books, and she was one of the devout....66:12) The phrase 'Words of her Lord' refers to scriptures that were revealed to the Holy Prophets ﷺ .
+Allah commanded him to blow into a gap of her garment and that breath went into her womb through her private part; this is how 'Isa was conceived.
 
 ## Tafsir Ibn Kathir
 

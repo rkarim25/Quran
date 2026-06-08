@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed Nuh invoked Us, and We are the best of those who answer (75)And We rescued him and his family from the great distress (76)And, his progeny, them We made the survivors (77)And left for him (a goodly remembrance) among the later generation (78)"Salam (peace!) be upon Nuh among the all creatures! In verses 78 and 79, it was said: وَتَرَ‌كْنَا عَلَيْهِ فِي الْآخِرِ‌ينَ سَلَامٌ عَلَىٰ نُوحٍ فِي الْعَالَمِينَ (And We left for him (a word of praise) among the later people, (that is): Salam be on Nuh (علیہ السلام) among [ the people on all the worlds.).
+What is meant here by Romans is the original Romans, i.e., the Greeks who claimed descent from Ruma (Roma) the son of Liti, the son of Yunan, the son of Yafith, the son of Nuh, peace be upon him.
 
 ## Tafsir Ibn Kathir
 

@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"O two companions of the prison! After having made his call to truth, Sayyidna Yusuf (علیہ السلام) turned to the dreams mentioned by two of his prison mates declaring that one of the two of them will get his release, return to his job and keep serving wine to his master.
+As for one of you, he will pour out wine for his master to drink; and as for the other, he will be crucified and birds will eat from his head. As for the other, the crime against him will stand proved and he will be crucified and birds will eat from his head.
 
 ## Tafsir Ibn Kathir
 

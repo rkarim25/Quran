@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, wait with patience for the decision of your Lord, and be not like the Companion of the Fish when he cried out (to Us) while he was Makzum (48)Had not a grace from his Lord reached him, he would indeed have been (left… 1-This is the literal translation of the Qur'anic phrase used here.
+Some other scholars, however, suggest that 'wilderness' in this verse refers to the plain of Hashr, and the verse means that if Allah had not accepted his taubah, he would have been cast into the plain of Hashr in a reproachable state. For He (Allah) is the One Whose execution of divine decree cannot be resisted.
 
 ## Tafsir Ibn Kathir
 

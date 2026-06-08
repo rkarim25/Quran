@@ -79,7 +79,7 @@ This is the view preferred in Tafsir al-Qurtubi, Ahkam al-Qur'an by al-Jassas, T
 
 ## Tafsir Summary
 
-Take Sadaqah from their wealth in order to purify them and sanctify them with it, and 'Şalli' for them. The imperative: خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً : "Take out of their wealth a Sadaqah (obligatory alms) " in the second verse (103) has its background.
+But, the injunction of the verse of prayer is universal.
 
 ## Tafsir Ibn Kathir
 

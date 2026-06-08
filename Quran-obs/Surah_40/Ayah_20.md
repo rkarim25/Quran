@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And warn them of the Day that is drawing near, when the hearts will be at the throats Kazimin. In verse 19, it was said: يَعْلَمُ خَائِنَةَ الْأَعْيُنِ (He knows the treachery of the eyes), in other words, eyes that betray the trust.
+There will be no friend, nor an intercessor for the wrongdoers, who could be given heed to (18)Allah knows the fraud of the eyes, and all that the breasts conceal (19)And Allah judges with truth, while those to whom they invoke besides Him, cannot judge anything.
 
 ## Tafsir Ibn Kathir
 

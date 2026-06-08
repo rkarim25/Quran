@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Yusuf's brethren came and they entered unto him, and he recognized them, but they recognized him not (58)And when he furnished them with their provisions, he said: "Bring me a brother of yours from your father. Still, if you do not bring him to me, then you deserve no measure from me [ because it will prove that you have lied to me, and thus ], nor shall you come even close to me.
+They were ten, because Ya'qub peace be upon him kept his son and Yusuf's brother Binyamin with him. However, they did not recognize him because they got rid of him when he was still young, and sold him to a caravan of travelers while unaware of their destination.
 
 ## Tafsir Ibn Kathir
 

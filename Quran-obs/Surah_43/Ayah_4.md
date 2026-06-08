@@ -41,7 +41,7 @@ This Surah is Makki, although Muqatil رحمۃ اللہ علیہ has said that t
 
 ## Tafsir Summary
 
-(1. This Surah is Makki, although Muqatil رحمۃ اللہ علیہ has said that the verse وَاسْأَلْ مَنْ أَرْ‌سَلْنَا (43:45) is Madam, and according to another view, this Surah was revealed in Heaven during Lailat-ul-Mi` raj (the Night of Ascention) (Ruh u1-Ma’ ani) - Allah knows best.
+Verily, We have made it a Qur'an in Arabic that you may be able to understand.)(4.
 
 ## Tafsir Ibn Kathir
 

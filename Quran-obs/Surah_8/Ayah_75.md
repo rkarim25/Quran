@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who believed, and emigrated and strove hard in the cause of Allah (Al-Jihad), as well as those who gave (them) asylum and aid – these are the believers in truth, for them is forgiveness and a generous provision (74)And those who believed afterwards, and emigrated and strove hard along with you, they are of you. Described in the fourth verse (75) is the injunction concerning different categories of Muhajirin (مُھَاجِرین ، emigrants).
+Therefore, the only practical way of distributing inheritance over relatives can be that, by giving close relatives precedence over those distant, the benchmark of the near should be used to exclude the distant. But kindred by blood are nearer to one another (regarding inheritance) in the decree ordained by Allah.
 
 ## Tafsir Ibn Kathir
 

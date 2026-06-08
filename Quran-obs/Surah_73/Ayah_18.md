@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And be patient with what they say, and keep away from them in a good way (10)And leave Me alone to deal with the deniers, those who are in possession of good things of life. يَوْمَ تَرْجُفُ الْاَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيْبًا مَّهِيْلًا (on the Day when the earth and the mountains will quake, and the mountains will turn into a slipping heap of sand.
+The Command to be Patient with the Harms of the Disbelievers and a Discussion of what They will receive because of it Allah commands His Messenger ﷺ to be patient with what the foolish who reject him among his people say. This means, 'you should beware of denying this Messenger, lest you be afflicted by that which befell Fir'awn.
 
 ## Tafsir Ibn Kathir
 

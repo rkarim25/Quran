@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who disbelieve will be addressed: "Indeed, Allah's aversion was greater towards you than your aversion toward yourselves, when you were called to the Faith but you used to refuse. In verse 7, it was said: الَّذِينَ يَحْمِلُونَ الْعَرْ‌شَ وَمَنْ حَوْلَهُ (Those who are bearing the Throne and those who are around it).
+Imam Ahmad recorded that after ending every prayer, 'Abdullah bin Az-Zubayr used to say: "There is no (true) God except Allah Alone with no partner or associate, His is the dominion and praise, for He is able to do all things; there is no strength and no power except with Allah; there is no (true) God except Allah and we worship none but Him; to Him belongs the blessings and the virtue and good praise; there is no (true) God except Allah, we worship Him in all sincerity even…
 
 ## Tafsir Ibn Kathir
 

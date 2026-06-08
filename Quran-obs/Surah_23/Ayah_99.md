@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Until, when death comes to one of them, he says: "My Lord! رَ‌بِّ ارْ‌جِعُونِ (My Lord, send me back - 23:99) When death approaches an infidel and he senses the punishment that awaits him on the Day of Judgment, he wishes for a return to this world, so that by performing good deeds he may escape the punishment which he has richly deserved.
+The Disbelievers' Hope When Death Approaches Allah tells us about what happens when death approaches one of the disbelievers or one of those who have been negligent with the commands of Allah.He tells us what he says and how he asks to come back to this world,so that he can certify whatever wrong he commited during his life time.
 
 ## Tafsir Ibn Kathir
 

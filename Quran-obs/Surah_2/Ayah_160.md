@@ -59,7 +59,7 @@ These narrations tell us that in the view of the blessed Companions, the Hadith 
 
 ## Tafsir Summary
 
-Verily, those who conceal the clear proofs, evidences and the guidance, which We have sent down, after We have made it clear for the People in the Book, they are the ones cursed by Allah and cursed by the cursers (159)Except those who repent and do righteous deeds, and openly declare (the truth which they concealed). As part of the debated issue of Qiblah قبلہ several verses earlier, the text has pointed out how the people of the Book went about concealing the truth concerning the prophethood of the Holy Prophet for whom the Ka'bah کعبہ was appointed as the Qiblah قبلہ .
+And I am the One Who accepts repentance, the Most Merciful.) This Ayah also indicates that those who used to call to innovation, or even disbelief, and repent to Allah, then Allah will forgive them. Verily, those who conceal the clear proofs, evidences and the guidance, which We have sent down, after We have made it clear for the People in the Book, they are the ones cursed by Allah and cursed by the cursers (159)Except those who repent and do righteous deeds, and openly decl…
 
 ## Tafsir Ibn Kathir
 

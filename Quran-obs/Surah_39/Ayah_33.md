@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, who does more wrong than one who utters a lie against Allah, and denies the truth when it comes to him! All deeds will be given against oppressions and infringement of rights, but one's 'iman (faith) will not be given After having reported all Hadith narrations cited above, it has been said in Tafsir Mazhari that the thing mentioned about giving the deeds of the oppressor in settlement of the rights of the oppressed means deeds other than 'iman (faith).
+Is there not in Hell an abode for the disbelievers (32)And he who has brought the truth and (those who) believed therein, they are those who have Taqwa (33)They shall have all that they will desire with their Lord.
 
 ## Tafsir Ibn Kathir
 

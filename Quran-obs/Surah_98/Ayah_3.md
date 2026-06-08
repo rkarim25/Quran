@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Messenger of Allah (ﷺ) recited this Surah to Ubayy Imam Ahmad recorded from Anas bin Malik that the Messenger of Allah ﷺ said to Ubayy bin Ka'b, Verses [ 2-3] يَتْلُو صُحُفًا مُّطَهَّرَ‌ةً فِيهَا كُتُبٌ قَيِّمَةٌ (a messenger from Allah who recites the purified scrolls containing [ right and ] straight writings.
+The word suhuf is the plural of sahifah and it refers to 'a leaf or a page of a book or some leaves of paper on which something is written'. The pronoun -ha in the phrase refers to suhuf, and the two statements would mean: 'reciting purified written pages in which are true written pages'.
 
 ## Tafsir Ibn Kathir
 

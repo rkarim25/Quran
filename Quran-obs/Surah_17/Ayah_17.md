@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And how many generations have We destroyed after Nuh! Previous verses said that it is the customary practice of Allah Ta` ala that he does not send punishment upon a people until the commandments of Allah reach them through the blessed prophets which they still refuse to obey.
+And sufficient is your Lord as All-Knower and Seer of the sins of His servants .
 
 ## Tafsir Ibn Kathir
 

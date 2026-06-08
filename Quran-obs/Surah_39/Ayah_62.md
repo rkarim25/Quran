@@ -49,7 +49,7 @@ Allah is the Creator of all things, and He is the Trustee over all things (62)To
 
 ## Tafsir Summary
 
-Allah is the Creator of all things, and He is the Trustee over all things (62)To Him belong the Maqalid of the heavens and the earth. In verse 59, it was said: بَلَىٰ قَدْ جَاءَتْكَ آيَاتِي فَكَذَّبْتَ بِهَا (Why not?
+Allah is the Creator and Controller, and associating others in worship with Him cancels out Good Deeds Allah tells us that He is the Creator, Lord, Sovereign and Controller of all things; everything is subject to His dominion, power and guardianship.
 
 ## Tafsir Ibn Kathir
 

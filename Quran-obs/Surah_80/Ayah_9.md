@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. لَعَلَّهُ يَزَّكَّىٰ أَوْ يَذَّكَّرُ‌ فَتَنفَعَهُ الذِّكْرَ‌ىٰ (May be, [ if you had attended him properly,] he would have attained purity, or have taken to the advice, and the advice would have benefited him....80:3-4).
+But as for him who came to you running,)(9. This interpretation is based on taking the word 'dhikra' in the sense of remembrance of Allah'.
 
 ## Tafsir Ibn Kathir
 

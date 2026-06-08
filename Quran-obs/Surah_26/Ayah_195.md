@@ -24,7 +24,7 @@ Here Allah tells us about the Book which He revealed to His servant and Messenge
 
 ## Tafsir Summary
 
-And truly, this is a revelation from the Lord of all that exists (192)Which the trustworthy Ruh (Jibril) has brought down (193)Upon your heart that you may be (one) of the warners (194)In the plain Arabic language (195)… Qur’ an is the name of the collection of its words and meanings It is brought by the Trusted Spirit down [ 193] to your heart, so that you become one of the warners [ 194] in plain Arabic language.
+Printing, calling or trading of something in the name of Qur'an, without the Arabic text of the Qur'an, is not permitted.
 
 ## Tafsir Ibn Kathir
 

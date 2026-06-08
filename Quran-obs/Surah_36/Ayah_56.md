@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, the dwellers of the Paradise, that Day, will be busy with joyful things (55)They and their wives will be in pleasant shade, reclining on thrones (56)They will have therein fruits and all that they ask for (57)(It… Next, in verse 56, it was said: هُمْ وَأَزْوَاجُهُمْ They and their spouses...).
+Verily, the dwellers of the Paradise, that Day, will be busy with joyful things (55)They and their wives will be in pleasant shade, reclining on thrones (56)They will have therein fruits and all that they ask for (57)(It will be said to them): "Salam (Peace!)" – a Word from the Lord, Most Merciful .
 
 ## Tafsir Ibn Kathir
 

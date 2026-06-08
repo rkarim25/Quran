@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We granted to Musa and Harun the criterion, and a shining light and a Reminder for those who have Taqwa (48)Those who fear their Lord in the unseen, and they are afraid of the Hour (49)And this is a blessed Re… الْفُرْ‌قَانَ وَضِيَاءً وَذِكْرً‌ا لِّلْمُتَّقِينَ (Criterion and light and an advice for the God-fearing - 21:48) The three attributes which belong to Torah are فُرْ‌قَانَ (criterion) which differentiates between right and wrong second is 4 ' (light) which provides light and manifestation of truth to hearts, and the third is ذِکر (advice) which is a source of guidance for the people.
+And indeed We granted to Musa and Harun the criterion, and a shining light and a Reminder for those who have Taqwa (48)Those who fear their Lord in the unseen, and they are afraid of the Hour (49)And this is a blessed Reminder which We have sent down; will you then deny it .
 
 ## Tafsir Ibn Kathir
 

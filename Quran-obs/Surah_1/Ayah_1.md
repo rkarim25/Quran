@@ -28,7 +28,7 @@ Al-Fatihah was revealed in Makkah as Ibn 'Abbas, Qatadah and Abu Al-'Aliyah stat
 
 ## Tafsir Summary
 
-The Meaning of Al Fatiha & its Various Names This Surah is called Al-Fatihah, that is, the Opener of the Book, the Surah with which prayers are begun. Bismillah بِسْمِ اللَّـهِ is a verse of the Holy Qur'an There is consensus of all the Muslims on the fact that Bismillah al-Rahman al-Rahim بِسْمِ اللَّـهِ الرَّ‌حْمَـٰنِ الرَّ‌حِيمِ is a verse of the Holy Qur'an, being a part of the Surah al-Naml سورة النمل (The Ant); and there is also an agreement on that this verse is written at the head of every Surah except the Surah al-Taubah سورة التوبہ .
+The preposition 'Ba' has, however, to be placed before the name of Allah, for it is an exigency of the Arabic language.
 
 ## Tafsir Ibn Kathir
 

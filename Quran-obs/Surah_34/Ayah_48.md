@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Whatever wage I might have asked of you is yours. Verse 48: إِنَّ رَ‌بِّي يَقْذِفُ بِالْحَقِّ عَلَّامُ الْغُيُوبِ (Say," My Lord sends forth the Truth.
+meaning, He sends the angel to whomsoever He wills of His servants among the people on earth, and He is the All-Knower of the Unseen; nothing whatsoever is hidden from Him in the heavens or on earth.
 
 ## Tafsir Ibn Kathir
 

@@ -75,7 +75,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَتَرَ‌ىٰ كُلَّ أُمَّةٍ جَاثِيَةً ("And you will see every community kneeling down...45:28" ).
+We created not the heavens and the earth and all that is between them except with truth, and for a specified term.
 
 ## Tafsir Ibn Kathir
 

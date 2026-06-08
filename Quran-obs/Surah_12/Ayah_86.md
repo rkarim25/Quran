@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He [Ya'qub] said: "Nay, but your own selves have beguiled you into something. After hearing the concern of his sons, Sayyidna Ya'qub (علیہ السلام) said: إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّـهِ that is, ` I complain of my anguish and sorrow, not to you, or to anyone else, but to Allah jalla thana'uh Himself.
+Therefore, leave me alone as I am.' And, along with what he said, he also indicated that ` this remembrance of his will not go to waste for he knew from Allah Ta` ala what they did not know - that he has been promised by Him that He would bring them all together with him.'
 
 ## Tafsir Ibn Kathir
 

@@ -108,7 +108,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when the wife of 'Imran said: "O my Lord! In the religious code of earlier prophets, there was a method of worship through which a child, out of one's children, could be freed from all worldly services and devoted exclusively for Allah.
+I have vowed to You what is in my womb to be dedicated for Your services, so accept this from me.
 
 ## Tafsir Ibn Kathir
 

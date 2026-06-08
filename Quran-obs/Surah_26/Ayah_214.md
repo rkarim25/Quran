@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, invoke not with Allah another god lest you should be among those who receive punishment (231)And warn your tribe of near kindred (214)And be kind and humble to the believers who follow you (215)Then if they disobey you, say: "I am innocent of what you do. And warn the nearest people of your clan, -26:214.
+In the present environment it has become difficult to abstain from the unlawful things not because it is not possible to keep away from them, but the reason is that when the whole fraternity is involved in a sin, it becomes very difficult for just one person to keep himself aloof.
 
 ## Tafsir Ibn Kathir
 

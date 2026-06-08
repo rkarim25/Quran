@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah will destroy Riba and will give increase for Sadaqat. The third verse (277) mentions the great reward of peace and comfort that awaits the truly believing and practising Muslims, who are steadfast in Salah نماز and زکاۃ Zakah.
+There is a connection between the beginning of the Ayah on Riba and what Allah ended it with.
 
 ## Tafsir Ibn Kathir
 

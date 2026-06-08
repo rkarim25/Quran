@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Were not My Ayat recited to you, and then you used to deny them? وَهُمْ فِيهَا كَالِحُونَ And they will be disfigured therein - 23:104).
+Rebuking the People of Hell, Their Admission of Their Wretchedness and Their Request to Be Brought out of Hell This is a rebuke from Allah to the people of Hell for the disbelief, sins, unlawful deeds and evil actions that they committed, because of which they were doomed. Our wretchedness overcame us, and we were (an) erring people.) meaning, evidence has been established against us, but we were so doomed that we could not follow it, so we went astray and were not guided.
 
 ## Tafsir Ibn Kathir
 

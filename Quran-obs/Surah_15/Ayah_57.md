@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "What then is the business for which you have come, O messengers? From verse 48: لَا يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَا هُم مِّنْهَا بِمُخْرَ‌جِينَ (No weariness shall touch them therein nor will they be expelled from there), we learn about two features of Jannah: (1) No one shall ever feel tired or weak.
+They told him that they were going to save the family of Lut from among those people, except for his wife, because she was one of those who were doomed.
 
 ## Tafsir Ibn Kathir
 

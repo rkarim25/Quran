@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Sulayman) said: "We shall see whether you speak the truth or you are (one) of the liars. I have found her and her people prostrating to the sun - 27:24 This shows that her people were star-worshippers and used to worship the sun.
+It was said that he carried it on his wings, as is the way with birds, or that he carried it in his beak.
 
 ## Tafsir Ibn Kathir
 

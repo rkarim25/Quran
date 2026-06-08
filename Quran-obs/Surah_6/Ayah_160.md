@@ -72,7 +72,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Whoever brings a good deed shall have ten times the like thereof to his credit, and whoever brings an evil deed shall have only the recompense of the like thereof, and they will not be wronged (160) The Good Deed is Mult… Said in the second (160) verse is: مَن جَاءَ بِالْحَسَنَةِ فَلَهُ عَشْرُ‌ أَمْثَالِهَا ۖ وَمَن جَاءَ بِالسَّيِّئَةِ فَلَا يُجْزَىٰ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ ﴿160﴾ (Whoever comes with a good deed, receives ten times as much, and whoever comes with an evil deed, he will not be recompensed by anything but its equal, and they shall not be wronged).
+And if a person intends to do a sin, then stays back and does not do it, still a good is recorded for him - and if he were to actually commit a sin, still what he gets registered in his name is one sin, or that too is erased.
 
 ## Tafsir Ibn Kathir
 

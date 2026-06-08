@@ -26,7 +26,7 @@ This Surah was revealed in Makkah before the migration to Al-Madinah. The proof 
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-A'la This Surah was revealed in Makkah before the migration to Al-Madinah. Scholars have ruled that when anyone recites the verse: سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى (Pronounce the purity of the name of your most exalted Lord...87:1) it is commendable to say: 'I pronounce the purity of my most ex…
+When the name of Allah is pronounced, it should be done with utmost humility and respect.
 
 ## Tafsir Ibn Kathir
 

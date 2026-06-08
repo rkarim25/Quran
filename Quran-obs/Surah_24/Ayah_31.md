@@ -339,7 +339,7 @@ This is a command from Allah to the believing women, and jealousy on His part ov
 
 ## Tafsir Summary
 
-And tell the believing women to lower their gaze, and protect their private parts and not to show off their adornment except that which is apparent, and to draw their veils all over their Juyub and not to reveal their ad… Looking at non-Mahram is forbidden And say to the believing women that they must lower their gazes - 24:31.
+And tell the believing women to lower their gaze, and protect their private parts and not to show off their adornment except that which is apparent, and to draw their veils all over their Juyub and not to reveal their adornment except to their husbands, or their fathers, or their husband's fathers, or their sons, or their husband's sons, or their brothers or their brother's sons, or their sister's sons, or their women, or their right hand possessions, or the Tabi'in among men…
 
 ## Tafsir Ibn Kathir
 

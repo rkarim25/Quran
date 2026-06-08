@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And perform the Salah, and give the Zakah and obey the Messenger that you may receive mercy (56)Consider not that the disbelievers can escape in the land. Qurtubi has reported on authority of Abul ` Aliyah that the Holy Prophet ﷺ stayed in Makkah for ten years after commencement of revelation and declaration of prophethood, during which time there was a constant fear of the infidels and disbelievers.
+The Command to Pray, Give the Zakah and Obey the Messenger (ﷺ); The Inability of the Disbelievers to Escape,and the Ultimate Destiny Allah commands His believing servants to establish prayer, which means worshipping Allah Alone with no partner or associate; to pay the Zakah, which is an act of kindness towards His poor and weak creatures; and by doing so to obey the Messenger of Allah ﷺ, i.e., to do as he commands them and to avoid what he forbids them, so that Allah will hav…
 
 ## Tafsir Ibn Kathir
 

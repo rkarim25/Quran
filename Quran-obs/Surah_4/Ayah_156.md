@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Because of their breaking the covenant, and their rejecting the Ayat of Allah, and their killing the Prophets unjustly, and their saying: "Our hearts are Ghulf," nay, Allah has set a seal upon their hearts because of the… Like the earlier verses, the censure of Jews continues through the present ones.
+This meaning is also apparent in the Ayah, as the Jews accused Maryam and her son of grave accusations: They accused her of fornication and claimed that 'Isa was an illegitimate son.
 
 ## Tafsir Ibn Kathir
 

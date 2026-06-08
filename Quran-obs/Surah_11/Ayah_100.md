@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-That is some of the news of the (population of) towns which We relate unto you; of them, some are (still) standing, and some have been (already) reaped (100)We wronged them not, but they wronged themselves. After having given this good counsel to them, he warned them of the punishment of Allah Ta` ala.
+That is some of the news of the (population of) towns which We relate unto you; of them, some are (still) standing, and some have been (already) reaped (100)We wronged them not, but they wronged themselves.
 
 ## Tafsir Ibn Kathir
 

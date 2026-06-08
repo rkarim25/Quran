@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, the sorcerers were assembled at a fixed time on a day appointed (38)And it was said to the people: "Are you (too) going to assemble? Bani Isra'il were the residents of Syria.
+People regard the outcome of dialectics should be to come out winner, even though one knows that he is on the wrong.
 
 ## Tafsir Ibn Kathir
 

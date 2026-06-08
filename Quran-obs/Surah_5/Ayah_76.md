@@ -72,7 +72,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "How do you worship besides Allah something which has no power either to harm or to benefit you? 1.
+Therefore, how did you worship inanimate objects that do not hear, see or know anything - having no power to bring harm or benefit to themselves let alone others - instead of worshipping Allah? In the present verse (75), the complimentary use of the word "Siddiqah" (truthful) obviously seems to indicate that she was a godly person, not a Nabiyy ( prophet) - because on a complimentary occasion, what is mentioned is the higher rank.
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "When will be this promise (the torment or the Day of Resurrection), if you speak the truth? It was said in verse أَثُمَّ إِذَا مَا وَقَعَ آمَنتُم بِهِ ۚ آلْآنَ.
+It means: ` Would you believe when Divine punishment actually descends down upon you - whether at the time of death, or even before it?
 
 ## Tafsir Ibn Kathir
 

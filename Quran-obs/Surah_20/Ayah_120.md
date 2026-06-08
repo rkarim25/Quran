@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We made a covenant with Adam before, but he forgot, and We found on his part no firm willpower (115)And (remember) when We said to the angels: "Prostrate yourselves to Adam." They prostrated themselves (all) except Iblis; he refused (116)Then We said: "O Adam! فَوَسْوَسَ إِلَيْهِ الشَّيْطَانُ قَالَ يَا آدَمُ هَلْ أَدُلُّكَ عَلَىٰ شَجَرَ‌ةِ الْخُلْدِ وَمُلْكٍ لَّا يَبْلَىٰ ﴿120﴾ فَأَكَلَا مِنْهَا فَبَدَتْ لَهُمَا سَوْآتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَ‌قِ الْجَن…
+Shall I lead you to the Tree of Eternity and to a kingdom that will never waste away?
 
 ## Tafsir Ibn Kathir
 

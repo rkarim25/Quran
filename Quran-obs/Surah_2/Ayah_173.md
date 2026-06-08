@@ -115,7 +115,7 @@ The wordإِنَّمَا حَرَّ‌مَ (innama harrama) is a restrictive par
 
 ## Tafsir Summary
 
-O you who believe (in the Oneness of Allah ـ Islamic Monotheism)! The wordإِنَّمَا حَرَّ‌مَ (innama harrama) is a restrictive particle, therefore, the sense of the verse is that Allah Almighty has forbidden only those things which have been mentioned later, other than which, nothing else is forbidden.
+this verse, their intention, that is, their seeking of the pleasure of one other than Allah, which is the real cause of forbiddance, was identified as ihlal or call. (Tafsir al-Qurtubi, volume 2, page 307.
 
 ## Tafsir Ibn Kathir
 

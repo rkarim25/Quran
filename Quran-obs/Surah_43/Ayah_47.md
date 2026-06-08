@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We did send Musa with Our Ayat to Fir'awn and his chiefs. Incidents related to Sayyidna Musa (علیہ السلام) have been stated by the Qur'an at many places repeatedly, and the incidents referred to in the present verses have been described in detail in Surah Al-A` raf.
+Yet despite all that they remained arrogant and stubbornly refused to follow him; they rejected his message and made fun of it, and laughed at the one who had brought it. They were in a state of need, so it would not have been appropriate for them to insult him.
 
 ## Tafsir Ibn Kathir
 

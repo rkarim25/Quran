@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But when there comes the Greatest Catastroph (34)The Day when man shall remember what he strove for (35)And Hell shall be made apparent for whoever sees (36)Then for him who transgresse (37)And preferred the life of this… Thereafter, the special marks of the inmates of Paradise are described.
+They are told that knowledge of the time and date is within Allah's own special prerogative.
 
 ## Tafsir Ibn Kathir
 

@@ -111,7 +111,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, when Musa had fulfilled the term, and was traveling with his family, he saw a fire in the direction of At-Tur. نُودِيَ مِن شَاطِئِ الْوَادِ الْأَيْمَنِ فِي الْبُقْعَةِ الْمُبَارَ‌كَةِ مِنَ الشَّجَرَ‌ةِ أَن يَا مُوسَىٰ إِنِّي أَنَا اللَّـهُ رَ‌بُّ الْعَالَمِينَ He was called by a voice coming from a side of the right valley in the blessed ground, from the tree, saying" 0 Musa, I am Allah, the Lord of the worlds" - 28:30).
+These were two clear and definitive proofs of the power of the One Who does as He chooses, and of the truth of the prophethood of the one at whose hands these miracles occurred. This indicates that when Musa headed for the fire, he headed in the direction of the Qiblah with the western mountain on his right.
 
 ## Tafsir Ibn Kathir
 

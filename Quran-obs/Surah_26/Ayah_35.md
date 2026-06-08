@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "If you choose a god other than me, I will certainly put you among the prisoners. Bani Isra'il were the residents of Syria.
+The purpose of his hitting the Egyptian was to prevent him from harming the Isra'ili but in the process he died, which was not the intention.
 
 ## Tafsir Ibn Kathir
 

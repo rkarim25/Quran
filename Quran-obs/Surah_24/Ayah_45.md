@@ -135,7 +135,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah has created every moving creature from water. From the sky mountains (of clouds) having hail in them - 43.
+Of them there are some that creep on their bellies, and some that walk on two legs, and some that walk on four.
 
 ## Tafsir Ibn Kathir
 

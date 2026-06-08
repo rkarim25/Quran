@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who believe not in the Hereafter, name the angels with female names (27)But they have no knowledge thereof. إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا (and conjecture is of no use in [ the matter on Truth....
+As opposed to this certain knowledge, zann is sometime used for the knowledge that is based on a proof, and not on baseless thoughts, but the proof is not so certain as may rule out other possibilities, as for example, injunctions based on general narratives of the Holy Prophet ﷺ .
 
 ## Tafsir Ibn Kathir
 

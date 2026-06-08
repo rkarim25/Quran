@@ -43,7 +43,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "To whom belongs all that is in the heavens and the earth?" Say: "To Allah." He has prescribed mercy for Himself. In the previous verses, the command given was to shun Shirk and believe in the perfect power of Allah Jalla Sha'nuhu mentioned there-in.
+"And be not you of the idolators (14)Say: "I fear, if I disobey my Lord, the torment of a Mighty Day.
 
 ## Tafsir Ibn Kathir
 

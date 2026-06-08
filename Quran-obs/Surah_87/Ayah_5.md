@@ -22,7 +22,7 @@ This Surah was revealed in Makkah before the migration to Al-Madinah. The proof 
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-A'la This Surah was revealed in Makkah before the migration to Al-Madinah. وَالَّذِي أَخْرَجَ الْمَرْعَىٰ ﴿4﴾ فَجَعَلَهُ غُثَاءً أَحْوَىٰ (and who brought forth pasturage, then turned it into a blackening stubble....87:4, 5) The word مَرْعَىٰ ma’ ra means 'pasturage'.
+And Who brings out the pasturage,)(5. And then makes it dark stubble.)(6.
 
 ## Tafsir Ibn Kathir
 

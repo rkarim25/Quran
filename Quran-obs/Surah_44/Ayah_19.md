@@ -50,7 +50,7 @@ According to another report, a man would look at the sky and he would see nothin
 
 ## Tafsir Summary
 
-And indeed We tried before them Fir'awn's people, when there came to them a noble Messenger (17)Saying: "Deliver to me the servants of Allah. دُخَانٍ مُّبِينٍ...visible smoke" in verse (10) embodies a prophecy and the Prophet ﷺ was asked to watch for the Day when the sky will bring forth a manifest smoke covering the people.
+For Khadijah, may Allah be pleased with her, is higher than her in status or is equal to her, as was Asiyah bint Muzahim, the wife of Fir'awn.
 
 ## Tafsir Ibn Kathir
 

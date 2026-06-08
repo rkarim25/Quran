@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. وَأَنفِقُوا مِن مَّا رَ‌زَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ أَحَدَكُمُ الْمَوْتُ (And spend out of what We have given to you before death comes to one of you…63:10) ‘Coming of death’ in this verse refers to ‘witnessing the signs of death’.
+Whatsoever is in the heavens and whatsoever is on the earth glorifies Allah.
 
 ## Tafsir Ibn Kathir
 

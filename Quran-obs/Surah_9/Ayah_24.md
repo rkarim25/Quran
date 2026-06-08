@@ -146,7 +146,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! This verse of Surah At-Taubah was revealed essentially about people who did not migrate from Makkah at the time migration was made obligatory for them.
+And whoever of you befriends them, then he is one of the wrongdoers (23)Say: If your fathers, your sons, your brothers, your spouses, your kindred, the wealth that you have gained, the commerce in which you fear a decline, and the dwellings in which you delight are dearer to you than Allah and His Messenger, and striving hard and fighting in His cause, then wait until Allah brings about His decision (torment).
 
 ## Tafsir Ibn Kathir
 

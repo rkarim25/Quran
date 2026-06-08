@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Give full measure, and cause no loss (to others). and subjected them to a terrible rain.
+The Command to Give Full Measure Allah commanded them to give full measure, and forbade them to give short measure.
 
 ## Tafsir Ibn Kathir
 

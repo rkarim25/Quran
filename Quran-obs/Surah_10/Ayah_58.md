@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O mankind! 4.
+There has come to you good advice from your Lord, and a cure for that which is in your breasts, – a guidance and a mercy for the believers (57)Say: "In the bounty of Allah, and in His mercy; therein let them rejoice." That is better than what (the wealth) they amass .
 
 ## Tafsir Ibn Kathir
 

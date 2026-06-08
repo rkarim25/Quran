@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, he went forth before his people in his finery. وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَيْلَكُمْ (And said those who were given knowledge - 28:80).
+The reward of Allah is better for those who believe and do righteous deeds, and this none shall attain except the patient.
 
 ## Tafsir Ibn Kathir
 

@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Will you be left secure in that which you have here? وَتَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا فَارِ‌هِينَ ﴿149﴾And you hew out houses from the hills with pride.
+Therefore, the meaning of the verse is that Allah Ta’ ala has favoured you by teaching such skills that you could make houses by cutting hills. Useful vocations are Divine Graces provided they are not employed in bad things This verse indicates that nice vocations are Allah's Graces, and to draw benefit from them is lawful.
 
 ## Tafsir Ibn Kathir
 

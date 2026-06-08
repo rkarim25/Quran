@@ -70,7 +70,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O wives of the Prophet! In verses appearing earlier in the present sequence, the address was to the blessed wives of the Holy Prophet ﷺ ، therefore, the form used was in the feminine gender.
+Allah wishes only to remove the Ar-Rijs from you, O members of the family, and to purify you with a thorough purification (33)And remember, that which is recited in your houses of the Ayat of Allah and Al-Hikmah.
 
 ## Tafsir Ibn Kathir
 

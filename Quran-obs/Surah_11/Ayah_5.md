@@ -91,7 +91,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-No doubt! The sixth verse carries a refutation of what the hypocrites and the disbelievers do.
+Surely, even when they cover themselves with their garments, He knows what they conceal and what they reveal. Their hearts blaze with malice and enmity but they maintain a cool front, find all sorts of covers to hide their true identity and intention and surmise that no one would find out who they were really and what they were doing actually.
 
 ## Tafsir Ibn Kathir
 

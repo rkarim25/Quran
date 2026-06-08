@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Verses [ 100:9-11] وَحُصِّلَ مَا فِي الصُّدُورِ‌ ﴿10﴾ إِنَّ رَ‌بَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌ‌ ﴿11﴾ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ‌ مَا فِي الْقُبُورِ‌ ﴿9﴾ (Does he not then know [ what will happen ] when all that is contained in the graves will be overturned, and all that is contained in the hearts will be exposed.
+Therefore, it would be wise for man to abstain from ingratitude, and he should not have such a violently passionate love for wealth and indulgence in worldly riches as to be unable to separate the good from the bad.
 
 ## Tafsir Ibn Kathir
 

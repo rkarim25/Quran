@@ -44,7 +44,7 @@ In the first verse (36), it was said: أَلَيْسَ اللَّـهُ بِكَ
 
 ## Tafsir Summary
 
-Is not Allah Sufficient for His servant? In the first verse (36), it was said: أَلَيْسَ اللَّـهُ بِكَافٍ عَبْدَهُ (Is Allah not sufficient for (the protection of) His slave?).
+Is not Allah Almighty, Possessor of Retribution?) meaning, whoever relies on Him and turns to Him, will never be forsaken, for He is the Almighty Who cannot be overwhelmed by another, and there is none more severe than Him in exacting retribution on those who disbelieve in Him, associate others in worship with Him and resist His Messenger ﷺ.
 
 ## Tafsir Ibn Kathir
 

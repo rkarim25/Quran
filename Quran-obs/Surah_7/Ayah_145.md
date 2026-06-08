@@ -91,7 +91,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Allah) said: "O Musa I have chosen you above men by My Messages, and by My speaking (to you). The last sentence is سَأُرِ‌يكُمْ دَارَ‌ الْفَاسِقِين .
+Another view with regard to these tablets is that these tablets were given to him prior to the revelation of the Torah and were not the part of the Torah.
 
 ## Tafsir Ibn Kathir
 

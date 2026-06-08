@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-At that time Zakariyya invoked his Lord, saying: "O my Lord! 1.
+The Supplication of Zakariyya, and the Good News of Yahya's Birth When Zakariyya saw that Allah provided sustenance for Maryam by giving her the fruits of winter in summer and the fruits of summer in winter, he was eager to have a child of his own.
 
 ## Tafsir Ibn Kathir
 

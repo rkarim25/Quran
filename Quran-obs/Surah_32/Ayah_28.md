@@ -41,7 +41,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They say: "When will this Fath be, if you are telling the truth? Verse 28 carries a question posed by disbelievers: وَيَقُولُونَ مَتَىٰ هَـٰذَا الْفَتْحُ (And they say, "When will this decision take place?) Here, they are referring to the victory of believers against disbelievers as promised by the Holy Prophet ﷺ and are wondering about it since they see no traces of this likelihood anywhere around.
+This is the end of the Tafsir of Surat As-Sajdah.
 
 ## Tafsir Ibn Kathir
 

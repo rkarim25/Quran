@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And by Allah, I shall plot a plan for your idols after you have gone away and turned your backs. فَجَعَلَهُمْ جُذَاذًا (21:58) The word جُذَاذً is the plural for جُذَ.
+This was Ibrahim's ultimate purpose, so that he could tell this great gathering about the extent of their ignorance and how foolish they were to worship idols which could not defend themselves from harm or help themselves, so how could they ask them for help?
 
 ## Tafsir Ibn Kathir
 

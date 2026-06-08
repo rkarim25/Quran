@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then when the messengers (the angels) came to the family of Lu (61)He (Lut) said: "Verily, you are people unknown to me. From verse 48: لَا يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَا هُم مِّنْهَا بِمُخْرَ‌جِينَ (No weariness shall touch them therein nor will they be expelled from there), we learn about two features of Jannah: (1) No one shall ever feel tired or weak.
+This is contrary to the affairs of the mortal world where the recipient of the best of conveniences lives under the apprehension that the Over of the facilities may become displeased with him one of those days and expel him out.
 
 ## Tafsir Ibn Kathir
 

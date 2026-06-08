@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-His people disputed with him. In the second verse (83), Allah Ta` ala has said that the triumph of Sayyidna Ibrahim (علیہ السلام) in his debate against his people and in which he had silenced them was a blessing of Allah alone for He gave him a sound theory to propound and glowing arguments to employ.
+Certainly your Lord is All-Wise, All-Knowing .
 
 ## Tafsir Ibn Kathir
 

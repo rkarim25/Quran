@@ -141,7 +141,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Allah belongs all that is in the heavens and all that is in the earth. After having stated the rules of behaviour as related to women and orphans, the text now reminds the promise of rewards for those abiding by these rules, and the warning for those contravening them, which is the usual style of the Holy Qur'an.
+And to Allah belongs all that is in the heavens and all that is in the earth.
 
 ## Tafsir Ibn Kathir
 

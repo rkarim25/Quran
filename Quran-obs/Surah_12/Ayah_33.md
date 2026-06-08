@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And women in the city said: "The wife of the 'Aziz is seeking to seduce her (slave) young man, indeed she loves him violently; verily, we see her in plain error. And some words of the Holy Qur'an which appear later (33) also support it, for example: يَدْعُونَنِي (yad unani: these women invite me) and: كَيْدَهُنَّ (kaidahunna: their guile) where the statement of some women has been mentioned in the plural form.
+Unless You turn away their plot from me, I will feel inclined towards them and be one of the ignorant. And unless You turn their guile away from me, I shall get inclined towards them and shall be among the ignorant.
 
 ## Tafsir Ibn Kathir
 

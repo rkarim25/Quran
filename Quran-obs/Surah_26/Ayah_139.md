@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "It is the same to us whether you preach or be not of those who preach. Explanation of some difficult words Do you erect on every height a sign having no sound purpose, [ 128] and take the objects of architecture as if you are going to live forever, (26:128-129)
+It means that the building which is constructed in excess of requirement has no benefit or virtue.
 
 ## Tafsir Ibn Kathir
 

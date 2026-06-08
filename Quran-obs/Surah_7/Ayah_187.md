@@ -168,7 +168,7 @@ It was said that this Ayah was revealed about the Quraysh or the Jews, although 
 
 ## Tafsir Summary
 
-They ask you about the Hour (Day of Resurrection): "When will be its appointed time?" Say: "The knowledge thereof is with my Lord (Alone). The verse 187 speaks of the third principle, that is, the life in the Hereafter (آخرَت).
+The Hour will start when a man is making his watering hole (for his animals), but will not have time to make use of the pool.
 
 ## Tafsir Ibn Kathir
 

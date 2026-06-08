@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And O my people! Whatever is left { with you ] by Allah is better for you, if you are believers.
+In other words, "Do this for Allah and not to be seen by the people."
 
 ## Tafsir Ibn Kathir
 

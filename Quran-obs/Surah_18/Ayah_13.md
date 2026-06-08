@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-We narrate unto you their story with truth: Truly, they were young men who believed in their Lord (Allah), and We increased them in guidance (13)And We made their hearts firm and strong when they stood up and said: "Our Lord is the Lord of the heavens and the earth, never shall we call upon any god other than Him; if we did, we should indeed have uttered an enormity in disbelief (14)These our people have taken for worship gods other than Him. The word: فِتْيَةٌ(fityah) in: إِنَّهُمْ فِتْيَةٌ (They were young men - 13) is the plural of: فَتٰی (fata) which means someone young.
+According to Tafsir scholars, this word indicates that the time ripe for correction of deeds and morals, and the inculcation of guidance and righteousness, is invariably the time when one is young.
 
 ## Tafsir Ibn Kathir
 

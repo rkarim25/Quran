@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Go you in unto the males of Al-'Alamin (people), (165)"And leave those whom Allah has created for you to be your wives? Except an old woman among those who remained behind.
+Except an old woman among those who remained behind.) This was his wife, who was a bad old woman.
 
 ## Tafsir Ibn Kathir
 

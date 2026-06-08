@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Mulk Imam Ahmad recorded from Abu Hurayrah that Allah's Messenger ﷺ said, The Reality of Life and Death خَلَقَ الْمَوْتَ وَالْحَيَاةَ (...the One who created death and life...67:2) Out of the human conditions, only two phenomena, i.e.
+Various Categories of Death and Life It is stated in Tafsir Mazhari that Allah, with His Supreme Power and Consummate Wisdom, has divided His creation into different types.
 
 ## Tafsir Ibn Kathir
 

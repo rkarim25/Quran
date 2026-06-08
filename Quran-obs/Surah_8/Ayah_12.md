@@ -108,7 +108,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when He covered you with a slumber as a security from Him, and He caused water (rain) to descend on you from the sky, to clean you thereby and to remove from you the Rijz (whispering or dirt) of Shaytan, and to strengthen your hearts, and make your feet firm thereby (11)(Remember) when your Lord revealed to the angels, "Verily, I am with you, so keep firm those who have believed. Being enumerated from the very beginning are blessings of Allah Ta` ala which descended upon His obedient servants.
+And whoever defies and disobeys Allah and His Messenger, then verily, Allah is severe in punishment (13)This is (the torment), so taste it; and surely, for the disbelievers is the torment of the Fire .
 
 ## Tafsir Ibn Kathir
 

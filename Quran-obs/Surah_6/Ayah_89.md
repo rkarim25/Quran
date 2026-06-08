@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We bestowed upon him Ishaq and Ya'qub, each of them We guided, and before him, We guided Nuh and among his progeny Dawud, Sulayman, Ayyub, Yusuf, Musa, and Harun. The subject continues through the eighth verse (89) at the end of which it has been said to comfort the Holy Prophet ﷺ ; فَإِن يَكْفُرْ‌ بِهَا هَـٰؤُلَاءِ فَقَدْ وَكَّلْنَا بِهَا قَوْمًا لَّيْسُوا بِهَا بِكَافِرِ‌ينَ (So, if these people disbelieve it, then, We have deputed for it a people who do not disbelieve in it).
+But if they disbelieve therein, then, indeed We have entrusted it to a people who are not disbelievers therein (89)They are those whom Allah had guided. In other words, it means: If some of your addressees do not listen to you and are, despite having been told about the teachings of all past prophets, bent upon nothing short of denial, then, you do not have to worry - because We have appointed a great people who would say yes to your call, follow your word and make the missio…
 
 ## Tafsir Ibn Kathir
 

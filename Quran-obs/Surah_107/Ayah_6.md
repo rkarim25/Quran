@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The love of the world causes nations to lose faith and consign Allah to oblivion This Surah denounces some of the evil actions of the pagans and the hypocrites, and it holds out a threat of destruction to those who commit them.
+Traditions reporting that ma’ un refers to pots and pans, and other household items of daily use are to show that if a person is reluctant to part with such small items, how will he have the heart to part with 2-½% of his wealth?
 
 ## Tafsir Ibn Kathir
 

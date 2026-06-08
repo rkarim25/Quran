@@ -116,7 +116,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And according to their claim, they say that such and such cattle and crops are Hijr (forbidden), and none should eat of them except those whom we allow. Described in the previous verses were false beliefs of the mushriks of Arabia while the present verses recount their practical errors and ignorant customs.
+And (they say) there are cattle forbidden to be used for burden, and cattle on which (at slaughtering) the Name of Allah is not pronounced; lying against Him (Allah).
 
 ## Tafsir Ibn Kathir
 

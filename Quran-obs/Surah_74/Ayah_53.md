@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Every person is a pledge for what he has earned (38)Except those on the Right (39)In Gardens they will ask one another (40)About criminals (and they will say to them)(41)"What has caused you to enter Hell? فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِيْنَ (So what has happened to them that they are turning away from the Reminder...
+But they fear not the Hereafter (53)Nay, verily, this is an admonition (54)So, whosoever wills receives admonition from it (55)And they will not receive admonition unless Allah wills; He is the One, deserving of the Taqwa and He is the One Who forgives .
 
 ## Tafsir Ibn Kathir
 

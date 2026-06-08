@@ -130,7 +130,7 @@ The first group included those who were strong and perfect in their faith. They 
 
 ## Tafsir Summary
 
-O you who believe! The verses quoted above describe an important battle from among those fought by the Holy Prophet As a corollary, also given there are many injunctions and instructions.
+Its treatment appears next when it was said: So, the enjoyment of the worldly life is but little as compared with the Hereafter - 38.
 
 ## Tafsir Ibn Kathir
 

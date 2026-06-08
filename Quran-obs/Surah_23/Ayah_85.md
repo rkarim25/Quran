@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Whose is the earth and whosoever is therein? And We have already seized them with punishment, but they did not turn humble to their Lord, nor do they supplicate in humility.
+He tells His Messenger Muhammad ﷺ to say to the idolators who worship others besides Him, even though they admit His Lordship, that He has no partner in Lordship. Visitation of famine upon Makkah and its deliverance on the prayers of the Holy Prophet ﷺ It has been mentioned earlier that the Holy Prophet ﷺ had prayed to Allah to punish the people of Makkah with famine and as a result they were reduced to great straits and were forced to eat dead animals.
 
 ## Tafsir Ibn Kathir
 

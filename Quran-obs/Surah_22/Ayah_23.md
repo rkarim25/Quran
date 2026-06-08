@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Truly, Allah will admit those who believe and do righteous good deeds, to Gardens underneath which rivers flow (in Paradise), wherein they will be adorned with bracelets of gold and pearls and their garments therein will… The philosophy of adorning the dwellers of Paradise with gold bracelets Here a point may arise that bracelets are articles of jewellery worn by women only and their use by men is looked upon with disfavor.
+In brief, just as wearing a crown is a royal privilege and not a common practice among men, similarly wearing bracelets by men is a royal privilege, and thus the men admitted to heaven will wear them as a symbol of honour and Divine favour.
 
 ## Tafsir Ibn Kathir
 

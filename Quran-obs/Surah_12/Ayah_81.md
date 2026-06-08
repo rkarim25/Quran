@@ -76,7 +76,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, when they despaired of him, they consulted in private. Then, in verse 81, it was said: ارْ‌جِعُوا إِلَىٰ أَبِيكُمْ , that is, the oldest brother said: I am going to stay here.
+You all go back to your father and tell him that his son has committed a theft, and that whatever we are saying is what we have seen with our own eyes, and that the stolen property was recovered from his baggage before us. Yusuf's Brothers consult Each Other in Confidence; the Advice Their Eldest Brother gave Them Allah narrates to us that Yusuf's brothers were desperate because they could not secure the release of their brother Binyamin, even though they had given a promise…
 
 ## Tafsir Ibn Kathir
 

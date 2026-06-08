@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-A multitude of those will be from the first ones (13)And a few of those will be from the later ones (14)(They will be) on thrones, Mawdunah (15)Reclining thereon, face to face (16)Immortal boys will go around them (servi… بِأَكْوَابٍ وَأَبَارِ‌يقَ وَكَأْسٍ مِّن مَّعِينٍ (with bowls and jugs and a goblet of pure wine...56:18).
+The word main refers to the fact that the glasses will contain wine drawn from a flowing spring. The word akwab, plural of kub, refers to 'cups or glasses used for drinking.
 
 ## Tafsir Ibn Kathir
 

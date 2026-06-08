@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Recitation of Surat Al-Fajr in the Prayer An-Nasa'i recorded a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. The word ` imad' and 'amud' means 'pillar'.
+Some commentators say that 'Iram' is the name of the 'paradise' which ` Ad's son Shaddad had built.
 
 ## Tafsir Ibn Kathir
 

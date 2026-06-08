@@ -132,7 +132,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Children of Adam! In the second verse (27), the address reverts to all children of Adam (علیہ السلام) and the admonition given is that they should keep guarding against the deception of Shaytan in everything they do under whatever circumstance they are - lest, Shaytan puts them on another trial as he did with their parents, 'Adam and Eve.
+Iblis plotted to have Adam expelled from Paradise, which is the dwelling of comfort, to the dwelling of hardship and fatigue (this life) and caused him to have his private part uncovered, after it had been hidden from him.
 
 ## Tafsir Ibn Kathir
 

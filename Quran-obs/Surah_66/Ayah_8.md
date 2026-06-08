@@ -195,7 +195,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! تُوبُوا إِلَى اللَّـهِ تَوْبَةً نَّصُوحًا (...turn to Allah with a faithful repentance...66:8).
+It may be that your Lord will expiate from you your sins, and admit you into Gardens under which rivers flow – the Day that Allah will not disgrace the Prophet and those who believe with him. The word taubah, literally, means 'to turn' or 'to return', in the sense of turning or withdrawing from sins.
 
 ## Tafsir Ibn Kathir
 

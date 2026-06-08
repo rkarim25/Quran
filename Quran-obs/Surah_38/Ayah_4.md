@@ -54,7 +54,7 @@ When they said this, it indicated their ignorance and lack of understanding sinc
 
 ## Tafsir Summary
 
-And they wonder that a warner has come to them from among themselves. The background of the revelation The background of the revelation of the initial verses of this Surah was that Abu Talib, the uncle of the Holy Prophet ﷺ was doing his best as his guardian, despite that he had not yet embraced Islam.
+Nay, but they have not tasted (My) torment (8)Or have they the treasures of the mercy of your Lord, the Almighty, the Real Bestower (9)Or is it that the dominion of the heavens and the earth and all that is between them is theirs If so, let them ascend up with means (10)They will be a defeated host like the Confederates of the old times .
 
 ## Tafsir Ibn Kathir
 

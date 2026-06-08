@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And even if We had sent down unto you a Message written on paper so that they could touch it with their hands, the disbelievers would have said: "This is nothing but obvious magic! The third verse (8) was also revealed because of an event which concerns this very ` Abdullah ibn Abi Umaiyyah who, accompanied by Nadr ibn al-Harith and Nawfal ibn Khalid ؓ ، came to the Holy Prophet ﷺ .
+Firstly, an angel may come as he is, in his form and state of being.
 
 ## Tafsir Ibn Kathir
 

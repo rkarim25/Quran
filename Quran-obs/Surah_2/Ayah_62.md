@@ -110,7 +110,7 @@ We had better dispel another misunderstanding which is likely to arise from the 
 
 ## Tafsir Summary
 
-Verily, those who believe and those who are Jews and Christians, and Sabians (Sabi'in), whoever believes in Allah and the Last Day and does righteous good deeds shall have their reward with their Lord, on them shall be n… The previous verse spoke of how the Israelites drew upon themselves the wrath of Allah through their habitual insolence and disobedience.
+The Sabi'un or Sabians There is a difference of opinion over the identity of the Sabians.
 
 ## Tafsir Ibn Kathir
 

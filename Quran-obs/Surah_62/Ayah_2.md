@@ -100,7 +100,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Jumu'ah Ibn 'Abbas and Abu Hurayrah narrated that Allah's Messenger ﷺ used to recite Surat Al-Jumu'ah and Surat Al-Munafiqin during the Friday Prayer. هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَ‌سُولًا مِّنْهُمْ (He is the One who raised amidst the unlettered people a messenger from among themselves...62:2) The word ummiyyin is the plural of ummiyy, which denotes 'unlettered'.
+This Hadith indicates that Surat Al-Jumu'ah was revealed in Al-Madinah and that the Messenger's Message is universal.
 
 ## Tafsir Ibn Kathir
 

@@ -215,7 +215,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when you said to him on whom Allah has bestowed grace and you have done a favor: "Keep your wife to yourself, and have Taqwa of Allah." But you did hide in yourself that which Allah will make manifest, you did fear the people whereas Allah had a better right that you should fear Him. As ordered by the Holy Prophet ﷺ ، the marriage of Sayyidah Zainab bint Jahsh ؓ ' was solemnized with Sayyidna Zayd Ibn Harithah ؓ .
+As for the apprehension of taunts from people, it was said, 'and you were fearing people, while Allah is more entitled to be feared by you - (37).
 
 ## Tafsir Ibn Kathir
 

@@ -174,7 +174,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Allah) will say: "Enter you in the company of nations who passed away before you, of men and Jinn, into the Fire." Every time a new nation enters, it curses its sister nation (that went before) until they are all together in the Fire. The first and the second verse both mentioned two crimes committed by disbelievers.
+This is because the earlier nations were worse criminals than those who followed them, and this is why they entered the Fire first.
 
 ## Tafsir Ibn Kathir
 

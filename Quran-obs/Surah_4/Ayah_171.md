@@ -233,7 +233,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O People of the Scripture! Jews' were the addressees in previous verses which provided details of how astray they had gone.
+Verily, I am only a servant, so say, 'Allah's servant and His Messenger.') This is the wording of Al-Bukhari.
 
 ## Tafsir Ibn Kathir
 

@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Truly, those who have Taqwa, will dwell in Gardens and water springs (45)(It will be said to them): "Enter it in peace and security. From verse 48: لَا يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَا هُم مِّنْهَا بِمُخْرَ‌جِينَ (No weariness shall touch them therein nor will they be expelled from there), we learn about two features of Jannah: (1) No one shall ever feel tired or weak.
+Then judgment will be passed between them concerning any wrong they have committed in this world against one another, until they are cleansed and purified. These blessings shall never diminish nor shall anyone be expelled from there.
 
 ## Tafsir Ibn Kathir
 

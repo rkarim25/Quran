@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And never an Ayah comes to them from the Ayat of their Lord, but that they have been turning away from it (4)Indeed, they rejected the truth when it came to them, but there will come to them the news of that which they used to mock at (5)Have they not seen how many a generation before them We have destroyed whom We had established on the earth such as We have not established you? In the fifth and the last verse here, further details of this heedlessness have been indicated through some events.
+And never an Ayah comes to them from the Ayat of their Lord, but that they have been turning away from it (4)Indeed, they rejected the truth when it came to them, but there will come to them the news of that which they used to mock at (5)Have they not seen how many a generation before them We have destroyed whom We had established on the earth such as We have not established you?
 
 ## Tafsir Ibn Kathir
 

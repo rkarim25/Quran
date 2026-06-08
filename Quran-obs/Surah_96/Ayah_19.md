@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Threat against Man's Transgression for the sake of Wealth Allah informs that man is very pleased, most evil, scornful and transgressive when he considers himself self-sufficient and having an abundance of wealth. Verse [ 19] كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِ‌ب ۩ (No!
+Do not obey him in what he is forbidding from such as steadfastness in worship and performing worship in abundance.
 
 ## Tafsir Ibn Kathir
 

@@ -47,7 +47,7 @@ Some said that it was revealed about the gravity of fighting in battle, when one
 
 ## Tafsir Summary
 
-The Virtues of Surat As-Saff Imam Ahmad recorded that 'Abdullah bin Salam said, "We asked, 'Who among us should go to the Messenger ﷺ and ask him about the dearest actions to Allah?' None among us volunteered. (0 those who believe, why do you say what you do not do?
+We mentioned the meaning of these two Hadiths in the beginning of the explanation of Sahih Al-Bukhari, and to Allah is the praise and the thanks.
 
 ## Tafsir Ibn Kathir
 

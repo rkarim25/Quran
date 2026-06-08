@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when your Lord brought forth from the Children of Adam, from their loins, their seed and made them testify as to themselves (saying): "Am I not your Lord?" They said: "Yes! "Or you should say, "It was our forefathers who associated partners with Allah and we were (only) a progeny after them.
+Or lest you should say: "It was only our fathers aforetime who took others as partners in worship along with Allah,")[7:172-173]
 
 ## Tafsir Ibn Kathir
 

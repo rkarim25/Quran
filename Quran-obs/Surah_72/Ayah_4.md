@@ -41,7 +41,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. ...and that the fools among us used to attribute to Allah extremely wrong things, and that we thought that the humans and the Jinn would never tell a lie about Allah, [ therefore, we had followed them in shirk under this impression ].
+'And that the foolish among us used to utter against Allah that which was an enormity in falsehood.')(5. The believers from amongst Jinn used to put forward their excuse for being involved in disbelief and idolatry thus: The foolish people from amongst their nation uttered vile slander against Allah, whilst they did not think it possible for a human being or a Jinn to impute a lie to Allah.
 
 ## Tafsir Ibn Kathir
 

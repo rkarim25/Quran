@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat At-Tur Malik narrated that Jubayr bin Mut'im said, "I heard the Prophet ﷺ reciting Surat At-Tur while praying Maghrib. وَالْبَيْتِ الْمَعْمُورِ‌ (and by the Populated House [ AI-Bait-ul-Ma` mur ],...52:4) Al-Bait-ul-Ma` mur is the Ka'bah in the heaven meant for the angels' service and is parallel to the Ka'bah on earth.
+Al-Bayt Al-Ma'mur is parallel to the Ka'bah; every heaven has its own house of worship, which is also the direction of prayer for its residents.
 
 ## Tafsir Ibn Kathir
 

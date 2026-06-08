@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And has the news of the litigants reached you? In these verses, Allah Ta'ala has mentioned an event relating to Sayyidna Dawud (علیہ السلام) .
+Two Litigants In discussing this passage, the scholars of Tafsir mention a story which is mostly based upon Isra'iliyat narrations.
 
 ## Tafsir Ibn Kathir
 

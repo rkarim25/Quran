@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, the Abrar (the righteous believers) will be in Delight (13)And verily, the wicked will be in the blazing Fire (Hell)(14)Therein they will enter, and taste its burning flame on the Day of Recompense (15)And they w… وَمَا هُمْ عَنْهَا بِغَائِبِينَ (and they will not [ be able to ] keep away from it...82:16) The inmates of Hell will never be able to get away from it, because the torment will be eternal, as the concluding verse of the Surah asserts: لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا (A Day when no one [ with his own free will in the Plain of Gathering ] will have power to do anything for another!
+This does not negate intercession, because that will not happen with one's own free will, unless Allah grants permission to someone to intercede on someone's behalf, and then accepts the intercession.
 
 ## Tafsir Ibn Kathir
 

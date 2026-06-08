@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say, "Be Jews or Christians, then you will be guided." Say (to them O Muhammad ﷺ), "Nay, (we follow) only the religion of Ibrahim, Hanif (Islamic Monotheism), and he was not of Al-Mushrikin (those who worshipped others along with Allah (135) Muhammad bin Ishaq reported that Ibn 'Abbas said that 'Abdullah bin Suriya Al-A'war said to the Messenger of Allah, "The guidance is only what we (Jews) follow. The earlier verses have defined the religion (Millat مِلَّت of Sayyidna Ibrahim (علیہ السلام) and established that its present form is Islam.
+Now, the Jews and the Christians, in spite of their pretension to be his followers, did not in actual fact follow his religion.
 
 ## Tafsir Ibn Kathir
 

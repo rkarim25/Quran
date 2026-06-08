@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! The previous verses ended with a word of praise for the sincere.
+Entering Islam in its Entirety is obligated Allah commands His servants who believe in Him and have faith in His Messenger ﷺ to implement all of Islam's legislation and law, to adhere to all of its commandments, as much as they can, and to refrain from all of its prohibitions.
 
 ## Tafsir Ibn Kathir
 

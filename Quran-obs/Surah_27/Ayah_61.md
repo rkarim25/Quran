@@ -95,7 +95,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Is not He Who has made the earth as a fixed abode, and has placed rivers in its midst, and has placed firm mountains therein, and has set a barrier between the two seas (of salt and sweet water)? This incident has been related at many places in the Qur'an, especially in Surah Al-A` raf, where its necessary details have been discussed and may be consulted if required.
+The sweet water is that which flows in rivers among mankind, and it is meant to be fresh and palatable so that it may be used to water animals and plants and fruits.
 
 ## Tafsir Ibn Kathir
 

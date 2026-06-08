@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He (the father) said: "O my son! The response given by Sayyidna Ya` qub X11 appears in verses 5 and 6 in the following words: قَالَ يَا بُنَيَّ لَا تَقْصُصْ رُ‌ؤْيَاكَ عَلَىٰ إِخْوَتِكَ فَيَكِيدُوا لَكَ كَيْدًا ۖ إِنَّ الشَّيْطَانَ لِلْإِنسَانِ عَدُوٌّ مُّبِينٌ ` He said, 'My son, do not relate your dream to your brothers lest they [ by finding out your greatness to come ] should devise against you a plan.
+Surely, Satan is an open enemy for mankind ...' [ for He seduces people to take such action for the sake of worldly wealth and power ].
 
 ## Tafsir Ibn Kathir
 

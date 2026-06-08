@@ -46,7 +46,7 @@ And We rescued him and Lut to the land which We have blessed for the nations (71
 
 ## Tafsir Summary
 
-And We rescued him and Lut to the land which We have blessed for the nations (71)And We bestowed upon him Ishaq, and Ya'qub Nafilatan. And We rescued him and Lut towards the land We blessed for all the worlds.
+And We rescued him and Lut to the land which We have blessed for the nations (71)And We bestowed upon him Ishaq, and Ya'qub Nafilatan. The Migration of Ibrahim to Ash-Sham (Greater Syria), accompanied by Lut Allah tells us that He saved Ibrahim from the fire lit by his people, and brought him out from among them, migrating to the land of Ash-Sham, to the sacred regions thereof.
 
 ## Tafsir Ibn Kathir
 

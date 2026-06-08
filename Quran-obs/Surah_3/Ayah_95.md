@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-All food was lawful to the Children of Israel, except what Isra'il made unlawful for himself before the Tawrah was revealed. In the verses appearing above, there is a continuity of arguments against positions taken by the people of the Book.
+Indeed, this is the truth, there is no doubt in it, and the perfect way, and no Prophet has brought a more complete, clear, plain and perfect way than he did.
 
 ## Tafsir Ibn Kathir
 

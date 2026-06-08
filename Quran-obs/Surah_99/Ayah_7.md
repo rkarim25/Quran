@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Az-Zalzalah Imam Ahmad recorded from 'Abdullah bin 'Amr that he said, "A man came to the Messenger of Allah ﷺ and said, 'Teach me what to recite, O Messenger of Allah!' The Prophet ﷺ said, Verse [ 7] فَمَن يَعْمَلْ مِثْقَالَ ذَرَّ‌ةٍ خَيْرً‌ا يَرَ‌هُ (So, whoever does good [ even ] to the weight of a particle shall see it.) The word 'good' here refers to what is good in terms of Shari` ah, that is, only a good deed done in the wake of faith is recognized by Allah.
+That Day mankind will proceed in scattered groups that they may be shown their deeds.)(7. When they passed through a stream from which they did drink, though he (their owner) does not intend to quench their thirst, yet, it would be counted as good deeds, Therefore, they are a reward for that man.
 
 ## Tafsir Ibn Kathir
 

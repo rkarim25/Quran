@@ -139,7 +139,7 @@ He (Allah) has ordained for you the same religion which He ordained for Nuh, and
 
 ## Tafsir Summary
 
-He (Allah) has ordained for you the same religion which He ordained for Nuh, and that which We have revealed to you, and that which We ordained for Ibrahim, Musa and 'Isa saying you should establish religion and make no divisions in it. وَمَا تَفَرَّ‌قُوا إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ (And they were not divided, in jealousy with each other, but after knowledge had come to them - 42:14).
+And had it not been for a Word that went forth before from your Lord for an appointed term, the matter would have been settled between them.
 
 ## Tafsir Ibn Kathir
 

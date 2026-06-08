@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, the tree of Zaqqu (43)Will be the food of the sinners (44)Like boiling oil, it will boil in the bellies (45)Like the boiling of scalding water (46)(It will be said:) "Seize him and drag him into the midst of blazing Fire, (47)"Then pour over his head the torment of boiling water. Punishment and Reward of the Hereafter In these verses, according to the style of the Qur'an, Allah describes Hell and the way the unbelievers will be punished, and Paradise and the way the believers will be rewarded.
+Verily, the tree of Zaqqu (43)Will be the food of the sinners (44)Like boiling oil, it will boil in the bellies (45)Like the boiling of scalding water (46)(It will be said:) "Seize him and drag him into the midst of blazing Fire, (47)"Then pour over his head the torment of boiling water.
 
 ## Tafsir Ibn Kathir
 

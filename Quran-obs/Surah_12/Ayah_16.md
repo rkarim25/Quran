@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they came to their father in the early part of the night weeping (16)They said: "O our father! As in verse 16: وَجَاءُوا أَبَاهُمْ عِشَاءً يَبْكُونَ They came weeping to their father at nightfall.
+Yusuf's Brothers try to deceive Their Father Allah narrates to us the deceit that Yusuf's brothers resorted to, after they threw him to the bottom of the well.
 
 ## Tafsir Ibn Kathir
 

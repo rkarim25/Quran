@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, We have tried them as We tried the People of the Garden, when they swore to pluck the fruits in the morning (17)Without (saying: "If Allah wills." (18)Then there passed over it a Ta'if from your Lord while they were asleep (19)So by the morning, it became like As-Sarim (20)Then they called out (one to another as soon) as the morning broke (21)Saying: "Go to your tilth in the morning, if you would pluck (the fruits). قَالُوا سُبْحَانَ رَ‌بِّنَا إِنَّا كُنَّا ظَالِمِينَ (They said, "We pronounce the purity of our Lord.
+Truly, we hope in our Lord.) It has been said, "They were hoping for something better in exchange in this life." It has also been said, "They were hoping for its reward in the abode of the Hereafter." And Allah knows best. This indicates that anyone who prevents other people from committing sins but does not abstain from them himself and joins them in doing the wrong acts, he will suffer the same fate as the others.
 
 ## Tafsir Ibn Kathir
 

@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-For every nation there is a direction to which they face (in their prayers). The question of religious orientation being of the highest significance for an Ummah (or a traditional community), these verses continue and enlarge upon the theme of the Qiblah, and lay down further raisons d'etre for the change.
+What these men of good will tend to ignore is the elementary fact that the Word of Allah cannot be subservient to the rules of philosophical or literary composition, and that the reiteration of words and phrases, even of a sequence of sentences, is a regular mode of expression common to all the Sacred Books of the world.
 
 ## Tafsir Ibn Kathir
 

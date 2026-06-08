@@ -45,7 +45,7 @@ Say: "I am only a human being like you. It is revealed to me that your God is On
 
 ## Tafsir Summary
 
-Say: "I am only a human being like you. Toward the end of the address, both the aspects of glad tidings and of warnings of the Qur'n have been presented to them, making it clear that there are dire consequences for the mushrikin (those who associate partners with Allah) and eternal rewards for the believers.
+The Zakah paid on one's wealth is so called because it purifies wealth, and it is a means of increasing it, blessing it and making it more beneficial, and a means of assisting one to use it in doing good deeds.
 
 ## Tafsir Ibn Kathir
 

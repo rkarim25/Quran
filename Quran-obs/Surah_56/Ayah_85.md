@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then why do you not (intervene) when it reaches Al-Hulqum (83)And you at the moment are looking (84)But We are nearer to him than you, but you see not (85)Then why do you not – if you are not Madini (86)Return the soul,… In the current verse the word is used in the sense of hypocrisy and rejection of Allah's verses carelessly.
+In other words, that is, He is nearer to him in terms of knowledge and power. And We are closer to him than you, but you do not perceive.
 
 ## Tafsir Ibn Kathir
 

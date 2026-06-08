@@ -99,7 +99,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Except those of the Mushrikin with whom you have a treaty, and who have not subsequently failed you in aught, nor have supported anyone against you. 6.
+Existing Peace Treaties remained valid until the End of Their Term This is an exception regulating the longest extent of time for those who have a general treaty - with out time mentioned - to four months.
 
 ## Tafsir Ibn Kathir
 

@@ -86,7 +86,7 @@ Previous verses carried inducement to Jihad. The first verse from the present on
 
 ## Tafsir Summary
 
-And whenever there comes down a Surah, some of them (hypocrites) say: "Which of you has had his faith increased by it" As for those who believe, it has increased their faith, and they rejoice (124)But as for those in who… Previous verses carried inducement to Jihad.
+And whenever there comes down a Surah, some of them (hypocrites) say: "Which of you has had his faith increased by it" As for those who believe, it has increased their faith, and they rejoice (124)But as for those in whose hearts is a disease, it will add Rijs (doubt) to their Rijs (doubt); and they die while they are disbelievers . He carried out the command by assembling people from his family and conveyed to them the Word of Allah as revealed to him.
 
 ## Tafsir Ibn Kathir
 

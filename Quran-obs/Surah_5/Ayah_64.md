@@ -211,7 +211,7 @@ Some conditions of the Jews were mentioned in the previous verses. More particul
 
 ## Tafsir Summary
 
-The Jews say: "Allah's Hand is tied up." Be their hands tied up and be they accursed for what they uttered. Some conditions of the Jews were mentioned in the previous verses.
+Rather, they mean that He is a miser and does not spend from what He has.
 
 ## Tafsir Ibn Kathir
 

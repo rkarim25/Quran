@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Introduction to Surat Ar-Rahman Imam Ahmad recorded that Zirr said that a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! وَالْأَرْ‌ضَ وَضَعَهَا لِلْأَنَامِ (And the earth is placed by Him for creatures...55:10).
+Evidently, the word 'anam in the verse refers to mankind and the jinn, because only these two species of Allah's creation are obligated to observe the precepts of Shari` ah. And observe the weight with equity and do not make the balance deficient.)(10.
 
 ## Tafsir Ibn Kathir
 

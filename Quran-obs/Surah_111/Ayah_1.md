@@ -32,7 +32,7 @@ It is recorded in the two Sahihs that when the verse وَأَنذِرْ‌ عَ�
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Name and Nickname of Abu Lahab Abu Lahab [ Father of Flame ] was the Nickname of ` Abd-ul-` Uzza, one of the sons of ` Abdul-Muttalib.
+The Qur'an did not mention his real name, because it smacked of paganism, and the last element 'lahab' [ Flame ] in the nickname has also nexus with the flame of Hell. I do not see any of the things Muhammad said in you.) Therefore, the Qur'an attributes his destruction to his hands.
 
 ## Tafsir Ibn Kathir
 

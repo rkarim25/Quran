@@ -23,7 +23,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Introduction to Surat Ar-Rahman Imam Ahmad recorded that Zirr said that a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! وَالسَّمَاءَ رَ‌فَعَهَا وَوَضَعَ الْمِيزَانَ (And He raised the sky high, and has placed the scale....55:7) The verbs rafa'a and wada` a are antonyms: rafa'a means 'to raise up' and wada'a means 'to put down'.
+And the heaven He has raised high, and He has set up the balance.)(8. Having described the high position of the heaven, the Qur'an goes on to describe that Allah has set the balance, but 'placing the scale' vis-a-vis 'raising the heaven' does not seem to form a suitable pair according to the linguistic norm.
 
 ## Tafsir Ibn Kathir
 

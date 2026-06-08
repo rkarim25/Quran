@@ -154,7 +154,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! کمَا قَالَ عِيسَى ابْنُ مَرْ‌يَمَ لِلْحَوَارِ‌يِّينَ مَنْ أَنصَارِ‌ي إِلَى اللَّـهِ (...just as ` Isa, son of Maryam, said to the Disciples, "Who are my supporters towards Allah?" ...[ 61:14] " The word حَوَارِ‌يُّونَ hawariyyin is the plural of hawariyy which connotes a 'sincere friend who is free from any kind of adulteration' [ Ruh-ul-Ma’ ani, referring to Azhari ].
+Then a group of the Children of Israel believed and a group disbelieved. They accepted the guidance that 'Isa brought to them, while another group, was led astray.
 
 ## Tafsir Ibn Kathir
 

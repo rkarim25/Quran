@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who are blessed, they will be in Paradise, abiding therein for all the time that the heavens and the earth endure, except as your Lord wills: a gift without an end (108) The Condition of the Happy People and th… After having given this good counsel to them, he warned them of the punishment of Allah Ta` ala.
+And those who are blessed, they will be in Paradise, abiding therein for all the time that the heavens and the earth endure, except as your Lord wills: a gift without an end .
 
 ## Tafsir Ibn Kathir
 

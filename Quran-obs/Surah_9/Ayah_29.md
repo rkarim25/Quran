@@ -134,7 +134,7 @@ This honorable Ayah was revealed with the order to fight the People of the Book,
 
 ## Tafsir Summary
 
-O you who believe! Verse 28 appearing earlier referred to Jihad against the Mushirks of Makkah.
+Surely, Allah is All-Knowing, All-Wise (28)Fight against those who believe not in Allah, nor in the Last Day, nor forbid that which has been forbidden by Allah and His Messenger, and those who acknowledge not the religion of truth among the People of the Scripture, until they pay the Jizyah with willing submission, and feel themselves subdued .
 
 ## Tafsir Ibn Kathir
 

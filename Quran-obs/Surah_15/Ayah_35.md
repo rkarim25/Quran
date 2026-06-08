@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Allah) said: "Then leave, for verily, you are an outcast. The Command to Prostrate was Given to Angels - Iblis was to Follow Suit Addressing Iblis in Surah Al-A` raf, it was said: مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْ‌تُكَ (What stopped you from prostrating when I ordered you?
+Every bell that rings on this earth until the Day of Resurrection is part of that.
 
 ## Tafsir Ibn Kathir
 

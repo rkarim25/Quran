@@ -32,7 +32,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The believers are only those who, when Allah is mentioned, feel a fear in their hearts and when His Ayat are recited unto them, they increase their faith; and they put their trust in their Lord (2)Who perform the Salah and spend out of what We have provided them (3)It is they who are the believers in truth. The Fourth Attribute: Establishment of Salah The fourth attribute of the believers has been described as: ' (They are) those who establish Sarah.' At this point, it is worth keeping in mind that the text is not talking about making, saying, offering or performing Salah, instead, what has been mentioned here is Iqamah of Salah.
+The believers are only those who, when Allah is mentioned, feel a fear in their hearts and when His Ayat are recited unto them, they increase their faith; and they put their trust in their Lord (2)Who perform the Salah and spend out of what We have provided them (3)It is they who are the believers in truth.
 
 ## Tafsir Ibn Kathir
 

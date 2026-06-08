@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Mulk Imam Ahmad recorded from Abu Hurayrah that Allah's Messenger ﷺ said, وَلَقَدْ زَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَجَعَلْنَاهَا رُ‌جُومًا لِّلشَّيَاطِينِ (And We have decorated the nearest sky with lamps, and have made them devices to stone the devils, and We have prepared for them the punishment of Hell....67:5).
+And indeed We have adorned the nearest heaven with lamps, and We have made such lamps (as) missiles to drive away the Shayatin, and have prepared for them the torment of the blazing Fire.) Glorification of Allah and mentioning the Creation of Death, Life, the Heavens and the Stars Allah the Exalted glorifies His Noble Self and informs that the dominion is in His Hand.
 
 ## Tafsir Ibn Kathir
 

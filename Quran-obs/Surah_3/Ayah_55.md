@@ -136,7 +136,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Allah said: "O 'Isa! The word, مُتَوَفِّيكَ 'Mutawaffi' in إِنِّي مُتَوَفِّيكَ takes 'tawaffi' as its verbal noun with its root being 'wafyun.' Lexically, the word means 'to take in full'.
+Even if we were to leave this aspect aside, we know that a temporary domination by the Jews close to the Day of Judgment has been reported in the authentic reports of the Holy Prophet ﷺ Now if this world is destined to exist for any considerable period of time and if the Day of Judgment is close, that domination too is not contrary to the reports which Muslims consider authentic.
 
 ## Tafsir Ibn Kathir
 

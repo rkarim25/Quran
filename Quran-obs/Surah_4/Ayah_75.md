@@ -136,7 +136,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And what is wrong with you that you fight not in the cause of Allah, and for those weak, ill-treated and oppressed among men, women, and children, whose cry is: "Our Lord! Answering the call of the oppressed Left behind in Makkah were Muslims who were unable to migrate because of physical weakness and insufficiency of resources.
+Encouraging Jihad to Defend the Oppressed Allah encouraged His believing servants to perform Jihad in His cause and to strive hard to save the oppressed Muslims in Makkah, men, women and children who were restless because of having to remain there. Commentary Answering the call of the oppressed Left behind in Makkah were Muslims who were unable to migrate because of physical weakness and insufficiency of resources.
 
 ## Tafsir Ibn Kathir
 

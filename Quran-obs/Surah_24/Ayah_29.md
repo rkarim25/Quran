@@ -81,7 +81,7 @@ Literal meaning of the word متاع Mata` is to use, put to use, and to benefit
 
 ## Tafsir Summary
 
-O you who believe! There is no sin on you if you enter uninhabited houses in which you have rightful benefit - 24:29.
+Anything from which some benefit is drawn is also called Mata`.
 
 ## Tafsir Ibn Kathir
 

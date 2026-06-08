@@ -32,7 +32,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Allah said "Do not worship two gods. Even the Punishment of the World is Mercy in Disguise In the verses cited above, after having mentioned various punishments which could seize disbelievers within this world, it was said in the end: فَإِنَّ رَ‌بَّكُمْ لَرَ‌ءُوفٌ رَّ‌حِيمٌ (So, indeed your Lord is Very Kind Very Merciful).
+So they are ungrateful for that which We have given them!)(16:54-55) It was said that the Lam here (translated as "So") is an indicator of sequence, or that it serves an explanatory function, meaning, 'We decreed that they would conceal the truth and deny the blessings that Allah has bestowed upon them. Then enjoy yourselves but you will soon come to know .
 
 ## Tafsir Ibn Kathir
 

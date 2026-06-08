@@ -115,7 +115,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "No food will come to you as your provision, but I will inform its interpretation before it comes. ذَٰلِكُمَا مِمَّا عَلَّمَنِي رَ‌بِّي (This is of the knowledge my Lord has given me).
+Yusuf calls His Jail Mates to Tawhid even before He interprets Their Dreams Yusuf, peace be upon him, told the two men that he has knowledge in the interpretation of whatever they saw in their dream, and that he will tell them about the interpretation of the dreams before they become a reality.
 
 ## Tafsir Ibn Kathir
 

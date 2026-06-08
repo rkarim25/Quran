@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then he followed (another) way (92)Until, when he reached between two mountains, he found before them a people who scarcely understood a word (93)They said: "O Dhul-Qarnayn! Explanation of Difficult Words 1.
+But, they still attacked through the pass in between the two mountains and which was closed by Dhul-Qarnain.
 
 ## Tafsir Ibn Kathir
 

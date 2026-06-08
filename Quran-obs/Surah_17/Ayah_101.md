@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We gave Musa nine clear signs. The first verse (101): وَلَقَدْ آتَيْنَا مُوسَىٰ تِسْعَ آيَاتٍ mentions the bestowal of nine clear signs on Sayyidna Musa (علیہ السلام) .
+Therefore, a number of commentators have taken the word 'ayat' to mean miracles - and the number nine does not make it necessary that they will not be more than nine - but, at this place, the figure 'nine' has been mentioned on the basis of some particular importance it has. These became evidence against them, because they stubbornly rejected them out of disbelief.
 
 ## Tafsir Ibn Kathir
 

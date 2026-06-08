@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And on the Day when We shall gather them all together, We shall say to those who joined partners in worship (with Us): "Where are your partners (false deities) whom you used to assert (as partners in worship with Allah)? In short, on this venue of the great trial, a long period of time will pass for the trial to begin, so much so, that these people will wish that reckoning comes so that they can be relieved from their state of uncertainty, no matter what happens in the end.
+If he chooses to lie, as he did in his mortal life, his right to do that will not be snatched away from him - because Allah will Himself, in His absolute power, demolish the facade of his lie through the testimony of his own body parts. Therefore, on the day of Resurrection they would swear to it that they were not Mushriks.
 
 ## Tafsir Ibn Kathir
 

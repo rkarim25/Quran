@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And among mankind is he who worships Allah as it were upon the edge: if good befalls him, he is content therewith; but if a Fitnah strikes him, he turns back on his face. (And among men there is one who worships Allah (standing) on the verge - 22:11.) Bukhari and Ibn Abi Haim have related from Sayyidna Ibn ` Abbas ؓ that when the Holy Prophet ﷺ migrated to Madinah, people flocked to him and accepted the new religion.
+That is a straying far away (12)He calls unto him whose harm is nearer than his profit; certainly an evil Mawla and certainly an evil 'Ashir .
 
 ## Tafsir Ibn Kathir
 

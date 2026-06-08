@@ -182,7 +182,7 @@ Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur re
 
 ## Tafsir Summary
 
-Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur recorded that Sa'id bin Jubayr said, "I asked Ibn 'Abbas about Surat Al-Hashr and he said, 'It was revealed about Bani An-Nadir.'" Al-Bukhari and Muslim recorded it using another chain of narration from Ibn 'Abbas. (1) The original word used in the text is 'hashr' which means 'gathering' or 'mustering' and after which this Surah is named.
+He it is Who drove out the disbelievers among the People of the Scripture from their homes at the first gathering. But Allah reached them from a place whereof they expected it not, and He cast terror into their hearts so that they demolished their own dwellings with their own hands and the hands of the believers.
 
 ## Tafsir Ibn Kathir
 

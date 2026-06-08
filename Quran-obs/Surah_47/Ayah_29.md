@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or do those in whose hearts is a disease, think that Allah will not expose their ill–wills (29)Had We so willed, We could have shown them clearly to you, so that you would know them by their marks; but you will know them by the tone of their speech! أَمْ حَسِبَ الَّذِينَ فِي قُلُوبِهِم مَّرَ‌ضٌ أَن لَّن يُخْرِ‌جَ اللَّـهُ أَضْغَانَهُمْ (Do those having disease in their hearts rather think that Allah will never expose their grudges [ against Islam ]?
+Or do those in whose hearts is a disease, think that Allah will not expose their ill–wills (29)Had We so willed, We could have shown them clearly to you, so that you would know them by their marks; but you will know them by the tone of their speech!
 
 ## Tafsir Ibn Kathir
 

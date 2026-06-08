@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "By Allah! The answer given was: قَالُوا جَزَاؤُهُ مَن وُجِدَ فِي رَ‌حْلِهِ فَهُوَ جَزَاؤُهُ ۚ كَذَٰلِكَ نَجْزِي الظَّالِمِين ، that is, the brothers of suf said: ` It's punishment is that he, in whose baggage it is found, shall him-self be the punishment.
+This is how we punish the wrongdoers.' The sense of the statement is that the punishment for theft in the Shari` ah of Sayyidna Ya` qub11 allowed the person whose property had been stolen to take the thief as his slave.
 
 ## Tafsir Ibn Kathir
 

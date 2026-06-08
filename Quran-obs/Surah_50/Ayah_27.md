@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And his companion (angel) will say: "Here is (his record) ready with me! Man and Devil Dispute before Allah قَالَ قَرِ‌ينُهُ رَ‌بَّنَا مَا أَطْغَيْتُهُ (His (evil) companion (i.e.
+The word qarin literally denotes a companion, that is, one who accompanies or associates with another.
 
 ## Tafsir Ibn Kathir
 

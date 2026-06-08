@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when the angels said: "O Maryam! 1.
+The superiority of 'A'ishah (his wife) to other women, is like the superiority of Tharid (meat and bread dish) to other meals.) We mentioned the various chains of narration and wordings for this Hadith in the story of 'Isa, son of Maryam, in our book, Al-Bidayah wan-Nihayah, all the thanks are due to Allah.
 
 ## Tafsir Ibn Kathir
 

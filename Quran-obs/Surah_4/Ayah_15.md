@@ -104,7 +104,7 @@ Ibn 'Abbas and Sa'id bin Jubayr said that this punishment includes cursing, sham
 
 ## Tafsir Summary
 
-And those of your women who commit illegal sexual intercourse, take the evidence of four witnesses from among you against them; and if they testify, confine them (i.e. In previous verses, the objective was to correct the malpractices of the days of ignorance committed about orphans and inheritances.
+Secondly, the number of the required witnesses is raised to four.
 
 ## Tafsir Ibn Kathir
 

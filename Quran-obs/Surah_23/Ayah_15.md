@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We created man out of an extract of Tin (12)Thereafter We made him a Nutfah in a safe lodging (13)Then We made the Nutfah into a clot, then We made the clot into a little lump of flesh, then We made out of that little lump of flesh bones, then We clothed the bones with flesh, and then We brought it forth as another creation. Then, after all this, you are to die - 23:15 The preceding three verses were about the creation of man and this verse and the one which follows is about the life to come.
+Then the angel is sent to him and he breathes the soul into it, and four things are decreed: his provision, his life-span, his deeds, and whether he will be wretched or blessed.
 
 ## Tafsir Ibn Kathir
 

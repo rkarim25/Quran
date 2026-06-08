@@ -26,7 +26,7 @@ Many of the scholars of Tafsir have mentioned that these Ayat were revealed abou
 
 ## Tafsir Summary
 
-Truly, on Us is (to give) guidance (12)And truly, unto Us (belong) the last (Hereafter) and the first (this world)(13)Therefore I have warned you of a Fire Talazza (14)None shall enter it save the most wretched (15)Who d… وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَ‌دَّىٰ (And his wealth will not help him when he will fall down...92:11).
+The word taradda literally denotes 'to fall into a pit and perish'. Truly, on Us is (to give) guidance (12)And truly, unto Us (belong) the last (Hereafter) and the first (this world)(13)Therefore I have warned you of a Fire Talazza (14)None shall enter it save the most wretched (15)Who denies and turns away (16)And those with Taqwa will be far removed from it (17)He who gives of his wealth for self-purification (18)And who has (in mind) no favor from anyone to be paid back (1…
 
 ## Tafsir Ibn Kathir
 

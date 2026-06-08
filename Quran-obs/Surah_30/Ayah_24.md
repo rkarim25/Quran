@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And among His signs is that He shows you the lightning, for fear and for hope, and He sends down water from the sky, and therewith revives the earth after its death. Fifth sign of divine omnipotence Allah Ta’ ala shows the flash of lightning to people in which there is risk of its striking, thus destruction.
+Fifth sign of divine omnipotence Allah Ta’ ala shows the flash of lightning to people in which there is risk of its striking, thus destruction.
 
 ## Tafsir Ibn Kathir
 

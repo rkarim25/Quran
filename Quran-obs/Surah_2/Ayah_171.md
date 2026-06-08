@@ -87,7 +87,7 @@ Allah states that if the disbelievers and polytheists are called to follow what 
 
 ## Tafsir Summary
 
-And the example of those who disbelieve is as that of him who shouts to those (flock of sheep) that hear nothing but calls and cries. When these mushrik people were asked to follow the injunctions revealed by Allah through His Messenger, they refused to do so and insisted that they would rather follow the customary practice they had inherited from their fathers because, as they assumed, their models were divinely appointed to follow the way they adopted.
+And the example of those who disbelieve is as that of him who shouts to those (flock of sheep) that hear nothing but calls and cries.
 
 ## Tafsir Ibn Kathir
 

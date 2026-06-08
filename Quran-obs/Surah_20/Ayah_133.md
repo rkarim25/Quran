@@ -66,7 +66,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "Why does he not bring us a sign from his Lord?" Has there not come to them the proof of that which is in the former papers (Scriptures)(133)And if We had destroyed them with a torment before this, they would surely have said: "Our Lord! أَوَلَمْ تَأْتِهِم بَيِّنَةُ مَا فِي الصُّحُفِ الْأُولَىٰ (Has there not come to them the manifestation of that which was contained in the earlier scriptures?
+That which I have been given is a revelation that Allah has revealed to me, so I hope that I have the most followers among them (the Prophets) on the Day of Resurrection.) In this Hadith, the Prophet ﷺ only mentioned the greatest of the signs that he was given, which is the Qur'an.
 
 ## Tafsir Ibn Kathir
 

@@ -75,7 +75,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those to whom We gave the Scripture before it, they believe in it (52)And when it is recited to them, they say: "We believe in it. إِنَّا كُنَّا مِن قَبْلِهِ مُسْلِمِينَ (And we are the ones who submitted (to it) even before it (was revealed) - 28:53).
+The word used by these people of the book for their submission is 'muslims' which may also be translated as ` We were Muslims even before the revelation of Qur'an'. He has explained this verse advocating that the word Muslimin is used here in the sense that` we were ready and prepared to accept Islam even before'.
 
 ## Tafsir Ibn Kathir
 

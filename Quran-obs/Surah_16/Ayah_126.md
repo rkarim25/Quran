@@ -62,7 +62,7 @@ Ibn Sirin said, "If a man among you takes something from you, then you should ta
 
 ## Tafsir Summary
 
-And if you punish them, then punish them with the like of that with which you were afflicted. Causing Pain to a Man of Da'wah: Revenge is Permissible, but Patience is Better.
+And if you opt for patience, it is definitely much better for those who are patient - 126), these noble workers in the way of Allah were given the legal right that it was permissible for them to retaliate against injustice done to them.
 
 ## Tafsir Ibn Kathir
 

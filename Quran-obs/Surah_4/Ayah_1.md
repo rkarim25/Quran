@@ -128,7 +128,7 @@ Al-'Awfi Reported that Ibn 'Abbas said that Surat An-Nisa' was revealed in Al-Ma
 
 ## Tafsir Summary
 
-Virtues of Surat An-Nisa, A Madinan Surah Al-'Awfi Reported that Ibn 'Abbas said that Surat An-Nisa' was revealed in Al-Madinah. The last verse of Surah 'Al-` Imran was concluded with an exhortation to Taqwa, the fear of Allah.
+That they be determined fully and perfectly through mutual agreements is also much too difficult.
 
 ## Tafsir Ibn Kathir
 

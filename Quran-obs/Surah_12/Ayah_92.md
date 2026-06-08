@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "Do you know what you did with Yusuf and his brother, when you were ignorant? لَا تَثْرِ‌يبَ عَلَيْكُمُ (No reproach upon you), that is, ` not to say much about taking a revenge of your injustices against me, on this day, I would not even blame you for it.' This much was the good news of forgiveness from his side which he let them hear.
+But, there are details to it, that is, there is a general return for Sadaqah and Khairat which is received by everyone, believer or disbeliever, right here in the present world.
 
 ## Tafsir Ibn Kathir
 

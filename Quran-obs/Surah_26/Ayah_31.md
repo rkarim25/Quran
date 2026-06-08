@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "If you choose a god other than me, I will certainly put you among the prisoners. Bani Isra'il were the residents of Syria.
+After that he turned to the second point regarding his upbringing in the Pharaoh's house, upon which the Pharaoh had stressed to remind his favour to him. But in any case, the real cause of his upbringing in the home of the Pharaoh was the cruelty exercised by him against the Israelites.
 
 ## Tafsir Ibn Kathir
 

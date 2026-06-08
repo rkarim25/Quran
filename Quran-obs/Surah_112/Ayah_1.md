@@ -28,7 +28,7 @@ According to another narration, the pagans added to their question whether Allah
 
 ## Tafsir Summary
 
-The Reason for the Revelation of this Surah and its Virtues Imam Ahmad recorded from Ubayy bin Ka'b that the idolators said to the Prophet ﷺ, "O Muhammad! Tirmidhi, Hakim and others have recorded that the pagans of Makkah asked the Messenger of Allah ﷺ : "0 Muhammad!
+He is the One Who is perfect in all aspects of nobility and authority.
 
 ## Tafsir Ibn Kathir
 

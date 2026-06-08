@@ -124,7 +124,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-To Him is the return of all of you. The fourth verse describes the ` Aqidah of 'Akhirah (Belief in the Hereafter) إِلَيْهِ مَرْ‌جِعُكُمْ جَمِيعًا (Towards Him is the return of you all).
+The Return of Everything is to Allah Allah tells us that the return of the creatures on the Day of Resurrection is to Him.
 
 ## Tafsir Ibn Kathir
 

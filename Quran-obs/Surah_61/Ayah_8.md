@@ -56,7 +56,7 @@ This is followed by a description of the Jihads which Prophets Musa and ` Isa (�
 
 ## Tafsir Summary
 
-And who does more wrong than the one who invents a lie against Allah, while he is being invited to Islam? إِنَّ اللَّـهَ يُحِبُّ الَّذِينَ يُقَاتِلُونَ فِي سَبِيلِهِ صَفًّا كَأَنَّهُم بُنْيَانٌ مَّرْ‌صُوصٌ (Surely Allah loves those who fight in His way in firm rows, as if they were a solid edifice...61:4) The main subject of this Surah for which it was revealed is to mention the dearest action in the sight of Allah.
+But Allah will bring His Light to perfection even though the disbelievers hate (it)(8)He it is Who has sent His Messenger with guidance and the religion of truth to make it victorious over all religions even though idolators hate (it).
 
 ## Tafsir Ibn Kathir
 

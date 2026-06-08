@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The likeness of those who were entrusted with the Tawrah, but did not carry it, is as the likeness of a donkey which carries huge burdens of books. مَثَلُ الَّذِينَ حُمِّلُوا التَّوْرَ‌اةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ الْحِمَارِ‌ يَحْمِلُ أَسْفَارً‌ا (The example of those who were ordered to bear (the responsibility of acting upon) the Torah, then they did not bear it, is like a donkey that carries a load of books...5) The word asfar is the plural of sifr, which means a 'large book'.
+The donkey carries its loads, but it is neither aware of its subject-matter, nor does it benefit by it.
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Thus it is, and whosoever honors the Sha'a'ir of Allah, then it is truly from the Taqwa of the hearts (32)In them are benefits for you for an appointed term, and afterwards they are brought for sacrifice to the 'Atiq Hou… لَكُمْ فِيهَا مَنَافِعُ إِلَىٰ أَجَلٍ مُّسَمًّى (And for you there are benefits in them upto a specified time - 22:33).
+Thus it is, and whosoever honors the Sha'a'ir of Allah, then it is truly from the Taqwa of the hearts (32)In them are benefits for you for an appointed term, and afterwards they are brought for sacrifice to the 'Atiq House .
 
 ## Tafsir Ibn Kathir
 

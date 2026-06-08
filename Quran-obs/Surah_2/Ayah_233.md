@@ -277,7 +277,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The mothers should suckle their children for two whole years, (that is) for those (parents) who desire to complete the term of suckling, but the father of the child shall bear the cost of the mother's food and clothing on a reasonable basis. The injunctions of suckling the children by the mothers This verse contains injunctions relating to rada` ah (رضاعۃ) or the suckling of children.
+Here her maintenance, which is the responsibility of the child's father, is enough in itself.
 
 ## Tafsir Ibn Kathir
 

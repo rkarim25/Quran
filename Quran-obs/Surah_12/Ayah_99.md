@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, when they came in before Yusuf, he took his parents to himself and said: "Enter Egypt, if Allah wills, in security. About what has been said in the next verse: فَلَمَّا دَخَلُوا عَلَيْهِ (Later, when they came to Yusuf ...
+Yusuf welcomes His Parents - His Dream comes True Allah states that Ya'qub went to Yusuf in Egypt. When Yusuf received news of their approach to Egypt, he went out to receive them.
 
 ## Tafsir Ibn Kathir
 

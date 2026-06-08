@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Whatever of mercy, Allah may grant to mankind, none can withhold it; and whatever He may withhold, none can grant it thereafter. The word: رَّ‌حْمَةٍ (rahmah: mercy) appearing in verse 2: مَّا يَفْتَحِ اللَّـهُ لِلنَّاسِ مِن رَّ‌حْمَةٍ فَلَا مُمْسِكَ لَهَا (Whatever blessing Allah opens for the people, there is none to hold it back,) is general at this place.
+It is being said here that the person for whom Allah Ta’ ala intends to open the doors of His mercy, there is no one who can stop it.
 
 ## Tafsir Ibn Kathir
 

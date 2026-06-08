@@ -112,7 +112,7 @@ It has been repeatedly explained earlier that the majority of injunctions appear
 
 ## Tafsir Summary
 
-It is not for a believer, man or woman, when Allah and His Messenger have decreed a matter that they should have any option in their decision. It has been repeatedly explained earlier that the majority of injunctions appearing in Surah Al-Ahzab relate to the reverence, love and perfect obedience of the Holy Prophet ﷺ or to the prohibition of causing any pain to him.
+Whoever does not have it, no matter how noble his family is, he yet has no status in the sight of Allah.
 
 ## Tafsir Ibn Kathir
 

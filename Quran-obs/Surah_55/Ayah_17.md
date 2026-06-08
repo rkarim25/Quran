@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He created man from sounding clay like the clay of pottery (14)And the Jinn He created from a smokeless flame of fire (15)Then which of the blessings of your Lord will you both deny (16)The Lord of the two easts and the… Allah is the Lord of the Two Points of Sunrise and the Two Points of Sunset رَ‌بُّ الْمَشْرِ‌قَيْنِ وَرَ‌بُّ الْمَغْرِ‌بَيْنِ (He is the Lord of both points of sunrise and both points of sunset...55:17) The sun rises at different cardinal points in the east in winter and in summer: Thus we have the two easts [ mashriqain ].
+Similarly, the sun sets at different cardinal points in the west in winter and summer: Thus we have two wests [ maghribain ].
 
 ## Tafsir Ibn Kathir
 

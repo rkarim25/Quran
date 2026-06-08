@@ -64,7 +64,7 @@ So, they pursued them at sunrise (60)And when the two hosts saw each other, the 
 
 ## Tafsir Summary
 
-So, they pursued them at sunrise (60)And when the two hosts saw each other, the companions of Musa said: "We are sure to be overtaken. The reasoning for this he gave إِنَّ مَعِيَ رَ‌بِّي سَيَهْدِينِ (62) "Indeed with me is my Lord.
+At that point Allah commanded his Prophet Musa, peace be upon him, to strike the sea with his staff, so he struck it, and it parted, by the will of Allah.
 
 ## Tafsir Ibn Kathir
 

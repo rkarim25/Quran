@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So if you are in doubt concerning that which We have revealed unto you, then ask those who are reading the Book before you. In the fourth (95), fifth (96) and sixth (97) verses, the same subject finds support and emphasis while carrying a warning to those who are heedless.
+So be not of those who doubt (it)(94)And be not one of those who belie the Ayat of Allah, for then you shall be one of the losers (95)Truly, those, against whom the Word of your Lord has been justified, will not believe (96)Even if every sign should come to them, until they see the painful torment .
 
 ## Tafsir Ibn Kathir
 

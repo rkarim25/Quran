@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Denied before them the people of Nuh, and the Dwellers of Rass, and Thamud (12)And 'Ad, and Fir'awn, and the brethren of Lut (13)And the Dwellers of Al-Aykah, and the people of Tubba'. Aikah means a dense bush; wood; forest; jungle, These people resided in such a place.
+Everyone of them denied (their) Messengers, so My threat took effect (14)Were We then tired with the first creation?
 
 ## Tafsir Ibn Kathir
 

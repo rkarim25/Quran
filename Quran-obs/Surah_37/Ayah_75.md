@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed Nuh invoked Us, and We are the best of those who answer (75)And We rescued him and his family from the great distress (76)And, his progeny, them We made the survivors (77)And left for him (a goodly remembrance) among the later generation (78)"Salam (peace!) be upon Nuh among the all creatures! In the previous verses, it was said that Allah had sent messengers to warn the earlier communities as well, but most of the people did not listen to them, therefore, they met a very sad end.
+He stayed among them for one thousand years less fifty, and after he stayed among them for so long and their disbelief became too much for him to bear – for every time he called them, they turned away from him even more – he prayed to his Lord saying, "I have been overcome, so help (me)!" So Allah became angry because Nuh was angry with them.
 
 ## Tafsir Ibn Kathir
 

@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-We created not the heavens and the earth and all that is between them for play (16)Had We intended to take a pastime, We could surely have taken it from Us, if We were going to do (that)(17)Nay, We fling the truth against the falsehood, so it destroys it, and behold, it disappears. This point has been brought to a conclusion in the next verse by saying يُسَبِّحُونَ اللَّيْلَ وَالنَّهَارَ‌ لَا يَفْتُرُ‌ونَ , (They proclaim His purity night and day, never slackening - 21:20).
+And those who are near Him are not too proud to worship Him, nor are they weary (19)They glorify His praises night and day, they never slacken .
 
 ## Tafsir Ibn Kathir
 

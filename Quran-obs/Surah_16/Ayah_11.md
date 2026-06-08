@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He it is Who sends water down from the sky; from it you drink and from it (grows) the vegetation on which you send your cattle to pasture (10)With it He causes crops to grow for you, the olives, the date palms, the grapes, and every kind of fruit. It will be noticed that all verses cited above point out to Divine blessings and mention the creation of the universe with unprecedented wisdom.
+Anyone having some reason in him would understand, because there was obviously some human input in the growth of vegetation and trees, but, in this case, there is none.
 
 ## Tafsir Ibn Kathir
 

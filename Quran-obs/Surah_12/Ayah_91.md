@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "Do you know what you did with Yusuf and his brother, when you were ignorant? Now the brothers of Yusuf (علیہ السلام) had no choice left with them but to confess the wrongs they had done and admit the grace and excellence of Sayyidna Yusuf (علیہ السلام) .
+Indeed Allah has preferred you above us, and we certainly have been sinners.
 
 ## Tafsir Ibn Kathir
 

@@ -173,7 +173,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And do not marry Al-Mushrikat (idolatresses) till they believe (worship Allah Alone). Verse 221 carries an injunction relating to marriage with Mushrikin (those who associate partners with Allah).
+And give not (your daughters) in marriage to Al-Mushrikin till they believe (in Allah Alone) and verily, a believing servant is better than a (free) Mushrik (idolator), even though he pleases you.
 
 ## Tafsir Ibn Kathir
 

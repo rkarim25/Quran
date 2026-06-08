@@ -31,7 +31,7 @@ Allah tells us about the reward of those who migrated for His sake, seeking His 
 
 ## Tafsir Summary
 
-And as for those who emigrated for the cause of Allah, after they had been wronged, We will certainly give them good residence in this world, but indeed the reward of the Hereafter will be greater; if they but knew (41)(… Out of these, the very first condition is that of: فِی اللہِ (fil-lah: for the sake of Allah) which means that the purpose of doing Hijrah should only be to please Allah Ta` ala and that, in it, there be no selfish motives of material gains such as business or employment.
+This may have been revealed concerning those who migrated to Ethiopia, those whose persecution at the hands of their own people in Makkah was so extreme that they left them and went to Ethiopia so that they would be able to worship their Lord.
 
 ## Tafsir Ibn Kathir
 

@@ -89,7 +89,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah, it is He Who has made the night for you that you may rest therein and the day for you to see. In the verses cited above, after having presented a few manifestations of Allah's blessings and His perfect power, an invitation to belief in the Oneness of Allah has been extended.
+Allah, it is He Who has made the night for you that you may rest therein and the day for you to see.
 
 ## Tafsir Ibn Kathir
 

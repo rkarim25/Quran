@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, do not obey the deniers (8)They wish that you should compromise with them, so they (too) would compromise with you (9)And do not obey every Hallaf Mahin (10)A Hammaz, going about with Namim (11)Hinderer of the good, transgressor, sinful (12)'Utul, and moreover Zanim (13)(He was so) because he had wealth and children (14)When Our Ayat are recited to him, he says: "Tales of the men of old! (And do not obey any contemptible one who swears much, a slanderer who goes about with calumnies, one who prevents good, [ and who is ] transgressor, sinful, harsh, [ and ] after all that, notorious,..
+_68:10-13) The word zanim refers to 'a person whose legitimate birth from a father is not proved'.
 
 ## Tafsir Ibn Kathir
 

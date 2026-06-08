@@ -92,7 +92,7 @@ So, Allah's Messenger ﷺ gave Az-Zubayr his full right when the Ansari made him
 
 ## Tafsir Summary
 
-We sent no Messenger, but to be obeyed by Allah's leave. Not accepting the decision of the Holy Prophet is Kufr This verse, while projecting a powerful view of the highly exalted station of the noble Prophet ﷺ presents a very explicit statement concerning the need to obey him, something conclusively proved by so many verses of the Holy Qur'an.
+The person who lost the dispute said, "I do not agree." The other person asked him, "What do you want then" He said, "Let us go to Abu Bakr As-Siddiq." They went to Abu Bakr and the person who won the dispute said, "We went to the Prophet ﷺ with our dispute and he issued a decision in my favor." Abu Bakr said, "Then the decision is that which the Messenger of Allah ﷺ issued." The person who lost the dispute still rejected the decision and said, "Let us go to 'Umar bin Al-Khat…
 
 ## Tafsir Ibn Kathir
 

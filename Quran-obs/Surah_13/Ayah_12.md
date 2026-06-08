@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is He Who shows you the lightning, as a fear and as a hope. After that, it was said in verse 12: هُوَ الَّذِي يُرِ‌يكُمُ الْبَرْ‌قَ خَوْفًا وَطَمَعًا وَيُنشِئُ السَّحَابَ الثِّقَالَ.
+Clouds, Thunder and Lightning are Signs of Allah's Power Allah states that He has full power over Al-Barq (lightning), which is the bright light that originates from within clouds.
 
 ## Tafsir Ibn Kathir
 

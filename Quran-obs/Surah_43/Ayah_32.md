@@ -118,7 +118,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Ibrahim said to his father and his people: "Verily, I am innocent of what you worship, (26)"Except Him Who created me; and verily, He will guide me. The Natural system of Distribution of wealth نَحْنُ قَسَمْنَا بَيْنَهُم مَّعِيشَتَهُمْ (We have distributed among them their livelihood).
+But the mercy of your Lord is better than what they amass (32)And were it not that mankind would have become of one community, We would have provided for those who disbelieve in the Most Gracious, silver roofs for their houses, and elevators whereby they ascend (33)And for their houses, doors, and thrones on which they could recline (34)And adornments of gold.
 
 ## Tafsir Ibn Kathir
 

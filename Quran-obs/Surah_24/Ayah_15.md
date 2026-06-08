@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Had it not been for the grace of Allah and His mercy unto you in this world and in the Hereafter, a great torment would have touched you for that whereof you had spoken (14)When you were propagating it with your tongues,… When you were welcoming it with your tongues - 24:15.
+Had it not been for the grace of Allah and His mercy unto you in this world and in the Hereafter, a great torment would have touched you for that whereof you had spoken (14)When you were propagating it with your tongues, and uttering with your mouths that whereof you had no knowledge, you counted it a little thing, while with Allah it was very great .
 
 ## Tafsir Ibn Kathir
 

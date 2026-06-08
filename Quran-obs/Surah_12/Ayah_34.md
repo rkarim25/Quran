@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And women in the city said: "The wife of the 'Aziz is seeking to seduce her (slave) young man, indeed she loves him violently; verily, we see her in plain error. So, his Lord accepted his prayer and turned their guile away from him.
+Surely, He is the All-Hearing, the All-Knowing.
 
 ## Tafsir Ibn Kathir
 

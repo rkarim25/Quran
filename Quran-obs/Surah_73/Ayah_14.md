@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And be patient with what they say, and keep away from them in a good way (10)And leave Me alone to deal with the deniers, those who are in possession of good things of life. يَوْمَ تَرْجُفُ الْاَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيْبًا مَّهِيْلًا (on the Day when the earth and the mountains will quake, and the mountains will turn into a slipping heap of sand.
+Verse [ 14] describes that the punishment will take place on the Day when the earth and mountains will shake and the mountains will be reduced to a heap of dust or shifting dunes. On the Day when the earth and the mountains will (Tarjuf) shake,) meaning, they will quake.
 
 ## Tafsir Ibn Kathir
 

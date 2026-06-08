@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And seek help in patience and As-Salat (the prayer) and truly, it is extremely heavy and hard except for Al-Khashi'in.) (46 (They are those) who are certain that they are going to meet their Lord, and that unto Him they… Khushu` خشوع : The Humbleness of Heart Verse 45 speaks of the humble in heart.
+And seek help in patience and As-Salat (the prayer) and truly, it is extremely heavy and hard except for Al-Khashi'in.) (46 (They are those) who are certain that they are going to meet their Lord, and that unto Him they are going to return . Since they are certain that they will be returned to Allah and be reckoned, it is easy for them to perform the acts of obedience and refrain from the prohibitions.
 
 ## Tafsir Ibn Kathir
 

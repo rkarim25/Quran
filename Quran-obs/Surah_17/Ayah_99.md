@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-That is their recompense, because they denied Our Ayat and said: "When we are bones and fragments, shall we really be raised up as a new creation? In the last verse (95), it was said that they, despite being human, can-not demand that their messenger should be an angel.
+And He has decreed for them an appointed term, whereof there is no doubt.
 
 ## Tafsir Ibn Kathir
 

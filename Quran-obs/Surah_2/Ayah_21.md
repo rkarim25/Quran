@@ -56,7 +56,7 @@ In adding to the phrase: الَّذِي خَلَقَكُمْ :"who created you" 
 
 ## Tafsir Summary
 
-O mankind! A review of verses linked together The second verse of the Surah 'Al-Baqarah' provides the answer to the prayer made in the Surah Al-Fatihah, اهْدِنَا الصِّرَ‌اطَ الْمُسْتَقِيمَ "Guide us in the straight path"- that is to say, the guidance man has prayed for is present in this book, for the Holy Qur'an is from the beginning to the end a detailed account of the straight path.
+So call the Muslims with their names that Allah has called them: 'The Muslims, the believing servants of Allah.') This is a Hasan Hadith, and it contains the statement, "Allah has created and sustains you, so worship Him and do not associate anything with Him in worship." This statement is relevant in the Ayat (2:21-22) we are discussing here and supports singling Allah in worship, without partners.
 
 ## Tafsir Ibn Kathir
 

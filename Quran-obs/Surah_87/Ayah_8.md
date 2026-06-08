@@ -18,7 +18,7 @@ This Surah was revealed in Makkah before the migration to Al-Madinah. The proof 
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-A'la This Surah was revealed in Makkah before the migration to Al-Madinah. وَنُيَسِّرُكَ لِلْيُسْرَىٰ (And We will facilitate for you [ to reach ] the easiest way....87:8).
+The phrase the easiest way' refers to the sacred laws of Islam. Instead, his life will be harmful to him, because it will be the cause of his feeling of the pain of torment and various types of punishments what he is being punished with.
 
 ## Tafsir Ibn Kathir
 

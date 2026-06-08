@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Ibrahim said to his father Azar: "Do you take idols as gods? Using Wisdom and Strategy in Tabligh and Da'wah is the Way of Prophets Let us begin with verse 76 which opens with the words: رَ‌أَىٰ كَوْكَبًا So, when the night enveloped him, he saw a star.
+His people thought that they are too insignificant to worship Allah directly, and this is why they turned to the worship of angels as intercessors with Allah for their provisions, gaining victory and attaining their various needs.
 
 ## Tafsir Ibn Kathir
 

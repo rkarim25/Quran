@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Human Deeds, Good or Bad, will be Weighed This Surah mentions the weighing of human deeds.
+Qatadah said, "He will fall into the Hellfire on his head." Abu Salih made a similar statement when he said, "They will fall into the Fire on their heads." It has also been said that it means his mother that he will return to and end up with in the Hereafter will be Hawiyah, which is one of the names of the Hellfire.
 
 ## Tafsir Ibn Kathir
 

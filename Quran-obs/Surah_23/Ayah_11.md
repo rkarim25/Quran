@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Those are the inheritors who will inherit Firdaus (Paradise) - 23:10, 11.
+One who seeks what Allah has made permissible for him is not to be blamed and there is no sin on him.
 
 ## Tafsir Ibn Kathir
 

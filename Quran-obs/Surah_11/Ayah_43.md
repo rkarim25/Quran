@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And he said: "Embark therein: in the Name of Allah will be its (moving) course and its (resting) anchorage. As stated in the second (42) and third (43) verse, when the whole family of Sayyidna Nuh (علیہ السلام) had boarded the ark, a son whose name has been reported as Kin` an (Canaan) was left out.
+Therefore, in this verse, if the address to the heaven and the earth is taken in the real sense, it does not matter. Sayyidna Nuh warned him again that nothing was going to save anyone, not even a mountain, from the punishment of Allah on that day and that there was no way one could remain safe from it unless Allah Himself were to show mercy to him.
 
 ## Tafsir Ibn Kathir
 

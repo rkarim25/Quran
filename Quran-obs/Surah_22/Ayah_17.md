@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah will judge between the Sects on the Day of Resurrection Allah tells us about the followers of these various religions, the believers (Muslims) and others such as the Jews and Sabians. In verse 17 it is stated that Allah will decide among the believers and non-believers of different faiths on the Day of Resurrection, because He knows everything.
+Allah will judge between the Sects on the Day of Resurrection Allah tells us about the followers of these various religions, the believers (Muslims) and others such as the Jews and Sabians. Commentary In verse 17 it is stated that Allah will decide among the believers and non-believers of different faiths on the Day of Resurrection, because He knows everything.
 
 ## Tafsir Ibn Kathir
 

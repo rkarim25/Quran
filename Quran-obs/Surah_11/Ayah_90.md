@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And O my people! After having given this good counsel to them, he warned them of the punishment of Allah Ta` ala.
+Verily, my Lord is Most Merciful, Most Loving.
 
 ## Tafsir Ibn Kathir
 

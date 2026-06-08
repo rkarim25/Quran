@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "No wage do I ask of you for this, nor am I one of the Mutakallifin. In verse 86, it was said: وَمَا أَنَا مِنَ الْمُتَكَلِّفِينَ (nor am I from among those who make up things artificially.).
+Whatever I am commanded to do, I do it, and I do not add anything or take anything away.
 
 ## Tafsir Ibn Kathir
 

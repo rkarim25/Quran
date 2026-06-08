@@ -192,7 +192,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is He Who has created you from a single person, and has given you a place of residing and a place of storage. The contents of this verse present a unique concern for thematic order.
+Indeed, We have explained in detail Our revelations for people who understand (98)It is He Who sends down water from the sky, and with it We bring forth vegetation of all kinds, and out of it We bring forth green stalks, from which We bring forth thick clustered grain.
 
 ## Tafsir Ibn Kathir
 

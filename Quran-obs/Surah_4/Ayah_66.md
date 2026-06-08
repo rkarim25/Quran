@@ -125,7 +125,7 @@ The present verses and those appearing immediately earlier were revealed in the 
 
 ## Tafsir Summary
 
-And if We had ordered them (saying), "Kill yourselves (i.e. The present verses and those appearing immediately earlier were revealed in the background of an incident relating to Bishr, the hypocrite.
+It means: If these hypocrites, or all common people, disbelievers or believers, were charged with some severe command, such as that of self-killing or migration like the Bani' Isra` il were ordered to do, very few of them would have, being what they are, obeyed this command.
 
 ## Tafsir Ibn Kathir
 

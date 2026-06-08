@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is not (fitting) for a Prophet that he should have prisoners of war until he has fought (his enemies thoroughly) in the land. Ruling 1: In the verse under discussion, admonition came upon releasing prisoners against ransom or collecting spoils, warning of Divine punishment was given, then came forgiveness.
+Surely, Allah is Most-Forgiving, Very-Merciful - 69).
 
 ## Tafsir Ibn Kathir
 

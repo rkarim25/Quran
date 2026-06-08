@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, the parable of the life of the world is as the water which We send down from the sky; so by it arises the intermingled produce of the earth of which men and cattle eat: until when the earth is clad in its adornments and is beautified, and its people think that they have all the powers of disposal over it, Our command reaches it by night or by day and We make it like a clean-mown harvest, as if it had not flourished yesterday! In the previous verse (24), the transitory nature of worldly life was likened to a field.
+And Allah is able to do everything.)(18:45) He also gave similar examples in both Surat Az-Zumar [39:21] and Surat Al-Hadid [57:20].
 
 ## Tafsir Ibn Kathir
 

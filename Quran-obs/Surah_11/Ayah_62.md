@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O Salih! As part of this event, the people of Sayyidna Salih (علیہ السلام) have been reported to have said to him: قَدْ كُنتَ فِينَا مَرْ‌جُوًّا قَبْلَ هَـٰذَا ( O Salih, we had hopes in you before this - 62).
+Do you (now) forbid us the worship of what our fathers have worshipped?
 
 ## Tafsir Ibn Kathir
 

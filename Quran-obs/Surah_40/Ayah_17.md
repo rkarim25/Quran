@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(He is Allah) Owner of high ranks and degrees, the Owner of the Throne. The word: بَارِ‌زُونَ (barizun) in verse 16: يَوْمَ هُم بَارِ‌زُونَ ۖ لَا يَخْفَىٰ عَلَى اللَّـهِ مِنْهُمْ (the day they will come in open view) refers to what would happen on the day of Resurrection when its land surface will be turned into a single level without any mountains, caves, trees or buildings that could obstruct the view.
+Truly, Allah is swift in reckoning.) Here Allah tells us of His justice when He judges between His creation; He does not do even a speck of dust's weight of injustice, whether it be for good or for evil.
 
 ## Tafsir Ibn Kathir
 

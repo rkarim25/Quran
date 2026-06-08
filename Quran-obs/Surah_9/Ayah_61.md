@@ -116,7 +116,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And among them are men who annoy the Prophet and say: "He is (lending his) ear (to every news)." Say: "He listens to what is best for you; he believes in Allah; has faith in the believers; and is a mercy to those of you… The present verses, like the previous ones, chastise hypocrites for their absurd objections, hostility to the Holy Prophet ﷺ and their feigned professions of Faith on false oaths.
+And among them are men who annoy the Prophet and say: "He is (lending his) ear (to every news)." Say: "He listens to what is best for you; he believes in Allah; has faith in the believers; and is a mercy to those of you who believe." But those who annoy Allah's Messenger, will have a painful torment .
 
 ## Tafsir Ibn Kathir
 

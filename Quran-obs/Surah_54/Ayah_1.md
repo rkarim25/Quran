@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Hadith of Abu Waqid preceded, in which it is mentioned that the Messenger of Allah ﷺ would recite Surah Qaf (chapter 53) and Iqtarabat As-Sa'ah (Al-Qamar, chapter 54), during (the 'Id Prayers of) Al-Adha and Al-Fitr. Linkage between Surah An-Najm and Surah Al-Qamar Whereas the preceding Surah An-Najm had ended on a note of warning to disbelievers in the words: اَزِفَۃِ الاٰزِفَۃ azifat-il-` azifah, i.e., the Hour of their doom has drawn near, the present Surah opens with a similar sentence, "The Hour (of doom) has drawn near" and this statement is followed by one of its proofs, that is, the appearance of the miracle of the moon being spli…
+This is the narration that Muslim and At-Tirmidhi collected.
 
 ## Tafsir Ibn Kathir
 

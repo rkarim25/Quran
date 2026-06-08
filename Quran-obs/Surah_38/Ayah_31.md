@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Dawud We gave Sulayman. In these verses, an event relating to Sayyidna Sulayman (علیہ السلام) has been mentioned.
+Verily, he was ever turning in repentance (to Us)(30)When there were displayed before him, in the afternoon, well trained horses of the highest breed (31)He said: "I did love the good instead of remembering my Lord," till the time was over, and (the sun) had hidden in the veil (of night)(32)Then he said: "Bring them back to me." Then he began to pass his hand over their legs and their necks .
 
 ## Tafsir Ibn Kathir
 

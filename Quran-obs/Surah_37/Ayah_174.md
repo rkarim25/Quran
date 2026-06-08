@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And, verily, Our Word has gone forth of old for Our servants, the Messengers (171)That they verily would be made triumphant (172)And that Our hosts! The sense of 'the victory of the people of Allah' In verses 171-173, it was said: وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا الْمُرْ‌سَلِينَ إِنَّهُمْ لَهُمُ الْمَنصُورُ‌ونَ وَإِنَّ جُندَنَا لَهُمُ الْغَالِبُونَ (And Our Word has already gone ahead in favor of Our servants - the messengers - they are the ones who will have Allah's support, and verily it will be Our army that prevails).
+they verily would be the victors (173)So, turn away from them for a while (174)And watch them and they shall see (175)Do they seek to hasten on Our torment (176)Then, when it descends in their courtyard, evil will be the morning for those who had warned (177)So, turn away from them for a while (178)And watch and they shall see .
 
 ## Tafsir Ibn Kathir
 

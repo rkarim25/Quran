@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-We know indeed the grief which their words cause you; it is not you that they deny, but it is the verses of Allah that the wrongdoers deny (33)Verily, (many) Messengers were denied before you, but with patience they bore the denial, and they were hurt, till Our help reached them, and none can alter the Words of Allah. About the statement: فَإِنَّهُمْ لَا يُكَذِّبُونَكَ (it is not you they are belying, rather, it is the signs of Allah they are denying) in the first verse (33), there is a related event, reported in Tafsir Mazhari on the authority of a narration by As-Suddiy, according to which, once Akhnas ibn Shuraiq and Abu Jahl, two chiefs o…
+We know indeed the grief which their words cause you; it is not you that they deny, but it is the verses of Allah that the wrongdoers deny (33)Verily, (many) Messengers were denied before you, but with patience they bore the denial, and they were hurt, till Our help reached them, and none can alter the Words of Allah.
 
 ## Tafsir Ibn Kathir
 

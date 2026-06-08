@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Do you wonder that there has come to you a Reminder from your Lord through a man from among you, that he may warn you, so that you may fear Allah and that you may receive (His) mercy? It was said: فَكَذَّبُوهُ فَأَنجَيْنَاهُ وَالَّذِينَ مَعَهُ فِي الْفُلْكِ وَأَغْرَ‌قْنَا الَّذِينَ كَذَّبُوا بِآيَاتِنَا ۚ إِنَّهُمْ كَانُوا قَوْمًا عَمِينَ ﴿64﴾ (Then, they belied him [ ignoring his good counsel totally ], so [ as a consequence ], we saved him, and those with him in the Ark, and drowned those who had belied Our signs.
+Here, Allah said that He has taken revenge from His enemies and saved His Messenger ﷺ and those who believed in him, while destroying their disbelieving enemies. For example, Allah destroyed the people of Nuh, and saved Nuh and his believing followers.
 
 ## Tafsir Ibn Kathir
 

@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And fear the Fitnah (affliction and trial) which affects not in particular (only) those of you who do wrong, and know that Allah is severe in punishment (25) Warning against an encompassing Fitnah After having described some details of the battle of Badr and Divine blessings conferred on Muslims therein, the Holy Qur'an has offered words of good counsel to Muslims as based on the outcome of the Battle.
+And fear the Fitnah (affliction and trial) which affects not in particular (only) those of you who do wrong, and know that Allah is severe in punishment .
 
 ## Tafsir Ibn Kathir
 

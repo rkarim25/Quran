@@ -121,7 +121,7 @@ Ibn 'Umar, Ash-Sha'bi, Mujahid, Qatadah, Ar-Rabi' bin Anas and 'Abdur-Rahman bin
 
 ## Tafsir Summary
 
-They ask you (O Muhammad ﷺ) concerning alcoholic drink and gambling. Verse 220 features yet another question in a series of several posed by the noble Companions.
+But, He made it easy for you, and allowed you to mix your affairs with the orphans' affairs in a way that is better.
 
 ## Tafsir Ibn Kathir
 

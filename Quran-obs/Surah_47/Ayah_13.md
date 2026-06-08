@@ -69,7 +69,7 @@ Ibn 'Abbas then said, "The worst of enemies is he who transgresses against Allah
 
 ## Tafsir Summary
 
-Have they not traveled through the earth and seen what happened in the end to those before them? Essential Characteristics of Paradise Verse sixteen mentions four kinds of favours and blessings in the next world, that is, rivers of pure water, rivers of milk of which the taste does not change, rivers of wine which gives delight and rivers of purified honey which will be given to the righteous in plenty.
+There is no need to apply them unnecessarily in their figurative sense.
 
 ## Tafsir Ibn Kathir
 

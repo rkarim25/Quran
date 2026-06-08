@@ -80,7 +80,7 @@ Abdur-Rahman bin Zayd bin Aslam said that this Ayah was revealed about Abu Ad-Da
 
 ## Tafsir Summary
 
-It is not for a believer to kill a believer except by mistake; and whosoever kills a believer by mistake, he must set free a believing slave and submit compensation (blood money) to the deceased's family unless they remit it. Linked with earlier verses dealing with fighting and killing, all forms of killing, in the first instance, are eight in number because the person killed is covered by one of the four conditions which follow.
+And Allah is Ever All-Knowing, All-Wise (92)And whoever kills a believer intentionally, his recompense is Hell to abide therein; and the wrath and the curse of Allah are upon him, and a great punishment is prepared for him .
 
 ## Tafsir Ibn Kathir
 

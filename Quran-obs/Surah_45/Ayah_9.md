@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-These are the Ayat of Allah, which We recite to you with truth. وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ ("Woe to every sinful liar...
+So announce to him a painful torment (8)And when he learns something of Our Ayat, he makes them a jest.
 
 ## Tafsir Ibn Kathir
 

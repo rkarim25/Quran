@@ -205,7 +205,7 @@ Moving from the affirmation of the principle of Allah's Oneness, the text now an
 
 ## Tafsir Summary
 
-It is He Who has sent down to you the Book. Moving from the affirmation of the principle of Allah's Oneness, the text now answers some doubts raised against it.
+Through this verse, Allah Almighty has put an end to these doubts by saying that such expressions are in the category of Mutashabihat where the outward meaning is not intended; they are, rather, a secret between Allah and His Messenger, the reality of which cannot become manifest to others for whom it is not even appropriate to go about determining the possible meanings of these words.
 
 ## Tafsir Ibn Kathir
 

@@ -115,7 +115,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Who has forbidden the adornment with clothes given by Allah, which He has produced for His servants, and At-Tayyibat (good things) of sustenance?" Say: "They are, in the life of this world, for those who believe, (… Warned in the first verse are those who practice excess in acts of worship and introduce self-invented restrictions into it.
+Contrary is the case of disbelievers and sinners who, though they too receive these blessing in their mortal life, rather receive more of it, but these blessings of theirs are going to become their nemesis in the Hereafter bringing punishment which will last forever.
 
 ## Tafsir Ibn Kathir
 

@@ -137,7 +137,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They ask you what is lawful for them. Lawful and unlawful animals were mentioned in preceding verses.
+This refers to trained dogs and falcons, as is the opinion of the majority of the Companions, their followers, and the Imams.
 
 ## Tafsir Ibn Kathir
 

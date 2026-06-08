@@ -18,7 +18,7 @@ He said, "This Ayah was revealed while Abu Bakr was sitting (with the Prophet �
 
 ## Tafsir Summary
 
-Nay! وَادْخُلِي جَنَّتِي (and enter My Paradise 89:30].
+In this verse, Paradise is attributed to Allah, and Allah said 'My Paradise'.
 
 ## Tafsir Ibn Kathir
 

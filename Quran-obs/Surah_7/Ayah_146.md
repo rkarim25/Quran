@@ -158,7 +158,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-I shall turn away from My Ayat those who behave arrogantly on the earth, without a right, and (even) if they see all the Ayat, they will not believe in them. The verse 146 spoke of the arrogant people as showing arrogance unjustly.
+We find it stated in Ruh-al-Bayan that arrogance is such a wicked habitude as raises a wall between man and the knowledge from Allah.
 
 ## Tafsir Ibn Kathir
 

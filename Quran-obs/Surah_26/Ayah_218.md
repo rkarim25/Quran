@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, invoke not with Allah another god lest you should be among those who receive punishment (231)And warn your tribe of near kindred (214)And be kind and humble to the believers who follow you (215)Then if they disobey you, say: "I am innocent of what you do. And warn the nearest people of your clan, -26:214.
+It is an everyday experience that in order to follow good conduct and morals and then to stick to them is only possible when the environment is favourable for that.
 
 ## Tafsir Ibn Kathir
 

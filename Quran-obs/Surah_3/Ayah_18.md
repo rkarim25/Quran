@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah bears witness that none has the right to be worshipped but He, and the angels, and those having knowledge (also bear witness to this); (He always) maintains His creation in justice. The subject of توحید Tauhid (Oneness of Allah) which began with the opening of Surah 'Al-` Imran reappears in the first verse in a very special manner.
+It is also possible that the term, ulul` ilm (the men of knowledge) may, in an absolute sense, be referring to those who, by conducting an inquiry based on sound intellectual principles, or by deliberating into this universe, could acquire the knowl-edge of the unity of Allah Almighty - even if they are not ` alim or 'men of knowledge' in the traditional sense, whose knowledge is acquired under a formal discipline from Islam's own original sources.
 
 ## Tafsir Ibn Kathir
 

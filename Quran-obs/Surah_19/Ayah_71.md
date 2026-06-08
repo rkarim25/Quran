@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-There is not one of you but will pass over it (Hell); this is with your Lord, a decree which must be accomplished (71)Then We shall save those who had Taqwa. "And there is none among you who is not to arrive at it." - 19:71.
+There is not one of you but will pass over it (Hell); this is with your Lord, a decree which must be accomplished (71)Then We shall save those who had Taqwa.
 
 ## Tafsir Ibn Kathir
 

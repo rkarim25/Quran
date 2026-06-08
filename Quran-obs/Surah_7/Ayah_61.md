@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed, We sent Nuh to his people and he said: "O my people! These were harsh words.
+There is no error in me, but I am a Messenger from the Lord of all that exists (61)I convey unto you the Messages of my Lord and give sincere advice to you. Allah mentioned the story of Nuh, because he was the first Messenger Allah sent to the people of the earth after Adam.
 
 ## Tafsir Ibn Kathir
 

@@ -220,7 +220,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! A report from Sayyidna Abu Hurairah ؓ appearing in the Musnad of Ahmad, quoted in Al-Lubab, says: When the Verse forbidding drinking and gambling had been revealed, some people asked the Holy Prophet ﷺ that there were many people who drank wine and lived off earnings from gambling and then died before these were forbidden.
+Kill not game while you are in a state of Ihram, and whosoever of you kills it intentionally, the penalty is an offering, brought to the Ka'bah, of livestock equivalent to the one he killed, as adjudged by two just men among you; or, for expiation, he should feed the poor, or its equivalent in fasting, that he may taste the heaviness (punishment) of his deed.
 
 ## Tafsir Ibn Kathir
 

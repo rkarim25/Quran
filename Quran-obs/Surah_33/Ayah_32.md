@@ -92,7 +92,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O wives of the Prophet! Special instructions given to the Blessed Wives Before we describe these instructions in details as they appear from the next verse: يَا نِسَاءَ النَّبِيِّ لَسْتُنَّ كَأَحَدٍ مِّنَ النِّسَاءِ إِنِ اتَّقَيْتُنَّ فَلَا تَخْضَعْنَ بِالْقَوْلِ (0 wives of the prophet, you are not like any other women, if you observe taqwa.
+That a real hypocrite will be so tempted is all too obvious.
 
 ## Tafsir Ibn Kathir
 

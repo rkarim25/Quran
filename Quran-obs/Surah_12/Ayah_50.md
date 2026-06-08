@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the king said: "Bring him to me." But when the messenger came to him, [Yusuf] said: "Return to your king and ask him, 'What happened to the women who cut their hands Surely, my Lord (Allah) is Well-Aware of their plot.' (50)(The king) said (to the women): "What was your affair when you did seek to seduce Yusuf" The women said: "Allah forbid! وَقَالَ الْمَلِكُ ائْتُونِي بِهِ (And the king said, 'Bring him to me.' ).
+And the king said: "Bring him to me." But when the messenger came to him, [Yusuf] said: "Return to your king and ask him, 'What happened to the women who cut their hands Surely, my Lord (Allah) is Well-Aware of their plot.' (50)(The king) said (to the women): "What was your affair when you did seek to seduce Yusuf" The women said: "Allah forbid!
 
 ## Tafsir Ibn Kathir
 

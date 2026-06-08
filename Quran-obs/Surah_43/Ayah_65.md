@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when the son of Maryam is quoted as an example, behold, your people cry aloud thereat (57)And say: "Are our gods better or is he?" They quoted not the above example except for argument. وَلِأُبَيِّنَ لَكُم بَعْضَ الَّذِي تَخْتَلِفُونَ فِيهِ (and to explain to you some of those matters in which you differ...43:63) Since Bana Isra'il were drowned in arrogance and obstinacy, they had tampered with the Divine laws.
+Therefore have Taqwa of Allah and obey me. The words 'some matters' are used because some other matters were purely of mundane nature.
 
 ## Tafsir Ibn Kathir
 

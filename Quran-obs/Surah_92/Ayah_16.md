@@ -22,7 +22,7 @@ Many of the scholars of Tafsir have mentioned that these Ayat were revealed abou
 
 ## Tafsir Summary
 
-Truly, on Us is (to give) guidance (12)And truly, unto Us (belong) the last (Hereafter) and the first (this world)(13)Therefore I have warned you of a Fire Talazza (14)None shall enter it save the most wretched (15)Who d… لَا يَصْلَاهَا إِلَّا الْأَشْقَى الَّذِي كَذَّبَ وَتَوَلَّىٰ (None will enter it but the wretched one who rejected [ the truth ] and turned away....92:16).
+The one who is called from them will not have any need.
 
 ## Tafsir Ibn Kathir
 

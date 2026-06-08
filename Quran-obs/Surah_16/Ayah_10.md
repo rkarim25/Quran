@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He it is Who sends water down from the sky; from it you drink and from it (grows) the vegetation on which you send your cattle to pasture (10)With it He causes crops to grow for you, the olives, the date palms, the grapes, and every kind of fruit. The word: شَجَر (shajar) in verse 10: مِنْهُ شَجَرٌ‌ فِيهِ تُسِيمُونَ (from which [ you grow ] plants, on which you pasture cattle) is mostly applied to a tree which stands on a trunk.
+The Blessings of Rain, and explaining how it is one of the Signs When Allah mentions the blessings of cattle and other animals that He has granted mankind, He then mentions how He has blessed them by sending rain down from the sky above, which has been fulfilling the needs and bringing joy to people and their cattle.
 
 ## Tafsir Ibn Kathir
 

@@ -48,7 +48,7 @@ Are they the Haruriyyah?' He said, 'No, they are the Jews and Christians. As for
 
 ## Tafsir Summary
 
-Say: "Shall We tell you the greatest losers in respect of (their) deeds? The last sentence in the same verse (105): فَلَا نُقِيمُ لَهُمْ يَوْمَ الْقِيَامَةِ وَزْنًا (and We shall not assign to them any weight) means that their deeds may appear to be great outwardly, but when placed on the balance of reckoning, they will carry no weight.
+As for the Jews, they disbelieved in Muhammad ﷺ, and as for the Christians, they disbelieved in Paradise and said that there is no food or drink there, and the Haruriyyah are those who break Allah's covenant after ratifying it.' Sa'd used to call them Al-Fasiqin (the corrupt).
 
 ## Tafsir Ibn Kathir
 

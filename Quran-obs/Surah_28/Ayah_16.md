@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when he reached maturity, and was complete, We bestowed on him Hukm and knowledge. قَالَ رَ‌بِّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ‌ لِي فَغَفَرَ‌ لَهُ (He said, "0 my Lord, I have wronged myself, so forgive me." So he forgave him - 28:16).
+Therefore, in view of his status as a prophet, he maintained that it was a sin on his part, and hence, invoked Allah's pardon.
 
 ## Tafsir Ibn Kathir
 

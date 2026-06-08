@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Will they not then reflect upon the Qur'an, or are there locks upon their hearts (24)Verily, those who have turned back as disbelievers after guidance had become clear to them – Shaytan has enticed them and filled them w… أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَا (or do they have locks on their hearts?
+Will they not then reflect upon the Qur'an, or are there locks upon their hearts (24)Verily, those who have turned back as disbelievers after guidance had become clear to them – Shaytan has enticed them and filled them with false hopes (25)That is because they said to those who hate what Allah has sent down: "We will obey you in part of the matter." And Allah knows their secrets (26)Then how (will it be) when the angels will take their souls at death, striking their faces and…
 
 ## Tafsir Ibn Kathir
 

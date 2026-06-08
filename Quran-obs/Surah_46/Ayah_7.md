@@ -70,7 +70,7 @@ And when Our Clear Ayat are recited to them, the disbelievers say of the truth w
 
 ## Tafsir Summary
 
-And when Our Clear Ayat are recited to them, the disbelievers say of the truth when it reaches them: "This is plain magic! قُلْ أَرَ‌أَيْتُم مَّا تَدْعُونَ مِن دُونِ اللَّـهِ (Say, "Tell me about those whom you invoke instead of Allah,...46:4) In these verses, the claim of the polytheists about the existence of some other gods has been refuted by demanding a proof to substantiate this claim, because no claim can be accepted, neither rationally nor according to the religious principles, unless it is proved by concrete evidences to support it.
+This is what they said. That which has been confirmed in the Sahih is that the believers said, "May you enjoy that, O Allah's Messenger! But what do we get?" So Allah revealed this Ayah.
 
 ## Tafsir Ibn Kathir
 

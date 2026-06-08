@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-How shall Allah guide a people who disbelieved after their belief and after they bore witness that the Messenger is true and after clear proofs came to them? On a superficial view of the verse كَيْفَ يَهْدِي اللَّـهُ : 'How shall Allah give guidance...' (86), there emerges a doubt that whoever turns an apostate receives no guidance afterwards, although, the fact is contrary to this.
+Verily, Allah is Oft-Forgiving, Most Merciful.) This Ayah indicates Allah's kindness, graciousness, compassion, mercy and favor on His creatures when they repent to Him, for He forgives them in this case. Neither will their torment be lightened nor will it be delayed or postponed (88)Except for those who repent after that and do righteous deeds.
 
 ## Tafsir Ibn Kathir
 

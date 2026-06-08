@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the people of Musa made in his absence, out of their ornaments, the image of a calf (for worship). The verse 149 speaks of their remorse on this guilt and their repentance,
+The verse 149 speaks of their remorse on this guilt and their repentance,
 
 ## Tafsir Ibn Kathir
 

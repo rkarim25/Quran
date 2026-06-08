@@ -37,7 +37,7 @@ Abu Al-'Aliyah said, "This was the first Ayah about fighting that was revealed i
 
 ## Tafsir Summary
 
-And fight in the way of Allah those who fight you, but transgress not the limits. 1.
+Such is the recompense of the disbelievers (191)But if they cease, then Allah is Oft-Forgiving, Most Merciful (192)And fight them until there is no more Fitnah (disbelief and worshipping of others along with Allah) and the religion (all and every kind of worship) is for Allah (Alone).
 
 ## Tafsir Ibn Kathir
 

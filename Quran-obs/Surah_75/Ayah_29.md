@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nay, when it reaches to the collarbones (26)And it will be said: "Who can cure him? (When the soul [ of a patient ] reaches the clavicles, and it is said, "Who is an enchanter [ that can save him?] ", and he realizes that it is [ the time on departure [ from the world,] and one shank is intertwined with the other shank, then on that day, it is to your Lord that one has to be driven....
+This will become something witnessed by you with your own eyes.' If we consider the word "Kalla" to be a word of affirmation, then this would be the most obvious meaning. This means, 'you deserve to strut like this while you have disbelieved in your Creator and Maker.' This is what is commonly said in this type of situation in order to mock and intimidate (someone).
 
 ## Tafsir Ibn Kathir
 

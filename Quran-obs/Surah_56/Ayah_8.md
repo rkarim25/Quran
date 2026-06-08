@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Waqi'ah Abu Ishaq reported from 'Ikrimah from Ibn 'Abbas that Abu Bakr said, "O Allah's Messenger! Three Categories of People on the Day of Resurrection وَكُنتُمْ أَزْوَاجًا ثَلَاثَةً (and you will be [ divided into ] three categories...56:7).
+And you (all) will be in three groups.)(8. They are the chiefs of those on the right side, because they include the Messengers, Prophets, true believers and martyrs.
 
 ## Tafsir Ibn Kathir
 

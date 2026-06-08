@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-'Ad denied; then how was My torment and My warnings (18)Verily, We sent against them a violently cold (Sarsar) wind on a day of calamity, continuous (19)Plucking out men as if they were uprooted stems of date palms (20)Then, how was My torment and My warnings (21)And We have indeed made the Qur'an easy to understand and remember; then is there any that will remember (22) Allah states that 'Ad, the People of Hud, denied their Messenger, just as the people of Nuh did. The word سُعُر su'ur has appeared twice in this Surah.
+First, the punishment of the Hereafter is mentioned.
 
 ## Tafsir Ibn Kathir
 

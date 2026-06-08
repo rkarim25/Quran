@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) Dawud and Sulayman, when they gave judgement in the case of the field in which the sheep of certain people had Nafashat; and We were witness to their judgement (78)And We made Sulayman to understand (the case); and to each of them We gave wisdom (Hukm) and knowledge. وَمِنَ الشَّيَاطِينِ مَن يَغُوصُونَ لَهُ وَيَعْمَلُونَ عَمَلًا دُونَ ذَٰلِكَ ۖ وَكُنَّا لَهُمْ حَافِظِينَ (And from the devils, (We subjugated for him) those who dived in water for him and did jobs other than that.
+Those beings who fulfill these conditions are described by the word Jinn, while those among them who disobey the rules of Shari'ah and persist in their unbelief are called satans. And of everything We are the All-Knower (81)And of the Shayatin were some who dived for him, and did other work besides that; and it was We Who guarded them .
 
 ## Tafsir Ibn Kathir
 

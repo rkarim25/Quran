@@ -91,7 +91,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is neither their meat nor their blood that reaches Allah, but it is Taqwa from you that reaches Him. The real object is not the specific rites of pilgrimage but true devotion to Allah and submission to His will which are inherent in those rites لَن يَنَالَ اللَّـهَ لُحُومُهَا (It is neither their flesh nor their blood that reaches Allah - 22:37) It means that the sacrifice of animals is a very high form of worship, but their meat and blood do not reach Allah Ta’ ala nor are these two things the real object of sacrifice.
+It is neither their meat nor their blood that reaches Allah, but it is Taqwa from you that reaches Him.
 
 ## Tafsir Ibn Kathir
 

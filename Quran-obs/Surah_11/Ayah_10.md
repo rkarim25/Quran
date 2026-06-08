@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if We give man a taste of mercy from Us, and then withdraw it from him, verily, he is despairing, ungrateful (9)But if We let him taste good (favor) after evil (poverty and harm) has touched him, he is sure to say: "… In the verses appearing above, it has been confirmed that the Holy Prophet ﷺ is a Messenger of Allah and an answer has been given to those who engineer doubts about it.
+And if We give man a taste of mercy from Us, and then withdraw it from him, verily, he is despairing, ungrateful (9)But if We let him taste good (favor) after evil (poverty and harm) has touched him, he is sure to say: "Ills have departed from me." Surely, he is exultant and boastful (ungrateful to Allah)(10)Except those who show patience and do righteous good deeds: those, theirs will be forgiveness and a great reward (Paradise).
 
 ## Tafsir Ibn Kathir
 

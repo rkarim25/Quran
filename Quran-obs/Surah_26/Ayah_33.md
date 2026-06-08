@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "If you choose a god other than me, I will certainly put you among the prisoners. Bani Isra'il were the residents of Syria.
+After the Rational Proof, Fir'awn Resorts to Force When proof had been established against Fir'awn, clearly and rationally, he resorted to using force against Musa, thinking that after this there would no further room for discussion.
 
 ## Tafsir Ibn Kathir
 

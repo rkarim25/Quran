@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-These are the Ayat of Allah, which We recite to you with truth. مِّن وَرَ‌ائِهِمْ جَهَنَّمُ "In front of them, there is Jahannam...45:10" The word وَرَ‌اءِ war' in Arabic is mostly used in the sense of "behind" and occasionally used in the sense of "front".
+And those who disbelieve in the Ayat of their Lord, for them there is a painful torment of Rijz .
 
 ## Tafsir Ibn Kathir
 

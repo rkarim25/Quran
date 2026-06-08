@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is prescribed for you, when death approaches any of you, if he leaves wealth, that he makes a bequest to parents and next of kin, according to reasonable manners. The Qur'anic view of making will وصیّت Literally, al-wasiyyah الوَصِیّہ means an order to do something, either in the lifetime of the maker of wasiyyah or after his death.
+this is an uninterruptedly ensured hadith which makes the abrogation of the verse of the Qur'an permissible.
 
 ## Tafsir Ibn Kathir
 

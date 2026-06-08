@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O mankind! In the last verse: إِن تَدْعُوهُمْ لَا يَسْمَعُوا دُعَاءَكُمْ وَلَوْ سَمِعُوا مَا اسْتَجَابُوا لَكُمْ (If you call them, they do not hear your call, and even if they were to hear, they would not respond to you.
+Mankind is in need of Allah, and each Person will carry His own Burdens on the Day of Resurrection Allah tells us that He has no need of anyone or anything else, but all of creation is in need of Him and is in a position of humility before Him.
 
 ## Tafsir Ibn Kathir
 

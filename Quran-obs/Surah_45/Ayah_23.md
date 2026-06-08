@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or do those who earn evil deeds think that We shall hold them equal with those who believe and do righteous good deeds, in their present life and after their death? مَنِ اتَّخَذَ إِلَـٰهَهُ هَوَاهُ ("Have you seen him who has taken his desires as his god...45:23) In other words, he who has made his selfish desires his object of worship.
+One of them is that Allah knew that this person deserves to be misguided, so He left him astray.
 
 ## Tafsir Ibn Kathir
 

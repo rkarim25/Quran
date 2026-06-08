@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (O Children of Isra'il, remember) when We took your covenant and We raised above you the Mount (saying): "Hold fast to that which We have given you, and remember that which is therein so that you may acquire Taqwa (63)Then after that you turned away. The Israelites went against the Covenant they had made with Allah.
+Had it not been for the grace and mercy of Allah upon you, indeed you would have been among the losers . Since a number of authentic ahadith declare that it is the barakah of the Holy Prophet ﷺ that catastrophic punishments no longer descend on any people, some commentators have identified this particular mercy and grace of Allah with the sending down of Muhammad ﷺ as a Prophet and Messenger of Allah.
 
 ## Tafsir Ibn Kathir
 

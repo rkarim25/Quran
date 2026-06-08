@@ -189,7 +189,7 @@ Imam Ahmad recorded that Abu Sa'id Al-Khudri said, "We captured some women from 
 
 ## Tafsir Summary
 
-Also (forbidden are) women already married, except those (slaves) whom your right hands possess. وَالْمُحْصَنَاتُ مِنَ النِّسَاءِ (the women already bound in marriage): It means that women having husbands have also been made unlawful.
+There are conditions and circumstances in married life when it is not possible for her to fulfill the rights of even one husband, let alone more than one husband seeking her physical attention.
 
 ## Tafsir Ibn Kathir
 

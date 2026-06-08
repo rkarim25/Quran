@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then he [Salih] turned from them, and said: "O my people! Other verses of the Qur'an have also mentioned: فَأَخَذَتْهُمُ الصَّيْحَةُ (that is, a Cry or Sound seized them - 15:83).
+I have indeed conveyed to you the Message of my Lord, and have given you good advice, but you like not good advisers. These are the words of admonishment that Salih conveyed to his people after Allah destroyed them for defying Him, rebelling against Him, refusing to accept the truth, avoiding guidance, and preferring misguidance instead.
 
 ## Tafsir Ibn Kathir
 

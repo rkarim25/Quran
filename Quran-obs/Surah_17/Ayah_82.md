@@ -64,7 +64,7 @@ Allah tells us that His Book, which He has revealed to His Messenger Muhammad �
 
 ## Tafsir Summary
 
-And We send down of the Qur'an that which is a cure and a mercy to the believers, and it increases the wrongdoers in nothing but loss (82) The Qur'an is a Cure and a Mercy We can now move to the last verse (82) cited above: وَنُنَزِّلُ مِنَ الْقُرْ‌آنِ مَا هُوَ شِفَاءٌ (And We reveal the Qur'an which is a cure).
+And We send down of the Qur'an that which is a cure and a mercy to the believers, and it increases the wrongdoers in nothing but loss .
 
 ## Tafsir Ibn Kathir
 

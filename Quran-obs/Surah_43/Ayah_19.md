@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Yet, they assign to some of His servants a share with Him. أَوَمَن يُنَشَّأُ فِي الْحِلْيَةِ (Is it that (Allah has chosen) those (as His offspring) who are grown up in ornaments,...
+Did they witness their creation Their testimony will be recorded, and they will be questioned (19)And they said: "If it had been the will of the Most Gracious, we should not have worshipped them." They have no knowledge whatsoever of that. Second: They claimed that He chose daughters rather than sons, and they made the angels, who are the servants of the Most Gracious, female.
 
 ## Tafsir Ibn Kathir
 

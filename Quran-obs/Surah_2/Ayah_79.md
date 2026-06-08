@@ -110,7 +110,7 @@ This is another category of people among the Jews who called to misguidance with
 
 ## Tafsir Summary
 
-And there are among them (Jews) 'Ummyyun (unlettered) people, who know not the Book, but they trust upon Amani (false desires) and they but guess (78)Then woe to those who write the book with their own hands and then say, "This is from Allah," to purchase with it a little price! Allah reminds the Jews that He is omniscient, and knows what they try to keep concealed as well as what they say or do openly.
+And there are among them (Jews) 'Ummyyun (unlettered) people, who know not the Book, but they trust upon Amani (false desires) and they but guess (78)Then woe to those who write the book with their own hands and then say, "This is from Allah," to purchase with it a little price!
 
 ## Tafsir Ibn Kathir
 

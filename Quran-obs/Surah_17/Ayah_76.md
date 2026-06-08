@@ -65,7 +65,7 @@ This was revealed concerning the disbelievers among the Quraysh, when they wante
 
 ## Tafsir Summary
 
-And verily, they were about to frighten you so much as to drive you out from the land. Istifzaz in: وَإِن كَادُوا لَيَسْتَفِزُّونَكَ (And they were likely to harass you - 76) literally means to cut off, or tear away from, or to provoke into moving from a place.
+They told him: 'O Abu a1-Qasim, if you are true in your claim to be a prophet, you should go and live in Syria because the land of Syria is the land of al-Mahshar (the Resurrection) and the land of prophets too.' The Holy Prophet ﷺ was somewhat impressed by what they said and when he traveled to Syria at the time of the battle of Tabuk, the idea of taking up residence in Syria was still on his mind.
 
 ## Tafsir Ibn Kathir
 

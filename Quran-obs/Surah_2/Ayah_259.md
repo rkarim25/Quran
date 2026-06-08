@@ -289,7 +289,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or like the one who passed by a town in ruin up to its roofs. The verse refers to Namrud نمرود ، the emperor of Babylon, who denied the very existence of God and had a debate with Sayyidna Ibrahim (علیہ السلام) on this issue.
+When Allah resurrected 'Uzayr after he died, the first organ that He resurrected were his eyes, so that he could witness what Allah does with him, how He brings life back to his body. He said: "How will Allah ever bring it to life after its death?" So Allah caused him to die for a hundred years, then raised him up (again).
 
 ## Tafsir Ibn Kathir
 

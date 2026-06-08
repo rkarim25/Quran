@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So he misled them with deception. The story of Sayyidna 'Adam (علیہ السلام) and Iblis mentioned in the present verses has appeared in the fourth section of Surah Al-Baqarah.
+If You forgive us not, and bestow not upon us Your mercy, we shall certainly be of the losers.
 
 ## Tafsir Ibn Kathir
 

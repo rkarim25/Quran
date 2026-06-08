@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when We said to the angels: "Prostrate yourselves unto Adam." They prostrated themselves except Iblis. The word: لَأَحْتَنِكَنَّ (subdue) in verse 62 is from: اِحتِنَاک (ihtinak) which means to exterminate or uproot something, or to subdue and overpower it completely.
+Therefore, this question was considered unworthy of an answer and no answer was given.
 
 ## Tafsir Ibn Kathir
 

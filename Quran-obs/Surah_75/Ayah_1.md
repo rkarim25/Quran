@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. لَآ اُقْسِمُ بِيَوْمِ الْقِيٰمَةِ وَلَآ اُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ (I swear by the Day of Resurrection, [ 1] and I swear by the self-reproaching conscience, (that Resurrection is a reality.)...75:1-2).
+Though he may put forth his excuses.) The Oath about the Final Return on the Day of Resurrection and the Refutation against the Plots of the Thinkers It has been mentioned previously on more than one occasion that if the thing that is being sworn about is something that is being negated, then it is permissible to use the word "La" (Nay) before the oath to emphasize the negation. The phrase refers to the human conscience that upbraids him for doing bad deeds.
 
 ## Tafsir Ibn Kathir
 

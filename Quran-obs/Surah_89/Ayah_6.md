@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Recitation of Surat Al-Fajr in the Prayer An-Nasa'i recorded a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. وَالشَّفْعِ وَالْوَتْرِ (and by the even and the odd,...89:3).
+Verily, your Lord is Ever Watchful.).
 
 ## Tafsir Ibn Kathir
 

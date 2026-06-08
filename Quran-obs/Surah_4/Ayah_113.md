@@ -150,7 +150,7 @@ From verse 105 which begins with the words: إِنَّا أَنزَلْنَا إ
 
 ## Tafsir Summary
 
-And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, Most Merciful.) 111. Addressing the Holy Prophet ﷺ in the ninth verse (113), it has been said: It was Allah's grace and mercy that He revealed to you the reality behind the event of theft, otherwise these people would have misled you into error.
+But, since you are not alone, Allah's grace and mercy is with you, these people can never mislead you into error.
 
 ## Tafsir Ibn Kathir
 

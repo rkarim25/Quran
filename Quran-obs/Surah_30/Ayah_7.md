@@ -52,7 +52,7 @@ These Ayat were revealed about the victory of Sabur, the king of Persia, over As
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. يَعْلَمُونَ ظَاهِرً‌ا مِّنَ الْحَيَاةِ الدُّنْيَا وَهُمْ عَنِ الْآخِرَ‌ةِ هُمْ غَافِلُونَ (They know something superficial of the worldly life, but of the Hereafter they are negligent.-7).
+Earning of mundane needs by neglecting the Hereafter is no sagacity The Holy Qur'an is full of admonitory stories of the world.
 
 ## Tafsir Ibn Kathir
 

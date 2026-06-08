@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So if they believe in the like of that which you believe then they are rightly guided; but if they turn away, then they are only in opposition. The definition of ` Iman ایمان From the beginning of the Surah Ai-Baqarah upto this place, different verses have been explaining the nature and essence 'Iman ایمان (faith), sometimes succinctly and sometimes in detail.
+So if they believe in the like of that which you believe then they are rightly guided; but if they turn away, then they are only in opposition. The earlier verses having established that the only religion which is valid at present is Islam, this verse assures the Muslims that the Jews and the Christians can find the guidance only "if they believe just as you believe", or, in other words, "if they believe in what you believe in." The immediate addressees of the phrase "you bel…
 
 ## Tafsir Ibn Kathir
 

@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And there entered with him two young men in the prison. Mentioned in the verses cited above is a supplementary event relating to the story of Sayyidna Yusuf (علیہ السلام) .
+However, one of them, that is, the royal cup-bearer, said: ` I have seen myself (in dream) pressing wine,' and the other, that is, the cook, said: ` I have seen myself carrying bread on my head of which the birds are eating.' Then, they requested him to interpret the dreams for them.
 
 ## Tafsir Ibn Kathir
 

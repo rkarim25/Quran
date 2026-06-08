@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Human Deeds, Good or Bad, will be Weighed This Surah mentions the weighing of human deeds.
+And the mountains will be like wool, carded.)(6. It is a Day whereon mankind will be like moths scattered about.)(5.
 
 ## Tafsir Ibn Kathir
 

@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And, when they will dispute in the Fire, the weak will say to those who were arrogant: "Verily, we followed you, can you then take from us some portion of the Fire? In the last verse cited here, it was said: النَّارُ‌ يُعْرَ‌ضُونَ عَلَيْهَا غُدُوًّا وَعَشِيًّا ۖ وَيَوْمَ تَقُومُ السَّاعَةُ أَدْخِلُوا آلَ فِرْ‌عَوْنَ أَشَدَّ الْعَذَابِ.
+The Dispute of the People of Hell Allah tells us how the people of Hell will dispute and argue with one another, and Fir'awn and his people will be among them.
 
 ## Tafsir Ibn Kathir
 

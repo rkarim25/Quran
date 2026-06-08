@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And many a town revolted against the command of its Lord and His Messengers; and We called it to a severe account, and We shall punish it with a horrible torment (8)So it tasted the evil result of its affair, and the consequence of its affair was loss (9)Allah has prepared for them a severe torment. فَحَاسَبْنَاهَا حِسَابًا شَدِيدًا وَعَذَّبْنَاهَا عَذَابًا نُّكْرً‌ا (so We called them to a severe account, and punished them with an evil punishment...65:8).
+And many a town revolted against the command of its Lord and His Messengers; and We called it to a severe account, and We shall punish it with a horrible torment (8)So it tasted the evil result of its affair, and the consequence of its affair was loss (9)Allah has prepared for them a severe torment.
 
 ## Tafsir Ibn Kathir
 

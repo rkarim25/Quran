@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Because of their sins they were drowned, then were made to enter the Fire. مِّمَّا خَطِيئَاتِهِمْ أُغْرِ‌قُوا فَأُدْخِلُوا نَارً‌ا فَلَمْ يَجِدُوا لَهُم مِّن دُونِ اللَّـهِ أَنصَارً‌ا (Because of their sins they were drowned, and then admitted into the Fire.
+Because of their sins they were drowned, then were made to enter the Fire.
 
 ## Tafsir Ibn Kathir
 

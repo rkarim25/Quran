@@ -23,7 +23,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, We have adorned the near heaven with the stars (6)And to guard against every rebellious Shaytan (7)They cannot listen to the higher group for they are pelted from every side (8)Outcast, and theirs is a constant t… In the last four verses, (37:7-10): وَحِفْظًا مِّن كُلِّ شَيْطَانٍ مَّارِ‌دٍ ﴿7﴾ لَّا يَسَّمَّعُونَ إِلَى الْمَلَإِ الْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ ﴿8﴾ دُحُورً‌ا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ ﴿9﴾ إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ ﴿10﴾ and [ have made them ] a security against every rebellious shaitan [ shaitan ].
+They cannot listen to the Upper Realm and are hit from every side, to be driven off, and for them there is a lasting punishment, (however, if one snatches a little bit, he is pursued by a bright flame - 37:10).
 
 ## Tafsir Ibn Kathir
 

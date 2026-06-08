@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-On the Day when Allah will gather the Messengers together and say to them: "What was the response you received (from men to your teaching)?" They will say: "We have no knowledge, verily, only You are the Knower of all that is hidden. Earlier, mention was made of various injunctions.
+Surely You have the full knowledge of all that is unseen).
 
 ## Tafsir Ibn Kathir
 

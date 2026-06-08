@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Give full measure, and cause no loss (to others). And do not make people short of their things - 26:183 What it means is that it is unlawful to reduce any quantity or amount from that which has been contracted with anyone, whether it is a measurable thing or otherwise.
+Therefore, if a servant or a laborer does not work his full time at his workplace, he too is included in this warning.
 
 ## Tafsir Ibn Kathir
 

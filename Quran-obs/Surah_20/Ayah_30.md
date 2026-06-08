@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And press your (right) hand to your (left) side: it will come forth white (and shining), without any disease as another sign, (22)"That We may show you (some) of Our greater signs. Sayyidna Harun (علیہ السلام) was three or four years senior to Sayyidna Musa علیہ السلام and died three years before the latter.
+That was his request for the assistance of his brother, Harun.
 
 ## Tafsir Ibn Kathir
 

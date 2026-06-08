@@ -39,7 +39,7 @@ Surah Āl-'Imrān was revealed in Al-Madinah, as evident by the fact that the fi
 
 ## Tafsir Summary
 
-The Tafsir of Surah Āl 'Imrān Surah Āl-'Imrān was revealed in Al-Madinah, as evident by the fact that the first eighty-three Ayat in it relate to the delegation from Najran that arrived in Al-Madinah on the ninth year of Hijrah (632 CE). The first verse of this section presents a rational proof of the Oneness of Allah; the second verse, the reported proof 1, followed by an answer to some doubts nursed by disbelievers towards the later part.
+The only Being worthy of worship is the One who has always been Alive and Present and shall always live and sustain.
 
 ## Tafsir Ibn Kathir
 

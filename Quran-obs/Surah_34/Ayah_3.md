@@ -146,7 +146,7 @@ Those who disbelieve say: "The Hour will not come to us." Say: "Yes, by my Lord,
 
 ## Tafsir Summary
 
-Those who disbelieve say: "The Hour will not come to us." Say: "Yes, by my Lord, the All-Knower of the Unseen, it will come to you; not even the weight of a speck of dust or less than that or greater escapes His knowledge in the heavens or in the earth but it is in a Clear Book. عَالِمِ الْغَيْبِ (the knower of the unseen).
+Those, theirs is forgiveness and generous provision (4)But those who strive against Our Ayat to frustrate them – those, for them will be a severe painful torment (5)And those who have been given knowledge see that what is revealed to you from your Lord is the truth, and that it guides to the path of the Exalted in might, Owner of all praise .
 
 ## Tafsir Ibn Kathir
 

@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Day when the Shin shall be laid bare and they shall be called to prostrate themselves, but they shall not be able to do so (42)Their eyes will be cast down and ignominy will cover them; they used to be called to prostrate themselves, while they were (43)Then leave Me alone with whoever denies this narration. This verse: أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُجْرِ‌مِينَ (Otherwise, shall We make the obedient like the sinners?...
+The Day when the Shin shall be laid bare and they shall be called to prostrate themselves, but they shall not be able to do so (42)Their eyes will be cast down and ignominy will cover them; they used to be called to prostrate themselves, while they were (43)Then leave Me alone with whoever denies this narration.
 
 ## Tafsir Ibn Kathir
 

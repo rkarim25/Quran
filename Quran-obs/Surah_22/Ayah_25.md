@@ -118,7 +118,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who disbelieved and hinder (men) from the path of Allah, and from Al-Masjid Al-Haram which We have made (open) to (all) men, the dweller in it and the visitor from the country are equal there, and whoever i… In the previous verse, mention was made of the mutual hostility between the believers and infidels.
+'Abdur-Razzaq narrated from Ma'mar, from Qatadah who said: "Its own people and others are equal therein." This is the issue about which Ash-Shafi'i and Ishaq bin Rahwayh differed in the Masjid of Al-Khayf, when Ahmad bin Hanbal was also present.
 
 ## Tafsir Ibn Kathir
 

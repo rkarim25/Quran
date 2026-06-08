@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if you could see when the angels take away the souls of those who disbelieve (at death); they smite their faces and their backs, (saying): "Taste the punishment of the blazing Fire. Mentioned in the first two of the verses cited above is the punishment of disbelievers at the time of their death and the warnings given to them by the angels.
+Whoever found other than that, has only himself to blame.) This is why Allah said, Commentary Mentioned in the first two of the verses cited above is the punishment of disbelievers at the time of their death and the warnings given to them by the angels.
 
 ## Tafsir Ibn Kathir
 

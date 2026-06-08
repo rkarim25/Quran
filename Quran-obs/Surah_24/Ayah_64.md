@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Certainly, to Allah belongs all that is in the heavens and the earth. Do not take the call of the messenger among you as a call of one of you to another - 24:63.
+And He knows whatever there is in the land and in the sea; not a leaf falls, but He knows it.
 
 ## Tafsir Ibn Kathir
 

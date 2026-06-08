@@ -60,7 +60,7 @@ They took the warning to their hearts. They knew this was a slip caused by شی�
 
 ## Tafsir Summary
 
-Say: "O People of the Scripture (Jews and Christians)! Several verses earlier, the text was dealing with the people of the Book, their false beliefs and their doubts.
+Allah has warned the People of the Book against this behavior, stating that He is Witness over what they do, indicating their defiance of the knowledge conveyed to them by the Prophets.
 
 ## Tafsir Ibn Kathir
 

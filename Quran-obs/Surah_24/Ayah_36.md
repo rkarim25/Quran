@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In houses which Allah has ordered to be raised, in them His Name is remembered. (The guided people worship Allah) in the houses that Allah has permitted to be raised and where His name recounted and His purity is pronounced, in the morning and in the evening, - 36.
+The Masjids are His houses where He Alone is worshipped.
 
 ## Tafsir Ibn Kathir
 

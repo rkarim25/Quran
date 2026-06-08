@@ -35,7 +35,7 @@ So, they pursued them at sunrise (60)And when the two hosts saw each other, the 
 
 ## Tafsir Summary
 
-So, they pursued them at sunrise (60)And when the two hosts saw each other, the companions of Musa said: "We are sure to be overtaken. The reasoning for this he gave إِنَّ مَعِيَ رَ‌بِّي سَيَهْدِينِ (62) "Indeed with me is my Lord.
+And verily your Lord, He is truly the All-Mighty, the Most Merciful.) The explanation of this phrase has already been discussed above.
 
 ## Tafsir Ibn Kathir
 

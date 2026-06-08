@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And there were in the city nine Rahtin, who made mischief in the land, and would not reform (48)They said: "Swear one to another by Allah that we shall make a secret night attack on him and his household, and thereafter we will surely say to his near relatives: 'We witnessed not the destruction of his household, and verily, we are telling the truth.' (49)So, they plotted a plot, and We planned a plan, while they perceived not (50)Then see how was the end of their plot! تِسْعَةُ رَ‌هْطٍ (nine persons - 27:48).
+Imam Malik narrated from Yahya bin Sa'id that Sa'id bin Al-Musayyib said: "Cutting gold and silver (coins) is part of spreading corruption on earth." What is meant is that the nature of these evil disbelievers was to spread corruption on earth by every means possible, one of which was that mentioned by these Imams.
 
 ## Tafsir Ibn Kathir
 

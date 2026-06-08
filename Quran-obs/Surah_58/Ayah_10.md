@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you not seen those who were forbidden to hold secret counsels, and afterwards returned to that which they had been forbidden, and conspired together for sin and wrongdoing and disobedience to the Messenger. Manners of the Secret Conference يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَنَاجَيْتُمْ فَلَا تَتَنَاجَوْا بِالْإِثْمِ وَالْعُدْوَانِ وَمَعْصِيَتِ الرَّ‌سُولِ وَتَنَاجَوْا بِالْبِرِّ‌ وَالتَّقْوَىٰ (0 those who believe, when you hold secret counsel, do not whisper for sinful act and wrongdoing and disobedience of the Messenger, and do whisper for righteousness and taqwa [ God-fearing ]...
+But he cannot harm them in the least, except as Allah permits. When one of the Prophet's Companions would pass by a gathering of Jews, they would speak among themselves in secret, prompting the believer to think that they were plotting to kill or harm him.
 
 ## Tafsir Ibn Kathir
 

@@ -36,7 +36,7 @@ The truth of the matter is that the literal meaning of the word وَحِی (Wahy
 
 ## Tafsir Summary
 
-(Allah) said: "You are granted your request, O Musa! إِذْ أَوْحَيْنَا إِلَىٰ أُمِّكَ مَا يُوحَىٰ (When We revealed to your mother what was to be revealed - 20:38) It means that the information given to the mother of Sayyidna Musa (علیہ السلام) was about a matter which could be learnt only through Divine revelation.
+The first was inspiring his mother when she was breastfeeding him and she feared that Fir'awn and his chiefs would kill him. Therefore, with Allah having the great authority and the most perfect power, He determined that Musa would not be raised except upon Fir'awn's own bed.
 
 ## Tafsir Ibn Kathir
 

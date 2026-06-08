@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And it is He Who sends the winds as heralds of glad tidings, going before His mercy; and We send down pure water from the sky (48)That We may give life thereby to a dead land, and We give to drink thereof many of the cattle and men that We have created (49)And indeed We have distributed it among them in order that they may remember the grace of Allah, but most men refuse (out of) gratitude (50) Allah sends the winds as heralds of glad tidings, i.e., they bring the clouds behind them. وَأَنزَلْنَا مِنَ السَّمَاءِ مَاءً طَهُورً‌ا (And We have sent down purifying water from the heavens - 25:48).
+As for the one who said, 'We have been given rain by the mercy and grace of Allah,' he is a believer in Me and a disbeliever in the stars.
 
 ## Tafsir Ibn Kathir
 

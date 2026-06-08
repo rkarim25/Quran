@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He inspected the birds, and said: "What is the matter that I see not the hoopoe? I will punish him with a severe punishment - 27:21 It is part of the political sagacity to punish the absentee after making due scrutiny.
+- 27:21 That is, if the hoopoe offers a plausible excuse for its absence, then it will be saved from the punishment.
 
 ## Tafsir Ibn Kathir
 

@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Is not He Who created the heavens and the earth, able to create the like of them? In verse 80, it was said: جَعَلَ لَكُم مِّنَ الشَّجَرِ‌ الْأَخْضَرِ‌ نَارً‌ا (the One who created for you fire from the green tree).
+this is the opinion of the majority of the scholars of Tafsir and others.
 
 ## Tafsir Ibn Kathir
 

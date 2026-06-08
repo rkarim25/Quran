@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who accuse chaste believing women, who never even think of anything touching their chastity and are good believers – are cursed in this life and in the Hereafter, and for them will be a great torment (23)On… On the Day their tongues, their hands and their legs will testify against them of what they used to do.
+The Day on which their own tongues, hands and feet will speak against them and will testify against their crimes, they will be punished precisely according to the crimes they had committed. Verily, those who accuse chaste believing women, who never even think of anything touching their chastity and are good believers – are cursed in this life and in the Hereafter, and for them will be a great torment (23)On the Day when their tongues, their hands, and their legs will bear wit…
 
 ## Tafsir Ibn Kathir
 

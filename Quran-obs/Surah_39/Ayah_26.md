@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Is he then, who will confront with his face the awful torment on the Day of Resurrection? Verse أَفَمَن يَتَّقِي بِوَجْهِهِ (Tell Me about the one who tries to save himself from the worst punishment with his face ...) carries a description of the terrifying scenario of Jahannam.
+And what Allah has promised them of severe punishment in the Hereafter is worse than whatever befell them in this world.
 
 ## Tafsir Ibn Kathir
 

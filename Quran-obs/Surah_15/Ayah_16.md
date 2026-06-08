@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed, We have put the big stars in the heaven and We beautified it for the beholders (16)And We have guarded it (near heaven) from every outcast Shaytan (devil)(17)Except him (devil) who steals the hearing, then he… Mentioned in the previous verses was the doggedness and hostility of deniers and disbelievers.
+The Power of Allah and His Signs in the Heavens and on Earth To those who ponder, and look repeatedly at the dazzling signs and wonders that are to be seen in the creation, Allah mentions His creation of the heavens, with their immense height, and both the fixed and moving heavenly bodies with which He has adorned it.
 
 ## Tafsir Ibn Kathir
 

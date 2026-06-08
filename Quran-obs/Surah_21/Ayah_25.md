@@ -74,7 +74,7 @@ Or have they taken for worship gods besides Him Say: "Bring your proof. This is 
 
 ## Tafsir Summary
 
-Or have they taken for worship gods besides Him Say: "Bring your proof. هَـٰذَا ذِكْرُ‌ مَن مَّعِيَ وَذِكْرُ‌ مَن قَبْلِي (Here is the Message for those with me and the Message for those before me.
+This is the Reminder for those with me and the Reminder for those before me." But most of them know not the Truth, so they are averse (24)And We did not send any Messenger before you but We revealed to him (saying): "There is no God but I, so worship Me.
 
 ## Tafsir Ibn Kathir
 

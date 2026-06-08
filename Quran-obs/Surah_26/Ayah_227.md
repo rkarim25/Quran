@@ -92,7 +92,7 @@ But this Surah was revealed in Makkah, so how could the reason for its revelatio
 
 ## Tafsir Summary
 
-Shall I inform you upon whom the Shayatin descend (221)They descend on every lying, sinful person (Athim)(222)Who gives ear, and most of them are liars (223)As for the poets, the astray follow them (234)See you not that they speak about every subject in their poetry (225)And that they say what they do not do (226)Except those who believe and do righteous deeds, and remember Allah much and vindicate themselves after they have been wronged. As for the poets, they are followed by the straying people.
+If its subject matter is good and useful, it is good, and if its subject is bad or sinful, it is bad.
 
 ## Tafsir Ibn Kathir
 

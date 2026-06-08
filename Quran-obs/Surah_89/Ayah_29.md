@@ -22,7 +22,7 @@ He said, "This Ayah was revealed while Abu Bakr was sitting (with the Prophet �
 
 ## Tafsir Summary
 
-Nay! فَادْخُلِي فِي عِبَادِي (So, enter among My [ special ] servants...89:29).
+In other words, the contented soul will be addressed [ compassionately ], and first asked to enter the fold of righteous and sincere slaves, and then to enter Paradise. This indicates that entry into Paradise depends on their being, first and foremost, in the fold of the righteous believers.
 
 ## Tafsir Ibn Kathir
 

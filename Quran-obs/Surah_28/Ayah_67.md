@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) the Day when He will call to them and say: "Where are My (so-called) partners whom you used to assert? The very first question infidels and disbelievers will be asked at the Tumultuous Place (mahshar) will be about shirk (associating someone else with Allah), that is, ` where are those Shaitans today whom you used to associate with Us?
+Commentary The very first question infidels and disbelievers will be asked at the Tumultuous Place (mahshar) will be about shirk (associating someone else with Allah), that is, ` where are those Shaitans today whom you used to associate with Us?
 
 ## Tafsir Ibn Kathir
 

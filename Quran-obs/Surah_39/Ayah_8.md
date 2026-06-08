@@ -149,7 +149,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-If you disbelieve, then verily, Allah is not in need of you; He likes not disbelief for His servants. In the opening verse (7), it was said: إِن تَكْفُرُ‌وا فَإِنَّ اللَّـهَ غَنِيٌّ عَنكُمْ (If you disbelieve, then, Allah does not need you at all,) that is, neither does your faith bring any benefit to Allah Ta’ ala, nor does your disbelief or ingratitude, any loss.
+Then to your Lord is your return, and He will inform you what you used to do.
 
 ## Tafsir Ibn Kathir
 

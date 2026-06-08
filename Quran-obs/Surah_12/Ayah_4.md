@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when Yusuf said to his father: "O my father! Moving on the verse 4, the text takes up the story of Sayyidna Yusuf (علیہ السلام) which opens with the following words: إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَا أَبَتِ إِنِّي رَ‌أَيْتُ أَحَدَ عَشَرَ‌ كَوْكَبًا وَالشَّمْسَ وَالْ…
+Verily, I saw (in a dream) eleven stars and the sun and the moon - I saw them prostrating themselves to me. Scholars of Tafsir explained that in Yusuf's dream the eleven stars represent his brothers, who were eleven, and the sun and the moon represent his father and mother.
 
 ## Tafsir Ibn Kathir
 

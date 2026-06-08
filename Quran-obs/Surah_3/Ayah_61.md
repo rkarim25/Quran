@@ -112,7 +112,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, the likeness of 'Isa before Allah is the likeness of Adam. As stated earlier, verse 61 has instructed the Holy Prophet ﷺ to invite his opponents (Christians) to Mubahalah which literally means 'mutual prayer' but in the terminology of Islamic Shari'ah it refers to a particular form of resolving religious disputes.
+However, send with us a man from your Companions whom you are pleased with to judge between us regarding our monetary disputes, for you are acceptable to us in this regard.'" Al-Bukhari recorded that Hudhayfah said, "Al-'Aqib and As-Sayyid, two leaders from Najran, came to the Messenger of Allah ﷺ seeking to invoke Allah for curses (against whoever is unjust among them), and one of them said to the other, 'Let us not do that.
 
 ## Tafsir Ibn Kathir
 

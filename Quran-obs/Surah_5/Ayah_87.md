@@ -81,7 +81,7 @@ Ali bin Abi Talhah said that Ibn 'Abbas said, "This Ayah [5:87] was revealed abo
 
 ## Tafsir Summary
 
-O you who believe! Upto this point, the subject revolved around the people of the Book.
+Verily, Allah does not like the transgressors (87)And eat of the things which Allah has provided for you, lawful and good, and have Taqwa of Allah in Whom you believe . Make not unlawful the good things which Allah has made lawful to you, and transgress not.
 
 ## Tafsir Ibn Kathir
 

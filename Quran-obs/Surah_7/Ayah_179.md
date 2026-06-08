@@ -132,7 +132,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And surely, We have created many of the Jinn and mankind for Hell. "And surely, we have created for Hell a lot of people from among Jinn and mankind.
+As a substance of the verse we are given to understand that ultimate end or destiny is a divine secret, not known to anyone, but there are definite signs which help us to make a surmise.
 
 ## Tafsir Ibn Kathir
 

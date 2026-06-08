@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say to (them): "If the abode of the Hereafter with Allah is indeed for you especially and not for others of mankind, then long for death if you are truthful. The Jews used to claim that the blessings of the other world were specially reserved for them, and were not, meant for any other people.
+Also, the Mubahalah involves invoking Allah for death of the unjust group, because to disbelievers, life is the biggest prize, especially when they know the evil destination they will meet after death.
 
 ## Tafsir Ibn Kathir
 

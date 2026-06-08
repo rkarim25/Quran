@@ -159,7 +159,7 @@ This Hadith indicates that what is meant in this Hadith from 'A'ishah is that it
 
 ## Tafsir Summary
 
-You can postpone whom you will of them, and you may receive whom you will. تُرْ‌جِي مَن تَشَاءُ مِنْهُنَّ وَتُؤْوِي إِلَيْكَ مَن تَشَاءُ ("You may postpone (the turn) of any one you wish from among them, and may accommodate with you any one you wish." - 51) This rule is specific to the Holy Prophet ﷺ .
+If you wish, you may divide you time and if you do not wish, you need not divide your time, there is no sin on you no matter which you do.
 
 ## Tafsir Ibn Kathir
 

@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when We change a verse in place of another - and Allah knows best what He reveals - they (the disbelievers) say: "You (O Muhammad) are but a forger." Rather, most of them know not (101)Say (O Muhammad); "Ruh-ul-Qudus… In the previous verse (98), there was an instruction to say اَعُوذ بِاللہ 'a udhu bil-lah' (I seek protection with Allah) while reciting the Qur’ an which indicates that the Shaitan puts scruples in the heart when one recites the Qur'an.
+And when We change a verse in place of another - and Allah knows best what He reveals - they (the disbelievers) say: "You (O Muhammad) are but a forger." Rather, most of them know not (101)Say (O Muhammad); "Ruh-ul-Qudus has brought it (the Qur'an) down from your Lord with truth." for the conviction of those who believe, and as a guide and good news for the Muslims .
 
 ## Tafsir Ibn Kathir
 

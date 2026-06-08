@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We sent Musa with Our Ayat, and a manifest authority (23)To Fir'awn, Haman and Qarun, but they called (him): "A sorcerer, a liar! Frequent references were made earlier in the text to the warnings given to deniers of pure monotheism and prophethood which brought more opposition and hostility from disbelievers.
+But, the truth of the matter is that Habib is the name of the person who has been mentioned in Surah Sin (36:20).
 
 ## Tafsir Ibn Kathir
 

@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And of them are some who made a covenant with Allah (saying): "If He bestowed on us of His bounty, we will verily, give Sadaqah and will be certainly among the righteous. The second verse: وَمِنْهُم مَّنْ عَاهَدَ اللَّـهَ (And among them there are those who made a pledge with Allah - 75) is also connected with a particular event which has been reported by Ibn Jarir, Ibn Abi Hatim, Ibn Marduwayh, Al-Tabarani and Al-Baihaqi on the authority of a narration from Sayyidna Abu Umamah Bahili ؓ .
+They told him that they have orders not to pick out the best among animals, in fact, they were supposed to take the average ones, therefore, they could not take these. Hypocrites seek Wealth but are Stingy with Alms Allah says, some hypocrites give Allah their strongest oaths that if He enriches them from His bounty, they will give away alms and be among the righteous.
 
 ## Tafsir Ibn Kathir
 

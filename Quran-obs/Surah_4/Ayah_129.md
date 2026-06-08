@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if a woman fears cruelty or desertion on her husband's part, there is no sin on them both if they make terms of peace between themselves; and making peace is better. No one is responsible for something beyond his control In order to make married life pleasant and stable, the Holy Qur'an has given important instructions to both parties in these verses.
+The veneer of the words in verse 3 of Surah al-Nis-a' gave' the impression that maintaining equity between wives was ark absolute obligation which, obviously, includes equity in emotional inclination while this is something not in one's control.
 
 ## Tafsir Ibn Kathir
 

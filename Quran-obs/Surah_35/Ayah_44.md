@@ -132,7 +132,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have they not traveled in the land, and seen what was the end of those before them – though they were superior to them in power? The word: لَا يَحِيقُ (la yahiq) in verse 43: وَلَا يَحِيقُ الْمَكْرُ‌ السَّيِّئُ إِلَّا بِأَهْلِهِ (And the evil plot envelops none but its own people ( who make it) carries the sense of: لَا یُحِیطُ (la yuhit: does not surround) or: لَا یُصیبُ (la usib: does not afflict).
+There is another answer given by some elders who say that there are occasions when the curse of contriving against someone innocent or inflicting injustice on him, more than often, falls on the person causing it, right here in this world as well.
 
 ## Tafsir Ibn Kathir
 

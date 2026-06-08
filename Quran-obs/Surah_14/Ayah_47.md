@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So think not that Allah will fail to keep His promise to His Messengers. After that, it was to let this be heard by the Muslim community, the Holy Prophet ﷺ or everyone thus addressed - was given a note of caution by saying: So, do not think that Allah will do against His promise [ of sup-port, victory and success ] to His messengers.
+So think not that Allah will fail to keep His promise to His Messengers. When the womans discharge is greater than the man's, it becomes a female by Allah's permission.) The Jew said, 'You have told the truth and are indeed a Prophet.' Then he left.
 
 ## Tafsir Ibn Kathir
 

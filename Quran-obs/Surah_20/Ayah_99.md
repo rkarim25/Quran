@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Thus We relate to you some information of what happened before. وَقَدْ آتَيْنَاكَ مِن لَّدُنَّا ذِكْرً‌ا (And We have given to you, from Ourself, a (book on advice.
+The Entire Qur'an is the Remembrance of Allah and mentioning the Punishment of Those Who turn away from It Allah, the Exalted, is saying to Prophet Muhammad ﷺ, 'We have told you (O Muhammad) the story of Musa and what happened with him, Fir'awn and his armies, just as it actually happened.
 
 ## Tafsir Ibn Kathir
 

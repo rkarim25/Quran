@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, as for those who believed and did righteous deeds, certainly We shall not make the reward of anyone to be lost who does his (righteous) deeds in the most perfect manner (30)These! Da'wah and Tabligh admit of no discrimination Some events have been mentioned in the background of the revelation of the verse: وَاصْبِرْ‌ نَفْسَكَ (And keep yourself content - 28).
+How good is the reward, and what an excellent Murtafaq .
 
 ## Tafsir Ibn Kathir
 

@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the Day when He will call to them, and will say: "Where are My (so-called) partners, whom you used to assert? A question that will be asked from the infidels on the Day of Judgment to repeat what they had replied to the prophets on their invitation to truth was mentioned in an earlier verse.
+Rebuking the Idolators This is another call by way of rebuke for those who worshipped other gods besides Allah.
 
 ## Tafsir Ibn Kathir
 

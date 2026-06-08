@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when the angels said: "O Maryam! وَارْ‌كَعِي مَعَ الرَّ‌اكِعِينَ (and bow down with those who bow) while giving an order to bow down, the imperative has been qualified with the words "with those who bow"- but no such qualification appears while giving an order of prostration.
+Submit yourself with obedience (Aqnuti) to your Lord and prostrate yourself, and bow down along with Ar-Raki'in. Maryam Over the Women of Her Time Allah states that the angels spoke to Maryam by His command and told her that He chose her because of her service to Him, because of her modesty, honor, innocence, and conviction.
 
 ## Tafsir Ibn Kathir
 

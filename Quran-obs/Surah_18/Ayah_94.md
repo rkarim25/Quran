@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then he followed (another) way (92)Until, when he reached between two mountains, he found before them a people who scarcely understood a word (93)They said: "O Dhul-Qarnayn! The Identity of Ya'juj Ma'juj and the Location of the Wall of Dhul-Qarnain A lot of absurd and strange things disseminated through Isra'ili narratives and historical stories have found currency to the extent that some commentators have also reported them in terms of their historical status, though they themselves do not find them trustworthy.
+297) The Wall of Dhul-Qarnain: Is it still there?
 
 ## Tafsir Ibn Kathir
 

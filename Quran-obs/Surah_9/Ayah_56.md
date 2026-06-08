@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They swear by Allah that they are truly of you while they are not of you, but they are a people (hypocrites) who are afraid (that you may kill them)(56)Should they find a refuge, or caves, or a place of concealment, they… Mentioned in the previous verses were bad morals and bad deeds of the hypocrites.
+They swear by Allah that they are truly of you while they are not of you, but they are a people (hypocrites) who are afraid (that you may kill them)(56)Should they find a refuge, or caves, or a place of concealment, they would turn straightway thereto with a swift rush . It is because of this that they feel grief, sadness and sorrow, seeing Islam and its people enjoying ever more might, triumph and glory.
 
 ## Tafsir Ibn Kathir
 

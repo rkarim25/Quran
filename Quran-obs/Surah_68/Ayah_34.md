@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, for those who have Taqwa are Gardens of Delight with their Lord (34)Shall We then treat the Muslims like the criminals (35)What is the matter with you? كَذَٰلِكَ الْعَذَابُ (In this way the punishment comes.
+Verily, for those who have Taqwa are Gardens of Delight with their Lord (34)Shall We then treat the Muslims like the criminals (35)What is the matter with you?
 
 ## Tafsir Ibn Kathir
 

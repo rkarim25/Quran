@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Whatever wage I might have asked of you is yours. Verse 48: إِنَّ رَ‌بِّي يَقْذِفُ بِالْحَقِّ عَلَّامُ الْغُيُوبِ (Say," My Lord sends forth the Truth.
+So it happens in the confrontation between truth and falsehood when the later lies shattered. But if I remain guided, it is because of the Revelation of my Lord to me.
 
 ## Tafsir Ibn Kathir
 

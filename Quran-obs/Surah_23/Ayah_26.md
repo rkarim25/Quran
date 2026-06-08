@@ -30,7 +30,7 @@ He said: "O my Lord! Help me because they deny me. (26)So, We revealed to him: "
 
 ## Tafsir Summary
 
-He said: "O my Lord! In the last benefit, ships and boats are also included, because they are also used in transportation وَعَلَيْهَا وَعَلَى الْفُلْكِ تُحْمَلُونَ (And on them and on the boats you are transported - 23:22).
+Help me because they deny me.) At that point, Allah commanded him to build a boat and to make it strong and firm, and to carry therein of every kind two, i.e., a male and a female of every species of animals, plants and fruits etc.
 
 ## Tafsir Ibn Kathir
 

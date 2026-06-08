@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Warning against dreadful end of those committing three obnoxious sins This Surah warns of the severe punishment on three grave sins, and then highlights the nature of that severe punishment.
+This means that the person finds fault with people and belittles them. Warning against dreadful end of those committing three obnoxious sins This Surah warns of the severe punishment on three grave sins, and then highlights the nature of that severe punishment.
 
 ## Tafsir Ibn Kathir
 

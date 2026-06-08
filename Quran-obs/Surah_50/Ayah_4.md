@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Beginning of Muffasal Section of the Qur'an This Surah is the first Surah in the Mufassal section of the Qur'an, according to the correct view. Removal of a Doubt relating to Resurrection قَدْ عَلِمْنَا مَا تَنقُصُ الْأَرْ‌ضُ مِنْهُمْ (We know very well how much of them is diminished by the earth,...
+We know that which the earth takes of them, and with Us is a Book preserved.)(5.
 
 ## Tafsir Ibn Kathir
 

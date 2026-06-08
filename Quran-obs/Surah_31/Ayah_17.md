@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"O my son! The Third Bequest of Luqman (علیہ السلام) about the Correction of Deed There are many obligatory deeds, but the greatest and the most important of these is Salah - and not simply that it is important by itself, it also happens to be the master deed that becomes the catalyst changing other deeds towards the better as was pointed out in the Holy Qur'an about it: إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ‌ (Surely Salah restrains from shamelessness and evil A1-` Ankabut, 29:45).
+Surely, this is among the matters of determination - 17).
 
 ## Tafsir Ibn Kathir
 

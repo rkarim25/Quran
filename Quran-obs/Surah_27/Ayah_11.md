@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when Musa said to his household: "Verily, I have seen a fire; I will bring you from there some information, or I will bring you a burning ember, that you may warm yourselves. Except him who did wrong, then after (doing) evil replaced (it) with good, then I am Most-Forgiving, Very-Merciful.
+They are those who have committed any sin, but later repented and sought Allah's pardon and performed good deeds.
 
 ## Tafsir Ibn Kathir
 

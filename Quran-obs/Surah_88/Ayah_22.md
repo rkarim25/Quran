@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do they not look at the camels, how they are created (17)And at the heaven, how it is raised (18)And at the mountains, how they are rooted (19)And at the earth, how it is outspread (20)So remind them – you are only one w… أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ (So, do they not look at the camels how they are created...88:17) The Qur'an first described the conditions of the Hereafter; and it then went on to depict the reward of the believers and the retribution of the unbelievers.
+You are not a Musaytir over them) This is how Muslim recorded this Hadith in his Book of Faith, and At-Tirmidhi and An-Nasa'i also recorded it in their Sunans in the Books of Tafsir.
 
 ## Tafsir Ibn Kathir
 

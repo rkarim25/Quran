@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O Musa! وَأَلْقِ مَا فِي يَمِينِكَ (And throw what is in your right hand - 20:69).
+At the same time, the magicians and all of the people were watching with their own eyes, seeing this amazing event in broad daylight. Conversion to Islam and bowing in prostration by the Pharaoh's magicians The Egyptian magicians who were masters of their art realized at once that what they had just witnessed was not magic but a miracle brought about by a Supreme Power.
 
 ## Tafsir Ibn Kathir
 

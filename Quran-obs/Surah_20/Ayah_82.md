@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Children of Israel! وَوَاعَدْنَاكُمْ جَانِبَ الطُّورِ‌ الْأَيْمَنَ (And appointed for you the right side of the mount Tur.
+And he on whom My anger descends, he is indeed perished (81)And verily, I am indeed forgiving to him who repents, believes and does righteous deeds, and then Ihtad .
 
 ## Tafsir Ibn Kathir
 

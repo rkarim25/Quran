@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Prostration of Recitation in Surat Al-Inshiqaq It is reported from Abu Salamah that while leading them in prayer, Abu Hurayrah recited, وَإِذَا الْأَرْضُ مُدَّتْ (and when the earth will be stretched [ to give room to more people ]...84:3) The word madda means 'to stretch, spread, expand out'.
+And when the earth is stretched forth,)(4.
 
 ## Tafsir Ibn Kathir
 

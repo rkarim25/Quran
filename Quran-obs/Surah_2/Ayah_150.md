@@ -137,7 +137,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And from wheresoever you start forth (for prayers), turn your face in the direction of Al-Masjid Al-Haram (at Makkah), that is indeed the truth from your Lord. The question of religious orientation being of the highest significance for an Ummah (or a traditional community), these verses continue and enlarge upon the theme of the Qiblah, and lay down further raisons d'etre for the change.
+And Allah is not unaware of what they do.)(2:144) Allah mentioned in these Ayat His fulfillment of the Prophet's wish and ordered him to face the Qiblah that he liked and is pleased with.
 
 ## Tafsir Ibn Kathir
 

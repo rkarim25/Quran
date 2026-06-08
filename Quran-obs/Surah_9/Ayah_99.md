@@ -126,7 +126,7 @@ Allah states that there are disbelievers, hypocrites and believers among the bed
 
 ## Tafsir Summary
 
-The bedouins are the worst in disbelief and hypocrisy, and more likely to not know the limits which Allah has revealed to His Messenger. After having described the state of affairs prevailing among hypocrites of distant deserts, it was considered appropriate that the true and staunch Muslims from among the same stock of Bedouins should also be mentioned.
+However, the hope of prayers from the Holy Prophet ﷺ is on a different basis.
 
 ## Tafsir Ibn Kathir
 

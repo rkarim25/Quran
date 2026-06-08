@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when your Lord said to the angels: "Truly, I am going to create man from clay. Here, it is about Sayyidna 'Adam (علیہ السلام) that Allah Ta’ ala has said that it is He who had created him with His hands.
+What prevents you from prostrating yourself to one whom I have created with Both My Hands. He refused to prostrate to Adam, and he disputed with his Lord about him, claiming that he was better than Adam, because he was created from fire while Adam was created from clay, and fire was better than clay, or so he said.
 
 ## Tafsir Ibn Kathir
 

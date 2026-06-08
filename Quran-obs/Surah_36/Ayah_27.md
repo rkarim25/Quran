@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It was said: "Enter Paradise." He said: "Would that my people knew. Since this man of piety laid down his life valiantly in the way of Allah, he was blessed with honor as said in Verses 26 and 27: قَالَ يَا لَيْتَ قَوْمِي يَعْلَمُونَ بِمَا غَفَرَ‌ لِي رَ‌بِّي وَجَعَلَنِي مِنَ الْمُكْرَ‌مِينَ ("He said, 'Would that my people knew how my Lord has forgiven me and placed me among the honored ones!" ).
+In response to the honest call and advice of these messengers, the polytheists had said three things: 1. This he said so that the adversary might not be enraged, rather, should think about it with a cool mind.
 
 ## Tafsir Ibn Kathir
 

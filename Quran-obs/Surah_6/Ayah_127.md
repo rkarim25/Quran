@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And this is the path of your Lord leading straight. In the second verse (127), it was said: لَهُمْ دَارُ‌ السَّلَامِ عِندَ رَ‌بِّهِمْ (For them there is the Abode of Peace with their Lord).
+It means that the people who have been mentioned above, people who see and hear the Qur'anic words of advice with an open mind and who, as an inevitable result, accept the advice and guidance, then, it is for them that there is that reward of Darus-Salam, present and preserved, waiting.
 
 ## Tafsir Ibn Kathir
 

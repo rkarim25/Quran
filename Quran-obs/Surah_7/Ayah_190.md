@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is He Who has created you from a single person, and (then) He has created from him his wife, in order that he might enjoy the pleasure of living with her. In short, all the above acts or beliefs are different forms of 'Shirk' ~,.
+But when He gave them a Salih child, they ascribed partners to Him (Allah) in that which He has given to them.
 
 ## Tafsir Ibn Kathir
 

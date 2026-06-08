@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when they went in before Yusuf, he took his brother (Binyamin) to himself and said: "Verily, I am your brother, so grieve not for what they used to do. And when they came to Yusuf, he lodged his brother [ Benyamin ] with himself.
+He comforted him and asked him not to worry about what their brothers have been doing until that time.
 
 ## Tafsir Ibn Kathir
 

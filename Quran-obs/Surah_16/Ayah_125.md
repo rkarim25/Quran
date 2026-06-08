@@ -102,7 +102,7 @@ Allah commands His Messenger Muhammad ﷺ to invite the people to Allah with Hik
 
 ## Tafsir Summary
 
-Invite to the way of your Lord with wisdom and fair preaching, and argue with them with that which is best. In the previous verses, by attesting to the veracity of the Holy Prophet ﷺ as prophet and messenger of Allah, the purpose was to induce his people to follow what he commanded them with and thus do their bounden duty towards their Divinely ordained rasul.
+Inviting with wisdom is for people of knowledge and understanding.
 
 ## Tafsir Ibn Kathir
 

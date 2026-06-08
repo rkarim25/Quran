@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have not those who disbelieve known that the heavens and the earth were joined together as one united piece, then We parted them? وَجَعَلْنَا فِي الْأَرْ‌ضِ رَ‌وَاسِيَ أَن تَمِيدَ بِهِمْ (And We created mountains on the earth, lest it should shake with them.
+Yet they turn away from its signs (32)And He it is Who has created the night and the day, and the sun and the moon, each in an orbit floating .
 
 ## Tafsir Ibn Kathir
 

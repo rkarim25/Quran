@@ -194,7 +194,7 @@ We discussed these Ayat in Surat Al-Baqarah, which was revealed in Al-Madinah, w
 
 ## Tafsir Summary
 
-And We divided them into twelve tribes (as distinct) nations. The above verses have enumerated various favours that Allah bestowed upon the Israelites, and spoke of their deviation from the commands of Allah resulting in a heavenly punishment for their transgression.
+We revealed to Musa when his people asked him for water (saying): "Strike the stone with your stick," and there gushed forth out of it twelve springs, each group knew its own place for water. And We divided them into twelve tribes (as distinct) nations.
 
 ## Tafsir Ibn Kathir
 

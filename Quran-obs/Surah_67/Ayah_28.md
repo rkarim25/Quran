@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Tell me! قُلْ هُوَ الَّذِي أَنشَأَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ‌ وَالْأَفْئِدَةَ ۖ قَلِيلًا مَّا تَشْكُرُ‌ونَ (Say, "He is the One who has originated you, and made for you the ears and the eyes and the hearts.
+If Allah destroys me, and those with me, or He bestows His mercy on us - who can save the disbelievers from a painful torment?
 
 ## Tafsir Ibn Kathir
 

@@ -85,7 +85,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Whatever a verse (revelation) do Nansakh (We abrogate) or Nunsiha (cause to be forgotten), We bring a better one or similar to it. At first, Muslims used to pray with their faces turned towards the Baytul-Maqdis بیت المقدس at Jerusalem; later on, Allah commanded them to turn towards the Ka'bah کعبہ .
+Know you not that Allah is Able to do all things (106)Know you not that it is Allah to Whom belongs the dominion of the heavens and the earth?
 
 ## Tafsir Ibn Kathir
 

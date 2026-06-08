@@ -87,7 +87,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Explained in the fifth verse (35) is the detail of the ` painful punishment' referred to at the end of verse 34.
+Therefore, money will produce the worst harm for them in the Hereafter, when it will be heated in the Fire of Jahannam, whose heat is quiet sufficient, and their forehead, sides and back will be branded with it.
 
 ## Tafsir Ibn Kathir
 

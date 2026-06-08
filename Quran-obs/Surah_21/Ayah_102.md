@@ -50,7 +50,7 @@ It was revealed about the mention of 'Isa, 'Uzayr and rabbis and monks who were 
 
 ## Tafsir Summary
 
-Certainly you and that which you are worshipping now besides Allah, are (but) fuel (Hasab) for Hell! At that point Allah Ta` ala revealed the verse : إِنَّ الَّذِينَ سَبَقَتْ لَهُم مِّنَّا الْحُسْنَىٰ أُولَـٰئِكَ عَنْهَا مُبْعَدُونَ (Surely, those for whom the good (news) from Us has come earlier shall be kept far away from it.
+They shall not hear the slightest sound of it,) means, they will not feel its heat in their bodies. They shall not hear the slightest sound of it (Hell), while they abide in that which their own selves desire.) It was revealed about the mention of 'Isa, 'Uzayr and rabbis and monks who were also worshipped, who had spent their lives in devotion towards Allah, but the misguided people who came after them took them as lords instead of Allah.
 
 ## Tafsir Ibn Kathir
 

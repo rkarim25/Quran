@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And it is He Who sends the winds as heralds of glad tidings, going before His mercy (rain). Stated in the second verse (58) is: وَالْبَلَدُ الطَّيِّبُ يَخْرُ‌جُ نَبَاتُهُ بِإِذْنِ رَ‌بِّهِ ۖ وَالَّذِي خَبُثَ لَا يَخْرُ‌جُ إِلَّا نَكِدًا (As for the good land, its vegetation comes out with the permission of its Lord.
+Till when they have carried a heavy-laden cloud, We drive it to a land that is dead, then We cause water (rain) to descend thereon.
 
 ## Tafsir Ibn Kathir
 

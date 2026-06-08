@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Tell me! قُلْ أَرَ‌أَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرً‌ا فَمَن يَأْتِيكُم بِمَاءٍ مَّعِينٍ (Say, "Tell me, Should your water vanish into the earth, who will bring you a flowing [ stream ] water?"...(67:30).
+So, it is merely out of His favor and His grace that He causes water to spring forth for you, and He makes it run to the various regions of the earth in an amount that is suitable for the needs of servants, be it little or abundant.
 
 ## Tafsir Ibn Kathir
 

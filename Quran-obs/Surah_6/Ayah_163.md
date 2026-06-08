@@ -43,7 +43,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Truly, my Lord has guided me to a straight path, a right religion, the religion of Ibrahim, Hanifan (monotheism) and he was not of the Mushrikin. In the first verse it has been said: قُلْ إِنَّنِي هَدَانِي رَ‌بِّي إِلَىٰ صِرَ‌اطٍ مُّسْتَقِيمٍ (As for me, my Lord has guided me to a straight path).
+This is a sound meaning, because all Prophets before our Prophet ﷺ were calling to Islam, which commands worshipping Allah alone without partners. Therefore, the religion, representing the one father, is one; worshipping Allah alone without partners, even though the laws which are like the different mothers in this parable, are different.
 
 ## Tafsir Ibn Kathir
 

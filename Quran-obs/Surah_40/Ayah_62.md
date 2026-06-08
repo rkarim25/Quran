@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah, it is He Who has made the night for you that you may rest therein and the day for you to see. In the verses cited above, after having presented a few manifestations of Allah's blessings and His perfect power, an invitation to belief in the Oneness of Allah has been extended.
+That is Allah, your Lord, so Blessed be Allah, the Lord of all that exists (64)He is the Ever Living, La ilaha illa Huwa; so invoke Him making the religion for Him Alone.
 
 ## Tafsir Ibn Kathir
 

@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when Luqman said to his son when he was advising him: "O my son! Out of these wise advices, first comes the soundness of beliefs, the primary article of which is that one believes in Allah Ta’ ala to be the Creator and master of the entire universe without any association or partnership of anyone or anything.
+Verily, joining others in worship with Allah is a great Zulm (wrong) indeed.
 
 ## Tafsir Ibn Kathir
 

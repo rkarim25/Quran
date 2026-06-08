@@ -112,7 +112,7 @@ One such narration from Sayyidna ` Abdullah ibn ` Abbas ؓ has been reported by 
 
 ## Tafsir Summary
 
-Say: "I am only a man like you. The cause of the revelation of the last verse of Surah al-Kahf: وَلَا يُشْرِ‌كْ بِعِبَادَةِ رَ‌بِّهِ أَحَدًا (and must not associate anyone in the worship of his Lord - 110), as mentioned in Hadith reports, shows that shirk at this place means hidden shirk, that is, hypocrisy (رِیَاء : riy' ).
+This is what is meant by seeking the pleasure of Allah alone with no associate or partner. These are the two basic features of acceptable deeds: their intent is for the sake of Allah alone, and are done in accordance with the way of the Messenger of Allah ﷺ.
 
 ## Tafsir Ibn Kathir
 

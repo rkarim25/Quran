@@ -167,7 +167,7 @@ It was to refute this barbaric demand on their part that this verse was revealed
 
 ## Tafsir Summary
 
-O you who believe! From the brief introduction to the nature of righteousness appearing in verses before this, the text now enters into the description of related subsidiary injunctions.
+Under the first injunction in this connection, the verse prescribes the law of Qisas (even retaliation), that is, the killer will be killed, irrespective of the status of the parties involved.
 
 ## Tafsir Ibn Kathir
 

@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then when the Trumpet will be blown with one blowing (13)And the earth and the mountains shall be removed from their places, and crushed with a single crushing (14)Then on that Day shall the Event occur (15)And the heave… فَإِذَا نُفِخَ فِي الصُّورِ‌ نَفْخَةٌ وَاحِدَةٌ (Then, when the Trumpet will be blown for the first time…69:13).
+Then when the Trumpet will be blown with one blowing (13)And the earth and the mountains shall be removed from their places, and crushed with a single crushing (14)Then on that Day shall the Event occur (15)And the heaven will be rent asunder, for that Day it will be frail and torn up (16)And the angels will be on its sides, and eight angels will, that Day, bear the Throne of your Lord above them (17)That Day shall you be brought to Judgement, not a secret of you will be hidd…
 
 ## Tafsir Ibn Kathir
 

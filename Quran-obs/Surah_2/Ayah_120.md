@@ -140,7 +140,7 @@ These Ayat mean, "Those among the People of the Book who perfectly adhered to th
 
 ## Tafsir Summary
 
-Never will the Jews nor the Christians be pleased with you (O Muhammad ﷺ) till you follow their religion. Being anxious to save as many men as possible from misguidance and damnation, the Holy Prophet ﷺ took great pains to convince the deniers, and was specially lenient and gentle with the People of the Book.
+Yatlunahu Haqqan Tilawatih.) Abdur-Razzaq ﷺ said from Ma'mar, from Qatadah, "They are the Jews and Christians." This is the opinion of 'Abdur-Rahman bin Zayd bin Aslam, and it was also chosen by Ibn Jarir.
 
 ## Tafsir Ibn Kathir
 

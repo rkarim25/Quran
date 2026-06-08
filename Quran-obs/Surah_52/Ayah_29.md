@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Therefore, remind. The Believing Children of the Righteous will benefit from their relationship with their Believing Parents in Paradise وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّ‌يَّتُهُم بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّ‌يَّتَهُمْ (And those who believed and their children followed them in belief, We will join their children with them,...
+Absolving the Prophet (ﷺ) of the False Accusations the Idolators made against Him Allah the Exalted commands His Messenger ﷺ to convey His Message to His servants and remind them of His revelation that has been sent down to him.
 
 ## Tafsir Ibn Kathir
 

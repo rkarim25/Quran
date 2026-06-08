@@ -81,7 +81,7 @@ Some narrations also corroborate that this verse was revealed about those Muslim
 
 ## Tafsir Summary
 
-And He it is Who accepts repentance from His servants, and forgives sins, and He knows what you do (25)And He answers those who believe and do righteous good deeds, and gives them increase of His bounty. Sequence and background of Revelation In these verses, Allah Almighty has given the proof of His Oneness by pointing out to the perfection of His Wisdom through which He has tied up the whole universe with a stable system, which is surely being supervised by a Being who is All-Wise and All-Aware.
+this verse was revealed about those Muslims who used to wish that they also should get the same wealth and opulence as was available to the infidels.
 
 ## Tafsir Ibn Kathir
 

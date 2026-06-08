@@ -128,7 +128,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And it is He Who sends the winds as heralds of glad tidings, going before His mercy (rain). In previous verses, Allah Ta` ala has mentioned some of His major and particular blessings.
+It is as simple as it can be - when Allah Ta` ala wills, vapours from the waters start rising upwards, turn into clouds and what you have is a sky-filling plane carrying a cargo of hundreds and thousands of gallons of water in its holds flying on the cushion of winds towards higher altitudes!
 
 ## Tafsir Ibn Kathir
 

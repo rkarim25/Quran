@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed, We sent (Messengers) before you (O Muhammad) amongst the earlier communities (10)And there never came a Messenger to them but that they mocked him (11)Thus We allow it to enter the hearts of the guilty (12)They w… A Lexical Note of Explanation The word: اَلشِيَعِ in the first verse (10) is the plural form of: شِیعہ (shah) which means the follower or helper of a person.
+Indeed, We sent (Messengers) before you (O Muhammad) amongst the earlier communities (10)And there never came a Messenger to them but that they mocked him (11)Thus We allow it to enter the hearts of the guilty (12)They would not believe in it (the Qur'an); and already the example of the ancients has gone forth . So, the sense of the statement is that Allah Ta’ ala has sent messengers among every group or sect.
 
 ## Tafsir Ibn Kathir
 

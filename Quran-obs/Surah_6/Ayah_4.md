@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And never an Ayah comes to them from the Ayat of their Lord, but that they have been turning away from it (4)Indeed, they rejected the truth when it came to them, but there will come to them the news of that which they used to mock at (5)Have they not seen how many a generation before them We have destroyed whom We had established on the earth such as We have not established you? The fourth verse carries a complaint against the anti-truth doggedness and obstinacy of the chronically heedless human race by saying: وَمَا تَأْتِيهِم مِّنْ آيَةٍ مِّنْ آيَاتِ رَ‌بِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِ‌ضِ…
+Threatening the Idolators for their Stubbornness Allah states that the rebellious, stubborn polytheists will turn away from every Ayah, meaning, sign, miracle and proof that is evidence of Allah's Uniqueness and the truth of His honorable Messengers.
 
 ## Tafsir Ibn Kathir
 

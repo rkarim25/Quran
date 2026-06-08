@@ -35,7 +35,7 @@ Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ 
 
 ## Tafsir Summary
 
-And Allah had made your homes a place of rest for you, and made dwellings for you out of the hides of the cattle which you find so light when you travel and when you camp; and furnishings and articles of convenience out… Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ الْحَرَّ‌ (shirts which protect you from heat - 81).
+Thus does He perfect His favor for you, that you may submit yourselves to His will (81)Then, if they turn away, your duty (O Muhammad) is only to convey (the Message) in a clear way (82)They recognize the grace of Allah, yet they deny it (by worshipping others besides Allah) and most of them are disbelievers .
 
 ## Tafsir Ibn Kathir
 

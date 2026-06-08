@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Anbiya' Al-Bukhari recorded that 'Abdur-Rahman bin Yazid said that 'Abdullah said, "Banu Isra'il, Al-Kahf, Maryam, Ta Ha and Al-Anbiya' - they are among the earliest and most beautiful Surahs and… Then in اَفَھُم یؤمِنُونَ (Will they believe?) there is a hint that there was no likelihood of these people accepting the true faith even after seeing the miracles of their choice.
+Not one of the towns of those which We destroyed, believed before them; will they then believe.) The Hour is at hand but People are heedless This is a warning from Allah of the approach of the Hour, and that people are heedless of it, i.e., they are not working for it or preparing for it.
 
 ## Tafsir Ibn Kathir
 

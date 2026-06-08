@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "Do you know what you did with Yusuf and his brother, when you were ignorant? أَإِنَّكَ لَأَنتَ يُوسُفُ (Are you really the Yusuf?).
+He who has Taqwa, and is patient, then surely, Allah makes not the reward of the gooddoers to be lost. ` Surely, whoever fears Allah [ and abstains from sins ] and observes patience [ while in distress ], then Allah does not waste the reward of the good-doers [ like these ].'
 
 ## Tafsir Ibn Kathir
 

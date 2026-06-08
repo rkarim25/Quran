@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O people of the Scripture! The argumentation referred to in verse 65 was to decide whether Sayyidna Ibrahim (علیہ السلام) followed the way of the Jews, or that of the Christians.
+Have you then no sense (65)Verily, you are those who have disputed about that of which you have knowledge. Why do you then dispute concerning that of which you have no knowledge?) This Ayah criticizes those who argue and dispute without knowledge, just as the Jews and Christians did concerning Ibrahim.
 
 ## Tafsir Ibn Kathir
 

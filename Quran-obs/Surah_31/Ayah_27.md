@@ -98,7 +98,7 @@ As it appears in some narratives, this verse was revealed in response to a quest
 
 ## Tafsir Summary
 
-And if all the trees on the earth were pens and the sea, with seven seas behind it to add to it, yet the Words of Allah would not be exhausted. This has been stated in the verse: وَلَوْ أَنَّمَا فِي الْأَرْ‌ضِ مِن شَجَرَ‌ةٍ أَقْلَامٌ (27) through a similitude.
+The number seven is used to indicate a large amount, it is not to be taken literally or to be understood as referring to the seven oceans of the world, as was suggested by those who took this idea from Israelite stories, which we neither believe nor reject.
 
 ## Tafsir Ibn Kathir
 

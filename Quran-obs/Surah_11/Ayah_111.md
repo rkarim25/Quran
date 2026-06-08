@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So be not in doubt as to what these people (pagans and polytheists) worship. After having given this good counsel to them, he warned them of the punishment of Allah Ta` ala.
+Surely, He is All-Aware of what they do .
 
 ## Tafsir Ibn Kathir
 

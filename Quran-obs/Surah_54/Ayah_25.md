@@ -47,7 +47,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Thamud denied the warnings (23)And they said: "A man, alone among us – shall we follow him? The word سُعُر su'ur has appeared twice in this Surah.
+So, is there one to seek advice?) This is to indicate that the only way to avoid the terrible chastisement is to take to the advice of the Qur'an. The word murawadah signifies to entice someone to satisfy one's lust.
 
 ## Tafsir Ibn Kathir
 

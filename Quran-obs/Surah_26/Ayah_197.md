@@ -48,7 +48,7 @@ Then Allah tells us how intense the disbelief of Quraysh was, and how stubbornly
 
 ## Tafsir Summary
 
-And verily, it is in the Zubur of the former people (196)Is it not a sign to them that the learned scholars of the Children of Israel knew it (197)And if We had revealed it unto any of the non-Arabs (198)And he had recit… Qur’ an is the name of the collection of its words and meanings It is brought by the Trusted Spirit down [ 193] to your heart, so that you become one of the warners [ 194] in plain Arabic language.
+And verily, it is in the Zubur of the former people (196)Is it not a sign to them that the learned scholars of the Children of Israel knew it (197)And if We had revealed it unto any of the non-Arabs (198)And he had recited it unto them, they would not have believed in it .
 
 ## Tafsir Ibn Kathir
 

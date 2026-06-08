@@ -73,7 +73,7 @@ From the verse لَيْسَ لَكَ مِنَ الْأَمْرِ‌ شَيْءٌ
 
 ## Tafsir Summary
 
-(Remember) when you said to the believers, "Is it not enough for you that your Lord should help you with three thousand angels sent down? In the previous verses, the battle of Badr was cited in relation to the battle of Uhud.
+Evidences prove that the angels of Allah did a few things to impress upon Muslims that the angels too are participating in fighting as a sort of assurance that His support through the angels is there.
 
 ## Tafsir Ibn Kathir
 

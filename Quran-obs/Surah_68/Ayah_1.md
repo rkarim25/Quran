@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(1. The preceding Surah dealt with the existence of Allah, His Oneness, and His knowledge and power, and adduced, as a positive proof of these attributes, was the fact that Allah is the Creator of death and life, and of the entire universe through whose component parts there runs the beautiful order that pervades the cosmos.
+Pen and its Significance In the phrase wal-qalami, the waw is the particle of oath [ translated here as 'by the pen'].
 
 ## Tafsir Ibn Kathir
 

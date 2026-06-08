@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. يُؤْفَكُ عَنْهُ مَنْ أُفِكَ (Turned away from this (Qur'an) is the one who is turned away 51:9).
+Turned aside therefrom is he who is turned aside.)(10.
 
 ## Tafsir Ibn Kathir
 

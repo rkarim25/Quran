@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But when there comes the Greatest Catastroph (34)The Day when man shall remember what he strove for (35)And Hell shall be made apparent for whoever sees (36)Then for him who transgresse (37)And preferred the life of this… Thereafter, the special marks of the inmates of Paradise are described.
+In other words, [ 1] the first characteristic of a God-fearing person is that, in this life, he shudders at the thought of appearing before Allah to account for his deeds on the Day of Reckoning; and [ 2] forbids the baser self from its evil desires. One is at times deceived by them, because he continues to think that his actions are right.
 
 ## Tafsir Ibn Kathir
 

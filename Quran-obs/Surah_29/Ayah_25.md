@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So nothing was the answer of people except that they said: "Kill him or burn him." Then Allah saved him from the fire. The infidels of Makkah believed that it is Allah who has created the whole universe, but they deemed it impossible that the people will be resurrected after they once die.
+Then verse 20 has induced them to look around them to appreciate the splendors of the creation, so that they may apprehend that the One who has originated this marvelous creation can easily repeat the process.
 
 ## Tafsir Ibn Kathir
 

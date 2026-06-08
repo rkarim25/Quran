@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We made the son of Maryam and his mother as a sign, and We gave them refuge on a Rabwah, Dhat Qarar, and Ma'in (50) Allah tells us about His servant and Messenger 'Isa bin Maryam, peace be upon them both, and that He made them as a sign for mankind, i.e., definitive proof of His ability to do what He wills. وَآوَيْنَاهُمَا إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ (and We gave them shelter on a height, a place of rest and running springs).
+And We made the son of Maryam and his mother as a sign, and We gave them refuge on a Rabwah, Dhat Qarar, and Ma'in . Isa and Maryam Allah tells us about His servant and Messenger 'Isa bin Maryam, peace be upon them both, and that He made them as a sign for mankind, i.e., definitive proof of His ability to do what He wills.
 
 ## Tafsir Ibn Kathir
 

@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! The Prohibition of Friendship with those who make fun of Islam In the sixth verse (57), Allah Almighty has again stressed upon the injunction mentioned in verse 51 at the beginning of the Section, the sense of which is that the Muslims should not seek close friendship with people who make fun of their religion.
+Do not take as friends those who take your religion for a mockery and fun from those who received the Scriptures before you, and (nor) the disbelievers; and have Taqwa of Allah if you indeed are true believers (57)And when you proclaim the call for the Salah, they take it (but) as a mockery and fun; that is because they are a people who understand not .
 
 ## Tafsir Ibn Kathir
 

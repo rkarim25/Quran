@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-As for those who are wretched, they will be in the Fire, in it they will experience Zafir and Shahiq (106)They will dwell therein for all the time that the heavens and the earth endure, except as your Lord wills. After having given this good counsel to them, he warned them of the punishment of Allah Ta` ala.
+As for those who are wretched, they will be in the Fire, in it they will experience Zafir and Shahiq (106)They will dwell therein for all the time that the heavens and the earth endure, except as your Lord wills.
 
 ## Tafsir Ibn Kathir
 

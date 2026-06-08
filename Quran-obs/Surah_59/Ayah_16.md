@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you not observed the hypocrites who say to their disbelieving brethren among the People of the Scripture, "If you are expelled, we indeed will go out with you, and we shall never obey anyone against you; and if you are attacked, we shall indeed help you." But Allah is Witness that they verily are liars (11)Surely, if they (the Jews) are expelled, never will they (hypocrites) go out with them; and if they are attacked, they will never help them.
+If the verse refers to this incident, in which the Shaitan provokes man to disbelieve and when he does that, he washes his hands of them, it does not seem that the Shaitan asked them to commit kufr, because they were already kafirs.
 
 ## Tafsir Ibn Kathir
 

@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who invoke not any other god along with Allah, nor kill such person as Allah has forbidden, except for just cause, nor commit illegal sexual intercourse – and whoever does this shall receive Athama (68)The torm… The Seventh Characteristic وَالَّذِينَ لَا يَدْعُونَ مَعَ اللَّـهِ إِلَـٰهًا آخَرَ‌ (And those who do not invoke any other god along with Allah - 25:68).
+And those who invoke not any other god along with Allah, nor kill such person as Allah has forbidden, except for just cause, nor commit illegal sexual intercourse – and whoever does this shall receive Athama (68)The torment will be doubled for him on the Day of Resurrection, and he will abide therein in disgrace (69)Except those who repent and believe, and do righteous deeds; for those, Allah will change their sins into good deeds, and Allah is Oft-Forgiving, Most Merciful (7…
 
 ## Tafsir Ibn Kathir
 

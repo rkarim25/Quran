@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And what made you hasten from your people, O Musa (83)He said: "They are close on my footsteps, and I hastened to You, O my Lord, that You might be pleased. Some people have said that Samiri was an Egyptian Copt who lived next door to Sayyidna Musa (علیہ السلام) and had accepted the True Faith.
+Make for us god as they have gods." He said: "Verily, you are a people who know not. The word for sorrow used here is Asif, which is used to emphasize to the severity of his anger.
 
 ## Tafsir Ibn Kathir
 

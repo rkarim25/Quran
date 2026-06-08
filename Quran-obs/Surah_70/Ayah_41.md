@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, what is the matter with those disbelievers, before you Muhti'i (36)On the right and on the left, 'Izin (37)Does every man of them hope to enter the Paradise of Delight (38)But no! وَالَّذِينَ هُم بِشَهَادَاتِهِمْ قَائِمُونَ (...and those who are upright in their testimonies, [ 70:33] '.
+I swear by the Lord of the easts and the wests that surely We are Able –to replace them by (others) better than them..) meaning, 'on the Day of Judgement We will bring them back (to life) in bodies that are better than these bodies that they have now.' For verily, Allah's power is suitable (able) to do that.
 
 ## Tafsir Ibn Kathir
 

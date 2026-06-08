@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah chooses Messengers from angels and from men. مَا قَدَرُ‌وا اللَّـهَ حَقَّ قَدْرِ‌هِ (They did not recognize Allah in His true esteem - 22:74).
+Verily, Allah is All-Hearer, All-Seer (75)He knows what is before them, and what is behind them.
 
 ## Tafsir Ibn Kathir
 

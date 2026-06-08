@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who disbelieved say: "Why is not a sign sent down to him from his Lord" Say: "Verily, Allah sends astray whom He wills and guides unto Himself those who turn to Him in repentance. At the beginning of the section, human beings were divided into two kinds - those who are obedient to Allah Ta’ ala and those who are disobedient to Him.
+Verily, in the remembrance of Allah do hearts find rest (28)Those who believed, and work righteousness, Tuba is for them and a beautiful place of (final) return .
 
 ## Tafsir Ibn Kathir
 

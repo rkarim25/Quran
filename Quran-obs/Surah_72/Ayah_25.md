@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "I know not whether that which you are promised is near or whether my Lord will appoint for it a distant term. By common consent of the scholars, prostration to anyone other Allah is totally forbidden.
+The Messenger of Allah (ﷺ) does not know when the Hour will be Allah commands His Messenger ﷺ to say to the people that he has no knowledge of when the Hour will be and he does not know whether its time is near or far.
 
 ## Tafsir Ibn Kathir
 

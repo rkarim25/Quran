@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they have taken besides Allah, gods, hoping that they might be helped (74)They cannot help them, but they will be brought forward as a troop (against those who worshipped them)(75)So, let not their speech then grieve you. In the last verse cited above (75), it was said: وَهُمْ لَهُمْ جُندٌ مُّحْضَرُ‌ونَ (rather they are an army brought forth for them).
+Rather they cannot even help themselves or take revenge on those who want to harm them, because they are inanimate and can neither hear nor comprehend. The gods of the Idolators are not able to help Them Allah denounces the idolators for taking the idols as gods alongside Allah, hoping that those gods will help them and provide for them and bring them closer to Allah.
 
 ## Tafsir Ibn Kathir
 

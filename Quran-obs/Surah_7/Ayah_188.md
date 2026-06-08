@@ -124,7 +124,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say : "I possess no power over benefit or harm to myself except as Allah wills. The Verse 188 clears away a common misbelief of the people regarding the prophets of Allah.
+Had he possessed such knowledge, he would have stored all the good for himself and would have saved himself from every possible harm. If I had the knowledge of the Ghayb (Unseen), I should have secured for myself an abundance of wealth, and no evil should have touched me.
 
 ## Tafsir Ibn Kathir
 

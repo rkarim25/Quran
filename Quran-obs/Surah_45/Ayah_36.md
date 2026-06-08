@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, as for those who believed and did good deeds, their Lord will admit them to His mercy. وَتَرَ‌ىٰ كُلَّ أُمَّةٍ جَاثِيَةً ("And you will see every community kneeling down...45:28" ).
+So this Day, they shall not be taken out from there (Hell), nor shall they be returned to the worldly life (35)So all praise is due to Allah, the Lord of the heavens and the Lord of the earth, and the Lord of all that exists (36)And His is the majesty in the heavens and the earth, and He is Al-'Aziz, Al-Hakim .
 
 ## Tafsir Ibn Kathir
 

@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Reclining upon the couches lined with Istabraq, and the fruits of the two Gardens will be near at hand (54)Then which of the blessings of your Lord will you both deny (55)Wherein both will be Qaşirāt Aṭ-Ṭarf, whom never… هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ (Is there any reward for goodness other than goodness?...55:60).
+The righteous believers will be blessed, therefore, with good rewards.
 
 ## Tafsir Ibn Kathir
 

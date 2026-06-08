@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And He taught Adam all the names (of everything), then He showed them to the angels and said, "Tell Me the names of these if you are truthful. Allah is the creator of the language (2) This episode, according to Imam al-Ash'ari (رح) ، shows that language as such has been created by Allah Himself, and not invented by man - its use by different kinds of men has later on produced the many forms of language.
+Adam over the Angels Allah stated the virtue of Adam above the angels, because He taught Adam, rather than them, the names of everything. You are the father of all mankind, Allah created you with His Own Hand, ordered the angels to prostrate for you and taught you the names of everything.
 
 ## Tafsir Ibn Kathir
 

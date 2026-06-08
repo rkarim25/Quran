@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And of them are some who made a covenant with Allah (saying): "If He bestowed on us of His bounty, we will verily, give Sadaqah and will be certainly among the righteous. Verse 77: فَأَعْقَبَهُمْ نِفَاقًا فِي قُلُوبِهِمْ (So Allah, in turn, put hypocrisy in their hearts) points out to its cause which lies in their lying and pledge breaking.
+Truly, Allah knows them better than they know themselves, for He is the All-Knower of all unseen and apparent things, every secret, every session of counsel, and all that is seen and hidden.
 
 ## Tafsir Ibn Kathir
 

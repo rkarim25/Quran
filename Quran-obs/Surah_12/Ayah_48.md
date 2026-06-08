@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the king (of Egypt) said: "Verily, I saw (in a dream) seven fat cows, whom seven lean ones were devouring, and seven green ears of corn, and (seven) others dry. Said in verse 48 was: ثُمَّ يَأْتِي مِن بَعْدِ ذَٰلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ (Then there shall come, after that, seven hard years which shall eat up what you have stored for them).
+Since, seen in the dream was that seven lean cows ate up the seven fat ones, therefore, while giving his interpretation of the dream, he considered it appropriate to say that the years of the famine will eat up what they had stored over the past years. Stay away from extravagance, so that you use what remains of the harvest during the seven years of drought that will follow the seven fertile years.' This was represented by the seven lean cows that eat the seven fat cows.
 
 ## Tafsir Ibn Kathir
 

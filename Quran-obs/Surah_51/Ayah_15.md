@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who have Taqwa will be in the midst of Gardens and Springs (15)Taking joy in the things which their Lord has given them. قُتِلَ الْخَرَّ‌اصُونَ (Death upon those who make conjectures - 51:10).
+Qualities of Those Who have Taqwa and Their Reward Allah the Exalted informs about those who have Taqwa, that on the Day of their Return they will be amidst gardens and springs. Verily, those who have Taqwa will be in the midst of Gardens and Springs (15)Taking joy in the things which their Lord has given them.
 
 ## Tafsir Ibn Kathir
 

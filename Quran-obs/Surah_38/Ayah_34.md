@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed, We tried Sulayman and We placed on his throne Jasad (a body), and he returned (34)He said: "My Lord! In this verse, Allah Ta’ ala has mentioned yet another test of Sayyidna Sulayman (علیہ السلام) with a simple statement saying that, during this test, some body, or part of it, was put on the throne of Sayyidna Sulayman (علیہ السلام) .
+He grew so weak because of it that, at the time he was brought in to sit on the throne, he gave the impression of a body without the soul.
 
 ## Tafsir Ibn Kathir
 

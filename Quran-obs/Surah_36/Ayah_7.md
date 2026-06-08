@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surah Ya Sin Al-Hafiz Abu Ya'la recorded that Abu Hurayrah, may Allah be pleased with him, said, "The Messenger of Allah ﷺ said: Verses 7 and 8 لَقَدْ حَقَّ الْقَوْلُ عَلَىٰ أَكْثَرِ‌هِمْ فَهُمْ لَا يُؤْمِنُونَ إِنَّا جَعَلْنَا فِي أَعْنَاقِهِمْ أَغْلَالًا (The word has indeed come true about most of them, so they will not believe.
+Indeed the Word has proved true against most of them, so they will not believe.) The Messenger (ﷺ) was sent as a Warner We have already discussed the individual letters at the beginning of Surat Al-Baqarah. In order that you may warn a people whose forefathers were not warned, so they are heedless.)(7.
 
 ## Tafsir Ibn Kathir
 

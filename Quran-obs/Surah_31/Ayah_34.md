@@ -124,7 +124,7 @@ There is a reason for this specific treatment and marked attention. Things of th
 
 ## Tafsir Summary
 
-Verily, Allah, with Him is the knowledge of the Hour, He sends down the rain, and knows that which is in the wombs. Surely, it is Allah with whom rests the knowledge of the Hour, and He sends down the rain, and He knows what is in the wombs.
+That the knowledge of the unseen is particular to Allah Ta’ ala in the absolute sense has been explicitly mentioned in this verse - and this has been the belief of the entire Muslim community from the earliest to the succeeding generations.
 
 ## Tafsir Ibn Kathir
 

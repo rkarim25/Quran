@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if they deny you, so were Messengers denied before you. The word: غَرُ‌ورُ‌ (gharur) is an emphatic form of an adjective that means one who is very deceiving (hence, rendered here as 'big deceiver' ).
+Verily, the promise of Allah is true.
 
 ## Tafsir Ibn Kathir
 

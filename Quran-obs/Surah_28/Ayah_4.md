@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Imam Ahmad bin Hanbal, may Allah have mercy on him, recorded that Ma'diykarib said: "We came to 'Abdullah and asked him to recite to us: (Ṭa Sīn Mīm.) the two hundred. Surah Al-Qasas is the very last among the Makki Surahs.
+We recite to you some of the news of Musa and Fir'awn in truth, for a people who believe.)(4. Verily, Fir'awn exalted himself in the land and made its people Shiya'a, weakening a group among them: killing their sons, and letting their females live.
 
 ## Tafsir Ibn Kathir
 

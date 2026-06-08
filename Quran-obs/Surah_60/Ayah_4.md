@@ -226,7 +226,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed there has been an excellent example for you in Ibrahim and those with him, when they said to their people: "Verily, we are free from you and whatever you worship besides Allah, we have rejected you, and there has started between us and you, hostility and hatred forever until you believe in Allah alone," – except the saying of Ibrahim to his father: "Verily, I will ask forgiveness for you, but I have no power to do anything for you before Allah." "Our Lord!
+And Ibrahim's request for his father's forgiveness was only because of a promise he made to him .But when it became clear to him that he was an enemy of Allah, he dissociated himself from him. Make us not a trial for the disbelievers,) Mujahid said, "It means, 'Do not punish us by their hands, nor with a punishment from You.' Or they will say, 'Had these people been following the truth, the torment would not have struck them'." Ad-Dahhak said something similar.
 
 ## Tafsir Ibn Kathir
 

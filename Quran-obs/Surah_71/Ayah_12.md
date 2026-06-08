@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: O my Lord! يَغْفِرْ‌ لَكُم مِّن ذُنُوبِكُمْ and Allah will forgive you your sins, 71:4).
+He will cause rivers to flow among these gardens.' This is the position of the invitation with encouragement.
 
 ## Tafsir Ibn Kathir
 

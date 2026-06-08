@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Likewise, no Messenger came to those before them but they said: "A sorcerer or a madman! The Purpose of Jinn's and Mankind's creation وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ (And I did not create the Jinns and the human beings except that they should worship Me."...51:56).
+Just as this Tradition tells us that every man is born with the natural capacity for Islam and true faith, but his parents adulterate and destroy that capacity, and put him on to the ways of disbelief, in the same way the phrase 'except that they should worship Me' could mean that every member of jinn and mankind has the natural, inborn capacity to worship.
 
 ## Tafsir Ibn Kathir
 

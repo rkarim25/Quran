@@ -90,7 +90,7 @@ Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ 
 
 ## Tafsir Summary
 
-And on the Day when We resurrect a witness from each nation, then those who disbelieve will not be given leave, nor will they be allowed (to return to the world) to repent and ask for Allah's forgiveness.) 85. Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ الْحَرَّ‌ (shirts which protect you from heat - 81).
+These are our partners whom we used to call upon besides you." But they will throw back their statement at them (saying): "You indeed are liars!
 
 ## Tafsir Ibn Kathir
 

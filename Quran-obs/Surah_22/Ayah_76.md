@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah chooses Messengers from angels and from men. مَا قَدَرُ‌وا اللَّـهَ حَقَّ قَدْرِ‌هِ (They did not recognize Allah in His true esteem - 22:74).
+And to Allah return all matters.) He knows what will happen to His Messengers and the Message He sent them with, for none of their affairs are hidden from Him.
 
 ## Tafsir Ibn Kathir
 

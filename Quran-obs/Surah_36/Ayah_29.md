@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It was said: "Enter Paradise." He said: "Would that my people knew. In verses 28 and 29, it was said: وَمَا أَنزَلْنَا عَلَىٰ قَوْمِهِ مِن بَعْدِهِ مِن جُندٍ مِّنَ السَّمَاءِ وَمَا كُنَّا مُنزِلِينَ إِن كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ خَامِدُونَ " (And We did not send down to his people any army from the heavens after him, nor were We (in need ) to send down.
+It was no more than a single Cry, and in no time they were extinguished.) Mentioned here is the Divine punishment that descended upon the people who had rejected the messengers and had beaten up Habib Najjar until he died a martyr.
 
 ## Tafsir Ibn Kathir
 

@@ -176,7 +176,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We have broken them (the Jews) up into various separate groups on the earth: some of them are righteous and some are away from that. "Then, after them came a generation, who inherited the Book, taking to the mundane stuff of this world and saying: 'We shall be forgiven.' And if there comes to them similar stuff, they would take to it (again).
+Being persistent in their sinful acts and claiming their forgiveness is sheer self deception.
 
 ## Tafsir Ibn Kathir
 

@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "You have believed in him before I give you leave. When the Pharaoh threatened the magicians to kill them, and to cut their limbs and to crucify them, the magicians replied rather indifferently, the gist of their reply was, ` You do whatever you can.
+Even if we are killed we will go back to our Lord, where there is nothing but comfort'.
 
 ## Tafsir Ibn Kathir
 

@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَالرُّجْزَ فَاهْجُرْ (...and keep away from filth...74:5).
+This command is in actual fact directed to the idolaters, so that they may realise the importance of abstaining from idol-worship, as it enjoins the Holy Prophet to shun all filth [ idols and sins ] despite being sinless and infallible. The letters 'RJZ' may be read as rujz or rUz, and in either case the word has the same significance.
 
 ## Tafsir Ibn Kathir
 

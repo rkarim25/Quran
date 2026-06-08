@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. (Did We not make for him two eyes, and a tongue and two lips, and showed him the two ways?...90:8-10) The word najdain is the dual form of najd which means an elevated or conspicuous road.
+He has been shown the two ways of good and evil; and of right and wrong so that he may choose between the two. And shown him the two ways?) Swearing by the Sanctity of Makkah and Other Things that Man was created in Hardship Here Allah has sworn by Makkah, the Mother of the Towns, addressing its resident (during the non-sacred months,) free in this city in order to draw his attention to the significance of its sanctity when its people are in the state of sanctity.
 
 ## Tafsir Ibn Kathir
 

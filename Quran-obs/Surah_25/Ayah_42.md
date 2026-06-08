@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when they see you, they treat you only in mockery (saying): "Is this the one whom Allah has sent as a Messenger (41)"He would have nearly misled us from our gods, had it not been that we were patient and constant in… In the above verses it is mentioned that it had been the common practice of the people through the ages to rebuff the prophets and the message they had brought.
+Whatever information is available about them is through Israelite traditions, which differ from one another.
 
 ## Tafsir Ibn Kathir
 

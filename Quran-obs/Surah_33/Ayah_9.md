@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! At the beginning of the Surah, by saying: وَ اتَّبع مَا یُوحٰٓی اِلَیکَ , the Holy Prophet ﷺ was asked to follow the Divine revelation sent to him.
+Remember Allah's favor to you, when there came against you hosts, and We sent against them a wind and forces that you saw not.
 
 ## Tafsir Ibn Kathir
 

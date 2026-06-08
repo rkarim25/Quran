@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Certainly, those who took the calf (for worship), wrath from their Lord and humiliation will come upon them in the life of this world. The verse 153 speaks of the people who repented to Allah for their sin after the admonitions of their Prophet, and fulfilled the formidable condition of killing each other for their forgiveness.
+Thus do We recompense those who invent lies (152)But those who committed evil deeds and then repented afterwards and believed, verily, your Lord after (all) that is indeed Oft-Forgiving, Most Merciful .
 
 ## Tafsir Ibn Kathir
 

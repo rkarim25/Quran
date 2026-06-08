@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Musa) said: "And what is the matter with you. For your fate in this life is to say: 'Do not touch me'.- 20:97 The punishment proposed by Sayyidna Musa (علیہ السلام) for Samiri in this world was that everyone should sever all contacts with him and not to come near him, and he too was commanded not to touch anyone.
+For everything is in need of Him and everything is His servant.
 
 ## Tafsir Ibn Kathir
 

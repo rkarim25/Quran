@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "When will be this promise (the torment or the Day of Resurrection), if you speak the truth? In verse 45, it was said: يَتَعَارَ‌فُونَ بَيْنَهُمْ (they will recognize each other), that is, when the dead will be raised from their graves, they will recognize each other as if not much time had passed when they met last.
+For every Ummah, there is a term appointed; when their term comes, neither can they delay it nor can they advance it an hour (or a moment). I was told that the Hour is going to come, but He has not told me when it will occur.
 
 ## Tafsir Ibn Kathir
 

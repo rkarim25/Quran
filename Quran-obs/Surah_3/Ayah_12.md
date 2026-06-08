@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say to those who disbelieve: "You will be defeated and gathered together to Hell, and worst indeed is that place of rest. Some readers of verse 12: قُل لِّلَّذِينَ كَفَرُ‌وا سَتُغْلَبُونَ just cited, above may have some doubt about disbelievers being overcome because this is not the case with all disbelievers of the world.
+Therefore, this 'overcoming' of disbelievers mentioned in the verse simply does not refer to disbelievers universally. When the two camps saw each other, the Muslims thought that the idolators were twice as many as they were, so that they would trust in Allah and seek His help.
 
 ## Tafsir Ibn Kathir
 

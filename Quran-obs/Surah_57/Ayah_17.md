@@ -66,7 +66,7 @@ Sayyidna ` Abdullah Ibn 'Abbas ؓ is narration also carries the additional infor
 
 ## Tafsir Summary
 
-Has not the time yet come for the believers that their hearts should be humble for the remembrance of Allah? أَلَمْ يَأْنِ لِلَّذِينَ آمَنُوا أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ‌ اللَّـهِ وَمَا نَزَلَ مِنَ الْحَقِّ (Has the time not yet come for those who believe that their hearts should be humble for the remembrance of Allah and for the truth that has descended [ through revelation ]?...57:16) The phrase khushu'-ul-qalb means 'for the heart to soften; to be receptive to advice; to be obedient; to submit'.
+Indeed We have made clear the Ayat to you, if you but understand.) This Ayah indicates that He brings subtleness to hearts after they have become hard, guides the confused after they were led astray, and relieves hardships after they have intensified. And many of them were rebellious (16)Know that Allah gives life to the earth after its death!
 
 ## Tafsir Ibn Kathir
 

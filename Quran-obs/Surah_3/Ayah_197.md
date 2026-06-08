@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Let not the free disposal (and affluence) of the disbelievers throughout the land deceive you (196)A brief enjoyment; then their ultimate abode is Hell; and worst indeed is that place for rest (197)But, for those who hav… Mentioned in verses previous to this were some prayers made by good believers.
+Let not the free disposal (and affluence) of the disbelievers throughout the land deceive you (196)A brief enjoyment; then their ultimate abode is Hell; and worst indeed is that place for rest (197)But, for those who have Taqwa of their Lord, are Gardens under which rivers flow (in Paradise); therein are they to dwell, an entertainment from Allah; and that which is with Allah is the best for Al-Abrar (the most righteous).
 
 ## Tafsir Ibn Kathir
 

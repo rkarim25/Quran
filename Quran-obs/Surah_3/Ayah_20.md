@@ -117,7 +117,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah bears witness that none has the right to be worshipped but He, and the angels, and those having knowledge (also bear witness to this); (He always) maintains His creation in justice. The Surah began with the confirmation of Divine Oneness and the refutation of Trinity.
+And whoever disbelieves in the Ayat of Allah, then surely, Allah is Swift in reckoning (19)So if they dispute with you say: "I have submitted myself to Allah, and (so have) those who follow me." And say to those who were given the Scripture (Jews and Christians) and to those who are illiterate (Arab pagans): "Do you (also) submit yourselves?" If they do, they are rightly guided; but if they turn away, your duty is only to convey the Message; and Allah sees the servants .
 
 ## Tafsir Ibn Kathir
 

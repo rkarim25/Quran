@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So he escaped from there, looking about in a state of fear. (And when he arrived at the waters of Madyan, he found a large number of people watering (their animals) - 28:23) مَاءَ مَدْيَنَ (waters of Madyan) refers to the well from where people of that place used to make their animals drink water.
+Two, that there is no harm to talk to stranger women, if no mischief is involved.
 
 ## Tafsir Ibn Kathir
 

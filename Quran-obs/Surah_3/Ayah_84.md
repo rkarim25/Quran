@@ -128,7 +128,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do they seek other than the religion of Allah, while to Him submitted all creatures in the heavens and the earth, willingly or unwillingly. The infallibility of the Prophets The verse implies that a person whom Allah invests with the Book, the Wisdom and the power of making decisions, and places him on the great station of prophethood is always faithful to his mission when he communicates the Divine message to people and calls on them to be-come His faithful servants.
+Therefore, the faithful believer submits to Allah in heart and body, while the disbeliever unwillingly submits to Him in body only, since he is under Allah's power, irresistible control and mighty kingship that cannot be repelled or resisted. We make no distinction between one another among them and to Him (Allah) we have submitted.
 
 ## Tafsir Ibn Kathir
 

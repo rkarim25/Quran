@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if they were to see a piece of the heaven falling down, they would say: "Clouds gathered in heaps! فَإِنَّكَ بِأَعْيُنِنَا (...you are before Our Eyes....) The hostility of the enemies towards, and their opposition to, and rejection of the Holy Prophet ﷺ depressed him.
+At the conclusion of the chapter, the Qur'an says 'You are before Our eyes', that is, under Our care and We shall protect you from every evil.
 
 ## Tafsir Ibn Kathir
 

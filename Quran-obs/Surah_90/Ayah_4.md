@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ (Indeed We have created man [ to live ] in hard struggle…90:4) The word kabad means 'labour, 'toil' or 'difficulty'.
+And she brings him forth with hardship.)(46:15) and she breast-feeds him with hardship, and his livelihood is a hardship.
 
 ## Tafsir Ibn Kathir
 

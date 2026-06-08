@@ -77,7 +77,7 @@ The third group is that of sincere Muslims who lost no time and acted as directe
 
 ## Tafsir Summary
 
-Did you (O Muhammad ﷺ) not think of those who went forth from their homes in the thousands, fearing death? 1.
+It simply means that whatever you spend will surely be returned to you (in the form of a reward in the Hereafter) just as a loan is surely returned.
 
 ## Tafsir Ibn Kathir
 

@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is He Who made the sun a shining thing and the moon as a light and measured out for it stages that you might know the number of years and the reckoning. Similarly, it was said in the second verse (6) that there are signs in the coming of the night after the day and the day after the night, and in everything Allah has created in the heavens and the earth.
+He explains the Ayat in detail for people who have knowledge (5)Verily, in the alternation of the night and the day and in all that Allah has created in the heavens and the earth are Ayat for those who have Taqwa . Similarly, it was said in the second verse (6) that there are signs in the coming of the night after the day and the day after the night, and in everything Allah has created in the heavens and the earth.
 
 ## Tafsir Ibn Kathir
 

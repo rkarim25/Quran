@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is not (possible) for any human being to whom Allah has given the Book and Al-Hukm and prophethood to say to the people: "Be my worshippers rather than Allah's." On the contrary (he would say): "Be you Rabbaniyyun, because you are teaching the Book, and you are studying it. The infallibility of the Prophets The verse implies that a person whom Allah invests with the Book, the Wisdom and the power of making decisions, and places him on the great station of prophethood is always faithful to his mission when he communicates the Divine message to people and calls on them to be-come His faithful servants.
+Otherwise, it would mean that Divine knowledge is defective (we seek refuge with Allah!
 
 ## Tafsir Ibn Kathir
 

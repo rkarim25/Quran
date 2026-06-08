@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah is He Who sends the winds, so that they raise clouds and spread them along the sky as He wills, and then break them into fragments until you see rain drops come forth from their midst! فَانتَقَمْنَا مِنَ الَّذِينَ أَجْرَ‌مُوا وَكَانَ حَقًّا عَلَيْنَا نَصْرُ‌ الْمُؤْمِنِينَ (Then We took vengeance upon those who were guilty.
+When it came to them, it came at the time of greatest need, so it was a tremendous event for them What this means is that they were in need of it before it fell, and there had been no rainfall for a long time, so they were waiting for it at the time when it was due, but it did not come to them at that time.
 
 ## Tafsir Ibn Kathir
 

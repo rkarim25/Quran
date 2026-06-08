@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And between them will be a (barrier) screen and on Al-A'raf will be men, who would recognize all, by their marks. Stated next is the status of the people of A` raf that they have yet to enter Paradise, though they hope to.
+Stated next is the status of the people of A` raf that they have yet to enter Paradise, though they hope to.
 
 ## Tafsir Ibn Kathir
 

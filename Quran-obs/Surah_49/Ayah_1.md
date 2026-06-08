@@ -74,7 +74,7 @@ Imam Ahmad recorded that Anas bin Malik said, "When this Ayah was revealed,
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. According to Qurtubi, there are six narratives cited as the background of revelation of these verses.
+this Ayah was revealed about Abu Bakr and 'Umar.
 
 ## Tafsir Ibn Kathir
 

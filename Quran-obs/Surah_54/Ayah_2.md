@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Hadith of Abu Waqid preceded, in which it is mentioned that the Messenger of Allah ﷺ would recite Surah Qaf (chapter 53) and Iqtarabat As-Sa'ah (Al-Qamar, chapter 54), during (the 'Id Prayers of) Al-Adha and Al-Fitr. وَإِن يَرَ‌وْا آيَةً يُعْرِ‌ضُوا وَيَقُولُوا سِحْرٌ‌ مُّسْتَمِرٌّ‌ (And when these people see a sign, they turn away and say, "[ This is ] a transient magic....
+And if they see an Ayah, they turn away and say: "This is magic, Mustamir.")(3.
 
 ## Tafsir Ibn Kathir
 

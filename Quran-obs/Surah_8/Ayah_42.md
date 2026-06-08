@@ -155,7 +155,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(And remember) when you (the Muslim army) were on the near side of the valley, and they on the farther side, and the caravan on the ground lower than you. The battle of Badr was the first confrontation of Kufr and Islam which registered a practical proof of the superiority and veracity of Islam, even visibly and materially.
+Allah says, He made you meet your enemy in one area without appointment, so that He gives you victory over them.' This way, 'He will raise the word of truth above falsehood, so that the matter is made clear, the proof unequivocal and the evidence plain.
 
 ## Tafsir Ibn Kathir
 

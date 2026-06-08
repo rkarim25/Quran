@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "Shall we believe in you, when the inferior follow you? Nobility of a person depends on deeds and moral qualities and not on family or status They said, "Shall we believe in you while you are followed by the lowest people?" [ 111] He said, "I do not know about what they do.
+Hence, it was their ignorance to put the label of sordidness on his followers, because they did not know about their deeds and disposition.
 
 ## Tafsir Ibn Kathir
 

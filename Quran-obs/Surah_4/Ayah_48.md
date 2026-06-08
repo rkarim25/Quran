@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who have been given the Scripture (Jews and Christians)! The previous verse carried an admonition for those who refused to believe.
+Shirk in ` Ibidah: This means the ascribing of a partner to Allah in acts of worship (` Ibadah) which is the sole due of Allah.
 
 ## Tafsir Ibn Kathir
 

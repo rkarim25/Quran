@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when We took your covenant (saying): Shed not the blood of your (people), nor turn out your own people from their dwellings. This verse explains why the Jews will have to undergo such a severe punishment.
+And Allah is not unaware of what you do (85)Those are they who have bought the life of this world at the price of the Hereafter. Those are they who have bought the life of this world at the price of the Hereafter) meaning, they prefer this life to the Hereafter.
 
 ## Tafsir Ibn Kathir
 

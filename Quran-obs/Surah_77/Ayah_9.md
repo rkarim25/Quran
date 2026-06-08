@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Revelation of this Surat and its Recitation in the Maghrib Prayer Al-Bukhari recorded from 'Abdullah – that is Ibn Mas'ud – that he said, "While we were with the Messenger of Allah ﷺ in a cave at Mina, This is the subject of these oaths.
+Then when the stars lose their lights.)(9. There is no difference of opinion here, because they (the angels) are the ones who descend with Allah's command to the Messengers, separating between the truth and falsehood, guidance and misguidance, and the lawful and the forbidden.
 
 ## Tafsir Ibn Kathir
 

@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Musa said: "O Fir'awn! The verse is a clear declaration of the prophet Musa (علیہ السلام) before Pharaoh that he was a messenger of Allah, the Lord of all the worlds, and that his status of prophethood does not allow him to ascribe anything but truth to Allah because the message given to the prophets by Allah is a sacred trust and it is a great sin to tamper with it.
+Therefore, he said, 'if you have proof, then produce it for us to see, so that we know if your claim is true.'
 
 ## Tafsir Ibn Kathir
 

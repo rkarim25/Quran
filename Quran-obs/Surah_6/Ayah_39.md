@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they said: "Why is not a sign sent down to him from his Lord?" Say: "Allah is certainly able to send down a sign, but most of them know not. The sixth verse (38): وَمَا مِن دَابَّةٍ (there is no creature moving …) tells us that, on the day of Qiyamah, animals will also be given life along with human beings.
+Allah sends astray whom He wills and He guides on the straight path whom He wills . We have neglected nothing in the Book, then unto their Lord they (all) shall be gathered (38)Those who reject Our Ayat are deaf and dumb in darkness.
 
 ## Tafsir Ibn Kathir
 

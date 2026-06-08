@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, when the bearer of the good news arrived, he cast it (the shirt) over his face, and his vision returned. Said in verse 96 is: فَلَمَّا أَن جَاءَ الْبَشِير that is, ` when this man with the good news reached Canaan' and put the shirt of Sayyidna Yusuf (علیہ السلام) over the face of his father, his eyesight returned and he became a sighted man.
+Then, when the bearer of the good news arrived, he cast it (the shirt) over his face, and his vision returned. So he liked to erase that error with this good act, by bringing Yusuf's shirt and placing it on his father's face.
 
 ## Tafsir Ibn Kathir
 

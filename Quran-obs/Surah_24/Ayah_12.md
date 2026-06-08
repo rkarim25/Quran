@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Why then, did not the believers, men and women, when you heard it, think good of their own people and say: "This is an obvious lie? Why - when you (0 believers) heard of it - did the believing men and the believing women not think well on their own selves and (why did they not) say, ` This is a manifest lie'.
+Ruling This has proved that to think good about all Muslims men and women is obligatory, unless proved otherwise by Islamic law.
 
 ## Tafsir Ibn Kathir
 

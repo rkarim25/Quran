@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And on that Day We shall present Hell to the disbelievers, plain to view (100)(To) those whose eyes had been under a covering from My Reminder, and they could not bear to hear (it)(101)Do then those who disbelieved think that they can take My servants as Awliya' [protectors] besides Me? According to Tafsir al-Bahr al-Muhit, in the first verse (102): أَفَحَسِبَ الَّذِينَ كَفَرُ‌وا أَن يَتَّخِذُوا عِبَادِي مِن دُونِي أَوْلِيَاءَ (Do, then, the disbelievers deem that they take My servants as patrons beside…
+Some other commentators have taken is?
 
 ## Tafsir Ibn Kathir
 

@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Mulk Imam Ahmad recorded from Abu Hurayrah that Allah's Messenger ﷺ said, ارْ‌جِعِ الْبَصَرَ‌ هَلْ تَرَ‌ىٰ مِن فُطُورٍ‌ (So, cast your eye again.
+Who has created the seven heavens one above the other; you can see no fault in the creation of the Most Gracious. This Ayah means that He brought creation into existence from nothing in order to test the creatures.
 
 ## Tafsir Ibn Kathir
 

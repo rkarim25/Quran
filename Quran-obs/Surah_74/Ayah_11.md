@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Leave Me alone (to deal) with whom I created lonely (11)And then granted him resources in abundance (12)And children attending (13)And made life smooth and comfortable for him (14)After all that he desires that I should give more (15)Nay! وَلِرَبِّكَ فَاصْبِرْ ( and for the sake of your Lord, observe patience 74:7) The word sabr literally signifies 'to restrain oneself.
+Leave Me alone (to deal) with whom I created lonely (11)And then granted him resources in abundance (12)And children attending (13)And made life smooth and comfortable for him (14)After all that he desires that I should give more (15)Nay! The word naqur means 'trumpet' and the verb nuqira means 'to blow into the trumpet so that it makes a loud high sound'.
 
 ## Tafsir Ibn Kathir
 

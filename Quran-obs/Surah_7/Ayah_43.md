@@ -158,7 +158,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But those who believed, and worked righteousness – We burden not any person beyond his scope – such are the dwellers of Paradise. The third verse (42) mentions those who dutifully follow Divine injunctions as they are the people of Paradise and there they shall live forever.
+They will drink from one of them, and all hatred will be removed from their hearts, for it is the cleansing drink.
 
 ## Tafsir Ibn Kathir
 

@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Fala! لَّا يَمَسُّهُ إِلَّا الْمُطَهَّرُ‌ونَ (that is not touched except by the purified ones ...56:79).
+The commentators have different views about them, because the structure of verse 78 and 79 has two possibilities grammatically: The first possibility is that the phrase 'that is not touched except by the purified ones' is the qualification of the Preserved Tablet referred to in the previous verse.
 
 ## Tafsir Ibn Kathir
 

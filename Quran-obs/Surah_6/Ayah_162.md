@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Truly, my Lord has guided me to a straight path, a right religion, the religion of Ibrahim, Hanifan (monotheism) and he was not of the Mushrikin. In the first verse it has been said: قُلْ إِنَّنِي هَدَانِي رَ‌بِّي إِلَىٰ صِرَ‌اطٍ مُّسْتَقِيمٍ (As for me, my Lord has guided me to a straight path).
+In that case, the meaning of the verse would be: ` My prayer, my offerings in ` Ibadah, my life and my death are all for Allah, the Lord of all the worlds.' Out of the subsidiaries of deeds, the first to be mentioned here was Salah because that is the moving spirit of all good deeds and is, of course, the pillar of the religion.
 
 ## Tafsir Ibn Kathir
 

@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And nothing prevented men from believing when the guidance came to them, except that they said: "Has Allah sent a man as (His) Messenger? In the last verse (95), it was said that they, despite being human, can-not demand that their messenger should be an angel.
+Yes, if angels had been living on the Earth and there was the need to send a messenger to them, then, indeed, an angel would have been sent as a messenger. This tells us that the need to send an angel deputed as a messenger to other angels would have come up only at a time when the angels of the Earth could not themselves go to the heavens rather remained living on the Earth alone.
 
 ## Tafsir Ibn Kathir
 

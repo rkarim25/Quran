@@ -140,7 +140,7 @@ It was said that the extravagance prohibited here refers to excessive charity be
 
 ## Tafsir Summary
 
-And it is He Who produces gardens Ma'rushat and not Ma'rushat, and date palms, and crops of different shape and taste, and olives, and pomegranates, similar, and different. Described in the previous verses were false beliefs of the mushriks of Arabia while the present verses recount their practical errors and ignorant customs.
+And it is He Who produces gardens Ma'rushat and not Ma'rushat, and date palms, and crops of different shape and taste, and olives, and pomegranates, similar, and different.
 
 ## Tafsir Ibn Kathir
 

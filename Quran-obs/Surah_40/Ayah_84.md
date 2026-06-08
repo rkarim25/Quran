@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have they not traveled through the earth and seen what was the end of those before them? In verse 83, it was said: فَرِ‌حُوا بِمَا عِندَهُم مِّنَ الْعِلْمِ (they exulted because of whatever of knowledge they had,) that is, when the messengers of Allah Ta’ ala came to these deniers, who were utterly oblivious to their end, with clear arguments in favor of tauhid (Oneness of Allah) and 'iman (faith), they took their knowledge to be better and truer than the knowledge brought by prophets, and started rejecting what they said.
+The Lesson to be learned from what happened to Those Who Came before Allah tells us about the nations who rejected their Messengers in ancient times. What was this knowledge with which the disbelievers were exultant to the extent that they would even reject the body of knowledge brought by prophets?
 
 ## Tafsir Ibn Kathir
 

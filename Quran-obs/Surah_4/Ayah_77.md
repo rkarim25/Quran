@@ -216,7 +216,7 @@ Verse 77 beginning with the words: أَلَمْ تَرَ‌ إِلَى الَّ�
 
 ## Tafsir Summary
 
-Have you not seen those who were told to hold back their hands (from fighting) and perform Salah and give Zakah, but when the fighting was ordained for them, behold! The Background of Revelation Verse 77 beginning with the words: أَلَمْ تَرَ‌ إِلَى الَّذِينَ قِيلَ لَهُمْ كُفُّوا أَيْدِيَكُمْ (Have you not seen those to whom it was said, "Hold your hands { from fighting)...) was revealed in a particular background.
+But, once man is used to a life of physical comfort and peace, he does not feel like going out to fight.
 
 ## Tafsir Ibn Kathir
 

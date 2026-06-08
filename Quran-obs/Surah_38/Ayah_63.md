@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This is so! In verse 52, it was said: وَعِندَهُمْ قَاصِرَ‌اتُ الطَّرْ‌فِ أَتْرَ‌ابٌ (and in their company there will be females restricting their glances ] to their husbands, and[ of matching ages.).
+Then let them taste it - Hamim and Ghassaq (57)And other of similar kind - all together (58)This is a troop entering with you (in Hell), no welcome for them!
 
 ## Tafsir Ibn Kathir
 

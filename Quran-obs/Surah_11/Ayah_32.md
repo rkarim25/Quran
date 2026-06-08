@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O Nuh! Fourthly, it was stated: In your sight these poor people may appear lowly and disgraceful.
+You have disputed with us, and much have you prolonged the dispute with us, now bring upon us what you threaten us with, if you are of the truthful.
 
 ## Tafsir Ibn Kathir
 

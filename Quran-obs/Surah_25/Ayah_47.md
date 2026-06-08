@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you not seen how your Lord spread the shadow. To work during day time and rest at night is based on great Wisdom And He is the One who has made the night an apparel for you, and the sleep a means of rest and has made the day a means of revival.
+Hence, night by itself is a blessing and sleep is another blessing.
 
 ## Tafsir Ibn Kathir
 

@@ -80,7 +80,7 @@ This is the view preferred in Tafsir al-Qurtubi, Ahkam al-Qur'an by al-Jassas, T
 
 ## Tafsir Summary
 
-And say "Do deeds! The imperative: خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً : "Take out of their wealth a Sadaqah (obligatory alms) " in the second verse (103) has its background.
+And one might commit evil deeds for some time in his life, so that if he dies while doing them he will enter the Fire. Allah will see your deeds, and (so will) His Messenger and the believers.
 
 ## Tafsir Ibn Kathir
 

@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. (And remember the name of your Lord, and devote yourself to Him with exclusive devotion… 73:8).
+This indicates that the repetition of Allah's personal name 'Allah, Allah' is also desired and required form of dhikr and worship.
 
 ## Tafsir Ibn Kathir
 

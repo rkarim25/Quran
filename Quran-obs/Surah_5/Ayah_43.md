@@ -76,7 +76,7 @@ It was reported that this part of the Ayah was revealed about some Jews who comm
 
 ## Tafsir Summary
 
-(41.
+But how do they come to you for a decision while they have the Tawrah, in which is the decision of Allah; yet even after that they turn away.
 
 ## Tafsir Ibn Kathir
 

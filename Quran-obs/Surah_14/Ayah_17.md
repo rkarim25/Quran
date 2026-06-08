@@ -79,7 +79,7 @@ And those who disbelieved, said to their Messengers: "Surely, we shall drive you
 
 ## Tafsir Summary
 
-And those who disbelieved, said to their Messengers: "Surely, we shall drive you out of our land, or you shall return to our religion." So their Lord revealed to them: "Truly, We shall destroy the wrongdoers. In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَكْفُرُ‌وا أَنتُمْ وَمَن فِي الْأَرْ‌ضِ جَمِيعًا (And Musa said, "If you are ungrateful, you and all those on earth, then, Allah is free of all needs, worthy of every praise.) " This was said by Sayyidna Musa (علیہ السلام) to his people.
+If this (Qur'an) is indeed the truth (revealed) from You, then rain down stones on us from the sky or bring on us a painful torment.)[8:32] It is possible that both meanings are desired here, for the idolators (of Quraysh) invoked Allah against themselves on the day of Badr, and the Messenger of Allah ﷺ invoked Him for victory and support.
 
 ## Tafsir Ibn Kathir
 

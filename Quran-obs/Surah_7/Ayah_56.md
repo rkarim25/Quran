@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Invoke your Lord Tadarru'an and Khufyah. In the second verse (56), it was said: وَلَا تُفْسِدُوا فِي الْأَرْ‌ضِ بَعْدَ إِصْلَاحِهَا (And do no mischief on the earth after it has been set in order).
+As for the outward or physical order of the earth is concerned, that it be right and proper, it will be realized that Allah Ta'ala has made it to be a mass or body which is neither liquid as water making it difficult to settle down upon it, nor is it hard as rock or iron which could not be dug up.
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if you obey most of those on the earth, they will mislead you far away from Allah's path. In the third verse (116), Allah Ta ala tells the Holy Prophet ﷺ that the majority of the progeny of 'Adam living on the earth is in error.
+It is He Who knows best who strays from His way, and He knows best the rightly guided . They follow nothing but whims, and they do nothing but make conjectures.' The gist of the advice is that he should not be impressed by their numerical majority as a model to follow because they lack principles and go off the right way: At the end of the verse (117), it was said: ` Surely, your Lord knows best those who go astray from His way, and He is the best knower of those who are on t…
 
 ## Tafsir Ibn Kathir
 

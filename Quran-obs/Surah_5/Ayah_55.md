@@ -64,7 +64,7 @@ It appears in some narrations that this sentence has been revealed about Sayyidn
 
 ## Tafsir Summary
 
-O you who believe! In the previous four verses discussed so far, Muslims have been forbidden to maintain intimate friendship with disbelievers.
+As for the essential prayer which Muslims call Salah is something the Jews and Christians also do, but it has no Ruku` in it.
 
 ## Tafsir Ibn Kathir
 

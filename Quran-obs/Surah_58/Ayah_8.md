@@ -171,7 +171,7 @@ Although the present verses were revealed in some particular events, as detailed
 
 ## Tafsir Summary
 
-Have you not seen those who were forbidden to hold secret counsels, and afterwards returned to that which they had been forbidden, and conspired together for sin and wrongdoing and disobedience to the Messenger. Circumstances of Revelation There are several incidents related to the revelation of the current set of verses.
+Have you not seen those who were forbidden to hold secret counsels, and afterwards returned to that which they had been forbidden, and conspired together for sin and wrongdoing and disobedience to the Messenger. And when they come to you, they greet you with a greeting wherewith Allah greets you not, and say within themselves: "Why should Allah punish us not for what we say?" Hell will be sufficient for them; they will enter therein.
 
 ## Tafsir Ibn Kathir
 

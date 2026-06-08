@@ -110,7 +110,7 @@ Most commentators have said that this verse was revealed about Sayyidna ` Abbas 
 
 ## Tafsir Summary
 
-O Prophet! The prisoners taken in the battle of Badr were released against ransom.
+Say to the captives that are in your hands: "If Allah knows any good in your hearts, He will give you something better than what has been taken from you, and He will forgive you, and Allah is Oft-Forgiving, Most Merciful.")[8:70] Al-'Abbas commented, 'After I became Muslim, Allah gave me twenty servants in place of the twenty Uwqiyah I lost.
 
 ## Tafsir Ibn Kathir
 

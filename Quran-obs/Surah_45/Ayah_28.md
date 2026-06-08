@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Allah belongs the kingdom of the heavens and the earth. وَتَرَ‌ىٰ كُلَّ أُمَّةٍ جَاثِيَةً ("And you will see every community kneeling down...45:28" ).
+And on the Day that the Hour will be established – on that Day the followers of falsehood shall lose (27)And you will see each nation humbled to their knees (Jathiyah), each nation will be called to its Record (of deeds). The word kitab, according to most commentators, refers to ` book of record' which the angels have been writing in the world.
 
 ## Tafsir Ibn Kathir
 

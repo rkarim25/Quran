@@ -57,7 +57,7 @@ Allah tells us that He made a declaration to the Children of Israel in the Scrip
 
 ## Tafsir Summary
 
-And We decreed for the Children of Israel in the Scripture: "Indeed you would do mischief in the land twice and you will become tyrants and extremely arrogant! After having mentioned these two events, Allah Ta’ ala declared His Law in such matters by saying: إِنْ عُدتُّمْ عُدْنَا (If you do this again, We shall do that again - 8).
+That Baytullah shall be protected and that disbelievers shall never take it over is a security concern that Allah Ta’ ala has taken it upon Himself.
 
 ## Tafsir Ibn Kathir
 

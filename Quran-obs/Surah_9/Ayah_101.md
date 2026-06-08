@@ -99,7 +99,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And among the bedouins around you, some are hypocrites, and so are some among the people of Al-Madinah who persist in hypocrisy; you know them not, We know them. Mentioned in several previous verses there are hypocrites whose hypocrisy stood exposed through their words and deeds, and the Holy Prophet ﷺ did realize that they were hypocrites.
+We shall punish them twice, and thereafter they shall be brought back to a great (horrible) torment . In this verse, two Divine punishments to come much before 'Akhirah upon such diehard hypocrites have been mentioned.
 
 ## Tafsir Ibn Kathir
 

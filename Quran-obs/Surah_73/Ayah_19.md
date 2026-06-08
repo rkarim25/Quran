@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, this is an admonition, therefore whosoever wills, let him take a path to His Lord (19)Verily, your Lord knows that you do stand a little less than two-thirds of the night, or half the night, or a third of the night, and also a party of those with you. يَوْمَ تَرْجُفُ الْاَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيْبًا مَّهِيْلًا (on the Day when the earth and the mountains will quake, and the mountains will turn into a slipping heap of sand.
+Verily, this is an admonition, therefore whosoever wills, let him take a path to His Lord (19)Verily, your Lord knows that you do stand a little less than two-thirds of the night, or half the night, or a third of the night, and also a party of those with you.
 
 ## Tafsir Ibn Kathir
 

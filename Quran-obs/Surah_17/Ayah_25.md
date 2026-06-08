@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Your Lord knows best what is in your souls. In the last verse quoted above: رَّ‌بُّكُمْ أَعْلَمُ بِمَا فِي نُفُوسِكُمْ (Your Lord knows best what is in your hearts - 25), any possible scruple that remains in the hearts of children as to how they were going to comply satisfactorily with divine injunctions relating to consistent observance of etiquette and respect due to parents.
+If you are righteous, then, verily, He is Ever Most Forgiving to those who turn to Him in repentance .
 
 ## Tafsir Ibn Kathir
 

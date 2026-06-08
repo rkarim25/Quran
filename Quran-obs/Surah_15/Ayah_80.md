@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, the Dwellers of Al-Hijr denied the Messengers (80)And We gave them Our signs, but they were averse to them (81)And they used to hew out dwellings from the mountains, (feeling) secure (82)But the Sayhah (torme… Aikah means a dense forest.
+Also present there is the consequence of not doing so, after the argument of Allah stands established, that the defaulter be punished.
 
 ## Tafsir Ibn Kathir
 

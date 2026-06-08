@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But (the hoopoe) stayed not long, he said: "I have grasped which you have not grasped and I have come to you from Saba' with true news. I have found a woman ruling over them, - 27:23 The name of this woman is given in the history as Bilqis, daughter of Sharahil.
+Even if these narrations are correct, it does not corroborate permissibility to marry a jinni woman, because Bilqis herself was not a jinni, though her mother might have been one. That is, "Those people will never prosper who give control of authority to a woman".
 
 ## Tafsir Ibn Kathir
 

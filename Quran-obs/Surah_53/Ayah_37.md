@@ -22,7 +22,7 @@ Allah the Exalted explained what He has revealed in the Scripture of Ibrahim and
 
 ## Tafsir Summary
 
-Did you observe him who turned away (from Islam)(33)And gave a little, then stopped (34)Is with him the knowledge of the Unseen so that he sees (35)Or is he not informed with what is in the Suhuf of Musa (36)And of Ibrah… أَمْ لَمْ يُنَبَّأْ بِمَا فِي صُحُفِ مُوسَىٰ وَإِبْرَ‌اهِيمَ الَّذِي وَفَّىٰ (Has he not been told of what was [ revealed ] in the scriptures of Musa and of Ibrahim who fulfilled [ his covenant ]?...
+He fulfilled faithfully the covenant: He obeyed Allah and delivered His Message to His creatures. Did you observe him who turned away (from Islam)(33)And gave a little, then stopped (34)Is with him the knowledge of the Unseen so that he sees (35)Or is he not informed with what is in the Suhuf of Musa (36)And of Ibrahim who fulfilled all that (37)That no burdened person (with sins) shall bear the burden (sins) of another (38)And that man can have nothing but what he does (39)A…
 
 ## Tafsir Ibn Kathir
 

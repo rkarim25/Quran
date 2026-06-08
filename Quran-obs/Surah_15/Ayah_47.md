@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Truly, those who have Taqwa, will dwell in Gardens and water springs (45)(It will be said to them): "Enter it in peace and security. According to Sayyidna ` Abdullah ibn ` Abbas ؓ ، when the people of Jannah will enter Jannah, first of all two streams of water will be presented before them.
+In its place, they all will feel love for each other in their hearts because mutual bickering too is virtually a pain and punishment as such, and Jannah is free of all pain.
 
 ## Tafsir Ibn Kathir
 

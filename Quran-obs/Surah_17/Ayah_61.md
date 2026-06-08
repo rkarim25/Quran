@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when We said to the angels: "Prostrate yourselves unto Adam." They prostrated themselves except Iblis. The word fitnah' (فِتنَہ) appearing in verse 60: وَمَا جَعَلْنَا الرُّ‌ؤْيَا الَّتِي أَرَ‌يْنَاكَ إِلَّا فِتْنَةً لِّلنَّاسِ (And We showed you the scene [ in the Night of Ascent - al-Mi` raj ] only to make it a test for the people) is used in the Arabic language to convey many different meanings.
+And (remember) when We said to the angels: "Prostrate yourselves unto Adam." They prostrated themselves except Iblis. This is an ancient hatred, dating from the time that Allah created Adam, when He commanded the angels to prostrate to Adam, and all of them prostrated except Iblis, who was too arrogant and he haughtily refused to prostrate to him.
 
 ## Tafsir Ibn Kathir
 

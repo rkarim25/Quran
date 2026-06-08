@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Musa said to his people: "O my people! The Determination of Sayyidna Musa (علیہ السلام) against the Treachery of his People The prayer of Sayyidna Musa (علیہ السلام) ; قَالَ رَ‌بِّ إِنِّي لَا أَمْلِكُ إِلَّا نَفْسِي "0 My Lord, I have no control except over myself" should be seen in the perspective of the events in the life of the people of Bani Isra'il, the favours of Allah bestowed upon them and the conduct of their prophet, Sayyidna Musa (علیہ السلام) in their case.
+Authentic scholars of Tafsir say that the punishment Allah Jalla Sha'nuhu gives to a people is in proportion to their evil deed.
 
 ## Tafsir Ibn Kathir
 

@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then ask them: "Are they harder to create, or those whom We have created?" Verily, We created them of a sticky clay (11)Nay, you wondered while they mock (12)And when they are reminded, they pay no attention (13)And when they see an Ayah (a sign) from Allah, they mock at it (14)And they say: "This is nothing but evident magic! The proof of the miracles of the Holy Prophet ﷺ The word: آيَةً ('ayt tan) in verse وَإِذَا رَ‌أَوْا آيَةً (And when they see a sign) literally means 'sign' and at this place it means 'miracle.' Hence, this verse proves…
+And place after place in the Qur'an, the word: v i (ayat) has appeared in the sense of mu jizah or miracle.
 
 ## Tafsir Ibn Kathir
 

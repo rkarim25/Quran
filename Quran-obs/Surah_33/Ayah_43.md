@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! هُوَ الَّذِي يُصَلِّي عَلَيْكُمْ وَمَلَائِكَتُهُ (He is such that He and His angels send blessings to you.
+Allah much Allah commands His believing servants to remember their Lord much, Who has bestowed upon them all kinds of blessings and favors, because this will bring them a great reward and a wonderful destiny. Remember Allah with much remembrance (41)And glorify His praises morning and Asila (42)He it is Who sends Salah on you, and His angels too, that He may bring you out from darkness into light.
 
 ## Tafsir Ibn Kathir
 

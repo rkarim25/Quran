@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Surah Hud made the Prophet's Hair turn Gray Abu 'Isa At-Tirmidhi recorded from Ibn 'Abbas that Abu Bakr said, "O Messenger of Allah, verily your hair has turned gray." The Prophet ﷺ replied, Surah Hud is among the Surahs that describe the coming of several kinds of mass punishments triggered by Divine displeasure as well as the horrendous happenings of the fateful day of Judgment and its outcome in the form of individual reward and punishment, all in a manner that is unique.
+But, after the revelation of this Book, since the very chain of the coming of prophets and revelations came to an end, therefore, this Book will not be abrogated until the last day of Qiyamah. After that, about the Holy Qur'an it was said that it was a book the verses of which are made ` muhkam' (firm).
 
 ## Tafsir Ibn Kathir
 

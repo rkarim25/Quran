@@ -251,7 +251,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We have set none but angels as guardians of the Fire. وَمَا يَعْلَمُ جُنُوْدَ رَبِّكَ اِلَّا هُو (...And no one knows the hosts of your Lord but He 74:31) Muqatil, among the leading authorities, says that this is rebuttal to Abu Jahl's statement.
+Under each of these angels, the number of Allah's angels is legion beyond human count or computation.
 
 ## Tafsir Ibn Kathir
 

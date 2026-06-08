@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you not observed the hypocrites who say to their disbelieving brethren among the People of the Scripture, "If you are expelled, we indeed will go out with you, and we shall never obey anyone against you; and if you are attacked, we shall indeed help you." But Allah is Witness that they verily are liars (11)Surely, if they (the Jews) are expelled, never will they (hypocrites) go out with them; and if they are attacked, they will never help them.
+That is because they are a people who comprehend not (13)They fight not against you even together, except in fortified townships, or from behind walls.
 
 ## Tafsir Ibn Kathir
 

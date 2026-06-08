@@ -54,7 +54,7 @@ When this verse was revealed, 'Abdullah Ibn-uz-ziba'ra claimed that he had the p
 
 ## Tafsir Summary
 
-And when the son of Maryam is quoted as an example, behold, your people cry aloud thereat (57)And say: "Are our gods better or is he?" They quoted not the above example except for argument. وَلَمَّا ضُرِ‌بَ ابْنُ مَرْ‌يَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ (And when the example of the son of Maryam was cited, your people started at once shouting at it [ in joy ]...43:57).
+We granted Our favor to him, and We made him an example for the Children of Israel (59)And if it were Our will, We would have made angels to replace you on the earth (60)And he shall be a known sign for (the coming of) the Hour. We granted Our favor to him, and We made him an example for the Children of Israel.
 
 ## Tafsir Ibn Kathir
 

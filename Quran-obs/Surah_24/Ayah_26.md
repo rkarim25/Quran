@@ -79,7 +79,7 @@ Ibn 'Abbas said, "Evil words are for evil men, and evil men are for evil words; 
 
 ## Tafsir Summary
 
-Bad statements are for bad people and bad people for bad statements. Vile women are for vile men, and vile men are for vile women.
+Good statements are for good people and good people for good statements: such are innocent of (every) bad statement which they say; for them is forgiveness, and honored provision . It is, therefore, corroborated that it is possible that a messenger's wife could be a disbeliever, but it is not possible that she could be vulgar and sexually immoral, because adultery is a natural detestable act in the eyes of people, whereas disbelief is not a natural detestable thing.
 
 ## Tafsir Ibn Kathir
 

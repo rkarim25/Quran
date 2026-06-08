@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And your Ilah (God) is One Ilah (God ـ Allah), La ilaha illa Huwa (there is none who has the right to be worshipped but He), the Most Gracious, the Most Merciful (163) In this Ayah, Allah mentions that He is the only deity, and that He has no partners or equals. When the mushrikin مشرکین ، (the associators) of Arabia heard the verse وَإِلَـٰهُكُمْ إِلَـٰهٌ وَاحِدٌ 'And your god is one God', all against their own belief, they were puzzled thinking how could there be just one single object of worship for the whole wide world.
+He is Allah, the One and Only, the Sustainer, and there is no deity worthy of worship except Him.
 
 ## Tafsir Ibn Kathir
 

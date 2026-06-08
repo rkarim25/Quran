@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Allah belongs all that is in the heavens and all that is in the earth. The third mention of these words embodies a statement of Allah's mercy which makes things work for people.
+And Allah is Ever All-Potent over that (133)Whoever desires the rewards of this life, then with Allah is the reward of this worldly life and of the Hereafter.
 
 ## Tafsir Ibn Kathir
 

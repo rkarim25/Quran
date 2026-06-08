@@ -46,7 +46,7 @@ This verse speaks of some other attributes of the God-fearing, giving certain de
 
 ## Tafsir Summary
 
-Guidance and Success are awarded to the Believers (They are) refers to those who believe in the Unseen, establish the prayer, spend from what Allah has granted them, believe in what Allah has revealed to the Messenger and the Messengers before him, believe in the Hereafter with certainty, and prepare the necessary requirements for the Hereafter by performing good deeds and avoiding the prohibitions. This verse speaks of some other attributes of the God-fearing, giving certain details about faith in the unseen with a special mention of faith in hereafter.
+They are on guidance from their Lord, and they are the successful . Lexically the Akhirah signifies 'that which comes after something'; in the present context, it indicates a relationship of contrast with the physical world, and thus signifies the other world which is beyond physical reality as we know it and also beyond the sensuous or rational perception of man.
 
 ## Tafsir Ibn Kathir
 

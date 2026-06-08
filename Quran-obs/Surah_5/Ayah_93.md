@@ -114,7 +114,7 @@ Al-Hafiz Abu Bakr Al-Bayhaqi recorded that Sa'd said, "There were four Ayat reve
 
 ## Tafsir Summary
 
-O you who believe! A report from Sayyidna Abu Hurairah ؓ appearing in the Musnad of Ahmad, quoted in Al-Lubab, says: When the Verse forbidding drinking and gambling had been revealed, some people asked the Holy Prophet ﷺ that there were many people who drank wine and lived off earnings from gambling and then died before these were forbidden.
+Here it means that all types of games are not prohibited, but the prohibition is restricted to some of them.
 
 ## Tafsir Ibn Kathir
 

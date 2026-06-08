@@ -99,7 +99,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Because of their breaking the covenant, and their rejecting the Ayat of Allah, and their killing the Prophets unjustly, and their saying: "Our hearts are Ghulf," nay, Allah has set a seal upon their hearts because of the… Like the earlier verses, the censure of Jews continues through the present ones.
+Because of their breaking the covenant, and their rejecting the Ayat of Allah, and their killing the Prophets unjustly, and their saying: "Our hearts are Ghulf," nay, Allah has set a seal upon their hearts because of their disbelief, so they believe not but a little (155)And because of their disbelief and uttering against Maryam a grave false charge (156)And because of their saying, "We killed Al-Masih 'Isa, son of Maryam, the Messenger of Allah," but they killed him not, nor…
 
 ## Tafsir Ibn Kathir
 

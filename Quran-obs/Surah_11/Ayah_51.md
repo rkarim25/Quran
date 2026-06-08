@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to the 'Ad (people We sent) their brother Hud. The Holy Qur'an reports almost all prophets saying that they do not ask for any payment against the duty of Da'wah they do.
+My reward is only from Him Who created me.
 
 ## Tafsir Ibn Kathir
 

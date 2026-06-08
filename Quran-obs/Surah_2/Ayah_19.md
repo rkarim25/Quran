@@ -93,7 +93,7 @@ This is similar to the parables that were given in Surat An-Nur (chapter 24). Li
 
 ## Tafsir Summary
 
-Or like a rainstorm in the sky, bringing darkness, thunder, and lightning. The last four verses bring out the miserable plight of the hypocrites with the help of two extended similes.
+Ibn 'Abbas said, "Allah is able to punish or pardon His servants as He wills." Ibn Jarir commented, "Allah only described Himself with the ability to do everything in this Ayah as a warning to the hypocrites of His control over everything, and to inform them that His ability completely encompasses them and that He is able to take away their hearing and sight." Ibn Jarir and several other scholars of Tafsir stated that these two parables are about the same kind of hypocrite.
 
 ## Tafsir Ibn Kathir
 

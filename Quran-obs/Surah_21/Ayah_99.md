@@ -50,7 +50,7 @@ It was revealed about the mention of 'Isa, 'Uzayr and rabbis and monks who were 
 
 ## Tafsir Summary
 
-Certainly you and that which you are worshipping now besides Allah, are (but) fuel (Hasab) for Hell! إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ اللَّـهِ حَصَبُ جَهَنَّمَ (Surely, you and whatever you worship other than Allah are the fuel of Jahannam - 21:98) Here a question may arise as to the application of this verse to the case of Sayyidna Masih (علیہ السلام) ، Sayyidna ` Uzair (علیہ السلام) and angels who were also worshipped by some people.
+And say: "Are our gods better or is he?" They quoted not the above example except for argument.
 
 ## Tafsir Ibn Kathir
 

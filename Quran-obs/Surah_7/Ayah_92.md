@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The chiefs of those who disbelieved among his people said (to their people): "If you follow Shu'ayb, be sure then you will be the losers! In verse 92, the fate of the people of Sayyidna Shu'aib (علیہ السلام) has been cited as a lesson - which is the real purpose behind the description of this event.
+The sense of the sentence is that the homes where they lived in peace and comfort, turned so deserted after this punishment as if peace and comfort had never existed there.
 
 ## Tafsir Ibn Kathir
 

@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, Ilyas was one of the Messengers (123)When he said to his people: "Will you not have Taqwa? The word: إِلْ يَاسِينَ (il ya sin) used in: سَلَامٌ عَلَىٰ إِلْ يَاسِينَ (Salam on it ya sin -130) is also the very name of Sayyidna Ilyas (علیہ السلام) .
+They had started to worship an idol called Ba'l, and he called them to Allah, may He be exalted, and forbade them to worship anyone besides Him.
 
 ## Tafsir Ibn Kathir
 

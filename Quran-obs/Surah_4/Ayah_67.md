@@ -36,7 +36,7 @@ The present verses and those appearing immediately earlier were revealed in the 
 
 ## Tafsir Summary
 
-And if We had ordered them (saying), "Kill yourselves (i.e. The present verses and those appearing immediately earlier were revealed in the background of an incident relating to Bishr, the hypocrite.
+And how excellent these companions are (69)Such is the bounty from Allah, and Allah is sufficient as All-Knower .
 
 ## Tafsir Ibn Kathir
 

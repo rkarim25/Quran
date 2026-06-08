@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And He it is Who subjected the sea (to you), that you may eat from the fresh tender meat, and that you bring forth out of it ornaments to wear. In Verse 16, it was said: وَأَلْقَىٰ فِي الْأَرْ‌ضِ رَ‌وَاسِيَ أَن تَمِيدَ بِكُمْ (And He placed mountains on the earth, lest it should shake with you).
+To stop this turbulence and to provide a balance for the terrestrial composition, Allah Ta` ala placed on the Earth the weight of mountains so that it would not shake. Then Allah mentions the earth and how He placed in it mountains standing firm, which make it stable and keep it from shaking in such a manner that the creatures dwelling on it would not be able to live.
 
 ## Tafsir Ibn Kathir
 

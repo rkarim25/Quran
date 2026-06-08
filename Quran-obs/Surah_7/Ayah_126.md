@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Fir'awn said: "You have believed in him [Musa] before I gave you permission. This great change in their thought and action was the result of their true faith in Allah.
+It is because perseverance and patience are the only keys to success over one's enemy.
 
 ## Tafsir Ibn Kathir
 

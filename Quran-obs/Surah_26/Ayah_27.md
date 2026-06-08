@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Fir'awn said: "And what is the Lord of Al-'Alamin (23)(Musa) said: "The Lord of the heavens and the earth, and all that is between them, if you seek to be convinced with certainty. Bani Isra'il were the residents of Syria.
+When Musa said to them: "I am the Messenger of the Lord of the worlds," Fir'awn said to him, "Who is this who you are claiming is the Lord of Al-'Alamin other than me?" This is how it was interpreted by the scholars of the Salaf and the Imams of later generations. But here it was the resolute messenger of Allah who was the truth personified and who regarded expression of truth and veracity and the declaration of fact as his victory.
 
 ## Tafsir Ibn Kathir
 

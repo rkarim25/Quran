@@ -181,7 +181,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Neither you do any deed nor recite any portion of the Qur'an, nor you do any deed, but We are Witness thereof when you are doing it. In the fifth verse (61), mention has been made of the all-encompassing knowledge of the most exalted Allah and its unmatched multi-dimensional extensions.
+And He knows whatever there is in the land and in the sea; not a leaf falls, but He knows it.
 
 ## Tafsir Ibn Kathir
 

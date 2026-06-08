@@ -52,7 +52,7 @@ Although the background under which this verse was revealed, according to many n
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَهُمْ لَا يُفْتَنُونَ (And will not be put to test - 29:2).
+Evil is that which they judge!) The Believers are tested so that it may be known Who is Sincere and Who is Lying In the beginning of the Tafsir of Surat Al-Baqarah, we discussed the letters which appear at the beginning of some Surahs.
 
 ## Tafsir Ibn Kathir
 

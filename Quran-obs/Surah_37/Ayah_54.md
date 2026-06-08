@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then they will turn to one another, mutually questioning (50)A speaker of them will say: "Verily, I had a companion (in the world), (51)"Who used to say: 'Are you among those who believe (52)(That) when we die and become dust and bones, shall we indeed be indebted (Madinun)?' (53)(The speaker) said: "Will you look down? An inmate of Jannah and his disbelieving acquaintance After having described the general condition of the people of Jannah, one of them has been mentioned particularly.
+Except our first death, and we shall not be punished?) This is what the believers will say when they feel joy at what Allah has given them, and they realize that they are to remain in Paradise forever with no punishment and no death to come. The one who had a craft said to the other, 'You do not have a craft, so I think I will divide the money with you and leave you.' So he left him.
 
 ## Tafsir Ibn Kathir
 

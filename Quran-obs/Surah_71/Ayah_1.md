@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. وَالَّذِينَ هُم بِشَهَادَاتِهِمْ قَائِمُونَ (...and those who are upright in their testimonies, [ 70:33] '.
+Verily, We sent Nuh to his people (saying): "Warn your people before there comes to them a painful torment.")(2.
 
 ## Tafsir Ibn Kathir
 

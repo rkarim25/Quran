@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, Most Merciful.) 111. In the event that these people choose not to repent despite the option given to them, the seventh verse (111) carries the assurance that this action of theirs brings no harm to Almighty Allah or His Messenger or to Muslims.
+And Allah is Ever All-Knowing, All-Wise (110)And whoever earns a fault or a sin and then blames it on someone innocent, he has indeed burdened himself with falsehood and a manifest sin (111)Had not the grace of Allah and His mercy been upon you, a party of them would certainly have made a decision to mislead you, but they mislead none except their own selves, and no harm can they do to you in the least. And whoever earns sin, he earns it only against himself.
 
 ## Tafsir Ibn Kathir
 

@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He has created the heavens and the earth with truth. In verse 5, it was said: يُكَوِّرُ‌ اللَّيْلَ عَلَى النَّهَارِ‌ (He wraps the night over the day and He wraps the day over the night,).
+Evidence of the Power and Oneness of Allah Allah tells us that He is the Creator of what is in the heavens and on earth, and what is between them.
 
 ## Tafsir Ibn Kathir
 

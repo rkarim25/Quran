@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "O Allah! In verse 46, it was said: قُلِ اللَّـهُمَّ فَاطِرَ‌ السَّمَاوَاتِ وَالْأَرْ‌ضِ (Say, "0 Allah, Creator of the heavens and the earth...).
+You will judge between your servants about that wherein they used to differ.
 
 ## Tafsir Ibn Kathir
 

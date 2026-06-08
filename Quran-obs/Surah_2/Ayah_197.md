@@ -129,7 +129,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Hajj (pilgrimage) is (in) the well-known months. The Hajj Months: Prohibitions We now move to the second verse out of the eight that deal with the rules of Hajj, which is: الْحَجُّ أَشْهُرٌ‌ مَّعْلُومَاتٌ: The Hajj is (in) the months well-known'.
+The Hajj (pilgrimage) is (in) the well-known months.
 
 ## Tafsir Ibn Kathir
 

@@ -138,7 +138,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when it is said to them (the Jews), "Believe in what Allah has sent down," they say, "We believe in what was sent down to us." And they disbelieve in that which came after it, while it is the truth confirming what is with them. The Jews flatly refused to believe in any Book of Allah -- like the Evangel or the Holy Qur'an - except in the Torah.
+And when it is said to them (the Jews), "Believe in what Allah has sent down," they say, "We believe in what was sent down to us." And they disbelieve in that which came after it, while it is the truth confirming what is with them.
 
 ## Tafsir Ibn Kathir
 

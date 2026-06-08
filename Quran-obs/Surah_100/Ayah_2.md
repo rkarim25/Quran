@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 100:5] فَوَسَطْنَ بِهِ جَمْعًا (then enter, at the same time, into the centre of the [ opposing ] host) In other words, they penetrate into the centre of the enemy forces without the least degree of fear.
+Knows he not that when the contents of the graves are poured forth?)(10. Verily, that Day their Lord will be Well-Acquainted with them.) Swearing by the Horses of War about the Ungratefulness of Man and His Zeal for Wealth Allah swears by the horses when they are made to gallop into battle in His path (i.e., Jihad), and thus they run and pant, which is the sound that is heard from the horse when it runs.
 
 ## Tafsir Ibn Kathir
 

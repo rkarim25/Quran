@@ -140,7 +140,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And thus do We explain the Ayat in detail, that the way of the criminals, may become manifest (55)Say: "I have been forbidden to worship those whom you invoke (worship) besides Allah." Say: "I will not follow your vain desires. How to Stay Safe from Sins - The Master Prescription Of all the religions of the world, belief in Tauhid, monotheism in its pure and applied form, is the distinctive feature of Islam.
+In short, from this one sentence, it stands proved that the knowledge of Allah is perfect, and so is His power, and also that this all-encompassing knowledge and absolute power is the exclusive attribute of Allah Jalla Sha'nuhu, and that no one can acquire or have it.
 
 ## Tafsir Ibn Kathir
 

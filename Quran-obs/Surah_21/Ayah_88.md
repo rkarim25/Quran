@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) Dhun-Nun, when he went off in anger, and imagined that We shall not punish him! The prayer of Yunus (علیہ السلام) is invoked by all people at all times and for all their needs وَكَذَٰلِكَ نُنجِي الْمُؤْمِنِينَ (And this is how We rescue the believers - 21:88.) That is, just as We released Yunus (علیہ السلام) from his misery and distress, so do We deliver other believers (مُؤْمِنِينَ ) when they turn towards Us repenting their sins sincerely.
+He said, 'No, why do you ask?' I said, 'I passed by 'Uthman a short while ago in the Masjid and greeted him, and he stared at me but he did not return my Salam.' 'Umar sent for 'Uthman and asked him, 'Why did you not return your brother's Salam?' He said, 'That is not true.' Sa'd said, 'Yes it is.' It reached the point where they both swore oaths.
 
 ## Tafsir Ibn Kathir
 

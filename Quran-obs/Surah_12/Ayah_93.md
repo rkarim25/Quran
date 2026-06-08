@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Go with this shirt of mine, and cast it over the face of my father, his vision will return, and bring to me all your family. The previous verses about the story of Sayyidna Yusuf (علیہ السلام) have told us about the time when, by the will of Allah, it was appropriate for him to disclose his secret to his brothers.
+It is obvious that putting someone's shirt on the face of a person cannot become the physical cause of an eyesight to return. Given the conditions, he found it better that his father comes to him with the family.
 
 ## Tafsir Ibn Kathir
 

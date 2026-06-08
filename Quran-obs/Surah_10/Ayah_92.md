@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We took the Children of Israel across the sea, and Fir'awn with his hosts followed them in oppression and enmity, till when drowning overtook him, he (Fira'wn) said: "I believe that none has the right to be worshipped but He in Whom the Children of Israel believe, and I am one of the Muslims. Addressing Pharaoh in the first verse (92), it was said that Allah will take his body out of the waters after he is drowned so that his body becomes a sign of Divine power, and a lesson for people after him.
+Commentary Addressing Pharaoh in the first verse (92), it was said that Allah will take his body out of the waters after he is drowned so that his body becomes a sign of Divine power, and a lesson for people after him. Very similarly, it may have kept it even preserved against spoilage so that it could become a lesson for future generations.
 
 ## Tafsir Ibn Kathir
 

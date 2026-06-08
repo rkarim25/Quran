@@ -23,7 +23,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-What has been narrated about This Surah Imam Ahmad recorded from Ibn 'Umar that the Messenger of Allah ﷺ said, عَلِمَتْ نَفْسٌ مَّا أَحْضَرَ‌تْ (then everyone will know what he [ or she ] has put forward...
+What is intended is that the 'Ishar is a type of camel.
 
 ## Tafsir Ibn Kathir
 

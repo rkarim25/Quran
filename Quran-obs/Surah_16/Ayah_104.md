@@ -60,7 +60,7 @@ Allah tells us that He does not guide those who turn away from remembering Him a
 
 ## Tafsir Summary
 
-Verily, those who do not believe in Allah's Ayat (signs, or revelation), Allah will not guide them, and theirs will be a painful punishment (104)It is only those who do not believe in Allah's Ayat who fabricate the falsehood, and it is they who are liars (105) Allah tells us that He does not guide those who turn away from remembering Him and who are heedless of that which He revealed to His Messenger ﷺ, those who have no intention of believing in that which he has brought from Allah.
+Verily, those who do not believe in Allah's Ayat (signs, or revelation), Allah will not guide them, and theirs will be a painful punishment (104)It is only those who do not believe in Allah's Ayat who fabricate the falsehood, and it is they who are liars .
 
 ## Tafsir Ibn Kathir
 

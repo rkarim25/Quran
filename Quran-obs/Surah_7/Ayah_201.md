@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who have Taqwa, when an evil thought comes to them from Shaytan, they remember (Allah), and (indeed) they then see (aright)(201)But (as for) their brothers (the devils' brothers) they (the devils) plunge th… In the second verse, it was said: وَإِمَّا يَنزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّـهِ ۚ إِنَّهُ سَمِيعٌ عَلِيمٌ (And if you are stricken with a strike from the Shaitan, seek refuge with Allah - 200).
+Verily, those who have Taqwa, when an evil thought comes to them from Shaytan, they remember (Allah), and (indeed) they then see (aright)(201)But (as for) their brothers (the devils' brothers) they (the devils) plunge them deeper into error, and they never stop short .
 
 ## Tafsir Ibn Kathir
 

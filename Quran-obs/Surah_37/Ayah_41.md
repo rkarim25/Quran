@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, you are going to taste the painful torment (38)And you will be requited nothing except for what you used to do (39)Save the chosen servants of Allah (40)For them there will be a known provision (41)Fruits; and th… After having described the condition of the people of Jahannam (Hell), the verses cited above have mentioned the condition of the people of Jannah (Paradise).
+According to this explanation, 'known provision' means that this provision will be certain and everlasting - unlike the world of our experience where no one can say with any degree of certainty what and how much of that provision he or she is going to get; nor does anyone know how long his provision will remain available to him or her.
 
 ## Tafsir Ibn Kathir
 

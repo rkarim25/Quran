@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Waqi'ah Abu Ishaq reported from 'Ikrimah from Ibn 'Abbas that Abu Bakr said, "O Allah's Messenger! وَالسَّابِقُونَ السَّابِقُونَ (And the Foremost are the foremost....56:10) Imam Ahmad (رح) ، has recorded a Tradition on the authority of Sayyidah ` A'ishah Siddiqah ؓ that the Messenger of Allah ﷺ asked the noble Compan…
+And those on the left – how (unfortunate) will be those on the left!)(10. The opinions are not in conflict with one another, because As-sabiqun are those who must have been foremost in their invincible faith and righteous deeds in this world, and as such they would be the 'Foremost' in the Hereafter in terms of reward which will befit their faith and good deeds.
 
 ## Tafsir Ibn Kathir
 

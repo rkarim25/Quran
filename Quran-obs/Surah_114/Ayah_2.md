@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "I seek refuge with the Lord of An-Nas, (1)"The King of An-Nas, (2)"The God of An-Nas, (3)"From the evil of the whisperer who withdraws. This Surah, the second of the Mu'awwadhatain, constitutes an extension of its predecessor and is in a way complementary to it, in that in Surah Al-Falaq the believers were enjoined to seek refuge with Allah against the hardships and privations of life in this world, while in the current Surah protection is sought from the trials and tribulations of the Hereafter.
+This is because they (the Jinns) are also included in the usage of the word An-Nas (the people) in most cases.
 
 ## Tafsir Ibn Kathir
 

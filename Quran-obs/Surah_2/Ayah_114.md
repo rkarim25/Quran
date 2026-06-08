@@ -132,7 +132,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And who are more unjust than those who forbid that Allah's Name be mentioned (i.e. Injunctions and related considerations All the mosques in the world are equally worthy of respect.
+prayers and invocations) in Allah's Masjids and strive for their ruin?) is about the Quraysh idolators who prevented the Prophet ﷺ from entering Makkah from Al-Hudaybiyyah, until he slaughtered the Hadi (animal for sacrifice) at Dhi-Tuwa.
 
 ## Tafsir Ibn Kathir
 

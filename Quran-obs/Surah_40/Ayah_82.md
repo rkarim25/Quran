@@ -111,7 +111,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have they not traveled through the earth and seen what was the end of those before them? In verse 77, it was said: فَاصْبِرْ‌ إِنَّ وَعْدَ اللَّـهِ حَقٌّ فَإِمَّا نُرِ‌يَنَّكَ (Therefore, be patient.
+They were more in number than them and mightier in strength, and in the traces in the land; yet all that they used to earn availed them not (82)Then when their Messengers came to them with clear proofs, they were glad (and proud) with that which they had of the knowledge (of worldly things).
 
 ## Tafsir Ibn Kathir
 

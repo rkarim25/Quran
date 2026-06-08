@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Allah said "Do not worship two gods. Even the Punishment of the World is Mercy in Disguise In the verses cited above, after having mentioned various punishments which could seize disbelievers within this world, it was said in the end: فَإِنَّ رَ‌بَّكُمْ لَرَ‌ءُوفٌ رَّ‌حِيمٌ (So, indeed your Lord is Very Kind Very Merciful).
+Will you then fear any other than Allah (52)And whatever of blessings and good things you have, it is from Allah.
 
 ## Tafsir Ibn Kathir
 

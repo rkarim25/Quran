@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed you knew those amongst you who transgressed in the matter of the Sabbath (i.e. This episode belongs to the time of Sayyidna Dawud (David (علیہ السلام Allah had appointed Saturday as the Sabt سبت ، or the sacred day, for the Israelites; it was specially set apart for prayers and worship, and hence fishing was prohibited on this day.
+For the disobedient, it served as a 'deterrent', an example and a warning, which persuaded them to repent of their disobedience. For the obedient, it was a lesson and a reminder that they should be steadfast in their obedience.
 
 ## Tafsir Ibn Kathir
 

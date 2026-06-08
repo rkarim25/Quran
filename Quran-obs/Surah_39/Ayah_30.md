@@ -28,7 +28,7 @@ Ibn Abi Hatim recorded that Sa'id bin Jubayr said that Ibn 'Umar, may Allah be p
 
 ## Tafsir Summary
 
-And indeed We have put forth for men, in this Qur'an every kind of parable in order that they may remember (27)An Arabic Qur'an, without any crookedness (therein) in order that they may have Taqwa of Him (28)Allah puts forth a parable: a man belonging to many partners disputing with one another, and a man belonging entirely to one master. In verse 30, it was said: إِنَّكَ مَيِّتٌ وَإِنَّهُم مَّيِّتُونَ (Verily, you are to die and they are to die).
+But most of them know not (29)Verily, you will die, and verily, they (too) will die (30)Then, on the Day of Resurrection, you will be disputing before your Lord .
 
 ## Tafsir Ibn Kathir
 

@@ -132,7 +132,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O mankind! In the first of the two verses cited above, the address is to common people, believing and disbelieving both.
+Verily, the promise of Allah is true, let not then this present life deceive you, nor let the chief deceiver deceive you about Allah .
 
 ## Tafsir Ibn Kathir
 

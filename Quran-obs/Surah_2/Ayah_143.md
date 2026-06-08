@@ -203,7 +203,7 @@ Al-Bukhari reported in the explanation of the Ayah (2:143) that Ibn 'Umar narrat
 
 ## Tafsir Summary
 
-The fools (idolators, hypocrites, and Jews) among the people will say: "What has turned them (Muslims) from their Qiblah [prayer direction (towards Jerusalem)] to which they used to face in prayer." Say (O Muhammad ﷺ): "To Allah belong both, east and the west. The verse qualifies the Islamic nation (Ummah) with the objective Wasat which signifies "moderate, middle or central", and is usually applied to a thing considered to be the best of its kind.
+this verse establishes the principle that the deeds and actions of this Ummah which have been approved by a consensus are all of them commendable, for, if one were to admit the possibility of a consensus on an error, the Ummah cannot be characterized as being moderate and just.
 
 ## Tafsir Ibn Kathir
 

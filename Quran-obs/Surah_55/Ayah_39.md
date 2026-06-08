@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then when the heaven is rent asunder, and it becomes Wardah like Dihan (37)Then which of the blessings of your Lord will you both deny (38)So, on that Day he will not be questioned about his sin, (neither) human nor Jinn… The Horrors of the Day of Resurrection فَيَوْمَئِذٍ لَّا يُسْأَلُ عَن ذَنبِهِ إِنسٌ وَلَا جَانٌّ (On that day, neither a man will be questioned about his sin, nor a Jinn...55:39) One interpretation of this verse is that no one will be asked whether or not he had committed the sin, because it will have already been recorded by the angels in the ledger of deeds, and Allah has the Pre-Eternal knowledge of it.
+They are close to each other, and thus there is no conflict.
 
 ## Tafsir Ibn Kathir
 

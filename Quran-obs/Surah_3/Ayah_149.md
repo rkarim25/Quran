@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! When Muslims faced a temporary setback during the battle of Uhud and rumours went around that the Prophet ﷺ has been martyred, the hypocrites found an occasion for mischief under the shadows of a battle nearly lost.
+If you obey those who disbelieve, they will send you back on your heels, and you will turn back as losers (149)Nay, Allah is your protector, and He is the best of helpers (150)We shall cast terror into the hearts of those who disbelieve, because they joined others in worship with Allah, for which He sent no authority; their abode will be the Fire and how evil is the abode of the wrongdoers (151)And Allah did indeed fulfill His promise to you when you were killing them (your e…
 
 ## Tafsir Ibn Kathir
 

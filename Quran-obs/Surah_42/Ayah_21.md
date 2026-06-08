@@ -99,7 +99,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah is very Gracious and Kind to His servants. اللَّـهُ لَطِيفٌ بِعِبَادِهِ (Allah is kind to His slaves - 42:19).
+And had it not been for a decisive Word, the matter would have been judged between them. And He is the All-Strong, the Almighty (19)Whosoever desires the reward of the Hereafter, We give him increase in his reward, and whosoever desires the reward of this world, We give him thereof, and he has no portion in the Hereafter (20)Or have they partners with Allah who have instituted for them a religion which Allah has not ordained?
 
 ## Tafsir Ibn Kathir
 

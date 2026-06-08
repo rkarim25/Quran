@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Obligations of a Believer ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْ‌حَمَةِ ‌ (then he did not join those who believe and advise each other to be patient and advise each other to be merciful...90:17).
+But those who disbelieved in Our Ayat, they are those on the Left.)(20. The word sabr signifies 'to withhold oneself from evil deeds and to act upon good deeds'.
 
 ## Tafsir Ibn Kathir
 

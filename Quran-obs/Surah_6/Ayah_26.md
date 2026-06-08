@@ -56,7 +56,7 @@ The verse: وَهُمْ يَنْهَوْنَ عَنْهُ (And from it they prev
 
 ## Tafsir Summary
 
-And on the Day when We shall gather them all together, We shall say to those who joined partners in worship (with Us): "Where are your partners (false deities) whom you used to assert (as partners in worship with Allah)? The verse: وَهُمْ يَنْهَوْنَ عَنْهُ (And from it they prevent - 26), according to early commentators Dahhak, Qatadah and Muhammad ibn Hanafiyah, was revealed about the common disbelievers of Makkah who prevented people from listening to the Qur'an and following it - and saw to it that they themselves stayed away from it.
+Yet, they do not perceive this fact!
 
 ## Tafsir Ibn Kathir
 

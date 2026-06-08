@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So she conceived him, and she withdrew with him to a remote place (22)And the pains of childbirth drove her to the trunk of a date palm. Injunction in respect of desire for death If her desire for death was due to worldly problems then she may be excused on the ground that she was overpowered by the surrounding circumstances and had reached a state of mind usually called by the mystics as غلبۃ الحال "Ghalabah-tul-Hal." But if the desire for death was due to religious consideration, it was justifiable in its own right, because she feared that people would talk ill of her and she would not be able to endure it with patience.
+So long as this potential is there, it cannot be taken as totally impossible, because some abnormal factor may increase this potential.
 
 ## Tafsir Ibn Kathir
 

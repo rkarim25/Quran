@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The Command for Teachers and Preachers to Remember Allah During Spare Hours فَإِذَا فَرَ‌غْتَ فَانصَبْ وَإِلَىٰ رَ‌بِّكَ فَارْ‌غَب (So when you are free [ from collective services ], exert yourself [ in worship ], and towards your Lord turn with eagerness....94:8).
+And to your Lord turn intentions and hopes.) meaning, 'when you have completed your worldy affairs and its tasks, and you have broken away from its routine, then get up to perform the worship, and stand for it with zeal, complete devotion and purify your intention and desire for your Lord.' Similar to this is the Prophet's statement in a Hadith that is agreed-upon to be authentic, (There is no prayer when the food is served, nor when the two foul things (excrement and urine)…
 
 ## Tafsir Ibn Kathir
 

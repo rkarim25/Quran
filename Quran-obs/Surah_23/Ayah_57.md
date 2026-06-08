@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who live in awe for fear of their Lord (57)And those who believe in the Ayat of their Lord (58)And those who join not anyone as partners with their Lord (59)And those who give that which they give with thei… فَتَقَطَّعُوا أَمْرَهُم بَيْنَهُمْ زُبُرًا But they split up ways from one another (dividing themselves) into factions - 23:53).
+Verily, those who live in awe for fear of their Lord (57)And those who believe in the Ayat of their Lord (58)And those who join not anyone as partners with their Lord (59)And those who give that which they give with their hearts full of fear, because they are sure to return to their Lord (60)It is these who hasten in the good deeds, and they are foremost in them .
 
 ## Tafsir Ibn Kathir
 

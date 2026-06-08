@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, Yunus was one of the Messengers (139)When he ran to the laden ship (140)Then he (agreed to) cast lots, and he was among the losers (141)Then a (big) fish swallowed him as he had done an act worthy of blame (1… It was said in verse 147: Y); وَأَرْ‌سَلْنَاهُ إِلَىٰ مِائَةِ أَلْفٍ أَوْ يَزِيدُونَ (And We had sent him [ as messenger ] to one hundred thousand, or more).
+Why would He have to express the doubt that the number of those people was 'one hundred thousand, or more?' It can be answered by saying that this statement has been made in congruity with the view of common people, that is, if an average person would have seen them, he would have said that their number is one hundred thousand or somewhat more than that (Mazhari).
 
 ## Tafsir Ibn Kathir
 

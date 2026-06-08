@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Fir'awn said: "Who then, O Musa, is the Lord of you two (49)[Musa] said: "Our Lord is He Who gave to each thing its form and nature, then guided it aright. أَعْطَىٰ كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَىٰ (who gave everything its shape then guidance 20:50) refers to the guidance of Takwin (تکوینی ھدایت).
+Therefore, He did not give man the form of a wild beast, nor did He give wild beasts the form of the dog.
 
 ## Tafsir Ibn Kathir
 

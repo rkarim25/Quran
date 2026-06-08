@@ -24,7 +24,7 @@ He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While 
 
 ## Tafsir Summary
 
-He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While he was in the highest part of the horizon (7)Then he approached and came closer (8)And was at a distance of two bows' length or less (9)So (… عَلَّمَهُ شَدِيدُ الْقُوَىٰ (It is taught to him by one [ angel ] of strong faculties,...53:5) From here upto the eighteenth verse, لَقَدْ رَ‌أَىٰ مِنْ آيَاتِ رَ‌بِّهِ الْكُبْرَ‌ىٰ the subject-matter is the revelation from Allah.
+This is the second time the Messenger of Allah ﷺ saw Jibril in the shape that Allah created him; it was during the Night of Isra'. We mentioned the various Hadiths about the Night of Isra' in the beginning of Surat Al-Isra'. Therefore, there is no need to repeat them here.
 
 ## Tafsir Ibn Kathir
 

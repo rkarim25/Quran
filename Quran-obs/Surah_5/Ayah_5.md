@@ -195,7 +195,7 @@ Ibn Abi Hatim recorded that Abu Malik Al-Ghifari said that Ibn 'Abbas said that 
 
 ## Tafsir Summary
 
-Made lawful to you this day are At-Tayyibat. Commentary In the first verse of Surah al-Ma'idah, the lawfulness of domestic animals such as the goat, cow and buffalo has been described.
+This ruling, that the slaughtered animals of the People of the Book are permissible for Muslims, is agreed on by the scholars, because the People of the Book believe that slaughtering for other than Allah is prohibited.
 
 ## Tafsir Ibn Kathir
 

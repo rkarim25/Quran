@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Surah Hud made the Prophet's Hair turn Gray Abu 'Isa At-Tirmidhi recorded from Ibn 'Abbas that Abu Bakr said, "O Messenger of Allah, verily your hair has turned gray." The Prophet ﷺ replied, From the second verse begins the delineation of one of the most important and foremost themes, that of Tauhid, the Oneness of Allah Ta` ala.
+It means that the noble messenger of Allah, ﷺ has been commanded to tell the whole world through these verses that he was for them a carrier of warning (against disobedience) and a bearer of glad tidings (of blessings in this life and in the life to come) from Allah.
 
 ## Tafsir Ibn Kathir
 

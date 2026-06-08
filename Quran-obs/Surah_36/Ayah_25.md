@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And there came a man running from the farthest part of the town. The addressee here could be his own people where calling Allah Ta’ ala their Lord was to express a reality - though, they did not accept it.
+The addressee here could be his own people where calling Allah Ta’ ala their Lord was to express a reality - though, they did not accept it.
 
 ## Tafsir Ibn Kathir
 

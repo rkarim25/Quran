@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "What is in the bellies of such and such cattle is for our males alone, and forbidden to our females, but if it is born dead, then all have shares therein." He will punish them for their attribution (of such false orders to Allah). Described in the previous verses were false beliefs of the mushriks of Arabia while the present verses recount their practical errors and ignorant customs.
+And they say: "What is in the bellies of such and such cattle is for our males alone, and forbidden to our females, but if it is born dead, then all have shares therein." He will punish them for their attribution (of such false orders to Allah).
 
 ## Tafsir Ibn Kathir
 

@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they worship besides Allah, that which can neither profit them nor harm them; and the disbeliever is ever a helper against his Lord (55)And We have sent you only as a bearer of good news and a warner (56)Say: "No reward do I ask of you for this, save that whosoever wills may take a path to his Lord. قَالُوا وَمَا الرَّ‌حْمَـٰنُ (60) The word رَّ‌حْمَـٰنُ (Rahman, translated as All-Merciful) is an Arabic word and all Arabs knew its meaning, but they did not use it for Allah Ta’ ala.
+What he says is true, and he is the leader whose decision counts; when there is a dispute, people are obliged to refer to him, and whatever is in accordance with his words and deeds is right, and whatever goes against them should be rejected no matter who says or does it.
 
 ## Tafsir Ibn Kathir
 

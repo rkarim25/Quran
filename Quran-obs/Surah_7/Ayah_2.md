@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. In the statement فَلَا يَكُن فِي صَدْرِ‌كَ حَرَ‌جٌ appearing in the first verse, the address is to the Holy Prophet .
+Follow what has been sent down unto you from your Lord, and follow not any Awliya' (protectors), besides Him (Allah).
 
 ## Tafsir Ibn Kathir
 

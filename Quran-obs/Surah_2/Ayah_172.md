@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe (in the Oneness of Allah ـ Islamic Monotheism)! Earlier, the aim was to correct the error made by the mushrikin مشرکین when they made unlawful what was good and permissible.
+Truly, Allah is Oft-Forgiving, Most Merciful .
 
 ## Tafsir Ibn Kathir
 

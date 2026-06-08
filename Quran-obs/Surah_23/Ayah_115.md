@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He will say: "What number of years did you stay on earth? وَلَا تُكَلِّمُونِ (Do not speak to Me - 23:108).
+If they had been patient during their short stay in this world, they would have attained victory just like His pious close friends. If you had patiently obeyed Allah and worshipped Him as the believers did, you would have attained victory just as they did.
 
 ## Tafsir Ibn Kathir
 

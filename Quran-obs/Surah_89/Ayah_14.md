@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Recitation of Surat Al-Fajr in the Prayer An-Nasa'i recorded a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. إِنَّ رَبَّكَ لَبِالْمِرْصَادِ (Surely your Lord is ever on the watch....89:14].
+So, your Lord poured on them different kinds of severe torment.)(14.
 
 ## Tafsir Ibn Kathir
 

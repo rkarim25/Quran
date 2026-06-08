@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, when you meet those who disbelieve (in battle), smite (their) necks until you have fully defeated them, then tighten their bonds. وَيُدْخِلُهُمُ الْجَنَّةَ عَرَّ‌فَهَا لَهُمْ (and will admit them to the Paradise He has identified for them.
+Verily, the center of the believers' abode is Ash-Sham.
 
 ## Tafsir Ibn Kathir
 

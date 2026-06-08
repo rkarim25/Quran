@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when you said: "O Musa! This verse refers to death, which suggests that the thunderbolt had killed them.
+Afterwards, Allah brought them back to life one man at a time, while the rest of them were watching how Allah was bringing them back to life.
 
 ## Tafsir Ibn Kathir
 

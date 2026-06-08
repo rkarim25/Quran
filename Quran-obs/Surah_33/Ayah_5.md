@@ -131,7 +131,7 @@ Imam Ahmad narrated from Ibn 'Abbas that 'Umar said: "Allah sent Muhammad ﷺ wi
 
 ## Tafsir Summary
 
-Allah has not made for any man two hearts inside his body. Previous verses carried instructions to the Holy Prophet ﷺ asking him not to act upon their advice and not to be cajoled into what they wanted to achieve.
+The wife of an adopted son is not included because he was not born from the man's loins.
 
 ## Tafsir Ibn Kathir
 

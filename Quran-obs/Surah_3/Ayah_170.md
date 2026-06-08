@@ -91,7 +91,7 @@ Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the mar
 
 ## Tafsir Summary
 
-(169. So, in summation, their first merit as pointed out in this verse is their distinct perennial life; the second is their being well-provided from Allah and the third (فَرِ‌حِينَ بِمَا آتَاهُمُ اللَّـهُ ) is that they shall always be happy with Allah's blessings and grace.
+Those who answered (the Call of) Allah and the Messenger after being wounded; for those of them who did good deeds and feared Allah, there is a great reward.)(173.
 
 ## Tafsir Ibn Kathir
 

@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "O you (Muhammad) to whom the Dhikr (the Qur'an) has been revealed! From: ذَرْ‌هُمْ يَأْكُلُوا (Let them eat ...3) we can see that the making of eating and drinking the real occupation and aim of life, and keeping glued to long-drawn material plans while surrounded by countless things of worldly comfort, and becoming totally heedless to death, is something which can be done only by the disbelievers.
+Therefore, he is careful about everything he does and finds out whether it is Halal or Haram, permissible or forbidden. As for plans made to achieve religious objectives, or those made to guard the future interests of a people or country, they are not included here - because, that is a form of the concern for 'Akhirah itself.
 
 ## Tafsir Ibn Kathir
 

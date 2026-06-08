@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-When harm touches man, he calls to Us (for help); then when We have changed it into a favor from Us, he says: "Only because of knowledge I obtained it." Nay, it is only a trial, but most of them know not (49)Verily, those before them said it, yet (all) that they had earned availed them not (50)So, the evil results of that which they earned overtook them.
+And those who did wrong of these will also be overtaken by the evil results for that which they earned; and they will never be able to escape (51)Do they not know that Allah expands the provision for whom He wills, and straitens it. When harm touches man, he calls to Us (for help); then when We have changed it into a favor from Us, he says: "Only because of knowledge I obtained it." Nay, it is only a trial, but most of them know not (49)Verily, those before them said it, yet…
 
 ## Tafsir Ibn Kathir
 

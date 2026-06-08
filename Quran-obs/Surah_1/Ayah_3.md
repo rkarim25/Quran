@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah says, 'My servant has glorified Me.' When he says, The second verse speaks of the Divine quality of mercy, employing two adjectives Rahman and Rahim of which are hyperbolic terms in Arabic, and respectively connote the superabundance and perfection of Divine mercy.
+The Most Gracious, the Most Merciful .
 
 ## Tafsir Ibn Kathir
 

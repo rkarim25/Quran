@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who have Taqwa will be in the midst of Gardens and Springs (15)Taking joy in the things which their Lord has given them. Remaining Awake at Night for Voluntary Prayers كَانُوا قَلِيلًا مِّنَ اللَّيْلِ مَا يَهْجَعُونَ (They used to sleep little in the night,...
+Verily, they were before this doers of good (16)They used to sleep but little by night (17)And in the hours before dawn, they were asking for forgiveness (18)And in their wealth there was the right of the Sa'il and the Mahrum (19)And on the earth are signs for those who have faith with certainty (20)And also in yourselves.
 
 ## Tafsir Ibn Kathir
 

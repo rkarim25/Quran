@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The raised Couches and the lack of Heat and Cold Allah tells us about the people of Paradise and the eternal delights they will experience, as well as the comprehensive favors that they will be given. وَيُسْقَوْنَ فِيْهَا كَاْسًا كَانَ مِزَاجُهَا زَنْجَبِيْلًا (And they will be served with a goblet of drink blended with ginger...76:17).
+Then on another occasion they will be given a drink mixed with ginger, and it is hot.
 
 ## Tafsir Ibn Kathir
 

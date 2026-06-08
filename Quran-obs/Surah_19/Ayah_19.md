@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And mention in the Book, Maryam, when she withdrew in seclusion from her family to place facing east (16)She placed a screen before them; then We sent to her Our Ruh, and he appeared before her in the form of a man in all respects (17)She said: "Verily, I seek refuge with the Most Gracious (Allah) from you, if you do fear Allah.
+And he will speak to the people, in the cradle and in manhood, and he will be one of the righteous.)[3:45-46] This means that he will call to the worship of his Lord in his cradle and while and adult. This is what is legislated in defense against (evil), so that it may be repulsed with ease.
 
 ## Tafsir Ibn Kathir
 

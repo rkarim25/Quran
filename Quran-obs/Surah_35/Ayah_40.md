@@ -149,7 +149,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Have you considered your partners whom you call upon besides Allah? The word: خَلَائِفَ (khala'if) in verse 39: هُوَ الَّذِي جَعَلَكُمْ خَلَائِفَ فِي الْأَرْ‌ضِ (He is the One who has made you successors (of the past generations) in the earth.) is the plural of: خَلِیفَہ (khalifah) which means deputy or vice-regent.
+Or have We given them a Book, so that they act on clear proof therefrom? Show Me, what they have created of the earth.
 
 ## Tafsir Ibn Kathir
 

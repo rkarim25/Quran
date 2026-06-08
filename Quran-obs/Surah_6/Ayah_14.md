@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "To whom belongs all that is in the heavens and the earth?" Say: "To Allah." He has prescribed mercy for Himself. The word, ` sukun' appearing in verse 13: وَلَهُ مَا سَكَنَ فِي اللَّيْلِ وَالنَّهَارِ‌ (And to Him belongs what finds rest in the night and the day) could either mean the state of being still or at rest, in which case, the verse would mean that Allah is the Master of everything present in the night and the day.
+Allah is the Creator and the Sustainer Allah states that He is the King and Owner of the heavens and earth and all of what is in them, and that He has written mercy on His Most Honorable Self.
 
 ## Tafsir Ibn Kathir
 

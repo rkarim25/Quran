@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they (Jews) say, "The Fire shall not touch us but for a few numbered days." Say (O Muhammad ﷺ to them): "Have you taken a covenant from Allah, so that Allah will not break His covenant? The claim of the Jews that they would not be sent to Hell for their sins, or, if at all, only for a few days, has been interpreted by the Commentators in different ways.
+The Messenger of Allah ﷺ ordered, 'Assemble before me all the Jews who were here.' The Jews were summoned and the Prophet ﷺ said (to them), 'Who is your father?' They replied, 'So-and-so.' He said, 'You have lied; your father is so-and-so.' They said, 'You have uttered the truth.' He said, 'Will you now tell me the truth, if I ask you about something?' They replied, 'Yes, O Abul-Qasim; and if we should tell a lie, you will know our lie as you have about our fathers.' On that…
 
 ## Tafsir Ibn Kathir
 

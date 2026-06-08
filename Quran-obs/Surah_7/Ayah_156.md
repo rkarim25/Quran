@@ -136,7 +136,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Musa chose out of his people seventy (of the best) men for Our appointed time and place of meeting, and when they were seized with a violent earthquake, he said: "O my Lord, if it had been Your Will, You could have destroyed them and me before; would You destroy us for the deeds of the foolish among us? "As for My punishment, I afflict with it whom I will.
+Whenever mercy is mentioned along with forgiveness [such as in Musa's supplication to Allah], it includes the hope that Allah does not permit one to fall into that act again.
 
 ## Tafsir Ibn Kathir
 

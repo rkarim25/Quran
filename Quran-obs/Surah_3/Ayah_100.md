@@ -68,7 +68,7 @@ They took the warning to their hearts. They knew this was a slip caused by شی�
 
 ## Tafsir Summary
 
-O you who believe! Several verses earlier, the text was dealing with the people of the Book, their false beliefs and their doubts.
+If you obey a group of those who were given the Scripture (Jews and Christians), they would (indeed) render you disbelievers after you have believed (100)And how would you disbelieve, while unto you are recited the verses of Allah, and among you is His Messenger?
 
 ## Tafsir Ibn Kathir
 

@@ -40,7 +40,7 @@ Abd ibn Humaid has reported that the Holy Prophet ﷺ said addressing his compan
 
 ## Tafsir Summary
 
-And of those whom We have created, there is a community who guides (others) with the truth, and establishes justice therewith.) Allah sai (181) (And of those whom We have created), in reference to some nations, The previous verses offered a remedy of calling Allah by His good names to those who were neglectfully not making proper use of their faculties.
+The verse said, “ And among those we have created, there are people who guide with truth and do justice thereby”. Any group or individuals who follow the truth and justice in all their modes of life, and do not exhibit their personal prejudices while making judgments even for their enemies, are the people of truth refered to in this verse.
 
 ## Tafsir Ibn Kathir
 

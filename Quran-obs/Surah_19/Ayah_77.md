@@ -41,7 +41,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you seen him who disbelieved in Our Ayat and said: "I shall certainly be given wealth and children [if I live again]. لَأُوتَيَنَّ مَالًا وَوَلَدًا ("I shall certainly be given wealth and children".
+It means, "We will take all of this from him, in opposition to his claim that he will be given more wealth and children in the Hereafter than he had in this life." To the contrary, in the Hereafter that which he had in this life will be taken from him.
 
 ## Tafsir Ibn Kathir
 

@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who fear their Lord unseen, theirs will be forgiveness and a great reward (12)And whether you keep your talk secret or disclose it, verily, He is the All-Knower of what is in the breasts (13)Should not He Who has created know? وَلَقَدْ زَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَجَعَلْنَاهَا رُ‌جُومًا لِّلشَّيَاطِينِ (And We have decorated the nearest sky with lamps, and have made them devices to stone the devils, and We have prepared for them the punishment of Hell....67:5).
+And He is the Most Kind and Courteous, All-Aware (14)He it is Who has made the earth subservient to you; so walk in the paths thereof and eat of His provision.
 
 ## Tafsir Ibn Kathir
 

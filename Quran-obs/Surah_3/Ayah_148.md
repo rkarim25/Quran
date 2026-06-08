@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Muhammad is no more than a Messenger, and indeed Messengers have passed away before him. Connected with previous verses where Muslims were admonished for some of their shortcomings during the battle of Uhud, the present verses cite examples set by men of Allah from earlier communities showing how steadfast they were on the battlefield, something which should be emulated by the present addressees.
+That reward is certainly the real one, an ideal state of peace and happiness which will never fade out.
 
 ## Tafsir Ibn Kathir
 

@@ -87,7 +87,7 @@ And indeed We revealed to Musa: "Travel by night with My servants and strike a d
 
 ## Tafsir Summary
 
-And indeed We revealed to Musa: "Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid. The decisive defeat which he suffered in the contest between the right and wrong and between miracle and magic broke the power of the Pharaoh, and the Bani Isra'ile stood united under the leadership of Sayyidni Musa (علیہ السلام) .
+The Children of Israel leave Egypt Allah, the Exalted, informs that He commanded Musa to journey at night with the Children of Israel, when Fir'awn refused to release them and send them with Musa.
 
 ## Tafsir Ibn Kathir
 

@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when your Lord called Musa (saying): "Go to the people who are wrongdoers. Request for favourable conditions for obedience is not tantamount to making excuses He (Musa) said, "My Lord, I fear they will belie me.
+But the word is also used for 'unawareness' (which includes unintentional mistakes) It is this meaning that is intended here.
 
 ## Tafsir Ibn Kathir
 

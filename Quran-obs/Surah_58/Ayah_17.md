@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you not seen those who take as friends a people upon whom is the wrath of Allah? Chastising the Hypocrites for their Secret Alliance with the Jews أَلَمْ تَرَ‌ إِلَى الَّذِينَ تَوَلَّوْا قَوْمًا غَضِبَ اللَّـهُ عَلَيْهِم (Have you not seen those who have friendship with a people with whom Allah is angry?
+In contra-distinction to Muwalah [ intimate friendship ], there is a concept of Muwalah which refers to the relationship based on sympathy, kindness and concern.
 
 ## Tafsir Ibn Kathir
 

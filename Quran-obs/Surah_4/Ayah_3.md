@@ -131,7 +131,7 @@ There is a narration in Sahih al-Bukhari from Sayyidah ` A'ishah ؓ which report
 
 ## Tafsir Summary
 
-And give unto orphans their property and do not exchange (your) bad things for (their) good ones; and devour not their substance (by adding it) to your substance. In the previous verse, guardians were warned against pilferage or misappropriation in the property of orphans.
+So, the Holy Qur'an has very clearly declared that every excuse, device or stratagem set up to usurp the property of the orphan is impermissible.
 
 ## Tafsir Ibn Kathir
 

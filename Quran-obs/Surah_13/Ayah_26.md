@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah increases the provision for whom He wills, and straitens (it for whom He wills), and they rejoice in the life of the world, whereas the life of this world compared to the Hereafter is but a brief passing enjoyment… At the beginning of the section, human beings were divided into two kinds - those who are obedient to Allah Ta’ ala and those who are disobedient to Him.
+Allah increases the provision for whom He wills, and straitens (it for whom He wills), and they rejoice in the life of the world, whereas the life of this world compared to the Hereafter is but a brief passing enjoyment .
 
 ## Tafsir Ibn Kathir
 

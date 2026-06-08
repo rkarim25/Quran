@@ -128,7 +128,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then there came to him one of them, walking shyly. Two important conditions for hiring a person, and assigning a job Allah Ta` ala made the daughter of Sayyidna Shu'aib (علیہ السلام) say something of great wisdom.
+But in a later ruling by the scholars it is elaborated that though it is against the honour and dignity of husband to serve his wife in lieu of mahr (dower), but any duty performed outside the house, such as grazing of cattle or trading, can be made a substitute for it, provided a time frame is agreed upon before hand, as was in the case of Sayyidna Musa, where the parties had agreed before hand on eight years period of service.
 
 ## Tafsir Ibn Kathir
 

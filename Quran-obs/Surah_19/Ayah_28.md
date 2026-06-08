@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then she brought him to her people, carrying him. يَا أُخْتَ هَارُ‌ونَ (0 sister of Harun - 19:28).
+Your father was not a man who used to commit adultery, nor your mother was an unchaste woman.
 
 ## Tafsir Ibn Kathir
 

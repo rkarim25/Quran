@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The people of Nuh denied the Messengers (105)When their brother Nuh said to them: "Will you not have Taqwa? And I do not claim from you any reward for it.
+I convey the Messages of my Lord to you, and I do not add anything to them or take anything away from them.
 
 ## Tafsir Ibn Kathir
 

@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And it is Allah Who sends the winds, so that they raise up the clouds, and We drive them to a dead land, and revive therewith the earth after its death. Imam al-Baghawi has reported on the authority of Sayyidna ` Abdullah Ibn ` Abbas ؓ that the verse: فَإِنَّ اللَّـهَ يُضِلُّ مَن يَشَاءُ وَيَهْدِي مَن يَشَاءُ (The fact, therefore, is that Allah lets go astray whomsoever…
+And no aged man is granted a length of life nor is a part cut off from his life, but is in a Book.
 
 ## Tafsir Ibn Kathir
 

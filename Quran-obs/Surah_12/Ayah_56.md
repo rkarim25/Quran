@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Thus did We give full authority to Yusuf in the land, to take possession therein, when or where he likes. The Objective of Sayyidna Yusuf (علیہ السلام) was to Establish the Din of Allah.
+We bestow of Our mercy on whom We will, and We make not to be lost the reward of the good doers (56)And verily, the reward of the Hereafter is better for those who believed and had Taqwa .
 
 ## Tafsir Ibn Kathir
 

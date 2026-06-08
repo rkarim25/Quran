@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-We said: "Get down all of you from this place (the Paradise), then whenever there comes to you Hudan (guidance) from Me, and whoever follows My guidance, there shall be no fear on them, nor shall they grieve (38)But those who disbelieve and belie Our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) ـ such are the dwellers of the Fire. Descension of Adam was not a punishment That is why the command for Adam (علیہ السلام) to go down to the earth was not withdrawn even when he had been pardoned: only the mode was now altered.
+They shall abide therein forever), meaning, they will remain in Hell for eternity and will not find a way out of it. The 'friends of Allah' do not have to grieve, because they annihilated their own desires and their very will in submitting themselves totally to the will of Allah.
 
 ## Tafsir Ibn Kathir
 

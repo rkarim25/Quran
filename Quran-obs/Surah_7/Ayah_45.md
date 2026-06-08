@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the dwellers of Paradise will call out to the dwellers of the Fire (saying): "We have indeed found true what our Lord had promised us; have you also found true what your Lord promised (warned)?" They shall say: "Yes." Then a crier will proclaim between them: "The curse of Allah is on the wrongdoers. The third verse (42) mentions those who dutifully follow Divine injunctions as they are the people of Paradise and there they shall live forever.
+They sought to make Allah's path appear crooked and winding, so that no one would follow it.
 
 ## Tafsir Ibn Kathir
 

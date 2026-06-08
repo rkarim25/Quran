@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then [Musa] threw his staff and behold! Thereafter, the verse (7:108) said, وَنَزَعَ يَدَهُ فَإِذَا هِيَ بَيْضَاءُ لِلنَّاظِرِ‌ينَ 'And he drew out his hand, and it was white light to the onlookers.' The Arabic word: نَزع naza` a signifies extracting something from another thing with force.
+it was white (with radiance) for the beholders.) Musa took his hand out of his cloak after he inserted his hand in it and it was shining, not because of leprosy or sickness. it was a [Thu'ban] serpent, manifest (107)And he drew out his hand, and behold!
 
 ## Tafsir Ibn Kathir
 

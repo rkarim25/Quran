@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Hadid Imam Ahmad recorded that 'Irbad bin Sariyah said that the Messenger of Allah ﷺ used to recite Al-Musabbihat before he went to sleep, saying, Some of the Merits of Surah Al-Hadid It is recorded in Abu Dawud, Tirmidhi and Nasa'i that Sayyidna ` Irbad Ibn Sariyah ؓ said that the Messenger of Allah ﷺ used to recite Al-Musabbihat before he went to sleep and said: "In them there is a verse that is more meritorious than a thousand verses." The collective name of the series Al-Musabbihat refers to the following five Surahs: [ 1] Al-Hadid; [ 2] Al-Hashar; [ 3] As-Saff; [ 4] Jumu'ah; and [ 5] At-Taghabun.
+It is He Who gives life and causes death; and He is Able to do all things.)(3.
 
 ## Tafsir Ibn Kathir
 

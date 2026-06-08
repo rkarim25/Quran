@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He (Fir'awn) said: "Have you come to drive us out of our land with your magic, O Musa? By words مَكَانًا سُوًى(at an even place) in verse 58 the Pharaoh proposed that the contest between Sayyidna Musa (علیہ السلام) and his own magicians should be held at a place which should, as far as possible, be within easy access of the Egyptians, Sayyidna Musa (علیہ السلام) and the Bani Isra'il.
+I say that Allah destroyed Fir'awn and his armies on a day similar to this, just as is confirmed in the Sahih.
 
 ## Tafsir Ibn Kathir
 

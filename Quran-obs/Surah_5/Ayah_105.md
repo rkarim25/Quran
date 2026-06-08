@@ -90,7 +90,7 @@ These words of the verse, if looked at outwardly, sometimes are taken in the sen
 
 ## Tafsir Summary
 
-O you who believe! The Criterion of Leadership This sentence of the Qur'an gives two clear criterions of choosing a leader.
+The return of you all is to Allah, then He will inform you about (all) that you used to do .
 
 ## Tafsir Ibn Kathir
 

@@ -134,7 +134,7 @@ After having concluded the argument concerning Books revealed by Allah Ta` ala a
 
 ## Tafsir Summary
 
-And who can be more unjust than he who invents a lie against Allah, or says: "I have received inspiration," whereas he is not inspired in anything; and who says, "I will reveal the like of what Allah has revealed." And if you could but see when the wrongdoers are in the agonies of death, while the angels are stretching forth their hands (saying): "Deliver your souls! After having concluded the argument concerning Books revealed by Allah Ta` ala against deniers, it was said in the third verse (92): وَهَـٰذَا كِتَابٌ أَنزَلْنَاهُ مُبَارَ‌كٌ مُّصَدِّقُ الَّذِي بَيْنَ يَدَيْهِ وَلِتُنذِر…
+We see not with you your intercessors whom you claimed to be your partners. This day you shall be recompensed with the torment of degradation because of what you used to utter against Allah other than the truth.
 
 ## Tafsir Ibn Kathir
 

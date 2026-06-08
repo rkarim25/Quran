@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And thus We have sent it down as a Qur'an in Arabic, and have explained therein in detail the warnings, in order that they may have Taqwa, or that it may cause them to have a lesson from it (113)Then High above all be Allah, the True King. وَلَا تَعْجَلْ بِالْقُرْ‌آنِ مِن قَبْلِ أَن يُقْضَىٰ إِلَيْكَ وَحْيُهُ (And do not hasten with (reciting) the Qur'an before its revelation is concluded - 20: 114.) It has been stated in Sahih Hadith on the authority of Sayyidna Ibn ` Abbas ؓ that in the early days of revelation when angel Jibra'il (علیہ السلام) brought a Qur’ anic verse and recited it to the Holy Prophet ﷺ ، the latter would try to repeat i…
+Likewise, His threat is true, His Messengers are true, the Paradise is true, the Hellfire is true and everything from Him is true.
 
 ## Tafsir Ibn Kathir
 

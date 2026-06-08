@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But when there comes the Greatest Catastroph (34)The Day when man shall remember what he strove for (35)And Hell shall be made apparent for whoever sees (36)Then for him who transgresse (37)And preferred the life of this… Thereafter, the special marks of the inmates of Paradise are described.
+To your Lord it is limited.) meaning, its knowledge is not with you, nor with any creature.
 
 ## Tafsir Ibn Kathir
 

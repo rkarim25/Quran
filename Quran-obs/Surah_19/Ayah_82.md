@@ -32,7 +32,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they have taken gods besides Allah, that they might give them honor, power and glory (81)Nay, but they will deny their worship of them, and will become their adversaries (82)See you not that We have sent the Shayatin… "And they will be just the opposite for them" - 19:82.
+And they have taken gods besides Allah, that they might give them honor, power and glory (81)Nay, but they will deny their worship of them, and will become their adversaries (82)See you not that We have sent the Shayatin against the disbelievers to push them to do evil (83)So make no haste against them; We only count out to them a (limited) number .
 
 ## Tafsir Ibn Kathir
 

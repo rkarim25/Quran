@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Thamud (people We sent) their brother Salih. After that, the next eight verses (61-68) carry the story of Sayyidna Salih peace be upon him.
+He brought you forth from the earth and settled you therein, then ask forgiveness of Him and turn to Him in repentance. And to Thamud (people We sent) their brother Salih.
 
 ## Tafsir Ibn Kathir
 

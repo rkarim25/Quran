@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) the Day that the enemies of Allah will be gathered to the Fire, then they will be driven (19)Till, when they reach it, their hearing (ears) and their eyes and their skins will testify against them as to what they used to do (20)And they will say to their skins, "Why do you testify against us?" They will say: "Allah has caused us to speak - as He causes all things to speak, and He created you the first time, and to Him you are made to return.
+So you should do some good deed before I come to an end, in order that I may give evidence, because once I am gone, you will never find me again.
 
 ## Tafsir Ibn Kathir
 

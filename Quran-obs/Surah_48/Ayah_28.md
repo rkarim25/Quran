@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed Allah shall fulfill the true vision which He showed to His Messenger in very truth. هُوَ الَّذِي أَرْ‌سَلَ رَ‌سُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ (He is the One who has sent His Messenger ﷺ with Guidance and the religion of truth, so that He makes it prevail over all religions....48:28).
+And All-Sufficient is Allah as a Witness .
 
 ## Tafsir Ibn Kathir
 

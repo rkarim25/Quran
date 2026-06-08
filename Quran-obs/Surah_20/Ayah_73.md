@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Fir'awn) said: "Believe you in him before I give you permission? وَمَا أَكْرَ‌هْتَنَا عَلَيْهِ مِنَ السِّحْرِ‌ (And the magic you had compelled us on - 20:73).
+The magicians now accused the Pharaoh of having forced them to practice magic else they would not have taken it up. How, then, could they justify their accusation that the Pharaoh had forced them to practice magic?
 
 ## Tafsir Ibn Kathir
 

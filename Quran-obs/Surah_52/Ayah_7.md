@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat At-Tur Malik narrated that Jubayr bin Mut'im said, "I heard the Prophet ﷺ reciting Surat At-Tur while praying Maghrib. إِنَّ عَذَابَ رَ‌بِّكَ لَوَاقِعٌ مَّا لَهُ مِن دَافِعٍ (the punishment of your Lord is sure to fall.
+When he recited verses [ 7] and [ 81: 'The punishment of your Lord is sure to fall.
 
 ## Tafsir Ibn Kathir
 

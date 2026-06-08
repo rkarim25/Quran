@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Truly, Allah has given you victory on many battlefields, and on the day of Hunayn (battle) when you rejoiced at your great number, but it availed you naught and the earth, vast as it is, was straitened for you, then you turned back in flight (25)Then Allah did send down His Sakinah (tranquillity) on His Messenger, and on the believers, and sent down forces (angels) which you saw not, and punished the disbelievers. : ثُمَّ يَتُوبُ اللَّـهُ مِن بَعْدِ ذَٰلِكَ (Yet Allah relents, after that, to whomsoever He wills).
+Such is the recompense of disbelievers (26)Then after that Allah will accept the repentance of whom He wills.
 
 ## Tafsir Ibn Kathir
 

@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O Musa! فَأَوْجَسَ فِي نَفْسِهِ خِيفَةً مُّوسَىٰ (So Musa concealed some fear in his heart - 20:67.).
+Therefore, when this happened, they fell down into prostration to Allah.
 
 ## Tafsir Ibn Kathir
 

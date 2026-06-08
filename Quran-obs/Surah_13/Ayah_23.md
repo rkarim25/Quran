@@ -70,7 +70,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who fulfill, the covenant of Allah and break not the trust (20)And those who join that which Allah has commanded to be joined and fear their Lord, and dread the terrible reckoning (21)And those who remain patient,… Onwards from this point there comes the description of the same 'ultimate abode' when it is said that these shall be eternal gardens they shall enter.
+One of them would die while his need is still in his chest, because he was unable to satisfy it himself.
 
 ## Tafsir Ibn Kathir
 

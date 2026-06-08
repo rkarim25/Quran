@@ -70,7 +70,7 @@ Sa'id bin Jubayr, As-Suddi and others said that these Ayat were revealed concern
 
 ## Tafsir Summary
 
-Verily, you will find the strongest among men in enmity to the believers the Jews and those who commit Shirk, and you will find the nearest in love to the believers those who say: "We are Christians." That is because among them are priests and monks, and they are not proud (82)And when they listen to what has been sent down to the Messenger, you see their eyes overflowing with tears because of the truth they have recognized. Mentioned earlier was the friendliness of Jews with disbelievers.
+Such is the reward of good-doers (85)But those who disbelieved and belied Our Ayat, they shall be the dwellers of Hell .
 
 ## Tafsir Ibn Kathir
 

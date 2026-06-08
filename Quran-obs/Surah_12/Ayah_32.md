@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And women in the city said: "The wife of the 'Aziz is seeking to seduce her (slave) young man, indeed she loves him violently; verily, we see her in plain error. ` She [ Zulaikha ] said: 'So, [ see ] this is the one you blamed me for.
+And now if he refuses to obey my order, he shall certainly be cast into prison, and will be one of those who are disgraced.
 
 ## Tafsir Ibn Kathir
 

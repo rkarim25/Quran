@@ -90,7 +90,7 @@ They took the warning to their hearts. They knew this was a slip caused by شی�
 
 ## Tafsir Summary
 
-Say: "O People of the Scripture (Jews and Christians)! Several verses earlier, the text was dealing with the people of the Book, their false beliefs and their doubts.
+Why do you reject the Ayat of Allah, while Allah is Witness to what you do?
 
 ## Tafsir Ibn Kathir
 

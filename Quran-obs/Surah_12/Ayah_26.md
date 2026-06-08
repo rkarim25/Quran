@@ -85,7 +85,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So they raced with one another to the door, and she tore his shirt from the back. Sayyidna Yusuf (علیہ السلام) ، because of his prophetic gentleness, may not have, perhaps, disclosed her secret.
+So, when the direction was followed, it was observed that the shirt was torn up from the back. The 'Aziz was an easy man, or gave excuse to his wife because she saw in Yusuf an appeal she could not resist.
 
 ## Tafsir Ibn Kathir
 

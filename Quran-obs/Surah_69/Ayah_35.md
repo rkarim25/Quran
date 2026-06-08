@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But as for him who will be given his Record in his left hand, will say: "I wish that I had not been given my Record!") (25)"And that I had never known how my account is! فَلَيْسَ لَهُ الْيَوْمَ هَاهُنَا حَمِيمٌ وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ (So, he has no friend here today, nor any food except from that which flows from wounds when washing...69:35-36].
+None will eat it except the Khati'un.) meaning, there is no one today who can save him from the punishment of Allah, nor any close friend or intercessor whose request would be honored. The verses signify that on the Day of Resurrection he will have no friend that will support him or save him from punishment, nor will he have anything to eat except the filthy water with which pus exuding from the wound of the inmates of Hell might have been washed.
 
 ## Tafsir Ibn Kathir
 

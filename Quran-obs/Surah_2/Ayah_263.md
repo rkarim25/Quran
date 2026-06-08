@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who spend their wealth in the cause of Allah, and do not follow up their gifts with reminders of their generosity or with injury, their reward is with their Lord. In the third verse: قَوْلٌ مَّعْرُ‌وفٌ (saying something proper), these two conditions for acceptance of charitable gifts in the sight of Allah have been further explained.
+To Remind About Charity Given is Forbidden Allah praises those who spend from their money in His cause, and then refrain from reminding those who received the charity of that fact, whether these hints take the form of words or actions.
 
 ## Tafsir Ibn Kathir
 

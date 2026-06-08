@@ -10,7 +10,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. An overview of the Surah shows that most of the subjects it deals with are related to Ma` ad (Return to the Hereafter) and Risalah (Prophethood).
+Little do you remember!) We mentioned before the explanation of the letters [such as, Alif-Lam, that are in the beginning of some Surahs in the Qur'an].
 
 ## Tafsir Ibn Kathir
 

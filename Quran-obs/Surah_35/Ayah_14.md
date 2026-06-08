@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He merges the night into the day, and He merges the day into the night. In the last verse: إِن تَدْعُوهُمْ لَا يَسْمَعُوا دُعَاءَكُمْ وَلَوْ سَمِعُوا مَا اسْتَجَابُوا لَكُمْ (If you call them, they do not hear your call, and even if they were to hear, they would not respond to you.
+And none can inform you like Him Who is the All-Knower .
 
 ## Tafsir Ibn Kathir
 

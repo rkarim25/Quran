@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say to those who have disbelieved, if they cease, their past will be forgiven. Appearing once again in verse 38, there is a patronizing address to disbelievers - which carries the elements of persuasion and warning both.
+But if they return (thereto), then the examples of those (punished) before them have already preceded (as a warning)(38)And fight them until there is no more Fitnah, and the religion (worship) will all be for Allah alone.
 
 ## Tafsir Ibn Kathir
 

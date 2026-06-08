@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And thus We have sent down the Book to you, and those whom We gave the Scripture believe therein as also do some of these and none but the disbelievers reject Our Ayat (47)Neither did you read any book before it nor did you write any book with your right hand. The status of the narrations of the People of the Book quoted by the commentators in their commentaries is also the same.
+It is a fairly common idiom spoken quite widely that if someone gets something written by an ascribe, the writing is attributed to the former, even though he has not written it himself.
 
 ## Tafsir Ibn Kathir
 

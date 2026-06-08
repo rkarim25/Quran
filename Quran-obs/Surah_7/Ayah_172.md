@@ -117,7 +117,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when your Lord brought forth from the Children of Adam, from their loins, their seed and made them testify as to themselves (saying): "Am I not your Lord?" They said: "Yes! The covenant of Alust: عہد الست These two verses describe the event of the great heavenly covenant which the Creator, Allah, made with all His created being even before they took the form of their existence.
+The Covenant taken from the Descendants of Adam Allah stated that He brought the descendants of Adam out of their fathers' loins, and they testified against themselves that Allah is their Lord and King and that there is no deity worthy of worship except Him.
 
 ## Tafsir Ibn Kathir
 

@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Every person is a pledge for what he has earned (38)Except those on the Right (39)In Gardens they will ask one another (40)About criminals (and they will say to them)(41)"What has caused you to enter Hell? فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِيْنَ (So what has happened to them that they are turning away from the Reminder...
+Towards the end, the verse 54 has explained that the 'Reminder' is the Holy Qur'an that is rejected by them.
 
 ## Tafsir Ibn Kathir
 

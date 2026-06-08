@@ -11,6 +11,11 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from md_io import read_ayah
+from tafsir_summary import MAX_TAFSIR_SUMMARY_CHARS, build_educational_summary
+
 API_ROOT = "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir"
 QURAN_API = "https://api.quran.com/api/v4"
 USER_AGENT = "QuranProject/1.0 (Obsidian vault enrichment)"
@@ -35,7 +40,6 @@ HEADINGS = (
 
 MAX_SUMMARY_EXCERPT_CHARS = 500
 MAX_CONTEXT_CHARS = 1800
-MAX_TAFSIR_SUMMARY_CHARS = 650
 ROOT = Path(__file__).resolve().parent.parent / "Quran-obs"
 PERSONAL_REFLECTIONS = "## Personal Reflections"
 
@@ -196,25 +200,23 @@ def _first_sentence(text: str) -> str:
     return match.group(0).strip() if match else _truncate_at_sentence(text, 220)
 
 
-def combine_tafsir_summary(ibn_text: str, maarif_text: str) -> str:
-    ibn_sentence = _first_sentence(summarize_tafsir(ibn_text, 500))
-    maarif_sentence = _first_sentence(summarize_tafsir(maarif_text, 500))
-
-    parts: list[str] = []
-    if ibn_sentence:
-        parts.append(ibn_sentence)
-    if maarif_sentence:
-        normalized_ibn = re.sub(r"[^a-z0-9 ]", "", ibn_sentence.lower())
-        normalized_maarif = re.sub(r"[^a-z0-9 ]", "", maarif_sentence.lower())
-        if not normalized_ibn or normalized_maarif[:80] not in normalized_ibn:
-            parts.append(maarif_sentence)
-
-    if not parts:
-        fallback = summarize_tafsir(f"{ibn_text}\n\n{maarif_text}", MAX_TAFSIR_SUMMARY_CHARS)
-        return fallback
-
-    summary = " ".join(parts)
-    return _truncate_at_sentence(summary, MAX_TAFSIR_SUMMARY_CHARS)
+def combine_tafsir_summary(
+    ibn_text: str,
+    maarif_text: str,
+    *,
+    ayah: int = 1,
+    translation: str = "",
+    word_by_word: dict | None = None,
+    verses_count: int = 1,
+) -> str:
+    return build_educational_summary(
+        ibn_text,
+        maarif_text,
+        ayah=ayah,
+        translation=translation,
+        word_by_word=word_by_word,
+        verses_count=verses_count,
+    )
 
 
 def extract_revelation_paragraphs(*texts: str, limit: int = 3) -> list[str]:
@@ -407,6 +409,7 @@ def needs_update(existing: str, surah: int, ayah: int, ibn_full: str, maarif_ful
 
 def main() -> int:
     force = "--force" in sys.argv
+    summaries_only = "--summaries-only" in sys.argv
     updated = 0
     skipped = 0
     missing = 0
@@ -437,7 +440,7 @@ def main() -> int:
                 errors.append(f"Missing file: {filepath.relative_to(ROOT)}")
                 continue
 
-            if not force:
+            if not force and not summaries_only:
                 existing = filepath.read_text(encoding="utf-8")
                 if not needs_update(existing, surah, ayah, ibn_by_ayah.get(ayah, ""), maarif_by_ayah.get(ayah, "")):
                     skipped += 1
@@ -446,8 +449,30 @@ def main() -> int:
             ibn_full = ibn_by_ayah.get(ayah, "")
             maarif_full = maarif_by_ayah.get(ayah, "")
 
+            ayah_data = read_ayah(filepath)
+            tafsir_summary = combine_tafsir_summary(
+                ibn_full or ayah_data.get("tafsir_ibn_kathir", ""),
+                maarif_full or ayah_data.get("maarif_ul_quran", ""),
+                surah=surah,
+                ayah=ayah,
+                translation=ayah_data.get("translation", ""),
+                word_by_word=ayah_data.get("word_by_word"),
+                verses_count=chapter["verses_count"],
+            )
+
+            if summaries_only:
+                content = filepath.read_text(encoding="utf-8")
+                from regenerate_summaries import replace_summary_section
+
+                new_content = replace_summary_section(content, tafsir_summary)
+                if new_content != content:
+                    filepath.write_text(new_content, encoding="utf-8")
+                    updated += 1
+                else:
+                    skipped += 1
+                continue
+
             context = build_context(surah, ayah, chapter, chapter_info, ibn_full, maarif_full)
-            tafsir_summary = combine_tafsir_summary(ibn_full, maarif_full)
             ibn_text = maybe_add_continuation_note(surah, ayah, format_full_tafsir(ibn_full))
             maarif_text = format_full_tafsir(maarif_full)
 

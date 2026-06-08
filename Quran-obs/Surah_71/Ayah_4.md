@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. يَغْفِرْ‌ لَكُم مِّن ذُنُوبِكُمْ and Allah will forgive you your sins, 71:4).
+If it is taken in that sense here, it would signify that by embracing the faith only those sins would be forgiven which pertains to the Divine rights because violation of human rights would be forgiven only when the believer fulfills the human rights which he has violated [ such as pecuniary obligations ] and if they cannot be fulfilled [ such as hurting somebody physically or verbally ], then the person who has been so hurt must first be requested to forgive.
 
 ## Tafsir Ibn Kathir
 

@@ -72,7 +72,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And O Adam! The story of Sayyidna 'Adam (علیہ السلام) and Iblis mentioned in the present verses has appeared in the fourth section of Surah Al-Baqarah.
+Shaytan's Deceit with Adam and Hawwa' and Their eating from the Forbidden Tree Allah states that He allowed Adam and his wife to dwell in Paradise and to eat from all of its fruits, except one tree.
 
 ## Tafsir Ibn Kathir
 

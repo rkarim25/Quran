@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The phrase رِ‌يحٍ صَرْ‌صَرٍ‌ (rihin sarsarin) (in verse 6) refers to a violent windstorm which is also severely cold.
+As for Thamud, they were destroyed by the Taghiyah!)(6. And as for 'Ad, they were destroyed by a wind, Sarsar 'Atiyah!)(7.
 
 ## Tafsir Ibn Kathir
 

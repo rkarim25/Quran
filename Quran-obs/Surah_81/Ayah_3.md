@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-What has been narrated about This Surah Imam Ahmad recorded from Ibn 'Umar that the Messenger of Allah ﷺ said, وَإِذَا النُّجُومُ انكَدَرَ‌تْ (and when the stars will swoop down...81:2).
+And when the heaven is Kushitat;)(12.
 
 ## Tafsir Ibn Kathir
 

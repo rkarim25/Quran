@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: O my Lord! (Did you not see how Allah has created seven heavens one upon another, and has made the moon a light therein?
+The prepositional phrase in the verse apparently indicates that the moon is placed in the body of the heavens.
 
 ## Tafsir Ibn Kathir
 

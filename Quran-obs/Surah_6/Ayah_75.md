@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Ibrahim said to his father Azar: "Do you take idols as gods? First, it was idol worship.
+In the first case with his father, Ibrahim explained to his people their error in worshipping the idols of earth, which they made in the shape of heavenly angels, so that they intercede on their behalf with the Glorious Creator.
 
 ## Tafsir Ibn Kathir
 

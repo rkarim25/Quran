@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) Dawud and Sulayman, when they gave judgement in the case of the field in which the sheep of certain people had Nafashat; and We were witness to their judgement (78)And We made Sulayman to understand (the case); and to each of them We gave wisdom (Hukm) and knowledge. وَلِسُلَيْمَانَ الرِّ‌يحَ عَاصِفَةً (And for Sulayman [ We subjugated ] the violent wind - 21:81) This sentence is a continuation of an earlier verse وَسَخَّرْ‌نَا مَعَ دَاوُودَ (And with Dawad We subjugated - 21:79).
+Are you then grateful (80)And to Sulayman (We subjected) the wind strongly raging, running by his command towards the land which We had blessed.
 
 ## Tafsir Ibn Kathir
 

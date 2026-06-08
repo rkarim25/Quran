@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or have We given them any Book before this (the Qur'an) to which they are holding fast (21)Nay! أَوَمَن يُنَشَّأُ فِي الْحِلْيَةِ (Is it that (Allah has chosen) those (as His offspring) who are grown up in ornaments,...
+They say: "we found our fathers following a certain way and religion (Ummah), and we guide ourselves by their footsteps.") meaning, they have no grounds for their belief in idolatry apart from the fact that they are imitating their fathers and forefathers who were following a certain Ummah or way, i.e., religion.
 
 ## Tafsir Ibn Kathir
 

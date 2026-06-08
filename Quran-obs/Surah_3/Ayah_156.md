@@ -158,7 +158,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! The saying of the hypocrites in verse 156 here is an extension of what was cited in verse 154 earlier: لَوْ كَانَ لَنَا مِنَ الْأَمْرِ‌ شَيْءٌ مَّا قُتِلْنَا هَاهُنَا :"If we had any say in the matter, we would have not…
+Be not like those who disbelieve and who say to their brethren when they travel through the earth or go out to fight: "If they had stayed with us, they would not have died or been killed," so that Allah may make it a cause of regret in their hearts.
 
 ## Tafsir Ibn Kathir
 

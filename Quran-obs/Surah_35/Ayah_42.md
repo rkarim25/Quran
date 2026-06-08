@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they swore by Allah their most binding oath that if a warner came to them, they would be more guided than any of the nations; yet when a warner came to them, it increased in them nothing but flight (from the truth)(42)(They took to flight because of their) arrogance in the land and their plotting of evil. In the expression: إِنَّ اللَّـهَ يُمْسِكُ السَّمَاوَاتِ (Undoubtedly, Allah holds back the heavens and the earth - 35:41), the 'holding' of the heavens or the skies does not mean that their movement was stopped.
+And they swore by Allah their most binding oath that if a warner came to them, they would be more guided than any of the nations; yet when a warner came to them, it increased in them nothing but flight (from the truth)(42)(They took to flight because of their) arrogance in the land and their plotting of evil.
 
 ## Tafsir Ibn Kathir
 

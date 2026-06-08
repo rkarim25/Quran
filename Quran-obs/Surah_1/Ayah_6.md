@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Guide us to the straight path (6)The way of those on whom You have granted Your grace, not (the way) of those who earned Your anger, nor of those who went astray), Allah says, 'This is for My servant, and My servant shal… The Prayer for Guidance The last three verses of the Surah consist of a prayer on the part of man.
+this is the established practice of the Four Khalifahs, as well as 'Abdullah bin Mughaffal and several scholars among the Tabi'in and later generations. It is also the Madhhab (view) of Abu Hanifah, Ath-Thawri and Ahmad bin Hanbal.
 
 ## Tafsir Ibn Kathir
 

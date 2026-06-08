@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We have given every kind of example in this Qur'an for mankind. The statement: وَكَانَ الْإِنسَانُ أَكْثَرَ‌ شَيْءٍ جَدَلًا (And man is the most quarrel-some of all things - 54) has been testified through a Hadith narrated by Sayyidna 'Anas ؓ in which the Holy Prophet ﷺ has been reported to have said, "On the day of Qiyamah, a man from among the disbelievers will be brought forth.
+Examples put forth in the Qur'an Allah says, 'In this Qur'an, We have explained to mankind and given clear details of matters so that they will not stray from the truth or be misled from the path of guidance.
 
 ## Tafsir Ibn Kathir
 

@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Affirmation of After-Life The subject-matter of Surah Adh-Dhariyat, like its predecessor Surah Qaf, is mainly the Hereafter, Resurrection, Reckoning, Judgment, and Allah's reward and punishment.
+It explains these four things as follows: The expression Dhariyat [ scatterers ] refers to the wind that blows up dust; the expression hamilat-i-wiqran literally denotes burden-bearers and contextually refers to the clouds that carry the burden of water or rain; the expression jariyat-i-yusran refers to the ships that sail smoothly and with ease in the water; and the expression muqassimat-i-amran refers to the angels who distribute to all creatures their sustenance and water,…
 
 ## Tafsir Ibn Kathir
 

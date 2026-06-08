@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when your Lord called Musa (saying): "Go to the people who are wrongdoers. Bani Isra'il were the residents of Syria.
+This is not only cruelty but also ingratitude toward those among whom you are raised to your manhood. In the first place he changed the sequence of the topics in that he brought up the case of the Egyptian first which the Pharaoh had raised latter.
 
 ## Tafsir Ibn Kathir
 

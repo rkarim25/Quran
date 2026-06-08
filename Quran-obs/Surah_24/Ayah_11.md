@@ -130,7 +130,7 @@ Then I turned my face away and lay down on my bed. By Allah, at that point I kne
 
 ## Tafsir Summary
 
-Verily, those who brought forth the slander are a group among you. Interconnection of verses As has been mentioned earlier, the major part of Surah An-Nur is in connection with those injunctions which are related with protection and security of chastity and continence.
+This is how matters remained for almost a month, until Qur'an was revealed. This is reported in Sahih Hadiths.
 
 ## Tafsir Ibn Kathir
 

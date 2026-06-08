@@ -20,7 +20,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Revelation of this Surat and its Recitation in the Maghrib Prayer Al-Bukhari recorded from 'Abdullah – that is Ibn Mas'ud – that he said, "While we were with the Messenger of Allah ﷺ in a cave at Mina, Sahih of Bukhari records from Sayyidna ` Abdullah Ibn Masud "While we were with Allah's Messenger in a cave at Mina, the Surah 'wal-Mursalat' was revealed to him.
+There is no difference of opinion here, because they (the angels) are the ones who descend with Allah's command to the Messengers, separating between the truth and falsehood, guidance and misguidance, and the lawful and the forbidden. The verse signifies 'I swear by angels who [ by bringing down revelation ] separate between truth and falsehood, right and wrong, [ and the lawful and the forbidden ] '.
 
 ## Tafsir Ibn Kathir
 

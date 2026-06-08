@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We gave knowledge to Dawud and Sulayman, and they both said: "All praise be to Allah, Who has preferred us above many of His believing servants! وَأَنْ أَعْمَلَ صَالِحًا تَرْ‌ضَاهُ (and that I do the good deeds You like - 27:19).
+Grant me the power and ability that I may be grateful for Your favors which You have bestowed on me and on my parents, and that I may do righteous good deeds that will please You, and admit me by Your mercy among Your righteous servants.
 
 ## Tafsir Ibn Kathir
 

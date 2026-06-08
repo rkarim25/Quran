@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah originates the creation, then He will repeat it, then to Him you will be returned (11)And on the Day when the Hour will be established, the criminals will be plunged into destruction with despair (12)No intercessor… فَهُمْ فِي رَ‌وْضَةٍ يُحْبَرُ‌ونَ (They will be in a garden, extremely delighted - 30:15).
+This word encompasses all types of delight, which the dwellers of paradise will draw from the bounties of Paradise.
 
 ## Tafsir Ibn Kathir
 

@@ -42,7 +42,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Surah Hud made the Prophet's Hair turn Gray Abu 'Isa At-Tirmidhi recorded from Ibn 'Abbas that Abu Bakr said, "O Messenger of Allah, verily your hair has turned gray." The Prophet ﷺ replied, In the fifth verse, the theme has been emphasized further.
+But, ultimately, once dead, man has to return to Him and He is powerful over everything.
 
 ## Tafsir Ibn Kathir
 

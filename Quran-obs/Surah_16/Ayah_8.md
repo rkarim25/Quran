@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (He has created) horses, mules and donkeys for you to ride, and as an adornment. Since mention was made of 'an am' that is, camels and oxen, it was appropriate that mention be made of quadrupeds which have been created exclusively for purposes of draft and ride.
+This refers to another category of animals that Allah has created as a blessing for His servants,horses,mules and donkeys,all of which He made for riding and adornment. And (He has created) horses, mules and donkeys for you to ride, and as an adornment.
 
 ## Tafsir Ibn Kathir
 

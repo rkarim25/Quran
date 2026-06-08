@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The parable of those who seek protectors from other than Allah is that of a spider who builds a house; but indeed, the weakest of houses is the spider's house – if they but knew (41)Verily, Allah knows what things they invoke instead of Him. وَإِنَّ أَوْهَنَ الْبُيُوتِ لَبَيْتُ الْعَنكَبُوتِ (And surely the weakest of houses is the house of the spider - 29:41).
+The parable of those who seek protectors from other than Allah is that of a spider who builds a house; but indeed, the weakest of houses is the spider's house – if they but knew (41)Verily, Allah knows what things they invoke instead of Him.
 
 ## Tafsir Ibn Kathir
 

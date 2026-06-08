@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But if they turn away, then say: "I have warned you of a Sa'iqah like the Sa'iqah which overtook 'Ad and Thamud. The basic purpose of these verses is to warn the people of Makkah that if, even after seeing the manifest proofs of the Oneness of Allah, they do not accept the call of the Holy Prophet ﷺ ، they may face a punishment like the earlier people of ` Ad and Thamud had faced.
+But surely the torment of the Hereafter will be more disgracing, and they will never be helped (16)And as for Thamud, We showed them the path of truth but they preferred blindness to guidance; so the Sa'iqah of disgracing torment seized them because of what they used to earn (17)And We saved those who believed and had Taqwa . And surely, there have passed away warners before him and after him)(46:21).
 
 ## Tafsir Ibn Kathir
 

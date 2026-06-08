@@ -108,7 +108,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The believers, men and women, are supporters of one another; they enjoin good, and forbid evil; they perform the Salah, and give the Zakah, and obey Allah and His Messenger. Previous verses mentioned hypocrites - their conspiracies, hostilities, and the punishment waiting for them.
+The believers, men and women, are supporters of one another; they enjoin good, and forbid evil; they perform the Salah, and give the Zakah, and obey Allah and His Messenger.
 
 ## Tafsir Ibn Kathir
 

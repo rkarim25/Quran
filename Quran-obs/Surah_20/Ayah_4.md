@@ -35,7 +35,7 @@ Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His M
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. إِلَّا تَذْكِرَ‌ةً لِّمَن يَخْشَىٰ (Rather to remind him who has the fear - 20:3).
+To Him belongs all that is in the heavens and all that is on the earth, and all that is between them, and all that is under the soil.)(7.
 
 ## Tafsir Ibn Kathir
 

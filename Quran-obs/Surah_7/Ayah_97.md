@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if the people of the towns had believed and had Taqwa, certainly, We should have opened for them blessings from the heaven and the earth, but they belied (the Messengers). The Arabic word بَرَکَہ :'barakah' used in this verse and translated as blessing signifies increase or growth.
+The verses 97 to 99 have warned the people of the world saying: "So, do the people of the towns feel secure from Our punishment coming upon them at night while they are asleep?" The verse implies that the residents of these towns (the people living in the time of the holy Prophet seem to be unmindful of the fact that they can be caught by the punishment of Allah any time when sleeping at night.
 
 ## Tafsir Ibn Kathir
 

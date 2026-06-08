@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَرَ‌فَعْنَا لَكَ ذِكْرَ‌كَ (and We raised high for you your name....94:4).
+Note Carefully Here three verses mention three favours that are bestowed on the Holy Prophet t: [ 1] opening of the bosom widely; [ 2] removal of the burden; and [ 3] raising of the name high.
 
 ## Tafsir Ibn Kathir
 

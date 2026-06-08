@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or do you feel secure that He will not send you back a second time to sea and send against you a Qasif and drown you because of your disbelief? (2) Secondly, he had said if he was given respite till the day of Qiyamah, he will mislead the entire progeny of 'Adam, except a few of them.
+Or do you feel secure that He will not send you back a second time to sea and send against you a Qasif and drown you because of your disbelief?
 
 ## Tafsir Ibn Kathir
 

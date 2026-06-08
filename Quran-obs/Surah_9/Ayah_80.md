@@ -115,7 +115,7 @@ Mentioned in the first verse (79) are taunts thrown at Muslims who gave away in 
 
 ## Tafsir Summary
 
-Whether you (O Muhammad ﷺ) ask forgiveness for them (hypocrites) or ask not forgiveness for them – (and even) if you ask seventy times for their forgiveness – Allah will not forgive them because they have disbelieved in Allah and His Messenger. Mentioned in the first verse (79) are taunts thrown at Muslims who gave away in charity on a voluntary basis (Nafli Sadaqat).
+Whether you (O Muhammad ﷺ) ask forgiveness for them (hypocrites) or ask not forgiveness for them – (and even) if you ask seventy times for their forgiveness – Allah will not forgive them because they have disbelieved in Allah and His Messenger. The Prohibition of asking for Forgiveness for Hypocrites Allah says to His Prophet ﷺ that hypocrites are not worthy of seeking forgiveness for them and that if he asks Allah to forgive them seventy times, Allah will not forgive them.
 
 ## Tafsir Ibn Kathir
 

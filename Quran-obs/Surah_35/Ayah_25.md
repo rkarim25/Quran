@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Not alike are the blind and the seeing (19)Nor are (depths of) darkness and light (20)Nor are the shade and the sun's heat (21)Nor are the living and the dead. At the beginning of the verse: وَمَا أَنتَ بِمُسْمِعٍ مَّن فِي الْقُبُورِ‌ (And you cannot make hear those who are in the graves - 22.), disbelievers have been likened to the dead and believers, to the living.
+Their Messengers came to them with clear signs, and with the Scriptures, and with the Book giving light (25)Then I took hold of those who disbelieved, and how terrible was My denial . Their Messengers came to them with clear signs,) means, clear miracles and definitive proofs.
 
 ## Tafsir Ibn Kathir
 

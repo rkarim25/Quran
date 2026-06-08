@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So they raced with one another to the door, and she tore his shirt from the back. Described in the previous verses was the time when the wife of the Aziz of Misr was busy enticing Sayyidna Yusuf (علیہ السلام) into sin, and he, on his part, was trying to stay away from it.
+It stands proved (from verse 26) that, should a person be accused falsely by someone, speaking out in defence is the way of the prophets (the Sunnah of the Anbiya' ).
 
 ## Tafsir Ibn Kathir
 

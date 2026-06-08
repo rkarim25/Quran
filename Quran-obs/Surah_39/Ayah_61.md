@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And on the Day of Resurrection you will see those who lied against Allah – their faces will be black. In verse 59, it was said: بَلَىٰ قَدْ جَاءَتْكَ آيَاتِي فَكَذَّبْتَ بِهَا (Why not?
+Is there not in Hell an abode for the arrogant (60)And Allah will deliver those who have Taqwa to their places of success. Evil shall touch them not, nor shall they grieve .
 
 ## Tafsir Ibn Kathir
 

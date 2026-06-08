@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Musa said to his people: "O my people! Looking at verse 22 which begins with the words: قَالُوا يَا مُوسَىٰ (They said, 0 Musa ...), it will be recalled that, in the verse previous to it (21), Allah Ta` ala had commanded the Bani Isra'il through Sayyidna Musa (علیہ السلام) that they should wage a Jihad against the Amalkites and conquer Syria given along with it was the good news that the land of Syria has been destined for them, therefore, their victory is certain.
+Instead of doing that, they said: ` 0 Musa, there is a nation of tyrants over there, and we shall never go in there until they get out of it.
 
 ## Tafsir Ibn Kathir
 

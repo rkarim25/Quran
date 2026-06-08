@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Did We not destroy the ancients (16)So shall We make later generations to follow them (17)Thus do We deal with the criminals (18)Woe that Day to the deniers (19)Did We not create you from a despised water (20)Then We pla… أَلَمْ نَجْعَلِ الْأَرْ‌ضَ كِفَاتًا أَحْيَاءً وَأَمْوَاتًا (Did We not make the earth a container that collects the living and the dead?....25, 26) The word kit is derived from kaft.
+Earth is created by Allah in a fashion that humans when alive, remain on its back, and when dead, in its belly.
 
 ## Tafsir Ibn Kathir
 

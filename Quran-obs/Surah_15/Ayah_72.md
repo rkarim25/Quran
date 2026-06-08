@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the inhabitants of the city came rejoicing (67)[Lut] said: "Verily, these are my guests, so do not shame me. A Great Honour for the Holy Prophet ﷺ About the word of Allah: لَعَمرُکَ (la'amruk : By your life), the majority of commentators, as reported in Ruh al-Ma’ ani, have said that the addressee of 'la'amruka' is the Holy Prophet ﷺ .
+Then, the cause of forbidding common people from swearing by anyone other than Allah is not present here - because, in the Word of Allah there is no probability that He would take someone from His creation to be the highest and the best.
 
 ## Tafsir Ibn Kathir
 

@@ -99,7 +99,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, give to the kindred his due, and to Al-Miskin and to the wayfarer. وَمَا آتَيْتُم مِّن رِّ‌بًا لِّيَرْ‌بُوَ فِي أَمْوَالِ النَّاسِ (And whatever Riba [ increased amount ] you give so that it may increase in the wealth of the people, - 30:39).
+Whoever gives out money in the hope that it will bring back something more, then it is not worthy of reward in the sight of Allah.
 
 ## Tafsir Ibn Kathir
 

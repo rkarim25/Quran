@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And mention the parable of the worldly life: it is like the water which We send down from the sky, and the vegetation of the earth mingles with it, and becomes fresh and green. The word: حُسبانا - (husbana) in verse 40 has been explained by Qatadah as 'punishment' in an absolute sense, by Sayyidna Ibn ` Abbas ؓ as 'fire' and by some as 'stoning.' As for what appears after that in the Qur'an: أُحِيطَ بِثَمَرِ‌هِ (And its produce was struck by destruction from all sides - 42), it obviously means that some major calamity hit his gardens, wealth and things of luxury reducing everything to ruins.
+And mention the parable of the worldly life: it is like the water which We send down from the sky, and the vegetation of the earth mingles with it, and becomes fresh and green.
 
 ## Tafsir Ibn Kathir
 

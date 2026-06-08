@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And He it is Who accepts repentance from His servants, and forgives sins, and He knows what you do (25)And He answers those who believe and do righteous good deeds, and gives them increase of His bounty. The deniers and opponents have been advised in the second verse that there is still time to give up and renounce their disbelief and ` kufr'.
+And He it is Who accepts repentance from His servants, and forgives sins, and He knows what you do (25)And He answers those who believe and do righteous good deeds, and gives them increase of His bounty.
 
 ## Tafsir Ibn Kathir
 

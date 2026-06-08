@@ -99,7 +99,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The sacred month is for the sacred month, and for the prohibited things, there is the Law of equality (Qisas). There are four 'sacred months': Dhul-Qa'dah, Dhul-Hijjah, Muharram which are consecutive and the fourth is Rajab.
+The sacred month is for the sacred month, and for the prohibited things, there is the Law of equality (Qisas).
 
 ## Tafsir Ibn Kathir
 

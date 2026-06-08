@@ -125,7 +125,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So he misled them with deception. The story of Sayyidna 'Adam (علیہ السلام) and Iblis mentioned in the present verses has appeared in the fourth section of Surah Al-Baqarah.
+Then when they tasted of the tree, that which was hidden from them of their shame (private parts) became manifest to them and they began to cover themselves with the leaves of Paradise. So he started running in fright through Paradise, but a tree in Paradise took him by the head.
 
 ## Tafsir Ibn Kathir
 

@@ -76,7 +76,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Az-Zumar An-Nasa'i recorded that 'A'ishah, may Allah be pleased with her, said, "The Messenger of Allah ﷺ used to fast until we would say, 'He does not want to break fast,' and he would not fast unti… The first sentence of verse 4: لَّوْ أَرَ‌ادَ اللَّـهُ أَن يَتَّخِذَ وَلَدًا (Had Allah opted to have a son of His own) is a refutation of the allegation of those who said that angels were the progeny of Allah.
+He is Allah, the One, the Irresistible.) means, exalted and sanctified be He above the idea that He could have any offspring, for He is the One, the Only, the Unique, the Self-Sufficient Master to Whom everything is enslaved and is in need of.
 
 ## Tafsir Ibn Kathir
 

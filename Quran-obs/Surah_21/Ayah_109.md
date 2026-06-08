@@ -66,7 +66,7 @@ Say: "It is revealed to me that your God is only one God. Will you then be Musli
 
 ## Tafsir Summary
 
-Say: "It is revealed to me that your God is only one God. وَمَا أَرْ‌سَلْنَاكَ إِلَّا رَ‌حْمَةً لِّلْعَالَمِينَ (And We have not.
+When it is understood that the invocation and worship of Allah Ta` ala is the essence of all living things, then the reason for describing the Holy Prophet ﷺ as mercy to the Worlds becomes obvious because it is his teachings and the purity of his personal life alone which keep alive the worship of Allah Ta` ala until Qiyamah.
 
 ## Tafsir Ibn Kathir
 

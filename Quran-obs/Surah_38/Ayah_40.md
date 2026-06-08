@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed, We tried Sulayman and We placed on his throne Jasad (a body), and he returned (34)He said: "My Lord! In verse 38, it was said: مُقَرَّ‌نِينَ فِي الْأَصْفَادِ (held in chains).
+He consulted with Jibril, peace be upon him, who said, "Be humble." So he chose the former because it has a greater value before Allah and brings a higher status in the Hereafter, even though the second option, prophethood combined with kingship, is also a great thing both in this world and in the Hereafter, when Allah tells us what He gave to Sulayman, peace be upon him, in this world, He tells us that he will have a great share with Allah on the Day of Resurrection.
 
 ## Tafsir Ibn Kathir
 

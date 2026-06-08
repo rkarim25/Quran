@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-March forth, whether you are light or heavy, and strive hard with your wealth and your lives in the cause of Allah. In the fourth verse (41), the command given earlier has been repeated for emphasis.
+This is better for you, if you but knew.) Allah says, this is better for you in this life and the Hereafter. You might spend small amounts, but Allah will reward you the property of your enemy in this life, as well as, the honor that He will keep for you in the Hereafter.
 
 ## Tafsir Ibn Kathir
 

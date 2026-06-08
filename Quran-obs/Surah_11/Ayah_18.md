@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And who does more wrong than he who invents a lie against Allah. The word: bayyinah (بینہ) appearing in this verse refers to the Qur'an.
+Such will be brought before their Lord, and the witnesses will say,"These are the ones who lied against their Lord!" No doubt! Those Who invent Lies against Allah and hinder Others from His Path are the Greatest Losers Allah, the Exalted, explains the condition of those who lie against Him and that their scandal in the Hereafter will be presented before the heads of creation (for testimony) from the angels, Messengers, Prophets and the rest of mankind and Jinns.
 
 ## Tafsir Ibn Kathir
 

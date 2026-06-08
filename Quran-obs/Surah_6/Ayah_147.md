@@ -64,7 +64,7 @@ Tafsir authority, Ibn Kathir, in his Tafsir and Ibn al-Arabi in Ahkam al-Qur'an 
 
 ## Tafsir Summary
 
-If they deny you say: "Your Lord is the Owner of vast mercy, and never will His wrath be turned back from the people who are criminals. Mentioned in the previous verses was how astray the disbelievers of Makkah had gone when they had taken their self-carved, lifeless, insensate idols as partners in the Divinity of Allah as they made them share in animals created by Him and in many other blessings which were bestowed on them.
+Therefore, the rule of guidance given is that one should observe moderation even when spending in the way of Allah so that all due rights can be taken care of.
 
 ## Tafsir Ibn Kathir
 

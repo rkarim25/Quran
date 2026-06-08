@@ -72,7 +72,7 @@ The restrictive particle: اَنَّمَا (innama: only) appearing in verse 115
 
 ## Tafsir Summary
 
-And for those who are Jews, We have forbidden such things as We have mentioned to you before. Nature of Prohibitions: The Correct View The restrictive particle: اَنَّمَا (innama: only) appearing in verse 115 seems to give the impression that things Haram are no more than the four mentioned in the verse.
+And for those who are Jews, We have forbidden such things as We have mentioned to you before. And We did not wrong them, but they wronged themselves (118)Then, your Lord for those who did evil out of ignorance and afterward repent and do righteous deeds - verily, after that, your Lord is Pardoning, Most Merciful .
 
 ## Tafsir Ibn Kathir
 

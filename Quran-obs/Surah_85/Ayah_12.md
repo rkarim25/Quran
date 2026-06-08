@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who believe and do righteous good deeds, for them will be Gardens under which rivers flow. إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا (Surely, those who persecuted the believing men and the believing women, then did not repent,...85:10) This verse describes the torment of the wrong-doers who burned the Muslims in the fire pit only on account of their faith.
+That is the supreme success (11)Verily, the punishment of your Lord is severe and painful (12)Verily, He it is Who begins and repeats (13)And He is Oft-Forgiving, Al-Wadud (14)Owner of the Throne, Al-Majid (the Glorious)(15)Doer of what He intends (16)Has the story reached you of the hosts (17)Of Fir'awn and Thamud (18)Nay!
 
 ## Tafsir Ibn Kathir
 

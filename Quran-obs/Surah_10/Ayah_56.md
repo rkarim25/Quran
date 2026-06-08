@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-No doubt, surely, all that is in the heavens and the earth belongs to Allah. It was said in verse أَثُمَّ إِذَا مَا وَقَعَ آمَنتُم بِهِ ۚ آلْآنَ.
+In Hadith, the Holy Prophet ﷺ has said, ` Allah Ta` ala keeps accepting the repentance of His servant until he is seized by the agony of death.' It means that believing and repenting at the time of the agony of death is not credible in the sight of Allah.
 
 ## Tafsir Ibn Kathir
 

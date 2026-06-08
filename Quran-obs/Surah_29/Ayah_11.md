@@ -32,7 +32,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Of mankind are some who say: "We believe in Allah." But if they are made to suffer for Allah, they consider the trial of mankind as Allah's punishment; and if victory comes from your Lord, they will say: "Verily, we were… (1)-It means that such people join the infidels when they apprehend some kind of torture from them, but when Allah's help will come to the Muslims in a battle against the infidels, they will pretend to be Muslims on the plea that they had joined the infidels only because they feared to be persecuted by them.
+The Attitudes of the Hypocrites and the Ways in which Allah tests People Allah mentions the descriptions of the liars who falsely claim faith with their lips, while faith is not firm in their hearts.
 
 ## Tafsir Ibn Kathir
 

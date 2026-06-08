@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who disbelieved, will not cease to be in doubt about it until the Hour comes suddenly upon them, or there comes to them the torment of Yawm 'Aqim (55)The sovereignty on that Day will be that of Allah. مِن رَّ‌سُولٍ وَلَا نَبِيٍّ (any messenger and any prophet - 22:52) This shows that the words Rasul رَّ‌سُولٍ and Nabi carry different meanings, though there is no consensus as to the precise nature of the difference.
+So those who believed and did righteous good deeds will be in Gardens of Delight (56)And those who disbelieved and denied Our Ayat, for them will be a humiliating torment (in Hell). This verse explains that the disputes raised by the disbelievers in regard to Allah's message is not something new as similar doubts were raised by earlier people as well when their prophets presented to them the message of Truth, and the Shaitan cast doubts about it in the hearts of disbelievers.
 
 ## Tafsir Ibn Kathir
 

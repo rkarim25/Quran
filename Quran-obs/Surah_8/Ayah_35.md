@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And why should not Allah punish them while they hinder (men) from Al-Masjid Al-Haram, and they are not its guardians? 3.
+Therefore taste the punishment because you used to disbelieve . None can be its guardians except those who have Taqwa, but most of them know not (34)Their Salah at the House was nothing but Muka' and Tasdiyah.
 
 ## Tafsir Ibn Kathir
 

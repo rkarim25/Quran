@@ -147,7 +147,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They say they were three, the dog being the fourth among them; and they say they were five, the dog being the sixth, guessing at the unseen; and they say they were seven, and the dog being the eighth. The verse opens with the word: سَيَقُولُونَ (sayaqulun: Some will say).Who are these people who will say?
+They say they were three, the dog being the fourth among them; and they say they were five, the dog being the sixth, guessing at the unseen; and they say they were seven, and the dog being the eighth. Therefore, while counting from three to seven, they would not use the connective To give a number after seven, they would state it separately with the help of a connective 'waw' - and for this reason, this 'waw' (and) was called the 'waw° (and) of 'thaman' (eight).
 
 ## Tafsir Ibn Kathir
 

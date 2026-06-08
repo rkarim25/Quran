@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-See they not how Allah originates the creation, then repeats it. The infidels of Makkah believed that it is Allah who has created the whole universe, but they deemed it impossible that the people will be resurrected after they once die.
+It is stated that repeating the process of creation is much easier than its origination.
 
 ## Tafsir Ibn Kathir
 

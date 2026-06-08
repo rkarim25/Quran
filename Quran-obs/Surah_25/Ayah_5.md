@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who disbelieve say: "This is nothing but a lie that he has invented, and others have helped him in it." In fact, they have produced an unjust wrong and a lie (4)And they say: "Tales of the ancients which he has written down, and they are dictated to him morning and afternoon. Special Wisdom in every creation فَقَدَّرَ‌هُ تَقْدِيرً‌ا (And designed it in a perfect measure - 25:2): Here تَقْدِير‌ (designing in a perfect measure) is mentioned after تخلِیق (Creation).
+It is known through Mutawatir reports and is a common fact that Muhammad the Messenger of Allah never learned to read or write, either at the beginning or the end of his life.
 
 ## Tafsir Ibn Kathir
 

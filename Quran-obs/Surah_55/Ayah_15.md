@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He created man from sounding clay like the clay of pottery (14)And the Jinn He created from a smokeless flame of fire (15)Then which of the blessings of your Lord will you both deny (16)The Lord of the two easts and the… وَخَلَقَ الْجَانَّ مِن مَّارِ‌جٍ مِّن نَّارٍ‌ (and created Jann [ father of the Jinns ] from a smokeless flame of fire...55:15) The word جَانَّ - jann, refers to the class of beings called jinn'.
+The major element in the creation of jinn is the smokeless flame of fire, just as the major element in the creation of man is dry sounding clay.
 
 ## Tafsir Ibn Kathir
 

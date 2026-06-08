@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who fulfill, the covenant of Allah and break not the trust (20)And those who join that which Allah has commanded to be joined and fear their Lord, and dread the terrible reckoning (21)And those who remain patient,… The third attribute of the obedient servants of Allah Ta’ ala stated here is: وَالَّذِينَ يَصِلُونَ مَا أَمَرَ‌ اللَّـهُ بِهِ أَن يُوصَلَ (and those who maintain the relations Allah has commanded to be maintained).
+So, this fear of having to face strict reckoning of deeds is the fifth attribute of righteous and obedient people.
 
 ## Tafsir Ibn Kathir
 

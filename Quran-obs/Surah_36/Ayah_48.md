@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "When will this promise be fulfilled, if you are truthful? In the previous verses, through a description of Divine manifestations of power and wisdom in the creation of the heavens and the earth, people were invited to recognize their creator and believe that He alone is worthy of worship and, on the acceptance of this invitation, a promise of everlasting blessings was made along with a warning of severe punishment on its rejection.
+The word of the next verse (46) bear witness to this elision, that is, whenever a verse or sign from their Lord comes to them, they show nothing but their aversion to it.
 
 ## Tafsir Ibn Kathir
 

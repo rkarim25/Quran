@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who do not bear witness to falsehood, and if they pass by some evil play or evil talk, they pass by it with dignity (72)And those who, when they are reminded of the Ayat of their Lord, fall not deaf and blind thereat (73)And those who say: "Our Lord! The Twelveth Characteristic And those who, when they are reminded of the verses of their Lord, do not fall at them as deaf and blind ones - 25:73
+When they hear the Words of Allah, they are not affected by them or moved to change their ways.
 
 ## Tafsir Ibn Kathir
 

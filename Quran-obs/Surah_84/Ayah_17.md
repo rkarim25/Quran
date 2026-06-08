@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But no! فَلَا أُقْسِمُ بِالشَّفَقِ وَاللَّيْلِ وَمَا وَسَقَ وَالْقَمَرِ إِذَا اتَّسَقَ (So, I swear by the twilight [ after sunset ], and by the night and what it envelops, and by the moon when it develops at the full...84:16-18…
+And when the Qur'an is recited to them, they fall not prostrate.) meaning, what prevents them from believing in Allah, His Messenger ﷺ and the Last Day, and what is wrong with them that when Allah's Ayat and His Words are recited to them they do not prostrate due to awe, respect and reverence?
 
 ## Tafsir Ibn Kathir
 

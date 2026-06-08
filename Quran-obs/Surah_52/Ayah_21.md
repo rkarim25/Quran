@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who believe and whose offspring follow them in faith, – to them shall We join their offspring, and We shall not decrease the reward of their deeds in anything. The Believing Children of the Righteous will benefit from their relationship with their Believing Parents in Paradise وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّ‌يَّتُهُم بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّ‌يَّتَهُمْ (And those who believed and their children followed them in belief, We will join their children with them,...
+And those who believe and whose offspring follow them in faith, – to them shall We join their offspring, and We shall not decrease the reward of their deeds in anything. When the offspring of the righteous believers imitate their parents regarding faith, Allah will elevate the latter to the ranks of the former, even though the latter did not perform deeds as goodly as their parents.
 
 ## Tafsir Ibn Kathir
 

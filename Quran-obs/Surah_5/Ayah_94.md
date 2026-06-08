@@ -106,7 +106,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! A report from Sayyidna Abu Hurairah ؓ appearing in the Musnad of Ahmad, quoted in Al-Lubab, says: When the Verse forbidding drinking and gambling had been revealed, some people asked the Holy Prophet ﷺ that there were many people who drank wine and lived off earnings from gambling and then died before these were forbidden.
+Then whoever transgresses thereafter, for him there is a painful torment (94)O you who believe!
 
 ## Tafsir Ibn Kathir
 

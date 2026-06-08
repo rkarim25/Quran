@@ -141,7 +141,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed, your Lord is Allah, Who created the heavens and the earth in Six Days, and then He rose over (Istawa) the Throne. Verse 54 begins with the statement that Allah has created the heavens and the earth and the planets and the stars and that they perform their functions under a firmly established system.
+The Universe was created in Six Days Allah states that He created the universe, the heavens and earth and all that is in, on and between them in six days, as He has stated in several Ayat in the Qur'an.
 
 ## Tafsir Ibn Kathir
 

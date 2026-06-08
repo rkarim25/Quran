@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when Our messengers came to Lut, he was grieved on account of them and was concerned for them. Surah Hud (علیہ السلام) carries an account of different kinds of Divine punishments sent over past peoples because of their antagonism to prophets of the time.
+And when Our messengers came to Lut, he was grieved on account of them and was concerned for them.
 
 ## Tafsir Ibn Kathir
 

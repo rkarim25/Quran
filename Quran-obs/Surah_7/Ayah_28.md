@@ -102,7 +102,7 @@ The first verse among those cited above has been revealed to identify and elimin
 
 ## Tafsir Summary
 
-And when they commit a 'Fāḥishah', they say: "We found our fathers doing it, and Allah has commanded it for us." Say: "Nay, Allah never commands 'Fāḥishah'. Before Islam, one of the many shameful and absurd customs Shaytan had made the people of ` Arab Jahiliyyah follow was that no one, other than the Quraysh, could make the Tawaf of Ka'bah in one's own clothes.
+Allah has originally created all of His servants able to recognize Him, to single Him out in worship, and know that there is no deity worthy of worship except Him.
 
 ## Tafsir Ibn Kathir
 

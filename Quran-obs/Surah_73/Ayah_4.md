@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. وَرَ‌تِّلِ الْقُرْ‌آنَ تَرْ‌تِيلًا '...and recite the Qur'an clearly with tartil (in a distinct and measured tone).
+Half of it or less than that, a little.)(4.
 
 ## Tafsir Ibn Kathir
 

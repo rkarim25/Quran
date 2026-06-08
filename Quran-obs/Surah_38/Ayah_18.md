@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-..And remember Our slave Dawud, endued with Al-Ayd. In verse 18, it was said: إِنَّا سَخَّرْ‌نَا الْجِبَالَ مَعَهُ يُسَبِّحْنَ بِالْعَشِيِّ وَالْإِشْرَ‌اقِ (We had subjugated the mountains to join him in making tasbih (i.e.
+If a bird flew by him and heard him chanting the Zabur, it would not go away; instead it would stay hovering in the air, glorifying Allah along with him. Verily, he was ever oft-returning in all matters and in repentance (17)Verily, We made the mountains to glorify Our praises with him in the 'Ashi and Ishraq (18)And (so did) the birds assembled, all obedient to him (19)We made his kingdom strong and gave him Al-Hikmah and sound judgement in speech and decision .
 
 ## Tafsir Ibn Kathir
 

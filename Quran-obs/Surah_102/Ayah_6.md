@@ -18,7 +18,7 @@ In Sahih Al-Bukhari, it is recorded in the Book of Ar-Riqaq (Narrations that sof
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 102:7] ثُمَّ لَتَرَ‌وُنَّهَا عَيْنَ الْيَقِينِ (...then you will see it with an eye of certainty.) The phrase 'ain-ul-yagin' (translated above as 'eye of certainty' ) refers to the certainty attained by physical observation, and this is the highest degree of certainty.
+If you knew with a sure knowledge.)(6. Therefore, whoever does not maintain the right that is obligatory upon him, then he is unjust.
 
 ## Tafsir Ibn Kathir
 

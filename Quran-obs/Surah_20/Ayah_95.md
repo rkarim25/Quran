@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Musa) said: "And what is the matter with you. When the Bani Isra'il were smitten with the mischief of calf-worship Sayyidna Harun (علیہ السلام) as the deputy of Sayyidna Musa (علیہ السلام) remonstrated with them but to no avail.
+He then turned to Samiri and asked him to explain his conduct in this whole affair.
 
 ## Tafsir Ibn Kathir
 

@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, you are going to taste the painful torment (38)And you will be requited nothing except for what you used to do (39)Save the chosen servants of Allah (40)For them there will be a known provision (41)Fruits; and th…
+Verily, you are going to taste the painful torment (38)And you will be requited nothing except for what you used to do (39)Save the chosen servants of Allah (40)For them there will be a known provision (41)Fruits; and they shall be honored (42)In the Gardens of Delight (43)Facing one another on thrones (44)Round them will be passed a cup of pure win (45)White, delicious to the drinkers (46)Neither will they have Ghawl from that nor will they suffer intoxication therefrom (47)…
 
 ## Tafsir Ibn Kathir
 

@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Thamud (people, We sent) their brother Salih. Other verses of the Qur'an have also mentioned: فَأَخَذَتْهُمُ الصَّيْحَةُ (that is, a Cry or Sound seized them - 15:83).
+If you are not crying, then do not enter on them, so that what befell them does not befall you, as well.) The basis of this Hadith is mentioned in Two Sahihs..
 
 ## Tafsir Ibn Kathir
 

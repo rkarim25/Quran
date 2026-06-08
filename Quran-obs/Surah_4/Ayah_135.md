@@ -162,7 +162,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! The real purpose of sending prophets and scriptures In this verse of Surah Al-Nisa', all Muslims have been instructed to uphold justice and be true when appearing as witnesses.
+However, my love for him (the Prophet ﷺ) and hatred for you shall not prevent me from being just with you." On that, they said, "This (justice) is the basis which the heavens and earth were created.
 
 ## Tafsir Ibn Kathir
 

@@ -58,7 +58,7 @@ Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur re
 
 ## Tafsir Summary
 
-Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur recorded that Sa'id bin Jubayr said, "I asked Ibn 'Abbas about Surat Al-Hashr and he said, 'It was revealed about Bani An-Nadir.'" Al-Bukhari and Muslim recorded it using another chain of narration from Ibn 'Abbas. The preceding Surah had condemned the close friendship developed by the hypocrites with the Jews.
+Whatsoever is in the heavens and whatsoever is on the earth glorifies Allah.
 
 ## Tafsir Ibn Kathir
 

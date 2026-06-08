@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Verses [ 100:9-11] وَحُصِّلَ مَا فِي الصُّدُورِ‌ ﴿10﴾ إِنَّ رَ‌بَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌ‌ ﴿11﴾ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ‌ مَا فِي الْقُبُورِ‌ ﴿9﴾ (Does he not then know [ what will happen ] when all that is contained in the graves will be overturned, and all that is contained in the hearts will be exposed.
+Surely your Lord, that day, is fully aware of them.) Divine retribution will be meted out, in the Hereafter, to each person commensurate with his deeds, good or bad, as Allah is well-aware of them.
 
 ## Tafsir Ibn Kathir
 

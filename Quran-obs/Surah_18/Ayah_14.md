@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-We narrate unto you their story with truth: Truly, they were young men who believed in their Lord (Allah), and We increased them in guidance (13)And We made their hearts firm and strong when they stood up and said: "Our Lord is the Lord of the heavens and the earth, never shall we call upon any god other than Him; if we did, we should indeed have uttered an enormity in disbelief (14)These our people have taken for worship gods other than Him. The first sentence of verse 14: وَرَ‌بَطْنَا عَلَىٰ قُلُوبِهِمْ (And We made their hearts firm) refers to the event described by Ibn Kathir a little earlier.
+It seems that they lived before the time of Christianity altogether, because if they had been Christians, the Jewish rabbis would not have cared about preserving because of their differences. When the people went out to attend this gathering, these young men went out with their fathers and their people, and when they saw their people's actions with clear insight, they realized that the prostrations and sacrifices the people were offering to their idols should only be dedicate…
 
 ## Tafsir Ibn Kathir
 

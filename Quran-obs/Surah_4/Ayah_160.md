@@ -68,7 +68,7 @@ Ibn 'Abbas said, "This Ayah was revealed concerning 'Abdullah bin Salam, Tha'lab
 
 ## Tafsir Summary
 
-For the wrongdoing of the Jews, We made unlawful for them certain good foods which had been lawful for themـand for their hindering many from Allah's way (160)And their taking of Riba though they were forbidden from taking it, and their devouring men's substance wrongfully. Mentioned earlier through several verses were the wrongdoings of Jews and the punishment they would get for doing so.
+Some Foods Were Made Unlawful for the Jews Because of their Injustice and Wrongdoing Allah states that because of the injustice and transgression of the Jews, demonstrated by committing major sins, He prohibited some of the lawful, pure things which were previously allowed for them. And verily, We are Truthful.) This means, We prohibited these things for them because they deserved it due to their transgression, injustice, defying their Messenger and disputing with him.
 
 ## Tafsir Ibn Kathir
 

@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And what is that in your right hand, O Musa? قَالَ هِيَ عَصَايَ (He said, “ It is my staff” – 20:18.
+First, he said that the staff belonged to him; second, that it served him many purposes, namely that he often reclined on it, and also beat down leaves from trees for his goats; third, that he put it to many other uses. In other words, that which is in your right hand is a stick that you are familiar with.
 
 ## Tafsir Ibn Kathir
 

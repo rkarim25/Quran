@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But as for him who will be given his Record in his left hand, will say: "I wish that I had not been given my Record!") (25)"And that I had never known how my account is! هَلَكَ عَنِّي سُلْطَانِيَهْ (My power has gone from me for good...69:29).
+The word sultan, literally, yields the sense of 'power or overpowering'.
 
 ## Tafsir Ibn Kathir
 

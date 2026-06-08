@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Nuh called upon his Lord and said, "O my Lord! In the second verse (46), came a stern response from Allah Ta` ala whereby Sayyidna Nuh (علیہ السلام) was told that this son was no more a part of his family because he was not good and right in what he did.
+Surely, he is not of your family; verily, his work is unrighteous, so ask not of Me that of which you have no knowledge!
 
 ## Tafsir Ibn Kathir
 

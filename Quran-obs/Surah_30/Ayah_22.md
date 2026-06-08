@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And among His signs is the creation of the heavens and the earth, and the difference of your languages and colors. The same way there are differences of colour and hue.
+Verily, in that are indeed signs for men of sound knowledge (22)And among His signs is your sleep by night and by day, and your seeking His bounty.
 
 ## Tafsir Ibn Kathir
 

@@ -95,7 +95,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O mankind! The word: رَّ‌حْمَةٍ (rahmah: mercy) appearing in verse 2: مَّا يَفْتَحِ اللَّـهُ لِلنَّاسِ مِن رَّ‌حْمَةٍ فَلَا مُمْسِكَ لَهَا (Whatever blessing Allah opens for the people, there is none to hold it back,) is general at this place.
+The Evidence of Tawhid Allah shows His servants that they should worship Him Alone, for just as He is Independent in His power of creation and provision, so He should be worshipped Alone with no partners or associates such as idols and false gods.
 
 ## Tafsir Ibn Kathir
 

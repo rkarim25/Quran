@@ -132,7 +132,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when Luqman said to his son when he was advising him: "O my son! صَاحِبْهُمَا فِي الدُّنْيَا مَعْرُ‌وفًا (And be with them, in this world, with due fairness - 15).
+Unto Me is the final destination (14)But if they strive with you to make you join in worship with Me others that of which you have no knowledge, then obey them not; but behave with them in the world kindly, and follow the path of him who turns to Me in repentance and in obedience. In other words, the pain you cause them by not accepting their insistence on Shirk and Kufr is something you will have to bear by, since you have no choice there.
 
 ## Tafsir Ibn Kathir
 

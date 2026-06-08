@@ -49,7 +49,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, We have tried them as We tried the People of the Garden, when they swore to pluck the fruits in the morning (17)Without (saying: "If Allah wills." (18)Then there passed over it a Ta'if from your Lord while they were asleep (19)So by the morning, it became like As-Sarim (20)Then they called out (one to another as soon) as the morning broke (21)Saying: "Go to your tilth in the morning, if you would pluck (the fruits). إِنَّا بَلَوْنَاهُمْ كَمَا بَلَوْنَا أَصْحَابَ الْجَنَّةِ (We have tested them as We had tested the Owners of the Garden....68:17).
+In other words, they swore that they would harvest very early in the morning and return with it before the throng of poor people could arrive at the garden. The description of the story given in the verses indicates that they did not only have a garden, but they also had large tracts of land which they cultivated and had fields of crops.
 
 ## Tafsir Ibn Kathir
 

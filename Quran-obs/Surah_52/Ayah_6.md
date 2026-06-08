@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat At-Tur Malik narrated that Jubayr bin Mut'im said, "I heard the Prophet ﷺ reciting Surat At-Tur while praying Maghrib. وَالْبَحْرِ‌ الْمَسْجُورِ‌ (and by the sea, filled up with fire...52:6) The word bar means sea and the passive participle masjur is derived from sajr which is used in several different senses, one of which is to kindle with fire.
+In other words, it will be kindled with fire and become a raging fire surrounding the people in the plain of hashr.
 
 ## Tafsir Ibn Kathir
 

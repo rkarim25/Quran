@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The disbelievers pretend that they will never be resurrected. فَقَالُوا أَبَشَرٌ‌ يَهْدُونَنَا (…but they said, “ Shall some mortals give us guidance?”…64:6).
+By my Lord, you will certainly be resurrected, then you will be informed of what you did; and that is easy for Allah.
 
 ## Tafsir Ibn Kathir
 

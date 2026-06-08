@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He created man from sounding clay like the clay of pottery (14)And the Jinn He created from a smokeless flame of fire (15)Then which of the blessings of your Lord will you both deny (16)The Lord of the two easts and the… Allah created Different Types of Water مَرَ‌جَ الْبَحْرَ‌يْنِ يَلْتَقِيَانِ (He has set forth the two seas that meet together...55:19).
+The word bahrain [ two seas or two types of waters ] refers to sweet and salty waters.
 
 ## Tafsir Ibn Kathir
 

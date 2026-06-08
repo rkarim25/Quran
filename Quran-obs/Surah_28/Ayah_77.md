@@ -115,7 +115,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, Qarun was of Musa's people, but he behaved arrogantly towards them. وَابْتَغِ فِيمَا آتَاكَ اللَّـهُ الدَّارَ‌ الْآخِرَ‌ةَ ۖ وَلَا تَنسَ نَصِيبَكَ مِنَ الدُّنْيَا (And seek the (betterment of) the ultimate Abode with what Allah has given to you, and do not neglect your share from this world - 28:77).
+The Muslims advised Qarun that he should try to do as much good as possible for the Hereafter by utilizing the wealth Allah Ta’ ala had given him, and 'should not forget his share in the world'. Many commentators have explained that it refers to his life in this world and the deeds that may help him in the Hereafter which include charity and all other righteous deeds.
 
 ## Tafsir Ibn Kathir
 

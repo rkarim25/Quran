@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "O My servants who have transgressed against themselves! Verse 53 opens with the words: قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَ‌فُوا (0 servants of Mine who have acted recklessly against their own selves, do not despair of Allah's mercy.
+Additionally, one must not despair of the mercy of Allah even if his sins are many and great, for the door of repentance and mercy is expansive.
 
 ## Tafsir Ibn Kathir
 

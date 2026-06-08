@@ -69,7 +69,7 @@ Al-'Awfi, 'Ikrimah and 'Ata' said that Ibn 'Abbas said, "Surat Al-An'am was reve
 
 ## Tafsir Summary
 
-The Virtue of Surat Al-An'ām and When it Was Revealed Al-'Awfi, 'Ikrimah and 'Ata' said that Ibn 'Abbas said, "Surat Al-An'am was revealed in Makkah" At-Tabarani recorded that Ibn 'Abbas said, "All of Surat Al-An'am was… Sayyidna ` Abdullah ibn ` Abbas ؓ has said that one of the distinctions of Surah Al-An'am is that the whole of it, except some 'Ayat, was revealed at one time in Makkah with the complement of seventy thousand angels following it with recitation of the name of Allah.
+By bringing in the sentence which follows immediately, which mentions the creation of the heavens and the earth and the darkness and the light, given there is the very proof of His being the Praised One.
 
 ## Tafsir Ibn Kathir
 

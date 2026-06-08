@@ -115,7 +115,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Beneficent, the Most Merciful (1. The second verse refers to a doubt expressed by the Mushriks, and provides its answer.
+Therefore, the sentence means: 0 Proph-et, give believers the good news that they will have a perfect place with their Lord, an asset that is certain and lasting. Is it a wonder for mankind that We have sent Our revelation to a man from among themselves (saying): "Warn mankind, and give good news to those who believe that they shall have with their Lord the rewards of their good deeds?" (But) the disbelievers say: "This is indeed an evident sorcerer!") The isolated letters in…
 
 ## Tafsir Ibn Kathir
 

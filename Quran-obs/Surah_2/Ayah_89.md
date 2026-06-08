@@ -116,7 +116,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when there came to them (the Jews), a Book (this Qur'an) from Allah confirming what is with them (the Tawrah) and the Injil (Gospel), although aforetime they had invoked Allah (for the coming of Muhammad ﷺ) in order to gain victory over those who disbelieved, then when there came to them that which they had recognised, they disbelieved in it. The Torah تورات had in several places foretold the coming of the Holy Prophet ﷺ .
+And when there came to them (the Jews), a Book (this Qur'an) from Allah confirming what is with them (the Tawrah) and the Injil (Gospel), although aforetime they had invoked Allah (for the coming of Muhammad ﷺ) in order to gain victory over those who disbelieved, then when there came to them that which they had recognised, they disbelieved in it.
 
 ## Tafsir Ibn Kathir
 

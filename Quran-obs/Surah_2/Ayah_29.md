@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He it is Who created for you all that is on earth. In recounting the blessings which man has received from Allah, verse 29 refers to Allah having created for man "all that the earth contains." This small phrase comprehends all kinds of benefits which accrue to him from the earth and its produce.
+So, the use of everything is essentially unlawful unless an explicit statement in the Holy Qur'an or the Hadith, or an argument based on them establishes the use of a thing as legitimate.
 
 ## Tafsir Ibn Kathir
 

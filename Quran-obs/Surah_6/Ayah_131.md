@@ -49,7 +49,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This is because your Lord would not destroy the (populations of) towns for their wrongdoing while their people were unaware (131)For all there will be degrees according to what they did. The third verse (131) tells us that sending prophets and messengers among human beings and the Jinn is based on the dictate of justice and mercy of Allah Ta` ala for He does not send punishment over a people unless they have been awakened through His blessed messengers and provided with the light of guidance.
+This is because your Lord would not destroy the (populations of) towns for their wrongdoing while their people were unaware (131)For all there will be degrees according to what they did. The third verse (131) tells us that sending prophets and messengers among human beings and the Jinn is based on the dictate of justice and mercy of Allah Ta` ala for He does not send punishment over a people unless they have been awakened through His blessed messengers and provided with the l…
 
 ## Tafsir Ibn Kathir
 

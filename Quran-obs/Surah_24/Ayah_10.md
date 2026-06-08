@@ -48,7 +48,7 @@ In both these incidents it is reported that the verses of lian were revealed for
 
 ## Tafsir Summary
 
-And for those who accuse their wives, but have no witnesses except themselves, let the testimony of one of them be four testimonies by Allah that he is one of those who speak the truth (6)And the fifth (testimony); invok… The fourth injunction is of Li'an (لِعَان : curse) among the adjuncts of fornication The meaning of لِعَان and is to curse and praying for Allah's wrath on each other.
+By Allah, he never married a woman who was not a virgin, and he never divorced a woman but none of us would dare to marry her because he is so jealous.' Sa'd said, 'By Allah, O Messenger of Allah, I know that it (the Ayah) is true and is from Allah, but I am surprised.
 
 ## Tafsir Ibn Kathir
 

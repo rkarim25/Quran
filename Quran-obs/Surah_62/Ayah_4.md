@@ -54,7 +54,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Jumu'ah Ibn 'Abbas and Abu Hurayrah narrated that Allah's Messenger ﷺ used to recite Surat Al-Jumu'ah and Surat Al-Munafiqin during the Friday Prayer. وَآخَرِ‌ينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْ وَهُوَ الْعَزِيزُ الْحَكِيمُ (...And [ this Messenger is sent also ] to others of them who did not join them so far.
+That is the grace of Allah, which He bestows on whom He wills.
 
 ## Tafsir Ibn Kathir
 

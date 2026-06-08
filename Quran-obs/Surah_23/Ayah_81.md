@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We seized them with punishment, but they humbled not themselves to their Lord, nor did they invoke with submission to Him (76)Until, when We open for them the gate of severe punishment, then lo! And We have already seized them with punishment, but they did not turn humble to their Lord, nor do they supplicate in humility.
+This is only the tales of the ancients!") This means, "It is impossible that we could be brought back.
 
 ## Tafsir Ibn Kathir
 

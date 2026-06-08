@@ -71,7 +71,7 @@ Aslam Abu 'Imran said, "A man from among the Ansar broke enemy (Byzantine) lines
 
 ## Tafsir Summary
 
-And spend in the cause of Allah and do not throw yourselves into destruction, and do good. The verse 195 introduces the tenth injunction under the theme of 'righteousness' which began in Verse 177.
+And spend in the cause of Allah and do not throw yourselves into destruction, and do good. Spending for Jihad The verse 195 introduces the tenth injunction under the theme of 'righteousness' which began in Verse 177.
 
 ## Tafsir Ibn Kathir
 

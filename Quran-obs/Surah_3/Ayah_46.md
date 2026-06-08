@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when the angels said: "O Maryam! The previous verse (44) appeared parenthetically between the present verses 45 - 46 and verses 42 - 43 and the purpose was to affirm the prophethood of Sayyidna Muhammad ﷺ .
+'Isa will be honored in the Hereafter and will intercede with Allah, by His leave, on behalf of some people, just as is the case with his brethren the mighty Messengers of Allah, peace be upon them all.
 
 ## Tafsir Ibn Kathir
 

@@ -71,7 +71,7 @@ Qatadah and As-Suddi said, "This Ayah was revealed about 'Abdullah bin Ubay. A y
 
 ## Tafsir Summary
 
-And when it is said to them: "Come, so that the Messenger of Allah may ask forgiveness from Allah for you," they twist their heads, and you would see them turning away their faces in pride (5)It is equal to them whether you ask forgiveness or ask not forgiveness for them, Allah will never forgive them. وَإِذَا قِيلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ‌ لَكُمْ رَ‌سُولُ اللَّـهِ (And when it is said to them, “ Come on, and Allah’ s Messenger will pray for your forgiveness”…63:5).
+He will not enter it until you say so." The Messenger ﷺ gave his permission to 'Abdullah bin Ubay and his son said, "Enter, now that the Messenger of Allah ﷺ gave you his permission." In his Musnad, Abu Bakr 'Abdullah bin Az-Zubayr Al-Humaydi recorded from Abu Harun Al-Madani that 'Abdullah, the son of 'Abdullah bin Ubay bin Salul, said to his father, "You will never enter Al-Madinah unless and until you say, 'Allah's Messenger ﷺ is the honorable one and I am the disgraced."…
 
 ## Tafsir Ibn Kathir
 

@@ -27,7 +27,7 @@ He said, "This Ayah was revealed while Abu Bakr was sitting (with the Prophet �
 
 ## Tafsir Summary
 
-Nay! يَوْمَئِذٍ يَتَذَكَّرُ الْإِنسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ (it will be the day when man will realise the truth, but from where will he take advantage of such realisation?
+Would that I had sent forth for my life! The unbelievers will realise the errors of their ways in the Hereafter, but it will be too late, because it is this present world where 'Imn and good deeds benefit the people.
 
 ## Tafsir Ibn Kathir
 

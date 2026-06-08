@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah will destroy Riba and will give increase for Sadaqat. Sayings Of The Holy Prophet ﷺ "Abstain from the seven disasters." The people asked him: "What are they, 0 Messenger of Allah?" He replied: "To ascribe partners to Allah, to practice sorcery, to unjustly kill one whom All…
+Allah Does Not Bless Riba Allah states that He destroys Riba, either by removing this money from those who eat it, or by depriving them of the blessing, and thus the benefit of their money.
 
 ## Tafsir Ibn Kathir
 

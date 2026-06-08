@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And has there come to you the story of Musa (9)When he saw a fire, he said to his family: "Wait! وَهَلْ أَتَاكَ حَدِيثُ مُوسَىٰ (And has there come to you the story of Musa?
+Verily, I have seen a fire; perhaps I can bring you some burning brand therefrom, or find some guidance at the fire.
 
 ## Tafsir Ibn Kathir
 

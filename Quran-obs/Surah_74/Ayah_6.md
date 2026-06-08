@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَلَا تَمْنُنْ تَسْتَكْثِرُ (...and do no favour [ to anyone merely ] to ask more [ in exchange ]....74:6).
+In other words, no gift should be given to anyone seeking to get back in return more than what was given. This indicates that it is reprehensible to give to someone a gift with the intention that the person will give him a higher gift.
 
 ## Tafsir Ibn Kathir
 

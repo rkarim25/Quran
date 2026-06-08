@@ -80,7 +80,7 @@ Ibn Abu Hatim said that Muhammad bin Al-Munkadir narrated that Jabir bin 'Abdull
 
 ## Tafsir Summary
 
-They ask you concerning menstruation. No sexual intercourse during menstruation The basic purpose of these verses is to declare the prohibition of having sexual intercourse with a woman in a state of menstruation.
+It indicates that in so far as the ultimate place (of penetration) is a 'soil' (which stands for the female vagina which is productive like a soil), one can elect whatever way he likes to reach this ultimate place. Truly, Allah loves those who turn unto Him in repentance and loves those who purify themselves (222)Your wives are a tilth for you, so go to your tilth, when or how you will, and send (good deeds, or ask Allah to bestow upon you pious offspring) for your own selves…
 
 ## Tafsir Ibn Kathir
 

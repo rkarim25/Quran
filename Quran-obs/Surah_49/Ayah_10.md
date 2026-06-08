@@ -54,7 +54,7 @@ The commentators have narrated several incidents as a background of the revelati
 
 ## Tafsir Summary
 
-And if two parties among the believers fall to fighting, then make peace between them both. In the foregoing verses the rights of the Prophet were set out.
+Martyrdom is attained only when a person is killed in obedience of Allah.
 
 ## Tafsir Ibn Kathir
 

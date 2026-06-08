@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed Iblis did prove true his thought about them, and they followed him, all except a group of true believers (20)And he had no authority over them, – except that We might test him who believes in the Hereafter, from him who is in doubt about it. Verse 19 opens with the statement: فَقَالُوا رَ‌بَّنَا بَاعِدْ بَيْنَ أَسْفَارِ‌نَا وَظَلَمُوا أَنفُسَهُمْ فَجَعَلْنَاهُمْ أَحَادِيثَ وَمَزَّقْنَاهُمْ كُلَّ مُمَزَّقٍ (Then they said," Our Lord, make (the phases of) our journeys more distant." And they wronged themselves, therefore We turned them into stories and tore them into pieces - 34:19).
+And indeed Iblis did prove true his thought about them, and they followed him, all except a group of true believers (20)And he had no authority over them, – except that We might test him who believes in the Hereafter, from him who is in doubt about it.
 
 ## Tafsir Ibn Kathir
 

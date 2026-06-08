@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have they not looked at the heaven above them, how We have made it and adorned it, and there are no Furuj in it (6)And the earth! After mentioning the confused state of the infidels, Allah draws man's attention to His infinite power which He demonstrated by creating what is bigger than that which they wondered about and whose possibility they discounted.
+Lexically, the word furuj is the plural of farj which means a crack, or an opening.
 
 ## Tafsir Ibn Kathir
 

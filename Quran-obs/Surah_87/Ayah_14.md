@@ -26,7 +26,7 @@ meaning, he purifies himself from despised characteristics and he follows what A
 
 ## Tafsir Summary
 
-Indeed whosoever purifies himself shall achieve success (14)And remembers the Name of his Lord, and performs Salah (15)Rather you prefer the life of this world (16)Although the Hereafter is better and more lasting (17)Ve… قَدْ أَفْلَحَ مَن تَزَكَّىٰ (Success is surely achieved by him who purifies himself,..87:14) The word tazakka is derived from zakah, the primitive meaning of which is 'to purify'.
+For indeed, this worldly life is lowly and temporal, whereas the Hereafter is noble and eternal.
 
 ## Tafsir Ibn Kathir
 

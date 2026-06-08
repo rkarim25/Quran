@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Day when the Shin shall be laid bare and they shall be called to prostrate themselves, but they shall not be able to do so (42)Their eyes will be cast down and ignominy will cover them; they used to be called to prostrate themselves, while they were (43)Then leave Me alone with whoever denies this narration. فَذَرْ‌نِي وَمَن يُكَذِّبُ بِهَـٰذَا الْحَدِيثِ (So, leave Me alone with those who reject this discourse.
+Here the phrase 'So, leave me alone' in the original Arabic is an idiomatic expression which signifies 'Rely on Allah'. The disbelievers often demanded Divine punishment arguing that if they are really guilty in the sight of Allah, and if He has the power to punish, then why the punishment does not befall them forthwith.
 
 ## Tafsir Ibn Kathir
 

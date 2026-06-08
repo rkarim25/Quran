@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And O my people! As part of this event, the people of Sayyidna Salih (علیہ السلام) have been reported to have said to him: قَدْ كُنتَ فِينَا مَرْ‌جُوًّا قَبْلَ هَـٰذَا ( O Salih, we had hopes in you before this - 62).
+This she-camel of Allah is a sign to you, so leave her to graze in Allah's land, and touch her not with evil, lest a near torment should seize you.
 
 ## Tafsir Ibn Kathir
 

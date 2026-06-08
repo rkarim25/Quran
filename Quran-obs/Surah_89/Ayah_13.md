@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Recitation of Surat Al-Fajr in the Prayer An-Nasa'i recorded a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ (So, your Lord unloosed on them the whip of torment....89:13).
+So, your Lord poured on them different kinds of severe torment.)(14. The punishment inflicted upon them as a result of their mischief is referred to here as a 'whip of torment'.
 
 ## Tafsir Ibn Kathir
 

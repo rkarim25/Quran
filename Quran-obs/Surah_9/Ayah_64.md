@@ -82,7 +82,7 @@ The hypocrites fear lest a Surah should be revealed about them, showing them wha
 
 ## Tafsir Summary
 
-The hypocrites fear lest a Surah should be revealed about them, showing them what is in their hearts. Announced in verse 64: إِنَّ اللَّـهَ مُخْرِ‌جٌ مَّا تَحْذَرُ‌ونَ (Allah is surely to bring out what you are afraid of) is the news that Allah will expose their conspiracy and mischief.
+The hypocrites fear lest a Surah should be revealed about them, showing them what is in their hearts.
 
 ## Tafsir Ibn Kathir
 

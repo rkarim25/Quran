@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the Dwellers of Al-Aykah, were also wrongdoers (78)So, We took vengeance on them. Aikah means a dense forest.
+Some commentators say that there was a dense forest near Madyan, therefore, Aikah is actually the title of the people of Madyan. Here, he is being asked not to grieve over their hostile opposition because there is a day when all scores will be settled, and that is the day of Judgment, and it is bound to come as he has been told.
 
 ## Tafsir Ibn Kathir
 

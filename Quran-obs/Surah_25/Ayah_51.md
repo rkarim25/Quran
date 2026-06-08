@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And had We willed, We would have raised a warner in every town (51)So obey not the disbelievers, but strive against them with the utmost endeavor with it (52)And it is He Who has let free the two seas, this is palatable and sweet, and that is salty and bitter; and He has set a barrier and a complete partition between them (53)And it is He Who has created man from water, and has appointed for him kindred by blood, and kindred by marriage. وَلَقَدْ صَرَّ‌فْنَاهُ بَيْنَهُمْ (And We have distributed it (the water) among them - 25:50).
+And had We willed, We would have raised a warner in every town (51)So obey not the disbelievers, but strive against them with the utmost endeavor with it (52)And it is He Who has let free the two seas, this is palatable and sweet, and that is salty and bitter; and He has set a barrier and a complete partition between them (53)And it is He Who has created man from water, and has appointed for him kindred by blood, and kindred by marriage.
 
 ## Tafsir Ibn Kathir
 

@@ -56,7 +56,7 @@ It has been narrated by Sayyidna Ibn ` Abbas ؓ عنہما that a group of Jews 
 
 ## Tafsir Summary
 
-But Allah bears witness to that which He has sent down unto you; He has sent it down with His knowledge, and the angels bear witness. Then comes verse رُّ‌سُلًا مُّبَشِّرِ‌ينَ وَمُنذِرِ‌ينَ (-- Messengers giving good tidings and warning...) which succinctly tells that Almighty Allah consistently sent messengers to convey good tidings to all believers and to warn all disbelievers so that there remains no room for the excuse that they did not know the will of God and His Messengers --had they known about it, they would have certainly followed it!
+But if you disbelieve, then certainly to Allah belongs all that is in the heavens and the earth.
 
 ## Tafsir Ibn Kathir
 

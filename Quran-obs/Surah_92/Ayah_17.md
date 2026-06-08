@@ -20,7 +20,7 @@ The wordings of the verse give good news, in general, to anyone who spends in Al
 
 ## Tafsir Summary
 
-Truly, on Us is (to give) guidance (12)And truly, unto Us (belong) the last (Hereafter) and the first (this world)(13)Therefore I have warned you of a Fire Talazza (14)None shall enter it save the most wretched (15)Who d… وَسَيُجَنَّبُهَا الْأَتْقَى الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّىٰ (And saved from it will be the most God-fearing one who gives his wealth [ in charity ] to become purified,....92:17-18).
+This verse describes the reward of the most God-fearing person, as opposed to the punishment of the most wretched in the preceding verse. The word atqa is the superlative form and signifies a man of taqwa, that is, the most God-fearing person, who spends his wealth in obedience of his Lord in order to purify himself from sins, will be kept far away from the fire of Hell.
 
 ## Tafsir Ibn Kathir
 

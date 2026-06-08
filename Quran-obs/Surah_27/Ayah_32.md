@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-She said: "O chiefs! Consultation in important matters is a Sunnah.
+Before asking their view on the matter, she encouraged and pleased them by declaring that she did not take decisions without consulting them.
 
 ## Tafsir Ibn Kathir
 

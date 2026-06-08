@@ -37,7 +37,7 @@ Therefore proclaim that which you commanded." Mujahid said, It is reciting the Q
 
 ## Tafsir Summary
 
-Therefore openly proclaim what you have been commanded, and turn away from the idolators (94)Truly, We will suffice you against the mockers (95)Who make another god along with Allah; but they will come to know (96)Indeed, We know that your breast becomes tight because of what they say (97)So glorify the praises of your Lord and be of those who prostrate themselves (to Him)(98)And worship your Lord until the certainty (i.e.
+It is to Him that we turn for help and it is in Him that we put our trust.
 
 ## Tafsir Ibn Kathir
 

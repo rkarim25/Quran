@@ -162,7 +162,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to (the people of) Madyan, (We sent) their brother Shu'ayb. The series of stories relating to prophets (علیہم السلام) continues.
+The punishment of the Rajfah on the people of Madyan is mentioned as Saihah (Sound) at some places, while as Rajfah (earthquake) at others.
 
 ## Tafsir Ibn Kathir
 

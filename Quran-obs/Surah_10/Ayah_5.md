@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is He Who made the sun a shining thing and the moon as a light and measured out for it stages that you might know the number of years and the reckoning. These two verses mention some signs openly visible in the universe of our experience.
+This is to avoid the terrible situation in which Muslims just know no other months but January, February etc.
 
 ## Tafsir Ibn Kathir
 

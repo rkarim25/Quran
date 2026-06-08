@@ -33,7 +33,7 @@ It is recorded in Sahih of Muslim on the authority of Sayyidna Ibn ` Abbas ؓ ،
 
 ## Tafsir Summary
 
-The Virtues of Surat An-Nasr It has been mentioned previously that it (Surat An-Nasr) is equivalent to one-fourth of the Qur'an and that Surat Az-Zalzalah is equivalent to one-fourth of the Qur'an. Name of the Surah and place of its revelation According to the consensus of scholars, this Surah was revealed in Madinah.
+The expression 'victory' here is in reference to 'the promised Victory or Conquest of Makkah'.
 
 ## Tafsir Ibn Kathir
 

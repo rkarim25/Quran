@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed if you ask them: "Who has created the heavens and the earth?" They will surely say: "The All-Mighty, the All-Knower created them. جَعَلَ لَكُمُ الْأَرْ‌ضَ مَهْدًا (has made the earth a cradle for you - 10) meaning that the comfort provided by the earth is that of a cradle; its apparent look of being a plain floor does not negate its being spherical.
+By referring to the revival of the earth, Allah draws attention to how He will bring bodies back to life on the Day of Resurrection, after they have been dead.
 
 ## Tafsir Ibn Kathir
 

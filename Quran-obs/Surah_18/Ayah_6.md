@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Perhaps, you would kill yourself in grief, over their footsteps, because they believe not in this narration (6)Verily, we have made that which is on earth an adornment for it, in order that We may test which of them are… The properties and merits of Surah al-Kahf According to a narration of Sayyidna Abu al-Darda' ؓ appearing in Muslim, Abu Dawud, Tirmidhi, al-Nasa'i and the Musnad of Ahmad, one who has memorized the first ten verses of Surah al-Kahf will remain protected from the ill effects of Dajjal (imposter).
+Perhaps, you would kill yourself in grief, over their footsteps, because they believe not in this narration (6)Verily, we have made that which is on earth an adornment for it, in order that We may test which of them are best in deeds (7)And verily, We shall make all that is on it bare, dry soil .
 
 ## Tafsir Ibn Kathir
 

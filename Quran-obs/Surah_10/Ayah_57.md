@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O mankind! Previous verses described how astray the disbelievers and polytheists had gone and what punishments had become due against them in the Hereafter.
+Of course, on top of everything, there is the miraculous diction of the Holy Qur'an that, by itself, has a class of its own in the matter of reversal of hearts.
 
 ## Tafsir Ibn Kathir
 

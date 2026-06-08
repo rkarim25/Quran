@@ -70,7 +70,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And He has subjected the night and the day for you, and the sun and the moon; and the stars are subjected by His command. Before we move to the next verse, let us clarify the first sentence of verse 12: سَخَّرَ‌ لَكُمُ اللَّيْلَ وَالنَّهَارَ‌ (And He has subjugated for you the day and the night).
+Surely, His is the creation and commandment.
 
 ## Tafsir Ibn Kathir
 

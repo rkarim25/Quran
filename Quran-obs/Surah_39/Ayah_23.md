@@ -153,7 +153,7 @@ Here Allah praises His Book, the Noble Qur'an, which was revealed to His noble M
 
 ## Tafsir Summary
 
-Allah has sent down the Best Statement, a Book, its parts resembling each other, (and) oft-repeated. Verse 23 opens with the words: اللَّـهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ كِتَابًا مُّتَشَابِهًا مَّثَانِيَ (Allah has sent down the best discourse, a book containing subjects resembling each other, mentioned again and again).
+Here, in the verse under study (23), we have been told that the whole Qur'an is 'ahsan-ul-hadith,' the best of what is said.
 
 ## Tafsir Ibn Kathir
 

@@ -66,7 +66,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We have broken them (the Jews) up into various separate groups on the earth: some of them are righteous and some are away from that. The second punishment has been mentioned in verse 168.
+And We have broken them (the Jews) up into various separate groups on the earth: some of them are righteous and some are away from that. However, when one of them would take bribes in return for judgment and was asked, 'What is the matter with you; you take a bribe to grant judgment?', he replied, 'I will be forgiven.' So the rest of his people would admonish him for what he did.
 
 ## Tafsir Ibn Kathir
 

@@ -54,7 +54,7 @@ And it was revealed to Nuh: "None of your people will believe except those who h
 
 ## Tafsir Summary
 
-And it was revealed to Nuh: "None of your people will believe except those who have believed already. In the third verse (38), mentioned there is the total lack of concern for their sad end shown by the people of Sayyidna Nuh (علیہ السلام) during the period he was making the ark.
+This is like saying, ` when you are seized by the punishment, we shall be telling you that this was the outcome of your mockery.' This is as it was said after that in the fourth verse (39): ` So, you shall soon know to whom will come the punishment that will humble him, and upon whom will befall the lasting punishment.' The first punishment refers to the punishment in the mortal world, and the ` lasting punishment' means the never-ending punishment of the Hereafter.
 
 ## Tafsir Ibn Kathir
 

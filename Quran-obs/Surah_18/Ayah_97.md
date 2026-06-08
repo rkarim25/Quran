@@ -38,7 +38,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So they could not scale it or dig through it (97)He said: "This is a mercy from my Lord, but when the promise of my Lord comes, He shall Dakka' it down to the ground. The Identity of Ya'juj Ma'juj and the Location of the Wall of Dhul-Qarnain A lot of absurd and strange things disseminated through Isra'ili narratives and historical stories have found currency to the extent that some commentators have also reported them in terms of their historical status, though they themselves do not find them trustworthy.
+And the major confusion has showed up in the case of the last two Walls because the name of both the places is Darband and there is a Wall also present at both. Historians who have called the Wall and Darband of Bukhara and Tirmidh as being the Wall of Dhul-Qarnain have, most likely, been confused because of the common factor of the word, Darband.
 
 ## Tafsir Ibn Kathir
 

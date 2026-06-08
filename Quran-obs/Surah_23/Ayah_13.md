@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We created man out of an extract of Tin (12)Thereafter We made him a Nutfah in a safe lodging (13)Then We made the Nutfah into a clot, then We made the clot into a little lump of flesh, then We made out of that little lump of flesh bones, then We clothed the bones with flesh, and then We brought it forth as another creation. In the next verse : ثُمَّ جَعَلْنَاهُ نُطْفَةً (then We made him a sperm-drop) this same point has been mentioned differently.
+Another view is that (extract of clay) may also mean human seed because it is produced from the food which a man takes and the food grows out of the earth.
 
 ## Tafsir Ibn Kathir
 

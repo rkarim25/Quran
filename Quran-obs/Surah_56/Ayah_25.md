@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-A multitude of those will be from the first ones (13)And a few of those will be from the later ones (14)(They will be) on thrones, Mawdunah (15)Reclining thereon, face to face (16)Immortal boys will go around them (servi… وَلَحْمِ طَيْرٍ‌ مِّمَّا يَشْتَهُونَ (and the meat of birds that they desire....56:21].
+There is a difference over the meaning of the first generations and the later generations.
 
 ## Tafsir Ibn Kathir
 

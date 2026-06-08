@@ -58,7 +58,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) the Day when the heaven shall be rent asunder with clouds, and the angels will be sent down, with a grand descending (25)The sovereignty on that Day will be the true (sovereignty) of the Most Gracious, and it will be a hard Day for the disbelievers (26)And (remember) the Day when the wrongdoer will bite at his hands, he will say: "Oh! يَا وَيْلَتَىٰ لَيْتَنِي لَمْ أَتَّخِذْ فُلَانًا خَلِيلًا (Woe to me!
+The moral that can be deduced from these verses is that when two friends get together in acts of immorality and sin and help each other in performing forbidden deeds, then the same will apply to them and they will be remorseful and feel sorry for their friendship in the Hereafter.
 
 ## Tafsir Ibn Kathir
 

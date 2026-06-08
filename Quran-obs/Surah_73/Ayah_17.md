@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And be patient with what they say, and keep away from them in a good way (10)And leave Me alone to deal with the deniers, those who are in possession of good things of life. يَوْمَ تَرْجُفُ الْاَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيْبًا مَّهِيْلًا (on the Day when the earth and the mountains will quake, and the mountains will turn into a slipping heap of sand.
+Towards the conclusion, the verse says that if no torment is inflicted in this world, no one can escape the horrors and terrors and length of the Day of Resurrection that will turn the children grey.
 
 ## Tafsir Ibn Kathir
 

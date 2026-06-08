@@ -28,7 +28,7 @@ The word زُبُر zubur (in verse 43) is the plural of zabur, which stands for
 
 ## Tafsir Summary
 
-And indeed, warnings came to the people of Fir'awn (41)(They) denied all Our signs, so We seized them with a punishment of the Almighty, All-Capable (42)Are your disbelievers better than these? The word زُبُر zubur (in verse 43) is the plural of zabur, which stands for any written book.
+The word adha means more or most calamitous.
 
 ## Tafsir Ibn Kathir
 

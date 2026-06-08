@@ -253,7 +253,7 @@ Ibn Ishaq went on: When 'Abdullah bin Jahsh and his companions were relieved fro
 
 ## Tafsir Summary
 
-They ask you concerning fighting in the Sacred Months. The second of the three verses under comment here proves that fighting is forbidden in Rajab, Dhul-Qa'dah, Dhul-Hijjah and Muharram, the four 'sacred' months.
+Say, "Fighting therein is a great (transgression) but a greater (transgression) with Allah is to prevent mankind from following the way of Allah, to disbelieve in Him, to prevent access to Al-Masjid Al-Haram (at Makkah), and to drive out its inhabitants, and Al-Fitnah is worse than killing." And they will never cease fighting you until they turn you back from your religion (Islamic Monotheism) if they can.
 
 ## Tafsir Ibn Kathir
 

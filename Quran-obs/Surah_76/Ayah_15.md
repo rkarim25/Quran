@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The raised Couches and the lack of Heat and Cold Allah tells us about the people of Paradise and the eternal delights they will experience, as well as the comprehensive favors that they will be given. وَيُطْعِمُوْنَ الطَّعَامَ عَلٰي حُبِّهٖ مِسْكِيْنًا وَّيَـتِـيْمًا وَّاَسِيْرًا (and they give food, despite their love for it, to the needy, and the orphan, and the captive...
+So these cups are made of silver, but due to their fine thinness, what is inside of them will be visible from outside of them (as if they are glass). The word 'captive' refers to all prisoners, Muslim criminals, as well as infidels who are kept in prisons according to the principles of Shari` ah.
 
 ## Tafsir Ibn Kathir
 

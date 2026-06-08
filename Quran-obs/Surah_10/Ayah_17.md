@@ -68,7 +68,7 @@ Musaylamah thought for a while and then said: "Something similar to that was als
 
 ## Tafsir Summary
 
-So who does more wrong than he who forges a lie against Allah or denies His Āyāt? The last verse (17) emphasizes the subject conclusively by warning that attributing any statement to Allah Ta` ala that was not His Word, or denying what actually was, were crimes deserving severe punishment.
+So who does more wrong than he who forges a lie against Allah or denies His Āyāt?
 
 ## Tafsir Ibn Kathir
 

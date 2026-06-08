@@ -76,7 +76,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed in the Messenger of Allah you have a good example to follow for him who hopes in Allah and the Last Day, and remembers Allah much (21)And when the believers saw the Confederates, they said: "This is what Allah and… The second state mentioned here is that of the hypocrites for they had started saying that the promises of Allah and His Rasul ﷺ were a web of deception: إِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِم مَّرَ‌ضٌ مَّا وَعَدَنَا اللَّـهُ وَرَ‌سُولُهُ إِلَّا غُرُ‌ورً‌ا (And (remember) when the hypocrites and those having malady in their hearts were saying, "Allah and His messenger did not promise us but deceitfully; -12)…
+Indeed in the Messenger of Allah you have a good example to follow for him who hopes in Allah and the Last Day, and remembers Allah much (21)And when the believers saw the Confederates, they said: "This is what Allah and His Messenger had promised us; and Allah and His Messenger had spoken the truth." And it only added to their faith and to their submissiveness .
 
 ## Tafsir Ibn Kathir
 

@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And be not like those who come out of their homes boastfully and to be seen of men, and hinder (men) from the path of Allah; and Allah is 'Muhīt' (eneompassing and thoroughly comprehending) all that they do (47)And (reme… Another negative and detrimental aspect of conduct against which warning has been given in verse 47 and from which abstinence has been advised is that believers should not wax proud over their strength and numbers nor should they be guilty of nursing some per-sonal interest of theirs rather than remaining sincere to their mission at hand, because these two approaches would usually bring down great powers of the world on thei…
+Another negative and detrimental aspect of conduct against which warning has been given in verse 47 and from which abstinence has been advised is that believers should not wax proud over their strength and numbers nor should they be guilty of nursing some per-sonal interest of theirs rather than remaining sincere to their mission at hand, because these two approaches would usually bring down great powers of the world on their knees.
 
 ## Tafsir Ibn Kathir
 

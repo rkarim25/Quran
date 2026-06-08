@@ -145,7 +145,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "By Allah! Said in verse 75 was: فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَاءِ أَخِيهِ , that is, to cover up the real plan, the state officials first searched through the baggage of all brothers.
+However, if it is recovered from the guarantor, the guarantor would have the right to recover from the person legally in debt whatever cash or property has been taken from him.
 
 ## Tafsir Ibn Kathir
 

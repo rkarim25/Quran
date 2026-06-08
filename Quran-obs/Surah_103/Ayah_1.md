@@ -16,7 +16,7 @@ So Musaylimah thought for a while. Then he said, "Indeed something similar has a
 
 ## Tafsir Summary
 
-They have mentioned that 'Amr bin Al-'As went to visit Musaylimah Al-Kadhdhab after the Messenger of Allah ﷺ was commissioned (as a Prophet) and before 'Amr had accepted Islam. Virtue of [ Studying ] Surah al-` Asr Sayyidna ` Ubaidullah Ibn Hisn ؓ reports that whenever two Companions of the Holy Prophet ﷺ met, they would not part company until one of them had recited Surah Al-` Asr in its entirety to the other.
+In this Surah, Allah swears an oath by the 'Time' and says that mankind is in a state of loss; exception, however, is made of people who are characterized by four qualities: [ 1] faith; [ 2] righteous deeds; [ 3] advising each other for Truth; and [ 4] advising each other for patience.
 
 ## Tafsir Ibn Kathir
 

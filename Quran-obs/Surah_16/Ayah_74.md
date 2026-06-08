@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they worship others besides Allah such as do not have power to grant them any provision from the heavens or the earth nor the ability to do so (73)So do not give examples on behalf of Allah. The statement: فَلَا تَضْرِ‌بُوا لِلَّـهِ الْأَمْثَالَ (So, do not coin similarities for Allah -74) clarifies an important aspect of the reality of things as they relate to Allah.
+Truly, Allah knows and you know not .
 
 ## Tafsir Ibn Kathir
 

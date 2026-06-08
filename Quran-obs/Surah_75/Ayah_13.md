@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. يُنَبَّؤُا الْاِنْسَانُ يَوْمَىِٕذٍۢ بِمَا قَدَّمَ وَاَخَّرَ (Man will be informed of what he sent ahead, and what he left behind....75:13).
+On that Day man will be informed of what he sent forward, and what he left behind.)(14. Unto your Lord will be the place of rest that Day.)(13.
 
 ## Tafsir Ibn Kathir
 

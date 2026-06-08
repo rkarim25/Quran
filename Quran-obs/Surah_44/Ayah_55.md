@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who have Taqwa, will be in place of security (51)Among Gardens and Springs (52)Dressed in Sundus and Istabraq, facing each other (53)So (it will be). وَزَوَّجْنَاهُم بِحُورٍ‌ عِينٍ (We will marry them with houris having big dark eyes) - 44:54).
+And We shall marry them to Hur (fair females) with wide lovely eyes (54)They will call therein for every kind of fruit in peace and security (55)They will never taste death therein except the first death, and He will save them from the torment of the blazing Fire (56)As a bounty from your Lord!
 
 ## Tafsir Ibn Kathir
 

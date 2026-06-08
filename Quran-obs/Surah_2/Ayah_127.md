@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(cont.) And We commanded Ibrahim (Abraham) and Isma'il (Ishmael) that they should purify My House (the Ka'bah at Makkah) for those who are circumambulating it, or staying (I'tikaf), or bowing or prostrating themselves (t… Verse 127 shows another essential quality of this great prophet.
+We all accept him; This is Muhammad.' When the Prophet ﷺ reached the area where the leaders were gathering and they informed him about their dispute, he asked them to bring a garment and place it on the ground.
 
 ## Tafsir Ibn Kathir
 

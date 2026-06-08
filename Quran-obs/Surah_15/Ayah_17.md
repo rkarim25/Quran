@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed, We have put the big stars in the heaven and We beautified it for the beholders (16)And We have guarded it (near heaven) from every outcast Shaytan (devil)(17)Except him (devil) who steals the hearing, then he… Mentioned in the previous verses was the doggedness and hostility of deniers and disbelievers.
+And indeed, We have put the big stars in the heaven and We beautified it for the beholders (16)And We have guarded it (near heaven) from every outcast Shaytan (devil)(17)Except him (devil) who steals the hearing, then he is pursued by a clear flaming fire (18)And We have spread out the earth, and have placed firm mountains in it, and caused all kinds of things to grow in it, in due proportion (19)And in it We have provided means of living, for you and for those whom you provi…
 
 ## Tafsir Ibn Kathir
 

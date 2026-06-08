@@ -133,7 +133,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Surely, in disbelief are they who say that Allah is the Messiah, son of Maryam. Refuted here in this verse is only one saying of the Christians - which is the belief of a sect among them - that Sayyidna Masih (علیہ السلام) is God.
+And Allah is able to do all things (17)And the Jews and the Christians say: "We are the children of Allah and His loved ones." Say: "Why then does He punish you for your sins?" Nay, you are but human beings of those He has created, He forgives whom He wills and He punishes whom He wills.
 
 ## Tafsir Ibn Kathir
 

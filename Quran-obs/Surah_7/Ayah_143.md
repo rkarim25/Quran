@@ -179,7 +179,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when Musa came at the time and place appointed by Us, and his Lord (Allah) spoke to him; he said: "O my Lord! The verse 143 carries the phrase لن ترانی “ you shall never see me”.
+The word, therefore, cannot signify 'seeing'. According to the Spiritual masters (Sufis) the word signifies seeing something indirectly through some other means, like seeing certain thing reflected in the mirror.
 
 ## Tafsir Ibn Kathir
 

@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Fala! إِنَّهُ لَقُرْ‌آنٌ كَرِ‌يمٌ فِي كِتَابٍ مَّكْنُونٍ لَّا يَمَسُّهُ إِلَّا الْمُطَهَّرُ‌ونَ (It is surely the Noble Qur'an (recorded already) in a protected book [ i.e.
+Allah swears to the Greatness of the Qur'an The usage of La (in Fala) is not an extra character without meaning, as some of the scholars of Tafsir say.
 
 ## Tafsir Ibn Kathir
 

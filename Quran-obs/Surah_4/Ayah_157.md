@@ -148,7 +148,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Because of their breaking the covenant, and their rejecting the Ayat of Allah, and their killing the Prophets unjustly, and their saying: "Our hearts are Ghulf," nay, Allah has set a seal upon their hearts because of the… In the verse يَا عِيسَىٰ إِنِّي مُتَوَفِّيكَ وَرَ‌افِعُكَ (Isa, I am to take you in full and lift you towards Me...
+They even said that Maryam sat under the corpse of the crucified man and cried, and they say that the dead man spoke to her.
 
 ## Tafsir Ibn Kathir
 

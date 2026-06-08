@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And among His Ayat is the creation of the heavens and the earth, and whatever moving creatures He has dispersed in them both. وَمَا أَصَابَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُو عَن كَثِيرٍ‌ (And whatever hardship befalls you is because of what your own hands have committed, while He overlooks many [ of your faults ]....
+And He is Able to assemble them whenever He wills (29)And whatever of misfortune befalls you, it is because of what your hands have earned.
 
 ## Tafsir Ibn Kathir
 

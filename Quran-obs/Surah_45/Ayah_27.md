@@ -49,7 +49,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Allah belongs the kingdom of the heavens and the earth. وَمَا يُهْلِكُنَا إِلَّا الدَّهْرُ‌ "...and nothing destroys us except time...(45:24) " The word dahr means ` time from the beginning of the world to its end'.
+And to Allah belongs the kingdom of the heavens and the earth. And on the Day that the Hour will be established – on that Day the followers of falsehood shall lose (27)And you will see each nation humbled to their knees (Jathiyah), each nation will be called to its Record (of deeds).
 
 ## Tafsir Ibn Kathir
 

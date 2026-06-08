@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Truly, Allah has given you victory on many battlefields, and on the day of Hunayn (battle) when you rejoiced at your great number, but it availed you naught and the earth, vast as it is, was straitened for you, then you turned back in flight (25)Then Allah did send down His Sakinah (tranquillity) on His Messenger, and on the believers, and sent down forces (angels) which you saw not, and punished the disbelievers.
+Yet, the Messenger remained on his mule, which is a slow animal, not suitable for fast battle moves or even escape.
 
 ## Tafsir Ibn Kathir
 

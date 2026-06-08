@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Whatsoever is on it (the earth) will perish (26)And the Face of your Lord Dhul-Jalal wal-Ikram will remain forever (27)Then which of the blessings of your Lord will you both deny (28)Whosoever is in the heavens and on the earth begs of Him. Allah is the Ever-living, Free of all Need كُلُّ مَنْ عَلَيْهَا فَانٍ وَيَبْقَىٰ وَجْهُ رَ‌بِّكَ ذُو الْجَلَالِ وَالْإِكْرَ‌امِ (Everyone who lives on it (the earth) has to perish, and your Lord's Countenance will remain, full of majesty, full of honour...55:26-27).
+Furthermore, 'the earth' is one of those general things that can be referred to by a pronoun even if they are not mentioned explicitly as an antecedent.
 
 ## Tafsir Ibn Kathir
 

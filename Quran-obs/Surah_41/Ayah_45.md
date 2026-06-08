@@ -88,7 +88,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if We had sent this as a Qur'an in a foreign language, they would have said: "Why are not its verses explained in detail? أَأَعْجَمِيٌّ وَعَرَ‌بِيٌّ (Is it a non- Arabic [ book ] and an Arab [ messenger ]?
+And had it not been for a Word that went forth before from your Lord, and the matter would have been settled between them.
 
 ## Tafsir Ibn Kathir
 

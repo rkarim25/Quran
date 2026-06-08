@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when the angels said: "O Maryam! The glad tidings given by the angel (verse 46) regarding the birth of Sayyidna ` Isa without a father surprised Sayyidah Maryam as she was a virgin.
+Not restricted by it, 'Allah creates what He wills', that is, His will is all sufficient to bring some-thing into existence.
 
 ## Tafsir Ibn Kathir
 

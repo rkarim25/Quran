@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But your people have denied it (the Qur'an) though it is the truth. When the verse cited above was revealed, the noble Companions submitted: Ya Rasul Allah, if this absolute prohibition of going in their gatherings remained in force, we shall be deprived of offering Salah and Tawaf in al-Masjid al-Haram because these people keep sitting there all the time (before Hijrah and the Conquest of Makkah) doing nothing but fault-finding and ill-speaking.
+And if Shaytan causes you to forget, then after the remembrance, sit not you in the company of those people who are the wrongdoers (68)There is no responsibility for them upon those who have Taqwa, but (their duty) is to remind them, that they may (attain) Taqwa .
 
 ## Tafsir Ibn Kathir
 

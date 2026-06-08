@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And mention in the Book, Ibrahim. How to give counsel to elders.
+Why do you worship that which hears not, sees not and cannot avail you in anything?) Meaning that these idols will not benefit you, nor can they protect you from any harm.
 
 ## Tafsir Ibn Kathir
 

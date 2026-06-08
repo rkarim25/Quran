@@ -10,7 +10,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. قُلْ مَا يَعْبَأُ بِكُمْ رَ‌بِّي لَوْلَا دُعَاؤُكُمْ (Say (0 Prophet) My Lord will never care about you, if you will not invoke Him - 25:77).
+It may be that you are going Bakhi' yourself, that they do not become believers.)(4. If We will, We could send down to them from the heaven a sign, to which they would bend their necks in humility.)(5.
 
 ## Tafsir Ibn Kathir
 

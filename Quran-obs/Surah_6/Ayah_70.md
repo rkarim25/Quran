@@ -196,7 +196,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And leave alone those who take their religion as play and amusement, and are deceived by the life of this world. In the third verse (70), nearly the same subject has been stressed upon in the following words: وَذَرِ‌ الَّذِينَ اتَّخَذُوا دِينَهُمْ لَعِبًا وَلَهْوًا (And avoid those who have taken their faith as game and play ...).
+This verse also tells us that the very company of people who are heedless to the 'Akhirah and are content with their life in the mortal world is fatal for everyone.
 
 ## Tafsir Ibn Kathir
 

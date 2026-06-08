@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And of them are some who accuse you concerning (the distribution of) the alms. Mentioned in the previous verses were bad morals and bad deeds of the hypocrites.
+If, at this place, Sadaqat are taken in their general sense - which includes all Sadaqat, necessary (wajib) and voluntary (nafl) - then, there is no problem, because non-Muslims can be given out of the voluntary Sadaqat.
 
 ## Tafsir Ibn Kathir
 

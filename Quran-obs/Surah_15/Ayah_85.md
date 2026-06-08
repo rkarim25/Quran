@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We did not create the heavens and the earth and all that is between them except with the truth, and the Hour is surely coming, so overlook their faults with gracious forgiveness (85)Verily, your Lord is the Knowing C… Aikah means a dense forest.
+And We did not create the heavens and the earth and all that is between them except with the truth, and the Hour is surely coming, so overlook their faults with gracious forgiveness (85)Verily, your Lord is the Knowing Creator .
 
 ## Tafsir Ibn Kathir
 

@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-She said: "O chiefs! Consultation in important matters is a Sunnah.
+Because of her remarks, the ministers and the generals expressed their readiness to sacrifice everything they had in order to follow her command. If he becomes satisfied after receiving the gifts, then it would indicate that he was only a king and had approached her with mundane motives.
 
 ## Tafsir Ibn Kathir
 

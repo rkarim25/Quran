@@ -173,7 +173,7 @@ Rejecting their false notion first, the Qur'an instructs the Holy Prophet a1JI t
 
 ## Tafsir Summary
 
-And when Our clear Ayat are recited unto them, those who hope not for their meeting with Us, say: "Bring us a Qur'an other than this, or change it." Say: "It is not for me to change it on my own accord; I only follow that which is revealed unto me. In the last three verses (15-17), there is the refutation of a false notion entertained by the deniers of Akhirah and also the rejection of an inappropriate request made by them.
+When the Messenger ﷺ read to them from the Book of Allah and His clear evidence they said to him: "Bring a Qur'an other than this." They wanted the Prophet ﷺ to take back this Book and bring them another book of a different style or change it to a different form. If he were to make the least change in it on his own and by his choice, he would be committing a grave sin, and that he feared the punishment that falls upon those who disobey Allah, therefore, he could not do that.
 
 ## Tafsir Ibn Kathir
 

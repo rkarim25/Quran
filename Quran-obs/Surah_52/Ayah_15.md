@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat At-Tur Malik narrated that Jubayr bin Mut'im said, "I heard the Prophet ﷺ reciting Surat At-Tur while praying Maghrib. يَوْمَ تَمُورُ‌ السَّمَاءُ مَوْرً‌ا (...the Day when the sky will tremble, a horrible trembling, ...52:9) The lexicographical denotation of the word mawr is violent shaking, or movement caused by unrest.
+This verse describes the violent movement of the heavens on the Day of Resurrection. This is the Fire which you used to deny.)(15.
 
 ## Tafsir Ibn Kathir
 

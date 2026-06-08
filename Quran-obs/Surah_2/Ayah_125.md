@@ -100,7 +100,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(cont.) And We commanded Ibrahim (Abraham) and Isma'il (Ishmael) that they should purify My House (the Ka'bah at Makkah) for those who are circumambulating it, or staying (I'tikaf), or bowing or prostrating themselves (t… In the course of the story of Sayyidna Ibrahim (علیہ السلام) ، we now come to the building of the "House of Allah" - the Ka'bah کعبہ .
+Considering that Makkah has nothing to offer by way of a beautiful landscape or easy access or mundane comforts, yet, its power to draw millions of people to itself every year is nothing short of miracle.
 
 ## Tafsir Ibn Kathir
 

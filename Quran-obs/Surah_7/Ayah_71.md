@@ -112,7 +112,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "You have come to us that we should worship Allah Alone and forsake that which our fathers used to worship. (4)-The sixth verse (70) contains the answer given by Sayyidna Hud (علیہ السلام) .
+Hud said, do you dispute with me over these idols that you and your fathers made gods, even though they do not bring harm or benefit; did Allah give you authority or proof allowing you to worship them?
 
 ## Tafsir Ibn Kathir
 

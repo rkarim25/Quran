@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Call upon those - besides Him whom you pretend. The word 'al-wasilah' in: يَبْتَغُونَ إِلَىٰ رَ‌بِّهِمُ الْوَسِيلَةَ (seek the means of close ness to their Lord - 57) conveys the sense of that which is used as a means of reaching someone.
+Verily, the torment of your Lord is (something) to be afraid of .
 
 ## Tafsir Ibn Kathir
 

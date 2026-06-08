@@ -50,7 +50,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Tell me! The first two of the above verses are a complement to the previous verses which announce punishment for the unjust, and glad tidings of success and reward for the virtuous Muslims.
+And Qurtubi, with reference to Qushairi has stated the connection to be that there is a kind of solace in it for the Holy Prophet ﷺ that he should continue calling people towards faith and 'tauhid' (the Oneness of Allah) and should not be disheartened if some people do not accept his invitation, because men, by nature, are of diverse characteristics, and some of them do not refrain even from ill-treatment to their parents.
 
 ## Tafsir Ibn Kathir
 

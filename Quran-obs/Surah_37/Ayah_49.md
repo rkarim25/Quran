@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, you are going to taste the painful torment (38)And you will be requited nothing except for what you used to do (39)Save the chosen servants of Allah (40)For them there will be a known provision (41)Fruits; and th…
+This is unlike the wine of this world, which causes colic and so on, because it is too watery. The egg hidden under feathers remains safe from the pollution, therefore it is always neat and clean.
 
 ## Tafsir Ibn Kathir
 

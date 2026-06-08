@@ -89,7 +89,7 @@ Ibn 'Abbas, Mujahid, Ad-Dahhak, Qatadah, 'Abdur-Rahman bin Zayd bin Aslam and ot
 
 ## Tafsir Summary
 
-Say: "Tell me, what provision Allah has sent down to you! In the third verse (59), warning has been given to people who introduce their personal opinion in the serious matter of Halal (lawful) and Haram (unlawful).
+He also has not prohibited them except what is harmful to them in their world and the Hereafter.
 
 ## Tafsir Ibn Kathir
 

@@ -58,7 +58,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they ask you to hasten on the torment, and had it not been for a term appointed, the torment would certainly have come to them. The status of the narrations of the People of the Book quoted by the commentators in their commentaries is also the same.
+The Fire will cover them from all sides, which is more effective as a physical punishment.
 
 ## Tafsir Ibn Kathir
 

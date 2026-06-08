@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Children of Israel! وَوَاعَدْنَاكُمْ جَانِبَ الطُّورِ‌ الْأَيْمَنَ (And appointed for you the right side of the mount Tur.
+We delivered you from your enemy, and We made a covenant with you on the right side of the Mount, and We sent down to you manna and quail (80)(Saying) eat of the Tayyibat wherewith We have provided you, and commit no transgression or oppression therein, lest My anger should justly descend on you. Then, Allah made a covenant with Musa and the Children of Israel on the right side of the Mountain, after the destruction of Fir'awn.
 
 ## Tafsir Ibn Kathir
 

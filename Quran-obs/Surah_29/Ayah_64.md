@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And this life of the world is only an amusement and a play! In the preceding verses it was said about the infidels and disbelievers that if they were asked about the creation of the earth and skies, the solar system, the water cycle and its effect on growth of vegetation, they would reply that all this is created and controlled by Allah Ta a1a.
+Verily, the home of the Hereafter – that is the life indeed, if they but knew (64)And when they embark on a ship, they invoke Allah, making their faith pure for Him only, but when He brings them safely to land, behold, they give a share of their worship to others (65)So that they become ingrate for that which We have given them, and that they take their enjoyment, but they will come to know .
 
 ## Tafsir Ibn Kathir
 

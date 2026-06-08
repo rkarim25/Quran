@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then she brought him to her people, carrying him. يَا أُخْتَ هَارُ‌ونَ (0 sister of Harun - 19:28).
+They said: "How can we talk to one who is a child in the cradle?") This is what took place while they were in doubt about her situation, condeming her circumstances, saying what they wanted to say.
 
 ## Tafsir Ibn Kathir
 

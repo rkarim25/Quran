@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He inspected the birds, and said: "What is the matter that I see not the hoopoe? وَتَفَقَّدَ الطَّيْرَ‌ (And he checked the birds - 27:20).
+Therefore, the meaning of the sentence is ` It is not that my sight has faltered in locating the hoopoe, but in fact it is not present'.
 
 ## Tafsir Ibn Kathir
 

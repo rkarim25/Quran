@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "If the sea were ink for the Words of my Lord, surely, the sea would be exhausted before the Words of my Lord would be finished, even if We brought like it for its aid. The purpose of the last sentence: لَا يَبْغُونَ عَنْهَا حِوَلًا (and will not wish to move from there - 108) is to tell that this station of Jannah is a never-ending, ever-lasting blessing for them.
+Our Lord is as He says He is and He is beyond what we can say.
 
 ## Tafsir Ibn Kathir
 

@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So she conceived him, and she withdrew with him to a remote place (22)And the pains of childbirth drove her to the trunk of a date palm. لِأَهَبَ لَكِ غُلَامًا (to give you a boy - 19:19) Here Sayyidna Jibra'n (علیہ السلام) had attributed to himself the gift of the child because Allah Ta’ ala had sent him in order that he should breathe into her collar, and this breath would be the means of her conceiving the child, whereas in reality this gift was by the act of Allah.
+So she conceived him, and she withdrew with him to a remote place (22)And the pains of childbirth drove her to the trunk of a date palm. The word spread among the Children of Israel and the people were saying, 'Verily, her partner (in fornication) was Yusuf, because there was no one else in the temple with her except him.' So she hid herself from the people and placed a veil between herself and them.
 
 ## Tafsir Ibn Kathir
 

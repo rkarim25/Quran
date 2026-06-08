@@ -87,7 +87,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when We Nataqna the mountain over them as if it had been a canopy, and they thought that it was going to fall on them. The next verse (171) described another incident of the Israelites when they were forced to promise their obedience to the law of the Torah.
+And (remember) when We Nataqna the mountain over them as if it had been a canopy, and they thought that it was going to fall on them.
 
 ## Tafsir Ibn Kathir
 

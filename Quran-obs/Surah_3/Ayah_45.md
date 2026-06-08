@@ -91,7 +91,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when the angels said: "O Maryam! The previous verse (44) appeared parenthetically between the present verses 45 - 46 and verses 42 - 43 and the purpose was to affirm the prophethood of Sayyidna Muhammad ﷺ .
+Delivering the Good News to Maryam of 'Isa's Birth This Ayah contains the glad tidings the angels brought to Maryam that she would give birth to a mighty son who will have a great future. Verily, Allah gives you the glad tidings of a Word from Him, his name will be Al-Masih, 'Isa, the son of Maryam, held in honor in this world and in the Hereafter, and he will be one of those who are near to Allah.
 
 ## Tafsir Ibn Kathir
 

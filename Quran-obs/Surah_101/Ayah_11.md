@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Human Deeds, Good or Bad, will be Weighed This Surah mentions the weighing of human deeds.
+A fire Hamiyah!) Al-Qariah is one of the names of the Day of Judgement, like Al-Haqqah, At-Tammah, As-Sakhkhah, Al-Ghashiyah aand other names.
 
 ## Tafsir Ibn Kathir
 

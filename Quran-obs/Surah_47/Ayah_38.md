@@ -129,7 +129,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This worldly life is only amusement and diversion. تُدْعَوْنَ لِتُنفِقُوا فِي سَبِيلِ اللَّـهِ فَمِنكُم مَّن يَبْخَلُ "...
+And whoever acts stingily is but stingy toward himself.
 
 ## Tafsir Ibn Kathir
 

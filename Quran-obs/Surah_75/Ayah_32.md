@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nay, when it reaches to the collarbones (26)And it will be said: "Who can cure him? (When the soul [ of a patient ] reaches the clavicles, and it is said, "Who is an enchanter [ that can save him?] ", and he realizes that it is [ the time on departure [ from the world,] and one shank is intertwined with the other shank, then on that day, it is to your Lord that one has to be driven....
+But on the contrary, he denied and turned away!) This is to inform about the disbeliever who used to deny the truth in his heart in the abode of this worldly life, and he used to turn away from acting according to its way.
 
 ## Tafsir Ibn Kathir
 

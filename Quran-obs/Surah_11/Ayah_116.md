@@ -116,7 +116,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-If only there had been among the generations before you persons having wisdom, prohibiting (others) from Fasad (corruption) in the earth, except a few of those whom We saved from among them! Given in the third and the fourth verse (116, 117) is the reason why Divine punishment came upon past peoples as well as the instruction as to how they could have stayed safe from it.
+If only there had been among the generations before you persons having wisdom, prohibiting (others) from Fasad (corruption) in the earth, except a few of those whom We saved from among them! There must be a Group of People Who forbid Lewdness Allah, the Exalted, says that there should have been a group of wise people present among the past generations who called to good and forbade the evil and corruption that took place among them in the land.
 
 ## Tafsir Ibn Kathir
 

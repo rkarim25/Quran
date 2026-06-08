@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We sent no Prophet unto any town (and they denied him), but We seized its people with Ba'sā' and Ḍarrā', so that they might humble themselves (to Allah)(94)Then We changed the evil for the good, until they 'Afaw (inc… The above verses continue to speak of the events of early people and their ominous fate.
+This suffering is, in fact, a blessing of Allah in disguise as it is meant for their good.
 
 ## Tafsir Ibn Kathir
 

@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And come not near to unlawful sex. The seventh injunction given here relates to the forbiddance of zina (fornication, adultery).
+Therefore, Islam has declared this crime to be more serious than any other crime. Then, it has also fixed its punishment as the harshest of all crimes because this one is a carrier of hundreds of these.
 
 ## Tafsir Ibn Kathir
 

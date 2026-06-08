@@ -42,7 +42,7 @@ Al-Bukhari also recorded that Yusuf bin Mahak said, "I was with the Mother of th
 
 ## Tafsir Summary
 
-And indeed, warnings came to the people of Fir'awn (41)(They) denied all Our signs, so We seized them with a punishment of the Almighty, All-Capable (42)Are your disbelievers better than these? The word سُعُر su'ur has appeared twice in this Surah.
+And indeed, warnings came to the people of Fir'awn (41)(They) denied all Our signs, so We seized them with a punishment of the Almighty, All-Capable (42)Are your disbelievers better than these? Allah supported Musa and Harun with tremendous miracles and great signs, but Fir'awn and his people rejected all of them.
 
 ## Tafsir Ibn Kathir
 

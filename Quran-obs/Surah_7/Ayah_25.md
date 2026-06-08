@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Allah) said: "Get down, one of you an enemy to the other. The story of Sayyidna 'Adam (علیہ السلام) and Iblis mentioned in the present verses has appeared in the fourth section of Surah Al-Baqarah.
+On it, they will live, die and be buried in their graves; and from it, they will be resurrected for the Day of Resurrection.
 
 ## Tafsir Ibn Kathir
 

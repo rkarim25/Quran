@@ -106,7 +106,7 @@ Muhammad bin Ishaq bin Yasar, Mujahid and 'Ikrimah said that this Ayah was revea
 
 ## Tafsir Summary
 
-And remember Allah's favor to you and His covenant with which He bound you when you said: "We hear and we obey." And have Taqwa of Allah. The subject of the first of the three verses given above has appeared earlier in Surah al-Nis-a' in almost the same words.
+Remember the favor of Allah unto you when some people desired (made a plan) to stretch out their hands against you, but (Allah) held back their hands from you.
 
 ## Tafsir Ibn Kathir
 

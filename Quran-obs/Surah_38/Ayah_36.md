@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed, We tried Sulayman and We placed on his throne Jasad (a body), and he returned (34)He said: "My Lord! It was said in verse 35: هَبْ لِي مُلْكًا لَّا يَنبَغِي لِأَحَدٍ مِّن بَعْدِي (bless me with a kingdom that will not be available to anyone after me.).
+The subjugation of the wind and the command over the genre of the Jinn were exclusive traits of his kingdom, and no kingdom that followed him had these characteristics.
 
 ## Tafsir Ibn Kathir
 

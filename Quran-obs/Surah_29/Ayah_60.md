@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O My servants who believe! وَكَأَيِّن مِّن دَابَّةٍ لَّا تَحْمِلُ رِ‌زْقَهَا اللَّـهُ يَرْ‌زُقُهَا وَإِيَّاكُمْ (And how many an animal there is that does not carry its provision.
+Allah gives provision to it as well as to you, - 29:60), that is, ` You should ponder over the fact that there are innumerable animals on earth who do not collect and store their sustenance, nor do they worry about its collection.
 
 ## Tafsir Ibn Kathir
 

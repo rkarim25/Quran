@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-When you have finished the Salah, remember Allah standing, sitting down, and on your sides, but when you are free from danger, perform the Salah. The concessions given in travel (In Islamic legal terminology, Safar means journey or travel; Qasr refers to the making of one's Salah short while in that status.
+When you have finished the Salah, remember Allah standing, sitting down, and on your sides, but when you are free from danger, perform the Salah. So, it is you, not they, who should be eager to fight so that you establish the Word of Allah and raise it high.
 
 ## Tafsir Ibn Kathir
 

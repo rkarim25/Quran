@@ -99,7 +99,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the people of Musa made in his absence, out of their ornaments, the image of a calf (for worship). The next verses continue to narrate the remaining part of the story.
+They said that this, the calf, is your god and the god of Musa, but Musa forgot it!
 
 ## Tafsir Ibn Kathir
 

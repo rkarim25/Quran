@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Qur'anic Instructions for Success in Jihad Given in the first two verses cited above is a special set of instructions for Muslims when they confront enemies on the battlefield.
+2.Remember Allah The second principle is the Dhikr of Allah which is a weapon in its own right, special and spiritual, something known to Muslims only and not known to or neglected by the rest of the world.
 
 ## Tafsir Ibn Kathir
 

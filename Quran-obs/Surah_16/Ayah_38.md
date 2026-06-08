@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they swear by Allah with their strongest oaths, that Allah will not raise up one who dies. From verse 36 in the present Surah: وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّ‌سُولًا (And We did raise a messenger among every people), as well as from verse 24 of Surah Fatir: وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِ…
+The Resurrection after Death is true, there is Wisdom behind it, and it is easy for Allah Allah tells us that the idolators swore by Allah their strongest oaths, meaning that they made oaths swore fervently that Allah would not resurrect the one who died.
 
 ## Tafsir Ibn Kathir
 

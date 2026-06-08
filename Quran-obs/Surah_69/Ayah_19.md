@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then as for him who will be given his Record in his right hand will say: "Here! هَاؤُمُ اقْرَ‌ءُوا كِتَابِيَهْ (Come here, read my book… 69:19).
+read my Record!) is 'Here, read my Book.'...
 
 ## Tafsir Ibn Kathir
 

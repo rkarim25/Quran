@@ -77,7 +77,7 @@ The first thing the report referred to above proves is that the ability to speak
 
 ## Tafsir Summary
 
-Do then those who devise evil plots feel secure that Allah will not cause them to sink into the earth, or that torment will not seize them from where they do not perceive it (45)Or that He may punish them in the midst of their going to and fro (in their livelihood), so that there be no escape for them (from Allah's punishment)(46)Or that He may punish them where they fear it most? In verses appearing previously: ثُمَّ يَوْمَ الْقِيَامَةِ يُخْزِيهِمْ (Then, on the day of Judgment, He will put them to disgrace - 27), disbelievers were warned against the punishment of the Hereafter.
+Or do you feel secure that He Who is over the heaven (Allah), will not send a storm of stones upon you?
 
 ## Tafsir Ibn Kathir
 

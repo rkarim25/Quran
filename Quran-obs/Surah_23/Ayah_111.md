@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He (Allah) will say: "Remain you in it with ignominy! وَلَا تُكَلِّمُونِ (Do not speak to Me - 23:108).
+If ever we return (to evil), then indeed we shall be wrongdoers.)(23:106-107) Allah will not answer them for a time span equivalent to twice the duration of this world.
 
 ## Tafsir Ibn Kathir
 

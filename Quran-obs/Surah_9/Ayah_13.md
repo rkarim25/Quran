@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Will you not fight a people who have violated their oaths and intended to expel the Messenger while they did attack you first? After that, to persuade Muslims to fight, they were told in verse 13 that there was no reason why they would not be ready to fight against the kind of people who had conspired to expel the Messenger of Allah.
+What Muslims have to do now is simply to defend themselves, an action universally sane and normal.
 
 ## Tafsir Ibn Kathir
 

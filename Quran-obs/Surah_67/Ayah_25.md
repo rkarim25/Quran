@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Who is it besides the Most Gracious that can be an army to you to help you? قُلْ هُوَ الَّذِي أَنشَأَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ‌ وَالْأَفْئِدَةَ ۖ قَلِيلًا مَّا تَشْكُرُ‌ونَ (Say, "He is the One who has originated you, and made for you the ears and the eyes and the hearts.
+So, when what they denied occurs, it will grieve them because they will know what is awaiting them there (in Hell) of the worst evil. This means that it will surround them and Allah will command what they were not able to reckon or fully comprehend to come to them.
 
 ## Tafsir Ibn Kathir
 

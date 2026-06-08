@@ -50,7 +50,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Ibrahim said to his father and his people: "Verily, I am innocent of what you worship, (26)"Except Him Who created me; and verily, He will guide me. وَإِذْ قَالَ إِبْرَ‌اهِيمُ (And [ recall ] when Ibrahim said to his father and to his people, 43:26) At the end of the previous verses, Allah Ta’ ala had stated that the 'mushrikin' (polytheists) of Arabia had no argument in favour of their 'shirk' (polytheism) except that they were carrying on the customs of their forefathers.
+And (remember) when Ibrahim said to his father and his people: "Verily, I am innocent of what you worship, (26)"Except Him Who created me; and verily, He will guide me.
 
 ## Tafsir Ibn Kathir
 

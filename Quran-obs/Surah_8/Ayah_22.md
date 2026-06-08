@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! The third verse (22) strongly condemns those who do not listen to what is the truth thoughtfully and let it go unaccepted.
+Literally, everything that walks on the earth is called 'dābbah.' But, in usage, only quadruped animals are called 'dābbah.' So, the sense of the verse is that the worst quadrupeds in the sight of Allah are the ones deaf against listening to the truth and dumb when it comes to accepting it.
 
 ## Tafsir Ibn Kathir
 

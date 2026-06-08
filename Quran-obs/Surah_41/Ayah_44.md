@@ -140,7 +140,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if We had sent this as a Qur'an in a foreign language, they would have said: "Why are not its verses explained in detail? أَأَعْجَمِيٌّ وَعَرَ‌بِيٌّ (Is it a non- Arabic [ book ] and an Arab [ messenger ]?
+Not in Arabic nor an Arab?" Say: "It is for those who believe, a guide and a cure.
 
 ## Tafsir Ibn Kathir
 

@@ -119,7 +119,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But when the truth has come to them from Us, they say: "Why is he not given the like of what was given to Musa? لِتُنذِرَ‌ قَوْمًا مَّا أَتَاهُم مِّن نَّذِيرٍ‌ ( so that you warn a people to whom no warner has come before - 28:46).
+Verily, Allah guides not the people who are wrongdoers (50)And indeed now We have conveyed the Word to them, in order that they may remember .
 
 ## Tafsir Ibn Kathir
 

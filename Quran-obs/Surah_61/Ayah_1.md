@@ -58,7 +58,7 @@ Although the intention of the blessed Companions was not to make a boastful clai
 
 ## Tafsir Summary
 
-The Virtues of Surat As-Saff Imam Ahmad recorded that 'Abdullah bin Salam said, "We asked, 'Who among us should go to the Messenger ﷺ and ask him about the dearest actions to Allah?' None among us volunteered. Background of the revelation Tirmidhi has recorded, on the authority of Sayyidna ` Abdullah Ibn Salam ؓ ، that a group of Companions discussed among themselves that if we come to know which is the dearest of actions in the sight of Allah, we shall act upon it.
+Whatsoever is in the heavens and whatsoever is on the earth glorifies Allah.
 
 ## Tafsir Ibn Kathir
 

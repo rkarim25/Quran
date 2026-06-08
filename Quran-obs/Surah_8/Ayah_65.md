@@ -122,7 +122,7 @@ Allah lowered the number [of adversaries that Muslims are required to endure], a
 
 ## Tafsir Summary
 
-O Prophet! Mentioned for Muslims in the fourth (65) and fifth (66) verse, there is a law of war which stipulates the limit to which it was obligatory (fard) for them to stand resolutely against their adversary - and any retreat from which was a sin.
+If there are twenty steadfast persons among you, they will overcome two hundred, and if there be a hundred steadfast persons they will overcome a thousand of those who disbelieve, because they (the disbelievers) are people who do not understand (65)Now Allah has lightened your (task), for He knows that there is weakness in you.
 
 ## Tafsir Ibn Kathir
 

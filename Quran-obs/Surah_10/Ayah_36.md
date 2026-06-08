@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Is there of your partners one that originates the creation and then repeats it?" Say: "Allah originates the creation and then He repeats it. In the concluding verse (32), it was said: فَذَٰلِكُمُ اللَّـهُ رَ‌بُّكُمُ الْحَقُّ ۖ فَمَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ (So, that is Allah, your Lord in truth.
+Surely, Allah is All-Aware of what they do .
 
 ## Tafsir Ibn Kathir
 

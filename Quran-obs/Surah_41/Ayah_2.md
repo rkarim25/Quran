@@ -28,7 +28,7 @@ This is the meaning of the first five verses of this Surah. In these verses, All
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The seven Surahs that commence with "Ha Meem" are known as "Al Hameem' or 'Hawameem'.
+A revelation from the Most Gracious, the Most Merciful.) means, the Qur'an is revealed from the Most Gracious, Most Merciful.
 
 ## Tafsir Ibn Kathir
 

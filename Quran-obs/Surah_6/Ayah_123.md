@@ -72,7 +72,7 @@ They said, why was not this Qur'an revealed to a mighty, respectable leader, hon
 
 ## Tafsir Summary
 
-And thus We have set up in every town great ones of its wicked people to plot therein. Mentioned in the previous verse was that this world is a place of trial.
+Then, these big people open a front of hostility and conspiracy against them, which is obviously to harass or harm these pious souls, but in the ultimate analysis, the curse of what they do against them recoils back on them alone.
 
 ## Tafsir Ibn Kathir
 

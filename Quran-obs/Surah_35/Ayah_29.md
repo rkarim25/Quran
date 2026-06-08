@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who recite the Book of Allah, and perform the Salah, and spend out of what We have provided for them, secretly and openly, they hope for a (sure) trade-gain that will never perish (29)That He may pay them their wages in full, and give them (even) more, out of His grace. Mentioned earlier, in verse 28, there was a quality of true ` Ulama' who acknowledge Allah.
+When the text says 'secretly and openly', it indicates that it is often better to spend secretly in order to stay safe from riya' (show off) in acts of worship.
 
 ## Tafsir Ibn Kathir
 

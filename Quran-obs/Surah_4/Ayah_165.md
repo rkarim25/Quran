@@ -75,7 +75,7 @@ It has been narrated by Sayyidna Ibn ` Abbas ؓ عنہما that a group of Jews 
 
 ## Tafsir Summary
 
-Verily, We have sent the revelation to you as We sent the revelation to Nuh and the Prophets after him; We (also) sent the revelation to Ibrahim, Isma'il, Ishaq, Ya'qub, and Al-Asbat, (the offspring of the twelve sons of… Then comes verse رُّ‌سُلًا مُّبَشِّرِ‌ينَ وَمُنذِرِ‌ينَ (-- Messengers giving good tidings and warning...) which succinctly tells that Almighty Allah consistently sent messengers to convey good tidings to all believers and to warn all disbelievers so that there remains no room for the excuse that they did not know the will of God and His Messengers --had they known about it, they would have certainly followed it!
+And Allah is Ever All-Powerful, All-Wise.) Allah sent down His Books and sent His Messengers with good news and warnings. Now, that Almighty Allah has sent messengers with miracles and His messengers have shown the straight path of truth, the option of not accepting the true faith cannot be accepted from anyone, under any pretext or excuse.
 
 ## Tafsir Ibn Kathir
 

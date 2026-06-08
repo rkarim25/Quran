@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Are they but waiting for the angels to come to them, or there comes the command of your Lord? It will be recalled that, after describing the blessings of Allah and proving that He was unique in the creation of the universe, the text made a pointed reference to how the polytheists chose to stick to their own ways of error.
+Are they but waiting for the angels to come to them, or there comes the command of your Lord? The Disbelievers' Refrain from Faith means that They were simply awaiting Punishment Threatening the idolators for their persistence in falsehood and their conceited delusions about this world, Allah says: Are these people waiting only for the angels to come and take their souls?
 
 ## Tafsir Ibn Kathir
 

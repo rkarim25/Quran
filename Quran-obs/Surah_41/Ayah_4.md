@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. An offer by the infidel's of Makkah to the Holy Prophet ﷺ The infidels of Quraysh, who are the direct addressees of this Surah, tried very hard to suppress the propagation of Islam in early days after the revelation of the Qur'an, through the use of physical force, and tried equally hard to intimidate the Messenger of Allah and those who believed in him by causing to them all sorts of pains and agonies.
+Giving glad tidings and warning, but most of them turn away, so they hear not.)(5. A Book whereof the Ayat are explained in detail – a Qur'an in Arabic for people who know.)(4.
 
 ## Tafsir Ibn Kathir
 

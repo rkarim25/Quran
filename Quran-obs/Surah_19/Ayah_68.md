@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And man says: "When I am dead, shall I then be raised up alive? "We will definitely gather them together with the devils, then We will definitely make them present." - 19:68.
+First, that on the Day of Judgment every infidel will be brought before God along with his own devil, and this suggests that this is a reference to the gathering of infidels and their devils. But if it is interpreted in a general sense to include all believers and infidels then the meaning of the devils being gathered with all of them would be that while the infidels will be gathered with their devils, the believers would also be gathered at the same time and place.
 
 ## Tafsir Ibn Kathir
 

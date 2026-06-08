@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah says, 'This is between Me and My servant, and My servant shall acquire what he sought.' When he says, The fourth verse اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُ : “You alone we worship, and from You alone we seek help” has a double aspect, one of praise and another of prayer.
+The three verses having made it clear that man is totally and absolutely dependent on Allah in all the three states of his life, it logically and naturally leads to the conclusion that Allah alone is worthy of being worshipped, for in Arabic the word ibadah (worship) connotes showing the utmost humility and submissiveness out of an intense respect and love for someone, and such an attitude of willing self-abasement cannot justly be adopted towards anyone except Allah.
 
 ## Tafsir Ibn Kathir
 

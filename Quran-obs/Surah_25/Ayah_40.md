@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We gave Musa the Scripture, and placed his brother Harun with him as a helper (35)And We said: "Go you both to the people who have denied Our Ayat." Then We destroyed them with utter destruction (36)And Nuh's people, when they denied the Messengers, We drowned them, and We made them as a sign for mankind. In the above verses it is mentioned that it had been the common practice of the people through the ages to rebuff the prophets and the message they had brought.
+But they used not to expect any resurrection.) means, the disbelievers who passed by it did not learn any lesson, because they did not expect any resurrection, i.e., on the Day of Judgement. And We have prepared a painful torment for the wrongdoers (37)And (also) 'Ad and Thamud, and the Dwellers of Ar-Rass, and many generations in between (38)And for each We put forward examples, and each We brought to utter ruin (39)And indeed they have passed by the town on which was rained…
 
 ## Tafsir Ibn Kathir
 

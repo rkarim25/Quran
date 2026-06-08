@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And why should not Allah punish them while they hinder (men) from Al-Masjid Al-Haram, and they are not its guardians? It was said in previous verses that the disbelievers of Makkah were though deserving, because of their disbelief and denial, of heavenly punishment coming down upon them, but the presence of the Holy Prophet ﷺ in Makkah was a prohibitive factor against the coming of a mass punishment on them.
+Then, they thought that a custodian had the right to stop anyone he wished from entering into the mosque - while, a masjid or mosque is a House of God and no one has the right to stop anyone from coming in it.
 
 ## Tafsir Ibn Kathir
 

@@ -118,7 +118,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O wives of the Prophet! This concerns the observance of full hijab (purdah or veil).
+In this verse, the essential injunction about hijab is that women stay at home (that is, do not go out without the need as admissible in the Shari'ah).
 
 ## Tafsir Ibn Kathir
 

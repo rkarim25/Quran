@@ -43,7 +43,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "O My servants who believe, have Taqwa of your Lord. In verse 10, it was said: وَأَرْ‌ضُ اللَّـهِ وَاسِعَةٌ (and the earth of Allah is wide).In the sentence previous to this, Good deeds had been enjoined.
+Go and live at a place and in a surrounding that is conducive to remaining obedient to Divine commandments.' This persuades one to migrate from a place living in which one cannot dutifully follow and observe what has been enjoined by his religion.
 
 ## Tafsir Ibn Kathir
 

@@ -95,7 +95,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"O my sons! Mentioned in the verses appearing above is the remaining part of the story of Sayyidna Yusuf (علیہ السلام) and his brothers.
+After offering praise to Allah: Our entire family is known for hardships and trials.
 
 ## Tafsir Ibn Kathir
 

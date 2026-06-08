@@ -116,7 +116,7 @@ In addition to what has been said above, through this very word, the addressees 
 
 ## Tafsir Summary
 
-And recite to them the story of the two sons of Adam in truth; when each offered a sacrifice, it was accepted from the one but not from the other. In these verses, Allah Ta` a1a has instructed the Holy Prophet ﷺ that he should relate the story of the two sons of Adam truthfully to the people of the Book, or to the whole Ummah.
+For this reason, the learned among the righteous elders (salaf) have said that this verse is a shot in the arms of those who are devoted to acts of worship and do deeds in the hope of finding the pleasure of Allah.
 
 ## Tafsir Ibn Kathir
 

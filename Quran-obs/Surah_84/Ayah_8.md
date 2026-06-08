@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Prostration of Recitation in Surat Al-Inshiqaq It is reported from Abu Salamah that while leading them in prayer, Abu Hurayrah recited, (So, as for him whose book [ of deeds ] will be given to him in his right hand, he will be called to account in an easy manner, and he will go back to his people joyfully....7-9) This verse describes the condition of the believers.
+Then as for him who will be given his Record in his right hand,)(8. An easy reckoning will be taken from them and the welcome news of Paradise will be given to them.
 
 ## Tafsir Ibn Kathir
 

@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And whatever you spend for spendings (e.g., in Sadaqah) or whatever vow you make, be sure Allah knows it all. (4) Verse 270: وَمَا أَنفَقْتُم مِّن نَّفَقَةٍ (الی قولہ) وَمَا لِلظَّالِمِينَ مِنْ أَنصَارٍ‌: "And whatever spending you do ...
+And for the wrongdoers there are no helpers (270)If you disclose your Sadaqat (almsgiving), it is well; but if you conceal them and give them to the poor, that is better for you.
 
 ## Tafsir Ibn Kathir
 

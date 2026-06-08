@@ -99,7 +99,7 @@ Hasan al-Basri (رح) and Abu Malik said that that was a time when there was sca
 
 ## Tafsir Summary
 
-And when they see some merchandise or some amusement, they disperse headlong to it, and leave you standing. Admonishing those who abandon the Imam while he is delivering the Jumu’ ah Khutbah [ Sermon ] And when they see some merchandise or amusement, they break away to it, and leave you standing.
+Say, “ What is with Allah is much better than the amusement and the merchandise, and Allah is the best giver of sustenance.” (62:11) The verse admonishes those who once abandoned the Friday sermon and attended some trade activity.
 
 ## Tafsir Ibn Kathir
 

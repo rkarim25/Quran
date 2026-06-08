@@ -139,7 +139,7 @@ The commentators have narrated several incidents as a background of the revelati
 
 ## Tafsir Summary
 
-And if two parties among the believers fall to fighting, then make peace between them both. In the foregoing verses the rights of the Prophet were set out.
+Ruling If a very powerful group of Muslims revolts against the Muslim ruler, then it is necessary for the ruler to first hear out their complaint or cause of their dissatisfaction.
 
 ## Tafsir Ibn Kathir
 

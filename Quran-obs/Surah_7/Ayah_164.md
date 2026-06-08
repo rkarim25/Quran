@@ -87,7 +87,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when a community among them said: "Why do you preach to a people whom Allah is about to destroy or to punish with a severe torment?" (The preachers) said: "In order to be free from guilt before your Lord (Allah), and perhaps they may fear Allah. The detailed discussion of the events contained in the above verses have been produced in Surah Al-Baqarah (under verses 58-60).
+They said, 'why do you forbid these people from evil, when you know that they are destroyed and have earned Allah's punishment?' Therefore, they said, there is no benefit in forbidding them.
 
 ## Tafsir Ibn Kathir
 

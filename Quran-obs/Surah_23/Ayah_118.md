@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And whoever invokes besides Allah, any other god, of whom he has no proof; then his reckoning is only with his Lord. رَّ‌بِّ اغْفِرْ‌ وَارْ‌حَمْ (My Lord, forgive and have mercy - 23:118).
+Here the object of the forgiveness and having mercy has not been mentioned. What is there to be forgiven and to whom is mercy to be shown?
 
 ## Tafsir Ibn Kathir
 

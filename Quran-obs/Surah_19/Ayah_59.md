@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, there has succeeded them a posterity who have lost the Salah and have followed lusts. فَخَلَفَ (Khalf) means bad successors, while فَخَلَفَ (Khalaf) means good successors.
+Therefore they lose, because the prayer is the pillar and foundation of the religion.
 
 ## Tafsir Ibn Kathir
 

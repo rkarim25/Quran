@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said [to Musa]: "Whatever Ayat you may bring to us, to work therewith your sorcery on us, we shall never believe in you. And they said, مَهْمَا تَأْتِنَا بِهِ مِنْ آيَةٍ لِّتَسْحَرَ‌نَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ 'Whatever sign you bring to us in order to enchant us therewith, we are not going to believe in you."
+Invoke your Lord so that He will remove the locusts from us, and we will believe in you and release the Children of Israel to you.' Musa invoked his Lord, and He removed the locusts.
 
 ## Tafsir Ibn Kathir
 

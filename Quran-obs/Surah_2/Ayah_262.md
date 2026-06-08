@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who spend their wealth in the cause of Allah, and do not follow up their gifts with reminders of their generosity or with injury, their reward is with their Lord. Conditions that make charity go in vain Two negative conditions governing the acceptance of sadaqah صدقہ have been stated in this verse:
+Those who spend their wealth in the cause of Allah, and do not follow up their gifts with reminders of their generosity or with injury, their reward is with their Lord.
 
 ## Tafsir Ibn Kathir
 

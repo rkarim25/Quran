@@ -79,7 +79,7 @@ The verse of the Qur'an being referred to here was revealed in relation to this 
 
 ## Tafsir Summary
 
-And of mankind is he who purchases idle talk (Lahw Al-Hadith) to mislead from the path of Allah without knowledge, and takes it by way of mockery. The word: اشتراء (ishtira) in: وَمِنَ النَّاسِ مَن يَشْتَرِ‌ي لَهْوَ الْحَدِيثِ (And from among the people who buys the distracting amusement of things - 31:6) literally means 'to buy.' And on occasions, the same word is used in the sense of 'doing an act instead of another' - as in: أُولَـٰئِكَ الَّذِينَ اشْتَرَ‌وُا الضَّلَالَةَ بِالْهُدَىٰ are the people who have bought error at the rice of guidance - 2:16, 2:175 and in some other verses.
+However, if some poetic compositions are recited in a pleasing voice, and the reciting person is not a woman or a beardless young man, and the subject of the poetry recited is also not vulgar or indecent and is not inclusive of any other sin, then, it is permissible.
 
 ## Tafsir Ibn Kathir
 

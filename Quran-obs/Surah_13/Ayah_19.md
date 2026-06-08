@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Shall he then who knows that what has been revealed unto you from your Lord is the truth, be like him who is blind? Truth and Falsehood were explained through parables in verses appearing previous to those cited above.
+Shall he then who knows that what has been revealed unto you from your Lord is the truth, be like him who is blind?
 
 ## Tafsir Ibn Kathir
 

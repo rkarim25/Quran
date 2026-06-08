@@ -132,7 +132,7 @@ There is, however, another narration reported with a weak chain of reporters, ac
 
 ## Tafsir Summary
 
-That is whereof Allah gives glad tidings to His servants who believe and do righteous good deeds. قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرً‌ا إِلَّا الْمَوَدَّةَ فِي الْقُرْ‌بَىٰ (Say, "I do not ask you any fee for it, except the love of kinship - 42:23 ).
+Say: "No reward do I ask of you for this except to be kind to me for my kinship with you." And whoever earns a good righteous deed, We shall give him an increase of good in respect thereof. That is whereof Allah gives glad tidings to His servants who believe and do righteous good deeds.
 
 ## Tafsir Ibn Kathir
 

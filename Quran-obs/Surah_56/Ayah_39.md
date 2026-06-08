@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those on the right – how (fortunate) will be those on the right (27)(They will be) among Sidri Makhdud (28)And among Talh Mandud (29)And in shade Mamdud (30)And by water flowing constantly (31)And fruit in plenty (32… ثُلَّةٌ مِّنَ الْأَوَّلِينَ وَثُلَّةٌ مِّنَ الْآخِرِ‌ينَ (many from the earlier generations, and many from the later ones....56:39-40) In connection with sabiqun, (the Foremost) two views of the commentators were quoted earlier as to the identity of 'the earlier' and the 'later' generations.
+And a multitude of those will be from the later generations.)(56:39-40) means, a multitude of those on the right will come from the earlier generations and a multitude from the latter generations.
 
 ## Tafsir Ibn Kathir
 

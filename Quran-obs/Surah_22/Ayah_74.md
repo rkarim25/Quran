@@ -43,7 +43,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O mankind! مَا قَدَرُ‌وا اللَّـهَ حَقَّ قَدْرِ‌هِ (They did not recognize Allah in His true esteem - 22:74).
+Verily, Allah is All-Strong, All-Mighty .
 
 ## Tafsir Ibn Kathir
 

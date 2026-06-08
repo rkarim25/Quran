@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if a woman fears cruelty or desertion on her husband's part, there is no sin on them both if they make terms of peace between themselves; and making peace is better. No one is responsible for something beyond his control In order to make married life pleasant and stable, the Holy Qur'an has given important instructions to both parties in these verses.
+And Allah is Ever All-Sufficient for His creatures' needs, All-Wise.) This is the third case between husband and wife, in which divorce occurs.
 
 ## Tafsir Ibn Kathir
 

@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed lost are they who have killed their children, foolishly, without knowledge, and (they) have forbidden that which Allah has provided for them, inventing a lie against Allah. Described in the previous verses were false beliefs of the mushriks of Arabia while the present verses recount their practical errors and ignorant customs.
+Indeed lost are they who have killed their children, foolishly, without knowledge, and (they) have forbidden that which Allah has provided for them, inventing a lie against Allah. As for this life, they lost when they killed their children and made it difficult for themselves by prohibiting some types of their wealth, as an act of innovation that they invented on their own.
 
 ## Tafsir Ibn Kathir
 

@@ -278,7 +278,7 @@ The wording of this Ayah indicates that 'Isa will be reminded of these favors on
 
 ## Tafsir Summary
 
-(Remember) when Allah will say (on the Day of Resurrection): "O 'Isa, son of Maryam! The first verse (109) referred to prophets in general where a question was asked and its reply was given.
+And the word Tukallim means invited, because his speaking to people while a child is nothing strange by itself.
 
 ## Tafsir Ibn Kathir
 

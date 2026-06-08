@@ -32,7 +32,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And be patient with what they say, and keep away from them in a good way (10)And leave Me alone to deal with the deniers, those who are in possession of good things of life. وَذَرْنِيْ وَالْمُكَذِّبِيْنَ اُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيْلًا (And leave Me [ to deal ] with the deniers, the people of luxury, and give them respite for a while....73:11).
+Only the deniers of the Hereafter will live a life of luxury that is neglectful of the Hereafter.
 
 ## Tafsir Ibn Kathir
 

@@ -72,7 +72,7 @@ Imam Ahmad reported that Zayd bin Arqam said, "One used to address his friend ab
 
 ## Tafsir Summary
 
-Guard strictly (five obligatory) As-Salawat (the prayers) especially the Middle Salah.And stand before Allah with obedience (238)And if you fear (an enemy), (perform Salah) on foot or riding. Based on the authority of some ahadith, a very large number of ` ulama', have said that al-salat al-wusta َالصَّلَاةِ الْوُسْطَىٰ or the middle salah is the salah of ` Asr because there are before it, two Salahs during the day, that of Fajr and Zuhr; and after these come two evening Salahs, that of Maghrib and ` Isha'.
+Guard strictly (five obligatory) As-Salawat (the prayers) especially the Middle Salah.And stand before Allah with obedience (238)And if you fear (an enemy), (perform Salah) on foot or riding. The verse 239 has allowed a special way of offering prayers in the state of 'fear' i.e.
 
 ## Tafsir Ibn Kathir
 

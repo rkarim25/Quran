@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Ibrahim said: "O my Lord! Stated in the previous verses was the rational strength and cardinal position of Tauhid, the belief in the Oneness of Allah.
+The second prayer made by him was: 'and keep me and my children away from worshiping idols.' Though, prophets on whom be peace are protected by Allah, so Shirk, idol-worship, or a sin cannot issue forth from them. Therefore, the words of the prayer made were general when he said: 'My Lord, make this a city of peace.' In the prayer which he made when Makkah was already a populated city, he made a definite reference to the city of Makkah saying: 'My Lord, make this city peacefu…
 
 ## Tafsir Ibn Kathir
 

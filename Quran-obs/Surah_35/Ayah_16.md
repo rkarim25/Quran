@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O mankind! In the last verse: إِن تَدْعُوهُمْ لَا يَسْمَعُوا دُعَاءَكُمْ وَلَوْ سَمِعُوا مَا اسْتَجَابُوا لَكُمْ (If you call them, they do not hear your call, and even if they were to hear, they would not respond to you.
+But Allah is the Rich, Worthy of all praise (15)If He willed, He could destroy you and bring about a new creation (16)And that is not hard for Allah (17)And no bearer of burdens shall bear another's burden; and if one heavily laden calls another to (bear) his load, nothing of it will be lifted even though he be near of kin.
 
 ## Tafsir Ibn Kathir
 

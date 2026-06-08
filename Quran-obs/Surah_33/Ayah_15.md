@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if the enemy had entered from all sides, and they had been exhorted to Al-Fitnah, they would surely have committed it and would have hesitated thereupon but little (14)And indeed they had already made a covenant with Allah not to turn their backs, and a covenant with Allah must be answered for (15)Say: "Flight will not avail you if you flee from death or killing and then you will enjoy no more than a little while!
+Then Allah reminds them of the promise they had made to Him before this fear struck them, that they would not turn their backs or flee from the battlefield.
 
 ## Tafsir Ibn Kathir
 

@@ -39,7 +39,7 @@ Not much time had passed when a whole section of the Qur'an was revealed about t
 
 ## Tafsir Summary
 
-Surely, We have sent down to you (O Muhammad ﷺ) the Book in truth that you might judge between men by that which Allah has shown you, so be not a pleader for the treacherous (105)And seek the forgiveness of Allah, certainly, Allah is Ever Oft-Forgiving, Most Merciful (106)And argue not on behalf of those who deceive themselves. The background of these verses The nine verses (105-113) cited above refer to a particular episode.
+Surely, We have sent down to you (O Muhammad ﷺ) the Book in truth that you might judge between men by that which Allah has shown you, so be not a pleader for the treacherous (105)And seek the forgiveness of Allah, certainly, Allah is Ever Oft-Forgiving, Most Merciful (106)And argue not on behalf of those who deceive themselves.
 
 ## Tafsir Ibn Kathir
 

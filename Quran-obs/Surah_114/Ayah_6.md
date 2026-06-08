@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "I seek refuge with the Lord of An-Nas, (1)"The King of An-Nas, (2)"The God of An-Nas, (3)"From the evil of the whisperer who withdraws. Verse [ 114:6] مِنَ الْجِنَّةِ وَالنَّاسِ (whether from among the Jinn or Mankind.) This is explicative of the expression waswas occurring in verse [ 4], meaning that the devils from amongst mankind and the Jinn whisper into the breasts of mankind.
+A subtle difference between the two Surahs of Mu'awwadhatain In the present Surah, rabb [ Lord ], malik [ King ] and ilah [ God ], three Divine attributes have been invoked, while the evil from which protection is sought is only one, that is, the whispering.
 
 ## Tafsir Ibn Kathir
 

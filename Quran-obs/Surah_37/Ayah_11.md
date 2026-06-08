@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then ask them: "Are they harder to create, or those whom We have created?" Verily, We created them of a sticky clay (11)Nay, you wondered while they mock (12)And when they are reminded, they pay no attention (13)And when they see an Ayah (a sign) from Allah, they mock at it (14)And they say: "This is nothing but evident magic! After having proved the belief in the Oneness of Allah, described in the present eight verses is the belief in the 'Akhirah or Hereafter along with an answer to doubts entertained by disbelievers about it.
+Human creation is from sperm, sperm from blood and blood from food.
 
 ## Tafsir Ibn Kathir
 

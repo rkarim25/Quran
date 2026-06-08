@@ -39,7 +39,7 @@ And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and 
 
 ## Tafsir Summary
 
-And indeed We tried before them Fir'awn's people, when there came to them a noble Messenger (17)Saying: "Deliver to me the servants of Allah. Weeping of the Sky and the Earth فَمَا بَكَتْ عَلَيْهِمُ السَّمَاءُ وَالْأَرْ‌ضُ "So, neither the sky and earth wept over them...
+And We made other people inherit them (28)And the heavens and the earth wept not for them, nor were they given respite (29)And indeed We saved the Children of Israel from the humiliating torment (30)From Fir'awn; verily, he was arrogant and was of the excessive (31)And We chose them above the nations (Al-'Alamin) with knowledge (32)And granted them signs in which there was a plain trial (33).
 
 ## Tafsir Ibn Kathir
 

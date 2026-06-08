@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And whomsoever Allah sends astray, for him there is no protector after Him. Seventh virtue:۔ وَالَّذِينَ إِذَا أَصَابَهُمُ الْبَغْيُ هُمْ يَنتَصِرُ‌ونَ (and those who, when they are subjected to aggression, defend themselves - 39.) The original word used in the text is ` yantasirun' which may be translated as ` defend themselves' and also as ` retaliate'.
+And whomsoever Allah sends astray, for him there is no protector after Him.
 
 ## Tafsir Ibn Kathir
 

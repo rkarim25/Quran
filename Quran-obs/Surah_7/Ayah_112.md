@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "Put him and his brother off (for a time), and send callers to the cities to collect (111)"That they bring to you all well-versed sorcerers. These verses narrate the remaining part of the story of the prophet Musa (علیہ السلام) .
+Because of this incorrect assumption, they brought all the magicians in order to defeat the miracles that he showed them. He was, therefore, sent with the miraculous powers of restoring the sight of those who were born blind and cure the lepers instantly with a touch of his hand.
 
 ## Tafsir Ibn Kathir
 

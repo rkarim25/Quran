@@ -107,7 +107,7 @@ This is followed by a description of the Jihads which Prophets Musa and ` Isa (�
 
 ## Tafsir Summary
 
-And when Musa said to his people: "O my people! إِنَّ اللَّـهَ يُحِبُّ الَّذِينَ يُقَاتِلُونَ فِي سَبِيلِهِ صَفًّا كَأَنَّهُم بُنْيَانٌ مَّرْ‌صُوصٌ (Surely Allah loves those who fight in His way in firm rows, as if they were a solid edifice...61:4) The main subject of this Surah for which it was revealed is to mention the dearest action in the sight of Allah.
+Prophecy of The Final Messenger of Allah ﷺ in Injil It is a known fact that the previously revealed Divine scriptures have been changed and distorted.
 
 ## Tafsir Ibn Kathir
 

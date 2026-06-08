@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We never sent before you any of the Messengers but verily, they ate food and walked in the markets. In the forgoing verses a general answer was given to the doubts raised by the infidels and polytheists in regard to prophethood of the Holy Prophet ﷺ .
+And We have made some of you as a trial for others; will you have patience And your Lord is Ever All-Seer .
 
 ## Tafsir Ibn Kathir
 

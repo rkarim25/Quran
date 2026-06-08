@@ -30,7 +30,7 @@ As said earlier, the Holy Qur'an used a variety of ways to focus on the same sub
 
 ## Tafsir Summary
 
-O you who believe! In the previous verse, Muslims were commanded to abstain from interest-based dealings, a sin which deprives them of the quality of Taqwa, (the fear of Allah, the sense of responsibility before Him).
+Also worth noting are the statements of the Holy Qur'an which prove that, whatever the noble Messenger ﷺ says is by Divine permission and not on his own.
 
 ## Tafsir Ibn Kathir
 

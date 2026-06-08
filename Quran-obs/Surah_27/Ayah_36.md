@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, when (the messengers with the gift) came to Sulayman, he said: "Will you help me in wealth? "Are you giving me an aid of wealth?
+Therefore, I do not accept your presents of wealth.
 
 ## Tafsir Ibn Kathir
 

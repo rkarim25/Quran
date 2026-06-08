@@ -112,7 +112,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Thus will your Lord choose you and teach you the interpretation of dreams (and other things) and perfect His favor on you and on the offspring of Ya'qub, as He perfected it on your fathers, Ibrahim and Ishaq aforetime! Expertise in the Interpretation of Dreams is Bestowed by Allah on whom He wills In the sixth verse, Allah Ta ا ala has promised some blessings for Sayyidna Yusuf (علیہ السلام) : (1) كَذَٰلِكَ يَجْتَبِيكَ رَ‌بُّكَ (And in the like manner your Lord will choose you ...) that is, H-e will choose him for His blessings and favours, something which manifested itself when wealth, recognition and power came into his hands in the countr…
+This tells us that an instant actualization of an interpretation is not necessary either.
 
 ## Tafsir Ibn Kathir
 

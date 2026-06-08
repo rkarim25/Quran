@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! After that, in the fifth verse (279), severe warning has been given to those who act contrary to this injunction.
+Deal not unjustly, and you shall not be dealt with unjustly (279)And if the debtor is having a hard time, then grant him time till it is easy for him to repay; but if you remit it by way of charity, that is better for you if you did but know (280)And have Taqwa the Day when you shall be brought back to Allah.
 
 ## Tafsir Ibn Kathir
 

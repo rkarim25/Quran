@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So they turned to themselves and said: "Verily, you are the wrongdoers. The words of Sayyidna Ibrahim (علیہ السلام) were not untrue, but only allusions قَالَ بَلْ فَعَلَهُ كَبِيرُ‌هُمْ هَـٰذَا فَاسْأَلُوهُمْ إِن كَانُوا يَنطِقُونَ (He said, "Rather, this is done by this chief of theirs.
+His adoption of this act of dissimulation in fact served many religious interests; one of them being to make the people aware of the possibility that perhaps the big idol was infuriated with the smaller idols because they too were worshipped with the same degree of reverence as itself. This is called tauriyah (dissembling) where the words used may be interpreted differently, so that the listener understands them one way whereas the speaker means something else.
 
 ## Tafsir Ibn Kathir
 

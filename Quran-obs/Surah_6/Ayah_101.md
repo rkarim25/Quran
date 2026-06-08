@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He is the Badi' (Originator) of the heavens and the earth. The contents of this verse present a unique concern for thematic order.
+He created all things and He is the All-Knower of everything .
 
 ## Tafsir Ibn Kathir
 

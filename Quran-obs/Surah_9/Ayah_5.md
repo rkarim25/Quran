@@ -116,7 +116,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So when the Sacred Months have passed, then fight the Mushrikin wherever you find them, and capture them and besiege them, and lie in wait for them in each and every ambush. 7.
+So when the Sacred Months have passed, then fight the Mushrikin wherever you find them, and capture them and besiege them, and lie in wait for them in each and every ambush. Rather, seek and besiege them in their areas and forts, gather intelligence about them in the various roads and fairways so that what is made wide looks ever smaller to them.
 
 ## Tafsir Ibn Kathir
 

@@ -121,7 +121,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Answer the Call of your Lord before there comes from Allah a Day which cannot be averted. The earlier three of the above verses state the end of those people who, as against the virtuous Muslims, remained desirous of the delights and luxuries of this world, instead of caring about the Hereafter.
+And verily, when We cause man to taste of mercy from Us, he rejoices there at; but when some evil befalls them because of the deeds which their hands have sent forth, then verily, man (becomes) ingrate . You will have no refuge on that Day nor there will be for you any denying (47)But if they turn away, We have not sent you as a Hafiz over them.
 
 ## Tafsir Ibn Kathir
 

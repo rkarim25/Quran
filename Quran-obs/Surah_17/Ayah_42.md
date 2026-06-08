@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "If there had been other gods along with Him as they assert, then they would certainly have sought out a way to the Lord of the Throne (42)Glorified and Exalted is He high above what they say (43) Allah says: 'Say,… According to the proof of Tauhid (the Oneness of Allah) given in the verse: إِذًا لَّابْتَغَوْا إِلَىٰ ذِي الْعَرْ‌شِ سَبِيلًا (then they would have found out a way to the Lord of the Throne - 42), Allah alone is the creator, owner and master of the entire universe.
+Allah says: 'Say, O Muhammad, to these idolators who claim that Allah has a partner among His creation, and who worship others besides Him that they may bring them nearer to Him: if the matter is as you say, and there is another god besides Him whom you worship in order to draw closer to Him and so that he will intercede for you with Him, then those whom you worship would themselves worship Him and seek means to draw closer to Him.
 
 ## Tafsir Ibn Kathir
 

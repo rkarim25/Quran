@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We have created man, and We know what his self whispers to him. Two Angels to Lead Man to the Plane of Hashr وَجَاءَتْ كُلُّ نَفْسٍ مَّعَهَا سَائِقٌ وَشَهِيدٌ (And everybody will come, along with one [ angel ] to drive [ him to the field of reckoning ] and one [ angel ] to testify [ about his deeds ] 50:21).
+Another possible interpretation is that these two angels refer to the "honorable scribes" who used to accompany human beings all the time in the world on the right and left to record their deeds.
 
 ## Tafsir Ibn Kathir
 

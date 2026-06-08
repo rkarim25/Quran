@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Likewise, We woke them that they might question one another. The word: رجم (rajm) in: يَرْ‌جُمُوكُمْ means they will stone you to death - 19.' It will be recalled that the king had warned them - before they went to the Cave - that they will be killed if they kept adhering to their present faith.
+So send one of you with this silver coin of yours to the town, and let him find out which is the Azka food, and bring some of that to you.
 
 ## Tafsir Ibn Kathir
 

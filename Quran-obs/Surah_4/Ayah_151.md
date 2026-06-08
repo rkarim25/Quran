@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who disbelieve in Allah and His Messengers and wish to make distinction between Allah and His Messengers saying, "We believe in some but reject others," and wish to adopt a way in between (150)They are in truth disbelievers. Salvation depends on Islam This clear verdict of the Holy Qur'an has exposed the rudderless and crooked ways of those who, in an effort to appear tolerant in dealings with peoples of other faiths, would like to present their religion and religious beliefs as gifts on a platter.
+This is because their claimed faith in a certain Messenger is not true, for had they truly believed in him, they would have believed in other Messengers, especially if the other Messenger has a stronger proof for his truthfulness. And We have prepared for the disbelievers a humiliating torment (151)And those who believe in Allah and His Messengers and make no distinction between any of them (Messengers), We shall give them their rewards; and Allah is Ever Forgiving, Most Merc…
 
 ## Tafsir Ibn Kathir
 

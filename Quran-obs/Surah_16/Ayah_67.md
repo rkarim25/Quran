@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And there is indeed a lesson for you in the An'am (cattle). Described in the previous verses were blessings of Allah Ta’ ala which manifest the stunning marvel of Divine power and creativity.
+We have made a drink for you out of what is in its belly, from between excretions and blood, pure milk; palatable to the drinkers (66)And from the fruits of date palms and grapes, you derive strong drink and a goodly provision. After that it was said that human beings do make things from some fruits of the date-palms and grape-vines as well, which serve them as food, and other benefits.
 
 ## Tafsir Ibn Kathir
 

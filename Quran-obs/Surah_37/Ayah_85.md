@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, among those who followed his way was Ibrahim (83)When he came to his Lord with a Salim heart (84)When he said to his father and to his people: "What is it that which you worship? In verse 84, it was said: إِذْ جَاءَ رَ‌بَّهُ بِقَلْبٍ سَلِيمٍ (when he came to his Lord with a pure heart).
+Then what think you about the Lord of the all that exists?) Qatadah said, "This means, 'what do you think He will do with you when you meet Him, given that you worshipped others alongside Him?"
 
 ## Tafsir Ibn Kathir
 

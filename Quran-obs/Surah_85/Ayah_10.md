@@ -68,7 +68,7 @@ Then, after Ibn Ishaq explained that the people of Najran began following the re
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا (Surely, those who persecuted the believing men and the believing women, then did not repent,...85:10) This verse describes the torment of the wrong-doers who burned the Muslims in the fire pit only on account of their faith.
+Another possible interpretation is that the second statement describes the wrong-doers' torment in this world, as is narrated in some reports.
 
 ## Tafsir Ibn Kathir
 

@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, We have adorned the near heaven with the stars (6)And to guard against every rebellious Shaytan (7)They cannot listen to the higher group for they are pelted from every side (8)Outcast, and theirs is a constant t… In the next verse, it was said: إِنَّا زَيَّنَّا السَّمَاءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ (Verily, We have decorated the nearest sky with an adornment, the stars, - 37:6).
+Verily, We have adorned the near heaven with the stars (6)And to guard against every rebellious Shaytan (7)They cannot listen to the higher group for they are pelted from every side (8)Outcast, and theirs is a constant torment (9)Except such as snatch away something by stealing, and they are pursued by a flaming fire of piercing brightness .
 
 ## Tafsir Ibn Kathir
 

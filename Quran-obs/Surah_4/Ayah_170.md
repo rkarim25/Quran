@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But Allah bears witness to that which He has sent down unto you; He has sent it down with His knowledge, and the angels bear witness. After answering the objections raised by the Jews and confirming the prophethood of Sayyidna Muhammad al-Mustafa, ﷺ the Qur'an carries the message of Allah to all human beings wherever they may be as they are its direct addressees this verse.
+Verily, there has come to you the Messenger with the truth from your Lord, so believe in him, it is better for you.) This Ayah means, Muhammad ﷺ has come to you with guidance, the religion of truth and clear proof from Allah. Verily, there has come to you the Messenger with the truth from your Lord.
 
 ## Tafsir Ibn Kathir
 

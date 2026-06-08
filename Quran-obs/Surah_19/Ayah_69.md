@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And man says: "When I am dead, shall I then be raised up alive? "Then We will certainly draw out from every group." - 19:69.
+Then, Allah will begin with the greatest of them in crime and continue in succession. This means that He, the Exalted, created the human being while he was nothing.
 
 ## Tafsir Ibn Kathir
 

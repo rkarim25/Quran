@@ -95,7 +95,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "O My servants who believe, have Taqwa of your Lord. In verse 10, it was said: وَأَرْ‌ضُ اللَّـهِ وَاسِعَةٌ (and the earth of Allah is wide).In the sentence previous to this, Good deeds had been enjoined.
+Good is for those who do good in this world, and Allah's earth is spacious!
 
 ## Tafsir Ibn Kathir
 

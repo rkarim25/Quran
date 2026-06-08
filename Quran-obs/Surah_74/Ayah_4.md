@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَثِيَابَكَ فَطَهِّرْ (and purify your clothes...
+The different interpretations attached to the verse enrich its significance. Thus the verse would signify that the body and clothes must be kept clean from all kinds of physical impurity.
 
 ## Tafsir Ibn Kathir
 

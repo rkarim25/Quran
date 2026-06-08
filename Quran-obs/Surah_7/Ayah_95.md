@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We sent no Prophet unto any town (and they denied him), but We seized its people with Ba'sā' and Ḍarrā', so that they might humble themselves (to Allah)(94)Then We changed the evil for the good, until they 'Afaw (inc… The Arabic word: سَّيِّئَةِ 'sayyiah' in this verse refers to distress, while the word: حَسَنَةَ 'hasanah' signifies prosperity, and the word عَفَو ` Afw': signifies increase or growth.
+And We sent no Prophet unto any town (and they denied him), but We seized its people with Ba'sā' and Ḍarrā', so that they might humble themselves (to Allah)(94)Then We changed the evil for the good, until they 'Afaw (increased), and said: "Our fathers were touched with evil and with good." So We seized them all of a sudden while they were unaware .
 
 ## Tafsir Ibn Kathir
 

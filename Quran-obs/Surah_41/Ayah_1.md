@@ -10,7 +10,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. In verse 85, it was said: فَلَمْ يَكُ يَنفَعُهُمْ إِيمَانُهُمْ (But, their profession of faith was not [ competent ] to benefit them, once they had seen Our punishment), that is, it is after seeing the punishment that these people are confessing to the true faith, but a declaration of faith at this late hour is not acceptable and trustworthy with Allah.
+A Book whereof the Ayat are explained in detail – a Qur'an in Arabic for people who know.)(4. Giving glad tidings and warning, but most of them turn away, so they hear not.)(5.
 
 ## Tafsir Ibn Kathir
 

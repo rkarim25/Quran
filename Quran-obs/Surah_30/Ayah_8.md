@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(And on that day, the believers will rejoice – with the help of Allah.) They will rejoice because the Romans, the companions of Caesar, the king of Ash-Sham, defeated the Persians, the companions of Chosroes, who were Zoroastrians. The first two verses are an appendix and endorsement to the previous subject that these disbelievers are engrossed so much in the temporary mundane glitter and transitory pleasures that they have totally forgotten the real nature of this world and its ultimate end.
+There is a great wisdom and purpose behind their creation, which is, that people should recognize the Creator through all His creations, and then get on to look for things that He likes and dislikes.
 
 ## Tafsir Ibn Kathir
 

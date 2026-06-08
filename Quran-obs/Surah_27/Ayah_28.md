@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Sulayman) said: "We shall see whether you speak the truth or you are (one) of the liars. Letters and writings are enough proof on religious matters in the normal circumstances اذْهَب بِّكِتَابِي هَـٰذَا (Go with this letter of mine - 28).
+This shows that in the normal circumstances the letter or writing is an acceptable proof.
 
 ## Tafsir Ibn Kathir
 

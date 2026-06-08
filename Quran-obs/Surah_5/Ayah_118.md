@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Allah will say (on the Day of Resurrection): "O 'Isa, son of Maryam! 1.
+And since He is Wise too, therefore, it is also not possible that He would let a wrong-doer walk away just for no reason.
 
 ## Tafsir Ibn Kathir
 

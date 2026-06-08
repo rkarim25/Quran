@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And he said: "Verily, I am going to my Lord. By saying: كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ (This is how We reward those who are good in deeds - 110), the sense is, 'when a servant of Allah bows down before the command of Allah and is ready to sacrifice all personal t…
+The Muslims and the People of the Book agree, and indeed it is stated in their Book, that Isma'il, peace be upon him, was born when Ibrahim, peace be upon him, was eighty-six years old, and Ishaq was born when Ibrahim was ninety-nine years old.
 
 ## Tafsir Ibn Kathir
 

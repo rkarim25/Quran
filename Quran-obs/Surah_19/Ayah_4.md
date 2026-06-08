@@ -69,7 +69,7 @@ The reason for his fear was that he was afraid that the generation that would su
 
 ## Tafsir Summary
 
-Muhammad bin Ishaq recorded a Hadith of Umm Salamah in his Sirah, and Ahmad bin Hanbal recorded from Ibn Mas'ud, the story of the Hijrah (migration) to Ethiopia from Makkah. "Here I am that bones within me have turned feeble, and the head has flared up grey with old age." - 19:4 Human body becomes weak with the aging of bones, because it is the bones which keep the body firm and upright.
+Here the word is used as a simile for grey hair covering the head like a glow of fire. When he called his Lord [with] a call in secret.)(4.
 
 ## Tafsir Ibn Kathir
 

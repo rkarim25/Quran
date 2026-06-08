@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But no! فَلَا أُقْسِمُ بِالشَّفَقِ وَاللَّيْلِ وَمَا وَسَقَ وَالْقَمَرِ إِذَا اتَّسَقَ (So, I swear by the twilight [ after sunset ], and by the night and what it envelops, and by the moon when it develops at the full...84:16-18…
+The primitive sense of the word wasaqa means to 'pile, gather, heap up the thing'. By extension, the word would comprehend all things that normally disperse in the light of day and retreat to their own places at night.
 
 ## Tafsir Ibn Kathir
 

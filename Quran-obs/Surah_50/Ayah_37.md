@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And how many a generation We have destroyed before them who were stronger in power than they. Channels of Acquiring Knowledge لِمَن كَانَ لَهُ قَلْبٌ ( who has a heart - 50:37).
+The message of the above verses is that two types of people benefit: [ 1] a person who has the mind and the intellect who understands it in his mind and accepts it; and [ 2] a person who gives his ears and listens to the Divine verses with an attentive heart, while his heart is present and not absent.
 
 ## Tafsir Ibn Kathir
 

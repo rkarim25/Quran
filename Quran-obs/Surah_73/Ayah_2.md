@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. Injunctions Pertaining to salat-ut-Tahajjud and its Abrogation Reading into the titles muzzammil and muddaththir a consensus of scholarly opinion assigns the revelation of this Surah to the earliest period when the five daily prayers had not become obligatory.
+This verse not only prescribes the night-prayer but it also prescribes to stand up in prayer from at least one quarter of the night, because the verse under comment basically commanded to stand up all night to pray except a little portion of it.
 
 ## Tafsir Ibn Kathir
 

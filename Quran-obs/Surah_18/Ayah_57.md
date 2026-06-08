@@ -133,7 +133,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And who does more wrong than he who is reminded of the Ayat (signs) of his Lord, but turns away from them, forgetting what his hands have sent forth. The statement: وَكَانَ الْإِنسَانُ أَكْثَرَ‌ شَيْءٍ جَدَلًا (And man is the most quarrel-some of all things - 54) has been testified through a Hadith narrated by Sayyidna 'Anas ؓ in which the Holy Prophet ﷺ has been reported to have said, "On the day of Qiyamah, a man from among the disbelievers will be brought forth.
+And who does more wrong than he who is reminded of the Ayat (signs) of his Lord, but turns away from them, forgetting what his hands have sent forth.
 
 ## Tafsir Ibn Kathir
 

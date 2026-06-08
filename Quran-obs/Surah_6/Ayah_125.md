@@ -127,7 +127,7 @@ Hakim in al-Mustadrak and Baihaqi in Shu'ab al-'Iman report from Sayyidna ` Abdu
 
 ## Tafsir Summary
 
-And whomsoever Allah wills to guide, He opens his breast to Islam; and whomsoever He wills to send astray, He makes his breast closed and constricted, as if he is climbing up to the sky. Signs of 'Sharh al-Sadr in Din Some signs of the Divinely-guided, and the firm on error, have been given in the third verse (125).
+And whomsoever Allah wills to guide, He opens his breast to Islam; and whomsoever He wills to send astray, He makes his breast closed and constricted, as if he is climbing up to the sky.
 
 ## Tafsir Ibn Kathir
 

@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And had Allah willed, He would have made you (all) one nation, but He allows whom He wills to stray and He guides whom He wills. In verse 92: أَن تَكُونَ أُمَّةٌ هِيَ أَرْ‌بَىٰ مِنْ أُمَّةٍ (merely because a group is higher [ in number and wealth ] than the other), Muslims have been ordered that they should not break the pact they enter into with a group simply for the sake of worldly interests and gains.
+But you shall certainly be called to account for what you used to do (93)And do not make your oaths a means of deception among yourselves, resulting in the slip of a foot after it was firmly planted, and you taste the evil of having hindered from the path of Allah, and you will suffer a terrible punishment (94)And do not use an oath by Allah for the purchase of little value, what is with Allah is better for you if you only knew (95)Whatever you have will be exhausted, and wha…
 
 ## Tafsir Ibn Kathir
 

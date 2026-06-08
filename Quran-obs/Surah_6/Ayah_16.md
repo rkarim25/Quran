@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "To whom belongs all that is in the heavens and the earth?" Say: "To Allah." He has prescribed mercy for Himself. After that, it was said: مَّن يُصْرَ‌فْ عَنْهُ يَوْمَئِذٍ فَقَدْ رَ‌حِمَهُ (Whoever is spared from it that day is, indeed, blessed with His mercy).
+Whoever finds this removed from him or her should know that it was great mercy from Allah.
 
 ## Tafsir Ibn Kathir
 

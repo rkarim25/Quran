@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And what made you hasten from your people, O Musa (83)He said: "They are close on my footsteps, and I hastened to You, O my Lord, that You might be pleased. Sayyidna Musa (علیہ السلام) and the Bani Isra'il, having escaped the Pharaoh's wrath and having crossed the river in safety, proceeded on their journey.
+Ibn 'Abbas said, "Nay, by Allah, the moaning sound of the calf was nothing but wind that would enter into its behind and come out of its mouth, thus causing it to make a sound." In a Hadith of Al-Fitun recorded from Al-Hasan Al-Basri, it is mentioned that this calf's name was Bahmut.
 
 ## Tafsir Ibn Kathir
 

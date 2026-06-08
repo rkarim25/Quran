@@ -141,7 +141,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And women in the city said: "The wife of the 'Aziz is seeking to seduce her (slave) young man, indeed she loves him violently; verily, we see her in plain error. Having explained the linkage of verse before the beginning of the pre-sent verses, we can now turn to the explanation of individual verses.
+Others said that after they ate and felt comfortable, and after having placed citron in front of them, giving each one of them a knife, the wife of the 'Aziz asked them, "Would you like to see Yusuf" They said, "Yes." So she sent for him to come in front of them and when they saw him, they started cutting their hands.
 
 ## Tafsir Ibn Kathir
 

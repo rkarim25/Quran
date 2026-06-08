@@ -123,7 +123,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "This has been given to me only because of the knowledge I possess." Did he not know that Allah had destroyed before him generations, men who were stronger than him in might and greater in the amount they had collected? إِنَّمَا أُوتِيتُهُ عَلَىٰ عِلْمٍ عِندِي (This is given to me because of knowledge (I have) with me- 28:78).
+The real answer to Qarun's assertion that he had collected all his wealth by his personal skill and efforts is the one mentioned above; that even if it is accepted for a moment that he had acquired his wealth by his personal skill and knowledge, the point is that this knowledge and experience was also the gift of Allah Ta’ ala.
 
 ## Tafsir Ibn Kathir
 

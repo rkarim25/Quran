@@ -96,7 +96,7 @@ Al-Hafiz Abu Bakr Al-Bayhaqi recorded that Sa'd said, "There were four Ayat reve
 
 ## Tafsir Summary
 
-O you who believe! The second verse (91) describes the physical and outwardly visible defects of drinking and gambling: إِنَّمَا يُرِ‌يدُ الشَّيْطَانُ أَن يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ فِي الْخَمْرِ‌ that is, the Satan wants nothing but to plant enmity and malice between you through drinking and gambling.
+So, will you not then abstain) This is a threat and a warning.
 
 ## Tafsir Ibn Kathir
 

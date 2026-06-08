@@ -26,7 +26,7 @@ It is revealed in this verse that the infidels will lie on the Day of Resurrecti
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. After this, the falsehood and ignorance of the deniers of the Dooms Day is mentioned وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِ‌مُونَ مَا لَبِثُوا غَيْرَ‌ سَاعَةٍ that is, ‘When the Dooms Day will come, these deniers of the Dooms Day will start swearing by losing senses after looking at the horrid scenes, that their stay was not more than one hour'.
+These are Ayat of the Wise Book.)(3. It is probable that the stay referred to here is the stay in this world, because they spent the time in this world in comfort and ease.
 
 ## Tafsir Ibn Kathir
 

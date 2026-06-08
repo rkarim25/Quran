@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The disbelievers pretend that they will never be resurrected. يَوْمَ يَجْمَعُكُمْ لِيَوْمِ الْجَمْعِ ۖ ذَٰلِكَ يَوْمُ التَّغَابُنِ ([ Be mindful of ] the day when He will gather you for the Day of Gathering.
+Financial loss as well as mental deficiency is referred to as ghabn.
 
 ## Tafsir Ibn Kathir
 

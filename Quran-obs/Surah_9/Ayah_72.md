@@ -106,7 +106,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah has promised the believers – men and women, – Gardens under which rivers flow to dwell therein forever, and beautiful mansions in gardens of 'Adn (Eden; Paradise). Previous verses mentioned hypocrites - their conspiracies, hostilities, and the punishment waiting for them.
+Allah has promised the believers – men and women, – Gardens under which rivers flow to dwell therein forever, and beautiful mansions in gardens of 'Adn (Eden; Paradise).
 
 ## Tafsir Ibn Kathir
 

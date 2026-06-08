@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Recitation of Surat As-Sajdah and Al-Insan in the Morning Prayer on Friday It has been mentioned previously that it is recorded in Sahih Muslim from Ibn 'Abbas that the Messenger of Allah ﷺ used to recite in the Morn… Neither we were there, nor was there any demand from us.
+If this sense of amshaj 'mixed' is taken into account here, it allays the greatest doubt of the rejecters of Resurrection.
 
 ## Tafsir Ibn Kathir
 

@@ -100,7 +100,7 @@ Muhammad bin Ishaq narrated that Az-Zuhri, Muhammad bin Yahya bin Hibban, 'Asim 
 
 ## Tafsir Summary
 
-Verily, those who disbelieve spend their wealth to hinder (men) from the path of Allah, and so will they continue to spend it; but in the end it will become an anguish for them. At the end of the verse (36), given there is the evil end of these people in terms of the Hereafter: وَالَّذِينَ كَفَرُ‌وا إِلَىٰ جَهَنَّمَ يُحْشَرُ‌ونَ (And those who disbelieve shall be gathered into Jahannam).
+Verily, those who disbelieve spend their wealth to hinder (men) from the path of Allah, and so will they continue to spend it; but in the end it will become an anguish for them. Allah states here that the disbelievers spend their wealth to hinder from the path of truth.
 
 ## Tafsir Ibn Kathir
 

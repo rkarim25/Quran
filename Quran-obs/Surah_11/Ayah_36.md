@@ -82,7 +82,7 @@ And it was revealed to Nuh: "None of your people will believe except those who h
 
 ## Tafsir Summary
 
-And it was revealed to Nuh: "None of your people will believe except those who have believed already. Allah Ta` a1a had blessed Sayyidna Nuh (علیہ السلام) with long years of life extending up to nearly one thousand years.
+Therefore, he should make an ark that could hold his family, as many believers as there were, and what they needed, so that they could embark it when the flood comes and be safe from it. Therefore, he should not worry about how they deal with him because one feels the pinch of sorrow only when one expects something good to come from someone.
 
 ## Tafsir Ibn Kathir
 

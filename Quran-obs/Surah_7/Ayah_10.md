@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And surely, We gave you authority on the earth and appointed for you therein livelihoods. In the first verse, it was said: وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ ` (And the Weighing on that day is definite).
+And surely, We gave you authority on the earth and appointed for you therein livelihoods. Leaving this aside for a moment, the Creator of the Universe does have the power to transform our deeds at some time into a material presence, even give it some shape or form (interesting that people would believe something like this happening in a Speilberg movie, yet squirm at the religious view of things as would come to pass).
 
 ## Tafsir Ibn Kathir
 

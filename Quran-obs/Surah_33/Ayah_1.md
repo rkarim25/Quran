@@ -66,7 +66,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. This is a Madani Surah.
+And Ibn Kathir has said: In this verse, the real purpose of prohibiting the obedience of the disbelievers is that the Holy Prophet ﷺ should not consult with them or let them have the opportunity of sitting with him frequently, because such consultation or mutual interaction generally becomes the cause of ending up in a disposition favouring the acceptance of what they proposed.
 
 ## Tafsir Ibn Kathir
 

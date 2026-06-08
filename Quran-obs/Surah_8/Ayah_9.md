@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when you sought help of your Lord and He answered you (saying): "I will help you with a thousand of the angels Murdifin. In substance, what Muslims are being chastised for is their choice of an option which was laced with timidity, desire to relax, and was a thing of temporal benefit.
+Therefore, the promise of sending angels was kept synchronized with the numbers of the adversary in the combat, so that their hearts are put at rest fully and comprehensively.
 
 ## Tafsir Ibn Kathir
 

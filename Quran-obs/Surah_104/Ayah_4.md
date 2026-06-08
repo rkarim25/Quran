@@ -23,7 +23,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The third evil quality denounced severely in this Surah is greed, that is, the selfish hoarding of wealth, against which is the stern warning of the dreadful end of those who have passion for worldly riches.
+He thinks that his wealth will make him last forever!)(4. This means that the person finds fault with people and belittles them.
 
 ## Tafsir Ibn Kathir
 

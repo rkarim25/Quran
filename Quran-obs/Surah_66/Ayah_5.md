@@ -84,7 +84,7 @@ I said, 'Messenger of Allah, have you divorced them?' He said, 'No.' I stood at 
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. عَسَىٰ رَ‌بُّهُ إِن طَلَّقَكُنَّ أَن يُبْدِلَهُ أَزْوَاجًا خَيْرً‌ا مِّنكُنَّ (It is hoped that, if he divorces you, Allah will give him in your place wives better than you, submissive to Allah, believing, devout, penitent, steadfast in worship, fasting, previously married and virgins....66:5).
+Therefore, do not inform anybody about it.) Al-Bukhari also recorded this Hadith in the Book of Divorce; then he said, "Al-Maghafir is a type of sap, and in Ar-Rimth (a type of citrus) its taste is sweet..." Al-Jawhari said, "The 'Urfut is a tree of the shrub variety, which secretes Maghfur." Muslim collected this Hadith from 'A'ishah in the Book of Divorce in his Sahih, and his wording is the same as Al-Bukhari in the Book of Vows.
 
 ## Tafsir Ibn Kathir
 

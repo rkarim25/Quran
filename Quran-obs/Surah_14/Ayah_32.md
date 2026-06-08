@@ -111,7 +111,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah is He Who has created the heavens and the earth and sends down water (rain) from the sky, and thereby brought forth fruits as provision for you; and He has made the ships to be of service to you, that they may sail… After that it was said that Allah Ta’ ala has subjugated boats and ships to work for you for they move over the waters with His command.
+Allah is He Who has created the heavens and the earth and sends down water (rain) from the sky, and thereby brought forth fruits as provision for you; and He has made the ships to be of service to you, that they may sail through the sea by His command; and He has made rivers (also) to be of service to you (32)And He has made the sun and the moon, both constantly pursuing their courses, to be of service to you; and He has made the night and the day to be of service to you (33)…
 
 ## Tafsir Ibn Kathir
 

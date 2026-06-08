@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Dawud We gave Sulayman. In these verses, an event relating to Sayyidna Sulayman (علیہ السلام) has been mentioned.
+Therefore, he never wasted the horses, in fact, sacrificed them in the name of Allah.
 
 ## Tafsir Ibn Kathir
 

@@ -125,7 +125,7 @@ Allah says, fear Allah, O people, and beware of His might, by obeying what He co
 
 ## Tafsir Summary
 
-Lawful to you is water game and its use for food – for the benefit of yourselves and those who travel, but forbidden is (the pursuit of) land game as long as you are in a state of Ihram. Four Sources of Tranquility The first verse (97) mentions four things as the cause of constancy, survival and tranquility for people.
+Others have said that it refers to the extended means of sustenance for the people of Makkah, for what is not grown or made there indigenously keeps reaching them from all over the world by the grace of Allah Ta` ala.
 
 ## Tafsir Ibn Kathir
 

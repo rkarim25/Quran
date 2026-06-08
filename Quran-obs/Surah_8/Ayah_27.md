@@ -56,7 +56,7 @@ However, it appears that this Ayah is more general, even if it was revealed abou
 
 ## Tafsir Summary
 
-O you who believe! In the third verse (27), Muslims have been instructed not to commit any breach of trust خِیَانہ (khiyanah) in the dual rights due against them, that is, in the rights of Allah (Huququllah) or in the mutual rights of the servants of Allah as enjoined on each other (Huququl-` Ibad) - either by failing to fulfill them totally, or by fulfilling them in a defective manner leaving one or the other shortcoming behind.
+Betray not Allah and His Messenger, nor betray knowingly your Amanat (things entrusted to you)(27)And know that your possessions and your children are but a trial and that surely, with Allah is a mighty reward .
 
 ## Tafsir Ibn Kathir
 

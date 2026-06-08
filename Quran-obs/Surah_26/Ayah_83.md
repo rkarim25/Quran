@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-My Lord! The reasoning for this he gave إِنَّ مَعِيَ رَ‌بِّي سَيَهْدِينِ (62) "Indeed with me is my Lord.
+Bestow Hukm on me, and join me with the righteous (83)And grant me an honorable mention in later generations (84)And make me one of the inheritors of the Paradise of Delight (85)And forgive my father, verily, he is of the erring (86)And disgrace me not on the Day when they will be resurrected (87)The Day whereon neither wealth nor sons will avail (88)Except him who brings to Allah a clean heart .
 
 ## Tafsir Ibn Kathir
 

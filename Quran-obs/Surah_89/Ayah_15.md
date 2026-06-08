@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-As for man, when his Lord tries him by giving him honor and bounties, then he says: "My Lord has honored me. Wealth and Poverty are no Signs of One's Acceptance or Rejection فَأَمَّا الْإِنسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ ۔ وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ (As for man, when his Lord tests him, and thus gives him honour and bounties, he says, "My Lord has honoured me.
+Wealth does not indicate acceptance of a man by Allah, nor does poverty indicate rejection. The word 'man' here primarily refers to an 'unbelieving man' who may form any thought about Allah as he feels like, but in its general sense, the word may include a Muslim as well who has the same thought as an unbeliever.
 
 ## Tafsir Ibn Kathir
 

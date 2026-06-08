@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(1. مَا كُنتَ تَدْرِ‌ي مَا الْكِتَابُ وَلَا الْإِيمَانُ وَلَـٰكِن (You did not know earlier what is the Book or what is "Iman', but We have made it a light with which We guide whomsoever we will from among Our slaves - 42:52).
+Shall We then take away the Reminder from you, because you are a people excessive.)(6. Indeed, He sent it so that those who were decreed to be guided might be guided by it, and so that proof might be established against those who were decreed to be.
 
 ## Tafsir Ibn Kathir
 

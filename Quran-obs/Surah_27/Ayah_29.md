@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Sulayman) said: "We shall see whether you speak the truth or you are (one) of the liars. She (the queen) said (to her officials after receiving the letter), "0 chieftains, there has been thrown to me an esteemed letter, 27:29.
+Literal meaning of Karim is respectable, honorable or esteemed, and idiomatically this word is used for a letter when it is sealed.
 
 ## Tafsir Ibn Kathir
 

@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. (Did We not make for him two eyes, and a tongue and two lips, and showed him the two ways?...90:8-10) The word najdain is the dual form of najd which means an elevated or conspicuous road.
+Probably, this is the reason why the pair of lips is mentioned.
 
 ## Tafsir Ibn Kathir
 

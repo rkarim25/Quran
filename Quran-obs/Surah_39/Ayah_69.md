@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the Trumpet will be blown, and all who are in the heavens and all who are on the earth will swoon away, except him whom Allah wills. In verse 69, it was said: وَجِيءَ بِالنَّبِيِّينَ وَالشُّهَدَاءِ (and the prophets and the witnesses will be brought,) It means that, at the time of reckoning on the plains of Resurrection, present there will be all prophets as well as all other witnesses.
+Then it will be blown another time, and behold they will be standing, looking on (68)And the earth will shine with the light of its Lord, and the Book will be presented, and the Prophets and the witnesses will be brought forward, and it will be judged between them with truth, and they will not be wronged (69)And each person will be paid in full of what he did; and He is Best Aware of what they do .
 
 ## Tafsir Ibn Kathir
 

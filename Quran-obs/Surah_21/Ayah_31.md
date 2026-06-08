@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have not those who disbelieve known that the heavens and the earth were joined together as one united piece, then We parted them? وَجَعَلْنَا فِي الْأَرْ‌ضِ رَ‌وَاسِيَ أَن تَمِيدَ بِهِمْ (And We created mountains on the earth, lest it should shake with them.
+Will they not then believe (30)And We have placed on the earth firm mountains, lest it should shake with them, and We placed therein broad highways for them to pass through, that they may be guided (31)And We have made the heaven a roof, safe and well-guarded. Therefore, the meaning of this verse is that Allah Ta` ala has planted mountains on the earth to hold it in place because any violent movement of the earth would be catastrophic to those who live on it.
 
 ## Tafsir Ibn Kathir
 

@@ -200,7 +200,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who eat Riba will not stand (on the Day of Resurrection) except like the standing of a person beaten by Shaytan leading him to insanity. The prohibition of ربا riba From these verses begins the description of the forbiddance of riba ربا and the injunctions relating to its unlawfulness.
+Taking or giving interest is a sin but taking the haram to be halal is a much greater sin.
 
 ## Tafsir Ibn Kathir
 

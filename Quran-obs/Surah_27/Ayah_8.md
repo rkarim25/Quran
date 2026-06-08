@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when Musa said to his household: "Verily, I have seen a fire; I will bring you from there some information, or I will bring you a burning ember, that you may warm yourselves. So when he came to it, he was called: "Blessed is the one who is in the fire and the one who is around it And pure is Allah, the Lord of the worlds.
+Perhaps I bring you an ember from it, or find some guidance by the fire." So when he came to it, he was called, "0 Musa, it is Me, your Lord, remove your shoes, you are in the sacred valley of Tuwa.
 
 ## Tafsir Ibn Kathir
 

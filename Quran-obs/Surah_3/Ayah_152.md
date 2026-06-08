@@ -175,7 +175,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! As obvious, the noble Companions made an error of judgement during the battle of Uhud which forms the subject of admonition and correction in the previous continuity of verses.
+The cause of your misery is still present.' Abu Sufyan said, 'O Hubal, be high!' On that the Prophet ﷺ said (to his Companions), 'Answer him back.' They said, 'What shall we say?' He said, 'Say, Allah is Higher and more Sublime.' Abu Sufyan said, 'We have the (idol) Al-'Uzza, and you have no 'Uzza.' The Prophet ﷺ said, 'Answer him back.' They asked, 'What shall we say?' He said, 'Say, Allah is our protector and you have no protector.' Abu Sufyan said, 'Our victory today is ve…
 
 ## Tafsir Ibn Kathir
 

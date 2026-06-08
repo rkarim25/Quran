@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, when you meet those who disbelieve (in battle), smite (their) necks until you have fully defeated them, then tighten their bonds. وَيُدْخِلُهُمُ الْجَنَّةَ عَرَّ‌فَهَا لَهُمْ (and will admit them to the Paradise He has identified for them.
+If you support (in the cause of) Allah, He will support you, and make your foothold firm (7)But as for those who disbelieve, misery awaits them, and (Allah) will make their deeds vain (8)That is because they hate that which Allah has sent down; so He has made their deeds fruitless .
 
 ## Tafsir Ibn Kathir
 

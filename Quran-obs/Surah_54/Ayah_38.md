@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The people of Lut denied the warnings (33)Verily, We sent against them Hasib (a violent storm of stones), except the family of Lut, them We saved in the last hour of the night (34)As a favor from Us. The word سُعُر su'ur has appeared twice in this Surah.
+And he indeed had warned them of Our punishment,) meaning, before the torment struck his people, he warned them of Allah's torment and punishment. The word murawadah signifies to entice someone to satisfy one's lust.
 
 ## Tafsir Ibn Kathir
 

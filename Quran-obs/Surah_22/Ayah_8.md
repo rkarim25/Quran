@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And among men is he who disputes about Allah, without knowledge or guidance, or a Book giving light (from Allah)(8)Bending his neck in pride, and leading (others) too (far) astray from the path of Allah. Different stages in the development of foetus in mother's womb فَإِنَّا خَلَقْنَاكُم مِّن تُرَ‌ابٍ (We created you from dust - 22:5.) This verse deals with the different stages through which the foetus passes in its mother's womb before taking a human form.
+And among men is he who disputes about Allah, without knowledge or guidance, or a Book giving light (from Allah)(8)Bending his neck in pride, and leading (others) too (far) astray from the path of Allah.
 
 ## Tafsir Ibn Kathir
 

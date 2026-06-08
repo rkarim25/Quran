@@ -114,7 +114,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do they attribute as partners to Allah those who created nothing but they themselves are created (191)No help can they give them, nor can they help themselves (192)And if you call them to guidance, they follow you not. The Holy Prophet ﷺ has been asked to say to the unbelievers that your false gods are nothing but slaves like you, and being devoid of essential faculties of moving, seeing, hearing and speaking cannot help themselves, far from coming to your help in your need.
+So call upon them and let them answer you if you are truthful (194)Have they feet wherewith they walk? If you are not sure, then "Call them and they should respond to you," and "Call to your associate-gods, then plot against me and allow me no respite."
 
 ## Tafsir Ibn Kathir
 

@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who disbelieve say: "This is nothing but a lie that he has invented, and others have helped him in it." In fact, they have produced an unjust wrong and a lie (4)And they say: "Tales of the ancients which he has written down, and they are dictated to him morning and afternoon. From this point onward the objections raised by infidels and polytheists against the Holy Qur'an and the prophethood of the Holy Prophet ﷺ are related together with the answers to those objections.
+The essence of this answer is that the Qur'an itself is an evidence to the fact that it is the Divine message from Him who is Omniscient and who knows fully well all the secrets of the Heavens and the earth. And because he could not read or write, he would get them read out to him day and night, so that he could remember them by heart, then he would repeat them before people and claim that he had received that revelation from Allah Ta’ ala.
 
 ## Tafsir Ibn Kathir
 

@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Has the story reached you, of the honored guests of Ibrahim (24)When they came in to him and said: "Salaman!" He answered: "Salamun" and said: "You are a people unknown to me. رَ‌اغَ إِلَىٰ أَهْلِهِ (Then he slipped off to his home - 51:26).
+He did not first mention this favor to them by saying, "We will make food for you." Rather, he discretely had it prepared and placed before them. Rather, he placed it close to them and refrained from ordering them to eat.
 
 ## Tafsir Ibn Kathir
 

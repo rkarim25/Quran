@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So they turned to themselves and said: "Verily, you are the wrongdoers. The words of Sayyidna Ibrahim (علیہ السلام) were not untrue, but only allusions قَالَ بَلْ فَعَلَهُ كَبِيرُ‌هُمْ هَـٰذَا فَاسْأَلُوهُمْ إِن كَانُوا يَنطِقُونَ (He said, "Rather, this is done by this chief of theirs.
+Such people lacking knowledge and being misguided do not hesitate to reject a hadith and then justify the rejection by arguing that it is in conflict with the Qur'an.
 
 ## Tafsir Ibn Kathir
 

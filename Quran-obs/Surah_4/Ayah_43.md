@@ -214,7 +214,7 @@ Ibn Abi Hatim has recorded some reports about the incident of its revelation: Sa
 
 ## Tafsir Summary
 
-O you who believe! The Background of this Revelation This is about an incident relating to Sayyidna Ali رضی اللہ تعالیٰ عنہ which has been mentioned in Tirmidhi.
+Do not approach Salah while you are in a druken state until you know what you are saying,) at the time of prayer, the Messenger of Allah ﷺ would have someone proclaim; "Let not any drunk approach the prayer." This is the wording collected by Abu Dawud.
 
 ## Tafsir Ibn Kathir
 

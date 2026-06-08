@@ -90,7 +90,7 @@ Besides the fact that this question of the ` Ismah of Anbiya' (the state of bein
 
 ## Tafsir Summary
 
-And indeed she did desire him, and he would have inclined to her desire, had he not seen the evidence of his Lord. Mentioned in the previous verse was the great trial and test of Sayyidna Yusuf (علیہ السلام) in that the wife of the ` Aziz of Misr bolted the doors and tried to invite him to sin assembling together in that effort all circumstantial temptations to attract and to make him become indulgent.
+If so, the verse would mean: Whoever is mukhlis (absolutely sincere) in his ` Aural (deed) and ` Ibadah (worship), Allah Ta` ala will help him in remaining safe from sins.
 
 ## Tafsir Ibn Kathir
 

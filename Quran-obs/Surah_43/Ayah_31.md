@@ -54,7 +54,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Ibrahim said to his father and his people: "Verily, I am innocent of what you worship, (26)"Except Him Who created me; and verily, He will guide me. Allah Ta ala has in these verses, has replied to an objection of the pagans of Arabia used to be raised against the Holy Prophet صلی اللہ علیہ .
+This is what the above verses mean, but in the context of replying to the 'mushrikin', many economic principles are laid down and indications are given by Allah Ta’ ala regarding the economic system of the world; their brief explanation is necessary here.
 
 ## Tafsir Ibn Kathir
 

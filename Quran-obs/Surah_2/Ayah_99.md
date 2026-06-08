@@ -54,7 +54,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We have sent down to you manifest Ayat and none disbelieve in them but Fasiqun (those who rebel against Allah's command)(99)Is it not (the case) that every time they make a covenant, some party among them throw it aside? In denying the Holy Prophet ﷺ ، the Jews used to say that no clear evidence or sign of his prophethood had been revealed to him such as they could recognize and accept.
+And indeed We have sent down to you manifest Ayat and none disbelieve in them but Fasiqun (those who rebel against Allah's command)(99)Is it not (the case) that every time they make a covenant, some party among them throw it aside? What should I do?" Al-Hasan Al-Basri said that this Ayah means, "The angels were sent with magic, so that the people whom Allah willed would be tried and tested.
 
 ## Tafsir Ibn Kathir
 

@@ -33,7 +33,7 @@ According to another report, a man would look at the sky and he would see nothin
 
 ## Tafsir Summary
 
-Nay! دُخَانٍ مُّبِينٍ...visible smoke" in verse (10) embodies a prophecy and the Prophet ﷺ was asked to watch for the Day when the sky will bring forth a manifest smoke covering the people.
+This is also the apparent meaning of Ayat in the Qur'an.
 
 ## Tafsir Ibn Kathir
 

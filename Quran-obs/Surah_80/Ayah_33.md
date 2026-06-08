@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then when there comes As-Sakhkha (33)That Day shall a man flee from his brother (34)And from his mother and his father (35)And from his wife and his children (36)Every man that Day will have enough to make him careless o… فَإِذَا جَاءَتِ الصَّاخَّةُ ( So when there will come the Deafening Noise..80:33).
+The word sakhkhah means 'deafening cry or shout' and it refers to the blowing of the trumpet, which will be a deafening sound.
 
 ## Tafsir Ibn Kathir
 

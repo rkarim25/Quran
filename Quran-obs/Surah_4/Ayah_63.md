@@ -76,7 +76,7 @@ Allah chastises those who claim to believe in what Allah has sent down to His Me
 
 ## Tafsir Summary
 
-Have you not seen those (hyprocrites) who claim that they believe in that which has been sent down to you, and that which was sent down before you, and they wish to go for judgment (in their disputes) to the Taghut while they have been ordered to reject them. The fourth verse (63) comes up with the answer.
+After that, towards the end of this verse (63), the Holy Prophet 4 has been asked to give good counsel to the rest of the hypocrites as well, in a way that may touch their hearts, that is, tell them to fear what lies beyond the present life and invite them to follow the path of Islam sincerely, or remind them of their likely worldly punishment in the event they stuck to their hypocrisy which might be exposed some day, some time, and they might as well meet the same fate as di…
 
 ## Tafsir Ibn Kathir
 

@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah has not instituted things like Bahirah or a Sa'ibah or a Wasilah or a Ham. The Definition of Bahirah and Sa'ibah The names Bahirah, Sa'ibah, WasiIah and Hami are connected with customs prevailing during the days of Jahiliyyah.
+But those who disbelieve invent lies against Allah, and most of them have no understanding (103)And when it is said to them: "Come to what Allah has revealed and unto the Messenger." They say: "Enough for us is that which we found our fathers following," even though their fathers had no knowledge whatsoever and no guidance (104).
 
 ## Tafsir Ibn Kathir
 

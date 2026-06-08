@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We have honored the Children of Adam, and We have carried them on land and sea, and have provided them with At-Tayyibat, and have preferred them above many of those whom We have created with a marked prefermen… The last of the verses cited above mentions the superiority of the children of 'Adam over most of the Divine creation.
+That human beings are superior to them as well is accepted by all.
 
 ## Tafsir Ibn Kathir
 

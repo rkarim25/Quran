@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-[Say:] "Shall I seek a judge other than Allah while it is He Who has sent down unto you the Book, explained in detail." Those unto whom We gave the Scripture know that it is revealed from your Lord in truth. Mentioned in previous verses was the obstinate attitude of the disbelievers of Makkah against the veracity of the Qur'an and the Prophet of Islam ﷺ .
+[Say:] "Shall I seek a judge other than Allah while it is He Who has sent down unto you the Book, explained in detail." Those unto whom We gave the Scripture know that it is revealed from your Lord in truth.
 
 ## Tafsir Ibn Kathir
 

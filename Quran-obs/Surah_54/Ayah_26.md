@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Thamud denied the warnings (23)And they said: "A man, alone among us – shall we follow him? The word سُعُر su'ur has appeared twice in this Surah.
+The word murawadah signifies to entice someone to satisfy one's lust. According to lexicologists, the word su'ur is used in both these senses.
 
 ## Tafsir Ibn Kathir
 

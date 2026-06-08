@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Imam Ahmad bin Hanbal, may Allah have mercy on him, recorded that Ma'diykarib said: "We came to 'Abdullah and asked him to recite to us: (Ṭa Sīn Mīm.) the two hundred. Surah Al-Qasas is the very last among the Makki Surahs.
+We recite to you some of the news of Musa and Fir'awn in truth, for a people who believe.)(4. So Fir'awn took precautions against that happening, by ordering that all boys born to the Children of Israel should be killed, but this precaution did not protect him against the divine decree, because when the term of Allah comes, it cannot be delayed, and for each and every matter there is a decree from Allah.
 
 ## Tafsir Ibn Kathir
 

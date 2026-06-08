@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then he cast a glance at the stars (88)And he said: "Verily, I am sick. In verses 88 and 89, it was said: نَظَرَ‌ نَظْرَ‌ةً فِي النُّجُومِ فَقَالَ إِنِّي سَقِيمٌ.
+And there are still others who say that there is no effective agent but Allah Ta’ ala, however, He has endowed stars with such properties, therefore, very much like other causes, they too serve as yet another cause of human successes and failures. Ibrahim, peace be upon him, said this to his people so that he could stay behind in the city when they went out for their festival.
 
 ## Tafsir Ibn Kathir
 

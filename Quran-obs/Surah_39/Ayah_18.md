@@ -66,7 +66,7 @@ Therefore, it has been said that this verse was revealed about Sayyidna Zayd Ibn
 
 ## Tafsir Summary
 
-Those who avoid At-Taghut by not worshipping them and turn to Allah, for them are glad tidings; so announce the good news to My servants (17)Those who listen to the Word and follow the best thereof, those are (the ones)… In the Tafsir of verses 17 and 18: فَبَشِّرْ‌ عِبَادِ ﴿17﴾ الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُ ۚ أُولَـٰئِكَ الَّذِينَ هَدَاهُمُ اللَّـهُ ۖ وَأُولَـٰئِكَ هُمْ أُولُو الْأَلْبَابِ (So, give the good news to My servants who listen to what is said, then, follow the best of it.
+If we were to follow this Tafsir, the verse would mean that, as far as listening is concerned, these people do listen to what everyone has to say - be they disbelievers or believer, be it truth or falsehood, good or bad, everything - but, when it comes to following, they follow only that which is the best.
 
 ## Tafsir Ibn Kathir
 

@@ -64,7 +64,7 @@ It was the result of their brief association with Sayyidna Musa (علیہ الس
 
 ## Tafsir Summary
 
-Verily, whoever comes to his Lord as a criminal, then surely, for him is Hell, wherein he will neither die nor live (74)But whoever comes to Him as a believer, and has done righteous good deeds, for such are the high ran… Revolutionary change in the lives of the magicians Surely whoever comes to his Lord as a sinner, for him there is Jahannam .:..
+Verily, whoever comes to his Lord as a criminal, then surely, for him is Hell, wherein he will neither die nor live (74)But whoever comes to Him as a believer, and has done righteous good deeds, for such are the high ranks (75)'Adn Gardens, under which rivers flow, wherein they will abide forever, and such is the reward of those who purify themselves .
 
 ## Tafsir Ibn Kathir
 

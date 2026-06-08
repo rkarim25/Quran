@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Beneficent, the Most Merciful. عَمَّ يَتَسَاءَلُونَ (About what are they asking each other?...78:1).
+The sense is: About what are they asking each other?' Allah Himself replies to the question when He says: This is so that it may be suitable for dwelling and not quake with those who are in it.
 
 ## Tafsir Ibn Kathir
 

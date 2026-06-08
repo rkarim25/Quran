@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then he cast a glance at the stars (88)And he said: "Verily, I am sick. In verses 88 and 89, it was said: نَظَرَ‌ نَظْرَ‌ةً فِي النُّجُومِ فَقَالَ إِنِّي سَقِيمٌ.
+The time was approaching for them to go out to celebrate a festival of theirs, and he wanted to be alone with their gods so that he could break them, so he told them something that was true, for he was indeed sick of the implications of what they believed in. Ibrahim, peace be upon him, said this to his people so that he could stay behind in the city when they went out for their festival.
 
 ## Tafsir Ibn Kathir
 

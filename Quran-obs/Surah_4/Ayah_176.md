@@ -224,7 +224,7 @@ The verse (176) was revealed in answer to the question posed by some Companions 
 
 ## Tafsir Summary
 
-This is the Last Ayah Ever Revealed, the Ruling on Al-Kalalah Al-Bukhari recorded that Al-Bara' said that the last Surah to be revealed was Surah Bara'ah (chapter 9) and the last Ayah to be revealed was, A little after the beginning of Surah al-Nis-a', there appeared some injunctions relating to inheritance.
+If the sister referred to in Para (1) above dies, and leaves children, and her brother is alive, then he will get the whole property left by her.
 
 ## Tafsir Ibn Kathir
 

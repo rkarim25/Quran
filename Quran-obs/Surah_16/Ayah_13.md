@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And He has subjected the night and the day for you, and the sun and the moon; and the stars are subjected by His command. Then, in verse 13, after mentioning all other varied produce of the land, it was said: إِنَّ فِي ذَٰلِكَ لَآيَةً لِّقَوْمٍ يَذَّكَّرُ‌ونَ (Surely, in that, there is a sign for a people who accept advice).
+Surely, in this are proofs for people who understand (12)And all He has created of varying colors on the earth for you.
 
 ## Tafsir Ibn Kathir
 

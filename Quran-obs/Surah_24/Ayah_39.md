@@ -99,7 +99,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-As for those who disbelieved, their deeds are like a mirage in a Qi'ah. Toward the end of the verse their reward is described that they shall be graced with the best reward for their actions by Allah Ta’ ala, and then the verse says: وَيَزِيدَهُم مِّن فَضْلِهِ (and will give them more out of His grace - 38).
+Their likeness is that of a mirage which is seen in a desert plain, looking from a distance as if it is a deep sea.
 
 ## Tafsir Ibn Kathir
 

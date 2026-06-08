@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O Nuh! Fourthly, it was stated: In your sight these poor people may appear lowly and disgraceful.
+But, I cannot say as you say that Allah Ta'ala will not bless them with what is good, because good relates to one's heart, not wealth, and only Allah knows the secrets of hearts and He knows whose heart is worthy of receiving good and whose heart is not. You have disputed with us, and much have you prolonged the dispute with us, now bring upon us what you threaten us with, if you are of the truthful.
 
 ## Tafsir Ibn Kathir
 

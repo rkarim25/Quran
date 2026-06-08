@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nay! كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ (No!
+According to some authorities, ` illiyyun is the plural of ` uluww and it signifies the 'highest point'. Verily, the Record of Al-Abrar (the righteous believers) is in 'Illiyyin.) "This means Paradise." Others besides him have said, "'Iliyyin is located at Sidrat Al-Muntaha." The obvious meaning is that the word 'Illiyyin is taken from the word 'Uluw, which means highness.
 
 ## Tafsir Ibn Kathir
 

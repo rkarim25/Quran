@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Thus We relate to you some information of what happened before. مَّنْ أَعْرَ‌ضَ عَنْهُ فَإِنَّهُ يَحْمِلُ يَوْمَ الْقِيَامَةِ وِزْرً‌ا (Whoever turns away from it shall certainly bear a heavy burden on the Doomsday - 20:100) Turning aside from the Qur'an can take different forms: not…
+And indeed We have given you from Us a Reminder (99)Whoever turns away from it, verily, they will bear a heavy burden on the Day of Resurrection (100)They will abide in that – and evil indeed will it be that load for them on the Day of Resurrection .
 
 ## Tafsir Ibn Kathir
 

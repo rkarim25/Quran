@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat At-Tariq An-Nasa'i recorded that Jabir said, "Mu'adh lead the Maghrib prayer and he recited Al-Baqarah and An-Nisa'. After swearing an oath by the sky and stars, in this Surah, Allah asserts that He has assigned a guardian angel to every human being who watches over his deeds and actions, and accurate and immediate record is kept on the basis of which the reckoning will be made, and on the Day of Reckoning, all secrets will be revealed.
+Stars normally disappear during the day and only appear at night, therefore they are called tariq. Then he will have no power, nor any helper.) Swearing by the Existence of Humanity surrounded by the Organized System of Allah Allah swears by the heaven and what He has placed in it of radiant stars.
 
 ## Tafsir Ibn Kathir
 

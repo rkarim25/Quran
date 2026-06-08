@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So he followed a way (85)Until, when he reached the setting place of the sun, he found it setting in a spring of Hami'ah. The statement in verse 86: حَتَّىٰ إِذَا بَلَغَ مَغْرِ‌بَ الشَّمْسِ (until when he reached where the sun sets) means that he reached the far limit towards the West beyond which there was no populated area.
+Then, he would punish those who stood by their infidelity and reward those who believed and did what was good.
 
 ## Tafsir Ibn Kathir
 

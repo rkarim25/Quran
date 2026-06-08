@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And he said: "Verily, I am going to my Lord. Another event in the blessed life of Sayyidna Ibrahim (علیہ السلام) has been described in the verses cited above.
+They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs. They were jealous of them, so they added this idea and changed the meaning of the phrase "only son" to mean 'the only son who is with you,' because Isma'il had been taken with his mother to Makkah.
 
 ## Tafsir Ibn Kathir
 

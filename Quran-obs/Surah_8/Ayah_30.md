@@ -78,7 +78,7 @@ Jibril came to the Prophet ﷺ and commanded him not to sleep in his bed that ni
 
 ## Tafsir Summary
 
-And (remember) when the disbelievers plotted against you to imprison you, or to kill you, or to expel you (from your home, Makkah); they were plotting and Allah too was plotting; and Allah is the best of plotters (30) Th… The second verse (30) points out to a particular reward and favour of Allah Ta` ala which has been conferred on the Holy Prophet ؓ ، the noble Companions ؓ and, in fact, on the whole world.
+And (remember) when the disbelievers plotted against you to imprison you, or to kill you, or to expel you (from your home, Makkah); they were plotting and Allah too was plotting; and Allah is the best of plotters . Therefore, seek an opinion other than this one.' Another one of them said, 'Expel him from your land, so that you are free from his trouble!
 
 ## Tafsir Ibn Kathir
 

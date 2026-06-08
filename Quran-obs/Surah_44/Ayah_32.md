@@ -34,7 +34,7 @@ And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and 
 
 ## Tafsir Summary
 
-And indeed We tried before them Fir'awn's people, when there came to them a noble Messenger (17)Saying: "Deliver to me the servants of Allah. وَلَقَدِ اخْتَرْ‌نَاهُمْ عَلَىٰ عِلْمٍ عَلَى الْعَالَمِينَ And We chose them, with knowledge above all the worlds.
+And the superiority of 'A'ishah, may Allah be pleased with her, over all other women is like the superiority of Tharid over all other dishes.
 
 ## Tafsir Ibn Kathir
 

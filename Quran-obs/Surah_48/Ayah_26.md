@@ -125,7 +125,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They are those who disbelieved and hindered you from Al-Masjid Al-Haram and detained the sacrificial animals, from reaching their place of sacrifice. لَّقَدْ صَدَقَ اللَّـهُ رَ‌سُولَهُ الرُّ‌ؤْيَا بِالْحَقِّ (and made them stick to the word of piety, and they were very much entitled to it, and competent for it - 48:26) ".
+Erase it and write instead: "These are the peace terms agreed to by Muhammad bin 'Abdullah.") By Allah, Allah's Messenger ﷺ is better than 'Ali, and the Messenger ﷺ erased his title.
 
 ## Tafsir Ibn Kathir
 

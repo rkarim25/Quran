@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah has promised you abundant spoils that you will capture, and He has hastened for you this, and He has restrained the hands of men from you, that it may be a sign for the believers, and that He may guide you to the straight path (20)And other (victories) which are not yet within your power; indeed Allah encompasses them. بِبَطْنِ مَكَّةَ (...in the valley of Makkah...) The Arabic word used here is batn which means 'belly' and in relation to a city, it refers to its center.
+And you will not find any change in the way of Allah (23)And He it is Who has withheld their hands from you and your hands from them in the midst of Makkah, after He had made you victors over them.
 
 ## Tafsir Ibn Kathir
 

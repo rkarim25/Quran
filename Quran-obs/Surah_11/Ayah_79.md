@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when Our messengers came to Lut, he was grieved on account of them and was concerned for them. Things turned out as Sayyidna Lut (علیہ السلام) had first apprehended.
+Their appearance saddened him (Lut) and he felt grief in his soul because of them. Therefore, he tries to guide them to that which is better for them in this life and the Hereafter.
 
 ## Tafsir Ibn Kathir
 

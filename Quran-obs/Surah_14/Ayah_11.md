@@ -128,7 +128,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Their Messengers said: "(What!) Can there be a doubt about Allah, the Creator of the heavens and the earth? In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَكْفُرُ‌وا أَنتُمْ وَمَن فِي الْأَرْ‌ضِ جَمِيعًا (And Musa said, "If you are ungrateful, you and all those on earth, then, Allah is free of all needs, worthy of every praise.) " This was said by Sayyidna Musa (علیہ السلام) to his people.
+It is not ours to bring you an authority (proof) except by the permission of Allah.
 
 ## Tafsir Ibn Kathir
 

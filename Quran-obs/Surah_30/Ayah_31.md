@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, set you your face towards the religion as a Hanif. وَأَقِيمُوا الصَّلَاةَ وَلَا تَكُونُوا مِنَ الْمُشْرِ‌كِينَ (And establish Salah, and do not be among those who associate partners with Allah - 30:31).
+No change let there be in Allah's Khalq, that is the straight religion, but most men know not (30)(And remain always) turning in repentance to Him and have Taqwa of Him; and perform the Salah and be not of idolators (31)Of those who split up their religion, and became sects, each sect rejoicing in that which is with it .
 
 ## Tafsir Ibn Kathir
 

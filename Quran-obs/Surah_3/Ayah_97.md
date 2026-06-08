@@ -111,7 +111,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, the first House (of worship) appointed for mankind was that at Bakkah (Makkah), full of blessing, and a guidance for Al-'Alamin (mankind and Jinn (96)In it are manifest signs (for example), the Maqam (station) of Ibrahim; whosoever enters it, he attains security. Three distinctions of بیت اللہ Baytullah Related in this verse are distinctions and merits of the House of Allah, that is, the Ka` bah.
+this is agreed upon by the Muslims. According to texts and the consensus of the scholars, it is only obligatory for the adult Muslim to perform it once during his lifetime.
 
 ## Tafsir Ibn Kathir
 

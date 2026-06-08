@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-You are the best of peoples ever raised up for mankind; you enjoin Al-Ma'ruf (all that Islam has ordained) and forbid Al-Munkar (all that Islam has forbidden), and you believe in Allah. In previous verses, Muslims were asked to take special care in order to remain steadfast in their faith, bid the Fair and forbid the Unfair.
+You are the best of peoples ever raised up for mankind; you enjoin Al-Ma'ruf (all that Islam has ordained) and forbid Al-Munkar (all that Islam has forbidden), and you believe in Allah. This is because they disbelieved in the Ayat of Allah and killed the Prophets without right.
 
 ## Tafsir Ibn Kathir
 

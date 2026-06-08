@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when Our clear Ayat are recited to them, those who disbelieve say to those who believe: "Which of the two groups has the best dwellings and the finest Nadiyyan? "Superior in respect of its place and better in respect of its assembly" - 19:73.
+The Disbelievers boast over Their good Fortune in the World Allah, the Exalted, informs that when the clear, evident Ayat of Allah are recited to the disbelievers, they reject them and turn away.
 
 ## Tafsir Ibn Kathir
 

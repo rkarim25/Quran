@@ -34,7 +34,7 @@ According to Sayyidna ` Abdullah Ibn Masud ؓ ، Surah Tatfif was revealed in Ma
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. According to Sayyidna ` Abdullah Ibn Masud ؓ ، Surah Tatfif was revealed in Makkah.
+Those who, when they have to receive by measure from men, demand full measure,)(3. Tatjif has a Wider Scope The Qur'an and Sunnah have prohibited Tatfif which primarily signifies 'giving short measure and weight', because generally all transactions are carried out by things that can be measured or weighed.
 
 ## Tafsir Ibn Kathir
 

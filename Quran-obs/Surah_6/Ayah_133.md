@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And your Lord is Al-Ghani, full of mercy; if He wills, He can destroy you; and in your place make whom He wills as your successors, as He raised you from the seed of other people (133)Surely, that which you are promised, will verily come to pass, and you cannot escape (134)Say: "O my people! Stated in previous verses was that Allah Ta` ala has always been sending His messengers and the rules of conduct required by Him to every set of people among the Jinn and the human beings and, unless they were fully warned through their messengers, punishment was never given to them for their disbelief and disobedience.
+He is All-Independent, yet He is the master-dispenser of mercy - an attribute which is the real cause of sending messengers and books for the good of human beings.
 
 ## Tafsir Ibn Kathir
 

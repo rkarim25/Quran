@@ -45,7 +45,7 @@ According to the present narration of this Hadith-ul-Futun, Sayyidna Ibn ` Abbas
 
 ## Tafsir Summary
 
-"When your sister went and said: 'Shall I show you one who will nurse him' So We restored you to your mother, that she might cool her eyes and she should not grieve. Our Lord is He who gave everything its shape, then guidance - 20:50.
+Therefore, their invitation to him was with gentle, soft and easy speech that is used by one who is a close friend.
 
 ## Tafsir Ibn Kathir
 

@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَآ اِلٰهَ اِلَّا هُوَ فَاتَّخِذْهُ وَكِيْلًا (He is the Lord of the East and the West; there is no god but He; so take Him for [ your ] Guardian...73:9).
+this is called tawakkul 'trust'. The Holy Prophet ﷺ is given several injunctions in this Surah. This is the fifth injunction.
 
 ## Tafsir Ibn Kathir
 

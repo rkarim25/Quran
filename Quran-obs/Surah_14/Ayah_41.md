@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"O our Lord! Brimming with wisdom, there is another prayer of Sayyidna Ibrahim (علیہ السلام) which appears in the third verse (37) as follows: رَّ‌بَّنَا إِنِّي أَسْكَنتُ مِن ذُرِّ‌يَّتِي بِوَادٍ غَيْرِ‌ ذِي زَرْ‌عٍ عِندَ بَيْتِكَ ال…
+Make me one who performs Salah, and (also) from my offspring, our Lord! Therefore, there is no contradiction between this statement and the comment made on the verse 35.
 
 ## Tafsir Ibn Kathir
 

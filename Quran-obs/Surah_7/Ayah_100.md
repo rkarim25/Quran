@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Is it not a guidance for those who inherit the earth from its previons inhabitants that had We willed, We would have punished them for their sins. After relating events of the early people, the above verses invite the people of Arabia and the people of the world to take lesson from these events by abstaining from deeds that incurred Allah's wrath, and by following the practices that led the prophets and their believers to eternal success.
+It implies that these people have taken no lesson from the past events with the result that they incurred the wrath of Allah making their hearts sealed. The Holy Qur'an has used the word 'listen' to indicate that understanding is usually the result of listening to the truth.
 
 ## Tafsir Ibn Kathir
 

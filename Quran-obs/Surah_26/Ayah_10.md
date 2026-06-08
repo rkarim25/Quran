@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when your Lord called Musa (saying): "Go to the people who are wrongdoers. زَوْجٍ كَرِ‌يمٍ (noble pair - 26:7).
+Between Musa and Fir'awn Allah tells us what He commanded His servant, son of 'Imran and Messenger Musa, peace be upon him, who spoke with Him, to do, when He called him from the right side of the mountain, and conversed with him, and chose him, sent him, and commanded him to go to Fir'awn and his people.
 
 ## Tafsir Ibn Kathir
 

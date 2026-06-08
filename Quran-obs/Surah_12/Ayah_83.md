@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He [Ya'qub] said: "Nay, but your own selves have beguiled you into something. After the detention of young Benyamin in Egypt, his brothers returned home and told Sayyidna Ya` qub (علیہ السلام) about what had happened there.
+So patience is most fitting (for me).) Some said that since this new development came after what they did before [to Yusuf], they were given the same judgement to this later incident that was given to them when they did what they did [to Yusuf].
 
 ## Tafsir Ibn Kathir
 

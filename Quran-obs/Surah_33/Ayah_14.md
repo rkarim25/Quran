@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if the enemy had entered from all sides, and they had been exhorted to Al-Fitnah, they would surely have committed it and would have hesitated thereupon but little (14)And indeed they had already made a covenant with Allah not to turn their backs, and a covenant with Allah must be answered for (15)Say: "Flight will not avail you if you flee from death or killing and then you will enjoy no more than a little while!
+And any act or omission on his part that is proved to have been done as a preferable conduct (istihbab) and not as an obligatory one, should be followed by us too as a commendable (mustahab) conduct and not as a necessary obligation This, in other words, means that its contravention will not be declared to be a sin. They would not have adhered to their faith or remained steadfast in it if they were faced with the slightest fear.
 
 ## Tafsir Ibn Kathir
 

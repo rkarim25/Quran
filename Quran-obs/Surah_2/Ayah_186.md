@@ -82,7 +82,7 @@ By saying إِنِّي قَرِ‌يبٌ (I am near) in this verse, it has been 
 
 ## Tafsir Summary
 
-And when My servants ask you (O Muhammad ﷺ concerning Me, then answer them), I am indeed near (to them by My knowledge). Allah is near His servants Injunctions and merits concerning fasting and Ramadan were mentioned in three previous verses.
+The One Whom you call is closer to one of you than the neck of his animal.
 
 ## Tafsir Ibn Kathir
 

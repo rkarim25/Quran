@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! The previous verses ended with a word of praise for the sincere.
+Verily, he is to you a plain enemy (208)Then if you slide back after the clear signs (Prophet Muhammad ﷺ, and this Qur'an and Islam) have come to you, then know that Allah is All-Mighty, All-Wise .
 
 ## Tafsir Ibn Kathir
 

@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Have you considered your partners whom you call upon besides Allah? In the expression: إِنَّ اللَّـهَ يُمْسِكُ السَّمَاوَاتِ (Undoubtedly, Allah holds back the heavens and the earth - 35:41), the 'holding' of the heavens or the skies does not mean that their movement was stopped.
+Truly, He is Ever Most Forbearing, Oft-Forgiving .
 
 ## Tafsir Ibn Kathir
 

@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the king said: "Bring him to me that I may attach him to my person." Then, when he spoke to him, he said: "Verily, this day, you are with us high in rank and fully trusted. Thereupon, Sayyidna Yusuf (علیہ السلام) said: اجْعَلْنِي عَلَىٰ خَزَائِنِ الْأَرْ‌ضِ ۖ إِنِّي حَفِيظٌ عَلِيمٌ that is, ` appoint me to the treasures of the land (which includes the produce of the land) for I am indeed a knowledgeable keeper (fully capable of conserving and guarding it, and aware of where to spend and how much to spend).
+Then, he said to her: Is it not better than what you had wished?
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And he said: "Embark therein: in the Name of Allah will be its (moving) course and its (resting) anchorage. Etiquette of boarding boats and other modes of conveyance The first verse (41) teaches the etiquette of boarding boats and other modes of conveyance.
+Surely, my Lord is Oft-Forgiving, Most Merciful.
 
 ## Tafsir Ibn Kathir
 

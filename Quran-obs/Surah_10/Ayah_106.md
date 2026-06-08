@@ -76,7 +76,7 @@ Allah, the Exalted, says to His Messenger, Muhammad , 'Say: O mankind! If you ar
 
 ## Tafsir Summary
 
-Say:"O people! In the seventh verse (98), the heedless deniers of truth have been admonished for their failure to make the optimum use of the time of life allowed to them.
+In fact, it falls under it because they, no doubt, made their Taubah when they saw the punishment coming, but they certainly did so before the punishment overtook them, and did it before death too. So, they said, let that person show himself up so that others do not suffer because of one person.
 
 ## Tafsir Ibn Kathir
 

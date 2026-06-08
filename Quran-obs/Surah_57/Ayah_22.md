@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-No calamity occurs in the earth nor in yourselves but it is inscribed in the Book of Decrees before We bring it into existence. Factors affecting Mankind are duly measured and destined There are two sets of factors that make man unmindful of Allah and the Hereafter: [ 1] wealth, comfort and other luxuries of this world; one's over-involvement in such luxuries makes him neglectful of Allah.
+No calamity occurs in the earth nor in yourselves but it is inscribed in the Book of Decrees before We bring it into existence.
 
 ## Tafsir Ibn Kathir
 

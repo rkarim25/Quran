@@ -31,7 +31,7 @@ Allah the Exalted explained what He has revealed in the Scripture of Ibrahim and
 
 ## Tafsir Summary
 
-Did you observe him who turned away (from Islam)(33)And gave a little, then stopped (34)Is with him the knowledge of the Unseen so that he sees (35)Or is he not informed with what is in the Suhuf of Musa (36)And of Ibrah… Scriptures of Musa and Ibrahim علیہما السلام Special Guidance and Teachings Whenever any command, statement, action or teaching of Allah is quoted in the Qur'an from the scriptures of the former Prophets (علیہم السلام) it means that it is obligatory for this 'Ummah to act upon it, unless there is an explicit text abrogating the previous teachings.
+This verse further clarifies that in matters, such as these, there is no possibility that one person may commit the sin and another is held accountable to pay the price.
 
 ## Tafsir Ibn Kathir
 

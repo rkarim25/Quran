@@ -75,7 +75,7 @@ When they said this, it indicated their ignorance and lack of understanding sinc
 
 ## Tafsir Summary
 
-And they wonder that a warner has come to them from among themselves. In verse 6, it was said: وَانطَلَقَ الْمَلَأُ مِنْهُمْ أَنِ امْشُوا وَاصْبِرُ‌وا عَلَىٰ آلِهَتِكُمْ (And the leaders among them went forth saying (to their followers)," Walk away (from the Prophet) and stay firm on (adhering to) your gods - 12).
+The idolators – may Allah curse them – denounced that and were amazed at the idea of giving up Shirk, because they had learned from their forefathers to worship idols and their hearts were filled with love for that. Nay, but they have not tasted (My) torment (8)Or have they the treasures of the mercy of your Lord, the Almighty, the Real Bestower (9)Or is it that the dominion of the heavens and the earth and all that is between them is theirs If so, let them ascend up with mea…
 
 ## Tafsir Ibn Kathir
 

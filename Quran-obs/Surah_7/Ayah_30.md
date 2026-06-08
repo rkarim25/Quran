@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when they commit a 'Fāḥishah', they say: "We found our fathers doing it, and Allah has commanded it for us." Say: "Nay, Allah never commands 'Fāḥishah'. In the third verse (30), it was said that there are people Allah has guided right while there are others who have provided the proof of their erroneous conduct, because they have, bypassing Allah, made satans their comrades, and they presume that they are on the right path.
+If this were true, then there would be no difference between the deviations of the misguided group - their belief that they are guided - and the group that is in fact guided.
 
 ## Tafsir Ibn Kathir
 

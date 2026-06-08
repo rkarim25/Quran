@@ -74,7 +74,7 @@ The present verse was revealed against this absurd practice. It enjoined that th
 
 ## Tafsir Summary
 
-O Children of Adam! In the fourth verse (31), it was said: ` 0 children of 'Adam, take along what looks good on you to every mosque.
+this verse was primarily revealed to eradicate the custom of nudity in pagan Arabia (the age of Jahiliyyah), but the generality of its words yielded other in-junctions and rulings as well.
 
 ## Tafsir Ibn Kathir
 

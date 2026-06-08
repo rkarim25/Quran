@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do you then feel secure that He will not cause a side of the land to swallow you up, or that He will not send against you a Hasib? (2) Secondly, he had said if he was given respite till the day of Qiyamah, he will mislead the entire progeny of 'Adam, except a few of them.
+Or do you feel secure that He, Who is over the heaven (Allah), will not send against you a Hasib?
 
 ## Tafsir Ibn Kathir
 

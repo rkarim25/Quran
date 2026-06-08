@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And 'Ad and Thamud! The stories of the earlier people, that are mentioned in these verses briefly, have been related in detail in the previous Surahs.
+Shaytan made their deeds fair seeming to them, and turned them away from the path, though they were intelligent (38)And Qarun, Fir'awn, and Haman.
 
 ## Tafsir Ibn Kathir
 

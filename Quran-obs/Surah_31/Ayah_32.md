@@ -103,7 +103,7 @@ As it appears in some narratives, this verse was revealed in response to a quest
 
 ## Tafsir Summary
 
-See you not that the ships sail through the sea by Allah's grace that He may show you of His signs? This has been stated in the verse: وَلَوْ أَنَّمَا فِي الْأَرْ‌ضِ مِن شَجَرَ‌ةٍ أَقْلَامٌ (27) through a similitude.
+Verily, in this are signs for every patient, grateful (person)(31)And when waves cover them like shades, they invoke Allah, making their invocations for Him only. This word describes a person who, whenever he makes a promise, breaks his promise, and it refers to the worst form of treachery.
 
 ## Tafsir Ibn Kathir
 

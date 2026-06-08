@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Whomsoever Allah guides, he is the guided one, and whomsoever He sends astray, – then those! The main theme of the verse 178 is that guidance and misguidance both are from Allah.
+Whomsoever Allah guides, he is the guided one, and whomsoever He sends astray, – then those!
 
 ## Tafsir Ibn Kathir
 

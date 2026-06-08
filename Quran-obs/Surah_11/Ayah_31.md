@@ -136,7 +136,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And I do not say to you that with me are the treasures of Allah, nor that I know the Ghayb; nor do I say I am an angel, and I do not say of those whom your eyes look down upon that Allah will not bestow any good on them. Reported in the fifth verse (31) there is an address that Sayyidna Nuh (علیہ السلام) gave before his people to announce some matters of principle after he had heard their objections.
+This sentence clarifies that the mission of a prophet and messenger needs no knowledge of the unseen, and why should it when the knowledge of the unseen is an exclusive attribute of Allah Ta'-al-a which no prophet or angel can share with Him.
 
 ## Tafsir Ibn Kathir
 

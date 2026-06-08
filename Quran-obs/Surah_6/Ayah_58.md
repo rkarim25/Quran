@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And thus do We explain the Ayat in detail, that the way of the criminals, may become manifest (55)Say: "I have been forbidden to worship those whom you invoke (worship) besides Allah." Say: "I will not follow your vain desires. In the verses cited above, the answer to disbelievers who were demanding that the Divine punishment should come to them posthaste was given in: وَهُوَ خَيْرُ‌ الْفَاصِلِينَ (He is the best decision-maker) while the mention of the perfect power of Almighty Allah was made in: وَاللَّـهُ أَعْلَمُ بِالظَّالِمِينَ (Allah knows the unjust best).
+And He knows whatever there is on the land and in the sea; not a leaf falls, but he knows it.
 
 ## Tafsir Ibn Kathir
 

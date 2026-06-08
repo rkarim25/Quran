@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Reclining upon the couches lined with Istabraq, and the fruits of the two Gardens will be near at hand (54)Then which of the blessings of your Lord will you both deny (55)Wherein both will be Qaşirāt Aṭ-Ṭarf, whom never… لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَانٌّ (...whom neither a man will have touched before them, nor a Jinn....55:56).
+I neither see anything in Paradise more handsome than you nor more beloved to me than you.
 
 ## Tafsir Ibn Kathir
 

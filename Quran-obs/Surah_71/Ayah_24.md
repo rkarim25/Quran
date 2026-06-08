@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nuh said: "My Lord! لَا تَذَرُ‌نَّ آلِهَتَكُمْ وَلَا تَذَرُ‌نَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرً‌ا (and never forsake Wadd, nor Suwa', nor yaghuth and Ya` uq and Nasr…71:23).
+They had many idols, the five mentioned in the verse under comment being the most popular because of the deep love they had for them. Destroy their wealth, and harden their hearts, so that they will not believe until they see the painful torment.)(10:88) Verily, Allah responded to the supplication of both of these Prophets concerning their people and He drowned their nations due to their rejection of what he (that Prophet) had come with.
 
 ## Tafsir Ibn Kathir
 

@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This is so! In verse 52, it was said: وَعِندَهُمْ قَاصِرَ‌اتُ الطَّرْ‌فِ أَتْرَ‌ابٌ (and in their company there will be females restricting their glances ] to their husbands, and[ of matching ages.).
+Consideration of matching age between spouses is better Then there is the other situation.
 
 ## Tafsir Ibn Kathir
 

@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, they had plotted sedition before, and had upset matters for you, until the truth (victory) came and the decree of Allah became manifest though they hated it (48) Allah encourages His Prophet ﷺ against hypocrites, The opening sentence of the sixth verse (48): لَقَدِ ابْتَغَوُا الْفِتْنَةَ مِن قَبْلُ (They sought disorder even earlier...) refers to what had happened in the battle of 'Uhud.
+Verily, they had plotted sedition before, and had upset matters for you, until the truth (victory) came and the decree of Allah became manifest though they hated it .
 
 ## Tafsir Ibn Kathir
 

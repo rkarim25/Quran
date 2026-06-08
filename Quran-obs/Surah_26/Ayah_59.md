@@ -26,7 +26,7 @@ And We revealed to Musa, saying: "Depart by night with My servants, verily, you 
 
 ## Tafsir Summary
 
-And We revealed to Musa, saying: "Depart by night with My servants, verily, you will be pursued. And We made the children of Isra it inherit all these.
+the land blessed by Us) because the word Barakna is used for the land of Syria in many verses of the Qur'an.
 
 ## Tafsir Ibn Kathir
 

@@ -75,7 +75,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those to whom We gave the Scripture before it, they believe in it (52)And when it is recited to them, they say: "We believe in it. سَلَامٌ عَلَيْكُمْ لَا نَبْتَغِي الْجَاهِلِينَ (Peace be on you.
+These people have a good quality in that when they hear something stupid from an ignorant foe, they simply say salam, instead of giving a reply.
 
 ## Tafsir Ibn Kathir
 

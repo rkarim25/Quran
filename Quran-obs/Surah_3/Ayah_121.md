@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when you left your household in the morning to post the believers at their stations for the battle (of Uhud). In the previous verses, it was said that no power could harm Muslims if they observed patience and fear of Allah (sabr and Taqwa ).
+And (remember) when you left your household in the morning to post the believers at their stations for the battle (of Uhud).
 
 ## Tafsir Ibn Kathir
 

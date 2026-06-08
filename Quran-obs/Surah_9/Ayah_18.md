@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is not for the Mushrikin, to maintain the Masjids of Allah, while they witness against themselves of disbelief. Verse 17 was describing the negative aspect as related to the Mushriks.
+It means the building of mosques in the real sense is a serene task.
 
 ## Tafsir Ibn Kathir
 

@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And how many a sign in the heavens and the earth they pass by, while they are averse therefrom (105)And most of them believe not in Allah except that they attribute partners unto Him (106)Do they then feel secure from th… And most of them do not believe in Allah without associating partners with Him - 106.
+After that, in verse 107, questioned and deplored is their heedlessness and ignorance as to how could these people, despite their denial and rebellion, become so carefree of the possibility that there may come on them some punishment from Allah which overtakes them from all sides, or that the fateful Hour of the Day of Doom itself descends upon them all of a sudden while they are not ready for it?
 
 ## Tafsir Ibn Kathir
 

@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Did We not destroy the ancients (16)So shall We make later generations to follow them (17)Thus do We deal with the criminals (18)Woe that Day to the deniers (19)Did We not create you from a despised water (20)Then We pla… أَلَمْ نُهْلِكِ الْأَوَّلِينَ (Did We not destroy the earlier people?...77:16) It refers to the nations of ` Ad, Thamud, nation of Lut (علیہ السلام) and Fir'aun (The Pharaoh) who were destroyed because of their obstinacy.
+The earth is held in place with them so that it does not shake and sway.
 
 ## Tafsir Ibn Kathir
 

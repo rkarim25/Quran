@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when you left your household in the morning to post the believers at their stations for the battle (of Uhud). Badr : Location and Importance Badr is located about eighty miles south-west of Madinah and used to be a halting-place while travelling between Makkah and Madinah, before the modern Tariq al-Hijrah was commissioned into service which by passes it.
+And Allah is All-Hearer, All-Knower (121)When two parties from among you were about to lose heart, but Allah was their Wali (Supporter and Protector).
 
 ## Tafsir Ibn Kathir
 

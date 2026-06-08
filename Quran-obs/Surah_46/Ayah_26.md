@@ -141,7 +141,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We had firmly established them with that wherewith We have not established you! { 1} The reference here is to the towns of Thamud and the people of Sayyidna Lut (علیہ السلام) that were in the way of the people of Arabia while they travelled to Syria.
+But their hearing, vision, and hearts availed them nothing since they used to deny the Ayat of Allah, and they were completely encircled by that which they used to ridicule (26)And indeed We have destroyed towns round about you, and We have shown (them) the signs in various ways so that they might return (27)As for those whom they had taken for gods besides Allah, as the means of approach to Him, why then did they not aid them Nay, but they vanished completely from them.
 
 ## Tafsir Ibn Kathir
 

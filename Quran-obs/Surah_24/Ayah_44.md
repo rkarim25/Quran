@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-See you not that Allah drives the clouds gently, then joins them together, then makes them into a heap of layers, and you see the rain come forth from between them; and He sends down from the sky, from mountains in it of ice, and strikes therewith whom He wills, and averts it from whom He wills. From the sky mountains (of clouds) having hail in them - 43.
+The vivid flash of its (clouds) lightning nearly blinds the sight (43)Allah causes the night and the day to succeed each other.
 
 ## Tafsir Ibn Kathir
 

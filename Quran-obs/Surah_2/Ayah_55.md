@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when you said: "O Musa! Then Sayyidna Musa (علیہ السلام) (Moses) brought the Torah from Mount Tur طور (Sinai) and presented it to the Israelites as the book of Allah, some of them were insolent enough to say that they could not believe it until and unless Allah Himself told them in so many words.
+He said to them, 'These Tablets have Allah's Book, containing what He commanded you and what He forbade for you.' They said, 'Should we believe this statement because you said it? By Allah, we will not believe until we see Allah in the open, until He shows us Himself and says: This is My Book, therefore, adhere to it.
 
 ## Tafsir Ibn Kathir
 

@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Has there come to you the story of Musa (15)When his Lord called him in the holy valley of Tuwa (16)Go to Fir'awn; verily, he has transgressed all bounds (17)And say to him: "Would you purify yourself? فَالْمُدَبِّرَ‌اتِ أَمْرً‌ا (then manage [ to do ] everything [ they are ordered to do,]...79:5).
+Mentioning the Story of Musa and that it is a Lesson for Those Who fear Allah Allah informs His Messenger Muhammad ﷺ about His Messenger Musa.
 
 ## Tafsir Ibn Kathir
 

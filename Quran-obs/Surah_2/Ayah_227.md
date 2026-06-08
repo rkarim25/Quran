@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who take an oath not to have sexual relation with their wives must wait for four months, then if they return, verily, Allah is Oft-Forgiving, Most Merciful (226)And if they decide upon divorce, then Allah is All-Hearer, All-Knower (227) Īlā' is a type of vow where a man swears not to sleep with his wife for a certain period, whether less or more than four months. If someone takes an oath that he will not have sexual intercourse with his wife, the case has four situations: (A) No time-limit was fixed.
+Those who take an oath not to have sexual relation with their wives must wait for four months, then if they return, verily, Allah is Oft-Forgiving, Most Merciful (226)And if they decide upon divorce, then Allah is All-Hearer, All-Knower .
 
 ## Tafsir Ibn Kathir
 

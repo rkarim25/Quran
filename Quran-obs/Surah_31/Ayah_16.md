@@ -106,7 +106,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"O my son! The Second Bequest of Luqman about Articles of Belief One should irrevocably hold the belief that the knowledge of Allah Ta` a1a surrounds every single particle of whatever there is in and around the expanses of the heavens and the earth with His most perfect power.
+And whosoever does evil equal to the weight of a speck of dust shall see it.)(99:7-8) Even if this tiny thing were to be hidden inside a solid rock or anywhere in the heavens and the earth, Allah will bring it forth, because nothing is hidden from Him, not even the weight of a speck of dust in the heavens or on the earth.
 
 ## Tafsir Ibn Kathir
 

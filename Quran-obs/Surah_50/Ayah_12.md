@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Denied before them the people of Nuh, and the Dwellers of Rass, and Thamud (12)And 'Ad, and Fir'awn, and the brethren of Lut (13)And the Dwellers of Al-Aykah, and the people of Tubba'. Consoling the Holy Prophet ﷺ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَأَصْحَابُ الرَّ‌سِّ وَثَمُودُ (It [ resurrection ] was rejected prior to them by the people of Nuh, and the people of Rass - 50:12).
+Denied before them the people of Nuh, and the Dwellers of Rass, and Thamud (12)And 'Ad, and Fir'awn, and the brethren of Lut (13)And the Dwellers of Al-Aykah, and the people of Tubba'.
 
 ## Tafsir Ibn Kathir
 

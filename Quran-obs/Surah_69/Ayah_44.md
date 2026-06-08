@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if he had forged a false saying concerning Us (44)We surely would have seized him by his right hand (45)And then We certainly would have cut off Al-Watin from him (46)And none of you could have prevented it from him… And had he forged some statements in Our name, We would have certainly seized him by the right hand, and then severed his life-astery,…(69:44-46) The word taqawwul means 'to forge, fabricate or concoct' and the word watin refers to 'aorta or life-artery'.
+In other words, in verses [ 37-38] it was claimed that all visible and invisible things prove that the Prophet is Allah's true Messenger and that the Qur'an is Allah's revealed Word and not the imaginary flight of a poet's mind or the wild conjectures of a diviner.
 
 ## Tafsir Ibn Kathir
 

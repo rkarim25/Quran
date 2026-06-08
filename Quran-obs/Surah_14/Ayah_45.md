@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And warn mankind of the Day when the torment will come unto them; then the wrongdoers will say: "Our Lord! And you dwelt in the dwelling of those who wronged themselves, and it became clear to you how We dealt with them and We put forth for you the examples, as obvious, the address is to the Mushriks of Arabia.
+Yet, it is astonishing that they would still prefer not to learn a lesson - even though, they live in the very homes once occupied by peoples destroyed in punishment and walk around neighbourhoods once walked by them.
 
 ## Tafsir Ibn Kathir
 

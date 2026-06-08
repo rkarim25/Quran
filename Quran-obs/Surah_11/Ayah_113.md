@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So stand (ask Allah to make) you firm and straight as you are commanded and those who turn in repentance with you, and transgress not. To keep human beings protected from this disorder and corruption, another guideline has been provided in the second verse (113): وَلَا تَرْ‌كَنُوا إِلَى الَّذِينَ ظَلَمُوا فَتَمَسَّكُمُ النَّارُ‌ (And do not incline towards the wrongdoers, lest the Fire should catch you).
+Verily, He is All-Seer of what you do (112)And incline not toward those who do wrong, lest the Fire should touch you, and you have no protectors other than Allah, nor would you then be helped .
 
 ## Tafsir Ibn Kathir
 

@@ -171,7 +171,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Shall we invoke others besides Allah (false deities), that can do us neither good nor harm, and shall we turn on our heels after Allah has guided us? In the third verse (70), nearly the same subject has been stressed upon in the following words: وَذَرِ‌ الَّذِينَ اتَّخَذُوا دِينَهُمْ لَعِبًا وَلَهْوًا (And avoid those who have taken their faith as game and play ...).
+Allah says here, your example, if you revert to disbelief after you believed, is that of a man who went with some people on a road, but he lost his way and the devils led him to wander in confusion over the land.
 
 ## Tafsir Ibn Kathir
 

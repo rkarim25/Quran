@@ -43,7 +43,7 @@ The sixth sign of divine omnipotence is in fact the sum and substance of the pre
 
 ## Tafsir Summary
 
-To Him belongs whatever is in the heavens and the earth. Sixth sign of divine omnipotence Existence of the sky and earth is by the command of Allah.
+this is easier for Him.) Ibn Abi Talhah reported that Ibn 'Abbas said, "This means it is easier for Him." Mujahid said: "Repeating it is easier for Him than originating it, and originating it is easy for Him." This was also the view of 'Ikrimah and others.
 
 ## Tafsir Ibn Kathir
 

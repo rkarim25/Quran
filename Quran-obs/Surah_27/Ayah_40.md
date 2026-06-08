@@ -166,7 +166,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "O chiefs! قَالَ الَّذِي عِندَهُ عِلْمٌ مِّنَ الْكِتَابِ (Said the one who had the knowledge of the book - 27:40).
+And whoever is grateful, truly, his gratitude is for himself; and whoever is ungrateful, certainly my Lord is Rich, Bountiful.
 
 ## Tafsir Ibn Kathir
 

@@ -99,7 +99,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-That is whereof Allah gives glad tidings to His servants who believe and do righteous good deeds. 1.
+Therefore, had there been, God forbid, something forged by the Holy Prophet ﷺ in the Qur'an, Allah would have put a seal on his heart, and he would have never been able to come up with such a miraculous discourse. Verily, Allah is Oft-Forgiving, Most Ready to appreciate (23)Or say they: "He has invented a lie against Allah?" If Allah willed, He could have sealed up your heart.
 
 ## Tafsir Ibn Kathir
 

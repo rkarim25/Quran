@@ -123,7 +123,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Whosoever does righteous good deed, it is for himself; and whosoever does evil, it is against himself. أَأَعْجَمِيٌّ وَعَرَ‌بِيٌّ (Is it a non- Arabic [ book ] and an Arab [ messenger ]?
+Whosoever does righteous good deed, it is for himself; and whosoever does evil, it is against himself.
 
 ## Tafsir Ibn Kathir
 

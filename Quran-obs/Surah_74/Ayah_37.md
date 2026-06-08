@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We have set none but angels as guardians of the Fire. لِمَنْ شَاۗءَ مِنْكُمْ اَنْ يَّتَقَدَّمَ اَوْ يَتَاَخَّرَ (to the one who wishes to come forward [ towards good deeds ] or to go back [ from them ]...74:37) In this context, 'to come forward' signifies 'coming forward towards faith and obedience' and ta'akhkhur 'to go backward' signifies 'moving away from faith and obedience'.
+This is so that one does not make the mistake of thinking that they are only nineteen in all. And by the moon (32)And by the night when it withdraws (33)And by the dawn when it brightens (34)Verily, it is but one of the greatest (signs)(35)A warning to mankin (36)To any of you that chooses to go forward, or to remain behind .
 
 ## Tafsir Ibn Kathir
 

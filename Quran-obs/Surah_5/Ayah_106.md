@@ -220,7 +220,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Prior to this, there were injunctions relevant to religious considerations.
+That a Wasiyy should be Muslim and just, is better but not necessary, no matter whether the will is being made in journey or at home.
 
 ## Tafsir Ibn Kathir
 

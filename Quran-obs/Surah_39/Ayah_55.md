@@ -72,7 +72,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "O My servants who have transgressed against themselves! In verse 55, it was said: وَاتَّبِعُوا أَحْسَنَ مَا أُنزِلَ إِلَيْكُم (and follow the best of what has been sent down to you).
+The Call to repent before the Punishment comes This Ayah is a call to all sinners, be they disbelievers or others, to repent and turn to Allah.
 
 ## Tafsir Ibn Kathir
 

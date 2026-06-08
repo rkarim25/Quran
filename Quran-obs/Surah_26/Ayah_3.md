@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. لَعَلَّكَ بَاخِعٌ نَّفْسَكَ Seemingly you are going to let yourself collapse in grief - 26:3).
+What it conveys is that, ` O Messenger, do not be so despondent because of your people's disbelief and rejection of Islam that you cause yourself to collapse'.
 
 ## Tafsir Ibn Kathir
 

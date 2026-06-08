@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, when the Trumpet is blown, there will be no kinship among them that Day, nor will they ask of one another (101)Then, those whose Scales (of good deeds) are heavy, these! Thereafter, when the Sur (the trumpet) is blown, there are no ties of kinship between them, - 23:101.
+Then, when the Trumpet is blown, there will be no kinship among them that Day, nor will they ask of one another (101)Then, those whose Scales (of good deeds) are heavy, these!
 
 ## Tafsir Ibn Kathir
 

@@ -70,7 +70,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And remember Our servant Ayyub, when he invoked his Lord (saying): "Verily, Shaytan has afflicted me with distress and torment! In verse 44, it was said: خُذْ بِيَدِكَ ضِغْثًا (Take [ a bundle of ] thin twigs in your hand).
+Otherwise, Hanafi jurists have clearly said that, should the striking be accomplished subject to these two conditions, the oath is fulfilled.
 
 ## Tafsir Ibn Kathir
 

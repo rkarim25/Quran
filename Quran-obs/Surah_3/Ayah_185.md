@@ -107,7 +107,7 @@ The seventh verse (186) was revealed in the background of a particular event whi
 
 ## Tafsir Summary
 
-Everyone shall taste death. Thoughts of the Hereafter heal all sorrows and remove all doubts The sixth verse (185) puts a sharp focus on the ultimate reality of things in a situation when sometime somewhere disbelievers come to enjoy ascendency one way or the other and they have all the luxury they can think of in this world.
+And whoever is moved away from the Fire and admitted to Paradise, he indeed is successful.
 
 ## Tafsir Ibn Kathir
 

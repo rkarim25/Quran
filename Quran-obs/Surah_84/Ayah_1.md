@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Prostration of Recitation in Surat Al-Inshiqaq It is reported from Abu Salamah that while leading them in prayer, Abu Hurayrah recited, The present Surah depicts the conditions that will prevail on the Day of Judgment, such as reckoning and accountability, reward of good and torment of evil.
+When the heaven is split asunder,)(2.
 
 ## Tafsir Ibn Kathir
 

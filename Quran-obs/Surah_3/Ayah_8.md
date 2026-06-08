@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is He Who has sent down to you the Book. The previous verse mentioned 'those well-grounded in knowledge' who, in spite of their excellent knowledge, were not proud of their excellence.
+So as for those in whose hearts there is a deviation (from the truth) they follow (only) that which is not entirely clear thereof, seeking Al-Fitnah, and seeking its Ta'wil, but none knows its Ta'wil except Allah.
 
 ## Tafsir Ibn Kathir
 

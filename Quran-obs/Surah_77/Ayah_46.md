@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who had Taqwa, shall be amidst shades and springs (41)And fruits, such as they desire (42)"Eat and drink comfortably for that which you used to do. كُلُوا وَتَمَتَّعُوا قَلِيلًا إِنَّكُم مُّجْرِ‌مُونَ ("Eat and drink for a while!
+They may eat and drink and enjoy themselves in this world, but the span is short, and then there will be nothing but punishment for them.
 
 ## Tafsir Ibn Kathir
 

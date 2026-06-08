@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But (the hoopoe) stayed not long, he said: "I have grasped which you have not grasped and I have come to you from Saba' with true news. أَحَطتُ بِمَا لَمْ تُحِطْ بِهِ (I have discovered what you did not - 27:22).
+In such situations it is not improper if something is said against the normal etiquettes.
 
 ## Tafsir Ibn Kathir
 

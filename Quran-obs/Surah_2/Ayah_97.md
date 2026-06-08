@@ -86,7 +86,7 @@ Imam Abu Ja'far bin Jarir At-Tabari said, "The scholars of Tafsir agree that thi
 
 ## Tafsir Summary
 
-Say (O Muhammad ﷺ): "Whoever is an enemy to Jibril (Gabriel)(let him die in his fury), for indeed he has brought it (this Qur'an) down to your heart by Allah's permission, confirming what came before it (i.e. The perversity of the Jews was very fertile, and gave them ever-new excuses for denying the Holy Prophet ﷺ .
+Further, whoever believes in one messenger, is required to believe in all of the messengers.
 
 ## Tafsir Ibn Kathir
 

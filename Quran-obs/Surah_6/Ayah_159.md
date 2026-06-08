@@ -92,7 +92,7 @@ Mujahid, Qatadah, Ad-Dahhak and As-Suddi said that this Ayah was revealed about 
 
 ## Tafsir Summary
 
-Verily, those who divide their religion and break up into sects, you have no concern with them in the least. As pointed out earlier, a major portion of Surah Al-An'am is devoted to addressing the disbelievers of Makkah and answering questions asked by them.
+Addressing them, stated there is the sad end of those who turn away from the straight path of Allah - and the instruction given to the Holy Prophet ﷺ is that he should have nothing to do with those who take to the ways of error.
 
 ## Tafsir Ibn Kathir
 

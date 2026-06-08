@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And remember Our servant Ayyub, when he invoked his Lord (saying): "Verily, Shaytan has afflicted me with distress and torment! The event relating to Sayyidna Ayyub (علیہ السلام) has been introduced here to comfort and prompt the Holy Prophet (علیہ السلام) ، so that he would also observe patience.
+She did not leave him, morning and evening, except for when she was serving people, then she would come straight back to him. Then he had nothing left in this world which he could use to help him deal with his sickness or the predicament he was in, besides his wife, who retained her devotion to him because of her faith in Allah and His Messenger.
 
 ## Tafsir Ibn Kathir
 

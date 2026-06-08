@@ -19,7 +19,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. (Yet he did not make his way through the steep course.
+But he has not attempted to pass on the path that is steep.)(12.
 
 ## Tafsir Ibn Kathir
 

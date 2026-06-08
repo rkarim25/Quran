@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those on the left? ثُلَّةٌ مِّنَ الْأَوَّلِينَ وَثُلَّةٌ مِّنَ الْآخِرِ‌ينَ (many from the earlier generations, and many from the later ones....56:39-40) In connection with sabiqun, (the Foremost) two views of the commentators were quoted earlier as to the identity of 'the earlier' and the 'later' generations.
+As for the People of the Right, their number will be large in both 'earlier' and 'later' generations. As-Suddi said "Al-Him is a disease that strikes camels, causing them to feel thirst, and they drink until they die." Therefore, he said, the people of Hell, will never quench their thirst from drinking Hamim.
 
 ## Tafsir Ibn Kathir
 

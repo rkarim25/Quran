@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And listen on the Day when the caller will call from a near place (41)The Day when they will hear As-Sayhah in truth, that will be the Day of coming out (42)Verily, it is We Who give life and cause death; and to Us is the final return (43)On the Day when the earth shall be cleft, from off them (they will come out) hastening forth. يَوْمَ يُنَادِ الْمُنَادِ مِن مَّكَانٍ قَرِ‌يبٍ (...the Day when the caller will call from a near place - 50:41).
+And listen on the Day when the caller will call from a near place (41)The Day when they will hear As-Sayhah in truth, that will be the Day of coming out (42)Verily, it is We Who give life and cause death; and to Us is the final return (43)On the Day when the earth shall be cleft, from off them (they will come out) hastening forth.
 
 ## Tafsir Ibn Kathir
 

@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And He will teach him the Book and Al-Hikmah, and the Tawrah and the Injil (48)And will make him a Messenger to the Children of Israel (saying): "I have come to you with a sign from your Lord, that I design for you out of clay, a figure like that of a bird, and breathe into it, and it becomes a bird by Allah's leave; and I heal the blind, and the leper, and I bring the dead to life by Allah's leave. 1.
+This is because the Qur'an is the Word of Allah and is nothing like that of the creatures.
 
 ## Tafsir Ibn Kathir
 

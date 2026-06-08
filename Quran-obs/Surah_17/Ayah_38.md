@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And walk not on the earth with conceit and arrogance. After having described details of the injunctions appearing above, it was said in the last verse: كُلُّ ذَٰلِكَ كَانَ سَيِّئُهُ عِندَ رَ‌بِّكَ مَكْرُ‌وهًا (That which is evil, of all these, is detestable in the sight of your Lord - 38).
+So everything that is mentioned here is a Sayi'ah (evil deed) for which a person is to be blamed before Allah, Who does not like or accept these deeds.
 
 ## Tafsir Ibn Kathir
 

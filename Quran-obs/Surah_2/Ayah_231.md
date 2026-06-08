@@ -203,7 +203,7 @@ That is, And remember the grace of Allah on you and what He has revealed to you 
 
 ## Tafsir Summary
 
-And when you have divorced women and they have fulfilled the term of their prescribed period, either take them back on a reasonable basis or set them free on a reasonable basis. In the previous two verses, it will be recalled, important rules of the law of talaq (divorce) were given.
+This is a chaste lesson in high morals and social manners which points to the fact that, just as the marriage was a transaction and mutual contract, the divorce is the termination of a transaction.
 
 ## Tafsir Ibn Kathir
 

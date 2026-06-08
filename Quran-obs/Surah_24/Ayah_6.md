@@ -82,7 +82,7 @@ In both these incidents it is reported that the verses of lian were revealed for
 
 ## Tafsir Summary
 
-And for those who accuse their wives, but have no witnesses except themselves, let the testimony of one of them be four testimonies by Allah that he is one of those who speak the truth (6)And the fifth (testimony); invok… The fourth injunction is of Li'an (لِعَان : curse) among the adjuncts of fornication The meaning of لِعَان and is to curse and praying for Allah's wrath on each other.
+For a common man it is possible to keep quiet and not to accuse someone of adultery if he cannot produce four eye-witnesses, in order to save himself from the punishment of false accusation of adultery, but for the husband it is different and a very grave matter, when he has seen the adultery of his wife with his own eyes.
 
 ## Tafsir Ibn Kathir
 

@@ -43,7 +43,7 @@ It is revealed in this verse that the infidels will lie on the Day of Resurrecti
 
 ## Tafsir Summary
 
-And indeed We have set forth for mankind, in this Qur'an every kind of parable. After this, the falsehood and ignorance of the deniers of the Dooms Day is mentioned وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِ‌مُونَ مَا لَبِثُوا غَيْرَ‌ سَاعَةٍ that is, ‘When the Dooms Day will come, these deniers of the Dooms Day will start swearing by losing senses after looking at the horrid scenes, that their stay was not more than one hour'.
+Do not turn away from it, for nowhere else is there truth which is to be followed; the truth rests exclusively in the Message with which you have been sent.' Reports concerning the Virtues of this Surah and that it is recommended to recite it during Fajr Imam Ahmad recorded from a man among the Companions of the Prophet ﷺ that the Messenger of Allah ﷺ led them in Fajr prayer and recited Ar-Rum in the prayer, but he became confused in his recitation.
 
 ## Tafsir Ibn Kathir
 

@@ -171,7 +171,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And a believing man of Fir'awn's family, who hid his Faith said: "Would you kill a man because he says: 'My Lord is Allah,' and he has come to you with clear signs from your Lord? In verse 28, it was said: يَكْتُمُ إِيمَانَهُ (who had kept his faith secret).
+However, making this verbal declaration before people publicly is not necessary.
 
 ## Tafsir Ibn Kathir
 

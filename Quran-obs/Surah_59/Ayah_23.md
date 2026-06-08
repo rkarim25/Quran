@@ -87,7 +87,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Had We sent down this Qur'an on a mountain, you would surely have seen it humbling itself and rent asunder by the fear of Allah. الْقُدُّوسُ The attribute Al-Quddus means 'the Most Pure from all defects', that is, Allah is the Being Who is free from all kinds of defect, deficiency and imperfection which are not in conformity to His Supreme status.
+Surely, none except Allah is able to measure, bring forth and create whatever He wills to come to existence.
 
 ## Tafsir Ibn Kathir
 

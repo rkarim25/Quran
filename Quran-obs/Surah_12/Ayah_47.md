@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the king (of Egypt) said: "Verily, I saw (in a dream) seven fat cows, whom seven lean ones were devouring, and seven green ears of corn, and (seven) others dry. Obviously, the dream of the king had told him only about seven years of good crops followed by seven years of famine.
+It is borne by experience that grain while in ears is not affected by bacteria.
 
 ## Tafsir Ibn Kathir
 

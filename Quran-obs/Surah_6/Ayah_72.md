@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Shall we invoke others besides Allah (false deities), that can do us neither good nor harm, and shall we turn on our heels after Allah has guided us? In the third verse (70), nearly the same subject has been stressed upon in the following words: وَذَرِ‌ الَّذِينَ اتَّخَذُوا دِينَهُمْ لَعِبًا وَلَهْوًا (And avoid those who have taken their faith as game and play ...).
+– Like one whom the Shayatin (devils) have made to go astray, confused (wandering) through the land, his companions calling him to guidance (saying): 'Come to us.'" Say: "Verily, Allah's guidance is the only guidance, and we have been commanded to submit (ourselves) to the Lord of all that exists (71)And to perform the Salah, and have Taqwa of Him, and it is He to Whom you shall be gathered (72)It is He Who has created the heavens and the earth in truth, and on the Day He wil…
 
 ## Tafsir Ibn Kathir
 

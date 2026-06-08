@@ -50,7 +50,7 @@ From the words of the text :'and died while they were disbelievers', commentator
 
 ## Tafsir Summary
 
-Verily, those who conceal the clear proofs, evidences and the guidance, which We have sent down, after We have made it clear for the People in the Book, they are the ones cursed by Allah and cursed by the cursers (159)Except those who repent and do righteous deeds, and openly declare (the truth which they concealed). Cursing an individual is not permissible From the words of the text :'and died while they were disbelievers', commentators al-Jassas, al-Qurtubi and some others have formulated the view that it is not permissible to curse an infidel about whom it is not certain that he is to die in a state of infidelity.
+As for cursing a specific disbeliever, some scholars stated that it is not allowed to curse him, because we do not know how Allah will make his end. This Hadith indicates that it is allowed to curse those who do not love Allah and His Messenger ﷺ.
 
 ## Tafsir Ibn Kathir
 

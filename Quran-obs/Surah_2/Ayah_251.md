@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when they advanced to meet Jalut (Goliath) and his forces, they invoked: "Our Lord! Verse 249: قَالَ إِنَّ اللَّـهَ مُبْتَلِيكُم بِنَهَرٍ (He said: Allah is going to test you by a river).
+Talut promised that whoever killed Jalut, would marry his daughter and would share his kingship and authority. Allah Almighty willed that such people be pruned out.
 
 ## Tafsir Ibn Kathir
 

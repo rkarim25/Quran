@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. يَتَفَطَّرْ‌نَ (burst apart).
+Their asking for forgiveness for disbelievers is for a limited period only and is a supplication that some severe worldly scourge may not befall the humans which may destroy all of them; their safety against ordinary punishments of this world and the real scourge of the Hereafter are not included in this supplication.
 
 ## Tafsir Ibn Kathir
 

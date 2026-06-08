@@ -227,7 +227,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who oppose Allah and His Messenger, they will be among those most humiliated (20)Allah has decreed: "Verily, I and My Messengers shall be the victorious." Verily, Allah is All-Powerful, Almighty (21)You will not find any people who believe in Allah and the Last Day, making friendship with those who oppose Allah and His Messenger, even though they were their fathers or their sons or their brothers or their kindred.
+This verse describes the condition of sincere believers who would not take an enemy of Faith, the opponents of Allah, for intimacy and friendship, even though such people are their own fathers, children, brothers or any other blood relatives.
 
 ## Tafsir Ibn Kathir
 

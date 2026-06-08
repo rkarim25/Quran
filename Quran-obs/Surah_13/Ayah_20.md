@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who fulfill, the covenant of Allah and break not the trust (20)And those who join that which Allah has commanded to be joined and fear their Lord, and dread the terrible reckoning (21)And those who remain patient,… الَّذِينَ يُوفُونَ بِعَهْدِ اللَّـهِ (those who fulfill [ their ] pledge with Allah).
+People who were parties to this solemn pledge were so true to their word of honour that, should they happen to drop their whip from their hand while riding, they would never ask anyone to pick up and hand over that whip to them.
 
 ## Tafsir Ibn Kathir
 

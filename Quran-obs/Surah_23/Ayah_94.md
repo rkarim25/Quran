@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "My Lord! (0 prophet) say (in prayer), "0 my Lord, if You are to show me (in my life) that (punishment) which they (the infidels) are threatened with, then, my Lord, do not place me among the wrongdoing people." (23: 93, 94) There are many verses of the Qur'an which contain warnings of punishment to the unbelievers.
+And when Allah's wrath descends upon a people, it is not confined to sinners alone, but sometimes it afflicts virtuous people too, who may not be punished in the Hereafter and may even be compensated by extra rewards for the undeserved punishment which they suffered in this world.
 
 ## Tafsir Ibn Kathir
 

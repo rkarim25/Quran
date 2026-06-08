@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, for those who have Taqwa, there will be a success (31)Hada'iq and vineyards (32)And Kawa'ib Atrab (33)And a cup Dihaq (34)No Laghw shall they hear therein, nor lying (35)Rewarded from your Lord with a sufficient… This sentence is probably connected to the preceding verse: جَزَاءً مِّن رَّ‌بِّكَ عَطَاءً حِسَابًا (this being a reward from their Lord, a sufficing grant...78:36) In this case, it would mean that when Allah grants a certain grade of reward, no one dare speak about the grade as to why someone got more and others got less.
+The Lord of the heavens and the earth, and whatsoever is in between them, the Most Gracious, with Whom they cannot dare to speak.)(38.
 
 ## Tafsir Ibn Kathir
 

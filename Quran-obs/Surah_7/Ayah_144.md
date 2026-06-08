@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Allah) said: "O Musa I have chosen you above men by My Messages, and by My speaking (to you). The fact that Allah spoke directly to the Prophet Musa (علیہ السلام) is confirmed by the Qur'an in clear terms.
+So hold that which I have given you and be of the grateful.
 
 ## Tafsir Ibn Kathir
 

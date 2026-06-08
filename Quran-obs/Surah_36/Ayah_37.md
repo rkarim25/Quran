@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And a sign for them is the night. In verse 37, it was said: وَآيَةٌ لَّهُمُ اللَّيْلُ نَسْلَخُ مِنْهُ النَّهَارَ‌ (And a sign for them is the night.
+In a predetermined system, at a fixed time, this light that is spread over the darkness of the world is removed from on top.
 
 ## Tafsir Ibn Kathir
 

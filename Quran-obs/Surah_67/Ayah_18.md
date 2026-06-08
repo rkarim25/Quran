@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do you feel secure that He, Who is over the heaven, will not cause the earth to sink with you, and then it should quake (16)Or do you feel secure that He, Who is over the heaven, will not send against you a Hasib? أَمْ أَمِنتُم مَّن فِي السَّمَاءِ أَن يُرْ‌سِلَ عَلَيْكُمْ حَاصِبًا ۖ فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ‌ (Or, have you become fearless of Him who is in the sky if He looses a violent wind with stones against you?
+Then you shall know how has been My warning (17)And indeed those before them rejected, then how terrible was My reproach (18)Do they not see the birds above them, spreading out their wings and folding them in?
 
 ## Tafsir Ibn Kathir
 

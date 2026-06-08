@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when it is said to them: "Do not make mischief on the earth," they say: "We are only peacemakers. The fourth and the fifth verses expose the sophistry of the hypocrites -their activities threatened to produce a general chaos and disorder, and yet, in their mealy-mouthed way, they pretended to be men of good will and to be serving the cause of peace and order.
+This Ayah means that the hypocrites' behavior, and their claim that it is for peace, is itself mischief, although in their ignorance, they do not see it to be mischief.
 
 ## Tafsir Ibn Kathir
 

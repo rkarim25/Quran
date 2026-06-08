@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, Yunus was one of the Messengers (139)When he ran to the laden ship (140)Then he (agreed to) cast lots, and he was among the losers (141)Then a (big) fish swallowed him as he had done an act worthy of blame (1… The last event described in this Sarah is that of Sayyidna Yunus (علیہ السلام) .
+And verily, Yunus was one of the Messengers (139)When he ran to the laden ship (140)Then he (agreed to) cast lots, and he was among the losers (141)Then a (big) fish swallowed him as he had done an act worthy of blame (142)Had he not been of them who glorify Allah (143)He would have indeed remained inside its belly (the fish) till the Day of Resurrection (144)But We cast him forth on the naked shore while he was sick (45)And We caused a plant of gourd to grow over him (146)An…
 
 ## Tafsir Ibn Kathir
 

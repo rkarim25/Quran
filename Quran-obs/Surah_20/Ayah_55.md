@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Who has made earth for you like a bed; and has opened ways for you therein, and has sent down water (rain) from the sky. The composition of every human being contains, together with the seed, the earth of the place when he will be buried The words مِنْهَا خَلَقْنَاكُمْ (From this We created you) in verse 55 means that Allah created you from the earth.
+Others have said that the seed itself is made of earth therefore anything created from the seed is in fact created from the earth.
 
 ## Tafsir Ibn Kathir
 

@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nay! sins has destroyed their innate capacity to distinguish right from wrong.
+But on their hearts is the Ran (covering) which they used to earn (14)Nay!
 
 ## Tafsir Ibn Kathir
 

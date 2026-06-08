@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat At-Tur Malik narrated that Jubayr bin Mut'im said, "I heard the Prophet ﷺ reciting Surat At-Tur while praying Maghrib. وَالطُّورِ‌ (By the Mount Tur,....52:1) The word Tur in Hebrew means a mountain that has trees [ as opposed to jabal a mountain that does not have trees { Trn.}].
+A mount that does not have trees is called Jabal, not Tur.
 
 ## Tafsir Ibn Kathir
 

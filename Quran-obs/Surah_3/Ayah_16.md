@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who say: "Our Lord! In the second verse that follows (15), the same subject has been further cleared by saying: Say: "Shall I not tell you what is far better than that?
+We have indeed believed, so forgive us our sins and save us from the punishment of the Fire. They will say: Our Lord, You have given us everything, what else could we ever need.
 
 ## Tafsir Ibn Kathir
 

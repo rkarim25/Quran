@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who call you from behind the dwellings, most of them have no sense (4)And if they had patience till you could come out to them, it would have been better for them. الَّذِينَ يُنَادُونَكَ مِن وَرَ‌اءِ الْحُجُرَ‌اتِ أَكْثَرُ‌هُمْ لَا يَعْقِلُونَ (As for those who call you from behind the apartments, most of them lack understanding.
+this Ayah was revealed about Al-Aqra' bin Habis At-Tamimi, may Allah be pleased with him, according to more than one source.
 
 ## Tafsir Ibn Kathir
 

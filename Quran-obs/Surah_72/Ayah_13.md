@@ -69,7 +69,7 @@ Al-'Awfi reported similar to this from Ibn 'Abbas, and likewise said Mujahid, Sa
 
 ## Tafsir Summary
 
-'There are among us some that are righteous, and some the contrary; we are groups having different ways. فَمَن يُؤْمِن بِرَ‌بِّهِ فَلَا يَخَافُ بَخْسًا وَلَا رَ‌هَقًا (...so if one believes in his Lord, he will have no fear of either any curtailment [ in his reward ] or any excess [ in his punishment ]...72:13).
+In other words, anyone who believes in Allah need fear neither curtailment in the reward of his good deeds, nor disgrace by excess in his punishment in the Hereafter.
 
 ## Tafsir Ibn Kathir
 

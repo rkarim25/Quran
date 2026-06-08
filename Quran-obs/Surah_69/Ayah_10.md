@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ (seven nights and eight consecutive days'...
+And they disobeyed their Lord's Messenger, so He seized them with a punishment that was Rabiyah.)(11. The word husuman (in verse 7) is the plural of hasim and means 'cutting them off entirely' or 'causing them to perish completely'.
 
 ## Tafsir Ibn Kathir
 

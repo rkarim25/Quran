@@ -95,7 +95,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Allah has made for you mates of your own kind, and has made for you, from your mates, sons and grandsons, and has granted you good provisions. In verse 72: جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا (Allah has created spouses from among you), a special blessing has been mentioned in that Allah Ta’ ala has created spouses from the same genus so that they remain mutually familiar and their distinction and nobility inherent in the human species also remains stable through generations.
+There is yet another hint visible in this sentence which mentions grandsons along with sons, that is, the real purpose behind creating spouses is the procreation and survival of human race so that they have children, then, their children have their children.
 
 ## Tafsir Ibn Kathir
 

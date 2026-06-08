@@ -87,7 +87,7 @@ It stands established from Sahih Ahadith, and confirmed by a consensus of the Mu
 
 ## Tafsir Summary
 
-And never (O Muhammad ﷺ) pray (funeral prayer) for any of them (hypocrites) who dies, nor stand at his grave. It stands established from Sahih Ahadith, and confirmed by a consensus of the Muslim Ummah on it that this verse was revealed at the time of the death of the hypocrite, ` Abdullah ibn Ubaiyy, and about the Salah of-Janazah for him.
+This is because hypocrites disbelieved in Allah and His Messenger ﷺ and died as such. This ruling applies to all those who are known to be hypocrites, even though it was revealed about the specific case of 'Abdullah bin Ubayy bin Salul, the chief hypocrite.
 
 ## Tafsir Ibn Kathir
 

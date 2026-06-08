@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, in the creation of the heavens and the Earth, and in the alternation of night and day, there are indeed signs for men of understanding (190)Those who remember Allah standing, sitting, and lying down on their sides, and think deeply about the creation of the heavens and the earth, (saying): "Our Lord! That human intentions and plans keep failing everywhere all the time is a matter of common experience.
+Similarly, those who ` see and experience the signs of Almighty Allah yet get entangled with the superficial glamour of what has been created - as a result of which they fail to know their real master - is rank heedless-ness and very much juvenile.
 
 ## Tafsir Ibn Kathir
 

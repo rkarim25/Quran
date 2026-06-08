@@ -83,7 +83,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And between them will be a (barrier) screen and on Al-A'raf will be men, who would recognize all, by their marks. When the people of Paradise will reach Paradise, where they belong, and the people of Hell, will reach Hell, where they belong, it is evident that the two places will be far apart from each other in all respects.
+As a corollary of the dialogue between those in Paradise and Hell, there is something else pointed to in this verse - that there will be some people who had their deliverance from Hell but had not yet found entry into Paradise, though they did hope that they would.
 
 ## Tafsir Ibn Kathir
 

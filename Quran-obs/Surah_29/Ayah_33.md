@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when Our messengers came to Ibrahim with the glad tidings they said: "Verily, we are going to destroy the people of this town; truly, its people have been wrongdoers. وَلُوطًا إِذْ قَالَ لِقَوْمِهِ إِنَّكُمْ لَتَأْتُونَ الْفَاحِشَةَ (And [ We sent ] Sayyidna Lut (علیہ السلام) when he said to his people, "Indeed you commit the shameful act - 29:28).
+We will verily, save him and his family – except his wife, she will be of those who remain behind. Truly, we shall save you and your family except your wife: she will be of those who remain behind.
 
 ## Tafsir Ibn Kathir
 

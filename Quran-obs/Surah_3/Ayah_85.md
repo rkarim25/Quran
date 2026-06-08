@@ -64,7 +64,7 @@ Correspondingly, there are occasions when 'Islam' is used in that general sense,
 
 ## Tafsir Summary
 
-Do they seek other than the religion of Allah, while to Him submitted all creatures in the heavens and the earth, willingly or unwillingly. The literal meaning of 'Islam' is 'submission and obedience.' As a term 'Islam' stands for submission to that particular religion which Allah Almighty has sent through his prophets (علیہم السلام) to guide human beings, because fundamental principles are the same in the religious codes of all prophets (علیہم السلام) .
+Instead, Islam is the name of that particular religion which has reached us through the Holy Prophet, Muhammad al-Mustafa ﷺ .
 
 ## Tafsir Ibn Kathir
 

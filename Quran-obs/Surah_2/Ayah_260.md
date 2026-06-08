@@ -171,7 +171,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Ibrahim said, "My Lord! This is the third story taken up in the above verse (260).
+The state that helps remove this mental distraction and is replaced by a heart at rest is called sukun or peace.
 
 ## Tafsir Ibn Kathir
 

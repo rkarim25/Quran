@@ -197,7 +197,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah will not punish you for what is unintentional in your oaths, but He will punish you for your deliberate oaths; for its expiation feed ten poor, on a scale of the Awsat of that with which you feed your own families; or clothe them; or free a slave. Mentioned earlier was the taking of Halal things as unlawful.
+The outcome is that Allah does not hold you accountable for what is not countable in your oaths, that is, does not make it obligatory for you to make amends for them by paying Kaffarah (expiation).
 
 ## Tafsir Ibn Kathir
 

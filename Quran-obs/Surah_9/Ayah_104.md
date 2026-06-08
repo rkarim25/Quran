@@ -79,7 +79,7 @@ This is the view preferred in Tafsir al-Qurtubi, Ahkam al-Qur'an by al-Jassas, T
 
 ## Tafsir Summary
 
-Take Sadaqah from their wealth in order to purify them and sanctify them with it, and 'Şalli' for them. The imperative: خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً : "Take out of their wealth a Sadaqah (obligatory alms) " in the second verse (103) has its background.
+The answer is that the sin has, no doubt, been forgiven by virtue of the repentance, but it is quite possible that it may have left behind some residual effects following the forgiveness of sin which could be-come the cause of falling into sin.
 
 ## Tafsir Ibn Kathir
 

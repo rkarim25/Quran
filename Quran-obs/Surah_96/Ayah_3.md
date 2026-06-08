@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This was the First of the Qur'an revealed In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 3] اقْرَ‌أْ وَرَ‌بُّكَ الْأَكْرَ‌مُ (Read, and your Lord is the most gracious.) The command iqra' [ Read ] has been repeated in this verse for two reasons: The first command in verse [ 1] was for the Holy Prophet himself to read or recite.
+And your Lord is the Most Generous.)(4.
 
 ## Tafsir Ibn Kathir
 

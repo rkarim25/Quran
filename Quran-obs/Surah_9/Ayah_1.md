@@ -50,7 +50,7 @@ The first part of this honorable Surah was revealed to the Messenger of Allah �
 
 ## Tafsir Summary
 
-(1. Described in the fourth verse (75) is the injunction concerning different categories of Muhajirin (مُھَاجِرین ، emigrants).
+Freedom from (all) obligations (is declared) from Allah and His Messenger ﷺ to those of the Mushrikin (idolaters), with whom you made a treaty.)(2.
 
 ## Tafsir Ibn Kathir
 

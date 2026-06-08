@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Will you not fight a people who have violated their oaths and intended to expel the Messenger while they did attack you first? 1.
+Allah does what He wills, decides what He wills, and He is the Just Who never wrongs any.
 
 ## Tafsir Ibn Kathir
 

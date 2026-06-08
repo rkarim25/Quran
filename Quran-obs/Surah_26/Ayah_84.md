@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-My Lord! The word لِسَانَ (lisan, which literally means tongue) is used in this verse in the sense of description and 'for me' means 'for my benefit.
+this verse that the desire for a righteous deed which results in people's praise is allowed.
 
 ## Tafsir Ibn Kathir
 

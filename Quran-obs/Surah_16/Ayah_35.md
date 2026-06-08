@@ -144,7 +144,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who worshipped others with Allah said: "If Allah had so willed, neither we nor our fathers would have worshipped any but Him nor would we have forbidden anything without (a command from) Him." Those before them did the same. The first doubt expressed by these disbelievers was: If Allah does not like our Kufr and Shirk and other unlawful deeds, why would He not stop us from doing so by force?
+And those who worshipped others with Allah said: "If Allah had so willed, neither we nor our fathers would have worshipped any but Him nor would we have forbidden anything without (a command from) Him." Those before them did the same. All of the Messengers called their people to worship Allah (Alone) as well as forbidding them from worshipping anything or anybody except for Him.
 
 ## Tafsir Ibn Kathir
 

@@ -90,7 +90,7 @@ Inspite of what happened, the widow of Sayyidna Aws ibn Thabit ؓ still wanted t
 
 ## Tafsir Summary
 
-There is a share for men and a share for women from what is left by parents and those nearest in relation, whether the property be small or large – a legal share (7)And when the relatives, and the orphans, and the poor are present at the time of division, give them from the property, and speak to them words of kindness and justice (8)And let those (executors and guardians) have the same fear in their minds as they would have for their own, if they had left weak offspring behind. Right from the opening of Surah Al-Nis-a', the theme of universal human rights, particularly those relating to family life, has been appearing regularly.
+But, this command is not obligatory; it is, rather, commendatory.
 
 ## Tafsir Ibn Kathir
 

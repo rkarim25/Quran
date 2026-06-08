@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, do not obey the deniers (8)They wish that you should compromise with them, so they (too) would compromise with you (9)And do not obey every Hallaf Mahin (10)A Hammaz, going about with Namim (11)Hinderer of the good, transgressor, sinful (12)'Utul, and moreover Zanim (13)(He was so) because he had wealth and children (14)When Our Ayat are recited to him, he says: "Tales of the men of old! فَلَا تُطِعِ الْمُكَذِّبِينَ وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ (So, do not obey those who reject [ the true faith ].
+Ruling This verse indicates that any such compromise with the unbelievers is tantamount to mudahanah fid-din, flexibility in religion, and this is forbidden.
 
 ## Tafsir Ibn Kathir
 

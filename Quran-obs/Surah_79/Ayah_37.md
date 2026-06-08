@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But when there comes the Greatest Catastroph (34)The Day when man shall remember what he strove for (35)And Hell shall be made apparent for whoever sees (36)Then for him who transgresse (37)And preferred the life of this… First, the special marks of the inmates of Hell are described.
+In other words, [ 1] instead of remaining loyal to Allah and His Messenger and following their commands, they adopt the line of rejection and rebellion; and [ 2] prefer the life of this world to that of the Hereafter. In other words, if he were to do a deed that gives comfort and pleasure in this world but punishment in the Hereafter, he would prefer the comforts and pleasure of this life to the pleasure of the next life.
 
 ## Tafsir Ibn Kathir
 

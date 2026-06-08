@@ -153,7 +153,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Thamud (people, We sent) their brother Salih. These verses tell us about Sayyidna Salih and his people, the Thamud.
+This she-camel of Allah is a sign unto you; so you leave her to graze in Allah's earth, and touch her not with harm, lest a painful torment should seize you (73)And remember when He made you successors (generations) after 'Ad and gave you habitations in the land, you build for yourselves palaces in plains, and carve out homes in the mountains.
 
 ## Tafsir Ibn Kathir
 

@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-See they not how Allah originates the creation, then repeats it. The infidels of Makkah believed that it is Allah who has created the whole universe, but they deemed it impossible that the people will be resurrected after they once die.
+And besides Allah you have neither any protector nor any helper (22)And those who disbelieve in the Ayat of Allah and meeting with Him, such have no hope of My mercy: and for such there is a painful torment .
 
 ## Tafsir Ibn Kathir
 

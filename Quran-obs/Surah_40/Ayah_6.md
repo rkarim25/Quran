@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-None disputes in the Ayat of Allah but those who disbelieve. In verse 4, it was said: مَا يُجَادِلُ فِي آيَاتِ اللَّـهِ إِلَّا الَّذِينَ كَفَرُ‌وا (No one quarrels about the verses of Allah, except those who disbelieve.).
+So I seized them, and how was My punishment (5)Thus has the Word of your Lord been justified against those who disbelieved, that they will be the dwellers of the Fire . This verse declares quarreling in the matter of the Qur'an an act of kufr (disbelief).
 
 ## Tafsir Ibn Kathir
 

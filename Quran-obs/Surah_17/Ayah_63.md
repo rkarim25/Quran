@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Allah) said: "Go, and whosoever of them follows you, surely, Hell will be the recompense of you (all) an ample recompense (63)"And fool them gradually, those whom you can among them with your voice, Ajlib upon them with your cavalry and your infantry, share with them wealth and children, and make promises to them." But Shaytan promises them nothing but deceit (64)"Verily, My servants, you have no authority over them. The word: لَأَحْتَنِكَنَّ (subdue) in verse 62 is from: اِحتِنَاک (ihtinak) which means to exterminate or uproot something, or to subdue and overpower it completely.
+From this root is also derived the word Jalabah, which means raising voices. Therefore, this question was considered unworthy of an answer and no answer was given.
 
 ## Tafsir Ibn Kathir
 

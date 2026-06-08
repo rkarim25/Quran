@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Ibrahim) said: "Then for what purpose you have come, O messengers? Small pebbles of baked clay would be sent down upon them: مُّسَوَّمَةً عِندَ رَ‌بِّكَ "marked, with your Lord, for the transgressors."...
+Some scholars say that each stone bore the name of the person with which he was to be destroyed, and if he ran in any particular direction, he was pursued by the same stone.
 
 ## Tafsir Ibn Kathir
 

@@ -125,7 +125,7 @@ According to Imam Baghawi, this verse was revealed in connection with the tribe 
 
 ## Tafsir Summary
 
-The bedouins say: "We believe." Say: "You do not believe. Sequence of Verses in the Surah In the preceding verses of the Surah it was stated that the basis of honour in the sight of Allah is righteousness which is an inner quality, and Allah alone knows it.
+This is also demostrated in the Hadith of Jibril, peace be upon him, when he questioned the Prophet ﷺ about Islam, then Iman then Ihsan. Thus moving the general matter to one more specific, then even more specific.
 
 ## Tafsir Ibn Kathir
 

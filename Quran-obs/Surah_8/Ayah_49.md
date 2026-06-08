@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And be not like those who come out of their homes boastfully and to be seen of men, and hinder (men) from the path of Allah; and Allah is 'Muhīt' (eneompassing and thoroughly comprehending) all that they do (47)And (reme… The Anatomy of Shaitanic Deception and Personal Defence There are some elements of guidance we receive from what has been mentioned in this verse:
+That the most frequent reason why people get involved in disbelief, polytheism or other impermissible doings is no other but that the Shaitan, by making their evil deeds appear handsome, desirable and beneficial, turns their hearts away from truth, as it is, and its consequences, as they would be.
 
 ## Tafsir Ibn Kathir
 

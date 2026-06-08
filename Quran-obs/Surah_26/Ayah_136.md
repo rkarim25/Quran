@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "It is the same to us whether you preach or be not of those who preach. Explanation of some difficult words Do you erect on every height a sign having no sound purpose, [ 128] and take the objects of architecture as if you are going to live forever, (26:128-129)
+The Response of the People of Hud, and Their Punishment Allah tells us how the people of Hud responded to him after he had warned them, encouraged them, and clearly explained the truth to them.
 
 ## Tafsir Ibn Kathir
 

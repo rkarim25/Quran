@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) the Day that the enemies of Allah will be gathered to the Fire, then they will be driven (19)Till, when they reach it, their hearing (ears) and their eyes and their skins will testify against them as to what they used to do (20)And they will say to their skins, "Why do you testify against us?" They will say: "Allah has caused us to speak - as He causes all things to speak, and He created you the first time, and to Him you are made to return.
+Although it is not expected from the deniers of Oneness of Allah and of prophethood, that it would enter their minds that their organs and limbs would speak up before Allah Almighty and give evidence against themselves, yet any intelligent person could have understood that it is totally impossible that the One who has created him from a lowly matter, given him ability to hear and see, brought him up and made him young, will not fully know his deeds and state of affairs.
 
 ## Tafsir Ibn Kathir
 

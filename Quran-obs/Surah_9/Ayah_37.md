@@ -137,7 +137,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The postponing (of a Sacred Month) is indeed an addition to disbelief: thereby the disbelievers are led astray, for they make it lawful one year and forbid it another year in order to adjust the number of months forbidden by Allah, and make such forbidden ones lawful. The second verse (37) also refers to this very custom of Jahiliyyah by saying: اِنَّمَا الںَّسِٓیُ زِیَادَۃُ فِی الکُفرِ (...
+However, if it remains viably preserved, the use of another calendar is also permissible - but, there is no doubt that it is against the way of Allah and the way of the worthy forbears of Islam - therefore, it is not good to opt for it unnecessarily.
 
 ## Tafsir Ibn Kathir
 

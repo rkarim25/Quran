@@ -41,7 +41,7 @@ Both of them said: "Our Lord! Verily, we fear lest he should hasten to punish us
 
 ## Tafsir Summary
 
-Both of them said: "Our Lord! Allah said,إِنَّنِي مَعَكُمَا أَسْمَعُ وَأَرَ‌ىٰ "I am surely with you both.
+The guidance which Allah gives to the prophets and which is in the nature of a duty imposed upon them is a special kind of guidance which is addressed only to human beings and Jinns who are gifted with intellect.
 
 ## Tafsir Ibn Kathir
 

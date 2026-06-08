@@ -76,7 +76,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And in their footsteps, We sent 'Isa, son of Maryam, confirming the Tawrah that had come before him, and We gave him the Injil, in which was guidance and light and confirmation of the Tawrah that had come before it, a guidance and an admonition for those who have Taqwa (46)Let the people of the Injil judge by what Allah has revealed therein. In the fourth verse (47) it was said that the people of the Injil should enforce injunctions in accordance with the Law revealed by Al-mighty Allah in the Injil, and those who enforce what is against the in-junctions sent down by Almighty Allah are disobedient, sinners.
+And whosoever does not judge by what Allah has revealed, such are the rebellious . And in their footsteps, We sent 'Isa, son of Maryam, confirming the Tawrah that had come before him, and We gave him the Injil, in which was guidance and light and confirmation of the Tawrah that had come before it, a guidance and an admonition for those who have Taqwa (46)Let the people of the Injil judge by what Allah has revealed therein.
 
 ## Tafsir Ibn Kathir
 

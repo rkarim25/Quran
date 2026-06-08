@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you not seen those (the Jews) who were given a portion of the Book, purchasing the wrong path, and wishing that you should go astray from the right path (44)Allah has full knowledge of your enemies, and Allah is suf… The present verses take up the matter of dealings with enemies.
+Have you not seen those (the Jews) who were given a portion of the Book, purchasing the wrong path, and wishing that you should go astray from the right path (44)Allah has full knowledge of your enemies, and Allah is sufficient as a Wali (Protector), and Allah is sufficient as a Helper (45)Among those who are Jews, there are some who displace words from (their) right places and say: "We hear your word and disobey," and "Hear and let you hear nothing." And Ra'ina with a twist…
 
 ## Tafsir Ibn Kathir
 

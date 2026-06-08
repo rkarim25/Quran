@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Az-Zumar An-Nasa'i recorded that 'A'ishah, may Allah be pleased with her, said, "The Messenger of Allah ﷺ used to fast until we would say, 'He does not want to break fast,' and he would not fast unti… In verse 86, it was said: وَمَا أَنَا مِنَ الْمُتَكَلِّفِينَ (nor am I from among those who make up things artificially.).
+The revelation of this Book is from Allah, the Almighty, the All-Wise.)(2.
 
 ## Tafsir Ibn Kathir
 

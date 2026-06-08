@@ -115,7 +115,7 @@ More than one of the scholars, such as Ibn 'Abbas, Mujahid, Ad-Dahhak, Qatadah, 
 
 ## Tafsir Summary
 
-It is not lawful for you (to marry other) women after this, nor to change them for other wives even though their beauty attracts you, except those whom your right hand possesses. The pious life of the Holy Prophet ﷺ and the issue of polygamy The enemies of Islam have always targeted the issue of polygamy, specially the number of the wives of the Holy Prophet ﷺ for their criticism.
+in this Ayah and permitted him to marry more women, but he did not marry anyone else, so that the favor of the Messenger of Allah ﷺ towards them would be clear.
 
 ## Tafsir Ibn Kathir
 

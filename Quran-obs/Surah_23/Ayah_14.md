@@ -95,7 +95,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We created man out of an extract of Tin (12)Thereafter We made him a Nutfah in a safe lodging (13)Then We made the Nutfah into a clot, then We made the clot into a little lump of flesh, then We made out of that little lump of flesh bones, then We clothed the bones with flesh, and then We brought it forth as another creation. (an extract of clay) which changes into the seed ثُمَّ جَعَلْنَاهُ نُطْفَةً (then We made him a sperm-drop).
+This real spirit was created long before the creation of human beings, and it is these spirits which were assembled by Allah when He asked them, "Am I not your Lord?" and they answered, "Why not?" This Real Spirit having been created long before, is connected by Allah Ta’ ala with biological spirit in a manner not known to anyone.
 
 ## Tafsir Ibn Kathir
 

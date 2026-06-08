@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) the Day when the heaven shall be rent asunder with clouds, and the angels will be sent down, with a grand descending (25)The sovereignty on that Day will be the true (sovereignty) of the Most Gracious, and it will be a hard Day for the disbelievers (26)And (remember) the Day when the wrongdoer will bite at his hands, he will say: "Oh! تَشَقَّقُ السَّمَاءُ بِالْغَمَامِ (The sky will break open with a cloud - 25:25).
+Would that I had never taken so-and-so as an intimate friend!) meaning, the one among the propagators of misguidance who diverted him from true guidance and led him to follow the path of misguidance, whether this refers to Umayyah bin Khalaf or his brother Ubayy bin Khalaf, or to someone else.
 
 ## Tafsir Ibn Kathir
 

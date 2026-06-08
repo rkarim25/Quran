@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Likewise, no Messenger came to those before them but they said: "A sorcerer or a madman! The word ذُنُوب dhanub in verse 59 is with lath on the letter [ dh ] which means a large bucket that is kept at the common wells of a locality for the purpose of drawing and filling water.
+A turn is designated for each of the persons using the large common bucket to draw out water from the well, so that he is conveniently able to fill it in his own private bucket in his turn.
 
 ## Tafsir Ibn Kathir
 

@@ -45,7 +45,7 @@ According to the present narration of this Hadith-ul-Futun, Sayyidna Ibn ` Abbas
 
 ## Tafsir Summary
 
-"When your sister went and said: 'Shall I show you one who will nurse him' So We restored you to your mother, that she might cool her eyes and she should not grieve. Our Lord is He who gave everything its shape, then guidance - 20:50.
+Then you came here according to the fixed term which I ordained (for you), O Musa (40)And I have chosen you for Myself (41)Go you and your brother with My Ayat, and do not, you both, slacken and become weak in My remembrance (42)Go both of you to Fir'awn, verily, he has transgressed (43)And speak to him mildly, perhaps he may accept admonition or fear (Allah). And, of course, you have another promise, never to be held back from you.
 
 ## Tafsir Ibn Kathir
 

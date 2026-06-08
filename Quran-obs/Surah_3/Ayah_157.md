@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! The saying of the hypocrites in verse 156 here is an extension of what was cited in verse 154 earlier: لَوْ كَانَ لَنَا مِنَ الْأَمْرِ‌ شَيْءٌ مَّا قُتِلْنَا هَاهُنَا :"If we had any say in the matter, we would have not…
+And Allah is All-Seer of what you do (156)And if you are killed or die in the way of Allah, forgiveness and mercy from Allah are far better than all that they amass (157)And whether you die or are killed, verily, unto Allah you shall be gathered .
 
 ## Tafsir Ibn Kathir
 

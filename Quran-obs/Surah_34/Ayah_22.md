@@ -115,7 +115,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Call upon those whom you assert besides Allah, they possess not even the weight of a speck of dust, either in the heavens or on the earth, nor have they any share in either, nor there is for Him any supporter from among them. These verses are meant to prove the falsity of three different types of idol-worshippers.
+Then the text clarifies that even angels who are close to Allah cannot intercede for anyone without Allah's permission, and even if they are allowed to intercede, it is not easy for them to do that, because of Allah's awe they' have in their hearts.
 
 ## Tafsir Ibn Kathir
 

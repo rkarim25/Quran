@@ -161,7 +161,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-See you not that whoever is in the heavens and whoever is on the earth, and the sun, and the moon, and the stars, and the mountains, and the trees, and Ad-Dawabb, and many of mankind prostrate themselves to Allah. In verse 17 it is stated that Allah will decide among the believers and non-believers of different faiths on the Day of Resurrection, because He knows everything.
+The 'submission' in this sense is pre-determined, involuntary and instinctive.
 
 ## Tafsir Ibn Kathir
 

@@ -145,7 +145,7 @@ Muhammad bin Ishaq reported a narration from Abu Ja'far Muhammad bin 'Ali bin Al
 
 ## Tafsir Summary
 
-And a declaration from Allah and His Messenger to mankind on the greatest day of Hajj that Allah is free from obligations to the Mushrikin and so is His Messenger. The generosity of giving respite to disbelievers even after treaties with them had expired It was stipulated that these injunctions shall come into force and the period of respite shall start from the time the relevant information has been promulgated throughout the Arabian Peninsula.
+So if you repent, it is better for you, but if you turn away, then know that you cannot escape Allah.
 
 ## Tafsir Ibn Kathir
 

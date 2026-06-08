@@ -122,7 +122,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And in their footsteps, We sent 'Isa, son of Maryam, confirming the Tawrah that had come before him, and We gave him the Injil, in which was guidance and light and confirmation of the Tawrah that had come before it, a guidance and an admonition for those who have Taqwa (46)Let the people of the Injil judge by what Allah has revealed therein. In the second verse after that (45), there is a description of the injunctions of Qisas (Even Retaliation) with a particular reference stressing that ` We had revealed these injunctions in the Torah.' The words of the te…
+Mentioned after that is the Injil because that too, like the Torah, is guidance and light.
 
 ## Tafsir Ibn Kathir
 

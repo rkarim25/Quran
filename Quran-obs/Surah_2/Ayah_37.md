@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then Adam received from his Lord Words. A question arises here as to how Satan got into Paradise for seducing Adam and Hawwa (علیہما السلام) when he had already been expelled from there for refusing to prostrate himself.
+Then Adam received from his Lord Words.
 
 ## Tafsir Ibn Kathir
 

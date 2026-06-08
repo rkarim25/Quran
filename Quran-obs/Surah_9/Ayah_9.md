@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They have purchased with the Ayat of Allah a little gain, and they hindered men from His way; evil indeed is that which they used to do (9)With regard to a believer, they respect not the ties, either of kinship or of covenant! Earlier when it was said that disbelieving people had nursed betrayal in their hearts right from the beginning and had no intention of staying faithful to their pledge, an exception was also granted.
+They have purchased with the Ayat of Allah a little gain, and they hindered men from His way; evil indeed is that which they used to do (9)With regard to a believer, they respect not the ties, either of kinship or of covenant!
 
 ## Tafsir Ibn Kathir
 

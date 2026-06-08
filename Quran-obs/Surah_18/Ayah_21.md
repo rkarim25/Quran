@@ -142,7 +142,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And thus We made their case known, that they might know that the promise of Allah is true, and that there can be no doubt about the Hour. Described in this verse which opens with the words: وَكَذَٰلِكَ أَعْثَرْ‌نَا عَلَيْهِمْ (And in this way We made them known) is the disclosure of the secret of the People of Kahf before the residents of the city.
+And thus We made their case known, that they might know that the promise of Allah is true, and that there can be no doubt about the Hour.
 
 ## Tafsir Ibn Kathir
 

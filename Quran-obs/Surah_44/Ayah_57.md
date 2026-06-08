@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who have Taqwa, will be in place of security (51)Among Gardens and Springs (52)Dressed in Sundus and Istabraq, facing each other (53)So (it will be). لَا يَذُوقُونَ فِيهَا الْمَوْتَ إِلَّا الْمَوْتَةَ الْأُولَىٰ (They will not taste death therein, except for the first death (they faced in the world) - 44:56).
+Despite the fact that it is so plain and clear, there are still people who disbelieve, who stubbornly go against it.
 
 ## Tafsir Ibn Kathir
 

@@ -83,7 +83,7 @@ Those among the Children of Israel who disbelieved were cursed by the tongue of 
 
 ## Tafsir Summary
 
-Those among the Children of Israel who disbelieved were cursed by the tongue of Dawud and 'Isa, son of Maryam. The Sad End of Bani Isra'Il Mentioned in the second verse (78) is the sad end of those from the Bani Isra'il who were involved in this error of excess and deficiency.
+Those among the Children of Israel who disbelieved were cursed by the tongue of Dawud and 'Isa, son of Maryam. Allah Cursed the Disbelievers Among the Children of Israel Allah states that He has cursed the disbelievers among the Children of Israel long ago, and revealed this fact to His Prophets Dawud and 'Isa, son of Maryam.
 
 ## Tafsir Ibn Kathir
 

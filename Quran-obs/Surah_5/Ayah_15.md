@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O People of the Scripture! Refuted here in this verse is only one saying of the Christians - which is the belief of a sect among them - that Sayyidna Masih (علیہ السلام) is God.
+Indeed, there has come to you from Allah a light and a plain Book (15)Wherewith Allah guides all those who seek His Pleasure to ways of peace, and He brings them out of darkness by His permission unto light and guides them to a straight path . Now has come to you Our Messenger explaining to you much of that which you used to hide from the Scripture and passing over much.
 
 ## Tafsir Ibn Kathir
 

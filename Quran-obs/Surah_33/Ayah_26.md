@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those of the People of the Scripture who backed them, Allah brought them down from their forts and cast terror into their hearts; a group you killed, and a group you made captives (26)And He caused you to inherit their lands, and their houses, and their riches, and a land which you had not trodden. The second state mentioned here is that of the hypocrites for they had started saying that the promises of Allah and His Rasul ﷺ were a web of deception: إِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِم مَّرَ‌ضٌ مَّا وَعَدَنَا اللَّـهُ وَرَ‌سُولُهُ إِلَّا غُرُ‌ورً‌ا (And (remember) when the hypocrites and those having malady in their hea…
+And those of the People of the Scripture who backed them, Allah brought them down from their forts and cast terror into their hearts; a group you killed, and a group you made captives (26)And He caused you to inherit their lands, and their houses, and their riches, and a land which you had not trodden.
 
 ## Tafsir Ibn Kathir
 

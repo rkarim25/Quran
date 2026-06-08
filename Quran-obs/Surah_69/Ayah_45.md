@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if he had forged a false saying concerning Us (44)We surely would have seized him by his right hand (45)And then We certainly would have cut off Al-Watin from him (46)And none of you could have prevented it from him… And had he forged some statements in Our name, We would have certainly seized him by the right hand, and then severed his life-astery,…(69:44-46) The word taqawwul means 'to forge, fabricate or concoct' and the word watin refers to 'aorta or life-artery'.
+The expression 'right hand' is used probably because when a convicted criminal is to be executed, the executioner stands in front facing the condemned person.
 
 ## Tafsir Ibn Kathir
 

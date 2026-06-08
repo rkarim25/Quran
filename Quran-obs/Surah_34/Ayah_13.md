@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Sulayman (We subjected) the wind, its morning was a month's (journey), and its afternoon was a month's (journey). In verse 13: يَعْمَلُونَ لَهُ مَا يَشَاءُ مِن مَّحَارِ‌يبَ وَتَمَاثِيلَ وَجِفَانٍ كَالْجَوَابِ وَقُدُورٍ‌ رَّ‌اسِيَاتٍ (They used to make for him whatever he wished of castles, images, basins as (large as) tanks and big cook-wares fixed in their places), there is a somewhat detailed description of the jobs Sayyidna Sulayman (علیہ السلام) assigned to the Jinns.
+However, the correct position in this matter is that, should mihrabs of this nature be made for the convenience of the people praying, and in the best interests of the masjid - without taking it to be the desired Sunnah - then, there is no reason to call it a bid'ah (innovation in established religion).
 
 ## Tafsir Ibn Kathir
 

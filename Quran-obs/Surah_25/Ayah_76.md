@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those will be rewarded with the highest place because of their patience. أُولَـٰئِكَ يُجْزَوْنَ الْغُرْ‌فَةَ (Such people will be rewarded with the high place - 75) The literal meaning of غُرفَہ (ghurfah) is upper story.
+So the torment will be yours forever.
 
 ## Tafsir Ibn Kathir
 

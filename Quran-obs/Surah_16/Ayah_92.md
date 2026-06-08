@@ -140,7 +140,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And fulfill the covenants (taken in the Name of) Allah when you have taken them, and do not break the oaths after you have confirmed them - and indeed you have appointed Allah as your guarantor. In verse 92: أَن تَكُونَ أُمَّةٌ هِيَ أَرْ‌بَىٰ مِنْ أُمَّةٍ (merely because a group is higher [ in number and wealth ] than the other), Muslims have been ordered that they should not break the pact they enter into with a group simply for the sake of worldly interests and gains.
+Verily, Allah knows what you do (91)And do not be like the one who undoes the thread which she has spun, after it has become strong, by taking your oaths as a means of deception among yourselves when one group is more numerous than another group.
 
 ## Tafsir Ibn Kathir
 

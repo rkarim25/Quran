@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Qutila mankind! خَلَقَهُ فَقَدَّرَ‌هُ (He created him, and designed him in due proportion..80:19).
+The word qaddara is derived from taqdir which is also used in the sense of 'predestination'.
 
 ## Tafsir Ibn Kathir
 

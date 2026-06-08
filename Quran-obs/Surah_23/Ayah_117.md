@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And whoever invokes besides Allah, any other god, of whom he has no proof; then his reckoning is only with his Lord. The last few verses of this Surah Al-Mu'minun from verse 115 to verse 118 have special merit.
+And whoever invokes besides Allah, any other god, of whom he has no proof; then his reckoning is only with his Lord.
 
 ## Tafsir Ibn Kathir
 

@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. لَن تَنفَعَكُمْ أَرْ‌حَامُكُمْ وَلَا أَوْلَادُكُمْ ۚ يَوْمَ الْقِيَامَةِ يَفْصِلُ بَيْنَكُمْ ۚ وَاللَّـهُ بِمَا تَعْمَلُونَ بَصِيرٌ‌ (Neither your womb-relations nor your children will avail you on the Day of Judgment.
+He will decide between you, and Allah is watchful of what you do...60:3).
 
 ## Tafsir Ibn Kathir
 

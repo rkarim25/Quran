@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat At-Tariq An-Nasa'i recorded that Jabir said, "Mu'adh lead the Maghrib prayer and he recited Al-Baqarah and An-Nisa'. that comes out from between the loins and the chest-bones...86:6, 7).
+It merely says 'He is created of spouting water that comes out from between the loins and the chest-bones.' This may simply signify that the seminal fluid comes out from the entire body of both men and women. Proceeding from between the backbone and the ribs.)(8.
 
 ## Tafsir Ibn Kathir
 

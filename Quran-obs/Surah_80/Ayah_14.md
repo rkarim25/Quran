@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. فِي صُحُفٍ مُّكَرَّ‌مَةٍ مَّرْ‌فُوعَةٍ مُّطَهَّرَ‌ةٍ (It is [ recorded ] in those scripts [ of the Preserved Tablet ] that are honoured, [ 13] exalted, purified - 14).
+The word mutahharah (purified) means 'people in the state of sexual defilement, menstrual discharge, post-natal bleeding and people in the state of minor uncleanness are not permitted to touch it'. The word suhuf refers to lauh mahfuz 'the Preserved Tablet'.
 
 ## Tafsir Ibn Kathir
 

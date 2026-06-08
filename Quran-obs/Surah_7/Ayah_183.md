@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who reject Our Ayat, We shall gradually seize them with punishment in ways they perceive not (182)And I respite them; certainly My plan is strong.) Allah sai (183) (Those who reject Our Ayat, We shall gradually seize them in ways they perceive not) meaning, the doors of provisions will be opened for them and also the means of livelihood, in this life. "And I give them respite.
+They will be deceived by all this and think that they are on the correct path.
 
 ## Tafsir Ibn Kathir
 

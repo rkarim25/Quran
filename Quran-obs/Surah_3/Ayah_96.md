@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, the first House (of worship) appointed for mankind was that at Bakkah (Makkah), full of blessing, and a guidance for Al-'Alamin (mankind and Jinn (96)In it are manifest signs (for example), the Maqam (station) of Ibrahim; whosoever enters it, he attains security. The above verse points out to the distinction and superiority of the House of Allah, the Ka'bah, as compared to the houses, and even mosques, of the whole world.
+this is his wording. At-Tirmidhi, An-Nasa'i and Ibn Majah also collected it.
 
 ## Tafsir Ibn Kathir
 

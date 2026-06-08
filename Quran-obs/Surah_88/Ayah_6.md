@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Reciting Surat Al-A'la and Al-Ghashiyah in the Friday Prayer It has already been mentioned on the authority of An-Nu'man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A'la (87) and Al-Ghashiyah in the 'Id and Friday prayers. لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ (There will be no food for them except from a thorny plant...88:6) The only food available for the inmates of Hell would be dari`.
+This verse restricts their food to dari', thus: 'There will be no food for them except from a thorny plant...88:6) The answer is that the restriction in this verse is in contrast to a palatable food that may be fit for [ human ] consumption.
 
 ## Tafsir Ibn Kathir
 

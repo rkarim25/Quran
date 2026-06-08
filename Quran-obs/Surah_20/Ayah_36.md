@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Allah) said: "You are granted your request, O Musa! Here Sayyidna Musa (علیہ السلام) ended his petition, and he was rewarded with the good news that Allah Ta` ala, the Almighty, had granted all his requests قَالَ قَدْ أُوتِيتَ سُؤْلَكَ يَا مُوسَىٰ (you have been granted your request 0 Musa - 20:36).
+Therefore, with Allah having the great authority and the most perfect power, He determined that Musa would not be raised except upon Fir'awn's own bed. And I endued you with love from Me,) This means that I made your enemy love you.
 
 ## Tafsir Ibn Kathir
 

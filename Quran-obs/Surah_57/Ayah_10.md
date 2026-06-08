@@ -162,7 +162,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Believe in Allah and His Messenger, and spend of that whereof He has made you trustees. وَلِلَّـهِ مِيرَ‌اثُ السَّمَاوَاتِ وَالْأَرْ‌ضِ (...while to Allah belongs the inheritance of the heavens and the earth?....57:10) The word mirath [ inheritance, heritage ] is the process by which the assets of a deceased person pass to the living heirs and beneficiaries.
+Although the Real Owner and Master of the heavens and the earth is Allah, He transferred part-ownership of things to man by His grace, but on the Day of Judgment, even this outward and partial ownership will no longer remain in the hands of anyone.
 
 ## Tafsir Ibn Kathir
 

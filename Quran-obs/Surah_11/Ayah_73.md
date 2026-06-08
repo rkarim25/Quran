@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, there came Our messengers to Ibrahim with the glad tidings. In verse 70, it was said: فَلَمَّا رَ‌أَىٰ أَيْدِيَهُمْ لَا تَصِلُ إِلَيْهِ نَكِرَ‌هُمْ (So, when he noticed their hands not reaching for it, he found them strange and felt a bit of fright from them).
+Surely, He (Allah) is All-Praiseworthy, All-Glorious.) This means that He is the Most Praiseworthy in all of His actions and statements.
 
 ## Tafsir Ibn Kathir
 

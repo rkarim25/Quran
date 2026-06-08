@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nuh said: "My Lord! لَا تَذَرُ‌نَّ آلِهَتَكُمْ وَلَا تَذَرُ‌نَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرً‌ا (and never forsake Wadd, nor Suwa', nor yaghuth and Ya` uq and Nasr…71:23).
+And they have said: 'You shall not leave your gods, nor shall you leave Wadd, nor Suwa', nor Yaghuth, and Ya'uq and Nasr.') These are the names of their idols which they used to worship besides Allah.
 
 ## Tafsir Ibn Kathir
 

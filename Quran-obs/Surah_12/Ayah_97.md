@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, when the bearer of the good news arrived, he cast it (the shirt) over his face, and his vision returned. Now, when the truth of the matter became clear, the brothers of Yusuf asked for the forgiveness of their father in a spiritually endearing style by saying: قَالُوا يَا أَبَانَا اسْتَغْفِرْ‌ لَنَا ذُنُوبَنَا إِنَّا كُنَّا خَاطِئِينَ : 'Our father, pray to Allah to forgive us our sins.
+Surely, we have been wrong - 97.' Thus, it is obvious that a person who prays to Allah Ta` ala for the forgiveness of their sins would do that himself too.
 
 ## Tafsir Ibn Kathir
 

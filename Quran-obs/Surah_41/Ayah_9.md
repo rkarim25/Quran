@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Do you verily disbelieve in Him Who created the earth in two Days? The real objective of these eloquent verses is to warn the people who, denying the Oneness of Allah, associate others with Him.
+Allah says that He created the earth first, because it is the foundation, and the foundation should be built first, then the roof.
 
 ## Tafsir Ibn Kathir
 

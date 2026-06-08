@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-At that time Zakariyya invoked his Lord, saying: "O my Lord! 2.
+Make a sign for me." (Allah) said: "Your sign is that you shall not speak to the people for three days except by signals.
 
 ## Tafsir Ibn Kathir
 

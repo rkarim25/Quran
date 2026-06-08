@@ -91,7 +91,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They ask you to hasten the evil before the good, while exemplary punishments have indeed occurred before them. 'And they ask for evil to come sooner than good (by saying: If you are a prophet, let us have your promised punishment now - which shows that they take the coming of the Divine punishment as something very far-removed or virtually impossible) al-though punishments have really come to pass against people earlier to them, (which have been witnessed by others.) Now, if the punishment is to come to them, why should it be taken as something far out, or impossible?
+And that My torment is indeed the most painful torment.)[15:49-50] There are many other Ayat that mention both fear and hope.
 
 ## Tafsir Ibn Kathir
 

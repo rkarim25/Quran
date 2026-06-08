@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then he followed (another) way (89)Until, when he came to the rising place of the sun, he found it rising on a people for whom We (Allah) had provided no shelter against the sun (90)So (it was)! The Holy Qur'an does describe this state of the people Dhul-Qarnain found living towards the East meaning thereby that they were not accustomed to the use of ways and means like houses, tents and dresses to seek protection against the Sun.
+Then he followed (another) way (89)Until, when he came to the rising place of the sun, he found it rising on a people for whom We (Allah) had provided no shelter against the sun (90)So (it was)!
 
 ## Tafsir Ibn Kathir
 

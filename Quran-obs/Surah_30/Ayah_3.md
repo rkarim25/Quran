@@ -42,7 +42,7 @@ These Ayat were revealed about the victory of Sabur, the king of Persia, over As
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Backdrop of revelation of the Surah - the story of war between Rum and Persia In the last verse of Surah ` Ankabut' Allah Ta’ ala had given the good tiding to those who would strive and struggle in His way.
+The decision of the matter, before and after is only with Allah.
 
 ## Tafsir Ibn Kathir
 

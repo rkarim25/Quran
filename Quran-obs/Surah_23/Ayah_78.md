@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We seized them with punishment, but they humbled not themselves to their Lord, nor did they invoke with submission to Him (76)Until, when We open for them the gate of severe punishment, then lo! And We have already seized them with punishment, but they did not turn humble to their Lord, nor do they supplicate in humility.
+Little thanks you give (78)And it is He Who has created you on the earth, and to Him you shall be gathered back (79)And it is He Who gives life and causes death, and His is the alternation of night and day.
 
 ## Tafsir Ibn Kathir
 

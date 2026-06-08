@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Yusuf's brethren came and they entered unto him, and he recognized them, but they recognized him not (58)And when he furnished them with their provisions, he said: "Bring me a brother of yours from your father. Mentioned in the previous verses was how Sayyidna Yusuf (علیہ السلام) was blessed by Allah Ta ala with full control over the country of Egypt.
+Yusuf's Brothers travel to Egypt As-Suddi, Muhammad bin Ishaq and several others said that the reason why Yusuf's brothers went to Egypt, is that after Yusuf became minister of Egypt and the seven years of abundance passed, then came the seven years of drought that struck all areas of Egypt.
 
 ## Tafsir Ibn Kathir
 

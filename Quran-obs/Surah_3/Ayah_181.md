@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed, Allah has heard the statement of those who say: "Truly, Allah is poor and we are rich!" We shall record what they have said and their killing of the Prophets unjustly, and We shall say: "Taste you the torment of the burning (Fire). The second verse (18) warns Jews against their grave act of effrontery and mentions its punishment.
+this verse was attributed to these addressees? The reason is: The Jews of Madinah were quite satisfied with this act committed by their Jewish predecessors; therefore, they too were counted as those who fall under the injunction governing killers of prophets.
 
 ## Tafsir Ibn Kathir
 

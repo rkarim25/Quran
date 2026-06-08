@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, set you your face towards the religion as a Hanif. The subject of Oneness of Allah has been dealt with in these verses by giving various proofs in different styles which are appealing to all types of people.
+Although the commentators have assigned different grammatical constructions to this sentence, yet all of them agree that "the nature designed by Allah" refers to the "straight Faith" that is ordered to be followed in the first sentence.
 
 ## Tafsir Ibn Kathir
 

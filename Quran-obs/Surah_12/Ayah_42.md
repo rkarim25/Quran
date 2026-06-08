@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And he said to the one whom he knew to be saved: "Mention me to your king." But Shaytan made him forget to mention it to his master. After that, to the person about whom Sayyidna Yusuf (علیہ السلام) had gathered from the interpretation of his dream that he would be released, he said: When you are released from the prison, mention me before your master as the innocent person who is still languishing in the prison.
+And he said to the one whom he knew to be saved: "Mention me to your king." But Shaytan made him forget to mention it to his master. That man forgot Yusuf's request and did not mention his story to the king, a plot from the devil, so that Allah's Prophet would not leave the prison.
 
 ## Tafsir Ibn Kathir
 

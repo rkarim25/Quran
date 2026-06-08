@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Allah said: "O 'Isa! In the previous verse (56), it was said that Allah will be the final judge and decision-maker in what they used to differ in between them-selves.
+And Allah does not like the wrongdoers (57)This is what We recite to you of the verses and the Wise Reminder .
 
 ## Tafsir Ibn Kathir
 

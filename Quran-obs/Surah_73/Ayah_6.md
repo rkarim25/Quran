@@ -45,7 +45,7 @@ The 'weighty discourse' was concerned specifically with the Holy Prophet ﷺ as 
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. إِنَّ نَاشِئَةَ اللَّيْلِ ('Truly, rising by night [ for prayer of tahajjud ] is the most effective way to subdue (one's self) and to make speech more upright....
+The verse signifies that the recitation of the Qur'an is more upright and concentrated, because during the night there are no noises and commotion to distract the heart or the mind.
 
 ## Tafsir Ibn Kathir
 

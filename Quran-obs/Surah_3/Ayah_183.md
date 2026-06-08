@@ -125,7 +125,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed, Allah has heard the statement of those who say: "Truly, Allah is poor and we are rich!" We shall record what they have said and their killing of the Prophets unjustly, and We shall say: "Taste you the torment of the burning (Fire). The fourth verse (183) takes up the case of a false accusation made by these very Jews who came up with an excuse in order to reject the prophethood of the Messenger of Allah.
+They, not resting at that, became audacious enough to fabricate lies against Allah Almighty claiming that 'He has taken pledge from them to the effect that they are not to believe in a person who is unable to cause the miracle of the coming of a heavenly fire which burns the charitable offerings.
 
 ## Tafsir Ibn Kathir
 

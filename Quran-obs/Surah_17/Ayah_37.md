@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And walk not on the earth with conceit and arrogance. The thirteenth injunction appearing in the second of the two cited verses (37) is: وَلَا تَمْشِ فِي الْأَرْ‌ضِ مَرَ‌حًا (And do not walk on the earth haughtily).
+Indeed, such behavior may bring about the opposite of what one pretends to be, as was reported in the Sahih: "While a man from the people before you was walking arrogantly in his garments, the earth swallowed him and he is still sinking down into it, until the Day of Resurrection." Allah also tells us about Qarun, who went to his people wearing his finery, then Allah caused the earth to swallow him and his house.
 
 ## Tafsir Ibn Kathir
 

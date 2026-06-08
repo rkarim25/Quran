@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And make not Allah's (Name) an excuse in your oaths against doing good and acting piously, and making peace among mankind. The Verse warns those who swear in the name of Allah that they will not do some vituous deeds or that they will not effect a compromise between two groups.
+The Verse reminds them that by this behaviour they are using the name of Allah as a barrier against the good deeds, which is a severe violation of the sanctity of the name of Allah, and they must avoid it in any case,
 
 ## Tafsir Ibn Kathir
 

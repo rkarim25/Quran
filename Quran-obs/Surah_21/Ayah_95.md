@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And a ban is laid on every town which We have destroyed that they shall not return (95)Until, when Ya'juj and Ma'juj (Gog and Magog people) are let loose, and they swoop down from every Hadab (96)And the true promise shall draw near. وَحَرَ‌امٌ عَلَىٰ قَرْ‌يَةٍ أَهْلَكْنَاهَا أَنَّهُمْ لَا يَرْ‌جِعُونَ (It is banned for (the people of) a town We destroyed that they come back - 21:95.) Commentators have given two different meanings to this verse.
+And a ban is laid on every town which We have destroyed that they shall not return (95)Until, when Ya'juj and Ma'juj (Gog and Magog people) are let loose, and they swoop down from every Hadab (96)And the true promise shall draw near.
 
 ## Tafsir Ibn Kathir
 

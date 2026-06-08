@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The chiefs of those who disbelieved among his people said (to their people): "If you follow Shu'ayb, be sure then you will be the losers! Reported in the third verse (90) is a misleading statement of the arrogant chiefs of the people of Sayyidna Shu'aib (علیہ السلام) which they made while talking among themselves, or said that to their followers: that is,…
+Allah describes the enormity of disbelief, rebellion, transgression and misguidance (of Shu'ayb's people) and the defiance of truth encrypted in their hearts. Therefore, Allah stated that each of these forms of punishment struck them on the Day of the Shadow.
 
 ## Tafsir Ibn Kathir
 

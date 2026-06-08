@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is He Who shows you the lightning, as a fear and as a hope. In the next verse (13), it was said: وَيُسَبِّحُ الرَّ‌عْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ مِنْ خِيفَتِهِ (And the thunder proclaims His purity with His praise, and [ so do ] the angels, out of His awe).
+And it is He Who brings up the clouds, heavy (with water)(12)And Ar-Ra'd (thunder) glorifies and praises Him, and so do the angels because of His awe. He sends the thunderbolts, and therewith He strikes whom He wills, yet they (disbelievers) dispute about Allah.
 
 ## Tafsir Ibn Kathir
 

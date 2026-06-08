@@ -127,7 +127,7 @@ The Messenger has believed in what has been revealed to him from his Lord, and t
 
 ## Tafsir Summary
 
-The Messenger believes in what has been sent down to him from his Lord, and (so do) the believers. These are the last two verses of Sarah al-Baqarah.
+Praised here is the distinction of this umrnah which is made of people who do not reject any prophet.
 
 ## Tafsir Ibn Kathir
 

@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, in Yusuf and his brethren there were Ayat for those who ask (7)When they said: "Truly, Yusuf and his brother are dearer to our father than we, while we are 'Usbah (a group). The third verse (9) describes how the brothers exchanged opinions among themselves.
+Really, our father is in a plain error.
 
 ## Tafsir Ibn Kathir
 

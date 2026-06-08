@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Is he who was dead, and We gave him life, and set for him a light, whereby he can walk among men – like him who is in the darkness from which he can never come out? In the previous verses, mentioned there was the demand of ever new miracles by disbelievers as proof of their sheer obstinacy as they had already witnessed the open miracle of the Qur'an itself.
+The light mentioned here is the Qur'an, according to Ibn 'Abbas, as Al-'Awfi and Ibn Abi Talhah reported from him.
 
 ## Tafsir Ibn Kathir
 

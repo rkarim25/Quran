@@ -137,7 +137,7 @@ This occasion of revelation indicates that this verse, though related to divorci
 
 ## Tafsir Summary
 
-Then when they are about to attain their term appointed, either take them back in a good manner or part with them in a good manner. فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُ‌وفٍ (So, when they [ the divorced women ] have [ almost ] reached their term, then either retain them with fairness, or part with them with fairness…65:2).
+This procedure of having two witnesses is, according to most to most jurists, a commendable (mustahabb) practice, and not mandatory.
 
 ## Tafsir Ibn Kathir
 

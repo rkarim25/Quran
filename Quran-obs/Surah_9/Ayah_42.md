@@ -104,7 +104,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Had it been a near gain and an easy journey, they would have followed you, but the distance was long for them; and they would swear by Allah: "If we only could, we would certainly have come forth with you." They destroy… The fifth verse (42) mentions an excuse offered by those who did not participate in the Jihad because of negligence and lethargy.
+Had it been a near gain and an easy journey, they would have followed you, but the distance was long for them; and they would swear by Allah: "If we only could, we would certainly have come forth with you." They destroy themselves, and Allah knows that they are liars .
 
 ## Tafsir Ibn Kathir
 

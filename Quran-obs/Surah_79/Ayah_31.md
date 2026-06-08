@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Has there come to you the story of Musa (15)When his Lord called him in the holy valley of Tuwa (16)Go to Fir'awn; verily, he has transgressed all bounds (17)And say to him: "Would you purify yourself? فَأَخَذَهُ اللَّـهُ نَكَالَ الْآخِرَ‌ةِ وَالْأُولَىٰ (So, Allah seized him for the deterrent punishment in the Hereafter and the present world....79:25).
+And brought forth therefrom its water and its pasture.)(32. The phrase 'punishment of the 'akhirah' refers to the punishment of the Hereafter that will be meted out to Fir'aun (the Pharaoh).
 
 ## Tafsir Ibn Kathir
 

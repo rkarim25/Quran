@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "If you choose a god other than me, I will certainly put you among the prisoners. Bani Isra'il were the residents of Syria.
+Anyone else in his place would have certainly taken this course of action.
 
 ## Tafsir Ibn Kathir
 

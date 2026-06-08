@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They will say: "Woe to us! After having shown the possibility and proof of 'Akhirah or Hereafter, Allah Ta’ ala has described some events relating to Resurrection in these verses.
+The Day of Recompense Allah tells us what the disbeliever will say on the Day of Resurrection, how they will blame themselves and admit that they wronged themselves in this world.
 
 ## Tafsir Ibn Kathir
 

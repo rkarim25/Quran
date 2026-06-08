@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do you not see that Allah has created the heavens and the earth with truth? In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَكْفُرُ‌وا أَنتُمْ وَمَن فِي الْأَرْ‌ضِ جَمِيعًا (And Musa said, "If you are ungrateful, you and all those on earth, then, Allah is free of all needs, worthy of every praise.) " This was said by Sayyidna Musa (علیہ السلام) to his people.
+And for Allah that is not hard or difficult.) means, it is not hard or impossible for Allah to do that.
 
 ## Tafsir Ibn Kathir
 

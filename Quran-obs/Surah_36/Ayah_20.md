@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And there came a man running from the farthest part of the town. In verse 20, it was said: وَجَاءَ مِنْ أَقْصَى الْمَدِينَةِ رَ‌جُلٌ يَسْعَىٰ (And there came a man rushing from the farthest part of the city.) In the first verse (13), the place where this incident transpired was expressed as: اَلقَریَۃ (al-qaryah: town) which, according to the Arabic lexical usage, does not signify a small village, instead, it means a habitation in the absolute sense.
+Therefore, the expression would mean that a man came running from the farthest part of the city. The event relating to the person coming from the farthest part of the city The noble Qur'an has left this too as ambiguous.
 
 ## Tafsir Ibn Kathir
 

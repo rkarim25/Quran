@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And mention in the Book, Idris. "And mention in the Book (the story of) Idris." - 19:56.
+Mentioning Idris Allah complimented Idris for being a truthful Prophet and He mentioned that he raised him to a high station.
 
 ## Tafsir Ibn Kathir
 

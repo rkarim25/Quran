@@ -85,7 +85,7 @@ This is (part) of Al-Hikmah (wisdom) which your Lord has revealed to you. And se
 
 ## Tafsir Summary
 
-This is (part) of Al-Hikmah (wisdom) which your Lord has revealed to you. After having described details of the injunctions appearing above, it was said in the last verse: كُلُّ ذَٰلِكَ كَانَ سَيِّئُهُ عِندَ رَ‌بِّكَ مَكْرُ‌وهًا (That which is evil, of all these, is detestable in the sight of your Lord - 38).
+Ibn 'Abbas and Qatadah said: "(It means) cast out." This is an address to the Ummah via the Messenger ﷺ, for he is infallible.
 
 ## Tafsir Ibn Kathir
 

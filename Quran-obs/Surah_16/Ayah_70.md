@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Allah created you and then He will cause you to die; and among you there are some who are sent back to senility, so that they know nothing after having known (much). Mentioned previously were various states of water, vegetation, cattle and honey bee through which Allah Ta’ ala had reminded human beings of His perfect power of creation and of His blessings for the created.
+When one is made to reach its extreme stage, one is left with no functional strength, neither physical nor rational.
 
 ## Tafsir Ibn Kathir
 

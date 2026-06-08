@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. بَلْ يُرِيْدُ الْاِنْسَانُ لِيَفْجُرَ اَمَامَهٗ (But man wishes to go on violating Allah's injunctions [ even in future ] ahead of him...75:5).
+Yes, We are able to put together in perfect order the tips of his fingers.)(5. Though he may put forth his excuses.) The Oath about the Final Return on the Day of Resurrection and the Refutation against the Plots of the Thinkers It has been mentioned previously on more than one occasion that if the thing that is being sworn about is something that is being negated, then it is permissible to use the word "La" (Nay) before the oath to emphasize the negation.
 
 ## Tafsir Ibn Kathir
 

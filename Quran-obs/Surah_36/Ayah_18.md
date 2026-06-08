@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They (people) said: "For us, we see an evil omen from you; if you cease not, we will surely stone you, and a painful torment will touch you from us. The word: تَطَيَّرْ‌ (tatayyur) in verse 18: قَالُوا إِنَّا تَطَيَّرْ‌نَا بِكُمْ (We take you as a bad omen for us.) means the seeing of an evil omen in someone or taking someone to be wretched.
+Nay, but you are a people mischievous.) means, 'because of us, because we admonished you and told you to worship Allah Alone and with all sincerity, and in return you said what you said and threatened us. It appears in some narrations that a famine had overtaken this town, because the people of the town had curtly turned down the good counsel of the messengers.
 
 ## Tafsir Ibn Kathir
 

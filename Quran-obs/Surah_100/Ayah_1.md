@@ -18,7 +18,7 @@ According to Sayyidna Ibn Masud, Jabir, Hasan Basri, ` Ikramah and ` Ata' رحم
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. According to Sayyidna Ibn Masud, Jabir, Hasan Basri, ` Ikramah and ` Ata' رحمۃ اللہ علیہم Surah Al-` Adiyat was revealed in Makkah and, according to Sayyidna Ibn ` Abbas, Anas ؓ ، Imam Malik and Qatadah رحمۃ اللہ علیہما ، the Surah was revealed in Madinah.
+In this Surah Allah describes the special features of war-horses or chargers, and swears by them. In other words, man needs to look at the horses, especially the war-horses, who risk their lives to travel under very dangerous and difficult conditions, especially in the battlefields where they follow the commands of their masters, whereas man has not created them, he has not even created the fodder he gives to them.
 
 ## Tafsir Ibn Kathir
 

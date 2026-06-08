@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Fir'awn proclaimed among his people (saying): "O my people! فَاسْتَخَفَّ قَوْمَهُ (Thus he made fool of his people - 43:54).
+Verily, they were ever a people who were rebellious (54)So when they angered Us, We punished them, and drowned them all (55)And We made them a precedent, and an example to later generations . Even though Fir'awn had the intelligence to understand that, he wanted to confuse and mislead his people, who were ignorant and stupid.
 
 ## Tafsir Ibn Kathir
 

@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So perchance you may give up a part of what is revealed unto you, and that your breast feels straitened for it because they say, "Why has not a treasure been sent down unto him, or an angel come with him" But you are only a warner. The reason is that they were first asked to bring ten Surahs.
+There is no deity worthy of worship except He and there is no true Lord other than He.
 
 ## Tafsir Ibn Kathir
 

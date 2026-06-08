@@ -115,7 +115,7 @@ The subject taken up in the first two verses (45, 46) has a particular event as 
 
 ## Tafsir Summary
 
-And they say: "When we are bones and fragments (destroyed), should we really be resurrected (to be) a new creation? A prophet being affected by magic is as possible as being affected by sickness.
+Then they went back towards where they had come from, saying, 'this person must be some devil,' because they could not see me. This means that if you were to assume that you would become dead, which is the opposite of living, Allah will resurrect you when He wills, for nothing can stop Him when He wills a thing.
 
 ## Tafsir Ibn Kathir
 

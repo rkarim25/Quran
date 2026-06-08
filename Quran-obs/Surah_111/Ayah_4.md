@@ -22,7 +22,7 @@ The Reason for the Revelation of this Surah and the Arrogance of Abu Lahab towar
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The Fate of 'Umm Jamil, the Wife of Abu Lahab Verse [ 111:4] وَامْرَ‌أَتُهُ حَمَّالَةَ الْحَطَبِ (And his wife as well, the wicked, the carrier of firewood.) As Abu Lahab was a vehement enemy of the Holy Messenger ﷺ ، his wife too was supportive of her husband in his disbelief, rejection, obstinacy, and in persecuting the Holy Prophet ﷺ .
+He will enter a Fire full of flames!)(4. Therefore, she will be helping to administer his punishment in the fire of Hell on the Day of Judgement.
 
 ## Tafsir Ibn Kathir
 

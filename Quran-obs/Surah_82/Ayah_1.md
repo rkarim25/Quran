@@ -22,7 +22,7 @@ Al-Baghawi mentioned that Al-Kalbi and Muqatil said, "This Ayah was revealed abo
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Infitar An-Nasa'i recorded from Jabir that Mu'adh stood and lead the people in the Night prayer, and he made the recitation of his prayer long. إِنَّهُ لَقَوْلُ رَ‌سُولٍ كَرِ‌يمٍ ذِي قُوَّةٍ عِندَ ذِي الْعَرْ‌شِ مَكِينٍ (it [ the Qur'an ] is surely the word of a noble messenger [ Jibra'il ], the one possessing power and a high status with the Lord of the Throne...81:19-20).
+Then I fashioned you and made your creation balanced so that you walked between the two outer garments. This is the subject of oath that affirms that Qur'an is the word brought by a noble messenger.
 
 ## Tafsir Ibn Kathir
 

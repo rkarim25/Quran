@@ -96,7 +96,7 @@ Allah also challenged the disbelievers in the Ayat that were revealed in Al-Madi
 
 ## Tafsir Summary
 
-And if you (Arab pagans, Jews, and Christians) are in doubt concerning that which We have sent down (i.e. The Guidance which the Holy Qur'an provides to man rests on two basic principles - Tauhid توحید (the Oneness of God) and Risalah (Prophethood).
+How can anyone be able to produce something like the Qur'an, when the Qur'an is the Word of Allah Who created everything?
 
 ## Tafsir Ibn Kathir
 

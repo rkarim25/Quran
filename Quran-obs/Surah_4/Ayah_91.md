@@ -148,7 +148,7 @@ Al-'Awfi reported that Ibn 'Abbas said that the Ayah was revealed about some peo
 
 ## Tafsir Summary
 
-Then what is the matter with you that you are divided into two parties about the hypocrites? Different forms of Emigration and their Rules Hijrah (Emigration) mentioned in verse 89 has been taken up in detail under the commentary on verse 100 of Surah al-Nis-a' which appears a little later.
+So, if they withdraw from you, and fight not against you, and offer you peace, then Allah has made no way for you against them (90)You will find others that wish to have security from you and security from their people. But if they turn back, take (hold of) them and kill them wherever you find them, and take neither Awliya' nor helpers from them (89)Except those who join a group, between you and whom there is a treaty (of peace), or those who approach you with their breasts r…
 
 ## Tafsir Ibn Kathir
 

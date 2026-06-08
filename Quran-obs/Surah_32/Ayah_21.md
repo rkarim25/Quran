@@ -49,7 +49,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Is then he who is a believer like him who is rebellious? (And We will certainly make them taste the nearer punishment before the greater punishment, so that they may return), the word: أَدْنَىٰ (adna) has been used in the sense of 'nearer' and الْعَذَابِ الْأَدْنَىٰ (al adhab-ul-adna) denotes diseases, sufferings and calamities of the world that are made to befall a lot of people by Allah Ta'ala in order to warn them against their sins.
+The purpose is to chasten and alert them enough so that they leave off their sins and thus earn their deliverance from the Great Punishment of the Hereafter. However, for people who take no lesson even from such unwelcome happenings and fail to turn to Allah, for them, this punishment becomes twofold - first, the cash punishment right here in this world and then, the other being the Great Punishment of the Hereafter.
 
 ## Tafsir Ibn Kathir
 

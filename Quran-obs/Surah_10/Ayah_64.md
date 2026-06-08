@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Behold! It was said in the last verse (64) that, for the friends of Allah, there is the good news in the worldly life and in the Hereafter.
+The Awliya' of Allah, no fear shall come upon them nor shall they grieve (62)Those who believed, and have Taqwa (63)For them is good news, in the life of the present world, and in the Hereafter.
 
 ## Tafsir Ibn Kathir
 

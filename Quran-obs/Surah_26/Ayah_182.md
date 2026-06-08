@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Give full measure, and cause no loss (to others). And weigh with an even balance.
+- 26:182 Some scholars have held the word Quistas as a Roman word, which means justice, while others have taken it as an Arabic word, derived from Qist, which is also used for justice.
 
 ## Tafsir Ibn Kathir
 

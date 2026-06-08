@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Do you verily disbelieve in Him Who created the earth in two Days? فَقَالَ لَهَا وَلِلْأَرْ‌ضِ ائْتِيَا طَوْعًا أَوْ كَرْ‌هًا قَالَتَا أَتَيْنَا طَائِعِينَ (and said to it and to the earth, "Come [ to My obedience ], both of you, willingly or unwillingly." Both said, "We come willingly." - 41:11) This command addressed to the earth and sky and their compliant and obedient reply, according to some exegetes, is a metaphorical expression for the readiness of the earth and the sky to comply with every order from Allah Almighty.
+And the mountains He has fixed firmly, (to be) a provision and benefit for you and your cattle.)(79:27-33) This Ayah states that the spreading out of the earth came after the creation of the heavens, but the earth itself was created before the heavens according to some texts. And We adorned the nearest (lowest) heaven with lamps (stars) to be an adornment as well as to guard.
 
 ## Tafsir Ibn Kathir
 

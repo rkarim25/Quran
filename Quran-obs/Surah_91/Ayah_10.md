@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Recitation of Surah Ash-Shams wa Duhaha in the 'Isha' Prayer The Hadith of Jabir which was recorded in the Two Sahihs has already been mentioned. قَدْ أَفْلَحَ مَن زَكَّاهَا ﴿9﴾ وَقَدْ خَابَ مَن دَسَّاهَا ﴿10﴾ (success is really attained by him who purifies it, and failure is really suffered by him who pollutes it....91:10).
+And indeed he fails who Dassaha.) This could mean that whoever purifies himself by obedience to Allah, then he will be successful.
 
 ## Tafsir Ibn Kathir
 

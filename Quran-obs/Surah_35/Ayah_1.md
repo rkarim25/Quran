@@ -106,7 +106,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. As for the statement: جَاعِلِ الْمَلَائِكَةِ رُ‌سُلًا (who makes the angels messengers), it means that angels were assigned to convey the messages and injunctions of Allah Ta’ ala.
+And Tafsir authorities Zuhri, Qatadah and others have said that this increase in creation is to be taken in its general sense which includes increase in the feathers and wings of angels as well as the increase of particular attributes in the creation of different human beings which, then, includes the beauty of form, the beauty of character, the beauty of voice and many more increased assets like these.
 
 ## Tafsir Ibn Kathir
 

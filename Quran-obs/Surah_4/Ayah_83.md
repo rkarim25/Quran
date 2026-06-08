@@ -138,7 +138,7 @@ According to Sayyidna Ibn ` Abbas, Dahhak and Abu Mu'adh ؓ the verse: وَإِ�
 
 ## Tafsir Summary
 
-Do they not then consider the Qur'an carefully? The Background of Revelation According to Sayyidna Ibn ` Abbas, Dahhak and Abu Mu'adh ؓ the verse: وَإِذَا جَاءَهُمْ أَمْرٌ‌ مِّنَ الْأَمْنِ أَوِ الْخَوْفِ أَذَاعُوا بِهِ (And when there comes to them a matter about peace or fear, they spread it) was revealed about the hypocrites; and, according to Sayyidna Hasan and many others, this verse was revealed about weak Muslims (Ruh a1-Ma` ani).
+So, the state of peace and fear is universal.
 
 ## Tafsir Ibn Kathir
 

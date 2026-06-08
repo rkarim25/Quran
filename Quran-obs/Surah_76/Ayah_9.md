@@ -52,7 +52,7 @@ Concerning the poor person and the orphan, an explanation of them and their char
 
 ## Tafsir Summary
 
-Verily, We have prepared for the disbelievers iron chains, iron collars, and Sa'ir (4)Verily, the Abrar (righteous believers) shall drink of a cup mixed with Kafur (5)A spring wherefrom the servants of Allah will drink, causing it to gush forth abundantly (6)They fulfill (their) vows, and they fear a Day whose evil will be wide-spreading (7)And they give food, inspite of their love for it, to the poor, the orphan and the captive (8)(Saying): "We feed you seeking Allah's Face only.
+Therefore, feeding the prisoners, even Non-Muslims, is an act of reward.
 
 ## Tafsir Ibn Kathir
 

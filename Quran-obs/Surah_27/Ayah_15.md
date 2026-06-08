@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We gave knowledge to Dawud and Sulayman, and they both said: "All praise be to Allah, Who has preferred us above many of His believing servants! The knowledge given to Sayyidna Dawud and Sulaiman (علیہما السلام) was obviously the special knowledge normally given to the prophets about their functions and obligations as prophets, but at the same time it may also include other sciences and arts, as Sayyidna Dawud (علیہ السلام) was given the art of making armors.
+While relating all these graces, knowledge is mentioned first, which is a clear hint that knowledge is superior and paramount among them all.
 
 ## Tafsir Ibn Kathir
 

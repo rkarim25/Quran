@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the weighing on that Day will be the true (weighing). In the first verse, it was said: وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ ` (And the Weighing on that day is definite).
+Tafsir authority, Ibn Kathir, after having reported all these narrations, has said that it is possible that the weighing is repeated several times in different ways and, it is obvious, the full reality of these matters is known to Allah Ta` ala alone - and for doing what one does in real life, it is, for all practical purposes, not necessary to know this reality.
 
 ## Tafsir Ibn Kathir
 

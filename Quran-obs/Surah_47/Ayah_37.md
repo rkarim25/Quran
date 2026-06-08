@@ -32,7 +32,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This worldly life is only amusement and diversion. إِنَّمَا الْحَيَاةُ الدُّنْيَا (The worldly life is but play and pastime - 47:36.) As Muslims have been enjoined to fight in the cause of Allah, they will, for this purpose, have to make sacrifices of life and money.
+He only ordained giving charity from your wealth so that you would help your needy brothers. Thus it is clear that Allah is not demanding for all of our wealth because that would be displeasing and a burden and it would weigh heavily on us.
 
 ## Tafsir Ibn Kathir
 

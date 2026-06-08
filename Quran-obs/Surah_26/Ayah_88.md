@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-My Lord! The Day when neither wealth will be of any use (to any one) nor sons, [ 88] except to one who will come to Allah with a sound heart, [ 26:89] This verse has declared that wealth and children will not be of any help to a person on the Day of Judgment.
+The gist of the verse, according to this interpretation would be that wealth and children will not be helpful to anyone, neither to a believer nor to a disbeliever; what will be helpful, instead of wealth and children, is one's sound heart, i.e.
 
 ## Tafsir Ibn Kathir
 

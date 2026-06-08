@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And by Allah, I shall plot a plan for your idols after you have gone away and turned your backs. فَجَعَلَهُمْ جُذَاذًا (21:58) The word جُذَاذً is the plural for جُذَ.
+In that case the explanation would be that when the unbelievers, on their return saw the idols in pieces except the big one, who had a hammer resting on his shoulder, they might turn towards it for an explanation and getting no response from it they would see for themselves the helplessness of the idol.
 
 ## Tafsir Ibn Kathir
 

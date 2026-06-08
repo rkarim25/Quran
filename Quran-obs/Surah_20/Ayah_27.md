@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And press your (right) hand to your (left) side: it will come forth white (and shining), without any disease as another sign, (22)"That We may show you (some) of Our greater signs. The third prayer وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي يَفْقَهُوا قَوْلِي (And remove the knot from my tongue, that they may understand my speech - 20:27, 28).
+Therefore, he was left with the remnants of this accident that took place with his tongue. It was expected that the child would be attracted by the brightness of the burning coal and reach for it because children are not normally drawn towards jewellery which is not as bright.
 
 ## Tafsir Ibn Kathir
 

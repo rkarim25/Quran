@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed, We sent Nuh to his people and he said: "O my people! In reply, his people said: إِنَّا لَنَرَ‌اكَ فِي ضَلَالٍ مُّبِينٍ ("Indeed we see you in an obvious error" ).
+The sense of what his people said in response to his call was to tell him that he was actually trying to wean them away from their ancestral faith and that all these ideas of rising on some last day and being rewarded or punished were nothing but superstition.
 
 ## Tafsir Ibn Kathir
 

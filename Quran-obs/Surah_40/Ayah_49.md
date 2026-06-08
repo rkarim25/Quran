@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And, when they will dispute in the Fire, the weak will say to those who were arrogant: "Verily, we followed you, can you then take from us some portion of the Fire? In the last verse cited here, it was said: النَّارُ‌ يُعْرَ‌ضُونَ عَلَيْهَا غُدُوًّا وَعَشِيًّا ۖ وَيَوْمَ تَقُومُ السَّاعَةُ أَدْخِلُوا آلَ فِرْ‌عَوْنَ أَشَدَّ الْعَذَابِ.
+And speak you not to Me!)(23:108), so they will ask the keepers of Hell, who are like jailers watching over the people of Hell, to pray to Allah to lessen the Fire for them if only for one day.
 
 ## Tafsir Ibn Kathir
 

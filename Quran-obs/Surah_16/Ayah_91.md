@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And fulfill the covenants (taken in the Name of) Allah when you have taken them, and do not break the oaths after you have confirmed them - and indeed you have appointed Allah as your guarantor. Breaking Pledges is Forbidden The word: عَھد ('ahd) is inclusive of all transactions, pacts and pledges the responsibility of which has been assumed verbally, whether one does or does not swear by it, and whether it relates to doing something or not doing it.
+The Command to fulfill the Covenant This is one of the commands of Allah, to fulfill covenants, keep promises and to fulfill oaths after confirming them.
 
 ## Tafsir Ibn Kathir
 

@@ -70,7 +70,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Prophet! Out of the objectives of this Surah, the most important is the stress placed on avoiding everything that may cause pain to the Holy Prophet ﷺ .
+That the power of divorce is entrusted with the woman, that is, if she wishes, she can divorce herself and become free.
 
 ## Tafsir Ibn Kathir
 

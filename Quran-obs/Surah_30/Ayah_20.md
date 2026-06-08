@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And among His signs is this that He created you from dust, and then – behold you are human beings scattered (20)And among His signs is this that He created for you wives from among yourselves, that you may find repose in them, and He has put between you affection and mercy. After narrating the incident of the war between Rum and Persia in the beginning of Surah Ar-Rum, it was declared that the cause of the misguidance of the infidels and their heedlessness towards the truth was their excessive love for material life and paying no heed to the Hereafter.
+And among His signs is this that He created you from dust, and then – behold you are human beings scattered (20)And among His signs is this that He created for you wives from among yourselves, that you may find repose in them, and He has put between you affection and mercy.
 
 ## Tafsir Ibn Kathir
 

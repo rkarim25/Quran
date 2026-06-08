@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Will you not fight a people who have violated their oaths and intended to expel the Messenger while they did attack you first? For Muslims, the same exhortation to fight in Jihad appears in verses 14 and 15 as well, though from a different angle.
+Allah has more right that you should fear Him if you are believers (13)Fight against them so that Allah will punish them by your hands, and disgrace them and give you victory over them, and heal the breasts of a believing people (14)And remove the anger of their (believers') hearts. If you get ready to fight them, the help and support from Allah will be with you.
 
 ## Tafsir Ibn Kathir
 

@@ -132,7 +132,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when We took a covenant from the Children of Israel, (saying): Worship none but Allah (alone) and be dutiful and good to parents, and to kindred, and to orphans and (the poor), and speak good to people and perform As-Salah and give Zakah. This verse speaks of the pledge which Allah had made the Israelites take, and the few people it refers to as having been true to the pledge were those who acted upon the Shari'ah of Sayyidna Musa (علیہ السلام) (Moses) as long as it was in force, and when it was abrogated, followed the Shari` ah of Sayyidna Muhammad ﷺ .
+And (remember) when We took a covenant from the Children of Israel, (saying): Worship none but Allah (alone) and be dutiful and good to parents, and to kindred, and to orphans and (the poor), and speak good to people and perform As-Salah and give Zakah.
 
 ## Tafsir Ibn Kathir
 

@@ -73,7 +73,7 @@ This verse was revealed for those believers who had by mistake got somehow invol
 
 ## Tafsir Summary
 
-Had it not been for the grace of Allah and His mercy unto you in this world and in the Hereafter, a great torment would have touched you for that whereof you had spoken (14)When you were propagating it with your tongues,… And had it not been for the grace of Allah upon you, and His mercy in this world and in the Hereafter, a great punishment would have reached you for what you got indulged in - 24:14.
+The manifestation of Allah's grace and mercy in the world is that, first, the Divine help was granted to adopt Islam and its faith, then the company of the Holy Prophet ﷺ ﷺ accorded, which is an impediment for the award of punishment, and then again the Divine help was granted to repent sincerely and beg Allah's forgiveness for the sin which was committed, and ultimately the repentance was accepted and the sin was pardoned.
 
 ## Tafsir Ibn Kathir
 

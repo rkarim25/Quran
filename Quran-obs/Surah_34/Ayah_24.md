@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Who gives you provision from the heavens and the earth?" Say: "Allah. Consideration of the psychology of the addressee in debates and avoidance of any approach that may provoke violent attitude In verse 24: وَإِنَّا أَوْ إِيَّاكُمْ لَعَلَىٰ هُدًى أَوْ فِي ضَلَالٍ مُّبِينٍ (And We or you are either on the right path or in open error - 34:24), this address is beamed at polytheists and disbelievers.
+As they used to admit that no one in heaven or on earth except Allah gave them provision, i.e., by sending down water and causing crops to grow, so they should also realize that there is no god worthy of worship besides Him. After having done all this, the occasion demanded that Mushriks are told in clear terms that they were ignorant and astray in bypassing Allah and electing to worship idols and shaitans.
 
 ## Tafsir Ibn Kathir
 

@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! 2.
+Because he considers this one of Allah's favors on him, unaware of the reward that he might have gained from enduring war or martyrdom, if he was killed. I wish I had been with them; then I would have achieved a great success.
 
 ## Tafsir Ibn Kathir
 

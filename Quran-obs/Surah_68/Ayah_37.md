@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, for those who have Taqwa are Gardens of Delight with their Lord (34)Shall We then treat the Muslims like the criminals (35)What is the matter with you? This verse: أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُجْرِ‌مِينَ (Otherwise, shall We make the obedient like the sinners?...
+How judge you (36)Or have you a Book wherein you learn (37)That you shall therein have all that you choose (38)Or have you oaths from Us, lasting until the Day of Judgement, that yours will be what you judge (39)Ask them, which of them will stand as surety for that (40)Or have they "partners"?
 
 ## Tafsir Ibn Kathir
 

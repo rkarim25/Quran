@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then We saved him and his family, except his wife; she was of the Ghabirin (those who lagged behind)(83)And We rained down on them a rain (of stones). Mentioned in the fourth (83) and the fifth (84) verses is the Divine punishment given to the people of Sadum for their crooked and immodest practice.
+Then We saved him and his family, except his wife; she was of the Ghabirin (those who lagged behind)(83)And We rained down on them a rain (of stones). Allah says, We saved Lut and his family, for only his household believed in him.
 
 ## Tafsir Ibn Kathir
 

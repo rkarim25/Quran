@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those will be rewarded with the highest place because of their patience. قُلْ مَا يَعْبَأُ بِكُمْ رَ‌بِّي لَوْلَا دُعَاؤُكُمْ (Say (0 Prophet) My Lord will never care about you, if you will not invoke Him - 25:77).
+Different versions are given in the interpretation of this verse, but the one given in the text above is the simplest and straight forward; that is you would have no value or importance before God if you do not call Him and pray to Him. That is now this rejection and disbelief have become an integral part of your being and will keep clinging to you until you are thrown in the Fire of Hell forever.
 
 ## Tafsir Ibn Kathir
 

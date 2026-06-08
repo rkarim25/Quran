@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Believe in Allah and His Messenger, and spend of that whereof He has made you trustees. وَقَدْ أَخَذَ مِيثَاقَكُمْ (...and He has taken your covenant ....57:8) This could refer to the covenant taken in ` anal' (pre-eternity).
+And verily, Allah is to you full of kindness, Most Merciful (9)And what is the matter with you that you spend not in the cause of Allah?
 
 ## Tafsir Ibn Kathir
 

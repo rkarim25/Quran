@@ -77,7 +77,7 @@ The second verse (7) was revealed in the background of a particular event when `
 
 ## Tafsir Summary
 
-And even if We had sent down unto you a Message written on paper so that they could touch it with their hands, the disbelievers would have said: "This is nothing but obvious magic! The second verse (7) was revealed in the background of a particular event when ` Abdullah ibn Umaiyyah came up with a hostile demand before the Holy Prophet ﷺ by saying: ` I cannot believe in you until such time that I s…
+What effect these caustic bad manners would have made on his heart is something we cannot fathom.
 
 ## Tafsir Ibn Kathir
 

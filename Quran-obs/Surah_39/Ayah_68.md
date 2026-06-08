@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the Trumpet will be blown, and all who are in the heavens and all who are on the earth will swoon away, except him whom Allah wills. In verse 68, it was said: فَصَعِقَ مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْ‌ضِ إِلَّا مَن شَاءَ اللَّـهُ and all those in the heavens and all those in the earth will faint, except the one whom Allah wills." The word: صَعِ…
+By this trumpet-blast, everyone who is alive in the heavens and on earth will be caused to die, except for him whom Allah wills.
 
 ## Tafsir Ibn Kathir
 

@@ -112,7 +112,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed, Allah took the covenant from the Children of Israel (Jews), and We appointed twelve leaders among them. From the first verse, 5:13, which dealt with the breach of trust by Jews and their punishment for it, we now move to the next verse, 5:14, which refers to Christians: وَمِنَ الَّذِينَ قَالُوا إِنَّا نَصَارَ‌ىٰ.
+In this verse, the punishment described for Christians is mutual dissension.
 
 ## Tafsir Ibn Kathir
 

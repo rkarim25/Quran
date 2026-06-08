@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when your Lord said to the angels: "I am going to create a man (Adam) from dried (sounding) clay of altered mud. Going Ahead and Remaining Behind in Righteous Deeds: The Difference in Degrees Some exegetic interpretations of the words: (al-mustaqdimin) : 'those who go ahead' and: (al-musta'khirin) : 'those who remain behind' appearing in verse 24: الْمُسْتَقْدِمِينَ ~.A11 have been variously reported from Tafsir authorities among the Sahabah ؓ and Tabi` in.
+The creation of Adam, the Command to the Angels to prostrate to Him, and the Rebellion of Iblis Allah informs us of how He mentioned Adam to His angels before He created him, and how He honored him by commanding the angels to prostrate to him.
 
 ## Tafsir Ibn Kathir
 

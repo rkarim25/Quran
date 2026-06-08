@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Musa said to his people: "O my people! At this place, the Holy Qur'an has particularly mentioned two attributes of these two elders: (1) الَّذِينَ يَخَافُونَ , that is, 'those who fear.' Not said here is as to who it is that they fear.
+Musa Reminds His People of Allah's Favors on Them; The Jews Refuse to Enter the Holy Land Allah states that His servant, Messenger, to whom He spoke directly, Musa, the son of 'Imran, reminded his people that among the favors Allah granted them, is that He will give them all of the good of this life and the Hereafter, if they remain on the righteous and straight path.
 
 ## Tafsir Ibn Kathir
 

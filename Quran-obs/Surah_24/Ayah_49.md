@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They say: "We have believed in Allah and in the Messenger, and we obey," then a party of them turn away thereafter, such are not believers (47)And when they are called to Allah and His Messenger, to judge between them, lo! From the sky mountains (of clouds) having hail in them - 43.
+a party of them refuses and turns away (48)But if the truth is on their side, they come to him willingly with submission (49)Is there a disease in their hearts?
 
 ## Tafsir Ibn Kathir
 

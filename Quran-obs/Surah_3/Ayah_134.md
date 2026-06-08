@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! God-fearing Muslims can be identified by the traits of their character and the marks of their manner.
+The Encouragment to Do Good for which Paradise is the Result Allah encourages His servants to perform righteous deeds and to rush to accomplish the acts of obedience.
 
 ## Tafsir Ibn Kathir
 

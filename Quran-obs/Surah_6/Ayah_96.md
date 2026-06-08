@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily! Said in the second verse (96) is: فَالِقُ الْإِصْبَاحِ (He is) the One who causes the dawn to break.' The word: فَالِقُ (Faliq) means one who splits, and the word: الْإِصْبَاحِ (al-Isbah) here means the time of morning.
+Such is the measuring of the Almighty, the All-Knowing (96)It is He Who has set the stars for you, so that you may guide your course with their help through the darkness of the land and the sea.
 
 ## Tafsir Ibn Kathir
 

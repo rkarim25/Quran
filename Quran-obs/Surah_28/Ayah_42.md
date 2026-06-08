@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Fir'awn said: "O chiefs! وَيَوْمَ الْقِيَامَةِ هُم مِّنَ الْمَقْبُوحِينَ (And on the day of judgment they will be among those treated badly - 28:42).
+Verily, in this is an instructive admonition for whosoever fears Allah.)(79:23-26) meaning: he brought his people together and called to them in a loud voice, shouting that, and they responded to him obediently.
 
 ## Tafsir Ibn Kathir
 

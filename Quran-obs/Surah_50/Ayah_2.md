@@ -53,7 +53,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Beginning of Muffasal Section of the Qur'an This Surah is the first Surah in the Mufassal section of the Qur'an, according to the correct view. Linkage with the preceding Surah This Surah mostly contains subjects relating to the Day of Judgment, Resurrection, the Reckoning, Paradise, the Fire, Allah's reward and punishment etc.
+So the disbelievers say: "This is a strange thing!")(3.
 
 ## Tafsir Ibn Kathir
 

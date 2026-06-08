@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if you only could see when the criminals shall hang their heads before their Lord (saying): "Our Lord! In verse 11, it was said: قُلْ يَتَوَفَّاكُم مَّلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ (Say, "The angel of death who has been assigned for you will take you in full" -11).
+Surely, We too will forget you, so taste you the abiding torment for what you used to do .
 
 ## Tafsir Ibn Kathir
 

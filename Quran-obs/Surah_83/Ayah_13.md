@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nay! كِتَابٌ مَّرْ‌قُومٌ (A register inscribed!...83:9) The word marqum (translated above as 'inscribed' ) signifies here makhtum meaning 'sealed'.
+He is a sinner in his statements, because he lies whenever he speaks, he breaks his promises whenever he makes them, and he behaves in an abusive and wicked manner whenever he argues.
 
 ## Tafsir Ibn Kathir
 

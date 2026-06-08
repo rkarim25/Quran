@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they ask you about Dhul-Qarnayn. Verse 84 opens with the statement: يَسْأَلُونَكَ (They ask you).
+About Dhul-Qarnain, it is a strange coincidence that several men have been famous in the world while bearing the same name.
 
 ## Tafsir Ibn Kathir
 

@@ -154,7 +154,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if you divorce them before you have touched (had a sexual relation with) them, and you have appointed for them their due (dowry), then pay half of that, unless they (the women) agree to remit it, or he (the husband), in whose hands is the marriage tie, agrees to remit it. In the second situation, when the woman's dower has been fixed before marriage and divorce occurs before actual consummation, the injunction says that the man shall be obligated to pay half of the dower already fixed.
+The Wife gets half of Her Mahr if She is divorced before the Marriage is consummated This honorable Ayah is not a continuation of the Mut'ah (gift) that was mentioned in the previous Ayah (i.e., divorce before the marriage is consummated).
 
 ## Tafsir Ibn Kathir
 

@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who believe say: "Why is not a Surah sent down (for us)?" But now that a decisive Surah is sent down mentioning fighting, you can see those in whose hearts is disease (of hypocrisy) looking at you with the look of one who is about to faint for fear of death. فَهَلْ عَسَيْتُمْ إِن تَوَلَّيْتُمْ أَن تُفْسِدُوا فِي الْأَرْ‌ضِ وَتُقَطِّعُوا أَرْ‌حَامَكُمْ (So, [ O hypocrites,] do you not apprehend that, in case you turn away (from Jihad), you will spread disorder in the land, and will sever your ties of kinship?
+Because that is the source of all relationships and kinship, it is idiomatically used in the sense of human relationship and kinship.
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And so the sorcerers came to Fir'awn. Its diction and style so bewildered the Arabs that they instantly acknowledged a super human element in it.
+The Magicians convene and change Their Ropes into Snakes before Musa Allah describes the conversation that took place between Fir'awn and the magicians he collected to defeat Musa, peace be upon him.
 
 ## Tafsir Ibn Kathir
 

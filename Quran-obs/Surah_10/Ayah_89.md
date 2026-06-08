@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Musa said: "Our Lord! In the third verse (89), it was said that the prayer of Sayyidna Musa (علیہ السلام) has been accepted.
+If You leave them, they will mislead Your servants, and they will beget none but wicked disbelievers.)(71:26-27) Harun said "Amin" to his brother's prayer.
 
 ## Tafsir Ibn Kathir
 

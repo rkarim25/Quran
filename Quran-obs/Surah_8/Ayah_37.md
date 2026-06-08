@@ -87,7 +87,7 @@ Muhammad bin Ishaq narrated that Az-Zuhri, Muhammad bin Yahya bin Hibban, 'Asim 
 
 ## Tafsir Summary
 
-Verily, those who disbelieve spend their wealth to hinder (men) from the path of Allah, and so will they continue to spend it; but in the end it will become an anguish for them. Verse 37 describes some consequences of the events mentioned earlier which, in a nutshell, are that the disbelievers used their wealth against Islam, then they were bitten by remorse and were utterly disgraced.
+Those are the losers - 37' The sense is that the way magnet pulls iron and amber pulls grass and in the light of new scientific discoveries, the system of the world is held together by the constant of force fields pulling things together, the case in deeds and morals is also identical.
 
 ## Tafsir Ibn Kathir
 

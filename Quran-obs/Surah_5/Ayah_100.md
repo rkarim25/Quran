@@ -73,7 +73,7 @@ Imam Ahmad recorded that 'Ali said, "When this Ayah was revealed,
 
 ## Tafsir Summary
 
-Say: "Not equal are the bad things and the good things, even though the abundance of the bad may please you. In the fourth verse (100), it was said: قُل لَّا يَسْتَوِي الْخَبِيثُ وَالطَّيِّبُ (Say, "The bad and the good are not equal ...
+This Ayah refers to good conduct that Allah is teaching His believing servants, by forbidding them from asking about useless things. Since if they get the answers they sought, they might be troublesome for them and difficult on their ears.
 
 ## Tafsir Ibn Kathir
 

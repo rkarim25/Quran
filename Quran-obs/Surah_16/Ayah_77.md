@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Allah belongs the Unseen of the heavens and the earth. In the second example, there is a man who bids justice and teaches what is good.
+And the matter of the Hour is not but as a twinkling of the eye, or even nearer.
 
 ## Tafsir Ibn Kathir
 

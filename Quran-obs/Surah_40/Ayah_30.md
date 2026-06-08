@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And he who believed said: "O my people! In verse 28, it was said: يَكْتُمُ إِيمَانَهُ (who had kept his faith secret).
+Verily, I fear for you an end like that day (of disaster) of the groups (of old)!) meaning, those of the earlier nations who disbelieved the Messengers of Allah, such as the people of Nuh, 'Ad, Thamud and the disbelieving nations who came after them, how the punishment of Allah came upon them and they had no one to protect them or ward off that punishment.
 
 ## Tafsir Ibn Kathir
 

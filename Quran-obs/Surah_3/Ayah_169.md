@@ -66,7 +66,7 @@ Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the mar
 
 ## Tafsir Summary
 
-(169. Inci-dentally, there is another cause of comfort here in the martyrdom of Muslims in the battle, for Allah has conferred such rewards on them so that others should envy them.
+He said, 'Ask Me and I will give you.' He said, 'I ask that I am returned to life so that I am killed in Your cause again.' The Lord, Exalted He be, said, 'I have spoken the word that they shall not be returned back to it (this life).
 
 ## Tafsir Ibn Kathir
 

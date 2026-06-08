@@ -128,7 +128,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Shall I seek a lord other than Allah, while He is the Lord of all things? One's Burden of Sin Cannot Be Borne By Another The disbelievers of Makkah al-Mukarramah, with Walid ibn Mughirah among them, used to say to the Holy Prophet ﷺ and to the Muslims in general that they should return to their faith and they will bear the burden of all their sins.
+But, I only trust in Him and go back to Him, because He is the Lord of everything, Owner of all things and His is the creation and the decision.
 
 ## Tafsir Ibn Kathir
 

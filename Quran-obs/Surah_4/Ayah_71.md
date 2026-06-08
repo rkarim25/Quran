@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Before this, there was the command to obey Allah and His Messenger.
+Take your precautions, and either go forth (on an expedition) in parties, or go forth all together (71)There is certainly among you he who would linger behind.
 
 ## Tafsir Ibn Kathir
 

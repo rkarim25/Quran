@@ -82,7 +82,7 @@ They took the warning to their hearts. They knew this was a slip caused by شی�
 
 ## Tafsir Summary
 
-O you who believe! Several verses earlier, the text was dealing with the people of the Book, their false beliefs and their doubts.
+It means that such a person is on the 'straight path', and being on the 'straight path' is the key to all that is good and beneficial which the Word of Allah promises to him.
 
 ## Tafsir Ibn Kathir
 

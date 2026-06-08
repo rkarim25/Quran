@@ -48,7 +48,7 @@ Abu Al-'Aliyah and Qatadah said, "This Ayah (2:130) was revealed about the Jews 
 
 ## Tafsir Summary
 
-And who turns away from the religion of Ibrahim (i.e. Verse 131 defines the basic principle of the religion of Sayyidna Ibrahim (علیہ السلام) .
+We have said that there is no contradiction involved, for some texts of this hadith mention a proviso too - "as it appeared to people." That is to say, the first of these two men appeared in the eyes of the onlookers to be performing good deeds, while in fact he was doing just the opposite; similarly, the second man had from the outset been doing what would make him worthy of Paradise, though people thought him to be a sinner.
 
 ## Tafsir Ibn Kathir
 

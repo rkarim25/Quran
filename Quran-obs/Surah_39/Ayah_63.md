@@ -59,7 +59,7 @@ Allah is the Creator of all things, and He is the Trustee over all things (62)To
 
 ## Tafsir Summary
 
-Allah is the Creator of all things, and He is the Trustee over all things (62)To Him belong the Maqalid of the heavens and the earth. The word: مَقَالِيدُ (maqalid) in: لَّهُ مَقَالِيدُ السَّمَاوَاتِ وَالْأَرْ‌ضِ (To Him belong the keys to the heavens and the earth.- 39:63) is the plural form of: مِقلاد (miqlad) or: مِقلِید (miqlid) meaning a key.
+Therefore, the sense of the verse is that the keys to whatever treasures lie hidden in the heavens and the earth are in the hands of Allah and He alone is the custodian and the dispenser in that it is He who gives whenever He wills to whomever He wills and as much as He wills - and would just not give to anyone He so wills. Allah is the Creator of all things, and He is the Trustee over all things (62)To Him belong the Maqalid of the heavens and the earth.
 
 ## Tafsir Ibn Kathir
 

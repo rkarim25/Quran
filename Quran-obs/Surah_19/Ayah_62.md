@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(They will enter) 'Adn Gardens which the Most Gracious has promised to His servants in the unseen. "They will not hear anything absurd therein but a word of peace." - 19:62.
+And they will have therein their sustenance, morning and afternoon (62)Such is the Paradise which We shall give as an inheritance to those of Our servants who had Taqwa .
 
 ## Tafsir Ibn Kathir
 

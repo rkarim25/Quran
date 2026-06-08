@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We granted not to any human being immortality before you; then if you die, would they live forever (34)Everyone is going to taste death, and We shall test you with evil and with good by way of trial. Allah has said كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ 'Every soul has to taste death'.
+This pleasure does not negate the agony of death, because where the reward is high, a little pain is easily tolerated.
 
 ## Tafsir Ibn Kathir
 

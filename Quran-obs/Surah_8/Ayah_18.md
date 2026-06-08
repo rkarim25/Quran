@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-You killed them not, but Allah killed them. In contrast to this, yet another benefit which came out of this victory has been described in the fourth verse as: ذَٰلِكُمْ وَأَنَّ اللَّـهَ مُوهِنُ كَيْدِ الْكَافِرِ‌ينَ ﴿18﴾ (Apart from that, Allah is the One who frustrates the device of the disbelievers - 18).
+In other words, it can be said that Muslims were blessed with this victory for yet another reason, that is, the plans of the disbelievers should be rendered ineffective through it, something which would make them understand that Divine support is not with them - and no plan can succeed without it.
 
 ## Tafsir Ibn Kathir
 

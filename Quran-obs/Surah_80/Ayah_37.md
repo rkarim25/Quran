@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then when there comes As-Sakhkha (33)That Day shall a man flee from his brother (34)And from his mother and his father (35)And from his wife and his children (36)Every man that Day will have enough to make him careless o… يَوْمَ يَفِرُّ‌ الْمَرْ‌ءُ مِنْ أَخِيهِ (the Day when one will flee from his brother...80:34).
+Then when there comes As-Sakhkha (33)That Day shall a man flee from his brother (34)And from his mother and his father (35)And from his wife and his children (36)Every man that Day will have enough to make him careless of others (37)Some faces that Day will be bright (38)Laughing, rejoicing at good news (39)And other faces that Day will be dust-stained (40)Darkness will cover them (41)Such will be the disbelieving, the wicked evil doers .
 
 ## Tafsir Ibn Kathir
 

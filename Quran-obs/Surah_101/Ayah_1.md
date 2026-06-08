@@ -10,7 +10,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Human Deeds, Good or Bad, will be Weighed This Surah mentions the weighing of human deeds.
+It is explained in Mazhari that the Holy Qur'an generally contrasts the unbelievers and righteous believers, when speaking of retribution [ reward or punishment ], because the latter are the perfect believers.
 
 ## Tafsir Ibn Kathir
 

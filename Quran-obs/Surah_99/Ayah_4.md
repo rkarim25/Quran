@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Az-Zalzalah Imam Ahmad recorded from 'Abdullah bin 'Amr that he said, "A man came to the Messenger of Allah ﷺ and said, 'Teach me what to recite, O Messenger of Allah!' The Prophet ﷺ said, Verse [ 2] وَأَخْرَ‌جَتِ الْأَرْ‌ضُ أَثْقَالَهَا (and the earth will bring forth its burdens.) Muslim has recorded in his Sahih from Abu Hurairah ؓ that the Messenger of Allah ﷺ said: "The earth will throw out the pieces of its liver [ contents ].
+And man will say: "What is the matter with it?")(4. This refers to the alteration of the state of things and the earth moving and shaking.
 
 ## Tafsir Ibn Kathir
 

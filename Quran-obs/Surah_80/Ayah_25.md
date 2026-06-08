@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Qutila mankind! كَلَّا لَمَّا يَقْضِ مَا أَمَرَ‌هُ (No!
+Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them.
 
 ## Tafsir Ibn Kathir
 

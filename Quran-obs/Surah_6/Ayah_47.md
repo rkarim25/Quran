@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Tell me, if Allah took away your hearing and your sight, and sealed up your hearts, is there a god other than Allah who could restore them to you?" See how variously We explain the Ayat, yet they turn aside (46)Say: "Tell me, if the punishment of Allah comes to you suddenly, or openly, will any be destroyed except the wrongdoing people? In the last verse (45), it was said that, when the mass punishment of Allah Ta` ala came, the people who did wrong were uprooted to the last man.
+In the last verse (45), it was said that, when the mass punishment of Allah Ta` ala came, the people who did wrong were uprooted to the last man.
 
 ## Tafsir Ibn Kathir
 

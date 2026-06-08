@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Revelation of this Surat and its Recitation in the Maghrib Prayer Al-Bukhari recorded from 'Abdullah – that is Ibn Mas'ud – that he said, "While we were with the Messenger of Allah ﷺ in a cave at Mina, وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ (Woe, that Day, to the deniers!...77:15) The word wail means 'destruction'.
+Woe that Day to the deniers.) meaning, woe unto them from Allah's torment that is coming in the future.
 
 ## Tafsir Ibn Kathir
 

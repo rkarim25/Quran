@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, Ilyas was one of the Messengers (123)When he said to his people: "Will you not have Taqwa? Described in the verses cited above is the fourth event relating to Sayyidna Ilyas علیہ السلام .
+Since the noble Qur'an is no book of history, therefore, rather than describe details of this struggle, it restricts itself to saying only that which was necessary for taking a lesson. But, except for a few votaries of truth, no one listened to him, in fact, tried to harass him in all sorts of ways, so much so that Ahab and his wife, Isabelle planned to kill him.
 
 ## Tafsir Ibn Kathir
 

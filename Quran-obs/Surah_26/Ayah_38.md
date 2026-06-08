@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, the sorcerers were assembled at a fixed time on a day appointed (38)And it was said to the people: "Are you (too) going to assemble? Bani Isra'il were the residents of Syria.
+There was no one present at the time of the incident, so no one could have contradicted him.
 
 ## Tafsir Ibn Kathir
 

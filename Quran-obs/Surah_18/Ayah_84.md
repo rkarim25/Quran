@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they ask you about Dhul-Qarnayn. The word: سَبَب (sabab) used in: وَآتَيْنَاهُ مِن كُلِّ شَيْءٍ سَبَبًا (and provided for him a way to everything - 84) is employed in the Arabic lexicon to denote everything harnessed to achieve an objective.
+Thus too was Dhul-Qarnayn: Allah gave him the means of all things, meaning the means and power to conquer all areas, regions and countries, to defeat enemies, suppress the kings of the earth and humiliate the people of Shirk.
 
 ## Tafsir Ibn Kathir
 

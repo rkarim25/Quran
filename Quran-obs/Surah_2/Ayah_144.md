@@ -150,7 +150,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, We have seen the turning of your (Muhammad's) face towards the heaven. The orientation to Qiblah قبلہ This verse begins by speaking of how deeply the Holy Prophet ﷺ ،; wished that the Ka'bah کعبہ be appointed as the Qiblah قبلہ of the Muslims.
+The exception is of the voluntary prayer (Nafl) while one is traveling, for one is allowed to offer it in any direction his body is facing, while his heart is intending the Ka'bah.
 
 ## Tafsir Ibn Kathir
 

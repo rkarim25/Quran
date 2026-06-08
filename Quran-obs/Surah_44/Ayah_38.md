@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This World was created for a Wisdom Here Allah tells us of His justice, and that He is far above mere play, folly and falsehood. أَهُمْ خَيْرٌ‌ أَمْ قَوْمُ تُبَّعٍ "Are they better or the people of Tubba?
+Therefore, the commentators have discussed extensively about the people of Tubba' , trying to identify them and their history. Tubba' is not the name of a particular individual, but is said to be the royal title of the kings of Himyar in Yemen.
 
 ## Tafsir Ibn Kathir
 

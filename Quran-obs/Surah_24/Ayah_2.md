@@ -122,7 +122,7 @@ According to above tradition, the Holy Prophet ﷺ awarded the punishment of hun
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The first verse of this Surah is introductory preface to put extra emphasis to the commands given in it.
+The punishment of whipping a hundred times is exclusive to unmarried man and woman.
 
 ## Tafsir Ibn Kathir
 

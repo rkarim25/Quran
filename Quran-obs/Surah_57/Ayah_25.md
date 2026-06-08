@@ -125,7 +125,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed We have sent Our Messengers with clear proofs, and revealed with them the Scripture and the Mizan that mankind may keep up justice. Establishing Justice: The Real Purpose of sending Prophets and Divine Books We have indeed sent Our messengers with clear proofs, and sent down with them the Book and the Balance, so that people may uphold justice.
+If the defiant group obdurately refuses to accept the parameters of justice and is left free to go about violating them, he will not allow justice to be established.
 
 ## Tafsir Ibn Kathir
 

@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do you not see what you sow (63)Is it you that make it grow, or are We the Grower (64)Were it Our will, We could crumble it to dry pieces, and you would be Tafakkahun (65)(Saying:) "We are indeed Mughramun! was lost in the secondary or extrinsic causes and lost sight of his Real Creator and Master, the Primary or Intrinsic Cause of his creation.
+Therefore, we go back to the fundamental question: Who caused the seed lying under heaps and heaps of sand to germinate and come out to the surface of the earth so beautifully, comprising untold benefits? With it He causes to grow for you the crops, the olives, the date palms, the grapes, and every kind of fruit.
 
 ## Tafsir Ibn Kathir
 

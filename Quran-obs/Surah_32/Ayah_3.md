@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surah Alif Lam Mim As-Sajdah In the Book of the Friday prayer, Al-Bukhari recorded that Abu Hurayrah said, "The Prophet ﷺ used to recite in Fajr on Fridays: At this place, the word: نَّذِيرٍ (nadhir: warner) in: مَّا أَتَاهُم مِّن نَّذِيرٍ (to whom no warner has come..
+Or say they: "He has fabricated it?" Nay, it is the truth from your Lord, so that you may warn a people to whom no warner has come before you, in order that they may be guided.) The Qur'an is the Book of Allah in which there is no Doubt We discussed the individual letters at the beginning of Surat Al-Baqarah, and there is no need to repeat it here.
 
 ## Tafsir Ibn Kathir
 

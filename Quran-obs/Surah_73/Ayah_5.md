@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا ('We are going to send down to you a weighty discourse...
+Sometimes the angel comes to me in the form of a man and talks to me and I grasp whatever he says.) A'ishah added, "Verily, I saw him receiving revelation and I noticed the sweat dropping from his forehead on a very cold day as the revelation ended." This is the wording recorded by Al-Bukhari.
 
 ## Tafsir Ibn Kathir
 

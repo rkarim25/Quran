@@ -70,7 +70,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Allah belongs the Unseen of the heavens and the earth. The Divine statement: لَا تَعْلَمُونَ شَيْئًا (when you knew nothing - 78) indicates that knowledge is not an ingrained personal excellence of man.
+Truly, Allah is able to do all things (77)And Allah has brought you out from the wombs of your mothers while you knew nothing. And He gave you hearing, sight, and hearts, that you might give thanks (78)Do they not see the birds held (flying) in the midst of the sky None holds them up but Allah.
 
 ## Tafsir Ibn Kathir
 

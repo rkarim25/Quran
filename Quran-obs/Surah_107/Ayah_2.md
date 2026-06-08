@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The love of the world causes nations to lose faith and consign Allah to oblivion This Surah denounces some of the evil actions of the pagans and the hypocrites, and it holds out a threat of destruction to those who commit them.
+However, in the current verse the word ma’ un is taken in the sense of Zakah [ obligatory alms ] because it is a little amount out of much wealth - only 2-½% out of the entire wealth.
 
 ## Tafsir Ibn Kathir
 

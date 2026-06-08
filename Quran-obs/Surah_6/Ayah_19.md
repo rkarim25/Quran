@@ -169,7 +169,7 @@ And if Allah touches you with harm, none can remove it but He, and if He touches
 
 ## Tafsir Summary
 
-And if Allah touches you with harm, none can remove it but He, and if He touches you with good, then He is able to do all things (17)And He is the Irresistible, above His servants, and He is the All-Wise, Well-Acquainted with all things (18)Say: "What thing is the most great in witness?" Say: "Allah is Witness between you and I; this Qur'an has been revealed to me that I may therewith warn you and whomsoever it may reach. A particular event which is the cause of the revelation of this verse has been generally reported by commentators.
+Can you verily bear witness that besides Allah there are other gods?" Say "I bear no (such) witness!" Say: "Only He is God, alone, and truly I am innocent of what you join in worship with Him.
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the servants of the Most Gracious are those who walk on the earth Hawna, and when the foolish address them they say; "Salama. وَالَّذِينَ يَقُولُونَ رَ‌بَّنَا اصْرِ‌فْ عَنَّا عَذَابَ جَهَنَّمَ (and those who say, "Our Lord, avert from us the punishment of Jahannam - 25:65).
+The inseparable, permanent punishment is that which lasts as long as heaven and earth.
 
 ## Tafsir Ibn Kathir
 

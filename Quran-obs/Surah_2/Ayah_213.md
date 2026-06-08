@@ -213,7 +213,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Mankind was one community and Allah sent Prophets with glad tidings and warnings, and with them He sent down the Scripture in truth to judge between people in matters wherein they differed. Earlier, the real cause of the opposition to truth has been identified as the love of the worldly life.
+Obviously, the two sentences do not seem to synchronize because the cause of sending prophets and Books is the disputation of people, which did not exist at that time.
 
 ## Tafsir Ibn Kathir
 

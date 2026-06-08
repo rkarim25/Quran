@@ -56,7 +56,7 @@ Before the night of Isra', when the five daily prayers were ordained, this Ayah 
 
 ## Tafsir Summary
 
-And remember your Lord within yourself, humbly and with fear and without loudness in words in the mornings and in the afternoons, and be not of those who are neglectful (205)Surely, those who are with your Lord (angels)… Sajdah: Some merits and rules Sajdah (prostration) as a unit of the Islamic ` Ibadah of Salahhas been mentioned here exclusively since it occupies a distinct place among the rest of the units of Salah.
+Prostration, here, upon the mention that the angels prostrate to Allah is legitimate.
 
 ## Tafsir Ibn Kathir
 

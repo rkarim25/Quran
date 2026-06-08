@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-We created you, then why do you believe not (57)Do you not see the semen you emit (58)Is it you who create it, or are We the Creator (59)We have decreed death to you all, and We are not outstripped (60)To transfigure you… Proof of the occurrence of the Day of Resurrection Thus far the Surah dealt with three categories of people on the Plain of Hashr (Gathering.) The verses so far described the reward and punishment of these three groups.
+With verse 57 begins a series of arguments in support of Allah's Oneness and His power to raise the dead. Therefore, whatever comes into existence comes under the veils of causes.
 
 ## Tafsir Ibn Kathir
 

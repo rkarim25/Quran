@@ -106,7 +106,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah is He Who created you in weakness, then gave you strength after weakness, then after strength gave (you) weakness and grey hair. Greater part of this Surah aims at removing the doubts of the deniers of the Hereafter.
+It is in his own interest that he should keep in mind the impending weakness while he is still strong, and does not forget how he achieved strength gradually from the state of weakness.
 
 ## Tafsir Ibn Kathir
 

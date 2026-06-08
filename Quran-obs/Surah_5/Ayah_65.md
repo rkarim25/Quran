@@ -63,7 +63,7 @@ Some conditions of the Jews were mentioned in the previous verses. More particul
 
 ## Tafsir Summary
 
-The Jews say: "Allah's Hand is tied up." Be their hands tied up and be they accursed for what they uttered. Some conditions of the Jews were mentioned in the previous verses.
+After that, it was said that the people the Prophet of Islam is dealing with are contumacious people as they refuse to benefit from the open and clear words of the Qur'an revealed to him, instead of which, their disbelief in and denial of the truth keeps getting more hardened.
 
 ## Tafsir Ibn Kathir
 

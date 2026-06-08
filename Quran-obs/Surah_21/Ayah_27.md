@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "The Most Gracious has begotten children." Glory to Him! لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُم بِأَمْرِ‌هِ يَعْمَلُونَ (They do not precede Him in speech and only under His command they act.
+They are but honored servants (26)They speak not until He has spoken, and they act on His command (27)He knows what is before them, and what is behind them, and they cannot intercede except for him with whom He is pleased.
 
 ## Tafsir Ibn Kathir
 

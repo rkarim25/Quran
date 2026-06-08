@@ -94,7 +94,7 @@ This verse presents an argument to prove the prophethood of Sayyidna Muhammad �
 
 ## Tafsir Summary
 
-And (remember) when the angels said: "O Maryam! This verse presents an argument to prove the prophethood of Sayyidna Muhammad ﷺ by referring to happenings in the lives of Sayyidna Zakariyya (علیہ السلام) and Sayyidah Maryam.
+These took place in the remote past and there is no likelihood of their being seen or heard or read, specially so, by the Holy Prophet ﷺ which by itself proves that his being so informed of the unknown was beyond the ordinary course of learning.
 
 ## Tafsir Ibn Kathir
 

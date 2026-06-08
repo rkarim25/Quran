@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O Musa! فَأَجْمِعُوا كَيْدَكُمْ ثُمَّ ائْتُوا صَفًّا (So, make your plot firm and forth in one row - 20:64).
+Either you throw first or we be the first to throw? Therefore, when this happened, they fell down into prostration to Allah.
 
 ## Tafsir Ibn Kathir
 

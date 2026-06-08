@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And press your (right) hand to your (left) side: it will come forth white (and shining), without any disease as another sign, (22)"That We may show you (some) of Our greater signs. كَيْ نُسَبِّحَكَ كَثِيرً‌ا وَنَذْكُرَ‌كَ كَثِيرً‌ا (So that we proclaim Your purity a lot and remember You a lot - 20:33, 34).
+If he had asked for the removal of his affliction in its entirety, it would have been cured for him.
 
 ## Tafsir Ibn Kathir
 

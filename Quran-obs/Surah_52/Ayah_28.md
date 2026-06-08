@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who believe and whose offspring follow them in faith, – to them shall We join their offspring, and We shall not decrease the reward of their deeds in anything. The Believing Children of the Righteous will benefit from their relationship with their Believing Parents in Paradise وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّ‌يَّتُهُم بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّ‌يَّتَهُمْ (And those who believed and their children followed them in belief, We will join their children with them,...
+The verse means that for upgrading the children of the believers who died in the state of true faith, no part of the reward of their parents will be diminished for them to make up for the children's deeds.
 
 ## Tafsir Ibn Kathir
 

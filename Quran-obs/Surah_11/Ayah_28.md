@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "O my people! Some questions raised by the disbelievers appear in the third verse (27).
+Tell me, if I have a clear proof from my Lord, and a mercy (prophethood) has come to me from Him, but that (mercy) has been obscured from your sight. From here it also stands proved that it has never been permissible, in any period of a prophet, that people should be compelled to become believers.
 
 ## Tafsir Ibn Kathir
 

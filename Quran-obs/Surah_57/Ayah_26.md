@@ -72,7 +72,7 @@ In the preceding verses it was mentioned that in order to give guidance to the w
 
 ## Tafsir Summary
 
-And indeed, We sent Nuh and Ibrahim, and placed in their offspring prophethood and Scripture. Many of the Nations of the Prophets (علیہم السلام) were Rebellious In the preceding verses it was mentioned that in order to give guidance to the world and to establish justice therein, Allah sent His Messengers and revealed to them the divine books and set up Balance.
+And among them there are some who are guided; but many of them are rebellious (26)Then, We sent after them Our Messengers, and We sent 'Isa the son of Maryam, and gave him the Injil. And indeed, We sent Nuh and Ibrahim, and placed in their offspring prophethood and Scripture.
 
 ## Tafsir Ibn Kathir
 

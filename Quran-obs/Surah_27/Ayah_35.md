@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-She said: "O chiefs! And I am going to send a gift to them, then see, what response the envoys will bring back." 27:35.
+When Bilqis's envoys saw animals standing on the floor of gold bricks, they were embarrassed with the gifts they had brought with them. But he returned all their gifts and presents, and answered all the questions sent up by Bilqis.
 
 ## Tafsir Ibn Kathir
 

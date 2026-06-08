@@ -138,7 +138,7 @@ It was alluded earlier that this verse was revealed when the Holy Prophet ﷺ wa
 
 ## Tafsir Summary
 
-O you who believe! يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قِيلَ لَكُمْ تَفَسَّحُوا فِي الْمَجَالِسِ فَافْسَحُوا (0 those who believe, when it is said to you 'Make room [ for others ] in the sittings', then make room, ...58:11) Allah teaches His servants good manners and enjoins upon them to be kind to each other when they are sitting together.
+And Allah is Well-Acquainted with what you do.) means, do not think that if one of you makes room for his brother, or rises up when he is commanded to do so, that this will diminish his right or honor. As a mark of respect for them, the Holy Prophet ﷺ gave a general order to the entire congregation to spread out and make room for their fellow-believers, and prayed to Allah to make room for such people.
 
 ## Tafsir Ibn Kathir
 

@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when Our clear Ayat are recited unto them, those who hope not for their meeting with Us, say: "Bring us a Qur'an other than this, or change it." Say: "It is not for me to change it on my own accord; I only follow that which is revealed unto me. After that, the fact that the Qur'an was from Allah and that it was His Word was driven home with an open argument by saying: فَقَدْ لَبِثْتُ فِيكُمْ عُمُرً‌ا مِّن قَبْلِهِ (Then I have lived among you for years before it).
+Is it not that, much before the revelation of the Qur'an, I have spent a long period of forty years of my life among you? And if, there is no evidence to prove his honesty and truth in that person's past life, trusting him for the future just because of what he says or claims is not a wise thing to do.
 
 ## Tafsir Ibn Kathir
 

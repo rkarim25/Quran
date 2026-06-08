@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We bestowed upon him Ishaq and Ya'qub, each of them We guided, and before him, We guided Nuh and among his progeny Dawud, Sulayman, Ayyub, Yusuf, Musa, and Harun. It will be recalled that mentioned in previous verses were great rewards and ranks bestowed on Sayyidna Ibrahim (علیہ السلام) .
+Thus, the guidance given in this verse is bi-polar.
 
 ## Tafsir Ibn Kathir
 

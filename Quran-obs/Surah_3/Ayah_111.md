@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-You are the best of peoples ever raised up for mankind; you enjoin Al-Ma'ruf (all that Islam has ordained) and forbid Al-Munkar (all that Islam has forbidden), and you believe in Allah. In previous verses (98-101), it was shown how hostile to Muslims the people of the Book were and how they planned to bring religious harm to them.
+Therefore, whoever among this Ummah acquires these qualities, will have a share in this praise. And had the People of the Scripture (Jews and Christians) believed, it would have been better for them; among them are some who have faith, but most of them are Fasiqun (rebellious)(110)They will do you no harm, barring a trifling annoyance; and if they fight against you, they will show you their backs, and they will not be helped (111)They are stricken with humility wherever they…
 
 ## Tafsir Ibn Kathir
 

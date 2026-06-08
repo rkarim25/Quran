@@ -375,7 +375,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In that which your wives leave, your share is half if they have no child; but if they leave a child, you get a fourth of that which they leave after payment of legacies that they may have bequeathed or debts. Upto this point, the text has described the shares of those competent to inherit, those who had the affinity of lineage and birth with the deceased.
+Third, they only have a share in the inheritance when the deceased's estate is inherited in 'Kalālah', for they do not have a share if the deceased has a surviving father, grandfather, child or grandchild.
 
 ## Tafsir Ibn Kathir
 

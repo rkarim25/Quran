@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, the Dwellers of Al-Hijr denied the Messengers (80)And We gave them Our signs, but they were averse to them (81)And they used to hew out dwellings from the mountains, (feeling) secure (82)But the Sayhah (torme… Aikah means a dense forest.
+Therefore, He is to exact the full return from them of what they have been doing. Some commentators say that there was a dense forest near Madyan, therefore, Aikah is actually the title of the people of Madyan.
 
 ## Tafsir Ibn Kathir
 

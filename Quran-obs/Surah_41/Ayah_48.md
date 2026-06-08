@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Whosoever does righteous good deed, it is for himself; and whosoever does evil, it is against himself. أَأَعْجَمِيٌّ وَعَرَ‌بِيٌّ (Is it a non- Arabic [ book ] and an Arab [ messenger ]?
+- 44) The original word used for non-Arabic in the text is a'jamiyy (with hamza before the letter 'ain) which is an Arabic term for ` ineloquent speech', while ` ajam' (without hamzah in its beginning) means any nation other than Arabs.
 
 ## Tafsir Ibn Kathir
 

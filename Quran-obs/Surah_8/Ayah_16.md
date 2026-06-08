@@ -94,7 +94,7 @@ When these verses were revealed during the battle of Badr, this was the operatin
 
 ## Tafsir Summary
 
-O you who believe! The exception covers two states: (1) لَّا مُتَحَرِّ‌فًا لِّقِتَالٍ أَوْ مُتَحَيِّزًا إِلَىٰ فِئَةٍ (unless maneuvering for battle,) (2) أَوْ مُتَحَيِّزًا إِلَىٰ فِئَةٍ (or turning to join a company) that is, when a war is on, turning one's back is permissible only under two conditions.
+According to the consensus of the majority of the Muslim Ummah, and in the view of the Four Imams, the exact Islamic Legal position in this case is: Until such time the number of the adversary does not go beyond twice, it is Harm to desert the battlefield, and is a major sin.
 
 ## Tafsir Ibn Kathir
 

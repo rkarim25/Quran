@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "Shall I seek for you an ilah (a god) other than Allah, while He has given you superiority over the nations. After the miraculous victory of the Israelites over Pharaoh and his people, and having a life of ease and comfort, they started to show the signs of ignorance as people of wealth show when given a life of luxury and opulence.
+After the miraculous victory of the Israelites over Pharaoh and his people, and having a life of ease and comfort, they started to show the signs of ignorance as people of wealth show when given a life of luxury and opulence. The next verses remind them of their pitiable condition and their persecutions at the hands of Pharaoh when their sons were killed and their daughters were saved to serve them as their maid-servants.
 
 ## Tafsir Ibn Kathir
 

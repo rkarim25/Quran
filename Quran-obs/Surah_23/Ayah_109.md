@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He (Allah) will say: "Remain you in it with ignominy! وَلَا تُكَلِّمُونِ (Do not speak to Me - 23:108).
+We believe, so forgive us and have mercy on us, for You are the Best of all who show mercy!
 
 ## Tafsir Ibn Kathir
 

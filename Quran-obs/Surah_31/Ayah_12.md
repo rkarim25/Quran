@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We bestowed upon Luqman Al-Hikmah saying: "Give thanks to Allah." And whoever gives thanks, he gives thanks for (the good of) himself. Who was Luqman (علیہ السلام) mentioned in verse 12: وَلَقَدْ آتَيْنَا لُقْمَانَ الْحِكْمَةَ (And We gave wisdom to Luqman)?
+And whoever is unthankful, then verily, Allah is All-Rich, Worthy of all praise .
 
 ## Tafsir Ibn Kathir
 

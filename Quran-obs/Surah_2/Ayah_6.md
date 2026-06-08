@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who disbelieve, it is the same to them whether you warn them or do not warn them, they will not believe (6) (Verily, those who disbelieve) meaning, covered the truth and hid it. After affirming the Holy Qur'an as the Book of Guidance and as being beyond all doubt, the first five verses of the present Surah refer to those who derive full benefit from this Book and whom the Holy Qur'an has named as Mu'minun مؤمنون (true Muslims) or Muttaqun مُتَّقون (the God-fearing), and also delineate their characteristic qualities which distinguish them from others.
+Verily, those who disbelieve, it is the same to them whether you warn them or do not warn them, they will not believe .
 
 ## Tafsir Ibn Kathir
 

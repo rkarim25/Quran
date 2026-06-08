@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) Isma'il, Idris and Dhul-Kifl: All were from among the patient (85)And We admitted them to Our mercy. Whether Sayyidna Dhul-Kifl was a prophet or a saint and his strange story Three persons are mentioned in the above two verses.
+And (remember) Isma'il, Idris and Dhul-Kifl: All were from among the patient (85)And We admitted them to Our mercy.
 
 ## Tafsir Ibn Kathir
 

@@ -102,7 +102,7 @@ The restrictive particle: اَنَّمَا (innama: only) appearing in verse 115
 
 ## Tafsir Summary
 
-So eat of the lawful and good food which Allah has provided for you. Nature of Prohibitions: The Correct View The restrictive particle: اَنَّمَا (innama: only) appearing in verse 115 seems to give the impression that things Haram are no more than the four mentioned in the verse.
+But if one is forced by necessity, without willful disobedience, nor transgressing, then, Allah is Pardoning, Most Merciful (115)And do not describe what your tongues have lied about, saying: "This is lawful and this is forbidden," to invent lies against Allah.
 
 ## Tafsir Ibn Kathir
 

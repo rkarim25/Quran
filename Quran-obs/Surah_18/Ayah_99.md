@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So they could not scale it or dig through it (97)He said: "This is a mercy from my Lord, but when the promise of my Lord comes, He shall Dakka' it down to the ground. As for the pronoun of the word: بَعْضَهُمْ (ba` dahum) in بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِي بَعْضٍ (And on that day, We will leave them [ Ya’ juj and Ma'juj ] surging over one another - 99), it is obvious that it reverts back to Ya'juj Ma juj.
+Then, as for their condition described therein - 'surging over one another' - it is also obvious that this will be their state when the passage lies open for them and they will be hastening their way from the hilly heights down to the ground.
 
 ## Tafsir Ibn Kathir
 

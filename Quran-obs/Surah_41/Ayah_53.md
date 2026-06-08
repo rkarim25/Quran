@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Tell me, if it is from Allah, and you disbelieve in it Who is more astray than one who is in opposition far away. سَنُرِ‌يهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنفُسِهِمْ (We will show them Our signs in the universe and within their own beings - 53).
+Is it not sufficient in regard to your Lord that He is a Witness over all things (53)Lo, Verily, they are in doubt concerning the meeting with their Lord.
 
 ## Tafsir Ibn Kathir
 

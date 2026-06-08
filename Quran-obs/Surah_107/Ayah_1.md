@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The love of the world causes nations to lose faith and consign Allah to oblivion This Surah denounces some of the evil actions of the pagans and the hypocrites, and it holds out a threat of destruction to those who commit them.
+Have you seen the one who denies the Din'?' Here the word Din means the Hereafter, the Recompense and the Final Reward. Have you seen him who denies Ad-Din?)(2.
 
 ## Tafsir Ibn Kathir
 

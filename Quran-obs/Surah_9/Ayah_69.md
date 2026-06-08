@@ -142,7 +142,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Like those before you: they were mightier than you in power, and more abundant in wealth and children. Let us now consider the statement: كَالَّذِينَ مِن قَبْلِكُمْ (You are) like those before you' in verse 69.
+Like those before you: they were mightier than you in power, and more abundant in wealth and children.
 
 ## Tafsir Ibn Kathir
 

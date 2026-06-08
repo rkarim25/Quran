@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The people of Nuh denied (their Messenger) before them. The Story of the People of Nuh (علیہ السلام) and the Lesson Learnt from it مَجْنُونٌ وَازْدُجِرَ‌ (and said, " (He is) a madman", and he was threatened...54:9).
+The people of Nuh denied (their Messenger) before them.
 
 ## Tafsir Ibn Kathir
 

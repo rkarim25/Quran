@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Surely, We have sent down to you (O Muhammad ﷺ) the Book in truth that you might judge between men by that which Allah has shown you, so be not a pleader for the treacherous (105)And seek the forgiveness of Allah, certainly, Allah is Ever Oft-Forgiving, Most Merciful (106)And argue not on behalf of those who deceive themselves. In the third verse (107), it has been emphatically asserted once again that the Messenger of Allah should not defend those who are disloyal and treacherous, for Allah does not like them.
+Verily, Allah does not like anyone who is a betrayer, sinner (107)They may hide (their crimes) from men, but they cannot hide (them) from Allah; for He is with them (by His knowledge), when they plot by night in words that He does not approve.
 
 ## Tafsir Ibn Kathir
 

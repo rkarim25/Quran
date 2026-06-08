@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And as for the boy, his parents were believers, and we feared he would oppress them by rebellion and disbelief. In verse 81, it was said: فَأَرَ‌دْنَا أَن يُبْدِلَهُمَا رَ‌بُّهُمَا خَيْرً‌ا مِّنْهُ زَكَاةً وَأَقْرَ‌بَ رُ‌حْمًا " We, therefore, wished that their Lord would replace him with someone better than him in piety [ having good deeds and morals ] and more akin to affection [ fulfilling due rights of the parents ]." It will be noticed that the form used in this situation is plural: خَشِينَا (we apprehended) and: أَرَ‌دْنَا (we wished).
+Then this doubt would be incorrect for the reason that nothing can come into being contrary to Divine knowledge. It can be answered by saying that it was there in Divine knowledge with the appendage and condition: If he reached maturity, he will not only become a disbeliever himself but would pose a danger for other Muslims also.
 
 ## Tafsir Ibn Kathir
 

@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "Why does this Messenger eat food, and walk about in the markets. The Second Objection was that if the Holy Prophet ﷺ was a prophet, he should not have been eating and drinking like common people; instead he should have been free from eating and drinking like angels.
+And if this was not so, he should have at least enough wealth and gardens to take care of his day to day needs, so that he may not need to care for his living. Furthermore, how could he be accepted as a prophet when he is neither an angel nor does an angel accompany him to endorse what he preaches, therefore it appears that he has been charmed by someone which has turned his head and that is why he talks like this.
 
 ## Tafsir Ibn Kathir
 

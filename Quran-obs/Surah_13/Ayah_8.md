@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah knows what every female bears, and by how much the wombs fall short (of their time or number) or exceed. Here, it was said: اللَّـهُ يَعْلَمُ مَا تَحْمِلُ كُلُّ أُنثَىٰ وَمَا تَغِيضُ الْأَرْ‌حَامُ وَمَا تَزْدَادُ ۖ وَكُلُّ شَيْءٍ عِندَهُ بِمِقْدَارٍ‌ ٍ.
+Everything with Him is in (due) proportion (8)All-Knower of the unseen and the seen, the Most Great, the Most High .
 
 ## Tafsir Ibn Kathir
 

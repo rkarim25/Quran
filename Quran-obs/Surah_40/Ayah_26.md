@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We sent Musa with Our Ayat, and a manifest authority (23)To Fir'awn, Haman and Qarun, but they called (him): "A sorcerer, a liar! Frequent references were made earlier in the text to the warnings given to deniers of pure monotheism and prophethood which brought more opposition and hostility from disbelievers.
+I fear that he may change your religion, or that he may cause mischief to appear in the land!
 
 ## Tafsir Ibn Kathir
 

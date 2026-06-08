@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Thus We relate to you some information of what happened before. مَّنْ أَعْرَ‌ضَ عَنْهُ فَإِنَّهُ يَحْمِلُ يَوْمَ الْقِيَامَةِ وِزْرً‌ا (Whoever turns away from it shall certainly bear a heavy burden on the Doomsday - 20:100) Turning aside from the Qur'an can take different forms: not…
+Whoever follows it, then he is rightly guided and whoever opposes it and turns away from it, then he is misguided.
 
 ## Tafsir Ibn Kathir
 

@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Who has made earth for you like a bed; and has opened ways for you therein, and has sent down water (rain) from the sky. The word ازواج (pairs) used in verse 53 is used here in the sense of "Kinds" or "Species", and the word is the plural of the word which means "different" or "diverse".
+Who has made earth for you like a bed; and has opened ways for you therein, and has sent down water (rain) from the sky.
 
 ## Tafsir Ibn Kathir
 

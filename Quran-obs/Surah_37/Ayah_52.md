@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then they will turn to one another, mutually questioning (50)A speaker of them will say: "Verily, I had a companion (in the world), (51)"Who used to say: 'Are you among those who believe (52)(That) when we die and become dust and bones, shall we indeed be indebted (Madinun)?' (53)(The speaker) said: "Will you look down? An inmate of Jannah and his disbelieving acquaintance After having described the general condition of the people of Jannah, one of them has been mentioned particularly.
+The man said, 'This is like a man who has such and such.' The angel said, 'That is exactly what it is; this house, these gardens and this wife are all for you.' The man said, 'I had a companion who used to say: Are you among those who believe?' It was said to him, 'He is in Hell.' He said, 'Will you look down?' So he looked down and saw him in the midst of Hell.
 
 ## Tafsir Ibn Kathir
 

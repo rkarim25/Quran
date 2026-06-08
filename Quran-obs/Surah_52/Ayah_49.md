@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if they were to see a piece of the heaven falling down, they would say: "Clouds gathered in heaps! وَمِنَ اللَّيْلِ فَسَبِّحْهُ (And, in parts of night too, proclaim His purity, and at setting of the stars...52:49) 'Proclaiming the purity of the Lord in parts of night' includes Maghrib and ` Isha' prayers, as well as the general tasbihat (proclamation of the purity of the Lord).
+The concluding part of this verse; "...and at setting of the stars" refers to the Fajr prayer and the tasbihat recited at that time.
 
 ## Tafsir Ibn Kathir
 

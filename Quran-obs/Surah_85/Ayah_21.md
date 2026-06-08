@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who believe and do righteous good deeds, for them will be Gardens under which rivers flow. إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا (Surely, those who persecuted the believing men and the believing women, then did not repent,...85:10) This verse describes the torment of the wrong-doers who burned the Muslims in the fire pit only on account of their faith.
+It signifies that they will be put into Hell and will have to suffer eternal torment of the fire. Another possible interpretation is that the second statement describes the wrong-doers' torment in this world, as is narrated in some reports.
 
 ## Tafsir Ibn Kathir
 

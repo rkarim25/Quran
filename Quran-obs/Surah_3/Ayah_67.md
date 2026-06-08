@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O people of the Scripture! The argumentation referred to in verse 65 was to decide whether Sayyidna Ibrahim (علیہ السلام) followed the way of the Jews, or that of the Christians.
+Why do you dispute about Ibrahim,) meaning, 'How is it that you, Jews, claim that Ibrahim was Jew, although he lived before Allah sent down the Tawrah to Musa?
 
 ## Tafsir Ibn Kathir
 

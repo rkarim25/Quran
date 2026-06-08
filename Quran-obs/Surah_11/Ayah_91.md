@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O Shu'ayb! After having given this good counsel to them, he warned them of the punishment of Allah Ta` ala.
+They said that had it not been for the support he had from his clan, they would have stoned him to death. It has also been said that this means that they would have cursed and insulted him verbally.
 
 ## Tafsir Ibn Kathir
 

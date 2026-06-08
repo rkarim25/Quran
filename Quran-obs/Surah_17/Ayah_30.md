@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And let not your hand be tied (like a miser) to your neck, nor overextend it (like a spendthrift), so that you become blameworthy and in severe poverty (29)Truly, your Lord expands the provision for whom He wills and straitens (for whom He wills). Spending in the way of Allah so liberally as would throw one in trouble: The pros and cons of it The verse, given the outer view, seems to prohibit the kind of spending following which the spender himself ends up becoming poor and needy, a prey of all sorts of hardships and anxieties.
+He makes rich whomever He wills, and He makes poor whomever He wills, by the wisdom that is His.
 
 ## Tafsir Ibn Kathir
 

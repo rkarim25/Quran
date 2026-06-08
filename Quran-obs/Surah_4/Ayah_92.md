@@ -265,7 +265,7 @@ Abdur-Rahman bin Zayd bin Aslam said that this Ayah was revealed about Abu Ad-Da
 
 ## Tafsir Summary
 
-It is not for a believer to kill a believer except by mistake; and whosoever kills a believer by mistake, he must set free a believing slave and submit compensation (blood money) to the deceased's family unless they remit it. Linked with earlier verses dealing with fighting and killing, all forms of killing, in the first instance, are eight in number because the person killed is covered by one of the four conditions which follow.
+If the deceased belonged to a people at war with you and he was a believer, the freeing of a believing slave (is prescribed); and if he belonged to a people with whom you have a treaty of mutual alliance, then compensation (blood money) must be paid to his family, and a believing slave must be freed.
 
 ## Tafsir Ibn Kathir
 

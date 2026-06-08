@@ -91,7 +91,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed there was for Saba' a sign in their dwelling place – two gardens on the right and on the left; (and it was said to them:) "Eat of the provision of your Lord, and be grateful to Him." A fair land and an Oft-Forgiving Lord (15)But they turned away, so We sent against them flood released from the dam, and We converted their two gardens into gardens producing bitter bad fruit, and Athl, and some few lote trees (16)Like this We requited them because they were ungrateful disbelievers.
+Indeed there was for Saba' a sign in their dwelling place – two gardens on the right and on the left; (and it was said to them:) "Eat of the provision of your Lord, and be grateful to Him." A fair land and an Oft-Forgiving Lord (15)But they turned away, so We sent against them flood released from the dam, and We converted their two gardens into gardens producing bitter bad fruit, and Athl, and some few lote trees (16)Like this We requited them because they were ungrateful dis…
 
 ## Tafsir Ibn Kathir
 

@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then there came to him one of them, walking shyly. Two important conditions for hiring a person, and assigning a job Allah Ta` ala made the daughter of Sayyidna Shu'aib (علیہ السلام) say something of great wisdom.
+And there is evidence which indicates that Musa, peace be upon him, fulfilled the longer of the two terms.
 
 ## Tafsir Ibn Kathir
 

@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "When this promise, if you are truthful? Rather, their knowledge failed in the matter of Hereafter.
+Allah tells us about how the idolators asked about the Day of Resurrection, but thought it unlikely that it would ever come to pass.
 
 ## Tafsir Ibn Kathir
 

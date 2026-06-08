@@ -106,7 +106,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Thamud (people, We sent) their brother Salih. The Confrontation Between the Arrogant and the Weakened The third (75) and the fourth (76) verses carry a dialogue between two groups of the people of Thamud.
+And equally certain is that what he says is a message brought from Allah Ta` ala.
 
 ## Tafsir Ibn Kathir
 

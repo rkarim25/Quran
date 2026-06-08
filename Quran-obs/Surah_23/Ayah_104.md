@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, when the Trumpet is blown, there will be no kinship among them that Day, nor will they ask of one another (101)Then, those whose Scales (of good deeds) are heavy, these! وَهُمْ فِيهَا كَالِحُونَ And they will be disfigured therein - 23:104).
+they are the successful (102)And those whose Scales (of good deeds) are light, they are those who lose themselves, in Hell will they abide (103)The Fire will burn their faces, and therein they will grin, with displaced lips (disfigured).
 
 ## Tafsir Ibn Kathir
 

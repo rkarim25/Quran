@@ -177,7 +177,7 @@ Baihaqi and Ibn Ishaq have reported that the Holy Prophet ﷺ himself had taken 
 
 ## Tafsir Summary
 
-The believers are only those who believe in Allah and His Messenger; and when they are with him on some common matter, they go not away until they have asked his permission. Some etiquettes and injunctions in regard to meetings with the Holy Prophet ﷺ ' in particular, and in the society in general The above verses contain two injunctions.
+The first injunction is that when the Holy Prophet ﷺ call people for the meeting in connection with jihad or any other religious matter, the demand of the faith is that all should attend and must not leave the meeting without his permission.
 
 ## Tafsir Ibn Kathir
 

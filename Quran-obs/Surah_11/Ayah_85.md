@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And O my people! Obviously, the very prohibition of weighing and measuring short makes weighing and measuring in full necessary.
+Give full measure and weight in justice and reduce not the things that are due to the people, and do not commit mischief in the land, causing corruption. He commanded them to give just measure and weight whether they were giving or receiving (in transactions).
 
 ## Tafsir Ibn Kathir
 

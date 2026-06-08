@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ (Indeed We have created man [ to live ] in hard struggle…90:4) The word kabad means 'labour, 'toil' or 'difficulty'.
+Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
 
 ## Tafsir Ibn Kathir
 

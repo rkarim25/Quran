@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or have they a share in the dominion? Linked with previous verses, the description of Jewish traits of character continues in the present verses as well.
+The Envy and Miserly Conduct of the Jews Allah asked the Jews if they have a share in the dominion.
 
 ## Tafsir Ibn Kathir
 

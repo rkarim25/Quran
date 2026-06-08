@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Go you in unto the males of Al-'Alamin (people), (165)"And leave those whom Allah has created for you to be your wives? and subjected them to a terrible rain.
+So they patiently obeyed the command of Allah and persevered, and Allah sent upon the people a punishment which struck them all, and rained upon them stones of baked clay, piled up.
 
 ## Tafsir Ibn Kathir
 

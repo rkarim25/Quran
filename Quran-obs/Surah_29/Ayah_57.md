@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O My servants who believe! The answer to this problem is given in the next verse: كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ (Every person has to taste death - 29:57) that is, no one has any escape from death anywhere in any situation.
+Then unto Us you shall be returned.) meaning, 'wherever you are, death with catch up with you, so always obey Allah and be where Allah commands you to be, for this is better for you. Therefore worship Me (56)Everyone shall taste death.
 
 ## Tafsir Ibn Kathir
 

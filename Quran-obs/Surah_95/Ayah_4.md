@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Recitation of Surat At-Tin in the Prayer while Traveling Malik and Shu'bah narrated from 'Adi bin Thabit, who narrated that Al-Bara' bin 'Azib said, "The Prophet ﷺ used to recite in one of his Rak'ahs while traveling 'At-Tin waz-Zaytun' (Surat At-Tin), and I have never heard anyone with a nicer voice or recitation than him." The Group has recorded this Hadith in their books. The subject of the four oaths is: لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ (We have created man in the best composition...95:4).
+Verily, We created man in the best form.)(5. The word taqwim literally denotes 'to set a thing aright or lay the foundation straight or even; or to form something into an appropriate shape in a moderate regulation'.
 
 ## Tafsir Ibn Kathir
 

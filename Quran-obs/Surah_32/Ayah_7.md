@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Who made everything He has created good and He began the creation of man from clay (7)Then He made his offspring from semen of despised water (8)Then He fashioned him in due proportion, and breathed into him the soul; and He gave you hearing, sight and the sense of deduction. Everything is good in this world.
+Then, in those terms, everything is not good, in fact, it is circumscribed by a little detail, that is, whatever has not been allowed by Allah Ta` Hla is not good, but is, rather bad.' Allah knows best.
 
 ## Tafsir Ibn Kathir
 

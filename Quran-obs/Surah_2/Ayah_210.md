@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do they then wait for anything other than that Allah should come to them over the shadows of the clouds and the angels? The previous verses ended with a word of praise for the sincere.
+Since Islam is the name of that particular way of life which has been given through the Qur'an and Sunnah, there-fore, it does not matter, which facet of life it concerns, it may be beliefs and acts of worship or social dealings or business transactions or government and politics or trade and industry or any other field; what matters is one's entry into Islam as a complete system, an organic whole, unified, indivisible.
 
 ## Tafsir Ibn Kathir
 

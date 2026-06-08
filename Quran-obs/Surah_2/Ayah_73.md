@@ -53,7 +53,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when you killed a man and disagreed among yourselves as to the crime. The murderer had his supporters who wanted to hide his crime, and hence began accusing different people.
+But Allah brought forth that which you were Taktumun (72)So We said: "Strike him (the dead man) with a piece of it (the cow)." Thus Allah brings the dead to life and shows you His Ayat (proofs, evidences, etc.) so that you may understand . When this was done, the dead man came back to life, announced the name of his murderer, and died again.
 
 ## Tafsir Ibn Kathir
 

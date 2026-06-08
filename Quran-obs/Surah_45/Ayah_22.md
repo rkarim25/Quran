@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or do those who earn evil deeds think that We shall hold them equal with those who believe and do righteous good deeds, in their present life and after their death? The Hereafter: Divine Requital is Rationally Necessary Of the two verses mentioned, the first one argues rationally that Divine reward and punishment are necessary.
+Worst is the judgement that they make (21)And Allah has created the heavens and the earth with truth, in order that each person may be recompensed what he has earned, and they will not be wronged (22)Have you seen him who takes his own lust as his god?
 
 ## Tafsir Ibn Kathir
 

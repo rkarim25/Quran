@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Recitation of Surat At-Tin in the Prayer while Traveling Malik and Shu'bah narrated from 'Adi bin Thabit, who narrated that Al-Bara' bin 'Azib said, "The Prophet ﷺ used to recite in one of his Rak'ahs while traveling 'At-Tin waz-Zaytun' (Surat At-Tin), and I have never heard anyone with a nicer voice or recitation than him." The Group has recorded this Hadith in their books. وَالتِّينِ وَالزَّيْتُونِ (I swear by the Fig and the Olive...95:1).
+The first place is that of the fig and the olive, which was Jerusalem, where Allah sent 'Isa bin Maryam.
 
 ## Tafsir Ibn Kathir
 

@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. فَإِنَّ مَعَ الْعُسْرِ‌ يُسْرً‌ا إِنَّ مَعَ الْعُسْرِ‌ يُسْرً‌ا (So undoubtedly, along with hardship there is ease.
+The above narration further indicates that the Arabic definite article al- signifies that it is an article used to indicate previous knowledge [ that is, al- lil ` ahd ] and refers to the hardship of the Holy Prophet ﷺ and his Companions. In contrast to this, the word yusr 'ease' in both verses occur without the definite article.
 
 ## Tafsir Ibn Kathir
 

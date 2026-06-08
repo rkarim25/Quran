@@ -72,7 +72,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-No doubt, surely, all that is in the heavens and the earth belongs to Allah. It was said in verse أَثُمَّ إِذَا مَا وَقَعَ آمَنتُم بِهِ ۚ آلْآنَ.
+No doubt, surely, all that is in the heavens and the earth belongs to Allah.
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed, We have put the big stars in the heaven and We beautified it for the beholders (16)And We have guarded it (near heaven) from every outcast Shaytan (devil)(17)Except him (devil) who steals the hearing, then he… Divine Wisdom: Balanced Provision for Human Needs One sense of the expression: مِن كُلِّ شَيْءٍ مَّوْزُونٍ (everything in balance - 19) is what has been taken in the present translation of the text, that is, it was in His infinite wisdom that He caused everything that grows to grow in a determined measure, not less than that which would have made life difficult, and not too much which would have also brought difficulties of…
+"Sometimes the flaming fire hits one of these listeners before he is able to convey what he has heard to the one who is beneath him, and he is burned up, or sometimes the fire does not hit him until he has pit on to the one beneath him, so he brings it to the earth." Perhaps Sufyan said: "...until it reaches the earth and he puts it into the mouth of the sorcerer or fortune-teller, so that after telling a hundred lies he gets something right, and the people say, 'Did he not t…
 
 ## Tafsir Ibn Kathir
 

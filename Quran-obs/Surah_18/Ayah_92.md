@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then he followed (another) way (92)Until, when he reached between two mountains, he found before them a people who scarcely understood a word (93)They said: "O Dhul-Qarnayn! The Holy Qur'an does describe this state of the people Dhul-Qarnain found living towards the East meaning thereby that they were not accustomed to the use of ways and means like houses, tents and dresses to seek protection against the Sun.
+Shall we then pay you a tribute in order that you might erect a barrier between us and them?
 
 ## Tafsir Ibn Kathir
 

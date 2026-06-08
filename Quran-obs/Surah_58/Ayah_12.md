@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نَاجَيْتُمُ الرَّ‌سُولَ (0 those who believe, when you consult the Messenger of Allah, ...58:12) The Messenger of Allah ﷺ was preoccupied day and night with educating the people and improving their quality of life.
+But if you find not (the means for it), then verily, Allah is Oft-Forgiving, Most Merciful (12)Are you afraid of spending in charity before your private consultation (with him)?
 
 ## Tafsir Ibn Kathir
 

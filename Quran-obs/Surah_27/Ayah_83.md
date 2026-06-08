@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) the Day when We shall gather out of every nation a Fawj of those who denied Our Ayat, and they shall be driven (83)Till, when they come, He will say: "Did you deny My Ayat whereas you comprehended them not by knowledge, or what was it that you used to do? (and they will be kept under control - 27:83), The word used here is derived from Waz', which means to stop.
+Gathering the Wrongdoers on the Day of Resurrection Allah tells us about the Day of Resurrection when the wrongdoers who disbelieved in the signs and Messengers of Allah will be gathered before Allah, so that He will ask them about what they did in this world, rebuking, scolding and belittling them. This is because they wronged themselves in the world, and now they have returned to the One Who sees the unseen and the seen, from Whom nothing can be hidden.
 
 ## Tafsir Ibn Kathir
 

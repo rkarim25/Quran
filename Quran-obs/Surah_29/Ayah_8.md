@@ -100,7 +100,7 @@ This verse was revealed in connection with Sayyidna Sa'd Ibn Abi Waqqas ؓ . He 
 
 ## Tafsir Summary
 
-And We have enjoined on man to be dutiful to his parents; but if they strive to make you associate with Me, which you have no knowledge of, then obey them not. وَوَصَّيْنَا الْإِنسَانَ (And We have instructed man - 29:8).
+And We have enjoined on man to be dutiful to his parents; but if they strive to make you associate with Me, which you have no knowledge of, then obey them not. The Command to be Good and Dutiful to Parents Allah commands His servants to be dutiful to parents, after urging them to adhere to belief in His Tawhid, because a person's parents are the cause of his existence.
 
 ## Tafsir Ibn Kathir
 

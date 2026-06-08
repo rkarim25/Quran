@@ -42,7 +42,7 @@ So, they pursued them at sunrise (60)And when the two hosts saw each other, the 
 
 ## Tafsir Summary
 
-So, they pursued them at sunrise (60)And when the two hosts saw each other, the companions of Musa said: "We are sure to be overtaken. The reasoning for this he gave إِنَّ مَعِيَ رَ‌بِّي سَيَهْدِينِ (62) "Indeed with me is my Lord.
+It is a special privilege of the Ummah of Muhammad ﷺ that his followers are also honoured by the company of Allah when they are with their Rasul.
 
 ## Tafsir Ibn Kathir
 

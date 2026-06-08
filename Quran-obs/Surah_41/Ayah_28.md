@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We have assigned for them intimate companions (in this world), who have made fair seeming to them, what was before them and what was behind them. لَا تَسْمَعُوا لِهَـٰذَا الْقُرْ‌آنِ وَالْغَوْا فِيهِ (Do not listen to this Qur'an, and make noiseduring its recitation, - 41:26) When all the efforts of the disbelievers failed in confronting the Holy Qur'an, they started doing such mischievous acts as mentioned in this verse.
+Therein will be for them the eternal home, a recompense for that they used to deny Our Ayat.
 
 ## Tafsir Ibn Kathir
 

@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So if you are in doubt concerning that which We have revealed unto you, then ask those who are reading the Book before you. In the third verse (94), the address is obviously to the Holy Prophet ﷺ .
+According to Tafsir Mazhari, this verse tells us that anyone in doubt about some religious matter is duty-bound to have his doubts removed by asking genuine ` Ulama' (religious scholars whose learning, honesty and adherence to Qur'an, and Sunnah is well recognized, popularly referred to as ` Ulama' al-Haqq).
 
 ## Tafsir Ibn Kathir
 

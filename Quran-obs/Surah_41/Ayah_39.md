@@ -99,7 +99,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And from among His signs are the night and the day, and the sun and the moon. وَهُمْ لَا يَسْأَمُونَ (and they do not get weary.
+Verily, He Who gives it life, surely is able to give life to the dead.
 
 ## Tafsir Ibn Kathir
 

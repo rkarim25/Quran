@@ -94,7 +94,7 @@ In the first sentence of verse 22, it was said: أَفَمَن شَرَ‌حَ �
 
 ## Tafsir Summary
 
-See you not that Allah sends down water from the sky, and causes it to penetrate the earth, as water springs, and afterward thereby produces crops of different colors, and afterward they wither and you see them turn yellow; then He makes them dry and broken pieces. In the first sentence of verse 22, it was said: أَفَمَن شَرَ‌حَ اللَّـهُ صَدْرَ‌هُ لِلْإِسْلَامِ فَهُوَ عَلَىٰ نُورٍ‌ مِّن رَّ‌بِّهِ (So I ask about a person whose heart Allah has opened up for Islam, and consequently he proceeds in a light from his Lord.).
+Verily, in this is a reminder for men of understanding (21)Is he whose breast Allah has opened to Islam, so that he is in light from his Lord?
 
 ## Tafsir Ibn Kathir
 

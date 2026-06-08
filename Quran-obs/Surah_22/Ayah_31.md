@@ -95,7 +95,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-That and whoever honors the sacred things of Allah, then that is better for him with his Lord. حُرُ‌مَاتِ اللَّـهِ (22:30) are the things sanctified by Allah Ta’ ala, that is the religious laws.
+The detail of these animals is given in other verses, such as carrion, an animal which is beaten to death, or slaughtered without reciting the name of Allah, or in the name of someone other than Allah. So shun the Rijs of the idols, and shun false speech (30)Hunafa' Lillah, not associating partners unto Him; and whoever assigns partners to Alla .
 
 ## Tafsir Ibn Kathir
 

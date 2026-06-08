@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who disbelieved say: "Why is not a sign sent down to him from his Lord" Say: "Verily, Allah sends astray whom He wills and guides unto Himself those who turn to Him in repentance. At the beginning of the section, human beings were divided into two kinds - those who are obedient to Allah Ta’ ala and those who are disobedient to Him.
+There is a Hadith which mentions that the idolators asked the Prophet to turn Mount As-Safa into gold and, they also asked him for a spring to gush forth for them and to remove the mountains from around Makkah and replace them with green fields and gardens. Now, in the present verses, stated there are the attributes and signs, and punishments, of the other kind of people.
 
 ## Tafsir Ibn Kathir
 

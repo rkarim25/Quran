@@ -140,7 +140,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And he (the man) from Egypt who bought him, said to his wife: "Make his stay comfortable, maybe he will profit us or we shall adopt him as a son." Thus did We establish Yusuf in the land, that We might teach him the interpretation of events. Described in the previous verses was an early account of Sayyidna Yusuf (علیہ السلام) as to how the people from the caravan took him out of the well, and how his brothers made him out to be their escaped slave and traded him for a few dirhams.
+And he (the man) from Egypt who bought him, said to his wife: "Make his stay comfortable, maybe he will profit us or we shall adopt him as a son." Thus did We establish Yusuf in the land, that We might teach him the interpretation of events. Yusuf in Egypt Allah mentions the favors that He granted Yusuf, peace be on him, by which He made the man from Egypt who bought him, take care of him and provide him with a comfortable life.
 
 ## Tafsir Ibn Kathir
 

@@ -92,7 +92,7 @@ Sayyidna ` Abdullah Ibn ` Umar ؓ has said that this verse was revealed in conne
 
 ## Tafsir Summary
 
-In houses which Allah has ordered to be raised, in them His Name is remembered. By men whom no trade or sale makes neglectful of the remembrance of Allah - 37.
+This verse describes that the involvement in trade and sales does not stop the righteous believers from the remembrance of Allah. This verse describes special attributes of those believers who are the distinguished recipients of the Nur of guidance and remain in the mosques.
 
 ## Tafsir Ibn Kathir
 

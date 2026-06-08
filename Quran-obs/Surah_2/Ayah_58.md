@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when We said: "Enter this town (Jerusalem) and eat bountifully therein with pleasure and delight wherever you wish, and enter the gate in prostration (or bowing with humility) and say: 'Forgive us,' and We shall forgive you your sins and shall increase (reward) for the good-doers. There are two views as to when this incident took place.
+the plague) is a Rijz, a punishment with which some nations who were before you were punished.) The basis of this Hadith was also collected in the Two Sahihs.
 
 ## Tafsir Ibn Kathir
 

@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "I know not whether that which you are promised is near or whether my Lord will appoint for it a distant term. Difference between 'Knowledge of the Unseen' and 'Reports of the Unseen Events' The exception made here is the response to the doubt raised by unintelligent people.
+In this noble Ayah is an evidence that the Hadith that many of the ignorant people often circulate, which says that the Prophet ﷺ will not remain under the earth more than one thousand years (i.e., the Hour will be before that period) is a baseless lie. Except to a Messenger whom He has chosen,) This includes the angelic Messenger and the human Messenger.
 
 ## Tafsir Ibn Kathir
 

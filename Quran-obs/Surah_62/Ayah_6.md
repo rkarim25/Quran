@@ -76,7 +76,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The likeness of those who were entrusted with the Tawrah, but did not carry it, is as the likeness of a donkey which carries huge burdens of books. (Say, "0 those who are Jews, if you claim that you are the friends of Allah to the exclusion of all other people, then express your desire for death, if you are true…62:6) Friends of Allah to the exclusion of all other p…
+Obviously, if a person believes that the blessings of the Hereafter are a zillion times better than the blessings of this world, he must, of necessity, wish for death, so that he is able to enter Paradise sooner and start enjoying its blessings forthwith.
 
 ## Tafsir Ibn Kathir
 

@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And, when they will dispute in the Fire, the weak will say to those who were arrogant: "Verily, we followed you, can you then take from us some portion of the Fire? In the last verse cited here, it was said: النَّارُ‌ يُعْرَ‌ضُونَ عَلَيْهَا غُدُوًّا وَعَشِيًّا ۖ وَيَوْمَ تَقُومُ السَّاعَةُ أَدْخِلُوا آلَ فِرْ‌عَوْنَ أَشَدَّ الْعَذَابِ.
+And the invocation of the disbelievers is nothing but in vain!
 
 ## Tafsir Ibn Kathir
 

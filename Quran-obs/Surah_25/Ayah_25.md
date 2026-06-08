@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) the Day when the heaven shall be rent asunder with clouds, and the angels will be sent down, with a grand descending (25)The sovereignty on that Day will be the true (sovereignty) of the Most Gracious, and it will be a hard Day for the disbelievers (26)And (remember) the Day when the wrongdoer will bite at his hands, he will say: "Oh! تَشَقَّقُ السَّمَاءُ بِالْغَمَامِ (The sky will break open with a cloud - 25:25).
+The Terrors of the Day of Resurrection, and How the Wrongdoers Will Wish That They Had Taken a Path With the Messenger (ﷺ) Here Allah tells us about the terror of the Day of Resurrection and the tremendous events that will happen, including the splitting of heavens when they are pierced by the clouds, that is the shadow of the magnificent light which dazzles all sight.
 
 ## Tafsir Ibn Kathir
 

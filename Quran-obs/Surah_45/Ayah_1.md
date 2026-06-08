@@ -10,7 +10,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. لَا يَذُوقُونَ فِيهَا الْمَوْتَ إِلَّا الْمَوْتَةَ الْأُولَىٰ (They will not taste death therein, except for the first death (they faced in the world) - 44:56).
+In other words, they shall suffer no death other than the first death which they had encountered at the end of their lives in this world.
 
 ## Tafsir Ibn Kathir
 

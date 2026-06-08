@@ -66,7 +66,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And among them are some who listen to you till when they go out from you, they say to those who have received knowledge: "What is it that he has said just now? In this verse the address is to the Holy Prophet ﷺ and he is, through an imperative verb, commanded to know that there is no object of worship besides Allah.
+The Holy Prophet ﷺ is infallible and immune from sin, and therefore the possibility that he would commit sins is unthinkable.
 
 ## Tafsir Ibn Kathir
 

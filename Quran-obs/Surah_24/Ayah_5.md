@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who accuse chaste women, and produce not four witnesses, flog them with eighty stripes, and reject their testimony forever. Except those who repent afterwards and mend their ways; then, Allah is All-Forgiving, Very-Merciful.
+The flogging has been carried out regardless of whether he repents or persists, and after that there is no further punishment, as is agreed among the scholars.
 
 ## Tafsir Ibn Kathir
 

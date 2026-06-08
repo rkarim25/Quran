@@ -76,7 +76,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Truly, my Lord has guided me to a straight path, a right religion, the religion of Ibrahim, Hanifan (monotheism) and he was not of the Mushrikin. These are the last five verses of Surah Al-An'am.
+Islam is the Straight Path Allah commands His Prophet ﷺ, the chief of the Messengers, to convey the news of being guided to Allah's straight path. He (Allah) chose him (as an intimate friend) and guided him to a straight path.
 
 ## Tafsir Ibn Kathir
 

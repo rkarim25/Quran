@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-His companion said to him during his discussion: "Do you disbelieve in Him Who created you out of dust, then out of Nutfah, then fashioned you into a man? The word: حُسبانا - (husbana) in verse 40 has been explained by Qatadah as 'punishment' in an absolute sense, by Sayyidna Ibn ` Abbas ؓ as 'fire' and by some as 'stoning.' As for what appears after that in the Qur'an: أُحِيطَ بِثَمَرِ‌هِ (And its produce was struck by destruction from all sides - 42), it obviously means that some major calamity hit his gardens, wealth and things of luxury reducing everything to ruins.
+Seeing that you were dead and He gave you life)[2:28] meaning, how can you reject your Lord and His clear signs to you, which every one recognizes in himself, for there is no one among His creatures who does not know that he was nothing, then he came to be, and his existence is not due to himself or any other creature.
 
 ## Tafsir Ibn Kathir
 

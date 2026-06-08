@@ -71,7 +71,7 @@ He also narrates that the Holy Prophet ﷺ said: "One who goes unto a woman in m
 
 ## Tafsir Summary
 
-And those of your women who commit illegal sexual intercourse, take the evidence of four witnesses from among you against them; and if they testify, confine them (i.e. The above discussion was based on the assumptions that both verses 15 and 16 relate to the fornication or adultery committed between men and women.
+Surely, Allah is Ever the One Who accepts repentance, (and He is) Most Merciful .
 
 ## Tafsir Ibn Kathir
 

@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And on the Day of Resurrection you will see those who lied against Allah – their faces will be black. In verse 59, it was said: بَلَىٰ قَدْ جَاءَتْكَ آيَاتِي فَكَذَّبْتَ بِهَا (Why not?
+And on the Day of Resurrection you will see those who lied against Allah – their faces will be black.
 
 ## Tafsir Ibn Kathir
 

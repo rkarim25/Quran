@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who had Taqwa will be led to Paradise in groups till when they reach it, and its gates will be opened and its keepers will say: "Salam 'Alaykum (peace be upon you)! In verse 69, it was said: وَجِيءَ بِالنَّبِيِّينَ وَالشُّهَدَاءِ (and the prophets and the witnesses will be brought,) It means that, at the time of reckoning on the plains of Resurrection, present there will be all prophets as well as all other witnesses.
+this is not mentioned; it is left for the imagination to think of its dearest wishes and be filled with hope. It is known from the Sahih Hadiths that Paradise has eight gates.
 
 ## Tafsir Ibn Kathir
 

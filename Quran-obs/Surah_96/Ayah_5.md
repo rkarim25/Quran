@@ -32,7 +32,7 @@ As stated earlier, these five verses of this Surah represent the very beginning 
 
 ## Tafsir Summary
 
-This was the First of the Qur'an revealed In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 4] الَّذِي عَلَّمَ بِالْقَلَمِ (Who imparted knowledge by means of the Pen.) The preceding verse spoke of the creation of man.
+When it cries, it becomes a cause of concern for the parents to find out what is wrong.
 
 ## Tafsir Ibn Kathir
 

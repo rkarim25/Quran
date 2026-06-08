@@ -76,7 +76,7 @@ This describes the hypocrites that when a Surah is revealed to the Messenger of 
 
 ## Tafsir Summary
 
-See they not that they are put in trial once or twice every year? In verse 126: يُفْتَنُونَ فِي كُلِّ عَامٍ مَّرَّ‌ةً أَوْ مَرَّ‌تَيْنِ (they are put to trial every year once or twice), hypocrites have been warned about their incorrigible hypocrisy and constant breach of trust which brought all sorts of troubles for them every year once or twice.
+Yet, they turn not in repentance, nor do they learn a lesson.) They neither repent from their previous sins nor learn a lesson for the future. Incidentally, the count of ` once' or ` twice' here does not signify the numbers one and two as such.
 
 ## Tafsir Ibn Kathir
 

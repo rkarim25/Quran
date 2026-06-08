@@ -113,7 +113,7 @@ Sa'id bin Jubayr said that Ibn 'Abbas said, "Some bedouins used to come to the s
 
 ## Tafsir Summary
 
-So when you have accomplished your Manasik, remember Allah as you remember your forefathers or with far more remembrance. The prohibition of Jahili customs at Mina In the verses 199 to 201, some Jahili جاھلی customs have been corrected.
+This is why the Sunnah encourages reciting this Du'a' (i.e., in the Ayah about gaining a good deed in this life and the Hereafter).
 
 ## Tafsir Ibn Kathir
 

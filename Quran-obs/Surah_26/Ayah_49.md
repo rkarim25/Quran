@@ -95,7 +95,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "You have believed in him before I give you leave. بِعِزَّةِ فِرْ‌عَوْنَ (By the majesty of the Pharaoh - 26:44).
+Then Fir'awn threatened to cut off their hands and feet, and crucify them. It is not permitted to make an oath of this nature under the Islamic law (because swearing in the name of someone other than Allah is a sin).
 
 ## Tafsir Ibn Kathir
 

@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And say to those who do not believe: "Act according to your ability and way, We are acting (121)And you wait! Difference: Blameworthy and Praiseworthy When it was said in the fifth verse (118) - ` had your Lord willed, He would have made all the people a single community' - the sense is that had it been the will of Allah, He would have made all human beings accept Islam by force.
+He made His Word uppermost (victorious), and the word of those who disbelieved lowly and disgraced.
 
 ## Tafsir Ibn Kathir
 

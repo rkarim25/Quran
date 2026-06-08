@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Introduction to Surat Ar-Rahman Imam Ahmad recorded that Zirr said that a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! Grammatically speaking, the verb عَلَّمَ ` allama [ to teach ] requires two objects, the direct and the indirect: [ 1] that of which the knowledge is imparted; and [ 2] he to whom the knowledge is imparted.
+The fact that the second object has not been explicitly specified indicates its generality, that is, it refers to the totality of human beings.
 
 ## Tafsir Ibn Kathir
 

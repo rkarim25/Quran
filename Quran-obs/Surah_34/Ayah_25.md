@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Who gives you provision from the heavens and the earth?" Say: "Allah. Consideration of the psychology of the addressee in debates and avoidance of any approach that may provoke violent attitude In verse 24: وَإِنَّا أَوْ إِيَّاكُمْ لَعَلَىٰ هُدًى أَوْ فِي ضَلَالٍ مُّبِينٍ (And We or you are either on the right path or in open error - 34:24), this address is beamed at polytheists and disbelievers.
+In their presence, no sensible person could say that tauhid (Oneness of Allah or pure monotheism) and shirk (the attribution of partners in the pristine divinity of Allah) are equally true and that the adherents of both are following the truth.
 
 ## Tafsir Ibn Kathir
 

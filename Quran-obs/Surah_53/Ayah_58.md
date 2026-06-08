@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This is a warner from the warners of old (56)The Azifah draws near (57)None besides Allah can avert it (58)Do you then wonder at this recitation (59)And you laugh at it and weep not (60)While you are Sāmidūn (61)So fall… أَزِفَتِ الْآزِفَةُ لَيْسَ لَهَا مِن دُونِ اللَّـهِ كَاشِفَةٌ (The Imminent (Hour) has approached.
+This is a warner from the warners of old (56)The Azifah draws near (57)None besides Allah can avert it (58)Do you then wonder at this recitation (59)And you laugh at it and weep not (60)While you are Sāmidūn (61)So fall you down in prostration to Allah and worship Him .
 
 ## Tafsir Ibn Kathir
 

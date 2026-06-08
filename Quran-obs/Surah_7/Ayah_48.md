@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the men on Al-A'raf will call unto the men whom they would recognize by their marks, saying: "Of what benefit to you was your gathering, and your arrogance? The fifth verse (48) also mentions that the people of A` raf will address the people of Hell and admonish them by saying that the wealth and power that they depended on, and because of which they had become proud and arrogant, went the way of waste for all those strengths did not work for them at their hour of need.
+The fifth verse (48) also mentions that the people of A` raf will address the people of Hell and admonish them by saying that the wealth and power that they depended on, and because of which they had become proud and arrogant, went the way of waste for all those strengths did not work for them at their hour of need.
 
 ## Tafsir Ibn Kathir
 

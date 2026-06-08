@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-..And remember Our slave Dawud, endued with Al-Ayd. The word: الْحِكْمَةَ (al-hikmah) appearing in verse 38:20: وَآتَيْنَاهُ الْحِكْمَةَ وَفَصْلَ الْخِطَابِ (and gave him wisdom, and a decisive speech), as obvious, means wisdom, that is, 'We had blessed him with the precious assets of reason, insight and vision.' Some elders have suggested that it means 'nubuwwah', the station and mission of a prophet.
+Verily, he was ever oft-returning in all matters and in repentance (17)Verily, We made the mountains to glorify Our praises with him in the 'Ashi and Ishraq (18)And (so did) the birds assembled, all obedient to him (19)We made his kingdom strong and gave him Al-Hikmah and sound judgement in speech and decision .
 
 ## Tafsir Ibn Kathir
 

@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We have not sent you except as a giver of glad tidings and a warner to all mankind, and most of men know not (28)And they say: "When is this promise if you are truthful? That Allah is One and that His power is absolute was the subject in previous verses.
+The entire earth has been made a Masjid and a means of purification for me, so that when the time for prayer comes, any man of my Ummah should pray.
 
 ## Tafsir Ibn Kathir
 

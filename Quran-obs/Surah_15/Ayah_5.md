@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And never did We destroy a township but there was a known decree for it (4)No nation can advance its term, nor delay it (5) Every Township has its allotted Time From: ذَرْ‌هُمْ يَأْكُلُوا (Let them eat ...3) we can see that the making of eating and drinking the real occupation and aim of life, and keeping glued to long-drawn material plans while surrounded by countless things of worldly comfort, and becoming totally heedless to death, is something which can be done only by the disbelievers.
+And never did We destroy a township but there was a known decree for it (4)No nation can advance its term, nor delay it . As for plans made to achieve religious objectives, or those made to guard the future interests of a people or country, they are not included here - because, that is a form of the concern for 'Akhirah itself.
 
 ## Tafsir Ibn Kathir
 

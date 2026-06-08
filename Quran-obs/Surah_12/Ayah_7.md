@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, in Yusuf and his brethren there were Ayat for those who ask (7)When they said: "Truly, Yusuf and his brother are dearer to our father than we, while we are 'Usbah (a group). In the first of the fourteen verses cited above (7), a notice of warning has been served to the effect that the story of Yusuf, peace be on him, should not be taken as a common story - because, in it, there are great signs of the perfect power of Allah Ta’ ala, and His instructions, both for those who have asked and for those who would seek guidance through it.
+May Allah forgive them, and indeed, He is the Most Merciful among those who have mercy, for they intended to carry out a "grave error." Ibn Abi Hatim collected this statement, from the route of Salamah bin Al-Fadl from Muhammad bin Ishaq.
 
 ## Tafsir Ibn Kathir
 

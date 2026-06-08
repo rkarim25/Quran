@@ -115,7 +115,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And a believing man of Fir'awn's family, who hid his Faith said: "Would you kill a man because he says: 'My Lord is Allah,' and he has come to you with clear signs from your Lord? In verse 28, it was said: يَكْتُمُ إِيمَانَهُ (who had kept his faith secret).
+If he is telling the truth and you harm him, then some of what he is warning about will happen to you too, because he is threatening you with punishment in this world and in the Hereafter if you go against him. And if he is a liar, upon him will be (the sin of) his lie; but if he is telling the truth, then some of that (calamity) wherewith he threatens you will befall on you." Verily, Allah guides not one who is a transgressor, a liar (28)"O my people!
 
 ## Tafsir Ibn Kathir
 

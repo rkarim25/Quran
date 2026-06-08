@@ -14,7 +14,7 @@ Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His M
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. طه (Ta-Ha) Many Commentators have assigned different meanings to this word.
+This opening ayah declares: Ṭâ-Hâ.
 
 ## Tafsir Ibn Kathir
 

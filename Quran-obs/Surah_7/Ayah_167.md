@@ -87,7 +87,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when your Lord declared that He would certainly keep on sending against them, till the Day of Resurrection, those who would afflict them with a humiliating torment. The first two verses (167 and 168) have referred to the two punishments given to the Israelites.
+Verily, your Lord is quick in retribution and certainly He is Oft-Forgiving, Most Merciful .
 
 ## Tafsir Ibn Kathir
 

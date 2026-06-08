@@ -22,7 +22,7 @@ Ibn Jarir recorded from 'Amir bin 'Abdullah bin Az-Zubayr that he said, "Abu Bak
 
 ## Tafsir Summary
 
-The Recitation of Surat Al-Layl in the 'Isha' Prayer The statement of the Prophet ﷺ to Mu'adh has already preceded, where he said, فَدَمْدَمَ عَلَيْهِمْ رَ‌بُّهُم بِذَنبِهِمْ فَسَوَّاهَا (...
+The word damdama refers to such tormenting scourge as is unleashed on a person or a nation again and again, until it destroys or crushes them completely.
 
 ## Tafsir Ibn Kathir
 

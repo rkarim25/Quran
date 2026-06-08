@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Musa said to his people: "O my people! The saying of Sayyidna Musa (علیہ السلام) in the first verse (20) was his introductory remark to the Divine command which appears in the following verse (21) in the words: يَا قَوْمِ ادْخُلُوا الْأَرْ‌ضَ الْمُقَدَّسَةَ الَّتِي كَتَبَ اللَّـهُ لَكُمْ (0 my people, enter the Holy Land which Allah has destined for you ...).
+According to later narrations, the whole country of Syria is the Holy Land - it is just that some narrators have described a certain part of the country of Syria while some others have identified the whole of it.
 
 ## Tafsir Ibn Kathir
 

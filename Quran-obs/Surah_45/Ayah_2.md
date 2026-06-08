@@ -34,7 +34,7 @@ This entire Surah was revealed at Makkah except for one verse. According to one 
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. This entire Surah was revealed at Makkah except for one verse.
+The revelation of the Book is from Allah, the Almighty, the All-Wise.)(3.
 
 ## Tafsir Ibn Kathir
 

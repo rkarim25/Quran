@@ -85,7 +85,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And fear a Day (of Judgement) when a person shall not avail another, nor will intercession be accepted from him, nor will compensation be taken from him, nor will they be helped (48) After Allah reminded the Children of Israel of the favors that He has granted them, He warned them about the duration of the torment which He will punish them with on the Day of Resurrection. Verse 47 asks the Israelites to call to their minds the blessing of Allah, so that the recognition of the benefits they have received may induce them to be thankful to Allah and thus to obey Him.
+And fear a Day (of Judgement) when a person shall not avail another, nor will intercession be accepted from him, nor will compensation be taken from him, nor will they be helped . No repeal or ransom will be accepted for them, all courtesy towards them will have ceased, along with any helpful intercession.
 
 ## Tafsir Ibn Kathir
 

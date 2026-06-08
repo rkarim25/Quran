@@ -85,7 +85,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they assign a portion of that which We have provided them with, to what they have no knowledge of (false deities). The sense of the sentence: أَلَا سَاءَ مَا يَحْكُمُونَ (Beware evil is what they decide) appearing at the end of the second verse (59) actually incorporates these very two traits, as it has been pointed out in Tafsir Al-Bahr a1-Muhit with reference to Ibn ` Atiyyah.
+That their decision to take girls to be a punishment and a disgrace is by itself an evil decision; and (2) that the thing they would consider a matter of disgrace for their own selves, they would be too ready to attribute to Allah Ta’ ala.
 
 ## Tafsir Ibn Kathir
 

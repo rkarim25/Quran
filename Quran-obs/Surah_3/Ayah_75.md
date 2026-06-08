@@ -158,7 +158,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Among the People of the Scripture is he who, if entrusted with a Qintar (a great amount of wealth), will readily pay it back; and among them there is he who, if entrusted with a single silver coin, will not repay it unle… In the previous verses (70-72), breach of faith committed by the people of the Book was mentioned.
+Among the People of the Scripture is he who, if entrusted with a Qintar (a great amount of wealth), will readily pay it back; and among them there is he who, if entrusted with a single silver coin, will not repay it unless you constantly stand demanding, because they say: "There is no blame on us to betray and take the properties of the illiterates (Arabs)." But they tell a lie against Allah while they know it (75)Yes, whoever fulfills his pledge and fears Allah much; verily,…
 
 ## Tafsir Ibn Kathir
 

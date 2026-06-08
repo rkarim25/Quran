@@ -99,7 +99,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And do not kill anyone whose killing Allah has forbidden, except for a just cause. This eighth injunction is about the prohibition of killing unjustly.
+He who has killed a person unjustly [ for his punishment is that the waliyy (legal heir) of the person killed can get him killed under the law of qisas (even retaliation)].
 
 ## Tafsir Ibn Kathir
 

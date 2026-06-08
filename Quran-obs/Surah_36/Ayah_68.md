@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And he whom We grant long life – We reverse him in creation. In the last of the verses cited above, it was said: وَمَن نُّعَمِّرْ‌هُ نُنَكِّسْهُ فِي الْخَلْقِ أَفَلَا يَعْقِلُونَ (And whomsoever We give long life, we reverse him in creation.
+This is not poetry, as some of the ignorant disbelievers of the Quraysh claimed; neither is it sorcery, a fabrication or a magic spell, as the misguided and ignorant people variously suggested.
 
 ## Tafsir Ibn Kathir
 

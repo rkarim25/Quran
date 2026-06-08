@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who are stingy and encourage people to be stingy and hide what Allah has bestowed upon them of His bounties. Inverse 38, beginning with the words, وَالَّذِينَ يُنفِقُونَ another trait in the character of the arrogant has been described.
+And We have prepared for the disbelievers a disgraceful torment (37)And (also) those who spend of their wealth to be seen of men, and believe not in Allah and the Last Day, and whoever takes Shaytan as an intimate; then what a dreadful intimate he has (38)And what loss have they if they had believed in Allah and in the Last Day, and they spend out of what Allah has given them for sustenance?
 
 ## Tafsir Ibn Kathir
 

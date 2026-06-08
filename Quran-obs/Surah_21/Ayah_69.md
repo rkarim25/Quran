@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "Burn him and help your gods, if you will be doing. قُلْنَا يَا نَارُ‌ كُونِي بَرْ‌دًا وَسَلَامًا عَلَىٰ إِبْرَ‌اهِيمَ (We said, "0 fire, be cold and safe for Ibrahim." - 21:69) As stated above, one explanation of the fire becoming cool and comfortable for Sayyidna Ibrahim (علیہ السلام) could be that it ceased to be fire and changed into a pleasant breeze.
+Be you cool and safety for Ibrahim!
 
 ## Tafsir Ibn Kathir
 

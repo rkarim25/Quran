@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat An-Nasr It has been mentioned previously that it (Surat An-Nasr) is equivalent to one-fourth of the Qur'an and that Surat Az-Zalzalah is equivalent to one-fourth of the Qur'an. Verse [ 110:2] وَرَ‌أَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّـهِ أَفْوَاجًا (And you see people entering Allah's [ approved ] religion in multitudes,) Before the conquest of Makkah there were many people who were almost convinced of the verity of the Holy Prophet Muhammad ﷺ and Islam, but there were several factors that were obstructing them to embrace the religion.
+They said, "If he (Muhammad ﷺ is victorious over his people, then he is a (true) Prophet." So when Allah gave him victory over Makkah, they entered into the religion of Allah (Islam) in crowds.
 
 ## Tafsir Ibn Kathir
 

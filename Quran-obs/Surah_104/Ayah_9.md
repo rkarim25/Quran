@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 104:7] تَطَّلِعُ عَلَى الْأَفْئِدَةِ (that will peep into the hearts).
+Verily, it shall Mu'sadah upon them,)(9. This means that the person finds fault with people and belittles them.
 
 ## Tafsir Ibn Kathir
 

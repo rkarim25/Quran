@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The Subject-matter of Surah Al-Fil and Surah Al-Quraish All commentators concur that the subject-matter of the two Surahs is so closely related that in some of the copies of the Qur'an they had been written as a single Surah without the insertion of bismillah between them.
+They (the Companions) wrote "In the Name of Allah, the Most Gracious, the Most Merciful" on the line (i.e., the space) between these two Surahs. Then they would return to their city in safety during their journeys due to the respect that the people had for them because they were the residents of Allah's sanctuary.
 
 ## Tafsir Ibn Kathir
 

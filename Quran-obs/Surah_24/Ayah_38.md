@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In houses which Allah has ordered to be raised, in them His Name is remembered. Toward the end of the verse their reward is described that they shall be graced with the best reward for their actions by Allah Ta’ ala, and then the verse says: وَيَزِيدَهُم مِّن فَضْلِهِ (and will give them more out of His grace - 38).
+The example of the deeds of the first category is that of a mirage, which is nothing but illusion of sight.
 
 ## Tafsir Ibn Kathir
 

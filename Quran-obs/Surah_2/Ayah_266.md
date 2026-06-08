@@ -152,7 +152,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Would any of you wish to have a garden with date palms and vines, with rivers flowing underneath, and all kinds of fruits for him therein, while he is striken with old age, and his children are weak (not able to look after themselves), then it is struck with a fiery whirlwind, so that it is burnt? In verse 266, the sixth under discussion, the statement, that صدقہ sadaqah can be rendered void and rejected if one acts against conditions set forth for the acceptance of charitable spendings, has been illustrated with yet another example.
+Would any of you wish to have a garden with date palms and vines, with rivers flowing underneath, and all kinds of fruits for him therein, while he is striken with old age, and his children are weak (not able to look after themselves), then it is struck with a fiery whirlwind, so that it is burnt?
 
 ## Tafsir Ibn Kathir
 

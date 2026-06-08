@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, there has come unto you a Messenger from among yourselves. These are the last verses of Surah At-Taubah where it has been declared that the Holy Prophet ﷺ is very kind and merciful for the entire creation of Allah, particularly so for Muslims.
+There is no God but He, in Him I put my trust and He is the Lord of the Mighty Throne.
 
 ## Tafsir Ibn Kathir
 

@@ -71,7 +71,7 @@ Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur re
 
 ## Tafsir Summary
 
-Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur recorded that Sa'id bin Jubayr said, "I asked Ibn 'Abbas about Surat Al-Hashr and he said, 'It was revealed about Bani An-Nadir.'" Al-Bukhari and Muslim recorded it using another chain of narration from Ibn 'Abbas. (1) The original word used in the text is 'hashr' which means 'gathering' or 'mustering' and after which this Surah is named.
+And had it not been that Allah had decreed exile for them, He would certainly have punished them in this world; and in the Hereafter theirs shall be the torment of the Fire.)(4. 'Urwah, As-Suddi and Ibn Zayd said that Allah decreed that the Jews would be punished in the life of this world and face the torment of the fire of Hell He prepared for them in the Hereafter.
 
 ## Tafsir Ibn Kathir
 

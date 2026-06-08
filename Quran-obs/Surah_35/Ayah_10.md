@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And it is Allah Who sends the winds, so that they raise up the clouds, and We drive them to a dead land, and revive therewith the earth after its death. In verse 10, it was said: إِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ يَرْ‌فَعُهُ (Towards Him, ascends the pure word, and the righteous deed uplifts it).
+And the sense of ascending to and being helped to ascend is being accepted in the sight of Allah, therefore, the gist of the sentence would be that good word, be it the kalimah of tauhid or others words of the remembrance and glorification of Allah, nothing of it gets to be acceptable with Allah without good deed.
 
 ## Tafsir Ibn Kathir
 

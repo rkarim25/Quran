@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "You are only one of those bewitched! so they were seized by the torment of the Day of Canopy.
+And verily, your Lord, He is truly, the All-Mighty, the Most Merciful.)(26:8-9) meaning, He is All-Mighty in His punishment of the disbelievers, and Most Merciful towards His believing servants.
 
 ## Tafsir Ibn Kathir
 

@@ -33,7 +33,7 @@ Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His M
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. مَا أَنزَلْنَا عَلَيْكَ الْقُرْ‌آنَ لِتَشْقَىٰ (We did not reveal the Qur'an to you to [ make you ] face hardship - 20:2) The word لِتَشْقَىٰ is derived from شقاء which means pain and distress.
+To Him belongs the Best Names.) This means, 'He Who revealed this Qur'an to you (O Muhammad), He is Allah, there is no God except Him.
 
 ## Tafsir Ibn Kathir
 

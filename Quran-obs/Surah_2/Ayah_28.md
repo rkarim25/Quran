@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-How can you disbelieve in Allah seeing that you were dead and He gave you life? The earlier verses affirmed the existence and the Oneness of Allah, and prophethood, giving self-evident proofs and refuting the whimsical and false notions of the doubters and the disbelievers.
+The second verse refers to the general blessings which are common to man and other creatures -- firstly, the earth and all that it contains and on which man's life immediately depends, and secondly, the skies with which life on earth is directly related.
 
 ## Tafsir Ibn Kathir
 

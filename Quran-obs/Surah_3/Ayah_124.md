@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when you said to the believers, "Is it not enough for you that your Lord should help you with three thousand angels sent down? Badr : Location and Importance Badr is located about eighty miles south-west of Madinah and used to be a halting-place while travelling between Makkah and Madinah, before the modern Tariq al-Hijrah was commissioned into service which by passes it.
+The word "in succession" means they follow each other and thus indicates that thousands more will follow them. The two Ayat above (8:9 and 3:124) are similar in meaning and it appears that they both were about the battle of Badr, because the angels did fight in the battle of Badr, as the evidence indicates.
 
 ## Tafsir Ibn Kathir
 

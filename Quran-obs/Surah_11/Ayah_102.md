@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Such is the punishment of your Lord when He seizes the (population of) towns while they are doing wrong. After having given this good counsel to them, he warned them of the punishment of Allah Ta` ala.
+Such is the punishment of your Lord when He seizes the (population of) towns while they are doing wrong.
 
 ## Tafsir Ibn Kathir
 

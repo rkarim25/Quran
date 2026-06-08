@@ -58,7 +58,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. (...and that some people from human beings used to seek refuge with some peoples of the Jinn, and thus they increased them (the Jinns) in arrogance, [ 72:6] ' This verse describes the situation that it was customary for people in the Days of Ignorance that when they halted in a valley in the course of a journey, they sought refuge in the Jinn leader of that valley from the foolish mischief-makers of his nation believing that the leader of the valley will protect them.
+'And verily, we thought that men and Jinn would not utter a lie against Allah.')(6. They used to seek refuge with the greatest Jinn of a particular place so that no harm or evil would afflict them.
 
 ## Tafsir Ibn Kathir
 

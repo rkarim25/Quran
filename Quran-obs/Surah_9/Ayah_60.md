@@ -104,7 +104,7 @@ This was the background in which this verse was revealed. Now, before going to i
 
 ## Tafsir Summary
 
-As-Sadaqat (i.e., Zakah) are only for the Fuqara', and Al-Masakin and those employed to collect (the funds); and to attract the hearts of those who have been inclined (towards Islam); and to free the captives; and for those in debt; and for Allah's cause, and for Ibn As-Sabil; a duty imposed by Allah. Objection raised by some hypocrites against the Holy Prophet s, and the answer to that, was given in verses previous to this.
+this verse of the Holy Qur'an has clearly declared it to be permissible and has included it as one of the eight heads under which Zakah can be disbursed.
 
 ## Tafsir Ibn Kathir
 

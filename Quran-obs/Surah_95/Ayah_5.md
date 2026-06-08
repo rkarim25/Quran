@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Recitation of Surat At-Tin in the Prayer while Traveling Malik and Shu'bah narrated from 'Adi bin Thabit, who narrated that Al-Bara' bin 'Azib said, "The Prophet ﷺ used to recite in one of his Rak'ahs while traveling 'At-Tin waz-Zaytun' (Surat At-Tin), and I have never heard anyone with a nicer voice or recitation than him." The Group has recorded this Hadith in their books. ثُمَّ رَ‌دَدْنَاهُ أَسْفَلَ سَافِلِينَ (then We turned him into the lowest of the low...95:5).
+This is why He swore by a noble place, then by a nobler place, and then by a place that is the nobler than both of them.
 
 ## Tafsir Ibn Kathir
 

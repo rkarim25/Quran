@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when those who disbelieved see you, they take you not except for mockery (saying): "Is this the one who talks about your gods?" While they disbelieve at the mention of the Most Gracious (36)Man is created of haste. خُلِقَ الْإِنسَانُ مِنْ عَجَلٍ (Man is made of haste.
+Man is prone to haste - 17:11, meaning that he is very impatient.
 
 ## Tafsir Ibn Kathir
 

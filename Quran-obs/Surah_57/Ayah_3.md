@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Hadid Imam Ahmad recorded that 'Irbad bin Sariyah said that the Messenger of Allah ﷺ used to recite Al-Musabbihat before he went to sleep, saying, Remedy for Diabolical Whisperings Sayyidna Ibn ` Abbas ؓ said that if the Shaitan casts an evil scruple in anyone's heart, and thus causes skepticism about Allah and the religion of truth, he should softly recite the fol…
+He interprets the attribute 'Akhir [ the Last ] from the point of view of ma'rifah [ Knowledge ] in the sense that knowing Allah Ta’ ala is the ultimate goal which man hopes to achieve. Therefore the verse means that all existent creatures will either actually perish on the Day of Judgment, or they may not actually perish, but potentially they could perish.
 
 ## Tafsir Ibn Kathir
 

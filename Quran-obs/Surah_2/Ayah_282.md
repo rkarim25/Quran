@@ -551,7 +551,7 @@ This Ayah is the longest in the Glorious Qur'an. Imam Abu Ja'far bin Jarir recor
 
 ## Tafsir Summary
 
-O you who believe! The Qur'anic injunctions on Loan An important principle of the Law of Dealings, or the Law of Contracts in modern legal terminology, has been taken up in the verses appearing above.
+This Ayah is the longest in the Glorious Qur'an.
 
 ## Tafsir Ibn Kathir
 

@@ -263,7 +263,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Some injunctions of the Shariah concerning the conduct of worldly life, choices in marriage and food appeared in the previous verses.
+This is a command of obligation in the case of impurity, and in the case of purity, it is merely a recommendation. It was said that in the beginning of Islam, Muslims had to perform Wudu' for every prayer, but later on, this ruling was abrogated.
 
 ## Tafsir Ibn Kathir
 

@@ -136,7 +136,7 @@ These verses were revealed in a particular background. There were Jewish settlem
 
 ## Tafsir Summary
 
-O you who believe! These verses were revealed in a particular background.
+This only emphasizes the severity of the enmity that the hypocrites feel against the believers.
 
 ## Tafsir Ibn Kathir
 

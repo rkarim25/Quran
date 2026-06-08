@@ -10,7 +10,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of the Surahs that begin with Ha Mim Ibn 'Abbas, may Allah be pleased with him, said, "Everything has an essence and the essence of the Qur'an is the family of Ha Mim," or he said, "the Ha Mims." Mis'ar bin Kidam said, "They used to be called 'the brides'." All of this was recorded by the the Imam, great scholar, Abu 'Ubayd Al-Qasim bin Sallam, may Allah have mercy upon him, in his book Fada'il Al-Qur'an. In verse 74, it was said: نَتَبَوَّأُ مِنَ الْجَنَّةِ حَيْثُ نَشَاءُ (we can dwell anywhere we wish in Jannah).
+These two attributes (mercy and punishment) are often mentioned together in the Qur'an, so that people will remain in a state of both hope and fear. In the Islamic terminology, it normally refers to those Companions of a prophet who excel all others in their submission to Allah and is Messenger.
 
 ## Tafsir Ibn Kathir
 

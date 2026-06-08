@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Evil has appeared in Al-Barr and Al-Bahr because of what the hands of men have earned, that He may make them taste a part of that which they have done, in order that they may return (41)Say: "Travel in the land and see what was the end of those before (you)! ظَهَرَ‌ الْفَسَادُ فِي الْبَرِّ‌ وَالْبَحْرِ‌ بِمَا كَسَبَتْ أَيْدِي النَّاسِ (Plight has appeared on land and sea because of what the hands of the people have earned 30:41).
+After that, it is pointed out that whatever trouble and tribulation is sent down to them in this world, though as a result of their misdeeds, is in fact blessing and grace from Him, if only one could ponder.
 
 ## Tafsir Ibn Kathir
 

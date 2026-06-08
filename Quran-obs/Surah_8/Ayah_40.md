@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say to those who have disbelieved, if they cease, their past will be forgiven. The second condition is that they stick to their doggedness and hostility.
+But if they cease, then certainly, Allah is All-Seer of what they do (39)And if they turn away, then know that Allah is your protector – (what) an excellent protector and (what) an excellent helper .
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-With Hands We constructed the heaven. فَفِرُّ‌وا إِلَى اللَّـهِ (So flee to Allah....51:50).
+Verily, I am a plain warner to you from Him (50)And set not up any other god along with Allah.
 
 ## Tafsir Ibn Kathir
 

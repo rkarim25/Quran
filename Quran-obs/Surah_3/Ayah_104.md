@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Let there arise out of you a group of people inviting to all that is good (Islam), enjoining Al-Ma'ruf (all that Islam orders) and forbidding Al-Munkar (all that Islam has forbidden). In the previous verses (102 - 103), Muslims were given two principles which guarantee their collective wellbeing.
+this Ayah is that there should be a segment of this Muslim Ummah fulfilling this task, even though it is also an obligation on every member of this Ummah, each according to his ability.
 
 ## Tafsir Ibn Kathir
 

@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then they will turn to one another, mutually questioning (50)A speaker of them will say: "Verily, I had a companion (in the world), (51)"Who used to say: 'Are you among those who believe (52)(That) when we die and become dust and bones, shall we indeed be indebted (Madinun)?' (53)(The speaker) said: "Will you look down? An inmate of Jannah and his disbelieving acquaintance After having described the general condition of the people of Jannah, one of them has been mentioned particularly.
+He said, 'I have bought these two gardens for two thousand Dinars.' He replied, 'How beautiful this is.' When he came out, he said, 'O Lord, my companion has bought two gardens for two thousand Dinars; I ask you for two gardens in Paradise' – and he gave two thousand Dinars in charity. This attitude proves lethal for one who is so affected in terms of the end he would have in the Hereafter.
 
 ## Tafsir Ibn Kathir
 

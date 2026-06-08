@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who expect not a meeting with Us said: "Why are not the angels sent down to us, or why do we not see our Lord" Indeed they think too highly of themselves, and are scornful with great pride (21)On the Day they will see the angels – no good news will there be for the criminals that day. حِجْرً‌ا مَّحْجُورً‌ا (25:22) The literal meaning of حِجر is protection, and مَّحْجُورًا is fully protected.
+But there is no contradiction between these two views, because on both of these days – the day of death and the Day of Resurrection – the angels will appear to the believers and disbelievers, and they will give glad tidings of divine mercy and pleasure to the believers, while they will give the disbelievers news that will bring regret and sorrow, so there will be no glad tidings for the evildoers and criminals on that Day.
 
 ## Tafsir Ibn Kathir
 

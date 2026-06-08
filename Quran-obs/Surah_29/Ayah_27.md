@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, Lut believed in him. because the next sentence, i.e وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ (And We granted him Ishaque and Yaqub) is pointing certainly toward Sayyidna Ibrahim (علیہ السلام) .
+It clarifies that although the real reward for good deeds will be awarded in the Hereafter, but a small part of it is also given in this world.
 
 ## Tafsir Ibn Kathir
 

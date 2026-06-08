@@ -191,7 +191,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Allah will say (on the Day of Resurrection): "O 'Isa, son of Maryam! 1.
+Did you say unto men: 'Worship me and my mother as two gods besides Allah?'" He will say: "Glory be to You!
 
 ## Tafsir Ibn Kathir
 

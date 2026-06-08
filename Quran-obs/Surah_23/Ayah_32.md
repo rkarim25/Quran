@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, after them, We created another generation (31)And We sent to them a Messenger from among themselves (saying): "Worship Allah! In the earlier verses the story of Sayyidna Nuh (علیہ السلام) was told who was sent to his people to guide them along the path of righteousness and the following verses contain a brief account of some other prophets without mentioning their names and the people for whose guidance they were sent.
+'Ad or Thamud Allah tells us that after the people of Nuh, He created another nation.
 
 ## Tafsir Ibn Kathir
 

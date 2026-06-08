@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And He it is Who subjected the sea (to you), that you may eat from the fresh tender meat, and that you bring forth out of it ornaments to wear. Verses appearing immediately earlier described the many blessings of Allah Ta` ala in details, proved that He alone is their Creator and established that He is unique in this matter.
+He was the first one to travel by ship, he was taught how to make them, then people took this knowledge from him and passed it down from generation to generation through the centuries, so that they could travel from country to country and from place to place, bringing goods from here to there and from there to here.
 
 ## Tafsir Ibn Kathir
 

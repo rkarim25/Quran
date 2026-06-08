@@ -44,7 +44,7 @@ So, they pursued them at sunrise (60)And when the two hosts saw each other, the 
 
 ## Tafsir Summary
 
-So, they pursued them at sunrise (60)And when the two hosts saw each other, the companions of Musa said: "We are sure to be overtaken. (The Companions of Musa said: "Surely we are overtaken." He said, "Never!
+He, therefore, replied firmly that they will never be caught.
 
 ## Tafsir Ibn Kathir
 

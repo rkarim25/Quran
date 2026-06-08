@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who hope not for their meeting with Us, but are pleased and satisfied with the life of the present world, and those who are heedless of Our Ayat (7)Those, their abode will be the Fire, because of what they… In the previous verses, by mentioning the heavens and the earth and the Moon and the Sun, prominent manifestations of Allah's perfect power and wisdom, the belief in the Oneness of Allah and the Hereafter was proved eloquently.
+The Abode of Those Who deny the Hour is Hell-Fire Allah describes the state of the wretched who disbelieved in the meeting with Allah on the Day of Resurrection and did not look forward to it, who were well-pleased with the life of this world and at rest in it.
 
 ## Tafsir Ibn Kathir
 

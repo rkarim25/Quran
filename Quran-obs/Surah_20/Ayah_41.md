@@ -20,7 +20,7 @@ According to the present narration of this Hadith-ul-Futun, Sayyidna Ibn ` Abbas
 
 ## Tafsir Summary
 
-"When your sister went and said: 'Shall I show you one who will nurse him' So We restored you to your mother, that she might cool her eyes and she should not grieve. Our Lord is He who gave everything its shape, then guidance - 20:50.
+This is so that the message may have more effect on the souls, and so it would have deeper and more beneficial results. Islam has therefore laid great emphasis on honesty and integrity, the blessings of which have been witnessed by the world through the centuries.
 
 ## Tafsir Ibn Kathir
 

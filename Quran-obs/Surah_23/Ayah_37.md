@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, after them, We created another generation (31)And We sent to them a Messenger from among themselves (saying): "Worship Allah! There is nothing but our worldly life.
+And we are not going to be resurrected!
 
 ## Tafsir Ibn Kathir
 

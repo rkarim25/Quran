@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. This Surah is almost wholly devoted to the subject of inevitability of the Resurrection, its horrors, the punishment of unbelievers and the reward of believers.
+Thamud and 'Ad denied the Qari'ah!)(5. When Thamud exceeded the limit in denying the Day of Judgment, they were destroyed by that dreadful cry which exceeded all limits.
 
 ## Tafsir Ibn Kathir
 

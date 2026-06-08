@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those on the left? ثُلَّةٌ مِّنَ الْأَوَّلِينَ وَثُلَّةٌ مِّنَ الْآخِرِ‌ينَ (many from the earlier generations, and many from the later ones....56:39-40) In connection with sabiqun, (the Foremost) two views of the commentators were quoted earlier as to the identity of 'the earlier' and the 'later' generations.
+You verily, will eat of the trees of Zaqqum.
 
 ## Tafsir Ibn Kathir
 

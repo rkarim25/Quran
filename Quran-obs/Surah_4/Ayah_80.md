@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He who obeys the Messenger, has indeed obeyed Allah, but he who turns away, then We have not sent you as a watcher over them (80)They say: "We are obedient," but when they leave you, a section of them spends all night in planning other than what you say. Previous to this, there was the affirmation of prophethood.
+Obeying the Messenger (ﷺ) is Obeying Allah Allah states that whoever obeys His servant and Messenger, Muhammad ﷺ, obeys Allah; and whoever disobeys him, disobeys Allah.
 
 ## Tafsir Ibn Kathir
 

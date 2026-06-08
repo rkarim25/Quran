@@ -139,7 +139,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And by the mercy of Allah, you dealt with them gently. Even though, the mistake made by Muslims and the abandonment of the battle front by them had caused grief to the Holy Prophet, he did not reproach them for this because of his high morals and his natural way of forgiving and forgetting.
+This Ayah contains a stern warning and threat against Ghulul [stealing from the booty], and there are also Hadiths, that prohibit such practice.
 
 ## Tafsir Ibn Kathir
 

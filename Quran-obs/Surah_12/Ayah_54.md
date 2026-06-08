@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the king said: "Bring him to me that I may attach him to my person." Then, when he spoke to him, he said: "Verily, this day, you are with us high in rank and fully trusted. In the next verse (54) which begins with the words: وَقَالَ الْمَلِكُ ائْتُونِي بِهِ (Bring him to me ...), it has been said, when the king of Egypt investigated about the event, as requested by Sayyidna Yusuf (علیہ السلام) ، Zulaikha and all other women concerned with it confessed to the truth.
+He wanted to be the guard, so that he could dispense the harvest in the wisest, best and most beneficial way. Keep whatever supply of grains comes to the government through fixed taxes or state lands stored for those coming from outside the country - because, this famine will be wide-spread.
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if they deny you, so were Messengers denied before you. The word: رَّ‌حْمَةٍ (rahmah: mercy) appearing in verse 2: مَّا يَفْتَحِ اللَّـهُ لِلنَّاسِ مِن رَّ‌حْمَةٍ فَلَا مُمْسِكَ لَهَا (Whatever blessing Allah opens for the people, there is none to hold it back,) is general at this place.
+And if they deny you, so were Messengers denied before you. Trust in Allah delivers from all hardships The lesson taught by the cited verse (2) to all human beings is that one should not hope any benefit or fear any harm from anyone other than Allah, instead, one should keep his or her sight trained towards Allah alone.
 
 ## Tafsir Ibn Kathir
 

@@ -50,7 +50,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. وَأَنَّهُ تَعَالَىٰ جَدُّ رَ‌بِّنَا (and [ then the Jinns started talking to each other ] that exalted is the Glory of our Lord;....72:3).
+Instead of saying .jadduhu' with a third person pronoun referring to Allah, the attributive name 'rabb' 'Lord' is expressly retained which indicates the exalted position of Allah.
 
 ## Tafsir Ibn Kathir
 

@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Similarly (to complete My blessings on you), We have sent among you a Messenger (Muhammad ﷺ) of your own, reciting to you Our verses (the Qur'an) and purifying you, and teaching you the Book (the Qur'an) and the Hikmah (i. These verses conclude the discussion on the theme of the Qiblah قبلہ or religious orientation.
+The Messenger ﷺ also takes them away from the darkness (of disbelief) to the light (of faith) and teaches them the Book, the Qur'an, and the Hikmah (i.e., the wisdom), which is his Sunnah.
 
 ## Tafsir Ibn Kathir
 

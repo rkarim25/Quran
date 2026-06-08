@@ -205,7 +205,7 @@ Ibn Jarir said that the Ayah (2:229) was revealed about Thabit bin Qays bin Sham
 
 ## Tafsir Summary
 
-The divorce is twice, after that either you retain her on reasonable terms or release her with kindness. The injunctions governing talaq طلاق (divorce) and nikah نکاح (marriage) appear in several verses throughout the Qur'an but the verses mentioned here consist of cardinal rules of procedure in cases of divorce.
+this is the Tahlil that the Hadiths have cursed and criticized. In addition, when the reason behind this marriage (if it was Tahlil) is announced in the contract, it would make the contract invalid according to the majority of the scholars.
 
 ## Tafsir Ibn Kathir
 

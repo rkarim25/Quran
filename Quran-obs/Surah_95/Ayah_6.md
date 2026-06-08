@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Recitation of Surat At-Tin in the Prayer while Traveling Malik and Shu'bah narrated from 'Adi bin Thabit, who narrated that Al-Bara' bin 'Azib said, "The Prophet ﷺ used to recite in one of his Rak'ahs while traveling 'At-Tin waz-Zaytun' (Surat At-Tin), and I have never heard anyone with a nicer voice or recitation than him." The Group has recorded this Hadith in their books. إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ‌ مَمْنُونٍ ‌ (except those who believed and did righteous deeds, because for them there is a reward never ending....95:6).
+For those who believed and did righteous deeds, there is a reward that is unending.
 
 ## Tafsir Ibn Kathir
 

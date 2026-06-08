@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Some attributes and the special eminence of the Holy Prophet ﷺ have been mentioned in the preceding verse.
+Let us look at the matter of divorce which obviously is a result of mutual discord, anger and disharmony which usually results in the relationship which was established on the basis of extreme concord, love and affection changing to the opposite i.e.
 
 ## Tafsir Ibn Kathir
 

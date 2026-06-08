@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) the Day that the enemies of Allah will be gathered to the Fire, then they will be driven (19)Till, when they reach it, their hearing (ears) and their eyes and their skins will testify against them as to what they used to do (20)And they will say to their skins, "Why do you testify against us?" They will say: "Allah has caused us to speak - as He causes all things to speak, and He created you the first time, and to Him you are made to return. فَهُمْ يُوزَعُونَ (So they will be kept under control…...41:19) The original word used in the text is ` Yuza’ un' which is derived from waz' which means ` to stop', ` to prevent'.
+Most of the learned exegetes have explained it in the sense that when people of Hell, who will be numerous, will be taken forward to the field of hashr and the place of reckoning, the people in the front will be halted for a while, so that the people in the rear also catch up with them.
 
 ## Tafsir Ibn Kathir
 

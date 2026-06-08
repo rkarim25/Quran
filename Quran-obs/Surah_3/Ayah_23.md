@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you not seen those who have been given a portion of the Scripture? While dealing with the subject of Jews, as in verses 21-22, the text goes on to censure a particular claim of theirs in the present verse.
+They are being invited to the Book of Allah to settle their dispute, then a party of them turned away, and they are averse (23)This is because they say: "The Fire shall not touch us but for a number of days." And that which they used to invent in their religion has deceived them (24)How (will it be) when We gather them together on the Day about which there is no doubt (i.e.
 
 ## Tafsir Ibn Kathir
 

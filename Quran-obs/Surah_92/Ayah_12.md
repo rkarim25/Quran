@@ -22,7 +22,7 @@ Many of the scholars of Tafsir have mentioned that these Ayat were revealed abou
 
 ## Tafsir Summary
 
-Truly, on Us is (to give) guidance (12)And truly, unto Us (belong) the last (Hereafter) and the first (this world)(13)Therefore I have warned you of a Fire Talazza (14)None shall enter it save the most wretched (15)Who d… وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَ‌دَّىٰ (And his wealth will not help him when he will fall down...92:11).
+There is no doubt that he is included in the meaning of these Ayat, and that he is the most deserving of the Ummah to be described with these characteristics in general, for indeed, the wording of these Ayat is general.
 
 ## Tafsir Ibn Kathir
 

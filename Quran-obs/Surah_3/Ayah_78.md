@@ -132,7 +132,7 @@ It was during the presence of the deputation from Najran that some Jews and Chri
 
 ## Tafsir Summary
 
-And verily, among them is a party who distort the Book with their tongues, so that you may think it is from the Book, but it is not from the Book, and they say: This is from Allah, but it is not from Allah; and they spea… It was during the presence of the deputation from Najran that some Jews and Christians had said: '0 Muhammad, do you want us to worship you the way Christians worship Jesus, son of Mary?' He said: 'I seek refuge with Allah that we worship someone other than Allah or call on others to do so.
+And verily, among them is a party who distort the Book with their tongues, so that you may think it is from the Book, but it is not from the Book, and they say: This is from Allah, but it is not from Allah; and they speak a lie against Allah while they know it .
 
 ## Tafsir Ibn Kathir
 

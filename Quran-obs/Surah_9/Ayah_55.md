@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So let not their wealth nor their children amaze you; in reality Allah's plan is to punish them with these things in the life of this world, and that their souls shall depart (die) while they are disbelievers (55) Allah… Mentioned in the previous verses were bad morals and bad deeds of the hypocrites.
+So let not their wealth nor their children amaze you; in reality Allah's plan is to punish them with these things in the life of this world, and that their souls shall depart (die) while they are disbelievers . As for the statement in verse 55 -- where it has been declared that the wealth and children of hypocrites should not be taken as a blessing for them as these are, in fact, a form of punishment from Allah -- it has a reason.
 
 ## Tafsir Ibn Kathir
 

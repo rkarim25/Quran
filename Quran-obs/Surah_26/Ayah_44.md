@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, the sorcerers were assembled at a fixed time on a day appointed (38)And it was said to the people: "Are you (too) going to assemble? بِعِزَّةِ فِرْ‌عَوْنَ (By the majesty of the Pharaoh - 26:44).
+It is not permitted to make an oath of this nature under the Islamic law (because swearing in the name of someone other than Allah is a sin).
 
 ## Tafsir Ibn Kathir
 

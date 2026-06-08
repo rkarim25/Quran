@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do not grieve over their speech, for all power and honor belong to Allah. It was said in the last verse (64) that, for the friends of Allah, there is the good news in the worldly life and in the Hereafter.
+Verily, to Allah belongs whosoever is in the heavens and whosoever is in the earth.
 
 ## Tafsir Ibn Kathir
 

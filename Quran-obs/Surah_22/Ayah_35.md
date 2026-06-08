@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And for every nation We have appointed religious ceremonies, that they may mention the Name of Allah over the beast of cattle that He has given them for food. وَجِلَتْ قُلُوبُهُمْ (Whose hearts are filled with awe - 22:35) The word وَجِلَ means a feeling of awe inspired by something majestic and sublime.
+And give glad tidings to the Mukhbitin (34)Whose hearts are filled with fear when Allah is mentioned, and the patient who bear whatever may befall them, and who perform the Salah, and who spend out of what We have provided for them . And for every nation We have appointed religious ceremonies, that they may mention the Name of Allah over the beast of cattle that He has given them for food.
 
 ## Tafsir Ibn Kathir
 

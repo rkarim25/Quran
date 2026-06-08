@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The disbelievers used to come to the Holy Prophet ﷺ in groups mocking at the Muslims, and denying the Islamic beliefs, including Resurrection.
+The Qur'an, further setting down the factual position of the demanded punishment, says that the punishment is inevitable and will most certainly occur in this world or in the Hereafter or in both the worlds.
 
 ## Tafsir Ibn Kathir
 

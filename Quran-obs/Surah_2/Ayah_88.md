@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say, "Our hearts are Ghulf." Nay, Allah has cursed them for their disbelief, so little is that which they believe (88) Muhammad bin Ishaq reported that Ibn 'Abbas said that, The Jews used to say sarcastically that their hearts were "veiled", by which they meant that their hearts were so well protected against Islam that it could never touch them.
+And they say, "Our hearts are Ghulf." Nay, Allah has cursed them for their disbelief, so little is that which they believe .
 
 ## Tafsir Ibn Kathir
 

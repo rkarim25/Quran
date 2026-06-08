@@ -202,7 +202,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who oppose Allah and His Messenger will be disgraced as those before them were disgraced. أَحْصَاهُ اللَّـهُ وَنَسُوهُ (...Allah has its full account, while they have forgotten transgressions, but because he treats them as trivial and insignificant, he is unable to remember and recall them.
+And Allah is Witness over all things (6)Have you not seen that Allah knows whatsoever is in the heavens and whatsoever is on the earth?
 
 ## Tafsir Ibn Kathir
 

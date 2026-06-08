@@ -92,7 +92,7 @@ And if We willed, We could surely take away that which We have revealed to you. 
 
 ## Tafsir Summary
 
-And if We willed, We could surely take away that which We have revealed to you. The subject in verse 88: قُل لَّئِنِ اجْتَمَعَتِ الْإِنسُ وَالْجِنُّ (If all humans and jinns join together...) appears in some other verses of the Holy Qur'an as well.
+When the humans and jinns of the whole world are incapable of producing the least like of it, what doubt could there be in that it is but the Divine Word.
 
 ## Tafsir Ibn Kathir
 

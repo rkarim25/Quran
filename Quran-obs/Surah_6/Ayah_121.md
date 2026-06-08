@@ -91,7 +91,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Eat not of that on which Allah's Name has not been pronounced, for surely it is disobedience. Earlier (116), by saying: وَ اِن تطِع (And if you obey), following people in error was prohibited absolutely.
+e., slaughter) and you can eat what is slaughtered and the Name of Allah is mentioned at the time of slaughtering.) This Hadith was also collected in the Two Sahihs.
 
 ## Tafsir Ibn Kathir
 

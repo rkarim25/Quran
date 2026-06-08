@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Answer the Call of your Lord before there comes from Allah a Day which cannot be averted. The earlier three of the above verses state the end of those people who, as against the virtuous Muslims, remained desirous of the delights and luxuries of this world, instead of caring about the Hereafter.
+Let alone having a say in the child's creation, the mother does not even know before the child is born as to what is being formed in her womb, and how it is being processed.
 
 ## Tafsir Ibn Kathir
 

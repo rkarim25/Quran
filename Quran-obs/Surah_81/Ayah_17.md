@@ -24,7 +24,7 @@ And these Ayat have only been mentioned in Surat An-Najm, which was revealed aft
 
 ## Tafsir Summary
 
-But nay! عَلِمَتْ نَفْسٌ مَّا أَحْضَرَ‌تْ (then everyone will know what he [ or she ] has put forward...
+I swear by Al-Khunnas (15)Al-Jawar Al-Kunnas (16)And by the night when it 'As'as (17)And by the day when it Tanaffas (18)Verily, this is the Word a most honorable messenger (19)Dhi Quwwah, with the Lord of the Throne – Makin (20)Obeyed there, trustworthy (21)And your companion is not a madman (22)And indeed he saw him in the clear horizon (23)And he withholds not a knowledge of the Unseen (24)And it is not the word of the outcast Shaytan (25)Then where are you going (26)Veril…
 
 ## Tafsir Ibn Kathir
 

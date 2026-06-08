@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "You are only one of those bewitched! And do not make people short of their things - 26:183 What it means is that it is unlawful to reduce any quantity or amount from that which has been contracted with anyone, whether it is a measurable thing or otherwise.
+Indeed that was the torment of a Great Day.) This is what they asked for, when they asked for a part of the heaven to fall upon them. When all of them had gathered underneath it, Allah sent sparks of fire and flames and intense heat upon them, and caused the earth to convulse beneath them, and He sent against them a mighty Sayhah which destroyed their souls.
 
 ## Tafsir Ibn Kathir
 

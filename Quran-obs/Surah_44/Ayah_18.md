@@ -50,7 +50,7 @@ According to another report, a man would look at the sky and he would see nothin
 
 ## Tafsir Summary
 
-And indeed We tried before them Fir'awn's people, when there came to them a noble Messenger (17)Saying: "Deliver to me the servants of Allah. دُخَانٍ مُّبِينٍ...visible smoke" in verse (10) embodies a prophecy and the Prophet ﷺ was asked to watch for the Day when the sky will bring forth a manifest smoke covering the people.
+When the believer dies, that gate is closed; it misses him and weeps for him, and the place of prayer on earth where he used to pray and remember Allah also weeps for him.
 
 ## Tafsir Ibn Kathir
 

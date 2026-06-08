@@ -124,7 +124,7 @@ Ad-Dahhak stated that this Ayah was revealed about some hypocrites who did not j
 
 ## Tafsir Summary
 
-Verily, as for those whom the angels take (in death) while they are wronging themselves, they (angels) say (to them): "In what (condition) were you?" They reply: "We were weak and oppressed on the earth." They (angels) s… The third verse (96) too recounts the same degrees of precedence that the Mujahidin have over others.
+Verily, as for those whom the angels take (in death) while they are wronging themselves, they (angels) say (to them): "In what (condition) were you?" They reply: "We were weak and oppressed on the earth." They (angels) say: "Was not the earth of Allah spacious enough for you to emigrate therein?" Such men will find their abode in Hell - what an evil destination (97)Except the weak ones among men, women and children who cannot devise a plan, nor are they able to direct their w…
 
 ## Tafsir Ibn Kathir
 

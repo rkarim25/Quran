@@ -287,7 +287,7 @@ As stated in a Hadith that Imam Abu 'Abdullah Al-Bukhari recorded, Sahl bin Sa'd
 
 ## Tafsir Summary
 
-It is made lawful for you to have sexual relations with your wives on the night of As-Siyam (fasting). Explained here in this verse are the remaining injunctions of fasting including the injunction relating to I` tikaf اعتکاف .
+This is the opinion of the Four Imams and the majority of the scholars.
 
 ## Tafsir Ibn Kathir
 

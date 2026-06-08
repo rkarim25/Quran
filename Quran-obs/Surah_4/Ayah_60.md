@@ -138,7 +138,7 @@ Also reported are some other incidents of this nature where people had bypassed 
 
 ## Tafsir Summary
 
-Have you not seen those (hyprocrites) who claim that they believe in that which has been sent down to you, and that which was sent down before you, and they wish to go for judgment (in their disputes) to the Taghut while they have been ordered to reject them. Verses previous to these carried the command to revert back to the mandate given by Allah and the Messenger in all matters.
+Referring to Other than the Qur'an and Sunnah for Judgment is Characteristic of Non-Muslims Allah chastises those who claim to believe in what Allah has sent down to His Messenger ﷺ and to the earlier Prophets, yet they refer to other than the Book of Allah and the Sunnah of His Messenger ﷺ for judgment in various disputes.
 
 ## Tafsir Ibn Kathir
 

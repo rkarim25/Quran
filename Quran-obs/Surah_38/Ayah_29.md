@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We created not the heaven and the earth and all that is between them without purpose! In verse 28, it was said: أَمْ نَجْعَلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَالْمُفْسِدِينَ فِي الْأَرْ‌ضِ أَمْ نَجْعَلُ الْمُتَّقِينَ كَالْفُجَّارِ‌ (Shall We make those who believe and do righteous deeds equal to those who commit mischief on the earth?
+Or shall We treat those who have Taqwa as the evildoers (28)(This is) a Book which We have sent down to you, full of blessings, that they may ponder over its Verses, and that men of understanding may remember . Then Allah explains that because of His justice and wisdom, He does not treat the believers and the disbelievers equally.
 
 ## Tafsir Ibn Kathir
 

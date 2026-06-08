@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have they taken as intercessors besides Allah? The time to sleep and the time to die: How is the soul exacted and what is the difference between the two In verse 42, it was said: اللَّـهُ يَتَوَفَّى الْأَنفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ فِي مَنَامِهَا (Allah fully takes away the souls [ of the people ] at the time of their death, and [ of ] those who do not die, in their sleep.).
+And then, at times, even this inward connection is severed because of which the life of the body goes extinct, totally.
 
 ## Tafsir Ibn Kathir
 

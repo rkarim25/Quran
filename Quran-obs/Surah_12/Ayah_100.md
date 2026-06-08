@@ -199,7 +199,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, when they came in before Yusuf, he took his parents to himself and said: "Enter Egypt, if Allah wills, in security. Verse 100 opens with the words: وَرَ‌فَعَ أَبَوَيْهِ عَلَى الْعَرْ‌شِ (And he raised his parents up on the throne), that is, Sayyidna Yusuf (علیہ السلام) had his parents sit with him on the royal throne.
+This is confirmed by Hadith reports from Al-Bukhari and Muslim that Sajdah (prostration) for anyone other than Allah is not Halal.
 
 ## Tafsir Ibn Kathir
 

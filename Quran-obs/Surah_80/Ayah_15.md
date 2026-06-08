@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. بِأَيْدِي سَفَرَ‌ةٍ كِرَ‌امٍ بَرَ‌رَ‌ةٍ (in the hands of those scribes who are honourable, righteous.
+[ 80:15-16] ) The word safarah, with fathah [=a+a ] on the first two letters, may be the plural of safir which means a 'scribe'.
 
 ## Tafsir Ibn Kathir
 

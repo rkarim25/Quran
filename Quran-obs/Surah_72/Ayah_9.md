@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-'And we have sought to reach the heaven; but we found it filled with stern guards and flaming fires. وَأَنَّا لَمَسْنَا السَّمَاءَ فَوَجَدْنَاهَا مُلِئَتْ حَرَ‌سًا شَدِيدًا وَشُهُبًا (...and that we sought [ to reach ] the sky, but we found it filled with stern guards and flames....72:8).
+And verily, we used to sit there in stations, to (steal) a hearing, but any who listens now will find a flaming fire watching him in ambush.) meaning, whoever would like to steal some information by listening, he will find a flaming fire waiting in ambush for him. The Jinn Used to Go only up to the Clouds to Eavesdrop, Not to the Sky The Jinn and the devils used to go up to the sky means that they used to go to the 'clouds', take up positions there to sit and eavesdrop.
 
 ## Tafsir Ibn Kathir
 

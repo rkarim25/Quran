@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then she brought him to her people, carrying him. "and (He has made me) good to my mother." - 19:32.
+However, he will have peace in these situations, which are the most difficult situations for Allah's creatures.' May Allah's peace and blessings be upon him. Therefore, she referred all speech to him (the child) and she directed them to his address and speech to them.
 
 ## Tafsir Ibn Kathir
 

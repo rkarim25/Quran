@@ -85,7 +85,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We gave knowledge to Dawud and Sulayman, and they both said: "All praise be to Allah, Who has preferred us above many of His believing servants! There is no heritage of wealth among the prophets وَوَرِ‌ثَ سُلَيْمَانُ دَاوُودَ (And Sulaiman inherited Dawud - 27:16).
+Enter your dwellings, lest Sulayman and his armies should crush you, while they perceive not. What is meant here is not wealth, because if that were the case, Sulayman would not have been singled out from among the sons of Dawud, as Dawud had one hundred wives.
 
 ## Tafsir Ibn Kathir
 

@@ -132,7 +132,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And he said: "O my sons! This subject has been taken up in the succeeding verse where it is said that the sons carried out the instructions of their father and entered the city from different gates.
+He feared that people might direct the evil eye at them, because the evil eye truly harms, by Allah's decree, and brings down the mighty warrior-rider from his horse.
 
 ## Tafsir Ibn Kathir
 

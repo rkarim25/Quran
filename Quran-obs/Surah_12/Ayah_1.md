@@ -32,7 +32,7 @@ On the reason behind revealing Ayah (12:3), Ibn Jarir At-Tabari recorded that 'A
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. With the exception of four verses, Surah Yusuf is wholly a Makki Surah.
+These are the verses of the Book that is clear.)(2.
 
 ## Tafsir Ibn Kathir
 

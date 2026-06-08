@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He [Ya'qub] said: "Nay, but your own selves have beguiled you into something. When the sons of Sayyidna Ya` qub (علیہ السلام) saw the extreme suffering and patience of their father, they said: قَالُوا تَاللَّـهِ تَفْتَأُ تَذْكُرُ‌ يُوسُفَ (By God, you will not stop remembering Yusuf ...), meaning thereby that every shock ends, after all, and so does every sorrow.
+You will never cease remembering Yusuf until you become weak with old age, or until you be of the dead.
 
 ## Tafsir Ibn Kathir
 

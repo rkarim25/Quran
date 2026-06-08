@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. إِن يَثْقَفُوكُمْ يَكُونُوا لَكُمْ أَعْدَاءً وَيَبْسُطُوا إِلَيْكُمْ أَيْدِيَهُمْ وَأَلْسِنَتَهُم بِالسُّوءِ (Should they have access to you, they will become your enemies, and will stretch their hands and tongues towards you with evil;...60:2).
+Should they gain the upper hand over you, they would behave to you as enemies, and stretch forth their hands and their tongues against you with evil, and they desire that you should disbelieve.)(3. They would use all means, their hands and their tongues, and would spare no effort to harm the Muslims.
 
 ## Tafsir Ibn Kathir
 

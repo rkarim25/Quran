@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O Musa! فَأَوْجَسَ فِي نَفْسِهِ خِيفَةً مُّوسَىٰ (So Musa concealed some fear in his heart - 20:67.).
+Even if this fear was for his own personal safety then it can be regarded as a natural human reaction to a dangerous situation and does not conflict with the mission of prophethood.
 
 ## Tafsir Ibn Kathir
 

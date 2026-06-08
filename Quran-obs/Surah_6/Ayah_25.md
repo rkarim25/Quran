@@ -141,7 +141,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And on the Day when We shall gather them all together, We shall say to those who joined partners in worship (with Us): "Where are your partners (false deities) whom you used to assert (as partners in worship with Allah)? In verse 24, it was said: انظُرْ‌ كَيْفَ كَذَبُوا عَلَىٰ أَنفُسِهِمْ ۚ وَضَلَّ عَنْهُم مَّا كَانُوا يَفْتَرُ‌ونَ (See how they lied about themselves - and lost to them was all that they used to coin).
+So much so that these people, who used to swear falsely before Muslims during their life in the mortal world, were unable to stop lying even on the fateful day of Resurrection which put them to disgrace before the entire creation of Allah.
 
 ## Tafsir Ibn Kathir
 

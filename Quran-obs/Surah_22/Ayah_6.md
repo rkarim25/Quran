@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O mankind! Different stages in the development of foetus in mother's womb فَإِنَّا خَلَقْنَاكُم مِّن تُرَ‌ابٍ (We created you from dust - 22:5.) This verse deals with the different stages through which the foetus passes in its mother's womb before taking a human form.
+And you see the earth Hamidatan, but when We send down water on it, it is stirred (to life), and it swells and puts forth every lovely kind (of growth)(5)That is because Allah: He is the Truth, and it is He Who gives life to the dead, and it is He Who is able to do all things (6)And surely, the Hour is coming, there is no doubt about it; and certainly, Allah will resurrect those who are in the graves .
 
 ## Tafsir Ibn Kathir
 

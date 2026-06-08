@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Whether We show you part of what We have promised them or cause you to die, your duty is only to convey (the Message) and on Us is the reckoning (40)See they not that We gradually reduce the land from its outlying borders. In verse وَإِن مَّا نُرِ‌يَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ (And if We show you some of what We promise them, or We take you back to Us), it is to comfort and assure the Holy Prophet ﷺ that he has been given the good news that the promises Allah has made to him that Islam will have the final victory and disbelief and disbelievers will be disgraced shall come to pass definitely.
+Whether We show you part of what We have promised them or cause you to die, your duty is only to convey (the Message) and on Us is the reckoning (40)See they not that We gradually reduce the land from its outlying borders.
 
 ## Tafsir Ibn Kathir
 

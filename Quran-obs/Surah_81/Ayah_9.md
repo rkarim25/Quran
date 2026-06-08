@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-What has been narrated about This Surah Imam Ahmad recorded from Ibn 'Umar that the Messenger of Allah ﷺ said, وَإِذَا الْمَوْءُودَةُ سُئِلَتْ (and when the girl-child that was buried alive will be asked, for what sin she was killed...81:8) The word mau'udah is the girl-child buried alive.
+The verse, therefore, signifies that on the Day of Reckoning, even those criminals will be exposed and hauled up in the Divine Court of Justice against whom there was no evidence, nor was there anyone who could stand up on their behalf to demand justice.
 
 ## Tafsir Ibn Kathir
 

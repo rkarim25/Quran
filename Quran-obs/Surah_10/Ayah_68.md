@@ -110,7 +110,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They say: "Allah has begotten a son." Glory is to Him! It was said in the last verse (64) that, for the friends of Allah, there is the good news in the worldly life and in the Hereafter.
+His is all that is in the heavens and all that is in the earth.
 
 ## Tafsir Ibn Kathir
 

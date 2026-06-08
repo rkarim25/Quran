@@ -56,7 +56,7 @@ Sayyidna Abu ad-Darda', Qatadah and Dahhak ؓ have said that this attribute of s
 
 ## Tafsir Summary
 
-Only those believe in Our Ayat, who, when they are reminded of them, fall down prostrate, and glorify the praises of their Lord, and they are not proud (15)Their sides forsake their beds, to invoke their Lord in fear and… Before approaching verse 16: تَـتَجَافٰى جُنُوْبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُوْنَ رَبَّهُمْ خَوْفًا وَّطَمَعًا (Their sides remain apart from their beds.
+Ibn Kathir and other Tafsir authorities have said that there is no contradiction in all these sayings.
 
 ## Tafsir Ibn Kathir
 

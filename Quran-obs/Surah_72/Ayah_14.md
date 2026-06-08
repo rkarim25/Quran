@@ -53,7 +53,7 @@ Al-'Awfi reported similar to this from Ibn 'Abbas, and likewise said Mujahid, Sa
 
 ## Tafsir Summary
 
-'There are among us some that are righteous, and some the contrary; we are groups having different ways. فَمَن يُؤْمِن بِرَ‌بِّهِ فَلَا يَخَافُ بَخْسًا وَلَا رَ‌هَقًا (...so if one believes in his Lord, he will have no fear of either any curtailment [ in his reward ] or any excess [ in his punishment ]...72:13).
+The ward bakhs, with ba' carrying fatha ] and kha' carrying sukun, means 'to reduce the right' and the word rahaq means 'disgrace'. And whosoever has embraced Islam, then such have sought the right path.' (14)And as for the Qasitun, they shall be firewood for Hell (15)If they had believed in Allah, and went on the way, We would surely have bestowed on them water in abundance (16)That We might try them thereby.
 
 ## Tafsir Ibn Kathir
 

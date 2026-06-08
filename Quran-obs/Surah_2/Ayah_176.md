@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who conceal what Allah has sent down of the Book, and purchase a small gain therewith (of worldly things), they eat into their bellies nothing but fire. Mentioned in the earlier verses were unlawful things which are tangible.
+They, thus, mocked the Ayat that Allah revealed to His Messengers, and this is why they deserved the torment and the punishment.
 
 ## Tafsir Ibn Kathir
 

@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Fir'awn said: "O chiefs! وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَى النَّارِ‌ (And We had made them leaders who called (people) towards hell.
+That is, by fire the allusion is toward evil deeds that will result in burning in the fire of Jahannam.
 
 ## Tafsir Ibn Kathir
 

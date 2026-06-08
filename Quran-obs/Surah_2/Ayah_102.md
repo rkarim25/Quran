@@ -325,7 +325,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We have sent down to you manifest Ayat and none disbelieve in them but Fasiqun (those who rebel against Allah's command)(99)Is it not (the case) that every time they make a covenant, some party among them throw it aside? In connection with these two verses, some commentators have reported certain Judaic traditions, which have given rise to a number of doubts, especially in the minds of Muslims with a Western orientation.
+Where the causes are evident, the effects are immediately referred back to them, and the events thus produced are not considered to be astonishing, but where the causes are hidden or obscure, the events produced by them arouse wonder and amazement, and those who are ignorant of the causes readily come to believe that the things have happened in contravention of the habitual laws of the physical universe.27 What these people do not realize is that such happenings are as much d…
 
 ## Tafsir Ibn Kathir
 

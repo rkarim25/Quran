@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(It will be said to the disbelievers): "Depart you to that which you used to deny! هَـٰذَا يَوْمُ لَا يَنطِقُونَ وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُ‌ونَ (This is a day when they will not speak, nor will they be allowed to offer excuses....77:35, 36) In other words, this is the Day in which they will not be able to talk, nor will they be permitted to offer pleas for their misdeeds.
+There is no discrepancy between the two verses, because there will be various stages on the Plain of Gathering (Mahshar) through which people will have to pass. The driving of the Criminals to their Final Abode in Hell and how it will be done Allah informs about the disbelievers who deny the final abode, the recompense, Paradise, and the Hellfire.
 
 ## Tafsir Ibn Kathir
 

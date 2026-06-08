@@ -76,7 +76,7 @@ Say: "I don't tell you that with me are the treasures of Allah, nor (that) I kno
 
 ## Tafsir Summary
 
-Say: "I don't tell you that with me are the treasures of Allah, nor (that) I know the Unseen; nor do I tell you that I am an angel. In Islam there is No Distinction between Rich and Poor, High or Low As for people who failed to feel human despite being human, even touched the outer limit of rating human beings as one of the smartest animals of the wo…
+In other words, in the real sense, a person of nobility and honour is he who recognizes the right of his Benefactor and is grateful to Him, and it is he who is deserving of all reward and honour - and definitely not the one who, day in and day out, despite being soaked with the blessings of his Provider and Benefactor, goes on disobeying Him.
 
 ## Tafsir Ibn Kathir
 

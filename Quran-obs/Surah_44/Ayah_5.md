@@ -36,7 +36,7 @@ Some other scholars of Tafsir, like ` Ikrimah ؓ ، interpret the phrase 'laylah
 
 ## Tafsir Summary
 
-In Musnad Al-Bazzar, it is recorded from Abu At-Tufayl 'Amir bin Wathilah from Zayd bin Harithah that the Messenger of Allah ﷺ said to Ibn Sayyad: (I am concealing something, what is it?) And the Messenger of Allah ﷺ was concealing Surat Ad-Dukhan from him. لَيْلَةٍ مُّبَارَ‌كَةٍ 'blessed night', in verse 2 according to majority of the Commentators, refers to 'laylatul Qadr' or the 'Night of Power' which occurs in the last ten nights of the month of Ramadan.
+The Lord of the heavens and the earth and all that is between them,) means, the One Who sent down the Qur'an is the Lord, Creator and Sovereign of the heavens and the earth and everything in between them.
 
 ## Tafsir Ibn Kathir
 

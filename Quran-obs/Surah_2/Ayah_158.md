@@ -113,7 +113,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, As-Safa and Al-Marwah are of the symbols of Allah. The subject of the Ka'bah کعبہ ، as we would do well to recollect, started all the way back from Verse 124 : 'And when his Lord put Ibrahim to a test', later opening with the statement that the Ka'bah کعبہ was made a place for repeated convergence, a sanctuary, and a centre of divine worship as ordained (Verse 125).
+However, I heard learned men saying that all the people, except those whom 'A'ishah mentioned, said, 'Our Tawaf between these two hills is a practice of Jahiliyyah.
 
 ## Tafsir Ibn Kathir
 

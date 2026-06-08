@@ -77,7 +77,7 @@ It should be noted here that there are two types of rida' [ pleasure ]: one in g
 
 ## Tafsir Summary
 
-Verily, those who disbelieve from among the People of the Scripture and idolators, will abide in the fire of Hell. Verse [ 8] ` رَّ‌ضِيَ اللَّـهُ عَنْهُمْ وَرَ‌ضُوا عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِيَ رَ‌بَّهُ (Allah is pleased with them, and they are pleased with Him; that is for him who fears his Lord.) This verse points to the highest stage of spiritual development of the inmates of Paradise, that is, the Divine pleasure with no danger of Divine displeasure.
+this is the reward that will be attained by those who revere Allah and fear Him as He deserves to be feared. This is the person who worships Allah as if he sees Him, and he knows that even though he does not see Him, indeed Allah sees him.
 
 ## Tafsir Ibn Kathir
 

@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. (Yet he did not make his way through the steep course.
+And what will make you know the path that is steep?)(13. And whoever shoots an arrow in the way of Allah (fighting Jihad) that reaches the enemy, whether it hits or misses, he will get the reward of freeing a slave.
 
 ## Tafsir Ibn Kathir
 

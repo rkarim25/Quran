@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Shaytan will say when the matter has been decided: "Verily, Allah promised you a promise of truth. In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَكْفُرُ‌وا أَنتُمْ وَمَن فِي الْأَرْ‌ضِ جَمِيعًا (And Musa said, "If you are ungrateful, you and all those on earth, then, Allah is free of all needs, worthy of every praise.) " This was said by Sayyidna Musa (علیہ السلام) to his people.
+Verily, there is a painful torment for the wrongdoers.
 
 ## Tafsir Ibn Kathir
 

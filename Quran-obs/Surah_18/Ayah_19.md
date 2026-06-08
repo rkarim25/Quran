@@ -167,7 +167,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Likewise, We woke them that they might question one another. The word: کَذٰلِک (kadhalik) in the first sentence is for comparison.
+Likewise, We woke them that they might question one another. They were alert to the need for such precaution because at the time they had left the city, people used to slaughter animals in the name of idols and that was what they sold in the market.
 
 ## Tafsir Ibn Kathir
 

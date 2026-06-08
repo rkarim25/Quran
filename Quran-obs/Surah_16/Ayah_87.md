@@ -52,7 +52,7 @@ Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ 
 
 ## Tafsir Summary
 
-And on the Day when We resurrect a witness from each nation, then those who disbelieve will not be given leave, nor will they be allowed (to return to the world) to repent and ask for Allah's forgiveness.) 85. Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ الْحَرَّ‌ (shirts which protect you from heat - 81).
+Nay, it (the Fire) will come upon them all of a sudden and will perplex them, and they will have no power to avert it nor will they have any respite.)(21:39-40) The gods of the Idolators will disown Them at the Time when They need them most Then Allah tells us that their gods will disown them when they need them most.
 
 ## Tafsir Ibn Kathir
 

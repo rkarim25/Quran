@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And below these two, there are two other Gardens (62)Then which of the blessings of your Lord will you both deny (63)Mudhāmmatān (64)Then which of the blessings of your Lord will you both deny (65)In them (both) will be… هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ (Is there any reward for goodness other than goodness?...55:60).
+And below these two, there are two other Gardens (62)Then which of the blessings of your Lord will you both deny (63)Mudhāmmatān (64)Then which of the blessings of your Lord will you both deny (65)In them (both) will be two springs Naddakhatan (66)Then which of the blessings of your Lord will you both deny (67)In them (both) will be fruits, and date palms and pomegranates (68)Then which of the blessings of your Lord will you both deny (69)Therein (Gardens) will be Khayrat His…
 
 ## Tafsir Ibn Kathir
 

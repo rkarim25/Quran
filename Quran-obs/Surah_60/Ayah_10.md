@@ -247,7 +247,7 @@ Qurtubi's above narration indicates that the wordings of the relevant clause wer
 
 ## Tafsir Summary
 
-O you who believe! Peace Treaty of Hudaibiyah and an Analysis of some of its Clauses These verses are related to the event of the treaty of Hudaibiyah which was discussed at legnth in Surah Al-Fath.
+Exemption of Women from the Terms of the Treaty is not a Breach of Treaty.
 
 ## Tafsir Ibn Kathir
 

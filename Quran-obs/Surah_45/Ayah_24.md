@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "There is nothing but our life of this world, we die and we live and nothing destroys us except Ad-Dahr (time). وَمَا يُهْلِكُنَا إِلَّا الدَّهْرُ‌ "...and nothing destroys us except time...(45:24) " The word dahr means ` time from the beginning of the world to its end'.
+Reviling Time Is Inappropriate Atheists believed that ` Time' is the cause of life, death, vicissitudes of conditions and adversities, and also the cause of the revolution of the entire universe.
 
 ## Tafsir Ibn Kathir
 

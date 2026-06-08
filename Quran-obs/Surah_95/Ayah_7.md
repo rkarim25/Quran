@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Recitation of Surat At-Tin in the Prayer while Traveling Malik and Shu'bah narrated from 'Adi bin Thabit, who narrated that Al-Bara' bin 'Azib said, "The Prophet ﷺ used to recite in one of his Rak'ahs while traveling 'At-Tin waz-Zaytun' (Surat At-Tin), and I have never heard anyone with a nicer voice or recitation than him." The Group has recorded this Hadith in their books. فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ (So, what can make you, after all this, to deny the Requital?...95:7).
+Then they shall have a reward without end.)(7. Then what causes you to deny after this the Recompense?)(8.
 
 ## Tafsir Ibn Kathir
 

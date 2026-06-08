@@ -237,7 +237,7 @@ As that boy grew, Allah raised him to be a righteous person. When he reached the
 
 ## Tafsir Summary
 
-Have you not thought about the group of the Children of Israel after (the time of) Musa? 1.
+Shamwil called the Children of Israel (to Allah) and they asked him to appoint a king over them so that they could fight their enemies under his command. Earlier, anyone who would fight the Israelites would lose, because they had the Torah and the Tabut, which they inherited generation after generation ever since the time of Moses, who spoke to Allah directly.
 
 ## Tafsir Ibn Kathir
 

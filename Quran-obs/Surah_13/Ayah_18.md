@@ -121,7 +121,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-For those who answered their Lord's call is Al-Husna. The outcome of both parables is that foam does appear prominent for a while on the real thing, but it finally gets to be thrown away and the real thing remains.
+For those who answered their Lord's call is Al-Husna.
 
 ## Tafsir Ibn Kathir
 

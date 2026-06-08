@@ -60,7 +60,7 @@ From the verse لَيْسَ لَكَ مِنَ الْأَمْرِ‌ شَيْءٌ
 
 ## Tafsir Summary
 
-(Remember) when you said to the believers, "Is it not enough for you that your Lord should help you with three thousand angels sent down? In the previous verses, the battle of Badr was cited in relation to the battle of Uhud.
+And there is no victory except from Allah, the All-Mighty, the All-Wise (126)That He might cut off a part of those who disbelieve, or expose them to infamy, so that they retire frustrated (127)Not for you is the decision; whether He turns in mercy to (pardon) them or punishes them; verily, they are the wrongdoers (128)And to Allah belongs all that is in the heavens and all that is in the earth.
 
 ## Tafsir Ibn Kathir
 

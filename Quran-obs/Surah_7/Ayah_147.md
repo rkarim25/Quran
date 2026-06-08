@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-I shall turn away from My Ayat those who behave arrogantly on the earth, without a right, and (even) if they see all the Ayat, they will not believe in them. The verse 146 spoke of the arrogant people as showing arrogance unjustly.
+And if they see the way of righteousness, they will not adopt it as the way, but if they see the way of error, they will adopt that way, that is because they have rejected Our Ayat and were heedless of them (146)Those who deny Our Ayat and the meeting in the Hereafter, vain are their deeds.
 
 ## Tafsir Ibn Kathir
 

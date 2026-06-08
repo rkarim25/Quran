@@ -110,7 +110,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do not grieve over their speech, for all power and honor belong to Allah. It was said in the last verse (64) that, for the friends of Allah, there is the good news in the worldly life and in the Hereafter.
+And those who worship and invoke others besides Allah, in fact they follow not the partners, they follow only a conjecture and they do nothing but lie (66)He it is Who has appointed for you the night that you may rest therein, and the day to make things visible (to you).
 
 ## Tafsir Ibn Kathir
 

@@ -124,7 +124,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We took the Children of Israel across the sea, and Fir'awn with his hosts followed them in oppression and enmity, till when drowning overtook him, he (Fira'wn) said: "I believe that none has the right to be worshipped but He in Whom the Children of Israel believe, and I am one of the Muslims. Mentioned in the fourth verse (90) was the famous miracle of Sayyidna Musa (علیہ السلام) - the crossing of the sea and the drowning of Pharaoh.
+The Children of Israel were saved and Fir'awn's People drowned Allah tells us how He caused Fir'awn and his soldiers to drown.
 
 ## Tafsir Ibn Kathir
 

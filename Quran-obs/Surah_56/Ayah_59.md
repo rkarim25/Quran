@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-We created you, then why do you believe not (57)Do you not see the semen you emit (58)Is it you who create it, or are We the Creator (59)We have decreed death to you all, and We are not outstripped (60)To transfigure you… Proof of the occurrence of the Day of Resurrection Thus far the Surah dealt with three categories of people on the Plain of Hashr (Gathering.) The verses so far described the reward and punishment of these three groups.
+Neither of the parents [ especially the mother in whose womb all this is taking place ] knows whether the child is a boy or a girl, until it is born.
 
 ## Tafsir Ibn Kathir
 

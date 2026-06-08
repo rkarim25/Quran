@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the Jews say: "Uzayr (Ezra) is the son of Allah," and the Christians say: "The Messiah is the son of Allah." That is their saying with their mouths, resembling the saying of those who disbelieved aforetime. In the second verse (30), the subject taken up briefly in verse 29 (where it was said that these people do not believe in Allah) has been enlarged.
+And the Jews say: "Uzayr (Ezra) is the son of Allah," and the Christians say: "The Messiah is the son of Allah." That is their saying with their mouths, resembling the saying of those who disbelieved aforetime.
 
 ## Tafsir Ibn Kathir
 

@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And he who believed said: "O my people! In verse 33, it was said: يَوْمَ تُوَلُّونَ مُدْبِرِ‌ينَ (a day when you will turn backon your heels,).
+And whomsoever Allah sends astray, for him there is no guide (33)And indeed Yusuf did come to you, in times gone by, with clear signs, but you ceased not to doubt in that which he did bring to you, till when he died, you said: "No Messenger will Allah send after him." Thus Allah leaves astray him who is a transgressor and a skeptic (34)Those who dispute about the Ayat of Allah, without any authority that has come to them, it is greatly hateful and disgusting to Allah and to t…
 
 ## Tafsir Ibn Kathir
 

@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And put forward to them the example of two men: unto one of them We had given two gardens of grapes, and We had surrounded both with date palms; and had put between them green crops (cultivated fields)(32)Each of those two gardens brought forth its produce, and failed not in the least therein, and We caused a river to gush forth in the midst of both (33)And he had Thamar, and he said to his companion in the course of discussion: "I am greater than you in wealth and have a mightier entourage. The word: ثَمَرٌ‌ (thamar) in: وَكَانَ لَهُ ثَمَرٌ‌ (And he had wealth - 34) means the fruit of trees as well as wealth, in an absolute sense.
+He refuted the argument of the former one by saying that the worldly wealth is not a sign of one's being close to Allah, because the worldly benefits are given by Allah, in one way or the other, even to the disbelievers and sinful persons, rather to the snakes, scorpions and beasts.
 
 ## Tafsir Ibn Kathir
 

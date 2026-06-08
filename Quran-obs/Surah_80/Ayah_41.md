@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then when there comes As-Sakhkha (33)That Day shall a man flee from his brother (34)And from his mother and his father (35)And from his wife and his children (36)Every man that Day will have enough to make him careless o… يَوْمَ يَفِرُّ‌ الْمَرْ‌ءُ مِنْ أَخِيهِ (the Day when one will flee from his brother...80:34).
+Darkness (Qatarah) will cover them.) meaning, they will be overcome and covered with Qatarah, which is darkness. And from his wife and his children.) meaning, he will see them and then flee from them, and seek to get away from them because horror will be so great and the matter will be so weighty.
 
 ## Tafsir Ibn Kathir
 

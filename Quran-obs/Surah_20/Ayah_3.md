@@ -26,7 +26,7 @@ Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His M
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. إِلَّا تَذْكِرَ‌ةً لِّمَن يَخْشَىٰ (Rather to remind him who has the fear - 20:3).
+We have not sent down the Qur'an unto you to cause you distress, but only as a Reminder to those who fear (Allah).) The matter is not like the people of falsehood claim.
 
 ## Tafsir Ibn Kathir
 

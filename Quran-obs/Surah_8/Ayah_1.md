@@ -88,7 +88,7 @@ Imam Ahmad recorded that Abu Umamah said, "I asked 'Ubadah about Al-Anfal and he
 
 ## Tafsir Summary
 
-There are seventy-five Ayat in this Surah. This verse is related to an event which came to pass in the battle of Badr.
+You tell them that the spoils are for Allah and the Messenger, that is, no one holds a claim on them, or is their owner.
 
 ## Tafsir Ibn Kathir
 

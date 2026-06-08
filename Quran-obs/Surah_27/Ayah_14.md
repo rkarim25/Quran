@@ -53,7 +53,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when Musa said to his household: "Verily, I have seen a fire; I will bring you from there some information, or I will bring you a burning ember, that you may warm yourselves. Except him who did wrong, then after (doing) evil replaced (it) with good, then I am Most-Forgiving, Very-Merciful.
+Musa and the End of Fir'awn Here Allah tells His Messenger Muhammad ﷺ about what happened to Musa, peace be upon him, how Allah chose him, spoke with him and gave him mighty, dazzling signs and overwhelming proof, and sent him to Fir'awn and his people, but they denied the proof, disbelieved in him and arrogantly refused to follow him.
 
 ## Tafsir Ibn Kathir
 

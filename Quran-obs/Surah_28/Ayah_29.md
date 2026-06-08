@@ -119,7 +119,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, when Musa had fulfilled the term, and was traveling with his family, he saw a fire in the direction of At-Tur. فَلَمَّا قَضَىٰ مُوسَى الْأَجَلَ (So When Musa (علیہ السلام) completed the term - 28:29).
+Verily, I am Allah, the Lord of all that exits!) meaning, 'the One Who is addressing you and speaking to you is the Lord of all that exits, the One Who does what He wills, the One apart from Whom there is no other god or lord, may He be exalted and sanctified, the One Who by His very nature, attributes, words and deeds is far above any resemblance to His creation, may He be glorified.
 
 ## Tafsir Ibn Kathir
 

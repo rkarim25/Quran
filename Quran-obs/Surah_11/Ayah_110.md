@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So be not in doubt as to what these people (pagans and polytheists) worship. After having given this good counsel to them, he warned them of the punishment of Allah Ta` ala.
+And verily, We shall repay them in full their portion without diminution (109)Indeed, We gave the Book to Musa, but differences arose therein, and had it not been for a Word that had gone forth before from your Lord, the case would have been judged between them, and indeed they are in grave doubt concerning it (this Qur'an)(110)And verily, to each of them your Lord will repay their works in full.
 
 ## Tafsir Ibn Kathir
 

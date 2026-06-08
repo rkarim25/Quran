@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And among His signs is this that He sends the winds as glad tidings, giving you a taste of His mercy, and that the ships may sail at His command, and that you may seek of His bounty, in order that you may be thankful (46)And indeed We did send Messengers before you to their own peoples. فَانتَقَمْنَا مِنَ الَّذِينَ أَجْرَ‌مُوا وَكَانَ حَقًّا عَلَيْنَا نَصْرُ‌ الْمُؤْمِنِينَ (Then We took vengeance upon those who were guilty.
+They came to them with clear proofs, then, We took vengeance on those who committed crimes; and it was incumbent upon Us to help the believers . They came to them with clear proofs, then, We took vengeance on those who committed crimes;) These are words of consolation from Allah to His servant and Messenger Muhammad ﷺ.
 
 ## Tafsir Ibn Kathir
 

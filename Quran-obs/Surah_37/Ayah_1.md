@@ -18,7 +18,7 @@ This Surah is Makki, that is, it was revealed in Makkah al-Mukarramah. Like othe
 
 ## Tafsir Summary
 
-The Virtues of Surat As-Saffat An-Nasa'i recorded that 'Abdullah bin 'Umar, may Allah be pleased with him, said, "The Messenger of Allah ﷺ used to command us to make our prayers short and he used to recite As-Saffat when he lead us in prayer." This was recorded by An-Nasa'i only. This Surah is Makki, that is, it was revealed in Makkah al-Mukarramah.
+Therefore, the Surah has been initiated with an oath taken in the name of angels combined with a declaration of the attributes of their servitude.
 
 ## Tafsir Ibn Kathir
 

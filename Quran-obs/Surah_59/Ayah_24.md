@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Had We sent down this Qur'an on a mountain, you would surely have seen it humbling itself and rent asunder by the fear of Allah. الْمُصَوِّرُ‌ (...the Originator of all Shapes....59:24) In other words, He gives shape to everything He creates.
+He is the Most Gracious, the Most Merciful.) Allah states that He Alone is worthy of worship, there is no Lord or God for the existence, except Him.
 
 ## Tafsir Ibn Kathir
 

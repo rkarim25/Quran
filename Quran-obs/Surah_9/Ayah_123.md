@@ -77,7 +77,7 @@ Previous verses carried inducement to Jihad. The first verse from the present on
 
 ## Tafsir Summary
 
-O you who believe! Previous verses carried inducement to Jihad.
+Fight those of the disbelievers who are close to you, and let them find harshness in you; and know that Allah is with those who have Taqwa .
 
 ## Tafsir Ibn Kathir
 

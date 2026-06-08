@@ -63,7 +63,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Ibrahim said to his father and his people: "Verily, I am innocent of what you worship, (26)"Except Him Who created me; and verily, He will guide me. Superiority is not based upon wealth and property This is the second reply to the infidels of Makkah for their question why prophethood was not bestowed upon some very rich and wealthy person of Makkah or Ta'if?
+And the Hereafter with your Lord is for those who have Taqwa .
 
 ## Tafsir Ibn Kathir
 

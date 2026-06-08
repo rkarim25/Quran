@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if they belie you, say: "For me are my deeds and for you are your deeds! In the concluding verse (32), it was said: فَذَٰلِكُمُ اللَّـهُ رَ‌بُّكُمُ الْحَقُّ ۖ فَمَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ (So, that is Allah, your Lord in truth.
+But guiding the people to the truth is not up to you or to them.
 
 ## Tafsir Ibn Kathir
 

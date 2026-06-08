@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Then an oft-repeated objection of the disbelievers is mentioned, that is, when they are dead and reduced to bones and dust, how will they be raised again to life.
+The word Banan 'fingertips' is specially mentioned here because they are among the smallest parts of the body.
 
 ## Tafsir Ibn Kathir
 

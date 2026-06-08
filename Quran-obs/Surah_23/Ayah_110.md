@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He (Allah) will say: "Remain you in it with ignominy! وَلَا تُكَلِّمُونِ (Do not speak to Me - 23:108).
+And, whenever they passed by them, used to wink one to another.)(83:29-30) meaning, they used to slander them in mockery.
 
 ## Tafsir Ibn Kathir
 

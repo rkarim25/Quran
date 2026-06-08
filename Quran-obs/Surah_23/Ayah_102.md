@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, when the Trumpet is blown, there will be no kinship among them that Day, nor will they ask of one another (101)Then, those whose Scales (of good deeds) are heavy, these! So, the one whose scales (of good deeds) turn out to be heavy, then such people are the successful ones, [ 102] and the one whose scales turn out to be light, then such people are the ones who harmed their own selves; in Jahannam (Hell) they are to remain forever.
+As for the Muslims who have committed sins and whose good deeds and evil deeds will be placed in the two pans of the scale for weighing, there is no specific mention about them in the Qur'an which is, in general, silent about the punishment and reward of erring Muslims.
 
 ## Tafsir Ibn Kathir
 

@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And were Allah to hasten for mankind the evil as He hastens for them the good then they would have been ruined. The first of the seven verses cited above relates to people who deny 'Akhirah (Hereafter, life to come).
+And were Allah to hasten for mankind the evil as He hastens for them the good then they would have been ruined. So We leave those who expect not their meeting with Us, in their trespasses, wandering blindly in distraction .
 
 ## Tafsir Ibn Kathir
 

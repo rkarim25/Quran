@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Ibrahim said to his father Azar: "Do you take idols as gods? Using Wisdom and Strategy in Tabligh and Da'wah is the Way of Prophets Let us begin with verse 76 which opens with the words: رَ‌أَىٰ كَوْكَبًا So, when the night enveloped him, he saw a star.
+It is He in Whose Hand is the dominion of all things, and He is the Creator, Lord, King and God of all things in existence.
 
 ## Tafsir Ibn Kathir
 

@@ -50,7 +50,7 @@ Do you (faithful believers) covet that they will believe in your religion inspit
 
 ## Tafsir Summary
 
-Do you (faithful believers) covet that they will believe in your religion inspite of the fact that a party of them (Jewish rabbis) used to hear the Word of Allah (the Tawrah), then they used to change it knowingly after… Allah reminds the Jews that He is omniscient, and knows what they try to keep concealed as well as what they say or do openly.
+Allah reminds the Jews that He is omniscient, and knows what they try to keep concealed as well as what they say or do openly.
 
 ## Tafsir Ibn Kathir
 

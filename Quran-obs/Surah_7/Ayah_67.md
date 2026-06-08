@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to 'Ad (the people, We sent) their brother Hud. Its reply which appears in verses 67 and 68 is nearly the same as given by Sayyidna Nuh (علیہ السلام) - 61-63.
+There is no foolishness in me, but (I am) a Messenger from the Lord of all that exists (67)"I convey unto you the Messages of my Lord, and I am a trustworthy adviser (or well-wisher) for you (68)"Do you wonder that there has come to you a Reminder (and an advice) from your Lord through a man from among you to warn you?
 
 ## Tafsir Ibn Kathir
 

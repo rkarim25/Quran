@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We made a covenant with Adam before, but he forgot, and We found on his part no firm willpower (115)And (remember) when We said to the angels: "Prostrate yourselves to Adam." They prostrated themselves (all) except Iblis; he refused (116)Then We said: "O Adam! إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعْرَ‌ىٰ (Here you are privileged that you will not be hungry nor will you be unclad, and you will not be thirsty, nor will you be exposed to sun - 118.) Four things needed for the existence of life will be provided in Paradise without asking or putting in any labour.
+So let him not get you both out of Paradise, so that you will be distressed. He also explains the enmity of Iblis for the Children of Adam and for their father, Adam, before them.
 
 ## Tafsir Ibn Kathir
 

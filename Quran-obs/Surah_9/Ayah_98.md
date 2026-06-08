@@ -80,7 +80,7 @@ Allah states that there are disbelievers, hypocrites and believers among the bed
 
 ## Tafsir Summary
 
-The bedouins are the worst in disbelief and hypocrisy, and more likely to not know the limits which Allah has revealed to His Messenger. In the second verse (98) too, yet another aspect of the condition of these very Bedouins has been described as: ` those who take what they spend (in Zakah etc.) as a penalty.' Why would they do so?
+In other words, the evil state of affairs they wish would strike at Muslims is going to descend upon them all right - and, because their words and deeds are such, they will find themselves far more disgraced.
 
 ## Tafsir Ibn Kathir
 

@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Who provides for you from the sky and the earth? In the concluding verse (32), it was said: فَذَٰلِكُمُ اللَّـهُ رَ‌بُّكُمُ الْحَقُّ ۖ فَمَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ (So, that is Allah, your Lord in truth.
+Who protects all, while against Whom there is no protector?
 
 ## Tafsir Ibn Kathir
 

@@ -144,7 +144,7 @@ Mahdawi narrates a similar incident of Sayyidna Thabit Ibn Qais ؓ ، a venerabl
 
 ## Tafsir Summary
 
-(And there is also a share in this booty) for the poor emigrants, who were expelled from their homes and their property, seeking bounties from Allah and (His) good pleasure, and helping Allah and His Messenger. The Merits of Ansar [ The Helpers ] وَالَّذِينَ تَبَوَّءُوا الدَّارَ‌ وَالْإِيمَانَ مِن قَبْلِهِمْ ( And [ fai' is also for ] those who established themselves in the homeland [ of Madinah ] and in faith before the former ones [ arrived in Madinah ] ...59:9).
+And whoever is saved from the greed of his soul, then such people are the successful....59:9) After the mention of the Ansar's selflessness and self-sacrifice, a general rule of law or a universal principle is being laid down in the concluding part of verse [ 9].
 
 ## Tafsir Ibn Kathir
 

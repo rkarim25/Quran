@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-We shall attend to you, O Thaqalan (31)Then which of the blessings of your Lord will you both deny (32)O assembly of Jinn and men! يُرْ‌سَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ‌ وَنُحَاسٌ فَلَا تَنتَصِرَ‌انِ (A flame of fire and a smoke will be loosed against you, and you will not [ be able ] to defend...
+But you will never be able to pass them, except with authority (from Allah)(33)Then which of the blessings of your Lord will you both deny (34)There will be sent against you both, Shuwāz of fire and Nuhas, and you will not be able to defend yourselves (35)Then which of the blessings of your Lord will you both deny) ur Lord will you both deny . It addresses them and describes how fire and smoke will be unleashed against them.
 
 ## Tafsir Ibn Kathir
 

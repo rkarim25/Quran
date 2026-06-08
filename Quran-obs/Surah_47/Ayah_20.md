@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who believe say: "Why is not a Surah sent down (for us)?" But now that a decisive Surah is sent down mentioning fighting, you can see those in whose hearts is disease (of hypocrisy) looking at you with the look of one who is about to faint for fear of death. سُورَ‌ةٌ مُّحْكَمَةٌ (an operative surah): The word مُّحْكَمَةٌ muhkamah lexically means "firm".
+Here the word Surah has been qualified by the adjective muhkamah so that the eagerness of the believers for a new Surah is understandable only when it embodies an operative divine commandment that is not abrogated.
 
 ## Tafsir Ibn Kathir
 

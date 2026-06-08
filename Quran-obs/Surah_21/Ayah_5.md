@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Anbiya' Al-Bukhari recorded that 'Abdur-Rahman bin Yazid said that 'Abdullah said, "Banu Isra'il, Al-Kahf, Maryam, Ta Ha and Al-Anbiya' - they are among the earliest and most beautiful Surahs and… بَلْ قَالُوا أَضْغَاثُ أَحْلَامٍ (they said, [ The Further Qur'an is ] a mixture of hotch-potch dreams.
+It was not, therefore, considered desirable to show them miracles of their choice because if they, like the earlier people, persisted in their unbelief even after seeing those miracles, they too would invite the wrath of Allah Ta` ala. What it means is that in the first place the unbelievers called the Qur'an as magic, then they described it as a collection of disturbed dreams, and then they said it was a forgery and fabrication against Allah Ta’ ala to call it His words; and…
 
 ## Tafsir Ibn Kathir
 

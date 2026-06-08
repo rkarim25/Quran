@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. فَإِنَّ مَعَ الْعُسْرِ‌ يُسْرً‌ا إِنَّ مَعَ الْعُسْرِ‌ يُسْرً‌ا (So undoubtedly, along with hardship there is ease.
+Verily, along with every hardship is relief,)(6.
 
 ## Tafsir Ibn Kathir
 

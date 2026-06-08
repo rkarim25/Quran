@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We sent not before you but men to whom We revealed. فَاسْأَلُوا أَهْلَ الذِّكْرِ‌ إِن كُنتُمْ لَا تَعْلَمُونَ (So, ask the people (having the knowledge) of the message, if you do not know.
+So ask the people of the Reminder if you do not know (7)And We did not place them in bodies that did not eat food, nor were they immortals (8)Then We fulfilled to them the promise.
 
 ## Tafsir Ibn Kathir
 

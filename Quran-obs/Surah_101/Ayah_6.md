@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Human Deeds, Good or Bad, will be Weighed This Surah mentions the weighing of human deeds.
+Anyone whose Book of Deeds is put on the scale and contains the belief ('Iman) will be heavy, and the scale of anyone whose Ledger of Deeds does not contain 'Iman will be light.
 
 ## Tafsir Ibn Kathir
 

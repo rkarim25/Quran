@@ -76,7 +76,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah it is He Who has created the heavens and the earth, and all that is between them in six Days. At this place, the word: نَّذِيرٍ (nadhir: warner) in: مَّا أَتَاهُم مِّن نَّذِيرٍ (to whom no warner has come..
+Will you not then remember (4)He directs the command from the heavens to the earth; then it will go up to Him, in one Day, the space whereof is a thousand years of your reckoning (5)That is He, the All-Knower of the unseen and the seen, the All-Mighty, the Most Merciful .
 
 ## Tafsir Ibn Kathir
 

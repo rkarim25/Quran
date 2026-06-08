@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O Musa! "0 Musa either you throw (first) or shall we be the ones to throw." The Arabic word:'' اِلقَا ‘ ء !
+It was said that the wisdom behind asking them to throw first, is that - Allah knows best - the people might witness the magicians' sorcery first.
 
 ## Tafsir Ibn Kathir
 

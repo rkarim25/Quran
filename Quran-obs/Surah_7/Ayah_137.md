@@ -128,7 +128,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So We took retribution from them. The previous verses contained an account of the warnings from Allah to the people of Pharaoh.
+Firstly, because their patience against the constant persecution at the hands of Pharaoh and his people is a proven fact.
 
 ## Tafsir Ibn Kathir
 

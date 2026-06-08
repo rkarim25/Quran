@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the Trumpet will be blown and behold from the graves they will come out quickly to their Lord (51)They will say: "Woe to us! In verse 52, it was said: قَالُوا يَا وَيْلَنَا مَن بَعَثَنَا مِن مَّرْ‌قَدِنَا (They will say, "Woe to us!
+Though the disbelievers were already having their punishment in their graves with no sign of any relief, yet this punishment will appear as nothing when compared with the punishing circumstances of the day of Qiyamah, therefore, they will cry out as to why they had to be taken out of their graves, for it would have been better if they had stayed right there.
 
 ## Tafsir Ibn Kathir
 

@@ -91,7 +91,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So be not in doubt as to what these people (pagans and polytheists) worship. After having given this good counsel to them, he warned them of the punishment of Allah Ta` ala.
+Therefore, Allah will give them due recompense for that and He will punish them with a punishment the likes of which none can give besides Him. So be not in doubt as to what these people (pagans and polytheists) worship.
 
 ## Tafsir Ibn Kathir
 

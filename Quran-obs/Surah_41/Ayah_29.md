@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We have assigned for them intimate companions (in this world), who have made fair seeming to them, what was before them and what was behind them. لَا تَسْمَعُوا لِهَـٰذَا الْقُرْ‌آنِ وَالْغَوْا فِيهِ (Do not listen to this Qur'an, and make noiseduring its recitation, - 41:26) When all the efforts of the disbelievers failed in confronting the Holy Qur'an, they started doing such mischievous acts as mentioned in this verse.
+Show us those among Jinn and men who led us astray, that we may crush them under our feet so that they become the lowest. And the Word is justified against them as it was justified against those who were among the previous generations of Jinn and men that had passed away before them.
 
 ## Tafsir Ibn Kathir
 

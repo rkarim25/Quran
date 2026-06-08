@@ -136,7 +136,7 @@ And there are, certainly, among the People of the Scripture (Jews and Christians
 
 ## Tafsir Summary
 
-And there are, certainly, among the People of the Scripture (Jews and Christians), those who believe in Allah and in that which has been revealed to you, and in that which has been revealed to them, humbling themselves before Allah. Mentioned in verses previous to this were some prayers made by good believers.
+this is the Ribat.) They also say that the Murabatah in the above Ayah refers to battles against the enemy, and manning Muslim outposts to protect them from enemy incursions inside Muslim territory. There are several Hadiths that encourage Murabatah and mention its rewards.
 
 ## Tafsir Ibn Kathir
 

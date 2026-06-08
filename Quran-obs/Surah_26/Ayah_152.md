@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Will you be left secure in that which you have here? وَتَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا فَارِ‌هِينَ ﴿149﴾And you hew out houses from the hills with pride.
+Useful vocations are Divine Graces provided they are not employed in bad things This verse indicates that nice vocations are Allah's Graces, and to draw benefit from them is lawful. There is no contradiction between the two views, because they built the houses which they carved in the mountains as a form of extravagant play, with no need for them as dwelling places.
 
 ## Tafsir Ibn Kathir
 

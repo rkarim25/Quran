@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And certainly, We shall test you with something of fear, hunger, loss of wealth, lives and fruits, but give glad tidings to As-Sabirin (the patient)(155)Who, when afflicted with calamity, say: "Truly, to Allah we belong and truly, to Him we shall return. Earlier, alluding to an unpleasant incident, patience and steadfastness were inculcated and the excellence of Sabirun (the patient people) was mentioned.
+Reward me for my loss and give me what is better than it,' but Allah will do just that.) Umm Salamah said: So I memorized these words.
 
 ## Tafsir Ibn Kathir
 

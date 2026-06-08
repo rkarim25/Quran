@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But when there comes the Greatest Catastroph (34)The Day when man shall remember what he strove for (35)And Hell shall be made apparent for whoever sees (36)Then for him who transgresse (37)And preferred the life of this… Thereafter, the special marks of the inmates of Paradise are described.
+But when there comes the Greatest Catastroph (34)The Day when man shall remember what he strove for (35)And Hell shall be made apparent for whoever sees (36)Then for him who transgresse (37)And preferred the life of this world (38)Verily, his abode will be the Hell (39)But as for him who feared standing before his Lord, and forbade himself from desire (40)Verily, Paradise will be his abode (41)They ask you about the Hour when will be its appointed tim (42)What do you have to…
 
 ## Tafsir Ibn Kathir
 

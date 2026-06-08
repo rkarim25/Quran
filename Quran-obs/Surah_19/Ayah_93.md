@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "The Most Gracious (Allah) has begotten a son. "And the mountains to fall down crumbling" - 19:90.
+There is no coequal for Him in His creation, because all creatures are His slaves.
 
 ## Tafsir Ibn Kathir
 

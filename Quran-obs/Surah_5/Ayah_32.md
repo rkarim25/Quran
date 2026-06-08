@@ -180,7 +180,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Because of that, We ordained for the Children of Israel that if anyone killed a person not in retaliation of murder, or (and) to spread mischief in the land - it would be as if he killed all mankind, and if anyone saved a life, it would be as if he saved the life of all mankind. In these verses, Allah Ta` a1a has instructed the Holy Prophet ﷺ that he should relate the story of the two sons of Adam truthfully to the people of the Book, or to the whole Ummah.
+this Ayah is general in meaning and includes the idolators and all others who commit the types of crimes the Ayah mentioned.
 
 ## Tafsir Ibn Kathir
 

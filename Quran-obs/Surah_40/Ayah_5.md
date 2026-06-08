@@ -95,7 +95,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-None disputes in the Ayat of Allah but those who disbelieve. In verse 4, it was said: مَا يُجَادِلُ فِي آيَاتِ اللَّـهِ إِلَّا الَّذِينَ كَفَرُ‌وا (No one quarrels about the verses of Allah, except those who disbelieve.).
+So let not their ability of going about here and there through the land (for their purposes) deceive you (4)The people of Nuh and the groups after them denied before these; and every nation plotted against their Messenger to seize him, and disputed by means of falsehood to refute therewith the truth. So I seized them, and how was My punishment (5)Thus has the Word of your Lord been justified against those who disbelieved, that they will be the dwellers of the Fire .
 
 ## Tafsir Ibn Kathir
 

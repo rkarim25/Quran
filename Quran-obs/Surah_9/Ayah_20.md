@@ -80,7 +80,7 @@ There is a Hadith [from the Prophet ﷺ] about the Tafsir of this Ayah that we s
 
 ## Tafsir Summary
 
-Do you consider the providing of drinking water to the pilgrims and the maintenance of Al-Masjid Al-Haram as equal to the worth of those who believe in Allah and the Last Day, and strive hard and fight in the cause of Allah They are not equal before Allah. Verse 20 enlarges upon the subject initiated with the words: لَا يَسْتَوُونَ (la yastawun: they are not equal) in the previous verse (19) where it was said that the believing Mujahidin and those engaged only in maintaining the masjid and serving water to pilgrims are not equal.
+And Allah guides not those people who are the wrongdoers (19)Those who believed and emigrated and strove hard and fought in Allah's cause with their wealth and their lives, are far higher in degree with Allah.
 
 ## Tafsir Ibn Kathir
 

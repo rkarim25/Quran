@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Did you (O Muhammad ﷺ) not think of those who went forth from their homes in the thousands, fearing death? In a uniquely eloquent manner, the two verses (243, 244) appearing above and verse 245 which follows, present guidance that prompts the sacrifice of one's life and possessions in the way of Allah Almighty.
+Truly, Allah is full of bounty to mankind, but most men thank not (243)And fight in the way of Allah and know that Allah is All-Hearer, All-Knower (244)Who is he that will lend to Allah a goodly loan so that He may multiply it to him many times?
 
 ## Tafsir Ibn Kathir
 

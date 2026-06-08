@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Prostration of Recitation in Surat Al-Inshiqaq It is reported from Abu Salamah that while leading them in prayer, Abu Hurayrah recited, إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا (He had been joyful among his people...84:13).
+Verily, his Lord has been ever beholding him!) meaning, certainly Allah will repeat his creation just as he began his creation, and He will reward him based upon his deeds, whether they were good or bad. Live how you wish, for verily you will die; love what you wish, for verily you will part with it; and do what you wish, for verily you will meet it (your deed).) There are some people who refer the pronoun back to the statement "your Lord." Thus, they hold the Ayah to mean, "…
 
 ## Tafsir Ibn Kathir
 

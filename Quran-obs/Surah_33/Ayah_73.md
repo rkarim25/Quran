@@ -70,7 +70,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Truly, We did offer the Amanah to the heavens and the earth, and the mountains, but they declined to bear it and were afraid of it. لِّيُعَذِّبَ اللَّـهُ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ (with the result that Allah will punish the hypocrites, men and women, and the Mushriks, men and women, and will accept the repentance of the believing men and women.
+Verily, he was unjust and ignorant (72)So that Allah will punish the hypocrites, men and women, and the men and women who are idolators.
 
 ## Tafsir Ibn Kathir
 

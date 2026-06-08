@@ -110,7 +110,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We gave the Children of Israel the Scripture, and the understanding of the Scripture and its laws, and the prophethood; and provided them with good things, and preferred them above the nations (16)And gave them clear proofs in matters. These verses purport to confirm the risalah of the Final Messenger of Allah ﷺ .
+And they differed not until after the knowledge came to them, through envy among themselves. And indeed We gave the Children of Israel the Scripture, and the understanding of the Scripture and its laws, and the prophethood; and provided them with good things, and preferred them above the nations (16)And gave them clear proofs in matters.
 
 ## Tafsir Ibn Kathir
 

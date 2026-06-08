@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who disbelieve are allies of one another, (and) if you (Muslims) do not do so (protect one another), there will be Fitnah on the earth, and great corruption (73) The Disbelievers are Allies of Each Other; the M… Said in the second verse (73) وَالَّذِينَ كَفَرُ‌وا بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ (And those who disbelieve are friends to each other).
+Similarly, also given was the instruction that the disbelievers are responsible for each other as guardians and inheritors, therefore, no interference should be made in their personal law of guardianship and inheritance. And those who disbelieve are allies of one another, (and) if you (Muslims) do not do so (protect one another), there will be Fitnah on the earth, and great corruption .
 
 ## Tafsir Ibn Kathir
 

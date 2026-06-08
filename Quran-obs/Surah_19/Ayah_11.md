@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He Zakariyya said: "My Lord! سَوِيًّا means healthy.
+And remember your Lord much, and glorify (Him) in the afternoon and in the morning.)[3:41] This is a proof that he did not speak to his people for these three nights and their days as well.
 
 ## Tafsir Ibn Kathir
 

@@ -76,7 +76,7 @@ This marvelous system of causes and effects was, in fact, a masterpiece of Allah
 
 ## Tafsir Summary
 
-Have you not seen how your Lord spread the shadow. Relationship between causes and effects and their being subject to Allah's will The above verses describe complete and total omnipotence of Allah Ta’ ala and His bounties and favors showered on human kind.
+If He willed, He could have made it still – but We have made the sun its guide (45)Then We withdraw it towards Ourselves – a gradual withdrawal (46)And it is He Who makes the night a covering for you, and the sleep (as) a repose, and makes the day Nushur . If He so willed, Allah would have made sunlight and shades stationary so that where there was sunlight it would have stayed as such, and where there was shade it would have remained such forever.
 
 ## Tafsir Ibn Kathir
 

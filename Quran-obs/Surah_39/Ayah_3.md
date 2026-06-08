@@ -148,7 +148,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Az-Zumar An-Nasa'i recorded that 'A'ishah, may Allah be pleased with her, said, "The Messenger of Allah ﷺ used to fast until we would say, 'He does not want to break fast,' and he would not fast unti… The next sentence in verse 3 says: وَالَّذِينَ اتَّخَذُوا مِن دُونِهِ أَوْلِيَاءَ مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّ‌بُونَا (As for those who have taken to guardians other than Him [ saying ], "We worship them for no other reason than that they would bring us near to Allah closely." - 39:3).
+This is a conditional sentence which does not imply that this happened or that it is permitted; indeed, it is impossible.
 
 ## Tafsir Ibn Kathir
 

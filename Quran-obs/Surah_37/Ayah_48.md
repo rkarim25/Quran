@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, you are going to taste the painful torment (38)And you will be requited nothing except for what you used to do (39)Save the chosen servants of Allah (40)For them there will be a known provision (41)Fruits; and th… 7.
+It was also said that it means with wide eyes, which is connected to the first meaning.
 
 ## Tafsir Ibn Kathir
 

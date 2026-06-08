@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But those who believed, and worked righteousness – We burden not any person beyond his scope – such are the dwellers of Paradise. The third verse (42) mentions those who dutifully follow Divine injunctions as they are the people of Paradise and there they shall live forever.
+The purpose is to emphasize that good deeds - which is a condition for entry into Paradise - is really not something so difficult as would be beyond the ability of a man or woman.
 
 ## Tafsir Ibn Kathir
 

@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: O my Lord! يَغْفِرْ‌ لَكُم مِّن ذُنُوبِكُمْ and Allah will forgive you your sins, 71:4).
+Verily, I have called to my people night and day (5)But all my calling added nothing but to (their) flight (6)And verily, every time I called unto them that You might forgive them, they thrust their fingers into their ears, covered themselves up with their garments, and persisted, and magnified themselves in pride (7)Then verily, I called to them openly (aloud)(8)Then verily, I proclaimed to them in public, and I have appealed to them in private (9)I said (to them): Ask forgi…
 
 ## Tafsir Ibn Kathir
 

@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, the Day of Decision is a fixed time (17)The Day when the Trumpet will be blown, and you shall come forth in crowds (18)And the heaven shall be opened, and it will become as gates (19)And the mountains shall be mo… لَّابِثِينَ فِيهَا أَحْقَابًا (who will be abiding in it for ages....78:23).
+Every part of the last person will deteriorate except for one bone, and it is the coccyx bone (tailbone).
 
 ## Tafsir Ibn Kathir
 

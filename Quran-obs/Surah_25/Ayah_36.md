@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We gave Musa the Scripture, and placed his brother Harun with him as a helper (35)And We said: "Go you both to the people who have denied Our Ayat." Then We destroyed them with utter destruction (36)And Nuh's people, when they denied the Messengers, We drowned them, and We made them as a sign for mankind. الَّذِينَ كَذَّبُوا بِآيَاتِنَا (who have rejected Our signs - 25:36).
+And when the people of Nuh denied him, Allah destroyed them likewise, for whoever denies one Messenger denies all the Messengers, because there is no difference between one Messenger and another.
 
 ## Tafsir Ibn Kathir
 

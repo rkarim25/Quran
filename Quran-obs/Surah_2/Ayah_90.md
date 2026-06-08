@@ -124,7 +124,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-How bad is that for which they have sold their own selves, that they should disbelieve in that which Allah has revealed (the Qur'an), grudging that Allah should reveal of His grace unto whom He wills of His servants. Prophethood cannot be earned through one's own efforts or one's own merit; it is a special grace which Allah bestows on whomsoever He likes.
+How bad is that for which they have sold their own selves, that they should disbelieve in that which Allah has revealed (the Qur'an), grudging that Allah should reveal of His grace unto whom He wills of His servants.
 
 ## Tafsir Ibn Kathir
 

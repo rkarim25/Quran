@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who disbelieve, and hinder from the path of Allah, and oppose the Messenger, after the guidance has been clearly shown to them, they will not harm Allah in the least, but He will make their deeds fruitless (32)O you who believe! إِنَّ الَّذِينَ كَفَرُ‌وا وَصَدُّوا عَن سَبِيلِ اللَّـهِ ثُمَّ مَاتُوا وَهُمْ كُفَّارٌ‌ (Those who disbelieve and prevent (others) from Allah's way, Allah will never forgive them...- 47:34): verse [ 32] has a similar warning in similar words.
+The ruling regarding them is that Allah will never forgive them in the next world.
 
 ## Tafsir Ibn Kathir
 

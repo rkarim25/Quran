@@ -99,7 +99,7 @@ The previous verses had mentioned how obstinate people failed to benefit from cl
 
 ## Tafsir Summary
 
-And they swear their strongest oaths by Allah, that if there came to them a sign, they would surely believe therein. The previous verses had mentioned how obstinate people failed to benefit from clear signs of Allah and open miracles of His Messenger and kept on denying the message of truth.
+But, the attitude of not cross-examining evidences presented and yet demanding some other evidences would be like the scenario in a law court where the respondent would avoid cross-examining the witness presented by the plaintiff and take the plea that he does not accept the evidence of these witnesses and that he would accept what is said particularly by such and such a person in his statement.
 
 ## Tafsir Ibn Kathir
 

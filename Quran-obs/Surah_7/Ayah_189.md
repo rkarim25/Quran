@@ -129,7 +129,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is He Who has created you from a single person, and (then) He has created from him his wife, in order that he might enjoy the pleasure of living with her. The next verse 189 speaks of the most basic belief of Islam that is Tauhid and, at the same time, brings out the falsity of believing in more than one god.
+The next verse 189 speaks of the most basic belief of Islam that is Tauhid and, at the same time, brings out the falsity of believing in more than one god. It is He Who has created you from a single person, and (then) He has created from him his wife, in order that he might enjoy the pleasure of living with her.
 
 ## Tafsir Ibn Kathir
 

@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So eat of that on which Allah's Name has been mentioned, if you are believers in His Ayat (118)And why should you not eat of that on which Allah's Name has been mentioned, while He has explained to you in detail what is forbidden to you, except under compulsion of necessity? Earlier (116), by saying: وَ اِن تطِع (And if you obey), following people in error was prohibited absolutely.
+Allowing What was Slaughtered in the Name of Allah This is a statement of permission from Allah, for His servants, allowing them to eat the slaughtered animals werein His Name was mentioned when slaughtering them.
 
 ## Tafsir Ibn Kathir
 

@@ -73,7 +73,7 @@ The last two verses, according to Sayyidna ` Ubaiyy ibn Ka'b ؓ ، are the last 
 
 ## Tafsir Summary
 
-Verily, there has come unto you a Messenger from among yourselves. The last two verses, according to Sayyidna ` Ubaiyy ibn Ka'b ؓ ، are the last verses of the Qur'an.
+There is no God but He,) Allah is sufficient for me, there is no deity worthy of worship except Him, and in Him I put my trust.
 
 ## Tafsir Ibn Kathir
 

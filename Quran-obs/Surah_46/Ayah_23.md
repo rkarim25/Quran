@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And remember the brother of 'Ad, when he warned his people in Al-Ahqaf. { 1} The reference here is to the towns of Thamud and the people of Sayyidna Lut (علیہ السلام) that were in the way of the people of Arabia while they travelled to Syria.
+And I convey to you that wherewith I have been sent, but I see that you are a people given to ignorance!
 
 ## Tafsir Ibn Kathir
 

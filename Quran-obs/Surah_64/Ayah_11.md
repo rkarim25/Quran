@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-No calamity occurs, but by the permission of Allah, and whosoever believes in Allah, He guides his heart. مَا أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ اللَّـهِ ۗ وَمَن يُؤْمِن بِاللَّـهِ يَهْدِ قَلْبَهُ (And no calamity befalls [ one ], but with the leave of Allah.
+And whoever believes in Allah, He guides his heart…64:11) In other words, it is a reality that not even a particle can move without the Divine will. And Allah is the All-Knower of everything.) meaning, whoever suffered an affliction and he knew that it occurred by Allah's judgement and decree, and he patiently abides, awaiting Allah's reward, then Allah guides his heart, and will compensate him for his loss in this life by granting guidance to his heart and certainty in faith…
 
 ## Tafsir Ibn Kathir
 

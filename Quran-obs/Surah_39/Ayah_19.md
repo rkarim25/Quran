@@ -52,7 +52,7 @@ Therefore, it has been said that this verse was revealed about Sayyidna Zayd Ibn
 
 ## Tafsir Summary
 
-Is, then one against whom the Word of punishment is justified (equal to the one who avoids evil)? In the Tafsir of verses 17 and 18: فَبَشِّرْ‌ عِبَادِ ﴿17﴾ الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُ ۚ أُولَـٰئِكَ الَّذِينَ هَدَاهُمُ اللَّـهُ ۖ وَأُولَـٰئِكَ هُمْ أُولُو الْأَلْبَابِ (So, give the good news to My servants who listen to what is said, then, follow the best of it.
+Is, then one against whom the Word of punishment is justified (equal to the one who avoids evil)?
 
 ## Tafsir Ibn Kathir
 

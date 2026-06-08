@@ -66,7 +66,7 @@ Al-Hafiz Abu Bakr Al-Bayhaqi recorded that Sa'd said, "There were four Ayat reve
 
 ## Tafsir Summary
 
-O you who believe! it is in the third verse (92) that the Holy Qur'an, in its characteristic way with words, has this to say: And obey Allah and obey the Messenger, and be careful.
+If you turn back, be sure that the duty of Our Messenger is only to convey the Message clearly.
 
 ## Tafsir Ibn Kathir
 

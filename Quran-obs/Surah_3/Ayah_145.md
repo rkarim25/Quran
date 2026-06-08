@@ -106,7 +106,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Muhammad is no more than a Messenger, and indeed Messengers have passed away before him. The need to learn that crucial lesson has been taken up in the second verse as well.
+Therefore, it cannot be said that these blessed Companions abandoned their post of duty under the temptation of worldly gains. And he who turns back on his heels, not the least harm will he do to Allah; and Allah will reward the grateful (144)And no person can ever die except by Allah's leave and at an appointed term.
 
 ## Tafsir Ibn Kathir
 

@@ -118,7 +118,7 @@ And argue not with the People of the Scripture, except with that which is better
 
 ## Tafsir Summary
 
-And argue not with the People of the Scripture, except with that which is better – except with such of them as do wrong; and say (to them): "We believe in that which has been revealed to us and revealed to you; our God and your God is One, and to Him we have submitted. وَلَا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ إِلَّا الَّذِينَ ظَلَمُوا (And do not debate with the people of the Book unless it is in the best way, except those from them who commit injustice.
+Arguing with the People of the Book What is meant here is that anyone who wants to find out about religion from them should argue with them in a manner that is better, as this will be more effective.
 
 ## Tafsir Ibn Kathir
 

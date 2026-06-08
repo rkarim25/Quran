@@ -28,7 +28,7 @@ Ibn 'Abbas and 'Ikrimah have both said, "This Surah was revealed about Ka'b bin 
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The Enemy of the Prophet ﷺ is Cut Off Verse [ 108:3] إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ‌ (Surely, it is your enemy whose traces are cut off.) The word shani' as used in the original is derived from sha'n and means 'one who hates, traducer, insulter'.
+So from this goodness is the river (in Paradise).
 
 ## Tafsir Ibn Kathir
 

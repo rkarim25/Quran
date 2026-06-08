@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "You have believed in him before I give you leave. When the Pharaoh threatened the magicians to kill them, and to cut their limbs and to crucify them, the magicians replied rather indifferently, the gist of their reply was, ` You do whatever you can.
+It is worth noting here that the magicians who had involved all their lives practicing the sinful sorcery and who believed in the Pharaoh's claim to be a god, rather, used to worship him, pronounced faith in Allah before that tyrant and despotic king and the entire nation.
 
 ## Tafsir Ibn Kathir
 

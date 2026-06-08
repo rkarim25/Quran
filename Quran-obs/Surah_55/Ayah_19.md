@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He created man from sounding clay like the clay of pottery (14)And the Jinn He created from a smokeless flame of fire (15)Then which of the blessings of your Lord will you both deny (16)The Lord of the two easts and the… Allah created Different Types of Water مَرَ‌جَ الْبَحْرَ‌يْنِ يَلْتَقِيَانِ (He has set forth the two seas that meet together...55:19).
+He created man from sounding clay like the clay of pottery (14)And the Jinn He created from a smokeless flame of fire (15)Then which of the blessings of your Lord will you both deny (16)The Lord of the two easts and the Lord of the two wests (17)Then which of the blessings of your Lord will you both deny (18)He has Maraja the two seas meeting together (19)Between them is a barrier which none of them can transgress (20)Then which of the blessings of your Lord will you both den…
 
 ## Tafsir Ibn Kathir
 

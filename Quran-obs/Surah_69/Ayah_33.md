@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But as for him who will be given his Record in his left hand, will say: "I wish that I had not been given my Record!") (25)"And that I had never known how my account is! ثُمَّ فِي سِلْسِلَةٍ ذَرْ‌عُهَا سَبْعُونَ ذِرَ‌اعًا فَاسْلُكُوهُ (Thereafter, make him enter into a chain, the measure of which is seventy hands....69:32).
+The phrase 'make him enter into a chain' could be interpreted metaphorically as 'bind him in a chain' but it could be taken in its primary sense, that is, to pierce the chain through one side of the body, so that it could come out from the other side of it like a string is passed through a pearl or the bead of a rosary.
 
 ## Tafsir Ibn Kathir
 

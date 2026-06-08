@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! The previous verse mentioned property and children as being a trial for mortal man because these are things the concern and love for which make one so overtaken that one would usually turn heedless towards Allah, the Creator and 'Akhirah, the life-to-come - though, the rational demand of this great blessing was that one should have shown a far pronounced tilt towards Him because of this favour.
+If you obey and fear Allah, He will grant you Furqan, and will expiate for you your sins, and forgive you; and Allah is the Owner of the great bounty .
 
 ## Tafsir Ibn Kathir
 

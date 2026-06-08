@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who break the covenant of Allah, after its ratification, and sever that which Allah has commanded to be joined, and work mischief in the land, on them is the curse, and for them is the unhappy (evil) home (i.e. At the beginning of the section, human beings were divided into two kinds - those who are obedient to Allah Ta’ ala and those who are disobedient to Him.
+And those who break the covenant of Allah, after its ratification, and sever that which Allah has commanded to be joined, and work mischief in the land, on them is the curse, and for them is the unhappy (evil) home (i.e.
 
 ## Tafsir Ibn Kathir
 

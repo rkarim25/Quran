@@ -149,7 +149,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So her Lord (Allah) accepted her with goodly acceptance. In order to fulfill her vow, Sayyidah Maryam's mother took her to the Mosque of بیت المقدس Baitul-Maqdis and talked to the care-takers and worshippers at the Mosque, Sayyidna Zakariyya (علیہ السلام) being one of them, and.
+Every time he entered the Mihrab to (visit) her, he found her supplied with sustenance. He also made her accompany the righteous people, so that she learned righteousness, knowledge and religion.
 
 ## Tafsir Ibn Kathir
 

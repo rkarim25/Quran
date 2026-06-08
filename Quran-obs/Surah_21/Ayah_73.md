@@ -76,7 +76,7 @@ And We rescued him and Lut to the land which We have blessed for the nations (71
 
 ## Tafsir Summary
 
-And We rescued him and Lut to the land which We have blessed for the nations (71)And We bestowed upon him Ishaq, and Ya'qub Nafilatan. وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ نَافِلَةً (And We blessed him with Ishaq and Ya` qub as gift - 21:72) That is, Allah Ta` la had bestowed upon him the son Ishaq (علیہ السلام) as per his supplication and in addition to that a grandson Ya` qub (علیہ السلام) as a gift.
+Each one We made righteous (72)And We made them leaders, guiding by Our command, and We revealed to them the doing of good deeds, performing Salah, and the giving of Zakah, and of Us (Alone) they were the worshippers (73)And (remember) Lut, We gave him wisdom and knowledge, and We saved him from the town who practised Al-Khaba'ith.
 
 ## Tafsir Ibn Kathir
 

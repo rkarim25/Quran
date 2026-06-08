@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed most of the earlier ones went astray before them (71)And indeed We sent among them warners (72)Then see what was the end of those who were warned (73)Except the chosen servants of Allah (74) Allah tells us that most of the previous nations went astray, worshipping other gods alongside Allah. By saying: طَلْعُهَا كَأَنَّهُ رُ‌ءُوسُ الشَّيَاطِينِ (Its fruits are like the heads of the shaitans.- 65), the fruits of zaqqum have been likened to the heads of the satans.
+And indeed most of the earlier ones went astray before them (71)And indeed We sent among them warners (72)Then see what was the end of those who were warned (73)Except the chosen servants of Allah .
 
 ## Tafsir Ibn Kathir
 

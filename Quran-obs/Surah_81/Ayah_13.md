@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-What has been narrated about This Surah Imam Ahmad recorded from Ibn 'Umar that the Messenger of Allah ﷺ said, وَإِذَا السَّمَاءُ كُشِطَتْ (and when the sky will be stripped off...81:11) The word kushitat is derived from kasht, and it literally means 'to strip off the skin of an animal.
+And when Paradise is brought near.)(14.
 
 ## Tafsir Ibn Kathir
 

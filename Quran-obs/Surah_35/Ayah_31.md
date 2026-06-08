@@ -78,7 +78,7 @@ And what We have revealed to you – O Muhammad, of the Book, i.e., the Qur'an,
 
 ## Tafsir Summary
 
-And what We have revealed to you of the Book, it is the (very) truth confirming that which was (revealed) before it. Mentioned earlier, in verse 28, there was a quality of true ` Ulama' who acknowledge Allah.
+And what We have revealed to you of the Book, it is the (very) truth confirming that which was (revealed) before it.
 
 ## Tafsir Ibn Kathir
 

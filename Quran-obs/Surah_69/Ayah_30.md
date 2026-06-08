@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But as for him who will be given his Record in his left hand, will say: "I wish that I had not been given my Record!") (25)"And that I had never known how my account is! خُذُوهُ فَغُلُّوهُ (Seize him, then put a collar around his neck...
+The Bad Condition of Whoever is given His Record in His Left Hand These Ayat inform about the condition of the wretched people when one of them is given his Record (of deeds) in his left hand when the people are brought before Allah.
 
 ## Tafsir Ibn Kathir
 

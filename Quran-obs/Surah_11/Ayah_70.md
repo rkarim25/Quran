@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, there came Our messengers to Ibrahim with the glad tidings. In verse 70, it was said: فَلَمَّا رَ‌أَىٰ أَيْدِيَهُمْ لَا تَصِلُ إِلَيْهِ نَكِرَ‌هُمْ (So, when he noticed their hands not reaching for it, he found them strange and felt a bit of fright from them).
+A casual look is enough, because looking at the morsels of food being eaten by the guest is contrary to the etiquette of entertainment and certainly very humiliating for the invited guest.
 
 ## Tafsir Ibn Kathir
 

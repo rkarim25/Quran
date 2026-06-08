@@ -26,7 +26,7 @@ Sayyidna Abu Dharr Al-Ghifari ؓ says that he asked the Holy Prophet ﷺ whether
 
 ## Tafsir Summary
 
-Reciting Surat Al-A'la and Al-Ghashiyah in the Friday Prayer It has already been mentioned on the authority of An-Nu'man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A'la (87) and Al-Ghashiyah in the 'Id and Friday prayers. إِنَّ هَـٰذَا لَفِي الصُّحُفِ الْأُولَىٰ صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ (Indeed this is [ written ] in the earlier divine scripts, the scripts of Ibrahim and Musa....87:18, 19] In other words, either all the themes of this Surah or its last theme, that the Hereafter is much better and much more durable than this life, was written in the earlier Divine scriptures.
+I did not give you kingdom so that you may amass wealth, but I had given you power so that you may let the supplication of the oppressed against the oppressor reach me, because my law does not reject the supplication of an oppressed, even though it may be uttered by an unbeliever.
 
 ## Tafsir Ibn Kathir
 

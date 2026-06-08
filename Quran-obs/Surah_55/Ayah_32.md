@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-We shall attend to you, O Thaqalan (31)Then which of the blessings of your Lord will you both deny (32)O assembly of Jinn and men! . A Warning for Humans and Jinn
+We shall attend to you, O Thaqalan (31)Then which of the blessings of your Lord will you both deny (32)O assembly of Jinn and men! Thus the word ath-haqalan [ the dual form ] denotes 'the two heavy or weighty things', and signifies 'the men' and 'the Jinn' as the context shows.
 
 ## Tafsir Ibn Kathir
 

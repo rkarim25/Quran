@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And perform the Salah, at the two ends of the day and in some hours of the night. The diction of the Qur'an points out to the great station the Holy Prophet ﷺ occupies It would be recalled that following the description of awe-inspiring events relating to past prophets and their peoples in Surah Hud, some instructions have been given to the Holy Prophet ﷺ and his community that begin from the previous verse (112): فَاسْتَقِمْ كَمَا أُمِرْ‌تَ (So, stand firm - as you have been commanded).
+In one narration reported by Qatadah, Ad-Dahhak and others, Al-Hasan said, "It means the morning prayer (Subh) and the late afternoon prayer ('Asr)." Mujahid said, "It is the morning prayer at the beginning of the day and the noon prayer (Zuhr) and late afternoon prayer ('Asr) at the end of the day." This was also said by Muhammad bin Ka'b Al-Qurazi and Ad-Dahhak in one narration from him.
 
 ## Tafsir Ibn Kathir
 

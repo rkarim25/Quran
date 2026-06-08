@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-These are the Ayat of Allah, which We recite to you with truth. وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ ("Woe to every sinful liar...
+Therefore, if they do not believe in Allah's Ayat nor abide by them, what speech after Allah and His Ayat will they then believe in?
 
 ## Tafsir Ibn Kathir
 

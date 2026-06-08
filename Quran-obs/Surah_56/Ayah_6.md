@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Waqi'ah Abu Ishaq reported from 'Ikrimah from Ibn 'Abbas that Abu Bakr said, "O Allah's Messenger! خَافِضَةٌ رَّ‌افِعَةٌ (It will be abasing [ some ], exalting [ others ]...56:3).
+And the mountains will be powdered to dust,)(6. So that they will become floating dust particles.)(7.
 
 ## Tafsir Ibn Kathir
 

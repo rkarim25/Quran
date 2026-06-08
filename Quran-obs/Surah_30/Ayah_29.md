@@ -72,7 +72,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He sets forth for you a parable from yourselves: Do you have partners among those whom your right hands possess to share as equals in the wealth We have bestowed on you, whom you fear as you fear each other? لَهُ الْمَثَلُ الْأَعْلَىٰ (For Him is the highest attribute - 30:27) The word مَثَل mathal is used for any such thing which has resemblance and similarity with something else, but its being exactly like that is not necessary.
+Thus do We explain the signs in detail to a people who have sense (28)Nay, but those who do wrong follow their own lusts without knowledge. Then who will guide him whom Allah has sent astray And for such there will be no helpers .
 
 ## Tafsir Ibn Kathir
 

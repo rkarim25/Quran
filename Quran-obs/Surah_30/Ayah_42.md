@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Evil has appeared in Al-Barr and Al-Bahr because of what the hands of men have earned, that He may make them taste a part of that which they have done, in order that they may return (41)Say: "Travel in the land and see what was the end of those before (you)! ظَهَرَ‌ الْفَسَادُ فِي الْبَرِّ‌ وَالْبَحْرِ‌ بِمَا كَسَبَتْ أَيْدِي النَّاسِ (Plight has appeared on land and sea because of what the hands of the people have earned 30:41).
+The purpose of these worldly troubles is to awaken them from their slumber, so that they get rid of their evil acts. Therefore, in the case of prophets and pious persons, calamities may visit them without sins.
 
 ## Tafsir Ibn Kathir
 

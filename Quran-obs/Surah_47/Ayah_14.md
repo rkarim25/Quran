@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Can then he, who stands on clear evidence from his Lord, be like those for whom their evil deeds are beautified for them, while they follow their own lusts (14)The description of Paradise which is promised to those who have Taqwa, (is that) in it are rivers of water that are not Asin, rivers of milk the taste of which never changes, rivers of wine delicious to those who drink it, and rivers of refined honey; and therein for them are all kinds of fruits, and forgiveness from their Lord.
+Can then he, who stands on clear evidence from his Lord, be like those for whom their evil deeds are beautified for them, while they follow their own lusts (14)The description of Paradise which is promised to those who have Taqwa, (is that) in it are rivers of water that are not Asin, rivers of milk the taste of which never changes, rivers of wine delicious to those who drink it, and rivers of refined honey; and therein for them are all kinds of fruits, and forgiveness from t…
 
 ## Tafsir Ibn Kathir
 

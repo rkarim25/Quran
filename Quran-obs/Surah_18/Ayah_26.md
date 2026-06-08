@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they stayed in their cave three hundred years, adding nine (25)Say: "Allah knows best how long they stayed. Yet another question arises here about the People of Kahf.
+Ibn Jarir said, "The language used is an eloquent expression of praise." The phrase may be understood to mean, how much Allah sees of everything that exists and how much He hears of everything that is to be heard, for nothing is hidden from Him!
 
 ## Tafsir Ibn Kathir
 

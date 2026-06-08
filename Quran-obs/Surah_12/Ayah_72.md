@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So when he furnished them forth with their provisions, he put the bowl in his brother's bag. We are missing the measuring- bowl of the king, and whoever brings it back shall deserve a camel-load, and I stand a surety for it.
+This is a claim without any proof and, given the anatomy of the event, incoherent too.
 
 ## Tafsir Ibn Kathir
 

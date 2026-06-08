@@ -86,7 +86,7 @@ Ibn Abi Najih narrated that Mujahid said that this Ayah, "Refers to someone who 
 
 ## Tafsir Summary
 
-And if anyone of the Mushrikin seeks your protection then grant him protection so that he may hear the Word of Allah (the Qur'an) and then escort him to where he can be secure, that is because they are men who know not (… It was said in the first five verses of Surah At-Taubah that, soon after the Conquest of Makkah, general amnesty was granted to all polytheists and disbelievers of Makkah and its environs.
+And if anyone of the Mushrikin seeks your protection then grant him protection so that he may hear the Word of Allah (the Qur'an) and then escort him to where he can be secure, that is because they are men who know not . This has been mentioned in the sixth verse the substance of which is: If someone from among the disbelievers seeks asylum with you, then, you should grant it so that he could come close to you and listen to the Word of Allah and understand the veracity of Isl…
 
 ## Tafsir Ibn Kathir
 

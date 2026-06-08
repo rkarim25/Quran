@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Truly, Allah has given you victory on many battlefields, and on the day of Hunayn (battle) when you rejoiced at your great number, but it availed you naught and the earth, vast as it is, was straitened for you, then you turned back in flight (25)Then Allah did send down His Sakinah (tranquillity) on His Messenger, and on the believers, and sent down forces (angels) which you saw not, and punished the disbelievers. Described in the verses cited about are events relating to the scenario of defeat and victory at the battle of Hunain.
+Allah then sent down His aid and support to His Messenger ﷺ and the believers who remained with him, so that they were aware that victory is from Allah alone and through His aid, even if the victorious were few.
 
 ## Tafsir Ibn Kathir
 

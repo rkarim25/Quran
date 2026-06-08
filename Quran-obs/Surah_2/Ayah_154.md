@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Earlier, alluding to an unpleasant incident, patience and steadfastness were inculcated and the excellence of Sabirun (the patient people) was mentioned.
+The Martyrs are not dead One who dies in the cause of Allah is a Shahid (Martyr) and, although, it is correct and even allowed to call him "dead", yet we are forbidden to regard their death like ordinary deaths.
 
 ## Tafsir Ibn Kathir
 

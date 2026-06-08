@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. فَاِذَا بَرِقَ الْبَصَرُ وَخَسَفَ الْقَمَرُ وَجُمِعَ الشَّمْسُ وَالْقَمَرُ (So, when the eyes will be dazzled, and the moon will lose its light, and the sun and the moon will be joined together,...75:7-9).
+He will say, "Where (is the place) to flee to?" This means, where is the escape or refuge? Though he may put forth his excuses.) The Oath about the Final Return on the Day of Resurrection and the Refutation against the Plots of the Thinkers It has been mentioned previously on more than one occasion that if the thing that is being sworn about is something that is being negated, then it is permissible to use the word "La" (Nay) before the oath to emphasize the negation.
 
 ## Tafsir Ibn Kathir
 

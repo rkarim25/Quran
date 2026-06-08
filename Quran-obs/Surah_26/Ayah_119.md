@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "If you cease not, O Nuh you will surely be among those stoned. Nobility of a person depends on deeds and moral qualities and not on family or status They said, "Shall we believe in you while you are followed by the lowest people?" [ 111] He said, "I do not know about what they do.
+Then We drowned the rest thereafter.) The "laden ship" is one that is filled with cargo and the couples, one pair from every species, that were carried in it.
 
 ## Tafsir Ibn Kathir
 

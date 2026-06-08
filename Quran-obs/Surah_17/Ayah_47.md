@@ -90,7 +90,7 @@ The subject taken up in the first two verses (45, 46) has a particular event as 
 
 ## Tafsir Summary
 
-We know best of what they listen to, when they listen to you. A prophet being affected by magic is as possible as being affected by sickness.
+In the morning, Al-Akhnas bin Shurayq took his stick and went to the house of Abu Sufyan bin Harb, where he said, 'Tell me, O Abu Hanzalah [i.e., Abu Sufyan], what do you think of what you have heard from Muhammad?' Abu Sufyan said, 'O Abu Tha'labah [i.e., Al-Akhnas], by Allah, I have heard something I understand and I know what is meant by it, and I have heard things I do not understand and do not know what is meant by it.' Al-Akhnas said: 'Me too, by the One by Whom you swo…
 
 ## Tafsir Ibn Kathir
 

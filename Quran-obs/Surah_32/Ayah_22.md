@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Is then he who is a believer like him who is rebellious? There are some crimes the punishment of which comes even within the mortal world much before the Hereafter.
+But, from some Hadith accounts it appears that there are three sins the punishment of which is experienced - before the Hereafter - right here in this world too.
 
 ## Tafsir Ibn Kathir
 

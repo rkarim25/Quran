@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed, We have sent down for you a Book in which there is Dhikrukum. These verses describe the destruction of those settlements which some exegesists have taken as Fladhura' ) حضُوراء) and Qilabah (قلابہ) of Yemen.
+Hence it will be apt to leave the subject open, so that these settlements of Yemen may also come in its ambit.
 
 ## Tafsir Ibn Kathir
 

@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Perform the Salah from midday till the darkness of the night, and recite the Qur'an in the early dawn. The time of the Salah of Tahajjud: Injunctions and rulings The word: فَتَھَجُّد (tahajjud) in: وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ (And during the night, wake up for Salah- 79) has been derived from ھجود :hujud.
+The outcome of these narrative reports is no other but that no Salah - other than the five prayers - is obligatory (fard) on the Muslim ummah at large and on the Holy Prophet ﷺ himself.
 
 ## Tafsir Ibn Kathir
 

@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Beneficent, the Most Merciful. وَأَنزَلْنَا مِنَ الْمُعْصِرَ‌اتِ مَاءً ثَجَّاجًا (And We have sent down from the rain-laden clouds abundant water,...78:14).
+And We have sent down from the Mu'sirat water Thajjaj.)(15. This is so that it may be suitable for dwelling and not quake with those who are in it.
 
 ## Tafsir Ibn Kathir
 

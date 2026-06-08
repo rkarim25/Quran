@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who have earned evil deeds, the recompense of an evil deed is the like thereof, and humiliating disgrace will cover them (their faces). In the two verses (27, 28) appearing next, there is a dialogue between the people of Jahannam and the idols or satans who had led them astray.
+And those who have earned evil deeds, the recompense of an evil deed is the like thereof, and humiliating disgrace will cover them (their faces).
 
 ## Tafsir Ibn Kathir
 

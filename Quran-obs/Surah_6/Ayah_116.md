@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if you obey most of those on the earth, they will mislead you far away from Allah's path. In the third verse (116), Allah Ta ala tells the Holy Prophet ﷺ that the majority of the progeny of 'Adam living on the earth is in error.
+In the third verse (116), Allah Ta ala tells the Holy Prophet ﷺ that the majority of the progeny of 'Adam living on the earth is in error.
 
 ## Tafsir Ibn Kathir
 

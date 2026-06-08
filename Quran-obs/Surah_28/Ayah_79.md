@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, he went forth before his people in his finery. إِنَّمَا أُوتِيتُهُ عَلَىٰ عِلْمٍ عِندِي (This is given to me because of knowledge (I have) with me- 28:78).
+Some commentators are of the view that "knowledge" in this sentence refers to the understanding of Torah.
 
 ## Tafsir Ibn Kathir
 

@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the heart of the mother of Musa became empty. وَأَوْحَيْنَا إِلَىٰ أُمِّ مُوسَىٰ (28:7) The word Wahy (inspiration) is used here in its literal meaning.
+It was decreed that no one should nurse him except his own mother, and Allah caused this to be the means reuniting him with his mother so that she could nurse him and feel safe after having felt such fear. The intense Grief of Musa's Mother, and how He was returned to Her Allah tells us how, when her child was lost in the river, the heart of Musa's mother became empty, i.e., she could not think of any matter in this world except Musa.
 
 ## Tafsir Ibn Kathir
 

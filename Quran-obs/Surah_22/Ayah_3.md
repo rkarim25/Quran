@@ -62,7 +62,7 @@ Allah condemns those who deny the Resurrection and who deny that Allah is able t
 
 ## Tafsir Summary
 
-And among mankind is he who disputes about Allah, without knowledge, and follows every rebellious Shaytan (3)For him (the devil) it is decreed that whosoever follows him, he will mislead him, and will drive him to the to… وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّـهِ بِغَيْرِ‌ عِلْمٍ (And among men there is one who debates about Allah with no knowledge - 22:8.) This verse was revealed with particular reference to Nadr Ibn al-Harith, who was a very quarrelsome person.
+And among mankind is he who disputes about Allah, without knowledge, and follows every rebellious Shaytan (3)For him (the devil) it is decreed that whosoever follows him, he will mislead him, and will drive him to the torment of the Fire .
 
 ## Tafsir Ibn Kathir
 

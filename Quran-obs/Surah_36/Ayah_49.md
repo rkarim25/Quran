@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "When will this promise be fulfilled, if you are truthful? مَا يَنظُرُ‌ونَ إِلَّا صَيْحَةً وَاحِدَةً (They are looking for nothing but for a single Cry that will seize them - 36:49).
+While in this state, Allah will command Israfil to blow into the Trumpet, so he will sound a long note and there will be no one left on the face of the earth except he will tilt his head to listen to the sound coming from heaven.
 
 ## Tafsir Ibn Kathir
 

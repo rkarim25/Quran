@@ -125,7 +125,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you assembly of Jinn and humans! Mentioned in the second verse (130), is a question which will be asked of the Jinn and human beings on the plains of Resurrection.
+This shows that messengers have been sent to the Jinnkind from among their own kind - as is the case with human-kind among whom the messengers were sent from among them, that is, they were human beings.
 
 ## Tafsir Ibn Kathir
 

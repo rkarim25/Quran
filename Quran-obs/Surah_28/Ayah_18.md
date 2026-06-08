@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So he became afraid, looking about in the city, when behold, the man who had sought his help the day before, called for his help (again). قَالَ رَ‌بِّ بِمَا أَنْعَمْتَ عَلَيَّ فَلَنْ أَكُونَ ظَهِيرً‌ا لِّلْمُجْرِ‌مِينَ (He [ Musa ] said, "0 my Lord, since You have favoured me, I will never be a supporter to the sinners." -28:17).
+So he became afraid, looking about in the city, when behold, the man who had sought his help the day before, called for his help (again). Therefore, by declaring him a criminal he vowed not to help such a person again.
 
 ## Tafsir Ibn Kathir
 

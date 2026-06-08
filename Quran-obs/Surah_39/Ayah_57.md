@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "O My servants who have transgressed against themselves! The next three verses (56-58), beginning from: أَن تَقُولَ نَفْسٌ يَا حَسْرَ‌تَىٰ (Pity on me, because I fell short in respect of Allah...
+For Allah is Oft-Forgiving, Most Merciful.)(5:74).
 
 ## Tafsir Ibn Kathir
 

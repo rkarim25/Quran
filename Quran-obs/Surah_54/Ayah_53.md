@@ -28,7 +28,7 @@ Imam Ahmad recorded that Abu Hurayrah said, "The idolators of the Quraysh came t
 
 ## Tafsir Summary
 
-Verily, the criminals are in error and will burn (47)The Day they will be dragged on their faces into the Fire (it will be said to them): "Taste you the touch of Hell! إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ‌ (Verily, We have created everything according to [ Our ] predestination...54:49).
+Beware of small sins, because there is someone assigned by Allah who records them.) An-Nasa'i and Ibn Majah also collected this Hadith.
 
 ## Tafsir Ibn Kathir
 

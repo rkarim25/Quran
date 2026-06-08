@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they ask you concerning the mountains. يُنفَخُ فِي الصُّورِ‌ (رضی The Day when the Horn الصُّورِ‌ [ Sur ] will be blown - 20:102) According to Sayyidna Ibn ` Umar اللہ تعالیٰ عنہما ، a Bedouin الصُّورِ‌ asked the Holy Prophet ﷺ about صُور (the Horn) to which he replied that it is something like a horn which will be blown, meaning thereby that when the angel will blow into it all those who had lain dead for centuries will return to life.
+And they ask you concerning the mountains. The word Qa' means a piece of land that is level and the word Safsafa is used to place emphasis on this meaning.
 
 ## Tafsir Ibn Kathir
 

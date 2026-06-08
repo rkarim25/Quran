@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Messenger of Allah (ﷺ) recited this Surah to Ubayy Imam Ahmad recorded from Anas bin Malik that the Messenger of Allah ﷺ said to Ubayy bin Ka'b, Situation of the People of the Book and of the Pagan Arabs before the advent of the Final Messenger of Allah ﷺ Verse [ 1] draws attention to the situation of the world before the advent of the Messenger of Allah ﷺ : The entire world was sunk deeply in the darkness of ignorance, superstition, corruption, disbelief and paganism.
+Those who disbelieve from among the People of the Scripture and the idolators, were not going to leave until there came to them the Bayyinah.)(2. And the People of the Scripture differed not until after there came to them the Bayyinah.)(5.
 
 ## Tafsir Ibn Kathir
 

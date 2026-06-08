@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who committed crimes used to laugh at those who believed (29)And, whenever they passed by them, used to wink one to another (30)And when they returned to their own people, they would return jesting (31)And when they saw them, they said: "Verily, these have indeed gone astray! إِنَّ الَّذِينَ أَجْرَمُوا كَانُوا مِنَ الَّذِينَ آمَنُوا يَضْحَكُونَ (Indeed those who were guilty used to laugh at those who believed, 83:29).
+Rather they were the close Awliya' of Allah, who will be looking at their Lord in the place of His honor.
 
 ## Tafsir Ibn Kathir
 

@@ -179,7 +179,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. The Status of Marriage and Divorce in Shari’ ah: The Wise Legal Framework In Ma’ ariful Qur’ an, Volume [ 1], p 573, in Surah Al-Baqarah, full details of the subject under similar heading are given.
+Then, if he wishes to divorce her, he can divorce her when she is clean from her menses, before he has sexual intercourse with her.
 
 ## Tafsir Ibn Kathir
 

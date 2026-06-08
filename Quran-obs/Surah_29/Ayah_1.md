@@ -10,7 +10,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ (Everything is going to perish except His Face - 28:88).
+The word 'His Face' in this verse means the very Being of Allah Ta’ ala.
 
 ## Tafsir Ibn Kathir
 

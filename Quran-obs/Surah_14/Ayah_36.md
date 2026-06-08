@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Ibrahim said: "O my Lord! In the second verse (36), he gives the reason for making this prayer.
+And if we take the 'worship of idols' mentioned in the text in its broader sense as taken by the noble mystics, that is, everything which makes man heedless to Allah is his idol, and overcome by its love, when man takes the initiative and disobeys Allah, this then is, in a way, its worship.
 
 ## Tafsir Ibn Kathir
 

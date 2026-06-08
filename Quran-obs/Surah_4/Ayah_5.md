@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And give not unto the unwise your wealth which Allah has made a means of support for you, but feed and clothe them therewith, and speak to them words of kindness and justice (5)And test orphans until they reach the age of marriage; if then you find sound judgment in them, release their property to them, but consume it not wastefully and hastily, fearing that they should grow up. The injunction to give orphans their property, and the women, their dower, has appeared in previous verses.
+And whoever among guardians is rich, he should take no wages, but if he is poor, let him have for himself what is just and reasonable (according to his work).
 
 ## Tafsir Ibn Kathir
 

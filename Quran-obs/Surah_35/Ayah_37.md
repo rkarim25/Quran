@@ -113,7 +113,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But those who disbelieve, for them will be the fire of Hell. When the people in Jahannam will plead with their Lord that they be delivered from its punishment, so that they could do good deeds then, and not do the bad ones they did earlier, at that time they will be told: أَوَلَمْ…
+For the wrongdoers there is no helper.
 
 ## Tafsir Ibn Kathir
 

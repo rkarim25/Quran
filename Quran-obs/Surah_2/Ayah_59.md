@@ -85,7 +85,7 @@ This rule applies to each and every word of the Holy Qur'an. All the Injunctions
 
 ## Tafsir Summary
 
-And (remember) when We said: "Enter this town (Jerusalem) and eat bountifully therein with pleasure and delight wherever you wish, and enter the gate in prostration (or bowing with humility) and say: 'Forgive us,' and We shall forgive you your sins and shall increase (reward) for the good-doers. This verse is a continuation of the preceding verse.
+They were commanded to say, 'Hittah' meaning, "Relieve us from our errors and sins." However, they mocked this command and said, "Hintah (grain seed) in Sha'irah (barley)." This demonstrates the worst type of rebellion and disobedience, and it is why Allah released His anger and punishment upon them, all because of their sinning and defying His commands.
 
 ## Tafsir Ibn Kathir
 

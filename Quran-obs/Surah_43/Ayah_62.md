@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when the son of Maryam is quoted as an example, behold, your people cry aloud thereat (57)And say: "Are our gods better or is he?" They quoted not the above example except for argument. وَإِنَّهُ لَعِلْمٌ لِّلسَّاعَةِ (And he (Isa علیہ السلام) is a source of knowledge of the Hour [ the day of judgment ] - 43:61).
+Therefore have Taqwa of Allah and obey me.
 
 ## Tafsir Ibn Kathir
 

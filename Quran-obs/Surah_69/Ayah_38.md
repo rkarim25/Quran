@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, I swear by whatsoever you see (38)And by whatsoever you see not (39)That this is verily the word of an honored Messenger (40)It is not the word of a poet, little is that you believe (41)Nor is it the word of a sooths… فَلَا أُقْسِمُ بِمَا تُبْصِرُ‌ونَ وَمَا لَا تُبْصِرُ‌ونَ (I swear by what you see, and what you do not see….69:38-39).
+So, I swear by whatsoever you see (38)And by whatsoever you see not (39)That this is verily the word of an honored Messenger (40)It is not the word of a poet, little is that you believe (41)Nor is it the word of a soothsayer, little is that you remember (42)This is the revelation sent down from the Lord of all that exists .
 
 ## Tafsir Ibn Kathir
 

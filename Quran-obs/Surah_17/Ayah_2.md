@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We gave Musa the Scripture and made it a guidance for the Children of Israel (saying): "Take none other than Me as (your) Wakil. Described in this verse is the event of Mi` raj (the Ascent to the heavens, or al-'Isra', the midnight journey of the Holy Prophet ﷺ which is a signal honor and distinctive miracle of our Messenger of Allah ﷺ).
+After that, when he did tell people about it, the disbelievers of Makkah called it a lie and made fun of him, so much so that some neo-Muslims became apostates (murtadd) after hearing the news. As soon as it was morning, he came back to the gate where he noticed that someone had made a hole in the rock close to the gate of the Masjid which gave the impression that some animal was tied down there.
 
 ## Tafsir Ibn Kathir
 

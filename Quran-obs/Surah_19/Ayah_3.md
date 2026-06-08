@@ -30,7 +30,7 @@ The reason for his fear was that he was afraid that the generation that would su
 
 ## Tafsir Summary
 
-Muhammad bin Ishaq recorded a Hadith of Umm Salamah in his Sirah, and Ahmad bin Hanbal recorded from Ibn Mas'ud, the story of the Hijrah (migration) to Ethiopia from Makkah. نِدَاءً خَفِيًّا (a low voice - 19:3) tells us that it is better to beseech Allah in supplication in undertone.
+When he called his Lord [with] a call in secret.)(4. A reminder of the mercy of your Lord to His servant Zakariyya.)(3.
 
 ## Tafsir Ibn Kathir
 

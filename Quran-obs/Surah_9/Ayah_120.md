@@ -224,7 +224,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It was neither befitting for the people of Al-Madinah and the bedouins of the neighborhood to remain behind Allah's Messenger nor to prefer their own lives to his life. The two verses cited above admonish those who missed to join the expedition of Tabuk for no valid reason.
+That is because they suffer neither Zama' nor Nasab, nor Makhmasah in the cause of Allah, nor did they take any step to raise the anger of disbelievers nor inflict any injury upon an enemy, but is written to their credit as a deed of righteousness. They sought to preserve themselves rather than comfort the Messenger ﷺ during the hardship that he suffered in that battle.
 
 ## Tafsir Ibn Kathir
 

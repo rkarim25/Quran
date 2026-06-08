@@ -45,7 +45,7 @@ Sayyidna Abu ad-Darda', Qatadah and Dahhak ؓ have said that this attribute of s
 
 ## Tafsir Summary
 
-Is then he who is a believer like him who is rebellious? Before approaching verse 16: تَـتَجَافٰى جُنُوْبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُوْنَ رَبَّهُمْ خَوْفًا وَّطَمَعًا (Their sides remain apart from their beds.
+Is then he who is a believer like him who is rebellious?
 
 ## Tafsir Ibn Kathir
 

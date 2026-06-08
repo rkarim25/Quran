@@ -115,7 +115,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And what made you hasten from your people, O Musa (83)He said: "They are close on my footsteps, and I hastened to You, O my Lord, that You might be pleased. أَلَمْ يَعِدْكُمْ رَ‌بُّكُمْ وَعْدًا حَسَنًا (Did your Lord not promise you a good promise?
+- 20:86) Not much time had elapsed on Allah's promise and it is inconceivable that the Bani Isra'il could have forgotten it, or if they remembered it, there was no reason for them to despair of its fulfillment on account of delay, thus providing for themselves justification for the worship of the calf.
 
 ## Tafsir Ibn Kathir
 

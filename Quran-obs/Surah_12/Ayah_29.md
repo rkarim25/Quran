@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So they raced with one another to the door, and she tore his shirt from the back. So, after having pointed out to Zulaikha her error, the ` Aziz of Misr said to Sayyidna Yusuf (علیہ السلام) : يُوسُفُ أَعْرِ‌ضْ عَنْ هَـٰذَا :'O Yusuf, ignore this matter' - that is, do not speak about it before others so there be no disgrace because of this.
+Special Note At this point, it is very surprising that a husband, who finds out an open proof of such immodesty and breach of trust on the part of his wife, would not be agitated, rather, go on talking with perfect peace of mind - unusual indeed, given the compulsion of human nature in such circumstances.
 
 ## Tafsir Ibn Kathir
 

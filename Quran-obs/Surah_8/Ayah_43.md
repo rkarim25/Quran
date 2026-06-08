@@ -91,7 +91,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(And remember) when Allah showed them to you as few in your dream; if He had shown them to you as many, you would surely have been discouraged, and you would surely have disputed in making a decision. Mentioned in verses 43 and 44, there is particular marvel of Divine power which was designed to take place at the battle of Badr for the express purpose of making sure that none of the two armies were to put an end to the war itself by deserting the battlefield - because, it was as a result of this very war that the manifestation of the veracity of Islam was destined even as a ground reality, all earthy, material.
+Certainly, He is the All-Knower of that is in the breasts (43)And (remember) when you met, He showed them to you as few in your eyes and He made you appear as few in their eyes, so that Allah might accomplish a matter already ordained, and to Allah return all matters (for decision).
 
 ## Tafsir Ibn Kathir
 

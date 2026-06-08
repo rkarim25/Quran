@@ -60,7 +60,7 @@ These Ayat were revealed about the victory of Sabur, the king of Persia, over As
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَيَوْمَئِذٍ يَفْرَ‌حُ الْمُؤْمِنُونَ بِنَصْرِ‌ اللَّـهِ (And on that day the believers will rejoice with Allah's help - 30:4).
+In the nearest land, and they, after their defeat, will be victorious.)(4. According to this interpretation, "rejoicing of the believers with Allah's help" in the present verse refers to the victory of the Muslims in the battle of Badr, and the good news given by this verse is twofold; one, in relation to the Romans, and the other in relation to the Muslims themselves.
 
 ## Tafsir Ibn Kathir
 

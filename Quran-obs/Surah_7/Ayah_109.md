@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The chiefs of the people of Fir'awn said: "This is indeed a well-versed sorcerer. The Arabic word 'Mala" is used for influential chiefs.
+Fir'awn's People say that Musa is a Magician!
 
 ## Tafsir Ibn Kathir
 

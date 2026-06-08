@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We gave Musa the Scripture. The word: لِقَاء (liqa' ) in the first verse (23) cited above: فَلَا تَكُن فِي مِرْ‌يَةٍ مِّن لِّقَائِهِ (so do not be in doubt about receiving it) means meeting.
+And We made it a guide to the Children of Israel (23)And We made from among them, leaders, giving guidance under Our command, when they were patient and used to believe with certainty in Our Ayat (24)Verily, your Lord will judge between them on the Day of Resurrection, concerning that wherein they used to differ .
 
 ## Tafsir Ibn Kathir
 

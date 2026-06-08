@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It will not be in accordance with your desires, nor those of the People of the Scripture, whosoever works evil, will have the recompense thereof, and he will not find any protector or helper besides Allah (123)And whoeve… And who is better in Faith than one who has surrendered his self to Allah and is good in deeds, and has followed the creed of Ibrahim, the upright...) (125) It means that there can be no way better than the way of the pe…
+And Allah did take Ibrahim as a Khalil (an intimate friend)(125)And to Allah belongs all that is in the heavens and all that is in the earth.
 
 ## Tafsir Ibn Kathir
 

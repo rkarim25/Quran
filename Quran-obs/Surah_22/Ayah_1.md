@@ -50,7 +50,7 @@ Commentators differ on whether this Surah is Makkan or Madani. Ibn ` Abbas ؓ ha
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Commentators differ on whether this Surah is Makkan or Madani.
+Verily, the earthquake of the Hour is a terrible thing.)(2.
 
 ## Tafsir Ibn Kathir
 

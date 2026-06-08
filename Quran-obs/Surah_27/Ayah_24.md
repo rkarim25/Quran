@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But (the hoopoe) stayed not long, he said: "I have grasped which you have not grasped and I have come to you from Saba' with true news. I have found her and her people prostrating to the sun - 27:24 This shows that her people were star-worshippers and used to worship the sun.
+Since the hoopoe was calling to what is good, and for people to worship and prostrate to Allah alone, it would have been forbidden to kill him.
 
 ## Tafsir Ibn Kathir
 

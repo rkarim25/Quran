@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of the Surahs that begin with Ha Mim Ibn 'Abbas, may Allah be pleased with him, said, "Everything has an essence and the essence of the Qur'an is the family of Ha Mim," or he said, "the Ha Mims." Mis'ar bin Kidam said, "They used to be called 'the brides'." All of this was recorded by the the Imam, great scholar, Abu 'Ubayd Al-Qasim bin Sallam, may Allah have mercy upon him, in his book Fada'il Al-Qur'an.
+La ilaha illa Huwa, to Him is the final return.) We have already discussed the individual letters at the beginning of Surat Al-Baqarah, and there is no need to repeat the discussion here.
 
 ## Tafsir Ibn Kathir
 

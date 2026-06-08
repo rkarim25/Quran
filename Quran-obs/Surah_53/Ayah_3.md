@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The First Surah in which a Prostration is revealed Al-Bukhari recorded that 'Abdullah [bin Mas'ud] said, "Surat An-Najm was the first Surah in which a prostration was revealed. The Holy Prophet's Words are a Revelation from Allah وَمَا يَنطِقُ عَنِ الْهَوَىٰ إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ (And he does not speak out of (his own) desire.
+The foregoing discussion also allays the following doubt: It seems, according to the above verses, that the Messenger ﷺ does not speak of his own desire, but whatever he conveys to the people is a revelation from Allah.
 
 ## Tafsir Ibn Kathir
 

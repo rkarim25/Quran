@@ -48,7 +48,7 @@ Allah, the Exalted, says to His Messenger, Muhammad , 'Say: O mankind! If you ar
 
 ## Tafsir Summary
 
-Say:"O people! In the seventh verse (98), the heedless deniers of truth have been admonished for their failure to make the optimum use of the time of life allowed to them.
+So, they said, let that person show himself up so that others do not suffer because of one person.
 
 ## Tafsir Ibn Kathir
 

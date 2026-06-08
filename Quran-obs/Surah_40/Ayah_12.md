@@ -70,7 +70,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who disbelieve will be addressed: "Indeed, Allah's aversion was greater towards you than your aversion toward yourselves, when you were called to the Faith but you used to refuse. In verse 7, it was said: الَّذِينَ يَحْمِلُونَ الْعَرْ‌شَ وَمَنْ حَوْلَهُ (Those who are bearing the Throne and those who are around it).
+When they actually experience the unbearable punishment of Allah, they will hate themselves with the utmost hatred, because of the sins they committed in the past, which were the cause of their entering the Fire. He will be told that their deeds were not like yours (therefore, they will not be there).
 
 ## Tafsir Ibn Kathir
 

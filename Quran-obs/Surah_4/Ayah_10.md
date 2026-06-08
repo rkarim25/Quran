@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-There is a share for men and a share for women from what is left by parents and those nearest in relation, whether the property be small or large – a legal share (7)And when the relatives, and the orphans, and the poor are present at the time of division, give them from the property, and speak to them words of kindness and justice (8)And let those (executors and guardians) have the same fear in their minds as they would have for their own, if they had left weak offspring behind. Misappropriation of the property of the orphans The fourth verse (10) carries a severe warning for those who pilfer or dispose off the property of orphans unlawfully.
+Many commentators have interpreted this metaphorically, that is, eating the property of the orphans unjustly is like stuffing one's stomach with fire - because this is what is going to happen to him ultimately in the Hereafter.
 
 ## Tafsir Ibn Kathir
 

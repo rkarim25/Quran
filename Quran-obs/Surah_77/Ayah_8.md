@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Revelation of this Surat and its Recitation in the Maghrib Prayer Al-Bukhari recorded from 'Abdullah – that is Ibn Mas'ud – that he said, "While we were with the Messenger of Allah ﷺ in a cave at Mina, This is the subject of these oaths.
+Surely, what you are promised will occur.)(8. The stars will be extinguished, which could mean that they will be completely destroyed, or they will exist, but their lights will be lost.
 
 ## Tafsir Ibn Kathir
 

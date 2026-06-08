@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when Musa said to his household: "Verily, I have seen a fire; I will bring you from there some information, or I will bring you a burning ember, that you may warm yourselves. Except him who did wrong, then after (doing) evil replaced (it) with good, then I am Most-Forgiving, Very-Merciful.
+Allah commanded him to put his hand into the opening of his garment, and when he put his hand in and took it out again, it came out white and shining as if it were a piece of the moon or a flash of dazzling lightning.
 
 ## Tafsir Ibn Kathir
 

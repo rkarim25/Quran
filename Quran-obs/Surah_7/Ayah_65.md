@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to 'Ad (the people, We sent) their brother Hud. A Brief History of ` Ad and Thamud ` Ad is the name of a person who is in the fifth generation after Sayyidna Nuh (علیہ السلام) and is among the progeny of his son Sam.
+And to 'Ad (the people, We sent) their brother Hud. Prophet Hud called 'Ad to worship Allah alone without partners, and to obey and fear Him.
 
 ## Tafsir Ibn Kathir
 

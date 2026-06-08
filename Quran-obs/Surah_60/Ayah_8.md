@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Perhaps Allah will make friendship between you and those whom you hold as enemies. Some reports indicate that Sayyidah Asma’ s ؓ mother Qutailah was divorced by Sayyidna Abu Bakr ؓ in the Days of Ignorance.
+Surely, He is the Oft-Forgiving, the Most-Merciful to those who repent to Him from their sins, no matter what type of the sin it is.
 
 ## Tafsir Ibn Kathir
 

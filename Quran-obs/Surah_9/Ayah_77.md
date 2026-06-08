@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And of them are some who made a covenant with Allah (saying): "If He bestowed on us of His bounty, we will verily, give Sadaqah and will be certainly among the righteous. Verse 77: فَأَعْقَبَهُمْ نِفَاقًا فِي قُلُوبِهِمْ (So Allah, in turn, put hypocrisy in their hearts) points out to its cause which lies in their lying and pledge breaking.
+The consequence of this action is that hypocrisy was placed in their hearts until the Day they meet Allah the Exalted, on the Day of Resurrection. Now, after the Holy Prophet JI no one knows the hypocrisy hidden in the heart of a person, therefore, the rule to follow in future is: Anyone who makes Taubah and confesses to his Islam and 'Iman should be treated as Muslims are treated - no matter what lies in his heart.
 
 ## Tafsir Ibn Kathir
 

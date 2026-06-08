@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Is not He Who responds to the distressed one, when he calls on Him, and Who removes the evil, and makes you inheritors of the earth, generations after generations? Word الْمُضْطَرَّ‌ (Mudtar) is derived from اِضطِرَار (Idtirar), which means to be helpless and restless under some necessity, and that happens when someone does not have any support and friends.
+Likewise, a father cannot plead for something against his children because of his paternal love and affection for them, unless he is totally dejected and heart-broken, and calls Allah to save himself from the misery of sufferings.
 
 ## Tafsir Ibn Kathir
 

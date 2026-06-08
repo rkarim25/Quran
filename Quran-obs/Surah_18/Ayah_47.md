@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) the Day We shall cause the mountains to pass away, and you will see the earth as a levelled plain, and We shall gather them so that We will leave not one of them behind (47)And they will be set before your Lord, aligned. The Musnad of Ahmad, Ibn Hibban and Hakim have reported on the authority of Sayyidna Abu Said al-Khudri ؓ that the Holy Prophet ﷺ said, "Accumulate 'everlasting virtues' as much as you can." It was said, "What are they?" He said, "Saying: سُبحَانَ اللہِ لَآ اللہُ ، الحَمدُ للہِ اللہُ اَکبَر وَلَاحولَ وَلَا قُوَّۃَ اِلَّا بِاللہِ (Pure is Allah.
+And (remember) the Day We shall cause the mountains to pass away, and you will see the earth as a levelled plain, and We shall gather them so that We will leave not one of them behind (47)And they will be set before your Lord, aligned.
 
 ## Tafsir Ibn Kathir
 

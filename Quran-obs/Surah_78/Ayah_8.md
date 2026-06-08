@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Beneficent, the Most Merciful. كَلَّا سَيَعْلَمُونَ ثُمَّ كَلَّا سَيَعْلَمُونَ (Truly, they will soon know.
+This is so that it may be suitable for dwelling and not quake with those who are in it. In other words, when they die, they will discover the realities of the next world.
 
 ## Tafsir Ibn Kathir
 

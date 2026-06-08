@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-These are they who have purchased error with guidance, so their commerce was profitless. The ninth verse shows the basic denseness of the hypocrites - how they failed to make use of the ordinary sense of discrimination.
+In summary, the statements that we have mentioned from the scholars of Tafsir indicate that the hypocrites deviate from the true guidance and prefer misguidance, substituting wickedness in place of righteousness. And they were not guided), meaning their trade did not succeed nor were they righteous or rightly guided throughout all this.
 
 ## Tafsir Ibn Kathir
 

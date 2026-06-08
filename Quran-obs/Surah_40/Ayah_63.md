@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah, it is He Who has made the night for you that you may rest therein and the day for you to see. In the verses cited above, after having presented a few manifestations of Allah's blessings and His perfect power, an invitation to belief in the Oneness of Allah has been extended.
+How then are you turning away (62)Thus were turned away those who used to deny the Ayat of Allah (63)Allah, it is He Who has made for you the earth as a dwelling place and the sky as a canopy, and has given you shape and made your shapes good and pure (looking) and has provided you with good things. Worship your Lord (Allah), Who created you and those who were before you so that you may have Taqwa.
 
 ## Tafsir Ibn Kathir
 

@@ -23,7 +23,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then he cast a glance at the stars (88)And he said: "Verily, I am sick. In verses 88 and 89, it was said: نَظَرَ‌ نَظْرَ‌ةً فِي النُّجُومِ فَقَالَ إِنِّي سَقِيمٌ.
+Now, whatever the so-called experts of astrology have with them is merely a collection of inferences, conjectures and whims based on which no certain knowledge can be acquired.
 
 ## Tafsir Ibn Kathir
 

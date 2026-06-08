@@ -99,7 +99,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And He it is Who has created the heavens and the earth in six Days and His Throne was over the water, that He might try you, which of you is the best in deeds. Described in the seventh verse is the condition of those who denied that there was to be a Last Day and a Hereafter.
+Not willing to believe them, they used to ask them if they were true, and if they were, why the punishment they warned them of would not come?
 
 ## Tafsir Ibn Kathir
 

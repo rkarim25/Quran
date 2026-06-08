@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. زَوْجٍ كَرِ‌يمٍ (noble pair - 26:7).
+So, they have indeed denied, then the news of what they mocked at will come to them.)(7. Then Allah tells those who dared to oppose His Messenger ﷺ and disbelieve in His Book, that He is the Subduer, the Almighty, the All-Powerful, Who created the earth and caused every good kind of crop, fruit and animal to grow therein.
 
 ## Tafsir Ibn Kathir
 

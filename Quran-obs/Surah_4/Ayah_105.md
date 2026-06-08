@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Surely, We have sent down to you (O Muhammad ﷺ) the Book in truth that you might judge between men by that which Allah has shown you, so be not a pleader for the treacherous (105)And seek the forgiveness of Allah, certainly, Allah is Ever Oft-Forgiving, Most Merciful (106)And argue not on behalf of those who deceive themselves. While discussing the matters relating to the open disbelievers, the Holy Qur'an has, in some places in the previous verses, referred to the hypocrites and has pointed out that Kufr or disbelief was the common denominator between them.
+You are those who have argued for them in the life of this world,) meaning, suppose these people gain the verdict from the rulers in their favor in this life, since the rulers judge according to what is apparent to them.
 
 ## Tafsir Ibn Kathir
 

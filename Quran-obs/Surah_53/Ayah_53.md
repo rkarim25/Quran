@@ -15,7 +15,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And that to your Lord is the End (42)And that it is He Who makes laugh, and makes weep (43)And that it is He Who causes death and gives life (44)And that He creates the pairs, male and female (45)From Nutfah when it is emitted (46)And that upon Him is another bringing forth (Resurrection)(47)And that it is He Who Aghna and Aqna (48)And that He is the Lord of Ash-Shi'ra (49)And that it is He Who destroyed the former 'Ad (50)And Thamud. وَالْمُؤْتَفِكَةَ أَهْوَىٰ (And He destroyed the overturned towns also,...
+Allah turned their cities upside down over them and sent on them stones of Sijjil. 53:53) The word Mu'tafikah literally means mu'talifah (joined together).
 
 ## Tafsir Ibn Kathir
 

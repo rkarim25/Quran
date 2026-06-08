@@ -72,7 +72,7 @@ And when harm touches men, they cry sincerely only to their Lord, turning to Him
 
 ## Tafsir Summary
 
-And when harm touches men, they cry sincerely only to their Lord, turning to Him in repentance; but when He gives them a taste of His mercy, behold, a party of them associates partners in worship with their Lord (33)So as to be ungrateful for the graces which We have bestowed on them. مِنَ الَّذِينَ فَرَّ‌قُوا دِينَهُمْ وَكَانُوا شِيَعًا (Among those who split up religion and became sects - 30:32) that is, these disbelievers are those who have created a difference between Natural Faith and the true religion, or they have alienated themselves from the Natural Faith, as a result of which they are divided into different sects.
+And when harm touches men, they cry sincerely only to their Lord, turning to Him in repentance; but when He gives them a taste of His mercy, behold, a party of them associates partners in worship with their Lord (33)So as to be ungrateful for the graces which We have bestowed on them. Verily, in that are indeed signs for a people who believe .
 
 ## Tafsir Ibn Kathir
 

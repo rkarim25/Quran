@@ -78,7 +78,7 @@ The sixth sign of divine omnipotence is in fact the sum and substance of the pre
 
 ## Tafsir Summary
 
-And among His signs is that He shows you the lightning, for fear and for hope, and He sends down water from the sky, and therewith revives the earth after its death. Sixth sign of divine omnipotence Existence of the sky and earth is by the command of Allah.
+And among His signs is that He shows you the lightning, for fear and for hope, and He sends down water from the sky, and therewith revives the earth after its death.
 
 ## Tafsir Ibn Kathir
 

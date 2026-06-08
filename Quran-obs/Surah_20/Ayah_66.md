@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O Musa! The Egyptians were confident of their success and in a mood of complacency asked Sayyidna Musa (علیہ السلام) whether he would like to make the first move or whether they should initiate the contest.
+The verse shows that the Egyptian magicians had cast a hypnotic spell on the onlookers to whom it appeared that the staffs and the ropes had turned into snakes and were running about on the ground, whereas in fact no such transformation had taken place.
 
 ## Tafsir Ibn Kathir
 

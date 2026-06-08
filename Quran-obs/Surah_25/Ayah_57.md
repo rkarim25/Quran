@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they worship besides Allah, that which can neither profit them nor harm them; and the disbeliever is ever a helper against his Lord (55)And We have sent you only as a bearer of good news and a warner (56)Say: "No reward do I ask of you for this, save that whosoever wills may take a path to his Lord. Say, "I do not demand from you any fee, except that whoever so wills, should adopt a way to his Lord - 25:57.
+His reward is only that they turn towards Allah.
 
 ## Tafsir Ibn Kathir
 

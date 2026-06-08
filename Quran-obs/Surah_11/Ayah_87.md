@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O Shu'ayb! It means if they were not to listen to him, let them remember that he was not responsible for the eventuality that they may be seized by some punishment.
+Does your Salah command you that we give up what our fathers used to worship, or that we give up doing what we like with our property?
 
 ## Tafsir Ibn Kathir
 

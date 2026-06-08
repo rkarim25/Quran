@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say (O Muhammad ﷺ to the Jews and Christians), "Dispute you with us about Allah while He is our Lord and your Lord? These three verses bring to an end the section of the Surah in which certain claims of the Jews and the Christians have been refuted -- for example, their assertion that Sayyidna Ibrahim (علیہ السلام) (Abraham), Sayyidna…
+Thus, at the end of this section, Verse 141, which is a repetition of Verse 134, warns them against the consequences of their vanity and pretentiousness, and advises them to take care of themselves rather than relying on ancestral glory.
 
 ## Tafsir Ibn Kathir
 

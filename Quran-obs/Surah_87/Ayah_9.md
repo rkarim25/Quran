@@ -27,7 +27,7 @@ This Surah was revealed in Makkah before the migration to Al-Madinah. The proof 
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-A'la This Surah was revealed in Makkah before the migration to Al-Madinah. فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَىٰ (So, extend advice [ to people ] if advice is useful....87:9) The preceding verses described the facilities created by Allah for the Holy Prophet in performing his Prophetic obligation.
+Therefore remind in case the reminder profits.)(10.
 
 ## Tafsir Ibn Kathir
 

@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The raised Couches and the lack of Heat and Cold Allah tells us about the people of Paradise and the eternal delights they will experience, as well as the comprehensive favors that they will be given. اِنَّ هٰذَا كَانَ لَكُمْ جَزَاۗءً وَّكَانَ سَعْيُكُمْ مَّشْكُوْرًا ([ It will be said to them,] This is a reward for you, and your effort has been appreciated....76:22).
+Allah will address the inmates of Paradise once they have entered Paradise, and will announce to them that the amazing bounties are granted to them as a reward for their good deeds they had done in the world, and their deeds have been appreciated by Allah.
 
 ## Tafsir Ibn Kathir
 

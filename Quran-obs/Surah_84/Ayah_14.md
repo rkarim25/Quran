@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Prostration of Recitation in Surat Al-Inshiqaq It is reported from Abu Salamah that while leading them in prayer, Abu Hurayrah recited, إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا (He had been joyful among his people...84:13).
+Verily, he thought that he would never return!)(15.
 
 ## Tafsir Ibn Kathir
 

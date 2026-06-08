@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. فَاِذَا بَرِقَ الْبَصَرُ وَخَسَفَ الْقَمَرُ وَجُمِعَ الشَّمْسُ وَالْقَمَرُ (So, when the eyes will be dazzled, and the moon will lose its light, and the sun and the moon will be joined together,...75:7-9).
+Astronomers have discovered that the sun has the original light, and the light of the moon is borrowed from the sun.
 
 ## Tafsir Ibn Kathir
 

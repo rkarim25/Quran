@@ -236,7 +236,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Muhammad is the Messenger of Allah. مُّحَمَّدٌ رَّ‌سُولُ اللَّـهِ (Muhammad is the Messenger of Allah...48:29).
+Everything was for the sake of Allah and His Messenger - and this is the highest degree of perfect faith.
 
 ## Tafsir Ibn Kathir
 

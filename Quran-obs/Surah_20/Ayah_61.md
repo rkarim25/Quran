@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So Fir'awn withdrew, devised his plot and then came back (60)Musa said to them: "Woe unto you! Sayyidna Miisa's I prophetic address to the magicians Before the start of the contest Sayyidna Musa (علیہ السلام) addressed some words of friendly advice to the magicians to warn them of divine punishment if they persisted in denying God's miracles and other manifestations of His power.
+So one of them said, "This is not the speech of a magician, but it is the speech of a Prophet." Another said, "No, he is only a magician." There are other opinions that have been mentioned about what they discussed.
 
 ## Tafsir Ibn Kathir
 

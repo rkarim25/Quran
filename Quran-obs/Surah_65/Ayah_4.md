@@ -128,7 +128,7 @@ Ibn Abi Hatim recorded a simpler narration than this one from Ubay bin Ka'b who 
 
 ## Tafsir Summary
 
-Those in menopause among your women, for them the 'Iddah, if you have doubt, is three months; and for those who have no courses. (And those women from among you who have despaired of [ further ] menstruation, if you are in doubt, their "iddah is three months, as well as of those who have not yet menstruated.
+This is based upon this honorable Ayah and what is mentioned in the Prophetic Sunnah.
 
 ## Tafsir Ibn Kathir
 

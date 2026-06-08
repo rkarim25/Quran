@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The First Surah in which a Prostration is revealed Al-Bukhari recorded that 'Abdullah [bin Mas'ud] said, "Surat An-Najm was the first Surah in which a prostration was revealed. Characteristics of Surah An-Najm Surah An-Najm is the first chapter that the Holy Prophet ﷺ proclaimed in Makkah (` Abdullah Ibn Masud ؓ has transmitted it - as in Qurtubi) and this is the first Surah in which a verse of sajdah (prostration) is revealed.
+Probably, the underlying wisdom in this is that as the Arabs are used to determine the course and direction of, and are guided in their travels by the movements of the stars in the sandy waste of Arabia, so they would now be led to the goal and end of their spiritual journey by the star par excellence, that is, by the Holy Prophet ﷺ .
 
 ## Tafsir Ibn Kathir
 

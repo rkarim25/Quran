@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And mention in the Book, Idris. "And We raised him to a high place." - 19:57.
+Verily, he was a man of truth, (and) a Prophet (56)And We raised him to a high station . But in such situations where the two words appear separately one against the other, then having regard to the relative position of the two words in the verse the term Nabi will denote someone who is following the religious code brought by someone else.
 
 ## Tafsir Ibn Kathir
 

@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Believe in Allah and His Messenger, and spend of that whereof He has made you trustees. وَقَدْ أَخَذَ مِيثَاقَكُمْ (...and He has taken your covenant ....57:8) This could refer to the covenant taken in ` anal' (pre-eternity).
+Ibn Jarir said that the covenant mentioned here, is that taken from mankind, when they were still in Adam's loin.
 
 ## Tafsir Ibn Kathir
 

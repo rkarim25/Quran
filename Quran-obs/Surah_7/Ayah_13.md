@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Allah) said: "(O Iblis) get down from this (Paradise), it is not for you to be arrogant here. The event relating to Sayyidna 'Adam (علیہ السلام) and the Shaytan has appeared earlier in Section four of Surah Al-Baqarah (Ma` ariful-Qur'an, English Translation, under verse 34).
+But, what is not stated in this verse clearly is whether the giving of respite mentioned here is until the Resurrection as asked by Iblis, or is for some other duration.
 
 ## Tafsir Ibn Kathir
 

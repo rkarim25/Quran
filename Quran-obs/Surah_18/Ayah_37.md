@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-His companion said to him during his discussion: "Do you disbelieve in Him Who created you out of dust, then out of Nutfah, then fashioned you into a man? The word: ثَمَرٌ‌ (thamar) in: وَكَانَ لَهُ ثَمَرٌ‌ (And he had wealth - 34) means the fruit of trees as well as wealth, in an absolute sense.
+There is no power but with Allah!?'" One of the Salaf said, "Whoever is delighted with something in his circumstances or his wealth or his children, let him say, 'That which Allah wills!
 
 ## Tafsir Ibn Kathir
 

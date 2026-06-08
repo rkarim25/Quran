@@ -56,7 +56,7 @@ Are they the Haruriyyah?' He said, 'No, they are the Jews and Christians. As for
 
 ## Tafsir Summary
 
-Say: "Shall We tell you the greatest losers in respect of (their) deeds? Who are those referred to as: الْأَخْسَرِ‌ينَ أَعْمَالًا (The greatest losers in respect of [ their ] deeds - 103)?
+At this place, the first two verses (101, 102) are, in terms of their general sense, inclusive of every individual or group that would put in a lot of effort in some deeds taking them to be good, but with Allah their effort is ruined and their deed, wasted.
 
 ## Tafsir Ibn Kathir
 

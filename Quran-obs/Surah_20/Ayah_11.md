@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when he came to it (the fire), he was called by name: "O Musa! فَلَمَّا أَتَاهَا (So when he came to it - 20:11): means that he approached the fire which he had seen from a distance.
+It shall not come upon you except all of a sudden.)[7:187] This means that its knowledge weighs heavily upon the dwellers of the heavens and the earth.
 
 ## Tafsir Ibn Kathir
 

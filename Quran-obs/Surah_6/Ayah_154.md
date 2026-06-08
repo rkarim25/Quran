@@ -84,7 +84,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, We gave Musa the Book [the Tawrah], complete for that which is best, and explaining all things in detail and a guidance and a mercy that they might believe in the meeting with their Lord (154)And this is a blessed… The reason of being ` ignorant of (or heedless to) what they studied - 156' was not that the Torah and the Injil were non-existent in the Arabic language because it is possible to become informed of the contents through a translation, in fact, this happens.
+Then, We gave Musa the Book [the Tawrah], complete for that which is best, and explaining all things in detail and a guidance and a mercy that they might believe in the meeting with their Lord (154)And this is a blessed Book (the Qur'an) which We have sent down, so follow it and have Taqwa, so that you may receive mercy . He also describes it as being blessed, for those who follow and implement it in this life and the Hereafter, because it is the Firm Rope of Allah.
 
 ## Tafsir Ibn Kathir
 

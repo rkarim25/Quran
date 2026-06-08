@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Go with this shirt of mine, and cast it over the face of my father, his vision will return, and bring to me all your family. In verse 95, it was said: قَالُوا تَاللَّـهِ إِنَّكَ لَفِي ضَلَالِكَ الْقَدِيمِ (They said, 'By God, you are still in your old fallacy!' ).
+They replied, “By Allah!
 
 ## Tafsir Ibn Kathir
 

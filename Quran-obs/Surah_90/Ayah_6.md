@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ (Indeed We have created man [ to live ] in hard struggle…90:4) The word kabad means 'labour, 'toil' or 'difficulty'.
+Does he think that none can overcome him?)(6. He says: "I have wasted wealth in abundance!")(7.
 
 ## Tafsir Ibn Kathir
 

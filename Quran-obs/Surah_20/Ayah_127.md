@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And thus do We requite him who transgresses beyond bounds and believes not in the Ayat of his Lord; and the torment of the Hereafter is far more severe and more lasting (127) Severe Torment for Him Who transgresses beyon… وَمَنْ أَعْرَ‌ضَ عَن ذِكْرِ‌ي (And whoever turns away from My message - 20:124.) Here the word can refer both to the Qur'an and the Holy Prophet ﷺ as has been mentioned in other verses ذِكْرً‌ا ﴿10﴾ رَّ‌سُولًا (65:10).
+And thus do We requite him who transgresses beyond bounds and believes not in the Ayat of his Lord; and the torment of the Hereafter is far more severe and more lasting .
 
 ## Tafsir Ibn Kathir
 

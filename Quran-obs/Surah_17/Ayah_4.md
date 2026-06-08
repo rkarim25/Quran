@@ -65,7 +65,7 @@ Allah tells us that He made a declaration to the Children of Israel in the Scrip
 
 ## Tafsir Summary
 
-And We decreed for the Children of Israel in the Scripture: "Indeed you would do mischief in the land twice and you will become tyrants and extremely arrogant! Verses 2 and 3 featuring the statement: (We made it guidance for the children of Bani Isra'il) exhorted the Bani Isra'il to follow and obey the Divine Law.
+Many Isra'iliyyat (reports from Jewish sources) were narrated about this, but I did not want to make this book too long by mentioning them, because some of them are fabricated, concocted by their heretics, and others may be true, but we have no need of them, praise be to Allah. Because of that blood, he killed seventy thousand of the believers and others, then the blood stopped boiling.
 
 ## Tafsir Ibn Kathir
 

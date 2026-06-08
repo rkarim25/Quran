@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then when Musa came to them with Our Clear Ayat, they said: "This is nothing but invented magic. A sermon should have high degree of eloquence هُوَ أَفْصَحُ مِنِّي لِسَانًا (He is more fluent in his tongue - 28:34).
+Fir'awn and his chiefs saw that with their own eyes and realized that it was certainly from Allah, but because of their disbelief and sin they resorted to stubbornness and false arguments.
 
 ## Tafsir Ibn Kathir
 

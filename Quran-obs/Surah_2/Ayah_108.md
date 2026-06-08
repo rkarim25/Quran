@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or do you want to ask your Messenger (Muhammad ﷺ) as Musa (Moses) was asked before (i.e. Hostility to the Holy Prophet ﷺ had become so habitual to the Jews that they were always making insolent demands.
+Or do you want to ask your Messenger (Muhammad ﷺ) as Musa (Moses) was asked before (i.e. And he who changes faith for disbelief, verily, he has gone astray from the right way .
 
 ## Tafsir Ibn Kathir
 

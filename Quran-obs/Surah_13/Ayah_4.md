@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And it is He Who spread out the earth, and placed therein firm mountains and rivers and of every kind of fruit He made Zawjayn Ithnayn (two in pairs). And in the earth there are tracts of land neighboring each other and gardens of grapes and farms and date-palms, having twin or single trunks, watered with one water.
+All this indicates the existence of the Creator Who does what He wills, there is no deity or lord except Him.
 
 ## Tafsir Ibn Kathir
 

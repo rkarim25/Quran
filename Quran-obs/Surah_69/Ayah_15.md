@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then when the Trumpet will be blown with one blowing (13)And the earth and the mountains shall be removed from their places, and crushed with a single crushing (14)Then on that Day shall the Event occur (15)And the heave… فَإِذَا نُفِخَ فِي الصُّورِ‌ نَفْخَةٌ وَاحِدَةٌ (Then, when the Trumpet will be blown for the first time…69:13).
+It is emphasized here that it is one blowing, because the command of Allah cannot be opposed or prevented, and it does not need to be repeated or stressed. [ 39:68] In other words, then the trumpet will be blown a second time and at once they will be standing upright looking on.
 
 ## Tafsir Ibn Kathir
 

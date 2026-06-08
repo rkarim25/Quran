@@ -118,7 +118,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Fir'awn said: "O chiefs! فَأَوْقِدْ لِي يَا هَامَانُ عَلَى الطِّينِ (So kindle for me, 0 Haman, a fire on the clay (to bake bricks) - 28:38).
+So kindle for me (a fire), O Haman, to bake clay, and set up for me a Sarh in order that I may look at the God of Musa; and verily, I think that he (Musa) is one of the liars. When the Pharaoh planned to build a very tall palace for himself, he asked his minister Haman to get the bricks baked properly first, because half baked bricks could not take the load of a tall building.
 
 ## Tafsir Ibn Kathir
 

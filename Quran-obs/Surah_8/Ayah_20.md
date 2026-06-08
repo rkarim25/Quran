@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! The event of the battle of Badr which has been described in a somewhat detailed manner in the previous verses contains many lessons in hard advice and wisdom both for those who adhere to Islam and those who stick to disbelief.
+This degree is that of the munafiqin (hypocrites) for they do listen to the Qur'an, understand it too, even have a feigned claim to desired belief and deed, but the reality is that they do not believe and do what is right and due.
 
 ## Tafsir Ibn Kathir
 

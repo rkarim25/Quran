@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And among men is he who disputes about Allah, without knowledge or guidance, or a Book giving light (from Allah)(8)Bending his neck in pride, and leading (others) too (far) astray from the path of Allah. ثَانِيَ عِطْفِهِ (Turning his side away - 22:5) The word عِطْفِ ` itf means ` side of the body', and the expression means ` to turn on one's side' - in other words ` to oppose'.
+For him there is disgrace in this worldly life, and on the Day of Resurrection We shall make him taste the torment of burning (9)That is because of what your hands have sent forth, and verily, Allah is not unjust to servants .
 
 ## Tafsir Ibn Kathir
 

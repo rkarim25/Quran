@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 106:4] الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ (Who gave them food against hunger, and gave them security against fear.) The verse comprehensively captures all that was needed for the Quraish to live happily and peacefully in the world.
+This is because the meaning of both of them is, "We have prevented the Elephant from entering Makkah and We have destroyed its people in order to gather (Ilaf) the Quraysh, which means to unite them and bring them together safely in their city." It has also been said that the meaning of this (Ilaf) is what they would gather during their journey in the winter to Yemen and in the summer to Ash-Sham through trade and other than that.
 
 ## Tafsir Ibn Kathir
 

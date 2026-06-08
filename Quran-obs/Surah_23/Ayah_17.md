@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We have created above you seven Tara'iq, and We are never unaware of the creation (17) His Sign in the Creation of the Heavens And We created upon you seven paths (heavens) - 23:17 طَرَ‌ائِقَ is the plural of طَرِیقَۃ which may also be used as a synonym for طَبقَہ (tier) in which case the meaning would be that Allah created seven skies overhead row upon row in tiers.
+No heaven is hidden from Him by another and no earth is hidden from Him by another.
 
 ## Tafsir Ibn Kathir
 

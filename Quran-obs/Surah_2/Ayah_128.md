@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(cont.) And We commanded Ibrahim (Abraham) and Isma'il (Ishmael) that they should purify My House (the Ka'bah at Makkah) for those who are circumambulating it, or staying (I'tikaf), or bowing or prostrating themselves (t… Verse 128 reports that he further prayed to Allah "to make" him and his son obedient to His commandments and to His Will.
+And make us submissive unto You and of our offspring a nation submissive unto You, and show us our Manasik, and accept our repentance. Verse 128 reports that he further prayed to Allah "to make" him and his son obedient to His commandments and to His Will.
 
 ## Tafsir Ibn Kathir
 

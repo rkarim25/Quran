@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, among those who followed his way was Ibrahim (83)When he came to his Lord with a Salim heart (84)When he said to his father and to his people: "What is it that which you worship? In verse 84, it was said: إِذْ جَاءَ رَ‌بَّهُ بِقَلْبٍ سَلِيمٍ (when he came to his Lord with a pure heart).
+Here, 'coming to his Lord' means 'to turn to Allah, to zero in one's attention towards Him and to worship Him.' By placing the restriction of 'with a pure heart' it has been indicated that no act of devotion (ibadah) to Allah is acceptable until the heart of the devotee is cleansed pure from false beliefs and ill intentions.
 
 ## Tafsir Ibn Kathir
 

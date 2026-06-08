@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(1. A Preacher must not give up his preaching due to disappointment أَفَنَضْرِ‌بُ عَنكُمُ الذِّكْرَ‌ صَفْحًا أَن كُنتُمْ قَوْمًا مُّسْرِ‌فِينَ (Shall we remove the advice away from you because you are a transgressing people?
+Shall We then take away the Reminder from you, because you are a people excessive.)(6. This tells us that the person who is engaged in preaching and inviting others towards Islam should carry the message to everybody; he must not give up preaching to some people or any group simply because they are non-believers, highly irreligious, sinners and transgressors.
 
 ## Tafsir Ibn Kathir
 

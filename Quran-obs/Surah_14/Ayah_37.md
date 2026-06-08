@@ -116,7 +116,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"O our Lord! Brimming with wisdom, there is another prayer of Sayyidna Ibrahim (علیہ السلام) which appears in the third verse (37) as follows: رَّ‌بَّنَا إِنِّي أَسْكَنتُ مِن ذُرِّ‌يَّتِي بِوَادٍ غَيْرِ‌ ذِي زَرْ‌عٍ عِندَ بَيْتِكَ ال…
+Rather, the prayer he has made is for the end product of everything which includes the products and produce and use-worthy things of all kinds, and again, with earnest pleading and humble plaint alongwith the recounting of praises for Allah Ta’ ala, then, this would be a manner in which it can be strongly hoped that the prayer will be answered.
 
 ## Tafsir Ibn Kathir
 

@@ -14,7 +14,7 @@ Surah Āl-'Imrān was revealed in Al-Madinah, as evident by the fact that the fi
 
 ## Tafsir Summary
 
-The Tafsir of Surah Āl 'Imrān Surah Āl-'Imrān was revealed in Al-Madinah, as evident by the fact that the first eighty-three Ayat in it relate to the delegation from Najran that arrived in Al-Madinah on the ninth year of Hijrah (632 CE). This is the first section of Surah 'A1-` Imran, the third Surah of the Holy Qur'an.
+La ilaha illa Huwa, Al-Hayyul-Qayyum) in the Tafsir of Ayat Al-Kursi.
 
 ## Tafsir Ibn Kathir
 

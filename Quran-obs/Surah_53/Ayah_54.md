@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And that to your Lord is the End (42)And that it is He Who makes laugh, and makes weep (43)And that it is He Who causes death and gives life (44)And that He creates the pairs, male and female (45)From Nutfah when it is emitted (46)And that upon Him is another bringing forth (Resurrection)(47)And that it is He Who Aghna and Aqna (48)And that He is the Lord of Ash-Shi'ra (49)And that it is He Who destroyed the former 'Ad (50)And Thamud. فَغَشَّاهَا مَا غَشَّىٰ (so covered they were by that which covered....
+This refers to the fact that the cities were first overturned, and after that stones of hard clay were sent down on them, which covered them.
 
 ## Tafsir Ibn Kathir
 

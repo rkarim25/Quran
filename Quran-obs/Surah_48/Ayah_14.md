@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those of the bedouins who lagged behind will say to you: "Our possessions and our families occupied us, so ask forgiveness for us." They say with their tongues what is not in their hearts. Reference in this passage is to those Bedouin tribes who were invited by Allah's Messenger ﷺ to join the party of 1400 Muslims who were marching to Hudaibiyah but on one pretext or another, they requested to be excused.
+He forgives whom He wills, and punishes whom He wills. And Allah is Forgiving, Most Merciful.) with those who repent, return and submit to Him with humiliation.
 
 ## Tafsir Ibn Kathir
 

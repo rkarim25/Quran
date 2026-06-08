@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And his companion (angel) will say: "Here is (his record) ready with me! لَا تَخْتَصِمُوا لَدَيَّ وَقَدْ قَدَّمْتُ إِلَيْكُم بِالْوَعِيدِ ("Do not quarrel before Me, while I had sent to you My threat well in advance....
+I had no authority over you except that I called you, and you responded to me.
 
 ## Tafsir Ibn Kathir
 

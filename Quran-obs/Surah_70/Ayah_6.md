@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. إِنَّهُمْ يَرَ‌وْنَهُ بَعِيدًا وَنَرَ‌اهُ قَرِ‌يبًا (They see it far off, and We see it near....70:6-7).
+It could also be referring to the name of the souls (Arwah) of the Children of Adam (humans). The word "Ba'id" here means that which is impossible to occur.
 
 ## Tafsir Ibn Kathir
 

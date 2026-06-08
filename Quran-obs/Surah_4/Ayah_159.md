@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Because of their breaking the covenant, and their rejecting the Ayat of Allah, and their killing the Prophets unjustly, and their saying: "Our hearts are Ghulf," nay, Allah has set a seal upon their hearts because of the… Then comes the finale of the subject in verse 159 beginning with the words: وَإِن مِّنْ أَهْلِ الْكِتَابِ إِلَّا لَيُؤْمِنَنَّ بِهِ قَبْلَ مَوْتِهِ (And there is not one among the People of the Book but shall certainly believe in him { Jesus} before he { Jesus} dies, and on the Day of Doom, he shall be a witness against them).
+I asked, 'Who is this?' The people said, 'He is the son of Maryam.' Then I looked behind and I saw a red-complexioned, fat, curly-haired man, blind in the right eye, which looked like a bulging out grape.
 
 ## Tafsir Ibn Kathir
 

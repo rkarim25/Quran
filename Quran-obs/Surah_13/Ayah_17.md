@@ -183,7 +183,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He sends down water from the sky, and the valleys flow according to their measure, but the flood bears away the foam that mounts up to the surface - and (also) from that (ore) which they heat in the fire in order to make ornaments or utensils, rises a foam like unto it, thus does Allah (by parables) show forth truth and falsehood. The outcome of both parables is that foam does appear prominent for a while on the real thing, but it finally gets to be thrown away and the real thing remains.
+This is a parable using fire. Commentary The outcome of both parables is that foam does appear prominent for a while on the real thing, but it finally gets to be thrown away and the real thing remains.
 
 ## Tafsir Ibn Kathir
 

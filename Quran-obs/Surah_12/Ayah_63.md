@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, when they returned to their father, they said: "O our father! The verses appearing above carry the remaining segment of the event, that is, when the brothers of Yusuf (علیہ السلام) returned home with food-grains from Egypt, they told their father about what had happened there, specially about the condition imposed by the ` Aziz of Misr that they would receive food grains in the future only if they would bring their younger brother with them.
+So send our brother with us, and we shall get our measure and truly, we will guard him.
 
 ## Tafsir Ibn Kathir
 

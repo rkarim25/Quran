@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So when he furnished them forth with their provisions, he put the bowl in his brother's bag. Verse 71 carries the response of the accused: قَالُوا وَأَقْبَلُوا عَلَيْهِم مَّاذَا تَفْقِدُونَ that is, ` the brothers of Yusuf turned to the announcer, as if protesting on being made into thieves, and asked him to say…
+Yusuf had His Golden Bowl placed in Binyamin's Bag; a Plot to keep Him in Egypt After Yusuf supplied them with their provisions, he ordered some of his servants to place his silver bowl (in Binyamin's bag), according to the majority of scholars.
 
 ## Tafsir Ibn Kathir
 

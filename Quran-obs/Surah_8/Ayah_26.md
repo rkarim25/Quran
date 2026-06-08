@@ -87,7 +87,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And remember when you were few and were reckoned weak in the land, and were afraid that men might kidnap you, but He provided a safe place for you, strengthened you with His help, and provided you with good things (for l… The second verse (26) also mentions several things which could make Divine injunctions easy on them.
+And remember when you were few and were reckoned weak in the land, and were afraid that men might kidnap you, but He provided a safe place for you, strengthened you with His help, and provided you with good things (for livelihood) so that you might be grateful . Then, He gave you shelter and fortified you with His support and provided you with good things, so that you may be grateful - 26.
 
 ## Tafsir Ibn Kathir
 

@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And your Lord creates whatsoever He wills and chooses, no choice have they. وَرَ‌بُّكَ يَخْلُقُ مَا يَشَاءُ وَيَخْتَارُ‌ (And your Lord creates what He wills and chooses - 28:68).
+Glorified is Allah, and exalted above all that they associate (68)And your Lord knows what their breasts conceal, and what they reveal (69)And He is Allah; La ilaha illa Huwa, His is the praise in the first and in the last, and His is the decision, and to Him shall you be returned .
 
 ## Tafsir Ibn Kathir
 

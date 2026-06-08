@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Musa said: "O Fir'awn! In the light of these clear signs he must believe him and let the children of Isra'il go with him free of his illegitimate surveillance.
+Indeed I have come unto you from your Lord with a clear proof. Therefore, he said, 'if you have proof, then produce it for us to see, so that we know if your claim is true.'
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the Messenger will say: "O my Lord! The next verse reads وَكَذٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا مِّنَ الْمُجْرِمِيْنَ (In a similar way We made for every prophet an enemy from among the sinners - 25:31).
+But sufficient is your Lord as a Guide and Helper .
 
 ## Tafsir Ibn Kathir
 

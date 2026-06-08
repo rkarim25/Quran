@@ -22,7 +22,7 @@ He said, "This Ayah was revealed while Abu Bakr was sitting (with the Prophet �
 
 ## Tafsir Summary
 
-Nay! يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ( O contented soul...89:27).
+Here the soul of the believer is referred to as nafs mutma'innah 'the contented soul'.
 
 ## Tafsir Ibn Kathir
 

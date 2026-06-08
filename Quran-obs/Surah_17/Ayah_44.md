@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The seven heavens and the earth and all that is therein, glorify Him and there is not a thing but glorifies His praise. The meaning of Tasbih (glorification of Allah) said by the heavens and the earth and everything present therein Among these, the Tasbih of Allah said by all angels and believing jinn and human beings is self-evident.
+The seven heavens and the earth and all that is therein, glorify Him and there is not a thing but glorifies His praise.
 
 ## Tafsir Ibn Kathir
 

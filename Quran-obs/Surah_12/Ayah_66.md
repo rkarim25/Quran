@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when they opened their bags, they found their money had been returned to them. After hearing what they said, their father answered: لَنْ أُرْ‌سِلَهُ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًا مِّنَ اللَّـهِ لَتَأْتُنَّنِي بِهِ (I shall never send Benyamin with you until you give me a pledge in the name of Allah that you will definitely bring him back to me - 66).
+This would amount to telling him that his behavior demanded that the plea made by him should be rejected, but then, he should be given the feeling that he is being given a fresh chance by forgoing what has gone before - so that his sense of shame returns to him later and he becomes totally repentant.
 
 ## Tafsir Ibn Kathir
 

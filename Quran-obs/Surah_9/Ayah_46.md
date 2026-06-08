@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if they had intended to march out, certainly, they would have made some preparation for it; but Allah was averse to their being sent forth, so He made them lag behind, and it was said (to them): "Sit among those who sit (at home). At least, one aspect of why their excuse was false has been given in the fourth (46) where it has been said: وَلَوْ أَرَ‌ادُوا الْخُرُ‌وجَ لَأَعَدُّوا لَهُ عُدَّةً (And had they [ really ] wished to set out [ for Jihad ], they would have [ of necessity ] made [ at least ] some preparation for it [ but they made none ] - 46).
+And indeed We would then have bestowed upon them a great reward from Ourselves.
 
 ## Tafsir Ibn Kathir
 

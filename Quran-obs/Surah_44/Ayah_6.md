@@ -41,7 +41,7 @@ Some other scholars of Tafsir, like ` Ikrimah ؓ ، interpret the phrase 'laylah
 
 ## Tafsir Summary
 
-In Musnad Al-Bazzar, it is recorded from Abu At-Tufayl 'Amir bin Wathilah from Zayd bin Harithah that the Messenger of Allah ﷺ said to Ibn Sayyad: (I am concealing something, what is it?) And the Messenger of Allah ﷺ was concealing Surat Ad-Dukhan from him. لَيْلَةٍ مُّبَارَ‌كَةٍ 'blessed night', in verse 2 according to majority of the Commentators, refers to 'laylatul Qadr' or the 'Night of Power' which occurs in the last ten nights of the month of Ramadan.
+Because some versions of the Tradition state that births, deaths and sustenance are decreed in the night of immunity or 15th night of Sha'ban, some of the scholars have interpreted the phrase 'laylah mubarakah' in the current verse as referring to 'laylat-ul-bara'ah' or 'the Night of Immunity'. Therefore, many great scholars have accepted the Traditions about mid-Sha'ban because there is room to act upon weak Traditions relating to meritorious actions.
 
 ## Tafsir Ibn Kathir
 

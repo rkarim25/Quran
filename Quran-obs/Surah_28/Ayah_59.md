@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And how many a town have We destroyed, which was thankless for its means of livelihood! حَتَّىٰ يَبْعَثَ فِي أُمِّهَا رَ‌سُولًا (Unless he sends to their central place a messenger -28:59).
+And verily, We have been the heirs (58)And never will your Lord destroy the towns until He sends to their mother town a Messenger reciting to them Our Ayat. And never would We destroy the towns unless the people thereof are wrongdoers .
 
 ## Tafsir Ibn Kathir
 

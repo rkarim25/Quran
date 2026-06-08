@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But for him who fears the standing before his Lord, there will be two Gardens (46)Then which of the blessings of your Lord will you both deny (47)With Afnān (48)Then which of the blessings of your Lord will you both deny… The Delight of the Righteous in Paradise The foregoing verses spoke of the horrible punishments to be faced by the disbelievers.
+The word 'fearful' signifies that he is mindful under all conditions, whether in public or in private, that one day he has to appear in the Court of Allah to give an account of his deeds.
 
 ## Tafsir Ibn Kathir
 

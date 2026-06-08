@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. (Yet he did not make his way through the steep course.
+The poorer the person is, the greater will be the reward for the spender.
 
 ## Tafsir Ibn Kathir
 

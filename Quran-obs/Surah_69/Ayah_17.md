@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then when the Trumpet will be blown with one blowing (13)And the earth and the mountains shall be removed from their places, and crushed with a single crushing (14)Then on that Day shall the Event occur (15)And the heave… وَيَحْمِلُ عَرْ‌شَ رَ‌بِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَانِيَةٌ (...And on that Day, the Throne of your Lord will be carried above them by eight [ angels ]....69:17).
+As to what is the Throne of the Rahman, what is its reality, its form and shape, how the angels carry it - are transcendental matters and are all beyond human intellect.
 
 ## Tafsir Ibn Kathir
 

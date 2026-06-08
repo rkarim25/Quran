@@ -179,7 +179,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when We let mankind taste mercy after some adversity has afflicted them, behold! The word: مَک (رح) ر (makr) used in verse 21: قُلِ اللَّـهُ أَسْرَ‌عُ مَكْرً‌ا (Say, "Allah is more swift in making plans" ) means secret plan or move that could be good or bad.
+Say: "Allah is more swift in planning!" Certainly, Our messengers (angels) record all of that which you plot (21)He it is Who enables you to travel through land and sea, till when you are in the ships, and they sail with them with a favorable wind, and they are glad therein, then comes a stormy wind and the waves come to them from all sides, and they think that they are encircled therein.
 
 ## Tafsir Ibn Kathir
 

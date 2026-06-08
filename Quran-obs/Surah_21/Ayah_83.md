@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) Ayyub, when he cried to his Lord: "Verily, distress has seized me, and You are the Most Merciful of all those who show mercy. The story of Sayyidna Ayyub (علیہ السلام) is based mostly on Jewish legends.
+Because of this serious illness all his relatives, friends and neighbors avoided him and placed him near a garbage-dump outside the city. The stronger his beliefs, the harder is the test to which he is subjected, so that his rewards are in proportion to his sufferings.
 
 ## Tafsir Ibn Kathir
 

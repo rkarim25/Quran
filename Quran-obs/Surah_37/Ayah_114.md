@@ -30,7 +30,7 @@ Allah tells us how He blessed Musa and Harun with prophethood and how He saved t
 
 ## Tafsir Summary
 
-And, indeed We gave Our grace to Musa and Harun (114)And We saved them and their people from the great distress (115)And helped them, so that they became the victors (116)And We gave them the clear Scripture (117)And guided them to the right path (118)And We left for them among the later generations (119)"Salam (peace!) be upon Musa and Harun! Described in the verses cited above is the third event relating to Sayyidna Musa (علیہ السلام) and Harun (علیہ السلام) .
+Musa and Harun Allah tells us how He blessed Musa and Harun with prophethood and how He saved them, along with those who believed, from the oppression of Fir'awn and his people, who had persecuted them by killing their sons and sparing their women, and by forcing them to do the most menial tasks, then ultimately He caused them to prevail over them and to seize their lands and their wealth and all that they had spent their entire lives amassing.
 
 ## Tafsir Ibn Kathir
 

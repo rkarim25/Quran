@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you then considered Al-Lat, and Al-'Uzza (19)And Manat, the other third (20)Is it for you the males and for Him the females (21)That indeed is a division most unfair (22)They are but names which you have named - you and your fathers - for which Allah has sent down no authority. The preceding verses declared the Glory of Allah, His Majesty and Dignity.
+Have you then considered Al-Lat, and Al-'Uzza (19)And Manat, the other third (20)Is it for you the males and for Him the females (21)That indeed is a division most unfair (22)They are but names which you have named - you and your fathers - for which Allah has sent down no authority.
 
 ## Tafsir Ibn Kathir
 

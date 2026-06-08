@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, when you meet those who disbelieve (in battle), smite (their) necks until you have fully defeated them, then tighten their bonds. سَيَهْدِيهِمْ وَيُصْلِحُ بَالَهُمْ (He will guide them, and will set aright their state of affairs - 47:5).
+This sentence refers to two of Allah's bounties: First, He will steer them by His guidance; and secondly, He will improve their conditions. But those who are killed in the way of Allah, He will never let their deeds be lost (4)He will guide them and amend their condition (5)And admit them to Paradise, which He has made known to them (6)O you who believe!
 
 ## Tafsir Ibn Kathir
 

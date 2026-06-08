@@ -121,7 +121,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who stayed away (from Tabuk expedition) rejoiced in their staying behind the Messenger of Allah; they hated to strive and fight with their properties and their lives in the cause of Allah, and they said: "March not… Behavior patterns of hypocrites who did not take part in the battle of Tabuk, despite the general call of Jihad, continue to be the main theme since several previous verses.
+Hypocrites rejoice because They remained behind from Tabuk! Those who stayed away (from Tabuk expedition) rejoiced in their staying behind the Messenger of Allah; they hated to strive and fight with their properties and their lives in the cause of Allah, and they said: "March not forth in the heat." Say: "The fire of Hell is more intense in heat;" if only they could understand (81)So let them laugh a little and (they will) cry much as a recompense of what they used to earn (b…
 
 ## Tafsir Ibn Kathir
 

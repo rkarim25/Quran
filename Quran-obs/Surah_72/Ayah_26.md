@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "I know not whether that which you are promised is near or whether my Lord will appoint for it a distant term. Verse [ 26] is the proof of the preceding verse.
+The definite article alif lam in al-ghaib 'the Unseen' is grammatically referred to as alif lam for istighraq lil jins 'the article encompassing and indicating the entire genus' [ as stated in Ruh with reference to Radi, that is, He is Omniscient - knowing every species of the Unseen and all genera of the Unseen.
 
 ## Tafsir Ibn Kathir
 

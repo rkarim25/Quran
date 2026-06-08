@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We gave Musa – after We had destroyed the generations of old – the Scripture as an enlightenment for mankind, and a guidance and a mercy, that they might remember (43) The Blessings which Allah bestowed upon M… وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ مِن بَعْدِ مَا أَهْلَكْنَا الْقُرُ‌ونَ الْأُولَىٰ بَصَائِرَ‌ لِلنَّاسِ (And We gave Musa, after We destroyed the earlier generations, the Book having insights for people - 28:43).
+And indeed We gave Musa – after We had destroyed the generations of old – the Scripture as an enlightenment for mankind, and a guidance and a mercy, that they might remember .
 
 ## Tafsir Ibn Kathir
 

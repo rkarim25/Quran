@@ -106,7 +106,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said, "Call upon your Lord for us that He may make plain to us what it is!" He said, "He says, 'Verily, it is a cow neither too old nor too young, but (it is) between the two conditions', so do what you are commanded. These Verses show how the Israelites were disposed to disobedience, and how this inclination expressed itself in different forms.
+The Hadith says that if these people had obeyed Allah's commandment without raising so many doubts and asking unnecessary questions, such strict condition would not have been imposed on them, and the sacrifice of any cow whatsoever would have been accepted.
 
 ## Tafsir Ibn Kathir
 

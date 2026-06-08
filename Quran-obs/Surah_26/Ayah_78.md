@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Who has created me, and it is He Who guides me (78)And it is He Who feeds me and gives me to drink (79)And when I am ill, it is He Who cures me (80)And Who will cause me to die, and then will bring me to life (81)And Who… The reasoning for this he gave إِنَّ مَعِيَ رَ‌بِّي سَيَهْدِينِ (62) "Indeed with me is my Lord.
+Who has created me, and it is He Who guides me (78)And it is He Who feeds me and gives me to drink (79)And when I am ill, it is He Who cures me (80)And Who will cause me to die, and then will bring me to life (81)And Who, I hope, will forgive me my faults on the Day of Recompense .
 
 ## Tafsir Ibn Kathir
 

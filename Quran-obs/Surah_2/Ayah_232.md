@@ -152,7 +152,7 @@ It was reported that this Ayah was revealed about Ma'qil bin Yasar Al-Muzani and
 
 ## Tafsir Summary
 
-And when you have divorced women and they have fulfilled the term of their prescribed period, do not prevent them from marrying their (former) husbands, if they mutually agree on reasonable basis. Rules of the remarriage of the divorced women The second verse stops the unjust treatment meted out to divorced women, that is, they are discouraged to marry again.
+this Ayah was revealed about Ma'qil bin Yasar Al-Muzani and his sister.
 
 ## Tafsir Ibn Kathir
 

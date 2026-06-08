@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, We have sent the revelation to you as We sent the revelation to Nuh and the Prophets after him; We (also) sent the revelation to Ibrahim, Isma'il, Ishaq, Ya'qub, and Al-Asbat, (the offspring of the twelve sons of… In verse 164 which opens with the words: وَرُ‌سُلًا قَدْ قَصَصْنَاهُمْ عَلَيْكَ And, (We have sent down) some Messengers We have already told you about ...', after a brief mention of prophets who appeared after Sayyidna Nuh (علیہ السلام) ، a special citation has been made of the greatest prophets from among them.
+Therefore, the saying of Jews that they would believe only if there comes to them a written Book like the Torah, otherwise they would not, is to say the least, being short on sense and tall on disbelief.
 
 ## Tafsir Ibn Kathir
 

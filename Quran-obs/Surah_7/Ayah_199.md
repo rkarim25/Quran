@@ -41,7 +41,7 @@ Under the comment on this verse Ibn Marduwaih has reported, on the authority of 
 
 ## Tafsir Summary
 
-Show forgiveness, enjoin Al-'Urf (the good), and turn away from the foolish (don't punish them)(199)And if an evil whisper comes to you from Shaytan, then seek refuge with Allah. The Ideal Manifesto of Qur'anic Ethics The above verse provides us with a perfect code and model discipline of moral excellences.
+Show forgiveness, enjoin Al-'Urf (the good), and turn away from the foolish (don't punish them)(199)And if an evil whisper comes to you from Shaytan, then seek refuge with Allah. If he still insists on evil, becomes difficult and continues in his ignorance, then turn away from him, so that your ignoring him might avert his evilness.
 
 ## Tafsir Ibn Kathir
 

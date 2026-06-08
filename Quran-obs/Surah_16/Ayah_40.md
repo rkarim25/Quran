@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they swear by Allah with their strongest oaths, that Allah will not raise up one who dies. From verse 36 in the present Surah: وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّ‌سُولًا (And We did raise a messenger among every people), as well as from verse 24 of Surah Fatir: وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِ…
+Yes, (He will raise them up), a promise (binding) upon Him in truth, but most of mankind know not (38)In order that He may make clear to them what they differed over, and so that those who disbelieved may know that they were liars (39)Verily, Our Word to a thing when We intend it, is only that We say unto it: "Be!" - and it is .
 
 ## Tafsir Ibn Kathir
 

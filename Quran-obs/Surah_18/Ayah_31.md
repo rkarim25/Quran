@@ -124,7 +124,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, as for those who believed and did righteous deeds, certainly We shall not make the reward of anyone to be lost who does his (righteous) deeds in the most perfect manner (30)These! At this point, someone may doubt that this advice was reasonably practicable.
+For them will be Jannatu 'Adn; wherein rivers flow beneath them; therein they will be adorned with bracelets of gold, and they will wear green garments of Sundus and Istabraq.
 
 ## Tafsir Ibn Kathir
 

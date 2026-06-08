@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But if they turn away, then say: "I have warned you of a Sa'iqah like the Sa'iqah which overtook 'Ad and Thamud. فَأَرْ‌سَلْنَا عَلَيْهِمْ رِ‌يحًا صَرْ‌صَرً‌ا (So, We let loose a wild wind on them - 41:16) This is the explanation of what was mentioned as ` calamity of ` Ad and Thamud' in the earlier verse.
+The Arabic word used in the text is sa` igah.
 
 ## Tafsir Ibn Kathir
 

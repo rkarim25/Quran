@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Had We sent down this Qur'an on a mountain, you would surely have seen it humbling itself and rent asunder by the fear of Allah. A Few of Allah's Attributes of Perfection Having urged the people to be concerned about the Hereafter and having asserted the greatness of the Qur'an, this Surah is concluded with a few of Allah's attributes of perfectio…
+He is the Most Gracious, the Most Merciful (22)He is Allah, beside Whom La ilaha illa Huwa, Al-Malik, Al-Quddus, As-Salam, Al-Mu'min, Al-Muhaymin, Al-'Aziz, Al-Jabbar, Al-Mutakabbir.
 
 ## Tafsir Ibn Kathir
 

@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, Ilyas was one of the Messengers (123)When he said to his people: "Will you not have Taqwa? The word: بَعل (ba'l) in verse 125: أَتَدْعُونَ بَعْلًا (Do you invoke literally means husband, master etc.
+This is what was narrated by Wahb bin Munabbih from the People of the Book; Allah knows best how true it is.
 
 ## Tafsir Ibn Kathir
 

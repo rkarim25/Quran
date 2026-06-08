@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Many injunctions relating to acts of worship and dealings with human beings have been taken up in this Surah, especially all those a person dislikes to obey finding them burdensome.
+Spend of that with which We have provided for you, before a Day comes when there will be no bargaining, nor friendship, nor intercession. Therefore, the sections that follow have, in most of them, a discussion of the second aspect, which is, the 'spending' out of one's possessions.
 
 ## Tafsir Ibn Kathir
 

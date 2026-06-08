@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-These are the Ayat of Allah, which We recite to you with truth. مِّن وَرَ‌ائِهِمْ جَهَنَّمُ "In front of them, there is Jahannam...45:10" The word وَرَ‌اءِ war' in Arabic is mostly used in the sense of "behind" and occasionally used in the sense of "front".
+And that which they have earned will be of no profit to them, nor those whom they have taken as protective friends besides Allah. However, some of the commentators have taken it in this context to mean ` back/behind' and interpreted it to mean that those who are living in haughtiness and arrogance, the fire of Hell is trailing behind/after them.
 
 ## Tafsir Ibn Kathir
 

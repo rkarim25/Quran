@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Beneficent, the Most Merciful. وَجَعَلْنَا النَّهَارَ‌ مَعَاشًا (and made the day a source of livelihood....78:11).
+They are asking about the matter of the Day of Judgement, and it is the great news.
 
 ## Tafsir Ibn Kathir
 

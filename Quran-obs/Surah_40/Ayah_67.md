@@ -132,7 +132,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "I have been forbidden to worship those whom you worship besides Allah, since there have come to me evidences from my Lord; and I am commanded to submit to the Lord of all that exists (66)It is He, Who has created y… In verse 64, it was said: وَصَوَّرَ‌كُمْ فَأَحْسَنَ صُوَرَ‌كُمْ (and shaped you, and made your shapes so good -).
+And We cause whom We will to remain in the wombs for an appointed term)(22:5).
 
 ## Tafsir Ibn Kathir
 

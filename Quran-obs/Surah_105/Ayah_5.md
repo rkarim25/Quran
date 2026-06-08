@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 105:5] فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ (And thus He turned them into an eaten-up chaff.) The word ` asf means 'chaff, straw, husk or bran'.
+Striking them with stones of Sijjil.)(5.
 
 ## Tafsir Ibn Kathir
 

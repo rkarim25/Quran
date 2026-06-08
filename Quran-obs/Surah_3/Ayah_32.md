@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say (O Muhammad ﷺ to mankind): "If you (really) love Allah, then follow me (i.e. In previous verses, there was affirmation of Allah's Oneness and the condemnation of disbelief in it.
+In other words, if a person living in the world of today claims that he loves his Creator and Master, then, he must test it on the touch-stone of his obedience to the Messenger, that is, match it against the frequency and quality of where and how he has been following him.
 
 ## Tafsir Ibn Kathir
 

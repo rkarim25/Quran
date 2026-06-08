@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-As for man, when his Lord tries him by giving him honor and bounties, then he says: "My Lord has honored me. Spending on the Orphan is not Sufficient.
+Spending on the Orphan is not Sufficient.
 
 ## Tafsir Ibn Kathir
 

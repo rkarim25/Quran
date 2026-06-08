@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you not seen those who claim sanctity for themselves? Indulgence in self-praise Let us now turn to the word of Allah in: أَلَمْ تَرَ‌ إِلَى الَّذِينَ يُزَكُّونَ أَنفُسَهُم (Have you not seen those who claim sanctity for themselves?) Since the Jews claimed sanctity for themselves, Allah Almighty censures them in this verse as a strange lot attributing sanctity to themselves and then having the audacity to tell others that this is so.
+Nay, but Allah sanctifies whom He wills, and they will not be dealt with injustice even equal to the extent of a 'Fatīl' (49)Look, how they invent a lie against Allah, and enough is that as a manifest sin (50)Have you not seen those who were given a portion of the Scripture?
 
 ## Tafsir Ibn Kathir
 

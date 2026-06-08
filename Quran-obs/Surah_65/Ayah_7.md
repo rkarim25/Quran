@@ -111,7 +111,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Lodge them where you dwell, according to what you have, and do not harm them so as to suppress them. Rule [ 15]: Quantum of Divorcee's Maintenance لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِ ۖ وَمَن قُدِرَ‌ عَلَيْهِ رِ‌زْقُهُ فَلْيُنفِقْ مِمَّا آتَاهُ اللَّـهُ (A man of vast means should spend according to his vast means.
+If the husband is wealthy, he should spend on his divorcee according to his affluence; and if he is indigent, he should spend according to his limited resources - even if the wife is wealthy.
 
 ## Tafsir Ibn Kathir
 

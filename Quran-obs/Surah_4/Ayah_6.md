@@ -167,7 +167,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And give not unto the unwise your wealth which Allah has made a means of support for you, but feed and clothe them therewith, and speak to them words of kindness and justice (5)And test orphans until they reach the age of marriage; if then you find sound judgment in them, release their property to them, but consume it not wastefully and hastily, fearing that they should grow up. The injunction to test the ability and understanding of minors Once we know from verse 5 that minors should not be entrusted with properties until such time that their ability to discern and decide stands proved, the inj…
+During the first stage, the guardians of children have been instructed to educate and train them by providing for them hands-on experience, that is, let them become smarter by conducting small dealings in buying and selling on their own.
 
 ## Tafsir Ibn Kathir
 

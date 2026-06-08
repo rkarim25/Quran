@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those (angels) who bear the Throne (of Allah) and those around it glorify the praises of their Lord, and believe in Him, and ask forgiveness for those who believe (saying): "Our Lord! In verse 7, it was said: الَّذِينَ يَحْمِلُونَ الْعَرْ‌شَ وَمَنْ حَوْلَهُ (Those who are bearing the Throne and those who are around it).
+The relatives of Muslim believers - fathers, grandfathers or wives and children - even if they are ranked lower than them, such is the munificence of Allah Ta’ ala that He would, in deference to them, also let the relatives of a lesser rank be along with them in Jannah, so that their happiness becomes total and complete as it has been said in another verse of the Qur'an appearing elsewhere:...
 
 ## Tafsir Ibn Kathir
 

@@ -106,7 +106,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And it is He Who spread out the earth, and placed therein firm mountains and rivers and of every kind of fruit He made Zawjayn Ithnayn (two in pairs). And He is the One who spread out the earth and made mountains and rivers therein.
+The expression: 'spread out the earth' is not contradictory of its being round - because each part of something very big and round appears to be, when looked at separately, nothing but a surface spread out - and the Qur’ an addresses common people in terms of their view of things.
 
 ## Tafsir Ibn Kathir
 

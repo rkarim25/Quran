@@ -112,7 +112,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-There, the believers were tried and shaken with a mighty shaking (11)And when the hypocrites and those in whose hearts is a disease said: "Allah and His Messenger promised us nothing but delusion! The second state mentioned here is that of the hypocrites for they had started saying that the promises of Allah and His Rasul ﷺ were a web of deception: إِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِم مَّرَ‌ضٌ مَّا وَعَدَنَا اللَّـهُ وَرَ‌سُولُهُ إِلَّا غُرُ‌ورً‌ا (And (remember) when the hypocrites and those having malady in their hearts were saying, "Allah and His messenger did not promise us but deceitfully; -12).
+Onward from here, mention has been made of two groups of hypocrites who were practically a part of the Jihad effort along with Muslims, though outwardly only. And any act or omission on his part that is proved to have been done as a preferable conduct (istihbab) and not as an obligatory one, should be followed by us too as a commendable (mustahab) conduct and not as a necessary obligation This, in other words, means that its contravention will not be declared to be a sin.
 
 ## Tafsir Ibn Kathir
 

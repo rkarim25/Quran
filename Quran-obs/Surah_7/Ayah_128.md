@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The chiefs of Fir'awn's people said: "Will you leave Musa and his people to spread mischief in the land, and to abandon you and your gods?" He said: "We will kill their sons, and let their women live, and we have indeed irresistible power over them. After being defeated by the prophet Musa (علیہ السلام) ، Pharaoh enforced the law of killing the male children of the Israelites.
+He gives it as a heritage to whom He wills of His servants; and the (blessed) end is for the pious and righteous persons.
 
 ## Tafsir Ibn Kathir
 

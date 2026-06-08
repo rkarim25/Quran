@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Out of the verses appearing above, the first two (15-16) tell us about a military law of Islam.
+When you meet those who disbelieve, in a battlefield, never turn your backs to them (15)And whoever turns his back to them on such a day – unless it be a stratagem of war, or to retreat to a troop (of his own) – he indeed has drawn upon himself wrath from Allah.
 
 ## Tafsir Ibn Kathir
 

@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when your Lord called Musa (saying): "Go to the people who are wrongdoers. Bani Isra'il were the residents of Syria.
+When a sharp opponent is not properly equipped with the correct arguments, he normally tries to switch the conversation towards the person of the addressee in order to find faults with him.
 
 ## Tafsir Ibn Kathir
 

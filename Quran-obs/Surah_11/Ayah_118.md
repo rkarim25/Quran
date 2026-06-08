@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if your Lord had so willed, He could surely have made mankind one Ummah, but they will not cease to disagree (118)Except him on whom your Lord has bestowed His mercy, and for that did He create them. Difference: Blameworthy and Praiseworthy When it was said in the fifth verse (118) - ` had your Lord willed, He would have made all the people a single community' - the sense is that had it been the will of Allah, He would have made all human beings accept Islam by force.
+Then it (Hell) will say, "Enough, enough, by Your might!") Difference: Blameworthy and Praiseworthy When it was said in the fifth verse (118) - ` had your Lord willed, He would have made all the people a single community' - the sense is that had it been the will of Allah, He would have made all human beings accept Islam by force.
 
 ## Tafsir Ibn Kathir
 

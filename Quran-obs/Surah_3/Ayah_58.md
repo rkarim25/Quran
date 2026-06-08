@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Allah said: "O 'Isa! In the previous verse (56), it was said that Allah will be the final judge and decision-maker in what they used to differ in between them-selves.
+The same applies here as the punishment in the world has already been given; now the punishment of the Hereafter will be added on and the sum-total will be finally executed on the Last Day, that is, having been punished in the world will not serve as expiation for the punishment of the Hereafter.
 
 ## Tafsir Ibn Kathir
 

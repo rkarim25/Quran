@@ -119,7 +119,7 @@ Allah, the Exalted, says to His Messenger, Muhammad , 'Say: O mankind! If you ar
 
 ## Tafsir Summary
 
-Say:"O people! In the seventh verse (98), the heedless deniers of truth have been admonished for their failure to make the optimum use of the time of life allowed to them.
+They declare that the cause of the removal of punishment from the people was the failing of the prophet and that this very failing was the cause of Divine displeasure which is mentioned in Surah al-Anbiya' and Surah As-Saffat.
 
 ## Tafsir Ibn Kathir
 

@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Zani marries not but a Zaniyah or a Mushrikah; and the Zaniyah, none marries her except a Zani or a Mushrik. The second injunction about fornication The first injunction was regarding the punishment of fornication, which has been described in the previous verse.
+Here Allah tells us that the Zani (male who is guilty of illegal sex) does not have intercourse except with a Zaniyah (female who is guilty of illegal sex) or a Mushrikah (female idolator), meaning that no one would go along with him in this action except a sinful woman who is also guilty of Zina, or a Mushrikah who does not think it is unlawful.
 
 ## Tafsir Ibn Kathir
 

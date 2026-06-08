@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It will not be in accordance with your desires, nor those of the People of the Scripture, whosoever works evil, will have the recompense thereof, and he will not find any protector or helper besides Allah (123)And whoeve… Verse 124 says: وَمَن يَعْمَلْ مِنَ الصَّالِحَاتِ مِن ذَكَرٍ‌ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَأُولَـٰئِكَ يَدْخُلُونَ الْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرً‌ا ﴿124﴾.
+It will not be in accordance with your desires, nor those of the People of the Scripture, whosoever works evil, will have the recompense thereof, and he will not find any protector or helper besides Allah (123)And whoever does righteous good deeds, male or female, and is a believer, such will enter Paradise and not the least injustice, even to the size of a Naqir, will be done to them (124)And who can be better in religion than one who submits his face (himself) to Allah; and…
 
 ## Tafsir Ibn Kathir
 

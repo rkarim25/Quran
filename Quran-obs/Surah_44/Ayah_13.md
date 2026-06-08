@@ -41,7 +41,7 @@ According to another report, a man would look at the sky and he would see nothin
 
 ## Tafsir Summary
 
-Nay! دُخَانٍ مُّبِينٍ...visible smoke" in verse (10) embodies a prophecy and the Prophet ﷺ was asked to watch for the Day when the sky will bring forth a manifest smoke covering the people.
+Then they had turned away from him and said: "(He is) one taught, a madman!") meaning, 'what further admonition do they need when We have sent them a Messenger with a clear Message and warning?
 
 ## Tafsir Ibn Kathir
 

@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Behold all that is in the heavens and the earth." But neither Ayat nor warners benefit those who do not believe (101)Then do they wait save for the likes of the days of men who passed away before them Say: "Wait then, I am waiting with you among those who wait. In the seventh verse (98), the heedless deniers of truth have been admonished for their failure to make the optimum use of the time of life allowed to them.
+This is all under the control of the Most Able; there is no God worthy of worship except Him and there is no true Lord other than Him.
 
 ## Tafsir Ibn Kathir
 

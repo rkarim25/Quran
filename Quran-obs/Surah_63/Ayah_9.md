@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Linkage between Sections [ 1] and [ 2] O those who believe, your riches and your children must not divert you from the remembrance of Allah.
+The import of the verse is that love of wealth and children to some extend is not bad.
 
 ## Tafsir Ibn Kathir
 

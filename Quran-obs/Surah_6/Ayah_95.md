@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily! Mentioned in the previous verses was how obstinate and unmindful of consequences the disbelievers and polytheists were.
+Such is Allah, then how are you deluded away from the truth (95)(He is the) Cleaver of the daybreak.
 
 ## Tafsir Ibn Kathir
 

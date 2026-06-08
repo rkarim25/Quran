@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Recitation of Surah Ash-Shams wa Duhaha in the 'Isha' Prayer The Hadith of Jabir which was recorded in the Two Sahihs has already been mentioned. وَالْقَمَرِ‌ إِذَا تَلَاهَا (and by the moon when she follows him,...91:2).
+This signifies one of two things: [ 1] The moon following the sun is seen clearly during the middle of the lunar months when the full moon rises to dominate the sky with its radiance after sunset.
 
 ## Tafsir Ibn Kathir
 

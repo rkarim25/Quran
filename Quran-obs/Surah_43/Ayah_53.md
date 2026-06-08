@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Fir'awn proclaimed among his people (saying): "O my people! وَلَا يَكَادُ يُبِينُ (and can hardly express himself - 43:52).
+Is not mine the dominion of Egypt, and these rivers flowing underneath me.
 
 ## Tafsir Ibn Kathir
 

@@ -112,7 +112,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-There is no sin on you, if you divorce women while yet you have not touched them, nor appointed for them their due (dowry). Keeping dower and consummation in view, divorce can be of four situations.
+There is no sin on you, if you divorce women while yet you have not touched them, nor appointed for them their due (dowry).
 
 ## Tafsir Ibn Kathir
 

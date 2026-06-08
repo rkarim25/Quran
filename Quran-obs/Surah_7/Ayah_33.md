@@ -127,7 +127,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "(But) the things that my Lord has indeed forbidden are the Fawahish (immoral deeds) whether committed openly or secretly, and Ithm, and transgression without right, and joining partners with Allah for which He has given no authority, and saying things about Allah of which you have no knowledge. After that, the second verse takes up the description of some of the things declared unlawful by Allah Ta` ala forsaking which really brings His pleasure.
+This particular detail was mentioned here also because it covers almost all kinds of prohibitions and sins - whether they pertained to belief or conduct, or were done personally, or related to rights of others which were usurped. This was done also because these people of the Jahiliyyah were involved with all these crimes and prohibitions.
 
 ## Tafsir Ibn Kathir
 

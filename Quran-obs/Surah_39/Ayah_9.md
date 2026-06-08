@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Is one who is obedient to Allah, Ana'a Al-Layl prostrating and standing fearing the Hereafter and hoping for the mercy of his Lord? In the first sentence of verse 9, it was said: أَمَّنْ هُوَ قَانِتٌ آنَاءَ اللَّيْلِ (Can (such people be equal to) the one who worships during the hours of the night, prostrating and standing, fearing the Hereafter and having hopes in his Lord's mercy?).
+Scholars of exegesis have said that there is an ellipsis of a sentence that should have appeared earlier, that is, the disbeliever will be told, 'are you better, or is it the obedient believer who has been mentioned later?'.
 
 ## Tafsir Ibn Kathir
 

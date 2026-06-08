@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they stayed in their cave three hundred years, adding nine (25)Say: "Allah knows best how long they stayed. As for the period of sleep in the Cave given as three hundred nine years in the third verse (27), this statement concerning the time duration, as evident from the sequential arrangement of the Qur’ an, is but from Allah Ta’ ala.
+The length of time was three hundred plus nine years in lunar years, which is three hundred years in solar years.
 
 ## Tafsir Ibn Kathir
 

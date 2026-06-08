@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they ask you to inform them (saying): "Is it true" Say: "Yes! It was said in verse أَثُمَّ إِذَا مَا وَقَعَ آمَنتُم بِهِ ۚ آلْآنَ.
+The event related to the people of Sayyidna Yunus going to appear towards the end of the Surah in which their Taubah was accepted falls under this very rule.
 
 ## Tafsir Ibn Kathir
 

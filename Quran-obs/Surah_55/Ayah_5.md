@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Introduction to Surat Ar-Rahman Imam Ahmad recorded that Zirr said that a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! الشَّمْسُ وَالْقَمَرُ‌ بِحُسْبَانٍ (The sun and the moon are [ bound ] by a [ fixed ] calculation...55:5) This verse draws attention to two of the celestial bodies from among the bounties of Allah.
+He has appointed the night for resting, and the sun and the moon for calculating. If we go by the latter lexicologists' interpretation that husban is the plural of hisab, then it will refer to the fact that each of the sun and the moon has its own calculated orbits.
 
 ## Tafsir Ibn Kathir
 

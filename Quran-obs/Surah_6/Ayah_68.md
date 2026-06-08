@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But your people have denied it (the Qur'an) though it is the truth. Avoid Gatherings of False People In the present verses, Muslims have been instructed that they should, as a matter of principle, abstain from being a part of the gatherings frequented by those who prefer to follow the false - because a sin is a sin, whether you do it yourself or watch others doing it.
+Said at the end of the verse was ` if Satan makes you forget', that is, if one went into their gathering unmindfully - whether while not remembering the prohibition of participating in such gatherings, or while not recalling that these people talk against the Ayat of Allah and the Rasul of Allah in their gatherings - then, in either situation, once it is remembered, one should leave that gathering immediately.
 
 ## Tafsir Ibn Kathir
 

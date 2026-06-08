@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Day when the Shin shall be laid bare and they shall be called to prostrate themselves, but they shall not be able to do so (42)Their eyes will be cast down and ignominy will cover them; they used to be called to prostrate themselves, while they were (43)Then leave Me alone with whoever denies this narration. فَذَرْ‌نِي وَمَن يُكَذِّبُ بِهَـٰذَا الْحَدِيثِ (So, leave Me alone with those who reject this discourse.
+Verily, My plan is strong (45)Or is it that you ask them a wage, so that they are heavily burdened with debt (46)Or that the Unseen is in their hands, so that they can write it down .
 
 ## Tafsir Ibn Kathir
 

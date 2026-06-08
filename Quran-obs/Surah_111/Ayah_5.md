@@ -30,7 +30,7 @@ The Reason for the Revelation of this Surah and the Arrogance of Abu Lahab towar
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 111:5] فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ (In her neck there is a rope of twisted palm-fibre.) The masd with the letter-s-bearing sukun [ quiescence or rest ] is an infinitive which means 'to twist rope or cord, or to twist it strongly and tightly'.
+In her neck is a twisted rope of Masad.) The Reason for the Revelation of this Surah and the Arrogance of Abu Lahab toward the Messenger of Allah (ﷺ) Al-Bukhari recorded from Ibn 'Abbas that the Prophet ﷺ went out to the valley of Al-Batha and he ascended the mountain.
 
 ## Tafsir Ibn Kathir
 

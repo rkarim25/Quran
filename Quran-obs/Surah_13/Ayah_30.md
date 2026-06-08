@@ -130,7 +130,7 @@ Thus have We sent you to a community before whom other communities have passed a
 
 ## Tafsir Summary
 
-Thus have We sent you to a community before whom other communities have passed away, in order that you might recite unto them what We have revealed to you, while they disbelieve in the Most Gracious (Allah). At the beginning of the section, human beings were divided into two kinds - those who are obedient to Allah Ta’ ala and those who are disobedient to Him.
+Thus have We sent you to a community before whom other communities have passed away, in order that you might recite unto them what We have revealed to you, while they disbelieve in the Most Gracious (Allah). Therefore, when a human being deviates from any injunction made binding by Allah or deviates from the command given by His Messenger, he or she commits a breach of trust by breaking this pledge to have faith.
 
 ## Tafsir Ibn Kathir
 

@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when those who disbelieved see you, they take you not except for mockery (saying): "Is this the one who talks about your gods?" While they disbelieve at the mention of the Most Gracious (36)Man is created of haste. Allah has said كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ 'Every soul has to taste death'.
+And when those who disbelieved see you, they take you not except for mockery (saying): "Is this the one who talks about your gods?" While they disbelieve at the mention of the Most Gracious (36)Man is created of haste.
 
 ## Tafsir Ibn Kathir
 

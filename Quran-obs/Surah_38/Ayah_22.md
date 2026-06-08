@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And has the news of the litigants reached you? About Sayyidna Dawud (علیہ السلام) ، it was said in verse 22: فَفَزِعَ مِنْهُمْ (and he was scared of them).
+Natural fear is not contrary to the station of a prophet or man of Allah This tells us that being naturally affected at the sight of something fearful is not contrary to the station of a prophet or man of Allah.
 
 ## Tafsir Ibn Kathir
 

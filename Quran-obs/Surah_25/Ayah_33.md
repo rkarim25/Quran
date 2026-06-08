@@ -46,7 +46,7 @@ The Reason Why the Qur'an Was Revealed in Stages, the Refutation of the Disbelie
 
 ## Tafsir Summary
 
-And those who disbelieve say: "Why is not the Qur'an revealed to him all at once" Thus, that We may strengthen your heart thereby. Verse no.
+And We have revealed it to you gradually, in stages (32)And no example or parable do they bring, but We reveal to you the truth, and the better explanation thereof (33)Those who will be gathered to Hell on their faces, such will be in an evil state, and most astray from the path .
 
 ## Tafsir Ibn Kathir
 

@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, when the bearer of the good news arrived, he cast it (the shirt) over his face, and his vision returned. The reply given by Sayyidna Ya` qub (علیہ السلام) was: قَالَ سَوْفَ أَسْتَغْفِرُ‌ لَكُمْ رَ‌بِّي shall pray to my Lord to forgive you ...
+Ask forgiveness (from Allah) for our sins, indeed we have been sinners." He said: "I will ask my Lord for forgiveness for you, verily, He!
 
 ## Tafsir Ibn Kathir
 

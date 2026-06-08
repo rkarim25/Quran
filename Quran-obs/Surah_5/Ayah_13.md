@@ -141,7 +141,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed, Allah took the covenant from the Children of Israel (Jews), and We appointed twelve leaders among them. The first verse is telling us that Bani Isra'il were heedless to clear instructions given to them.
+In other words, he should not treat them with contempt or hatred because after knowing what they are - hardhearted and cold - the chances that any good counsel would affect them are very remote. It means that it was because of their contravention of the solemn pledge that Allah made them far-removed from His mercy (that is, from its effects, which is the reality of 'La` nah' or curse - Hadrat Thanavi) and made their hearts hardened against any penetration of truth.
 
 ## Tafsir Ibn Kathir
 

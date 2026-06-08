@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Truly, Allah defends those who believe. The previous verses contain an account of how the infidels of Makkah prevented the Holy Prophet ﷺ and his companions from entering the Haram and the Holy Mosque to perform ` Umrah when, having put on ihram, they had reached as far as Hudaibiyah, a place not far from Makkah.
+Truly, Allah defends those who believe.
 
 ## Tafsir Ibn Kathir
 

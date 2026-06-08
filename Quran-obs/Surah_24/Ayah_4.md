@@ -90,7 +90,7 @@ In the Qur’ anic verse, either because of general practice or because of the i
 
 ## Tafsir Summary
 
-And those who accuse chaste women, and produce not four witnesses, flog them with eighty stripes, and reject their testimony forever. The third injunction relating to fornication is on false accusation and the punishment prescribed for it As explained earlier, since adultery is the most damaging and heinous of all crimes for society, as such its punishment is also most severe under Islamic law, compared to all other crimes.
+Because, if there are no other witnesses, or the total number is less than four, or there is doubt if the witnesses will give the evidence, then only one man would never like to venture evidence alone and be punished with eighty stripes.
 
 ## Tafsir Ibn Kathir
 

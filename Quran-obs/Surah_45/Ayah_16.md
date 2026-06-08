@@ -67,7 +67,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We gave the Children of Israel the Scripture, and the understanding of the Scripture and its laws, and the prophethood; and provided them with good things, and preferred them above the nations (16)And gave them clear proofs in matters. قُل لِّلَّذِينَ آمَنُوا يَغْفِرُ‌وا لِلَّذِينَ لَا يَرْ‌جُونَ أَيَّامَ اللَّـهِ ("Tell those who believe that they should forgive those who do not believe in Allah's days ...14) ".
+And indeed We gave the Children of Israel the Scripture, and the understanding of the Scripture and its laws, and the prophethood; and provided them with good things, and preferred them above the nations (16)And gave them clear proofs in matters.
 
 ## Tafsir Ibn Kathir
 

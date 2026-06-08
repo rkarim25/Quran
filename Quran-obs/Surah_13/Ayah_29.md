@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who disbelieved say: "Why is not a sign sent down to him from his Lord" Say: "Verily, Allah sends astray whom He wills and guides unto Himself those who turn to Him in repentance. At the beginning of the section, human beings were divided into two kinds - those who are obedient to Allah Ta’ ala and those who are disobedient to Him.
+The condition attached to this good deed is that one must first repent from the past sin and then do the good deed.
 
 ## Tafsir Ibn Kathir
 

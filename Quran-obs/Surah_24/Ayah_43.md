@@ -166,7 +166,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-See you not that Allah drives the clouds gently, then joins them together, then makes them into a heap of layers, and you see the rain come forth from between them; and He sends down from the sky, from mountains in it of ice, and strikes therewith whom He wills, and averts it from whom He wills. From the sky mountains (of clouds) having hail in them - 43.
+As for those who say that "mountains" here is used as a metaphor for clouds, they think that the second Min is also used to describe the place from which the ice is coming, and is thus interchangeable with the first.
 
 ## Tafsir Ibn Kathir
 

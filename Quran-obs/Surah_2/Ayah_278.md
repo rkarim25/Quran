@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! The gist of the fourth verse (278): يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّـهَ وَذَرُ‌وا مَا بَقِيَ مِنَ الرِّ‌بَا إِن كُنتُم مُّؤْمِنِينَ those who believe, fear Allah and give up what still remains of the riba if you are believers" is that, after the revelation that prohibited riba, the giving and taking of the amount of ربا riba that remained due against anyone was also prohibited.
+And if you do not do it, then take a notice of war from Allah and His Messenger.) They said, "We repent to Allah and abandon whatever is left of our Riba", and they all abandoned it This Ayah serves as a stern threat to those who continue to deal in Riba after Allah revealed this warning.
 
 ## Tafsir Ibn Kathir
 

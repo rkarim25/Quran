@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Do you wonder that there has come to you a Reminder from your Lord through a man from among you, that he may warn you, so that you may fear Allah and that you may receive (His) mercy? Here, the answer given was: أَوَعَجِبْتُمْ أَن جَاءَكُمْ ذِكْرٌ‌ مِّن رَّ‌بِّكُمْ عَلَىٰ رَ‌جُلٍ مِّنكُمْ لِيُنذِرَ‌كُمْ وَلِتَتَّقُوا وَلَعَلَّكُمْ تُرْ‌حَمُونَ ﴿63﴾ (Do you wonder that an advice from your Lord has come…
+In other words, it means that a person whose warning can make people have fear could only be the one who is of their kind and is an epitome of human traits like them. This is not an unusual doubt for the disbelievers of many communities who have questioned the propriety of having a human being as prophet or messenger.
 
 ## Tafsir Ibn Kathir
 

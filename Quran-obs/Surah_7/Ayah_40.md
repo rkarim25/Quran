@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who belie Our Ayat and treat them with arrogance, for them the gates of the heavens will not be opened, and they will not enter Paradise until the Jamal goes through the eye of the needle. Mentioned first in the set of verses cited above (35-37) is a pledge taken from every human being in the world of spirits, before being born into the material world.
+The sense of the verse is that the camel is a big animal and its entry into the eye of a needle is functionally impossible.
 
 ## Tafsir Ibn Kathir
 

@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 100:5] فَوَسَطْنَ بِهِ جَمْعًا (then enter, at the same time, into the centre of the [ opposing ] host) In other words, they penetrate into the centre of the enemy forces without the least degree of fear.
+And penetrating forthwith as one into the midst.)(6. Verily, man is ungrateful to his Lord.)(7.
 
 ## Tafsir Ibn Kathir
 

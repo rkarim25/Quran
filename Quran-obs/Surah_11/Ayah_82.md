@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So when Our commandment came, We turned them upside down, and rained on them stones of clay, in an array (82)Marked from your Lord; and they are not ever far from the wrongdoers (83) The Town of Lut's People is overturne… At that time, the angels under Divine command said to Sayyidna Lut (علیہ السلام) : فَأَسْرِ‌ بِأَهْلِكَ بِقِطْعٍ مِّنَ اللَّيْلِ (So, move with your family in a part of night).
+So when Our commandment came, We turned them upside down, and rained on them stones of clay, in an array (82)Marked from your Lord; and they are not ever far from the wrongdoers .
 
 ## Tafsir Ibn Kathir
 

@@ -16,7 +16,7 @@ Sayyidna Jundub ؓ عنہ narrated this incident and said that revelation of the
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Bukhari, Muslim and Tirmidhi have narrated from Sayyidna Jundub ؓ that once a finger of the Holy Prophet ﷺ was wounded and started bleeding, he said: 'You are merely a finger that is bleeding; [ what does it matter ]
+This is well known by necessity from his biography. When the Prophet ﷺ was given the choice at the end of his life between remaining in this life forever and then going to Paradise, or moving on to the company of Allah, he chose that which is with Allah over this lowly world.
 
 ## Tafsir Ibn Kathir
 

@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) Ibrahim when he said to his people: "Worship Allah, and have Taqwa of Him, that is better for you if you know. It was described in the previous verses that infidels keep on their opposition and afflictions on Muslims as a routine.
+And the duty of the Messenger is only to convey plainly.
 
 ## Tafsir Ibn Kathir
 

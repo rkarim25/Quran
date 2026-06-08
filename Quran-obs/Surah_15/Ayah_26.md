@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed, We created man from dried (sounding) clay of altered mud (26)And the Jinn, We created earlier from the smokeless flame of fire (27) The Substances from which Mankind and Jinns were created Going Ahead and Remaining Behind in Righteous Deeds: The Difference in Degrees Some exegetic interpretations of the words: (al-mustaqdimin) : 'those who go ahead' and: (al-musta'khirin) : 'those who remain behind' appearing in verse 24: الْمُسْتَقْدِمِينَ ~.A11 have been variously reported from Tafsir authorities among the Sahabah ؓ and Tabi` in.
+And indeed, We created man from dried (sounding) clay of altered mud (26)And the Jinn, We created earlier from the smokeless flame of fire .
 
 ## Tafsir Ibn Kathir
 

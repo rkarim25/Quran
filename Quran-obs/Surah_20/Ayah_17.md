@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And what is that in your right hand, O Musa? وَمَا تِلْكَ بِيَمِينِكَ يَا مُوسَىٰ The question: "What is in your right hand, 0 Musa"?
+In other words, that which is in your right hand is a stick that you are familiar with.
 
 ## Tafsir Ibn Kathir
 

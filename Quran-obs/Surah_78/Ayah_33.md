@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, for those who have Taqwa, there will be a success (31)Hada'iq and vineyards (32)And Kawa'ib Atrab (33)And a cup Dihaq (34)No Laghw shall they hear therein, nor lying (35)Rewarded from your Lord with a sufficient… فَذُوقُوا فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا ("So now taste!
+They meant by this that the breasts of these girls will be fully rounded and not sagging, because they will be virgins, equal in age. It is mentioned here to emphasize the fact that its occurrence has become close, because everything that is coming will certainly come to pass.
 
 ## Tafsir Ibn Kathir
 

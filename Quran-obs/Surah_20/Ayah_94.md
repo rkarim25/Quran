@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Musa) said: "O Harun! When the Bani Isra'il were smitten with the mischief of calf-worship Sayyidna Harun (علیہ السلام) as the deputy of Sayyidna Musa (علیہ السلام) remonstrated with them but to no avail.
+The mentioning of the mother here is more delicate and profound in bringing about gentleness and mildness.
 
 ## Tafsir Ibn Kathir
 

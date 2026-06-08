@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. قُتِلَ الْخَرَّ‌اصُونَ (Death upon those who make conjectures - 51:10).
+This is what you used to ask to be hastened!") Affirming the News of the Resurrection The Commander of the faithful, 'Ali bin Abi Talib may Allah be pleased with him, ascended the Minbar in Kufah and declared, "Any Ayah in the Book of Allah the Exalted and any Sunnah from Allah's Messenger ﷺ you ask me about today, I will explain them." Ibn Al-Kawwa stood up and said, "O Leader of the faithful!
 
 ## Tafsir Ibn Kathir
 

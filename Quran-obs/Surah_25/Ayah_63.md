@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the servants of the Most Gracious are those who walk on the earth Hawna, and when the foolish address them they say; "Salama. Upto this point Surah Al-Furqan has mostly discussed the proofs of the prophethood of the Holy Prophet ﷺ and answered various objections raised in this regard by disbelievers and pagans.
+The Holy Qur’ an has awarded the title of ` Ibad-ur-Rabman to such special servants of Allah Ta’ ala, which is indeed the highest honour.
 
 ## Tafsir Ibn Kathir
 

@@ -31,7 +31,7 @@ Ibn Abi Hatim has reported from Mujhid (as mursal hadith) that the Messenger of 
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Ibn Abi Hatim has reported from Mujhid (as mursal hadith) that the Messenger of Allah ﷺ was told about a mujahid [ warrior in the cause of religion ] from amongst the Children of Israel who carried weapons of war on his shoulders for a thousand months during which time he never laid down his arms.
+this is the most apparent and most popular explanation. It has also been said that it occurs on the twenty-seventh night because of what Muslim recorded in his Sahih from Ubay bin Ka'b that the Messenger of Allah ﷺ mentioned that it was on the twenty-seventh night.
 
 ## Tafsir Ibn Kathir
 

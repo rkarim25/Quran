@@ -97,7 +97,7 @@ Thank God that my father died before this happened, and he did not have to see t
 
 ## Tafsir Summary
 
-O mankind! In the preceding verses, six social evils in connection with human and Islamic rights were prohibited, and principles of good manners were laid down to be observed in social life.
+Division into nations, tribes and sub-tribes of all sizes, and races is meant only to give a better identification of one another.
 
 ## Tafsir Ibn Kathir
 

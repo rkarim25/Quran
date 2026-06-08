@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Is it not a guidance for them: how many generations We have destroyed before them in whose dwellings they do walk about? The word: جُرُز (al-juruz) in verse 27: أَوَلَمْ يَرَ‌وْا أَنَّا نَسُوقُ الْمَاءَ إِلَى الْأَرْ‌ضِ الْجُرُ‌زِ فَنُخْرِ‌جُ (Have they not seen that We drive water to the dry land, then We bring forth crops thereby - 27) means barren land where trees do not grow.
+In other words, the rain is made to fall on some other land and it is from there that water is directed to move in the form of carrier channels on the ground all the way to the dry land that receives no rain.
 
 ## Tafsir Ibn Kathir
 

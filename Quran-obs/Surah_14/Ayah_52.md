@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This (Qur'an) is a Message for mankind (and a clear proof against them), in order that they may be warned thereby, and that they may know that He is the only One God and that men of understanding may take heed (52) Allah… In the verses which appear onwards from here (48-51), the text re-turns to the awe-inspiring happenings of the day of Qiyamah.
+In verses 50 and 51 towards the end, given there is the state in which the people of Jahannam will find themselves.
 
 ## Tafsir Ibn Kathir
 

@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We sent Musa with Our Ayat, and a manifest authority (23)To Fir'awn, Haman and Qarun, but they called (him): "A sorcerer, a liar! In verse 19, it was said: يَعْلَمُ خَائِنَةَ الْأَعْيُنِ (He knows the treachery of the eyes), in other words, eyes that betray the trust.
+Musa and Fir'awn Allah consoles His Prophet Muhammad ﷺ for the disbelief of his people and gives him the glad tidings of good consequences and victory in this world and the Hereafter, as happened to Musa bin 'Imran, peace be upon him, whom Allah sent with clear proof and definitive evidence.
 
 ## Tafsir Ibn Kathir
 

@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Whoever does righteous deeds - whether male or female - while he (or she) is a believer; then We will certainly give them a good life, and We will certainly grant them their rewards in proportion to the best of what they… According to the majority of commentators, the expression 'good life' used here means a pure and pleasing life in the present world while some Tafsir authorities have taken it to mean life in the Hereafter.
+The believer too believes that he is getting a return for every hardship and when comes the life of the Hereafter, his return for every hardship will come to him in the form of blessings that are great and everlasting.
 
 ## Tafsir Ibn Kathir
 

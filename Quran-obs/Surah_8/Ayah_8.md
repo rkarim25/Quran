@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-As your Lord caused you to go out from your home with the truth; and verily, a party among the believers disliked it (5)Disputing with you concerning the truth after it was made manifest, as if they were being driven to… The verses cited above describe the event of Badr and point out to blessings which descended upon Muslims in the form of Divine help and support during the Battle.
+But, Allah Ta` ala intended it to be otherwise so that the real objective of Islam stands achieved, that is, truth gets to be established as the ultimate truth and the very root of disbelievers is cut off.
 
 ## Tafsir Ibn Kathir
 

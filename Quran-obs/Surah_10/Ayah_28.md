@@ -83,7 +83,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the Day whereon We shall gather them all together, then We shall say to those who did set partners in worship with Us: "Stop at your place! In the two verses (27, 28) appearing next, there is a dialogue between the people of Jahannam and the idols or satans who had led them astray.
+This is what will take place when Allah Almighty will come for Final Judgement. The believers intercede to Allah so the Final Judgement may come and they get rid of that state.
 
 ## Tafsir Ibn Kathir
 

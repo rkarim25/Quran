@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We did send Musa with Our Ayat to Fir'awn and his chiefs. Incidents related to Sayyidna Musa (علیہ السلام) have been stated by the Qur'an at many places repeatedly, and the incidents referred to in the present verses have been described in detail in Surah Al-A` raf.
+Musa was sent with the Message of Tawhid to Fir'awn and His Chiefs Here Allah tells us about His servant and Messenger Musa, peace be upon him, and how He sent him to Fir'awn and his chiefs.
 
 ## Tafsir Ibn Kathir
 

@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So they both proceeded, till, when they boarded the boat, he (Khidr) damaged it. It was said in verse 71: أَخَرَ‌قْتَهَا لِتُغْرِ‌قَ أَهْلَهَا (Did you break it that you drown its people?).
+However, the context of the Qur’ an by itself is telling us that the boat did not capsize - something which supports these reports.
 
 ## Tafsir Ibn Kathir
 

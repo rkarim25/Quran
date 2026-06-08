@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This is so! In verse 52, it was said: وَعِندَهُمْ قَاصِرَ‌اتُ الطَّرْ‌فِ أَتْرَ‌ابٌ (and in their company there will be females restricting their glances ] to their husbands, and[ of matching ages.).
+Then let them taste it – Hamim and Ghassaq.) Hamim is something that has been heated to the ultimate degree, and Ghassaq is the opposite, something that is so intensely cold that it is unbearable.
 
 ## Tafsir Ibn Kathir
 

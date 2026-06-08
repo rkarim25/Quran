@@ -24,7 +24,7 @@ Ibn 'Abbas and 'Ikrimah have both said, "This Surah was revealed about Ka'b bin 
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 108:2] فَصَلِّ لِرَ‌بِّكَ وَانْحَرْ‌ (So, offer salah [ prayer ] to your Lord, and sacrifice.) The imperative inhar is derived from nahr which means 'to sacrifice by stabbing upwards into the jugular vein [ the way of slaughter for camels as opposed to other cattle ] '.
+Salah is the highest form of physical worship; and sacrifice is highest form of pecuniary or monetary form of worship.
 
 ## Tafsir Ibn Kathir
 

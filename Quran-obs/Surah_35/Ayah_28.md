@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-See you not that Allah sends down water from the sky, and We produce therewith fruits of various colors, and among the mountains are Judad, white and red, of varying colors and (others) Gharabib black (27)And likewise, men and moving creature and cattle are of various colors. The place where the word: كَذَٰلِكَ (kadhalik: translated above by the words, 'as well' ) appears in verse 28 just before: كَذَٰلِكَ إِنَّمَا يَخْشَى اللَّـهَ مِنْ عِبَادِهِ الْعُلَمَاءُ (Only those of His slaves fear Allah who are knowledgeable), but in the translation above it has been separated from the next verse by a full stop, because this is the place of a stop (w…
+Therefore, this sentence obviously means that only the ` Ulama' (the knowing, the learned, the initiated) fear Allah or have the genuine awe of Allah. See you not that Allah sends down water from the sky, and We produce therewith fruits of various colors, and among the mountains are Judad, white and red, of varying colors and (others) Gharabib black (27)And likewise, men and moving creature and cattle are of various colors.
 
 ## Tafsir Ibn Kathir
 

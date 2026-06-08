@@ -115,7 +115,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when Our messengers came to Lut, he was grieved on account of them and was concerned for them. Things turned out as Sayyidna Lut (علیہ السلام) had first apprehended.
+Therefore, he tries to guide them to that which is better for them in this life and the Hereafter. Here are my daughters, they are purer for you.
 
 ## Tafsir Ibn Kathir
 

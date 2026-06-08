@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Did We not destroy the ancients (16)So shall We make later generations to follow them (17)Thus do We deal with the criminals (18)Woe that Day to the deniers (19)Did We not create you from a despised water (20)Then We pla… ثُمَّ نُتْبِعُهُمُ الْآخِرِ‌ينَ (Then We will cause the later ones to follow them....77:17) According to popular reading, Verse 17 purports to say that the present-day infidels, the people of Makkah, will receive punishment soon.
+Did We not destroy the ancients (16)So shall We make later generations to follow them (17)Thus do We deal with the criminals (18)Woe that Day to the deniers (19)Did We not create you from a despised water (20)Then We placed it in a place of safety (21)For a known period (22)So We did measure; and We are the best to measure (23)Woe that Day to the deniers (24)Have We not made the earth Kifat (a receptacle (25)For the living and the dead (26)And have placed therein fixed towers…
 
 ## Tafsir Ibn Kathir
 

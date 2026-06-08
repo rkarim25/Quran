@@ -309,7 +309,7 @@ Sayyidna Jabir ibn ` Abdullah has reported the following event: "Once we went ou
 
 ## Tafsir Summary
 
-Allah commands you for your children's (inheritance): to the male, a portion equal to that of two - females; if only daughters, two or more, their share is two thirds of the inheritance; if only one, her share is half. People entitled to inheritance were briefly mentioned in verse 7 of the previous section which also carries details about some kinds of those so entitled.
+Therefore, two-thirds is the share of the two daughters or sisters, and Allah knows best.
 
 ## Tafsir Ibn Kathir
 

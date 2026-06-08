@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Now ask them: "Are there (only) daughters for your Lord and sons for them? Events relating to the noble prophets described earlier provided some good counsel and some lessons to learn.
+Refutation of Those Who attribute Children to Allah and say that the Angels are His Daughters Allah denounces those idolators who attribute daughters to Allah – exalted be He above that – and attributed to themselves what they desired, i.e., they wanted male offspring to themselves. As for a reported proof, you do not have that too because one only goes by the word of people who are trustworthy and whose veracity is well established.
 
 ## Tafsir Ibn Kathir
 

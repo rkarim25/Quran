@@ -132,7 +132,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Dawud! Not only that Allah Ta’ ala had made Sayyidna Dawud (علیہ السلام) a prophet, He had also placed a government and state at his command.
+And to accomplish this mission, abstention from following personal desires is a binding condition.
 
 ## Tafsir Ibn Kathir
 

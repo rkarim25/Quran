@@ -186,7 +186,7 @@ It was reported that this part of the Ayah was revealed about some Jews who comm
 
 ## Tafsir Summary
 
-(41. This is the third Section of Surah al-Ma` idah.
+Otherwise, the Torah too is a Book revealed by the same Revealer.
 
 ## Tafsir Ibn Kathir
 

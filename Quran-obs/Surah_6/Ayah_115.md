@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-[Say:] "Shall I seek a judge other than Allah while it is He Who has sent down unto you the Book, explained in detail." Those unto whom We gave the Scripture know that it is revealed from your Lord in truth. Described in the second verse (115), there are two more distinctive qualities of the Holy Qur'an sufficient to prove its being the Divine Word.
+All of Allah's statements are true, there is no doubt or cause for speculation about this fact, and all His commandments are pure justice, besides which there is no justice.
 
 ## Tafsir Ibn Kathir
 

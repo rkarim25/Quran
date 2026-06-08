@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then when We decreed death for him, nothing informed them (Jinn) of his death except a little worm of the earth which kept (slowly) gnawing away at his stick. The word: مِنسَأ (minsa'ah, translated in the text as 'scepter' ) in verse 14 beginning with: فَلَمَّا قَضَيْنَا عَلَيْهِ الْمَوْتَ (So, when We decided (that) death (should come) upon him, - 14) appears in the sense of staff or pole (as of purpose or authority).
+Let Your mercy be on the person who enters it as long as he remains here - except a person who is busy doing something unjust or faithless.
 
 ## Tafsir Ibn Kathir
 

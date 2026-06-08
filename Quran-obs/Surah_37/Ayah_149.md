@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Now ask them: "Are there (only) daughters for your Lord and sons for them? Events relating to the noble prophets described earlier provided some good counsel and some lessons to learn.
+Here, to refute their belief, Allah Ta’ ala has used their own view that the existence of daughters is a cause of disgrace.
 
 ## Tafsir Ibn Kathir
 

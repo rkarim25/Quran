@@ -75,7 +75,7 @@ Al-Hafiz Abu Bakr Al-Bayhaqi recorded that Sa'd said, "There were four Ayat reve
 
 ## Tafsir Summary
 
-O you who believe! Earlier, considered abandonment of Halal things was prohibited.
+The addition of altar-stones or idols to this list is there for listeners to understand that this matter of drinking and gambling is as serious a crime as the worship of idols.
 
 ## Tafsir Ibn Kathir
 

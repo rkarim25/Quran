@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The background of the revelation The background of the revelation of the initial verses of this Surah was that Abu Talib, the uncle of the Holy Prophet ﷺ was doing his best as his guardian, despite that he had not yet embraced Islam.
+Then Allah scares them with news of how the nations who came before them were destroyed because of their opposition to the Messengers and their disbelief in the Scriptures that were revealed from heaven. Those who disbelieve are in false pride and opposition.)(3.
 
 ## Tafsir Ibn Kathir
 

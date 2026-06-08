@@ -146,7 +146,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Allah took the covenant of the Prophets, saying: "Take whatever I gave you from the Book and Hikmah, and afterwards there will come to you a Messenger confirming what is with you; you must, then, believe in him and help him." Allah said: "Do you agree (to it) and will you take up Isri?" They said: "We agree." He said: "Then bear witness; and I am with you among the witnesses.
+Taking a Pledge From the Prophets to Believe in Our Prophet, Muhammad (ﷺ) Allah states that He took a pledge from every Prophet whom He sent from Adam until 'Isa, that when Allah gives them the Book and the Hikmah, thus acquiring whatever high grades they deserve, then a Messenger came afterwards, they would believe in and support him.
 
 ## Tafsir Ibn Kathir
 

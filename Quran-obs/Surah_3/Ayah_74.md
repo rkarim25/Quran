@@ -46,7 +46,7 @@ A party of the People of the Scripture wish to lead you astray. But they shall n
 
 ## Tafsir Summary
 
-A party of the People of the Scripture wish to lead you astray. Some from among the people of the Book chose a strategy of deception in order to mislead Muslims.
+That this envy is based on not knowing the nature, timing and wisdom of Allah's grace and mercy is explained in the later part of verse 73 and in verse 74.
 
 ## Tafsir Ibn Kathir
 

@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He has created the heavens and the earth with truth. The word: خَصِیم (khasim) in verse 4 has been derived from: خُصُومۃ (khusumah) and means a quarrelsome person.
+Allah is the One Who has created the Heavens, the Earth, and Man Allah tells us about His creation of the upper realm, which is the heavens, and the lower realm, which is the earth, and everything in them.
 
 ## Tafsir Ibn Kathir
 

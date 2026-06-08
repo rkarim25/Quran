@@ -62,7 +62,7 @@ Sayyidna ` Abdullah ibn Masud ؓ to recite the Qur'an to him. Sayyidna ` Abdulla
 
 ## Tafsir Summary
 
-Surely! In the verse (41) beginning with: فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أُمَّةٍ , there is an invitation to visualize, in range and depth, the gravity of what will happen on the site of the Last Day.
+Seen from this angle, this verse is a proof of the finality of prophethood as well.
 
 ## Tafsir Ibn Kathir
 

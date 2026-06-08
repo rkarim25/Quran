@@ -80,7 +80,7 @@ Some non-pubert children had also come out with the Islamic 'army' with the desi
 
 ## Tafsir Summary
 
-O you who believe! Identified in the previous verses was the great station of the Holy Prophet ﷺ along with the instruction to Muslims that they should follow and obey him totally and perfectly.
+And Allah is Ever All-Seer of what you do (9)When they came upon you from above you and from below you, and when the eyes grew wild and the hearts reached to the throats, and you were harboring doubts about Allah . Therefore, this battle was the severest on the Holy Prophet t and the noble Sahabah as compared with other battles - because, the count of the attacking confederate forces of the disbelievers has been given as twelve to fifteen thousand.
 
 ## Tafsir Ibn Kathir
 

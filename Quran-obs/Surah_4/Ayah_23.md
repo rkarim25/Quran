@@ -234,7 +234,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Forbidden to you (for marriage) are: your mothers, your daughters, your sisters, your father's sisters, your mother's sisters, your brother's daughters, your sister's daughters, your foster mothers who suckled you, your… If the father has fallen into illicit relations with some woman, even then it will not be permissible for the son to marry that woman.
+As for the wife's daughter, she becomes prohibited for her stepfather when he has sexual relations with her mother, after the marriage contract is ratified.
 
 ## Tafsir Ibn Kathir
 

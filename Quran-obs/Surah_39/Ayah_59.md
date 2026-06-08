@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "O My servants who have transgressed against themselves! In verse 59, it was said: بَلَىٰ قَدْ جَاءَتْكَ آيَاتِي فَكَذَّبْتَ بِهَا (Why not?
+Verily, there came to you My Ayat and you denied them, and were proud and were among the disbelievers . And if they cease not from what they say, verily, a painful torment will befall on the disbelievers among them.)(5:73).
 
 ## Tafsir Ibn Kathir
 

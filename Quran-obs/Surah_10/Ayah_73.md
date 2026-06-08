@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And recite to them the news of Nuh. It was said in the last verse (64) that, for the friends of Allah, there is the good news in the worldly life and in the Hereafter.
+Then see what was the end of those who were warned.) meaning 'O Muhammad, see how We saved the believers and destroyed the deniers!'
 
 ## Tafsir Ibn Kathir
 

@@ -90,7 +90,7 @@ Prostration of worship for any being other than Allah has never been lawful for 
 
 ## Tafsir Summary
 
-And from among His signs are the night and the day, and the sun and the moon. It is Not permissible to prostrate before anyone except Allah Almighty لَا تَسْجُدُوا لِلشَّمْسِ وَلَا لِلْقَمَرِ‌ وَاسْجُدُوا لِلَّـهِ الَّذِي خَلَقَهُنَّ (Do not make sajdah [ prostration ] to the sun, or to the moon.
+Do not prostrate yourselves to the sun nor to the moon, but prostrate yourselves to Allah Who created them, if you worship Him (37)But if they are too proud, then there are those who are with your Lord glorify Him night and day, and never are they tired (38)And among His signs; that you see the earth barren, but when We send down water to it, it is stirred to life and growth. And from among His signs are the night and the day, and the sun and the moon.
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Who rescues you from the dark recesses of the land and the sea, when you call upon Him begging and in secret (saying): 'If He (Allah) only saves us from these (dangers), we shall truly be grateful. Some Manifestations of Divine Knowledge and Absolute Power In previous verses, there was a description of the perfection of Divine Knowledge and Power, and of their unique expanse.
+Not only that these two verses tell us about the perfect power of Allah Ta` ala which delivers human beings from their hour of distress, it also emphasizes that the removal of all sorts of hardships, troubles and anxieties is also in the hands of Allah Ta` ala alone as evident from the behaviour of diehard disbelievers too who are ultimately compelled to turn to Allah when there is nothing left to turn to.
 
 ## Tafsir Ibn Kathir
 

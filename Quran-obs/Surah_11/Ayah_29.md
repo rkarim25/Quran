@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And O my people! Then, they were told: ` As for the condition you impose that I should remove the poor from my company in order that you could believe, then let it be very clear that I cannot do that.
+I ask of you no wealth for it, my reward is from none but Allah.
 
 ## Tafsir Ibn Kathir
 

@@ -118,7 +118,7 @@ Mujahid said; "It was revealed about Bani Muqarrin from the tribe of Muzaynah."
 
 ## Tafsir Summary
 
-There is no blame on those who are weak or ill or who find no resources to spend, if they are sincere and true (in duty) to Allah and His Messenger. Previous verses mentioned people who were not really excusable from participation in Jihad but sat it out because of laziness.
+And Allah is Oft-Forgiving, Most Merciful (91)Nor (is there blame) on those who came to you to be provided with mounts, when you said: "I can find no mounts for you," they turned back, with their eyes overflowing with tears of grief that they could not find anything to spend (92)The means (of complaint) is only against those who are rich, and yet ask exemption.
 
 ## Tafsir Ibn Kathir
 

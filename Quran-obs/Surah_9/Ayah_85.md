@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And let not their wealth or their children amaze you. Once again, the present verses carry the description of hypocrites who had avoided participating in the battle of Tabuk under one or the other pretext.
+Allah only wants to punish them with these things in this world, and that their souls shall depart (die) while they are disbelievers.) We mentioned before the explanation of a similar Ayah, all the thanks and praises are due to Alla (85) Their affluent life could have made Muslims ask, ` when these people are so unacceptable with Allah, why did they have to get all those blessings in this world?' In response, it was said that a little thinking would unfold the reality behind…
 
 ## Tafsir Ibn Kathir
 

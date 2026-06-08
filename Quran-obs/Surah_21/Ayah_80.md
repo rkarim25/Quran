@@ -52,7 +52,7 @@ Hasan al-Basri (رح) has narrated the following story. Once Sayyidna Sulayman (
 
 ## Tafsir Summary
 
-And (remember) Dawud and Sulayman, when they gave judgement in the case of the field in which the sheep of certain people had Nafashat; and We were witness to their judgement (78)And We made Sulayman to understand (the case); and to each of them We gave wisdom (Hukm) and knowledge. The art of making armor was granted to Sayyidna Dawud (علیہ السلام) by Allah Ta` ala وَعَلَّمْنَاهُ صَنْعَةَ لَبُوسٍ لَّكُمْ (And We taught him making of armor as dress for you - 21:80) Lexically, the word لَبُوسٍ is used for anything which is worn in the neck for protection.
+And it was We Who were the doer (of all these things)(79)And We taught him the making of metal coats of mail (for battles), to protect you in your fighting.
 
 ## Tafsir Ibn Kathir
 

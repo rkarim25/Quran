@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Prostration of Recitation in Surat Al-Inshiqaq It is reported from Abu Salamah that while leading them in prayer, Abu Hurayrah recited, وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ (and it will throw up whatever it contains, and will become empty...84:4) The earth will, with one convulsion, throw up whatever it contains in its belly, whether natural treasures or buried treasures, or mines, or dead human bodies and their remains and particles.
+And has cast out all that was in it and became empty.)(5. Live how you wish, for verily you will die; love what you wish, for verily you will part with it; and do what you wish, for verily you will meet it (your deed).) There are some people who refer the pronoun back to the statement "your Lord." Thus, they hold the Ayah to mean, "and you will meet your Lord." This means that He will reward you for your work, and pay you for your efforts.
 
 ## Tafsir Ibn Kathir
 

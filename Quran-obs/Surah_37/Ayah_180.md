@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Glorified be your Lord, the Lord of Al-'Izzah! Surah As-Saffat has been concluded on these verses, and the truth of the matter is that it would take volumes to explain this beautiful finale.
+Allah glorified Himself and states that He is far above what the lying wrongdoers say about Him; glorified and sanctified and exalted be He far above what they say.
 
 ## Tafsir Ibn Kathir
 

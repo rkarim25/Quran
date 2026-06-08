@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Recitation of Surat Al-Fajr in the Prayer An-Nasa'i recorded a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. لَيَالٍ عَشْرٍ (and by the Ten Nights...89:2) According Sayyidna Ibn ` Abbas ؓ Qatadah, Mujahid, Suddi, Dahhak, Kalbi and other leading commentators, the 'ten nights' refers to the [ first ] ten nights of Dhul Hijjah.
+'The ten nights' refers to the (first) ten days of Dhul-Hijjah. Thus these are the ten nights in the whole year which are most meritorious.
 
 ## Tafsir Ibn Kathir
 

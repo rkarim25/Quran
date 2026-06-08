@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَقَالُوا قُلُوبُنَا فِي أَكِنَّةٍ - (And they say, " Our hearts are [ wrapped ] in covers against that to which you invite us 41:5) Here three statements of the infidels of Quraysh are reproduced.
+One may doubt that there is a conflict between this verse and that of Surah An'am in this respect.
 
 ## Tafsir Ibn Kathir
 

@@ -60,7 +60,7 @@ The previous verses had mentioned how obstinate people failed to benefit from cl
 
 ## Tafsir Summary
 
-And so We have appointed for every Prophet enemies – Shayatin among mankind and Jinn, inspiring one another with adorned speech as a delusion. The previous verses had mentioned how obstinate people failed to benefit from clear signs of Allah and open miracles of His Messenger and kept on denying the message of truth.
+If your Lord had so willed, they would not have done it; so leave them alone with their fabrications (112)And 'Taşghā' to it that the hearts of those who do not believe in the Hereafter may incline to such (deceit), and that they may remain pleased with it, and that they may commit what they are committing . As-Suddi said that this Ayah refers to the hearts of the disbelievers.
 
 ## Tafsir Ibn Kathir
 

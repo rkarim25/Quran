@@ -109,7 +109,7 @@ Although, this verse (64) was revealed in the background of a particular inciden
 
 ## Tafsir Summary
 
-We sent no Messenger, but to be obeyed by Allah's leave. The fifth verse (64) begins by stating a universal Divine principle: And We did not send any Messenger but to be obeyed by the leave of Allah.' It means that any Messenger who was sent by Allah was sent so that everyone obeys the rules set by him in accordance with the will and command of Allah Almighty.
+Thereafter, whatever the Messenger ﷺ commands, is the plain truth that must be submitted to inwardly and outwardly.
 
 ## Tafsir Ibn Kathir
 

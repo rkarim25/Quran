@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or have they a share in the dominion? Admonishing Jews for being unreasonably envious The knowledge, the grace, the high rank and the grandeur of mission given by Allah Almighty to the Noble Prophet ﷺ made Jews all too jealous.
+If your envy is based on the realization that the kingdom, no doubt, did not pass from you onto him, still, the question remains, why did it have to go to him at all.
 
 ## Tafsir Ibn Kathir
 

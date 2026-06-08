@@ -74,7 +74,7 @@ Sayyidna ` Abdullah ibn ` Abbas ؓ says that this verse is the last in the order
 
 ## Tafsir Summary
 
-O you who believe! In the last verse (281), there appear again the subjects of the fear of the Last Day, its accounting, its rewards and punishment, at which end these verses containing the injunctions of ربا riba.
+And fear Allah, so that you may be successful. The expression 'paltry price' was used here to indicate that even if the kingdom of the whole world was taken in exchange for the Divinely revealed verses, the price will still be 'paltry.' It does not mean that taking a paltry price against the verses of the Qur'an is Haram, but taking a higher price would be permissible.
 
 ## Tafsir Ibn Kathir
 

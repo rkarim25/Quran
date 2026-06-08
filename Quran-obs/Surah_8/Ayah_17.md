@@ -95,7 +95,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-You killed them not, but Allah killed them. This great victory was achieved by Muslims in the background which was initially full of dismay and hopelessness.
+Allah's Signs displayed during Badr, And throwing Sand in the Eyes of the Disbelievers Allah states that He creates the actions that the servants perform and that whatever good actions they take, it is He Who should be praised for them, for He directed and helped them perform these actions. Verily, Allah is All-Hearer, All-Knower (17)This (is the fact) and surely Allah weakens the deceitful plots of the disbelievers .
 
 ## Tafsir Ibn Kathir
 

@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Madyan, We sent their brother Shu'ayb. وَلُوطًا إِذْ قَالَ لِقَوْمِهِ إِنَّكُمْ لَتَأْتُونَ الْفَاحِشَةَ (And [ We sent ] Sayyidna Lut (علیہ السلام) when he said to his people, "Indeed you commit the shameful act - 29:28).
+So Allah destroyed them with a mighty earthquake that convulsed their land, and the Sayhah (shout) which tore their hearts from their bodies, and the torment of the Day of Shade, when their souls were taken.
 
 ## Tafsir Ibn Kathir
 

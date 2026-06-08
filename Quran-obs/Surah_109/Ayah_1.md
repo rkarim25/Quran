@@ -22,7 +22,7 @@ Ibn Kathir prefers another interpretation. He expounds that the particle ma is u
 
 ## Tafsir Summary
 
-The Recitation of these Surahs in the Optional Prayers It has been confirmed in Sahih Muslim from Jabir that the Messenger of Allah ﷺ recited this Surah (Al-Kafirun) and Virtues and Characteristics of the Surah Sayyidah ` A'shah ؓ reports that the Messenger of Allah ﷺ has said that it is better to recite two surahs in the sunnah prayer of fajr, namely, the Surah Al-Kafirun and Surah Al-Ikhlas.
+Therefore, Allah revealed this Surah and in it He commanded His Messenger ﷺ to disavow himself from their religion completely. This is why the statement of Islam is "There is no God worthy of being worshipped except Allah, and Muhammad is the Messenger of Allah." This means that there is no (true) object of worship except Allah and there is no path to Him (i.e., way of worshipping Him) other than that which the Messenger came with.
 
 ## Tafsir Ibn Kathir
 

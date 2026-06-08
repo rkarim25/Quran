@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(They will enter) 'Adn Gardens which the Most Gracious has promised to His servants in the unseen. فَخَلَفَ (Khalf) means bad successors, while فَخَلَفَ (Khalaf) means good successors.
+The Description of the Gardens of the Truthful and Those Who repent Allah, the Exalted, says that the Gardens (of Paradise), which the penitent will enter, will be Gardens of 'Adn, meaning, eternity. These are Gardens that the Most Beneficent promises His servants in the unseen.
 
 ## Tafsir Ibn Kathir
 

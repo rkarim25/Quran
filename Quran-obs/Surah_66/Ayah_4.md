@@ -101,7 +101,7 @@ I said, 'Messenger of Allah, have you divorced them?' He said, 'No.' I stood at 
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. إِن تَتُوبَا إِلَى اللَّـهِ فَقَدْ صَغَتْ قُلُوبُكُمَا [ 0 two wives of the Prophet,] If both of you repent to Allah, then [ your conduct calls for it, because ] your hearts have diverted....66:4).
+If you two turn in repentance to Allah, your hearts are indeed so inclined; but if you help one another against him, then verily, Allah is his Protector, and Jibril, and the righteous among the believers; and after that the angels are his helpers.)(5.
 
 ## Tafsir Ibn Kathir
 

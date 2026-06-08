@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-'Ad denied the Messengers (123)When their brother Hud said to them: "Will you not have Taqwa? Explanation of some difficult words Do you erect on every height a sign having no sound purpose, [ 128] and take the objects of architecture as if you are going to live forever, (26:128-129)
+He has aided you with cattle and children, and gardens and springs.
 
 ## Tafsir Ibn Kathir
 

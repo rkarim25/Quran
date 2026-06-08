@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We sent down from the sky water in measure, and We gave it lodging in the earth, and verily, We are able to take it away (18)Then We brought forth for you therewith gardens of date palms and grapes, wherein is much fruit for you, and whereof you eat (19)And a tree that springs forth from Tur Sinai, that grows oil, and relish for the eaters (20)And verily, in the cattle there is indeed a lesson for you. The addition of the phrase بقدر (In due measure) shows how feeble and utterly powerless man is, because if the very things without which no life can exist exceed a certain limit, they become the cause of death and destruction.
+Allah's Signs and Blessings in the Rain, Vegetation, Trees and Cattle Allah mentions His innumerable blessings to His servants, whereby He sends down rain in due measure, meaning, according to what is needed, not so much that it damages the lands and buildings, and not so little to be insufficient for crops and fruits, but whatever is needed for irrigation, drinking and other benefits.
 
 ## Tafsir Ibn Kathir
 

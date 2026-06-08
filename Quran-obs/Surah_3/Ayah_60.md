@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, the likeness of 'Isa before Allah is the likeness of Adam. The event of Mubahala and the refutation of heretics.
+Allah next commands His Messenger ﷺ to call those who defy the truth, regarding 'Isa, to the Mubahalah (the curse). If the claim is made that 'Isa is Allah's son because he was created without a father, then the same claim befits Adam even more.
 
 ## Tafsir Ibn Kathir
 

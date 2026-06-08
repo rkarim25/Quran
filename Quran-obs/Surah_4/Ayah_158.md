@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Because of their breaking the covenant, and their rejecting the Ayat of Allah, and their killing the Prophets unjustly, and their saying: "Our hearts are Ghulf," nay, Allah has set a seal upon their hearts because of the… In the verse يَا عِيسَىٰ إِنِّي مُتَوَفِّيكَ وَرَ‌افِعُكَ (Isa, I am to take you in full and lift you towards Me...
+And Allah is Ever All-Powerful, All-Wise (158)And there is none of the People of the Scripture, but must believe in him, before his death.
 
 ## Tafsir Ibn Kathir
 

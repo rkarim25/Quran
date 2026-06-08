@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nay! كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ (No!
+This refers to a drink called Tasnim, and it is the most excellent and exalted drink of the people of Paradise. According to some authorities, ` illiyyun is the plural of ` uluww and it signifies the 'highest point'.
 
 ## Tafsir Ibn Kathir
 

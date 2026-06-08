@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "My Lord! وَهُوَ يُجِيرُ‌ وَلَا يُجَارُ‌ عَلَيْهِ (And who gives protection and no protection can be given against him - 23:88) The meaning of the verse is that Allah alone can deliver a person from pain and suffering as He wills, but there is none who can save a person from divine punishment.
+This is true of this world because nobody can stop Allah from rewarding virtuous people nor can anyone protect someone whom He chooses to punish.
 
 ## Tafsir Ibn Kathir
 

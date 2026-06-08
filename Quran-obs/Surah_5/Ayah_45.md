@@ -140,7 +140,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We ordained therein for them "Life for life, eye for eye, nose for nose, ear for ear, tooth for tooth, and wounds equal for equal. In the second verse after that (45), there is a description of the injunctions of Qisas (Even Retaliation) with a particular reference stressing that ` We had revealed these injunctions in the Torah.' The words of the te…
+This is also the opinion of Al-Hasan Al-Basri, Ibrahim An-Nakha'i and Abu Ishaq Al-Hamdani.
 
 ## Tafsir Ibn Kathir
 

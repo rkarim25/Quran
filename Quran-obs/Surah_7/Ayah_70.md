@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "You have come to us that we should worship Allah Alone and forsake that which our fathers used to worship. (4)-The sixth verse (70) contains the answer given by Sayyidna Hud (علیہ السلام) .
+They said, 'Who is stronger than us?' Some of them, however, followed Hud, although they were few and had to conceal their faith.
 
 ## Tafsir Ibn Kathir
 

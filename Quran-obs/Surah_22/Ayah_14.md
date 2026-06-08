@@ -80,7 +80,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Truly, Allah will admit those who believe and do righteous good deeds to Gardens underneath which rivers flow. (And among men there is one who worships Allah (standing) on the verge - 22:11.) Bukhari and Ibn Abi Haim have related from Sayyidna Ibn ` Abbas ؓ that when the Holy Prophet ﷺ migrated to Madinah, people flocked to him and accepted the new religion.
+Truly, Allah will admit those who believe and do righteous good deeds to Gardens underneath which rivers flow.
 
 ## Tafsir Ibn Kathir
 

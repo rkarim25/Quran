@@ -80,7 +80,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-That is so because Allah will never change a grace which He has bestowed on a people until they change what is in themselves. Stated in the fourth verse (53) there is a standing rule which spells out the condition under which Allah Ta` ala allows a people to continue enjoying blessings bestowed by Him.
+The first thing worth pondering about at this place is that Allah Ta` ala has not set forth any rule as to the bestowal of blessing and favour, nor has He put any restriction and condition for it, nor has He made it to be dependent on some good deed - because, had this been so, then, the foremost favour bestowed on us is our very existence.
 
 ## Tafsir Ibn Kathir
 

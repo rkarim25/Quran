@@ -95,7 +95,7 @@ Mujahid said that Jabir bin 'Abdullah said, "This Ayah [3:168] was revealed abou
 
 ## Tafsir Summary
 
-(What is the matter with you?) When a single disaster smites you, although you smote (your enemies) with one twice as great, you say: "From where does this come to us?" Say, "It is from yourselves." And Allah has power o… The Wisdom behind the hardships of the Muslims at Uhud The subject of verse 165, أَوَلَمَّا أَصَابَتْكُم translated as, And how is it that, when you suffered a hardship the twice of which you had inflicted upon them...° has appeared in several previous verses.
+The purpose behind this reminder is that Muslims should think positively in their present state of depression in view of the fact that they had already won a battle, inflicting a loss on the enemy twice as much as they had themselves suffered at their hands.
 
 ## Tafsir Ibn Kathir
 

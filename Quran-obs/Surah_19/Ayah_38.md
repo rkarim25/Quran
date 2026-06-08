@@ -56,7 +56,7 @@ Ibn Abi Hatim recorded that Hazm bin Abi Hazm Al-Quta'i said, "'Umar bin 'Abdul-
 
 ## Tafsir Summary
 
-How clearly will they see and hear, the Day when they will appear before Us! "This is ` Isa, the son of Maryam." - 19:34.
+How clearly will they see and hear, the Day when they will appear before Us! But the wrongdoers today are in plain error (38)And warn them of the Day of grief and regrets, when the case has been decided, while (now) they are in a state of carelessness, and they believe not (39)Verily, We will inherit the earth and whatsoever is thereon.
 
 ## Tafsir Ibn Kathir
 

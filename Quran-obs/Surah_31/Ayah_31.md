@@ -89,7 +89,7 @@ As it appears in some narratives, this verse was revealed in response to a quest
 
 ## Tafsir Summary
 
-See you not that the ships sail through the sea by Allah's grace that He may show you of His signs? This has been stated in the verse: وَلَوْ أَنَّمَا فِي الْأَرْ‌ضِ مِن شَجَرَ‌ةٍ أَقْلَامٌ (27) through a similitude.
+See you not that the ships sail through the sea by Allah's grace that He may show you of His signs? Allah tells us that He is the One Who has subjugated the sea so that ships may sail on it by His command,i.e, His power.For if He did not give the water the strength to carry the ships, they would not sail.
 
 ## Tafsir Ibn Kathir
 

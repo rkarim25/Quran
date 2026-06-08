@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And he said: "Verily, I am going to my Lord. He said: رَ‌بِّ هَبْ لِي مِنَ الصَّالِحِينَ (0 my Lord, bless me with a righteous son."- 100).
+Grant me (offspring) from the righteous.) meaning, obedient children, in compensation for his people and relatives whom he had left. Grant me (offspring) from the righteous.
 
 ## Tafsir Ibn Kathir
 

@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And how many a generation We have destroyed before them who were stronger in power than they. وَسَبِّحْ بِحَمْدِ رَ‌بِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُ‌وبِ (and proclaim His purity along with your Lord's praise before sunrise and before sunset...
+Therefore, some scholars say that tasbih before sunrise refers to the morning prayer, and tasbih before sunset refers to ` Asr (late afternoon) prayer. Could they find any place of refuge (36)Verily, therein is indeed a reminder for him who has a heart or gives ear while he is heedful (37)And indeed We created the heavens and the earth and all between them in six Days and nothing of fatigue touched Us (38)So bear with patience all that they say, and glorify the praises of you…
 
 ## Tafsir Ibn Kathir
 

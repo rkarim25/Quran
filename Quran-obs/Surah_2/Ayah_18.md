@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Their likeness is as the likeness of one who kindled a fire; then, when it illuminated all around him, Allah removed their light and left them in darkness. The last four verses bring out the miserable plight of the hypocrites with the help of two extended similes.
+Further, this person could not hear or speak and became so blind that even if there were light, he would not be able to see. This is why he cannot return to the state that he was in before this happened to him.
 
 ## Tafsir Ibn Kathir
 

@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He created man from sounding clay like the clay of pottery (14)And the Jinn He created from a smokeless flame of fire (15)Then which of the blessings of your Lord will you both deny (16)The Lord of the two easts and the… يَخْرُ‌جُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْ‌جَانُ (From both of them come forth the pearl and the coral....55:22).
+Therefore, the source of the pearls and corals is said to be the salty seas.
 
 ## Tafsir Ibn Kathir
 

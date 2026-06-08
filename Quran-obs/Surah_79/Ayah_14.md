@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. فَالْمُدَبِّرَ‌اتِ أَمْرً‌ا (then manage [ to do ] everything [ they are ordered to do,]...79:5).
+Here the learned commentator has added some more details which dispose of many doubts which arise from the above Tradition: The human soul is a refined body which permeates the dense material body.
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So We took retribution from them. The sixth punishment has been mentioned in the Qur'an by the Arabic word: رِجز 'Rijz' which signifies plague or pestilence.
+The People of Fir'awn drown in the Sea; the Children of Israel inherit the Holy Land Allah states that when the people of Fir'awn rebelled and transgressed, even though He inflicted them with consecutive signs, one after another, He took retribution from them by drowning them in the sea that Musa parted by Allah's power, and he and the Children of Israel passed through.
 
 ## Tafsir Ibn Kathir
 

@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when Musa said to his household: "Verily, I have seen a fire; I will bring you from there some information, or I will bring you a burning ember, that you may warm yourselves. So when he came to it, he was called: "Blessed is the one who is in the fire and the one who is around it And pure is Allah, the Lord of the worlds.
+Nothing He has made can encompass Him, and He is the Exalted, the Almighty, Who is utterly unlike all that He has created.
 
 ## Tafsir Ibn Kathir
 

@@ -46,7 +46,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who oppose Allah and His Messenger, they will be among those most humiliated (20)Allah has decreed: "Verily, I and My Messengers shall be the victorious." Verily, Allah is All-Powerful, Almighty (21)You will not find any people who believe in Allah and the Last Day, making friendship with those who oppose Allah and His Messenger, even though they were their fathers or their sons or their brothers or their kindred. Chastising the Hypocrites for their Secret Alliance with the Jews أَلَمْ تَرَ‌ إِلَى الَّذِينَ تَوَلَّوْا قَوْمًا غَضِبَ اللَّـهُ عَلَيْهِم (Have you not seen those who have friendship with a people with whom Allah is angry?
+Indeed, this is the final judgement and a matter ordained; the final triumph and victory are for the believers in this life and the Hereafter.
 
 ## Tafsir Ibn Kathir
 

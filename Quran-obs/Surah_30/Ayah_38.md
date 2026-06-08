@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, give to the kindred his due, and to Al-Miskin and to the wayfarer. فَآتِ ذَا الْقُرْ‌بَىٰ حَقَّهُ وَالْمِسْكِينَ وَابْنَ السَّبِيلِ (So give to the kinsman his right, and to the needy and the wayfarer - 30:38).
+It should also be understood that the right of close relatives is not restricted to financial support, but it includes looking after them, and providing any physical service to them as well.
 
 ## Tafsir Ibn Kathir
 

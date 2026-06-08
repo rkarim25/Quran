@@ -58,7 +58,7 @@ In the first (82) of the present verses, it was said that only those who believe
 
 ## Tafsir Summary
 
-His people disputed with him. Mentioned in the previous verses was the debate Sayyidna Ibrahim (علیہ السلام) had held with his father, 'Azar, and with his entire Nimrudic people.
+If you but know.) means, which of the two parties is on the truth, those who worship Him in Whose Hand is harm and benefit, or those who worship what cannot bring harm or benefit, without authority to justify worshipping them?
 
 ## Tafsir Ibn Kathir
 

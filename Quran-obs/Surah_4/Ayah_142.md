@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, the hypocrites seek to deceive Allah, but it is He Who deceives them. Maulana Ashraf ` Ali Thanavi (رح) has, in his Tafsir Bay-an al-Qur'an, taken up the question of 'standing up lazily' in the expression: قَامُوا كُسَالَ which appears in verse 142 saying: 'The laziness censured here is doctrinal laziness, (that is, slothfulness towards observance of the articles of faith due to lack of true conviction).
+this is the prayer of the hypocrite. He sits watching the sun until when it goes down between the two horns of the devil, he stands up pecks out four Rak'ahs (for 'Asr) without remembering Allah during them except little.) Muslim, At-Tirmidhi and An-Nasa'i also recorded it.
 
 ## Tafsir Ibn Kathir
 

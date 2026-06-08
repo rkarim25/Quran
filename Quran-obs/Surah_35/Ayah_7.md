@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who disbelieve, theirs will be a severe torment; and those who believe and do righteous good deeds, theirs will be forgiveness and a great reward (7)Is he, then, to whom the evil of his deeds is made fairseeming, so that he considers it as good? The word: غَرُ‌ورُ‌ (gharur) is an emphatic form of an adjective that means one who is very deceiving (hence, rendered here as 'big deceiver' ).
+Those who disbelieve, theirs will be a severe torment; and those who believe and do righteous good deeds, theirs will be forgiveness and a great reward (7)Is he, then, to whom the evil of his deeds is made fairseeming, so that he considers it as good?
 
 ## Tafsir Ibn Kathir
 

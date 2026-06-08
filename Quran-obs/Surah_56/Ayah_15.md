@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-A multitude of those will be from the first ones (13)And a few of those will be from the later ones (14)(They will be) on thrones, Mawdunah (15)Reclining thereon, face to face (16)Immortal boys will go around them (servi… عَلَىٰ سُرُ‌رٍ‌ مَّوْضُونَةٍ ([ They will be sitting ] on thrones woven with gold...56:15) The word مَّوْضُونَةٍ mawdunah, according to Ibn ` Abbas ؓ ، as recorded by Ibn Jarir, Ibn Abi Hatim, Baihaqi and others, means 'fabric woven or inwrought with gold thread'.
+Some said that the former means earlier (believing) nations, while the later refers to this Ummah. This is because this Ummah is the best of all nations, according to the text of the Qur'an.
 
 ## Tafsir Ibn Kathir
 

@@ -132,7 +132,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have they not traveled in the land and seen what was the end of those who were before them? In verse 19, it was said: يَعْلَمُ خَائِنَةَ الْأَعْيُنِ (He knows the treachery of the eyes), in other words, eyes that betray the trust.
+Have they not traveled in the land and seen what was the end of those who were before them? They were superior to them in strength, and in the traces in the land.
 
 ## Tafsir Ibn Kathir
 

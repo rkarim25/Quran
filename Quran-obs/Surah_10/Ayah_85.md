@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Musa said: "O my people! It was said in the last verse (64) that, for the friends of Allah, there is the good news in the worldly life and in the Hereafter.
+If you have believed in Allah, then put your trust in Him if you are Muslims.) Allah is sufficient for those who put their trust in Him.
 
 ## Tafsir Ibn Kathir
 

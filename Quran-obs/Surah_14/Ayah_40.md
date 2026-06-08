@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"O our Lord! Brimming with wisdom, there is another prayer of Sayyidna Ibrahim (علیہ السلام) which appears in the third verse (37) as follows: رَّ‌بَّنَا إِنِّي أَسْكَنتُ مِن ذُرِّ‌يَّتِي بِوَادٍ غَيْرِ‌ ذِي زَرْ‌عٍ عِندَ بَيْتِكَ ال…
+Make me one who performs Salah, and (also) from my offspring, our Lord! Verily, my Lord is indeed the All-Hearer of invocations.) 'He accepts the supplication of those who invoke Him, and has accepted my invocation when I asked Him to grant me offspring.
 
 ## Tafsir Ibn Kathir
 

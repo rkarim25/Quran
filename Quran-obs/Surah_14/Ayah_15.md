@@ -33,7 +33,7 @@ And those who disbelieved, said to their Messengers: "Surely, we shall drive you
 
 ## Tafsir Summary
 
-And those who disbelieved, said to their Messengers: "Surely, we shall drive you out of our land, or you shall return to our religion." So their Lord revealed to them: "Truly, We shall destroy the wrongdoers. In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَكْفُرُ‌وا أَنتُمْ وَمَن فِي الْأَرْ‌ضِ جَمِيعًا (And Musa said, "If you are ungrateful, you and all those on earth, then, Allah is free of all needs, worthy of every praise.) " This was said by Sayyidna Musa (علیہ السلام) to his people.
+And the fair Word of your Lord was fulfilled for the Children of Israel, because of their endurance. 'Abdur-Rahman bin Zayd bin Aslam said that this Ayah refers to the nations, invoking Allah's victory against themselves!
 
 ## Tafsir Ibn Kathir
 

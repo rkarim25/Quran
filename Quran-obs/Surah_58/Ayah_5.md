@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who oppose Allah and His Messenger will be disgraced as those before them were disgraced. The Fate of those who Challenge Allah and His Apostle إِنَّ الَّذِينَ يُحَادُّونَ اللَّـهَ وَرَ‌سُولَهُ كُبِتُوا كَمَا كُبِتَ الَّذِينَ مِن قَبْلِهِمْ (Surely those who oppose Allah and His Messenger shall be disgraced, just as those before them were disgraced....58:5).
+And for the disbelievers is a disgraceful torment (5)On the Day when Allah will resurrect them all together and inform them of what they did.
 
 ## Tafsir Ibn Kathir
 

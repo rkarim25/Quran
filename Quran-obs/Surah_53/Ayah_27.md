@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who believe not in the Hereafter, name the angels with female names (27)But they have no knowledge thereof. إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا (and conjecture is of no use in [ the matter on Truth....
+Verily, those who believe not in the Hereafter, name the angels with female names (27)But they have no knowledge thereof.
 
 ## Tafsir Ibn Kathir
 

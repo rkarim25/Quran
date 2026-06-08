@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those of you who die and leave behind wives should bequeath for their wives a year's maintenance (and residence) without turning them out, but if they (wives) leave, there is no sin on you for that which they do of themselves, provided it is honorable (e.g., lawful marriage). The text now returns to the subject of divorce mentioned in verses 234-237.
+And those of you who die and leave behind wives should bequeath for their wives a year's maintenance (and residence) without turning them out, but if they (wives) leave, there is no sin on you for that which they do of themselves, provided it is honorable (e.g., lawful marriage).
 
 ## Tafsir Ibn Kathir
 

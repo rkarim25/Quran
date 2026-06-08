@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Correct use of one's power of speech is an effective source of correcting all deeds issuing forth from other parts of the body The basic command given to all Muslims in this verse is: اِتَّقُوا اللہَ (Take to taqwa, that is, fear Allah and act accordingly).
+And whosoever obeys Allah and His Messenger, he has indeed achieved a great victory . Have Taqwa of Allah and speak (always) the truth (70)He will direct you to do righteous good deeds and will forgive you your sins.
 
 ## Tafsir Ibn Kathir
 

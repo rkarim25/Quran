@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said [to Musa]: "Whatever Ayat you may bring to us, to work therewith your sorcery on us, we shall never believe in you. The above verses relate the next part of the story of the prophet Musa (علیہ السلام) and the people of Pharaoh.
+It is possible that both kinds of insects were sent to them, that is, small pests started to eat up their grain while equally large number of lice ate up even their hair and eyelashes.
 
 ## Tafsir Ibn Kathir
 

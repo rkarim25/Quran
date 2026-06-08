@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "None in the heavens and the earth knows the Unseen except Allah, nor can they perceive when they shall be resurrected. Say, "No one in the heavens and the earth has the knowledge of Unseen except Allah." - 27:65 The Holy Prophet ﷺ was instructed to tell people that all the creatures that live in the heavens, like angels, and all the creatures that live in this world, like humans and jinns, none of them have any knowledge of the unseen (ghayb) except Allah.
+The One Who knows the Unseen is Allah Allah commands His Messenger ﷺ to inform all of creation that no one among the dwellers of heaven and earth knows the Unseen, except Allah.
 
 ## Tafsir Ibn Kathir
 

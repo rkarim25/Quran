@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Prophet! About some prisoners of the battle of Badr who had become Muslims, there remained a doubt that they, once back in Makkah, may turn away from Islam and start hurting them thereafter.
+They are the injunctions of Hijrah (Emigration) - because, situations can arise during a confrontation with disbelievers wherein neither the Muslims have the power to launch an attack against them and kill them off, nor are they willing to go for peace.
 
 ## Tafsir Ibn Kathir
 

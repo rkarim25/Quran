@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then they will turn to one another, mutually questioning (50)A speaker of them will say: "Verily, I had a companion (in the world), (51)"Who used to say: 'Are you among those who believe (52)(That) when we die and become dust and bones, shall we indeed be indebted (Madinun)?' (53)(The speaker) said: "Will you look down? An inmate of Jannah and his disbelieving acquaintance After having described the general condition of the people of Jannah, one of them has been mentioned particularly.
+The gathering of the People of Paradise, and the exchange between One of Them and His Counterpart in Hell, and His Gratitude for the Blessings of Allah Allah tells us how the people of Paradise will turn to one another, asking one another about their situation, how they were in this world and what they suffered.
 
 ## Tafsir Ibn Kathir
 

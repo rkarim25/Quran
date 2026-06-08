@@ -37,7 +37,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Once again, the last statement: وَتَوَكَّلْ عَلَى اللَّـهِ ۚ وَكَفَىٰ بِاللَّـهِ وَكِيلًا (And place your trust in Allah and Allah is enough as a guardian- 3) is also a complement of the same order.
+And put your trust in Allah, and sufficient is Allah as a Trustee.) The Command to defy the Disbelievers and Hypocrites by following the Revelation of Allah and putting One's Trust in Him Here Allah points out something lower by referring to something higher.
 
 ## Tafsir Ibn Kathir
 

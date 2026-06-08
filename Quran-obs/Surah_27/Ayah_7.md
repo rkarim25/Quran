@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when Musa said to his household: "Verily, I have seen a fire; I will bring you from there some information, or I will bring you a burning ember, that you may warm yourselves. Adoption of natural means for one's need is not against trust in Allah (Remember) when Musa said to his family, "I have noticed a fire.
+One, to find out the way which he had forgotten, and second, to warm up with the fire, because it was a cold night.
 
 ## Tafsir Ibn Kathir
 

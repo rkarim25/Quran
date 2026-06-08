@@ -23,7 +23,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(It will be said): "And O you the criminals! In verse 59, it was said: وَامْتَازُوا الْيَوْمَ أَيُّهَا الْمُجْرِ‌مُونَ (And get apart (from the believers) today 0 the guilty ones.- 36:59) On the plains of the Resurrection, initially when people rise from their graves, they will be scattered all mixed up as said in the Qur'an: كَأَنَّهُمْ جَرَ‌ادٌ مُّنتَشِرٌ‌- (kaannahum jaradum-muntashir: as if they are scattered locusts - Al-Qamar, 54:7).
+The Isolation of the Disbelievers and Their Rebuke on the Day of Resurrection Allah tells us what the end of the disbelievers will be on the Day of Resurrection, when He commands them to get apart from the believers, i.e., to stand apart from the believers.
 
 ## Tafsir Ibn Kathir
 

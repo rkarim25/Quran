@@ -71,7 +71,7 @@ Muhammad bin Ishaq and others, including Al-'Awfi who reported it from Ibn 'Abba
 
 ## Tafsir Summary
 
-Not all of them are alike; a party of the People of the Scripture stand for the right, they recite the verses of Allah during the hours of the night, prostrating themselves in prayer (113)They believe in Allah and the La… In verse 110, it was said that among the people of the Book there are those who believe, yet most of them are disbelievers.
+For instance, there is 'Abdullah bin Salam, Asad bin 'Ubayd, Tha'labah bin Sa'yah, Usayd bin Sa'yah, and so forth.
 
 ## Tafsir Ibn Kathir
 

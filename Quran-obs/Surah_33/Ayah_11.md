@@ -37,7 +37,7 @@ Some non-pubert children had also come out with the Islamic 'army' with the desi
 
 ## Tafsir Summary
 
-There, the believers were tried and shaken with a mighty shaking (11)And when the hypocrites and those in whose hearts is a disease said: "Allah and His Messenger promised us nothing but delusion! Identified in the previous verses was the great station of the Holy Prophet ﷺ along with the instruction to Muslims that they should follow and obey him totally and perfectly.
+Therefore, this battle was the severest on the Holy Prophet t and the noble Sahabah as compared with other battles - because, the count of the attacking confederate forces of the disbelievers has been given as twelve to fifteen thousand.
 
 ## Tafsir Ibn Kathir
 

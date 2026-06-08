@@ -32,7 +32,7 @@ Imam Ahmad recorded that Abu Hurayrah said, "The idolators of the Quraysh came t
 
 ## Tafsir Summary
 
-Verily, the criminals are in error and will burn (47)The Day they will be dragged on their faces into the Fire (it will be said to them): "Taste you the touch of Hell! إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ‌ (Verily, We have created everything according to [ Our ] predestination...54:49).
+In the prepositional phrase bi-qadar, the word qadar literally denotes to 'measure' and to create something with a proper measure and proportion. He created everything with predestined limits before they were created.
 
 ## Tafsir Ibn Kathir
 

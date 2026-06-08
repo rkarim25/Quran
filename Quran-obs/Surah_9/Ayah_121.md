@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Neither do they spend any contribution – small or great – nor cross a valley, but is written to their credit that Allah may recompense them with the best of what they used to do (121) (Neither do they spend), in referenc… The two verses cited above admonish those who missed to join the expedition of Tabuk for no valid reason.
+Neither do they spend any contribution – small or great – nor cross a valley, but is written to their credit that Allah may recompense them with the best of what they used to do .
 
 ## Tafsir Ibn Kathir
 

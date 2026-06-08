@@ -129,7 +129,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We sent not before you (as Messengers) any but men unto whom We revealed, from among the people of townships. where it was said: وَمَا أَرْ‌سَلْنَا مِن قَبْلِكَ إِلَّا رِ‌جَالًا نُّوحِي إِلَيْهِم مِّنْ أَهْلِ الْقُرَ‌ىٰ : It means that their thinking that it is an angel who should be the messenger and prophet of Allah and that a human being cannot occupy this station is baseless and ineffectual.
+And surely the abode of the Hereafter is better for those who fear Allah.
 
 ## Tafsir Ibn Kathir
 

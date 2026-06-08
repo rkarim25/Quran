@@ -106,7 +106,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when it is said to them: "Beware of that which is before you, and that which is behind you, in order that you may receive mercy. In the previous verses, through a description of Divine manifestations of power and wisdom in the creation of the heavens and the earth, people were invited to recognize their creator and believe that He alone is worthy of worship and, on the acceptance of this invitation, a promise of everlasting blessings was made along with a warning of severe punishment on its rejection.
+In their sarcastic response, the disbelievers say: You say that Allah is the provider and sustainer of the entire creation, yet He did not give them anything.
 
 ## Tafsir Ibn Kathir
 

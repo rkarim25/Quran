@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if you could but see, when they will be terrified with no escape, and they will be seized from a near place (51)And they will say: "We do believe (now);" but how could they receive (Tanawush) from a place so far off (52)Indeed they did disbelieve before (in this world), and they (used to) conjecture about the Unseen, from a far place (53)And a barrier will be set between them and that which they desire, as was done in the past with the people of their kind.
+If they had believed in this world, that would have been good for them, but now they have entered the Hereafter, there is no way that their faith can be accepted, just as there is no way a person can get a thing if he is far away from it.
 
 ## Tafsir Ibn Kathir
 

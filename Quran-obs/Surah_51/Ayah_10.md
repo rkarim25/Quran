@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. قُتِلَ الْخَرَّ‌اصُونَ (Death upon those who make conjectures - 51:10).
+In this context the word refers to those stubborn and obstinate infidels who, without any reason or evidence, say discordant things about the Messenger ﷺ .
 
 ## Tafsir Ibn Kathir
 

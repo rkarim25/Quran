@@ -259,7 +259,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then when Talut set out with the army, he said: "Verily, Allah will try you by a river. Verse 249: قَالَ إِنَّ اللَّـهَ مُبْتَلِيكُم بِنَهَرٍ (He said: Allah is going to test you by a river).
+This purpose was accomplished by this test, which is very appropriate, because steadfastness is necessary in fighting.
 
 ## Tafsir Ibn Kathir
 

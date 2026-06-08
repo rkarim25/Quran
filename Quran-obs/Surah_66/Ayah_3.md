@@ -135,7 +135,7 @@ I said, 'Messenger of Allah, have you divorced them?' He said, 'No.' I stood at 
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. وَإِذْ أَسَرَّ‌ النَّبِيُّ إِلَىٰ بَعْضِ أَزْوَاجِهِ حَدِيثًا (And [ remember ] when the Prophet ﷺ told one of his wives something in secret...66:3).
+And Allah made it known to him; he informed part thereof and left a part. And Allah is your Protector and He is the All-Knower, the All-Wise.)(3.
 
 ## Tafsir Ibn Kathir
 

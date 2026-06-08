@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Who gives you provision from the heavens and the earth?" Say: "Allah. Consideration of the psychology of the addressee in debates and avoidance of any approach that may provoke violent attitude In verse 24: وَإِنَّا أَوْ إِيَّاكُمْ لَعَلَىٰ هُدًى أَوْ فِي ضَلَالٍ مُّبِينٍ (And We or you are either on the right path or in open error - 34:24), this address is beamed at polytheists and disbelievers.
+Instead of that, it is certain that one of these two is following the path of truth while the other is in error.
 
 ## Tafsir Ibn Kathir
 

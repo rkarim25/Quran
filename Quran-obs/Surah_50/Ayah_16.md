@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We have created man, and We know what his self whispers to him. The preceding verses purported to quell the doubt of those who denied the possibility of Resurrection and who thought that raising the dead was inconceivable.
+This is also the apparent meaning of this Ayah.
 
 ## Tafsir Ibn Kathir
 

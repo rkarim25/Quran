@@ -88,7 +88,7 @@ And (remember) when We sent toward you a group of the Jinn, to listen to the Qur
 
 ## Tafsir Summary
 
-And (remember) when We sent toward you a group of the Jinn, to listen to the Qur'an. The previous verses have condemned the infidelity and the arrogant attitude of the infidels and its destructive results.
+That is why they said, "Sent down after Musa." This is also the way that Waraqah bin Nawfal spoke when the Prophet ﷺ told him about his first meeting with Jibril, An-Namus, peace be upon him.
 
 ## Tafsir Ibn Kathir
 

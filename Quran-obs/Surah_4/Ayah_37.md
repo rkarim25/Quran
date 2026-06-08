@@ -73,7 +73,7 @@ A narration from Sayyidna Ibn ` Abbas ؓ tells us that this verse was revealed a
 
 ## Tafsir Summary
 
-Those who are stingy and encourage people to be stingy and hide what Allah has bestowed upon them of His bounties. Then begins verse 37 with الَّذِينَ يَبْخَلُونَ which describes the nature of the arrogant who are stingy in giving rights which it is obligatory to give, fail to understand their responsibilities and go on to the negative extreme of persuading others to take to this bad habit through their word and deed.
+Those who are stingy and encourage people to be stingy and hide what Allah has bestowed upon them of His bounties. And We have prepared for the disbelievers a disgraceful torment (37)And (also) those who spend of their wealth to be seen of men, and believe not in Allah and the Last Day, and whoever takes Shaytan as an intimate; then what a dreadful intimate he has (38)And what loss have they if they had believed in Allah and in the Last Day, and they spend out of what Allah h…
 
 ## Tafsir Ibn Kathir
 

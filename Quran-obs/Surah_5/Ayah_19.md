@@ -125,7 +125,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O People of the Scripture! The word, "fatrah" in: عَلَىٰ فَتْرَ‌ةٍ مِّنَ الرُّ‌سُلِ (after a gap between Messengers) literally means to slacken, to become dormant or to suspend or to terminate an activity.
+It signifies the suspension of the coming of prophets for a certain interval of time which is the period of time in between Sayyidna ` Isa and the Last of the Prophets, Sayyidna Muhammad al-Mustafa ﷺ .
 
 ## Tafsir Ibn Kathir
 

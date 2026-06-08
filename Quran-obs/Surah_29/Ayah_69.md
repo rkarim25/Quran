@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have they not seen that We have made a secure sanctuary, while men are being snatched away from all around them? وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا (And those who strive in Our way We will certainly take them to Our paths - 69).
+Is there not a dwelling in Hell for the disbelievers (68)As for those who strive hard for Us, We will surely guide them to Our paths.
 
 ## Tafsir Ibn Kathir
 

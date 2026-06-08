@@ -176,7 +176,7 @@ The third thing that is prohibited in the verse is reviling one another with nic
 
 ## Tafsir Summary
 
-O you who believe!
+It means that calling others with bad nicknames is a sinful act, and the real bad name for a person after embracing Faith is that he is known among people for sinful acts.
 
 ## Tafsir Ibn Kathir
 

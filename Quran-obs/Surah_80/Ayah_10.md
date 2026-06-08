@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. لَعَلَّهُ يَزَّكَّىٰ أَوْ يَذَّكَّرُ‌ فَتَنفَعَهُ الذِّكْرَ‌ىٰ (May be, [ if you had attended him properly,] he would have attained purity, or have taken to the advice, and the advice would have benefited him....80:3-4).
+This interpretation is based on taking the word 'dhikra' in the sense of remembrance of Allah'. The first statement signifies 'to be purified' and the second statement signifies 'he may take heed and the reminder may benefit him'.
 
 ## Tafsir Ibn Kathir
 

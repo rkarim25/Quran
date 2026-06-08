@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He (Allah) will say: "Remain you in it with ignominy! وَلَا تُكَلِّمُونِ (Do not speak to Me - 23:108).
+Allah's Response and Rejection of the Disbelievers This is the response of Allah to the disbelievers when they ask Him to bring them out of the Fire and send them back to this world.
 
 ## Tafsir Ibn Kathir
 

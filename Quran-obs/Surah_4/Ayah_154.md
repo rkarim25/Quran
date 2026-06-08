@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The People of the Scripture (Jews) ask you to cause a book to descend upon them from heaven. Some previous verses censured Jews for their mistrustfulness in matters of faith.
+And We gave Musa a clear proof of authority (153)And for their covenant, We raised over them the mount and (on the other occasion) We said: "Enter the gate prostrating (or bowing) with humility;" and We commanded them: "Transgress not on the Sabbath (Saturday)." And We took from them a firm covenant . Allah had also told them to enter the gate of the city of Eliah humbly filled with fervour to obey Him.
 
 ## Tafsir Ibn Kathir
 

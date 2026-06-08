@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is not given to any human being that Allah should speak to him unless (it be) by revelation, or from behind a veil, or (that) He sends a Messenger to reveal what He wills by His leave. مَا كُنتَ تَدْرِ‌ي مَا الْكِتَابُ وَلَا الْإِيمَانُ وَلَـٰكِن (You did not know earlier what is the Book or what is "Iman', but We have made it a light with which We guide whomsoever we will from among Our slaves - 42:52).
+Unawareness of the Book before ` wahy' is quite obvious; absence of knowledge of faith means that its details, rules and regulations, and its exalted place become known to a prophet after ` wahy', not before it, otherwise it is proved with consensus of the ummah that whomever Allah chooses to make His Messenger or Prophet, He gives him faith and belief right from the beginning of his birth; his faith is engraved in his nature.
 
 ## Tafsir Ibn Kathir
 

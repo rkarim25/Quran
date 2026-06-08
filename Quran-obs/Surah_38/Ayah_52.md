@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, for those who have Taqwa is a good final return (49)'Adn Paradise, whose doors will be opened for them (50)Therein they will recline; therein they will call for fruits in abundance and drinks (51)And beside them will be Qasirat-at-Tarf, (and) of equal ages (52)This it is what you are promised for the Day of Reckoning (53)(It will be said to them)! In verse 52, it was said: وَعِندَهُمْ قَاصِرَ‌اتُ الطَّرْ‌فِ أَتْرَ‌ابٌ (and in their company there will be females restricting their glances ] to their husbands, and[ of matching ages.).
+And verily, for those who have Taqwa is a good final return (49)'Adn Paradise, whose doors will be opened for them (50)Therein they will recline; therein they will call for fruits in abundance and drinks (51)And beside them will be Qasirat-at-Tarf, (and) of equal ages (52)This it is what you are promised for the Day of Reckoning (53)(It will be said to them)!
 
 ## Tafsir Ibn Kathir
 

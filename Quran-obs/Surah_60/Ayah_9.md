@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Perhaps Allah will make friendship between you and those whom you hold as enemies. إِنَّمَا يَنْهَاكُمُ اللَّـهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ وَأَخْرَ‌جُوكُم مِّن دِيَارِ‌كُمْ وَظَاهَرُ‌وا عَلَىٰ إِخْرَ‌اجِكُمْ أَن تَوَلَّوْهُمْ (Allah forbids you only from having friendship with those who fought you on account of faith, and expelled you from your homes, and helped (others) in expelling you....60:9) This verse speaks of those unbelievers who fought the Muslims in the matter of religion, drove them from their homes or supported their expulsion.
+These are hostile disbelievers and the Divine injunction in connection with them is abstain from having friendly or cordial intimacy with them.
 
 ## Tafsir Ibn Kathir
 

@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-'Adn (Gardens) will they enter, therein will they be adorned with bracelets of gold and pearls, and their garments therein will be of silk (33)And they will say: "All praise and thanks be to Allah, Who has removed from us (all) grief. In verse 35: الَّذِي أَحَلَّنَا دَارَ‌ الْمُقَامَةِ مِن فَضْلِهِ لَا يَمَسُّنَا فِيهَا نَصَبٌ وَلَا يَمَسُّنَا فِيهَا لُغُوبٌ (who, out of His grace, has made us land at a home of eternal living where neither we are touched by weariness.
+The words translated here as "toil" and "weariness" both mean exhaustion, as if what is meant by the negation of both is that neither their bodies nor their souls will become exhausted; and Allah knows best. That no one there will experience the least fatigue or boredom, as it happens in the mortal world where one needs to sleep after work.
 
 ## Tafsir Ibn Kathir
 

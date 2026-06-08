@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(And there is also a share in this booty) for the poor emigrants, who were expelled from their homes and their property, seeking bounties from Allah and (His) good pleasure, and helping Allah and His Messenger. The Merits of al-Muhajirin [ The Emigrants ] ([ And fai' is especially ] for the poor emigrants who were expelled from their homes and properties, while they were seeking the grace of Allah and (His) pleasure, and were helping Allah and His Messenger.
+The word fadl [ bounty, grace ] is normally used for worldly blessings and ridwan [ good pleasure ] for blessings of the Hereafter.
 
 ## Tafsir Ibn Kathir
 

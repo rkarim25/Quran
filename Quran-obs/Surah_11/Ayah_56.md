@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O Hud! After that, the next eight verses (61-68) carry the story of Sayyidna Salih peace be upon him.
+There is not a moving creature but He has the grasp of its forelock.) Every creature is under His (Allah's) power and His authority.
 
 ## Tafsir Ibn Kathir
 

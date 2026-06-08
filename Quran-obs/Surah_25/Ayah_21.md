@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who expect not a meeting with Us said: "Why are not the angels sent down to us, or why do we not see our Lord" Indeed they think too highly of themselves, and are scornful with great pride (21)On the Day they will see the angels – no good news will there be for the criminals that day. وَقَالَ الَّذِينَ لَا يَرْ‌جُونَ لِقَاءَنَا (And said those who do not believe in meeting Us - 25:21).
+And those who expect not a meeting with Us said: "Why are not the angels sent down to us, or why do we not see our Lord" Indeed they think too highly of themselves, and are scornful with great pride (21)On the Day they will see the angels – no good news will there be for the criminals that day. The allusion is toward those who totally deny the Hereafter as only they could have the courage to raise such preposterous and absurd points and put such frivolous demands.
 
 ## Tafsir Ibn Kathir
 

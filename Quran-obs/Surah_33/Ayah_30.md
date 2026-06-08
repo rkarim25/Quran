@@ -76,7 +76,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O wives of the Prophet! The particular position of the blessed wives and the rationale of hard restrictions placed on them O wives of the Prophet, whoever from among you will commit a clearly shameful act, the punishment will be doubled for her.
+Whoever of you commits an open Fahishah, the torment for her will be doubled, and that is ever easy for Allah (30)And whosoever of you is obedient to Allah and His Messenger, and does righteous good deeds, We shall give her, her reward twice over, and We have prepared for her a noble provision .
 
 ## Tafsir Ibn Kathir
 

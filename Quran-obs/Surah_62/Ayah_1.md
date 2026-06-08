@@ -62,7 +62,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Jumu'ah Ibn 'Abbas and Abu Hurayrah narrated that Allah's Messenger ﷺ used to recite Surat Al-Jumu'ah and Surat Al-Munafiqin during the Friday Prayer. يُسَبِّحُ لِلَّـهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْ‌ضِ (All that is in the heavens and all that is in the earth proclaim the purity of Allah,...62:1] Surahs of the Qur'an that begin with 'sabbaha' or 'yusabbihu' [ proclaiming Allah's purity ] are called Musabbihat, in all of which it is established that everything in the heaven and earth proclaims the purity of Allah.
+Whatsoever is in the heavens and whatsoever is on the earth glorifies Allah – the King, the Holy, the Almighty, the All-Wise.)(2.
 
 ## Tafsir Ibn Kathir
 

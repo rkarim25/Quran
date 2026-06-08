@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "It is the same to us whether you preach or be not of those who preach. Explanation of some difficult words Do you erect on every height a sign having no sound purpose, [ 128] and take the objects of architecture as if you are going to live forever, (26:128-129)
+When their brother Salih said to them: "Will you not have Taqwa?")(143. Their Prophet Salih called them to Allah, to worship Him alone with no partner or associate, and to obey whatever commands were conveyed to them, but they refused, rejecting him and opposing him.
 
 ## Tafsir Ibn Kathir
 

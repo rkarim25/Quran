@@ -53,7 +53,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We did send Musa with Our Ayat to Fir'awn and his chiefs. Incidents related to Sayyidna Musa (علیہ السلام) have been stated by the Qur'an at many places repeatedly, and the incidents referred to in the present verses have been described in detail in Surah Al-A` raf.
+Invoke your Lord for us according to what He has made a pact with you. Invoke your Lord for us because of His promise to you.
 
 ## Tafsir Ibn Kathir
 

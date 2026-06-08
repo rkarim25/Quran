@@ -132,7 +132,7 @@ This verse refers to the Battle of Badr in which the disbelievers had about 1000
 
 ## Tafsir Summary
 
-Say to those who disbelieve: "You will be defeated and gathered together to Hell, and worst indeed is that place of rest. In the previous verses, the disbelievers were informed that they will be overcome.
+To sum up, it can be safely said that making a small group of people with very little to fight against a much stronger group and score a victory, as prophesied in Makkah, is an unusual event full of lessons for the observant and the discerning.
 
 ## Tafsir Ibn Kathir
 

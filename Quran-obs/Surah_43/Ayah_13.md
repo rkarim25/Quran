@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed if you ask them: "Who has created the heavens and the earth?" They will surely say: "The All-Mighty, the All-Knower created them. ثُمَّ تَذْكُرُ‌وا نِعْمَةَ رَ‌بِّكُمْ (then recall the favour of your Lord - 13).
+This statement is as true for mechanical means of transport as for cattle and animals, because if Allah Ta’ ala had not created their raw materials, or had not endowed them with their particular properties, or had not endowed the human intellect with capability to discover those properties, even the whole universe, acting together in unison, could not have produced these vehicles.
 
 ## Tafsir Ibn Kathir
 

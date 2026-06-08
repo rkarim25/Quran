@@ -113,7 +113,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if you wonder, then wondrous is their saying: "When we are dust, shall we indeed then be (raised) in a new creation?" They are those who disbelieved in their Lord! Contained in the first three verses cited above (5-7) there is a refutation of the doubts expressed by the disbelievers about prophethood.
+The second doubt expressed by the deniers of the Holy Prophet ﷺ was: 'If you are, in reality, the prophet and messenger of Allah, then, the warnings of punishments you announce against the opponents of prophets should materialize - why is it that this punishment would not come?
 
 ## Tafsir Ibn Kathir
 

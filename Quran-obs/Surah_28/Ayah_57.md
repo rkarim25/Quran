@@ -117,7 +117,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, you guide not whom you like, but Allah guides whom He wills. وَقَالُوا إِن نَّتَّبِعِ الْهُدَىٰ مَعَكَ نُتَخَطَّفْ مِنْ أَرْ‌ضِنَا (And they said, "If we follow the guidance with you (0 Muhammad), we will be driven out of our land." - 28:57).
+And He knows best those who are the guided (56)And they say: "If we follow the guidance with you, we would be snatched away from our land." Have We not established for them a secure sanctuary, to which are brought fruits of all kinds, a provision from Ourselves, but most of them know not .
 
 ## Tafsir Ibn Kathir
 

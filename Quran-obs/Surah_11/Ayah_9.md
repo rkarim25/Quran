@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if We give man a taste of mercy from Us, and then withdraw it from him, verily, he is despairing, ungrateful (9)But if We let him taste good (favor) after evil (poverty and harm) has touched him, he is sure to say: "… In the verses appearing above, it has been confirmed that the Holy Prophet ﷺ is a Messenger of Allah and an answer has been given to those who engineer doubts about it.
+In other words, man is given to hurry things, takes the present as everything, does not bother to refer to the past or show concern for the future, therefore, a suffering after a blessing makes him lose hope and slide into ungratefulness. And if We give man a taste of mercy from Us, and then withdraw it from him, verily, he is despairing, ungrateful (9)But if We let him taste good (favor) after evil (poverty and harm) has touched him, he is sure to say: "Ills have departed fr…
 
 ## Tafsir Ibn Kathir
 

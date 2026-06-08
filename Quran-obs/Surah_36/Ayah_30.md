@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Alas for mankind! In verses 28 and 29, it was said: وَمَا أَنزَلْنَا عَلَىٰ قَوْمِهِ مِن بَعْدِهِ مِن جُندٍ مِّنَ السَّمَاءِ وَمَا كُنَّا مُنزِلِينَ إِن كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ خَامِدُونَ " (And We did not send down to his people any army from the heavens after him, nor were We (in need ) to send down.
+There never came a Messenger to them but they used to mock at him (30)Do they not see how many of the generations We have destroyed before them? Verily, they will not return to them (31)And surely, all – everyone of them will be brought before Us .
 
 ## Tafsir Ibn Kathir
 

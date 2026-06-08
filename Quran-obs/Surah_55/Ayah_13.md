@@ -23,7 +23,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Introduction to Surat Ar-Rahman Imam Ahmad recorded that Zirr said that a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! Mankind and Jinn are surrounded by Divine Bounties فَبِأَيِّ آلَاءِ رَ‌بِّكُمَا تُكَذِّبَانِ (So, [ 0 mankind and Jinn,] which of the bounties of your Lord will you deny?...55:13).
+And also corn, with (its) 'Asf, and Rayhan.)(13.
 
 ## Tafsir Ibn Kathir
 

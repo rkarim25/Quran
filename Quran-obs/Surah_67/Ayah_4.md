@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Mulk Imam Ahmad recorded from Abu Hurayrah that Allah's Messenger ﷺ said, ارْ‌جِعِ الْبَصَرَ‌ هَلْ تَرَ‌ىٰ مِن فُطُورٍ‌ (So, cast your eye again.
+Then look again and yet again, your sight will return to you Khasi', and worn out.)(5. Thus, the Ayah means that if you continuously looked, no matter how much you look, your sight will return to you.
 
 ## Tafsir Ibn Kathir
 

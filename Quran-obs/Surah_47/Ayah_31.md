@@ -41,7 +41,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or do those in whose hearts is a disease, think that Allah will not expose their ill–wills (29)Had We so willed, We could have shown them clearly to you, so that you would know them by their marks; but you will know them by the tone of their speech! حَتَّىٰ نَعْلَمَ الْمُجَاهِدِينَ مِنكُمْ (...until We know those of you who carry out Jihad,...
+Because of that, this Surah (Surah Bara'ah) is also called "The Exposer". In this Ayah, "until We know" means 'until We know of its occurrence.' This is why Ibn 'Abbas said in regard to this and similar texts, "Except so that We may know, means, so that We may see."
 
 ## Tafsir Ibn Kathir
 

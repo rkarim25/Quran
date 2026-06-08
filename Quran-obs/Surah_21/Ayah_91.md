@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And she who guarded her chastity, We breathed into her through Our Ruh, and We made her and her son a sign for nations (91) Isa and Maryam the True Believer This verse directs the Holy Prophet ﷺ to tell his people the story of the pious lady who controlled her passions and then through Jibra'il (علیہ السلام) Allah had breathed His Spirit into her and she gave birth to a son…
+And she who guarded her chastity, We breathed into her through Our Ruh, and We made her and her son a sign for nations .
 
 ## Tafsir Ibn Kathir
 

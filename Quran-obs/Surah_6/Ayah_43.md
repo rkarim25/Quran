@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Tell me if Allah's torment comes upon you, or the Hour comes upon you, would you then call upon any one other than Allah? The verses cited above, if seen in the context of verses appearing immediately previous to them, will show the particular mode in which Shirk and Kufr have been refuted and Tauhid, affirmed.
+But their hearts became hardened, and Shaytan made fair-seeming to them that which they used to do (43)So, when they forgot (the warning) with which they had been reminded, We opened to them the gates of every (pleasant) thing, until in the midst of their enjoyment in that which they were given, all of a sudden, We took them to punishment, and lo!
 
 ## Tafsir Ibn Kathir
 

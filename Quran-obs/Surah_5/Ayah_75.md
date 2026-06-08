@@ -115,7 +115,7 @@ Mujahid and several others said that this Ayah was revealed about the Christians
 
 ## Tafsir Summary
 
-Surely, they have disbelieved who say: "Allah is the Messiah ['Isa], son of Maryam." But the Messiah said: "O Children of Israel! 1.
+In the present verse (75), the complimentary use of the word "Siddiqah" (truthful) obviously seems to indicate that she was a godly person, not a Nabiyy ( prophet) - because on a complimentary occasion, what is mentioned is the higher rank. And if they cease not from what they say, verily, a painful torment will befall on the disbelievers among them (73)Will they not repent to Allah and ask His forgiveness For Allah is Oft-Forgiving, Most Merciful (74)The Messiah ['Isa], son…
 
 ## Tafsir Ibn Kathir
 

@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Ibrahim) said: "Then for what purpose you have come, O messengers? When, in the course of the conversation, Holy Prophet Ibrahim (علیہ السلام) discovered that the guests were angels, he asked them what was their mission and they replied that they had been sent to the people of Lut (علیہ السلام) to destroy them as a punishment for their unspeakable crime.
+Verily, Ibrahim was, without doubt forbearing, used to invoke Allah with humility, and was repentant.
 
 ## Tafsir Ibn Kathir
 

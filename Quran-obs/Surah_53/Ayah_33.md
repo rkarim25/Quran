@@ -22,7 +22,7 @@ Allah the Exalted explained what He has revealed in the Scripture of Ibrahim and
 
 ## Tafsir Summary
 
-Did you observe him who turned away (from Islam)(33)And gave a little, then stopped (34)Is with him the knowledge of the Unseen so that he sees (35)Or is he not informed with what is in the Suhuf of Musa (36)And of Ibrah… Ad-Durr-ul-Manthur reports from Ibn Jarir that a person embraced Islam and one of his friends rebuked him for having abandoned his forefather's religion.
+Did you observe him who turned away (from Islam)(33)And gave a little, then stopped (34)Is with him the knowledge of the Unseen so that he sees (35)Or is he not informed with what is in the Suhuf of Musa (36)And of Ibrahim who fulfilled all that (37)That no burdened person (with sins) shall bear the burden (sins) of another (38)And that man can have nothing but what he does (39)And that his deeds will be seen (40)Then he will be recompensed with a full and the best recompense…
 
 ## Tafsir Ibn Kathir
 

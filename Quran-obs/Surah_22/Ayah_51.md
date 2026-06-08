@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "O mankind! How the Day of Resurrection will be equal to one thousand years by our reckoning In this verseإِنَّ يَوْمًا عِندَ رَ‌بِّكَ كَأَلْفِ سَنَةٍ (22:47) means that one day with your Lord is like one thousand years of what you count.
+The first meaning is that the verse refers to the Day of Resurrection and the events which will take place on that day will be so horrifying and of such extreme severity that the day will appear never to end, as if it was equal to one thousand years according to our reckoning.
 
 ## Tafsir Ibn Kathir
 

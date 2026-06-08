@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They [Yusuf's brothers] said: "If he steals, there was a brother of his [Yusuf] who did steal before (him). It was stated in the previous verses that, while in Egypt, a royal bowl was concealed in the baggage of Benyamin, the younger brother of Sayyidna Yusuf (علیہ السلام) .
+As for his brothers, they were fully aware of the fact that he was totally free from this blame. But, he kept his reaction to himself and did not let his brothers know that he had heard what they had said and was affected by it in any way.
 
 ## Tafsir Ibn Kathir
 

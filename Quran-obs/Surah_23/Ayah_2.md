@@ -32,7 +32,7 @@ The third attribute is Zakah which, literally means "to purify" but in religious
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Success is really attained by the believers - 23:1.
+Khushu' in prayer is only attained by the one who has emptied his heart totally, who does not pay attention to anything else besides it, and who prefers it above all else.
 
 ## Tafsir Ibn Kathir
 

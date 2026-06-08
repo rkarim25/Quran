@@ -183,7 +183,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Musa chose out of his people seventy (of the best) men for Our appointed time and place of meeting, and when they were seized with a violent earthquake, he said: "O my Lord, if it had been Your Will, You could have destroyed them and me before; would You destroy us for the deeds of the foolish among us? Seventy people and their death The verse 155 describes an unusual event.
+Seventy people and their death The verse 155 describes an unusual event.
 
 ## Tafsir Ibn Kathir
 

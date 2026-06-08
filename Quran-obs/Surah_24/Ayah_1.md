@@ -48,7 +48,7 @@ Imam Malik recorded that 'Umar, may Allah be pleased with him, stood up and prai
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. رَّ‌بِّ اغْفِرْ‌ وَارْ‌حَمْ (My Lord, forgive and have mercy - 23:118).
+A Surah which We have sent down and which We have enjoined (Faradnaha), and in it We have revealed manifest Ayat, that you may remember.)(2.
 
 ## Tafsir Ibn Kathir
 

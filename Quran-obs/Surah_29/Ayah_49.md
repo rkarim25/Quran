@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And thus We have sent down the Book to you, and those whom We gave the Scripture believe therein as also do some of these and none but the disbelievers reject Our Ayat (47)Neither did you read any book before it nor did you write any book with your right hand. The status of the narrations of the People of the Book quoted by the commentators in their commentaries is also the same.
+This is because it is preserved in the hearts and is easy on the tongue (i.e., is easy to recite), and is controlling people's hearts and minds.
 
 ## Tafsir Ibn Kathir
 

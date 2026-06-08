@@ -10,7 +10,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surah Ya Sin Al-Hafiz Abu Ya'la recorded that Abu Hurayrah, may Allah be pleased with him, said, "The Messenger of Allah ﷺ said: The Merits of Surah Ya Sin Sayyidna Ma'qil Ibn Yasar ؓ narrates that the Holy Prophet ﷺ said: یٰسٓ قَلبُ القُرآن (Surah Ya Sin is the heart of the Qur'an) and some words of this Hadith tell us that a person who recites Surah Ya Sin exclusively for the sake of Allah and the 'Akhirah is forgiven, and that it should be recited over the dead among us (reported by Ahmad and Abu Dawud and an-Nas'i and Ibn Hibban and al-Hakim and others - as in Ruh-ul-Ma’ ani and al-Mazhari).
+And according to another narration, this is a word from the Ethiopian language that means: '0 human person' and denotes the person of the noble Prophet ﷺ .
 
 ## Tafsir Ibn Kathir
 

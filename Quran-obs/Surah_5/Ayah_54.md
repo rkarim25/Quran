@@ -166,7 +166,7 @@ Therefore, Sayyidna ` Ali ؓ ، Hasan al-Basri, Dahhak, Qatadah and other Imams 
 
 ## Tafsir Summary
 
-O you who believe! The fourth verse (54) tells us that the prohibition of intimate friend-ship and intermingling with non-Muslims is for the good of Muslims themselves.
+Threatening to Replace the Believers With Another People if They Revert from Islam Allah emphasizes His mighty ability and states that whoever reverts from supporting His religion and establishing His Law, then Allah will replace them with whomever is better, mightier and more righteous in Allah's religion and Law.
 
 ## Tafsir Ibn Kathir
 

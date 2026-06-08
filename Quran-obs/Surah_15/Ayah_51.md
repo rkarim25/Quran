@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And tell them about the guests (i. From verse 48: لَا يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَا هُم مِّنْهَا بِمُخْرَ‌جِينَ (No weariness shall touch them therein nor will they be expelled from there), we learn about two features of Jannah: (1) No one shall ever feel tired or weak.
+We bring you the good news of a boy possessing much knowledge and wisdom.
 
 ## Tafsir Ibn Kathir
 

@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! O you who believe, when the call for salah (prayer) is proclaimed on Friday, hasten for the remembrance of Allah, and leave off business…[ 62:9] The Arabic word for Friday is ‘Yaum-ul-Jumu’ ah1 and is so called because it is the day of congregation for Muslims.
+When the Imam appears, the angels present themselves to listen to Allah's remembrance.) It is recommended that one cleans his body, performs Ghusl, wears his best clothes, applies perfume and uses Siwak (tooth stick) for Jumu'ah.
 
 ## Tafsir Ibn Kathir
 

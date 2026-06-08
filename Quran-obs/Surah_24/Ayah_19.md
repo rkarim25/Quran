@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who like that Fahishah should be circulated among those who believe, they will have a painful torment in this world and in the Hereafter. Surely, those who like that shamelessness spreads among the believers, for them there is a painful punishment in this world and the Hereafter - 24:19.
+The Qur'anic system for the prevention of obscenity The Holy Qur'an has drawn out this unique system for the prevention of obscenity that, in the first place such a news should not spread, and if at all it is leaked out, it should be backed up with lawful proof, so that the punishment of adultery is also executed publicly, immediately after the spread of the news.
 
 ## Tafsir Ibn Kathir
 

@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, for those who have Taqwa, there will be a success (31)Hada'iq and vineyards (32)And Kawa'ib Atrab (33)And a cup Dihaq (34)No Laghw shall they hear therein, nor lying (35)Rewarded from your Lord with a sufficient… زَاءً مِّن رَّ‌بِّكَ عَطَاءً حِسَابًا (this being a reward from their Lord, a suffering grant...78:36).
+The blessings of Paradise described above is the reward of the believers and is an abundant grant from their Lord.
 
 ## Tafsir Ibn Kathir
 

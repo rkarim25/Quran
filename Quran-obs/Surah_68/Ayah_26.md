@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, We have tried them as We tried the People of the Garden, when they swore to pluck the fruits in the morning (17)Without (saying: "If Allah wills." (18)Then there passed over it a Ta'if from your Lord while they were asleep (19)So by the morning, it became like As-Sarim (20)Then they called out (one to another as soon) as the morning broke (21)Saying: "Go to your tilth in the morning, if you would pluck (the fruits). فَلَمَّا رَ‌أَوْهَا قَالُوا إِنَّا لَضَالُّونَ (But when they saw it [ the place of the ruined garden ], they said, "We have missed the way."....68:26).
+In other words, when they did not find their garden on that spot, they first thought that they must have lost their way and gone to the wrong place.
 
 ## Tafsir Ibn Kathir
 

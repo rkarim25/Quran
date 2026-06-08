@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when We bestow Our grace on man, he turns away and becomes arrogant. Regarding the explanation of the word: شاکِلَۃ (shakilah) in verse 84: كُلٌّ يَعْمَلُ عَلَىٰ شَاكِلَتِهِ (Everyone acts in his own style), several interpretations have been reported from authorities among the early righteous elders, such as, disposition, habit, instinct, intention, way or manner.
+And when We bestow Our grace on man, he turns away and becomes arrogant.
 
 ## Tafsir Ibn Kathir
 

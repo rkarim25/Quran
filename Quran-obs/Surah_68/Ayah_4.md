@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(1. وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ (And you are surely on exalted quality of character 68:4).
+And verily, for you will be reward that is not Mamnun.)(4. He has taught man that which he knew not.)(96:3-5) Therefore, this statement is Allah's swearing and alerting His creatures to what He has favored them with by teaching them the skill of writing, through which knowledge is attained.
 
 ## Tafsir Ibn Kathir
 

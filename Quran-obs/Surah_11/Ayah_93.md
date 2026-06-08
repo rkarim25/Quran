@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And O my people! After having given this good counsel to them, he warned them of the punishment of Allah Ta` ala.
+You will come to know who it is on whom descends the torment that will cover him with ignominy, and who is a liar!
 
 ## Tafsir Ibn Kathir
 

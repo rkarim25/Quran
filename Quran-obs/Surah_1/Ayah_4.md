@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah says, 'My servant has glorified Me,' or 'My servant has related all matters to Me.' When he says, The third verse pays homage to Allah as 'the Master of the Day of Judgment or Requital'.
+The Day of Requital or the Day of Judgment is the Day appointed by Allah to recompense good or evil deeds.
 
 ## Tafsir Ibn Kathir
 

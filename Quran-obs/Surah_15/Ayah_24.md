@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And there is not a thing, but the supplies for it are with Us, and We do not send it down but in a known measure (21)And We send the winds fertilizing, then We cause the water to descend from the sky, and We give it to you to drink, and it is not you who are the owners of its supply (22)And certainly We! Going Ahead and Remaining Behind in Righteous Deeds: The Difference in Degrees Some exegetic interpretations of the words: (al-mustaqdimin) : 'those who go ahead' and: (al-musta'khirin) : 'those who remain behind' appearing in verse 24: الْمُسْتَقْدِمِينَ ~.A11 have been variously reported from Tafsir authorities among the Sahabah ؓ and Tabi`…
+It is We Who give life, and cause death, and We are the Inheritors (23)And indeed, We know the first generations of you who have passed away, and indeed, We know the present generations of you (mankind), and also those who will come afterwards (24)And verily, your Lord will gather them together.
 
 ## Tafsir Ibn Kathir
 

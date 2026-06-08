@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when he came to it (the fire), he was called by name: "O Musa! نُودِيَ يَا مُوسَىٰ إِنِّي أَنَا رَ‌بُّكَ فَاخْلَعْ نَعْلَيْكَ (He was called, "0 Musa, it is Me, your Lord, remove your shoes - 20:11, 12).
+It has also been said that it means 'doubly sacred' and that Tuwa is something that has repetitious blessings.
 
 ## Tafsir Ibn Kathir
 

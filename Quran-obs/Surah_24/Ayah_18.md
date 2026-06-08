@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And why did you not, when you heard it, say: "It is not right for us to speak of this. And why, when you heard of it, did you not say, It is not for us to speak about this.
+A doubt and its answer If someone has a doubt that just as the truth of an event cannot be verified without a proof, and hence it is unlawful to mention it and spread it, likewise, the report of that event should not be believed to be a lie and a 'terrible calumny' without a proof of its being a lie.
 
 ## Tafsir Ibn Kathir
 

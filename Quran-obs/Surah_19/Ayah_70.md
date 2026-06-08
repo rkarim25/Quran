@@ -38,7 +38,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And man says: "When I am dead, shall I then be raised up alive? "Then We will certainly draw out from every group." - 19:69.
+This means that He, the Exalted, created the human being while he was nothing. The word is applied to a particular person or the followers of a particular faith, and it also means a sect.
 
 ## Tafsir Ibn Kathir
 

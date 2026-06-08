@@ -70,7 +70,7 @@ The first verse (85) appearing above carries a question posed by disbelievers ab
 
 ## Tafsir Summary
 
-And they ask you concerning the Ruh (the spirit). The first verse (85) appearing above carries a question posed by disbelievers about Ruh (soul, spirit) along with its answer that came from Allah Ta` ala.
+Say: "The Ruh (the spirit) is one of the things, the knowledge of which is only with my Lord...") This context would seem to imply that this Ayah was revealed in Al-Madinah, and that it was revealed when the Jews asked him this question in Al-Madinah, although the entire Surah was revealed in Makkah.
 
 ## Tafsir Ibn Kathir
 

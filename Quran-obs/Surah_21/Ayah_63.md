@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And by Allah, I shall plot a plan for your idols after you have gone away and turned your backs. The words of Sayyidna Ibrahim (علیہ السلام) were not untrue, but only allusions قَالَ بَلْ فَعَلَهُ كَبِيرُ‌هُمْ هَـٰذَا فَاسْأَلُوهُمْ إِن كَانُوا يَنطِقُونَ (He said, "Rather, this is done by this chief of theirs.
+One of them is that his statement is in the nature of an assumption i.e.
 
 ## Tafsir Ibn Kathir
 

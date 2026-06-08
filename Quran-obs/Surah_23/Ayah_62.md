@@ -62,7 +62,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We task not any person except according to his capacity, and with Us is a Record which speaks the truth, and they will not be wronged (62)Nay, but their hearts are covered from this, and they have other deeds, besides which they are doing (63)Until when We seize those of them who lead a luxurious life with punishment; behold, they make humble invocation with a loud voice (64)Invoke not loudly this day! Those people are accelerating towards the (real) good things, and they are the foremost to attain them.
+And We task not any person except according to his capacity, and with Us is a Record which speaks the truth, and they will not be wronged (62)Nay, but their hearts are covered from this, and they have other deeds, besides which they are doing (63)Until when We seize those of them who lead a luxurious life with punishment; behold, they make humble invocation with a loud voice (64)Invoke not loudly this day!
 
 ## Tafsir Ibn Kathir
 

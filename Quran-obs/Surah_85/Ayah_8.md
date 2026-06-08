@@ -48,7 +48,7 @@ Then, after Ibn Ishaq explained that the people of Najran began following the re
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ (and by the Promised Day, and by that which attends, and that which is attended...85:2-3) With reference to a prophetic Hadith reported by Tirmidhi, the phrase 'the Promised Day' refers to the Day of Judgment; the phrase 'that which attends' refers to 'Friday'; and the phrase 'that which is attended' refers to the day of ` Arafah.
+He decreed what happened to these servants of His at the hands of the disbelievers - and He is the Most Mighty, the Most Praiseworthy - even though the reason for this decree is unknown to many people.
 
 ## Tafsir Ibn Kathir
 

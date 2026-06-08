@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, these people are saying (34)"There is nothing but our first death, and we shall not be resurrected. أَهُمْ خَيْرٌ‌ أَمْ قَوْمُ تُبَّعٍ "Are they better or the people of Tubba?
+Tubba' is not the name of a particular individual, but is said to be the royal title of the kings of Himyar in Yemen.
 
 ## Tafsir Ibn Kathir
 

@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(The Prophet is closer to the believers than themselves) (33:6). The Holy Prophet's ﷺ Decision is Better According to the previous verse, Walid Ibn 'Uqbah ؓ reported that Banul-Mustaliq had turned apostate and refused to pay Zakah.
+And Allah is All-Knowing, All-Wise.) All-Knower in those who deserve guidance and those who deserve misguidance, All-Wise in His statements, actions, legislation and the destiny He appoints.
 
 ## Tafsir Ibn Kathir
 

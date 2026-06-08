@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then he cast a glance at the stars (88)And he said: "Verily, I am sick. In verses 88 and 89, it was said: نَظَرَ‌ نَظْرَ‌ةً فِي النُّجُومِ فَقَالَ إِنِّي سَقِيمٌ.
+Therefore, it is not possible to believe that the Qur'an would have left out the background of this event, lest it becomes too long while it would take an absolutely involuntary action not even distantly related to the event and describe it in a whole verse.
 
 ## Tafsir Ibn Kathir
 

@@ -125,7 +125,7 @@ In brief, when the Holy Prophet ﷺ became very sad because of such demands, thi
 
 ## Tafsir Summary
 
-So perchance you may give up a part of what is revealed unto you, and that your breast feels straitened for it because they say, "Why has not a treasure been sent down unto him, or an angel come with him" But you are only a warner. The fourth verse (12) has been revealed about a particular event.
+So perchance you may give up a part of what is revealed unto you, and that your breast feels straitened for it because they say, "Why has not a treasure been sent down unto him, or an angel come with him" But you are only a warner.
 
 ## Tafsir Ibn Kathir
 

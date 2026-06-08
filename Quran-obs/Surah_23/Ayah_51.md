@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Messengers! يَا أَيُّهَا الرُّسُلُ كُلُوا مِنَ الطَّيِّبَاتِ وَاعْمَلُوا صَالِحًا (0 messengers, eat from the good things and act, righteously - 23:51.) The word means pure and good things.
+The Command to Eat Lawful Food and to Do Righteous Deeds Allah commands His servants and Messengers, peace be upon them all, to eat lawful food and do righteous deeds, which indicates that eating what is lawful helps one to do righteous deeds.
 
 ## Tafsir Ibn Kathir
 

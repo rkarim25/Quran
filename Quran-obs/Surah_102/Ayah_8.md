@@ -31,7 +31,7 @@ In Sahih Al-Bukhari, it is recorded in the Book of Ar-Riqaq (Narrations that sof
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 102:8] ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ (Then you will be asked about all the pleasures [ you enjoyed in the world ].) This means that, on the Day of Judgment, all of you will be questioned whether you had shown gratitude towards Allah's favors, or did you misuse them and were ungrateful to Allah?
+Then on that Day you shall be asked about the delights!) The Result of Loving the World and Heedlessness of the Hereafter Allah says that all are preoccupied by love of the world, its delights and its adornments, and this distracts you from seeking the Hereafter and desiring it.
 
 ## Tafsir Ibn Kathir
 

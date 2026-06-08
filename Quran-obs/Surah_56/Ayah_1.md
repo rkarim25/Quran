@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Waqi'ah Abu Ishaq reported from 'Ikrimah from Ibn 'Abbas that Abu Bakr said, "O Allah's Messenger! Special Characteristic of Surah Al-Waqi` ah: Sayyidna ` Abdullh Ibn Masuad's ؓ Didactic Story on his Deathbed Ibn Kathir cites a story on the authority of Ibn ` Asakir from Abu Zabyah that when Sayyidna ` Abdullah Ibn Masud ؓ was lying on his deathbed, Sayyidna ` Uthman ؓ paid him a visit and the following conversation ensued.
+They are the chiefs of those on the right side, because they include the Messengers, Prophets, true believers and martyrs.
 
 ## Tafsir Ibn Kathir
 

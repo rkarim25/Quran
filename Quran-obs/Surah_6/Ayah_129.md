@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And thus We do make the wrongdoers supporters of one another, because of that which they used to earn (129) The Wrongdoers Are the Supporters of Each other Lexically, the word: (nuwalli) appearing in the first (129) of the three verses cited above can be translated either in the sense of joining up and bringing closer, or in the sense of setting on or imposing on.
+And thus We do make the wrongdoers supporters of one another, because of that which they used to earn .
 
 ## Tafsir Ibn Kathir
 

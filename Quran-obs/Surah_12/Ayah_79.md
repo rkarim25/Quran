@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O 'Aziz! The response of Sayyidna Yusuf (علیہ السلام) appears in verse 79 قَالَ مَعَاذَ اللَّـهِ أَن نَّأْخُذَ إِلَّا مَن وَجَدْنَا مَتَاعَنَا عِندَهُ إِنَّا إِذًا لَّظَالِمُونَ that is, he gave his reply to their request according to the regulations followed in his country by telling them that they were not authorized to detain anyone they wished.
+In fact, if they were to arrest someone other than the person from whose possession the lost property has been recovered, then, according to their own fatwa and ruling, they would be accused of being unjust.
 
 ## Tafsir Ibn Kathir
 

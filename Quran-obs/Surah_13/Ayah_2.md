@@ -116,7 +116,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah is He Who raised the heavens without any pillars that you can see. Allah is the One who raised the heavens without pillars.
+Therefore, if Allah subjected these to His power, then it is clear that He has also subjected all other heavenly objects.
 
 ## Tafsir Ibn Kathir
 

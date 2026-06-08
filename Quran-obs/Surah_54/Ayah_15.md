@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The people of Nuh denied (their Messenger) before them. ذَاتِ أَلْوَاحٍ وَدُسُرٍ‌ (to board that [ ship ] which had planks and nails...54:13).
+The word alwah is the plural of lawh and it refers to a board or a plank.
 
 ## Tafsir Ibn Kathir
 

@@ -64,7 +64,7 @@ Abu Al-'Aliyah said, "This was the first Ayah about fighting that was revealed i
 
 ## Tafsir Summary
 
-And fight in the way of Allah those who fight you, but transgress not the limits. Jihad: To fight in the way of Allah That Jihad and Qital or fighting against disbelievers was prohibited prior to the emigration to Madinah is a fact the entire Muslim community agrees upon.
+This is also the opinion of Ibn 'Abbas, 'Umar bin 'Abdul-'Aziz, Muqatil bin Hayyan and others.
 
 ## Tafsir Ibn Kathir
 

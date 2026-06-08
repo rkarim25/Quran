@@ -46,7 +46,7 @@ The Prophet of Allah asked them if they had some means of weighing and measuring
 
 ## Tafsir Summary
 
-And of the people of Musa there is a community who lead (the men) with truth and establish justice therewith (159) Allah stated that of the Children of Israel there are some who follow the truth and judge by it, just as… The Truthful among the Israelites The verse 159 said: وَمِن قَوْمِ مُوسَىٰ أُمَّةٌ يَهْدُونَ بِالْحَقِّ وَبِهِ يَعْدِلُونَ ﴿159﴾ '"Among the community of Musa there are people who guide to the truth, and do justice thereby." That is, there is a group among the Israelites who follows the truth and decides their controversies according to the dictates of the Truth - Islam.
+And of the people of Musa there is a community who lead (the men) with truth and establish justice therewith .
 
 ## Tafsir Ibn Kathir
 

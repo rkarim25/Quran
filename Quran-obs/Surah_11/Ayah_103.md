@@ -79,7 +79,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed in that (there) is a sure lesson for those who fear the torment of the Hereafter. After having given this good counsel to them, he warned them of the punishment of Allah Ta` ala.
+That is a Day whereon mankind will be gathered together, and that is a Day when all will be present (103)And We delay it only for a term (already) fixed (104)On the Day when it comes, no person shall speak except by His (Allah's) leave.
 
 ## Tafsir Ibn Kathir
 

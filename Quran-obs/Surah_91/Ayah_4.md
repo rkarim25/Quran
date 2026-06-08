@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Recitation of Surah Ash-Shams wa Duhaha in the 'Isha' Prayer The Hadith of Jabir which was recorded in the Two Sahihs has already been mentioned. وَاللَّيْلِ إِذَا يَغْشَاهَا (and by the night when it envelops him,...91:4).
+In other words, when it [ the night ] sets in, the brightness of the sun is concealed [ and only darkness prevails ].
 
 ## Tafsir Ibn Kathir
 

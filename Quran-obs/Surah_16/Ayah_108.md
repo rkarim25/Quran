@@ -58,7 +58,7 @@ Those so arrested were Sayyidna ` Ammar ؓ ' and his parents, Sayyidna Yasir and
 
 ## Tafsir Summary
 
-Whoever disbelieves in Allah after his belief - except one who was forced while his heart is at peace with the faith - but whoever opens their breasts to disbelief, on them is wrath from Allah, and theirs will be a terrible torment (106)That is because they preferred the life of this world over that of the Hereafter. From the first verse (106) comes the religious ruling about a person who has been compelled to utter a word of infidelity (kufr) under the threat that he would be killed if he did not do that.
+And Allah does not guide the people who disbelieve (107)They are those upon whose hearts, hearing (ears) and sight (eyes) Allah has set a seal over. He put a seal on their hearts so that they would not be able to understand what is beneficial for them, and He sealed their ears and eyes so that they would not benefit from them.
 
 ## Tafsir Ibn Kathir
 

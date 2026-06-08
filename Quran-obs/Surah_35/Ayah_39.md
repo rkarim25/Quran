@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, Allah is the All-Knower of the Unseen of the heavens and the earth. The word: خَلَائِفَ (khala'if) in verse 39: هُوَ الَّذِي جَعَلَكُمْ خَلَائِفَ فِي الْأَرْ‌ضِ (He is the One who has made you successors (of the past generations) in the earth.) is the plural of: خَلِیفَہ (khalifah) which means deputy or vice-regent.
+Here Allah tells us that He knows the unseen in the heavens and earth, and that He knows all that is hidden and the secrets of the hearts.
 
 ## Tafsir Ibn Kathir
 

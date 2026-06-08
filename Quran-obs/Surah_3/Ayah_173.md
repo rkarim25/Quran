@@ -85,7 +85,7 @@ Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the mar
 
 ## Tafsir Summary
 
-(169. In the second verse (173), more praises have been showered on the noble Companions, may Allah be pleased with them all, who so courageously stepped forward to join this Jihad.
+Those to whom the people said, "Verily, the people have gathered against you, therefore, fear them." But it (only) increased them in faith, and they said: "Allah is Sufficient for us, and He is the Best Disposer of affairs.")(174.
 
 ## Tafsir Ibn Kathir
 

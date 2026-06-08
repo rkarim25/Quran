@@ -58,7 +58,7 @@ In addition, the earlier mention of pain caused by the disbelievers bears congru
 
 ## Tafsir Summary
 
-Verily, in the creation of the heavens and the Earth, and in the alternation of night and day, there are indeed signs for men of understanding (190)Those who remember Allah standing, sitting, and lying down on their sides, and think deeply about the creation of the heavens and the earth, (saying): "Our Lord! Verse 189 appearing immediately earlier particularly and strongly stressed upon Tauhid, the Oneness of Allah.
+It should not be too difficult to realize that this wonderfully organised system - comprising the heavens and the earth and containing the whole of creation in between them which is further streamlined by the most deft management of everything, big or small, existing therein - certainly points out to a special Being that has to be the highest and the foremost in terms of Knowledge, Wisdom, Power and Authority.
 
 ## Tafsir Ibn Kathir
 

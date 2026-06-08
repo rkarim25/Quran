@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, set you your face to the straight and right religion, before there comes from Allah a Day which none can avert. ظَهَرَ‌ الْفَسَادُ فِي الْبَرِّ‌ وَالْبَحْرِ‌ بِمَا كَسَبَتْ أَيْدِي النَّاسِ (Plight has appeared on land and sea because of what the hands of the people have earned 30:41).
+Big calamities fall upon the world because of the sins of people It is in this backdrop that some scholars have declared that if a man commits an evil deed, he harms the entire human kind, beasts, birds and other animals, because whatever calamities fall upon earth due to his sins, all others are also affected by it.
 
 ## Tafsir Ibn Kathir
 

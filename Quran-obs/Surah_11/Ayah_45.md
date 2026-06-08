@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Nuh called upon his Lord and said, "O my Lord! The remaining account of the flood associated with the name of Sayyidna Nuh along with instructions related to it, appears in the five verses cited above.
+And certainly, Your promise is true, and You are the Most Just of the judges.
 
 ## Tafsir Ibn Kathir
 

@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Yet, they join the Jinns as partners in worship with Allah, though He has created them, and they attribute, falsely without knowledge - sons and daughters to Him. The contents of this verse present a unique concern for thematic order.
+Yet, they join the Jinns as partners in worship with Allah, though He has created them, and they attribute, falsely without knowledge - sons and daughters to Him. The word, Kharaqu, means 'falsely attributed, invented, claimed and lied', according to the scholars of the Salaf.
 
 ## Tafsir Ibn Kathir
 

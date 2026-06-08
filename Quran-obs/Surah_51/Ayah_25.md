@@ -45,7 +45,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Has the story reached you, of the honored guests of Ibrahim (24)When they came in to him and said: "Salaman!" He answered: "Salamun" and said: "You are a people unknown to me. Comforting the Messenger of Allah فَقَالُوا سَلَامًا قَالَ سَلَامٌ ("We greet you with salam." He said, "Salam on you." 51:25).
+They said: "Fear not, we have been sent against the people of Lut." And his wife was standing (there), and she laughed.)(11:70-71), meaning, she was glad that the people of Lut would be destroyed on account of their rebellion and transgression against Allah, the Exalted.
 
 ## Tafsir Ibn Kathir
 

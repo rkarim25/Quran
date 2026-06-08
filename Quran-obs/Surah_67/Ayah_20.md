@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Who is it besides the Most Gracious that can be an army to you to help you? أَمَّنْ هَـٰذَا الَّذِي هُوَ جُندٌ لَّكُمْ يَنصُرُ‌كُم مِّن دُونِ الرَّ‌حْمَـٰنِ ۚ إِنِ الْكَافِرُ‌ونَ إِلَّا فِي غُرُ‌ورٍ‌ (Now, who is there to become a force for you to help you, except the Rahman?
+The disbelievers are in nothing but delusion (20)Who is it that can provide for you if He should withhold His provision?
 
 ## Tafsir Ibn Kathir
 

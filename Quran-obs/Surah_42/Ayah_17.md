@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who dispute concerning Allah, after it has been accepted, of no use is their dispute before their Lord and on them is wrath, and for them will be a severe torment (16)It is Allah Who has sent down the Book in truth, and the Balance. This fact is stated in the next sentence, أَنزَلَ الْكِتَابَ بِالْحَقِّ وَالْمِيزَانَ "has sent down the Book with truth and the Balance as well - 17." Here ` the Book' means the Qur'an, and all the previous revealed Books, and ` truth' means the divine religion mentioned above, and ` the Balance' literally means a weighing balance.
+And what can make you know that perhaps the Hour is close at hand (17)Those who believe not therein seek to hasten it, while those who believe are fearful of it, and know that it is the very truth.
 
 ## Tafsir Ibn Kathir
 

@@ -77,7 +77,7 @@ Before the night of Isra', when the five daily prayers were ordained, this Ayah 
 
 ## Tafsir Summary
 
-And remember your Lord within yourself, humbly and with fear and without loudness in words in the mornings and in the afternoons, and be not of those who are neglectful (205)Surely, those who are with your Lord (angels)… That the Holy Qur'an should be listened to and that due etiquette should be observed when doing so was the subject in previous verses.
+Under such eventualities, reciting in a low voice is more meritorious as unanimously held by all.
 
 ## Tafsir Ibn Kathir
 

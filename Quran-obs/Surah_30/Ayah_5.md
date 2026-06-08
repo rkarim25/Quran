@@ -44,7 +44,7 @@ These Ayat were revealed about the victory of Sabur, the king of Persia, over As
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَيَوْمَئِذٍ يَفْرَ‌حُ الْمُؤْمِنُونَ بِنَصْرِ‌ اللَّـهِ (And on that day the believers will rejoice with Allah's help - 30:4).
+He helps whom He wills, and He is the All-Mighty, the Most Merciful.)(6.
 
 ## Tafsir Ibn Kathir
 

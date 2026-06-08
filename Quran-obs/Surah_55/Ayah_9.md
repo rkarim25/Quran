@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Introduction to Surat Ar-Rahman Imam Ahmad recorded that Zirr said that a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ (And observe the correct weight with fairness, ....55:9).
+The opening part of verse [ 9] was the positive aspect of the injunction, and the concluding part is its negative aspect, in that it is unlawful to fall short of measure or weight. The two parts, positive and negative, put together the verse as a whole means 'Do not cheat in weights and measures, but rather observe justice and fairness'.
 
 ## Tafsir Ibn Kathir
 

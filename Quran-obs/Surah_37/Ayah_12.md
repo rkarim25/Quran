@@ -19,7 +19,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then ask them: "Are they harder to create, or those whom We have created?" Verily, We created them of a sticky clay (11)Nay, you wondered while they mock (12)And when they are reminded, they pay no attention (13)And when they see an Ayah (a sign) from Allah, they mock at it (14)And they say: "This is nothing but evident magic! As for the reaction of disbelievers on rational proofs, it was said: بَلْ عَجِبْتَ وَيَسْخَرُ‌ونَ وَإِذَا ذُكِّرُ‌وا لَا يَذْكُرُ‌ونَ (But you wonder [ at their denial ], and they mock [ at the idea of an Hereafter ].
+Given here first is the stance of the Holy Prophet ﷺ who wonders as to how could these people, after having such clear proofs before them, still remain reluctant to accept the truth while these people, on the contrary, indulge in making fun of the proofs and beliefs presented by him before them.
 
 ## Tafsir Ibn Kathir
 

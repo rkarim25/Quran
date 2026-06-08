@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O Hud! After that, the next eight verses (61-68) carry the story of Sayyidna Salih peace be upon him.
+The only One Who is worthy of having worship directed solely towards Him is Allah alone, without any partners.
 
 ## Tafsir Ibn Kathir
 

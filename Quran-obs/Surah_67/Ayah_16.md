@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do you feel secure that He, Who is over the heaven, will not cause the earth to sink with you, and then it should quake (16)Or do you feel secure that He, Who is over the heaven, will not send against you a Hasib? ءَاَمِنْتُمْ مَّنْ فِي السَّمَاۗءِ اَنْ يَّخْسِفَ بِكُمُ الْاَرْضَ فَاِذَا هِيَ تَمُوْرُ (Have you become fearless of Him who is in the sky if He makes you sink into the earth, and it starts trembling at once?...67:16).
+Do you feel secure that He, Who is over the heaven, will not cause the earth to sink with you, and then it should quake (16)Or do you feel secure that He, Who is over the heaven, will not send against you a Hasib?
 
 ## Tafsir Ibn Kathir
 

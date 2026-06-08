@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then they will turn to one another, mutually questioning (50)A speaker of them will say: "Verily, I had a companion (in the world), (51)"Who used to say: 'Are you among those who believe (52)(That) when we die and become dust and bones, shall we indeed be indebted (Madinun)?' (53)(The speaker) said: "Will you look down? An inmate of Jannah and his disbelieving acquaintance After having described the general condition of the people of Jannah, one of them has been mentioned particularly.
+Therefore, it cannot be said with any degree of certainty as to who this person could be. Therefore, it is better to take one's guard right here in this world in matters concerning the taking of friends and promoting of relationships, something that must be done with due caution and judgment.
 
 ## Tafsir Ibn Kathir
 

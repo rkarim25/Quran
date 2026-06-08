@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "O People of the Scripture! Referring to the Jews and Christians in: أَكْثَرَ‌كُمْ فَاسِقُونَ (most of you are sinners) at the end of the first verse, ` most' - not ` all'- of them have been declared to be outside the fold of Faith.
+Those who were before you were destroyed because they committed sins and the 'Rabbāniyyūn' and 'Aḥbār' did not forbid them from evil. Do you criticize us for no other reason than that we believe in Allah, and in what has been sent down to us and in that which has been sent down before (us), and that most of you are rebellious?
 
 ## Tafsir Ibn Kathir
 

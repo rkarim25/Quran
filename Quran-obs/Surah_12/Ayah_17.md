@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they came to their father in the early part of the night weeping (16)They said: "O our father! Father, we went running races and left Yusuf with our belongings and the wolf ate him up.
+That the racing of horses as such is permissible stands proved from the verse under reference and from Hadith reports cited above.
 
 ## Tafsir Ibn Kathir
 

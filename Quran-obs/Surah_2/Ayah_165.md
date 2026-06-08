@@ -137,7 +137,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And of mankind are some who take (for worship) others besides Allah as rivals (to Allah). In the verses that appeared earlier, there was a strong and positive view of Allah's Oneness.
+Their attachment to them reaches the proportions of love that is due for Allah alone.
 
 ## Tafsir Ibn Kathir
 

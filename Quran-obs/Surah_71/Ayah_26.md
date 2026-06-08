@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Because of their sins they were drowned, then were made to enter the Fire. مِّمَّا خَطِيئَاتِهِمْ أُغْرِ‌قُوا فَأُدْخِلُوا نَارً‌ا فَلَمْ يَجِدُوا لَهُم مِّن دُونِ اللَّـهِ أَنصَارً‌ا (Because of their sins they were drowned, and then admitted into the Fire.
+Forgive me, and my parents, and him who enters my home as a believer,) Ad-Dahhak said, "This means, my Masjid." However, there is no harm in understanding the Ayah according to its apparent meaning, which would be that he (Nuh) supplicated for every person who entered his house who was a believer. Leave not one of the disbelievers on the earth Dayyar!
 
 ## Tafsir Ibn Kathir
 

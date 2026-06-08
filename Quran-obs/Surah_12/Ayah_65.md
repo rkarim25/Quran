@@ -113,7 +113,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when they opened their bags, they found their money had been returned to them. And when they opened their baggage, they found their capital given back to them.
+Here is our capital given back to us, and we shall bring food to our family, protect our brother and add the measure of one camel more.
 
 ## Tafsir Ibn Kathir
 

@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when they meet those who believe, they say: "We believe," but when they are alone with their Shayatin (devils), they say: "Truly, we are with you; verily, we were but mocking. As we have seen, the Surah Al-Baqarah opens with the declaration that the Holy Qur'an is beyond all doubt.
+Surely, Allah exacts revenge for certain evil acts with a punishment that is similar in nature to the act itself.
 
 ## Tafsir Ibn Kathir
 

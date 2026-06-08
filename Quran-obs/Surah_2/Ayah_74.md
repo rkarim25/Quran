@@ -159,7 +159,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then after that your hearts were hardened and became as stones or even worse in hardness. The Surah has been relating a number of incidents which show that the Israelites were always prone to disobedience and rebellion and had to undergo punishment again and again.
+And indeed, there are stones out of which rivers gush forth, and indeed, there are of them (stones) which split asunder so that water flows from them, and indeed, there are of them (stones) which fall down for fear of Allah. Some other scholars said that this Ayah means their hearts are only of two types, as hard as stone or harder than stone.
 
 ## Tafsir Ibn Kathir
 

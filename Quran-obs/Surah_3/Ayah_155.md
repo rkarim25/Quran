@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then after the distress, He sent down security for you. The noble Companions as evident from: وَلِيَبْتَلِيَ اللَّـهُ مَا فِي صُدُورِ‌كُمْ (154), were actually tested through their sufferings at the battle of Uhud.
+Surely, Allah is Oft-Forgiving, Most Forbearing .
 
 ## Tafsir Ibn Kathir
 

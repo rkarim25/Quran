@@ -84,7 +84,7 @@ These people admitted their error to themselves and their Lord. They had perform
 
 ## Tafsir Summary
 
-And (there are) others who have acknowledged their sins, they have mixed a deed that was righteous with another that was evil. When Muslims were given a general call for Jihad at Tabuk, the weather was extremely hot.
+Surely, Allah is Oft-Forgiving, Most Merciful .
 
 ## Tafsir Ibn Kathir
 

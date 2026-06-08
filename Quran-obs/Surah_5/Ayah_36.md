@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! In verses previous to those cited above, the Islamic Prescribed Punishment of robbery and rebellion, as well as the details of injunctions relating to them, were mentioned while the Prescribed Punishment for theft is coming up after three verses later.
+Commentary In verses previous to those cited above, the Islamic Prescribed Punishment of robbery and rebellion, as well as the details of injunctions relating to them, were mentioned while the Prescribed Punishment for theft is coming up after three verses later.
 
 ## Tafsir Ibn Kathir
 

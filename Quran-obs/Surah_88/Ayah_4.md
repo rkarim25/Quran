@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Reciting Surat Al-A'la and Al-Ghashiyah in the Friday Prayer It has already been mentioned on the authority of An-Nu'man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A'la (87) and Al-Ghashiyah in the 'Id and Friday prayers. نَارًا حَامِيَةً (...[ the ] scorching fire...88:4).
+Which will neither nourish nor avail against hunger.) The Day of Judgement and what will happen to the People of the Fire during it Al-Ghashiyah is one of the names of the Day of Judgement.
 
 ## Tafsir Ibn Kathir
 

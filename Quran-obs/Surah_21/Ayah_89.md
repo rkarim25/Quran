@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) Zakariyya, when he cried to his Lord: "O My Lord! Sayyidna Zakariyya (علیہ السلام) wished for a son and heir for which he prayed to Allah.
+Leave me not single (childless), though You are the Best of the inheritors.
 
 ## Tafsir Ibn Kathir
 

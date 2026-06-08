@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those were the towns whose story We relate unto you. The verse 101 has contained the phrase تِلْكَ الْقُرَ‌ىٰ نَقُصُّ عَلَيْكَ مِنْ أَنبَائِهَا "these are stories of the towns that We narrate to you." The word: نَبَا 'naba' in Arabic is used to denote some great news.
+And there came indeed to them their Messengers with clear proofs, but they were not such who would believe in what they rejected before. The verse has further said, "And surely, their messengers came to them with clear signs, but they were not to believe in what they had belied earlier." It brings out their obstinate attitude towards the prophets who came to them with clear signs or miracles which are a definite means to decide between right and wrong but they obstinately rej…
 
 ## Tafsir Ibn Kathir
 

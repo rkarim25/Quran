@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Yes! Having refuted the claim of the Jews as baseless, the Holy Qur'an lays down the divine law in this regard.
+Those who commit evil deeds knowingly and deliberately so that evil takes hold of them completely, leaving no trace of goodness - such men shall go to the Hell, and live there forever, without any intermission or release. Rather, whoever does an evil deed and abides purposefully in his error, coming on the Day of Resurrection with no good deeds, only evil deeds, then he will be among the people of the Fire.
 
 ## Tafsir Ibn Kathir
 

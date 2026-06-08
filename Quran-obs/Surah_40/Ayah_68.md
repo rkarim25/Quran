@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "I have been forbidden to worship those whom you worship besides Allah, since there have come to me evidences from my Lord; and I am commanded to submit to the Lord of all that exists (66)It is He, Who has created y… In verse 64, it was said: وَصَوَّرَ‌كُمْ فَأَحْسَنَ صُوَرَ‌كُمْ (and shaped you, and made your shapes so good -).
+Allah Ta’ ala has blessed the human person with the most distinct, superior and better-balanced form and shape out of all animals.
 
 ## Tafsir Ibn Kathir
 

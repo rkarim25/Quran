@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who oppose Allah and His Messenger will be disgraced as those before them were disgraced. أَحْصَاهُ اللَّـهُ وَنَسُوهُ (...Allah has its full account, while they have forgotten transgressions, but because he treats them as trivial and insignificant, he is unable to remember and recall them.
+However, they are all recorded and kept safely with Allah, even though the humans have done the actions and forgotten them. Allah has kept account of it, while they have forgotten it.
 
 ## Tafsir Ibn Kathir
 

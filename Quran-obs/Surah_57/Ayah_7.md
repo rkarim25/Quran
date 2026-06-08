@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Believe in Allah and His Messenger, and spend of that whereof He has made you trustees. [ 1] The original word used in the text is 'mustakhlafin' which has two meanings: 'deputies' and 'successors'.
+And such of you as believe and spend, theirs will be a great reward (7)And what is the matter with you that you believe not in Allah!
 
 ## Tafsir Ibn Kathir
 

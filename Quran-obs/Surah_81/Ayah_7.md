@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-What has been narrated about This Surah Imam Ahmad recorded from Ibn 'Umar that the Messenger of Allah ﷺ said, وَإِذَا النُّفُوسُ زُوِّجَتْ (and when the people will be arranged in categories...81:7).
+And when the seas become as blazing fire.)(7.
 
 ## Tafsir Ibn Kathir
 

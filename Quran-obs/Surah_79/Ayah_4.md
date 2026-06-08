@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. فَالسَّابِقَاتِ سَبْقًا (then proceed forward quickly...79:4).
+There are those people whose souls the angels remove with ease, as if they were unraveling him (i.e., his soul from him) due to their briskness. It means that the eyes will be lowly and disgraced from what they will witness of terrors.
 
 ## Tafsir Ibn Kathir
 

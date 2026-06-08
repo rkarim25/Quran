@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. قُمْ فَاَنْذِرْ (stand up and warn...74:2) 'Stand up' could be taken in its primary sense.
+The command fa-andhir (and warn) comes from the infinitive indhar (warning) which is based on love and affection', such as a father's warning his children against the dangers of a snake, scorpion or fire.
 
 ## Tafsir Ibn Kathir
 

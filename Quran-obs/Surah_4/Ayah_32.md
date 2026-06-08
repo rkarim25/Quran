@@ -126,7 +126,7 @@ While describing the background in which the present verse was revealed, which a
 
 ## Tafsir Summary
 
-And wish not for the things in which Allah has made some of you to excel others. In the injunctions of inheritance appearing previously, it was mentioned that, given the conditions, for a male there is a share equal to that of two females.
+Striving to excel others in good deeds is different There are verses of the Holy Qur'an and the sayings of the noble Prophet ﷺ which exhort people to excel each other in good deeds.
 
 ## Tafsir Ibn Kathir
 

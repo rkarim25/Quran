@@ -112,7 +112,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the foremost to embrace Islam of the Muhajirin and the Ansar and also those who followed them exactly (in faith). The verse before this (99) carried a description of sincere and true Muslims among the Bedouins of the desert.
+Some consider ` the first and foremost' from among the noble Companions to be those who have offered their Salah by turning to both the Qiblahs, that is, those who had embraced Islam before the change of Qiblab were ` the first and foremost.' This is the view of Said ibn almusayyab and Qatadah.
 
 ## Tafsir Ibn Kathir
 

@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have they not observed things that Allah has created: (how) their shadows shift from right to left, prostrating to Allah while they are humble (48)And to Allah prostrate all that are in the heavens and all that are in the earth, the moving creatures and the angels, and they are not proud [i.e. Even the Punishment of the World is Mercy in Disguise In the verses cited above, after having mentioned various punishments which could seize disbelievers within this world, it was said in the end: فَإِنَّ رَ‌بَّكُمْ لَرَ‌ءُوفٌ رَّ‌حِيمٌ (So, indeed your Lord is Very Kind Very Merciful).
+Have they not observed things that Allah has created: (how) their shadows shift from right to left, prostrating to Allah while they are humble (48)And to Allah prostrate all that are in the heavens and all that are in the earth, the moving creatures and the angels, and they are not proud [i.e. He tells us that everything that has a shadow leaning to the right and the left, i.e., in the morning and the evening, is by its shadow, prostrating to Allah.
 
 ## Tafsir Ibn Kathir
 

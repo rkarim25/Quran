@@ -48,7 +48,7 @@ It is revealed in this verse that the infidels will lie on the Day of Resurrecti
 
 ## Tafsir Summary
 
-And on the Day that the Hour will be established, the criminals will swear that they stayed not but an hour – thus were they ever deluded (55)And those who have been bestowed with knowledge and Faith will say: "Indeed you have stayed according to the decree of Allah, until the Day of Resurrection; so this is the Day of Resurrection, but you knew not.
+If it were possible to speak a lie, he would have said ` Allah is my Lord' and ` Muhammad is His Prophet ﷺ .' It looks rather strange that infidels are capable of speaking lies before Allah Ta’ ala, but not before the angels.
 
 ## Tafsir Ibn Kathir
 

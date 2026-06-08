@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Similar to the behavior of the people of Fir'awn, and of those before them – they rejected the Ayat of Allah, so Allah punished them for their sins. The third verse (52) tells us that the punishment of Allah visiting these criminals is not something totally unprecedented.
+Now, if a person or a people were to close their eyes to all these things, give no ear to any of these Divine warnings, then, for such people, there is the inevitable practice of Allah Ta` ala: That they are visited by punishment in this world too, and that they are subjected to the everlasting punishment of the Hereafter as well.
 
 ## Tafsir Ibn Kathir
 

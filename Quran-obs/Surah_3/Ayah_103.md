@@ -154,7 +154,7 @@ This was revealed about the Aws and Khazraj. During the time of Jahiliyyah, the 
 
 ## Tafsir Summary
 
-O you who believe! The first principle appears in the first of the two verses.
+Activating mutual love and consideration in the hearts of a people is purely a Divine blessing.
 
 ## Tafsir Ibn Kathir
 

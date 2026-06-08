@@ -76,7 +76,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say "This is my way; I invite unto Allah with sure knowledge, I and whosoever follows me. "Say, (you believe it or not) 'This is my way.
+The Messenger's Way Allah orders His Messenger ﷺ to say to mankind and the Jinns that this is his way, meaning, his method, path and Sunnah, concentrating on calling to the testimony that there is no deity worthy of worship except Allah alone without partners.
 
 ## Tafsir Ibn Kathir
 

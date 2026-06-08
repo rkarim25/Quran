@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The chiefs of those who were arrogant among his people said: "We shall certainly drive you out, O Shu'ayb and those who have believed with you from our town, or else you (all) shall return to our religion." He said: "Even though we hate it? When the people of Sayyidna Shu'aib (علیہ السلام) told him: Had you been on the side of truth, believers in you would have been prospering and non-believers in you would have been under punishment.
+Not convinced by his answer, the arrogant chiefs of those people said what is always said by oppressive practitioners of arrogance.
 
 ## Tafsir Ibn Kathir
 

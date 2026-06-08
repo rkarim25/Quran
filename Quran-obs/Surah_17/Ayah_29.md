@@ -64,7 +64,7 @@ In this verse, the Holy Prophet ﷺ is the direct addressee while the entire Mus
 
 ## Tafsir Summary
 
-And let not your hand be tied (like a miser) to your neck, nor overextend it (like a spendthrift), so that you become blameworthy and in severe poverty (29)Truly, your Lord expands the provision for whom He wills and straitens (for whom He wills). The instruction for moderation in spending In this verse, the Holy Prophet ﷺ is the direct addressee while the entire Muslim ummah is being addressed through him.
+And let not your hand be tied (like a miser) to your neck, nor overextend it (like a spendthrift), so that you become blameworthy and in severe poverty (29)Truly, your Lord expands the provision for whom He wills and straitens (for whom He wills).
 
 ## Tafsir Ibn Kathir
 

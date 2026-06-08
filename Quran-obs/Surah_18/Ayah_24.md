@@ -81,7 +81,7 @@ At the beginning of this Surah we discussed the reason why this Ayah was reveale
 
 ## Tafsir Summary
 
-And never say of anything, "I shall do such and such thing tomorrow. Saying 'Insha'Allah' on doing something in the future The background of the revelation of the first two verses has been reported in Lubab from Sayyidna ` Abdullah ibn ` Abbas ؓ in the following manner.
+Al-A'mash was asked, "Did you hear this from Mujahid?" He said, "Layth bin Abi Salim told it to me." The meaning of Ibn 'Abbas' view, that a person may say "If Allah wills", even if it is a year later, is that if he forgets to say it when he makes the oath or when he speaks, and he remembers it later, even a year later, the Sunnah is that he should say it, so that he will still be following the Sunnah of saying "If Allah wills", even if that is after breaking his oath.
 
 ## Tafsir Ibn Kathir
 

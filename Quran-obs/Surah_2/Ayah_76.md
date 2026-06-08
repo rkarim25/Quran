@@ -109,7 +109,7 @@ Do you (faithful believers) covet that they will believe in your religion inspit
 
 ## Tafsir Summary
 
-Do you (faithful believers) covet that they will believe in your religion inspite of the fact that a party of them (Jewish rabbis) used to hear the Word of Allah (the Tawrah), then they used to change it knowingly after… Some of the Jews, seeing the growing power of the Muslims in Madinah and around it, pretended to have accepted Islam.
+Do you (faithful believers) covet that they will believe in your religion inspite of the fact that a party of them (Jewish rabbis) used to hear the Word of Allah (the Tawrah), then they used to change it knowingly after they understood it (75)And when they (Jews) meet those who believe (Muslims), they say, "We believe," but when they meet one another in private, they say, "Shall you (Jews) tell them (Muslims) what Allah has revealed to you that they (Muslims) may argue with y…
 
 ## Tafsir Ibn Kathir
 

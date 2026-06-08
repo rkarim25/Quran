@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(It was said to his son): "O Yahya! سَوِيًّا means healthy.
+Hold fast to the Scripture [the Tawrah].) Means, "Learn the Book with strength." In other words, learn it well, with zeal and studious effort.
 
 ## Tafsir Ibn Kathir
 

@@ -79,7 +79,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They swear by Allah their strongest oaths that if only you would order them, they would leave. Four conditions for success and victory And whoever obeys, Allah and His messenger and has awe of Him and observes Tagwa of Him, then such people are the victorious.
+They swear by Allah their strongest oaths that if only you would order them, they would leave.
 
 ## Tafsir Ibn Kathir
 

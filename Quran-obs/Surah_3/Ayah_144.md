@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Muhammad is no more than a Messenger, and indeed Messengers have passed away before him. Related to the battle of Uhud, these verses recount events which have a particular significance of their own for several reasons.
+this Ayah when the Messenger of Allah ﷺ died.
 
 ## Tafsir Ibn Kathir
 

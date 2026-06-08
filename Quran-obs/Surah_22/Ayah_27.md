@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when We showed Ibrahim the site of the House (saying): "Associate not anything with Me, and sanctify My House for those who circumambulate it, and those who stand up (for prayer), and those who bow and make prostration (in prayer); (26)And proclaim to mankind the Hajj (pilgrimage). The third command given to Sayyidna Ibrahim (علیہ السلام) was أَذِّن فِي النَّاسِ بِالْحَجِّ (Announce among people about the obligation of Hajj - 22:2'7).
+They will come to you on foot and on every lean camel, they will come from every Fajj 'Amiq . From that remote time until today, though thousands of years have elapsed, people come to Baitullah to perform pilgrimage, just as they did in the earliest times.
 
 ## Tafsir Ibn Kathir
 

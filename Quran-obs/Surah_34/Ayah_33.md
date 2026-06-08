@@ -150,7 +150,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who disbelieve say: "We believe not in this Qur'an nor in that which was before it." But if you could see when the wrongdoers are made to stand before their Lord, how they will cast the (blaming) word one to another! That Allah is One and that His power is absolute was the subject in previous verses.
+And We shall put iron collars round the necks of those who disbelieved. How the Disbelievers have agreed in this World to deny the Truth, and how They will dispute with One Another on the Day of Ressurection Allah tells us about the excessive wrongdoing and stubbornness of the disbelievers, and their insistence on not believing in the Holy Qur'an and what it tells them about the Resurrection.
 
 ## Tafsir Ibn Kathir
 

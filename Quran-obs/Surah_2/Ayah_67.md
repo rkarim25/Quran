@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Musa said to his people: "Verily, Allah commands you that you slaughter a cow." They said, "Do you make fun of us?" He said, "I take Allah's refuge from being among Al-Jahilin (the ignorant or the foolish). According to Mirqat, a commentary on Mishkat, a man among the Israelites wanted to marry a girl, but her father refused.
+The next morning, the nephew cried out for revenge, and the people took up their weapons and almost fought each other.
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And mention in the Book, Isma'il. "And mention in the Book (the story of) Isma` il." - 19:54.
+He (Isma'il) is the father of all of the Arabs of the Hijaz because he was true to what he promised.
 
 ## Tafsir Ibn Kathir
 

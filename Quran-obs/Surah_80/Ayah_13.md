@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. فِي صُحُفٍ مُّكَرَّ‌مَةٍ مَّرْ‌فُوعَةٍ مُّطَهَّرَ‌ةٍ (It is [ recorded ] in those scripts [ of the Preserved Tablet ] that are honoured, [ 13] exalted, purified - 14).
+Although it is a single thing, but suhuf, the plural form of sahifah is used because all divine scriptures are written in it, or because the angels copy their scriptures from them. Actually, all of the Qur'an is in honored pages, meaning respected and revered.
 
 ## Tafsir Ibn Kathir
 

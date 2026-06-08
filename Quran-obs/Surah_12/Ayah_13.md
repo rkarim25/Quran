@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He (Ya'qub) said: "Truly, it saddens me that you should take him away. When the brothers of Sayyidna Yusuf (علیہ السلام) requested their father that he should send Yusuf with them on a recreational outing, Sayyidna Ya'qub (علیہ السلام) told them that he did not favour sending him out for two reasons: (1) He remains uncomfortable without him in sight and (2) he apprehends that, in the wilderness out there, it might so happen that they become neglectful at some time and a wolf might eat him up.
+I fear lest a wolf should devour him, while you are careless of him.
 
 ## Tafsir Ibn Kathir
 

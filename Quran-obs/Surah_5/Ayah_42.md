@@ -122,7 +122,7 @@ It was reported that this part of the Ayah was revealed about some Jews who comm
 
 ## Tafsir Summary
 
-(41.
+Those are the ones whose hearts Allah does not want to purify; for them there is a disgrace in this world, and in the Hereafter a great torment.)(42.
 
 ## Tafsir Ibn Kathir
 

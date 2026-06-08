@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah wishes to make clear (what is lawful and what is unlawful) to you, and to show you the ways of those before you, and accept your repentance, and Allah is All-Knower, All-Wise (26)Allah wishes to accept your repenta… Mentioned in the previous verses were details of injunctions.
+Allah wishes to make clear (what is lawful and what is unlawful) to you, and to show you the ways of those before you, and accept your repentance, and Allah is All-Knower, All-Wise (26)Allah wishes to accept your repentance, but those who follow their lusts, wish that you (believers) should deviate tremendously away (from the right path (27)Allah wishes to lighten (the burden) for you; and man was created weak .
 
 ## Tafsir Ibn Kathir
 

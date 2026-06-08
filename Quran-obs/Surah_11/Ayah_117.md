@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-If only there had been among the generations before you persons having wisdom, prohibiting (others) from Fasad (corruption) in the earth, except a few of those whom We saved from among them! It was said in the fourth verse (117) that Allah does not destroy towns and habitations unjustly while people living there are good in their ways, that is, they are believing Muslims.
+Those who did wrong pursued the enjoyment of good things of (this worldly) life, and were criminals (116)And your Lord would never destroy the towns wrongfully, while their people were doers of good . It was said in the fourth verse (117) that Allah does not destroy towns and habitations unjustly while people living there are good in their ways, that is, they are believing Muslims.
 
 ## Tafsir Ibn Kathir
 

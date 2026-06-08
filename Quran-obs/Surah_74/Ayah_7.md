@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَلِرَبِّكَ فَاصْبِرْ ( and for the sake of your Lord, observe patience 74:7) The word sabr literally signifies 'to restrain oneself.
+The word naqur means 'trumpet' and the verb nuqira means 'to blow into the trumpet so that it makes a loud high sound'.
 
 ## Tafsir Ibn Kathir
 

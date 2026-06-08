@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if he had forged a false saying concerning Us (44)We surely would have seized him by his right hand (45)And then We certainly would have cut off Al-Watin from him (46)And none of you could have prevented it from him… And had he forged some statements in Our name, We would have certainly seized him by the right hand, and then severed his life-astery,…(69:44-46) The word taqawwul means 'to forge, fabricate or concoct' and the word watin refers to 'aorta or life-artery'.
+It is possible that the meaning of the pronoun (it) may also refer to the Qur'an, in which case the verse would mean that the Qur'an and belief in it are a cause of anguish for the disbelievers. The foregoing verses refute the outrageous thoughts of the disbelievers.
 
 ## Tafsir Ibn Kathir
 

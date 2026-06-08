@@ -116,7 +116,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Fir'awn) said: "Believe you in him before I give you permission? قَالَ آمَنتُمْ لَهُ قَبْلَ أَنْ آذَنَ لَكُمْ (He [ the Pharaoh ] said, "You have believed in him before I permit you" - 20:71).
+So I will surely cut off your hands and feet on opposite sides, and I will surely crucify you on the trunks of date palms, and you shall surely know which of us can give the severe and more lasting torment. He said he would cut off their hands and feet from opposite sides i.e.
 
 ## Tafsir Ibn Kathir
 

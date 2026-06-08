@@ -58,7 +58,7 @@ The last five verses of Surah Ya Sin were revealed in the background of a partic
 
 ## Tafsir Summary
 
-Does not man see that We have created him from Nutfah. The last five verses of Surah Ya Sin were revealed in the background of a particular event.
+The One Who created man from this weak Nutfah is not unable to re-create him after his death.
 
 ## Tafsir Ibn Kathir
 

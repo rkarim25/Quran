@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Let not the free disposal (and affluence) of the disbelievers throughout the land deceive you (196)A brief enjoyment; then their ultimate abode is Hell; and worst indeed is that place for rest (197)But, for those who hav… Mentioned in verses previous to this were some prayers made by good believers.
+In the second and third verses (196-197), Muslims have been instructed not to be deceived by the apparent affluence and worldwide maneuvering of disbelievers for this is transitory and the punishment which follows in its wake is eternal.
 
 ## Tafsir Ibn Kathir
 

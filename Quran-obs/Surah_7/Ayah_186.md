@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Whomsoever Allah sends astray, none can guide him; and He lets them wander blindly in their transgressions (186) Allah says, those who were destined to be misguided, then none can lead them to guidance, and even if they… The preceding verses spoke of the obstinate ignorance of the disbelievers who rejected the true Faith, despite all the clear signs given to them by Allah.
+Whomsoever Allah sends astray, none can guide him; and He lets them wander blindly in their transgressions . The verse 186 provides him with a consolation saying that whomsoever Allah leaves wandering in his ignorance and lets him go on with his evil deeds can never be guided by any one and Allah leaves him at the mercy of his abject desires.
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And come not near to the orphan's property except to improve it, until he attains the age of full strength. The prohibition of giving weights and measures short: Ruling Regarding the verse: أَوْفُوا الْكَيْلَ إِذَا كِلْتُمْ (And give full measure when you measure - 35), Abu Hayyan says in Tafsir al-Bahr al-Muhit that the responsibility of giving full weight and measure in this verse has been placed on the seller (بَأِع : ba'i`) which tells us that it is the seller who is responsible for weighing, measuring and seeing that it is full as due.
+Verily, the covenant will be questioned about (34)And give full measure when you measure, and weigh with a balance that is straight.
 
 ## Tafsir Ibn Kathir
 

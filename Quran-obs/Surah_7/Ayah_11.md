@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And surely, We created you and then gave you shape; then We told the angels, "Prostrate yourselves to Adam," and they prostrated, except Iblis (Shaytan), he refused to be of those who prostrated (11) Prostration of the A… In the first verse, it was said: وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ ` (And the Weighing on that day is definite).
+Therefore, the Ayah (7:11) refers to Adam, although Allah used the plural in this case, because Adam is the father of all mankind.
 
 ## Tafsir Ibn Kathir
 

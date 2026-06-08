@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do they seek other than the religion of Allah, while to Him submitted all creatures in the heavens and the earth, willingly or unwillingly. The infallibility of the Prophets The verse implies that a person whom Allah invests with the Book, the Wisdom and the power of making decisions, and places him on the great station of prophethood is always faithful to his mission when he communicates the Divine message to people and calls on them to be-come His faithful servants.
+And to Allah prostrate all that is in the heavens and all that is in the earth, of the moving creatures and the angels, and they are not proud.
 
 ## Tafsir Ibn Kathir
 

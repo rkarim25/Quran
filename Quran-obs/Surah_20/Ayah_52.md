@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Fir'awn said: "Who then, O Musa, is the Lord of you two (49)[Musa] said: "Our Lord is He Who gave to each thing its form and nature, then guided it aright. Verse 51 tells us that the Pharaoh had asked the question regarding the end of earlier people.
+He does not forget anything and His Most Exalted knowledge is described as encompassing everything.
 
 ## Tafsir Ibn Kathir
 

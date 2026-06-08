@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (Allah has forgiven) the three who stayed behind, until for them the earth, vast as it is, was straitened and their souls were straitened to them, and they perceived that there is no fleeing from Allah, and no refuge but with Him. Advice to Muslims: Observe Taqwa and be with those true in word and deed This brings us to the last verse: يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّـهَ وَكُونُوا مَعَ الصَّادِقِينَ ﴿119﴾ ( O those who believe, fear Allah, and be in the company of the truthful - 119).
+Verily, Allah is the One Who forgives and accepts repentance, Most Merciful (118)O you who believe!
 
 ## Tafsir Ibn Kathir
 

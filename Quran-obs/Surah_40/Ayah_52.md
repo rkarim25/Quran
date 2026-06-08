@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Victory of the Messengers and the Believers (Verily, We will indeed make victorious Our Messengers and those who believe in this world's life). In the opening statement of verse 51, it was said: إِنَّا لَنَنصُرُ‌ رُ‌سُلَنَا وَالَّذِينَ آمَنُوا فِي الْحَيَاةِ الدُّنْيَا (Surely, We do help Our messengers and those who believe in the worldly life, 40:51).
+The rest were rounded up at the time of the conquest of Makkah, but the Holy Prophet ﷺ let them have their freedom. Then Allah took him (in death), because of his high status and honor, and He established his Companions as his Khalifahs.
 
 ## Tafsir Ibn Kathir
 

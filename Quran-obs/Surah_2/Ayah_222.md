@@ -127,7 +127,7 @@ Ibn Abu Hatim said that Muhammad bin Al-Munkadir narrated that Jabir bin 'Abdull
 
 ## Tafsir Summary
 
-They ask you concerning menstruation. No sexual intercourse during menstruation The basic purpose of these verses is to declare the prohibition of having sexual intercourse with a woman in a state of menstruation.
+Sexual Intercourse with Menstruating Women is prohibited Imam Ahmad recorded that Anas said that the Jews used to avoid their menstruating women, they would not eat, or even mingle with them in the house.
 
 ## Tafsir Ibn Kathir
 

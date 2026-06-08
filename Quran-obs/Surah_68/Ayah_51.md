@@ -60,7 +60,7 @@ Imam Baghawi (رح) and some other commentators have reported another event as b
 
 ## Tafsir Summary
 
-So, wait with patience for the decision of your Lord, and be not like the Companion of the Fish when he cried out (to Us) while he was Makzum (48)Had not a grace from his Lord reached him, he would indeed have been (left… وَإِن يَكَادُ الَّذِينَ كَفَرُ‌وا لَيُزْلِقُونَكَ بِأَبْصَارِ‌هِمْ (And indeed the disbelievers seem to trip you up with their glances when they hear the Reminder, and say, "He is a madman indeed 68:51).
+He was instructed to cast the evil eye on the Messenger of Allah ﷺ so that he would become ill. They therefore decided to secure the services of the particular person who could effectively cast an evil eye.
 
 ## Tafsir Ibn Kathir
 

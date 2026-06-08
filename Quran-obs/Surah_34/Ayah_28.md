@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We have not sent you except as a giver of glad tidings and a warner to all mankind, and most of men know not (28)And they say: "When is this promise if you are truthful? That Allah is One and that His power is absolute was the subject in previous verses.
+That before me, every prophet was sent to his particular people - I have been sent as a prophet to all peoples of the world.
 
 ## Tafsir Ibn Kathir
 

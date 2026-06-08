@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He [Ya'qub] said: "Nay, but your own selves have beguiled you into something. Said in verse 84 was: وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَا أَسَفَىٰ عَلَىٰ يُوسُفَ وَابْيَضَّتْ عَيْنَاهُ مِنَ الْحُزْنِ فَهُوَ كَظِيمٌ :` And he turned away from them and said, "How sad I am about Yusuf' and his eyes turned…
+He was so affected by his disappearance that, during this whole period of his separation from him which has been reported to be forty years in some narrations while eighty in some others, he kept weeping continuously, so much so that he lost his eyesight.
 
 ## Tafsir Ibn Kathir
 

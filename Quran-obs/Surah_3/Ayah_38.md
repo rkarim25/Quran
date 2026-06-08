@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-At that time Zakariyya invoked his Lord, saying: "O my Lord! 1.
+Therefore, marry a woman who is loving and fertile, for I shall compete with other communities on the basis of your numbers. Now when he saw the miracle with his own eyes, he was persuaded for such prayer under the belief that Allah, who can provide a servant with out-of season fruits, would also bless him with an offspring, even in this late age, and so he prayed.
 
 ## Tafsir Ibn Kathir
 

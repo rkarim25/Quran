@@ -62,7 +62,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. What is said in verse وَاتَّبِعْ مَا يُوحَىٰ إِلَيْكَ مِن رَّ‌بِّكَ ۚ إِنَّ اللَّـهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرً‌ا وَاتَّبِعْ مَا يُوحَىٰ إِلَيْكَ مِن رَّ‌بِّكَ ۚ إِنَّ اللَّـهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرً‌ا (And follow what is revealed to you from your Lord.
+And follow that which is revealed to you from your Lord.
 
 ## Tafsir Ibn Kathir
 

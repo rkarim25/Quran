@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He will say: "What number of years did you stay on earth? وَلَا تُكَلِّمُونِ (Do not speak to Me - 23:108).
+Allah tells them how much they wasted in their short lives in this world by failing to obey Allah and worship Him Alone. Out of the five, replies were furnished to four, but in reply to the fifth Allah commanded them not to speak to Him.
 
 ## Tafsir Ibn Kathir
 

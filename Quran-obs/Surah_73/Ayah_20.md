@@ -342,7 +342,7 @@ The verse that abrogates the obligatory nature of tahajjud prayer starts from â€
 
 ## Tafsir Summary
 
-Verily, this is an admonition, therefore whosoever wills, let him take a path to His Lord (19)Verily, your Lord knows that you do stand a little less than two-thirds of the night, or half the night, or a third of the night, and also a party of those with you. The Obligatory Nature of TahaudPrayer Abrogated At the beginning of the Surah, the command 'stand at night (for prayer) ' prescribed the night-prayer for Allah's Messenger ï·º as well as for the general body of Muslims.
+If tahajjud is a nafl prayer for all, then it is not clear why addressing the Holy Prophet the verse adds lak 'for you' as if it is a distinctively voluntary act for the Holy Prophet.
 
 ## Tafsir Ibn Kathir
 

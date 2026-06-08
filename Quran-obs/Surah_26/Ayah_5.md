@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. If We so will, We can send down to them a sign from the sky before which their necks will stay bent in submission.
+And never comes there unto them a Reminder as a recent revelation from the Most Gracious, but they turn away therefrom.)(6. If We will, We could send down to them from the heaven a sign, to which they would bend their necks in humility.)(5.
 
 ## Tafsir Ibn Kathir
 

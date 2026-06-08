@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do they attribute as partners to Allah those who created nothing but they themselves are created (191)No help can they give them, nor can they help themselves (192)And if you call them to guidance, they follow you not. "Surely my protector is Allah who has revealed the Book and who does protect the righteous." The Arabic word ولی rendered here as 'protector' also means helper.
+He is my protector, in this life and the Hereafter, and the protector of every righteous believer after me.
 
 ## Tafsir Ibn Kathir
 

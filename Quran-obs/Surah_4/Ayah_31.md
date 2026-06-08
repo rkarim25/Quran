@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Righteous Deeds: Kaffarah کَفَارَہ of Minor Sins Kaffarah is what makes amends, expiation.
+The distinction between 'kabirah' and 'saghirah', major and minor sins, is made only when these are compared to each other.
 
 ## Tafsir Ibn Kathir
 

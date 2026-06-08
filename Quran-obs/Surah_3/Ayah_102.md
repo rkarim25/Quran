@@ -60,7 +60,7 @@ This was revealed about the Aws and Khazraj. During the time of Jahiliyyah, the 
 
 ## Tafsir Summary
 
-O you who believe! In the previous verses, Muslims were warned that the people of the Book, and others, want them to go astray from the right path so Muslims must remain vigilant of their moves and take steps to counter their anti-Muslim activities.
+The Most Generous Allah has made it His decision that whatever state one lives in, that is what he dies upon and is resurrected upon.
 
 ## Tafsir Ibn Kathir
 

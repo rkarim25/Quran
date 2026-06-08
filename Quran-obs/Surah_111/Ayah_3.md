@@ -26,7 +26,7 @@ The Reason for the Revelation of this Surah and the Arrogance of Abu Lahab towar
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 111:3] سَيَصْلَىٰ نَارً‌ا ذَاتَ لَهَبٍ (He will enter a fire, full of flames.) That is, either on the Day of Judgment or immediately after his death, while in grave, he will be pushed into the blazing fire.
+His wealth and his children will not benefit him!)(3. Therefore, she will be helping to administer his punishment in the fire of Hell on the Day of Judgement.
 
 ## Tafsir Ibn Kathir
 

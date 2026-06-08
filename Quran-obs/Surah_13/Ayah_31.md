@@ -226,7 +226,7 @@ Clear proofs of Islam being the true religion and the Holy Prophet ﷺ being the
 
 ## Tafsir Summary
 
-And if there had been a Qur'an with which mountains could be moved (from their places), or the earth could be cloven asunder, or the dead could be made to speak (it would not have been other than this Qur'an). Clear proofs of Islam being the true religion and the Holy Prophet ﷺ being the true prophet were there before the disbelievers of Makkah.
+Similarly, the talking of inert pebbles in his blessed hands and their recitation of praises for Allah is certainly far greater a miracle than the talking of a dead person brought back to life.
 
 ## Tafsir Ibn Kathir
 

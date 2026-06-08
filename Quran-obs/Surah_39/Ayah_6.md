@@ -157,7 +157,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He has created the heavens and the earth with truth. In verse 6, it was said: وَأَنزَلَ لَكُم مِّنَ الْأَنْعَامِ ثَمَانِيَةَ أَزْوَاجٍ (and sent down for you eight pairs of the cattle.).
+Everyone of you is originally a Nutfah, then he becomes an 'Alaqah, then he becomes a Mudghah, then he is created and becomes flesh and bones and nerves and veins, and the Ruh (soul) is breathed into him, and he becomes another type of creation.
 
 ## Tafsir Ibn Kathir
 

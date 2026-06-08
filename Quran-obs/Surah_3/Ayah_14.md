@@ -108,7 +108,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Beautified for men is the love of things they covet; women, children, Qanatir Al-Muqantarah of gold and silver, branded beautiful horses (Musawwamah), cattle and fertile land. That the hostility of disbelievers should be countered with Jihad against them was the theme in several previous verses.
+This is the same explanation of Mujahid, 'Ikrimah, Sa'id bin Jubayr, 'Abdur-Rahman bin 'Abdullah bin Abza, As-Suddi, Ar-Rabi' bin Anas and Abu Sinan and others. Makhul said the Musawwamah refers to the horse with a white spotted faced, and the horse with white feet.
 
 ## Tafsir Ibn Kathir
 

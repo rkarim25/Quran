@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And has the news of the litigants reached you? In verse 25, it was said: وَإِنَّ لَهُ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَآبٍ (and surely he has a place of nearness in Our presence, and an excellent resort.).
+Those who do their duty in this field should know that the conduct of a person is not to be corrected casually.
 
 ## Tafsir Ibn Kathir
 

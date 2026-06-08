@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those on the right – how (fortunate) will be those on the right (27)(They will be) among Sidri Makhdud (28)And among Talh Mandud (29)And in shade Mamdud (30)And by water flowing constantly (31)And fruit in plenty (32… وَمَاءٍ مَّسْكُوبٍ (...and water, poured forth...56:31) This means the water will be flowing constantly on the surface of the ground.
+And those on the right – how (fortunate) will be those on the right (27)(They will be) among Sidri Makhdud (28)And among Talh Mandud (29)And in shade Mamdud (30)And by water flowing constantly (31)And fruit in plenty (32)Whose supply is not cut off nor are they out of reach (33)And on couches, raised high (34)Verily, We have created them a special creation (35)And made them virgins (36)'Urub, Atrab (37)For those on the right (38)A multitude of those will be from the first gen…
 
 ## Tafsir Ibn Kathir
 

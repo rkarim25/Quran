@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the Dwellers of Al-Aykah, were also wrongdoers (78)So, We took vengeance on them. Aikah means a dense forest.
+Therefore, He is to exact the full return from them of what they have been doing.
 
 ## Tafsir Ibn Kathir
 

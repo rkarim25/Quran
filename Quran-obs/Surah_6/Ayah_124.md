@@ -132,7 +132,7 @@ They said, why was not this Qur'an revealed to a mighty, respectable leader, hon
 
 ## Tafsir Summary
 
-And thus We have set up in every town great ones of its wicked people to plot therein. In the second verse (124), mentioned there is a conversation relating to the same chiefs of the Quraysh.
+But they plot not except against themselves, and they perceive (it) not (123)And when there comes to them a sign they say: "We shall not believe until we receive the like of that which the Messengers of Allah received." Allah knows best with whom to entrust His Message.
 
 ## Tafsir Ibn Kathir
 

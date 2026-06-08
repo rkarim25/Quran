@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And recite to them the news of Nuh. It was said in the last verse (64) that, for the friends of Allah, there is the good news in the worldly life and in the Hereafter.
+And I have been commanded to be of the Muslims.) I submit to Islam. You have indeed bestowed on me of the sovereignty, and taught me something of the interpretation of dreams – the (Only) Creator of the heavens and the earth!
 
 ## Tafsir Ibn Kathir
 

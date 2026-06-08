@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And come not near to the orphan's property except to improve it, until he attains the age of full strength. Mentioned in the two verses cited above, there are three injunctions: the ninth, the tenth and the eleventh.
+And come not near to the orphan's property except to improve it, until he attains the age of full strength. And this pattern of management is to continue until such time when the orphaned children grow up and become capable of protecting their property themselves - the lower limit is when they attain to the age of fifteen years while the higher is eighteen years.
 
 ## Tafsir Ibn Kathir
 

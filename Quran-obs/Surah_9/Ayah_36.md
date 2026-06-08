@@ -158,7 +158,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, the number of months with Allah is twelve months (in a year), so was it ordained by Allah on the Day when He created the heavens and the earth; of them four are sacred. Mentioned in the previous verses were the errors and misdeeds of disbelievers and Mushriks who persisted with their disbelief and kept associating others in the pristine divinity of Allah.
+Verily, the number of months with Allah is twelve months (in a year), so was it ordained by Allah on the Day when He created the heavens and the earth; of them four are sacred.
 
 ## Tafsir Ibn Kathir
 

@@ -72,7 +72,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who disbelieve, neither their properties nor their offspring will avail them whatsoever against Allah; and it is they who will be fuel of the Fire (10)Like the behavior of the people of Fir'awn and those before them; they belied Our Ayat. The text now shifts from the verbal confrontation with disbelievers on the warnings about the coming physical encounter as pointed out in verse 12 - 'You shall soon be overcome (by Muslims) ' while the verses earlier (10 and 11) serve as the introduction.
+Verily, those who disbelieve, neither their properties nor their offspring will avail them whatsoever against Allah; and it is they who will be fuel of the Fire (10)Like the behavior of the people of Fir'awn and those before them; they belied Our Ayat.
 
 ## Tafsir Ibn Kathir
 

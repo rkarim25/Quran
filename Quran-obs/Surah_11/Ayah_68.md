@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And O my people! According to Tafsir al-Qurtubi, these three days were Thursday, Friday and Saturday.
+Commentator al-Qurtubi has said that there is no contradiction here.
 
 ## Tafsir Ibn Kathir
 

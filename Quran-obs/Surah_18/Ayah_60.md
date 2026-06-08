@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Musa said to his boy-servant: "I will not give up until I reach the junction of the two seas or a Huqub passes. In the description of this event referred to in: وَإِذْ قَالَ مُوسَىٰ لِفَتَاهُ (And when Musa said to his young man), the opening sentence of verse 60, 'Musa' means the famous prophet, Musa son of 'Imran (علیہ السلام) .
+So Allah revealed to him: "At the junction of the two seas there is a servant of Ours who is more learned than you." Musa asked, "O my Lord, how can I meet him?" Allah said, "Take a fish and put it in a vessel and then set out, and where you lose the fish, you will find him." So Musa took a fish, put it in a vessel and set out, along with his boy-servant Yusha' bin Nun, peace be upon him, till they reached a rock (on which) they both lay down their heads and slept.
 
 ## Tafsir Ibn Kathir
 

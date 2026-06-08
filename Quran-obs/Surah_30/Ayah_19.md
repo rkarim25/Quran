@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So glorify Allah, when you enter the evening, and when you enter the morning (17)And His is all the praise in the heavens and the earth; and in 'Ashiyya and when Tuẓhirūn (18)He brings out the living from the dead, and brings out the dead from the living. So, proclaim Allah's purity when you see the evening and when you see the morning.
+He brings out the living from the dead and brings out the dead from the living, and gives life to the land after it is dead.
 
 ## Tafsir Ibn Kathir
 

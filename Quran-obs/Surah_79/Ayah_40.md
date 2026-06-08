@@ -43,7 +43,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But when there comes the Greatest Catastroph (34)The Day when man shall remember what he strove for (35)And Hell shall be made apparent for whoever sees (36)Then for him who transgresse (37)And preferred the life of this… Thereafter, the special marks of the inmates of Paradise are described.
+The complement to this level is that one abstains from doubtful things and those acts that are permissible in themselves, but there is apprehension that if committed, they may lead one to slip into impermissible acts.
 
 ## Tafsir Ibn Kathir
 

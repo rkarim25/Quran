@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when We decide to destroy a town (population), Amarna those who live luxuriously. Previous verses said that it is the customary practice of Allah Ta` ala that he does not send punishment upon a people until the commandments of Allah reach them through the blessed prophets which they still refuse to obey.
+Given in the verses cited above is what happens on the other side when the messages of Allah and His Messenger do reach a people and they still show contumacy, then, a mass punishment is sent over them.
 
 ## Tafsir Ibn Kathir
 

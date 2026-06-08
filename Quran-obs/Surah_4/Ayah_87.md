@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then fight in the cause of Allah, you are not tasked (held responsible) except for yourself, and incite the believers (to fight along with you), it may be that Allah will restrain the evil might of the disbelievers. After that comes verse 87 اللَّـهُ لَا إِلَـٰهَ إِلَّا هُوَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ الْقِيَامَةِ لَا رَ‌يْبَ فِيهِ which means that there is no object worthy of worship other than Allah.
+Certainly, Allah is Ever a Careful Account Taker of all things (86)Allah!
 
 ## Tafsir Ibn Kathir
 

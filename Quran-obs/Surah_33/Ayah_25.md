@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Allah drove back those who disbelieved in their rage: they gained no advantage. The second state mentioned here is that of the hypocrites for they had started saying that the promises of Allah and His Rasul ﷺ were a web of deception: إِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِم مَّرَ‌ضٌ مَّا وَعَدَنَا اللَّـهُ وَرَ‌سُولُهُ إِلَّا غُرُ‌ورً‌ا (And (remember) when the hypocrites and those having malady in their hearts were saying, "Allah and His messenger did not promise us but deceitfully; -12).
+This Ayah indicates that there would be a cessation of war between them and Quraysh; after this, the idolators did not attack the Muslims, on the contrary, the Muslims attacked them in their own land.
 
 ## Tafsir Ibn Kathir
 

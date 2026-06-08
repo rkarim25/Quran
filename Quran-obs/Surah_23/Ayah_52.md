@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Messengers! وَإِنَّ هَـٰذِهِ أُمَّتُكُمْ أُمَّةً وَاحِدَةً (And surely this is your creed, a single creed - 23:52).
+Verily, I am Well-Acquainted with what you do (51)And verily, this your religion is one religion, and I am your Lord, so have Taqwa.
 
 ## Tafsir Ibn Kathir
 

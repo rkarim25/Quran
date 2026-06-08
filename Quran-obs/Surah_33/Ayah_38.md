@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-There is no blame on the Prophet in that which Allah has made legal for him. Prefacing an answer to doubts and objections The opening sentence of verse 38: سُنَّةَ اللَّـهِ فِي الَّذِينَ خَلَوْا مِن قَبْلُ ۚ وَكَانَ أَمْرُ‌ اللَّـهِ قَدَرً‌ا مَّقْدُورً‌ا (a customary practice of Allah in the case…
+It has continued to be so in the case of earlier prophets as well, that is, under the dictate of beneficial religious considerations, permission was given for multiple marriages.
 
 ## Tafsir Ibn Kathir
 

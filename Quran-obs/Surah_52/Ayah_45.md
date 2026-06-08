@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if they were to see a piece of the heaven falling down, they would say: "Clouds gathered in heaps! { 1} It refers to the punishments faced by the disbelievers right in this world, like famines and the deterrent defeat in the battle of Badr.
+{ 1} It refers to the punishments faced by the disbelievers right in this world, like famines and the deterrent defeat in the battle of Badr.
 
 ## Tafsir Ibn Kathir
 

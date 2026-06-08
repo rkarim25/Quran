@@ -123,7 +123,7 @@ When Islam came, drinking was common practice as part of the general state of Ja
 
 ## Tafsir Summary
 
-They ask you (O Muhammad ﷺ) concerning alcoholic drink and gambling. This verse forms part of the series of questions asked by the noble Companions.
+To begin with, gambling is harmful because the addicted gambler comes to be deprived of the very habit of earning his livelihood, because he always keeps dreaming that he will simply sit and grab what belongs to the other person in no time through a bet, specially so as it involves no hard work.
 
 ## Tafsir Ibn Kathir
 

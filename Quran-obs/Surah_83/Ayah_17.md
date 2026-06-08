@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nay! إِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ (No!
+But on their hearts is the Ran (covering) which they used to earn.) meaning, the matter is not as they claim, nor as they say: "Verily, this Qur'an is tales of the ancients." Rather, it is the Word of Allah, His inspiration and His revelation to His Messenger ﷺ.
 
 ## Tafsir Ibn Kathir
 

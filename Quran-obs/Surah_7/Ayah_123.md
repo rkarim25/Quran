@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Fir'awn said: "You have believed in him [Musa] before I gave you permission. The foregoing verses had a detailed account of the contest between the prophet Musa (علیہ السلام) and the sorcerers and that after their defeat the sorcerers declared their faith in Allah.
+He turned it into a political issue by saying, "So that you may expel its people from there." He wanted to make his people believe that they planned the whole matter to gain power over the country and expel the people from there. Surely, this is a plot which you have plotted in the city to drive out its people, but you shall come to know.
 
 ## Tafsir Ibn Kathir
 

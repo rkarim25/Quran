@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And a sign for them is the night. The text now turns to: وَالْقَمَرَ‌ قَدَّرْ‌نَاهُ مَنَازِلَ حَتَّىٰ عَادَ كَالْعُرْ‌جُونِ الْقَدِيمِ (And for the moon, We have appointed measured phases, until it turned [ pale, curved and fine ] like an old branch of date-palm.- 36:39).
+That is the decree of the Almighty, the All-Knowing (38)And the moon, We have decreed for it stages, till it returns like the old dried curved date stalk (39)It is not for the sun to overtake the moon, nor does the night outstrip the day.
 
 ## Tafsir Ibn Kathir
 

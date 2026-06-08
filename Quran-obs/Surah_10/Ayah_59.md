@@ -95,7 +95,7 @@ Ibn 'Abbas, Mujahid, Ad-Dahhak, Qatadah, 'Abdur-Rahman bin Zayd bin Aslam and ot
 
 ## Tafsir Summary
 
-Say: "Tell me, what provision Allah has sent down to you! In the third verse (59), warning has been given to people who introduce their personal opinion in the serious matter of Halal (lawful) and Haram (unlawful).
+And you have made of it lawful and unlawful." Say: "Has Allah permitted you (to do so), or do you invent a lie against Allah (59)And what think those who invent a lie against Allah, on the Day of Resurrection Truly,Allah is full of bounty to mankind, but most of them are ungrateful . Allah criticized those who make lawful what Allah has made unlawful or vice verse.
 
 ## Tafsir Ibn Kathir
 

@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah has set a seal on their hearts and on their hearing, and on their eyes there is a covering. Favour withdrawn by Allah is a punishment These two verses tell us that the other world is the place where one would receive the real punishment for one's disbelief or for some of one's sins.
+In delineating such a situation certain elders have remarked that one punishment for an evil deed is another evil deed which comes after, and one reward for a good deed is another good deed which comes after.
 
 ## Tafsir Ibn Kathir
 

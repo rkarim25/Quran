@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Sulayman) said: "We shall see whether you speak the truth or you are (one) of the liars. Some rules of writing letters It is from Sulaiman and it is (in the following words:) With the name of Allah, the All-Merciful, the Very-Merciful.
+How did he write the name of the addressee, it is not mentioned in the Qur'an.
 
 ## Tafsir Ibn Kathir
 

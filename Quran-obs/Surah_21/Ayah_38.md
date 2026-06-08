@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "When will this promise (come to pass), if you are truthful. خُلِقَ الْإِنسَانُ مِنْ عَجَلٍ (Man is made of haste.
+The word is used in situations when one desires things to happen before their time, and this trait is bad by its very nature.
 
 ## Tafsir Ibn Kathir
 

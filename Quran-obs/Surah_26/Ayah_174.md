@@ -38,7 +38,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Go you in unto the males of Al-'Alamin (people), (165)"And leave those whom Allah has created for you to be your wives? and subjected them to a terrible rain.
+Lut's Denunciation of His People's Deeds, Their Response and Their Punishment The Prophet of Allah forbade them from committing evil deeds and intercourse with males, and he taught them that they should have intercourse with their wives whom Allah had created for them.
 
 ## Tafsir Ibn Kathir
 

@@ -22,7 +22,7 @@ And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and 
 
 ## Tafsir Summary
 
-And indeed We tried before them Fir'awn's people, when there came to them a noble Messenger (17)Saying: "Deliver to me the servants of Allah. وَاتْرُ‌كِ الْبَحْرَ‌ رَ‌هْوًا "And leave the sea in the state of stillness; (44:24) " The word rahwan means 'to be still/calm/motionless'.
+And green crops) this refers to rivers and wells. This refers to the clear signs and definitive evidence with which Allah sent him.
 
 ## Tafsir Ibn Kathir
 

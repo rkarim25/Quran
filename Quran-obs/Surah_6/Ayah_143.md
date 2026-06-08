@@ -108,7 +108,7 @@ Tafsir authority, Ibn Kathir, in his Tafsir and Ibn al-Arabi in Ahkam al-Qur'an 
 
 ## Tafsir Summary
 
-Eight pairs: of the sheep two (male and female), and of the goats two (male and female). Mentioned in the previous verses was how astray the disbelievers of Makkah had gone when they had taken their self-carved, lifeless, insensate idols as partners in the Divinity of Allah as they made them share in animals created by Him and in many other blessings which were bestowed on them.
+This is a phenomenon which compels even a man of ordinary insight to realize and accept that the Power and Being that created them is a Being beyond the parameters of comprehension, the measure of whose knowledge and wisdom cannot even be imagined by human beings.
 
 ## Tafsir Ibn Kathir
 

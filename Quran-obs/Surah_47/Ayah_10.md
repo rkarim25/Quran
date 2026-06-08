@@ -77,7 +77,7 @@ Ibn 'Abbas then said, "The worst of enemies is he who transgresses against Allah
 
 ## Tafsir Summary
 
-Have they not traveled through the earth and seen what happened in the end to those before them? وَلِلْكَافِرِ‌ينَ أَمْثَالُهَا (And [ ready ] for [ these ] disbelievers are the likes thereof.
+Allah destroyed them completely, and a similar (awaits) the disbelievers (10)That is because Allah is the Protector of those who believe, whereas the disbelievers have no protector (11)Certainly Allah will admit those who believe and do righteous good deeds, into Gardens under which rivers flow (Paradise); while those who disbelieve enjoy their life and eat as cattle eat; but the Fire will be their abode (12)And how many a town mightier than your town that has driven you out…
 
 ## Tafsir Ibn Kathir
 

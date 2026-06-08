@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The First Surah in which a Prostration is revealed Al-Bukhari recorded that 'Abdullah [bin Mas'ud] said, "Surat An-Najm was the first Surah in which a prostration was revealed. مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ (your companion [ the Holy Prophet ﷺ ] has neither missed the way, nor did he deviate.
+Your companion has neither gone astray nor has he erred.)(3. He is neither led astray, such as in the case of the ignorant who does not proceed on any path with knowledge, nor is he one who erred, such as in the case of the knowledgeable, who knows the Truth, yet deviates from it intentionally to something else.
 
 ## Tafsir Ibn Kathir
 

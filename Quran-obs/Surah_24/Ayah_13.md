@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Why then, did not the believers, men and women, when you heard it, think good of their own people and say: "This is an obvious lie? Why did they (the accusers) not bring four witnesses to prove this?
+So, if a person relates such an incident without the support of four witnesses claiming that he is doing it with the intent of reforming the society and.
 
 ## Tafsir Ibn Kathir
 

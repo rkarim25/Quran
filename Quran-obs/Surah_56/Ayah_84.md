@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then why do you not (intervene) when it reaches Al-Hulqum (83)And you at the moment are looking (84)But We are nearer to him than you, but you see not (85)Then why do you not – if you are not Madini (86)Return the soul,… In the current verse the word is used in the sense of hypocrisy and rejection of Allah's verses carelessly.
+In the current verse the word is used in the sense of hypocrisy and rejection of Allah's verses carelessly. So, if you are not going to be recompensed [ in the Hereafter for your deeds ], then why do you not bring the soul back, if you are truthful?...56:83-87) The preceding verses proved two facts through rational arguments and by swearing an oath by the falling stars: [ 1] that the Holy Qur'an-is the word of Allah.
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Blessed be He Who has placed in the heaven Al-Buruj, and has placed therein a great lamp, and a moon giving light (61)And He it is Who has put the night and the day in succession (Khilfatan), for such who desires to reme… Glorious is the One who made stellar formations in the sky and placed therein a lamp (sun) and a bright moon.
+Blessed be He Who has placed in the heaven Al-Buruj, and has placed therein a great lamp, and a moon giving light (61)And He it is Who has put the night and the day in succession (Khilfatan), for such who desires to remember or desires to show his gratitude .
 
 ## Tafsir Ibn Kathir
 

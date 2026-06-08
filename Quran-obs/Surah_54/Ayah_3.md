@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Hadith of Abu Waqid preceded, in which it is mentioned that the Messenger of Allah ﷺ would recite Surah Qaf (chapter 53) and Iqtarabat As-Sa'ah (Al-Qamar, chapter 54), during (the 'Id Prayers of) Al-Adha and Al-Fitr. وَكُلُّ أَمْرٍ‌ مُّسْتَقِرٌّ‌ (...while every matter has to be settled....54:3).
+The Prophet ﷺ used to recite these two Surahs during major gatherings and occasions because they contain Allah's promises and warnings, and information about the origin of creation, Resurrection, Tawhid, the affirmation of prophethood, and so forth among the great objectives.
 
 ## Tafsir Ibn Kathir
 

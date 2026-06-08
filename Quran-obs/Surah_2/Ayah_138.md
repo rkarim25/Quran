@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So if they believe in the like of that which you believe then they are rightly guided; but if they turn away, then they are only in opposition. Verse 138 delineates Islam as the "colouring of Allah", and explains this "colouring" as the unalloyed worship of Allah and total submission to Him.
+The Colour of Allah Verse 138 delineates Islam as the "colouring of Allah", and explains this "colouring" as the unalloyed worship of Allah and total submission to Him.
 
 ## Tafsir Ibn Kathir
 

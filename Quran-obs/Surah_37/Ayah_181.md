@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Glorified be your Lord, the Lord of Al-'Izzah! Surah As-Saffat has been concluded on these verses, and the truth of the matter is that it would take volumes to explain this beautiful finale.
+And Salam (peace!) be on the Messengers! Because Tasbih (glorification) implies a declaration of being free from all shortcomings, the two ideas appear together here and in many places in the Qur'an.
 
 ## Tafsir Ibn Kathir
 

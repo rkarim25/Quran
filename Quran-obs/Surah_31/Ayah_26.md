@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if you ask them: "Who has created the heavens and the earth," they will certainly say: "Allah." Say: "All the praises and thanks be to Allah!" But most of them know not (25)To Allah belongs whatsoever is in the heavens and the earth. At the beginning of the Surah, the Kafirs and the Mushriks were admonished for still persisting with their Kufr and Shirk despite that they had seen the manifestations of the all-encompassing knowledge and the most perfect power of Allah Ta’ ala.
+And if you ask them: "Who has created the heavens and the earth," they will certainly say: "Allah." Say: "All the praises and thanks be to Allah!" But most of them know not (25)To Allah belongs whatsoever is in the heavens and the earth.
 
 ## Tafsir Ibn Kathir
 

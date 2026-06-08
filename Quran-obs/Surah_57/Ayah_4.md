@@ -156,7 +156,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He it is Who created the heavens and the earth in six Days and then rose (Istawa) over the Throne. وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ (...And He is with you wherever you are, ...57:4) No man is able to comprehend the essential nature of Allah's company or His being with us, though it is absolutely true that He is with us, because no man can exist or do any work without it.
+And He knows whatever there is in the land and in the sea; not a leaf falls, but He knows it.
 
 ## Tafsir Ibn Kathir
 

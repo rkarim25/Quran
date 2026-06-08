@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do they not reflect? The verse no.
+If you do this, it will become clear to you that he is the Messenger of Allah ﷺ in truth and justice.
 
 ## Tafsir Ibn Kathir
 

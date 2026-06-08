@@ -86,7 +86,7 @@ Qatadah and As-Suddi said, "This Ayah was revealed about 'Abdullah bin Ubay. A y
 
 ## Tafsir Summary
 
-And when it is said to them: "Come, so that the Messenger of Allah may ask forgiveness from Allah for you," they twist their heads, and you would see them turning away their faces in pride (5)It is equal to them whether you ask forgiveness or ask not forgiveness for them, Allah will never forgive them. وَإِذَا قِيلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ‌ لَكُمْ رَ‌سُولُ اللَّـهِ (And when it is said to them, “ Come on, and Allah’ s Messenger will pray for your forgiveness”…63:5).
+And when it is said to them: "Come, so that the Messenger of Allah may ask forgiveness from Allah for you," they twist their heads, and you would see them turning away their faces in pride (5)It is equal to them whether you ask forgiveness or ask not forgiveness for them, Allah will never forgive them. The above verses were revealed on this occasion, which make plain that he has no faith, and therefore asking forgiveness for him cannot benefit him in any way.
 
 ## Tafsir Ibn Kathir
 

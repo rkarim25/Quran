@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَالَّذِينَ هُمْ عَلَىٰ صَلَوَاتِهِمْ يُحَافِظُونَ (And who consistently observe their prayers -23:9).
+Those who are faithfully true to their Amanat and to their covenants are Ra'un.)(9.
 
 ## Tafsir Ibn Kathir
 

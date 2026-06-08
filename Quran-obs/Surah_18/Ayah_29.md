@@ -125,7 +125,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And say: "The truth is from your Lord." Then whosoever wills, let him believe; and whosoever wills, let him disbelieve. Da'wah and Tabligh admit of no discrimination Some events have been mentioned in the background of the revelation of the verse: وَاصْبِرْ‌ نَفْسَكَ (And keep yourself content - 28).
+And say: "The truth is from your Lord." Then whosoever wills, let him believe; and whosoever wills, let him disbelieve.
 
 ## Tafsir Ibn Kathir
 

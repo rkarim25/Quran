@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We bestowed aforetime on Ibrahim his guidance, and We were Well-Acquainted with him (51)When he said to his father and his people: "What are these images to which you are devoted? الْفُرْ‌قَانَ وَضِيَاءً وَذِكْرً‌ا لِّلْمُتَّقِينَ (Criterion and light and an advice for the God-fearing - 21:48) The three attributes which belong to Torah are فُرْ‌قَانَ (criterion) which differentiates between right and wrong second is 4 ' (light) which provides light and manifestation of truth to hearts, and the third is ذِکر (advice) which is a source of guidance for the people.
+The point here is that Allah is telling us that He gave guidance to Ibrahim aforetime, i.e., He had already guided him at an early age.
 
 ## Tafsir Ibn Kathir
 

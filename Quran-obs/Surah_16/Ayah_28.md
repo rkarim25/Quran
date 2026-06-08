@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those whose lives the angels take while they are doing wrong to themselves. It will be recalled that, after describing the blessings of Allah and proving that He was unique in the creation of the universe, the text made a pointed reference to how the polytheists chose to stick to their own ways of error.
+The Condition of the Disbeliever during and after Death Allah informs us of the state of the idolators who are doing wrong to themselves when death approaches and the angels come to seize their evil souls. Those whose lives the angels take while they are doing wrong to themselves.
 
 ## Tafsir Ibn Kathir
 

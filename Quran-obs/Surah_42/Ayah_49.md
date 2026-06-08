@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-To Allah belongs the kingdom of the heavens and the earth. The earlier three of the above verses state the end of those people who, as against the virtuous Muslims, remained desirous of the delights and luxuries of this world, instead of caring about the Hereafter.
+To Allah belongs the kingdom of the heavens and the earth. He gives to whomsoever He wills and withholds from whomsoever he wills; none can withhold what He gives, and none can give what He withholds, and He creates whatever He wills.
 
 ## Tafsir Ibn Kathir
 

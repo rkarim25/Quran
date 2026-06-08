@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And he said: "Embark therein: in the Name of Allah will be its (moving) course and its (resting) anchorage. As stated in the second (42) and third (43) verse, when the whole family of Sayyidna Nuh (علیہ السلام) had boarded the ark, a son whose name has been reported as Kin` an (Canaan) was left out.
+Yes, their consciousness and perception are not of a level as given to humankind and others, therefore, by declaring them to be inanimate, they were not obligated with the percepts and injunctions of the Shari'ah. It was also said that the waves rose over the mountains by a height of eighty miles.
 
 ## Tafsir Ibn Kathir
 

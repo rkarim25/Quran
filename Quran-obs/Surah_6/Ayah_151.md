@@ -187,7 +187,7 @@ Ka'b al-Ahbar, an accomplished scholar of the Torah, was a Jew before he became 
 
 ## Tafsir Summary
 
-Say: "Come, I will recite what your Lord has prohibited you from: Join not anything in worship with Him; be kind and dutiful to your parents; kill not your children because of poverty – We provide sustenance for you and for them. Prior to the verses appearing above, for about two to three sections, the recurring theme has been how heedless and ignorant human beings had bypassed the law revealed by the Law Giver and the Creator of whatever there is in the heavens and the earth and, in its place, had taken ancestral and innovated customs as their religion.
+It is relevant in the context because the right of parents due on children was taken up before it - and here, it is the right of children which is due on parents.
 
 ## Tafsir Ibn Kathir
 

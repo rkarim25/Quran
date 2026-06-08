@@ -128,7 +128,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the king said: "Bring him to me." But when the messenger came to him, [Yusuf] said: "Return to your king and ask him, 'What happened to the women who cut their hands Surely, my Lord (Allah) is Well-Aware of their plot.' (50)(The king) said (to the women): "What was your affair when you did seek to seduce Yusuf" The women said: "Allah forbid! When the royal emissary delivered to Sayyidna Yusuf (علیہ السلام) the order of his release and invited him to see the king, he asked him to first have his case investigated through the women who had cut their hands.
+No evil know we against him!" The wife of the 'Aziz said: "Now the truth is manifest (to all); it was I who sought to seduce him, and he is surely of the truthful.
 
 ## Tafsir Ibn Kathir
 

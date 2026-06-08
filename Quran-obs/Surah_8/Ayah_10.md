@@ -80,7 +80,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when you sought help of your Lord and He answered you (saying): "I will help you with a thousand of the angels Murdifin. The fourth verse (10) restates this aspect explicitly by saying: وَمَا جَعَلَهُ اللَّـهُ إِلَّا بُشْرَ‌ىٰ وَلِتَطْمَئِنَّ بِهِ قُلُوبُكُمْ.
+It means: 'Allah has done it only to give you glad tidings and so that your hearts might be at rest thereby.' The number of angels sent to support Muslims in the battle of Badr has been given as one thousand at this place, while in Surah 'Al-` Imran (3:124) the number mentioned is three thousand and five thousand.
 
 ## Tafsir Ibn Kathir
 

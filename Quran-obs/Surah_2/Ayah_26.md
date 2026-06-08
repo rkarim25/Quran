@@ -170,7 +170,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, Allah is not ashamed to set forth a parable even of a mosquito or so much more when it is bigger (or less when it is smaller) than it. In the foregoing verses, it was affirmed that the Holy Qur'an does not admit of any kind of doubt, and that if someone should have a suspicion as to its being the Word of God, he should try to produce even a small Surah comparable to it.
+Verily, Allah is not ashamed to set forth a parable even of a mosquito or so much more when it is bigger (or less when it is smaller) than it.
 
 ## Tafsir Ibn Kathir
 

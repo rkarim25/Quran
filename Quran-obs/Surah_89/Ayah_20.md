@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-As for man, when his Lord tries him by giving him honor and bounties, then he says: "My Lord has honored me. وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا (and love wealth, with an excessive love 89:20).
+The word 'excessive' indicates that love of wealth in itself, in a sober sense, is a natural instinct of man.
 
 ## Tafsir Ibn Kathir
 

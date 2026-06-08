@@ -31,7 +31,7 @@ Are they the Haruriyyah?' He said, 'No, they are the Jews and Christians. As for
 
 ## Tafsir Summary
 
-Say: "Shall We tell you the greatest losers in respect of (their) deeds? Who are those referred to as: الْأَخْسَرِ‌ينَ أَعْمَالًا (The greatest losers in respect of [ their ] deeds - 103)?
+So their works are in vain, and on the Day of Resurrection, We shall assign no weight for them. 'Ali bin Abi Talib, Ad-Dahhak and others said: "They are the Haruriyyah," so this means, that according to 'Ali, may Allah be pleased with him, this Ayah includes the Haruriyyah just as it includes the Jews, the Christians and others.
 
 ## Tafsir Ibn Kathir
 

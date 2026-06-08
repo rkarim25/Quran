@@ -52,7 +52,7 @@ As to how Sabr صبر can save man from all kinds of trouble and pain and resolv
 
 ## Tafsir Summary
 
-O you who believe! As we have already seen, the enemies of Islam have been objecting to the change in the ‘orientation of Qiblah قبلہ ، wishing to produce in the minds of the people doubts about the validity of Islam as a religion.
+If he is tested with a bounty, he is grateful for it and this is better for him; and if he is afflicted with a hardship, he is patient with it and this is better for him.) Allah has stated that the best tools to help ease the effects of the afflictions are patience and prayer.
 
 ## Tafsir Ibn Kathir
 

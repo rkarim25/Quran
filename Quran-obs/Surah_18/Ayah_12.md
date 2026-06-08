@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do you think that the people of Al-Kahf and Ar-Raqim were a wonder among Our signs (9)When the young men fled for refuge to Al-Kahf. People of Kahf: Place and Period Tafsir authority al-Qurtubi of al-Andulus (Spain) has reported some events at this juncture in his Tafsir.
+Then, there is the case of Ibn ` Atiyyah who, despite his personal observation, did not claim that they were the People of Kahf.
 
 ## Tafsir Ibn Kathir
 

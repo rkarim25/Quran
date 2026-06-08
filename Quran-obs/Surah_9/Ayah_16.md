@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do you think that you shall be left alone while Allah has not yet tested those among you who have striven hard and fought, and have not taken Walijah besides Allah and His Messenger, and the believers. 1.
+Truly, there is none who can avert Allah's judgment and decision.
 
 ## Tafsir Ibn Kathir
 

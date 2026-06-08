@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Recitation of Surah Ash-Shams wa Duhaha in the 'Isha' Prayer The Hadith of Jabir which was recorded in the Two Sahihs has already been mentioned. وَالسَّمَاءِ وَمَا بَنَاهَا (and by the sky, and the One who built it...91:5).
+This means that He clarified that for it and He guided it to what has been ordained for him. This means that he makes it dull, and he disregards it by neglecting to allow it to receive guidance.
 
 ## Tafsir Ibn Kathir
 

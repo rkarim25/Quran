@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "O Allah! The second verse (27) demonstrates that Allah controls all spaces and heavenly bodies and employs the sun and the moon to make the days longer than nights and the nights longer than the days at His will and command.
+Verily, You are able to do all things (26)You make the night to enter into the day, and You make the day to enter into the night, You bring the living out of the dead, and You bring the dead out of the living. Mentioned after that is His unrivalled power of 'bringing the living out from the dead' such as, a chick from an egg, or a human infant from the sperm, or a tree from a seed and of 'bringing the dead out from the living' such as eggs from birds and beasts, sperm from hu…
 
 ## Tafsir Ibn Kathir
 

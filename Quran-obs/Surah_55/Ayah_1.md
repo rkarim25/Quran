@@ -16,7 +16,7 @@ This narrative indicates that this Surah was revealed in Makkah, because 'the ni
 
 ## Tafsir Summary
 
-The Introduction to Surat Ar-Rahman Imam Ahmad recorded that Zirr said that a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! Linkage of the Surah and the Wisdom of Repeating the words, 'Which of the bounties of your Lord will you deny?' The preceding Surah Al-Qamar was mainly concerned with some of the rebellious nations of antiquity who were punished for rejecting the Divine Message.
+This narrative indicates that this Surah was revealed in Makkah, because 'the night of the Jinn' refers to the night when the Messenger of Allah ﷺ met the Jinns to convey to them the Message of the Qur'an and impart knowledge to them. The second reason could be to indicate that teaching the Qur'an, which has been mentioned in the next verse as Allah's act, was a sheer gift flowing from Allah's beneficence, and not because this or any other act is obligatory on Allah for which…
 
 ## Tafsir Ibn Kathir
 

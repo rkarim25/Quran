@@ -70,7 +70,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! This has been clarified further in the third verse (53) where it was said that once the hypocricy of the hypocrites has been exposed and the reality behind their claims and oaths of friendship comes out in the open, Muslims would wonder if those were the people who used to assure them with sworn claims of their friendship and there they were all ruined as everything they did just to pretend had gone to waste.
+Then they will become regretful for what they have been keeping as a secret in themselves (52)And those who believe will say: "Are these the men who swore their strongest oaths by Allah that they were with you?" All that they did has been in vain, and they have become the losers .
 
 ## Tafsir Ibn Kathir
 

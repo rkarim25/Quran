@@ -68,7 +68,7 @@ The phrase, "The Truth is from your Lord", can also be interpreted in a general 
 
 ## Tafsir Summary
 
-Those to whom We gave the Scripture (Jews and Christians) recognise him (Muhammad ﷺ or the Ka'bah at Makkah) as they recognize their sons. Verses 144 and 145 have told us how the People of the Book اھل الکتاب knew in their hearts that a divine commandment itself had instituted the Baytullah بیت اللہ as the Qiblah قبلہ of the Muslims, and yet denied this fact in public.
+The phrase, "The Truth is from your Lord", can also be interpreted in a general sense as providing a definition of the nature of truth - namely, that alone is truth which comes from Allah.
 
 ## Tafsir Ibn Kathir
 

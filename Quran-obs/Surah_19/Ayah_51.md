@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And mention in the Book, Musa. كَانَ مُخْلَصًا (Indeed he was a chosen one - 19:51) مُخْلَصً : means a person whom Allah Ta` ala has chosen for himself i.e.
+Verily, he was Mukhlasan and he was a Messenger, (and) a Prophet (51)And We called him from the right side of the Mount (Tur), and made him draw near to Us for a talk with him (52)And We granted him his brother Harun, (also) a Prophet, out of Our mercy .
 
 ## Tafsir Ibn Kathir
 

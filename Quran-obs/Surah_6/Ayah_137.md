@@ -91,7 +91,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And so to many of the idolators, their "partners" have made fair seeming the killing of their children, in order to lead them to their own destruction and cause confusion in their religion. Described in the previous verses were false beliefs of the mushriks of Arabia while the present verses recount their practical errors and ignorant customs.
+And so to many of the idolators, their "partners" have made fair seeming the killing of their children, in order to lead them to their own destruction and cause confusion in their religion. Shaytan Lured the Idolators to Kill Their Children Allah says, just as the Shayatin lured the idolators to assign a share for Allah from what He created of agriculture and cattle - and a share for the idols, they also made it seem fair for them to kill their children, for fear of poverty,…
 
 ## Tafsir Ibn Kathir
 

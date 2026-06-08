@@ -175,7 +175,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Can they who rely on a clear proof from their Lord, and whom a witness from Him recites (follows) it; and before it, came the Book of Musa, a guidance and a mercy, they believe therein, but those of the sects that reject it, the Fire will be their promised meeting place. The word: bayyinah (بینہ) appearing in this verse refers to the Qur'an.
+They made unlawful for them what I had made lawful for them and they commanded them to associate partners with Me, concerning which no authority has been revealed.) Therefore, the believer is one who remains upon this Fitrah.
 
 ## Tafsir Ibn Kathir
 

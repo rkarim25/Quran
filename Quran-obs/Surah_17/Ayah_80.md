@@ -68,7 +68,7 @@ It has been reported in al-Jami` of Tirmidhi from Sayyidna ` Abdullah ibn ` Abba
 
 ## Tafsir Summary
 
-And say: "My Lord! It has been reported in al-Jami` of Tirmidhi from Sayyidna ` Abdullah ibn ` Abbas ؓ that the Holy Prophet ﷺ was in Makkah al-Mu` azzamah.
+And grant me from You a helping authority.") At-Tirmidhi said, "This is Hasan Sahih." Al-Hasan Al-Basri commented on this Ayah, "When the disbelievers of Makkah conspired to kill the Messenger of Allah ﷺ, or expel him or imprison him, Allah wanted him to fight the people of Makkah, and commanded him to go to Al-Madinah.
 
 ## Tafsir Ibn Kathir
 

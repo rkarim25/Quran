@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Messengers! فَتَقَطَّعُوا أَمْرَهُم بَيْنَهُمْ زُبُرًا But they split up ways from one another (dividing themselves) into factions - 23:53).
+Nay, but they perceive not.) means, 'do these deceived people think that what We give them of wealth and children is because they are honored and precious in Our sight?
 
 ## Tafsir Ibn Kathir
 

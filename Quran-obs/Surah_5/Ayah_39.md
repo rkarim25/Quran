@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (as for) the male thief and the female thief, cut off their hands as a recompense for that which both committed, a punishment by way of example from Allah. And whoever repents after his transgression and corrects himself, then Allah shall relent towards him.
+Surely, Allah is Most-Forgiving, Very-Merciful.
 
 ## Tafsir Ibn Kathir
 

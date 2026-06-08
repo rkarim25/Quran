@@ -232,7 +232,7 @@ These events have been narrated by Ibn Jarir on the authority of ` Ikrimah and a
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Mā'idah and When It Was Revealed At-Tirmidhi recorded that 'Abdullah bin 'Amr said, "The last Surahs to be revealed were Surat Al-Ma'idah and Surat Al-Fath (chapter 48)." At-Tirmidhi commented, "T… The first verse of Surah al-Ma'idah emphasized the fulfillment of contracts.
+The tiny morsel of food which reaches your mouth is the result of the combined contribution of millions of machines, animals and human beings - and it is only after that, that you have been able to pamper your palate.
 
 ## Tafsir Ibn Kathir
 

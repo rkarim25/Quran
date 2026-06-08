@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat As-Saffat An-Nasa'i recorded that 'Abdullah bin 'Umar, may Allah be pleased with him, said, "The Messenger of Allah ﷺ used to command us to make our prayers short and he used to recite As-Saffat when he lead us in prayer." This was recorded by An-Nasa'i only. It was said: رَّ‌بُّ السَّمَاوَاتِ وَالْأَرْ‌ضِ وَمَا بَيْنَهُمَا وَرَ‌بُّ الْمَشَارِ‌قِ (the Lord of the heavens and the earth and what is between them, and Lord of the points of the sunrise.
+Verily, your God is indeed One;)(5. Mentioning the east is sufficient and there is no need for the west to be mentioned too, because it is implied in what is said.
 
 ## Tafsir Ibn Kathir
 

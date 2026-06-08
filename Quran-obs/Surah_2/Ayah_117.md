@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they (Jews, Christians and pagans) say: Allah has begotten a son (children or offspring). As the Holy Qur'an reports in some other verses, some of the Jews called the Prophet Uzayr (علیہ السلام) (Ezra) the son of God, as did the Christians in the case of Sayyidna ` Isa (Jesus علیہ السلام)~ and most of them still do, while the mushrikin مشرکین of Makkah considered the angels to be the daughters of God.
+Whereby the heavens are almost torn, and the earth is split asunder, and the mountains fall in ruins.
 
 ## Tafsir Ibn Kathir
 

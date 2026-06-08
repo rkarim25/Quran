@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. قُلْ مَا يَعْبَأُ بِكُمْ رَ‌بِّي لَوْلَا دُعَاؤُكُمْ (Say (0 Prophet) My Lord will never care about you, if you will not invoke Him - 25:77).
+Then Allah tells those who dared to oppose His Messenger ﷺ and disbelieve in His Book, that He is the Subduer, the Almighty, the All-Powerful, Who created the earth and caused every good kind of crop, fruit and animal to grow therein.
 
 ## Tafsir Ibn Kathir
 

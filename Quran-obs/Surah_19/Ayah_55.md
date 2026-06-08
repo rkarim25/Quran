@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And mention in the Book, Isma'il. A reformer must begin his mission with his own family "And he used to bid Salah and Zakah to his family." - 19:55.
+The most effective means for bringing about an improvement in the character of the people is by creating a religious environment.
 
 ## Tafsir Ibn Kathir
 

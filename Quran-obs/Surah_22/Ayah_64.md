@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-See you not that Allah sends down water from the sky, and then the earth becomes green? In an earlier verse it has been mentioned that Allah Ta’ ala helps those who are wronged unjustly وَإِنَّ اللَّـهَ عَلَىٰ نَصْرِ‌هِمْ لَقَدِيرٌ‌ (Allah is powerful to give them victory - 22:39) Some people bear their sufferings patiently and do not seek vengeance from their oppressors, but there are others who retaliate and serve a full measure of retribution on their oppressors which should, therefore, place them both on even terms as being quits.
+Verily, Allah is the Most Kind and Courteous, Well-Acquainted with all things (63)To Him belongs all that is in the heavens and all that is on the earth.
 
 ## Tafsir Ibn Kathir
 

@@ -84,7 +84,7 @@ Say: "I don't tell you that with me are the treasures of Allah, nor (that) I kno
 
 ## Tafsir Summary
 
-Say: "I don't tell you that with me are the treasures of Allah, nor (that) I know the Unseen; nor do I tell you that I am an angel. The Demand of Miracles from the Holy Prophet Many miracles and signs of Allah had already appeared before the disbelievers (Kuffar) of Makkah.
+But, they have to know that there is a customary practice of Allah in this matter.
 
 ## Tafsir Ibn Kathir
 

@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah does not like that the evil should be uttered in public except by him who has been wronged. The purpose in previous verses was to point out to some ugly traits of the hypocrites, though their punishment of being in Hell with disbelievers was also mentioned as a corollary to another subject.
+And Allah is Ever All-Hearer, All-Knower (148)Whether you disclose a good deed or conceal it, or pardon an evil, verily, Allah is Ever Pardoning, All-Powerful .
 
 ## Tafsir Ibn Kathir
 

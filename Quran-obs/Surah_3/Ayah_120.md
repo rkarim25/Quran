@@ -95,7 +95,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! The mentality of disbelievers has been further clarified by saying: إِن تَمْسَسْكُمْ حَسَنَةٌ in the first part of verse 120 which has been translated as, 'if something good happens to you, it annoys them and if something evil befalls you, they are delighted with it.' How can Muslims remain protected against the aftermath of sinister moves of the hypocrites and the deadly hostility of opponents?
+Surely, Allah is All-Encompassing of what they do.
 
 ## Tafsir Ibn Kathir
 

@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when they advanced to meet Jalut (Goliath) and his forces, they invoked: "Our Lord! Since the affirmation of the prophethood of the noble Messenger of Allah is also a major objective of the Holy Qur'an, it has been so asserted as and when the occasion warrants.
+But Allah is full of bounty to the 'Alamin (mankind, Jinn and all that exists)(251)These are the verses of Allah, We recite them to you (O Muhammad ﷺ) in truth, and surely, you are one of the Messengers (of Allah). It is being said here that these verses in which this event has been mentioned 'are the verses of Allah that We recite to you with all veracity' and this proves that you are certainly among the Messengers.'
 
 ## Tafsir Ibn Kathir
 

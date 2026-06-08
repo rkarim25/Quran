@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And O my people! After having given this good counsel to them, he warned them of the punishment of Allah Ta` ala.
+Let not my Shiqaq cause you to suffer the fate similar to that of the people of Nuh or of Hud or of Salih, and the people of Lut are not far off from you!
 
 ## Tafsir Ibn Kathir
 

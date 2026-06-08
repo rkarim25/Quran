@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We have fastened every man's Ta'irah (deeds) to his neck, and on the Day of Resurrection, We shall bring out for him a Book which he will find wide open (13)(It will be said to him): "Read your Book. The sense of the book of deeds tied to the neck It means that one's book of deed stays with the doer no matter where or in whatever condition one is.
+Everyone will be able to read his Book, whether he is literate or illiterate.
 
 ## Tafsir Ibn Kathir
 

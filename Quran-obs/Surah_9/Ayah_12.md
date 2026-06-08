@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But if they violate their oaths after their covenant, and attack your religion with disapproval and criticism, then fight (you) against the leaders of disbelief – for surely, their oaths are nothing to them – so that the… It will be recalled that a cease-fire agreement with the Quraysh of Makkah was concluded at Hudaibiyah in the Hijrah year 6.
+Honest critical study of Islam by Protected Non-Muslim Citizens of Dar al-Islam is possible - vilification is not Some commentators have interpreted the words: (speak evil of your faith) to mean that speaking evil of the Faith of Muslims is included under contravention of pledge.
 
 ## Tafsir Ibn Kathir
 

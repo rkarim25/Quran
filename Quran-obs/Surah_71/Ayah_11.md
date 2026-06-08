@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: O my Lord! يَغْفِرْ‌ لَكُم مِّن ذُنُوبِكُمْ and Allah will forgive you your sins, 71:4).
+This means that He will give you more wealth, more children and gardens with various types of fruits. He made each one of them in a set manner with a distinct quality so that the night and day may be known.
 
 ## Tafsir Ibn Kathir
 

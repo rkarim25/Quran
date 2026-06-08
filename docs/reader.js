@@ -1,8 +1,9 @@
-const cache = { index: null, surahs: {} };
+const cache = { index: null, surahs: {}, pristine: {} };
 const LS = {
   lastRead: "quran-last-read",
   bookmarks: "quran-bookmarks",
   prefs: "quran-prefs",
+  myWork: "quran-my-work",
   ayahEdits: (s, a) => `quran-${s}-${a}`,
 };
 
@@ -18,9 +19,9 @@ const prefs = loadPrefs();
 
 function loadPrefs() {
   try {
-    return { showTranslation: true, fontScale: 1, activePanel: "reflection", ...JSON.parse(localStorage.getItem(LS.prefs) || "{}") };
+    return { showTranslation: true, showAiTranslation: false, fontScale: 1, activePanel: "reflection", ...JSON.parse(localStorage.getItem(LS.prefs) || "{}") };
   } catch {
-    return { showTranslation: true, fontScale: 1, activePanel: "reflection" };
+    return { showTranslation: true, showAiTranslation: false, fontScale: 1, activePanel: "reflection" };
   }
 }
 
@@ -67,16 +68,116 @@ async function checkSync() {
     if (res.ok) {
       canSync = true;
       const badge = document.getElementById("sync-badge");
-      badge.hidden = false;
-      badge.textContent = "Sync on";
-      badge.classList.remove("readonly");
+      if (badge) {
+        badge.hidden = false;
+        badge.textContent = "Sync on";
+        badge.classList.remove("readonly");
+      }
       return;
     }
   } catch (_) {}
+  canSync = false;
   const badge = document.getElementById("sync-badge");
-  badge.hidden = false;
-  badge.textContent = "Read-only";
-  badge.classList.add("readonly");
+  if (badge) badge.hidden = true;
+}
+
+function getMyWork() {
+  try {
+    return JSON.parse(localStorage.getItem(LS.myWork) || "{}");
+  } catch {
+    return {};
+  }
+}
+
+function workKey(surah, ayah) {
+  return `${surah}:${ayah}`;
+}
+
+function hasTadabbur(data) {
+  return !!(data.personal_reflections && data.personal_reflections.trim());
+}
+
+function hasMeaningEdits(original, edited) {
+  if (!original || !edited) return false;
+  if ((edited.translation || "") !== (original.translation || "")) return true;
+  const ow = original.word_by_word || {};
+  const ew = edited.word_by_word || {};
+  for (const k of new Set([...Object.keys(ow), ...Object.keys(ew)])) {
+    if ((ow[k]?.translation || "") !== (ew[k]?.translation || "")) return true;
+  }
+  return false;
+}
+
+function meaningEditSummary(original, edited) {
+  const parts = [];
+  if ((edited.translation || "") !== (original.translation || "")) {
+    const t = edited.translation.trim();
+    parts.push(t.length > 72 ? `${t.slice(0, 72)}…` : t);
+  }
+  const ow = original.word_by_word || {};
+  const ew = edited.word_by_word || {};
+  for (const k of Object.keys(ew).sort((a, b) => +a - +b)) {
+    if ((ow[k]?.translation || "") !== (ew[k]?.translation || "")) {
+      const label = ew[k].transliteration || cleanArabic(ew[k].arabic);
+      parts.push(`${label}: ${ew[k].translation}`);
+    }
+  }
+  return parts.slice(0, 2).join(" · ");
+}
+
+function recordMyWork(surahId, ayahNum, edited, surahName) {
+  const original = getOriginalAyah(surahId, ayahNum);
+  if (!original) return;
+  const work = getMyWork();
+  const key = workKey(surahId, ayahNum);
+  const tadabbur = hasTadabbur(edited);
+  const meanings = hasMeaningEdits(original, edited);
+
+  if (!tadabbur && !meanings) {
+    delete work[key];
+  } else {
+    work[key] = {
+      surah: surahId,
+      ayah: ayahNum,
+      surahName,
+      tadabbur,
+      meanings,
+      tadabburSnippet: tadabbur ? edited.personal_reflections.trim().slice(0, 140) : "",
+      meaningSnippet: meanings ? meaningEditSummary(original, edited) : "",
+      at: Date.now(),
+    };
+  }
+  localStorage.setItem(LS.myWork, JSON.stringify(work));
+}
+
+function getMyWorkList(kind) {
+  return Object.values(getMyWork())
+    .filter((e) => e[kind])
+    .sort((a, b) => b.at - a.at);
+}
+
+function getOriginalAyah(surahId, ayahNum) {
+  const pristine = cache.pristine[surahId];
+  if (pristine) return pristine.ayahs.find((a) => a.ayah === ayahNum);
+  return cache.surahs[surahId]?.ayahs.find((a) => a.ayah === ayahNum);
+}
+
+async function rebuildMyWorkIndex() {
+  const index = await loadIndex();
+  const names = Object.fromEntries(index.surahs.map((s) => [s.id, s.translated_name]));
+  for (let i = 0; i < localStorage.length; i++) {
+    const key = localStorage.key(i);
+    const m = key?.match(/^quran-(\d+)-(\d+)$/);
+    if (!m) continue;
+    const surah = +m[1];
+    const ayah = +m[2];
+    try {
+      const edited = JSON.parse(localStorage.getItem(key));
+      await loadSurah(surah);
+      const original = getOriginalAyah(surah, ayah);
+      if (original) recordMyWork(surah, ayah, edited, names[surah] || `Surah ${surah}`);
+    } catch (_) {}
+  }
 }
 
 function route() {
@@ -84,8 +185,11 @@ function route() {
   const parts = hash.split("/").filter(Boolean);
   if (!parts.length) return { view: "home" };
   if (parts[0] === "bookmarks") return { view: "bookmarks" };
+  if (parts[0] === "tadabbur") return { view: "tadabbur" };
+  if (parts[0] === "edits") return { view: "edits" };
   if (parts.length === 1) return { view: "surah", surah: +parts[0], ayah: null };
-  return { view: "surah", surah: +parts[0], ayah: +parts[1] };
+  const study = parts[2] === "study";
+  return { view: "surah", surah: +parts[0], ayah: +parts[1], study };
 }
 
 async function loadIndex() {
@@ -94,7 +198,11 @@ async function loadIndex() {
 }
 
 async function loadSurah(n) {
-  if (!cache.surahs[n]) cache.surahs[n] = await (await fetch(`data/surah_${n}.json`)).json();
+  if (!cache.surahs[n]) {
+    const data = await (await fetch(`data/surah_${n}.json`)).json();
+    cache.surahs[n] = data;
+    cache.pristine[n] = JSON.parse(JSON.stringify(data));
+  }
   return cache.surahs[n];
 }
 
@@ -176,10 +284,19 @@ function renderArabicWords(ayah, surahId) {
     .join(" ");
 }
 
+function displayTranslation(ayah) {
+  if (prefs.showAiTranslation && ayah.ai_translation) {
+    return { text: ayah.ai_translation, mode: "ai" };
+  }
+  return { text: ayah.translation || "", mode: "standard" };
+}
+
 function ayahBlock(data, ayah, surahId) {
   const a = mergeLocalEdits(ayah, surahId);
   const bookmarked = isBookmarked(surahId, ayah.ayah);
   const hasReflection = !!(a.personal_reflections && a.personal_reflections.trim());
+  const { text: transText, mode: transMode } = displayTranslation(a);
+  const aiMissing = prefs.showAiTranslation && !ayah.ai_translation;
   return `
     <article class="ayah-block" id="ayah-${surahId}-${ayah.ayah}" data-surah="${surahId}" data-ayah="${ayah.ayah}">
       <div class="ayah-meta">
@@ -198,9 +315,10 @@ function ayahBlock(data, ayah, surahId) {
       <div class="arabic-block">
         <p class="arabic-text">${renderArabicWords(a, surahId)}${ayahMarkerHtml(ayah.ayah, { end: true })}</p>
       </div>
-      <div class="translation-block ${prefs.showTranslation ? "" : "hidden"}">
-        <p class="translation-text">${esc(a.translation)}</p>
-        <button type="button" class="translation-edit-btn" data-action="edit-translation" title="Edit translation" aria-label="Edit translation">✎</button>
+      <div class="translation-block ${prefs.showTranslation ? "" : "hidden"} ${transMode === "ai" ? "ai-mode" : ""}">
+        ${transMode === "ai" ? `<span class="translation-badge">AI Translation</span>` : ""}
+        <p class="translation-text">${esc(aiMissing ? "AI translation coming soon for this ayah." : transText)}</p>
+        ${transMode === "standard" ? `<button type="button" class="translation-edit-btn" data-action="edit-translation" title="Edit translation" aria-label="Edit translation">✎</button>` : ""}
       </div>
     </article>`;
 }
@@ -261,6 +379,7 @@ async function persistAyah(ayahData, statusEl) {
       };
     }
     showSaveStatus(canSync ? "Saved to markdown" : "Saved locally", true, statusEl);
+    recordMyWork(currentSurah.id, ayahData.ayah, ayahData, currentSurah.translated_name);
   } catch (e) {
     showSaveStatus("Save failed", false, statusEl);
     console.error(e);
@@ -593,6 +712,15 @@ function bindSurahEvents() {
     document.querySelectorAll(".translation-block").forEach((el) => el.classList.toggle("hidden", !prefs.showTranslation));
   });
 
+  document.getElementById("toggle-ai-translation")?.addEventListener("click", async () => {
+    prefs.showAiTranslation = !prefs.showAiTranslation;
+    if (prefs.showAiTranslation) prefs.showTranslation = true;
+    savePrefs();
+    document.getElementById("toggle-ai-translation")?.classList.toggle("active", prefs.showAiTranslation);
+    document.getElementById("toggle-translation")?.classList.toggle("active", prefs.showTranslation);
+    if (currentSurah) await renderSurah(currentSurah, getLastRead()?.ayah);
+  });
+
   document.getElementById("font-smaller")?.addEventListener("click", () => setFontScale(prefs.fontScale - 0.08));
   document.getElementById("font-larger")?.addEventListener("click", () => setFontScale(prefs.fontScale + 0.08));
 
@@ -815,6 +943,8 @@ function renderHome(surahs) {
   setBreadcrumb("");
   const last = getLastRead();
   const bookmarks = getBookmarks().slice(0, 5);
+  const tadabbur = getMyWorkList("tadabbur").slice(0, 3);
+  const edits = getMyWorkList("meanings").slice(0, 3);
   const lastSurah = last ? surahs.find((s) => s.id === last.surah) : null;
 
   document.getElementById("app").innerHTML = `
@@ -833,6 +963,18 @@ function renderHome(surahs) {
       <h2 class="section-title">Saved ayahs</h2>
       <div class="bookmark-list compact">${bookmarks.map((b) => bookmarkRow(b)).join("")}</div>
       <a href="#/bookmarks" class="see-all">All bookmarks</a>
+    </section>` : ""}
+    ${tadabbur.length ? `
+    <section class="home-section">
+      <h2 class="section-title">My tadabbur</h2>
+      <div class="bookmark-list compact">${tadabbur.map((e) => myWorkRow(e, { study: true })).join("")}</div>
+      <a href="#/tadabbur" class="see-all">All tadabbur</a>
+    </section>` : ""}
+    ${edits.length ? `
+    <section class="home-section">
+      <h2 class="section-title">Edited meanings</h2>
+      <div class="bookmark-list compact">${edits.map((e) => myWorkRow(e)).join("")}</div>
+      <a href="#/edits" class="see-all">All edits</a>
     </section>` : ""}
     <div class="hero">
       <div class="hero-arch" aria-hidden="true"></div>
@@ -873,6 +1015,47 @@ function bookmarkRow(b) {
     </a>`;
 }
 
+function myWorkRow(entry, { study = false } = {}) {
+  const href = study ? `#/${entry.surah}/${entry.ayah}/study` : `#/${entry.surah}/${entry.ayah}`;
+  const snippet = study ? entry.tadabburSnippet : entry.meaningSnippet;
+  return `
+    <a href="${href}" class="bookmark-row my-work-row">
+      <span class="bookmark-ref">${esc(entry.surahName || `Surah ${entry.surah}`)} · Ayah ${entry.ayah}</span>
+      <span class="bookmark-snippet">${esc(snippet || "")}</span>
+    </a>`;
+}
+
+function renderMyWorkPage({ title, subtitle, empty, kind, study = false }) {
+  const list = getMyWorkList(kind);
+  setBreadcrumb(`<a href="#/">Home</a> › ${esc(title)}`);
+  document.getElementById("app").innerHTML = `
+    <div class="hero compact">
+      <h1 class="hero-title-sm">${esc(title)}</h1>
+      ${ornament()}
+      <p class="hero-subtitle">${list.length ? subtitle(list.length) : empty}</p>
+    </div>
+    ${list.length ? `<div class="bookmark-list">${list.map((e) => myWorkRow(e, { study })).join("")}</div>` : `<p class="empty-note center">${empty}</p>`}`;
+}
+
+function renderTadabbur() {
+  renderMyWorkPage({
+    title: "My Tadabbur",
+    subtitle: (n) => `${n} personal note${n === 1 ? "" : "s"} from your reading`,
+    empty: "Open any ayah, tap ☰, and write your tadabbur in the Tadabbur tab.",
+    kind: "tadabbur",
+    study: true,
+  });
+}
+
+function renderEdits() {
+  renderMyWorkPage({
+    title: "Edited Meanings",
+    subtitle: (n) => `${n} ayah${n === 1 ? "" : "s"} with your word or translation edits`,
+    empty: "Hover a word to edit its meaning, or ✎ on the translation line.",
+    kind: "meanings",
+  });
+}
+
 function renderBookmarks() {
   setBreadcrumb(`<a href="#/">Home</a> › Bookmarks`);
   const list = getBookmarks();
@@ -901,7 +1084,7 @@ function renderBookmarks() {
   });
 }
 
-async function renderSurah(data, targetAyah) {
+async function renderSurah(data, targetAyah, openStudy = false) {
   currentSurah = data;
   const last = getLastRead();
   if (!targetAyah && last?.surah === data.id) targetAyah = last.ayah;
@@ -937,9 +1120,10 @@ async function renderSurah(data, targetAyah) {
           <button type="button" class="btn icon-only" id="font-smaller" title="Smaller text">A−</button>
           <button type="button" class="btn icon-only" id="font-larger" title="Larger text">A+</button>
           <button type="button" class="btn ${prefs.showTranslation ? "active" : ""}" id="toggle-translation">Translation</button>
+          <button type="button" class="btn ai-translate-btn ${prefs.showAiTranslation ? "active" : ""}" id="toggle-ai-translation" title="Conceptual translation for the modern reader">AI Translation</button>
         </div>
       </div>
-      <p class="reader-hint">Hover a word for its meaning · ✎ to edit translation · ☰ to expand tadabbur & tafsir below</p>
+      <p class="reader-hint">${prefs.showAiTranslation ? "AI Translation explains concepts in context — Arabic terms like Rahman, taqwa, and deen are unpacked, not flattened." : "Hover a word for its meaning · ✎ to edit translation · ☰ to expand tadabbur & tafsir below"}</p>
       <div class="mushaf-sheet">
         <div class="ayah-stream">${data.ayahs.map((a) => ayahBlock(data, a, data.id)).join("")}</div>
       </div>
@@ -950,7 +1134,14 @@ async function renderSurah(data, targetAyah) {
   bindSurahEvents();
   setupScrollObserver(data.id);
   updateProgress(data.id, ayah);
-  requestAnimationFrame(() => scrollToAyah(data.id, ayah, false));
+  requestAnimationFrame(() => {
+    scrollToAyah(data.id, ayah, false);
+    if (openStudy) {
+      prefs.activePanel = "reflection";
+      savePrefs();
+      openStudyPanel(ayah);
+    }
+  });
 }
 
 document.addEventListener("click", (e) => {
@@ -989,14 +1180,20 @@ async function render() {
     } else if (r.view === "bookmarks") {
       currentSurah = null;
       renderBookmarks();
+    } else if (r.view === "tadabbur") {
+      currentSurah = null;
+      renderTadabbur();
+    } else if (r.view === "edits") {
+      currentSurah = null;
+      renderEdits();
     } else if (r.view === "surah") {
       const sameSurah = currentSurah?.id === r.surah;
-      if (sameSurah && r.ayah) {
+      if (sameSurah && r.ayah && !r.study) {
         scrollToAyah(r.surah, r.ayah);
         return;
       }
       selectedAyah = null;
-      await renderSurah(await loadSurah(r.surah), r.ayah);
+      await renderSurah(await loadSurah(r.surah), r.ayah, r.study);
     }
   } catch (err) {
     document.getElementById("app").innerHTML = `<p class="loading">Failed to load.</p>`;
@@ -1004,5 +1201,7 @@ async function render() {
   }
 }
 
-checkSync().then(render);
+checkSync()
+  .then(() => rebuildMyWorkIndex())
+  .then(render);
 window.addEventListener("hashchange", render);

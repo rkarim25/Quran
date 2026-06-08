@@ -32,7 +32,7 @@ Imam Ahmad recorded that 'Umar bin Al-Khattab said, "We were with the Messenger 
 
 ## Tafsir Summary
 
-The Merit of Surah Al-Fath Imam Ahmad recorded from 'Abdullah bin Mughaffal, who said that Allah's Messenger ﷺ recited Surah Al-Fath on the (day) of the conquest of Makkah, riding on his she-camel. According to the consensus of scholarly opinion of Sahabah (Companions ؓ of the Holy Prophet ﷺ), Tabi` in (Pupils of Sahabah) and the leading authorities on Qur'anic commentary, the Surah was revealed when, after signing the Treaty of Hudaibiyah, the Holy Prophet ﷺ was on his way back to Madinah, in the 6th year of Hijrah in the month of Dhul-Qa` dah.
+This, indeed, is a great honor for the Messenger of Allah ﷺ, who fulfilled the requirements of Allah's obedience, righteousness and straightness at a level never surpassed by a human being in past generations, nor will it ever be surpassed in the generations to come.
 
 ## Tafsir Ibn Kathir
 

@@ -48,7 +48,7 @@ Allah says, fear Allah, O people, and beware of His might, by obeying what He co
 
 ## Tafsir Summary
 
-Lawful to you is water game and its use for food – for the benefit of yourselves and those who travel, but forbidden is (the pursuit of) land game as long as you are in a state of Ihram. In the second verse (98), it was said اعْلَمُوا أَنَّ اللَّـهَ شَدِيدُ الْعِقَابِ وَأَنَّ اللَّـهَ غَفُورٌ‌ رَّ‌حِيمٌ(Be sure that Allah is severe in punishment and that Allah is Most Forgiving, Very Merciful).
+And have Taqwa of Allah to Whom you shall be gathered back (96)Allah has made the Ka'bah, the Sacred House, an asylum of security and benefits for mankind, and also the Sacred Month and the animals of offerings and the garlanded, that you may know that Allah has knowledge of all that is in the heavens and all that is in the earth, and that Allah is the All-Knower of each and everything (97)Know that Allah is severe in punishment and that Allah is Oft-Forgiving, Most Merciful…
 
 ## Tafsir Ibn Kathir
 

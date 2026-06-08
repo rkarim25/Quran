@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And had Allah willed, He would have made you (all) one nation, but He allows whom He wills to stray and He guides whom He wills. Accepting Bribe is Sternly Forbidden as It Breaks the Covenant of Allah Verse 95 which begins with the words: وَلَا تَشْتَرُ‌وا بِعَهْدِ اللَّـهِ ثَمَنًا قَلِيلًا (And do not take a paltry price against the pledge of Allah) that is, 'do not break the Covenant of Allah for a paltry price.' Here, 'a paltry price' refers to worldly life and its gains.
+Sim-ilarly, if not doing something is obligatory on a person, then, should that person do it against returns received from someone, that too will constitute the breaking of the Covenant of Allah.
 
 ## Tafsir Ibn Kathir
 

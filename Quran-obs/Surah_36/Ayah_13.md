@@ -44,7 +44,7 @@ The expression: ضرب مثل (cite an example) in verse 13: وَاضْرِ‌ب
 
 ## Tafsir Summary
 
-And put forward to them a similitude; the Dwellers of the Town, when there came Messengers to them (13)When We sent to them two Messengers, they denied them both; so We reinforced them with a third, and they said: "Verily, we have been sent to you as Messengers. The expression: ضرب مثل (cite an example) in verse 13: وَاضْرِ‌بْ لَهُم مَّثَلًا أَصْحَابَ الْقَرْ‌يَةِ (And cite to them the example of the People of the Town) is generally used to prove something by giving the example of a similar thing.
+From this clear statement from him also, it seems likely that the town mentioned in this verse is this very town of Antakiyah.
 
 ## Tafsir Ibn Kathir
 

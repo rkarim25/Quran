@@ -107,7 +107,7 @@ By Allah! Before I departed, parts of the Qur'an were revealed about me. Allah's
 
 ## Tafsir Summary
 
-Those among you who make their wives unlawful to them by Zihar they cannot be their mothers. مِّن نِّسَائِهِم (Those of you who declare zihar against their wives...58:2) The aorist yuzahiruna is derived from zihar.
+And he who is unable to do so, should feed sixty of the poor.) is explained by the Hadiths that prescribe these punishments in this order, just as in the Hadith collected in the Two Sahihs about the man who had sexual intercourse with his wife during the day, in Ramadan.
 
 ## Tafsir Ibn Kathir
 

@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they have taken besides Allah, gods, hoping that they might be helped (74)They cannot help them, but they will be brought forward as a troop (against those who worshipped them)(75)So, let not their speech then grieve you. In verse 72: وَذَلَّلْنَاهَا لَهُمْ (And We have brought them under their control), yet another favor and blessing has been pointed to.
+And they have taken besides Allah, gods, hoping that they might be helped (74)They cannot help them, but they will be brought forward as a troop (against those who worshipped them)(75)So, let not their speech then grieve you. The gods of the Idolators are not able to help Them Allah denounces the idolators for taking the idols as gods alongside Allah, hoping that those gods will help them and provide for them and bring them closer to Allah.
 
 ## Tafsir Ibn Kathir
 

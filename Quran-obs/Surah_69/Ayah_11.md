@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ (seven nights and eight consecutive days'...
+Qatadah said similar to this when he said, "At-Taghiyah is the shout." Mujahid said, "At-Taghiyah means the sins." This was also said by Ar-Rabi' bin Anas and bin Zayd.
 
 ## Tafsir Ibn Kathir
 

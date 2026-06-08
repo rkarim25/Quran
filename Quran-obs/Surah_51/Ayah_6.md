@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Affirmation of After-Life The subject-matter of Surah Adh-Dhariyat, like its predecessor Surah Qaf, is mainly the Hereafter, Resurrection, Reckoning, Judgment, and Allah's reward and punishment.
+Verily, that which you are promised is surely true.)(6. These Ayat contain a vow from Allah that Resurrection shall come to pass.
 
 ## Tafsir Ibn Kathir
 

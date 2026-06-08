@@ -294,7 +294,7 @@ It was reported that this part of the Ayah was revealed about some Jews who comm
 
 ## Tafsir Summary
 
-(41. Continued from the third Section of Surah al-Ma'idah was the subject around the People of the Book.
+He asked, ` What do you think about him?' They said, ` Of the learned people among Jews, there is no scholar greater than him on this earth.' He said, ` Call him in.' So, he came.
 
 ## Tafsir Ibn Kathir
 

@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O people of the Scripture! The argumentation referred to in verse 65 was to decide whether Sayyidna Ibrahim (علیہ السلام) followed the way of the Jews, or that of the Christians.
+These believers are the community of Muhammad ﷺ and their guardian is Allah and He will reward them for their belief.
 
 ## Tafsir Ibn Kathir
 

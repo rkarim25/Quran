@@ -67,7 +67,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And recite to them the story of him to whom We gave Our Ayat, but he threw them away; so Shaytan followed him up, and he became of those who went astray (175)And had We willed, We would surely have elevated him therewith, but he clung to the earth and followed his own vain desires. The above verses have described the story of a religious leader of the Israelites who had a great following for his piety and knowledge but suddenly went astray and became among the rejected.
+And recite to them the story of him to whom We gave Our Ayat, but he threw them away; so Shaytan followed him up, and he became of those who went astray (175)And had We willed, We would surely have elevated him therewith, but he clung to the earth and followed his own vain desires.
 
 ## Tafsir Ibn Kathir
 

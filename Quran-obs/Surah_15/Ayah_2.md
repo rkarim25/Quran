@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. In the verses which appear onwards from here (48-51), the text re-turns to the awe-inspiring happenings of the day of Qiyamah.
+How much would those who disbelieved wish that they had been Muslims.)(3. They will come to know!) The Disbelievers will someday wish that They had been Muslims We have already discussed the letters which appear at the beginning of some Surahs.
 
 ## Tafsir Ibn Kathir
 

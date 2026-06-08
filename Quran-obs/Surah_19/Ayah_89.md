@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "The Most Gracious (Allah) has begotten a son. "Except the one who has taken a covenant with the Rahman (All-Merciful) " - 19:87.
+Just as the idolator does not benefit by his good deeds because of associating partners with Allah, we hope that Allah would forgive the sins of those who believed in His absolute Oneness by worshipping Him alone. There is no coequal for Him in His creation, because all creatures are His slaves.
 
 ## Tafsir Ibn Kathir
 

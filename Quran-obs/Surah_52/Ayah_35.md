@@ -38,7 +38,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or were they created by nothing? The Believing Children of the Righteous will benefit from their relationship with their Believing Parents in Paradise وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّ‌يَّتُهُم بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّ‌يَّتَهُمْ (And those who believed and their children followed them in belief, We will join their children with them,...
+Or were they themselves the creators?) Allah asks them, were they created without a maker or did they create themselves?
 
 ## Tafsir Ibn Kathir
 

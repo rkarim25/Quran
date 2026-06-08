@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So he followed a way (85)Until, when he reached the setting place of the sun, he found it setting in a spring of Hami'ah. Verse 85: فَأَتْبَعَ سَبَبًا So he followed a way) means that - though, the material means related to everything, even those that would facilitate his access to every region of the world - however, the first thing he did was to use his means to travel in the direction of the West.
+Hami'ah is, according to one of the two views, derived from the word Hama'ah, which means mud.
 
 ## Tafsir Ibn Kathir
 

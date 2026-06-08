@@ -58,7 +58,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They say: "When will this Fath be, if you are telling the truth? To answer that, Allah Ta'ala said: قُلْ يَوْمَ الْفَتْحِ لَا يَنفَعُ الَّذِينَ كَفَرُ‌وا إِيمَانُهُمْ (Say, 'On the day of decision their belief will not be of any use to disbelievers,'-29) This amounts to saying: Why are you asking us about the day of our victory while that day is going to be a day of trouble for you?
+How the Disbelievers sought to hasten on the Punishment, and what happened to Them Allah tells us how the disbelievers sought to hasten on the punishment, and to bring the wrath and vengeance of Allah upon themselves, because they thought this punishment would never happen, and because of their disbelief and stubbornness.
 
 ## Tafsir Ibn Kathir
 

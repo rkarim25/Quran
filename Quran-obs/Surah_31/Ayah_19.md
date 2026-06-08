@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"O my son! Verse 19 begins with the statement: وَاقْصِدْ فِي مَشْيِكَ (And be moderate in your walk).
+Verily, the harshest of all voices is the braying of the asses.
 
 ## Tafsir Ibn Kathir
 

@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "I know not whether that which you are promised is near or whether my Lord will appoint for it a distant term. وَأَحْصَىٰ كُلَّ شَيْءٍ عَدَدًا (...and has comprehensive knowledge of everything by numbers....72:28).
+He protects what He reveals to them of revelation so that He will know that they have indeed conveyed the Messages of their Lord. In other words, Allah alone encompasses the perfect knowledge of everything and keeps a meticulous count of it.
 
 ## Tafsir Ibn Kathir
 

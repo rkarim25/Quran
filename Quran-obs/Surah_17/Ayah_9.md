@@ -77,7 +77,7 @@ Allah praises His noble Book, the Qur'an, which He revealed to His Messenger Muh
 
 ## Tafsir Summary
 
-Verily, this Qur'an guides to that which is most just and right and gives good news to those who believe, those who do righteous deeds, that they will have a great reward (Paradise)(9)And that those who do not believe in the Hereafter, for them We have prepared a painful torment (Hell)(10) Allah praises His noble Book, the Qur'an, which He revealed to His Messenger Muhammad ﷺ. At the beginning of the Sarah, the majesty of the prophet-hood of the Messenger of Allah was described through the miracle of al-Mi` raj.
+Verily, this Qur'an guides to that which is most just and right and gives good news to those who believe, those who do righteous deeds, that they will have a great reward (Paradise)(9)And that those who do not believe in the Hereafter, for them We have prepared a painful torment (Hell).
 
 ## Tafsir Ibn Kathir
 

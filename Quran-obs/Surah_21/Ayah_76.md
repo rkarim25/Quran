@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) Nuh, when he cried (to Us) aforetime. And (remember) Nuh, when he called (for help) earlier - 21:76 Here مِن قَبْلُ (earlier) means before the time of Sayyidna Ibrahim and Sayyidna Lut (علیہما السلام) ، whose account has just preceded in previous verses.
+We answered to his invocation and saved him and his family from the great distress (76)We helped him against the people who denied Our Ayat.
 
 ## Tafsir Ibn Kathir
 

@@ -19,7 +19,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nay, when it reaches to the collarbones (26)And it will be said: "Who can cure him? (When the soul [ of a patient ] reaches the clavicles, and it is said, "Who is an enchanter [ that can save him?] ", and he realizes that it is [ the time on departure [ from the world,] and one shank is intertwined with the other shank, then on that day, it is to your Lord that one has to be driven....
+Thus, there is no good in him, internally or externally.
 
 ## Tafsir Ibn Kathir
 

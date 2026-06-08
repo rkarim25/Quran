@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, Most Merciful.) 111. In the eighth verse (112), a general rule of conduct has been set forth.
+The Encouragement to Seek Allah's Forgiveness, and Warning those who Falsely Accuse Innocent People Allah emphasizes His generosity and kindness, in that He forgives whoever repents to Him from whatever evil they commit. And Allah is Ever All-Knowing, All-Wise (110)And whoever earns a fault or a sin and then blames it on someone innocent, he has indeed burdened himself with falsehood and a manifest sin (111)Had not the grace of Allah and His mercy been upon you, a party of th…
 
 ## Tafsir Ibn Kathir
 

@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Emphasis on hijab for women and an exemption The injunction on hijab for women has already appeared earlier in detail in two verses, and two exemptions were also mentioned there.
+And Allah is All-Knowing, All-Wise (59)And the Qawa'id among women who do not hope for marriage, it is no sin on them if they discard their (outer) clothing in such a way as not to show their adornment.
 
 ## Tafsir Ibn Kathir
 

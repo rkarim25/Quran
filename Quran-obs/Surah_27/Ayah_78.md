@@ -44,7 +44,7 @@ By describing Allah's omnipotence through different examples in the earlier vers
 
 ## Tafsir Summary
 
-Verily, this Qur'an narrates to the Children of Israel most of that in which they differ (76)And truly, it is a guide and a mercy for the believers (77)Verily, your Lord will decide between them by His judgement. By describing Allah's omnipotence through different examples in the earlier verses, the reality of the Hereafter and the rational possibility of resurrection of the dead has been established.
+The Word of your Lord has been justified against them, so that they will not believe even if all the signs are brought to them. Verily, this Qur'an narrates to the Children of Israel most of that in which they differ (76)And truly, it is a guide and a mercy for the believers (77)Verily, your Lord will decide between them by His judgement.
 
 ## Tafsir Ibn Kathir
 

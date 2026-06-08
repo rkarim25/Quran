@@ -222,7 +222,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is not Birr that you turn your faces towards east and (or) west; but Birr is the one who believes in Allah, the Last Day, the Angels, the Book, the Prophets and gives his wealth, in spite of love for it, to the kinsfo… From the beginning to this point, the Sarah al-Baqarah is reaching its half-way mark.
+Facing the east or the west does not necessitate righteousness or obedience, unless it is legislated by Allah.
 
 ## Tafsir Ibn Kathir
 

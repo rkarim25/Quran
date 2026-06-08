@@ -82,7 +82,7 @@ And if Allah touches you with harm, none can remove it but He, and if He touches
 
 ## Tafsir Summary
 
-And if Allah touches you with harm, none can remove it but He, and if He touches you with good, then He is able to do all things (17)And He is the Irresistible, above His servants, and He is the All-Wise, Well-Acquainted with all things (18)Say: "What thing is the most great in witness?" Say: "Allah is Witness between you and I; this Qur'an has been revealed to me that I may therewith warn you and whomsoever it may reach. All Gain and Loss Comes from Allah: A Cardinal Muslim Belief In the third verse (17), a basic article of faith in Islam has been described - that it is Allah, in reality, who is the Master-Dispenser of all gain and loss.
+All Gain and Loss Comes from Allah: A Cardinal Muslim Belief In the third verse (17), a basic article of faith in Islam has been described - that it is Allah, in reality, who is the Master-Dispenser of all gain and loss.
 
 ## Tafsir Ibn Kathir
 

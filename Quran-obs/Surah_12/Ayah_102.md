@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-That is of the news of the Ghayb (Unseen) which We reveal to you. Commentary After a full description of the story of Sayyidna Yusuf (علیہ السلام) ، first to come in the verses cited above is an address to the Holy Prophet ﷺ : ذَٰلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ (That is a part of the reports of the unseen We reveal to you), and that ` you were not there with the brothers of Yusuf (علیہ السلام) when they had decided to throw Sayyidna Yusuf (علیہ السلام) into the well and were making plans for it.
+The ` Jim of al-Ghayb (the knowledge of the unseen) is the unique attribute of Allah Ta` ala.
 
 ## Tafsir Ibn Kathir
 

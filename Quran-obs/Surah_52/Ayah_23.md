@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who believe and whose offspring follow them in faith, – to them shall We join their offspring, and We shall not decrease the reward of their deeds in anything. The Believing Children of the Righteous will benefit from their relationship with their Believing Parents in Paradise وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّ‌يَّتُهُم بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّ‌يَّتَهُمْ (And those who believed and their children followed them in belief, We will join their children with them,...
+Allah stated that wine of the Hereafter shall not cause those who drink it to utter false, vain words that carry no benefit, full of foolishness and evil.
 
 ## Tafsir Ibn Kathir
 

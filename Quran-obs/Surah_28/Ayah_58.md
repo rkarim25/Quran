@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And how many a town have We destroyed, which was thankless for its means of livelihood! The second reply to their excuse is given in the next verse وَكَمْ أَهْلَكْنَا مِن قَرْ‌يَةٍ بَطِرَ‌تْ مَعِيشَتَهَا (And how many a town have We destroyed that were over-proud of their means of living.
+If the exemption ` except a few' is taken for those living there and the places destroyed, as Zajjaj has construed it, then the meaning would be that those places could never get inhabited, except a few that are inhabited.
 
 ## Tafsir Ibn Kathir
 

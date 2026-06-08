@@ -43,7 +43,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "My Lord! Repel evil with that which is best - 23:96 Allah instructs the Holy Prophet ﷺ to counter evil with good, oppression with justice and cruelty with mercy.
+It is for this reason that the Holy Prophet ﷺ is instructed in the next verse to seek protection from Shaitan's evil suggestions even in the battle fields where he may arouse emotions to act against ethics.
 
 ## Tafsir Ibn Kathir
 

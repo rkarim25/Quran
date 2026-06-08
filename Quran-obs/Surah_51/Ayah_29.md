@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Has the story reached you, of the honored guests of Ibrahim (24)When they came in to him and said: "Salaman!" He answered: "Salamun" and said: "You are a people unknown to me. فَأَقْبَلَتِ امْرَ‌أَتُهُ فِي صَرَّ‌ةٍ (So his wife came forward with a clamour,...51:29).
+Shall I bear a child while I am an old woman, and here is my husband an old man?
 
 ## Tafsir Ibn Kathir
 

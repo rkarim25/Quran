@@ -106,7 +106,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-No son (or offspring) did Allah beget, nor is there any god along with Him. وَهُوَ يُجِيرُ‌ وَلَا يُجَارُ‌ عَلَيْهِ (And who gives protection and no protection can be given against him - 23:88) The meaning of the verse is that Allah alone can deliver a person from pain and suffering as He wills, but there is none who can save a person from divine punishment.
+No son (or offspring) did Allah beget, nor is there any god along with Him.
 
 ## Tafsir Ibn Kathir
 

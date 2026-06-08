@@ -320,7 +320,7 @@ Al-Bukhari reported that 'Abdur-Rahman bin Asbahani said that he heard 'Abdullah
 
 ## Tafsir Summary
 
-And complete Hajj and 'Umrah for Allah. Injunctions concerning Hajj and ` Umrah In the series of injunctions appearing under the theme of 'righteousness' which has started from verse 177, the eleventh injunction relates to the Hajj.
+this is a general judgement derived from a specific case.
 
 ## Tafsir Ibn Kathir
 

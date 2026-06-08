@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. إِنَّ فِي السَّمَاوَاتِ وَالْأَرْ‌ضِ لَآيَاتٍ لِّلْمُؤْمِنِينَ ("Surely in the heavens and the earth, there are signs for those who have faith..
+And in the alternation of night and day, and the provision that Allah sends down from the sky, and revives therewith the earth after its death, and in the turning about of the winds, are signs for a people who understand.) A Directive to contemplate over Allah's Ayat Allah directs His servants to contemplate His favors and gifts, as well as His great power that is demonstrated by His creating the heavens and the earth and the various types and categories of creatures in them.…
 
 ## Tafsir Ibn Kathir
 

@@ -56,7 +56,7 @@ The revelations about the characteristics of the hypocrites were revealed in Al-
 
 ## Tafsir Summary
 
-And of mankind, there are some who say: "We believe in Allah and the Last Day" while in fact they do not believe (8)They try to deceive Allah and those who believe, while they only deceive themselves, and perceive (it) not (9) Nifaq means to show conformity - or agreement - and to conceal evil. (4) The verse آمَنَّا بِاللَّـهِ وَبِالْيَوْمِ الْآخِرِ‌:"We believe in Allah and in the Last Day" shows us how disgusting it is to tell a lie - even the hypocrites, with all their hostility to Islam, tried to refrain from it as far as possible.
+This Ayah means that the hypocrites utter these statements only when they meet you, not because they actually believe what they are saying. And of mankind, there are some who say: "We believe in Allah and the Last Day" while in fact they do not believe (8)They try to deceive Allah and those who believe, while they only deceive themselves, and perceive (it) not .
 
 ## Tafsir Ibn Kathir
 

@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And press your (right) hand to your (left) side: it will come forth white (and shining), without any disease as another sign, (22)"That We may show you (some) of Our greater signs. وَأَشْرِ‌كْهُ فِي أَمْرِ‌ي (and make him share my task - 20:32): Sayyidna Musa (علیہ السلام) had the power to appoint Sayyidna Harun (علیہ السلام) as his Wazir on his own, but he petitioned to Allah Ta` ala to confer the appointment on his brother in order to seek His grace.
+Therefore, he was left with the remnants of this accident that took place with his tongue. Therefore he specially prayed to Allah Ta` ala to make him a partner in his mission.
 
 ## Tafsir Ibn Kathir
 

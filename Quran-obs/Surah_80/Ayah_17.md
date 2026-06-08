@@ -23,7 +23,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Qutila mankind! بِأَيْدِي سَفَرَ‌ةٍ كِرَ‌امٍ بَرَ‌رَ‌ةٍ (in the hands of those scribes who are honourable, righteous.
+How ungrateful he is (17)From what thing did He create him (18)From a Nutfah He created him and then set him in due proportion (19)Then He made the path easy for him (20)Then He causes him to die and puts him in his grave (21)Then when it is His will, He will resurrect him (22)Nay, but he has not done what He commanded him (23)Then let man look at his food (24)We pour forth water in abundance (25)And We split the earth in clefts (26)And We cause therein Habb to grow (27)And g…
 
 ## Tafsir Ibn Kathir
 

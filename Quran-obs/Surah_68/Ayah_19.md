@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, We have tried them as We tried the People of the Garden, when they swore to pluck the fruits in the morning (17)Without (saying: "If Allah wills." (18)Then there passed over it a Ta'if from your Lord while they were asleep (19)So by the morning, it became like As-Sarim (20)Then they called out (one to another as soon) as the morning broke (21)Saying: "Go to your tilth in the morning, if you would pluck (the fruits). فَطَافَ عَلَيْهَا طَائِفٌ مِّن رَّ‌بِّكَ (Then, there whirled around it a whirl (of calamity) from your Lord, while they were asleep….68:19).
+The word 'whirl' refers to 'a whirl of calamity' as a result of which Divine punishment overtook the garden in a sudden and swift sweep.
 
 ## Tafsir Ibn Kathir
 

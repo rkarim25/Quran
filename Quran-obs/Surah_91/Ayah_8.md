@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Recitation of Surah Ash-Shams wa Duhaha in the 'Isha' Prayer The Hadith of Jabir which was recorded in the Two Sahihs has already been mentioned. فَأَلْهَمَهَا فُجُورَ‌هَا وَتَقْوَاهَا (then inspired it with its [ instincts on evil and piety...91:8) The word ilham denotes 'to cast into the heart'.
+In other words, in his make-up Allah has built in him a special ability to choose freely the righteous path or the sinful path. This verse will allay the doubt about Divine Destination only if the words 'then inspired it with its (instincts of) evil and piety, [ 91:8] ' are taken in the sense that human soul has been inspired with conscience to distinguish between right and wrong, and has also been granted the ability to do good as well as the ability to commit sin.
 
 ## Tafsir Ibn Kathir
 

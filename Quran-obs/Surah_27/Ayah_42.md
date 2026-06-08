@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "Disguise her throne for her that we may see whether she will be guided, or she will be one of those not guided. قَالَ الَّذِي عِندَهُ عِلْمٌ مِّنَ الْكِتَابِ (Said the one who had the knowledge of the book - 27:40).
+The only difference between the two is that if such an unusual act is demonstrated through a prophet, it is known as a miracle; and if it is demonstrated through someone who is not a prophet, it is called Karamah.
 
 ## Tafsir Ibn Kathir
 

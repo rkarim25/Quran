@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Recitation of Surat Al-Fajr in the Prayer An-Nasa'i recorded a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. وَالشَّفْعِ وَالْوَتْرِ (and by the even and the odd,...89:3).
+From this terminology it is said (in the Arabic language), "the hewing of leopard skin" when it is torn, and "The hewing of a garment" when it is opened.
 
 ## Tafsir Ibn Kathir
 

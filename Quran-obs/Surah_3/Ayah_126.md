@@ -81,7 +81,7 @@ From the verse لَيْسَ لَكَ مِنَ الْأَمْرِ‌ شَيْءٌ
 
 ## Tafsir Summary
 
-(Remember) when you said to the believers, "Is it not enough for you that your Lord should help you with three thousand angels sent down? In the previous verses, the battle of Badr was cited in relation to the battle of Uhud.
+Instead, the purpose was to give the believers the good news of victory to comfort them and to strengthen their hearts. The word "in succession" means they follow each other and thus indicates that thousands more will follow them.
 
 ## Tafsir Ibn Kathir
 

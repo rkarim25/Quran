@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We sent down from the sky water in measure, and We gave it lodging in the earth, and verily, We are able to take it away (18)Then We brought forth for you therewith gardens of date palms and grapes, wherein is much fruit for you, and whereof you eat (19)And a tree that springs forth from Tur Sinai, that grows oil, and relish for the eaters (20)And verily, in the cattle there is indeed a lesson for you. In the last benefit, ships and boats are also included, because they are also used in transportation وَعَلَيْهَا وَعَلَى الْفُلْكِ تُحْمَلُونَ (And on them and on the boats you are transported - 23:22).
+And there are, in them, numerous benefits for you, and of them you eat (21)And on them, and on ships you are carried .
 
 ## Tafsir Ibn Kathir
 

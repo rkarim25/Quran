@@ -10,7 +10,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. This Surah is almost wholly devoted to the subject of inevitability of the Resurrection, its horrors, the punishment of unbelievers and the reward of believers.
+And We have created for them of the like thereunto, on which they ride.)(36:41,42) Qatadah said, "Allah caused this ship to remain until the first people of this Ummah saw it." However, the first view (that it refers to all ships in general) is the most apparent. Which Allah imposed on them for seven nights and eight days Husum, so that you could see men lying toppled, as if they were trunks of date palms, Khawiyah!)(8.
 
 ## Tafsir Ibn Kathir
 

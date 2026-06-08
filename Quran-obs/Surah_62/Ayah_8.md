@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The likeness of those who were entrusted with the Tawrah, but did not carry it, is as the likeness of a donkey which carries huge burdens of books. قُلْ إِنَّ الْمَوْتَ الَّذِي تَفِرُّ‌ونَ مِنْهُ فَإِنَّهُ مُلَاقِيكُمْ (Say, “ Indeed, the death from which you [ try to ] run away has to visit you,…62:8).
+Since we do not know for sure whether fire, or poison, or some other obnoxious thing will be the destined cause of our death in a particular situation, running away from them would not amount to fleeing from death that is denounced in the verse.
 
 ## Tafsir Ibn Kathir
 

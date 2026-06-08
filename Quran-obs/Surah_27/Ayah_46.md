@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We sent to Thamud their brother Salih, (saying): "Worship Allah." Then look! لِمَ تَسْتَعْجِلُونَ بِالسَّيِّئَةِ قَبْلَ الْحَسَنَةِ (why do you seek evil to come sooner before good?
+Therefore, "evil" in this sentence stands for torment, while "good" refers to their repentance and invoking divine mercy. Why do you seek to hasten the evil before the good Why seek you not the forgiveness of Allah, that you may receive mercy?
 
 ## Tafsir Ibn Kathir
 

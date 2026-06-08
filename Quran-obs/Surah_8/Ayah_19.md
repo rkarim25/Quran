@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(O disbelievers) if you ask for a judgement, now has the judgement come unto you; and if you cease (to do wrong), it will be better for you, and if you return (to the attack), so shall We return, and your forces will be… It is interesting that these dimwitted people were under the impression that they were the ones higher and superior and better-guided as compared to Muslims, therefore, they surmised that the prayer they were making was in their own favour.
+It is interesting that these dimwitted people were under the impression that they were the ones higher and superior and better-guided as compared to Muslims, therefore, they surmised that the prayer they were making was in their own favour.
 
 ## Tafsir Ibn Kathir
 

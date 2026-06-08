@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We gave the Children of Israel the Scripture, and the understanding of the Scripture and its laws, and the prophethood; and provided them with good things, and preferred them above the nations (16)And gave them clear proofs in matters. The Status of Previous Shari'ahs for Muslims ثُمَّ جَعَلْنَاكَ عَلَىٰ شَرِ‌يعَةٍ مِّنَ الْأَمْرِ‌ "Then We have put you on a certain way of the Matter (i.e.
+Verily, the wrongdoers are protecting friends of one another, but Allah is the Protector of those who have Taqwa (19)This is a clear insight and evidence for mankind, and a guidance and a mercy for people who have faith with certainty .
 
 ## Tafsir Ibn Kathir
 

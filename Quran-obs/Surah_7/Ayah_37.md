@@ -162,7 +162,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Who is more unjust than one who invents a lie against Allah or rejects His Ayat? The first and the second verse both mentioned two crimes committed by disbelievers.
+For such their appointed portion will reach them from the Book (of Decrees) until Our messengers (the angel of death and his assistants) come to them to take their souls, they (the angels) will say: "Where are those whom you used to invoke and worship besides Allah," they will reply, "They have vanished and deserted us." And they will bear witness against themselves, that they were disbelievers .
 
 ## Tafsir Ibn Kathir
 

@@ -129,7 +129,7 @@ was revealed to the Messenger of Allah ﷺ, it was very hard for the Companions 
 
 ## Tafsir Summary
 
-To Allah belongs all that is in the heavens and all that is on the earth, and whether you disclose what is in yourselves or conceal it, Allah will call you to account for it. The earlier verse mentioned the injunction to reveal evidence and forbade its concealment.
+This is why when this Ayah was revealed, it was hard on the Companions, since out of their strong faith and conviction, they were afraid that such reckoning would diminish their good deeds.
 
 ## Tafsir Ibn Kathir
 

@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Musa) said: "O Harun! When the Bani Isra'il were smitten with the mischief of calf-worship Sayyidna Harun (علیہ السلام) as the deputy of Sayyidna Musa (علیہ السلام) remonstrated with them but to no avail.
+What happened between Musa and Harun after Musa returned Allah informs of what happened when Musa returned to his people and saw the great matter that had taken place among them.
 
 ## Tafsir Ibn Kathir
 

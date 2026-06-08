@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they said: "Why is not a sign sent down to him from his Lord?" Say: "Allah is certainly able to send down a sign, but most of them know not. About the statement: فَإِنَّهُمْ لَا يُكَذِّبُونَكَ (it is not you they are belying, rather, it is the signs of Allah they are denying) in the first verse (33), there is a related event, reported in Tafsir Mazhari on the authority of a narration by As-Suddiy, according to which, once Akhnas ibn Shuraiq and Abu Jahl, two chiefs of the Quraysh tribe met together.
+But, He decided out of His wisdom to delay that, because if He sends an Ayah of their liking and they still do not believe, this will hasten their punishment as with the previous nations. And We sent the she-camel to Thamud as a clear sign, but they did her wrong.
 
 ## Tafsir Ibn Kathir
 

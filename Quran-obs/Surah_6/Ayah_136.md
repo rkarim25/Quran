@@ -136,7 +136,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they assign to Allah a share of the tilth and cattle which He has created, and they say: "This is for Allah," according to their claim, "and this is for our partners." But the share of their "partners" reaches not Allah, while the share of Allah reaches their "partners"! In the fourth verse (136), the disbelievers of Arabia have been admonished for a particular error in their behaviour.
+And they assign to Allah a share of the tilth and cattle which He has created, and they say: "This is for Allah," according to their claim, "and this is for our partners." But the share of their "partners" reaches not Allah, while the share of Allah reaches their "partners"!
 
 ## Tafsir Ibn Kathir
 

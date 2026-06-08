@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Thamud denied through their transgression (11)When their most wicked went forth (12)But the Messenger of Allah said to them: "Be cautious! فَدَمْدَمَ عَلَيْهِمْ رَ‌بُّهُم بِذَنبِهِمْ فَسَوَّاهَا (...
+The word damdama refers to such tormenting scourge as is unleashed on a person or a nation again and again, until it destroys or crushes them completely. So their Lord destroyed them because of their sin, Fasawwaha (14)And He feared not the consequences thereof .
 
 ## Tafsir Ibn Kathir
 

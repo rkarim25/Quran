@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We punished the people of Fir'awn with years of drought and lack of fruits (crops), that they might remember (take heed)(130)But whenever good came to them, they said: "This is for us." And if evil afflicted them, they considered it an omen about Musa and those with him. The next verses speak of the events that led Pharaoh and his people to a number of calamities sent to them as punishment and finally led them to their death.
+And indeed We punished the people of Fir'awn with years of drought and lack of fruits (crops), that they might remember (take heed)(130)But whenever good came to them, they said: "This is for us." And if evil afflicted them, they considered it an omen about Musa and those with him.
 
 ## Tafsir Ibn Kathir
 

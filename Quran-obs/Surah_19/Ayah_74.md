@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when Our clear Ayat are recited to them, those who disbelieve say to those who believe: "Which of the two groups has the best dwellings and the finest Nadiyyan? "Superior in respect of its place and better in respect of its assembly" - 19:73.
+However, it is a common experience that material wealth turns people's heads and makes them unduly proud and arrogant, so that even the sensible and wise among them are led to believe that their prosperity and affluence is the reward of their personal merit and effort, and will last forever. Thus, this means that their meeting rooms are full of more people who come to attend.
 
 ## Tafsir Ibn Kathir
 

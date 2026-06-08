@@ -47,7 +47,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We gave Musa the Scripture and made it a guidance for the Children of Israel (saying): "Take none other than Me as (your) Wakil. Described in this verse is the event of Mi` raj (the Ascent to the heavens, or al-'Isra', the midnight journey of the Holy Prophet ﷺ which is a signal honor and distinctive miracle of our Messenger of Allah ﷺ).
+But, as obvious, this event took place after the return because it has been reported in the incident relating to his meeting with blessed prophets at different heavens that it was Sayyidna Jibra'il who introduced him to all prophets. Musa and how He was given the Tawrah When Allah mentions how He took His servant Muhammad ﷺ, on the Journey by Night, He follows it by mentioning Musa, His servant and Messenger who also spoke with Him.
 
 ## Tafsir Ibn Kathir
 

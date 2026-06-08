@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. It was mentioned at the end of the preceding Surah that twenty-two Surahs from Surah Ad-Duha to the end of the Qur'an are mainly concerned with Divine favours conferred upon the Holy Prophet ' and with his greatness.
+The word sharp literally denotes 'to open, to cause the bosom to be widely opened'.
 
 ## Tafsir Ibn Kathir
 

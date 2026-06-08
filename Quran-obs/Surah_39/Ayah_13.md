@@ -43,7 +43,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Verily, if I disobey my Lord, I am afraid of the torment of a great Day. In verse 10, it was said: وَأَرْ‌ضُ اللَّـهِ وَاسِعَةٌ (and the earth of Allah is wide).In the sentence previous to this, Good deeds had been enjoined.
+So much so that people who had lived their life of the mortal world in perfect peace and comfort would wish, 'alas!
 
 ## Tafsir Ibn Kathir
 

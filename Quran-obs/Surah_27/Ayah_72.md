@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "When this promise, if you are truthful? Rather, their knowledge failed in the matter of Hereafter.
+Then Allah tells us that He is the Knower of the unseen in the heavens and on earth, and that He is the Knower of the unseen and the seen, i.e., that which is unseen by His servants and that which they can see.
 
 ## Tafsir Ibn Kathir
 

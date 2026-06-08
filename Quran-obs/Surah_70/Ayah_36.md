@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, what is the matter with those disbelievers, before you Muhti'i (36)On the right and on the left, 'Izin (37)Does every man of them hope to enter the Paradise of Delight (38)But no! وَالَّذِينَ هُم بِشَهَادَاتِهِمْ قَائِمُونَ (...and those who are upright in their testimonies, [ 70:33] '.
+The point of this statement is that the matter is not as the disbelievers claim: that there is no final return, no reckoning, no resurrection and no gathering.
 
 ## Tafsir Ibn Kathir
 

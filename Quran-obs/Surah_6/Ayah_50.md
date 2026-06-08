@@ -129,7 +129,7 @@ Say: "I don't tell you that with me are the treasures of Allah, nor (that) I kno
 
 ## Tafsir Summary
 
-Say: "I don't tell you that with me are the treasures of Allah, nor (that) I know the Unseen; nor do I tell you that I am an angel. In the last verse (45), it was said that, when the mass punishment of Allah Ta` ala came, the people who did wrong were uprooted to the last man.
+I but follow what is revealed to me." Say: "Are the blind and the one who sees equal?
 
 ## Tafsir Ibn Kathir
 

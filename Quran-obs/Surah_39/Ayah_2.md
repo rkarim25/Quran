@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Az-Zumar An-Nasa'i recorded that 'A'ishah, may Allah be pleased with her, said, "The Messenger of Allah ﷺ used to fast until we would say, 'He does not want to break fast,' and he would not fast unti… In verse 2, it was said: فَاعْبُدِ اللَّـهَ مُخْلِصًا لَّهُ الدِّينَ أَلَا لِلَّـهِ الدِّينُ الْخَالِصُ - (so worship Allah in submission to Him exclusively.
+The second statement is to emphasize the first statement in that sincerity in worship is the exclusive right of Allah and no one else, other than Him deserves it.
 
 ## Tafsir Ibn Kathir
 

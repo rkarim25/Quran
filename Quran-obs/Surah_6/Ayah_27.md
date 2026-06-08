@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-If you could but see when they will be held over the (Hell) Fire! There are three basic principles of Islam: Tauhid (Oneness of Allah), Risalah (Prophethood) and 'Akhirah (Belief in the Hereafter).
+In the first verse, portrayed is the condition of wrong-doers and deniers of truth who, when made to stand by the edges of the Hell, and to observe the horrifying punishment far beyond their imagination, would wish that they were sent back into the world where now they would never falsify the signs and commands of their Lord, would believe in them and would be the true believers. Then we would not deny the Ayat of our Lord, and we would be of the believers!
 
 ## Tafsir Ibn Kathir
 

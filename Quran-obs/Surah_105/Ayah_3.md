@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 105:3] طَيْرً‌ا أَبَابِيلَ (...
+birds in flocks.) The word ababil is plural and is said to have no singular.
 
 ## Tafsir Ibn Kathir
 

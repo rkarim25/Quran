@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. In the verses which appear onwards from here (48-51), the text re-turns to the awe-inspiring happenings of the day of Qiyamah.
+Out of the narrations of Hadith reported on this subject, only some of them seem to indicate either a change in features only while others suggest a change of the thing itself. In other words, all this territory which now holds the population of the world will become the territory of Hell.
 
 ## Tafsir Ibn Kathir
 

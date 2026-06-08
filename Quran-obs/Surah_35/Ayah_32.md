@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then We gave the Book as inheritance to such of Our servants whom We chose. The word: ثُمَّ (thumma: Then) in verse 32: ثُمَّ أَوْرَ‌ثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا (Then We conveyed the Book as an heritage to those of Our slaves whom We chose.) serves as a conjunction to denote that the two things mentioned before and after it, despite having common characteristic, are marked by precedence and succession.
+And the one who follows the middle course is a person who fulfills all legally binding obligations and avoids everything forbidden, but on occasions, leaves out what has been recommended and falls into what is reprehensible.
 
 ## Tafsir Ibn Kathir
 

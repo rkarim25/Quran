@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Has the story reached you, of the honored guests of Ibrahim (24)When they came in to him and said: "Salaman!" He answered: "Salamun" and said: "You are a people unknown to me. فَأَوْجَسَ مِنْهُمْ خِيفَةً (So he felt some fear in his heart...51:28).
+He did not place the food far from them and invite them to come close to it to eat.
 
 ## Tafsir Ibn Kathir
 

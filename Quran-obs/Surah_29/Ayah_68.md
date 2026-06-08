@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have they not seen that We have made a secure sanctuary, while men are being snatched away from all around them? أَوَلَمْ يَرَ‌وْا أَنَّا جَعَلْنَا حَرَ‌مًا آمِنًا (Did they not see that We have made a peaceful sanctuary حَرَم[ haram ] - 67).
+Then do they believe in falsehood, and deny the graces of Allah (67)And who does more wrong than he who invents a lie against Allah or denies the truth, when it comes to him? Is there not a dwelling in Hell for the disbelievers (68)As for those who strive hard for Us, We will surely guide them to Our paths.
 
 ## Tafsir Ibn Kathir
 

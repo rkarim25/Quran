@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Sulayman) said: "We shall see whether you speak the truth or you are (one) of the liars. Some rules of writing letters It is from Sulaiman and it is (in the following words:) With the name of Allah, the All-Merciful, the Very-Merciful.
+Therefore, it is also in order if the name of the writer is written first and then Bismillah.
 
 ## Tafsir Ibn Kathir
 

@@ -102,7 +102,7 @@ Abu Hayyan in his Tafsir Al-Bahr-al Muhit has included the following event under
 
 ## Tafsir Summary
 
-The chiefs of Fir'awn's people said: "Will you leave Musa and his people to spread mischief in the land, and to abandon you and your gods?" He said: "We will kill their sons, and let their women live, and we have indeed irresistible power over them. The Israelites who seemed to have no conception of such matters could not understand how patience alone could free them from Pharaoh's punishment and bring them success against him.
+He had tormented them [killing every newly born male] before Musa was born, so that Musa would not live.
 
 ## Tafsir Ibn Kathir
 

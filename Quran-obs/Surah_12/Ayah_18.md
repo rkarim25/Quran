@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they came to their father in the early part of the night weeping (16)They said: "O our father! وَجَاءُوا عَلَىٰ قَمِيصِهِ بِدَمٍ كَذِبٍ ; (And they came with fake blood on his shirt) that is, the brothers of Sayyidna Yusuf (علیہ السلام) came back with his shirt they had smeared in fake blood so that they could make their father believe that he has been eaten up by a wolf.
+But, they forgot to tear the shirt, and this is why Allah's Prophet Ya'qub did not believe them.
 
 ## Tafsir Ibn Kathir
 

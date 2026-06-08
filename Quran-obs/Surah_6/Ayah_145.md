@@ -175,7 +175,7 @@ Say: "I find not in that which has been revealed to me anything forbidden to be 
 
 ## Tafsir Summary
 
-Say: "I find not in that which has been revealed to me anything forbidden to be eaten by one who wishes to eat it, unless it be Maytah (a dead animal) or blood poured forth, or the flesh of swine; for that surely, is unclean (Rijs), or immorally slaughtered in the name of other than Allah. Mentioned in the previous verses was how astray the disbelievers of Makkah had gone when they had taken their self-carved, lifeless, insensate idols as partners in the Divinity of Allah as they made them share in animals created by Him and in many other blessings which were bestowed on them.
+If someone finds an ancient treasure, or hits on a gold or silver mine while prospecting, then, one-fifth of it will be due on him as Zakah - because the labour and expenditure factor is less while the produce is more. Therefore, the rule of guidance given is that one should observe moderation even when spending in the way of Allah so that all due rights can be taken care of.
 
 ## Tafsir Ibn Kathir
 

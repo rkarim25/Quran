@@ -42,7 +42,7 @@ Some said that it was revealed about the gravity of fighting in battle, when one
 
 ## Tafsir Summary
 
-The Virtues of Surat As-Saff Imam Ahmad recorded that 'Abdullah bin Salam said, "We asked, 'Who among us should go to the Messenger ﷺ and ask him about the dearest actions to Allah?' None among us volunteered. (0 those who believe, why do you say what you do not do?
+It is severely hateful in Allah's sight that you say what you do not do...61:2-3) Apparently, the phrase 'what you do not do' implies that one should not claim to do something he does not intend to do. Why do you say that which you do not do?) This refutes those who neglect to fulfill their promises.
 
 ## Tafsir Ibn Kathir
 

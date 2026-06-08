@@ -32,7 +32,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they will turn to one another and question one another (27)They will say: "It was you who used to come to us from the right side.
+he has come with the truth and he confirms the Messengers . he has come with the truth) meaning, the Messenger of Allah ﷺ has brought the truth with all that Allah has revealed to him of stories and commandments.
 
 ## Tafsir Ibn Kathir
 

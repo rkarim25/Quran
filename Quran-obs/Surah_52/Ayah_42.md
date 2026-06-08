@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or were they created by nothing? { 1} It means that their arguments against Islam having failed on rational grounds, the only possibility was that they had a direct link with Allah whereby they have ensured that their faith was true, but no one could bring any proof of having such a link with Allah.
+But those who disbelieve are themselves plotted against!) Allah the Exalted is asking, 'Do these people who utter such statements about the Messenger and his religion seek to deceive the people and plot against the Messenger and his Companions?
 
 ## Tafsir Ibn Kathir
 

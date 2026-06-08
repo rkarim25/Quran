@@ -194,7 +194,7 @@ Al-Baihaqi has reported the following event in Dala'il-al Nubuwwah. The Companio
 
 ## Tafsir Summary
 
-Those who follow the Messenger, the Prophet who can neither read nor write whom they find written of with them in the Tawrah and the Injil, – he commands them to do good; and forbids them from evil; he makes lawful for them the good things, and forbids them from the evil things, he releases them from their heavy burdens and from the fetters that were upon them. The Distinct virtues of the Muslim Ummah This verse speaks of the people who, in actual sense, deserve the perfect Mercy and complete favour of Allah asked by the Prophet Musa (علیہ السلام) for his people.
+This is the description of the Prophet Muhammad ﷺ in the Books of the Prophets. They delivered the good news of his advent to their nations and commanded them to follow him. His descriptions were still apparent in their Books, as the rabbis and the priests well know.
 
 ## Tafsir Ibn Kathir
 

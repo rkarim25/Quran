@@ -87,7 +87,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We said: "O Adam! A question arises here as to how Satan got into Paradise for seducing Adam and Hawwa (علیہما السلام) when he had already been expelled from there for refusing to prostrate himself.
+Some scholars said that he led Adam and Hawwa' astray when he was on earth, while they were still in heaven, as stated by Az-Zamakhshari. Possibly he never met them, but planted the suggestion in their minds from afar - a thing which Satan can always do, and of which we have a specimen in the work of the hypnotists.
 
 ## Tafsir Ibn Kathir
 

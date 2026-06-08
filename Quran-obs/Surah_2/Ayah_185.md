@@ -198,7 +198,7 @@ The present verse is an extension of the previous brief verse and also an assert
 
 ## Tafsir Summary
 
-The month of Ramadan in which was revealed the Qur'an, a guidance for mankind and clear proofs for the guidance and the criterion (between right and wrong). The merits of the month of Ramadan The present verse is an extension of the previous brief verse and also an assertion of the great merit the month of Ramadan holds in its fold.
+So whoever of you sights (the crescent on the first night of) the month (of Ramadan, i.e., is present at his home), he must observe Sawm (fasting) that month, and whoever is ill or on a journey, the same number [of days which one did not observe Sawm (fasting) must be made up] from other days.
 
 ## Tafsir Ibn Kathir
 

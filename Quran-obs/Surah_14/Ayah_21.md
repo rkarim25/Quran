@@ -149,7 +149,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they all shall appear before Allah; then the weak will say to those who were arrogant: "Verily, we were following you; can you avail us anything against Allah's torment?" They will say: "Had Allah guided us, we would have guided you. In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَكْفُرُ‌وا أَنتُمْ وَمَن فِي الْأَرْ‌ضِ جَمِيعًا (And Musa said, "If you are ungrateful, you and all those on earth, then, Allah is free of all needs, worthy of every praise.) " This was said by Sayyidna Musa (علیہ السلام) to his people.
+It makes no difference to us (now) whether we rage, or bear (these torments) with patience; there is no place of refuge for us.
 
 ## Tafsir Ibn Kathir
 

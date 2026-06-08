@@ -154,7 +154,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-You are the best of peoples ever raised up for mankind; you enjoin Al-Ma'ruf (all that Islam has ordained) and forbid Al-Munkar (all that Islam has forbidden), and you believe in Allah. A detailed discussion on this subject has already appeared under comments on verse 61 of Surah al-Baqarah where the text has not mentioned any exception.
+The possibility that they live with freedom after making a peace treaty with Muslims is included here.
 
 ## Tafsir Ibn Kathir
 

@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He (Allah) said: "Get you down, both of you, together, some of you are an enemy to some others. The اهْبِطَا مِنْهَا جَمِيعًا (123) mean "both of you go down together".
+Then if there comes to you guidance from Me, then whoever follows My guidance he shall neither go astray nor shall be distressed (123)But whosoever turns away from My Reminder, verily, for him is a life of hardship, and We shall raise him up blind on the Day of Resurrection.
 
 ## Tafsir Ibn Kathir
 

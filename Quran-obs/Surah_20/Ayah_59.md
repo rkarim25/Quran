@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He (Fir'awn) said: "Have you come to drive us out of our land with your magic, O Musa? مَوْعِدُكُمْ يَوْمُ الزِّينَةِ وَأَن يُحْشَرَ‌ النَّاسُ ضُحًى (Your appointment is the festival day and that the people are assembled at forenoon - 20:59).
+This day was selected so that all of the people could witness the power of Allah to do whatever He wills. There was also a point in fixing early forenoon as the time for the contest because this is the time when people, having finished their daily chores, are free to engage in other things.
 
 ## Tafsir Ibn Kathir
 

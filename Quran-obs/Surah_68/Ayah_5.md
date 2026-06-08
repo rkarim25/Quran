@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(1. فَسَتُبْصِرُ‌ وَيُبْصِرُ‌ونَ بِأَييِّكُمُ الْمَفْتُونُ (So, you will see, and they will see which of you is demented....68:5-6].
+And verily, you are on an exalted character.)(5. He has taught man that which he knew not.)(96:3-5) Therefore, this statement is Allah's swearing and alerting His creatures to what He has favored them with by teaching them the skill of writing, through which knowledge is attained.
 
 ## Tafsir Ibn Kathir
 

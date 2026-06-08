@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Children of Israel! Verse 47 asks the Israelites to call to their minds the blessing of Allah, so that the recognition of the benefits they have received may induce them to be thankful to Allah and thus to obey Him.
+Verse 47 asks the Israelites to call to their minds the blessing of Allah, so that the recognition of the benefits they have received may induce them to be thankful to Allah and thus to obey Him. Reminding the Children of Israel that They were preferred above the Other Nations Allah reminds the Children of Israel of the favors that He granted their fathers and grandfathers, how He showed preference to them by sending them Messengers from among them and revealing Books to them…
 
 ## Tafsir Ibn Kathir
 

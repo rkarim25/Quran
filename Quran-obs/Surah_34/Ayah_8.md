@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who disbelieve say: "Shall we direct you to a man who will tell you (that) when you have become fully disintegrated into dust with full dispersion, then you will be created (again) anew? They say: أَفْتَرَ‌ىٰ عَلَى اللَّـهِ كَذِبًا أَم بِهِ جِنَّةٌ (Has he forged a lie against Allah, or is there a madness in him?"- 34:8).
+Therefore, this claim of the Holy Prophet ﷺ is either a deliberate attempt to fabricate a lie against Allah Ta’ ala, or the person who says so is insane and no premise of his statement is correct. Nay, but those who disbelieve in the Hereafter are (themselves) in a torment, and in far error (8)See they not what is before them and what is behind them, of the heaven and the earth?
 
 ## Tafsir Ibn Kathir
 

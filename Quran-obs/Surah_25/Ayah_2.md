@@ -92,7 +92,7 @@ Here Allah praises Himself for the Noble Qur'an He has revealed to His noble Mes
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Special Wisdom in every creation فَقَدَّرَ‌هُ تَقْدِيرً‌ا (And designed it in a perfect measure - 25:2): Here تَقْدِير‌ (designing in a perfect measure) is mentioned after تخلِیق (Creation).
+He is the Creator, Lord, Master and God of all things, and everything is subject to His dominion, control and power.
 
 ## Tafsir Ibn Kathir
 

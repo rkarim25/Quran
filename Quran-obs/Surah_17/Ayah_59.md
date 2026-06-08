@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And nothing stops Us from sending the Ayat but that the people of old denied them. The word 'al-wasilah' in: يَبْتَغُونَ إِلَىٰ رَ‌بِّهِمُ الْوَسِيلَةَ (seek the means of close ness to their Lord - 57) conveys the sense of that which is used as a means of reaching someone.
+And nothing stops Us from sending the Ayat but that the people of old denied them. And We sent the she-camel to Thamud as a clear sign, but they did her wrong.
 
 ## Tafsir Ibn Kathir
 

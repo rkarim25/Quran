@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when they see you, they treat you only in mockery (saying): "Is this the one whom Allah has sent as a Messenger (41)"He would have nearly misled us from our gods, had it not been that we were patient and constant in… In the above verses it is mentioned that it had been the common practice of the people through the ages to rebuff the prophets and the message they had brought.
+Cattle only do what they were created to do, but these people were created to worship Allah Alone without associating partners with Him, but they worship others with Him, even though evidence has been established against them and Messengers have been sent to them.
 
 ## Tafsir Ibn Kathir
 

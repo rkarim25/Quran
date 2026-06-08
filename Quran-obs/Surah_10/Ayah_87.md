@@ -78,7 +78,7 @@ And We revealed to Musa and his brother (saying): "Provide dwellings for your pe
 
 ## Tafsir Summary
 
-And We revealed to Musa and his brother (saying): "Provide dwellings for your people in Egypt, and make your dwellings as places for your worship, and perform the Salah, and give glad tidings to the believers. Mentioned in the verses appearing immediately above, there are some circumstantial details along with their corresponding injunctions as they relate to Sayyidna Musa and Sayyidna Harun (علیہما السلام) and the children of Isra'il and the people of the Pharaoh.
+It was said there that new houses should be built in Egypt for Bani Isra'il and that their orientation should be towards the Qiblah so that prayers could be offered in those very residential houses. But it was because of a particular incident that the Bani Isra'il were temporarily allowed to offer their prayers at home and, for this purpose, they were to have houses oriented towards the Qiblah.
 
 ## Tafsir Ibn Kathir
 

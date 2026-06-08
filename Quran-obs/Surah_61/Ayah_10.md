@@ -56,7 +56,7 @@ This is followed by a description of the Jihads which Prophets Musa and ` Isa (�
 
 ## Tafsir Summary
 
-O you who believe! إِنَّ اللَّـهَ يُحِبُّ الَّذِينَ يُقَاتِلُونَ فِي سَبِيلِهِ صَفًّا كَأَنَّهُم بُنْيَانٌ مَّرْ‌صُوصٌ (Surely Allah loves those who fight in His way in firm rows, as if they were a solid edifice...61:4) The main subject of this Surah for which it was revealed is to mention the dearest action in the sight of Allah.
+Shall I guide you to a trade that will save you from a painful torment?) Allah then explained this great trade that will never fail, the trade that will earn one what he wishes and saves him from what he dislikes. Shall I guide you to a trade that will save you from a painful torment (10)That you believe in Allah and His Messenger, and that you strive hard and fight in the cause of Allah with your wealth and your lives, that will be better for you, if you but know (11)(If you…
 
 ## Tafsir Ibn Kathir
 

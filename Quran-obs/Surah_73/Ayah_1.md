@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. The Holy Prophet ﷺ is addressed in this verse with reference to a particular style of wrapping himself in his clothes.
+The word muzzammil literally means 'one wrapped up in clothes' and its near-synonym 'muddaththir' comes in the next Surah.
 
 ## Tafsir Ibn Kathir
 

@@ -159,7 +159,7 @@ Allah says, there has come to you from Allah a Glorious Qur'an revealed to Muham
 
 ## Tafsir Summary
 
-Lest you should say: "The Book was sent down only to two sects before us, and for our part, we were in fact unaware of what they studied. The reason of being ` ignorant of (or heedless to) what they studied - 156' was not that the Torah and the Injil were non-existent in the Arabic language because it is possible to become informed of the contents through a translation, in fact, this happens.
+Commentary The reason of being ` ignorant of (or heedless to) what they studied - 156' was not that the Torah and the Injil were non-existent in the Arabic language because it is possible to become informed of the contents through a translation, in fact, this happens. We shall requite those who turn away from Our Ayat with an evil torment, because of their turning away .
 
 ## Tafsir Ibn Kathir
 

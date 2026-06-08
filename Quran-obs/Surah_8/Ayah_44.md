@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(And remember) when Allah showed them to you as few in your dream; if He had shown them to you as many, you would surely have been discouraged, and you would surely have disputed in making a decision. In the last verse, along with this, it has also been mentioned: وَيُقَلِّلُكُمْ فِي أَعْيُنِهِمْ (and reduced your number in their eyes - 44).
+Verily, in this is a lesson for those who understand.)[3:13] This is how we combine these two Ayat, and certainly, each one of them is true, all the thanks are due to Allah and all the favors are from Him.
 
 ## Tafsir Ibn Kathir
 

@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We have created man, and We know what his self whispers to him. The Unseen World Becomes Visible at Death فَكَشَفْنَا عَنكَ غِطَاءَكَ فَبَصَرُ‌كَ الْيَوْمَ حَدِيدٌ (Now We have removed your veil from you; so your sight today is sharp...50:22).
+Now We have removed from you, your covering, and sharp is your sight this Day!) is directed at humanity.
 
 ## Tafsir Ibn Kathir
 

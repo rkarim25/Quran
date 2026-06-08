@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Hadith of Abu Waqid preceded, in which it is mentioned that the Messenger of Allah ﷺ would recite Surah Qaf (chapter 53) and Iqtarabat As-Sa'ah (Al-Qamar, chapter 54), during (the 'Id Prayers of) Al-Adha and Al-Fitr. وَكُلُّ أَمْرٍ‌ مُّسْتَقِرٌّ‌ (...while every matter has to be settled....54:3).
+And indeed there has come to them news wherein there is Muzdajar.)(5.
 
 ## Tafsir Ibn Kathir
 

@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when Our Ayat are recited to them, they say: "We have heard (the Qur'an); if we wish we can say the like of this. Mentioned in verses 31 and 32 is the absurd remark made by Nadr ibn Harith, a participant of the same meeting at Dar al-Nadwah, with its reply appearing in verse 33.
+Now, after all this, to stand up and say that we too can say something like this, if we so wished, is something no self-respecting person would venture to say.
 
 ## Tafsir Ibn Kathir
 

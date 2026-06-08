@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But your people have denied it (the Qur'an) though it is the truth. In the second verse (66), after mentioning the anti-truth stand taken by the Quraysh of Makkah, the Holy Prophet ﷺ also from the same tribe, has been instructed that he should tell those people asking about the precise time when the promised punishment will come that he has not been appointed to do that for them.
+The truth is that for everything there is a point of time as determined in Divine knowledge.
 
 ## Tafsir Ibn Kathir
 

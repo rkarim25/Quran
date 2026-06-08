@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The disbelievers pretend that they will never be resurrected. فَآمِنُوا بِاللَّـهِ وَرَ‌سُولِهِ وَالنُّورِ‌ الَّذِي أَنزَلْنَا (So, believe in Allah and His Messenger, and in the light We have sent down…64:8).
+The word Nur [ light ] in this context refers to the Qur’ an.
 
 ## Tafsir Ibn Kathir
 

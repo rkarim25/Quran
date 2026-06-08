@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Recitation of Surah Ash-Shams wa Duhaha in the 'Isha' Prayer The Hadith of Jabir which was recorded in the Two Sahihs has already been mentioned. Allah swears by the objects and phenomena mentioned in verses [ 1-7], which gives these creations an added significance and draws man's attention to them.
+The phrase and his broad light' is, though conjoined to 'by the sun' by means of the conjunctive particle 'and', the context indicates that 'broad light' is in adjectival position qualifying shams 'the sun', that is to say, 'I swear by the sun when it is in the time of forenoon.
 
 ## Tafsir Ibn Kathir
 

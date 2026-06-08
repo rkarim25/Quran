@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And what is wrong with you that you fight not in the cause of Allah, and for those weak, ill-treated and oppressed among men, women, and children, whose cry is: "Our Lord! Praying to Allah is the panacea for all hardships The words of prayer in verse 75: يَقُولُونَ رَ‌بَّنَا أَخْرِ‌جْنَا tell us that one of the reasons why the command to fight came was the prayer made by these weak Muslim men and women.
+So, Muslims should really not demur when it comes to fighting against the friends of Satan, that is, against the disbelievers.
 
 ## Tafsir Ibn Kathir
 

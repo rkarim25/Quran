@@ -24,7 +24,7 @@ The present verses and those appearing immediately earlier were revealed in the 
 
 ## Tafsir Summary
 
-And if We had ordered them (saying), "Kill yourselves (i.e. The present verses and those appearing immediately earlier were revealed in the background of an incident relating to Bishr, the hypocrite.
+This will make their faith more firm, bringing a great reward from Allah, and the blessing of being guided to the straight path.
 
 ## Tafsir Ibn Kathir
 

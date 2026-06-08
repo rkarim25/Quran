@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "There is nothing but our life of this world, we die and we live and nothing destroys us except Ad-Dahr (time). وَمَا يُهْلِكُنَا إِلَّا الدَّهْرُ‌ "...and nothing destroys us except time...(45:24) " The word dahr means ` time from the beginning of the world to its end'.
+Here Allah is referred to as ad-dahr metaphorically or figuratively.
 
 ## Tafsir Ibn Kathir
 

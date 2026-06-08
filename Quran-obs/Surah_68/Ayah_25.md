@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, We have tried them as We tried the People of the Garden, when they swore to pluck the fruits in the morning (17)Without (saying: "If Allah wills." (18)Then there passed over it a Ta'if from your Lord while they were asleep (19)So by the morning, it became like As-Sarim (20)Then they called out (one to another as soon) as the morning broke (21)Saying: "Go to your tilth in the morning, if you would pluck (the fruits). وَغَدَوْا عَلَىٰ حَرْ‌دٍ قَادِرِ‌ينَ And in early hours of the day they rushed quickly, while they were (assuming themselves) powerful (to pluck the fruits and prevent the poor.) [ 68:25] '.
+The word hard means 'to prevent' and 'to express anger'.5 In other words, they thought they had the power to pick the fruit for themselves and prevent the poor people from having a share in it, and even if they do come to the garden, the owners of the garden decided to chase them out.
 
 ## Tafsir Ibn Kathir
 

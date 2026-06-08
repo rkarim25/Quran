@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Musa said: "O my people! It was said in the last verse (64) that, for the friends of Allah, there is the good news in the worldly life and in the Hereafter.
+Make us not a trial for the folk who are wrongdoers.) This means don't give them victory over us so that they rule us.
 
 ## Tafsir Ibn Kathir
 

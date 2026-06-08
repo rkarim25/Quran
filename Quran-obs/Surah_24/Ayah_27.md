@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! The fifth injunction regarding mutual meetings and asking permission before entering anyone's home Right from the beginning of Surah An-Nur it is enjoined to curb the obscenity and immorality in the society, and to restrain this, various punishments are prescribed.
+One should seek permission three times, and if permission is given, (he may enter), otherwise he should go away.
 
 ## Tafsir Ibn Kathir
 

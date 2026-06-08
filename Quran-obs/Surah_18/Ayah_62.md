@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Musa said to his boy-servant: "I will not give up until I reach the junction of the two seas or a Huqub passes. Precedence of Sayyidna Musa (علیہ السلام) over Al-Khadir (علیہ السلام) ، his up-bringing and miracles So, when they reached the meeting point of the two seas, they forgot their fish and it made its way into the sea as in a tunnel- 61.
+Therefore, some of the commentators said that this grilled fish was put in to eat and, during the course of the journey, the two travelers kept eating out of it as well. This was the third test, because any realization of fatigue and hunger should have naturally come earlier than that.
 
 ## Tafsir Ibn Kathir
 

@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But as for him who will be given his Record in his left hand, will say: "I wish that I had not been given my Record!") (25)"And that I had never known how my account is! هَاؤُمُ اقْرَ‌ءُوا كِتَابِيَهْ (Come here, read my book… 69:19).
+And that I had never known how my account is!
 
 ## Tafsir Ibn Kathir
 

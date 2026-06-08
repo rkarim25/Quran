@@ -130,7 +130,7 @@ Al-'Awfi reported that Ibn 'Abbas said that the Ayah was revealed about some peo
 
 ## Tafsir Summary
 
-Then what is the matter with you that you are divided into two parties about the hypocrites? Different forms of Emigration and their Rules Hijrah (Emigration) mentioned in verse 89 has been taken up in detail under the commentary on verse 100 of Surah al-Nis-a' which appears a little later.
+Allah has cast them back because of what they have earned. Do you kill a people who say as you have said, just because they did not perform Hijrah or leave their land?
 
 ## Tafsir Ibn Kathir
 

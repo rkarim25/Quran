@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So nothing was the answer of people except that they said: "Kill him or burn him." Then Allah saved him from the fire. The infidels of Makkah believed that it is Allah who has created the whole universe, but they deemed it impossible that the people will be resurrected after they once die.
+So nothing was the answer of people except that they said: "Kill him or burn him." Then Allah saved him from the fire. The Response of Ibrahim's People – and how Allah controlled the Fire Allah tells us how Ibrahim's people stubbornly and arrogantly disbelieved, and how they resisted the truth with falsehood.
 
 ## Tafsir Ibn Kathir
 

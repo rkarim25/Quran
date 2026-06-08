@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We settled the Children of Israel in an honorable dwelling place, and provided them with good things, and they differed not until the knowledge came to them. The second verse (93) brings the future of a people bulldozed in disgrace by the Pharaoh into sharp focus making it stand out against the evil end of the tyrant.
+And indeed We settled the Children of Israel in an honorable dwelling place, and provided them with good things, and they differed not until the knowledge came to them. The Establishment of the Children of Israel in the Land and Their Provision from the Good Things In these Ayat, Allah tells us about all the worldly and religious gifts which He bestowed upon the Children of Israel.
 
 ## Tafsir Ibn Kathir
 

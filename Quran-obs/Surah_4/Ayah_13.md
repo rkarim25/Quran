@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-These are the limits (set by) Allah, and whosoever obeys Allah and His Messenger, will be admitted to Gardens under which rivers flow (in Paradise), to abide therein, and is the great success (13)And whosoever disobeys A… It is the consistent style of the Holy Qur'an that whenever it has described the beliefs and injunctions prescribed by Allah, it is followed by promises of reward or warnings of punishment.
+This is because he changed what Allah has ordained and disputed with His judgment. Indeed, this is the behavior of those who do not agree with what Allah has decided and divided, and this is why Allah punishes them with humiliation in the eternal, painful torment.
 
 ## Tafsir Ibn Kathir
 

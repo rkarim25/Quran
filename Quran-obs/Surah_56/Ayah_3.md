@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Waqi'ah Abu Ishaq reported from 'Ikrimah from Ibn 'Abbas that Abu Bakr said, "O Allah's Messenger! خَافِضَةٌ رَّ‌افِعَةٌ (It will be abasing [ some ], exalting [ others ]...56:3).
+There is not, for its occurrence, Kadhibah.)(3. It also elevates others to the highest grades in the residence of eternal delight, even if they were weak in this life.
 
 ## Tafsir Ibn Kathir
 

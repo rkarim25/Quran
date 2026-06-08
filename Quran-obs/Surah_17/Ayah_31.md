@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And kill not your children for fear of poverty. Previous verses carried a series of instructions regarding human rights.
+May be, this approach is not a sin equal in gravity to that of the killing of children, but there is no doubt about its being blameworthy.
 
 ## Tafsir Ibn Kathir
 

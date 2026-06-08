@@ -157,7 +157,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So unto this then invite (people), and stand firm as you are commanded, and follow not their desires but say: "I believe in whatsoever Allah has sent down of the Book and I am commanded to do justice among you. "So, (0 prophet,) towards that (faith) invite (people), and be steadfast as you are commanded, and do not follow their desires, and say, "I believe in whatever book Allah has sent down.
+Some exegetes have stated that this verse was revealed in Makkah before the command for jihad with non-Muslims was revealed; the verses conveying the command for jihad have cancelled this command, because the essence of jihad is to subjugate those people by fighting who do not accept the advice and exhortation - not to let them remain in the state of kufr.
 
 ## Tafsir Ibn Kathir
 

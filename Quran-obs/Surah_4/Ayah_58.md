@@ -116,7 +116,7 @@ Ibn Jarir recorded that Ibn Jurayj said about this Ayah, "It was revealed concer
 
 ## Tafsir Summary
 
-Verily, Allah commands that you should render back the trusts to those, to whom they are due; and that when you judge between men, you judge with justice. The background of the revelation of these verses The first of the two verses cited above was revealed in the back-ground of a particular event which related to the custodial service of the Ka'bah, an office of great honour even before the advent of Islam.
+Obedience to the Divine commands of this nature is, though, the very obedience, of the commands of Allah Almighty in reality, but, speaking formally, since these commands are not physically and explicitly the Qur'an as such - they have reached the community through the blessed words of the Holy Prophet ﷺ - therefore, obedience to them is academically said to be an obedience to the Messenger which, in reality, despite being in unison with obedience to the Divine, does have a s…
 
 ## Tafsir Ibn Kathir
 

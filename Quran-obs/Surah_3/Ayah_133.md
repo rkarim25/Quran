@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! The first command was: 'Obey the Messenger'.
+Here, Forgiveness stands for the means of obtaining forgiveness, that is, good deeds which bring forth forgiveness.
 
 ## Tafsir Ibn Kathir
 

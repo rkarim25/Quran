@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So when you recite the Qur'an, seek refuge with Allah from Shaytan, the outcast (98)Verily, he has no power over those who believe and put their trust only in their Lord (99)His power is only over those who obey and foll… The way of Faith and Trust in Allah is the way of freedom from the power and control of the Shaitan Verses 99 and 100 make it clear that Allah Ta’ ala has not given the Shaitan the kind of power which would disarm any human being and compel him to become helpless and take to evil.
+The way of Faith and Trust in Allah is the way of freedom from the power and control of the Shaitan Verses 99 and 100 make it clear that Allah Ta’ ala has not given the Shaitan the kind of power which would disarm any human being and compel him to become helpless and take to evil.
 
 ## Tafsir Ibn Kathir
 

@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-That they may witness things that are of benefit to them, and mention the Name of Allah on appointed days, over the beast of cattle that He has provided for them. لِّيَشْهَدُوا مَنَافِعَ لَهُمْ (So that they witness benefits for them - 22:28) means that the arduous journey undertaken by people to perform pilgrimage is to their own advantage.
+Here it is important to bear in mind that the main object of sacrificing the animals on this occasion is not their meat, but the mention of Allah's name which is recited while the animal is being slaughtered, which is the essence of the worship.
 
 ## Tafsir Ibn Kathir
 

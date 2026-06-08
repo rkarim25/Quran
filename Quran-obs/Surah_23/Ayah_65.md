@@ -41,7 +41,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We task not any person except according to his capacity, and with Us is a Record which speaks the truth, and they will not be wronged (62)Nay, but their hearts are covered from this, and they have other deeds, besides which they are doing (63)Until when We seize those of them who lead a luxurious life with punishment; behold, they make humble invocation with a loud voice (64)Invoke not loudly this day! مُتْرَ‌فِيهِم (their affluent ones - 23:64).
+The rich people have been specially mentioned here because they are the ones who make adequate arrangements to protect themselves against disasters and misfortunes.
 
 ## Tafsir Ibn Kathir
 

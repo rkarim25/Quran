@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah has promised you abundant spoils that you will capture, and He has hastened for you this, and He has restrained the hands of men from you, that it may be a sign for the believers, and that He may guide you to the straight path (20)And other (victories) which are not yet within your power; indeed Allah encompasses them. وَأُخْرَ‌ىٰ لَمْ تَقْدِرُ‌وا عَلَيْهَا قَدْ أَحَاطَ اللَّـهُ بِهَا (And (there are) other (victories) that have not come within your power as yet, (but) Allah has encompassed them...." (48:21).
+They would not have found any helper or supporter, because they were fighting Allah, His Messenger ﷺ and His Faithful Party. And Allah is Ever Able to do all things.) Meaning, there are other war spoils and victories to come which are not within your grasp now.
 
 ## Tafsir Ibn Kathir
 

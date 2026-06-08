@@ -83,7 +83,7 @@ Ibn 'Abbas narrated that these Ayat were revealed about some of the hypocrites w
 
 ## Tafsir Summary
 
-And of mankind there is he whose speech may please you (O Muhammad ﷺ), in this worldly life, and he calls Allah to witness as to that which is in his heart, yet he is the most quarrelsome of the opponents (204)And when he turns away (from you O Muhammad ), his effort in the land is to make mischief therein and to destroy the crops and the cattle, and Allah likes not mischief (205)And when it is said to him, "Fear Allah", he is led by arrogance to (more) crime. In the previous verses, it was said that there are two kinds of those who make prayers.
+And of mankind there is he whose speech may please you (O Muhammad ﷺ), in this worldly life, and he calls Allah to witness as to that which is in his heart, yet he is the most quarrelsome of the opponents (204)And when he turns away (from you O Muhammad ), his effort in the land is to make mischief therein and to destroy the crops and the cattle, and Allah likes not mischief (205)And when it is said to him, "Fear Allah", he is led by arrogance to (more) crime.
 
 ## Tafsir Ibn Kathir
 

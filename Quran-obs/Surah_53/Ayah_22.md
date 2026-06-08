@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you then considered Al-Lat, and Al-'Uzza (19)And Manat, the other third (20)Is it for you the males and for Him the females (21)That indeed is a division most unfair (22)They are but names which you have named - you and your fathers - for which Allah has sent down no authority. قِسْمَةٌ ضِيزَىٰ (If so, it is a totally unjust division....
+They built houses for their idols to resemble the Ka'bah built by Prophet Ibrahim, Allah's Khalil. The tribes of Khuza'ah, Aws and Khazraj used to revere Manat during the time of Jahiliyyah.
 
 ## Tafsir Ibn Kathir
 

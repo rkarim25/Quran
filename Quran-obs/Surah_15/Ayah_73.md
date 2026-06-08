@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So the Sayhah overtook them at the time of sunrise (73)And We turned them upside down and rained stones of baked clay upon them (74)Surely, in this are signs for those who see (75)And verily, they were right on the highr… A Great Honour for the Holy Prophet ﷺ About the word of Allah: لَعَمرُکَ (la'amruk : By your life), the majority of commentators, as reported in Ruh al-Ma’ ani, have said that the addressee of 'la'amruka' is the Holy Prophet ﷺ .
+So the Sayhah overtook them at the time of sunrise (73)And We turned them upside down and rained stones of baked clay upon them (74)Surely, in this are signs for those who see (75)And verily, they were right on the highroad (76)Surely, there is indeed a sign in that for the believers .
 
 ## Tafsir Ibn Kathir
 

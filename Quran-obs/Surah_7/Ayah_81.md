@@ -51,7 +51,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) Lut, when he said to his people: "Do you commit lewdness such as none preceding you has committed in all of the nations (80)"Verily, you practice your lusts on men instead of women. In the second verse (81), this immodesty has been stated more explicitly - ` Surely, you come to men lustfully instead of women.' Here, the hint given is that, for the natural satisfaction of human desire, Allah 'Ta` ala has appointed marrying women as a lawful method.
+In the second verse (81), this immodesty has been stated more explicitly - ` Surely, you come to men lustfully instead of women.' Here, the hint given is that, for the natural satisfaction of human desire, Allah 'Ta` ala has appointed marrying women as a lawful method.
 
 ## Tafsir Ibn Kathir
 

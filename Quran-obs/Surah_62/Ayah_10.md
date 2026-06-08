@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Blessings in Business after Jumu’ ah فَإِذَا قُضِيَتِ الصَّلَاةُ فَانتَشِرُ‌وا فِي الْأَرْ‌ضِ وَابْتَغُوا مِن فَضْلِ اللَّـهِ (Then once the salah is finished, disperse in the land, and seek the grace of Allah…62:10).
+That is better for you if you did but know (9)Then when the Salah is complete, you may disperse through the land, and seek the bounty of Allah, and remember Allah much, that you may be successful .
 
 ## Tafsir Ibn Kathir
 

@@ -129,7 +129,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Prophet is closer to the believers than themselves, and his wives are their mothers. As stated earlier, most of the subjects in Surah al-Ahzab relate to the reverence of the Holy Prophet t and to the unlawfulness of causing pain to him.
+Thus, it means that the relationship of the revered rasul and his blessed wives with the believers of the community is, though of a degree which precedes even that of a mother and father but, on the injunctions relating to the distribution of inheritance, this has simply no bearing.
 
 ## Tafsir Ibn Kathir
 

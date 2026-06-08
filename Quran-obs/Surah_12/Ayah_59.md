@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Yusuf's brethren came and they entered unto him, and he recognized them, but they recognized him not (58)And when he furnished them with their provisions, he said: "Bring me a brother of yours from your father. The purpose of Sayyidna Yusuf (علیہ السلام) in asking these questions was to make his brothers open up and relate events fully.
+After him, he became attached to his younger real brother and that is why he did not send him along with us on this trip so that he can be a source of his comfort.
 
 ## Tafsir Ibn Kathir
 

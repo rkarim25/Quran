@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Do you verily disbelieve in Him Who created the earth in two Days? فَقَالَ لَهَا وَلِلْأَرْ‌ضِ ائْتِيَا طَوْعًا أَوْ كَرْ‌هًا قَالَتَا أَتَيْنَا طَائِعِينَ (and said to it and to the earth, "Come [ to My obedience ], both of you, willingly or unwillingly." Both said, "We come willingly." - 41:11) This command addressed to the earth and sky and their compliant and obedient reply, according to some exegetes, is a metaphorical expression for the readiness of the earth and the sky to comply with every order from Allah Almighty.
+This is how He described Himself, and this is how He still is.
 
 ## Tafsir Ibn Kathir
 

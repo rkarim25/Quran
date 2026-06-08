@@ -111,7 +111,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Allah gives the example of a township (Makkah), it was secure and peaceful: its provision coming to it in abundance from every place, but it (its people) denied the favors of Allah. According to leading Tafsir authorities, the similitude mentioned in verse 112 is general and universal.
+And Allah gives the example of a township (Makkah), it was secure and peaceful: its provision coming to it in abundance from every place, but it (its people) denied the favors of Allah. The Example of Makkah This example refers to the people of Makkah, which had been secure, peaceful and stable, a secure sanctuary while men were being snatched away from everywhere outside of it.
 
 ## Tafsir Ibn Kathir
 

@@ -116,7 +116,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Prior to this, there were injunctions relevant to religious considerations.
+This is the oath of the heirs, and preference is to be given to their saying.
 
 ## Tafsir Ibn Kathir
 

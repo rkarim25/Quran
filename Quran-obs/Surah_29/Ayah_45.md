@@ -101,7 +101,7 @@ Allah created the heavens and the earth with truth. Verily, therein is surely a 
 
 ## Tafsir Summary
 
-Allah created the heavens and the earth with truth. اتْلُ مَا أُوحِيَ إِلَيْكَ (And recite (0 Muhammad) what is revealed to you - 29:45).
+Verily, the Salah prevents from Al-Fahsha' and Al-Munkar and the remembrance of Allah is greater indeed.) Prayer includes two things: the first of which is giving up immoral behavior and evil deeds, i.e., praying regularly enables a person to give up these things.
 
 ## Tafsir Ibn Kathir
 

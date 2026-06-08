@@ -128,7 +128,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! The Proof of Ijtihad اِجتِھاد and Qiyas قیاس Finally, let us now refer to the statement: فَإِن تَنَازَعْتُمْ فِي شَيْءٍ فَرُ‌دُّوهُ إِلَى اللَّـهِ وَالرَّ‌سُولِ in verse 59 (Then, if you quarrel about something, revert i…
+Mujahid and several others among the Salaf said that the Ayah means, "(Refer) to the Book of Allah and the Sunnah of His Messenger." This is a command from Allah that whatever areas the people dispute about, whether major or minor areas of the religion, they are required to refer to the Qur'an and Sunnah for judgment concerning these disputes.
 
 ## Tafsir Ibn Kathir
 

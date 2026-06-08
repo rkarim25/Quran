@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do they attribute as partners to Allah those who created nothing but they themselves are created (191)No help can they give them, nor can they help themselves (192)And if you call them to guidance, they follow you not. In short, all the above acts or beliefs are different forms of 'Shirk' ~,.
+Idols do not create, help, or have Power over Anything Allah admonishes the idolators who worshipped idols, rivals and images besides Him, although these objects were created by Allah, and neither own anything nor can they bring harm or benefit.
 
 ## Tafsir Ibn Kathir
 

@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "Disguise her throne for her that we may see whether she will be guided, or she will be one of those not guided. قَالَ الَّذِي عِندَهُ عِلْمٌ مِّنَ الْكِتَابِ (Said the one who had the knowledge of the book - 27:40).
+The Test of Bilqis When Sulayman brought the throne of Bilqis before she and her people arrived, he issued orders that some of its features should be altered, so that he could test her and see whether she recognized it and how composed she would be when she saw it. She did not hasten to say that this was her throne, because it was far away from her.
 
 ## Tafsir Ibn Kathir
 

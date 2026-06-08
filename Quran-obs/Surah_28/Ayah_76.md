@@ -128,7 +128,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, Qarun was of Musa's people, but he behaved arrogantly towards them. From the beginning of Surah Al-Qasas to this point, the story of Sayyidna Musa (علیہ السلام) with the Pharaoh and his people was narrated.
+Verily, Qarun was of Musa's people, but he behaved arrogantly towards them. Normally the keys of the locks are light, but because of their large number, their weight had multiplied so much that it was not possible even for a group of strong persons to lift them all.
 
 ## Tafsir Ibn Kathir
 

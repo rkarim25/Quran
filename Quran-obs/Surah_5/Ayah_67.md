@@ -112,7 +112,7 @@ Al-Bukhari recorded that 'A'ishah said, "Whoever says to you that Muhammad hid a
 
 ## Tafsir Summary
 
-O Messenger! Emphasis on Tabligh and Comfort for the Prophet ﷺ In the present verses as well as throughout the previous two sections, there has been a continued description of the crookedness, waywardness, obstinacy and anti-Islam mechanizations of Jews and Christians.
+Therefore, in the last verse (67), the Holy Prophet ﷺ was, on the one hand, emphatically commanded to convey everything revealed to him by Allah, all of it, without any hesitation, to the people. Commanding the Prophet (ﷺ) to Convey the Message; Promising Him Immunity and Protection Allah addresses His servant and Messenger Muhammad by the title 'Messenger' and commands him to convey all that He has sent him, a command that the Prophet ﷺ has fulfilled in the best manner.
 
 ## Tafsir Ibn Kathir
 

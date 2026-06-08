@@ -33,7 +33,7 @@ Imam Ahmad recorded that Abu Hurayrah said, "The idolators of the Quraysh came t
 
 ## Tafsir Summary
 
-Verily, the criminals are in error and will burn (47)The Day they will be dragged on their faces into the Fire (it will be said to them): "Taste you the touch of Hell! The word زُبُر zubur (in verse 43) is the plural of zabur, which stands for any written book.
+The Destination of the Criminals Allah the Exalted states that the criminals are misguided away from the truth and engulfed in confusion, because of the doubts and uncertainty they are in. The other meaning of the word is 'madness' and the translation in the text is based on this meaning.
 
 ## Tafsir Ibn Kathir
 

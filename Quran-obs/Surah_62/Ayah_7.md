@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The likeness of those who were entrusted with the Tawrah, but did not carry it, is as the likeness of a donkey which carries huge burdens of books. وَلَا يَتَمَنَّوْنَهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ (And they will never express this desire, because of what their hands have sent ahead…62:7) .
+Surely, when the donkey carries books, it will not understand what these books contain because it is only carrying these books using its strength.
 
 ## Tafsir Ibn Kathir
 

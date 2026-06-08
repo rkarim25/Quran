@@ -322,7 +322,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then after the distress, He sent down security for you. The noble Companions as evident from: وَلِيَبْتَلِيَ اللَّـهُ مَا فِي صُدُورِ‌كُمْ (154), were actually tested through their sufferings at the battle of Uhud.
+Slumber Overcame the Believers; the Fear that the Hypocrites Suffered Allah reminds His servants of His favor when He sent down on them tranquillity and slumber that overcame them while they were carrying their weapons and feeling distress and grief.
 
 ## Tafsir Ibn Kathir
 

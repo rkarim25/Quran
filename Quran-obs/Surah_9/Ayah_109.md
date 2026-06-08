@@ -119,7 +119,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Is it then he who laid the foundation of his building on Taqwa to Allah and His good pleasure better, or he who laid the foundation of his building on the brink of an undetermined precipice ready to crumble down, so that it crumbled to pieces with him into the fire of Hell. In the third (109) and the fourth (110) verses, Masjid Dirar (the harmful mosque) made by the hypocrites has been condemned as it has to be when compared with a masjid that is blessed.
+Now, if someone starts building there, it is obvious that the whole thing would collapse instantly.
 
 ## Tafsir Ibn Kathir
 

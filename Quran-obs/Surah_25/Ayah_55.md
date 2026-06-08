@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they worship besides Allah, that which can neither profit them nor harm them; and the disbeliever is ever a helper against his Lord (55)And We have sent you only as a bearer of good news and a warner (56)Say: "No reward do I ask of you for this, save that whosoever wills may take a path to his Lord. وَهُوَ الَّذِي خَلَقَ مِنَ الْمَاءِ بَشَرً‌ا فَجَعَلَهُ نَسَبًا وَصِهْرً‌ا (And He is the One who created man from water then made of him kinship of blood and kinship of in-laws.
+The Ignorance of the Idolators Allah tells us how ignorant the idolators are; instead of worshipping Allah, they worship idols which do not possess the power either to harm or benefit. They cannot help them, but they will be brought forward as a troop against those who worshipped them.)(36:74-75) meaning, the gods which they worshipped instead of Allah cannot help them.
 
 ## Tafsir Ibn Kathir
 

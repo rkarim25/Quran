@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the servants of the Most Gracious are those who walk on the earth Hawna, and when the foolish address them they say; "Salama. The Fourth Characteristic وَالَّذِينَ يَبِيتُونَ لِرَ‌بِّهِمْ سُجَّدًا وَقِيَامًا (and those who pass the night prostrating and standing before their Lord, - 25:64).
+Special mention of night worship is made here firstly, because this time being a time of rest, requires extra effort, and secondly because it rules out the possibility of showing one's worship to others.
 
 ## Tafsir Ibn Kathir
 

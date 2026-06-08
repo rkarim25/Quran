@@ -80,7 +80,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Tell me! وَمِن قَبْلِهِ كِتَابُ مُوسَىٰ إِمَامًا وَرَ‌حْمَةً (And before this, there was the Book of Musa, a guide and a mercy.
+And this is a Book confirming in the Arabic tongue, to warn those who do wrong, and as glad tidings for the doers of good (12)Verily, those who say: "Our Lord is (only) Allah," and thereafter stand firm, on them shall be no fear, nor shall they grieve (13)Such shall be the dwellers of Paradise, abiding therein (forever) – a reward for what they used to do .
 
 ## Tafsir Ibn Kathir
 

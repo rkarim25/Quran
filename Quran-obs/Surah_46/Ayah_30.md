@@ -92,7 +92,7 @@ And (remember) when We sent toward you a group of the Jinn, to listen to the Qur
 
 ## Tafsir Summary
 
-And (remember) when We sent toward you a group of the Jinn, to listen to the Qur'an. كِتَابًا أُنزِلَ مِن بَعْدِ مُوسَىٰ (a book sent down after Musa).
+Verily, we have heard a Book sent down after Musa, confirming what came before it, it guides to the truth and to the straight path. Because of this, many of the Jinns took heed and came to Allah's Messenger ﷺ in successive delegations; and verily, Allah is worthy of all praise and gratitude, and Allah knows best.
 
 ## Tafsir Ibn Kathir
 

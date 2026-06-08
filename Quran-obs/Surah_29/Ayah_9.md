@@ -42,7 +42,7 @@ This verse was revealed in connection with Sayyidna Sa'd Ibn Abi Waqqas ؓ . He 
 
 ## Tafsir Summary
 
-And We have enjoined on man to be dutiful to his parents; but if they strive to make you associate with Me, which you have no knowledge of, then obey them not. وَوَصَّيْنَا الْإِنسَانَ (And We have instructed man - 29:8).
+Unto Me is your return and I shall tell you what you used to do (8)And for those who believe and do righteous deeds, surely, We shall admit them among the righteous .
 
 ## Tafsir Ibn Kathir
 

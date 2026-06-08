@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-These are the Ayat of Allah, which We recite to you with truth. وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ ("Woe to every sinful liar...
+For such there will be a humiliating torment (9)In front of them there is Hell.
 
 ## Tafsir Ibn Kathir
 

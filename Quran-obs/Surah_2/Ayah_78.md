@@ -56,7 +56,7 @@ This is another category of people among the Jews who called to misguidance with
 
 ## Tafsir Summary
 
-And there are among them (Jews) 'Ummyyun (unlettered) people, who know not the Book, but they trust upon Amani (false desires) and they but guess (78)Then woe to those who write the book with their own hands and then say, "This is from Allah," to purchase with it a little price! Allah reminds the Jews that He is omniscient, and knows what they try to keep concealed as well as what they say or do openly.
+Verse 77 deals with the educated ones among the Jews, while Verse 78 speaks of those who were unlettered. Mujahid commented, "Allah described the Ummiyyin as not understanding any of the Book that Allah sent down to Musa, yet they create lies and falsehood." Therefore, the word Amani mentioned here refers to lying and falsehood.
 
 ## Tafsir Ibn Kathir
 

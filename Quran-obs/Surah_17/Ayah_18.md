@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Whoever desires the quick-passing (transitory enjoyment of this world), We readily grant him what We will for whom We like. Two behavior models of human beings appear in the cited verses side by side.
+Then, afterwards, We have appointed for him Hell; he will burn therein disgraced and rejected (18)And whoever desires the Hereafter and strives for it, with the necessary effort due for it while he is a believer, then such are the ones whose striving shall be appreciated, (rewarded by Allah). Whoever desires the quick-passing (transitory enjoyment of this world), We readily grant him what We will for whom We like.
 
 ## Tafsir Ibn Kathir
 

@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when We took from the Prophets their covenant, and from you, and from Nuh, Ibrahim, Musa, and 'Isa son of Maryam. At the beginning of the Surah, by saying: وَ اتَّبع مَا یُوحٰٓی اِلَیکَ , the Holy Prophet ﷺ was asked to follow the Divine revelation sent to him.
+We bear witness that the Messengers did indeed convey the Message of their Lord and advised their nations, and that they clearly showed them the truth in which there is no confusion, doubt or ambiguity, even though they were rejected by the ignorant, stubborn and rebellious wrongdoers.
 
 ## Tafsir Ibn Kathir
 

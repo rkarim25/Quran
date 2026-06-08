@@ -32,7 +32,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They say: "When will this Fath be, if you are telling the truth? To answer that, Allah Ta'ala said: قُلْ يَوْمَ الْفَتْحِ لَا يَنفَعُ الَّذِينَ كَفَرُ‌وا إِيمَانُهُمْ (Say, 'On the day of decision their belief will not be of any use to disbelievers,'-29) This amounts to saying: Why are you asking us about the day of our victory while that day is going to be a day of trouble for you?
+You will see the consequences of your patience towards them, and the fulfillment of the promise of your Lord in your victory over them, and they will see the consequences of their wait for something bad to befall you and your Companions, in that Allah's punishment will come upon them.' Sufficient unto us is Allah, and He is the Best Disposer of affairs.
 
 ## Tafsir Ibn Kathir
 

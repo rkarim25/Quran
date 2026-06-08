@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then they will turn to one another, mutually questioning (50)A speaker of them will say: "Verily, I had a companion (in the world), (51)"Who used to say: 'Are you among those who believe (52)(That) when we die and become dust and bones, shall we indeed be indebted (Madinun)?' (53)(The speaker) said: "Will you look down? Wondering about not having to die anymore When the man who has been mentioned here will peep into Jahannam to have a look at his disbelieving acquaintance, it has been mentioned that the same man will be so delighted with the blessings of Jannah that he will exclaim: "Is it that we do not have to die anymore?" It does not mean…
+I bought it for one thousand Dinars.' He said, 'How beautiful it is.' When he went out he said, 'O Allah, this companion of mine has bought this house for one thousand Dinars; I ask You for one of the houses of Paradise – and he gave one thousand Dinars in charity.' Then as much time passed as Allah willed should pass.
 
 ## Tafsir Ibn Kathir
 

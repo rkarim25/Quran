@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) Ibrahim when he said to his people: "Worship Allah, and have Taqwa of Him, that is better for you if you know. It was described in the previous verses that infidels keep on their opposition and afflictions on Muslims as a routine.
+Ibrahim's preaching to His People Allah tells us how His servant, Messenger and close friend Ibrahim, the Imam of the monotheists, called his people to worship Allah alone, with no partner or associate, to fear Him alone, to seek provision from Him alone, with no partner or associate, to give thanks to Him alone, for He is the One to Whom thanks should be given for the blessings which none can bestow but He.
 
 ## Tafsir Ibn Kathir
 

@@ -75,7 +75,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And there came a caravan of travelers and they sent their water-drawer, and he let down his bucket (into the well). There is No Chance or Accident in Divine Arrangements It is said in verse 19: وَجَاءَتْ سَيَّارَ‌ةٌ فَأَرْ‌سَلُوا وَارِ‌دَهُمْ فَأَدْلَىٰ دَلْوَهُ (And there came some wayfarers and sent one of them to go for water.
+Otherwise, in creation, there is no chance or accident (which Einstein, though no formal believer, did concede: ` God does not play dice!' ).
 
 ## Tafsir Ibn Kathir
 

@@ -70,7 +70,7 @@ Since it is possible to suppress the aggressive might of disbelievers and their 
 
 ## Tafsir Summary
 
-Lord knows you best; if He wills, He will have mercy on you, or if He wills, He will punish you. Using foul or harsh language is not correct, even against infidels The first verse (53) prohibits Muslims from talking harshly to disbelievers.
+Lord knows you best; if He wills, He will have mercy on you, or if He wills, He will punish you. And We have not sent you as a guardian over them (54)And your Lord knows best all who are in the heavens and the earth.
 
 ## Tafsir Ibn Kathir
 

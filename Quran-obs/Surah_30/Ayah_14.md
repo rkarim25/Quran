@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah originates the creation, then He will repeat it, then to Him you will be returned (11)And on the Day when the Hour will be established, the criminals will be plunged into destruction with despair (12)No intercessor… أَوَلَمْ يَسِيرُ‌وا فِي الْأَرْ‌ضِ (Have they not travelled on earth - 30:9).
+So, have they not seen, during the course of their trips, what was the fate of the earlier people, whom Allah Ta’ ala had endowed with skills to make use of the land?
 
 ## Tafsir Ibn Kathir
 

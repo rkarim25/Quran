@@ -35,7 +35,7 @@ And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and 
 
 ## Tafsir Summary
 
-And indeed We tried before them Fir'awn's people, when there came to them a noble Messenger (17)Saying: "Deliver to me the servants of Allah. وَإِنِّي عُذْتُ بِرَ‌بِّي وَرَ‌بِّكُمْ أَن تَرْ‌جُمُونِ "And I have sought refuge with my Lord and your Lord, lest you stone me to death.
+You have indeed bestowed on Fir'awn and his chiefs splendor and wealth in the life of this world, our Lord! This refers to the clear signs and definitive evidence with which Allah sent him.
 
 ## Tafsir Ibn Kathir
 

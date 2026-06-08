@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. And after stating these qualities, it is said towards the end of the verse-3, لِّقَوْمٍ يَعْلَمُونَ (for a people who understand) which means that the verses of the Holy Qur'an being in Arabic, their being clear and evident and their communicating good news as well as warnings can only benefit those people who intend to ponder over them and understand them.
+A Book whereof the Ayat are explained in detail – a Qur'an in Arabic for people who know.)(4.
 
 ## Tafsir Ibn Kathir
 

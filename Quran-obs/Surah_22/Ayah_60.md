@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who emigrated in the cause of Allah and after that were killed or died, surely, Allah will provide a good provision for them. In an earlier verse it has been mentioned that Allah Ta’ ala helps those who are wronged unjustly وَإِنَّ اللَّـهَ عَلَىٰ نَصْرِ‌هِمْ لَقَدِيرٌ‌ (Allah is powerful to give them victory - 22:39) Some people bear their sufferings patiently and do not seek vengeance from their oppressors, but there are others who retaliate and serve a full measure of retribution on their oppressors which should, therefore, place them both on even terms as being quits.
+But surely he who bears patiently and forgives - surely that is true constancy - 42:43.
 
 ## Tafsir Ibn Kathir
 

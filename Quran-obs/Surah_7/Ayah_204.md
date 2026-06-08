@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, when the Qur'an is recited, listen to it, and be silent that you may receive mercy (204) The Order to listen to the Qur'an In the second verse (204), we have been told that the Holy Qur'an has come as mercy for the believers.
+But, some other jurists have distinguished different situations from one another by saying that listening attentively is wajib only on occasions where the Qur'an is being recited for the express purpose of being listened to - such as, in Salah and Khutbah etc.
 
 ## Tafsir Ibn Kathir
 

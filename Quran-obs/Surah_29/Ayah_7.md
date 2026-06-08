@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Whoever hopes in meeting with Allah, then Allah's term is surely coming, and He is the All-Hearer, the All-Knower (5)And whosoever strives, he strives only for himself. فَلَيَعْلَمَنَّ اللَّـهُ الَّذِينَ صَدَقُوا (So Allah will surely know the ones who are truthful - 29:3).
+He will still give to those who believe and do righteous deeds the best of rewards, which is that He will expiate for them their bad deeds, and will reward them according to the best deeds that they did.
 
 ## Tafsir Ibn Kathir
 

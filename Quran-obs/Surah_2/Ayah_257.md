@@ -108,7 +108,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah is the Wali (Protector or Guardian) of those who believe. This verse also tells us that faith ('Iman ایمان ) is the greatest blessing and disbelief (kufr کفر ) is the greatest misfortune, and that there is darkness in friendship with those who disbelieve (kuffar کُفار ).
+But as for those who disbelieve, their Awliya' (supporters and helpers) are Taghut (false deities and false leaders), they bring them out from light into darknesses. He brings them out from darknesses into light.
 
 ## Tafsir Ibn Kathir
 

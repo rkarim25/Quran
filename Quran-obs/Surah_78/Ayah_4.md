@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Beneficent, the Most Merciful. كَلَّا سَيَعْلَمُونَ ثُمَّ كَلَّا سَيَعْلَمُونَ (Truly, they will soon know.
+About which they are in disagreement.)(4. Nay, again, they will come to know!)(6.
 
 ## Tafsir Ibn Kathir
 

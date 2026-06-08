@@ -52,7 +52,7 @@ It is revealed in this verse that the infidels will lie on the Day of Resurrecti
 
 ## Tafsir Summary
 
-And indeed We have set forth for mankind, in this Qur'an every kind of parable. After this, the falsehood and ignorance of the deniers of the Dooms Day is mentioned وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِ‌مُونَ مَا لَبِثُوا غَيْرَ‌ سَاعَةٍ that is, ‘When the Dooms Day will come, these deniers of the Dooms Day will start swearing by losing senses after looking at the horrid scenes, that their stay was not more than one hour'.
+Verily, the promise of Allah is true; and let not those who have no certainty of faith discourage you (from conveying Allah's Message).
 
 ## Tafsir Ibn Kathir
 

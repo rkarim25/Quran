@@ -94,7 +94,7 @@ When this verse was revealed, the noble Companions were acutely disturbed. Imam 
 
 ## Tafsir Summary
 
-It will not be in accordance with your desires, nor those of the People of the Scripture, whosoever works evil, will have the recompense thereof, and he will not find any protector or helper besides Allah (123)And whoeve… A dialogue between Muslims and he People of the Book contending for glory against each other Verse 123 which begins with the words: لَّيْسَ بِأَمَانِيِّكُمْ وَلَا أَمَانِيِّ أَهْلِ الْكِتَابِ 'This is not (a matter of) your fancies or the fancies of the People of the Book...', is about a cross talk between Muslims and the People of the Book.
+This is the wording collected by Ahmad through Sufyan bin 'Uyaynah.
 
 ## Tafsir Ibn Kathir
 

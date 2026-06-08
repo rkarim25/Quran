@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Prophet! The previous verses have maintained that causing pain to any Muslim, man or woman, is forbidden and is a major sin, and in particular, inflicting pain on the Holy Prophet ﷺ is an act of infidelity, liable to Allah's curse.
+And Allah is Ever Oft-Forgiving, Most Merciful (59)If the hypocrites and those in whose hearts is a disease, and those who spread false news among the people in Al-Madinah stop not, We shall certainly let you overpower them, then they will not be able to stay in it as your neighbors but a little while (60)Accursed, they shall be seized wherever found, and killed with a (terrible) slaughter (61)That was the way of Allah in the case of those who passed away of old, and you will…
 
 ## Tafsir Ibn Kathir
 

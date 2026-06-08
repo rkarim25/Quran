@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Madyan, We sent their brother Shu'ayb. وَلُوطًا إِذْ قَالَ لِقَوْمِهِ إِنَّكُمْ لَتَأْتُونَ الْفَاحِشَةَ (And [ We sent ] Sayyidna Lut (علیہ السلام) when he said to his people, "Indeed you commit the shameful act - 29:28).
+They used to cheat in weights and measures, and ambush people on the road; this is in addition to their disbelief in Allah and His Messenger.
 
 ## Tafsir Ibn Kathir
 

@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when it is said to them: Believe as the people believe," They say: "Shall we believe as the fools have believed?" Verily, they are the fools, but they do not know (13) Allah said that if the hypocrites are told, This verse also places before the hypocrites a criterion of true faith (Iman ایمان) آمِنُوا كَمَا آمَنَ النَّاسُ :"Believe as people have believed".
+The hypocrites said, "Us and them having the same status, following the same path, while they are fools?!" 'The fool' is the ignorant, simple-minded person who has little knowledge in areas of benefit and harm.
 
 ## Tafsir Ibn Kathir
 

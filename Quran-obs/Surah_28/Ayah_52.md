@@ -46,7 +46,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those to whom We gave the Scripture before it, they believe in it (52)And when it is recited to them, they say: "We believe in it. الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ مِن قَبْلِهِ هُم بِهِ يُؤْمِنُونَ (As for those to whom We gave the Book before this, they believe in it.
+In this verse those people of the book are mentioned who had faith in the prophethood of the Holy Prophet ﷺ and revelation of the Qur'an on the basis of the prophesies given by Torah and Injil, even before the coming of the Holy Prophet ﷺ and the Qur'an.
 
 ## Tafsir Ibn Kathir
 

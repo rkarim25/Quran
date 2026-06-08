@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And remember the brother of 'Ad, when he warned his people in Al-Ahqaf. { 1} The reference here is to the towns of Thamud and the people of Sayyidna Lut (علیہ السلام) that were in the way of the people of Arabia while they travelled to Syria.
+Then verse 24 states that the punishment was sent to them in the form of a cloud that appeared to be benign, and therefore they were happy to see it in the hope that it would bring rain to them, but in fact it contained the divine punishment in the form of a violent wind that destroyed everything, leaving nothing except their empty homes that remained as a sign for those who might learn a lesson.
 
 ## Tafsir Ibn Kathir
 

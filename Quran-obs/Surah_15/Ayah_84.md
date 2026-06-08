@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, the Dwellers of Al-Hijr denied the Messengers (80)And We gave them Our signs, but they were averse to them (81)And they used to hew out dwellings from the mountains, (feeling) secure (82)But the Sayhah (torme… Aikah means a dense forest.
+Allah tells us that he (Salih) brought them signs to prove that what he was telling them was true, such as the she-camel which Allah created for them out of a solid rock in response to the supplication of Salih. Then, there is the fact that Allah did not create the heavens and the earth and whatever is there in between them but with truth and wisdom.
 
 ## Tafsir Ibn Kathir
 

@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Day when the Sur will be blown: that Day, We shall gather the criminals blue-eyed (102)They will speak in a very low voice to each other (saying): "You stayed not longer than ten. يُنفَخُ فِي الصُّورِ‌ (رضی The Day when the Horn الصُّورِ‌ [ Sur ] will be blown - 20:102) According to Sayyidna Ibn ` Umar اللہ تعالیٰ عنہما ، a Bedouin الصُّورِ‌ asked the Holy Prophet ﷺ about صُور (the Horn) to which he replied that it is something like a horn which will be blown, meaning thereby that when the angel will blow into it all those who had lain dead for centuries will return to life.
+By this they mean to prevent the establishment of the evidence against them due to the shortness of time that they had.
 
 ## Tafsir Ibn Kathir
 

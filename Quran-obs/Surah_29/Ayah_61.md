@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if you were to ask them: "Who has created the heavens and the earth and subjected the sun and the moon?" They will surely reply: "Allah." How then are they deviating (61)Allah expands the provision for whom He wills of His servants, and straitens it for whom (He wills). After stating the real source of sustenance for all, that is the bounty of Allah Ta’ ala, it is said that if you ask the infidels as to who has created the earth and the skies, or who controls the movement of the sun and the moon, or who brings in the rain, and who makes the vegetation grow; then even they will admit that it is all controlled and done by One entity, that i…
+So, Allah stated that He has alone created everything, and that He alone is controlling them – if this is how it is, then why worship anyone else?
 
 ## Tafsir Ibn Kathir
 

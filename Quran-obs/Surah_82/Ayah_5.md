@@ -30,7 +30,7 @@ Al-Baghawi mentioned that Al-Kalbi and Muqatil said, "This Ayah was revealed abo
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Infitar An-Nasa'i recorded from Jabir that Mu'adh stood and lead the people in the Night prayer, and he made the recitation of his prayer long. عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَ‌تْ (...then one will know what he sent ahead and what he left behind....82:5) In the preceding verses [ 1-4] of the Surah, Allah depicts the scene of the Day of Judgment that when the sky splits, the stars fall, the seas are poured forth [ i.e.
+A person will know what he has sent forward and left behind.)(6. corpses will emerge from their graves ], every soul shall come to know what it had sent ahead and what it had left behind.
 
 ## Tafsir Ibn Kathir
 

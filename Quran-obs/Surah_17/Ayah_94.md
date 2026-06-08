@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And nothing prevented men from believing when the guidance came to them, except that they said: "Has Allah sent a man as (His) Messenger? Only a human being can be a messenger of Allah: Angels cannot be sent as messengers to human beings Common disbelievers and polytheists thought that 'bashar,' that is, a man, could not be the messenger of Allah because he is someone accustomed to all human compulsions like them.
+But as you are human, We have sent to you Messengers from yourselves, as a kindness and a mercy.' Only a human being can be a messenger of Allah: Angels cannot be sent as messengers to human beings Common disbelievers and polytheists thought that 'bashar,' that is, a man, could not be the messenger of Allah because he is someone accustomed to all human compulsions like them.
 
 ## Tafsir Ibn Kathir
 

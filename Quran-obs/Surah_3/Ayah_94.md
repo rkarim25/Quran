@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-All food was lawful to the Children of Israel, except what Isra'il made unlawful for himself before the Tawrah was revealed. In the verses appearing above, there is a continuity of arguments against positions taken by the people of the Book.
+Was not the best food to him camel meat and the best drink camel milk?' They said, 'Yes, by Allah.' The Messenger ﷺ said, 'O Allah, be Witness against them.' The Prophet ﷺ then said, 'I ask you by Allah, other than Whom there is no deity (worthy of worship), Who sent down the Tawrah to Musa, do you not know that man's discharge is thick and white and woman's is yellow and thin?
 
 ## Tafsir Ibn Kathir
 

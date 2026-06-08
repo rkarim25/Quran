@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do they attribute as partners to Allah those who created nothing but they themselves are created (191)No help can they give them, nor can they help themselves (192)And if you call them to guidance, they follow you not. In short, all the above acts or beliefs are different forms of 'Shirk' ~,.
+The above interpretation, however, clears away any possible doubt even if the story is taken to be authentic.
 
 ## Tafsir Ibn Kathir
 

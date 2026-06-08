@@ -18,7 +18,7 @@ In Sahih Al-Bukhari, it is recorded in the Book of Ar-Riqaq (Narrations that sof
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Special Merit of Surah At-Takathur The Messenger of Allah ﷺ is reported to have once asked the noble Companions: Is there anyone from amongst you who has the strength to recite one thousand verses a day?" The blessed Companions replied: "Who can recite a thousand verses a day?" The Holy Prophet ﷺ said: "Can you not recite Surah At-Takathur?" This implies that Surah At-Takathur equals in weight and worth to a thousand verses, thus stressing its great importance.
+Therefore, whoever does not maintain the right that is obligatory upon him, then he is unjust.
 
 ## Tafsir Ibn Kathir
 

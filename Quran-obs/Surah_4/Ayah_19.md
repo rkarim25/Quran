@@ -154,7 +154,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Repentance was mentioned in the previous verses in proportion to the related requirement of the text.
+This Ayah is clear in its indication that the dowry could be substantial. 'Umar bin Al-Khattab used to discourage giving a large dowry, but later on changed his view.
 
 ## Tafsir Ibn Kathir
 

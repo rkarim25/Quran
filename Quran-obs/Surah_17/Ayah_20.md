@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-On each these as well as those We bestow from the bounties of your Lord. A self-opinionated deed and an act of religious innovation, no matter how appealing, is not acceptable In this verse (19), by adding the word: سَعْيَهَا (as due), it has been made explicit that every deed and every effort is not necessarily beneficial or acceptable with Allah.
+Therefore, even well meaning efforts made by insisting on bland personal opinion and self-invented ways - which includes common customs of Bid'ah (innovations in established religion) - no matter how good and beneficial they may appear at their face, but are not appropriate to the effort made for the Hereafter. In other words, this deed should be beneficial in accordance with the Sunnah as well as it should be upright and constant.
 
 ## Tafsir Ibn Kathir
 

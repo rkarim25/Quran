@@ -28,7 +28,7 @@ This and the next Surah were revealed on the same occasion, and in the same even
 
 ## Tafsir Summary
 
-The Position of Ibn Mas'ud concerning Al-Mu'awwidhatayn Imam Ahmad recorded from Zirr bin Hubaysh that Ubayy bin Ka'b told him that Ibn Mas'ud did not record the Mu'awwidhatayn in his Mushaf (copy of the Qur'an). This and the next Surah were revealed on the same occasion, and in the same event, as will be explained in the 'cause of revelation'.
+Say: "I seek refuge with the Lord of Al-Falaq,")(2. Hafiz Ibn-ul-Qayyim has, therefore, written their commentary together.
 
 ## Tafsir Ibn Kathir
 

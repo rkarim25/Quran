@@ -105,7 +105,7 @@ Ali bin Abi Talhah narrated that Ibn 'Abbas commented on this Ayah, "They used t
 
 ## Tafsir Summary
 
-It is not (proper) for the Prophet and those who believe to ask Allah's forgiveness for the Mushrikin, even though they be of kin, after it has become clear to them that they are the dwellers of the Fire (because they died in a state of disbelief)(113)And Ibrahim's invoking (of Allah) for his father's forgiveness was only because of a promise he [Ibrahim] had made to him (his father). This put some Muslims into doubt.
+The object of this prayer of forgiveness for the disbelievers is no other but that Allah may bless them with the taufiq of 'Iman and Islam so that they could become deserving of being forgiven.
 
 ## Tafsir Ibn Kathir
 

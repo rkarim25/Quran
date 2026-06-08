@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have they taken as intercessors besides Allah? The time to sleep and the time to die: How is the soul exacted and what is the difference between the two In verse 42, it was said: اللَّـهُ يَتَوَفَّى الْأَنفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ فِي مَنَامِهَا (Allah fully takes away the souls [ of the people ] at the time of their death, and [ of ] those who do not die, in their sleep.).
+There is no Intercession except with Allah, and how the Idolators are filled with Disgust when Allah is mentioned alone Allah condemns the idolators for taking intercessors besides Allah, namely the idols and false gods whom they have taken on the basis of their own whims, with no evidence or proof.
 
 ## Tafsir Ibn Kathir
 

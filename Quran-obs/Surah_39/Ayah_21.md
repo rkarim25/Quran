@@ -136,7 +136,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-See you not that Allah sends down water from the sky, and causes it to penetrate the earth, as water springs, and afterward thereby produces crops of different colors, and afterward they wither and you see them turn yellow; then He makes them dry and broken pieces. The word: يَنَابِيعَ (yanabi in verse 21: فَسَلَكَهُ يَنَابِيعَ فِي الْأَرْ‌ضِ (made it penetrate into the earth [ and gush forth ] in the form of springs) is the plural form of: یَنبُوع (yanbu) which means springs that gush out from the soil.
+The sense is that the act of sending down water from the sky is by itself a great blessing, but also crucial was the arrangement to conserve it underground.
 
 ## Tafsir Ibn Kathir
 

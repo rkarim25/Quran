@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "The Most Gracious (Allah) has begotten a son. "Except the one who has taken a covenant with the Rahman (All-Merciful) " - 19:87.
+For verily, partners are associated with Him and a son is ascribed to Him, while He is the One Who gives them good health, protects them and sustains them.) This narration is also recorded in the Two Sahihs.
 
 ## Tafsir Ibn Kathir
 

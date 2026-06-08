@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, the Day of Decision is a fixed time (17)The Day when the Trumpet will be blown, and you shall come forth in crowds (18)And the heaven shall be opened, and it will become as gates (19)And the mountains shall be mo… لِّلطَّاغِينَ مَآبًا ([ It is ] an abode for the rebellious people...
+Thus the word taghi refers to a 'person who exceeds the limit in disobeying the authority [ of Allah ] '.
 
 ## Tafsir Ibn Kathir
 

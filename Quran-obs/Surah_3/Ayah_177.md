@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(176. Previous verses mentioned the treachery and ill-will of the hypocrites.
+Verily, those who purchase disbelief at the price of faith, not the least harm will they do to Allah.
 
 ## Tafsir Ibn Kathir
 

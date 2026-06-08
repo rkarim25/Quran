@@ -29,7 +29,7 @@ But this Surah was revealed in Makkah, so how could the reason for its revelatio
 
 ## Tafsir Summary
 
-Shall I inform you upon whom the Shayatin descend (221)They descend on every lying, sinful person (Athim)(222)Who gives ear, and most of them are liars (223)As for the poets, the astray follow them (234)See you not that they speak about every subject in their poetry (225)And that they say what they do not do (226)Except those who believe and do righteous deeds, and remember Allah much and vindicate themselves after they have been wronged. And warn the nearest people of your clan, -26:214.
+The shooting star may strike the Jinn before he passes it on, or he may pass it on before he is struck, and he adds to it one hundred lies, thus it is said: "Did he not tell us that on such and such a day, such and such would happen?" So they believe him because of that one thing which was heard from the heavens.) This was recorded by Al-Bukhari.
 
 ## Tafsir Ibn Kathir
 

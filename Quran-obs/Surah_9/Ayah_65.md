@@ -65,7 +65,7 @@ Abdullah bin 'Umar said, "During the battle of Tabuk, a man was sitting in a gat
 
 ## Tafsir Summary
 
-If you ask them (about this), they declare: "We were only talking idly and joking." Say: "Was it at Allah, and His Ayat and His Messenger that you were mocking (65)Make no excuse; you disbelieved after you had believed. Announced in verse 64: إِنَّ اللَّـهَ مُخْرِ‌جٌ مَّا تَحْذَرُ‌ونَ (Allah is surely to bring out what you are afraid of) is the news that Allah will expose their conspiracy and mischief.
+If We pardon some of you, We will punish others among you because they were criminals .
 
 ## Tafsir Ibn Kathir
 

@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, when you meet those who disbelieve (in battle), smite (their) necks until you have fully defeated them, then tighten their bonds. وَيُدْخِلُهُمُ الْجَنَّةَ عَرَّ‌فَهَا لَهُمْ (and will admit them to the Paradise He has identified for them.
+But those who are killed in the way of Allah, He will never let their deeds be lost (4)He will guide them and amend their condition (5)And admit them to Paradise, which He has made known to them (6)O you who believe! He will not only admit them into Paradise but will identify for them the gardens of bliss and will make them familiar with such bounties as houris and mansions in a way that it would seem to them that they have been living there since eternity.
 
 ## Tafsir Ibn Kathir
 

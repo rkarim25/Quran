@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Allah said: "O 'Isa! In the previous verse (56), it was said that Allah will be the final judge and decision-maker in what they used to differ in between them-selves.
+This saying is similar to the saying of a judge to a culprit -'Right now I am sending you to the jail for a year; if you misbehave there, I shall make it for two years'- which simply means that those two years will be counted from the day the punishment is being awarded.
 
 ## Tafsir Ibn Kathir
 

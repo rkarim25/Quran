@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the Trumpet will be blown and behold from the graves they will come out quickly to their Lord (51)They will say: "Woe to us! After that, it was said: وَنُفِخَ فِي الصُّورِ‌ فَإِذَا هُم مِّنَ الْأَجْدَاثِ إِلَىٰ رَ‌بِّهِمْ يَنسِلُونَ (And the Horn will be blown, and suddenly they will be rushing from their graves towards their Lord.
+The Trumpet Blast of the Resurrection This will be the third blast of the trumpet, the trumpet blast of the resurrection when people will come forth from their graves.
 
 ## Tafsir Ibn Kathir
 

@@ -67,7 +67,7 @@ And if Allah touches you with harm, none can remove it but He, and if He touches
 
 ## Tafsir Summary
 
-And if Allah touches you with harm, none can remove it but He, and if He touches you with good, then He is able to do all things (17)And He is the Irresistible, above His servants, and He is the All-Wise, Well-Acquainted with all things (18)Say: "What thing is the most great in witness?" Say: "Allah is Witness between you and I; this Qur'an has been revealed to me that I may therewith warn you and whomsoever it may reach. In verse 20, there is a refutation of the saying of those who had said that they had checked with the Jews and the Christians and none of them were ready to attest to his truth as a Messenger of Allah.
+At this point, the simile given in the text is that of children - ` as they would recognize their sons.' Not said here is: as children recognize their parents.
 
 ## Tafsir Ibn Kathir
 

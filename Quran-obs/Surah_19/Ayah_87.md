@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Day We shall gather those with Taqwa unto the Most Gracious (Allah), like a delegation (85)And We shall drive the criminals to Hell, in a thirsty state (86)None shall have the power of intercession, but such a one as… "Except the one who has taken a covenant with the Rahman (All-Merciful) " - 19:87.
+A Wafd (delegation) is a group that arrives while riding and from it comes the word Wufud (arriving). In brief only those people will have the permission to intercede with Allah who stand firm by their covenant to adhere to the true faith.
 
 ## Tafsir Ibn Kathir
 

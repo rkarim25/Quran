@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Verses [ 100:9-11] وَحُصِّلَ مَا فِي الصُّدُورِ‌ ﴿10﴾ إِنَّ رَ‌بَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌ‌ ﴿11﴾ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ‌ مَا فِي الْقُبُورِ‌ ﴿9﴾ (Does he not then know [ what will happen ] when all that is contained in the graves will be overturned, and all that is contained in the hearts will be exposed.
+Knows he not that when the contents of the graves are poured forth?)(10.
 
 ## Tafsir Ibn Kathir
 

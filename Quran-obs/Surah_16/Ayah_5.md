@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the cattle, He has created them for you; in them there is warmth (warm clothing), and numerous benefits, and you eat from them (5)And there is beauty in them for you, when you bring them home in the evening, and as you lead them forth to pasture (in the morning)(6)And they carry your loads to a land that you could not reach yourselves except with great trouble. After human beings, mentioned there was the creation of things which were made specially for their benefit.
+And the cattle, He has created them for you; in them there is warmth (warm clothing), and numerous benefits, and you eat from them (5)And there is beauty in them for you, when you bring them home in the evening, and as you lead them forth to pasture (in the morning)(6)And they carry your loads to a land that you could not reach yourselves except with great trouble.
 
 ## Tafsir Ibn Kathir
 

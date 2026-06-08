@@ -164,7 +164,7 @@ The major portion of Surah Al-An` am has been revealed to correct the beliefs an
 
 ## Tafsir Summary
 
-Do they then wait for anything other than that the angels should come to them, or that your Lord should come, or that some of the Signs of your Lord should come! The major portion of Surah Al-An` am has been revealed to correct the beliefs and deeds of the people of Makkah and the disbelievers of Arabia and to remove their doubts and to answer questions raised by them.
+But, the answer given to them will be: The time for belief and deed is over.
 
 ## Tafsir Ibn Kathir
 

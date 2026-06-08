@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "No wage do I ask of you for this, nor am I one of the Mutakallifin. In verse 86, it was said: وَمَا أَنَا مِنَ الْمُتَكَلِّفِينَ (nor am I from among those who make up things artificially.).
+All praise and gratitude is due to Allah, and Allah may He be glorified and exalted, knows best.
 
 ## Tafsir Ibn Kathir
 

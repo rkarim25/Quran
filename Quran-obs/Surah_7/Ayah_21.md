@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And O Adam! The story of Sayyidna 'Adam (علیہ السلام) and Iblis mentioned in the present verses has appeared in the fourth section of Surah Al-Baqarah.
+Thus, Shaytan envied them and plotted deceitfully, whispering and suggesting treachery.
 
 ## Tafsir Ibn Kathir
 

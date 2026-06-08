@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who invoke not any other god along with Allah, nor kill such person as Allah has forbidden, except for just cause, nor commit illegal sexual intercourse – and whoever does this shall receive Athama (68)The torm… The next verse mentions some details of the punishment to be faced by the aforementioned sinners.
+As-Suddi said that Athama referred to punishment, which is closer to the apparent meaning of the Ayah.
 
 ## Tafsir Ibn Kathir
 

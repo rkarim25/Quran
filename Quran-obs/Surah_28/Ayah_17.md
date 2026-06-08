@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when he reached maturity, and was complete, We bestowed on him Hukm and knowledge. قَالَ رَ‌بِّ بِمَا أَنْعَمْتَ عَلَيَّ فَلَنْ أَكُونَ ظَهِيرً‌ا لِّلْمُجْرِ‌مِينَ (He [ Musa ] said, "0 my Lord, since You have favoured me, I will never be a supporter to the sinners." -28:17).
+Therefore, by declaring him a criminal he vowed not to help such a person again.
 
 ## Tafsir Ibn Kathir
 

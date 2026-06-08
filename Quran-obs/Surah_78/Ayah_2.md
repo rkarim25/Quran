@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Beneficent, the Most Merciful. عَنِ النَّبَإِ الْعَظِيمِ الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ (About the Great Event in which they dispute!...78:2, 3).
+The word naba' means 'news' but not every news is naba'.
 
 ## Tafsir Ibn Kathir
 

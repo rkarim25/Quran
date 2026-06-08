@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And as for those who put up a Masjid by way of harm and disbelief and to disunite the believers and as an outpost for those who warred against Allah and His Messenger aforetime, they will indeed swear that their intention is nothing but good. About this Masjid Dirar, the Holy Prophet ﷺ has Been given the order: لَا تَقُمْ فِيهِ أَبَدًا 'Do not ever stand there (in prayer) - 108.' The word ` qiyam' in the text denotes standing for prayer.
+In this verse, the masjid declared worthier for the prayers of the Holy Prophet ﷺ is the one the foundation of which was laid on Taqwa from day one.
 
 ## Tafsir Ibn Kathir
 

@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Beneficent, the Most Merciful. وَجَعَلْنَا اللَّيْلَ لِبَاسًا (and made the night a covering...
+That is to say: [ 1] darkness of night; [ 2] the state of sleep is imposed on all humans and animals simultaneously, so that they sleep at the same time.
 
 ## Tafsir Ibn Kathir
 

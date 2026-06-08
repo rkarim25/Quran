@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-A multitude of those will be from the first ones (13)And a few of those will be from the later ones (14)(They will be) on thrones, Mawdunah (15)Reclining thereon, face to face (16)Immortal boys will go around them (servi… ثُلَّةٌ مِّنَ الْأَوَّلِينَ وَقَلِيلٌ مِّنَ الْآخِرِ‌ينَ (...many from the earlier generations, and of a small number from the later ones....56:13-14) The word ثُلَّةٌ thullatun, means 'a party, group, company'.
+Some said that the former means earlier (believing) nations, while the later refers to this Ummah. The Reward of the Foremost in Faith Allah states that the foremost of the close believers are a multitude, a crowd among the earlier generations and a few from the latter generations.
 
 ## Tafsir Ibn Kathir
 

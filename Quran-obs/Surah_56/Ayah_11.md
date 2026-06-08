@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Waqi'ah Abu Ishaq reported from 'Ikrimah from Ibn 'Abbas that Abu Bakr said, "O Allah's Messenger! وَالسَّابِقُونَ السَّابِقُونَ (And the Foremost are the foremost....56:10) Imam Ahmad (رح) ، has recorded a Tradition on the authority of Sayyidah ` A'ishah Siddiqah ؓ that the Messenger of Allah ﷺ asked the noble Compan…
+And those foremost will be foremost.)(11.
 
 ## Tafsir Ibn Kathir
 

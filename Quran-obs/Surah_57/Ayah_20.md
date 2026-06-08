@@ -171,7 +171,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Know that the life of this world is only play and amusement, pomp and mutual boasting among you, and rivalry in respect of wealth and children. The Life of this World is Fleeting Enjoyment The preceding verses described the conditions of the inmates of Paradise and those of the inhabitants of Hell, which will materialize in the Hereafter and will be permanent and eternal.
+this is the only life, no life or dwelling after it. Yet, in reality, this life is insignificant as compared to the Hereafter.
 
 ## Tafsir Ibn Kathir
 

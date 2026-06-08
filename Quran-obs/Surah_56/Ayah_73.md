@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do you not see what you sow (63)Is it you that make it grow, or are We the Grower (64)Were it Our will, We could crumble it to dry pieces, and you would be Tafakkahun (65)(Saying:) "We are indeed Mughramun! أَفَرَ‌أَيْتُم مَّا تَحْرُ‌ثُونَ (Well, tell Me about that [ seed ] which you sow:...56:63) In the matter of human creation, man The last answer is summarized thus in verse [ 73] نَحْنُ جَعَلْنَاهَا تَذْكِرَ‌ةً وَمَتَاعً…
+Thus the word muqwin means 'a traveler or a wayfarer of a desert who alights to prepare his meals'.
 
 ## Tafsir Ibn Kathir
 

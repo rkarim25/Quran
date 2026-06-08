@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The companions of Al-Aykah denied the Messengers (176)When Shu'ayb said to them: "Will you not have Taqwa? and subjected them to a terrible rain.
+Shu'ayb preached to them and commanded them to be fair in their weights and measures, the same as is mentioned in the story of Madyan, which also indicates that they were the same nation.
 
 ## Tafsir Ibn Kathir
 

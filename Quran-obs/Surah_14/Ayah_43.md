@@ -43,7 +43,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Consider not that Allah is unaware of that which the wrongdoers do, but He gives them respite up to a Day when the eyes will stare in horror (42)(They will be) hastening forward with necks outstretched, their heads raise… In the second verse (43), it has been said that the postponement of sudden punishment against these unjust people is not any better for them because, ultimately, they will be seized in the great punishment of the Qiyamah and the 'Akhirah which will overtake them all of a sudden.
+Consider not that Allah is unaware of that which the wrongdoers do, but He gives them respite up to a Day when the eyes will stare in horror (42)(They will be) hastening forward with necks outstretched, their heads raised up (towards the sky), their gaze returning not towards them and their hearts empty .
 
 ## Tafsir Ibn Kathir
 

@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَتَرَ‌ىٰ كُلَّ أُمَّةٍ جَاثِيَةً ("And you will see every community kneeling down...45:28" ).
+The revelation of the Book is from Allah, the Almighty, the All-Wise.)(3.
 
 ## Tafsir Ibn Kathir
 

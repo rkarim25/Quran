@@ -88,7 +88,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We have enjoined on man to be dutiful and kind to his parents. أُولَـٰئِكَ الَّذِينَ نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا وَنَتَجَاوَزُ عَن سَيِّئَاتِهِمْ (Such are the people from whom we accept the best of what they did and overlook their evils....
+Grant me the power and ability that I may be grateful for Your favor which You have bestowed upon me and upon my parents, and that I may do righteous good deeds, such as please You, and make my offspring good. Many of their errors will be forgiven and Allah will accept from them a modest amount of deeds.
 
 ## Tafsir Ibn Kathir
 

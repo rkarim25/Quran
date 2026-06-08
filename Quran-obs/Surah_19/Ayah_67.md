@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And man says: "When I am dead, shall I then be raised up alive? وَاصْطَبِرْ‌ لِعِبَادَتِهِ ("and-persevere in His worship." - 19:65) The word اِصطِبَار ' means perseverance in the face of acute distress and hardship.
+This means that He, the Exalted, created the human being while he was nothing.
 
 ## Tafsir Ibn Kathir
 

@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nay! كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ (No!
+Verily, the Record of Al-Abrar (the righteous believers) is (preserved) in 'Illiyyin (18)And what will make you know what 'Illiyyin is (19)A Register inscribed (20)To which bear witness those nearest (21)Verily, Al-Abrar (the righteous believers) will be in Delight (22)On thrones, looking (23)You will recognize in their faces the brightness of delight (24)They will be given to drink of pure sealed Rahiq (25)Sealed with musk, and for this let those strive who want to strive (2…
 
 ## Tafsir Ibn Kathir
 

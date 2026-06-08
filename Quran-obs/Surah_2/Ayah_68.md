@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said, "Call upon your Lord for us that He may make plain to us what it is!" He said, "He says, 'Verily, it is a cow neither too old nor too young, but (it is) between the two conditions', so do what you are commanded. These Verses show how the Israelites were disposed to disobedience, and how this inclination expressed itself in different forms.
+This part of the Qur'an criticized the Jews for their behavior, because their only goal was to be stubborn, and this is why they nearly did not slaughter the cow.
 
 ## Tafsir Ibn Kathir
 

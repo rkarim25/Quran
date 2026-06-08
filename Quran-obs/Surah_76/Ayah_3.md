@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Recitation of Surat As-Sajdah and Al-Insan in the Morning Prayer on Friday It has been mentioned previously that it is recorded in Sahih Muslim from Ibn 'Abbas that the Messenger of Allah ﷺ used to recite in the Morn… Neither we were there, nor was there any demand from us.
+If the word 'camphor' is taken in its popular sense, it does not necessarily signify that the camphor of Paradise be equated with the camphor available in this world, because the latter is not palatable. Verily, We guided him to the way, whether he be grateful or ungrateful.) Allah created Man after He did not exist Allah informs that He brought man into existence after he was not even a thing worth mentioning, due to his lowliness and weakness.
 
 ## Tafsir Ibn Kathir
 

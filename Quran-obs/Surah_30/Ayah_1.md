@@ -14,7 +14,7 @@ These Ayat were revealed about the victory of Sabur, the king of Persia, over As
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا (And those who strive in Our way We will certainly take them to Our paths - 69).
+The Muslims wanted the Romans to prevail over them (the Persians), because they were both people who followed a Book. He helps whom He wills, and He is the All-Mighty, the Most Merciful.) The Quraysh, on the other hand, wanted the Persians to prevail, because neither of them were people who followed a Book and neither of them believed in the Resurrection.
 
 ## Tafsir Ibn Kathir
 

@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Ask the Children of Israel how many clear Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) We gave them. Immediately earlier, it was said that opposing truth after clear signs have come, deserves punishment.
+And whoever changes Allah's favor after it has come to him, [e.g., renounces the religion of Allah (Islam) and accepts Kufr (disbelief)] then surely, Allah is severe in punishment (211)Beautified is the life of this world for those who disbelieve, and they mock at those who believe.
 
 ## Tafsir Ibn Kathir
 

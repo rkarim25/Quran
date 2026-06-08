@@ -64,7 +64,7 @@ The correct view is that the Ayah is general in meaning, and includes the Mu'adh
 
 ## Tafsir Summary
 
-And who is better in speech than he who invites to Allah, and does righteous deeds, and says: "I am one of the Muslims. وَمَنْ أَحْسَنُ قَوْلًا مِّمَّن دَعَا إِلَى اللَّـهِ (And who can be better in words than the one who calls towards Allah, and acts righteously and says, "I am one of those who submit themselves [ to Allah ] "?
+This is general in meaning and applies to everyone who calls people to what is good and is himself guided by what he says.
 
 ## Tafsir Ibn Kathir
 

@@ -83,7 +83,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-These two opponents dispute with each other about their Lord; then as for those who disbelieved, garments of fire will be cut out for them, boiling water will be poured down over their heads (19)With it will melt (or vanish away) what is within their bellies, as well as (their) skins (20)And for them are hooked rods of iron (21)Every time they seek to get away therefrom, from anguish, they will be driven back therein, and (it will be) said to them: "Taste the torment of burning! هَـٰذَانِ خَصْمَانِ اخْتَصَمُوا (These are two opponents who have disputed about their Lord - 22:19).
+With it will melt (or vanish away) what is within their bellies, as well as (their) skins.) meaning, when the boiling water – which is water that has been heated to the ultimate degree – is poured down over their heads.
 
 ## Tafsir Ibn Kathir
 

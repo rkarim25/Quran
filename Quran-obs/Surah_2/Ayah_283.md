@@ -141,7 +141,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if you are on a journey and cannot find a scribe, then let there be a pledge taken (mortgaging), then if one of you entrusts the other, let the one who is entrusted discharge his trust, and let him have Taqwa of Allah, his Lord. The Qur'anic injunctions on Loan An important principle of the Law of Dealings, or the Law of Contracts in modern legal terminology, has been taken up in the verses appearing above.
+It should rather have witnesses as well so that, in case there is a dispute, the appearance of witnesses in the court could help resolve it.
 
 ## Tafsir Ibn Kathir
 

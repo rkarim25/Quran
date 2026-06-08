@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the disbelievers say: "Why is not a sign sent down to him from his Lord?" You are only a warner, and to every people there is a guide (7) The Idolators ask for a Miracle (that is, in order to raise an objection against the prophethood of Sayyidna Muhammad al-Mustafa ﷺ ، they say) 'Why has the specific miracle they demand has not been shown by him?' The answer is clear.
+And the disbelievers say: "Why is not a sign sent down to him from his Lord?" You are only a warner, and to every people there is a guide .
 
 ## Tafsir Ibn Kathir
 

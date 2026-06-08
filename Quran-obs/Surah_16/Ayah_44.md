@@ -63,7 +63,7 @@ And We sent not (as Our Messengers) before you (O Muhammad) any but men, whom We
 
 ## Tafsir Summary
 
-And We sent not (as Our Messengers) before you (O Muhammad) any but men, whom We sent revelation. Hadith is Necessary to Understand Qur'an : The Rejection of Hadith is Really the Rejection of the Qur'an The word: اَلذِّکر (adh-dhikr) in verse 44: وَأَنزَلْنَا إِلَيْكَ الذِّكْرَ‌ لِتُبَيِّنَ لِلنَّاسِ : "And We sent down the Message (adh-dhikr: The Qur’ an) so that you explain to the people," means, by consensus, the Holy Qur’ an - and, in this verse, the Holy Prophet has been given the assignment of explaining the meaning of verses revealed to him before people.
+So that you may explain in detail what has been mentioned in brief, and explain what is not clear.
 
 ## Tafsir Ibn Kathir
 

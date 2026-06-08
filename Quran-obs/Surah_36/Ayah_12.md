@@ -68,7 +68,7 @@ There could be a possible doubt here in that the present Surah is Makki, while t
 
 ## Tafsir Summary
 
-Verily, We have put on their necks iron collars reaching to the chins, so that their heads are raised up (8)And We have put a barrier before them, and a barrier behind them, and We have covered them up, so that they cannot see (9)It is the same to them whether you warn them or you warn them not, they will not believe (10)You can only warn him who follows the Reminder, and fears the Most Gracious unseen.
+Because these footsteps are being recorded, then those which are setting an example, whether good or bad, are more likely to be recorded. This also indicates that Allah gives life to the heart of whomever He wills among the disbelievers, those whose hearts have died in misguidance, by guiding them after that to the truth.
 
 ## Tafsir Ibn Kathir
 

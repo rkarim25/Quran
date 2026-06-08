@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Leave Me alone (to deal) with whom I created lonely (11)And then granted him resources in abundance (12)And children attending (13)And made life smooth and comfortable for him (14)After all that he desires that I should give more (15)Nay! The Annual Income of Walid Ibn Mughirah: Ten Million Guineas The disbeliever referred to here is Walid Ibn Mughirah.
+[ 20] Then he looked [ to those around him,] [ 21] then he frowned and scowled, [ 22] then turned his back, and waxed proud, [ 23] then said, "This is nothing but traditional magic; [ 24] this is nothing but saying of a mortal."...25) The word qaddara is derived from tagdir, and literally denotes 'to suggest'.
 
 ## Tafsir Ibn Kathir
 

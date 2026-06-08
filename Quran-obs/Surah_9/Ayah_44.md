@@ -72,7 +72,7 @@ Ata' Al-Khurasani said similarly. Mujahid said, "This Ayah was revealed about so
 
 ## Tafsir Summary
 
-May Allah forgive you. In the second (44) and third (45) verses given there was the difference between believers and hypocrites.
+Why did you grant them leave, until those who told the truth were manifest to you, and you had known the liars (43)Those who believe in Allah and the Last Day, would not ask your leave to be exempted from fighting with their properties and their lives; and Allah is the All-Knower of those who have Taqwa (44)It is only those who believe not in Allah and the Last Day and whose hearts are in doubt that ask your leave.
 
 ## Tafsir Ibn Kathir
 

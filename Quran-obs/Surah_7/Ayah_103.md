@@ -72,7 +72,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then after them We sent Musa with Our signs to Fir'awn and his chiefs, but they wrongfully rejected them. The verse 103, has said that after the prophets Nuh, Hud, Salih, Lut and Shu'aib (علیہ السلام) ، We sent Musa with Our signs towards Pharaoh and his people.
+The Pharaoh of Musa's time is said to be Mernephtah.
 
 ## Tafsir Ibn Kathir
 

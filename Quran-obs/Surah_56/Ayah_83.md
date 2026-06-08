@@ -23,7 +23,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then why do you not (intervene) when it reaches Al-Hulqum (83)And you at the moment are looking (84)But We are nearer to him than you, but you see not (85)Then why do you not – if you are not Madini (86)Return the soul,… In the current verse the word is used in the sense of hypocrisy and rejection of Allah's verses carelessly.
+In view of this graphic picture, the disbelievers are reminded that if they think that they cannot be resurrected after death, and they are too strong to come under Allah's grasp, then they must restore the soul when it has reached the throat and is about to depart from the body or it has already departed and died.
 
 ## Tafsir Ibn Kathir
 

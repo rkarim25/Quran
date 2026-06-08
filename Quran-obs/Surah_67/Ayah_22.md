@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Who is it besides the Most Gracious that can be an army to you to help you? أَفَمَن يَمْشِي مُكِبًّا عَلَىٰ وَجْهِهِ أَهْدَىٰ أَمَّن يَمْشِي سَوِيًّا عَلَىٰ صِرَ‌اطٍ مُّسْتَقِيمٍ (Then, tell me whether the one who walks falling down [ frequently ] on his face is better guided or the one who walks on a straight path...67:22).
+The phrase 'the one who walks on a straight path' refers to the believer who is rightly guided.
 
 ## Tafsir Ibn Kathir
 

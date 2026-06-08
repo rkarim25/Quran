@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! That causing pain to Allah and His Messenger brings fatal consequences was the subject of the previous verse.
+Be not like those who annoyed Musa, but Allah cleared him of that which they alleged, and he was honorable before Allah .
 
 ## Tafsir Ibn Kathir
 

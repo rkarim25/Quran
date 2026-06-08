@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Musa said to his people: "O my people! But the Bani Isra'il who had not listened to their own prophet Sayyidna Musa (علیہ السلام) would have hardly listened to these elders.
+Therefore, they said, we are incapable of entering this city as long as they are still in it, but if they leave it, we will enter it. Therefore, the evil works of the Jews were exposed to everyone, and the exposure was such an enormous one that the night, or the tail, can never cover its tracks.
 
 ## Tafsir Ibn Kathir
 

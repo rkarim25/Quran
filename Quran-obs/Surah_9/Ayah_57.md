@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They swear by Allah that they are truly of you while they are not of you, but they are a people (hypocrites) who are afraid (that you may kill them)(56)Should they find a refuge, or caves, or a place of concealment, they… Mentioned in the previous verses were bad morals and bad deeds of the hypocrites.
+However, even if Sadaqat at this place mean what is obligatory, like Zakah and ` Ushr, then, we should remember that the hypocrites were given a share from it on the basis that they claimed to be Muslims.
 
 ## Tafsir Ibn Kathir
 

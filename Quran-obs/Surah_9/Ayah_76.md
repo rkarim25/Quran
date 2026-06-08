@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And of them are some who made a covenant with Allah (saying): "If He bestowed on us of His bounty, we will verily, give Sadaqah and will be certainly among the righteous. The second verse: وَمِنْهُم مَّنْ عَاهَدَ اللَّـهَ (And among them there are those who made a pledge with Allah - 75) is also connected with a particular event which has been reported by Ibn Jarir, Ibn Abi Hatim, Ibn Marduwayh, Al-Tabarani and Al-Baihaqi on the authority of a narration from Sayyidna Abu Umamah Bahili ؓ .
+They told him that his ` wealth' had increased to such proportions that he had to go far away from Madinah and that is why he is not seen in the city.
 
 ## Tafsir Ibn Kathir
 

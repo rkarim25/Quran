@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, Most Merciful.) 111. In the sixth verse (110), we can once again see the wise way of the Qur'an at work when, in order to save sinners from total disappointment, it was said that a sin was a sin, big or small.
+And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, Most Merciful.) 111. When a sinner repents and seeks Allah's forgiveness, he finds Him forgiving, merciful.
 
 ## Tafsir Ibn Kathir
 

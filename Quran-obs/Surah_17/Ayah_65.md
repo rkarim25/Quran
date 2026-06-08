@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Allah) said: "Go, and whosoever of them follows you, surely, Hell will be the recompense of you (all) an ample recompense (63)"And fool them gradually, those whom you can among them with your voice, Ajlib upon them with your cavalry and your infantry, share with them wealth and children, and make promises to them." But Shaytan promises them nothing but deceit (64)"Verily, My servants, you have no authority over them. (2) Secondly, he had said if he was given respite till the day of Qiyamah, he will mislead the entire progeny of 'Adam, except a few of them.
+And All-Sufficient is your Lord as a Guardian.
 
 ## Tafsir Ibn Kathir
 

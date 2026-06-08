@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-On the Day when We will say to Hell: "Are you filled?" It will say: "Are there any more? مَا يُبَدَّلُ الْقَوْلُ لَدَيَّ وَمَا أَنَا بِظَلَّامٍ لِّلْعَبِيدِ (The Word is not changed with Me, and I Am not a wrongdoer to My slaves." [ 50:29] That is, 'I have made my decision which will certainly be implemented: it will never be changed.
+This is the apparent meaning of this Ayah which is supported by several Hadiths.
 
 ## Tafsir Ibn Kathir
 

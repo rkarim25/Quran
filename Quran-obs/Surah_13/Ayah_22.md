@@ -87,7 +87,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who fulfill, the covenant of Allah and break not the trust (20)And those who join that which Allah has commanded to be joined and fear their Lord, and dread the terrible reckoning (21)And those who remain patient,… The sixth attribute has been stated as: وَالَّذِينَ صَبَرُ‌وا ابْتِغَاءَ وَجْهِ رَ‌بِّهِمْ (and those who observe patience in order to seek the pleasure of their Lord).
+Doing it secretly is not appropriate so that other people could be pursuaded and prompted to do the same.
 
 ## Tafsir Ibn Kathir
 

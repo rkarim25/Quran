@@ -18,7 +18,7 @@ Ibn Jarir recorded from 'Amir bin 'Abdullah bin Az-Zubayr that he said, "Abu Bak
 
 ## Tafsir Summary
 
-The Recitation of Surat Al-Layl in the 'Isha' Prayer The statement of the Prophet ﷺ to Mu'adh has already preceded, where he said, فَسَنُيَسِّرُ‌هُ لِلْيُسْرَ‌ىٰ (We will facilitate for him the way to extreme ease [ i.e.
+will pave their way to extreme ease, that is, to deeds that will lead them to the comforts of Paradise.
 
 ## Tafsir Ibn Kathir
 

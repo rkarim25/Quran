@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) Lut! We shall attack him (Salih علیہ السلام) and his family at night, then will say to his heir, We did not witness the destruction of his family and we are really truthful - 27:49.
+We destined her to be of those who remained behind (57)And We rained down on them a rain. Lut and His People Allah tells us about His servant and Messenger Lut, peace be upon him, and how he warned his people of Allah's punishment for committing an act of immorality which no human ever committed before them – intercourse with males instead of females.
 
 ## Tafsir Ibn Kathir
 

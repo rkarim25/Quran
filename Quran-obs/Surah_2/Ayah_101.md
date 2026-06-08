@@ -104,7 +104,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We have sent down to you manifest Ayat and none disbelieve in them but Fasiqun (those who rebel against Allah's command)(99)Is it not (the case) that every time they make a covenant, some party among them throw it aside? The previous verse had told us how the breaking of pledges and disobedience had become a regular habit with the Jews.
+Muhammad ﷺ) confirming what was with them, a party of those who were given the Scripture threw away the Book of Allah behind their backs as if they did not know (101)They followed what the Shayatin (devils) gave out (falsely of the magic) in the lifetime of Sulayman (Solomon). What should I do?" Al-Hasan Al-Basri said that this Ayah means, "The angels were sent with magic, so that the people whom Allah willed would be tried and tested.
 
 ## Tafsir Ibn Kathir
 

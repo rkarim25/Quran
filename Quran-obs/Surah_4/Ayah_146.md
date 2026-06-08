@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! The purpose in previous verses was to point out to some ugly traits of the hypocrites, though their punishment of being in Hell with disbelievers was also mentioned as a corollary to another subject.
+Since the inherent effect of such impending punishment generates a sense of fear in a good-natured person which usually becomes the reason for early repentance, therefore, exemption from punishment has been promised to those who repent alongwith the incentive of good reward for them..
 
 ## Tafsir Ibn Kathir
 

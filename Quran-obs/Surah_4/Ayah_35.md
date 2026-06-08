@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-If you fear a breach between the two, appoint (two) arbitrators, one from his family and the other from her's; if they both wish for peace, Allah will cause their reconciliation. It is to block the road to this terrible discord that, in the second verse, the Holy Qur'an addresses government authorities of the time, the guardians of the parties concerned and their supporters, and the general body…
+And if you come to the conclusion that matters cannot be set right between them or that they will not stay right later on, and both of you concur with the option that a separation between them is the expedient course, then do it.' When the woman heard this, she said: 'I accept this.
 
 ## Tafsir Ibn Kathir
 

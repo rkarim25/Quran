@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O My servants who believe! وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُبَوِّئَنَّهُم مِّنَ الْجَنَّةِ غُرَ‌فًا تَجْرِ‌ي مِن تَحْتِهَا الْأَنْهَارُ‌ خَالِدِينَ فِيهَا (And those who believe and do righteous deeds, We shall accommodate them in mansions of the Paradise beneath which rivers flow, where they will live forever - 29:58).
+Excellent is the reward for the workers (58)Those who are patient, and put their trust in their Lord (59)And so many a moving creature carries not its own provision!
 
 ## Tafsir Ibn Kathir
 

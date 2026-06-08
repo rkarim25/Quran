@@ -69,7 +69,7 @@ Al-'Awfi, 'Ikrimah and 'Ata' said that Ibn 'Abbas said, "Surat Al-An'am was reve
 
 ## Tafsir Summary
 
-The Virtue of Surat Al-An'ām and When it Was Revealed Al-'Awfi, 'Ikrimah and 'Ata' said that Ibn 'Abbas said, "Surat Al-An'am was revealed in Makkah" At-Tabarani recorded that Ibn 'Abbas said, "All of Surat Al-An'am was… In the first verse, by saying that all those great bodies of things in this big universe created by Allah Ta` ala on Whom they depend, an open and correct lesson has been given to all human beings.
+Then, it is to shake human beings out of their negligence that they have been told that every human being has a particular age, after which death is certain.
 
 ## Tafsir Ibn Kathir
 

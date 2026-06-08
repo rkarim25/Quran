@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you not seen those (the Jews) who were given a portion of the Book, purchasing the wrong path, and wishing that you should go astray from the right path (44)Allah has full knowledge of your enemies, and Allah is suf… The present verses take up the matter of dealings with enemies.
+This last aspect is in a way an exhortation to Muslims that they should be careful in choosing the words they use to say what they have to say, for mincing words is not their style.
 
 ## Tafsir Ibn Kathir
 

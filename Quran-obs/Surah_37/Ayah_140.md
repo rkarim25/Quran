@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, Yunus was one of the Messengers (139)When he ran to the laden ship (140)Then he (agreed to) cast lots, and he was among the losers (141)Then a (big) fish swallowed him as he had done an act worthy of blame (1… The word: أَبَقَ (abaqa) in the next verse (140):إِذْ أَبَقَ إِلَى الْفُلْكِ الْمَشْحُونِ (when he ran towards the boat already loaded) has been derived from: اِبَاق (ibaq) which means 'escaping of a slave from his master'.
+This was because the ship was being pounded by the waves on all sides, and they were at risk of drowning, so they drew lots, and whoever lost would be thrown overboard so as to lighten the load.
 
 ## Tafsir Ibn Kathir
 

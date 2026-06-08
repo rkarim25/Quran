@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "O My servants who have transgressed against themselves! The next three verses (56-58), beginning from: أَن تَقُولَ نَفْسٌ يَا حَسْرَ‌تَىٰ (Pity on me, because I fell short in respect of Allah...
+If someone were to think of making his taubah after death on the Day of Judgment, or is simply filled with remorse over what awful things he had done to himself, then, that will bring him no benefit.
 
 ## Tafsir Ibn Kathir
 

@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And O my people! Then, they were told: ` As for the condition you impose that I should remove the poor from my company in order that you could believe, then let it be very clear that I cannot do that.
+Surely, they are going to meet their Lord, but I see that you are a people that are ignorant (29)And O my people! This is similar to the request of disbelievers to the seal of the Messengers ﷺ to disassociate himself from a group of the people who were considered weak in their social status.
 
 ## Tafsir Ibn Kathir
 

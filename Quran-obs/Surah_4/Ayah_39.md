@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who are stingy and encourage people to be stingy and hide what Allah has bestowed upon them of His bounties. Previous verses carried the condemnation of those who refused to believe in Allah and in the Akhirah and were miserly.
+The apparent wording for this Ayah indicates that it is talking about being stingy with money, even though miserly conduct with knowledge is also included.
 
 ## Tafsir Ibn Kathir
 

@@ -32,7 +32,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The chiefs of those who disbelieved among his people said (to their people): "If you follow Shu'ayb, be sure then you will be the losers! The punishment of the people of Sayyidna Shu'aib (علیہ السلام) has been identified as earthquake (Rajfah, Zalzalah) while in other verses it appears as: فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ (26:189) which means that they were seized by the punishment of Yowm az-Zullah.
+Therefore, Allah stated that each of these forms of punishment struck them on the Day of the Shadow. At that time, the whole cloud became a cloud of fire raining on them and also came the earthquake which turned them to ashes.
 
 ## Tafsir Ibn Kathir
 

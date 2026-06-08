@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Allah honored some of you over others with wealth and properties. In the previous verses, by referring to major manifestations of His knowledge and power and blessings which descend on human beings, Allah Ta` ala has the natural proof of His Oneness (Tauhid).
+As for comments under this verse, the purpose was limited to pointing out that the dissimilarity in provision and wealth is very natural and very much in accordance with considerations for human good.
 
 ## Tafsir Ibn Kathir
 

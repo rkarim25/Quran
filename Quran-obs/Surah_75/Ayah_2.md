@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Interpretation of Lawwarnah Sayyidna Ibn ` Abbas, Hasan al-Basri and others have expressed the view that Allah has sworn an oath by the self-reproaching conscience in order to show honour for the believing souls who take account of their deeds, regret, and feel sorry for, their shortcomings and reproach themselves.
+This Self is conscious of its own imperfections.
 
 ## Tafsir Ibn Kathir
 

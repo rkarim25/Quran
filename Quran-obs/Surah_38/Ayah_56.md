@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This is so! In verse 52, it was said: وَعِندَهُمْ قَاصِرَ‌اتُ الطَّرْ‌فِ أَتْرَ‌ابٌ (and in their company there will be females restricting their glances ] to their husbands, and[ of matching ages.).
+Verily, they shall enter in the Fire!) meaning, because they are of the people of Hell.
 
 ## Tafsir Ibn Kathir
 

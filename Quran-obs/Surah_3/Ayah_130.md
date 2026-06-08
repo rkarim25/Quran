@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! The meaning of doubled and multiplied The detailed rules regarding 'riba' and the philosophy underlying its prohibition have been discussed thoroughly in Surah al-Baqarah verses 275-278 (Volume 1 of this commentary).
+Interest (Riba) is Prohibited Allah prohibits His believing servants from dealing in Riba and from requiring interest on their capital, just as they used to do during the time of Jahiliyyah.
 
 ## Tafsir Ibn Kathir
 

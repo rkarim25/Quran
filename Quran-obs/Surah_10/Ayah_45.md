@@ -91,7 +91,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And on the Day when He shall gather them together, (it will be) as if they had not stayed (in the life of this world and graves) but an hour of a day. In verse 45, it was said: يَتَعَارَ‌فُونَ بَيْنَهُمْ (they will recognize each other), that is, when the dead will be raised from their graves, they will recognize each other as if not much time had passed when they met last.
+And on the Day when He shall gather them together, (it will be) as if they had not stayed (in the life of this world and graves) but an hour of a day. They will know them just like they used to know them during the life in this world.
 
 ## Tafsir Ibn Kathir
 

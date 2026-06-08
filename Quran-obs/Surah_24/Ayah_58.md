@@ -214,7 +214,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! It has been described in the beginning of this Surah that the injunctions of Surah Nur mostly relate to prevention of obscenity and vulgarity.
+Allah commanded the believers to ensure that their servants and their children who have not yet reached puberty should seek permission at three times: the first is before the Fajr prayer, because people are asleep in their beds at that time.
 
 ## Tafsir Ibn Kathir
 

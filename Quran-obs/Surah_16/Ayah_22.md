@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Your god is one God. Verses appearing immediately earlier described the many blessings of Allah Ta` ala in details, proved that He alone is their Creator and established that He is unique in this matter.
+But for those who believe not in the Hereafter, their hearts are in denial, and they are proud (22)Certainly, Allah knows what they conceal and what they reveal.
 
 ## Tafsir Ibn Kathir
 

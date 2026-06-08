@@ -94,7 +94,7 @@ Allah says, fear Allah, O people, and beware of His might, by obeying what He co
 
 ## Tafsir Summary
 
-Lawful to you is water game and its use for food – for the benefit of yourselves and those who travel, but forbidden is (the pursuit of) land game as long as you are in a state of Ihram. A report from Sayyidna Abu Hurairah ؓ appearing in the Musnad of Ahmad, quoted in Al-Lubab, says: When the Verse forbidding drinking and gambling had been revealed, some people asked the Holy Prophet ﷺ that there were many people who drank wine and lived off earnings from gambling and then died before these were forbidden.
+Lawful to you is water game and its use for food – for the benefit of yourselves and those who travel, but forbidden is (the pursuit of) land game as long as you are in a state of Ihram.
 
 ## Tafsir Ibn Kathir
 

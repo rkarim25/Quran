@@ -98,7 +98,7 @@ By Allah! Before I departed, parts of the Qur'an were revealed about me. Allah's
 
 ## Tafsir Summary
 
-Those among you who make their wives unlawful to them by Zihar they cannot be their mothers. وَالَّذِينَ يُظَاهِرُ‌ونَ مِن نِّسَائِهِمْ ثُمَّ يَعُودُونَ لِمَا قَالُوا (And those who declare zihar against their wives, then retract what they said, ...58:3).
+And verily, Allah is Oft-Pardoning, Oft-Forgiving (2)And those who make unlawful to them (their wives) by Zihar and wish to free themselves from what they uttered, (the penalty) in that case is the freeing of a slave before they touch each other.
 
 ## Tafsir Ibn Kathir
 

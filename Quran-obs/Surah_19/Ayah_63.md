@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(They will enter) 'Adn Gardens which the Most Gracious has promised to His servants in the unseen. "They will not hear anything absurd therein but a word of peace." - 19:62.
+Their sustenance will be brought out to them from Paradise, morning and evening.) Ahmad is the only one who collected this narration.
 
 ## Tafsir Ibn Kathir
 

@@ -128,7 +128,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Is there of your partners one that originates the creation and then repeats it?" Say: "Allah originates the creation and then He repeats it. In the concluding verse (32), it was said: فَذَٰلِكُمُ اللَّـهُ رَ‌بُّكُمُ الْحَقُّ ۖ فَمَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ (So, that is Allah, your Lord in truth.
+Is then He Who guides to the truth more worthy to be followed, or he who finds not guidance (himself) unless he is guided?
 
 ## Tafsir Ibn Kathir
 

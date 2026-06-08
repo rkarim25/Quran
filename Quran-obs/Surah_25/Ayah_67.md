@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the servants of the Most Gracious are those who walk on the earth Hawna, and when the foolish address them they say; "Salama. وَالَّذِينَ إِذَا أَنفَقُوا لَمْ يُسْرِ‌فُوا وَلَمْ يَقْتُرُ‌وا (and those who, when they spend, are neither extravagant nor miserly - 25:67).
+In case one does not spend at all at a place where he has been directed to spend, then that is the worst situation.
 
 ## Tafsir Ibn Kathir
 

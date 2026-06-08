@@ -46,7 +46,7 @@ Allah lowered the number [of adversaries that Muslims are required to endure], a
 
 ## Tafsir Summary
 
-O Prophet! In the second verse (64) as well, by stating the same subject briefly, the Holy Prophet ﷺ has been comforted by telling him that sufficient for him is Allah Ta` ala in the real sense, and the group of believers in the physical sense.
+Allah is sufficient for you and for the believers who follow you (64)O Prophet! In the second verse (64) as well, by stating the same subject briefly, the Holy Prophet ﷺ has been comforted by telling him that sufficient for him is Allah Ta` ala in the real sense, and the group of believers in the physical sense.
 
 ## Tafsir Ibn Kathir
 

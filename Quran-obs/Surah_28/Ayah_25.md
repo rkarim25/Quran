@@ -116,7 +116,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then there came to him one of them, walking shyly. فَجَاءَتْهُ إِحْدَاهُمَا تَمْشِي عَلَى اسْتِحْيَاءٍ (Then one of the two women came to him walking with shyness.
+Rather she said: "My father is inviting you so that he may reward you for watering our sheep," i.e., give you some payment for that.
 
 ## Tafsir Ibn Kathir
 

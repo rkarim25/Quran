@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Sabbath was only prescribed for those who differed concerning it, and verily, your Lord will judge between them on the Day of Resurrection about what they differed over (124) The Prescription of the Sabbath for the J… The Holy Prophet being on the way of Sayyidna Ibrahim (علیہ السلام) : Understanding the Chemistry of Adherence When Sayyidna Ibrahim I appeared, Allah Ta’ ala blessed him with a Shari'ah and its Injunctions.
+The Prescription of the Sabbath for the Jews There is no doubt that for every nation, Allah prescribed one day of the week for people to gather to worship Him.
 
 ## Tafsir Ibn Kathir
 

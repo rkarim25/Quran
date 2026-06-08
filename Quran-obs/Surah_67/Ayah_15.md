@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who fear their Lord unseen, theirs will be forgiveness and a great reward (12)And whether you keep your talk secret or disclose it, verily, He is the All-Knower of what is in the breasts (13)Should not He Who has created know? هُوَ الَّذِي جَعَلَ لَكُمُ الْأَرْ‌ضَ ذَلُولًا (He is the One who has made the earth submissive for you ...67:15) The word dhalul signifies 'submissive'.
+This warning tells us that man is permitted to draw benefits of eating, drinking and living from the earth, but he is reminded at the same time not to be neglectful of death and life-after-death.
 
 ## Tafsir Ibn Kathir
 

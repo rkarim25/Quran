@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! The meaning of doubled and multiplied The detailed rules regarding 'riba' and the philosophy underlying its prohibition have been discussed thoroughly in Surah al-Baqarah verses 275-278 (Volume 1 of this commentary).
+Do not consume Riba doubled and multiplied, but fear Allah that you may be successful (130)And fear the Fire, which is prepared for the disbelievers (131)And obey Allah and the Messenger that you may obtain mercy (132)And march forth in the way (which leads to) forgiveness from your Lord, and for Paradise as wide as the heavens and the earth, prepared for the Muttaqin (the pious)(133)Those who spend (in Allah's cause) in prosperity and in adversity, who repress anger, and who…
 
 ## Tafsir Ibn Kathir
 

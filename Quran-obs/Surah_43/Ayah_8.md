@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(1. A Preacher must not give up his preaching due to disappointment أَفَنَضْرِ‌بُ عَنكُمُ الذِّكْرَ‌ صَفْحًا أَن كُنتُمْ قَوْمًا مُّسْرِ‌فِينَ (Shall we remove the advice away from you because you are a transgressing people?
+Shall We then take away the Reminder from you, because you are a people excessive.)(6. By the manifest Book.) means, plain and clear in both wording and meaning, because it was revealed in the language of the Arabs, which is the most eloquent language for communication among people.
 
 ## Tafsir Ibn Kathir
 

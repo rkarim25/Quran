@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And many a town revolted against the command of its Lord and His Messengers; and We called it to a severe account, and We shall punish it with a horrible torment (8)So it tasted the evil result of its affair, and the consequence of its affair was loss (9)Allah has prepared for them a severe torment. قَدْ أَنزَلَ اللَّـهُ إِلَيْكُمْ ذِكْرً‌ا رَّ‌سُولًا (Allah has sent down to you a Reminder, a messenger...65:10-11).
+For instance some say that the word dhikr ('Reminder' ) refers to the Holy Prophet ﷺ himself, and the word 'messenger' is an explanatory complement to the word 'dhikr', because abundance of his remembering Allah made him a personified Remembrance of Allah.
 
 ## Tafsir Ibn Kathir
 

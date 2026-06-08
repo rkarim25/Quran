@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! ا أَيُّهَا النَّبِيُّ إِذَا جَاءَكَ الْمُؤْمِنَاتُ يُبَايِعْنَكَ عَلَىٰ أَن لَّا يُشْرِ‌كْنَ بِاللَّـهِ شَيْئًا (0 Prophet, when the believing women come to you, seeking bai'ah [ a pledge of allegiance ] with you that they will not ascribe anything as a partner to Allah, ....60:12).
+Surely, they have despaired of the Hereafter, just as the disbelievers have despaired of those (buried) in graves . Secondly, just as the disbelievers who are buried in graves have lost hope in receiving any kind of goodness (i.e., after seeing the punishment and knowing that Resurrection is true).
 
 ## Tafsir Ibn Kathir
 

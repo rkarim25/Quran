@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He (the father) said: "Do you revile my gods, O Ibrahim? And go away from you and what you invoke besides Allah.
+And I shall call upon my Lord, and I certainly hope that I shall not be unblessed in my invocation to my Lord. For verily, he (Ibrahim) is the leader of the Prophets other than Muhammad ﷺ.
 
 ## Tafsir Ibn Kathir
 

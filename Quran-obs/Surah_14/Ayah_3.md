@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. To those who prefer the worldly life to the Hereafter and pre-vent (people) from the way of Allah, and seek crookedness in it.
+And if they happen to come across some word supposedly in sup-port of that idea of theirs, they would take it to be a Qur'anic proof in their favour - although, this method is wrong in principle because it is the duty of a true believer that he should first unburden his or her mind from personal ideas and wishes and then consult the Book of Allah and the Sunnah of His Prophet ﷺ .
 
 ## Tafsir Ibn Kathir
 

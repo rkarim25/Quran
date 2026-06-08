@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Allah will never lead a people astray after He has guided them until He makes clear to them what they should avoid. This put some Muslims into doubt.
+Recompense comes after Proof is established Allah describes His Honorable Self and just judgment in that He does not lead a people astray but after the Message comes to them, so that the proof is established against them.
 
 ## Tafsir Ibn Kathir
 

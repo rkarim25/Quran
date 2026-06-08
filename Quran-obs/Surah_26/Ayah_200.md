@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Thus have We caused it to enter the hearts of the criminals (200)They will not believe in it until they see the painful torment (201)It shall come to them of a sudden, while they perceive it not (202)Then they will say: "Can we be respited? Qur’ an is the name of the collection of its words and meanings It is brought by the Trusted Spirit down [ 193] to your heart, so that you become one of the warners [ 194] in plain Arabic language.
+Then they will say: "Can we be respited?") means, when they see the punishment, then they will wish they had a little more time so that they can obey Allah – or so they claim. Answer to this apparent contradiction is that according to majority of the Ummah, sometimes even the subject matter of the Qur’ an is called Qur'an in a general sense, because the real purpose of a book is the subjects it deals with.
 
 ## Tafsir Ibn Kathir
 

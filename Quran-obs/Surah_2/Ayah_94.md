@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say to (them): "If the abode of the Hereafter with Allah is indeed for you especially and not for others of mankind, then long for death if you are truthful. The Jews used to claim that the blessings of the other world were specially reserved for them, and were not, meant for any other people.
+This is when they resorted to peace and gave the Jizyah (tax) in disgrace.
 
 ## Tafsir Ibn Kathir
 

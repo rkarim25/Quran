@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who say: "Our Lord is Allah," and then they stand firm, on them the angels will descend (saying): "Fear not, nor grieve! لَكُمْ فِيهَا مَا تَشْتَهِي أَنفُسُكُمْ وَلَكُمْ فِيهَا مَا تَدَّعُونَ نُزُلًا مِّنْ غَفُورٍ‌ رَّ‌حِيمٍ (And for you here is whatever your souls desire, and for you here is whatever you call for.
+- 41:31-32) In other words, ` all your desires' would be fulfilled whether you request or you don't.' The word used after that is ` nuzulan'1 meaning hospitality indicates that many the delights provided to you there will be such that even desire had not entered your heart, as happens to a guest, specially of a great personage, that many such things also are presented to him that the guest had not even imagined.
 
 ## Tafsir Ibn Kathir
 

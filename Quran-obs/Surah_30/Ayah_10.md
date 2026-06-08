@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Al-Hassan Al-Basri said, “It has reached the state that in this world one of them could put a Dirham on his finger and tell how much it weighs, but he does not know how to pray properly.” (8. أَوَلَمْ يَسِيرُ‌وا فِي الْأَرْ‌ضِ (Have they not travelled on earth - 30:9).
+Then evil was the end of those who did evil, because they dendied the Ayât of Allâh and made a mockery of them.) Signs of Tawhid Allah tells us that pondering His creation will show that He exists and that He is Unique in creating it, and that there is no god nor lord besides Him. Surely, Allâh wronged them not, but they used to wrong themselves.)(10.
 
 ## Tafsir Ibn Kathir
 

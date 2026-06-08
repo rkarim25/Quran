@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those on the right – how (fortunate) will be those on the right (27)(They will be) among Sidri Makhdud (28)And among Talh Mandud (29)And in shade Mamdud (30)And by water flowing constantly (31)And fruit in plenty (32… وَظِلٍّ مَّمْدُودٍ (and a shade, spread all over...56:30).
+The Holy Prophet ﷺ is reported to have said, as recorded in Sahihain, that in Paradise there is a tree so large that a rider may travel for a hundred years under its shade, but would not be able to pass it.
 
 ## Tafsir Ibn Kathir
 

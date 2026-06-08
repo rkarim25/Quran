@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when We bestow Our grace on man, he turns away and becomes arrogant. We can now move to the last verse (82) cited above: وَنُنَزِّلُ مِنَ الْقُرْ‌آنِ مَا هُوَ شِفَاءٌ (And We reveal the Qur'an which is a cure).
+But if We let him taste good after evil has touched him, he is sure to say: "Ills have departed from me." Surely, he is exultant, and boastful.
 
 ## Tafsir Ibn Kathir
 

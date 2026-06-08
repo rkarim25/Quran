@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed (many) Messengers were mocked before you, but the scoffers were surrounded by what they used to mock (41)Say: "Who can guard and protect you in the night or in the day from the Most Gracious?" Nay, but they turn away from the remembrance of their Lord (42)Or have they gods who can guard them from Us? خُلِقَ الْإِنسَانُ مِنْ عَجَلٍ (Man is made of haste.
+Indeed (many) Messengers were mocked before you, but the scoffers were surrounded by what they used to mock (41)Say: "Who can guard and protect you in the night or in the day from the Most Gracious?" Nay, but they turn away from the remembrance of their Lord (42)Or have they gods who can guard them from Us?
 
 ## Tafsir Ibn Kathir
 

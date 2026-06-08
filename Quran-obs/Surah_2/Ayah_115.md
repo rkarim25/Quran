@@ -62,7 +62,7 @@ That Hadith was also collected by Muslim, At-Tirmidhi, An-Nasa'i, Ibn Abi Hatim,
 
 ## Tafsir Summary
 
-And to Allah belong the east and the west, so wherever you turn (yourselves or your faces) there is the Face of Allah (and He is High above, over His Throne). In order to understand these two verses, one should keep in mind three different incidents connected with the three groups hostile to Islam, all of which were, in one way or another, guilty of preventing people from worshipping Allah in mosques and of laying them waste.
+Wheresoever a man turns, he shall find Allah "facing" him -- that is to say, ready to accept his prayers and to shower His bounties on him.
 
 ## Tafsir Ibn Kathir
 

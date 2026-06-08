@@ -30,7 +30,7 @@ The reason for the revelation of this Surah has already been mentioned. 'Ikrimah
 
 ## Tafsir Summary
 
-The Reason for the Revelation of this Surah and its Virtues Imam Ahmad recorded from Ubayy bin Ka'b that the idolators said to the Prophet ﷺ, "O Muhammad! Verse [ 4] وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ (And equal to Him has never been any one.) The word kufuwan, as used in the original, means an 'example', a 'similar thing', 'one equal in rank and position'.
+Verily, I ask you by my testifying that there is no God worthy of worship except You.
 
 ## Tafsir Ibn Kathir
 

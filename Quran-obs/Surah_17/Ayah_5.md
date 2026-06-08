@@ -81,7 +81,7 @@ Allah tells us that He made a declaration to the Children of Israel in the Scrip
 
 ## Tafsir Summary
 
-And We decreed for the Children of Israel in the Scripture: "Indeed you would do mischief in the land twice and you will become tyrants and extremely arrogant! Verses 2 and 3 featuring the statement: (We made it guidance for the children of Bani Isra'il) exhorted the Bani Isra'il to follow and obey the Divine Law.
+This wealth is still there, and there it will remain until comes the Mahdi who would bring these back to Baytul-maqdis on one hundred and seventy thousand boats and it will be at this place that Allah Ta’ ala will assemble everyone, former and later. Then, not only that the enemies will run over them destroying their lives and properties, but it would also happen that their Qiblah, their sacred Baytul-Maqdis, will also not remain safe against the onslaught of that enemy.
 
 ## Tafsir Ibn Kathir
 

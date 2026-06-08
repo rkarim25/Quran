@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And among His signs is this that He created you from dust, and then – behold you are human beings scattered (20)And among His signs is this that He created for you wives from among yourselves, that you may find repose in them, and He has put between you affection and mercy. Second sign of the divine omnipotence Allah Ta’ ala has created women in the same genus as that of man and they are made their wives as lifelong partners.
+The verse has thus indicated that the total outcome of married life is peace of mind and comfort; the couple that enjoys it is successful in the object of its creation, while the family that is deprived of peace of mind and tranquility is unsuccessful in its married life.
 
 ## Tafsir Ibn Kathir
 

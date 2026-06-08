@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "Why are not signs sent down to him from his Lord?" Say: "The signs are only with Allah, and I am only a plain warner. The status of the narrations of the People of the Book quoted by the commentators in their commentaries is also the same.
+Allah will punish them for all that, for He is All-Wise and All-Knowing.
 
 ## Tafsir Ibn Kathir
 

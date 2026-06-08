@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-..And remember Our slave Dawud, endued with Al-Ayd. In verse 18, it was said: إِنَّا سَخَّرْ‌نَا الْجِبَالَ مَعَهُ يُسَبِّحْنَ بِالْعَشِيِّ وَالْإِشْرَ‌اقِ (We had subjugated the mountains to join him in making tasbih (i.e.
+He never fled from the battlefield, and he always turned to Allah.) which means that he turned to Allah with regard to all of his affairs. The birds also used to glorify Allah's praises with him.
 
 ## Tafsir Ibn Kathir
 

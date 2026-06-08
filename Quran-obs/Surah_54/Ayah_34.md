@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The people of Lut denied the warnings (33)Verily, We sent against them Hasib (a violent storm of stones), except the family of Lut, them We saved in the last hour of the night (34)As a favor from Us. The word سُعُر su'ur has appeared twice in this Surah.
+The people of Lut denied the warnings (33)Verily, We sent against them Hasib (a violent storm of stones), except the family of Lut, them We saved in the last hour of the night (34)As a favor from Us. Allah the Exalted commanded Jibril, peace be upon him, to raise their cities to the sky and then turn them upside down over them, followed by stones made of marked Sijjil.
 
 ## Tafsir Ibn Kathir
 

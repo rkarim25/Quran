@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We did not send a warner to a township but those who were given the worldly wealth and luxuries among them said: "We believe not in what you have been sent with. Quoted in the next verse (35) is their saying: نَحْنُ أَكْثَرُ‌ أَمْوَالًا وَأَوْلَادًا وَمَا نَحْنُ بِمُعَذَّبِينَ which, in effect, means: "We are superior in riches and children, and we are not going to be punished - 35".
+How Those Who lived a Life of Luxury disbelieved in the Messengers and were misled by Their pursuit of Wealth and Children Allah is consoling His Prophet ﷺ and commanding him to follow the example of the Messengers that came before him.
 
 ## Tafsir Ibn Kathir
 

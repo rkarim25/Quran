@@ -139,7 +139,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And recite to them the story of him to whom We gave Our Ayat, but he threw them away; so Shaytan followed him up, and he became of those who went astray (175)And had We willed, We would surely have elevated him therewith, but he clung to the earth and followed his own vain desires. "And if We so willed, we would have elevated him thereby, but he clung to the earth, and followed his desire." The word' أَخْلَدَ (Akhlada) is a derivative of اِخلَاد which means to incline or to cling to something.
+Therefore, his example is the example of the dog, its tongue pants regardless of whether it is driven away or not.
 
 ## Tafsir Ibn Kathir
 

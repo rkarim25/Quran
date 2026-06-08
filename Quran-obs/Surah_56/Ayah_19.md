@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-A multitude of those will be from the first ones (13)And a few of those will be from the later ones (14)(They will be) on thrones, Mawdunah (15)Reclining thereon, face to face (16)Immortal boys will go around them (servi… لَّا يُصَدَّعُونَ عَنْهَا (from which they will neither suffer headache ....56:19).
+This is because this Ummah is the best of all nations, according to the text of the Qur'an. Therefore, it is not possible that the foremost believers from earlier nations are more numerous than those of in this Ummah; the opposite is true.
 
 ## Tafsir Ibn Kathir
 

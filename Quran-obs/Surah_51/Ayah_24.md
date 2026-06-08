@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Has the story reached you, of the honored guests of Ibrahim (24)When they came in to him and said: "Salaman!" He answered: "Salamun" and said: "You are a people unknown to me. إِنَّهُ لَحَقٌّ مِّثْلَ مَا أَنَّكُمْ تَنطِقُونَ (...it [ the Day of Recompense ] is a reality, as sure as that you speak....51:23).
+Here 'speaking' has been singled out probably because the faculty of speech is the only one where there can be no trace of deception or illusion, whereas the other sensations, on account of ailments, can get contorted. Therefore, it is the truth, there being no doubt about it, so they should not doubt its coming, just as they do not doubt that they can speak.
 
 ## Tafsir Ibn Kathir
 

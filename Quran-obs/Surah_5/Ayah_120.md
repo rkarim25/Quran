@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah will say: "This is a Day on which the truthful will profit from their truth: Theirs are Gardens under which rivers flow (in Paradise) – they shall abide therein forever. The first two sections (Ruku`) appearing earlier describe some of the happenings on the day of Qiyamah such as the reckoning, the questions and their answers.
+That is the great success (119)To Allah belongs the dominion of the heavens and the earth and all that is therein, and He is able to do all things .
 
 ## Tafsir Ibn Kathir
 

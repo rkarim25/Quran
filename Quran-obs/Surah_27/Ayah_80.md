@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, this Qur'an narrates to the Children of Israel most of that in which they differ (76)And truly, it is a guide and a mercy for the believers (77)Verily, your Lord will decide between them by His judgement. It was the demand of love and affection the Holy Prophet ﷺ had for all human beings that he should save them all from the fire of jahannam by making them accept the message of Allah.
+And He is the All-Mighty, the All-Knowing (78)So, put your trust in Allah; surely, you are on manifest truth (79)Verily, you cannot make the dead to hear nor can you make the deaf to hear the call, when they flee, turning their backs (80)Nor can you lead the blind out of their error. Second, that they were like the deaf man who does not wish to hear anything, rather they turn their back and go away if someone tries to give them any advice.
 
 ## Tafsir Ibn Kathir
 

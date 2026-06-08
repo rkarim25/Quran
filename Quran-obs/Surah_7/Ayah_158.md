@@ -143,7 +143,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "O mankind! This verse speaks of one of the basic aspects of the prophethood which is among the fundamental tenets of Islam.
+It is He Who gives life and causes death.) describes Allah by the words of the Messenger ﷺ that He Who has sent him is the Creator, Lord and King of all things and in His Hand is the control, life, death and the decision.
 
 ## Tafsir Ibn Kathir
 

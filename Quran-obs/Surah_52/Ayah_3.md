@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat At-Tur Malik narrated that Jubayr bin Mut'im said, "I heard the Prophet ﷺ reciting Surat At-Tur while praying Maghrib. وَكِتَابٍ مَّسْطُورٍ‌ فِي رَ‌قٍّ مَّنشُورٍ‌ (and by a book, written on an unrolled scroll....52:2-3) The word raqq means fine parchment or fine piece of skin, used for the purpose of writing on it.
+The Day when they will be pushed down by force to the fire of Hell, with a horrible, forceful pushing.)(14. Enter therein and whether you are patient of it or impatient of it, it is all the same.
 
 ## Tafsir Ibn Kathir
 

@@ -83,7 +83,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They made not a just estimate of Allah such as is due to Him. In the last verse (67), it was said: وَالْأَرْ‌ضُ جَمِيعًا قَبْضَتُهُ يَوْمَ الْقِيَامَةِ وَالسَّمَاوَاتُ مَطْوِيَّاتٌ(and the whole earth will be in a single grip of His hand on the Day of Doom and the heavens, rolled up on His right hand).
+Later day scholars, taking this verse to be metaphorical, explain it by saying that having something grasped in hand and having something in the right hand is an allusion to having something under full possession and control - and it is this perfect possession and control that is meant here.
 
 ## Tafsir Ibn Kathir
 

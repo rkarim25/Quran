@@ -95,7 +95,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Was there any town (community) that believed (after seeing the punishment), and its faith (at that moment) saved it (from the punishment)?– except the people of Yunus; when they believed, We removed from them the torment… In the seventh verse (98), the heedless deniers of truth have been admonished for their failure to make the optimum use of the time of life allowed to them.
+It is in that spirit that it was said: How would they not become such as would have believed at a time when believing is acceptable and beneficial?
 
 ## Tafsir Ibn Kathir
 

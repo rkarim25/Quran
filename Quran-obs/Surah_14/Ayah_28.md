@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you not seen those who have changed the blessings of Allah into disbelief (by denying Prophet Muhammad ﷺ and his Message of Islam), and caused their people to dwell in the house of destruction (28)Hell, in which they will burn, - and what an evil place to settle in (29)And they set up rivals to Allah, to mislead (men) from His path! Have you not seen those who changed the favour of Allah with disbelief and landed their people in the house of destruction, the Jahannam?
+Have you not seen those who have changed the blessings of Allah into disbelief (by denying Prophet Muhammad ﷺ and his Message of Islam), and caused their people to dwell in the house of destruction (28)Hell, in which they will burn, - and what an evil place to settle in (29)And they set up rivals to Allah, to mislead (men) from His path!
 
 ## Tafsir Ibn Kathir
 

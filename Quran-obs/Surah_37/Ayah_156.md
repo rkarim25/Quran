@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Now ask them: "Are there (only) daughters for your Lord and sons for them? Events relating to the noble prophets described earlier provided some good counsel and some lessons to learn.
+So, if this be the case, come out and show us the proof - where is that revelation and where is that Book?
 
 ## Tafsir Ibn Kathir
 

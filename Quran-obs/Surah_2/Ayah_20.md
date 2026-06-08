@@ -117,7 +117,7 @@ This is similar to the parables that were given in Surat An-Nur (chapter 24). Li
 
 ## Tafsir Summary
 
-Or like a rainstorm in the sky, bringing darkness, thunder, and lightning. The last four verses bring out the miserable plight of the hypocrites with the help of two extended similes.
+On the other hand were those who did recognize the truth of Islam, and sometimes wished to be genuine Muslims, but worldly interests would not allow them to do so, and they remained in a perpetual state of hesitation and doubt - they have been likened to the men caught in a thunderstorm who move forward a step or two when there is a flash of lightning, but, when it is over, again get stuck.
 
 ## Tafsir Ibn Kathir
 

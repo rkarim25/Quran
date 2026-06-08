@@ -59,7 +59,7 @@ And whosoever Ya'shu (turns away blindly) from the remembrance of the Most Graci
 
 ## Tafsir Summary
 
-And whosoever Ya'shu (turns away blindly) from the remembrance of the Most Gracious, We appoint for him Shaytan to be a Qarin (a companion) to him (36)And verily, they hinder them from the path, but they think that they are guided aright (37)Till, when (such a one) comes to Us, he says, "Would that between me and you were the distance of the two easts (or the east and west) a worst companion (indeed)!
+This devil who is assigned to such a person, as mentioned here, is in addition to the 'Shaitan' (Satan) who is attached to every believer and disbeliever, because that 'shaitan' (Shaitan) does leave the man alone at certain specific times, whereas this devil accompanies him all the time.
 
 ## Tafsir Ibn Kathir
 

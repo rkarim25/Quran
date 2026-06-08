@@ -76,7 +76,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Whatever wage I might have asked of you is yours. Call to the disbelievers of Makkah In verse 46: إِنَّمَا أَعِظُكُم بِوَاحِدَةٍ (I advise you for one thing only), in order to negate any excuse for the people of Makkah, they have been shown a shortcut to ascertain truth.
+Now, think hard with an open mind as to which of the two things is the real thing.
 
 ## Tafsir Ibn Kathir
 

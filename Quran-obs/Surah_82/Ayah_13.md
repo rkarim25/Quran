@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, the Abrar (the righteous believers) will be in Delight (13)And verily, the wicked will be in the blazing Fire (Hell)(14)Therein they will enter, and taste its burning flame on the Day of Recompense (15)And they w… إِنَّ الْأَبْرَ‌ارَ‌ لَفِي نَعِيمٍ وَإِنَّ الْفُجَّارَ‌ لَفِي جَحِيمٍ (Surely the righteous will be in bliss, and surely the sinners will be in Hell,...82:13-14).
+The present verse says that the righteous will be in perfect bliss, while the sinners will be in a Blazing Fire of Hell.
 
 ## Tafsir Ibn Kathir
 

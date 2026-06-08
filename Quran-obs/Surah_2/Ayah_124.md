@@ -87,7 +87,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when the Lord of Ibrahim (Abraham) tried him with (certain) commands, which he fulfilled. (34.) So far a whole section of this Surah has been dealing directly with the conduct of the Jews in the course of their history, and their present hostility to Islam, delineating the inner motives and mainsprings of this rabid opposition.
+This is part of the long Hadith that Muslim recorded in Sahih.
 
 ## Tafsir Ibn Kathir
 

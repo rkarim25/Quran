@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This is so! In verse 52, it was said: وَعِندَهُمْ قَاصِرَ‌اتُ الطَّرْ‌فِ أَتْرَ‌ابٌ (and in their company there will be females restricting their glances ] to their husbands, and[ of matching ages.).
+Where they will enter it, and worst (indeed) is that place to rest (56)This is so!
 
 ## Tafsir Ibn Kathir
 

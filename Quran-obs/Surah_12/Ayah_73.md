@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "By Allah! In verse 73, it was said: قَالُوا تَاللَّـهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِي الْأَرْ‌ضِ وَمَا كُنَّا سَارِ‌قِينَ that is, when the royal announcer accused the brothers of Sayyidna Yusuf (علیہ السلام) of theft, they said that responsible people of the state know them and know that they had not come to create any disorder in the country, nor have they ever been thieves.
+Indeed you know that we came not to make mischief in the land, and we are no thieves!
 
 ## Tafsir Ibn Kathir
 

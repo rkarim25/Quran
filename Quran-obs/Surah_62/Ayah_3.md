@@ -46,7 +46,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Jumu'ah Ibn 'Abbas and Abu Hurayrah narrated that Allah's Messenger ﷺ used to recite Surat Al-Jumu'ah and Surat Al-Munafiqin during the Friday Prayer. وَآخَرِ‌ينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْ وَهُوَ الْعَزِيزُ الْحَكِيمُ (...And [ this Messenger is sent also ] to others of them who did not join them so far.
+And others among them who have not yet joined them. Bayan-ul-Qur'an explains that 'sending among them' stands for 'sending for them' because the preposition fi in Arabic is also used in the sense of 'for'.
 
 ## Tafsir Ibn Kathir
 

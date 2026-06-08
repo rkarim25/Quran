@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then as for him who will be given his Record in his right hand will say: "Here! هَاؤُمُ اقْرَ‌ءُوا كِتَابِيَهْ (Come here, read my book… 69:19).
+read my Record!) meaning, 'take my Book and read it.' He will say this because he knows that what is in it is good and purely virtuous deeds. In other words, one who is given his record book in his right hand, he will be elated and, looking at the people around him, will say 'Here, take my account book and read it!'
 
 ## Tafsir Ibn Kathir
 

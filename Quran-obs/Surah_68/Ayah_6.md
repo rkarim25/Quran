@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(1. فَسَتُبْصِرُ‌ وَيُبْصِرُ‌ونَ بِأَييِّكُمُ الْمَفْتُونُ (So, you will see, and they will see which of you is demented....68:5-6].
+Which of you is afflicted with madness.)(7.
 
 ## Tafsir Ibn Kathir
 

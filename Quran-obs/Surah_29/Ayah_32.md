@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when Our messengers came to Ibrahim with the glad tidings they said: "Verily, we are going to destroy the people of this town; truly, its people have been wrongdoers. وَلُوطًا إِذْ قَالَ لِقَوْمِهِ إِنَّكُمْ لَتَأْتُونَ الْفَاحِشَةَ (And [ We sent ] Sayyidna Lut (علیہ السلام) when he said to his people, "Indeed you commit the shameful act - 29:28).
+There is no specification of the third sin in the Holy Qur'an.
 
 ## Tafsir Ibn Kathir
 

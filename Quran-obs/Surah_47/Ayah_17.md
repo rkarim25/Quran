@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And among them are some who listen to you till when they go out from you, they say to those who have received knowledge: "What is it that he has said just now? The lexical item اشراط "ashrat" occurring in this passage means "signs".
+The Description of the Situation of the Hypocrites and the Command to maintain Tawhid and seek Forgiveness Allah describes the hypocrites' stupidity and limited understanding.
 
 ## Tafsir Ibn Kathir
 

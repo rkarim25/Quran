@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the dwellers of the Fire will call to the dwellers of Paradise: "Pour on us some water or anything that Allah has provided you with." They will say: "Both (water and provision) Allah has forbidden for the disbeliever… Said in the sixth verse (49) is: أَهَـٰؤُلَاءِ الَّذِينَ أَقْسَمْتُمْ لَا يَنَالُهُمُ اللَّـهُ بِرَ‌حْمَةٍ ۚ ادْخُلُوا الْجَنَّةَ لَا خَوْفٌ عَلَيْكُمْ وَلَا أَنتُمْ تَحْزَنُونَ ﴿49﴾ (Is it these for whom you swore that Allah would not reach them with mercy?" - "Enter the Paradise; there is no fear on you, nor shall you grieve).
+The Favors of paradise are Prohibited for the People of the Fire Allah emphasizes the disgrace of the people of the Fire.
 
 ## Tafsir Ibn Kathir
 

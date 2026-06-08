@@ -70,7 +70,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have they not seen that We have made a secure sanctuary, while men are being snatched away from all around them? أَوَلَمْ يَرَ‌وْا أَنَّا جَعَلْنَا حَرَ‌مًا آمِنًا (Did they not see that We have made a peaceful sanctuary حَرَم[ haram ] - 67).
+The Blessing of the Sanctuary Here Allah reminds Quraysh how He blessed them by granting them access to His sanctuary which He has made (open) to (all) men, the dweller in it and the visitor from the country are equal there, and whoever enters it is safe, because he is in a place of great security, although the Arabs of the desert round about used to ambush and raid one another and kill one another.
 
 ## Tafsir Ibn Kathir
 

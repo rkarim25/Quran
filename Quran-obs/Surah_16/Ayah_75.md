@@ -119,7 +119,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah gives the example of a servant under the possession of another, he has no power of any sort, and a man on whom We have bestowed good provisions from Us, and he spends from that secretly and openly. In the first of the two examples given in the last two verses, the description is that of a master and a slave, that is, the owner and the owned.
+The servant who has no power over anything is like the disbeliever, and the one who is given good provisions and spends of them secretly and openly is like the believer.
 
 ## Tafsir Ibn Kathir
 

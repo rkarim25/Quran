@@ -58,7 +58,7 @@ Say: "O people! Now the truth has come to you from your Lord. So whoever receive
 
 ## Tafsir Summary
 
-Say: "O people! In the seventh verse (98), the heedless deniers of truth have been admonished for their failure to make the optimum use of the time of life allowed to them.
+And I am not set over you as a guardian (108)And follow what is revealed to you, and be patient until Allah gives judgment.
 
 ## Tafsir Ibn Kathir
 

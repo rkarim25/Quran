@@ -61,7 +61,7 @@ It is revealed in this verse that the infidels will lie on the Day of Resurrecti
 
 ## Tafsir Summary
 
-And on the Day that the Hour will be established, the criminals will swear that they stayed not but an hour – thus were they ever deluded (55)And those who have been bestowed with knowledge and Faith will say: "Indeed you have stayed according to the decree of Allah, until the Day of Resurrection; so this is the Day of Resurrection, but you knew not.
+It is probable that the stay referred to here is the stay in this world, because they spent the time in this world in comfort and ease.
 
 ## Tafsir Ibn Kathir
 

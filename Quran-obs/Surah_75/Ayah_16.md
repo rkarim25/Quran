@@ -37,7 +37,7 @@ This is Allah teaching His Messenger ﷺ how to receive the revelation from the 
 
 ## Tafsir Summary
 
-Move not your tongue concerning to make haste therewith (16)It is for Us to collect it and that it be recited (17)And when We have recited it to you, then follow its recitation (18)Then it is for Us to make it clear (19)But no! بَلِ الْاِنْسَانُ عَلٰي نَفْسِهٖ بَصِيْرَةٌ وَّلَوْ اَلْقٰى مَعَاذِيْرَهٗ (Rather, man will be a witness against himself, even though he may offer his excuses....75:14-15).
+How the Prophet (ﷺ) received the Revelation This is Allah teaching His Messenger ﷺ how to receive the revelation from the angel.
 
 ## Tafsir Ibn Kathir
 

@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We said: "O Adam! This is a continuation of the story of Adam (علیہ السلام) .
+Moreover, the right to 'own' a dwelling-place in Paradise is earned through 'Iman (faith) and good deeds, which one can acquire only after the Day of Judgment.
 
 ## Tafsir Ibn Kathir
 

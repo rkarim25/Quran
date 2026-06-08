@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then We sent Musa and his brother Harun, with Our Ayat and manifest authority (45)To Fir'awn and his chiefs, but they behaved insolently and they were people self-exalting (by disobeying their Lord)(46)They said: "Shall we believe in two men like ourselves, and their people are obedient to us with humility! وَآوَيْنَاهُمَا إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ (and We gave them shelter on a height, a place of rest and running springs).
+They were of a similar mentality, so Allah destroyed Fir'awn and his chiefs, drowning them all in one day. He revealed the Book to Musa, i.e., the Tawrah, in which were rulings, commands and prohibitions, after He had destroyed Fir'awn and the Egyptians and seized them with a punishment of the All-Mighty, All-Capable to carry out what He wills.
 
 ## Tafsir Ibn Kathir
 

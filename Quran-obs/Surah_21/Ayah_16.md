@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-We created not the heavens and the earth and all that is between them for play (16)Had We intended to take a pastime, We could surely have taken it from Us, if We were going to do (that)(17)Nay, We fling the truth against the falsehood, so it destroys it, and behold, it disappears. وَمَا خَلَقْنَا السَّمَاءَ وَالْأَرْ‌ضَ وَمَا بَيْنَهُمَا لَاعِبِينَ (And We did not create the heavens and the earth ...
+We created not the heavens and the earth and all that is between them for play (16)Had We intended to take a pastime, We could surely have taken it from Us, if We were going to do (that)(17)Nay, We fling the truth against the falsehood, so it destroys it, and behold, it disappears.
 
 ## Tafsir Ibn Kathir
 

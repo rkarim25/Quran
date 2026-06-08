@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Verily, those who believe and do righteous deeds, shall have the Gardens of Al-Firdaws for their entertainment. The word: الْفِرْ‌دَوْسِ (al-Firdaus) in: جَنَّاتُ الْفِرْ‌دَوْسِ (Gardens of Firdaus) means a verdant valley full of fruits and flowers - with reference to Paradise.
+The Reward of the Righteous Believers Allah tells us about His blessed servants, those who believed in Allah and His Messengers and accepted as truth what the Messengers brought.
 
 ## Tafsir Ibn Kathir
 

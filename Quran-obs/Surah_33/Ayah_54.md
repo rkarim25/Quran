@@ -58,7 +58,7 @@ This was also stated by Muqatil bin Hayyan and 'Abdur-Rahman bin Zayd bin Aslam.
 
 ## Tafsir Summary
 
-O you who believe! إِن تُبْدُوا شَيْئًا أَوْ تُخْفُوهُ فَإِنَّ اللَّـهَ كَانَ بِكُلِّ شَيْءٍ عَلِيمًا (If you disclose any thing, or conceal it, Allah is All-Knowing about everything - 33:54).
+Verily, with Allah that shall be an enormity (53)Whether you reveal anything or conceal it, verily, Allah is Ever All-Knower of everything .
 
 ## Tafsir Ibn Kathir
 

@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And warn mankind of the Day when the torment will come unto them; then the wrongdoers will say: "Our Lord! And they worked out their plot and whatever they plot is be-fore Allah, even though their plot is such as would move the mountains.
+But, all plans made by them, open or concealed, lie exposed before Allah Ta’ ala who is fully aware of them, and comprehensively capable of foiling them - even though, their plots were so precise and lethal that they would have made mountains back out from their place, but finally, nothing worked before the perfect power of Allah Ta’ ala.
 
 ## Tafsir Ibn Kathir
 

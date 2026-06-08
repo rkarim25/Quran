@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) the Day on which the Trumpet (Şūr) will be blown – and all who are in the heavens and all who are on the earth, will be terrified except him whom Allah wills. وَيَوْمَ يُنفَخُ فِي الصُّورِ‌ فَفَزِعَ مَن فِي السَّمَاوَاتِ (And [ remember ] the day when the Horn will be blown; so all those in the heavens and the earth will be in panic - 27:87).
+And (remember) the Day on which the Trumpet (Şūr) will be blown – and all who are in the heavens and all who are on the earth, will be terrified except him whom Allah wills. This verse tells us that when the Horn will be blown, all those in the heavens and the earth will get unconscious, and then die.
 
 ## Tafsir Ibn Kathir
 

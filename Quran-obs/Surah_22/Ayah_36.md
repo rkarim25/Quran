@@ -122,7 +122,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the Budn, We have made them for you as among the symbols of Allah, wherein you have much good. وَالْبُدْنَ جَعَلْنَاهَا لَكُم مِّن شَعَائِرِ‌ اللَّـهِ (And the big animals of sacrifice [ like camels ] are made by Us among the symbols of Allah for you - 22:36.) It has been explained earlier that شَعَائِرِ‌ (symbols) mean those special forms of rites and worship, which are the symbols of Islam.
+He says Bismillah and Allahu Akbar, La ilaha illallah, Allahumma Minka wa Laka (In the Name of Allah and Allah is Most Great; there is no God but Allah.
 
 ## Tafsir Ibn Kathir
 

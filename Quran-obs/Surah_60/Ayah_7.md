@@ -73,7 +73,7 @@ It is recorded in Sahih of Bukhari, on the authority of Sayyidah Asma' bint Abu 
 
 ## Tafsir Summary
 
-Perhaps Allah will make friendship between you and those whom you hold as enemies. The preceding verses vehemently prohibited Muslims to maintain any friendly intimacy with non-believers, even though they had very near blood relationships with them.
+And Allah has power (over all things), and Allah is Oft-Forgiving, Most Merciful (7)Allah does not forbid you to deal justly and kindly with those who fought not against you on account of religion nor drove you out of your homes.
 
 ## Tafsir Ibn Kathir
 

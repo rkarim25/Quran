@@ -42,7 +42,7 @@ And whosoever Ya'shu (turns away blindly) from the remembrance of the Most Graci
 
 ## Tafsir Summary
 
-And whosoever Ya'shu (turns away blindly) from the remembrance of the Most Gracious, We appoint for him Shaytan to be a Qarin (a companion) to him (36)And verily, they hinder them from the path, but they think that they are guided aright (37)Till, when (such a one) comes to Us, he says, "Would that between me and you were the distance of the two easts (or the east and west) a worst companion (indeed)!
+We learn from this that the punishment one gets even in this world for turning away from Allah's remembrance is that he gets into bad company and 'shaitans' (devils), whether from humans or from jinns, keep diverting him from virtues to vices.
 
 ## Tafsir Ibn Kathir
 

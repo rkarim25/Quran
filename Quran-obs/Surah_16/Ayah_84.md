@@ -69,7 +69,7 @@ Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ 
 
 ## Tafsir Summary
 
-And on the Day when We resurrect a witness from each nation, then those who disbelieve will not be given leave, nor will they be allowed (to return to the world) to repent and ask for Allah's forgiveness.) 85. Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ الْحَرَّ‌ (shirts which protect you from heat - 81).
+He will raise a witness from every nation - that is - their Prophet, to testify about their response to the Message he conveyed from Allah.
 
 ## Tafsir Ibn Kathir
 

@@ -79,7 +79,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if they had intended to march out, certainly, they would have made some preparation for it; but Allah was averse to their being sent forth, so He made them lag behind, and it was said (to them): "Sit among those who sit (at home). In the fifth (47) verse, it was explained that the hypocrites had procured the permission to stay away from Jihad by deceit and now it was better that they just did not participate in it.
+Had they gone there, they would have done nothing but hatch conspiracies, circulate rumors and spread disorder.
 
 ## Tafsir Ibn Kathir
 

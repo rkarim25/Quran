@@ -50,7 +50,7 @@ And if We willed, We could surely take away that which We have revealed to you. 
 
 ## Tafsir Summary
 
-And if We willed, We could surely take away that which We have revealed to you. We can now move to verse 86: وَلَئِن شِئْنَا لَنَذْهَبَنَّ (And if We so will, We will surely take away...).
+If Allah willed, He could take away the Qur'an Allah mentions the blessing and great bounty that He has bestowed upon His servant and Messenger Muhammad ﷺ by revealing to Him the Noble Qur'an to which falsehood cannot come, from before it or behind it, (it is) sent down by the All-Wise, Worthy of all praise.
 
 ## Tafsir Ibn Kathir
 

@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "We shall not believe in you, until you cause a spring to gush forth from the earth for us; (90)"Or you have a garden of date palms and grapes, and cause rivers to gush forth in their midst abundantly; (91)… A prophetic answer to hostile questions sounding absurd The questions asked and the demands made in these verses from the Holy Prophet ﷺ were virtually conditions on the fulfillment of which his antagonists were supposed to believe.
+If you accept what I have brought to you, then this is your good fortune in this world and the Hereafter, but if you reject it, I shall wait patiently for the command of Allah until Allah judges between me and you.) or words to that effect.
 
 ## Tafsir Ibn Kathir
 

@@ -58,7 +58,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "Why does he not bring us a sign from his Lord?" Has there not come to them the proof of that which is in the former papers (Scriptures)(133)And if We had destroyed them with a torment before this, they would surely have said: "Our Lord! فَسَتَعْلَمُونَ مَنْ أَصْحَابُ الصِّرَ‌اطِ السَّوِيِّ وَمَنِ اهْتَدَىٰ (Then you will know who are people of the straight path and who has guidance - 20:135.) It means that though everybody is free to claim merit for his own ways and his own actions, these claims are of no value, because the correct way is that only which finds favour with Allah, and on the Day of Resurrection everybody will be…
+It verifies what is correct and explains the mistakes that were falsely placed in these Books and attributed to them.
 
 ## Tafsir Ibn Kathir
 

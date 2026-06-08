@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Beneficent, the Most Merciful. وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا (and made your sleep a source of rest,...78:9).
+Sleep is something that cuts off the worries and tensions one may have, and thus gives him such a rest that cannot be attained from anything else.
 
 ## Tafsir Ibn Kathir
 

@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you not seen those who take as friends a people upon whom is the wrath of Allah? Chastising the Hypocrites for their Secret Alliance with the Jews أَلَمْ تَرَ‌ إِلَى الَّذِينَ تَوَلَّوْا قَوْمًا غَضِبَ اللَّـهُ عَلَيْهِم (Have you not seen those who have friendship with a people with whom Allah is angry?
+And they think that they have something.) meaning, they will swear to Allah the Exalted and Most Honored that they were following the guidance and the correct path, just as they used to swear to the believers in this worldly life.
 
 ## Tafsir Ibn Kathir
 

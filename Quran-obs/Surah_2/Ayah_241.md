@@ -32,7 +32,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those of you who die and leave behind wives should bequeath for their wives a year's maintenance (and residence) without turning them out, but if they (wives) leave, there is no sin on you for that which they do of themselves, provided it is honorable (e.g., lawful marriage). Verse 241: The divorced women deserve a benefit Providing compensatory benefits (` mata متاع `) for divorced women has also been dealt with in verses earlier than this, but that was restricted to two types of divorced women who were divorced before privacy and consummation.
+This is a duty on Al-Muttaqin (the pious).) The scholars who ruled that the Mut'ah (reasonable gift) at the time of divorce is required for every divorced woman, whether she had a bridal-money appointed for her or not, and whether the marriage was consummated or not, relied on this Ayah (2:241) when they issued their ruling.
 
 ## Tafsir Ibn Kathir
 

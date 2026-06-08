@@ -106,7 +106,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the king (of Egypt) said: "Verily, I saw (in a dream) seven fat cows, whom seven lean ones were devouring, and seven green ears of corn, and (seven) others dry. After that, to the person about whom Sayyidna Yusuf (علیہ السلام) had gathered from the interpretation of his dream that he would be released, he said: When you are released from the prison, mention me before your master as the innocent person who is still languishing in the prison.
+Yusuf's Interpretation of the King's Dream This is when Yusuf, peace be upon him, told the interpretation of the dream, without criticizing the man for forgetting his request that he had made to him.
 
 ## Tafsir Ibn Kathir
 

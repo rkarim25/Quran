@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or were they created by nothing? { 1} This is an answer to one of the objections frequently raised by the disbelievers of Makkah against the prophethood of the Holy Prophet .
+Then let their listener produce some manifest proof (38)Or has He only daughters and you have sons (39)Or is it that you ask a wage from them so that they are burdened with a load of debt (40)Or that the Unseen is with them, and they write it down (41)Or do they intend a plot? Nay, but they have no firm belief (36)Or are with them the treasures of your Lord?
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nay, We gave the luxuries of this life to these men and their fathers until the period grew long for them. خُلِقَ الْإِنسَانُ مِنْ عَجَلٍ (Man is made of haste.
+"But the deaf will not hear the call, (even) when they are warned (45)And if a breath of the torment of your Lord touches them, they will surely cry: "Woe unto us!
 
 ## Tafsir Ibn Kathir
 

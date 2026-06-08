@@ -181,7 +181,7 @@ The present verse relates to one such event, which can be termed as the backgrou
 
 ## Tafsir Summary
 
-Men are the protectors and maintainers of women, because Allah has made one of them to excel the other, and because they spend (to support them) from their means. Under injunctions concerning women, appearing earlier, discrimination against them by withholding or wasting their rights was prohibited.
+This is why prophethood was exclusive of men, as well as other important positions of leadership.
 
 ## Tafsir Ibn Kathir
 

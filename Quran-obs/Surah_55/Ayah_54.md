@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Reclining upon the couches lined with Istabraq, and the fruits of the two Gardens will be near at hand (54)Then which of the blessings of your Lord will you both deny (55)Wherein both will be Qaşirāt Aṭ-Ṭarf, whom never… فِيهِمَا مِن كُلِّ فَاكِهَةٍ زَوْجَانِ (In both there are two kinds of every fruit...52).
+Reclining upon the couches lined with Istabraq, and the fruits of the two Gardens will be near at hand (54)Then which of the blessings of your Lord will you both deny (55)Wherein both will be Qaşirāt Aṭ-Ṭarf, whom never deflowered a human before nor Jinn (56)Then which of the blessings of your Lord will you both deny (57)They are like Yaqut and Marjan (58)Then which of the blessings of your Lord will you both deny (59)Is there any reward for good other than good (60)Then whic…
 
 ## Tafsir Ibn Kathir
 

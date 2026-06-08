@@ -141,7 +141,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And has the news of the litigants reached you? A man of stature should observe patience to the best of his ability over errors made by those in need This tells us that a person whom Allah has blessed with some high rank - and the needs of people are tied to him should do his best to remain patient over their irregular behavior and errors of expression, for this is the demand of his rank or office.
+From here we learn that, should a person ask for something from someone in a manner that the addressee, whether willing or unwilling, is left with no way out other than giving it, then, (soliciting aside) even demanding a gift in that manner is also included under ghasb or usurpation.
 
 ## Tafsir Ibn Kathir
 

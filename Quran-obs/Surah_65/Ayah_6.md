@@ -142,7 +142,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Lodge them where you dwell, according to what you have, and do not harm them so as to suppress them. The next verses deal with further rules about the waiting period and maintenance of the divorced women and their other rights.
+If she is pregnant, then she is to be spent on her until she lays down her burden.
 
 ## Tafsir Ibn Kathir
 

@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They say: "We have believed in Allah and in the Messenger, and we obey," then a party of them turn away thereafter, such are not believers (47)And when they are called to Allah and His Messenger, to judge between them, lo! From the sky mountains (of clouds) having hail in them - 43.
+Nay, it is they themselves who are the wrongdoers (50)The only saying of the faithful believers, when they are called to Allah and His Messenger, to judge between them, is that they say: "We hear and we obey." And such are the successful (51)And whosoever obeys Allah and His Messenger, fears Allah, and has Taqwa of Him, such are the successful .
 
 ## Tafsir Ibn Kathir
 

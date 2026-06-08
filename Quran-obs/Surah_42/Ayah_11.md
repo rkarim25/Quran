@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or have they taken protecting friends besides Him? وَمَا اخْتَلَفْتُمْ فِيهِ مِن شَيْءٍ فَحُكْمُهُ إِلَى اللَّـهِ (Whatever dispute you have in any matter, its judgment lies with Allah.
+There is nothing like Him, and He is the All-Hearer, the All-Seer (11)To Him belong the keys of the heavens and the earth.
 
 ## Tafsir Ibn Kathir
 

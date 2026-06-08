@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Prophet! Out of the objectives of this Surah, the most important is the stress placed on avoiding everything that may cause pain to the Holy Prophet ﷺ .
+The 'Verse of Choice' is the title of the verse 29 cited above where the blessed wives of the Holy Prophet ﷺ are given a choice either to seek divorce from him or to remain with him, seeking the pleasure of Allah and His Messenger. They chose Allah and His Messenger ﷺ and the Home of the Hereafter, may Allah be pleased with them.
 
 ## Tafsir Ibn Kathir
 

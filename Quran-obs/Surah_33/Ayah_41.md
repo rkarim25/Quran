@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Mentioned in the preceding verse was the incident of Sayyidna Zaid ؓ and Sayyidah Zainab ؓ and in relation to it the Holy Prophet's ﷺ being the last of the prophets has been stated in the context of directions for the respect and reverence of the Holy Prophet ﷺ and saving oneself from causing any pain to him.
+The instruction of remembering Allah in abundance is given in the above verse to show gratitude for those blessings.
 
 ## Tafsir Ibn Kathir
 

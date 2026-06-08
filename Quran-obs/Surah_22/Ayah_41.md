@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who, if We give them power in the land, establish the Salah, enforce the Zakah, and they enjoin the good and forbid the evil. Qur’ anic prophecy about the Rightly Guided Caliphs ( خُلفأے راشدین ) and its fulfillment الَّذِينَ إِن مَّكَّنَّاهُمْ فِي الْأَرْ‌ضِ (Those who, when We give them power in the land - 22:41) In this verse the word (those) refers to those people who have been mentioned in the preceding verse: الَّذِينَ أُخْرِ‌جُوا مِن دِيَارِ‌هِم بِغَيْرِ‌ حَقٍّ (Those are the ones who were expelled from their homes without any just reason - 22:40).
+Those who, if We give them power in the land, establish the Salah, enforce the Zakah, and they enjoin the good and forbid the evil. Referring to such people the verse says that if they are placed in authority in this world, they will use it to promote good deeds, will set up prayers, pay the obligatory charity, enjoin people to do good and abstain from evil deeds.
 
 ## Tafsir Ibn Kathir
 

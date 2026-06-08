@@ -40,7 +40,7 @@ Wahb bin Munabbih said: "Allah revealed to one of the Prophets of the Children o
 
 ## Tafsir Summary
 
-O Prophet! Special Attributes of the Holy Prophet ﷺ O prophet, We have sent you as a witness and a bearer of good news and a warner and as one who calls (people) towards Allah with His permission, and as a luminous lamp.
+I will make them the heirs of their Prophet, calling people to their Lord, enjoining what is good, forbidding what is evil, establishing regular prayer, paying the Zakah and fulfilling their promises.
 
 ## Tafsir Ibn Kathir
 

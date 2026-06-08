@@ -143,7 +143,7 @@ Ka'b ibn Malik says, ` some of my relatives and friends suggested to me too that
 
 ## Tafsir Summary
 
-And (Allah has forgiven) the three who stayed behind, until for them the earth, vast as it is, was straitened and their souls were straitened to them, and they perceived that there is no fleeing from Allah, and no refuge but with Him. Verse 118 begins with the words: وَعَلَى الثَّلَاثَةِ الَّذِينَ خُلِّفُوا (And [ He relented ] towards the three whose matter was deferred).
+Regarding the truth told and confession made by these three gentlemen, it is enough to say that the fact of their Taubah was revealed in this verse.
 
 ## Tafsir Ibn Kathir
 

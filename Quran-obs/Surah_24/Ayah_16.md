@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And why did you not, when you heard it, say: "It is not right for us to speak of this. And why, when you heard of it, did you not say, It is not for us to speak about this.
+This is enough to call it a slander if a believer Muslim is blamed for a crime without proof.
 
 ## Tafsir Ibn Kathir
 

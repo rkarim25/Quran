@@ -69,7 +69,7 @@ Ibn Abi Hatim recorded a simpler narration than this one from Ubay bin Ka'b who 
 
 ## Tafsir Summary
 
-Those in menopause among your women, for them the 'Iddah, if you have doubt, is three months; and for those who have no courses. Then the verse emphasises strict adherence to the above laws pertaining to divorce and waiting-period, thus: ذَٰلِكَ أَمْرُ‌ اللَّـهِ أَنزَلَهُ إِلَيْكُمْ (This is the command of Allah that He has sent down to you...5) After this, the verse again draws attention to another virtue of taqwa.
+This is the narration that Muslim collected.
 
 ## Tafsir Ibn Kathir
 

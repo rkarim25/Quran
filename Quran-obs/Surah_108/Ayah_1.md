@@ -24,7 +24,7 @@ Ibn 'Abbas and 'Ikrimah have both said, "This Surah was revealed about Ka'b bin 
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. It is reported by Ibn Abi Hatim (رح) ، on the authority of Suddi, and by Baihaqi, in Dala'il-un- Nubuwwah, on the authority of Muhammad Ibn Ali Ibn Husain ؓ ، that the Arabs used to taunt and revile people who have lost their male issues.
+If the revelation of Surah Al-Kauthar is in response to the taunting of the heathens who called him 'abtar' because he had lost his sons, as explained earlier, this Surah comforts him.
 
 ## Tafsir Ibn Kathir
 

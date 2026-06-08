@@ -171,7 +171,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when Musa returned to his people, angry and grieved, he said: "What an evil thing is that which you have done during my absence. while the verse 150 describes the events followed by the arrival of the Prophet Musa (علیہ السلام) from the mount of Sinai.
+Allah states that when Musa returned to his people after conversation with his Lord, he became angry and full of regret.
 
 ## Tafsir Ibn Kathir
 

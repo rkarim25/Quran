@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Many similar ways (and mishaps of life) were faced [by nations (believers and disbelievers) that have passed away] before you, so travel through the earth, and see what was the end of those who denied (137)This is a plain statement for mankind, a guidance and instruction for the Muttaqin (138)So do not become weak, nor be sad, and you will be triumphant if you are indeed believers (139)If a wound has touched you, be sure a similar wound has touched the others. The second verse that follows gives consolation to Muslims from another angle.
+Do you think that you will enter Paradise before Allah knows (tests) those of you who will perform Jihad and (also) knows (tests) those who are the patient?) The Ayah asks, do you think that you will enter Paradise without being tested with warfare and hardships?
 
 ## Tafsir Ibn Kathir
 

@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "By Allah! In verse 74, it was said: قَالُوا فَمَا جَزَاؤُهُ إِن كُنتُمْ كَاذِبِي ، that is, the royal staff said to them: If it stood proved that they were liars, what do they suggest should be the punishment for the thef?
+He could not take his brother by the law of the king (as a slave), except that Allah willed it.
 
 ## Tafsir Ibn Kathir
 

@@ -166,7 +166,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Prophet! ا أَيُّهَا النَّبِيُّ إِذَا جَاءَكَ الْمُؤْمِنَاتُ يُبَايِعْنَكَ عَلَىٰ أَن لَّا يُشْرِ‌كْنَ بِاللَّـهِ شَيْئًا (0 Prophet, when the believing women come to you, seeking bai'ah [ a pledge of allegiance ] with you that they will not ascribe anything as a partner to Allah, ....60:12).
+When the believing women come to you pledging to you that they will not associate anything with Allah, and that they will not steal, and that they will not commit Zina, and that they will not kill their children, and that they will not utter slander, fabricating from between their hands and their feet, and that they will not disobey you in Ma'ruf (good), then accept their pledge, and ask Allah to forgive them.
 
 ## Tafsir Ibn Kathir
 

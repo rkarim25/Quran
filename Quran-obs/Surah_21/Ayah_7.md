@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We sent not before you but men to whom We revealed. فَاسْأَلُوا أَهْلَ الذِّكْرِ‌ إِن كُنتُمْ لَا تَعْلَمُونَ (So, ask the people (having the knowledge) of the message, if you do not know.
+This is a part of the perfect blessing of Allah towards His creation: He sent to them Messengers from among themselves so that they could receive the Message from them and learn from them. Therefore, what it actually means is that if you are not aware whether the prophets of the past were angels or ordinary men then you should find out from the scholars of Injil and Torah as they know perfectly well that all prophets were human beings.
 
 ## Tafsir Ibn Kathir
 

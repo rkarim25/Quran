@@ -22,7 +22,7 @@ The word شَاعِر (Sha` ir) is used in this verse in its technical and commo
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. As for the poets, they are followed by the straying people.
+If its subject matter is good and useful, it is good, and if its subject is bad or sinful, it is bad.
 
 ## Tafsir Ibn Kathir
 

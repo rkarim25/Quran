@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And sit not on every road, threatening, and hindering from the path of Allah those who believe in Him, and seeking to make it crooked. In the last verse (87), an answer has been given to scruples of these people about the division in their ranks after some of them believed in the call of Sayyidna Shu'aib (علیہ السلام) while others kept rejecting him.
+If being a disbeliever or denier would have been a crime, the criminal would have been punished. See the torment and punishment they suffered, because they disobeyed Allah and rejected His Messengers.
 
 ## Tafsir Ibn Kathir
 

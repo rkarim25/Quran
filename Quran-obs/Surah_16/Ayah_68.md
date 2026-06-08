@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And your Lord inspired the bee, saying: "Take you habitations in the mountains and in the trees and in what they (humans) erect. Some ` Ulama have also taken it to mean vinegar, or non-intoxicating wine (nabidh) [ Jassas Qurlubi ] but it is not necessary to report details about this element of difference.
+Allah Ta’ ala did not simply order the bees to make homes, He also told them as to where they should be located, that is, it should be at some altitude because such places help provide fresh, clean and almost-filtered air flow for the production of honey. The first hint is towards the fact: Since bees have to prepare honey, therefore, they should first make a safe home.
 
 ## Tafsir Ibn Kathir
 

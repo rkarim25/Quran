@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-For those who have done good is the best, and even more. The sense is that the invitation to the Abode of Peace (Daru 's-Salam) is universal, open to all human beings and, in terms of this sense, guidance too is open to all.
+But, there is a kind of guidance that is special.
 
 ## Tafsir Ibn Kathir
 

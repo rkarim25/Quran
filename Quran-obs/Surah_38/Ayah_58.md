@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This is so! In verse 52, it was said: وَعِندَهُمْ قَاصِرَ‌اتُ الطَّرْ‌فِ أَتْرَ‌ابٌ (and in their company there will be females restricting their glances ] to their husbands, and[ of matching ages.).
+If being of the same age is taken to mean that spouses will be of the same age, the good thing about it would be that there would be temperamental harmony between them, and they will have consideration for each other's preferences.
 
 ## Tafsir Ibn Kathir
 

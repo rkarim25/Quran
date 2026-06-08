@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-There is no Doubt in the Qur'an The Book, is the Qur'an, and Rayb means doubt. The sentence "That Book has no doubt in it" raises a grammatical and exegetical problem, for the first phrase in the Arabic text reads as ذَٰلِكَ الْكِتَابُ :Dhcilikal kitab.
+That is Book in which there is no Rayb, guidance for the Muttaqin .
 
 ## Tafsir Ibn Kathir
 

@@ -51,7 +51,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Fir'awn proclaimed among his people (saying): "O my people! وَلَا يَكَادُ يُبِينُ (and can hardly express himself - 43:52).
+But this is an obvious lie, may continued curses be upon him until the Day of Resurrection.
 
 ## Tafsir Ibn Kathir
 

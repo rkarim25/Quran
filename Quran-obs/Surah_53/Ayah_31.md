@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Allah belongs all that is in the heavens and all that is on the earth, that He may requite those who do evil with that which they have done, and reward those who do good, with what is best (31)Those who avoid great sins and Al-Fawahish (immoral sins) except Al-Lamam – verily, your Lord is of vast forgiveness. Necessity of turning away from the Misguided People The Qur'an here describes the condition of those unbelievers who denied the Hereafter and the Day of Judgment.
+And to Allah belongs all that is in the heavens and all that is on the earth, that He may requite those who do evil with that which they have done, and reward those who do good, with what is best (31)Those who avoid great sins and Al-Fawahish (immoral sins) except Al-Lamam – verily, your Lord is of vast forgiveness.
 
 ## Tafsir Ibn Kathir
 

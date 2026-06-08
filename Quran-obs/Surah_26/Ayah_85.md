@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-My Lord! The word لِسَانَ (lisan, which literally means tongue) is used in this verse in the sense of description and 'for me' means 'for my benefit.
+One, when the object is not to proclaim oneself as superior to others and to degrade them to an insignificant position, but for the benefit in the Hereafter, so that others may be influenced to follow his example and try to emulate him.
 
 ## Tafsir Ibn Kathir
 

@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And mention in the Book, Maryam, when she withdrew in seclusion from her family to place facing east (16)She placed a screen before them; then We sent to her Our Ruh, and he appeared before her in the form of a man in all respects (17)She said: "Verily, I seek refuge with the Most Gracious (Allah) from you, if you do fear Allah. إِنِّي أَعُوذُ بِالرَّ‌حْمَـٰنِ مِنكَ seek refuge of the Rahman (All-Merciful), against you." (19:18) Some reports have it that when Sayyidna Jibra'il (علیہ السلام) heard these words he retreated a little in reverence of Allah's name.
+Some other commentators have said that this expression is used for emphasis, meaning that even if you fear Allah I seek His protection; and if the position is otherwise then I shall seek Allah's refuge with added vehemence. This is what is legislated in defense against (evil), so that it may be repulsed with ease.
 
 ## Tafsir Ibn Kathir
 

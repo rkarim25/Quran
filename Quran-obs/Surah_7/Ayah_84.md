@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then We saved him and his family, except his wife; she was of the Ghabirin (those who lagged behind)(83)And We rained down on them a rain (of stones). In the fifth verse (84), the punishment which came on these people has been described in a few words - that an unusual rain was sent upon them.
+In the fifth verse (84), the punishment which came on these people has been described in a few words - that an unusual rain was sent upon them. Then We saved him and his family, except his wife; she was of the Ghabirin (those who lagged behind)(83)And We rained down on them a rain (of stones).
 
 ## Tafsir Ibn Kathir
 

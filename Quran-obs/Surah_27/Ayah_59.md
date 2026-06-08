@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say : "Praise and thanks be to Allah, and peace be on His servants whom He has chosen! This incident has been related at many places in the Qur'an, especially in Surah Al-A` raf, where its necessary details have been discussed and may be consulted if required.
+This was the view of 'Abdur-Rahman bin Zayd bin Aslam and others; the meaning of the servants He has chose is the Prophets.
 
 ## Tafsir Ibn Kathir
 

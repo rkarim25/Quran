@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when the anger of Musa calmed, he took up the Tablets; and in their inscription was guidance and mercy for those who fear their Lord (154) Musa picked up the Tablets when His Anger subsided The verse 154 describes that the Prophet Musa (علیہ السلام) lifted up the tablets of the Torah which contained guidance and blessing for those who feared Allah.
+And when the anger of Musa calmed, he took up the Tablets; and in their inscription was guidance and mercy for those who fear their Lord .
 
 ## Tafsir Ibn Kathir
 

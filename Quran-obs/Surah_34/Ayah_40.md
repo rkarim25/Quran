@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) the Day when He will gather them all together, then He will say to the angels: "Was it you that these people used to worship? This verse has appeared a little earlier (36) almost in the same words.
+He will ask the angels whom the idolators used to worship, claiming that their idols were in the form of these angels and that they could bring them nearer to Allah. Nay, but they used to worship the Jinn; most of them were believers in them.
 
 ## Tafsir Ibn Kathir
 

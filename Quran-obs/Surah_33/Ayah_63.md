@@ -72,7 +72,7 @@ Here Allah tells His Messenger ﷺ that he cannot know when the Hour will come, 
 
 ## Tafsir Summary
 
-People ask you concerning the Hour, say: "The knowledge of it is with Allah only. Those hostile to Allah and the Messenger were warned of and alerted to curse and punishment in the present world and in the Hereafter while many factions among the disbelievers, in their own place, simply denied the eventuality of any Qiyamah (Doomsday) or 'Akhirah (Hereafter) and, because of their denial, used to mockingly ask: When would that Qiyamah come?
+It has been said so because nobody knows the exact date of the Doomsday, and therefore everyone should be prepared for it as if it were very close.
 
 ## Tafsir Ibn Kathir
 

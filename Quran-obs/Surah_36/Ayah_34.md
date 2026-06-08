@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And a sign for them is the dead land. Most of the subjects taken up in Surah Ya Sin related to signs of Divine power and the rewards and favors bestowed on human beings.
+We give it life, and We bring forth from it grains, so that they eat thereof (33)And We have made therein gardens of date palms and grapes, and We have caused springs of water to gush forth therein (34)So that they may eat of the fruit thereof – and their hands made it not.
 
 ## Tafsir Ibn Kathir
 

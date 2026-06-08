@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the men on Al-A'raf will call unto the men whom they would recognize by their marks, saying: "Of what benefit to you was your gathering, and your arrogance? Said in the sixth verse (49) is: أَهَـٰؤُلَاءِ الَّذِينَ أَقْسَمْتُمْ لَا يَنَالُهُمُ اللَّـهُ بِرَ‌حْمَةٍ ۚ ادْخُلُوا الْجَنَّةَ لَا خَوْفٌ عَلَيْكُمْ وَلَا أَنتُمْ تَحْزَنُونَ ﴿49﴾ (Is it these for whom you swore that Allah would not reach them with mercy?" - "Enter the Paradise; there is no fear on you, nor shall you grieve).
+Then, there comes an immediate declaration of His mercy when the people of A` raf will be told: Go and enter the Paradise.
 
 ## Tafsir Ibn Kathir
 

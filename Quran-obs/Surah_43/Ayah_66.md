@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do they only wait for the Hour that it shall come upon them suddenly while they perceive not (66)Friends on that Day will be foes one to another except those who have Taqwa (67)My servants! وَلِأُبَيِّنَ لَكُم بَعْضَ الَّذِي تَخْتَلِفُونَ فِيهِ (and to explain to you some of those matters in which you differ...43:63) Since Bana Isra'il were drowned in arrogance and obstinacy, they had tampered with the Divine laws.
+Do they only wait for the Hour that it shall come upon them suddenly while they perceive not (66)Friends on that Day will be foes one to another except those who have Taqwa (67)My servants!
 
 ## Tafsir Ibn Kathir
 

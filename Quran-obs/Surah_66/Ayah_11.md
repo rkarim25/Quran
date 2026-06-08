@@ -106,7 +106,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Allah has set forth an example for those who believe: the wife of Fir'awn, when she said: "My Lord! ضَرَ‌بَ اللَّـهُ مَثَلًا لِّلَّذِينَ آمَنُوا امْرَ‌أَتَ فِرْ‌عَوْنَ إِذْ قَالَتْ رَ‌بِّ ابْنِ لِي عِندَكَ بَيْتًا فِي الْجَنَّةِ (And Allah has cited for the believers the example of the wife of Fir'aun (the Pharaoh), when she said, "My Lord, build for me, near You, a house in the Paradise...66:11) This is the example of the wife of Fir'aun (the Pharaoh) whose name was ` Asiyah bint Muzahim.
+The Disbelievers can cause no Harm to the Believers This is a parable that Allah made of the believers, in that, if they needed to, their association with the disbelievers will not harm them.
 
 ## Tafsir Ibn Kathir
 

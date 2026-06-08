@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then [Musa] threw his staff and behold! The prophet Musa (علیہ السلام) in response to his demand, threw down his staff on the earth, instantly it turned into a serpent: فَإِذَا هِيَ ثُعْبَانٌ مُّبِينٌ.
+Then [Musa] threw his staff and behold!
 
 ## Tafsir Ibn Kathir
 

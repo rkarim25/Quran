@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who believe say: "Why is not a Surah sent down (for us)?" But now that a decisive Surah is sent down mentioning fighting, you can see those in whose hearts is disease (of hypocrisy) looking at you with the look of one who is about to faint for fear of death. سُورَ‌ةٌ مُّحْكَمَةٌ (an operative surah): The word مُّحْكَمَةٌ muhkamah lexically means "firm".
+And when the matter is resolved, then if they had been true to Allah, it would have been better for them (21)So would you perhaps, if you turned away, spread corruption on earth, and sever your ties of kinship (22)Such are the ones whom Allah has cursed, so that He has made them deaf and blinded their vision .
 
 ## Tafsir Ibn Kathir
 

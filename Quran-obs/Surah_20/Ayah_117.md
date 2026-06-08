@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We made a covenant with Adam before, but he forgot, and We found on his part no firm willpower (115)And (remember) when We said to the angels: "Prostrate yourselves to Adam." They prostrated themselves (all) except Iblis; he refused (116)Then We said: "O Adam! (فَلَا يُخْرِ‌جَنَّكُمَا مِنَ الْجَنَّةِ فَتَشْقَىٰ ).
+Here the word has obviously been used in the second meaning because it cannot be used in its first meaning even for pious Muslims, leave alone the prophets.
 
 ## Tafsir Ibn Kathir
 

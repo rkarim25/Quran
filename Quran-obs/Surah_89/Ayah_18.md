@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-As for man, when his Lord tries him by giving him honor and bounties, then he says: "My Lord has honored me. Spending on the Orphan is not Sufficient.
+The style of this verse, in condemning the evil trait of the unbelievers, indicates that it is an obligation of the affluent to spend on the poor and indigent from their own wealth. But you treat not the orphans with kindness and generosity (17)And urge not one another on the feeding of the Miskin (18)And you devour the Turath – devouring with greed (19)And you love wealth with love Jamma .
 
 ## Tafsir Ibn Kathir
 

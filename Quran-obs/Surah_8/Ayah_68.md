@@ -53,7 +53,7 @@ What is this writ and what does it mean? According to a narration from Sayyidna 
 
 ## Tafsir Summary
 
-It is not (fitting) for a Prophet that he should have prisoners of war until he has fought (his enemies thoroughly) in the land. The second verse (68) is also a supplement to this admonition where it has been said that had it not been for a Divine writ already established, the course of action which you opted for - that of releasing the prisoners against ransom - would have brought upon you some grave punishment.
+Certainly, Allah is Oft-Forgiving, Most Merciful .
 
 ## Tafsir Ibn Kathir
 

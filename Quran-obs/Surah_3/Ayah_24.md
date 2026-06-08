@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you not seen those who have been given a portion of the Scripture? While dealing with the subject of Jews, as in verses 21-22, the text goes on to censure a particular claim of theirs in the present verse.
+But they elect to be in-different because they say and believe that the fire of Hell will not touch them except for a few days, after which, according to their supposition, they would be forgiven. They are being invited to the Book of Allah to settle their dispute, then a party of them turned away, and they are averse (23)This is because they say: "The Fire shall not touch us but for a number of days." And that which they used to invent in their religion has deceived them (24…
 
 ## Tafsir Ibn Kathir
 

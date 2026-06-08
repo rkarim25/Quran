@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when Musa said to his household: "Verily, I have seen a fire; I will bring you from there some information, or I will bring you a burning ember, that you may warm yourselves. So when he came to it, he was called: "Blessed is the one who is in the fire and the one who is around it And pure is Allah, the Lord of the worlds.
+Then He commanded him to throw down the stick that was in his hand, so that He might show him clear proof that He is the One Who is able to do all things, whatever He wills.
 
 ## Tafsir Ibn Kathir
 

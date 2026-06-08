@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They want to extinguish Allah's Light with their mouths, but Allah will not allow except that His Light should be perfected even though the disbelievers hate (it)(32)It is He Who has sent His Messenger with guidance and… After that, the same subject has been further stressed in the third verse (33) by saying that Allah Ta` ala has sent His Messenger with guidance, that is, the Qur'an, and with the Faith of Truth, that is, Islam, in order to have it prevail over all other faiths.
+Then, in future too, in terms of its legitimacy and truth for all times to come, the religion of Islam is a perfect religion no sensible person would elect to criticize.
 
 ## Tafsir Ibn Kathir
 

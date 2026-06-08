@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He (the father) said: "Do you revile my gods, O Ibrahim? سَلَامٌ عَلَيْكَ (Peace on you) Here the word (Peace) may carry two meanings.
+this issue. Qurtubi has treated this subject in great detail while explaining this verse in his book Ahkam ul-Qur’ an.
 
 ## Tafsir Ibn Kathir
 

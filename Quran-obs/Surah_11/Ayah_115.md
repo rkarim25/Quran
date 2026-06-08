@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And perform the Salah, at the two ends of the day and in some hours of the night. In verse 115, it was said: وَاصْبِرْ‌ فَإِنَّ اللَّـهَ لَا يُضِيعُ أَجْرَ‌ الْمُحْسِنِينَ (And be patient, for Allah lets not the reward of the good-doers be lost).
+That is a reminder for the mindful (114)And be patient; verily, Allah wastes not the reward of the doers of good . As for what was said after that - ` Allah lets not the reward of the good-doers be lost' - it obviously suggests that 'almuhsinin' (good-doers) are people who faithfully observe the injunctions of do's and don'ts as given in the cited verses.
 
 ## Tafsir Ibn Kathir
 

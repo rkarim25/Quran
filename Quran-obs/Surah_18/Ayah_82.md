@@ -154,7 +154,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And as for the wall, it belonged to two orphan boys in the town; and there was under it a treasure belonging to them; and their father was a righteous man, and your Lord intended that they should attain their age of full strength and take out their treasure as a mercy from your Lord. About the statement: وَكَانَ تَحْتَهُ كَنزٌ لَّهُمَا (and there was beneath it a treasure for them - 82), Sayyidna Abu al-Dard' ؓ has reported from the Holy Prophet ﷺ that it was a treasure chest of gold and silver.
+11) According to Tafsir Mazhari, this verse also indicates that people too should show consideration and affection for the children of the learned and the pious - unless, of course, they were to succumb to disbelief and sin. Therefore, because of this common factor, the form used was that of the first person, plural.
 
 ## Tafsir Ibn Kathir
 

@@ -85,7 +85,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, He Who has given you the Qur'an, will surely bring you back to the return. كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ (Everything is going to perish except His Face - 28:88).
+Hence, the meaning of the verse is that except for Allah Ta’ ala everything is mortal and will get destroyed and will vanish.
 
 ## Tafsir Ibn Kathir
 

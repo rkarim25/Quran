@@ -112,7 +112,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those of you who die and leave wives behind them, they (the wives) shall wait (as regards their marriage) for four months and ten days, then when they have fulfilled their term, there is no sin on you if they (the wives) dispose of themselves in a (just and) honorable manner (i.e., they can marry). Some injunctions relating to 'Iddah 1.
+And those of you who die and leave wives behind them, they (the wives) shall wait (as regards their marriage) for four months and ten days, then when they have fulfilled their term, there is no sin on you if they (the wives) dispose of themselves in a (just and) honorable manner (i.e., they can marry).
 
 ## Tafsir Ibn Kathir
 

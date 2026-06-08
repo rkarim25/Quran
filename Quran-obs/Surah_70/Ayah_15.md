@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Day that the sky will be like the Al-Muhl (8)And the mountains will be like 'Ihn (9)And no friend will ask a friend (10)Though they shall be made to see one another, the criminal would desire to ransom himself from the punishment of that Day by his children (11)And his wife and his brother (12)And his Fasilah who sheltered him (13)And all that are in the earth, so that it might save him (14)By no means! كَلَّا ۖ إِنَّهَا لَظَىٰ نَزَّاعَةً لِّلشَّوَىٰ (By no means!
+The pronoun of innaha (it) refers to 'Fire' and the word laza means 'the flaming fire'. The word shawa is the plural of shawah and it refers to 'the scalp or the skin of the human head, and also the skin of the hands and the legs'.
 
 ## Tafsir Ibn Kathir
 

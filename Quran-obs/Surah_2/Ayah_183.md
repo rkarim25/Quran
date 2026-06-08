@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Literally, Sawm صوم means to abstain'.
+Fasting is prescribed for you as it was prescribed for those before you, that you may acquire Taqwa (183)Fast for a fixed number of days, but if any of you is ill or on a journey, the same number (should be made up) from other days.
 
 ## Tafsir Ibn Kathir
 

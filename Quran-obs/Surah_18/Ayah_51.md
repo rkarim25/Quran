@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They did not witness the creation of the heavens and the earth nor their own creation, nor did I take those who mislead as 'Adudan (51) The gods of the Idolators did not witness the Creation of anything, not even Themsel… The progeny of Iblis, and his descendants and followers The word: ذُرِّ‌يَّتَهُ (dhurriyyatah) in verse 50 indicates that Iblis (Shaitan) has offspring, and a host of descendants and followers.
+The gods of the Idolators did not witness the Creation of anything, not even Themselves Allah says: 'These whom you take as helpers instead of Me are creatures just like you. They did not witness the creation of the heavens and the earth nor their own creation, nor did I take those who mislead as 'Adudan .
 
 ## Tafsir Ibn Kathir
 

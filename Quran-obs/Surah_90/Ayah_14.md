@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. (Yet he did not make his way through the steep course.
+It means that feeding him in a day when he is hungry will attract more reward.
 
 ## Tafsir Ibn Kathir
 

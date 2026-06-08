@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(He is Allah) Owner of high ranks and degrees, the Owner of the Throne. The word: بَارِ‌زُونَ (barizun) in verse 16: يَوْمَ هُم بَارِ‌زُونَ ۖ لَا يَخْفَىٰ عَلَى اللَّـهِ مِنْهُمْ (the day they will come in open view) refers to what would happen on the day of Resurrection when its land surface will be turned into a single level without any mountains, caves, trees or buildings that could obstruct the view.
+He sends the revelation by His command to any of His servants He wills, that he may warn of the Day of Mutual Meeting (15)The Day when they will come out, nothing of them will be hidden from Allah.
 
 ## Tafsir Ibn Kathir
 

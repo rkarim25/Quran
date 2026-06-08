@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Customarily, Allah Ta'ala keeps prophets free from physical defects causing aversion In this event, Allah Ta'ala has demonstrated such unusual concern to have Sayyidna Musa (علیہ السلام) absolved of the blame imputed to him by his people which took no less than a miracle whereby a rock ran away with Sayyidna Musa's clothes and he, compelled by circumstances beyond his control, came out undressed before the people.
+Have Taqwa of Allah and speak (always) the truth (70)He will direct you to do righteous good deeds and will forgive you your sins.
 
 ## Tafsir Ibn Kathir
 

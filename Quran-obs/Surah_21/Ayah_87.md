@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) Dhun-Nun, when he went off in anger, and imagined that We shall not punish him! وَذَا النُّونِ (21:87) The story of Sayyidna Yunus Ibn Matta (علیہ السلام) appears in the Holy Qur'an in Surah Yanus, Surah Al-Anbiya', Surah As-Saffat and Surah Nun.
+Similarly, his dissociation from his people was nothing new and was in line with the practice of other prophets in similar situations and must, therefore, also have been done by the command and approval from Allah Ta` ala. So, upto this point there seems nothing to be wrong in his conduct which would deserve Allah Ta’ ala's displeasure.
 
 ## Tafsir Ibn Kathir
 

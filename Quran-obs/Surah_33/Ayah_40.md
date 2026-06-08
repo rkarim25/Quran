@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who convey the Message of Allah and fear Him, and fear none save Allah. The verse quoted above refutes the contention of those people who, in accordance with the custom of the days of ignorance, used to call Sayyidna Zayd Ibn Harithah رضی اللہ تعالیٰ عنہ as son of the Messenger of Allah and used to taunt at the nikah (marriage) of the Holy Prophet ﷺ with Sayyidah Zainab ؓ ، after she had been divorced by Sayyidna Zayd Ibn Harithah ؓ that the Holy Prophet ﷺ had married his son's wife.
+If there will be no Prophet after him then there will surely be no Messenger after him either, because the status of a Messenger is higher than that of a Prophet, for every Messenger is a Prophet but the reverse is not the case.
 
 ## Tafsir Ibn Kathir
 

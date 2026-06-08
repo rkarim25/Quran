@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-'Ad denied the Messengers (123)When their brother Hud said to them: "Will you not have Taqwa? Nobility of a person depends on deeds and moral qualities and not on family or status They said, "Shall we believe in you while you are followed by the lowest people?" [ 111] He said, "I do not know about what they do.
+Hud's Preaching to His People 'Ad Here Allah tells us about His servant and Messenger Hud, when he called his people 'Ad. So Allah sent Hud, one of their own, as a Messenger bringing them good news and delivering warnings.
 
 ## Tafsir Ibn Kathir
 

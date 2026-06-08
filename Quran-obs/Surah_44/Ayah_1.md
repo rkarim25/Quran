@@ -10,7 +10,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In Musnad Al-Bazzar, it is recorded from Abu At-Tufayl 'Amir bin Wathilah from Zayd bin Harithah that the Messenger of Allah ﷺ said to Ibn Sayyad: (I am concealing something, what is it?) And the Messenger of Allah ﷺ was concealing Surat Ad-Dukhan from him. وَقُلْ سَلَامٌ (and say, Salam [ good-bye ].
+The Lord of the heavens and the earth and all that is between them, if you (but) have a faith with certainty.)(8. The Lord of the heavens and the earth and all that is between them,) means, the One Who sent down the Qur'an is the Lord, Creator and Sovereign of the heavens and the earth and everything in between them.
 
 ## Tafsir Ibn Kathir
 

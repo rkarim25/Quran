@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who say: "Our Lord is Allah," and then they stand firm, on them the angels will descend (saying): "Fear not, nor grieve! Those who rejected the Qur'an, the prophethood and the Oneness of Allah have been addressed from the beginning of the Surah.
+It is stated in Tafsir Kashshaf that a person's declaration that his Lord is Allah can only be true when he believes from the bottom of his heart that he is being brought up by Allah Almighty in all situations and at every step, that he cannot take even one breath without His mercy, and all this demands that one should be so devoted and steadfast in his ways of worship that neither his heart nor his body should deviate even to a hair's breadth from submission to Him like a sl…
 
 ## Tafsir Ibn Kathir
 

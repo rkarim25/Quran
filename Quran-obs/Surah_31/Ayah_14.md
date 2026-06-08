@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when Luqman said to his son when he was advising him: "O my son! And We commanded man (to be good) about his parents.
+His mother bore him in weakness and hardship upon weakness and hardship, and his weaning is in two years – give thanks to Me and to your parents.
 
 ## Tafsir Ibn Kathir
 

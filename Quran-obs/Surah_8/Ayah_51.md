@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if you could see when the angels take away the souls of those who disbelieve (at death); they smite their faces and their backs, (saying): "Taste the punishment of the blazing Fire. Addressing the disbelievers in the second verse (51), it was said that the punishment of this world and that of the Hereafter was nothing but what they had earned with their own hands.
+Addressing the disbelievers in the second verse (51), it was said that the punishment of this world and that of the Hereafter was nothing but what they had earned with their own hands. Since things done usually take their shape through the work of hands, therefore, mention was made of hands.
 
 ## Tafsir Ibn Kathir
 

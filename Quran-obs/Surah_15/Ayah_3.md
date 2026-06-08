@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. From: ذَرْ‌هُمْ يَأْكُلُوا (Let them eat ...3) we can see that the making of eating and drinking the real occupation and aim of life, and keeping glued to long-drawn material plans while surrounded by countless things of worldly comfort, and becoming totally heedless to death, is something which can be done only by the disbelievers.
+Leave them to eat and enjoy, and let them be preoccupied with (false) hope. How much would those who disbelieved wish that they had been Muslims.)(3.
 
 ## Tafsir Ibn Kathir
 

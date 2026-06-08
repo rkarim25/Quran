@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-At that time Zakariyya invoked his Lord, saying: "O my Lord! We have already seen that Sayyidna Zakariyya (علیہ السلام) believed in the absolute power of Allah and had seen its manifestation repeatedly and that he had himself made the prayer and knew of its acceptance as well, what then, did he mean by asking: 'how shall I have a boy?' The truth of the matter is that the question asked by him was not be-cause of any doubt in the absolute power of Allah.
+How can I have a son when I am very old, and my wife is barren?" (Allah) said: "Thus Allah does what He wills.
 
 ## Tafsir Ibn Kathir
 

@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We sent Musa with Our Ayat and a manifest authority (96)To Fir'awn and his chiefs, but they followed the command of Fir'awn, and the command of Fir'awn was no right guide (97)He will go ahead of his people on… After having given this good counsel to them, he warned them of the punishment of Allah Ta` ala.
+And indeed We sent Musa with Our Ayat and a manifest authority (96)To Fir'awn and his chiefs, but they followed the command of Fir'awn, and the command of Fir'awn was no right guide (97)He will go ahead of his people on the Day of Resurrection, and will lead them into the Fire, and evil indeed is the place to which they are led (98)They were pursued by a curse in this (deceiving life of this world) and (so they will be pursued by a curse) on the Day of Resurrection, evil inde…
 
 ## Tafsir Ibn Kathir
 

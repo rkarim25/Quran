@@ -126,7 +126,7 @@ This honorable Ayah was revealed with the order to fight the People of the Book,
 
 ## Tafsir Summary
 
-O you who believe! A proclamation of withdrawal was made against Mushriks and disbelievers at the beginning of Surah At-Taubah.
+Secondly, if this is particular to the Sacred Mosque, then, is the entry of a Mushrik in the Sacred Mosque banned in an absolute sense?
 
 ## Tafsir Ibn Kathir
 

@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And O my people! After having given this good counsel to them, he warned them of the punishment of Allah Ta` ala.
+There is a consensus of the entire Muslim Ummah that doing so is strictly Haram (unlawful).
 
 ## Tafsir Ibn Kathir
 

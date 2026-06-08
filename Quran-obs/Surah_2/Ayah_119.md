@@ -49,7 +49,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, We have sent you (O Muhammad ﷺ) with the truth (Islam), a bringer of glad tidings (for those who believe in what you brought, that they will enter Paradise) and a warner (for those who disbelieve in what you brought, that they will enter the Hellfire). The implication of Verse 118 was that those who persisted in their denial of the Holy Prophet ﷺ did so out of sheer malice and ignorance, and could not be expected to reform themselves.
+Verily, We have sent you (O Muhammad ﷺ) with the truth (Islam), a bringer of glad tidings (for those who believe in what you brought, that they will enter Paradise) and a warner (for those who disbelieve in what you brought, that they will enter the Hellfire). We have sent you as a witness, a bringer of good news, a warner, and as safe refuge for the unlettered people.
 
 ## Tafsir Ibn Kathir
 

@@ -72,7 +72,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Such is 'Isa, son of Maryam. "This is ` Isa, the son of Maryam." - 19:34.
+Glorified be He.) Means glory be unto Him, He is far exalted above that which these ignorant, wrongdoing, transgressing people say about Him.
 
 ## Tafsir Ibn Kathir
 

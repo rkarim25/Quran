@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say (O Muhammad ﷺ to mankind): "If you (really) love Allah, then follow me (i.e. In previous verses, there was affirmation of Allah's Oneness and the condemnation of disbelief in it.
+And Allah is Oft-Forgiving, Most Merciful.
 
 ## Tafsir Ibn Kathir
 

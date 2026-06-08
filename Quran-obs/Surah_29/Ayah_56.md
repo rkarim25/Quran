@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O My servants who believe! From the very beginning of this Surah until now the enmity of the infidels toward Muslims, their rejection of the Oneness of God and prophethood of the Holy Prophet ﷺ ، and putting hurdles in the way of truth and believers were described.
+Advice to migrate and the Promise of Provision and a Goodly Reward Allah commands His believing servants to migrate from a land in which they are not able to establish Islam, to the spacious earth of Allah where they can do so, by declaring Allah to be One and worshipping Him as He has commanded.
 
 ## Tafsir Ibn Kathir
 

@@ -124,7 +124,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! In the fourth verse (34), the address is to Muslims but the subject taken up concerns the conduct of rabbis and monks among the Jews and Christians, a conduct which led common people astray.
+Verily, there are many of the Ahbar (rabbis) and the Ruhban (monks) who devour the wealth of mankind in falsehood, and hinder (them) from the way of Allah. The verse states that many rabbis and monks among the Jews and Christians eat up the wealth of the people by false means and prevent (them) from the way of Allah.
 
 ## Tafsir Ibn Kathir
 

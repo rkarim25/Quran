@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "If the Most Gracious had a son, then I am the first of the worshippers. I would have been the first to worship - 43:81) It does not mean that, God forbid, there is any possibility of Rahman (Allah) having offspring.
+This is the view of Ibn Mas'ud, may Allah be pleased with him, Mujahid and Qatadah, and this is how Ibn Jarir interpreted it.
 
 ## Tafsir Ibn Kathir
 

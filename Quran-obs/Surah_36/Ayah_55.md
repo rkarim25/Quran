@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, the dwellers of the Paradise, that Day, will be busy with joyful things (55)They and their wives will be in pleasant shade, reclining on thrones (56)They will have therein fruits and all that they ask for (57)(It… Then, in verse 55, it was said:إِنَّ أَصْحَابَ الْجَنَّةِ الْيَوْمَ فِي شُغُلٍ فَاكِهُونَ (The people of the Paradise are engaged today in (their) activities, happily enjoying [ them ]) - 36:55).
+After having mentioned the worries of the people of Jahannam, described here is the state of the people of Paradise on the day of Qiyamah that they will be enjoying themselves.
 
 ## Tafsir Ibn Kathir
 

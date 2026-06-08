@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They want to extinguish Allah's Light with their mouths, but Allah will not allow except that His Light should be perfected even though the disbelievers hate (it)(32)It is He Who has sent His Messenger with guidance and… Then, it was said that these people chose to take the way of error although they were asked by Allah to worship only one God who is free and pure from what they associated with Him.
+They want to extinguish Allah's Light with their mouths, but Allah will not allow except that His Light should be perfected even though the disbelievers hate (it)(32)It is He Who has sent His Messenger with guidance and the religion of truth, to make it superior over all religions even though the idolators hate (it).
 
 ## Tafsir Ibn Kathir
 

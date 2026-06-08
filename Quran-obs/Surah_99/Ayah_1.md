@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Az-Zalzalah Imam Ahmad recorded from 'Abdullah bin 'Amr that he said, "A man came to the Messenger of Allah ﷺ and said, 'Teach me what to recite, O Messenger of Allah!' The Prophet ﷺ said, The Merits of Surah Az-Zilzal Sayyidna Anas and Ibn ` Abbas ؓ report that the Messenger of Allah ﷺ said that Surah Al-Zilzal equals half the Qur'an, Surah Al-Ikhlas equals a third of the Qur'an and Surah Al-Kafirun equals a quarter of the Qur'an.
+Here it probably refers to the second quake, and the context supports it, because the Surah later on describes the scenes of the Day of Resurrection, such as reckoning, weighing and evaluating of deeds, and recompense. This refers to the alteration of the state of things and the earth moving and shaking.
 
 ## Tafsir Ibn Kathir
 

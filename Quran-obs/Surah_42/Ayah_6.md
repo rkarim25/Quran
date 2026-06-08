@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. يَتَفَطَّرْ‌نَ (burst apart).
+And as for those who take as protecting friends others besides Him – Allah is Hafiz over them, and you are not a trustee over them.) The Revelation and Allah's Might We have previously discussed the individual letters.
 
 ## Tafsir Ibn Kathir
 

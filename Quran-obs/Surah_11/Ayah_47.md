@@ -85,7 +85,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Nuh called upon his Lord and said, "O my Lord! Mentioned in the third verse (47) is the apology tendered by Sayyidna Nuh (علیہ السلام) .
+I seek refuge with You from asking You that of which I have no knowledge. And unless You forgive me and have mercy on me, I would indeed be one of the losers.
 
 ## Tafsir Ibn Kathir
 

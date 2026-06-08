@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The creation of the heavens and the earth is indeed greater than the creation of mankind; yet, most of the people do not know (57)And not equal are the blind and those who see; nor those who believe, and do righteous good deeds, and those who do evil. In verse 56, it was said: إِن فِي صُدُورِ‌هِمْ إِلَّا كِبْرٌ‌ مَّا هُم بِبَالِغِيهِ (there is nothing in their hearts but pride of greatness that they are not [ able ] to reach).
+Little do you remember!) The blind man who cannot see anything is not the same as the sighted man who can see everything as far as his eyesight reaches – there is a huge difference between them.
 
 ## Tafsir Ibn Kathir
 

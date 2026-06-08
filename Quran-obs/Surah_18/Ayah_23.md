@@ -38,7 +38,7 @@ At the beginning of this Surah we discussed the reason why this Ayah was reveale
 
 ## Tafsir Summary
 
-And never say of anything, "I shall do such and such thing tomorrow. The story of Ashab al-Kahf is due to end on the four verses cited above.
+Therefore, a believer should be confident about it in his or her heart, and confess to it verbally as well that in the event of making a commitment to do something next day, what will be said will be: If Allah Ta` ala wills, I shall do this thing tomorrow.' This is what the saying of Insha'Allah means.
 
 ## Tafsir Ibn Kathir
 

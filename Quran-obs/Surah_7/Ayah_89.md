@@ -182,7 +182,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The chiefs of those who were arrogant among his people said: "We shall certainly drive you out, O Shu'ayb and those who have believed with you from our town, or else you (all) shall return to our religion." He said: "Even though we hate it? Allah Ta` ala saved us from your false faith.
+Now if we were to return to your faith, this would amount to a false and grim accusation by us against Allah Ta` ala. And it is not for us to return to it unless Allah, our Lord, should will.
 
 ## Tafsir Ibn Kathir
 

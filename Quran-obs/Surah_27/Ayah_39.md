@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "O chiefs! Qurtubi has reported, giving references of historical record, that Bilqis's envoys returned from the court of Sulaiman (علیہ السلام) totally dumb-founded and awe-struck, and conveyed his declaration of war to the queen.
+Sulayman, upon him be peace, said, "I want it faster than that." From this it seems that Sulayman wanted to bring this throne as a demonstration of the greatness of the power and authority that Allah had bestowed upon him and the troops that He had subjugated to him.
 
 ## Tafsir Ibn Kathir
 

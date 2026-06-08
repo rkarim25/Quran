@@ -137,7 +137,7 @@ Abu 'Abdur-Rahman An-Nasa'i recorded that Ibn 'Abbas said that they, "Disliked g
 
 ## Tafsir Summary
 
-Not upon you (Muhammad ﷺ) is their guidance, but Allah guides whom He wills. needy who are confined in the way of Allah ...
+And whatever you spend in good, it will be repaid to you in full, and you shall not be wronged (272)(Charity is) for Fuqara' (the poor), who in Allah's cause are restricted (from travel), and cannot move about in the land (for trade or work).
 
 ## Tafsir Ibn Kathir
 

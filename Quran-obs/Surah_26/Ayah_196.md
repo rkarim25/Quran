@@ -27,7 +27,7 @@ Then Allah tells us how intense the disbelief of Quraysh was, and how stubbornly
 
 ## Tafsir Summary
 
-And verily, it is in the Zubur of the former people (196)Is it not a sign to them that the learned scholars of the Children of Israel knew it (197)And if We had revealed it unto any of the non-Arabs (198)And he had recit… Qur’ an is the name of the collection of its words and meanings It is brought by the Trusted Spirit down [ 193] to your heart, so that you become one of the warners [ 194] in plain Arabic language.
+The Qur'an Was Mentioned in the Previous Scriptures Allah says: this Qur'an was mentioned and referred to in the previous Scriptures that were left behind by their Prophets who foretold it in ancient times and more recently. Answer to this apparent contradiction is that according to majority of the Ummah, sometimes even the subject matter of the Qur’ an is called Qur'an in a general sense, because the real purpose of a book is the subjects it deals with.
 
 ## Tafsir Ibn Kathir
 

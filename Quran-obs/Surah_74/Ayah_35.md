@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We have set none but angels as guardians of the Fire. وَمَا يَعْلَمُ جُنُوْدَ رَبِّكَ اِلَّا هُو (...And no one knows the hosts of your Lord but He 74:31) Muqatil, among the leading authorities, says that this is rebuttal to Abu Jahl's statement.
+This is so that one does not make the mistake of thinking that they are only nineteen in all. The word kubar is the plural of kubaa which is an adjective for dahiyah or musibah 'calamity'.
 
 ## Tafsir Ibn Kathir
 

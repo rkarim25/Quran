@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "Why does this Messenger eat food, and walk about in the markets. From this point onward the objections raised by infidels and polytheists against the Holy Qur'an and the prophethood of the Holy Prophet ﷺ are related together with the answers to those objections.
+And because he could not read or write, he would get them read out to him day and night, so that he could remember them by heart, then he would repeat them before people and claim that he had received that revelation from Allah Ta’ ala. What the Disbelievers Said About the Messenger (ﷺ), Refutation of Their Words, and Their Ultimate Destiny Allah tells us about the disbelievers' stubborn resistance to and rejection of the truth, with no proof or evidence for doing so.
 
 ## Tafsir Ibn Kathir
 

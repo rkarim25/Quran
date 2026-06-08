@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, Basa'ir (proofs) have come to you from your Lord, so whosoever sees, will do so for (the good of) himself, and whosoever blinds himself, will do so against himself, and I am not a 'Hafīz' over you (104)Thus We explain variously the verses so that they (the disbelievers) may say: "You have Darasta (studied)" and that We may make the matter clear for the people who have knowledge (105) Basa'ir are the proofs and evidences in the Qur'an and the Message of Allah's Messenger ﷺ.
+And as for those who disbelieve, there is heaviness in their ears, and it is blindness for them.
 
 ## Tafsir Ibn Kathir
 

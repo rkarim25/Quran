@@ -33,7 +33,7 @@ And indeed We revealed to Musa: "Travel by night with My servants and strike a d
 
 ## Tafsir Summary
 
-And indeed We revealed to Musa: "Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid. The decisive defeat which he suffered in the contest between the right and wrong and between miracle and magic broke the power of the Pharaoh, and the Bani Isra'ile stood united under the leadership of Sayyidni Musa (علیہ السلام) .
+So there covered them that which did cover.)[53:53-54] As Fir'awn pursued them into the sea, misled his people and did not lead them to the path of correct guidance, likewise, he will go ahead of his people on the Day of Resurrection, and will lead them in to the Hellfire.
 
 ## Tafsir Ibn Kathir
 

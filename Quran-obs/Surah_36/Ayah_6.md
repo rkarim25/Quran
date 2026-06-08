@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surah Ya Sin Al-Hafiz Abu Ya'la recorded that Abu Hurayrah, may Allah be pleased with him, said, "The Messenger of Allah ﷺ said: The word: آباء (fathers) in verse 6: لِتُنذِرَ‌ قَوْمًا مَّا أُنذِرَ‌ آبَاؤُهُمْ (so that you may warn a people whose fathers were not warned) means the Arabs.
+In order that you may warn a people whose forefathers were not warned, so they are heedless.)(7.
 
 ## Tafsir Ibn Kathir
 

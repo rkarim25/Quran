@@ -53,7 +53,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, the criminals will be in the torment of Hell to abide therein forever (74)(The torment) will not be lightened for them, and they will be plunged into destruction with deep regrets, sorrows and in despair therein (75)We wronged them not, but they were the wrongdoers (76)And they will cry: "O Malik (keeper of Hell)! The only real friendship is that which is in the sake of Allah الْأَخِلَّاءُ يَوْمَئِذٍ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا الْمُتَّقِينَ (Friends, on that day, will become enemies to one another, except the God-fearing 43:67).
+Then We too are planning (79)Or do they think that We hear not their secrets and their private counsel?
 
 ## Tafsir Ibn Kathir
 

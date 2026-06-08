@@ -96,7 +96,7 @@ In the second verse (69), Allah Almighty addresses four traditional religious co
 
 ## Tafsir Summary
 
-Say: "O People of the Scripture! Salvation promised for Four Communities having faith and good deeds In the second verse (69), Allah Almighty addresses four traditional religious communities, persuades them to have faith and act righteously whereupon He promises salvation for them.
+And there is no fear for them nor shall they grieve.
 
 ## Tafsir Ibn Kathir
 

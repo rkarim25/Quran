@@ -24,7 +24,7 @@ This is Allah teaching His Messenger ﷺ how to receive the revelation from the 
 
 ## Tafsir Summary
 
-Move not your tongue concerning to make haste therewith (16)It is for Us to collect it and that it be recited (17)And when We have recited it to you, then follow its recitation (18)Then it is for Us to make it clear (19)But no! وُجُوْهٌ يَّوْمَىِٕذٍ نَّاضِرَةٌ اِلٰى رَبِّهَا نَاظِرَةٌ (Many faces, that day, will be glowing, looking towards their Lord,...75:23).
+The words 'looking towards their Lord' mean 'gazing at their Lord'.
 
 ## Tafsir Ibn Kathir
 

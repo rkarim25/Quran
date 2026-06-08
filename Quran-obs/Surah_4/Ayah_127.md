@@ -178,7 +178,7 @@ It is about the man who is taking care of a female orphan, being her caretaker a
 
 ## Tafsir Summary
 
-They ask your legal instruction concerning women. 1.
+Sometimes, the caretaker does not desire to marry the orphan under his care, because she is not attractive to his eye.
 
 ## Tafsir Ibn Kathir
 

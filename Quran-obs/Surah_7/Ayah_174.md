@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when your Lord brought forth from the Children of Adam, from their loins, their seed and made them testify as to themselves (saying): "Am I not your Lord?" They said: "Yes! "And this is how we elaborate the verses, so that they may return." That is, Allah has made His signs clear through His elaborate verses to facilitate people to turn back to their pledge and acknowledge Him as their Lord.
+We testify," lest you should say on the Day of Resurrection: "Verily, we were unaware of this.
 
 ## Tafsir Ibn Kathir
 

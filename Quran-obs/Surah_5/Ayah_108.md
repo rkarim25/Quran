@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Prior to this, there were injunctions relevant to religious considerations.
+They should have substantiated this claim by witnesses, but they failed to do so, therefore, the oath was given to the legal heirs of Budayl that no such sale took place to the best of their knowledge. The advice given is that the will should be evidenced by witnesses, so that they may prove the will in case of a dispute after the death of the testator.
 
 ## Tafsir Ibn Kathir
 

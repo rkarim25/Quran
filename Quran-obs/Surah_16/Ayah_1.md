@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. This Surah has been called Al-Nahl, that is, the honey bee because it mentions it as a unique Divine marvel.
+Literally (the nuance of the original expression remaining untranslatable), the sense is that issued is the command of Allah, that is, it is bound to come which you will soon see.
 
 ## Tafsir Ibn Kathir
 

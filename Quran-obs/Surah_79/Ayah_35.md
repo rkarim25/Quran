@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But when there comes the Greatest Catastroph (34)The Day when man shall remember what he strove for (35)And Hell shall be made apparent for whoever sees (36)Then for him who transgresse (37)And preferred the life of this… فَأَخَذَهُ اللَّـهُ نَكَالَ الْآخِرَ‌ةِ وَالْأُولَىٰ (So, Allah seized him for the deterrent punishment in the Hereafter and the present world....79:25).
+The expression 'according to the rules' has been used because many verses and narratives indicate that there could be 'exceptions to the rules'. The phrase 'punishment of the 'akhirah' refers to the punishment of the Hereafter that will be meted out to Fir'aun (the Pharaoh).
 
 ## Tafsir Ibn Kathir
 

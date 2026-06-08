@@ -204,7 +204,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And there is no sin on you if you make a hint of betrothal or conceal it in yourself, Allah knows that you will remember them, but do not make a promise (of contract) with them in secret except that you speak an honorable saying. Some injunctions relating to 'Iddah 1.
+As for the divorced wife (not irrevocably divorced), there is no disagreement that it is not allowed for other than her husband to mention marriage proposals to her directly or indirectly (before the 'Iddah finishes).
 
 ## Tafsir Ibn Kathir
 

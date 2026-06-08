@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Therefore, remind. The Believing Children of the Righteous will benefit from their relationship with their Believing Parents in Paradise وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّ‌يَّتُهُم بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّ‌يَّتَهُمْ (And those who believed and their children followed them in belief, We will join their children with them,...
+They believe not (33)Let them then produce a recitation like unto it if they are truthful .
 
 ## Tafsir Ibn Kathir
 

@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat At-Tariq An-Nasa'i recorded that Jabir said, "Mu'adh lead the Maghrib prayer and he recited Al-Baqarah and An-Nisa'. that comes out from between the loins and the chest-bones...86:6, 7).
+It (the fluid) is yellow and fine in texture.
 
 ## Tafsir Ibn Kathir
 

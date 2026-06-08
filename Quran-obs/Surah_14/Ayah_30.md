@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you not seen those who have changed the blessings of Allah into disbelief (by denying Prophet Muhammad ﷺ and his Message of Islam), and caused their people to dwell in the house of destruction (28)Hell, in which they will burn, - and what an evil place to settle in (29)And they set up rivals to Allah, to mislead (men) from His path! Appearing at the beginning of Surah Ibrahim there were subjects related to the mission of messengers and prophets, and to the states of one's ultimate return, and to the Hereafter.
+But certainly, your destination is the (Hell) Fire!
 
 ## Tafsir Ibn Kathir
 

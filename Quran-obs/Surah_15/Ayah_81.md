@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, the Dwellers of Al-Hijr denied the Messengers (80)And We gave them Our signs, but they were averse to them (81)And they used to hew out dwellings from the mountains, (feeling) secure (82)But the Sayhah (torme… Aikah means a dense forest.
+And verily, the Dwellers of Al-Hijr denied the Messengers (80)And We gave them Our signs, but they were averse to them (81)And they used to hew out dwellings from the mountains, (feeling) secure (82)But the Sayhah (torment - awful cry) overtook them in the early morning (83)And all that they used to earn availed them not . Therefore, He is to exact the full return from them of what they have been doing.
 
 ## Tafsir Ibn Kathir
 

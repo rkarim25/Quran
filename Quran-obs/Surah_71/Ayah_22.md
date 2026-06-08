@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nuh said: "My Lord! (Did you not see how Allah has created seven heavens one upon another, and has made the moon a light therein?
+Destroy their wealth, and harden their hearts, so that they will not believe until they see the painful torment.)(10:88) Verily, Allah responded to the supplication of both of these Prophets concerning their people and He drowned their nations due to their rejection of what he (that Prophet) had come with. The prepositional phrase in the verse apparently indicates that the moon is placed in the body of the heavens.
 
 ## Tafsir Ibn Kathir
 

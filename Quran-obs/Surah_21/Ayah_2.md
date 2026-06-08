@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Anbiya' Al-Bukhari recorded that 'Abdur-Rahman bin Yazid said that 'Abdullah said, "Banu Isra'il, Al-Kahf, Maryam, Ta Ha and Al-Anbiya' - they are among the earliest and most beautiful Surahs and… مَا يَأْتِيهِم مِّن ذِكْرٍ‌ مِّن رَّ‌بِّهِم مُّحْدَثٍ إِلَّا اسْتَمَعُوهُ وَهُمْ يَلْعَبُونَ ﴿2﴾ لَاهِيَةً قُلُوبُهُمْ (No new message comes to them from their Lord, but they listen to it in a state of playing, their hearts paying no heed.
+21:2, 3) This verse describes the state of those who disregard the punishment in the grave and in the Hereafter and do not prepare themselves to counter it with good deeds. Comes not unto them an admonition from their Lord as a recent revelation but they listen to it while they play.)(3.
 
 ## Tafsir Ibn Kathir
 

@@ -163,7 +163,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The People of the Scripture (Jews) ask you to cause a book to descend upon them from heaven. Some previous verses censured Jews for their mistrustfulness in matters of faith.
+The People of the Scripture (Jews) ask you to cause a book to descend upon them from heaven. Their forefathers had gone even beyond them by demanding something more grave: "Make us see Allah openly." Upon this audacity of theirs, came' a thunderbolt from the heaven and destroyed them.
 
 ## Tafsir Ibn Kathir
 

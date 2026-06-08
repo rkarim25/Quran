@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Thus have We caused it to enter the hearts of the criminals (200)They will not believe in it until they see the painful torment (201)It shall come to them of a sudden, while they perceive it not (202)Then they will say: "Can we be respited? So tell me, If We give them enjoyment for years, - 26:205.
+this verse that those who are bestowed with long life in this world by Allah Ta’ ala, it is His grace on them. But those who show ingratitude for this grace and do not submit to Islam, to them this respite and grace will not be of any avail.
 
 ## Tafsir Ibn Kathir
 

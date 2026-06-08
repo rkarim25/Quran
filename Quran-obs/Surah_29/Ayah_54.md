@@ -32,7 +32,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they ask you to hasten on the torment, and had it not been for a term appointed, the torment would certainly have come to them. The status of the narrations of the People of the Book quoted by the commentators in their commentaries is also the same.
+How the Idolators asked for the Torment to be hastened on Allah tells us of the ignorance of the idolators and how they asked for the punishment of Allah to be hastened so that it would befall them quickly. And they ask you to hasten on the torment, and had it not been for a term appointed, the torment would certainly have come to them.
 
 ## Tafsir Ibn Kathir
 

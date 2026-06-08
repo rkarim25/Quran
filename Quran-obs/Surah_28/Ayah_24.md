@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So he escaped from there, looking about in a state of fear. فَسَقَىٰ لَهُمَا (So he (Musa) watered (their animal) for their sake - 28:24).
+Truly, I am in need of whatever good that You bestow on me!") the women heard him." He came under the shade of a tree and prayed to Allah describing his condition and need in an exquisite manner.
 
 ## Tafsir Ibn Kathir
 

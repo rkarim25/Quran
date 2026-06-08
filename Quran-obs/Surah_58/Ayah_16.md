@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you not seen those who take as friends a people upon whom is the wrath of Allah? Chastising the Hypocrites for their Secret Alliance with the Jews أَلَمْ تَرَ‌ إِلَى الَّذِينَ تَوَلَّوْا قَوْمًا غَضِبَ اللَّـهُ عَلَيْهِم (Have you not seen those who have friendship with a people with whom Allah is angry?
+Evil indeed is that which they used to do (15)They have made their oaths a screen. Thus they hinder (others) from the path of Allah,) meaning, the hypocrites pretended to be believers and concealed disbelief under the shield of their false oaths.
 
 ## Tafsir Ibn Kathir
 

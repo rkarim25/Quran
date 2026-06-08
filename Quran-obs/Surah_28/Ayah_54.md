@@ -62,7 +62,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those to whom We gave the Scripture before it, they believe in it (52)And when it is recited to them, they say: "We believe in it. أُولَـٰئِكَ يُؤْتَوْنَ أَجْرَ‌هُم مَّرَّ‌تَيْنِ (Such people will be given their reward twice - 28:54).
+As for the reason why these people have been chosen for such an extra ordinary reward, the straight answer is that it is Allah Ta` ala's prerogative to declare any deed preferable or superior to other deeds, and enhance its reward.
 
 ## Tafsir Ibn Kathir
 

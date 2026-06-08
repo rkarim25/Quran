@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, Ibrahim was (himself) an Ummah, obedient to Allah, a Hanif (monotheist), and he was not one of the idolators (120)(He was) thankful for His favors. The Holy Prophet being on the way of Sayyidna Ibrahim (علیہ السلام) : Understanding the Chemistry of Adherence When Sayyidna Ibrahim I appeared, Allah Ta’ ala blessed him with a Shari'ah and its Injunctions.
+Though, the Holy Prophet ﷺ is preferred as more distinguished (afdal) of all blessed prophets and messengers, but at this place, there are two wise considerations in asking the preferred (afdal) to follow the one not so preferred (mafdul) in the present context.
 
 ## Tafsir Ibn Kathir
 

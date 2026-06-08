@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have you not seen those who claim sanctity for themselves? The curse of Allah causes disgrace here and hereinafter The Qur'anic word, 'la'nah' (translated as 'curse' in absence of a more exact equivalent) means being far removed from the mercy of Allah, extremely debased and disgraced.
+Allah's Curse on the Jews This Ayah [4:52] contains a curse for the Jews and informs them that they have no supporter in this life or the Hereafter, because they sought the help of the idolators. Because of the amount of evil it releases, corresponding heavy restrictions have been placed against its use.
 
 ## Tafsir Ibn Kathir
 

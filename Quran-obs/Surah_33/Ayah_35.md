@@ -134,7 +134,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, the Muslims: men and women, the believers: men and women, the Qanit: men and the women, the men and women who are truthful, the men and the women who are patient, the Khashi': men and the women, the men and the w… The Qur'anic addresses in masculine gender normally include women: The Wisdom behind it In the usual injunctions of the noble Qur'an, though, both men and women have been included as addressees, but generally the address is made to men.
+Verily, the Muslims: men and women, the believers: men and women, the Qanit: men and the women, the men and women who are truthful, the men and the women who are patient, the Khashi': men and the women, the men and the women who give Sadaqat, the men and the women who fast, the men and the women who guard their chastity and the men and the women who remember Allah much with their hearts and tongues, Allah has prepared for them forgiveness and a great reward .
 
 ## Tafsir Ibn Kathir
 

@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Musa) said: "O Harun! When the Bani Isra'il were smitten with the mischief of calf-worship Sayyidna Harun (علیہ السلام) as the deputy of Sayyidna Musa (علیہ السلام) remonstrated with them but to no avail.
+Where they differed, however, was the manner in which these objectives could be achieved whether to make a complete break with the dissidents or to bear with them in the hope those things would improve ultimately.
 
 ## Tafsir Ibn Kathir
 

@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when your Lord said to the angels: "Truly, I am going to create man from clay. In verse 71, it was said: إِذْ قَالَ رَ‌بُّكَ لِلْمَلَائِكَةِ (When your Lord said to the angels...): Mentioned here is the event of the creation of 'Adam (علیہ السلام) .
+Before creating Adam, peace be upon him, Allah told the angels that He was going to create a human being from sounding clay of altered smooth black mud. All of the angels obeyed this command except for Iblis, who was not one of them.
 
 ## Tafsir Ibn Kathir
 

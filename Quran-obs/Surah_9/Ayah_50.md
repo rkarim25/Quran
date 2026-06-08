@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-If good befalls you, it grieves them, but if a calamity overtakes you, they say: "We took our precaution beforehand," and they turn away rejoicing (50)Say: "Nothing shall ever happen to us except what Allah has ordained for us. In the eighth verse (50), yet another aspect of their low nature has been mentioned by saying that, though these people live among Muslims giving the outward impression that they are one of them, but they are soon exposed by their inner reactions to what happens to the Holy Prophet ﷺ .
+Allah emphasizes the enmity that the hypocrites have for the Prophet ﷺ.
 
 ## Tafsir Ibn Kathir
 

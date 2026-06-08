@@ -148,7 +148,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And it is Allah Who sends the winds, so that they raise up the clouds, and We drive them to a dead land, and revive therewith the earth after its death. The sense of the verse: وَمَا يُعَمَّرُ‌ مِن مُّعَمَّرٍ‌ وَلَا يُنقَصُ مِنْ عُمُرِ‌هِ إِلَّا فِي كِتَابٍ (And no aged person is made to advance in age, nor a part is curtailed from his age, but all this is (recorded) in a book - 35:11), according to the majority of the commentators is that if Allah Ta’ ala blesses a person with a long age, it is a fact already on record in the Preserved Tablet (al-lawh al-mahfuz).
+And the plotting of such will perish (10)And Allah did create you from dust, then from Nutfah, then He made you pairs.
 
 ## Tafsir Ibn Kathir
 

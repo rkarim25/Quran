@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Threat against Man's Transgression for the sake of Wealth Allah informs that man is very pleased, most evil, scornful and transgressive when he considers himself self-sufficient and having an abundance of wealth. Verses [ 6-7] كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَىٰ أَن رَّ‌آهُ اسْتَغْنَىٰ (The fact is that man crosses the limits, because he deems himself to be free of need.) Although the verse immediately refers to a particular person, namely, Abu Jahl who insulted the Holy Prophet ﷺ ، the statement is general which draws man's attention to one of his weaknesses.
+The Threat against Man's Transgression for the sake of Wealth Allah informs that man is very pleased, most evil, scornful and transgressive when he considers himself self-sufficient and having an abundance of wealth.
 
 ## Tafsir Ibn Kathir
 

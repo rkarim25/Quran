@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And there is indeed a lesson for you in the An'am (cattle). The pronoun in: بُطُونِہٖ (butunihi: their bellies) reverts back to: (al-an am: cattle).
+For cattle are the creatures which provide a drink from what is in their bellies and in another Ayah it is 'in their bellies.' Either way is plausible.
 
 ## Tafsir Ibn Kathir
 

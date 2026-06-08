@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And had it not been for a Word that went forth before from your Lord, and a term determined, (their punishment) must necessarily have come (in this world)(128)So bear patiently what they say, and glorify the praises of y… The word ھُدٰی - (guidance) implied in the first sentence of verse 128 can refer either to the Qur'an or to the Holy Prophet ﷺ and the meaning would be, "Did not the Qur'an or the Holy Prophet ﷺ direct them i.e.
+They showed open hostility, so now there is not trace of them and none of them are left.
 
 ## Tafsir Ibn Kathir
 

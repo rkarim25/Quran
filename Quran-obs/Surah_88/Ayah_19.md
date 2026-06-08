@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do they not look at the camels, how they are created (17)And at the heaven, how it is raised (18)And at the mountains, how they are rooted (19)And at the earth, how it is outspread (20)So remind them – you are only one w… أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ (So, do they not look at the camels how they are created...88:17) The Qur'an first described the conditions of the Hereafter; and it then went on to depict the reward of the believers and the retribution of the unbelievers.
+For indeed they are firmly affixed so that the earth does not sway with its dwellers. The Exhortation to look at the Creation of the Camel, the Heaven, the Mountains and the Earth Allah commands His servants to look at His creations that prove His power and greatness.
 
 ## Tafsir Ibn Kathir
 

@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Fala! Preceding verses put forward rational arguments, in support of life after death, by inviting attention to Allah's infinite power.
+I swear by the Mawaqi' of the stars (75)And verily that is indeed a great oath, if you but know (76)That (this) is indeed an honorable recitation (77)In a Book Maknun (78)Which none touches but the pure ones (79)A revelation from the Lord of all that exists (80)Is it such a talk that you are Mudhinun (81)And you make your provision your denial .
 
 ## Tafsir Ibn Kathir
 

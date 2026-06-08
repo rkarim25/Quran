@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And unto Allah falls in prostration whoever is in the heavens and the earth, willingly or unwillingly, and so do their shadows in the mornings and in the afternoons (15) Everything prostrates unto Allah In the next verse (13), it was said: وَيُسَبِّحُ الرَّ‌عْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ مِنْ خِيفَتِهِ (And the thunder proclaims His purity with His praise, and [ so do ] the angels, out of His awe).
+And unto Allah falls in prostration whoever is in the heavens and the earth, willingly or unwillingly, and so do their shadows in the mornings and in the afternoons .
 
 ## Tafsir Ibn Kathir
 

@@ -148,7 +148,7 @@ Allah says, 'Adhere to what We legislated for you, such as the ruling about one-
 
 ## Tafsir Summary
 
-And know that whatever of war booty that you may gain, verily, one-fifth of it is assigned to Allah, and to the Messenger, and to the near relatives (of the Messenger), the orphans, the poor, and the wayfarer, if you hav… Mentioned in this verse are injunctions of spoils and the law of their distribution.
+Ibrahim An-Nakha'i, Al-Hasan bin Muhammad bin Al-Hanifiyyah, Al-Hasan Al-Basri, Ash-Sha'bi, 'Ata' bin Abi Rabah, 'Abdullah bin Buraydah, Qatadah, Mughirah and several others, all said that the share designated for Allah and the Messenger is one and the same.
 
 ## Tafsir Ibn Kathir
 

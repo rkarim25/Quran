@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when you left your household in the morning to post the believers at their stations for the battle (of Uhud). Next comes verses 122 beginning with the words إِذْ هَمَّت طَّائِفَتَانِ مِنكُمْ أَن تَفْشَلَا (When two of your groups tended to lose heart while Allah was their guardian).
+This Ayah reminds them that victory is only from Allah, not because of a large army and adequate supplies.
 
 ## Tafsir Ibn Kathir
 

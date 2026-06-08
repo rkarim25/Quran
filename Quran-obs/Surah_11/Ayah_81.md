@@ -128,7 +128,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "Would that I had strength to overpower you, or that I could betake myself to some powerful support. At that time, the angels under Divine command said to Sayyidna Lut (علیہ السلام) : فَأَسْرِ‌ بِأَهْلِكَ بِقِطْعٍ مِّنَ اللَّيْلِ (So, move with your family in a part of night).
+And asked him to instruct everyone in his family not to turn and look back with the exception of his wife because she was going to be hit by the same punishment that was to fall on his people. So travel with your family in a part of the night, and let not any of you look back; but your wife (will remain behind), verily, the punishment which will afflict them, will afflict her.
 
 ## Tafsir Ibn Kathir
 

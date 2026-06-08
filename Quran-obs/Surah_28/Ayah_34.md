@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "My Lord! A sermon should have high degree of eloquence هُوَ أَفْصَحُ مِنِّي لِسَانًا (He is more fluent in his tongue - 28:34).
+And appoint for me a helper from my family, Harun, my brother.
 
 ## Tafsir Ibn Kathir
 

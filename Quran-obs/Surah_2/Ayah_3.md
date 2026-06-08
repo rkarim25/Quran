@@ -46,7 +46,7 @@ To sum up, Iman ایمان is not valid, if acknowledgment in the heart does not
 
 ## Tafsir Summary
 
-Abu Ja'far Ar-Razi said that Al-'Ala' bin Al-Musayyib bin Rafi' narrated from Abu Ishaq that Abu Al-Ahwas said that 'Abdullah said, "Iman is to trust.". The next two verses delineate the characteristic qualities of the God-fearing, suggesting that these are the people who have received guidance, whose path is the straight path, and that he who seeks the straight path should join their company, adopt their beliefs and their way of life.
+Prayer is a right of Allah as well as a form of worshipping Him.
 
 ## Tafsir Ibn Kathir
 

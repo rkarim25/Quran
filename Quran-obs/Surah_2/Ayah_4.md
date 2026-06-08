@@ -62,7 +62,7 @@ And who have faith in what is revealed to you and in what was revealed before yo
 
 ## Tafsir Summary
 
-And who have faith in what is revealed to you and in what was revealed before you, and in the Hereafter they are certain (4) (And who have faith in what is revealed to you and in what was revealed before you.) means, "Th… This verse speaks of some other attributes of the God-fearing, giving certain details about faith in the unseen with a special mention of faith in hereafter.
+The Hereafter is so named because it comes after this earthly life.
 
 ## Tafsir Ibn Kathir
 

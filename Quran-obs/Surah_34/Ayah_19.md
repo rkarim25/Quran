@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We placed, between them and the towns which We had blessed, towns easy to be seen, and We made the stages (of journey) between them easy (saying): "Travel in them safely both by night and day. Verse 19 opens with the statement: فَقَالُوا رَ‌بَّنَا بَاعِدْ بَيْنَ أَسْفَارِ‌نَا وَظَلَمُوا أَنفُسَهُمْ فَجَعَلْنَاهُمْ أَحَادِيثَ وَمَزَّقْنَاهُمْ كُلَّ مُمَزَّقٍ (Then they said," Our Lord, make (the phases of) our journeys more distant." And they wronged themselves, therefore We turned them into stories and tore them into pieces - 34:19).
+It means that so unjust were these people that they would go to the extent of dismissing the very blessing of Allah placed there to eliminate the hardships of travel, rather went deeper into their lack of recognition and straight ungratefulness by coming forward to pray that their Lord makes the distances they cover in travel longer - hoping that the habitations do not appear at such close distances, and wishing to see some hard areas of a forest or wilderness which ask for s…
 
 ## Tafsir Ibn Kathir
 

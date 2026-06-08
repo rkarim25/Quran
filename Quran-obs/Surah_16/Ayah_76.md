@@ -128,7 +128,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Allah gives an example of two men, one of them dumb, who has no power over anything, and he is a burden on his master; whichever way he directs him, he brings no good. In the second example, there is a man who bids justice and teaches what is good.
+And Allah gives an example of two men, one of them dumb, who has no power over anything, and he is a burden on his master; whichever way he directs him, he brings no good.
 
 ## Tafsir Ibn Kathir
 

@@ -186,7 +186,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And their Prophet said to them, "Indeed Allah has appointed Talut (Saul) as a king over you." They said, "How can he be a king over us when we are fitter than him for the kingdom, and he has not been given enough wealth." He said: "Verily, Allah has chosen him above you and has increased him abundantly in knowledge and stature. 1.
+In short, he has more knowledge and is stronger than you are.
 
 ## Tafsir Ibn Kathir
 

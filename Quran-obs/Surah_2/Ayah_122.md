@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Children of Israel! A large section of this Sarah, ending with the previous verse, has been dealing with different aspects of the conduct of the Israelites (that is, the Jews) in the course of their history.
+Remember My favor which I bestowed upon you and that I preferred you over the nations) (122)And fear the Day (of Judgement) when no person shall avail another, nor shall compensation be accepted from him, nor shall intercession be of use to him, nor shall they be helped .
 
 ## Tafsir Ibn Kathir
 

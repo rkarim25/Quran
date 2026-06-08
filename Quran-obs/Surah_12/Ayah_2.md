@@ -37,7 +37,7 @@ On the reason behind revealing Ayah (12:3), Ibn Jarir At-Tabari recorded that 'A
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The statement made in verse 2 following immediately is: إِنَّا أَنزَلْنَاهُ قُرْ‌آنًا عَرَ‌بِيًّا لَّعَلَّكُمْ تَعْقِلُونَ (Surely, We have sent it down, an Arabic Qur’ an, so that you may understand).
+Verily, We have sent it down as an Arabic Qur'an in order that you may understand.)(3.
 
 ## Tafsir Ibn Kathir
 

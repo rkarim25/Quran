@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Allah said:) "O Zakariyya! "We did not create any one before him of the same name." - 19:7.
+Verily, We give you the good news of a son, whose name will be Yahya. We have given that name to none before (him).
 
 ## Tafsir Ibn Kathir
 

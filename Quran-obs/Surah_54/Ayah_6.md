@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So withdraw from them. وَكُلُّ أَمْرٍ‌ مُّسْتَقِرٌّ‌ (...while every matter has to be settled....54:3).
+The Day that the caller will call (them) to a terrible thing (6)They will come forth, with humbled eyes from (their) graves as if they were locusts spread abroad (7)Hastening towards the caller.
 
 ## Tafsir Ibn Kathir
 

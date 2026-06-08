@@ -16,7 +16,7 @@ Ibn Jurayj narrated that 'Ata' said that Ibn 'Abbas said, "Surat Al-Baqarah was 
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Baqarah In Musnad Ahmad, Sahih Muslim, At-Tirmidhi and An-Nasa'i, it is recorded that Abu Hurayrah said that the Prophet ﷺ said, The Surah begins with the Arabic letters Alif, Lam and Mim (equivalents of A, L and M).
+Further, if we find an authentic narration leading to the Prophet ﷺ that explains these letters, we will embrace the Prophet's statement. Therefore, whoever thinks that one scholar's opinion is correct, he is obliged to follow it, otherwise it is better to refrain from making any judgment on this matter.
 
 ## Tafsir Ibn Kathir
 

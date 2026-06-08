@@ -42,7 +42,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And in Musa, when We sent him to Fir'awn with a manifest authority (38)But (he) turned away along with his hosts, and said: "A sorcerer or a madman. After the mention of the people of Lut (علیہ السلام) ، the people of Musa (علیہ السلام) ، Fir'aun and others are taken up briefly.
+These stories were narrated many times before.
 
 ## Tafsir Ibn Kathir
 

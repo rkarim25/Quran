@@ -99,7 +99,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-On the Day you shall see the believing men and the believing women – their light running forward before them and in their right hands. The Believers will be awarded Light on the Day of Resurrection يَوْمَ تَرَ‌ى الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ يَسْعَىٰ نُورُ‌هُم بَيْنَ أَيْدِيهِمْ وَبِأَيْمَانِهِم (On the Day when you will see the believing men and the believing women, their light proceeding in front of them and to their right hands,....57:12) 'The day' refers to the 'Day of Resurrection'.
+On the Day you shall see the believing men and the believing women – their light running forward before them and in their right hands. The Believers are awarded a Light on the Day of Resurrection, according to Their Good Deeds Allah the Exalted states that the believers who spend in charity will come on the Day of Resurrection with their light preceding them in the area of the Gathering, according to the level of their good deeds.
 
 ## Tafsir Ibn Kathir
 

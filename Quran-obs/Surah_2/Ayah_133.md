@@ -124,7 +124,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or were you witnesses when death approached Ya'qub (Jacob)? The previous verses have defined the religion of Sayyidna Ibrahim (علیہ السلام) and the essence of Islam.
+When death came to Jacob, he advised his children to worship Allah alone without partners. Ya'qub's Will and Testament to His Children upon His Death This Ayah contains Allah's criticism of the Arab pagans among the offspring of Isma'il as well as the disbelievers among the Children of Israel Jacob the son of Isaac, the son of Ibrahim.
 
 ## Tafsir Ibn Kathir
 

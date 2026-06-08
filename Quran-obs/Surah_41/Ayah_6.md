@@ -80,7 +80,7 @@ Say: "I am only a human being like you. It is revealed to me that your God is On
 
 ## Tafsir Summary
 
-Say: "I am only a human being like you. Prophetic reply to the Denial and Ridicule of Disbelievers The infidels saying that their hearts were covered and their ears were leaden, etc., was not because they had become deaf and bereft of intellect; rather it was a kind of ridicule and jest that they used to make.
+It is revealed to me that your God is One God, therefore take straight path to Him and obedience to Him, and seek forgiveness of Him.
 
 ## Tafsir Ibn Kathir
 

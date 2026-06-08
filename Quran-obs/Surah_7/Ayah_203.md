@@ -107,7 +107,7 @@ And if you do not bring them a miracle, they say: "Why have you not brought it" 
 
 ## Tafsir Summary
 
-And if you do not bring them a miracle, they say: "Why have you not brought it" Say: "I but follow what is revealed to me from my Lord. Mentioned in the verses cited above is the proof that the Holy Prophet ﷺ the true Messenger of Allah.
+This, then, is an open sign that the Qur'an is no human word, instead, is the inimitable Word of Allah, the most exalted.
 
 ## Tafsir Ibn Kathir
 

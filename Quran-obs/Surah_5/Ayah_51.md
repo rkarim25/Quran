@@ -102,7 +102,7 @@ Reporting from ` Ikrimah, Ibn Jarir ؓ has said that this verse was revealed in 
 
 ## Tafsir Summary
 
-O you who believe! The verses cited above take up three important subjects which are the basic principles of unity among Muslims as a collectively organized community.
+Commentary In the first verse (51), Muslims have been commanded not to enter into "Muwalat" (deep friendship) with Jews and Christians as is the customary practice of non-Muslims in general and, of Jews and Christians in particular, who reserve deep friendship for their own people only.
 
 ## Tafsir Ibn Kathir
 

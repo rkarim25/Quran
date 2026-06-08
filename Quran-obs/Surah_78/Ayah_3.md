@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Beneficent, the Most Merciful. عَنِ النَّبَإِ الْعَظِيمِ الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ (About the Great Event in which they dispute!...78:2, 3).
+Nay, again, they will come to know!) This is a severe threat and a direct warning.
 
 ## Tafsir Ibn Kathir
 

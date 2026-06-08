@@ -111,7 +111,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have they not traveled in the land, and seen what was the end of those before them – though they were superior to them in power? The word: لَا يَحِيقُ (la yahiq) in verse 43: وَلَا يَحِيقُ الْمَكْرُ‌ السَّيِّئُ إِلَّا بِأَهْلِهِ (And the evil plot envelops none but its own people ( who make it) carries the sense of: لَا یُحِیطُ (la yuhit: does not surround) or: لَا یُصیبُ (la usib: does not afflict).
+Verily, He is All-Knowing, All-Able (44)And if Allah were to punish men for that which they earned, He would not leave a moving creature on the surface of the earth; but He gives them respite to an appointed term, and when their term comes, then verily, Allah is Ever All-Seer of His servants .
 
 ## Tafsir Ibn Kathir
 

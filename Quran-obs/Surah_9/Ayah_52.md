@@ -99,7 +99,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Do you wait for us (anything) except one of the two best things; while we await for you either that Allah will afflict you with a punishment from Himself or at our hands. The tenth verse (52), while mentioning the charming demeanor of the man of true faith, has given an answer to hypocrites delighted over the discomfort of Muslims.
+Either, they would be punished at the hands of Muslims right here in this world, in which case, they will taste the punishment in the mortal and the eternal world both. This is why Allah does not accept charity or good deeds from the people described in these Ayat, because He only accepts it from those who have Taqwa.
 
 ## Tafsir Ibn Kathir
 

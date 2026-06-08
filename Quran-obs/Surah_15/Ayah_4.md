@@ -38,7 +38,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And never did We destroy a township but there was a known decree for it (4)No nation can advance its term, nor delay it (5) Every Township has its allotted Time From: ذَرْ‌هُمْ يَأْكُلُوا (Let them eat ...3) we can see that the making of eating and drinking the real occupation and aim of life, and keeping glued to long-drawn material plans while surrounded by countless things of worldly comfort, and becoming totally heedless to death, is something which can be done only by the disbelievers.
+The Holy Prophet ﷺ said: The first set of people from this Ummah will have their salvation because of their perfect faith, and avoidance of the pursuit of the material (dunya); and the later people of the Ummah will be destroyed because of miserliness, and fancies projected too far. And never did We destroy a township but there was a known decree for it (4)No nation can advance its term, nor delay it .
 
 ## Tafsir Ibn Kathir
 

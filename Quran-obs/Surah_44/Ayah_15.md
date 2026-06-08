@@ -37,7 +37,7 @@ According to another report, a man would look at the sky and he would see nothin
 
 ## Tafsir Summary
 
-Nay! دُخَانٍ مُّبِينٍ...visible smoke" in verse (10) embodies a prophecy and the Prophet ﷺ was asked to watch for the Day when the sky will bring forth a manifest smoke covering the people.
+We are going to remove the punishment for a while, (but) you will certainly go back (to your original position). Fourth, Allah - despite their false promise - will remove the punishment for a short while in order to establish an argument against them, showing that they will not keep to their promise.
 
 ## Tafsir Ibn Kathir
 

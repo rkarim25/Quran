@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-We shall attend to you, O Thaqalan (31)Then which of the blessings of your Lord will you both deny (32)O assembly of Jinn and men! (0 genera of Jinns and mankind, If you are able to penetrate beyond the realms of the heavens and the earth, then penetrate.
+If the purpose of 'penetrating through the heavens and the earth' mentioned in the verse is to escape death, then it refers to this world and means: It is not within the power of any man or Jinns to cross the bounds of the heavens and the earth and escape death.
 
 ## Tafsir Ibn Kathir
 

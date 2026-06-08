@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Beneficent, the Most Merciful. كَلَّا سَيَعْلَمُونَ ثُمَّ كَلَّا سَيَعْلَمُونَ (Truly, they will soon know.
+Nay, again, they will come to know!)(6. Have We not made the earth as a bed,)(7.
 
 ## Tafsir Ibn Kathir
 

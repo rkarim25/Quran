@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-On the Day when We will say to Hell: "Are you filled?" It will say: "Are there any more? مَا يُبَدَّلُ الْقَوْلُ لَدَيَّ وَمَا أَنَا بِظَلَّامٍ لِّلْعَبِيدِ (The Word is not changed with Me, and I Am not a wrongdoer to My slaves." [ 50:29] That is, 'I have made my decision which will certainly be implemented: it will never be changed.
+Jahannam and Paradise and their Dwellers Allah states that He will say to Jahannam on the Day of Resurrection, "Have you had your fill?" Allah the Most Honored has promised Hell that it will have its fill from the Jinns and mankind.
 
 ## Tafsir Ibn Kathir
 

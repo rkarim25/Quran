@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, after them, We created other generations (42)No nation can advance their term, nor can they delay it (43)Then We sent Our Messengers in succession. وَآوَيْنَاهُمَا إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ (and We gave them shelter on a height, a place of rest and running springs).
+Then, after them, We created other generations (42)No nation can advance their term, nor can they delay it (43)Then We sent Our Messengers in succession.
 
 ## Tafsir Ibn Kathir
 

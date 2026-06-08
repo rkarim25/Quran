@@ -75,7 +75,7 @@ Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the mar
 
 ## Tafsir Summary
 
-(169. The subject of the previous verse was the battle of Uhud connected with which is the battle of Hamra' al-Asad which forms the subject of the present verse.
+In its ultimate reality, the command of the Messenger of Allah is the command of Allah.
 
 ## Tafsir Ibn Kathir
 

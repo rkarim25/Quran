@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed, We have sent down for you a Book in which there is Dhikrukum. The Holy Qur'an is an honour and pride for the Arabs كِتَابًا فِيهِ ذِكْرُ‌كُمْ (a book having a good name for you - 21:10): The word (Book) is meant for Qur'an and ذکر (name) is used here for honour, excellence and fame.
+Indeed, We have sent down for you a Book in which there is Dhikrukum.
 
 ## Tafsir Ibn Kathir
 

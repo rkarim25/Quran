@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And every Ummah has its appointed term; when their term comes, neither can they delay it nor can they advance it an hour (or a moment)(34)O Children of Adam! The first and the second verse both mentioned two crimes committed by disbelievers.
+And every Ummah has its appointed term; when their term comes, neither can they delay it nor can they advance it an hour (or a moment)(34)O Children of Adam! Similarly, the real objective here is to state that there will be no delay after the appointed time.
 
 ## Tafsir Ibn Kathir
 

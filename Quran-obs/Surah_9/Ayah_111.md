@@ -168,7 +168,7 @@ At this place, since the pledge took the apparent form of a transaction of give 
 
 ## Tafsir Summary
 
-Verily, Allah has purchased of the believers their lives and their properties for (the price) that theirs shall be the Paradise. Previous verses carried a condemnation of those staying behind without a valid excuse and missing the Jihad.
+It is a promise in truth which is binding on Him in the Tawrah and the Injil and the Qur'an.
 
 ## Tafsir Ibn Kathir
 

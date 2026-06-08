@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who have Taqwa, will be in place of security (51)Among Gardens and Springs (52)Dressed in Sundus and Istabraq, facing each other (53)So (it will be). لَا يَذُوقُونَ فِيهَا الْمَوْتَ إِلَّا الْمَوْتَةَ الْأُولَىٰ (They will not taste death therein, except for the first death (they faced in the world) - 44:56).
+That will be the supreme success (57)Certainly, We have made this easy in your tongue, in order that they may remember (58)Wait then; verily, they (too) are waiting .
 
 ## Tafsir Ibn Kathir
 

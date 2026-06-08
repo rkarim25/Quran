@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Such is 'Isa, son of Maryam. "This is ` Isa, the son of Maryam." - 19:34.
+That is the straight path.) Among those things which 'Isa said to his people while he was in his cradle is that Allah was his Lord and their Lord, and he commanded them to worship Him alone.
 
 ## Tafsir Ibn Kathir
 

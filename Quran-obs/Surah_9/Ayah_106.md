@@ -60,7 +60,7 @@ Some Companions stayed behind from the battle of Tabuk due to laziness, preferri
 
 ## Tafsir Summary
 
-And others are made to await for Allah's Decree, whether He will punish them or will forgive them. Let us now turn to the statement: وَآخَرُ‌ونَ مُرْ‌جَوْنَ لِأَمْرِ‌ اللَّـهِ (And there are others whose matter is deferred till the command of Allah - 106).
+And others are made to await for Allah's Decree, whether He will punish them or will forgive them.
 
 ## Tafsir Ibn Kathir
 

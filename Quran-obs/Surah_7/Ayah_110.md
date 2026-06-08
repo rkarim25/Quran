@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The chiefs of the people of Fir'awn said: "This is indeed a well-versed sorcerer. The Arabic word 'Mala" is used for influential chiefs.
+They feared that he might lure people to his side by his magic, they claimed, and thus prevail over them and drive them away from their land.
 
 ## Tafsir Ibn Kathir
 

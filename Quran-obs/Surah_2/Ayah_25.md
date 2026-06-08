@@ -149,7 +149,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And give glad tidings to those who believe and do righteous good deeds, that for them will be Gardens under which rivers flow (Paradise). Verse 24 spoke of the fire of hell which has been prepared to punish those who do not believe in the Holy Qur'an; the present verse announces the reward for those who believe.
+And give glad tidings to those who believe and do righteous good deeds, that for them will be Gardens under which rivers flow (Paradise). Every time they will be provided with a fruit therefrom, they will say: "This is what we were provided with before," and they will be given things in resemblance (i.e.
 
 ## Tafsir Ibn Kathir
 

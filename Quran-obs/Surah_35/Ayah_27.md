@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-See you not that Allah sends down water from the sky, and We produce therewith fruits of various colors, and among the mountains are Judad, white and red, of varying colors and (others) Gharabib black (27)And likewise, men and moving creature and cattle are of various colors. Some early commentators have said that these verses return to the subject of Tauhid, Oneness of Allah or pure monotheism supported by proofs of Divine power and mastery in nature.
+With regard to fruits the difference of colors is mentioned by an adverbial phrase (translated above as ' having different cobblers', while in the case of mountains, it has been expressed by an adjectival phrase (translated above as ' of different cobblers'.
 
 ## Tafsir Ibn Kathir
 

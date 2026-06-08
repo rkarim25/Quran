@@ -171,7 +171,7 @@ Al-Bara' bin 'Azib said, "This Ayah was revealed when we were in a state of extr
 
 ## Tafsir Summary
 
-Allah has promised those among you who believe and do righteous good deeds, that He will certainly grant them succession in the land, as He granted it to those before them, and that He will grant them the authority to practise their religion which He has chosen for them. Qurtubi has reported on authority of Abul ` Aliyah that the Holy Prophet ﷺ stayed in Makkah for ten years after commencement of revelation and declaration of prophethood, during which time there was a constant fear of the infidels and disbelievers.
+Allah's Promise to the Believers That He Would Grant Them Succession This is a promise from Allah to His Messenger ﷺ that He would cause his Ummah to become successors on earth, i.e., they would become the leaders and rulers of mankind, through whom He would reform the world and to whom people would submit, so that they would have in exchange a safe security after their fear.
 
 ## Tafsir Ibn Kathir
 

@@ -25,7 +25,7 @@ This Surah was revealed in Makkah before the migration to Al-Madinah. The proof 
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-A'la This Surah was revealed in Makkah before the migration to Al-Madinah. سَنُقْرِئُكَ فَلَا تَنسَىٰ ۔ إِلَّا مَا شَاءَ اللَّـهُ (We will make you recite, then you will not forget, except that which Allah wills.
+And then makes it dark stubble.)(6. On this occasion, he is still more plainly told: 'then you will not forget, except that which Allah wills.' While Allah made the Holy Prophet ﷺ remember all of the Qur'an, there were certain verses which Allah made him forget, because they had been abrogated.
 
 ## Tafsir Ibn Kathir
 

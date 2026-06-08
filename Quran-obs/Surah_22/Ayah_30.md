@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-That and whoever honors the sacred things of Allah, then that is better for him with his Lord. حُرُ‌مَاتِ اللَّـهِ (22:30) are the things sanctified by Allah Ta’ ala, that is the religious laws.
+The cattle are lawful to you, except those (that will be) mentioned to you.
 
 ## Tafsir Ibn Kathir
 

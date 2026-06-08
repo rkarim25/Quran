@@ -66,7 +66,7 @@ In the fourth verse (106), the Holy Prophet ﷺ at has been guided to a specific
 
 ## Tafsir Summary
 
-Follow what has been inspired (revealed) to you from your Lord, none has the right to be worshipped but He, and turn aside from the idolators (106)Had Allah willed, they would not have taken others besides Him in worship. In the fourth verse (106), the Holy Prophet ﷺ at has been guided to a specific course of action.
+Follow what has been inspired (revealed) to you from your Lord, none has the right to be worshipped but He, and turn aside from the idolators (106)Had Allah willed, they would not have taken others besides Him in worship. For him, the best course was to keep following the way revealed to him through Wahy from his Rabb, the major element of which is the belief that no one is worthy of worship but Allah.
 
 ## Tafsir Ibn Kathir
 

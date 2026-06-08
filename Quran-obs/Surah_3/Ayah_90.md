@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who disbelieved after their belief and then went on increasing in their disbelief never will their repentance be accepted. On a superficial view of the verse كَيْفَ يَهْدِي اللَّـهُ : 'How shall Allah give guidance...' (86), there emerges a doubt that whoever turns an apostate receives no guidance afterwards, although, the fact is contrary to this.
+this Ayah is that the disbeliever shall never avoid the torment of Allah, even if he spent the earth's fill of gold, or if he ransoms himself with the earth's fill of gold, - all of its mountains, hills, sand, dust, valleys, forests, land and sea.
 
 ## Tafsir Ibn Kathir
 

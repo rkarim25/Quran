@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Harun indeed had said to them beforehand: "O my people! When the Bani Isra'il were smitten with the mischief of calf-worship Sayyidna Harun (علیہ السلام) as the deputy of Sayyidna Musa (علیہ السلام) remonstrated with them but to no avail.
+You are being tried in this, and verily, your Lord is (Allah) the Most Gracious, so follow me and obey my order.
 
 ## Tafsir Ibn Kathir
 

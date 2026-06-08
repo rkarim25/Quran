@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when a Surah is revealed, enjoining them to believe in Allah and to strive hard and fight along with His Messenger, the wealthy among them ask your leave to exempt them and say, "Leave us (behind), we would be with those who sit (at home). The expression: اُولُوا الطَّولِ (ulu 'at-caul: translated as ` the capable ones' ) (86) is not for particularization.
+But when a decisive Surah (explaining and ordering things) is sent down, and fighting is mentioned therein, you will see those in whose hearts is a disease looking at you with a look of one fainting to death.
 
 ## Tafsir Ibn Kathir
 

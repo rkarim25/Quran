@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And He it is Who subjected the sea (to you), that you may eat from the fresh tender meat, and that you bring forth out of it ornaments to wear. In the last verse (16), it was said: وَعَلَامَاتٍ ۚ وَبِالنَّجْمِ هُمْ يَهْتَدُونَ 'And (He created) signs.
+And you see the ships plowing through it, that you may seek from His bounty and that you may perhaps be grateful (14)And He has driven firm standing mountains into the earth, lest it should shake with you; and rivers and roads, that you may guide yourselve (15)And (by the) landmarks; and by the stars, they guide themselves (16)Is then He Who creates the same as one who creates, not Will you not then reflect (17)And if you would try to count the favors of Allah, you would neve…
 
 ## Tafsir Ibn Kathir
 

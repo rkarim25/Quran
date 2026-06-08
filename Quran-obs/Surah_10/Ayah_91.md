@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We took the Children of Israel across the sea, and Fir'awn with his hosts followed them in oppression and enmity, till when drowning overtook him, he (Fira'wn) said: "I believe that none has the right to be worshipped but He in Whom the Children of Israel believe, and I am one of the Muslims. The answer to this appearing in the fifth verse (91) came from Allah Almighty Himself.
+Therefore, nothing done at that time is acceptable, neither belief, nor disbelief.
 
 ## Tafsir Ibn Kathir
 

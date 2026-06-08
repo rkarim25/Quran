@@ -23,7 +23,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then he cast a glance at the stars (88)And he said: "Verily, I am sick. In verses 88 and 89, it was said: نَظَرَ‌ نَظْرَ‌ةً فِي النُّجُومِ فَقَالَ إِنِّي سَقِيمٌ.
+But, what actually happens is that people who pursue this field of knowledge end up giving it status of a science that is absolute and certain.
 
 ## Tafsir Ibn Kathir
 

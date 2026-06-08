@@ -104,7 +104,7 @@ Imam Ahmad recorded that Anas bin Malik said, "When this Ayah was revealed,
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. لَا تَرْ‌فَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ do not raise your voices above the voice of the Prophet ﷺ .
+The verse warns that neglecting this etiquette may entail nullification of one's virtuous deeds, because this is a kind of disrespect to the Holy Prophet ﷺ .
 
 ## Tafsir Ibn Kathir
 

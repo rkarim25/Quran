@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "My Lord! And say, ` 0 my Lord, I seek your refuge from the strokes of the Shaitan, and I seek Your refuge from that they come to me.' (23:97, 98) The word هَمَز (the infinitive of هَمَزَاتِ Hamazat translated above as 'strokes' ) means "to push, to press" and sometimes is also used to mean "to make a call from behind".
+I seek refuge with You from the whisperings of the Shayatin.
 
 ## Tafsir Ibn Kathir
 

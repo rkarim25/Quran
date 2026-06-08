@@ -45,7 +45,7 @@ Ibn Sirin said, "If a man among you takes something from you, then you should ta
 
 ## Tafsir Summary
 
-And if you punish them, then punish them with the like of that with which you were afflicted. After that, once again in the last verse (128), a universal formula of having the help of Allah Ta’ ala by one's side was announced.
+And do not grieve over them, and do not be distressed by their plots (127)Truly, Allah is with those who have Taqwa, and the doers of good .
 
 ## Tafsir Ibn Kathir
 

@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"O my sons! Verse 87 begins with the order given by Sayyidna Ya` qub (علیہ السلام) : بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِن يُوسُفَ وَأَخِيهِ (0 my sons, go and search for Yusuf and his brother ...).
+Therefore, this time, he instructed his sons to go to Egypt once again for the purpose of this search. Go you and inquire about Yusuf and his brother, and never give up hope of Allah's mercy.
 
 ## Tafsir Ibn Kathir
 

@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We have created man, and We know what his self whispers to him. The Two Recording Angels with every Man إِذْ يَتَلَقَّى الْمُتَلَقِّيَانِ (when the two receiving angels receive (every human act to record it - 50:17) In the phrase idh yatalaqq al-mutalaqqiyani, (when the two receiving angels receive) the verb yatalaqqa is aorist from the infinitive talaqqi which denotes to take, to accept, to receive, to learn as in the verse فَتَلَقَّىٰ آدَمُ مِن رَّ‌بِّهِ كَلِمَاتٍ " Thereafter 'Adam received a few words from his Lord (2:37) ".
+The word qa` id is used in the verse to describe the two angels, because they accompany human beings all the time and in every state - whether sitting or standing, whether moving or sleeping. 50:17) means that the angel sitting on the right records one's good actions, and that on the left, his bad actions.
 
 ## Tafsir Ibn Kathir
 

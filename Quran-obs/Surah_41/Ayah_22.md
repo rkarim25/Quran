@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) the Day that the enemies of Allah will be gathered to the Fire, then they will be driven (19)Till, when they reach it, their hearing (ears) and their eyes and their skins will testify against them as to what they used to do (20)And they will say to their skins, "Why do you testify against us?" They will say: "Allah has caused us to speak - as He causes all things to speak, and He created you the first time, and to Him you are made to return.
+When it is known that our ears, eyes, hands, feet, skin and hair are not ours, rather they are witnesses of the state against us, and when they would be questioned about our deeds, they would give true evidence, then there is no way to hide the commitment of a crime or a sin.
 
 ## Tafsir Ibn Kathir
 

@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So if you turn away, still I have conveyed the Message with which I was sent to you. After that, the next eight verses (61-68) carry the story of Sayyidna Salih peace be upon him.
+There is no difference between any one of them, in the sense that it is necessary to believe in all of them.
 
 ## Tafsir Ibn Kathir
 

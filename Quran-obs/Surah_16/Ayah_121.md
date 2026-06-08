@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, Ibrahim was (himself) an Ummah, obedient to Allah, a Hanif (monotheist), and he was not one of the idolators (120)(He was) thankful for His favors. Refuted in the previous verses was the root of Shirk and Kufr which is rejection of the reality of Allah's Oneness and the rejection of the mandate given by Him to His prophet.
+And in the second verse (121), by saying that he was grateful to Allah and was on the straight path, a warning signal was given to his adversaries who claimed to be his followers - how could they, being as ungrateful as they were, had the cheek to call themselves his adherents and followers?
 
 ## Tafsir Ibn Kathir
 

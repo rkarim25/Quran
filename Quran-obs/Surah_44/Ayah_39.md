@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This World was created for a Wisdom Here Allah tells us of His justice, and that He is far above mere play, folly and falsehood. مَا خَلَقْنَاهُمَا إِلَّا بِالْحَقِّ وَلَـٰكِنَّ أَكْثَرَ‌هُمْ لَا يَعْلَمُونَ "We did not create them but with true purpose, yet most of them do not know.
+The heavens and the earth and everything created in them manifest many realities. Obviously, the Supreme Creator Who drew out such huge bodies from the realm of non-existence into the realm of existence surely has the power to destroy them and re-create them; (3) the need for retribution (reward/punishment).
 
 ## Tafsir Ibn Kathir
 

@@ -22,7 +22,7 @@ And We revealed to Musa, saying: "Depart by night with My servants, verily, you 
 
 ## Tafsir Summary
 
-And We revealed to Musa, saying: "Depart by night with My servants, verily, you will be pursued. When the Pharaoh threatened the magicians to kill them, and to cut their limbs and to crucify them, the magicians replied rather indifferently, the gist of their reply was, ` You do whatever you can.
+Many incidents of similar nature have also occurred with our Holy Prophet ﷺ .
 
 ## Tafsir Ibn Kathir
 

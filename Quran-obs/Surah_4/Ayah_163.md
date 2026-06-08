@@ -118,7 +118,7 @@ Zabur is the name of the Book revealed to David, Biblically known as the Psalms.
 
 ## Tafsir Summary
 
-Verily, We have sent the revelation to you as We sent the revelation to Nuh and the Prophets after him; We (also) sent the revelation to Ibrahim, Isma'il, Ishaq, Ya'qub, and Al-Asbat, (the offspring of the twelve sons of… Abraham, Ishmael, Issac, Israel, Jesus, Job, Jonah, Aaron, Solomon and David.
+Keeping this in view, it is necessary that they keep to the line of argument they use in favour of these great prophets, that is, they accept them on the basis of their miracles.
 
 ## Tafsir Ibn Kathir
 

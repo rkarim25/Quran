@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O 'Aziz! In verse 78, it was said: قَالُوا يَا أَيُّهَا الْعَزِيزُ إِنَّ لَهُ أَبًا شَيْخًا كَبِيرً‌ا فَخُذْ أَحَدَنَا مَكَانَهُ ۖ إِنَّا نَرَ‌اكَ مِنَ الْمُحْسِنِين .
+Verily, he has an old father (who will grieve for him); so take one of us in his place. Therefore, they requested him that he should detain anyone from among them, in lieu of him.
 
 ## Tafsir Ibn Kathir
 

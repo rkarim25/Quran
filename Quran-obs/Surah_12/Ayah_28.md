@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So they raced with one another to the door, and she tore his shirt from the back. In the last two (28 29) of the verses cited above, it has been stated that the ` Aziz of Misr had already realized by having heard the child speak in the manner he did that some special supernatural situation was there to demonstrate the innocence of Sayyidna Yusuf (علیہ السلام) .
+Then he said that great is the guile of women for it is difficult to understand and not easy to get out from.
 
 ## Tafsir Ibn Kathir
 

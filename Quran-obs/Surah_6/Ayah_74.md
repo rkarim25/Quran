@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Ibrahim said to his father Azar: "Do you take idols as gods? Previous verses contained a description of the call given by the Holy Prophet ﷺ in which he addressed the disbelievers of Arabia and appealed to them that they should forsake the worship of idols and believe in a single object of worship: Allah.
+Since calling an uncle as father is common in Arab usage, 'Azar has been named here as Sayyidna Ibrahim's father.
 
 ## Tafsir Ibn Kathir
 

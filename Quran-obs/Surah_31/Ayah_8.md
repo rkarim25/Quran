@@ -46,7 +46,7 @@ The verse of the Qur'an being referred to here was revealed in relation to this 
 
 ## Tafsir Summary
 
-Verily, those who believe and do righteous good deeds, for them are Gardens of Delight (8)To abide therein. The word: اشتراء (ishtira) in: وَمِنَ النَّاسِ مَن يَشْتَرِ‌ي لَهْوَ الْحَدِيثِ (And from among the people who buys the distracting amusement of things - 31:6) literally means 'to buy.' And on occasions, the same word is used in the sense of 'doing an act instead of another' - as in: أُولَـٰئِكَ الَّذِينَ اشْتَرَ‌وُا الضَّلَالَةَ بِالْهُدَىٰ are the people who have bought error at the rice of guidance - 2:16, 2:175 and in some other verses.
+And as for those who disbelieve, there is heaviness (deafness) in their ears, and it is blindness for them)(41:44).
 
 ## Tafsir Ibn Kathir
 

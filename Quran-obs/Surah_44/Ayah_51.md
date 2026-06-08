@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who have Taqwa, will be in place of security (51)Among Gardens and Springs (52)Dressed in Sundus and Istabraq, facing each other (53)So (it will be). Reward of the Inmates of Paradise إِنَّ الْمُتَّقِينَ فِي مَقَامٍ أَمِينٍ (Indeed the God-fearing will be in a place free from fear, - 44:51).
+The State of Those Who have Taqwa and the Delights.They will enjoy in Paradise When Allah describes the state of the doomed, He follows that with a description of the life of the blessed. The current set of verses describes the eternal blessings of Paradise.
 
 ## Tafsir Ibn Kathir
 

@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Among other perversities, some of the Jews invented a new mischief.
+And for the disbelievers there is a painful torment (104)Neither those who disbelieve among the People of the Scripture (Jews and Christians) nor Al-Mushrikin (the idolaters) like that there should be sent down unto you any good from your Lord.
 
 ## Tafsir Ibn Kathir
 

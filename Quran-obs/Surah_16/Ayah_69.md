@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And your Lord inspired the bee, saying: "Take you habitations in the mountains and in the trees and in what they (humans) erect. The second instruction appears in: ثُمَّ كُلِي مِن كُلِّ الثَّمَرَ‌اتِ (Then, eat from all the fruits) where the bee is being commanded to suck juices from fruits and flowers as it desires and likes.
+Then Allah decrees that the bee will have permission to eat from all fruits and to follow the ways which Allah has made easy for it, wherever it wants to go in the vast spaces of the wilderness, valleys and high mountains. Allah Ta’ ala has made for it flying routes in the air because in going by the circuitous pathways on land, there is the likelihood of going astray.
 
 ## Tafsir Ibn Kathir
 

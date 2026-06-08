@@ -83,7 +83,7 @@ This also shows that there is in fact no inconsistency between the two interpret
 
 ## Tafsir Summary
 
-For every nation We have made Mansak which they must follow; so let them not dispute with you on the matter, but invite them to your Lord. لِّكُلِّ أُمَّةٍ جَعَلْنَا مَنسَكًا (For every ummah (religious community) We have appointed a way of worship - 22:67).
+For every nation We have made Mansak which they must follow; so let them not dispute with you on the matter, but invite them to your Lord. Surely, you are on straight Guidance - 22:67) in which the Holy Prophet ﷺ has been advised not to take any notice of the machinations and disputes raised by the infidels but to continue with his mission, because he was following the path of righteousness whereas his opponents were steeped in error.
 
 ## Tafsir Ibn Kathir
 

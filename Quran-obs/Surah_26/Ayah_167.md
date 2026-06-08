@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Go you in unto the males of Al-'Alamin (people), (165)"And leave those whom Allah has created for you to be your wives? Unnatural act is unlawful even with one's own wife And leave what your Lord has created for you, that is, your wives?
+"Go you in unto the males of Al-'Alamin (people), (165)"And leave those whom Allah has created for you to be your wives?
 
 ## Tafsir Ibn Kathir
 

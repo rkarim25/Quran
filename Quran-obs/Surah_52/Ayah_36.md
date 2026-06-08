@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or were they created by nothing? The Believing Children of the Righteous will benefit from their relationship with their Believing Parents in Paradise وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّ‌يَّتُهُم بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّ‌يَّتَهُمْ (And those who believed and their children followed them in belief, We will join their children with them,...
+Nay, but they have no firm belief.) meaning, Allah is censuring the idolators for their idolatry, while asking them if they created the heavens and earth.
 
 ## Tafsir Ibn Kathir
 

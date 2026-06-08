@@ -95,7 +95,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And for every nation We have appointed religious ceremonies, that they may mention the Name of Allah over the beast of cattle that He has given them for food. وَلِكُلِّ أُمَّةٍ جَعَلْنَا مَنسَكًا (And for every Ummah We prescribed the act of sacrifice 22:34) The words مَنسَكً and نسَكً means several things in Arabic such as sacrifice of animals, the rites of pilgrimage, and also worship of Allah Ta’ ala.
+And for every nation We have appointed religious ceremonies, that they may mention the Name of Allah over the beast of cattle that He has given them for food. Rites of Sacrifice have been prescribed for every Nation in the World Allah tells us that sacrifice and shedding blood in the Name of Allah has been prescribed for all nations.
 
 ## Tafsir Ibn Kathir
 

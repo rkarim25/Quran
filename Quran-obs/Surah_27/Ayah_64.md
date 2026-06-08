@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Is not He Who originates creation, and shall thereafter repeat it, and Who provides for you from heaven and earth? Say, "No one in the heavens and the earth has the knowledge of Unseen except Allah." - 27:65 The Holy Prophet ﷺ was instructed to tell people that all the creatures that live in the heavens, like angels, and all the creatures that live in this world, like humans and jinns, none of them have any knowledge of the unseen (ghayb) except Allah.
+Is not He Who originates creation, and shall thereafter repeat it, and Who provides for you from heaven and earth?
 
 ## Tafsir Ibn Kathir
 

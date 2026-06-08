@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those who fulfill, the covenant of Allah and break not the trust (20)And those who join that which Allah has commanded to be joined and fear their Lord, and dread the terrible reckoning (21)And those who remain patient,… After that, the text states the additional honour they shall have in their 'ultimate abode' of the Hereafter when the angels emerge from each of its doors greeting them with Salam and telling them that their Sabr brings to them eternal security from all hardships and that they can themselves see how good is the ultimate abode of the 'Akhirah.
+Excellent indeed is the final home!
 
 ## Tafsir Ibn Kathir
 

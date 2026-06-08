@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed, We destroyed generations before you when they did wrong, while their Messengers came to them with clear proofs, but they were not such as to believe! In verse 14, it was said: ثُمَّ جَعَلْنَاكُمْ خَلَائِفَ فِي الْأَرْ‌ضِ مِن بَعْدِهِمْ لِنَنظُرَ‌ كَيْفَ تَعْمَلُونَ ﴿14﴾ (Then We made you vice-regents on the earth, in order to see how you would act), that is, ` after the destruction of past peoples, We made you successors to them giving you the vice-regency of the earth.
+Thus do We requite the people who are criminals (13)Then We made you successors after them, generations after generations in the land, that We might see how you would work . Allah then made this nation successors after them.
 
 ## Tafsir Ibn Kathir
 

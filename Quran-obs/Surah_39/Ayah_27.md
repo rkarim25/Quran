@@ -58,7 +58,7 @@ Ibn Abi Hatim recorded that Sa'id bin Jubayr said that Ibn 'Umar, may Allah be p
 
 ## Tafsir Summary
 
-And indeed We have put forth for men, in this Qur'an every kind of parable in order that they may remember (27)An Arabic Qur'an, without any crookedness (therein) in order that they may have Taqwa of Him (28)Allah puts forth a parable: a man belonging to many partners disputing with one another, and a man belonging entirely to one master. Verse أَفَمَن يَتَّقِي بِوَجْهِهِ (Tell Me about the one who tries to save himself from the worst punishment with his face ...) carries a description of the terrifying scenario of Jahannam.
+And indeed We have put forth for men, in this Qur'an every kind of parable in order that they may remember (27)An Arabic Qur'an, without any crookedness (therein) in order that they may have Taqwa of Him (28)Allah puts forth a parable: a man belonging to many partners disputing with one another, and a man belonging entirely to one master.
 
 ## Tafsir Ibn Kathir
 

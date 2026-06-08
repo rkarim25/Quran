@@ -128,7 +128,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they worship besides Allah things that harm them not, nor profit them, and they say: These are our intercessors with Allah." Say: Do you inform Allah of that which He knows not in the heavens and on the earth?" Glori… The last verse (17) emphasizes the subject conclusively by warning that attributing any statement to Allah Ta` ala that was not His Word, or denying what actually was, were crimes deserving severe punishment.
+And they worship besides Allah things that harm them not, nor profit them, and they say: These are our intercessors with Allah." Say: Do you inform Allah of that which He knows not in the heavens and on the earth?" Glorified and Exalted is He above all that which they associate as partners (with Him)(18)Mankind were but one community, then they differed (later); and had not it been for a Word that went forth before from your Lord, it would have been settled between them regar…
 
 ## Tafsir Ibn Kathir
 

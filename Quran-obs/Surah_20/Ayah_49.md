@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Fir'awn said: "Who then, O Musa, is the Lord of you two (49)[Musa] said: "Our Lord is He Who gave to each thing its form and nature, then guided it aright. Allah said,إِنَّنِي مَعَكُمَا أَسْمَعُ وَأَرَ‌ىٰ "I am surely with you both.
+Fir'awn said: "Who then, O Musa, is the Lord of you two (49)[Musa] said: "Our Lord is He Who gave to each thing its form and nature, then guided it aright.
 
 ## Tafsir Ibn Kathir
 

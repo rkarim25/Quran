@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, the worst of living creatures before Allah are those who disbelieve, – so they shall not believe (55)They are those with whom you made a covenant, but they break their covenant every time and they do not have Taq… (those from whom you have taken a pledge, then they break their pledge each time, and they do not fear Allah) is about the Jews of Madinah and those of Banu Qurayzah and Banu Nadir.
+Verily, the worst of living creatures before Allah are those who disbelieve, – so they shall not believe (55)They are those with whom you made a covenant, but they break their covenant every time and they do not have Taqwa (56)So if you gain the mastery over them in war, then disperse those who are behind them, so that they may learn a lesson .
 
 ## Tafsir Ibn Kathir
 

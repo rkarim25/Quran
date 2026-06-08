@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Although the previous sentence has referred to faith and righteous deeds which includes faith in the messenger-ship of the Holy Prophet Muhammad ﷺ and the revelation that was sent down to him, this sentence specifies explicitly the fact that the actual basis of faith is to embrace all the teachings of the Last Holy Prophet ﷺ .
+This also has the same implication, that is, corrected all their works, because correction of works is a logical result of improvement of heart, both being necessary to each other.
 
 ## Tafsir Ibn Kathir
 

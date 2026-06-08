@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Prostration of Recitation in Surat Al-Inshiqaq It is reported from Abu Salamah that while leading them in prayer, Abu Hurayrah recited, The present Surah depicts the conditions that will prevail on the Day of Judgment, such as reckoning and accountability, reward of good and torment of evil.
+When the heaven is split asunder,)(2. Live how you wish, for verily you will die; love what you wish, for verily you will part with it; and do what you wish, for verily you will meet it (your deed).) There are some people who refer the pronoun back to the statement "your Lord." Thus, they hold the Ayah to mean, "and you will meet your Lord." This means that He will reward you for your work, and pay you for your efforts.
 
 ## Tafsir Ibn Kathir
 

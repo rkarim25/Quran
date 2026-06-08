@@ -61,7 +61,7 @@ Sayyidna ` Abdullah ibn ` Abbas ؓ ، said that no verse revealed to the Holy Pr
 
 ## Tafsir Summary
 
-So stand (ask Allah to make) you firm and straight as you are commanded and those who turn in repentance with you, and transgress not. Events relating to past prophets and their peoples, from Sayyidna Nuh (علیہ السلام) to Sayyidna Musa, have been mentioned in Surah Hud in a fair enough order and detail with many wise counsels, injunctions and directives.
+So stand (ask Allah to make) you firm and straight as you are commanded and those who turn in repentance with you, and transgress not.
 
 ## Tafsir Ibn Kathir
 

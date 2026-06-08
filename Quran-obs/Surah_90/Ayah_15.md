@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. (Yet he did not make his way through the steep course.
+If an orphan is not a close relative or family member, but he is so poor as to be wallowing in dust, spending on him will yield a greater reward.
 
 ## Tafsir Ibn Kathir
 

@@ -118,7 +118,7 @@ As already explained briefly in the opening remarks, the verse 191, that is, و�
 
 ## Tafsir Summary
 
-And fight in the way of Allah those who fight you, but transgress not the limits. As already explained briefly in the opening remarks, the verse 191, that is, وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ وَأَخْرِ‌جُوهُم (And kill them; wherever you find them and drive them out from where they drove you out..…
+Whoever entered the (Sacred) Mosque is safe.
 
 ## Tafsir Ibn Kathir
 

@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O our father! Permissibility of a trip for pleasure In this verse, the permission sought from Sayyidna Ya` qub (علیہ السلام) is to go for an outing and have the freedom to enjoy eating and playing together.
+From here we find out that going out to enjoy and play is allowed under permissible limits.
 
 ## Tafsir Ibn Kathir
 

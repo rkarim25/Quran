@@ -24,7 +24,7 @@ The third attribute is Zakah which, literally means "to purify" but in religious
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Success is really attained by the believers - 23:1.
+The word signifies the attainment of all desires as well as protection from all misfortunes. The third attribute is Zakah which, literally means "to purify" but in religious terminology it means giving in charity a portion of one's wealth subject to certain prescribed conditions and the word has been generally used in the Qur'an in this sense.
 
 ## Tafsir Ibn Kathir
 

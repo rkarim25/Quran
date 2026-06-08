@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Denied before them the people of Nuh, and the Dwellers of Rass, and Thamud (12)And 'Ad, and Fir'awn, and the brethren of Lut (13)And the Dwellers of Al-Aykah, and the people of Tubba'. The nation of ` Ad was proverbial in their size, physical strength and power as well as the strength that came to them in the wake of their children.
+Therefore, all those who fear suffering the same end should be warned, especially since the latter have denied their Messenger, just as the former denied their Messenger.
 
 ## Tafsir Ibn Kathir
 

@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He created man from sounding clay like the clay of pottery (14)And the Jinn He created from a smokeless flame of fire (15)Then which of the blessings of your Lord will you both deny (16)The Lord of the two easts and the… وَلَهُ الْجَوَارِ‌ الْمُنشَآتُ فِي الْبَحْرِ‌ كَالْأَعْلَامِ (And His are the sailing ships raised up in the sea like mountains...55:24).
+The verse describes the wisdom of making the ship and its running on the surface of the water.
 
 ## Tafsir Ibn Kathir
 

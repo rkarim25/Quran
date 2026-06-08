@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) Zakariyya, when he cried to his Lord: "O My Lord! يَدْعُونَنَا رَ‌غَبًا وَرَ‌هَبًا (and call Us with hope and fear - 21:90).
+Verily, they used to hasten on to do good deeds, and they used to call on Us with hope and fear, and they were Khashi'in before Us .
 
 ## Tafsir Ibn Kathir
 

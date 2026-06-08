@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Who is it besides the Most Gracious that can be an army to you to help you? قُلْ هُوَ الَّذِي أَنشَأَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ‌ وَالْأَفْئِدَةَ ۖ قَلِيلًا مَّا تَشْكُرُ‌ونَ (Say, "He is the One who has originated you, and made for you the ears and the eyes and the hearts.
+Of the two organs, his sense of hearing is mentioned first, because a careful analysis shows that most of the information gathered in human life is through hearing, not so much by seeing.
 
 ## Tafsir Ibn Kathir
 

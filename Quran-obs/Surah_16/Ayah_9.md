@@ -49,7 +49,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And it is up to Allah to show the right way. Presented in the previous verses was a description of the great blessings of Allah Ta` ala as rational proof of His Oneness.
+After that it was said that Allah Ta’ ala, if He had so willed, would have made all of them to (compulsively) be on the right path.
 
 ## Tafsir Ibn Kathir
 

@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Behold! In the verses cited above, particular merits, definition and identity of the Auliya' of Allah have been mentioned.
+Therefore, the degree of their Wilayah was higher than that of all Auliya' and aqtab (plural of qutb, literally axis, meaning a man of Allah who stays at one place, as in Sufi orders).
 
 ## Tafsir Ibn Kathir
 

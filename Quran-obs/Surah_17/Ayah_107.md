@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Believe in it or do not believe (in it). The first verse (101): وَلَقَدْ آتَيْنَا مُوسَىٰ تِسْعَ آيَاتٍ mentions the bestowal of nine clear signs on Sayyidna Musa (علیہ السلام) .
+Verily, those who were given knowledge before it, when it is recited to them, fall down on their chins (faces) in humble prostration.
 
 ## Tafsir Ibn Kathir
 

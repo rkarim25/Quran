@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Fir'awn said: "Bring me every well-versed sorcerer (79)And when the sorcerers came, Musa said to them: "Cast down what you want to cast! It was said in the last verse (64) that, for the friends of Allah, there is the good news in the worldly life and in the Hereafter.
+And Fir'awn said: "Bring me every well-versed sorcerer (79)And when the sorcerers came, Musa said to them: "Cast down what you want to cast! The result was the exact opposite and he therefore didn't attain his goal.
 
 ## Tafsir Ibn Kathir
 

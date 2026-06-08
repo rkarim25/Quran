@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who worshipped others with Allah said: "If Allah had so willed, neither we nor our fathers would have worshipped any but Him nor would we have forbidden anything without (a command from) Him." Those before them did the same. From verse 36 in the present Surah: وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّ‌سُولًا (And We did raise a messenger among every people), as well as from verse 24 of Surah Fatir: وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِ…
+So travel through the land and see the end of those who denied (the truth)(36)(Even) if you desire that they be guided, then verily, Allah does not guide those whom He allowed to stray, and they will have no helpers .
 
 ## Tafsir Ibn Kathir
 

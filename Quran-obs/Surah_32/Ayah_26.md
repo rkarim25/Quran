@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Is it not a guidance for them: how many generations We have destroyed before them in whose dwellings they do walk about? Two conditions for the leader of any people (And We appointed leaders from among them who guided (people) under Our command, when they observed patience, and kept firm belief in Our verses).
+Is it not a guidance for them: how many generations We have destroyed before them in whose dwellings they do walk about?
 
 ## Tafsir Ibn Kathir
 

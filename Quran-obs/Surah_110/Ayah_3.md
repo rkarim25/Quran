@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat An-Nasr It has been mentioned previously that it (Surat An-Nasr) is equivalent to one-fourth of the Qur'an and that Surat Az-Zalzalah is equivalent to one-fourth of the Qur'an. When the approach of death is sensed, one needs to exert oneself immensely in Tasbih and Istighfar Verse [ 110:3] فَسَبِّحْ بِحَمْدِ رَ‌بِّكَ وَاسْتَغْفِرْ‌هُ (then pronounce the purity and praise of your Lord, and seek…
+So, glorify the praises of your Lord, and ask His forgiveness.
 
 ## Tafsir Ibn Kathir
 

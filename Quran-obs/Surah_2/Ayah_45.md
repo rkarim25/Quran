@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And seek help in patience and As-Salat (the prayer) and truly, it is extremely heavy and hard except for Al-Khashi'in.) (46 (They are those) who are certain that they are going to meet their Lord, and that unto Him they… Khushu` خشوع : The Humbleness of Heart Verse 45 speaks of the humble in heart.
+Al-Qurtubi and other scholars commented, "This is why Ramadan is called the month of patience," as is mentioned in the Hadith literature.
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when he came to it (the fire), he was called by name: "O Musa! إِنَّنِي أَنَا اللَّـهُ لَا إِلَـٰهَ إِلَّا أَنَا فَاعْبُدْنِي وَأَقِمِ الصَّلَاةَ لِذِكْرِ‌ي (Surely I am ALLAH.
+There is no God but Me, so worship Me, and perform Salah for My remembrance.
 
 ## Tafsir Ibn Kathir
 

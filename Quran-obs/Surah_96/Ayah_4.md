@@ -24,7 +24,7 @@ As stated earlier, these five verses of this Surah represent the very beginning 
 
 ## Tafsir Summary
 
-This was the First of the Qur'an revealed In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 4] الَّذِي عَلَّمَ بِالْقَلَمِ (Who imparted knowledge by means of the Pen.) The preceding verse spoke of the creation of man.
+And your Lord is the Most Generous.)(4. Therefore, the verse says that Allah taught man things with which he was unacquainted previously.
 
 ## Tafsir Ibn Kathir
 

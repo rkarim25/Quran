@@ -124,7 +124,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He merges the night into the day, and He merges the day into the night. In the next verse: وَمِن كُلٍّ تَأْكُلُونَ لَحْمًا طَرِ‌يًّا وَتَسْتَخْرِ‌جُونَ حِلْيَةً تَلْبَسُونَهَا (And from each, you eat fresh meat, and derive ornaments that you wear - 35:12), it is being said that one gets fresh meat, that is, fish to eat from both waters, sweet or brackish.
+Such is Allah, your Lord; His is the kingdom.
 
 ## Tafsir Ibn Kathir
 

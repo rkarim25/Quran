@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَأَنتَ حِلٌّ بِهَـٰذَا الْبَلَدِ (and [ 0 Holy Prophet,] you are going to be allowed to fight in this city....90:2).
+From this point of view, hillun could signify one of two things: One that the pagans of Makkah consider it lawful to do the Holy Prophet ﷺ any harm, even to kill him, in this City of Makkah which is so sacred that the doing of harm to a living creature in its precincts, not to say of killing it or hunting it, is strictly forbidden even according to their own belief system.
 
 ## Tafsir Ibn Kathir
 

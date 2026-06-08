@@ -121,7 +121,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-On the Day you shall see the believing men and the believing women – their light running forward before them and in their right hands. يَوْمَ يَقُولُ الْمُنَافِقُونَ وَالْمُنَافِقَاتُ لِلَّذِينَ آمَنُوا انظُرُ‌ونَا نَقْتَبِسْ مِن نُّورِ‌كُمْ (...the Day when the hypocrite men and hypocrite women will say to those who believe, "Wait for us, so that we may have a share from your light...(57:13) The meaning is self-evident.
+Special Note In the matter of light, the infidels are not mentioned anywhere, because in their case there is no question of having such a light.
 
 ## Tafsir Ibn Kathir
 

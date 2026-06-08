@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And an Ayah for them is that We bore their offspring in the laden ship (41)And We have created for them of the like thereunto, on which they ride (42)And if We will, We shall drown them, and there will be no shout for th… In verse 41 and 42, it was said: وَآيَةٌ لَّهُمْ أَنَّا حَمَلْنَا ذُرِّ‌يَّتَهُمْ فِي الْفُلْكِ الْمَشْحُونِ وَخَلَقْنَا لَهُم مِّن مِّثْلِهِ مَا يَرْ‌كَبُونَ (And a sign for them is that We boarded their children at the loaded ship, and created for them things similar to it on which they ride.).
+And an Ayah for them is that We bore their offspring in the laden ship (41)And We have created for them of the like thereunto, on which they ride (42)And if We will, We shall drown them, and there will be no shout for them, nor will they be saved (43)Unless it be a mercy from Us, and as an enjoyment for a while .
 
 ## Tafsir Ibn Kathir
 

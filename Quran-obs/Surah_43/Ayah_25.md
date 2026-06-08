@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or have We given them any Book before this (the Qur'an) to which they are holding fast (21)Nay! أَوَمَن يُنَشَّأُ فِي الْحِلْيَةِ (Is it that (Allah has chosen) those (as His offspring) who are grown up in ornaments,...
+Therefore, if it comes to argumentation, it is difficult for them to prove their own contention and to refute the other's arguments in a clear manner. The Idolators have no Proof Allah condemns the idolators for worshipping others instead of Allah with no evidence or proof for doing so.
 
 ## Tafsir Ibn Kathir
 

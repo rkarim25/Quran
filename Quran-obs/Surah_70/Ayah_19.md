@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, man was created very impatient (19)Apprehensive when evil touches him (20)And suppressive when good touches him (21)Except those who are devoted to Salah (22)Those who with their Salah are Da'imun (23)And those i… إِنَّ الْإِنسَانَ خُلِقَ هَلُوعًا (Indeed man is created weak in courage...70:19).
+If it is objected that, according to this verse of the Holy Qur'an, man is created weak in courage, in other words, it is man's nature or his natural weakness, to be impatient, greedy and miserly - then it is not his fault, and why is he declared 'guilty'?
 
 ## Tafsir Ibn Kathir
 

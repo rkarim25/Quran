@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-On the Day you shall see the believing men and the believing women – their light running forward before them and in their right hands. يَوْمَ يَقُولُ الْمُنَافِقُونَ وَالْمُنَافِقَاتُ لِلَّذِينَ آمَنُوا انظُرُ‌ونَا نَقْتَبِسْ مِن نُّورِ‌كُمْ (...the Day when the hypocrite men and hypocrite women will say to those who believe, "Wait for us, so that we may have a share from your light...(57:13) The meaning is self-evident.
+They remained deceived until Allah cast them into Hellfire." The meaning here is that the believers will answer the hypocrites by saying, "You were with us in bodies which were heartless and devoid of intentions. Having received the reply from either the believers or the angels, the hypocrites will return to the place where the light was distributed.
 
 ## Tafsir Ibn Kathir
 

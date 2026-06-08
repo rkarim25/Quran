@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And what made you hasten from your people, O Musa (83)He said: "They are close on my footsteps, and I hastened to You, O my Lord, that You might be pleased. فَأَخْرَ‌جَ لَهُمْ عِجْلًا جَسَدًا لَّهُ خُوَارٌ‌ (So he brought forth for them a calf, a body with a lowing sound.
+The word for sorrow used here is Asif, which is used to emphasize to the severity of his anger. Thus, it became a calf that made a moaning sound that would gradually rise in pitch.
 
 ## Tafsir Ibn Kathir
 

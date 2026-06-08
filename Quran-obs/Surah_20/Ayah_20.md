@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And what is that in your right hand, O Musa? فَإِذَا هِيَ حَيَّةٌ تَسْعَىٰ (And suddenly it was a snake running - 20:20): When Sayyidna Musa علیہ السلام in obedience to the command of Allah Ta` ala, cast down his staff it turned into a serpent.
+In other words, that which is in your right hand is a stick that you are familiar with. It was a snake, moving quickly.) This means that the stick changed into a huge snake, like a long python, and it moved with rapid movements.
 
 ## Tafsir Ibn Kathir
 

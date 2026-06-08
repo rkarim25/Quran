@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "None in the heavens and the earth knows the Unseen except Allah, nor can they perceive when they shall be resurrected. Rather, their knowledge failed in the matter of Hereafter.
+It is enough to understand here that some commentators have taken it to mean "completion" and have explained the verse thus: "Their knowledge and understanding will be completed in the Hereafter", because then the truth about every thing shall be laid bare. But knowledge of truth at that time will be of no avail, because they had been contradicting the Hereafter in the world.
 
 ## Tafsir Ibn Kathir
 

@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They will say: "Woe to us! After that, a command will go forth to angels: فَاهْدُوهُمْ إِلَىٰ صِرَ‌اطِ الْجَحِيمِ (and show them the way to Jahannam - 37:23).
+When the angels will take them away, and reach close to the Bridge of Sirat, they will be commanded: YP (make them stop - they are to be questioned - 37:24).
 
 ## Tafsir Ibn Kathir
 

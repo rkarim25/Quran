@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So they could not scale it or dig through it (97)He said: "This is a mercy from my Lord, but when the promise of my Lord comes, He shall Dakka' it down to the ground. The Identity of Ya'juj Ma'juj and the Location of the Wall of Dhul-Qarnain A lot of absurd and strange things disseminated through Isra'ili narratives and historical stories have found currency to the extent that some commentators have also reported them in terms of their historical status, though they themselves do not find them trustworthy.
+And the promise of my Lord is ever true (98)And on that Day, We shall leave some of them to surge like waves on one another; and the Trumpet will be blown, and We shall collect them (the creatures) all together .
 
 ## Tafsir Ibn Kathir
 

@@ -36,7 +36,7 @@ And these Ayat have only been mentioned in Surat An-Najm, which was revealed aft
 
 ## Tafsir Summary
 
-But nay! إِنَّهُ لَقَوْلُ رَ‌سُولٍ كَرِ‌يمٍ ذِي قُوَّةٍ عِندَ ذِي الْعَرْ‌شِ مَكِينٍ (it [ the Qur'an ] is surely the word of a noble messenger [ Jibra'il ], the one possessing power and a high status with the Lord of the Throne...81:19-20).
+The second quality is that he has high status and lofty rank with Allah, and he is obeyed in the upper realm.
 
 ## Tafsir Ibn Kathir
 

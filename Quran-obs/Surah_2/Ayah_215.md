@@ -104,7 +104,7 @@ Therefore, it is necessary to first understand the wisdom behind the two answers
 
 ## Tafsir Summary
 
-They ask you (O Muhammad ﷺ) what they should spend. Imperatives such as - 'leave disbelief and hypocrisy and enter Islam completely', 'listen to none when it comes to obeying the command of Allah', 'spend your wealth and give your life to seek the pleasure of Allah' and 'show fortitude against all sorts of hardships and sufferings' - have been emphatically mentioned in previous verses.
+The Qur'anic answer to the first question shows that the second part of the question, that is, where should they spend, has been given more importance and answered frontally and clearly. Another rule of conduct which emerges from this verse is that even the gift given or food served to parents and other near of kin, if the intention is to obey Allah Almighty in doing so, will be included under spending in the way of Allah and will deserve reward with Him.
 
 ## Tafsir Ibn Kathir
 

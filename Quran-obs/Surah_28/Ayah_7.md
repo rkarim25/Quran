@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We inspired the mother of Musa: "Suckle him (Musa), but when you fear for him, then cast him into the river and fear not, nor grieve. وَأَوْحَيْنَا إِلَىٰ أُمِّ مُوسَىٰ (28:7) The word Wahy (inspiration) is used here in its literal meaning.
+Verily, We shall bring him back to you, and shall make him one of the Messengers. How Musa's Mother was inspired and shown what to do It was mentioned that when Fir'awn killed so many of the males of the Children of Israel, the Copts were scared that the Children of Israel would die out, and they themselves would have to do the heavy labor that the Children of Israel used to do.
 
 ## Tafsir Ibn Kathir
 

@@ -79,7 +79,7 @@ The last verse (112) which begins with the words: التَّائِبُونَ ا�
 
 ## Tafsir Summary
 
-Those who repent, who worship (Him), who praise (Him), who fast, who bow down, who prostrate themselves, who enjoin good and forbid evil, and who observe the limits set by Allah. The last verse (112) which begins with the words: التَّائِبُونَ الْعَابِدُونَ " (They are) those who repent, those who worship...) describes the attributes of the same believers about whom it was said earlier that Allah has bought their lives and their wealth from the believers, against which Paradise shall be for them.
+Those who repent, who worship (Him), who praise (Him), who fast, who bow down, who prostrate themselves, who enjoin good and forbid evil, and who observe the limits set by Allah.
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ Allah created the heavens and the earth with truth. Verily, therein is surely a 
 
 ## Tafsir Summary
 
-Allah created the heavens and the earth with truth. وَتِلْكَ الْأَمْثَالُ نَضْرِ‌بُهَا لِلنَّاسِ وَمَا يَعْقِلُهَا إِلَّا الْعَالِمُونَ (And these examples We cite for people, and no one understands them except the knowledgeable ones.
+Allah created the heavens and the earth with truth.
 
 ## Tafsir Ibn Kathir
 

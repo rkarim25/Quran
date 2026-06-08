@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, man was created very impatient (19)Apprehensive when evil touches him (20)And suppressive when good touches him (21)Except those who are devoted to Salah (22)Those who with their Salah are Da'imun (23)And those i… Rates of Zakah are Specified by Allah وَالَّذِينَ فِي أَمْوَالِهِمْ حَقٌّ مَّعْلُومٌ (and those in whose riches there is a specified right...70:24).
+Verily, man was created very impatient (19)Apprehensive when evil touches him (20)And suppressive when good touches him (21)Except those who are devoted to Salah (22)Those who with their Salah are Da'imun (23)And those in whose wealth there is a recognized right (24)For the one who asks, and for the deprived (25)And those who believe in the Day of Recompense (26)And those who fear the torment of their Lord (27)Verily, the torment of their Lord is that before which none can fe…
 
 ## Tafsir Ibn Kathir
 

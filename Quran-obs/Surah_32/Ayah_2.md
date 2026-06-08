@@ -43,7 +43,7 @@ There is a reason for this specific treatment and marked attention. Things of th
 
 ## Tafsir Summary
 
-The Virtues of Surah Alif Lam Mim As-Sajdah In the Book of the Friday prayer, Al-Bukhari recorded that Abu Hurayrah said, "The Prophet ﷺ used to recite in Fajr on Fridays: Surely, it is Allah with whom rests the knowledge of the Hour, and He sends down the rain, and He knows what is in the wombs.
+The revelation of the Book in which there is no doubt, is from the Lord of all that exists.)(3.
 
 ## Tafsir Ibn Kathir
 

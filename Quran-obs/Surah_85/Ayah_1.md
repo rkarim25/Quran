@@ -22,7 +22,7 @@ Then, after Ibn Ishaq explained that the people of Najran began following the re
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَالسَّمَاءِ ذَاتِ الْبُرُوجِ (I swear by the sky, the one having stellar formations....85:1) The word buruj is the plural of burj which means 'a large mansion or fortress'.
+Verily, those who put into trial the believing men and believing women, and then do not turn in repentance, then they will have the torment of Hell, and they will have the punishment of the burning Fire.) The Interpretation of the Word Buruj Allah swears by the heaven and its Buruj. Other commentators take the word bur, in this place, to refer to mansions and castles that are reserved in the sky for the guardian angels.
 
 ## Tafsir Ibn Kathir
 

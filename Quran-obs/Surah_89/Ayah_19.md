@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-As for man, when his Lord tries him by giving him honor and bounties, then he says: "My Lord has honored me. وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَّمًّا (And you devour the inheritance with a sweeping gulp...89:19).
+This is the third evil trait of the unbelievers, and the verse signifies that they devour inheritance with voracious appetites however they can get it, whether by lawful means or unlawful means.
 
 ## Tafsir Ibn Kathir
 

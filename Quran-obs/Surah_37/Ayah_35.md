@@ -54,7 +54,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they will turn to one another and question one another (27)They will say: "It was you who used to come to us from the right side.
+Truly, when it was said to them: "La ilaha illallah," they puffed themselves up with pride.) means, in this world they were too arrogant to say these words as the believers said them.
 
 ## Tafsir Ibn Kathir
 

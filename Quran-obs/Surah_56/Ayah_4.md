@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Waqi'ah Abu Ishaq reported from 'Ikrimah from Ibn 'Abbas that Abu Bakr said, "O Allah's Messenger! خَافِضَةٌ رَّ‌افِعَةٌ (It will be abasing [ some ], exalting [ others ]...56:3).
+When the earth will be shaken with a terrible shake.)(5.
 
 ## Tafsir Ibn Kathir
 

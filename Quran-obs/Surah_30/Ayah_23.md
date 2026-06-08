@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And among His signs is the creation of the heavens and the earth, and the difference of your languages and colors. Fourth sign of divine omnipotence Human sleep and economic activities both in daytime and at night have been mentioned in verse 32 as the fourth sign of Allah's omnipotence.
+And among His signs is the creation of the heavens and the earth, and the difference of your languages and colors.
 
 ## Tafsir Ibn Kathir
 

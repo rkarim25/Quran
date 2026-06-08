@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, the sorcerers were assembled at a fixed time on a day appointed (38)And it was said to the people: "Are you (too) going to assemble? Bani Isra'il were the residents of Syria.
+The Egyptians wanted to extinguish the Light of Allah with their words, but Allah insisted that His Light should prevail even though the disbelievers disliked that.
 
 ## Tafsir Ibn Kathir
 

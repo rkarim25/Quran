@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And if the people of the towns had believed and had Taqwa, certainly, We should have opened for them blessings from the heaven and the earth, but they belied (the Messengers). The Arabic word بَرَکَہ :'barakah' used in this verse and translated as blessing signifies increase or growth.
+When we take in view the circumstances prevailing in today's world we notice the fact that the net produce of the earth is comparably far more than ever before.
 
 ## Tafsir Ibn Kathir
 

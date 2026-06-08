@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they assign a portion of that which We have provided them with, to what they have no knowledge of (false deities). Even the Punishment of the World is Mercy in Disguise In the verses cited above, after having mentioned various punishments which could seize disbelievers within this world, it was said in the end: فَإِنَّ رَ‌بَّكُمْ لَرَ‌ءُوفٌ رَّ‌حِيمٌ (So, indeed your Lord is Very Kind Very Merciful).
+Certainly, evil is their decision (59)For those who do not believe in the Hereafter is an evil description, and for Allah is the highest description.
 
 ## Tafsir Ibn Kathir
 

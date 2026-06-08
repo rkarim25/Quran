@@ -54,7 +54,7 @@ Both of them said: "Our Lord! Verily, we fear lest he should hasten to punish us
 
 ## Tafsir Summary
 
-Both of them said: "Our Lord! Allah said,إِنَّنِي مَعَكُمَا أَسْمَعُ وَأَرَ‌ىٰ "I am surely with you both.
+Truly, it has been revealed to us that the torment will be for him who denies, and turns away.) In His flawless revelation, Allah has revealed to us that torment is prepared exclusively for those who reject the signs of Allah and turn away from His obedience.
 
 ## Tafsir Ibn Kathir
 

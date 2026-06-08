@@ -146,7 +146,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Not equal are those of the believers who sit (at home), except those who are disabled, and those who strive hard and fight in the cause of Allah with their wealth and their lives. Some Injunctions about Jihad The second verse (95) takes up some injunction related to Jihad.
+Not equal are those of the believers who sit (at home), except those who are disabled, and those who strive hard and fight in the cause of Allah with their wealth and their lives. Allah has preferred in grades those who strive hard and fight with their wealth and their lives above those who sit (at home).
 
 ## Tafsir Ibn Kathir
 

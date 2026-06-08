@@ -90,7 +90,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, Allah is not ashamed to set forth a parable even of a mosquito or so much more when it is bigger (or less when it is smaller) than it. Islamic concern about relationship to others The cutting asunder of what Allah has commanded should be joined includes all kinds of relationships -- the one between Allah and His servant, the one between a man and his parents and relatives, between him and his neighbours and friends, between one Muslim and another, between one man and another.
+And as for those who believe, they know that it is the truth from their Lord, but as for those who disbelieve, they say: "What did Allah intend by this parable?" By it He misleads many, and many He guides thereby.
 
 ## Tafsir Ibn Kathir
 

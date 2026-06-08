@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We have broken them (the Jews) up into various separate groups on the earth: some of them are righteous and some are away from that. The preceding verse (169) contained a mention of a covenant made with the religious leaders of the Israelites in particular, that they shall not make any changes in the Torah and shall not ascribe to Allah anything but the truth.
+Do not you then understand (169)And as to those who hold fast to the Book (act on its teachings) and perform the Salah, certainly We shall never waste the reward of those who do righteous deeds .
 
 ## Tafsir Ibn Kathir
 

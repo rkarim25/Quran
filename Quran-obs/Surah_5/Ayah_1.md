@@ -108,7 +108,7 @@ This is the initial verse of Surah al-Ma'idah. As agreed upon, Surah al-Ma'idah 
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Mā'idah and When It Was Revealed At-Tirmidhi recorded that 'Abdullah bin 'Amr said, "The last Surahs to be revealed were Surat Al-Ma'idah and Surat Al-Fath (chapter 48)." At-Tirmidhi commented, "T… Background of revelation and a summary of subjects This is the initial verse of Surah al-Ma'idah.
+The Creator and Master who has made all these life forms is also the One who has formulated, in His perfect wisdom and insight, the law that the lower form shall be the sustenance of the higher.
 
 ## Tafsir Ibn Kathir
 

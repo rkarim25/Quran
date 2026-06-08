@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then they both proceeded till when they came to the people of a town, they asked them for food, but they refused to entertain them. The habitation mentioned أَهْلَ قَرْ‌يَةٍ (the people of a town - 77) which Sayyidna Musa and al-Khadir (علیہ السلام) passed through and whose inhabitants refused to host them was Antakiah, as in the report of Sayyidna Ibn ` Abbas ؓ ، and Aikah, as in the report of Ibn Sirin.
+So this is the parting of the ways between me and you.
 
 ## Tafsir Ibn Kathir
 

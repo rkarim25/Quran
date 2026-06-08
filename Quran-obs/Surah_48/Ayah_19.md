@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed, Allah was pleased with the believers when they gave the pledge to you under the tree, He knew what was in their hearts, and He sent down As-Sakinah upon them, and He rewarded them with a near victory (18)And abundant spoils that they will capture. وَمَغَانِمَ كَثِيرَ‌ةً يَأْخُذُونَهَا (and many spoils that they would receive...48:19) This clause refers to the great booty that fell into the hands of Muslims during the conquest of Khaibar.
+And Allah is Ever All-Mighty, All-Wise .
 
 ## Tafsir Ibn Kathir
 

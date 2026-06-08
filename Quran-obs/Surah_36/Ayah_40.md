@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And a sign for them is the night. In verse 40, it was said: وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ (And each one is floating in an orbit - 40).
+When the sun is at its zenith at noon, it is in its closest position to Throne, and when it runs in its fourth orbit at the opposite point to its zenith, at midnight, it is in its furthest position from the Throne.
 
 ## Tafsir Ibn Kathir
 

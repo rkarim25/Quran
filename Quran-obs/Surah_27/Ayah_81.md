@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, this Qur'an narrates to the Children of Israel most of that in which they differ (76)And truly, it is a guide and a mercy for the believers (77)Verily, your Lord will decide between them by His judgement. You can make no one listen (to you) except those who believe in Our verses, then submit themselves (to Allah).
+Therefore, where it is established by the Sahih ahadith that the dead did hear, we should believe it; and where it is not established, both the situations are possible .
 
 ## Tafsir Ibn Kathir
 

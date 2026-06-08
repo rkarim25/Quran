@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And a sign for them is the night. In verse 38, it was said: وَالشَّمْسُ تَجْرِ‌ي لِمُسْتَقَرٍّ‌ لَّهَا ۚ ذَٰلِكَ تَقْدِيرُ‌ الْعَزِيزِ الْعَلِيمِ (And the sun is quickly proceeding towards its resting place.
+Its authority is in the daytime, for it is the heavenly body that dominates the day.
 
 ## Tafsir Ibn Kathir
 

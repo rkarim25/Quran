@@ -83,7 +83,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah has promised you abundant spoils that you will capture, and He has hastened for you this, and He has restrained the hands of men from you, that it may be a sign for the believers, and that He may guide you to the straight path (20)And other (victories) which are not yet within your power; indeed Allah encompasses them. ذِهِ (Allah had promised you many spoils that you would receive, so He gave these to you sooner - 48:20).
+Allah has promised you abundant spoils that you will capture, and He has hastened for you this, and He has restrained the hands of men from you, that it may be a sign for the believers, and that He may guide you to the straight path (20)And other (victories) which are not yet within your power; indeed Allah encompasses them.
 
 ## Tafsir Ibn Kathir
 

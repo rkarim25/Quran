@@ -111,7 +111,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "To whom belongs all that is in the heavens and the earth?" Say: "To Allah." He has prescribed mercy for Himself. In the opening verse (12), قل لِّمَن مَّا فِي السَّمَاوَاتِ the disbelievers have been asked as to who is the Master of the entire universe and all that it contains.
+Say: "To whom belongs all that is in the heavens and the earth?" Say: "To Allah." He has prescribed mercy for Himself.
 
 ## Tafsir Ibn Kathir
 

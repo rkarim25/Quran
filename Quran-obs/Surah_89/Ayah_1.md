@@ -10,7 +10,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Recitation of Surat Al-Fajr in the Prayer An-Nasa'i recorded a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. Surely your Lord is ever on the watch.
+The intellect has only been called Hijr because it prevents the person from doing that which is not befitting of him of actions and statement. Therefore, Allah saved him and those who believed with him from among them, and He destroyed others with a furious, violent wind.
 
 ## Tafsir Ibn Kathir
 

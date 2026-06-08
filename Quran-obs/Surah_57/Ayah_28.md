@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّـهَ وَآمِنُوا بِرَ‌سُولِهِ يُؤْتِكُمْ كِفْلَيْنِ مِن رَّ‌حْمَتِهِ (0 those who believe, fear Allah, and believe in His Messenger, and He will give you two shares [ of reward ] out of His mercy,..28) The vocative expression يَا أَيُّهَا الَّذِينَ آمَنُوا "O those who believe..." in this verse refers to the People of the Book who believed in Prophet ` Isa (علیہ السلام) .
+A person who has a slave-girl and he educates her properly and teaches her good manners properly (without violence) and then manumits and marries her, will get a double reward.) This Hadith is recorded in the Two Sahihs.
 
 ## Tafsir Ibn Kathir
 

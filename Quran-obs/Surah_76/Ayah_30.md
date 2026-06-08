@@ -58,7 +58,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, it is We Who have sent down the Qur'an to you by stages (23)Therefore be patient with constancy to the command of your Lord, and obey neither a sinner nor a disbeliever among them (24)And remember the Name of you… اِنَّ هٰذَا كَانَ لَكُمْ جَزَاۗءً وَّكَانَ سَعْيُكُمْ مَّشْكُوْرًا ([ It will be said to them,] This is a reward for you, and your effort has been appreciated....76:22).
+Verily, Allah is Ever All-Knowing, All-Wise.) meaning, He is Most Knowledgeable of who deserves to be guided.
 
 ## Tafsir Ibn Kathir
 

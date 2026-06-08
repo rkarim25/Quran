@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Not alike are the blind and the seeing (19)Nor are (depths of) darkness and light (20)Nor are the shade and the sun's heat (21)Nor are the living and the dead. Verse 18: وَلَا تَزِرُ‌ وَازِرَ‌ةٌ وِزْرَ‌ أُخْرَ‌ىٰ (And no bearer will bear the burden of any other person) means that, on the Day of Judgment, no one will be able to bear the burden of another person's sins.
+Not alike are the blind and the seeing (19)Nor are (depths of) darkness and light (20)Nor are the shade and the sun's heat (21)Nor are the living and the dead. Darkness and light are not equal, neither are shade and the sun's heat.
 
 ## Tafsir Ibn Kathir
 

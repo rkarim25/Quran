@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And he who believed said: "O my people! In verse 35, it was said: كَذَٰلِكَ يَطْبَعُ اللَّـهُ عَلَىٰ كُلِّ قَلْبِ مُتَكَبِّرٍ‌ جَبَّارٍ‌ (That is how Allah stamps a seal on the entire heart of an arrogant tyrant), that is, the way the hearts of Pharaoh and Ham…
+When this happens, the effect is that the light of faith does not enter that heart, and one is rendered unable to distinguish between good and bad.
 
 ## Tafsir Ibn Kathir
 

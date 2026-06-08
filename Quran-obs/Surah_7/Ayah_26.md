@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Children of Adam! Mentioned in almost a section preceding the verses cited above was the event relating to Sayyidna 'Adam and Satan, the accursed.
+But, in accordance with the well-known reading of it, it means that everyone knows the two dresses mentioned, however, there is a third kind of dress, that of Taqwa - and that is the best of all dresses.
 
 ## Tafsir Ibn Kathir
 

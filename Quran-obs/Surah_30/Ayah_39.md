@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, give to the kindred his due, and to Al-Miskin and to the wayfarer. وَمَا آتَيْتُم مِّن رِّ‌بًا لِّيَرْ‌بُوَ فِي أَمْوَالِ النَّاسِ (And whatever Riba [ increased amount ] you give so that it may increase in the wealth of the people, - 30:39).
+That is best for those who seek Allah's Face; and it is they who will be successful (38)And that which you give in Riba in order that it may increase from other people's property, has no increase with Allah; but that which you give in Zakah seeking Allah's Face, then those they shall have manifold increase (39)Allah is He Who created you, then provided food for you, then will cause you to die, then He will give you life.
 
 ## Tafsir Ibn Kathir
 

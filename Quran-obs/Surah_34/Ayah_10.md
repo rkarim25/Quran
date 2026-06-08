@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We bestowed grace on Dawud from Us (saying): "O you mountains! The preceding verses have addressed the arguments of those who denied the possibility of the life after death, and believed it to be irrational that a person may be revived after he has died and the parts of his body are decomposed and turned into dust.
+The Favors which Allah bestowed upon Dawud Here Allah tells us how He blessed His servant and Messenger Dawud (David), peace be upon him, and what He gave him of His great bounty, giving him both prophethood and kingship, and huge numbers of troops.
 
 ## Tafsir Ibn Kathir
 

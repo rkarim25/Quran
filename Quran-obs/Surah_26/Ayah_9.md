@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. زَوْجٍ كَرِ‌يمٍ (noble pair - 26:7).
+And verily your Lord, He is truly the All-Mighty, the Most Merciful.) The Qur'an and the Disbelievers Turning Away; They Could Be Compelled to Believe If Allah so Willed At the beginning of the explanation of Surat Al-Baqarah we discussed the letters which appear at the beginning of some Surahs.
 
 ## Tafsir Ibn Kathir
 

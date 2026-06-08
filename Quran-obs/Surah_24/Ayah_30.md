@@ -73,7 +73,7 @@ The very first verses on the subject of hijab for women are the ones which were 
 
 ## Tafsir Summary
 
-Tell the believing men to lower their gaze, and protect their private parts. An important chapter for the prevention of obscenity and security of chastity: Hijab for women The very first verses on the subject of hijab for women are the ones which were revealed in Surah Ahzab at the time of marriage of the mother of the believers Sayyidah Zainab bint Jahash ؓ with the Holy Prophet ﷺ .
+Surely Allah is All-Aware of what they do.
 
 ## Tafsir Ibn Kathir
 

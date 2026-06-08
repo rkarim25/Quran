@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Allah) said: "What prevented you (O Iblis) that you did not prostrate, when I commanded you?" Iblis said: "I am better than him (Adam), You created me from fire, and him You created from clay.") Allah sai (12) (What prevented you (O Iblis) that you did not prostrate)[7: 12] meaning, what stopped and hindered you from prostrating after I ordered you to do so, according to Ibn Jarir. The event relating to Sayyidna 'Adam (علیہ السلام) and the Shaytan has appeared earlier in Section four of Surah Al-Baqarah (Ma` ariful-Qur'an, English Translation, under verse 34).
+Shaytan, may Allah curse him, meant that he is better than Adam, "So how can You order me to prostrate before him?" Shaytan said that he is better than Adam because he was created from fire while, "You created him from clay, and fire is better." The cursed one looked at the origin of creation not at the honor bestowed, that is, Allah creating Adam with His Hand and blowing life into him.
 
 ## Tafsir Ibn Kathir
 

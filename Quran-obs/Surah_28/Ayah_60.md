@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And whatever you have been given is an enjoyment of the life of the world and its adornment, and that which is with Allah is better and will remain forever. وَمَا عِندَ اللَّـهِ خَيْرٌ‌ وَأَبْقَىٰ (And that which is with Allah is much better and far more lasting - 28:60).
+And whatever you have been given is an enjoyment of the life of the world and its adornment, and that which is with Allah is better and will remain forever.
 
 ## Tafsir Ibn Kathir
 

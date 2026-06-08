@@ -27,7 +27,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-With Hands We constructed the heaven. Proofs of Allah's Oneness abound in the Creation of the Heavens and Earth The preceding verses mentioned the reality of the Hereafter and the Judgment Day, and the punishment of those who denied the reality.
+Verily, We are able to expand the vastness of space thereof (47)And We have made the earth a Firash; how excellent spreader (thereof) are We (48)And of everything We have created pairs, that you may remember (49)So, flee to Allah.
 
 ## Tafsir Ibn Kathir
 

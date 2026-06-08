@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Man does not get tired of asking for good; but if an evil touches him, then he gives up all hope and is lost in despair (49)And truly, if We give him a taste of mercy from Us, after some adversity has touched him, he is sure to say: "This is due to my (merit); I think not that the Hour will be established. فَذُو دُعَاءٍ عَرِ‌يضٍ (he is full of broad prayers - 51.) The nature of an infidel is being stated here that when Allah Almighty bestows upon him the good things: wealth, honor and peace, the infidel gets so involved in them and so intoxicated with them that he becomes even more distant from the true Benefactor, Allah Almighty, and his pri…
+Here the Qur'an has used the word ` broad' to describe their lengthy supplications, because what is wider will automatically be longer too.
 
 ## Tafsir Ibn Kathir
 

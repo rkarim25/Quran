@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Beneficent, the Most Merciful. وَجَعَلْنَا النَّهَارَ‌ مَعَاشًا (and made the day a source of livelihood....78:11).
+And We have built above you seven strong,)(13. This is so that it may be suitable for dwelling and not quake with those who are in it.
 
 ## Tafsir Ibn Kathir
 

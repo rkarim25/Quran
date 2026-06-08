@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O mankind! The word ‘su' in السُّوءِ وَالْفَحْشَاءِ means something which bothers somebody good and reasonable.
+He commands you to commit what is even worse, that is, saying about Allah without knowledge.' So this includes every innovator and disbeliever.
 
 ## Tafsir Ibn Kathir
 

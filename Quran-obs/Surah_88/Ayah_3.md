@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Reciting Surat Al-A'la and Al-Ghashiyah in the Friday Prayer It has already been mentioned on the authority of An-Nu'man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A'la (87) and Al-Ghashiyah in the 'Id and Friday prayers. وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ عَامِلَةٌ نَّاصِبَةٌ (Many faces on that day will be humbled, working hard, exhausted...88:3).
+Therefore, Qurtubi and other commentators are of the view that the humbleness of their faces relates to the Hereafter, but their working hard and being exhausted refers to their work in this world. This verse describes the faces of the unbelievers.
 
 ## Tafsir Ibn Kathir
 

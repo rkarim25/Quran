@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "You are only of those bewitched! وَتَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا فَارِ‌هِينَ ﴿149﴾And you hew out houses from the hills with pride.
+Verily, in this is indeed a sign, yet most of them are not believers (158)And verily, your Lord He is indeed the All-Mighty, the Most Merciful .
 
 ## Tafsir Ibn Kathir
 

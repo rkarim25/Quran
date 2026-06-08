@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(It will be said to the disbelievers): "Depart you to that which you used to deny! إِنَّهَا تَرْ‌مِي بِشَرَ‌رٍ‌ كَالْقَصْرِ كَأَنَّهُ جِمَالَتٌ صُفْرٌ‌ ‌ (It emits sparks [ as huge ] as castles...77:32) The word gasr means a 'huge, magnificent castle'.
+We have brought you and the men of old together (38)So, if you have a plot, use it against Me (Allah)(39)Woe that Day to the deniers (of the Day of Resurrection). Some scholars have translated the word 'sufr' as 'black' because yellowish colour of camels tends to blackness.
 
 ## Tafsir Ibn Kathir
 

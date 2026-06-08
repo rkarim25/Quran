@@ -75,7 +75,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, He Who has given you the Qur'an, will surely bring you back to the return. إِنَّ الَّذِي فَرَ‌ضَ عَلَيْكَ الْقُرْ‌آنَ لَرَ‌ادُّكَ إِلَىٰ مَعَادٍ (Surely the One who has enjoined the Qur’ an upon you will surely bring you back to a place of return.
+So never be a supporter of the disbelievers (86)And let them not turn you away from the Ayat of Allah after they have been sent down to you, and invite to your Lord and be not of idolators (87)And invoke not any other god along with Allah, La ilaha illa Huwa.
 
 ## Tafsir Ibn Kathir
 

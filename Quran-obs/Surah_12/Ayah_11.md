@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O our father! Appearing in the fifth (111) and sixth (112) verse is the request of these brothers before their father in which they wondered why he would not trust them with Yusuf, although they wished him fully well.
+Appearing in the fifth (111) and sixth (112) verse is the request of these brothers before their father in which they wondered why he would not trust them with Yusuf, although they wished him fully well. Why do you not trust us with Yusuf though we are indeed his well-wishers?
 
 ## Tafsir Ibn Kathir
 

@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And ask them about the town that was by the sea; when they transgressed in the matter of the Sabbath: when their fish came to them openly on the Sabbath day, and did not come to them on the day they had no Sabbath. The detailed discussion of the events contained in the above verses have been produced in Surah Al-Baqarah (under verses 58-60).
+Thus We made a trial of them,) means, this is how We tested them by making the fish swim close to the surface of the water, on the day which they were prohibited to fish.
 
 ## Tafsir Ibn Kathir
 

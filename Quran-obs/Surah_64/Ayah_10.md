@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The disbelievers pretend that they will never be resurrected. يَوْمَ يَجْمَعُكُمْ لِيَوْمِ الْجَمْعِ ۖ ذَٰلِكَ يَوْمُ التَّغَابُنِ ([ Be mindful of ] the day when He will gather you for the Day of Gathering.
+And whosoever believes in Allah and performs righteous deeds, He will expiate from him his sins, and will admit him to Gardens beneath which rivers flow, to dwell therein forever; that will be the great success (9)But those who disbelieved and denied Our Ayat, they will be the dwellers of the Fire, to dwell therein forever. But those who disbelieved and denied Our Ayat, they will be the dwellers of the Fire, to dwell therein forever.
 
 ## Tafsir Ibn Kathir
 

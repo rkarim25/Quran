@@ -252,7 +252,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And whoever of you have not the means wherewith to wed free believing women, they may wed believing girls from among those whom your right hands possess, and Allah has full knowledge about your faith, you are one from another. It is in continuation of the injunctions relating to marriage which have been appearing earlier that the text now takes up the option of marriage with bondwomen who qualify as such under the stipulations of the Shari'ah of Islam.
+Then, the injunction of Hadd punishment concerning them has been added along since the status of a bondman and bondwoman is different from a free man and a free woman.
 
 ## Tafsir Ibn Kathir
 

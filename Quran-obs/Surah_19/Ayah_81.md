@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they have taken gods besides Allah, that they might give them honor, power and glory (81)Nay, but they will deny their worship of them, and will become their adversaries (82)See you not that We have sent the Shayatin… "And We will inherit from him what he is talking about" - 19:80.
+The Idols of the Polytheists will deny Their Worship Allah, the Exalted, informs about the disbelievers who associate partners with their Lord, that they have taken gods besides Allah, so that these gods may be a source of honor and might for them.
 
 ## Tafsir Ibn Kathir
 

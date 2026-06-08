@@ -70,7 +70,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who believe and do deeds of righteousness, their Lord will guide them through their faith; under them will flow rivers in the Gardens of delight (Paradise)(9)Their way of request therein will be: "Glory to You, O Allah!" and "Salam" (peace, safety from evil) will be their greetings therein! Mentioned in the third verse (9) are those fortunate people who pondered over the signs of the most exalted Allah.
+The Good Reward is for the People of Faith and Good Deeds In these two Ayat, Allah promises the happy blessings for those who believed in Allah and His Messengers.
 
 ## Tafsir Ibn Kathir
 

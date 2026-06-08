@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Recitation of Surat Al-Fajr in the Prayer An-Nasa'i recorded a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. وَالشَّفْعِ وَالْوَتْرِ (and by the even and the odd,...89:3).
+The oath that is referred to here is about the times of worship and the acts of worship themselves, such as Hajj, Salah and other acts of worship that Allah's pious, obedient, servants who fear Him and are humble before Him, seeking His Noble Face, perform in order to draw nearer to Him.
 
 ## Tafsir Ibn Kathir
 

@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed, We destroyed generations before you when they did wrong, while their Messengers came to them with clear proofs, but they were not such as to believe! The subject of verse 12 has been emphasized from a different angle in verse 13.
+And indeed, We destroyed generations before you when they did wrong, while their Messengers came to them with clear proofs, but they were not such as to believe! The history of past peoples shows that different kinds of punishments have visited them because of their contumacy and disobedience right here in this world.
 
 ## Tafsir Ibn Kathir
 

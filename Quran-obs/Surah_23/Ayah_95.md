@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "My Lord! Some commentators say that even though Allah has promised, on account of His regard for the Holy Prophet ﷺ that He will not punish the entire community while he (Holy Prophet ﷺ) lives among them وَمَا كَانَ اللَّـهُ لِيُعَذِّبَهُمْ وَأَنتَ فِيهِمْ (And Allah is not to send punishment upon them while you are in their midst-- 8:33) yet the punishment of some selected persons in special circumstance does not negate the promise.
+So we are commanded to mention Allah at the beginning of any undertaking, in order to ward off the Shayatin at the time of eating, intercourse, slaughtering animals for food, etc.
 
 ## Tafsir Ibn Kathir
 

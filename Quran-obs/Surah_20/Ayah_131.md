@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And strain not your eyes in longing for the things We have given for enjoyment to various groups of them, the splendor of the life of this world, that We may test them thereby. Worldly wealth is a fleeting thing and is not an evidence of God's favour, and for good Muslims it is a danger signal وَلَا تَمُدَّنَّ عَيْنَيْكَ (And never stretch your eyes - 20:13) The words are addressed to the Holy Prophet and are intended to provide guidance to his followers.
+But the provision of your Lord is better and more lasting (131)And enjoin Salah on your family, and be patient in offering them.
 
 ## Tafsir Ibn Kathir
 

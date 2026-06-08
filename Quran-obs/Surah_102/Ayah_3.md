@@ -22,7 +22,7 @@ In Sahih Al-Bukhari, it is recorded in the Book of Ar-Riqaq (Narrations that sof
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. حَتَّىٰ زُرْ‌تُمُ الْمَقَابِرَ‌Verse [ 2] (until you reach the graves.) Here the words 'reaching the graves' mean 'to die and be buried in the graves', as the following Prophetic Hadith bears testimony to this interpretation.
+you shall come to know!) Thus, Allah threatens them with this situation, which is what the people of the Fire will see. Therefore, whoever does not maintain the right that is obligatory upon him, then he is unjust.
 
 ## Tafsir Ibn Kathir
 

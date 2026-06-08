@@ -86,7 +86,7 @@ Here, it is worth pondering that the heavens, the earth and the mountains that a
 
 ## Tafsir Summary
 
-Truly, We did offer the Amanah to the heavens and the earth, and the mountains, but they declined to bear it and were afraid of it. Emphasis has been placed in this entire Surah on the reverence of the Messenger of Allah and on the obligation of obeying him.
+In short, in the verse, the two words (Zalum and Jahul) mentioned above have been used for those particular individuals among human beings who did not obey the injunctions of the Shari’ ah as they were expected to, and failed to fulfill the right entailed by the amanah or trust placed with them - that is, the disbelievers, hypocrites, transgressors, the wicked, and sinning Muslims of the community.
 
 ## Tafsir Ibn Kathir
 

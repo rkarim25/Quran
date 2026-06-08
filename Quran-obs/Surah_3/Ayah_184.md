@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed, Allah has heard the statement of those who say: "Truly, Allah is poor and we are rich!" We shall record what they have said and their killing of the Prophets unjustly, and We shall say: "Taste you the torment of the burning (Fire). In the fifth verse (184), the Holy Prophet ﷺ has been comforted by saying that he should not grieve at being falsified by his adversaries for this is something faced by all prophets in the past.
+" Say: "Verily, there came to you Messengers before me, with Al-Bayinat and even with with what you speak of; why then did you kill them, if you are truthful?
 
 ## Tafsir Ibn Kathir
 

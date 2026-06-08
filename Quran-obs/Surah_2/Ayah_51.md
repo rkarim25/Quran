@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when We appointed for Musa (Moses) forty nights, and (in his absence) you took the calf (for worship), and you were Zalimun (polytheists and wrongdoers)(51)Then after that We forgave you so that you might… Verse 51 refers to other incidents in the same story.
+And (remember) when We appointed for Musa (Moses) forty nights, and (in his absence) you took the calf (for worship), and you were Zalimun (polytheists and wrongdoers)(51)Then after that We forgave you so that you might be grateful (52)And (remember) when We gave Musa the Scripture (the Tawrah)) and the criterion (of right and wrong) so that you may be guided aright .
 
 ## Tafsir Ibn Kathir
 

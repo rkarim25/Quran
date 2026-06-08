@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And be patient with what they say, and keep away from them in a good way (10)And leave Me alone to deal with the deniers, those who are in possession of good things of life. (And bear patiently what they say, and part with them in a beautiful manner...73:10).
+And be patient with what they say, and keep away from them in a good way (10)And leave Me alone to deal with the deniers, those who are in possession of good things of life. The Command to be Patient with the Harms of the Disbelievers and a Discussion of what They will receive because of it Allah commands His Messenger ﷺ to be patient with what the foolish who reject him among his people say.
 
 ## Tafsir Ibn Kathir
 

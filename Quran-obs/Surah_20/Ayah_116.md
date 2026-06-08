@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We made a covenant with Adam before, but he forgot, and We found on his part no firm willpower (115)And (remember) when We said to the angels: "Prostrate yourselves to Adam." They prostrated themselves (all) except Iblis; he refused (116)Then We said: "O Adam! وَإِذْ قُلْنَا لِلْمَلَائِكَةِ (And when We said to angels - 20:116)Here is a brief mention of the command which, after the creation of Sayyidna 'Adam (علیہ السلام) Allah gave to all the angels including Iblis (Shaitan) who at that time lived in the Paradise with them, to prostrate to him.
+In this story, Allah mentions the creation of Adam and that He commanded the angels to prostrate to Adam as a sign of honor and respect.
 
 ## Tafsir Ibn Kathir
 

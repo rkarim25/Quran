@@ -217,7 +217,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Messenger believes in what has been sent down to him from his Lord, and (so do) the believers. After that comes the second verse where the doubt, which could have risen during the comprehension of some sentences in the previous verse, has been removed in a style that is very special.
+He gets reward for that (good) which he has earned, and he is punished for that (evil) which he has earned.
 
 ## Tafsir Ibn Kathir
 

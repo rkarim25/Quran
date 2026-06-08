@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those on the right – how (fortunate) will be those on the right (27)(They will be) among Sidri Makhdud (28)And among Talh Mandud (29)And in shade Mamdud (30)And by water flowing constantly (31)And fruit in plenty (32… لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ (neither interrupted [ in any season ], nor prohibited ...56:33) The word maqtu` ah means the fruits the supply of which is cut off at the end of the season.
+Once the season of the fruit is over, it ceases to be available.
 
 ## Tafsir Ibn Kathir
 

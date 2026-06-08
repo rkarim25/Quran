@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And give to the kinsman his due, and to the Miskin (poor), and to the wayfarer. The Qur'an expresses the sense of spending wastefully through two words: (1) Tabdhir (تَبذیر), translated as 'squandering recklessly.' (2) Israf (اِسرِاف): extravagance.
+this is also given the name of israf (extravagance), which is Haram (unlawful).
 
 ## Tafsir Ibn Kathir
 

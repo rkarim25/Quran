@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Were not My Ayat recited to you, and then you used to deny them? وَهُمْ فِيهَا كَالِحُونَ And they will be disfigured therein - 23:104).
+If ever we return (to evil), then indeed we shall be wrongdoers.) meaning, send us back to the world, and if we go back to what we used to do before, then we will indeed be wrongdoers who deserve punishment.
 
 ## Tafsir Ibn Kathir
 

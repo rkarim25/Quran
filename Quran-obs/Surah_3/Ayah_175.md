@@ -58,7 +58,7 @@ Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the mar
 
 ## Tafsir Summary
 
-(169. The third verse (174) recounts the blessings which descended upon these noble Companions for their brave response to the call of Jihad and for saying: حَسْبُنَا اللَّـهُ وَنِعْمَ الْوَكِيلُ (Allah is all-sufficient for us, and the best one to trust in).
+It is also possible that the river is where all the souls of the martyrs convene and where they are provided with their provision day and night, and Allah knows best.
 
 ## Tafsir Ibn Kathir
 

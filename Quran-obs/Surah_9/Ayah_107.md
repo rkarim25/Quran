@@ -113,7 +113,7 @@ However, on his return from the battle of Tabuk, when he camped at a place close
 
 ## Tafsir Summary
 
-And as for those who put up a Masjid by way of harm and disbelief and to disunite the believers and as an outpost for those who warred against Allah and His Messenger aforetime, they will indeed swear that their intention is nothing but good. Anti-Islam activities of hypocrites have been described in several previous verses.
+Then, to keep Muslims under deception, the hypocrites made a plan that they would have the Holy Prophet ﷺ lead a Salah in congregation at their socalled masjid so that all Muslims are convinced that this new place was also a masjid very much like the one built there earlier.
 
 ## Tafsir Ibn Kathir
 

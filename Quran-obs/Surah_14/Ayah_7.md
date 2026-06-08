@@ -53,7 +53,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Musa said to his people: "Call to mind Allah's favor to you, when He delivered you from Fir'awn's people who were afflicting you with horrible torment, and were slaughtering your sons and letting your women live; and in it was a tremendous trial from your Lord. The Outcome of Gratitude and Ingratitude In the third verse (7), it was said: وَإِذْ تَأَذَّنَ رَ‌بُّكُمْ لَئِن شَكَرْ‌تُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْ‌تُمْ إِنَّ عَذَابِي لَشَدِيدٌ (And when your Lord declared, "If you express gratitude, I shall certainly give you more, and if you are ungrateful, then My punishment is severe." ).
+It is possible that this Ayah means, your Lord has vowed and sworn by His might, grace and exaltness. Instead of that, given here is a limited warning which conveys the sense that 'My punishment too, to whomsoever it reaches, is very severe.' In this particular interpretation, there is a hint that it is not necessary that every ungrateful person has to undergo punishment - the likelihood of forgiveness also exists.
 
 ## Tafsir Ibn Kathir
 

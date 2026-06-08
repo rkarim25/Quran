@@ -54,7 +54,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed in that (there) is a sure lesson for those who fear the torment of the Hereafter. After having given this good counsel to them, he warned them of the punishment of Allah Ta` ala.
+Indeed in that (there) is a sure lesson for those who fear the torment of the Hereafter.
 
 ## Tafsir Ibn Kathir
 

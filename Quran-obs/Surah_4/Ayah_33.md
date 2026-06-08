@@ -92,7 +92,7 @@ While describing the background in which the present verse was revealed, which a
 
 ## Tafsir Summary
 
-And to everyone, We have appointed Mawali of that left by parents and relatives. In the injunctions of inheritance appearing previously, it was mentioned that, given the conditions, for a male there is a share equal to that of two females.
+There were other women who wished: Had we been men, we would have taken part in Jihad and the merit of Jihad would have been ours.' A woman asked the Holy Prophet ﷺ 'A man gets a double share in the inheritance and the witness of a woman is half as compared with a man - does that mean that we shall be getting a half reward for all of our acts of worship?' Thereupon, the present verse was revealed in which an answer to both these statements has been given.
 
 ## Tafsir Ibn Kathir
 

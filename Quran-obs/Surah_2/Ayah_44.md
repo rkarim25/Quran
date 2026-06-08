@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Enjoin you Al-Birr (piety and righteousness and every act of obedience to Allah) on the people and you forget (to practise it) yourselves, while you recite the Scripture (Tawrah))! An admonition to preachers without practice Verse 44 addresses the religious scholars of the Jews, and reprimands them for a strange contradiction in their behaviour - they used to advise their friends and relatives to f…
+We should state that Allah is not criticizing the People of the Book for ordering righteousness, because enjoining good is a part of righteousness and is an obligation for the scholars.
 
 ## Tafsir Ibn Kathir
 

@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Allah gives the example of a township (Makkah), it was secure and peaceful: its provision coming to it in abundance from every place, but it (its people) denied the favors of Allah. According to leading Tafsir authorities, the similitude mentioned in verse 112 is general and universal.
+So Allah made it taste extreme hunger (famine) and fear, because of what they did (112)There has come to them a Messenger from among themselves, but they denied him, so the torment seized them while they were wrongdoers . This happened because of their evil deeds, their wrongdoing and their rejection of the Messenger ﷺ that Allah sent to them from among themselves.
 
 ## Tafsir Ibn Kathir
 

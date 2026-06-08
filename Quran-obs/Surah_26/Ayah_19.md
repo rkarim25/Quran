@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when your Lord called Musa (saying): "Go to the people who are wrongdoers. Bani Isra'il were the residents of Syria.
+And you did dwell many years of your life with us.
 
 ## Tafsir Ibn Kathir
 

@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He has created the heavens and the earth with truth. The verses affirm the Oneness of Allah through the great signs of the creation of the universe.
+High is He, Exalted above all that they associate as partners with Him (3)He has created man from a Nutfah, then behold, this same (man) becomes an open opponent .
 
 ## Tafsir Ibn Kathir
 

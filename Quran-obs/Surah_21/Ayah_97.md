@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And a ban is laid on every town which We have destroyed that they shall not return (95)Until, when Ya'juj and Ma'juj (Gog and Magog people) are let loose, and they swoop down from every Hadab (96)And the true promise shall draw near. حَتَّىٰ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِّن كُلِّ حَدَبٍ يَنسِلُونَ (Until when the Ya'juj and Ma'juj (Gog and Magog) are released, while they run down from every height - 21:96.) In the previous verse it was said that those who died in a state of unbelief will never return to this world.
+And the promise of my Lord is ever true.
 
 ## Tafsir Ibn Kathir
 

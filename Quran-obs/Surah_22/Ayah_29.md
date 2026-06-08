@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-That they may witness things that are of benefit to them, and mention the Name of Allah on appointed days, over the beast of cattle that He has provided for them. ثُمَّ لْيَقْضُوا (Then, they must remove their dirt - 22:29) The word تَفَث means dirt, which gathers on human body.
+If a person makes a vow to do something which is sinful, then he is not bound to fulfill the vow, rather it is impermissible to act upon it, but he must make atonement for the unfulfilled vow.
 
 ## Tafsir Ibn Kathir
 

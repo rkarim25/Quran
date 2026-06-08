@@ -124,7 +124,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say to the bedouins who lagged behind: "You shall be called to fight against a people given to great warfare, then you shall fight them, or they shall surrender. لَّيْسَ عَلَى الْأَعْمَىٰ حَرَ‌جٌ (There is no blame on the blind, nor is there any blame on the lame, nor is there any blame on the sick...48:17) Sayyidna Ibn ` Abbas ؓ reports that when some sincere Muslims who were physically unable to fight read the concluding clause of verse 16: وَإِن تَتَوَلَّوْا كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا .
+And whosoever obeys Allah and His Messenger, He will admit him to Gardens beneath which rivers flow; and whosoever turns back, He will punish him with a painful torment .
 
 ## Tafsir Ibn Kathir
 

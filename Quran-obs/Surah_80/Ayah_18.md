@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Qutila mankind! The word safarah may be used as the plural of safir in the sense of 'envoy'.
+Consider what Allah has created you from?' Since its reply is so obvious that there can be no other reply, the next verse itself says: 'From a drop of semen!' Thus the verse draws pointed attention to the very humble beginning of man, so that it may be brought home to him that Allah having created him from such an insignificant thing as a sperm-drop, created him and proportioned him:
 
 ## Tafsir Ibn Kathir
 

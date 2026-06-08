@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they worship besides Allah, that which can neither profit them nor harm them; and the disbeliever is ever a helper against his Lord (55)And We have sent you only as a bearer of good news and a warner (56)Say: "No reward do I ask of you for this, save that whosoever wills may take a path to his Lord. فَاسْأَلْ بِهِ خَبِيرً‌ا (So ask about Him someone who knows - 25:59).
+Then He rose over the Throne.) means, He is running all affairs and He decrees according to the truth, and He is the best of those who decide.
 
 ## Tafsir Ibn Kathir
 

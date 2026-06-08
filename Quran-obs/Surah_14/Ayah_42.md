@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Consider not that Allah is unaware of that which the wrongdoers do, but He gives them respite up to a Day when the eyes will stare in horror (42)(They will be) hastening forward with necks outstretched, their heads raise… Stands for 'Qatiran', the original Qur’ anic word which means a highly inflammable oil extracted from the Pine-tree.
+And should it be that the Holy Prophet ﷺ himself is the addressee here, still then, the purpose of saying this would be to let the negligent of the community hear it and be warned - because, there exists just no possibility that the Holy Prophet ﷺ would, God forbid, ever think that Allah Ta’ ala is unaware or indifferent to what is happening.
 
 ## Tafsir Ibn Kathir
 

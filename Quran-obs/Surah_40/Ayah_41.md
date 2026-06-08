@@ -50,7 +50,7 @@ This chain of narration is Sahih according to the conditions of Al-Bukhari and M
 
 ## Tafsir Summary
 
-"And O my people! The word: صرح (sarh) in verse 36: وَقَالَ فِرْ‌عَوْنُ يَا هَامَانُ ابْنِ لِي صَرْ‌حًا (And the Pharaoh said, "0 Haman, make a tower for me,) means a structure that rises high.
+this Ayah was undoubtedly revealed in Makkah, but they use it as evidence to prove that there will be torment in the grave during the period of Al-Barzakh.
 
 ## Tafsir Ibn Kathir
 

@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So the Sayhah overtook them at the time of sunrise (73)And We turned them upside down and rained stones of baked clay upon them (74)Surely, in this are signs for those who see (75)And verily, they were right on the highr… Learn Your Essential Lesson From Sites Ruined by Divine Punishment In verses 75 and 76: إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّلْمُتَوَسِّمِينَ ﴿75﴾ وَإِنَّهَا لَبِسَبِيلٍ مُّقِيمٍ ﴿76﴾ (Surely, in that there are signs for those who read signs.
+In other words, after their destruction by Divine punishment, these habitations were not repopulated except some.
 
 ## Tafsir Ibn Kathir
 

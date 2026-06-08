@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And perform the Salah, and give the Zakah and obey the Messenger that you may receive mercy (56)Consider not that the disbelievers can escape in the land. Qurtubi has reported on authority of Abul ` Aliyah that the Holy Prophet ﷺ stayed in Makkah for ten years after commencement of revelation and declaration of prophethood, during which time there was a constant fear of the infidels and disbelievers.
+Their abode shall be the Fire – and worst indeed is that destination .
 
 ## Tafsir Ibn Kathir
 

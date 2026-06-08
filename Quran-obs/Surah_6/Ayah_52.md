@@ -117,7 +117,7 @@ Say: "I don't tell you that with me are the treasures of Allah, nor (that) I kno
 
 ## Tafsir Summary
 
-Say: "I don't tell you that with me are the treasures of Allah, nor (that) I know the Unseen; nor do I tell you that I am an angel. In Islam there is No Distinction between Rich and Poor, High or Low As for people who failed to feel human despite being human, even touched the outer limit of rating human beings as one of the smartest animals of the wo…
+Therefore, the first and the last lesson given by the blessed prophets and the religions they brought with them was that there is a life after this life, which will be eternal and uninterrupted.
 
 ## Tafsir Ibn Kathir
 

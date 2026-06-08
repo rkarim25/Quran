@@ -70,7 +70,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Anbiya' Al-Bukhari recorded that 'Abdur-Rahman bin Yazid said that 'Abdullah said, "Banu Isra'il, Al-Kahf, Maryam, Ta Ha and Al-Anbiya' - they are among the earliest and most beautiful Surahs and… أَفَتَأْتُونَ السِّحْرَ‌ وَأَنتُمْ تُبْصِرُ‌ونَ (Would you then go along with sorcery while you have eyes to see?
+- 21:3) Those people used to discuss among themselves secretly that the claim of the Holy Prophet about his prophethood should not be accepted, because he was an ordinary human being like all others and not an angel. Comes not unto them an admonition from their Lord as a recent revelation but they listen to it while they play.)(3.
 
 ## Tafsir Ibn Kathir
 

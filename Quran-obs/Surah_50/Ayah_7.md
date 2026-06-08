@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Have they not looked at the heaven above them, how We have made it and adorned it, and there are no Furuj in it (6)And the earth! After mentioning the confused state of the infidels, Allah draws man's attention to His infinite power which He demonstrated by creating what is bigger than that which they wondered about and whose possibility they discounted.
+However, when rain falls upon it, it is stirred to life; it swells and produces all of the lovely pairs such as flowers and the like – amazing on account of their beauty.
 
 ## Tafsir Ibn Kathir
 

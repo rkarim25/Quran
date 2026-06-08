@@ -128,7 +128,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Allah will say (on the Day of Resurrection): "O 'Isa, son of Maryam! 1.
+In fact, the purpose is to admonish his people who call them Christians that the one they are taking to be god is himself confessing to his servitude quite contrary to the belief they hold - and that he is free of all their accusations.
 
 ## Tafsir Ibn Kathir
 

@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And remember Our servants, Ibrahim, Ishaq, and Ya'qub, Ulil-Aydi wal-Absar (45)Verily, We did choose them by granting them the remembrance of the Abode (46)And they are with Us, verily, of the chosen and the best (47)And remember Isma'il, Al-Yasa', and Dhul-Kifl, all are among the best (48)This is a Reminder.. The expression: أُولِي الْأَيْدِي وَالْأَبْصَارِ‌(translated as: men of strength and men of vision) literally means 'owners or possessors of hands and eyes.' The sense is that they devoted their physical and intellectual energies in remaining obedient to Allah Ta’ ala.
+And remember Our servants, Ibrahim, Ishaq, and Ya'qub, Ulil-Aydi wal-Absar (45)Verily, We did choose them by granting them the remembrance of the Abode (46)And they are with Us, verily, of the chosen and the best (47)And remember Isma'il, Al-Yasa', and Dhul-Kifl, all are among the best (48)This is a Reminder..
 
 ## Tafsir Ibn Kathir
 

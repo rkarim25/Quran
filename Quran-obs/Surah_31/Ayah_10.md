@@ -119,7 +119,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He has created the heavens without any pillars that you see, and has set on the earth firm mountains lest it should shake with you. Verse 10 opens with the words: خَلَقَ السَّمَاوَاتِ بِغَيْرِ‌ عَمَدٍ تَرَ‌وْنَهَا (He has created the skies without the pillars that you may see).
+When pillars are not seen, it is clear that this great roof of the sky has been erected without pillars.
 
 ## Tafsir Ibn Kathir
 

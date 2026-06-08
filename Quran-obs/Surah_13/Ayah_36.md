@@ -117,7 +117,7 @@ The Truthful Ones from among the People of the Scriptures rejoice at what Allah 
 
 ## Tafsir Summary
 
-Those to whom We have given the Book, rejoice at what has been revealed unto you, but there are among the Ahzab (Confederates) those who reject a part thereof. In the verse: أَفَمَنْ هُوَ قَائِمٌ عَلَىٰ كُلِّ نَفْسٍ (Is then He, who is watchful over everyone ...
+Those to whom We have given the Book, rejoice at what has been revealed unto you, but there are among the Ahzab (Confederates) those who reject a part thereof.
 
 ## Tafsir Ibn Kathir
 

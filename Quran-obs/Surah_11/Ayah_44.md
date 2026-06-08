@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And it was said: "O earth! At the end of the fourth verse (44), it was said that the heaven and the earth obeyed the orders and the matter of the flood was all over.
+However, this mountain (Judi) humbled itself for Allah, the Mighty and Sublime, and therefore it was not drowned. The End of the Flood Allah, the Exalted, informs that when the people of the earth were all drowned, except for the people on the ship, He commanded the earth to swallow its water, which had sprang from it and gathered upon it.
 
 ## Tafsir Ibn Kathir
 

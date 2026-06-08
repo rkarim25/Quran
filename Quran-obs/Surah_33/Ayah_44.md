@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Sayyidna Ibn ` Abbas ؓ has stated that Salah from Allah is blessing, from angels it is prayer for forgiveness and from humans it is supplication.
+And He is Ever Most Merciful to the believers (43)Their greeting on the Day they shall meet Him will be "Salam (Peace!)" And He has prepared for them a generous reward (44). Allah much Allah commands His believing servants to remember their Lord much, Who has bestowed upon them all kinds of blessings and favors, because this will bring them a great reward and a wonderful destiny.
 
 ## Tafsir Ibn Kathir
 

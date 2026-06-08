@@ -44,7 +44,7 @@ And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and 
 
 ## Tafsir Summary
 
-And indeed We tried before them Fir'awn's people, when there came to them a noble Messenger (17)Saying: "Deliver to me the servants of Allah. Weeping of the Sky and the Earth فَمَا بَكَتْ عَلَيْهِمُ السَّمَاءُ وَالْأَرْ‌ضُ "So, neither the sky and earth wept over them...
+This means they did not perform any righteous deeds on earth which would weep for them when they died, nor did any of their righteous deeds ascend through the gates of heaven, so that the sky would weep on their death. It may be objected that neither the heaven nor the earth has any sense so that they would weep in the primary sense in which we understand it.
 
 ## Tafsir Ibn Kathir
 

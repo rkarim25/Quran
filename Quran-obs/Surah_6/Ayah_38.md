@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they said: "Why is not a sign sent down to him from his Lord?" Say: "Allah is certainly able to send down a sign, but most of them know not. The sixth verse (38): وَمَا مِن دَابَّةٍ (there is no creature moving …) tells us that, on the day of Qiyamah, animals will also be given life along with human beings.
+Therefore, ` Ulama' have said that the retaliation against the behaviour of animals on the day of Resurrection will not be because of their being obligated, but it will be because of the Lord's utmost regard for equity and justice - based on which the cruelty of one living creature against' the other living creature will be recompensed, with no reward or punishment to follow for the rest of their behaviour.
 
 ## Tafsir Ibn Kathir
 

@@ -81,7 +81,7 @@ Verse 112 also announces the reward of those who act upon these principles -- on
 
 ## Tafsir Summary
 
-And they say, "None shall enter Paradise unless he be a Jew or a Christian." These are their own desires. The Jews and the Christians were hostile not only to the Muslims, but also to each other.
+follows Allah's religion of Islamic Monotheism) and he is a Muhsin then his reward is with his Lord (Allah), on such shall be no fear, nor shall they grieve (112)The Jews said that the Christians follow nothing (i.e.
 
 ## Tafsir Ibn Kathir
 

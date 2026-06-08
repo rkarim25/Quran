@@ -83,7 +83,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It was said: "O Nuh! In the fourth verse (48), described there is the end of the flood.
+Come down (from the ship) with peace from Us and blessings on you and on the people who are with you (and on some of their offspring), but (there will be other) people to whom We shall grant their pleasures (for a time), but in the end a painful torment will reach them from Us.
 
 ## Tafsir Ibn Kathir
 

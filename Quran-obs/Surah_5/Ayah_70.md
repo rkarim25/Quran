@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, We took the covenant of the Children of Israel and sent Messengers to them. This is an account of how the Bani Isra'il kept breaking the pledge taken from them.
+Verily, We took the covenant of the Children of Israel and sent Messengers to them. As said in verse 70, whenever their Messenger brought a command which did not suit their fancy, they would break their pledge and go about betraying Allah to the limit that they would falsify His Messengers, even kill some of them.
 
 ## Tafsir Ibn Kathir
 

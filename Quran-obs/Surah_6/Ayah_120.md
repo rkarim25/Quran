@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Leave sin, open and secret. Earlier (116), by saying: وَ اِن تطِع (And if you obey), following people in error was prohibited absolutely.
+Therefore, the Muslims are directed to ignore such absurd questions and keep believing and acting as before.
 
 ## Tafsir Ibn Kathir
 

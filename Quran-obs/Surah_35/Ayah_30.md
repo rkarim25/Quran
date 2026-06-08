@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who recite the Book of Allah, and perform the Salah, and spend out of what We have provided for them, secretly and openly, they hope for a (sure) trade-gain that will never perish (29)That He may pay them their wages in full, and give them (even) more, out of His grace. Mentioned earlier, in verse 28, there was a quality of true ` Ulama' who acknowledge Allah.
+Included within this grace and increase is the promise of Allah Ta’ ala that He rewards the deed of a believer multiplied many times, the lowest denominator of which could be ten times of the deed, and the highest could reach seven hundred times, even higher than that.
 
 ## Tafsir Ibn Kathir
 

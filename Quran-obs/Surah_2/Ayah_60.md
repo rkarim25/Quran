@@ -128,7 +128,7 @@ This story is similar to the story in Surat Al-'Araf (Chapter 7) although the la
 
 ## Tafsir Summary
 
-And (remember) when Musa asked for water for his people, We said: "Strike the stone with your stick." Then gushed forth therefrom twelve springs. This incident too belongs to the story of the wanderings of the Israelites in the wilderness.
+And (remember) when Musa asked for water for his people, We said: "Strike the stone with your stick." Then gushed forth therefrom twelve springs. As he did so, twelve streams gushed forth out of the rock, one for each of the twelve tribes.
 
 ## Tafsir Ibn Kathir
 

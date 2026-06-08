@@ -113,7 +113,7 @@ There is a Hadith [from the Prophet ﷺ] about the Tafsir of this Ayah that we s
 
 ## Tafsir Summary
 
-Do you consider the providing of drinking water to the pilgrims and the maintenance of Al-Masjid Al-Haram as equal to the worth of those who believe in Allah and the Last Day, and strive hard and fight in the cause of Allah They are not equal before Allah. The first four verses (19 - 22) relate to a particular event.
+They are not equal in the sight of Allah -19) Seen contextually, the purpose is to urge that each one from 'Iman and Jihad is superior to the serving of water to pilgrims and the maintenance of the Mosque, that is, 'Iman too is superior to both, and Jihad too.
 
 ## Tafsir Ibn Kathir
 

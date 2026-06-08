@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-It is He, Who takes your souls by night (when you are asleep), and has knowledge of all that you have done by day, then he raises (wakes) you up again, that a term appointed be fulfilled, then (in the end), unto Him will be your return. No doubt, Allah Ta’ ala had blessed His Messengers (علیہم السلام) specially the Last among them ﷺ with the knowledge of many things from the Unseen, more than the knowledge of all angels and prophets, but it is obvious that the knowledge of anyone cannot be equal to that of Allah, nor it can ever be.
+The Servants are in Allah's Hands Before and After Death Allah states that He brings death to His servants in their sleep at night, for sleep is minor death.
 
 ## Tafsir Ibn Kathir
 

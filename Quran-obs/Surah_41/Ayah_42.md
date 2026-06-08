@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who 'Yulḥidūna Fī' Our Ayat are not hidden from Us. لَّا يَأْتِيهِ الْبَاطِلُ مِن بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ (that cannot be approached by falsehood, neither from its front, nor from its behind.) Qatadah and Suddi have stated that ` batil' (falsehood) in this verse means Shaitan (Satan), and ` neither from its front, nor from its behind' means ` from any side'.
+And verily, it is an honorable well-fortified respected Book (41)Falsehood cannot come to it from before it or behind it, (it is) sent down by the All-Wise, Worthy of all praise (42)Nothing is said to you except what was said to the Messengers before you.
 
 ## Tafsir Ibn Kathir
 

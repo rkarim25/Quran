@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those were the towns whose story We relate unto you. The verse 102 has said, "And We did not find with most of them any covenant (unbroken)." The Companion ` Abdullah ibn Abbas ؓ has said that the covenant referred to in this verse is the Covenant called .
+The covenant mentioned here is the Fitrah that Allah instilled in them while still in their fathers' loins, and taking their covenant, that He is their Lord, King, and that there is no deity worthy of worship except Him,.
 
 ## Tafsir Ibn Kathir
 

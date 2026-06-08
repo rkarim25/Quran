@@ -104,7 +104,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Remember) when He covered you with a slumber as a security from Him, and He caused water (rain) to descend on you from the sky, to clean you thereby and to remove from you the Rijz (whispering or dirt) of Shaytan, and to strengthen your hearts, and make your feet firm thereby (11)(Remember) when your Lord revealed to the angels, "Verily, I am with you, so keep firm those who have believed. The fourth verse (10) restates this aspect explicitly by saying: وَمَا جَعَلَهُ اللَّـهُ إِلَّا بُشْرَ‌ىٰ وَلِتَطْمَئِنَّ بِهِ قُلُوبُكُمْ.
+Slumber overcomes Muslims Allah reminds the believers of the slumber that He sent down on them as security from the fear they suffered from, because of the multitude of their enemy and the sparseness of their forces. Therefore, it appears that this will occur for the believers, whenever they are in distress, so that their hearts feel safe and sure of Allah's aid, rewards, favor and mercy from Allah with them.
 
 ## Tafsir Ibn Kathir
 

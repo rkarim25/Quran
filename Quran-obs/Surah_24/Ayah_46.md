@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-We have indeed sent down manifest Ayat. From the sky mountains (of clouds) having hail in them - 43.
+And Allah guides whom He wills to the straight path.) Allah states that in this Qur'an He has revealed many clear and unambiguous rulings, words of wisdom and parables, and that He guides people of understanding, insight and intellect to ponder and understand them. We have indeed sent down manifest Ayat.
 
 ## Tafsir Ibn Kathir
 

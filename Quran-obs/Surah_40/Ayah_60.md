@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And your Lord said: "Call upon Me, I will answer you. The reality of du` a' (supplication) and its merits, levels and conditions of acceptance And your Lord has said, “ Call Me, I will respond to you.
+In this verse under study, those who abandon dua' in the sense of ` ibadah the warning of Jahannam given to them is in the eventuality of being too proud, that is, a person who, in his pride, considers himself in no need of making a dua' and actually abandons it, then, this is a sign of kufr (open infidelity), therefore, the warning of Jahannam became due against him.
 
 ## Tafsir Ibn Kathir
 

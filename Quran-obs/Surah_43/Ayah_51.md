@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Fir'awn proclaimed among his people (saying): "O my people! Incidents related to Sayyidna Musa (علیہ السلام) have been stated by the Qur'an at many places repeatedly, and the incidents referred to in the present verses have been described in detail in Surah Al-A` raf.
+He assembled his people and addressed them in a vainglorious fashion, boasting of his dominion over Egypt.
 
 ## Tafsir Ibn Kathir
 

@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But for him who fears the standing before his Lord, there will be two Gardens (46)Then which of the blessings of your Lord will you both deny (47)With Afnān (48)Then which of the blessings of your Lord will you both deny… فِيهِمَا مِن كُلِّ فَاكِهَةٍ زَوْجَانِ (In both there are two kinds of every fruit...52).
+This may be referring to one kind of dried fruits, and the other of fresh ones.
 
 ## Tafsir Ibn Kathir
 

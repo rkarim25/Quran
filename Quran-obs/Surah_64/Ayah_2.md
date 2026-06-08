@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. هُوَ الَّذِي خَلَقَكُمْ فَمِنكُمْ كَافِرٌ‌ وَمِنكُم مُّؤْمِنٌ (He is the One who created you, then some of you are disbelievers, and some of you are believers…64:2).
+In this instance, the phrase ‘khalaqakum’ [ created you ] indicates that at the inception of creation there were no unbelievers [ kafis ]. He it is Who created you, then some of you are disbelievers and some of you are believers.
 
 ## Tafsir Ibn Kathir
 

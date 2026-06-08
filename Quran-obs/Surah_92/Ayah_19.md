@@ -36,7 +36,7 @@ Many of the scholars of Tafsir have mentioned that these Ayat were revealed abou
 
 ## Tafsir Summary
 
-Truly, on Us is (to give) guidance (12)And truly, unto Us (belong) the last (Hereafter) and the first (this world)(13)Therefore I have warned you of a Fire Talazza (14)None shall enter it save the most wretched (15)Who d… وَمَا لِأَحَدٍ عِندَهُ مِن نِّعْمَةٍ تُجْزَىٰ (while no one has conferred any favour on him for which he would give a return,...92:19) Sayyidna Abu Bakr ؓ did this great favour by spending abundant wealth.
+The emancipated slaves had not done him any favour in the past, so that one could say that he was returning their favour. Truly, on Us is (to give) guidance (12)And truly, unto Us (belong) the last (Hereafter) and the first (this world)(13)Therefore I have warned you of a Fire Talazza (14)None shall enter it save the most wretched (15)Who denies and turns away (16)And those with Taqwa will be far removed from it (17)He who gives of his wealth for self-purification (18)And who…
 
 ## Tafsir Ibn Kathir
 

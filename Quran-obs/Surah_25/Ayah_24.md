@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who expect not a meeting with Us said: "Why are not the angels sent down to us, or why do we not see our Lord" Indeed they think too highly of themselves, and are scornful with great pride (21)On the Day they will see the angels – no good news will there be for the criminals that day. خَيْرٌ‌ مُّسْتَقَرًّ‌ا وَأَحْسَنُ مَقِيلًا (The best in (terms of their) abode and best in (terms of their) resting-place - 25:24).
+The people of Hell will go to Hell, but the people of Paradise will be taken to Paradise and will have their siesta in Paradise, and they will be fed the liver of a whale and they will all eat their fill. This day you shall be recompensed with the torment of degradation because of what you used to utter against Allah other than the truth.
 
 ## Tafsir Ibn Kathir
 

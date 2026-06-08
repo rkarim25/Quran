@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The parable of those who disbelieved in their Lord is that their works are as ashes, on which the wind blows furiously on a stormy day; they shall not be able to get aught of what they have earned. In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَكْفُرُ‌وا أَنتُمْ وَمَن فِي الْأَرْ‌ضِ جَمِيعًا (And Musa said, "If you are ungrateful, you and all those on earth, then, Allah is free of all needs, worthy of every praise.) " This was said by Sayyidna Musa (علیہ السلام) to his people.
+His parable is that of a smooth rock on which is a little dust; on it falls heavy rain which leaves it bare.
 
 ## Tafsir Ibn Kathir
 

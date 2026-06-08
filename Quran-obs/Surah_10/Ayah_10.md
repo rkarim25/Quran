@@ -65,7 +65,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who believe and do deeds of righteousness, their Lord will guide them through their faith; under them will flow rivers in the Gardens of delight (Paradise)(9)Their way of request therein will be: "Glory to You, O Allah!" and "Salam" (peace, safety from evil) will be their greetings therein! Some particular states in which the people of Jannah shall find themselves after their arrival there have been spelt out in the fourth verse (10).
+Though, the salam greeting is actually a du'a (prayer) in the mortal world but, once in Jannah where one would have everything one needs or wishes to have, therefore, this word will not retain its sense of prayer there, instead, will become a complement of glad tidings.
 
 ## Tafsir Ibn Kathir
 

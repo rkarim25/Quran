@@ -144,7 +144,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-As for those who disbelieved, their deeds are like a mirage in a Qi'ah. After describing the two examples the next sentence says: وَمَن لَّمْ يَجْعَلِ اللَّـهُ لَهُ نُورً‌ا فَمَا لَهُ مِن نُّورٍ‌(And the one to whom Allah does not give light can have no light at all - 40).
+And Allah is swift in taking account (39)Or like the darkness in a vast deep sea, overwhelmed with waves topped by waves, topped by dark clouds, (layers of) darkness upon darkness: if a man stretches out his hand, he can hardly see it! The word Qi'ah refers to a vast, flat, level area of land in which the mirage may appear.
 
 ## Tafsir Ibn Kathir
 

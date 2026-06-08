@@ -118,7 +118,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-There is no good in most of their secret talks save (in) him who orders Sadaqah, or goodness, or conciliation between mankind; and he who does this, seeking the good pleasure of Allah, We shall give him a great rewar (11… Moving from the episode of theft and the conspiracies made to cover up the crime by false accusations against others, the text now highlights positive things that can be done through mutual consultation and which could help one to remain obedient to the Messenger's teachings and the command of Allah without ever trying to go against the ideal path taken by those who believe in Allah and His Messenger.
+Bidding the Fair includes all imperatives and motivations through which people are led to do what is good and right.
 
 ## Tafsir Ibn Kathir
 

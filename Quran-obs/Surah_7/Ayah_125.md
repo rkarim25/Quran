@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Fir'awn said: "You have believed in him [Musa] before I gave you permission. The Pharaoh made all the efforts that he could to control his people.
+Surely, this is a plot which you have plotted in the city to drive out its people, but you shall come to know.
 
 ## Tafsir Ibn Kathir
 

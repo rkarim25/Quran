@@ -110,7 +110,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Fighting is ordained for you (Muslims) though you dislike it, and it may be that you dislike a thing which is good for you and that you like a thing which is bad for you. Verse 216 establishes the obligatory nature of Jihad even though it may be burdensome for some temperaments.
+Hence, one might covet something, yet in reality it is not good or beneficial for him, such as refraining from joining the Jihad, for it might lead to the enemy taking over the land and the government.
 
 ## Tafsir Ibn Kathir
 

@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "To whom belongs all that is in the heavens and the earth?" Say: "To Allah." He has prescribed mercy for Himself. The word, ` sukun' appearing in verse 13: وَلَهُ مَا سَكَنَ فِي اللَّيْلِ وَالنَّهَارِ‌ (And to Him belongs what finds rest in the night and the day) could either mean the state of being still or at rest, in which case, the verse would mean that Allah is the Master of everything present in the night and the day.
+Those who destroy themselves will not believe (12)And to Him belongs whatsoever exists in the night and the day, and He is the All-Hearing, the All-Knowing.
 
 ## Tafsir Ibn Kathir
 

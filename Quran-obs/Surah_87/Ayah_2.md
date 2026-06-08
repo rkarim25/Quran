@@ -22,7 +22,7 @@ This Surah was revealed in Makkah before the migration to Al-Madinah. The proof 
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-A'la This Surah was revealed in Makkah before the migration to Al-Madinah. Subtle and Profound Wisdom in the Creation of the Universe الَّذِي خَلَقَ فَسَوَّىٰ وَالَّذِي قَدَّرَ فَهَدَىٰ (who created [ everything ], then made [ it ] well, and who determined a measure [ for everything ], then guided [ it ]...87:2, 3).
+As a matter of fact, He guided the entire creation by equipping each member of it with suitable nature to function for which it was created, whether the member is the sky or celestial creation, or it is the earth or the earthly creation.
 
 ## Tafsir Ibn Kathir
 

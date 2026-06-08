@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-If you could but see when they will be held over the (Hell) Fire! In the second verse (28), Almighty Allah, who is All-Knowing and All-Aware, exposes the reality of their wish, which would be nothing but the compulsion of circumstances, by making it clear that these people have always been addicted to lying and that they were liars even in their present wish under trial.
+But the (lie) which they invented will disappear from them.) It is also possible that the meaning here is that the disbelievers will realize the truth that they knew all along in their hearts, that is, that what the Messengers brought them in this life is true, although they used to deny his Message before their followers.
 
 ## Tafsir Ibn Kathir
 

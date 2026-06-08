@@ -48,7 +48,7 @@ Verse 81: وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَا
 
 ## Tafsir Summary
 
-And say: "My Lord! Verse 81: وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ (And say, "Truth has come and false-hood has vanished" ) was revealed after Hijrah about the conquest of Makkah.
+Surely, falsehood is ever bound to vanish.
 
 ## Tafsir Ibn Kathir
 

@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This was the First of the Qur'an revealed In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 2] خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ (Created man from a clot of blood.) The previous verse referred to the creation of macrocosm, the large or entire universe in general.
+In the Name of your Lord Who created.)(2. In this verse, the phrase is khalaqa'l-insan which refers to the creation of microcosm 'the best, noblest or most honourable creation', Man.
 
 ## Tafsir Ibn Kathir
 

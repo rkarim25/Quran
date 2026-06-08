@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Fir'awn said: "And what is the Lord of Al-'Alamin (23)(Musa) said: "The Lord of the heavens and the earth, and all that is between them, if you seek to be convinced with certainty. Bani Isra'il were the residents of Syria.
+They wanted to go back to their land but the Pharaoh would not let them.
 
 ## Tafsir Ibn Kathir
 

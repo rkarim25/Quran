@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Invoke your Lord Tadarru'an and Khufyah. Mentioned in previous verses were particular manifestations of the perfect power of Allah Ta` ala, and His major blessings.
+Then, in the second word, the instruction given is that the asking in Du` a' for what one needs should be done secretly and in a lowered voice which is superior in merit and more likely to be answered.
 
 ## Tafsir Ibn Kathir
 

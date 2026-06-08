@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And verily, this is My straight path, so follow it, and follow not (other) paths, for they will separate you away from His path. The Sixth Prohibition : Eating up the Property of the Orphan by False Means About the unlawfulness of devouring the property of the orphan by false means - the sixth command given in the second verse (152) - it was said: وَلَا تَقْرَ‌بُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ (And do not approach the property of the orphan except with the best possible conduct, until he reaches maturity).
+It means: 'when you have come to know that the religion of Islam is My path, and that alone is the straight path, you have before you the only path headed towards the desired destination, therefore, this is the path you shall follow.
 
 ## Tafsir Ibn Kathir
 

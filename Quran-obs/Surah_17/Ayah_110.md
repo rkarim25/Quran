@@ -104,7 +104,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Invoke Allah or invoke Ar-Rahman (the Most Gracious), by whatever name you invoke Him (it is the same), for to Him belong the Best Names. These are the last verses of Surah Bani Isra'il (Al-'Isra' ).
+This injunction, as obvious, is particular with prayers wherein the recitation is voiced.
 
 ## Tafsir Ibn Kathir
 

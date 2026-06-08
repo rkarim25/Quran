@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-See you not that Allah has subjected for you whatsoever is in the heavens and whatsoever is on the earth, and has completed and perfected His graces upon you, apparent and hidden? At the beginning of the Surah, the Kafirs and the Mushriks were admonished for still persisting with their Kufr and Shirk despite that they had seen the manifestations of the all-encompassing knowledge and the most perfect power of Allah Ta’ ala.
+Is it not that, first of all, not even everything on the earth is subservient to human will and command?
 
 ## Tafsir Ibn Kathir
 

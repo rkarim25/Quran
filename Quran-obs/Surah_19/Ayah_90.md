@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "The Most Gracious (Allah) has begotten a son. "And the mountains to fall down crumbling" - 19:90.
+These verses suggest that the earth, the mountains and everything that grows thereon possess a certain degree of knowledge and intelligence though in their case these perceptions are not of the same extent as that bestowed on human beings. These verses refer to this very perception of these things that to associate anything or being with Allah Ta` ala, specially to assert that He has children is a sin which makes the earth and the mountains quake with fear.
 
 ## Tafsir Ibn Kathir
 

@@ -74,7 +74,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Allah belongs the Ghayb of the heavens and the earth, and to Him return all affairs (for decision). Difference: Blameworthy and Praiseworthy When it was said in the fifth verse (118) - ` had your Lord willed, He would have made all the people a single community' - the sense is that had it been the will of Allah, He would have made all human beings accept Islam by force.
+Allah, the Exalted, informs that He is the All-Knower of the unseen of the heavens and the earth and that unto Him is final return.
 
 ## Tafsir Ibn Kathir
 

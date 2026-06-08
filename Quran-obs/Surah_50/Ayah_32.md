@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-On the Day when We will say to Hell: "Are you filled?" It will say: "Are there any more? Analysis of "Awwab" and 'Hafiz' لِكُلِّ أَوَّابٍ حَفِيظٍ (" This is what you were promised for everyone oft-returning to Allah, vigilant....50:32).
+That is to say, Paradise has been promised to every person who is awwab and hafiz.
 
 ## Tafsir Ibn Kathir
 

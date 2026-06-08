@@ -72,7 +72,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do you think that the people of Al-Kahf and Ar-Raqim were a wonder among Our signs (9)When the young men fled for refuge to Al-Kahf. Kahf is a large mountainous cave or cavern.
+Muhammad bin Ishaq said: "(It means) I have not shown My creatures a proof more amazing than the story of the people of the Al-Kahf and Ar-Raqim." Al-Kahf refers to a cave in a mountain, which is where the young men sought refuge.
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And how many a sign in the heavens and the earth they pass by, while they are averse therefrom (105)And most of them believe not in Allah except that they attribute partners unto Him (106)Do they then feel secure from th… How many a sign there is in the heavens and the Earth which they pass by and they are heedless to it.
+And how many a sign in the heavens and the earth they pass by, while they are averse therefrom (105)And most of them believe not in Allah except that they attribute partners unto Him (106)Do they then feel secure from the coming against them of the covering veil of the torment of Allah, or of the coming against them of the (Final) Hour, all of a sudden while they perceive not .
 
 ## Tafsir Ibn Kathir
 

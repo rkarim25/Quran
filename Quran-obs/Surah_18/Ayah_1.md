@@ -56,7 +56,7 @@ Muhammad bin Ishaq mentioned the reason why this Surah was revealed. He said tha
 
 ## Tafsir Summary
 
-What has been mentioned about the Virtues of this Surah and the first and last ten Ayat Imam Ahmad recorded that Al-Bara' said: "A man recited Al-Kahf and there was an animal in the house which began acting in a nervous manner. The properties and merits of Surah al-Kahf According to a narration of Sayyidna Abu al-Darda' ؓ appearing in Muslim, Abu Dawud, Tirmidhi, al-Nasa'i and the Musnad of Ahmad, one who has memorized the first ten verses of Surah al-Kahf will remain protected from the ill effects of Dajjal (imposter).
+this is the tranquillity which descends when one reads Qur'an or because of reading Qur'an;) This was also recorded in the Two Sahihs. This man who recited it was Usayd bin Al-Hudayr, as we have previously mentioned in our Tafsir of Surat Al-Baqarah.
 
 ## Tafsir Ibn Kathir
 

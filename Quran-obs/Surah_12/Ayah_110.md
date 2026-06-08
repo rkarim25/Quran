@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(They were reprieved) until, when the Messengers gave up hope and thought that they were denied, then came to them Our help, and whomsoever We willed were rescued. Mentioned in the previous verses was the sending of prophets who invited people to take the straight path, and also answered there were some doubts about them.
+this is the way 'A'ishah, may Allah be pleased with her, recited it.
 
 ## Tafsir Ibn Kathir
 

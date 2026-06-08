@@ -107,7 +107,7 @@ While the Holy Prophet ﷺ was on his journey, Sayyidna Zaid Ibn Arqam ؓ came n
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The incident, in which this Surah was revealed, took place in the campaign against Banul-Mustaliq which happened, according to Muhammad Ibn Ishaq in Sha’ ban 6AH and according to Qatadah and ‘Urwah, in Sha’ ban 5AH.
+They are arrogant; it is neither easy for them to blend in, nor it is easy for people to blend with them.
 
 ## Tafsir Ibn Kathir
 

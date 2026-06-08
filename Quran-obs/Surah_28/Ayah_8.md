@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We inspired the mother of Musa: "Suckle him (Musa), but when you fear for him, then cast him into the river and fear not, nor grieve. وَأَوْحَيْنَا إِلَىٰ أُمِّ مُوسَىٰ (28:7) The word Wahy (inspiration) is used here in its literal meaning.
+No one ever saw Musa, peace be upon him, but they loved him, and the blessed ones were those who loved him both as a natural feeling and because he was a Prophet. Allah filled her heart with love for him when she saw him; this was because she was blessed and because Allah wanted to honor her and cause her husband's doom.
 
 ## Tafsir Ibn Kathir
 

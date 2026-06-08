@@ -41,7 +41,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Ibrahim said to his father and his people: "Verily, I am innocent of what you worship, (26)"Except Him Who created me; and verily, He will guide me. وَجَعَلَهَا كَلِمَةً بَاقِيَةً فِي عَقِبِهِ (And he made it a word lasting among his posterity.) It means that Ibrahim t did not keep the belief in 'tauhid' restricted to himself, rather he emphasized upon his posterity also to remain firm on this faith, as a result of which a large number of his posterity adhered to tauhid.
+It is We Who portion out between them their livelihood in this world, and We raised some of them above others in ranks, so that some may employ others in their work. He hastens their reward for good deeds in the form of luxuries in this world, so that when they reach the Hereafter, they will have no good merits with Allah for which they may be rewarded, as was reported in the Sahih Hadith.
 
 ## Tafsir Ibn Kathir
 

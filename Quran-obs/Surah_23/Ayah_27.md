@@ -145,7 +145,7 @@ He said: "O my Lord! Help me because they deny me. (26)So, We revealed to him: "
 
 ## Tafsir Summary
 
-He said: "O my Lord! وَفَارَ‌ التَّنُّورُ‌ (And the oven gushes forth - 23:27).
+Then, when Our command comes, and (water) gushes forth from the oven, take on board of each kind two, and your family, except those thereof against whom the Word has already gone forth. Help me because they deny me.) At that point, Allah commanded him to build a boat and to make it strong and firm, and to carry therein of every kind two, i.e., a male and a female of every species of animals, plants and fruits etc.
 
 ## Tafsir Ibn Kathir
 

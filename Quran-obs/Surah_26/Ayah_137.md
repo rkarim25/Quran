@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "It is the same to us whether you preach or be not of those who preach. Explanation of some difficult words Do you erect on every height a sign having no sound purpose, [ 128] and take the objects of architecture as if you are going to live forever, (26:128-129)
+They used to build fortresses in the mountains and caves, and they dug ditches half as deep as a man is tall, but that did not help them against the command of Allah at all. He told them that he did not seek any reward from them for his call to them, but that he would seek the reward for that with Allah.
 
 ## Tafsir Ibn Kathir
 

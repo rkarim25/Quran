@@ -76,7 +76,7 @@ This is followed by a description of the Jihads which Prophets Musa and ` Isa (�
 
 ## Tafsir Summary
 
-And who does more wrong than the one who invents a lie against Allah, while he is being invited to Islam? إِنَّ اللَّـهَ يُحِبُّ الَّذِينَ يُقَاتِلُونَ فِي سَبِيلِهِ صَفًّا كَأَنَّهُم بُنْيَانٌ مَّرْ‌صُوصٌ (Surely Allah loves those who fight in His way in firm rows, as if they were a solid edifice...61:4) The main subject of this Surah for which it was revealed is to mention the dearest action in the sight of Allah.
+And who does more wrong than the one who invents a lie against Allah, while he is being invited to Islam? This verse states that it is jihad in Allah's way, and that the best row of battle in the sight of Allah is the one firmly established against Allah's enemies to make Allah's word prevail, and which, on account of the valor and unshaken determination of Mujahidin, looks like a strong structure cemented with molten lead.
 
 ## Tafsir Ibn Kathir
 

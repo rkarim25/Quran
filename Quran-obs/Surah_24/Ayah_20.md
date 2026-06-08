@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And had it not been for the grace of Allah and His mercy on you, and that Allah is full of kindness, Most Merciful (20)O you who believe! Surely, those who like that shamelessness spreads among the believers, for them there is a painful punishment in this world and the Hereafter - 24:19.
+And had it not been for the grace of Allah and His mercy on you, and that Allah is full of kindness, Most Merciful (20)O you who believe!
 
 ## Tafsir Ibn Kathir
 

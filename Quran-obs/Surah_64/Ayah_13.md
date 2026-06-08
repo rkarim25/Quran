@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-No calamity occurs, but by the permission of Allah, and whosoever believes in Allah, He guides his heart. مَا أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ اللَّـهِ ۗ وَمَن يُؤْمِن بِاللَّـهِ يَهْدِ قَلْبَهُ (And no calamity befalls [ one ], but with the leave of Allah.
+'Az-Zuhri said, "From Allah comes the Message, its deliverance is up to the Messenger, and the adherence is up to us." Tawhid Allah states that He is the One, Whom all creations need and seek, the One other than Whom there is no (true) God.
 
 ## Tafsir Ibn Kathir
 

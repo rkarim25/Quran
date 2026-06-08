@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, after them, We created another generation (31)And We sent to them a Messenger from among themselves (saying): "Worship Allah! There is nothing but our worldly life.
+So, away with the people who are wrongdoers (41).
 
 ## Tafsir Ibn Kathir
 

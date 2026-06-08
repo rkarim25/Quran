@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So when he furnished them forth with their provisions, he put the bowl in his brother's bag. The present verses describe how Sayyidna Yusuf (علیہ السلام) arranged to have his real brother, Benyamin, stay on with him.
+So when he furnished them forth with their provisions, he put the bowl in his brother's bag.
 
 ## Tafsir Ibn Kathir
 

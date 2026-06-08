@@ -65,7 +65,7 @@ There appears a Hadith in the Sahih of Bukhari and Muslim, as well as in other b
 
 ## Tafsir Summary
 
-Allah sends His Salah on the Prophet, and also His angels (do so). In verses previous to this, some peculiarities and distinctions of the Holy Prophet ﷺ were mentioned as an adjunct to which the command to observe Hijab was revealed while some injunctions of Hijab will also appear later on.
+this is Zakah for you, and ask Allah to grant me Al-Wasilah, for it is a position in the highest part of Paradise which only one man will attain, and I hope that I will be the one.) This was recorded only by Ahmad.. Another Hadith.
 
 ## Tafsir Ibn Kathir
 

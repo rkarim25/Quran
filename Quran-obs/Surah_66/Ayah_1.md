@@ -71,7 +71,7 @@ I said, 'Messenger of Allah, have you divorced them?' He said, 'No.' I stood at 
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. It is recorded in Sahih of Bukhari and in other collection of Ahadith, on the authority of Sayyidah ` A'ishah ؓ that it was a daily practice of the Messenger of Allah to visit each of his wives after ` asr prayer for a short time inquiring about their welfare.
+66:1) According to the principles of general stylistics, the Qur'an does not address the Holy Prophet' by his name but by his Prophetic title thus: '0 Prophet' which is his special honour.
 
 ## Tafsir Ibn Kathir
 

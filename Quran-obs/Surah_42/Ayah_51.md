@@ -104,7 +104,7 @@ The Holy Prophet ï·º told the Jews that it is wrong to say that Sayyidna Musa (Ø
 
 ## Tafsir Summary
 
-It is not given to any human being that Allah should speak to him unless (it be) by revelation, or from behind a veil, or (that) He sends a Messenger to reveal what He wills by His leave. The first of the above verses (51) was revealed in response to a hostile Jewish demand.
+The specific mention of ` human being' in this verse is because the intention here is to address mankind.
 
 ## Tafsir Ibn Kathir
 

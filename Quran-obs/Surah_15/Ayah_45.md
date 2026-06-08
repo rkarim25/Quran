@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Truly, those who have Taqwa, will dwell in Gardens and water springs (45)(It will be said to them): "Enter it in peace and security. According to Sayyidna ` Abdullah ibn ` Abbas ؓ ، when the people of Jannah will enter Jannah, first of all two streams of water will be presented before them.
+And that My torment is indeed the most painful torment.) meaning, 'O Muhammad, tell My servants that I am the source of mercy and I am the source of punishment.' Similar Ayat to this have already been quoted above, which indicate that we must always be in a state between hope (for Allah's mercy) and fear (of His punishment). He tells us that they will dwell in Gardens and water springs.
 
 ## Tafsir Ibn Kathir
 

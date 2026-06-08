@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-How Fir`awn mocked the Lord of Musa Allah tells us of the arrogant and hostile defiance of Fir`awn and his rejection of Musa, when he commanded his minister Haman to build him a tower, i.e., a tall, high, strong fortress. The word: صرح (sarh) in verse 36: وَقَالَ فِرْ‌عَوْنُ يَا هَامَانُ ابْنِ لِي صَرْ‌حًا (And the Pharaoh said, "0 Haman, make a tower for me,) means a structure that rises high.
+Since no one expects any head of the state to go that wild in his imagination, therefore, some commentators have said that this much he too knew that, no matter how high a structure is made for him, he still cannot reach the skies (by that mode of ascent).
 
 ## Tafsir Ibn Kathir
 

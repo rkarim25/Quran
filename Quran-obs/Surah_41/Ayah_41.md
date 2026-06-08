@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who 'Yulḥidūna Fī' Our Ayat are not hidden from Us. إِنَّ الَّذِينَ كَفَرُ‌وا بِالذِّكْرِ‌ لَمَّا جَاءَهُمْ ۖ وَإِنَّهُ لَكِتَابٌ عَزِيزٌ لَّا يَأْتِيهِ الْبَاطِلُ مِن بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ (Surely those who have rejected the advice, when it came to them [ are the ones who go crooked and are not hidden from Us ].
+- 41:41-42) Most Exegetes have stated that the ` advice' in this verse refers to the Qur'an, and the sentence "those who have rejected the advice when it came to them" is a complement of the former phrase "those who go crooked about Our verse" and hence, according to Arabic grammar, is subject to the same predicate, and thus the meaning is that these people cannot be hidden from Us, and consequently cannot escape the scourge.
 
 ## Tafsir Ibn Kathir
 

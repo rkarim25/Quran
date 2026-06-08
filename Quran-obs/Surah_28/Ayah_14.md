@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when he reached maturity, and was complete, We bestowed on him Hukm and knowledge. وَلَمَّا بَلَغَ أَشُدَّهُ وَاسْتَوَىٰ (And when he reached his maturity and became perfect - 28:14).
+And when he reached maturity, and was complete, We bestowed on him Hukm and knowledge. How Musa killed a Coptic Man Having described Musa's beginnings, Allah then tells us that when he reached maturity, and was complete in stature, Allah gave him Hukm and religious knowledge.
 
 ## Tafsir Ibn Kathir
 

@@ -106,7 +106,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who have no knowledge say: "Why does not Allah speak to us (face to face) or why does not a sign come to us?" So said the people before them words of similar import. The Jews, the Christians and the mushrikin used to deny the prophethood of Sayyidna Muhammad ﷺ and some of them did so out of sheer malevolence.
+Their hearts are alike, We have indeed made plain the signs for people who believe with certainty . And those who have no knowledge say: "Why does not Allah speak to us (face to face) or why does not a sign come to us?" So said the people before them words of similar import.
 
 ## Tafsir Ibn Kathir
 

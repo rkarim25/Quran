@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when they see you, they treat you only in mockery (saying): "Is this the one whom Allah has sent as a Messenger (41)"He would have nearly misled us from our gods, had it not been that we were patient and constant in… Following forbidden things - a type of idolatry أَرَ‌أَيْتَ مَنِ اتَّخَذَ إِلَـٰهَهُ هَوَاهُ (Tell me about the one who has taken his desire as his god - 25:43).
+The one who practises forbidden things which are against the tenets of Islam to satisfy his personal desires is described in this verse as the worshiper of his own lust.
 
 ## Tafsir Ibn Kathir
 

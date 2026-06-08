@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They will say: "Woe to us! After that, a command will go forth to angels: فَاهْدُوهُمْ إِلَىٰ صِرَ‌اطِ الْجَحِيمِ (and show them the way to Jahannam - 37:23).
+Instead of Allah,) means, instead of Allah, i.e., their idols and false gods will be gathered together with them in the same place.
 
 ## Tafsir Ibn Kathir
 

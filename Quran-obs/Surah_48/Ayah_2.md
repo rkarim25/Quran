@@ -74,7 +74,7 @@ Imam Ahmad recorded that 'Umar bin Al-Khattab said, "We were with the Messenger 
 
 ## Tafsir Summary
 
-The Merit of Surah Al-Fath Imam Ahmad recorded from 'Abdullah bin Mughaffal, who said that Allah's Messenger ﷺ recited Surah Al-Fath on the (day) of the conquest of Makkah, riding on his she-camel. لِّيَغْفِرَ‌ لَكَ اللَّـهُ مَا تَقَدَّمَ مِن ذَنبِكَ وَمَا تَأَخَّرَ‌ (so that Allah may forgive you of your previous and subsequent faults...." - 48:2).
+That Allah may forgive you your sins of the past and the future, and complete His favor on you, and guide you on the straight path,)(3. The first bounty is forgiveness of all his past and future shortcomings.
 
 ## Tafsir Ibn Kathir
 

@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Children of Israel! The Surah Al-Baqarah begins by speaking of the Holy Qur'an itself, and tells us that although it provides guidance to all men, yet only true Muslims will derive a full benefit from it.
+In verse 40, Allah asks the Israelites to fulfill His covenant - that is to say, the one they had made with Allah.
 
 ## Tafsir Ibn Kathir
 

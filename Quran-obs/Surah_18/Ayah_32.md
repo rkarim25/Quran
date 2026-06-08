@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And put forward to them the example of two men: unto one of them We had given two gardens of grapes, and We had surrounded both with date palms; and had put between them green crops (cultivated fields)(32)Each of those two gardens brought forth its produce, and failed not in the least therein, and We caused a river to gush forth in the midst of both (33)And he had Thamar, and he said to his companion in the course of discussion: "I am greater than you in wealth and have a mightier entourage. At this point, someone may doubt that this advice was reasonably practicable.
+The Example of the Rich Idolators and the Poor Muslims After mentioning the idolators who were too arrogant to sit with the poor and weak among Muslims, showing off before them with their wealth and noble lineage, Allah then gives a parable for them of two men, one of whom Allah gave two gardens of grapes, surrounded with palm trees and cultivated with crops throughout.
 
 ## Tafsir Ibn Kathir
 

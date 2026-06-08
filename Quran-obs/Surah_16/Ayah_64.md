@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-By Allah, We indeed sent (Messengers) to the nations before you, but Shaytan made their deeds seeming fair to them. Also at the end of the third verse (60), in: وَهُوَ الْعَزِيزُ الْحَكِيمُ (And He is the Mighty, the Wise), there is a hint that taking the birth of a baby girl to be nuisance and disgrace, and hiding from people because of it, amount to challenging Divine wisdom - as the creation of male and female among the created is the very requisite of wisdom.
+So today he is their helper, and theirs will be a painful torment (63)And We have not revealed the Book to you, except that you may clearly explain to them those things in which they differ, and (as) a guidance and a mercy for a people who believe (64)And Allah sends water down from the sky, then He revives the earth with it after its death.
 
 ## Tafsir Ibn Kathir
 

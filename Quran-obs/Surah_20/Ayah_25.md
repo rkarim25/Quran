@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And press your (right) hand to your (left) side: it will come forth white (and shining), without any disease as another sign, (22)"That We may show you (some) of Our greater signs. When Sayyidna Musa (علیہ السلام) received the high honour of conversing with Allah Ta` ala and was granted the mission of prophethood, then, instead of relying on his own self and on his own ability, he turned to Allah Ta` ala and sought His help in the discharge of his duties without which it would be impossible for him to endure and persevere in the face of the trials and tribulations inherent in the performance of his mission.
+Meaning to expand the ability of his heart to enable him to receive all the knowledge and wisdom of prophethood, and at the same time to bear with equanimity the slander of those people who will oppose him in his mission. Therefore, he was left with the remnants of this accident that took place with his tongue.
 
 ## Tafsir Ibn Kathir
 

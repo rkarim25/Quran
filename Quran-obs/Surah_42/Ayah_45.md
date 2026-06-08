@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And whomsoever Allah sends astray, for him there is no protector after Him. The earlier three of the above verses state the end of those people who, as against the virtuous Muslims, remained desirous of the delights and luxuries of this world, instead of caring about the Hereafter.
+And those who believe will say: "Verily, the losers are they who lose themselves and their families on the Day of Resurrection." Verily, the wrongdoers will be in a lasting torment (45)And they will have no protectors to help them other than Allah.
 
 ## Tafsir Ibn Kathir
 

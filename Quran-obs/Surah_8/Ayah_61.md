@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But if they incline to peace, you also incline to it, and trust in Allah. The third verse (61) takes up injunctions of peace and aspects related to it.
+Thus, the intended sense is that at a time when disbelievers are inclined towards peace, the Holy Prophet ﷺ also has the choice of making peace, if he feels peace is in the best interest of Muslims.
 
 ## Tafsir Ibn Kathir
 

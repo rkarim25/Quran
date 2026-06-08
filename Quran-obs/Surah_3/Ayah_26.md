@@ -115,7 +115,7 @@ In these verses, Muslims have been taught and prompted to make a particular pray
 
 ## Tafsir Summary
 
-Say: "O Allah! In these verses, Muslims have been taught and prompted to make a particular prayer which, in a subtle way, gives an indication that they are going to overpower disbelievers.
+Looked at from its relationship to the Creator of the Universe and the Lord of all there is, and viewed in the perspective of the totality of the world of our experience, nothing is really evil or bad as such.
 
 ## Tafsir Ibn Kathir
 

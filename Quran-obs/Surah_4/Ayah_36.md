@@ -140,7 +140,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Worship Allah and join none with Him in worship, and do good to parents, kinsfolk, orphans, the poor, the neighbor who is near of kin, the neighbor who is a stranger, the companion by your side, the wayfarer (you meet), and those (slaves) whom your right hands possess. It will be noticed that human rights have remained the main focus of attention since the beginning of the present Surah upto this point.
+But, by recalling it under the general head of relatives, the hint given is that one should consider helping orphaned children and helpless people as necessary as one would do for his or her own relatives.
 
 ## Tafsir Ibn Kathir
 

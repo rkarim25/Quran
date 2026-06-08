@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Is that (Paradise) better entertainment or the tree of Zaqqum (62)Truly, We have made it (as) a trial for the wrongdoers (63)Verily, it is a tree that springs out of the bottom of Hell-fire (64)The shoots of its fruit st… By saying: طَلْعُهَا كَأَنَّهُ رُ‌ءُوسُ الشَّيَاطِينِ (Its fruits are like the heads of the shaitans.- 65), the fruits of zaqqum have been likened to the heads of the satans.
+Then thirst will be sent upon them, so they will ask to be given something to drink, and they will be given water like boiling oil that has been heated to the ultimate degree.
 
 ## Tafsir Ibn Kathir
 

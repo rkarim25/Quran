@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And on that Day We shall present Hell to the disbelievers, plain to view (100)(To) those whose eyes had been under a covering from My Reminder, and they could not bear to hear (it)(101)Do then those who disbelieved think that they can take My servants as Awliya' [protectors] besides Me? As for the pronoun of the word: بَعْضَهُمْ (ba` dahum) in بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِي بَعْضٍ (And on that day, We will leave them [ Ya’ juj and Ma'juj ] surging over one another - 99), it is obvious that it reverts back to Ya'juj Ma juj.
+And on that Day We shall present Hell to the disbelievers, plain to view (100)(To) those whose eyes had been under a covering from My Reminder, and they could not bear to hear (it)(101)Do then those who disbelieved think that they can take My servants as Awliya' [protectors] besides Me?
 
 ## Tafsir Ibn Kathir
 

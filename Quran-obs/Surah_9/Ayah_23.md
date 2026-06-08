@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! These verses mention the merits of Hijrah and Jihad which require that one leaves his country, relatives, friends, companions, wealth and property, all in one stroke.
+The Prohibition of taking the Idolators as Supporters, even with Relatives Allah commands shunning the disbelievers, even if they are one's parents or children, and prohibits taking them as supporters if they choose disbelief instead of faith. Take not as supporters your fathers and your brothers if they prefer disbelief to belief.
 
 ## Tafsir Ibn Kathir
 

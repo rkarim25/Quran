@@ -10,7 +10,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And below these two, there are two other Gardens (62)Then which of the blessings of your Lord will you both deny (63)Mudhāmmatān (64)Then which of the blessings of your Lord will you both deny (65)In them (both) will be… مُدْهَامَّتَانِ (both dark green!...55:64).
+The word is derived from idhimam signifying, for a meadow or garden, to become of dark green hue inclining to black by reason of abundance of moisture or irrigation.
 
 ## Tafsir Ibn Kathir
 

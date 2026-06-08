@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(He is Allah) Owner of high ranks and degrees, the Owner of the Throne. The word: دَرَجَات (darajat, translated above as 'stations' ) in: رَ‌فِيعُ الدَّرَ‌جَاتِ (He is High in stations - 40:15) has been taken by some commentators as meaning 'attributes.' If so, the sense of the expression would be that His attributes of perfection are most exalted.
+Allah sends the Revelation to warn His Servants of the Day of Mutual Meeting Allah tells us of His might and pride, and that His Mighty Throne is raised above all of His creation like a roof.
 
 ## Tafsir Ibn Kathir
 

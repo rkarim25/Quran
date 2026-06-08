@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-See you not how Allah sets forth a parable? In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَكْفُرُ‌وا أَنتُمْ وَمَن فِي الْأَرْ‌ضِ جَمِيعًا (And Musa said, "If you are ungrateful, you and all those on earth, then, Allah is free of all needs, worthy of every praise.) " This was said by Sayyidna Musa (علیہ السلام) to his people.
+A goodly word as a goodly tree, whose root is firmly fixed, and its branches (reach) to the sky (24)Giving its fruit at all times, by the leave of its Lord, and Allah sets forth parables for mankind in order that they may remember (25)And the parable of an evil word is that of an evil tree uprooted from the surface of earth, having no stability .
 
 ## Tafsir Ibn Kathir
 

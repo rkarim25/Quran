@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Were not My Ayat recited to you, and then you used to deny them? وَهُمْ فِيهَا كَالِحُونَ And they will be disfigured therein - 23:104).
+The word is used for a person whose lips do not meet and leave his teeth fully exposed, which looks very ugly. Rebuking the People of Hell, Their Admission of Their Wretchedness and Their Request to Be Brought out of Hell This is a rebuke from Allah to the people of Hell for the disbelief, sins, unlawful deeds and evil actions that they committed, because of which they were doomed.
 
 ## Tafsir Ibn Kathir
 

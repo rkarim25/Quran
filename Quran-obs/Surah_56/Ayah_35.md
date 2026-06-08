@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those on the right – how (fortunate) will be those on the right (27)(They will be) among Sidri Makhdud (28)And among Talh Mandud (29)And in shade Mamdud (30)And by water flowing constantly (31)And fruit in plenty (32… إِنَّا أَنشَأْنَاهُنَّ إِنشَاءً (Surely We have created those [ females ] a fresh creation...56:35) The word insha' means 'to create'.
+If the word firash in the foregoing verse (34) refers to the women of Paradise, the antecedent of the pronoun is quite obvious.
 
 ## Tafsir Ibn Kathir
 

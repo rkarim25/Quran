@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We appointed for Musa thirty nights and added ten, and he completed the term, appointed by his Lord, of forty nights. This verse speaks of the period followed by the destruction of the Pharaoh and his people.
+And We appointed for Musa thirty nights and added ten, and he completed the term, appointed by his Lord, of forty nights. Allah commanded him to complete the term adding ten more days, making the total forty.
 
 ## Tafsir Ibn Kathir
 

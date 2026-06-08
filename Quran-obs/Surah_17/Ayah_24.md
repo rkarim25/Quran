@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And your Lord has Qada [decreed] that you worship none but Him. 4.
+Ruling If parents are Muslims, making a prayer for mercy in their favor is obvious.
 
 ## Tafsir Ibn Kathir
 

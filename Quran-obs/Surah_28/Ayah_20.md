@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And there came a man running, from the farthest end of the city. قَالَ رَ‌بِّ بِمَا أَنْعَمْتَ عَلَيَّ فَلَنْ أَكُونَ ظَهِيرً‌ا لِّلْمُجْرِ‌مِينَ (He [ Musa ] said, "0 my Lord, since You have favoured me, I will never be a supporter to the sinners." -28:17).
+And there came a man running, from the farthest end of the city.
 
 ## Tafsir Ibn Kathir
 

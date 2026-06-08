@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And 'Ad and Thamud! The stories of the earlier people, that are mentioned in these verses briefly, have been related in detail in the previous Surahs.
+And indeed (their destruction) is clearly apparent to you from their (ruined) dwellings.
 
 ## Tafsir Ibn Kathir
 

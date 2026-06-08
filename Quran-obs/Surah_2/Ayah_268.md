@@ -66,7 +66,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! (2) Verses 268-269: وَمَا يَذَّكَّرُ‌ إِلَّا أُولُو الْأَلْبَابِ الشَّيْطَانُ يَعِدُكُمُ الْفَقْرَ‌ (الٰی قولہ): "Satan frightens you of poverty ...
+And know that Allah is Rich (free of all needs), and worthy of all praise (267)Shaytan threatens you with poverty and orders you to commit Fahsha' (evil deeds) whereas Allah promises you forgiveness from Himself and bounty, and Allah is All-Sufficient for His creatures' needs, All-Knower (268)He grants Hikmah to whom He wills, and he, to whom Hikmah is granted, is indeed granted abundant good.
 
 ## Tafsir Ibn Kathir
 

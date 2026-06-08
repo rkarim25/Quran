@@ -107,7 +107,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And sit not on every road, threatening, and hindering from the path of Allah those who believe in Him, and seeking to make it crooked. In the last sentence of verse 86, it was said: وَاذْكُرُ‌وا إِذْ كُنتُمْ قَلِيلًا فَكَثَّرَ‌كُمْ ۖ وَانظُرُ‌وا كَيْفَ كَانَ عَاقِبَةُ الْمُفْسِدِينَ.
+The first was persuasion when they were reminded of the blessing of Allah who increased their insignificant numbers to become a large nation, or changed their economic weakness into need-free financial strength. But you later on became mighty because of your large numbers.
 
 ## Tafsir Ibn Kathir
 

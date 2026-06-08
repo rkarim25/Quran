@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-That is of the news of the Ghayb (Unseen) which We reveal to you. After that it was said: وَمَا تَسْأَلُهُمْ عَلَيْهِ مِنْ أَجْرٍ‌ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ‌ لِّلْعَالَمِين ، that is, ` your mission is to tell them the truth and call 'them to the straight path.
+You were not (present) with them when they arranged their plan together, and (while) they were plotting (102)And most of mankind will not believe even if you desire it eagerly (103)And no reward you ask of them for it; it (the Qur'an) is no less than a Reminder unto the 'Alamin (men and Jinn).
 
 ## Tafsir Ibn Kathir
 

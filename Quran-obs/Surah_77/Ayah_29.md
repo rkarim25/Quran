@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(It will be said to the disbelievers): "Depart you to that which you used to deny! أَلَمْ نَجْعَلِ الْأَرْ‌ضَ كِفَاتًا أَحْيَاءً وَأَمْوَاتًا (Did We not make the earth a container that collects the living and the dead?....25, 26) The word kit is derived from kaft.
+The driving of the Criminals to their Final Abode in Hell and how it will be done Allah informs about the disbelievers who deny the final abode, the recompense, Paradise, and the Hellfire.
 
 ## Tafsir Ibn Kathir
 

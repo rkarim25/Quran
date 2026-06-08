@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Ibrahim said to his father Azar: "Do you take idols as gods? Using Wisdom and Strategy in Tabligh and Da'wah is the Way of Prophets Let us begin with verse 76 which opens with the words: رَ‌أَىٰ كَوْكَبًا So, when the night enveloped him, he saw a star.
+For this reason, he told them, he had turned to the Being that is the creator, nurturer and caretaker of all these things.
 
 ## Tafsir Ibn Kathir
 

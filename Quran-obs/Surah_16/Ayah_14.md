@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And He it is Who subjected the sea (to you), that you may eat from the fresh tender meat, and that you bring forth out of it ornaments to wear. After the description of things created in the heavens and the earth, and the benefits human beings derive from them, the text now turns to the high seas wherein Divine wisdom has placed many more benefits for them.
+The text also declares it to be an excellent means of seeking the bounty of Allah, that is, their rizq or sustenance - because, trading through the sea routes is most economical and beneficial.
 
 ## Tafsir Ibn Kathir
 

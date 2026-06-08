@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And even if We had sent down unto you a Message written on paper so that they could touch it with their hands, the disbelievers would have said: "This is nothing but obvious magic! The third verse (8) was also revealed because of an event which concerns this very ` Abdullah ibn Abi Umaiyyah who, accompanied by Nadr ibn al-Harith and Nawfal ibn Khalid ؓ ، came to the Holy Prophet ﷺ .
+In other words, it means ` If We do send the miracle they demand, that is, send an angel, then, these people who are not the kind who would accept truth will still act contrary and hostile even after having seen the miracle, then, the Divine command to have them destroyed would stand activated. and We would have certainly caused them confusion in a matter which they have already covered with confusion.) meaning, We would confuse them over their confusion.
 
 ## Tafsir Ibn Kathir
 

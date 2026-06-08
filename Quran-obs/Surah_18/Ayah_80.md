@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And as for the boy, his parents were believers, and we feared he would oppress them by rebellion and disbelief. The opening sentence of verse 80: وَأَمَّا الْغُلَامُ (As for the boy) means the boy who was killed by al-Khadir (علیہ السلام) .
+And when he took to infidelity as a young man, he would not only become a live trial for the parents but would also endanger the very faith of his parents because of their love for him.
 
 ## Tafsir Ibn Kathir
 

@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "Put him and his brother off (for a time), and send callers to the cities to collect (111)"That they bring to you all well-versed sorcerers. These verses narrate the remaining part of the story of the prophet Musa (علیہ السلام) .
+They said: "Put him and his brother off (for a time), and send callers to the cities to collect (111)"That they bring to you all well-versed sorcerers.
 
 ## Tafsir Ibn Kathir
 

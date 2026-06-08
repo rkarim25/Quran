@@ -111,7 +111,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! These verses form part of the several previous verses relating to the battle of Uhud.
+But surely, He forgave you, and Allah is Most Gracious to the believers (152)(And remember) when you ran away without even casting a side glance at anyone, and the Messenger was in your rear calling you back. Therefore, Fatimah, the daughter of Allah's Messenger ﷺ washed off the blood while 'Ali was pouring water on her hand.
 
 ## Tafsir Ibn Kathir
 

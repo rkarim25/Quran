@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Nay! إِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ (No!
+The only thing that blocked their hearts from believing in it is the dark covering cast over it from the many sins and wrong they committed that has covered up their hearts.
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or have they a share in the dominion? Admonishing Jews for being unreasonably envious The knowledge, the grace, the high rank and the grandeur of mission given by Allah Almighty to the Noble Prophet ﷺ made Jews all too jealous.
+It means that Hasad (envy) is a desire to see the other person's blessing somehow disappear, and this is harm (forbidden).
 
 ## Tafsir Ibn Kathir
 

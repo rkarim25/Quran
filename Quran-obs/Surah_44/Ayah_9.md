@@ -32,7 +32,7 @@ The statement that the Qur’ an was revealed in the Night of Power’ means tha
 
 ## Tafsir Summary
 
-Nay! لَيْلَةٍ مُّبَارَ‌كَةٍ 'blessed night', in verse 2 according to majority of the Commentators, refers to 'laylatul Qadr' or the 'Night of Power' which occurs in the last ten nights of the month of Ramadan.
+Alarming the Idolators with News of the Day when the Sky will bring forth a visible Smoke Allah says, these idolaters are playing about in doubt, i.e., the certain truth has come to them, but they doubt it and do not believe in it. Because some versions of the Tradition state that births, deaths and sustenance are decreed in the night of immunity or 15th night of Sha'ban, some of the scholars have interpreted the phrase 'laylah mubarakah' in the current verse as referring to…
 
 ## Tafsir Ibn Kathir
 

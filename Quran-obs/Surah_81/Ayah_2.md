@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-What has been narrated about This Surah Imam Ahmad recorded from Ibn 'Umar that the Messenger of Allah ﷺ said, وَإِذَا النُّجُومُ انكَدَرَ‌تْ (and when the stars will swoop down...81:2).
+The word inkadarat is derived from inkidar and it denotes 'to fall'.
 
 ## Tafsir Ibn Kathir
 

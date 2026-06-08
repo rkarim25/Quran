@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Who is it besides the Most Gracious that can be an army to you to help you? أَمَّنْ هَـٰذَا الَّذِي يَرْ‌زُقُكُمْ إِنْ أَمْسَكَ رِ‌زْقَهُ ۚ بَل لَّجُّوا فِي عُتُوٍّ وَنُفُورٍ‌ (Or, who is there to give you sustenance, if He withholds His sustenance?
+This is like a person walking bent over on his face (with his head down) instead of walking upright.
 
 ## Tafsir Ibn Kathir
 

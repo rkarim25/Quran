@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَوَضَعْنَا عَنكَ وِزْرَ‌كَ الَّذِي أَنقَضَ ظَهْرَ‌كَ (And We removed from you your burden that had [ almost ] broken your back...94:2-3).
+The word wizr literally denotes 'burden' and the phrase naqd-uz-zahr means 'to break one's back as for instance when a heavy load is put on one's back, it bends'. This verse signifies that Allah had relieved him of his burden that was breaking his back.
 
 ## Tafsir Ibn Kathir
 

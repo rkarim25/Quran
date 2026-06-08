@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "Why are not signs sent down to him from his Lord?" Say: "The signs are only with Allah, and I am only a plain warner. The status of the narrations of the People of the Book quoted by the commentators in their commentaries is also the same.
+The Idolators' demand for Signs, and the Response Allah tells us how the idolators stubbornly demanded signs, meaning that they wanted signs to show them that Muhammad ﷺ was indeed the Messenger of Allah, just as Salih was given the sign of the she-camel.
 
 ## Tafsir Ibn Kathir
 

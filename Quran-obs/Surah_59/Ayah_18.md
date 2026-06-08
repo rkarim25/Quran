@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! The Command to Taqwa and to prepare for the Day of Resurrection The earlier parts of Surah Al-Hashr has described different events relating to the Jews, the pagans and the hypocrites and their punishments in this world and in the next.
+Second of all, this verse shows that the Day of Resurrection is as certain as the arrival of tomorrow after today which is a stark reality, and no one doubts it.
 
 ## Tafsir Ibn Kathir
 

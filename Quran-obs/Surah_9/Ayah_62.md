@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They swear by Allah to you (Muslims) in order to please you, but it is more fitting that they should please Allah and His Messenger, if they are believers (62)Know they not that whoever opposes and shows hostility to Allah and His Messenger, certainly for him will be the fire of Hell to abide therein. The present verses, like the previous ones, chastise hypocrites for their absurd objections, hostility to the Holy Prophet ﷺ and their feigned professions of Faith on false oaths.
+They swear by Allah to you (Muslims) in order to please you, but it is more fitting that they should please Allah and His Messenger, if they are believers (62)Know they not that whoever opposes and shows hostility to Allah and His Messenger, certainly for him will be the fire of Hell to abide therein.
 
 ## Tafsir Ibn Kathir
 

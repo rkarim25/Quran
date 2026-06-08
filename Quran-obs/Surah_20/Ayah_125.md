@@ -43,7 +43,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He (Allah) said: "Get you down, both of you, together, some of you are an enemy to some others. وَمَنْ أَعْرَ‌ضَ عَن ذِكْرِ‌ي (And whoever turns away from My message - 20:124.) Here the word can refer both to the Qur'an and the Holy Prophet ﷺ as has been mentioned in other verses ذِكْرً‌ا ﴿10﴾ رَّ‌سُولًا (65:10).
+Why have you raised me up blind, while I had sight (before).) This means in the life of this world. Why have you raised me up blind, while I had sight (before).
 
 ## Tafsir Ibn Kathir
 

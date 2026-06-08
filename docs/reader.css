@@ -1093,6 +1093,42 @@ body {
 
 .translation-block.hidden { display: none; }
 
+.translation-block.ai-mode {
+  background: linear-gradient(135deg, rgba(230, 242, 236, 0.5), rgba(245, 240, 230, 0.6));
+  border: 1px solid rgba(31, 107, 82, 0.12);
+  padding: 0.85rem 1rem 0.75rem;
+  max-width: 620px;
+}
+
+.translation-block.ai-mode .translation-text {
+  font-style: normal;
+  font-size: 0.98rem;
+  line-height: 1.72;
+  text-align: left;
+  cursor: default;
+  padding-right: 0.25rem;
+}
+
+.translation-badge {
+  display: inline-block;
+  font-family: var(--font-ui);
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--green);
+  background: var(--green-light);
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  margin-bottom: 0.45rem;
+}
+
+.btn.ai-translate-btn.active {
+  background: linear-gradient(135deg, var(--green-light), rgba(212, 175, 55, 0.15));
+  border-color: rgba(31, 107, 82, 0.25);
+  color: var(--green);
+}
+
 /* ─── Surah navigation ─── */
 .surah-nav {
   display: flex;

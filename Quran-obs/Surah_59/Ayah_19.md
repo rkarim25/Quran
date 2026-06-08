@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! فَأَنسَاهُمْ أَنفُسَهُمْ He made them forget their own selves....59:19) It means they did not forget Allah but themselves, because they are unaware of their own loss and gain.
+Verily, Allah is All-Aware of what you do (18)And be not like those who forgot Allah, and He caused them to forget themselves.
 
 ## Tafsir Ibn Kathir
 

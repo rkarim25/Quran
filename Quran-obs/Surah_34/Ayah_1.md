@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. لِّيُعَذِّبَ اللَّـهُ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ (with the result that Allah will punish the hypocrites, men and women, and the Mushriks, men and women, and will accept the repentance of the believing men and women.
+His is all praise in the Hereafter, and He is the All-Wise, the All-Aware.)(2.
 
 ## Tafsir Ibn Kathir
 

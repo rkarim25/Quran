@@ -141,7 +141,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And even if you were to bring to the People of the Scripture (Jews and Christians) all the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.), they would not follow your Qiblah (prayer direction), nor are you going to follow their Qiblah. In continuing the discussion on the subject of the Qiblah قبلہ ، or the divinely-ordained orientation, the present verse provides yet another instance of the maliciousness of the People of the Book اھل کتاب .
+Allah then warns those who knowingly defy the truth, because the proof against those who know is stronger than against other people.
 
 ## Tafsir Ibn Kathir
 

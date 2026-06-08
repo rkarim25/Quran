@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who hope not for their meeting with Us, but are pleased and satisfied with the life of the present world, and those who are heedless of Our Ayat (7)Those, their abode will be the Fire, because of what they… In the previous verses, by mentioning the heavens and the earth and the Moon and the Sun, prominent manifestations of Allah's perfect power and wisdom, the belief in the Oneness of Allah and the Hereafter was proved eloquently.
+Their abode on the Day of Return is Fire, a reward for what they have earned in their worldly life from among their sins and crimes.
 
 ## Tafsir Ibn Kathir
 

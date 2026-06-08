@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-As your Lord caused you to go out from your home with the truth; and verily, a party among the believers disliked it (5)Disputing with you concerning the truth after it was made manifest, as if they were being driven to… It has already been stated at the beginning of the Su-rah that most of the subjects taken up in Surah Al-Anfal relate to the retribution and punishment which visited the disbelievers and polytheists, and to the favour shown and reward given to Muslims.
+Sa'd said, 'We have faith and believed in you, testified that what you brought is the truth, and gave you our pledges and promises of allegiance and obedience.
 
 ## Tafsir Ibn Kathir
 

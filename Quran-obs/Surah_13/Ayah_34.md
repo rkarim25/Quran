@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-For them is a torment in the life of this world, and certainly, harder is the torment of the Hereafter. In the verse: أَفَمَنْ هُوَ قَائِمٌ عَلَىٰ كُلِّ نَفْسٍ (Is then He, who is watchful over everyone ...
+For them is a torment in the life of this world, and certainly, harder is the torment of the Hereafter.
 
 ## Tafsir Ibn Kathir
 

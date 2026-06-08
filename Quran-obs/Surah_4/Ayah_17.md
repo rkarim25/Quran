@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah accepts only the repentance of those who do evil in ignorance and foolishness and repent soon [afterwards]; it is they to whom Allah will forgive and Allah is Ever All-Knower, All-Wise (17)And of no effect is the repentance of those who continue to do evil deeds until death faces one of them and he says: "Now I repent;" nor of those who die while they are disbelievers. Repentance was mentioned in the previous verse.
+Repentance is Accepted Until one Faces death Allah states that He accepts repentance of the servant who commits an error in ignorance and then repents, even just before he sees the angel who captures the soul, before his soul reaches his throat.
 
 ## Tafsir Ibn Kathir
 

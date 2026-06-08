@@ -86,7 +86,7 @@ Allah tells us about the reward of those who migrated for His sake, seeking His 
 
 ## Tafsir Summary
 
-And as for those who emigrated for the cause of Allah, after they had been wronged, We will certainly give them good residence in this world, but indeed the reward of the Hereafter will be greater; if they but knew (41)(… The verb: هَاجَرُ‌وا (hajaru) is a derivation from hijrat (pausal : hijrah) which literally means to leave one's homeland.
+To bless them with the greater reward of the Hereafter which is limitless.
 
 ## Tafsir Ibn Kathir
 

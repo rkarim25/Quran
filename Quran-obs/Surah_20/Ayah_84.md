@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And what made you hasten from your people, O Musa (83)He said: "They are close on my footsteps, and I hastened to You, O my Lord, that You might be pleased. Sayyidna Musa (علیہ السلام) and the Bani Isra'il, having escaped the Pharaoh's wrath and having crossed the river in safety, proceeded on their journey.
+They said: "This is your god, and the god of Musa," but he had forgotten (88)Did they not see that it could not return them a word (for answer), and that it had no power either to harm them or to do them good .
 
 ## Tafsir Ibn Kathir
 

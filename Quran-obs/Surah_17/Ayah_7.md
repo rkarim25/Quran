@@ -107,7 +107,7 @@ Allah tells us that He made a declaration to the Children of Israel in the Scrip
 
 ## Tafsir Summary
 
-And We decreed for the Children of Israel in the Scripture: "Indeed you would do mischief in the land twice and you will become tyrants and extremely arrogant! Verses 2 and 3 featuring the statement: (We made it guidance for the children of Bani Isra'il) exhorted the Bani Isra'il to follow and obey the Divine Law.
+And We helped you with wealth and children and made you more numerous in manpower (6)(And We said): "If you do good, you do good for your own selves, and if you do evil (you do it) against yourselves." Then, when the second promise came to pass, (We permitted your enemies) to disgrace your faces and to enter the Masjid as they had entered it before, and to destroy with utter destruction all that fell in their hands (7)It may be that your Lord may show mercy unto you, but if y…
 
 ## Tafsir Ibn Kathir
 

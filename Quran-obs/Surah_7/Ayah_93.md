@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then he (Shu'ayb) turned from them and said: "O my people! In the sixth (93) verse, it was said: فَتَوَلَّىٰ عَنْهُمْ (So, he turned away from them).
+I have indeed conveyed my Lord's Messages unto you and I have given you good advice. Then, it was for the peace of his own heart that he said addressing his people: ` 0 my people, I have surely delivered to you the messages of my Lord, and wished you betterment.
 
 ## Tafsir Ibn Kathir
 

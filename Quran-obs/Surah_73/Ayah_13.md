@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And be patient with what they say, and keep away from them in a good way (10)And leave Me alone to deal with the deniers, those who are in possession of good things of life. The verse says in conclusion: وَّعَذَابًا اَلِـــيْمًا (...and a painful punishment...
+Having described specific forms of punishment, this description is general - indicating that there will be many more horrible and terrible forms of punishment which man cannot even imagine.
 
 ## Tafsir Ibn Kathir
 

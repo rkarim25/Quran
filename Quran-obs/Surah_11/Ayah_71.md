@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, there came Our messengers to Ibrahim with the glad tidings. In verse 70, it was said: فَلَمَّا رَ‌أَىٰ أَيْدِيَهُمْ لَا تَصِلُ إِلَيْهِ نَكِرَ‌هُمْ (So, when he noticed their hands not reaching for it, he found them strange and felt a bit of fright from them).
+Therefore, when Ibrahim saw them reject the food that he had brought them, without tasting any of it at all, he felt a mistrust of them. This is because they had caused much corruption and their disbelief was severe.
 
 ## Tafsir Ibn Kathir
 

@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "When we are lost in the earth, shall we indeed be created anew?" Nay, but they deny the meeting with their Lord (10)Say: "The angel of death, who is set over you, will take your souls. In verse 11, it was said: قُلْ يَتَوَفَّاكُم مَّلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ (Say, "The angel of death who has been assigned for you will take you in full" -11).
+In some reports he (the angel of death) is called 'Izra'il, which is well known.
 
 ## Tafsir Ibn Kathir
 

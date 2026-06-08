@@ -216,7 +216,7 @@ The Surah opens with a prohibitory injunction to Muslims against having close an
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. The Surah opens with a prohibitory injunction to Muslims against having close and intimate friendship with disbelievers and those who associate partners with Allah.
+Unless [ God forbid!] one loses one's faith, the hope of friendly intimacy with the enemies of Allah is illusory and virtually impossible.
 
 ## Tafsir Ibn Kathir
 

@@ -70,7 +70,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when Our messengers came to Ibrahim with the glad tidings they said: "Verily, we are going to destroy the people of this town; truly, its people have been wrongdoers. وَلُوطًا إِذْ قَالَ لِقَوْمِهِ إِنَّكُمْ لَتَأْتُونَ الْفَاحِشَةَ (And [ We sent ] Sayyidna Lut (علیہ السلام) when he said to his people, "Indeed you commit the shameful act - 29:28).
+When they brought this news to Ibrahim and told him that they were sent to destroy the people of Lut, he began to speak up for them, hoping to win more time for them so that they might be guided by Allah.
 
 ## Tafsir Ibn Kathir
 

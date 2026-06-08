@@ -111,7 +111,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And remember Allah during the Appointed Days. The emphasis on remembering Allah in Mina In the last of the eight verses relating to injunctions about Hajj, that is, وَاذْكُرُ‌وا اللَّـهَ فِي أَيَّامٍ مَّعْدُودَاتٍ (And recite the name of Allah in the given number of days), the Hajj pilgrims have been asked to engage themselves in the remembrance of Allah so that their Hajj meets a perfect ending and their post-Hajj life becomes correct and fruitful.
+However, it is better and preferable to stay there through the third day (that is, 13th of Dhul-Hijjah).
 
 ## Tafsir Ibn Kathir
 

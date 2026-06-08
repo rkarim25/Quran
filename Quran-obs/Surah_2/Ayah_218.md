@@ -80,7 +80,7 @@ Ibn Ishaq went on: When 'Abdullah bin Jahsh and his companions were relieved fro
 
 ## Tafsir Summary
 
-They ask you concerning fighting in the Sacred Months. The second of the three verses under comment here proves that fighting is forbidden in Rajab, Dhul-Qa'dah, Dhul-Hijjah and Muharram, the four 'sacred' months.
+They will abide therein forever (217)Verily, those who have believed, and those who have emigrated (for Allah's religion) and have striven hard in the way of Allah, all these hope for Allah's mercy. And Allah is Oft-Forgiving, Most Merciful.) Hence, Allah has greatly elevated their hopes of gaining what they had wished for.
 
 ## Tafsir Ibn Kathir
 

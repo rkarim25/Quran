@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O Children of Israel! (3) Verse 41 asks the Israelites not to be the first to deny the Holy Qur'an, although being a disbeliever is in itself the ultimate sin, whether one be the first or the last.
+As for the question of taking a wage for teaching the verses of the Holy Qur'an or for reporting them correctly, verse 41 is not concerned with the matter.
 
 ## Tafsir Ibn Kathir
 

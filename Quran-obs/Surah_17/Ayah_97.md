@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And he whom Allah guides, he is led aright; and whomever He leaves astray can never find helpers other than Him, and We shall gather them together on the Day of Resurrection on their faces, blind, dumb and deaf; their ab… In the last verse (95), it was said that they, despite being human, can-not demand that their messenger should be an angel.
+And he whom Allah guides, he is led aright; and whomever He leaves astray can never find helpers other than Him, and We shall gather them together on the Day of Resurrection on their faces, blind, dumb and deaf; their abode will be Hell; whenever it abates, We shall increase for them the fierceness of the Fire .
 
 ## Tafsir Ibn Kathir
 

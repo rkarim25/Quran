@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O My servants who believe! وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُبَوِّئَنَّهُم مِّنَ الْجَنَّةِ غُرَ‌فًا تَجْرِ‌ي مِن تَحْتِهَا الْأَنْهَارُ‌ خَالِدِينَ فِيهَا (And those who believe and do righteous deeds, We shall accommodate them in mansions of the Paradise beneath which rivers flow, where they will live forever - 29:58).
+Then unto Us you shall be returned (57)And those who believe and do righteous good deeds, to them We shall surely give lofty dwellings in Paradise, beneath which rivers flow, to live therein forever. Therefore worship Me.) When things became too difficult for the believers in Makkah who were in a weak position and were oppressed, they left and migrated to Ethiopia, where they were able to practice their religion.
 
 ## Tafsir Ibn Kathir
 

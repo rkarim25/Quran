@@ -111,7 +111,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, We have sent you as a witness, as a bearer of glad tidings, and as a warner (8)In order that you (O mankind) may believe in Allah and His Messenger and that you Tu'azziruh and Tuwaqqiruh, and Tusabbihuh Bukrah and Asila (9)Verily, those who give pledge to you, they are giving pledge to Allah. Injunctions and Related Considerations In the preceding verses, Allah referred to the favours he bestowed generously upon the Holy Prophet ﷺ and his Ummah, especially upon those who participated in the pledge of Ridwan.
+The pledge mentioned here is the pledge of Ar-Ridwan which was pledged under a tree, a Samurah, in the area of Al-Hudaybiyyah.
 
 ## Tafsir Ibn Kathir
 

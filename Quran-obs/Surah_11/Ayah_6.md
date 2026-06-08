@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And no moving creature is there on earth but its provision is due from Allah. Mentioned in the previous verse was the all-encompassing knowledge of Allah Ta` ala from whom nothing is hidden, nothing from the tiniest particle of the universe down to the secrets of the hearts.
+And no moving creature is there on earth but its provision is due from Allah.
 
 ## Tafsir Ibn Kathir
 

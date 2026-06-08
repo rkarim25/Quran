@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"O our Lord! Brimming with wisdom, there is another prayer of Sayyidna Ibrahim (علیہ السلام) which appears in the third verse (37) as follows: رَّ‌بَّنَا إِنِّي أَسْكَنتُ مِن ذُرِّ‌يَّتِي بِوَادٍ غَيْرِ‌ ذِي زَرْ‌عٍ عِندَ بَيْتِكَ ال…
+Verily, my Lord is indeed the All-Hearer of invocations.
 
 ## Tafsir Ibn Kathir
 

@@ -60,7 +60,7 @@ In the first verse (36), it was said: أَلَيْسَ اللَّـهُ بِكَ
 
 ## Tafsir Summary
 
-Is not Allah Sufficient for His servant? In the first verse (36), it was said: أَلَيْسَ اللَّـهُ بِكَافٍ عَبْدَهُ (Is Allah not sufficient for (the protection of) His slave?).
+And whom Allah sends astray, for him there will be no guide (36)And whomsoever Allah guides, for him there will be no misleader.
 
 ## Tafsir Ibn Kathir
 

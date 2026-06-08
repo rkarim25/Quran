@@ -67,7 +67,7 @@ And if We willed, We could surely take away that which We have revealed to you. 
 
 ## Tafsir Summary
 
-And if We willed, We could surely take away that which We have revealed to you. We can now move to verse 86: وَلَئِن شِئْنَا لَنَذْهَبَنَّ (And if We so will, We will surely take away...).
+And if We willed, We could surely take away that which We have revealed to you. Therefore, they should be grateful to Allah for whatever of knowledge they have and stay away from wasting time in redundant and unnecessary investigations - specially when pure investigation is just not the objective, instead, testing others or belittling them is.
 
 ## Tafsir Ibn Kathir
 

@@ -115,7 +115,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-His people disputed with him. Using Wisdom and Strategy in Tabligh and Da'wah is the Way of Prophets Let us begin with verse 76 which opens with the words: رَ‌أَىٰ كَوْكَبًا So, when the night enveloped him, he saw a star.
+But, he has not used such strong words in the case of star-worship where he has used a particular method to clarify its reality in the minds of his people - because the matter of stars and planets being helpless and powerless was not so readily obvious as was that of self-carved idols.
 
 ## Tafsir Ibn Kathir
 

@@ -84,7 +84,7 @@ So, when they took him away, they all agreed to throw him down to the bottom of 
 
 ## Tafsir Summary
 
-So, when they took him away, they all agreed to throw him down to the bottom of the well, and We revealed to him: "Indeed, you shall (one day) inform them of this their affair, when they know (you) not. From here, Al-Qurtubi concludes that the brothers had somehow To this, all brothers agreed - as stated in the ninth of the present verses (15) cited above in the following words:
+And by virtue of these changed circumstances, he would be in a position to take account of their unjust treatment meted out to their younger brother while they themselves would be unaware of the whole matter.
 
 ## Tafsir Ibn Kathir
 

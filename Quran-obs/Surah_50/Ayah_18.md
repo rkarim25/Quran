@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We have created man, and We know what his self whispers to him. Every Utterance of Man is recorded مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَ‌قِيبٌ عَتِيدٌ (Not a single word is uttered by one, but there is a watcher near him, ready [ to record ]...50:18) In other words, there is always a supervising angel [ the scribe ] whose responsibility is to record any word that the human utters or speaks.
+This narration states that in the first instance every utterance is recorded, whether or not it is sinful or rewardable. Pay my debt!' The fox went out howling and continued until his neck was cutoff, (i.e.,) he died.) This parable indicates that just as the fox had no way of escaping or avoiding the earth, likewise, man has no way of avoiding death.
 
 ## Tafsir Ibn Kathir
 

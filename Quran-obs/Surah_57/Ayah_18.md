@@ -63,7 +63,7 @@ Sayyidna ` Abdullah Ibn 'Abbas ؓ is narration also carries the additional infor
 
 ## Tafsir Summary
 
-Verily, those who give Sadaqat, men and women, and lend Allah handsome loan, it shall be increased manifold (to their credit), and theirs shall be an honorable good reward (18)And those who believe in Allah and His Messengers. أَلَمْ يَأْنِ لِلَّذِينَ آمَنُوا أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ‌ اللَّـهِ وَمَا نَزَلَ مِنَ الْحَقِّ (Has the time not yet come for those who believe that their hearts should be humble for the remembrance of Allah and for the truth that has descended [ through revelation ]?...57:16) The phrase khushu'-ul-qalb means 'for the heart to soften; to be receptive to advice; to be obedient; to submit'.
+This is the type that the people will look up to (his level in Paradise), like this.) The Prophet ﷺ raised his head until his cap fell off his head, and the same happened to 'Umar.
 
 ## Tafsir Ibn Kathir
 

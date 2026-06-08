@@ -35,7 +35,7 @@ Wahb bin Munabbih said: "Allah revealed to one of the Prophets of the Children o
 
 ## Tafsir Summary
 
-O Prophet! 'One who calls people to' Allah' means that the Holy Prophet ﷺ calls his Ummah to believe in Allah's Being, Oneness and obedience.
+And put your trust in Allah, and sufficient is Allah as a Trustee .
 
 ## Tafsir Ibn Kathir
 

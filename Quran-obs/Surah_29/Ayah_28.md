@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) Lut, when he said to his people: "You commit immoral sins which none has preceded you in (committing) it in all creatures. وَلُوطًا إِذْ قَالَ لِقَوْمِهِ إِنَّكُمْ لَتَأْتُونَ الْفَاحِشَةَ (And [ We sent ] Sayyidna Lut (علیہ السلام) when he said to his people, "Indeed you commit the shameful act - 29:28).
+The preaching of Lut and what happened between Him and His People Allah tells us that His Prophet Lut, peace be upon him, denounced his people for their evil deed and their immoral actions in having intercourse with males, a deed which none of the sons of Adam had ever committed before them.
 
 ## Tafsir Ibn Kathir
 

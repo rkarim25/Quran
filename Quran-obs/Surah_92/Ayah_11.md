@@ -35,7 +35,7 @@ Ibn Jarir recorded from 'Amir bin 'Abdullah bin Az-Zubayr that he said, "Abu Bak
 
 ## Tafsir Summary
 
-The Recitation of Surat Al-Layl in the 'Isha' Prayer The statement of the Prophet ﷺ to Mu'adh has already preceded, where he said, وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَ‌دَّىٰ (And his wealth will not help him when he will fall down...92:11).
+The expression 'When he fall' signifies that when Divine decree regarding his destruction comes into operation, nothing - not even his wealth - will save him, whether in grave after his death, or on the Day of Judgment, when he will be falling into the abyss of Hell. We will make smooth for him the path to evil.)(11.
 
 ## Tafsir Ibn Kathir
 

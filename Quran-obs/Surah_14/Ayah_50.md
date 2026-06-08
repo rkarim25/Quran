@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And you will see the criminals that Day, Muqarranun (bound together) in fetters (49)Their garments will be of Qatiran (tar), and fire will cover their faces (50)That Allah may requite each person according to what he has earned. In the verses which appear onwards from here (48-51), the text re-turns to the awe-inspiring happenings of the day of Qiyamah.
+And you will see the criminals that Day, Muqarranun (bound together) in fetters (49)Their garments will be of Qatiran (tar), and fire will cover their faces (50)That Allah may requite each person according to what he has earned.
 
 ## Tafsir Ibn Kathir
 

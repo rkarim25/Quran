@@ -148,7 +148,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And let not those who disbelieve think that they can outstrip (escape from the punishment). Production and Supply of Military Hardware for Jihad is a Religious Obligation Given in the second verse (60), there are injunctions relating to preparations for the defence of Islam against disbelievers.
+And Allah is All-Sufficient for His creatures' needs, All-Knower.)[2:261] Production and Supply of Military Hardware for Jihad is a Religious Obligation Given in the second verse (60), there are injunctions relating to preparations for the defence of Islam against disbelievers.
 
 ## Tafsir Ibn Kathir
 

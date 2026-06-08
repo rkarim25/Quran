@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. فَاِذَا بَرِقَ الْبَصَرُ وَخَسَفَ الْقَمَرُ وَجُمِعَ الشَّمْسُ وَالْقَمَرُ (So, when the eyes will be dazzled, and the moon will lose its light, and the sun and the moon will be joined together,...75:7-9).
+On that Day man will say: "Where (is the refuge) to flee?")(11.
 
 ## Tafsir Ibn Kathir
 

@@ -38,7 +38,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And his companion (angel) will say: "Here is (his record) ready with me! مَا يُبَدَّلُ الْقَوْلُ لَدَيَّ وَمَا أَنَا بِظَلَّامٍ لِّلْعَبِيدِ (The Word is not changed with Me, and I Am not a wrongdoer to My slaves." [ 50:29] That is, 'I have made my decision which will certainly be implemented: it will never be changed.
+I did not push him to transgression,) meaning, the devil will say this about the human who came on the Day of Resurrection as a disbeliever.
 
 ## Tafsir Ibn Kathir
 

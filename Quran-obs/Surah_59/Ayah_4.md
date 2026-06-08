@@ -62,7 +62,7 @@ Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur re
 
 ## Tafsir Summary
 
-Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur recorded that Sa'id bin Jubayr said, "I asked Ibn 'Abbas about Surat Al-Hashr and he said, 'It was revealed about Bani An-Nadir.'" Al-Bukhari and Muslim recorded it using another chain of narration from Ibn 'Abbas. (1) The original word used in the text is 'hashr' which means 'gathering' or 'mustering' and after which this Surah is named.
+That is because they opposed Allah and His Messenger.
 
 ## Tafsir Ibn Kathir
 

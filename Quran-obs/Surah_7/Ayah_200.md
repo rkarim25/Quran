@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Show forgiveness, enjoin Al-'Urf (the good), and turn away from the foolish (don't punish them)(199)And if an evil whisper comes to you from Shaytan, then seek refuge with Allah. In the second verse, it was said: وَإِمَّا يَنزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّـهِ ۚ إِنَّهُ سَمِيعٌ عَلِيمٌ (And if you are stricken with a strike from the Shaitan, seek refuge with Allah - 200).
+Surely, He is the All-Hearing, the All-Knowing.
 
 ## Tafsir Ibn Kathir
 

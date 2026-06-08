@@ -36,7 +36,7 @@ Muhammad bin Ishaq commented, "It followed the ropes and sticks one after anothe
 
 ## Tafsir Summary
 
-And We revealed to Musa (saying): "Throw your stick," and behold! The next verse 117 said, وَأَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنْ أَلْقِ عَصَاكَ ۖ فَإِذَا هِيَ تَلْقَفُ مَا يَأْفِكُونَ ﴿117﴾ "And We revealed to Musa 'Throw your staff.' Then, of a sudden it began to swallow all that they had concocted." We find it reported in history, when thousands of staffs and ropes were turned into snakes leaping all over the ground, Allah commanded Musa to drop down his staff on the ground.
+It swallowed up straight away all the falsehood which they showed (117)Thus truth was confirmed, and all that they did was made of no effect (118)So they were defeated there and returned disgraced (119)And the sorcerers fell down prostrate (120)They said: "We believe in the Lord of all that exists (121)"The Lord of Musa and Harun.
 
 ## Tafsir Ibn Kathir
 

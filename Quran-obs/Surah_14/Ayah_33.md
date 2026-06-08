@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah is He Who has created the heavens and the earth and sends down water (rain) from the sky, and thereby brought forth fruits as provision for you; and He has made the ships to be of service to you, that they may sail… After that, it was said that 'We have subjugated the sun and the moon for you' as they both keep moving, always in the same state.
+Had the sun and the moon been subjugated for human beings in a way that they would be moving under human command, then, there would have been mutual differences among them with the result that one of them would demand that the sun should better rise today two hours later than usual because he had too much work to do in the night.
 
 ## Tafsir Ibn Kathir
 

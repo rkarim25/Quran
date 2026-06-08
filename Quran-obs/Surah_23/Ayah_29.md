@@ -44,7 +44,7 @@ He said: "O my Lord! Help me because they deny me. (26)So, We revealed to him: "
 
 ## Tafsir Summary
 
-He said: "O my Lord! وَفَارَ‌ التَّنُّورُ‌ (And the oven gushes forth - 23:27).
+Cause me to land at a blessed landing place, for You are the Best of those who bring to land.' (29)Verily, in this, there are indeed Ayat, for sure We are ever putting (men) to the test .
 
 ## Tafsir Ibn Kathir
 

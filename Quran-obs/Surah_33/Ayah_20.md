@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah already knows those among you who keep back (men) from fighting (in Allah's cause), and those who say to their brethren, "Come here towards us," while they come not to the battle except a little (18)Being miserly towards you. The second state mentioned here is that of the hypocrites for they had started saying that the promises of Allah and His Rasul ﷺ were a web of deception: إِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِم مَّرَ‌ضٌ مَّا وَعَدَنَا اللَّـهُ وَرَ‌سُولُهُ إِلَّا غُرُ‌ورً‌ا (And (remember) when the hypocrites and those having malady in their hearts were saying, "Allah and His messenger did not promise us but deceitf…
+Allah already knows those among you who keep back (men) from fighting (in Allah's cause), and those who say to their brethren, "Come here towards us," while they come not to the battle except a little (18)Being miserly towards you. And any act or omission on his part that is proved to have been done as a preferable conduct (istihbab) and not as an obligatory one, should be followed by us too as a commendable (mustahab) conduct and not as a necessary obligation This, in other…
 
 ## Tafsir Ibn Kathir
 

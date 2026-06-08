@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And below these two, there are two other Gardens (62)Then which of the blessings of your Lord will you both deny (63)Mudhāmmatān (64)Then which of the blessings of your Lord will you both deny (65)In them (both) will be… فِيهِنَّ خَيْرَ‌اتٌ حِسَانٌ (In them there are women, good and gorgeous,...55:70) The word خَيْرَ‌اتٌ khairat (translated above as 'good' ) refers to 'the good character of those women'; and the word حِسَانٌ hisan (translated above as 'gorgeous' ) refers to 'women who have beautiful features'.
+These qualities too will be common with the maidens of both the Gardens, to which reference was made in the foregoing verses.
 
 ## Tafsir Ibn Kathir
 

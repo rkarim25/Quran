@@ -197,7 +197,7 @@ Allah says that those who rejected His Messengers did not give Allah due conside
 
 ## Tafsir Summary
 
-They did not estimate Allah with an estimation due to Him when they said: "Nothing did Allah send down to any human being (by inspiration)." Say : "Who then sent down the Book which Musa brought, a light and a guidance to mankind which you (the Jews) have made into (separate) papersheets, disclosing (some of it) and concealing much. The second verse (91) has been revealed in answer to those who had the audacity to say that Allah Ta` ala has just not revealed any book to any human being.
+You then said, "this is from Allah," meaning it is in the revealed Book of Allah, when in fact, it is not from Allah.
 
 ## Tafsir Ibn Kathir
 

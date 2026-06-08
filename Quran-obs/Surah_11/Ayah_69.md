@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And verily, there came Our messengers to Ibrahim with the glad tidings. In these five verses, an event relating to Sayyidna Ibrahim (علیہ السلام) has been mentioned.
+Surely, He (Allah) is All-Praiseworthy, All-Glorious.
 
 ## Tafsir Ibn Kathir
 

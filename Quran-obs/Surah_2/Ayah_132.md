@@ -78,7 +78,7 @@ Abu Al-'Aliyah and Qatadah said, "This Ayah (2:130) was revealed about the Jews 
 
 ## Tafsir Summary
 
-And who turns away from the religion of Ibrahim (i.e. Verse 131 defines the basic principle of the religion of Sayyidna Ibrahim (علیہ السلام) .
+This means that these Prophets loved these words so much that they preserved them until the time of death and advised their children to adhere to them after them. Consequently, each of these religions - whether one calls it Judaism or Christianity or something else - must in its essence be Islam, in the general sense of the word - namely, total submission to Allah.
 
 ## Tafsir Ibn Kathir
 

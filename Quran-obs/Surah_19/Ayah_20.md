@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And mention in the Book, Maryam, when she withdrew in seclusion from her family to place facing east (16)She placed a screen before them; then We sent to her Our Ruh, and he appeared before her in the form of a man in all respects (17)She said: "Verily, I seek refuge with the Most Gracious (Allah) from you, if you do fear Allah.
+This is what is legislated in defense against (evil), so that it may be repulsed with ease. Therefore, the first thing she did was try to make him fear Allah, the Mighty and Sublime.
 
 ## Tafsir Ibn Kathir
 

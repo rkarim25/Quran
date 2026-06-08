@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Sufficient is Allah for a witness between me and you. In the last verse (95), it was said that they, despite being human, can-not demand that their messenger should be an angel.
+Verily, He is Ever the All-Knower, the All-Seer of His servants.
 
 ## Tafsir Ibn Kathir
 

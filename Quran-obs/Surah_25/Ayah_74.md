@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who do not bear witness to falsehood, and if they pass by some evil play or evil talk, they pass by it with dignity (72)And those who, when they are reminded of the Ayat of their Lord, fall not deaf and blind thereat (73)And those who say: "Our Lord! The Thirteenth Characteristic And those who say, "Our Lord, Give us, from our spouses and our children, coolness of eyes and make us heads of the God-fearing.
+But as for those in whose hearts is a disease, it will add doubt to their doubt)(9:124-125).
 
 ## Tafsir Ibn Kathir
 

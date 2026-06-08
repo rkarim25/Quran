@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَالنَّازِعَاتِ غَرْ‌قًا (I swear by those [ angels ] who pull out [ the souls of the infidels ] vigorously ...79:1).
+The word gharqan is its corroborative because the word gharq is used here in the sense of ighraq and means 'to exert oneself much or to the utmost extent in the thing'.
 
 ## Tafsir Ibn Kathir
 

@@ -176,7 +176,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And divorced women shall wait (as regards their marriage) for three menstrual periods, and it is not lawful for them to conceal what Allah has created in their wombs, if they believe in Allah and the Last Day. A great verse defining the status of man and woman This verse contains a rule of Shari` ah concerning the mutual rights and duties enjoined upon men and women and explains the degree of their role.
+This Ayah indicates that the wife has certain rights on her husband, just as he has certain rights on her, and each is obliged to give the other spouse his due rights.
 
 ## Tafsir Ibn Kathir
 

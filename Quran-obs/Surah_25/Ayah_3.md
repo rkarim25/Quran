@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Yet they have taken besides Him other gods who created nothing but are themselves created, and possess neither harm nor benefit for themselves, and possess no power (of causing) death, nor (of giving) life, nor of raisin… Special Wisdom in every creation فَقَدَّرَ‌هُ تَقْدِيرً‌ا (And designed it in a perfect measure - 25:2): Here تَقْدِير‌ (designing in a perfect measure) is mentioned after تخلِیق (Creation).
+For instance, earth is not made in such a liquid form, that anything put on it is drowned, nor is it made too hard like steel or concrete to be dug.
 
 ## Tafsir Ibn Kathir
 

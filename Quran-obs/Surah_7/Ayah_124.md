@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Fir'awn said: "You have believed in him [Musa] before I gave you permission. After making all these strategic statements he threatened the sorcerers, first, with an indefinite remark saying, "Now you shall know (your end) ".
+Certainly, Allah's punishment is more severe than your punishment and His torment for what you are calling us to, this day, and the magic you forced us to practice, is greater than your torment.
 
 ## Tafsir Ibn Kathir
 

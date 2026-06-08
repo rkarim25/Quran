@@ -18,7 +18,7 @@ Al-Baghawi mentioned that Al-Kalbi and Muqatil said, "This Ayah was revealed abo
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Infitar An-Nasa'i recorded from Jabir that Mu'adh stood and lead the people in the Night prayer, and he made the recitation of his prayer long. فِي أَيِّ صُورَ‌ةٍ مَّا شَاءَ رَ‌كَّبَكَ (He composed you in whichever form He willed....82:8).
+But verily, over you to watch you)(11. Then I fashioned you and made your creation balanced so that you walked between the two outer garments.
 
 ## Tafsir Ibn Kathir
 

@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The raised Couches and the lack of Heat and Cold Allah tells us about the people of Paradise and the eternal delights they will experience, as well as the comprehensive favors that they will be given. وَيُطْعِمُوْنَ الطَّعَامَ عَلٰي حُبِّهٖ مِسْكِيْنًا وَّيَـتِـيْمًا وَّاَسِيْرًا (and they give food, despite their love for it, to the needy, and the orphan, and the captive...
+Those who have described them as wearing earings in their ears have only interpreted the meaning in such a way because a child is befitting of this description and not an adult man. So these cups are made of silver, but due to their fine thinness, what is inside of them will be visible from outside of them (as if they are glass).
 
 ## Tafsir Ibn Kathir
 

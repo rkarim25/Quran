@@ -124,7 +124,7 @@ So, the verse could be translated in the sense that one kind of ` Adhab' (punish
 
 ## Tafsir Summary
 
-Say: "Who rescues you from the dark recesses of the land and the sea, when you call upon Him begging and in secret (saying): 'If He (Allah) only saves us from these (dangers), we shall truly be grateful. Mentioned in the previous verses was one manifestation of the knowledge and power of Allah Almighty that He alone can remove human distress and whoever calls on Him while in difficulty shall find His help before his eyes.
+In the light of these Hadith narrations and the explanation of related verses, the outcome is that hardships faced by people at the hands of their rulers are a punishment which comes from above - and that which is inflicted through servants and subordinates is a punishment which comes from beneath.
 
 ## Tafsir Ibn Kathir
 

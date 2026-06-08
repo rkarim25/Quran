@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He it is Who sent down As-Sakinah into the hearts of the believers, that they may grow more in faith along with their faith. Bounties of Allah upon the Participants of Hudaibiyah In the first three verses of this Surah, reference was made to Allah's particular bounties bestowed upon the Holy Prophet ﷺ in the wake of the manifest victory.
+And to Allah belong the armies of the heavens and the earth, and Allah is Ever All-Knower, All-Wise (4)That He may admit the believing men and the believing women to Gardens under which rivers flow to abide therein forever, and He may expiate from them their sins; and that is with Allah supreme success (5)And that He may punish the hypocrites men and women, and also the idolators men and women, who think evil thoughts about Allah, for them is a disgraceful torment.
 
 ## Tafsir Ibn Kathir
 

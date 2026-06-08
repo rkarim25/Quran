@@ -98,7 +98,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do they not look in the dominion of the heavens and the earth and all things that Allah has created; and that it may be that the end of their lives is near. The verse 185 has invited mankind to practice two important things.
+The last sentence of the verse warned them saying: "In what other word, then, shall they believe after it?" That is Allah has provided them with transparent signs, both internal and external, of the right path and of the True Faith.
 
 ## Tafsir Ibn Kathir
 

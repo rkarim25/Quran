@@ -22,7 +22,7 @@ Ibn Jarir recorded from 'Amir bin 'Abdullah bin Az-Zubayr that he said, "Abu Bak
 
 ## Tafsir Summary
 
-The Recitation of Surat Al-Layl in the 'Isha' Prayer The statement of the Prophet ﷺ to Mu'adh has already preceded, where he said, إِنَّ سَعْيَكُمْ لَشَتَّىٰ (your efforts are diverse....92:4).
+By Him Who created male and female.)(4. Therefore, there are those who do good and there are those who do evil.
 
 ## Tafsir Ibn Kathir
 

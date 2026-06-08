@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And has there come to you the story of Musa (9)When he saw a fire, he said to his family: "Wait! وَهَلْ أَتَاكَ حَدِيثُ مُوسَىٰ (And has there come to you the story of Musa?
+Therefore, he settled down, making a camp between some mountain passes and mountains that were covered with snow, sleet, dense clouds, darkness and fog.
 
 ## Tafsir Ibn Kathir
 

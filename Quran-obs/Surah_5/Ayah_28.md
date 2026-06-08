@@ -76,7 +76,7 @@ In addition to what has been said above, through this very word, the addressees 
 
 ## Tafsir Summary
 
-And recite to them the story of the two sons of Adam in truth; when each offered a sacrifice, it was accepted from the one but not from the other. In these verses, Allah Ta` a1a has instructed the Holy Prophet ﷺ that he should relate the story of the two sons of Adam truthfully to the people of the Book, or to the whole Ummah.
+The latter said to the former: "I will surely, kill you." The former said: "Verily, Allah accepts only from those who have Taqwa (27)"If you do stretch your hand against me to kill me, I shall never stretch my hand against you to kill you, for I fear Allah; the Lord of all that exists.
 
 ## Tafsir Ibn Kathir
 

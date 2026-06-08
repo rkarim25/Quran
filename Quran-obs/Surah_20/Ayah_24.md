@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And press your (right) hand to your (left) side: it will come forth white (and shining), without any disease as another sign, (22)"That We may show you (some) of Our greater signs. اذْهَبْ إِلَىٰ فِرْ‌عَوْنَ (Go to the Pharaoh - 20:24).
+Therefore, he was left with the remnants of this accident that took place with his tongue.
 
 ## Tafsir Ibn Kathir
 

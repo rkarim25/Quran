@@ -48,7 +48,7 @@ The subject taken up in the first two verses (45, 46) has a particular event as 
 
 ## Tafsir Summary
 
-We know best of what they listen to, when they listen to you. A prophet being affected by magic is as possible as being affected by sickness.
+So they have gone astray, and never can they find a way.) meaning, they will never be guided to the truth and will never find a way to reach it. So they have gone astray, and never can they find a way .
 
 ## Tafsir Ibn Kathir
 

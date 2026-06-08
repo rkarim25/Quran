@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَالسَّمَاءِ ذَاتِ الْحُبُكِ إِنَّكُمْ لَفِي قَوْلٍ مُّخْتَلِفٍ (By the sky, having paths, you are (involved) in a contradictory statement - 51:7-8) Hubuk is the plural habikah and primarily denotes thin irregular lines or streaks on fabrics when woven.
+They resemble tracks and pathways; therefore pathways are also referred to as hubuk in Arabic.
 
 ## Tafsir Ibn Kathir
 

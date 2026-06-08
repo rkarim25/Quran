@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-This World was created for a Wisdom Here Allah tells us of His justice, and that He is far above mere play, folly and falsehood. مَا خَلَقْنَاهُمَا إِلَّا بِالْحَقِّ وَلَـٰكِنَّ أَكْثَرَ‌هُمْ لَا يَعْلَمُونَ "We did not create them but with true purpose, yet most of them do not know.
+The heavens and the earth and everything created in them manifest many realities. Examples are: (1) the manifestation of Divine power; (2) the possibility of the Hereafter.
 
 ## Tafsir Ibn Kathir
 

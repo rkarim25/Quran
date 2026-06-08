@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who disbelieve in Allah and His Messengers and wish to make distinction between Allah and His Messengers saying, "We believe in some but reject others," and wish to adopt a way in between (150)They are in truth disbelievers. In the concluding verse (15:22), it has been reaffirmed that salvation in the Hereafter is the lot of those who believe in Him and in all of His prophets as well.
+Believing in Some Prophets and Rejecting Others is Pure Kufr Allah threatens those who disbelieve in Him and in His Messengers, such as the Jews and Christians, who differentiate between Allah and His Messengers regarding faith.
 
 ## Tafsir Ibn Kathir
 

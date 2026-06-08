@@ -124,7 +124,7 @@ Al-Ash'ath said, "By Allah! This verse was revealed concerning me. I owned some 
 
 ## Tafsir Summary
 
-Verily, those who purchase a small gain at the cost of Allah's covenant and their oaths, they shall have no portion in the Hereafter (Paradise). Earlier, in ; يَقُولُونَ ,(they say - 75), there was a refutation of the claim made, by the people of the Book.
+This verse was revealed concerning me. I owned some land with a Jewish man who denied my right, and I complained against him to the Messenger of Allah.
 
 ## Tafsir Ibn Kathir
 

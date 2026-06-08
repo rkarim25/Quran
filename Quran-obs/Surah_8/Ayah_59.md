@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And let not those who disbelieve think that they can outstrip (escape from the punishment). Mentioned in the first of the four verses cited above are disbelievers who had not participated in the battle of Badr, therefore, they survived or there were those of them who deserted the battlefield after showing up as participants and were thus able to save their lives.
+It is about these people that it was said in this verse that these people should not think that they have made their escape good because the battle of Badr was Divine punishment for disbelievers and escaping from its grip was not possible for anyone. And let not those who disbelieve think that they can outstrip (escape from the punishment).
 
 ## Tafsir Ibn Kathir
 

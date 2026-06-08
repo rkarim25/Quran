@@ -40,7 +40,7 @@ It was revealed about the mention of 'Isa, 'Uzayr and rabbis and monks who were 
 
 ## Tafsir Summary
 
-Certainly you and that which you are worshipping now besides Allah, are (but) fuel (Hasab) for Hell! إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ اللَّـهِ حَصَبُ جَهَنَّمَ (Surely, you and whatever you worship other than Allah are the fuel of Jahannam - 21:98) Here a question may arise as to the application of this verse to the case of Sayyidna Masih (علیہ السلام) ، Sayyidna ` Uzair (علیہ السلام) and angels who were also worshipped by some people.
+They shall not hear the slightest sound of it,) means, they will not feel its heat in their bodies. Zafir refers to their exhalation, and Shahiq refers to their inhalation.
 
 ## Tafsir Ibn Kathir
 

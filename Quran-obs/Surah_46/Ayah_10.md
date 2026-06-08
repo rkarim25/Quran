@@ -113,7 +113,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Tell me! وَشَهِدَ شَاهِدٌ مِّن بَنِي إِسْرَ‌ائِيلَ عَلَىٰ مِثْلِهِ فَآمَنَ وَاسْتَكْبَرْ‌تُمْ (and a witness from the children of Isra'il testifies about something similar to it and comes to believe in it while you persist in your arrogance, [ then, how unjust you are!]....- 46:10) The subject of this verse is almost the same as of the verse of the last chapter of Surah As-Shu'ara' Is it not a proof for them that the knowledgeable of the children of Isra it recognize him (the Prophet)?
+The pagans said this only because they thought that they held a high status with Allah, and that He took special care of them. Verse 10 of this Sarah states that their falsification of the Holy Prophet ﷺ and their claim about the Qur'an that it is a forgery, is baseless firstly because, as mentioned in verse 8, if anyone lays a false claim to prophethood, he has to be eliminated by the divine punishment right in this world, so that the common people may be saved from his frau…
 
 ## Tafsir Ibn Kathir
 

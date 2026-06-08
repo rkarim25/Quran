@@ -34,7 +34,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(In the Name of Allah, the Most Gracious, the Most Merciful. إِنَّ لَكَ فِي النَّهَارِ‌ سَبْحًا طَوِيلًا (Surely, in daytime, you have a lengthy work to do...
+Verily, for you in the day is lengthy Sabh.)(8.
 
 ## Tafsir Ibn Kathir
 

@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-[Iblis] said: "O my Lord! The Command to Prostrate was Given to Angels - Iblis was to Follow Suit Addressing Iblis in Surah Al-A` raf, it was said: مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْ‌تُكَ (What stopped you from prostrating when I ordered you?
+Because You misled me, I shall indeed adorn the path of error for them (mankind) on the earth, and I shall mislead them all.
 
 ## Tafsir Ibn Kathir
 

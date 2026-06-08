@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-By the sky which gives rain, again and again (11)And the earth which splits (12)Verily, this is the Word that separates (13)And it is not a thing for amusement (14)Verily, they are but plotting a plot (15)And I am planni… وَالسَّمَاءِ ذَاتِ الرَّجْعِ (I swear by the sky that rains...86:11) The word raj refers to 'the rain that comes down repeatedly'.
+By the sky which gives rain, again and again (11)And the earth which splits (12)Verily, this is the Word that separates (13)And it is not a thing for amusement (14)Verily, they are but plotting a plot (15)And I am planning a plan (16)So, give a respite to the disbelievers; deal gently with them for a while .
 
 ## Tafsir Ibn Kathir
 

@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed, We tried Sulayman and We placed on his throne Jasad (a body), and he returned (34)He said: "My Lord! It was said in verse 35: هَبْ لِي مُلْكًا لَّا يَنبَغِي لِأَحَدٍ مِّن بَعْدِي (bless me with a kingdom that will not be available to anyone after me.).
+Accordingly, where one has the certitude of being free of such selfish desires and one really would love to see the banner of truth fly high without the least hunger for power hidden anywhere in the recesses of his heart - then, for such a person, praying for power and authority of government is permissible.
 
 ## Tafsir Ibn Kathir
 

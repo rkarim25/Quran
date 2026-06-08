@@ -86,7 +86,7 @@ This also shows that there is in fact no inconsistency between the two interpret
 
 ## Tafsir Summary
 
-And they worship besides Allah others for which He has sent down no authority, and of which they have no knowledge; and for the wrongdoers there is no helper (71)And when Our clear Ayat are recited to them, you will notice a denial on the faces of the disbelievers! لِّكُلِّ أُمَّةٍ جَعَلْنَا مَنسَكًا (For every ummah (religious community) We have appointed a way of worship - 22:67).
+And they worship besides Allah others for which He has sent down no authority, and of which they have no knowledge; and for the wrongdoers there is no helper (71)And when Our clear Ayat are recited to them, you will notice a denial on the faces of the disbelievers!
 
 ## Tafsir Ibn Kathir
 

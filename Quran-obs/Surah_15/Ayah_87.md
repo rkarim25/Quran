@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed, We have bestowed upon you seven of the Mathani, and the Grand Qur'an (87)Look not with your eyes ambitiously at what We have given to certain classes of them, nor grieve over them. Surah Al-Fatihah is the Text and Summary of the Whole Qur'an That Surah Al-Fatihah (The Opening) has been called the Glorious Qur’ an in this verse (87) indicates that Surah Al-Fatihah is, in a way, the whole Qur’ an - b…
+This is also the opinion of Ibrahim An-Nakha'i, 'Abdullah bin 'Umayr, Ibn Abi Mulaykah, Shahr bin Hawshab, Al-Hasan Al-Basri and Mujahid.
 
 ## Tafsir Ibn Kathir
 

@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Virtues of Surat Al-Anbiya' Al-Bukhari recorded that 'Abdur-Rahman bin Yazid said that 'Abdullah said, "Banu Isra'il, Al-Kahf, Maryam, Ta Ha and Al-Anbiya' - they are among the earliest and most beautiful Surahs and… Importance of Surah Al-Anbiya' Sayyidna Abdullah Ibn Mas’ ud ؓ has said that four Surah viz Al-Kahf, Maryam, Taha and Al-Anbiya' are among the earlier revelations which I value a lot and keep them close to my heart.
+Here, the reference is to the Day of Judgment, and its approach is in relation to bygone ages, as the ummah of Sayyidna Muhammad Al-Mustafa ﷺ is the last of them all.
 
 ## Tafsir Ibn Kathir
 

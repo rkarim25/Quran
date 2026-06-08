@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The hypocrites, men and women, are one from another; they enjoin evil, and forbid the good, and they close their hands. The first verse begins with a profile of the hypocrites.
+Allah has cursed them and for them is the lasting torment .
 
 ## Tafsir Ibn Kathir
 

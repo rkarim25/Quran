@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. لَعَلَّهُ يَزَّكَّىٰ أَوْ يَذَّكَّرُ‌ فَتَنفَعَهُ الذِّكْرَ‌ىٰ (May be, [ if you had attended him properly,] he would have attained purity, or have taken to the advice, and the advice would have benefited him....80:3-4).
+Or he might receive admonition, and the admonition might profit him?)(5.
 
 ## Tafsir Ibn Kathir
 

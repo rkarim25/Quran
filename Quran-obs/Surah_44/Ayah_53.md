@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who have Taqwa, will be in place of security (51)Among Gardens and Springs (52)Dressed in Sundus and Istabraq, facing each other (53)So (it will be).
+The word sundus refers to "fine silk" and the word istabraq refers to "thick silk".
 
 ## Tafsir Ibn Kathir
 

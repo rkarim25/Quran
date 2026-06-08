@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And surely, We have explained in this Qur'an that they may take heed, but it increases them in naught save aversion.) Allah say (41) (And surely, We have explained in this Qur'an) meaning, 'We have explained Our warnings… After having described details of the injunctions appearing above, it was said in the last verse: كُلُّ ذَٰلِكَ كَانَ سَيِّئُهُ عِندَ رَ‌بِّكَ مَكْرُ‌وهًا (That which is evil, of all these, is detestable in the sight of your Lord - 38).
+Since all these things are haram or reprehensible, therefore, it has been called 'makruh' in a general sense of 'detestable' which includes the haram and makruh both.
 
 ## Tafsir Ibn Kathir
 

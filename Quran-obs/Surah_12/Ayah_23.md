@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And she, in whose house he was, sought to seduce him (to do an evil act), and she closed the doors and said: "Come on, O you." He said: "I seek refuge in Allah! And she, in whose house he was, seduced him away from his (resisting) self and bolted the doors, and said, 'come on!'.
+Wife of the 'Aziz loves Yusuf and plots against Him Allah states that the wife of the 'Aziz of Egypt, in whose house Yusuf resided and whose husband recommended that she takes care of him and be generous to him, tried to seduce Yusuf!
 
 ## Tafsir Ibn Kathir
 

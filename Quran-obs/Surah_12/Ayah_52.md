@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the king said: "Bring him to me." But when the messenger came to him, [Yusuf] said: "Return to your king and ask him, 'What happened to the women who cut their hands Surely, my Lord (Allah) is Well-Aware of their plot.' (50)(The king) said (to the women): "What was your affair when you did seek to seduce Yusuf" The women said: "Allah forbid! In the second (52) of the two verses cited above, Sayyidna Yusuf (علیہ السلام) has himself pointed out to two considerations implied in the way he acted and in the option of delaying his release.
+Also possible here is another meaning, that is, had Sayyidna ~suf~ received the royal honours in the same climate of doubt, it may have occured to all watchers that it was not impossible to betray and be honoured at the same time.
 
 ## Tafsir Ibn Kathir
 

@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He Zakariyya said: "My Lord! سَوِيًّا means healthy.
+Appoint for me a sign." He said: "Your sign is that you shall not speak unto mankind for three nights, though having no bodily defect.
 
 ## Tafsir Ibn Kathir
 

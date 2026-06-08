@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The parable of those who seek protectors from other than Allah is that of a spider who builds a house; but indeed, the weakest of houses is the spider's house – if they but knew (41)Verily, Allah knows what things they invoke instead of Him. وَتِلْكَ الْأَمْثَالُ نَضْرِ‌بُهَا لِلنَّاسِ وَمَا يَعْقِلُهَا إِلَّا الْعَالِمُونَ (And these examples We cite for people, and no one understands them except the knowledgeable ones.
+He is the All-Mighty, the All-Wise (42)And these are the examples We give for mankind; but none will understand them except those who have knowledge (of Allah). But only knowledgeable persons draw benefit from them, and the people at large do not ponder, so that they could also understand the truth.
 
 ## Tafsir Ibn Kathir
 

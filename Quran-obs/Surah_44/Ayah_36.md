@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, these people are saying (34)"There is nothing but our first death, and we shall not be resurrected. فَأْتُوا بِآبَائِنَا إِن كُنتُمْ صَادِقِينَ "Bring our fathers, if you are true (in your belief in resurrection" ) (44:36) ".
+If Allah is not bringing back to life those who died long ago at this time, it does not necessarily imply that He will not be able to give life after death in the Hereafter. Allah did not give an answer to this argument of theirs, because it was too obvious to need explanation, for the resurrection will happen on the Day of Judgment, not in this world.
 
 ## Tafsir Ibn Kathir
 

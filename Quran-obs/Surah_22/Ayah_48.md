@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they ask you to hasten on the torment! How the Day of Resurrection will be equal to one thousand years by our reckoning In this verseإِنَّ يَوْمًا عِندَ رَ‌بِّكَ كَأَلْفِ سَنَةٍ (22:47) means that one day with your Lord is like one thousand years of what you count.
+Just as we see in our world that the length of day and night is different on different horizons, (on zero latitude it is of 24 hours while at the latitude of 900 it is one year.
 
 ## Tafsir Ibn Kathir
 

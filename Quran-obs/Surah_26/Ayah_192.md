@@ -28,7 +28,7 @@ Here Allah tells us about the Book which He revealed to His servant and Messenge
 
 ## Tafsir Summary
 
-And truly, this is a revelation from the Lord of all that exists (192)Which the trustworthy Ruh (Jibril) has brought down (193)Upon your heart that you may be (one) of the warners (194)In the plain Arabic language (195)… so they were seized by the torment of the Day of Canopy.
+And truly, this is a revelation from the Lord of all that exists (192)Which the trustworthy Ruh (Jibril) has brought down (193)Upon your heart that you may be (one) of the warners (194)In the plain Arabic language .
 
 ## Tafsir Ibn Kathir
 

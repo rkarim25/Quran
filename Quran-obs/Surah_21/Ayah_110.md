@@ -45,7 +45,7 @@ Say: "It is revealed to me that your God is only one God. Will you then be Musli
 
 ## Tafsir Summary
 
-Say: "It is revealed to me that your God is only one God. وَمَا أَرْ‌سَلْنَاكَ إِلَّا رَ‌حْمَةً لِّلْعَالَمِينَ (And We have not.
+He knows what is visible and what is concealed; He knows what is secret and hidden.
 
 ## Tafsir Ibn Kathir
 

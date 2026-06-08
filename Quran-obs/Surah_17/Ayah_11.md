@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And man invokes (Allah) for evil as he invokes (Allah) for good and man is ever hasty (11) Man's Haste and Prayers against Himself Perhaps, it is based on this congruity that it was said in verse 11 that man would, on occasions, pray for something in a haste, something that spells out destruction for him.
+And man invokes (Allah) for evil as he invokes (Allah) for good and man is ever hasty .
 
 ## Tafsir Ibn Kathir
 

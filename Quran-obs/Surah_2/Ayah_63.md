@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (O Children of Isra'il, remember) when We took your covenant and We raised above you the Mount (saying): "Hold fast to that which We have given you, and remember that which is therein so that you may acquire Taqwa (63)Then after that you turned away. Having received the Torah from Allah, Sayyidna Musa (Moses علیہ السلام) returned from Mount Tur طور (Sinai) and recited it to the Israelites.
+Allah stated that when He took their pledge from them, He raised the mountain above their heads, so that they affirm the pledge that they gave Allah and abide by it with sincerity and seriousness.
 
 ## Tafsir Ibn Kathir
 

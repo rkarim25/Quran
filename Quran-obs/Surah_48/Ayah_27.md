@@ -124,7 +124,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed Allah shall fulfill the true vision which He showed to His Messenger in very truth. Recapitulation of the Event of Hudaibiyah When the Peace Treaty of Hudaibiyah was completed, it was decided that the Muslims would not enter Makkah that year, and would return to Madinah without performing ` Umrah.
+'Abdullah bin Rawahah, from Al-Ansar, was holding the bridle of the Prophet's camel and repeating this poem, "In the Name of He, other than Whose religion there is no true religion, In the Name of He, Whom Muhammad is His Messenger, O children of the disbelievers, stay out of his way, For today, we shall impose on you the fulfillment of its interpretation, Just as we fought with you to accept its revelation, Severe fighting that removes the heads from where they rest, And ove…
 
 ## Tafsir Ibn Kathir
 

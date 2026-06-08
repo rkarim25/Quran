@@ -100,7 +100,7 @@ As pointed out earlier, they were commanded to tell their people about injunctio
 
 ## Tafsir Summary
 
-(And remember) when Allah took a covenant from those who were given the Scripture (Jews and Christians) to make it (the truth) known and clear to mankind, and not to hide it, but they threw it away behind their backs, and purchased with it some miserable gain! In continuation of the description of evils practiced by the Jews mentioned in previous verses, the first of the present two verses (187, 188) takes up yet another evil practice of theirs.
+Chastising the People of the Scriptures for Breaking the Covenant and Hiding the Truth In this Ayah, Allah chastises the People of the Scriptures, from whom Allah took the covenant by the words of their Prophets, that they would believe in Muhammad ﷺ and describe him to the people, so that they would recognize and follow him when Allah sent him.
 
 ## Tafsir Ibn Kathir
 

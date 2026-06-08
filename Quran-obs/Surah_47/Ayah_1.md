@@ -44,7 +44,7 @@ Another name of Surah Muhammad is Surah Al-Qital [ Surah of war ] because this S
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Another name of Surah Muhammad is Surah Al-Qital [ Surah of war ] because this Surah lays down the rules of Jihad and Qital [ i.e.
+But those who believe and do righteous good deeds, and believe in that which is sent down to Muhammad – for it is the truth from their Lord – He expiates from them their sins and amends their Bal.)(3.
 
 ## Tafsir Ibn Kathir
 

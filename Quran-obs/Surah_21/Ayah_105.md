@@ -62,7 +62,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We have written in Az-Zabur after Adh-Dhikr that My righteous servants shall inherit the land (105)Verily, in this there is a plain Message for people who worship Allah (106)And We have sent you (O Muhammad ﷺ)… وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ‌ مِن بَعْدِ الذِّكْرِ‌ أَنَّ الْأَرْ‌ضَ يَرِ‌ثُهَا عِبَادِيَ الصَّالِحُونَ (And We have written in Zabur (Psalms) after the Dhikr (the Torah) that the land will be inherited by My righteous slaves.
+And indeed We have written in Az-Zabur after Adh-Dhikr that My righteous servants shall inherit the land (105)Verily, in this there is a plain Message for people who worship Allah (106)And We have sent you (O Muhammad ﷺ) not but as a mercy for the 'Alamin .
 
 ## Tafsir Ibn Kathir
 

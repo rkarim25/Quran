@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Sulayman (We subjected) the wind, its morning was a month's (journey), and its afternoon was a month's (journey). We can now turn to verse 12: وَلِسُلَيْمَانَ الرِّ‌يحَ غُدُوُّهَا شَهْرٌ‌ وَرَ‌وَاحُهَا شَهْرٌ‌ (And for Sulayman: (We subjugated) the wind; its journey in the morning was (equal to the journey of) one month, and its journey in the afternoon was (equal to the journey) of another month).
+And to Sulayman (We subjected) the wind, its morning was a month's (journey), and its afternoon was a month's (journey). He subjugated the wind to him, so that it would carry his carpet one way for a month, then back again the next month.
 
 ## Tafsir Ibn Kathir
 

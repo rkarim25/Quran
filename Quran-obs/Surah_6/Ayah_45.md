@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Tell me if Allah's torment comes upon you, or the Hour comes upon you, would you then call upon any one other than Allah? In the last verse (45), it was said that, when the mass punishment of Allah Ta` ala came, the people who did wrong were uprooted to the last man.
+And all the praises and thanks be to Allah, the Lord of the all that exists . And We seized them with extreme poverty and loss of health so that they might believe with humility (42)When Our torment reached them, why then did they not believe with humility?
 
 ## Tafsir Ibn Kathir
 

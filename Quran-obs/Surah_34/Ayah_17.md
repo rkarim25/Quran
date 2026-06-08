@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed there was for Saba' a sign in their dwelling place – two gardens on the right and on the left; (and it was said to them:) "Eat of the provision of your Lord, and be grateful to Him." A fair land and an Oft-Forgiving Lord (15)But they turned away, so We sent against them flood released from the dam, and We converted their two gardens into gardens producing bitter bad fruit, and Athl, and some few lote trees (16)Like this We requited them because they were ungrateful disbelievers.
+As such, the verse could be taken to mean: 'We do not punish anyone other than the one who is very ungrateful or is an absolute disbeliever.' This, quite obviously, is counter to all those verses of the Qur'an and sound ahadith which prove that Muslim sinners will also receive the punishment of Jahannam (Hell) to the measure of their deed - even though, finally, once they have gone through their punishment, they will be taken out of the Jahannam because of their 'Iman or fait…
 
 ## Tafsir Ibn Kathir
 

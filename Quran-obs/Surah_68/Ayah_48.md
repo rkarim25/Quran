@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, wait with patience for the decision of your Lord, and be not like the Companion of the Fish when he cried out (to Us) while he was Makzum (48)Had not a grace from his Lord reached him, he would indeed have been (left… وَلَا تَكُن كَصَاحِبِ الْحُوتِ (So, remain patient with your Lord's judgment, and be not like the Man of the Fish...68:48).
+For He (Allah) is the One Whose execution of divine decree cannot be resisted.
 
 ## Tafsir Ibn Kathir
 

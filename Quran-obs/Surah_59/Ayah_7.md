@@ -166,7 +166,7 @@ Although the verse was revealed in connection with fai', its words are general. 
 
 ## Tafsir Summary
 
-And what Allah gave as booty (Fai') to His Messenger from them – for this you made no expedition with either cavalry or camelry. The Concept of Fai' and its Law of Distribution وَمَا أَفَاءَ اللَّـهُ عَلَىٰ رَ‌سُولِهِ مِنْهُمْ (And whatever fai' [ left over property ] Allah has passed on to His Messenger from them, ...59:6).
+The Messenger's Command is Binding like the Qur’ anic Command Although the verse was revealed in connection with fai', its words are general.
 
 ## Tafsir Ibn Kathir
 

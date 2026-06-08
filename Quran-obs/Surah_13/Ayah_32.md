@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed (many) Messengers were mocked at before you but I granted respite to those who disbelieved, and finally I punished them. it was said to comfort him: وَلَقَدِ اسْتُهْزِئَ بِرُ‌سُلٍ مِّن قَبْلِكَ فَأَمْلَيْتُ لِلَّذِينَ كَفَرُ‌وا ثُمَّ أَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ عِقَابِ (And Messengers have been mocked at before you, so I let the disbelievers go on for a while.
+And indeed (many) Messengers were mocked at before you but I granted respite to those who disbelieved, and finally I punished them. When they reached the limit, they were seized by Divine punishment and what a seizure that was which left none of them active enough to go on with their confrontation.
 
 ## Tafsir Ibn Kathir
 

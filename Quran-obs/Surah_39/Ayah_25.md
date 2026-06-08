@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Is he then, who will confront with his face the awful torment on the Day of Resurrection? Verse أَفَمَن يَتَّقِي بِوَجْهِهِ (Tell Me about the one who tries to save himself from the worst punishment with his face ...) carries a description of the terrifying scenario of Jahannam.
+So, let those who are addressed beware, for they have rejected the noblest of the Messengers and the Seal of the Prophets ﷺ. Even if he wished to ward off the punishment in defense, he would have no option but to use his very face as the shield, because he would have been thrown in Jahannam with his hands and feet tied.
 
 ## Tafsir Ibn Kathir
 

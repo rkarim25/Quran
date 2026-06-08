@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Recitation of Surat Al-Fajr in the Prayer An-Nasa'i recorded a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. وَفِرْعَوْنَ ذِي الْأَوْتَادِ (and with Fir'aun [ the Pharaoh ], the man of the stakes...89:10).
+Fir'aun (the Pharaoh) is referred to as 'the man of the stakes'.
 
 ## Tafsir Ibn Kathir
 

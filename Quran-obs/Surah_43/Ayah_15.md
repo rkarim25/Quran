@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Yet, they assign to some of His servants a share with Him. وَجَعَلُوا لَهُ مِنْ عِبَادِهِ جُزْءًا (And they have attributed to Him [ that He is composed on parts [ and that too ] out of His slaves...43:15) 'parts' in this verse means 'offspring', because the polytheists used to say that angels are daughters of Allah, and by using the word 'parts' instead of 'offspring' the fallacy of their claim has been pointed out on pure logical ground.
+The gist of the argument is that had Allah any offspring, that offspring will have been His part, because a son is a part of his father, and it is a rule of logic that an entity that consists of parts is dependent upon its parts for its full existence.
 
 ## Tafsir Ibn Kathir
 

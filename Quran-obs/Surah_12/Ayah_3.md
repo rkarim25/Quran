@@ -78,7 +78,7 @@ On the reason behind revealing Ayah (12:3), Ibn Jarir At-Tabari recorded that 'A
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. In the third verse, it was said: نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ بِمَا أَوْحَيْنَا إِلَيْكَ هَـٰذَا الْقُرْ‌آنَ وَإِن كُنتَ مِن قَبْلِهِ لَمِنَ الْغَافِلِین (We narrate to you the best narrative by revealing this Qur'an to you, and surely before this, you were among the unaware).
+We relate unto you the best of stories through Our revelations unto you, of this Qur'an. Verily, We have sent it down as an Arabic Qur'an in order that you may understand.)(3.
 
 ## Tafsir Ibn Kathir
 

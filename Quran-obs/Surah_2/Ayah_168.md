@@ -72,7 +72,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O mankind! حَلَاً طَیِّباً : permissible and good) is 'to open a knot'.
+Verily, he is to you an open enemy (168)He (Satan) commands you only what is evil and Fahsha' (sinful), and that you should say about Allah what you know not .
 
 ## Tafsir Ibn Kathir
 

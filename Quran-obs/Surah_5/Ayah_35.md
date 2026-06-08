@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! In verses previous to those cited above, the Islamic Prescribed Punishment of robbery and rebellion, as well as the details of injunctions relating to them, were mentioned while the Prescribed Punishment for theft is coming up after three verses later.
+Have Taqwa of Allah and seek the Wasilah to Him, and strive hard in His cause, so that you may be successful (35)Verily, those who disbelieve, if they had all that is in the earth, and as much again therewith to ransom themselves thereby from the torment on the Day of Resurrection, it would never be accepted of them.
 
 ## Tafsir Ibn Kathir
 

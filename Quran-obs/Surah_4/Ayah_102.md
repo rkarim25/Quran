@@ -268,7 +268,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-When you (O Messenger Muhammad ﷺ) are among them, and lead them in Salah, let one party of them stand up [in prayer] with you, taking their arms with them; when they finish their prostrations, let them take their positions in the rear and let the other party come up which have not yet prayed, and let them pray with you, taking all the precautions and bearing arms. The concessions given in travel (In Islamic legal terminology, Safar means journey or travel; Qasr refers to the making of one's Salah short while in that status.
+This is the narration recorded by Abu Dawud and An-Nasa'i, and it has an authentic chain of narration and many other texts to support it.
 
 ## Tafsir Ibn Kathir
 

@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(It will be said to the disbelievers): "Depart you to that which you used to deny! هَـٰذَا يَوْمُ لَا يَنطِقُونَ وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُ‌ونَ (This is a day when they will not speak, nor will they be allowed to offer excuses....77:35, 36) In other words, this is the Day in which they will not be able to talk, nor will they be permitted to offer pleas for their misdeeds.
+This is the view of Mujahid, Al-Hasan, Qatadah, and Ad-Dahhak, and Ibn Jarir favored this view.
 
 ## Tafsir Ibn Kathir
 

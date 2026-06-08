@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And who does more wrong than he who invents a lie against Allah. The word: bayyinah (بینہ) appearing in this verse refers to the Qur'an.
+They could not bear to listen and they used not to see (the truth)(20)They are those who have lost their own selves, and that which they invented eluded them (21)Certainly, they are those who will be the greatest losers in the Hereafter .
 
 ## Tafsir Ibn Kathir
 

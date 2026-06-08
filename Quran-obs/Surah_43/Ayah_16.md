@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Yet, they assign to some of His servants a share with Him. وَجَعَلُوا لَهُ مِنْ عِبَادِهِ جُزْءًا (And they have attributed to Him [ that He is composed on parts [ and that too ] out of His slaves...43:15) 'parts' in this verse means 'offspring', because the polytheists used to say that angels are daughters of Allah, and by using the word 'parts' instead of 'offspring' the fallacy of their claim has been pointed out on pure logical ground.
+Verily, man is indeed a manifest ingrate (15)Or has He taken daughters out of what He has created, and He has selected for you sons (16)And if one of them is informed of the news of that which he sets forth as a parable to the Most Gracious, his face becomes dark, and he is filled with grief (17)A creature who is brought up in adornments, and who in dispute cannot make itself clear (18)And they make females the angels who themselves are servants of the Most Gracious.
 
 ## Tafsir Ibn Kathir
 

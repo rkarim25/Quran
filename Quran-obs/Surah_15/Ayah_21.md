@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And there is not a thing, but the supplies for it are with Us, and We do not send it down but in a known measure (21)And We send the winds fertilizing, then We cause the water to descend from the sky, and We give it to you to drink, and it is not you who are the owners of its supply (22)And certainly We! Divine Wisdom: Balanced Provision for Human Needs One sense of the expression: مِن كُلِّ شَيْءٍ مَّوْزُونٍ (everything in balance - 19) is what has been taken in the present translation of the text, that is, it was in His infinite wisdom that He caused everything that grows to grow in a determined measure, not less than that which would have…
+And there is not a thing, but the supplies for it are with Us, and We do not send it down but in a known measure (21)And We send the winds fertilizing, then We cause the water to descend from the sky, and We give it to you to drink, and it is not you who are the owners of its supply (22)And certainly We!
 
 ## Tafsir Ibn Kathir
 

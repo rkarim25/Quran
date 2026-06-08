@@ -22,7 +22,7 @@ Then, after Ibn Ishaq explained that the people of Najran began following the re
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ (and by the Promised Day, and by that which attends, and that which is attended...85:2-3) With reference to a prophetic Hadith reported by Tirmidhi, the phrase 'the Promised Day' refers to the Day of Judgment; the phrase 'that which attends' refers to 'Friday'; and the phrase 'that which is attended' refers to the day of ` Arafah.
+People of Trench Verse 4 refers to the People of the Trench. He further states that the incident the Qur'an refers to here in Surah Buruj is the first one that occurred in Najran, the trench of the kingdom of Yemen, because that was in Arabia.
 
 ## Tafsir Ibn Kathir
 

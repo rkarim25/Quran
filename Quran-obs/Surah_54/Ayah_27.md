@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Thamud denied the warnings (23)And they said: "A man, alone among us – shall we follow him? The word سُعُر su'ur has appeared twice in this Surah.
+So watch them, and be patient (27)And inform them that the water is to be shared between (her and) them, each one's right to drink being established (by turns)(28)But they called their comrade and he took (a sword) and killed (her)(29)Then, how was My torment and My warnings (30)Verily, We sent against them a single Sayhah, and they became like straw Al-Muhtazir (31)And indeed, We have made the Qur'an easy to understand and remember; then is there any that will remember (32).
 
 ## Tafsir Ibn Kathir
 

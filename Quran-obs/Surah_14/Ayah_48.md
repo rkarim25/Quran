@@ -49,7 +49,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So think not that Allah will fail to keep His promise to His Messengers. In the verses which appear onwards from here (48-51), the text re-turns to the awe-inspiring happenings of the day of Qiyamah.
+It is possible that the features of the present earth will be changed at the time the first Horn is blown, then people will be transferred to some other earth for the purpose of reckoning of deeds.
 
 ## Tafsir Ibn Kathir
 

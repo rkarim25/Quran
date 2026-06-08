@@ -128,7 +128,7 @@ Abu 'Abdur-Rahman An-Nasa'i recorded that Ibn 'Abbas said that they, "Disliked g
 
 ## Tafsir Summary
 
-Not upon you (Muhammad ﷺ) is their guidance, but Allah guides whom He wills. (6) Verse 272: لَّيْسَ عَلَيْكَ هُدَاهُمْ (الی قولہ) وَأَنتُمْ لَا تُظْلَمُونَ : "It is not for you to put them on the right path ...
+And whatever you spend in good, it is for yourselves, when you spend not except seeking Allah's Face.
 
 ## Tafsir Ibn Kathir
 

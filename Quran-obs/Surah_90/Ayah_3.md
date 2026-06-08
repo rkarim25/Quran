@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. وَوَالِدٍ وَمَا وَلَدَ (and by the father and that which he begot,...90:3) The word walid refers to Holy Prophet 'Adam (علیہ السلام) the father of mankind, and the phrase مَا وَلَدَ 'that which he begot' refers to his children from the inception of the world to the end of the world.
+Therefore, it is sacred by the sanctity of Allah until the Day of Judgement.
 
 ## Tafsir Ibn Kathir
 

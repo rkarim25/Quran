@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And this is the path of your Lord leading straight. In the first (126) of the three verses appearing here, the address is to the Holy Prophet ﷺ and it has been said: وَهَـٰذَا صِرَ‌اطُ رَ‌بِّكَ مُسْتَقِيمًا (And this is the path of your Lord, a straight path).
+And this is the path of your Lord leading straight.
 
 ## Tafsir Ibn Kathir
 

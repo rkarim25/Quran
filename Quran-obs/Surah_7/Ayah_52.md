@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Certainly, We have brought to them a Book (the Qur'an) which We have explained in detail with knowledge, a guidance and a mercy to a people who believe (52)Await they just for the final fulfillment of the event? Said in the sixth verse (49) is: أَهَـٰؤُلَاءِ الَّذِينَ أَقْسَمْتُمْ لَا يَنَالُهُمُ اللَّـهُ بِرَ‌حْمَةٍ ۚ ادْخُلُوا الْجَنَّةَ لَا خَوْفٌ عَلَيْكُمْ وَلَا أَنتُمْ تَحْزَنُونَ ﴿49﴾ (Is it these for whom you swore that Allah would not reach them with mercy?" - "Enter the Paradise; there is no fear on you, nor shall you grieve).
+Certainly, We have brought to them a Book (the Qur'an) which We have explained in detail with knowledge, a guidance and a mercy to a people who believe (52)Await they just for the final fulfillment of the event?
 
 ## Tafsir Ibn Kathir
 

@@ -124,7 +124,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who have been given the Scripture (Jews and Christians)! Note 1: The Qur’ anic expression: فَنَرُ‌دَّهَا عَلَىٰ أَدْبَارِ‌هَا (and turn them shaped like their backs) admits of two probabilities in this act of turning.
+Believe in what We have revealed confirming what is with you, before We efface faces and turn them backwards or curse them as We cursed the people of the Sabbath.
 
 ## Tafsir Ibn Kathir
 

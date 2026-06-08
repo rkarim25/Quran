@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Is that better or the Paradise of Eternity which is promised to those who have Taqwa" It will be theirs as a reward and final destination (15)For them there will be therein all that they desire, and they will abide (therein forever). The Second Objection was that if the Holy Prophet ﷺ was a prophet, he should not have been eating and drinking like common people; instead he should have been free from eating and drinking like angels.
+Say: "Is that better or the Paradise of Eternity which is promised to those who have Taqwa" It will be theirs as a reward and final destination (15)For them there will be therein all that they desire, and they will abide (therein forever).
 
 ## Tafsir Ibn Kathir
 

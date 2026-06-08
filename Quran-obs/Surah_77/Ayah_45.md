@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who had Taqwa, shall be amidst shades and springs (41)And fruits, such as they desire (42)"Eat and drink comfortably for that which you used to do. هَـٰذَا يَوْمُ لَا يَنطِقُونَ وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُ‌ونَ (This is a day when they will not speak, nor will they be allowed to offer excuses....77:35, 36) In other words, this is the Day in which they will not be able to talk, nor will they be permitted to offer pleas for their misdeeds.
+Verily, you are criminals (46)Woe that Day to the deniers (47)And when it is said to them: "Bow down yourself!" They bow not down (48)Woe that Day to the deniers (49)Then in what statement after this will they believe .
 
 ## Tafsir Ibn Kathir
 

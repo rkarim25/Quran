@@ -44,7 +44,7 @@ Mujahid and several others said that this Ayah was revealed about the Christians
 
 ## Tafsir Summary
 
-Surely, they have disbelieved who say: "Allah is the Messiah ['Isa], son of Maryam." But the Messiah said: "O Children of Israel! 1.
+And if they cease not from what they say, verily, a painful torment will befall on the disbelievers among them (73)Will they not repent to Allah and ask His forgiveness For Allah is Oft-Forgiving, Most Merciful (74)The Messiah ['Isa], son of Maryam, was no more than a Messenger; many were the Messengers that passed away before him.
 
 ## Tafsir Ibn Kathir
 

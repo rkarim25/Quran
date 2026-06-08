@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Who provides for you from the sky and the earth? In the seventh and the eighth verses (31, 32), the Holy Qur'an has, in its typically wise and patronizing manner, beamed a few questions at the Mushriks to help them regain their sanity.
+Who brings forth the living from the dead, such as vegetation and trees from the soil? And who brings forth the dead from the living, such as a lifeless sperm from humans and animals?
 
 ## Tafsir Ibn Kathir
 

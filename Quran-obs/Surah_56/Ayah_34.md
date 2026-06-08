@@ -14,7 +14,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those on the right – how (fortunate) will be those on the right (27)(They will be) among Sidri Makhdud (28)And among Talh Mandud (29)And in shade Mamdud (30)And by water flowing constantly (31)And fruit in plenty (32… وَفُرُ‌شٍ مَّرْ‌فُوعَةٍ (...and mattresses of high quality....56:34).
+The couches could be upraised or elevated for one of several reasons: [ 1] because the place itself is high; [ 2] because the mattresses will not be on the ground, but on the thrones or beds; or [ 3] because the couches themselves will be thick (and of high quality).
 
 ## Tafsir Ibn Kathir
 

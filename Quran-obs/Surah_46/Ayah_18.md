@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But he who says to his parents: "Uff to you! وَالَّذِي قَالَ لِوَالِدَيْهِ أُفٍّ لَّكُمَا (And, [ contrary to this is the case on the one who said to his parents, 'Fie upon you both!' - 46:17).
+Verily, they are ever the losers (18)And for all, there will be degrees according to that which they did, so that He might fully recompense for their deeds. Today, you will be recompensed with the torment of extreme humiliation, because you were arrogant upon the earth without a right, and because you used to rebel against Allah's command .
 
 ## Tafsir Ibn Kathir
 

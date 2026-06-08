@@ -68,7 +68,7 @@ Al-Bukhari recorded that 'A'ishah said, "A man was taking care of a female orpha
 
 ## Tafsir Summary
 
-And give unto orphans their property and do not exchange (your) bad things for (their) good ones; and devour not their substance (by adding it) to your substance. In the previous verse, the objective was to remove the injustice done to women through the multiplicity of marriages.
+So, the verse here teaches that the dower of women is their right which must be fulfilled as a matter of obligation.
 
 ## Tafsir Ibn Kathir
 

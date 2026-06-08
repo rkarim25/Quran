@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Maulana Ashraf ` Ali Thanavi (رح) has, in his Tafsir Bay-an al-Qur'an, taken up the question of 'standing up lazily' in the expression: قَامُوا كُسَالَ which appears in verse 142 saying: 'The laziness censured here is doctrinal laziness, (that is, slothfulness towards observance of the articles of faith due to lack of true conviction).
+Do you wish to offer Allah a manifest Sultan against yourselves (144)Verily, the hyprocrites will be in the lowest depth (grade) of the Fire; no helper will you find for them (145)Except those who repent, do righteous good deeds, depend on Allah, and purify their religion for Allah, then they will be with the believers. Do not take disbelievers as friends instead of believers.
 
 ## Tafsir Ibn Kathir
 

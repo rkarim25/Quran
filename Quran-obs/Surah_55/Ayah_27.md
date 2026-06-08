@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Whatsoever is on it (the earth) will perish (26)And the Face of your Lord Dhul-Jalal wal-Ikram will remain forever (27)Then which of the blessings of your Lord will you both deny (28)Whosoever is in the heavens and on the earth begs of Him. وَجْهُ رَ‌بِّكَ (...your Lord's Countenance ....55:27).
+Despite being the Lord of Greatness and Majesty, Allah is not like the worldly kings and rulers who would not pay attention to others or the indigent people.
 
 ## Tafsir Ibn Kathir
 

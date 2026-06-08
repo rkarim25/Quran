@@ -22,7 +22,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Revelation of this Surat and its Recitation in the Maghrib Prayer Al-Bukhari recorded from 'Abdullah – that is Ibn Mas'ud – that he said, "While we were with the Messenger of Allah ﷺ in a cave at Mina, وَإِذَا الرُّ‌سُلُ أُقِّتَتْ (and when the messengers will be assembled at the appointed time, [ then all matters will be decided.] [ 77:11] ' The word uqqitat is derived from tauqit which primarily means 'appointment of time'.
+The verse signifies that the appointed time for the Prophets and Messengers to assemble with their communities will arrive, so that all matters concerning them may be decided. And when the mountains are blown away.)(11.
 
 ## Tafsir Ibn Kathir
 

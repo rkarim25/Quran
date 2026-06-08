@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "My Lord! The word عِتِيًّا is derived from which actually means 'unresponsive' or 'insensitive', and in the present context it means dryness of the bones.
+Then he (the angel) mentioned to him that which is more amazing than what he was asking about.
 
 ## Tafsir Ibn Kathir
 

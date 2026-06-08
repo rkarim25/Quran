@@ -140,7 +140,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"O two companions of the prison! After that, he declares his abhorrence for disbelief and his disengagement from the community of disbelievers.
+He has commanded that you worship none but Him; that is the straight religion, but most men know not.
 
 ## Tafsir Ibn Kathir
 

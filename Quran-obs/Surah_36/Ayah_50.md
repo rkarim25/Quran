@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And they say: "When will this promise be fulfilled, if you are truthful? In verse 50, it was said فَلَا يَسْتَطِيعُونَ تَوْصِيَةً وَلَا إِلَىٰ أَهْلِهِمْ يَرْ‌جِعُونَ (So they will not be able to make a bequest, nor will they return to their household.), that is, people who are gathered there will not have the respite to make a will among themselves to do something on their behalf, and those who are still outside their houses will not find the respite even to go into their houses.
+Then the people who are alive will be driven to the gathering place by a fire which will surround them on all sides.
 
 ## Tafsir Ibn Kathir
 

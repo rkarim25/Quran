@@ -34,7 +34,7 @@ The majority holds Al-Khadir (علیہ السلام) to be a prophet and his kno
 
 ## Tafsir Summary
 
-Musa said to him: "May I follow you so that you teach me something of that knowledge which you have been taught (by Allah)? It is not permissible for an 'Alim’ of the 'Shari'ah' to patiently bear what is contrary to the Shari'ah By saying: إِنَّكَ لَن تَسْتَطِيعَ مَعِيَ صَبْرً‌ا وَكَيْفَ تَصْبِرُ‌ عَلَىٰ مَا لَمْ تُحِطْ بِهِ خُبْرً‌ا (You can never be able to keep patient while with me.
+And how would you keep patient over something your comprehension cannot grasp?
 
 ## Tafsir Ibn Kathir
 

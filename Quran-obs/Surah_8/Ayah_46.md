@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! Moving to verse 46, we see that believers have been prompted to follow a third instruction and that أَطِيعُوا اللَّـهَ وَرَ‌سُولَهُ (obey Allah and His Messenger) - because, help and support from Allah Ta` ala can be expected to come only through obedience to Him.
+These days everyone knows and says that mutual dispute is very bad, but the master stroke of remaining safe from it - that one trains himself to become used to remaining patient over what does not match his physical temperament and that he does not worry about making people say yes to his view and see that they go by it - is something very few people have learnt to employ successfully.
 
 ## Tafsir Ibn Kathir
 

@@ -120,7 +120,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And the parable of those who spend their wealth seeking Allah's pleasure while they in their own selves are sure and certain that Allah will reward them (for their spending in His cause), is that of a garden on a height; heavy rain falls on it and it doubles its yield of harvest. In verse 265, the fifth under discussion, the acts of charity which are acceptable in the sight of Allah Almighty as valid spendings, have been illustrated with an example.
+The Ayah indicates that the garden on the Rabwah is always fertile, for if heavy rain does not fall on it, light rain will suffice for it.
 
 ## Tafsir Ibn Kathir
 

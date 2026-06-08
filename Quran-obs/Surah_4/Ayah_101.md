@@ -106,7 +106,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when you Darabtum in the land, there is no sin on you if you shorten the Salah if you fear that the disbelievers may put you in trial, verily, the disbelievers are ever unto you open enemies (101) Salat Al-Qasr, Shor…
+Since travel is involved in Jihad and Hijrah under most conditions, the likelihood of confrontation with the enemy is strong and frequent while making such a trip.
 
 ## Tafsir Ibn Kathir
 

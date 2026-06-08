@@ -176,7 +176,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They are those who disbelieved and hindered you from Al-Masjid Al-Haram and detained the sacrificial animals, from reaching their place of sacrifice. فَتُصِيبَكُم مِّنْهُم مَّعَرَّ‌ةٌ بِغَيْرِ‌ عِلْمٍ (and thus an embarrassing situation might have befallen you because of them unknowingly....48:25): According to some authorities on lexicology ma'arrah connotes "sin"; according to others it means "harm"; and other authorities say it denotes "shame" or "embarrassment".
+The sense is that if Muslims detained in Makkah had been separate and distinct from the unbelievers, the Muslims coming from Madinah would have been able to save them in case of war, and Allah would have had the disbelievers punished then and there, because that was the demand of their attitude.
 
 ## Tafsir Ibn Kathir
 

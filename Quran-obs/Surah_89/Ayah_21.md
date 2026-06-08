@@ -34,7 +34,7 @@ He said, "This Ayah was revealed while Abu Bakr was sitting (with the Prophet �
 
 ## Tafsir Summary
 
-Nay! وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا (and love wealth, with an excessive love 89:20).
+When the earth is flatened, Dakkan Dakka (21)And your Lord comes with the angels in rows (22)And Hell will be brought near that Day.
 
 ## Tafsir Ibn Kathir
 

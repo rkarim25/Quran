@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And that to your Lord is the End (42)And that it is He Who makes laugh, and makes weep (43)And that it is He Who causes death and gives life (44)And that He creates the pairs, male and female (45)From Nutfah when it is emitted (46)And that upon Him is another bringing forth (Resurrection)(47)And that it is He Who Aghna and Aqna (48)And that He is the Lord of Ash-Shi'ra (49)And that it is He Who destroyed the former 'Ad (50)And Thamud.
+This means they are able to use it to their benefit, is this out of the completeness of His favor.
 
 ## Tafsir Ibn Kathir
 

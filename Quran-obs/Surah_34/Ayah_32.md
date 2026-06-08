@@ -68,7 +68,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who disbelieve say: "We believe not in this Qur'an nor in that which was before it." But if you could see when the wrongdoers are made to stand before their Lord, how they will cast the (blaming) word one to another! That Allah is One and that His power is absolute was the subject in previous verses.
+In fact, it is not simply for human beings, but is so for the Jinns as well.
 
 ## Tafsir Ibn Kathir
 

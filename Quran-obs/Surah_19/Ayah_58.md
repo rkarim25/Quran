@@ -129,7 +129,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Those were they unto whom Allah bestowed His grace from among the Prophets, of the offspring of Adam, and of those whom We carried (in the ship) with Nuh, and of the offspring of Ibrahim and Israel, and from among those whom We guided and chose. "Those are the people whom Allah has blessed with bounties, the prophets from the progeny of Adam." - 19.58.
+This is because among them is he who was not a descendant of those who were on the ship with Nuh, and he that is Idris.
 
 ## Tafsir Ibn Kathir
 

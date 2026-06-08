@@ -48,7 +48,7 @@ Mujahid said that Jabir bin 'Abdullah said, "This Ayah [3:168] was revealed abou
 
 ## Tafsir Summary
 
-(What is the matter with you?) When a single disaster smites you, although you smote (your enemies) with one twice as great, you say: "From where does this come to us?" Say, "It is from yourselves." And Allah has power o… Immediately later, in verse 166, the words fa bi idhnillahi: فَبِإِذْنِ اللَّـه indicate that whatever happened there was with the leave and will of Allah Almighty operating behind which are many wise divine arrangements, some of them having been explained earlier.
+One such wise arrangement is that Allah will 'see' His true believers, and the hypocrites too, that is, the sincerity of Muslims and the hypocrisy of the hypocrites will become so clear that everybody could see it for himself.
 
 ## Tafsir Ibn Kathir
 

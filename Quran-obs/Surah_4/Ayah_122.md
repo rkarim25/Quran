@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, Allah forgives not (the sin of) setting up partners (in worship) with Him, but He forgives whom He wills, sins other than that, and whoever sets up partners in worship with Allah, has indeed strayed far away (116)They invoke nothing but female deities besides Him (Allah), and they invoke nothing but Shaytan, a persistent rebel (117)Allah cursed him. Though, the mention of Jihad in preceding verses includes all forces hostile to Islam, yet the actual description was limited to Jews and the hypocrites.
+Allah's promise is the truth; and whose words can be truer than those of Allah .
 
 ## Tafsir Ibn Kathir
 

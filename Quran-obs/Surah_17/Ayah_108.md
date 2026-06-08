@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Believe in it or do not believe (in it). The first verse (101): وَلَقَدْ آتَيْنَا مُوسَىٰ تِسْعَ آيَاتٍ mentions the bestowal of nine clear signs on Sayyidna Musa (علیہ السلام) .
+Truly, the promise of our Lord must be fulfilled. Therefore, a number of commentators have taken the word 'ayat' to mean miracles - and the number nine does not make it necessary that they will not be more than nine - but, at this place, the figure 'nine' has been mentioned on the basis of some particular importance it has.
 
 ## Tafsir Ibn Kathir
 

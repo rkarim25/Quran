@@ -52,7 +52,7 @@ Al-'Awfi reported similar to this from Ibn 'Abbas, and likewise said Mujahid, Sa
 
 ## Tafsir Summary
 
-'There are among us some that are righteous, and some the contrary; we are groups having different ways. فَمَن يُؤْمِن بِرَ‌بِّهِ فَلَا يَخَافُ بَخْسًا وَلَا رَ‌هَقًا (...so if one believes in his Lord, he will have no fear of either any curtailment [ in his reward ] or any excess [ in his punishment ]...72:13).
+And whosoever turns away from the Reminder of his Lord, He will cause him to enter in a Sa'ad torment .
 
 ## Tafsir Ibn Kathir
 

@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when your Lord called Musa (saying): "Go to the people who are wrongdoers. Bani Isra'il were the residents of Syria.
+First, ` We have brought you up in our household and have done so many favours to you. After that he turned to the second point regarding his upbringing in the Pharaoh's house, upon which the Pharaoh had stressed to remind his favour to him.
 
 ## Tafsir Ibn Kathir
 

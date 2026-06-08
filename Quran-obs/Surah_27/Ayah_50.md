@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And there were in the city nine Rahtin, who made mischief in the land, and would not reform (48)They said: "Swear one to another by Allah that we shall make a secret night attack on him and his household, and thereafter we will surely say to his near relatives: 'We witnessed not the destruction of his household, and verily, we are telling the truth.' (49)So, they plotted a plot, and We planned a plan, while they perceived not (50)Then see how was the end of their plot! We shall attack him (Salih علیہ السلام) and his family at night, then will say to his heir, We did not witness the destruction of his family and we are really truthful - 27:49.
+When we have finished him off, we will go to his family and finish them off too.' Then Allah sent down a rock upon them from the mountains round about; they feared that it would crush them, so they ran into the cave and the rock covered the mouth of the cave while they were inside.
 
 ## Tafsir Ibn Kathir
 

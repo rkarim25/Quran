@@ -131,7 +131,7 @@ Imam Ahmad narrated from Ibn 'Abbas that 'Umar said: "Allah sent Muhammad ﷺ wi
 
 ## Tafsir Summary
 
-Allah has not made for any man two hearts inside his body. Previous verses carried instructions to the Holy Prophet ﷺ asking him not to act upon their advice and not to be cajoled into what they wanted to achieve.
+Your mother is but she who gave birth to you.' Now, at least, the notion of the people of Jahiliyyah that Zihar makes one's wife unlawful for ever is refuted by this verse.
 
 ## Tafsir Ibn Kathir
 

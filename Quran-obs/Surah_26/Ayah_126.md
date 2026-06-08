@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-'Ad denied the Messengers (123)When their brother Hud said to them: "Will you not have Taqwa? Nobility of a person depends on deeds and moral qualities and not on family or status They said, "Shall we believe in you while you are followed by the lowest people?" [ 111] He said, "I do not know about what they do.
+Verily, I fear for you the torment of a Great Day.) meaning, 'if you disbelieve and oppose (your Prophet).' So he called them to Allah with words of encouragement and words of warning, but it was to no avail. This refers to the fact that they were physically strong and well-built, and very violent, and very tall; they had also been given a great deal of provisions, wealth, gardens, rivers, sons, crops and fruits.
 
 ## Tafsir Ibn Kathir
 

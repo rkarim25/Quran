@@ -30,7 +30,7 @@ He said, "This Ayah was revealed while Abu Bakr was sitting (with the Prophet �
 
 ## Tafsir Summary
 
-Nay! يَوْمَئِذٍ يَتَذَكَّرُ الْإِنسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ (it will be the day when man will realise the truth, but from where will he take advantage of such realisation?
+Allah says: 'So, that day, no one can punish like He will punish, nor can anyone shackle like He will shackle....89:26] Having described the torment of the unbelievers, the conclusion of the Surah gives cheerful news to the believers that they will be admitted into Paradise.
 
 ## Tafsir Ibn Kathir
 

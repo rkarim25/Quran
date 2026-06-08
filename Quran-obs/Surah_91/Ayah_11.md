@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Thamud denied through their transgression (11)When their most wicked went forth (12)But the Messenger of Allah said to them: "Be cautious! قَدْ أَفْلَحَ مَن زَكَّاهَا ﴿9﴾ وَقَدْ خَابَ مَن دَسَّاهَا ﴿10﴾ (success is really attained by him who purifies it, and failure is really suffered by him who pollutes it....91:10).
+The Rejection of Thamud and Allah's Destruction of Them Allah informs that Thamud rejected their Messenger because of the injustice and transgression they practiced.
 
 ## Tafsir Ibn Kathir
 

@@ -117,7 +117,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when Musa said to his people: "O my people! This verse describes the special mode of offering their Taubah توبہ (repentance) which was prescribed for the Israelites in this situation, -- that is to say, those who had not indulged in the worship of the golden calf should execute those who had.
+Verily, you have wronged yourselves by worshipping the calf. The Children of Israel kill each other in Repentance This was the repentance required from the Children of Israel for worshipping the calf.
 
 ## Tafsir Ibn Kathir
 

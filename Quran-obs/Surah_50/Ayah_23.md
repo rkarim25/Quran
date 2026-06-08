@@ -31,7 +31,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And his companion (angel) will say: "Here is (his record) ready with me! قَالَ قَرِ‌ينُهُ هَـٰذَا مَا لَدَيَّ عَتِيدٌ (And his companion will say, "This is what I have with me, ready (to be presented as his record of deeds)...
+The Angel will bear Witness; Allah commands that the Disbeliever be thrown into the Fire Allah the Exalted states that the scribe angel, who is entrusted with recording the deeds of mankind, will testify against him or her about the deeds he or she did on the Day of Resurrection.
 
 ## Tafsir Ibn Kathir
 

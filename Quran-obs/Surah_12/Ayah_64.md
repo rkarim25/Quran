@@ -77,7 +77,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, when they returned to their father, they said: "O our father! Therefore, he said: فَاللَّـهُ خَيْرٌ‌ حَافِظًا (Well, Allah is the best guardian - 64), that is, he had already seen the outcome of their guardianship earlier, now he was placing his trust in Allah Ta` ala alone as his guardian.
+But Allah is the Best to guard, and He is the Most Merciful of those who show mercy.
 
 ## Tafsir Ibn Kathir
 

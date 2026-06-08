@@ -82,7 +82,7 @@ Allah said that after He illuminated the truth for them, such that they were not
 
 ## Tafsir Summary
 
-Many of the People of the Scripture (Jews and Christians) wish that they could turn you away as disbelievers after you have believed, out of envy from their own selves, even after the truth (that Muhammad ﷺ is Allah's Messenger) has become manifest unto them. Some of the Jews, pretending to be the well-wishers of the Muslims, were always inventing new stratagems to make them turn away from Islam, and, in spite of repeated failure in this effort, did not refrain from it.
+Certainly, Allah is the Seer of what you do .
 
 ## Tafsir Ibn Kathir
 

@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Allah belongs all that is in the heavens and all that is in the earth. After having stated the rules of behaviour as related to women and orphans, the text now reminds the promise of rewards for those abiding by these rules, and the warning for those contravening them, which is the usual style of the Holy Qur'an.
+But if you disbelieve, then unto Allah belongs all that is in the heavens and all that is in the earth, and Allah is Ever Rich (free of any needs), Worthy of all praise (131)And to Allah belongs all that is in the heavens and all that is in the earth. The Necessity of Taqwa of Allah Allah states that He is the Owner of the heavens and earth and that He is the Supreme Authority over them.
 
 ## Tafsir Ibn Kathir
 

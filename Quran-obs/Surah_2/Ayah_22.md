@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O mankind! That is to say, once one has understood that, in reality, Allah alone is the Creator and the Provider, one will have also understood that no one else can be worthy of worship and of being associated with Allah as an equal or rival god.
+The actual birth and growth of the tree, and the putting forth of leaves, branches and fruits is the work of Divine Power, and of no one else.
 
 ## Tafsir Ibn Kathir
 

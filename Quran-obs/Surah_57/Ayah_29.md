@@ -99,7 +99,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! لِّئَلَّا يَعْلَمَ أَهْلُ الْكِتَابِ (so that the People of the Book may know ....57:29) The negative particle la [ no ] is grammatically redundant [ but rhetorically it serves to emphasise the expression ].
+And Allah is the Owner of great bounty.) This is the end of the Tafsir of Surat Al-Hadid, all praise is due to Allah, and all favors come from Him.
 
 ## Tafsir Ibn Kathir
 

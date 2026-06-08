@@ -102,7 +102,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We brought the Children of Israel (with safety) across the sea, and they came upon a people devoted to some of their idols (in worship). After the miraculous victory of the Israelites over Pharaoh and his people, and having a life of ease and comfort, they started to show the signs of ignorance as people of wealth show when given a life of luxury and opulence.
+And We brought the Children of Israel (with safety) across the sea, and they came upon a people devoted to some of their idols (in worship). Make for us a god as they have gods." He said: "Verily, you are an ignorant people.
 
 ## Tafsir Ibn Kathir
 

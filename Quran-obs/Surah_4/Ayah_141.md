@@ -163,7 +163,7 @@ In the third verse (140): وَقَدْ نَزَّلَ عَلَيْكُمْ فِ�
 
 ## Tafsir Summary
 
-Those who wait and watch about you; if you gain a victory from Allah, they say: "Were we not with you?" But if the disbelievers gain a success, they say (to them): "Did we not gain mastery over you and did we not protect you from the believers" Allah will judge between you (all) on the Day of Resurrection. In the third verse (140): وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ (...
+This statement of the hypocrites is an attempt to strengthen relations with the disbelievers, because they pretend to be friends with both parties so that they will be safe from their harm, due to their weak faith and lack of certainty.
 
 ## Tafsir Ibn Kathir
 

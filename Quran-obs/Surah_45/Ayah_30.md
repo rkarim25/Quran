@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Then, as for those who believed and did good deeds, their Lord will admit them to His mercy. وَتَرَ‌ىٰ كُلَّ أُمَّةٍ جَاثِيَةً ("And you will see every community kneeling down...45:28" ).
+Then, as for those who believed and did good deeds, their Lord will admit them to His mercy. This Ayah means, Allah is the Almighty, Worthy of all praise; everything and everyone is subservient and in complete need of and dependent upon Him.
 
 ## Tafsir Ibn Kathir
 

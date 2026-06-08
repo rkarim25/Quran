@@ -56,7 +56,7 @@ After a refutation of beliefs held by Christians, specially those which ascribe 
 
 ## Tafsir Summary
 
-O mankind! After a refutation of beliefs held by Christians, specially those which ascribe Godhood to Jesus, alongwith the promise of reward for those who acknowledge the truth and punishment for those who insist on denying, the text turns to a universal address praising the blessed status and mission of His Messenger who taught what was the truth revealed to him, who conveyed the truth of the Qur'an admirably, and also those who believed in and testified to the truth of the Book and the Messenger.
+Verily, there has come to you a convincing proof from your Lord; and We sent down to you a manifest light (174)So, as for those who believed in Allah and held fast to [depend on] Him, He will admit them to His mercy and grace (i.e. Let there be no doubt at this point that the conjunction demands dissimilarity, therefore, Nur (light) and Kitab (book) cannot be one and the same thing.
 
 ## Tafsir Ibn Kathir
 

@@ -170,7 +170,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Is then He (Allah) Who takes charge of every person and knows all that he has earned (like any other deity who knows nothing) Yet, they ascribe partners to Allah. In the verse: أَفَمَنْ هُوَ قَائِمٌ عَلَىٰ كُلِّ نَفْسٍ (Is then He, who is watchful over everyone ...
+To those who disbelieved, their plotting is made fair-seeming, and they have been hindered from the right path; and whom Allah sends astray, for him there is no guide .
 
 ## Tafsir Ibn Kathir
 

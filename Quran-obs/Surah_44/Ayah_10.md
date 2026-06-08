@@ -37,7 +37,7 @@ The statement that the Qur’ an was revealed in the Night of Power’ means tha
 
 ## Tafsir Summary
 
-Nay! لَيْلَةٍ مُّبَارَ‌كَةٍ 'blessed night', in verse 2 according to majority of the Commentators, refers to 'laylatul Qadr' or the 'Night of Power' which occurs in the last ten nights of the month of Ramadan.
+You cannot get further than your rank.) There are numerous Marfu' and Mawquf Hadiths, Sahih, Hasan and others, which indicate that the smoke is one of the awaited signs (of the Hour).
 
 ## Tafsir Ibn Kathir
 

@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or have they taken protecting friends besides Him? وَمَا اخْتَلَفْتُمْ فِيهِ مِن شَيْءٍ فَحُكْمُهُ إِلَى اللَّـهِ (Whatever dispute you have in any matter, its judgment lies with Allah.
+And He Who gives life to the dead, and He is Able to do all things (9)And in whatsoever you differ, the decision thereof is with Allah.
 
 ## Tafsir Ibn Kathir
 

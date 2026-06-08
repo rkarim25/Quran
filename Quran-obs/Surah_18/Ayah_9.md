@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Do you think that the people of Al-Kahf and Ar-Raqim were a wonder among Our signs (9)When the young men fled for refuge to Al-Kahf. Kahf is a large mountainous cave or cavern.
+Qatadah, ` Atiyyah, ` Awfi and Mujhid have said that Raqim is the name of the valley adjoining the mountain in which the hollow cavern of the People of Kahf was located.
 
 ## Tafsir Ibn Kathir
 

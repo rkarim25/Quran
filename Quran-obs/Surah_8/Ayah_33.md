@@ -60,7 +60,7 @@ In a nutshell, the answer is: Because of your hostility towards Qur'an and Islam
 
 ## Tafsir Summary
 
-And when Our Ayat are recited to them, they say: "We have heard (the Qur'an); if we wish we can say the like of this. The answer to this was given by the Qur'an itself.
+I will keep forgiving them, as long as they keep invoking Me for forgiveness.') Al-Hakim, "Its chain is Sahih and they did not record it." The answer to this was given by the Qur'an itself.
 
 ## Tafsir Ibn Kathir
 

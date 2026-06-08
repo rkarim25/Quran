@@ -30,7 +30,7 @@ It is universally agreed that the first five verses of Surah Al-` Alaq or Iqra' 
 
 ## Tafsir Summary
 
-This was the First of the Qur'an revealed In the Name of Allah, the Most Gracious, the Most Merciful. Beginning of The Qur’ anic Revelation It is universally agreed that the first five verses of Surah Al-` Alaq or Iqra' mark the very beginning of Qur’ anic revelation.
+The verb khalaqa [ created ] is transitive and it requires an object that is absent here.
 
 ## Tafsir Ibn Kathir
 

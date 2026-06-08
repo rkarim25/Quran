@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "O My servants who have transgressed against themselves! The next three verses (56-58), beginning from: أَن تَقُولَ نَفْسٌ يَا حَسْرَ‌تَىٰ (Pity on me, because I fell short in respect of Allah...
+Or he should say when he sees the torment: "If only I had another chance, then I should indeed be among the doers of good.") means, he will wish that he could go back to this world, so that he could do righteous deeds. Later, as an excuse, they will say that they were helpless, and had Allah guided them, they too would have become obedient and fearing, but when He Himself gave them no guidance, they were hardly at fault.
 
 ## Tafsir Ibn Kathir
 

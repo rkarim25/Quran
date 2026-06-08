@@ -37,7 +37,7 @@ This Surah is Makki, although Muqatil رحمۃ اللہ علیہ has said that t
 
 ## Tafsir Summary
 
-(1. This Surah is Makki, although Muqatil رحمۃ اللہ علیہ has said that the verse وَاسْأَلْ مَنْ أَرْ‌سَلْنَا (43:45) is Madam, and according to another view, this Surah was revealed in Heaven during Lailat-ul-Mi` raj (the Night of Ascention) (Ruh u1-Ma’ ani) - Allah knows best.
+To call it a 'manifest book' means that its subjects consisting of exhortations and advices are easily understandable; but as far as deduction of the precepts of 'Shari'ah' is concerned, it certainly is a difficult job which cannot be performed without complete capability of 'ijtihad'.
 
 ## Tafsir Ibn Kathir
 

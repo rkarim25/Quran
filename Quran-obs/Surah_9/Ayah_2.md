@@ -71,7 +71,7 @@ The first part of this honorable Surah was revealed to the Messenger of Allah ï·
 
 ## Tafsir Summary
 
-(1. Now begins Surah Al-Bara'ah which is also called Surah At-Taubah (as written; also Surah At-Taubah as pronounced).
+So travel freely (O Mushrikin) for four months (as you will) throughout the land, but know that you cannot escape (from the punishment of) Allah; and Allah will disgrace the disbelievers.) Why there is no Basmalah in the Beginning of This Surah This honorable Surah (chapter 9) was one of the last Surahs to be revealed to the Messenger of Allah ï·º.
 
 ## Tafsir Ibn Kathir
 

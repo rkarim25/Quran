@@ -53,7 +53,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So verily, you cannot make the dead to hear, nor can you make the deaf to hear the call, when they show their backs and turn away (52)And you cannot guide the blind from their straying; you can make to hear only those wh… فَإِنَّكَ لَا تُسْمِعُ الْمَوْتَىٰ (So you cannot make the dead to hear 30:52).
+So verily, you cannot make the dead to hear, nor can you make the deaf to hear the call, when they show their backs and turn away (52)And you cannot guide the blind from their straying; you can make to hear only those who believe in Our Ayat, and have submitted (to Allah in Islam).
 
 ## Tafsir Ibn Kathir
 

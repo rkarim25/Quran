@@ -137,7 +137,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to Allah belongs all that is in the heavens and all that is on the earth, that He may requite those who do evil with that which they have done, and reward those who do good, with what is best (31)Those who avoid great sins and Al-Fawahish (immoral sins) except Al-Lamam – verily, your Lord is of vast forgiveness. Allah Forgives the Small Faults, Al-Lamam الَّذِينَ يَجْتَنِبُونَ كَبَائِرَ‌ الْإِثْمِ وَالْفَوَاحِشَ إِلَّا اللَّمَمَ (those who abstain from the major sins and from shameful acts, except minor involvements....53:32) The preceding verse praises those who follow the right guidance of Allah and do good deeds.
+Definition of Major and Minor Sins This subject is taken up in full detail in Surah An-Nisa' in this book Vol.
 
 ## Tafsir Ibn Kathir
 

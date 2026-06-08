@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And those who do not bear witness to falsehood, and if they pass by some evil play or evil talk, they pass by it with dignity (72)And those who, when they are reminded of the Ayat of their Lord, fall not deaf and blind thereat (73)And those who say: "Our Lord! وَالَّذِينَ لَا يَشْهَدُونَ الزُّورَ‌ (And those who do not witness falsehood - 25:72).
+The biggest falsehood is the kufr (disbelief) and shirk, and the next in order comes the common lie and acts of sin.
 
 ## Tafsir Ibn Kathir
 

@@ -72,7 +72,7 @@ The noble Companions ؓ ، who were the first addressees of the Qur'anic injunct
 
 ## Tafsir Summary
 
-By no means shall you attain Al-Birr, unless you spend of that which you love; and whatever of good you spend, Allah knows it well (92) Al-Birr is Spending from the Best of One's Wealth In the previous verse (91), it was said that charity from disbelievers and deniers was not acceptable with Allah.
+But, what is certainly undesirable and prohibited is getting into the habit of always picking out the extra and the bad to spend in the way of Allah.
 
 ## Tafsir Ibn Kathir
 

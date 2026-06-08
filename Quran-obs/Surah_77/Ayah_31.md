@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(It will be said to the disbelievers): "Depart you to that which you used to deny! أَلَمْ نَجْعَلِ الْأَرْ‌ضَ كِفَاتًا أَحْيَاءً وَأَمْوَاتًا (Did We not make the earth a container that collects the living and the dead?....25, 26) The word kit is derived from kaft.
+So if you have a plot, use it against Me!) This is an address from the Creator to His servants.
 
 ## Tafsir Ibn Kathir
 

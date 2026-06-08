@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And Paradise will be brought near to those who had Taqwa (90)And the (Hell) Fire will be placed in full view of the astray (91)And it will be said to them: "Where are those that you used to worship. The Day when neither wealth will be of any use (to any one) nor sons, [ 88] except to one who will come to Allah with a sound heart, [ 26:89] This verse has declared that wealth and children will not be of any help to a person on the Day of Judgment.
+The above quoted famous explanation of this verse has made it clear that wherever it is mentioned in the Qur'an or hadith that the family connection will be of no avail in the Hereafter, the reference is to the non-believers.
 
 ## Tafsir Ibn Kathir
 

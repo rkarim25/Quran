@@ -116,7 +116,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Al-Masih will never be too proud to be a servant of Allah, nor the angels who are the near (to Allah). From the affirmation of Allah's absolute purity and the refutation of assumed Godhood of Sayyidna 'Isa (علیہ السلام) earlier, the text now moves to further strengthen the argument by showing that Sayyidna 'Isa (علیہ السلام) would himself confess to being a servant of Allah and so will the angels (which includes Sayyidna Jibra'il (علیہ السلام) alleged to be a person of Trinity).
+Then, Allah will judge between them with His just judgment that is never unjust or wrong.
 
 ## Tafsir Ibn Kathir
 

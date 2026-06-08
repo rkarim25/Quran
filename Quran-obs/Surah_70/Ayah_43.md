@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So, what is the matter with those disbelievers, before you Muhti'i (36)On the right and on the left, 'Izin (37)Does every man of them hope to enter the Paradise of Delight (38)But no! وَالَّذِينَ هُم بِشَهَادَاتِهِمْ قَائِمُونَ (...and those who are upright in their testimonies, [ 70:33] '.
+I swear by the Lord of the easts and the wests that surely We are Abl (40)To replace them by (others) better than them; and We are not to be outrun (41)So, leave them to plunge in vain talk and play about, until they meet their Day which they are promised (42)The Day when they will come out of the graves quickly as racing to a Nusub (43)With their eyes lowered in fear and humility, ignominy covering them (all over)!
 
 ## Tafsir Ibn Kathir
 

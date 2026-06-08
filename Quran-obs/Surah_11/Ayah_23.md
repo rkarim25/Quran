@@ -64,7 +64,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who believe and do righteous good deeds, and humble themselves before their Lord, they will be the dwellers of Paradise to dwell therein forever (23)The likeness of the two parties is as the blind and the deaf and the seer and the hearer. The word: bayyinah (بینہ) appearing in this verse refers to the Qur'an.
+Verily, those who believe and do righteous good deeds, and humble themselves before their Lord, they will be the dwellers of Paradise to dwell therein forever (23)The likeness of the two parties is as the blind and the deaf and the seer and the hearer.
 
 ## Tafsir Ibn Kathir
 

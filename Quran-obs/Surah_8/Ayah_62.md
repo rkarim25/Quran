@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But if they incline to peace, you also incline to it, and trust in Allah. After that, in the fourth verse (62), the same subject has been taken up with added clarity where it was said: And if they intend to deceive you, then, Allah is all-sufficient for you.
+Verily, He is the All-Hearer, the All-Knower (61)And if they intend to deceive you, then verily, Allah is All-Sufficient for you.
 
 ## Tafsir Ibn Kathir
 

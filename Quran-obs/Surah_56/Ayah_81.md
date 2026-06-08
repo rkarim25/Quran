@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Fala! أَفَبِهَـٰذَا الْحَدِيثِ أَنتُم مُّدْهِنُونَ (Is it this discourse that you take lightly,...56:81) The word mudhinun is the plural of mudhin, being the active participle from اِذھَان idhan, which literally means 'to apply or rub oil on the body'.
+By extension, the word is employed in the sense of showing flexibility and softness on inappropriate occasions.
 
 ## Tafsir Ibn Kathir
 

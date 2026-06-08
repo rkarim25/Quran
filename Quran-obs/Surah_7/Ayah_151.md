@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when Musa returned to his people, angry and grieved, he said: "What an evil thing is that which you have done during my absence. Thereafter he turned to the Prophet Harun (علیہ السلام) and grasped the hair of his head.
+Forgive me and my brother, and admit us into Your mercy, for You are the Most Merciful of those who show mercy.
 
 ## Tafsir Ibn Kathir
 

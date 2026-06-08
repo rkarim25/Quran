@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Faces that Day will be joyful (8)Glad with their endeavor (9)In a lofty Paradise (10)Where they shall neither hear harmful speech nor falsehood (11)Therein will be a running spring (12)Therein will be thrones raised high… لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ (that will neither nourish, nor satisfy hunger...88:7).
+When the preceding verse was revealed in which it was stated that the inmates of Hell will get food like Dari`, some of the pagans of Makkah [ mockingly ] said that their camels eat Dari` and yet they are fat and healthy. Here the word Mabthuthah means placed here and there for whoever would like to sit upon them.
 
 ## Tafsir Ibn Kathir
 

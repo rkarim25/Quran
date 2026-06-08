@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And We shaded you with clouds and sent down on you Al-Manna and the quail, (saying): "Eat of the good lawful things We have provided for you," (but they rebelled). These two incidents took place in the wilderness of Tih.
+When manna is mixed with water, it becomes a sweet drink.
 
 ## Tafsir Ibn Kathir
 

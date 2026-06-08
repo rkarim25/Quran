@@ -75,7 +75,7 @@ At this stage, Imam al-Baghawi says in his Tafsir that Zabur is a book of Allah 
 
 ## Tafsir Summary
 
-Lord knows you best; if He wills, He will have mercy on you, or if He wills, He will punish you. That Zabur (the Psalms) has been mentioned particularly in the last sentence of verse 55: وَآتَيْنَا دَاوُودَ زَبُورً‌ا ، (And We gave Dawud the Zabur) has been done, perhaps, because Zabur reports that the Holy Prophet ﷺ will be a ruler along with being a messenger and prophet.
+And We have not sent you as a guardian over them (54)And your Lord knows best all who are in the heavens and the earth. Lord knows you best; if He wills, He will have mercy on you, or if He wills, He will punish you.
 
 ## Tafsir Ibn Kathir
 

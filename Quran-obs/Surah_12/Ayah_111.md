@@ -103,7 +103,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Indeed in their stories, there is a lesson for men of understanding. Surely, in the narratives of these, there is lesson for the people of understanding - 111.
+Indeed in their stories, there is a lesson for men of understanding.
 
 ## Tafsir Ibn Kathir
 

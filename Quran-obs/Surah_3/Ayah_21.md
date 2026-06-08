@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, those who disbelieve in the Ayat of Allah and kill the Prophets without right, and kill those men who order just dealings, then announce to them a painful torment (21)They are those whose works will be lost in th… In the earlier part of the Surah, the text mostly beamed at the Christians.
+Verily, those who disbelieve in the Ayat of Allah and kill the Prophets without right, and kill those men who order just dealings, then announce to them a painful torment (21)They are those whose works will be lost in this world and in the Hereafter, and they will have no helpers . Because of this whole set of their terrible deeds, verse 22 says that all their good deeds have gone waste both here and there, and when they are punished, they will find no one to assist them.
 
 ## Tafsir Ibn Kathir
 

@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"And what made you hasten from your people, O Musa (83)He said: "They are close on my footsteps, and I hastened to You, O my Lord, that You might be pleased. أَفَلَا يَرَ‌وْنَ أَلَّا يَرْ‌جِعُ إِلَيْهِمْ قَوْلًا وَلَا يَمْلِكُ لَهُمْ ضَرًّ‌ا وَلَا نَفْعًا (Do they not then see that it does not respond to them with a word, nor does it have power to harm or benefit them?
+The word for sorrow used here is Asif, which is used to emphasize to the severity of his anger. They were well aware that it could not answer their prayers nor had it the power to harm them or to benefit them.
 
 ## Tafsir Ibn Kathir
 

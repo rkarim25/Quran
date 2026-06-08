@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Recitation of Surah Ash-Shams wa Duhaha in the 'Isha' Prayer The Hadith of Jabir which was recorded in the Two Sahihs has already been mentioned. وَالنَّهَارِ‌ إِذَا جَلَّاهَا (and by the day when it shows its brightness...91:3).
+In other words, 'by the day when it is fully bright'.
 
 ## Tafsir Ibn Kathir
 

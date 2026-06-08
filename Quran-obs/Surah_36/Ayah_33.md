@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And a sign for them is the dead land. Most of the subjects taken up in Surah Ya Sin related to signs of Divine power and the rewards and favors bestowed on human beings.
+And a sign for them is the dead land.
 
 ## Tafsir Ibn Kathir
 

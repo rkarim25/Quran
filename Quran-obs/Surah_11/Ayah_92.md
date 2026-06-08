@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "O Shu'ayb! After having given this good counsel to them, he warned them of the punishment of Allah Ta` ala.
+Verily, my Lord is surrounding all that you do.
 
 ## Tafsir Ibn Kathir
 

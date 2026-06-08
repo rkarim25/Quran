@@ -116,7 +116,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, We have sent down to you the Book for mankind in truth. The time to sleep and the time to die: How is the soul exacted and what is the difference between the two In verse 42, it was said: اللَّـهُ يَتَوَفَّى الْأَنفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ فِي مَنَامِهَا (Allah fully takes away the souls [ of the people ] at the time of their death, and [ of ] those who do not die, in their sleep.).
+And you are not a trustee over them (41)It is Allah Who takes away the souls at the time of their death, and those that die not during their sleep. He keeps those (souls) for which He has ordained death and sends the rest for a term appointed.
 
 ## Tafsir Ibn Kathir
 

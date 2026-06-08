@@ -127,7 +127,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But he who says to his parents: "Uff to you! أَذْهَبْتُمْ طَيِّبَاتِكُمْ فِي حَيَاتِكُمُ الدُّنْيَا ("You have consumed your good things in your worldly life - 46:20), It means that the infidels will be told that they had already been awarded delights, luxuries and enjoyment in the worldly life for whatever good deeds they had done there; now there is nothing left for them in the Hereafter.
+Incentive for avoiding worldly delights and luxuries The punishment stated in this verse for the disbelievers is because of their being engrossed in worldly enjoyments.
 
 ## Tafsir Ibn Kathir
 

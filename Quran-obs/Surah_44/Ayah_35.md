@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, these people are saying (34)"There is nothing but our first death, and we shall not be resurrected. وَآتَيْنَاهُم مِّنَ الْآيَاتِ مَا فِيهِ بَلَاءٌ مُّبِينٌ And We gave them the clear signs in which there was a manifest blessing.
+Refutation of Those Who deny the Resurrection Here Allah denounces the idolators for their denial of the Resurrection and their belief that there is nothing after this life and no life or resurrection after death, which they based on the fact that their forefathers had died and had not returned.
 
 ## Tafsir Ibn Kathir
 

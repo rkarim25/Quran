@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-So if you turn away, still I have conveyed the Message with which I was sent to you. After that, the next eight verses (61-68) carry the story of Sayyidna Salih peace be upon him.
+Surely, my Lord is Guardian over all things (57)And when Our commandment came, We saved Hud and those who believed with him by a mercy from Us, and We saved them from a severe torment (58)Such were [the people of] 'Ad.
 
 ## Tafsir Ibn Kathir
 

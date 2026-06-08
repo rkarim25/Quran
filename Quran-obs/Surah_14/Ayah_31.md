@@ -94,7 +94,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say to My servants who have believed, that they should perform the Salah, and spend (in charity) out of the sustenance We have given them, secretly and openly, before the coming of a Day on which there will be neither mu… Said in the last sentence of verse 31 was: مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا خِلَالٌ (be-fore there comes a day in which there is neither trade nor friendship).
+Rather, on that Day, there will be fairness and justice." Qatadah said, "Allah knows that in this life, there is mutual bargaining and there are friendships which people benefit from.
 
 ## Tafsir Ibn Kathir
 

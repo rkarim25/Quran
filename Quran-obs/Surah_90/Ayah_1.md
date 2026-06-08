@@ -26,7 +26,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. لَا أُقْسِمُ بِهَـٰذَا الْبَلَدِ (I swear by this city...90:1).
+The adjective attached to the 'City' is 'peaceful'.
 
 ## Tafsir Ibn Kathir
 

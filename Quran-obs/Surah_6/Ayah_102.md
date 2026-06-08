@@ -73,7 +73,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Such is Allah, your Lord! The contents of this verse present a unique concern for thematic order.
+So worship Him (alone), and He is the Guardian over all things (102)No vision can grasp Him, but His grasp is over all vision.
 
 ## Tafsir Ibn Kathir
 

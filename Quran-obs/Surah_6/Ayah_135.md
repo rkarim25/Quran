@@ -81,7 +81,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And your Lord is Al-Ghani, full of mercy; if He wills, He can destroy you; and in your place make whom He wills as your successors, as He raised you from the seed of other people (133)Surely, that which you are promised, will verily come to pass, and you cannot escape (134)Say: "O my people! Commenting on this verse, Tafsir authority, Ibn Kathir pointed out that the exact words of the text here are: مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ‌ (for whom is the ultimate abode) and not: عَاقِبَةُ الدَّارِاَلآخِرَۃِ‌ (the ultimate abode of Akhirah), that is, the suffix of 'Akhirah or Hereafter is not there.
+Certainly the wrongdoers will not be successful)[6:135], You will come to know if the happy end will be mine (Muhammad's) or yours (the disbelievers).
 
 ## Tafsir Ibn Kathir
 

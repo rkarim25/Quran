@@ -56,7 +56,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And when you recite the Qur'an, We put between you and those who believe not in the Hereafter, an invisible veil (45)And We have put Akinnah over their hearts, lest they should understand it, and in their ears deafness. The meaning of Tasbih (glorification of Allah) said by the heavens and the earth and everything present therein Among these, the Tasbih of Allah said by all angels and believing jinn and human beings is self-evident.
+And when you recite the Qur'an, We put between you and those who believe not in the Hereafter, an invisible veil (45)And We have put Akinnah over their hearts, lest they should understand it, and in their ears deafness.
 
 ## Tafsir Ibn Kathir
 

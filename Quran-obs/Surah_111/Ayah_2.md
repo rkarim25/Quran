@@ -36,7 +36,7 @@ It is recorded in the two Sahihs that when the verse وَأَنذِرْ‌ عَ�
 
 ## Tafsir Summary
 
-In the Name of Allah, the Most Gracious, the Most Merciful. Name and Nickname of Abu Lahab Abu Lahab [ Father of Flame ] was the Nickname of ` Abd-ul-` Uzza, one of the sons of ` Abdul-Muttalib.
+His wealth and his children will not benefit him!)(3.
 
 ## Tafsir Ibn Kathir
 

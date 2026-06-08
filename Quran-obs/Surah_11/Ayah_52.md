@@ -78,7 +78,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And to the 'Ad (people We sent) their brother Hud. After that, the next eight verses (61-68) carry the story of Sayyidna Salih peace be upon him.
+Then he commanded them to seek the forgiveness of the One Who is capable of expiating previous sins.
 
 ## Tafsir Ibn Kathir
 

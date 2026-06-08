@@ -30,7 +30,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And (remember) when your Lord called Musa (saying): "Go to the people who are wrongdoers. Request for favourable conditions for obedience is not tantamount to making excuses He (Musa) said, "My Lord, I fear they will belie me.
+It leads to the principle that so far as the objective is to obey Allah's command, praying for some helping resources cannot be regarded as seeking ruses and excuses to escape from the required act.
 
 ## Tafsir Ibn Kathir
 

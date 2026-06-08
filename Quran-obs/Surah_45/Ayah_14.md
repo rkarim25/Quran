@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Allah, it is He Who has subjected to you the sea, that ships may sail through it by His command, and that you may seek of His bounty, and that you may be thankful (12)And has subjected to you all that is in the heavens and all that is on the earth; it is all (as a favor and kindness) from Him. قُل لِّلَّذِينَ آمَنُوا يَغْفِرُ‌وا لِلَّذِينَ لَا يَرْ‌جُونَ أَيَّامَ اللَّـهِ ("Tell those who believe that they should forgive those who do not believe in Allah's days ...14) ".
+The word ayyam (days) in the Arabic language is abundantly used in the sense of ` turn of events'.
 
 ## Tafsir Ibn Kathir
 

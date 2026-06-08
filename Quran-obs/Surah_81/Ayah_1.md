@@ -18,7 +18,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-What has been narrated about This Surah Imam Ahmad recorded from Ibn 'Umar that the Messenger of Allah ﷺ said, إِذَا الشَّمْسُ كُوِّرَ‌تْ (When the sun will be folded up...81:1) The word kawwara is derived from Takwir which denotes for the sun 'to lose its light'.1 Sayyidna Hasan Basri (رح) has attached this interpretation to it.
+this is done to it, its light will go away.
 
 ## Tafsir Ibn Kathir
 

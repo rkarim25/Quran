@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We sent Nuh to his people (and he said): "I have come to you as a plain warner. When Sayyidna Nuh علیہ السلام invited his people to believe, they responded with some doubts and objections against the veracity of his mission as a prophet and messenger of Allah.
+Rather, it is mandatory that it should be followed and this is the condition of every pious, intelligent person.
 
 ## Tafsir Ibn Kathir
 

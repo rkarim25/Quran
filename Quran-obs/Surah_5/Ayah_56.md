@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! In other words, it is said here that those who obey the commands of Allah are the People of Allah.
+And those who are with him are severe against disbelievers, and merciful among themselves.)[48:29] The Prophet ﷺ is described as the smiling fighter, smiling to his allies and fighting his enemies.
 
 ## Tafsir Ibn Kathir
 

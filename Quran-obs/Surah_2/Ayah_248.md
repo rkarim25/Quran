@@ -132,7 +132,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And their Prophet said to them: "Verily! 1.
+The sign of His kingdom is that there shall come to you At-Tabut, wherein is Sakinah (peace and reassurance) from your Lord and a remnant of that which Musa (Moses) and Harun (Aaron) left behind, carried by the angels.
 
 ## Tafsir Ibn Kathir
 

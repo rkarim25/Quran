@@ -35,7 +35,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We sent Musa with Our Ayat, and a manifest authority (23)To Fir'awn, Haman and Qarun, but they called (him): "A sorcerer, a liar! Frequent references were made earlier in the text to the warnings given to deniers of pure monotheism and prophethood which brought more opposition and hostility from disbelievers.
+- A1-Qasas, 28:20) The name of this believing member of the House of the Pharaoh has been given as Habib in some sources. The second command was for the second reason, to humiliate the people so that they would regard Musa as a bad omen.
 
 ## Tafsir Ibn Kathir
 

@@ -44,7 +44,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed We have created man, and We know what his self whispers to him. وَجَاءَتْ سَكْرَ‌ةُ الْمَوْتِ بِالْحَقِّ ۖ ذَٰلِكَ مَا كُنتَ مِنْهُ تَحِيدُ (And the daze of death has [ to ] come with truth.
+Life is dear to him and death is a calamity for him.
 
 ## Tafsir Ibn Kathir
 

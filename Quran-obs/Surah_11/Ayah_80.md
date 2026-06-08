@@ -51,7 +51,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-He said: "Would that I had strength to overpower you, or that I could betake myself to some powerful support. Totally exasperated, what Sayyidna Lut (علیہ السلام) could say at that time was: لَوْ أَنَّ لِي بِكُمْ قُوَّةً أَوْ آوِي إِلَىٰ رُ‌كْنٍ شَدِيدٍ that is, ` only if I had enough strength in me to stand against this onslaught by my people, or that I had the backing of some strong group who would have helped me get rid of these oppressors.' Seeing this anxiety of Sayyidna Lut (علیہ السلام) the angels disclosed their identity and said, ` do not worry.
+They also told him that his people would not be able to reach him (with any harm).
 
 ## Tafsir Ibn Kathir
 

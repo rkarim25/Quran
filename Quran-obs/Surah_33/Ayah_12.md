@@ -60,7 +60,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-There, the believers were tried and shaken with a mighty shaking (11)And when the hypocrites and those in whose hearts is a disease said: "Allah and His Messenger promised us nothing but delusion! Hypocrites throw taunts at Muslims for believing in their Prophet's promises At that time, the hypocrites who were part of the digging operations of the trench, started asking other Muslims, 'It is strange that you people are not surprised at what Muhammad is telling you.
+If not, tell us: Is it your personal opinion or you have devised this as a measure to save us from all this hardship and suffering?" The Holy Prophet ﷺ said, "Neither is there a Divine order for it, nor do I have any personal inclination to do so.
 
 ## Tafsir Ibn Kathir
 

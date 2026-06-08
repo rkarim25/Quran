@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-O you who believe! For added emphasis on the same subject, it was said in the second verse (21): وَلَا تَكُونُوا كَالَّذِينَ قَالُوا سَمِعْنَا وَهُمْ لَا يَسْمَعُونَ ﴿21﴾ (and do not be like those who say, "we have heard" while they do not listen).
+Obey Allah and His Messenger, and turn not away from him while you are hearing (20)And be not like those who say: "We have heard," but they hear not (21)Verily, the worst of living creatures with Allah are the deaf and the dumb (the disbelievers), who understand not (22)Had Allah known of any good in them, He would indeed have made them listen; and even if He had made them listen, they would but have turned away with aversion .
 
 ## Tafsir Ibn Kathir
 

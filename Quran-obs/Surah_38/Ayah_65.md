@@ -56,7 +56,7 @@ Say: "I am only a warner and there is no God (worthy of worship) except Allah th
 
 ## Tafsir Summary
 
-Say: "I am only a warner and there is no God (worthy of worship) except Allah the One, the Irresistible, (65)"The Lord of the heavens and the earth and all that is between them, the Almighty, the Oft-Forgiving. A Gist of the Subjects of the Surah In verse 65, it was said: قُلْ إِنَّمَا أَنَا مُنذِرٌ‌ (Say, “ I am only a warner) At the beginning of the Surah, you have seen that the real objective of this Surah was the affirmation of the prophethood of the noble Prophet ﷺ refutation of what the disbelievers said.
+Say: "I am only a warner and there is no God (worthy of worship) except Allah the One, the Irresistible, (65)"The Lord of the heavens and the earth and all that is between them, the Almighty, the Oft-Forgiving.
 
 ## Tafsir Ibn Kathir
 

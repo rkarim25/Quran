@@ -36,7 +36,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-They said: "Burn him and help your gods, if you will be doing. The words of Sayyidna Ibrahim (علیہ السلام) were not untrue, but only allusions قَالَ بَلْ فَعَلَهُ كَبِيرُ‌هُمْ هَـٰذَا فَاسْأَلُوهُمْ إِن كَانُوا يَنطِقُونَ (He said, "Rather, this is done by this chief of theirs.
+But it increased them in faith, and they said: "Allah is sufficient for us, and He is the best disposer of affairs.")(3:173).
 
 ## Tafsir Ibn Kathir
 

@@ -61,7 +61,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Or have they taken (for worship) gods from the earth who raise the dead (21)Had there been therein (in the heavens and the earth) gods besides Allah, then verily, both would have been ruined. Only a Being which has these powers is worthy of being worship لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللَّـهُ لَفَسَدَتَا (Had there been gods in them [ the heavens and the earth ] other than Allah, both would have fallen in disorder.
+Glorified be Allah, the Lord of the Throne, (High is He) above all that (evil) they associate with Him (22)He cannot be questioned as to what He does, while they will be questioned .
 
 ## Tafsir Ibn Kathir
 

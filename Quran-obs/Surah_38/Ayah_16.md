@@ -39,7 +39,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Before them denied – the people of Nuh; and 'Ad; and Fir'awn the man of stakes (12)And Thamud, and the people of Lut, and the Dwellers of Al-Aykah; such were the Confederates (13)Not one of them but denied the Messengers; therefore My torment was justified (14)And these only wait for a single Sayhah there will be no pause or ending thereto (15)They say: "Our Lord! عَجِّل لَّنَا قِطَّنَا (0 our Lord, give us our share [ of the punishment ] sooner, - 38:16 ).
+Here, this very sense is meant, that is, 'let us have whatever share is coming to us from the reward and punishment of the Hereafter right here in this world.'
 
 ## Tafsir Ibn Kathir
 

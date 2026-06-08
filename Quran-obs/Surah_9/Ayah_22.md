@@ -45,7 +45,7 @@ There is a Hadith [from the Prophet ﷺ] about the Tafsir of this Ayah that we s
 
 ## Tafsir Summary
 
-Do you consider the providing of drinking water to the pilgrims and the maintenance of Al-Masjid Al-Haram as equal to the worth of those who believe in Allah and the Last Day, and strive hard and fight in the cause of Allah They are not equal before Allah. Verses 21 and 22 tell us about the great reward and ranks these successful people shall have in the life to come: Their Lord gives them the happy news of Mercy from Him, and Pleasure, and of Gardens having an everlasting bliss for them, where they shall dwell forever.
+Surely, 'it is Allah with whom there is a great reward.
 
 ## Tafsir Ibn Kathir
 

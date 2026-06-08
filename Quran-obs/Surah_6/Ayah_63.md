@@ -82,7 +82,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Say: "Who rescues you from the dark recesses of the land and the sea, when you call upon Him begging and in secret (saying): 'If He (Allah) only saves us from these (dangers), we shall truly be grateful. Some Manifestations of Divine Knowledge and Absolute Power In previous verses, there was a description of the perfection of Divine Knowledge and Power, and of their unique expanse.
+In other words, once delivered, they would be grateful to Allah, would take Him as their real rescuer and helper, never ascribing any partner to His Divinity because no one they have been worshiping came up to help them in their hour of need.
 
 ## Tafsir Ibn Kathir
 

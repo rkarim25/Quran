@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Only those believe in Our Ayat, who, when they are reminded of them, fall down prostrate, and glorify the praises of their Lord, and they are not proud (15)Their sides forsake their beds, to invoke their Lord in fear and… In verse 11, it was said: قُلْ يَتَوَفَّاكُم مَّلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ (Say, "The angel of death who has been assigned for you will take you in full" -11).
+Only those believe in Our Ayat, who, when they are reminded of them, fall down prostrate, and glorify the praises of their Lord, and they are not proud (15)Their sides forsake their beds, to invoke their Lord in fear and hope, and they spend out of what We have bestowed on them (16)No person knows what is kept hidden for them of delights of eyes as a reward for what they used to do .
 
 ## Tafsir Ibn Kathir
 

@@ -86,7 +86,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-(Allah) said: "Go, and whosoever of them follows you, surely, Hell will be the recompense of you (all) an ample recompense (63)"And fool them gradually, those whom you can among them with your voice, Ajlib upon them with your cavalry and your infantry, share with them wealth and children, and make promises to them." But Shaytan promises them nothing but deceit (64)"Verily, My servants, you have no authority over them. (2) Secondly, he had said if he was given respite till the day of Qiyamah, he will mislead the entire progeny of 'Adam, except a few of them.
+From this root is also derived the word Jalabah, which means raising voices. He said that the Shaitan will have no control over His sincere servants even if he were to rally his entire forces against them and as for the insincere who fall into his trap, they will meet the same fate as his, all consigned to Hell.
 
 ## Tafsir Ibn Kathir
 

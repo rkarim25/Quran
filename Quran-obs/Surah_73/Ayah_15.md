@@ -52,7 +52,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And be patient with what they say, and keep away from them in a good way (10)And leave Me alone to deal with the deniers, those who are in possession of good things of life. يَوْمَ تَرْجُفُ الْاَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيْبًا مَّهِيْلًا (on the Day when the earth and the mountains will quake, and the mountains will turn into a slipping heap of sand.
+[ 14] We have sent to you a messenger, as a witness over you, just as We sent a messenger to Fir'aun (the Pharaoh). And give them respite for a little (11)Verily, with Us are Ankal, and Jahim (12)And a food that chokes, and a painful torment (13)On the Day when the earth and the mountains will (Tarjufu) shake, and the mountains will be a heap of sand poured out (14)Verily, We have sent to you a Messenger to be a witness over you, as We did send a Messenger to Fir'awn (15)But…
 
 ## Tafsir Ibn Kathir
 

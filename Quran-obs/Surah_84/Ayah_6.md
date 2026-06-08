@@ -40,7 +40,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-The Prostration of Recitation in Surat Al-Inshiqaq It is reported from Abu Salamah that while leading them in prayer, Abu Hurayrah recited, يَا أَيُّهَا الْإِنسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَاقِيهِ (0 man, you have to work hard constantly to reach your Lord, then you have to meet Him...84:6) The word kadh means to 'exert one's efforts fully', and 'to your Lord' means 'to meet your Lord'.
+Return to Allah Mankind is addressed in this verse and shown a road that if he were to think about it carefully, and use his sense and intelligence, he could exert his efforts in the right direction that will ensure for him welfare, well-being and safety in this world, as well as in the Hereafter.
 
 ## Tafsir Ibn Kathir
 

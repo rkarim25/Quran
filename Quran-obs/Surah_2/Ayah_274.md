@@ -82,7 +82,7 @@ Abu 'Abdur-Rahman An-Nasa'i recorded that Ibn 'Abbas said that they, "Disliked g
 
 ## Tafsir Summary
 
-Not upon you (Muhammad ﷺ) is their guidance, but Allah guides whom He wills. wealth night and day." Presented in this verse is the great reward and excellence of those who are used to spending in the way of Allah.
+The excellence of spending secretly is limited to a situation where there be no pressing need to spend out openly; and where such a need does exist, spending there openly is certainly better.
 
 ## Tafsir Ibn Kathir
 

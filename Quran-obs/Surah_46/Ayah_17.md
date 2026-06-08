@@ -131,7 +131,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-But he who says to his parents: "Uff to you! وَالَّذِي قَالَ لِوَالِدَيْهِ أُفٍّ لَّكُمَا (And, [ contrary to this is the case on the one who said to his parents, 'Fie upon you both!' - 46:17).
+The previous verse has laid down the order to serve and obey the parents; this verse announces punishment for one who maltreats his parents and is impertinent to them, especially when they are calling him towards Islam and virtuous deeds, because rejecting their call is a double sin.
 
 ## Tafsir Ibn Kathir
 

@@ -48,7 +48,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-Verily, Allah is the All-Knower of the Unseen of the heavens and the earth. When the people in Jahannam will plead with their Lord that they be delivered from its punishment, so that they could do good deeds then, and not do the bad ones they did earlier, at that time they will be told: أَوَلَمْ…
+Verily, He is the All-Knower of that is in the breasts (38)He it is Who has made you successors generations after generations in the earth, so whosoever disbelieves, on him will be his disbelief.
 
 ## Tafsir Ibn Kathir
 

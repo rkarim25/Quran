@@ -57,7 +57,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-"Go with this shirt of mine, and cast it over the face of my father, his vision will return, and bring to me all your family. Verse 94 opens with the words: وَلَمَّا فَصَلَتِ الْعِيرُ‌ ` And when the caravan set out' (and had reached barely outside the limits of the city), then, Sayyidna Yaqub said (to those around him): ` I sense the scent of…
+And when the Divine will is not there, the nearest of the near recedes into the farthest.
 
 ## Tafsir Ibn Kathir
 

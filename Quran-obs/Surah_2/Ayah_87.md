@@ -125,7 +125,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-And indeed, We gave Musa the Book and followed him up with a succession of Messengers. The Qur'an again reminds the Israelites how Allah in His mercy forgave them their transgressions again and again, and provided them with all the means of guidance.
+And indeed, We gave Musa the Book and followed him up with a succession of Messengers. And We gave 'Isa, the son of Maryam, clear signs and supported him with Ruh-il-Qudus.
 
 ## Tafsir Ibn Kathir
 

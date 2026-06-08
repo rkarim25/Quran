@@ -69,7 +69,7 @@ word_by_word:
 
 ## Tafsir Summary
 
-I have been commanded only to worship the Lord of this city, Who has sanctified it and to Whom belongs everything. رَ‌بَّ هَـٰذِهِ الْبَلْدَةِ (the Lord of this city - 27:91).
+For instance, whoever takes refuge in Haram is secured.
 
 ## Tafsir Ibn Kathir
 
