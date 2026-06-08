@@ -11,7 +11,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Amiri:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="preload" href="https://verses.quran.foundation/fonts/quran/hafs/uthmanic_hafs/UthmanicHafs1Ver18.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="reader.css?v=16">
+  <link rel="stylesheet" href="reader.css?v=17">
 </head>
 <body>
   <div class="ambient-pattern" aria-hidden="true"></div>
@@ -20,8 +20,21 @@
   <header class="site-header">
     <div class="header-inner">
       <a href="#/" class="logo" aria-label="Home">
-        <span class="logo-ar" dir="rtl" lang="ar">القُرْآن</span>
-        <span class="logo-en">Al-Qur'an</span>
+        <span class="logo-icon" aria-hidden="true">
+          <svg class="logo-svg" viewBox="0 0 36 36" width="34" height="34" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M6 8c0-1.1.9-2 2-2h9v24H8c-1.1 0-2-.9-2-2V8z" fill="var(--green-light)" stroke="var(--green)" stroke-width="1.2" stroke-linejoin="round"/>
+            <path d="M30 8c0-1.1-.9-2-2-2H19v24h9c1.1 0 2-.9 2-2V8z" fill="var(--green-light)" stroke="var(--green)" stroke-width="1.2" stroke-linejoin="round"/>
+            <path d="M18 6v24" stroke="var(--gold-muted)" stroke-width="1.4" stroke-linecap="round"/>
+            <path d="M9 12h6M9 16h5M9 20h6" stroke="var(--green)" stroke-width="0.9" stroke-linecap="round" opacity="0.35"/>
+            <path d="M21 12h6M22 16h5M21 20h6" stroke="var(--green)" stroke-width="0.9" stroke-linecap="round" opacity="0.35"/>
+            <circle cx="18" cy="18" r="3.2" fill="var(--gold-soft)" opacity="0.55"/>
+            <path d="M18 15.8l.55 1.65h1.75l-1.42 1.03.54 1.65L18 19.1l-1.42 1.03.54-1.65-1.42-1.03h1.75L18 15.8z" fill="var(--green)" opacity="0.7"/>
+          </svg>
+        </span>
+        <span class="logo-text">
+          <span class="logo-ar" dir="rtl" lang="ar">القُرْآن</span>
+          <span class="logo-en">Al-Qur'an</span>
+        </span>
       </a>
       <nav id="breadcrumb" class="breadcrumb" aria-label="Location"></nav>
       <div class="header-actions">

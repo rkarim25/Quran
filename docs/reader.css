@@ -117,34 +117,61 @@ body {
 .logo {
   text-decoration: none;
   display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.6rem;
+  flex-shrink: 0;
+  color: inherit;
+  padding: 0.1rem 0;
+}
+
+.logo-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 34px;
+  height: 34px;
+  border-radius: 10px;
+  background: linear-gradient(145deg, var(--green-light), rgba(255, 252, 247, 0.9));
+  border: 1px solid rgba(31, 107, 82, 0.14);
+  box-shadow: 0 2px 8px rgba(31, 107, 82, 0.08);
+}
+
+.logo-svg {
+  display: block;
+}
+
+.logo-text {
+  display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
-  gap: 0.05rem;
-  flex-shrink: 0;
-  color: inherit;
-  line-height: 1;
-  padding: 0.15rem 0;
+  gap: 0.28rem;
+  min-height: 2.4rem;
 }
 
 .logo-ar {
   font-family: var(--font-logo-ar);
-  font-size: 1.5rem;
+  font-size: 1.42rem;
   font-weight: 400;
   color: var(--green);
   letter-spacing: 0;
-  line-height: 1.15;
+  line-height: 1;
+  display: block;
+  padding-bottom: 0.22rem;
 }
 
 .logo-en {
   font-family: var(--font-ui);
-  font-size: 0.62rem;
+  font-size: 0.6rem;
   font-weight: 600;
   color: var(--muted);
   letter-spacing: 0.14em;
   text-transform: uppercase;
   line-height: 1;
-  margin-top: 0.15rem;
+  display: block;
+  margin-top: 0;
 }
 
 .header-actions {
@@ -1528,8 +1555,11 @@ body {
     gap: 0.4rem 0.55rem;
   }
 
-  .logo-ar { font-size: 1.28rem; }
-  .logo-en { font-size: 0.58rem; letter-spacing: 0.1em; }
+  .logo-icon { width: 30px; height: 30px; border-radius: 8px; }
+  .logo-svg { width: 28px; height: 28px; }
+  .logo-text { gap: 0.22rem; min-height: 2.1rem; }
+  .logo-ar { font-size: 1.22rem; padding-bottom: 0.18rem; }
+  .logo-en { font-size: 0.55rem; letter-spacing: 0.1em; }
 
   .breadcrumb {
     font-size: 0.76rem;
