@@ -15,8 +15,6 @@ let selectedAyah = null;
 let currentSurah = null;
 let expandedAyah = null;
 
-const prefs = loadPrefs();
-
 const DEFAULT_PREFS = {
   readMode: "translation",
   showTransliteration: false,
@@ -40,6 +38,8 @@ function loadPrefs() {
     return { ...DEFAULT_PREFS };
   }
 }
+
+const prefs = loadPrefs();
 
 function savePrefs() {
   localStorage.setItem(LS.prefs, JSON.stringify(prefs));
@@ -208,7 +208,7 @@ function route() {
   return { view: "surah", surah: +parts[0], ayah: +parts[1], study };
 }
 
-const DATA_VERSION = "17";
+const DATA_VERSION = "19";
 
 async function loadIndex() {
   if (!cache.index) cache.index = await (await fetch(`data/index.json?v=${DATA_VERSION}`)).json();
@@ -1388,7 +1388,16 @@ async function render() {
   }
 }
 
-checkSync()
-  .then(() => rebuildMyWorkIndex())
-  .then(render);
+async function boot() {
+  try {
+    await checkSync();
+    render();
+    rebuildMyWorkIndex().catch((err) => console.warn("My-work index rebuild failed", err));
+  } catch (err) {
+    document.getElementById("app").innerHTML = `<p class="loading">Failed to load.</p>`;
+    console.error(err);
+  }
+}
+
+boot();
 window.addEventListener("hashchange", render);
