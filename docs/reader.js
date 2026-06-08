@@ -78,12 +78,21 @@ function toggleBookmark(surah, ayah, surahName, snippet) {
   return i < 0;
 }
 
+function isLocalDev() {
+  return location.hostname === "localhost" || location.hostname === "127.0.0.1";
+}
+
 async function checkSync() {
+  const badge = document.getElementById("sync-badge");
+  if (!isLocalDev()) {
+    canSync = false;
+    if (badge) badge.hidden = true;
+    return;
+  }
   try {
-    const res = await fetch("/api/health");
+    const res = await fetch("/api/health", { signal: AbortSignal.timeout(2000) });
     if (res.ok) {
       canSync = true;
-      const badge = document.getElementById("sync-badge");
       if (badge) {
         badge.hidden = false;
         badge.textContent = "Sync on";
@@ -93,7 +102,6 @@ async function checkSync() {
     }
   } catch (_) {}
   canSync = false;
-  const badge = document.getElementById("sync-badge");
   if (badge) badge.hidden = true;
 }
 
@@ -208,7 +216,7 @@ function route() {
   return { view: "surah", surah: +parts[0], ayah: +parts[1], study };
 }
 
-const DATA_VERSION = "19";
+const DATA_VERSION = "20";
 
 async function loadIndex() {
   if (!cache.index) cache.index = await (await fetch(`data/index.json?v=${DATA_VERSION}`)).json();
@@ -1388,16 +1396,26 @@ async function render() {
   }
 }
 
-async function boot() {
-  try {
-    await checkSync();
-    render();
-    rebuildMyWorkIndex().catch((err) => console.warn("My-work index rebuild failed", err));
-  } catch (err) {
-    document.getElementById("app").innerHTML = `<p class="loading">Failed to load.</p>`;
-    console.error(err);
+function showBootError(err) {
+  console.error(err);
+  const app = document.getElementById("app");
+  if (app) {
+    app.innerHTML = `<p class="loading">Failed to load. <button type="button" class="btn" onclick="location.reload()">Retry</button></p>`;
   }
 }
+
+async function boot() {
+  try {
+    render();
+    checkSync().catch((err) => console.warn("Sync check failed", err));
+    rebuildMyWorkIndex().catch((err) => console.warn("My-work index rebuild failed", err));
+  } catch (err) {
+    showBootError(err);
+  }
+}
+
+window.addEventListener("error", (e) => showBootError(e.error || e.message));
+window.addEventListener("unhandledrejection", (e) => showBootError(e.reason));
 
 boot();
 window.addEventListener("hashchange", render);
