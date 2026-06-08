@@ -192,14 +192,16 @@ function route() {
   return { view: "surah", surah: +parts[0], ayah: +parts[1], study };
 }
 
+const DATA_VERSION = "15";
+
 async function loadIndex() {
-  if (!cache.index) cache.index = await (await fetch("data/index.json")).json();
+  if (!cache.index) cache.index = await (await fetch(`data/index.json?v=${DATA_VERSION}`)).json();
   return cache.index;
 }
 
 async function loadSurah(n) {
   if (!cache.surahs[n]) {
-    const data = await (await fetch(`data/surah_${n}.json`)).json();
+    const data = await (await fetch(`data/surah_${n}.json?v=${DATA_VERSION}`)).json();
     cache.surahs[n] = data;
     cache.pristine[n] = JSON.parse(JSON.stringify(data));
   }
@@ -296,7 +298,6 @@ function ayahBlock(data, ayah, surahId) {
   const bookmarked = isBookmarked(surahId, ayah.ayah);
   const hasReflection = !!(a.personal_reflections && a.personal_reflections.trim());
   const { text: transText, mode: transMode } = displayTranslation(a);
-  const aiMissing = prefs.showAiTranslation && !ayah.ai_translation;
   return `
     <article class="ayah-block" id="ayah-${surahId}-${ayah.ayah}" data-surah="${surahId}" data-ayah="${ayah.ayah}">
       <div class="ayah-meta">
@@ -317,7 +318,7 @@ function ayahBlock(data, ayah, surahId) {
       </div>
       <div class="translation-block ${prefs.showTranslation ? "" : "hidden"} ${transMode === "ai" ? "ai-mode" : ""}">
         ${transMode === "ai" ? `<span class="translation-badge">AI Translation</span>` : ""}
-        <p class="translation-text">${esc(aiMissing ? "AI translation coming soon for this ayah." : transText)}</p>
+        <p class="translation-text">${esc(transText)}</p>
         ${transMode === "standard" ? `<button type="button" class="translation-edit-btn" data-action="edit-translation" title="Edit translation" aria-label="Edit translation">✎</button>` : ""}
       </div>
     </article>`;
@@ -344,7 +345,9 @@ async function saveAyah(data) {
     if (!res.ok) throw new Error("Save failed");
     const updated = await res.json();
     const idx = currentSurah.ayahs.findIndex((a) => a.ayah === data.ayah);
-    if (idx >= 0) currentSurah.ayahs[idx] = updated.ayah;
+    if (idx >= 0) {
+      currentSurah.ayahs[idx] = { ...currentSurah.ayahs[idx], ...updated.ayah };
+    }
     cache.surahs[currentSurah.id] = currentSurah;
     return;
   }
