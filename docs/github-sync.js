@@ -47,6 +47,7 @@ const QuranGitHubSync = (() => {
 
   function setStatus(next) {
     status = next;
+    if (QuranFirebaseSync?.isActive?.()) return;
     const badge = document.getElementById("sync-badge");
     if (!badge) return;
     badge.classList.remove("readonly", "syncing", "offline", "synced", "error", "local-sync");
@@ -354,7 +355,6 @@ const QuranGitHubSync = (() => {
       backdrop?.setAttribute("hidden", "");
     };
 
-    badge?.addEventListener("click", openSettings);
     backdrop?.addEventListener("click", close);
     closeBtn?.addEventListener("click", close);
 
@@ -398,17 +398,26 @@ const QuranGitHubSync = (() => {
     });
   }
 
-  function openSettings() {
+  function populateForm() {
     const c = cfg();
-    const modal = document.getElementById("sync-modal");
-    const backdrop = document.getElementById("sync-modal-backdrop");
-    if (!modal) return;
     document.getElementById("sync-enabled").checked = c.enabled;
     document.getElementById("sync-pat").value = "";
     document.getElementById("sync-pat").placeholder = c.pat ? "••••••••  (saved — leave blank to keep)" : "ghp_… or github_pat_…";
     document.getElementById("sync-repo").value = c.repo;
     document.getElementById("sync-branch").value = c.branch;
     document.getElementById("sync-status-msg").textContent = `Status: ${status}`;
+  }
+
+  function openSettings() {
+    if (QuranFirebaseSync?.openSettings) {
+      QuranFirebaseSync.openSettings();
+      populateForm();
+      return;
+    }
+    const modal = document.getElementById("sync-modal");
+    const backdrop = document.getElementById("sync-modal-backdrop");
+    if (!modal) return;
+    populateForm();
     modal.removeAttribute("hidden");
     backdrop?.removeAttribute("hidden");
   }
@@ -439,6 +448,8 @@ const QuranGitHubSync = (() => {
     pullAndMerge,
     schedulePush,
     openSettings,
+    populateForm,
+    setStatus,
     getStatus: () => status,
     mergeBundles,
     collectLocalData,
