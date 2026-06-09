@@ -1236,46 +1236,48 @@ function renderHome(surahs) {
   const tadabbur = getMyWorkList("tadabbur").slice(0, 3);
   const edits = getMyWorkList("meanings").slice(0, 3);
 
+  const hasPersonal = bookmarks.length || tadabbur.length || edits.length;
+
   document.getElementById("app").innerHTML = `
-    ${recentReads.length ? `
-    <section class="home-section resume-section">
-      <h2 class="section-title">Continue your reading</h2>
-      <div class="resume-list">${recentReads
-        .map((entry, i) => resumeCardHtml(entry, surahs, { showLabel: i === 0 }))
-        .join("")}</div>
-    </section>` : ""}
-    ${bookmarks.length ? `
-    <section class="home-section">
-      <h2 class="section-title">Saved ayahs</h2>
-      <div class="bookmark-list compact">${bookmarks.map((b) => bookmarkRow(b)).join("")}</div>
-      <a href="#/bookmarks" class="see-all">All bookmarks</a>
-    </section>` : ""}
-    ${tadabbur.length ? `
-    <section class="home-section">
-      <h2 class="section-title">My tadabbur</h2>
-      <div class="bookmark-list compact">${tadabbur.map((e) => myWorkRow(e, { study: true })).join("")}</div>
-      <a href="#/tadabbur" class="see-all">All tadabbur</a>
-    </section>` : ""}
-    ${edits.length ? `
-    <section class="home-section">
-      <h2 class="section-title">Edited meanings</h2>
-      <div class="bookmark-list compact">${edits.map((e) => myWorkRow(e)).join("")}</div>
-      <a href="#/edits" class="see-all">All edits</a>
-    </section>` : ""}
-    <div class="hero">
-      <div class="hero-arch" aria-hidden="true"></div>
-      <p class="hero-bismillah" dir="rtl">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</p>
-      <h1 class="hero-title" dir="rtl">القرآن الكريم</h1>
-      ${ornament()}
-      <p class="hero-subtitle">Recite, reflect, and let your heart find rest in His words</p>
-      <p class="hero-hadith">“The best of you are those who learn the Qur'an and teach it.”</p>
-    </div>
-    <div class="search-wrap">
-      <span class="search-icon" aria-hidden="true">⌕</span>
-      <input type="search" id="surah-search" class="search-input" placeholder="2:15 · Al-Baqarah · The Cow · البقرة…" autocomplete="off" spellcheck="false" enterkeyhint="go" />
-      <div id="search-dropdown" class="search-dropdown" hidden role="listbox"></div>
-    </div>
-    <div class="surah-grid" id="surah-grid">${surahs.map((s) => surahCard(s)).join("")}</div>`;
+    <div class="home-page">
+      <header class="home-intro">
+        <p class="home-bismillah" dir="rtl">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</p>
+      </header>
+      ${recentReads.length ? `
+      <section class="home-section resume-section">
+        <h2 class="section-title">Continue your reading</h2>
+        <div class="resume-list">${recentReads
+          .map((entry, i) => resumeCardHtml(entry, surahs, { showLabel: i === 0 }))
+          .join("")}</div>
+      </section>` : ""}
+      <div class="search-wrap home-search">
+        <span class="search-icon" aria-hidden="true">⌕</span>
+        <input type="search" id="surah-search" class="search-input" placeholder="2:15 · Al-Baqarah · The Cow · البقرة…" autocomplete="off" spellcheck="false" enterkeyhint="go" />
+        <div id="search-dropdown" class="search-dropdown" hidden role="listbox"></div>
+      </div>
+      <div class="surah-grid" id="surah-grid">${surahs.map((s) => surahCard(s)).join("")}</div>
+      ${hasPersonal ? `
+      <div class="home-personal">
+        ${bookmarks.length ? `
+        <section class="home-section home-section-compact">
+          <h2 class="section-title">Saved ayahs</h2>
+          <div class="bookmark-list compact">${bookmarks.map((b) => bookmarkRow(b)).join("")}</div>
+          <a href="#/bookmarks" class="see-all">All bookmarks</a>
+        </section>` : ""}
+        ${tadabbur.length ? `
+        <section class="home-section home-section-compact">
+          <h2 class="section-title">My tadabbur</h2>
+          <div class="bookmark-list compact">${tadabbur.map((e) => myWorkRow(e, { study: true })).join("")}</div>
+          <a href="#/tadabbur" class="see-all">All tadabbur</a>
+        </section>` : ""}
+        ${edits.length ? `
+        <section class="home-section home-section-compact">
+          <h2 class="section-title">Edited meanings</h2>
+          <div class="bookmark-list compact">${edits.map((e) => myWorkRow(e)).join("")}</div>
+          <a href="#/edits" class="see-all">All edits</a>
+        </section>` : ""}
+      </div>` : ""}
+    </div>`;
 
   bindSmartSearch(surahs);
 }
