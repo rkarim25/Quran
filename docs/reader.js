@@ -51,7 +51,6 @@ const prefs = loadPrefs();
 function savePrefs() {
   prefs.updatedAt = Date.now();
   localStorage.setItem(LS.prefs, JSON.stringify(prefs));
-  QuranGitHubSync?.schedulePush();
   QuranFirebaseSync?.schedulePush();
 }
 
@@ -88,7 +87,6 @@ function getLastRead() {
 
 function persistRecentReads(list) {
   localStorage.setItem(LS.recentReads, JSON.stringify(list));
-  QuranGitHubSync?.schedulePush();
   QuranFirebaseSync?.schedulePush();
 }
 
@@ -130,7 +128,7 @@ function toggleBookmark(surah, ayah, surahName, snippet) {
   if (i >= 0) list.splice(i, 1);
   else list.unshift({ surah, ayah, surahName, snippet: snippet.slice(0, 80), at: Date.now() });
   localStorage.setItem(LS.bookmarks, JSON.stringify(list));
-  QuranGitHubSync?.schedulePush();
+  QuranFirebaseSync?.schedulePush();
   return i < 0;
 }
 
@@ -148,7 +146,7 @@ async function checkSync() {
     const res = await fetch("/api/health", { signal: AbortSignal.timeout(2000) });
     if (res.ok) {
       canSync = true;
-      if (badge && !QuranGitHubSync?.isEnabled() && !QuranFirebaseSync?.isSignedIn?.()) {
+      if (badge && !QuranFirebaseSync?.isSignedIn?.()) {
         badge.hidden = false;
         badge.textContent = "Local sync";
         badge.title = "Edits save to markdown via serve.py";
@@ -560,7 +558,6 @@ async function saveAyah(data) {
   }
   payload.updatedAt = Date.now();
   localStorage.setItem(LS.ayahEdits(currentSurah.id, data.ayah), JSON.stringify(payload));
-  QuranGitHubSync?.schedulePush();
   QuranFirebaseSync?.schedulePush();
 }
 
@@ -594,8 +591,6 @@ async function persistAyah(ayahData, statusEl) {
     const saveMsg = canSync
       ? "Saved to markdown"
       : QuranFirebaseSync?.isSignedIn?.()
-        ? "Saved · syncing"
-        : QuranGitHubSync?.isEnabled()
         ? "Saved · syncing"
         : "Saved locally";
     showSaveStatus(saveMsg, true, statusEl);
@@ -1370,7 +1365,6 @@ function renderBookmarks() {
       const list = getBookmarks();
       list.splice(+btn.dataset.i, 1);
       localStorage.setItem(LS.bookmarks, JSON.stringify(list));
-      QuranGitHubSync?.schedulePush();
       QuranFirebaseSync?.schedulePush();
       renderBookmarks();
     });
@@ -1515,9 +1509,6 @@ async function boot() {
     await checkSync();
     if (QuranFirebaseSync?.isSignedIn?.()) {
       await QuranFirebaseSync.pullAndMerge();
-      reloadPrefsFromStorage();
-    } else if (QuranGitHubSync?.isEnabled()) {
-      await QuranGitHubSync.pullAndMerge();
       reloadPrefsFromStorage();
     }
 

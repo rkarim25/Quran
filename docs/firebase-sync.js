@@ -4,7 +4,6 @@
  */
 const QuranFirebaseSync = (() => {
   const PUSH_DEBOUNCE_MS = 4000;
-  const SYNC_TAB_LS = "quran-sync-tab";
 
   let lsKeys = null;
   let ayahEditsKey = null;
@@ -98,23 +97,6 @@ const QuranFirebaseSync = (() => {
           : "Firebase not configured — see docs/SYNC_SETUP.md";
       }
     }
-  }
-
-  function setActiveTab(tab) {
-    const googleTab = document.getElementById("sync-tab-google");
-    const githubTab = document.getElementById("sync-tab-github");
-    const googlePanel = document.getElementById("sync-panel-google");
-    const githubPanel = document.getElementById("sync-panel-github");
-    const isGoogle = tab === "google";
-    googleTab?.classList.toggle("active", isGoogle);
-    githubTab?.classList.toggle("active", !isGoogle);
-    githubTab?.setAttribute("aria-selected", String(!isGoogle));
-    googleTab?.setAttribute("aria-selected", String(isGoogle));
-    if (googlePanel) googlePanel.hidden = !isGoogle;
-    if (githubPanel) githubPanel.hidden = isGoogle;
-    try {
-      localStorage.setItem(SYNC_TAB_LS, tab);
-    } catch (_) {}
   }
 
   async function fetchRemote() {
@@ -232,15 +214,11 @@ const QuranFirebaseSync = (() => {
     }
     status = "not-configured";
     updateGooglePanel();
-    if (QuranGitHubSync?.isEnabled?.()) {
-      QuranGitHubSync.setStatus?.("synced");
-    } else {
-      const badge = document.getElementById("sync-badge");
-      if (badge) {
-        badge.classList.remove("syncing", "synced", "offline", "error");
-        badge.classList.add("readonly");
-        badge.textContent = "Sync";
-      }
+    const badge = document.getElementById("sync-badge");
+    if (badge) {
+      badge.classList.remove("syncing", "synced", "offline", "error");
+      badge.classList.add("readonly");
+      badge.textContent = "Sync";
     }
   }
 
@@ -249,10 +227,7 @@ const QuranFirebaseSync = (() => {
     const backdrop = document.getElementById("sync-modal-backdrop");
     if (!modal) return;
 
-    const tab = isSignedIn() ? "google" : localStorage.getItem(SYNC_TAB_LS) || "google";
-    setActiveTab(tab);
     updateGooglePanel();
-    QuranGitHubSync?.populateForm?.();
     modal.removeAttribute("hidden");
     backdrop?.removeAttribute("hidden");
   }
@@ -266,8 +241,6 @@ const QuranFirebaseSync = (() => {
     const backdrop = document.getElementById("sync-modal-backdrop");
     const closeBtn = document.getElementById("sync-modal-close");
     const badge = document.getElementById("sync-badge");
-    const googleTab = document.getElementById("sync-tab-google");
-    const githubTab = document.getElementById("sync-tab-github");
     const signInBtn = document.getElementById("firebase-sign-in-btn");
     const signOutBtn = document.getElementById("firebase-sign-out-btn");
     const pullBtn = document.getElementById("firebase-pull-btn");
@@ -275,8 +248,6 @@ const QuranFirebaseSync = (() => {
     badge?.addEventListener("click", openSettings);
     backdrop?.addEventListener("click", closeModal);
     closeBtn?.addEventListener("click", closeModal);
-    googleTab?.addEventListener("click", () => setActiveTab("google"));
-    githubTab?.addEventListener("click", () => setActiveTab("github"));
     signInBtn?.addEventListener("click", signInWithGoogle);
     signOutBtn?.addEventListener("click", signOut);
     pullBtn?.addEventListener("click", async () => {

@@ -70,7 +70,7 @@
   <footer class="site-footer">
     <p class="footer-verse" dir="rtl">أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ</p>
     <p class="footer-translation">Verily, in the remembrance of Allah do hearts find rest <span class="footer-ref">— 13:28</span></p>
-    <p class="footer-note">Enable <strong>Sync</strong> in the header to share edits across devices · Sign in with Google or use a GitHub token</p>
+    <p class="footer-note">Enable <strong>Sync</strong> in the header and sign in with Google to share edits across devices</p>
   </footer>
 
   <div id="sync-modal-backdrop" class="sync-modal-backdrop" hidden></div>
@@ -82,12 +82,7 @@
       </header>
       <p class="sync-modal-intro">Sync reflections, edits, bookmarks, and reading position across your phone and computer.</p>
 
-      <div class="sync-tabs" role="tablist" aria-label="Sync method">
-        <button type="button" id="sync-tab-google" class="sync-tab active" role="tab" aria-selected="true" aria-controls="sync-panel-google">Sign in with Google</button>
-        <button type="button" id="sync-tab-github" class="sync-tab" role="tab" aria-selected="false" aria-controls="sync-panel-github">Personal (GitHub token)</button>
-      </div>
-
-      <div id="sync-panel-google" class="sync-panel" role="tabpanel" aria-labelledby="sync-tab-google">
+      <div id="sync-panel-google" class="sync-panel">
         <div id="firebase-signed-out">
           <p class="sync-panel-desc">Recommended for family sharing (~10 users). Free on Firebase Spark plan — no credit card required.</p>
           <button type="button" id="firebase-sign-in-btn" class="google-sign-in-btn">
@@ -109,33 +104,6 @@
         </div>
         <p id="firebase-status-msg" class="sync-status-msg" aria-live="polite"></p>
       </div>
-
-      <div id="sync-panel-github" class="sync-panel" role="tabpanel" aria-labelledby="sync-tab-github" hidden>
-        <p class="sync-panel-desc">Advanced: sync via a JSON file in your GitHub repo using a personal access token. Token stays in this browser only.</p>
-        <label class="sync-field sync-toggle">
-          <input type="checkbox" id="sync-enabled">
-          <span>Enable GitHub sync</span>
-        </label>
-        <label class="sync-field">
-          <span class="sync-label">GitHub personal access token</span>
-          <input type="password" id="sync-pat" class="sync-input" autocomplete="off" spellcheck="false">
-          <span class="sync-hint">Create a <strong>fine-grained</strong> token at github.com/settings/tokens with <em>Contents: Read and write</em> on the Quran repo only. Never share or commit this token.</span>
-        </label>
-        <label class="sync-field">
-          <span class="sync-label">Repository</span>
-          <input type="text" id="sync-repo" class="sync-input" value="rkarim25/Quran">
-        </label>
-        <label class="sync-field">
-          <span class="sync-label">Branch</span>
-          <input type="text" id="sync-branch" class="sync-input" value="main">
-        </label>
-        <p id="sync-status-msg" class="sync-status-msg" aria-live="polite"></p>
-        <div class="sync-modal-actions">
-          <button type="button" id="sync-pull-btn" class="btn">Pull now</button>
-          <button type="button" id="sync-disable-btn" class="btn">Disable</button>
-          <button type="button" id="sync-save-btn" class="btn active">Save &amp; sync</button>
-        </div>
-      </div>
     </div>
   </div>
 
@@ -143,8 +111,8 @@
   <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-auth-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore-compat.js"></script>
-  <script src="github-sync.js?v=25"></script>
-  <script src="firebase-sync.js?v=23"></script>
-  <script src="reader.js?v=25"></script>
+  <script src="github-sync.js?v=26"></script>
+  <script src="firebase-sync.js?v=26"></script>
+  <script src="reader.js?v=26"></script>
 </body>
 </html>

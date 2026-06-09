@@ -2,12 +2,7 @@
 
 The Quran reader can sync reflections, ayah edits, bookmarks, and reading position across your phone and computer.
 
-**Two options** (pick one in the Sync modal):
-
-| Method | Best for | Cost |
-|--------|----------|------|
-| **Sign in with Google** (recommended) | Family / small group (~10 users) | **Free** on Firebase Spark plan |
-| **GitHub token** | Solo use, data stored in your repo | Free (uses your GitHub account) |
+Sync uses **Sign in with Google** (Firebase) — free on the Spark plan for a small family group (~10 users).
 
 ---
 
@@ -23,7 +18,7 @@ No credit card required on Spark. You only pay if you upgrade to Blaze and excee
 
 ---
 
-## Option A — Sign in with Google (Firebase)
+## Setup — Sign in with Google (Firebase)
 
 ### 1. Create a Firebase project
 
@@ -103,32 +98,18 @@ Commit and push (the web API key is safe to commit — security is enforced by F
 
 1. Open the reader (e.g. `https://rkarim25.github.io/Quran/`)
 2. Click **Sync** in the header
-3. Stay on the **Sign in with Google** tab
-4. Click **Sign in with Google** and choose your account
-5. On first login, local data merges with cloud (newer edits win per field)
-6. Repeat on your phone — same Google account, same synced data
+3. Click **Sign in with Google** and choose your account
+4. On first login, local data merges with cloud (newer edits win per field)
+5. Repeat on your phone — same Google account, same synced data
 
 **Sign out:** Sync modal → **Sign out** (local data stays on the device).
 
 ---
 
-## Option B — GitHub token (personal)
-
-For solo sync via a JSON file in the repo (`docs/sync/user-data.json`):
-
-1. Create a **fine-grained** PAT at [github.com/settings/tokens](https://github.com/settings/tokens)
-2. Grant **Contents: Read and write** on the Quran repo only
-3. In the reader, click **Sync** → **Personal (GitHub token)** tab
-4. Enable sync, paste token, save
-
-The token is stored in **localStorage on that browser only** — never commit it.
-
----
-
 ## How sync works
 
-- **On boot:** If signed in (Google) or GitHub sync enabled → pull remote, merge with local
-- **On save:** Changes debounce 4 seconds, then push to Firestore or GitHub
+- **On boot:** If signed in with Google → pull remote, merge with local
+- **On save:** Changes debounce 4 seconds, then push to Firestore
 - **Merge:** Bookmarks and ayah edits use latest `updatedAt` / `at` timestamp; prefs and last-read position follow the same rule
 - **Offline:** Edits stay local; sync resumes when back online
 
@@ -152,6 +133,5 @@ The token is stored in **localStorage on that browser only** — never commit it
 |------|---------|
 | `docs/firebase-config.js` | Your Firebase web config (placeholders in git) |
 | `docs/firebase-sync.js` | Google auth + Firestore sync |
-| `docs/github-sync.js` | Optional GitHub PAT sync |
+| `docs/github-sync.js` | Shared user-data merge helpers (used by Firebase sync) |
 | `firestore.rules` | Firestore security rules (deploy to Firebase) |
-| `docs/sync/user-data.json` | GitHub sync data file (not used by Firebase) |
