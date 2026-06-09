@@ -588,7 +588,19 @@ body {
   margin-right: auto;
 }
 
-/* ─── Resume card ─── */
+/* ─── Resume cards ─── */
+.resume-section { margin-bottom: 2rem; }
+
+.resume-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.resume-section .resume-card {
+  margin-bottom: 0;
+}
+
 .resume-card {
   display: flex;
   align-items: center;

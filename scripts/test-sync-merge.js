@@ -36,6 +36,22 @@ function mergeLastRead(local, remote) {
   return (remote.at || 0) >= (local.at || 0) ? remote : local;
 }
 
+function mergeRecentReads(local, remote, legacyLocal, legacyRemote) {
+  const RECENT_MAX = 5;
+  const map = new Map();
+  const all = [...(local || []), ...(remote || [])];
+  if (legacyLocal?.surah != null) all.push(legacyLocal);
+  if (legacyRemote?.surah != null) all.push(legacyRemote);
+  for (const r of all) {
+    if (!r || r.surah == null || r.ayah == null) continue;
+    const existing = map.get(r.surah);
+    if (!existing || (r.at || 0) > (existing.at || 0)) {
+      map.set(r.surah, { surah: r.surah, ayah: r.ayah, at: r.at || 0 });
+    }
+  }
+  return [...map.values()].sort((a, b) => (b.at || 0) - (a.at || 0)).slice(0, RECENT_MAX);
+}
+
 function mergeBundles(local, remote) {
   if (!remote) return local;
   if (!local) return remote;
@@ -44,6 +60,12 @@ function mergeBundles(local, remote) {
     updatedAt: Math.max(local.updatedAt || 0, remote.updatedAt || 0),
     prefs: mergePrefs(local.prefs, remote.prefs),
     lastRead: mergeLastRead(local.lastRead, remote.lastRead),
+    recentReads: mergeRecentReads(
+      local.recentReads,
+      remote.recentReads,
+      local.lastRead,
+      remote.lastRead
+    ),
     bookmarks: mergeBookmarks(local.bookmarks, remote.bookmarks),
     ayahEdits: mergeAyahEdits(local.ayahEdits, remote.ayahEdits),
   };
@@ -65,6 +87,10 @@ const local = {
   updatedAt: 100,
   prefs: { readMode: "translation", updatedAt: 50 },
   lastRead: { surah: 1, ayah: 1, at: 100 },
+  recentReads: [
+    { surah: 1, ayah: 1, at: 100 },
+    { surah: 2, ayah: 50, at: 90 },
+  ],
   bookmarks: [{ surah: 2, ayah: 255, at: 80 }],
   ayahEdits: { "2:255": { reflection: "local", updatedAt: 90 } },
 };
@@ -74,6 +100,11 @@ const remote = {
   updatedAt: 200,
   prefs: { readMode: "arabic", updatedAt: 150 },
   lastRead: { surah: 3, ayah: 1, at: 200 },
+  recentReads: [
+    { surah: 3, ayah: 1, at: 200 },
+    { surah: 2, ayah: 100, at: 150 },
+    { surah: 18, ayah: 1, at: 110 },
+  ],
   bookmarks: [
     { surah: 2, ayah: 255, at: 120 },
     { surah: 18, ayah: 1, at: 110 },
@@ -88,10 +119,20 @@ const merged = mergeBundles(local, remote);
 
 assert(merged.prefs.readMode === "arabic", "newer prefs win");
 assert(merged.lastRead.surah === 3, "newer lastRead wins");
+assert(merged.recentReads.length === 4, "recentReads merged by surah");
+assert(merged.recentReads[0].surah === 3, "most recent surah first");
+assert(
+  merged.recentReads.find((r) => r.surah === 2).ayah === 100,
+  "newer ayah wins for same surah"
+);
+assert(merged.recentReads.length <= 5, "recentReads capped at 5");
 assert(merged.bookmarks.length === 2, "bookmarks deduped");
 assert(merged.bookmarks.find((b) => b.surah === 2 && b.ayah === 255).at === 120, "newer bookmark timestamp kept");
 assert(merged.ayahEdits["2:255"].reflection === "remote", "newer ayah edit wins");
 assert(merged.ayahEdits["1:1"].reflection === "only remote", "remote-only edit kept");
+
+const legacyOnly = mergeRecentReads([], [], { surah: 5, ayah: 10, at: 300 }, null);
+assert(legacyOnly.length === 1 && legacyOnly[0].surah === 5, "legacy lastRead folded into recentReads");
 
 const localWins = mergeBundles(
   { ...local, prefs: { readMode: "ai", updatedAt: 999 } },

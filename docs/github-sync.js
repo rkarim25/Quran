@@ -79,6 +79,11 @@ const QuranGitHubSync = (() => {
       prefs = JSON.parse(localStorage.getItem(lsKeys.prefs) || "{}");
     } catch (_) {}
 
+    let recentReads = [];
+    try {
+      recentReads = JSON.parse(localStorage.getItem(lsKeys.recentReads) || "[]");
+    } catch (_) {}
+
     let lastRead = null;
     try {
       lastRead = JSON.parse(localStorage.getItem(lsKeys.lastRead) || "null");
@@ -108,6 +113,7 @@ const QuranGitHubSync = (() => {
       updatedAt: Date.now(),
       prefs: { ...prefs, updatedAt: prefs.updatedAt || 0 },
       lastRead,
+      recentReads,
       bookmarks,
       ayahEdits,
     };
@@ -121,6 +127,7 @@ const QuranGitHubSync = (() => {
       updatedAt: 0,
       prefs: { updatedAt: 0 },
       lastRead: null,
+      recentReads: [],
       bookmarks: [],
       ayahEdits: {},
     };
@@ -154,6 +161,22 @@ const QuranGitHubSync = (() => {
     return rAt >= lAt ? { ...remote } : { ...local };
   }
 
+  function mergeRecentReads(local, remote, legacyLocal, legacyRemote) {
+    const RECENT_MAX = 5;
+    const map = new Map();
+    const all = [...(local || []), ...(remote || [])];
+    if (legacyLocal?.surah != null) all.push(legacyLocal);
+    if (legacyRemote?.surah != null) all.push(legacyRemote);
+    for (const r of all) {
+      if (!r || r.surah == null || r.ayah == null) continue;
+      const existing = map.get(r.surah);
+      if (!existing || (r.at || 0) > (existing.at || 0)) {
+        map.set(r.surah, { surah: r.surah, ayah: r.ayah, at: r.at || 0 });
+      }
+    }
+    return [...map.values()].sort((a, b) => (b.at || 0) - (a.at || 0)).slice(0, RECENT_MAX);
+  }
+
   function mergeLastRead(local, remote) {
     if (!remote) return local;
     if (!local) return remote;
@@ -168,6 +191,12 @@ const QuranGitHubSync = (() => {
       updatedAt: Math.max(local.updatedAt || 0, remote.updatedAt || 0),
       prefs: mergePrefs(local.prefs, remote.prefs),
       lastRead: mergeLastRead(local.lastRead, remote.lastRead),
+      recentReads: mergeRecentReads(
+        local.recentReads,
+        remote.recentReads,
+        local.lastRead,
+        remote.lastRead
+      ),
       bookmarks: mergeBookmarks(local.bookmarks, remote.bookmarks),
       ayahEdits: mergeAyahEdits(local.ayahEdits, remote.ayahEdits),
     };
@@ -178,8 +207,10 @@ const QuranGitHubSync = (() => {
 
     localStorage.setItem(lsKeys.prefs, JSON.stringify(bundle.prefs || {}));
 
-    if (bundle.lastRead) {
-      localStorage.setItem(lsKeys.lastRead, JSON.stringify(bundle.lastRead));
+    if (bundle.recentReads?.length) {
+      localStorage.setItem(lsKeys.recentReads, JSON.stringify(bundle.recentReads));
+    } else if (bundle.lastRead) {
+      localStorage.setItem(lsKeys.recentReads, JSON.stringify([bundle.lastRead]));
     }
 
     localStorage.setItem(lsKeys.bookmarks, JSON.stringify(bundle.bookmarks || []));

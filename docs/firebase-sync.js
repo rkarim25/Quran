@@ -39,7 +39,7 @@ const QuranFirebaseSync = (() => {
 
   function collectLocalData() {
     if (QuranGitHubSync?.collectLocalData) return QuranGitHubSync.collectLocalData();
-    return { version: 1, updatedAt: 0, prefs: {}, lastRead: null, bookmarks: [], ayahEdits: {} };
+    return { version: 1, updatedAt: 0, prefs: {}, lastRead: null, recentReads: [], bookmarks: [], ayahEdits: {} };
   }
 
   function mergeBundles(local, remote) {

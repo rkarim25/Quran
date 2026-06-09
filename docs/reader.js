@@ -1,15 +1,22 @@
 const cache = { index: null, surahs: {}, pristine: {} };
 const LS = {
   lastRead: "quran-last-read",
+  recentReads: "quran-recent-reads",
   bookmarks: "quran-bookmarks",
   prefs: "quran-prefs",
   myWork: "quran-my-work",
   ayahEdits: (s, a) => `quran-${s}-${a}`,
 };
 
+const RECENT_READS_MAX = 5;
+const RECORD_DEBOUNCE_MS = 4000;
+
 let canSync = false;
 let scrollLock = false;
 let saveTimer = null;
+let recordTimer = null;
+let pendingRecord = null;
+let visibleAyah = null;
 let observer = null;
 let selectedAyah = null;
 let currentSurah = null;
@@ -48,18 +55,61 @@ function savePrefs() {
   QuranFirebaseSync?.schedulePush();
 }
 
-function getLastRead() {
+function migrateLegacyLastRead() {
+  if (localStorage.getItem(LS.recentReads)) return;
   try {
-    return JSON.parse(localStorage.getItem(LS.lastRead) || "null");
+    const legacy = JSON.parse(localStorage.getItem(LS.lastRead) || "null");
+    if (legacy?.surah && legacy?.ayah) {
+      localStorage.setItem(
+        LS.recentReads,
+        JSON.stringify([{ surah: legacy.surah, ayah: legacy.ayah, at: legacy.at || Date.now() }])
+      );
+    }
+  } catch (_) {}
+}
+
+function getRecentReads() {
+  migrateLegacyLastRead();
+  try {
+    return JSON.parse(localStorage.getItem(LS.recentReads) || "[]");
   } catch {
-    return null;
+    return [];
   }
 }
 
-function saveLastRead(surah, ayah) {
-  localStorage.setItem(LS.lastRead, JSON.stringify({ surah, ayah, at: Date.now() }));
+function getLastReadForSurah(surah) {
+  return getRecentReads().find((r) => r.surah === surah) || null;
+}
+
+function getLastRead() {
+  const reads = getRecentReads();
+  return reads.length ? reads[0] : null;
+}
+
+function persistRecentReads(list) {
+  localStorage.setItem(LS.recentReads, JSON.stringify(list));
   QuranGitHubSync?.schedulePush();
   QuranFirebaseSync?.schedulePush();
+}
+
+function recordReading(surah, ayah, at = Date.now()) {
+  let list = getRecentReads().filter((r) => r.surah !== surah);
+  list.unshift({ surah, ayah, at });
+  list = list.slice(0, RECENT_READS_MAX);
+  persistRecentReads(list);
+  pendingRecord = null;
+}
+
+function scheduleRecordReading(surah, ayah) {
+  visibleAyah = ayah;
+  pendingRecord = { surah, ayah };
+  clearTimeout(recordTimer);
+  recordTimer = setTimeout(flushRecordReading, RECORD_DEBOUNCE_MS);
+}
+
+function flushRecordReading() {
+  clearTimeout(recordTimer);
+  if (pendingRecord) recordReading(pendingRecord.surah, pendingRecord.ayah);
 }
 
 function getBookmarks() {
@@ -831,7 +881,7 @@ function setupScrollObserver(surahId) {
       const visible = entries.filter((e) => e.isIntersecting).sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
       if (!visible) return;
       const ayah = +visible.target.dataset.ayah;
-      saveLastRead(surahId, ayah);
+      scheduleRecordReading(surahId, ayah);
       updateProgress(surahId, ayah);
       const newHash = `#/${surahId}/${ayah}`;
       if (location.hash !== newHash) {
@@ -928,21 +978,27 @@ function bindSurahEvents() {
   document.getElementById("read-mode")?.addEventListener("change", async (e) => {
     prefs.readMode = e.target.value;
     savePrefs();
-    if (currentSurah) await renderSurah(currentSurah, getLastRead()?.ayah);
+    if (currentSurah) {
+      await renderSurah(currentSurah, visibleAyah || getLastReadForSurah(currentSurah.id)?.ayah);
+    }
   });
 
   document.getElementById("toggle-transliteration")?.addEventListener("click", async () => {
     prefs.showTransliteration = !prefs.showTransliteration;
     savePrefs();
     document.getElementById("toggle-transliteration")?.classList.toggle("active", prefs.showTransliteration);
-    if (currentSurah) await renderSurah(currentSurah, getLastRead()?.ayah);
+    if (currentSurah) {
+      await renderSurah(currentSurah, visibleAyah || getLastReadForSurah(currentSurah.id)?.ayah);
+    }
   });
 
   document.getElementById("toggle-layout")?.addEventListener("click", async () => {
     prefs.layoutMode = prefs.layoutMode === "book" ? "verse" : "book";
     savePrefs();
     document.getElementById("toggle-layout")?.classList.toggle("active", prefs.layoutMode === "book");
-    if (currentSurah) await renderSurah(currentSurah, getLastRead()?.ayah);
+    if (currentSurah) {
+      await renderSurah(currentSurah, visibleAyah || getLastReadForSurah(currentSurah.id)?.ayah);
+    }
   });
 
   document.getElementById("font-smaller")?.addEventListener("click", () => setFontScale(prefs.fontScale - 0.08));
@@ -1163,25 +1219,36 @@ function bindSmartSearch(surahs) {
   });
 }
 
+function resumeCardHtml(entry, surahs, { showLabel = false } = {}) {
+  const s = surahs.find((x) => x.id === entry.surah);
+  if (!s) return "";
+  return `
+    <a href="#/${entry.surah}/${entry.ayah}" class="resume-card">
+      <span class="resume-icon" aria-hidden="true">۞</span>
+      <span class="resume-body">
+        ${showLabel ? `<span class="resume-label">Continue your reading</span>` : ""}
+        <span class="resume-title">${esc(s.name_arabic)} · ${esc(s.translated_name)}</span>
+        <span class="resume-meta">Ayah ${entry.ayah}</span>
+      </span>
+      <span class="resume-arrow" aria-hidden="true">←</span>
+    </a>`;
+}
+
 function renderHome(surahs) {
   setBreadcrumb("");
-  const last = getLastRead();
+  const recentReads = getRecentReads().slice(0, RECENT_READS_MAX);
   const bookmarks = getBookmarks().slice(0, 5);
   const tadabbur = getMyWorkList("tadabbur").slice(0, 3);
   const edits = getMyWorkList("meanings").slice(0, 3);
-  const lastSurah = last ? surahs.find((s) => s.id === last.surah) : null;
 
   document.getElementById("app").innerHTML = `
-    ${last && lastSurah ? `
-    <a href="#/${last.surah}/${last.ayah}" class="resume-card">
-      <span class="resume-icon" aria-hidden="true">۞</span>
-      <span class="resume-body">
-        <span class="resume-label">Continue your reading</span>
-        <span class="resume-title">${esc(lastSurah.name_arabic)} · ${esc(lastSurah.translated_name)}</span>
-        <span class="resume-meta">Ayah ${last.ayah}</span>
-      </span>
-      <span class="resume-arrow" aria-hidden="true">←</span>
-    </a>` : ""}
+    ${recentReads.length ? `
+    <section class="home-section resume-section">
+      <h2 class="section-title">Continue your reading</h2>
+      <div class="resume-list">${recentReads
+        .map((entry, i) => resumeCardHtml(entry, surahs, { showLabel: i === 0 }))
+        .join("")}</div>
+    </section>` : ""}
     ${bookmarks.length ? `
     <section class="home-section">
       <h2 class="section-title">Saved ayahs</h2>
@@ -1312,10 +1379,10 @@ function renderBookmarks() {
 
 async function renderSurah(data, targetAyah, openStudy = false) {
   currentSurah = data;
-  const last = getLastRead();
-  if (!targetAyah && last?.surah === data.id) targetAyah = last.ayah;
+  const lastForSurah = getLastReadForSurah(data.id);
+  if (!targetAyah && lastForSurah) targetAyah = lastForSurah.ayah;
   const ayah = targetAyah || 1;
-  saveLastRead(data.id, ayah);
+  visibleAyah = ayah;
 
   setBreadcrumb(`<a href="#/">Home</a> › ${esc(data.translated_name)}`);
 
@@ -1367,24 +1434,27 @@ document.addEventListener("keydown", (e) => {
   if (e.target.matches("input, textarea, select")) return;
   const r = route();
   if (r.view !== "surah" || !currentSurah) return;
-  const last = getLastRead();
-  if (!last) return;
+  const currentAyah =
+    visibleAyah || r.ayah || getLastReadForSurah(currentSurah.id)?.ayah || 1;
   if (e.key === "ArrowDown" || e.key === "j") {
     e.preventDefault();
-    const next = Math.min(last.ayah + 1, currentSurah.verses_count);
+    const next = Math.min(currentAyah + 1, currentSurah.verses_count);
     scrollToAyah(currentSurah.id, next);
   } else if (e.key === "ArrowUp" || e.key === "k") {
     e.preventDefault();
-    const prev = Math.max(last.ayah - 1, 1);
+    const prev = Math.max(currentAyah - 1, 1);
     scrollToAyah(currentSurah.id, prev);
   } else if (e.key === "Escape") closeStudyPanel();
 });
 
 async function render() {
   if (scrollLock) return;
+  const r = route();
+  const leavingSurah =
+    currentSurah && (r.view !== "surah" || r.surah !== currentSurah.id);
+  if (leavingSurah) flushRecordReading();
   hideTooltip();
   closeStudyPanel();
-  const r = route();
   try {
     if (r.view === "home") {
       currentSurah = null;
