@@ -17,6 +17,8 @@ ROOT = Path(__file__).resolve().parent.parent
 OUTPUT = ROOT / "docs" / "data"
 AI_TRANSLATIONS = OUTPUT / "ai_translations"
 AI_TAFSIR = OUTPUT / "ai_tafsir"
+QF_TRANSLATIONS = OUTPUT / "qf_translations"
+QF_TAFSIR = OUTPUT / "qf_tafsir"
 QURAN_API = "https://api.quran.com/api/v4/chapters?language=en"
 
 
@@ -37,6 +39,14 @@ def load_ai_tafsir(surah: int) -> dict[int, str]:
     return load_sidecar(AI_TAFSIR, surah)
 
 
+def load_qf_translations(surah: int) -> dict[int, str]:
+    return load_sidecar(QF_TRANSLATIONS, surah)
+
+
+def load_qf_tafsir(surah: int) -> dict[int, str]:
+    return load_sidecar(QF_TAFSIR, surah)
+
+
 def fetch_chapters() -> dict[int, dict]:
     req = urllib.request.Request(QURAN_API, headers={"User-Agent": "QuranProject/1.0"})
     with urllib.request.urlopen(req, timeout=60) as response:
@@ -52,12 +62,18 @@ def build_surah(surah: int, chapters: dict[int, dict]) -> None:
     ayahs = []
     ai_map = load_ai_translations(surah)
     tafsir_map = load_ai_tafsir(surah)
+    qf_tr_map = load_qf_translations(surah)
+    qf_tf_map = load_qf_tafsir(surah)
     for path in sorted(surah_dir.glob("Ayah_*.md"), key=lambda p: int(p.stem.split("_")[1])):
         row = to_json_ayah(read_ayah(path))
         if not row.get("ai_translation", "").strip() and row["ayah"] in ai_map:
             row["ai_translation"] = ai_map[row["ayah"]]
         if not row.get("ai_tafsir", "").strip() and row["ayah"] in tafsir_map:
             row["ai_tafsir"] = tafsir_map[row["ayah"]]
+        if row["ayah"] in qf_tr_map:
+            row["qf_translation"] = qf_tr_map[row["ayah"]]
+        if row["ayah"] in qf_tf_map:
+            row["qf_tafsir"] = qf_tf_map[row["ayah"]]
         ayahs.append(row)
 
     chapter = chapters[surah]

@@ -26,6 +26,17 @@ jobs:
 
       - run: pip install pyyaml
 
+      - name: Enrich from Quran Foundation API (optional)
+        env:
+          QURAN_CLIENT_ID: ${{ secrets.QURAN_CLIENT_ID }}
+          QURAN_CLIENT_SECRET: ${{ secrets.QURAN_CLIENT_SECRET }}
+        run: |
+          if [ -n "$QURAN_CLIENT_ID" ] && [ -n "$QURAN_CLIENT_SECRET" ]; then
+            python scripts/enrich_qf.py
+          else
+            echo "Skipping QF enrich — QURAN_CLIENT_ID / QURAN_CLIENT_SECRET not set."
+          fi
+
       - run: python scripts/build_site.py
 
       - uses: actions/upload-pages-artifact@v3

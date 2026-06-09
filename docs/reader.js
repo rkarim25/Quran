@@ -378,10 +378,12 @@ function displayTranslation(ayah) {
   if (prefs.readMode === "ai" && ayah.ai_translation) {
     return { text: ayah.ai_translation, mode: "ai" };
   }
+  const standard = ayah.translation || ayah.qf_translation || "";
   if (prefs.readMode === "ai" || prefs.readMode === "translation") {
-    return { text: ayah.translation || "", mode: prefs.readMode === "ai" ? "ai" : "standard" };
+    const text = prefs.readMode === "ai" ? ayah.ai_translation || standard : standard;
+    return { text, mode: prefs.readMode === "ai" ? "ai" : "standard" };
   }
-  return { text: ayah.translation || "", mode: "standard" };
+  return { text: standard, mode: "standard" };
 }
 
 function transliterationHtml(ayah) {
@@ -661,11 +663,14 @@ function panelContent(ayah) {
   }
   if (prefs.activePanel === "tafsir") {
     let html = `<p class="panel-intro tafsir-intro">Concise commentary drawing on Ibn Kathir, Maarif ul Quran, classical scholars, and authenticated hadith.</p>`;
+    if (ayah.qf_tafsir) {
+      html += `<details open class="qf-tafsir-block"><summary class="qf-tafsir-summary">Ibn Kathir (Quran.com)</summary><div class="qf-tafsir-body">${md(ayah.qf_tafsir)}</div></details>`;
+    }
     if (ayah.ai_tafsir) {
-      html += `<details open class="ai-tafsir-block"><summary class="ai-tafsir-summary">AI Tafsir</summary><div class="ai-tafsir-body">${md(ayah.ai_tafsir)}</div></details>`;
+      html += `<details ${ayah.qf_tafsir ? "" : "open"} class="ai-tafsir-block"><summary class="ai-tafsir-summary">AI Tafsir</summary><div class="ai-tafsir-body">${md(ayah.ai_tafsir)}</div></details>`;
     }
     if (ayah.tafsir_summary) html += `<details><summary>Tafsir Summary</summary>${md(ayah.tafsir_summary)}</details>`;
-    if (ayah.tafsir_ibn_kathir) html += `<details><summary>Ibn Kathir</summary>${md(ayah.tafsir_ibn_kathir)}</details>`;
+    if (ayah.tafsir_ibn_kathir) html += `<details><summary>Ibn Kathir (full)</summary>${md(ayah.tafsir_ibn_kathir)}</details>`;
     if (ayah.maarif_ul_quran) html += `<details><summary>Maarif ul Quran</summary>${md(ayah.maarif_ul_quran)}</details>`;
     return html || `<p class="empty-note">No tafsir available.</p>`;
   }
