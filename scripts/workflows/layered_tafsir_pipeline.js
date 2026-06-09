@@ -10,11 +10,13 @@ export const meta = {
 
 // args: { surah: <number>, ayahs: <number[]> }
 const VAULT = String.raw`C:\Users\Reza Karim\OneDrive\Quran-Project\Quran-obs`
-const surah = args && args.surah
-const ayahList = (args && args.ayahs) || []
+let A = args
+if (typeof A === 'string') { try { A = JSON.parse(A) } catch (e) { /* leave as-is */ } }
+const surah = A && A.surah
+const ayahList = (A && A.ayahs) || []
 if (!surah || !ayahList.length) {
-  log('No surah/ayahs provided in args; nothing to do.')
-  return []
+  log('No surah/ayahs resolved from args; nothing to do. argsType=' + (typeof args))
+  return { error: 'no-args', argsType: typeof args, argsValue: args }
 }
 
 const AYAHS = ayahList.map((a) => ({
@@ -44,7 +46,7 @@ const FINAL_SCHEMA = { type: 'object', properties: {
 const LENSES = [
   { key: 'hadith', title: 'Hadith authenticity & grounding', needsSource: true, instruction: "For EVERY hadith in the draft, verify it actually appears in the source file's Ibn Kathir or Maarif ul Quran text for THIS ayah. Any hadith not present in the source is UNGROUNDED — flag it MAJOR and list it in ungrounded_hadith (fabrication risk). Verify the named collection matches the source. Confirm no isnad or wording was invented. Do NOT rely on your own memory of hadith — only the source file. The file may be large; read it fully (page with offset if truncated)." },
   { key: 'aqeedah', title: 'Creed (Ahl al-Sunnah) soundness', needsSource: false, instruction: "Flag anything that distorts Allah's names/attributes or the unseen, any anthropomorphism, any sectarian or disputed opinion stated as settled fact, or any claim outside mainstream Sunni creed. Identifications of groups/people must be attributed as the source attributes them, not stated as blanket judgements. Doctrinal errors = major; wording risks = minor." },
-  { key: 'craft', title: 'Faithfulness to source + conciseness & power', needsSource: true, instruction: "Confirm the synthesis faithfully reflects the source's Ibn Kathir / Maarif without distortion or overreach (read the source). Then judge craft: is it CONCISE (rendered ~600-1100 chars, never over 1600), vivid, and non-repetitive? Does it avoid merely restating the translation? Flag padding, repetition across layers, vagueness, distortion, or flat writing." },
+  { key: 'craft', title: 'Faithfulness to source + conciseness & power', needsSource: true, instruction: "Confirm the synthesis faithfully reflects the source's Ibn Kathir / Maarif without distortion or overreach (read the source). Then judge craft: is it CONCISE (rendered ~600-1100 chars, never over 1800), vivid, and non-repetitive? Does it avoid merely restating the translation? Flag padding, repetition across layers, vagueness, distortion, or flat writing." },
 ]
 
 function draftPrompt(item) {
@@ -61,7 +63,7 @@ function draftPrompt(item) {
     `- Creed: stay within mainstream Ahl al-Sunnah; attribute named scholars/companions (Ibn 'Abbas, Mujahid, Qatadah...) as the source does. For divine attributes, follow the Salaf method as the source presents it (affirm without likening or distorting).`,
     `- Voice: clear, reverent, vivid. Use "Allah"; put the honorific after the Prophet. Unpack Arabic terms (Rahman, taqwa, sabr, tawhid...) rather than flattening them.`,
     ``,
-    `LENGTH: be genuinely concise. Target ~600-800 characters in "rendered"; NEVER exceed 1600. Cut anything that merely restates an earlier layer.`,
+    `LENGTH: be genuinely concise. Target ~600-800 characters in "rendered"; NEVER exceed 1800. Cut anything that merely restates an earlier layer.`,
     ``,
     `LAYERS:`,
     `- essence: ONE sentence capturing the heart of the ayah.`,
@@ -108,7 +110,7 @@ function finalizePrompt(item, draft, verdicts) {
     `You are finalizing the layered tafsir for ${item.ref}. Resolve EVERY issue the reviewers raised.`,
     `Re-read the source file if needed (Read tool, exact path; page through if large): ${item.file}`,
     `Grounding rules still apply: hadith only from the source; drop any hadith flagged as ungrounded; never fabricate.`,
-    `LENGTH: keep "rendered" concise and powerful — target ~600-800 chars, HARD CAP 1600. Trim padding and cross-layer repetition while keeping the power.`,
+    `LENGTH: keep "rendered" concise and powerful — target ~600-800 chars, HARD CAP 1800. Trim padding and cross-layer repetition while keeping the power.`,
     ``,
     `DRAFT:`,
     draft.rendered,

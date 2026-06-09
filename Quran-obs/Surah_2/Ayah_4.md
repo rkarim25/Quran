@@ -192,13 +192,15 @@ They trust in what was sent down to you, O Prophet, and in what was sent before 
 
 ## AI Tafsir
 
-**Context:** And who have faith in what is revealed to you and in what was revealed before you, and in the Hereafter they are certain (4) (And who have faith in what is revealed to you and in what was revealed before you.) means, "Th…
+**Essence** The God-fearing believe wholeheartedly in the revelation given to Muhammad ﷺ and in all that was sent before him, and hold certain, unwavering conviction in the Hereafter.
 
-**What this ayah teaches:** The Hereafter is so named because it comes after this earthly life.
+**What it teaches** This verse adds two marks of taqwa: faith in every Book Allah revealed — the Qur'an and the earlier Scriptures as originally sent — and certitude in al-Akhirah. It says yuqinun ("have certainty"), not merely yu'minun ("believe"): true faith here is no spoken claim but conviction that leaves no room for doubt.
 
-**Classical tafsir:** Ibn Kathir notes: Lexically the Akhirah signifies 'that which comes after something'; in the present context, it indicates a relationship of contrast with the physical world, and thus signifies the other world which is beyond physical reality as we know it and also beyond the sensuous or rational…
+**The scholars** Ibn 'Abbas explained they believe in what the Prophet ﷺ and the earlier Messengers brought, neither distinguishing between them nor rejecting any of it. Maarif draws a far-reaching point from the wording: it commands belief in the Books revealed "before you" yet never hints at any to come "after you" — a proof of the finality of the Prophet's ﷺ prophethood.
 
-**From the Sunnah:** Therefore, if the believers in Islam among the People of the Book gain two rewards, other Muslims who have firmer Islamic faith might gain an equal reward that compares to the two the People of the Book gain (upon embracing…
+**From the Sunnah** When the People of the Book narrate to you, neither reject nor affirm; rather say, "We believe in what was revealed to us and what was revealed to you" — affirming earlier revelation in principle while guarding against its distortions. (reported by Ibn Kathir as a statement of the Prophet ﷺ)
+
+**Reflection** The one certain of the Hereafter knows that even in a sealed room in the dark of night he is seen and his smallest deed recorded — and that certainty alone brings his private self into harmony with his public self.
 ## Personal Reflections
 
 
