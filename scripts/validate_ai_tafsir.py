@@ -14,23 +14,24 @@ AI_DIR = ROOT / "docs" / "data" / "ai_tafsir"
 DATA_DIR = ROOT / "docs" / "data"
 
 MIN_CHARS = 80
-MAX_CHARS = 950
-REQUIRED_SECTION = re.compile(r"\*\*What this ayah teaches:\*\*", re.I)
+MAX_CHARS = 1600
+REQUIRED_SECTION = re.compile(r"\*\*Essence\*\*", re.I)
 
 BAD_PATTERNS = (
     (re.compile(r"\bTranslator\b"), "translator note"),
     (re.compile(r"continues in \*\*Ayah"), "cross-reference fragment"),
     (re.compile(r"\bIn the Ibn Kathir source\b", re.I), "source disclaimer"),
     (re.compile(r"\(\d+\)\s*$"), "orphan footnote"),
-    (re.compile(r"\bGod\b(?!-conscious)"), "use Allah not God"),
+    (re.compile(r"\bGod\b(?!-)"), "use Allah not God"),
 )
 
 SUBSTANCE_MARKERS = (
-    re.compile(r"\*\*What this ayah teaches:\*\*", re.I),
-    re.compile(r"\*\*Classical tafsir:\*\*", re.I),
-    re.compile(r"\*\*From the Sunnah:\*\*", re.I),
-    re.compile(r"\*\*Context:\*\*", re.I),
-    re.compile(r"\bIbn Kathir\b|\bMaarif\b|\bhadith\b|\bProphet ﷺ\b", re.I),
+    re.compile(r"\*\*Essence\*\*", re.I),
+    re.compile(r"\*\*What it teaches\*\*", re.I),
+    re.compile(r"\*\*The scholars\*\*", re.I),
+    re.compile(r"\*\*From the Sunnah\*\*", re.I),
+    re.compile(r"\*\*Reflection\*\*", re.I),
+    re.compile(r"\bIbn Kathir\b|\bMaarif\b|\bhadith\b|\bProphet\b", re.I),
 )
 
 
