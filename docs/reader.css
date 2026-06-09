@@ -236,6 +236,8 @@ body {
   font-size: 0.65rem;
   font-family: system-ui, sans-serif;
   padding: 0.25rem 0.55rem;
+  min-width: 2.75rem;
+  text-align: center;
   border-radius: 999px;
   background: var(--green-light);
   color: var(--green);

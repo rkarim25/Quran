@@ -68,7 +68,8 @@ const QuranFirebaseSync = (() => {
       offline: "Offline",
       error: "Sync error",
     };
-    badge.textContent = labels[next] || next;
+    badge.textContent = "Sync";
+    badge.title = labels[next] || next;
     if (next === "syncing") badge.classList.add("syncing");
     else if (next === "offline") badge.classList.add("offline");
     else if (next === "synced") badge.classList.add("synced");
@@ -127,7 +128,7 @@ const QuranFirebaseSync = (() => {
       const remote = await fetchRemote();
       const merged = mergeBundles(local, remote);
       applyBundle(merged);
-      if (onMerged) onMerged(merged);
+      if (onMerged) onMerged({ source: "pull" });
       setStatus("synced");
       updateGooglePanel();
       return merged;
@@ -158,7 +159,7 @@ const QuranFirebaseSync = (() => {
       const merged = mergeBundles(collectLocalData(), remote);
       await pushRemote(merged);
       applyBundle(merged);
-      if (onMerged) onMerged(merged);
+      if (onMerged) onMerged({ source: "push" });
       setStatus("synced");
     } catch (e) {
       console.warn("Firebase sync push failed", e);

@@ -1491,16 +1491,43 @@ function reloadPrefsFromStorage() {
   document.documentElement.style.setProperty("--arabic-scale", prefs.fontScale);
 }
 
+function applyPrefsToToolbarIfPresent() {
+  document.documentElement.style.setProperty("--arabic-scale", prefs.fontScale);
+  const readMode = document.getElementById("read-mode");
+  if (readMode) readMode.value = prefs.readMode;
+  const translit = document.getElementById("toggle-transliteration");
+  if (translit) translit.classList.toggle("active", prefs.showTransliteration);
+  const layout = document.getElementById("toggle-layout");
+  if (layout) layout.classList.toggle("active", prefs.layoutMode === "book");
+  const reader = document.querySelector(".surah-reader");
+  if (reader) {
+    reader.classList.remove("mode-arabic", "mode-translation", "mode-ai", "layout-verse", "layout-book");
+    reader.classList.add(`mode-${prefs.readMode}`, `layout-${prefs.layoutMode}`);
+  }
+}
+
+function handleSyncMerged({ source = "pull" } = {}) {
+  reloadPrefsFromStorage();
+  rebuildMyWorkIndex().catch((err) => console.warn("My-work index rebuild failed", err));
+
+  // Background push — page already shows local data; never re-render.
+  if (source === "push") return;
+
+  const r = route();
+  if (r.view === "surah" && currentSurah) {
+    applyPrefsToToolbarIfPresent();
+    return;
+  }
+
+  if (!scrollLock) render();
+}
+
 async function boot() {
   try {
     const syncOptions = {
       lsKeys: LS,
       ayahEditsKey: LS.ayahEdits,
-      onMerged: () => {
-        reloadPrefsFromStorage();
-        rebuildMyWorkIndex().catch((err) => console.warn("My-work index rebuild failed", err));
-        if (!scrollLock) render();
-      },
+      onMerged: handleSyncMerged,
     };
 
     QuranGitHubSync?.init(syncOptions);
