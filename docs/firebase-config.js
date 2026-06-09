@@ -6,10 +6,11 @@
  * See docs/SYNC_SETUP.md for setup steps.
  */
 const FIREBASE_CONFIG = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID",
+  apiKey: "AIzaSyBCexHuMTSWZEyN8Q8bKozeU6OhFgafI7Q",
+  authDomain: "quran-reader-sync.firebaseapp.com",
+  projectId: "quran-reader-sync",
+  storageBucket: "quran-reader-sync.firebasestorage.app",
+  messagingSenderId: "1078897697547",
+  appId: "1:1078897697547:web:78aed90d3822af8badf80e",
+  measurementId: "G-MDW16R7P83"
 };
