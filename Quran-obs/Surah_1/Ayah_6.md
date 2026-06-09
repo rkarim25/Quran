@@ -1056,11 +1056,13 @@ Guide us to the Sirat al-Mustaqim—the way of living that aligns with Your plea
 
 ## AI Tafsir
 
-**What this ayah teaches:** The believer asks for guidance to the Sirat al-Mustaqim—the straight way of living that pleases Allah—not the paths of confusion, anger, or neglect.
+**Essence** Having praised Allah and pledged worship to Him alone, the servant asks for what he most needs: guidance upon the Straight Path.
 
-**Classical tafsir:** Ibn Kathir: guidance here means steadfastness on truth after recognizing it. Maarif: it is a daily plea, because guidance is ongoing.
+**What it teaches** "Ihdina," says Ibn Kathir, means direct, lead, and grant us the correct guidance. As-Sirat al-Mustaqim is the clear path that At-Tabari and Ibn Kathir identify as Islam itself: knowing the truth and abiding by it. The plural "us" widens the plea to one's brethren.
 
-**From the Sunnah:** Allah responds: "This is for My servant, and My servant shall have what he asks" (Muslim).
+**The scholars** Why do even the guided ask this every prayer? Ibn Kathir: we need Allah every hour, powerless to benefit ourselves except by His leave; so "guide us" means "make us firm, and do not let us deviate." Maarif ul-Quran (citing Imam Raghib) names the highest guidance as tawfiq, help that makes obedience easy, sought by prophets to their last breath.
+
+**Reflection** Pray this knowing the path is a gift Allah renews, never a possession to take for granted.
 ## Personal Reflections
 
 

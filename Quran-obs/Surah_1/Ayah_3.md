@@ -34,11 +34,13 @@ The second verse speaks of the Divine quality of mercy, employing two adjectives
 
 ## AI Tafsir
 
-**What this ayah teaches:** Allah names Himself ar-Rahman and ar-Rahim—two dimensions of mercy: universal compassion in the dunya and special nearness for believers in the Akhirah.
+**Essence** After naming Himself Lord of all worlds, Allah names Himself ar-Rahman ar-Rahim — twin mercies that explain why He sustains creation at all.
 
-**Classical tafsir:** When the servant says these names in prayer, Allah replies: "My servant has glorified Me" (hadith qudsi). Scholars note ar-Rahman is for all creation; ar-Rahim is especially for the people of iman.
+**What it teaches** Both names spring from rahmah: ar-Rahman, the intensive form, points to the superabundance of mercy; ar-Rahim, to its perfection. His care for every creature flows from mercy alone.
 
-**From the Sunnah:** The Fatihah dialogue hadith (Muslim, Ahmad).
+**The scholars** Maarif ul Quran reads both as hyperbolic Arabic forms: Allah took on the care of all creation not from need or compulsion but in answer to His own mercy — "if this whole universe did not exist, He would suffer no loss; if it does exist, it is no burden to Him." Ibn Kathir ties these names to one standing in prayer, to whom Allah replies, "My servant has glorified Me" — the full exchange unfolds at ayah 6.
+
+**Reflection** Lean on a mercy that owes you nothing yet gives everything — and let it make you merciful to others.
 ## Personal Reflections
 
 

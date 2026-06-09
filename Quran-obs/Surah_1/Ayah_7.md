@@ -1104,11 +1104,20 @@ The path of those You favoured with guidance—not the path of those who knew th
 
 ## AI Tafsir
 
-**What this ayah teaches:** The path of those Allah favoured (the prophets and truthful followers), not those who knew truth yet chose resentment, nor those who lost the way through heedlessness.
+**Essence**
+The straight path is the road of those Allah favoured — not of those who knew the truth and abandoned it, nor of those who lost it and wandered.
 
-**Classical tafsir:** Ibn Kathir identifies the two misguided groups as Jews (knowledge without practice) and Christians (practice without knowledge), per authentic reports. The safe path is that of the prophets and their steadfast followers.
+**What it teaches**
+The verse identifies the path not by a rule but by its travellers: those Allah has graced. The deeper lesson is why we still beg for this road in every prayer though we already walk it — because no one stays firm by his own power. Guidance is not seized once and owned; it is granted hour by hour.
 
-**From the Sunnah:** The Fatihah dialogue concludes with Allah granting what was asked (Muslim, Ahmad).
+**The scholars**
+Ibn Kathir, citing 4:69-70, names the favoured as four ranks: the Prophets, the Siddiqin (the truly faithful), the Shuhada (martyrs), and the Salihin (the righteous). The two failed ways he distinguishes by cause: anger falls on those who know the truth yet reject it; straying, on those who lost true knowledge and wander. Maarif ul Quran frames the path as the mean between two extremes — deficiency in obeying Allah, and excess that exaggerates a prophet into a god.
+
+**From the Sunnah**
+Explaining this verse to 'Adi bin Hatim, the Prophet (peace be upon him) named the two ruined paths: those who earned Allah's anger are the Jews, and those who went astray are the Christians (Imam Ahmad; also At-Tirmidhi, Hasan Gharib).
+
+**Reflection**
+When you reach this line in prayer, you are not reciting words but pleading: "Make me firm, and do not let me deviate." And the answer is promised — "This is for My servant, and My servant shall have what he asked for."
 ## Personal Reflections
 
 

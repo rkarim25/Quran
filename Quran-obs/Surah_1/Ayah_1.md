@@ -260,11 +260,17 @@ I begin in the name of Allah—calling on the Rahman, whose mercy in this life e
 
 ## AI Tafsir
 
-**What this ayah teaches:** Every action of worth in Islam begins by calling on Allah and acknowledging ar-Rahman (mercy that embraces all creation in this life) and ar-Rahim (special mercy for those who turn to Him in the Akhirah).
+**Essence**
+We open every act with the name of Allah, under the One whose mercy creates and sustains all.
 
-**Classical tafsir:** Ibn Kathir notes that opening with Allah's name teaches that no deed is valid without sincerity to Him alone. Maarif ul Quran explains that *Bismillah* is the key to every surah except at-Tawbah.
+**What it teaches**
+"Bismillah" joins the Ba, "Ism" (name), and "Allah." Maarif notes the Ba carries three senses — "with the name," "with His help," and "with His barakah" — plus an implied "I begin," so the act starts in His name. "Allah," the greatest name, denotes the one true Essence, taking no dual or plural: He is One with no partner.
 
-**From the Sunnah:** The Prophet ﷺ said: "Every important matter not begun with Bismillah remains deficient" (reported in several collections).
+**The scholars**
+Maarif (citing Qurtubi) distinguishes the two mercies: ar-Rahman is so all-embracing it belongs to Allah alone, while ar-Rahim, mercy perfected, may even describe a creature, as the Qur'an calls the Prophet (peace be upon him) merciful. Both spring from one root, rahmah: His mercy, not any need, moved Him to create.
+
+**Reflection**
+Say Bismillah before any task and the ordinary becomes worship, renewing reliance on His mercy.
 ## Personal Reflections
 
 
