@@ -113,6 +113,10 @@ def main() -> int:
         json.dumps({"surahs": index}, ensure_ascii=False, separators=(",", ":")),
         encoding="utf-8",
     )
+
+    from build_search_index import main as build_search_index
+
+    build_search_index()
     print(f"\nDone. {len(index)} surahs written to {OUTPUT}")
     return 0
 

@@ -270,7 +270,7 @@ function route() {
   return { view: "surah", surah: +parts[0], ayah: +parts[1], study };
 }
 
-const DATA_VERSION = "20";
+const DATA_VERSION = "21";
 
 async function loadIndex() {
   if (!cache.index) cache.index = await (await fetch(`data/index.json?v=${DATA_VERSION}`)).json();
@@ -1018,9 +1018,99 @@ function normalizeSearch(text) {
     .replace(/[\u0300-\u036f]/g, "")
     .replace(/[\u0640\u0610-\u061a\u064b-\u065f\u0670\u06d6-\u06ed]/g, "")
     .replace(/[''`´]/g, "")
+    .replace(/[إأآا]/g, "ا")
+    .replace(/ى/g, "ي")
+    .replace(/ة/g, "ه")
     .replace(/[^a-z0-9\u0621-\u064a\s:/\-]/g, " ")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+let searchIndex = null;
+let searchIndexLoading = null;
+
+async function ensureSearchIndex() {
+  if (searchIndex) return searchIndex;
+  if (!searchIndexLoading) {
+    searchIndexLoading = fetch(`data/search-index.json?v=${DATA_VERSION}`)
+      .then((r) => (r.ok ? r.json() : { entries: [] }))
+      .then((data) => {
+        searchIndex = data.entries || [];
+        return searchIndex;
+      })
+      .catch(() => {
+        searchIndex = [];
+        return searchIndex;
+      });
+  }
+  return searchIndexLoading;
+}
+
+function levenshtein(a, b) {
+  if (a.length > b.length) [a, b] = [b, a];
+  if (!a.length) return b.length;
+  let prev = Array.from({ length: b.length + 1 }, (_, i) => i);
+  for (let i = 0; i < a.length; i++) {
+    const curr = [i + 1];
+    for (let j = 0; j < b.length; j++) {
+      curr.push(a[i] === b[j] ? prev[j] : 1 + Math.min(prev[j], prev[j + 1], curr[j]));
+    }
+    prev = curr;
+  }
+  return prev[b.length];
+}
+
+function fuzzyTokenScore(token, haystack, words) {
+  if (!token || token.length < 2) return 0;
+  if (haystack.includes(token)) return 92;
+  let best = 0;
+  for (const w of words) {
+    if (w.length < 2) continue;
+    if (w === token) return 100;
+    if (w.startsWith(token) || token.startsWith(w)) best = Math.max(best, 82);
+    else if (w.includes(token) || token.includes(w)) best = Math.max(best, 72);
+    else if (token.length >= 3 && w.length >= 3) {
+      const dist = levenshtein(token, w);
+      const maxLen = Math.max(token.length, w.length);
+      const sim = 1 - dist / maxLen;
+      if (sim >= 0.55) best = Math.max(best, Math.round(sim * 68));
+    }
+  }
+  return best;
+}
+
+function scoreHaystack(nq, tokens, haystack) {
+  if (!haystack) return 0;
+  if (nq.length >= 3 && haystack.includes(nq)) return 96;
+  const words = haystack.split(" ").filter(Boolean);
+  if (!tokens.length) return 0;
+  let total = 0;
+  for (const token of tokens) {
+    total += fuzzyTokenScore(token, haystack, words);
+  }
+  return total / tokens.length;
+}
+
+function scoreIndexEntry(entry, nq, tokens) {
+  const [, , en, ar] = entry;
+  return Math.max(scoreHaystack(nq, tokens, en), scoreHaystack(nq, tokens, ar));
+}
+
+function fuzzyScoreSurah(s, nq, tokens) {
+  const exact = scoreSurah(s, nq);
+  if (exact > 0) return exact;
+
+  const fields = [
+    normalizeSearch(s.name_simple),
+    normalizeSearch(s.translated_name),
+    normalizeSearch(s.name_arabic),
+  ];
+  let best = 0;
+  for (const field of fields) {
+    best = Math.max(best, scoreHaystack(nq, tokens, field));
+    if (nq.length >= 3 && field.includes(nq)) best = Math.max(best, 88);
+  }
+  return best;
 }
 
 function parseReference(raw, surahs) {
@@ -1097,23 +1187,86 @@ function scoreSurah(s, nq) {
   return 0;
 }
 
-function searchSurahs(surahs, query, limit = 8) {
+function searchSurahs(surahs, query, limit = 6) {
+  const nq = normalizeSearch(query);
+  if (!nq) return [];
+  const tokens = nq.split(" ").filter((t) => t.length >= 2);
+
+  return surahs
+    .map((s) => ({
+      surah: s.id,
+      ayah: 1,
+      score: fuzzyScoreSurah(s, nq, tokens),
+      kind: "surah",
+      s,
+    }))
+    .filter((r) => r.score >= 40)
+    .sort((a, b) => b.score - a.score || a.surah - b.surah)
+    .slice(0, limit)
+    .map(({ s, score, ...r }) => ({
+      ...r,
+      score,
+      label: `${s.id}. ${s.name_simple}`,
+      sub: s.translated_name,
+      kindLabel: "Surah",
+    }));
+}
+
+async function searchAyahs(surahs, query, limit = 10) {
+  const nq = normalizeSearch(query);
+  if (!nq || nq.length < 2) return [];
+  const tokens = nq.split(" ").filter((t) => t.length >= 2);
+  const index = await ensureSearchIndex();
+  if (!index.length) return [];
+
+  const FUZZY_MIN = 38;
+  const hits = [];
+  for (const entry of index) {
+    const score = scoreIndexEntry(entry, nq, tokens);
+    if (score < FUZZY_MIN) continue;
+    const [surahId, ayah, , , snip] = entry;
+    const s = surahs.find((x) => x.id === surahId);
+    if (!s) continue;
+    hits.push({
+      surah: surahId,
+      ayah,
+      score,
+      kind: "ayah",
+      kindLabel: "Ayah",
+      label: `${surahId}:${ayah} · ${s.name_simple}`,
+      sub: snip || s.translated_name,
+    });
+  }
+
+  hits.sort((a, b) => b.score - a.score || a.surah - b.surah || a.ayah - b.ayah);
+  return hits.slice(0, limit);
+}
+
+async function smartSearch(surahs, query, limit = 12) {
   const ref = parseReference(query, surahs);
-  if (ref) return [ref];
+  if (ref) return [{ ...ref, kindLabel: "Go to" }];
 
   const nq = normalizeSearch(query);
   if (!nq) return [];
 
-  return surahs
-    .map((s) => ({ surah: s.id, ayah: 1, score: scoreSurah(s, nq), kind: "surah", s }))
-    .filter((r) => r.score > 0)
-    .sort((a, b) => b.score - a.score || a.surah - b.surah)
-    .slice(0, limit)
-    .map(({ s, ...r }) => ({
-      ...r,
-      label: `${s.id}. ${s.name_simple}`,
-      sub: s.translated_name,
-    }));
+  const [surahHits, ayahHits] = await Promise.all([
+    Promise.resolve(searchSurahs(surahs, query, 5)),
+    searchAyahs(surahs, query, 10),
+  ]);
+
+  const merged = [...surahHits, ...ayahHits]
+    .sort((a, b) => b.score - a.score || a.surah - b.surah || (a.ayah || 1) - (b.ayah || 1));
+
+  const seen = new Set();
+  const out = [];
+  for (const r of merged) {
+    const key = r.kind === "surah" ? `s:${r.surah}` : `a:${r.surah}:${r.ayah}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    out.push(r);
+    if (out.length >= limit) break;
+  }
+  return out;
 }
 
 function goToSearchResult(result) {
@@ -1134,7 +1287,10 @@ function renderSearchDropdown(results, activeIdx = 0) {
     .map(
       (r, i) => `
     <button type="button" class="search-item ${i === activeIdx ? "active" : ""}" data-i="${i}">
-      <span class="search-item-label">${esc(r.label)}</span>
+      <span class="search-item-row">
+        <span class="search-item-label">${esc(r.label)}</span>
+        ${r.kindLabel ? `<span class="search-item-kind">${esc(r.kindLabel)}</span>` : ""}
+      </span>
       <span class="search-item-sub">${esc(r.sub || "")}</span>
     </button>`
     )
@@ -1148,26 +1304,39 @@ function bindSmartSearch(surahs) {
 
   let results = [];
   let activeIdx = 0;
+  let searchGen = 0;
 
-  function filterGrid(q) {
+  function filterGrid(q, hits) {
     const nq = normalizeSearch(q);
     document.querySelectorAll(".surah-card").forEach((card) => {
       if (!nq) {
         card.hidden = false;
         return;
       }
-      const id = card.querySelector(".surah-num")?.textContent;
-      const s = surahs.find((x) => String(x.id) === id);
-      card.hidden = !(s && scoreSurah(s, nq) > 0);
+      const id = +card.querySelector(".surah-num")?.textContent;
+      const inHits = hits.some((r) => r.surah === id);
+      if (inHits) {
+        card.hidden = false;
+        return;
+      }
+      const s = surahs.find((x) => x.id === id);
+      const tokens = nq.split(" ").filter((t) => t.length >= 2);
+      card.hidden = !(s && fuzzyScoreSurah(s, nq, tokens) >= 40);
     });
   }
 
-  function update() {
+  async function update() {
     const q = input.value.trim();
-    results = searchSurahs(surahs, q);
+    const gen = ++searchGen;
+    if (q.length >= 2) {
+      dropdown.hidden = false;
+      dropdown.innerHTML = `<div class="search-loading">Searching…</div>`;
+    }
+    results = await smartSearch(surahs, q);
+    if (gen !== searchGen) return;
     activeIdx = 0;
     renderSearchDropdown(results, activeIdx);
-    filterGrid(q);
+    filterGrid(q, results);
   }
 
   function pick(idx) {
@@ -1212,6 +1381,8 @@ function bindSmartSearch(surahs) {
   input.addEventListener("focus", () => {
     if (input.value.trim()) update();
   });
+
+  ensureSearchIndex();
 }
 
 function resumeCardHtml(entry, surahs, { showLabel = false } = {}) {
@@ -1252,7 +1423,7 @@ function renderHome(surahs) {
       </section>` : ""}
       <div class="search-wrap home-search">
         <span class="search-icon" aria-hidden="true">⌕</span>
-        <input type="search" id="surah-search" class="search-input" placeholder="2:15 · Al-Baqarah · The Cow · البقرة…" autocomplete="off" spellcheck="false" enterkeyhint="go" />
+        <input type="search" id="surah-search" class="search-input" placeholder="mercy · رحم · 2:255 · Al-Baqarah…" autocomplete="off" spellcheck="false" enterkeyhint="go" />
         <div id="search-dropdown" class="search-dropdown" hidden role="listbox"></div>
       </div>
       <div class="surah-grid" id="surah-grid">${surahs.map((s) => surahCard(s)).join("")}</div>
