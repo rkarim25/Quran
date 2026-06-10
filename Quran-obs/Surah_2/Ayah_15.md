@@ -146,11 +146,13 @@ Allah throws their mockery back at them and leaves them wandering blindly in the
 
 ## AI Tafsir
 
-**What this ayah teaches:** For Allah has, in His forbearance and mercy, given them a long rope, but this is a provision for their being thrown into ridicule.
+**Essence** Allah answers the hypocrites' mockery with pure justice: respite, while they wander blind in their transgression.
 
-**Classical tafsir:** Ibn Kathir notes: The Hypocrites' Cunning and Deceit Allah said that when the hypocrites meet the believers, they proclaim their faith and pretend to be believers, loyalists and friends.
+**What it teaches** Tughyan — transgression bursting all limits, the word for floodwater rising past its bounds (69:11). Ya'mahun — wandering blind, no way out. Yamudduhum — He grants them respite (imla').
 
-**From the Sunnah:** As-Suddi reported that Ibn 'Abbas, Ibn Mas'ud and several other Companions of the Messenger of Allah ﷺ said that, They are mightily pleased with themselves in the belief that they can so easily make a fool of the Muslims and get away with it, while they are, in fact, only making a fool of themselves.
+**The scholars** Ibn 'Abbas, Ibn Mas'ud and other Companions (via As-Suddi): "He gives them respite"; Mujahid: He increases their deviation. Ibn Kathir: the punishment shares the deed's name (42:40) — the first act injustice, the second justice; by the scholars' consensus, Allah does not act out of joyful play. Ibn Jarir: it is unveiled on the Day of Resurrection, when the hypocrites beg for light and a wall shuts them out (57:13). Maarif ul-Quran: thinking they fool the Muslims, they fool only themselves, until the cup of iniquity is full.
+
+**Reflection** Forbearance is not safety — punishment is postponed "only so that they may increase in sinfulness" (3:178). Let respite turn you back before the cup is full.
 ## Personal Reflections
 
 

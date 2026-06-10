@@ -224,11 +224,13 @@ When they meet believers they say, "We believe." But alone with their evil allie
 
 ## AI Tafsir
 
-**What this ayah teaches:** Surely, Allah exacts revenge for certain evil acts with a punishment that is similar in nature to the act itself.
+**Essence** The hypocrite wears faith as a mask before the believers and unmasks among his devils — his mockery only summons Allah's just requital.
 
-**Classical tafsir:** Ibn Kathir notes: The Hypocrites' Cunning and Deceit Allah said that when the hypocrites meet the believers, they proclaim their faith and pretend to be believers, loyalists and friends.
+**What it teaches** The munafiqun professed iman to deceive the believers and share their gains; alone with their shayatin — devil-leaders among men and jinn — they confessed: "We are with you; we were only mocking." Allah answers mockery with mockery befitting His majesty — pure justice — and leaves them wandering blindly in tughyan, transgression past all limits.
 
-**From the Sunnah:** As-Suddi reported that Ibn 'Abbas, Ibn Mas'ud and several other Companions of the Messenger of Allah ﷺ said that, These verses expose their claim to be Muslims as false and deceitful, and show that they are only trying to be clever.
+**The scholars** Ibn 'Abbas — via Ad-Dahhak, echoed by ar-Rabi' bin Anas and Qatadah — glossed the boast: "We were mocking the Companions of Muhammad." Ibn Jarir sees Allah's mockery in the Resurrection-Day wall barring hypocrites from the believers' light, and in punishment postponed so sin deepens. Ibn Kathir relates the scholars' consensus: Allah never acts in joyful play — deed and requital share one name yet differ in reality. "He leaves them increasing": respite (Ibn 'Abbas, Ibn Mas'ud and other Companions, via As-Suddi); increasing deviation (Mujahid); hearts stamped and sealed, no way out (Ibn Jarir).
+
+**Reflection** Be in secret what you profess in company — the One you answer to witnesses both.
 ## Personal Reflections
 
 

@@ -98,11 +98,13 @@ They traded guidance for misguidance, but the trade brought no profit, and they 
 
 ## AI Tafsir
 
-**What this ayah teaches:** In summary, the statements that we have mentioned from the scholars of Tafsir indicate that the hypocrites deviate from the true guidance and prefer misguidance, substituting wickedness in place of righteousness. And they were not guided), meaning their trade did not succeed nor were they righteous or rightly guided throughout all this.
+**Essence** The hypocrites struck the worst bargain possible — selling guidance to buy misguidance — a trade that earned nothing and left them lost.
 
-**Classical tafsir:** Ibn Kathir notes: In summary, the statements that we have mentioned from the scholars of Tafsir indicate that the hypocrites deviate from the true guidance and prefer misguidance, substituting wickedness in place of righteousness.
+**What it teaches** The Qur'an names their choice a tijarah (commerce): huda (guidance) handed over as the price of dalalah (error). Maarif ul Quran sees the irony — bartering invaluable iman (faith) for worthless, even harmful kufr proves these "worldly-wise" men never understood even the art of trading.
 
-**From the Sunnah:** In addition, Ibn Jarir narrated that Qatadah commented on the Ayah,
+**The scholars** In Ibn Kathir, As-Suddi reports that Ibn 'Abbas and Ibn Mas'ud said they "pursued misguidance and abandoned guidance"; Mujahid: "they believed and then disbelieved"; Qatadah: "they preferred deviation to guidance" — like Thamud, who preferred blindness to guidance (41:17). Ibn Kathir reads these together: the hypocrites fall into several categories — some believed then disbelieved (63:3), others preferred deviation — all substituting wickedness for righteousness. Qatadah swore: "By Allah! I have seen them leaving guidance for deviation, leaving the Jama'ah (the community of the believers) for the sects, leaving safety for fear, and the Sunnah for innovation."
+
+**Reflection** Qatadah's oath turns the verse on us: guidance is rarely sold all at once, but in small exchanges — Sunnah for novelty, community for faction. Audit those trades before the ledger closes.
 ## Personal Reflections
 
 
