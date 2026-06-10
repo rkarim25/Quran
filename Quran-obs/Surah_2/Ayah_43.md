@@ -158,11 +158,15 @@ Establish salah, give zakat — the obligatory sharing of wealth to purify what 
 
 ## AI Tafsir
 
-**What this ayah teaches:** Zakah is not a tax levied by the State or society, but, in the terminology of the Shari'ah, means that portion of one's belongings which is set apart and spent in total accord with the injunctions of the Shari'ah.
+**Essence** Faith must become practice — prayer kept standing, wealth purified, worship joined.
 
-**Classical tafsir:** Ibn Kathir notes: Verse 43, in its literal connotation, provides an argument in favour of this view.
+**What it teaches** Iqamah means not merely offering salah but keeping it firmly established — at fixed hours, with all its conditions. Zakah, lexically "purification" and "growth," is no state tax but the portion Allah commands to be set apart. Maarif ul Quran reads "bow down" as metonymy for salah — and, since ruku' is peculiar to Islamic prayer, sees "those who bow" as the Ummah of Muhammad ﷺ: the Israelites invited into Islam.
 
-**From the Sunnah:** the Day of Judgment) as a true Muslim, should offer these (five) prayers regularly and steadfastly in a place where the call for the prayers is habitually made (i.e. (Sahih Muslim)
+**The scholars** Ibn Kathir relates from Muqatil: pray behind the Prophet ﷺ, pay zakah to him, bow with his Ummah. Many scholars saw here proof of congregational prayer for men; the jurists differed — wajib, or most-emphasized Sunnah — yet habitual neglect of jama'ah is a grave sin (Maarif ul Quran).
+
+**From the Sunnah** A blind Companion asked to pray at home; when he said he could hear the call, the Prophet ﷺ replied, "In that case, you must come to the mosque." (Muslim)
+
+**Reflection** Do not pray at the edge of the community — step into the row, and let the believers' bowing carry your heart with theirs.
 ## Personal Reflections
 
 

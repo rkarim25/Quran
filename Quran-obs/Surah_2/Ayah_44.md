@@ -132,11 +132,15 @@ Do you command others to righteousness and forget yourselves, though you recite 
 
 ## AI Tafsir
 
-**What this ayah teaches:** We should state that Allah is not criticizing the People of the Book for ordering righteousness, because enjoining good is a part of righteousness and is an obligation for the scholars.
+**Essence** Allah rebukes those who command others to righteousness (al-birr) while forgetting their own souls, even as the Book is on their tongues.
 
-**Classical tafsir:** Ibn Kathir notes: We should state that Allah is not criticizing the People of the Book for ordering righteousness, because enjoining good is a part of righteousness and is an obligation for the scholars.
+**What it teaches** Al-birr spans every act of obedience to Allah. Aimed first at the scholars of the Children of Israel, it condemns preaching piety while abandoning it.
 
-**From the Sunnah:** I will not say to a man, 'You are the best man,' even if he was my leader, after what I heard from the Messenger of Allah ﷺ.' They said, 'What did he say?' He said, 'I heard him say, (Musnad Ahmad) This Hadith was also recorded by Al-Bukhari and Muslim. (Sahih al-Bukhari, Sahih Muslim)
+**The scholars** Ibn 'Abbas: they forgot the Tawrah's covenant to accept His Messenger. Ibn Kathir reads the closing "will you not use reason?" as a call to wake from slumber, and rules enjoining and performing both required — neither cancels the other. Via Imam Malik, Sa'id ibn Jubayr: if only the faultless could counsel, none would remain — a false purity Hasan al-Basri called Satan's very wish.
+
+**From the Sunnah** A man who enjoined good without doing it is thrown into the Fire, circling with spilled intestines "just as the donkey goes around the pole," confessing: "I used to enjoin righteousness, but refrained from performing righteousness." (Imam Ahmad; also Al-Bukhari and Muslim)
+
+**Reflection** Let your own soul be the first audience of every truth you speak.
 ## Personal Reflections
 
 

@@ -203,11 +203,13 @@ Do not mix truth with falsehood or hide the truth while you know it.
 
 ## AI Tafsir
 
-**What this ayah teaches:** Verse 42 explicitly shows that it is not permissible to mix truth and falsehood together in such a way that the addressee falls into a confusion as to what the truth is, and that it is forbidden to conceal the truth because of fear or greed.
+**Essence** Allah forbids cloaking truth in falsehood and concealing the truth one knowingly holds.
 
-**Classical tafsir:** Ibn Kathir notes: Verse 42 explicitly shows that it is not permissible to mix truth and falsehood together in such a way that the addressee falls into a confusion as to what the truth is, and that it is forbidden to conceal the truth because of fear or greed.
+**What it teaches** Truth blended with falsehood leaves the hearer confused as to what the truth is; truth is concealed out of fear or out of greed (Maarif ul Quran).
 
-**From the Sunnah:** "What kind of man is the wisest among the Muslims?"
+**The scholars** Ibn Kathir: Allah forbade both and commanded the opposite — make the truth known and explain it. Ibn 'Abbas: "Do not mix the truth with falsehood and the facts with lies"; the concealed truth is their knowledge of the Messenger ﷺ, written in their own Books. Qatadah and al-Hasan al-Basri: do not mix Judaism and Christianity with Islam, knowing Allah's religion is Islam. In Darimi's Musnad, Abu Hazim names for Caliph Sulayman the best speech: "speaking the truth plainly and unreservedly before the man who can harm you in some way or from whom you expect a favour" — for Allah enjoined the 'ulama' to declare the truth, not conceal it.
+
+**Reflection** Abu Hazim, facing the one man who could harm or favour him, gave the truth whole and uncloaked — the speech this ayah asks of those who know.
 ## Personal Reflections
 
 

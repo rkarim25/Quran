@@ -214,11 +214,15 @@ Trust in what I have sent down, confirming what you already have. Do not be the 
 
 ## AI Tafsir
 
-**What this ayah teaches:** As for the question of taking a wage for teaching the verses of the Holy Qur'an or for reporting them correctly, verse 41 is not concerned with the matter.
+**Essence** Allah summons the Children of Israel: the Scripture in their hands testifies for the Qur'an, so the people of knowledge must not lead the way in denying it.
 
-**Classical tafsir:** Ibn Kathir notes: Verse 41 asks the Israelites not to be the first to deny the Holy Qur'an, although being a those who reject the truth is in itself the ultimate sin, whether one be the first or the last.
+**What it teaches** "Confirming what is with you" — in Ibn Kathir's gloss, the Tawrah and Injil. Trading Allah's ayat for "a small price" buys this world's minute, soon-ending lusts; the shield is taqwa of Allah alone.
 
-**From the Sunnah:** 'Israel' means, 'the servant of Allah.'
+**The scholars** Ibn 'Abbas: do not be the first to disbelieve "while you have more knowledge in it than other people." Abu al-'Aliyah: they found Muhammad's ﷺ description in their own books. Maarif ul Quran: the first denier also carries the sin of misleading all who follow his example, and the Ummah agrees: no money for concealing or twisting Allah's verses.
+
+**From the Sunnah** The Prophet ﷺ asked a group of Jews, "Do you know that Israel is Jacob?" They said, "Yes, by Allah," and he said, "O Allah! Be witness." (Abu Dawud At-Tayalisi)
+
+**Reflection** The clearer your knowledge of the truth, the heavier its trust — carry Allah's words; never sell them.
 ## Personal Reflections
 
 
