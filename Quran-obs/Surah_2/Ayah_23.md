@@ -410,13 +410,15 @@ If you doubt what We revealed to Our servant, produce a surah like it and call y
 
 ## AI Tafsir
 
-**Context:** (And this Qur'an is not such as could ever be produced by other than Allah (Lord of the heavens and the earth), but it is a confirmation of (the revelation) which was before it (i.e.
+**Essence** Allah answers doubt about His revelation with a single challenge: produce one surah like it, summoning every helper besides Him.
 
-**What this ayah teaches:** How can anyone be able to produce something like the Qur'an, when the Qur'an is the Word of Allah Who created everything?
+**What it teaches** Rayb is baseless doubt that a little reflection dispels (Raghib, cited in Maarif). "A surah" — indefinite — includes even the shortest. As verses 21-22 proved tawhid by deeds only Allah can do, this proves prophethood by speech only Allah can utter.
 
-**Classical tafsir:** Ibn Kathir notes: Therefore, the challenge to creation stands with regards to both the long and short Surahs, and there is no disagreement that I know of on this fact between the scholars of old and new.
+**The scholars** Ibn Kathir: "like it" means like the Qur'an — the view of Mujahid, Qatadah, at-Tabari, and per ar-Razi the majority. Ibn 'Abbas read "witnesses" as aids; Mujahid, eloquent men. "You can never do it" (2:24) is itself a miracle: Arabia's most eloquent, despite burning enmity, never answered — so, says Maarif, the miracle lives till the end of time.
 
-**From the Sunnah:** Allah challenged the Arab those who reject the truth both in Makkah and Al-Madinah several times, especially since they had tremendous hatred and enmity for the Prophet ﷺ and his religion.
+**From the Sunnah** "Every Prophet was given a miracle... What I was given is a revelation that Allah sent down to me. Yet, I hope that I will have the most following on the Day of Resurrection." (The Two Sahihs; wording of Muslim)
+
+**Reflection** When doubt whispers, open the Book — what no tongue has matched in fourteen centuries still speaks for the One who revealed it.
 ## Personal Reflections
 
 

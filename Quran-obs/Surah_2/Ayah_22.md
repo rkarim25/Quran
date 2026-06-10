@@ -234,11 +234,15 @@ He made the earth a place to settle for you and the sky a canopy; He sends rain 
 
 ## AI Tafsir
 
-**What this ayah teaches:** The actual birth and growth of the tree, and the putting forth of leaves, branches and fruits is the work of Divine Power, and of no one else.
+**Essence** He who made the earth your resting place, the sky a canopy, and feeds you by rain and fruit has no equal — worship Allah alone.
 
-**Classical tafsir:** Ibn Kathir notes: Employs the Arabic particle l` alla which indicates an expectation or hope, and is used on an occasion when it is not definite that a certain action or event would necessarily be actualized.
+**What it teaches** Four bounties no created being could supply: *firash* (the earth spread out — no denial of its roundness, Maarif notes), *bina'* (the sky a canopy), rain sent down, *rizq* (fruits as provision). So give no rival (*andad*) any share of His worship, "while you know."
 
-**From the Sunnah:** So call the Muslims with their names that Allah has called them: 'The Muslims, the believing servants of Allah.') (Sahih Muslim)
+**The scholars** Ibn Kathir titles this Tawhid al-Uluhiyyah: the Creator, Sustainer and Provider alone deserves worship; Ar-Razi and others read these ayat as proof of the Creator. Maarif ul-Quran: the farmer only removes hindrances — growth is Divine Power alone.
+
+**From the Sunnah** Ibn Mas'ud asked the Prophet ﷺ, "Which evil deed is the worst with Allah?" — "To take an equal with Allah, while He alone created you." (The Two Sahihs)
+
+**Reflection** Every harvest and every rainfall is a summons: let nothing take the place that belongs to Allah alone.
 ## Personal Reflections
 
 

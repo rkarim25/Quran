@@ -381,13 +381,15 @@ If you cannot — and you never will — then guard yourselves against the Fire 
 
 ## AI Tafsir
 
-**Context:** (And this Qur'an is not such as could ever be produced by other than Allah (Lord of the heavens and the earth), but it is a confirmation of (the revelation) which was before it (i.e.
+**Essence** Allah seals His challenge with a prophecy — "and you can never do it" — and commands the doubters to fear the Fire of people and stones, prepared for the disbelievers.
 
-**What this ayah teaches:** 'Prepared' means, it is 'kept' and will surely touch those who disbelieve in Allah and His Messenger ﷺ.
+**What it teaches** *Wa lan tafʿalū* is a miracle inside the challenge: how can words of the created resemble the Word of the Creator? The Fire's *waqūd* (fuel) is the very people who rejected it, together with stones.
 
-**Classical tafsir:** Ibn Kathir notes: Therefore, the challenge to creation stands with regards to both the long and short Surahs, and there is no disagreement that I know of on this fact between the scholars of old and new.
+**The scholars** Ibn Kathir: the challenge covers the shortest surah as much as the longest; the stones are giant sulfuric stones that burn hottest — or, it was reported, the idols worshipped besides Allah. Many of the Imams of the Sunnah read *uʿiddat* ("prepared and kept") as proof the Fire exists now. Maarif ul Quran: verses 21-22 proved Tauhid, these prove Risalah; *raib* is baseless doubt a little reflection dispels.
 
-**From the Sunnah:** Allah challenged the Arab those who reject the truth both in Makkah and Al-Madinah several times, especially since they had tremendous hatred and enmity for the Prophet ﷺ and his religion.
+**From the Sunnah** Ibn Mas'ud relates that the Companions heard the sound of a falling object and asked; the Prophet ﷺ said, "This is a stone that was thrown from the top of Jahannam seventy years ago, but only now reached its bottom" (Sahih Muslim). Abu Hurayrah narrates: "Every Prophet was given a miracle... What I was given is a revelation that Allah sent down to me. Yet, I hope that I will have the most following on the Day of Resurrection" (The Two Sahihs, wording of Muslim).
+
+**Reflection** Fourteen centuries on, the challenge stands unanswered — let that certainty turn doubt into taqwa before the Fire it warns of.
 ## Personal Reflections
 
 
