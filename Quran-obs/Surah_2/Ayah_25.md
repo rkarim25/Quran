@@ -229,11 +229,15 @@ Give good news to those who believe and do righteous deeds: they will have Garde
 
 ## AI Tafsir
 
-**What this ayah teaches:** And give glad tidings to those who believe and do righteous good deeds, that for them will be Gardens under which rivers flow (Paradise). Every time they will be provided with a fruit therefrom, they will say: "This is what we were provided with before," and they will be given things in resemblance (i.e.
+**Essence** Allah pairs the Fire's warning with glad tidings: faith joined to righteous deeds earns Gardens of flowing rivers, purified spouses, and bliss that never ends (khalidun).
 
-**Classical tafsir:** Ibn Kathir notes: Ibn Abi Talhah reported that Ibn 'Abbas said, "Purified from filth and impurity." Also, Mujahid said, "From menstruation, relieving the call of nature, urine, spit, semen and pregnancies." Also, Qatadah said, "Purified from impurity and sin." In another narration, he said, "From menstruation and pre…
+**What it teaches** This tiding is earned only when deeds join faith — though iman alone saves from eternal Fire, and even a sinful Muslim is finally brought out of it (Maarif). The fruits come mutashabihan, alike in look yet new in taste, so joy renews at every moment.
 
-**From the Sunnah:** Paradise and its other joys, the Holy Qur'an has employed only a metaphysical mode of expression in order to suggest spiritual bliss which, by its very nature, is intangible.
+**The scholars** Ibn Kathir: the Qur'an pairs threat with promise (Mathani); rivers run beneath Paradise's trees and rooms. Ibn 'Abbas: nothing there resembles this world "except in name." The spouses: "purified from filth and impurity" (Ibn 'Abbas); "purified from impurity and sin" (Qatadah). Maarif: these joys exist objectively, though not physically as we know it — their nature left to Allah.
+
+**From the Sunnah** "The rivers of Paradise spring from beneath hills, or mountains of musk." (Ibn Abi Hatim)
+
+**Reflection** Treat every sweetness here as only a name shared with what awaits — and let your deeds reach for the real thing.
 ## Personal Reflections
 
 

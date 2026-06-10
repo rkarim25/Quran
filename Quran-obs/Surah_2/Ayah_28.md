@@ -119,9 +119,13 @@ How can you reject Allah when you were lifeless and He gave you life, then He wi
 
 ## AI Tafsir
 
-**What this ayah teaches:** The second verse refers to the general blessings which are common to man and other creatures -- firstly, the earth and all that it contains and on which man's life immediately depends, and secondly, the skies with which life on earth is directly related.
+**Essence** Disbelief is indefensible: existence itself — granted from nothing — is wholly in Allah's power.
 
-**Classical tafsir:** Ibn Kathir notes: The first of these two verses refers to the blessings which are particular to the very being of man -- that is to say, he had no life before Allah gave him existence.
+**What it teaches** "How can you disbelieve?" is a rebuke evoking astonishment at denial's absurdity. You were amwat — lifeless — until Allah gave you life; He will cause you to die, raise you on Judgment Day, and return you to Him to answer for your deeds: two deaths and two lives, as the verse enumerates.
+
+**The scholars** Ibn Kathir: Allah testifies He exists — Creator and Sustainer with full authority over His servants. Ibn Jarir reports from 'Ata' that Ibn 'Abbas read "you were dead" as prior non-existence, pairing the ayah with 40:11. Maarif ul-Quran reads amwat as lifeless particles Allah knit into man, notes the Qur'an counts rejecting the Prophet ﷺ as denying Allah Himself, and calls even death a blessing — the door to the perpetual life after which there is no death.
+
+**Reflection** Let gratitude to the One who gave you life itself ripen into obedience to Him.
 ## Personal Reflections
 
 

@@ -250,11 +250,15 @@ who break Allah's covenant after affirming it, sever what He ordered joined, and
 
 ## AI Tafsir
 
-**What this ayah teaches:** And as for those who believe, they know that it is the truth from their Lord, but as for those who disbelieve, they say: "What did Allah intend by this parable?" By it He misleads many, and many He guides thereby.
+**Essence** Those who break Allah's covenant after sealing it, sever what He ordered joined, and corrupt the earth are the losers.
 
-**Classical tafsir:** Ibn Kathir notes: Allah will keep firm those who believe, with the word that stands firm in life of this world (i.e.
+**What it teaches** Among its meanings: the 'ahd is Allah's covenant upon creation — obey Him, shun what He prohibited — renewed in His Books and Messengers; ignoring it breaks it.
 
-**From the Sunnah:** Breaking Allah's covenant in this case occured when the People of the Book rejected the Prophet ﷺ after they knew the truth about him, and they hid this truth from people, even though they swore to Allah that they would do otherwise. These miracles testified to the truth of Allah's Messengers.
+**The scholars** Qatadah: the severed bond is kinship (Ibn Jarir's preference), though it extends to all Allah commanded to nurture. Muqatil bin Hayyan ("very good," says Ibn Kathir): it embraces every denier of Allah's Oneness after His proofs. Ibn 'Abbas: of non-Muslims, "loser" means disbelief; of Muslims, sin.
+
+**From the Sunnah** "Five animals are Fawasiq, and they must be killed during Ihram and otherwise: the crow, the kite, the scorpion, the mouse and the rabid dog" — the fasiq slips the bounds of obedience as a date "fasaqat" slips its skin, as the mouse leaves its den for mischief. (The Two Sahihs)
+
+**Reflection** Guard what Allah has ordered to be joined — your pledge to Him, your kin, your neighbour — lest, merchant-like, you trade away your share of His mercy when you need it most.
 ## Personal Reflections
 
 

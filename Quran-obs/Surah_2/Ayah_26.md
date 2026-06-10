@@ -350,11 +350,15 @@ Allah is not ashamed to set forth a parable — even of a mosquito or what is sm
 
 ## AI Tafsir
 
-**What this ayah teaches:** Verily, Allah is not ashamed to set forth a parable even of a mosquito or so much more when it is bigger (or less when it is smaller) than it.
+**Essence** No creature is too small for Allah's purposes: the scorned mosquito-parable is a test that divides hearts.
 
-**Classical tafsir:** Ibn Kathir notes: The reference to the disavowing of one's covenant with Allah indicates that the infringement of a contract or agreement made with one's fellow men is a grave sin, which may have the consequence of depriving a man of the ability to do good deeds.
+**What it teaches** Allah does not shy away from striking a parable of a mosquito or what is beyond it — bigger or smaller. Believers know it is the truth from their Lord; by it Allah guides many and leaves many to stray — and leaves none astray except the *fasiqin*.
 
-**From the Sunnah:** Breaking Allah's covenant in this case occured when the People of the Book rejected the Prophet ﷺ after they knew the truth about him, and they hid this truth from people, even though they swore to Allah that they would do otherwise. These miracles testified to the truth of Allah's Messengers.
+**The scholars** Ibn Kathir relates from Ibn 'Abbas and Ibn Mas'ud that it answered the hypocrites' mockery of earlier parables; the *fasiq* here, he notes, is the disbeliever. Mujahid: believers accept every parable, great or small; Ibn Kathir adds that Allah “adds guidance to their guidance.” Maarif ul-Quran roots *fisq* in “straying beyond a limit” and ties the disavowed covenant to “Am I not your Lord?” (7:172).
+
+**From the Sunnah** No Muslim is harmed by a thorn, *fama fawqaha* (or something larger), but a good deed will be written for him and an evil deed will be erased from his record. (Muslim)
+
+**Reflection** Receive even the smallest word from your Lord as truth that draws you nearer — never as an excuse to turn away.
 ## Personal Reflections
 
 
