@@ -127,11 +127,13 @@ In truth, they are the ones spreading corruption — but they do not perceive it
 
 ## AI Tafsir
 
-**What this ayah teaches:** This Ayah means that the hypocrites' behavior, and their claim that it is for peace, is itself mischief, although in their ignorance, they do not see it to be mischief.
+**Essence** Allah unmasks the hypocrites: their self-styled peacemaking is the corruption they deny — la yash'urun, they cannot perceive it.
 
-**Classical tafsir:** Ibn Kathir notes: This Ayah means that the hypocrites' behavior, and their claim that it is for peace, is itself mischief, although in their ignorance, they do not see it to be mischief.
+**What it teaches** Fasad is not only open crime — in the salaf's reading it is disbelief and disobedience, faith's quiet undoing beneath noble slogans. Conformity to revelation, not self-description, makes the reformer.
 
-**From the Sunnah:** If the hypocrite remains a those who reject the truth (rather than pretending to be Muslim), the evil that results from him would be less. (Sahih Muslim) But all this while they had been freely giving vent to their malice and envy by conspiring with the enemies of the Muslims.
+**The scholars** Ibn 'Abbas and Ibn Mas'ud: this mischief is "disbelief and acts of disobedience." Abu al-'Aliyah: peace on earth and in the heavens is ensured through obedience to Allah. Ibn Jarir: they doubt Allah's religion, lie to believers, aid disbelievers — "while thinking that they are doing righteous work on earth." Ibn Kathir: the peacemaking claim is itself the mischief. Maarif ul-Quran: innama ("we are nothing but reformers") claims exclusivity, yet only deeds guided by the Shari'ah reform — Allah alone "knows the one who makes mischief distinct from him who promotes good" (2:220).
+
+**Reflection** Weigh your "good works" against obedience to Allah, not slogans — unperceived corruption begins where self-scrutiny ends.
 ## Personal Reflections
 
 

@@ -136,13 +136,13 @@ They try to deceive Allah and the believers, but they only deceive themselves wi
 
 ## AI Tafsir
 
-**Context:** The revelations about the characteristics of the hypocrites were revealed in Al-Madinah, this is because there were no hypocrites in Makkah.
+**Essence** Every mask the hypocrite wears before Allah and the believers deceives, in the end, only his own soul — and he does not even perceive it.
 
-**What this ayah teaches:** They think that by doing this, they will mislead Allah, or that the statements they utter will help them with Allah, and this is an indication of their total ignorance.
+**What it teaches** Nifaq is outward conformity concealing inner evil. Ibn Kathir divides it into nifaq of creed — eternal Hell — and nifaq of deed, a major sin. That the hypocrites imagined words could mislead Allah is, he says, an indication of their total ignorance.
 
-**Classical tafsir:** Ibn Kathir notes: This Ayah means that the hypocrites utter these statements only when they meet you, not because they actually believe what they are saying.
+**The scholars** On this passage (2:8-9, one unit in Ibn Kathir), Ibn 'Abbas: "the hypocrites among the Aws and Khazraj and those who behaved as they did" — so too Abu Al-'Aliyah, Al-Hasan, Qatadah and As-Suddi. Ibn Jurayj, on the parallel 4:142 cited here by Ibn Kathir: they pronounce the shahadah "seeking to ensure the sanctity of their blood and money, all the while concealing disbelief." Qatadah: the hypocrite "changes his mind just like a ship that moves about whenever a wind blows." Maarif ul Quran: Allah equated attempting to deceive His Prophet ﷺ and the Muslims with an attempt to deceive Allah Himself.
 
-**From the Sunnah:** Afterwards, the Messenger of Allah ﷺ migrated to Al-Madinah, where the Ansar from the tribes of Aws and Khazraj resided. (Sahih Muslim) Also, Ibn Abi Hatim narrated that Ibn Jurayj commented on Allah's statement,
+**Reflection** Make your inside match your outside — whatever is hidden from people lies fully open before Allah.
 ## Personal Reflections
 
 
