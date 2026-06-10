@@ -281,9 +281,15 @@ Or like those caught in a rainstorm from the sky — darkness, thunder, and ligh
 
 ## AI Tafsir
 
-**Context:** Consequently, there are several types of people. There are the believers whom the first four Ayat (2:2-5) in Surat Al-Baqarah describe. There are the those who reject the truth who were described in the next two Ayat.
+**Essence** A traveler in a night storm — fingers in his ears, walking by each flash, frozen in the dark: the wavering hypocrite.
 
-**What this ayah teaches:** Ibn 'Abbas said, "Allah is able to punish or pardon His servants as He wills." Ibn Jarir commented, "Allah only described Himself with the ability to do everything in this Ayah as a warning to the hypocrites of His control over everything, and to inform them that His ability completely encompasses them and that He is able to take away their hearing and sight." Ibn Jarir and sev…
+**What it teaches** Ibn Kathir relates: the sayyib is rain; its darknesses, doubt, disbelief and hypocrisy; its thunder, fear shocking the hypocrite's heart; its lightning, iman's brief glimmer. Plugged ears avail nothing against Allah's encompassing will and decree.
+
+**The scholars** Ibn Mas'ud, Ibn 'Abbas, Mujahid and Qatadah: sayyib means rain; the hesitant hypocrite is Ibn Kathir's own framing. Maarif ul-Quran: they saw Islam's truth but worldly interests kept them hesitating. Ibn Jarir: Allah declares His power as a warning.
+
+**From the Sunnah** Hearts are four — the believer's, polished and lit; the disbeliever's, sealed; the pure hypocrite's, inverted; the wrapped, ruled by whichever prevails, faith or hypocrisy (Imam Ahmad). Lying, broken covenants, betrayed trusts — hypocrisy in deed, until given up (The Two Sahihs).
+
+**Reflection** The hypocrite walks only by borrowed light. Ask Allah for a lamp of your own — faith that keeps walking in the dark.
 ## Personal Reflections
 
 

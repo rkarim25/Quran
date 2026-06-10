@@ -305,9 +305,15 @@ The lightning almost snatches their sight. Whenever it flashes they walk in its 
 
 ## AI Tafsir
 
-**Context:** Consequently, there are several types of people. There are the believers whom the first four Ayat (2:2-5) in Surat Al-Baqarah describe. There are the those who reject the truth who were described in the next two Ayat.
+**Essence** A flash of faith lights the hypocrite's path for a step, then darkness halts him — while the power of Allah, Qadir over all things, encompasses him entirely.
 
-**What this ayah teaches:** On the other hand were those who did recognize the truth of Islam, and sometimes wished to be genuine Muslims, but worldly interests would not allow them to do so, and they remained in a perpetual state of hesitation and doubt - they have been likened to the men caught in a thunderstorm who move forward a step or two when there is a flash of lightning, but, when it is over, aga…
+**What it teaches** The barq is the light of iman that flares at times in the hypocrite's heart; the darkness, his doubt and hypocrisy (Ibn Kathir).
+
+**The scholars** Ibn 'Abbas (through Muhammad bin Ishaq): they recognize the truth and speak it uprightly, but reverting to disbelief they fall back into confusion — the view Ibn Kathir calls most correct. Ibn 'Abbas and Ad-Dahhak relate that the hypocrite's light is extinguished at the Sirat. The threat came "because they abandoned the truth after they had knowledge in it" (Ibn 'Abbas); His ability completely encompasses them (Ibn Jarir).
+
+**From the Sunnah** Lying in speech, treachery in covenants, betrayal of trusts — all three make a pure hypocrite; even one is a trait of hypocrisy until he gives it up (the Two Sahihs). The hearts are four: the believer's polished and lamp-lit, the disbeliever's sealed, the pure hypocrite's overturned, and a wrapped heart where faith and hypocrisy contend until one prevails (Imam Ahmad).
+
+**Reflection** Walk by faith in the dark, not only when it flashes — and ask Allah to keep your light perfect until the crossing.
 ## Personal Reflections
 
 

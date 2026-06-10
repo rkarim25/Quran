@@ -128,11 +128,13 @@ Their likeness is someone who kindled a fire; when it lit up what was around the
 
 ## AI Tafsir
 
-**What this ayah teaches:** On the one hand were those in whom disbelief had taken deep roots, so that they had little inclination towards Islam, but pretended to be Muslims for worldly motives - the Holy Qur'an compares them to the man who, having found light, again loses it, and is left in darkness.
+**Essence** Hypocrisy is borrowed light: it flares briefly, then Allah Himself takes it away, leaving the hypocrite in the darkness he purchased.
 
-**Classical tafsir:** Ibn Kathir notes: This parable indicates that the hypocrites first believed, then disbelieved, just as Allah stated in other parts of the Qur'an.
+**What it teaches** Allah likens the hypocrites to a man whose fire lights up his surroundings, then dies. The nur stripped from them is the faith they professed; the zulumat left behind are layered darknesses, for they bought misguidance with guidance.
 
-**From the Sunnah:** On the one hand were those in whom disbelief had taken deep roots, so that they had little inclination towards Islam, but pretended to be Muslims for worldly motives - the Holy Qur'an compares them to the man who, having found light, again loses it, and is lef…
+**The scholars** Ibn Kathir explains: Allah removed what benefits them — the light — and left what harms them: darkness and smoke, "their doubts, disbelief and hypocrisy." He relates that the parable indicates they first believed, then disbelieved, and cites the Qur'an: "Verily, it is not the eyes that grow blind, but it is the hearts which are in the breasts that grow blind" (22:46). Maarif ul-Quran adds: this simile is for those whose disbelief took deep root yet who pretended Islam for worldly motives — a warning that they are not beyond Allah's power.
+
+**Reflection** Guard the light of faith Allah has kindled in you; never trade it for a worldly gain that ends in darkness.
 ## Personal Reflections
 
 
