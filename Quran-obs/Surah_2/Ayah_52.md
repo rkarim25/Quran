@@ -80,9 +80,13 @@ Even then We forgave you, so that you might show shukr — gratitude in word and
 
 ## AI Tafsir
 
-**What this ayah teaches:** And (remember) when We appointed for Musa (Moses) forty nights, and (in his absence) you took the calf (for worship), and you were Zalimun (polytheists and wrongdoers)(51)Then after that We forgave you so that you might be grateful (52)And (remember) when We gave Musa the Scripture (the Tawrah)) and the criterion (of right and wrong) so that you may be guided aright .
+**Essence** Even after the calf, Allah pardoned the people of Musa — 'afawna, "We pardoned you" — so that they might show shukr.
 
-**Classical tafsir:** Ibn Kathir notes: In the present context it does not mean that Allah had or could have any doubt or misgiving about this or any other matter; what the word implies here is just that when a man receives a pardon, the onlookers may expect him to feel grateful.
+**What it teaches** The pardon followed their taking the calf for worship in Musa's absence — for which 2:51 names them Zalimun, wrongdoers. Pardon after such a wrong is itself a favor to be remembered, and its stated aim is shukr: gratitude in word and action.
+
+**The scholars** Ibn Kathir: it came after the forty nights appointed for Musa by his Lord — thirty completed with ten (7:142) — and after Allah delivered Israel from Fir'awn and brought them safely across the sea. Maarif ul-Quran adds two keys: forgiveness came only after their tawbah, recounted in verse 54; and la'alla ("so that you may") signals expectation, never any doubt in Allah — when a man receives a pardon, the onlookers may expect him to feel grateful.
+
+**Reflection** Receive every pardon — divine or human — as a summons to thank the One who effaces faults.
 ## Personal Reflections
 
 

@@ -184,11 +184,15 @@ Remember when We saved you from Pharaoh's people, who afflicted you with terribl
 
 ## AI Tafsir
 
-**What this ayah teaches:** We should state here that 'Pharaoh' (Fir'awn) is a title that was given to every disbelieving king who ruled Egypt, whether from the 'Amaliq (Canaanites) or otherwise, just as Caesar (Qaysar) is the title of the disbelieving kings who ruled Rome and Damascus.
+**Essence** Allah reminds the Children of Israel: He delivered them from the people of Pharaoh — "and in that was a great trial (balā') from your Lord."
 
-**Classical tafsir:** Ibn Kathir notes: Imam Ahmad reported that Ibn 'Abbas said that the Messenger of Allah came to Al-Madinah and found that the Jews were fasting the day of 'Ashura'. What the verse refers to as "a great trial" is either the slaughter of the sons - which was a calamity, and it is the quality of patience that is tested in a calamity - or the deliverance from the people of the Pharaoh - which was a blessing, and it is the…
+**What it teaches** Ibn Kathir notes "Fir'awn" is the title of Egypt's disbelieving kings; his people slaughtered the Israelites' sons and spared their women.
 
-**From the Sunnah:** that the Messenger of Allah came to Al-Madinah and found that the Jews were fasting the day of 'Ashura'.
+**The scholars** Ibn Kathir relates a report that a dream — fire from Bayt al-Maqdis, his fall by a man of Israel — drove Pharaoh to kill the newborn males and impose humiliating labor. Ibn Jarir: the saving itself was a great blessing; Ibn Kathir adds that blessing, like hardship, carries a test (21:35). Maarif ul-Quran: the trial is either the slaughter — testing ṣabr — or the deliverance — testing shukr.
+
+**From the Sunnah** Finding the Jews of Madinah fasting 'Ashura' — the day Allah saved the Children of Israel — the Prophet ﷺ said, "I have more right to Musa than you have," then fasted it and ordered its fast, kept since as a recommended sunnah. (Al-Bukhari, Muslim, An-Nasa'i and Ibn Majah)
+
+**Reflection** Meet hardship with ṣabr and rescue with shukr — every state returns you to your Lord.
 ## Personal Reflections
 
 

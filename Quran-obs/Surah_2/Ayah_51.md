@@ -100,9 +100,13 @@ And when We appointed forty nights for Moses, then you took the calf for worship
 
 ## AI Tafsir
 
-**What this ayah teaches:** And (remember) when We appointed for Musa (Moses) forty nights, and (in his absence) you took the calf (for worship), and you were Zalimun (polytheists and wrongdoers)(51)Then after that We forgave you so that you might be grateful (52)And (remember) when We gave Musa the Scripture (the Tawrah)) and the criterion (of right and wrong) so that you may be guided aright .
+**Essence** While Musa kept his forty-night appointment with Allah, the calf became a god among his people — the swiftest betrayal after the greatest rescue.
 
-**Classical tafsir:** Ibn Kathir notes: Verse 51 refers to other incidents in the same story.
+**What it teaches** Ittakhadhtum — "you took" — indicts them all as ẓālimūn: for ẓulm, Maarif ul-Quran explains, is putting a thing in other than its proper place, and idolatry does exactly that with worship itself.
+
+**The scholars** Ibn Kathir reads the forty through 7:142 — thirty nights completed by ten — and notes the verse that follows: Allah forgave them, that they might be grateful. Maarif ul-Quran adds: Musa fasted all forty on Mount Tur and was granted the Tawrah, while below Samiri fashioned the calf and the ignorant among them worshipped it.
+
+**Reflection** When rescue is fresh and guidance feels delayed, guard the heart — it is quickest then to hand its worship to something of its own making.
 ## Personal Reflections
 
 

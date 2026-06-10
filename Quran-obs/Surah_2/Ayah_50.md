@@ -150,11 +150,15 @@ And when We parted the sea for you, saved you, and drowned Pharaoh's people whil
 
 ## AI Tafsir
 
-**What this ayah teaches:** We should state here that 'Pharaoh' (Fir'awn) is a title that was given to every disbelieving king who ruled Egypt, whether from the 'Amaliq (Canaanites) or otherwise, just as Caesar (Qaysar) is the title of the disbelieving kings who ruled Rome and Damascus.
+**Essence** Allah made the Children of Israel eyewitnesses to their rescue and their enemy's end.
 
-**Classical tafsir:** Ibn Kathir notes: Imam Ahmad reported that Ibn 'Abbas said that the Messenger of Allah came to Al-Madinah and found that the Jews were fasting the day of 'Ashura'.
+**What it teaches** Faraqnā bikumu l-baḥra — "We parted the sea for you": rescue and judgment in one stroke — wa-antum tanẓurūna, "while you were watching" — leaving no doubt that it was Allah who had saved them.
 
-**From the Sunnah:** that the Messenger of Allah came to Al-Madinah and found that the Jews were fasting the day of 'Ashura'. (Musnad Ahmad) So the Messenger of Allah ﷺ fasted that day and ordered that it be fasted. (Sahih al-Bukhari, Sahih Muslim)
+**The scholars** Ibn Kathir: Fir'awn — the title of every disbelieving king of Egypt, as "Caesar" was of Rome and Damascus — pursued them after their escape with Musa; Allah drowned the pursuers, "bringing relief to your hearts and humiliation to your enemy." Maarif ul-Quran: this proves that miracles do occur at the hands of prophets.
+
+**From the Sunnah** In Madinah the Prophet ﷺ found the Jews fasting 'Ashura', "a good day during which Allah saved the Children of Israel from their enemy," a day Musa fasted. He said, "I have more right to Musa than you have," fasted it, and ordered that it be fasted. (Imam Ahmad; Al-Bukhari, Muslim, An-Nasa'i, Ibn Majah)
+
+**Reflection** When every path seems sealed, remember the sea that split — and answer Allah's deliverance with gratitude.
 ## Personal Reflections
 
 
