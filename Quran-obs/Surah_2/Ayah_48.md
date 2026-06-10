@@ -217,11 +217,13 @@ Guard yourselves against the Day when no soul will avail another, no intercessio
 
 ## AI Tafsir
 
-**What this ayah teaches:** And fear a Day (of Judgement) when a person shall not avail another, nor will intercession be accepted from him, nor will compensation be taken from him, nor will they be helped . No repeal or ransom will be accepted for them, all courtesy towards them will have ceased, along with any helpful intercession.
+**Essence** Taqwa of the Day of Resurrection — every soul stands alone before its Lord; every worldly refuge fails.
 
-**Classical tafsir:** Ibn Kathir notes: As for Allah giving preference to the Israelites "over the worlds", the phrase means that they were given preference only in certain matters, or only over a large part of men - for example, over the contemporaries of the earlier Israelites.
+**What it teaches** Ittaqu — guard yourselves — against a Day when no soul pays another's dues, no 'adl (ransom) is taken — not the earth's fill of gold (3:91) — no patron rises to help, and no shafa'ah is accepted for those without iman.
 
-**From the Sunnah:** On the basis of verse 48, the Mu'tazilah and some other groups of a more recent origin have denied the possibility of all intercession in favour of Muslims.
+**The scholars** Ibn Kathir: neither father nor son avails the other (31:33); lineage and masters profit nothing for one who rejected His Messenger ﷺ. Ibn Jarir: judgment that Day belongs to the Most Great, the Most Just. Maarif ul Quran (Bayan al-Qur'an): the verse denies intercession only to those without iman — answering the Mu'tazilah, described there as denying all intercession for Muslims.
+
+**Reflection** Stand before Allah in obedience now, so you need not stand helpless and alone then.
 ## Personal Reflections
 
 

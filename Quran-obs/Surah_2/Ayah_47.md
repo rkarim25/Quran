@@ -114,11 +114,15 @@ O Children of Israel — remember My favours to you and that I preferred you abo
 
 ## AI Tafsir
 
-**What this ayah teaches:** Verse 47 asks the Israelites to call to their minds the blessing of Allah, so that the recognition of the benefits they have received may induce them to be thankful to Allah and thus to obey Him. Reminding the Children of Israel that They were preferred above the Other Nations Allah reminds the Children of Israel of the favors that He granted their fathers and grandfathers, how He showed preferenc…
+**Essence** Allah summons the Children of Israel to remember His favor (ni'mah) and how He preferred them — an honor the scholars read as over the nations of their age.
 
-**Classical tafsir:** Ibn Kathir notes: As for Allah giving preference to the Israelites "over the worlds", the phrase means that they were given preference only in certain matters, or only over a large part of men - for example, over the contemporaries of the earlier Israelites.
+**What it teaches** Maarif ul Quran: to "remember" (udhkuru) a favor is to let recognition ripen into thankfulness, then obedience. The blessing reached the forefathers, yet the Jews of the Prophet's ﷺ time are addressed — children usually partake of the benefits flowing from a father's favor.
 
-**From the Sunnah:** On the basis of verse 48, the Mu'tazilah and some other groups of a more recent origin have denied the possibility of all intercession in favour of Muslims.
+**The scholars** Abu Al-'Aliyah — echoed by Mujahid, Qatadah and others — said it means the kingship, Messengers and Books granted them over the kingdoms of their time, "for every period there is a nation." Ibn Kathir adds: the Ummah of Muhammad ﷺ is better still (3:110).
+
+**From the Sunnah** "You (Muslims) are the seventieth nation, but you are the best and most honored of them according to Allah." (the Musnad and Sunan Collections)
+
+**Reflection** Count the favors — honor from Allah is a trust to answer, not a rank to rest on.
 ## Personal Reflections
 
 

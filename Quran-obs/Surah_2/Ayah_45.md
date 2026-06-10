@@ -148,13 +148,15 @@ Seek help through sabr — steadfast endurance that keeps you upright — and th
 
 ## AI Tafsir
 
-**Context:** (Recite (O Muhammad ﷺ) what has been revealed to you of the Book (the Qur'an), and perform As-Salah. Verily, As-Salah (the prayer) prevents from Al-Fahsha' (i.e.
+**Essence** When obedience grows heavy, Allah commands help through sabr and salah — a burden on all except al-khashi'in.
 
-**What this ayah teaches:** Al-Qurtubi and other scholars commented, "This is why Ramadan is called the month of patience," as is mentioned in the Hadith literature.
+**What it teaches** Sabr — fasting, by one report (Muqatil bin Hayan, with the like from Mujahid), or refraining from Allah's prohibitions, 'Umar's "better patience" (via Ibn Abi Hatim) — and salah are Allah's appointed means of help. "It is heavy": the prayer (Mujahid; Ibn Jarir's choice), or the whole counsel of patience and prayer (Ibn Kathir).
 
-**Classical tafsir:** Ibn Kathir notes: On the other hand, the word "Khudu`"refers to the bodily posture which shows modesty and humility - for example, the Holy Qur'an says: "So their necks will stay humbled to it".
+**The scholars** Ibn Kathir: certainty of meeting and returning to Allah makes obedience easy. Ibn 'Abbas (via Ibn Abi Talhah): the khashi'in are "those who believe in what Allah has revealed."
 
-**From the Sunnah:** Also, Ibn Abi Hatim narrated that 'Umar bin Al-Khattab said, "There are two types of patience: good patience when the disaster strikes, and a better patience while avoiding the prohibitions of Allah." Ibn Abi Hatim said that Al-Hasan Al-Basri was reported to h…
+**From the Sunnah** It is related that the Prophet ﷺ said, "The Salah simply means self-abasement and humility" (Maarif ul Quran, no collection named). And in the Sahih, Allah will say to him who never thought he would meet Him: "This Day, I will forget you, just as you forgot Me" — requital in kind: abandonment, not a lapse in His knowledge.
+
+**Reflection** When prayer feels heavy, do not lighten the prayer — humble the heart that carries it.
 ## Personal Reflections
 
 

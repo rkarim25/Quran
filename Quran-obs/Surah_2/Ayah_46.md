@@ -148,11 +148,15 @@ who are certain they will meet their Rabb and that to Him they will return.
 
 ## AI Tafsir
 
-**Context:** (Recite (O Muhammad ﷺ) what has been revealed to you of the Book (the Qur'an), and perform As-Salah. Verily, As-Salah (the prayer) prevents from Al-Fahsha' (i.e.
+**Essence** Prayer is heavy — light only for hearts certain of meeting their Lord.
 
-**What this ayah teaches:** And seek help in patience and As-Salat (the prayer) and truly, it is extremely heavy and hard except for Al-Khashi'in.) (46 (They are those) who are certain that they are going to meet their Lord, and that unto Him they are going to return .
+**What it teaches** Yazunnuna comes from zann, "to suppose" — yet it means certainty here; Ibn Jarir: the Arabs call sure knowledge and doubt alike zann. That certainty of the return and the reckoning, Ibn Kathir says, makes obedience easy and prohibitions easy to leave.
 
-**Classical tafsir:** Ibn Kathir notes: On the other hand, the word "Khudu`"refers to the bodily posture which shows modesty and humility - for example, the Holy Qur'an says: "So their necks will stay humbled to it".
+**The scholars** Ibn 'Abbas: the khashi'in are "those who believe in what Allah has revealed." Maarif ul-Quran: khushu' — humility before Allah's majesty and one's own smallness — is rooted in the heart, not achieved by posture alone; 'Umar told a bowed youth: "Raise your head! Humbleness of heart is in the heart."
+
+**From the Sunnah** In the Sahih: on the Day of Resurrection Allah will ask a servant He had honored, "Did you have Zann (think) that you will meet Me?" He will say no. "This Day, I will forget you, just as you forgot Me" — requital in kind, as in "They have forgotten Allah, so He has forgotten them" (9:67), not a lapse in His knowledge.
+
+**Reflection** Carry the meeting in your heart; the heaviest duty turns light.
 ## Personal Reflections
 
 
