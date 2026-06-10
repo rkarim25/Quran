@@ -184,11 +184,15 @@ They said, "Glory be to You — we have no knowledge except what You taught us. 
 
 ## AI Tafsir
 
-**What this ayah teaches:** Verily You are the Knower, the Wise) meaning, Allah is knowledgeable of everything, Most Wise about His creation, and He makes the wisest decisions, and He teaches and deprives whom He wills from knowledge.
+**Essence** Faced with what they could not answer, the angels glorified Allah and handed knowledge back to its Owner.
 
-**Classical tafsir:** Ibn Kathir notes: Adam over the Angels Allah stated the virtue of Adam above the angels, because He taught Adam, rather than them, the names of everything.
+**What it teaches** *Subhanaka* exalts Allah above every deficiency. No creature gains any of His knowledge except by His permission: He is *al-'Alim*, Knower of everything, and *al-Hakim*, perfect in wisdom and justice, teaching whom He wills and withholding from whom He wills.
 
-**From the Sunnah:** intercede for us with your Lord, so that he relieve us from this gathering place?' On that Adam will reply, 'I cannot do what you have asked'. (Sahih Muslim, Sunan Ibn Majah)
+**The scholars** Ibn Kathir: Allah told the angels that, unable to name what stood before them, they knew even less of what would unfold on earth. Maarif ul Quran notes Allah said “Tell Me” to the angels but “Tell them” to Adam — teacher and pupils — and records Imam al-Ash'ari's inference: language is Allah's creation, not man's invention.
+
+**From the Sunnah** On the Day of Resurrection the believers will seek Adam's intercession: “Allah created you with His Own Hand, ordered the angels to prostrate for you, and taught you the names of everything” — until the matter rests with Muhammad ﷺ. (Sahih al-Bukhari; also Muslim, An-Nasa'i, Ibn Majah)
+
+**Reflection** When you reach the edge of what you know, answer as the angels did — with glorification, not pretense.
 ## Personal Reflections
 
 

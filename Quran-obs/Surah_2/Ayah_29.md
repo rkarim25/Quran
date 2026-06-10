@@ -186,11 +186,15 @@ He is the One who created for you everything on earth, then turned to the heaven
 
 ## AI Tafsir
 
-**What this ayah teaches:** So, the use of everything is essentially unlawful unless an explicit statement in the Holy Qur'an or the Hadith, or an argument based on them establishes the use of a thing as legitimate.
+**Essence** A proof of Allah's power: everything in the earth, a gift created for you; the heaven, fashioned into seven — His knowledge encompassing it all.
 
-**Classical tafsir:** Ibn Kathir notes: In recounting the blessings which man has received from Allah, verse 29 refers to Allah having created for man "all that the earth contains." This small phrase comprehends all kinds of benefits which accrue to him from the earth and its produce.
+**What it teaches** *Khalaqa lakum* — "created for you" — embraces every benefit the earth yields, seen or unseen. *Istawa*, as Ibn Kathir and Maarif ul Quran explain, is turning toward with a firm decision nothing can hinder: seven heavens were effortless — "Should not He Who has created know?" (67:14)
 
-**From the Sunnah:** Sahih Al-Bukhari records that when Ibn 'Abbas was question about this matter, he said that the earth was created before heaven, and the earth was spread out only after the creation of the heaven. (Sahih al-Bukhari) This shows that the opinion of the ancient Greek astronomers and some Muslim philosophers, who used to speak of nine heavens, was no more than a conjecture.
+**The scholars** Ibn Kathir: earth first, then heaven, as a building rises from its lower floors. Maarif ul Quran records the jurists' debate over *lakum*: are things permissible (mubah) by default until the Shari'ah forbids them?
+
+**From the Sunnah** Ibn 'Abbas — a Companion's athar in Sahih al-Bukhari — said the earth was created before heaven, and spread out (daha) only after it.
+
+**Reflection** Ibn 'Ata': the universe serves you so you may serve Allah — what was created for you will surely reach you; do not, in worrying over it, forget the One for whom you were created.
 ## Personal Reflections
 
 

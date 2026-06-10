@@ -338,11 +338,15 @@ When your Rabb said to the angels, "I am placing on earth a successive human aut
 
 ## AI Tafsir
 
-**What this ayah teaches:** They thought that they themselves were more suited to perform this function, as the nature of angels is wholly good, no evil deed can possibly come out of them, they are totally obedient to Allah, and should hence be more capable of managing the affairs of the world.
+**Essence** Before creating man, Allah told the angels He would place a khalifah — a successive human authority — on earth, answering their wonder: "I know what you do not know."
 
-**Classical tafsir:** Ibn Kathir notes: So, Allah mentioned this in the assembly of the angels so that they may disclose what they had been thinking.
+**What it teaches** Khalifah means generations succeeding one another. Their question was no objection — a humble plea to know the wisdom behind a creature who could do what they never would.
 
-**From the Sunnah:** The Sahih recorded that when the angels ascend to Allah with the records of the servant's deeds, Allah asks them, while having better knowledge, "How did you leave My servants?" They will say, "We came to them while they were praying and left them while they w… We should state here that Imamah occurs by either naming a successor, as a group among Ahl As-Sunnah scholars said occurred - by the Prophet ﷺ - in the case of Abu Bakr,
+**The scholars** Ibn Kathir: the good outweighs the harm — mankind yields Prophets, the truthful, martyrs, and scholars who act on their knowledge. Al-Qurtubi: the khalifah also judges and forbids injustice. Maarif ul-Quran: man's capacity for evil is exactly why earth needs a deputy — a being in whom good and evil mix, who conquers the evil in himself to seek his Creator's pleasure.
+
+**From the Sunnah** The angels ascend with the servants' deeds; Allah asks — while He knows best — "How did you leave My servants?" They reply, "We came to them while they were praying and left them while they were praying." (The Sahih)
+
+**Reflection** When His wisdom is hidden from you, answer as the angels did — keep glorifying Him, trusting He knows what you do not.
 ## Personal Reflections
 
 
