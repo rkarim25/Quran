@@ -208,11 +208,15 @@ O Children of Israel — remember My favours to you. Fulfil your covenant and I 
 
 ## AI Tafsir
 
-**What this ayah teaches:** In verse 40, Allah asks the Israelites to fulfill His covenant - that is to say, the one they had made with Allah.
+**Essence** By His favours and their righteous father's name, Allah calls the Children of Israel: keep My covenant and I keep yours; fear Me alone.
 
-**Classical tafsir:** Ibn Kathir notes: So, after dealing with the idolaters and associators, it addresses the people of the Book in a special manner, from verse 40 to verse 123.
+**What it teaches** "Isra'il" — Hebrew for "servant of Allah," per Ibn 'Abbas — is Ya'qub himself: a name calling his children to their father's worship.
 
-**From the Sunnah:** 'Israel' means, 'the servant of Allah.' The Surah Al-Baqarah begins by speaking of the Holy Qur'an itself, and tells us that although it provides guidance to all men, yet only true Muslims will derive a full benefit from it.
+**The scholars** Ibn 'Abbas, in Ibn Kathir: Allah's side is His pleasure and Paradise; in Maarif: the covenant is believing in and obeying Muhammad ﷺ. Al-Qurtubi: this Ummah hears only "Remember Me, I will remember you" (2:152) — the Benefactor before the bounty.
+
+**From the Sunnah** The Prophet ﷺ had a group of Jews affirm "Israel is Jacob" — "O Allah! Be witness" (Abu Dawud At-Tayalisi). In Muslim, as cited in Maarif: promise-breakers bear flags of stigma before assembled humanity, taller as the crime grows.
+
+**Reflection** Treat your smallest promise — to Allah or to anyone — as if a flag hung on it.
 ## Personal Reflections
 
 
