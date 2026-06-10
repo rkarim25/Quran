@@ -197,11 +197,15 @@ But Satan caused them to slip and removed them from the state they were in. We s
 
 ## AI Tafsir
 
-**What this ayah teaches:** Some scholars said that he led Adam and Hawwa' astray when he was on earth, while they were still in heaven, as stated by Az-Zamakhshari. Possibly he never met them, but planted the suggestion in their minds from afar - a thing which Satan can always do, and of which we have a specimen in the work of the hypnotists.
+**Essence** One slip engineered by Shaytan ended Adam and Hawwa's bliss; by Allah's command they descended to earth — a dwelling (mustaqarr) and provision (mata') only "for a time."
 
-**Classical tafsir:** Ibn Kathir notes: But I am shy.') Adam remained in Paradise for an Hour Al-Hakim recorded that Ibn 'Abbas said, "Adam was allowed to reside in Paradise during the time period between the 'Asr (Afternoon) prayer, until sunset." Al-Hakim then commented this is "Sahih according to the Two Shaykhs (Al-Bukhari and Muslim)…
+**What it teaches** Shaytan "made them slip" (azallahuma), yet the expulsion came under Allah's command — Satan was only an intermediary, with no power of his own.
 
-**From the Sunnah:** Paradise during the time period between the 'Asr (Afternoon) prayer, until sunset. (Sahih al-Bukhari, Sahih Muslim)
+**The scholars** Ibn Kathir: the slip was from Paradise itself or "because of the tree" — Al-Hasan and Qatadah: "He tripped them." Maarif ul-Quran: if Shaytan is included in "some of you enemies of some," his enmity follows Adam's children to an earth with no real peace of mind.
+
+**From the Sunnah** Ibn Kathir relays from Ibn Abi Hatim: Adam ate, fled in shame, and Ar-Rahman called, "O Adam! Are you running away from Me?" — "No, O my Lord! But I am shy." And in the sahih: "Friday is the best day on which the sun has risen" — on it Allah created Adam, admitted him into Paradise, and expelled him from it (Muslim and An-Nasa'i).
+
+**Reflection** When you slip, do not flee from Allah — answer His call as Adam did, and live here as a traveler, only "for a time."
 ## Personal Reflections
 
 

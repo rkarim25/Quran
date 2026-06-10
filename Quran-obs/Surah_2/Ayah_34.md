@@ -145,11 +145,15 @@ When We told the angels, "Prostrate before Adam," they all did — except Iblis,
 
 ## AI Tafsir
 
-**What this ayah teaches:** And (remember) when We said to the angels: "Prostrate yourselves before Adam." And they prostrated except Iblis (Shaytan), he refused and was proud and was one of the those who reject the truth (disobedient to Allah).
+**Essence** Allah honored Adam with the angels' prostration; Iblis refused — "the first error ever committed was arrogance" (Qatadah).
 
-**Classical tafsir:** Ibn Kathir notes: Some scholars say that it was because of his pride and vanity that Allah took back from him the wealth of knowledge and understanding, and hence he came to act like an ignorant fool.
+**What it teaches** Qatadah: "The obedience was for Allah and the prostration was before Adam" — honor, not worship; a courtesy of earlier Shari'ahs, forbidden in ours to seal every door to shirk (Maarif ul Quran). Iblis's kufr lay not in mere sin but in arrogantly rejecting and objecting to Allah's command.
 
-**From the Sunnah:** With regard to the question of prostration, we may add that, according to some authentic scholars, Salah, the basic form of Islamic worship, comprises of four kinds of actions - standing upright, bowing, sitting down, and prostrating oneself; the first two of…
+**The scholars** Ibn Kathir: Iblis was no angel but of the jinn (18:50), bound by the command for imitating the angels — though Ibn 'Abbas's report places him among them as 'Azazil, devoted and learned, until that rank bred arrogance. Qatadah: he envied Adam — "I was created from fire, and he was created from clay."
+
+**From the Sunnah** "No person who has the weight of a mustard seed of arrogance in his heart shall enter Paradise." (the Sahih, per Ibn Kathir) And refusing Mu'adh's prostration: "If I was to command any human to prostrate before another human, I would command the wife to prostrate before her husband…"
+
+**Reflection** Be vain about nothing — not knowledge, not deeds, not even iman — one seed of pride cast him whom reports call "The Peacock Among the Angels" out of Allah's mercy.
 ## Personal Reflections
 
 

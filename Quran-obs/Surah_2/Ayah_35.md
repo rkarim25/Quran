@@ -225,11 +225,15 @@ We said, "O Adam, live with your spouse in Paradise and eat freely, but do not a
 
 ## AI Tafsir
 
-**What this ayah teaches:** Moreover, the right to 'own' a dwelling-place in Paradise is earned through 'Iman (faith) and good deeds, which one can acquire only after the Day of Judgment.
+**Essence** Having honored Adam, Allah grants him and Hawwa' the free run of Paradise — bound by one prohibition, a test for Adam.
 
-**Classical tafsir:** Ibn Kathir notes: But I am shy.') Adam remained in Paradise for an Hour Al-Hakim recorded that Ibn 'Abbas said, "Adam was allowed to reside in Paradise during the time period between the 'Asr (Afternoon) prayer, until sunset." Al-Hakim then commented this is "Sahih according to the Two Shaykhs (Al-Bukhari and Muslim)… But the common noun Shaytan, or its plural Shayatin refers to the genus, which includes men and jinn…
+**What it teaches** Uskun ("dwell") is a stay, not ownership — a home in Paradise, Maarif ul Quran notes, is owned only through iman and good deeds. Raghadan: provision without toil, never exhausted.
 
-**From the Sunnah:** Paradise during the time period between the 'Asr (Afternoon) prayer, until sunset. (Sahih al-Bukhari, Sahih Muslim)
+**The scholars** Ibn Kathir endorses Ibn Jarir: the tree's identity is unknown — knowing it brings no benefit, ignorance no harm. From "do not approach," the jurists derive (via Maarif ul Quran) that whatever leads to sin is itself forbidden; Adam's slip was Shaytan's deception, not willful rebellion — the prophets are protected from deliberate sin.
+
+**From the Sunnah** Adam was a Prophet and a Messenger to whom Allah spoke directly — these very words (a report Ibn Kathir cites from Ibn Marduwyah). Friday is the best day on which the sun has risen: on it Allah created Adam, admitted him into Paradise, and expelled him from it (Muslim and An-Nasa'i).
+
+**Reflection** Guard the fence, not just the field — keep far from whatever draws you toward what Allah has forbidden.
 ## Personal Reflections
 
 
