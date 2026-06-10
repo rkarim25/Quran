@@ -130,11 +130,17 @@ As for those who persist in rejecting the truth, it makes no difference whether 
 
 ## AI Tafsir
 
-**What this ayah teaches:** Verily, those who disbelieve, it is the same to them whether you warn them or do not warn them, they will not believe .
+**Essence**
+For those who chose to cover the truth and whom Allah knew would die upon it, warning and silence are alike — they will not believe.
 
-**Classical tafsir:** Ibn Kathir notes: The Holy Qur'an describes .the condition of these those who reject the truth in terms of their hearts and ears having been sealed, but in the case of the eyes it refers to a covering.
+**What it teaches**
+Kufr literally means to cover — many of these deniers, the mufassirin note, recognized the truth they hid. Indhar is no mere threat but a prophet's warning born of compassion, like warning a child against fire. The verdict falls only on the obstinate — many disbelievers later embraced Islam.
 
-**From the Sunnah:** That the Messenger of Allah ﷺ was eager for all the people to believe and follow the guidance he was sent with. They tried to convince the Muslims that they had faith in the Holy Qur'an and its teachings, that they were as good a Muslim as any and would support the Muslims against the those who reject the truth. (Sahih Muslim)
+**The scholars**
+Ibn Kathir cites "Truly, those against whom the Word of your Lord has been justified will not believe" (10:96) and consoles the Prophet ﷺ: "Your duty is only to convey, and on Us is the reckoning" (13:40). In an athar via Ali bin Abi Talhah, Ibn 'Abbas said the Messenger ﷺ longed for all to believe; Allah informed him that none would except those He decreed happiness for. Maarif ul Quran gives the next verse's reason: Allah set a seal on their hearts and ears — just recompense for their own stubbornness.
+
+**Reflection**
+Deliver the truth with compassion and constancy; leave the hearts — and the reckoning — to Allah.
 ## Personal Reflections
 
 

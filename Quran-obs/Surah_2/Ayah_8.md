@@ -140,13 +140,13 @@ Among people are some who say, "We trust in Allah and the Last Day," yet they ar
 
 ## AI Tafsir
 
-**Context:** The revelations about the characteristics of the hypocrites were revealed in Al-Madinah, this is because there were no hypocrites in Makkah.
+**Essence** Faith on the tongue while the heart withholds it is not iman — it is nifaq, and Allah unveils it.
 
-**What this ayah teaches:** This Ayah means that the hypocrites utter these statements only when they meet you, not because they actually believe what they are saying. And of mankind, there are some who say: "We believe in Allah and the Last Day" while in fact they do not believe (8)They try to deceive Allah and those who believe, while they only deceive themselves, and perceive (it) not .
+**What it teaches** Nifaq, Ibn Kathir explains, is showing conformity while concealing evil; in creed it dooms its people to Hell for eternity. The hypocrites' claim lives only on their tongues, so Allah rules them not believers at all — iman is never the tongue alone.
 
-**Classical tafsir:** Ibn Kathir notes: This Ayah means that the hypocrites utter these statements only when they meet you, not because they actually believe what they are saying.
+**The scholars** Ibn 'Abbas — echoed by Abu al-'Aliyah, al-Hasan, Qatadah and as-Suddi — said this means the hypocrites of Aws and Khazraj "and those who behaved as they did." Ibn Kathir's own narrative adds that hypocrisy surfaced after Badr, when 'Abdullah bin Ubayy bin Salul feigned Islam; Allah exposed these traits to shield believers from deception. Qatadah: the hypocrite "changes his mind just like a ship that moves about whenever a wind blows." Maarif ul-Quran: even they left the Prophet ﷺ out of their claim, fearing an open lie — so contemptible is lying.
 
-**From the Sunnah:** Afterwards, the Messenger of Allah ﷺ migrated to Al-Madinah, where the Ansar from the tribes of Aws and Khazraj resided.
+**Reflection** Fear the gap between profession and practice — nifaq lives there.
 ## Personal Reflections
 
 

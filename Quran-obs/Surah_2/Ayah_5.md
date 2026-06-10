@@ -136,11 +136,15 @@ Those are the ones on guidance from their Rabb — the One who creates, owns, nu
 
 ## AI Tafsir
 
-**Context:** (They are) refers to those who believe in the Unseen, establish the prayer, spend from what Allah has granted them, believe in what Allah has revealed to the Messenger and the Messengers before him, believe in the Hereaf…
+**Essence** Faith in the unseen, prayer, spending, and conviction in the Hereafter place one on guidance from their Lord — these alone are al-muflihun, the truly successful.
 
-**What this ayah teaches:** They are on guidance from their Lord, and they are the successful . Lexically the Akhirah signifies 'that which comes after something'; in the present context, it indicates a relationship of contrast with the physical world, and thus signifies the other world which is beyond physical reality as we know it and also beyond the sensuous or rational perception of man.
+**What it teaches** They walk by light and insight from Allah; falah spans both worlds — reward, eternal Paradise, safety from the torment prepared for Allah's enemies (Ibn Kathir).
 
-**Classical tafsir:** Ibn Kathir notes: Lexically the Akhirah signifies 'that which comes after something'; in the present context, it indicates a relationship of contrast with the physical world, and thus signifies the other world which is beyond physical reality as…
+**The scholars** One reported view (Ibn Mas'ud, Ibn 'Abbas): the early God-fearing were two groups — former idolaters, then People of the Book who embraced Islam. Maarif ul Quran: yuqinun means certitude, not mere belief — iman perfected, vivid as sight. Without it one is still a Muslim in law, but only such certitude transforms life and wins this triumph; the verse's wording also argues prophethood's finality.
+
+**From the Sunnah** People of the Book who kept their earlier Books, then believed in the Qur'an as Allah's final Book, are promised a double recompense (Maarif names no collection; only "the Hadith").
+
+**Reflection** Keep the Hereafter before your eyes until private conduct matches public — that yaqin is the road this verse opens.
 ## Personal Reflections
 
 

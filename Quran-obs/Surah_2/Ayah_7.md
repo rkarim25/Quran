@@ -156,11 +156,15 @@ Allah has sealed their hearts and their hearing, and a veil covers their sight. 
 
 ## AI Tafsir
 
-**What this ayah teaches:** In delineating such a situation certain elders have remarked that one punishment for an evil deed is another evil deed which comes after, and one reward for a good deed is another good deed which comes after.
+**Essence** The seal and the veil are Allah's just recompense for a disbelief the deniers chose and entrenched.
 
-**Classical tafsir:** Ibn Kathir notes: The hearts will therefore become two categories: white, just like the barren rock; no Fitnah shall ever harm this category as long as the heavens and earth still exist.
+**What it teaches** Khatama: the seal shuts heart and hearing; a ghishawah (veil) covers the eyes. Maarif ul Quran: their arrogant deeds formed the rust (ran) that Allah, Creator of all actions, made the seal — they authored their own ruin.
 
-**From the Sunnah:** He then mentioned the Hadith about changing the hearts, (in which the Prophet ﷺ supplicated), it is Hasan Sahih.. (Jami' at-Tirmidhi, Sunan Ibn Majah)
+**The scholars** Mujahid: sin submerges the heart — stain, then stamp, then the lock, worst of all. Al-Qurtubi: the Ummah agreed the sealing is Allah's punishment for disbelief.
+
+**From the Sunnah** When the believer commits a sin, a black dot is engraved on his heart; repentance polishes it, more sins spread until they cover it — the Ran of 83:14 (At-Tirmidhi, An-Nasa'i, Ibn Majah — Hasan Sahih). Trials leave hearts white like barren rock, unharmed by fitnah, or black like an overturned cup, knowing no good (the Sahih, from Hudhayfah).
+
+**Reflection** Repent at the first dark dot — by Allah's leave, a heart kept polished by turning back to Him is safeguarded from hardening.
 ## Personal Reflections
 
 
