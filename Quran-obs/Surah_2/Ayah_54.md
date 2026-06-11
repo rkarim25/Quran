@@ -169,15 +169,13 @@ And when Moses said to his people, "You wronged yourselves by worshipping the ca
 
 ## AI Tafsir
 
-**Essence** Even calf-worship could not outrun Allah's mercy: a repentance as severe as the crime was prescribed, fulfilled, and sealed — He is al-Tawwab, ever-Accepting of repentance, al-Rahim, Most Merciful.
+**Essence** True repentance before Allah (al-Bari', the Creator) may demand the most costly surrender — and when His servants submit fully, al-Tawwab al-Rahim turns back to them completely.
 
-**What it teaches** Shirk is a wrong against *yourselves*: idolatry wounds the soul first. Musa calls his people back to their *Bari'* (Creator); the prescribed tawbah, as Ibn Kathir relates, was that the innocent execute the calf-worshippers — and "He accepted your repentance."
+**What it teaches** Moses (peace be upon him) named their sin precisely: *zulm* (self-wrong) through calf-worship — shirk against the very One who created them from nothing, al-Bari'. Ibn Kathir notes the name is deliberate: it "alerts the Children of Israel to the enormity of their error" — repent to the One who created you after you associated others with Him in worship. Their prescribed repentance was a physical enactment of how grave shirk is: those who had not worshipped the calf slew those who had. The ayah closes with al-Tawwab al-Rahim, affirming that no cost of repentance exceeds His capacity to receive it.
 
-**The scholars** Abu al-'Aliyah, Sa'id bin Jubayr and al-Rabi' bin Anas (in Ibn Kathir): *Bari'* means Creator — the name exposes the enormity of worshipping another beside their Maker. Maarif ul-Quran: some major sins entail capital punishment even after tawbah (qisas, stoning); by obeying, the Israelites were granted Allah's mercy in the other world.
+**The scholars** Al-Hasan al-Basri traced this command to 7:149: the people had already regretted and seen their own straying before Musa addressed them — their prior remorse was the ground on which his words fell. Maarif ul Quran draws an enduring legal principle: even in Islamic Shari'ah, grave sins entail capital punishment alongside tawbah — intentional homicide requires qisas, adultery established through evidence requires the hadd. The inward turning and the outward legal reckoning are both required.
 
-**From the Sunnah** Ibn 'Abbas narrated — a companion report Ibn Kathir ties to the hadith of the trials — that they slew whomever they met, father or son; "So Allah forgave both the killer and the one killed." (An-Nasa'i, Ibn Jarir, Ibn Abi Hatim)
-
-**Reflection** Bring your sin to the One who made you — no cost of tawbah is too high, for al-Tawwab is ever ready to accept it.
+**From the Sunnah** Ibn 'Abbas narrated: "Allah told the Children of Israel that their repentance would be to slay by the sword every person they meet, be he father or son. They should not care whom they kill. Those were guilty whom Musa and Harun were not aware of their guilt, they admitted their sin and did as they were ordered. So Allah forgave both the killer and the one killed." (Ibn Jarir al-Tabari and Ibn Abi Hatim)
 ## Personal Reflections
 
 

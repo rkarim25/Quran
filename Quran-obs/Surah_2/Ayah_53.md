@@ -80,13 +80,15 @@ And when We gave Moses the Scripture and the Furqan — the criterion that separ
 
 ## AI Tafsir
 
-**Essence** After delivering the Children of Israel through the sea, Allah gave Musa the Book and the Furqan — the criterion between truth and falsehood — that they might be guided.
+**Essence** Allah reminds the Children of Israel — and all who read — that He gave Musa the Tawrah as both divine Scripture and al-Furqan, the living criterion that separates right from wrong, so that a people emerging from the wreckage of calf-worship might find their way back to guidance.
 
-**What it teaches** Rescue was followed by revelation: the Book given to Musa is the Tawrah, and the Furqan — variously read as its rulings, Musa's miracles, or the Torah itself — is what distinguishes guidance from deviation.
+Allah gave Musa the Tawrah as both divine Scripture and al-Furqan — the criterion that separates right from wrong — so that a people emerging from the wreckage of calf-worship might find their way back to guidance.
 
-**The scholars** Ibn Kathir: the Tawrah came after the Israelites safely crossed the sea (28:43), following the forty nights his Lord appointed for Musa (7:142) — said to be Dhul-Qa'dah plus the first ten days of Dhul-Hijjah. Maarif ul-Quran: al-Furqan is either the Torah's Shari'ah injunctions resolving differences of doctrine and practice, miracles that palpably decide true claims from false, or the Torah itself — at once Allah's Book and a separator of truth from falsehood.
+The two titles reinforce each other: al-Kitab, the revealed Book, and al-Furqan, the resolver of disputes in doctrine and practice. The closing *la'allakum tahtadun* frames guidance not as automatic but as the intended end scripture perpetually invites toward.
 
-**Reflection** Let revelation, not desire, be your furqan — measure every path against Allah's Book before you walk it.
+Ibn Kathir defines al-Furqan as "that which differentiates between truth and falsehood, guidance and deviation," given after the sea-crossing — supported by al-Qasas 28:43: the Tawrah came "as an enlightenment for mankind, a guidance and a mercy." Mufti Shafi' (Maarif ul Quran) offers his own elaboration: al-Furqan encompasses the Shari'ah's legal injunctions, the miracles of Musa, and the Torah's twin role as Book and criterion — three dimensions, one word.
+
+Every time a believer opens the Quran to settle a confusion or steady a wavering heart, they draw on the same mercy extended to Musa's people: a criterion, not merely a comfort.
 ## Personal Reflections
 
 

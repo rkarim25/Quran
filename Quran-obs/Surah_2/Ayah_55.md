@@ -123,13 +123,17 @@ And when you said, "O Moses, we will not believe you until we see Allah plainly,
 
 ## AI Tafsir
 
-**Essence** Those who staked their faith on seeing Allah — the seventy chosen men, per the mufassirin — were seized by the thunderbolt in plain sight, then raised, that they might be grateful.
+**Essence**
+When the Children of Israel demanded to see Allah openly — after hearing His very speech at Mount Tur — a thunderbolt felled them where they stood, each group watching the other fall.
 
-**What it teaches** Maarif ul Quran recounts they had already heard Allah's speech at Mount Tur, yet "invented a new ruse": only seeing Him would do — a vision Ibn Jurayj said "neither you nor anyone else can bear or attain," and which Maarif places beyond any living being in this world. The *sa'iqah* took them while they looked on.
+**What it teaches**
+The word jahratan ("plainly / in the open") captures the scale of the demand: not to hear Allah speak — which they had already done at Mount Tur — but to see Him directly in this worldly life, a thing no living being can bear.
 
-**The scholars** Ibn 'Abbas glossed *jahratan*: "publicly — so that we gaze at Allah." As-Suddi relates Musa stood weeping — would You destroy us for the deeds of the foolish ones among us? — and Allah revealed these seventy had themselves worshipped the calf, then revived them one man at a time while the rest watched. Al-Qurtubi: even after death and revival they remained bound by His commandments.
+**The scholars**
+Ibn 'Abbas explained that "plainly" (jahratan) means "so that we gaze at Allah." 'Urwah bin Ruwaym described the terror of the scene: some were struck with lightning while the rest watched — then Allah resurrected those first ones, and struck the others with lightning in turn. As-Suddi recounts Musa weeping, "O Lord, what shall I say to the Children of Israel after You have destroyed the best of them?" — to which Allah revealed these seventy men were themselves among those who had worshipped the calf. Maarif ul Quran identifies the death blow as the consequence of a single escalating ruse: having heard Allah's own speech, they moved the goalposts to sight — and that impertinence could not go unanswered.
 
-**Reflection** Receive Allah's Book in submission and gratitude — faith does not bargain for what no eye in this world can bear.
+**Reflection**
+The scene holds a double miracle: death and resurrection layered within a single punishment. The mercy embedded in that resurrection — that Allah revived them while their companions watched — makes the renewed defiance of those survivors all the more stark. Every sign was answered with a new demand; every opening was used to bargain rather than submit.
 ## Personal Reflections
 
 
