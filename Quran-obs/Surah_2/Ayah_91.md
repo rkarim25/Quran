@@ -238,13 +238,13 @@ When told, "Believe in what Allah has sent down," they say, "We believe only in 
 
 ## AI Tafsir
 
-**Context:** (They say, "We believe in what was sent down to us.") meaning, it is enough for us to believe in what was revealed to us in the Tawrah and the Injil, and this is the path that we choose, (while it is the truth confirming…
+**Essence** Selective faith is no faith: those who accept revelation only when it descends upon themselves stand exposed.
 
-**What this ayah teaches:** And when it is said to them (the Jews), "Believe in what Allah has sent down," they say, "We believe in what was sent down to us." And they disbelieve in that which came after it, while it is the truth confirming what is with them.
+**What it teaches** Told to believe in what Allah revealed, the Jews of the Prophet's ﷺ time said, "We believe in what was sent down to us," rejecting what came after — though it is al-haqq, confirming their own Scripture. Then why, if believers, were Allah's prophets killed before — by forebears whose deed they ratified?
 
-**Classical tafsir:** Ibn Kathir notes: This means that since what was sent to Muhammad ﷺ conforms to what was revealed to the People of the Book, then this fact constitutes a proof against them.
+**The scholars** Ibn Kathir: the Qur'an's conformity to their Book is itself proof against them — they recognized him "as they recognize their sons" (2:146). Maarif ul-Quran: a plea betraying envy and malice, refuted threefold — denial ignores irrefutable proofs; rejecting what confirms the Torah rejects the Torah; slaying prophets who taught its law, then taking the killers as chiefs, falsifies the claim.
 
-**From the Sunnah:** You killed them simply out of transgression, stubbornness and injustice with Allah's Messengers.
+**Reflection** Ask not whether truth came through your own people, but whether you will follow it when it comes.
 ## Personal Reflections
 
 

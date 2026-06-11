@@ -178,11 +178,15 @@ Miserable is what they sold their souls for — rejecting Allah's revelation out
 
 ## AI Tafsir
 
-**Context:** (How bad is that for which they have sold their own selves) means, "The Jews sold themselves." meaning, what is worse is what they chose for themselves by disbelieving in what Allah revealed to Muhammad ﷺ instead of beli…
+**Essence** A soul traded for envy of Allah's grace—the worst of bargains, paid out in wrath upon wrath.
 
-**What this ayah teaches:** How bad is that for which they have sold their own selves, that they should disbelieve in that which Allah has revealed (the Qur'an), grudging that Allah should reveal of His grace unto whom He wills of His servants.
+**What it teaches** Prophethood is pure fadl—grace given, never earned. Resenting Allah's choice is baghy; disbelief born of it ends in 'adhab muhin: punishment that humiliates, not merely pains.
 
-**Classical tafsir:** Ibn Kathir notes: Everything shall be above them, because of the humiliation placed on them, until they enter a prison in Jahannam called 'Bawlas' where the fire will surround them from above.
+**The scholars** Mujahid: the Jews "sold the truth for falsehood and hid the truth about Muhammad." Abu Al-'Aliyah: wrath for denying 'Isa and the Injil, wrath again for Muhammad ﷺ and the Qur'an. Ibn Kathir: "There is no envy worse than this"—arrogance bred it; disgrace repays it in both worlds. Maarif ul Quran: a Muslim's punishment purifies; it does not disgrace.
+
+**From the Sunnah** The arrogant will be gathered on the Day of Resurrection the size of ants in the shape of men; everything shall be above them, because of the humiliation placed on them, until they enter a prison in Jahannam called Bawlas. (Imam Ahmad, via Ibn Kathir)
+
+**Reflection** Envy of another's blessing is a quarrel with the Giver—and that quarrel is always lost.
 ## Personal Reflections
 
 

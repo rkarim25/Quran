@@ -152,13 +152,13 @@ Moses came to you with clear proofs, then you worshipped the calf in his absence
 
 ## AI Tafsir
 
-**Context:** (They say, "We believe in what was sent down to us.") meaning, it is enough for us to believe in what was revealed to us in the Tawrah and the Injil, and this is the path that we choose, (while it is the truth confirming…
+**Essence** Musa came with clear proofs, yet the moment he withdrew they took the calf — their claim of faith exposed as hollow.
 
-**What this ayah teaches:** And when it is said to them (the Jews), "Believe in what Allah has sent down," they say, "We believe in what was sent down to us." And they disbelieve in that which came after it, while it is the truth confirming what is with them.
+**What it teaches** The bayyinat are Musa's miracles — the staff turned serpent, the shining hand, the sea split open — affirming Allah's Oneness (tawhid) and Musa's prophethood. Taking the calf "after him," in his absence, was shirk — a wrong without excuse.
 
-**Classical tafsir:** Ibn Kathir notes: This means that since what was sent to Muhammad ﷺ conforms to what was revealed to the People of the Book, then this fact constitutes a proof against them.
+**The scholars** Ibn Kathir adds the plagues — flood, locusts, lice, frogs, blood — and locates "after him" at Musa's going to Mount Tur to speak with Allah; zalimun, he says, because they knew none deserves worship but Allah. Maarif ul-Quran: the Prophet's ﷺ Jewish contemporaries never worshipped the calf, yet by approving their forefathers' deed and taking their side, they shared the guilt — no wonder these same addressees now deny him ﷺ as their fathers denied Musa.
 
-**From the Sunnah:** You killed them simply out of transgression, stubbornness and injustice with Allah's Messengers.
+**Reflection** Faith is tested when the reminder is far — guard your tawhid then, and never defend your people's sin out of loyalty.
 ## Personal Reflections
 
 
