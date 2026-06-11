@@ -152,11 +152,15 @@ And We shaded you with clouds and sent down manna and quails: "Eat from the good
 
 ## AI Tafsir
 
-**What this ayah teaches:** When manna is mixed with water, it becomes a sweet drink.
+**Essence** Allah shaded the wandering Children of Israel with clouds and fed them manna and quails — their ingratitude harmed only themselves.
 
-**Classical tafsir:** Ibn Kathir notes: As for the quail (Salwa) in question, 'Ali bin Abi Talhah reported that Ibn 'Abbas said, "The (Salwa) is a bird that looks like the quail." This is the same opinion reported from Mujahid, Ash-Sha'bi, Ad-Dahhak, Al-Hasan, 'Ikrimah and Ar-Rabi' bin Anas, may Allah have mercy upon them. Also, 'Ikrimah said that the Salwa is a bird in Paradise about the size of a sparrow.
+**What it teaches** Forty years in the Tih, they lived on pure gift: mann — often identified as honeydew, its name meaning "a gift or favour" — and salwa, quails caught with little effort. "Eat of the tayyibat" is gracious permission; zulm never touches Allah, only the soul that commits it.
 
-**From the Sunnah:** The group of Hadith compilers, with the exception of Abu Dawud, also collected it, and At-Tirmidhi graded it Hasan Sahih. (Musnad Ahmad, Jami' at-Tirmidhi) Paradise and it cures poison, Al-Kam'ah (truffles) is a form of manna, and its liquid heals the eye. (Jami' at-Tirmidhi)
+**The scholars** Ibn Kathir cites An-Nasai's report from Ibn 'Abbas: clouds shaded the wandering years. Qatadah: manna whiter than milk, sweeter than honey, fell like snow — one day's share each. Maarif ul-Quran: the Tih was the penalty for refusing jihad, yet Musa's (peace be upon him) prayer drew shade, food, water and light. Ibn Kathir contrasts the Companions' patient restraint at Tabuk.
+
+**From the Sunnah** "Kam'ah (truffles) is a type of manna, and its liquid is a remedy for the eyes." (Al-Bukhari)
+
+**Reflection** Gather today's share with gratitude; leave tomorrow to the Provider.
 ## Personal Reflections
 
 

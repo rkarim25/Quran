@@ -207,11 +207,15 @@ But the wrongdoers changed the words they were told to say. So We sent down puni
 
 ## AI Tafsir
 
-**Context:** This rule applies to each and every word of the Holy Qur'an. All the Injunctions with regard to the recitation of the Holy Qur'an strictly pertain to those words alone which Allah has revealed to the Holy Prophet ﷺ .
+**Essence** Those who twisted Allah's word of repentance into mockery drew down His punishment from the sky.
 
-**What this ayah teaches:** They were commanded to say, 'Hittah' meaning, "Relieve us from our errors and sins." However, they mocked this command and said, "Hintah (grain seed) in Sha'irah (barley)." This demonstrates the worst type of rebellion and disobedience, and it is why Allah released His anger and punishment upon them, all because of their sinning and defying His commands.
+**What it teaches** Told to enter the town (Jerusalem, in Ibn Kathir's preferred view) saying "Hittah" — relieve us of our errors and sins — the wrongdoers jeered "Hintah (grain seed) in Sha'irah (barley)"; for their fisq (defiance) Allah sent down Rijz.
 
-**Classical tafsir:** Ibn Kathir notes: Khasif said that 'Ikrimah said that Ibn 'Abbas said, "The door mentioned here was facing the Qiblah." Ibn 'Abbas, Mujahid, As-Suddi, Qatadah and Ad-Dahhak said that the door is the door of Hittah in Iylya', which is Jerusalem.
+**The scholars** Ibn 'Abbas: every Rijz in Allah's Book means punishment. Maarif ul-Quran (citing Qurtubi) names it a plague that killed seventy thousand, and rules the Qur'an's words irreplaceable: its meaning is inseparable from the words Allah revealed.
+
+**From the Sunnah** "The Children of Israel were commanded to enter the door while bowing and to say 'Hittah'. Yet, they entered the door on their behinds, distorting the words. They said; 'Habbah (seed), in Sha'rah (a hair).'" (Al-Bukhari)
+
+**Reflection** Carry Allah's words as He gave them — humble in tongue and deed — for a sincere plea lifts sins, while mockery invites His anger.
 ## Personal Reflections
 
 

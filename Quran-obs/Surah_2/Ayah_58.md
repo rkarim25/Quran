@@ -202,11 +202,15 @@ And when We said, "Enter this town and eat freely wherever you wish. Enter the g
 
 ## AI Tafsir
 
-**What this ayah teaches:** the plague) is a Rijz, a punishment with which some nations who were before you were punished.) The basis of this Hadith was also collected in the Two Sahihs.
+**Essence** At the gate of victory Allah commanded humility: enter bowed, saying "Hittah" — pardon for the obedient, increase for the muhsinin.
 
-**Classical tafsir:** Ibn Kathir notes: Khasif said that 'Ikrimah said that Ibn 'Abbas said, "The door mentioned here was facing the Qiblah." Ibn 'Abbas, Mujahid, As-Suddi, Qatadah and Ad-Dahhak said that the door is the door of Hittah in Iylya', which is Jerusalem. Khasif said that 'Ikrimah said that Ibn 'Abbas said that the Children of Israel entered the door sideways.
+**What it teaches** Forty years of wandering end in a gift with an etiquette: triumph is met with lowered heads and a plea for pardon, not pride.
 
-**From the Sunnah:** The correct opinion about the meaning of, 'the holy land' mentioned here is that it was Bayt Al-Maqdis (Jerusalem), as As-Suddi, Ar-Rabi' bin Anas, Qatadah and Abu Muslim Al-Asfahani, as well as others have stated.
+**The scholars** Ibn Kathir: the town is Bayt al-Maqdis (per As-Suddi and Qatadah), taken under Yusha' bin Nun; Ibn 'Abbas read sujjadan as "bowing" and Hittah as "seek Allah's forgiveness." Maarif: ihsan is "doing a thing beautifully."
+
+**From the Sunnah** They twisted the command — entering on their behinds, saying "Habbah in Sha'rah," a seed in a hair (Al-Bukhari). And ihsan — worship as though seeing Him: "Offer your prayers as if you can see Him, and if you do not see Him, He is seeing you (in any case)" (famous Hadith, via Maarif ul Quran).
+
+**Reflection** Enter every blessing the way the gate demands: head lowered, tongue asking forgiveness.
 ## Personal Reflections
 
 

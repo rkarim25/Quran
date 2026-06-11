@@ -172,13 +172,15 @@ And when Moses prayed for water for his people, We said, "Strike the rock with y
 
 ## AI Tafsir
 
-**Context:** This story is similar to the story in Surat Al-'Araf (Chapter 7) although the latter was revealed in Makkah. In Surat Al-A'raf, Allah used the third person when He mentioned the Children of Israel to the Prophet ﷺ and na…
+**Essence** One strike of Musa's staff, and Allah split a rock into twelve springs — provision freely given; one charge: eat, drink, do not corrupt.
 
-**What this ayah teaches:** And (remember) when Musa asked for water for his people, We said: "Strike the stone with your stick." Then gushed forth therefrom twelve springs. As he did so, twelve streams gushed forth out of the rock, one for each of the twelve tribes.
+**What it teaches** Thirsting in the wilderness, the Israelites asked Musa to pray; twelve springs answered — one per tribe of Ya'qub's twelve sons. Rizq without toil (manna, quails, water); the sole condition, la ta'thaw: no fasad — disobedience to Allah.
 
-**Classical tafsir:** Ibn Kathir notes: Each tribe was, therefore, designated a certain spring, and they used to drink from their springs.
+**The scholars** Ibn 'Abbas: a square stone, three springs per side, each tribe knew its spring wherever they camped. Ibn Kathir: do not repay the favor "by committing acts of disobedience that cause favors to disappear." Al-Baydawi, in Maarif ul Quran: He who gave stone the power to draw iron can make stone pour water.
 
-**From the Sunnah:** In Surat Al-A'raf, Allah used the third person when He mentioned the Children of Israel to the Prophet ﷺ and narrated what He favored them with.
+**From the Sunnah** The Prophet ﷺ prayed for rain in the Friday khutbah, and Allah sent down rain (Al-Bukhari and Muslim, from Anas) — paired in Maarif ul Quran with Musa's bare prayer: supplication is the heart of seeking water from Allah.
+
+**Reflection** Take your provision from Allah's bounty with gratitude — and never let disobedience dry up the spring.
 ## Personal Reflections
 
 
