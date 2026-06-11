@@ -138,11 +138,15 @@ Those are the ones who traded the Akhirah for the dunya. Their punishment will n
 
 ## AI Tafsir
 
-**What this ayah teaches:** And Allah is not unaware of what you do (85)Those are they who have bought the life of this world at the price of the Hereafter. Those are they who have bought the life of this world at the price of the Hereafter) meaning, they prefer this life to the Hereafter.
+**Essence** To trade the Hereafter for this world is a bargain: punishment never lightened, a Day with no helper.
 
-**Classical tafsir:** Ibn Kathir notes: This verse explains why the Jews will have to undergo such a severe punishment.
+**What it teaches** Ishtaraw — "they bought" — frames sin as a transaction: the dunya, paid for with the akhirah. The threat falls on those who die rejecting part of the Book (2:85): no lightening, no rescuer.
 
-**From the Sunnah:** Allah criticized the Jews who lived in Al-Madinah during the time of the Messenger of Allah ﷺ. Further, they should not be believed when it comes to the description of the Messenger of Allah ﷺ, his coming, his expulsion from his land, and his Hijrah, and the rest of the information that the previous Prophets informed them about him, all of which they hi…
+**The scholars** Ibn Kathir: they "prefer this life to the Hereafter"; the torment eases "not even for an hour." Ibn 'Abbas (via Muhammad bin Ishaq): in the Aws–Khazraj wars Madinah's Jewish tribes killed and expelled each other, then ransomed prisoners by the Tawrah — "to acquire the life of this world." Maarif ul-Quran: no intercession allowed.
+
+**From the Sunnah** Ibn Kathir cites it under the 2:84 covenant — the bond these traders broke: the believers in their kindness, mercy and sympathy are like one body; when one organ falls ill, the rest rushes to it in fever and sleeplessness. (No collection named in the source.)
+
+**Reflection** Ask what you are buying — and what you are paying with.
 ## Personal Reflections
 
 

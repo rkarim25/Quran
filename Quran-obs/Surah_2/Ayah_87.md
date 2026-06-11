@@ -221,11 +221,15 @@ We gave Moses the Book and sent messengers after him in succession. We gave Jesu
 
 ## AI Tafsir
 
-**What this ayah teaches:** And indeed, We gave Musa the Book and followed him up with a succession of Messengers. And We gave 'Isa, the son of Maryam, clear signs and supported him with Ruh-il-Qudus.
+**Essence** Allah gave Banu Isra'il the Tawrah, then 'Isa with miracles, Jibril at his side — yet whenever revelation crossed their desires: arrogance, denial, murder.
 
-**Classical tafsir:** Ibn Kathir notes: As-Suddi said that Abu Malik said that Qaffayna means, "Succeeded", while others said, "Followed".
+**What it teaches** Qaffayna — Allah "followed up" with Messengers who judged by the Tawrah. 'Isa son of Maryam brought bayyinat, aided by Ruh al-Qudus, the Holy Spirit: Jibril (Ibn Mas'ud, Ibn 'Abbas, Qatadah). The disease: istikbar — hawa (desire) enthroned over Allah's command.
 
-**From the Sunnah:** 'A'ishah saying that the Messenger of Allah ﷺ erected a Minbar in the Masjid on which Hassan bin Thabit (the renowned poet) used to defend the Messenger of Allah (with his poems). (Sahih al-Bukhari) this Hadith in his Sunan as did At-Tirmidhi who graded it Hasan Sahih. (Jami' at-Tirmidhi, Sunan Abi Dawud)
+**The scholars** Ibn Kathir: they distorted the Tawrah, then envied 'Isa — dead raised, birds from clay, healing, the Unseen told, all by Allah's leave (Ibn 'Abbas). Relaying Az-Zamakhshari: "you kill" stays present — poison and magic still awaited the Prophet ﷺ. Maarif: Jibril guarded 'Isa, conception to ascension; it reports Zakariyya and Yahya slain.
+
+**From the Sunnah** "O Allah! Aid Hassan with Ruh Al-Qudus, for he defended Your Prophet." (Al-Bukhari; At-Tirmidhi: Hasan Sahih) In his final illness he ﷺ said the Khaybar poison kept returning — the aorta would now be cut, death near. (Al-Bukhari)
+
+**Reflection** When truth arrives unwelcome, bend your desire — not the Messenger's word.
 ## Personal Reflections
 
 

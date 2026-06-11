@@ -118,9 +118,13 @@ They say, "Our hearts are wrapped." In fact, Allah has cursed them for their rej
 
 ## AI Tafsir
 
-**What this ayah teaches:** And they say, "Our hearts are Ghulf." Nay, Allah has cursed them for their disbelief, so little is that which they believe .
+**Essence** The boast "our hearts are wrapped" is no firmness of faith — it is Allah's curse for their disbelief.
 
-**Classical tafsir:** Ibn Kathir notes: Some scholars said that the Ayat indicate that a few of them would believe, or that their faith is minute, because they believe in Resurrection and in Allah's reward and punishment that Musa foretold.
+**What it teaches** The Jews of Madinah said qulubuna ghulf — hearts screened beyond Islam's reach — a sarcastic boast of staunchness. Allah overturns it with bal (nay): it is not as they say; their hearts are cursed and stamped for their kufr.
+
+**The scholars** Ibn 'Abbas read ghulf as "screened," Mujahid as "covered." Ibn Kathir pairs it with 4:155: Allah set a seal on their hearts for their disbelief. On the "little" faith, Qatadah said a few of them believe; others, that belief in Resurrection and what Musa foretold avails nothing beside rejecting Muhammad ﷺ — or "little" means none. Maarif ul-Quran: such faith is iman only in name; the Shari'ah accepts only iman affirming all it requires.
+
+**Reflection** A heart proud of being closed indicts itself — keep yours open before revelation; belief in only part of it saves no one.
 ## Personal Reflections
 
 

@@ -308,11 +308,20 @@ Yet here you are, killing one another and driving out groups among you from thei
 
 ## AI Tafsir
 
-**What this ayah teaches:** And if they come to you as captives, you ransom them, although their expulsion was forbidden to you. Then, (this) you ratified and (to this) you bore witness (84)After this, it is you who kill one another and drive out a party of you from their homes, assist (their enemies) against them, in sin and transgression.
+**Essence**
+Faith on your own terms earns disgrace in this world and the severest punishment on the Day of Resurrection.
 
-**Classical tafsir:** Ibn Kathir notes: If we take the words of the present verse literally, it means that the Jews had become infidels by not having faith in some parts (that is to say, some injunctions) of the Torah.
+**What it teaches**
+Three covenant duties bound the Israelites: shed no kinsman's blood, expel none from their homes, ransom captives. They broke the first two and kept only the easiest — and Allah is never ghafil (unaware) of anything they do.
 
-**From the Sunnah:** Allah criticized the Jews who lived in Al-Madinah during the time of the Messenger of Allah ﷺ.
+**The scholars**
+Ibn Kathir relates from Ibn 'Abbas: Qaynuqa' (with Khazraj) and an-Nadir and Qurayzah (with Aws) killed and exiled their own brethren in their allies' wars, then ransomed the prisoners according to the Tawrah. Maarif ul-Quran: rejecting part of a Divine Book is rejecting it all; the foretold disgrace came in the Prophet's ﷺ lifetime — Qurayzah fell, an-Nadir were expelled.
+
+**From the Sunnah**
+"The example of the believers in their kindness, mercy and sympathy to each other is the example of one body, when an organ of it falls ill, the rest of the body rushes to its aid in fever and sleeplessness." (Tafsir Ibn Kathir; no collection named)
+
+**Reflection**
+Take the whole Book — beginning with the command that weighs heaviest on you today.
 ## Personal Reflections
 
 
