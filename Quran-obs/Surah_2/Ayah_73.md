@@ -117,9 +117,13 @@ We said, "Strike the dead body with part of the cow." Thus Allah brings the dead
 
 ## AI Tafsir
 
-**What this ayah teaches:** But Allah brought forth that which you were Taktumun (72)So We said: "Strike him (the dead man) with a piece of it (the cow)." Thus Allah brings the dead to life and shows you His Ayat (proofs, evidences, etc.) so that you may understand . When this was done, the dead man came back to life, announced the name of his murderer, and died again.
+**Essence** A slain man, struck with a piece of the sacrificed cow, rose — as the mufassirun relate — to name his murderer: Allah's living proof that He raises the dead.
 
-**Classical tafsir:** Ibn Kathir notes: Verse 73 says that this precedent should induce people to make use of their reason, and see that what has happened in a past instance can as easily happen in a future instance.
+**What it teaches** What men hid, Allah brought forth. Kadhālika — "thus" (translators gloss: ˹easily˺) — He revives the dead, showing His āyāt la'allakum ta'qilūn: what happened once in the past can as easily happen at the Last Judgment.
+
+**The scholars** Ibn Kathir: any part of the cow would have produced the miracle; Allah left the detail vague, so we leave it vague. The incident ended their disputing over the dead man and proved the Resurrection shall occur — one of five revivals al-Baqarah recounts. Maarif ul-Quran: Allah needed no device — His acts flow from all-embracing wisdom, not compulsion; and the dead man's word convicted only because revelation assured Musa (peace be upon him) he would speak truth, else the Shari'ah demands proper evidence.
+
+**Reflection** A sign is wasted on a mind that will not think. Let this one turn your reason toward the Day every grave gives back its dead.
 ## Personal Reflections
 
 

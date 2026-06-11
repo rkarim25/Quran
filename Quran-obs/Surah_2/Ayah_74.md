@@ -313,11 +313,15 @@ Even then your hearts hardened like stone — or harder. Some stones gush rivers
 
 ## AI Tafsir
 
-**What this ayah teaches:** And indeed, there are stones out of which rivers gush forth, and indeed, there are of them (stones) which split asunder so that water flows from them, and indeed, there are of them (stones) which fall down for fear of Allah. Some other scholars said that this Ayah means their hearts are only of two types, as hard as stone or harder than stone.
+**Essence** Hearts that watched the dead rise yet hardened past stone — for stones gush rivers, split with water, and fall in awe of Allah.
 
-**Classical tafsir:** Ibn Kathir notes: Some other scholars said that this Ayah means their hearts are only of two types, as hard as stone or harder than stone.
+**What it teaches** Qasat qulubukum — after the clearest of signs, their hearts hardened like stone, or harder; and Allah is never unaware of what you do.
 
-**From the Sunnah:** Similarly, the compassion of the stump of the palm tree for the Prophet ﷺ as confirmed in authentic narrations. (Sahih Muslim)
+**The scholars** Ibn 'Abbas in Ibn Kathir, two reports — via Al-'Awfi: the revived man named his nephews as killers, who denied truth they knew; via Ibn Ishaq: "some stones are softer than your hearts." Ibn Jarir, endorsed by Ibn Kathir: "or even harder" divides hearts in two — stone-hard, and harder still. Against those who called it metaphor, Ar-Razi and al-Qurtubi held Allah creates real awe in stone. Maarif ul Quran reads a descending order of tenderness, the hardened heart beneath even the least of stones.
+
+**From the Sunnah** "I know a stone in Makkah that used to greet me with the Salam before I was sent" (Sahih Muslim); of Uhud: "a mount that loves us and that we love" (the Sahih).
+
+**Reflection** If stone can fall in awe of Allah, no heart may excuse itself from softening at His remembrance.
 ## Personal Reflections
 
 

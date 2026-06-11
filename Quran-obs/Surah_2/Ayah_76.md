@@ -205,11 +205,13 @@ When they meet believers they say, "We believe." In private they say to each oth
 
 ## AI Tafsir
 
-**Context:** Do you (faithful believers) covet that they will believe in your religion inspite of the fact that a party of them (Jewish rabbis) used to hear the Word of Allah (the Tawrah), then they used to change it knowingly after…
+**Essence** To the believers' faces they said "We believe"; in private they plotted to bury the truth Allah had revealed to them in the Torah.
 
-**What this ayah teaches:** Do you (faithful believers) covet that they will believe in your religion inspite of the fact that a party of them (Jewish rabbis) used to hear the Word of Allah (the Tawrah), then they used to change it knowingly after they understood it (75)And when they (Jews) meet those who believe (Muslims), they say, "We believe," but when they meet one another in private, they say, "Shall you (Jews) tell th…
+**What it teaches** Some Jews of Madinah feigned faith, then rebuked one another in secret: why disclose what Allah "revealed to you" (fataha 'alaykum) — per the mufassirun, the Torah's foretelling of the Prophet ﷺ — lest it become a hujjah (proof) against you before your Lord? Their own whisper ends "Do you not understand?" — they feared losing an argument more than losing the truth.
 
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+**The scholars** Ibn Kathir cites Ibn 'Abbas: to the believers they conceded Muhammad ﷺ was Allah's Messenger — "only sent for you (Arabs)" — yet privately forbade conveying his news. Al-Hasan al-Basri: do not tell his Companions "what Allah has foretold in your Book." Maarif ul-Quran: some pretended Islam to win favour, and fellow Jews reprimanded them for revealing what others laboured to conceal.
+
+**Reflection** Let the tongue before people match the heart when alone — nothing concealed is hidden from Allah.
 ## Personal Reflections
 
 

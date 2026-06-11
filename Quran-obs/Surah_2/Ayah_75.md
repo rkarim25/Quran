@@ -192,11 +192,13 @@ Do you still expect them to be sincere with you, when a group among them would h
 
 ## AI Tafsir
 
-**Context:** Do you (faithful believers) covet that they will believe in your religion inspite of the fact that a party of them (Jewish rabbis) used to hear the Word of Allah (the Tawrah), then they used to change it knowingly after…
+**Essence** Allah tempers the believers' hope: a party of the Jews heard the very Word of Allah, then distorted it.
 
-**What this ayah teaches:** When someone comes to them who is not seeking what is right, nor offering them bribe, then they enjoin righteousness on him.
+**What it teaches** Tahrif — yuharrifunahu, "they distort it" — is a grave betrayal: twisting kalam Allah after grasping it fully, "while they know." Hearts that defy a truth they understand are seldom won by argument; faith is Allah's guidance, not debate.
 
-**Classical tafsir:** Ibn Kathir notes: For, some of the Jews have been committing an even more heinous sin - they used to change and distort the Word of Allah in spite of knowing the ignominy of such a deed.
+**The scholars** Ibn Kathir: a deviant party whose fathers saw clear signs, yet their hearts hardened — "We cursed them and made their hearts grow hard" (5:13). Mujahid: "Those who used to alter it and conceal its truths; they were their scholars." Ibn Zayd: they kept a forged second book — even a bribing truth-seeker was judged by the real Book; only the bribing evil-seeker got the forgery. Maarif ul-Quran calls this "an even more heinous sin": the Word of Allah is the Torah heard from the prophets — or what the seventy heard at Mount Tur — and generations who did not abhor their forefathers' deed share the guilt.
+
+**Reflection** Knowledge is a trust: let the truth you understand reshape your desires, never your desires reshape the truth.
 ## Personal Reflections
 
 
