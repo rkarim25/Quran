@@ -176,9 +176,15 @@ He said, "He says it should be a cow not trained to till the earth or water fiel
 
 ## AI Tafsir
 
-**What this ayah teaches:** The Hadith says that if these people had obeyed Allah's commandment without raising so many doubts and asking unnecessary questions, such strict condition would not have been imposed on them, and the sacrifice of any cow whatsoever would have been accepted.
+**Essence** The description left no escape, the questions ran out — they slaughtered it grudgingly, "near to not doing it."
 
-**Classical tafsir:** Ibn Kathir notes: This part of the Qur'an criticized the Jews for their behavior, because their only goal was to be stubborn, and this is why they nearly did not slaughter the cow.
+**What it teaches** Musa's answer closes every loophole: a cow never worked to plough or water the fields (la dhalul), sound and unblemished (musallamah). They concede — "Now you have come with the truth" — yet still drag their feet.
+
+**The scholars** Ibn Kathir: their only goal was to be stubborn; as they made the matter difficult, Allah made it more difficult for them. Qatadah and Mujahid: musallamah — free of every defect. Ibn 'Abbas: "They did not want to slaughter it."
+
+**From the Sunnah** Had they obeyed Allah's commandment without doubts and unnecessary questions, no strict condition would have been imposed — any cow would have been accepted. (Unnamed — only "the Hadith" in Maarif ul Quran; Ibn Kathir has the like from Ibn 'Abbas and 'Ubaydah.)
+
+**Reflection** Obey at the first word — every needless question makes an easy command heavy.
 ## Personal Reflections
 
 
