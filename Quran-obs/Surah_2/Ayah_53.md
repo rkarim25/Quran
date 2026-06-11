@@ -80,9 +80,13 @@ And when We gave Moses the Scripture and the Furqan — the criterion that separ
 
 ## AI Tafsir
 
-**What this ayah teaches:** And (remember) when We appointed for Musa (Moses) forty nights, and (in his absence) you took the calf (for worship), and you were Zalimun (polytheists and wrongdoers)(51)Then after that We forgave you so that you might be grateful (52)And (remember) when We gave Musa the Scripture (the Tawrah)) and the criterion (of right and wrong) so that you may be guided aright .
+**Essence** After delivering the Children of Israel through the sea, Allah gave Musa the Book and the Furqan — the criterion between truth and falsehood — that they might be guided.
 
-**Classical tafsir:** Ibn Kathir notes: And (remember) when We appointed for Musa (Moses) forty nights, and (in his absence) you took the calf (for worship), and you were Zalimun (polytheists and wrongdoers)(51)Then after that We forgave you so that you might be grateful (52)And (remember) when We gave Musa the Scriptu…
+**What it teaches** Rescue was followed by revelation: the Book given to Musa is the Tawrah, and the Furqan — variously read as its rulings, Musa's miracles, or the Torah itself — is what distinguishes guidance from deviation.
+
+**The scholars** Ibn Kathir: the Tawrah came after the Israelites safely crossed the sea (28:43), following the forty nights his Lord appointed for Musa (7:142) — said to be Dhul-Qa'dah plus the first ten days of Dhul-Hijjah. Maarif ul-Quran: al-Furqan is either the Torah's Shari'ah injunctions resolving differences of doctrine and practice, miracles that palpably decide true claims from false, or the Torah itself — at once Allah's Book and a separator of truth from falsehood.
+
+**Reflection** Let revelation, not desire, be your furqan — measure every path against Allah's Book before you walk it.
 ## Personal Reflections
 
 

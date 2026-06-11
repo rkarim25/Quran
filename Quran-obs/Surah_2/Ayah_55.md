@@ -123,11 +123,13 @@ And when you said, "O Moses, we will not believe you until we see Allah plainly,
 
 ## AI Tafsir
 
-**Context:** (If it had been Your will, You could have destroyed them and me before; would You destroy us for the deeds of the foolish ones among us)' Allah revealed to Musa that these seventy men were among those who worshipped the…
+**Essence** Those who staked their faith on seeing Allah — the seventy chosen men, per the mufassirin — were seized by the thunderbolt in plain sight, then raised, that they might be grateful.
 
-**What this ayah teaches:** He said to them, 'These Tablets have Allah's Book, containing what He commanded you and what He forbade for you.' They said, 'Should we believe this statement because you said it? By Allah, we will not believe until we see Allah in the open, until He shows us Himself and says: This is My Book, therefore, adhere to it.
+**What it teaches** Maarif ul Quran recounts they had already heard Allah's speech at Mount Tur, yet "invented a new ruse": only seeing Him would do — a vision Ibn Jurayj said "neither you nor anyone else can bear or attain," and which Maarif places beyond any living being in this world. The *sa'iqah* took them while they looked on.
 
-**Classical tafsir:** Ibn Kathir notes: He said to them, 'These Tablets have Allah's Book, containing what He commanded you and what He forbade for you.' They said, 'Should we believe this statement because you said it?
+**The scholars** Ibn 'Abbas glossed *jahratan*: "publicly — so that we gaze at Allah." As-Suddi relates Musa stood weeping — would You destroy us for the deeds of the foolish ones among us? — and Allah revealed these seventy had themselves worshipped the calf, then revived them one man at a time while the rest watched. Al-Qurtubi: even after death and revival they remained bound by His commandments.
+
+**Reflection** Receive Allah's Book in submission and gratitude — faith does not bargain for what no eye in this world can bear.
 ## Personal Reflections
 
 

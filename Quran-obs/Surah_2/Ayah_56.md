@@ -94,11 +94,13 @@ Then We revived you after your death, so that you might be grateful.
 
 ## AI Tafsir
 
-**Context:** (If it had been Your will, You could have destroyed them and me before; would You destroy us for the deeds of the foolish ones among us)' Allah revealed to Musa that these seventy men were among those who worshipped the…
+**Essence** Those who demanded to see Allah plainly — seventy, the narrations say — were struck dead, then raised so they might be grateful.
 
-**What this ayah teaches:** Afterwards, Allah brought them back to life one man at a time, while the rest of them were watching how Allah was bringing them back to life. This verse refers to death, which suggests that the thunderbolt had killed them.
+**What it teaches** Ba'athnakum, "We raised you up," names real death and real revival; la'allakum tashkurun makes the second life a summons to shukr.
 
-**Classical tafsir:** Ibn Kathir notes: This verse refers to death, which suggests that the thunderbolt had killed them.
+**The scholars** As-Suddi, via Ibn Kathir: Musa stood crying and supplicating — "Would You destroy us for the deeds of the foolish among us?" — and Allah revived them one by one as the rest watched. Ar-Rabi' bin Anas and Qatadah: death was their punishment; the revival, to finish their lives. Al-Qurtubi: even then, no responsible adult is exempt from the commandments. Maarif ul Quran: the revival answered Musa's prayer, clearing him of accusation.
+
+**Reflection** Receive every return from ruin as a life handed back by Allah — and answer it with gratitude, not new demands.
 ## Personal Reflections
 
 

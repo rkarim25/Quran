@@ -169,9 +169,15 @@ And when Moses said to his people, "You wronged yourselves by worshipping the ca
 
 ## AI Tafsir
 
-**What this ayah teaches:** Verily, you have wronged yourselves by worshipping the calf. The Children of Israel kill each other in Repentance This was the repentance required from the Children of Israel for worshipping the calf.
+**Essence** Even calf-worship could not outrun Allah's mercy: a repentance as severe as the crime was prescribed, fulfilled, and sealed — He is al-Tawwab, ever-Accepting of repentance, al-Rahim, Most Merciful.
 
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+**What it teaches** Shirk is a wrong against *yourselves*: idolatry wounds the soul first. Musa calls his people back to their *Bari'* (Creator); the prescribed tawbah, as Ibn Kathir relates, was that the innocent execute the calf-worshippers — and "He accepted your repentance."
+
+**The scholars** Abu al-'Aliyah, Sa'id bin Jubayr and al-Rabi' bin Anas (in Ibn Kathir): *Bari'* means Creator — the name exposes the enormity of worshipping another beside their Maker. Maarif ul-Quran: some major sins entail capital punishment even after tawbah (qisas, stoning); by obeying, the Israelites were granted Allah's mercy in the other world.
+
+**From the Sunnah** Ibn 'Abbas narrated — a companion report Ibn Kathir ties to the hadith of the trials — that they slew whomever they met, father or son; "So Allah forgave both the killer and the one killed." (An-Nasa'i, Ibn Jarir, Ibn Abi Hatim)
+
+**Reflection** Bring your sin to the One who made you — no cost of tawbah is too high, for al-Tawwab is ever ready to accept it.
 ## Personal Reflections
 
 
