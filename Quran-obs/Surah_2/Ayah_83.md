@@ -244,13 +244,15 @@ And when We took a covenant from the Children of Israel: worship none but Allah;
 
 ## AI Tafsir
 
-**Context:** (And We did not send any Messenger before you (O Muhammad ﷺ) but We revealed to him (saying): La ilaha illa Ana [none has the right to be worshipped but I (Allah)], so worship Me (alone and none else))(21:25), and,
+**Essence** Allah's covenant with the Children of Israel bound worship of Him alone to goodness toward people — yet all but a few knowingly turned away.
 
-**What this ayah teaches:** And (remember) when We took a covenant from the Children of Israel, (saying): Worship none but Allah (alone) and be dutiful and good to parents, and to kindred, and to orphans and (the poor), and speak good to people and perform As-Salah and give Zakah.
+**What it teaches** Tawhid, ihsan to parents, kin, orphans and the needy, good speech to all, salah and zakah — the shared core, Maarif notes, of Islam and every earlier Shari'ah. The faithful few, it adds, kept Musa's law, then Muhammad's, peace be upon them.
 
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+**The scholars** Ibn Kathir: Allah's right to be worshipped alone is the highest right — the reason He created creation. Al-Hasan al-Basri: "speak good" means commanding good, forbidding evil, patience and forgiveness. 'Ata' (in Qurtubi): if Jews and Christians are owed gentle speech, how much more a fellow Muslim.
 
-**From the Sunnah:** This Hadith was also collected by Muslim in his Sahih and At-Tirmidhi, who graded it Sahih. (Sahih Muslim, Jami' at-Tirmidhi)
+**From the Sunnah** Asked the best deed, the Prophet ﷺ said: "Performing the prayer on time," then "being kind to one's parents" (the Two Sahihs). And: belittle no righteousness — even meeting your brother with a smiling face (Ahmad; Muslim; Tirmidhi: Sahih).
+
+**Reflection** Keep the covenant daily: prayer on time, parents honored, a kind face and word for everyone you meet.
 ## Personal Reflections
 
 

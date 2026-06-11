@@ -112,11 +112,15 @@ And those who believe and do righteous deeds will be among the people of Paradis
 
 ## AI Tafsir
 
-**What this ayah teaches:** And whoever does righteous good deeds, male or female, and is a (true) believer [in the Oneness of Allah (Muslim)], such will enter Paradise and not the least injustice, even the size of a Naqira (speck on the back of a date stone), will be done to them)(4:123-124).
+**Essence** Faith joined to righteous deeds makes a soul a companion of Paradise, abiding there forever (khalidun).
 
-**Classical tafsir:** Ibn Kathir notes: Those who commit evil deeds knowingly and deliberately so that evil takes hold of them completely, leaving no trace of goodness - such men shall go to the Hell, and live there forever, without any intermission or release.
+**What it teaches** Here, iman means believing in Allah and His Messenger ﷺ; the salihat are deeds conforming to the Islamic Law. This is Allah's law of recompense, refuting the claim of the Jews of Madinah (2:80) that the Fire would touch them only a few days.
 
-**From the Sunnah:** Paradise and not the least injustice, even the size of a Naqira (speck on the back of a date stone), will be done to them)(4:123-124). (Sahih Muslim) the Messenger of Allah ﷺ gave them an example,
+**The scholars** Ibn Kathir: the matter is not as you wished — by Allah's promise, recompense follows deeds, not desires: "not the least injustice, even the size of a Naqira" (4:123-124). Ibn 'Abbas: whoever believes and implements Muhammad's religion "shall acquire Paradise for eternity." Maarif ul Quran: iman is itself the greatest good deed, so evil can never wholly surround a believer, even a sinner.
+
+**From the Sunnah** "Beware of the belittled sins, because they gather on a person until they destroy him." (Imam Ahmad)
+
+**Reflection** Scatter the small sins before they gather; gather the small good deeds before they scatter — and walk toward the Garden on the footing of faith.
 ## Personal Reflections
 
 
