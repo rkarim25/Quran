@@ -169,9 +169,15 @@ Say, "If the eternal home with Allah in the Akhirah is reserved for you alone am
 
 ## AI Tafsir
 
-**What this ayah teaches:** Therefore, the People of the Book wish they could delay the Hereafter, as much as possible. The Mubahalah (invocation to Allah to destroy the liars) was called a 'wish' here, because every just person wishes that Allah destroy the unjust opponent who is debating with him, especially when the just person has a clear, apparent proof for the truth he is calling to.
+**Essence** A test no liar can pass: if the Hereafter with Allah were truly yours alone, you would wish for death — yet they never will.
 
-**Classical tafsir:** Ibn Kathir notes: So they claimed that they are Allah's sons and loved ones and said, "Only those who are Christian or Jews shall enter Paradise." Therefore, they were called to invoke Allah to destroy the lying group, be it them or the Muslims.
+**What it teaches** The Prophet's ﷺ Jewish contemporaries claimed the Hereafter was theirs alone. Ibn 'Abbas explained the wish: invoke Allah to bring death upon the lying camp — what Ibn Kathir calls a mubahalah. In that contest only the certain of Paradise gain by dying; the Jews declined.
+
+**The scholars** Ibn Kathir cites authentic chains to Ibn 'Abbas: had they asked, "one of them would have choked on his own saliva." Maarif ul-Quran: they recognized the Prophet ﷺ yet denied him out of envy — their predicted refusal is itself evidence of Islam's truth.
+
+**From the Sunnah** Ibn Jarir relates, without a full chain, that the Prophet ﷺ said: had the Jews wished for death, they would have died and seen their seats in the Fire, and those who invoked the curse against Allah's Messenger ﷺ would have found neither family nor property.
+
+**Reflection** Sincerity of faith shows in readiness to meet Allah — make the Hereafter your hope, not what you flee.
 ## Personal Reflections
 
 

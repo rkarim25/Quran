@@ -157,11 +157,17 @@ And when We took your covenant and raised the mountain over you: "Hold firmly to
 
 ## AI Tafsir
 
-**What this ayah teaches:** And (remember) when We took your covenant and We raised above you the Mount (saying), "Hold firmly to what We have given you and hear (Our Word)." They said, "We have heard and disobeyed." And their hearts absorbed (the worship of) the calf because of their disbelief.
+**Essence**
+Under the raised Mount, Israel pledged Allah's covenant — then answered "we hear and disobey," love of the calf already settled in their hearts.
 
-**Classical tafsir:** Ibn Kathir notes: And (remember) when We took your covenant and We raised above you the Mount (saying), "Hold firmly to what We have given you and hear (Our Word)." They said, "We have heard and disobeyed." And their hearts absorbed (the worship of) the calf because of their disbelief.
+**What it teaches**
+Allah took their mithaq (covenant) and raised Mount Tur over them: "Hold firmly to what We gave you and listen." Ushribu — "they were made to drink": their hearts absorbed the calf's worship because of their kufr.
 
-**From the Sunnah:** Ma'mar narrated that Qatadah said that,
+**The scholars**
+Qatadah — with Abu Al-'Aliyah and Ar-Rabi' bin Anas: "They absorbed its love, until its love resided in their hearts." Ibn Kathir: their worst deed was disbelieving in Muhammad ﷺ, the Final Messenger to all mankind, while claiming belief. Maarif ul-Quran: feeble repentance and weak hatred of the calf-worship left the rot inside; their "we heard" was tongue-only fright, no consent in the heart. Could a true faith ever inspire men to such deeds?
+
+**Reflection**
+Watch what your heart is made to drink; let obedience, not your tongue, testify to your iman.
 ## Personal Reflections
 
 

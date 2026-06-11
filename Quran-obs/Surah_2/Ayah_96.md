@@ -194,11 +194,15 @@ You will find them clinging to life more eagerly than any other people — even 
 
 ## AI Tafsir
 
-**What this ayah teaches:** Also, the Mubahalah involves invoking Allah for death of the unjust group, because to those who reject the truth, life is the biggest prize, especially when they know the evil destination they will meet after death.
+**Essence** Their craving for a thousand more years is a confession: clinging to life betrays what awaits them — and no span of years is a muzahzih, a remover of the punishment.
 
-**Classical tafsir:** Ibn Kathir notes: So they claimed that they are Allah's sons and loved ones and said, "Only those who are Christian or Jews shall enter Paradise." Therefore, they were called to invoke Allah to destroy the lying group, be it them or the Muslims.
+**What it teaches** Allah names them ahras al-nas, greediest of mankind for life — beyond even the resurrection-denying polytheists — and Allah is Basir, All-Seeing of what they do.
 
-**From the Sunnah:** So they claimed that they are Allah's sons and loved ones and said, "Only those who are Christian or Jews shall enter Paradise." Therefore, they were called to invoke Allah to destroy the lying group, be it them or the Muslims.
+**The scholars** Ibn Kathir: they crave longevity because "they know their evil end"; long life will avail them no more than it availed Iblis (Ibn Zayd). Maarif ul-Quran: no surprise in polytheists who denied the Hereafter — but these claimed Paradise as theirs alone, and their dread of death exposes the hollow claim.
+
+**From the Sunnah** "Had the Jews wished for death, they would have died and seen their seats in the Fire" (Ibn Jarir's Tafsir via Ibn Kathir — a report without a full chain).
+
+**Reflection** Do not make long life a shield against meeting Allah — live each granted day so death finds you ready.
 ## Personal Reflections
 
 

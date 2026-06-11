@@ -136,11 +136,15 @@ They will never wish for it because of what their hands have sent ahead. Allah h
 
 ## AI Tafsir
 
-**What this ayah teaches:** Also, the Mubahalah involves invoking Allah for death of the unjust group, because to those who reject the truth, life is the biggest prize, especially when they know the evil destination they will meet after death.
+**Essence** Those claiming Paradise as theirs alone will never wish for death — what their hands sent ahead forbids it. Allah knows the wrongdoers fully.
 
-**Classical tafsir:** Ibn Kathir notes: So they claimed that they are Allah's sons and loved ones and said, "Only those who are Christian or Jews shall enter Paradise." Therefore, they were called to invoke Allah to destroy the lying group, be it them or the Muslims.
+**What it teaches** Challenged in 2:94 to wish for death if the Hereafter were theirs alone, the Prophet's ﷺ Jewish contemporaries refused: they knew their own record. Allah is 'Alim of the zalimin who deny a truth they recognize.
 
-**From the Sunnah:** So they claimed that they are Allah's sons and loved ones and said, "Only those who are Christian or Jews shall enter Paradise." Therefore, they were called to invoke Allah to destroy the lying group, be it them or the Muslims.
+**The scholars** Ibn 'Abbas: it meant “Invoke Allah to bring death to the lying camp” — had they asked, “one of them would have choked on his own saliva.” Ibn Kathir calls it a Mubahalah; the refusal exposed their lie. Maarif ul-Quran: a trial costing only words, which they dared not attempt — itself evidence of Islam's truth.
+
+**From the Sunnah** Ibn Jarir relates in his Tafsir, without a full chain (“We were told”), that the Prophet ﷺ said: had the Jews wished for death, they would have died and seen their seats in the Fire.
+
+**Reflection** Live so that meeting Allah is a longing, not a dread.
 ## Personal Reflections
 
 
