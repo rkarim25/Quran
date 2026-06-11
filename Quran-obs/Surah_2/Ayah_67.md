@@ -118,9 +118,13 @@ And when Moses said to his people, "Allah commands you to slaughter a cow," they
 
 ## AI Tafsir
 
-**What this ayah teaches:** The next morning, the nephew cried out for revenge, and the people took up their weapons and almost fought each other.
+**Essence** Musa conveys Allah's command to slaughter a cow; his people retort, "Do you take us in ridicule (huzuwan)?" — he answers, "I seek refuge in Allah from being among the jahilin," the ignorant.
 
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+**What it teaches** Behind the strange command lay an unsolved murder that, the reports relate, had Banu Isra'il on the brink of fighting one another — Allah made a simple sacrifice the key to the truth.
+
+**The scholars** Ibn Kathir relays 'Ubaydah As-Salmani (via Ibn Abi Hatim): a wealthy man's only heir — his nephew — killed him, planted the body at another's doorstep by night, then cried for revenge, until the wise asked, "Why kill each other while the Messenger of Allah is among you?" Any cow would have sufficed had they not disputed; quibbling made it harder, until the designated cow cost its skin's fill of gold. Touched with part of it, the slain man rose and named his nephew; the report adds that thereafter whoever murdered for inheritance was barred from it. Maarif ul Quran cites Mirqat for a rejected suitor who killed the girl's father, and a weak report of Kalbi (via Ma'alim al-tanzil) that no manslaughter law had yet been revealed — before the Torah.
+
+**Reflection** Receive Allah's command with submission, not quibbling — what seems strange to you may be the very door to your relief.
 ## Personal Reflections
 
 

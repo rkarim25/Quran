@@ -134,11 +134,15 @@ We made that an example for their contemporaries and those after them, and a rem
 
 ## AI Tafsir
 
-**What this ayah teaches:** For the disobedient, it served as a 'deterrent', an example and a warning, which persuaded them to repent of their disobedience. For the obedient, it was a lesson and a reminder that they should be steadfast in their obedience.
+**Essence** Allah made the Sabbath-breakers' fate a *nakal* — a deterrent for those around and after them — and a *maw'izah*, an admonition for the God-fearing.
 
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+**What it teaches** One punishment, two audiences: pressing sinners to repent, steeling the obedient — even now.
 
-**From the Sunnah:** During the night, the Jews collected the fish after the Sabbath ended. Some 'modernizing' Muslims have tried to explain away this metamorphosis by suggesting that these disobedient Jews did not actually and physically turn into beasts, but that the change was only psychological in so far as they acquired the evil characteristics… (Sahih Muslim)
+**The scholars** Ibn Kathir: their deceit made sin look lawful, so the punishment matched the crime. Ibn 'Abbas: an example for the surrounding villages; the transformed died within three days, childless. Maarif ul-Quran cites al-Qurtubi on pretences hardening into open sin — and itself distinguishes such mockery from legitimate hiyal that conform to the Shari'ah.
+
+**From the Sunnah** "Do not commit what the Jews committed, breaching what Allah has forbidden, by resorting to the lowest types of deceit" (Ibn Battah; jayyid per Ibn Kathir). Sahih Muslim (Ibn Mas'ud): transformed peoples leave no progeny; apes and swine today are not their descendants.
+
+**Reflection** Honor Allah's limits outwardly and inwardly — never dress disobedience in clever excuses.
 ## Personal Reflections
 
 

@@ -146,11 +146,15 @@ You already knew those among you who violated the Sabbath. We said to them, "Be 
 
 ## AI Tafsir
 
-**What this ayah teaches:** And indeed you knew those amongst you who transgressed in the matter of the Sabbath (i.e.
+**Essence** Allah reminds the Children of Israel (Bani Isra'il) of the Sabbath-breakers He turned into despised apes.
 
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+**What it teaches** Forbidden to fish on the Sabbath (sabt), a seaside town set nets before Saturday and hauled the catch after it ended. Allah said, "Be apes, khasi'in" — despised and rejected.
 
-**From the Sunnah:** During the night, the Jews collected the fish after the Sabbath ended. Some 'modernizing' Muslims have tried to explain away this metamorphosis by suggesting that these disobedient Jews did not actually and physically turn into beasts, but that the change was only psychological in so far as they acquired the evil characteristics… (Sahih Muslim)
+**The scholars** Ibn Kathir: their deceit "appeared lawful on the surface," so the punishment matched the crime. Maarif ul-Quran: the change was truly physical, and such Shari'ah-mocking ruses are nothing like the jurists' lawful hiyal, which serve obedience, not evasion.
+
+**From the Sunnah** "Do not commit what the Jews committed, breaching what Allah has forbidden, by resorting to the lowest types of deceit" (Ibn Battah, jayyid chain). Asked if today's apes and swine descend from them, the Prophet ﷺ noted both existed before — a metamorphosed people leaves no progeny (Muslim).
+
+**Reflection** Before reaching for a loophole around Allah's command, remember: He judges the deed's reality, not its disguise.
 ## Personal Reflections
 
 
