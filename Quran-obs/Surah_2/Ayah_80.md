@@ -137,11 +137,15 @@ Some among them claim, "The Fire will touch us only for a counted number of days
 
 ## AI Tafsir
 
-**What this ayah teaches:** The Messenger of Allah ﷺ ordered, 'Assemble before me all the Jews who were here.' The Jews were summoned and the Prophet ﷺ said (to them), 'Who is your father?' They replied, 'So-and-so.' He said, 'You have lied; your father is so-and-so.' They said, 'You have uttered the truth.' He said, 'Will you now tell me the truth, if I ask you about something?' They replied, 'Yes, O Abu…
+**Essence** Allah shatters the false security of those claiming the Fire will touch them only "a few numbered days": where is your pledge from Him?
 
-**Classical tafsir:** Ibn Kathir notes: "The Jews said, 'The Fire will only touch us for forty days.'" Others added that this was the period during which the Jews worshipped the calf.
+**What it teaches** Safety from Hell rests only on an 'ahd — a covenant from Allah, which He never breaks. Without one, every claim of guaranteed salvation is "saying about Allah what you do not know."
 
-**From the Sunnah:** (to them), 'Who is your father? (Sahih al-Bukhari, Musnad Ahmad)
+**The scholars** Ibn 'Abbas: they claimed forty days — others adding, the days they worshipped the calf (Ibn Kathir). Maarif ul Quran: their premise that Musa's Shari'ah was unabrogated is false, and no Book of Allah promises disbelievers release from Hell — so no such pledge exists.
+
+**From the Sunnah** After Khaybar's conquest, the Prophet ﷺ asked its Jews who the people of the (Hell) Fire were. They said, "We shall remain in the (Hell) Fire for a short period, and after that you will replace us in it." He replied, "May you be cursed and humiliated in it! By Allah, we shall never replace you in it." (Abu Hurayrah; Ahmad, Al-Bukhari and An-Nasa'i recorded similarly)
+
+**Reflection** Their ruin was presumption, not despair. Before resting on any hope of pardon, ask: did Allah say this — or did I?
 ## Personal Reflections
 
 

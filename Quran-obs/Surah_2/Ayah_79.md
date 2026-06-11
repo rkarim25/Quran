@@ -202,13 +202,15 @@ Woe to those who write the Scripture with their own hands, then say, "This is fr
 
 ## AI Tafsir
 
-**Context:** This is another category of people among the Jews who called to misguidance with falsehood and lies about Allah, thriving on unjustly amassing people's property.
+**Essence** Allah pronounces a threefold woe on those who forge scripture with their own hands, claim "This is from Allah," and sell it for a fleeting price.
 
-**What this ayah teaches:** And there are among them (Jews) 'Ummyyun (unlettered) people, who know not the Book, but they trust upon Amani (false desires) and they but guess (78)Then woe to those who write the book with their own hands and then say, "This is from Allah," to purchase with it a little price!
+**What it teaches** Waylun (woe) means destruction and perishing. Grievous punishment awaits two sins: distorting the Word of Allah, and earning by it. The "little price," said al-Hasan al-Basri, is this whole life and all it contains.
 
-**Classical tafsir:** Ibn Kathir notes: Mujahid commented, "Allah described the Ummiyyin as not understanding any of the Book that Allah sent down to Musa, yet they create lies and falsehood." Therefore, the word Amani mentioned here refers to lying and falsehood.
+**The scholars** Ibn Kathir: one woe for the lies and alterations their hands wrote, another for what they unjustly took from people. Maarif ul-Quran: the greedy, self-seeking scholars who changed the Torah's words or distorted their sense bear a crime greater than that of the masses they misled.
 
-**From the Sunnah:** Ummi was one of the descriptions of the Prophet ﷺ because he was unlettered.
+**From the narrations** Ibn 'Abbas — recorded by al-Bukhari — asked the Muslims how they could question the People of the Book, when the Qur'an, fresh and young, already told them they altered Allah's Book, wrote another with their own hands, and called it "from Allah" for a small profit.
+
+**Reflection** Whoever carries Allah's words must never bend them toward his own gain.
 ## Personal Reflections
 
 

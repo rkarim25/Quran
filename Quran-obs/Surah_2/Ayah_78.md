@@ -148,13 +148,15 @@ Among them are the unlettered who know nothing of the Scripture except wishful g
 
 ## AI Tafsir
 
-**Context:** This is another category of people among the Jews who called to misguidance with falsehood and lies about Allah, thriving on unjustly amassing people's property.
+**Essence** Among the People of the Book were unlettered masses who knew Allah's Scripture only through amani — wishes or outright lies — and mere guesswork.
 
-**What this ayah teaches:** Verse 77 deals with the educated ones among the Jews, while Verse 78 speaks of those who were unlettered. Mujahid commented, "Allah described the Ummiyyin as not understanding any of the Book that Allah sent down to Musa, yet they create lies and falsehood." Therefore, the word Amani mentioned here refers to lying and falsehood.
+**What it teaches** Ummiyyun means those who do not write (Abu al-'Aliyah, Qatadah); per Maarif ul Quran, dishonest scholars fed them flattering superstition instead of the Torah.
 
-**Classical tafsir:** Ibn Kathir notes: Mujahid commented, "Allah described the Ummiyyin as not understanding any of the Book that Allah sent down to Musa, yet they create lies and falsehood." Therefore, the word Amani mentioned here refers to lying and falsehood.
+**The scholars** Mujahid: they grasped nothing of the Book sent down to Musa, "yet they create lies and falsehood." Ibn 'Abbas: amani is "a false statement that they utter with their tongues" (others: wishes and hopes). Maarif ul Quran: Qur'anic zann spans certitude (2:46), the greatest likelihood (12:42), and mere fancy — only the third is condemned here.
 
-**From the Sunnah:** Ummi was one of the descriptions of the Prophet ﷺ because he was unlettered.
+**From the Sunnah** The Prophet ﷺ said, "We are an Ummi nation, neither writing nor calculating" — ummi was among his own descriptions (Ibn Kathir). In an athar in Al-Bukhari, Ibn 'Abbas asked how Muslims could question the People of the Book while the Qur'an is read "fresh and young."
+
+**Reflection** Know your Book firsthand — borrowed guesses cannot stand before revelation read fresh.
 ## Personal Reflections
 
 

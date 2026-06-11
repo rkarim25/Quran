@@ -156,11 +156,13 @@ Do they not know that Allah knows what they conceal and what they reveal?
 
 ## AI Tafsir
 
-**Context:** Do you (faithful believers) covet that they will believe in your religion inspite of the fact that a party of them (Jewish rabbis) used to hear the Word of Allah (the Tawrah), then they used to change it knowingly after…
+**Essence** No two-faced game survives before Allah, who knows what hearts hide and tongues declare alike.
 
-**What this ayah teaches:** Allah reminds the Jews that He is omniscient, and knows what they try to keep concealed as well as what they say or do openly.
+**What it teaches** What they kept secret (ma yusirrun) and what they made public (ma yu'linun) lay equally open to Allah — saying "we believe" while suppressing the truth gained them nothing.
 
-**Classical tafsir:** Ibn Kathir notes: Verse 77 deals with the educated ones among the Jews, while Verse 78 speaks of those who were unlettered.
+**The scholars** Ibn Kathir cites Abu al-'Aliyah and Qatadah: the secret was their denial of Muhammad ﷺ though they found his coming recorded in their Book; al-Hasan al-Basri adds they privately forbade one another from telling his Companions, lest it become a proof against them before their Lord; the public face was "We believe" (Abu al-'Aliyah, ar-Rabi', Qatadah). Maarif ul-Quran: the verse addresses their learned men — Allah had already told the Muslims of their hypocrisy and the Torah's testimony, so concealment was futile.
+
+**Reflection** Keep your private self one you would not fear to show before Allah.
 ## Personal Reflections
 
 
