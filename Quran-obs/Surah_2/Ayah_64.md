@@ -114,9 +114,15 @@ Yet you turned away afterward. Had it not been for Allah's grace and mercy, you 
 
 ## AI Tafsir
 
-**What this ayah teaches:** Had it not been for the grace and mercy of Allah upon you, indeed you would have been among the losers . Since a number of authentic ahadith declare that it is the barakah of the Holy Prophet ﷺ that catastrophic punishments no longer descend on any people, some commentators have identified this particular mercy and grace of Allah with the sending down of Muhammad ﷺ as a Prophet and Messenger of Al…
+**Essence** A covenant sealed beneath a raised mountain — and still they turned away. Only Allah's grace and mercy stood between them and ruin.
 
-**Classical tafsir:** Ibn Kathir notes: Allah stated that when He took their pledge from them, He raised the mountain above their heads, so that they affirm the pledge that they gave Allah and abide by it with sincerity and seriousness.
+**What it teaches** Thumma tawallaytum — "then you turned away" — after the solemn pledge. Without Allah's fadl (grace) and rahmah (mercy), they would be khasirin: losers in this life and the Hereafter.
+
+**The scholars** Ibn Kathir: the grace was Allah "forgiving you and sending the Prophets and Messengers to you." Maarif ul Quran: His mercy is general — worldly good for believer and disbeliever alike — and special: salvation for believers. The address reaches the Jews of the Prophet's ﷺ time, since faith in him too was part of the Covenant.
+
+**From the Sunnah** Maarif ul Quran cites ahadith it describes as authentic: through the barakah of the Holy Prophet ﷺ, catastrophic punishments no longer descend on any people — a grace some commentators tie to his sending.
+
+**Reflection** Every day you stand after a broken promise to Allah is His fadl, not your entitlement — return before the loss that counts.
 ## Personal Reflections
 
 

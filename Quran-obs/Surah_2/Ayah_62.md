@@ -186,13 +186,13 @@ Those who believe, and those who followed Judaism, Christianity, or the Sabians 
 
 ## AI Tafsir
 
-**Context:** We had better dispel another misunderstanding which is likely to arise from the wordings of the present verse -- and, which is actually being promoted by certain 'modernizers'.
+**Essence** Allah's reward turns on no label or lineage, only on true iman in Him and the Last Day joined to righteous deeds — which, after Muhammad ﷺ was sent, means following him.
 
-**What this ayah teaches:** The Sabi'un or Sabians There is a difference of opinion over the identity of the Sabians.
+**What it teaches** Reward secure with their Lord; no khawf (fear for what lies ahead), no huzn (grief over what is past). Maarif ul-Quran: naming only faith's first and last articles demands, in brief, the whole creed.
 
-**Classical tafsir:** Ibn Kathir notes: This indicates that they were called Yahud, because they repented and because they were kind to each other.
+**The scholars** Ibn Kathir cites Ibn 'Abbas: after Muhammad ﷺ, no deed is accepted unless it conforms to his Law (3:85); before, whoever followed his own Prophet was saved. Maarif ul-Quran: an invitation to Islam — Muslims named to show reward flows from obedience, not favoritism.
 
-**From the Sunnah:** One might also ask why the verse mentions the Muslims, for if it is an invitation to Islam, there is no need to extend the invitation to those who have already accepted Islam. (Sahih Muslim) For, the Holy Qur'an repeatedly declares that he who does not believe in the prophets, in angels and in the Books of Allah is not a Muslim. (Sahih Muslim)
+**Reflection** Rest your hope not in a name you carry but in faith you live — "no fear, no grief" is Allah's promise to whoever lives it.
 ## Personal Reflections
 
 

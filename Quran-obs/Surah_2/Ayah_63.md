@@ -119,9 +119,15 @@ And when We took your covenant and raised the mountain above you: "Hold firmly t
 
 ## AI Tafsir
 
-**What this ayah teaches:** Allah stated that when He took their pledge from them, He raised the mountain above their heads, so that they affirm the pledge that they gave Allah and abide by it with sincerity and seriousness.
+**Essence** A covenant is not a suggestion. Allah raised Mount Tur over the Children of Israel to seal theirs: hold what We have given you with strength, remember what is in it, that you may attain taqwa.
 
-**Classical tafsir:** Ibn Kathir notes: Allah stated that when He took their pledge from them, He raised the mountain above their heads, so that they affirm the pledge that they gave Allah and abide by it with sincerity and seriousness.
+**What it teaches** The mithaq bound Israel to believe in Allah alone and follow His Messengers — a pledge, Ibn Kathir says, to affirm and live "with sincerity and seriousness," its aim taqwa.
+
+**The scholars** The mount is At-Tur (Ibn 'Abbas, Mujahid and others). Al-Hasan: the gift is the Tawrah; Mujahid: "strictly adhere to it"; Abu Al-'Aliyah and Ar-Rabi': "read the Tawrah and implement it." Maarif ul-Quran: no compulsion — they had already accepted Musa (peace be upon him); the mountain warned rebels against a law they acknowledged.
+
+**From the narrations** Ibn 'Abbas, in the Hadith about the trials (a Companion's report, cited by Ibn Kathir): "When they (the Jews) refused to obey, Allah raised the mountain above their heads so that they would listen."
+
+**Reflection** Take revelation as it was sent — read it and live it with your whole strength, not with a bare-minimum heart.
 ## Personal Reflections
 
 

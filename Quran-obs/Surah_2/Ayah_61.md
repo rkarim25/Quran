@@ -375,9 +375,15 @@ And when you said, "O Moses, we cannot bear one kind of food — call on your Ra
 
 ## AI Tafsir
 
-**What this ayah teaches:** So invoke your Lord for us to bring forth for us of what the earth grows, its herbs, its cucumber its Fum, its lentils and its onions." He said, "Would you exchange that which is better for that which is lower? This cannot be described as having temporal power, in the proper sense of the term.
+**Essence** Trading Allah's better gift for the lower is ingratitude; the humiliation and wrath fell for rejecting His signs and killing His Prophets wrongfully.
 
-**Classical tafsir:** Ibn Kathir notes: Remember how you asked Musa to exchange this type of food for an inferior type that consists of vegetation, and so forth." Al-Hasan Al-Basri said about the Children of Israel, "They were bored and impatient with the type of food they were provided.
+**What it teaches** Israel tired of manna and quails and begged for herbs — khayr (better) traded for adna (lower). Dhillah (humiliation) and maskanah (misery) struck for deeper crimes: disbelieving Allah's ayat, killing the Prophets without right, disobeying and transgressing.
+
+**The scholars** Al-Hasan al-Basri saw boredom — pining for the old diet; Ibn Kathir adds arrogance: the request, met in any city (Ibn 'Abbas), was denied — "and Allah knows best." Maarif ul-Quran: their disgrace is the lasting loss of real power, spared only "through a rope from Allah and a rope from men" (3:112).
+
+**From the Sunnah** "Kibr is refusing the truth and belittling people" (Sahih Muslim); among the most tormented on Resurrection Day is one who killed a Prophet (Imam Ahmad).
+
+**Reflection** When Allah provides what is pure, guard the tongue from trading gratitude for complaint.
 ## Personal Reflections
 
 
