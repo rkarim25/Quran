@@ -174,13 +174,20 @@ Whoever is an enemy of Allah, His angels, His messengers, Gabriel, and Michael �
 
 ## AI Tafsir
 
-**Context:** Imam Abu Ja'far bin Jarir At-Tabari said, "The scholars of Tafsir agree that this Ayah (2: 97-98) was revealed in response to the Jews who claimed that Jibril (Gabriel) is an enemy of the Jews and that Mika'il (Michael)…
+**Essence**
+Enmity toward any of Allah's angels or messengers is enmity toward Allah Himself — and He declares Himself the enemy of such disbelievers.
 
-**What this ayah teaches:** Allah informed them that whoever is an enemy of either of them, then he is also an enemy of the other as well as Allah.
+**What it teaches**
+Faith cannot be split: Allah's messengers include angels and men, all acting only by His command — hating one, even Jibril, is the kufr of "we believe in some but reject others."
 
-**Classical tafsir:** Ibn Kathir notes: 'Ikrimah said, "Jibr, Mik and Israf all mean, worshipper, while il means, Allah". Some people say that 'il' means worshipper while whatever word that is added to it becomes Allah's Name, because 'il' is a constant in such conjunction.
+**The scholars**
+At-Tabari: the mufassirin agree this answered the Jews who called Jibril their enemy and Mika'il their friend. Ibn Kathir: rejecting one messenger rejects them all; the two names crush that false division. Maarif ul-Quran: sheer perversity — Jibra'il only delivered under divine command, so judge the Book on its merit.
 
-**From the Sunnah:** Jibril has just told me the answers. (What do you think if he would embrace Islam?) The Jews said, 'May Allah save him from it. (Sahih al-Bukhari, Sahih Muslim)
+**From the Sunnah**
+Allah, the Exalted, has said: "Whoever takes a friend of Mine as an enemy, will have started a war with Me." (Al-Bukhari)
+
+**Reflection**
+When revelation stings, do not blame its bearer — honor every envoy of Allah and receive the Book for what it is.
 ## Personal Reflections
 
 

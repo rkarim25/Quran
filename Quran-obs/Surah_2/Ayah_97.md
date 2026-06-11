@@ -200,13 +200,15 @@ Say, "Whoever is an enemy of Gabriel should know that he brought this Quran to y
 
 ## AI Tafsir
 
-**Context:** Imam Abu Ja'far bin Jarir At-Tabari said, "The scholars of Tafsir agree that this Ayah (2: 97-98) was revealed in response to the Jews who claimed that Jibril (Gabriel) is an enemy of the Jews and that Mika'il (Michael)…
+**Essence** Enmity toward Jibril is enmity toward the One who sent him: he brought the Qur'an down upon the Prophet's ﷺ heart only by Allah's permission.
 
-**What this ayah teaches:** Further, whoever believes in one messenger, is required to believe in all of the messengers.
+**What it teaches** Jibril is purely an emissary; the Book he carries confirms the earlier Scriptures and is guidance and glad tidings for the believers.
 
-**Classical tafsir:** Ibn Kathir notes: 'Ikrimah said, "Jibr, Mik and Israf all mean, worshipper, while il means, Allah". Some people say that 'il' means worshipper while whatever word that is added to it becomes Allah's Name, because 'il' is a constant in such conjunction.
+**The scholars** At-Tabari: the mufassirun agree this answered the Jews who called Jibril their enemy and Mika'il their friend. Ibn Kathir: enmity to one messenger is enmity to all (cf. 4:150). Mufti Shafi's Maarif ul Quran relays Thanavi's Bayan al-Qur'an: "upon your heart" never means meanings without words.
 
-**From the Sunnah:** Jibril has just told me the answers. (What do you think if he would embrace Islam?) The Jews said, 'May Allah save him from it. (Sahih al-Bukhari, Sahih Muslim)
+**From the Sunnah** 'Abdullah bin Salam asked three things "which nobody knows except a Prophet"; the Prophet ﷺ said, "Jibril has just told me the answers" — and when he gave them, Ibn Salam embraced Islam. Ibn Kathir adduces the hadith qudsi: "Whoever takes a friend of Mine as an enemy, will have started a war with Me" (both Al-Bukhari).
+
+**Reflection** Receive the Qur'an as it was sent — upon the heart, where Jibril laid it.
 ## Personal Reflections
 
 
