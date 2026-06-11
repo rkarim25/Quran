@@ -304,11 +304,15 @@ When a messenger from Allah came to them confirming what they had, a group among
 
 ## AI Tafsir
 
-**Context:** (And indeed We have sent down to you manifest Ayat) means, "We have sent to you, O Muhammad, clear signs that testify to your prophethood." These Ayat are contained in the Book of Allah (Qur'an) which narrates the secret…
+**Essence** When the Messenger ﷺ came confirming their own Scripture, a party of the People of the Book flung Allah's Book — *nabadha* — behind their backs, as if they did not know.
 
-**What this ayah teaches:** Muhammad ﷺ) confirming what was with them, a party of those who were given the Scripture threw away the Book of Allah behind their backs as if they did not know (101)They followed what the Shayatin (devils) gave out (falsely of the magic) in the lifetime of Sulayman (Solomon).
+**What it teaches** The Torah had foretold him; he came as *musaddiq*, confirming it. So rejecting him was rejecting their own Book — ignorance feigned, not real.
 
-**Classical tafsir:** Ibn Kathir notes: What should I do?" Al-Hasan Al-Basri said that this Ayah means, "The angels were sent with magic, so that the people whom Allah willed would be tried and tested.
+**The scholars** As-Suddi relates (in Ibn Kathir): they sought to refute him from the Tawrah, but Tawrah and Qur'an affirmed each other — so they traded it for the Book of Asaf and the magic tied to the trial of Harut and Marut. Qatadah: "They knew the truth but abandoned it, hid it and denied the fact that they even had it." Maarif ul Quran: kufr even in terms of the Torah itself.
+
+**From the Sunnah** Of the lore they turned to instead, Ibn Kathir cites: "Whoever came to a soothsayer or a sorcerer and believed in what he said, will have disbelieved in what Allah revealed to Muhammad ﷺ" (Abu Bakr Al-Bazzar; graded authentic by Ibn Kathir) — kufr because it credits men's claims to the unseen over Allah's revelation.
+
+**Reflection** Knowledge unlived is knowledge thrown behind the back — keep Allah's Book before your eyes, and let it lead you.
 ## Personal Reflections
 
 

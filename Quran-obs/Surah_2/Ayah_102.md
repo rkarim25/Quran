@@ -639,11 +639,15 @@ They followed what devils recited during Solomon's reign. Solomon did not reject
 
 ## AI Tafsir
 
-**Context:** (And indeed We have sent down to you manifest Ayat) means, "We have sent to you, O Muhammad, clear signs that testify to your prophethood." These Ayat are contained in the Book of Allah (Qur'an) which narrates the secret…
+**Essence** Allah clears Sulayman: he never disbelieved — the devils did, teaching a sihr that sells the soul for a miserable price.
 
-**What this ayah teaches:** Where the causes are evident, the effects are immediately referred back to them, and the events thus produced are not considered to be astonishing, but where the causes are hidden or obscure, the events produced by them arouse wonder and amazement, and those who are ignorant of the causes readily come to believe that the things have happened in contravention of the habitual law…
+**What it teaches** Magic is real yet powerless — harming none "except by Allah's leave." Harut and Marut warned every seeker, "We are only a fitnah, so do not disbelieve"; whoever buys it forfeits his khalaq — his share in the Hereafter.
 
-**Classical tafsir:** Ibn Kathir notes: What should I do?" Al-Hasan Al-Basri said that this Ayah means, "The angels were sent with magic, so that the people whom Allah willed would be tried and tested.
+**The scholars** Ibn Kathir (As-Suddi): Sulayman himself buried the devils' books of eavesdropped lies — dug up after his death to brand him a sorcerer. Many Salaf ('Ali, Ibn Mas'ud, Ibn 'Abbas) held the two to be angels sent as a trial. Maarif ul-Quran: magic works by hidden causes, miracles by Allah's direct act — and He creates effects and causes alike; devil-invoking sihr is kufr, lesser forms a grave sin.
+
+**From the Sunnah** "Whoever came to a soothsayer or a sorcerer and believed in what he said, will have disbelieved in what Allah revealed to Muhammad ﷺ." (Al-Bazzar) In Muslim, Satan embraces the devil who boasts, "I separated between him and his wife."
+
+**Reflection** Knowledge unlived is no better than ignorance — no bargain is worth your soul.
 ## Personal Reflections
 
 

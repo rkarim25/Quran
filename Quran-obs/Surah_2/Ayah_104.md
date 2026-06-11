@@ -137,11 +137,15 @@ O believers — do not say "Ra'ina" in a way that can be twisted; say "Unzurna" 
 
 ## AI Tafsir
 
-**What this ayah teaches:** And for the those who reject the truth there is a painful torment (104)Neither those who disbelieve among the People of the Scripture (Jews and Christians) nor Al-Mushrikin (the idolaters) like that there should be sent down unto you any good from your Lord.
+**Essence** Allah trains believers to guard even a single word, replacing a phrase mockers had twisted against the Prophet ﷺ.
 
-**Classical tafsir:** Ibn Kathir notes: Ibn Abu Hatim said that it was reported that Abu Al-'Aliyah, Abu Malik, Ar-Rabi' bin Anas, 'Atiyah Al-'Awfi and Qatadah said similarly. When they wanted to say, 'hear us,' they would use the word Ra'ina, which is an insult (in Hebrew, but means 'hear us' in Arabic).
+**What it teaches** The mufassirun report that Ra'ina meant "be mindful of us" in Arabic but was a curse in Hebrew; some Jews of Madinah used it to insult the Prophet ﷺ, and some Muslims unknowingly echoed it. Allah commands the unambiguous Unzurna — "make us understand" — and attentive listening.
 
-**From the Sunnah:** Also, the Hadiths stated that when they would greet Muslims, they would say, 'As-Samu 'alaykum,' meaning, 'death be to you'. They used to say to the Prophet ﷺ, Ar'ina samak (which is an insult).
+**The scholars** Ibn Kathir: Allah forbade imitating the disbelievers in tongue or deed; Ad-Dahhak relates from Ibn 'Abbas that they said "Ar'ina samak," an insult. Maarif ul Quran: branding them kafirin shows intentional disrespect toward a prophet, even indirect, is itself kufr; from this jurists derive Sadd al-Dhara'i — blocking even permissible acts that open a door to wrong (Qurtubi).
+
+**From the Sunnah** "Whoever imitates a people is one of them." (Abu Dawud)
+
+**Reflection** Speak so cleanly that no mocker can hide inside your words — and release even the lawful when it becomes a ladder to another's sin.
 ## Personal Reflections
 
 

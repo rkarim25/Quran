@@ -376,13 +376,15 @@ If they had believed and lived with taqwa, a better reward from Allah would have
 
 ## AI Tafsir
 
-**Context:** (And indeed We have sent down to you manifest Ayat) means, "We have sent to you, O Muhammad, clear signs that testify to your prophethood." These Ayat are contained in the Book of Allah (Qur'an) which narrates the secret…
+**Essence** Had they chosen faith and taqwa over sorcery, the reward kept with Allah would have far outweighed the wretched price for which they sold their souls.
 
-**What this ayah teaches:** There is a difference of opinion regarding this story.
+**What it teaches** Iman and taqwa earn a mathubah — "a reward from Allah." One small conditional — law, "if only" — holds the door they refused to walk through.
 
-**Classical tafsir:** Ibn Kathir notes: What should I do?" Al-Hasan Al-Basri said that this Ayah means, "The angels were sent with magic, so that the people whom Allah willed would be tried and tested. Therefore, do not fall in disbelief.'" Also, As-Suddi said, "When a man would come to the two angels they would advise him, 'Do not fall into disbelief.
+**The scholars** Ibn Kathir: belief in Allah and His Messenger ﷺ and avoidance of the prohibitions would have brought a reward none attain, as in 28:80, "except As-Sabirun (the patient)." Maarif ul Quran: the Jews knew magic was sin and kufr yet practiced it; the verse affirms they "knew," then negates it — knowledge unacted upon "is no better than ignorance."
 
-**From the Sunnah:** When Solomon was sent as a Prophet, he collected these books in a box and buried it under his throne; any devil that dared get near the box was burned.
+**From the Sunnah** "Whoever came to a soothsayer or a sorcerer and believed in what he said, will have disbelieved in what Allah revealed to Muhammad ﷺ." — Abu Bakr Al-Bazzar, from 'Abdullah (in Ibn Kathir).
+
+**Reflection** Let what you know of Allah govern what you choose — knowledge unlived is ignorance.
 ## Personal Reflections
 
 
