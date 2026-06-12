@@ -43,10 +43,14 @@ const FINAL_SCHEMA = { type: 'object', properties: {
   changes_made: { type: 'array', items: { type: 'string' } }, unresolved: { type: 'array', items: { type: 'string' } },
 }, required: ['essence', 'teaches', 'scholars', 'sunnah', 'rendered', 'changes_made', 'unresolved'] }
 
+// Model mix: grounded synthesis and mechanical source-checking run on Sonnet;
+// the aqeedah lens (subtle creed judgment) inherits the session's top model.
+const FAST_MODEL = 'sonnet'
+
 const LENSES = [
-  { key: 'hadith', title: 'Hadith authenticity & grounding', needsSource: true, instruction: "For EVERY hadith in the draft, verify it actually appears in the source file's Ibn Kathir or Maarif ul Quran text for THIS ayah. Any hadith not present in the source is UNGROUNDED — flag it MAJOR and list it in ungrounded_hadith (fabrication risk). Verify the named collection matches the source. Confirm no isnad or wording was invented. Do NOT rely on your own memory of hadith — only the source file. The file may be large; read it fully (page with offset if truncated)." },
+  { key: 'hadith', title: 'Hadith authenticity & grounding', needsSource: true, model: FAST_MODEL, instruction: "For EVERY hadith in the draft, verify it actually appears in the source file's Ibn Kathir or Maarif ul Quran text for THIS ayah. Any hadith not present in the source is UNGROUNDED — flag it MAJOR and list it in ungrounded_hadith (fabrication risk). Verify the named collection matches the source. Confirm no isnad or wording was invented. Do NOT rely on your own memory of hadith — only the source file. The file may be large; read it fully (page with offset if truncated)." },
   { key: 'aqeedah', title: 'Creed (Ahl al-Sunnah) soundness', needsSource: false, instruction: "Flag anything that distorts Allah's names/attributes or the unseen, any anthropomorphism, any sectarian or disputed opinion stated as settled fact, or any claim outside mainstream Sunni creed. Identifications of groups/people must be attributed as the source attributes them, not stated as blanket judgements. Doctrinal errors = major; wording risks = minor." },
-  { key: 'craft', title: 'Faithfulness to source + conciseness & power', needsSource: true, instruction: "Confirm the synthesis faithfully reflects the source's Ibn Kathir / Maarif without distortion or overreach (read the source). Then judge craft: is it CONCISE (rendered ~600-1100 chars, never over 1800), vivid, and non-repetitive? Does it avoid merely restating the translation? Flag padding, repetition across layers, vagueness, distortion, or flat writing." },
+  { key: 'craft', title: 'Faithfulness to source + conciseness & power', needsSource: true, model: FAST_MODEL, instruction: "Confirm the synthesis faithfully reflects the source's Ibn Kathir / Maarif without distortion or overreach (read the source). Then judge craft: is it CONCISE (rendered ~600-1100 chars, never over 1800), vivid, and non-repetitive? Does it avoid merely restating the translation? Flag padding, repetition across layers, vagueness, distortion, or flat writing." },
 ]
 
 function draftPrompt(item) {
@@ -127,11 +131,11 @@ log(`Layered tafsir (Opus + 3-reviewer): surah ${surah}, ayahs ${ayahList.join('
 
 const results = await pipeline(
   AYAHS,
-  (item) => agent(draftPrompt(item), { label: `draft ${item.ref}`, phase: 'Draft', schema: DRAFT_SCHEMA }),
+  (item) => agent(draftPrompt(item), { label: `draft ${item.ref}`, phase: 'Draft', schema: DRAFT_SCHEMA, model: FAST_MODEL }),
   (draft, item) => parallel(LENSES.map((lens) => () =>
-      agent(verifyPrompt(item, draft, lens), { label: `verify:${lens.key} ${item.ref}`, phase: 'Verify', schema: VERDICT_SCHEMA })
+      agent(verifyPrompt(item, draft, lens), { label: `verify:${lens.key} ${item.ref}`, phase: 'Verify', schema: VERDICT_SCHEMA, ...(lens.model ? { model: lens.model } : {}) })
     )).then((verdicts) => ({ item, draft, verdicts: verdicts.filter(Boolean) })),
-  (bundle, item) => agent(finalizePrompt(item, bundle.draft, bundle.verdicts), { label: `finalize ${item.ref}`, phase: 'Finalize', schema: FINAL_SCHEMA })
+  (bundle, item) => agent(finalizePrompt(item, bundle.draft, bundle.verdicts), { label: `finalize ${item.ref}`, phase: 'Finalize', schema: FINAL_SCHEMA, model: FAST_MODEL })
       .then((final) => ({ surah: item.s, ayah: item.a, final, verdicts: bundle.verdicts })),
 )
 
