@@ -397,11 +397,25 @@ Or like the one who passed a ruined town and said, "How will Allah revive this a
 
 ## AI Tafsir
 
-**What this ayah teaches:** When Allah resurrected 'Uzayr after he died, the first organ that He resurrected were his eyes, so that he could witness what Allah does with him, how He brings life back to his body. He said: "How will Allah ever bring it to life after its death?" So Allah caused him to die for a hundred years, then raised him up (again).
+**Essence**
 
-**Classical tafsir:** Ibn Kathir notes: Obviously, his argument was totally absurd, because 'giving life' means to give life to something lifeless56.
+A man gazing on a dead, ruined town wondered how Allah could ever revive it, so Allah let him taste death for a hundred years and then raised him, his food, and his donkey before his eyes, until he confessed that Allah is able to do all things.
 
-**From the Sunnah:** his father said that the Messenger of Allah ﷺ read this Ayah, (al-Mustadrak) It is evident from the words used in the verse that if an infidel is given political power or a high worldly status, there is no harm (for a Muslim) in referring to him as a holder of that position (Qurtubi). (Sahih Muslim)
+**What it teaches**
+
+Passing a town fallen "khawiyah" — collapsed to its very roofs (urush), emptied of its people — the man asked "anna" (how / from where) Allah could bring it back after its death; Allah answered not with words but with a living demonstration upon the man himself, making him an aya (a sign) for humanity that resurrection (al-ba'th) is real, and sealing it with his testimony that Allah is qadir — possessing complete, all-encompassing power — over kulli shay', every single thing.
+
+**The scholars**
+
+Ibn Abi Hatim and Ibn Jarir record that 'Ali ibn Abi Talib said the one intended in this ayah is 'Uzayr, and they relate the same from Ibn 'Abbas, Al-Hasan, Qatadah, As-Suddi, and Sulayman ibn Buraydah; Mujahid ibn Jabr held the man was an Israelite and the town was Jerusalem after Nebuchadnezzar had destroyed it and killed its people. "Khawiyah" means it became empty of people, and "upon its roofs" indicates the roofs and walls had fallen to the ground; 'Uzayr stood contemplating how such a place could return after the great civilization that had filled it — amazed at the scale of the ruin, not doubting Allah's power. Allah caused him to die a hundred years, then resurrected him — and Ibn Kathir notes the first organ Allah brought back was his eyes, so that he could witness how Allah restored life to his body (the city itself, as related, was rebuilt and resettled by the Children of Israel seventy years after his death). Because he had died early in the day and was raised late in the day with the sun still visible, he supposed only "a day or part of a day" had passed; Allah corrected him and pointed to his food and drink — grapes, figs, and juice he found exactly as he left them: the juice had not spoiled, the figs had not turned bitter, the grapes had not rotted — while his donkey was revived before him. On "nunshizuha," Ibn Kathir explains it means to gather the bones and reassemble them, and records the alternate reading "nunshiruha" (to bring back to life), as Mujahid stated. As-Suddi relates how Allah sent a wind that gathered the scattered bones, set each in its place, clothed them with flesh, nerves, veins, and skin, and sent an angel to breathe life into the donkey's nostrils so that it brayed by Allah's leave — all while 'Uzayr watched, after which he declared he knew it from direct sight, the most knowledgeable in this matter among the people of his time.
+
+**From the Sunnah**
+
+The Prophet ﷺ recited this very ayah with the reading "nunshizuha," preserving the wording that describes Allah gathering the scattered bones. (al-Mustadrak — Al-Hakim, chain declared Sahih)
+
+**Reflection**
+
+Allah answered "how?" not with argument but by raising the man himself — so when the ruins of your own life look beyond repair, do not demand the mechanism; trust the All-Powerful, and watch Him restore what looked dead.
 ## Personal Reflections
 
 
