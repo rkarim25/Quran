@@ -178,13 +178,13 @@ In retaliation there is life for you, O people of reason — so that you may liv
 
 ## AI Tafsir
 
-**Context:** It was to refute this barbaric demand on their part that this verse was revealed. By saying 'free man for a free man, slave for a slave and female for a female' it is intended to negate their absurd demand that a free ma…
+**Essence** In the law of just retaliation (Qisas) Allah has placed the protection of life itself — for when a would-be killer knows he will be held to account, killing is restrained and lives are saved.
 
-**What this ayah teaches:** Under the first injunction in this connection, the verse prescribes the law of Qisas (even retaliation), that is, the killer will be killed, irrespective of the status of the parties involved.
+**What it teaches** Qisas literally means "likeness" — equal retaliation, like for like, in which the actual killer (and only the killer) answers for the crime. The closing call, "O men of understanding (uli'l-albab), that you may attain taqwa," appeals to people of sound reason to see that this deterrent law gives life rather than takes it, and to live in the mindful Allah-consciousness that holds them back from what He has forbidden.
 
-**Classical tafsir:** Ibn Kathir notes: ' Taqwa (mentioned in the Ayah) is a word that means doing all acts of obedience and refraining from all prohibitions.
+**The scholars** Ibn Kathir explains the wisdom plainly: legislating Qisas — that the murderer be killed — preserves "the sanctity of life," because the killer "will refrain from killing, as he will be certain that if he kills, he would be killed." He notes that previous Books carried the idea that "killing stops further killing," but the Qur'an states it in far clearer and more eloquent terms: "And there is a saving of life for you in Al-Qisas." Abu al-'Aliyah said Allah made the Law of equality "a life," for how many a man contemplated killing yet was prevented "for fear that he will be killed in turn" — a meaning likewise reported from Mujahid, Sa'id bin Jubayr, al-Hasan, Qatadah and others. On the final phrase, Ibn Kathir says it addresses "you who have sound minds, comprehension and understanding," that they may be compelled to refrain from Allah's prohibitions, and he defines taqwa as "doing all acts of obedience and refraining from all prohibitions." Maarif ul Quran adds the historical setting: the rule "free for free, slave for slave, female for female" was revealed to refute one tribe's "barbaric demand" that a free man be slain for their slave or a man for their woman though he was not the killer; the just law is that only the killer is killed. Maarif also stresses, by consensus (Qurtubi), that the heirs may not exact retaliation themselves but must seek it through a Muslim ruler, lest anger lead to excess.
 
-**From the Sunnah:** However, the majority of scholars agree that the Muslim is not killed for a those who reject the truth whom he kills. (Sahih al-Bukhari, Sahih Muslim) No opinion that opposes this ruling could stand correct, nor is there an authentic Hadith to contradict it.
+**Reflection** Let the reverence for life that Allah built into His law live in your own heart — guard every soul, restrain your anger, and walk in the taqwa that keeps you within His limits.
 ## Personal Reflections
 
 

@@ -228,11 +228,19 @@ It is prescribed that when death approaches any of you, if they leave wealth, a 
 
 ## AI Tafsir
 
-**What this ayah teaches:** Therefore, the obligatory character of a wasiyyah in their favour is also abrogated (Jassas, Qurtubi).
+**Essence** When death nears, the believer who leaves wealth is to settle it with fairness toward family — a duty the Allah-conscious (al-muttaqin) never neglect.
 
-**Classical tafsir:** Ibn Kathir notes: But, in commonly accepted usage, it refers to what must be done after death.
+**What it teaches** The ayah prescribes wasiyyah — a binding instruction for one's wealth after death — in favor of parents and near relatives bil-ma'ruf, "with due fairness." It frames this not as optional kindness but as haqq, a right binding especially on the muttaqin. Here khayr ("good") carries its Arabic sense of "wealth," so it reaches whoever leaves property behind.
 
-**From the Sunnah:** For this reason we see the Hadith narrated in the Sunan and other books that 'Amr bin Kharijah said: I heard Allah's Messenger ﷺ saying in a speech: that Muhammad bin Sirin said: Ibn 'Abbas recited Surat Al-Baqarah (chapter 2 in the Qur'an) until he reached the Ayah: (Musnad Ahmad)
+**The scholars** Ibn Kathir explains that naming parents and relatives in the will was obligatory, by the most correct view, until the verse of inheritance was revealed, after which Allah fixed each heir's share directly, so deserving inheritors now receive their portions without needing to be named in a will. He reports from Ibn 'Abbas that 2:180 was abrogated by 4:7 ("For men there is a share in what the parents and nearest of kin have left, and for women a share... a determined share"), and cites Ibn Abu Hatim that the same was reported from Ibn 'Umar, Abu Musa, Sa'id bin Musayyib, Al-Hasan, Mujahid, 'Ata', Sa'id bin Jubayr, Muhammad bin Sirin, 'Ikrimah, Zayd bin Aslam and Ar-Rabi' bin Anas, and held by Qatadah, As-Suddi, Muqatil bin Hayyan, Tawus, Ibrahim An-Nakha'i, Shurayh, Ad-Dahhak and Az-Zuhri. Maarif ul Quran clarifies what remains in force: a will for relatives with no fixed share is now only mustahabb (recommended, subject to their need), and one may still not bequeath more than a third — both grounded in the consensus of the ummah (Jassas, Qurtubi). The will must observe justice, neither wronging the rightful heirs nor falling into extravagance or stinginess; and Ibn 'Abbas and others said that if anyone alters a just will, the reward stays with the deceased while the sin falls only on those who change it, "for truly Allah is All-Hearer, All-Knower."
+
+**From the Sunnah** In a sermon Maarif ul Quran places at the Farewell Hajj, the Prophet (peace be upon him) proclaimed, as 'Amr bin Kharijah narrated, "Allah has given each heir his fixed share. So there is no will for a deserving heir." By this the scholars held the ayah's original obligation abrogated; Maarif notes the ummah received it as mutawatir through the consensus around it, though its chain is a solitary report. (Tirmidhi — hasan sahih; also in the Sunan)
+
+**From the Sunnah** Ibn 'Umar reported that the Prophet (peace be upon him) said a Muslim with something to bequeath should not "stay for two nights without having his last will and testament written and kept ready with him" — and that no night passed thereafter without his will beside him. (Al-Bukhari and Muslim)
+
+**From the Sunnah** When Sa'd bin Abi Waqqas asked to will away most of his wealth, the Prophet (peace be upon him) capped a bequest at one-third — "yet even one-third is too much" — teaching the fairness this ayah commands: "It is better for you to leave your inheritors wealthy than to leave them poor, begging from others." (Al-Bukhari and Muslim)
+
+**Reflection** Ibn Kathir closes with a warning from Abu Hurayrah: a man may do the works of the righteous for seventy years, then wrong his heirs in his will and seal his life with his worst deed — while another, long astray, may write one just will and end with his best. So settle your affairs now: keep a fair, written will ready, so your last act with your wealth is justice toward those you leave behind.
 ## Personal Reflections
 
 
