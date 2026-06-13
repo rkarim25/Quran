@@ -502,11 +502,15 @@ Our Rabb, make us submit to You, and from our descendants a community that submi
 
 ## AI Tafsir
 
-**What this ayah teaches:** Verily, my Lord is indeed the Hearer of invocations)(14:39).
+**Essence** As they raise the Ka'bah's foundations, Ibrahim and Isma'il beg not for stone and glory but for hearts wholly surrendered to Allah — for themselves, for a nation of their descendants, and in humble turning to Him.
 
-**Classical tafsir:** Ibn Kathir notes: She ran to and fro (between the two mountains) seven times." Ibn 'Abbas said that the Messenger of Allah ﷺ said, "This is why the people make the trip between As-Safa and Al-Marwah (during Hajj and Umrah)." "When she reached Al-Marwah, she heard a voice and said, 'Shush,' to herself.
+**What it teaches** "Make us muslimayn (submitted) to You" pleads to be made wholly obedient and to associate none with Allah — islam here is the inward surrender of tawhid, not the outward act alone. They ask Him to show their manasik (the rites of Hajj and the places they are performed) and to "turn to us" (tub 'alayna), invoking At-Tawwab (who accepts repentance) and Ar-Rahim (Most Merciful).
 
-**From the Sunnah:** I have collected a book on this subject, and all praise is due to Allah. Therefore, its game should not be hunted, and its trees should not be cut.) An-Nasa'i and Muslim also recorded this Hadith. (Sahih Muslim, Sunan an-Nasa'i)
+**The scholars** Ibn Jarir reads the dua as: "Make us submit to Your command and obedience and associate none with You." To both petitions — for themselves and for an obedient nation from their offspring — 'Ikrimah reports Allah answered, "I shall do that." Maarif ul Quran marvels that two prophets of lifelong obedience still pray to be made obedient: the deeper one knows the Divine Majesty, the more one feels one has fallen short of what is due. It adds that manasik means both the rites and their places, and that "show us" (arina) is answered through eye and heart alike. Ibn Kathir notes that longing for offspring who worship Allah alone is a sign of complete love of Allah, and that Jibril walked Ibrahim through the rites — Safa, Marwah, Mina, the Jamarat where he cast pebbles at Iblis, then 'Arafat.
+
+**From the Sunnah** When the son of Adam dies, his deeds end except three: an ongoing charity, knowledge benefited from, and a righteous child who supplicates for him — the very kind of enduring deed Ibrahim sought in praying for righteous offspring. (Sahih Muslim)
+
+**Reflection** Pray to be made faithful — never assume you already are — and let your deepest care for your children be the faith they carry, not only the comfort they enjoy.
 ## Personal Reflections
 
 

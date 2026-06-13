@@ -574,11 +574,20 @@ When We made the Sacred House a place of return and security for people — take
 
 ## AI Tafsir
 
-**What this ayah teaches:** Considering that Makkah has nothing to offer by way of a beautiful landscape or easy access or mundane comforts, yet, its power to draw millions of people to itself every year is nothing short of miracle.
+**Essence**
+Allah made the Ka'bah a place mankind returns to again and again and a sanctuary of safety, charging Ibrahim and Isma'il to purify it for those who worship there.
 
-**Classical tafsir:** Ibn Kathir notes: She ran to and fro (between the two mountains) seven times." Ibn 'Abbas said that the Messenger of Allah ﷺ said, "This is why the people make the trip between As-Safa and Al-Marwah (during Hajj and Umrah)." "When she reached Al-Marwah, she heard a voice and said, 'Shush,' to herself.
+**What it teaches**
+The House is called *mathaba* — from the root "to return" — a place hearts are drawn back to endlessly, and *amn*, a sanctuary where bloodshed and revenge are forbidden. *Maqam Ibrahim*, the standing-place where Ibrahim stood while raising the House, is appointed as a site of prayer. The covenant to "purify My House" means cleansing it for those who circle it (*tawaf*), seclude themselves in devotion (*i'tikaf*), and bow and prostrate in *Salah*.
 
-**From the Sunnah:** I have collected a book on this subject, and all praise is due to Allah. Therefore, its game should not be hunted, and its trees should not be cut.) An-Nasa'i and Muslim also recorded this Hadith. (Sahih Muslim, Sunan an-Nasa'i)
+**The scholars**
+Ibn Kathir relates that Al-Hasan Al-Basri understood "purify" as Allah's command to remove every filth; Ibn 'Abbas said it means "purify it from the idols," while Mujahid and Sa'id bin Jubayr added "from idols, sexual activity, false witness and sins of all kinds." Maarif ul Quran extends "My House" to all mosques, teaching purity is both outward and inward — cleansing the heart of shirk, kufr, greed and pride. On *mathaba*, Mujahid (via Al-Qurtubi) explains one never has enough of the Ka'bah, returning each time with greater longing.
+
+**From the Sunnah**
+The masjids exist for the very purpose they were built — the worship of Allah alone (stated by the Prophet ﷺ). And Allah made Makkah a sanctuary the Day He created the heavens and the earth, sacred until the Day of Resurrection (The Two Sahihs, from Ibn 'Abbas). It is Allah, not the people, who made it sacred, so no believer may shed blood there or cut its trees (Al-Bukhari and Muslim, from Abu Shurayh).
+
+**Reflection**
+Keep returning to Allah's House with longing — and guard its sanctity as Allah Himself ordained it.
 ## Personal Reflections
 
 

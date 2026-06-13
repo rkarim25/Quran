@@ -569,11 +569,31 @@ When Abraham prayed, "My Rabb, make this city secure and provide its people with
 
 ## AI Tafsir
 
-**What this ayah teaches:** Verily, my Lord is indeed the Hearer of invocations)(14:39).
+**Essence**
+Ibrahim begs Allah to make Makkah secure and to feed it with fruits, restricting his plea to the believers. Allah answers in His own words, extending provision even to the disbeliever, with brief enjoyment before the Fire.
 
-**Classical tafsir:** Ibn Kathir notes: She ran to and fro (between the two mountains) seven times." Ibn 'Abbas said that the Messenger of Allah ﷺ said, "This is why the people make the trip between As-Safa and Al-Marwah (during Hajj and Umrah)." "When she reached Al-Marwah, she heard a voice and said, 'Shush,' to herself.
+**What it teaches**
+Ibrahim opens with "Rabb" (Lord, the One who nurtures), asking that the barren valley become a *baladan aminan*, a city safe from terror, and that its people receive *thamarat* (fruits, sustenance). Out of reverence he names only the believers. But Allah answers that He will provide even for the one who disbelieves (*kafara*), letting him enjoy a little (*qalil*) before driving him to the torment of the Fire, and worst is that destination.
 
-**From the Sunnah:** I have collected a book on this subject, and all praise is due to Allah. Therefore, its game should not be hunted, and its trees should not be cut.) An-Nasa'i and Muslim also recorded this Hadith. (Sahih Muslim, Sunan an-Nasa'i)
+**The scholars**
+Ibn Kathir records that Allah accepted the prayer ("Whoever enters it attains security," 3:97) and made Makkah a sanctuary the Day He created the heavens and earth. Ibn 'Abbas, Ubayy bin Ka'b, Mujahid and 'Ikrimah note "As for him who disbelieves..." are Allah's own words, not Ibrahim's: He sustains believer and disbeliever alike — "Would I create something and not provide for it?" — citing "On each, these and those, We bestow from the bounties of your Lord" (17:20). Maarif ul Quran adds that since the land was uncultivable, Allah made nearby Taif fertile so fruits would be drawn to Makkah, and that Ibrahim asked for imported provision so his descendants would stay steadfast in prayer rather than absorbed in farming.
+
+**From the Sunnah**
+Allah made Makkah a sanctuary the Day He created the heavens and earth, sacred until the Day of Resurrection — among its rulings, its game is not chased and its trees not cut (The Two Sahihs). And none is more forbearing than Allah toward abuse: people attribute a son to Him, yet He still grants them sustenance and health (The Two Sahihs).
+
+**Reflection**
+Eat from Allah's table in gratitude, never mistaking His patient provision for approval, for worldly ease is brief and the Hereafter belongs to the pious.
+## What it teaches
+Ibrahim opens with "Rabb" (Lord, the One who nurtures), asking that the barren valley become a *baladan aminan*, a city safe from terror, and that its people receive *thamarat* (fruits, sustenance). Out of reverence he names only the believers. But Allah answers that He will provide even for the one who disbelieves (*kafara*), letting him enjoy a little (*qalil*) before driving him to the torment of the Fire, and worst is that destination.
+
+## The scholars
+Ibn Kathir records that Allah accepted the prayer ("Whoever enters it attains security," 3:97) and made Makkah a sanctuary the Day He created the heavens and earth. Ibn 'Abbas, Ubayy bin Ka'b, Mujahid and 'Ikrimah note "As for him who disbelieves..." are Allah's own words, not Ibrahim's: He sustains believer and disbeliever alike — "Would I create something and not provide for it?" — citing "On each, these and those, We bestow from the bounties of your Lord" (17:20). Maarif ul Quran adds that since the land was uncultivable, Allah made nearby Taif fertile so fruits would be drawn to Makkah, and that Ibrahim asked for imported provision so his descendants would stay steadfast in prayer rather than absorbed in farming.
+
+## From the Sunnah
+Allah made Makkah a sanctuary the Day He created the heavens and earth, sacred until the Day of Resurrection — among its rulings, its game is not chased and its trees not cut (The Two Sahihs). And none is more forbearing than Allah toward abuse: people attribute a son to Him, yet He still grants them sustenance and health (The Two Sahihs).
+
+## Reflection
+Eat from Allah's table in gratitude, never mistaking His patient provision for approval, for worldly ease is brief and the Hereafter belongs to the pious.
 ## Personal Reflections
 
 

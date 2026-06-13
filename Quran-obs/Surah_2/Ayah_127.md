@@ -485,11 +485,15 @@ When Abraham and Ishmael were raising the foundations of the House, they prayed,
 
 ## AI Tafsir
 
-**What this ayah teaches:** We all accept him; This is Muhammad.' When the Prophet ﷺ reached the area where the leaders were gathering and they informed him about their dispute, he asked them to bring a garment and place it on the ground.
+**Essence** Even while raising the foundations of Allah's House, the two prophets did not pause in pride — they begged Allah to accept the work from their hands.
 
-**Classical tafsir:** Ibn Kathir notes: She ran to and fro (between the two mountains) seven times." Ibn 'Abbas said that the Messenger of Allah ﷺ said, "This is why the people make the trip between As-Safa and Al-Marwah (during Hajj and Umrah)." "When she reached Al-Marwah, she heard a voice and said, 'Shush,' to herself.
+**What it teaches** What they sought was not the monument but its acceptance. The same lips that laid the stones prayed "Rabbana taqabbal minna" — "Our Lord, accept this from us" — turning a feat of building into an act of worship. They name Allah al-Sami', the All-Hearing, and al-'Alim, the All-Knowing: He hears the prayer and knows the heart that offers it.
 
-**From the Sunnah:** I have collected a book on this subject, and all praise is due to Allah. Therefore, its game should not be hunted, and its trees should not be cut.) An-Nasa'i and Muslim also recorded this Hadith. (Sahih Muslim, Sunan an-Nasa'i)
+**The scholars** Ibn Kathir notes that though they were prophets doing a great good, they still asked Allah to accept it — the way of believers who "give that which they give, with their hearts full of fear" (23:60) that it not be refused. He cites Wuhayb bin Al-Ward, who wept: "O Khalil of Ar-Rahman! You raise the foundations of His House, yet fear He will not accept it from you?" Maarif ul Quran adds that at the very moment he might have relaxed into self-congratulation, the Friend of Allah instead recognized Allah's Majesty — knowing no creature can worship its Creator as is His due, and so prayed humbly that Allah accept the little he was able to offer.
+
+**From the Sunnah** As Ibrahim built and Isma'il handed him the stones, the two kept repeating the words of this ayah — "Our Lord, accept this service from us, You are the All-Hearing, the All-Knowing." (Al-Bukhari)
+
+**Reflection** The two greatest builders raising the holiest house still asked only to be accepted. Seal your best work not with pride in what you made, but with a prayer that it be received.
 ## Personal Reflections
 
 
