@@ -447,11 +447,26 @@ Divorce may be pronounced twice; then either keep the wife honourably or release
 
 ## AI Tafsir
 
-**Context:** Ibn Jarir said that the Ayah (2:229) was revealed about Thabit bin Qays bin Shammas and his wife Habibah bint 'Abdullah bin Ubayy bin Salul.
+**Essence**
+Divorce in Islam is a measured, twice-revocable process bounded by Allah's limits — held with honour, released with kindness, never weaponized to seize back what was given.
 
-**What this ayah teaches:** The divorce is twice, after that either you retain her on reasonable terms or release her with kindness.
+**What it teaches**
+"The divorce is twice" (al-talaqu marratan): after the first and second pronouncement the husband may take his wife back during her 'iddah (waiting period), but the third makes it final — fa-imsakun bi-ma'ruf (retain in kindness) aw tasrihun bi-ihsan (release with excellence). A man may not pressure his wife to surrender her mahr (the bridal-money given to her) as the price of freedom; the sole exception is khul' — where, fearing they cannot keep hudud Allah (the limits of Allah), she willingly returns it to obtain release.
 
-**Classical tafsir:** Ibn Kathir notes: And whoever transgresses the limits ordained by Allah, then such are the wrongdoers.) This means that the laws that Allah has legislated are His set limits, so do not transgress them.
+**The scholars**
+Ibn Kathir explains this verse abrogated an earlier practice in which a man could divorce and reclaim his wife endlessly — even a hundred times — as long as her 'iddah lasted, a cruelty Allah ended by capping revocation at twice. On the third pronouncement, 'Ali bin Abu Talhah reports Ibn 'Abbas: "let him fear Allah regarding the third time," keeping her with kindness or releasing her "without infringing upon any of her rights." On the mahr, Ibn Kathir notes a man may not bother or pressure his wife into giving it back, yet if irreconcilable differences arise and she "becomes unable to live with him any longer," she may free herself by returning what he gave — no sin on either party. Maarif ul Quran frames the whole structure: nikah carries the rank of 'ibadah (worship) and Sunnah, so its dissolution was never left loose like an ordinary contract — divorce is staged in three steps and bound by 'iddah. Maarif explains that the right to pronounce was placed with the man as the one in whom forbearance is reckoned more pronounced, while the woman retained recourse to a Shari'ah judge to annul or secure divorce. Maarif also cites — without naming a collection — the hadith that divorce is "the most detested of lawful things with Allah."
+
+**From the Sunnah**
+The lawful pattern of khul' — the wife returning what she was given to obtain release — is set in the case of Habibah bint Sahl and Thabit bin Qays. She told the Prophet ﷺ, "I still have everything he gave me," and he ﷺ instructed Thabit, "Take it from her"; so he took it back and she remained in her family's house. (Reported by Ahmad, Abu Dawud and An-Nasai, via Imam Malik's Muwatta')
+
+**From the Sunnah**
+A distinct narration of the same case names the gift. The wife of Thabit said she faulted neither his religion nor his character but feared falling into kufr by failing his rights. The Prophet ﷺ asked, "Will you give him back his garden?" When she agreed, he ﷺ told Thabit, "Take back the garden and divorce her once." (Al-Bukhari, also recorded by An-Nasai, via Ibn 'Abbas)
+
+**From the Sunnah**
+Seeking divorce is grave when there is no real grievance: a woman who demands it from her husband without justification is warned that the very scent of Paradise will be closed to her — release is for genuine hardship, not passing displeasure. (At-Tirmidhi, Hasan)
+
+**Reflection**
+When a marriage must end, end it as Allah commands — with fairness and grace, gripping no one and grasping nothing that was freely given.
 ## Personal Reflections
 
 

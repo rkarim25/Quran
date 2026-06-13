@@ -264,13 +264,20 @@ When you divorce women and they reach the end of their waiting period, do not pr
 
 ## AI Tafsir
 
-**Context:** Ali bin Abu Talhah reported that Ibn 'Abbas said, "This Ayah was revealed about the man who divorces his wife once or twice and her 'Iddah finishes.
+**Essence**
+When a divorced woman and her former husband sincerely wish to remarry after her waiting period ends, no one — neither the ex-husband nor her guardians — may block that lawful, mutually-agreed union.
 
-**What this ayah teaches:** Or, it may be that there is mutual agreement of the couple but it is not in accordance with the method prescribed by the Shari'ah.
+**What it teaches**
+After divorce and the completion of the 'iddah (prescribed waiting period), if the woman and a suitor — often her ex-husband — wish to marry again "bil-ma'ruf" (in a fair, honourable manner conforming to the Shari'ah), the guardians and the former husband are forbidden to "hinder" them (ta'dul: to obstruct out of anger, pride, or greed). Allah ties the command to faith in Him and the Last Day, declaring such obedience azka (more virtuous) and athar (purer) for the believers' own hearts.
 
-**Classical tafsir:** Ibn Kathir notes: There is no Marriage without a Wali (for the Woman) The Ayah (2:232) also indicates that the woman is not permitted to give herself in marriage.
+**The scholars**
+Ibn Kathir reports from Ibn 'Abbas — with Masruq, Ibrahim an-Nakha'i, az-Zuhri and ad-Dahhak agreeing — that the ayah came about a man who divorced his wife once or twice, then wished to take her back as she wished too, but her family barred her; so Allah forbade the family to prevent her. Ibn Kathir adds that the verse also establishes — according to the majority of scholars — that there is no valid marriage without a Wali (guardian: father, brother, adult son), the ruling Ibn Jarir and at-Tirmidhi drew from this ayah; a woman may not give herself in marriage. (The Hanafi school permits a mature woman to contract her own nikah.) Maarif ul Quran broadens the address to both the divorcing husbands and the guardians: any unjust blocking of a free woman's lawful choice — whether from the ex-husband's wounded honour or relatives' hostility or greed — is a grave injustice abolished here. Yet Maarif stresses the qualifier "when they mutually agree with fairness": guardians retain the right, indeed the duty, to stop a union that violates the Shari'ah — e.g. cohabiting without nikah, a fresh nikah after three talaqs, marriage during the 'iddah, marrying outside her kaf (her equal/match) without the guardians' permission, or a dower below her mahr al-mithl. The same words also prove a mature woman cannot be married off without her consent. On the close, Ibn Kathir explains "Allah knows" the benefits in His commands and prohibitions "and you know not" — so the honour or money people chase by obstructing may, Maarif warns, end in sin, discord, and ruin in this world before the Hereafter.
 
-**From the Sunnah:** Rather, she requires a Wali (guardian such as her father, brother, adult son, and so forth) to give her away in marriage, as Ibn Jarir and At-Tirmidhi have stated when they mentioned this Ayah. (Jami' at-Tirmidhi) Al-Bukhari reported in his Sahih, when he mentioned the Tafsir of this Ayah (2:232), that the husband of the sister of Ma'qil bin Yasar divorced her.
+**From the Sunnah**
+The verse was revealed about Ma'qil bin Yasar, who in anger refused to let his divorced sister return to her repentant former husband; Ibn Kathir notes the report comes through al-Bukhari and is also transmitted by Abu Dawud, at-Tirmidhi and Ibn Jarir (at-Tirmidhi graded it authentic). When Ma'qil heard the ayah he submitted — "I hear and obey my Lord" — summoned the man, and gave his sister back in marriage. Maarif adds a similar incident befell a cousin of Jabir ibn 'Abdullah, and the verse addressed both. From this ayah Ibn Kathir also derives the guardian requirement: "No marriage is valid except with the participation of a mature Wali and two trustworthy witnesses." (Sahih al-Bukhari)
+
+**Reflection**
+The verse leaves the final word to knowledge: "Allah knows and you know not." The obstructor is not scolded as cruel but corrected as short-sighted — clutching an "honour" or a payout he can see, blind to the discord and sin Allah sees beyond it. Faith here means trusting the One whose sight outruns ours, and releasing the small certainty in our hands for the larger good in His.
 ## Personal Reflections
 
 
