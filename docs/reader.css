@@ -2528,3 +2528,31 @@ a:focus-visible, button:focus-visible, select:focus-visible, input:focus-visible
 
 /* print modal small section hint */
 .pr-section-hint { font-weight: 400; text-transform: none; letter-spacing: 0; color: var(--muted); font-size: 0.72rem; }
+
+/* book-view content menu */
+.content-menu-wrap { position: relative; display: inline-flex; }
+.content-menu { position: absolute; top: calc(100% + 6px); left: 0; z-index: 60; background: var(--paper); border: 1px solid var(--gold-soft); border-radius: var(--radius-sm); box-shadow: var(--shadow-lift); padding: 0.45rem; min-width: 13rem; display: flex; flex-direction: column; gap: 0.1rem; }
+.content-menu[hidden] { display: none; }
+.cm-item { display: flex; align-items: center; gap: 0.55rem; font-size: 0.86rem; padding: 0.3rem 0.4rem; border-radius: 5px; cursor: pointer; font-family: var(--font-ui); color: var(--ink-soft); }
+.cm-item:hover { background: var(--green-light); }
+.cm-item input { accent-color: var(--green); width: 1rem; height: 1rem; }
+
+/* book-view tafsir blocks */
+.book-tafsir-section { margin-top: 1.25rem; max-width: var(--mushaf-width); margin-left: auto; margin-right: auto; }
+.book-tafsir-ayah { padding: 1rem 0; border-top: 1px solid rgba(154,132,85,0.18); }
+.bt-ayah-num { display: inline-block; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.04em; color: var(--gold-muted); margin-bottom: 0.5rem; }
+.bt-block { margin-bottom: 1rem; }
+.bt-label { display: block; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--green); font-weight: 600; margin-bottom: 0.35rem; }
+.bt-body { font-size: 0.97rem; line-height: 1.75; color: var(--ink-soft); }
+.bt-body p { margin-bottom: 0.7rem; }
+.bt-body strong { color: var(--green); }
+
+@media print {
+  .pr-tafsir { font-family: "Cormorant Garamond", Georgia, serif; font-size: 10.5pt; line-height: 1.5; color: #28281f; margin: 2.5mm 0; }
+  .pr-tafsir-label { display: block; font-family: Inter, system-ui, sans-serif; font-size: 8pt; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: #b1922f; margin-bottom: 1mm; }
+  .pr-tafsir p { margin-bottom: 1.5mm; }
+  .pr-tafsir strong { color: #1f6b52; }
+  .pr-tafsir-ayah { margin-bottom: 3mm; }
+  .pr-tafsir-num { display: inline-block; font-family: Inter, system-ui, sans-serif; font-size: 8pt; font-weight: 600; color: #b1922f; margin-bottom: 1mm; }
+  .pr-tafsir-section { border-top: 0.5pt dotted #d8c489; padding-top: 2mm; }
+}

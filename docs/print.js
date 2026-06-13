@@ -98,6 +98,14 @@
     return out;
   }
   const tadabburHtml = (t) => `<div class="pr-tadabbur"><span class="pr-tad-label">Tadabbur</span>${esc2(t)}</div>`;
+  const mdRender = (t) => (window.md ? window.md(t) : `<p>${esc2(t)}</p>`);
+  function tafsirBlocksHtml(ay, opt) {
+    let h = "";
+    if (opt.incAiTafsir && ay.ai_tafsir) h += `<div class="pr-tafsir"><span class="pr-tafsir-label">AI Tafsir</span>${mdRender(ay.ai_tafsir)}</div>`;
+    if (opt.incIbnKathir && ay.tafsir_ibn_kathir) h += `<div class="pr-tafsir"><span class="pr-tafsir-label">Ibn Kathīr</span>${mdRender(ay.tafsir_ibn_kathir)}</div>`;
+    if (opt.incMaarif && ay.maarif_ul_quran) h += `<div class="pr-tafsir"><span class="pr-tafsir-label">Maʿārif ul Qurʼān</span>${mdRender(ay.maarif_ul_quran)}</div>`;
+    return h;
+  }
 
   function surahHeader(meta, withBismillah, bism, sub) {
     return `<div class="pr-surah-head">
@@ -124,7 +132,8 @@
       const tl = opt.translit ? `<div class="pr-tl" dir="ltr">${esc2(translitOf(ay))}</div>` : "";
       const tr = opt.translation ? `<div class="pr-tr">${esc2(translationOf(ay, trSrc(opt)))}</div>` : "";
       const tad = ay._tadabbur ? tadabburHtml(ay._tadabbur) : "";
-      h += `<div class="pr-ayah">${ar}${tl}${tr}${tad}</div>`;
+      const taf = tafsirBlocksHtml(ay0, opt);
+      h += `<div class="pr-ayah">${ar}${tl}${tr}${tad}${taf}</div>`;
     }
     return h;
   }
@@ -146,7 +155,8 @@
       const fullText = opt.translation ? translationOf(ay, trSrc(opt)) : "";
       const full = fullText ? `<div class="pr-wbw-full${useAi ? " pr-ai" : ""}">${useAi ? '<span class="pr-ai-tag">AI</span> ' : ""}${esc2(fullText)}</div>` : "";
       const tad = ay._tadabbur ? tadabburHtml(ay._tadabbur) : "";
-      h += `<div class="pr-wbw-ayah"><div class="pr-wbw-num">${rosette(num)}</div><div class="pr-wbw-grid" dir="rtl">${cells}</div>${full}${tad}</div>`;
+      const taf = tafsirBlocksHtml(ay0, opt);
+      h += `<div class="pr-wbw-ayah"><div class="pr-wbw-num">${rosette(num)}</div><div class="pr-wbw-grid" dir="rtl">${cells}</div>${full}${tad}${taf}</div>`;
     }
     return h;
   }
@@ -175,6 +185,10 @@
     if (opt.incTadabbur) {
       const refl = group.ayahs.map((num) => { const a0 = byNum[num]; if (!a0) return ""; const ay = effAyah(a0, group.surah, opt); return ay._tadabbur ? `<div class="pr-tadabbur"><span class="pr-tad-label">Tadabbur ${num}</span>${esc2(ay._tadabbur)}</div>` : ""; }).filter(Boolean).join("");
       if (refl) h += `<div class="pr-book-reflections">${refl}</div>`;
+    }
+    if (opt.incAiTafsir || opt.incIbnKathir || opt.incMaarif) {
+      const taf = group.ayahs.map((num) => { const a0 = byNum[num]; if (!a0) return ""; const t = tafsirBlocksHtml(a0, opt); return t ? `<div class="pr-tafsir-ayah"><span class="pr-tafsir-num">${num}</span>${t}</div>` : ""; }).filter(Boolean).join("");
+      if (taf) h += `<div class="pr-block pr-tafsir-section">${taf}</div>`;
     }
     return h;
   }
@@ -257,8 +271,12 @@
       incMyTranslation: !!$("pr-my-trans")?.checked,
       incMyWords: !!$("pr-my-words")?.checked,
       incTadabbur: !!$("pr-my-tadabbur")?.checked,
+      incAiTafsir: !!$("pr-ai-tafsir")?.checked,
+      incIbnKathir: !!$("pr-ibn-kathir")?.checked,
+      incMaarif: !!$("pr-maarif")?.checked,
     };
-    if (!opt.arabic && !opt.translit && !opt.translation) opt.arabic = true;
+    const anyContent = opt.arabic || opt.translit || opt.translation || opt.incAiTafsir || opt.incIbnKathir || opt.incMaarif || opt.incTadabbur;
+    if (!anyContent) opt.arabic = true;
     if (opt.layout === "wbw") opt.arabic = true; // word-by-word always shows Arabic
     if (opt.pageTo < opt.pageFrom) opt.pageTo = opt.pageFrom;
     return opt;

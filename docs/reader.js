@@ -30,6 +30,7 @@ const DEFAULT_PREFS = {
   transScale: 1,
   wordMode: "standard",
   activePanel: "reflection",
+  bookContent: { arabic: true, translit: false, translation: true, aiTranslation: false, aiTafsir: false, ibnKathir: false, maarif: false },
 };
 
 function loadPrefs() {
@@ -42,6 +43,7 @@ function loadPrefs() {
     }
     if (!["arabic", "translation", "ai"].includes(merged.readMode)) merged.readMode = "translation";
     if (!["verse", "book"].includes(merged.layoutMode)) merged.layoutMode = "verse";
+    merged.bookContent = { ...DEFAULT_PREFS.bookContent, ...(raw.bookContent || {}) };
     return merged;
   } catch {
     return { ...DEFAULT_PREFS };
@@ -454,43 +456,42 @@ function bookAyahSpan(ayah, surahId) {
     </span>`;
 }
 
-function bookViewHtml(data, surahId) {
-  const arabicFlow = data.ayahs.map((a) => bookAyahSpan(a, surahId)).join(" ");
-  const translitFlow = prefs.showTransliteration
-    ? data.ayahs
-        .map((a) => {
-          const text = renderAyahTransliteration(mergeLocalEdits(a, surahId));
-          return text ? `<span class="book-translit-seg" data-ayah="${a.ayah}">${esc(text)}</span>` : "";
-        })
-        .filter(Boolean)
-        .join(" ")
-    : "";
-  const showTrans = prefs.readMode !== "arabic";
-  const transFlow = showTrans
-    ? data.ayahs
-        .map((a) => {
-          const merged = mergeLocalEdits(a, surahId);
-          const { text, mode } = displayTranslation(merged);
-          if (!text) return "";
-          return `<span class="book-trans-seg" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${esc(text)}</span>`;
-        })
-        .filter(Boolean)
-        .join(" ")
-    : "";
+function bookTafsirBlock(ayah, surahId) {
+  const c = prefs.bookContent || {};
+  const m = mergeLocalEdits(ayah, surahId);
+  let inner = "";
+  if (c.aiTafsir && m.ai_tafsir) inner += `<div class="bt-block"><span class="bt-label">AI Tafsir</span><div class="bt-body">${md(m.ai_tafsir)}</div></div>`;
+  if (c.ibnKathir && m.tafsir_ibn_kathir) inner += `<div class="bt-block"><span class="bt-label">Ibn Kathir</span><div class="bt-body">${md(m.tafsir_ibn_kathir)}</div></div>`;
+  if (c.maarif && m.maarif_ul_quran) inner += `<div class="bt-block"><span class="bt-label">Maarif ul Quran</span><div class="bt-body">${md(m.maarif_ul_quran)}</div></div>`;
+  if (!inner) return "";
+  return `<div class="book-tafsir-ayah" data-ayah="${ayah.ayah}"><span class="bt-ayah-num">Ayah ${ayah.ayah}</span>${inner}</div>`;
+}
 
-  return `
-    <div class="book-stream">
-      <section class="book-section book-arabic-section" aria-label="Arabic text">
-        <p class="book-flow arabic-flow" dir="rtl">${arabicFlow}</p>
-      </section>
-      ${translitFlow ? `<section class="book-section book-translit-section" aria-label="Transliteration">
-        <p class="book-flow translit-flow" dir="ltr">${translitFlow}</p>
-      </section>` : ""}
-      ${transFlow ? `<section class="book-section book-translation-section ${prefs.readMode === "ai" ? "ai-mode" : ""}" aria-label="Translation">
-        <p class="book-flow translation-flow">${transFlow}</p>
-      </section>` : ""}
-      <div id="book-study-slot" class="book-study-slot"></div>
-    </div>`;
+function bookViewHtml(data, surahId) {
+  const c = prefs.bookContent || {};
+  const sec = [];
+  if (c.arabic) {
+    const arabicFlow = data.ayahs.map((a) => bookAyahSpan(a, surahId)).join(" ");
+    sec.push(`<section class="book-section book-arabic-section" aria-label="Arabic text"><p class="book-flow arabic-flow" dir="rtl">${arabicFlow}</p></section>`);
+  }
+  if (c.translit) {
+    const f = data.ayahs.map((a) => { const t = renderAyahTransliteration(mergeLocalEdits(a, surahId)); return t ? `<span class="book-translit-seg" data-ayah="${a.ayah}">${esc(t)}</span>` : ""; }).filter(Boolean).join(" ");
+    if (f) sec.push(`<section class="book-section book-translit-section" aria-label="Transliteration"><p class="book-flow translit-flow" dir="ltr">${f}</p></section>`);
+  }
+  if (c.translation) {
+    const f = data.ayahs.map((a) => { const m = mergeLocalEdits(a, surahId); const t = m.translation || m.qf_translation || ""; return t ? `<span class="book-trans-seg" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${esc(t)}</span>` : ""; }).filter(Boolean).join(" ");
+    if (f) sec.push(`<section class="book-section book-translation-section" aria-label="Translation"><p class="book-flow translation-flow">${f}</p></section>`);
+  }
+  if (c.aiTranslation) {
+    const f = data.ayahs.map((a) => { const m = mergeLocalEdits(a, surahId); const t = m.ai_translation || ""; return t ? `<span class="book-trans-seg" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${esc(t)}</span>` : ""; }).filter(Boolean).join(" ");
+    if (f) sec.push(`<section class="book-section book-translation-section ai-mode" aria-label="AI translation"><p class="book-flow translation-flow">${f}</p></section>`);
+  }
+  if (c.aiTafsir || c.ibnKathir || c.maarif) {
+    const blocks = data.ayahs.map((a) => bookTafsirBlock(a, surahId)).filter(Boolean).join("");
+    if (blocks) sec.push(`<section class="book-section book-tafsir-section" aria-label="Tafsir">${blocks}</section>`);
+  }
+  if (!sec.length) sec.push(`<p class="empty-note center">Choose at least one element in “Content”.</p>`);
+  return `<div class="book-stream">${sec.join("")}<div id="book-study-slot" class="book-study-slot"></div></div>`;
 }
 
 function verseViewHtml(data, surahId) {
@@ -537,12 +538,15 @@ function toolbarHtml(data, ayah, surahs = []) {
         <div class="toolbar-actions">
           <select id="surah-jump" class="select-input" aria-label="Jump to surah">${surahOptions}</select>
           <select id="ayah-jump" class="select-input" aria-label="Jump to ayah">${jumpOptions}</select>
-          <select id="read-mode" class="select-input" aria-label="Reading mode">
+          ${prefs.layoutMode === "verse" ? `<select id="read-mode" class="select-input" aria-label="Reading mode">
             <option value="arabic" ${prefs.readMode === "arabic" ? "selected" : ""}>Arabic only</option>
             <option value="translation" ${prefs.readMode === "translation" ? "selected" : ""}>Translation</option>
             <option value="ai" ${prefs.readMode === "ai" ? "selected" : ""}>AI Translation</option>
           </select>
-          <button type="button" class="btn ${prefs.showTransliteration ? "active" : ""}" id="toggle-transliteration" title="Show romanized pronunciation">Transliteration</button>
+          <button type="button" class="btn ${prefs.showTransliteration ? "active" : ""}" id="toggle-transliteration" title="Show romanized pronunciation">Transliteration</button>` : `<span class="content-menu-wrap">
+            <button type="button" class="btn active" id="book-content-btn" title="Choose what to show in book view">Content ▾</button>
+            <div class="content-menu" id="content-menu" hidden>${[["arabic","Arabic"],["translit","Transliteration"],["translation","Translation"],["aiTranslation","AI translation"],["aiTafsir","AI Tafsir"],["ibnKathir","Ibn Kathīr"],["maarif","Maʿārif ul Qurʼān"]].map(([k,lbl]) => `<label class="cm-item"><input type="checkbox" data-bc="${k}" ${prefs.bookContent[k] ? "checked" : ""}> ${lbl}</label>`).join("")}</div>
+          </span>`}
           <button type="button" class="btn ${prefs.wordMode === "ai" ? "active" : ""}" id="toggle-wordmode" title="Hover any word for an AI grammar &amp; meaning breakdown">Word AI</button>
           <button type="button" class="btn ${prefs.layoutMode === "book" ? "active" : ""}" id="toggle-layout" title="Continuous text like a book">Book view</button>
           <span class="font-group"><span class="fg-label" dir="rtl">ع</span><button type="button" class="btn icon-only" id="font-smaller" title="Smaller Arabic">A−</button><button type="button" class="btn icon-only" id="font-larger" title="Larger Arabic">A+</button></span>
@@ -689,7 +693,6 @@ function panelContent(ayah) {
     if (ayah.ai_tafsir) {
       html += `<details ${ayah.qf_tafsir ? "" : "open"} class="ai-tafsir-block"><summary class="ai-tafsir-summary">AI Tafsir</summary><div class="ai-tafsir-body">${md(ayah.ai_tafsir)}</div></details>`;
     }
-    if (ayah.tafsir_summary) html += `<details><summary>Tafsir Summary</summary>${md(ayah.tafsir_summary)}</details>`;
     if (ayah.tafsir_ibn_kathir) html += `<details><summary>Ibn Kathir (full)</summary>${md(ayah.tafsir_ibn_kathir)}</details>`;
     if (ayah.maarif_ul_quran) html += `<details><summary>Maarif ul Quran</summary>${md(ayah.maarif_ul_quran)}</details>`;
     return html || `<p class="empty-note">No tafsir available.</p>`;
@@ -1663,6 +1666,26 @@ document.addEventListener("click", (e) => {
   const tooltip = document.getElementById("word-tooltip");
   if (tooltip.hidden) return;
   if (!tooltip.contains(e.target) && !e.target.classList.contains("q-word")) hideTooltip();
+});
+
+document.addEventListener("click", (e) => {
+  if (e.target.closest && e.target.closest("#book-content-btn")) {
+    e.stopPropagation();
+    const m = document.getElementById("content-menu");
+    if (m) m.hidden = !m.hidden;
+    return;
+  }
+  const menu = document.getElementById("content-menu");
+  if (menu && !menu.hidden && !(e.target.closest && e.target.closest(".content-menu-wrap"))) menu.hidden = true;
+});
+
+document.addEventListener("change", (e) => {
+  const cb = e.target.closest && e.target.closest("#content-menu input[data-bc]");
+  if (cb) {
+    prefs.bookContent[cb.dataset.bc] = cb.checked;
+    savePrefs();
+    if (currentSurah) refreshAyahStream(currentSurah.id);
+  }
 });
 
 document.addEventListener("keydown", (e) => {
