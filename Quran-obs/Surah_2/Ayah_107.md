@@ -226,11 +226,17 @@ Do you not know that to Allah belongs the dominion of the heavens and the earth,
 
 ## AI Tafsir
 
-**What this ayah teaches:** Know you not that Allah is Able to do all things (106)Know you not that it is Allah to Whom belongs the dominion of the heavens and the earth?
+**Essence**
+All sovereignty over the heavens and the earth belongs to Allah alone — so He alone is your true Guardian and Helper, and besides Him you have neither.
 
-**Classical tafsir:** Ibn Kathir notes: The word, 'Nasakh' literally means, 'to copy a book'.
+**What it teaches**
+"Mulk" is dominion and ownership: the heavens and earth are Allah's possession, and He does with His creation as He wills. From this flows the verse's tawhid — your only "wali" (the guardian who keeps your good in view) and your only "nasir" (the helper who defends you) is Allah.
 
-**From the Sunnah:** The Prophet ﷺ brought another Book - the Qur'an - which is the last revelation from Allah. This provided the Jews and some of the associators too with an occasion to taunt the Muslims, and to say that such changes were made by the Holy Prophet ﷺ himself and not by Allah.
+**The scholars**
+Ibn Kathir explains that Allah alone owns His creatures and decides whatever He wills among them — no opponent to His judgment, none to question Him. This ownership grounds His right of abrogation (naskh): in His wisdom He may command a benefit, then forbid it, testing His servants' obedience — refuting the Jews who denied naskh could occur. Ibn Jarir adds that the verse tells the Prophet (peace be upon him) that Allah owns the heavens and earth and all authority in them, so His creation must hear and obey. Maarif draws out the same two names the verse uses: as wali, Allah keeps men's good in view in His injunctions; as nasir, He protects the obedient against their foes.
+
+**Reflection**
+When the heart truly knows that Allah owns everything, it surrenders to His commands and seeks refuge in no guardian or helper but Him.
 ## Personal Reflections
 
 

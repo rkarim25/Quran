@@ -152,11 +152,15 @@ Or do you intend to ask your Messenger as Moses was asked before? Whoever trades
 
 ## AI Tafsir
 
-**What this ayah teaches:** Or do you want to ask your Messenger (Muhammad ﷺ) as Musa (Moses) was asked before (i.e. And he who changes faith for disbelief, verily, he has gone astray from the right way .
+**Essence** A caution against burdening the Messenger ﷺ with needless questions — and against the defiance of the Children of Israel, who demanded that Musa show them Allah openly. To prefer disbelief over faith is to lose the straight road.
 
-**Classical tafsir:** Ibn Kathir notes: So we were delighted when a bedouin man would come and ask him while we listened." Muhammad bin Ishaq said that Muhammad bin Abi Muhammad told him that 'Ikrimah or Sa'id said that Ibn 'Abbas said that Rafi' bin Huraymilah or Wahb bin Zayd said, "O Muhammad!
+**What it teaches** Allah first forbids believers from piling unnecessary questions on the Prophet ﷺ about matters not yet revealed (cf. 5:101), for an answer may bind where there was ease. He then condemns those who question only to be difficult, as Israel pressed Musa out of stubbornness. To "exchange" (yatabaddal) faith for disbelief is to stray from *sawa' as-sabil*, the even path, into ignorance.
 
-**From the Sunnah:** In this Ayah, Allah forbade the believers from asking the Prophet ﷺ numerous questions about matters that did not occur yet. This is why when the Messenger of Allah ﷺ was asked about a husband who finds another man with his wife; if he exposes the adultery, he will be exposing a major incident; if he is quiet about it, he will be quiet about a major matter. (Sahih Muslim)
+**The scholars** Ibn Kathir reports — through Ibn Ishaq's chain to Ibn 'Abbas — that men of the Jews said, "Bring us a Book from heaven... and make rivers flow for us, then we will follow you": stubbornness, not faith. Maarif ul Quran notes their intent was never guidance but to cast aspersions on a prophet; the servant should rather "submit himself to the Divine Will." Abu Al-'Aliyah said: "They exchanged comfort for hardship."
+
+**From the Sunnah** The Prophet ﷺ warned that nations before were destroyed by excessive questioning and disputing with their prophets — so adhere to what he commands as you can, and avoid what he forbids (Sahih Muslim). He also taught that the worst offender asks about a thing not forbidden until it becomes forbidden by his asking (Sahih al-Bukhari).
+
+**Reflection** Bring your questions to revelation seeking light, not to test or quarrel — and where the wisdom is hidden, let the heart say "we hear and submit."
 ## Personal Reflections
 
 

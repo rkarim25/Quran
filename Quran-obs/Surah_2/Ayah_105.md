@@ -186,11 +186,13 @@ Neither the People of the Book nor those who associate partners with Allah wish 
 
 ## AI Tafsir
 
-**What this ayah teaches:** And for the those who reject the truth there is a painful torment (104)Neither those who disbelieve among the People of the Scripture (Jews and Christians) nor Al-Mushrikin (the idolaters) like that there should be sent down unto you any good from your Lord.
+**Essence** Their refusal to wish good upon you is not reasoned rejection but raw envy — which Allah answers by reserving His mercy for whom He wills, His bounty beyond any envier's reach.
 
-**Classical tafsir:** Ibn Kathir notes: Ibn Abu Hatim said that it was reported that Abu Al-'Aliyah, Abu Malik, Ar-Rabi' bin Anas, 'Atiyah Al-'Awfi and Qatadah said similarly. When they wanted to say, 'hear us,' they would use the word Ra'ina, which is an insult (in Hebrew, but means 'hear us' in Arabic).
+**What it teaches** Those who disbelieve from the People of the Book, and the idolaters, resent every blessing sent to the believers. Against their jealousy stands *wallahu yakhtassu bi-rahmatihi man yasha* — Allah singles out for mercy whom He chooses; *dhu al-fadl al-azim*, Owner of bounty no resentment can intercept.
 
-**From the Sunnah:** Also, the Hadiths stated that when they would greet Muslims, they would say, 'As-Samu 'alaykum,' meaning, 'death be to you'. They used to say to the Prophet ﷺ, Ar'ina samak (which is an insult).
+**The scholars** Ibn Kathir reads the verse as exposing how fiercely the disbelieving idolaters and People of the Scripture hate the believers — reason enough to sever friendship — then names the very good they begrudge: the perfect Law Allah legislated through Muhammad ﷺ. Maarif ul Quran adds that some Jews posed as well-wishers, claiming they wished Islam were superior so they might accept it; the Qur'an replies that they are far too jealous to want the believers any blessing at all. The idolaters are named alongside them for emphasis — alike in hatred — yet such jealousy can do no harm, for Allah is Beneficent and All-Powerful.
+
+**Reflection** The Qur'an does not soothe the envied; it turns their envy into evidence — those who cannot bear your good cannot be your friends. Read resentment as a compass, and turn from the enviers to the One who gave, whose favor is dealt by His choice, not theirs.
 ## Personal Reflections
 
 
