@@ -204,13 +204,17 @@ Who would turn away from Abraham's way except one who fools himself? We chose hi
 
 ## AI Tafsir
 
-**Context:** Abu Al-'Aliyah and Qatadah said, "This Ayah (2:130) was revealed about the Jews who invented a practice that did not come from Allah and that defied the religion of Ibrahim." Allah's statement,
+**Essence**
+To turn away from the pure monotheism of Ibrahim is sheer folly and a wound one inflicts on one's own soul.
 
-**What this ayah teaches:** As to the next, Verse 130 has announced the exalted station Allah has granted him in the Hereafter.
+**What it teaches**
+"And who turns away from the millah of Ibrahim except him who fools himself (safiha nafsahu)?" To abandon the path Allah chose for Ibrahim is to wrong oneself. For Allah honored him in both worlds: chosen (istafaynahu) in this life, and among the salihun, the righteous, in the Hereafter.
 
-**Classical tafsir:** Ibn Kathir notes: This means that these Prophets loved these words so much that they preserved them until the time of death and advised their children to adhere to them after them.
+**The scholars**
+Ibn Kathir explains that Ibrahim singled out Allah alone in worship with sincerity, never committing shirk for an instant, and disowned every false deity, defying his whole people. So whoever deviates defies the one chosen from his youth to be a true Imam, until Allah took him as His Khalil (intimate friend). Ibn Kathir then presses the verse's own challenge: is there anything more insane than forsaking this path, anything more unjust? for "joining others in worship with Allah is a great zulm" (31:13). He notes Abu Al-'Aliyah and Qatadah held the ayah was revealed about the Jews, who invented a practice not from Allah, defying Ibrahim's way. Maarif ul Quran adds its distinctive point: this is the religion of Nature (fitrah), which none can deny while his nature remains intact, recalling how Ibrahim accepted the fire rather than abandon worship of the One, and Allah turned it cool for him.
 
-**From the Sunnah:** be a Muslim)!" He said, "I have submitted myself (as a Muslim) to the Lord of the 'Alamin (mankind, Jinn and all that exists). (Sahih Muslim) Verily, among mankind who have the best claim to Ibrahim are those who followed him, and this Prophet (Muhammad ﷺ) and those who have believed (Muslims). (Sahih Muslim)
+**Reflection**
+Your own nature was made for the One. Guard that undivided tawhid as Ibrahim did, ready to lose everything sooner than divide it.
 ## Personal Reflections
 
 

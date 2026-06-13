@@ -180,11 +180,13 @@ When his Rabb said to him, "Submit," he said, "I submit to the Rabb of all that 
 
 ## AI Tafsir
 
-**Context:** Abu Al-'Aliyah and Qatadah said, "This Ayah (2:130) was revealed about the Jews who invented a practice that did not come from Allah and that defied the religion of Ibrahim." Allah's statement,
+**Essence** Commanded by his Lord to "Submit," Ibrahim answered not with the bare "I submit to You" one would expect, but willingly and gladly: "I have submitted to the Lord of all the worlds."
 
-**What this ayah teaches:** We have said that there is no contradiction involved, for some texts of this hadith mention a proviso too - "as it appeared to people." That is to say, the first of these two men appeared in the eyes of the onlookers to be performing good deeds, while in fact he was doing just the opposite; similarly, the second man had from the outset been doing what would make him worthy of P…
+**What it teaches** Aslim ("submit") shares the very root of Islam — to surrender one's will entirely to Allah. Maarif notes that Ibrahim gave not the expected "I submit to You" but the fuller "to the Lord of the worlds (Rabb al-'Alamin)" — a reply charged with awe and praise, recognizing that a servant's surrender to the Master of all is his own benefit and deepest duty.
 
-**Classical tafsir:** Ibn Kathir notes: This means that these Prophets loved these words so much that they preserved them until the time of death and advised their children to adhere to them after them.
+**The scholars** Ibn Kathir: this ayah shows Allah commanded Ibrahim to be sincere and to submit, and Ibrahim adhered perfectly — the one chosen as a true Imam from his youth until Allah took him as His Khalil (friend), singling out Allah alone and disowning every false deity. Maarif draws the wider truth: Islam — turning from one's desires to obey, yielding one's own opinion to divine guidance — is the one religion of every prophet from Adam to the Last Prophet (peace be upon him), and the purpose for which the world was created; its distinction in Ibrahim was that he gave this faith the name Islam and his followers the name Muslims.
+
+**Reflection** Let your answer to every command of Allah be Ibrahim's — not grudging compliance but willing surrender, seeking in all you do the pleasure of your Lord. Such perfected obedience is the Station of Servanthood ('Abdiyyah), the summit at which Ibrahim was honored as Khalilullah, the Friend of Allah.
 ## Personal Reflections
 
 
