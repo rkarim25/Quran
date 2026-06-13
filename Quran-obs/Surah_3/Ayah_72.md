@@ -156,9 +156,13 @@ A group among the People of the Book said, “Believe in what has been revealed 
 
 ## AI Tafsir
 
-**Context:** A party of the People of the Scripture wish to lead you astray. But they shall not lead astray anyone except themselves, and they perceive not (69)"O People of the Scripture!
+**Essence** A faction of the People of the Book plotted to feign faith at dawn and renounce it by dusk, hoping the spectacle would shake weak Muslims loose from their religion.
 
-**What this ayah teaches:** However, when the day ended, they would revert to their old religion so that the ignorant people would say, "They reverted to their old religion because they uncovered some shortcomings in the Islamic religion." This is why they said next.
+**What it teaches** A ṭāʾifah (a party, not all) of Ahl al-Kitab schemed to "believe in the morning" (wajha al-nahar, the face of the day) and "reject it at its end" (akhirahu), so that laʿallahum yarjiʿun, "that they may turn back," meaning that wavering Muslims might abandon their faith thinking learned men had found defects in it. The verse exposes calculated deception as a weapon of disbelief, while the surrounding ayat answer it: al-huda huda Allah, true guidance is Allah's guidance alone.
+
+**The scholars** Ibn Kathir explains this as a wicked plan to deceive Muslims weak in religion: the plotters would pretend belief at the start of the day by attending the dawn prayer with the Muslims, then revert to their old religion at day's end, so the ignorant would say, "They reverted because they uncovered some shortcomings in the Islamic religion." Ibn Abi Najih reports that Mujahid said of this ayah, that it refers to the Jews, "They attended the dawn prayer with the Prophet ﷺ and disbelieved in the end of the day in order to misguide the people." Their further command, "believe no one except the one who follows your religion," Ibn Kathir reads as guarding their secret knowledge so it could not be disclosed to Muslims and used as proof against them. He identifies the driving force as envy, that Allah honored the believers, and Allah answers that all bounty is in His Hand (al-fadl bi-yad Allah), given to whom He wills. Maarif ul Quran sums up their double standard, "Sincerity with the later, expediency with the former": true belief reserved only for fellow followers of their creed, a feigned declaration paraded before Muslims. Since guidance is under Allah's control, no trick or enticement can wean away the one Allah keeps steadfast; their scheme is rooted in envy and in not knowing the nature, timing, and wisdom of Allah's grace.
+
+**Reflection** Guard your faith as a gift Allah Himself secures, and let no one's staged doubts move a heart anchored in His guidance.
 ## Personal Reflections
 
 

@@ -120,9 +120,17 @@ O People of the Book! Why do you mix the truth with falsehood and hide the truth
 
 ## AI Tafsir
 
-**Context:** A party of the People of the Scripture wish to lead you astray. But they shall not lead astray anyone except themselves, and they perceive not (69)"O People of the Scripture!
+**Essence**
+Allah confronts the People of the Scripture for a double crime against truth they themselves recognize: dressing it up in falsehood and burying it, all while they know better.
 
-**What this ayah teaches:** However, when the day ended, they would revert to their old religion so that the ignorant people would say, "They reverted to their old religion because they uncovered some shortcomings in the Islamic religion." This is why they said next.
+**What it teaches**
+"Why do you mix (talbisun) the haqq with the batil and conceal the haqq while you know?" — talbis is to clothe truth in falsehood so the two become hard to tell apart, and katm is to hide what one is obligated to disclose. The damning clause is wa-antum ta'lamun ("while you know"): this is not honest error but knowing distortion of a truth they could testify to.
+
+**The scholars**
+Ibn Kathir specifies the concealed truth: it is "what is in your Books about the description of Muhammad" — the unlettered Prophet ﷺ whose signs they found in the scriptures inherited from earlier prophets, hidden "while you know what you do." He sets the surrounding passage (69-74) under the banner of envy: the Jews resented the favor shown the believers and wished to misguide them. In that same block — at verse 72's plot to "believe in the morning and reject at day's end" — Mujahid (reported via Ibn Abi Najih) explains they would pray Fajr with the Prophet ﷺ then disbelieve by day's end, so the ignorant would suppose they had "uncovered shortcomings" in the religion. Maarif ul-Quran adds a precise creedal guard: the phrases "while you bear witness" (70) and "while you know" (71) must not be read to imply that disbelief would be permissible for someone without such knowledge or testimony — kufr is intrinsically abominable and forbidden under all conditions; mentioning it after knowledge and attestation only deepens the reproach.
+
+**Reflection**
+Guard the truth you have been given — never dress it in falsehood for advantage, never bury it out of envy or fear, for the gravest sin against truth is the one committed by those who knew.
 ## Personal Reflections
 
 

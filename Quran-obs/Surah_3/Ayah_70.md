@@ -112,9 +112,13 @@ O People of the Book! Why do you reject the signs of Allah while you bear witnes
 
 ## AI Tafsir
 
-**Context:** A party of the People of the Scripture wish to lead you astray. But they shall not lead astray anyone except themselves, and they perceive not (69)"O People of the Scripture!
+**Essence** Allah confronts the People of the Book: why reject His signs when your own scriptures testify they are true?
 
-**What this ayah teaches:** However, when the day ended, they would revert to their old religion so that the ignorant people would say, "They reverted to their old religion because they uncovered some shortcomings in the Islamic religion." This is why they said next.
+**What it teaches** Allah addresses the Ahl al-Kitab (People of the Book) and asks why they commit kufr — disbelief — in His Ayat (signs/verses) "while you bear witness" (wa antum tashhadun). The clause exposes the nature of their rejection: it runs against their own testimony, so it is willful denial, not honest error.
+
+**The scholars** Ibn Kathir sets the verse against the envy the Jews felt toward the believers and their plots to misguide them. On this ayah he glosses the rebuke tightly: "You know for certain that Allah's Ayat are true and authentic." The next ayah (71), on mixing truth with falsehood and concealing it "while you know," he explains as hiding "what is in your Books about the description of Muhammad ﷺ" — the unlettered Prophet they find foretold in their scriptures. The plot itself surfaces at ayah 72: a faction would join the dawn prayer, then revert by day's end so the ignorant would assume Muslims had "uncovered shortcomings" in the religion — an athar Ibn Abi Najih reports from Mujahid specifically on the words "so that they may turn back." Maarif ul Quran adds a creedal caution: "while you bear witness" (70) and "while you know" (71) must not be read to imply kufr would be permissible absent such knowledge — kufr is intrinsically abominable and prohibited under all conditions; mentioning it after their knowledge and testimony only intensifies the reproach.
+
+**Reflection** Guard against the disbelief of the heart that hides behind the tongue — when truth becomes clear, submit to it rather than concealing it to protect pride or position.
 ## Personal Reflections
 
 
