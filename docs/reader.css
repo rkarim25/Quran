@@ -2559,3 +2559,32 @@ a:focus-visible, button:focus-visible, select:focus-visible, input:focus-visible
 
 /* soft parchment tint for the printed page (aged-paper warmth) */
 @media print { #print-root { background: #fdfbf4 !important; } }
+
+/* ===== reading themes (light / sepia / night) ===== */
+.theme-toggle { background: none; border: 1px solid rgba(31,107,82,0.2); border-radius: 999px; width: 2rem; height: 2rem; font-size: 1rem; line-height: 1; color: var(--green); cursor: pointer; flex-shrink: 0; }
+.theme-toggle:hover { background: var(--green-light); }
+
+html[data-theme="sepia"] {
+  --parchment: #efe5d0; --parchment-deep: #e4d6bb; --paper: #f7eecf; --paper-shadow: #e0d2b4;
+  --ink: #3b2f20; --ink-soft: #5c4a34; --muted: #8a7556;
+}
+html[data-theme="night"] {
+  --parchment: #14171a; --parchment-deep: #1c2025; --paper: #1f2429; --paper-shadow: #0d1013; --white: #1f2429;
+  --ink: #e9e5da; --ink-soft: #c8c3b5; --muted: #908b7f;
+  --green: #5fb38b; --green-mid: #74c39c; --green-light: rgba(95,179,139,0.16); --green-glow: rgba(95,179,139,0.18);
+  --gold-muted: #cba46a; --gold-soft: #9c8753;
+}
+html[data-theme="night"] body { background: #14171a; }
+html[data-theme="night"] .site-header { background: rgba(31,36,41,0.92); border-bottom-color: rgba(95,179,139,0.18); }
+html[data-theme="night"] .site-footer { background: rgba(31,36,41,0.6); }
+html[data-theme="night"] .ambient-pattern, html[data-theme="night"] .ambient-glow { opacity: 0.18; }
+html[data-theme="night"] .word-tooltip, html[data-theme="night"] .content-menu, html[data-theme="night"] .pr-modal, html[data-theme="night"] .sync-modal { background: #1f2429; }
+html[data-theme="night"] .ayah-block:nth-child(even) { background: rgba(255,255,255,0.02); }
+html[data-theme="night"] .surah-card-inner, html[data-theme="night"] .study-panel-body, html[data-theme="night"] .bookmark-row { background: rgba(255,255,255,0.03); }
+/* night: themed surfaces that were hardcoded light (toolbar + AI gradient blocks) */
+html[data-theme="night"] .sticky-toolbar { background: rgba(20,23,26,0.94); border-bottom-color: rgba(95,179,139,0.12); }
+html[data-theme="night"] .book-translation-section.ai-mode .book-flow.translation-flow,
+html[data-theme="night"] .translation-block.ai-mode,
+html[data-theme="night"] .ai-tafsir-block { background: linear-gradient(135deg, rgba(95,179,139,0.10), rgba(95,179,139,0.03)); border-color: rgba(95,179,139,0.22); }
+/* sepia: match toolbar to parchment tone */
+html[data-theme="sepia"] .sticky-toolbar { background: rgba(239,229,208,0.94); }

@@ -30,6 +30,7 @@ const DEFAULT_PREFS = {
   transScale: 1,
   wordMode: "standard",
   activePanel: "reflection",
+  theme: "light",
   bookContent: { arabic: true, translit: false, translation: true, aiTranslation: false, aiTafsir: false, ibnKathir: false, maarif: false },
 };
 
@@ -57,6 +58,21 @@ function savePrefs() {
   localStorage.setItem(LS.prefs, JSON.stringify(prefs));
   QuranFirebaseSync?.schedulePush();
 }
+
+const THEMES = ["light", "sepia", "night"];
+function applyTheme() {
+  const t = THEMES.includes(prefs.theme) ? prefs.theme : "light";
+  if (t === "light") document.documentElement.removeAttribute("data-theme");
+  else document.documentElement.setAttribute("data-theme", t);
+  const btn = document.getElementById("theme-toggle");
+  if (btn) btn.textContent = t === "night" ? "☾" : t === "sepia" ? "❖" : "◐";
+}
+applyTheme();
+document.getElementById("theme-toggle")?.addEventListener("click", () => {
+  prefs.theme = THEMES[(THEMES.indexOf(prefs.theme) + 1) % THEMES.length] || "light";
+  savePrefs();
+  applyTheme();
+});
 
 function migrateLegacyLastRead() {
   if (localStorage.getItem(LS.recentReads)) return;
