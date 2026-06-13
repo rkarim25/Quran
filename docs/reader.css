@@ -23,6 +23,7 @@
   --header-h: 62px;
   --drawer-w: 440px;
   --arabic-scale: 1;
+  --trans-scale: 1;
   --font-arabic: "UthmanicHafs", "Amiri Quran", "Amiri", serif;
   --font-arabic-alt: "Amiri", serif;
   --font-body: "Cormorant Garamond", Georgia, serif;
@@ -1196,7 +1197,7 @@ body {
 
 .book-flow.translit-flow {
   font-family: var(--font-ui);
-  font-size: 0.84rem;
+  font-size: calc(0.84rem * var(--trans-scale));
   line-height: 1.85;
   color: var(--muted);
   text-align: left;
@@ -1213,7 +1214,7 @@ body {
 
 .book-flow.translation-flow {
   font-family: var(--font-body);
-  font-size: 1.05rem;
+  font-size: calc(1.05rem * var(--trans-scale));
   line-height: 1.9;
   font-style: italic;
   color: var(--ink-soft);
@@ -1264,7 +1265,7 @@ body {
 
 .transliteration-text {
   font-family: var(--font-ui);
-  font-size: 0.82rem;
+  font-size: calc(0.82rem * var(--trans-scale));
   line-height: 1.65;
   color: var(--muted);
   text-align: center;
@@ -1475,7 +1476,7 @@ body {
 }
 
 .translation-block p {
-  font-size: 1.02rem;
+  font-size: calc(1.02rem * var(--trans-scale));
   color: var(--ink-soft);
   font-style: italic;
   line-height: 1.65;
@@ -2065,7 +2066,7 @@ body {
     line-height: 2.35;
   }
 
-  .book-flow.translation-flow { font-size: 0.95rem; line-height: 1.75; }
+  .book-flow.translation-flow { font-size: calc(0.95rem * var(--trans-scale)); line-height: 1.75; }
 
   .surah-progress-label { font-size: 0.68rem; }
 
@@ -2260,4 +2261,53 @@ input.pr-input[type="number"] { width: 5rem; flex: none; }
   .pr-tl-block { font-family: "Cormorant Garamond", Georgia, serif; font-style: italic; font-size: 10pt; color: #6b756e; line-height: 1.7; text-align: justify; border-top: 0.5pt dotted #c9b88a; padding-top: 2.5mm; }
   .pr-tr-block { font-family: "Cormorant Garamond", Georgia, serif; font-size: 11.5pt; color: #1f2a25; line-height: 1.7; text-align: justify; border-top: 0.5pt dotted #c9b88a; padding-top: 2.5mm; }
   .pr-segnum { font-family: Inter, sans-serif; font-size: 6.5pt; color: #9a8455; vertical-align: super; padding: 0 0.15em; font-weight: 600; }
+}
+
+
+/* ============================================================
+   PRINT / PDF v2 — font choice, sizes, word-by-word, page marks
+   ============================================================ */
+
+/* reader toolbar: surah picker + dual font-size controls (screen) */
+#surah-jump { max-width: 12rem; }
+.font-group { display: inline-flex; align-items: center; gap: 0.2rem; }
+.font-group .fg-label { font-size: 0.72rem; color: var(--muted); font-family: var(--font-ui); margin: 0 0.15rem; }
+
+@media print {
+  /* ---- font (script) selection ---- */
+  .pr-font-hafs .pr-ar, .pr-font-hafs .pr-ar-seg, .pr-font-hafs .pr-ar-block,
+  .pr-font-hafs .pr-bismillah, .pr-font-hafs .pr-surah-ar, .pr-font-hafs .pr-cover-ar,
+  .pr-font-hafs .pr-run-ar, .pr-font-hafs .pr-wbw-ar {
+    font-family: "UthmanicHafs", "Amiri Quran", serif;
+  }
+  .pr-font-indopak .pr-ar, .pr-font-indopak .pr-ar-seg, .pr-font-indopak .pr-ar-block,
+  .pr-font-indopak .pr-bismillah, .pr-font-indopak .pr-surah-ar, .pr-font-indopak .pr-cover-ar,
+  .pr-font-indopak .pr-run-ar, .pr-font-indopak .pr-wbw-ar {
+    font-family: "PDMSSaleem", "Amiri Quran", serif;
+  }
+
+  /* ---- size variables (set inline on #print-root) ---- */
+  .pr-ar { font-size: var(--pr-ar, 19pt); }
+  .pr-ar-block { font-size: var(--pr-ar, 20pt); }
+  .pr-tr, .pr-tr-block { font-size: var(--pr-tr, 11.5pt); }
+  .pr-tl, .pr-tl-block { font-size: var(--pr-tl, 10pt); }
+
+  /* ---- cover sub-line (juz / pages) ---- */
+  .pr-cover-sub { font-family: "Cormorant Garamond", Georgia, serif; font-size: 11pt; color: #9a8455; margin-top: 1mm; letter-spacing: 0.03em; }
+
+  /* ---- mushaf page markers ---- */
+  .pr-pagemark { display: flex; align-items: center; gap: 3mm; margin: 4mm 2mm 3.5mm; break-after: avoid; }
+  .pr-pm-rule { flex: 1; height: 0; border-top: 0.6pt solid #c9b88a; }
+  .pr-pm-text { font-family: Inter, system-ui, sans-serif; font-size: 7.5pt; letter-spacing: 0.1em; text-transform: uppercase; color: #9a8455; white-space: nowrap; }
+  .pr-pm-inline { font-family: Inter, system-ui, sans-serif; font-size: 7pt; color: #9a8455; vertical-align: super; padding: 0 0.2em; }
+
+  /* ---- word-by-word ---- */
+  .pr-wbw-ayah { break-inside: avoid; margin-bottom: 4.5mm; padding-bottom: 3.5mm; border-bottom: 0.5pt dotted #c9b88a; }
+  .pr-wbw-ayah:last-child { border-bottom: none; }
+  .pr-wbw-num { text-align: center; margin-bottom: 2mm; }
+  .pr-wbw-grid { display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5mm 4mm; direction: rtl; }
+  .pr-wbw-word { display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 11mm; max-width: 40mm; padding: 1mm 0.5mm; break-inside: avoid; }
+  .pr-wbw-ar { font-size: calc(var(--pr-ar, 20pt) * 0.9); line-height: 1.75; color: #14342a; }
+  .pr-wbw-tl { font-family: "Cormorant Garamond", Georgia, serif; font-style: italic; font-size: calc(var(--pr-tl, 9pt) * 0.95); color: #6b756e; line-height: 1.3; margin-top: 0.6mm; direction: ltr; }
+  .pr-wbw-tr { font-family: "Cormorant Garamond", Georgia, serif; font-size: calc(var(--pr-tr, 11pt) * 0.86); color: #1f2a25; line-height: 1.3; margin-top: 0.3mm; direction: ltr; }
 }

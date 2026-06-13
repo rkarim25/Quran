@@ -27,6 +27,7 @@ const DEFAULT_PREFS = {
   showTransliteration: false,
   layoutMode: "verse",
   fontScale: 1,
+  transScale: 1,
   activePanel: "reflection",
 };
 
@@ -506,9 +507,12 @@ function readerHintText() {
   return "Hover a word for its meaning · ✎ to edit translation · ☰ to expand tadabbur & tafsir below";
 }
 
-function toolbarHtml(data, ayah) {
+function toolbarHtml(data, ayah, surahs = []) {
   const jumpOptions = data.ayahs
     .map((a) => `<option value="${a.ayah}" ${a.ayah === ayah ? "selected" : ""}>Ayah ${a.ayah}</option>`)
+    .join("");
+  const surahOptions = surahs
+    .map((s) => `<option value="${s.id}" ${s.id === data.id ? "selected" : ""}>${s.id}. ${esc(s.name_simple)}</option>`)
     .join("");
   return `
       <div class="reader-toolbar sticky-toolbar">
@@ -517,6 +521,7 @@ function toolbarHtml(data, ayah) {
           <span class="surah-progress-label">Ayah ${ayah} of ${data.verses_count}</span>
         </div>
         <div class="toolbar-actions">
+          <select id="surah-jump" class="select-input" aria-label="Jump to surah">${surahOptions}</select>
           <select id="ayah-jump" class="select-input" aria-label="Jump to ayah">${jumpOptions}</select>
           <select id="read-mode" class="select-input" aria-label="Reading mode">
             <option value="arabic" ${prefs.readMode === "arabic" ? "selected" : ""}>Arabic only</option>
@@ -525,8 +530,8 @@ function toolbarHtml(data, ayah) {
           </select>
           <button type="button" class="btn ${prefs.showTransliteration ? "active" : ""}" id="toggle-transliteration" title="Show romanized pronunciation">Transliteration</button>
           <button type="button" class="btn ${prefs.layoutMode === "book" ? "active" : ""}" id="toggle-layout" title="Continuous text like a book">Book view</button>
-          <button type="button" class="btn icon-only" id="font-smaller" title="Smaller text">A−</button>
-          <button type="button" class="btn icon-only" id="font-larger" title="Larger text">A+</button>
+          <span class="font-group"><span class="fg-label" dir="rtl">ع</span><button type="button" class="btn icon-only" id="font-smaller" title="Smaller Arabic">A−</button><button type="button" class="btn icon-only" id="font-larger" title="Larger Arabic">A+</button></span>
+          <span class="font-group"><span class="fg-label">Aa</span><button type="button" class="btn icon-only" id="text-smaller" title="Smaller translation/transliteration">A−</button><button type="button" class="btn icon-only" id="text-larger" title="Larger translation/transliteration">A+</button></span>
         </div>
       </div>`;
 }
@@ -1003,6 +1008,13 @@ function bindSurahEvents() {
 
   document.getElementById("font-smaller")?.addEventListener("click", () => setFontScale(prefs.fontScale - 0.08));
   document.getElementById("font-larger")?.addEventListener("click", () => setFontScale(prefs.fontScale + 0.08));
+  document.getElementById("text-smaller")?.addEventListener("click", () => setTransScale(prefs.transScale - 0.08));
+  document.getElementById("text-larger")?.addEventListener("click", () => setTransScale(prefs.transScale + 0.08));
+
+  document.getElementById("surah-jump")?.addEventListener("change", (e) => {
+    const sid = +e.target.value;
+    if (sid && sid !== currentSurah.id) location.hash = `#/${sid}`;
+  });
 
   document.getElementById("ayah-jump")?.addEventListener("change", (e) => {
     const ayah = +e.target.value;
@@ -1010,10 +1022,22 @@ function bindSurahEvents() {
   });
 }
 
+function applyScales() {
+  const d = document.documentElement.style;
+  d.setProperty("--arabic-scale", prefs.fontScale);
+  d.setProperty("--trans-scale", prefs.transScale);
+}
+
 function setFontScale(scale) {
-  prefs.fontScale = Math.min(1.4, Math.max(0.85, scale));
+  prefs.fontScale = Math.min(1.6, Math.max(0.8, scale));
   savePrefs();
-  document.documentElement.style.setProperty("--arabic-scale", prefs.fontScale);
+  applyScales();
+}
+
+function setTransScale(scale) {
+  prefs.transScale = Math.min(1.8, Math.max(0.8, scale));
+  savePrefs();
+  applyScales();
 }
 
 function normalizeSearch(text) {
@@ -1555,6 +1579,7 @@ async function renderSurah(data, targetAyah, openStudy = false) {
   if (!targetAyah && lastForSurah) targetAyah = lastForSurah.ayah;
   const ayah = targetAyah || 1;
   visibleAyah = ayah;
+  const surahList = (await loadIndex()).surahs;
 
   setBreadcrumb(`<a href="#/">Home</a> › ${esc(data.translated_name)}`);
 
@@ -1574,7 +1599,7 @@ async function renderSurah(data, targetAyah, openStudy = false) {
         </div>
         ${ornament()}
       </header>
-      ${toolbarHtml(data, ayah)}
+      ${toolbarHtml(data, ayah, surahList)}
       <p class="reader-hint">${readerHintText()}</p>
       <div class="mushaf-sheet">
         ${renderAyahStreamHtml(data, data.id)}
@@ -1582,7 +1607,7 @@ async function renderSurah(data, targetAyah, openStudy = false) {
       <nav class="surah-nav" aria-label="Surah navigation">${prevSurah}<span class="nav-label">${data.id} / 114</span>${nextSurah}</nav>
     </div>`;
 
-  document.documentElement.style.setProperty("--arabic-scale", prefs.fontScale);
+  applyScales();
   bindSurahEvents();
   setupScrollObserver(data.id);
   updateProgress(data.id, ayah);
@@ -1666,11 +1691,11 @@ function showBootError(err) {
 
 function reloadPrefsFromStorage() {
   Object.assign(prefs, loadPrefs());
-  document.documentElement.style.setProperty("--arabic-scale", prefs.fontScale);
+  applyScales();
 }
 
 function applyPrefsToToolbarIfPresent() {
-  document.documentElement.style.setProperty("--arabic-scale", prefs.fontScale);
+  applyScales();
   const readMode = document.getElementById("read-mode");
   if (readMode) readMode.value = prefs.readMode;
   const translit = document.getElementById("toggle-transliteration");

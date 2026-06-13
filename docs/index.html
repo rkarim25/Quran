@@ -17,7 +17,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Amiri:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="preload" href="https://verses.quran.foundation/fonts/quran/hafs/uthmanic_hafs/UthmanicHafs1Ver18.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="reader.css?v=31">
+  <link rel="stylesheet" href="reader.css?v=32">
 </head>
 <body>
   <div class="ambient-pattern" aria-hidden="true"></div>
@@ -142,7 +142,7 @@
 
       <div class="pr-section">
         <div class="pr-section-label">Content</div>
-        <label class="pr-check"><input type="checkbox" id="pr-arabic" checked> Arabic <span class="pr-tag">Indo-Pak script</span></label>
+        <label class="pr-check"><input type="checkbox" id="pr-arabic" checked> Arabic</label>
         <label class="pr-check"><input type="checkbox" id="pr-translit"> Transliteration</label>
         <label class="pr-check"><input type="checkbox" id="pr-translation" checked> Translation
           <select id="pr-trans-source" class="pr-input pr-input-sm">
@@ -150,6 +150,12 @@
             <option value="ai">AI translation</option>
           </select>
         </label>
+        <div class="pr-field"><label for="pr-font">Script</label>
+          <select id="pr-font" class="pr-input">
+            <option value="hafs">Uthmani Hafs — same as reader</option>
+            <option value="indopak">Indo-Pak — PDMS Saleem</option>
+          </select>
+        </div>
       </div>
 
       <div class="pr-section">
@@ -157,6 +163,21 @@
         <div class="pr-layout-opts">
           <label class="pr-radio"><input type="radio" name="pr-layout" value="ayah" checked> Āyah by āyah <span class="pr-tag">line-by-line</span></label>
           <label class="pr-radio"><input type="radio" name="pr-layout" value="book"> Book <span class="pr-tag">blocks</span></label>
+          <label class="pr-radio"><input type="radio" name="pr-layout" value="wbw"> Word by word</label>
+        </div>
+      </div>
+
+      <div class="pr-section">
+        <div class="pr-section-label">Font size</div>
+        <div class="pr-field"><label for="pr-ar-size">Arabic</label>
+          <select id="pr-ar-size" class="pr-input pr-input-sm">
+            <option>16</option><option>18</option><option selected>20</option><option>22</option><option>24</option><option>26</option><option>28</option>
+          </select><span class="pr-hint">pt</span>
+        </div>
+        <div class="pr-field"><label for="pr-en-size">Text</label>
+          <select id="pr-en-size" class="pr-input pr-input-sm">
+            <option>10</option><option>11</option><option selected>12</option><option>13</option><option>14</option><option>16</option>
+          </select><span class="pr-hint">pt</span>
         </div>
       </div>
 
@@ -173,7 +194,7 @@
   <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore-compat.js"></script>
   <script src="github-sync.js?v=26"></script>
   <script src="firebase-sync.js?v=27"></script>
-  <script src="reader.js?v=30"></script>
-  <script src="print.js?v=1"></script>
+  <script src="reader.js?v=31"></script>
+  <script src="print.js?v=2"></script>
 </body>
 </html>
