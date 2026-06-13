@@ -152,11 +152,20 @@ Abraham was neither a Jew nor a Christian; he submitted in all uprightness and w
 
 ## AI Tafsir
 
-**What this ayah teaches:** Why do you dispute about Ibrahim,) meaning, 'How is it that you, Jews, claim that Ibrahim was Jew, although he lived before Allah sent down the Tawrah to Musa?
+**Essence**
+Ibrahim belonged to no later sect: he was a ḥanīf — a pure monotheist turned wholly to Allah — and a muslim, one who submitted, before either Judaism or Christianity existed.
 
-**Classical tafsir:** Ibn Kathir notes: That way has been described in Verse 67.
+**What it teaches**
+Allah settles a dispute in which the Jews and Christians of the Prophet's ﷺ day each claimed Ibrahim as one of their own. The verse strips away both labels: ḥanīf means upright, inclining away from all falsehood toward pure tawḥīd, and muslim means one who surrenders to Allah — so Ibrahim was "shunning Shirk and living in Iman," and "was not of the Mushrikin," the idolaters who associate partners with Allah.
 
-**From the Sunnah:** It is Allah Who knows, and you know not (66)Ibrahim was neither a Jew nor a Christian, but he was a true Muslim Hanifa and he was not of the Mushrikin (67)Verily, among mankind who have the best claim to Ibrahim are those who followed him, and this Prophet and… (Sahih Muslim) Allah censures the Jews and Christians for their dispute with Muslims over Ibrahim Al-Khalil and the claim each group made that he was one of them.
+**The scholars**
+Ibn Kathir opens with the occasion: the Christians of Najran and the Jewish rabbis gathered and disputed before the Messenger of Allah ﷺ, the rabbis insisting "Ibrahim was certainly Jewish" and the Christians "Ibrahim was Christian" — so this verse came down. He explains that Allah censures both groups for arguing without knowledge: the Tawrah and Injil "were not revealed till after him," so neither faith existed in his time — while the verse just before warns they dispute "concerning that of which you have no knowledge," for "It is Allah Who knows, and you know not." Maarif ul Quran sharpens the point: their exercise was futile because the Jewish and Christian ways "appeared long after the revelation of the Old and New Testaments" — scriptures that themselves came long after Ibrahim — so "only Allah knows the way of Ibrahim," the way then described in this verse. Ibn Kathir adds that the next āyah names those with the best claim to him: "those who followed him, and this Prophet" Muhammad ﷺ with his Companions among the Muhajirin and Ansar, and the believers — for "Allah is the Wali (Protector and Helper) of the believers."
+
+**From the Sunnah**
+Reported by Ibn Mas'ud, the Prophet ﷺ said that every Prophet has a supporter from among the Prophets, and his own is his father Ibrahim, the intimate friend (Khalil) of Allah — then he recited that those with the best claim to Ibrahim are those who followed him. (Recorded by Sa'id bin Mansur, from Ibn Mas'ud)
+
+**Reflection**
+True faith is not a tribal label you inherit but a sincere surrender to Allah alone — so hold to the upright way of Ibrahim and speak about religion only from knowledge, not partisanship.
 ## Personal Reflections
 
 
