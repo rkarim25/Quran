@@ -176,13 +176,17 @@ They will have a share of what they earned. Allah is swift in reckoning.
 
 ## AI Tafsir
 
-**Context:** Sa'id bin Jubayr said that Ibn 'Abbas said, "During the time of Jahiliyyah, people used to stand during the (Hajj) season, and one of them would say, 'My father used to feed (the poor), help others (end their disputes, w…
+**Essence** Those who beg Allah for the good of both this world and the Hereafter receive a real share of what they earned — before a Lord who is swift in reckoning.
 
-**What this ayah teaches:** All of these are but a part of the good that is sought in this life.
+**What it teaches** This verse is Allah's answer to the believers who pray "Our Lord, give us good (hasanah) in this world and good in the Hereafter, and save us from the punishment of the Fire": for them is naṣīb — an allotted share — "for what they have earned," meaning both their righteous conduct and their balanced supplication. The closing words, wallāhu sarīʿu l-ḥisāb (Allah is swift at reckoning), affirm that His all-encompassing knowledge and perfect power can assess every person's life-long deeds at once, needing none of the means on which man depends.
 
-**Classical tafsir:** Ibn Kathir notes: It also refers to being questioned lightly and the other favors in the Hereafter.
+**The scholars** Ibn Kathir explains that this comes right after Allah criticized those who ask only for the dunya — "and for such there will be no portion in the Hereafter" — so here He praises those who seek both worlds, their supplication gathering every good of this life and seeking refuge from every evil. The "good of this life" covers well-being, lawful provision, beneficial knowledge and righteous deeds; the "good of the Hereafter" is above all Paradise, safety from the Fire, and being questioned lightly. Maarif ul Quran adds that hasanah includes strength of faith, guidance to the straight path, and sincerity in worship, that the Hereafter's good rises to the pleasure of Allah and the privilege of seeing Him, and that this du'a is "a compendium of all prayers." Maarif warns that the verse rebukes those who, even at Hajj, pray only for wealth and worldly gain, as well as the claim that true worship is to ignore the world — for the prophets of Allah themselves prayed for the good of both worlds. Al-Qasim bin 'Abdur-Rahman said: "Whoever is gifted with a grateful heart, a remembering tongue and a patient body, will have been endowed with a good deed in this life, a good deed in the Hereafter and saved from the torment of the Fire."
 
-**From the Sunnah:** that the Prophet ﷺ used to say: (Sahih al-Bukhari) to him, 'Were you asking or supplicating to Allah about something? (Sahih Muslim, Musnad Ahmad)
+**From the Sunnah** The Prophet (peace and blessings be upon him) used to make this very du'a frequently — "O Allah, our Lord! Give us that which is good in this life, that which is good in the Hereafter and save us from the torment of the Fire." (Sahih al-Bukhari) Maarif ul Quran notes it is especially recommended to recite while making tawaf.
+
+When a man, weakened by illness, admitted he had asked Allah to bring forward his Hereafter punishment into this life, the Prophet (peace and blessings be upon him) told him he could never bear it, and taught him to pray this balanced du'a instead — after which the man recovered. (Musnad Ahmad, also recorded by Muslim)
+
+**Reflection** Lift your hands for both worlds at once — ask Allah for an upright, blessed life and for Paradise in a single breath. The sick man's story is the warning beneath it: do not pray your trials forward, but ask instead for the mercy that carries you through both worlds.
 ## Personal Reflections
 
 

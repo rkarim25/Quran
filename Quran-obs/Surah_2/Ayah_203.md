@@ -227,11 +227,20 @@ Remember Allah during the appointed days. Whoever leaves in two days commits no 
 
 ## AI Tafsir
 
-**What this ayah teaches:** However, it is better and preferable to stay there through the third day (that is, 13th of Dhul-Hijjah).
+**Essence**
+After the rites of Hajj end, Allah commands the pilgrims to fill the appointed days at Mina with His remembrance and to carry their taqwa into the life that follows, mindful that all will be gathered back to Him.
 
-**Classical tafsir:** Ibn Kathir notes: Therefore, this very Hajj of yours became the cause of your pride and that is why you lost that state of radiance.' The emphasis on Taqwa (the fear of Allah) towards the conclusion of Hajj injunctions has yet another secret.
+**What it teaches**
+The "appointed days" (ayyam ma'dudat) are the Days of Tashriq (11, 12, 13 Dhul-Hijjah), to be filled with dhikr — above all the takbir after the obligatory prayers, at the slaughter, and while casting the pebbles. A pilgrim may hasten away after two days or stay for the third, and neither is sinful. Maarif reads the closing "for the one who has taqwa" as showing this very ease is granted for the sake of the God-conscious — the watchful awareness that is the whole point of the pilgrimage.
 
-**From the Sunnah:** that Allah's Messenger ﷺ said: (Musnad Ahmad) Ibn Jarir reported that Abu Hurayrah narrated that Allah's Messenger ﷺ said:
+**The scholars**
+Ibn Kathir relates from Ibn 'Abbas that the Appointed Days are the Days of Tashriq, while the "Known Days" are the first ten of Dhul-Hijjah; 'Ikrimah explains the command to remember Allah as the takbir ("Allahu Akbar, Allahu Akbar") after the compulsory prayers. This remembrance, he notes, covers dhikr at the slaughter, after the prayers, and while casting the pebbles — citing a hadith that "Tawaf around the House, Sa'i between As-Safa and Al-Marwah and throwing the pebbles were legislated so that Allah is remembered." That these are the Days of Tashriq is reported from a long line of authorities — Ibn 'Umar, Ibn Az-Zubayr, Abu Musa, 'Ata', Mujahid, 'Ikrimah, Sa'id bin Jubayr, Al-Hasan, Qatadah, Az-Zuhri, Malik bin Anas and others. Maarif ul Quran adds that the people of Jahiliyyah quarreled — one side calling departure on the 12th sinful, the other calling a stay through the 13th sinful — and the verse corrects both: either option is permitted, though staying through the third day is better and preferable. The ease, Maarif stresses, is "for the convenience of one who fears Allah," since "Allah accepts only from those who are God-fearing"; a Hajj followed by a return to sin and self-righteous pride brings no real benefit, even though the formal obligation is discharged.
+
+**From the Sunnah**
+The Prophet ﷺ framed the Days of Tashriq as a festival of gratitude, not austerity. 'Uqbah bin 'Amr reports him saying that "the day of 'Arafah, the day of the Sacrifice and the days of Tashriq are our 'Id, we people of Islam — days of eating and drinking" (Musnad Ahmad). Nubayshah Al-Hudhali adds the inner thread: "The days of Tashriq are days of eating, drinking and Dhikr of Allah" (Musnad Ahmad; also recorded by Muslim). So pointed was this that, in a report of Abu Hurayrah, the Prophet ﷺ sent 'Abdullah bin Hudhafah through Mina proclaiming: "Do not fast these days, for they are days of eating, drinking and remembering Allah" (Ibn Jarir).
+
+**Reflection**
+Maarif preserves a sobering story: a Turkish disciple of Maulana Jami, so devoted that a halo of radiance once shone over his head, returned from Hajj to find it gone. His master told him why — before Hajj he had wept before Allah as a sinner; after it he grew proud, carrying himself as one of the elevated, and that pride consumed the light. Let worship leave you humbler, not prouder; guard what Hajj kindled in you long after the crowds disperse, for to Him you will be gathered.
 ## Personal Reflections
 
 
