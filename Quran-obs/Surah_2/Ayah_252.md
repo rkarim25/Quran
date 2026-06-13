@@ -136,9 +136,17 @@ These are Allah's signs — We recite them to you in truth, and you are indeed a
 
 ## AI Tafsir
 
-**What this ayah teaches:** But Allah is full of bounty to the 'Alamin (mankind, Jinn and all that exists)(251)These are the verses of Allah, We recite them to you (O Muhammad ﷺ) in truth, and surely, you are one of the Messengers (of Allah).
+**Essence**
+These are Allah's own verses, recited to the Prophet in truth — and that he could relay this history so exactly, having never learned or witnessed it, is itself proof that Muhammad (peace be upon him) is truly one of the Messengers.
 
-**Classical tafsir:** Ibn Kathir notes: Verse 252 here (and verse 253 which follows) demonstrate this proof.
+**What it teaches**
+"Tilka ayatu-Llah" — "these are the verses of Allah" — affirms that the preceding account of Talut, Dawud, and Jalut is divine revelation. "Bil-haqq" (in truth) signals two things at once: the telling conforms exactly to how the events occurred and to the truth still preserved in the Books the scholars of the Children of Israel have and know; and that a man who neither learned nor witnessed it could report it so faithfully is itself evidentiary. The clause "innaka lamina-l-mursalin" then drives the point home: the emphatic lam joined to inna doubly stresses that the Prophet stands among the Messengers.
+
+**The scholars**
+Ibn Kathir grounds "bil-haqq" in conformity: these Ayat narrated in truth "conform to the exact manner that these stories have occurred and to the truth that still remain in the (Divine) Books that the scholars of the Children of Israel have and know" — and the closing "you are one of the Messengers" is "emphatically stating the truth of his prophethood." (Note the careful wording: truth still remains in those Books, not that they are wholly uncorrupted.) Maarif ul Quran develops a distinct argument: affirming the Messenger's prophethood is itself a major objective of the Qur'an, asserted whenever the occasion warrants. That the Prophet correctly reported this event (verses 246-251) "while he neither learnt it from someone nor heard it anywhere nor saw it, is a miracle which is a sound proof of his prophethood" — and verse 252, with 253 that follows, is given to demonstrate that proof.
+
+**Reflection**
+Let the Qur'an's truthful witness to a history no one around the Prophet could have known deepen your certainty that he was sent by Allah — and your trust in every word he conveyed.
 ## Personal Reflections
 
 

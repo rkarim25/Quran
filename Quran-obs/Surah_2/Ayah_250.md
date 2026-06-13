@@ -171,9 +171,21 @@ When they faced Goliath and his army, they prayed, "Our Rabb, pour sabr upon us,
 
 ## AI Tafsir
 
-**What this ayah teaches:** Pour forth on us patience, and set firm our feet and make us victorious over the disbelieving people.
+**Essence**
 
-**Classical tafsir:** Ibn Kathir notes: This purpose was accomplished by this test, which is very appropriate, because steadfastness is necessary in fighting.
+At the edge of battle, the believing few do not boast of their courage but turn to Allah, begging Him to pour patience into their hearts, plant their feet firm, and grant the victory that is His alone to give.
+
+**What it teaches**
+
+As Talut's small, faithful band advanced (barazu) against Jalut (Goliath) and his vast army, they made a threefold prayer: "afrigh 'alayna sabran" — pour out upon us sabr (patience/steadfastness, poured like water filling a vessel from above) — "thabbit aqdamana" — make our feet firm — and "unsurna" — grant us victory over the disbelieving people. Sabr here is not passive endurance but the inner steadiness that holds a fighter in place; firm feet and victory are asked only after the heart is first anchored in Allah.
+
+**The scholars**
+
+Ibn Kathir explains "afrigh 'alayna sabran" as "send down patience on us from You," and "thabbit aqdamana" as firmness "against the enemy," that Allah "save us from running away and from feebleness." He notes the faithful party was few under Talut while the enemy was many under Jalut, yet "fa-hazamuhum bi-idhni-llah" — "they routed them by Allah's leave," by His aid and support — and Dawud killed Jalut (Israelite accounts say with a slingshot). Talut had promised that whoever killed Jalut would marry his daughter and share his kingship; he kept his word, and later the kingdom passed to Dawud, who was also granted the Hikmah (wisdom) of prophethood. Ibn Kathir draws from the sequel the great principle that were it not for Allah checking one set of people by means of another, "the earth would indeed be full of mischief," but "Allah is full of bounty to the 'Alamin." Maarif ul Quran, on the preceding trial at the river, observes that "steadfastness is necessary in fighting," so patience in hardship is the very proof of steadfastness; and it distinguishes three kinds of people: the weak in faith who failed the trial, the perfect who succeeded yet worried over their small numbers, and the most perfect who were not troubled even by that — the ones whose prayer this verse records.
+
+**Reflection**
+
+Notice that every word of this prayer is plural — pour upon *us*, make *our* feet firm, help *us*. None of them prayed for himself alone; each carried the whole band before Allah. Strength against what towers over you is asked together, in one voice, and the answer comes the same way: not to the lone hero, but to the heart that has already bound itself to its Lord and its brothers.
 ## Personal Reflections
 
 

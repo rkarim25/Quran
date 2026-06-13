@@ -222,9 +222,23 @@ They defeated them by Allah's will. David killed Goliath, and Allah gave him kin
 
 ## AI Tafsir
 
-**What this ayah teaches:** Talut promised that whoever killed Jalut, would marry his daughter and would share his kingship and authority. Allah Almighty willed that such people be pruned out.
+**Essence**
 
-**Classical tafsir:** Ibn Kathir notes: This purpose was accomplished by this test, which is very appropriate, because steadfastness is necessary in fighting.
+When David felled Goliath, the few overcame the many by Allah's leave alone — and the ayah lifts this single victory into a permanent law: through hands He chooses, Allah forever restrains corruption from overrunning the earth.
+
+**What it teaches**
+
+Talut's outnumbered, faith-filled band routed Goliath's army "bi-idhnillah" — by Allah's permission and aid — and the youth Dawud slew Goliath. Allah then granted him al-mulk (kingship) and al-hikmah, the prophethood that came to him after Shamwil (Samuel), and "taught him of that which He willed." The ayah then states a universal law: were Allah not to repel one set of people by means of another (daf'), the earth would collapse into fasad (corruption) — but Allah is Dhu Fadl, Possessor of bounty over all creation, and it is in this restraint of evil that His bounty to the worlds is shown.
+
+**The scholars**
+
+Ibn Kathir explains "fahazamuhum bi-idhnillah": they defeated and overwhelmed the enemy by Allah's aid and support — victory is never from numbers but from Allah. He cites the Israelite accounts that Dawud killed Goliath with a slingshot, and that Talut had promised his daughter and a share of his kingship to whoever killed Goliath and kept his word; later the kingship itself passed to Dawud, joined to the prophethood that came after Shamwil, and "taught him of that which He willed" means the knowledge Allah bestowed on him. On the divine law of daf', Ibn Kathir says that had Allah not checked one set of people by another — as He aided the Children of Israel through Talut and the bravery of Dawud against Goliath — people would have perished; he links it to 22:40, where this same restraint preserves monasteries, churches, synagogues, and masjids in which the Name of Allah is mentioned much. He closes that "Allah is Dhu Fadl" means by His mercy and favor He sets some right by means of others, and that Allah possesses the wisdom, the supreme authority, and the clear proof in all His actions and statements.
+
+Maarif ul Quran, commenting on the preceding river-test of verse 249 (not 251), draws the moral that steadfastness (sabr) is necessary in fighting: patience when water is available amid intense thirst proves it, while dashing for it proves its absence — so Allah willed that the weak be "pruned out." From that test it distinguishes three ranks: the weak in faith who failed the trial, the perfect who succeeded yet feared their small numbers, and the most perfect who did not even worry about that.
+
+**Reflection**
+
+The daf' is not a one-time rescue but Allah's standing Providence in history: every age, He raises some to hold back the ruin others would loose. Even Dawud's private gift — knowledge "of that which He willed" — is part of that same bounty. So do your part with patience and courage, then rest in the certainty that both the victory and the restraint of evil come bi-idhnillah, by the leave and bounty of Allah alone.
 ## Personal Reflections
 
 
