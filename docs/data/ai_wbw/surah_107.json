@@ -1,0 +1,441 @@
+{
+ "1": {
+  "1": {
+   "meaning": "A rhetorical, almost startling question: \"Have you seen / Have you considered / Tell me about\" — Allah addresses the Prophet (and through him the listener), inviting reflection rather than asking for information. The force is: \"Just look at the sort of person who...\"",
+   "parts": [
+    {
+     "ar": "أَ",
+     "tr": "a-",
+     "en": "question marker: 'have...?' / 'do...?'"
+    },
+    {
+     "ar": "رَءَيْ",
+     "tr": "ra'ay",
+     "en": "saw / considered (past-tense verb stem)"
+    },
+    {
+     "ar": "تَ",
+     "tr": "-ta",
+     "en": "you (masculine singular subject)"
+    }
+   ],
+   "grammar": "A past-tense verb made into a question. The opening 'a-' is the interrogative prefix ('have you...?'). The stem 'ra'ay' is the past tense of 'to see'. The '-ta' ending marks the doer as 'you' (one man) — here the Prophet. Although the verb is grammatically past ('did you see'), it functions as a live, rhetorical 'have you considered?' meant to make the listener pause and think.",
+   "root": "ر-ء-ي (r-ʾ-y) — to see, to perceive, to consider"
+  },
+  "2": {
+   "meaning": "\"The one who / he who\" — a relative pronoun that points to a specific person and then hangs, waiting for the description that follows ('the one who denies...'). It singles out an individual for the listener to picture.",
+   "parts": [
+    {
+     "ar": "الَّذِي",
+     "tr": "alladhī",
+     "en": "the one who / he who (masculine singular)"
+    }
+   ],
+   "grammar": "A relative pronoun, masculine singular ('the one who'). It does not change its ending for case here — its fixed form covers all positions. It works like a hook: it names 'the one who' and then must be completed by the verb-clause that comes next ('...denies the Judgment'). Here it is the object of 'have you seen' — 'have you seen the one who...'.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "\"Denies / cries lies to / treats as a lie\" — not mere doubt, but actively rejecting something as false. The intensive form makes it repeated and emphatic: he persistently brands the truth a lie.",
+   "parts": [
+    {
+     "ar": "يُ",
+     "tr": "yu-",
+     "en": "he (present/ongoing action)"
+    },
+    {
+     "ar": "كَذِّبُ",
+     "tr": "kadhdhibu",
+     "en": "denies / declares to be a lie (intensive stem)"
+    }
+   ],
+   "grammar": "A present-tense verb, 'he denies / keeps denying'. The 'yu-' prefix marks the doer as 'he' and signals ongoing or habitual action. The doubled middle letter (the shadda on the dh, form II 'kadhdhaba') intensifies the plain verb 'to lie' into 'to declare false / brand as a lie' — an active, forceful rejection. The final '-u' is the indicative ending, which simply marks this as a normal statement-verb ('he does deny'), not a command or a negated/subjunctive form.",
+   "root": "ك-ذ-ب (k-dh-b) — to lie, falsehood; (form II) to call something a lie, to deny"
+  },
+  "4": {
+   "meaning": "\"In / the Judgment\" — 'dīn' here means the Recompense, the Final Reckoning, the Day when deeds are repaid (the standard meaning given by the commentators), rather than 'religion' in the everyday sense. So the whole phrase is: the one who denies the coming Day of Judgment and accountability.",
+   "parts": [
+    {
+     "ar": "بِ",
+     "tr": "bi-",
+     "en": "in / with — attaches the verb to its object"
+    },
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the (definite article)"
+    },
+    {
+     "ar": "دِّينِ",
+     "tr": "dīni",
+     "en": "the Judgment / Recompense / final accounting"
+    }
+   ],
+   "grammar": "A noun with two prefixes. 'bi-' is a small linking preposition ('in/with') that the verb 'denies' requires — in Arabic one 'denies in' something, i.e. 'gives the lie to it'. 'al-' is 'the'. The final '-i' ending is the genitive case, which is automatic here because the noun follows the preposition 'bi-'; that ending is simply what the preposition demands and signals 'this is the thing being denied'. (The sun-letter d absorbs the 'l' of 'al-', so it is pronounced 'ad-dīn'.)",
+   "root": "د-ي-ن (d-y-n) — recompense, judgment, obligation; religion as a way of life"
+  }
+ },
+ "2": {
+  "1": {
+   "meaning": "\"So/then, that one (is the very person)\" — a connecting word plus a far-pointing demonstrative. It picks out the person just described in the previous verse (the denier of the Judgment) and presents him emphatically: 'that is the one who...'. The 'fa-' gives a sense of 'and so, as a result' or 'well then'.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa-",
+     "en": "so / then (connector)"
+    },
+    {
+     "ar": "ذٰ",
+     "tr": "dhā",
+     "en": "that (demonstrative base)"
+    },
+    {
+     "ar": "لِكَ",
+     "tr": "-lika",
+     "en": "particle marking distance + 'to you' (singular masculine addressee)"
+    }
+   ],
+   "grammar": "'fa-' is a prefixed connecting particle meaning 'so/then', tying this verse to the previous one. 'dhālika' is a demonstrative pronoun pointing to something far/prominent ('that'). The '-ka' ending on it is addressed to a single male listener ('that one, you see'); it does not change for case. Together it functions as the subject: 'That (person) is...'.",
+   "root": "— (demonstrative + particle; no triliteral root)"
+  },
+  "2": {
+   "meaning": "\"The one who\" — a relative pronoun that introduces a description, like English 'he who' or 'the one that'. It hands off to the verb that follows ('...who repulses the orphan'), defining exactly which person is meant.",
+   "parts": [
+    {
+     "ar": "الَّ",
+     "tr": "al-",
+     "en": "the (definite element fused into the pronoun)"
+    },
+    {
+     "ar": "ذِىْ",
+     "tr": "-dhī",
+     "en": "who / which (masculine singular)"
+    }
+   ],
+   "grammar": "A relative pronoun, masculine singular, meaning 'the one who'. It is built on a fixed form and does not take case endings (the final long '-ī' never changes). It works with 'dhālika' before it ('that is the one who...') and needs the following clause 'yaduʿʿu l-yatīma' to complete its meaning.",
+   "root": "— (relative pronoun; no triliteral root)"
+  },
+  "3": {
+   "meaning": "\"He drives away / shoves aside roughly\" — to push the orphan away harshly, repelling him with cruelty rather than caring for him. It describes habitual, callous rejection of the vulnerable.",
+   "parts": [
+    {
+     "ar": "يَـ",
+     "tr": "ya-",
+     "en": "he (present-tense marker, 3rd person masculine)"
+    },
+    {
+     "ar": "دُعُّ",
+     "tr": "-duʿʿu",
+     "en": "drives away / repels harshly"
+    }
+   ],
+   "grammar": "A present-tense (imperfect) verb, Form I, from the geminate (doubled) root د-ع-ع. The 'ya-' prefix marks a single male doer in the present/ongoing ('he repulses'). The final '-u' is the indicative mood, the normal form for a plain ongoing statement of fact (he habitually does this). The shadda on the 'ʿ' is NOT a Form II intensifier; it simply marks the merging of the root's identical second and third radicals (ʿayn + ʿayn) into one doubled consonant, which is standard when a geminate root is conjugated. (Contrast the true Form II intensive يُكَذِّبُ 'denies/cries lies' in 107:1, whose shadda does signal intensification.)",
+   "root": "د-ع-ع (d-ʿ-ʿ) — to push/thrust away forcefully, repel"
+  },
+  "4": {
+   "meaning": "\"The orphan\" — a child whose father has died, here standing for the most vulnerable and dependent in society, the one most owed gentleness and protection.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "يَتِيۡمَ",
+     "tr": "yatīma",
+     "en": "orphan"
+    }
+   ],
+   "grammar": "A definite noun: 'al-' = 'the'. The final '-a' (fatḥa) is the accusative ending, which marks it as the direct object — the one receiving the action of the verb. So it is the orphan whom he 'drives away'.",
+   "root": "ي-ت-م (y-t-m) — orphanhood, being left fatherless / alone"
+  }
+ },
+ "3": {
+  "1": {
+   "meaning": "\"And\" — a simple connecting word that joins this clause to the previous verse, continuing the description of the same person: not only does he repulse the orphan, but he also does this.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    }
+   ],
+   "grammar": "This is the conjunction wa (\"and\"), an unchanging particle that simply links what follows to what came before. It has no case ending of its own; here it ties verse 3 onto verse 2 as a continuing list of the denier's traits.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "\"Not\" — the word that negates the present-tense verb after it, making the statement \"he does NOT…\". It denies that the action happens at all.",
+   "parts": [
+    {
+     "ar": "لَا",
+     "tr": "lā",
+     "en": "not / does not"
+    }
+   ],
+   "grammar": "This is lā, the particle that negates a present/future verb. Placed before yaḥuḍḍu it turns \"he urges\" into \"he does not urge.\" It is an indeclinable particle, so it has no ending of its own; it leaves the verb in its normal indicative form.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "\"He urges / encourages / spurs on\" — to actively prompt and press others toward doing something. With the negation it means he feels no urge himself, and does nothing to move others, toward feeding the needy.",
+   "parts": [
+    {
+     "ar": "يَ",
+     "tr": "ya",
+     "en": "he (present-tense marker)"
+    },
+    {
+     "ar": "حُضُّ",
+     "tr": "ḥuḍḍu",
+     "en": "urge / spur on"
+    }
+   ],
+   "grammar": "A present-tense verb, 3rd person masculine singular: the ya- prefix marks \"he.\" The root ح-ض-ض is a geminate (doubled) root — its second and third consonants are both ḍ — so when they come together in the stem they merge into a single doubled ḍ written with shadda (ض + ض → ضّ). This is the plain Form I verb (not an intensive Form II), so the shadda is just that contraction, not an added meaning. The final -u is the indicative mood (the plain \"he does\" form), which stands because the preceding lā is simple negation, not a mood-changer. So: \"he urges,\" negated to \"he does not urge.\"",
+   "root": "ح-ض-ض (ḥ-ḍ-ḍ) — to incite, urge, spur on"
+  },
+  "4": {
+   "meaning": "\"Upon / on / to\" — a linking preposition. The verb \"to urge\" pairs with it (ḥaḍḍa ʿalā) to mean \"to urge toward\" or \"to encourage the doing of\" something.",
+   "parts": [
+    {
+     "ar": "عَلٰى",
+     "tr": "ʿalā",
+     "en": "upon / toward"
+    }
+   ],
+   "grammar": "This is the preposition ʿalā (\"upon, toward\"). It is indeclinable, ending in a fixed long vowel (written here with a dagger alif), so it never changes form. Its job is to put the following noun into the genitive case and to complete the idiom \"urge toward (feeding).\"",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "\"The food of the poor person\" — and, by extension of the whole phrase, \"feeding the destitute.\" The word ṭaʿām itself literally means \"food\"; the sense \"feeding\" comes from the construction \"food of the poor,\" i.e. providing food to the destitute one who lacks the means to meet his own needs. (miskīn denotes someone in real, grinding poverty.)",
+   "parts": [
+    {
+     "ar": "طَعَامِ",
+     "tr": "ṭaʿāmi",
+     "en": "food (of)"
+    },
+    {
+     "ar": "الۡ",
+     "tr": "l-",
+     "en": "the"
+    },
+    {
+     "ar": "مِسۡكِيۡنِ",
+     "tr": "miskīni",
+     "en": "poor / destitute one"
+    }
+   ],
+   "grammar": "Two linked nouns. ṭaʿām literally means \"food\"; it carries an -i ending here because the preposition ʿalā before it requires the genitive case. It is then joined to al-miskīn in a possessive chain (iḍāfa), \"the food OF the poor\" — and it is this whole construction that yields the English sense \"feeding the poor.\" The linkage puts al-miskīn into the genitive too, shown by its final -i. So both -i endings signal \"food of the poor.\"",
+   "root": "ط-ع-م (ṭ-ʿ-m) — food, feeding / س-ك-ن (s-k-n) — stillness, being brought low (whence miskīn, the poor)"
+  }
+ },
+ "4": {
+  "1": {
+   "meaning": "An exclamation pronouncing doom, ruin, or grievous woe upon someone — a solemn declaration that destruction and a terrible end await them. Opened here with \"fa-\" (\"so\" / \"then\"), which draws the conclusion from the wrongs just described: in light of all that, here is the dreadful outcome.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa",
+     "en": "so / then (drawing a consequence)"
+    },
+    {
+     "ar": "وَيۡلٌ",
+     "tr": "waylun",
+     "en": "woe, doom, ruin"
+    }
+   ],
+   "grammar": "\"fa-\" is a connective particle meaning \"so/then,\" written attached and tying this verse to the preceding ones as their consequence. The core noun \"wayl\" carries the final \"-un\" ending (nominative + tanwin, the doubled 'n' sound that marks an indefinite noun). It is the subject (mubtada') of a verbless (nominal) sentence whose predicate is the following \"for…\" phrase — literally \"woe (is) for…\" The indefinite, open-ended form makes it sweeping and ominous, and here it functions as an invocation of doom — \"what utter woe!\"",
+   "root": "و-ي-ل (w-y-l) — woe, doom, destruction"
+  },
+  "2": {
+   "meaning": "For the ones who perform the ritual prayer (ṣalāh) — those who outwardly stand in worship. In context this targets the heedless and the hypocrites among them, as the next verse makes clear, but the word itself simply names \"those who pray.\"",
+   "parts": [
+    {
+     "ar": "لِّ",
+     "tr": "li",
+     "en": "for / to (directed at)"
+    },
+    {
+     "ar": "الۡ",
+     "tr": "l(i)",
+     "en": "the"
+    },
+    {
+     "ar": "مُصَلِّيۡنَ",
+     "tr": "muṣallīna",
+     "en": "ones who pray / performers of prayer"
+    }
+   ],
+   "grammar": "\"li-\" is a preposition meaning \"for/to,\" aiming the \"woe\" at these people; \"al-\" is \"the\" (the two combine, the lam of \"al-\" assimilating into \"li-\" to give the doubled lam \"lil-\"). \"Muṣall-\" is an active participle (form II, from ṣallā/yuṣallī — the doubled middle root letter giving \"ṣall-,\" the form used for the established ritual prayer), meaning \"one who prays.\" The \"-īna\" ending is the sound masculine plural in the genitive case (the case required after the preposition \"li-\"), so it means \"for the praying ones / the performers of prayer.\"",
+   "root": "ص-ل-و / ص-ل-ي (ṣ-l-w / ṣ-l-y) — ritual prayer, supplication, connection to Allah"
+  }
+ },
+ "5": {
+  "1": {
+   "meaning": "A relative pronoun meaning 'those who' — it points to a specific group of people and introduces a description that follows (here, those marked out by their heedlessness in prayer). It is the masculine plural form, so it refers to a group, not a single individual.",
+   "parts": [
+    {
+     "ar": "الَّ",
+     "tr": "al-",
+     "en": "the (built-in definite element)"
+    },
+    {
+     "ar": "ذِيۡنَ",
+     "tr": "-ladhīna",
+     "en": "those who (plural relative pronoun)"
+    }
+   ],
+   "grammar": "Masculine plural relative pronoun, 'those who'. The plural -īna ending shows it refers to many people (contrast singular alladhī, 'the one who'). It is invariable (its form does not change for case) and here stands in apposition to al-muṣallīn ('those who pray') in the previous verse, beginning the description of them.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "The detached pronoun 'they' (referring to males or a mixed group). Placed before the description, it adds emphasis, singling these people out: 'they, the very ones who…'",
+   "parts": [
+    {
+     "ar": "هُمۡ",
+     "tr": "hum",
+     "en": "they / those same ones"
+    }
+   ],
+   "grammar": "An independent (standalone) subject pronoun, 3rd person masculine plural, 'they'. It is not attached to a verb; standing on its own here it emphasises and isolates the subject — 'they are the ones who…'. The -um ending is the fixed form of this pronoun for a masculine plural group; it does not change for case.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "A preposition whose core sense is 'away from' or 'off'. With the verb 'to be heedless' it conveys being turned away from, or neglectful about, something — so here, 'heedless OF / away from their prayer'. The choice of this word (rather than 'in') signals neglect of the prayer itself, not mere slips made while praying.",
+   "parts": [
+    {
+     "ar": "عَنۡ",
+     "tr": "ʿan",
+     "en": "away from / about"
+    }
+   ],
+   "grammar": "A preposition meaning 'away from / concerning'. A preposition always puts the noun after it into the genitive case, which is why the next word ends in -i (ṣalāti-). It links the state of heedlessness to its object: heedless 'away from' their prayer.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "'Their prayer' — the ritual prayer (ṣalāh), the formal act of worship with its bowing and prostration, here belonging to the people just described. The 'their' refers back to those hypocritical worshippers.",
+   "parts": [
+    {
+     "ar": "صَلَاتِ",
+     "tr": "ṣalāti",
+     "en": "prayer (ritual worship)"
+    },
+    {
+     "ar": "هِمۡ",
+     "tr": "-him",
+     "en": "their (of them)"
+    }
+   ],
+   "grammar": "A noun, 'prayer', with the attached possessive pronoun -him ('their', masculine plural). The stem shows the -i ending (ṣalāti-) because it is genitive after the preposition ʿan ('away from'). The attached -him completes the possession ('their prayer') and is itself genitive; its vowel is -him (with i) because it follows that -i ending.",
+   "root": "ص-ل-و (ṣ-l-w) — to pray, to invoke; connection with the Divine"
+  },
+  "5": {
+   "meaning": "Describes people who are heedless, forgetful and neglectful — their hearts are absent from the prayer. It denotes treating the prayer carelessly: delaying it, performing it emptily, or being inwardly unmindful of its very purpose, rather than the unintentional slips any sincere worshipper might make.",
+   "parts": [
+    {
+     "ar": "سَاهُو",
+     "tr": "sāhū",
+     "en": "heedless / neglectful (ones)"
+    },
+    {
+     "ar": "نَ",
+     "tr": "-na",
+     "en": "nominative plural case-ending"
+    }
+   ],
+   "grammar": "An active participle (a 'doer' word, like 'neglecter') in the masculine plural, 'heedless ones'. It is the predicate, telling us what 'they' (hum) ARE: heedless. The full -ūna ending marks the sound masculine plural in the nominative case (the long -ū carries the plurality, the -na is the case-marker); nominative fits because it describes the subject.",
+   "root": "س-ه-و (s-h-w) — to be heedless, forgetful, inattentive"
+  }
+ },
+ "6": {
+  "1": {
+   "meaning": "A relative pronoun meaning \"those who.\" It introduces a relative clause describing al-muṣallīn (\"those who pray\") from verse 4. Note the chain: verse 5 already attached one such clause to them (\"those who are heedless of their prayer\"), and verse 6 adds a second parallel clause headed by this same alladhīna (\"those who make a show\"). So it links this particular group to the deed that follows, like English \"who / the ones who.\"",
+   "parts": [
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the (definite article fused into the pronoun)"
+    },
+    {
+     "ar": "لَّذِيۡنَ",
+     "tr": "-ladhīna",
+     "en": "those who (relative-pronoun body, masculine plural)"
+    }
+   ],
+   "grammar": "Masculine plural relative pronoun, \"those who.\" The shadda (doubling mark) on the lām shows that the lām of the article (al-) has assimilated into the lām of the pronoun body, so the segments al- + -ladhīna recombine as alladhīna. Its plural shape matches the plural group it describes (the worshippers of verse 4). It is indeclinable: the final -īna is a fixed, built-in part of the word, not a changeable case ending. Syntactically it functions as a description (naʿt/ṣifa) attached to al-muṣallīn.",
+   "root": "— (relative pronoun; no triliteral root)"
+  },
+  "2": {
+   "meaning": "The detached pronoun \"they\" (a masculine or mixed plural group). Here it restates the subject before the verb for emphasis, sharpening the focus onto these particular people: \"they — they are the very ones who...\" It underlines that showing off is characteristic of exactly this group.",
+   "parts": [
+    {
+     "ar": "هُمۡ",
+     "tr": "hum",
+     "en": "they (independent pronoun, 3rd-person masculine plural)"
+    }
+   ],
+   "grammar": "A standalone (detached) subject pronoun, \"they\" (masculine plural). Placed before the following verb, it adds emphasis — like saying \"they, they show off\" — drawing attention to the doers. It is indeclinable; the final -m is part of the pronoun itself and carries no case ending of its own.",
+   "root": "— (personal pronoun; no triliteral root)"
+  },
+  "3": {
+   "meaning": "\"They show off\" — they perform their deeds (here, their prayer) to be seen by people, putting on a display for human eyes rather than acting sincerely for Allah. The verb form carries the sense of doing something for the sake of appearance, making a show before others.",
+   "parts": [
+    {
+     "ar": "يُ",
+     "tr": "yu-",
+     "en": "present-tense prefix (3rd person; with the ending it carries the 'they' meaning)"
+    },
+    {
+     "ar": "رَآءُو",
+     "tr": "rāʾū",
+     "en": "make a show / act to be seen (Form III stem)"
+    },
+    {
+     "ar": "نَ",
+     "tr": "-na",
+     "en": "-na (masculine plural indicative ending, completing -ūna)"
+    }
+   ],
+   "grammar": "A present-tense (imperfect) verb, \"they show off.\" The yu- prefix together with the -ūna ending marks a 3rd-person masculine plural subject (\"they\"); the retained final -na (yurāʾū-na) shows the verb is in its full indicative (marfūʿ) form, fitting a plain descriptive statement. It is Form III (fāʿala pattern), whose hallmark is a long ā placed between the first and second root letters — here between r (1st radical) and the hamza (2nd radical). Orthographically the sequence is written رَآء: the madda alif (آ) represents alif carrying hamza prolonged by the long vowel, and the following standalone hamza (ء) is the verb's own hamza before the wāw, so the hamza is effectively shown by both signs. Form III often signals directing the action toward or against others — here, putting on a display before people so as to be seen. (The source JSON transliterates this 'yurāūna,' dropping the hamza; 'yurāʾūna,' with the hamza, is more precise.)",
+   "root": "ر-أ-ي (r-ʾ-y) — seeing, sight; Form III conveys acting to be seen / showing off"
+  }
+ },
+ "7": {
+  "1": {
+   "meaning": "And they withhold / refuse to give. The verb describes people who hold back and deny others the use of something — actively keeping it from those who need it. The opening 'and' ties this trait to the earlier failings of the hypocrite already described in the surah.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa-",
+     "en": "and"
+    },
+    {
+     "ar": "يَمۡنَعُ",
+     "tr": "yamnaʿu",
+     "en": "withholds / refuses to give"
+    },
+    {
+     "ar": "ونَ",
+     "tr": "-ūna",
+     "en": "they (do)"
+    }
+   ],
+   "grammar": "A present-tense verb. The 'wa-' prefix simply means 'and', joining this to the preceding verses. The core verb is in the present/imperfect tense (the ya- shape points to a third-person subject). The '-ūna' ending is the key marker: it makes the subject 'they' (masculine plural) and shows the verb is in its normal, uninterrupted indicative form — i.e. a plain statement, 'they withhold', describing an ongoing habit.",
+   "root": "م-ن-ع (m-n-ʿ) — to withhold, prevent, deny"
+  },
+  "2": {
+   "meaning": "Al-māʿūn: small acts of kindness and everyday helpfulness — the little things people lend one another, such as a pot, a bucket, or an axe. Commentators also extend it to Zakah (obligatory charity). The point is small, easily given assistance that costs the giver almost nothing, yet which these people still refuse.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "مَاعُوۡنَ",
+     "tr": "māʿūna",
+     "en": "small kindness / common aid"
+    }
+   ],
+   "grammar": "A noun with the attached 'al-' meaning 'the'. It is the direct object of the verb 'they withhold', and that is exactly why it carries the '-a' ending (accusative case): the '-a' marks it as the thing being acted upon — they withhold THE small kindness. (The accusative comes purely from its role as object; the 'al-' has no bearing on which case-vowel the noun takes.)",
+   "root": "Disputed. Most take it from م-ع-ن (m-ʿ-n), the sense of what is small and useful. A major competing view derives it from ع-و-ن (ʿ-w-n, 'help/aid'), reading māʿūn as a passive participle (originally maʿwūn, then contracted). Either way the meaning centres on small, helpful things given to others."
+  }
+ }
+}

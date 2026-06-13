@@ -2556,3 +2556,6 @@ a:focus-visible, button:focus-visible, select:focus-visible, input:focus-visible
   .pr-tafsir-num { display: inline-block; font-family: Inter, system-ui, sans-serif; font-size: 8pt; font-weight: 600; color: #b1922f; margin-bottom: 1mm; }
   .pr-tafsir-section { border-top: 0.5pt dotted #d8c489; padding-top: 2mm; }
 }
+
+/* soft parchment tint for the printed page (aged-paper warmth) */
+@media print { #print-root { background: #fdfbf4 !important; } }
