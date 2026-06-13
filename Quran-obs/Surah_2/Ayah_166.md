@@ -179,9 +179,15 @@ When those who were followed disown those who followed them and they all see the
 
 ## AI Tafsir
 
-**What this ayah teaches:** The severity of the punishment against which the polytheists have been warned will unfold itself when their leaders whom they followed will disown them as their votaries; and they both, the leaders and the led, will witness the punishment, and whatever bonds of leading and following may have existed between them would be snapped apart, very much like it happens in our mortal world when people shar…
+**Essence** On the Day of Resurrection, the moment the followers of falsehood behold the torment, the false leaders and objects of worship they served will disown them, and every bond that once tied them together will be cut.
 
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+**What it teaches** The scene names two parties: "those who were followed" (al-ladhīna ittubiʿū) — the idols, angels, jinn, and misleading leaders — and "those who followed" (al-ladhīna ittabaʿū). At the sight of the punishment, the followed declare their innocence (tabarra-a) of their followers, and "the bonds are cut off" (taqaṭṭaʿat bihim al-asbāb): every means of rescue, every tie of leadership and allegiance, snapped apart. What this catastrophe lays bare is the absence of tawḥīd — worship of Allah alone, with no rival (nidd).
+
+**The scholars** Ibn Kathir explains these verses describe the polytheists' condition in this life and their end in the Hereafter: they set up rivals to Allah and loved them as Allah is loved, yet Allah alone is worthy of worship, with no rival, opponent, or partner. He shows from the Qur'an that the very ones they claimed to worship will renounce them: the angels say, "It was not us they worshipped" (28:63) and that the people were really worshipping the jinn (34:41); the jinn too will reject that worship and turn against their worshippers (46:5-6; 19:81-82); and Shayṭān, on that Day, says, "blame me not, but blame yourselves... I deny your former act in associating me as a partner with Allah" (14:22). On taqaṭṭaʿat bihim al-asbāb, Ibn Kathir says that when they see Allah's torment "their power and means of salvation are all cut off," with no way to make amends or escape the Fire; he reports from 'Ata' that Ibn 'Abbas glossed "the bonds" as "the friendship," and that Mujahid narrated similarly through Ibn Abi Najih. Maarif ul Quran adds the vivid image: like worldly accomplices in crime who, once caught, refuse even to recognize one another — the followers will fret and wish to return only to disown their "greasy leaders," but those wishes are worthless, for both leaders and led "are not to come out from the Fire," since the penalty for shirk is to remain in it forever.
+
+**From the Sunnah** When the Prophet (peace be upon him) was asked the greatest sin, he answered that it is to set up a rival to Allah while He alone created you — the very shirk whose ruin this ayah portrays. (Sahihayn — al-Bukhari and Muslim)
+
+**Reflection** Build your love and reliance on Allah alone, for every other allegiance you lean on will abandon you on the Day the bonds are cut.
 ## Personal Reflections
 
 

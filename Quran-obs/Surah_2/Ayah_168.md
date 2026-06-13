@@ -140,9 +140,20 @@ O humanity — eat from what is lawful and good on earth, and do not follow Sata
 
 ## AI Tafsir
 
-**What this ayah teaches:** Verily, he is to you an open enemy (168)He (Satan) commands you only what is evil and Fahsha' (sinful), and that you should say about Allah what you know not .
+**Essence**
+O humanity, eat from the lawful and wholesome provision Allah has spread across the earth, and do not walk in the footsteps of Shaytan, who is to you an open enemy.
 
-**Classical tafsir:** Ibn Kathir notes: Polytheistic practices, such as releasing animals in the name of idols or dedicating them, whether big or small, to a saint or to anyone other than Allah has been declared unlawful in Verse 173 which follows.
+**What it teaches**
+Allah addresses all mankind, permitting every pure thing on earth that harms neither body nor mind: halal ("lawful") at its root means "to open a knot" — a restriction lifted — while tayyib ("good") covers the twin aspects of being lawful and being naturally wholesome and desirable. Against this gift comes the warning not to follow the khutuwat of Shaytan. Khutwah is the span between the two feet when striding; his "footsteps," then, are his Satanic deeds, the ways and methods by which he misguides — for he is an open, declared enemy.
+
+**The scholars**
+Ibn Kathir frames the verse as following Allah's declaration of His oneness and His role as Sustainer: having created all things, He now lists a favor — permitting the pure lawful provisions of the earth — and forbids Satan's methods of misguidance, such as the Jahiliyyah practice of dedicating animals (the Bahirah, Sa'ibah, and Wasilah) to idols and thereby forbidding what Allah had made lawful. Qatadah and As-Suddi explained "the footsteps of Shaytan" as every act of disobedience to Allah, and Ibn 'Abbas counted even a vow or oath made in anger among those footsteps. The following ayah exposes Satan's true aim — he commands only evil, fahsha' (sinful indecency), and worst of all that one speak about Allah without knowledge, which Ibn Kathir says includes every innovator and disbeliever. Maarif ul Quran draws two rulings from the surrounding verses: dedicating an animal to an idol or to anyone other than Allah is unlawful, for what is consecrated to other than Allah becomes impure; yet if someone did so out of ignorance and sincerely repents, the animal becomes lawful for him once more. The early exegete Sahl ibn 'Abdullah taught that salvation rests on three things: eating halal, fulfilling the Divine obligations, and following the Sunnah of the Prophet (peace be upon him).
+
+**From the Sunnah**
+Allah declares that all the wealth He grants His servants is lawful for them, that He created them upright (hunafa'), and that it was the devils who turned them from their religion and forbade them what He had made lawful. (Muslim)
+
+**Reflection**
+What Allah permits is a trust to be received with gratitude, not a thing for us to bind with knots He never tied. To forbid His lawful gifts — or to surrender them to anyone besides Him — is to take the first stride after Shaytan; gratitude keeps us on the path, and even a wrong step is undone the moment we turn back.
 ## Personal Reflections
 
 

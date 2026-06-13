@@ -224,9 +224,15 @@ The followers will say, "If only we had another chance, we would disown them as 
 
 ## AI Tafsir
 
-**What this ayah teaches:** The severity of the punishment against which the polytheists have been warned will unfold itself when their leaders whom they followed will disown them as their votaries; and they both, the leaders and the led, will witness the punishment, and whatever bonds of leading and following may have existed between them would be snapped apart, very much like it happens in our mortal world when people shar…
+**Essence** On the Day of Resurrection the followers of falsehood will beg in vain for a single return to worldly life — to disown the leaders and idols who already abandoned them — and their wasted deeds will return only as anguish, with no exit from the Fire for either party.
 
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+**What it teaches** Those who set up rivals (andād) beside Allah, loving them as Allah is loved, will on the Day of Judgment cry for a karrah — one chance to go back — so they could disown (natabarra'a) the very leaders and idols they once revered, just as those leaders will have already disowned them. Allah will make them see their own deeds as ḥasarāt — bitter regrets — and they will never come out of the Fire, for the punishment of shirk (associating partners with Allah) is to remain there forever.
+
+**The scholars** Ibn Kathir explains this passage as the condition of the polytheists in this life and the Hereafter: they set up equals and rivals with Allah, loving them as Allah is loved, though Allah alone is worthy of worship, "Who has neither rival nor opponent nor partner." He notes the disowning is mutual — even the angels and jinn whom people claimed to worship will declare their innocence ("It was not us they worshipped"), and the deceived followers, seeing their false hopes cut off, wish to return only to worship Allah alone. But Ibn Kathir warns this wish is a lie: "if they were given the chance to go back, they would only return to what they were prohibited from doing." On "Allah will show them their deeds as regrets," he says it means "their works will vanish and disappear" — and he cites Allah's own images for such deeds: ashes "on which the wind blows furiously on a stormy day" (14:18), and a mirage that "the thirsty one thinks it to be water" (24:39). Maarif ul Quran adds a vivid worldly parallel: this betrayal is "very much like it happens in our mortal world when people share in the illegal but wriggle out when apprehended," even refusing to recognize their accomplices. It stresses that the followers' dream of a second chance is worthless — "what price are these dreams now? They are not going anywhere" — and that both parties share the same end: "they all, the leaders and their followers, are not to come out from the Fire."
+
+**From the Sunnah** When Ibn Mas'ud asked the Prophet (peace be upon him) the greatest sin, he answered that it is to set up a rival to Allah, the very One who created you — the root sin that this ayah shows ending in eternal regret. (the Sahihayn)
+
+**Reflection** Cut ties with every false attachment now, while a return is still in your hands — and pour your love and worship into Allah alone, so your deeds rise as light and never as regret.
 ## Personal Reflections
 
 
