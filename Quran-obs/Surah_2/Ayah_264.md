@@ -271,9 +271,25 @@ O believers — do not ruin your charity with reminders and hurt, like those who
 
 ## AI Tafsir
 
-**What this ayah teaches:** Those who spend their wealth in the cause of Allah, and do not follow up their gifts with reminders of their generosity or with injury, their reward is with their Lord.
+**Essence**
 
-**Classical tafsir:** Ibn Kathir notes: They will not feel sorry for this, because they will acquire what is far better for them.
+Charity that is paraded before people or poisoned with reminders and hurt is not merely lessened — it is annihilated, like dust swept off bare rock by the rain.
+
+**What it teaches**
+
+Allah warns the believers, "Do not render in vain (lā tubṭilū) your charities (ṣadaqāt) by al-mann — flaunting the favour and reminding the recipient of it — or by al-adhā, wounding him with word or deed." The force of the verb is decisive: such giving is not discounted but voided. To make this unmistakable, Allah likens it to the spending of one who gives only to be seen by people (riyāʾ) while disbelieving in Allah and the Last Day — the archetype whose works are wiped out completely. The outward gesture survives; its reward does not.
+
+**The scholars**
+
+Ibn Kathir explains that following charity with hints of one's generosity — "whether these hints take the form of words or actions" — together with causing harm will "annul the charity," for the reward of giving is then "not sufficient enough to nullify the harm and reminders." He unpacks the parable: ṣafwān is the smooth rock, the wābil (heavy rain) leaves it ṣaldan — utterly bare; so although the show-off imagines his deeds "as plentiful as specks of dust," they "are bound to vanish and disappear." Lest one think the parable describes only the unbeliever, Ad-Dahhak adds that it fits equally the one who follows his charity with reminders or harm. Maarif ul Quran draws out the governing condition for accepting ṣadaqāt and khayrāt: "spend only to seek the good pleasure of Allah Almighty and with the intention of getting thawāb in the akhirah," never for name and fame — and warns that even "a true Muslim, who does believe in the Hereafter," gets no thawāb if he spends under hypocritical motivation. Maarif weights this further: the phrase "and does not believe in Allah" is a hint that hypocrisy and name-seeking is "a sign of something being wrong with his faith."
+
+**From the Sunnah**
+
+Three whom Allah will not speak to, look at, or purify on the Day of Resurrection, and who will have a painful torment — the first being the one who reminds people of what he gave away (al-mannān bimā aʿṭā). (Muslim, from Abu Dharr)
+
+**Reflection**
+
+Give for Allah alone, then let the gift go from your tongue and memory as completely as rain clears dust from stone.
 ## Personal Reflections
 
 

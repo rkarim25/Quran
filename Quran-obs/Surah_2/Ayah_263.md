@@ -152,9 +152,22 @@ Kind words and forgiveness are better than charity followed by injury. Allah is 
 
 ## AI Tafsir
 
-**What this ayah teaches:** To Remind About Charity Given is Forbidden Allah praises those who spend from their money in His cause, and then refrain from reminding those who received the charity of that fact, whether these hints take the form of words or actions.
+**Essence**
+A gentle word and a pardon outweigh any charity that is poisoned by reminding the recipient of it or by wounding him.
 
-**Classical tafsir:** Ibn Kathir notes: They will not feel sorry for this, because they will acquire what is far better for them.
+**What it teaches**
+Allah declares that *qawl ma'ruf* — kind, compassionate speech and a supplication for one's fellow Muslims — together with *maghfirah*, forgiving a wrong done to you in word or deed, is better than a gift trailed by *adha* (injury) or by reminders of one's own generosity. He then seals the verse with two of His names: *Ghani*, the Self-Sufficient who needs nothing from His creation, and *Halim*, the Most Forbearing who forgives, releases, and pardons.
+
+**The scholars**
+Ibn Kathir explains that "kind words" means compassionate speech and a prayer for the Muslims, while "forgiving" means pardoning an injustice that came as actions or words; and that calling Allah *Ghani* shows He is "Rich, not needing His creation," while *Halim* means He "forgives, releases and pardons." He sets this verse between v.262, which praises those who give without reminders or injury, and the warning of v.264. There — not in this verse — he draws the contrasting parable: charity rendered void by *mann* (reminders of one's generosity) and *adha* is like a smooth rock with a little dust on it, swept utterly bare by heavy rain, so the show-off is "not able to do anything with what they have earned."
+
+Maarif ul Quran adds that it is "a thousand times better" to offer a gentle, appropriate excuse if one cannot give, and to forgive an impolite asker rather than give him charity followed by pain; since Allah is *Ghani* and *Halim*, the giver should remember he favors no one and spends only for his own good — and when met with ingratitude, should "subject himself to the divine attribute of forbearing," adopting that praiseworthy trait as befits a servant, and forgive.
+
+**From the Sunnah**
+Reminding others of charity you have given is so grave that the giver who does it is placed among three whom Allah will not speak to, look at, or purify on the Day of Resurrection, and theirs is a painful torment — the first being the one who reminds people of what he gave away. (Muslim, from Abu Dharr)
+
+**Reflection**
+When your generosity is met with ingratitude, do not answer it with a wounding reminder. Take on the servant's share of forbearance — whose perfection belongs to Allah alone, *al-Halim* — and let a kind word stand where the reminder would have crept in.
 ## Personal Reflections
 
 
