@@ -1,0 +1,436 @@
+{
+ "1": {
+  "1": {
+   "meaning": "A command meaning \"Say!\" or \"Proclaim!\" — Allah is directly instructing the Prophet Muhammad to speak the words that follow aloud. It frames the entire surah as a divine dictation: not the Prophet's own opinion, but a declaration he is ordered to announce.",
+   "parts": [
+    {
+     "ar": "قُلۡ",
+     "tr": "qul",
+     "en": "say! (command to one person)"
+    }
+   ],
+   "grammar": "This is a command (imperative) verb addressed to a single male — \"you, say!\" The vowels have been stripped down to the bare command form (the underlying root vowel is dropped and the final letter carries a silent sukūn, shown by the small circle), which is the normal shape of a direct order in Arabic. There is no separate word for \"you\"; the command form itself carries the \"you\" meaning.",
+   "root": "ق-و-ل (q-w-l) — to say, to speak, to utter"
+  },
+  "2": {
+   "meaning": "A compound attention-grabbing call meaning roughly \"O you!\" It is the standard, emphatic way Arabic flags that an address is coming — combining the vocative \"O\" with a word that the call lands on and a particle that alerts the listeners, commanding their full attention before they are named.",
+   "parts": [
+    {
+     "ar": "يٰۤ",
+     "tr": "yā",
+     "en": "O! (call to get attention)"
+    },
+    {
+     "ar": "اَيُّ",
+     "tr": "ayyu",
+     "en": "you/one (the word the call lands on)"
+    },
+    {
+     "ar": "هَا",
+     "tr": "hā",
+     "en": "(particle of alerting; sharpens the call)"
+    }
+   ],
+   "grammar": "This is a vocative construction — the way you call out to someone. \"yā\" is the call-word \"O\"; \"ayyu\" is a noun that the call actually lands on and that introduces the named group to follow; \"hā\" is a particle of alerting (ḥarf tanbīh) tacked on to rouse the addressee's attention — it does not point at or locate them the way a demonstrative (\"this/that/there\") would. Together they form a fixed, emphatic summons. The noun that is being called (\"the disbelievers\") comes next and completes the phrase.",
+   "root": "— (particles of address; no triliteral root)"
+  },
+  "3": {
+   "meaning": "\"The disbelievers\" — those who actively reject faith. The root sense is to cover up or conceal; a kāfir is one who covers over and refuses the truth after it has reached him, denying Allah and His message. Here it specifically addresses the idolaters of the Quraysh who rejected the Prophet's call, though it extends to every rejecter of faith.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "كٰفِرُوۡ",
+     "tr": "kāfirū",
+     "en": "ones who reject faith / cover up the truth"
+    },
+    {
+     "ar": "نَ",
+     "tr": "na",
+     "en": "(plural ending: more than two males)"
+    }
+   ],
+   "grammar": "This is \"the\" plus an active participle — a doer-word meaning \"the ones who disbelieve.\" The \"-ūna\" ending marks it as a sound masculine plural (three or more males) and is the nominative form (\"-ūna\" rather than \"-īna\"). Grammatically \"the disbelievers\" is a badal (appositive/substitute) for \"ayyu\" earlier in the call, and it takes the nominative because an appositive matches the case of the word it stands in for — not because being called requires a special case. The \"al-\" makes it definite — not just disbelievers in general, but the specific group being addressed.",
+   "root": "ك-ف-ر (k-f-r) — to cover, conceal; hence to reject or deny faith"
+  }
+ },
+ "2": {
+  "1": {
+   "meaning": "A particle of negation placed before a present-tense verb. Here it firmly denies the action that follows — 'I do NOT (worship)'. It expresses a clear, ongoing refusal rather than a single past event.",
+   "parts": [
+    {
+     "ar": "لَا",
+     "tr": "lā",
+     "en": "not"
+    }
+   ],
+   "grammar": "This is the negating word 'not'. It comes directly before the verb that follows and cancels it, giving the sense 'I do not / I will not'. It has no ending of its own to parse — it is a fixed particle. Negating the present-tense verb after it conveys a settled, continuous refusal.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "'I worship / I serve' — to direct one's devotion, obedience and lowly submission to a deity. In Qur'anic usage this is the total servanthood owed to Allah alone: prayer, reverence and surrender.",
+   "parts": [
+    {
+     "ar": "اَ",
+     "tr": "a-",
+     "en": "I (do)"
+    },
+    {
+     "ar": "عۡبُدُ",
+     "tr": "ʿbudu",
+     "en": "worship / serve"
+    }
+   ],
+   "grammar": "A present-tense verb. The a- prefix at the front marks the doer as 'I' (first person singular). The final -u ending is the indicative mood, meaning the action is stated as a plain, ongoing fact ('I worship'), not a command or wish. Coming after lā, it reads 'I do not worship'.",
+   "root": "ع-ب-د (ʿ-b-d) — to worship, serve, submit as a devoted servant"
+  },
+  "3": {
+   "meaning": "'what' — a connector standing for the thing(s) the listeners worship. It points to their objects of worship (their idols), introducing the clause 'what you worship'.",
+   "parts": [
+    {
+     "ar": "مَا",
+     "tr": "mā",
+     "en": "what / that which"
+    }
+   ],
+   "grammar": "A relative word meaning 'what' or 'that which'. It is the object of the verb before it ('I worship [what]') and at the same time sets up the verb after it ('what you worship'). It is a fixed particle with no case ending to parse.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "'you (all) worship / you serve' — the act of devotion offered by the disbelievers being addressed, here directed toward their idols and false deities.",
+   "parts": [
+    {
+     "ar": "تَ",
+     "tr": "ta-",
+     "en": "you (do)"
+    },
+    {
+     "ar": "عۡبُدُ",
+     "tr": "ʿbudu",
+     "en": "worship / serve"
+    },
+    {
+     "ar": "وۡنَ",
+     "tr": "-ūna",
+     "en": "(masculine plural) you all"
+    }
+   ],
+   "grammar": "A present-tense verb addressed to a group. The ta- prefix marks the doer as 'you', and the -ūna ending is a single, indivisible suffix that makes the subject masculine plural ('you all') while also marking the indicative mood, stating the action as a fact ('you worship'). The ending cannot be split into a stem vowel plus a separate plural marker. Together: 'you (all) worship'.",
+   "root": "ع-ب-د (ʿ-b-d) — to worship, serve, submit as a devoted servant"
+  }
+ },
+ "3": {
+  "1": {
+   "meaning": "And not — a connecting word ('and') joined to a negating word ('not'). Together they extend the previous verse's denial: 'and likewise not...'. Here the negation covers a whole noun-based sentence, denying in the present that the addressees are worshippers of what the speaker worships.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "لَا",
+     "tr": "lā",
+     "en": "not"
+    }
+   ],
+   "grammar": "Two particles fused together. 'wa-' is the conjunction 'and', linking this verse to the one before. 'lā' is the negating particle 'not'; placed before a noun sentence here, it denies the statement as a whole. Neither word changes form for case or tense — particles are fixed.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "You — the detached pronoun addressing a group of males directly ('you all'). Being a standalone (not attached) pronoun, it carries emphasis: it spotlights 'you' as the subject the sentence is about.",
+   "parts": [
+    {
+     "ar": "اَنْـتُمْ",
+     "tr": "antum",
+     "en": "you (plural, masculine)"
+    }
+   ],
+   "grammar": "A standalone subject pronoun, second person masculine plural. The '-tum' part is the marker for 'you all (men)'. As a pronoun it is indeclinable — it never takes case endings; it simply functions here as the subject of the sentence, with 'worshippers' as the predicate.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "Worshippers — those who serve and devote themselves in worship. This is an active participle (a 'doer' word, like 'worshipping ones'), describing the addressees as people who perform worship, rather than a finite verb pinned to one tense.",
+   "parts": [
+    {
+     "ar": "عٰبِد",
+     "tr": "ʿābid",
+     "en": "worshipper / one who worships"
+    },
+    {
+     "ar": "ُوۡنَ",
+     "tr": "-ūna",
+     "en": "(masculine plural ending)"
+    }
+   ],
+   "grammar": "An active participle, masculine plural. The '-ūna' ending marks it as plural, masculine, and in the nominative (subject) case — fitting because it is the predicate describing 'you' (antum). The participle form (shape ʿābid) names the doer of the act. In this verse it carries the present sense, parallel to verse 2: 'nor are you worshippers of what I worship.'",
+   "root": "ع-ب-د (ʿ-b-d) — to worship, serve, devote oneself"
+  },
+  "4": {
+   "meaning": "What — a relative word standing for the object of worship ('that which' the speaker worships). Though 'mā' usually points to things, here it refers reverently to the One the speaker worships, Allah; the form is left general to mark the sharp contrast between the two objects of worship.",
+   "parts": [
+    {
+     "ar": "مَا",
+     "tr": "mā",
+     "en": "what / that which"
+    }
+   ],
+   "grammar": "A relative pronoun meaning 'what' or 'that which'. It heads a relative clause completed by the verb that follows (mā aʿbudu = 'that which I worship'). It is fixed in form — no case ending. The whole relative clause it introduces, not the word mā by itself, serves as the object of 'worshippers'.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "I worship — the speaker affirms his own act of worship, directed to Allah alone. Paired with 'mā' before it, the phrase means 'that which I worship', i.e. the true object of the speaker's devotion.",
+   "parts": [
+    {
+     "ar": "اَ",
+     "tr": "a-",
+     "en": "I (do)"
+    },
+    {
+     "ar": "عْبُدُ",
+     "tr": "ʿbudu",
+     "en": "worship"
+    }
+   ],
+   "grammar": "A present-tense verb, first person singular. The 'a-' prefix means 'I' (the one doing the action). The final '-u' ending marks the indicative mood — a plain, ongoing statement of fact ('I worship', habitually and presently), not a command or a negated/subjunctive form. With 'mā' it forms 'what I worship'.",
+   "root": "ع-ب-د (ʿ-b-d) — to worship, serve, devote oneself"
+  }
+ },
+ "4": {
+  "1": {
+   "meaning": "\"And not\" — a connective \"and\" joined to the negative word \"not.\" Together they open the statement with \"And I am not...,\" linking this verse to the previous declaration and firmly negating what follows.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "لَا",
+     "tr": "lā",
+     "en": "not"
+    }
+   ],
+   "grammar": "Two particles fused into one word. The prefix wa- means \"and\" and ties this verse to the one before it. lā is the negation \"not\"; here it negates the noun-based (nominal) sentence that follows (\"I am not a worshipper of...\"), giving an absolute, ongoing denial rather than a one-time \"I did not.\"",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "\"I (am)\" — the standalone, emphatic pronoun for the first person singular, here the subject of \"I am a worshipper...\" Arabic shows \"I\" in its verb endings, so stating anā separately adds weight, as if to say \"I, for my part.\"",
+   "parts": [
+    {
+     "ar": "اَنَا",
+     "tr": "anā",
+     "en": "I (am)"
+    }
+   ],
+   "grammar": "An independent subject pronoun (\"I\"), not attached to any verb. It is indeclinable, so its ending never changes for case. Placed here as the subject (mubtadaʾ) of a nominal sentence (\"I [am] a worshipper...\"), its presence adds emphasis and contrast: \"I, on my side.\"",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "\"a worshipper\" — one who worships or devotes acts of worship. It is a doer-noun describing the speaker as the kind of person who performs worship, here being denied: \"I am not one who worships...\"",
+   "parts": [
+    {
+     "ar": "عَابِد",
+     "tr": "ʿābid",
+     "en": "worshipper / one who worships"
+    },
+    {
+     "ar": "ٌ",
+     "tr": "-un",
+     "en": "a (indefinite marker)"
+    }
+   ],
+   "grammar": "An active participle (the \"-er\" form) on the pattern fāʿil, meaning \"a worshipper / one worshipping.\" The final -un is nunation carrying the -u (nominative) vowel: the -u marks it as the predicate (khabar) of the nominal sentence (\"I [am] a worshipper\"), and the -n shows it is indefinite (\"a\" worshipper, not \"the\"). Because a participle conveys settled, ongoing description, it points to enduring practice rather than a single act.",
+   "root": "ع-ب-د (ʿ-b-d) — to worship, serve, devote oneself"
+  },
+  "4": {
+   "meaning": "\"what / that which\" — the connector introducing what the verb after it expresses. In this verse the preferred classical reading (Ibn Kathir) takes mā as infinitival (masdariyyah), so it means \"the way/act of worshipping\" rather than the object worshipped: \"...a worshipper of the manner in which you worship.\" (On the other reading it is the relative \"that which,\" i.e. the thing worshipped — the sense it carries back in verse 2.)",
+   "parts": [
+    {
+     "ar": "مَّا",
+     "tr": "mā",
+     "en": "what / that which (here: the act of)"
+    }
+   ],
+   "grammar": "Indeclinable particle, so it has no case ending of its own. Two readings: (1) the dominant one for this verse, mā masdariyyah (infinitival) — it turns the following verb into a verbal noun, \"your worshipping / your mode of worship,\" yielding \"I will never adopt the way you worship\"; (2) mā mawṣūlah (relative), \"that which,\" the object of \"worshipper.\" Per the JSON's Ibn Kathir note, the first mā in the surah (verse 2) is relative while this one (verse 4) is infinitival, so verses 4–5 contrast the manner of worship, not just its object. The doubled m (mmā) is from running together with the previous word in recitation, not a change in the word itself.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "\"you worship\" — addressed to a group: \"the way you worship\" (or, on the relative reading, \"what you worship\"). Although the verb form is grammatically perfect, the context (reflected in the JSON translation \"I will never worship what you worship\") frames it as the disbelievers' ongoing and continuing practice, not merely a past act.",
+   "parts": [
+    {
+     "ar": "عَبَدْ",
+     "tr": "ʿabad",
+     "en": "worship(ed)"
+    },
+    {
+     "ar": "تُّمْ",
+     "tr": "-tum",
+     "en": "you (plural)"
+    }
+   ],
+   "grammar": "A perfect-tense verb with the attached subject ending -tum, \"you,\" masculine plural — \"you (all) worship / have worshipped.\" The doer is built into the suffix, so there is no separate prefix. Though morphologically perfect, here it conveys the disbelievers' settled, ongoing devotion rather than a single completed past event. Phonology: the suffix tā' carries a shadda (-ttum) because the root's final sākin dāl (دۡ) undergoes complete assimilation (idghām) into it — the dāl is not pronounced at all; it merges entirely, leaving only a geminated (doubled) tā'.",
+   "root": "ع-ب-د (ʿ-b-d) — to worship, serve, devote oneself"
+  }
+ },
+ "5": {
+  "1": {
+   "meaning": "The conjunction \"and,\" joining this statement to the previous verse so the disavowal continues and accumulates: \"and...\" It links verse 5 to verse 4, stacking one rejection upon another.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    }
+   ],
+   "grammar": "This is the prefix particle wa- (\"and\"), used to connect clauses. It carries no case ending of its own; it simply attaches to whatever follows and ties this line to the one before it. In the running verse it pairs with the negative that follows to give \"and not / nor.\"",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "A particle of negation, \"not.\" Here it negates a noun-style (participle) sentence, producing the sense \"you are not (worshippers)...\" — and with the preceding \"and\" it reads \"nor.\" Paired with the future-leaning participle it conveys a settled, ongoing refusal: \"nor will you ever...\"",
+   "parts": [
+    {
+     "ar": "لَاۤ",
+     "tr": "lā",
+     "en": "not"
+    }
+   ],
+   "grammar": "This is the negating particle lā. It is invariable — it never takes a case ending and never changes form. It works by denying the statement that follows; combined with the earlier wa- it yields \"and not / nor.\"",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "The detached pronoun \"you,\" addressed to a group of men (the disbelievers of Quraysh). Standing on its own before the predicate, it is emphatic — it spotlights the addressees: \"you (specifically), you people...\"",
+   "parts": [
+    {
+     "ar": "اَنۡـتُمۡ",
+     "tr": "antum",
+     "en": "you (all)"
+    }
+   ],
+   "grammar": "This is a standalone subject pronoun, second person masculine plural. The piece ant- carries the \"you,\" and the ending -um marks \"plural / more than two males.\" Being an independent pronoun it has a fixed shape and takes no case vowel; placed first, it stresses the subject — \"as for you...\"",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "\"Worshippers / ones who worship\" — an active participle describing the addressees as people who perform worship. A participle names the doer rather than a single moment of action, so with the negation it denies that they are, or will be, worshippers of what the Prophet worships; this nuance points to the future: \"nor will you ever be worshippers of...\"",
+   "parts": [
+    {
+     "ar": "عٰبِد",
+     "tr": "ʿābid",
+     "en": "worshipper / one who worships"
+    },
+    {
+     "ar": "ـُوۡنَ",
+     "tr": "-ūna",
+     "en": "(masculine plural ending)"
+    }
+   ],
+   "grammar": "This is an active participle, masculine plural. The stem ʿābid means \"one who worships\"; the ending -ūna marks masculine plural in the subject (nominative) case — fitting because it is the predicate of \"you.\" The -ūna ending (rather than -īna) is exactly the form used when the word is the doer/subject, here describing \"you (all)\" as \"worshippers.\"",
+   "root": "ع-ب-د (ʿ-b-d) — to worship, to serve, to devote oneself"
+  },
+  "5": {
+   "meaning": "Two words written together: the particle \"mā\" plus the verb \"I worship.\" The particle \"mā\" here can be read two ways. (1) As a relative pronoun (\"that which / whom\"): \"that which I worship\" — i.e., the One (Allah) the Prophet devotes himself to, paralleling verse 3. (2) As an infinitival/gerundive particle (mā maṣdariyya), which the source's tafsir (Ibn Kathir) prefers for this verse: it turns the verb into a verbal noun, so the phrase means \"my worshipping / my manner of worship.\" On this reading verse 5 is not a repeat of verse 3: verses 2–3 contrast the differing objects of worship, while verses 4–5 contrast the differing modes of worship — \"nor will you adopt the manner in which I worship.\"",
+   "parts": [
+    {
+     "ar": "مَاۤ",
+     "tr": "mā",
+     "en": "that which / (my) manner of"
+    },
+    {
+     "ar": "اَعۡبُد",
+     "tr": "aʿbud",
+     "en": "I worship"
+    },
+    {
+     "ar": "ـُ",
+     "tr": "-u",
+     "en": "(indicative-mood ending)"
+    }
+   ],
+   "grammar": "\"Mā\" is an invariable particle with no case ending; here it is read either as a relative pronoun (\"that which\") or, in the interpretation the source prefers for this verse, as mā maṣdariyya (an infinitival particle that recasts the following verb as a verbal noun, \"my worship / way of worshipping\"). \"Aʿbudu\" is an imperfect (present/future) verb: the a- prefix means \"I\" and the stem -ʿbud- is \"worship.\" Tense (present/future) is carried by the imperfect pattern itself; the final -u (ḍamma) is not a tense marker but the indicative-mood ending (marfūʿ), which distinguishes the plain indicative from the subjunctive (-a, as in lan aʿbuda) and the jussive (no vowel, as in lam aʿbud). Here it gives the ordinary statement \"I worship.\"",
+   "root": "ع-ب-د (ʿ-b-d) — to worship, to serve, to devote oneself"
+  }
+ },
+ "6": {
+  "1": {
+   "meaning": "\"For you\" / \"yours is\" — a phrase that assigns something to the people being addressed (the disbelievers). It opens an equational sentence meaning roughly \"belonging to you is...\", setting up the idea that they are left with what is theirs.",
+   "parts": [
+    {
+     "ar": "لَـ",
+     "tr": "la-",
+     "en": "for / belonging to"
+    },
+    {
+     "ar": "كُمۡ",
+     "tr": "-kum",
+     "en": "you (plural, men addressed)"
+    }
+   ],
+   "grammar": "A preposition plus an attached pronoun. The preposition is li- (\"for/to\"), but when the pronoun -kum attaches, its vowel shifts from -i to -a, giving la-kum. The -kum ending means \"you all\" (masculine plural), addressing the disbelievers. As a prepositional phrase placed first, it carries the sense \"to you belongs...\".",
+   "root": "— (preposition + pronoun, no triliteral root)"
+  },
+  "2": {
+   "meaning": "\"Your religion\" — your whole way of life, your code of belief, worship, and conduct, and the accountability that comes with it. The Arabic word dīn is broader than the English \"religion\": it covers creed, the path one follows, and the requital one earns for it.",
+   "parts": [
+    {
+     "ar": "دِيۡن",
+     "tr": "dīn",
+     "en": "religion / way of life / requital"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "(subject-marking ending)"
+    },
+    {
+     "ar": "كُمۡ",
+     "tr": "-kum",
+     "en": "your (plural, men addressed)"
+    }
+   ],
+   "grammar": "A noun with a possessive ending. The -u vowel on dīn-u is the nominative case: it marks this word as the subject of the verbless sentence (\"your religion [is] for you\"). The attached -kum means \"your\" (masculine plural), so together: \"your religion.\"",
+   "root": "د-ي-ن (d-y-n) — religion, way of life, judgement/requital"
+  },
+  "3": {
+   "meaning": "\"And for me\" / \"and mine is\" — the counterpart phrase that assigns something to the speaker (the Prophet, peace be upon him). It mirrors \"for you\" in the first half, drawing a clean line between the two sides.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa-",
+     "en": "and"
+    },
+    {
+     "ar": "لِـ",
+     "tr": "li-",
+     "en": "for / belonging to"
+    },
+    {
+     "ar": "ـيَ",
+     "tr": "-ya",
+     "en": "me"
+    }
+   ],
+   "grammar": "Three pieces joined: the connector wa- (\"and\"), the preposition li- (\"for\"), and the pronoun for \"me.\" When the \"me\" pronoun attaches to li-, it surfaces with an -a vowel here (li-ya), giving wa-li-ya. The phrase means \"and to me belongs...\".",
+   "root": "— (connector + preposition + pronoun, no triliteral root)"
+  },
+  "4": {
+   "meaning": "\"My religion\" — my own way of life, creed, worship, and the reward it brings; the same rich word dīn as before, now claimed by the speaker. The verse ends by leaving each side with its own path.",
+   "parts": [
+    {
+     "ar": "دِيۡن",
+     "tr": "dīn",
+     "en": "religion / way of life / requital"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "(remnant of \"my\")"
+    }
+   ],
+   "grammar": "The same noun dīn, here ending in -i. In this Qur'anic reading the possessive \"my\" (the yāʾ) is dropped at the end of the verse, and the leftover kasra (-i) stands in its place — so dīn-i still means \"my religion.\" In function this word parallels dīnukum in the first half: it is the subject of the verbless sentence (\"my religion [is] for me\"), not a genitive. The preposition li- governs only the pronoun \"me\" in the preceding word (li-ya); it does not act on dīn, so the -i here is purely the kasra left by the elided possessive yāʾ, not a case ending.",
+   "root": "د-ي-ن (d-y-n) — religion, way of life, judgement/requital"
+  }
+ }
+}

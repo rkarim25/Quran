@@ -1,0 +1,178 @@
+{
+ "1": {
+  "1": {
+   "meaning": "A two-part word combining the emphasis particle inna with the attached pronoun 'we'. Inna has no clean English equivalent: it is a particle of emphasis and certainty that strengthens the whole sentence, like saying 'Truly' or 'It is a fact that'. Joined to the divine 'We' (the majestic plural Allah uses of Himself), the word announces with full solemnity: 'Truly, We...'",
+   "parts": [
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "truly / indeed (emphasis particle)"
+    },
+    {
+     "ar": "اۤ",
+     "tr": "-nā",
+     "en": "we"
+    }
+   ],
+   "grammar": "Inna is an emphasising particle that opens the sentence and makes its claim sound certain and weighty ('it is truly the case that...'). The attached ending -nā is the pronoun 'we', referring to Allah in the royal/majestic plural (a plural of greatness, not of number). Grammatically this -nā is the ism (the subject/noun) of inna, which inna places in the accusative position — so the form means 'Indeed We'. Note: this -nā is not itself the doer of the verb; the doer of the verb 'granted' is the separate -nā attached to the verb in the next word. The two refer to the same 'We' (Allah) but are distinct grammatical elements.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "'We have given / granted you.' A completed-action verb meaning to give, bestow, or hand over freely as a gift, with the giver being Allah ('We') and the receiver being the Prophet ('you', singular male). It conveys a finished, decisive act of granting.",
+   "parts": [
+    {
+     "ar": "اَعۡطَيۡ",
+     "tr": "aʿṭay-",
+     "en": "gave / granted (Form IV verb stem)"
+    },
+    {
+     "ar": "نٰ",
+     "tr": "-nā",
+     "en": "we (the doers)"
+    },
+    {
+     "ar": "كَ",
+     "tr": "-ka",
+     "en": "you (singular, addressed to the Prophet)"
+    }
+   ],
+   "grammar": "This is a past-tense (perfect) verb: the action is presented as already done and complete ('have granted'). It is built on Form IV (the أَفۡعَلَ pattern), whose defining mark is the prefixed hamza (أَ) added to the root — a pattern that typically carries a causative 'to make someone have / to give' sense. The ending -nā is the doer (fāʿil), 'we' (Allah, majestic plural). The final -ka is an attached object pronoun, 'you', addressed to one male — the Prophet ﷺ. So literally: 'We-granted-you.'",
+   "root": "ع-ط-و (ʿ-ṭ-w) — giving, bestowing"
+  },
+  "3": {
+   "meaning": "Al-Kawthar: a name for the immense, abundant good that Allah gave the Prophet ﷺ. The word is built to mean 'overflowing abundance / a great multitude of good'. It includes the river named Al-Kawthar in Paradise, but the Companions explained it more broadly as every abundant blessing — prophethood, the Qur'an, a lasting legacy, and reward without end.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "كَوۡثَرَ",
+     "tr": "kawthara",
+     "en": "abundance / overflowing good"
+    }
+   ],
+   "grammar": "The al- prefix is the definite article 'the', marking this as a specific, known thing — 'the Abundance'. The word itself is an intensive noun (the فَوۡعَل / kawthar pattern) signalling not just 'much' but 'exceedingly much, overflowing'. The final -a ending is the accusative case: it marks kawthar as the direct object — the thing that was given. (The expected -u of a noun in the subject position becomes -a here because it is the receiver of the verb's action: 'We granted you THE ABUNDANCE.')",
+   "root": "ك-ث-ر (k-th-r) — being much, abundant, numerous"
+  }
+ },
+ "2": {
+  "1": {
+   "meaning": "A command: 'so pray' / 'then perform the ritual prayer (salah).' The verb refers specifically to the formal, prescribed act of worship — standing, bowing, and prostrating before Allah — not merely a casual supplication. The opening 'fa-' ('so/therefore') ties this command back to the favour mentioned in the previous verse: because Allah has given you abundant good, respond with worship.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa",
+     "en": "so / therefore (connecting this to what came before)"
+    },
+    {
+     "ar": "صَلِّ",
+     "tr": "ṣalli",
+     "en": "pray! (perform the ritual prayer)"
+    }
+   ],
+   "grammar": "'fa-' is a connector meaning 'so/therefore,' linking the command to the gift of the previous verse. 'ṣalli' is a direct command (imperative) addressed to a single male — 'you, pray!' It comes from Form II (the doubled middle root letter), which here gives the specialized sense of performing the prescribed worship, salah. The imperative is built by taking the present-tense verb (tuṣallī), dropping its prefix, and dropping the final weak letter (the yāʾ of the defective root). What remains ends in the doubled 'l' (the shadda). The '-i' sound heard on 'ṣalli' is simply a supporting vowel placed under that doubled 'l' to make it pronounceable — it is a phonological aid, not itself the marker of the command.",
+   "root": "ص-ل-و (ṣ-l-w) — to pray, to perform worship; connection/supplication to Allah"
+  },
+  "2": {
+   "meaning": "'to / for your Lord' — i.e. direct your prayer to Allah alone. 'Rabb' is a rich term with no single English equivalent: it means the Lord who creates, owns, sustains, nurtures, and governs — the One who brings a thing into being and carries it to its completion. The phrase stresses that worship must be devoted to Him exclusively. 'Your' refers to the Prophet (peace be upon him), and through him every believer.",
+   "parts": [
+    {
+     "ar": "لِ",
+     "tr": "li",
+     "en": "to / for (the sake of)"
+    },
+    {
+     "ar": "رَبِّ",
+     "tr": "rabbi",
+     "en": "Lord, Master, Sustainer"
+    },
+    {
+     "ar": "كَ",
+     "tr": "ka",
+     "en": "your (one male)"
+    }
+   ],
+   "grammar": "'li-' is a prefix meaning 'to/for,' marking the one for whose sake the prayer is offered. Because of this 'li-', the noun 'rabb' takes the genitive '-i' ending (rabbi) — the case Arabic uses after such prefixes and to show linkage/possession. The attached 'ka' on the end means 'your,' addressed to a single male; it also pulls 'rabb' into the possessive ('your Lord'). So the whole word reads 'for your Lord.'",
+   "root": "ر-ب-ب (r-b-b) — to nurture, sustain, master; lordship and care"
+  },
+  "3": {
+   "meaning": "'and sacrifice' — a command to offer a sacrificial animal to Allah. The verb 'naḥara' specifically means to slaughter a camel by piercing the base of the neck (the customary Arab method for camels), and by extension to offer ritual sacrifice in general. Paired with prayer, it represents devoting both one's body and one's wealth to Allah, in pointed contrast to the idolaters who sacrificed to their idols.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "ٱنۡحَرۡ",
+     "tr": "inḥar",
+     "en": "sacrifice! (slaughter an offering)"
+    }
+   ],
+   "grammar": "'wa-' simply means 'and,' joining this command to the command to pray. 'inḥar' is a direct command (imperative) to a single male — 'you, sacrifice!' When the imperative is formed from this Form I verb, the first root letter is left with no vowel of its own, so the stem would begin with the cluster 'n-ḥ' — and Arabic does not allow a word to start on a vowel-less consonant. To solve this, a helping syllable, the 'connecting hamza' (hamzat al-waṣl), is added at the front, giving the supporting 'i-' sound. The final '-r' carries no vowel (a silent stop), which is the normal ending for this kind of command verb.",
+   "root": "ن-ح-ر (n-ḥ-r) — to slaughter (esp. a camel, by piercing the upper chest/neck); ritual sacrifice"
+  }
+ },
+ "3": {
+  "1": {
+   "meaning": "A particle of emphasis placed at the start of a sentence to assert what follows with certainty — it has no single English word but functions like 'Indeed', 'Truly', or 'It is a fact that…'. It assures the Prophet ﹖ that the statement to come is absolutely true and not in doubt.",
+   "parts": [
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "indeed / truly (emphatic assertion)"
+    }
+   ],
+   "grammar": "This is an emphasizing particle (ḥarf tawkīd) that introduces a nominal sentence and grammatically governs the noun after it, putting that noun into the accusative case — which is why the next word ends in -a. It carries no tense or person of its own; its whole job is to stress the truth of the sentence.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "The one who hates you, your detractor — specifically the one who feels malice and contempt toward the Prophet ﹖ and reviles him. It denotes an enemy driven by spite and ill-will, not merely an opponent.",
+   "parts": [
+    {
+     "ar": "شَانِئَ",
+     "tr": "shāniʾa-",
+     "en": "the one who hates / detractor"
+    },
+    {
+     "ar": "كَ",
+     "tr": "-ka",
+     "en": "you (your)"
+    }
+   ],
+   "grammar": "This is an active participle (shāniʾ, 'the hater / one who hates') — a noun-like form naming the doer of the action — joined to the attached pronoun -ka, 'your'. It is the subject (ism) governed by inna, so it carries the accusative -a ending (shāniʾa-) demanded by inna; the -ka is the possessive 'you', making the whole 'your hater / the one who hates you'.",
+   "root": "ش-ن-أ (sh-n-ʾ) — to hate, to feel malice/aversion"
+  },
+  "3": {
+   "meaning": "An emphatic standalone pronoun, 'he himself / it is he' — placed here to single out the enemy and stress that it is precisely HE, and no one else, who bears the fate described next.",
+   "parts": [
+    {
+     "ar": "هُوَ",
+     "tr": "huwa",
+     "en": "he (himself), it is he"
+    }
+   ],
+   "grammar": "A detached (independent) personal pronoun, third-person masculine singular, 'he'. Here it works as a pronoun of separation/emphasis (ḍamīr al-faṣl): set between the subject and what is said about it, it underlines that the enemy himself is the one who is 'cut off', tightening the sentence to mean 'it is HE who is the cut-off one'. It does not change form for case.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "The cut-off one — the one severed from offspring, from lasting good, and from all remembrance; left without future, without legacy, without any continuing trace. The disbelievers had hurled this word at the Prophet ﹖, and the verse turns it back upon the hater himself.",
+   "parts": [
+    {
+     "ar": "الڡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "اَبڡتَرُ",
+     "tr": "abtaru",
+     "en": "cut off / severed (without lineage or trace)"
+    }
+   ],
+   "grammar": "This is the definite article al- ('the') attached to abtar, an adjective on the afʿal pattern. Here afʿal is the defect/physical-attribute type (ṣifah mushabbahah, like aḥmar 'red' or aʿraj 'lame') — it names a permanent quality, 'cut off', and is NOT the comparative/superlative (elative) sense; it does not mean 'more' or 'most cut off'. It is the predicate (what is being said about the subject) and is in the nominative case, shown by the final -u ending (al-abtaru) — the normal case for the predicate of a nominal sentence. The 'the' makes it definite and absolute: not just cut off, but THE cut-off one.",
+   "root": "ب-ت-ر (b-t-r) — to cut off, sever, dock (leave without continuation)"
+  }
+ }
+}
