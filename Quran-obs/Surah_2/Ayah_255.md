@@ -437,11 +437,17 @@ Allah — there is no god worthy of worship except Him, the Ever-Living, All-Sus
 
 ## AI Tafsir
 
-**What this ayah teaches:** Ayat al-Kursi declares Allah's absolute life, wakefulness, ownership of the heavens and earth, perfect knowledge, vast Kursi, and that no intercession occurs except by His permission.
+**Essence** Allah alone is the Ever-Living, Self-Sustaining One — no deity but Him — whose knowledge, ownership, and care over all creation never falter, tire, or sleep.
 
-**Classical tafsir:** Ibn 'Abbas: the Kursi is the footstool; the Throne is vastly greater. Ibn Kathir: al-Hayy al-Qayyum means the Self-Sustaining who sustains all else.
+**What it teaches** This is Ayat al-Kursi, which the authentic Hadith calls "the greatest Ayah in the Book of Allah." In ten clauses it proclaims pure tawhid (there is no god worthy of worship but Allah), affirms al-Hayy (the Ever-Living who never dies) and al-Qayyum (the Self-Standing who sustains all else while needing nothing), and declares His total ownership, perfect knowledge, and effortless preservation of the heavens and earth.
 
-**From the Sunnah:** 'Ubayy ibn Ka'b said this is the greatest ayah in the Book of Allah (Musnad Ahmad, Sahih Muslim). Reciting it after each fard prayer is authentically reported. It is a protection by night (Bukhari).
+**The scholars** Ibn Kathir explains that al-Hayy al-Qayyum means all creation stands in need of Allah and relies wholly on Him, while He needs nothing; "neither slumber nor sleep" affirms that no shortcoming, unawareness, or fatigue ever touches Him. On "Who can intercede except by His permission," he notes none dares intercede save by His leave. Maarif ul Quran adds that "Allah" names the Being who combines all perfections and is free of all shortcomings, and that Hayy and Qayyum together are, according to several revered elders, al-ism al-a'zam (the Greatest Name) — Sayyidna 'Ali reported seeing the Prophet ﷺ prostrating at Badr repeating "Ya Hayyu Ya Qayyum." On the Kursi, Ibn Kathir cites Ibn 'Abbas that "the Kursi is the footstool, and no one is able to give due consideration to Allah's Throne." Maarif ul Quran relays Abu Dharr's report that the seven heavens and earth beside the Kursi are like a ring tossed in a vast desert. Ibn Kathir closes that such attribute-verses must be treated as the Salaf did: accepting their apparent meanings without likening Allah to creation or distorting them.
+
+**From the Sunnah** The Prophet ﷺ asked Ubayy ibn Ka'b which was the greatest Ayah in the Book of Allah. Ubayy first said, "Allah and His Messenger know better," but when asked repeatedly he answered, "Ayat al-Kursi." The Prophet ﷺ said, "Congratulations for having knowledge, O Abu al-Mundhir," and added that the Ayah has a tongue and two lips with which she praises the King next to the leg of the Throne. (Musnad Ahmad; Muslim also recorded it, but without the "tongue and two lips" portion.)
+
+**From the Sunnah** Set to guard the charity of Ramadan, Abu Hurayrah three times caught an intruder stealing food and let him go after his pleas; the third time the man taught him that whoever recites Ayat al-Kursi on going to bed will have Allah appoint a guardian over him so that no Shaytan comes near until morning. The Prophet ﷺ confirmed, "He spoke the truth, although he is a liar," and revealed the intruder was Shaytan. (Sahih al-Bukhari)
+
+**Reflection** The One who never dozes is watching over your affairs while you sleep — so entrust your nights to Him, and let Ayat al-Kursi guard your rest and crown your prayers.
 ## Personal Reflections
 
 
