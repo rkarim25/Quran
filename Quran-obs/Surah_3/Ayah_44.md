@@ -164,13 +164,21 @@ This is news of the unseen that We reveal to you. You were not with them when th
 
 ## AI Tafsir
 
-**Context:** This verse presents an argument to prove the prophethood of Sayyidna Muhammad ﷺ by referring to happenings in the lives of Sayyidna Zakariyya (علیہ السلام) and Sayyidah Maryam.
+**Essence**
+Allah tells His Prophet ﷺ that the hidden story of Maryam's guardianship is unseen knowledge revealed to him by Allah — living proof that his message comes from Allah, not from human learning.
 
-**What this ayah teaches:** These took place in the remote past and there is no likelihood of their being seen or heard or read, specially so, by the Holy Prophet ﷺ which by itself proves that his being so informed of the unknown was beyond the ordinary course of learning.
+**What it teaches**
+"This is part of the news of the Ghayb (Unseen) which We reveal to you" — the Prophet ﷺ was never present when the rabbis cast their pens (aqlam) to decide who would be Maryam's guardian (yakfulu), nor when they quarreled (yakhtasimun) over her custody. Anba' al-ghayb means tidings of a hidden past no one could have witnessed, heard, or read. That he could narrate such buried detail proves his knowledge was wahy (revelation) from Allah.
 
-**Classical tafsir:** Ibn Kathir notes: Rather, Allah disclosed these facts to you as if you were a witness, when they conducted a lottery to choose the custodian of Maryam, seeking the reward of this good deed." Ibn Jarir recorded that 'Ikrimah said, "Maryam's mother left with Maryam, carrying her in her infant cloth, and took her to the…
+**The scholars**
+Ibn Kathir explains: "You were not present, O Muhammad ﷺ, when this occurred, so you cannot narrate what happened as an eyewitness. Rather, Allah disclosed these facts to you as if you were a witness, when they conducted a lottery to choose the custodian of Maryam, seeking the reward of this good deed." He records on the authority of 'Ikrimah (via Ibn Jarir) that when Maryam's mother dedicated her infant to Bayt Al-Maqdis, the rabbis disputed her custody — each desiring the honor — so they cast lots with "the pens with which they wrote the Tawrah," and Zakariyya won and took her into his care. 'Ikrimah, As-Suddi, Qatadah and Ar-Rabi' bin Anas relate that they cast their reed pens into the Jordan river, agreeing that the owner of the pen that stayed afloat against the current would be the winner: the water swept every pen under except that of Zakariyya, which remained afloat — and he was their master, chief, scholar, Imam and Prophet.
+Maarif ul Quran stresses the argument: these events "took place in the remote past and there is no likelihood of their being seen or heard or read" by the Prophet ﷺ, so his being informed of them "was beyond the ordinary course of learning." Maarif adds a fiqh note: per the Hanafi jurists, drawing lots (qur'ah) cannot decide rights already fixed by the Shari'ah (that would be qimar, gambling), but it is permissible where parties' rights are equal and the lot merely allocates equal shares.
 
-**From the Sunnah:** The Six, with the exception of Abu Dawud, recorded it.
+**From the Sunnah**
+The Prophet ﷺ named the two best women: "The best woman (in her time) was Maryam, daughter of 'Imran, and the best woman (of the Prophet's time) is Khadijah, daughter of Khuwaylid." (At-Tirmidhi; The Two Sahihs) — and he said: "Many men achieved perfection, but among women, only Maryam the daughter of 'Imran and Asiah, the wife of Fir'awn, achieved perfection." (Ibn Jarir; The Six except Abu Dawud)
+
+**Reflection**
+Maryam's guardianship turned on lots no human eye recorded — yet the Qur'an names the pens, the river, the dispute. The same revelation that recovered a buried past you could never reach is the one addressing you now; let that turn your reading into certainty.
 ## Personal Reflections
 
 
