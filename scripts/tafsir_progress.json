@@ -1,6 +1,6 @@
 {
   "format": "layered-v1",
   "last_surah": 2,
-  "last_ayah": 144,
+  "last_ayah": 148,
   "note": "Highest surah:ayah whose layered AI-tafsir is complete. The scheduler resumes from the next ayah after this marker."
 }
