@@ -142,11 +142,20 @@ There is no blame if you divorce women before consummating or settling a dowry �
 
 ## AI Tafsir
 
-**What this ayah teaches:** There is no sin on you, if you divorce women while yet you have not touched them, nor appointed for them their due (dowry).
+**Essence**
+When a marriage is ended before its consummation and before any dower was fixed, Allah lifts all blame from the divorce — yet still commands the man to send his former wife away with a gracious parting gift.
 
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, Tawus, Ibrahim and Al-Hasan Al-Basri said that 'touched' (mentioned in the Ayah) means sexual intercourse. However, it does indicate that the affluent should give in accordance with their capacity, which carries an element of persuasion for the man of means who should not behave tight-fisted in this act of grace.
+**What it teaches**
+"La junaha" — there is no sin or blame — declares such a divorce permissible, for "you have not touched them" (lam tamassuhunna) is glossed as consummation, and no dower (faridah) had yet been set. Even so, the husband must give a mut'ah, a parting gift "in a fair manner" (bil-ma'ruf) scaled to his means. The verse pairs a legal permission with a moral command: though the man bears no blame, the obligation of ihsan (excellence) falls upon him — a "haqq," a binding duty, upon "al-muhsinin," those who do good.
 
-**From the Sunnah:** that Allah's Messenger ﷺ married Umaymah bint Sharahil. (Sahih al-Bukhari)
+**The scholars**
+Ibn Kathir reports that Ibn 'Abbas, Tawus, Ibrahim and Al-Hasan Al-Basri all explained "touched" to mean sexual intercourse, so a man may divorce after the contract but before consummation; the mut'ah then "compensates her for her loss," the rich according to his means and the poor according to his. Maarif ul Quran maps four cases of dower and consummation, placing this verse in the first — no dower fixed and no consummation — where no dower is owed, yet the husband must still give something of his own; Ibn 'Abbas said the least is one set of clothes (Qurtubi). The Qur'an fixes no amount but, by urging the affluent to give "according to their means," persuades the man of means not to be tight-fisted in this act of grace — as when Sayyidna Hasan gave a divorced woman twenty thousand dirhams, and Qadi Shurayh gave five hundred.
+
+**From the Sunnah**
+When the Prophet ﷺ married Umaymah bint Sharahil and extended his hand to her, she did not welcome it; the marriage was never consummated. He then ordered Abu Usayd to provide for her along with a gift of two garments — embodying the very mut'ah this ayah commands. (Sahih al-Bukhari)
+
+**Reflection**
+Notice the asymmetry: the man carries no blame, yet still carries the duty. A clean exit is not enough — Allah asks that what is legally permitted be sealed with what is morally beautiful. End even your partings with generosity, not grievance, and let them carry the fragrance of ihsan.
 ## Personal Reflections
 
 
