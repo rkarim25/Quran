@@ -196,9 +196,17 @@ Those who believe, emigrate, and strive in Allah's cause — they can hope for A
 
 ## AI Tafsir
 
-**Context:** The people continued talking about this matter, then Allah revealed to His Messenger ﷺ: Ibn Ishaq went on: When 'Abdullah bin Jahsh and his companions were relieved from their depressing thoughts after the Qur'an was rev…
+**Essence**
+Those who hold three things together — true faith, the costly hijrah for their religion, and jihad in the path of Allah — are the very ones who may set their hope on the mercy of Allah, for He is Oft-Forgiving (Ghafur), Most Merciful (Rahim).
 
-**What this ayah teaches:** They will abide therein forever (217)Verily, those who have believed, and those who have emigrated (for Allah's religion) and have striven hard in the way of Allah, all these hope for Allah's mercy.
+**What it teaches**
+After warning that apostasy makes deeds collapse "in this life and in the Hereafter" for the one who turns back and dies as a disbeliever, Allah lifts the gaze of the sincere to reward: iman (faith), hijrah (emigrating for Allah's religion), and jihad (striving in His way) are the qualities that ground real hope in His mercy. Note the precise word yarjun — "they hope": their striving does not earn Paradise as a debt owed, yet it makes them the people most fit to hope, while the closing names Ghafur wa Rahim assure that He forgives the slips of those who strive.
+
+**The scholars**
+Ibn Kathir reports the occasion of revelation from Ibn Ishaq: after the Nakhlah expedition under 'Abdullah bin Jahsh, when 'Amr bin al-Hadrami was killed and the Companions feared they had sinned by fighting near the Sacred Month, the Qur'an relieved their distress; they then asked the Prophet (peace and blessings be upon him) that the incident be counted as a battle so they might gain "the rewards of the Mujahidin," and this ayah was revealed — so, as Ibn Kathir says, "Allah has greatly elevated their hopes of gaining what they had wished for." Maarif ul Quran, treating the surrounding verses, gathers the rulings: 'Ata ibn Abi Rabah swore that the ban on fighting in the four sacred months stays forever, while al-Jassas reports the majority of jurists holding it abrogated by the verses of fighting; al-Tafsir al-Mazhari reconciles this — since the sanctity of the sacred months stands in the very Verse of the Sword (9:36), initiating war in them remains forbidden, but Muslims may fight back if disbelievers begin the attack. Al-Jassas reports the narration of Jabir ibn 'Abdullah that the Prophet (peace and blessings be upon him) never fought in a sacred month until the disbelievers began the fighting.
+
+**Reflection**
+When you have given your faith its true cost, do your part with sincerity and then rest your heart on Allah's mercy, not on your own record — He is Ghafur, Rahim.
 ## Personal Reflections
 
 

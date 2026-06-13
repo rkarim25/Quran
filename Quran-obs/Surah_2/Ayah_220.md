@@ -299,11 +299,20 @@ on this world and the Akhirah. They ask about orphans. Say, "Improving their con
 
 ## AI Tafsir
 
-**Context:** Ibn 'Umar, Ash-Sha'bi, Mujahid, Qatadah, Ar-Rabi' bin Anas and 'Abdur-Rahman bin Aslam stated that the first Ayah revealed about Khamr was:
+**Essence**
+Caring rightly for orphans does not require walling off their affairs from yours; you may mix households as brothers in faith, for Allah knows the intention behind every act of guardianship.
 
-**What this ayah teaches:** But, He made it easy for you, and allowed you to mix your affairs with the orphans' affairs in a way that is better.
+**What it teaches**
+Earlier warnings against devouring orphans' wealth had made guardians so fearful that they kept the orphans' food and drink wholly apart, even letting leftovers spoil rather than touch them. This ayah brings relief: islah (setting their affairs right, sincerely improving their condition) is best, and if you mix your affairs with theirs (tukhalituhum) there is no harm, for they are your ikhwan, your brothers in faith. The reassurance rests on Allah's name al-'Aziz al-Hakim, the Almighty and the All-Wise, who could have burdened you but chose ease.
 
-**Classical tafsir:** Ibn Kathir notes: Say: "That which is (spare) beyond your needs.") Al-Hakam said that Miqsam said that Ibn 'Abbas said that this Ayah means, whatever you can spare above the needs of your family.
+**The scholars**
+Ibn Kathir, citing Ibn 'Abbas (reported by Ibn Jarir, and also collected by Abu Dawud, An-Nasa'i and Al-Hakim), gives the cause of revelation: after "come not near to the orphan's property, except to improve it" (6:152) and the warning that those who unjustly consume orphans' wealth "eat up only fire into their bellies" (4:10), guardians segregated the orphans' provisions until food spoiled; finding this a hardship, they brought it to the Prophet (peace be upon him), and this ayah permitted joining the two households. Ibn Kathir reads the verse as moving from a fixed duty to a granted ease: honest improvement of the orphan's property ("islahun lahum khayr") is required in every case, yet mixing food and drink ("wa in tukhalituhum fa-ikhwanukum") carries no blame, since guardian and orphan are brothers in religion. The verse then anchors this trust in Allah's knowledge — "wallahu ya'lamu al-mufsida min al-muslih," He distinguishes the one bent on swallowing their wealth from the one bent on preserving it — and seals it with "wa law sha'a Allahu la-a'natakum": He could have made the matter hard but chose to lighten it. From this Ibn Kathir derives that an executor may spend from the orphan's estate in reasonable proportions, intending to repay when able. Maarif ul Quran adds that a joint expense system in fact serves the orphans' welfare better, and that the permission is hedged by Allah's watching over guardians: being All-Wise, He does not obligate people with what they cannot bear.
+
+**From a Companion's practice**
+'A'ishah, the Mother of the Believers, voiced the very scruple this ayah addresses: she disliked to manage an orphan's money unless she mixed her food and drink with his — the believing heart's care to handle a trust honestly, yet without anxious separation. (Reported by Ibn Jarir)
+
+**Reflection**
+Serve the vulnerable in your trust with sincere reform, not anxious distance, and remember Allah weighs the intention behind every hand laid on what is not yours.
 ## Personal Reflections
 
 

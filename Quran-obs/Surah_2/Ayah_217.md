@@ -369,11 +369,17 @@ They ask you about fighting in the sacred months. Say, "Fighting in them is a gr
 
 ## AI Tafsir
 
-**Context:** The people continued talking about this matter, then Allah revealed to His Messenger ﷺ: Ibn Ishaq went on: When 'Abdullah bin Jahsh and his companions were relieved from their depressing thoughts after the Qur'an was rev…
+**Essence**
+Killing in a sacred month is a grave sin, but the sins of those who block Allah's path, disbelieve in Him, bar His Sacred Mosque and expel its people are graver still — and fitnah, forcing believers back into disbelief, is worse than killing.
 
-**What this ayah teaches:** Say, "Fighting therein is a great (transgression) but a greater (transgression) with Allah is to prevent mankind from following the way of Allah, to disbelieve in Him, to prevent access to Al-Masjid Al-Haram (at Makkah), and to drive out its inhabitants, and Al-Fitnah is worse than killing." And they will never cease fighting you until they turn you back from your religion (Isl…
+**What it teaches**
+Revealed after the Nakhlah expedition, when Quraysh accused the Muslims of shedding blood in a sacred month, the ayah concedes that qital (fighting) in these months is kabir — a great transgression — yet weighs it against far greater wrongs: sadd 'an sabil Allah (hindering people from Allah's path), kufr (disbelief in Him), barring access to al-Masjid al-Haram and expelling its people, and above all fitnah — the relentless effort to turn believers from their din — which is akbar, "greater," and "worse than killing." It closes with a stern warning: whoever apostatizes and dies a disbeliever has his deeds rendered void (habitat a'maluhum) in this world and the next.
 
-**Classical tafsir:** Ibn Kathir notes: Of the verse relating to fighting, this verse was the last one to be revealed and the Address of the Last Hajj which was delivered only 80 days before the Holy Prophet ﷺ passed away clearly indicates the sanctity…
+**The scholars**
+Ibn Kathir explains the weighing: even had the Muslims killed during the Sacred Month, Quraysh "have hindered you from the path of Allah and disbelieved in it... prevented you from entering the Sacred Mosque, and expelled you from it, while you are its people" — and this is "a greater transgression with Allah than killing whom you killed among them." He glosses "Al-Fitnah is worse than killing" as "trying to force the Muslims to revert from their religion and re-embrace Kufr after they had believed," adding that the disbelievers "will go on fighting you with unrelenting viciousness." On the sacred months, Maarif ul Quran records that 'Ata ibn Abi Rabah "declared on oath that this injunction is there to stay forever," while al-Jassas reports the majority of jurists held the prohibition abrogated. Maarif itself adopts al-Tafsir al-Mazhari's reconciliation as its own conclusion — that the verses cited cannot abrogate the sanctity, so "the gist of the discussion is that initiating a fight during these months is forbidden forever, but in the event that disbelievers mount an attack on Muslims, then Muslims are permitted to fight back in their defence." On the closing warning, Maarif details that an apostate's deeds going waste spans both worlds — lost worship and eternal Hell — concluding "the fate of an apostate is worse than that of an original disbeliever."
+
+**Reflection**
+Hold fast to your din when the world pressures you to let it go — for the believer who endures fitnah and keeps faith has guarded what matters most, whatever ground is lost along the way.
 ## Personal Reflections
 
 
