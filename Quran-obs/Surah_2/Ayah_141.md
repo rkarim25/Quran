@@ -159,11 +159,13 @@ That was a community that has passed. For them is what they earned; for you is w
 
 ## AI Tafsir
 
-**What this ayah teaches:** Thus, at the end of this section, Verse 141, which is a repetition of Verse 134, warns them against the consequences of their vanity and pretentiousness, and advises them to take care of themselves rather than relying on ancestral glory.
+**Essence** A people of the past will be judged by what they earned, and you by what you earn — lineage saves no one.
 
-**Classical tafsir:** Ibn Kathir notes: Thus, at the end of this section, Verse 141, which is a repetition of Verse 134, warns them against the consequences of their vanity and pretentiousness, and advises them to take care of themselves rather than relying on ancestral glory.
+**What it teaches** "Tilka ummatun qad khalat" — "that was a community that has already passed away": each soul bears its own kasb (what it earned by deed and belief), and no one is questioned about the deeds of ancestors. The verse, a repetition of 2:134, closes the refutation of the Jews and Christians by stripping away reliance on the honor of the Prophets in their lineage.
 
-**From the Sunnah:** Paradise which would be denied to Muslims.
+**The scholars** Ibn Kathir explains "lahaa maa kasabat wa lakum maa kasabtum" as "they bear their deeds while you bear yours," and "wa laa tus'aluuna 'ammaa kaanuu ya'maluun" to mean that mere kinship with the Prophets will not suffice unless one imitates their good deeds and obeys Allah's orders by following His Messengers; he adds that whoever disbelieves in even one Prophet has disbelieved in all of them, above all in the Final Messenger Muhammad (peace and blessings be upon him). Maarif ul Quran frames these verses as ending the section that refuted the People of the Book: Allah, being Lord of all, shows no special favor to any group and will judge each — Jew, Christian, and Muslim — by what they believed and how they behaved, not by the deeds of their ancestors; Verse 141 thus warns against vanity and pretentiousness and tells them to take care of themselves rather than lean on ancestral glory. As background from the same section, Maarif draws out the linked verse 139: the mark of this Ummah is ikhlas — Sa'id ibn Jubayr defines it as worshipping none but Allah, associating nothing with Him, and doing good deeds solely to obey Allah and not to win people's admiration; certain spiritual masters add that ikhlas is a deed identifiable by neither men, angels, nor Satan — a secret between Allah and His servant.
+
+**Reflection** Build your own record of obedience and ikhlas today; the righteousness of those before you is theirs, not a substitute for yours.
 ## Personal Reflections
 
 
