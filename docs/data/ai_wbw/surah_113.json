@@ -1,0 +1,348 @@
+{
+ "1": {
+  "1": {
+   "meaning": "A direct command: \"Say!\" / \"Utter aloud!\" Allah is instructing the Prophet (and, through him, every believer) to speak the words that follow with the tongue, not merely to hold them in the heart. It frames the whole surah as words placed in the Prophet's mouth by Allah Himself.",
+   "parts": [
+    {
+     "ar": "قُلْ",
+     "tr": "qul",
+     "en": "say! (command to one male)"
+    }
+   ],
+   "grammar": "A command verb (imperative) addressed to a single male. The root is q-w-l ('to say'), whose middle weak letter (و) drops in the command, leaving the short form qul. There is no extra suffix: the bare form with its final silent l is itself the order 'you (one person), say'.",
+   "root": "ق-و-ل (q-w-l) — to say, to speak"
+  },
+  "2": {
+   "meaning": "\"I seek refuge / I take shelter.\" It expresses the act of fleeing for protection to someone stronger, the way one runs to a fortress from danger. Here the speaker declares that he is taking cover in Allah from every harm named in the surah.",
+   "parts": [
+    {
+     "ar": "أَ",
+     "tr": "a-",
+     "en": "I (the doer)"
+    },
+    {
+     "ar": "عُوذُ",
+     "tr": "ʿūdhu",
+     "en": "seek refuge / take shelter"
+    }
+   ],
+   "grammar": "A present-tense verb from the root ʿ-w-dh ('to seek protection'). The a- prefix marks the doer as 'I', so it means 'I seek refuge' (right now / habitually). The final -u ending is the normal present-tense indicative vowel, showing a plain statement of fact ('I do seek refuge'), not a wish or command.",
+   "root": "ع-و-ذ (ʿ-w-dh) — to seek refuge, to take shelter"
+  },
+  "3": {
+   "meaning": "\"In / with the Lord of…\" — the One sought for shelter is the Rabb: the Master, Owner, Sustainer and Nurturer who creates a thing, owns it, and cares for it to maturity. The little word 'bi' attached to the front conveys taking hold of Him, clinging to Him, as the means of protection.",
+   "parts": [
+    {
+     "ar": "بِ",
+     "tr": "bi",
+     "en": "in / with (taking hold of)"
+    },
+    {
+     "ar": "رَبِّ",
+     "tr": "rabbi",
+     "en": "Lord, Master and Sustainer"
+    }
+   ],
+   "grammar": "Two pieces joined: the attached preposition bi- ('in / with / by means of') plus the noun rabb ('Lord'). Two things act on rabb at once. First, sitting after the preposition bi- forces it into the genitive case, shown by the final -i (rabbi). Second, rabb is the first term of a possessive pairing (a construct chain): it is immediately followed by 'the daybreak', and it is this pairing — not the -i vowel by itself — that produces the meaning 'Lord OF…'.",
+   "root": "ر-ب-ب (r-b-b) — to nurture, master, sustain"
+  },
+  "4": {
+   "meaning": "\"The daybreak / the splitting-open of dawn.\" Al-falaq is the moment the darkness is cleaved and the first light breaks through; by extension it points to everything Allah brings into being by 'splitting' it open. Naming Him 'Lord of the daybreak' fits a surah about seeking light and safety after the fears of night.",
+   "parts": [
+    {
+     "ar": "الْ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "فَلَقِ",
+     "tr": "falaqi",
+     "en": "daybreak, the cleaving-open of dawn"
+    }
+   ],
+   "grammar": "The definite article al- ('the') joined to the noun falaq ('daybreak'). It is the second term of the possessive pairing 'Lord OF the daybreak', so it takes the genitive case, shown by the final -i ending (falaqi). The word is a noun built on the root meaning 'to split', picturing dawn as light splitting the dark.",
+   "root": "ف-ل-ق (f-l-q) — to split, cleave, break open"
+  }
+ },
+ "2": {
+  "1": {
+   "meaning": "A preposition meaning \"from\" or \"out of.\" Here it marks the source or origin of the harm one is taking refuge from — naming WHERE the evil comes from. It connects back to \"I seek refuge\" in the previous verse: seeking shelter *from* the evil of created things.",
+   "parts": [
+    {
+     "ar": "مِنۡ",
+     "tr": "min",
+     "en": "from / out of"
+    }
+   ],
+   "grammar": "This is an indeclinable preposition (it never changes form). It governs the following noun and puts it in the genitive case — which is why the next word, sharr, ends in -i (sharri). It expresses \"starting-point\" or source: the evil one is fleeing away from.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "\"Evil,\" \"harm,\" or \"mischief.\" Scholars note the word sharr covers two things at once: (1) the pain, injury, loss and affliction that hurt a person directly, and (2) the things that CAUSE such harm. So it means not just abstract \"badness\" but any source of damage or wickedness in creation.",
+   "parts": [
+    {
+     "ar": "شَرّ",
+     "tr": "sharr",
+     "en": "evil / harm"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "(genitive ending: \"of\")"
+    }
+   ],
+   "grammar": "A noun in the genitive case. It is genitive for one reason only: it follows the preposition min (\"from\"), which always puts the word after it in the genitive. Sharr is also the first term (the possessed word, mudaf) of a possessive phrase — \"the evil OF what He created\" — but being the first term is NOT what makes it genitive; the first term takes whatever case its role in the sentence calls for, and here that role (object of min) is genitive. The possessive link instead means the word after it carries the sense \"of…,\" so the -i ending here reflects min, while the phrase reads \"the evil of what He created.\"",
+   "root": "ش-ر-ر (sh-r-r) — to be evil / wicked / harmful"
+  },
+  "3": {
+   "meaning": "A relative pronoun, \"what\" or \"that which.\" It points to an unspecified thing rather than a named one — here, the whole open-ended category of created things. Paired with the verb that follows, it means \"that which He created.\"",
+   "parts": [
+    {
+     "ar": "مَا",
+     "tr": "mā",
+     "en": "what / that which"
+    }
+   ],
+   "grammar": "An indeclinable relative pronoun (its form never changes). Grammatically it is the second term of the possessive phrase begun by sharr — the possessor — so it carries the sense \"of\": \"the evil of [mā] = the evil of that which…\" It then needs a verb to define it, supplied by the next word.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "\"He created\" — the act of bringing something into existence from nothing. The unstated subject is Allah. Together with mā before it, the phrase means \"that which He created,\" i.e. the entire creation, so the verse seeks refuge from the evil found anywhere in everything Allah has made.",
+   "parts": [
+    {
+     "ar": "خَلَقَ",
+     "tr": "khalaqa",
+     "en": "He created"
+    }
+   ],
+   "grammar": "A past-tense verb, third-person masculine singular: the built-in subject is \"he\" (here, Allah). The final -a is the standard past-tense ending for \"he did\" — no extra subject word is needed. The phrase functions as the relative clause defining mā: \"what He created.\"",
+   "root": "خ-ل-ق (kh-l-q) — to create / originate / bring into being"
+  }
+ },
+ "3": {
+  "1": {
+   "meaning": "\"And from\" — joins this phrase to the previous verse and names the source of the evil being fled. It links a second danger to the one before it and marks the starting point: the harm one seeks shelter away from.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "مِنْ",
+     "tr": "min",
+     "en": "from / out of"
+    }
+   ],
+   "grammar": "Two pieces joined together. The wa- is a connector meaning 'and', tying this verse to the request for refuge in the verse before. min is a preposition meaning 'from', marking the source or origin of the evil. A preposition like min puts the noun after it into the genitive case, which is why the next word ends in -i.",
+   "root": "— (particles; no triliteral root)"
+  },
+  "2": {
+   "meaning": "The harm, evil, or wickedness of something — the badness or injury that can come from it. Here it is the evil 'of' whatever follows, i.e. the damage that the darkening night can bring.",
+   "parts": [
+    {
+     "ar": "شَرِّ",
+     "tr": "sharri",
+     "en": "evil / harm of"
+    }
+   ],
+   "grammar": "A noun meaning 'evil'. Its final -i ending is genitive for two reasons at once: it follows the preposition min ('from the evil…'), and it is the first term (the possessed word) of a possessive pairing ('the evil OF darkness') — so it leans on the next word to complete the sense.",
+   "root": "ش-ر-ر (sh-r-r) — evil, badness, harm"
+  },
+  "3": {
+   "meaning": "The night as it grows dark — the deepening blackness of nightfall. The word pictures darkness 'pouring in' or settling over everything; commentators explain it as the night when its gloom has fully spread, the time when hidden dangers come out.",
+   "parts": [
+    {
+     "ar": "غَاسِقٍ",
+     "tr": "ghāsiqin",
+     "en": "(a) darkening one / gathering darkness"
+    }
+   ],
+   "grammar": "An active participle — literally 'one that grows dark' — used here as a noun for the darkening night. It is the second term of the possessive pairing 'the evil OF darkness' (the possessor word), and that role is exactly what puts it in the genitive case — shown by the -i in its ending. The final -n (tanwīn) marks it as indefinite, i.e. 'a darkness' rather than 'the darkness'.",
+   "root": "غ-س-ق (gh-s-q) — to grow dark, darkness pouring in"
+  },
+  "4": {
+   "meaning": "\"When\" — a word pointing to a moment in time: 'at the time that…'. It sets up the exact circumstance in which the darkness becomes a danger, namely the instant it spreads.",
+   "parts": [
+    {
+     "ar": "اِذَا",
+     "tr": "idhā",
+     "en": "when / at the time that"
+    }
+   ],
+   "grammar": "A time word meaning 'when', normally pointing to something expected to happen. It introduces the following verb and pins the danger to a specific moment — the night is feared precisely 'when' it does what comes next. It has no case ending of its own.",
+   "root": "— (particle of time; no triliteral root)"
+  },
+  "5": {
+   "meaning": "It settles in and spreads — the darkness presses down and overspreads everything, sinking in and taking hold. The image is of gloom advancing until it fills the whole night.",
+   "parts": [
+    {
+     "ar": "وَقَبَ",
+     "tr": "waqaba",
+     "en": "it settled in / overspread"
+    }
+   ],
+   "grammar": "A past-tense verb, 'he/it spread/settled in', with a built-in 'he/it' subject referring back to the darkening night. The final -a is the normal past-tense ending for this form. Though past in form, after idhā ('when') it reads as a recurring action: 'whenever it spreads'.",
+   "root": "و-ق-ب (w-q-b) — to set in, sink in, overspread"
+  }
+ },
+ "4": {
+  "1": {
+   "meaning": "\"And from\" — this links back to the refuge sought in the previous verses and names a further source of harm to be guarded against. It introduces the next category of evil from which Allah's protection is being sought.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "مِنْ",
+     "tr": "min",
+     "en": "from / part of"
+    }
+   ],
+   "grammar": "Two joined particles. The wa- prefix is a connector meaning 'and', tying this phrase to the earlier 'I seek refuge ... from ...'. 'min' is a preposition meaning 'from', and it forces the noun after it (sharri) into the genitive case, which is why that next word ends in -i. Particles like these do not change form for tense or person.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "\"Evil\" — harm, malice, or wickedness; the badness or injury that can come from a thing. Here it means the harmful effect or mischief produced by the blowers mentioned next.",
+   "parts": [
+    {
+     "ar": "شَرّ",
+     "tr": "sharr",
+     "en": "evil / harm"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "(of) — possessive/genitive ending"
+    }
+   ],
+   "grammar": "A noun. The final -i ending is genitive for two reasons at once: it comes right after the preposition 'min' ('from the evil...'), and it begins a possessive chain (iḍāfa) with the following word, giving the sense 'the evil OF the blowers'. The doubled 'r' (shadda) is part of the stem, not a grammatical ending.",
+   "root": "ش-ر-ر (sh-r-r) — evil, badness, harm"
+  },
+  "3": {
+   "meaning": "\"The blowers\" — specifically women (or souls) who blow repeatedly upon knots while working sorcery; practitioners of witchcraft who breathe and spit on tied cords as part of casting a spell. The form stresses that this is done habitually and intensely.",
+   "parts": [
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "نَفّٰثٰت",
+     "tr": "naffāthāt",
+     "en": "women who blow much/repeatedly"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "(of) — genitive ending"
+    }
+   ],
+   "grammar": "A definite noun: 'al-' means 'the'. The stem belongs to the intensive faʿʿāl family (doubled middle letter), which signals doing something a lot or habitually. Its feminine singular base is naffātha (pattern faʿʿāla, ending in -a) = 'a woman who blows much'; to make the feminine plural, that singular -a is replaced by the sound feminine plural suffix -āt, giving naffāthāt = 'women who blow over and over'. The final -i is genitive, completing the possessive chain (iḍāfa) from the previous word: 'the evil OF the blowers'.",
+   "root": "ن-ف-ث (n-f-th) — to blow, to spit/breathe out softly"
+  },
+  "4": {
+   "meaning": "\"In / into / upon\" — indicates where the blowing is directed: onto the knots. It points to the target of the sorcerers' breath.",
+   "parts": [
+    {
+     "ar": "فِى",
+     "tr": "fī",
+     "en": "in / into / upon"
+    }
+   ],
+   "grammar": "A preposition meaning 'in' or 'into'. It governs the next word, putting 'the knots' into the genitive case (the -i ending you see there). A preposition has no tense or person; it simply links the action of blowing to its object.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "\"The knots\" — the knots that magicians tie in cord or thread, over which they whisper and blow to work their spell. It refers to these binding-knots as the focus of the sorcery.",
+   "parts": [
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "عُقَد",
+     "tr": "ʿuqad",
+     "en": "knots"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "genitive ending (object of 'in')"
+    }
+   ],
+   "grammar": "A definite plural noun: 'al-' means 'the', and 'ʿuqad' is the plural of ʿuqda ('a knot'), so it means 'the knots'. The final -i ending is genitive because the word is the object of the preposition 'fī' ('in/upon the knots'). The plural shape ʿuqad (a broken/internal plural) is built by changing the vowels inside the root, not by adding an ending.",
+   "root": "ع-ق-د (ʿ-q-d) — to tie, bind, knot"
+  }
+ },
+ "5": {
+  "1": {
+   "meaning": "\"And from\" — this links back to the previous verses (\"I seek refuge... from the evil of...\") and adds one more source of harm to the list. The \"from\" marks the thing one is seeking protection AGAINST.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "مِنۡ",
+     "tr": "min",
+     "en": "from / out of"
+    }
+   ],
+   "grammar": "Written as one word in the text (wamin) but built from two pieces. \"wa-\" is the connector \"and,\" tying this verse to the earlier ones. \"min\" is a preposition meaning \"from\"; here it marks the source of evil one takes refuge against. A preposition like \"min\" forces the noun after it (sharr) into the genitive case, which is why the next word ends in \"-i.\"",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "\"The evil of\" — harm, wickedness, or malice. It denotes whatever is bad, damaging, or morally corrupt that issues from the thing named next.",
+   "parts": [
+    {
+     "ar": "شَرِّ",
+     "tr": "sharri",
+     "en": "evil of"
+    }
+   ],
+   "grammar": "A noun in the genitive case, shown by its final \"-i.\" The \"-i\" ending appears for two reasons at once: it follows the preposition \"min\" (\"from\"), and it is the first half of a possessive pair (\"the evil OF an envier\"), linking it to the following word. So \"sharri ḥāsidin\" reads \"the evil of an envier.\"",
+   "root": "ش-ر-ر (sh-r-r) — evil, badness, harm"
+  },
+  "3": {
+   "meaning": "\"An envier\" — a person who feels resentful displeasure at the blessings, success, or good fortune of another and wishes it taken away. The active-participle form names the one who does the action: the one who envies.",
+   "parts": [
+    {
+     "ar": "حَاسِدٍ",
+     "tr": "ḥāsidin",
+     "en": "an envier"
+    }
+   ],
+   "grammar": "An active participle (the \"-ā-\" after the first root letter is the doer pattern, like \"-er\" in English: one who envies = an envier). Its final \"-in\" is genitive plus nunation (the \"n\" sound marks it as indefinite, \"an\" envier, not \"the\" envier). The genitive case here completes the possessive pair: \"the evil OF an envier.\"",
+   "root": "ح-س-د (ḥ-s-d) — envy, jealousy"
+  },
+  "4": {
+   "meaning": "\"When\" — a time word meaning \"at the moment that\" or \"whenever.\" It restricts the warning: the envier's harm is singled out specifically at the point when the envy is actually acted upon, not merely felt inwardly.",
+   "parts": [
+    {
+     "ar": "اِذَا",
+     "tr": "idhā",
+     "en": "when / whenever"
+    }
+   ],
+   "grammar": "A time particle meaning \"when / at the time that.\" It does not change its form (it has no case ending). It introduces the following verb and sets the condition: protection is sought from the envier precisely \"when\" the next action happens.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "\"He envies\" — to actively give in to envy; to direct one's resentful wish against another, whether by the eye, the tongue, or harmful action. The verse seeks refuge from the envier at the very moment this envy is put into effect.",
+   "parts": [
+    {
+     "ar": "حَسَدَ",
+     "tr": "ḥasada",
+     "en": "he envied / he envies"
+    }
+   ],
+   "grammar": "A past-tense verb, \"he envied,\" with the bare \"-a\" ending that marks the basic third-person masculine singular (\"he\"). After the time-word \"idhā\" (\"when\"), this past-tense form carries a general, timeless sense — \"whenever he envies\" — rather than a single completed event. The action is built straight from the three root letters with no added prefix or suffix.",
+   "root": "ح-س-د (ḥ-s-d) — envy, jealousy"
+  }
+ }
+}
