@@ -230,11 +230,22 @@ Say, “Whether you conceal what is in your hearts or reveal it, it is known to 
 
 ## AI Tafsir
 
-**What this ayah teaches:** Therefore, the earlier verse (29) has already covered it by saying: "whether you conceal what is in your hearts, or disclose it, Allah shall know it." No denial or false claim is tenable before Him.
+**Essence**
+Say: nothing in the human heart — concealed or revealed — is hidden from Allah, who knows all that fills the heavens and the earth and has power over everything.
 
-**Classical tafsir:** Ibn Kathir notes: It follows, therefore, that those who are against this purpose are the worst enemies of man.
+**What it teaches**
+The command "Qul" (Say) instructs the Prophet (peace be upon him) to declare that whether you hide (tukhfu) what is in your breasts (sudur) or disclose it (tubduhu), Allah knows it — His knowledge reaches every secret, and His being Qadir (All-Powerful) over all things means He can also call it to account. Coming after the prohibition of intimate friendship (Muwalat) with disbelievers, it warns that since such love resides in the heart, a person may deny it with the tongue, yet no denial is tenable before Allah.
 
-**From the Sunnah:** In these verses, Muslims have been instructed not to take those who reject the truth as their friends. In verses cited above and in many other verses of the Holy Qur'an, Muslims have been strongly prevented from 'Muamlat' with non-Muslims, that is, from indulging in relations based on love and friendship.
+**The scholars**
+Ibn Kathir explains that Allah knows the secret and the apparent, that nothing escapes His observation in any condition, time, or instant, and that His knowledge encompasses all in heaven and earth — not even the weight of an atom, or less, in the earth, seas, and mountains is hidden from Him; "And Allah is able to do all things" means His power encompasses everything. He notes the purpose: this ayah alerts the servants to fear Allah enough not to commit what He forbids, for He knows all they do and is able to punish promptly, though He may grant respite.
+
+Maarif ul Quran (Bayan al-Qur'an) reads ayah 29 together with ayah 30 as the seal upon the warning against befriending disbelievers: because close friendship (Muwalat) relates to the heart, and the affairs of the heart are known to none but Allah, a person might secretly harbor such love yet verbally deny it — so ayah 29, "whether you conceal what is in your hearts, or disclose it, Allah shall know it," forecloses every excuse before Him.
+
+**From the Sunnah**
+Maarif ul Quran cites the Prophet's words (peace be upon him): "Whoever loves for the sake of Allah and hates for the sake of Allah alone, has perfected his faith." Faith, the commentary explains, remains incomplete until a person subordinates his love and friendship, his hatred and enmity, to Allah — which is why deep love for disbelievers cannot coexist with true Iman. (Abu Dawud, from Abu Umamah)
+
+**Reflection**
+Guard the heart, for the One who sees the hidden within it is the same One who is full of kindness toward His servants.
 ## Personal Reflections
 
 

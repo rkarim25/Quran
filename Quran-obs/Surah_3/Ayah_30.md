@@ -246,11 +246,15 @@ The Day when every soul will be presented with whatever good it has done. And it
 
 ## AI Tafsir
 
-**What this ayah teaches:** And Allah warns you against Himself and Allah is full of kindness with the servants .
+**Essence** On the Day of Resurrection every soul will see its deeds laid bare, longing to flee its evil — so Allah, out of mercy, warns us against His own punishment before that Day arrives.
 
-**Classical tafsir:** Ibn Kathir notes: It follows, therefore, that those who are against this purpose are the worst enemies of man.
+**What it teaches** The ayah unveils the Day when every nafs (soul) finds whatever khayr (good) and su' (evil) it did presented before it: joy at the good, dread at the evil, and a desperate wish that a great distance (amad ba'id) lay between the soul and its sins. Then comes both warning and tenderness: "Allah warns you against Himself" (His punishment) yet "Allah is Ra'uf — full of deep, gentle kindness — toward His servants," so that fear never collapses into despair.
 
-**From the Sunnah:** In these verses, Muslims have been instructed not to take those who reject the truth as their friends. In verses cited above and in many other verses of the Holy Qur'an, Muslims have been strongly prevented from 'Muamlat' with non-Muslims, that is, from indulging in relations based on love and friendship.
+**The scholars** Ibn Kathir explains this follows directly from Allah's perfect knowledge of the hidden and the open (v.29): since nothing escapes Him — not the weight of an atom — His servants should fear Him enough not to commit what He forbids. On the Day of Resurrection He brings the good and evil deeds before the servant; seeing his good deeds he is happy and delighted, seeing his evil he is saddened and angered, wishing he could disown his evil and that a long distance separated it from him — as the wrongdoer will say to the devil who urged him on, "Would that between me and you were the distance of the two easts." Ibn Kathir reads "Allah warns you against Himself" as a warning against His punishment, and "Ra'uf bil-'ibad" as hope so the servant does not despair of Allah's mercy. Al-Hasan al-Basri saw how the warning is itself a mercy: "Allah is so kind with them that He warns them against Himself." Maarif ul Quran sets the verse as the seal of the passage forbidding intimate friendship (Muwalat) with those hostile to faith: Allah warns of Himself lest a person befriend them for fleeting worldly gain and invite His anger — and since such love hides in the heart, v.29 has already declared that whether one conceals or discloses it, Allah knows.
+
+**From the Sunnah** A believer's deepest bonds must follow his devotion to Allah, not fleeting worldly gain — for the Prophet ﷺ said: "Whoever loves for the sake of Allah and hates for the sake of Allah alone has perfected his faith." (Bukhari and Muslim)
+
+**Reflection** Let no passing worldly tie pull your heart from the One you worship — and trust that the very Lord who warns you of His punishment is, in that warning, drawing you near by His kindness, never driving you to despair.
 ## Personal Reflections
 
 
