@@ -195,13 +195,20 @@ Indeed, if each of those who reject the truth then die as those who reject the t
 
 ## AI Tafsir
 
-**Context:** (never will their repentance be accepted. And they are those who went astray.) to those who abandon the path of truth for the path of wickedness.
+**Essence**
+Die clinging to disbelief and the door of ransom shuts forever: on that Day no price is taken, no helper steps forward, no plea reaches Allah.
 
-**What this ayah teaches:** For them is a painful torment and they will have no helpers .
+**What it teaches**
+The verse turns on three precise words, not on the size of the ransom. First, "and died while they were disbelievers" (*wa matu wa hum kuffar*): the sentence of doom falls not on kufr as such — many disbelievers and even apostates later repent and are received — but on kufr carried unbroken to the grave. While breath remains the door stays open; what the verse seals is the state of one who let death overtake him still rejecting. Second, the construct is *iftida'* — self-ransom, the desperate buying-back of a condemned soul — and Allah pictures it at its absolute maximum, "the earth full of gold" (*mil' al-ard dhahaban*), precisely to show that no quantity is the issue: the currency itself is void once faith is gone. Two things are thus refused — his repentance offered too late, and his ransom offered on the Day of Resurrection. Third, "they will have no helpers" (*nasirin*): beyond losing the bargain, he loses every avenue of rescue — none to save, intercede, or pay on his behalf. The end is a painful torment (*'adhab alim*) with no exit.
 
-**Classical tafsir:** Ibn Kathir notes: Al-Hafiz Abu Bakr Al-Bazzar recorded that Ibn 'Abbas said that some people embraced Islam, reverted to disbelief, became Muslims again, then reverted from Islam.
+**The scholars**
+Ibn Kathir reads this against the apostasy of verses 86-90: Allah warns those who revert to disbelief and persist until death that no deathbed repentance is accepted, just as 4:18 declares repentance "of no effect" for one who does evil "until death faces" him. He stresses that two things are barred — that late repentance and the self-ransom of the Day of Resurrection — so no deed of such a person is ever accepted, even were it spent in seeming obedience, and even were he to offer the earth's mountains, valleys, land and sea turned to gold (he gathers 2:123, 14:31 and 5:36 to this point). Separately, Maarif ul Quran notes that the doubt raised by verse 86 ("How shall Allah give guidance...") concerns that verse, not this one, and does not bar a sincere returnee from guidance.
 
-**From the Sunnah:** some people embraced Islam, reverted to disbelief, became Muslims again, then reverted from Islam. The Prophet ﷺ was asked about 'Abdullah bin Jud'an, who used to be generous to guests, helpful to the indebted and who gave food (to the poor); will all that benefit him?
+**From the Sunnah**
+Ibn Kathir cites a narration on 'Abdullah bin Jud'an — though the underlying collection is not named at this point in the source: the Prophet ﷺ was asked whether Jud'an's lifelong generosity to guests, the indebted and the poor would benefit him, and he answered, "No, for not even one day during his life did he pronounce, 'O my Lord! Forgive my sins on the Day of Judgment.'" A lifetime of charity profits nothing without faith and a turning to Allah. He then records from Anas (Imam Ahmad / Musnad Ahmad) two destinies set side by side: a man of Paradise, shown the honour of martyrdom, asks only "that You send me back to the world so that I am killed ten times in Your cause"; while a man of the Fire, asked "Would you ransom yourself from Me with the earth's fill of gold?", says "Yes, O Lord," and hears, "You have lied. I asked you to do what is less and easier than that, but you did not do it" — and is returned to the Fire. The ransom worth nothing there was cheap to earn here.
+
+**Reflection**
+Faith is the one wealth that cannot be bought back later. The man of the Fire would have given a planet of gold; he was asked only for a word of belief and forgiveness while he lived. Spend today, while the door is open, on tawba and on calling upon your Lord.
 ## Personal Reflections
 
 

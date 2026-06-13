@@ -152,13 +152,20 @@ Indeed, those who reject the truth after having believed then increase in reject
 
 ## AI Tafsir
 
-**Context:** (never will their repentance be accepted. And they are those who went astray.) to those who abandon the path of truth for the path of wickedness.
+**Essence**
+For the one who renounces faith and hardens in disbelief until death, the door of repentance slams shut — they are the truly lost.
 
-**What this ayah teaches:** Verily, those who disbelieved after their belief and then went on increasing in their disbelief never will their repentance be accepted. And they are those who are astray (90)Verily, those who disbelieved, and died while they were those who reject the truth, the (whole) earth full of gold will not be accepted from anyone of them if they offered it as a ransom.
+**What it teaches**
+Allah warns those who revert to kufr (disbelief) after iman (belief) and then "increase in disbelief" — persisting and entrenching themselves until death — that their repentance offered too late "will never be accepted," and that such people are al-dallun, those who have abandoned the path of truth for the path of wickedness. The next ayah completes the warning: the one who dies a disbeliever will find no escape from Allah's torment, and will have no helpers.
 
-**Classical tafsir:** Ibn Kathir notes: Al-Hafiz Abu Bakr Al-Bazzar recorded that Ibn 'Abbas said that some people embraced Islam, reverted to disbelief, became Muslims again, then reverted from Islam.
+**The scholars**
+Ibn Kathir explains that the unaccepted "repentance" is repentance delayed until death overtakes a person, linking it to 4:18 — "of no effect is the repentance of those who continue to do evil deeds until death faces one of them." He cites the occasion of revelation from al-Hafiz Abu Bakr al-Bazzar reporting Ibn 'Abbas, and rules its chain "satisfactory." He then ties this to 2:123, 14:31, and 5:36 to show that no compensation, bargaining, or intercession will avail the disbeliever — even the whole earth's fill of gold offered as ransom "would never be accepted." A generous man like 'Abdullah bin Jud'an gains nothing, because "not even one day during his life did he pronounce, 'O my Lord! Forgive my sins on the Day of Judgment.'" Maarif ul Quran (Bayan al-Qur'an) resolves an apparent doubt from ayah 86 ("How shall Allah give guidance...?"): the withholding of guidance is stated "in accordance with common usage" — as one denies special treatment to a hardened criminal — and does NOT mean an apostate who sincerely returns to faith can never again receive guidance.
 
-**From the Sunnah:** some people embraced Islam, reverted to disbelief, became Muslims again, then reverted from Islam.
+**From the Sunnah**
+Some people embraced Islam, reverted, returned, then reverted again; they asked the Messenger of Allah (peace be upon him) about it, and this ayah was revealed — fixing its meaning to those who entrench themselves in disbelief. (Recorded by al-Hafiz Abu Bakr al-Bazzar from Ibn 'Abbas; Ibn Kathir: chain satisfactory.) And the contrast at the end: the man of Paradise, seeing the honor of martyrdom, begs only to return to the world to be killed ten times in Allah's cause; but the man of the Fire, asked if he would ransom himself with the earth's fill of gold, says "Yes, O Lord" — and Allah answers, "You have lied. I asked you to do what is less and easier than that, but you did not do it," and he is returned to the Fire. (Imam Ahmad, from Anas)
+
+**Reflection**
+Do not gamble on a deathbed return; turn back to Allah now, today, while repentance is still cheap and still accepted.
 ## Personal Reflections
 
 
