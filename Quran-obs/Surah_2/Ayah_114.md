@@ -240,11 +240,19 @@ Who does greater wrong than those who prevent Allah's Name from being mentioned 
 
 ## AI Tafsir
 
-**What this ayah teaches:** prayers and invocations) in Allah's Masjids and strive for their ruin?) is about the Quraysh idolators who prevented the Prophet ﷺ from entering Makkah from Al-Hudaybiyyah, until he slaughtered the Hadi (animal for sacrifice) at Dhi-Tuwa.
+## 2:114 — Layered Tafsir
 
-**Classical tafsir:** Ibn Kathir notes: Injunctions and related considerations Verse 114 lays down, or helps us to infer, some very important injunctions: All the mosques in the world are equally worthy of respect.
+**Essence**
+No one is more unjust than the one who bars Allah's Name from being remembered in His mosques and labors to ruin them — such people earn disgrace in this world and a tremendous punishment in the next.
 
-**From the Sunnah:** prayers and invocations) in Allah's Masjids and strive for their ruin?) is about the Quraysh idolators who prevented the Prophet ﷺ from entering Makkah from Al-Hudaybiyyah, until he slaughtered the Hadi (animal for sacrifice) at Dhi-Tuwa. the Quraysh prevented the Prophet ﷺ from praying at the Ka'bah in Al-Masjid Al-Haram, so Allah revealed,
+**What it teaches**
+"Who does more wrong" (man azlamu) is a rebuke shaped as a question: no greater zulm exists than obstructing the worship of Allah in His masajid. Ibn Kathir, conveying Ibn Zayd, glosses "strive for their ruin" (kharab) as preventing those who would fill the mosques with Allah's remembrance and visit His House for Hajj and 'Umrah — for the life of a masjid is worship, not ornament.
+
+**The scholars**
+Ibn Kathir relates from Ibn Zayd (via Ibn Jarir) and Ibn 'Abbas (via Ibn Abi Hatim) that the ayah concerns the Quraysh, who barred the Prophet (peace be upon him) and his Companions from praying at the Ka'bah and turned them back at Hudaybiyyah. He notes the punishment came in a form matching the deed: just as they prevented the believers from entering the Sacred Mosque, they were prevented in turn; just as they expelled them from Makkah, they too were expelled — their great torment being for defiling the House with idols and shirk. Maarif ul-Quran adds that to "lay waste" a mosque is not only to demolish it, but to leave it deserted or shut from its true purpose: Salah and the dhikr of Allah.
+
+**Reflection**
+Honor the mosque by filling it with prayer — and guard the worship of others, never disturbing or obstructing it.
 ## Personal Reflections
 
 

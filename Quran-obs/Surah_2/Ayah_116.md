@@ -224,11 +224,15 @@ They say Allah has taken a child. Glory be to Him! To Him belongs whatever is in
 
 ## AI Tafsir
 
-**What this ayah teaches:** Nay, to Him belongs all that is in the heavens and on earth, and all are Qānitūn to Him (116)The Originator of the heavens and the earth.
+**Essence** — They imagined Allah needs an heir; He answers that He already owns everything. A son would share what is wholly His — yet nothing in the heavens or earth is anything but His servant.
 
-**Classical tafsir:** Ibn Kathir notes: Sa'id bin Jubayr said that Qānitūn is sincerity. Mujahid and As-Suddi said that this is the linguistic meaning, for all new matters are called Bid'ah. But, according to the Maturidi group, the phrase literally means what it says.
+**What it teaches** — *Subhanahu* ("Glory be to Him") declares Allah holier than the claim of offspring. *Bal lahu* ("Nay, to Him belongs...") overturns it: all creation is His kingdom, and *qanitun* — every creature bound to Him in submission.
 
-**From the Sunnah:** And there is a linguistic Bid'ah, such as the statement of the Leader of the faithful 'Umar bin Al-Khattab when he gathered the Muslims to pray the Tarawih prayer in congregation (which was also an earlier practice of the Prophet ﷺ) and said, "What a good Bid'…
+**The scholars** — Ibn Kathir: a son is born of two comparable beings, yet Allah has no equal and no consort — how could a creature He owns be His son? Ibn Jarir: all testify to His Oneness — even Jesus, claimed as a son, is among the witnesses. On *qanitun* the salaf vary — Ibn 'Abbas: "they pray to Him"; Sa'id bin Jubayr: sincerity; Mujahid: "He says 'Be a human' and he becomes a human." Ibn Jarir preferred Mujahid's view as gathering all meanings: submission both legislated and destined. Maarif adds: a son must share Allah's genus (impossible — none shares His Necessary Being) or differ from it (a defect impossible for Allah).
+
+**From the Sunnah** — Allah relates that the son of Adam insults Him by claiming He has a child: "All praise is due to Me — it is unbefitting that I should have a wife or a son." (Al-Bukhari) And: none is more patient at an insult than Allah — they attribute a son to Him, yet He still grants them sustenance and health. (The Two Sahihs)
+
+**Reflection** — Note the irony the second hadith presses: the very ones who invent a son for Him are fed and healed by Him moment to moment — proof they too are His dependent servants, not His kin. Let that turn the argument inward — you are *qanitun*, owned and sustained — so meet His forbearance with worship.
 ## Personal Reflections
 
 

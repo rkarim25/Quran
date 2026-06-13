@@ -337,11 +337,20 @@ The Jews say the Christians have no footing; the Christians say the same of the 
 
 ## AI Tafsir
 
-**Context:** Verse 112 also announces the reward of those who act upon these principles -- on the Day of Judgment, they shall have nothing to fear, nor shall they grieve, as angels will give them good tidings.
+**Essence**
+Two communities who both recite Scripture each dismiss the other as standing on nothing — and the ignorant echo them — yet Allah alone will settle the dispute on the Day of Resurrection, judging with truth and wronging no one by an atom's weight.
 
-**What this ayah teaches:** The differences between the Jews and the Christians In so far as these verses deal with the claims of the Jews and the Christians, the point of the argument is this:- Having laid down the two principles the acceptance of which makes one worthy of Paradise, the Holy Qur'an suggests that they should now try to find out who is really acting upon them.
+**What it teaches**
+"Laysat... 'ala shay'in" — "they are on nothing" — is each side's verdict on the other, though both "recite the Book" (yatlun al-kitab) that in fact affirms the other's prophet. The ayah exposes religion reduced to tribal affiliation rather than sincere submission, and entrusts the final reckoning to Allah's justice.
 
-**Classical tafsir:** Ibn Kathir notes: Therefore, the good deeds of the priests and rabbis will not be accepted, even if they are sincerely for Allah alone, because these deeds do not conform with the method of the Messenger ﷺ, who was sent for all mankind.
+**The scholars**
+Ibn Kathir explains that each party read in its own Scripture the very truth it rejected: the Torah binds the Jews, by Musa's tongue, to believe in 'Isa, and the Gospel affirms Musa's prophethood — yet each disbelieved in the other. On "those who know not" he reports differing views (Qatadah: the Christians; 'Ata': nations before them; As-Suddi: the Arabs who said Muhammad ﷺ followed nothing), and notes that Ibn Jarir favored the general meaning as having no decisive evidence for any one reading. Maarif adds that they had forgotten the essence of din and mistook it for mere communal belonging — which gave the mushrikin, in their ignorance, an excuse to say the same of both. Allah will gather all and judge with truth, never wronging anyone by an atom's weight.
+
+**From the Sunnah**
+When the Najran Christians and the Jewish rabbis argued before the Prophet ﷺ, each told the other "You follow nothing" — the Jews rejecting 'Isa and the Injil, the Christian rejecting Musa and the Torah — and this ayah was revealed. (reported by Muhammad bin Ishaq from Ibn 'Abbas, in Ibn Kathir)
+
+**Reflection**
+Maarif turns the warning on the believer too: belonging to the Muslim community is not itself the sincere, Shari'ah-bound submission Allah calls for. Let deeds be the means, sought through His mercy — never a tribal badge mistaken for the real thing.
 ## Personal Reflections
 
 

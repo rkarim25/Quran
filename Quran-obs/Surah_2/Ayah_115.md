@@ -178,13 +178,15 @@ To Allah belong the east and the west. Wherever you turn, there is the face of A
 
 ## AI Tafsir
 
-**Context:** However, it was said that Allah sent down this Ayah before the order to face the Ka'bah. Ibn Jarir said, "Others said that this Ayah was revealed to the Messenger of Allah ﷺ permitting the one praying voluntary prayers t…
+**Essence** Allah is bound to no direction. The east and the west are His; wherever you turn, His Face is there — exalted above His Throne, yet His knowledge and acceptance reaching every horizon.
 
-**What this ayah teaches:** Wheresoever a man turns, he shall find Allah "facing" him -- that is to say, ready to accept his prayers and to shower His bounties on him.
+**What it teaches** "Wherever you turn, there is the Face of Allah." Maarif: wheresoever a man turns he finds Allah "facing" him — ready to accept his prayer and pour out His bounty. Were He confined to one direction, a fixed orientation would bind Him; but He is Wāsi' (All-Encompassing) and 'Alīm (All-Knowing) — encompassing creation with provision, missing nothing of their deeds.
 
-**Classical tafsir:** Ibn Kathir notes: Verse 115 says that whichever way one turns, one would find "the face of Allah", and that Allah being "All-Embracing" surrounds everything.
+**The scholars** Its occasion is reported differently. Ali bin Abi Talhah from Ibn 'Abbas ties it to the Qiblah: the Prophet ﷺ faced Bayt al-Maqdis some sixteen-seventeen months, then was turned to the Ka'bah, and when the Jews objected this ayah answered them. Ibn Jarir reports another: it permitted voluntary prayer in any direction while traveling. Ikrimah from Ibn 'Abbas: "Allah's direction is wherever you face"; Mujahid: "wherever you are, you have a Qiblah — Al-Ka'bah." On "the Face of Allah," Maarif counsels restraint: do not probe the reality of the Attributes; hold a general faith in the Divine Order.
 
-**From the Sunnah:** This ruling brought comfort to the Messenger of Allah ﷺ and his Companions, who were driven out of Makkah and had to depart from the area of Al-Masjid Al-Haram.
+**From the Sunnah** "What is between the east and the west is a Qiblah" — mercy for one who cannot pinpoint the direction (At-Tirmidhi and Ibn Majah, from Abu Hurayrah). Ibn 'Umar prayed voluntary prayer facing wherever his mount turned, as the Prophet ﷺ did (Muslim, origin in the Two Sahihs).
+
+**Reflection** Turn to Allah from wherever you stand — no place is too far. He is high above His Throne, yet ever near in mercy, ready to receive your prayer.
 ## Personal Reflections
 
 
