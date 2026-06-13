@@ -184,13 +184,17 @@ Whoever seeks a way other than Islam, it will never be accepted from them, and i
 
 ## AI Tafsir
 
-**Context:** Correspondingly, there are occasions when 'Islam' is used in that general sense, while there are other occasions when it is used exclusively to identify the Last Shari'ah which was revealed to the Last of the Prophets (ع…
+**Essence** After the final Prophet ﷺ, Islam — wholehearted submission to Allah alone on the terms He has legislated — is the one religion Allah accepts, and to turn from it is to lose everything in the Hereafter.
 
-**What this ayah teaches:** Instead, Islam is the name of that particular religion which has reached us through the Holy Prophet, Muhammad al-Mustafa ﷺ .
+**What it teaches** "Islam" literally means submission and obedience; as a term it is surrender to the religion Allah sent through His prophets, whose fundamentals are one. The ayah declares that whoever seeks any religion other than Islam — ghayra l-islam — will have it refused (falan yuqbala), and on the Day of Return will stand among al-khasirin, the utter losers. Ibn Kathir glosses "other than Islam" as "other than what Allah has legislated."
 
-**Classical tafsir:** Ibn Kathir notes: Therefore, the faithful believer submits to Allah in heart and body, while the those who reject the truth unwillingly submits to Him in body only, since he is under Allah's power, irresistible control and mighty kingship that cannot be repelled or resisted.
+**The scholars** Ibn Kathir frames this as Allah rebuking those who prefer a religion other than the one He sent His Books and Messengers with, "which is the worship of Allah Alone without partners." He draws the contrast in 3:83: all creation submits to Allah "willingly or unwillingly" — the faithful believer submits in heart and body, while the disbeliever submits in body only, helpless under Allah's "irresistible control and mighty kingship that cannot be repelled or resisted" (with Mujahid and Ibn 'Abbas cited on that verse). Maarif ul Quran adds the historical key: every Divine religion was called "Islam" in its time, but each former code was bound to a specific people and period and ceased when the next prophet came; the religion brought through Muhammad al-Mustafa ﷺ is unabrogable and permanent to the Day of Judgment, so all previous religions stand abrogated after him — upon belief in it alone "depends the salvation (najat) of all human beings."
 
-**From the Sunnah:** Therefore, faithful Muslims believe in every Prophet whom Allah has sent and in every Book He revealed, and never disbelieve in any of them.
+**From the Sunnah** Any act of worship or deed that does not conform to the Prophet's ﷺ guidance is rejected — Allah accepts only the way He has legislated. (authentic Hadith, as cited by Ibn Kathir)
+
+**From the Sunnah** The finality and universality of this religion: even Musa, were he alive, would be bound to follow the Prophet ﷺ. (authentic ahadith, as cited by Maarif ul Quran)
+
+**Reflection** Examine not only what you believe but how you worship — bring every deed under what Allah legislated through His Messenger ﷺ, for only that submission is received.
 ## Personal Reflections
 
 

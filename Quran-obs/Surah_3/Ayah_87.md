@@ -114,11 +114,15 @@ Their reward is that they will be condemned by Allah, the angels, and all of hum
 
 ## AI Tafsir
 
-**What this ayah teaches:** And Allah guides not the people who are wrongdoer (86)They are those whose recompense is that on them (rests) the curse of Allah, of the angels and of all mankind (87)They will abide therein.
+**Essence** The one who turns back to disbelief after belief, testimony, and clear proofs earns a threefold curse — from Allah, His angels, and the whole of His creation.
 
-**Classical tafsir:** Ibn Kathir notes: Verily, Allah is Oft-Forgiving, ar-Rahim.) This Ayah indicates Allah's kindness, graciousness, compassion, mercy and favor on His creatures when they repent to Him, for He forgives them in this case.
+**What it teaches** After describing those who disbelieved after belief (86), this ayah names their jazā' (recompense): the la'na — the curse, meaning being cast out from mercy — of Allah, the angels, and all people together (ajma'īn). Read with the verses around it, the curse is something they "abide in," with a torment that is neither lightened nor postponed (88).
 
-**From the Sunnah:** He later on became sorry and sent his people to, 'Ask the Messenger of Allah ﷺ for me, if I can repent.' Then, This is the wording recorded by An-Nasa'i, Al-Hakim and Ibn Hibban. (Sunan an-Nasa'i, al-Mustadrak)
+**The scholars** Ibn Kathir explains that the proofs and clear evidences had been fully established, testifying to the truth of what the Messenger ﷺ was sent with — yet these people "reverted to the darkness of polytheism" after the truth was explained to them, "willingly leapt into utter blindness," which is why they are unworthy of guidance. On the curse he says simply: "Allah curses them and His creation also curses them," and that they abide "in the curse," their torment "not lessened, not even for an hour." Yet he stresses that the passage does not close in despair: the very next verse (89) excepts those who repent and do righteous deeds, and Ibn Kathir notes this "indicates Allah's kindness, graciousness, compassion, mercy and favor on His creatures when they repent to Him, for He forgives them in this case." Maarif ul Quran (citing Bayan al-Qur'an) removes a doubt: the "withholding of guidance" in v.86 follows common usage — as a ruler might say of a criminal, "Why should we give special treatment to such a one?" — meaning no guidance is warranted in their present obstinacy, not that an apostate can never again become deserving of it; indeed many re-embrace the faith and are guided.
+
+**From the Sunnah** Ibn Jarir recorded, on the authority of Ibn 'Abbas, that a man from the Ansar embraced Islam, then reverted and joined the polytheists; stricken with remorse, he sent his people to ask the Messenger of Allah ﷺ whether his repentance could be accepted. Verses 86-89 were revealed — ending with "Verily, Allah is Oft-Forgiving, Most Merciful" — and he re-embraced Islam, showing the door of return stands open for the sincere penitent. (This wording was recorded by an-Nasa'i, al-Hakim, and Ibn Hibban; al-Hakim graded its chain Sahih.)
+
+**Reflection** Let the dread of this curse guard you against turning from the truth once you have seen it — and let the mercy in the next verse keep you from ever despairing of return.
 ## Personal Reflections
 
 
