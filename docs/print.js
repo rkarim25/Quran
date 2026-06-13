@@ -193,17 +193,14 @@
     }
 
     const title = scopeTitle(opt, index);
-    const modes = [opt.arabic && "Arabic", opt.translit && "transliteration", opt.translation && (opt.transSource === "ai" ? "AI translation" : "translation")].filter(Boolean).join(" · ");
     return `<table class="pr-frame">
       <thead><tr><td><div class="pr-run pr-run-top"><span class="pr-run-ar" dir="rtl" lang="ar">${QURAN_AR}</span></div></td></tr></thead>
-      <tfoot><tr><td><div class="pr-run pr-run-bot"><span>${esc2(title)}</span><span class="pr-run-dot">✦</span><span>${esc2(juzLabel)} · ${esc2(pageLabel)}</span></div></td></tr></tfoot>
+      <tfoot><tr><td><div class="pr-run pr-run-bot"><span>${esc2(juzLabel)}</span><span class="pr-run-dot">✦</span><span>Qurʼān — ${esc2(pageLabel)}</span></div></td></tr></tfoot>
       <tbody><tr><td class="pr-cell">
         <div class="pr-cover">
           <div class="pr-cover-orn" aria-hidden="true">۞</div>
-          <div class="pr-cover-ar" dir="rtl" lang="ar">${QURAN_AR}</div>
           <div class="pr-cover-title">${esc2(title)}</div>
           <div class="pr-cover-sub">${esc2(juzLabel)} &nbsp;·&nbsp; ${esc2(pageLabel)}</div>
-          ${modes ? `<div class="pr-cover-modes">${esc2(modes)}</div>` : ""}
         </div>
         ${body}
       </td></tr></tbody>
@@ -226,8 +223,6 @@
       transSource: $("pr-trans-source")?.value || "standard",
       layout: document.querySelector('input[name="pr-layout"]:checked')?.value || "ayah",
       font: $("pr-font")?.value || "hafs",
-      arSize: +($("pr-ar-size")?.value || 20),
-      enSize: +($("pr-en-size")?.value || 12),
     };
     if (!opt.arabic && !opt.translit && !opt.translation) opt.arabic = true;
     if (opt.layout === "wbw") opt.arabic = true; // word-by-word always shows Arabic
@@ -272,9 +267,6 @@
       let root = $("print-root");
       if (!root) { root = document.createElement("div"); root.id = "print-root"; document.body.appendChild(root); }
       root.className = `layout-${opt.layout} pr-font-${opt.font}`;
-      root.style.setProperty("--pr-ar", opt.arSize + "pt");
-      root.style.setProperty("--pr-tr", opt.enSize + "pt");
-      root.style.setProperty("--pr-tl", (opt.enSize - 1) + "pt");
       root.innerHTML = html;
       const fam = opt.font === "indopak" ? '"PDMSSaleem"' : '"UthmanicHafs"';
       try { await document.fonts.load('32px ' + fam); await document.fonts.ready; } catch (_) {}
