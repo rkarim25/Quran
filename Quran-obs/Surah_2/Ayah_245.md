@@ -225,13 +225,15 @@ Who will lend Allah a good loan that He will multiply many times over? Allah dec
 
 ## AI Tafsir
 
-**Context:** The third group is that of sincere Muslims who lost no time and acted as directed by the verse giving the best of their possessions in the way of Allah, such as is the case of Companion Abu al-Dahdah ؓ and others.
+**Essence** Allah invites the believer to "lend" Him — figuratively — a goodly loan by spending in His cause, and pledges to multiply it many times over, for He alone is the One who decreases and increases provision, and to Him all return.
 
-**What this ayah teaches:** It simply means that whatever you spend will surely be returned to you (in the form of a reward in the Hereafter) just as a loan is surely returned.
+**What it teaches** The "loan" (qard) is not a need of Allah's — He is al-Ghani, free of all need — but a figure of speech: everything already belongs to Him, so calling our spending a "loan" simply means that whatever you give in His path is recorded and will surely be returned as reward in the Hereafter, just as a loan is repaid. His pledge to "multiply it many times" (ad'afan kathiratan) guarantees an immense, unbounded return.
 
-**Classical tafsir:** Ibn Kathir notes: Dead People Ibn Abu Hatim related that Ibn 'Abbas said that these people mentioned herein, were the residents of a village called Dawardan.
+**The scholars** Ibn Kathir explains that here Allah encourages His servants to spend in His cause, and that "He may multiply it to him many times" parallels the parable of the grain that grows seven ears, each bearing a hundred grains (2:261). The closing "Allah decreases or increases" means: spend without anxiety, for it is Allah who apportions provision in His perfect wisdom — and "unto Him you shall return" on the Day of Resurrection. Maarif ul Quran clarifies that calling it a "loan" is figurative, since all wealth is already Allah's; it also records Ibn al-'Arabi's account that people split into three groups on hearing this verse — the wretched who scoffed "Muhammad's Lord is poor and we are rich" (rebuked by 3:181), the miserly whom greed deprived of the ability to give, and the sincere who hastened to spend the best they owned, like Abu al-Dahdah (may Allah be pleased with him).
 
-**From the Sunnah:** 'Umar bin Al-Khattab once went to Ash-Sham (Syria). (Musnad Ahmad, authentic hadith) For every Muslim, who gives loan to another Muslim, it will be equal to having given sadaqah (charity) twice. (Sahih Muslim, Sunan Ibn Majah)
+**From the Sunnah** Even lending to a fellow Muslim in his hour of need carries the reward of charity given twice over (Mazhari, citing Ibn Majah). When Abu al-Dahdah heard this verse, he asked whether Allah, who needs nothing, truly seeks a loan from us; the Prophet ﷺ affirmed that Allah wishes thereby to grant him entry into Paradise. Told to keep one of his two date-farms for his family, Abu al-Dahdah instead dedicated the better farm — six hundred trees — in Allah's path, and was promised Paradise (Ibn al-'Arabi, via Maarif ul Quran). Of him the Prophet ﷺ said that countless date-laden trees and spacious palaces await him in Paradise (Qurtubi).
+
+**Reflection** Give your best in Allah's path without fear of loss: the hand that seems emptied is the one Allah fills, returning manifold what was entrusted to the One who holds every provision.
 ## Personal Reflections
 
 

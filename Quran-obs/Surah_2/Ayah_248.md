@@ -202,9 +202,13 @@ Their prophet said, "The sign of his kingship is that the Ark will come to you �
 
 ## AI Tafsir
 
-**What this ayah teaches:** The sign of His kingdom is that there shall come to you At-Tabut, wherein is Sakinah (peace and reassurance) from your Lord and a remnant of that which Musa (Moses) and Harun (Aaron) left behind, carried by the angels.
+**Essence** The proof of true kingship is not human strength but a divinely sent sign — the return of the Ark, bearing peace from your Lord, for hearts that truly believe.
 
-**Classical tafsir:** Ibn Kathir notes: Verse 248: The story of Talut and Jalut The Bani Isra'il used to have the legacy of a wooden chest (also identified as the Ark of the Covenant).
+**What it teaches** When Bani Isra'il doubted Talut's Allah-given kingship, their prophet (Samuel) gave them a tangible sign: the return of the lost At-Tabut (a wooden chest, also identified as the Ark of the Covenant), carried by angels. Within it was *sakinah* — peace, reassurance, and grace from your *Rabb* — together with a *baqiyyah* (remnant, relic) left by the families of Musa and Harun; the verse closes "if you are indeed believers," tying the worth of the sign to genuine *iman*.
+
+**The scholars** Ibn Kathir explains that the sign of the blessing of Talut's kingship was that Allah would return the Tabut taken from them. On *sakinah*, he gathers the salaf: Qatadah (via 'Abdur-Razzaq) read it as "grace," while Ar-Rabi' and Ibn 'Abbas (via Al-'Awfi) read it as "mercy" — peace and reassurance from Allah. On the *baqiyyah*, Ibn 'Abbas (via Ibn Jarir) said it was Musa's staff and the remnants of the Tablets — agreed by Qatadah, As-Suddi, Ar-Rabi' bin Anas and 'Ikrimah, who added "the Torah"; Ath-Thawri (via 'Abdur-Razzaq) reports views that it held a pot of manna and the remnants of the Tablets, or Musa's staff and two shoes. On "carried by the angels," Ibn 'Abbas (via Ibn Jurayj) said the angels descended bearing the Tabut between sky and earth and set it before Talut as the people watched; As-Suddi adds that when it reached Talut's house the people believed in the prophethood of Sham'un (Simeon) and obeyed Talut. Maarif ul Quran adds the background: this chest was the Israelites' battlefield legacy whose *barakah* (blessing) brought victory; Jalut (Goliath) had seized it, but the disbelievers were struck by some epidemic or calamity wherever they kept it, laying five cities desolate, until they loaded it on two bullocks that the angels drove to Talut's door — and seeing this sign, Bani Isra'il accepted his kingship. Ibn Kathir notes the closing words testify to the prophet's truthfulness, his prophethood, and the command to obey Talut — for those who believe in Allah and the Hereafter.
+
+**Reflection** When Allah confirms a matter with His sign, the believing heart answers with trust and obedience — and finds His *sakinah* settling within it.
 ## Personal Reflections
 
 
