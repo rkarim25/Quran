@@ -148,11 +148,20 @@ Say, “Shall I inform you of what is better than this? Those who live with taqw
 
 ## AI Tafsir
 
-**What this ayah teaches:** We have indeed believed, so forgive us our sins and save us from the punishment of the Fire. They will say: Our Lord, You have given us everything, what else could we ever need.
+**Essence**
+The God-fearing are known by the cry of their hearts: "We have believed — so forgive our sins and shield us from the Fire." Faith voiced as a plea.
 
-**Classical tafsir:** Ibn Kathir notes: Is there anyone to invoke Me, so that I may respond to his invocation?
+**What it teaches**
+Allah here portrays al-Muttaqin (the people of taqwa) not by a list of deeds first, but by their du'a: "Rabbana, innana amanna — Our Lord, we have indeed believed." Their plea rests on that belief: because they affirmed Him, His Book and His Messenger, they dare to ask "fa-ighfir lana dhunubana" — forgive us our sins — "wa qina 'adhab an-nar" — and save us from the punishment of the Fire. The lesson is the posture of the believer: certainty in Allah married to fear of one's own shortcomings, so that the more sincere the faith, the more urgent the asking.
 
-**From the Sunnah:** Paradise will have bricks of gold and silver masoned one after the other.
+**The scholars**
+Ibn Kathir says Allah describes His pious servants, whom He promised tremendous rewards: they declare belief "in You, Your Book and Your Messenger," and so ask forgiveness "for our errors and shortcomings, with Your bounty and mercy." He reads it with the next ayah (3:17), which names their qualities: as-sabirin, patient in performing obedience and abandoning the prohibited; as-sadiqin, true to their proclamation of faith by performing difficult deeds; al-qanitin, who submit and obey Allah; al-munfiqin, who spend on every act of obedience, kind to kith and kin and comforting the destitute; and "those who beg Allah's pardon in the last hours of the night (al-mustaghfirin bil-ashar)" — which, he says, testifies to the virtue of seeking forgiveness in the latter part of the night, noting that Ya'qub waited until the latter part of the night to ask forgiveness for his children (12:98). Maarif ul Quran sets the ayah against the verses before it: the six worldly blessings that infatuate man in v.14 are answered in v.15 by the lasting blessings of the God-fearing — gardens beneath which rivers flow, purified spouses, and, the ultimate man can aspire to, ridwan (the approval of Allah), after which, it says, no displeasure can ever come.
+
+**From the Sunnah**
+The Prophet (peace be upon him) said — his own reported wording, affirmed as revealed without asking how (bila kayf): "Every night, when the last third of it remains, our Lord, the Blessed, the Superior, descends to the lowest heaven saying, 'Is there anyone to ask Me, so that I may grant him his request? Is there anyone to invoke Me, so that I may respond to his invocation? Is there anyone seeking My forgiveness, so that I may forgive him?'" (The Two Sahihs, the Musnad and the Sunan collections). Ibn Kathir cites this as the proof for the virtue of istighfar in the last part of the night, and adds the practice of the Companions: 'Abdullah bin 'Umar would pray through the night and ask Nafi', "Is it the latter part of the night yet?" — and when told yes, he would supplicate and seek Allah's forgiveness until dawn (collected by Ibn Abi Hatim).
+
+**Reflection**
+Make the last third of the night your appointment with Allah — the hour He Himself draws near to answer. Confess your faith, name your sins for His pardon, and seek refuge from the Fire; and let your deepest longing, above every gift of the Garden, be the one the righteous prize most: His approval.
 ## Personal Reflections
 
 

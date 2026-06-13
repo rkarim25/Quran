@@ -274,11 +274,15 @@ The enjoyment of desires—women, children, treasures of gold and silver, fine h
 
 ## AI Tafsir
 
-**What this ayah teaches:** When the purpose for having children is to reproduce and increase the Ummah of Muhammad ﷺ with those who worship Allah alone without partners, then it is encouraged and praised.
+**Essence** Worldly desire is no illusion — Allah Himself adorned it. Yet adornment is the test, not the destination: the truly excellent return is with Allah.
 
-**Classical tafsir:** Ibn Kathir notes: Scholars of Tafsir have conflicting opinions about the amount of the Qintar, all of which indicate that the Qintar is a large amount of money, as Ad-Dahhak and other scholars said.
+**What it teaches** Allah lists what people instinctively crave — women, children, hoarded gold and silver (qanatir muqantarah, "heaps stored up"), branded horses (musawwamah), cattle and farmland — and names them mata' al-hayat al-dunya: the short-lived enjoyment of this lower life. The closing husn al-ma'ab ("the excellent return/final resort") redirects the heart to the only lasting good, found with Allah.
 
-**From the Sunnah:** A'ishah, may Allah be pleased with her, said, "Nothing was more beloved to the Messenger of Allah ﷺ than women, except horses," and in another narration, "...than horses except women." Now, in these verses the text explains the reason why the those who reject the truth indulge in hostility against Islam and Muslims.
+**The scholars** Ibn Kathir notes Allah begins with women "because the test with them is more tempting." Each desire then splits by intention. Marrying to preserve chastity is encouraged; so, separately, is desiring children to increase the Ummah of those who worship Allah alone — while wealth pursued in arrogance to dominate the weak is forbidden, and horses kept for the cause of Allah earn reward whereas horses kept to boast against the people of Islam earn a burden. He explains qanatir muqantarah as a great hoard of money (Ad-Dahhak); reports Ibn 'Abbas, Mujahid, 'Ikrimah, Sa'id bin Jubayr and others that musawwamah means "branded, beautiful horses"; glosses al-an'am as camels, cows and sheep, and al-harth as land used to farm. Maarif ul Quran frames the whole list as the root of hostility to Islam — driven by greed, lust, or false ancestral custom — and (citing the maxim that the love of dunya is the source of all errors) notes Allah's wisdom: this instinctive love keeps the world's affairs running and is itself the test (18:7, "We made whatever is on the earth its adornment so that We can test who acts best"). It quotes Rumi's image of water — beneath the boat it carries it, but inside the boat it sinks it — so wealth serves us only until it enters and kills the heart.
+
+**From the Sunnah** This life is not condemned outright; its very best, rightly used, is a righteous wife: "This life is a delight, and the best of its delight is a righteous wife." (Hadith cited by Ibn Kathir) And of the trials left to men, the Messenger ﷺ warned: "I did not leave behind me a test more tempting to men than women." (the Sahih, as cited by Ibn Kathir)
+
+**Reflection** Hold the world like water beneath the boat — use its goods for genuine needs and as a road to Allah, never letting them seep in and drown the heart.
 ## Personal Reflections
 
 
