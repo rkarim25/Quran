@@ -192,11 +192,13 @@ The good they do in this worldly life is like the harvest of an evil people stru
 
 ## AI Tafsir
 
-**Context:** Muhammad bin Ishaq and others, including Al-'Awfi who reported it from Ibn 'Abbas, said; "These Ayat were revealed about the clergy of the People of the Scriptures who embraced the faith.
+**Essence** Whatever the disbelievers spend in this world is laid waste like a standing harvest scorched by a bitter, killing wind — and the loss is one they brought upon themselves.
 
-**What this ayah teaches:** Verse 117 declares through a similitude that those who reject the truth simply waste what they spend in this worldly life, for belief in Islam is a pre-condition in order that such spendings be acceptable with Allah, of whatever sort they may be.
+**What it teaches** Allah strikes a parable (mathal): the charity and good works of those who reject faith are like the harvest (harth) of a wrongdoing people destroyed by a wind carrying sirr — a frost or burning cold. Because faith in Islam is the pre-condition for any spending to be accepted with Allah, their outlay earns no reward with Him; and the closing words "Allah wronged them not, but they wronged themselves" (zulm) place the cause squarely on their own disbelief, not on any injustice from Allah.
 
-**Classical tafsir:** Ibn Kathir notes: 'Ata' said that Sir, means, 'cold and snow.' Ibn 'Abbas and Mujahid are also reported to have said that Sir means, 'fire'.
+**The scholars** Ibn Kathir explains that this parable concerns what the disbelievers spend in this life, as reported from Mujahid, Al-Hasan and As-Suddi. On the word sirr: Ibn 'Abbas, 'Ikrimah, Sa'id bin Jubayr, Al-Hasan, Qatadah, Ad-Dahhak, Ar-Rabi' bin Anas and others said it is a frigid wind; 'Ata' said it means "cold and snow"; while Ibn 'Abbas and Mujahid are also reported to have said it means "fire." Ibn Kathir notes these need not contradict: extreme cold with snow burns plants exactly as fire does. The image is a calamity striking produce ready to harvest, destroying it just when its owner needs it most — so too Allah destroys the reward of the disbelievers' deeds, because, like the sinner's ruined crop, "both types did not build their work on firm foundations." Maarif ul Quran adds that the similitude stresses the disbelievers inflict this injustice on themselves: had they embraced Islam, they would be like other Muslims who, on suffering a worldly loss, are compensated by Allah with reward and forgiveness of sins.
+
+**Reflection** A field is hardest to lose at harvest, when the owner finally reaches for what he labored for. So it is with deeds that lack faith: nothing remains on the day the reward is most needed. Anchor your giving in faith now, so that what you spend stands when you come to gather it.
 ## Personal Reflections
 
 

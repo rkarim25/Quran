@@ -218,13 +218,13 @@ Here you are! You love them but they do not love you, and you believe in all Scr
 
 ## AI Tafsir
 
-**Context:** After that, in verse هَا أَنتُمْ أُولَاءِ تُحِبُّونَهُمْ ; Muslims have been told that it is certainly strange that you go about loving them as friends, yet they are no friends of yours.
+**Essence** Allah exposes the buried hatred of the hypocrites and reassures the believers that He alone knows what hearts conceal.
 
-**What this ayah teaches:** Certainly, Allah knows what is in the breasts (all the secrets).
+**What it teaches** The believers love the hypocrites (thinking them fellow Muslims) and accept all of Allah's Scriptures without reservation, yet the hypocrites secretly despise them and reject the believers' Book; outwardly they say "We believe," but in private they bite their fingertips (al-anamil) in ghayz — extreme anger and fury. Allah commands the Prophet ﷺ to answer their fury with "Perish in your rage," because He is al-'Alim bi-dhat al-sudur — fully aware of every secret in the breasts.
 
-**Classical tafsir:** Ibn Kathir notes: The Prohibition of Taking Advisors From Among the those who reject the truth Allah forbids His believing servants from taking the hypocrites as allies, so that the hypocrites do not have the opportunity to expose the secrets of the believers and their plans against their enemies.
+**The scholars** Ibn Kathir explains that the believers like the hypocrites because they pretend to be believers, "but they do not like you publicly or secretly," and that the believers "have no doubt in any part of Allah's Book, while the hypocrites have deep doubts, confusion and reservations about it." Citing Ibn 'Abbas (through Muhammad bin Ishaq, collected by Ibn Jarir), "you believe in all the Scriptures" means you believe in your Book, their Book, and the previous Books, while they disbelieve in your Book — "this is why they deserve that you dislike them instead of them disliking you." Qatadah notes that al-anamil are the tips of the fingers. Ibn Kathir adds that "Perish in your rage" carries a promise: no matter how much the hypocrites envy the believers, "Allah shall perfect His favor on His believing servants, complete His religion, raise high His Word and give dominance to His religion." Maarif ul Quran calls it "strange" that the believers extend friendship to their worst enemies, noting the hypocrites not only reject the Prophet ﷺ and the believers' Book but that "their belief in their own Books is not correct either" — so the situation should have been the reverse.
 
-**From the Sunnah:** When the Muslims suffer a drought or their enemies gain the upper hand against them, by Allah's decree, just as occurred during the battle of Uhud, the hypocrites become pleased.
+**Reflection** Carry your own heart honestly before the One who knows all hearts, and let no enemy's hidden rage shake your trust that Allah will perfect His favor on the believers.
 ## Personal Reflections
 
 
