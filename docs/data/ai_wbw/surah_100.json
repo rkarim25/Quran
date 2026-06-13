@@ -1,0 +1,749 @@
+{
+ "1": {
+  "1": {
+   "meaning": "An oath sworn by Allah upon the war-horses as they charge and gallop into battle. The wa- here is the 'oath particle' (it functions like 'By...!'), and the noun it governs names the charging steeds. Allah swears by these galloping horses to draw attention to the solemn truth that follows in the surah.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "by (oath particle)"
+    },
+    {
+     "ar": "الۡ",
+     "tr": "al",
+     "en": "the"
+    },
+    {
+     "ar": "عٰدِيٰ",
+     "tr": "ʿādiy",
+     "en": "ones that gallop/charge (active participle stem)"
+    },
+    {
+     "ar": "تِ",
+     "tr": "āti",
+     "en": "sound feminine plural suffix -āt + genitive case vowel -i"
+    }
+   ],
+   "grammar": "The wa- is the particle of oath, meaning 'By...!' — and a noun after an oath particle takes the genitive case, which is why the word ends in -i (giving -āti) and not -u. 'al-ʿādiyāt' is a sound feminine plural active participle ('the galloping/charging ones'), describing the war-mares. It is built from the participle stem 'ʿādiy-' plus the sound feminine plural suffix '-āt'; the final short vowel '-i' on that suffix is the genitive case marker governed by the oath.",
+   "root": "ع-د-و (ʿ-d-w) — to run, gallop, race; to rush forth (also the sense of hostility/charging at an enemy)"
+  },
+  "2": {
+   "meaning": "The heavy, snorting sound that bursts from a horse's chest when it gallops hard and breathes laboriously — its panting. It pictures the strain and effort of the charging steeds.",
+   "parts": [
+    {
+     "ar": "ضَبۡحَ",
+     "tr": "ḍabḥa",
+     "en": "panting/snorting (the sound of a hard-running horse)"
+    },
+    {
+     "ar": "ً (ا)",
+     "tr": "-an",
+     "en": "accusative '-an' ending (here: describing how they run)"
+    }
+   ],
+   "grammar": "The final -an is the accusative ending with tanwīn (nunation, the doubled vowel written ـً). Here it works adverbially — describing the manner of the galloping in the previous word: they charge 'while panting / with a snorting sound.' Grammarians also explain it as a verbal noun (maf'ul mutlaq) reinforcing the action. Either way, the -an ties this 'panting' directly to how the horses run.",
+   "root": "ض-ب-ح (ḍ-b-ḥ) — the panting/snorting breath-sound a horse makes when running hard"
+  }
+ },
+ "2": {
+  "1": {
+   "meaning": "And the ones that strike fire — the war-horses whose hooves, hammering against the rocky ground as they gallop, strike out sparks of fire. It is an active participle (feminine plural) that names the mares by the very action they perform.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa-",
+     "en": "and then / and so (a connective particle linking this oath to the one before it, marking sequence)"
+    },
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the (definite article)"
+    },
+    {
+     "ar": "مُورِيٰتِ",
+     "tr": "mūriyāti",
+     "en": "ones that strike out / kindle fire (Form IV active participle, feminine plural; the final letter carries the genitive vowel -i)"
+    }
+   ],
+   "grammar": "A feminine-plural active participle from Form IV (the 'mū-' prefix gives the causative sense 'ones who produce/cause' — here, who produce fire). It continues the series of oaths begun in ayah 1: the connective prefix 'fa-' means 'and then,' showing these are the same horses now doing the next thing. The noun is in the genitive case (shown by the final '-i' vowel sitting on the last letter, not a separate morpheme). That genitive is governed by the wāw al-qasam (the oath 'wa-') that opens ayah 1 (وَالۡعٰدِيٰتِ); its grip carries on through the 'fa-' connectives over this whole chain of nouns. The feminine plural ending '-āt' describes the mares as a group.",
+   "root": "و-ر-ي (w-r-y) — to kindle, strike out fire, make a spark catch"
+  },
+  "2": {
+   "meaning": "A striking that produces fire — the clashing blow of hoof on stone that makes the sparks fly. It is a verbal noun naming the act of striking flint or stone to draw out fire, placed here to specify exactly how the horses of the previous word 'strike fire.'",
+   "parts": [
+    {
+     "ar": "قَدْح",
+     "tr": "qadḥ",
+     "en": "a striking (of stone/flint) to make a spark; the act of kindling fire by impact"
+    },
+    {
+     "ar": "ًا",
+     "tr": "-an",
+     "en": "the accusative '-an' (tanwīn / 'nunation') ending, marking it as indefinite and in the accusative case"
+    }
+   ],
+   "grammar": "A verbal noun (the name of an action) in the accusative case, shown by the '-an' ending (an indefinite '-a' sound with nunation). Grammatically it is a مفعول مطلق (maf'ūl muṭlaq, the absolute/cognate accusative): it names the very action that مُورِيٰتِ performs and specifies its type or manner — the mares strike fire 'by way of a striking blow.' Being indefinite, it takes no 'the.'",
+   "root": "ق-د-ح (q-d-ḥ) — to strike stone/flint so as to produce a spark or fire"
+  }
+ },
+ "3": {
+  "1": {
+   "meaning": "And those (mares) that launch a sudden raid — the war-horses charging upon the enemy in a swift, surprise attack. The opening 'fa-' carries the sense of 'and then', marking this as the next stage in the sequence of the charge: after the galloping (v.1) and the striking of sparks (v.2) comes the dawn assault. 'al-' is 'the', and the word itself is a feminine plural describing the horses (or their riders) as 'the raiders / the ones making the morning assault'.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa",
+     "en": "and then (sequencing 'and')"
+    },
+    {
+     "ar": "الۡ",
+     "tr": "al",
+     "en": "the"
+    },
+    {
+     "ar": "مُغِيۡر",
+     "tr": "mughīr",
+     "en": "one launching a raid / making a sudden assault"
+    },
+    {
+     "ar": "ٰت",
+     "tr": "āt",
+     "en": "feminine plural suffix"
+    },
+    {
+     "ar": "ِ",
+     "tr": "i",
+     "en": "genitive case vowel (kasra) attached after the plural suffix"
+    }
+   ],
+   "grammar": "This is an active participle ('the one who raids') from the Form IV verb أَغَارَ (aghāra), masdar إِغَارَة (ighārah), meaning 'to launch a raid, make a sudden hostile excursion'. It is feminine plural (the horses, grammatically feminine), shown by the plural suffix '-āt'. Note the morphology has two layers: the plural morpheme is '-āt' (مُغِير + ٰت = مُغِيرٰت), and the final '-i' (kasra) is a separate case vowel, not part of the plural ending. That final '-i' marks the genitive case: the word continues the chain of things sworn by that began in v.1 ('By the…'), since an Arabic oath governs the genitive. So it reads 'and (by) those that raid'.",
+   "root": "غ-ي-ر (gh-y-r) — in Form IV (أَغَارَ / إِغَارَة), to launch a sudden raid or hostile excursion upon an enemy"
+  },
+  "2": {
+   "meaning": "At dawn / in the early morning. This names the time of the raid: daybreak. The Arabs characteristically attacked at first light rather than under cover of night, regarding a dawn assault as the courageous, honorable way to strike. Here it specifies WHEN the charging horses of the previous word make their raid.",
+   "parts": [
+    {
+     "ar": "صُبۡح",
+     "tr": "ṣubḥ",
+     "en": "dawn / early morning"
+    },
+    {
+     "ar": "ًا",
+     "tr": "an",
+     "en": "accusative ending '-an' (here adverbial: 'at/in')"
+    }
+   ],
+   "grammar": "A noun, 'dawn', carrying the accusative ending '-an' (the tanwīn 'an', not '-un' or '-in'). The accusative here works adverbially — it answers 'when?' and so means 'at dawn / in the morning', pinning the raid to daybreak. The '-an' tanwīn also signals the word is indefinite ('a dawn / at dawn').",
+   "root": "ص-ب-ح (ṣ-b-ḥ) — morning / daybreak"
+  }
+ },
+ "4": {
+  "1": {
+   "meaning": "And so they (the charging mares) stirred up — the verb pictures the war-horses kicking up and scattering something as they gallop. The 'they' is feminine plural, referring back to the racing horses sworn by in the opening verses; what they raise (dust) is named in the next words.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa-",
+     "en": "and so / then (sequence)"
+    },
+    {
+     "ar": "أَثَرْ",
+     "tr": "athar",
+     "en": "stirred up / raised aloft"
+    },
+    {
+     "ar": "نَ",
+     "tr": "-na",
+     "en": "they (feminine plural, did)"
+    }
+   ],
+   "grammar": "fa- is a connecting prefix meaning 'and then / and so', linking this action in sequence after the dawn-raid of the previous verse. The stem is a past-tense (perfect) verb, form IV (the causative shape), from the verb أَثَارَ ('to stir up, rouse, raise'). The initial hamza (the 'a' of athar-) is the form IV causative prefix and so belongs with the stem; that is why the full word transliterates as fa-atharna. The root's middle letter is the weak letter و, which drops out in this conjugation (أَثَارَ becomes أَثَرْنَ before the ending). The ending -na is the feminine-plural subject marker: 'they (female ones) did it' — pointing back to the mares/chargers. So the whole word = 'and so they (the mares) stirred up'.",
+   "root": "ث-و-ر (th-w-r) — to stir up, rouse, agitate; the verbal noun إِثَارَة (itharah) means 'raising/stirring up (dust)'"
+  },
+  "2": {
+   "meaning": "By means of it / thereby — i.e. by their galloping, or at that very spot and moment. The little word ties the dust-raising to the charge itself: it is through the horses' onrush that the dust is thrown up.",
+   "parts": [
+    {
+     "ar": "بِ",
+     "tr": "bi-",
+     "en": "with / by means of"
+    },
+    {
+     "ar": "هٖ",
+     "tr": "-hi",
+     "en": "it / him (referring to the place or the charge)"
+    }
+   ],
+   "grammar": "bi- is an attached preposition meaning 'with, by, by means of, in'. The attached pronoun -hi means 'it/him' (third-person masculine singular); commentators take it to refer to the moment, the place of battle, or the act of charging. A pronoun after a preposition always sits in the genitive, which is why it shows the -i vowel (-hi); the long vowel written here (bihī) is the normal way this pronoun is pronounced after a vowel-letter. Together: 'thereby / by means of it'.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "Dust — the cloud of dust kicked up and scattered into the air by the stampeding horses. The word evokes a swirling cloud rising over the battlefield at dawn.",
+   "parts": [
+    {
+     "ar": "نَقْع",
+     "tr": "naqʿ",
+     "en": "dust (a raised cloud of it)"
+    },
+    {
+     "ar": "ًا",
+     "tr": "-an",
+     "en": "(an / a) — object-case ending, no English word"
+    }
+   ],
+   "grammar": "This is a noun, the direct object of the verb 'stirred up' (what was raised = dust). The final -an is the accusative ending with nunation (the doubled 'n' sound): it marks the word as the object of the action and signals that it is indefinite — 'some dust', 'a cloud of dust', not 'the dust'. So the ending tells you this is the thing being raised, and that it is being spoken of in general, undefined terms.",
+   "root": "ن-ق-ع (n-q-ʿ) — dust raised into the air; also water that settles/stagnates"
+  }
+ },
+ "5": {
+  "1": {
+   "meaning": "And so they (the mares) reached the middle of it -- ending up in the very center of the enemy host. The image is of war-horses driving headlong into the thick of battle, surrounded on all sides.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa-",
+     "en": "and then / and so"
+    },
+    {
+     "ar": "وَسَطۡ",
+     "tr": "wasaṭ",
+     "en": "to be in the middle of, to occupy the center"
+    },
+    {
+     "ar": "نَ",
+     "tr": "-na",
+     "en": "they (feminine plural, did)"
+    }
+   ],
+   "grammar": "Form I past-tense verb. The fa- prefix means 'and then,' marking the next stage in the sequence of the charge (after the dust of verse 4). The bare verb stem means simply to be or come to be in the middle of something; the forceful sense of 'plunging' or 'penetrating' that translations give comes from the battle context and tafsir, not from the verb form itself. The -na ending is the feminine-plural 'they (did),' referring back to the galloping mares of verse 1 -- a completed past action: 'they came into the midst.'",
+   "root": "و-س-ط (w-s-ṭ) -- middle, center, the heart of a thing"
+  },
+  "2": {
+   "meaning": "By means of it / right in it -- a particle 'with, by, in' joined to the pronoun 'it.' The 'it' is generally taken to mean that time of dawn, or that place of attack, or the raid itself: the mares reached the center by means of, or in the midst of, that very moment.",
+   "parts": [
+    {
+     "ar": "بِ",
+     "tr": "bi-",
+     "en": "with / by means of / in"
+    },
+    {
+     "ar": "هٖ",
+     "tr": "-hi",
+     "en": "it / him"
+    }
+   ],
+   "grammar": "A two-part word: the preposition bi- ('with, by, in') attached to the pronoun -hi ('it/him'). Because bi- carries a kasra (the /i/ vowel), the pronoun هُ (-hu) shifts to هِ (-hi), giving bihi -- both vowels are short. (The superscript mark here just signals that kasra; it is not the long possessive suffix -ī of ـِي.) The pronoun is genitive, as any word governed by a preposition like bi- must be. It refers back to the scene of dawn or the raid.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "All together, as one -- describing how the horses arrived: in a single massed body, not strung out. This is how the source renders it ('collectively'). A secondary reading takes the word as a noun, 'a gathered host,' i.e. the assembled enemy into whose midst they drove.",
+   "parts": [
+    {
+     "ar": "جَمۡع",
+     "tr": "jamʿ",
+     "en": "a gathering; (as state) all together, as one"
+    },
+    {
+     "ar": "ًا",
+     "tr": "-an",
+     "en": "(indefinite accusative ending)"
+    }
+   ],
+   "grammar": "A noun in the accusative, marked by the -an ending (written with tanwīn, the double-fatḥa, which also shows it is indefinite). On the primary reading -- the one the source reflects with 'collectively' -- it functions as a ḥāl (circumstantial accusative) describing the manner of the action: the mares reached the center 'all together, as a single mass.' On a secondary reading it is the direct object, the 'massed host' the horses penetrated. The ending is the same; the two readings differ in grammatical role.",
+   "root": "ج-م-ع (j-m-ʿ) -- to gather, collect, bring together"
+  }
+ },
+ "6": {
+  "1": {
+   "meaning": "An emphatic opening particle that has no clean English equivalent. It functions like a verbal underline placed before a statement, asserting it with certainty — roughly 'truly,' 'indeed,' or 'it is a fact that.' It grips the noun that follows and presents the whole sentence as a solemn, undeniable truth, here driving home the conclusion of the oaths sworn in the preceding verses.",
+   "parts": [
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "indeed / truly (emphasis)"
+    }
+   ],
+   "grammar": "This is one of the 'sisters of inna' — a particle that puts the noun after it into the accusative case. That is exactly why the next word reads l-insāna (with the accusative -a ending) and not l-insānu. It carries no tense or person of its own; its whole job is to intensify and certify the statement.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "Humankind; the human being viewed as a species or as 'man' in the general sense. Here it is the subject under discussion — humanity as a whole, characterized by the trait the verse is about to expose.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "اِنۡسَانَ",
+     "tr": "insāna",
+     "en": "human being / mankind (accusative)"
+    }
+   ],
+   "grammar": "The al- prefix is 'the,' and here it generalizes — 'the human being' meaning humankind as a kind, not one specific person. The final -a ending (fatha on the ن) is the accusative case, which is forced by inna before it: this word is the noun that inna is 'governing.' So inna + l-insāna together mean 'Indeed, humankind…' standing as the subject of the sentence.",
+   "root": "أ-ن-س (ʾ-n-s) — humanness, sociability, being familiar/companionable"
+  },
+  "3": {
+   "meaning": "'To his Lord' — to Allah as the one who creates, owns, sustains, nurtures, and has full authority over the person. 'Rabb' bundles together the senses of Master, Provider, and Cherisher who brings a thing to its completion stage by stage; no single English word captures it, so 'Lord' is used as shorthand for that whole relationship of loving lordship and care.",
+   "parts": [
+    {
+     "ar": "لِ",
+     "tr": "li-",
+     "en": "to / toward (and here implying: in regard to)"
+    },
+    {
+     "ar": "رَبِّ",
+     "tr": "rabbi",
+     "en": "Lord, Master and Sustainer (genitive)"
+    },
+    {
+     "ar": "هٖ",
+     "tr": "hi",
+     "en": "his"
+    }
+   ],
+   "grammar": "The li- prefix means 'to / toward,' fronting this phrase for emphasis — it is placed before 'ungrateful' so the sense is 'toward his Lord he is ungrateful.' Because li- is a preposition, it pulls rabb into the genitive, which is why the stem reads rabbi (with the -i kasra) before the pronoun. The attached هٖ (hi) is the possessive 'his,' pointing back to humankind; its vowel is -i (hi rather than hu) precisely because it follows that genitive -i. Altogether: 'to his Lord.'",
+   "root": "ر-ب-ب (r-b-b) — to nurture, sustain, master, and bring up to completion"
+  },
+  "4": {
+   "meaning": "Deeply ungrateful — the predicate that completes the statement. 'Kanūd' is a loaded, intensive term: not a passing lapse but an ingrained disposition to deny and withhold thanks. The classical scholars explain it as one who counts up the hardships that befall him while forgetting the favors of Allah, or who uses Allah's blessings for wrong ends and fixes his eyes on the gift rather than the Giver. The intensive form paints a person heavily, characteristically thankless.",
+   "parts": [
+    {
+     "ar": "لَ",
+     "tr": "la",
+     "en": "surely / most certainly (emphasis)"
+    },
+    {
+     "ar": "كَنُود",
+     "tr": "kanūd",
+     "en": "intensely ungrateful, thankless"
+    },
+    {
+     "ar": "ٌ",
+     "tr": "-un",
+     "en": "(indefinite, nominative ending)"
+    }
+   ],
+   "grammar": "The la- prefix is a second layer of emphasis (the 'lām of affirmation') that regularly pairs with inna — together inna…la… is like saying 'indeed… most surely….' The word kanūd is an intensive adjective pattern (faʿūl), which signals a strong, habitual quality, not a one-time act, hence 'deeply/utterly ungrateful.' The final -un (the 'nunation,' tanwīn ḍamm) marks it as indefinite and, crucially, nominative case — because as the predicate ('[is] ungrateful') it is not governed by inna and so keeps its nominative ending rather than the accusative.",
+   "root": "ك-ن-د (k-n-d) — ingratitude; denying or withholding due thanks for kindness"
+  }
+ },
+ "7": {
+  "1": {
+   "meaning": "\"And indeed he (is)\" — three pieces fused into one word. The opening \"and\" links this statement to the previous verse; \"indeed\" is a strong word of affirmation that adds certainty and weight to what follows; and \"he\" is the one being spoken about. In the classical commentaries the \"he\" is understood either as man himself (who, by his conduct, testifies against his own ingratitude) or as Allah (who is witness to man's ingratitude) — the grammar fits both.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "indeed / truly (strong affirmation)"
+    },
+    {
+     "ar": "هٗ",
+     "tr": "-hu",
+     "en": "he / it"
+    }
+   ],
+   "grammar": "Three joined elements. The wa- prefix is the connector \"and.\" inna is an emphatic particle meaning \"indeed/truly\"; grammatically it governs the noun or pronoun after it (its ism) and puts it in the accusative — that is, inna demotes that word from the nominative it would otherwise carry. The attached pronoun -hu is this ism: it is the logical subject of the sentence (\"he\"), not a nominative subject. Pronouns like -hu do not visibly change form for case, so the accusative governance is not marked on it here. The long final vowel shown as -hū (هٗ) is simply how the \"he\" pronoun is pronounced after this particle; it is not a case ending of its own. Together: \"And indeed he…,\" with the predicate (\"a witness\") coming at the end of the verse.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "\"upon / to / over\" — a preposition pointing to the thing being witnessed. Paired here with the verse's final word, it gives the sense \"a witness TO that\" — i.e., bearing witness over and concerning it.",
+   "parts": [
+    {
+     "ar": "عَلٰى",
+     "tr": "ʿalā",
+     "en": "upon / to / over"
+    }
+   ],
+   "grammar": "A preposition. It does not change its form, but it puts the word after it (the demonstrative \"that\") into the genitive — the case used for the object of a preposition. With a witness, Arabic uses \"upon/over\" where English says \"to\": \"a witness to / over that.\" The ending is a fixed long -ā (written here on a dagger-alif), not a case marker.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "\"that\" — a demonstrative pointing to something distant, here pointing back to man's ingratitude mentioned in the previous verse. The form is the \"far\" demonstrative (\"that\" rather than \"this\"), suggesting the matter just referred to.",
+   "parts": [
+    {
+     "ar": "ذٰ",
+     "tr": "dhā",
+     "en": "this/that (demonstrative base)"
+    },
+    {
+     "ar": "لِ",
+     "tr": "-li-",
+     "en": "particle marking distance (\"yonder\")"
+    },
+    {
+     "ar": "كَ",
+     "tr": "-ka",
+     "en": "addressed to you (the listener)"
+    }
+   ],
+   "grammar": "A demonstrative pronoun meaning \"that.\" It is built from a pointing base dhā plus a \"distance\" element -li- and an addressee marker -ka (\"for you, O listener\"), which together signal something far rather than near — hence \"that,\" not \"this.\" It is indeclinable: its shape never changes for case, so although it sits in the genitive after the preposition \"upon,\" there is no visible ending to mark it. The final -a is fixed, not a case sign.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "\"surely a witness\" — one who sees and testifies to something with sure knowledge. The word is an intensive form, so it carries more than \"one who happens to witness\": it means a thorough, reliable witness — fully aware of, and attesting to, the matter. The attached \"surely\" makes the statement emphatic. This is the predicate that completes \"indeed he is…\" from the start of the verse.",
+   "parts": [
+    {
+     "ar": "لَ",
+     "tr": "la-",
+     "en": "surely / certainly (emphasis)"
+    },
+    {
+     "ar": "شَهِيۡد",
+     "tr": "shahīd",
+     "en": "witness (one who sees and testifies)"
+    },
+    {
+     "ar": "ٌ",
+     "tr": "-un",
+     "en": "a (indefinite, subject/predicate case)"
+    }
+   ],
+   "grammar": "Two parts plus an ending. The la- prefix is the \"emphatic lām,\" a particle of stress meaning \"surely/certainly\" — it regularly pairs with the earlier inna to drive the affirmation home (\"indeed… he is surely…\"). The stem shahīd is an intensive noun-pattern (faʿīl) meaning a thorough, sure witness. The final -un is nunation in the nominative indefinite case: the -u shows it is the predicate (khabar) of inna — the thing being affirmed about \"he\" — and the -n (\"-un\") marks it as indefinite, \"a witness.\"",
+   "root": "ش-ه-د (sh-h-d) — to witness, to see and testify, to be present"
+  }
+ },
+ "8": {
+  "1": {
+   "meaning": "A fused cluster meaning 'and indeed he (is)'. It bundles three things: the connector 'and'; a strong emphasis particle (inna) that asserts the coming statement as solid fact — like 'truly' or 'most certainly'; and an attached pronoun 'he', referring back to 'man/humankind' (al-insan) from ayah 6. Together they set up a forceful claim about what man is really like.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa-",
+     "en": "and"
+    },
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "indeed / it is certainly true that"
+    },
+    {
+     "ar": "هٗ",
+     "tr": "-hu",
+     "en": "he / him"
+    }
+   ],
+   "grammar": "Three pieces written as one word. The prefix wa- is the connector 'and', joining this ayah to the previous one. Inna is an emphasis particle: it puts the noun after it (here the pronoun 'he') in the accusative and stresses the whole sentence as certain truth — best felt in English as 'truly' or 'most certainly'. The ending -hu is the attached pronoun 'he/him', functioning as the ism (subject) of inna; it is pronounced -hu with a long u (written هٗ) because it follows the -a vowel of inna. The 'he' points back to al-insan, 'man', from ayah 6.",
+   "root": "— (particles and a pronoun; no triliteral root)"
+  },
+  "2": {
+   "meaning": "'In/out of love (for)'. It names the powerful emotional attachment — deep love or craving — and the attached preposition frames the rest of the sentence as 'when it comes to the love of…', naming the arena in which man is intense.",
+   "parts": [
+    {
+     "ar": "لِ",
+     "tr": "li-",
+     "en": "for / when it comes to"
+    },
+    {
+     "ar": "حُبّ",
+     "tr": "ḥubb",
+     "en": "love / craving"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "(of) — genitive ending"
+    }
+   ],
+   "grammar": "The prefix li- is a preposition here carrying the sense 'for' or 'with regard to'. The noun ḥubb means 'love'. Two things pull its ending to -i (genitive): the preposition li- (which always puts the following noun in the genitive), and the fact that it is the first term of a possessive chain (iḍāfa), 'love OF…'. So the final -i both obeys the preposition and links ḥubb to the next word, al-khayr.",
+   "root": "ح-ب-ب (ḥ-b-b) — love, affection, attachment"
+  },
+  "3": {
+   "meaning": "Literally 'the good', but here it carries the specific sense of worldly good things — wealth, property, riches. In this context al-khayr is what man loves intensely, so it points to material gain rather than moral goodness. The source's own gloss renders it 'wealth'.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "خَيۡر",
+     "tr": "khayr",
+     "en": "good / wealth, worldly goods"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "(of) — genitive ending"
+    }
+   ],
+   "grammar": "The prefix al- is 'the'. The noun khayr normally means 'good' or 'goodness', but here it is understood as wealth and worldly goods. Its ending is -i (genitive) because it is the second, possessed term (muḍāf ilayhi) of the chain begun by liḥubbi — 'the love OF wealth'. So the -i marks it as what the love is directed at.",
+   "root": "خ-ي-ر (kh-y-r) — good, benefit, that which is choice or desirable"
+  },
+  "4": {
+   "meaning": "'Most certainly intense / severe'. It describes man as extreme, vehement, and unrelenting — the word pictures someone hard and gripping in their attachment. With the emphasis particle attached, it stresses just how strong this craving is: man is fiercely, stubbornly intense in his love of wealth.",
+   "parts": [
+    {
+     "ar": "لَ",
+     "tr": "la-",
+     "en": "surely / most certainly"
+    },
+    {
+     "ar": "شَدِيد",
+     "tr": "shadīd",
+     "en": "intense / severe / vehement"
+    },
+    {
+     "ar": "ٌ",
+     "tr": "-un",
+     "en": "(a) — nominative, indefinite ending"
+    }
+   ],
+   "grammar": "The prefix la- is an emphasis particle ('surely', 'indeed') that pairs with the earlier inna to drive the point home — the construction 'inna … la…', 'truly he is most certainly…'. The word shadīd is a descriptive adjective ('intense, severe') on the common faʿīl pattern. Its ending -un is nominative because it is the predicate (khabar of inna, telling us what 'he' is), and indefinite (the tanwīn, written as two dots, adds the -n sound and means 'a/an' — 'an intense one').",
+   "root": "ش-د-د (sh-d-d) — to be strong, intense, severe, firm"
+  }
+ },
+ "9": {
+  "1": {
+   "meaning": "An opening that means roughly 'Does he then not...?' It is a rhetorical, reproachful question — not a request for information but an expression of astonishment and rebuke, implying 'Surely he ought to know!' It bundles together three small pieces: a questioning 'a-' ('does...?'), a 'then/so' (fa-) that links back to man's greed described just before, and 'lā' ('not'), which negates the verb that follows.",
+   "parts": [
+    {
+     "ar": "اَ",
+     "tr": "a-",
+     "en": "question marker: 'does...?' / 'is it that...?'"
+    },
+    {
+     "ar": "فَ",
+     "tr": "fa-",
+     "en": "'then / so' — connects to the previous verses"
+    },
+    {
+     "ar": "لَا",
+     "tr": "lā",
+     "en": "'not' — negates the following verb"
+    }
+   ],
+   "grammar": "Three particles fused into one word. The 'a-' at the front turns the sentence into a question, and here it is rhetorical (a challenge, expecting the answer 'yes, he should know'). 'fa-' is a connector meaning 'then/so', tying this question to man's love of wealth in the preceding verse. 'lā' is the ordinary negator placed before a present-tense verb, so 'a-fa-lā yaʿlamu' literally reads 'does he then not know?'. None of these carry case endings — they are fixed function words.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "'He knows' — to have knowledge of something, to be aware of it, to realise it. Paired with the negation before it, the sense is 'does he not realise / is he not aware'. The 'he' refers back to ungrateful, wealth-loving man mentioned earlier in the surah.",
+   "parts": [
+    {
+     "ar": "يَ",
+     "tr": "ya-",
+     "en": "'he' (does) — present-tense, third-person masculine prefix"
+    },
+    {
+     "ar": "عۡلَمُ",
+     "tr": "ʿlamu",
+     "en": "'know / be aware' (the verb stem)"
+    }
+   ],
+   "grammar": "A present/ongoing-tense verb, form I. The 'ya-' prefix marks the doer as 'he' (third-person masculine singular). The final '-u' is the indicative ending, the normal vowel a present-tense verb takes when it is simply making a statement or, as here, standing in a plain question (nothing is forcing it into a different mood). So the form means 'he knows / he is aware'.",
+   "root": "ع-ل-م (ʿ-l-m) — to know, knowledge"
+  },
+  "3": {
+   "meaning": "'When' — points forward to a future moment and sets up a scene: 'when such-and-such happens...'. It carries the flavour of certainty about a time still to come, here introducing the awesome events of the Day of Resurrection.",
+   "parts": [
+    {
+     "ar": "اِذَا",
+     "tr": "idhā",
+     "en": "'when' — at the time that (something will happen)"
+    }
+   ],
+   "grammar": "A fixed time-word (an adverb of time) that introduces a clause about a moment yet to come; it sets up a 'when X happens...' structure that expects a follow-up. It does not change its form and takes no case ending. Although the verb after it ('buʿthira') is past in form, 'idhā' gives it a future sense — 'when the graves are emptied out'.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "'Is turned upside-down and scattered out' — said of the graves being overturned so that the dead within them are flung up and brought forth. It pictures the contents being tossed out and dispersed, i.e. the resurrection of the dead from their tombs.",
+   "parts": [
+    {
+     "ar": "بُعۡثِرَ",
+     "tr": "buʿthira",
+     "en": "'was overturned and scattered out / poured forth' (passive)"
+    }
+   ],
+   "grammar": "A past-tense verb built in the passive voice — note the 'u-i' vowel pattern (bu-ʿthi-ra), the tell-tale sign of 'was done' rather than 'did'. So no doer is named; the focus is on the graves being emptied. The final '-a' is simply the standard ending of a past-tense verb in this pattern. Though past in form, after 'idhā' ('when') it reads as future: 'when [they] are poured forth'. ('buʿthira' is a four-letter, intensive-shaped verb conveying thorough overturning and scattering.)",
+   "root": "ب-ع-ث-ر (b-ʿ-th-r) — to scatter about, turn upside down, ransack"
+  },
+  "5": {
+   "meaning": "'What / that which' — a relative word standing for the things contained in the graves (namely the bodies of the dead). Here it means 'whatever is inside them'.",
+   "parts": [
+    {
+     "ar": "مَا",
+     "tr": "mā",
+     "en": "'what / that which'"
+    }
+   ],
+   "grammar": "A relative pronoun used for non-persons or for things in general, meaning 'that which / the thing that'. Because 'buʿthira' is passive (no doer is named), 'mā' steps in as its grammatical subject — the 'stand-in doer' (nāʾib al-fāʿil) — and so sits in the nominative position: it is what gets poured forth. It is a fixed word that shows no case ending of its own, and it leads into the phrase that describes it ('...that is in the graves').",
+   "root": "—"
+  },
+  "6": {
+   "meaning": "'In / inside' — a small linking word showing location, placing the contents 'within' the graves.",
+   "parts": [
+    {
+     "ar": "فِى",
+     "tr": "fī",
+     "en": "'in / inside'"
+    }
+   ],
+   "grammar": "A preposition meaning 'in/inside'. Its job is to govern the noun after it and put that noun into the genitive case — which is exactly why the next word ends in '-i' ('al-qubūr-i'). 'fī' itself never changes form and takes no ending. Together 'mā fī al-qubūri' means 'what is in the graves'.",
+   "root": "—"
+  },
+  "7": {
+   "meaning": "'The graves' — the tombs or burial pits where the dead are laid. The phrase 'what is in the graves' refers to the buried dead who will be raised.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "'the' (definite article)"
+    },
+    {
+     "ar": "قُبُوۡرِ",
+     "tr": "qubūri",
+     "en": "'graves' (plural of qabr, 'grave')"
+    }
+   ],
+   "grammar": "A definite plural noun: 'al-' is 'the', and 'qubūr' is the broken (irregular) plural of 'qabr' ('grave'), so it means 'the graves'. The final '-i' ending is the genitive case, and it is there because the preposition 'fī' ('in') before it requires it — literally 'in the graves'. The small mark at the end of the printed word is a recitation pause-sign, not part of the grammar.",
+   "root": "ق-ب-ر (q-b-r) — to bury; a grave"
+  }
+ },
+ "10": {
+  "1": {
+   "meaning": "\"And there is brought out / made to appear\" — the war-scene oaths now give way to the Day of Resurrection. This verb pictures the inner contents of human hearts being gathered up, sifted out and openly displayed before Allah, with nothing left hidden. The wa- at the front ties this clause to the previous verse about the graves being emptied.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "حُصِّلَ",
+     "tr": "ḥuṣṣila",
+     "en": "it was gathered up / brought out and laid bare"
+    }
+   ],
+   "grammar": "Past-tense (perfect) verb in the passive voice, 3rd-person masculine singular — \"it was made apparent.\" Passive because no doer is named: the focus is that the contents WILL be exposed, not who exposes them. It is Form II (the middle root letter is doubled, ḥaṣ-ṣala), a pattern that intensifies the plain verb — so not merely \"obtained\" but thoroughly extracted, collected and brought fully to light. The vowel pattern u–i (ḥuṣṣila) is the tell-tale mark of the passive. The final -a is the normal ending of this past-tense form. wa- is a connecting prefix, \"and.\"",
+   "root": "ح-ص-ل (ḥ-ṣ-l) — to obtain, gather, draw out / make result"
+  },
+  "2": {
+   "meaning": "\"That which / whatever\" — a relative word standing in for the unnamed things hidden inside people: their beliefs, intentions, secrets and deeds. It deliberately leaves the contents unspecified, sweeping in everything the heart conceals.",
+   "parts": [
+    {
+     "ar": "مَا",
+     "tr": "mā",
+     "en": "that which / what"
+    }
+   ],
+   "grammar": "A relative pronoun acting here as the subject — \"that which [is in the breasts].\" It is indeclinable: its form never changes for case, number or gender, so it shows no vowel-ending of its own. It points forward to the phrase that follows (\"in the breasts\") to complete its meaning.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "\"In / inside\" — a preposition placing the hidden things within the chest, i.e. deep inside a person rather than on the surface.",
+   "parts": [
+    {
+     "ar": "فِى",
+     "tr": "fī",
+     "en": "in / inside"
+    }
+   ],
+   "grammar": "A preposition meaning \"in.\" Being a particle, it has no case-ending or root of its own; its job is simply to govern the noun after it, which it puts into the genitive (the \"of/in\" state). Here it links \"that which\" to \"the breasts.\"",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "\"The breasts / chests\" — the plural of ṣadr (chest). In Qur'anic usage the \"breast\" is the seat of the inner self: the place where thoughts, feelings, faith and hidden intentions are kept. So \"what is in the breasts\" means the secrets of the hearts.",
+   "parts": [
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "صُّدُورِ",
+     "tr": "ṣudūri",
+     "en": "breasts / chests (broken plural of ṣadr), in the genitive case (final -i)"
+    }
+   ],
+   "grammar": "A definite plural noun, \"the breasts,\" the broken (irregular) plural of ṣadr. The al- prefix is \"the.\" The base plural form is ṣudūr — its three consonants ṣ-d-r are exactly the three root letters, so the final ر belongs to the word itself, not to any ending. What marks the case is only the short vowel on that last letter: the kasra (-i) is the genitive ending, which appears because the word follows the preposition fī (\"in\") — so it reads \"in THE breasts.\" (Note: the lām of al- assimilates in sound into the following ṣ, which is why it is pronounced ṣ-ṣudūr, though the meaning is simply \"the.\")",
+   "root": "ص-د-ر (ṣ-d-r) — chest/breast; to come forth, issue out"
+  }
+ },
+ "11": {
+  "1": {
+   "meaning": "An emphasis particle that opens the sentence with the force of 'truly, most certainly.' It is not a word with a dictionary meaning of its own; its job is to stress and confirm what follows, assuring the listener that the statement is an established fact: 'It is absolutely the case that...'",
+   "parts": [
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "truly / most certainly"
+    }
+   ],
+   "grammar": "A particle of emphasis and confirmation. Grammatically it grips the noun that comes right after it and puts that noun into the accusative case — which is exactly why the next word reads 'rabba-' (with an -a ending) rather than 'rabbu-'. Think of 'inna' as adding a strong 'indeed' to the whole sentence.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "'Their Lord' — the Master, Owner, Sustainer and Caretaker who creates them, nurtures them and has full authority over them. 'Rabb' carries all of these senses at once: not merely a 'lord' in the social sense but the One who brings up and provides for His creation. The attached 'hum' makes it 'their' — referring to humankind.",
+   "parts": [
+    {
+     "ar": "رَبَّ",
+     "tr": "rabba",
+     "en": "Lord / Master and Sustainer"
+    },
+    {
+     "ar": "هُمۡ",
+     "tr": "hum",
+     "en": "their / them (masculine plural)"
+    }
+   ],
+   "grammar": "This is the ism of 'inna' (the noun that 'inna' governs), which is why it takes the accusative -a ending ('rabba'). 'Inna' places its noun in the accusative; the matching predicate that completes the statement is its khabar — here the later 'la-khabīrun,' which stays nominative. So the structure is 'inna [rabbahum = accusative noun] ... [khabīrun = nominative predicate].' The suffix '-hum' is a possessive pronoun meaning 'their,' attached to the back of the noun ('Lord of them' = 'their Lord').",
+   "root": "ر-ب-ب (r-b-b) — to nurture, sustain, master, bring to completion"
+  },
+  "3": {
+   "meaning": "'About them' / 'with regard to them' — the focus of Allah's knowledge falls precisely on these people: their deeds, their hidden thoughts, their states. The 'bi-' here points the awareness directly at them.",
+   "parts": [
+    {
+     "ar": "بِ",
+     "tr": "bi",
+     "en": "about / with / concerning"
+    },
+    {
+     "ar": "هِمۡ",
+     "tr": "him",
+     "en": "them (masculine plural)"
+    }
+   ],
+   "grammar": "A preposition 'bi-' ('about/concerning') fused with the pronoun 'him' ('them'). Because the pronoun follows a word ending in a soft 'i' sound, its vowel shifts from 'hum' to 'him' for ease of pronunciation — the meaning ('them') is unchanged. Together with the final word it conveys '...is well-acquainted WITH them.'",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "'On that Day' — that is, the Day of Resurrection, when the contents of the graves are poured out and what was hidden in the hearts is laid bare. It singles out that specific future Day as the moment in view.",
+   "parts": [
+    {
+     "ar": "يَوۡمَ",
+     "tr": "yawma",
+     "en": "day"
+    },
+    {
+     "ar": "ئِذٍ",
+     "tr": "-idhin",
+     "en": "of (that) then / at that time"
+    }
+   ],
+   "grammar": "A compound: 'yawm' ('day') joined to '-idhin,' a particle pointing back to a previously mentioned time ('then / at that moment'). The whole thing functions as an adverb of time, 'on that Day.' The '-in' ending (the tanwin you hear as '-idhin') stands in for the omitted clause it refers to — roughly 'the day when [all that] happens.'",
+   "root": "ي-و-م (y-w-m) — day, a defined span of time"
+  },
+  "5": {
+   "meaning": "'Surely well-acquainted / All-Aware' — One whose knowledge reaches the innermost reality of things, the subtle and hidden details, not just the outward surface. 'Khabīr' is an intensive form: it describes Allah as thoroughly and intimately informed of every secret of these people. The opening 'la-' adds 'most certainly.'",
+   "parts": [
+    {
+     "ar": "لَّ",
+     "tr": "la",
+     "en": "surely / most certainly"
+    },
+    {
+     "ar": "خَبِيۡرٌ",
+     "tr": "khabīrun",
+     "en": "all-aware / intimately acquainted"
+    }
+   ],
+   "grammar": "The prefix 'la-' is an emphasis marker that pairs with the earlier 'inna' — this 'inna...la...' frame is like saying 'truly... most certainly...' for double stress. 'Khabīr' is the khabar (predicate) of 'inna' — what is being affirmed about 'their Lord' — so it takes the nominative ending, heard as '-un' ('khabīrun'); that '-un' tanwin also signals it is indefinite ('an All-Aware One'). The form 'khabīr' (faʿīl pattern) gives an intensive, enduring quality: 'thoroughly aware.'",
+   "root": "خ-ب-ر (kh-b-r) — to know a thing's inner reality; awareness of hidden details, information"
+  }
+ }
+}
