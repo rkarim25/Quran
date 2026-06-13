@@ -254,11 +254,17 @@ They can never inflict harm on you, except a little annoyance. But if they meet 
 
 ## AI Tafsir
 
-**What this ayah teaches:** Therefore, whoever among this Ummah acquires these qualities, will have a share in this praise.
+**Essence**
+A divine promise of protection and triumph: those of the People of the Scripture who set themselves against the believers can scratch but never crush them, and whenever they take up arms they will be routed and left without any helper.
 
-**Classical tafsir:** Ibn Kathir notes: This is because they disbelieved in the Ayat of Allah and killed the Prophets without right.
+**What it teaches**
+Allah reassures the believers that their hostile adversaries among the People of the Scripture will do them no real harm beyond passing annoyance (adha — minor hurt by tongue or scheming): "lan yaḍurrūkum" ("they will never harm you") is a categorical denial of any lasting damage. Should they fight, they will "show you their backs" (yuwallūkum al-adbar — turn and flee), then "la yunsarun" — no help from any quarter, human or otherwise, will reach them against Allah's decree.
 
-**From the Sunnah:** This is a well-known Hadith about which At-Tirmidhi said, "Hasan", and which is also narrated from Mu'adh bin Jabal and Abu Sa'id. (Musnad Ahmad, Jami' at-Tirmidhi) the same Hadith with another chain of narration, and this Hadith meets the criteria of Muslim in his Sahih. (Sahih Muslim, Musnad Ahmad)
+**The scholars**
+Ibn Kathir reads this as glad tidings of victory and dominance for the believers over the disbelieving People of the Scripture. It was fulfilled when Allah humiliated the Jews at Khaybar, and before that the Madinan tribes of Qaynuqa', Nadir, and Qurayzah, and later when the Companions defeated the Christians of Ash-Sham and took lasting leadership there. He adds that this triumph endures — a group of Muslims will remain victorious upon the truth in Ash-Sham until 'Isa son of Maryam descends, ruling by the Law of Muhammad (peace be upon him), breaking the cross, killing the swine, banishing the jizyah, and accepting only Islam. Maarif ul Quran frames the verse against the earlier passages (98–101): having shown how hostile People of the Book schemed religious harm, this verse exposes their plans for material harm and carries the prophecy that they shall not succeed — proven true when, throughout the entire period of prophethood, they were unable to overcome the noble Companions and were instead disgraced, some paying jizyah, some killed, others exiled.
+
+**Reflection**
+When you stand firmly on Allah's truth, let no hostility shake you — the harm of the adversary is fleeting, but Allah's promise of support is sure.
 ## Personal Reflections
 
 
