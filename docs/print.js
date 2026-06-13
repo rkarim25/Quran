@@ -86,6 +86,19 @@
   const rosette = (n) => `<span class="pr-rosette" aria-hidden="true">${toArab(n)}</span>`;
   const pageMark = (page, juz) => `<div class="pr-pagemark"><span class="pr-pm-rule"></span><span class="pr-pm-text">Page ${page} · Juzʼ ${juz}</span><span class="pr-pm-rule"></span></div>`;
 
+  function trSrc(opt) { return opt.incMyTranslation ? "standard" : opt.transSource; }
+  function effAyah(ay, surah, opt) {
+    if (!(opt.incMyWords || opt.incMyTranslation || opt.incTadabbur)) return ay;
+    const merged = window.mergeLocalEdits ? window.mergeLocalEdits(ay, surah) : ay;
+    const out = Object.assign({}, ay);
+    if (opt.incMyTranslation && merged.translation) out.translation = merged.translation;
+    if (opt.incMyWords && merged.word_by_word) out.word_by_word = merged.word_by_word;
+    out._tadabbur = opt.incTadabbur && merged.personal_reflections && String(merged.personal_reflections).trim()
+      ? String(merged.personal_reflections).trim() : "";
+    return out;
+  }
+  const tadabburHtml = (t) => `<div class="pr-tadabbur"><span class="pr-tad-label">Tadabbur</span>${esc2(t)}</div>`;
+
   function surahHeader(meta, withBismillah, bism, sub) {
     return `<div class="pr-surah-head">
         <span class="pr-sh-orn" aria-hidden="true">۞</span>
@@ -103,13 +116,15 @@
     const byNum = {}; for (const a of sdata.ayahs) byNum[a.ayah] = a;
     let h = "";
     for (const num of group.ayahs) {
-      const ay = byNum[num]; if (!ay) continue;
+      const ay0 = byNum[num]; if (!ay0) continue;
+      const ay = effAyah(ay0, group.surah, opt);
       const pg = pageOf[group.surah + ":" + num];
       if (pg > state.lastPage) { h += pageMark(pg, juzOf[group.surah + ":" + num]); state.lastPage = pg; }
-      const ar = opt.arabic ? `<div class="pr-ar" dir="rtl" lang="ar">${esc2(arabicOf(ay))} ${rosette(num)}</div>` : `<div class="pr-aynum">${num}</div>`;
+      const ar = opt.arabic ? `<div class="pr-ar" dir="rtl" lang="ar">${esc2(arabicOf(ay0))} ${rosette(num)}</div>` : `<div class="pr-aynum">${num}</div>`;
       const tl = opt.translit ? `<div class="pr-tl" dir="ltr">${esc2(translitOf(ay))}</div>` : "";
-      const tr = opt.translation ? `<div class="pr-tr">${esc2(translationOf(ay, opt.transSource))}</div>` : "";
-      h += `<div class="pr-ayah">${ar}${tl}${tr}</div>`;
+      const tr = opt.translation ? `<div class="pr-tr">${esc2(translationOf(ay, trSrc(opt)))}</div>` : "";
+      const tad = ay._tadabbur ? tadabburHtml(ay._tadabbur) : "";
+      h += `<div class="pr-ayah">${ar}${tl}${tr}${tad}</div>`;
     }
     return h;
   }
@@ -118,7 +133,8 @@
     const byNum = {}; for (const a of sdata.ayahs) byNum[a.ayah] = a;
     let h = "";
     for (const num of group.ayahs) {
-      const ay = byNum[num]; if (!ay) continue;
+      const ay0 = byNum[num]; if (!ay0) continue;
+      const ay = effAyah(ay0, group.surah, opt);
       const pg = pageOf[group.surah + ":" + num];
       if (pg > state.lastPage) { h += pageMark(pg, juzOf[group.surah + ":" + num]); state.lastPage = pg; }
       const cells = words(ay).map((w) => {
@@ -126,9 +142,11 @@
         const tr = opt.translation && w.translation ? `<div class="pr-wbw-tr">${esc2(w.translation)}</div>` : "";
         return `<div class="pr-wbw-word"><div class="pr-wbw-ar" lang="ar">${esc2(clean(w.arabic))}</div>${tl}${tr}</div>`;
       }).join("");
-      const fullText = opt.translation ? translationOf(ay, opt.transSource) : "";
-      const full = fullText ? `<div class="pr-wbw-full${opt.transSource === "ai" ? " pr-ai" : ""}">${opt.transSource === "ai" ? '<span class="pr-ai-tag">AI</span> ' : ""}${esc2(fullText)}</div>` : "";
-      h += `<div class="pr-wbw-ayah"><div class="pr-wbw-num">${rosette(num)}</div><div class="pr-wbw-grid" dir="rtl">${cells}</div>${full}</div>`;
+      const useAi = opt.transSource === "ai" && !opt.incMyTranslation;
+      const fullText = opt.translation ? translationOf(ay, trSrc(opt)) : "";
+      const full = fullText ? `<div class="pr-wbw-full${useAi ? " pr-ai" : ""}">${useAi ? '<span class="pr-ai-tag">AI</span> ' : ""}${esc2(fullText)}</div>` : "";
+      const tad = ay._tadabbur ? tadabburHtml(ay._tadabbur) : "";
+      h += `<div class="pr-wbw-ayah"><div class="pr-wbw-num">${rosette(num)}</div><div class="pr-wbw-grid" dir="rtl">${cells}</div>${full}${tad}</div>`;
     }
     return h;
   }
@@ -151,8 +169,12 @@
       if (flow) h += `<div class="pr-block pr-tl-block" dir="ltr">${flow}</div>`;
     }
     if (opt.translation) {
-      const flow = group.ayahs.map((num) => { const ay = byNum[num]; const t = ay ? translationOf(ay, opt.transSource) : ""; return t ? `<span class="pr-seg"><sup class="pr-segnum">${num}</sup> ${esc2(t)}</span>` : ""; }).filter(Boolean).join(" ");
+      const flow = group.ayahs.map((num) => { const a0 = byNum[num]; if (!a0) return ""; const ay = effAyah(a0, group.surah, opt); const t = translationOf(ay, trSrc(opt)); return t ? `<span class="pr-seg"><sup class="pr-segnum">${num}</sup> ${esc2(t)}</span>` : ""; }).filter(Boolean).join(" ");
       if (flow) h += `<div class="pr-block pr-tr-block">${flow}</div>`;
+    }
+    if (opt.incTadabbur) {
+      const refl = group.ayahs.map((num) => { const a0 = byNum[num]; if (!a0) return ""; const ay = effAyah(a0, group.surah, opt); return ay._tadabbur ? `<div class="pr-tadabbur"><span class="pr-tad-label">Tadabbur ${num}</span>${esc2(ay._tadabbur)}</div>` : ""; }).filter(Boolean).join("");
+      if (refl) h += `<div class="pr-book-reflections">${refl}</div>`;
     }
     return h;
   }
@@ -232,6 +254,9 @@
       font: $("pr-font")?.value || "hafs",
       arSize: +($("pr-ar-size")?.value || 20),
       enSize: +($("pr-en-size")?.value || 12),
+      incMyTranslation: !!$("pr-my-trans")?.checked,
+      incMyWords: !!$("pr-my-words")?.checked,
+      incTadabbur: !!$("pr-my-tadabbur")?.checked,
     };
     if (!opt.arabic && !opt.translit && !opt.translation) opt.arabic = true;
     if (opt.layout === "wbw") opt.arabic = true; // word-by-word always shows Arabic
