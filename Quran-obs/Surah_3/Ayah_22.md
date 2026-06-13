@@ -94,9 +94,20 @@ They are the ones whose deeds are wasted in this dunya and the Akhirah. And they
 
 ## AI Tafsir
 
-**What this ayah teaches:** Verily, those who disbelieve in the Ayat of Allah and kill the Prophets without right, and kill those men who order just dealings, then announce to them a painful torment (21)They are those whose works will be lost in this world and in the Hereafter, and they will have no helpers .
+**Essence**
+Those who reject Allah's signs and murder His Prophets and the just have ruined every good deed they ever did — in this world and the next — and not one helper will stand for them.
 
-**Classical tafsir:** Ibn Kathir notes: Because of this whole set of their terrible deeds, verse 22 says that all their good deeds have gone waste both here and there, and when they are punished, they will find no one to assist them.
+**What it teaches**
+The ayah delivers the verdict on the crimes named just before it (3:21): *habitat a'maluhum* — their works are not merely diminished but rendered worthless (*habt* is good deeds collapsing into nothing), wasted in both the dunya and the akhirah; and *ma lahum min nasirin* — when the punishment comes, no helper or rescuer will be found to save these people from Allah.
+
+**The scholars**
+Ibn Kathir reads this as a chastisement of the People of the Book — here the Jews — for denying Allah's Ayat and Messengers out of sheer defiance, and for killing many Prophets who had only called them to the truth. To murder even "those men who order just dealings" is, he says, the worst kind of arrogance — and because they rejected the truth and were arrogant toward Allah's creation, He repaid them with humiliation in this life and a painful, degrading torment in the next. Maarif ul Quran fixes the same context: these are the Jews who rejected the Injil and the Qur'an, knowingly slaying the Prophets and killing "those who bid justice" — the people who taught moderation in deeds and morals.
+
+**From the Sunnah**
+Ibn Kathir grounds the charge of arrogance in the Prophet's ﷺ own definition: الْكِبْرُ بَطَرُ الْحَقِّ وَغَمْطُ النَّاسِ — "Kibr (arrogance) is refusing the truth and degrading people." This is the precise sin behind killing the Prophets and the just: truth was offered, and pride struck it down.
+
+**Reflection**
+Every soul builds a lifetime of deeds and assumes they are safe. This ayah warns that arrogance — refusing a truth you know, looking down on people who carry it — can quietly empty that whole account, here and hereafter. So receive correction before you resent it, and defend the one who speaks justice rather than silence him. On the Day the helpers fall away, the only One who can stand for you is the One whose signs you chose to honor.
 ## Personal Reflections
 
 

@@ -112,9 +112,13 @@ This is because they say, “The Fire will not touch us except for a few days.�
 
 ## AI Tafsir
 
-**What this ayah teaches:** But they elect to be in-different because they say and believe that the fire of Hell will not touch them except for a few days, after which, according to their supposition, they would be forgiven. They are being invited to the Book of Allah to settle their dispute, then a party of them turned away, and they are averse (23)This is because they say: "The Fire shall not touch us but for a number of d…
+**Essence** The People of the Book defy the truth because they cling to a fabricated hope — that Hellfire will touch them for only a few days — and that self-made lie is exactly what keeps them astray.
 
-**Classical tafsir:** Ibn Kathir notes: Chastising the People of the Book for Not Referring to the Book of Allah for Judgment Allah criticizes the Jews and Christians who claim to follow their Books, the Tawrah and the Injil, because when they are called to refer to these Books where Allah commanded them to follow Muha…
+**What it teaches** The ayah exposes the root of their turning away (3:23): they say "the Fire shall not touch us but for a number of days" (ayyaman ma'dudat), and behind that lies a deeper imagined entitlement — that being born into a chosen line guarantees escape. The phrase wa-gharrahum fi dinihim ma kanu yaftarun means their own invention (iftira', fabrication) deceived them in their religion — a punishment they fixed for themselves, not one Allah ever authorized.
+
+**The scholars** Ibn Kathir explains that what emboldened them to challenge and defy the truth was the false claim that Allah would punish them only seven days in the Fire — reckoning one day for every thousand years of this life — a notion he says he treated in Surat al-Baqarah. He stresses that "Allah did not grant them authority to support this claim"; they merely deceived themselves. Then comes Allah's warning: "How will it be when We gather them together on the Day about which there is no doubt... and each person will be paid in full what he has earned, and they will not be dealt with unjustly" (3:25) — the imagined short sentence collapses before real reckoning. Maarif ul Quran adds that the address is to the Prophet ﷺ and the reference is to the Torah, which would have sufficed them had they truly sought guidance; instead they chose indifference. Maarif calls this self-deception rooted in their boast that they were the progeny of prophets and would therefore escape Hellfire, and notes the Jews contended that since they worshipped the calf for forty days, their punishment, if any, would last only that long.
+
+**Reflection** Guard your heart against the comforting lie that sin is "only a few days" of consequence — measure yourself by Allah's Book, not by wishful self-assurance.
 ## Personal Reflections
 
 

@@ -134,9 +134,17 @@ Have you not seen those who were given a portion of the Scriptures? Yet when the
 
 ## AI Tafsir
 
-**What this ayah teaches:** They are being invited to the Book of Allah to settle their dispute, then a party of them turned away, and they are averse (23)This is because they say: "The Fire shall not touch us but for a number of days." And that which they used to invent in their religion has deceived them (24)How (will it be) when We gather them together on the Day about which there is no doubt (i.e.
+**Essence**
+When the People of the Book are summoned to their own Scripture to judge between them, a faction turns its back in willful aversion — fleeing the very Books they claim to revere.
 
-**Classical tafsir:** Ibn Kathir notes: Chastising the People of the Book for Not Referring to the Book of Allah for Judgment Allah criticizes the Jews and Christians who claim to follow their Books, the Tawrah and the Injil, because when they are called to refer to these Books where Allah commanded them to follow Muha…
+**What it teaches**
+Allah rebukes the Jews and Christians who claim to hold the Tawrah and Injil, yet when "invited to the Book of Allah" (kitab Allah) to settle their disputes, "a party of them" (fariq) turn away as mu'ridun, the heedless and averse. That they were "given a portion of the Scripture" (nasiban min al-kitab) sharpens the indictment: they possessed enough guidance, but chose indifference.
+
+**The scholars**
+Ibn Kathir titles this passage a chastisement of the People of the Book "for not referring to the Book of Allah for judgment." He clarifies the referent: they are called to "their Books, the Tawrah and the Injil," precisely because it is there that "Allah commanded them to follow Muhammad ﷺ" — and this is exactly why they flee. Their turning away, he says, sprang from sheer "defiance and rejection." What emboldened them to defy the truth was the false claim that "the Fire shall not touch us but for a number of days" — that Allah would punish them only seven days, a day for every thousand years of this life. This notion, Ibn Kathir stresses, is one "they have invented," for which "Allah did not grant them authority"; their self-deception kept them clinging to a false creed. Maarif ul Quran adds that the address is to the Holy Prophet ﷺ, with the Torah given to the Jews — which "would have been enough for them if they were really looking forward to guidance." Their indifference rests on imagining that, as the "progeny of prophets," they would escape Hellfire; Maarif records their reasoning that, having worshipped the calf for forty days, they would be punished, if at all, only for that span. Ibn Kathir closes with the looming reckoning — "How will it be when We gather them" on a Day "about which there is no doubt," when "each person will be paid in full what he has earned, and they will not be dealt with unjustly."
+
+**Reflection**
+The sharpest rebuke here is not that they rejected guidance, but that they fled the very Book they professed to honor. Measure your own heart: when Allah's ruling weighs against your wishes, do you run toward it — or quietly turn away while still claiming to believe?
 ## Personal Reflections
 
 
