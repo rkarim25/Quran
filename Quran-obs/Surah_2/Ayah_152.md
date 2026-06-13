@@ -129,11 +129,15 @@ remember Me and I will remember you. Be grateful to Me and do not be ungrateful.
 
 ## AI Tafsir
 
-**What this ayah teaches:** I will remember you, and be grateful to Me (for My countless favors on you) and never be ungrateful to Me . Let us add that Verse 152 means to say that if men "remember" Allah by obeying His commandments, He will "remember" them by granting His pardon and His rewards.
+**Essence** Turn toward Allah in remembrance and gratitude, and He turns toward you with His own remembrance, forgiveness, and reward.
 
-**Classical tafsir:** Ibn Kathir notes: Let us add that Verse 152 means to say that if men "remember" Allah by obeying His commandments, He will "remember" them by granting His pardon and His rewards.
+**What it teaches** "Remember Me, I will remember you; and be grateful to Me, and do not be ungrateful." Dhikr (remembrance) is rooted in the heart, with the tongue as its interpreter; shukr (gratitude) is to use Allah's favors in obedience, while kufr here is the ingratitude of denying or wasting them.
 
-**From the Sunnah:** that Allah's Messenger ﷺ said: (Musnad Ahmad) He replied that, according to the promise made in the Holy Qur'an, when a Muslim remembers Allah, He too remembers him, and thus everyone can know for himself that as soon as he turns to Allah and remembers Him, Allah too remembers him. (Sahih Muslim)
+**The scholars** Ibn Kathir places this command after Allah's reminder of His greatest bounty — sending the Prophet Muhammad (peace be upon him) to recite the verses, purify the people, and teach them the Book and the Hikmah (his Sunnah); Ibn 'Abbas said "Allah's favor means Muhammad," so the believers are commanded to affirm and appreciate it by remembering and thanking Him. Al-Hasan Al-Basri explained "Remember Me, I will remember you" as: remember Me in what I have commanded, and I will remember you with the reward and forgiveness I have compelled Myself to grant you. Ibn Kathir adds that gratitude brings increase, citing 14:7 — "If you give thanks, I will give you more." Maarif ul Quran, drawing on Qurtubi, teaches that mechanical dhikr of the tongue is not worthless but is perfected only when the heart is engaged; Said ibn Jubayr interpreted true dhikr as obedience itself, saying "He who has not obeyed Him has not remembered Him, even if he multiplies his prayers and glorification," while one who obeys in the lawful and unlawful has truly remembered Allah even if deficient in voluntary acts. Dhu al-Nun al-Misri said the one who truly remembers Allah forgets all else, and Allah then takes care of all his concerns; the Companion Mu'adh held that no deed rivals dhikr in winning safety from Allah's wrath.
+
+**From the Sunnah** Allah says: "O son of Adam, whoever mentions Me to himself, I mention him to Myself; whoever mentions Me in a gathering, I mention him in a better gathering. If you draw near to Me a hand span, I draw near to you a forearm's length; and if you come to Me walking, I come to you running" — these expressions of nearness being understood as befits Allah's majesty, without resemblance to creation and without asking how. (Recorded by Al-Bukhari; narrated by Imam Ahmad from Anas.) And in a narration from Abu Hurayrah, Allah says that so long as His servant keeps remembering Him and his lips keep moving in His remembrance, Allah is with him. (Cited in Maarif ul Quran on the authority of Abu Hurayrah; collection unnamed in the source.)
+
+**Reflection** Keep your tongue moist with His remembrance and your heart obedient in His commands — for the One you turn to is nearer than your turning, and answers the step with a stride.
 ## Personal Reflections
 
 

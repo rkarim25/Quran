@@ -189,11 +189,23 @@ Wherever you go, turn your face toward the Sacred Mosque. This is truth from you
 
 ## AI Tafsir
 
-**What this ayah teaches:** Thus Allah states that this is also the truth from Him that He likes and is pleased with.
+**Essence**
 
-**Classical tafsir:** Ibn Kathir notes: Verse 149 repeats the commandment with the addition of the phrase "from wheresoever you set out", which shows that the injunction now refers to the state of a journey.
+Wherever you stand on earth, turn your face toward the Sacred Mosque — for this qiblah is the very truth from your Lord, and nothing you do escapes Him.
 
-**From the Sunnah:** In the third command, Allah refutes the Jewish assertion that the Prophet faced their Qiblah ﷺ, as they knew in their Books that the Prophet ﷺ will later on be commanded to face the Qiblah of Ibrahim, the Ka'bah. Therefore, the People of the Book knew from the description of the Muslim Ummah that they would be ordered to face the Ka'bah. (Sahih Muslim)
+**What it teaches**
+
+The ayah commands facing the Masjid al-Haram (the Ka'bah) in prayer, adding the phrase "from wheresoever you start forth" (min haythu kharajta) to extend the ruling to the traveller, not only the resident. It seals the command with two assurances: that this direction is "the truth from your Lord" (al-haqq min rabbik) — not a human choice but divine decree — and that Allah is "never unaware" (bighafil) of what His servants do, so obedience is both obligatory and observed.
+
+**The scholars**
+
+Ibn Kathir places this within a sequence of commands to face the Sacred Mosque. In his reading 2:144 is the first — where Allah granted the Prophet ﷺ the qiblah he longed for — and 2:149 is "the second command," which "upgrades" the matter: Allah now declares the change to be "the truth from Him that He likes and is pleased with," no longer merely the answer to His Prophet's wish. The Prophet ﷺ had first faced Bayt al-Maqdis for a wisdom Allah intended, and obeyed; then he was turned to the qiblah of Ibrahim — the Ka'bah, "more respected and honored" — and obeyed again, "never engaging in the defiance of Allah even for an instant," with his Ummah imitating him.
+
+Maarif ul Quran, citing al-Qurtubi, notes that each repetition carries a fresh nuance: 2:144 addresses the worshipper at home, while 2:149 — by adding "from wheresoever you set out" — addresses the state of a journey. (Maarif draws the well-known argument that the Torah and Injil had foretold the Ka'bah as the Last Prophet's ﷺ qiblah from the following verse, 2:150, where it explains how the new command "takes away the ground from under the feet" of opponents, so that the just among the People of the Book can no longer raise this objection, though "the stubborn and malignant ones would still carp.") The closing words "Allah is not unaware of what you do" press home that the believer's concern is not the hostility or ridicule of people but faithful obedience to Allah's command.
+
+**Reflection**
+
+When a command is clearly from your Lord, obey at once and let the objections of others fall away — for the only thing that can truly harm you is turning from Allah, and He sees all you do.
 ## Personal Reflections
 
 
