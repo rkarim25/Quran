@@ -213,13 +213,15 @@ Safa and Marwah are among the symbols of Allah. Whoever performs Hajj or Umrah c
 
 ## AI Tafsir
 
-**Context:** "By Allah! It is not a sin if someone did not perform Tawaf around them." 'A'ishah said, "Worst is that which you said, O my nephew!
+**Essence** Safa and Marwah are sacred signposts of Allah, so the believer's brisk walk between them—once feared as a relic of idolatry—is honored as authentic worship in the footsteps of Hajar.
 
-**What this ayah teaches:** However, I heard learned men saying that all the people, except those whom 'A'ishah mentioned, said, 'Our Tawaf between these two hills is a practice of Jahiliyyah.
+**What it teaches** The ayah declares the two hills near the Ka'bah to be among the *sha'a'ir Allah*. *Sha'a'ir* is the plural of *sha'irah*—a sign, mark, or token—but Allah's signs are not signs in general: they are what He has determined to be the visible marks of the Islamic faith. The verse removes the Muslims' doubt that the *Sa'i* (the brisk walking back and forth) between the hills was tainted because pagans had walked it before them. Two key acts are named: *Hajj*, which lexically means to aim or intend and so becomes the pilgrimage one deliberately sets out to make to the House of Allah, and *'Umrah*, literally a *ziyarah* or visit, the lesser pilgrimage of *Tawaf* and *Sa'i*. The ayah closes by naming Allah *Shakir* (All-Appreciative—from the same root as His Name *Ash-Shakur*) and *'Alim* (All-Knowing), affirming that He rewards even the smallest deed in full.
 
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+**The scholars** Ibn Kathir relates from 'A'ishah that the verse was revealed about the Ansar, who in *Jahiliyyah* had entered *Ihlal* for the idol Manat at Mushallal and so hesitated to make *Tawaf* between Safa and Marwah; Ash-Sha'bi adds that the idol Isaf stood on As-Safa and Na'ilah on Al-Marwah, and people used to touch them. 'A'ishah corrected the reading that "no sin" meant Sa'i was optional, noting the wording would otherwise have to excuse abandoning it, and affirmed that the Messenger ﷺ "made it the Sunnah." Ibn Kathir traces the origin of Sa'i to Hajar's frantic search for water for Isma'il, when she stood humble, fearful and meek before Allah until Zamzam sprang forth—"a tasty food and a remedy for illness." So the pilgrim should recall his own neediness and ask Allah to change his situation from one of sin and error to one of perfection and forgiveness—the very providence granted to Hajar. On *Shakir 'Alim* he explains Allah's reward is immense for the little deed and He never gives insufficient reward. Maarif ul Quran stresses the "no sin" (*la junah*) answers a specific doubt and does not weaken Sa'i's obligation, since the malpractice of pagans cannot turn this Abrahamic tradition into sin; it records Sa'i as *mustahabb* per Imam Ahmad, *fard* per Malik and Shafi'i, and *wajib* per Abu Hanifah (requiring a goat in compensation if omitted). On "whoever does good voluntarily," Ibn Kathir cites views that it means extra rounds of Tawaf, voluntary 'Umrah or Hajj, or good works in general (the last attributed to Al-Hasan Al-Basri, as Ar-Razi notes).
 
-**From the Sunnah:** that he asked 'A'ishah about what Allah stated: (Musnad Ahmad) So they (during the Islamic era) asked Allah's Messenger ﷺ about it, saying, 'O Messenger of Allah!
+**From the Sunnah** The Prophet ﷺ recited this ayah as he approached Safa and declared he begins the Sa'i where Allah commanded him to begin—with Safa. (Sahih Muslim) He was also seen walking briskly in Sa'i, his garment twisted around his knees, reciting that Allah has prescribed the Sa'i upon the believers. (Musnad Ahmad)
+
+**Reflection** Walk your own Sa'i like Hajar—poor, hopeful, and certain that Allah notices and rewards the smallest sincere effort.
 ## Personal Reflections
 
 

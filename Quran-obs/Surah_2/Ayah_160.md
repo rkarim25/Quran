@@ -185,9 +185,17 @@ Except those who repent, mend their ways, and clarify the truth — to them I tu
 
 ## AI Tafsir
 
-**Context:** These Ayat sternly warn against those who hide the clear signs that the Messengers were sent with which guide to the correct path and beneficial guidance for the hearts, after Allah has made such aspects clear for His se…
+**Essence**
+However grave the sin of hiding Allah's truth, the door of His mercy stays open: whoever sincerely repents, mends their conduct, and openly proclaims what they once concealed is met not with the curse but with Allah's acceptance.
 
-**What this ayah teaches:** And I am the One Who accepts repentance, the ar-Rahim.) This Ayah also indicates that those who used to call to innovation, or even disbelief, and repent to Allah, then Allah will forgive them.
+**What it teaches**
+Coming straight after the curse pronounced in 2:159, this ayah is an exception (illā) that names three conditions of true return: tawba (tābū — to repent and turn back from the sin), islāh (aṣlaḥū — to reform and put one's conduct right), and bayān (bayyanū — to openly declare the very truth one had been hiding). Allah then seals the verse with two of His names: at-Tawwab, the One who ever turns toward His servants in acceptance, and ar-Rahim, the Most Merciful.
+
+**The scholars**
+Ibn Kathir explains that Allah here excludes from the punishment "all who repent to Him" — those who regret what they had been doing, correct their behavior, and thus explain to the people what they had been hiding. He adds that the verse even indicates that those who once "used to call to innovation, or even disbelief, and repent to Allah" will be forgiven, and that the names at-Tawwab and ar-Rahim affirm Allah as "the One Who accepts repentance, the Most Merciful." Maarif ul Quran sets the verse in its running context: several verses earlier (2:146) the People of the Book were charged with concealing the truth about the Prophet's ﷺ prophethood — recognizing him "as they recognize their own sons" yet hiding it knowingly. This closing verse warns those who not only conceal that truth but obstinately persist in doing so; and although "the ultimate fate of this senseless persistence" is all too obvious, "Allah Almighty still extends the promise of His mercy and forgiveness" to those who repent, reflect on what they did, retrace their steps, correct their attitude toward the divine truth, and — to demonstrate their changed stand — "come forward and state the truth clearly and publicly." The natural consequence is that they enter the fold of Islam, believing in Allah and His prophet, "which is the touchstone for any disbeliever's honest change of heart."
+
+**Reflection**
+The truth one has concealed is never beyond return: turn back to Allah, set your conduct right, and speak openly the truth you once withheld — trusting at-Tawwab ar-Rahim to receive you.
 ## Personal Reflections
 
 
