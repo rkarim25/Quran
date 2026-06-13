@@ -1754,3 +1754,22 @@ window.addEventListener("unhandledrejection", (e) => showBootError(e.reason));
 
 boot();
 window.addEventListener("hashchange", render);
+
+/* Floating scroll-to-top button (added enhancement) */
+(function () {
+  function init() {
+    if (document.getElementById("to-top")) return;
+    var btn = document.createElement("button");
+    btn.id = "to-top";
+    btn.type = "button";
+    btn.setAttribute("aria-label", "Scroll to top");
+    btn.textContent = "↑";
+    btn.addEventListener("click", function () { window.scrollTo({ top: 0, behavior: "smooth" }); });
+    document.body.appendChild(btn);
+    window.addEventListener("scroll", function () {
+      btn.classList.toggle("show", window.scrollY > 400);
+    }, { passive: true });
+  }
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
+  else init();
+})();

@@ -86,13 +86,13 @@
   const rosette = (n) => `<span class="pr-rosette" aria-hidden="true">${toArab(n)}</span>`;
   const pageMark = (page, juz) => `<div class="pr-pagemark"><span class="pr-pm-rule"></span><span class="pr-pm-text">Page ${page} · Juzʼ ${juz}</span><span class="pr-pm-rule"></span></div>`;
 
-  function surahHeader(meta, withBismillah, bism) {
+  function surahHeader(meta, withBismillah, bism, sub) {
     return `<div class="pr-surah-head">
         <span class="pr-sh-orn" aria-hidden="true">۞</span>
         <div class="pr-surah-names">
           <div class="pr-surah-ar" dir="rtl" lang="ar">${esc2(meta.name_arabic)}</div>
           <div class="pr-surah-en">${meta.id}. ${esc2(meta.name_simple)} — ${esc2(meta.translated_name)}</div>
-          <div class="pr-surah-sub">${meta.revelation_place === "makkah" ? "Makkan" : "Madinan"} · ${meta.verses_count} āyāt</div>
+          <div class="pr-surah-sub">${meta.revelation_place === "makkah" ? "Makkan" : "Madinan"} · ${meta.verses_count} āyāt${sub ? `  ·  ${esc2(sub)}` : ""}</div>
         </div>
         <span class="pr-sh-orn" aria-hidden="true">۞</span>
       </div>
@@ -186,7 +186,7 @@
       const sdata = await getSurah(g.surah);
       const withBismillah = g.ayahs[0] === 1 && g.surah !== 1 && g.surah !== 9;
       body += `<section class="pr-surah${first ? " pr-first" : ""}">`;
-      body += surahHeader(meta, withBismillah, bism);
+      body += surahHeader(meta, withBismillah, bism, first ? `${juzLabel} · ${pageLabel}` : "");
       if (opt.layout === "book") body += renderBookMode(g, sdata, opt, pageOf, state);
       else if (opt.layout === "wbw") body += await renderWbwMode(g, sdata, opt, pageOf, juzOf, state);
       else body += await renderAyahMode(g, sdata, opt, pageOf, juzOf, state);
@@ -195,22 +195,21 @@
     }
 
     const title = scopeTitle(opt, index);
+    const scopeCap = opt.scope !== "surah" ? `<div class="pr-scopecap">${esc2(title)}</div>` : "";
     return `<table class="pr-frame">
       <thead>
         <tr class="pr-edge-row"><td class="pr-edge"></td></tr>
-        <tr><td class="pr-band pr-band-top"><div class="pr-run pr-run-top"><span class="pr-run-ar" dir="rtl" lang="ar">${QURAN_AR}</span></div></td></tr>
+        <tr><td class="pr-geo pr-geo-top"></td></tr>
       </thead>
       <tfoot>
-        <tr><td class="pr-band pr-band-bot"><div class="pr-run pr-run-bot"><span>${esc2(juzLabel)}</span><span class="pr-run-dot">✦</span><span>Qurʼān — ${esc2(pageLabel)}</span></div></td></tr>
+        <tr><td class="pr-foot"><span>${esc2(juzLabel)}</span><span class="pr-run-dot">✦</span><span>Qurʼān — ${esc2(pageLabel)}</span></td></tr>
+        <tr><td class="pr-geo pr-geo-bot"></td></tr>
         <tr class="pr-edge-row"><td class="pr-edge"></td></tr>
       </tfoot>
       <tbody><tr><td class="pr-cell">
-        <div class="pr-cover">
-          <div class="pr-cover-orn" aria-hidden="true">۞</div>
-          <div class="pr-cover-title">${esc2(title)}</div>
-          <div class="pr-cover-sub">${esc2(juzLabel)} &nbsp;·&nbsp; ${esc2(pageLabel)}</div>
-        </div>
+        ${scopeCap}
         ${body}
+        <div class="pr-end" aria-hidden="true">۞</div>
       </td></tr></tbody>
     </table>`;
   }
@@ -231,6 +230,8 @@
       transSource: $("pr-trans-source")?.value || "standard",
       layout: document.querySelector('input[name="pr-layout"]:checked')?.value || "ayah",
       font: $("pr-font")?.value || "hafs",
+      arSize: +($("pr-ar-size")?.value || 20),
+      enSize: +($("pr-en-size")?.value || 12),
     };
     if (!opt.arabic && !opt.translit && !opt.translation) opt.arabic = true;
     if (opt.layout === "wbw") opt.arabic = true; // word-by-word always shows Arabic
@@ -275,6 +276,9 @@
       let root = $("print-root");
       if (!root) { root = document.createElement("div"); root.id = "print-root"; document.body.appendChild(root); }
       root.className = `layout-${opt.layout} pr-font-${opt.font}`;
+      root.style.setProperty("--pr-ar", opt.arSize + "pt");
+      root.style.setProperty("--pr-tr", opt.enSize + "pt");
+      root.style.setProperty("--pr-tl", (opt.enSize - 1.5) + "pt");
       root.innerHTML = html;
       const fam = opt.font === "indopak" ? '"PDMSSaleem"' : '"UthmanicHafs"';
       try { await document.fonts.load('32px ' + fam); await document.fonts.ready; } catch (_) {}
