@@ -221,9 +221,20 @@ Allah grants wisdom to whomever He wills. Whoever is granted wisdom has been giv
 
 ## AI Tafsir
 
-**Context:** (O you who believe! Spend of the good things which you have (legally) earned, and of that which We have produced from the earth for you, and do not aim at that which is bad to spend from it,) that it was revealed about t…
+**Essence**
+Wisdom is Allah's gift, bestowed on whom He wills, and to receive it is to be granted abundant good — yet only those of sound understanding take it to heart.
 
-**What this ayah teaches:** And know that Allah is Rich (free of all needs), and worthy of all praise (267)Shaytan threatens you with poverty and orders you to commit Fahsha' (evil deeds) whereas Allah promises you forgiveness from Himself and bounty, and Allah is All-Sufficient for His creatures' needs, All-Knower (268)He grants Hikmah to whom He wills, and he, to whom Hikmah is granted, is indeed grante…
+**What it teaches**
+Al-Hikmah (wisdom) is granted by Allah alone "to whom He wills," and whoever receives it has been given "khayran kathiran" — abundant good. The closing phrase "ulu al-albab" names those of sound, penetrating minds who truly grasp such reminders; the very word hikmah carries the sense of placing each thing precisely where it belongs and completing it with all its requisites.
+
+**The scholars**
+Ibn Kathir relates that Ali bin Abi Talhah reported Ibn 'Abbas defining al-hikmah here as "knowledge of the Qur'an" — its abrogating and abrogated verses, its plain and its less-plain passages, its lawful and unlawful, and its parables. On "wa ma yadhakkaru illa ulu al-albab," Ibn Kathir explains these are people of sound minds and good comprehension who understand the words of admonition and their implications. Maarif ul Quran notes that hikmah, the verbal noun of ihkam, means "to complete what is said or done with all its properties and requisites," and that commentators have given nearly thirty interpretations — the Qur'an, the Hadith, authentic knowledge, righteous deeds, understanding of religion, correctness of opinion, the fear of Allah — yet al-Bahr al-Muhit holds these are all close, differing only in interpretation. Maarif cites Imam Raghib al-Isfahani: when hikmah is used of Allah it denotes His comprehensive knowledge and solid creative excellence, and when used of a creature it means rightly-guided knowledge of what exists joined to action that matches it. Maarif favors the view that the ayah's hikmah covers all these meanings, since "granted abundant good" itself hints that wisdom encompasses much good.
+
+**From the Sunnah**
+The Prophet (peace be upon him) taught that there is no permissible envy except toward two: one whom Allah gives wealth and who spends it righteously, and one whom Allah grants hikmah who judges by it and teaches it to others — placing the gift of wisdom among the most enviable of blessings. (Imam Ahmad in his Musnad, from Ibn Mas'ud; also collected by Al-Bukhari, Muslim, An-Nasa'i, and Ibn Majah)
+
+**Reflection**
+The hadith pairs wisdom with wealth, yet only wisdom multiplies when shared and judged by. Seek understanding of Allah's Book as a trust to be spent, not hoarded — for the sign of ulu al-albab is a mind that admits the reminder and lets it reshape how one lives.
 ## Personal Reflections
 
 

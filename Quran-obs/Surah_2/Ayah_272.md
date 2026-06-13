@@ -282,13 +282,20 @@ You are not responsible for guiding people, O Prophet — Allah guides whomever 
 
 ## AI Tafsir
 
-**Context:** Abu 'Abdur-Rahman An-Nasa'i recorded that Ibn 'Abbas said that they, "Disliked giving charity to their polytheist relatives, but were later on allowed to give it to them when they inquired about this matter, and this Aya…
+**Essence**
+Your duty is to give for Allah's sake, not to control who is guided or who proves worthy of your charity — for whatever you spend returns to you in full.
 
-**What this ayah teaches:** And whatever you spend in good, it is for yourselves, when you spend not except seeking Allah's Face.
+**What it teaches**
+Allah lifts from His Prophet ﷺ the burden of guidance — "Not upon you is their guidance, but Allah guides whom He wills" — and turns the believer toward what is truly his responsibility: sincere spending. Charity given purely "seeking the Face of Allah" (ibtigha'a wajhi-Llah) benefits the giver above all, and "will be repaid in full, and you shall not be wronged."
 
-**Classical tafsir:** Ibn Kathir notes: The one who knows them not, thinks that they are rich because of their modesty.
+**The scholars**
+Ibn Kathir reports the occasion (via An-Nasa'i from Ibn 'Abbas): the Muslims disliked giving charity to their polytheist relatives, until they were permitted to do so and this ayah was revealed — establishing that a Muslim "is not charged with bringing non-Muslims to the right path" but should seek his own reward. He notes "it is for yourselves" mirrors "Whosoever does righteous good, it is for his ownself" (41:46). Al-Hasan al-Basri said that whenever the believer spends — even on himself — he seeks Allah's Face by it; and 'Ata' al-Khurasani explained that one who gives for Allah's sake "will not be asked" if his charity unintentionally reaches the righteous or the wicked, the deserving or the undeserving — for he is rewarded for his intention. Maarif ul Quran (Mufti Shafi) clarifies that the charity meant here is nafl (voluntary) sadaqah, which may be given to a dhimmi (a non-Muslim citizen of a Muslim state); the obligatory Zakah is not meant, being permissible only to a Muslim. No sadaqah at all may be given to a harbi, while a dhimmi may receive every kind, obligatory or voluntary.
 
-**From the Sunnah:** this Hadith from Ibn Mas'ud. (Musnad Ahmad) Abu Sa'id said, "I said to myself, 'I have a camel, Al-Yaqutah, and indeed, it is worth more than a small amount.' And I went back without asking the Prophet ﷺ for anything." This is the same wording for this Hadith collected by Abu Dawud and An-Nasa'i. (Sunan Abi Dawud, Sunan an-Nasa'i)
+**From the Sunnah**
+A man resolved to give charity and, without knowing, placed it in the hand of an adulteress, then a rich man, then a thief — and each time he praised Allah. He was told all were accepted: the charity might restrain the adulteress from sin, move the rich man to spend from what Allah gave him, and turn the thief from theft — proof that the sincere giver is rewarded for his intention even when the gift reaches an unworthy hand. (The Two Sahihs — Bukhari and Muslim)
+
+**Reflection**
+Give for Allah alone, then release the outcome — the worth of your charity rests on your sincerity, not on the one who receives it.
 ## Personal Reflections
 
 

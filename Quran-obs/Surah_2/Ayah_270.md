@@ -130,9 +130,17 @@ Whatever you spend in charity or vow to give — Allah knows it. The wrongdoers 
 
 ## AI Tafsir
 
-**What this ayah teaches:** And for the wrongdoers there are no helpers (270)If you disclose your Sadaqat (almsgiving), it is well; but if you conceal them and give them to the poor, that is better for you.
+**Essence** Every coin you give and every vow you bind is fully known to Allah, who rewards the sincere seeking His Face and leaves the wrongdoer with no one to shield him.
 
-**Classical tafsir:** Ibn Kathir notes: Therefore, you will gain goodness by your rank being raised, and your sins being forgiven.
+**What it teaches** Whatever nafaqah (spending in charity) you offer or nadhr (vow) you take on yourself, Allah knows it completely and recompenses it in full when it is done seeking His Face. But the zalimin — the unjust who disobey Him, reject His revelation, or worship others beside Him — will find min ansar, "no helpers," to save them from His anger and torment on the Day of Resurrection.
+
+**The scholars** Ibn Kathir explains that Allah has perfect knowledge of every good deed of His creation — charity and all kinds of vows — and rewards it tremendously, provided it is performed seeking His Face; "no helpers" means none will rescue the wrongdoer from Allah's torment. Maarif ul Quran clarifies the full legal scope of the general wording: "whatever spending" reaches every act of giving, including the flawed — spent in sin, mixed with hypocrisy, followed by reminding the receiver of the favor, or not halal — and "vow" covers every nadhr, monetary or physical, absolute or conditional, fulfilled or not. Allah knows them all and recompenses duly; this was disclosed so people would observe the limits and conditions, the zalimin being precisely the transgressors who do not.
+
+**On the next verse (2:271)** Ibn Kathir notes that concealing charity is generally better, for it guards against showing off and boasting; yet where disclosing carries an evident wisdom — such as moving others to imitate the good — disclosing becomes better. He illustrates this with the Prophet's ﷺ words that reciting the Qur'an aloud is like giving charity openly, and reciting it quietly is like giving charity in secret (the source names no collection for this report), then reinforces the merit of secrecy with the hadith below.
+
+**From the Sunnah** Among the seven whom Allah will shade on the Day when there is no shade but His is a man who gives charity so secretly that his left hand does not know what his right hand has given. (The Two Sahihs, from Abu Hurayrah)
+
+**Reflection** Give quietly for His Face alone, knowing the One who matters already sees — and never lean on any helper but Him.
 ## Personal Reflections
 
 
