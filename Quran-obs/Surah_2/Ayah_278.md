@@ -216,13 +216,15 @@ O believers — live with taqwa and give up whatever remains of interest, if you
 
 ## AI Tafsir
 
-**Context:** (if you indeed have been believers) believing in the trade that He allowed you and the prohibition of Riba. Zayd bin Aslam, Ibn Jurayj, Muqatil bin Hayyan and As-Suddi said that this Ayah was revealed about Bani 'Amr bin…
+**Essence** O believers, fear Allah and surrender whatever interest is still owed to you, for true faith and the consuming of riba cannot dwell at ease in one heart.
 
-**What this ayah teaches:** And if you do not do it, then take a notice of war from Allah and His Messenger.) They said, "We repent to Allah and abandon whatever is left of our Riba", and they all abandoned it This Ayah serves as a stern threat to those who continue to deal in Riba after Allah revealed this warning.
+**What it teaches** After riba (usurious interest) was forbidden, this ayah closes the door completely: even sums already lent out and still owed must be abandoned — only the original capital may be reclaimed. It opens with taqwa (a God-fearing awareness that Allah watches all you do) and seals with "if you are believers," tying obedience here to the soundness of one's iman (faith).
 
-**Classical tafsir:** Ibn Kathir notes: Zayd bin Aslam, Ibn Jurayj, Muqatil bin Hayyan and As-Suddi said that this Ayah was revealed about Bani 'Amr bin 'Umayr, a sub-tribe of Thaqif, and Bani Al-Mughirah, from the tribe of Bani Makhzum, between whom were outstanding transactions of Riba leftover from time of Jahiliyyah.
+**The scholars** Ibn Kathir explains "give up what remains of Riba" as: abandon the riba people still owe you the moment you hear this warning; and "if you indeed have been believers" means believing in the trade Allah allowed and the riba He forbade. He reports from Zayd bin Aslam, Ibn Jurayj, Muqatil bin Hayyan and As-Suddi that the ayah came down over Bani 'Amr bin 'Umayr (a sub-tribe of Thaqif), the creditors, and Bani Al-Mughirah (of Makhzum), the debtors, who had outstanding Jahiliyyah riba between them; when both embraced Islam, Bani Al-Mughirah said, "We do not pay Riba in Islam," and 'Attab bin Usayd, the Prophet's deputy over Makkah, wrote to him — whereupon this ayah was revealed. Maarif ul Quran notes the Qur'an's unique style: because forsaking matured riba weighs heavy on the soul, "Fear Allah" is placed before the command and "if you are believers" after it, signaling that faith itself requires Divine injunctions be obeyed and that acting otherwise negates true iman.
 
-**From the Sunnah:**…
+**From the Sunnah** This command was enacted at the Farewell Hajj, where the Prophet (peace be upon him) declared every case of Jahiliyyah riba completely annulled — the creditor takes back only his capital, without increase or decrease — and the first riba he cancelled was that of his own uncle Al-'Abbas bin 'Abdul-Muttalib. (Ibn Abi Hatim, cited by Ibn Kathir; the Prophet spoke these words explaining "you shall have your capital sums.")
+
+**Reflection** Let go of any gain you know is tainted before clinging to it — taqwa is proven not in words but in the wealth you are willing to release for Allah.
 ## Personal Reflections
 
 

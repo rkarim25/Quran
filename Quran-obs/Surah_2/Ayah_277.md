@@ -154,9 +154,21 @@ Those who believe, do righteous deeds, establish salah, and give zakat will have
 
 ## AI Tafsir
 
-**What this ayah teaches:** There is a connection between the beginning of the Ayah on Riba and what Allah ended it with.
+**Essence**
 
-**Classical tafsir:** Ibn Kathir notes: Because of their Riba, Allah will torment them in this life and punish them for it on the Day of Resurrection.
+After warning the devourers of ribā, Allah turns to the believers and promises them reward with their Lord, with no fear and no grief.
+
+**What it teaches**
+
+The ayah names four marks of true faith — inward īmān, righteous deeds (ʿamal ṣāliḥ), establishing the ṣalāh, and giving the zakāh — and meets them with a threefold promise: an assured reward "with their Lord" (ʿinda Rabbihim), no fear, and no grief. The mufassirūn read the two as complementary: no fear over what is to come, no grief over what is past.
+
+**The scholars**
+
+Ibn Kathir explains that Allah here praises those who believe in His Lordship, obey His commands, and thank and appreciate Him — those who are kind to His creation, establish prayer, and give the charity due on their wealth; Allah informs them of the honor He has prepared for them, and that they will be safe from the repercussions of the Day of Resurrection. He also draws the link to the ribā passage before it: those who consume ribā are not satisfied with the lawful, pure provision Allah gave them and reach instead for people's wealth by evil means, showing no appreciation for His bounty — so the grateful, charitable believer here stands as their exact opposite. Maʿārif ul-Qurʾān notes that, following the general style of the Qurʾān, the punishment and disgrace awaiting the consumers of ribā in the previous verse is paired here with the reward of peace and comfort in the Ākhirah for the believing, practising Muslims who are steadfast in ṣalāh and zakāh.
+
+**Reflection**
+
+Let your wealth move toward charity and your limbs toward prayer, and entrust the reward to your Lord — the heart that does so is freed from both fear and grief.
 ## Personal Reflections
 
 
