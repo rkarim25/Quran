@@ -118,13 +118,17 @@ He chooses whoever He wills to receive His mercy. And Allah is the Rabb of infin
 
 ## AI Tafsir
 
-**Context:** A party of the People of the Scripture wish to lead you astray. But they shall not lead astray anyone except themselves, and they perceive not (69)"O People of the Scripture!
+**Essence**
+Allah singles out whomever He wills for His mercy, and His bounty is immense — so the gift of faith and the final Messenger flows from His will and wisdom, beyond the envy of those who resent it.
 
-**What this ayah teaches:** That this envy is based on not knowing the nature, timing and wisdom of Allah's grace and mercy is explained in the later part of verse 73 and in verse 74.
+**What it teaches**
+The verb *yakhtassu* carries the sense of "selecting" or setting apart: from all creation, Allah designates for His mercy whomever He wills — here, the believers, whom He singled out for the greatest favor. He is *Dhul-Fadl al-'Azim*, the Owner of immense bounty, a grace so vast that its bestowal answers to His wisdom alone.
 
-**Classical tafsir:** Ibn Kathir notes: However, when the day ended, they would revert to their old religion so that the ignorant people would say, "They reverted to their old religion because they uncovered some shortcomings in the Islamic religion." This is why they said next.
+**The scholars**
+Ibn Kathir explains that this ayah tells the believers Allah "has endowed you with tremendous virtue, in that He honored your Prophet Muhammad ﷺ over all other prophets, and by directing you to the best Shari'ah there is." It answers the plot of the People of the Scripture, who out of envy told their own, "Do not believe that anyone can receive like that which you have received," fearing the Muslims would become their equals or turn the truth into proof against them. On the preceding words, "All the bounty is in the Hand of Allah; He grants to whom He wills," Ibn Kathir notes that Allah "gives faith, knowledge and sound comprehension to whomever He wills," with perfect wisdom and unequivocal proof. Maarif ul Quran identifies the root of their hostility as envy — "they envy Muslims as to why they were given the Scripture, or they envy their supremacy in religious argument" — and adds that this envy "is based on not knowing the nature, timing and wisdom of Allah's grace and mercy," which verses 73 and 74 lay bare.
 
-**From the Sunnah:** The Envy the Jews Feel Towards Muslims; Their Wicked Plots Against Muslims This is a wicked plan from the People of the Book to deceive Muslims who are weak in the religion.
+**Reflection**
+Envy, the tafsir teaches, grows from not grasping the wisdom behind Allah's gifts. So when His grace falls on another, the cure is to trust the wisdom you cannot yet see — for the Owner of immense bounty apportions His mercy by a knowledge that never errs.
 ## Personal Reflections
 
 

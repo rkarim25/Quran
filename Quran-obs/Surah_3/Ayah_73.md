@@ -219,11 +219,21 @@ And only believe those who follow your deen.” Say, “Surely, true guidance is
 
 ## AI Tafsir
 
-**Context:** A party of the People of the Scripture wish to lead you astray. But they shall not lead astray anyone except themselves, and they perceive not (69)"O People of the Scripture!
+**Essence**
 
-**What this ayah teaches:** However, when the day ended, they would revert to their old religion so that the ignorant people would say, "They reverted to their old religion because they uncovered some shortcomings in the Islamic religion." This is why they said next.
+Against the Jews' envious scheme to keep guidance for themselves, Allah declares that true guidance and all bounty belong to Him alone, and He bestows them on whomever He wills.
 
-**Classical tafsir:** Ibn Kathir notes: However, when the day ended, they would revert to their old religion so that the ignorant people would say, "They reverted to their old religion because they uncovered some shortcomings in the Islamic religion." This is why they said next.
+**What it teaches**
+
+A faction of the People of the Scripture plotted to mislead the Muslims, urging one another to confide their knowledge only "to those who follow your religion" (li-man tabi'a dinakum), lest a Muslim receive the like of what they were given or defeat them in argument before their Lord. Allah answers each whisper twice with "Say" (qul): true al-huda (guidance) is huda Allah — Allah's own guidance — and al-fadl (bounty: faith, knowledge, sound understanding) is biyadi-llah, in Allah's Hand, given to whom He wills, for He is Wasi' (All-Encompassing in giving) and 'Alim (All-Knowing).
+
+**The scholars**
+
+Ibn Kathir explains the plot: weak Muslims were the target, so these Jews would feign belief at the dawn prayer and revert by day's end, hoping the ignorant would conclude they had "uncovered shortcomings in the Islamic religion" — Mujahid (via Ibn Abi Najih) confirms they prayed at dawn and disbelieved by evening to misguide people. They also warned one another not to disclose their scriptural knowledge — especially the description of the unlettered Prophet (peace be upon him) found in their Books — lest Muslims use it as proof against them before Allah. On "all bounty is in the Hand of Allah," Ibn Kathir affirms the Hand as befits Allah and draws its import: every affair is under His control, so He grants faith, knowledge, and comprehension to whomever He wills; the closing verse shows He has honored the believers immensely by sending the Prophet (peace be upon him) above all prophets and guiding them to the best Shari'ah. Maarif ul Quran identifies the root cause as envy (hasad) — they envy that the Muslims were given the Scripture and excel in religious argument — and stresses that since guidance is in Allah's control, He keeps steadfast whomever He wills, so "no one can succeed in weaning such a person away from it with any trick, plan or enticement whatsoever."
+
+**Reflection**
+
+When others scheme or sneer to shake your faith, rest in the truth that guidance is a gift from Allah's Hand alone — no plot can steal what He chooses to give you.
 ## Personal Reflections
 
 

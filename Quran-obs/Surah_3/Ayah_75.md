@@ -234,11 +234,21 @@ There are some among the People of the Book who, if entrusted with a stack of go
 
 ## AI Tafsir
 
-**What this ayah teaches:** Among the People of the Scripture is he who, if entrusted with a Qintar (a great amount of wealth), will readily pay it back; and among them there is he who, if entrusted with a single silver coin, will not repay it unless you constantly stand demanding, because they say: "There is no blame on us to betray and take the properties of the illiterates (Arabs)." But they tell a lie…
+**Essence**
+Allah exposes the treachery of those who devour others' wealth while cloaking it in religion, and reminds that He loves only those who keep faith and fear Him.
 
-**Classical tafsir:** Ibn Kathir notes: If this 'some' refers to those among the people of the Book who had embraced Islam, praising them poses no problems.
+**What it teaches**
+Among the People of the Book are two types: the trustworthy one who returns even a qintar (a great heap of wealth) entrusted to him, and the treacherous one who will not return even a single dinar unless you keep "standing over him" (ma dumta 'alayhi qa'iman) — endlessly demanding it. Their excuse — that "there is no blame on us concerning the unlettered ones (the Arabs)" — is condemned as a lie they invented and attributed to Allah knowingly.
 
-**From the Sunnah:** This included disbelieving in the verses of Allah, confusing the truth with what is false, concealing the truth and conspiring to mislead Muslim believers. (Sahih Muslim) Praising good qualities in some non-Muslim is correct (Sahih Muslim)
+**The scholars**
+Ibn Kathir explains that Allah warns the believers not to be deceived. The argument runs in both directions: the one trusted with a qintar would obviously return anything smaller, while the one who betrays over a single dinar would betray anything greater. What drove them to withhold rights was their claim that their religion permitted consuming the property of the unlettered Arabs — yet Allah never made that wealth lawful for them unless they had a right to it, so it was a pure lie and word of misguidance invented against Allah.
+
+Maarif ul Quran notes the fairness of the verse: praising the trustworthy even among non-Muslims is valid, because praising a good deed does not mean it is accepted by Allah — Islam appreciates excellence even in an adversary rather than yielding to prejudice. Mufti Shafi adds that such a person benefits from his good repute in this world, and holds that he also receives a reduction in his punishment in the Hereafter. This latter point is a disputed matter of the unseen: the dominant Ahl al-Sunnah position is that a disbeliever's good deeds benefit him only in this life, since Allah says of the disbelievers "nor will its torment be lightened for them" (35:36); any reduction is treated by al-Qurtubi as a rare exception limited to specific narrated cases, not a general rule.
+
+From the words "unless you keep standing over him," Imam Abu Hanifah deduced that a lender retains the right to keep pursuing the borrower until repaid (cited via Qurtubi). The following ayah answers all this: "Yes — whoever fulfills his pledge and fears Allah (taqwa), then Allah loves the Muttaqin."
+
+**Reflection**
+A faith twisted into license to wrong outsiders is itself the lie this verse condemns; true taqwa shows precisely where no one can compel it — in the trust repaid when the owner has no power to demand it.
 ## Personal Reflections
 
 
