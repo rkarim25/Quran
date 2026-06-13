@@ -140,13 +140,15 @@ They traded guidance for misguidance and forgiveness for punishment. How persist
 
 ## AI Tafsir
 
-**Context:** (That is because Allah has sent down the Book (the Qur'an) in truth.) means, they deserve this painful torment because Allah has revealed Books to His Messenger Muhammad ﷺ, and the Prophets before him, and these revelati…
+**Essence** These are people who struck the worst bargain in existence — trading away guidance, forgiveness, and Paradise to purchase misguidance, torment, and the Fire.
 
-**What this ayah teaches:** So how bold they are (for evil deeds which will push them) to the Fire (175)That is because Allah has sent down the Book (the Qur'an) in truth.
+**What it teaches** The astonishing center of the ayah is its final cry: "fama asbarahum 'ala an-nar" — "how bold/persistent they are toward the Fire." It is an expression of wonder. The torment they have earned is so severe that onlookers will be amazed anyone could bear it, yet these people march toward it as if undeterred — having paid for it with the very guidance that could have saved them.
 
-**Classical tafsir:** Ibn Kathir notes: Verse 175 tells us that a person who changes the injunction of Shari'ah in his greed for worldly gains, he should know that these worldly gains he consumes are like embers of fire he is storing in his stomach because that is the ultimate end of his deeds.
+**The scholars** Ibn Kathir explains that the "guidance" they rejected was the truth about the Prophet Muhammad ﷺ — his description, the news of his prophethood, and the glad tidings of his coming foretold by earlier Prophets in their own Books. Out of fear of losing their authority and standing among the Arabs, the Jewish scholars concealed this, "and they sold their souls for this little profit," preferring misguidance by denying and rejecting him. By "torment at the price of forgiveness," he says they preferred punishment over forgiveness because of the sins they committed; and "how bold they are" means their torment will be so painful that those who see it will be amazed they can endure it — "We seek refuge with Allah from this evil end." Maarif ul Quran turns this into a warning to every scholar of this Ummah: one who alters the injunctions of the Shari'ah out of greed for worldly gain is in reality storing embers of fire in his stomach, for "unlawful wealth is, in reality, the very fire of Hell," unsensed now but appearing as fire after death.
 
-**From the Sunnah:** Thereafter, those whom the Jews feared would follow the Prophet ﷺ, believed in him and followed him anyway, and so they became his supporters against them.
+**From the Sunnah** Ibn Kathir cites an authentic Hadith to illustrate the ayah's image of "eating fire": the Prophet ﷺ said that "those who eat or drink in golden or silver plates are filling their stomachs with the fire of Jahannam." A specific forbidden act, indulged for worldly luxury in this world, becomes literal fire in the belly in the next. (authentic Hadith; collection unnamed in source)
+
+**Reflection** Knowledge is a trust before it is a possession. The moment we bend what we know for a fee, a title, or the crowd's approval, we have not gained the world — we have swallowed fire, and merely cannot feel the heat yet.
 ## Personal Reflections
 
 
