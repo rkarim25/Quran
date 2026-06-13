@@ -485,15 +485,15 @@ When Abraham and Ishmael were raising the foundations of the House, they prayed,
 
 ## AI Tafsir
 
-**Essence** Even while raising the foundations of Allah's House, the two prophets did not pause in pride — they begged Allah to accept the work from their hands.
+**Essence** Ibrahim (peace be upon him) and Isma'il raised the very House of Allah stone by stone, and yet — at the height of this supreme act of obedience — their lips moved not in pride but in trembling petition: "Our Lord, accept from us."
 
-**What it teaches** What they sought was not the monument but its acceptance. The same lips that laid the stones prayed "Rabbana taqabbal minna" — "Our Lord, accept this from us" — turning a feat of building into an act of worship. They name Allah al-Sami', the All-Hearing, and al-'Alim, the All-Knowing: He hears the prayer and knows the heart that offers it.
+**What it teaches** The al-qawa'id (foundations) are the physical base-stones of the Ka'bah, and yarfa'u (raising) catches both men in the act — hands working, hearts aching for acceptance. They invoke al-Sami' (the All-Hearing) and al-'Alim (the All-Knowing): He receives the whispered plea and sees the sincerity — or its absence — behind every deed. Nothing is hidden from Him, neither word nor motive.
 
-**The scholars** Ibn Kathir notes that though they were prophets doing a great good, they still asked Allah to accept it — the way of believers who "give that which they give, with their hearts full of fear" (23:60) that it not be refused. He cites Wuhayb bin Al-Ward, who wept: "O Khalil of Ar-Rahman! You raise the foundations of His House, yet fear He will not accept it from you?" Maarif ul Quran adds that at the very moment he might have relaxed into self-congratulation, the Friend of Allah instead recognized Allah's Majesty — knowing no creature can worship its Creator as is His due, and so prayed humbly that Allah accept the little he was able to offer.
+**The scholars** Ibn Kathir records from al-Bukhari (via Ibn Abbas) that as Ibrahim built and Isma'il passed him the stones, they went around the rising walls repeating this very du'a. Separately, Ibn Kathir — citing Ibn Abi Hatim — narrates that Wuhayb bin al-Ward wept upon reciting the ayah and said: "O Khalil of Ar-Rahman! You raise the foundations of the House of Ar-Rahman, yet you are afraid that He will not accept it from you?" Ibn Kathir ties this to Surah al-Mu'minun (23:60): those who give what they give while "their hearts are full of fear" — this is the mark of sincere believers. Maarif ul Quran adds: Ibrahim recognized Allah's Majesty and knew that no creature can worship its Creator as is His due, so even the greatest deed must be presented with humility, not self-congratulation — and so he prayed that Allah accept the little he was able to offer.
 
-**From the Sunnah** As Ibrahim built and Isma'il handed him the stones, the two kept repeating the words of this ayah — "Our Lord, accept this service from us, You are the All-Hearing, the All-Knowing." (Al-Bukhari)
+**From the Sunnah** As Ibrahim built the Ka'bah and Isma'il handed him the stones, both went around the rising structure repeating: "Our Lord, accept this service from us; You are the All-Hearing, the All-Knowing." (Al-Bukhari)
 
-**Reflection** The two greatest builders raising the holiest house still asked only to be accepted. Seal your best work not with pride in what you made, but with a prayer that it be received.
+**Reflection** When a believer has done their utmost — built something lasting, sacrificed greatly, obeyed at real cost — the Khalil's example teaches that the finishing word is not "I have done well" but "Ya Rabb, taqabbal."
 ## Personal Reflections
 
 

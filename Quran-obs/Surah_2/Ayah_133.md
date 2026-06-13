@@ -214,13 +214,20 @@ Or were you present when death approached Jacob? He asked his children, "Who wil
 
 ## AI Tafsir
 
-**Context:** (And We did not send any Messenger before you (O Muhammad ﷺ)[but We revealed to him (saying): La ilaha illa Ana [none has the right to be worshipped but I (Allah)], so worship Me (alone and none else))(21:25).
+**Essence**
+As death approached Ya'qub, his last concern was not wealth but what his sons would worship after him — and they answered with pure tawhid.
 
-**What this ayah teaches:** When death came to Jacob, he advised his children to worship Allah alone without partners. Ya'qub's Will and Testament to His Children upon His Death This Ayah contains Allah's criticism of the Arab pagans among the offspring of Isma'il as well as the those who reject the truth among the Children of Israel Jacob the son of Isaac, the son of Ibrahim.
+**What it teaches**
+The verse opens as a challenge — "Or were you witnesses when death approached Ya'qub?" — aimed at those who lean on descent from the prophets as a religious credential. A dying father's only anxiety is creed: "What will you worship after me?" The sons reply that they worship his Ilah and the Ilah of his fathers Ibrahim, Isma'il, and Ishaq — "One Ilah," which Ibn Kathir glosses as singling Him out in divinity and associating nothing with Him — and to Him they are submitted in obedience.
 
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+**The scholars**
+Ibn Kathir: the verse rebukes both the Arab pagans of Isma'il's line and the disbelievers among the Children of Israel — lineage saves no one without faith and deeds. Naming Isma'il, who was Ya'qub's uncle, shows the Arabs call an uncle "father." From this, Ibn Kathir notes, Abu Bakr argued (in Al-Bukhari, narrated from Ibn 'Abbas and Ibn Az-Zubayr) that a grandfather inherits as a father — though he records that this was disputed: Malik, Ash-Shafi'i, and Ahmad, and a view ascribed to 'Umar, 'Uthman, and 'Ali, divided the estate between grandfather and brothers. Maarif draws the heart of it: even prophets love their children, yet the one inheritance they strove to leave was Iman.
 
-**From the Sunnah:** when his son dies), as Abu Bakr asserted, according to Al-Bukhari who narrated Abu Bakr's statement from Ibn 'Abbas and Ibn Az-Zubayr.
+**From the Sunnah**
+Ibn Kathir lists this among several supporting texts (no collection named in the source), as a saying of the Prophet ﷺ: "We, the Prophets, are brothers with different mothers, but the same religion" — the prophets' din is one in essence, though their laws differed.
+
+**Reflection**
+Maarif asks whether it is reasonable to strain every nerve shielding a child from the heat of the sun while leaving him exposed to the Fire — for the Qur'an commands, "guard yourselves and your families against a Fire." Bequeath them faith before fortune.
 ## Personal Reflections
 
 

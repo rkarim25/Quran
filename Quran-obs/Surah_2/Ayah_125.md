@@ -575,19 +575,19 @@ When We made the Sacred House a place of return and security for people — take
 ## AI Tafsir
 
 **Essence**
-Allah made the Ka'bah a place mankind returns to again and again and a sanctuary of safety, charging Ibrahim and Isma'il to purify it for those who worship there.
+Allah declares the Sacred House a perpetual centre of return (*mathaba*) and inviolable sanctuary (*amn*), commands that Ibrahim's standing-place be made a site of prayer, and charges Ibrahim and Isma'il — through a divine covenant (*'ahd*) — to purify it for every worshipper who circles, retreats, bows, or prostrates.
 
 **What it teaches**
-The House is called *mathaba* — from the root "to return" — a place hearts are drawn back to endlessly, and *amn*, a sanctuary where bloodshed and revenge are forbidden. *Maqam Ibrahim*, the standing-place where Ibrahim stood while raising the House, is appointed as a site of prayer. The covenant to "purify My House" means cleansing it for those who circle it (*tawaf*), seclude themselves in devotion (*i'tikaf*), and bow and prostrate in *Salah*.
+Three terms structure the ayah. *Mathaba* (from the root "to return") denotes a place one comes back to repeatedly — the bare force of the root is motion homeward, a gravitational pull. *Amn* is a peace so absolute that even the Age of Ignorance preserved it: bloodshed was forbidden inside the Haram's precincts, and a man would not take revenge even on his father's killer if found there. *'Ahd* means divine command, as Al-Hasan al-Basri and Ibn Jurayj explain. The command *tahhira baytiya* means, as Ibn 'Abbas specified, removal of idols; Mujahid and Sa'id bin Jubayr add the fuller scope: idols, sexual activity, false witness, and every form of sin.
 
 **The scholars**
-Ibn Kathir relates that Al-Hasan Al-Basri understood "purify" as Allah's command to remove every filth; Ibn 'Abbas said it means "purify it from the idols," while Mujahid and Sa'id bin Jubayr added "from idols, sexual activity, false witness and sins of all kinds." Maarif ul Quran extends "My House" to all mosques, teaching purity is both outward and inward — cleansing the heart of shirk, kufr, greed and pride. On *mathaba*, Mujahid (via Al-Qurtubi) explains one never has enough of the Ka'bah, returning each time with greater longing.
+Ibn Kathir records that Sa'id bin Jubayr distinguished the *ta'ifin* (circumambulators — pilgrims from afar) from the *'akifin* (those in i'tikaf — area residents), confirmed by Qatadah and al-Rabi' bin Anas. Maarif ul Quran notes the command addressed both Ibrahim and Isma'il, who by then could share fully in the rebuilding. Ibn Kathir grounds the extension of "My House" to all mosques in Q.24:36, and Maarif reinforces that the required purity is both outward (dirt, filth) and inward (shirk, pride, hypocrisy). As for the pull of Makkah: Mujahid said one never tires of visiting but returns with greater longing each time, and certain scholars have noted that renewed longing to return marks a Hajj received well.
 
 **From the Sunnah**
-The masjids exist for the very purpose they were built — the worship of Allah alone (stated by the Prophet ﷺ). And Allah made Makkah a sanctuary the Day He created the heavens and the earth, sacred until the Day of Resurrection (The Two Sahihs, from Ibn 'Abbas). It is Allah, not the people, who made it sacred, so no believer may shed blood there or cut its trees (Al-Bukhari and Muslim, from Abu Shurayh).
+At his last Hajj, the Prophet (peace be upon him) enacted this ayah in real time: after completing tawaf and reaching the Maqam Ibrahim, he recited the verse commanding the standing-place to be taken as a site of prayer — then immediately offered two rak'ahs behind the stone with his face towards the Ka'bah. (Sahih Muslim, as cited in Maarif ul Quran)
 
 **Reflection**
-Keep returning to Allah's House with longing — and guard its sanctity as Allah Himself ordained it.
+Every act of worship in Allah's House — a single circuit, an hour of i'tikaf, a rak'ah of prayer — answers a covenant older than the city itself. Approach it, and every impurity of heart, not only of body, must be left at the door.
 ## Personal Reflections
 
 

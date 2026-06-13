@@ -161,13 +161,15 @@ That was a community that has passed. For them is what they earned; for you is w
 
 ## AI Tafsir
 
-**Context:** (And We did not send any Messenger before you (O Muhammad ﷺ)[but We revealed to him (saying): La ilaha illa Ana [none has the right to be worshipped but I (Allah)], so worship Me (alone and none else))(21:25).
+**Essence** That nation has gone; it keeps what it earned and you keep what you earned. Kinship to the righteous saves no one who arrives empty of his own deeds.
 
-**What this ayah teaches:** This Ayah is used as evidence that the grandfather is called a father and inherits, rather than the brothers (i.e.
+**What it teaches** The verse turns on one word — *kasaba*, to earn by one's own effort — and it cuts both ways. "Laha ma kasabat" seals the ancestors' account: their credit is theirs, not a balance you can draw on. "Wa la tus'aluna 'amma kanu ya'maluna" frees you in return — neither funded by their merit nor charged with their sins. Each soul stands alone before its own ledger.
 
-**Classical tafsir:** Ibn Kathir notes: Verse 134 tells us that the good deeds of one's forefathers shall not suffice one, if one has not been performing good deeds oneself, and that, similarly, one shall not have to suffer for the misdeeds of one's forefathers, if one's own account is clean.
+**The scholars** Ibn Kathir draws the forward edge: your link to the Prophets or righteous forebears will not benefit you unless you yourself do good — "they have their deeds and you have yours." Maarif ul Quran draws the converse — one does not suffer for forefathers' misdeeds when one's own account is clean (concluding from this, on a point where classical scholars differed, that children of the mushrikin who die before maturity are not punished for their parents' disbelief), and Maarif alone turns the verse against the Jews' claim that ancestral merit guarantees Paradise.
 
-**From the Sunnah:** when his son dies), as Abu Bakr asserted, according to Al-Bukhari who narrated Abu Bakr's statement from Ibn 'Abbas and Ibn Az-Zubayr.
+**From the Sunnah** "Whoever was slowed by his deeds will not be sped by his lineage" (narrated by Ibn Kathir and Maarif ul Quran). And addressing his own clan, the Prophet ﷺ warned: "O Banu Hashim, let it not be that others come on the Day of Judgment with their good deeds while you come bearing only your kinship to me — for I cannot save you from the wrath of Allah" (Maarif ul Quran).
+
+**Reflection** No name, no bloodline, no borrowed sanctity will answer when you are asked. Only what your own hands sent ahead will rise to speak for you. Send something ahead today.
 ## Personal Reflections
 
 

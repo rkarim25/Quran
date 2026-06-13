@@ -570,19 +570,19 @@ When Abraham prayed, "My Rabb, make this city secure and provide its people with
 ## AI Tafsir
 
 **Essence**
-Ibrahim begs Allah to make Makkah secure and to feed it with fruits, restricting his plea to the believers. Allah answers in His own words, extending provision even to the disbeliever, with brief enjoyment before the Fire.
+Ibrahim (peace be upon him) petitioned his Lord for Makkah's security and provision, restricting his plea to the believers. Allah answered with wider justice: even the disbeliever receives brief worldly enjoyment before being driven irresistibly to the Fire.
 
 **What it teaches**
-Ibrahim opens with "Rabb" (Lord, the One who nurtures), asking that the barren valley become a *baladan aminan*, a city safe from terror, and that its people receive *thamarat* (fruits, sustenance). Out of reverence he names only the believers. But Allah answers that He will provide even for the one who disbelieves (*kafara*), letting him enjoy a little (*qalil*) before driving him to the torment of the Fire, and worst is that destination.
+Ibrahim addressed his Lord as "Rabb" — the One who nurtures — and named only the believers in his plea. Allah's answer disclosed that He sustains all creation: "Would I create something and not provide for it?" He grants the disbeliever a little delight (qalil), then drives him with inescapable force (aḍṭarruhu) to the torment of the Fire. Wabi'sa al-maṣir — what an evil destination — is the disbeliever's end specifically; the verse never universalises the destination, only the provision.
 
 **The scholars**
-Ibn Kathir records that Allah accepted the prayer ("Whoever enters it attains security," 3:97) and made Makkah a sanctuary the Day He created the heavens and earth. Ibn 'Abbas, Ubayy bin Ka'b, Mujahid and 'Ikrimah note "As for him who disbelieves..." are Allah's own words, not Ibrahim's: He sustains believer and disbeliever alike — "Would I create something and not provide for it?" — citing "On each, these and those, We bestow from the bounties of your Lord" (17:20). Maarif ul Quran adds that since the land was uncultivable, Allah made nearby Taif fertile so fruits would be drawn to Makkah, and that Ibrahim asked for imported provision so his descendants would stay steadfast in prayer rather than absorbed in farming.
+Ubayy ibn Ka'b, Mujahid, and 'Ikrimah held that "As for him who disbelieves…" are Allah's own words. Ibn 'Abbas explained: "Ibrahim asked for sustenance for the believers only. Allah revealed, 'I will also provide for the disbelievers, just as I shall provide for the believers. Would I create something and not provide for it? I shall allow them little delight, then force them to the torment of the Fire.'" Maarif ul-Quran notes that Ibrahim's prompt self-correction — restricting his prayer after 2:124 — reflects the rectitude of the Friend of Allah; in His generosity, Allah expanded the answer beyond what was asked.
 
 **From the Sunnah**
-Allah made Makkah a sanctuary the Day He created the heavens and earth, sacred until the Day of Resurrection — among its rulings, its game is not chased and its trees not cut (The Two Sahihs). And none is more forbearing than Allah toward abuse: people attribute a son to Him, yet He still grants them sustenance and health (The Two Sahihs).
+Allah made Makkah a sanctuary the Day He created the heavens and earth. Its thorny shrubs may not be uprooted, its game not chased, lost property not picked up except by one who announces it publicly, and its herbage not cut (Al-Bukhari and Muslim, from Ibn 'Abbas). | None is more patient than Allah when hearing abuse — people attribute a son to Him, yet He grants them sustenance and health (Al-Bukhari and Muslim). | Allah gives respite to the unjust person; but when He seizes him, He never lets go (a Sahih collection).
 
 **Reflection**
-Eat from Allah's table in gratitude, never mistaking His patient provision for approval, for worldly ease is brief and the Hereafter belongs to the pious.
+Never mistake Allah's patient provision for approval; worldly ease is brief, and the Hereafter belongs to those who believe.
 ## What it teaches
 Ibrahim opens with "Rabb" (Lord, the One who nurtures), asking that the barren valley become a *baladan aminan*, a city safe from terror, and that its people receive *thamarat* (fruits, sustenance). Out of reverence he names only the believers. But Allah answers that He will provide even for the one who disbelieves (*kafara*), letting him enjoy a little (*qalil*) before driving him to the torment of the Fire, and worst is that destination.
 

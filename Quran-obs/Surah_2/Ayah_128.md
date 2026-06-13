@@ -502,15 +502,15 @@ Our Rabb, make us submit to You, and from our descendants a community that submi
 
 ## AI Tafsir
 
-**Essence** As they raise the Ka'bah's foundations, Ibrahim and Isma'il beg not for stone and glory but for hearts wholly surrendered to Allah — for themselves, for a nation of their descendants, and in humble turning to Him.
+**Essence** Ibrahim and Isma'il, while laying the very stones of the Ka'bah, turn from builders to beggars — asking Allah to grant them the Islam their hands were already enacting, to reveal the Manasik of His House, and to receive their repentance through Al-Tawwab and Al-Rahim.
 
-**What it teaches** "Make us muslimayn (submitted) to You" pleads to be made wholly obedient and to associate none with Allah — islam here is the inward surrender of tawhid, not the outward act alone. They ask Him to show their manasik (the rites of Hajj and the places they are performed) and to "turn to us" (tub 'alayna), invoking At-Tawwab (who accepts repentance) and Ar-Rahim (Most Merciful).
+**What it teaches** Islam here is not a label but active, total submission — muslimayni laka, "both submissive to You alone." The Manasik (the rites of Hajj and the sacred sites: 'Arafah, Muzdalifah, Mina) needed to be revealed; arina ("show us") encompasses seeing with both eyes and heart. The closing invocation of Al-Tawwab with Al-Rahim signals that even the greatest act of worship is incomplete without Allah's turning toward the worshipper.
 
-**The scholars** Ibn Jarir reads the dua as: "Make us submit to Your command and obedience and associate none with You." To both petitions — for themselves and for an obedient nation from their offspring — 'Ikrimah reports Allah answered, "I shall do that." Maarif ul Quran marvels that two prophets of lifelong obedience still pray to be made obedient: the deeper one knows the Divine Majesty, the more one feels one has fallen short of what is due. It adds that manasik means both the rites and their places, and that "show us" (arina) is answered through eye and heart alike. Ibn Kathir notes that longing for offspring who worship Allah alone is a sign of complete love of Allah, and that Jibril walked Ibrahim through the rites — Safa, Marwah, Mina, the Jamarat where he cast pebbles at Iblis, then 'Arafat.
+**The scholars** Ibn Kathir records Wuhayb bin Al-Ward weeping at this passage and crying: "O Khalil of Ar-Rahman! You raise the foundations of the House of Ar-Rahman, yet you are afraid He will not accept it from you?" — the mark of believers who perform the greatest deeds yet tremble lest they be rejected (cf. 23:60). Ibn Jarir reads the supplication as: "Make us submit to Your command and obedience and not associate anyone with You in obedience or worship." According to 'Ikrimah's interpretation, to each petition Allah answered: "I shall do that." Maarif ul Quran reflects that the deeper one grows in knowledge of Divine Majesty, the more one feels one has fallen short; prophetic love cares more for a child's standing before Allah than for physical comfort. Allah answered the prayer: even through the Jahiliyyah, men from Ibrahim's line — Zayd ibn 'Amr bin Nufayl, Quss ibn Sa'idah — remained firm in tawhid (Al-Bahr al-Muhit, cited in Maarif ul Quran).
 
-**From the Sunnah** When the son of Adam dies, his deeds end except three: an ongoing charity, knowledge benefited from, and a righteous child who supplicates for him — the very kind of enduring deed Ibrahim sought in praying for righteous offspring. (Sahih Muslim)
+**From the Sunnah** "When the son of Adam dies, his deeds end except for three deeds: an ongoing charity, a knowledge that is being benefited from and a righteous son who supplicates (to Allah) for him." (Sahih Muslim, narrated by Abu Hurayrah)
 
-**Reflection** Pray to be made faithful — never assume you already are — and let your deepest care for your children be the faith they carry, not only the comfort they enjoy.
+**Reflection** The builder of the greatest House on earth begged Allah to accept his bricks. If trembling is the posture of Ibrahim, certainty is the posture of arrogance — build, then bow.
 ## Personal Reflections
 
 

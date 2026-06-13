@@ -196,13 +196,15 @@ Say, "We believe in Allah and what was sent down to us, and what was sent to Abr
 
 ## AI Tafsir
 
-**Context:** Allah directed His believing servants to believe in what He sent down to them through His Messenger Muhammad ﷺ and in what was revealed to the previous Prophets in general.
+**Essence** The believer's whole creed in one breath: we believe in Allah and in everything He has ever revealed, drawing no line between His messengers — accepting all, rejecting none — and to Him alone we submit.
 
-**What this ayah teaches:** Allah directed the believers to refrain from differentiating between the Prophets and to believe in them all.
+**What it teaches** Allah commands the believers to declare faith in Him and in all He revealed: to Ibrahim, Isma'il, Ishaq, Ya'qub, Al-Asbat (identified in the tafsir as Ya'qub's twelve sons), Musa, 'Isa, and every unnamed prophet. To "make no distinction" (la nufarriqu) is to hold them all as true messengers — never the disbeliever's stance of believing in some while rejecting others. "We are muslimun": wholly surrendered to Allah.
 
-**Classical tafsir:** Ibn Kathir notes: we submit to Allah))(3:52) during the two (voluntary) Rak'at before Fajr." Abu Al-'Aliyah, Ar-Rabi' and Qatadah said, "Al-Asbat are the twelve sons of Jacob, and each one of them had an Ummah of people from his descendants.
+**The scholars** Ibn Kathir contrasts this with those Allah condemns who say "We believe in some but reject others" and seek a way in between — "they are in truth disbelievers" (4:150-151). On Al-Asbat: Abu Al-'Aliyah, Ar-Rabi' and Qatadah said they are Ya'qub's twelve sons, the offspring of each forming a tribe; Al-Khalil bin Ahmad and Al-Qurtubi read them as the tribes of the Children of Israel, among whom Allah raised many prophets. Sulayman bin Habib added that we believe in the original Torah and Injil but do not implement them. Maarif ul Quran gives the context: the Jews and Christians were urging Muslims to adopt their religion, and this is Allah's answer — those earlier Shari'ahs, though instituted by Allah, are now abrogated, so we follow the Prophet's ﷺ Shari'ah alone while still affirming every prophet.
 
-**From the Sunnah:** The Muslim believes in all that Allah revealed and all the Prophets (Sahih Muslim) Each of these two groups, instead of accepting Islam, used to ask the Muslims to accept its own religion in order to find true guidance. (Sahih Muslim)
+**From the Sunnah** On the People of the Book, the Prophet ﷺ taught the believers neither to affirm nor deny what they relate, but to say: "We believe in Allah and in what was sent down to us." (Al-Bukhari) Ibn 'Abbas reported that the Prophet ﷺ would mostly recite this ayah, with 3:52, in the two voluntary Rak'at before Fajr. (Muslim, Abu Dawud and An-Nasa'i)
+
+**Reflection** Let your creed be whole: honor every prophet Allah sent, hold to the undistorted worship of Him alone, and submit your life entirely to the One who sent them all.
 ## Personal Reflections
 
 
