@@ -208,11 +208,25 @@ All food was lawful for the children of Israel, except what Israel made unlawful
 
 ## AI Tafsir
 
-**What this ayah teaches:** However, a vow or pledge which renders things unlawful is, in reality, an oath which is not permissible in our Shari` ah.
+**Essence**
 
-**Classical tafsir:** Ibn Kathir notes: Therefore, let the Jews consider what Allah legislated for 'Isa and if such legislation falls under the category of abrogation or not.
+Before the Torah, all food was lawful to the Children of Israel except what Israel — Ya'qub — forbade himself by a personal vow. The ayah thus refutes, from the Jews' own Book, their claim that camel meat had been unlawful since Nuh and Ibrahim: it was Ya'qub's vow, not an eternal law — proof that abrogation is real.
 
-**From the Sunnah:** Ask me about whatever you wish. (Musnad Ahmad) Was not the best food to him camel meat and the best drink camel milk?' They said, 'Yes, by Allah.' The Messenger ﷺ said, 'O Allah, be Witness against them.' The Prophet ﷺ then said, 'I ask you by Allah, other than Whom there is no deity (worthy of worship), W…
+**What it teaches**
+
+When the Prophet ﷺ affirmed he followed the way of Ibrahim, the Jews objected that he ate camel meat and drank its milk, alleging these had been unlawful since the days of Nuh and Ibrahim "to the point that this unlawfulness reached us." Allah answered that all *ta'am* (food) was once lawful to Bani Isra'il; the camel was forbidden only by Israel's own vow. "Bring the Torah and recite it, if you are truthful" is a direct challenge: their own scripture confirms this, proving that abrogation (*Naskh*) of earlier law occurs.
+
+**The scholars**
+
+Ibn Kathir records that a group of Jews questioned the Prophet ﷺ on four matters; on the first he asked them by Him who sent down the Torah whether Israel, when gravely ill, had vowed to forbid himself the best food and drink *if* Allah cured him — and whether his best food was camel meat and drink camel milk; they affirmed it (Imam Ahmad, from Ibn 'Abbas).
+
+He then gives two purposes for the ayah. First, Ya'qub forbade himself the most delightful things for Allah's sake — permissible under his Law — fittingly placed after "you shall not attain Al-Birr until you spend of what you love" (3:92); yet in our Shari'ah we spend from what we love in obedience, *not* forbid what Allah has made lawful. Second, having refuted false Christian claims about 'Isa, Allah refutes the Jews by showing abrogation already occurred within the Torah: after Nuh left the ark all animals were lawful, then the camel was forbidden through Israel; Adam's children could intermarry, then it was forbidden; Ibrahim's Law allowed a man female servants as companions alongside his wife, as Ibrahim took Hajar while married to Sarah; and, as a further instance, two sisters could once be married at once, as Ya'qub did — both later forbidden in the Torah. So whoever then "invents a lie against Allah" (3:94) — claiming the Sabbath and Torah are eternal and that no Prophet would come after — these are the wrongdoers.
+
+Maarif ul Quran, citing Ruh al-Ma'ani on the authority of Wahidi and al-Kalbi, records the same objection. Separately, on the authentic report of Ibn 'Abbas (Al-Hakim and al-Tirmidhi via Ruh al-Ma'ani), Ya'qub suffered sciatica and vowed to give up his most beloved food — camel meat — if cured; the prohibition then continued among Bani Isra'il as a divine injunction. Maarif draws the fiqh distinction: a vow may make a permissible act obligatory, but a vow that forbids the lawful is in reality an oath that does not bind — one must break it and offer *kaffarah*, as in "Why do you forbid what Allah has made lawful for you?" (66:1).
+
+**Reflection**
+
+Ya'qub's vow was no sin — he abstained for Allah, and his Law permitted it. The error came later, when his descendants froze one man's private devotion into a timeless law and refused the living guidance that loosened it. Inherited piety can harden into a cage we mistake for the religion itself. So receive what Allah permits as His mercy without manufacturing prohibitions from your own zeal, and stay supple before His command — willing to be corrected even where it unsettles what you inherited.
 ## Personal Reflections
 
 
