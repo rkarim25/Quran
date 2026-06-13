@@ -230,11 +230,15 @@ If you divorce before consummation but after setting a dowry, pay half unless th
 
 ## AI Tafsir
 
-**What this ayah teaches:** The Wife gets half of Her Mahr if She is divorced before the Marriage is consummated This honorable Ayah is not a continuation of the Mut'ah (gift) that was mentioned in the previous Ayah (i.e., divorce before the marriage is consummated).
+**Essence** When a marriage ends before consummation yet a dowry was already fixed, Allah obliges half the dowry to be paid, then lifts hearts higher: to graciously forgo is nearer to taqwa.
 
-**Classical tafsir:** Ibn Kathir notes: And the act of forgiving has been declared more merit-worthy, and closer to Tagwa (the sense of being responsible to Allah, commonly rendered as piety or fear or righteousness in absence of an exact equivalent); because this forgiveness symbolically indicates that the severance o…
+**What it teaches** If a man divorces his wife before touching her but after a Mahr (dowry) was appointed, he owes her half of it. Yet either party may waive their share: the wife may forgo her half, or the husband, "the one in whose hand is the marriage tie," may release the full amount. To remit is aqrabu lit-taqwa — nearer to taqwa, the living sense of being responsible to Allah — and the parting believers are told not to forget al-fadl, gracious generosity, between them.
 
-**From the Sunnah:** his grandfather narrated that the Prophet ﷺ said:
+**The scholars** Ibn Kathir clarifies this is not a continuation of the mut'ah (parting gift) of the previous ayah but a distinct ruling: paying half the appointed Mahr here is "the agreed practice according to the scholars." On "unless they agree to remit it," he cites Ibn 'Abbas (via As-Suddi from Abu Salih) — "Unless the wife forfeits her right" — and notes a wide chain of salaf concurring (Shurayh, Sa'id bin Musayyib, 'Ikrimah, Mujahid, Ash-Sha'bi, Al-Hasan, Nafi', Qatadah, Jabir bin Zayd, 'Ata' Al-Khurasani, Ad-Dahhak, Az-Zuhri, Muqatil bin Hayyan, Ibn Sirin, Ar-Rabi' bin Anas and As-Suddi). On "the one in whose hand is the marriage tie," Ibn Jarir and Ibn Kathir identify the husband, since it is up to him to continue or end the marriage. On "nearer to taqwa," Ibn 'Abbas and Ash-Sha'bi hold the one who forgives is nearer to taqwa. Maarif ul Quran explains that because Arabs often paid the dowry at the marriage itself, the husband's not reclaiming his half is itself an act of forgiving — and such magnanimity in severing the bond is the very objective of the Shari'ah; al-fadl, says Sa'id, means kindness and generosity. The closing "Allah is al-Basir, All-Seer" means, per Ibn Kathir, none of your affairs escapes His perfect sight, and He will reward each according to his deeds.
+
+**From the Sunnah** 'Amr ibn Shu'ayb related from his grandfather that the Prophet ﷺ said: "The husband is he who has the marriage tie." So the authority to continue or end the marriage rests with the husband, and — as Ibn Kathir draws from it — the wife's guardian may not give away any of her rightful dues, above all the dowry, without her permission. (Reported by Ibn Abu Hatim and Ibn Marduwyah, the view chosen by Ibn Jarir (Ibn Kathir); also in Darqutni from 'Amr ibn Shu'ayb (Qurtubi))
+
+**Reflection** Even as a bond is loosed, let your hand be the one that gives rather than grasps — for graciousness in parting is closer to Allah than insisting on your due.
 ## Personal Reflections
 
 
