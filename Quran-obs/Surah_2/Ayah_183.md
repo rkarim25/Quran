@@ -170,11 +170,15 @@ O believers — fasting is prescribed for you as it was for those before you, so
 
 ## AI Tafsir
 
-**What this ayah teaches:** Fasting is prescribed for you as it was prescribed for those before you, that you may acquire Taqwa (183)Fast for a fixed number of days, but if any of you is ill or on a journey, the same number (should be made up) from other days.
+**Essence** Allah obligates the believers to fast — a discipline He also placed on the nations before them — for one summit purpose: that they may attain taqwa, God-consciousness.
 
-**Classical tafsir:** Ibn Kathir notes: It indicates that although there may be some inconvenience in fasting but the same inconvenience was also faced by the earlier communities.
+**What it teaches** Sawm (fasting) is to abstain from eating, drinking, and sexual relations continuously from dawn to sunset, joined to an intention to fast; eat even a minute before sunset, or fast all day without intending it, and there is no valid fast. It is an act of worship, a pillar and sign of Islam. The closing words la'allakum tattaqun name its aim: taqwa.
 
-**From the Sunnah:** Allah mentioned that He has ordained fasting for Muslims just as He ordained it for those before them, they being an example for them in that, so they should vigorously perform this obligation more obediently than the previous nations.
+**The scholars** Ibn Kathir explains that Allah ordered this Ummah to fast — sincerely for Allah alone — because fasting purifies the souls and cleanses them of the evil that may mix with them; and, separately, because it cleanses the body and narrows the paths of Shaytan. He adds that the earlier nations are set as an example, so this Ummah should perform the obligation more obediently than those before them. Maarif ul Quran holds that "those before you" is general, embracing every Ummah of every prophet from Adam, peace be upon him, to the last of the Prophets (peace be upon him) — so fasting, like Salah, was enjoined on all. On la'allakum tattaqun it observes that fasting grows in a person a power to control his desires, "which is really the foundation of Taqwa," the Qur'an's special term tentatively rendered as "fear of Allah, abstinence, and the warding of evil." Naming past communities both magnifies fasting and brings psychological comfort — an inconvenience shared by many is easier to bear (Ruh al-Ma'ani), though this likeness does not mean the earlier fasts matched ours in number or timing; in fact they differed.
+
+**From the Sunnah** "O young people! Whoever amongst you can afford marriage, let him marry. Whoever cannot afford it, let him fast, for it will be a shield (wijaa) for him." Ibn Kathir cites this narration of the Sahihayn to show that fasting curbs desire and narrows the paths of Shaytan. (Al-Bukhari and Muslim)
+
+**Reflection** Enter each fast not merely to forgo food, but to train the soul to refuse what Allah forbids — letting hunger forge the self-mastery that is the root of taqwa.
 ## Personal Reflections
 
 

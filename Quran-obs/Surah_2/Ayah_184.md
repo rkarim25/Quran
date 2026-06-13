@@ -269,11 +269,13 @@ Fast for a counted number of days. Whoever is ill or on a journey should make up
 
 ## AI Tafsir
 
-**What this ayah teaches:** Right from here comes the ruling that anyone who intends to stay out for fifteen days, not at one place but at different places and towns, he shall continue to remain in the status of a 'traveller' and thereby shall continue to enjoy the concession of being 'on a journey' because he is in the state of ` ala safarin.
+**Essence** Allah prescribes fasting for a fixed, manageable number of days, lifting the burden from the sick and the traveler and, in Islam's early days, granting a ransom-option that He then abrogated into the firm command to fast.
 
-**Classical tafsir:** Ibn Kathir notes: The word 'sick' used here refers to a person who cannot fast without an unbearable hardship or has strong apprehension that his illness will be aggravated.
+**What it teaches** "A prescribed number of days" (ayyaman ma'dudat) means the fast is limited so it never overwhelms the heart's resolve; the one who is ill or "on a journey" ('ala safarin) makes up an equal count from "other days" (qada'). The fidyah — feeding a miskin (poor person) — was first a choice for the able, later abrogated for the healthy but kept for those with no hope of fasting.
 
-**From the Sunnah:** Allah mentioned that He has ordained fasting for Muslims just as He ordained it for those before them, they being an example for them in that, so they should vigorously perform this obligation more obediently than the previous nations.
+**The scholars** Ibn Kathir explains that fasting "purifies the souls" and "narrows the paths of Shaytan," and that Allah set it for "a fixed number of days, so that it does not become hard on the hearts." On "those who can fast with difficulty," he records the disagreement: Salamah bin Al-Akwa' (via Al-Bukhari) reported the fidyah-choice was abrogated by 2:185 for the healthy resident, and Ibn 'Umar (via Nafi') likewise said "It was abrogated"; but Ibn 'Abbas insisted "(This Ayah) was not abrogated, it is for the old man and the old woman who are able to fast with difficulty" — they feed a poor person and need not make up the days. Al-Bukhari followed this, citing Anas, who in old age "fed some bread and meat to a poor person for each day he did not fast"; Ibn Kathir adds the same applies to pregnant and breast-feeding women who fear for themselves or their children. Maarif ul Quran clarifies that "sick" means one who cannot fast "without an unbearable hardship" or fears his illness will worsen, and that 'ala safarin signals an actual embarked journey, not a few miles — Imam Abu Hanifah fixing it at a three-day distance. Maarif also notes qada' may be done consecutively or with gaps, and that one who dies before recovering owes neither qada' nor fidyah.
+
+**Reflection** Receive Allah's concessions as mercy, not loophole — fast when you can, make up what you miss, and remember "to fast is better for you."
 ## Personal Reflections
 
 

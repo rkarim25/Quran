@@ -227,11 +227,20 @@ Whoever fears bias or sin in a will and brings about a fair settlement among the
 
 ## AI Tafsir
 
-**What this ayah teaches:** In such cases, the executive of the will and testament is allowed to correct the errors and to replace the unjust items in the will with a better solution, so that both the Islamic law and what the dead person had wished for are respected and observed.
+**Essence**
+If someone sees a will heading toward unfairness or sin, stepping in to set it right is not the forbidden tampering condemned in the previous verse — it is righteousness that Allah, All-Forgiving, Most Merciful, rewards.
 
-**Classical tafsir:** Ibn Kathir notes: But, in commonly accepted usage, it refers to what must be done after death.
+**What it teaches**
+The verse turns to the one who "fears" (khāfa) — perceives or strongly suspects — that a testator has fallen into janaf (an unintended error or bias) or ithm (deliberate sin) in distributing his estate; whoever then mediates a fair settlement (aṣlaḥa) between the heirs "bears no sin." The previous verse condemned anyone who alters a will; this verse carves out an exception, so that correcting a flawed bequest is excluded from that condemnation. Allah seals the ruling with His names al-Ghafūr (the Oft-Forgiving) and al-Raḥīm (the Most Merciful).
 
-**From the Sunnah:** For this reason we see the Hadith narrated in the Sunan and other books that 'Amr bin Kharijah said: I heard Allah's Messenger ﷺ saying in a speech: that Muhammad bin Sirin said: Ibn 'Abbas recited Surat Al-Baqarah (chapter 2 in the Qur'an) until he reached the Ayah: (Musnad Ahmad)
+**The scholars**
+Ibn Kathir relates that Ibn 'Abbas, Abu al-'Aliyah, Mujahid, ad-Dahhak, ar-Rabi' bin Anas and as-Suddi glossed janaf as "error." Such errors include a will that quietly lets one heir gain more than his rightful share — for instance, ordering that a certain item be sold to him, or including a daughter's son so as to swell the daughter's portion. These may arise, Ibn Kathir explains, "out of the kindness of the heart without thinking about the consequences," or from sinful intent; in either case the executor may correct them and replace the unjust terms with a better solution, "so that both the Islamic law and what the dead person had wished for are respected." Because this reform is not the blameworthy "altering" of the prior verse, Allah mentioned it specifically to exclude it from that prohibition. Maarif ul Quran sharpens what is and is not still binding here: of the will's original injunctions, the duty to bequeath to one's fixed heirs was abrogated by the verse of inheritance (4:7), yet the cap that no one may will away more than one-third — and never to the injury of the rightful heirs — still stands; it is precisely a bequest breaching these limits that the reconciler is correcting.
+
+**From the Sunnah**
+A man may do the deeds of the righteous for seventy years, but if he commits injustice when dictating his will, his deeds are sealed with the worst of them and he enters the Fire; and a man may do the deeds of the wicked for seventy years, yet if he dictates a just will, his deeds are sealed with the best of them and he enters Paradise. (Reported by Abdur-Razzaq, from Abu Hurayrah, who pointed the reader to Allah's words, "These are the limits ordained by Allah, so do not transgress them.")
+
+**Reflection**
+Guard fairness in your own final wishes, and when you can mend an injustice forming in another's, step in as a reconciler — for Allah counts that mercy, not meddling.
 ## Personal Reflections
 
 
