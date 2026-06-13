@@ -235,13 +235,25 @@ When you left your home in the early morning to position those who have iman in 
 
 ## AI Tafsir
 
-**Context:** (When two parties from among you were about to lose heart) was revealed about us, [the two Muslim tribes of] Bani Harithah and Bani Salamah.
+**Essence**
 
-**What this ayah teaches:** And (remember) when you left your household in the morning to post the believers at their stations for the battle (of Uhud). It will be recalled that the Qurayshi those who reject the truth had brought women with them so that they could excite them to fight and, in case of a retreat, put them to shame and exhort them to go back into the battle.
+Recall the dawn when the Prophet ﷺ, leaving his own family behind to obey Allah's command, drew up the believers rank by rank for the battle of Uhud — under the watch of a Lord who hears every word and knows every hidden thought.
 
-**Classical tafsir:** Ibn Kathir notes: 'Ikrimah said that Uhud occurred in the middle of the month of Shawwal, and Allah knows best.
+**What it teaches**
 
-**From the Sunnah:** The Messenger of Allah ﷺ led the Friday prayer and when he finished with it, he performed the funeral prayer for a man from Bani An-Najjar called Malik bin 'Amr.
+"And when you left early in the morning (ghadawta) from your household to post the believers (tubawwi'u al-mu'minin maqa'ida) at their stations for battle" recalls a single vivid moment before Uhud: the Prophet ﷺ assigning each fighter his position. The closing names, "wallahu Sami'un 'Alimun" (All-Hearing, All-Knowing), seal the scene — Allah heard everything spoken on that field and knew what hearts concealed.
+
+**The scholars**
+
+Ibn Kathir, following Ibn 'Abbas, Al-Hasan, Qatadah, As-Suddi and the majority, places these verses at Uhud (Shawwal, year 3 of Hijrah). He explains tubawwi'u as the Prophet ﷺ "designating them to various positions, dividing the army to the left and right sides and placing them wherever you command," and reads "All-Hearer, All-Knower" as: "He hears what you say and knows what you conceal in your hearts." Maarif ul Quran draws guidance from a principle of the Qur'an's miraculous style: it does not relate any event in full detail, but takes up only those details that carry implied points of guidance. So the word ghadawta fixes the time — dawn of the 7th of Shawwal — and "min ahlika" shows the Prophet ﷺ was with his family yet left them behind, even though the attack was aimed at Madinah itself: when Allah commands, love of home must never hold a believer back from obedience. Maarif also frames the wider passage: the temporary setback at Uhud came from a lapse in sabr and taqwa, and "All-Hearing, All-Knowing" warns that everything said by the two parties on that field — and the war's outcome itself — was wholly within Allah's knowledge.
+
+**From the Sunnah**
+
+On the verse of this passage, "When two parties among you were about to lose heart," Jabir ibn 'Abdullah said it was revealed about his people — the two Muslim tribes of Bani Harithah and Bani Salamah — and that he would not wish it unrevealed, because Allah continued, "but Allah was their Wali (Supporter and Protector)." (Al-Bukhari, also recorded by Muslim)
+
+**Reflection**
+
+Set your own affairs in order with care, then leave the outcome to the One who hears and knows all — for victory descends from Allah, never from numbers or weapons.
 ## Personal Reflections
 
 
