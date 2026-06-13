@@ -1,0 +1,1188 @@
+{
+ "1": {
+  "1": {
+   "meaning": "An oath sworn \"by the sky / heaven.\" The opening wa- is the \"oath wāw\" (wāw al-qasam), a particle Arabic uses to swear by something, lending weight and solemnity to what follows — here Allah swears by the heaven itself. The noun samā' denotes the sky, the canopy overhead, the heavens. So the whole phrase means \"By the heaven!\" — a solemn vow that calls the sky to witness (as in 86:1, \"By the heaven and the nightly star!\").",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "by (oath particle, wāw al-qasam — 'I swear by')"
+    },
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the (definite article; its 'l' assimilates into the following 's')"
+    },
+    {
+     "ar": "سَّمَآء",
+     "tr": "samā'",
+     "en": "sky / heaven"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "genitive '-i' ending (required by the oath particle)"
+    }
+   ],
+   "grammar": "A definite noun governed by the oath particle wa-. The final \"-i\" (kasra) is the genitive case ending: whatever is sworn \"by\" with this wāw is automatically put in the genitive, exactly as a noun after a preposition would be — so the \"-i\" marks \"this is the thing being sworn by.\" Because the noun carries the definite article al-, the genitive kasra is regular and unambiguous here. The doubled \"s\" (shown by the shadda in سَّمَآء) is the definite article al- assimilating into the sun-letter \"s,\" so it is pronounced \"as-samā',\" not \"al-samā'.\" Note that samā' is grammatically feminine.",
+   "root": "س-م-و (s-m-w) — height, loftiness, that which is above; the source of samā', \"the high canopy / heaven.\""
+  },
+  "2": {
+   "meaning": "The night-comer: the one who arrives or appears by night, knocking as it were upon the darkness. The term names a brilliant star (and is traditionally taken as the piercing morning star) that breaks through the night sky. The underlying image is of something that \"strikes\" or \"knocks\" — a traveler who comes at night taps at the door, and the star seems to strike through the gloom — so the word evokes a sudden, piercing nocturnal arrival. Here it is the object of a divine oath: Allah swears \"by the night-comer\" to lend weight to the truth that follows.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "by (oath particle, wāw al-qasam, swearing by what follows)"
+    },
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the (definite article; its 'l' assimilates into the following ṭ, hence -ṭṭ-)"
+    },
+    {
+     "ar": "طَّارِق",
+     "tr": "ṭāriq",
+     "en": "night-comer / one who knocks (active participle: 'the one who strikes or arrives by night')"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "genitive case ending (-i), governed by the oath particle"
+    }
+   ],
+   "grammar": "This is an active participle (form I) on the pattern fāʿil — literally \"one who knocks/strikes,\" used as a name for the night-appearing star. It is made definite by the article al- (whose 'l' merges into the \"sun letter\" ṭ, so you hear a doubled ṭṭ rather than 'al-ṭ'). The final -i ending is the genitive case: it is required because the oath particle wa- (\"by…\") puts whatever is sworn upon into the genitive, and here it also runs parallel to the preceding oath وَالسَّمَآءِ (wal-samāi, \"by the heaven\"), with which it is coordinated. So the -i signals \"[I swear] BY the night-comer.\"",
+   "root": "ط-ر-ق (ṭ-r-q) — to knock, strike, or come by night; hence a \"path/road\" (that which is trodden) and the night-traveler who knocks at the door."
+  }
+ },
+ "2": {
+  "1": {
+   "meaning": "A compound of two particles/words written as one. \"wa-\" is a connective prefix meaning \"and,\" joining this clause to what precedes. \"mā\" is the interrogative \"what?\" — but here it carries an intensifying, rhetorical force (taʿẓīm): it does not merely ask for information but conveys how immense and beyond reckoning the thing is. So \"wa-mā...\" opens an awe-inspiring question — \"And what could possibly make you grasp...?\" — pointing to a reality so great it lies beyond ordinary human comprehension.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and (connective particle)"
+    },
+    {
+     "ar": "مَا",
+     "tr": "mā",
+     "en": "what (interrogative)"
+    }
+   ],
+   "grammar": "Two indeclinable (mabnī) words joined together: the connective prefix \"wa-\" (\"and\") plus the interrogative \"mā\" (\"what?\"). Being indeclinable, neither takes a case ending, and neither derives from a triliteral root, so there is no case or root-vowel to parse. The long final vowel of \"mā\" (-ā) is intrinsic to the word, not a case marker. The interrogative \"mā\" is used rhetorically here to magnify the thing asked about rather than to request a plain answer. Syntactically, in \"wa-mā adrāka mā al-ṭāriq,\" \"mā\" is the mubtadaʾ (topic/subject of the nominal sentence), in the position of rafʿ, and the following verbal clause \"adrāka\" (\"[it] made you realize\") is its predicate (khabar). Note: \"mā\" is the topic of the sentence, not the doer of the verb — the doer (fāʿil) of \"adrāka\" is a concealed pronoun, and the attached \"-ka\" is its object (\"you\").",
+   "root": "— (particles; no triliteral root)"
+  },
+  "2": {
+   "meaning": "A single past-tense verb meaning \"made you realize\" or \"caused you to know.\" It is built on the causative Form IV pattern, so it does not just mean \"knew\" but \"brought someone to knowledge / gave someone awareness of\" something. In its famous setting it follows the word mā (\"what\"), forming the rhetorical formula \"wa mā adrāka mā…\" — literally \"And what made you realize what … is?\" The force of the idiom is to magnify the thing being asked about: it signals that the matter is so weighty or awesome that the listener could never grasp it on his own, and that its true nature must be disclosed by revelation. Although the verb is grammatically past, in this formula it carries a present/future sense: \"what will make you realize.\"",
+   "parts": [
+    {
+     "ar": "اَ",
+     "tr": "a-",
+     "en": "Form IV (af'ala) prefix — the hamzat al-qaṭ' that makes the verb causative: 'to make/cause to…'"
+    },
+    {
+     "ar": "دۡرٰ",
+     "tr": "drā",
+     "en": "verb body from the root d-r-y 'know/realize'; the final weak radical y appears as the long ā (written with a dagger-alif over the dotless yā)"
+    },
+    {
+     "ar": "ٮكَ",
+     "tr": "-ka",
+     "en": "attached object pronoun 'you' (2nd person masculine singular); the seat (dotless yā) carries the preceding ā before the pronoun"
+    }
+   ],
+   "grammar": "This is a Form IV (af'ala) verb in the perfect (past) tense, 3rd person masculine singular, from a final-weak (defective) root. The initial hamza 'a-' is the hamzat al-qaṭ' of the af'ala template, which gives the causative sense — turning \"to know\" into \"to make known / cause to realize.\" There is no case-vowel here because it is a verb, not a noun; the perfect-tense shape itself carries the meaning \"he/it made…\". The unexpressed subject is \"what\" (mā) from the phrase before it. The ending -ka is the attached object pronoun \"you\" (addressed to a single man, i.e. the Prophet), so the whole word literally reads \"[it] made-you-realize.\" Note the orthography: the weak final radical surfaces as a long ā written with a dagger-alif over a dotless yā (alif maqṣūra seat) immediately before the pronoun. In the rhetorical formula the past tense is understood with a present/future sense (\"will make you realize\").",
+   "root": "د-ر-ي (d-r-y) — to know, to be aware, to realize (distinct from the unrelated root د-ر-ك)"
+  },
+  "3": {
+   "meaning": "An invariable word whose core sense is \"what.\" It is multifunctional in Arabic: most often it is interrogative (\"what?\") or relative (\"that which / whatever\"), and it can also act as a negating particle (\"not\"). In the cited verse (86:2, مَا الطَّارِقُ) it is interrogative, asking \"what is...?\" — building suspense before something is explained. The exact shade (what? / that which / not) is fixed by context, not by any change in the word itself.",
+   "parts": [
+    {
+     "ar": "مَا",
+     "tr": "mā",
+     "en": "what / that which / not (a single indivisible word)"
+    }
+   ],
+   "grammar": "This is a single, indeclinable word (mabnī): it is built on a fixed form and takes no case endings — the final long -ā never changes for case, tense, or person, whether the word is subject, object, or anything else. So there is no ending to \"parse.\" Its job is set entirely by context. In its interrogative (\"what?\", as in 86:2 \"what is the nightly star?\") and relative (\"that which / whatever\") uses it functions grammatically as a noun (ism); in its negating use (\"not,\" negating a following verb or noun) it functions as a particle (ḥarf). Under every one of these uses it stays indeclinable, so the fixed form holds throughout. Think of it as one flexible word, not a stem plus an ending.",
+   "root": "— (a primitive grammatical word; it has no triliteral root)"
+  },
+  "4": {
+   "meaning": "A rich, evocative term meaning \"the one who comes/knocks by night,\" from the act of striking or knocking — classically the traveler who arrives in the dark and knocks at the door. The Qur'an itself glosses it in the very next verse (86:3) as al-najm al-thāqib, \"the piercing star,\" so here it denotes a brilliant star or celestial body that appears at night. The sense fuses two ideas: arrival under cover of darkness, and the striking, piercing quality of its sudden brightness.",
+   "parts": [
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the (definite article; its l assimilates into the following ṭ, which is then doubled)"
+    },
+    {
+     "ar": "طَّارِق",
+     "tr": "ṭāriq",
+     "en": "one who comes/knocks by night; the night-comer (active participle, pattern fāʿil)"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "nominative case ending (-u), marking the word as subject/topic of its clause"
+    }
+   ],
+   "grammar": "An active participle (ism fāʿil) on the pattern fāʿil (\"one who does X\"), naming the doer of the action: \"the one who comes by night.\" The definite article al- normally sounds its l, but because the next letter ṭ is a \"sun letter,\" the l assimilates and the ṭ is doubled instead, heard as aṭ-ṭāriq. The final -u is the nominative ending. In 86:2 (mā l-ṭāriqu, \"what is the night-comer?\") the word is nominative as the subject of the interrogative nominal clause (mubtadaʾ, with mā as the fronted predicate). The nominative -u, rather than accusative -a or genitive -i, reflects this subject role; note that the oath particle wa- in 86:1 governs the earlier occurrence of al-ṭāriq, not this one.",
+   "root": "ط-ر-ق (ṭ-r-q) — to knock, strike, or beat (a path); hence to come by night (knocking at the door)"
+  }
+ },
+ "3": {
+  "1": {
+   "meaning": "The star. In its origin the noun najm denotes a celestial body — a star — and by extension the appearance or rising of such a heavenly light. In 86:3 it is qualified as \"the piercing one\" (al-thāqib), evoking a star whose brilliance pierces through the darkness. The word can also carry the sense of something that appears or springs forth in stages, but its core, concrete meaning here is \"the star.\"",
+   "parts": [
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the (definite article)"
+    },
+    {
+     "ar": "نَّجۡم",
+     "tr": "najm",
+     "en": "star"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "nominative ending"
+    }
+   ],
+   "grammar": "This is a singular masculine noun made definite by the prefix al- (\"the\"). The \"l\" of al- is not pronounced on its own but assimilates into the following \"n,\" which is why the n is doubled (al-najmu, heard as \"an-najmu\") — the \"n\" is one of the \"sun letters.\" The final -u ending is the nominative case. Here النَّجۡمُ الثَّاقِبُ (\"the piercing star\") functions as the predicate (khabar) of a nominal sentence: it identifies الطَّارِقُ (\"the night-comer\") carried forward from 86:2, answering the question posed there (\"And what will make you realize what the night-comer is?\"). It is therefore predicate nominative — both the subject (mubtadaʾ) and the predicate take the nominative case in an Arabic equational sentence. Note that النَّجۡمُ is not the object of the oath: the oath of 86:1 is sworn by السَّمَاءِ and الطَّارِقِ, which are in the genitive case.",
+   "root": "ن-ج-م (n-j-m) — a star / a celestial body; to appear or rise (as a star does)"
+  },
+  "2": {
+   "meaning": "An active participle meaning \"the one that pierces / the piercing-bright one.\" It describes something whose light bores through the darkness — a brilliance so intense it seems to penetrate and break through the night sky. In 86:3 it qualifies \"the star\" (النَّجۡم), portraying a star whose dazzling radiance pierces through the gloom.",
+   "parts": [
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the (definite article)"
+    },
+    {
+     "ar": "ثَّاقِب",
+     "tr": "thāqib",
+     "en": "piercing one / one that bores through"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "nominative case ending (-u)"
+    }
+   ],
+   "grammar": "This is an active participle (the doer of the action) on the pattern fāʿil (فَاعِل) — \"the one that pierces/penetrates.\" The prefix \"al-\" makes it definite (\"the piercing one\"). Because it follows النَّجۡمُ (\"the star\"), it functions as that noun's adjective and agrees with it in being definite, masculine, and singular. The final -u (damma) is the nominative ending, the case used for the subject; here it matches النَّجۡمُ, which is itself nominative (the subject of the verse). The doubling (shadda) on the th- arises because the \"l\" of \"al-\" assimilates into the following sun letter ث, so it is written \"al-\" but pronounced \"ath-thāqib.\"",
+   "root": "ث-ق-ب (th-q-b) — boring through, piercing, penetrating (also kindling a piercingly bright flame/light)"
+  }
+ },
+ "4": {
+  "1": {
+   "meaning": "A negating particle meaning \"not\" — it denies the statement that follows. This is اِنْ النافية (the negating \"in\"), which carries the same negating force as مَا (\"there is no…\"). It negates a whole sentence; in this ayah it is paired with the following exceptive particle لَمَّا (\"but / except\"), giving the sense \"there is no X but / except…\". So 86:4 means \"There is no soul but that over it is a watcher.\" Do not confuse it with the better-known conditional اِنْ meaning \"if\"; here the meaning is purely negation.",
+   "parts": [
+    {
+     "ar": "اِنۡ",
+     "tr": "in",
+     "en": "not (negating particle — \"there is no…\")"
+    }
+   ],
+   "grammar": "An indeclinable particle (حرف مبني), so it has no case ending that changes — it is built on a fixed sukūn (the small circle ۡ over the final nūn marks that the nūn carries no vowel and is simply closed off). As اِنْ النافية it negates the sentence that follows (\"there is no…\"). In 86:4 the negation is completed by the exceptive particle لَمَّا (\"but / except\"), so كُلُّ (\"every\") is not a true universal here: اِنۡ كُلُّ نَفۡسٍ لَّمَّا عَلَيۡهَا حَافِظٌ means \"there is no soul but that over it is a guardian.\" Being a particle, it does not inflect for person, gender, or number.",
+   "root": "— (a particle; it has no triliteral root)"
+  },
+  "2": {
+   "meaning": "The core sense is \"all of\" or \"every/each one of\" — a noun of totality. Depending on what follows and the grammar, it means either \"every single one\" (when followed by an indefinite singular, as here: \"every soul\") or \"all of\" (when followed by a definite plural). In 86:4 it pairs with the preceding particle \"in\" to convey the universal claim that every soul, without exception, has a guardian over it. Note that \"in\" here is read two ways in the classical tradition: in the Hafs recitation it is the negating particle (\"there is not a single soul EXCEPT that there is a guardian over it,\" with \"lammā\" = \"except\"), which matches the gloss above; on the alternative reading it is the light emphatic particle (\"indeed\"). Either way, the force on \"kullu\" is the same — every soul is covered.",
+   "parts": [
+    {
+     "ar": "كُلّ",
+     "tr": "kull",
+     "en": "all / every, each (noun of totality)"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "nominative ('u') ending — marks it as the subject"
+    }
+   ],
+   "grammar": "\"kullu\" is a noun meaning \"all/every,\" not a particle. The final \"-u\" (ḍamma) is the nominative case ending, marking it as the subject of the sentence — here the subject of the predication \"every soul (has) a guardian.\" It governs the following word in the genitive (the iḍāfa/construct relationship: \"every OF a soul\" = \"every soul\"), so كُلُّ نَفۡسٍ literally reads \"all/each of a soul.\" With a following indefinite singular like \"nafsin\" it carries the sense \"every single,\" reinforcing the universal, exception-less meaning.",
+   "root": "ك-ل-ل (k-l-l) — totality, completeness, the whole"
+  },
+  "3": {
+   "meaning": "A \"soul\" — but the Arabic nafs is broader than the English word. It means the self, the living being, the very person: the inner seat of life, will, desire, and accountability that makes one an individual. In a verse like 86:4 (\"every nafs\"), it denotes each and every living, morally responsible self.",
+   "parts": [
+    {
+     "ar": "نَفۡس",
+     "tr": "nafs",
+     "en": "soul / self / person"
+    },
+    {
+     "ar": "ٍ",
+     "tr": "-in",
+     "en": "indefinite genitive ending (kasra = case, the -n sound = 'a/any')"
+    }
+   ],
+   "grammar": "A singular feminine noun. The final ٍ (-in) does two jobs at once: the kasra (-i) marks the genitive case, and the added -n sound (tanwīn) marks the noun as indefinite (\"a soul / any soul\"). It is genitive here because كُلُّ نَفۡسٍ (kullu nafsin) is an iḍāfa — a noun-to-noun \"of\" construction: كُلّ (\"every / each-of\") is the first term (muḍāf) and نَفۡس is the second term (muḍāf ilayh), and the second term of an iḍāfa always takes the genitive. So it reads literally \"every-of a-soul,\" i.e. \"every single soul.\" The ending matches the -in in the transliteration: -i for case, -n for indefiniteness.",
+   "root": "ن-ف-س (n-f-s) — breath, self, soul; the same root gives nafas (\"breath\") and nafs (\"the inner self / living being\")."
+  },
+  "4": {
+   "meaning": "A particle that, after the negation إِنْ (here meaning \"there is no…\"), carries the sense of \"except / but / other than.\" It sets up an exception to a total negation: \"there is none… except / but….\" In 86:4 the force is \"There is no soul WITHOUT a guardian over it\" — i.e., except that there is a watcher set over it. This is not the English adversative \"but\" (= however); it is the exceptive \"but\" in the sense of \"nothing but,\" restricting an otherwise absolute negation.",
+   "parts": [
+    {
+     "ar": "لَّمَّا",
+     "tr": "lammā",
+     "en": "except / but (after a negation: 'none… but…')"
+    }
+   ],
+   "grammar": "لَّمَّا is an indeclinable particle (حرف مبني): it has no case ending and takes no prefix or suffix, so its final long -ā never shifts for grammatical reasons. In this verse it works together with the preceding negative إِنْ (which here functions as the negating مَا, \"there is no…\") to form the frame \"there is no X except Y.\" So لَمَّا here does the work of \"except / but / other than\": \"There is no soul EXCEPT that a watcher is over it.\" This exceptive لَمَّا (equivalent to إِلَّا) is what the doubled, shadda-bearing spelling لَّمَّا signals in the Ḥafṣ reading, and it is distinct from the more common temporal/negative لَمَّا meaning \"when\" or \"not yet\" — the negation إِنْ before it is what fixes the \"except/but\" sense. The doubled m (shadda) is intrinsic to the word, not a joined piece.",
+   "root": "— (particle; no triliteral root)"
+  },
+  "5": {
+   "meaning": "The core sense is \"upon it / over it / against it.\" It combines the preposition ʿalā — which conveys being on top of, over, or having a duty or responsibility laid upon something — with the attached pronoun \"it.\" Depending on context it can be physical (\"on it\") or carry the idea of a charge or watch set \"over it.\" In 86:4 the sense is that a guardian is set \"over it,\" i.e., over every soul, watching and recording.",
+   "parts": [
+    {
+     "ar": "عَلَيۡ",
+     "tr": "ʿalay",
+     "en": "on / upon / over (the preposition ʿalā, whose final long ā reverts to -ay before an attached pronoun)"
+    },
+    {
+     "ar": "هَا",
+     "tr": "hā",
+     "en": "it / her (attached object pronoun, 3rd person feminine singular, in the genitive as object of the preposition)"
+    }
+   ],
+   "grammar": "This is a preposition with a pronoun attached to its end. The preposition ʿalā normally ends in a long \"ā\" (written with alif maqṣūra), but whenever a pronoun attaches, that ending reverts to \"-ay,\" producing ʿalay- — hence ʿalay + hā. The suffix -hā is the 3rd-person feminine-singular \"it/her\" pronoun and is the object of the preposition (technically genitive/majrūr), so the whole unit means \"upon it / over it.\" In 86:4 the \"it\" refers back to \"every soul\" (nafs, a feminine noun), so it reads \"over it,\" i.e., over each soul.",
+   "root": "عَلَىٰ is a preposition (particle) and has no productive triliteral verbal root; the attached هَا is a pronoun, also rootless — \"—\""
+  },
+  "6": {
+   "meaning": "An active participle (ism fāʿil) meaning \"one who guards, watches over, and preserves\" — a vigilant keeper or protector. It describes a being whose ongoing role is to watch closely and keep careful record, combining protection with attentive oversight rather than mere passive guarding. In 86:4 it refers to the angel set over every soul, watching it and preserving a record of all it does.",
+   "parts": [
+    {
+     "ar": "حَافِظ",
+     "tr": "ḥāfiẓ",
+     "en": "guardian / one who watches over and preserves (active participle, fāʿil pattern)"
+    },
+    {
+     "ar": "ٌ",
+     "tr": "-un",
+     "en": "nominative ending with nunation (tanwīn ḍamm): marks the indefinite 'a' and the nominative case"
+    }
+   ],
+   "grammar": "An active participle (ism fāʿil) on the pattern fāʿil (فَاعِل), the doer of the verb — hence \"one who guards/watches.\" The final -un (ٌ, a ḍamma with nunation) does two things: the -u marks the nominative case, and the added -n (nunation) marks the word as indefinite, \"a guardian.\" In 86:4 the construction is اِنْ ... لَمَّا, where اِنْ is a negating particle and لَمَّا means \"except/but,\" giving the sense \"there is no soul but has a guardian over it.\" حَافِظٌ is the predicate (khabar), nominative, \"a watcher over it.\" The pause mark ؕ that follows is a recitation sign, not part of the word.",
+   "root": "ح-ف-ظ (ḥ-f-ẓ) — to guard, preserve, watch over, keep safe"
+  }
+ },
+ "5": {
+  "1": {
+   "meaning": "\"So let (him/one) look / consider / reflect.\" The command is not about casual seeing but about deliberate, attentive contemplation — a summons to ponder. With the prefixed particle fa- (\"so/then\"), it draws a conclusion from what came before and issues an indirect, third-person command: \"so let the human being consider…\" (as in 86:5, where it invites people to reflect on what they were created from).",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa",
+     "en": "so / then (connective drawing a conclusion)"
+    },
+    {
+     "ar": "لۡ",
+     "tr": "l-",
+     "en": "let… (the lām of command, forming a 3rd-person imperative)"
+    },
+    {
+     "ar": "يَنۡظُر",
+     "tr": "yanẓur",
+     "en": "he looks / considers (present-tense verb, 3rd-person masculine singular)"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "helping kasra added to ease pronunciation before the next word"
+    }
+   ],
+   "grammar": "This is a present-tense verb (form I) put into the jussive mood by the command-lām (lām al-amr): la- + yanẓur turns \"he looks\" into \"let him look.\" The verb's true jussive ending is a silent sukūn on the final rāʾ (yanẓur), which is why it means a command rather than a statement (a plain statement would end in -u, yanẓuru). The kasra you hear at the end (-i) is NOT a case or mood ending: it is an epenthetic \"helping\" vowel (kasrat al-iltiqāʾ — the kasra of two-consonant clash). It appears only because the next word is the article-prefixed al-insān (الۡاِنۡسَانُ). The hamza of al- is a connective hamza (hamzat al-waṣl) that is dropped in continuous speech, leaving its lām with no vowel (sākin); that sākin lām would then collide with the already sākin rāʾ of the jussive verb. Arabic breaks up such a clash of two unvowelled consonants by adding a short kasra, so yanẓur is pronounced yanẓuri before the following word. The subject \"he/one\" is built into the verb's ya- prefix; here the actual doer is named afterward as al-insān (\"the human being\").",
+   "root": "ن-ظ-ر (n-ẓ-r) — to look, to see, to regard; by extension to consider, reflect upon, and contemplate"
+  },
+  "2": {
+   "meaning": "\"The human being\" / \"humankind\" — the standard term for the human as a species, here used generically: man as a created, mortal creature. With the definite article it points to humanity as a whole (\"the human being\" in the generic sense, i.e. people in general) rather than one named individual. In 86:5 it is humankind that is summoned to reflect on its own lowly origin.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the (definite article; here generic — referring to humankind as a class)"
+    },
+    {
+     "ar": "اِنۡسَان",
+     "tr": "insān",
+     "en": "human being, man, mortal"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "nominative case ending (the '-u' marks the subject/doer)"
+    }
+   ],
+   "grammar": "A singular masculine noun with the definite article \"al-\" (\"the\"). The article makes it generic, denoting humankind as a whole rather than one specific person. The final \"-u\" ending is the nominative case: it marks this word as the subject — the one doing the action. In the cited verse it is the subject of the command \"let him consider\" (فَلۡيَنۡظُرِ), i.e. it is the human being who is told to reflect on what he was created from. Note the kasra (\"i\" sound) on the end of the preceding verb (yanẓur-i): the jussive verb يَنۡظُرۡ itself ends in a vowelless sukūn, and the following article begins with a silent linking hamza (hamzat al-waṣl), so two vowelless consonants would collide. The kasra is the obligatory helping vowel inserted to break that cluster (kasrat iltiqāʾ al-sākinayn); it is a phonological device and does not belong to this word.",
+   "root": "ا-ن-س (ʾ-n-s) — being human; companionship, familiarity, sociability (the human as a being naturally inclined to company). This is the mainstream classical derivation. A secondary tradition instead links the word to ن-س-ي (n-s-y, \"to forget\"), but that etymology is distinct and is not assumed here."
+  },
+  "3": {
+   "meaning": "\"From what?\" — an interrogative phrase asking about the source, origin, or material out of which something comes. It fuses \"out of / from\" with the question-word \"what,\" literally probing: out of what thing was this brought about? In 86:5 it presses the human being to reflect on the lowly substance from which he was created.",
+   "parts": [
+    {
+     "ar": "مِنْ",
+     "tr": "min",
+     "en": "from / out of"
+    },
+    {
+     "ar": "مَّ",
+     "tr": "-mma",
+     "en": "what (interrogative 'mā' with its alif dropped; its mīm absorbs the nūn of 'min', shown by the shadda)"
+    }
+   ],
+   "grammar": "This is a contraction: the preposition مِنْ (\"from\") joins the question-word مَا (\"what\"). Two things happen in the fusion. First, the final nūn of مِنْ assimilates (idghām) into the mīm of مَا, so the two mīms merge into one doubled mīm — that is what the shadda over the م marks. Second, because مَا here is interrogative (\"what?\") and is governed by a preposition, its long alif is dropped, leaving just مَّ. So the ending -mma is not a case-vowel but the shortened question-word itself. The whole phrase is indeclinable (mabnī, taking no case ending); it serves as the object of the preposition \"from,\" asking \"from what?\" Contrast مِمَّا (mimmā, alif retained), which is the relative/indefinite \"from that which / from what\" rather than the direct question.",
+   "root": "— (a contraction of the preposition مِنْ \"min\" and the particle مَا \"mā\"; neither is built on a triliteral root)"
+  },
+  "4": {
+   "meaning": "It means \"he/it was created\" — that is, brought into being and fashioned by Allah. The vowel pattern is the key: it is passive (\"WAS created\"), so the action falls on the subject while the unstated Doer is Allah. In its context (86:5, \"let people consider from what they were created\"), it points the human being back to his own humble material origin and to the Creator who formed him.",
+   "parts": [
+    {
+     "ar": "خُـ",
+     "tr": "khu-",
+     "en": "passive 'u' coloring the first root letter (kh), marking 'was —ed' — something was done to the subject, not by it"
+    },
+    {
+     "ar": "ـلِـ",
+     "tr": "-li-",
+     "en": "the 'i' on the middle root letter (l), completing the past-passive vowel pattern fuʿila (khu-li-)"
+    },
+    {
+     "ar": "ـقَ",
+     "tr": "-qa",
+     "en": "final root letter (q) with the '-a' thematic vowel of the passive pattern. There is NO suffix here; the absence of any ending is what marks it as 3rd-person masculine singular, 'he/it'"
+    }
+   ],
+   "grammar": "This is a past-tense, PASSIVE verb, 3rd-person masculine singular: \"he/it was created.\" Arabic forms the passive not with a helper word but by recoloring the vowels inside the verb: active khalaqa (\"he created\") becomes khuliqa (\"he was created\") — the u-i pattern (khu-li-) of Form I passive, fuʿila. Because it is passive, the doer is left unnamed, which here reverently implies Allah. Person and number are shown by suffixes (or their absence): the 3rd masculine singular takes a ZERO suffix — nothing is added. The final \"-a\" on the last root letter is the thematic vowel of the fuʿila pattern itself, not a personal ending. (Compare: 3rd feminine singular adds -at, خُلِقَتْ khuliqat; 3rd masculine plural adds -ū, خُلِقُوا khuliqū.) The subject in 86:5 is al-insān, \"the human being.\" So the whole word = \"he/it was created.\"",
+   "root": "خ-ل-ق (kh-l-q) — to create, originate, fashion, form, bring into being"
+  }
+ },
+ "6": {
+  "1": {
+   "meaning": "It means \"he/it was created\" — that is, brought into being and fashioned by Allah. The vowel pattern is the key: it is passive (\"WAS created\"), so the action falls on the subject while the unstated Doer is Allah. In its context (86:5, \"let people consider from what they were created\"), it points the human being back to his own humble material origin and to the Creator who formed him.",
+   "parts": [
+    {
+     "ar": "خُـ",
+     "tr": "khu-",
+     "en": "passive 'u' coloring the first root letter (kh), marking 'was —ed' — something was done to the subject, not by it"
+    },
+    {
+     "ar": "ـلِـ",
+     "tr": "-li-",
+     "en": "the 'i' on the middle root letter (l), completing the past-passive vowel pattern fuʿila (khu-li-)"
+    },
+    {
+     "ar": "ـقَ",
+     "tr": "-qa",
+     "en": "final root letter (q) with the '-a' thematic vowel of the passive pattern. There is NO suffix here; the absence of any ending is what marks it as 3rd-person masculine singular, 'he/it'"
+    }
+   ],
+   "grammar": "This is a past-tense, PASSIVE verb, 3rd-person masculine singular: \"he/it was created.\" Arabic forms the passive not with a helper word but by recoloring the vowels inside the verb: active khalaqa (\"he created\") becomes khuliqa (\"he was created\") — the u-i pattern (khu-li-) of Form I passive, fuʿila. Because it is passive, the doer is left unnamed, which here reverently implies Allah. Person and number are shown by suffixes (or their absence): the 3rd masculine singular takes a ZERO suffix — nothing is added. The final \"-a\" on the last root letter is the thematic vowel of the fuʿila pattern itself, not a personal ending. (Compare: 3rd feminine singular adds -at, خُلِقَتْ khuliqat; 3rd masculine plural adds -ū, خُلِقُوا khuliqū.) The subject in 86:5 is al-insān, \"the human being.\" So the whole word = \"he/it was created.\"",
+   "root": "خ-ل-ق (kh-l-q) — to create, originate, fashion, form, bring into being"
+  },
+  "2": {
+   "meaning": "The preposition \"min\" most basically means \"from\" — it marks the starting point or origin of something, the source out of which a thing comes. From this core sense of \"out of / away from\" it stretches to several related uses: indicating the material something is made of (\"made from clay\"), partitiveness (\"some of / a portion of\"), separation or distance (\"safe from harm\"), and the beginning of a span (\"from the day…\"). It can also introduce the thing being explained or specified. In the example (86:6, \"created from a spurting fluid\"), it points to the substance out of which the human being was formed.",
+   "parts": [
+    {
+     "ar": "مِنۡ",
+     "tr": "min",
+     "en": "from / out of"
+    }
+   ],
+   "grammar": "This is an indeclinable preposition (a \"particle\"), so it has no case ending of its own that changes — it is fixed (mabnī) on a silent final letter (the nūn carries sukūn, shown by the small circle ۡ, meaning no vowel follows it). Its grammatical job is to govern the noun after it and put that noun into the genitive case (so the following word, like māʾin in 86:6, takes the genitive -in ending). In plain terms: \"min\" links back to a verb or noun and tells you the source or origin — \"X comes/is made FROM Y.\"",
+   "root": "— (none — min is a primitive preposition/particle and has no triliteral root)"
+  },
+  "3": {
+   "meaning": "\"water\" — and by extension any fluid or liquid. The core sense is water as the fundamental substance of life and creation; in context (created \"from a fluid\") it points to the liquid origin of living things. The indefinite form means \"some water / a fluid,\" not a specific, known body of water.",
+   "parts": [
+    {
+     "ar": "مَآء",
+     "tr": "māʾ",
+     "en": "water / fluid"
+    },
+    {
+     "ar": "ٍ",
+     "tr": "-in",
+     "en": "indefinite genitive ending (\"some water,\" linked to the preposition \"from\")"
+    }
+   ],
+   "grammar": "A singular masculine noun in the indefinite genitive case. The final ٍ (kasratān, the \"-in\" sound) does two jobs at once: the kasra signals the genitive case, required because the noun follows the preposition مِنۡ (\"from\"); and the doubled -n (tanwīn/nunation) marks it as indefinite — \"some water / a fluid\" rather than \"the water.\" Note the doubled mīm at the start (مّ) is not part of this word: مِنۡ ends in a silent ن (nūn), and that nūn assimilates into the following م of مَآء — a standard tajwīd rule (idghām with ghunna, where a noon sākina merges into a following nasal consonant). So the shadda on the mīm represents the nūn of مِنۡ absorbed into the mīm of مَآء, and the bare noun is simply مَآء.",
+   "root": "م-و-ه (m-w-h) — water; the watery/liquid substance."
+  },
+  "4": {
+   "meaning": "An active participle meaning \"pouring forth,\" \"gushing,\" or \"spurting\" — describing fluid that is ejected or propelled out with force. As an active participle (the \"-er/-ing\" form), it names the thing as actively doing the action: a fluid that gushes/spurts. In context it describes the fluid from which human beings are created, emphasizing its quality of being emitted with a vigorous, spurting motion.",
+   "parts": [
+    {
+     "ar": "دَافِق",
+     "tr": "dāfiq",
+     "en": "gushing/spurting (active participle: the one that pours forth)"
+    },
+    {
+     "ar": "ٍ",
+     "tr": "-in",
+     "en": "genitive ending with nunation (indefinite: 'a ___')"
+    }
+   ],
+   "grammar": "This is an active participle of Form I (the doer of the action), built on the pattern fāʿil (dāfiq), meaning \"one that gushes/spurts forth.\" The final ending is -in (tanwīn kasr): the kasra (-i sound) marks the genitive case, and the nunation (the added -n) marks it as indefinite (\"a gushing [fluid]\"). It is genitive here because it is an adjective describing the preceding noun مَّآءٍ (mā'in, \"a fluid\"), which is itself genitive after the preposition مِنْ (\"from\"); an Arabic adjective must match its noun in case, definiteness, gender, and number, so — both being masculine singular and indefinite — it likewise takes the indefinite genitive.",
+   "root": "د-ف-ق (d-f-q) — pouring out, gushing, spurting forth (of liquid emitted with force)"
+  }
+ },
+ "7": {
+  "1": {
+   "meaning": "The core sense is \"he/it comes forth, goes out, emerges, or issues from.\" It describes something proceeding out of a place or source. In 86:7 it conveys the fluid \"coming forth\" from between the backbone and the ribs — an emerging, an issuing-out.",
+   "parts": [
+    {
+     "ar": "يَّ",
+     "tr": "ya-",
+     "en": "he/it (3rd-person masculine singular present-tense prefix; written with a shaddah here because of recitation assimilation — see grammar)"
+    },
+    {
+     "ar": "خۡرُجُ",
+     "tr": "-khruju",
+     "en": "comes forth / goes out (present-tense stem of the verb 'to emerge')"
+    }
+   ],
+   "grammar": "This is a present/imperfect verb, Form I, \"he/it comes forth.\" The ya- prefix marks the subject as \"he/it\" (third-person masculine singular). The final -u ending is the indicative mood (rafʿ): it signals a plain, ongoing statement of fact (\"it comes forth\"), as opposed to -a (subjunctive, after \"to/that\") or a vowelless ending (jussive, after \"did not\"). The doubled yy (shaddah) at the start is not part of the verb itself; the underlying verb is simply yakhruju. It arises in recitation because the previous word — دَافِقٖ (dāfiqin), the last word of 86:6, \"a gushing fluid\" — ends in tanwīn (nunation, the -in sound, which is a noon). When tanwīn or a silent noon is followed by ya (ي) — one of the \"yarmalūn / yanmū\" letters — the noon-sound assimilates forward into that ya with nasalization (idghām bi-ghunnah), doubling it. So the two words are recited together as dāfiqiy-yakhruju, which is why the ya- of yakhruju carries a shaddah in the text.",
+   "root": "خ-ر-ج (kh-r-j) — going out, coming forth, emerging"
+  },
+  "2": {
+   "meaning": "The preposition \"min\" most basically means \"from\" — it marks the starting point or origin of something, the source out of which a thing comes. From this core sense of \"out of / away from\" it stretches to several related uses: indicating the material something is made of (\"made from clay\"), partitiveness (\"some of / a portion of\"), separation or distance (\"safe from harm\"), and the beginning of a span (\"from the day…\"). It can also introduce the thing being explained or specified. In the example (86:6, \"created from a spurting fluid\"), it points to the substance out of which the human being was formed.",
+   "parts": [
+    {
+     "ar": "مِنۡ",
+     "tr": "min",
+     "en": "from / out of"
+    }
+   ],
+   "grammar": "This is an indeclinable preposition (a \"particle\"), so it has no case ending of its own that changes — it is fixed (mabnī) on a silent final letter (the nūn carries sukūn, shown by the small circle ۡ, meaning no vowel follows it). Its grammatical job is to govern the noun after it and put that noun into the genitive case (so the following word, like māʾin in 86:6, takes the genitive -in ending). In plain terms: \"min\" links back to a verb or noun and tells you the source or origin — \"X comes/is made FROM Y.\"",
+   "root": "— (none — min is a primitive preposition/particle and has no triliteral root)"
+  },
+  "3": {
+   "meaning": "A locational noun meaning \"between\" or \"in the midst of\" — it names the space or interval separating two (or more) things. In context it points to the region lying in the middle of two named boundaries (here, \"from between the backbone and the ribs\"). It can also extend to figurative \"betweenness,\" such as a relationship or matter standing \"between\" parties.",
+   "parts": [
+    {
+     "ar": "بَيۡن",
+     "tr": "bayn",
+     "en": "between / the space separating two things"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "genitive (\"-of\") ending"
+    }
+   ],
+   "grammar": "This is an adverb/noun of place (\"between\") functioning here as the object of the preceding preposition مِنۡ (\"from\"). The final \"-i\" (kasra) is the genitive ending: it is forced by that preposition (\"from between…\"), and bayn is also in a construct (idafa) link with the word that follows it — \"between [of] the backbone and the ribs.\" So both facts apply at once: the noun is governed by the preposition and bound to what comes after it. Note it is short \"-i\" (one syllable), not long \"-ī.\"",
+   "root": "ب-ي-ن (b-y-n) — separation, distinctness, the space between; from which come ideas of \"making clear / distinguishing.\""
+  },
+  "4": {
+   "meaning": "The backbone or spine — specifically the vertebral column, the bony ridge running down a person's back. In its context (86:7), it refers to the man's loins/back as one of the two anatomical reference points between which the procreative fluid is said to issue forth.",
+   "parts": [
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the (definite article; its 'l' assimilates into the following 'ṣ', which is why it is written and pronounced ṣ-ṣ)"
+    },
+    {
+     "ar": "صُّلۡب",
+     "tr": "ṣulb",
+     "en": "backbone, spine (the bare noun stem)"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "genitive case ending (kasra)"
+    }
+   ],
+   "grammar": "A singular masculine noun carrying the definite article \"the.\" The final \"-i\" (kasra) is the genitive case ending: here it appears because the word follows بَيۡنِ (\"between\") within the phrase مِنۢ بَيۡنِ (\"from between\"), and a noun in this of/possessed relationship takes the genitive — so it reads \"between THE backbone (and the ribs).\" The doubling of the ṣ (ṣ-ṣ) reflects the sun-letter rule: the \"l\" of \"al-\" is silent and merges into the ṣ. No verb, person, or tense is involved — it is simply a named body part in the \"of/between\" relationship.",
+   "root": "ص-ل-ب (ṣ-l-b) — hardness, firmness, rigidity (hence the hard, firm spinal column; the same root gives the sense of being solid or stiff)"
+  },
+  "5": {
+   "meaning": "\"And the breast-bones / the ribs.\" The noun tarāʾib is the broken (internal) plural of the singular tarība (تَرِيبَة; an alternative singular tarīb is also recorded), denoting the bones of the upper chest — specifically the rib-bones of the breast where the ribs meet the sternum, the front of the rib-cage in the region below the collar-bones in classical usage. In context (86:7) it names one of the two bodily regions — together with the backbone (al-ṣulb) — between which the procreative fluid is described as issuing.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the (definite article)"
+    },
+    {
+     "ar": "تَّرَآئِب",
+     "tr": "tarāʾib",
+     "en": "breast-bones / ribs (plural of tarība)"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "genitive ending (-i)"
+    }
+   ],
+   "grammar": "This is a noun preceded by the joining word wa- (\"and\") and the definite article al- (\"the\"). The \"and\" links it to the preceding noun al-ṣulb (\"the backbone\"), so the two share the same grammatical role. The final -i ending is genitive (the \"of/from\" case): here it is governed by the preposition bayna (\"between\") earlier in the verse — bayni l-ṣulbi wa-l-tarāʾib(i), \"between the backbone and the ribs.\" tarāʾib is a broken (internal) plural on the pattern faʿāʾil, formed by reshaping its singular tarība (pattern faʿīla, with long ī) rather than by adding a suffix. The article assimilates its \"l\" sound into the following \"t\" (a sun letter), so al-tarāʾib is pronounced at-tarāʾib.",
+   "root": "ت-ر-ب (t-r-b). The body-part noun tarība (pl. tarāʾib, \"the breast-bones / ribs\") is the relevant derivative here. The same triliteral root also yields a well-known cluster relating to dust/earth (e.g. turāb, \"dust\"), but classical lexicographers (Lane, Lisān al-ʿArab) record the anatomical sense as a distinct usage and do not establish it as derived from the dust/earth meaning."
+  }
+ },
+ "8": {
+  "1": {
+   "meaning": "A two-part word combining the emphatic particle \"inna\" with the pronoun \"He.\" \"Inna\" has no clean English equivalent: it is a particle of emphasis and certainty placed at the head of a sentence to assert its truth strongly, conveying the force of \"indeed,\" \"surely,\" or \"most certainly.\" The attached pronoun refers to Allah. Together the word declares with emphasis: \"Indeed He / Surely He,\" opening a statement that affirms something about Allah with full conviction.",
+   "parts": [
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "indeed / surely (particle of emphasis and certainty)"
+    },
+    {
+     "ar": "هٗ",
+     "tr": "-hu",
+     "en": "He / Him (3rd-person masculine singular pronoun, here referring to Allah)"
+    }
+   ],
+   "grammar": "\"Inna\" is an emphasizing particle that introduces a nominal sentence and strongly affirms its content (like saying \"it is truly the case that...\"). Grammatically it governs what follows: the noun or pronoun after it takes the accusative as its \"subject\" (اسم إنَّ). The attached pronoun هٗ (-hu) is that subject in the accusative state, meaning \"He\" and referring to Allah, while the predicate (\"is fully capable...\") completes the emphatic claim. The pronoun appears here in its lengthened/rounded form -hū (marked by the small superscript wāw ٗ): this is the recited form the 3rd-masc-sg suffix takes after a fatha or damma, and here it follows the fatha on نَّ. (By contrast, after a kasra or yā' — an \"i\" environment — the same suffix becomes -hi, as in بِهِ bihi and فِيهِ fīhi.)",
+   "root": "— (inna is a particle and has no triliteral root; -hu is a pronoun and has no root)"
+  },
+  "2": {
+   "meaning": "A primitive preposition whose core sense is \"on/upon\" — the idea of one thing resting on or being supported by the surface of another. From that anchor it spreads to \"over,\" \"above,\" \"against,\" and the figurative sense of a duty being incumbent \"upon\" someone. After words of ability or power (as with قَادِر \"able\" in 86:8), it marks the thing one is capable of doing — so عَلٰى رَجۡعِهٖ means \"capable OF bringing him back.\" The English gloss \"to\" in the source is loose; the underlying relation is \"upon / with respect to.\"",
+   "parts": [
+    {
+     "ar": "عَلٰى",
+     "tr": "ʿalā",
+     "en": "on / upon / over (one indivisible preposition)"
+    }
+   ],
+   "grammar": "This is a single, unanalyzable preposition — it has no prefix, stem, or ending to break apart. It is built (indeclinable, mabnī): its own shape never changes for case, so the final vowel here is not a case mark but simply part of the fixed word. Note its spelling, which uses two distinct elements: the word ends in an alif maqṣūra (ى, a dotless yāʾ) that spells the final long -ā, and it also carries a dagger alif (the small vertical stroke ٰ) sitting above the lām — an interior diacritic that marks that same long ā. The two are commonly confused, but the word-final ā is borne by the alif maqṣūra, not by the dagger alif. Grammatically, ʿalā's job is to put the noun that follows it into the genitive case (hence رَجۡعِ takes the -i ending after it). So ʿalā itself carries no ending of its own; it is the genitive ending on the next word (as in رَجۡعِهٖ) that signals the link.",
+   "root": "— (a primitive particle; no triliteral root)"
+  },
+  "3": {
+   "meaning": "The act of bringing him back or returning him — here, Allah's bringing the dead person back to life (resurrection). It is a verbal noun (\"the returning of him\") rather than a finite verb, naming the action itself together with the object affected by it.",
+   "parts": [
+    {
+     "ar": "رَجۡع",
+     "tr": "rajʿ",
+     "en": "a returning / bringing back (verbal noun)"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "genitive ending (kasra), governed by the preposition 'over/upon'"
+    },
+    {
+     "ar": "هٖ",
+     "tr": "-hi",
+     "en": "his / him (attached 3rd-person masculine singular pronoun, object of the returning)"
+    }
+   ],
+   "grammar": "رَجۡع is a verbal noun (maṣdar) meaning \"the act of returning/bringing back.\" The attached pronoun هٖ (\"him\") is its object: \"the returning of him\" = \"bringing him back.\" The final vowel on the stem is a short genitive kasra (-i), here because the whole phrase follows the preposition عَلٰى (\"upon/over\"): \"upon His returning of him,\" i.e., \"to bring him back.\" The pronoun is pronounced -hi (rather than the default -hu) because it follows that preceding kasra — the regular assimilation of the 3rd-person masculine singular pronoun after a kasra or ī. The small superscript mark beneath the pronoun in the muṣḥaf is a recitation/connection marker signaling this -hi pronunciation; it is not a sign of vowel length, and the vowel here remains a short kasra. So the sense is: \"He is fully able to bring him back.\"",
+   "root": "ر-ج-ع (r-j-ʿ) — returning, going back, restoring"
+  },
+  "4": {
+   "meaning": "Most surely able/capable. The core word qādir is an active participle meaning \"one who is able, powerful, having full power and capacity to do something.\" It describes Allah as possessing the complete ability and command over the matter in question (in 86:8, the power to bring the dead back to life). The attached la- prefix adds strong emphasis — \"truly,\" \"certainly,\" \"most surely\" — affirming the statement beyond any doubt.",
+   "parts": [
+    {
+     "ar": "لَ",
+     "tr": "la",
+     "en": "certainly / most surely (emphatic affirming prefix)"
+    },
+    {
+     "ar": "قَادِر",
+     "tr": "qādir",
+     "en": "able one, fully capable, having power over"
+    },
+    {
+     "ar": "ٌ",
+     "tr": "-un",
+     "en": "indefinite nominative ending (the doubled 'un' / tanwīn)"
+    }
+   ],
+   "grammar": "This is an active participle (Form I, the doer of the verb qadara \"to have power\"), functioning as the predicate (khabar) of the sentence — \"He IS most surely capable.\" The prefix la- is the \"lām of emphasis.\" Because the particle inna (\"indeed\") opens the clause, this lām cannot sit before inna's subject; it instead shifts onto the predicate, and in that specific position it is properly called lām al-muzaḥlaqa (the \"displaced/slipped\" lām, also termed lām al-tawkīd). It is not lām al-ibtidāʼ in this context — that name applies only when the lām heads a standalone nominal sentence (e.g. لَزَيْدٌ قَائِمٌ) with no inna present. Here the lām intensifies the assertion, pairing with inna to make the claim doubly certain. The final ending is -un (written as tanwīn ḍamma, the doubled 'u' sound): nominative case with indefinite \"nunation,\" marking the word as the predicate describing the subject \"He.\" So the -un signals \"[He is] a capable one,\" not linked to a following word in possession (that would be -i) nor an object (that would be -a).",
+   "root": "ق-د-ر (q-d-r) — power, ability, capacity, measuring out / decreeing"
+  }
+ },
+ "9": {
+  "1": {
+   "meaning": "The core sense is \"day\" — specifically a defined day or appointed time. In this Qur'anic context it points to a particular, momentous Day (the Day of Resurrection and Judgment) and works adverbially, telling us WHEN something happens: \"on the Day that...\" It typically introduces a following clause describing what will occur on that Day.",
+   "parts": [
+    {
+     "ar": "يَوۡم",
+     "tr": "yawm",
+     "en": "day"
+    },
+    {
+     "ar": "ـَ",
+     "tr": "-a",
+     "en": "accusative ending (-a)"
+    }
+   ],
+   "grammar": "A masculine singular noun. The final -a ending is the accusative case, which here marks it as an adverb of time (zarf al-zaman), pinning down WHEN the action takes place — \"on the Day (that)...\" — rather than naming a subject or possessor. Separately, the noun is linked to the clause that follows it by construct annexation (idafa): يَوۡمَ is the governing term and the clause \"all secrets are disclosed\" is what it is annexed to, so the noun and the clause read together as a single time-phrase (\"the Day [when] all secrets are disclosed\"). (Note: the ending is -a, not -i or -u.)",
+   "root": "ي-و-م (y-w-m) — day, a defined span of time"
+  },
+  "2": {
+   "meaning": "The core sense is \"she/it is tested\" — the root means to test, try, or assay (as metal is assayed to prove its true quality). In the passive, the subject is the thing being put to the test. In 86:9 (يَوۡمَ تُبۡلَى السَّرَآئِرُ) the subject is \"the secrets,\" so the verse describes the innermost secrets being put to the test on the Day of Judgment; the further idea that they are thereby exposed and laid bare comes from that context (secrets being tested), not from the word itself.",
+   "parts": [
+    {
+     "ar": "تُـ",
+     "tr": "tu-",
+     "en": "present-tense prefix marking a third-person feminine singular subject ('she/it'); its 'u' vowel is part of the passive vowel pattern"
+    },
+    {
+     "ar": "بۡلَ",
+     "tr": "bla",
+     "en": "verb stem from the root for testing/trying"
+    },
+    {
+     "ar": "ـى",
+     "tr": "-ā",
+     "en": "weak final letter (alif maqṣūra) surfacing as a long 'ā', the passive ending of this verb-type"
+    }
+   ],
+   "grammar": "This is a Form I verb in the passive voice, present/future tense, third person feminine singular (\"she/it is tested\"). The تُـ consonant is the present-tense prefix that marks person and gender — third feminine singular here — not voice; the same consonant appears in the active (e.g. active تَبْلُو \"she tests\"). Voice is signaled instead by the verb's whole vowel pattern: the damma (\"u\") on the prefix together with the fatha (\"a\") on the penultimate syllable mark it as passive, so the subject is acted upon (\"is tested\"), not acting. The feminine prefix agrees with its feminine subject (السَّرَآئِرُ, \"the secrets\" — a non-human plural, which takes feminine-singular agreement). Because the verb is from a root whose last radical is weak (و), in the passive present that radical surfaces as a long \"-ā\" written with alif maqṣūra (contrast the active third-feminine, which would end in \"-ū\"). Being present-tense, it conveys an ongoing or future event: \"is/will be tested.\" There is no case ending here because this is a verb, not a noun.",
+   "root": "ب-ل-و (b-l-w) — to test, try, or assay (to prove something by trial). This is distinct from the separate root ب-ل-ي (b-l-y, \"to wear out, decay\"); تُبْلَى in 86:9 derives from b-l-w."
+  },
+  "3": {
+   "meaning": "The hidden inner things — that which a person keeps concealed: secret thoughts, private intentions, hidden deeds, and the true contents of the heart that no one else can see. The singular sarīra denotes a \"secret\" in the deepest sense: not merely undisclosed information, but the innermost reality of a soul. In context (86:9) it refers to all these concealed matters being brought out and laid bare on the Day of Judgment.",
+   "parts": [
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the (assimilated to \"as-\" before the sun-letter s)"
+    },
+    {
+     "ar": "سَّرَآئِر",
+     "tr": "sarāʾir",
+     "en": "secrets / hidden inner things (plural of sarīra)"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "nominative case ending (subject)"
+    }
+   ],
+   "grammar": "This is a definite plural noun, \"the secrets.\" The broken (internal) plural pattern sarāʾir (faʿāʾil) is built from the singular sarīra; the hamza (ʾ) sits between the third and fourth radical positions, as the Arabic spelling ٮِٕ / ئ shows. The final -u ending is the nominative case: here it marks the word as nāʾib al-fāʿil, the subject of a passive verb. In 86:9 (yawma tublā l-sarāʾiru, \"the Day the secrets are disclosed\"), the secrets are what \"will be tested/laid bare,\" so they stand as the grammatical subject of that passive verb. The \"al-\" (\"the\") is written as ال but pronounced \"as-\" because the following letter s (sīn) is a \"sun letter\" that absorbs the l.",
+   "root": "س-ر-ر (s-r-r) — to be secret/hidden; the innermost concealed matters of the heart (also linked to confiding privately and to inner joy)."
+  }
+ },
+ "10": {
+  "1": {
+   "meaning": "A two-part particle cluster meaning \"then there is no…\" or \"so… not.\" The فَ (\"then/so\") draws a consequence or result from what came just before, and مَا is a particle of negation. Together they introduce a flat denial that follows on from a preceding statement — as in 86:10, where, having reminded us that Allah will raise the dead and test what is hidden, the verse concludes: \"then he will have no power and no helper.\" Here مَا negates existence/possession: it asserts that the thing simply is not there.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa",
+     "en": "then / so (drawing a consequence from what precedes)"
+    },
+    {
+     "ar": "مَا",
+     "tr": "mā",
+     "en": "not (particle of negation)"
+    }
+   ],
+   "grammar": "Two indeclinable particles, so there is no case ending to track — the final vowel on مَا (the -ā) is simply part of the fixed word, not a grammatical case marker. فَ is a connector that signals result or sequence (\"then,\" \"so,\" \"and so\"). مَا here is مَا النَّافِيَة, the negating mā, which denies that something exists or is possessed; in 86:10 it works with the following لَهُ (\"for him\") to mean \"he has no…,\" and it pairs with وَلَا (\"and no\") to extend the denial across both \"power\" and \"helper.\" Neither particle inflects for person, gender, or number.",
+   "root": "— (none; فَ and مَا are particles and have no triliteral root)"
+  },
+  "2": {
+   "meaning": "The core sense is \"for him\" or \"belonging to him\" — it expresses possession, attribution, or benefit directed toward a third-person masculine singular referent. In a context like 86:10 (فَمَا لَهٗ مِنۡ قُوَّةٍ), it conveys \"he has...\" (literally \"there is FOR him...\"), because Arabic normally expresses having something by saying it exists \"to/for\" a person. So فَمَا لَهٗ = \"then there is not for him...\" = \"then he has no...\".",
+   "parts": [
+    {
+     "ar": "لَ",
+     "tr": "la",
+     "en": "for / to / belonging to (the preposition li-, whose vowel opens to -a before an attached pronoun)"
+    },
+    {
+     "ar": "هٗ",
+     "tr": "hu",
+     "en": "him / his (attached 3rd-person masculine singular pronoun; the superscript wāw lengthens it to -hū in this context)"
+    }
+   ],
+   "grammar": "This is a preposition fused with a pronoun, not a verb, so it carries no tense. The base preposition is لِـ (li, \"for/to\"); its normal kasra (-i) shifts to fatha (la-) whenever a pronoun other than the first-person singular ي (which gives لِي, lī) attaches to it. The ending هٗ is the attached 3rd-person masculine singular pronoun \"him/his.\" The small superscript wāw (ٗ) is the silah marker on the pronominal hā' (هاء الكناية): in the Uthmani rasm it lengthens the vowel to -ū when the hā' falls between two voweled letters, as it does in 86:10 (لَهٗ مِنۡ), yielding lahū rather than bare lahu. Together la-hū = \"for him / to him / his.\" The whole phrase assigns something to that masculine referent — ownership, a right, or (as in 86:10) what he does or does not \"have.\"",
+   "root": "— (preposition + pronoun; no triliteral root)"
+  },
+  "3": {
+   "meaning": "The preposition \"min\" most basically means \"from\" — it marks the starting point or origin of something, the source out of which a thing comes. From this core sense of \"out of / away from\" it stretches to several related uses: indicating the material something is made of (\"made from clay\"), partitiveness (\"some of / a portion of\"), separation or distance (\"safe from harm\"), and the beginning of a span (\"from the day…\"). It can also introduce the thing being explained or specified. In the example (86:6, \"created from a spurting fluid\"), it points to the substance out of which the human being was formed.",
+   "parts": [
+    {
+     "ar": "مِنۡ",
+     "tr": "min",
+     "en": "from / out of"
+    }
+   ],
+   "grammar": "This is an indeclinable preposition (a \"particle\"), so it has no case ending of its own that changes — it is fixed (mabnī) on a silent final letter (the nūn carries sukūn, shown by the small circle ۡ, meaning no vowel follows it). Its grammatical job is to govern the noun after it and put that noun into the genitive case (so the following word, like māʾin in 86:6, takes the genitive -in ending). In plain terms: \"min\" links back to a verb or noun and tells you the source or origin — \"X comes/is made FROM Y.\"",
+   "root": "— (none — min is a primitive preposition/particle and has no triliteral root)"
+  },
+  "4": {
+   "meaning": "The core sense is \"strength,\" \"power,\" or \"might\" — the capacity to exert force, to defend, to prevail, or to bring something about. It denotes inner or physical potency: being strong as opposed to weak or helpless. In the cited verse (86:10) the indefinite form carries the nuance \"any power at all,\" stressing that the person will have no strength whatsoever to help or save himself.",
+   "parts": [
+    {
+     "ar": "قُوَّة",
+     "tr": "quwwat",
+     "en": "strength, power, might"
+    },
+    {
+     "ar": "ٍ",
+     "tr": "-in",
+     "en": "indefinite genitive ending ('any …')"
+    }
+   ],
+   "grammar": "This is a feminine singular noun (the feminine ending is the tāʾ marbūṭa, which surfaces as -t before the case ending). The final ending is tanwīn kasra (-in), shown by the doubled kasra. The kasra marks the genitive case — here because the noun follows the preposition مِنْ (\"of/from\"). The tanwīn (the -n sound) marks it as indefinite, giving the sense \"any power.\" So مِنْ قُوَّةٍ literally reads \"of any power,\" i.e. \"any power at all.\" Note the shadda on the و: although the root is ق-و-ي with a final radical yāʾ, in this pattern that yāʾ assimilates to the preceding wāw, and the two wāws then contract into the single doubled, stressed \"ww\" marked by the shadda.",
+   "root": "ق-و-ي (q-w-y) — strength, power, being strong"
+  },
+  "5": {
+   "meaning": "A two-part connector meaning \"and not / nor.\" It joins this phrase to what came before (wa, \"and\") and continues a negation already in force (lā, \"not\"). In a list of denials it carries the sense \"nor / and neither,\" extending a prior negation to a second item — as in 86:10, \"no power, nor any helper.\" Here the negation was set up earlier in the verse (fa-mā … min, \"then he has no…\"), and wa-lā simply tacks the second denied thing onto the first, stressing that the helper is just as absent as the power.",
+   "parts": [
+    {
+     "ar": "وَّ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "لَا",
+     "tr": "lā",
+     "en": "not / no"
+    }
+   ],
+   "grammar": "Two indeclinable particles, so there is no case ending to parse on this word itself. The wa- is the connective \"and\" (wāw al-ʿaṭf), linking this item to the previous one. Its doubled sound — the shadda written on وّ — is not part of the word's own form: it is idghām, the recitation rule by which the tanwīn (the -in ending) of the preceding word قُوَّةٍ (qūwatin) assimilates into the following wāw (و is one of the idghām letters), producing qūwati-w-walā. lā here is simple negation (lā an-nāfiya), reinforcing the negation already established earlier in the verse, so wa-lā together means \"and not,\" i.e. \"nor.\" Note that this is NOT the categorical, genus-negating lā (lā an-nāfiya lil-jins): that construction requires its noun to be accusative (manṣūb) and to drop tanwīn, whereas the following noun نَاصِرٍ carries kasra + tanwīn and is genitive (the مِنْ before قُوَّةٍ is an extra/emphatic preposition, and نَاصِرٍ is conjoined to قُوَّةٍ in the same genitive). The final vowel of lā is a plain long -ā belonging to the particle itself, not a case marker.",
+   "root": "— (particles; no triliteral root)"
+  },
+  "6": {
+   "meaning": "A \"helper\" — one who comes to another's aid, support, or rescue, especially in a moment of need or against an adversary. It is the active participle \"one who helps / a helper / an aider.\" In its context (86:10) it underscores total helplessness on the Day of Judgment: a person will have no strength of their own and no outside helper to defend or rescue them.",
+   "parts": [
+    {
+     "ar": "نَاصِر",
+     "tr": "nāṣir",
+     "en": "helper / one who helps (masculine active participle, pattern fāʿil)"
+    },
+    {
+     "ar": "ٍ",
+     "tr": "-in",
+     "en": "indefinite genitive ending (tanwīn kasr): 'a helper,' genitive after the preceding 'of/any'"
+    }
+   ],
+   "grammar": "This is an active participle (the \"doer\" form, like English \"-er\"), built on the pattern fāʿil — \"one who does X.\" Here it means \"a helper / one who helps.\" It is masculine singular. The final ending is -in (written with tanwīn, the doubled kasra). That -in does two things at once: the kasra (the \"-i\" sound) marks the genitive case, and the -n (tanwīn) marks it as indefinite — \"a helper,\" not \"the helper.\" It is in the genitive here because in the verse it follows the particle مِنْ (\"of/any\"), which governs both قُوَّةٍ and نَاصِرٍ: \"neither power nor ˹any˺ helper.\" So the ending is the indefinite genitive (-in), NOT the nominative -un or accusative -an. The small mark ؕ after it is only a recitation-pause sign, not a letter.",
+   "root": "ن-ص-ر (n-ṣ-r) — to help, aid, support, give victory"
+  }
+ },
+ "11": {
+  "1": {
+   "meaning": "An oath sworn \"by the sky / heaven.\" The opening wa- is the \"oath wāw\" (wāw al-qasam), a particle Arabic uses to swear by something, lending weight and solemnity to what follows — here Allah swears by the heaven itself. The noun samā' denotes the sky, the canopy overhead, the heavens. So the whole phrase means \"By the heaven!\" — a solemn vow that calls the sky to witness (as in 86:1, \"By the heaven and the nightly star!\").",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "by (oath particle, wāw al-qasam — 'I swear by')"
+    },
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the (definite article; its 'l' assimilates into the following 's')"
+    },
+    {
+     "ar": "سَّمَآء",
+     "tr": "samā'",
+     "en": "sky / heaven"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "genitive '-i' ending (required by the oath particle)"
+    }
+   ],
+   "grammar": "A definite noun governed by the oath particle wa-. The final \"-i\" (kasra) is the genitive case ending: whatever is sworn \"by\" with this wāw is automatically put in the genitive, exactly as a noun after a preposition would be — so the \"-i\" marks \"this is the thing being sworn by.\" Because the noun carries the definite article al-, the genitive kasra is regular and unambiguous here. The doubled \"s\" (shown by the shadda in سَّمَآء) is the definite article al- assimilating into the sun-letter \"s,\" so it is pronounced \"as-samā',\" not \"al-samā'.\" Note that samā' is grammatically feminine.",
+   "root": "س-م-و (s-m-w) — height, loftiness, that which is above; the source of samā', \"the high canopy / heaven.\""
+  },
+  "2": {
+   "meaning": "A feminine noun meaning \"possessor of,\" \"owner of,\" or \"the one endowed with.\" It is the feminine counterpart of ذُو (dhū, \"possessor of, having\"). It is not a true relative pronoun like English \"which\"; rather it attaches to a following noun in the genitive to describe something as \"having\" or \"characterized by\" that quality. In 86:11, السَّمَآءِ ذَاتِ الرَّجۡعِ means \"the sky possessing / endowed with the returning (cycle)\" — i.e. the sky that has its recurring cycles. The source gloss \"which\" is a loose rendering of this \"possessing-of\" sense.",
+   "parts": [
+    {
+     "ar": "ذَات",
+     "tr": "dhāt",
+     "en": "possessor of / one having (feminine)"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "genitive ending (-i)"
+    }
+   ],
+   "grammar": "This is a feminine noun in the construct state (it leans on the word after it, here الرَّجۡعِ \"the returning\"), and the whole phrase functions as a description. The final -i ending is genitive: the word is in the genitive case here because it describes السَّمَآءِ (\"the sky\"), which itself is genitive after the oath particle wa- (\"By…\"). So the -i marks it as agreeing with and describing the sky being sworn by. The meaning is \"possessing / endowed with,\" linking the sky to the quality named next: \"the sky possessing the recurring cycle.\"",
+   "root": "ذ-و-ي (dh-w-y), commonly listed simply as the biradical ذ-و (dh-w). ذَات is the feminine of ذُو, a suppletive noun used only in the construct state to mean \"owner/possessor of.\" Its final ت is the feminine marker (tā' al-ta'nīth), not a root radical, so the word has no ordinary triliteral verbal root."
+  },
+  "3": {
+   "meaning": "The core sense is \"the returning\" or \"the act of bringing back / sending back again.\" In 86:11 it describes the sky as possessing al-rajʿ — its quality of return and recurrence: the cycles that come back round (rain that falls and is then drawn up again, the celestial bodies that rise, set, and rise once more, the seasons that revolve). It is a verbal noun (maṣdar) naming the very phenomenon of \"going/coming back,\" hence the contextual gloss \"recurring cycles\" or \"that which returns.\"",
+   "parts": [
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the (definite article; before the sun-letter rāʾ its lām assimilates into the r and doubles it, so it is pronounced ar-)"
+    },
+    {
+     "ar": "رَّجۡع",
+     "tr": "rajʿ",
+     "en": "a returning / sending-back; Form I verbal noun (maṣdar) of the root r-j-ʿ"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "genitive case ending (kasra)"
+    }
+   ],
+   "grammar": "A masculine verbal noun (maṣdar) carrying the definite article \"the.\" It stands in the genitive case, marked by the final -i (kasra), because it is the second term of a construct phrase (muḍāf ilayh) governed by ذَاتِ (\"possessor of\"): ذَاتِ الرَّجۡعِ = \"possessor of the return,\" i.e. the sky that has/owns this returning quality. (ذَاتِ is itself genitive as an adjective describing السَّمَاءِ, which is genitive after the oath particle وَ; the genitive then carries through to الرَّجۡعِ.) So the -i ending reads \"of the returning.\" The small mark after the word (ۙ) is a Quranic recitation pause sign, not part of the word's morphology or grammar.",
+   "root": "ر-ج-ع (r-j-ʿ) — to return, go back, come back"
+  }
+ },
+ "12": {
+  "1": {
+   "meaning": "\"And the earth\" — the ground, the land, the world beneath the sky. In the Qur'an \"al-arḍ\" is the standard term for the earth as Allah's creation, frequently paired with the heavens (as-samāwāt) to signify the whole of creation. In 86:12 it is sworn by — \"and the earth which splits open\" (with sprouting vegetation) — pointing to the earth's life-giving capacity as a sign of Allah's power.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "by (the oath particle, wāw al-qasam, used to swear an oath; rendered 'and' in the running sequence of things sworn by)"
+    },
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the (definite article)"
+    },
+    {
+     "ar": "اَرۡض",
+     "tr": "arḍ",
+     "en": "earth, land, ground"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "the genitive (-i) case ending"
+    }
+   ],
+   "grammar": "A feminine noun, \"earth,\" carrying the definite article al- (\"the\"). In 86:12 the leading wa- is the oath particle (wāw al-qasam), used to swear \"by\" something; it is not a coordinating conjunction here, though in the running list of things God swears by it is naturally read as \"and (by) the earth…\". The final -i is the genitive case ending, and it is the oath particle that assigns this genitive — the noun sworn by stands in the genitive. The following phrase dhāti l-ṣadʿ (\"the one with splitting\") is an appositive/descriptive follower: it agrees with al-arḍ in the genitive case but does not itself govern it. (More broadly, \"al-arḍ\" takes this same genitive shape after prepositions like fī, \"in the earth,\" or when joined to a preceding genitive such as \"the heavens\" — which is why this exact form recurs so often.)",
+   "root": "ا-ر-ض (ʾ-r-ḍ) — earth, land, ground"
+  },
+  "2": {
+   "meaning": "A feminine noun meaning \"possessor of,\" \"owner of,\" or \"the one endowed with.\" It is the feminine counterpart of ذُو (dhū, \"possessor of, having\"). It is not a true relative pronoun like English \"which\"; rather it attaches to a following noun in the genitive to describe something as \"having\" or \"characterized by\" that quality. In 86:11, السَّمَآءِ ذَاتِ الرَّجۡعِ means \"the sky possessing / endowed with the returning (cycle)\" — i.e. the sky that has its recurring cycles. The source gloss \"which\" is a loose rendering of this \"possessing-of\" sense.",
+   "parts": [
+    {
+     "ar": "ذَات",
+     "tr": "dhāt",
+     "en": "possessor of / one having (feminine)"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "genitive ending (-i)"
+    }
+   ],
+   "grammar": "This is a feminine noun in the construct state (it leans on the word after it, here الرَّجۡعِ \"the returning\"), and the whole phrase functions as a description. The final -i ending is genitive: the word is in the genitive case here because it describes السَّمَآءِ (\"the sky\"), which itself is genitive after the oath particle wa- (\"By…\"). So the -i marks it as agreeing with and describing the sky being sworn by. The meaning is \"possessing / endowed with,\" linking the sky to the quality named next: \"the sky possessing the recurring cycle.\"",
+   "root": "ذ-و-ي (dh-w-y), commonly listed simply as the biradical ذ-و (dh-w). ذَات is the feminine of ذُو, a suppletive noun used only in the construct state to mean \"owner/possessor of.\" Its final ت is the feminine marker (tā' al-ta'nīth), not a root radical, so the word has no ordinary triliteral verbal root."
+  },
+  "3": {
+   "meaning": "The splitting or cracking open — specifically the way the earth's surface splits apart as plants push up and water breaks through. The noun names the act/result of cleaving open. In the oath of 86:12, \"the earth, possessor of splitting,\" it evokes soil that cracks open to bring forth vegetation, which is why it is rendered \"sprouting plants.\"",
+   "parts": [
+    {
+     "ar": "الـ",
+     "tr": "l-",
+     "en": "the"
+    },
+    {
+     "ar": "صَدْع",
+     "tr": "ṣadʿ",
+     "en": "a splitting / cracking open"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "genitive ending (linking it to the preceding word)"
+    }
+   ],
+   "grammar": "A definite noun: the prefix الـ (al-) means \"the,\" and the stem ṣadʿ names a splitting or cleaving open. (The doubling/shadda on the ص is just the \"l\" of al- assimilating into the solar letter ص when spoken — al-ṣadʿ → aṣ-ṣadʿ — not a separate part of the word.) The final ـِ (-i) is the genitive case (kasrah). It is genitive because the word follows ذَاتِ (\"possessor of\") in a possessive linkage (iḍāfa) — literally \"the earth, possessor OF the splitting,\" i.e., the earth that cracks open. So the -i ending signals \"OF…,\" tying this noun to the word before it.",
+   "root": "ص-د-ع (ṣ-d-ʿ) — splitting, cleaving, cracking apart"
+  }
+ },
+ "13": {
+  "1": {
+   "meaning": "A two-part word combining the emphatic particle \"inna\" with the pronoun \"He.\" \"Inna\" has no clean English equivalent: it is a particle of emphasis and certainty placed at the head of a sentence to assert its truth strongly, conveying the force of \"indeed,\" \"surely,\" or \"most certainly.\" The attached pronoun refers to Allah. Together the word declares with emphasis: \"Indeed He / Surely He,\" opening a statement that affirms something about Allah with full conviction.",
+   "parts": [
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "indeed / surely (particle of emphasis and certainty)"
+    },
+    {
+     "ar": "هٗ",
+     "tr": "-hu",
+     "en": "He / Him (3rd-person masculine singular pronoun, here referring to Allah)"
+    }
+   ],
+   "grammar": "\"Inna\" is an emphasizing particle that introduces a nominal sentence and strongly affirms its content (like saying \"it is truly the case that...\"). Grammatically it governs what follows: the noun or pronoun after it takes the accusative as its \"subject\" (اسم إنَّ). The attached pronoun هٗ (-hu) is that subject in the accusative state, meaning \"He\" and referring to Allah, while the predicate (\"is fully capable...\") completes the emphatic claim. The pronoun appears here in its lengthened/rounded form -hū (marked by the small superscript wāw ٗ): this is the recited form the 3rd-masc-sg suffix takes after a fatha or damma, and here it follows the fatha on نَّ. (By contrast, after a kasra or yā' — an \"i\" environment — the same suffix becomes -hi, as in بِهِ bihi and فِيهِ fīhi.)",
+   "root": "— (inna is a particle and has no triliteral root; -hu is a pronoun and has no root)"
+  },
+  "2": {
+   "meaning": "At its core this means \"is surely a word/an utterance/a saying.\" The dominant element is قَوۡل (qawl), a verbal noun meaning a pronounced word, speech, or saying — here used of revealed divine speech (the Qur'an itself). The attached لَـ (la-) is the \"emphatic lām,\" a prefix that carries no English word of its own but stresses and affirms what follows, like saying \"is truly/most certainly a word.\" So the whole conveys emphatic affirmation: \"it is indeed, beyond doubt, a [decisive] word.\"",
+   "parts": [
+    {
+     "ar": "لَـ",
+     "tr": "la-",
+     "en": "surely / indeed (emphatic prefix)"
+    },
+    {
+     "ar": "قَوۡل",
+     "tr": "qawl",
+     "en": "word, speech, saying"
+    },
+    {
+     "ar": "ٌ",
+     "tr": "-un",
+     "en": "indefinite nominative ending ('a word')"
+    }
+   ],
+   "grammar": "This is a noun, not a verb. The opening لَـ (la-) is the emphatic lām: it adds force and certainty (\"surely, truly\") and typically appears in the predicate after the particle إِنَّ (\"indeed\"), as in inna-hu la-qawlun (\"indeed it is surely a word\"). The final ending is -un (nunation/tanwīn with ḍamma): the -u shows it is in the nominative case — it is the predicate (khabar) of إِنَّ, which takes the nominative, telling you what the subject \"it\" is — and the -n (nunation) marks it as indefinite, \"a word,\" not \"the word.\" So the ending says: indefinite + nominative, serving as the thing being affirmed about the subject.",
+   "root": "ق-و-ل (q-w-l) — to say, to speak; an utterance or word"
+  },
+  "3": {
+   "meaning": "A decisive, final pronouncement that separates truth from falsehood and right from wrong — a word that settles a matter conclusively and is no idle jest. As a description of the Qur'an, it means speech that judges definitively, distinguishing the true from the false with no ambiguity.",
+   "parts": [
+    {
+     "ar": "فَصۡل",
+     "tr": "faṣl",
+     "en": "a decisive separation; a clear-cut, conclusive judgment"
+    },
+    {
+     "ar": "ٌ",
+     "tr": "-un",
+     "en": "nominative indefinite ending ('a …')"
+    }
+   ],
+   "grammar": "This is a singular indefinite noun used here as a descriptive term (functioning like an adjective, 'decisive'). The final -un ending (the double-vowel 'tanwīn' ḍamma) marks two things at once: it is nominative case, because it describes the preceding noun qawl ('a word') — itself the predicate (xabar) of the emphatic particle inna and therefore nominative — and the tanwīn (the -n sound) signals that the noun is indefinite, 'a decisive [word]'. So the ending tells you it agrees with 'word' as its description and stands without 'the'.",
+   "root": "ف-ص-ل (f-ṣ-l) — to separate, divide, distinguish; hence to judge decisively (the same root gives faṣl 'a clear distinction' and the idea of a final verdict that parts truth from falsehood)"
+  }
+ },
+ "14": {
+  "1": {
+   "meaning": "A two-part particle cluster meaning \"and not / and ... is not.\" It joins the clause to what precedes with \"and\" (wa-), then negates it with mā — a particle that denies a present-tense statement of fact, asserting that something is simply not the case. In 86:14 it states that the Qur'an \"is not\" frivolous speech.",
+   "parts": [
+    {
+     "ar": "وَّ",
+     "tr": "wa-",
+     "en": "and (the shadda is a recitation/tajwid mark: the tanwīn ending the preceding word faṣlun assimilates into this waw — idghām with ghunnah — not an extra letter)"
+    },
+    {
+     "ar": "مَا",
+     "tr": "mā",
+     "en": "not (particle of negation)"
+    }
+   ],
+   "grammar": "Two indeclinable particles, so there is no case ending to parse. wa- is the connector \"and.\" The shadda written on it is a Quranic recitation (tajwid) mark, not a separate letter and not an assimilation to the word that follows: the preceding word in 86:13–14 is faṣlun (فَصۡلٞ), which ends in tanwīn (an -n sound), and waw is one of the letters into which a tanwīn/nūn merges with nasalization (idghām bi-ghunnah); the mushaf records that merger as a shadda on the waw. mā is a negating particle: placed before a nominal sentence (as in 86:14, \"and it is not to be taken lightly\") it flatly denies the statement, equivalent to English \"is not / does not.\" Because both are particles, nothing here inflects for person, number, or tense.",
+   "root": "— (particles; no triliteral root)"
+  },
+  "2": {
+   "meaning": "The standalone third-person masculine singular pronoun \"he\" or \"it.\" It is the independent (detached) form of the pronoun, used as a subject standing on its own rather than attached to a verb or noun. Depending on what it refers back to, it can mean \"he,\" \"it,\" or — in equational (verbless) sentences — function like the linking verb \"is\" (e.g., \"He is...\" / \"It is...\"). In 86:14 it points back to the Qur'an: \"and it [the Qur'an] is not to be taken lightly.\"",
+   "parts": [
+    {
+     "ar": "هُوَ",
+     "tr": "huwa",
+     "en": "he / it (independent 3rd-person masculine singular pronoun)"
+    }
+   ],
+   "grammar": "This is one indivisible word — a detached personal pronoun (ḍamīr munfaṣil), not built from a root with prefixes or endings. It is \"mabnī\" (indeclinable): its shape is permanently fixed, built on fatḥa, so the final \"-a\" vowel never changes for case and it reads the same whether it functions as subject, predicate, or object. It always refers to a single masculine (or grammatically masculine) entity. Standing alone like this, it most often serves as the subject of a sentence (\"he/it ...\") or as the linking \"is\" in a verbless (equational) sentence.",
+   "root": "— (a primitive pronoun; it has no triliteral root)"
+  },
+  "3": {
+   "meaning": "A solemn negation of frivolity. Al-hazl is jest, joking, or idle amusement — speech meant for play rather than truth. In its context (86:14, \"and it is not bil-hazl\"), the Qur'an declares itself the opposite of hazl: it is decisive, serious truth (al-fasl, \"the decisive word\" of the preceding verse), not lighthearted banter or empty entertainment to be brushed aside.",
+   "parts": [
+    {
+     "ar": "بِ",
+     "tr": "bi",
+     "en": "emphatic/redundant particle (ba zaidah). After the negation ma huwa (\"it is not...\") it carries no lexical meaning of its own; it simply intensifies the negation — roughly \"it is not jest at all.\""
+    },
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the (definite article; here gives a generic, whole-category sense — jest of any kind)"
+    },
+    {
+     "ar": "هَزۡلِ",
+     "tr": "hazli",
+     "en": "jest, joking, idle amusement"
+    }
+   ],
+   "grammar": "The core word is hazl, a masdar (verbal noun) from the verb hazala (\"to jest, joke\"), meaning the act or category of jesting. It is preceded by the definite article al- (\"the\"), which here lends a generic sense: jest of any kind. The whole is carried by the prefixed bi-. Crucially, this bi- is not the lexical preposition \"with\"; in the construction ma huwa bil-hazl it is the ba zaidah (the \"redundant ba\"), an emphatic particle that reinforces the negation without adding independent meaning — the sense is \"it is not jest in the least.\" Grammatically, the ba zaidah still governs the genitive, so hazl takes the genitive -i ending (hazli), exactly as any noun after bi- must.",
+   "root": "ه-ز-ل (h-z-l) — to jest, joke, speak in fun (the opposite of speaking in earnest, jidd)"
+  }
+ },
+ "15": {
+  "1": {
+   "meaning": "A two-part word combining the emphasis particle \"inna\" with the pronoun \"they.\" \"Inna\" has no clean English equivalent — it is a particle placed at the head of a sentence to affirm and strengthen the statement that follows, conveying the force of \"indeed,\" \"truly,\" or \"it is certainly the case that.\" Together, \"innahum\" asserts emphatically: \"Indeed they / truly they / they most certainly.\" It introduces a confident, settled declaration about the people in question. In 86:15 (اِنَّهُمۡ يَكِيۡدُوۡنَ كَيۡدًا) it carries the sense \"They are certainly devising ˹evil˺ plans.\"",
+   "parts": [
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "indeed / truly (emphasis particle)"
+    },
+    {
+     "ar": "هُمۡ",
+     "tr": "hum",
+     "en": "they / them (attached pronoun, 3rd person masculine plural)"
+    }
+   ],
+   "grammar": "\"Inna\" is an emphasis particle (ḥarf tawkīd wa-naṣb) that grammatically governs the noun or pronoun after it, placing it in the accusative (\"naṣb\") position. The attached pronoun \"-hum\" is that governed element — technically the ism inna (the \"noun of inna\"), which sits in the accusative case, NOT the nominative. It is the logical/semantic subject of the statement (the people the emphatic claim is about), but grammatically it functions as the accusative ism inna, not as a nominative subject (mubtadaʾ or fāʿil). The pronoun \"-hum\" is the 3rd-person masculine plural form (referring to a group of males, or a mixed/general group); like all attached pronouns it is indeclinable (mabnī) — its form \"hum\" stays fixed and does not inflect, so it occupies the accusative position without any visible case change. So the whole word means roughly \"indeed they (are)…,\" with \"inna\" supplying the emphasis and \"-hum\" naming the people the emphatic claim concerns.",
+   "root": "— (none — \"inna\" is a particle and \"hum\" is a pronoun; neither derives from a triliteral root)"
+  },
+  "2": {
+   "meaning": "They plot, scheme, and devise crafty stratagems. The verb describes the ongoing act of secretly contriving a plan or stratagem against someone — here, scheming against the truth and its Messenger. The present-tense form conveys continuous, repeated effort, so \"they are plotting / they keep scheming.\"",
+   "parts": [
+    {
+     "ar": "يَـ",
+     "tr": "ya-",
+     "en": "3rd-person masculine imperfect (present-tense) prefix"
+    },
+    {
+     "ar": "كِيۡد",
+     "tr": "kīd",
+     "en": "plot / scheme (Form I imperfect stem; ī from the hollow root's medial ya')"
+    },
+    {
+     "ar": "ـُوۡنَ",
+     "tr": "-ūna",
+     "en": "they (masculine plural) + indicative mood marker"
+    }
+   ],
+   "grammar": "A Form I present-tense (imperfect) verb, third person masculine plural (\"they\"). It comes from a \"hollow\" root whose middle radical is ya', which surfaces in this form as the long vowel ī (yakīd-). The ya- prefix marks the third-person masculine imperfect, while number is shown by the ending: here -ūna is built from -ū (\"they,\" masculine plural) plus -na, the marker of the indicative mood — telling us this is a plain factual statement (\"they are plotting\") rather than a wish or command. The imperfect aspect gives the sense of ongoing, repeated action.",
+   "root": "ك-ي-د (k-y-d) — to plot, scheme, devise a (often crafty or hostile) stratagem"
+  },
+  "3": {
+   "meaning": "A scheme, plot, or cunning stratagem — a covert plan devised against someone, typically with hostile or malicious intent. It carries the sense of deceptive, calculated maneuvering: laying a trap or working in secret to undermine another. In context it is \"evil planning\" or \"scheming.\"",
+   "parts": [
+    {
+     "ar": "كَيۡد",
+     "tr": "kayd",
+     "en": "a plot, scheme, cunning stratagem"
+    },
+    {
+     "ar": "ًا",
+     "tr": "-an",
+     "en": "indefinite accusative ending (\"a/an\" + object case)"
+    }
+   ],
+   "grammar": "A masculine singular noun in the indefinite accusative case, shown by the final -an (the tanwīn fatḥah, written ـً). Here it is a \"cognate accusative\" (maf'ul mutlaq): the same root is repeated after its verb (yakīdūna kaydan, literally \"they plot a plotting\") to intensify and emphasize the action — \"they scheme a mighty scheme\" / \"they plot relentlessly.\" The accusative ending marks it as the object/complement reinforcing the verb, not a separate thing being acted upon.",
+   "root": "ك-ي-د (k-y-d) — plotting, scheming, devising a cunning plan"
+  }
+ },
+ "16": {
+  "1": {
+   "meaning": "This is a conjunction joined to a verb meaning \"and/but I am devising a plan.\" The verb carries the sense of working out a stratagem or quietly setting a scheme in motion against an opponent. In context (86:16) it follows the statement that the disbelievers scheme — so Allah declares that He too is putting a plan into effect, one that will decisively outmatch theirs. The continuous present sense (\"I am planning\") conveys an ongoing, deliberate response.",
+   "parts": [
+    {
+     "ar": "وَّ",
+     "tr": "wa-",
+     "en": "and / but (connecting word; written with a shadda because the -an ending of the previous word كَيۡدًا merges into this waw in recitation)"
+    },
+    {
+     "ar": "اَ",
+     "tr": "a-",
+     "en": "I (the 'a-' prefix on a present-tense verb marks the first-person singular 'I')"
+    },
+    {
+     "ar": "كِيۡدُ",
+     "tr": "-kīdu",
+     "en": "am planning / scheming (present-tense verb stem)"
+    }
+   ],
+   "grammar": "A present/imperfect (ongoing) verb in the first person singular: the a- prefix means \"I,\" giving \"I plan / I am planning.\" The final -u ending is the indicative mood marker — it signals a plain factual statement (\"I do/am doing this\"), as opposed to a command or a negated/subjunctive form. The opening wa- is the connector \"and/but\"; it carries a shadda (doubling) because of a tajwid rule called idgham: the tanwin (the -an \"nunation\" sound) at the end of the preceding word كَيۡدًا assimilates into this waw. The waw is the recipient of the merging — the preceding nūn-sound flows into it — which is why the waw, not the previous word, takes the shadda. Root form I verb, simple and direct in meaning.",
+   "root": "ك-ي-د (k-y-d) — to plan, scheme, or devise a stratagem (often a covert plot or counter-plot)"
+  },
+  "2": {
+   "meaning": "A scheme, plot, or cunning stratagem — a covert plan devised against someone, typically with hostile or malicious intent. It carries the sense of deceptive, calculated maneuvering: laying a trap or working in secret to undermine another. In context it is \"evil planning\" or \"scheming.\"",
+   "parts": [
+    {
+     "ar": "كَيۡد",
+     "tr": "kayd",
+     "en": "a plot, scheme, cunning stratagem"
+    },
+    {
+     "ar": "ًا",
+     "tr": "-an",
+     "en": "indefinite accusative ending (\"a/an\" + object case)"
+    }
+   ],
+   "grammar": "A masculine singular noun in the indefinite accusative case, shown by the final -an (the tanwīn fatḥah, written ـً). Here it is a \"cognate accusative\" (maf'ul mutlaq): the same root is repeated after its verb (yakīdūna kaydan, literally \"they plot a plotting\") to intensify and emphasize the action — \"they scheme a mighty scheme\" / \"they plot relentlessly.\" The accusative ending marks it as the object/complement reinforcing the verb, not a separate thing being acted upon.",
+   "root": "ك-ي-د (k-y-d) — plotting, scheming, devising a cunning plan"
+  }
+ },
+ "17": {
+  "1": {
+   "meaning": "A command meaning \"so grant them respite\" / \"so bear with them, give them time.\" The Form II verb conveys letting someone be and not rushing them, allowing a period of delay before a reckoning. In 86:17 it is an instruction to the Prophet to be patient with the disbelievers and give them a little more time.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa",
+     "en": "so / then (connective prefix)"
+    },
+    {
+     "ar": "مَهِّلِ",
+     "tr": "mahhili",
+     "en": "grant respite! / give (them) time! (command, addressed to one male)"
+    }
+   ],
+   "grammar": "This is a Form II (taf'īl) command (imperative) verb addressed to a single male (\"you, grant respite!\"). Form II doubles the middle root letter (mahhala) and gives an intensive/causative force: from the idea of slowness it means \"to grant a delay, let be.\" The verb's own underlying ending is a silent sukūn (mahhil). The final kasra you see (mahhili) is NOT a case or mood ending and is NOT a separate element: it is a helping vowel (kasrat al-waṣl, the kasra of liaison) added to the verb's own final consonant because the next word begins with the article الـ (al-), whose connecting hamza (hamzat al-waṣl) drops in continuous speech. A consonant cannot link onto that, so a kasra is inserted to ease pronunciation: mahhil → mahhili l-kāfirīn. The fa- prefix simply links this command to what precedes (\"so...\").",
+   "root": "م-ه-ل (m-h-l) — slowness, unhurried delay; granting time/respite"
+  },
+  "2": {
+   "meaning": "\"The disbelievers / the ones who reject faith\" — referring to people who cover over and refuse the truth of Allah and His signs. The underlying image (from the root k-f-r) is of someone who \"covers up\" or \"buries\" the truth — concealing what they have been shown and being ungrateful for Allah's favors, hence willfully rejecting belief. The definite article (\"the\") points to a known group of such rejecters, whether a specific set of people or the class in general.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "l-",
+     "en": "the (definite article)"
+    },
+    {
+     "ar": "كٰفِر",
+     "tr": "kāfir",
+     "en": "disbeliever / one who covers over and rejects the truth (active participle)"
+    },
+    {
+     "ar": "ِيۡنَ",
+     "tr": "-īna",
+     "en": "masculine sound plural ending, oblique case (accusative/genitive)"
+    }
+   ],
+   "grammar": "A sound masculine plural noun — an active participle (\"the rejecters / disbelievers\") — made definite by the article al-. The ending is ـِينَ (-īna), not ـُونَ (-ūna): the -īna form marks the oblique case, used when the word is a direct object (accusative) or governed by a preposition or possessive (genitive). In 86:17 it is the accusative direct object of the Form II imperative فَمَهِّلِ (famahhil, \"so grant respite to / bear with\") — the disbelievers are the ones being acted upon by the command. Had it been the subject, it would read al-kāfirūna with -ūna.",
+   "root": "ك-ف-ر (k-f-r) — to cover over, conceal; hence to reject faith / be ungrateful, to disbelieve"
+  },
+  "3": {
+   "meaning": "A command meaning \"grant them respite\" / \"give them more time\" / \"bear with them a little.\" It is an order to the Prophet (peace be upon him) to leave the disbelievers be for now — to be patient with them and not press for their punishment, granting them a delay or reprieve. The sense carries gentleness and unhurried forbearance rather than mere passive waiting.",
+   "parts": [
+    {
+     "ar": "اَمۡهِلۡ",
+     "tr": "amhil",
+     "en": "grant respite! / give a delay! — Form IV imperative (2nd person masculine singular). The initial اَ (hamzat al-qaṭʿ with fatḥa) is built into the Form IV pattern أَفۡعِلۡ and is not a detachable prefix."
+    },
+    {
+     "ar": "هُمۡ",
+     "tr": "hum",
+     "en": "them (attached object pronoun, masculine plural)"
+    }
+   ],
+   "grammar": "This is a Form IV command (imperative) addressed to a single 'you' (the Prophet), the imperative of the verb أَمۡهَلَ. Its base أَمۡهِلۡ follows the Form IV imperative pattern أَفۡعِلۡ. The opening أَ is hamzat al-qaṭʿ (a proper, non-eliding hamza) carrying fatḥa, and it is an intrinsic part of the Form IV binyan (وزن أَفۡعَلَ) — not a separable imperative marker and not hamzat al-waṣl. (Hamzat al-waṣl in imperatives carries kasra and belongs to Forms I, VII, VIII and X, e.g. اِكۡتُبۡ; it never takes fatḥa here.) Form IV (أَفۡعَلَ) typically makes a verb causative, so the root sense of slowness/gentleness becomes \"to grant someone time, to let them be.\" The verb ends in a silent sukūn on the lām (amhil, no case vowel) — this jussive-form, vowel-less ending is what marks it as a command (\"give respite!\") rather than a statement. The attached هُمۡ (-hum) is the direct object 'them', so the whole word means \"grant-respite-to-them.\" It pairs with the parallel command مَهِّلۡ (mahhil, Form II) in the same ayah for emphasis.",
+   "root": "م-ﻫ-ل (m-h-l) — slowness, gentleness, granting time/respite"
+  },
+  "4": {
+   "meaning": "An adverb meaning \"a little,\" \"just a short while,\" or \"gently/slowly.\" It is the diminutive (by truncation) of irwad, the verbal noun of the Form IV verb arwada (\"to act gently, go easy, take one's time\"), from the root meaning \"to be gentle, easy, unhurried.\" The diminutive shrinks the sense to \"a tiny bit,\" so it conveys \"for just a brief moment\" or \"ever so gently.\" In 86:17 it tells the Prophet to grant the disbelievers only the briefest respite -- a measured, fleeting delay before the reckoning comes.",
+   "parts": [
+    {
+     "ar": "رُوَيۡد",
+     "tr": "ruwayd",
+     "en": "a little / gently (truncated diminutive of the verbal noun 'irwad')"
+    },
+    {
+     "ar": "ًا",
+     "tr": "-an",
+     "en": "accusative '-an' ending (tanwin); marks the cognate/adverbial accusative"
+    }
+   ],
+   "grammar": "The word has two well-established grammatical identities. (1) On its own, رويد is an ism fi'l amr -- a noun that stands in place of an imperative verb -- meaning \"go gently, take it easy, hold on.\" (2) With the accusative tanwin (the \"-an\" written with the alif), as here (ruwaydan), it functions as a maf'ul mutlaq: a cognate/absolute accusative that stands in for the verbal noun (masdar) of the action, reinforcing the command \"let them be\" with the sense \"...for just a little while\" or \"...gently.\" Morphologically رويد is a diminutive on the pattern fu'ayl. The authoritative view (Sibawayhi) is that it is a TRUNCATED diminutive (tasghir al-tarkhim) of irwad -- the masdar of the Form IV verb arwada -- not of the simple noun rud/rawd (which is the minority view Sibawayhi criticized, since rud does not stand in the position of a verb the way irwad does). The diminutive shrinks the meaning to \"just a tiny bit,\" and the \"-an\" ending matches the transliteration ruwaydan.",
+   "root": "ر-و-د (r-w-d) -- to go gently, seek without haste, move at ease"
+  }
+ }
+}
