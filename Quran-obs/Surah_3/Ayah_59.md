@@ -190,11 +190,13 @@ Indeed, the example of Jesus in the sight of Allah is like that of Adam. He crea
 
 ## AI Tafsir
 
-**What this ayah teaches:** And indeed, Allah is the Almighty, the All-Wise (62)And if they turn away, then surely, Allah is All-Aware of those who do mischief .
+**Essence** Allah, the All-Powerful, fashioned Adam from dust without father or mother; the One who did that can surely create 'Isa without a father. So his miraculous birth proves Allah's omnipotence, not 'Isa's divinity.
 
-**Classical tafsir:** Ibn Kathir notes: If the claim is made that 'Isa is Allah's son because he was created without a father, then the same claim befits Adam even more.
+**What it teaches** Allah draws a mathal (likeness, comparison) between 'Isa and Adam "in the sight of Allah" — that is, regarding Allah's creative power: Adam was made from turab (dust) by the word "Kun" (Be!), and what came into being did so at once. A fatherless birth cannot mean sonship of Allah, for Adam, born of neither father nor mother, would then have a far greater claim — and since that is plainly false, the claim about 'Isa is more false still.
 
-**From the Sunnah:** they never saw a delegation like them after that...Then Abu Harithah bin 'Alqamah and Al-'Aqib 'Abdul-Masih or As-Sayyid Al-Ayham spoke to the Messenger of Allah ﷺ, and they were Christians like the king (Roman King). Let us think about this matter and get back to you with our decision to what we want to do.' They left the Prophet ﷺ and conferred with Al-'Aqib, to whom they referred to for advice.
+**The scholars** Ibn Kathir explains that the likeness concerns "Allah's ability, since He created him without a father," just as "Allah created Adam without a father or a mother"; therefore the One who made Adam from dust by "Be!" can equally create 'Isa without a father. He presses the argument home: if a fatherless origin made 'Isa a son of Allah, "then the same claim befits Adam even more. However, since such a claim regarding Adam is obviously false, then making the same claim about 'Isa is even more false." He adds that Allah here displays the full range of His power — creating Adam from neither male nor female, Hawwa' from a male without a female, and 'Isa from a mother without a father — and that the miracles of 'Isa (healing, raising the dead, forming birds) all "occurred by Allah's leave, so that 'Isa would be a sign from Allah for people." Ibn Kathir and Maarif ul Quran both situate the ayah in the visit of the Christian delegation of Najran, who came disputing about 'Isa; the verses refuted their claims and then summoned the obstinate to the Mubahalah (mutual invocation of Allah's curse upon the liars). The closing words affirm tawhid: "none has the right to be worshipped but Allah."
+
+**Reflection** When truth is clear, hold to it without doubt — "be not of those who doubt" — for Allah, whose word is "Be!", knows every heart that turns away.
 ## Personal Reflections
 
 

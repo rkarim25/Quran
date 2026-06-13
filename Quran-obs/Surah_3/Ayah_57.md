@@ -178,13 +178,17 @@ And as for those who believe and do good, they will be rewarded in full. And All
 
 ## AI Tafsir
 
-**Context:** (This is what We recite to you of the verses and the Wise Reminder.) meaning, "What We narrated to you, O Muhammd, regarding 'Isa, his birth and his life, is what Allah conveyed and revealed to you, sent down from the Al…
+**Essence**
+Allah pledges to pay in full the wage of those who believe and do righteous deeds, while withholding His love from the wrongdoers.
 
-**What this ayah teaches:** And Allah does not like the wrongdoers (57)This is what We recite to you of the verses and the Wise Reminder .
+**What it teaches**
+After warning the disbelievers of torment (v.56), Allah turns to "those who believe and do righteous deeds" (alladhīna āmanū wa ʿamilū al-ṣāliḥāt) and promises fayuwaffīhim ujūrahum — to pay their wages completely, without shortfall. The closing line, "Allah does not love the wrongdoers (al-ẓālimīn)," seals the contrast: faith joined to action is beloved and fully rewarded, while injustice and disbelief forfeit that love.
 
-**Classical tafsir:** Ibn Kathir notes: And on the Day of Resurrection, he ['Isa] will be a witness against them.)[4:156-159] His death' refers to 'Isa, and the Ayah means that the People of the Book will believe in 'Isa, before 'Isa dies.
+**The scholars**
+Ibn Kathir reads this within the verdict of vv.55-58 on 'Isa (peace be upon him): Allah saves him by raising him, makes his true followers superior to the disbelievers until the Day of Resurrection, then judges between them. The believers' reward, he explains, is paid "in this life, with victory and domination, and in the Hereafter, with Paradise and high grades" — citing Allah's promise of succession in the land to those who believe and do righteous deeds (24:55). The true believers in 'Isa, he stresses, are the Muslims who followed the unlettered Final Prophet (peace be upon him); those who altered 'Isa's religion (he recounts the changes ascribed to Constantine) fell into the very wrong this verse condemns. Maarif ul Quran (citing Bayan al-Qur'an) draws out the closing clause: a believer struck by suffering in this world has his sins forgiven and his Hereafter punishment lightened, "contrary to the condition of" the disbeliever whose worldly punishment is no expiation — because "believers are dear because of their belief and the beloved ones are always treated in such a manner," while the disbelievers are detested because of their disbelief.
 
-**From the Sunnah:** The Messenger of Allah ﷺ used to recite the following words when he would awaken; This is why Allah allowed Muslims to conquer the eastern and western parts of the world and the kingdoms of the earth.
+**Reflection**
+Pair faith with sincere action and bear hardship patiently — for the One who does not love wrongdoing has bound Himself to pay His servants' wages in full, here and in the Hereafter.
 ## Personal Reflections
 
 
