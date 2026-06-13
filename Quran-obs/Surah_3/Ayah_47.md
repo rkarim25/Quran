@@ -190,9 +190,20 @@ Mary wondered, “My Rabb! How can I have a child when no man has ever touched m
 
 ## AI Tafsir
 
-**What this ayah teaches:** Not restricted by it, 'Allah creates what He wills', that is, His will is all sufficient to bring some-thing into existence.
+**Essence**
+When the virgin Maryam marveled that she could bear a son untouched by any man, the answer came: thus does Allah create whatever He wills, needing only to say "Be."
 
-**Classical tafsir:** Ibn Kathir notes: Allah used the word 'create' here instead of the word 'does' as in the tale about Zakariyya [3:40], to eradicate any evil thought concerning 'Isa.
+**What it teaches**
+Maryam's question "annā" (how can this be?) is the wonder of a chaste woman who never married nor intended to — not doubt of Allah's power; the reply "kadhāliki" (so it will be) affirms that Allah's khalq (creating) is bound by no medium, cause, or norm. His decree (qaḍā amran) is executed by the single word "kun fa-yakūn" — "Be, and it is" — instant, without delay.
+
+**The scholars**
+Ibn Kathir explains that Maryam meant, "How can I have a son while I did not marry, nor intend to marry, nor am I an indecent woman, may Allah forbid?" — and the angel conveyed Allah's answer that He is Mighty in power, nothing escaping His ability. He notes a precise choice of wording: Allah here says "create" (yakhluqu) rather than "does," as He did in the account of Zakariyya (3:40), in order to eradicate any evil thought concerning 'Isa — affirming 'Isa was created directly by Allah, related to his mother only because he had no father. "When He has decreed something, He says to it only: 'Be, and it is'" means whatever Allah wills comes into existence instantly, which Ibn Kathir links to "Our commandment is but one as the twinkling of an eye" (54:50). Maarif ul Quran adds that the question was whether this would be a Divine miracle or a marriage; the answer eliminates marriage — "His will is all sufficient to bring something into existence. He needs no medium or cause."
+
+**From the Sunnah**
+This sign belongs to the preceding glad tiding (3:46), that 'Isa "will speak to the people in the cradle." Ibn Kathir illustrates that infant speech with two narrations of Abu Hurayrah: in the first, transmitted by Muhammad bin Ishaq, the Prophet ﷺ said, "No infant spoke in the cradle except 'Isa and the companion of Jurayj"; in the second, transmitted by Ibn Abi Hatim, "No infant spoke in the cradle except three: 'Isa, the boy during the time of Jurayj, and another boy."
+
+**Reflection**
+Maryam was given no means — no husband, no cause — only a word. So when you face what has no visible path forward, do not exhaust yourself searching for the missing medium; the decree of Allah does not wait on means it never required.
 ## Personal Reflections
 
 

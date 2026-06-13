@@ -187,11 +187,17 @@ When the angels proclaimed, “O Mary! Allah gives you good news of a Word from 
 
 ## AI Tafsir
 
-**What this ayah teaches:** Delivering the Good News to Maryam of 'Isa's Birth This Ayah contains the glad tidings the angels brought to Maryam that she would give birth to a mighty son who will have a great future. Verily, Allah gives you the glad tidings of a Word from Him, his name will be Al-Masih, 'Isa, the son of Maryam, held in honor in this world and in the Hereafter, and he will be one of those who are near to Allah…
+**Essence**
+The angels announce to Maryam a son created by Allah's word "Be" — al-Masih, 'Isa son of Maryam — honoured in both worlds and brought near to Allah.
 
-**Classical tafsir:** Ibn Kathir notes: Allah used the word 'create' here instead of the word 'does' as in the tale about Zakariyya [3:40], to eradicate any evil thought concerning 'Isa.
+**What it teaches**
+Each phrase of the announcement carries weight. "A Word from Him" (kalimatin minhu) does not mean 'Isa is the divine speech; it means a son who comes into existence by Allah's command "Be" (kun), without a father — the same sense in which Yahya is one who "believed in a Word from Allah" [3:39]. He is named al-Masih, "the Messiah," because when he wiped (mash) the sick they were healed by Allah's leave; and "son of Maryam" ties him to his mother precisely because he had no father. He is wajihan — held in honour — fi al-dunya wal-akhirah, and among al-muqarrabin, those brought near to Allah in rank.
 
-**From the Sunnah:** But, speaking to people during one's middle age is very normal, something everyone does no matter whether he is a Muslim, or a non-Muslim, learned or illiterate. (Sahih Muslim)
+**The scholars**
+Ibn Kathir glosses "a Word from Him" as a son brought into being by Allah's word "Be," and he was — the reading of the majority of scholars, paralleling the description of Yahya [3:39]. He explains that "held in honour" means 'Isa will be a leader honoured by Allah through the Law and Scripture revealed to him, and in the Hereafter he will intercede by Allah's leave on behalf of some people, like his brethren the mighty Messengers, peace be upon them. Maarif ul Quran notes this verse resumes the story of Maryam to prepare the ground for the fuller account of 'Isa's birth, mission, and miracles. Citing Bayan al-Qur'an of Maulana Ashraf Thanavi, it observes that the foretold speech "in manhood" (kahl) signals a miracle still to come: since 'Isa was raised alive to the heavens in his youth and never reached middle age in this world, his speaking to people then can occur only when he returns — a standing argument for the Islamic belief in his second coming.
+
+**Reflection**
+A single word — "Be" — was enough to bring a fatherless son into the world and make him honoured in both lives. What Allah decrees does not wait on means or causes; when He wills a thing, it simply is.
 ## Personal Reflections
 
 

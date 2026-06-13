@@ -131,11 +131,25 @@ And he will speak to people in infancy and adulthood and will be one of the righ
 
 ## AI Tafsir
 
-**What this ayah teaches:** 'Isa will be honored in the Hereafter and will intercede with Allah, by His leave, on behalf of some people, just as is the case with his brethren the mighty Messengers of Allah, peace be upon them all.
+**Essence**
 
-**Classical tafsir:** Ibn Kathir notes: Allah used the word 'create' here instead of the word 'does' as in the tale about Zakariyya [3:40], to eradicate any evil thought concerning 'Isa.
+'Isa, son of Maryam, will speak to people in the cradle and again in maturity, and will be among the righteous — two utterances bookending one life, each a witness to Allah's power.
 
-**From the Sunnah:** But, speaking to people during one's middle age is very normal, something everyone does no matter whether he is a Muslim, or a non-Muslim, learned or illiterate. (Sahih Muslim)
+**What it teaches**
+
+The ayah names three gifts. 'Isa will speak as an infant in the cradle (fi al-mahd) — a clear miracle — and again as a grown man; and both speeches serve one call: to the worship of Allah alone. He will also be min al-salihin, "of the righteous," upright in word and deed. Salah here is no empty title — Ibn Kathir explains it is righteousness "in his statements and actions," for he will possess pure knowledge and righteous works together.
+
+**The scholars**
+
+Ibn Kathir reads the cradle-speech as a miracle from Allah and the manhood-speech as coming "by Allah's revelation to him," both calling "to the worship of Allah Alone without partners." He glosses "of the righteous" as righteousness in statement and action, joined to pure knowledge. Maarif ul Quran (citing Maulana Ashraf Thanavi's Bayan al-Qur'an) presses a subtle point: ordinary adults speak, so why single out the adult speech? Because mentioning it beside the infant speech shows the childhood speech was no baby-talk but rational, learned, and eloquent — speech worthy of a grown man. Maarif adds the historical reading favored by the Islamic position: hadith narrations indicate 'Isa was raised alive to the heavens around age 30–35, never reaching kahl (middle age) in this world — so his speaking in middle age can only occur when he returns, making that speech a second miracle like the first.
+
+**From the Sunnah**
+
+The Prophet ﷺ named the cradle-speech of 'Isa as a rare wonder: "No infant spoke in the cradle except 'Isa and the companion of Jurayj." (recorded by Muhammad bin Ishaq from Abu Hurayrah) In another narration he counted three: "'Isa, the boy during the time of Jurayj, and another boy." (recorded by Ibn Abi Hatim from Abu Hurayrah)
+
+**Reflection**
+
+When Allah wills a thing, no age, weakness, or seeming impossibility can hold it back — so trust His power, and let your own words and works testify to Him alone.
 ## Personal Reflections
 
 

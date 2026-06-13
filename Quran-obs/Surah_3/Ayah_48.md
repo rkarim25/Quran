@@ -129,9 +129,19 @@ And Allah will teach him writing and wisdom, the Torah and the Gospel, and a mes
 
 ## AI Tafsir
 
-**What this ayah teaches:** This is because the Qur'an is the Word of Allah and is nothing like that of the creatures.
+**Essence**
+Allah Himself would be the teacher of 'Isa (peace be upon him), endowing him with the Book, wisdom, and both the Tawrah and the Injil — a sign of his prophethood, sent to the Children of Israel.
 
-**Classical tafsir:** Ibn Kathir notes: This is because the Qur'an is the Word of Allah and is nothing like that of the creatures.
+**What it teaches**
+Allah names His own gift to 'Isa: al-Kitab (here, the skill of writing), al-Hikmah (wisdom — right understanding and sound judgment), the Tawrah revealed to Musa, and the Injil revealed to 'Isa himself. Because the very curriculum is taught by Allah, the knowledge that authenticates 'Isa's mission is received, not self-generated — his standing rests on what Allah gave him.
+
+**The scholars**
+Ibn Kathir explains that "the Book" here refers to writing, while "the Tawrah is the Book that Allah sent down to Musa, son of 'Imran, and the Injil is what Allah sent down to 'Isa, son of Maryam" — and 'Isa memorized both. He notes the deep wisdom that Allah sent every Prophet with a miracle suited to his age: Musa with miracles that overwhelmed the magicians of his day, and 'Isa — in an era when medicine and physics were advancing — with healing the blind and the leper and reviving the dead, asking, "How can any physician bring life to clay, cure blindness and leprosy and bring back to life those entrapped in the grave?" Muhammad (peace be upon him) was sent among master poets with the inimitable Qur'an, "because the Qur'an is the Word of Allah and is nothing like that of the creatures."
+
+Maarif ul Quran (Mufti Shafi') gathers the "august virtues" of 'Isa in this verse: learning Scriptures and wisdom directly from Allah, and being sent as a Messenger to all the Children of Israel. On the following verse (50) it adds that 'Isa confirms the Tawrah yet makes lawful part of what was forbidden — so the earlier law stands partly abrogated, his "station of prophethood" being the conclusive argument for that abrogation.
+
+**Reflection**
+All true knowledge and wisdom are gifts from Allah — receive them with humility, and let learning bend the heart toward worship of the One who teaches.
 ## Personal Reflections
 
 
