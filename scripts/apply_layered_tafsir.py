@@ -24,6 +24,15 @@ DATA = ROOT / "docs" / "data"
 SECTION = re.compile(r"## AI Tafsir\s*\n.*?(?=\n## |\Z)", re.DOTALL)
 
 
+def normalize_rendered(text: str) -> str:
+    """Strip any stray leading heading/preamble so the entry starts at the first layer (**Essence**)."""
+    text = text.strip()
+    i = text.find("**Essence**")
+    if i > 0:
+        text = text[i:].strip()
+    return text
+
+
 def upsert_ai_tafsir(text: str, content: str) -> str:
     """Replace the body of the `## AI Tafsir` section, preserving the rest."""
     block = "## AI Tafsir\n\n" + content.strip()
@@ -43,7 +52,7 @@ def main() -> int:
     surah = args.surah
 
     raw = json.loads(Path(args.input).read_text(encoding="utf-8"))
-    finals = {int(k): str(v).strip() for k, v in raw.items() if str(v).strip()}
+    finals = {int(k): normalize_rendered(str(v)) for k, v in raw.items() if str(v).strip()}
     if not finals:
         print("Nothing to apply (empty input).", file=sys.stderr)
         return 1
