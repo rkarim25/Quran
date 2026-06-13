@@ -24,9 +24,16 @@ DATA = ROOT / "docs" / "data"
 SECTION = re.compile(r"## AI Tafsir\s*\n.*?(?=\n## |\Z)", re.DOTALL)
 
 
+LAYER_LABELS = ("Essence", "What it teaches", "The scholars", "From the Sunnah", "Reflection")
+
+
 def normalize_rendered(text: str) -> str:
-    """Strip any stray leading heading/preamble so the entry starts at the first layer (**Essence**)."""
+    """Normalize finalize drift to the canonical layered format: convert markdown
+    headings for the known layers into bold labels, and strip any stray leading
+    title/preamble so the entry starts at the first layer (**Essence**)."""
     text = text.strip()
+    for label in LAYER_LABELS:
+        text = re.sub(rf"(?m)^#{{1,6}}\s*{re.escape(label)}\s*$", f"**{label}**", text)
     i = text.find("**Essence**")
     if i > 0:
         text = text[i:].strip()
