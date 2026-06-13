@@ -194,11 +194,15 @@ Certainly, this is the true narrative, and there is no god except Allah. And ind
 
 ## AI Tafsir
 
-**What this ayah teaches:** And indeed, Allah is the Almighty, the All-Wise (62)And if they turn away, then surely, Allah is All-Aware of those who do mischief .
+**Essence** After laying bare the truth about 'Isa, Allah decisively settles the matter: this is the only true account, there is no true object of worship but Allah alone, and He is the All-Mighty, the All-Wise.
 
-**Classical tafsir:** Ibn Kathir notes: Since curse means 'moving someone far away from the divine mercy', - and moving far away from mercy is being close to divine wrath--therefore, the essence of the meaning is: Wrath be on the liar.
+**What it teaches** "Inna hadha lahuwa al-qasasu al-haqq" declares that what Allah narrated about 'Isa — created by His word "Be," like Adam from dust — is the plain, unavoidable truth; as Ibn Kathir glosses the preceding "truth from your Lord," what is beyond truth except falsehood? The verse then anchors the whole dispute in tawhid: "wa ma min ilahin illa Allah" (no god worthy of worship but Allah), while al-'Aziz (the All-Mighty, never overpowered) and al-Hakim (the All-Wise, who orders all by perfect wisdom) refute every claim that 'Isa is divine or "a son of Allah."
 
-**From the Sunnah:** they never saw a delegation like them after that...Then Abu Harithah bin 'Alqamah and Al-'Aqib 'Abdul-Masih or As-Sayyid Al-Ayham spoke to the Messenger of Allah ﷺ, and they were Christians like the king (Roman King). Let us think about this matter and get back to you with our decision to what we want to do.' They left the Prophet ﷺ and conferred with Al-'Aqib, to whom they referred to for advice.
+**The scholars** Ibn Kathir explains "this is the true narrative" as: what was narrated to the Prophet (peace be upon him) about 'Isa is the plain truth that cannot be avoided, and "none has the right to be worshipped but Allah." He sets this against the Najran delegation's three errors — that 'Isa "is Allah," "is the son of Allah," or "is one of a trinity" — noting his miracles (reviving the dead, healing, speaking in the cradle, forming birds) all occurred by Allah's leave, so that he "would be a sign from Allah for people," and that the Qur'an refuted all these claims. The following ayah warns that those who turn away "by abandoning this truth" are mufsidun (mischief-makers) of whom Allah is All-Aware. Maarif ul Quran adds, on the preceding Mubahalah, that since curse means "moving someone far away from the divine mercy" — and distance from mercy is nearness to divine wrath — its essence is "Wrath be on the liar," so the falsehood would expose itself before the disbelievers.
+
+**From the Sunnah** Al-'Aqib and As-Sayyid of Najran drew back from the Mubahalah, fearing that if the Prophet (peace be upon him) were truly a prophet, they and their offspring would never prosper after invoking Allah's curse; so they sought a treaty and a trustworthy man instead. (Al-Bukhari) And the Prophet (peace be upon him) declared that had those who sought the Mubahalah gone through with it, they would have returned to find neither estates nor families. (Imam Ahmad; also Al-Bukhari, At-Tirmidhi and An-Nasa'i — Hasan Sahih)
+
+**Reflection** When the truth of Allah's oneness is clear, hold to it without wavering — and take heart from Najran, where a falsehood unwilling to stand before Allah's curse exposed itself by retreating.
 ## Personal Reflections
 
 

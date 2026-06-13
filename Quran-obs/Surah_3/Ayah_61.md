@@ -238,11 +238,17 @@ Now, whoever disputes with you concerning Jesus after full knowledge has come to
 
 ## AI Tafsir
 
-**What this ayah teaches:** However, send with us a man from your Companions whom you are pleased with to judge between us regarding our monetary disputes, for you are acceptable to us in this regard.'" Al-Bukhari recorded that Hudhayfah said, "Al-'Aqib and As-Sayyid, two leaders from Najran, came to the Messenger of Allah ﷺ seeking to invoke Allah for curses (against whoever is unjust among them), and on…
+**Essence** When argument fails to move those who deny the truth about 'Isa, Allah commands His Prophet ﷺ to summon them—with their dearest, their children and households—to a mutual prayer that Allah's curse fall upon the liars.
 
-**Classical tafsir:** Ibn Kathir notes: Since curse means 'moving someone far away from the divine mercy', - and moving far away from mercy is being close to divine wrath--therefore, the essence of the meaning is: Wrath be on the liar.
+**What it teaches** After the certain "knowledge" (al-'ilm) of 'Isa's reality has come, the Prophet ﷺ is told to call disputers to the Mubahalah—literally "mutual prayer," a procedure sanctioned in the Shari'ah where, once arguments are exhausted, both sides jointly invoke Allah's curse (la'nah) on whichever party is false. Maarif ul Quran explains that "curse" means being moved far from Allah's mercy, hence near to His wrath, so the essence is: wrath be upon the liar—after which the truth becomes plain even to the deniers. Bringing "our sons... our women... ourselves" makes the appeal most sincere, staking one's most beloved on the truth.
 
-**From the Sunnah:** they never saw a delegation like them after that...Then Abu Harithah bin 'Alqamah and Al-'Aqib 'Abdul-Masih or As-Sayyid Al-Ayham spoke to the Messenger of Allah ﷺ, and they were Christians like the king (Roman King).
+**The scholars** Ibn Kathir places this within the refutation of the Najran Christian delegation—sixty horsemen, fourteen of them chiefs, with three principal leaders: Al-'Aqib (their decision-maker), As-Sayyid (their scholar), and the priest Abu Harithah—who came to Madinah claiming 'Isa was divine, a son of Allah, or one of a trinity; Allah is far above what they attribute to Him. The preceding ayat had already settled the matter by likening 'Isa's fatherless creation to Adam's creation from dust by "Be!"—for the One who made Adam with neither father nor mother can surely make 'Isa without a father; and if a fatherless birth made one a son of Allah, Adam would have the greater claim, which is plainly false. On "our sons," Maarif ul Quran notes the word is general, covering grandsons—so Hasan and Husayn are included; 'Ali enters too, with the further reason that he was raised under the Prophet's ﷺ patronage like a son. This refutes the Shi'ah inference that 'Ali, placed under "ourselves," was thereby the immediate successor—the argument collapses once "sons" is read in its ordinary sense.
+
+**From the Sunnah** Al-'Aqib and As-Sayyid of Najran came to invoke Allah's curse, but one warned the other: by Allah, if he is truly a Prophet and we do this, neither we nor our offspring will ever prosper afterward—so they withdrew and asked instead for a trusted man to be sent with them. (Al-Bukhari, narrated by Hudhayfah)
+
+The Prophet ﷺ said that had the people who sought Mubahalah with him actually gone through with it, they would have returned home to find neither estates nor families. (Imam Ahmad; also Al-Bukhari, At-Tirmidhi, and An-Nasa'i — narrated by Ibn 'Abbas; At-Tirmidhi graded it Hasan Sahih)
+
+**Reflection** When you possess certain truth, hold it with such conviction that you would stake everything dear on it. And weigh the Najran leaders, whose own words betrayed a fear that he was truly a Prophet, yet who clung to their religion rather than yield—a warning against the pride that would rather keep its position than follow what it cannot honestly deny.
 ## Personal Reflections
 
 

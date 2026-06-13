@@ -218,11 +218,25 @@ Say, “O People of the Book! Let us come to common terms: that we will worship 
 
 ## AI Tafsir
 
-**Context:** (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I (Allah)], so worship Me (Alone and none else).") [21:25] and, Muhammad bin Ishaq and other scholar…
+**Essence**
 
-**What this ayah teaches:** "0 people of the Book, come to a word common between us and you that we worship none but Allah, that we associate nothing with Him and that some of us do not take some others as Lord instead of Allah." (Al-Bukhari) The statement, 'you be witness...' in the last sentence of the verse teaches us a lesson, that is, should someone refuse to accept the truth, even after it has been proved clearly, then…
+Allah commands His Prophet ﷺ to call the People of the Book to the one truth all revelation shares: worship of Allah alone, with no partner ascribed to Him and no creature — whether idol, false deity, or fellow human — elevated to lordship beside Him.
 
-**Classical tafsir:** Ibn Kathir notes: Therefore, it is possible that the Prophet ﷺ wrote this statement (Say, "O People of the Scripture...") in his letter to Heraclius before the Ayah was revealed.
+**What it teaches**
+
+The ayah invites the People of the Book to a "common word" (kalimah sawa') — a fair statement equally binding on both sides. That word is pure tawhid: worship of Allah alone, rejection of every form of shirk, and refusal to take one another as "lords" (arbab) beside Allah. If they turn away, the believer need not argue; he simply declares, "Bear witness that we are Muslims" — those who have submitted to Allah alone.
+
+**The scholars**
+
+Ibn Kathir explains that the audience includes "the Jews and Christians, and those who follow their ways." "Word" here, he notes, means a complete sentence, and Allah calls it sawa' — "an honest and righteous word that is fair to both parties." Worshipping Allah alone, he clarifies, means worshipping "neither a statue, cross, idol, Taghut (false gods), fire or anything else," for this is the single message of every Messenger — and he cites Allah's words that no Messenger was sent except to call to Allah alone and shun the Taghut (21:25; 16:36). On "none of us shall take others as lords besides Allah," Ibn Jurayj draws out the practical meaning: "We do not obey each other in disobedience to Allah" — obedience given to a creature against Allah's command is itself a kind of lordship. From the verse's opening, Maarif ul Quran derives a foundational principle of Tabligh and Da'wah: when calling a group of differing beliefs, begin from the point of mutual agreement — here, the Oneness of Allah.
+
+**From the Sunnah**
+
+The Prophet ﷺ embedded this very verse in his letter inviting Heraclius, the Byzantine emperor, to Islam: "O people of the Book, come to a word common between us and you, that we worship none but Allah, that we associate nothing with Him and that some of us do not take some others as Lord instead of Allah." (Al-Bukhari)
+
+**Reflection**
+
+Invite others to the truth on the common ground of Allah's Oneness. And once the truth has been made plain, Maarif teaches, the closing words — "Bear witness that we are Muslims" — show the proper course: re-state your own belief and conclude the conversation, for entering into further debate and verbal altercation is not appropriate.
 ## Personal Reflections
 
 
