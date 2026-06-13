@@ -184,11 +184,15 @@ O believers — eat from the good things We provided and be grateful to Allah, i
 
 ## AI Tafsir
 
-**What this ayah teaches:** Truly, Allah is Oft-Forgiving, ar-Rahim .
+**Essence** Eat from the pure, lawful provisions Allah has given you, and let thanks to Him be the mark of those who truly worship Him alone.
 
-**Classical tafsir:** Ibn Kathir notes: Truly, Allah is Oft-Forgiving, ar-Rahim.) "For what is eaten out of necessity." Sa'id bin Jubayr said, "Allah is pardoning for what has been eaten of the unlawful, and Merciful' in that He allowed the prohibited during times of necessity." Masruq said, "Whoever is in dire need, but does not eat… Issue: According to Ash-Shafi'i and other scholars, milk and eggs that are inside dead unslaughtered…
+**What it teaches** Allah commands the believers to eat from the *tayyibat* — the pure, wholesome, lawful things He has provided — and to respond with *shukr* (grateful thanks) to Him, tying that gratitude directly to sincere worship: "if it is indeed He Whom you worship." To be truly His servant is to receive His provision as a gift and to thank the Giver alone.
 
-**From the Sunnah:** Eating from pure sources is a cause for the acceptance of supplications and acts of worship, just as eating from impure sources prevents the acceptance of supplications and acts of worship, as mentioned in a Hadith recorded by Imam Ahmad, that Abu Hurayrah sai… (Musnad Ahmad) The Musnad, Al-Muwatta' and the Sunan recorded the Prophet ﷺ saying about the sea…
+**The scholars** Ibn Kathir explains that Allah commands His believing servants to eat from the pure things He created for them and to thank Him, "if they are truly His servants," and stresses that eating from pure sources is a cause for the acceptance of supplications and acts of worship, while eating from impure sources prevents their acceptance. Maarif ul Quran sets the context: just before, the *mushrikin* had wrongly made unlawful what was good and permissible, so here the believers are warned against the same error and reminded of Allah's blessings so as to be grateful. Maarif also unpacks the inner effect: eating *haram* promotes evil instincts, kills the taste of *ibadah*, and renders prayers ineffective, whereas eating *halal* generates inner light, breeds a distaste for sin, leads to high morals, and creates a heart that welcomes worship — and whose prayers are answered.
+
+**From the Sunnah** Allah is Tayyib (Pure) and accepts only what is pure; He commanded the believers as He commanded the Messengers — "Eat of the lawful things We have provided you." Then the Prophet ﷺ described a man on a long journey, disheveled and dusty, raising his hands to the sky crying "O Lord! O Lord!" — yet his food, drink, and clothing are unlawful and he is nourished by the unlawful, so how can his supplication be answered? (Muslim and At-Tirmidhi, recorded by Imam Ahmad, as cited by Ibn Kathir)
+
+**Reflection** Before you raise your hands in prayer, ask what filled them first — keep your provision pure, and meet every lawful blessing with thanks to the One who gave it.
 ## Personal Reflections
 
 

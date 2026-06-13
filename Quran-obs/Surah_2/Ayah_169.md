@@ -110,9 +110,15 @@ He only commands evil, indecency, and that you attribute to Allah what you do no
 
 ## AI Tafsir
 
-**What this ayah teaches:** He commands you to commit what is even worse, that is, saying about Allah without knowledge.' So this includes every innovator and those who reject the truth.
+**Essence** Satan's whole agenda is laid bare: he urges you toward evil and indecency, and worst of all, to speak about Allah without knowledge.
 
-**Classical tafsir:** Ibn Kathir notes: The word fahsha covers what is immodest.
+**What it teaches** The word su' (السوء) covers what troubles every sound and reasonable conscience — sin in general — while fahsha' (الفحشاء) is what is shameless and immodest; some commentators read su' as sin as such and fahsha' as the major sins. But Satan's gravest command is the climax of the verse: that you "say about Allah what you do not know" — fabricating in religion and ascribing to Allah claims with no knowledge behind them.
+
+**The scholars** Ibn Kathir explains the verse means: your enemy Satan commands you to commit evil acts and what is worse than that — such as adultery and the like — then commands you to commit what is even worse still, namely saying about Allah without knowledge; and "this includes every innovator and disbeliever." Maarif ul Quran clarifies that "He only orders you" (innama ya'murukum) means the instigating of a suggestion in the heart — Satan does not compel, he whispers.
+
+**From the Sunnah** "The son of Adam is influenced by a suggestion from Satan and a suggestion from the angel": the satanic suggestion brings forth the expedient gains in evil deeds and thereby opens the avenues of negating the truth, while the angelic suggestion promises reward and success for good deeds and leaves the heart at peace in its attestation of the truth. (narrated from 'Abdullah ibn Mas'ud, quoted in Maarif ul Quran; no primary collection is named in the source)
+
+**Reflection** When a thought urges you toward sin — or toward speaking on Allah's religion without knowledge — recognize whose suggestion it is, and answer it with the peace the angel's prompting brings.
 ## Personal Reflections
 
 

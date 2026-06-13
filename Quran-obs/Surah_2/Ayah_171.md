@@ -161,11 +161,13 @@ The likeness of those who reject the warning is like a flock that hears nothing 
 
 ## AI Tafsir
 
-**Context:** Allah states that if the those who reject the truth and polytheists are called to follow what Allah has revealed to His Messenger ﷺ and abandon the practices of misguidance and ignorance that they indulge in, they will say, "Rather.
+**Essence** When a heart refuses to grasp Allah's call, hearing the truth becomes as empty as a flock catching only the shepherd's noise, not his meaning.
 
-**What this ayah teaches:** And the example of those who disbelieve is as that of him who shouts to those (flock of sheep) that hear nothing but calls and cries.
+**What it teaches** Allah likens those who reject the Messenger ﷺ to animals a shepherd calls: they catch the bare sound (duʿāʾ wa nidāʾ — "calls and cries") but none of the guidance it carries. They are ṣummun (deaf to the truth), bukmun (mute, unwilling to speak it), and ʿumyun (blind to its path) — so they do not use their ʿaql (reason) to comprehend.
 
-**Classical tafsir:** Ibn Kathir notes: Now we can see that following the model of those identified in the text cannot be permitted because they do not have a revealed set of laws from Allah, nor do they have the ability to deduce injunctions from the Word of Allah.
+**The scholars** Ibn Kathir explains that in their injustice, misguidance, and ignorance the disbelievers are "just like wandering animals": when the shepherd calls them to what benefits them, they hear only unintelligible sounds — a meaning he reports from Ibn 'Abbas, Abu Al-'Aliyah, Mujahid, 'Ikrimah, 'Ata', Al-Hasan, Qatadah, 'Ata' Al-Khurasani and Ar-Rabi' bin Anas. He unpacks the three faults precisely: deaf because they do not hear the truth, mute because they do not utter it, blind because they do not see or recognize its way. The setting comes from the preceding verse: per Ibn Ishaq from Ibn 'Abbas, 2:170 was revealed about a group of Jews whom the Messenger ﷺ called to Islam, who refused, clinging to "what we found our forefathers following" — the same stubbornness this simile then portrays. Maarif ul Quran marks the careful limit of the lesson: the censure falls on blind taqlid in falsehood — following forefathers who had neither revealed guidance nor sound reason — not on the following of truth. Citing al-Qurtubi, it holds that relying on a qualified mujtahid to reach Allah's injunctions is itself "a basic religious principle, and a great means of protecting the religion" — its operative condition being that "one who does not have the ability to do Ijtihad must rely on 'following'." Even then, Maarif ul Quran stresses, the follower obeys "the injunctions of Allah alone," not a scholar's person.
+
+**Reflection** When the call to truth reaches you, do not be the flock that registers only the sound — let the shepherd's meaning enter your heart, and let it move your life.
 ## Personal Reflections
 
 
