@@ -1,0 +1,1000 @@
+{
+ "1": {
+  "1": {
+   "meaning": "An oath: 'By the sun.' Allah swears by the sun, calling His own magnificent creation to witness and signalling that a weighty truth is about to follow. The opening 'wa' here is the particle of swearing ('By...'), not the ordinary 'and'.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "by (oath particle)"
+    },
+    {
+     "ar": "ال",
+     "tr": "al",
+     "en": "the"
+    },
+    {
+     "ar": "شَّمْسِ",
+     "tr": "shamsi",
+     "en": "sun"
+    }
+   ],
+   "grammar": "'wa' is the waw of oath, meaning 'By...' and it puts the following noun into the genitive case. 'al-' is the definite article 'the'. The noun ends in -i (shamsi): this genitive ending is exactly what the oath particle requires, the grammatical mark that the sun is the thing being sworn by. Shams is grammatically feminine, which is why later words in the surah refer back to it with the feminine 'it' (-hā).",
+   "root": "ش-م-س (sh-m-s) — the sun"
+  },
+  "2": {
+   "meaning": "'And its morning brightness' — the radiant light of the sun, especially the glow of mid-morning (ḍuḥā) when the sun has risen and its light floods the earth. A second oath joined to the first: Allah swears by the sun and by the brilliance that pours from it.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "ضُحٰ",
+     "tr": "ḍuḥā",
+     "en": "morning brightness"
+    },
+    {
+     "ar": "هَا",
+     "tr": "hā",
+     "en": "its (referring to the sun)"
+    }
+   ],
+   "grammar": "Here 'wa' is a conjunctive waw (waw al-ʿaṭf) that links this sworn-by object to the previous one and keeps it inside the same oath. It is not a switch to a plain, separate 'and': the oath force begun in word 1 continues unbroken through the whole chain of oaths (ayahs 1–7), which is why the genitive case carries over from the oath onto this phrase. 'ḍuḥā' is a noun for the bright forenoon; its long final -ā (written here with the alif-maqṣūra script variant ٮ) is part of the word's root form, not a case ending, so the case is shown only by context. The suffix -hā is the attached possessive pronoun 'its', and it is feminine to agree with 'sun' (shams), so it means 'its (the sun's) brightness'.",
+   "root": "ض-ح-و (ḍ-ḥ-w) — forenoon light, brightness"
+  }
+ },
+ "2": {
+  "1": {
+   "meaning": "\"And by the moon.\" The opening wa- here is the particle of oath (waw al-qasam): Allah swears BY the moon, calling this sign of His creation to witness. The moon is the celestial body that receives and reflects the sun's light, governing the night and marking the months.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa-",
+     "en": "and / by (oath)"
+    },
+    {
+     "ar": "الْ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "قَمَرِ",
+     "tr": "qamari",
+     "en": "moon"
+    }
+   ],
+   "grammar": "The wa- is the oath particle, meaning \"and I swear by...\" (continuing the oath from the previous verse). al- is the definite article \"the.\" The final -i ending is genitive (jarr): an oath particle like this always puts the noun after it into the genitive case, so the -i is the audible sign that \"moon\" is the thing being sworn by.",
+   "root": "ق-م-ر (q-m-r) - the moon; to be bright/white"
+  },
+  "2": {
+   "meaning": "\"When\" - a particle pointing to a specific time or circumstance. It frames what follows as a vivid, recurring scene: \"at the moment when...\" It sets up the action of the next word, drawing attention to the moon precisely when it does what is described.",
+   "parts": [
+    {
+     "ar": "اِذَا",
+     "tr": "idhā",
+     "en": "when / at the time when"
+    }
+   ],
+   "grammar": "An adverb of time meaning \"when.\" It is indeclinable (mabni) - it has no case ending that changes; the final -ā is simply part of the fixed word. It typically introduces a clause and is normally followed by a verb, here \"it follows.\"",
+   "root": "- (particle; no triliteral root)"
+  },
+  "3": {
+   "meaning": "\"It follows it\" - the moon comes after the sun, trailing it across the sky and taking up its light. Commentators explain this as the moon following the sun: rising to reflect its radiance, especially when the full moon dominates the night sky after the sun has set.",
+   "parts": [
+    {
+     "ar": "تَلَا",
+     "tr": "talā",
+     "en": "it followed"
+    },
+    {
+     "ar": "هَا",
+     "tr": "-hā",
+     "en": "it / her (the sun)"
+    }
+   ],
+   "grammar": "A past-tense verb, third-person masculine singular: \"he/it followed\" - the built-in subject is \"it\" (the moon). The third root letter is a weak waw (the root is t-l-w, and the imperfect is yatlu), which in this perfect-tense form is realized as a long -ā (talā) rather than appearing as a consonant. The attached -hā is the object pronoun \"it/her,\" referring back to the sun (a feminine noun in Arabic), so the whole word means \"it (the moon) followed it (the sun).\"",
+   "root": "ت-ل-و (t-l-w) - to follow, come after; also to recite"
+  }
+ },
+ "3": {
+  "1": {
+   "meaning": "\"And by the day\" — the bright daytime, the hours of sunlight. This is the third in a series of oaths Allah swears; the opening wa- here is the \"oath waw,\" a particle that means \"By…\" and is used to call something to witness, not simply \"and.\"",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa-",
+     "en": "by (oath particle)"
+    },
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "نَّهَار",
+     "tr": "nahār",
+     "en": "day / daytime"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "(genitive ending)"
+    }
+   ],
+   "grammar": "The wa- is the \"oath waw\" meaning \"By…\" — it puts the following noun in the genitive case, which is why the word ends in -i (nahār-i) rather than -u. So the final -i marks it as the object of this oath: \"By the day…\". al- is the definite article \"the.\"",
+   "root": "ن-ه-ر (n-h-r) — daylight, the bright part of the day"
+  },
+  "2": {
+   "meaning": "\"When\" / \"at the time when.\" A particle that sets up a moment or condition — here it points to the specific time the day acts upon what follows. It introduces the scene: \"…when it reveals it.\"",
+   "parts": [
+    {
+     "ar": "اِذَا",
+     "tr": "idhā",
+     "en": "when / at the time that"
+    }
+   ],
+   "grammar": "A fixed, indeclinable particle of time — it never changes its ending. It typically introduces a verbal clause describing \"when\" something happens, and it leans forward to the verb that comes after it (here jallāhā, \"reveals it\").",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "\"When it displays / unveils it\" — the day makes the sun (or the earth/world) plainly visible, showing it in full brightness. The verb carries the sense of clearing away cover so something stands out clearly.",
+   "parts": [
+    {
+     "ar": "جَلّٰ",
+     "tr": "jallā",
+     "en": "made clear / displayed / unveiled"
+    },
+    {
+     "ar": "هَا",
+     "tr": "-hā",
+     "en": "it / her (object)"
+    }
+   ],
+   "grammar": "A past-tense (perfect) verb, Form II (the doubled middle letter, jallā), which makes the action intensive/causative: \"to make something fully clear, to display it.\" With no separate subject word, the built-in subject is \"it\" (he/it did), referring back to \"the day\"; the ending -hā is an attached object pronoun, \"it/her.\" The commentary takes this pronoun to point to the sun, or alternatively to the earth/world that the day brightens. So: \"the day, when it displays it.\"",
+   "root": "ج-ل-و/ي (j-l-w/y) — to become clear, uncover, make manifest"
+  }
+ },
+ "4": {
+  "1": {
+   "meaning": "\"And the night\" — the period of darkness that descends over the earth after sunset. This is the fourth thing Allah swears by in this opening run of oaths, set against the sun, moon, and daylight of the preceding verses.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa-",
+     "en": "and / by (oath)"
+    },
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "لَّيۡل",
+     "tr": "layl",
+     "en": "night"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "(genitive ending)"
+    }
+   ],
+   "grammar": "The opening وَ (wa-) is the waw of oath (waw al-qasam): Allah is swearing 'by' the night, not merely naming it. ال (al-) is the definite article 'the'. The final kasra (-i) is the genitive case ending governed by the oath particle, marking the noun as the thing being sworn by.",
+   "root": "ل-ي-ل (l-y-l) — night, darkness"
+  },
+  "2": {
+   "meaning": "\"When\" — a time-word that points to the moment or circumstance in which something happens. It sets the scene for what the night does next: 'the night, at the time when it covers it.'",
+   "parts": [
+    {
+     "ar": "اِذَا",
+     "tr": "idhā",
+     "en": "when / at the time that"
+    }
+   ],
+   "grammar": "An indeclinable particle of time: its form is fixed and takes no case or tense marker. It introduces a circumstance and looks ahead to the verb that follows, framing that action as the defining moment of the night.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "\"It covers it\" — the night veils and conceals the sun, wrapping the world in darkness. The image is of one thing being drawn over and hidden by another.",
+   "parts": [
+    {
+     "ar": "يَ",
+     "tr": "ya-",
+     "en": "it / he (does)"
+    },
+    {
+     "ar": "غۡشٰى",
+     "tr": "ghshā",
+     "en": "cover, envelop, veil"
+    },
+    {
+     "ar": "هَا",
+     "tr": "-hā",
+     "en": "it / her (object)"
+    }
+   ],
+   "grammar": "A present-tense (imperfect) verb. The prefix يَ (ya-) marks a third-person masculine singular subject ('it'), referring back to 'the night', and conveys the ongoing, recurring act of covering. The attached هَا (-hā) is the feminine object pronoun 'it/her', pointing to al-shams ('the sun'), a feminine noun, that the night blankets.",
+   "root": "غ-ش-و / غ-ش-ي (gh-sh-w/y) — to cover, envelop, overwhelm"
+  }
+ },
+ "5": {
+  "1": {
+   "meaning": "\"And by the heaven\" — the wide vault of the sky. This is the fifth in Allah's series of solemn oaths sworn by His creation (begun in ayah 1, \"By the sun…\"). The oath-force \"by\" carries over from that opening oath; this verse adds the heaven to the things sworn by, calling attention to its grandeur to lend weight to the truth that follows.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and (joining this to the oath chain; carries the sense \"and by…\")"
+    },
+    {
+     "ar": "ال",
+     "tr": "al",
+     "en": "the"
+    },
+    {
+     "ar": "سَّمَآء",
+     "tr": "samāʾ",
+     "en": "heaven, sky"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "genitive ending (\"-i\") carried over from the oath"
+    }
+   ],
+   "grammar": "This wāw is the coordinating (\"and\") wāw, not the oath-initiating wāw. The oath particle that means \"by\" appears only once, on the first item of the series (وَالشَّمْسِ, ayah 1); every later wāw in the chain — including this one — simply joins the next item to that same oath, so it reads \"and (by) the heaven.\" The noun still takes the genitive case (ending in -i, samāʾi rather than -u) because it is coordinated onto the earlier oath, which governs the genitive. The al- is the definite article \"the.\"",
+   "root": "س-م-و (s-m-w) — height, loftiness; what is raised up above (hence \"sky/heaven\")."
+  },
+  "2": {
+   "meaning": "\"And the One Who…\" — though مَا normally means \"what/that which,\" classical commentators take it here to point to a personal Doer, namely Allah Himself, so it is best rendered \"the One Who.\" It joins the heaven to its Maker, shifting the focus from the created sky to its Creator.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "مَا",
+     "tr": "mā",
+     "en": "the One Who / that which"
+    }
+   ],
+   "grammar": "This wāw is the ordinary connector \"and,\" linking this phrase to \"the heaven\" before it. مَا (mā) is an indeclinable relative word — it never changes its ending for case — and it sets up the verb that follows (\"…Who built it\"). Although مَا is usually used for non-persons, classical commentators take it here to denote Allah, the majestic Builder. (Some read مَا as the infinitival particle, giving \"and its construction,\" but the rendering \"the One Who\" is followed here.)",
+   "root": "— (a particle; no triliteral root)."
+  },
+  "3": {
+   "meaning": "\"He built it\" / \"constructed it\" — Allah raised up and perfectly structured the heaven. The verb conveys deliberate, masterful construction (building here means raising up), and the attached \"it\" refers back to the heaven (samāʾ).",
+   "parts": [
+    {
+     "ar": "بَنَا",
+     "tr": "banā",
+     "en": "he built, constructed"
+    },
+    {
+     "ar": "هَا",
+     "tr": "-hā",
+     "en": "it (feminine object: the heaven)"
+    }
+   ],
+   "grammar": "banā is a Form I past-tense verb, third-person masculine singular: \"He built\" — the subject \"He\" (Allah) is carried inside the verb form itself, with no separate pronoun needed. The ending -hā is an attached object pronoun meaning \"it,\" and it is feminine because samāʾ (heaven) is grammatically feminine in Arabic.",
+   "root": "ب-ن-ي (b-n-y) — to build, construct, raise up a structure."
+  }
+ },
+ "6": {
+  "1": {
+   "meaning": "And by the earth. The opening waw is an oath-particle: Allah swears by the earth as one of His great signs, calling the reader to reflect on it. The word itself names the earth, the ground spread out beneath us.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and / by (oath)"
+    },
+    {
+     "ar": "الْ",
+     "tr": "al",
+     "en": "the"
+    },
+    {
+     "ar": "أَرْضِ",
+     "tr": "arḍi",
+     "en": "earth"
+    }
+   ],
+   "grammar": "The wa- here is the 'waw of oath' meaning 'and by…', continuing the series of things Allah swears by. It functions as a governing particle (ḥarf jarr) and is what puts the noun into the genitive case, which is why the ending is -i, giving 'arḍi' rather than 'arḍu'. al- is simply the definite article 'the'; it does not affect the case ending.",
+   "root": "أ-ر-ض (ʾ-r-ḍ) — earth, land, ground"
+  },
+  "2": {
+   "meaning": "And the One Who… Here 'mā' is a relative word ('that which / the One who') pointing to Allah as the Doer of the action in the next word. Though 'mā' often means 'what' for things, here it refers reverently to Allah as the Maker, joined by the oath-waw to what came before.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and / by (oath)"
+    },
+    {
+     "ar": "مَا",
+     "tr": "mā",
+     "en": "the One Who / that which"
+    }
+   ],
+   "grammar": "wa- again is the oath-waw, 'and by…'. mā is a relative pronoun introducing a clause ('…Who spread it'); it is an indeclinable particle, so it has no case ending that changes — it stays 'mā' in every position. In context it functions to glorify Allah as the One who did the spreading.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "He spread it out and laid it flat — a vivid picture of Allah extending the earth wide and level so it could be lived upon. The 'it' refers back to the earth.",
+   "parts": [
+    {
+     "ar": "طَحَا",
+     "tr": "ṭaḥā",
+     "en": "He spread out / laid flat"
+    },
+    {
+     "ar": "هَا",
+     "tr": "hā",
+     "en": "it (feminine)"
+    }
+   ],
+   "grammar": "ṭaḥā is a past-tense (perfect) verb, 3rd person masculine singular: 'He spread out'. The subject is the 'mā' (Allah) from the previous word. The ending -hā is an attached object pronoun, 'it', and is feminine because 'earth' (arḍ) is grammatically feminine — so literally 'He spread it (the earth) out'.",
+   "root": "ط-ح-و (ṭ-ḥ-w) — to spread out, extend, level"
+  }
+ },
+ "7": {
+  "1": {
+   "meaning": "And by the soul (nafs) — the inner self, the living person, the seat of consciousness, character and will. Here it is the object of a divine oath: Allah swears 'by the soul,' calling attention to the human self as one of His most remarkable signs. The word is indefinite ('a soul'), which lends a sweeping, all-encompassing sense — every soul.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and / by (here introducing an oath: 'and by…')"
+    },
+    {
+     "ar": "نَفۡسٍ",
+     "tr": "nafsin",
+     "en": "a soul, the inner self"
+    }
+   ],
+   "grammar": "Opens with the oath particle wa- ('and/by'), the same 'by…' used throughout the surah's series of oaths. The noun nafs carries the ending -in (tanwīn / nunation), which marks it as indefinite ('a soul') and as genitive — the case required after the oath-particle wa-. The indefinite, genitive form gives a universal ring: not one particular soul but the soul as such.",
+   "root": "ن-ف-س (n-f-s) — self, soul, breath of life"
+  },
+  "2": {
+   "meaning": "And the One Who… — here mā introduces what follows ('and that which / the One Who fashioned it'). Although mā usually means 'what/that which' for non-persons, classical commentators understand it here to point to Allah Himself ('the One Who'), with mā conveying awe at the sheer magnificence of the Fashioner and the act of fashioning. It can also be read as 'and its fashioning,' i.e. the act itself.",
+   "parts": [
+    {
+     "ar": "وَّ",
+     "tr": "wa",
+     "en": "and (continuing the oath)"
+    },
+    {
+     "ar": "مَا",
+     "tr": "mā",
+     "en": "that which / the One Who"
+    }
+   ],
+   "grammar": "The wa- is the connecting 'and,' continuing the oath from the previous word; its doubling (shown by the shadda, وَّ) is simply the assimilation (idghām) of the preceding word's nunation into it in recitation. Mā is an indeclinable relative/indefinite particle — it never changes its ending for case. Though literally 'what,' in this context it functions as 'the One Who,' setting up the verb that follows.",
+   "root": "— (particle; no triliteral root)"
+  },
+  "3": {
+   "meaning": "…fashioned it / proportioned it perfectly — formed the soul in due measure, shaping and balancing all its faculties into a sound, well-ordered whole. The verb conveys deliberate, precise crafting: bringing the self into harmonious, complete proportion. The 'it' refers back to the soul (nafs) of the previous words.",
+   "parts": [
+    {
+     "ar": "سَوّٰ",
+     "tr": "sawwā",
+     "en": "fashioned/proportioned perfectly, made well-balanced"
+    },
+    {
+     "ar": "ـٰهَا",
+     "tr": "-hā",
+     "en": "it (referring to the soul)"
+    }
+   ],
+   "grammar": "A Form II past-tense verb: the doubled middle letter (the shadda on the waw, sawwā vs. plain sawā) intensifies the action — 'to shape thoroughly, proportion with care.' The stem is in the past tense, third-person masculine singular ('He fashioned'), the unstated subject being Allah. The suffix -hā is an attached object pronoun, feminine singular 'it/her,' pointing back to nafs (a feminine noun) — so 'He fashioned it.'",
+   "root": "س-و-ي (s-w-y) — to make even, level, balanced, well-proportioned"
+  }
+ },
+ "8": {
+  "1": {
+   "meaning": "\"Then He inspired it\" — Allah instilled into the soul, by way of inner inspiration, an instinctive awareness of both its capacity for wrongdoing and its capacity for God-consciousness. The opening fa- ties this back to the preceding verse: having shaped and proportioned the soul, He then implanted this moral awareness within it.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa-",
+     "en": "then / and so (a connector showing sequence and result)"
+    },
+    {
+     "ar": "اَلۡهَمَ",
+     "tr": "alhama",
+     "en": "he inspired / instilled by inner prompting"
+    },
+    {
+     "ar": "هَا",
+     "tr": "-hā",
+     "en": "it (referring to the soul, nafs, which is feminine)"
+    }
+   ],
+   "grammar": "The fa- prefix is a linking particle meaning \"then/and so,\" signalling that this act follows on from the previous verse. The stem is a past-tense (perfect) verb in Form IV (the af'ala pattern, ʾalhama), which carries a causative sense: to MAKE something enter the mind, i.e. to inspire or instil. The hamza at the start is the defining prefix of Form IV; in this mushaf's orthography it is carried on a plain alif with fatḥa (اَ) rather than written as a separate hamza glyph (أَ), but the morphology is unchanged. With no separate subject word, the verb's own form encodes \"He\" (third-person masculine singular), the subject being Allah. The attached -hā is the object \"it,\" feminine because it refers back to the soul (nafs).",
+   "root": "ل-ه-م (l-h-m) — to inspire, to instil knowledge directly into the heart"
+  },
+  "2": {
+   "meaning": "\"Its wickedness\" — the soul's inclination toward moral corruption: sin, transgression, and the breaking of God's limits. Fujūr is the open, brazen tendency to do wrong, named here as one of the two paths the soul is made conscious of.",
+   "parts": [
+    {
+     "ar": "فُجُوۡرَ",
+     "tr": "fujūra",
+     "en": "wickedness / moral corruption / sinful conduct"
+    },
+    {
+     "ar": "هَا",
+     "tr": "-hā",
+     "en": "its (belonging to the soul)"
+    }
+   ],
+   "grammar": "This is a noun, fujūr, serving as the second object of the verb \"inspired\" (He inspired the soul ITS wickedness, i.e. made it aware of it). The -a vowel on the stem (fujūra) is the accusative ending, which marks it as the object of the verb. The attached -hā means \"its,\" linking the wickedness as a possession of the soul; it is feminine because the soul (nafs) is feminine.",
+   "root": "ف-ج-ر (f-j-r) — to break open / burst forth; hence to break moral bounds, to act sinfully"
+  },
+  "3": {
+   "meaning": "\"And its God-consciousness\" — and the soul's capacity for taqwā: a reverent, protective awareness of Allah that guards a person against wrongdoing and moves them toward obedience and piety. It is the opposite pole to fujūr, and there is no single English word for it — it blends mindfulness of God, dutifulness, and self-restraint born of awe.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa-",
+     "en": "and"
+    },
+    {
+     "ar": "تَقۡوٰى",
+     "tr": "taqwā",
+     "en": "God-consciousness / reverent piety that shields one from sin"
+    },
+    {
+     "ar": "هَا",
+     "tr": "-hā",
+     "en": "its (belonging to the soul)"
+    }
+   ],
+   "grammar": "The wa- prefix simply means \"and,\" joining this word to the previous one (fujūrahā). The stem is the noun taqwā, the second item the soul is made conscious of, paired in contrast with its wickedness. Taqwā ends in a long -ā (written with alif maqṣūra, ـٰى); this is an invariable ending that does not change to show case, so the accusative role here is understood from the sentence rather than marked by a vowel. The attached -hā means \"its,\" tying this God-consciousness to the soul, and is feminine to agree with the soul (nafs).",
+   "root": "و-ق-ى (w-q-y) — to guard, shield, protect; taqwā is the guarding of oneself from Allah's displeasure"
+  }
+ },
+ "9": {
+  "1": {
+   "meaning": "A particle of emphasis and certainty placed before a past-tense verb. With the perfect tense it intensifies the action as a firmly established, accomplished fact — roughly 'indeed,' 'most surely,' 'it is a settled truth that…'. Here it presses home that the success being described is certain and beyond doubt.",
+   "parts": [
+    {
+     "ar": "قَدۡ",
+     "tr": "qad",
+     "en": "indeed / most certainly (emphasis on a completed fact)"
+    }
+   ],
+   "grammar": "An indeclinable particle — it has no case ending and never changes form. Standing immediately before the perfect (past-tense) verb 'aflaḥa', it does not negate but confirms and strengthens it: 'he has most certainly succeeded.' Think of it as underlining the verb that follows.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "To attain true success, to prosper, to come out triumphant — specifically the deep, lasting flourishing of one who reaches salvation and well-being, not mere worldly winning. The image behind the root is of a farmer who 'splits open' the soil and reaps its yield, i.e. genuine, fruitful gain.",
+   "parts": [
+    {
+     "ar": "اَفۡلَحَ",
+     "tr": "aflaḥa",
+     "en": "he has succeeded / truly prospered"
+    }
+   ],
+   "grammar": "A Form IV (af'ala) verb in the perfect (past) tense, 3rd-person masculine singular: 'he succeeded.' The opening hamza-a (a-) prefix is the Form IV marker, which here gives a complete, accomplished sense ('has succeeded'). The final -a ending is simply the standard 3rd-person masculine singular past-tense ending ('he'); the subject is the 'whoever' that follows. Form IV often makes a verb causative or intensive, here yielding 'to attain success.'",
+   "root": "ف-ل-ح (f-l-ḥ) — to split/till the soil, hence to cultivate success, prosper, thrive"
+  },
+  "3": {
+   "meaning": "A relative/conditional pronoun meaning 'whoever,' 'the one who,' 'anyone who.' It introduces an open, universal subject — it does not name a particular person but applies to every individual who does the action described, making the statement a general spiritual law.",
+   "parts": [
+    {
+     "ar": "مَنۡ",
+     "tr": "man",
+     "en": "whoever / the one who"
+    }
+   ],
+   "grammar": "An indeclinable relative pronoun used for rational beings (people). It carries no case vowel and stays fixed in form. Here it functions as the subject of 'aflaḥa' — '[the one] who has succeeded' — and it in turn is the doer of the verb 'zakkā' that follows: 'whoever purifies it.' It conveys generality: this success is available to anyone who meets the condition.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "To purify, cleanse, and cause to grow — to make the soul pure and wholesome by cleansing it of moral corruption and nurturing it in goodness and obedience to Allah. The word fuses two ideas at once: removing what is base AND increasing what is good, so the soul both cleanses and flourishes. The attached 'it' refers back to the soul (nafs) of the previous verses.",
+   "parts": [
+    {
+     "ar": "زَكّٰ",
+     "tr": "zakkā",
+     "en": "he purified and caused to grow"
+    },
+    {
+     "ar": "ـهَا",
+     "tr": "-hā",
+     "en": "it / her (the soul)"
+    }
+   ],
+   "grammar": "A Form II (fa''ala) verb in the perfect (past) tense, 3rd-person masculine singular ('he purified'); the doubling (shadda) on the middle letter k is the Form II marker, which makes the action intensive and transitive — 'to thoroughly purify.' The verb originally ends in a weak letter shown as the long -ā (the alif maqṣūra), the 3rd-person masculine singular past form of this root. The suffix -hā is an attached object pronoun, feminine singular 'it/her,' pointing back to the grammatically feminine 'nafs' (soul): so the whole word means 'he purified it (the soul).'",
+   "root": "ز-ك-و / ز-ك-ي (z-k-w / z-k-y) — purity together with growth and increase"
+  }
+ },
+ "10": {
+  "1": {
+   "meaning": "A two-part opener built from the connector 'wa' (and) plus the particle 'qad'. Placed before a past-tense verb, 'qad' adds emphasis and certainty — 'has indeed', 'has surely already'. It assures the listener the action is a settled, accomplished fact. Here it ties this verse to the previous one as its solemn counterpart: 'And indeed / and surely too...'",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "قَدۡ",
+     "tr": "qad",
+     "en": "indeed / surely (already)"
+    }
+   ],
+   "grammar": "Two indeclinable particles joined together, so there is no case ending to read. 'wa-' is the prefixed conjunction 'and', linking this verse to verse 9. 'qad' before a past-tense verb is the particle of certainty/affirmation: it intensifies the verb that follows ('khaba'), turning 'he failed' into 'he has surely failed'. Because both are particles, the sukun on the final 'd' of 'qad' is just its fixed form, not a grammatical case.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "He failed, lost out, came away empty and disappointed. The verb pictures effort that ends in ruin — hopes dashed, a venture that yields nothing but loss. In this context it is the spiritual catastrophe of the one who wastes the soul Allah perfected: he is the loser, doomed and frustrated of all reward.",
+   "parts": [
+    {
+     "ar": "خَا",
+     "tr": "kha",
+     "en": "fail / lose out (from root kh-y-b)"
+    },
+    {
+     "ar": "بَ",
+     "tr": "ba",
+     "en": "he (did) — 3rd-person masculine past ending"
+    }
+   ],
+   "grammar": "A past-tense (perfect) verb, 3rd-person masculine singular: 'he failed / he has failed'. The action is complete, and 'qad' before it stresses its certainty. The final '-a' (the fatha on the 'b') is simply the fixed ending of this past-tense 'he' form — it is not a case marker. The long 'a' in the middle is the hollow root's weak letter surfacing as a long vowel.",
+   "root": "خ-ي-ب (kh-y-b) — to fail, to be disappointed, to come away with nothing"
+  },
+  "3": {
+   "meaning": "A relative pronoun meaning 'whoever / the one who', used for people. It opens the description of a type of person without naming anyone: 'the one who...'. It is the subject paired with the verb 'failed' — 'whoever does the following has failed'.",
+   "parts": [
+    {
+     "ar": "مَنۡ",
+     "tr": "man",
+     "en": "whoever / the one who"
+    }
+   ],
+   "grammar": "An indeclinable relative/conditional pronoun referring to people; it has no case ending of its own (the sukun on the 'n' is fixed). Functioning as the subject of 'khaba', it sets up a general statement — 'the one who [does X] has failed' — and its own clause is completed by the verb that follows ('dassaha').",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "He buried it, smothered it, covered it over and stunted it — with 'it' being the soul (nafs) from the earlier verses. The image is of deliberately hiding and corrupting the soul under sin, neglect and wrongdoing, starving it of guidance until its God-given purity is choked. To bury the soul this way is to dishonour and ruin it.",
+   "parts": [
+    {
+     "ar": "دَسّٰ",
+     "tr": "dassa",
+     "en": "he buried / smothered / corrupted it"
+    },
+    {
+     "ar": "هَا",
+     "tr": "ha",
+     "en": "it / her (referring to the soul) — object pronoun"
+    }
+   ],
+   "grammar": "A past-tense (perfect) verb, 3rd-person masculine singular, from the geminate (doubled) root d-s-s. The intensive base form is 'dassasa' (he buried/concealed thoroughly); to avoid three identical 's' sounds in a row the final radical was softened into a long 'a', giving the surface form 'dassa' (written with the dagger alif). The doubled 's' you hear is the original second-and-third radicals of the root, carrying the sense of a forceful, deliberate covering-over — not a Form II doubling of a middle radical. The hidden '-a' is the fixed past-tense 'he' marker, not a case ending. The attached '-ha' is the object pronoun 'it/her', pointing back to the feminine noun 'nafs' (soul): 'he buried IT'.",
+   "root": "د-س-س (d-s-s) — to bury, conceal, push down out of sight; to smother or corrupt"
+  }
+ },
+ "11": {
+  "1": {
+   "meaning": "It cried lies / it denied — the tribe of Thamud rejected and called false the message and warning their prophet Salih brought them. The verb form is intensive: not a single slip of doubt but a determined, repeated branding of the truth as a lie.",
+   "parts": [
+    {
+     "ar": "كَذَّبَ",
+     "tr": "kadhdhaba",
+     "en": "to cry lies, to deny vehemently"
+    },
+    {
+     "ar": "ـَتْ",
+     "tr": "-at",
+     "en": "she / it (did) — feminine singular ending"
+    }
+   ],
+   "grammar": "A past-tense (perfect) verb in form II (the doubled middle root letter, kadhdhaba), which intensifies the bare verb 'to lie' into 'to actively/repeatedly declare false, to reject as a lie.' The suffix -at marks a feminine singular subject 'she/it did'; here it agrees with the tribe-name Thamud, which is treated grammatically as feminine. So the whole word (kadhdhaba + -at = kadhdhabat) means 'she/it denied (in the past, decisively).'",
+   "root": "ك-ذ-ب (k-dh-b) — lying, falsehood"
+  },
+  "2": {
+   "meaning": "Thamud — the name of an ancient Arabian people to whom Allah sent the prophet Salih, and who were destroyed for their defiance. As a proper name it is the subject of the verb 'denied.'",
+   "parts": [
+    {
+     "ar": "ثَمُودُ",
+     "tr": "thamūdu",
+     "en": "Thamud (a tribe / people)"
+    }
+   ],
+   "grammar": "A proper name functioning as the subject of the verb, so it is in the nominative case — normally shown by a final -u, which is exactly what we see here (thamūdu). The name is grammatically treated as feminine (matching the -at on the verb before it). It carries no -n (tanwin) ending because, as a tribal proper name, it is 'diptote' (a word that declines without nunation).",
+   "root": "— (proper name; no triliteral root)"
+  },
+  "3": {
+   "meaning": "Through / by reason of its overstepping — i.e. out of its transgression and arrogant rebellion. Taghwa denotes going beyond all bounds, insolent excess and tyranny that refuses every limit set by Allah; this is named as the cause that drove Thamud to deny the truth.",
+   "parts": [
+    {
+     "ar": "بِـ",
+     "tr": "bi-",
+     "en": "by, through, by reason of"
+    },
+    {
+     "ar": "طَغْوَىٰ",
+     "tr": "ṭaghwā",
+     "en": "transgression, overstepping all bounds"
+    },
+    {
+     "ar": "ـهَا",
+     "tr": "-hā",
+     "en": "its / their (referring back to Thamud)"
+    }
+   ],
+   "grammar": "Built on the prefixed preposition bi- ('by/through/because of'), which here gives the cause or means of the denial. After this preposition the noun ṭaghwā is in the genitive case (the case the preposition bi- always demands). Attached at the end is the possessive pronoun -hā ('its/their'), referring back to feminine Thamud, so it links the transgression to them: 'by reason of its/their transgression.'",
+   "root": "ط-غ-ي / ط-غ-و (ṭ-gh-y / ṭ-gh-w) — to overstep, exceed all bounds, be tyrannical"
+  }
+ },
+ "12": {
+  "1": {
+   "meaning": "A particle meaning \"when\" that pins the action to a specific past moment. It does not merely mean \"when\" in general; it points back to the precise occasion being recalled — here, the moment the tribe of Thamud unleashed their worst man against the she-camel sent as a sign.",
+   "parts": [
+    {
+     "ar": "اِذْ",
+     "tr": "idh",
+     "en": "when (at that past moment)"
+    },
+    {
+     "ar": "ـِ",
+     "tr": "-i",
+     "en": "helping kasra added for smooth pronunciation"
+    }
+   ],
+   "grammar": "This is the time-word idh (\"when, at that time\"), which always introduces a past event. Its natural form ends in a silent -dh (إِذْ). Here it is written idhi with a final -i: that -i is not a case ending but a \"helping\" vowel slipped in so the tongue can glide into the next word, inbaʿatha. That word begins with a hamzatu l-waṣl — a connecting (prosthetic) alif that drops out in pronunciation when joined to what precedes it — so a vowel is needed on idh to bridge the join. The ending therefore carries no grammatical meaning of its own; it is purely there to smooth the connection.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "\"He/it was roused, set forth, sprang up to act.\" The verb pictures someone being stirred into motion and dispatched on an errand — here, the wretched man of Thamud surging forward, egged on by his people, to hamstring and kill the she-camel.",
+   "parts": [
+    {
+     "ar": "اِنْ",
+     "tr": "in-",
+     "en": "Form VII augment giving a \"got-itself-done / surged into action\" sense"
+    },
+    {
+     "ar": "بَعَثَ",
+     "tr": "baʿatha",
+     "en": "the b-ʿ-th stem: to send, rouse, raise up"
+    }
+   ],
+   "grammar": "This is a Form VII verb, built on the infaʿala pattern: the augment in- fused onto the three-letter root b-ʿ-th. The two parts above are shown only to expose that structure; in practice they form one inseparable stem (inbaʿatha), not a prefix bolted onto an independent Form I verb. Form VII typically makes a verb reflexive or middle — the subject undergoes or falls into the action rather than doing it to something else; hence \"was roused / set himself forth\" rather than \"sent.\" It is past tense, third-person masculine singular (\"he/it\"), with the bare final -a that marks a plain completed past act. The doer is named in the next word.",
+   "root": "ب-ع-ث (b-ʿ-th) — to send, rouse, raise up"
+  },
+  "3": {
+   "meaning": "\"Their most wretched one\" — the single most miserable, doomed, and wicked individual of the tribe of Thamud, the man who took it upon himself to kill the she-camel. \"Wretched\" here joins moral evil with ill fortune: he is at once the basest in conduct and the most damned in destiny.",
+   "parts": [
+    {
+     "ar": "أَشْقَى",
+     "tr": "ashqā",
+     "en": "most wretched / most doomed (the \"most…\" form)"
+    },
+    {
+     "ar": "ـهَا",
+     "tr": "-hā",
+     "en": "of them / of it (referring back to Thamud)"
+    }
+   ],
+   "grammar": "The core word ashqā is an elative — the \"most X\" form (pattern afʿal) built from the adjective shaqiyy (\"wretched, doomed\"), so it means \"the most wretched.\" It is the doer of the verb in word 2, and as such would normally show a final -u; but because it ends in the weak letter alif maqṣūra (the -ā sound), that case ending cannot be pronounced and stays hidden. The attached -hā means \"their / of them,\" linking the superlative to the tribe: \"the most wretched OF them.\"",
+   "root": "ش-ق-و (sh-q-w) — wretchedness, misery, doom"
+  }
+ },
+ "13": {
+  "1": {
+   "meaning": "\"So/then he said\" — the prophet Salih spoke out to his people, declaring and warning them. The opening 'fa-' ties this moment to what came just before: as the wicked one was roused to attack (verse 12), Salih stepped in beforehand to warn them off.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa",
+     "en": "so/then (connecting it to the previous verse)"
+    },
+    {
+     "ar": "قَالَ",
+     "tr": "qāla",
+     "en": "he said"
+    }
+   ],
+   "grammar": "'fa-' is a prefixed connector meaning 'so/then', linking this sentence to what precedes it: it presents the warning as Salih's preventive response as the wicked one was being roused, before the camel was harmed. 'qāla' is a past-tense verb, third-person masculine singular: 'he said'. The final '-a' is the normal past-tense ending here; the subject 'he' (the Messenger) is built into the verb and named explicitly later in the verse.",
+   "root": "ق-و-ل (q-w-l) — to say, speak, utter"
+  },
+  "2": {
+   "meaning": "\"to them\" — addressed at his people, the tribe of Thamud, to whom the warning was directed.",
+   "parts": [
+    {
+     "ar": "لَ",
+     "tr": "la",
+     "en": "to/for"
+    },
+    {
+     "ar": "هُم",
+     "tr": "hum",
+     "en": "them (masculine plural)"
+    }
+   ],
+   "grammar": "A two-part word: the prefix 'la-' is a preposition meaning 'to/for', and 'hum' is an attached pronoun meaning 'them' (masculine plural). Together: 'to them'. It tells us the audience of the saying — the people Salih was warning.",
+   "root": "— (preposition with attached pronoun; no triliteral root)"
+  },
+  "3": {
+   "meaning": "\"the Messenger\" — the one sent by Allah, namely the prophet Salih, sent to convey Allah's command and warning to Thamud.",
+   "parts": [
+    {
+     "ar": "رَسُوۡلُ",
+     "tr": "rasūlu",
+     "en": "messenger / one who is sent"
+    }
+   ],
+   "grammar": "A noun on the 'faʿūl' pattern meaning 'one sent', i.e. a messenger. The final '-u' ending is nominative: it marks 'the Messenger' as the doer (subject) of 'he said'. It also stands in a possessive link with the next word, 'of Allah'.",
+   "root": "ر-س-ل (r-s-l) — to send; a message, a messenger"
+  },
+  "4": {
+   "meaning": "\"of Allah\" — belonging to and sent by Allah. This completes the phrase 'the Messenger of Allah', identifying whose envoy Salih was.",
+   "parts": [
+    {
+     "ar": "اللّٰهِ",
+     "tr": "l-lahi",
+     "en": "Allah"
+    }
+   ],
+   "grammar": "The proper name 'Allah'. The final '-i' ending is genitive (possessive): it links this word to the one before, giving 'the Messenger OF Allah'. The 'l-' at the start is the inseparable beginning of the name as written after the preceding word.",
+   "root": "— (the proper divine name; not derived from a triliteral root)"
+  },
+  "5": {
+   "meaning": "\"(Beware) the she-camel of Allah\" — the miraculous she-camel that Allah gave Thamud as a sign. Here it functions as a warning: leave Allah's camel alone, do not harm her.",
+   "parts": [
+    {
+     "ar": "نَاقَةَ",
+     "tr": "nāqata",
+     "en": "she-camel"
+    }
+   ],
+   "grammar": "A feminine noun, 'she-camel'. The final '-a' ending is accusative: here it signals an implied command/warning — 'beware (of) the she-camel' or '(do not touch) the she-camel'. It is also in a possessive link with the next word, 'of Allah'.",
+   "root": "ن-و-ق (n-w-q) — relating to the she-camel"
+  },
+  "6": {
+   "meaning": "\"of Allah\" — belonging to Allah. The camel is honoured as 'Allah's she-camel' to stress that harming her is a transgression against Allah Himself.",
+   "parts": [
+    {
+     "ar": "اللّٰهِ",
+     "tr": "l-lahi",
+     "en": "Allah"
+    }
+   ],
+   "grammar": "The proper name 'Allah'. The final '-i' ending is genitive (possessive): it links to the word before it, giving 'the she-camel OF Allah'. The 'l-' is the inseparable start of the name as written after the preceding word.",
+   "root": "— (the proper divine name; not derived from a triliteral root)"
+  },
+  "7": {
+   "meaning": "\"and her drink\" — and her appointed share of water, her turn to drink. The camel had a fixed day to drink from the well; the warning is not to deny or disturb that right.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "سُقۡيٰ",
+     "tr": "suqyā",
+     "en": "drinking / share of water"
+    },
+    {
+     "ar": "هَا",
+     "tr": "hā",
+     "en": "her / its"
+    }
+   ],
+   "grammar": "Three parts: the prefix 'wa-' means 'and'; 'suqyā' is a noun meaning 'drink / a share of water to drink' (its '-ā' is written with alif maqṣūra, the dotless yā); and the attached '-hā' means 'her/its', referring back to the she-camel. So: 'and her drink (her water-turn)'. The 'wa-' joins 'suqyā' to 'nāqata', so it takes the same accusative case and the same grammatical role — a parallel object (maf'ul bihi) governed by the one implied warning verb ('beware…'). Its accusative is not shown by a visible mark because the alif maqṣūra ending cannot carry one. So her water-turn, like the she-camel herself, is something not to be violated.",
+   "root": "س-ق-ي (s-q-y) — to give to drink, to water"
+  }
+ },
+ "14": {
+  "1": {
+   "meaning": "\"So they denied/disbelieved him\" — referring to the people of Thamud rejecting and calling their prophet Salih a liar. The opening fa- marks consequence: as a result of their defiance (described earlier), they branded him false.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa",
+     "en": "so / then (consequence)"
+    },
+    {
+     "ar": "كَذَّب",
+     "tr": "kadhdhab",
+     "en": "declared a liar / denied (stem)"
+    },
+    {
+     "ar": "و",
+     "tr": "ū",
+     "en": "they (masculine plural subject)"
+    },
+    {
+     "ar": "هُ",
+     "tr": "hu",
+     "en": "him"
+    }
+   ],
+   "grammar": "Past-tense (perfect) verb. This is the intensive Form II (note the shadda doubling the middle root letter, kadh-dha-ba), which means not merely 'to lie' but 'to actively declare someone a liar / reject as false.' The -ū ending is the subject marker 'they' (a group of men); the attached -hu is the object 'him' (the prophet). Opening fa- = 'so/then,' tying it to the people's arrogance just mentioned.",
+   "root": "ك-ذ-ب (k-dh-b) — to lie, falsehood"
+  },
+  "2": {
+   "meaning": "\"So they hamstrung/slaughtered her\" — they crippled and killed the she-camel of Allah, the miraculous sign given through the prophet Salih. The -hā ('her') refers to that camel.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa",
+     "en": "so / then (consequence)"
+    },
+    {
+     "ar": "عَقَر",
+     "tr": "ʿaqar",
+     "en": "hamstrung / slaughtered (stem)"
+    },
+    {
+     "ar": "و",
+     "tr": "ū",
+     "en": "they (masculine plural subject)"
+    },
+    {
+     "ar": "هَا",
+     "tr": "hā",
+     "en": "her / it (feminine)"
+    }
+   ],
+   "grammar": "Past-tense (perfect) verb, plain Form I. The -ū ending marks the subject 'they' (the men of Thamud); the attached -hā is the object 'her,' the she-camel (camel, nāqah, is feminine in Arabic). Opening fa- = 'and so,' chaining this act onto their denial in the previous word — denial led straight to violence.",
+   "root": "ع-ق-ر (ʿ-q-r) — to hamstring/wound an animal, to slaughter"
+  },
+  "3": {
+   "meaning": "\"So He utterly crushed / brought down ruin upon\" — Allah unleashed a total, leveling destruction on them. The repeated form (damdama) conveys piling the punishment on completely, leaving nothing standing.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa",
+     "en": "so / then (consequence)"
+    },
+    {
+     "ar": "دَمۡدَمَ",
+     "tr": "damdama",
+     "en": "He brought crushing ruin / annihilated"
+    }
+   ],
+   "grammar": "Past-tense (perfect) verb, 3rd-person masculine singular ('He') — the subject (their Lord) is named in the next word. The final -a is the standard masculine-singular perfect ending ('He did'). This is a reduplicated (quadriliteral) verb — the syllable dam is doubled — which intensifies the sense: not a single blow but a total, repeated, overwhelming destruction. Opening fa- = 'so,' marking the divine response to their crime.",
+   "root": "د-م-دم (d-m-d-m) — reduplicated root; to crush utterly, heap destruction upon"
+  },
+  "4": {
+   "meaning": "\"upon them / over them\" — the preposition fixing the destruction squarely down on the people of Thamud.",
+   "parts": [
+    {
+     "ar": "عَلَيۡ",
+     "tr": "ʿalay",
+     "en": "upon / over / against"
+    },
+    {
+     "ar": "هِمۡ",
+     "tr": "him",
+     "en": "them (masculine plural)"
+    }
+   ],
+   "grammar": "A preposition ('upon/over') with an attached pronoun. The base ʿalā shifts to ʿalay- when a pronoun is added; the ending -him means 'them' (a group of males). The -i- vowel inside -him is the natural form the pronoun takes after the -ay sound. Together: 'down upon them,' showing the destruction fell directly on Thamud.",
+   "root": "— (preposition; no triliteral root)"
+  },
+  "5": {
+   "meaning": "\"their Lord\" — Allah, named here as Rabb: the Master, Owner, Sustainer and Nurturer who creates, provides for, and has full authority over them. It is pointed that the very Lord who sustained them is the One who destroyed them for their sin.",
+   "parts": [
+    {
+     "ar": "رَبُّ",
+     "tr": "rabbu",
+     "en": "Lord / Master and Sustainer"
+    },
+    {
+     "ar": "هُمۡ",
+     "tr": "hum",
+     "en": "their / them (masculine plural)"
+    }
+   ],
+   "grammar": "A noun ('Lord') plus a possessive pronoun ('their'). The -u ending on rabb is nominative, marking it as the subject (the doer) of the verb 'crushed' in word 3 — it is their Lord who carried out the destruction. The attached -hum means 'their.' (When nothing follows, this pronoun is voiced -hum; mid-verse before the next word it links smoothly.)",
+   "root": "ر-ب-ب (r-b-b) — to nurture, sustain, master; lordship"
+  },
+  "6": {
+   "meaning": "\"because of their sin / for their crime\" — naming the cause of the punishment: their guilt in rejecting the prophet and killing the she-camel. Dhanb is a sin or wrongdoing that trails consequences behind it.",
+   "parts": [
+    {
+     "ar": "بِ",
+     "tr": "bi",
+     "en": "with / because of / for"
+    },
+    {
+     "ar": "ذَنۢبِ",
+     "tr": "dhanbi",
+     "en": "sin / crime / guilt"
+    },
+    {
+     "ar": "هِمۡ",
+     "tr": "him",
+     "en": "their (masculine plural)"
+    }
+   ],
+   "grammar": "Preposition bi- ('because of/for') + noun 'sin' + possessive 'their.' The bi- here gives the reason: the ruin came about by reason of their sin. The -i ending on dhanb is genitive, the case automatically required after the preposition bi-. The attached -him means 'their' (the -i- vowel matching the preceding genitive -i).",
+   "root": "ذ-ن-ب (dh-n-b) — to sin, commit an offence; that which trails consequences"
+  },
+  "7": {
+   "meaning": "\"So He leveled them flat\" — Allah brought the punishment down on them all equally, flattening the community to the ground so that none was spared and all were made uniform in ruin.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa",
+     "en": "so / then (consequence)"
+    },
+    {
+     "ar": "سَوّٰ",
+     "tr": "sawwā",
+     "en": "He leveled / made even / flattened"
+    },
+    {
+     "ar": "هَا",
+     "tr": "hā",
+     "en": "them / it (feminine)"
+    }
+   ],
+   "grammar": "Past-tense (perfect) verb, intensive Form II (doubled middle letter, saw-wā), meaning 'to make completely even/level.' It is 3rd-person masculine singular ('He' — i.e. their Lord), the long final -ā being the perfect ending of this weak-ending verb. The attached -hā ('them/it') is grammatically feminine singular but refers to Thamud as a community/nation (the source renders it 'and leveled them') — the punishment fell on them all equally, leveling them to the ground without distinction. Opening fa- = 'so,' the final consequence sealing their fate.",
+   "root": "س-و-ي (s-w-y) — to make even, level, equal, set in proportion"
+  }
+ },
+ "15": {
+  "1": {
+   "meaning": "\"And He does not...\" — this opens the clause and negates the verb that follows. The wa- is a connector (\"and\") joining this to the previous verse, and lā is the particle that negates a present-tense action, telling us the doing simply does not happen.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa-",
+     "en": "and (connector joining to the previous statement)"
+    },
+    {
+     "ar": "لَا",
+     "tr": "lā",
+     "en": "not (negates the present-tense verb that follows)"
+    }
+   ],
+   "grammar": "Two particles. The prefix wa- means \"and,\" linking this clause to what came before. lā here is the negator of an ongoing/present action: placed before the verb yakhāfu, it turns \"He fears\" into \"He does not fear.\" It does not change the verb's ending.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "\"He fears\" / \"He is afraid\" — to feel fear or dread of something. In context (with the preceding lā) it states that the doer feels no fear at all of the outcome of His act.",
+   "parts": [
+    {
+     "ar": "يَ",
+     "tr": "ya-",
+     "en": "he (present-tense subject prefix, third-person masculine singular)"
+    },
+    {
+     "ar": "خَاف",
+     "tr": "khāf",
+     "en": "fear / be afraid (verb base, from the root kh-w-f)"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "indicative-mood ending (the plain, factual present)"
+    }
+   ],
+   "grammar": "A present/ongoing-tense verb, form I. The ya- prefix marks a third-person masculine singular subject (\"he\"). The final -u is the indicative ending (the plain, factual mood), the normal ending for a present-tense verb that simply states something as fact; it is a mood marker, not part of the verb base. This is a hollow verb: the root's middle letter (و) is weak and surfaces here as the long vowel ā in the base khāf. With lā before it, the meaning is \"he does not fear.\"",
+   "root": "خ-و-ف (kh-w-f) — fear, dread"
+  },
+  "3": {
+   "meaning": "\"its consequence/outcome\" — the result, aftermath, or end-result that follows an action. The \"its\" can point to the act of punishment/destruction just mentioned, or to the deed itself: He does not fear what comes after, or any reckoning for it.",
+   "parts": [
+    {
+     "ar": "عُقۡبٰ",
+     "tr": "ʿuqbā",
+     "en": "consequence, outcome, final result"
+    },
+    {
+     "ar": "هَا",
+     "tr": "-hā",
+     "en": "its / it (referring back to something feminine: the act or its aftermath)"
+    }
+   ],
+   "grammar": "A noun (ʿuqbā) with an attached possessive pronoun. Function-wise it is the direct object of \"He fears,\" so it occupies the accusative (object) position in the sentence. But ʿuqbā is a maqṣūr noun — one ending in the fixed long vowel ā written with alif maqṣūra (ى) — and such nouns are indeclinable for case: the final ā is part of the word's set pattern and never changes to show nominative, accusative, or genitive. So no audible ending marks the case here; the accusative is known only from the noun's role. The suffix -hā means \"its/it,\" refers back to a feminine antecedent, and makes the noun definite (\"its consequence\" rather than \"a consequence\").",
+   "root": "ع-ق-ب (ʿ-q-b) — to follow, come after; an outcome or end-result"
+  }
+ }
+}
