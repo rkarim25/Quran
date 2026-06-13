@@ -94,11 +94,17 @@ This is the colouring of Allah — and who colours better than Allah? We worship
 
 ## AI Tafsir
 
-**What this ayah teaches:** The Colour of Allah Verse 138 delineates Islam as the "colouring of Allah", and explains this "colouring" as the unalloyed worship of Allah and total submission to Him.
+**Essence**
+Islam is the "colouring of Allah" (Sibghat Allah) — the pure, unalloyed worship of Him alone — and no colour could ever be better than His.
 
-**Classical tafsir:** Ibn Kathir notes: Ad-Dahhak said that Ibn 'Abbas commented, "The religion of Allah." This Tafsir was also reported of Mujahid, Abu Al-'Aliyah, 'Ikrimah, Ibrahim, Al-Hasan, Qatadah, Ad-Dahhak, 'Abdullah bin Kathir, 'Atiyah Al-'Awfi, Ar-Rabi' bin Anas, As-Suddi and other scholars.
+**What it teaches**
+Sibghah means a dye or colour. The ayah declares that the only "colouring" worth the name is the religion of Allah: total submission to Him and the worship of Him alone. "And we worship none but Him" seals it as a confession of pure tawhid — a dye that does not run, unlike any human substitute.
 
-**From the Sunnah:** Allah's Islamic Monotheism))(30:30) directs Muslims to, "Hold to it." In this sense, the verse is a commandment, asking Muslims "to dye" themselves in the "colouring of Allah", outwardly and inwardly by offering unalloyed worship to Him alone, by submitting themselves totally to His commandments, and by gladly accepting His will… (Sahih Muslim)
+**The scholars**
+Ibn Kathir reports that Ad-Dahhak related from Ibn 'Abbas that Sibghat Allah means "the religion of Allah," echoed by Mujahid, Abu Al-'Aliyah, 'Ikrimah, Al-Hasan, Qatadah, As-Suddi and others; he links it to the Fitrah of Allah (30:30), the innate disposition we are to hold fast to. Maarif ul Quran notes the verse alludes to a Christian rite of bathing an infant in coloured water as a substitute for circumcision — a colour that washes away without trace, cleansing neither body nor soul. Against this it sets Islam: the one colouring that guarantees both physical and spiritual purity, and the only one that endures. And as a dye is plainly visible, the signs of true iman should shine through a believer's face, movements and habits.
+
+**Reflection**
+A true dye soaks the whole cloth; it cannot be painted on the surface alone. So take Allah's colour from the inside out — if the worship is real within, it will surface on its own in how you live.
 ## Personal Reflections
 
 

@@ -144,11 +144,13 @@ If they believe as you believe, they are guided. If they turn away, they are in 
 
 ## AI Tafsir
 
-**What this ayah teaches:** So if they believe in the like of that which you believe then they are rightly guided; but if they turn away, then they are only in opposition. The earlier verses having established that the only religion which is valid at present is Islam, this verse assures the Muslims that the Jews and the Christians can find the guidance only "if they believe just as you believe", or, in other words, "if they…
+**Essence** The only faith Allah accepts is to believe exactly as the Prophet ﷺ and his Companions believed — no more, no less, no distortion.
 
-**Classical tafsir:** Ibn Kathir notes: Ad-Dahhak said that Ibn 'Abbas commented, "The religion of Allah." This Tafsir was also reported of Mujahid, Abu Al-'Aliyah, 'Ikrimah, Ibrahim, Al-Hasan, Qatadah, Ad-Dahhak, 'Abdullah bin Kathir, 'Atiyah Al-'Awfi, Ar-Rabi' bin Anas, As-Suddi and other scholars.
+**What it teaches** Guidance is real but conditional: "if they believe in the like of what you believe" (bimithli ma amantum). Ibn Kathir reads this as believing in all of Allah's Books and Messengers without differentiating between any of them — then they are rightly guided (ihtadaw), directed to the truth. To turn from truth to falsehood after the proof has come is shiqaq: open opposition.
 
-**From the Sunnah:** Allah's Islamic Monotheism))(30:30) directs Muslims to, "Hold to it." The earlier verses having established that the only religion which is valid…
+**The scholars** Maarif ul Quran makes the Iman of the Prophet ﷺ and his Companions the binding model: believe in Allah and His attributes, the angels, the Books, and the prophets precisely as they did, "without adding or subtracting anything." It condemns two extremes of deviation — denying and even killing the prophets, or exalting them until they are placed at the level of Allah — because the essence of shirk is making a creature the equal of Allah in a divine attribute like knowledge or power. On the closing words, Ibn Kathir grounds the believers' security in who Allah is: reading "Allah will suffice you against them" as Allah aiding the believers, and affirming the names al-Sami' (the All-Hearing) and al-'Alim (the All-Knowing).
+
+**Reflection** Measure your belief against the Companions' creed — not against modern materialism, not against "rationalist" re-interpretations that explain the unseen away, not against new claims of prophethood. Where Maarif ul Quran says Allah will deal with the obstinate Himself and protect His Prophet ﷺ, leave them to Him: He hears and knows all.
 ## Personal Reflections
 
 

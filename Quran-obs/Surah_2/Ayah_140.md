@@ -222,11 +222,13 @@ Or do you claim that Abraham, Ishmael, Isaac, Jacob, and the tribes were Jews or
 
 ## AI Tafsir
 
-**What this ayah teaches:** Their Book also stated that Ibrahim, Isma'il, Ishaq, Ya'qub and the tribes were neither Jews, nor Christians. The earlier verses have established that the religion of all these prophets was Islam, in the general sense of the term, but that the earlier Shari` ahs have now been abrogated, and the title of "Islam" been specially given to the religion of Sayyidna Muhammad ﷺ .
+**Essence** When the People of the Book claimed the great prophets for their own creed, Allah silences the boast with one question: do you know better, or does Allah?
 
-**Classical tafsir:** Ibn Kathir notes: The earlier verses have established that the religion of all these prophets was Islam, in the general sense of the term, but that the earlier Shari` ahs have now been abrogated, and the title of "Islam" been specially given to the religion of Sayyidna Muhammad ﷺ .
+**What it teaches** The verse rebukes the claim that Ibrahim, Isma'il, Ishaq, Ya'qub and Al-Asbat (his descendants) were Jews or Christians: the religion of all these prophets was Islam in its general sense, before the earlier Shari'ahs were abrogated and the name "Islam" given to the religion of Muhammad ﷺ. To conceal a testimony (shahadah) one holds from Allah is the gravest injustice (zulm); and the closing warning — Allah is never ghafil (heedless) of what you do — affirms that His knowledge encompasses every deed and repays it.
 
-**From the Sunnah:** Paradise which would be denied to Muslims.
+**The scholars** Ibn Kathir reads "Do you know better or does Allah?" as decisive: Allah Himself declared these prophets neither Jews nor Christians, as in "Ibrahim was neither a Jew nor a Christian, but a true Muslim Hanif" (3:67). Al-Hasan Al-Basri sharpens the charge — the People of the Book read in their own scripture that the true religion is Islam and Muhammad ﷺ the Messenger, testified to it, then hid it. Maarif ul Quran adds that Allah, Lord of all, grants no group exclusive favour; He judges each by his own belief and conduct, not by ancestral glory.
+
+**Reflection** Do not lean on inherited labels or noble ancestry — before Allah you stand on your own faith and deeds, and on the courage never to hide a truth you know.
 ## Personal Reflections
 
 
