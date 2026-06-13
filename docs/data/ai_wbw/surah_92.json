@@ -1,0 +1,1321 @@
+{
+ "1": {
+  "1": {
+   "meaning": "\"And by the night\" — this is a divine oath. Allah swears by the night to draw attention to its majesty and to the truth that follows. The opening 'wa' here is the oath-particle ('I swear by…'), not the ordinary 'and'. The night is invoked as it spreads its darkness over the world.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "by / I swear by (oath particle)"
+    },
+    {
+     "ar": "ا",
+     "tr": "al-",
+     "en": "the (definite article; its lam assimilates into the following lam)"
+    },
+    {
+     "ar": "لَّيۡلِ",
+     "tr": "layli",
+     "en": "night"
+    }
+   ],
+   "grammar": "The 'wa' is the particle of oath ('by…', as in swearing). A noun after this oath-'wa' is put in the genitive case, which is why the word ends in -i (layl-i). The definite article is 'al-', but because 'night' begins with lam — a 'solar letter' — the article's own lam fully assimilates into it: only the article's hamzat al-wasl (the alif, ا) is written, and the doubling shows up as the shaddah on the lam of لَّيۡلِ. So the three parts reconstruct to وَالَّيۡلِ, meaning 'and by THE night'.",
+   "root": "ل-ي-ل (l-y-l) — night, nightfall"
+  },
+  "2": {
+   "meaning": "\"When\" — a time word meaning 'at the time that' or 'whenever'. It sets up a condition or a moment: it points forward to the action in the next word, telling us WHEN the night is being sworn by — namely, at the moment it does what follows.",
+   "parts": [
+    {
+     "ar": "اِذَا",
+     "tr": "idhā",
+     "en": "when / at the time that"
+    }
+   ],
+   "grammar": "This is an indeclinable adverb of time — it never changes its ending. It introduces the moment of an action and normally looks ahead to a verb that completes the picture (here, 'covers'). Think of it as 'when' pointing to the verb that comes next.",
+   "root": "— (particle of time; no triliteral root)"
+  },
+  "3": {
+   "meaning": "\"It covers / it envelops\" — the night spreads its darkness and wraps everything in it, covering the world and its creatures. The verb carries the sense of overspreading, veiling, and engulfing — darkness drawing over the daylight like a covering drawn over a thing.",
+   "parts": [
+    {
+     "ar": "يَ",
+     "tr": "ya",
+     "en": "it / he (present-tense 3rd-person prefix)"
+    },
+    {
+     "ar": "غۡشٰى",
+     "tr": "ghshā",
+     "en": "covers / envelops"
+    }
+   ],
+   "grammar": "This is a present/ongoing-tense verb. The 'ya-' prefix marks the doer as 'he/it' (3rd person masculine singular) — i.e. the night. The verb ends in a long -ā (the final weak letter of its root), giving the picture of a continuing, repeated action: the night 'keeps covering' each time it falls. No stated object follows, which lets the covering feel total and all-embracing.",
+   "root": "غ-ش-ي (gh-sh-y) — to cover, overspread, envelop"
+  }
+ },
+ "2": {
+  "1": {
+   "meaning": "\"And the day\" — the daytime, the bright span of light that follows night. The opening \"and\" continues a series of divine oaths (the previous verse swears by the night); here Allah swears by the day. Linking day to the preceding night sets up the contrast (darkness vs. light) that the surah builds on.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and (here: the waw of oath, \"by\")"
+    },
+    {
+     "ar": "ال",
+     "tr": "al",
+     "en": "the"
+    },
+    {
+     "ar": "نَّهَارِ",
+     "tr": "nahāri",
+     "en": "day / daytime"
+    }
+   ],
+   "grammar": "Three pieces fused into one word. The wa- prefix is the waw of oath (waw al-qasam, \"by…\"), which in Arabic forces the noun after it into the genitive case — that is exactly why the word ends in -i (nahāri) rather than -u or -a. The al- prefix is the definite article \"the.\" So literally: \"and [I swear] by the day.\" The doubling (shadda) on the n of nahār is the normal way al- attaches to a \"sun-letter\" like n.",
+   "root": "ن-ه-ر (n-h-r) — daylight / the bright part of the day (also the sense of flowing/openness)"
+  },
+  "2": {
+   "meaning": "\"When\" — a time-word meaning \"at the moment that\" or \"whenever.\" It introduces the specific condition or moment being pointed to: the day is sworn by precisely at the time it does the thing described in the next word (shines forth).",
+   "parts": [
+    {
+     "ar": "اِذَا",
+     "tr": "idhā",
+     "en": "when / at the time that"
+    }
+   ],
+   "grammar": "This is a single indeclinable particle — it never changes its ending no matter its role in the sentence, so there is no case vowel to interpret. It sets up a time clause and is normally followed by a verb describing what happens at that moment (here: \"shines\"). It typically points to something real/expected rather than hypothetical.",
+   "root": "— (particle; no triliteral root)"
+  },
+  "3": {
+   "meaning": "\"It shines / reveals itself in brightness\" — the day blazes forth and displays its full light, becoming clear and radiant. The verb carries the sense of something unveiling or uncovering itself, so the day is pictured as actively revealing its brightness, the visual opposite of the night that \"covers/envelops.\"",
+   "parts": [
+    {
+     "ar": "تَجَلّٰى",
+     "tr": "tajallā",
+     "en": "it revealed itself / shone forth (one indivisible Form V verb)"
+    }
+   ],
+   "grammar": "A past-tense verb, third-person masculine singular (\"it\" — agreeing with the masculine noun \"day\"). It is built on Form V, the tafaʿʿala pattern (Form II faʿʿala with a fixed ta- prefixed to the front). This entire pattern — not the ta- on its own — carries the reflexive, self-directed sense: \"to reveal ITSELF, to display itself,\" hence not just \"to shine\" but \"to unveil its own brightness.\" The ta- here is the inseparable stem prefix that defines Form V; it is part of the verb's form regardless of person, NOT a personal-agreement prefix. In the past tense, third-person masculine singular is marked by a zero suffix (no ending is added). The final -ā is the verb's weak final root letter (و) surfacing as a long ā. Although past in form, after \"when\" (idhā) it reads as a present/timeless action: \"when it shines.\"",
+   "root": "ج-ل-و (j-l-w) — to become clear, uncover, reveal / make manifest"
+  }
+ },
+ "3": {
+  "1": {
+   "meaning": "\"And (by) the One Who created\" — here مَا does not mean an inanimate \"what.\" In this oath it functions like \"the One Who,\" pointing to the Creator. The wa- at the front is the oath particle (\"by\"), continuing the series of oaths from the previous verses: \"and by the One Who created…\"",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and / by (oath particle)"
+    },
+    {
+     "ar": "مَا",
+     "tr": "mā",
+     "en": "that which / the One Who"
+    }
+   ],
+   "grammar": "Two pieces joined as one word. The opening wa- is the particle of oath, the same \"by\" used in swearing (\"by the night,\" \"by the day\"); it also carries the sense \"and.\" مَا is a relative pronoun normally used for things, but here it stands for the Creator (\"the One Who\"), with the relative clause completed by the next word \"created.\" مَا is invariable — it never changes its ending.",
+   "root": "— (particle + relative pronoun; no triliteral root)"
+  },
+  "2": {
+   "meaning": "\"He created\" — brought into existence, fashioned, and shaped. The doer is Allah, referred to by \"the One Who\" in the previous word.",
+   "parts": [
+    {
+     "ar": "خَلَقَ",
+     "tr": "khalaqa",
+     "en": "he created"
+    }
+   ],
+   "grammar": "A past-tense (perfect) verb, third-person masculine singular: \"he created.\" The final -a is the vowel on the last root letter in this فَعَلَ pattern; the form tells you the action is completed and the doer is a single \"he\" (here, Allah). No separate subject word is needed — the verb form itself carries \"he.\" This verb completes the relative clause begun by مَا: \"the One Who created.\"",
+   "root": "خ-ل-ق (kh-l-q) — to create, originate, shape"
+  },
+  "3": {
+   "meaning": "\"the male\" — the male of any species, mentioned as one half of the created pair.",
+   "parts": [
+    {
+     "ar": "الـ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "ذَّكَرَ",
+     "tr": "dhakara",
+     "en": "male"
+    }
+   ],
+   "grammar": "\"The\" (al-) plus the noun \"male.\" The l of al- assimilates into the following ذ, so it is pronounced adh-dhakar. The final -a (a fatḥa on the ر) is the accusative case: it marks this noun as the direct object — the thing that was created. So: \"He created the male.\"",
+   "root": "ذ-ك-ر (dh-k-r) — maleness; (the same root also carries the sense of remembrance/mention)"
+  },
+  "4": {
+   "meaning": "\"and the female\" — the female of any species, the second half of the pair set opposite the male.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "الـ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "اُنۡثٰى",
+     "tr": "unthā",
+     "en": "female"
+    }
+   ],
+   "grammar": "Three pieces: wa- \"and,\" al- \"the,\" and the noun \"female.\" It is joined by \"and\" to the previous word as a second direct object of \"created\": \"He created the male and the female.\" The word ends in a long -ā written with alif (a maqṣūr ending); nouns of this shape cannot display a case vowel on the final letter, so the accusative (object) role is understood from the syntax rather than voweled. The small mark in the script signals a pause/end of the verse.",
+   "root": "أ-ن-ث (ʾ-n-th) — femaleness, the female"
+  }
+ },
+ "4": {
+  "1": {
+   "meaning": "An emphatic opening particle that strongly affirms the statement that follows — it carries the force of 'indeed', 'surely', or 'truly', assuring the listener that what comes next is certain and not to be doubted.",
+   "parts": [
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "indeed / surely (emphasis)"
+    }
+   ],
+   "grammar": "A particle of emphasis and affirmation (one of the 'sisters of inna'). It places the noun after it (here saʿyakum, 'your efforts') in the accusative case and underlines the certainty of the whole sentence — best rendered 'surely' or 'indeed'. It has no tense, person, or gender; it simply intensifies the assertion.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "Your striving, effort, and exertion — the energetic running-about and toil you put into your pursuits and deeds in this life; what you work toward and labour for.",
+   "parts": [
+    {
+     "ar": "سَعۡيَ",
+     "tr": "saʿya",
+     "en": "striving / effort"
+    },
+    {
+     "ar": "كُمۡ",
+     "tr": "-kum",
+     "en": "your (plural)"
+    }
+   ],
+   "grammar": "A verbal noun (the act of striving) functioning as the ism (subject) of the emphatic particle inna, which puts it in the accusative case. Note, though, that this accusative is not shown by a separate visible case-ending: once a noun takes an attached pronoun suffix (here -kum), it loses any tanwin and its case vowel is no longer independently marked. The fatha you see on saʿya- is simply the connecting vowel required before the suffix كُمۡ, not a case-marker you can read off the word. The suffix -kum is a possessive pronoun meaning 'your', and it is plural — addressing many people, not one — so the sense is 'the striving of you all'.",
+   "root": "س-ع-ي (s-ʿ-y) — to strive, exert effort, run / hasten toward something"
+  },
+  "3": {
+   "meaning": "Most certainly diverse, scattered, and divergent — people's efforts pull in widely different directions and lead to sharply different ends; some toward good, some toward evil.",
+   "parts": [
+    {
+     "ar": "لَ",
+     "tr": "la-",
+     "en": "truly / most certainly (emphasis)"
+    },
+    {
+     "ar": "شَتّٰى",
+     "tr": "shattā",
+     "en": "diverse / divergent / scattered"
+    }
+   ],
+   "grammar": "Two pieces. The prefix la- is an emphatic 'lam' meaning 'truly/most certainly' that typically attaches to the predicate in a sentence opened by inna, doubling the assurance. The stem shattā is a plural adjective ('diverse, of many different kinds') functioning as the predicate (khabar) — it tells us what the efforts ARE. Its fixed ending -ā does not change for case; the word stays the same whatever its grammatical role.",
+   "root": "ش-ت-ت (sh-t-t) — to be scattered, dispersed, varied / diverse"
+  }
+ },
+ "5": {
+  "1": {
+   "meaning": "\"Then as for...\" — a two-part connector that opens a contrast. It hooks this verse to what came before, then announces that a particular type of person is about to be singled out and described, with their consequence to follow later in the surah.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa-",
+     "en": "then / so (connecting it to the previous verse)"
+    },
+    {
+     "ar": "اَمَّا",
+     "tr": "ammā",
+     "en": "as for / as regards"
+    }
+   ],
+   "grammar": "Two particles joined together. The fa- prefix links back to the prior verses ('your efforts differ... THEN as for...'). ammā is a 'detailing' particle meaning 'as for': it picks out one group for separate treatment and sets up a sentence that will be completed by a matching 'then' clause (verse 7). It has no case ending — particles do not inflect.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "\"the one who\" / \"whoever\" — points to a person defined entirely by the actions described next. Here it carries a conditional flavour: 'whoever does these things...,' setting up a cause that will receive its result later in the surah.",
+   "parts": [
+    {
+     "ar": "مَنۡ",
+     "tr": "man",
+     "en": "the one who / whoever"
+    }
+   ],
+   "grammar": "A relative noun used for people, functioning here as the subject being described. The sukūn (silent ending) on the final letter is fixed — this word never changes its ending for case. It introduces the two verbs that follow as the description of this person.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "\"gives\" — gives generously, hands over of one's wealth, spends in charity. The wider verse implies giving for the sake of Allah rather than for any worldly return.",
+   "parts": [
+    {
+     "ar": "اَ",
+     "tr": "a-",
+     "en": "prefix marking Form IV ('to cause/do' the act of giving)"
+    },
+    {
+     "ar": "عۡطٰى",
+     "tr": "ʿṭā",
+     "en": "give (the core verb, ending in a long -ā)"
+    }
+   ],
+   "grammar": "A past-tense (perfect) verb, 'he gave,' third person masculine singular, agreeing with 'the one who' in verse 2. The a- prefix marks it as Form IV (aʿṭā), a pattern that often makes a verb causative/transitive — here simply 'to give, to hand over.' The verb is 'defective': its root ends in a weak letter, so instead of a normal final consonant it closes with a long -ā sound (written with alif maqṣūra, ٰى). There is no visible case/mood vowel because that long vowel absorbs it.",
+   "root": "ع-ط-و (ʿ-ṭ-w) — giving, granting, bestowing"
+  },
+  "4": {
+   "meaning": "\"and is mindful of Allah\" — guards himself against wrongdoing out of reverence for Allah. This is taqwa: a protective God-consciousness in which one shields oneself from sin and from Allah's displeasure by obeying Him. 'Fears' is a shorthand; the sense is dutiful, careful reverence rather than mere fright.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa-",
+     "en": "and"
+    },
+    {
+     "ar": "اتَّقٰى",
+     "tr": "ittaqā",
+     "en": "guarded himself / was mindful (in reverence of Allah), ending in a long -ā"
+    }
+   ],
+   "grammar": "The wa- prefix means 'and,' joining this verb to 'gives.' ittaqā is a past-tense verb, 'he guarded himself / was God-conscious,' third person masculine singular, still describing 'the one who' of verse 2. It is Form VIII, the pattern that inserts a -t- after the first root letter (ifta'ala). Here the first root letter is the weak waw (و), which does not stay as a separate sound: it assimilates forward into that inserted -t-, and the two merge into a single doubled tā (تّ, written with a shadda) — so the surface form is itta- rather than iwta-. In this verb Form VIII carries a reflexive sense: to make oneself guarded, to protect oneself. Like the previous verb it is 'defective,' so it ends in a long -ā (alif maqṣūra, ٰى) instead of a final consonant, and that long vowel takes the place of any case/mood marker.",
+   "root": "و-ق-ي (w-q-y) — to guard, shield, protect (the root of taqwa, God-consciousness)"
+  }
+ },
+ "6": {
+  "1": {
+   "meaning": "And he holds the best to be true / affirms it as true. The verb means actively believing in and accepting something as genuine and trustworthy — here, sincerely affirming the truth of faith and its reward, not merely passing acknowledgement.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "صَدَّقَ",
+     "tr": "ṣaddaqa",
+     "en": "he affirmed as true / believed"
+    }
+   ],
+   "grammar": "The wa- prefix is the connector 'and'. The stem is a Form II verb: Form II is built by doubling the middle root letter — here the dāl (د), giving ṣad-da-qa. Form II intensifies or makes the root causative, so from 'being true' it becomes 'to declare/hold true, to credit as true'. It is past tense, and the final -a ending marks the 3rd-person masculine singular subject — 'he' did it.",
+   "root": "ص-د-ق (ṣ-d-q) — truth, sincerity, being truthful"
+  },
+  "2": {
+   "meaning": "In the best — the finest and most excellent thing. Commentators understand 'the best' here as the goodly reward of Paradise, or the word/creed of faith itself; the form is an elative meaning the very best, the supreme good.",
+   "parts": [
+    {
+     "ar": "بِ",
+     "tr": "bi",
+     "en": "in / with"
+    },
+    {
+     "ar": "الۡ",
+     "tr": "al",
+     "en": "the"
+    },
+    {
+     "ar": "حُسۡنٰى",
+     "tr": "ḥus'nā",
+     "en": "best, finest (good)"
+    }
+   ],
+   "grammar": "bi- is a preposition meaning 'in' (here, 'believes IN'); al- is 'the'. The noun ḥus'nā is the feminine elative (superlative) form — 'the best/finest'. It ends in alif maqṣūra (the -ā sound), which is a fixed ending that does not change for case; being governed by the preposition bi-, it stands in the genitive but shows no visible vowel change.",
+   "root": "ح-س-ن (ḥ-s-n) — goodness, beauty, excellence"
+  }
+ },
+ "7": {
+  "1": {
+   "meaning": "\"So We will smooth the way for him / make things easy for him.\" The verb means to render something effortless, to remove obstacles and clear the path. In context (following the description of the one who gives, is mindful of Allah, and affirms the best) it is the divine promise that Allah will graciously ease such a person toward all that is good and toward the path of ultimate ease.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa",
+     "en": "so / then (connects this as a consequence of what preceded)"
+    },
+    {
+     "ar": "سَ",
+     "tr": "sa",
+     "en": "will (marks the near future)"
+    },
+    {
+     "ar": "نُ",
+     "tr": "nu",
+     "en": "We (subject prefix — the royal/majestic \"We\" of Allah)"
+    },
+    {
+     "ar": "يَسِّرُ",
+     "tr": "yassiru",
+     "en": "make easy / smooth the way"
+    },
+    {
+     "ar": "هُ",
+     "tr": "hu",
+     "en": "him (object: the righteous person)"
+    }
+   ],
+   "grammar": "This is one packed word. The فَ (fa) ties it back as the outcome of the previous verses. The سَ (sa) prefix turns the verb into the near future: \"We WILL ease.\" The نُ (nu-) prefix is the first-person-plural subject \"We,\" the present/future (muḍāriʿ) form. The doubled middle letter (shadda) marks this as Form II, the causative/intensive pattern — not merely \"to be easy\" but \"to MAKE easy, to actively smooth the path.\" The final -u on yassiru is the indicative ending (the normal, unbroken statement form of the verb). The attached هُ (-hu, \"him\") is the third-person masculine singular object pronoun — the one being eased. (In the script a non-joining mark sits before هُ purely for typography; it carries no meaning.)",
+   "root": "ي-س-ر (y-s-r) — ease, facility, removing difficulty"
+  },
+  "2": {
+   "meaning": "\"Toward the ease / the easy path.\" Here al-yusrā denotes the state or way of ultimate ease — the path that leads to comfort, goodness, and ultimately Paradise. It is the deliberate counterpart to al-ʿusrā (\"hardship\") mentioned of the opposite kind of person, so it carries the sense of \"the Easiest Way\" or \"the Way of Ease\" that Allah facilitates for the righteous.",
+   "parts": [
+    {
+     "ar": "لِ",
+     "tr": "li",
+     "en": "for / toward (indicating direction or purpose)"
+    },
+    {
+     "ar": "لْ",
+     "tr": "l-",
+     "en": "the (the definite article \"al,\" its \"a\" elided after li)"
+    },
+    {
+     "ar": "يُسْرَىٰ",
+     "tr": "yusrā",
+     "en": "ease / the easy path"
+    }
+   ],
+   "grammar": "The لِ (li, \"for/toward\") is a preposition showing the goal or direction of the easing — He smooths him \"toward\" it. Fused to it is the definite article الـ (al, \"the\"); after li the article loses its own vowel, so \"li + al\" contracts to lil-. The word yusrā is the feminine elative (the pattern fuʿlā; the masculine is aysar), conveying \"the (utmost) ease,\" the easy way par excellence — the counterpart of al-ʿusrā, \"hardship.\" It ends in alif maqṣūrā (the ـىٰ), which makes it a maqṣūr noun: its case vowel is hidden/estimated, so the ending looks the same (-ā) in every grammatical position rather than changing for case.",
+   "root": "ي-س-ر (y-s-r) — ease, facility, removing difficulty"
+  }
+ },
+ "8": {
+  "1": {
+   "meaning": "\"But as for...\" — this opens the second half of a contrasting pair. The verse before it (92:5) introduced the generous, God-fearing person, and this verse pivots to the opposite type. The two openings are parallel but not identical: 92:5 begins with fa-ammā (\"so as for...\"), while 92:8 begins with wa-ammā (\"but/and as for...\"), the wa- here resuming the contrast rather than drawing a consequence. It sets up a topic (\"as for X...\") whose verdict comes later: he withholds and feels self-sufficient, so the hard path is made easy for him (answered in verse 10).",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa-",
+     "en": "and / but"
+    },
+    {
+     "ar": "أَمّا",
+     "tr": "ammā",
+     "en": "as for"
+    }
+   ],
+   "grammar": "Two pieces joined. The prefix wa- is the connector \"and/but,\" tying this verse to the preceding contrast (note that the parallel verse 5 instead uses the prefix fa-, \"so\"). ammā is a particle that introduces a new topic and means \"as for...\"; it always sets up a condition or case and is later answered by a clause beginning with fa- (\"then...\") in verse 10. The doubled m (shown by the shadda) is part of the particle itself, not a separate piece.",
+   "root": "— (particles; no triliteral root)"
+  },
+  "2": {
+   "meaning": "\"the one who / whoever.\" It names an unspecified person — here, any individual who behaves in the way the verse goes on to describe. It functions like English \"he who\" or \"whoever,\" pointing to a type of person rather than a named individual.",
+   "parts": [
+    {
+     "ar": "مَن",
+     "tr": "man",
+     "en": "the one who / whoever"
+    }
+   ],
+   "grammar": "A single indeclinable word; its ending never changes for case, so the final -n is simply part of the word, not a case marker. It is a relative/conditional noun standing as the subject of \"as for...,\" and the verbs that follow (bakhila, istaghnā) describe what this person does.",
+   "root": "— (relative/conditional particle; no triliteral root)"
+  },
+  "3": {
+   "meaning": "\"he was stingy / he withheld.\" It describes a person who holds back — refusing to give his wealth or to spend in good causes. The sense is miserliness: clutching what one has instead of giving generously, the exact opposite of the giver praised earlier in the surah.",
+   "parts": [
+    {
+     "ar": "بَخِلَ",
+     "tr": "bakhila",
+     "en": "he was stingy / withheld"
+    }
+   ],
+   "grammar": "A plain past-tense verb (form I). The vowel pattern ba-khi-la, with the -a ending, is the basic \"he did\" form: third-person masculine singular, completed action — \"he was stingy.\" There is no prefix or attached pronoun; the subject \"he\" is built into the form and refers back to man (\"the one who\").",
+   "root": "ب-خ-ل (b-kh-l) — stinginess, withholding, miserliness"
+  },
+  "4": {
+   "meaning": "\"and he considered himself self-sufficient / free of need.\" Beyond merely being stingy, this person feels he needs nothing and no one — in context, that he has no need of Allah. It conveys self-satisfied independence: thinking one's wealth makes one secure, so one turns away from Allah and from giving.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa-",
+     "en": "and"
+    },
+    {
+     "ar": "اسْتَ",
+     "tr": "ista-",
+     "en": "sought / considered (himself)"
+    },
+    {
+     "ar": "غْنىٰ",
+     "tr": "ghnā",
+     "en": "to be free of need / rich"
+    }
+   ],
+   "grammar": "The prefix wa- means \"and.\" The rest is a past-tense verb in form X (the ist- pattern), which adds the sense of \"to seek, claim, or regard oneself as\" — so from the root meaning \"to be free of need,\" it becomes \"he deemed himself free of need / self-sufficient.\" It is third-person masculine singular, completed action (\"he did\"), with the subject \"he\" again being man. The verb ends in a long -ā sound; in this script that final ā is carried by an alif maqsura (the dotless yāʾ, ى), which is the normal way a verb whose root ends in -y closes off the masculine \"he\" form — it is not a dual or plural ending. The small superscript alef (dagger alif) written over the preceding nūn is a separate Quranic recitation/orthographic marker and does not itself produce the final ā.",
+   "root": "غ-ن-ي (gh-n-y) — freedom from need, sufficiency, wealth"
+  }
+ },
+ "9": {
+  "1": {
+   "meaning": "And he denies — that is, he stubbornly rejects and treats as a lie. The verb does not mean a mild doubt; its intensive (Form II) shape conveys an active, deliberate branding of the truth as false. In context the subject is the same grasping, self-satisfied person described in the previous verse, who now also denies the reality of the good reward to come.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "كَذَّبَ",
+     "tr": "kadhdhaba",
+     "en": "he denied / declared to be a lie"
+    }
+   ],
+   "grammar": "Two pieces. The prefix وَ (wa-) is the connector 'and', linking this to the earlier description of the person. The verb كَذَّبَ is a past-tense (perfect) verb, third-person masculine singular — 'he did it' — with the final -a vowel marking that 3rd-person-masculine-singular past form. It is built on the doubled/intensive Form II pattern (faʿʿala, note the stressed double ذّ marked by the shadda), so it is transliterated kadhdhaba, not kadhaba: the simple Form I root kadhaba means 'to lie', and this intensive Form II shape turns it into 'to declare something a lie, to deny/reject it outright'. Though grammatically past, it describes a settled, habitual attitude.",
+   "root": "ك-ذ-ب (k-dh-b) — lying, falsehood; here, to brand the truth as a lie"
+  },
+  "2": {
+   "meaning": "In the finest reward — 'al-ḥusnā' is the feminine superlative 'the best/the most beautiful (thing)'. Used absolutely here it names the supremely good outcome: the excellent recompense of the Hereafter, understood by the commentators (Ibn Kathir) as Paradise and Allah's promised reward. So the phrase means he denies/disbelieves in that finest reward.",
+   "parts": [
+    {
+     "ar": "بِ",
+     "tr": "bi",
+     "en": "in / with (object of denial)"
+    },
+    {
+     "ar": "الۡ",
+     "tr": "al",
+     "en": "the"
+    },
+    {
+     "ar": "حُسۡنٰى",
+     "tr": "ḥusnā",
+     "en": "the best / finest (reward)"
+    }
+   ],
+   "grammar": "Three pieces. The prefix بِ (bi-) is a preposition that here supplies the object of 'denies' — one denies 'in' a thing (kadhdhaba bi-), i.e. rejects it. الۡ (al-) is the definite article 'the'. The stem حُسۡنٰى is a feminine superlative/elative (the fuʿlā shape, counterpart of masculine aḥsan), 'the best, the most beautiful'. Its ending is the alif maqṣūra (the final -ā written ٰى): this is a fixed ending that does not change for case, so although the preposition bi- grammatically requires the genitive, the genitive is silent and unwritten — the word simply ends in -ā.",
+   "root": "ح-س-ن (ḥ-s-n) — beauty, goodness, excellence"
+  }
+ },
+ "10": {
+  "1": {
+   "meaning": "\"Then We shall smooth his way toward...\" — a promise that Allah, as the consequence of the preceding verses (the one who is stingy, deems himself self-sufficient, and denies the best), will make easy for that person the path that leads onward. The verb here, in Form II, does not mean merely \"to be easy\" but \"to actively make smooth/facilitate,\" and the \"him\" refers back to that ungrateful, denying person. The easing is ominous: his way is being smoothed toward hardship (defined in the next word).",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa",
+     "en": "then / so (consequence of what preceded)"
+    },
+    {
+     "ar": "سَ",
+     "tr": "sa",
+     "en": "will (marks near future)"
+    },
+    {
+     "ar": "نُ",
+     "tr": "nu",
+     "en": "We (subject prefix, the divine \"We\" of majesty)"
+    },
+    {
+     "ar": "يَسِّرُ",
+     "tr": "yassiru",
+     "en": "make smooth / facilitate"
+    },
+    {
+     "ar": "هُ",
+     "tr": "hu",
+     "en": "him (object: that person)"
+    }
+   ],
+   "grammar": "A present/future verb built up from layers. The fa- at the front is \"then/so,\" tying this to the earlier description as its result. The sa- is a near-future particle that simply marks that the action lies in the (near) future; it indicates timing only and adds no sense of certainty or emphasis (genuine emphasis would need extra particles, which are absent here). The nu- prefix is the subject \"We\" (the royal/majestic \"We\" used of Allah). The stem yassir is Form II (doubled middle root letter), which turns the basic sense \"be easy\" into the causative \"make easy, smooth the way for.\" The final -u is the indicative ending, the normal mood for a simple statement of fact. The attached -hu is the object pronoun \"him.\" So literally: \"so-We-will-make-smooth-him.\"",
+   "root": "ي-س-ر (y-s-r) — ease, smoothness, facility"
+  },
+  "2": {
+   "meaning": "\"toward the hardship / the path of utmost difficulty\" — the destination of the smoothing. Al-ʿusrā is the harder, more distressing road; classical commentators (Ibn Kathir, Maarif) gloss it as the path of evil that leads ultimately to Hell, the opposite of al-yusrā (ease) promised to the righteous in verse 7. It is a feminine superlative-pattern noun: not just \"hard\" but \"the hardest course.\"",
+   "parts": [
+    {
+     "ar": "لِ",
+     "tr": "li",
+     "en": "to / toward (purpose, direction)"
+    },
+    {
+     "ar": "ٱلْ",
+     "tr": "l(i)",
+     "en": "the (definite article, its vowel absorbed after li-)"
+    },
+    {
+     "ar": "عُسْرَٰ",
+     "tr": "ʿus'rā",
+     "en": "hardship / the harder path"
+    }
+   ],
+   "grammar": "A noun preceded by the preposition li- (\"to/toward\"), which points to the goal or direction of the easing. The definite article al- is fused onto it; after li- its own vowel drops, so the two read together as lil-. The word ʿusrā follows the feminine fuʿlā pattern (the same shape as the superlative \"the greater/utmost\"), conveying \"the extreme/hardest\" course; here it functions as a noun, \"the hardship.\" Its ending is the fixed long -ā (written with alif maqsura ىٰ); because this word does not take case-vowel changes, the genitive expected after li- is silent rather than a pronounced -i. The pairing with verse 7's al-yusrā sets up a deliberate ease-versus-hardship contrast.",
+   "root": "ع-س-ر (ʿ-s-r) — difficulty, hardship, distress"
+  }
+ },
+ "11": {
+  "1": {
+   "meaning": "\"And not\" — a connector (\"and\") joined to the negating particle \"not.\" Together they open the statement by denying what follows: his wealth will be of no use at all.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa-",
+     "en": "and"
+    },
+    {
+     "ar": "مَا",
+     "tr": "mā",
+     "en": "not"
+    }
+   ],
+   "grammar": "Two particles fused into one word. The prefix wa- is the conjunction \"and,\" linking this verse to the previous one. mā here is a particle of negation (\"not / does not\"), negating the verb that comes next (yughnī). Neither particle changes form for case or person — they are fixed words.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "\"It avails / it benefits / it wards off\" — to be of use to someone, to enrich or suffice him against a danger, to do him any good. With the negation before it, the sense is that wealth will do him no good whatsoever.",
+   "parts": [
+    {
+     "ar": "يُ",
+     "tr": "yu-",
+     "en": "he/it (does)"
+    },
+    {
+     "ar": "غۡنِىۡ",
+     "tr": "ghnī",
+     "en": "avail / benefit"
+    }
+   ],
+   "grammar": "A present-tense verb, 3rd person masculine singular (\"it/he avails\"); the subject is \"his wealth,\" which comes later. The yu- prefix marks both the present tense and a \"he/it\" subject, and signals Form IV (aghnā / yughnī, \"to be of avail, to enrich\"). The verb ends in a long -ī (the weak final root letter); standing after the negating mā, it carries a present/future force: \"will not avail.\"",
+   "root": "غ-ن-ي (gh-n-y) — to be free of need, wealth, sufficiency"
+  },
+  "3": {
+   "meaning": "\"From him / on his behalf\" — i.e., it will not avail anything for him or fend anything off from him. Marks the person who fails to benefit.",
+   "parts": [
+    {
+     "ar": "عَنۡ",
+     "tr": "ʿan",
+     "en": "from / away from"
+    },
+    {
+     "ar": "هُ",
+     "tr": "-hu",
+     "en": "him"
+    }
+   ],
+   "grammar": "A preposition (ʿan, \"from / away from\") with an attached object pronoun -hu (\"him\"). The idiom \"to avail FROM someone\" means to be of use to him or ward harm off from him. The -hu ending is the 3rd person masculine singular pronoun \"him/his\" in the object position after a preposition; its vowel is u (ʿanhu).",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "\"His wealth\" — the property, money, and possessions a person amasses. This is the thing that will fail him: the subject doing (or failing to do) the \"availing.\"",
+   "parts": [
+    {
+     "ar": "مَال",
+     "tr": "māl",
+     "en": "wealth / property"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "(subject ending)"
+    },
+    {
+     "ar": "هٗ",
+     "tr": "-hu",
+     "en": "his"
+    }
+   ],
+   "grammar": "A noun (māl, \"wealth\") plus the attached possessive pronoun -hu (\"his\"). It is the grammatical subject of the verb \"avails,\" so the noun takes the -u (nominative) ending: mālu-. The attached -hu means \"his\"; here, after the u-vowel, it is lengthened in recitation to -hū. So mālu-hū = \"his wealth (is the one that will not benefit him).\"",
+   "root": "م-و-ل (m-w-l) — wealth, property, possessions"
+  },
+  "5": {
+   "meaning": "\"When\" — points to a future moment and its circumstance: at the time when he falls/perishes. It frames the scene in which the wealth proves worthless.",
+   "parts": [
+    {
+     "ar": "اِذَا",
+     "tr": "idhā",
+     "en": "when (at the time that)"
+    }
+   ],
+   "grammar": "An adverb of time meaning \"when / at the time that,\" normally pointing to something in the future and introducing the circumstance for the main statement. It is a fixed, indeclinable word (no case ending changes); the verb that follows it (taraddā) supplies the action: \"when he tumbles down.\"",
+   "root": "—"
+  },
+  "6": {
+   "meaning": "\"He falls headlong / tumbles down to ruin / perishes\" — to plunge into a pit and be destroyed; here, to die and fall down into the grave and ultimately into the abyss of Hell.",
+   "parts": [
+    {
+     "ar": "تَرَدّٰى",
+     "tr": "taraddā",
+     "en": "he fell to ruin / was cast down"
+    }
+   ],
+   "grammar": "A past-tense (perfect) verb, 3rd person masculine singular (\"he fell / tumbled to ruin\"), of Form V (tafaʿʿala). The ta- here is not a personal prefix; it is part of the Form V stem pattern itself (ta- plus a doubled middle root letter), which gives the reflexive sense of plunging oneself down to ruin. In the perfect there is no personal prefix and no added personal suffix — the bare form with a zero ending marks the 3rd person masculine singular. The closing long -ā is the past-tense ending of this defective root (whose final letter is the weak ي). Although it follows idhā (\"when\"), which points to the future, the verb itself stands in the perfect form: idhā taraddā, \"when he falls to ruin.\"",
+   "root": "ر-د-ي (r-d-y) — to fall, perish, be destroyed"
+  }
+ },
+ "12": {
+  "1": {
+   "meaning": "An emphatic particle of affirmation placed at the start of a sentence. It has no single English word; it acts like saying 'It is truly the case that...' or 'Most certainly...', stressing that what follows is firmly established and beyond doubt. Here it solemnly affirms Allah's promise about guidance.",
+   "parts": [
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "truly / most certainly (emphasis particle)"
+    }
+   ],
+   "grammar": "A particle of emphasis (ḥarf tawkīd) that introduces a nominal sentence. It does not change its form (it is indeclinable), but grammatically it makes the noun that follows take the accusative case and lends the whole statement the force of 'indeed, it is the case that...'. The doubled -nn- (shadda) carries the weight of the emphasis.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "'Upon Us' — the preposition 'upon/on' joined to the pronoun 'Us', referring to Allah in the majestic plural. It conveys an obligation Allah has graciously taken upon Himself: that the responsibility of providing guidance rests with Him alone.",
+   "parts": [
+    {
+     "ar": "عَلَيۡ",
+     "tr": "ʿalay",
+     "en": "upon / on (the form 'ʿalā' takes before a pronoun)"
+    },
+    {
+     "ar": "نَا",
+     "tr": "nā",
+     "en": "us"
+    }
+   ],
+   "grammar": "A preposition (ʿalā, 'upon') with the attached object pronoun -nā ('us'). The base preposition ʿalā shifts to ʿalay- when a pronoun is suffixed. The -nā ending is the first-person plural 'us'; used of Allah it is the plural of majesty (royal 'We'), not a literal plural. The phrase functions as the predicate placed first ('upon Us [rests]...').",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "'Surely the guidance' — the divinely shown right path: the making clear of truth from falsehood and the showing of the way that leads to Allah. The word here is fronted by an emphatic 'truly/surely', underscoring that this guidance is Allah's own undertaking.",
+   "parts": [
+    {
+     "ar": "لَـ",
+     "tr": "la-",
+     "en": "surely / truly (emphatic prefix)"
+    },
+    {
+     "ar": "لۡ",
+     "tr": "l-",
+     "en": "the (definite article 'al-')"
+    },
+    {
+     "ar": "هُدٰى",
+     "tr": "hudā",
+     "en": "guidance"
+    }
+   ],
+   "grammar": "Built from three pieces: the emphatic prefix la- ('surely'), the definite article al- ('the'), and the noun hudā ('guidance'). The la- is the 'lām of emphasis' that pairs with inna at the start of the verse to double the stress ('Indeed... surely...'). When suffixed to this emphatic la-, the article's own vowel (the fatḥa of al-) is fully elided, so the three parts run together as 'la-' + 'l-' + 'hudā' = lalhudā, with no vowel inside the article. The noun ends in a long -ā written on a yāʾ (alif maqṣūra); because it ends in this fixed long vowel, its case does not visibly change — it is the delayed subject ('the guidance [rests upon Us]').",
+   "root": "ه-د-ي (h-d-y) — to guide, to show the way"
+  }
+ },
+ "13": {
+  "1": {
+   "meaning": "A two-part word: 'and' joins this statement to the previous verse, while 'inna' is a particle of strong emphasis that has no single English equivalent. It frontloads the whole sentence with certainty, conveying 'and truly/and most surely.' It assures the listener that what follows is an absolute, guaranteed reality.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "indeed / most surely (emphasis particle)"
+    }
+   ],
+   "grammar": "'wa' is a connector (a conjunction) tying this verse to the one before. 'inna' is an emphasis particle meaning roughly 'truly/indeed.' Grammatically it heads a nominal sentence and takes two elements: its noun (the ism), which it puts in the accusative case, and its predicate (the khabar). In this verse the khabar 'lanā' (word 2) comes first and the ism 'al-ākhira' (word 3) comes after it — an inverted order used for emphasis. The final -a of 'inna' is a fixed, built-in ending (it never changes), not a case marker. Together with the emphatic 'la-' that appears on the predicate later in the verse, 'inna' forms the classic 'inna...la' frame that doubles the emphasis ('it is most certainly the case that...').",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "'For Us' or 'to Us belongs' — it asserts that ownership and possession belong to Allah. In context the sense is that both this world and the next are Allah's exclusive property and under His full control.",
+   "parts": [
+    {
+     "ar": "لَـ",
+     "tr": "la",
+     "en": "for / to (belonging)"
+    },
+    {
+     "ar": "نَا",
+     "tr": "nā",
+     "en": "us (Allah, in the royal 'We')"
+    }
+   ],
+   "grammar": "'la-' is a prefixed preposition meaning 'for/to,' here expressing ownership ('belongs to'). '-nā' is the attached pronoun 'us' — the divine plural of majesty referring to Allah. As the object of the preposition, '-nā' is in the genitive (the case used after prepositions); since it is a pronoun it has no visible vowel change, but its grammatical role is genitive. This whole prepositional phrase 'lanā' functions as the khabar (the predicate) of 'inna' from word 1. It is placed before 'inna's noun (al-ākhira, word 3) — an inverted khabar-before-ism order — which throws the emphasis onto 'to US, and no one else, belongs...'.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "'The Hereafter' — the next life, the everlasting world that comes after death and the Resurrection. It denotes the final, lasting abode as opposed to the passing life of this world.",
+   "parts": [
+    {
+     "ar": "لَـ",
+     "tr": "la",
+     "en": "indeed / most surely (emphatic lām)"
+    },
+    {
+     "ar": "لۡ",
+     "tr": "l",
+     "en": "the"
+    },
+    {
+     "ar": "اٰخِرَةَ",
+     "tr": "ākhirata",
+     "en": "the Hereafter / the Last (life)"
+    }
+   ],
+   "grammar": "This word opens with the emphatic 'la-' (the lām of emphasis that pairs with 'inna' from word 1 to intensify the assurance — 'surely'). Next is the definite article 'al-' 'the,' but here it is written as just 'l-' (لۡ) without its alif: after the preceding emphatic lām the article's hamza (hamzat al-waṣl) drops in writing, so the source reads 'lal-ākhirata,' not 'la-al-ākhirata.' The noun 'ākhira' is feminine ('the Last [life]'). Its final -a ending is the accusative case because this noun is the ism of 'inna' — the noun that 'inna' governs and puts in the accusative (note: it is 'inna's noun, but it takes the accusative, not the nominative a normal subject would have). It comes after its predicate 'lanā' (word 2), the inverted khabar-before-ism order. So the -a marks it as the thing being emphatically affirmed to belong to Allah.",
+   "root": "ا-خ-ر (ʾ-kh-r) — to be last, to come after, the end"
+  },
+  "4": {
+   "meaning": "'And the first (life)' — i.e. this present, worldly life (al-ūlā, 'the former/the first'), which precedes the Hereafter. Paired with the previous word, it completes the statement that both worlds, this one and the next, belong wholly to Allah.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "الۡ",
+     "tr": "al",
+     "en": "the"
+    },
+    {
+     "ar": "اُوۡلٰى",
+     "tr": "ūlā",
+     "en": "the first / the former (life)"
+    }
+   ],
+   "grammar": "'wa' is 'and,' linking this back to 'the Hereafter.' 'al-' is 'the.' 'ūlā' is the feminine form of 'awwal' ('first'), here meaning 'the first/former life' — this world. It ends in a fixed long -ā (written as alif maqṣūra, ـى) which is an indeclinable ending: the case does not show as a changing vowel. Grammatically it is coordinated with 'al-ākhira' and so shares its accusative role as part of 'inna's noun, but that case is silent on this word because of its fixed -ā ending.",
+   "root": "ا-و-ل (ʾ-w-l) — to be first, to precede, the beginning"
+  }
+ },
+ "14": {
+  "1": {
+   "meaning": "\"So I have warned you\" — a solemn warning given in advance. The speaker is Allah, delivering a clear notice of danger so that no one can claim they were left uninformed. The 'so/therefore' ties this warning to what came before as its consequence.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa-",
+     "en": "so / and so (therefore)"
+    },
+    {
+     "ar": "أَنْذَرْ",
+     "tr": "andhar",
+     "en": "warned, gave clear warning"
+    },
+    {
+     "ar": "تُ",
+     "tr": "-tu",
+     "en": "I (did)"
+    },
+    {
+     "ar": "كُمْ",
+     "tr": "-kum",
+     "en": "you (plural)"
+    }
+   ],
+   "grammar": "A past-tense verb in Form IV (the a-prefix, anʿam-style pattern, makes the root mean 'to warn / give notice of danger'). The ending -tu marks the doer as 'I' (Allah speaking). The attached -kum is the object 'you all' (plural). The opening fa- means 'so/therefore', linking this warning to the preceding verses as their result.",
+   "root": "ن-ذ-ر (n-dh-r) — to warn, to give notice/caution of coming danger"
+  },
+  "2": {
+   "meaning": "A fire — here a terrible, punishing Fire (the Fire of the Hereafter). It is left indefinite ('a fire') to convey awe and dread: a Fire whose nature is beyond full description.",
+   "parts": [
+    {
+     "ar": "نَار",
+     "tr": "nār",
+     "en": "fire"
+    },
+    {
+     "ar": "ـًا",
+     "tr": "-an",
+     "en": "a (one), as the object"
+    }
+   ],
+   "grammar": "A noun in the accusative case, shown by the final -an (tanwīn fatḥa). The accusative marks it as the thing being warned about — the object of 'I have warned you of…'. The tanwīn (the -an, 'an') also makes it indefinite: 'a Fire', adding a sense of magnitude and dread.",
+   "root": "ن-و-ر (n-w-r) — fire, flame"
+  },
+  "3": {
+   "meaning": "Blazing — flaming up fiercely and fearsomely. The word pictures a fire that flares, roars and intensifies of its own accord, conveying a living, surging ferocity.",
+   "parts": [
+    {
+     "ar": "تَ",
+     "tr": "ta-",
+     "en": "it (does) — present/ongoing"
+    },
+    {
+     "ar": "لَظَّى",
+     "tr": "laẓẓā",
+     "en": "blazes up, flames fiercely"
+    }
+   ],
+   "grammar": "A present-tense (imperfect) verb in Form V (the ta- prefix on a doubled stem gives a sense of the action happening to/of itself — 'to flare up, blaze intensely'). The ta- prefix here marks a feminine 'it', agreeing with 'Fire' (nār, which is feminine in Arabic). It describes the Fire as continually blazing. (Originally tatalaẓẓā, with one ta- dropped for ease of speech.)",
+   "root": "ل-ظ-ي (l-ẓ-y) — to blaze, flame up fiercely"
+  }
+ },
+ "15": {
+  "1": {
+   "meaning": "A negation particle meaning \"not.\" Here it negates the present-tense verb that follows, denying that the action happens: \"will not burn / none will burn.\" Together with the later \"illā\" (except) it forms an exclusive frame — \"none... will... except...\" — that singles out one category of person.",
+   "parts": [
+    {
+     "ar": "لَا",
+     "tr": "lā",
+     "en": "not"
+    }
+   ],
+   "grammar": "A free-standing negating particle (لَا النافية). It has no ending of its own to decline; it simply turns the following verb negative. Paired with \"illā\" further on, it creates an \"only/none-but\" construction that restricts the meaning.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "\"He/it will roast in it, be scorched by it, burn in it\" — to be made to enter the Fire and endure its searing heat. The attached \"-hā\" (it) points back to the Fire (nār) mentioned earlier in the surah. Despite \"will,\" the form is the ongoing/future present tense, picturing the burning as a continuing reality.",
+   "parts": [
+    {
+     "ar": "يَ",
+     "tr": "ya-",
+     "en": "he/it (does/will)"
+    },
+    {
+     "ar": "صۡلٰ",
+     "tr": "ṣlā",
+     "en": "burn / roast"
+    },
+    {
+     "ar": "ٮ",
+     "tr": "(y)",
+     "en": "weak root letter (liaison)"
+    },
+    {
+     "ar": "هَاۤ",
+     "tr": "hā",
+     "en": "it (feminine object)"
+    }
+   ],
+   "grammar": "Present-tense (imperfect) verb, 3rd-person masculine singular: the \"ya-\" prefix marks \"he/it.\" It is grammatically singular because its subject (\"the most wretched,\" coming next) is singular. The suffix \"-hā\" is the attached object pronoun \"it\" (feminine), referring back to the Fire. The verb is from a defective (نَاقِص) root whose final letter is the weak ي; in the imperfect stem that final root letter surfaces as the long vowel \"-ā\" (written here with the archaic liaison character ٮ before the pronoun). This is indicative mood, since no subjunctive or jussive operator precedes it; in such defective verbs the jussive would instead drop the weak letter entirely (yaṣli / yaṣlu).",
+   "root": "ص-ل-ي (ṣ-l-y) — to roast, burn, be scorched in fire"
+  },
+  "3": {
+   "meaning": "\"Except / save / but.\" An exception particle that, after the earlier \"lā\" (not), carves out the sole exception: the burning is denied of everyone except the one person-type now named. It produces the restrictive sense \"none will burn except...\"",
+   "parts": [
+    {
+     "ar": "اِلَّا",
+     "tr": "illā",
+     "en": "except"
+    }
+   ],
+   "grammar": "An exception particle (أداة استثناء). It is invariable — it takes no case ending itself. Its job is to introduce the excluded item; because the sentence before it is negative, what comes after \"illā\" is what the statement is actually affirmed of (the most wretched truly will burn).",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "\"The most wretched / the most miserable / the most damned one\" — the person of the very deepest misery and ruin, the one most cut off from good. In context this is the obstinate denier who rejects the truth and turns away (as the next ayah explains). The \"al-\" makes it definite and the form is the superlative: not merely wretched, but the most wretched.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "اَشۡقَى",
+     "tr": "ashqā",
+     "en": "most wretched"
+    }
+   ],
+   "grammar": "A definite superlative noun/adjective on the \"afʿal\" pattern (\"ashqā\" = \"most wretched\"), prefixed with the definite article \"al-\" (\"the\"). It is the grammatical subject (doer) of the verb \"yaṣlāhā\" — it answers \"who will burn?\" Although a subject is normally marked with a final \"-u,\" this word ends in a fixed long \"-ā\" (a defective/shortened ending), so it cannot show the case-vowel openly; its subject role is understood from the structure, not from a visible ending.",
+   "root": "ش-ق-و / ش-ق-ي (sh-q-w/y) — wretchedness, misery, hardship, being doomed"
+  }
+ },
+ "16": {
+  "1": {
+   "meaning": "A relative pronoun meaning 'the one who' or 'he who.' It points back to a person already mentioned (here, the wretched one of the previous verse) and introduces a description of him. Masculine singular.",
+   "parts": [
+    {
+     "ar": "الَّ",
+     "tr": "al-",
+     "en": "opening segment of the pronoun (not the separable definite article)"
+    },
+    {
+     "ar": "ذِىْ",
+     "tr": "-ladhī",
+     "en": "who / the one who"
+    }
+   ],
+   "grammar": "A fixed (indeclinable) relative pronoun, masculine singular, 'the one who.' Its form never changes for case, so the final long '-ī' is part of the word itself, not a case ending. Although it begins with the letters alif-lam, this is not the free-standing definite article that can be peeled off a noun; the alif-lam is built into the pronoun and cannot be separated from it. Grammatically it stands in apposition to 'the most wretched' in the prior verse, so everything that follows describes that person. The verb after it ('denied') forms the relative clause that explains who is meant.",
+   "root": "— (relative pronoun; no triliteral root)"
+  },
+  "2": {
+   "meaning": "He denied, rejected, or treated as a lie — specifically, he called the truth (the message, the Day of Judgement) false and refused to believe it. The doubled middle letter gives it intensity: a thorough, emphatic rejection, not a passing doubt.",
+   "parts": [
+    {
+     "ar": "كَذَّبَ",
+     "tr": "kadhdhaba",
+     "en": "he denied / cried lies against (the truth)"
+    }
+   ],
+   "grammar": "A past-tense (perfect) verb, third-person masculine singular: 'he denied.' The final '-a' is the standard perfect ending tying the action to a single masculine 'he.' This is Form II (the middle root letter is doubled, shown by the shadda), which here is intensive/declarative — 'to brand something a lie, to reject it utterly.' Note: the source transliteration 'kadhaba' shows a single 'dh', but the Arabic كَذَّبَ carries a shadda on the dhāl, so it is properly the doubled Form II 'kadhdhaba.'",
+   "root": "ك-ذ-ب (k-dh-b) — lying, falsehood; here, declaring the truth to be a lie"
+  },
+  "3": {
+   "meaning": "And he turned away — he turned his back and went off, refusing the truth not only inwardly (denial) but outwardly in action: he withdrew from obedience and walked away from the call. It conveys deliberate, willful turning aside.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa-",
+     "en": "and"
+    },
+    {
+     "ar": "تَوَلّٰى",
+     "tr": "tawallā",
+     "en": "he turned away / turned his back"
+    }
+   ],
+   "grammar": "Prefix 'wa-' means 'and,' joining this verb to the previous one. The stem is a past-tense (perfect) verb, third-person masculine singular: 'he turned away.' It is Form V (the 'ta-' prefix plus a doubled middle letter, shown by the shadda on the lām), a reflexive pattern in which the action turns back on the doer — 'he turned himself away.' Because the root ends in a weak letter, the expected final '-a' surfaces as the long vowel '-ā' (written here with a superscript alif over the alif maqṣūra ىٰ), which is the masculine-singular 'he' ending for this kind of verb.",
+   "root": "و-ل-ي (w-l-y) — to be near / to turn; in Form V, to turn away, turn one's back"
+  }
+ },
+ "17": {
+  "1": {
+   "meaning": "And the most God-fearing one will be kept far away from it. This single Arabic word packs in a lot: a conjunction, a future marker, a present-tense passive verb meaning 'to be distanced / kept clear of,' and an object pronoun 'it' (the Fire of the previous verse). The passive voice leaves the doer unnamed — it is Allah who spares the righteous — putting all the focus on the rescue itself.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and / but (joining word)"
+    },
+    {
+     "ar": "سَ",
+     "tr": "sa",
+     "en": "will (marks future time)"
+    },
+    {
+     "ar": "يُـ",
+     "tr": "yu",
+     "en": "he/it (3rd-person masc. sing. present/future prefix; used for both active and passive)"
+    },
+    {
+     "ar": "جَنَّب",
+     "tr": "jannab",
+     "en": "to put aside, keep far away, distance — with the passive vowelling (fatha on the middle letter: jann-AB)"
+    },
+    {
+     "ar": "ـُ",
+     "tr": "-u",
+     "en": "plain present/future ending (statement mood)"
+    },
+    {
+     "ar": "هَا",
+     "tr": "hā",
+     "en": "it / from it (referring to the Fire)"
+    }
+   ],
+   "grammar": "A passive present/future verb, 3rd person masculine singular: 'he will be kept away.' The سَ (sa-) prefix means the action is yet to come ('will'). The يُـ (yu-) prefix is simply the 3rd-person masculine singular imperfect marker and is NOT what makes the verb passive — the very same prefix appears in the active يُجَنِّبُ (yujannib-u, 'he keeps away'). What signals the PASSIVE here is the internal vowel pattern: a fatha on the middle radical (jann-AB-u, yujannab-u) where the active would have a kasra (jann-IB-u, yujannib-u). Because it is passive, the One who distances him (Allah) is left unmentioned out of majesty. The verb is Form II (the doubled middle letter, جنّب), which intensifies the bare root 'to be at the side' into 'to deliberately set far apart.' The final ـُ (-u) is the indicative ending, marking a plain statement of fact. The attached هَا (-hā) is a feminine 'it,' pointing back to نار (the Fire), which is grammatically feminine.",
+   "root": "ج-ن-ب (j-n-b) — side, flank; hence to move to one side / keep away"
+  },
+  "2": {
+   "meaning": "The most God-fearing, most pious person — the one most filled with taqwā. Taqwā is the inner, watchful God-consciousness that guards a person from sin, like a shield held up out of awe and love of Allah. The form here is the superlative ('the MOST God-fearing'), and though the wording is general, the early commentators say it points especially to Abu Bakr as-Siddiq.",
+   "parts": [
+    {
+     "ar": "الۡـ",
+     "tr": "l-",
+     "en": "the (definite article; its opening hamza drops after the preceding vowel, so it is heard as 'l-')"
+    },
+    {
+     "ar": "اَتۡقَى",
+     "tr": "atqā",
+     "en": "most God-fearing / most pious"
+    }
+   ],
+   "grammar": "This noun fills the subject slot of the passive verb يُجَنَّبُ — it names the one who 'will be kept away' from the Fire. Technically it is the نائب الفاعل (nā'ib al-fā'il, the 'deputy agent' that stands in for the doer in a passive sentence), not the فاعل (fā'il, the active subject); both take the nominative case, but the distinction matters because the verb is passive. The word is an elative (the af'al / 'most-' pattern), so it means the SUPERLATIVE 'the most God-fearing,' not merely 'God-fearing.' The الـ (al-) is the definite article 'the,' which together with the superlative gives 'the most pious one [of all]'; in connected recitation its hamza is elided after the preceding vowel, so it is pronounced l-. The word ends in ـَى, a silent 'broken' alif (alif maqṣūra) pronounced -ā; because it ends this way, the word does not visibly change its vowel for grammatical case — its nominative role as deputy agent is shown by its position and the verb, not by an ending you can hear.",
+   "root": "و-ق-ي (w-q-y) — to guard, shield, protect; the source of taqwā (protective God-consciousness)"
+  }
+ },
+ "18": {
+  "1": {
+   "meaning": "A relative pronoun meaning 'the one who' or 'he who.' It introduces a description and points back to 'the most God-fearing' (al-atqā) in the previous verse, telling us which person is meant: the one who does what follows.",
+   "parts": [
+    {
+     "ar": "الَّ",
+     "tr": "all-",
+     "en": "the (relative marker; the doubled 'l' is the shaddah on the lām)"
+    },
+    {
+     "ar": "ذِى",
+     "tr": "dhī",
+     "en": "who / which (one)"
+    }
+   ],
+   "grammar": "This is the masculine singular relative pronoun 'the one who' (alladhī). It is fixed in form (it does not change for case), so the final long -ī does not mark a case here; it is simply part of the word. In the written form, the shaddah sits on the lām, so the 'l' is doubled (al-ladhī); the segment الَّ supplies that doubled 'l' and ذِى supplies 'dhī'. It functions as a description of 'the most God-fearing' from verse 17, and everything after it (gives his wealth, purifies himself) is the relative clause describing him.",
+   "root": "— (relative pronoun, no triliteral root)"
+  },
+  "2": {
+   "meaning": "'He gives' or 'he donates' — to hand over and bestow something to someone. Here it describes the habitual, ongoing act of giving away one's wealth in charity.",
+   "parts": [
+    {
+     "ar": "يُ",
+     "tr": "yu-",
+     "en": "he (does, present tense)"
+    },
+    {
+     "ar": "ؤْتِى",
+     "tr": "'tī",
+     "en": "give / bring (Form IV stem)"
+    }
+   ],
+   "grammar": "Present/imperfect tense verb, yu'tī. The yu- prefix marks 'he' as the doer and ongoing/repeated action ('keeps giving'). It is Form IV (the af'ala pattern: past آتَى ātā, present يُؤْتِي yu'tī), which makes the root sense of 'coming' into 'causing to come' — i.e. to hand over or give. The final long -ī is the natural ending of this weak-final verb in its base (indicative) state; it indicates a plain statement of fact, not a command or negation.",
+   "root": "أ-ت-ي (ʾ-t-y) — coming; in Form IV, to bring or give"
+  },
+  "3": {
+   "meaning": "'His wealth' — money, property, and possessions belonging to him. The attached ending makes it specifically 'his,' so this is the wealth he personally owns and chooses to give away.",
+   "parts": [
+    {
+     "ar": "مَالَ",
+     "tr": "māla",
+     "en": "wealth / property"
+    },
+    {
+     "ar": "هٗ",
+     "tr": "hu",
+     "en": "his / him"
+    }
+   ],
+   "grammar": "A noun ('wealth') with the possessive pronoun -hu ('his') attached at the end. The -a vowel before the pronoun (māla-) is the accusative case ending, which marks this word as the direct object of the verb 'gives' — it is the thing being given. The suffix -hu ('his') refers back to the giver.",
+   "root": "م-و-ل (m-w-l) — wealth, property, possessions"
+  },
+  "4": {
+   "meaning": "'He purifies himself' — to cleanse and grow in purity. The word carries both senses of zakāh: cleansing oneself of sin and miserliness, and inner growth. Here it states the purpose of his giving: to purify his soul and his wealth, not to gain worldly return.",
+   "parts": [
+    {
+     "ar": "يَ",
+     "tr": "ya-",
+     "en": "he (does, present tense)"
+    },
+    {
+     "ar": "تَزَكّ",
+     "tr": "tazakk",
+     "en": "purify oneself / grow pure (Form V stem)"
+    },
+    {
+     "ar": "ىٰ",
+     "tr": "ā",
+     "en": "(verb ending)"
+    }
+   ],
+   "grammar": "Present/imperfect verb, Form V (the tafa''ala pattern, here tazakkā). The ya- prefix marks 'he' as the doer. Form V adds a reflexive sense — the action falls back on the doer himself — so it means 'he purifies himself' rather than purifying something else. The final long -ā is the natural ending of this weak-final verb; it reads as a continuing description ('purifying himself'). Many reciters and commentators understand it as explaining the reason for the giving: 'in order to purify himself.'",
+   "root": "ز-ك-و (z-k-w) — purity, cleansing, and growth"
+  }
+ },
+ "19": {
+  "1": {
+   "meaning": "\"And not\" — a connector \"and\" joined to the negating word \"not.\" It denies that anyone has done the giver a prior favour that he is now paying back. The point is that no one previously conferred a benefit ON HIM creating a debt he must repay; his giving (described in the previous ayahs) is therefore purely for Allah's sake, not the return of someone else's good turn.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "مَا",
+     "tr": "mā",
+     "en": "not (negation)"
+    }
+   ],
+   "grammar": "Two particles. \"wa\" is a conjunction linking this verse to the one before. \"mā\" here is a negating particle (\"there is not\"), denying the existence of the thing named next. Particles like these do not change their endings.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "\"For anyone\" — meaning for any single person at all. Combined with the negation, it means there is no one who holds a prior favour over the giver: not a single person did him a good turn that he is now repaying.",
+   "parts": [
+    {
+     "ar": "لِ",
+     "tr": "li",
+     "en": "for / belonging to"
+    },
+    {
+     "ar": "اَحَدٍ",
+     "tr": "aḥadin",
+     "en": "anyone, a single one"
+    }
+   ],
+   "grammar": "The prefix \"li-\" means \"for\" or \"to\" and always puts the following noun in the genitive case, which is why the word ends in \"-in.\" That \"-in\" ending (an indefinite genitive, called tanwīn) means \"a / any\" and is required after the preposition \"li-\"; together they give \"for anyone.\"",
+   "root": "أ-ح-د (ʾ-ḥ-d) — oneness, a single one"
+  },
+  "3": {
+   "meaning": "\"With him\" — i.e., held to his account or credited to him. It pictures a favour standing \"with\" the giver — a good turn someone did him that he would owe a return for. The verse denies any such thing exists.",
+   "parts": [
+    {
+     "ar": "عِنۡدَ",
+     "tr": "ʿinda",
+     "en": "with / in the presence of"
+    },
+    {
+     "ar": "هُ",
+     "tr": "hu",
+     "en": "him (his)"
+    }
+   ],
+   "grammar": "\"ʿinda\" is an adverb of place meaning \"with / in one's possession.\" It ends in \"-a\" (accusative) because such adverbs are fixed in that form. The attached \"-hu\" is the possessive pronoun \"him/his\"; here it is pronounced \"-hu\" (rather than \"-hi\") because it follows the \"-a\" vowel. So the whole reads \"with him / to his account.\"",
+   "root": "ع-ن-د (ʿ-n-d) — being with, at, in one's presence"
+  },
+  "4": {
+   "meaning": "\"Any\" / \"of\" — a particle that here adds emphasis to the negation, giving the sense \"not the slightest favour.\" It introduces the thing being denied (a favour) and stresses that there is none of it whatsoever.",
+   "parts": [
+    {
+     "ar": "مِنۡ",
+     "tr": "min",
+     "en": "of / any (here emphasising the negation)"
+    }
+   ],
+   "grammar": "\"min\" is a preposition normally meaning \"from / of.\" After a negation like this, it is used to strengthen the denial — \"not any favour at all.\" It is a fixed particle and keeps its form; it puts the following noun (niʿmatin) in the genitive.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "\"A favour\" — a gift, kindness, or benefit that one person bestows on another. Here it refers to a prior good turn someone might have done the giver, which would place him under obligation to repay — and the verse denies that any such favour exists.",
+   "parts": [
+    {
+     "ar": "نِّعۡمَةٍ",
+     "tr": "niʿmatin",
+     "en": "a favour, a kindness, a blessing"
+    }
+   ],
+   "grammar": "A feminine singular noun. The ending \"-in\" (indefinite genitive, tanwīn) shows two things: it is genitive because it follows the preposition \"min,\" and the \"-n\" sound marks it as indefinite — \"a favour / any favour.\" The feminine \"-a(t)\" (the tā' marbūṭa) is part of the noun's form.",
+   "root": "ن-ع-م (n-ʿ-m) — favour, blessing, ease, comfort"
+  },
+  "6": {
+   "meaning": "\"To be recompensed / repaid\" — describing the favour as something that would be paid back in return. The giver gives without any such favour owed back to anyone: no one did him a good turn that he is now requiting, so his giving seeks no return from people.",
+   "parts": [
+    {
+     "ar": "تُ",
+     "tr": "tu",
+     "en": "it (she) is — passive prefix, 3rd person feminine"
+    },
+    {
+     "ar": "جۡزٰٓى",
+     "tr": "jzā",
+     "en": "recompensed / repaid (verb stem)"
+    }
+   ],
+   "grammar": "A present-tense verb in the passive voice (\"is being repaid\"), describing the feminine noun \"favour.\" It splits into two parts: the prefix \"tu-\" marks it as third-person feminine singular (\"it/she\") agreeing with niʿmah, with the passive vowelling meaning the action is done TO it, not BY it; and the stem \"-jzā,\" which ends in a long \"-ā\" sound. That ending is written with alif maqṣūra (ى) because the root's final letter is the weak yā', and the dagger alif over the zāy already supplies the long vowel — so the two parts read together as \"tujzā,\" \"a favour that is repaid.\"",
+   "root": "ج-ز-ي (j-z-y) — to recompense, repay, reward or requite"
+  }
+ },
+ "20": {
+  "1": {
+   "meaning": "An exception particle meaning 'except' or 'but only'. It carves out the single, pure motive that remains after every worldly motive named in the previous verse has been excluded: the righteous person spends his wealth seeking nothing back from anyone — nothing EXCEPT what follows.",
+   "parts": [
+    {
+     "ar": "اِلَّا",
+     "tr": "illā",
+     "en": "except / but only"
+    }
+   ],
+   "grammar": "A particle of exception (istithnāʾ). It is invariable — it has no case ending of its own — and it introduces the one thing exempted from the preceding negation, here pointing forward to the true aim ('seeking the Face of his Lord').",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "The act of earnestly seeking, striving after, and desiring something. The Form VIII pattern adds effort and persistence, so it is not a passing wish but a determined pursuit — here, the deliberate seeking of Allah's pleasure.",
+   "parts": [
+    {
+     "ar": "ابۡـ",
+     "tr": "ib",
+     "en": "Form VIII opening (alif al-waṣl + first radical b)"
+    },
+    {
+     "ar": "ـتِـ",
+     "tr": "-ti-",
+     "en": "Form VIII infix tāʾ"
+    },
+    {
+     "ar": "ـغَآء",
+     "tr": "-ghāʾ",
+     "en": "remaining radicals of the verbal-noun stem 'seeking'"
+    },
+    {
+     "ar": "ـَ",
+     "tr": "-a",
+     "en": "accusative ending"
+    }
+   ],
+   "grammar": "A verbal noun (maṣdar) of Form VIII (iftiʿāl) from the root b-gh-y; the Form VIII shape — opening alif al-waṣl plus the characteristic infixed tāʾ (the -t- shown separately here) — adds the sense of striving/effort. The final -a is the accusative case: it works as the object/purpose of the implied verb ('he gives… [doing nothing] except SEEKING'), expressing motive or goal.",
+   "root": "ب-غ-ي (b-gh-y) — to seek, desire, strive after"
+  },
+  "3": {
+   "meaning": "Literally a 'face'; here, idiomatically, the Countenance of Allah — meaning His very presence, His pleasure and approval. To seek Allah's 'Face' is to want Allah Himself and His good pleasure, not any reward or recognition.",
+   "parts": [
+    {
+     "ar": "وَجۡه",
+     "tr": "wajh",
+     "en": "face / countenance"
+    },
+    {
+     "ar": "ـِ",
+     "tr": "-i",
+     "en": "genitive ending"
+    }
+   ],
+   "grammar": "A noun in a possessive (iḍāfa) construction. The final -i is the genitive case because 'wajh' is the muḍāf ilayhi (the governed second term) of the preceding verbal noun 'seeking' (ibtighāʾ): a maṣdar links to its complement through iḍāfa, putting that complement in the genitive, not the accusative — 'the seeking OF the Face'. At the same time 'wajh' is itself the muḍāf (first term) of a further iḍāfa with the word that follows, 'his Lord' — 'the Face OF his Lord'.",
+   "root": "و-ج-ه (w-j-h) — face, direction, that toward which one turns"
+  },
+  "4": {
+   "meaning": "His Lord — the One who creates, owns, sustains, nurtures and has full authority over him. 'Rabb' carries far more than 'master'; it bundles together Creator, Sustainer, Nurturer and sovereign Caretaker. The attached 'his' refers to the righteous giver.",
+   "parts": [
+    {
+     "ar": "رَبّ",
+     "tr": "rabb",
+     "en": "Lord, Sustainer, Master"
+    },
+    {
+     "ar": "ـِ",
+     "tr": "-i",
+     "en": "genitive ending"
+    },
+    {
+     "ar": "ـهِ",
+     "tr": "-hi",
+     "en": "his (3rd-person masculine)"
+    }
+   ],
+   "grammar": "A noun with an attached possessive pronoun. The -i ending on the noun is genitive: 'rabb' is the muḍāf ilayhi of 'wajh' — 'the Face of his Lord'. The suffix -hi means 'his'; its vowel is -hi (rather than -hu) precisely because it follows the genitive -i, harmonising with it.",
+   "root": "ر-ب-ب (r-b-b) — to nurture, sustain, master, bring to completion"
+  },
+  "5": {
+   "meaning": "The Most High, the Supreme — a name/attribute of Allah declaring that He is exalted above all creation in His being, rank and majesty. It crowns the verse: the goal sought is the pleasure of the One who is highest of all.",
+   "parts": [
+    {
+     "ar": "الۡـ",
+     "tr": "(a)l-",
+     "en": "the (definite article; opening hamza elided in connected reading)"
+    },
+    {
+     "ar": "ـاَعۡلٰى",
+     "tr": "aʿlā",
+     "en": "Most High / Highest"
+    }
+   ],
+   "grammar": "The definite article al- ('the') plus a superlative adjective (form afʿal) describing 'his Lord'. In connected recitation the article's opening hamza is a hamzat al-waṣl, so it drops after the kasra of the preceding 'rabbihi' and the word is read 'l-aʿlā' (rabbihi-l-aʿlā) — which is why the source transliteration is 'l-aʿlā' rather than 'al-aʿlā'. As an adjective it follows 'his Lord' in case, but it ends in a fixed long -ā (alif maqṣūra) that never changes form; the definite article marks it as a specific, supreme attribute — 'THE Most High'.",
+   "root": "ع-ل-و (ʿ-l-w) — height, loftiness, exaltedness"
+  }
+ },
+ "21": {
+  "1": {
+   "meaning": "A cluster of three particles meaning roughly 'and most certainly he will, before long...'. It opens the verse with 'and', then loads it with strong emphasis ('surely', 'most certainly'), and then points to the future ('soon / shall'). Together they promise that what follows is guaranteed to happen, and that it lies ahead in time.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and (joining this verse to what came before)"
+    },
+    {
+     "ar": "لَ",
+     "tr": "la",
+     "en": "surely / most certainly (an emphatic laam that here answers an implied oath)"
+    },
+    {
+     "ar": "سَوۡفَ",
+     "tr": "sawfa",
+     "en": "shall / will (before long) — a particle that places a verb firmly in the future"
+    }
+   ],
+   "grammar": "Three particles prefixed ahead of the verb that follows. 'wa-' is the connector 'and'. The 'la-' is the emphatic laam (lām al-tawkīd, functioning as the laam of the answer to an implied oath, jawāb al-qasam) meaning 'surely/indeed'; grammatically it belongs to the verb yarḍā, not to sawfa — it is written before sawfa only because sawfa stands between it and the verb. It does NOT change any ending, it simply intensifies. 'sawfa' is a future particle: like the English 'will/shall', it tells you the following verb (yarḍā) has not happened yet but certainly will. Sawfa signals a more distant or emphatic future than its shorter sister sa-. Particles like these have no case ending of their own.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "He will be pleased — i.e. he will be well-content, satisfied, and full of approval. The word describes the deep contentment of the God-fearing giver of verse 20: in the Hereafter he will be granted such reward that he is wholly pleased. Many commentators (Ibn Kathir, Maarif) note the verse was revealed concerning Abu Bakr.",
+   "parts": [
+    {
+     "ar": "يَـ",
+     "tr": "ya",
+     "en": "he (will) — the prefix marking a present/future verb done by 'he'"
+    },
+    {
+     "ar": "ـرۡضٰى",
+     "tr": "rḍā",
+     "en": "be pleased / be content / approve"
+    }
+   ],
+   "grammar": "A present-future verb (form I). The 'ya-' prefix means the doer is 'he' (third-person masculine singular). Because the future particle sawfa precedes it, the time is clearly future: 'he WILL be pleased'. The verb ends in a long '-ā' (written with the dagger alif over the yā, ٰى) because its final root letter is a weak letter (waaw/yaa) — making it a nāqiṣ (weak-final) verb. Here it is indicative (marfūʿ). Note that for a weak-final 3ms verb the indicative and subjunctive look identical (both written يَرۡضٰى with the '-ā'); only the jussive differs, dropping the weak ending to يَرۡضَ. There is no separate object — being pleased is a state he himself enters.",
+   "root": "ر-ض-ي / ر-ض-و (r-ḍ-y / r-ḍ-w) — to be pleased, content, satisfied; to approve"
+  }
+ }
+}
