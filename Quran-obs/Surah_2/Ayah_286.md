@@ -371,13 +371,15 @@ Allah does not burden any soul beyond what it can bear. It will have the reward 
 
 ## AI Tafsir
 
-**Context:** (Our Lord! Lay not on us a burden like that which You did lay on those before us (Jews and Christians),) means, "Even if we were able to perform them, do not require us to perform the difficult deeds as You required the…
+**Essence** Allah, in His mercy, never burdens a soul beyond its capacity; each is answerable only for what it deliberately earns, and so the believers close the surah pleading for pardon and for victory.
 
-**What this ayah teaches:** He gets reward for that (good) which he has earned, and he is punished for that (evil) which he has earned.
+**What it teaches** "Lā yukallifu Llāhu nafsan illā wus'ahā" — Allah does not ask of a soul beyond its ability; this is His kindness, compassion, and generosity to His creation. A soul reaps the reward of the good it earns (kasabat) and bears the burden of the evil it earns (iktasabat) — meaning only deliberate, voluntary deeds, while passing thoughts that cross the heart without intention go excused.
 
-**Classical tafsir:** Ibn Kathir notes: The noble Qur'an, towards the far end, teaches Muslims to make a special du` a or prayer in which forgiveness has been sought on commission of some act because of forgetfulness or neglect or mistake.
+**The scholars** Ibn Kathir relays that this ayah lifted the worry that had gripped the Companions over "whether you disclose what is in yourselves or conceal it, Allah will call you to account for it" (2:284), abrogating it: Allah questions His servants yet punishes only what one can guard against; involuntary thoughts are not punished, and even to dislike the evil thought that crosses the mind is part of faith. Maarif ul Quran frames the rule: human deeds, of the limbs or of the heart, are either voluntary (done by choice — settled belief in kufr or shirk, or a firm resolve to sin) or involuntary (what issues forth without choice); reckoning, reward (thawab), and punishment ('adhab) attach to the voluntary alone. Ibn Kathir then reads the closing du'a phrase by phrase: "do not take us to task if we forget" an obligation or fall into a prohibition in ignorance; "lay not on us a burden (isran) like that on those before us" — the heavy obligations of earlier nations — for Allah sent His Prophet Muhammad (peace and blessings be upon him) with "the easy Hanifiyyah way" to lift them; "Pardon us" for what is between us and You, "forgive us" so You do not expose our sins to Your servants, "have mercy on us" so we fall into no further error; "You are our Mawla" — our Supporter and Protector, our total reliance, with no power or strength except from Him; and "give us victory over the disbelieving people" who rejected His religion, denied His Oneness, refused His Prophet's Message, and worshipped others — that He make us prevail over them in this life and the Hereafter. Mu'adh, finishing the surah, would say "Amin." To each plea Allah answered, "I shall (accept)," in one narration and "I did (accept your supplication)" in another.
 
-**From the Sunnah:** The Two Sahihs recorded this Hadith using various chains of narration, and Imam Ahmad also recorded it.
+**From the Sunnah** Whoever recites the last two ayat of Surat Al-Baqarah at night, they will suffice for him. (Al-Bukhari, from Abu Mas'ud) That Allah accepted this du'a is itself narrated by Muslim — "I shall" in the report of Abu Hurayrah, "I did" in that of Ibn 'Abbas.
+
+**Reflection** Lean on a Lord who asks only what you can carry — turn your forgetfulness and missteps into this very du'a, the one He answered for the believers with "I did."
 ## Personal Reflections
 
 

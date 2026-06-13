@@ -275,13 +275,15 @@ The Messenger believes in what was sent down to him from his Rabb, and so do the
 
 ## AI Tafsir
 
-**Context:** (Our Lord! Lay not on us a burden like that which You did lay on those before us (Jews and Christians),) means, "Even if we were able to perform them, do not require us to perform the difficult deeds as You required the…
+**Essence** The Messenger receives revelation from his Lord, and from the whole body of believers faith rises to meet it as one undivided creed — met not with debate but with surrender: "We hear and obey."
 
-**What this ayah teaches:** Praised here is the distinction of this umrnah which is made of people who do not reject any prophet.
+**What it teaches** Iman (faith) here is a single creed binding the Prophet ﷺ and his ummah: belief in Allah's Oneness and perfect attributes, His angels, all revealed Books, and every Messenger — refusing to "make division" (nufarriq) by accepting some prophets and rejecting others. Their answer, "Sami'na wa ata'na" (we hear and obey), couples instant obedience with "Ghufranaka Rabbana" — a plea for forgiveness — confessing that the final return (al-masir) is to Allah alone.
 
-**Classical tafsir:** Ibn Kathir notes: Therefore, you should make special effort to learn these verses, and at the same time, teach your women and children how to recite them.
+**The scholars** Ibn Kathir explains that each believer holds Allah to be the One and only Sustainer, with no deity worthy of worship but Him, affirming all His Prophets as truthful and rightly guided — even when one Law abrogates another by Allah's leave, until the Law of Muhammad ﷺ, the Final Messenger, abrogated all before it and remains valid till the Last Hour, with a group of his ummah always on the truth. "We hear and obey" means they comprehended Allah's word, implemented it, and adhered to its implications; "Your forgiveness" is a plea for His mercy and kindness. Maarif ul Quran notes the verse honors the Prophet ﷺ not by name but by the title Rasul, marking his dignity. Though Prophet and believers share the wealth of iman, their degrees differ: the Prophet's knowledge rests on seeing and hearing, while the believers' is iman bil-ghayb (believing in the unseen) grounded upon his ru'yat (witnessing). Maarif also gives the verse its setting: when 2:284 warned that Allah calls one to account for what is in the heart, its general wording alarmed the Companions, who feared even involuntary thoughts would be judged; the Prophet ﷺ, rather than ruling on his own, told them to submit and say "Sami'na wa ata'na" while awaiting revelation — and this verse then praised them for that surrender and for being an ummah that, unlike past communities who sowed discord by accepting some messengers and denying others, rejects no prophet.
 
-**From the Sunnah:** The Two Sahihs recorded this Hadith using various chains of narration, and Imam Ahmad also recorded it.
+**From the Sunnah** Whoever recites the last two Ayat of Surat Al-Baqarah at night, they will suffice him. (Al-Bukhari) — and on the Night Journey the Prophet ﷺ was given three gifts: the five prayers, these last Ayat, and forgiveness for whoever of his Ummah does not associate anything with Allah. (Muslim)
+
+**Reflection** When Allah's command reaches you, meet it as the believers did — "We hear and obey" — trusting His wisdom before you grasp it, and seal your day by reciting these verses, leaning wholly on the One to whom you will return.
 ## Personal Reflections
 
 
