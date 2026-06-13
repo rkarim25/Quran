@@ -72,9 +72,13 @@ Indeed, Allah chose Adam, Noah, the family of Abraham, and the family of ’Imr�
 
 ## AI Tafsir
 
-**What this ayah teaches:** Allah chose Adam, Nuh (Noah), the family of Ibrahim and the family of 'Imran above the nations (33)Offspring, one of the other, and Allah is All-Hearer, All-Knower .
+**Essence** Allah, by His own choice, raised up Adam, Nuh, the house of Ibrahim, and the house of 'Imran above all the people of their age.
 
-**Classical tafsir:** Ibn Kathir notes: In these verses a reference has been made to some past prophets to comfort the Holy Prophet ﷺ since those who reject the truth did not obey him because they doubted his prophethood.
+**What it teaches** The verb iṣṭafā means Allah selected and purified these households, lifting them ʿalā l-ʿālamīn — above the nations of their time — for prophethood and guidance. This is pure divine election: the dignity here is something Allah confers, never something the chosen seized for themselves.
+
+**The scholars** Ibn Kathir explains that Allah singled out these households over all the people of the earth. He chose Adam — created with His Hand, given life when Allah breathed the spirit into him (a soul created by Allah and ascribed to Him in honor, not a part of His essence), honored by the angels' prostration, taught the names of all things, and settled in Paradise before being sent down by Allah's wisdom. He chose Nuh as the first Messenger to the people of the earth when they had fallen into idolatry and shirk; Nuh called them night and day, in public and in secret, for a very long time, yet his call only made them shun him the more, until he supplicated against them and Allah drowned them all save those who followed the religion Allah sent through him. He chose the household of Ibrahim, which includes the master of all mankind and the Final Prophet, Muhammad (peace be upon him), and the household of 'Imran — the father of Maryam bint 'Imran, mother of 'Isa (peace be upon them) — so that 'Isa himself is from the offspring of Ibrahim. Maarif ul Quran adds that these past prophets are named only briefly, to comfort the Prophet (peace be upon him) and remove the doubts of those who rejected his prophethood, the real aim being to lead into the account of 'Isa (peace be upon him), whom Muslims must know because he will return and work alongside the followers of the Prophet (peace be upon him).
+
+**Reflection** Honor that is granted outlasts honor that is grasped. Adam fell yet was chosen; Nuh was shunned for ages yet was raised — so measure your worth not by how others receive you, but by your nearness to the One who elects and exalts whom He wills.
 ## Personal Reflections
 
 
