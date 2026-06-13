@@ -2137,3 +2137,127 @@ body {
   }
   html { scroll-behavior: auto; }
 }
+
+
+/* ============================================================
+   PRINT / PDF — Indo-Pak mushaf export
+   ============================================================ */
+
+@font-face {
+  font-family: "PDMSSaleem";
+  src: url("fonts/pdms-saleem-quranfont.ttf") format("truetype");
+  font-display: swap;
+}
+
+/* header Print button styled like a nav link */
+.nav-link-btn { background: none; border: none; cursor: pointer; font: inherit; }
+
+/* ensure the [hidden] attribute wins over the flex display rules below */
+.pr-field[hidden], .pr-modal[hidden], .pr-modal-backdrop[hidden] { display: none !important; }
+
+/* ---- Print setup modal (screen only) ---- */
+.pr-modal-backdrop { position: fixed; inset: 0; background: rgba(20, 30, 24, 0.45); backdrop-filter: blur(2px); z-index: 1200; }
+.pr-modal {
+  position: fixed; z-index: 1201; top: 50%; left: 50%; transform: translate(-50%, -50%);
+  width: min(540px, calc(100vw - 28px)); max-height: calc(100vh - 40px); overflow-y: auto;
+  background: var(--paper); border: 1px solid var(--gold-soft); border-radius: var(--radius); box-shadow: var(--shadow-lift);
+}
+.pr-modal-inner { padding: 1.25rem 1.4rem 1.4rem; }
+.pr-modal-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.35rem; }
+.pr-modal-header h2 { font-family: var(--font-body); color: var(--green); font-size: 1.45rem; font-weight: 600; }
+.pr-close { background: none; border: 1px solid rgba(31,107,82,0.15); border-radius: 50%; width: 2rem; height: 2rem; font-size: 1.3rem; line-height: 1; color: var(--muted); cursor: pointer; }
+.pr-close:hover { color: var(--green); border-color: var(--green-mid); background: var(--green-light); }
+.pr-modal-intro { font-size: 0.9rem; color: var(--muted); line-height: 1.5; margin-bottom: 1rem; font-style: italic; }
+.pr-modal-intro strong { color: var(--green); font-style: normal; }
+
+.pr-section { border-top: 1px solid rgba(31,107,82,0.1); padding-top: 0.85rem; margin-top: 0.85rem; }
+.pr-section:first-of-type { border-top: none; margin-top: 0; padding-top: 0; }
+.pr-section-label { font-family: var(--font-ui); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--gold-muted); font-weight: 600; margin-bottom: 0.6rem; }
+
+.pr-scope-tabs, .pr-layout-opts { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 0.7rem; }
+.pr-radio { display: inline-flex; align-items: center; gap: 0.4rem; padding: 0.4rem 0.7rem; border: 1px solid rgba(31,107,82,0.18); border-radius: 999px; font-size: 0.9rem; cursor: pointer; color: var(--ink-soft); font-family: var(--font-ui); }
+.pr-radio:has(input:checked) { background: var(--green-light); border-color: var(--green-mid); color: var(--green); font-weight: 600; }
+.pr-radio input, .pr-check input { accent-color: var(--green); }
+
+.pr-field { display: flex; align-items: center; gap: 0.6rem; margin-top: 0.4rem; }
+.pr-field > label { font-size: 0.85rem; color: var(--muted); min-width: 3.5rem; font-family: var(--font-ui); }
+.pr-field-range { align-items: flex-start; flex-direction: column; gap: 0.4rem; }
+.pr-range { display: flex; align-items: center; gap: 0.5rem; font-size: 0.85rem; color: var(--muted); }
+.pr-hint { font-size: 0.78rem; color: var(--muted); }
+.pr-input { font-family: var(--font-ui); font-size: 0.9rem; padding: 0.4rem 0.6rem; border: 1px solid rgba(31,107,82,0.2); border-radius: var(--radius-sm); background: var(--white); color: var(--ink); flex: 1; min-width: 0; }
+.pr-input:focus { outline: none; border-color: var(--green-mid); box-shadow: 0 0 0 3px var(--green-glow); }
+.pr-input-sm { flex: none; width: auto; margin-left: 0.5rem; font-size: 0.82rem; padding: 0.25rem 0.45rem; }
+input.pr-input[type="number"] { width: 5rem; flex: none; }
+
+.pr-check { display: flex; align-items: center; gap: 0.5rem; padding: 0.32rem 0; font-size: 0.95rem; color: var(--ink-soft); font-family: var(--font-ui); cursor: pointer; }
+.pr-check input { width: 1.05rem; height: 1.05rem; }
+.pr-tag { font-size: 0.68rem; color: var(--gold-muted); background: rgba(201,184,138,0.16); padding: 0.1rem 0.45rem; border-radius: 999px; letter-spacing: 0.03em; }
+
+.pr-modal-actions { margin-top: 1.2rem; }
+.pr-generate { width: 100%; padding: 0.72rem; font-size: 1rem; font-weight: 600; background: var(--green); color: var(--white); border: 1px solid var(--green); border-radius: var(--radius-sm); cursor: pointer; font-family: var(--font-ui); }
+.pr-generate:hover { background: var(--green-mid); }
+.pr-generate:disabled { opacity: 0.6; cursor: default; }
+.pr-status { margin-top: 0.6rem; font-size: 0.82rem; color: var(--muted); font-style: italic; text-align: center; min-height: 1.1em; }
+
+#print-root { display: none; }
+
+/* ============================================================
+   @media print — the mushaf
+   ============================================================ */
+@page { size: A4 portrait; margin: 12mm 11mm; }
+
+@media print {
+  body > * { display: none !important; }
+  body > #print-root { display: block !important; }
+  html, body { background: #fff !important; margin: 0 !important; padding: 0 !important; }
+  #print-root { color: #14342a; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+  /* repeating frame: green rectangle drawn via table cell borders (repeats per page) */
+  .pr-frame { width: 100%; border-collapse: collapse; }
+  .pr-frame > thead > tr > td { border: 2pt solid #1f6b52; border-bottom: none; }
+  .pr-frame > tfoot > tr > td { border: 2pt solid #1f6b52; border-top: none; }
+  .pr-cell { border-left: 2pt solid #1f6b52; border-right: 2pt solid #1f6b52; padding: 4mm 7mm 5mm; }
+
+  .pr-run { position: relative; padding: 2.5mm 8mm; text-align: center; }
+  .pr-run-top { border-bottom: 0.8pt solid #9a8455; }
+  .pr-run-top::before, .pr-run-top::after { content: "\2741"; position: absolute; top: 50%; transform: translateY(-50%); color: #9a8455; font-size: 11pt; }
+  .pr-run-top::before { left: 5mm; }
+  .pr-run-top::after { right: 5mm; }
+  .pr-run-ar { font-family: "PDMSSaleem","Amiri Quran",serif; font-size: 12pt; color: #1f6b52; letter-spacing: 0.02em; }
+  .pr-run-bot { border-top: 0.8pt solid #9a8455; display: flex; align-items: center; justify-content: center; gap: 0.6rem; font-family: "Cormorant Garamond", Georgia, serif; font-size: 8pt; color: #6b756e; letter-spacing: 0.04em; }
+  .pr-run-dot { color: #c9b88a; }
+
+  /* cover band (once, at top) */
+  .pr-cover { text-align: center; padding: 3mm 0 5mm; border-bottom: 0.8pt solid #c9b88a; margin-bottom: 4mm; break-inside: avoid; }
+  .pr-cover-orn { color: #9a8455; font-size: 20pt; line-height: 1; }
+  .pr-cover-ar { font-family: "PDMSSaleem","Amiri Quran",serif; font-size: 27pt; color: #1f6b52; margin: 1.5mm 0; }
+  .pr-cover-title { font-family: "Cormorant Garamond", Georgia, serif; font-size: 15pt; color: #14342a; font-weight: 600; }
+  .pr-cover-modes { font-family: Inter, system-ui, sans-serif; font-size: 8pt; color: #6b756e; text-transform: uppercase; letter-spacing: 0.08em; margin-top: 1mm; }
+
+  /* surah header */
+  .pr-surah:not(.pr-first) { break-before: page; }
+  .pr-surah-head { display: flex; align-items: center; justify-content: center; gap: 4mm; text-align: center; margin: 2mm 0 3mm; padding: 2.5mm 3mm; background: #eef5f0; border: 1pt solid #1f6b52; border-radius: 2mm; break-inside: avoid; break-after: avoid; }
+  .pr-sh-orn { color: #9a8455; font-size: 14pt; }
+  .pr-surah-ar { font-family: "PDMSSaleem","Amiri Quran",serif; font-size: 20pt; color: #1f6b52; line-height: 1.25; }
+  .pr-surah-en { font-family: "Cormorant Garamond", Georgia, serif; font-size: 11pt; color: #14342a; font-weight: 600; }
+  .pr-surah-sub { font-family: Inter, system-ui, sans-serif; font-size: 7.5pt; color: #6b756e; text-transform: uppercase; letter-spacing: 0.06em; }
+  .pr-bismillah { text-align: center; font-family: "PDMSSaleem","Amiri Quran",serif; font-size: 18pt; color: #1f6b52; margin: 2mm 0 4mm; break-after: avoid; }
+
+  /* ayah-end rosette */
+  .pr-rosette { display: inline-block; font-family: "Cormorant Garamond", Georgia, serif; font-size: 9pt; color: #9a8455; text-align: center; border: 0.7pt solid #c9b88a; border-radius: 50%; line-height: 1.7em; height: 1.7em; width: 1.7em; vertical-align: middle; background: #faf6ec; }
+
+  /* ayah-by-ayah */
+  .pr-ayah { break-inside: avoid; margin-bottom: 3.5mm; padding-bottom: 3mm; border-bottom: 0.5pt dotted #c9b88a; }
+  .pr-ayah:last-child { border-bottom: none; }
+  .pr-ar { font-family: "PDMSSaleem","Amiri Quran",serif; font-size: 19pt; line-height: 2.05; color: #14342a; text-align: right; direction: rtl; margin-bottom: 1.5mm; }
+  .pr-tl { font-family: "Cormorant Garamond", Georgia, serif; font-style: italic; font-size: 10pt; color: #6b756e; line-height: 1.5; margin-bottom: 1mm; }
+  .pr-tr { font-family: "Cormorant Garamond", Georgia, serif; font-size: 11.5pt; color: #1f2a25; line-height: 1.55; }
+  .pr-aynum { font-family: Inter, sans-serif; font-size: 8pt; color: #9a8455; }
+
+  /* book (blocks) */
+  .pr-block { margin-bottom: 4mm; }
+  .pr-ar-block { font-family: "PDMSSaleem","Amiri Quran",serif; font-size: 20pt; line-height: 2.25; color: #14342a; text-align: justify; direction: rtl; background: #fbfaf4; border: 0.8pt solid #e4dcc4; border-radius: 2mm; padding: 4mm 5mm; }
+  .pr-tl-block { font-family: "Cormorant Garamond", Georgia, serif; font-style: italic; font-size: 10pt; color: #6b756e; line-height: 1.7; text-align: justify; border-top: 0.5pt dotted #c9b88a; padding-top: 2.5mm; }
+  .pr-tr-block { font-family: "Cormorant Garamond", Georgia, serif; font-size: 11.5pt; color: #1f2a25; line-height: 1.7; text-align: justify; border-top: 0.5pt dotted #c9b88a; padding-top: 2.5mm; }
+  .pr-segnum { font-family: Inter, sans-serif; font-size: 6.5pt; color: #9a8455; vertical-align: super; padding: 0 0.15em; font-weight: 600; }
+}

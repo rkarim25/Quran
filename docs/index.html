@@ -17,7 +17,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Amiri:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="preload" href="https://verses.quran.foundation/fonts/quran/hafs/uthmanic_hafs/UthmanicHafs1Ver18.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="reader.css?v=29">
+  <link rel="stylesheet" href="reader.css?v=31">
 </head>
 <body>
   <div class="ambient-pattern" aria-hidden="true"></div>
@@ -57,6 +57,10 @@
             <span class="nav-icon" aria-hidden="true">✧</span>
             <span class="nav-label">Bookmarks</span>
           </a>
+          <button type="button" class="nav-link nav-link-btn" data-print-open title="Print / Save as PDF">
+            <span class="nav-icon" aria-hidden="true">⎙</span>
+            <span class="nav-label">Print</span>
+          </button>
         </nav>
         <button type="button" id="sync-badge" class="sync-badge readonly" title="Cross-device sync settings">Sync</button>
       </div>
@@ -107,6 +111,62 @@
     </div>
   </div>
 
+  <div id="pr-modal-backdrop" class="pr-modal-backdrop" hidden></div>
+  <div id="pr-modal" class="pr-modal" role="dialog" aria-labelledby="pr-modal-title" aria-modal="true" hidden>
+    <div class="pr-modal-inner">
+      <header class="pr-modal-header">
+        <h2 id="pr-modal-title">Print / Save as PDF</h2>
+        <button type="button" id="pr-close" class="icon-btn pr-close" aria-label="Close">×</button>
+      </header>
+      <p class="pr-modal-intro">A beautiful Indo-Pak mushaf, made to your selection. Opens your browser’s print dialog — choose <strong>Save as PDF</strong>.</p>
+
+      <div class="pr-section">
+        <div class="pr-section-label">What to print</div>
+        <div class="pr-scope-tabs">
+          <label class="pr-radio"><input type="radio" name="pr-scope" value="surah" checked> Sūrah</label>
+          <label class="pr-radio"><input type="radio" name="pr-scope" value="juz"> Juzʼ</label>
+          <label class="pr-radio"><input type="radio" name="pr-scope" value="page"> Pages</label>
+        </div>
+        <div id="pr-wrap-surah" class="pr-field"><label for="pr-surah">Sūrah</label><select id="pr-surah" class="pr-input"></select></div>
+        <div id="pr-wrap-juz" class="pr-field" hidden><label for="pr-juz">Juzʼ</label><select id="pr-juz" class="pr-input"></select></div>
+        <div id="pr-wrap-page" class="pr-field pr-field-range" hidden>
+          <label>Mushaf pages</label>
+          <div class="pr-range">
+            <input type="number" id="pr-page-from" class="pr-input" min="1" max="604" value="1">
+            <span>to</span>
+            <input type="number" id="pr-page-to" class="pr-input" min="1" max="604" value="1">
+            <span class="pr-hint">of 604</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="pr-section">
+        <div class="pr-section-label">Content</div>
+        <label class="pr-check"><input type="checkbox" id="pr-arabic" checked> Arabic <span class="pr-tag">Indo-Pak script</span></label>
+        <label class="pr-check"><input type="checkbox" id="pr-translit"> Transliteration</label>
+        <label class="pr-check"><input type="checkbox" id="pr-translation" checked> Translation
+          <select id="pr-trans-source" class="pr-input pr-input-sm">
+            <option value="standard">Standard</option>
+            <option value="ai">AI translation</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="pr-section">
+        <div class="pr-section-label">Layout</div>
+        <div class="pr-layout-opts">
+          <label class="pr-radio"><input type="radio" name="pr-layout" value="ayah" checked> Āyah by āyah <span class="pr-tag">line-by-line</span></label>
+          <label class="pr-radio"><input type="radio" name="pr-layout" value="book"> Book <span class="pr-tag">blocks</span></label>
+        </div>
+      </div>
+
+      <div class="pr-modal-actions">
+        <button type="button" id="pr-generate" class="btn pr-generate">Generate PDF</button>
+      </div>
+      <p id="pr-status" class="pr-status" aria-live="polite"></p>
+    </div>
+  </div>
+
   <script src="firebase-config.js?v=24"></script>
   <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-auth-compat.js"></script>
@@ -114,5 +174,6 @@
   <script src="github-sync.js?v=26"></script>
   <script src="firebase-sync.js?v=27"></script>
   <script src="reader.js?v=30"></script>
+  <script src="print.js?v=1"></script>
 </body>
 </html>
