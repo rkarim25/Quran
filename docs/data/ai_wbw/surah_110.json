@@ -1,0 +1,321 @@
+{
+ "1": {
+  "1": {
+   "meaning": "A time-conjunction meaning 'when' that points to a definite, expected future event — not an uncertain 'if'. It frames the whole verse: it sets up the moment in which something is bound to happen and waits for the response that will follow in verse 3.",
+   "parts": [
+    {
+     "ar": "اِذَا",
+     "tr": "idhā",
+     "en": "when (at the time that)"
+    }
+   ],
+   "grammar": "An indeclinable particle, so it has no case ending that changes. It introduces a future event treated as certain to occur and signals that a 'main clause' (the response) is still coming later in the passage.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "'Came / has come' — the act of arriving or coming to pass. Though past in form, here it conveys an event so certain it is spoken of as already accomplished.",
+   "parts": [
+    {
+     "ar": "جَآءَ",
+     "tr": "jāa",
+     "en": "came / arrived"
+    }
+   ],
+   "grammar": "A past-tense verb, third-person masculine singular ('he/it came'), matching its subject 'help' which follows. It carries no added person/gender suffix — the bare third-masculine-singular form; the fatḥa on the final letter (the hamza) is part of the verb's own shape, not a separate tense or person marker. Placed after 'when', it describes a future event so sure it is cast as already done.",
+   "root": "ج-ي-ء (j-y-ʾ) — coming, arriving"
+  },
+  "3": {
+   "meaning": "Decisive help, aid, or support that brings victory — the kind of backing that turns the tide. Here it is the divine assistance granted by Allah.",
+   "parts": [
+    {
+     "ar": "نَصۡر",
+     "tr": "naṣr",
+     "en": "help / victorious aid"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "(the) — subject marker"
+    }
+   ],
+   "grammar": "A masculine noun functioning as the subject of 'came'. The final -u ending (nominative) marks it as the doer of the verb — it is the help that 'comes'. It is also the first part of a possessive pair, joined to 'Allah' next ('the help OF Allah').",
+   "root": "ن-ص-ر (n-ṣ-r) — help, support, victory"
+  },
+  "4": {
+   "meaning": "Allah — the proper name of the one true God. Here in the possessive ('of Allah'), showing that the help just mentioned belongs to and comes from Him alone.",
+   "parts": [
+    {
+     "ar": "اللّٰ",
+     "tr": "l-lā",
+     "en": "Allah (the divine name)"
+    },
+    {
+     "ar": "هِ",
+     "tr": "-hi",
+     "en": "of — possessive ending"
+    }
+   ],
+   "grammar": "The divine name in the genitive (possessive) case, shown by the final -i ending, which links it to the preceding word: 'the help OF Allah'. The name اللّٰه is treated by Arabic grammarians as a single, undivided proper noun; the opening lām is built into the name itself and is not a detachable 'the' added to a separate word. Read alone it is 'Allāh'; after the joined word it sounds as 'l-lāhi'.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "And the victory — specifically the opening/conquest (of Mecca). The Arabic word carries the sense of an 'opening': a breakthrough that swings doors wide after they were shut, here the triumphant opening of Mecca.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa-",
+     "en": "and"
+    },
+    {
+     "ar": "ال",
+     "tr": "l-",
+     "en": "the"
+    },
+    {
+     "ar": "فَتۡح",
+     "tr": "fatḥ",
+     "en": "victory / opening, conquest"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "(subject marker)"
+    }
+   ],
+   "grammar": "'wa-' is 'and'; 'al-' is 'the'. The noun is a second subject of 'came', sharing the verb with 'help'. Its final -u ending (nominative) marks it as part of what 'comes'. The leading 'al-' makes it definite — THE victory, the well-known promised one.",
+   "root": "ف-ت-ح (f-t-ḥ) — opening, unlocking, conquest"
+  }
+ },
+ "2": {
+  "1": {
+   "meaning": "\"And you saw / and you see\" — addressed directly to the Prophet (peace be upon him). It describes him witnessing with his own eyes the people streaming into Islam. Though grammatically past tense, it points to a coming reality made so certain it is portrayed as already seen.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "رَاَيْ",
+     "tr": "ra-ay",
+     "en": "saw / witnessed"
+    },
+    {
+     "ar": "تَ",
+     "tr": "-ta",
+     "en": "you (masculine singular)"
+    }
+   ],
+   "grammar": "A past-tense verb. The wa- at the front simply means \"and,\" joining this to the previous verse. The core verb ra'ā means \"to see.\" The final -ta is the subject ending that means \"you\" (one man) did the action — here, the Prophet himself. So the whole is \"and you saw / witnessed.\"",
+   "root": "ر-أ-ي (r-ʾ-y) — to see, perceive, behold (the middle radical is the hamza, ء)"
+  },
+  "2": {
+   "meaning": "\"The people / mankind\" — humanity at large, the crowds of Arabs who were entering the faith. The definite article \"the\" makes it the people as a known, collective whole.",
+   "parts": [
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "نَّاسَ",
+     "tr": "-nāsa",
+     "en": "people, mankind"
+    }
+   ],
+   "grammar": "A noun with \"the\" attached at the front (the l of al- assimilates into the n, so it sounds like an-nās). The final -a is the accusative ending: it marks this word as the direct object — the thing being seen. So it answers \"you saw whom? — the people.\"",
+   "root": "أ-ن-س (ʾ-n-s) — humans, sociability; nās comes from unās, with the initial hamza dropped"
+  },
+  "3": {
+   "meaning": "\"They are entering / going in\" — pouring into the religion. The form pictures an ongoing, unfolding action: wave after wave stepping into Islam, not a single finished event.",
+   "parts": [
+    {
+     "ar": "يَ",
+     "tr": "ya-",
+     "en": "they (he-type, marks present tense)"
+    },
+    {
+     "ar": "دْخُلُ",
+     "tr": "-dkhulu",
+     "en": "enter, go in"
+    },
+    {
+     "ar": "ونَ",
+     "tr": "-ūna",
+     "en": "they (masculine plural)"
+    }
+   ],
+   "grammar": "A present/ongoing-tense verb. The ya- prefix signals the present tense and a third-person subject, and the -ūna ending makes it \"they\" (many men) and keeps the verb in its normal (indicative) state, i.e. simple ongoing action: \"they are entering.\" It describes the people of the previous word.",
+   "root": "د-خ-ل (d-kh-l) — to enter, go inside"
+  },
+  "4": {
+   "meaning": "\"Into / in\" — a preposition expressing entry and immersion: moving into and settling within Allah's religion.",
+   "parts": [
+    {
+     "ar": "فِىْ",
+     "tr": "fī",
+     "en": "in, into"
+    }
+   ],
+   "grammar": "A preposition (a small linking word) meaning \"in\" or \"into.\" It has no endings that change; it governs the noun after it, putting that noun into the genitive case. Here it links \"entering\" to its destination, \"the religion of Allah.\"",
+   "root": "— (a particle; it has no triliteral root)"
+  },
+  "5": {
+   "meaning": "\"The religion / way of life\" — dīn means far more than ritual; it is the whole God-given way: belief, worship, law, obedience and submission to Allah, lived as a complete path.",
+   "parts": [
+    {
+     "ar": "دِيْنِ",
+     "tr": "dīni",
+     "en": "religion, way of life, obedience to Allah"
+    }
+   ],
+   "grammar": "A noun. The final -i ending is genitive for two reasons working together: it follows the preposition fī (\"in\"), and it links to the next word to mean \"the religion OF…\" So it reads \"into the religion of [Allah].\"",
+   "root": "د-ي-ن (d-y-n) — religion, way, obedience, recompense"
+  },
+  "6": {
+   "meaning": "\"Allah\" — the proper name of the One True God, the sole object of worship. Here it is the One whose religion the people are entering.",
+   "parts": [
+    {
+     "ar": "اللّٰهِ",
+     "tr": "l-lahi",
+     "en": "Allah"
+    }
+   ],
+   "grammar": "The proper name Allah. The final -i ending is genitive, showing possession after the preceding word: \"the religion OF Allah.\" It links the religion to its owner.",
+   "root": "— (the proper name of Allah; not derived from a triliteral root in the ordinary way)"
+  },
+  "7": {
+   "meaning": "\"In crowds / in throngs / wave upon wave\" — afwājan is the plural of fawj, a troop or band; the plural pictures group after group, multitudes flooding in together rather than one by one.",
+   "parts": [
+    {
+     "ar": "اَفْوَاجًا",
+     "tr": "afwājan",
+     "en": "in crowds, in throngs, in troops (groups of people)"
+    }
+   ],
+   "grammar": "A single plural noun in the accusative indefinite (its ending carries tanwīn al-fatḥ, the \"-an\" you hear). It is not the direct object here; it works as a ḥāl — a word describing the state or manner in which the people entered: \"crowd after crowd, in throngs.\" So: they were entering the religion of Allah in droves.",
+   "root": "ف-و-ج (f-w-j) — a group, troop, or band of people"
+  }
+ },
+ "3": {
+  "1": {
+   "meaning": "So glorify and declare the absolute perfection of Allah — proclaim that He is utterly free of any flaw, partner, or deficiency. The opening \"so/then\" ties this command to the events just described (the help and the victory): when they arrive, respond with this praise.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa",
+     "en": "so / then (in response to what came before)"
+    },
+    {
+     "ar": "سَبِّحۡ",
+     "tr": "sabbiḥ",
+     "en": "glorify! / declare (Him) free of all imperfection"
+    }
+   ],
+   "grammar": "\"fa-\" is a connecting prefix meaning \"so/then,\" linking this response to the conditions in verses 1-2. \"sabbiḥ\" is a form II (doubled-middle-letter) command verb, which makes the action intensive and deliberate: to actively and repeatedly declare Allah's perfection. It is a direct order addressed to a single male (\"you\" — the Prophet ﷺ); the verb ends on a silent/jussive form (no final vowel) as commands do.",
+   "root": "س-ب-ح (s-b-ḥ) — to swim/glide away; hence to declare Allah utterly removed and free from all imperfection (glorification, tasbīḥ)"
+  },
+  "2": {
+   "meaning": "with the praise of — i.e., couple your glorification with grateful praise. The phrase joins two acts: declaring Allah free of fault while at the same time affirming the beautiful qualities and blessings for which He is praised.",
+   "parts": [
+    {
+     "ar": "بِ",
+     "tr": "bi",
+     "en": "with / by means of"
+    },
+    {
+     "ar": "حَمۡدِ",
+     "tr": "ḥamdi",
+     "en": "the praise (of)"
+    }
+   ],
+   "grammar": "\"bi-\" is an attached preposition meaning \"with/by.\" Any noun after it must take the genitive case, which is why \"ḥamd\" appears with a final \"-i\" (ḥamdi). That same \"-i\" ending also chains it to the next word, giving \"praise OF (your Lord).\"",
+   "root": "ح-م-د (ḥ-m-d) — praise; commending someone for their excellence and goodness"
+  },
+  "3": {
+   "meaning": "your Lord — the One who created you, owns you, sustains and nurtures you, and to whom you are answerable. \"Rabb\" bundles together the ideas of master, owner, sustainer, and the one who lovingly brings something to its completion; here it is made personal by \"your.\"",
+   "parts": [
+    {
+     "ar": "رَبِّ",
+     "tr": "rabbi",
+     "en": "Lord / Master and Sustainer"
+    },
+    {
+     "ar": "كَ",
+     "tr": "-ka",
+     "en": "your (one male)"
+    }
+   ],
+   "grammar": "\"rabb\" is the first term of a possessive construct (\"the Lord OF you\" = \"your Lord\"), and it joins directly to the possessor \"-ka\" without any separate word for \"of.\" Its final \"-i\" (rabbi) is the genitive case carried over from the preposition \"bi-\" two words back, which governs this whole \"praise-of-your-Lord\" phrase. The attached ending \"-ka\" means \"your,\" addressed to a single male (the Prophet ﷺ). So the chain reads \"the praise of your Lord.\"",
+   "root": "ر-ب-ب (r-b-b) — to nurture, master, sustain; one who owns and brings up"
+  },
+  "4": {
+   "meaning": "and ask Him for forgiveness — seek that He cover over and wipe away shortcomings. Even at the moment of triumph, the servant turns to seek pardon, modeling humility rather than self-congratulation.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "اسۡتَغۡفِرۡ",
+     "tr": "is'taghfir",
+     "en": "seek forgiveness! / ask for pardon"
+    },
+    {
+     "ar": "هُ",
+     "tr": "-hu",
+     "en": "Him"
+    }
+   ],
+   "grammar": "\"wa-\" means \"and.\" The verb is form X, marked by the \"ist-\" prefix, which carries the sense of \"to seek or ask for\" something — so from the root \"to forgive\" it becomes \"to seek forgiveness.\" It is a command to a single male (\"you\"), ending in the jussive (no final vowel). The attached \"-hu\" is the object \"Him,\" so it reads \"seek forgiveness from Him.\"",
+   "root": "غ-ف-ر (gh-f-r) — to cover, conceal, pardon; hence forgiveness"
+  },
+  "5": {
+   "meaning": "Truly He — \"inna\" is an emphasis word with no single English equivalent; it stresses the certainty of what follows, like saying \"indeed, it is a fact that...\" The attached \"He\" refers to Allah, setting up the reassurance in the rest of the verse.",
+   "parts": [
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "indeed / truly (emphasizing certainty)"
+    },
+    {
+     "ar": "هُ",
+     "tr": "-hu",
+     "en": "He (Allah)"
+    }
+   ],
+   "grammar": "\"inna\" is a particle of emphasis and affirmation placed at the start of a statement to assert it firmly — best rendered \"indeed\" or \"truly.\" It grammatically takes a following noun/pronoun in the accusative; here that is the attached pronoun \"-hu\" (\"He\"), referring to Allah. Together: \"Indeed He...\"",
+   "root": "—"
+  },
+  "6": {
+   "meaning": "has always been / ever is — \"kāna\" reports a settled, enduring reality. Used of Allah it does not mean a past that ended; it conveys that this is His constant, timeless nature: He has ever been and remains so.",
+   "parts": [
+    {
+     "ar": "كَانَ",
+     "tr": "kāna",
+     "en": "has ever been / is constantly"
+    }
+   ],
+   "grammar": "\"kāna\" is the past-tense verb \"to be,\" third-person singular masculine (\"He was/has been\"). The final \"-a\" is its normal past-tense ending. Applied to Allah it expresses permanence — an unchanging attribute — so it is best read as \"He has ever been\" / \"He always is.\"",
+   "root": "ك-و-ن (k-w-n) — to be, to exist, to come to be"
+  },
+  "7": {
+   "meaning": "ever-relenting and ever-accepting of repentance — the One who repeatedly turns toward His servants in mercy, welcomes their return again and again, and accepts their repentance. The form is intensive: not a one-time act but a constant, abundant readiness to forgive.",
+   "parts": [
+    {
+     "ar": "تَوَّاب",
+     "tr": "tawwāb",
+     "en": "ever-accepting of repentance / oft-relenting"
+    },
+    {
+     "ar": "ًا",
+     "tr": "-an",
+     "en": "(accusative ending, completing \"He has ever been ___\")"
+    }
+   ],
+   "grammar": "This is an intensive noun-pattern (faʿʿāl), which signals something done abundantly and repeatedly — hence \"ever / oft\" accepting repentance, not merely \"accepting\" once. The final \"-an\" (tanwīn) is the accusative ending because it is the complement of \"kāna\" (\"He has ever BEEN ever-relenting\"); the \"-an\" also marks it as indefinite. Note the same root describes both the servant's turning back (in repentance) and Allah's turning toward the servant (in acceptance).",
+   "root": "ت-و-ب (t-w-b) — to turn back, return; repentance (from the servant) and acceptance of it / relenting (from Allah)"
+  }
+ }
+}
