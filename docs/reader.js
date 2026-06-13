@@ -1,4 +1,4 @@
-const cache = { index: null, surahs: {}, pristine: {} };
+const cache = { index: null, surahs: {}, pristine: {}, aiWbw: {} };
 const LS = {
   lastRead: "quran-last-read",
   recentReads: "quran-recent-reads",
@@ -28,6 +28,7 @@ const DEFAULT_PREFS = {
   layoutMode: "verse",
   fontScale: 1,
   transScale: 1,
+  wordMode: "standard",
   activePanel: "reflection",
 };
 
@@ -287,6 +288,19 @@ async function loadSurah(n) {
   return cache.surahs[n];
 }
 
+// AI word-by-word analysis (loaded on demand; null if not generated yet)
+async function loadAiWbw(n) {
+  if (cache.aiWbw[n] === undefined) {
+    try {
+      const res = await fetch(`data/ai_wbw/surah_${n}.json?v=${DATA_VERSION}`);
+      cache.aiWbw[n] = res.ok ? await res.json() : null;
+    } catch (_) {
+      cache.aiWbw[n] = null;
+    }
+  }
+  return cache.aiWbw[n];
+}
+
 function esc(s) {
   const d = document.createElement("div");
   d.textContent = s ?? "";
@@ -529,6 +543,7 @@ function toolbarHtml(data, ayah, surahs = []) {
             <option value="ai" ${prefs.readMode === "ai" ? "selected" : ""}>AI Translation</option>
           </select>
           <button type="button" class="btn ${prefs.showTransliteration ? "active" : ""}" id="toggle-transliteration" title="Show romanized pronunciation">Transliteration</button>
+          <button type="button" class="btn ${prefs.wordMode === "ai" ? "active" : ""}" id="toggle-wordmode" title="Hover any word for an AI grammar &amp; meaning breakdown">Word AI</button>
           <button type="button" class="btn ${prefs.layoutMode === "book" ? "active" : ""}" id="toggle-layout" title="Continuous text like a book">Book view</button>
           <span class="font-group"><span class="fg-label" dir="rtl">ع</span><button type="button" class="btn icon-only" id="font-smaller" title="Smaller Arabic">A−</button><button type="button" class="btn icon-only" id="font-larger" title="Larger Arabic">A+</button></span>
           <span class="font-group"><span class="fg-label">Aa</span><button type="button" class="btn icon-only" id="text-smaller" title="Smaller translation/transliteration">A−</button><button type="button" class="btn icon-only" id="text-larger" title="Larger translation/transliteration">A+</button></span>
@@ -823,16 +838,31 @@ function showWordTooltip(el, editing = false) {
   el.classList.add("active");
 
   const rect = el.getBoundingClientRect();
+  const aiData = cache.aiWbw[surahId];
+  const ai = !editing && prefs.wordMode === "ai" && aiData && aiData[ayahNum] && aiData[ayahNum][key] ? aiData[ayahNum][key] : null;
   tooltip.hidden = false;
-  tooltip.innerHTML = editing
-    ? `<div class="wt-ar">${esc(word.arabic)}</div><div class="wt-tr">${esc(word.transliteration || "")}</div>
-       <label class="wt-label">Meaning</label><input id="wt-meaning" />
-       <div class="wt-actions"><button type="button" id="wt-cancel">Cancel</button><button type="button" class="primary" id="wt-save">Save</button></div>`
-    : `<div class="wt-ar">${esc(word.arabic)}</div><div class="wt-tr">${esc(word.transliteration || "")}</div>
-       <div class="wt-en">${esc(word.translation || "")}</div>
-       <div class="wt-actions"><button type="button" class="primary" id="wt-edit">Edit meaning</button></div>`;
+  tooltip.classList.toggle("ai", !!ai);
 
-  tooltip.style.left = `${Math.min(Math.max(8, rect.left), window.innerWidth - 280)}px`;
+  if (editing) {
+    tooltip.innerHTML = `<div class="wt-ar">${esc(word.arabic)}</div><div class="wt-tr">${esc(word.transliteration || "")}</div>
+       <label class="wt-label">Meaning</label><input id="wt-meaning" />
+       <div class="wt-actions"><button type="button" id="wt-cancel">Cancel</button><button type="button" class="primary" id="wt-save">Save</button></div>`;
+  } else if (ai) {
+    tooltip.innerHTML = `<div class="wt-ar">${esc(word.arabic)}</div>
+       <div class="wt-tr">${esc(word.transliteration || "")}</div>
+       <div class="wt-ai-meaning">${esc(ai.meaning || word.translation || "")}</div>
+       ${ai.parts && ai.parts.length ? `<div class="wt-ai-parts">${ai.parts.map((p) => `<span class="wt-seg"><span class="wt-seg-ar" dir="rtl" lang="ar">${esc(p.ar || "")}</span><span class="wt-seg-en">${p.tr ? `<em>${esc(p.tr)}</em> — ` : ""}${esc(p.en || "")}</span></span>`).join("")}</div>` : ""}
+       ${ai.grammar ? `<div class="wt-ai-grammar">${esc(ai.grammar)}</div>` : ""}
+       ${ai.root ? `<div class="wt-ai-root">${esc(ai.root)}</div>` : ""}`;
+  } else {
+    tooltip.innerHTML = `<div class="wt-ar">${esc(word.arabic)}</div><div class="wt-tr">${esc(word.transliteration || "")}</div>
+       <div class="wt-en">${esc(word.translation || "")}</div>
+       ${prefs.wordMode === "ai" ? `<div class="wt-ai-pending">Detailed AI word analysis for this sūrah is being prepared.</div>` : ""}
+       <div class="wt-actions"><button type="button" class="primary" id="wt-edit">Edit meaning</button></div>`;
+  }
+
+  const wMax = ai ? 360 : 280;
+  tooltip.style.left = `${Math.min(Math.max(8, rect.left), window.innerWidth - wMax)}px`;
   tooltip.style.top = `${Math.min(rect.bottom + 8, window.innerHeight - 160)}px`;
 
   if (editing) document.getElementById("wt-meaning").value = word.translation || "";
@@ -1004,6 +1034,13 @@ function bindSurahEvents() {
     if (currentSurah) {
       await renderSurah(currentSurah, visibleAyah || getLastReadForSurah(currentSurah.id)?.ayah);
     }
+  });
+
+  document.getElementById("toggle-wordmode")?.addEventListener("click", async () => {
+    prefs.wordMode = prefs.wordMode === "ai" ? "standard" : "ai";
+    savePrefs();
+    document.getElementById("toggle-wordmode")?.classList.toggle("active", prefs.wordMode === "ai");
+    if (prefs.wordMode === "ai" && currentSurah) await loadAiWbw(currentSurah.id);
   });
 
   document.getElementById("font-smaller")?.addEventListener("click", () => setFontScale(prefs.fontScale - 0.08));
@@ -1575,6 +1612,7 @@ function renderBookmarks() {
 
 async function renderSurah(data, targetAyah, openStudy = false) {
   currentSurah = data;
+  loadAiWbw(data.id);
   const lastForSurah = getLastReadForSurah(data.id);
   if (!targetAyah && lastForSurah) targetAyah = lastForSurah.ayah;
   const ayah = targetAyah || 1;

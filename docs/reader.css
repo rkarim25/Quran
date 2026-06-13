@@ -2465,3 +2465,15 @@ a:focus-visible, button:focus-visible, select:focus-visible, input:focus-visible
 .surah-title { font-size: clamp(1.45rem, 4.5vw, 1.85rem); margin-bottom: 0.1rem; line-height: 1.15; }
 .surah-subtitle { font-size: 0.92rem; }
 .surah-badges { margin-top: 0.35rem; }
+
+/* AI word-by-word tooltip */
+.word-tooltip.ai { max-width: 360px; }
+.word-tooltip .wt-ai-meaning { font-family: var(--font-body); font-size: 1rem; line-height: 1.5; color: var(--ink); margin-top: 0.4rem; }
+.word-tooltip .wt-ai-parts { display: flex; flex-direction: column; gap: 0.28rem; margin-top: 0.55rem; padding-top: 0.5rem; border-top: 1px solid rgba(154,132,85,0.18); }
+.word-tooltip .wt-seg { display: flex; align-items: baseline; gap: 0.55rem; }
+.word-tooltip .wt-seg-ar { font-family: var(--font-arabic); font-size: 1.15rem; color: var(--green); min-width: 2.6rem; text-align: right; }
+.word-tooltip .wt-seg-en { font-size: 0.82rem; color: var(--ink-soft); line-height: 1.35; }
+.word-tooltip .wt-seg-en em { color: var(--gold-muted); font-style: italic; }
+.word-tooltip .wt-ai-grammar { font-size: 0.83rem; color: var(--muted); line-height: 1.5; margin-top: 0.55rem; padding-top: 0.5rem; border-top: 1px solid rgba(154,132,85,0.18); }
+.word-tooltip .wt-ai-root { font-size: 0.76rem; color: var(--gold-muted); margin-top: 0.45rem; font-style: italic; }
+.word-tooltip .wt-ai-pending { font-size: 0.76rem; color: var(--muted); font-style: italic; margin-top: 0.4rem; }
