@@ -367,11 +367,20 @@ When Abraham's Rabb tested him with certain commands and he fulfilled them, Alla
 
 ## AI Tafsir
 
-**What this ayah teaches:** Now, Verse 124 gives rise to a number of very fundamental questions:- The purpose of a trial is to test the aptitude and worthiness of a man for a certain function, but Allah is all-knowing and knows every existent inside out.
+**Essence**
+When Ibrahim passed every trial his Lord set, Allah crowned him an imam (leader) for mankind — a model whose path is followed.
 
-**Classical tafsir:** Ibn Kathir notes: For instance, 'Abdur-Razzaq said that Ibn 'Abbas said, "Allah tested him with the rituals (of Hajj)." Abu Ishaq reported the same. As-Suddi said, "The Maqam of Ibrahim is a stone which Isma'il's wife put under Ibrahim's feet when washing his head." Al-Qurtubi mentioned this, but he considered it unauthentic, although others gave it prefrence, Ar-Razi reported it in his Tafsir from Al-Hasan Al-Basri,…
+**What it teaches**
+Allah "tried" (ibtala) Ibrahim with kalimat — words meaning laws, commands and prohibitions — "which he fulfilled," then rewarded his obedience with imamah, leadership whose conduct and path are imitated. When Ibrahim asked the same for his offspring, Allah granted it with a condition that stands as a permanent principle: "My covenant does not reach the wrongdoers" (al-zalimin) — so this dignity passes only to the righteous of his line, never to the unjust.
 
-**From the Sunnah:** Verily, among mankind who have the best claim to Ibrahim are those who followed him, and this Prophet (Muhammad ﷺ) and those who have believed (Muslims).
+**The scholars**
+Ibn Kathir explains Ibrahim earned this honor through his Tawhid and his adherence to Allah's decisions; the "covenant" here is prophethood, and Allah did ordain "prophethood and the Book" among his offspring (29:27). On what the "words" were, the salaf differ: Ibn 'Abbas is reported to read them as the rituals of Hajj, and elsewhere as acts of purity and Fitrah. Ibn Khuwayz Mindad adds that the unjust cannot qualify as caliph, ruler, judge, witness, or even a narrator. Maarif notes the very name Rabb signals nurturing Ibrahim stage by stage toward his station — the trial tested not Allah's knowledge but Ibrahim's readiness to obey: the fire, the migration, the offered sacrifice of his son. From the word zalim, Maarif further infers the prophets' protection (ismah) from wrongdoing.
+
+**From the Sunnah**
+The Prophet ﷺ listed the acts of the Fitrah — trimming the mustache, growing the beard, the siwak, inhaling and exhaling water, cutting the nails, washing between the fingers, plucking the underarm, shaving the pubic hair, washing with water after relieving oneself, and (a forgotten tenth, thought to be) rinsing the mouth — the very kind of pure "words" Ibrahim was tested with (Sahih Muslim, from 'A'ishah). A shorter narration names five of them (The Two Sahihs, from Abu Hurayrah).
+
+**Reflection**
+Ibrahim raised the knife over his own son before Allah stayed his hand — leadership before Allah is won not by lineage or claim, but by obedience carried all the way to the act. Prove your faith in deeds, and let no injustice forfeit your share in His covenant.
 ## Personal Reflections
 
 

@@ -70,9 +70,17 @@ O Children of Israel — remember My favours to you and that I preferred you abo
 
 ## AI Tafsir
 
-**What this ayah teaches:** Remember My favor which I bestowed upon you and that I preferred you over the nations) (122)And fear the Day (of Judgement) when no person shall avail another, nor shall compensation be accepted from him, nor shall intercession be of use to him, nor shall they be helped .
+**Essence**
+A renewed call to the Children of Israel: remember Allah's favours and the honour He gave you, so that gratitude leads you to follow His final Messenger rather than envy bar you from him.
 
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+**What it teaches**
+Allah commands "udhkurū" — actively recall My ni'mah and that "faddaltukum," I favoured you. The lexical force is a summons to memory that obligates: among those very favours, say the mufassirun, was that your Scriptures foretold the Ummi (unlettered) Prophet by name, traits, and good news. So to truly remember the gift is to honour the One it points to — never to conceal him.
+
+**The scholars**
+Ibn Kathir explains the verse is repeated from the Surah's opening to stress following the Ummi Prophet, peace and blessings be upon him, and that this favour came paired in verse 123 with a warning: fear the Day when no soul shall avail another, no ransom be accepted, no intercession help. Gratitude and that fear are meant to work together. Allah forbids them to envy "their cousins, the Arabs" for the Final Messenger being sent among them, or to let envy push them to deny or abandon him. Maarif ul Quran adds that the long account of Israelite history sits between this opening statement and its repetition — a principle stated briefly, then restated as a summary, so the two ideas sink deep into the heart.
+
+**Reflection**
+Let every remembered blessing bend you toward the truth it points to; never let pride or envy turn a gift from Allah into a reason to turn away.
 ## Personal Reflections
 
 

@@ -99,9 +99,17 @@ Guard yourselves against the Day when no soul will avail another, no ransom be a
 
 ## AI Tafsir
 
-**What this ayah teaches:** Remember My favor which I bestowed upon you and that I preferred you over the nations) (122)And fear the Day (of Judgement) when no person shall avail another, nor shall compensation be accepted from him, nor shall intercession be of use to him, nor shall they be helped .
+**Essence**
+Brace yourself for a Day when no one can stand in for anyone else: no soul, no ransom, no intercession, no rescue — nothing avails apart from Allah's leave.
 
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+**What it teaches**
+After recalling His favors (v.122), Allah commands taqwa — a guarding fear — of the Day of Judgement, then strips away every imagined escape. No *nafs* (soul) will avail another, no *'adl* (ransom) will be accepted, no *shafa'ah* (intercession) will benefit, and no one will be helped. Each soul stands alone before Allah on its own deeds.
+
+**The scholars**
+Ibn Kathir notes this verse echoes the near-identical warning earlier in the Surah, repeated here to press the Children of Israel to follow the Ummi (unlettered) Prophet, may Allah's peace and blessings be upon him — whose name, traits, good tidings, and the description of his Ummah are written in their own Books. Concealing this was to hide one of Allah's favors to them, and they were not to let envy that the Final Messenger is an Arab drive them to deny or oppose him. Maarif ul Quran reads the repetition as deliberate art: the long account between these two verses is a detailed demonstration framed by one general principle stated at the start and restated at the close — His blessing on one side, the Day of Judgement on the other — so both ideas sink deep into the mind.
+
+**Reflection**
+Live today as one who must answer alone tomorrow: lean on your own obedience to Allah, not on lineage, allies, or wealth.
 ## Personal Reflections
 
 
