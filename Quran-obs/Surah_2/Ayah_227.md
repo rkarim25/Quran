@@ -97,11 +97,13 @@ If they resolve on divorce, Allah is All-Hearing, All-Knowing.
 
 ## AI Tafsir
 
-**What this ayah teaches:** Those who take an oath not to have sexual relation with their wives must wait for four months, then if they return, verily, Allah is Oft-Forgiving, ar-Rahim (226)And if they decide upon divorce, then Allah is All-Hearer, All-Knower .
+**Essence** The whole ruling on Īlā' turns on one word: ʿazamū — *they resolve*. Divorce here is not a clock running out but a deliberate act of the will, and the moment a husband forms that resolve, Allah — as-Samīʿ, al-ʿAlīm — is already hearing the words and knowing the heart behind them.
 
-**Classical tafsir:** Ibn Kathir notes: Otherwise, he should divorce her, by being forced to do so by the authorities if necessary, so that the wife is not harmed.
+**What it teaches** This closes the law of Īlā' (2:226–227), a husband's vow to abstain from his wife. The previous verse addressed the one who *returns*; this verse addresses the one who *resolves* upon ṭalāq. The two divine Names are placed as a deliberate restraint: a man at the end of his patience, free to end a marriage, is reminded that the parting is heard and known by Allah. It must therefore be done justly — never weaponised to harm or humiliate the wife whose rights the vow already strained.
 
-**From the Sunnah:** Allah's Messenger ﷺ swore he would stay away from with his wives for a month.
+**The scholars** Ibn Kathir defines Īlā' as a vow not to approach one's wife. The Prophet ﷺ himself took such an oath: 'A'ishah reported in the Two Sahihs that he swore to stay from his wives a month, then returned after twenty-nine days — "The lunar month is twenty-nine days" — the same narrated from 'Umar. Where the term exceeds four months, once it passes the wife may demand he return or divorce her, "by being forced to do so by the authorities if necessary, so that the wife is not harmed." Critically, "if they decide upon divorce" proves divorce does **not** fall automatically when four months elapse — the husband must actively choose. Ibn Kathir reports Suhayl, from his father, who said he asked twelve Companions about Īlā', and "they all stated that he does not have to do anything until the four months have passed and then has to either retain or divorce her" — a view also from 'Umar, 'Uthman, 'Ali, Abu Ad-Darda', 'A'ishah, Ibn 'Umar and Ibn 'Abbas. On a recognised furūʿ (juristic, not creedal) point the schools differ: the jumhūr above hold no divorce occurs automatically, while Maarif ul Quran (Bayan al-Qur'an) records the Hanafi position that if four months expire with the oath unbroken, an irrevocable (bā'in) divorce takes effect; the couple may then reunite only by a fresh nikah, with no halalah required.
+
+**Reflection** A marriage may end, but never carelessly: the verse makes the very *resolve* to divorce an act witnessed by Allah, hedged by the demand for justice and even the arm of authority so no wife is left harmed. Let your hardest endings be heard-worthy — deliberate, fair, and free of the wish to wound.
 ## Personal Reflections
 
 
