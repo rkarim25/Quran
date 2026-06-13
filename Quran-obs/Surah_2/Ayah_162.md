@@ -136,11 +136,17 @@ They will remain in it forever. Their punishment will not be lightened, nor will
 
 ## AI Tafsir
 
-**Context:** These Ayat sternly warn against those who hide the clear signs that the Messengers were sent with which guide to the correct path and beneficial guidance for the hearts, after Allah has made such aspects clear for His se…
+**Essence** For those who die rejecting Allah's truth, the fire of Jahannam is an everlasting home where the punishment is never eased and never delayed.
 
-**What this ayah teaches:** As for cursing a specific those who reject the truth, some scholars stated that it is not allowed to curse him, because we do not know how Allah will make his end. This Hadith indicates that it is allowed to curse those who do not love Allah and His Messenger ﷺ.
+**What it teaches** Three phrases seal this fate. "Khālidīna fīhā" — they abide forever, under the curse, in Hell. "Lā yukhaffafu ʿanhumu al-ʿadhāb" — the torment is never lightened or decreased. "Wa lā hum yunẓarūn" — they are granted no reprieve, no pause, no respite. The verse closes the warning of the previous ayah: this is the end of those who disbelieve and die in that state.
 
-**Classical tafsir:** Ibn Kathir notes: And I am the One Who accepts repentance, the ar-Rahim.) This Ayah also indicates that those who used to call to innovation, or even disbelief, and repent to Allah, then Allah will forgive them.
+**The scholars** Ibn Kathir explains that those who reject Allah and remain so until death "will suffer the eternal curse until the Day of Resurrection and after that in the fire of Jahannam," where "the torment will not be changed or tempered for even an hour. Rather, it is continuous and eternal" — and he adds the warning, "We seek refuge with Allah from this evil end." On the surrounding passage, Abu Al-'Aliyah said these ayat "were revealed about the People of the Scripture who hid the description of Muhammad ﷺ," and Abu Al-'Aliyah, Ar-Rabi' bin Anas and Qatadah explained "and cursed by the cursers" to mean that the angels and the believers curse them.
+
+On the jurisprudence of cursing, the scholars distinguish two cases. As a category, Ibn Kathir notes there is no disagreement that cursing the disbelievers is lawful — 'Umar bin Al-Khattab and the Imams after him did so in their Qunut. But on cursing a specific person by name, the scholars differed: some permitted it, while Maarif ul Quran (citing al-Jassas and al-Qurtubi) holds it is not permissible, since we cannot know how Allah will seal a person's end — the Prophet ﷺ having named only those whose disbelieving death was revealed to him.
+
+**From the Sunnah** The sin condemned here — hiding the truth one knows — carries its own warning: the Prophet ﷺ said, "Whoever was asked about knowledge that one has, but he hid it, then a bridle made of fire will be tied around his mouth on the Day of Resurrection." (Musnad, Abu Hurayrah; cited by Ibn Kathir) On the question of cursing a named individual, those who permitted it cite the man flogged repeatedly for drinking: when someone cursed him, the Prophet ﷺ said, "Do not curse him, for he loves Allah and His Messenger" — which Ibn Kathir reads to mean that cursing is reserved for those who do not love Allah and His Messenger ﷺ. (cited by Ibn Kathir)
+
+**Reflection** Let the dread of a punishment that never pauses move you to declare the truth you know rather than conceal it, and to guard your tongue from the curse Allah so gravely warns against.
 ## Personal Reflections
 
 
