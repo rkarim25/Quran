@@ -238,13 +238,17 @@ Those who spend their wealth night and day, secretly and openly — their reward
 
 ## AI Tafsir
 
-**Context:** Abu 'Abdur-Rahman An-Nasa'i recorded that Ibn 'Abbas said that they, "Disliked giving charity to their polytheist relatives, but were later on allowed to give it to them when they inquired about this matter, and this Aya…
+**Essence** Those who give continually for Allah's sake — by night and day, in secret and in the open — are promised their full reward with their Lord and a heart freed from fear and grief.
 
-**What this ayah teaches:** The excellence of spending secretly is limited to a situation where there be no pressing need to spend out openly; and where such a need does exist, spending there openly is certainly better.
+**What it teaches** The ayah praises a settled habit of infaq (spending in Allah's cause) that is bound to no fixed time and no single manner: bi-al-layli wa-al-nahar (by night and day), sirran wa 'alaniyah (secretly and openly). Their recompense is kept "with their Lord" ('inda Rabbihim) — granted, as Ibn Kathir notes, on the Day of Resurrection as reward for acts of obedience — and they are sealed with the twin promise that "no fear shall be on them, nor shall they grieve."
 
-**Classical tafsir:** Ibn Kathir notes: The one who knows them not, thinks that they are rich because of their modesty.
+**The scholars** Ibn Kathir explains that this praises those who spend seeking Allah's pleasure at every time and in every manner, expressly including what a man spends on his own family. Maarif ul Quran draws the implication that there is no fixed time for sadaqah and khayrat and that giving both secretly and openly earns thawab — on the firm condition of ikhlas (sincerity), not seeking name and fame; secret giving is more excellent only where there is no pressing need to give openly, but where such a need exists, open giving is better. Maarif also records, on the authority of Ibn 'Asakir via Ruh al-Ma'ani, that Sayyidna Abu Bakr (may Allah be pleased with him) spent forty thousand dinars — ten thousand by day, ten thousand by night, ten thousand openly, ten thousand secretly — and that some commentators hold this very deed was the background of the verse, though other views on its circumstances also exist.
 
-**From the Sunnah:** this Hadith from Ibn Mas'ud. (Musnad Ahmad) Abu Sa'id said, "I said to myself, 'I have a camel, Al-Yaqutah, and indeed, it is worth more than a small amount.' And I went back without asking the Prophet ﷺ for anything." This is the same wording for this Hadith collected by Abu Dawud and An-Nasa'i.
+**From the Sunnah** The Prophet ﷺ told Sa'd bin Abi Waqqas (may Allah be pleased with him) that no charity given seeking Allah's Face fails to raise the giver in degree and rank — even the morsel he places in his wife's mouth. (The Two Sahihs — al-Bukhari and Muslim)
+
+**From the Sunnah** Abu Mas'ud (may Allah be pleased with him) reported that when a Muslim spends on his family hoping for Allah's reward, that ordinary provision is written for him as charity. (Musnad Ahmad — also al-Bukhari and Muslim)
+
+**Reflection** Notice what counts: not only the gift to the poor at the door, but the meal you set before your own household — if it is sought purely for Allah's Face, it is charity. Let sincerity, not the eyes of others, govern your giving, and the smallest daily provision becomes a deposit kept with your Lord.
 ## Personal Reflections
 
 

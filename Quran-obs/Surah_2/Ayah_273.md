@@ -303,13 +303,23 @@ Charity is for the poor who are so engaged in Allah's cause they cannot travel f
 
 ## AI Tafsir
 
-**Context:** Abu 'Abdur-Rahman An-Nasa'i recorded that Ibn 'Abbas said that they, "Disliked giving charity to their polytheist relatives, but were later on allowed to give it to them when they inquired about this matter, and this Aya…
+**Essence**
+Allah directs charity to the dignified poor whose need is hidden behind their restraint, and reassures the giver that nothing spent for His sake escapes His knowledge.
 
-**What this ayah teaches:** And whatever you spend in good, it will be repaid to you in full, and you shall not be wronged (272)(Charity is) for Fuqara' (the poor), who in Allah's cause are restricted (from travel), and cannot move about in the land (for trade or work).
+**What it teaches**
+Rather than leaving "the poor" abstract, the verse profiles a person easy to miss: one "restricted" (uhsiru) in Allah's cause, so taken up with it that he cannot travel the land (darb fi al-ard) to earn. His chaste restraint (ta'affuf) disguises his poverty — the uninformed read his composure as wealth — and he will not press people with importunate asking (ilhaf). The lesson is that real need often wears no visible sign: the giver must look past appearances and seek it out, for the deserving will not announce themselves. The verse then seals the duty with assurance — whatever good (khayr) you spend, Allah is 'Alim of it.
 
-**Classical tafsir:** Ibn Kathir notes: The one who knows them not, thinks that they are rich because of their modesty.
+**The scholars**
+Ibn Kathir identifies these fuqara' as the muhajirun who migrated to Allah and His Messenger ﷺ and settled in Al-Madinah without resources for their needs, unable to travel for trade. "They are rich because of their modesty" means those ignorant of their state assume they are well-off because they are modest in dress and speech. On "you know them by their mark (sima)," he glosses that people of sound understanding discern their true condition; Maarif ul Quran (citing Qurtubi) draws a separate juristic point from the same phrase — that it legitimizes ruling by circumstantial evidence (e.g. a corpse in a pagan waist-cord, uncircumcised, is not buried among Muslims). "They do not beg at all" means they do not burden people beyond their need; Ibn Kathir adds that whoever asks while already having what suffices him has begged. Maarif notes that a faqir lacking the nisab of Zakah remains a faqir even in costly dress, so Zakah paid to him is valid, and that by the consensus of commentators "they do not beg importunately" means, in reality, that they do not ask at all, out of complete ta'affuf. The closing words, Ibn Kathir says, show no charity escapes Allah; He repays it in full on the Day of Resurrection, when it is needed most. (On the preceding verse 272, about intention, he relays Al-Hasan Al-Basri — the believer seeks Allah's Face even in what he spends on himself — and 'Ata' Al-Khurasani: one who gives for Allah's sake is rewarded for his intention and not held to account for who receives it.)
 
-**From the Sunnah:** this Hadith from Ibn Mas'ud.
+**From the Sunnah**
+The truly needy person is not the one who roams begging and is turned away with a date or a morsel, but the one who has no resources to sustain him while people, unaware of his need, do not give to him, and who does not ask people for anything — the very hidden poor this verse describes. (The Two Sahihs from Abu Hurayrah; also Imam Ahmad from Ibn Mas'ud)
+
+**From the Sunnah**
+Self-sufficiency, chastity from asking, and contentment are all granted by Allah to whoever seeks them — yet whoever begs while owning even a small amount has truly begged. Abu Sa'id, sent by his mother to ask the Prophet ﷺ for help, heard this and went home without asking, recalling that his camel was worth more than that small amount. (Imam Ahmad from Abu Sa'id; same wording also collected by Abu Dawud and An-Nasa'i)
+
+**Reflection**
+The deserving poor here will never knock — their dignity seals their lips. So the burden falls on us to notice: to read need that hides behind a clean garment, and to give for Allah's Face alone, trusting that the One who is 'Alim of every hidden act will repay it when it counts most.
 ## Personal Reflections
 
 
