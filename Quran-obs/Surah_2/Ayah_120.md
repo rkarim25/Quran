@@ -256,13 +256,15 @@ The Jews and Christians will never be pleased with you until you follow their wa
 
 ## AI Tafsir
 
-**Context:** These Ayat mean, "Those among the People of the Book who perfectly adhered to the Books that were revealed to the previous Prophets, will believe in what I have sent you with, O Muhammad!" Allah said in another Ayah,
+**Essence** Allah tells His Messenger ﷺ that the Jews and Christians will never be pleased with him until he follows their religion. So he must not chase their approval but cling to what pleases Allah — for Allah's guidance alone is the true guidance.
 
-**What this ayah teaches:** Yatlunahu Haqqan Tilawatih.) Abdur-Razzaq ﷺ said from Ma'mar, from Qatadah, "They are the Jews and Christians." This is the opinion of 'Abdur-Rahman bin Zayd bin Aslam, and it was also chosen by Ibn Jarir.
+**What it teaches** Their refusal, the scholars explain, is not for lack of proof but springs from pride: each group holds its own way to be the only true one. So appeasement is futile. To trade "hudā Allah" for their "ahwā" (whims) after true "ʿilm" (the Qur'an) would leave one with no walī and no naṣīr against Allah.
 
-**Classical tafsir:** Ibn Kathir notes: It is on account of the present distorted state of the earlier religions, and specially because of their having been abrogated by Divine Commandment that Verse 120 equates them with Ahwa' (the plural of Hawa) -- that is to say, personal desires, or individual opinions and baseles…
+**The scholars** Ibn Jarir: do not seek to appease them; cling to what pleases Allah by calling them to the truth He sent you with. This guidance, he says, is the straight, perfect, complete religion — which Qatadah calls a true argument Allah taught the Prophet ﷺ and his Companions against the people of misguidance. Ibn Kathir adds that though addressed to the Messenger ﷺ, the warning binds the whole Ummah against imitating their ways after gaining knowledge of Qur'an and Sunnah. And Maarif explains why: the earlier religions, once truly from Allah, were distorted and then abrogated by Islam — so to follow them now is to follow mere desire.
 
-**From the Sunnah:** This Hadith was collected in the Sahih and narrated from 'Abdullah bin 'Amr.
+**From the Sunnah** There will always be a group of my Ummah fighting upon the truth, having the upper hand, not harmed by their opponents, until the decree of Allah comes. (Collected in the Sahih, narrated from 'Abdullah bin 'Amr)
+
+**Reflection** The warning is aimed less at the Prophet ﷺ — whom Allah is ever pleased with — than at the deniers themselves. Since divine wrath must follow whoever abandons truth for desire, compromise with those who demand total surrender is not only futile but impossible for a soul that knows. Seek Allah's pleasure; what others withhold was never yours to win.
 ## Personal Reflections
 
 
