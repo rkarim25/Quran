@@ -126,7 +126,9 @@
         const tr = opt.translation && w.translation ? `<div class="pr-wbw-tr">${esc2(w.translation)}</div>` : "";
         return `<div class="pr-wbw-word"><div class="pr-wbw-ar" lang="ar">${esc2(clean(w.arabic))}</div>${tl}${tr}</div>`;
       }).join("");
-      h += `<div class="pr-wbw-ayah"><div class="pr-wbw-num">${rosette(num)}</div><div class="pr-wbw-grid" dir="rtl">${cells}</div></div>`;
+      const fullText = opt.translation ? translationOf(ay, opt.transSource) : "";
+      const full = fullText ? `<div class="pr-wbw-full${opt.transSource === "ai" ? " pr-ai" : ""}">${opt.transSource === "ai" ? '<span class="pr-ai-tag">AI</span> ' : ""}${esc2(fullText)}</div>` : "";
+      h += `<div class="pr-wbw-ayah"><div class="pr-wbw-num">${rosette(num)}</div><div class="pr-wbw-grid" dir="rtl">${cells}</div>${full}</div>`;
     }
     return h;
   }
@@ -194,8 +196,14 @@
 
     const title = scopeTitle(opt, index);
     return `<table class="pr-frame">
-      <thead><tr><td><div class="pr-run pr-run-top"><span class="pr-run-ar" dir="rtl" lang="ar">${QURAN_AR}</span></div></td></tr></thead>
-      <tfoot><tr><td><div class="pr-run pr-run-bot"><span>${esc2(juzLabel)}</span><span class="pr-run-dot">✦</span><span>Qurʼān — ${esc2(pageLabel)}</span></div></td></tr></tfoot>
+      <thead>
+        <tr class="pr-edge-row"><td class="pr-edge"></td></tr>
+        <tr><td class="pr-band pr-band-top"><div class="pr-run pr-run-top"><span class="pr-run-ar" dir="rtl" lang="ar">${QURAN_AR}</span></div></td></tr>
+      </thead>
+      <tfoot>
+        <tr><td class="pr-band pr-band-bot"><div class="pr-run pr-run-bot"><span>${esc2(juzLabel)}</span><span class="pr-run-dot">✦</span><span>Qurʼān — ${esc2(pageLabel)}</span></div></td></tr>
+        <tr class="pr-edge-row"><td class="pr-edge"></td></tr>
+      </tfoot>
       <tbody><tr><td class="pr-cell">
         <div class="pr-cover">
           <div class="pr-cover-orn" aria-hidden="true">۞</div>

@@ -2317,16 +2317,11 @@ input.pr-input[type="number"] { width: 5rem; flex: none; }
    PRINT v3 — golden frame, comfortable default sizes, page footer
    ============================================================ */
 
-/* local PDF page number in the bottom page margin (Chrome margin box) */
+/* margin:0 removes the browser's own print header/footer (date, URL, page #);
+   page insets are built into the frame via edge spacers + root padding */
 @page {
   size: A4 portrait;
-  margin: 14mm 12mm 17mm;
-  @bottom-center {
-    content: counter(page);
-    font-family: "Cormorant Garamond", Georgia, serif;
-    font-size: 9.5pt;
-    color: #9a7b2a;
-  }
+  margin: 0;
 }
 
 @media print {
@@ -2359,4 +2354,28 @@ input.pr-input[type="number"] { width: 5rem; flex: none; }
   /* a touch more refinement on the cover */
   .pr-cover { border-bottom-color: #d8c489; }
   .pr-cover-title { font-size: 17pt; }
+}
+
+
+/* ============================================================
+   PRINT v4 — borderless sheet (no browser chrome), framed inset,
+   word-by-word full translation
+   ============================================================ */
+@media print {
+  /* @page margin is 0, so inset the frame ourselves */
+  #print-root { padding: 0 10mm; }
+  .pr-frame .pr-edge { border: 0 !important; height: 10mm; padding: 0 !important; }
+
+  /* word-by-word: full chosen translation beneath each ayah's word grid */
+  .pr-wbw-full {
+    font-family: "Cormorant Garamond", Georgia, serif;
+    font-size: 11.5pt; line-height: 1.55; color: #1f2a25; text-align: center;
+    margin-top: 2.5mm; padding-top: 2mm; border-top: 0.4pt dotted #d8c489;
+  }
+  .pr-wbw-full.pr-ai { background: #fbf7ec; border-radius: 1.5mm; padding: 2.5mm 3mm; border-top: none; }
+  .pr-ai-tag {
+    font-family: Inter, system-ui, sans-serif; font-size: 6.5pt; font-weight: 600;
+    letter-spacing: 0.08em; color: #b1922f; border: 0.5pt solid #d8c489;
+    border-radius: 999px; padding: 0 0.4em; vertical-align: 1.5pt;
+  }
 }
