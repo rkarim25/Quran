@@ -132,13 +132,17 @@ O believers — seek help through sabr and salah. Allah is with those who endure
 
 ## AI Tafsir
 
-**Context:** As to how Sabr صبر can save man from all kinds of trouble and pain and resolve all his difficulties, the secret has been revealed in the last phrase of this verse - "Surely, Allah is with those who are patient." That is…
+**Essence** When hardship presses in, the believer's refuge is not panic or complaint but sabr and salah — and the reward is the support and nearness of Allah's own aid.
 
-**What this ayah teaches:** If he is tested with a bounty, he is grateful for it and this is better for him; and if he is afflicted with a hardship, he is patient with it and this is better for him.) Allah has stated that the best tools to help ease the effects of the afflictions are patience and prayer.
+**What it teaches** Allah calls the believers to seek help (isti'ana) through two means: sabr — far broader than "patience," it signifies "restraining oneself, keeping oneself under control" — and salah, the prayer. The closing promise, "Indeed Allah is with the patient (al-sabirin)," is the secret of the whole verse: the one who endures earns the honour of Allah's special companionship — His aid, support and victory — and no trouble can overcome the one whom the Lord of the Worlds Himself helps.
 
-**Classical tafsir:** Ibn Kathir notes: When they realize that they will be asked (until they answer), they said, 'We wish that You send us back to the earthly life, so that we fight in Your cause until we are killed in Your cause again,' (because of what they enjoy of the rewards of martyrdom).
+**The scholars** Ibn Kathir places this after Allah's command to be grateful: the servant is always either in a bounty calling for thanks or a calamity calling for sabr, and patience and prayer are "the best tools to help ease the effects of the afflictions." In his own words he lists three types of sabr — restraint from sins, steadfastness in worship and obedience (which carries more reward), and endurance of hardship (mandatory, like repentance) — and he adds the report of 'Abdur-Rahman bin Zayd bin Aslam that sabr has two parts: patience in what Allah loves even when hard on heart and body, and patience in avoiding what He dislikes even when desired. Maarif ul Quran (drawing on Mazhari) explains the verse was a balm for Muslims disheartened by enemies who persisted in hostility over the change of Qiblah, yet "seek help" is left unspecified so it becomes "the elixir for all the ills" of human existence. In the terminology of the Qur'an and the Hadith, Maarif gives sabr three modes and stresses all three are equally obligatory — al-Sabirun are those steadfast in all three. On the authority of Sa'id Ibn Jubayr, Maarif relates that Ibn Kathir held an involuntary word of grief or sigh of pain does not nullify sabr. Salah is named separately because it is "the most perfect model of sabr": in it one restrains oneself even from the permissible — eating, drinking, talking — a visible demonstration of self-control and total submission.
 
-**From the Sunnah:** from his father that Allah's Messenger…
+**From the Sunnah** Whatever Allah decrees for the believer is good for him: tested with a bounty he is grateful — better for him; afflicted with hardship he is patient — better for him. (a hadith cited by Ibn Kathir)
+
+**From the Sunnah** On the Day of Judgment a call will go out, "Where are the Sabirun?" — those constant in the three forms of sabr will rise and enter Paradise without the reckoning of their deeds. (a hadith cited by Maarif ul Quran, which notes Ibn Kathir's corroboration from Qur'an 39:10)
+
+**Reflection** When trouble comes, do not merely wait it out — hold yourself back from sin, hold yourself to worship, and turn at once to prayer, knowing Allah is with you in it.
 ## Personal Reflections
 
 

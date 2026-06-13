@@ -154,11 +154,15 @@ who, when disaster strikes, say, "We belong to Allah and to Him we return."
 
 ## AI Tafsir
 
-**What this ayah teaches:** It is not because I do not want you, but I am very jealous and I fear that you might experience some wrong mannerism from me for which Allah would punish me. It will not, therefore, amount to impatience if one does regard such accidents as either strange or a remote chance.
+**Essence** The mark of the truly patient is that, when calamity strikes, they turn their hearts back to Allah, confessing that we are wholly His and to Him we return.
 
-**Classical tafsir:** Ibn Kathir notes: It is not because I do not want you, but I am very jealous and I fear that you might experience some wrong mannerism from me for which Allah would punish me.
+**What it teaches** This ayah defines the As-Sabirin (the patient) praised in the previous verse: when muṣibah (calamity) strikes, they steady themselves with istirja' — "Inna lillahi wa inna ilayhi raji'un," affirming that we belong to Allah as His servants and that our return is to Him. Ibn Kathir explains this confession comforts the grieving heart by recalling that Allah does with His servants as He wills, and that no deed, even an atom's weight, is ever lost with Him on the Day of Resurrection.
 
-**From the Sunnah:** For instance, Imam Ahmad reported that Umm Salamah narrated: Once, Abu Salamah came back after he was with Allah's Messenger ﷺ and said: I heard Allah's Messenger ﷺ recite a statement that made me delighted.
+**The scholars** Ibn Kathir places this within Allah's testing of His servants — sometimes with bounty, sometimes with fear, hunger, loss of wealth, lives, and fruits (2:155) — and says those who recite istirja' to comfort themselves "know that they belong to Allah" and that their return to Him is certain. On the reward in 2:157, Sa'id bin Jubayr glossed Allah's mercy as "safety from the torment," and 'Umar bin Al-Khattab commented that the salawat and mercy from their Lord are "two righteous things" while being guided is "the heights" — meaning yet more reward heaped upon them. Maarif ul Quran adds that since the whole Ummah is addressed, believers should grasp that this world is a place of ordeal, so calamity should never be treated as strange; and it calls istirja' "an inculcation of the principle of virtue" that brings excellent reward, lifts the burden of sorrow, and consoles the grieved heart — with each person rewarded according to the quality of his patience.
+
+**From the Sunnah** No Muslim is struck by an affliction and says istirja', then prays, "O Allah, reward me for my loss and give me what is better than it," but Allah grants exactly that — as Umm Salamah experienced when, after Abu Salamah's death, Allah compensated her with marriage to the Prophet (peace be upon him) himself. (Imam Ahmad; a shorter version reported by Muslim)
+
+**Reflection** When loss strikes, let the tongue and heart say "Inna lillahi wa inna ilayhi raji'un" and ask Allah for something better — entrusting the wound to the One to whom you already belong.
 ## Personal Reflections
 
 
