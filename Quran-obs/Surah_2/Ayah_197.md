@@ -349,11 +349,31 @@ Hajj is in known months. Whoever commits to Hajj in them must avoid intimacy, fo
 
 ## AI Tafsir
 
-**What this ayah teaches:** The Hajj (pilgrimage) is (in) the well-known months.
+**Essence**
 
-**Classical tafsir:** Ibn Kathir notes: 'Ali bin Abu Talhah said that Ibn 'Abbas said, "Rafath means having sex with the wife, kissing, fondling and saying foul words to her, and similar acts." Ibn 'Abbas and Ibn 'Umar said that Rafath means to have sex with women. The word jidal' means an effort to upturn the adversary, therefore, a rough altercation or quarrel is known as jidal.
+Hajj has appointed months, and whoever enters its sacred state must rise above lust, sin, and quarrel — carrying provisions for the road, but above all the provision of taqwa for the journey to the Hereafter.
 
-**From the Sunnah:** Ibn Marduwyah related that Jabir narrated that the Prophet ﷺ said: Ash-Shafi'i and Al-Bayhaqi recorded this Hadith from Ibn Jurayj who related that Abu Az-Zubayr said that he heard Jabir bin 'Abdullah being asked, "Does one assume Ihram for Hajj before the months of the Hajj?" He said, "No." This narration is more reliable th…
+**What it teaches**
+
+Like the prayer, Hajj has a fixed time: its Ihram may only be assumed in the known months. Whoever "commits" (farada) by entering Ihram is then bound to its rituals and to abstaining from three things — rafath, fusuq, and jidal — while being urged toward good deeds, material provisions, and supremely taqwa, "the best provision."
+
+**The scholars**
+
+Ibn Kathir reports from Ibn 'Abbas — whom he calls the Tarjuman (interpreter) of the Qur'an — that no Ihram for Hajj should be assumed except during the Hajj months, this being "among the Sunnah." Al-Bukhari relates from Ibn 'Umar that these months are Shawwal, Dhul-Qa'dah and the first ten days of Dhul-Hijjah; Ibn Jarir notes the Arab habit of calling "two months and a part of the third" months.
+
+On rafath, Ibn 'Abbas said it is intercourse, kissing, fondling, and foul words to one's wife; Tawus included even saying "When I leave Ihram I will have sex with you." On fusuq, Ibn 'Abbas said "It is disobedience," and Ibn Kathir holds those who took it as every kind of sin are correct — Allah specifically forbids wronging oneself in the sacred months (9:36). Maarif ul Quran preserves a second reading from Ibn 'Umar: that fusuq here means the Ihram-specific prohibitions — intercourse, hunting, cutting hair or nails, perfume, and (for men) stitched clothes and covering the head and face — since ordinary sin is forbidden in every state, not Ihram alone.
+
+On jidal, Ibn Mas'ud said it is to argue with your companion until you make him angry. Maarif adds a historical layer: in the age of ignorance pilgrims quarreled over the place of Wuquf — Arafat versus Muzdalifah — and the timing of Hajj, so the Qur'an settled the truth and forbade the dispute. Maarif also explains why rafath was singled out though included under fusuq: other breaches can be mended by kaffarah, but intercourse before the Wuquf of 'Arafat nullifies the Hajj entirely.
+
+On "the best provision is taqwa," Ibn Kathir notes that after directing people to provisions for this life, Allah pointed them to the provision of the Hereafter, just as He praised "the raiment of Taqwa" (7:26). Maarif stresses that taking provisions is not against tawakkul but its very essence: gather the means Allah provides, then place trust in Him.
+
+**From the Sunnah**
+
+Whoever performs Hajj to the Sacred House and keeps free of rafath and fusuq returns cleansed of sin, as pure as the day his mother bore him — the very prohibitions of this ayah opening the way to forgiveness. (The Two Sahihs, al-Bukhari and Muslim, from Abu Hurayrah)
+
+**Reflection**
+
+Pack your bags for the journey, but pack taqwa first — and let the holiest days find you guarding your tongue, your gaze, and your peace with others.
 ## Personal Reflections
 
 
