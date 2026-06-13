@@ -125,11 +125,17 @@ Their fate will be like that of the people of Pharaoh and those before them—th
 
 ## AI Tafsir
 
-**What this ayah teaches:** Verily, those who disbelieve, neither their properties nor their offspring will avail them whatsoever against Allah; and it is they who will be fuel of the Fire (10)Like the behavior of the people of Fir'awn and those before them; they belied Our Ayat.
+**Essence**
+Every nation that branded Allah's signs as lies met the same crushing end as Pharaoh's people — and the deniers of today are no exception.
 
-**Classical tafsir:** Ibn Kathir notes: The Ayah indicates that the those who reject the truth will not benefit from their wealth or offspring.
+**What it teaches**
+The verse likens the disbelievers' destiny to the da'b — the "practice, behavior, tradition and habit" — of Fir'awn's people and the nations before them, who rejected Allah's Ayat (His signs and revelations) and were "seized for their sins." Neither their wealth nor their offspring availed them; they perished and were punished. It seals with wa'Llahu shadidu'l-'iqab — Allah is severe in punishment.
 
-**From the Sunnah:** The text now shifts from the verbal confrontation with those who reject the truth on the warnings about the coming physical encounter as pointed out in verse 12 - 'You shall soon be overcome (by Muslims) ' while the verses earlier (10 and 11) serve as the introduction.
+**The scholars**
+Ibn Kathir reports through Ad-Dahhak from Ibn 'Abbas — the same Tafsir given by 'Ikrimah, Mujahid, Abu Malik, Ad-Dahhak, and others — that da'b here means "the behavior of the people of Fir'awn"; others read it as their "practice, conduct, likeness." All are plausible, he notes, for da'b means "practice, behavior, tradition and habit." The lesson is one: the deniers, like Pharaoh's nation, will not benefit from their riches or children but will perish and be punished — the same end met by the earlier nations who rejected the Messengers, the Ayat, and the proofs of Allah. On "Allah is severe in punishment," Ibn Kathir explains His torment is painful; then adds that it is also inescapable — "None can escape Allah's grasp, nor does anything escape His knowledge... there is no deity worthy of worship, nor any Lord except Him." Maarif ul Quran places verses 10–11 as an introduction: the discourse now shifts from verbal confrontation with the disbelievers toward warning of the coming physical defeat foretold in verse 12, "You shall soon be overcome."
+
+**Reflection**
+Read every fallen tyrant of history as a mirror, and let the fear of Allah's "severe punishment" pull the heart back to the One before whom all things are humbled.
 ## Personal Reflections
 
 

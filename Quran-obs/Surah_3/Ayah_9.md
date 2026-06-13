@@ -274,11 +274,20 @@ Our Rabb! You will certainly gather all humanity for the Day—about which there
 
 ## AI Tafsir
 
-**What this ayah teaches:** So as for those in whose hearts there is a deviation (from the truth) they follow (only) that which is not entirely clear thereof, seeking Al-Fitnah, and seeking its Ta'wil, but none knows its Ta'wil except Allah.
+**Essence**
+The believers firm in knowledge close their prayer by affirming what they are certain of: Allah will gather all mankind for a Day of no doubt — and Allah never breaks His promise.
 
-**Classical tafsir:** Ibn Kathir notes: On the Day (Day of Resurrection) it's Ta'wil is finally fulfillled.)(7:53) refers to the true reality of Resurrection that they were told about.
+**What it teaches**
+According to most of the mufassirun, this verse completes the supplication of "those firmly grounded in knowledge" (al-rasikhun fil-'ilm) begun in verse 8: having asked Allah to keep their hearts from deviating, they now declare Him "Jami' al-nas" — the One who will gather all people — for a Day "la rayba fih" (in which there is no doubt). Their certainty is anchored not in themselves but in Allah's own truthful word: "inna Allaha la yukhlifu al-mi'ad" — Allah does not break His appointed promise of Resurrection and recompense.
 
-**From the Sunnah:** Mujahid said that Ibn 'Abbas said, "I am among those who are firmly grounded in its Ta'wil interpretation." The Messenger of Allah ﷺ supplicated for the benefit of Ibn 'Abbas,
+**The scholars**
+Ibn Kathir renders the heart of their plea: "O our Lord! You will gather Your creation on the Day of Return, judge between them and decide over what they disputed about. Thereafter, You will reward or punish each according to the deeds they did in this life." Maarif ul Quran reads the verse as marking a further excellence of these scholars: their prayer reaches past every worldly gain toward salvation in the Hereafter. Since, as it stresses, guidance and misguidance rest with Allah alone, the one anxious to stay firm has only one recourse — to turn back to the Source and beg Him for steadfastness.
+
+**From the Sunnah**
+The Prophet ﷺ himself kept seeking the very steadfastness this supplication asks for. Umm Salamah related that he used to pray, "O You Who changes the hearts, make my heart firm on Your religion," and then he would recite the words of verse 8: "Our Lord! Let not our hearts deviate after You have guided us, and grant us mercy from You. Truly, You are the Bestower." (Ibn Abi Hatim and Ibn Jarir)
+
+**Reflection**
+Rest your heart on the certainty of the Day of gathering, and like the Prophet ﷺ keep imploring the Turner of hearts to hold yours firm until you meet Him.
 ## Personal Reflections
 
 

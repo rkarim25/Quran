@@ -130,11 +130,17 @@ Tell those who reject the truth, “Soon you will be overpowered and driven to H
 
 ## AI Tafsir
 
-**What this ayah teaches:** Therefore, this 'overcoming' of those who reject the truth mentioned in the verse simply does not refer to those who reject the truth universally.
+**Essence**
+A divine warning aimed, as the mufassirun read it, at the defiant disbelievers of the Prophet's ﷺ own time: defeat awaits you in this world and Hell in the next.
 
-**Classical tafsir:** Ibn Kathir notes: When the two camps saw each other, the Muslims thought that the idolators were twice as many as they were, so that they would trust in Allah and seek His help.
+**What it teaches**
+Allah commands His Prophet ﷺ to proclaim to the disbelievers, "satughlabun" — you will be overpowered in this life — "wa tuhsharun ila Jahannam" — and herded together to Hell on the Day of Resurrection — "wa bi'sa al-mihad" — what an evil resting place.
 
-**From the Sunnah:** when the Messenger of Allah ﷺ gained victory in the battle of Badr and went back to Al-Madinah, he gathered the Jews in the marketplace of Bani Qaynuqa'. When the two camps saw each other, the Muslims thought that the idolators were twice as many as they were, so that they would trust in Allah and seek His help.
+**The scholars**
+Ibn Kathir titles this a threat to the Jews, urging them to take a lesson from Badr, where Allah made His religion prevail, gave victory to His Messenger ﷺ, and humbled disbelief. He reads "you will be defeated" as this life and "gathered together" as the Day of Resurrection. Maarif ul Quran resolves a common doubt — that not all disbelievers are in fact overcome — by clarifying that the verse addresses the specific disbelievers and Jews of that era: the pagans were overcome by being killed or captured, and the Jews through killing, imprisonment, jizya, and extradition; so "overcoming" here is not a universal claim about every disbeliever.
+
+**Reflection**
+There is a bitter irony in the word "mihad" — a "bed, a place of rest" — for the place meant for repose becomes their torment. And when the cause is Allah's, the believer trusts in His help and fears no array of numbers, for the outcome rests with Him alone.
 ## Personal Reflections
 
 
