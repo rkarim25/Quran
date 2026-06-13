@@ -192,13 +192,13 @@ Establish salah and give zakat. Whatever good you send ahead for yourselves, you
 
 ## AI Tafsir
 
-**Context:** Allah said that after He illuminated the truth for them, such that they were not ignorant of any of it, yet their envy made them deny the Prophet ﷺ.
+**Essence** Two acts anchor the believer — the prayer and the alms — and nothing spent on them is ever lost: it waits, seen and counted, with Allah.
 
-**What this ayah teaches:** Certainly, Allah is the Seer of what you do .
+**What it teaches** Right after exposing the envy of the People of the Book, Allah does not leave the believers in resentment — He redirects them to *aqimu as-salah* and *atu az-zakah*: stand the prayer and give the purifying alms. The good you push ahead of you is an investment "with Allah," guaranteed by His being *Basir* — the All-Seeing, from whom no deed hides.
 
-**Classical tafsir:** Ibn Kathir notes: Allah's pardon for the those who reject the truth was repealed." Abu Al-'Aliyah, Ar-Rabi' bin Anas, Qatadah and As-Suddi said similarly: It was abrogated by the Ayah of the sword." (Mentioned above).
+**The scholars** Ibn Kathir says Allah urged the believers to busy themselves with deeds that bring "benefit and reward on the Day of Resurrection, such as prayer and paying Zakah," so they gain His aid in this life and on the Day "when the witnesses testify." On *Basir*, he writes that Allah "is never unaware of the deeds of any person, nor will these deeds be lost by Him" — rather, as he puts it, each person is awarded "according to what he or she deserves." Maarif ul Quran echoes the promise: "not a particle of one's good deeds shall be lost."
 
-**From the Sunnah:** Many of the People of the Scripture (Jews and Christians) wish that they could turn you away as those who reject the truth after you have believed, out of envy from their own selves, even after the truth (that Muhammad ﷺ is Allah's Messenger) has become manifest unto them. Ka'b bin Al-Ashraf, who was a Jew and a poet, used to criticize the Prophet ﷺ in his poems, so Allah revealed,
+**Reflection** Resentment burns; obedience builds. Turn what you would have spent stewing into a prayer prayed and a coin given — and let it go ahead of you, safe in the sight of the One who misses nothing.
 ## Personal Reflections
 
 

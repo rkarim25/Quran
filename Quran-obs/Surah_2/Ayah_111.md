@@ -281,11 +281,17 @@ The Jews say none will enter Paradise except Jews; the Christians say none excep
 
 ## AI Tafsir
 
-**Context:** Verse 112 also announces the reward of those who act upon these principles -- on the Day of Judgment, they shall have nothing to fear, nor shall they grieve, as angels will give them good tidings.
+**Essence**
+The Jews and Christians each claimed Paradise for their own community alone, and Allah meets their wishful thinking with one demand: bring your proof.
 
-**What this ayah teaches:** The differences between the Jews and the Christians In so far as these verses deal with the claims of the Jews and the Christians, the point of the argument is this:- Having laid down the two principles the acceptance of which makes one worthy of Paradise, the Holy Qur'an suggests that they should now try to find out who is really acting upon them.
+**What it teaches**
+A communal label saves no one. Allah names their claim *tilka amaniyyuhum* — mere *amani*, hopes resting on nothing — then commands *hatu burhanakum*, produce a *burhan*, decisive proof, *in kuntum sadiqin*, if you are truthful. What stands before Allah is not the name you carry but sincere submission to Him, and entry to Paradise remains His to grant by His mercy.
 
-**Classical tafsir:** Ibn Kathir notes: Therefore, the good deeds of the priests and rabbis will not be accepted, even if they are sincerely for Allah alone, because these deeds do not conform with the method of the Messenger ﷺ, who was sent for all mankind.
+**The scholars**
+Ibn Kathir draws the early authorities together: Abu al-'Aliyah read *amani* as "wishes that they wished Allah would answer, without basis," and Qatadah and Ar-Rabi' bin Anas said the same — empty longing dressed as certainty. Against it stands *burhan*, glossed simply as "your proof." Maarif ul Quran exposes the root error: they had shrunk religion to membership in a community and forgotten its substance — *aslama*, total submission to Allah, joined to *ihsan*, deeds done as the Shari'ah commands. The same warning falls on Muslims, who cannot lean on the name alone.
+
+**Reflection**
+Weigh your own claim to faith: does it rest on sincere submission and obedience, or only on a name you inherited?
 ## Personal Reflections
 
 

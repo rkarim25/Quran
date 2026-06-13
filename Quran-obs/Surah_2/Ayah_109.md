@@ -258,11 +258,20 @@ Many among the People of the Book wish they could turn you back to rejection aft
 
 ## AI Tafsir
 
-**Context:** Allah said that after He illuminated the truth for them, such that they were not ignorant of any of it, yet their envy made them deny the Prophet ﷺ.
+**Essence**
+Many People of the Book, knowing the truth, wish out of sheer envy to drag believers back into disbelief — so pardon and bear with them until Allah issues His command, for He is able over all things.
 
-**What this ayah teaches:** Many of the People of the Scripture (Jews and Christians) wish that they could turn you away as those who reject the truth after you have believed, out of envy from their own selves, even after the truth (that Muhammad ﷺ is Allah's Messenger) has become manifest unto them.
+**What it teaches**
+Their hostility is *ḥasad* — envy welling up "from their own selves," provoked by nothing the Muslims did, surviving even after the truth stood plain. Allah prescribes not retaliation but *ʿafw* and *ṣafḥ* — to pardon and turn away — until His decree arrives, sealed with His name *Qadīr*, able over everything.
 
-**Classical tafsir:** Ibn Kathir notes: Allah's pardon for the those who reject the truth was repealed." Abu Al-'Aliyah, Ar-Rabi' bin Anas, Qatadah and As-Suddi said similarly: It was abrogated by the Ayah of the sword." (Mentioned above).
+**The scholars**
+Ibn Kathir warns against those who envy the believers while inwardly knowing the Prophet's ﷺ truth. Abu Al-ʿAliyah — with Qatadah and Ar-Rabiʿ bin Anas — strikes hardest: they found Muhammad ﷺ named in their own Torah and Injil, then denied him "because he was not one of them." On a separate chain, Ibn ʿAbbas (via ʿAli bin Abi Talhah) read the pardon as abrogated by the Ayah of the sword — Abu Al-ʿAliyah, Ar-Rabiʿ, Qatadah and As-Suddi concurring — though others hold its forbearance stands.
+
+**From the Sunnah**
+The Messenger ﷺ and his Companions forgave the disbelievers and People of the Book, as commanded, bearing their harm until Allah permitted fighting — then destroyed the strong men of Quraysh marked for death by the Prophet's forces. (Ibn Abi Hatim, from Usamah bin Zayd; Ibn Kathir: chain Sahih, but its wording is not in the six collections, its basis being in the Two Sahihs.)
+
+**Reflection**
+The believers who first heard this were few, their enemy strong — so the verse answers their fear by closing on *Qadīr*: power over everything, ordinary or extraordinary. Pardon here is not weakness but trust handed to the One whose command, and whose timing, settle every account.
 ## Personal Reflections
 
 

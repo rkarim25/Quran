@@ -277,13 +277,20 @@ No — whoever submits their face to Allah and acts with ihsan — worshipping a
 
 ## AI Tafsir
 
-**Context:** Verse 112 also announces the reward of those who act upon these principles -- on the Day of Judgment, they shall have nothing to fear, nor shall they grieve, as angels will give them good tidings.
+**Essence**
+To every claim of exclusive salvation Allah answers "Bala" — Yes, but Paradise belongs to whoever surrenders his whole self to Allah alone and does good in the way He has prescribed.
 
-**What this ayah teaches:** follows Allah's religion of Islamic Monotheism) and he is a Muhsin then his reward is with his Lord (Allah), on such shall be no fear, nor shall they grieve (112)The Jews said that the Christians follow nothing (i.e.
+**What it teaches**
+Against the Jews' and Christians' boast that none enters Paradise but them, the ayah sets the timeless condition. *Aslama wajhahu lillah* — to surrender oneself wholly to Allah alone in sincerity (*ikhlas*), with no partner; and *muhsin* is the doer of good who follows the way of the Messenger ﷺ. Such a one has his reward with his Lord, safe from all fear and grief.
 
-**Classical tafsir:** Ibn Kathir notes: Therefore, the good deeds of the priests and rabbis will not be accepted, even if they are sincerely for Allah alone, because these deeds do not conform with the method of the Messenger ﷺ, who was sent for all mankind.
+**The scholars**
+Ibn Kathir explains *aslama wajhahu* (his face, i.e. himself) as performing deeds "in sincerity, for Allah alone without partners," and *muhsin* as "following the Messenger ﷺ" — so a deed is accepted only on two conditions: it must be purely for Allah's sake and conform to the Shari'ah. A sincere deed outside the Shari'ah (like that of the priests and rabbis) is rejected, and a Shari'ah-shaped deed done to show off (the hypocrite's) is likewise rejected. On the promise, Ibn Kathir reads "no fear" as fear of the future and "no grief" over what was left behind in the past; Sa'id bin Jubayr adds "no fear" in the Hereafter and "no grief" over death soon to come. Maarif notes the word *aslama* signifies total submission — so even Muslims have no claim to this reward by mere community membership without submitting in thought and deed.
 
-**From the Sunnah:** Paradise, without having any argument to substantiate the claim.
+**From the Sunnah**
+A deed is accepted only when it meets two conditions — sincerity for Allah alone and conformity to the way of the Messenger ﷺ; whatever is invented outside his religion is rejected, even if sincere (Muslim).
+
+**Reflection**
+The People of the Book traded the substance of faith for a label. The same trap waits for us: a name on the community roll is not a name with the Lord. Surrender the whole self, shape every deed by the Sunnah — and the reward is His to keep, beyond fear, beyond grief.
 ## Personal Reflections
 
 
