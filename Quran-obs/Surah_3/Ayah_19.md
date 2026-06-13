@@ -278,11 +278,15 @@ Certainly, Allah’s only Way is Islam. Those who were given the Scripture did n
 
 ## AI Tafsir
 
-**What this ayah teaches:** Islam is the Religion of Mankind and the Prophet (ﷺ) Was Sent to all Mankind Allah commanded His servant and Messenger, Muhammad ﷺ, to call the People of the Two Scriptures and the unlettered idolators to his religion, way, Law and all that Allah sent him with.
+**Essence** No religion is accepted with Allah except Islam — sincere submission to Him and obedience to His commands, the one path that ran through every prophet and was sealed in the way Muhammad ﷺ brought.
 
-**Classical tafsir:** Ibn Kathir notes: Therefore, after Allah sent Muhammad ﷺ, whoever meets Allah following a path other than Muhammad's, it will not be accepted of him.
+**What it teaches** "Al-din" is the single religion Allah revealed through His messengers from Adam to Muhammad ﷺ; "al-Islam" is its very meaning — to surrender to Allah and obey what He commands. The verse adds that the People of the Book splintered over the truth not from honest confusion but out of "baghy" — mutual envy and rivalry — after clear knowledge had reached them, and it warns that Allah is "swift in reckoning" with whoever rejects His signs.
 
-**From the Sunnah:** The Two Sahihs and other collections of Hadith recorded that the Prophet ﷺ sent letters to the kings of the earth during his time and to different peoples, Arabs and non-Arabs, People of the Book and the unlettered, just as Allah had commanded him.
+**The scholars** Ibn Kathir explains that no religion is accepted with Allah except Islam, and that Islam means obeying all the Messengers up to Muhammad ﷺ, who finalized their commission and thereby closed every path to Allah except through him; so whoever meets Allah on a path other than his will not have it accepted (citing 3:85). Their differing, he says, was "out of envy, hatred and enmity," some wronging others until hatred drove them to defy what they knew was correct. Maarif ul Quran draws a careful distinction: "din" denotes the core common to all prophets — belief in Allah's perfect Being and Attributes, His sole right to worship, the Last Day and reckoning, and every messenger and command He sent — while shari'ah or minhaj names the subsidiary laws that varied between ages. Thus Nuh, Ibrahim, and the disciples of 'Isa (peace be upon them) all called themselves "Muslims" (submitters), each age's Islam being what its prophet brought; yet once the final Prophet ﷺ came, only the way conforming to the Qur'an and his teaching deserves the name Islam or earns salvation. Maarif adds that the People of the Book fought his prophethood not from doubt — their own scriptures told them the truth — but from malice toward the Muslims, fear of losing ground to them, love of power, and arrogant self-image as traditional leaders.
+
+**From the Sunnah** The Prophet ﷺ swore by Him in whose Hand his soul is that no one of this ummah — Jew or Christian — hears of him and then dies without believing in what he was sent with, except that he will be among the people of the Fire; his message is universal to all mankind. (Muslim)
+
+**Reflection** Hold fast to sincere submission, and let no envy or pride make you turn from a truth you recognize.
 ## Personal Reflections
 
 

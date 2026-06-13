@@ -128,11 +128,20 @@ Who are patient, sincere, obedient, and charitable, and who pray for forgiveness
 
 ## AI Tafsir
 
-**What this ayah teaches:** Is there anyone to invoke Me, so that I may respond to his invocation? Out of the rest, children were not mentioned because man loves children during his life in the world as children help and strengthen him in what he does and through them his name lives on.
+**Essence**
+The God-fearing whom Allah praises are known by five qualities — patience, truthfulness, devout obedience, generous spending, and seeking forgiveness in the last hours before dawn.
 
-**Classical tafsir:** Ibn Kathir notes: Is there anyone to invoke Me, so that I may respond to his invocation?
+**What it teaches**
+After the believers cry out "Our Lord, we have believed, so forgive us our sins and save us from the Fire" (3:16), this ayah portrays them by five traits. Al-sabirin — patient in performing acts of obedience and in abandoning what is forbidden. Al-sadiqin — truthful in their proclamation of faith, proven by carrying out the difficult deeds. Al-qanitin — those who submit and obey Allah. Al-munfiqin — those who spend their wealth on the acts of obedience they were commanded, being kind to kith and kin, helping the needy, and comforting the destitute. And al-mustaghfirin bil-ashar — those who beg Allah's pardon in the last hours of the night.
 
-**From the Sunnah:** Paradise will have bricks of gold and silver masoned one after the other.
+**The scholars**
+Ibn Kathir explains that Allah here describes al-Muttaqin, His pious servants whom He promised tremendous rewards. He notes that the closing phrase testifies to the virtue of seeking Allah's forgiveness in the latter part of the night: when Ya'qub told his children "I will ask my Lord for forgiveness for you" (12:98), he waited until the latter part of the night to make his supplication. Ibn Kathir also records that 'Abdullah bin 'Umar would pray through the night and ask his servant Nafi' whether the last part had come; when told "Yes," he would supplicate and seek Allah's forgiveness until dawn. Maarif ul Quran, commenting on the promise made to the God-fearing in the preceding verse (3:15), frames these as the people who fear Allah and are obedient to Him — those given gardens beneath which rivers flow and, above all, ridwan, the approval of Allah, the ultimate a person can aspire to.
+
+**From the Sunnah**
+In the last third of every night Allah, the Blessed and Exalted, descends to the lowest heaven — in a manner befitting His majesty, without resemblance to creation — and calls out, offering to grant whoever asks of Him, respond to whoever invokes Him, and forgive whoever seeks His forgiveness. This is why the God-fearing seek pardon before dawn. (The Two Sahihs, the Musnad and the Sunan)
+
+**Reflection**
+Let the quiet hour before dawn become your appointment with Allah — turning to Him in patience, sincerity, and humble seeking of forgiveness while the world sleeps.
 ## Personal Reflections
 
 
