@@ -282,11 +282,17 @@ O believers — spend from the best of what you earn and from what We produce fr
 
 ## AI Tafsir
 
-**Context:** (O you who believe! Spend of the good things which you have (legally) earned, and of that which We have produced from the earth for you, and do not aim at that which is bad to spend from it,) that it was revealed about t…
+**Essence**
+Allah commands the believers to give from the good and lawful of their wealth — never the inferior leftovers they would themselves accept only "with closed eyes."
 
-**What this ayah teaches:** So who would lend to He Who is neither poor nor unjust, Who is worthy of all praise in all His actions, statements, and decisions, of Whom there is neither a deity worthy of worship except Him, nor a Lord other than Him?
+**What it teaches**
+Spend from the *tayyibat* — the best, finest, and lawfully (*halal*) earned of your wealth and your produce from the earth — and do not deliberately "aim at" (*tayammum*) the *khabith*, the bad and inferior, when you have good available. The measure of sincerity is simple: do not offer Allah what you yourselves would only take grudgingly, overlooking its faults.
 
-**Classical tafsir:** Ibn Kathir notes: Therefore, whoever gives away good and pure things in charity, let him know that Allah is the Most Rich, His favor is enormous and He is Most Generous, Most Compassionate; and He shall reward him for his charity and multiply it many times.
+**The scholars**
+Ibn Kathir, citing Ibn 'Abbas, says Allah commanded spending "from the purest, finest and best types of their money" and forbade evil, dishonest money, "because Allah is pure and good and only accepts that which is pure and good." The ruling targets one who has good yet picks the bad: Ibn Jarir records (on the authority of Al-Bara' bin 'Azib) that it came down about the Ansar, who hung ripe date-branches in the Prophet's masjid for the poor emigrants but slipped lesser dates in among them. On *wa lastum bi-akhidhihi* — Ibn 'Abbas explains that if a debtor underpaid you, you would demand the full value; so Allah asks, "How do you agree for Me what you do not agree for yourselves, while I have a right to the best and most precious of your possessions?" To this Ibn Jarir adds the link to His word, "By no means shall you attain Al-Birr, unless you spend of that which you love" (3:92). On *Ghaniyy Hamid* — Self-Sufficient, Praiseworthy — Ibn Kathir notes Allah is "far Richer from needing your charity," the purpose being "that the distance between the rich and the poor becomes less"; he draws the parallel of 22:37, that it is not the sacrifice's meat or blood but "piety from you that reaches Him." Maarif ul Quran adds that *tayyib* carries both senses, good *and* lawful, and clarifies the prohibition binds only the one who has good yet chooses the bad — one who owns nothing good is excused, and his giving is accepted. Maarif also derives from "what We have brought forth from the earth" the obligation of *'ushr* on cultivated land — by Imam Abu Hanifah on every produce of 'ushri land — an act closer to worship (the "Zakah of the land," *zakah al-ard*) than mere tax.
+
+**Reflection**
+Before you give, ask whether you would gladly receive it yourself — and offer Allah only your best.
 ## Personal Reflections
 
 
