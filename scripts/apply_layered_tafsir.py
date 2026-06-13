@@ -28,12 +28,16 @@ LAYER_LABELS = ("Essence", "What it teaches", "The scholars", "From the Sunnah",
 
 
 def normalize_rendered(text: str) -> str:
-    """Normalize finalize drift to the canonical layered format: convert markdown
-    headings for the known layers into bold labels, and strip any stray leading
+    """Normalize finalize format drift to the canonical layered format. Handles
+    heading-style labels (## Essence / ## Essence.), bold labels carrying stray
+    trailing punctuation (**Essence.** / **Essence:**), and strips any leading
     title/preamble so the entry starts at the first layer (**Essence**)."""
     text = text.strip()
-    for label in LAYER_LABELS:
-        text = re.sub(rf"(?m)^#{{1,6}}\s*{re.escape(label)}\s*$", f"**{label}**", text)
+    alt = "|".join(re.escape(l) for l in LAYER_LABELS)
+    # heading-style label line -> bold label
+    text = re.sub(rf"(?m)^[ \t]*#{{1,6}}[ \t]*({alt})[ \t]*[.:]?[ \t]*$", r"**\1**", text)
+    # bold label carrying stray trailing punctuation -> clean bold label
+    text = re.sub(rf"(?m)^([ \t]*)\*\*[ \t]*({alt})[ \t]*[.:][ \t]*\*\*", r"\1**\2**", text)
     i = text.find("**Essence**")
     if i > 0:
         text = text[i:].strip()

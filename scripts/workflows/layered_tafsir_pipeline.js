@@ -4,7 +4,7 @@ export const meta = {
   phases: [
     { title: 'Draft', detail: 'Synthesize layered tafsir per ayah from source markdown' },
     { title: 'Verify', detail: '3 adversarial lenses per draft: hadith grounding, creed, craft' },
-    { title: 'Finalize', detail: 'Resolve reviewer issues; enforce concise length' },
+    { title: 'Finalize', detail: 'Resolve reviewer issues; preserve depth, cut only repetition' },
   ],
 }
 
@@ -51,7 +51,7 @@ const FAST_MODEL = 'sonnet'
 const LENSES = [
   { key: 'hadith', title: 'Hadith authenticity & grounding', needsSource: true, model: FAST_MODEL, instruction: "For EVERY hadith in the draft, verify it actually appears in the source file's Ibn Kathir or Maarif ul Quran text for THIS ayah. Any hadith not present in the source is UNGROUNDED — flag it MAJOR and list it in ungrounded_hadith (fabrication risk). Verify the named collection matches the source. Confirm no isnad or wording was invented. Do NOT rely on your own memory of hadith — only the source file. The file may be large; read it fully (page with offset if truncated)." },
   { key: 'aqeedah', title: 'Creed (Ahl al-Sunnah) soundness', needsSource: false, instruction: "Flag anything that distorts Allah's names/attributes or the unseen, any anthropomorphism, any sectarian or disputed opinion stated as settled fact, or any claim outside mainstream Sunni creed. Identifications of groups/people must be attributed as the source attributes them, not stated as blanket judgements. Doctrinal errors = major; wording risks = minor." },
-  { key: 'craft', title: 'Faithfulness to source + conciseness & power', needsSource: true, model: FAST_MODEL, instruction: "Confirm the synthesis faithfully reflects the source's Ibn Kathir / Maarif without distortion or overreach (read the source). Then judge craft: is it CONCISE (rendered ~600-1100 chars, never over 2400), vivid, and non-repetitive? Does it avoid merely restating the translation? Flag padding, repetition across layers, vagueness, distortion, or flat writing." },
+  { key: 'craft', title: 'Faithfulness to source + quality & power', needsSource: true, model: FAST_MODEL, instruction: "Confirm the synthesis faithfully reflects the source's Ibn Kathir / Maarif without distortion or overreach (read the source). Then judge craft: is the content vivid, non-repetitive, and does it avoid merely restating the translation? The length hard cap is 3500 chars (runaway guard only) — do NOT flag appropriate scholarly depth as excessive. Flag only: repetition across layers, padding that adds no new content, vagueness, distortion, or flat writing." },
 ]
 
 function draftPrompt(item) {
@@ -68,7 +68,7 @@ function draftPrompt(item) {
     `- Creed: stay within mainstream Ahl al-Sunnah; attribute named scholars/companions (Ibn 'Abbas, Mujahid, Qatadah...) as the source does. For divine attributes, follow the Salaf method as the source presents it (affirm without likening or distorting).`,
     `- Voice: clear, reverent, vivid. Use "Allah" everywhere — NEVER the standalone word "God", even in generic phrases or when conveying others' claims (write "Allah", or rephrase, e.g. "a son of Allah"); validation rejects any standalone "God". Put the honorific after the Prophet. Unpack Arabic terms (Rahman, taqwa, sabr, tawhid...) rather than flattening them.`,
     ``,
-    `LENGTH: be genuinely concise. Target ~600-800 characters in "rendered"; NEVER exceed 2400. Cut anything that merely restates an earlier layer.`,
+    `LENGTH: let content quality determine length — include what is genuinely helpful; never pad. HARD CAP 3500 (runaway guard only — do not cut substantive content to hit a shorter target). Cut only repetition across layers, not depth.`,
     ``,
     `LAYERS:`,
     `- essence: ONE sentence capturing the heart of the ayah.`,
@@ -116,7 +116,7 @@ function finalizePrompt(item, draft, verdicts) {
     `Re-read the source file if needed (Read tool, exact path; page through if large): ${item.file}`,
     `Grounding rules still apply: hadith only from the source; drop any hadith flagged as ungrounded; never fabricate.`,
     `Use "Allah" everywhere — never the standalone word "God" (validation rejects it); the honorific belongs after the Prophet.`,
-    `LENGTH: keep "rendered" concise and powerful — target ~600-800 chars, HARD CAP 2400. Trim padding and cross-layer repetition while keeping the power.`,
+    `LENGTH: let content quality determine length — include what is genuinely helpful; never pad. HARD CAP 3500 (runaway guard only — do not cut substantive content to hit a shorter target). Trim only repetition across layers, not depth.`,
     ``,
     `DRAFT:`,
     draft.rendered,
