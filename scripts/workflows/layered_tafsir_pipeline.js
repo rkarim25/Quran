@@ -43,8 +43,9 @@ const FINAL_SCHEMA = { type: 'object', properties: {
   changes_made: { type: 'array', items: { type: 'string' } }, unresolved: { type: 'array', items: { type: 'string' } },
 }, required: ['essence', 'teaches', 'scholars', 'sunnah', 'rendered', 'changes_made', 'unresolved'] }
 
-// Model mix: grounded synthesis and mechanical source-checking run on Sonnet;
-// the aqeedah lens (subtle creed judgment) inherits the session's top model.
+// Model mix: authoring steps (draft + finalize) and the aqeedah creed lens run on
+// the session's top model — they own structure, length, and subtle creed judgment.
+// Only the two mechanical source-checks (hadith grounding, craft) run on Sonnet.
 const FAST_MODEL = 'sonnet'
 
 const LENSES = [
@@ -131,11 +132,11 @@ log(`Layered tafsir (Opus + 3-reviewer): surah ${surah}, ayahs ${ayahList.join('
 
 const results = await pipeline(
   AYAHS,
-  (item) => agent(draftPrompt(item), { label: `draft ${item.ref}`, phase: 'Draft', schema: DRAFT_SCHEMA, model: FAST_MODEL }),
+  (item) => agent(draftPrompt(item), { label: `draft ${item.ref}`, phase: 'Draft', schema: DRAFT_SCHEMA }),
   (draft, item) => parallel(LENSES.map((lens) => () =>
       agent(verifyPrompt(item, draft, lens), { label: `verify:${lens.key} ${item.ref}`, phase: 'Verify', schema: VERDICT_SCHEMA, ...(lens.model ? { model: lens.model } : {}) })
     )).then((verdicts) => ({ item, draft, verdicts: verdicts.filter(Boolean) })),
-  (bundle, item) => agent(finalizePrompt(item, bundle.draft, bundle.verdicts), { label: `finalize ${item.ref}`, phase: 'Finalize', schema: FINAL_SCHEMA, model: FAST_MODEL })
+  (bundle, item) => agent(finalizePrompt(item, bundle.draft, bundle.verdicts), { label: `finalize ${item.ref}`, phase: 'Finalize', schema: FINAL_SCHEMA })
       .then((final) => ({ surah: item.s, ayah: item.a, final, verdicts: bundle.verdicts })),
 )
 
