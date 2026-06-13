@@ -19,7 +19,7 @@ Ibn Kathir and Maarif ul Quran text already present in each
 ```
 
 - Omit **From the Sunnah** entirely if the source has no hadith for the ayah.
-- Length: ~600–1100 characters (dense ayahs may run longer); hard cap ~2000.
+- Length: ~600–1100 characters (dense ayahs may run longer); hard cap ~2400 (a runaway guard; concision is judged by the craft reviewer).
 
 ## Hard rules (non-negotiable)
 

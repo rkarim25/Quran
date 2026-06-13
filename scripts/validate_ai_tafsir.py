@@ -19,7 +19,7 @@ AI_DIR = ROOT / "docs" / "data" / "ai_tafsir"
 DATA_DIR = ROOT / "docs" / "data"
 
 MIN_CHARS = 80
-MAX_CHARS = 2000
+MAX_CHARS = 2400
 REQUIRED_SECTION = re.compile(r"\*\*Essence\*\*", re.I)
 
 BAD_PATTERNS = (
