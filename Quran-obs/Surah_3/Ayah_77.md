@@ -234,13 +234,24 @@ Indeed, those who trade Allah’s covenant and their oaths for a fleeting gain w
 
 ## AI Tafsir
 
-**Context:** Al-Ash'ath said, "By Allah! This verse was revealed concerning me. I owned some land with a Jewish man who denied my right, and I complained against him to the Messenger of Allah.
+**Essence**
+Those who sell Allah's covenant and their sworn oaths for a cheap, fleeting gain forfeit every share of the Hereafter and Allah's mercy.
 
-**What this ayah teaches:** Neither will Allah speak to them nor look at them on the Day of Resurrection, nor will He purify them, and they shall have a painful torment . Verily, those who purchase a small gain at the cost of Allah's covenant and their oaths, they shall have no portion in the Hereafter (Paradise).
+**What it teaches**
+The ayah condemns those who "purchase a small gain at the cost of Allah's covenant and their oaths" (yashtarūna bi-'ahdi llāhi wa-aymānihim thamanan qalīlan) — trading what is sacred for what is worthless. Maarif distinguishes 'ahd (a bilateral pledge settled between parties, which both must honor) from wa'dah (a one-sided promise); breaking such a sworn covenant invites four denials and a fifth penalty.
 
-**Classical tafsir:** Ibn Kathir notes: For instance, right here in verse 77 cited above, five warnings have been given to those who break their solemn pledge: 1.
+**The scholars**
+Ibn Kathir explains that the "covenant" includes the pledge the People of the Book owed Allah — to follow Muhammad ﷺ, proclaim his description from their books, and affirm his truth — which they sold for the cheap things of this passing life. He unpacks the threefold withholding: Allah will not speak to them words of kindness, nor look at them with any mercy, nor purify them from sins and impurities; rather He will order them to the Fire. Maarif ul Quran enumerates the five warnings of verse 77: no share in heaven's blessings; Allah will not speak to them with glad tidings; He will not look on them mercifully on the Day of Doom; He will not forgive them, since they wasted the rights of His servant through breach of trust — what is termed haqq al-'abd, the right owed to another person, which Allah does not forgive on the wronged one's behalf; and a grievous punishment awaits.
 
-**From the Sunnah:** The Prophet ﷺ required the man from Hadramut to present his evidence, but he did not have any.
+**From the Sunnah**
+Three whom Allah will not speak to, look at, or purify on the Day of Resurrection, and who face a painful torment: the one whose clothes reach below the ankles (the Musbil), the one who swears falsely to sell his merchandise, and the one who gives charity then reminds people of it. (Imam Ahmad, from Abu Dharr; also Muslim and the Sunan)
+
+In a separate narration, when Imru' Al-Qays disputed a piece of land, the Prophet ﷺ said: whoever swears a false oath to seize another's property will meet Allah while He is angry with him — upon which Imru' Al-Qays forfeited the land. (Imam Ahmad, from 'Adi bin 'Amirah; also An-Nasa'i)
+
+Maarif cites a further hadith that one who usurps a Muslim's right under a false oath makes the Fire of Hell compulsory for himself; asked whether this held even for something trifling, he answered: even if it be the green bough of a tree. (Muslim, via Mazhari)
+
+**Reflection**
+Guard your word and your oath as a trust: never let a small worldly gain cost you Allah looking upon you with mercy, His kind speech, and His pardon.
 ## Personal Reflections
 
 

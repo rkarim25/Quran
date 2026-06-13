@@ -172,11 +172,25 @@ There are some among them who distort the Book with their tongues to make you th
 
 ## AI Tafsir
 
-**Context:** It was during the presence of the deputation from Najran that some Jews and Christians had said: '0 Muhammad, do you want us to worship you the way Christians worship Jesus, son of Mary?' He said: 'I seek refuge with All…
+**Essence**
 
-**What this ayah teaches:** And verily, among them is a party who distort the Book with their tongues, so that you may think it is from the Book, but it is not from the Book, and they say: This is from Allah, but it is not from Allah; and they speak a lie against Allah while they know it .
+A faction of the People of the Book twist Scripture with their tongues and dress their own inventions in Allah's name — lying about Allah while fully knowing it is a lie.
 
-**Classical tafsir:** Ibn Kathir notes: Commentary It was during the presence of the deputation from Najran that some Jews and Christians had said: '0 Muhammad, do you want us to worship you the way Christians worship Jesus, son of Mary?' He said: 'I seek refuge with Allah that we worship someone other than Allah or ca…
+**What it teaches**
+
+The ayah exposes a party (fariq) who "distort the Book with their tongues" (yalwuna alsinatahum) — bending the recitation and meaning so listeners suppose the fabrication is part of revelation, then declaring "It is from Allah" when it is not. The damning phrase is wa hum ya'lamun, "while they know": this is not honest error but deliberate forgery of the sacred, attributing falsehood to Allah with full awareness.
+
+**The scholars**
+
+Ibn Kathir explains that some of the Jews distort Allah's Words, "change them from their appropriate places, and alter their intended meanings," to deceive the ignorant into thinking their words are in the Book of Allah. He cites Mujahid, Ash-Sha'bi, Al-Hasan, Qatadah and Ar-Rabi' bin Anas that "distort the Book with their tongues" means "They alter them." Wahb bin Munabbih then held that "the Tawrah and the Injil remain as Allah revealed them, and no letter in them was removed," yet "the people misguide others by addition and false interpretation, relying on books that they wrote themselves" — locating the distortion in twisted interpretation and fabricated supplements paraded as revelation. Ibn Kathir responds with a distinction: if Wahb meant the books now in the People of the Book's hands, "there is no doubt that they altered, distorted, added to and deleted from them" — the Arabic versions, he notes, carry "tremendous error, many additions and deletions and enormous misinterpretation"; but if Wahb meant the Books of Allah preserved with Him, then "these Books are preserved and were never changed." The occasion (Maarif ul Quran): when some Jews and Christians of the Najran deputation asked the Prophet ﷺ whether he wished to be worshipped as Christians worship Jesus, he answered, "I seek refuge with Allah that we worship someone other than Allah or call on others to do so" — and this verse was revealed.
+
+**From the Sunnah**
+
+Within his commentary Ibn Kathir transmits a report Al-Bukhari relayed from Ibn 'Abbas: the ayah means "they alter and add although none among Allah's creation can remove the Words of Allah from His Books, they alter and distort their apparent meanings" — the forgery falls on interpretation, never on Allah's preserved Word.
+
+**Reflection**
+
+The forger here is not a stranger; he is the custodian of Scripture who knows the truth and bends it anyway. Watch the smaller version of that in yourself: the verse you quote slightly out of shape to win an argument, the personal preference you announce as "what Islam says." Guard the sacred text and guard your tongue — let what you ascribe to Allah be only what He actually said.
 ## Personal Reflections
 
 
