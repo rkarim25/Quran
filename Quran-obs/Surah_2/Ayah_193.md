@@ -261,13 +261,22 @@ Fight them until there is no more fitnah and deen belongs to Allah alone. If the
 
 ## AI Tafsir
 
-**Context:** Abu Al-'Aliyah said, "This was the first Ayah about fighting that was revealed in Al-Madinah. Ever since it was revealed, Allah's Messenger ﷺ used to fight only those who fought him and avoid non-combatants.
+**Essence**
+Fight the persecutors only until religious oppression ends and worship belongs to Allah alone — then the moment they stop, all hostility must stop.
 
-**What this ayah teaches:** Verily aggression can only be started against the unjust.' This is the meaning of Mujahid's statement that only combatants should be fought.
+**What it teaches**
+The command to fight runs only "until there is no more fitnah" — which the commentators define as shirk, the persecution that drives people from worshipping Allah — "and the religion is for Allah alone," meaning Allah's religion becomes dominant and worship is purified for Him. The closing clause then fixes the limit in the sharpest terms: "if they cease, let there be no hostility except against the wrongdoers (az-zalimin)" — for "aggression can only be started against the unjust." When the war on faith stops, the fighting stops with it, and force may never be carried over against those who have ceased.
 
-**Classical tafsir:** Ibn Kathir notes: Truly, Allah likes not the transgressors.) This Ayah means, 'Fight for the sake of Allah and do not be transgressors,' such as, by committing prohibitions.
+**The scholars**
+Ibn Kathir reports that fitnah here means shirk, citing a wide consensus of the salaf — Ibn 'Abbas, Abu Al-'Aliyah, Mujahid, Al-Hasan, Qatadah, Ar-Rabi', Muqatil bin Hayyan, As-Suddi and Zayd bin Aslam. "The religion is for Allah" he explains as "so that the religion of Allah becomes dominant above all other religions." On the final clause he gives two grounded senses: that once they abandon their shirk and their war on the believers, anyone who fights them afterward is himself the aggressor, "for aggression can only be started against the unjust" — which Ibn Kathir notes is Mujahid's point that only combatants are to be fought; or that "aggression" means lawful retaliation in kind, as in 2:194, "whoever transgresses against you, transgress likewise against him." Glossing az-zalim specifically, Ikrimah and Qatadah say the wrongdoer is "he who refuses to proclaim, there is no deity worthy of worship except Allah." Ibn Kathir also records Ibn 'Umar twice invoking this verse during the later civil strife. Pressed to fight in the conflict of Ibn Az-Zubayr, he answered that Allah forbade shedding a Muslim brother's blood, and when his questioners cited this very ayah he retorted: "We fought until there was no more fitnah and the religion became for Allah alone. You want to fight until there is fitnah and the religion becomes for other than Allah!" In a second exchange he explained that the fighting commanded here was fulfilled in the Prophet's ﷺ time, when Islam was weak and a man was persecuted in his faith with killing or torture — once Islam grew strong, "there was no more fitnah."
 
-**From the Sunnah:** The Command to fight Those Who fight Muslims and killing Them wherever They are found Ever since it was revealed, Allah's Messenger ﷺ used to fight only those who fought him and avoid non-combatants.
+**From the Sunnah**
+When asked which man truly fights in Allah's cause — the one who fights from bravery or to show off — the Prophet ﷺ said the one who fights so that Allah's Word is uppermost is the one in Allah's cause, anchoring "the religion is for Allah" in pure intention. (The Two Sahihs — Bukhari and Muslim)
+
+The Prophet ﷺ was ordered to fight the people until they testify that none has the right to be worshipped but Allah; once they say it, their life and property are inviolable except by the right of Islam, and their account is with Allah — marking the point at which fitnah ends and "the religion is for Allah." (The Two Sahihs — Bukhari and Muslim)
+
+**Reflection**
+Let your striving aim only at the truth prevailing, never at vengeance — and when wrong ceases, let your hand cease with it.
 ## Personal Reflections
 
 

@@ -147,11 +147,15 @@ A sacred month for a sacred month, and violations demand equal retaliation. Whoe
 
 ## AI Tafsir
 
-**What this ayah teaches:** The sacred month is for the sacred month, and for the prohibited things, there is the Law of equality (Qisas).
+**Essence** When the sacred is violated against you, Allah grants you measured retaliation in kind — yet bounded always by taqwa, for He aids the God-conscious.
 
-**Classical tafsir:** Ibn Kathir notes: Therefore, it can be said that the sanctity of the 'sacred months' has not been abrogated totally, but it holds good like the sanctity of Haram.
+**What it teaches** A sacred month answers for a sacred month, and every violated sanctity (hurumat) is subject to qisas — equal, like-for-like recompense. If someone aggresses against you, you may respond "in the same manner" and no further; then the ayah seals the ruling with taqwa (God-consciousness), promising that Allah is with al-muttaqin by His aid in this life and the next.
 
-**From the Sunnah:** Then, the idolators prevented him from entering the Sacred House (the Ka'bah in Makkah) along with the Muslims who came with him. Hence, when the Prophet ﷺ was told that 'Uthman was killed (in Makkah) when he was camped at the area of Al-Hudaybiyyah, after he had sent 'Uthman as his emissary to the polytheists, he accepted the pledge from his Companions under the tree to fight the polyth…
+**The scholars** Ibn Kathir reports from Ibn 'Abbas, Ad-Dahhak, Qatadah and others that this was revealed around the 'Umrah of the sixth year of Hijrah: the idolaters barred the Prophet ﷺ from the Ka'bah in Dhul-Qa'dah, and the following year Allah permitted him to enter and to recompense them for their treatment — sacred month for sacred month. He explains that "whoever transgresses against you, transgress likewise against him" ordains justice even toward the polytheists: the response must match the offence, never exceed it (compare 16:126, "punish with the like of that with which you were afflicted"). On taqwa, Ibn Kathir says the ayah commands that Allah be obeyed and feared, and that He is with the people of taqwa by His aid and support in this life and the Hereafter. Maarif ul Quran notes the four sacred months — Dhul-Qa'dah, Dhul-Hijjah, Muharram (consecutive) and Rajab — whose sanctity even pre-Islamic Makkah observed; though, by the consensus of the Ummah it cites, the absolute prohibition on fighting was later abrogated, it remains preferable not to initiate fighting in them without need to defend, so their sanctity, like that of the Haram, stands with an exception only for defence.
+
+**From the Sunnah** The Prophet ﷺ would not engage in warfare during a Sacred Month unless he was first attacked; only then would he march forth, otherwise remaining idle until the Sacred Months ended — the very pattern of measured, defensive response this ayah commands. (Imam Ahmad — Ibn Kathir notes its chain is authentic)
+
+**Reflection** When wronged, meet it with exact justice, never excess — and let taqwa, not vengeance, set the limit, trusting that Allah aids those who restrain themselves for His sake.
 ## Personal Reflections
 
 
