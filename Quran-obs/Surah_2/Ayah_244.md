@@ -274,11 +274,20 @@ Fight in Allah's cause and know that Allah is All-Hearing, All-Knowing.
 
 ## AI Tafsir
 
-**What this ayah teaches:** Truly, Allah is full of bounty to mankind, but most men thank not (243)And fight in the way of Allah and know that Allah is All-Hearer, All-Knower (244)Who is he that will lend to Allah a goodly loan so that He may multiply it to him many times?
+**Essence**
+Fight in Allah's cause without fear, for the One who fixed your appointed term hears every word and knows every deed.
 
-**Classical tafsir:** Ibn Kathir notes: Dead People Ibn Abu Hatim related that Ibn 'Abbas said that these people mentioned herein, were the residents of a village called Dawardan. And this also explains the hadith in which it is said: The plague is shahadah (martyrdom) and one who dies in the plague is a shahid (martyr).
+**What it teaches**
+"Fight in the way of Allah" (qatilu fi sabilillah) commands striving in His cause, paired with the certainty that Allah is Sami' (All-Hearing) and 'Alim (All-Knowing) — He registers all speech and intention, so neither courage nor cowardice escapes His knowledge. Set up by the previous ayah's story of those who fled death, the lesson is that abandoning jihad out of fear neither hastens nor delays the appointed term, which Allah alone has fixed.
 
-**From the Sunnah:** 'Umar bin Al-Khattab once went to Ash-Sham (Syria). (Musnad Ahmad, authentic hadith) So, when every human bone found its proper place at the behest of a single call, the Prophet ﷺ was commanded to give yet another call to them as follows:
+**The scholars**
+Ibn Kathir explains that just as caution could not save those who fled the plague, abandoning Jihad "will neither bring the appointed term closer nor delay it"; destiny and provision are fixed and "shall never be changed or altered, neither by addition nor deletion." Maarif ul Quran frames verses 243-245 as a single eloquent unit urging the sacrifice of life and wealth in Allah's way: "Going into a battle in jihad is not the cause of death, and running away from it, out of cowardice, is not the means to avoid death." Both cite the resurrection of the Bani Israel — restored through a prophet whom the mufassirun identify as Hizqil (Ezekiel) — as proof of bodily resurrection and of Allah's complete dominion over life and death. Ibn Kathir adds the example of Khalid bin Al-Walid, the Sword of Allah, who fought countless battles yet died on his bed: "here I am, dying like a donkey on my bed. May Allah give no rest to cowards" — living testimony that the appointed time comes only when Allah wills.
+
+**From the Sunnah**
+When the plague broke out and 'Umar turned back from Syria, 'Abd al-Rahman ibn 'Awf reported the Prophet's ﷺ teaching that one must not flee a plague-stricken land nor enter one where it has appeared — for no precaution alters Allah's decree (Sahihayn — al-Bukhari and Muslim). Separately, al-Bukhari reports (from Yahya ibn Ya'mur, from 'A'ishah) that she asked the Prophet ﷺ about plague, and he taught that whoever stays in such a place with patience, believing nothing can touch him but what Allah has decreed, earns the reward of a martyr.
+
+**Reflection**
+Step forward in obedience to Allah and do your duty without fear, trusting that your moment of death is His to decree, not yours to flee.
 ## Personal Reflections
 
 
