@@ -211,9 +211,22 @@ Then and there Zachariah prayed to his Rabb, saying, “My Rabb! Grant me—by y
 
 ## AI Tafsir
 
-**What this ayah teaches:** Therefore, marry a woman who is loving and fertile, for I shall compete with other communities on the basis of your numbers.
+**Essence**
+Witnessing Allah's power to provide beyond ordinary means, the aged Zakariyya turned to his Lord in secret and begged for righteous offspring, certain that the One who hears every prayer could grant it.
 
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, Ath-Thawri and Ad-Dahhak said that Sayyidan means, "The noble, wise and pious man." Sa'id bin Al-Musayyib said that Sayyid is the scholar and Faqih. 'Ikrimah said that it refers to a person who is not overcome by anger, while Ibn Zayd said that it refers to the noble man.
+**What it teaches**
+"Hunalika" — "there and then" — Zakariyya prayed the moment he saw Maryam supplied with out-of-season fruit: "Rabbi hab li min ladunka dhurriyyatan tayyibatan." He asked min ladunka — "from Yourself," from Allah's own grace and power, not the usual causes — for dhurriyyatan tayyibatan, "pure" offspring, closing with innaka Sami' ad-du'a: "Indeed You are the All-Hearer of invocation."
+
+**The scholars**
+Ibn Kathir explains the timing: when Zakariyya saw that Allah gave Maryam the fruits of winter in summer and of summer in winter, he longed for a child of his own — though by then he was an old man, his bones feeble and his head full of gray hair, and his wife was barren. Still he supplicated and called upon Allah in secret. Ibn Kathir glosses min ladunka as "from You" and tayyibatan as "a righteous offspring." Maarif ul Quran fills in his state of mind: Zakariyya already firmly believed that Allah, in His ultimate power, could change the usual course of nature and grant him a child even in old age. What he had not yet done was witness such an act with his own eyes; seeing Maryam's provision deepened his certitude and emboldened him to stretch out his hands and petition for himself. Maarif draws the lesson that praying for children is a blessed practice of the prophets and the righteous, citing Allah's praise of those who pray, "Our Lord, grant us from our spouses and offspring the coolness of our eyes" (25:74); Hasan al-Basri said this "coolness of the eyes" means seeing one's wife and children devoted in obedience to Allah.
+
+**From the Sunnah**
+Maarif ul Quran cites three chained sayings of the Prophet, peace be upon him, on this theme: "Marriage is my sunnah"; "whoever turns away from my sunnah is not from me"; and "marry a woman who is loving and fertile, for I shall compete with other communities on the basis of your numbers."
+
+Maarif also relates that when Umm Sulaym asked the Prophet, peace be upon him, to pray for his attendant Anas, he supplicated that Allah increase his wealth and children and bless him in what He gave him — and Anas went on to have about a hundred children and an ample measure of wealth.
+
+**Reflection**
+Zakariyya did not stop at the apparent impossibility of his own circumstances. Notice that he prayed in secret — no audience, no despair voiced aloud, only a feeble old man stretching out his hands to the All-Hearer. Let that be your habit: carry your most unlikely hopes to Allah quietly, and keep asking, for the One who hears invocation is never constrained by what your situation seems to allow.
 ## Personal Reflections
 
 

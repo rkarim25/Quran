@@ -185,9 +185,17 @@ Zachariah exclaimed, “My Rabb! How can I have a son when I am very old and my 
 
 ## AI Tafsir
 
-**What this ayah teaches:** How can I have a son when I am very old, and my wife is barren?" (Allah) said: "Thus Allah does what He wills.
+**Essence**
+When the impossible is promised, the believer's heart rests not on the means but on the One who does whatever He wills.
 
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, Ath-Thawri and Ad-Dahhak said that Sayyidan means, "The noble, wise and pious man." Sa'id bin Al-Musayyib said that Sayyid is the scholar and Faqih. 'Ikrimah said that it refers to a person who is not overcome by anger, while Ibn Zayd said that it refers to the noble man.
+**What it teaches**
+Given glad tidings of a son, Zakariyya (peace be upon him) asks "annā" — how, in what manner — this can come to be. Ibn Kathir's narrative sets the scene: by then Zakariyya had grown old, his bones feeble and his head full of gray hair, his wife aged and barren. The angel answers "kadhālika" (thus): "Allah does what He wills" (yafʿalu mā yashāʾ). The reply turns the gaze away from natural causes toward Allah's unbounded will and power.
+
+**The scholars**
+Ibn Kathir explains the angel's words "kadhālika" — "this is Allah's matter, He is so Mighty that nothing escapes His power, nor is anything beyond His ability"; the child was a marvel against every worldly expectation. Maarif ul Quran (citing Bayan al-Qur'an) clarifies that Zakariyya's "how" was not doubt in Allah's absolute power — he had witnessed its manifestation repeatedly and already knew his prayer was accepted; rather he asked about the manner: would their extreme old age remain as it was, or be changed back to youth? The eloquent answer "kadhālika" settles it — they would conceive in that very state of old age, not by being made young again.
+
+**Reflection**
+Ask Allah for what seems impossible, then trust the manner of its coming to the One for whom no condition is an obstacle.
 ## Personal Reflections
 
 

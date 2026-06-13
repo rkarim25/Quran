@@ -209,11 +209,15 @@ So her Rabb accepted her graciously and blessed her with a pleasant upbringing�
 
 ## AI Tafsir
 
-**What this ayah teaches:** Every time he entered the Mihrab to (visit) her, he found her supplied with sustenance. He also made her accompany the righteous people, so that she learned righteousness, knowledge and religion.
+**Essence** When a heart is sincerely dedicated to Allah, He accepts it with honor, causes it to grow well, and provides for it without measure.
 
-**Classical tafsir:** Ibn Kathir notes: He also made her accompany the righteous people, so that she learned righteousness, knowledge and religion.
+**What it teaches** After Maryam's mother vowed her child to Allah's service, "her Lord accepted her with goodly acceptance" (qabul hasan) and "made her grow in a good manner" (nabat hasan) — refining her conduct and character — then placed her under the care (kafala) of Zakariyya. In her place of worship (the mihrab) she was found supplied with rizq (provision), and she traced every gift back to its true Source: "It is from Allah, who provides for whom He wills without limit (bi-ghayri hisab)."
 
-**From the Sunnah:** The Two Sahihs recorded that the Messenger of Allah ﷺ decided that 'Amarah, the daughter of Hamzah, be raised by her maternal aunt, the wife of Ja'far bin Abi Talib, saying,
+**The scholars** Ibn Kathir explains that Allah accepted Maryam as the fruit of her mother's vow, making her conduct becoming, her manner delightful, and her person well-liked, and "made her accompany the righteous people, so that she learned righteousness, knowledge and religion." He notes Allah appointed Zakariyya her guardian for her benefit, "so that she would learn from his tremendous knowledge and righteous conduct" — Zakariyya being married to her maternal aunt (per Ibn Ishaq and Ibn Jarir) or her brother-in-law (per the Sahih). On the sustenance, Ibn Kathir reports that a chain of ten of the salaf — including Mujahid, 'Ikrimah, Sa'id bin Jubayr, Qatadah, Ad-Dahhak and As-Suddi — said, "He would find with her the fruits of the summer during winter, and the fruits of the winter during summer," an out-of-season provision that prompted Zakariyya's wonder. Maarif ul Quran fills in the background: her mother brought her to Baitul-Maqdis and entrusted her to its worshippers because her father 'Imran, the Imam of the mosque, had died during the pregnancy; the caretakers each desired her custody, drew lots, and Zakariyya — pressing his bid through his wife, Maryam's aunt — won, then settled her in a good house adjacent to the mosque.
+
+**From the Sunnah** When establishing who should raise a child, the Prophet ﷺ ruled that 'Amarah, the daughter of Hamzah, be raised by her maternal aunt — the wife of Ja'far bin Abi Talib — declaring that the maternal aunt holds the rank of the mother; Ibn Kathir cites this to explain why Maryam's care passing through her aunt's household was fitting. (The Two Sahihs — al-Bukhari and Muslim)
+
+**Reflection** Dedicate what is precious to Allah in sincerity, and trust that the One who accepts also nurtures and provides — without limit, without calculation.
 ## Personal Reflections
 
 
