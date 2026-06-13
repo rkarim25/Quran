@@ -369,11 +369,17 @@ Humanity was once one community; then Allah sent prophets as bearers of good new
 
 ## AI Tafsir
 
-**What this ayah teaches:** Obviously, the two sentences do not seem to synchronize because the cause of sending prophets and Books is the disputation of people, which did not exist at that time.
+**Essence** Mankind began united upon one true faith; when they split, Allah sent prophets with the Book to judge their disputes — and by His grace He guides the believers to the truth.
 
-**Classical tafsir:** Ibn Kathir notes: This comparative examination tells us that the unity mentioned in this verse means the unity of ideas and the unity of beliefs.
+**What it teaches** Humanity was once a single ummah (a community bound by one belief — tawhid, the Oneness of Allah); when self-interest bred division, Allah raised the prophets as mubashshirin (bearers of glad tidings) and mundhirin (warners) and sent down al-Kitab "with the truth" to judge between people in what they disputed. Tragically, the very people given the Scripture rejected it — not from confusion but baghyan, out of sheer jealousy and obstinacy — yet Allah, biidhnihi (by His leave), guided the believers to the truth.
 
-**From the Sunnah:** this in his Mustadrak and said, "Its chain of narrators is Sahih, but they (Al-Bukhari and Muslim) did not record it." Abu Ja'far Razi reported that Abu Al-'Aliyah said that Ubayy bin Ka'b read the Ayah as: (Sahih al-Bukhari, Sahih Muslim) that when Allah's Messenger ﷺ used to wake up at night to pray, he would say: (Sahih al-Bukhari, Sahih Muslim)
+**The scholars** Ibn Kathir relates from Ibn 'Abbas that there were ten generations between Adam and Nuh, "all of them on the religion of Truth," who later disputed, so Allah sent the prophets; Qatadah likewise says "they all had the guidance," and the first prophet sent was Nuh. Maarif ul Quran clarifies that the "unity" here is the unity of ideas and beliefs — not of race, language, or land — and that the majority of commentators hold this original creed was tawhid; Maarif relates from Ubayy ibn Ka'b and Ibn Zayd that it traces to the primordial covenant of "Am I not your Lord?" when every soul affirmed Allah's lordship. Ibn Kathir explains biidhnihi as "by His knowledge of them and by what He has directed and guided them to" (per Ibn Jarir). Ibn Zayd enumerates the very disputes Allah resolved for this ummah: the day of congregation (Friday, not the Jews' Saturday or the Christians' Sunday), the true Qiblah, the form of prayer and fasting, and the truth about Ibrahim and 'Isa. Maarif draws the deeper lesson: prophets were never a cause of division but the cure, sent like a physician's remedy for each disease until the most comprehensive prescription of all — Islam, with the final Prophet ﷺ and the Qur'an — was given and divinely preserved.
+
+**From the Sunnah** The Prophet ﷺ taught that this ummah, though last to receive the Book, is foremost on the Day of Resurrection and first to enter Paradise, because Allah guided it to the truth wherever the earlier nations disputed — guiding it to Friday, which the Jews missed for Saturday and the Christians for Sunday. (reported by Abdur-Razzaq, from Abu Hurayrah)
+
+**From the Sunnah** When the Prophet ﷺ rose at night to pray, he would call upon Allah, Lord of Jibril, Mika'il and Israfil, Creator of the heavens and earth and Knower of the seen and the unseen — affirming that Allah alone judges between His servants in what they dispute — and beg, "Guide me to the truth of what is disputed, by Your leave; indeed You guide whom You will to the straight path." (Al-Bukhari and Muslim, from 'A'ishah)
+
+**Reflection** When truth and falsehood blur around you, plead with the Lord who judges between His servants: "Guide me to the truth of what is disputed, by Your leave" — then follow that guidance with patience and good grace.
 ## Personal Reflections
 
 

@@ -194,11 +194,23 @@ Fighting has been ordained for you though you dislike it. Perhaps you dislike so
 
 ## AI Tafsir
 
-**What this ayah teaches:** Hence, one might covet something, yet in reality it is not good or beneficial for him, such as refraining from joining the Jihad, for it might lead to the enemy taking over the land and the government.
+**Essence**
+Fighting in Allah's cause is made obligatory though hearts recoil from it — for Allah alone knows that what we hate may be our good, and what we love may be our ruin.
 
-**Classical tafsir:** Ibn Kathir notes: Explanation in brief: Verse 216 establishes the obligatory nature of Jihad even though it may be burdensome for some temperaments.
+**What it teaches**
+Kutiba ʿalaykum al-qital — "fighting is prescribed upon you" — establishes jihad as a binding duty, even while it is kurh, heavy and hateful to the soul because it carries killing, wounds, striving against the enemy, and the hardship of the march. The ayah then exposes the limit of human judgment: a believer may recoil from a thing that brings good, or crave a thing that brings loss, "and Allah knows and you do not know."
 
-**From the Sunnah:** Fighting is ordained for you (Muslims) though you dislike it, and it may be that you dislike a thing which is good for you and that you like a thing which is bad for you. In this Ayah, Allah made it obligatory for the Muslims to fight in Jihad against the evil of the enemy who transgress against Islam.
+**The scholars**
+Ibn Kathir explains that here Allah made it obligatory for the Muslims to fight against the enemy who transgresses against Islam, and cites Az-Zuhri that jihad is required of every person — whoever stays behind must still give support, aid, or march forth when commanded. He reads "good for you" as the victory, dominance over the enemy, and taking over their lands, money, and offspring that follow fighting, and "bad for you" as refraining from jihad, which may let the enemy seize the land and the government; the closing words mean Allah has better knowledge of how things end and of what benefits us in this life and the Hereafter, so we must obey His command. Maarif ul Quran clarifies that this duty is not absolute on every individual (Fard ʿAyn) but Fard ʿala al-Kifayah — if a sufficient group discharges it, the rest are absolved, though if none stands forward all fall into sin; it grounds this in 4:95 (good promised even to those who sit back with excuse) and 9:122 (some study religion while others fight). It adds that while jihad is Fard Kifayah, children may not go without their parents' permission and a debtor may not go until his debt is cleared — yet once the Imam issues a general call (9:38) or the enemy invades, jihad becomes Fard ʿAyn and no such condition remains. Maarif closes that human intelligence fails again and again — everyone can recall pursuing a "benefit" that harmed them or avoiding a "harm" that proved a blessing — so the apparent loss of life and wealth in Allah's way will be unveiled as the ultimate gain and a source of eternal peace.
+
+**From the Sunnah**
+Whoever dies having neither fought in Allah's cause nor sincerely intended to fight dies upon a trait of pre-Islamic ignorance (Jahiliyyah) — the duty of jihad must at least live in the heart's resolve. (Sahih, as cited by Ibn Kathir)
+
+**From the Sunnah**
+A man sought permission for jihad; the Prophet ﷺ asked if his parents were alive, and being told yes, said: go serve your parents and earn the reward of jihad. Maarif notes this also tells us jihad is Fard ʿala al-Kifayah, for the priority of serving living parents could not stand if every individual were bound to fight. (al-Bukhari and Muslim)
+
+**Reflection**
+The hardest obedience is the kind that overrides your own reading of your interests. Notice where you are quietly negotiating with a command of Allah because it costs you — and there, hand your calculation back to the One who knows the ending you cannot see, trusting that what looks like loss is being written as your truest gain.
 ## Personal Reflections
 
 

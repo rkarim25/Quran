@@ -172,11 +172,15 @@ They ask you what they should spend. Say, "Whatever good you spend is for parent
 
 ## AI Tafsir
 
-**Context:** Muqatil bin Hayyan said that this Ayah was revealed about the voluntary charity. The Ayah means, 'They ask you (O Muhammad ﷺ) how they should spend,' as Ibn 'Abbas and Mujahid have stated.
+**Essence** When the believers asked what to give, Allah answered first *where* it should go — parents, kin, orphans, the poor, and the stranded traveller — placing the recipient ahead of the amount.
 
-**What this ayah teaches:** The Qur'anic answer to the first question shows that the second part of the question, that is, where should they spend, has been given more importance and answered frontally and clearly. Another rule of conduct which emerges from this verse is that even the gift given or food served to parents and other near of kin, if the intention is to obey Allah Almighty in doing so, will be included under spe…
+**What it teaches** The ayah answers a real question the Companions put to the Prophet ﷺ about charity (infaq). That question had two parts — *what* to spend and *where* — yet Allah answers the "where" frontally, naming the categories: parents, near relatives, orphans, the poor (*masakin*), and the wayfarer (*ibn al-sabil*). The "what" He leaves open, treating it as a corollary: spend whatever *khayr* (good, wealth) you can. The verse then closes, "Allah is All-Aware (*Alim*) of it" — every good act is fully known and perfectly rewarded.
 
-**Classical tafsir:** Ibn Kathir notes: Anyway, what has to be realized is that the religious injunctions described in this section as answers to some questions asked by the noble Companions carry a significance of their own.
+**The scholars** Per the source, Muqatil bin Hayyan held this ayah concerns voluntary charity, and Ibn 'Abbas and Mujahid read the question as "how they should spend," which Allah clarified by naming the recipients. Maarif ul Quran traces the question to 'Amr ibn Jamuh and the Muslims generally, and notes that no fixed amount is imposed, since "whatever you spend in accordance with your capability will become deserving of a matching reward with Allah." Maarif clarifies these verses address voluntary charity (*sadaqat al-nafilah*), not the fixed obligation of zakah — which is why parents may be recipients here though zakah to parents is not permitted; it adds that even a gift or food given to parents and near kin, when intended to obey Allah, counts as spending in His way and earns reward. Maarif also cautions (with verse 219's "the surplus," *al-'afw*) that one should give what is extra to one's needs, not harm one's own family or neglect debts. Ibn Kathir relays Maymun bin Mihran's reflection on reciting this ayah: "These are the areas of spending. Allah did not mention among them the drums, pipe, wooden pictures, or the curtains that cover the walls" — charity belongs to people in need, not idle luxuries. He reads the closing words to mean Allah "will reward you for them in the best manner, no one will be dealt with unjustly, even the weight of an atom."
+
+**From the Sunnah** Charity is ranked by nearness of kin: give first to your mother, father, sister, and brother, then to the closest and then the farthest relatives. (cited as a Hadith by Ibn Kathir)
+
+**Reflection** Begin your giving at home — honour parents and kin first — and spend freely from your surplus, certain that Allah sees and rewards every atom of good.
 ## Personal Reflections
 
 
