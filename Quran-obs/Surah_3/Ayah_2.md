@@ -139,11 +139,17 @@ Allah—there is none worthy of worship except Him, the Ever-Living, the All-Sus
 
 ## AI Tafsir
 
-**Context:** Surah Āl-'Imrān was revealed in Al-Madinah, as evident by the fact that the first eighty-three Ayat in it relate to the delegation from Najran that arrived in Al-Madinah on the ninth year of Hijrah (632 CE).
+**Essence**
+True worship is owed to none but Allah — and reason itself confirms it: only the Ever-Living who never dies and the Self-Sustaining who needs nothing can rightly be the object of worship.
 
-**What this ayah teaches:** The only Being worthy of worship is the One who has always been Alive and Present and shall always live and sustain.
+**What it teaches**
+The verse proclaims pure tawhid: "La ilaha illa Huwa" — there is absolutely nothing worthy of worship except Allah. Two of His names ground this declaration: al-Hayy, the Ever-Living, and al-Qayyum, the One who subsists by Himself and sustains everything else in existence.
 
-**Classical tafsir:** Ibn Kathir notes: This is because of the indications, signs, plain evidences and clear proofs that it contains, and because of its explanations, clarifications, etc.
+**The scholars**
+Ibn Kathir notes that Allah's Greatest Name is contained in this ayah together with Ayat al-Kursi [2:255], and defers the full meaning of "al-Hayy al-Qayyum" to his Tafsir of that verse. Maarif ul Quran draws a rational proof of Allah's Oneness from these two names: worship means presenting oneself in utter submission and humility, which is owed only to the One who occupies the highest point of honor and power and is most perfect from every angle. Anything that cannot bring itself into being or sustain its own existence — whether idols carved in stone, water, trees, or even angels and prophets — depends on another and so holds no honor or power in its own right; none of them is worthy of worship. The only Being worthy of worship is the One who has always been Alive and Present and shall always live and sustain — and such a Being is none but Allah. Maarif notes this is the rational proof, while the next verse supplies the reported proof from revelation.
+
+**Reflection**
+Notice where you turn in fear, need, or longing. If it is toward anything that cannot hold even its own existence in place, your heart has misjudged where true power lies — turn it back to the One upon whom all things depend.
 ## Personal Reflections
 
 

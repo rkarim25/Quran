@@ -124,13 +124,13 @@ These opening letters—known as the muqatta'at—are among the signs whose full
 
 ## AI Tafsir
 
-**Context:** Surah Āl-'Imrān was revealed in Al-Madinah, as evident by the fact that the first eighty-three Ayat in it relate to the delegation from Najran that arrived in Al-Madinah on the ninth year of Hijrah (632 CE).
+**Essence** Alif-Lam-Mim: opening letters set at the threshold of the surah, their full meaning kept with Allah, declaring that what follows is sent down from Him and not authored by any human hand.
 
-**What this ayah teaches:** La ilaha illa Huwa, Al-Hayyul-Qayyum) in the Tafsir of Ayat Al-Kursi.
+**What it teaches** These are the muqatta'at, the disconnected letters that open the surah. Ibn Kathir does not unpack them here; he refers their explanation back to the opening of Surat Al-Baqarah, where the scholars' views are set out, and he turns instead to the ayat joined to them — noting that they hold Allah's Greatest Name. The letters thus open the Book on a note of awe: their sense rests with Allah, and the reader is drawn straight to His declaration of Oneness.
 
-**Classical tafsir:** Ibn Kathir notes: This is because of the indications, signs, plain evidences and clear proofs that it contains, and because of its explanations, clarifications, etc.
+**The scholars** Ibn Kathir reports that Surah Al-'Imran was revealed in Al-Madinah, the first eighty-three ayat relating to the delegation from Najran that arrived in the ninth year of Hijrah; he refers the explanation of Alif-Lam-Mim back to the opening of Surat Al-Baqarah, and observes that Allah's Greatest Name is contained in the two ayat joined to these letters — "Allah! None has the right to be worshipped but He, the Ever Living (Al-Hayy), the One Who sustains and protects all that exists (Al-Qayyum)." Maarif ul Quran explains that these opening verses establish tawhid, the Oneness of Allah, the basic dividing line between belief and disbelief: it traces the "golden chain" of some one hundred and twenty-four thousand prophets — from Adam, Nuh, Ibrahim and Musa to 'Isa and finally Muhammad al-Mustafa (peace be upon him) — who, though born centuries apart in different lands and tongues with no means of contact, all subscribed to the same principle of tawhid, the one call to worship Allah alone.
 
-**From the Sunnah:** Since the prayer was made in order that Muslims could confront and prevail over the those who reject the truth, it was in consonance with that prayer that, in the following Surah 'Al-` Imran, the text deals with the modalities of dealing with those who reject the truth, as well as, with…
+**Reflection** What Allah kept with Himself, leave with Him in trust; what He made plain — His sole right to be worshipped — let it claim your heart at once, before the first command is read.
 ## Personal Reflections
 
 

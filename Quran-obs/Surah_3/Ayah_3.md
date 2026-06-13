@@ -156,11 +156,13 @@ He has revealed to you the Book in truth, confirming what came before it, as He 
 
 ## AI Tafsir
 
-**Context:** Surah Āl-'Imrān was revealed in Al-Madinah, as evident by the fact that the first eighty-three Ayat in it relate to the delegation from Najran that arrived in Al-Madinah on the ninth year of Hijrah (632 CE).
+**Essence** Allah Himself sent down the Qur'an to His Prophet in truth, confirming — not contradicting — the genuine Torah and Injil He revealed before it.
 
-**What this ayah teaches:** It is He Who has sent down the Book to you with truth, confirming what came before it. None has the right to be worshipped but He, the Ever Living, the One Who sustains and protects all that exists.)(3.
+**What it teaches** The verb nazzala ("He sent down") affirms that the Qur'an is revelation from Allah, given bil-haqq ("with truth") — leaving no room for doubt or suspicion that it came from Him — and that it is muṣaddiq, confirming the genuine, original Books (the Tawrah given to Musa and the Injil given to 'Isa, peace be upon them). Because the One who revealed those earlier Scriptures revealed this one, the message of tawhid (Allah's Oneness) is one continuous truth, not a novel claim.
 
-**Classical tafsir:** Ibn Kathir notes: None has the right to be worshipped but He, the Ever Living, the One Who sustains and protects all that exists.)(3.
+**The scholars** Ibn Kathir explains that "sent down the Book to you with truth" means the Qur'an was revealed to Muhammad with Allah's own knowledge, the angels testifying to it, and "Allah is sufficient as a Witness." "Confirming what came before it" means the earlier revealed Books testify to the Qur'an's truth, while the Qur'an testifies to the truth those Books contained — including the news and glad tidings of Muhammad's prophethood and of the revelation of the Glorious Qur'an. The Tawrah was sent to Musa son of 'Imran and the Injil to 'Isa son of Mary, before the Qur'an, as guidance for mankind in their time. Maarif ul Quran adds that this verse is the reported proof of Allah's Oneness: tawhid is not peculiar to the Qur'an or the Prophet of Islam — every Scripture and prophet professed and brought it, and the Qur'an simply confirmed their truth without raising any new claim hard to accept. The Context note clarifies that "Torah and Injil" mean the original revealed Books, not to be confused with the present Old and New Testaments.
+
+**Reflection** Hold to the Qur'an knowing it carries the one unbroken message of every prophet — and let that certainty deepen your worship of the One it points to.
 ## Personal Reflections
 
 

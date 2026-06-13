@@ -186,11 +186,23 @@ He has revealed to you the Book in truth, confirming what came before it, as He 
 
 ## AI Tafsir
 
-**Context:** Surah Āl-'Imrān was revealed in Al-Madinah, as evident by the fact that the first eighty-three Ayat in it relate to the delegation from Najran that arrived in Al-Madinah on the ninth year of Hijrah (632 CE).
+**Essence**
 
-**What this ayah teaches:** And He sent down the Tawrah and the Injil,)(4. La ilaha illa Huwa, Al-Hayyul-Qayyum) in the Tafsir of Ayat Al-Kursi.
+Revelation is one continuous project: the same truth Allah sent through the Torah and the Injil He has now sent down as the Furqan, the Criterion that severs truth from falsehood. To reject His signs, then, is to defy not one book but the whole chain — and the rejecter meets the All-Mighty, the Master of retribution.
 
-**Classical tafsir:** Ibn Kathir notes: And He sent down the Tawrah and the Injil,)(4.
+**What it teaches**
+
+The ayah completes 3:3. The Tawrah and the Injil were sent "min qablu" — before the Qur'an — as "hudan lil-nas," guidance for mankind in their time. Allah then "sent down the Furqan," the Criterion. It closes with a warning: those who reject Allah's "ayat" — His signs and revealed verses — earn a severe torment, for Allah is 'Aziz (All-Mighty) and Dhu Intiqam (Master of retribution).
+
+**The scholars**
+
+Ibn Kathir defines the Furqan as "the distinction between misguidance, falsehood and deviation on one hand, and guidance, truth and piety on the other," and explains why revelation earns this name: "because of the indications, signs, plain evidences and clear proofs that it contains, and because of its explanations, clarifications." To "disbelieve in the Ayat of Allah" is to have "denied, refused and unjustly rejected them"; the severe torment falls "on the Day of Resurrection." He reads the two closing Names as paired: 'Aziz means "His grandeur is invincible and His sovereignty is infinite," while Dhu Intiqam means He takes retribution "from those who reject His Ayat and defy His honorable Messengers and great Prophets."
+
+Maarif ul Quran draws the unifying thread: tawhid is not peculiar to the Qur'an — Allah sent the same message through the Torah, the Injil, and the earlier prophets, so "when the Qur'an came, it simply confirmed their truth," posing no new claim hard to accept. The closing attributes — "encompassing knowledge and unlimited power" — are themselves "strong proofs" that Allah alone deserves worship, since one "having imperfect knowledge and limited power cannot be entrusted with this exalted station." Maarif cautions that "Torah and Injil" here mean the original books revealed to Musa and 'Isa (peace be upon them), not the present Old and New Testaments.
+
+**Reflection**
+
+You stand at the end of one unbroken chain of guidance, not the start of a new one. Honour the Criterion as the seal of everything Allah sent before it — and weigh what it means to brush aside signs that Torah, Injil, and Qur'an alike were sent to deliver, before the All-Mighty who does not let such rejection pass.
 ## Personal Reflections
 
 
