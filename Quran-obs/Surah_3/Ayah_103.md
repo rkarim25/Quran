@@ -392,13 +392,15 @@ And hold firmly to the rope of Allah and do not be divided. Remember Allah’s f
 
 ## AI Tafsir
 
-**Context:** This was revealed about the Aws and Khazraj. During the time of Jahiliyyah, the Aws and Khazraj were at war and had great hatred, enmity and ill feelings towards each other, causing long conflicts and battles to occur be…
+**Essence** Grasp the one rope Allah extends — His revealed covenant — together as one body, for the brotherhood that replaced your ancient enmity was never your achievement but His pure gift.
 
-**What this ayah teaches:** Activating mutual love and consideration in the hearts of a people is purely a Divine blessing.
+**What it teaches** "Hold fast" (iʿtaṣimū) to the "rope of Allah" (ḥabl Allah) commands a firm, deliberate grip — like a climber clinging to a strong rope to be saved from falling — while "do not be divided" (lā tafarraqū) forbids the splintering that destroys a nation. The remembered "favour" (niʿma) is that Allah, the Master of hearts, fused enemies into brothers, snatching them from "the brink of a fiery pit" (shafā ḥufratin min al-nār) — the edge of ruin their disbelief had brought them to.
 
-**Classical tafsir:** Ibn Kathir notes: Did I not find you misguided and Allah directed you to guidance because of me?
+**The scholars** Ibn Kathir notes that one view was that the "rope of Allah" refers to Allah's covenant (compare 3:112, on pledges and treaties), and that "do not be divided" orders clinging to the Jamaʿah — the community of believers — and forbids division. Maarif ul Quran, citing Ibn Kathir, narrows the "cord" to the Qur'an itself: in the hadith of Ibn Masʿud the Prophet ﷺ said "The Book of Allah is the cord of Allah, extended from the heavens to the earth," and Zayd ibn Arqam reported "The cord of Allah is the Qur'an." The metaphor runs two ways: the cord links the believer upward to his Lord and binds believers together into one body. Its central insight is that unity needs a centre, and only a divinely-revealed one can be universal: race, tribe, colour, and language no one chooses and no one can change — a Qurayshi cannot become a Tamimi, a black man white — so they can never gather all humanity; but the revealed way of life anyone may freely adopt, whatever his race or tongue. Thus the Qur'an "made the Book of Allah the basis of unity." On the union of hearts, both works ground the verse in the Aws and Khazraj, generations of bloodshed dissolved by Islam; Ibn Kathir cites 8:62-63: "If you had spent all that is in the earth, you could not have united their hearts, but Allah has united them." Maarif concludes that Allah alone activates mutual love in hearts, a blessing earned only through obedience to Him — so lasting Muslim unity depends on submission to Allah. It adds that honest difference among the learned over subsidiary matters, while all stay anchored to the Qur'an and the Prophet's ﷺ explanation, is natural and was called a "mercy"; blameworthy division is abandoning the Qur'an for one's own whims.
 
-**From the Sunnah:** Have Taqwa of Allah as is His due, and die not except as (true) Muslims (102)And hold fast, all of you together, to the Rope of Allah, and be not divided among yourselves, and remember Allah's favor on you, for you were enemies of one another but He joined you… Ibn Abi Hatim recorded that 'Abdullah bin Mas'ud commented on the Ayah,
+**From the Sunnah** The Messenger of Allah ﷺ said that Allah is pleased you should worship Him alone without partners, hold on to the rope of Allah all together and not divide, and give sincere counsel to whoever Allah appoints over your affairs; and He is displeased by idle talk, excessive questioning, and wasting wealth. (Muslim)
+
+**Reflection** Take your stand on the Book of Allah rather than on tribe, party, or pride — and guard the bond of brotherhood as a trust from the One who alone joins hearts.
 ## Personal Reflections
 
 

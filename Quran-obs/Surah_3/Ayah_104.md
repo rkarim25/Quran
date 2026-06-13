@@ -298,11 +298,15 @@ Let there be a group among you who call to goodness, encourage what is good, and
 
 ## AI Tafsir
 
-**What this ayah teaches:** The nature of this obligation requires that one bid the Fair and forbid the Unfair in what is necessary; this would be obligatory.
+**Essence** A community is only whole when, alongside correcting itself, it lovingly calls others to good, commands what is right, and forbids what is wrong — and these are the truly successful.
 
-**Classical tafsir:** Ibn Kathir notes: It is quite possible that such a person may, because of his lack of knowledge, forbid something Fair or bid something Unfair.
+**What it teaches** The ayah commands that a group (ummah) arise who call to al-khayr — "the good," which the Prophet ﷺ defined as following the Qur'an and his Sunnah (Maarif, citing Ibn Kathir) — enjoining al-ma'ruf (everything Islam recognizes as right) and forbidding al-munkar (everything it declares wrong). Falah (success) is tied to this active concern that one's brothers and sisters in faith stay upon the truth.
 
-**From the Sunnah:** The objective of this Ayah is that there should be a segment of this Muslim Ummah fulfilling this task, even though it is also an obligation on every member of this Ummah, each according to his ability. (Sahih Muslim) this Hadith and said, "Hasan". (Jami' at-Tirmidhi)
+**The scholars** Ibn Kathir explains that while a dedicated group must shoulder this mission, it remains an obligation on every member of the Ummah, each according to his ability; ad-Dahhak said "they" are a special group of the Companions and those after them — the people of jihad and the scholars. Maarif ul Quran frames it as the second pillar of the community's well-being (the first being self-correction through taqwa and holding fast to the "cord of Allah"), citing Surah al-'Asr's mutual exhortation to truth and patience (sabr); it stresses that the caller must first possess sound knowledge of ma'ruf and munkar, must begin with gentleness, and should confine the duty to what the whole Ummah agrees is right or wrong rather than disputed points of ijtihad. Ibn Jarir reports the Prophet ﷺ recited this verse and said the special group meant the noble Companions, since each considered himself personally charged with calling people to good.
+
+**From the Sunnah** Whoever among you sees an evil, let him change it with his hand; if unable, then with his tongue; if unable, then with his heart — and that is the weakest of faith. (Sahih Muslim)
+
+**Reflection** Guard your own faith, then carry it outward — speak good gently where you can, and let no evil before your eyes pass without at least your heart rejecting it.
 ## Personal Reflections
 
 
