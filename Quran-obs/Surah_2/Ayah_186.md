@@ -170,13 +170,17 @@ When My servants ask you about Me — I am near. I respond to the caller when he
 
 ## AI Tafsir
 
-**Context:** By saying إِنِّي قَرِ‌يبٌ (I am near) in this verse, it has been hinted that prayer should be made slowly and quietly; to raise voice while praying is not desirable.
+**Essence** Allah Himself answers the question of His servants: He is near, He hears every call, and He responds — so call upon Him alone, with quiet trust and obedience.
 
-**What this ayah teaches:** The One Whom you call is closer to one of you than the neck of his animal.
+**What it teaches** Allah declares "innī qarīb" (I am truly near) — and the mufassirun explain this as nearness by His knowledge and His responsiveness, affirmed without likening Him to creation and without denying any attribute. He adds "ujību daʿwata l-dāʿi" (I respond to the supplicant when he calls), without any mediator or intercessor. The closing command, "let them respond to Me and believe in Me," makes du'a inseparable from obedience and īmān, so that the servant "may be led aright" (yarshudūn).
 
-**Classical tafsir:** Ibn Kathir notes: So let them obey Me and believe in Me, so that they may be led aright .
+**The scholars** Ibn Kathir explains "I am near" as nearness by Allah's knowledge, and "I respond to the invocations of the supplicant when he calls on Me" as response without any mediator or intercessor. Maarif ul Quran notes the placement: this brief verse sits in the middle of the fasting injunctions to persuade Allah's servants to bear the hardship of fasting by recognizing that, in His special grace, He hears and answers their prayers and takes care of what they need. Ibn Kathir adds a further wisdom — that the verse hints the du'a made at the completion of a fast is accepted, which is why the Companion Abdullah ibn 'Umar would gather his family at iftar to pray. From "innī qarīb" the scholars also draw a ruling: prayer should be made quietly and humbly, not with raised voices — confirmed by the occasion of revelation, when a villager asked the Prophet (peace be upon him) whether their Lord was near (so they would lower their voices) or far (so they would call out), and this verse was sent down in answer.
 
-**From the Sunnah:** This Hadith was also recorded in the Two Sahihs, and Abu Dawud, An-Nasa'i, At-Tirmidhi and Ibn Majah recorded similar wordings. (Musnad Ahmad, Jami' at-Tirmidhi) Abu Sa'id saying that the Prophet ﷺ said: (Musnad Ahmad)
+**From the Sunnah** On a journey the Companions raised their voices in takbir, and the Prophet (peace be upon him) taught them that the One they call is nearer than the neck of a man's own mount, so they should be gentle with themselves — for they call One who is All-Hearing, All-Seeing, not deaf or absent. (Musnad Ahmad; also the Two Sahihs)
+
+On the answering of du'a: no Muslim makes a supplication free of sin or severing kinship except that Allah gives him one of three — He hastens the answer, stores it for the Hereafter, or turns away an equal measure of harm; and when they said they would ask much, He replied that with Allah there is more. (Musnad Ahmad)
+
+**Reflection** Never write off a du'a as "unanswered": the One who is near is already responding in the way that is best for you — hastening it, saving it for the Hereafter, or shielding you from a harm you never saw.
 ## Personal Reflections
 
 

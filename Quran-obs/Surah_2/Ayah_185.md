@@ -388,13 +388,17 @@ Ramadan is the month in which the Quran was sent down as guidance for humanity w
 
 ## AI Tafsir
 
-**Context:** Allah praised the month of Ramadan out of the other months by choosing it to send down the Glorious Qur'an, just as He did for all of the Divine Books He revealed to the Prophets.
+**Essence** Ramadan is the month Allah honored above all others by sending down the Qur'an, so its days of fasting are an obligation woven through with mercy — ease for the weak, completion and gratitude for all.
 
-**What this ayah teaches:** So whoever of you sights (the crescent on the first night of) the month (of Ramadan, i.e., is present at his home), he must observe Sawm (fasting) that month, and whoever is ill or on a journey, the same number [of days which one did not observe Sawm (fasting) must be made up] from other days.
+**What it teaches** Allah ties the duty of fasting to the supreme honor of this month: it is when He revealed the Qur'an as *hudan li'l-nas* (guidance for mankind), with *bayyinat* (clear proofs) and as the *Furqan* — the Criterion that separates truth from falsehood, lawful from forbidden. Whoever is present and able must fast the month; the ill and the traveler are granted relief but make up the same number of days. The verse closes by commanding *takbir* (magnifying Allah for His guidance) and *shukr* (gratitude) once the worship is complete.
 
-**Classical tafsir:** Ibn Kathir notes: The sentence, therefore, means that it is obligatory for one who is 'present' in the month of Ramadan that he fasts throughout that month.
+**The scholars** Ibn Kathir explains that Allah praised Ramadan by choosing it to send down the Qur'an, just as He revealed all the Divine Books in this month. He notes that this ayah made fasting binding on the resident, healthy person and **abrogated** the earlier choice between fasting and paying *fidyah* (ransom), then re-affirmed the concession for the sick and traveler — granted "out of His mercy and to make matters easy for them" — so no one would think it too had been cancelled. "He wants you to complete the number" means: you were permitted to break the fast out of mercy, but you make up the days so a full month is fulfilled; and "magnify Allah for guiding you" means to remember Allah after completing the worship — several scholars derived from this the *takbir* of 'Id al-Fitr. Maarif ul Quran adds that "witnessing" the month means finding Ramadan with the ability to fast — being Muslim, sane, mature, resident, and pure — so the disbeliever, child, and insane are not addressed by the command (a matter of legal capacity), while one excused by menstruation, childbed, illness, or travel still owes *qada'* (making up) later.
 
-**From the Sunnah:** The authentic Sunnah states that Allah's Messenger (ﷺ) traveled during the month of Ramadan for the battle for Makkah.
+**From the Sunnah — the concession** On fasting while traveling, the Prophet ﷺ taught that taking the concession is good and that fasting carries no blame — confirming the ayah's intent of ease, not hardship. (Ibn Kathir reports these as the Messenger's ﷺ words on fasting while traveling, without naming a collection.)
+
+**From the Sunnah — the spirit of ease** The Prophet ﷺ commanded that people be treated with ease and never burdened to the point of aversion — the living spirit of "Allah intends for you ease." (Imam Ahmad, also in the Two Sahihs — Anas ibn Malik, as cited by Ibn Kathir)
+
+**Reflection** Receive Ramadan as a gift, not a burden — fast with resolve, take Allah's concessions without guilt, and close every act of worship with takbir and thanks for the guidance He alone gave you.
 ## Personal Reflections
 
 
