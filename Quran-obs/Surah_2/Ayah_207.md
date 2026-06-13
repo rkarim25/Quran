@@ -220,11 +220,15 @@ And among people is one who sells his soul seeking Allah's pleasure. Allah is ge
 
 ## AI Tafsir
 
-**Context:** As-Suddi said that these Ayat were revealed about Al-Akhnas bin Shariq Ath-Thaqafi who came to Allah's Messenger ﷺ and announced his Islam although his heart concealed otherwise.
+**Essence** Against the hypocrite who flatters with his tongue while plotting in his heart, Allah praises the sincere believer who sells his very self to purchase the pleasure of his Lord.
 
-**What this ayah teaches:** And of mankind there is he whose speech may please you (O Muhammad ﷺ), in this worldly life, and he calls Allah to witness as to that which is in his heart, yet he is the most quarrelsome of the opponents (204)And when he turns away (from you O Muhammad ), his effort in the land is to make mischief therein and to destroy the crops and the cattle, and Allah likes not mischief (2…
+**What it teaches** To "sell himself" (yashri nafsahu) is to surrender one's life and wealth as the price for ibtigha'a mardatillah, the seeking of Allah's pleasure, holding nothing back. The verse seals this with Allah's name Ra'uf, full of tender kindness toward al-'ibad, His servants: He is ever Most Kind to the one who gives everything for Him.
 
-**Classical tafsir:** Ibn Kathir notes: The Characteristics of the Hypocrites As-Suddi said that these Ayat were revealed about Al-Akhnas bin Shariq Ath-Thaqafi who came to Allah's Messenger ﷺ and announced his Islam although his heart concealed otherwise.
+**The scholars** Ibn Kathir explains that after exposing the hypocrites' evil traits, Allah here mentions the good qualities of the believers. Ibn 'Abbas, Anas, Sa'id bin Musayyib, Abu 'Uthman An-Nahdi, 'Ikrimah and others said it was revealed about Suhayb bin Sinan Ar-Rumi: when he became Muslim in Makkah and set out to migrate, Quraysh barred him until he surrendered all his money, and he gladly abandoned his wealth to keep his faith. Qatadah, Mujahid and Ar-Rabi' bin Anas held it describes the sincere believers in general, which Ibn Kathir calls correct, adding that its meaning includes every Mujahid in the way of Allah and linking it to 9:111, where Allah has purchased the believers' lives and properties for Paradise. Maarif ul Quran notes it honours the Companions who offered unmatched sacrifices, and that the report about Suhayb is narrated by Hakim, Ibn Jarir and Ibn Abi Hatim with sound authorities.
+
+**From the Sunnah** When Suhayb reached the outskirts of Madinah safely after giving up his property, 'Umar bin Khattab and other Companions met him at Al-Harrah and greeted him, "The trade has indeed been successful." It was also reported that the Prophet ﷺ said, "The trade has been successful, O Suhayb!" (Ibn Kathir's Tafsir). In Maarif ul Quran's narration, Suhayb recounted the event to the Prophet ﷺ, who said twice, "Profitable was your deal, Abu Yahya!" (narrated by Hakim, Ibn Jarir and Ibn Abi Hatim)
+
+**Reflection** Weigh what you cling to against the pleasure of Allah, and like Suhayb, let it go knowing the trade is never a loss.
 ## Personal Reflections
 
 

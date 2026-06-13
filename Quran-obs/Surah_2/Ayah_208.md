@@ -156,11 +156,21 @@ O believers — enter into submission wholeheartedly and do not follow Satan's f
 
 ## AI Tafsir
 
-**What this ayah teaches:** Entering Islam in its Entirety is obligated Allah commands His servants who believe in Him and have faith in His Messenger ﷺ to implement all of Islam's legislation and law, to adhere to all of its commandments, as much as they can, and to refrain from all of its prohibitions.
+**Essence**
+O believers, surrender to Allah completely — enter Islam as one whole, undivided life, and let no foothold remain for Shaytan, your open enemy.
 
-**Classical tafsir:** Ibn Kathir notes: Enter Silm perfectly) refers to the believers among the People of the Scripture.
+**What it teaches**
+Allah commands those who believe in Him and His Messenger ﷺ to enter "al-Silm" — which here means Islam — "kaffah," that is, totally and universally: to implement all of its legislation as much as one is able and to refrain from all it forbids. To "follow the footsteps of Shaytan" is to do what he commands; and Allah grounds the warning in His own words — Shaytan "commands you only what is evil and Fahsha'" (2:169) and "only invites his followers that they may become dwellers of the blazing Fire" (35:6). Hence he is named "an open enemy" (ʿaduww mubin).
 
-**From the Sunnah:** The gist of the two approaches given above is that no Muslim shall be deserving of calling himself a Muslim unless he accepts all Islamic injunctions truly and sincerely from the deep recesses of his heart, irrespective of the department of life they belong to… (Sahih Muslim) The background of the verse's revelation mentioned earlier in the introductory remarks also shows that one must keep nothing but the teachings of Islam in sight, practice it
+**The scholars**
+Ibn Kathir reports that Ibn 'Abbas (via Al-'Awfi), Mujahid, Tawus, Ad-Dahhak, 'Ikrimah, Qatadah, As-Suddi and Ibn Zayd all read "al-Silm" as Islam, and that "kaffah" means "in its entirety" — likewise the Tafsir of Abu Al-'Aliyah, Ar-Rabi' bin Anas and Muqatil bin Hayyan. Mujahid added that the Ayah is "especially addressed to those from among the People of the Scripture who embraced the faith." Per Ibn Abu Hatim, Ibn 'Abbas said it refers to the believers among the People of the Scripture, who, having believed in Allah, still clung to parts of the Tawrah; Allah commands them to embrace Muhammad's ﷺ religion whole and abandon none of it.
+
+Maarif ul Quran relates the occasion of revelation: the blessed Companion 'Abdullah ibn Salam and other former Jewish scholars, out of inadvertent zeal, thought to fuse the two faiths — honouring the Sabbath and avoiding camel-meat while in Islam — imagining this stronger obedience; Allah corrects this, for to take what Islam does not require as part of the Faith is a "Satanic slip" that may bring far severer punishment than common sins. Maarif gives "kaffah" a dual grammatical reading: as a hal of the believer (the whole person — hands, feet, eyes, ears, heart and mind — within Islam, never outward conformity without the heart, nor a satisfied heart without practice), and as a hal of Islam itself (received as one organic, indivisible system spanning worship, dealings, business, politics and all of life). Its Special Note warns sternly against those who confine religion to the mosque and ritual while neglecting social rights and transactions.
+
+On 2:209, Ibn Kathir explains that if one slides back after the clear proofs, Allah is "All-Mighty" — none escapes His vengeance — and "All-Wise"; Abu Al-'Aliyah, Qatadah and Ar-Rabi' bin Anas said, "He is Mighty in His vengeance, Wise in His decision." On Allah's "coming in canopies of clouds" on the Day of Judgment, Maarif notes this is among the Mutashabihat: the way of the Companions and the Salaf is to affirm its truth and leave the "how," for the reality of Allah's Being and Attributes is beyond human reason.
+
+**Reflection**
+The subtlest danger is not open sin but disguised excess — a "footstep" that looks like extra devotion yet quietly carves your din into pieces you keep and pieces you set aside. Watch the seams where you privately exempt yourself: the dealing, the debt, the tongue. Surrender there too, and the enemy finds no crack to enter.
 ## Personal Reflections
 
 

@@ -232,11 +232,21 @@ When he turns away, he strives through the land to spread corruption, ruin crops
 
 ## AI Tafsir
 
-**Context:** As-Suddi said that these Ayat were revealed about Al-Akhnas bin Shariq Ath-Thaqafi who came to Allah's Messenger ﷺ and announced his Islam although his heart concealed otherwise.
+**Essence**
 
-**What this ayah teaches:** And of mankind there is he whose speech may please you (O Muhammad ﷺ), in this worldly life, and he calls Allah to witness as to that which is in his heart, yet he is the most quarrelsome of the opponents (204)And when he turns away (from you O Muhammad ), his effort in the land is to make mischief therein and to destroy the crops and the cattle, and Allah likes not mischief (2…
+When the smooth-tongued hypocrite turns his back, he races through the land to spread corruption and to destroy crops and offspring — and Allah does not love corruption.
 
-**Classical tafsir:** Ibn Kathir notes: The Characteristics of the Hypocrites As-Suddi said that these Ayat were revealed about Al-Akhnas bin Shariq Ath-Thaqafi who came to Allah's Messenger ﷺ and announced his Islam although his heart concealed otherwise.
+**What it teaches**
+
+Following on from the hypocrite of 2:204 whose speech pleases yet whose heart conceals disbelief, this ayah exposes his true conduct: once out of sight (tawalla, "turns away"), he strives (sa'a) to spread fasad (corruption/mischief) and to ruin al-harth wa al-nasl — the crops and the progeny (offspring), the very means people depend on for their livelihood. The closing words, "Allah does not love al-fasad," declare that He does not love such corruption, nor those who possess these traits or act this way.
+
+**The scholars**
+
+Ibn Kathir reports that As-Suddi held these verses were revealed about Al-Akhnas bin Shariq Ath-Thaqafi, who professed Islam while his heart concealed otherwise; Ibn 'Abbas linked them to hypocrites who criticized Khubayb and his companions slain at the Raji' incident. Qatadah, Mujahid, and Ar-Rabi' bin Anas held the verses describe hypocrites and believers in general — Ibn Kathir calls this correct. He says such people are deviant in the tongue, evil in deed, fabricated in word, wicked in belief, and immoral in works. He notes the verb sa'a ("tries/intends") is the same used of Pharaoh who "turned his back, striving hard against Allah" (79:22). Ibn Kathir cites Mujahid: "If the hypocrite strives for mischief in the land, Allah prevents the rain from falling and thus the crops and the offspring perish." Maarif ul Quran frames the wider passage as contrasting two kinds of worshippers — the hypocritical and the sincere — noting that Akhnas ibn Shurayq, known for his eloquence, would come to the Prophet ﷺ and try to impress him with his sworn allegiance to Islam, only to busy himself with anti-Muslim mischief once he left.
+
+**Reflection**
+
+Guard the gap between your tongue and your deeds: the corruption you scatter out of sight reaches further than you think — like Pharaoh, who "turned his back, striving," the hypocrite's striving is only for ruin, and even the withheld rain can answer for it.
 ## Personal Reflections
 
 
