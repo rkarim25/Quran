@@ -122,13 +122,13 @@ Say, “O People of the Book! Why do you turn those who have iman away from the 
 
 ## AI Tafsir
 
-**Context:** They took the warning to their hearts. They knew this was a slip caused by شیطان Satan. They embraced each other, wept and repented. These verses were revealed in the background of this event.
+**Essence** Allah rebukes the People of the Book for knowingly barricading the path of faith and twisting it to look crooked, reminding them that He witnesses and never overlooks a single deed.
 
-**What this ayah teaches:** Why do you reject the Ayat of Allah, while Allah is Witness to what you do?
+**What it teaches** *Tasudduna ('an sabil Allah)* means actively turning away and blocking believers from the way of Allah, while *tabghunaha 'iwajan* means scheming to make that straight way appear bent and distorted. The sting of the rebuke is *wa-antum shuhada'* — "while you are witnesses": they do this knowing the truth, so the verse seals with *wa ma Allah bi-ghafilin*, "Allah is never unaware" — every act is seen and will be reckoned.
 
-**Classical tafsir:** Ibn Kathir notes: It means that such a person is on the 'straight path', and being on the 'straight path' is the key to all that is good and beneficial which the Word of Allah promises to him.
+**The scholars** Ibn Kathir explains that here Allah chastises the disbelieving People of the Book for refusing the truth, rejecting Allah's Ayat, and hindering those who seek to believe from His path — though they themselves knew, from the previous Prophets and Messengers (peace be upon them), the glad tidings of the coming of the unlettered, Arab, Hashimi Prophet ﷺ from Makkah, the Final Messenger. Their crime is therefore defiance against knowledge they were entrusted to proclaim. Allah declares Himself Witness over their deeds and warns He will hold them responsible on "the Day whereon neither wealth nor sons will avail" (26:88). Maarif ul Quran sets the verse against a concrete incident: the Jew Shammas ibn Qays, harbouring chronic malice, contrived to reignite the old Aws–Khazraj feud by having their pre-Islamic boasting poetry recited until the two Ansar tribes nearly came to fresh war; the Prophet ﷺ rushed to them, rebuking, "Here I am present amidst you and you are doing this after having become Muslims... Do you want, in this state of yours, to revert to kufr?" — whereupon they wept, embraced, and repented. Maarif notes the eloquence of the rebuke: before being taken to task for misleading others, the People of the Book are confronted with their own disbelief — for it would have been fitter that they themselves embraced the straight path than labour to drag others off it.
 
-**From the Sunnah:** There was a Jew, Shammas ibn Qays, who harboured a chronic malice against Muslims. Here, the verses begin with an admonition to the people of the Book who had engineered this in triage, and this admonition has been done with great eloquence when, before admonishing them for what they did, they were taken to task for their disbelief as well,…
+**Reflection** Guard your tongue and your schemes from anything that turns others away from faith or makes the straight path look crooked — Allah sees, and is never unaware.
 ## Personal Reflections
 
 
