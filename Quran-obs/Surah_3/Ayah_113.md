@@ -155,11 +155,13 @@ Yet they are not all alike: there are some among the People of the Book who are 
 
 ## AI Tafsir
 
-**Context:** Muhammad bin Ishaq and others, including Al-'Awfi who reported it from Ibn 'Abbas, said; "These Ayat were revealed about the clergy of the People of the Scriptures who embraced the faith.
+**Essence** Not all the People of the Book are alike: a faithful remnant among them stands upright, reciting Allah's verses through the night in prostration.
 
-**What this ayah teaches:** For instance, there is 'Abdullah bin Salam, Asad bin 'Ubayd, Tha'labah bin Sa'yah, Usayd bin Sa'yah, and so forth.
+**What it teaches** "Laysū sawā'an" — they are not all the same: after rebuking the disbelievers among the People of the Book, Allah singles out an "ummah qā'imah," an upright, steadfast community who recite His āyāt "ānā'a al-layl" (in the watches of the night) while in sujūd. "Qā'imah" means they stand firm on the truth — implementing the Book of Allah, adhering to His Law, and following His Prophet Muhammad (peace be upon him) — and the following verses round out their portrait: faith in Allah and the Last Day, enjoining good (al-ma'rūf), forbidding evil (al-munkar), and racing toward good works.
 
-**Classical tafsir:** Ibn Kathir notes: 'Ata' said that Sir, means, 'cold and snow.' Ibn 'Abbas and Mujahid are also reported to have said that Sir means, 'fire'.
+**The scholars** Ibn Kathir titles this passage "Virtues of the People of the Scriptures Who Embrace Islam," reporting from Muhammad bin Ishaq and Al-'Awfi from Ibn 'Abbas that it was revealed about the clergy of the People of the Scriptures who embraced the faith — naming 'Abdullah bin Salam, Asad bin 'Ubayd, Tha'labah bin Sa'yah, and Usayd bin Sa'yah. The meaning, he says, is that those whom Allah rebuked earlier are "not at all the same" as those who entered Islam; this upright party "stand for the right" and so are "on the straight path," often standing in night prayer for Tahajjud and reciting the Qur'an within it. Ibn Kathir links them to Allah's words at the end of the Surah (3:199) about those "humbling themselves before Allah," and reads 3:115 — "whatever good they do, nothing will be rejected of them" — to mean that "He will award them the best rewards," for "Allah knows well the Muttaqin." Maarif ul Quran frames the verse as the complementary profile to 3:110: by becoming Muslims they adopted the distinguishing hallmarks of faith that make believers "the best of communities," in contrast to those who clung to disbelief, whose wealth and children cannot save them from the punishment of Allah.
+
+**Reflection** Let the night find you upright before Allah — reciting, prostrating — and trust that no sincere good is ever wasted with Him.
 ## Personal Reflections
 
 

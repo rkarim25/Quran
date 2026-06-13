@@ -172,11 +172,13 @@ Indeed, neither the wealth nor children of those who reject the truth will be of
 
 ## AI Tafsir
 
-**Context:** Muhammad bin Ishaq and others, including Al-'Awfi who reported it from Ibn 'Abbas, said; "These Ayat were revealed about the clergy of the People of the Scriptures who embraced the faith.
+**Essence** No amount of wealth or children can shield the disbelievers from Allah's punishment, for the Fire is their eternal home.
 
-**What this ayah teaches:** For instance, there is 'Abdullah bin Salam, Asad bin 'Ubayd, Tha'labah bin Sa'yah, Usayd bin Sa'yah, and so forth.
+**What it teaches** After praising the believers among the People of the Book, the ayah turns to those who clung to disbelief (kufr): their amwal (wealth) and awlad (children) — the two things people lean on most for security — "lan tughni 'anhum" (will never avail them) "min Allah" (against Allah). Ibn Kathir glosses this as meaning nothing can avert Allah's torment and punishment from striking them, and "khalidun" affirms their abiding in the Fire is permanent, without end.
 
-**Classical tafsir:** Ibn Kathir notes: 'Ata' said that Sir, means, 'cold and snow.' Ibn 'Abbas and Mujahid are also reported to have said that Sir means, 'fire'.
+**The scholars** Ibn Kathir reads 3:116 as the deliberate counterpart to the preceding verses (3:113-115): those believers' good deeds "will not be lost with Allah" and He "knows well the Muttaqin (the pious)," whereas the disbelievers' worldly supports are worthless before Him — the two groups are emphatically "not all alike" (laysu sawa'an). He then ties it to the next ayah's parable (3:117): just as a wind of "Sir" strikes the harvest of a wronging people and destroys it, so Allah destroys the reward of the disbelievers' spending, because neither built their work on firm foundations; "Allah wronged them not, but they wronged themselves." Ibn Kathir reports "Sir" as a frigid wind on the authority of Ibn 'Abbas, 'Ikrimah, Sa'id bin Jubayr, Al-Hasan, Qatadah and others; 'Ata' glossed it as "cold and snow," while Ibn 'Abbas and Mujahid are also reported to have said it means "fire" — readings he notes do not contradict, since extreme cold burns crops as fire does. Maarif ul Quran adds the decisive principle: belief in Islam is a pre-condition for any spending to be accepted with Allah, so the disbelievers' charity is wasted in this world and rewardless in the Hereafter — an injustice they inflict on themselves, since (as reported in ahadith) had they embraced Islam they would, like other Muslims, be compensated by Allah with reward and forgiveness of sins even amid worldly loss.
+
+**Reflection** Anchor your security in faith and taqwa, not in riches or family — for only what is built on belief endures before Allah.
 ## Personal Reflections
 
 

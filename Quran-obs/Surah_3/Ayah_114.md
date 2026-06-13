@@ -159,11 +159,13 @@ They believe in Allah and the Last Day, encourage good and forbid evil, and race
 
 ## AI Tafsir
 
-**Context:** Muhammad bin Ishaq and others, including Al-'Awfi who reported it from Ibn 'Abbas, said; "These Ayat were revealed about the clergy of the People of the Scriptures who embraced the faith.
+**Essence** True faith proves itself in living conviction and tireless action — believing in Allah and the Last Day, calling others to good, restraining evil, and racing to outdo one another in righteousness.
 
-**What this ayah teaches:** This Ayah means that those among the People of the Book whom Allah rebuked earlier are not at all the same as those among them who embraced Islam. Such is the case with the those who reject the truth, for Allah destroys the rewards for their good deeds in this life, just as He destroyed the produce of the sinner because of his sins.
+**What it teaches** This ayah lists the distinguishing hallmarks of true faith: belief in Allah and the Last Day, enjoining al-ma'ruf (the right — all that is good and recognized) and forbidding al-munkar (the wrong — all that is rejected), and yusari'una fi al-khayrat — they hasten, even compete, in good works. By living these, Allah counts them min al-salihin, among the righteous — completing the profile of the believers from the People of the Book begun in 3:113.
 
-**Classical tafsir:** Ibn Kathir notes: 'Ata' said that Sir, means, 'cold and snow.' Ibn 'Abbas and Mujahid are also reported to have said that Sir means, 'fire'.
+**The scholars** Ibn Kathir relates from Muhammad bin Ishaq and others, including Al-'Awfi who reported it from Ibn 'Abbas, that these verses were revealed about the learned ones (clergy) of the People of the Scriptures who embraced the faith — among them 'Abdullah bin Salam, Asad bin 'Ubayd, Tha'labah bin Sa'yah, and Usayd bin Sa'yah. The force of "Not all of them are alike" (3:113) is that those whom Allah rebuked earlier are not at all the same as those who accepted Islam; this party "stand for the right, for they implement the Book of Allah, adhere to His Law and follow His Prophet Muhammad ﷺ," and so are on the straight path, standing at night in Tahajjud and reciting the Qur'an. Ibn Kathir links them to the believers praised at the surah's end (3:199) who humble themselves before Allah, and to Allah's promise in 3:115 that "whatever good they do, nothing will be rejected of them" — their deeds are never lost, "for Allah knows well the Muttaqin (the pious)." Maarif ul Quran adds that by becoming Muslims they adopted the very hallmarks of faith that make believers the best of communities — unlike those who clung to disbelief, whose wealth and children cannot save them and whose spending in this life is wasted, since belief in Islam is the pre-condition for any deed to be accepted by Allah.
+
+**Reflection** Let faith show in motion — not merely believing, but hastening toward good and calling others to it, trusting that with Allah no sincere deed is ever lost.
 ## Personal Reflections
 
 
