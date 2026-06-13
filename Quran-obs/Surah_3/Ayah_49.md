@@ -298,9 +298,17 @@ And Allah will teach him writing and wisdom, the Torah and the Gospel, and a mes
 
 ## AI Tafsir
 
-**What this ayah teaches:** In order that they believe, enumerated in verse 49, there are four signs or miracles that he would perform, being enough for willing believers. These are the miracles that 'Isa performed; he used to make the shape of a bird from clay and blow into it, and it became a bird by Allah's leave.
+**Essence**
+'Isa (peace be upon him) is sent to the Children of Israel armed with living miracles — clay birds that breathe, the blind and leper healed, the dead raised — each performed "by Allah's leave," so that the sign points not to him but to the One who sent him.
 
-**Classical tafsir:** Ibn Kathir notes: This is because the Qur'an is the Word of Allah and is nothing like that of the creatures.
+**What it teaches**
+The ayah enumerates four signs of 'Isa's prophethood: shaping a bird from clay (tin) and breathing life into it, healing the akmah (one born blind) and the leper, raising the dead, and disclosing what people eat and hoard in their homes. The drumbeat phrase bi-idhnillah ("by Allah's permission") is the heart of the verse — every wonder is Allah's act through His servant, never the servant's own divinity — and the whole list is sealed as "a sign for you, if you believe."
+
+**The scholars**
+Ibn Kathir explains that Allah grants every Prophet a miracle suited to the dominant skill of his age: in Musa's time magic was "the trade of the time," so his miracle "captured the eyes and bewildered every magician," and when they recognized it came from Allah they embraced faith; in 'Isa's time medicine and the natural sciences were advancing, so he was given wonders no physician could match — "How can any physician bring life to clay, cure blindness and leprosy and bring back to life those entrapped in the grave?"; and Muhammad (peace be upon him), sent among masters of eloquence, brought the Qur'an, which mankind and jinn together could never imitate "because the Qur'an is the Word of Allah and is nothing like that of the creatures." Ibn Kathir notes that healing the one "born blind" perfects the miracle and "makes the challenge more daring," and that informing them "of what you eat and store" means telling each person what he had just eaten and what he keeps at home for tomorrow. Maarif ul Quran frames these four signs as 'Isa's very argument for his prophethood — proofs "from their Lord," enough for willing believers. Maarif then reads forward: once that prophethood is established, the call in verse 51 that "Allah is my Lord and your Lord, so worship Him" joins the ultimate in belief to the ultimate in deeds — the straight path. On the clay bird, Maarif adds a ruling: fashioning such an image was permitted in that Shari'ah, but its permissibility was abrogated in ours.
+
+**Reflection**
+Notice what these signs were chosen to do: they meet the age's finest healers at the very edge of their craft and step past it, for no physician restores sight to the blind-born or breathes life into clay. The miracle does not flatter human mastery — it marks its limit, and at that limit stands "by Allah's leave." So when you meet any blessing or wonder, trace it past every apparent cause to its true Source, and let the sign turn your heart toward worship of the One who alone gives life.
 ## Personal Reflections
 
 
