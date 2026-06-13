@@ -2588,3 +2588,22 @@ html[data-theme="night"] .translation-block.ai-mode,
 html[data-theme="night"] .ai-tafsir-block { background: linear-gradient(135deg, rgba(95,179,139,0.10), rgba(95,179,139,0.03)); border-color: rgba(95,179,139,0.22); }
 /* sepia: match toolbar to parchment tone */
 html[data-theme="sepia"] .sticky-toolbar { background: rgba(239,229,208,0.94); }
+
+/* ===== Sajdah (place of prostration) markers ===== */
+.sajdah-banner {
+  display: flex; align-items: center; justify-content: center; gap: 0.55rem;
+  width: max-content; max-width: 100%;
+  margin: 0.7rem auto 0.15rem; padding: 0.28rem 0.95rem;
+  border: 1px solid var(--gold-soft); border-radius: 999px;
+  background: linear-gradient(135deg, rgba(154,132,85,0.12), rgba(154,132,85,0.04));
+}
+.sajdah-sym { font-family: var(--font-arabic); font-size: 1.3rem; line-height: 1; color: var(--gold-muted); }
+.sajdah-label { font-family: var(--font-ui); font-size: 0.64rem; font-weight: 600; letter-spacing: 0.13em; text-transform: uppercase; color: var(--muted); }
+.sajdah-inline {
+  font-family: var(--font-arabic); color: var(--gold-muted);
+  font-size: 1.1em; vertical-align: middle; cursor: help; padding: 0 0.12em;
+}
+@media print {
+  .sajdah-banner { border-color: #c9b88a; background: none; }
+  .sajdah-sym, .sajdah-inline { color: #9a8455; }
+}

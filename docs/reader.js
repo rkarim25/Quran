@@ -348,6 +348,24 @@ function ayahMarkerHtml(num, { end = false, inline = false } = {}) {
   </span>`;
 }
 
+// Sajdah at-tilāwah — the 15 standard places of prostration (Tanzil / quran.com numbering).
+// For a 14-count, drop "38:24" (Sūrah Ṣād, counted by Ḥanafīs but not Shāfiʿīs).
+const SAJDAH = new Set(["7:206", "13:15", "16:50", "17:109", "19:58", "22:18", "22:77", "25:60", "27:26", "32:15", "38:24", "41:38", "53:62", "84:21", "96:19"]);
+function isSajdah(surahId, ayahNum) {
+  return SAJDAH.has(`${surahId}:${ayahNum}`);
+}
+function sajdahBannerHtml(surahId, ayahNum) {
+  if (!isSajdah(surahId, ayahNum)) return "";
+  return `<div class="sajdah-banner" role="note" title="Sajdah at-tilāwah — a place of prostration during recitation">
+      <span class="sajdah-sym" aria-hidden="true">۩</span>
+      <span class="sajdah-label">Sajdah · place of prostration</span>
+    </div>`;
+}
+function sajdahInlineHtml(surahId, ayahNum) {
+  if (!isSajdah(surahId, ayahNum)) return "";
+  return ` <span class="sajdah-inline" title="Sajdah at-tilāwah — a place of prostration during recitation" aria-label="Sajdah, place of prostration">۩</span>`;
+}
+
 function ornament() {
   return `<div class="ornament-line" aria-hidden="true"><span>✦</span></div>`;
 }
@@ -462,13 +480,14 @@ function ayahBlock(data, ayah, surahId) {
         ${transliterationHtml(a)}
       </div>
       ${translationBlockHtml(a)}
+      ${sajdahBannerHtml(surahId, ayah.ayah)}
     </article>`;
 }
 
 function bookAyahSpan(ayah, surahId) {
   const a = mergeLocalEdits(ayah, surahId);
   return `<span class="book-ayah" id="ayah-${surahId}-${ayah.ayah}" data-surah="${surahId}" data-ayah="${ayah.ayah}" title="Ayah ${ayah.ayah} — click for tafsir">
-      ${renderArabicWords(a, surahId)}${ayahMarkerHtml(ayah.ayah, { end: true })}
+      ${renderArabicWords(a, surahId)}${ayahMarkerHtml(ayah.ayah, { end: true })}${sajdahInlineHtml(surahId, ayah.ayah)}
     </span>`;
 }
 
@@ -491,15 +510,15 @@ function bookViewHtml(data, surahId) {
     sec.push(`<section class="book-section book-arabic-section" aria-label="Arabic text"><p class="book-flow arabic-flow" dir="rtl">${arabicFlow}</p></section>`);
   }
   if (c.translit) {
-    const f = data.ayahs.map((a) => { const t = renderAyahTransliteration(mergeLocalEdits(a, surahId)); return t ? `<span class="book-translit-seg" data-ayah="${a.ayah}">${esc(t)}</span>` : ""; }).filter(Boolean).join(" ");
+    const f = data.ayahs.map((a) => { const t = renderAyahTransliteration(mergeLocalEdits(a, surahId)); return t ? `<span class="book-translit-seg" data-ayah="${a.ayah}">${esc(t)}${sajdahInlineHtml(surahId, a.ayah)}</span>` : ""; }).filter(Boolean).join(" ");
     if (f) sec.push(`<section class="book-section book-translit-section" aria-label="Transliteration"><p class="book-flow translit-flow" dir="ltr">${f}</p></section>`);
   }
   if (c.translation) {
-    const f = data.ayahs.map((a) => { const m = mergeLocalEdits(a, surahId); const t = m.translation || m.qf_translation || ""; return t ? `<span class="book-trans-seg" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${esc(t)}</span>` : ""; }).filter(Boolean).join(" ");
+    const f = data.ayahs.map((a) => { const m = mergeLocalEdits(a, surahId); const t = m.translation || m.qf_translation || ""; return t ? `<span class="book-trans-seg" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${esc(t)}${sajdahInlineHtml(surahId, a.ayah)}</span>` : ""; }).filter(Boolean).join(" ");
     if (f) sec.push(`<section class="book-section book-translation-section" aria-label="Translation"><p class="book-flow translation-flow">${f}</p></section>`);
   }
   if (c.aiTranslation) {
-    const f = data.ayahs.map((a) => { const m = mergeLocalEdits(a, surahId); const t = m.ai_translation || ""; return t ? `<span class="book-trans-seg" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${esc(t)}</span>` : ""; }).filter(Boolean).join(" ");
+    const f = data.ayahs.map((a) => { const m = mergeLocalEdits(a, surahId); const t = m.ai_translation || ""; return t ? `<span class="book-trans-seg" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${esc(t)}${sajdahInlineHtml(surahId, a.ayah)}</span>` : ""; }).filter(Boolean).join(" ");
     if (f) sec.push(`<section class="book-section book-translation-section ai-mode" aria-label="AI translation"><p class="book-flow translation-flow">${f}</p></section>`);
   }
   if (c.aiTafsir || c.ibnKathir || c.maarif) {
