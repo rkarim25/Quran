@@ -98,11 +98,21 @@ He is the One Who shapes you in the wombs of your mothers as He wills. There is 
 
 ## AI Tafsir
 
-**Context:** (1.) Whenever the Holy Qur'an speaks of the 'Torah and the Injil' it refers to the original books revealed to the prophets Moses and Jesus (علیہ السلام) . This should not, therefore, be confused.
+**Essence**
 
-**What this ayah teaches:** Truly, nothing is hidden from Allah, in the earth or in the heaven (5)He it is Who shapes you in the wombs as He wills. None has the right to be worshipped but He, the Almighty, the All-Wise .
+The same Allah who shapes every human in the secret darkness of the womb, exactly as He wills, is alone worthy of worship — so the one formed there can never be a deity.
 
-**Classical tafsir:** Ibn Kathir notes: This Ayah refers to the fact that 'Isa, son of Mary, is a created servant, just as Allah created the rest of mankind.
+**What it teaches**
+
+"Huwa alladhi yusawwirukum fi'l-arham kayfa yashaa" — He alone shapes you in the wombs however He wills: male or female, beautiful or plain, destined for happiness or otherwise. The closing seal, "la ilaha illa Huwa al-'Aziz al-Hakim," declares that because He is the Creator He is the only true ilah (object of worship), possessing al-'Izzah (might) and al-Hikmah (wisdom).
+
+**The scholars**
+
+Ibn Kathir draws the decisive consequence: because Allah forms each person in the womb as He wills, "He is the Creator and thus is the only deity worthy of worship, without partners, and His is the perfect might, wisdom and decision." This ayah, he says, refers to the fact that 'Isa, son of Mary, was a created servant just like the rest of mankind — Allah shaped him in his mother's womb and his creation changed "from stage to stage," exactly as in His words, "He creates you in the wombs of your mothers, creation after creation in three veils of darkness" (39:6); so how could 'Isa be divine, as the Christians claim? Maarif ul Quran adds that this carries the reported proof of tawhid: the attributes of "encompassing knowledge and unlimited power are strong proofs" that He alone rightly deserves worship, for "anyone having imperfect knowledge and limited power cannot be entrusted with this exalted station."
+
+**Reflection**
+
+Knowing that your very form was fashioned by your Lord in the dark, surrender that self in worship to Him alone.
 ## Personal Reflections
 
 

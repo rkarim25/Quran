@@ -282,11 +282,15 @@ He is Allah, absolute in power. He does what He wills. Therefore, those who are 
 
 ## AI Tafsir
 
-**What this ayah teaches:** So as for those in whose hearts there is a deviation (from the truth) they follow (only) that which is not entirely clear thereof, seeking Al-Fitnah, and seeking its Ta'wil, but none knows its Ta'wil except Allah.
+**Essence** The firmly-grounded in knowledge, knowing guidance comes from Allah alone, beg Him not to let their hearts swerve after He has guided them, and to pour out a mercy that keeps them firm.
 
-**Classical tafsir:** Ibn Kathir notes: On the Day (Day of Resurrection) it's Ta'wil is finally fulfillled.)(7:53) refers to the true reality of Resurrection that they were told about.
+**What it teaches** Having affirmed "all of it is from our Lord" in the previous verse, the people of sound understanding now turn to du'a: "Do not let our hearts deviate (tuzigh — swerve from truth to falsehood) after You have guided us." They ask for rahmah min ladunka — mercy from Allah's own presence — that anchors the heart, and close by calling on Him as al-Wahhab, the ceaseless Bestower.
 
-**From the Sunnah:** Mujahid said that Ibn 'Abbas said, "I am among those who are firmly grounded in its Ta'wil interpretation." The Messenger of Allah ﷺ supplicated for the benefit of Ibn 'Abbas,
+**The scholars** Ibn Kathir explains the plea as: "Do not deviate our hearts from the guidance after You allowed them to acquire it... rather, make us remain firmly on Your straight path and true religion," and reads the requested mercy as that "with which You make our hearts firm, and increase in our Faith and certainty." Maarif ul Quran draws the doctrine beneath the prayer: guidance and straying are from Allah alone — "when Allah intends to guide someone, He makes his heart tilt towards what is good and right; and when He decides to let someone go astray, He turns his heart away from the straight path." Because He is "absolute in power" and "does what He wills," the one anxious about staying firm goes straight to the Source, asking Allah Himself for steadfastness rather than relying on his own resolve.
+
+**From the Sunnah** This was a living, daily supplication of the Prophet ﷺ. Umm Salamah reported that he used to invoke Allah by His name al-Muqallib al-qulub — the Turner of hearts: "Ya Muqallib al-qulub, thabbit qalbi 'ala dinik" (O You who turns the hearts, make my heart firm upon Your religion) — and would then recite this very ayah (Ibn Abi Hatim and Ibn Jarir). Maarif ul Quran cites the ground of this prayer in another of his ﷺ sayings — that no heart is self-governing: every heart lies between two of Allah's fingers, and He keeps it firm upon truth as long as He wills and turns it away when He wills — and records his constant supplication in the plural, "thabbit qulubana 'ala dinik" (make our hearts firm). Since the heart is held in Allah's hand, steadfastness can only be sought from Him (Mazhari).
+
+**Reflection** Guidance once received is not owned — so make "Ya Muqallib al-qulub, thabbit qalbi 'ala dinik" a daily prayer, returning your heart's firmness to the One who holds it.
 ## Personal Reflections
 
 
