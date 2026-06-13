@@ -113,9 +113,13 @@ But how will it be when We gather them together on the Day about which there is 
 
 ## AI Tafsir
 
-**What this ayah teaches:** They are being invited to the Book of Allah to settle their dispute, then a party of them turned away, and they are averse (23)This is because they say: "The Fire shall not touch us but for a number of days." And that which they used to invent in their religion has deceived them (24)How (will it be) when We gather them together on the Day about which there is no doubt (i.e.
+**Essence** After their wishful lie that Hellfire would barely touch them, Allah turns their false comfort into a question of terror: how will they fare on a Day whose coming admits no doubt, when every soul is paid in full for what it earned and not one is wronged?
 
-**Classical tafsir:** Ibn Kathir notes: Chastising the People of the Book for Not Referring to the Book of Allah for Judgment Allah criticizes the Jews and Christians who claim to follow their Books, the Tawrah and the Injil, because when they are called to refer to these Books where Allah commanded them to follow Muha…
+**What it teaches** The verse opens with fakayfa — "then how (will it be)?" — a question of dread, not information, picturing the helpless state of those who invented excuses against Allah's punishment once He gathers them for a Day "in which there is no doubt" (la rayba fihi). Every nafs (soul) will be "paid in full" (wuffiyat) for ma kasabat — what its own hands earned — and "they will not be wronged" (la yuzlamun): perfect, exact justice with no deficiency in reward and no excess in punishment.
+
+**The scholars** Ibn Kathir reads this as Allah's threat and warning to the People of the Book who turned away when invited to His Book to settle their dispute. What emboldened them to defy the truth, he says, was the false claim that the Fire would only touch them for seven days — a day for every thousand years of this life — a notion they themselves invented, for which "Allah did not grant them authority." So Allah asks what their condition will be after they uttered this lie against Him, rejected His Messengers, and killed His Prophets and the scholars who enjoined righteousness and forbade evil; on that Day He will question them about all of it and requite them. Maarif ul Quran adds that the address is to the Prophet ﷺ: the Torah they were given would have sufficed them had they truly sought guidance, but they chose indifference, deceived by what they forged for themselves — such as imagining that being the progeny of prophets would spare them the Fire. Maarif also records their reasoning that, having worshipped the calf for forty days, their punishment, if any, would last only that long.
+
+**Reflection** Drop every comforting excuse about the Hereafter, for the Day is certain and the scales are exact — live now as one who will be paid in full.
 ## Personal Reflections
 
 

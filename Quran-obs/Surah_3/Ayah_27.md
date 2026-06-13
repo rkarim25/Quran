@@ -174,11 +174,27 @@ You cause the night to pass into the day and the day into the night. You bring f
 
 ## AI Tafsir
 
-**What this ayah teaches:** Verily, You are able to do all things (26)You make the night to enter into the day, and You make the day to enter into the night, You bring the living out of the dead, and You bring the dead out of the living.
+**Essence**
 
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
+The same power that grants and strips away kingdoms (v.26) slips night into day, draws the living from the dead, and provides without limit — proof that all dominion and all provision are Allah's alone.
 
-**From the Sunnah:** Allah transferred the prophethood from the Children of Israel to the Arab, Qurashi, Makkan, unlettered Prophet, the Final and Last of all Prophets and the Messenger of Allah ﷺ to all mankind and Jinn. If we were to take 'the living' and the dead' in a broad and general sense, this will become inclusive of the learned and the ignorant, the perfect and the imperfect and the believer and the those who reject the truth (the Muslim and the Kafir). (Sahih Muslim)
+**What it teaches**
+
+The du'a "Qul Allahumma Malik al-Mulk" now turns from human kingship to the cosmos and to life itself. Allah causes the night to enter the day and the day into the night (*tūliju* — He makes one pass into the other); He brings the living from the dead and the dead from the living; and He gives *rizq* to whom He wills *bighayri hisab* — without limit or reckoning. The signs climb from the turning heavens, to the cycle of life and death, to the open hand of provision — so that the heart that sang of Allah's rule over kings now sees that same rule holding the whole of existence.
+
+**The scholars**
+
+Ibn Kathir reads "You make the night enter the day" as Allah taking from the length of one and adding it to the shortness of the other through spring, summer, fall and winter, until they balance or differ by His command. "The living from the dead and the dead from the living" he takes broadly: the seed from the plant and the plant from the seed, the date from its stone, the chicken from the egg — and, spiritually, the faithful from the disbeliever and the disbeliever from the faithful — while wealth is given to whom He wills "out of wisdom and justice," some enriched and others deprived. He notes the verse opens with Allah telling His Prophet ﷺ to say this *while praising his Lord, thanking Him, and relying upon Him in all matters*.
+
+Maarif ul Quran gives the physical signs their own weight — the chick from the egg, the infant from a drop, the tree from a seed; and the dead from the living: eggs from birds and beasts, seed from humans, fruit from trees, dry grain from plants. Taken broadly, the same power reaches the soul: He can make a believer of a disbeliever or a scholar of an ignorant man, or let the reverse occur — He brought Ibrahim (alayhi al-salam) out of an idol-worshipper, yet let the son of Nuh (alayhi al-salam) remain an unbeliever; a scholar's son may stay illiterate and an illiterate man's son become a scholar. Maarif draws attention to the eloquent *order*: the proof ascends from the cosmos, to living bodies, to the soul of man — each tier a wider reach of the one perfect power.
+
+**From the Sunnah**
+
+Among this verse's merits, Imam al-Baghawi relates that the Prophet ﷺ said: whoever recites, after every Surah, al-Fatihah, Ayat al-Kursi, and the two passages of Al-'Imran — 3:18 and this verse from "Qul Allahumma Malik al-Mulk" (3:26-27) — Allah will make his abode in Paradise, place him in the Sacred Enclosure, bless him with His mercy seventy times each day, fulfill seventy of his needs, and protect him against every envier and enemy and make him prevail over them. (Imam al-Baghawi)
+
+**Reflection**
+
+If the turning of night and day and the rising of life from lifeless things all answer to His will, then your own portion — what you hold and what you await — rests in the same hands. So spend without fear, ask without despair, and let trust replace your anxious reckoning.
 ## Personal Reflections
 
 
