@@ -2446,3 +2446,22 @@ a:focus-visible, button:focus-visible, select:focus-visible, input:focus-visible
 #to-top:hover { opacity: 1; transform: translateY(-2px); }
 @media (max-width: 768px) { #to-top { right: 12px; bottom: 12px; width: 40px; height: 40px; } }
 @media print { #to-top { display: none !important; } }
+
+/* Compact surah opener so the ayat appear without scrolling (screen) */
+.surah-opener { padding: 0.5rem 1rem 0.5rem; }
+.surah-opener-arch { width: 72px; height: 22px; margin: 0 auto 0.4rem; }
+.surah-index { width: 2rem; height: 2rem; font-size: 0.8rem; margin-bottom: 0.4rem; border-width: 1.5px; }
+.surah-title { font-size: clamp(1.55rem, 5vw, 2rem); line-height: 1.18; margin-bottom: 0.15rem; }
+.surah-subtitle { font-size: 0.95rem; }
+.surah-badges { margin-top: 0.45rem; }
+.surah-opener .ornament-line { margin: 0.55rem auto 0; }
+.reader-hint { margin: 0.45rem 0 0.3rem; }
+
+/* Tighter opener: drop decorative arch + ornament line, minimal padding */
+.surah-opener { padding: 0.3rem 1rem 0.35rem; }
+.surah-opener-arch { display: none; }
+.surah-opener .ornament-line { display: none; }
+.surah-index { width: 1.9rem; height: 1.9rem; font-size: 0.78rem; margin-bottom: 0.3rem; }
+.surah-title { font-size: clamp(1.45rem, 4.5vw, 1.85rem); margin-bottom: 0.1rem; line-height: 1.15; }
+.surah-subtitle { font-size: 0.92rem; }
+.surah-badges { margin-top: 0.35rem; }
