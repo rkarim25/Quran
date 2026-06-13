@@ -116,7 +116,7 @@ function finalizePrompt(item, draft, verdicts) {
     `Re-read the source file if needed (Read tool, exact path; page through if large): ${item.file}`,
     `Grounding rules still apply: hadith only from the source; drop any hadith flagged as ungrounded; never fabricate.`,
     `Use "Allah" everywhere — never the standalone word "God" (validation rejects it); the honorific belongs after the Prophet.`,
-    `LENGTH: let content quality determine length — include what is genuinely helpful; never pad. HARD CAP 3500 (runaway guard only — do not cut substantive content to hit a shorter target). Trim only repetition across layers, not depth.`,
+    `LENGTH: let content quality determine length — include what is genuinely helpful; never pad. 3500 chars is a HARD CEILING you MUST meet: if "rendered" would exceed it, compress prose and cut cross-layer repetition until it fits — but NEVER drop a grounded ruling, attribution, named scholar, or hadith to do so. Do not pad a short entry to reach it.`,
     ``,
     `DRAFT:`,
     draft.rendered,
