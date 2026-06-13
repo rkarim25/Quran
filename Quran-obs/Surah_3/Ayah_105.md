@@ -216,11 +216,22 @@ And do not be like those who split and differed after clear proofs had come to t
 
 ## AI Tafsir
 
-**What this ayah teaches:** The statement after clear signs had come to them' is an obvious indicator towards this explanation.
+**Essence**
+Do not fracture the way the earlier nations did, who split into warring sects after Allah's clear proofs had already reached them, and so earned a tremendous punishment.
 
-**Classical tafsir:** Ibn Kathir notes: It means that Muslims should not be like Jews and Christians who, even after clear injunctions of Allah Almighty had reached them, became divided in the implementation of the basic code of faith simply because they preferred to follow the dictates of their desires.
+**What it teaches**
+After commanding unity in 3:103 and the mission of da'wah in 3:104, Allah forbids this Ummah from imitating the discord of past nations: tafarruq (splitting apart) and ikhtilaf (mutual dispute) that arose min ba'di ma ja'ahum al-bayyinat — "after the clear proofs had come to them." The ruin came not from ignorance but from following desires against the truth they already knew, and its end is 'adhab 'azim, a tremendous torment.
 
-**From the Sunnah:** The objective of this Ayah is that there should be a segment of this Muslim Ummah fulfilling this task, even though it is also an obligation on every member of this Ummah, each according to his ability. (Sahih Muslim) this Hadith and said, "Hasan". (Jami' at-Tirmidhi)
+**The scholars**
+Ibn Kathir explains that Allah forbids the Ummah from imitating "the division and discord of the nations that came before them," who abandoned enjoining good and forbidding evil though they had proof of its necessity. Maarif ul Quran specifies these as the Jews and Christians who "became divided in the implementation of the basic code of faith simply because they preferred to follow the dictates of their desires," and notes this verse completes "And hold firmly to the rope of Allah" (3:103). Crucially, Maarif limits the censure: the division condemned is that born of "arrogant and egotistic self-assertiveness" — the phrase "after clear signs had come to them" points to this. Honest differences of competent scholars through valid Ijtihad are excluded; Qasim ibn Muhammad and 'Umar ibn 'Abdul-Aziz held that the difference among the Companions is "a source of mercy and ease for people." On the next ayah, Ibn Kathir adds that on the Day of Resurrection "the faces of followers of the Sunnah and the Jama'ah will radiate with whiteness, and the faces of followers of Bid'ah and division will be darkened," as reported from Ibn 'Abbas.
+
+**From the Sunnah**
+The People of the earlier Two Scriptures divided into seventy-two sects; this Ummah will divide into seventy-three, all in the Fire except one — al-Jama'ah, the united body. The Prophet (peace be upon him) added that some of the Ummah would be overtaken by desire "like one who is infected by rabies; no vein or joint will be saved from these desires." The saved group's defining mark in his words is simply al-Jama'ah; Mu'awiyah, narrating this at Hajj, urged the people to "adhere to what came to you from your Prophet." This is no license to brand specific Muslims or groups as the doomed sects. (Musnad Ahmad, also Abu Dawud)
+
+And: one who performs Ijtihad and reaches the correct ruling earns a twofold reward, and if he errs he still earns one reward — so sincere scholarly difference is not the blameworthy division this verse condemns. (Sahih al-Bukhari and Sahih Muslim)
+
+**Reflection**
+Guard the bond of brotherhood: cling to the Jama'ah and the proofs you have been given, and never let ego turn a difference of opinion into the disunity Allah condemns.
 ## Personal Reflections
 
 

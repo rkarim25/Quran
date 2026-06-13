@@ -176,11 +176,17 @@ These are Allah’s revelations We recite to you in truth. And Allah desires no 
 
 ## AI Tafsir
 
-**What this ayah teaches:** We recite them to you in truth, and Allah wills no injustice to the 'Alamin (108)And to Allah belongs all that is in the heavens and all that is in the earth.
+**Essence**
+These are Allah's true verses, and Allah — the Just Ruler — wills no injustice toward any of His creation.
 
-**Classical tafsir:** Ibn Kathir notes: This means that the mercy in which the believers shall rest will not be temporary; it would be forever and eternal.
+**What it teaches**
+Allah affirms that the signs (ayat) recited to the Prophet (peace be upon him) are revealed bi al-haqq — "in truth," making known the real nature of this world and the Hereafter — and then negates that He wills any zulm (injustice) toward al-'Alamin, all the worlds of His creation. The reward and punishment of the previous verses are therefore pure justice, never tyranny from Allah.
 
-**From the Sunnah:** The objective of this Ayah is that there should be a segment of this Muslim Ummah fulfilling this task, even though it is also an obligation on every member of this Ummah, each according to his ability. (Sahih Muslim) this Hadith and said, "Hasan". (Jami' at-Tirmidhi)
+**The scholars**
+Ibn Kathir explains that these are "the verses of Allah, His proofs and signs that We reveal to you, O Muhammad," and that bi al-haqq means they make "known the true reality of this world and the Hereafter." On "Allah wills no injustice to the 'Alamin," he says, "He never treats them with injustice. Rather, He is the Just Ruler Who is able to do everything and has knowledge of everything" — so He has no need to wrong any creature. This is why the next verse declares that all in the heavens and earth belong to Him as His servants and property, and that all matters return to Him for decision. Maarif ul Quran ties this to the preceding warning "taste the punishment because you have been sinning," noting the punishment of that Day is not arbitrary from Allah but the consequence of what a person earned in his mortal life — "the blessings of paradise and the hardships of hell are simply a changed form of our very deeds" — so whatever reward or punishment comes is "nothing but justice and very much the perfect expression of the divine wisdom and mercy."
+
+**Reflection**
+When you meet Allah's decree, trust His perfect justice — examine your own deeds rather than question your Lord, for He wrongs no one.
 ## Personal Reflections
 
 
