@@ -221,11 +221,17 @@ They ask you about the new moons. Say, "They are markers of time for people and 
 
 ## AI Tafsir
 
-**Context:** Al-'Awfi related that Ibn 'Abbas said, "The people asked Allah's Messenger ﷺ about the crescent moons. Thereafter, this Ayah was revealed:
+**Essence** The crescent moon orders time and worship, and true righteousness is not invented ritual but taqwa — doing what Allah commands and entering every matter through its rightful door.
 
-**What this ayah teaches:** Say: "These are signs to mark fixed periods of time for mankind and for the pilgrimage." It is not Al-Birr (piety, righteousness, etc.) that you enter the houses from the back, but Al-Birr is from Taqwa.
+**What it teaches** When the Companions asked about the phases of the moon, Allah answered not with its astronomy but with its purpose: the crescents are mawaqit — fixed markers by which people reckon their dealings, the 'iddah of women, fasting, and the Hajj. He then corrects a custom of Jahiliyyah: birr (righteousness) is not the self-styled piety of entering houses from the back while in Ihram, but taqwa — God-consciousness that does what Allah commands and shuns what He forbids; so enter homes by their proper doors.
 
-**Classical tafsir:** Ibn Kathir notes: The Shari'ah of Islam has opted for the lunar calendar because it is based on something which every sighted person can see on the horizon and be informed accordingly; the knowledge of it is equally easy for the scholars, the ignorant, the villagers, the islanders and the dwellers…
+**The scholars** Ibn Kathir, citing Ibn 'Abbas, explains the crescents mark "their acts of worship, the 'Iddah of their women, and the time of their Hajj." He defines taqwa as doing what Allah commanded and refraining from what He forbade, and "that you may be successful" as the perfect reward when one stands before Him. Maarif ul Quran notes the Shari'ah deliberately chose the lunar calendar because every sighted person — scholar or unlettered, villager or islander — can see the crescent on the horizon, unlike the solar reckoning that needs instruments and computation. Maarif draws a weighty ruling: making non-obligatory acts into obligations, or treating the permissible as forbidden, is exactly the error these people made — and is the very root of bid'ah (innovation in religion).
+
+**From the Sunnah** Ibn 'Umar reported that Allah's Messenger ﷺ said: Allah has made the crescents signs to mark fixed periods for mankind; so fast on seeing the crescent of Ramadan and break the fast on seeing the crescent of Shawwal, and if it is obscured from you, then count thirty days. (Narrated by 'Abdur-Razzaq from Ibn 'Umar; also collected by Al-Hakim in his Mustadrak, who declared the chain Sahih)
+
+**From the Sunnah** Al-Bara' reported that during Jahiliyyah they used to enter the house from the back upon assuming Ihram, until Allah revealed that righteousness is not this, but taqwa — so enter houses through their proper doors. (Al-Bukhari)
+
+**Reflection** Measure your worship by what Allah ordained, not by the appearance of self-made ritual; and let taqwa — quiet obedience of the heart — be what truly makes you successful when you stand before Him.
 ## Personal Reflections
 
 
