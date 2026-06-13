@@ -1,0 +1,276 @@
+{
+ "1": {
+  "1": {
+   "meaning": "An oath: 'By time!' Allah swears by al-ʿaṣr — sweeping, fleeting time itself: the ages of history, the passing era, the hours and seasons of a human life that drain away and never return (some early scholars, such as Zayd bin Aslam, read it more narrowly as the late-afternoon/evening hour, when daylight is visibly running out, though the broader sense of 'time' is the prevailing view). The opening wa- is the oath-particle (qasam) by which one solemnly swears, equivalent to 'By…!' — and an oath in the Qur'an signals that something weighty and urgent is about to be declared.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "by (an oath: 'I swear by…')"
+    },
+    {
+     "ar": "الۡ",
+     "tr": "al",
+     "en": "the"
+    },
+    {
+     "ar": "عَصۡرِ",
+     "tr": "ʿaṣri",
+     "en": "time / the passing age (late afternoon)"
+    }
+   ],
+   "grammar": "Here wa- is the particle of oath ('By…!'), not the ordinary 'and.' Grammatically it works as a governing particle (harf jarr) — the same class as prepositions — and any noun it governs is put in the genitive (majrūr) case. That is why this word ends in -i (the kasra): ʿaṣr-i, 'by THE time.' So 'swearing an oath' is the meaning wa- carries; assigning the genitive is what it does as a harf jarr. The final -i is therefore just the case forced by the particle, not a separate sense of 'of.' al- is the attached definite article 'the.'",
+   "root": "ع-ص-ر (ʿ-ṣ-r) — to press/squeeze out (as juice is pressed); from it ʿaṣr, the portion of the day being 'pressed' to its end, hence the late afternoon and, more broadly, time and the passing age."
+  }
+ },
+ "2": {
+  "1": {
+   "meaning": "An emphatic opening particle. It carries no single English word; it injects certainty into the whole sentence, like saying 'It is an established truth that...' or 'Indeed, without doubt...'. It assures the listener that what follows is real and reliable.",
+   "parts": [
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "indeed / truly (emphasis)"
+    }
+   ],
+   "grammar": "A particle of emphasis and confirmation. Grammatically it governs the noun after it, forcing that noun ('the human being') into the accusative case — which is exactly why the next word ends in -a (al-insāna). It does not translate as a word so much as a tone of absolute certainty laid over the sentence.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "The human being / humankind as a species. The 'al-' makes it generic, so it points not to one person but to humanity as a whole, every son and daughter of Adam.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "اِنۡسَان",
+     "tr": "insān",
+     "en": "human being, mankind"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "accusative ending"
+    }
+   ],
+   "grammar": "Definite noun ('al-' = 'the'), here used to mean the whole human race. It is the topic the sentence makes a statement about (the ism of 'inna'). Normally such a subject would take the nominative, but the particle 'inna' before it overrides that and puts its noun into the accusative — which is why the word ends in -a (al-insāna) rather than the usual -u. So this is the logical subject, yet it is grammatically marked accusative because 'inna' demands it.",
+   "root": "أ-ن-س (ʾ-n-s) — to be sociable, familiar, human"
+  },
+  "3": {
+   "meaning": "A two-part phrase meaning 'is surely within / immersed in'. It combines an emphatic 'truly' with the preposition 'in', stressing that the human being is genuinely enclosed inside the state named next.",
+   "parts": [
+    {
+     "ar": "لَ",
+     "tr": "la-",
+     "en": "surely / indeed (emphasis)"
+    },
+    {
+     "ar": "فِىۡ",
+     "tr": "fī",
+     "en": "in / within"
+    }
+   ],
+   "grammar": "Two pieces joined together. The prefix 'la-' is the 'lām of emphasis' that pairs with 'inna' from word 1 to double down on the certainty ('inna... la...' = 'most surely'). 'fī' is the preposition 'in', and it puts the following noun into the genitive case, which is why 'loss' next ends in -in. There is no verb 'is' in the Arabic; it is understood.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "Loss, ruin, deficit — the state of having squandered something precious and ending up worse off. Pictured like a failed business deal where one's capital (here, one's very life and time) drains away with nothing gained. The form here is indefinite, suggesting an awful, unspecified magnitude of loss.",
+   "parts": [
+    {
+     "ar": "خُسۡر",
+     "tr": "khusr",
+     "en": "loss / ruin"
+    },
+    {
+     "ar": "ٍ",
+     "tr": "-in",
+     "en": "genitive + indefinite ending"
+    }
+   ],
+   "grammar": "Indefinite noun. The ending -in does two jobs at once: the -i part is the genitive case (required because the preposition 'fī' came before it, 'in [a state of] loss'), and the final -n sound (tanwīn) marks it as indefinite ('a loss', not 'the loss'). Leaving it indefinite hints at a loss so vast it is left undefined.",
+   "root": "خ-س-ر (kh-s-r) — to lose, suffer loss, be ruined"
+  }
+ },
+ "3": {
+  "1": {
+   "meaning": "A particle of exception meaning 'except' or 'save for.' It carves out a group from the sweeping statement just made (that all humanity is in loss), signalling that the people about to be described are the one exception to that universal ruin.",
+   "parts": [
+    {
+     "ar": "اِلَّا",
+     "tr": "illā",
+     "en": "except / save for"
+    }
+   ],
+   "grammar": "This is an indeclinable exception particle (it never changes its ending). It does not carry case itself; instead it introduces the excepted group that follows, telling you 'everyone is in loss — apart from these.'",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "'Those who' — a masculine plural relative pronoun that points to a specific group of people and then attaches a description to them ('the ones who...'). It gathers up the believers who form the exception.",
+   "parts": [
+    {
+     "ar": "الَّ",
+     "tr": "al-l",
+     "en": "the (relative marker; its lām is doubled)"
+    },
+    {
+     "ar": "ذِيۡنَ",
+     "tr": "-dhīna",
+     "en": "those who (masc. plural)"
+    }
+   ],
+   "grammar": "A masculine plural relative pronoun, 'those who.' Its form is fixed (it does not change for case here); the -īna shape marks it as plural and masculine. The shadda over the lām in الَّذِيۡنَ means the lām is doubled, so the two parts reconstruct as al-l + dhīna = alladhīna. It sets up a relative clause: whatever verb comes next describes these people.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "'They believed / came to have faith' — they put their trust and conviction in Allah and accepted the truth in their hearts. The verb describes faith not as a passing thought but as a settled, embraced belief.",
+   "parts": [
+    {
+     "ar": "اٰمَن",
+     "tr": "āman",
+     "en": "believed / had faith"
+    },
+    {
+     "ar": "وۡا",
+     "tr": "-ū",
+     "en": "they (masc. plural)"
+    }
+   ],
+   "grammar": "A past-tense (form IV) verb. Form IV (the lengthened a- at the start, originally 'a-) here carries the sense 'to come to believe, to have faith.' The -ū ending means the subject is 'they' (a group of males, or a mixed group). So: 'they believed.'",
+   "root": "ء-م-ن (ʾ-m-n) — safety, trust, faith"
+  },
+  "4": {
+   "meaning": "The connector 'and,' joining the next action (doing righteous deeds) to the one before it (believing). It links faith and action together as a paired description of the saved group.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa-",
+     "en": "and"
+    }
+   ],
+   "grammar": "A simple joining particle, 'and.' It has no case ending of its own; it merely couples what follows to what came before, here adding a second quality to the believers. (Note: in this source the transliteration 'waʿamilū' bundles this 'and' together with the following verb 'they did.')",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "'They did / worked' — they performed and carried out actions. Paired with the following word, it means they put their faith into practice through deeds.",
+   "parts": [
+    {
+     "ar": "عَمِل",
+     "tr": "ʿamil",
+     "en": "did / worked"
+    },
+    {
+     "ar": "وا",
+     "tr": "-ū",
+     "en": "they (masc. plural)"
+    }
+   ],
+   "grammar": "A past-tense (form I) verb, 'they did/worked.' The -ū ending marks the subject as 'they' (masc. plural). It governs the next word as its object: 'they did [the righteous deeds].'",
+   "root": "ع-م-ل (ʿ-m-l) — to do, work, act"
+  },
+  "6": {
+   "meaning": "'The righteous deeds / good works' — actions that are sound, upright, and pleasing to Allah. The definite article ('the') points to the whole class of such good deeds.",
+   "parts": [
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "صّٰلِحٰ",
+     "tr": "-ṣāliḥā",
+     "en": "righteous / good (deeds)"
+    },
+    {
+     "ar": "تِ",
+     "tr": "-ti",
+     "en": "sound feminine plural ending"
+    }
+   ],
+   "grammar": "A sound feminine plural noun/adjective, 'the righteous deeds,' acting as the object of 'they did.' Its ending is -āti (with kasra on the tā'). For sound feminine plurals this same -āti ending serves BOTH the accusative and the genitive — the ending alone does not distinguish the two cases. Here the word is accusative, but that is known from its syntactic role (object of ʿamilū, 'they did'), not from a distinct case marker. So: 'they did the good deeds.'",
+   "root": "ص-ل-ح (ṣ-l-ḥ) — to be sound, upright, good"
+  },
+  "7": {
+   "meaning": "'And they urged one another / counselled each other' — they mutually encouraged and advised one another. The form stresses that this is a two-way, reciprocal exchange, not one person lecturing another.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa-",
+     "en": "and"
+    },
+    {
+     "ar": "تَوَاصَ",
+     "tr": "-tawāṣa",
+     "en": "mutually advised / urged one another"
+    },
+    {
+     "ar": "وۡا",
+     "tr": "-w",
+     "en": "they (masc. plural)"
+    }
+   ],
+   "grammar": "'And' + a past-tense (form VI) verb. Form VI (the ta- prefix with the lengthened -ā-) signals a reciprocal action done back and forth between people: 'they advised one another.' The plural 'they' ending (here written -aw) marks the subject as a group. It is completed by the next word, which tells you what they urged each other toward.",
+   "root": "و-ص-ي (w-ṣ-y) — to enjoin, advise, counsel"
+  },
+  "8": {
+   "meaning": "'To the truth / regarding the truth' — al-ḥaqq is what is real, right, and true: established truth and what is genuinely due. This is the first thing the believers urge upon one another.",
+   "parts": [
+    {
+     "ar": "بِ",
+     "tr": "bi-",
+     "en": "with / to / regarding"
+    },
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "حَقِّ",
+     "tr": "-ḥaqqi",
+     "en": "truth / what is right"
+    }
+   ],
+   "grammar": "The particle bi- ('with/to') joined to 'the truth.' Because bi- is a preposition, the noun after it takes the genitive case, shown by the final -i (ḥaqqi). It links back to the verb 'urged one another,' answering 'urged each other to/with what?' — namely, the truth.",
+   "root": "ح-ق-ق (ḥ-q-q) — truth, right, what is real and due"
+  },
+  "9": {
+   "meaning": "'And they urged one another to patience' — the believers also mutually counsel each other to ṣabr: steadfast endurance, perseverance through hardship, and self-restraint in holding firm to what is right. This repeats the reciprocal verb and names patience as its object.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa-",
+     "en": "and"
+    },
+    {
+     "ar": "تَوَاصَ",
+     "tr": "-tawāṣa",
+     "en": "mutually advised / urged one another"
+    },
+    {
+     "ar": "وۡا",
+     "tr": "-w",
+     "en": "they (masc. plural)"
+    },
+    {
+     "ar": "بِ",
+     "tr": "bi-",
+     "en": "to / with"
+    },
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "صَّبۡرِ",
+     "tr": "-ṣabri",
+     "en": "patience / steadfast endurance"
+    }
+   ],
+   "grammar": "'And' + the same reciprocal form VI verb 'they urged one another' (ta- prefix, lengthened -ā-, plural 'they' ending), followed by bi- ('to/with') plus 'the patience.' After the preposition bi-, the noun takes the genitive case, marked by the final -i (ṣabri). The whole phrase parallels the previous one: 'and they urged one another to patience.'",
+   "root": "ص-ب-ر (ṣ-b-r) — to be patient, endure, persevere"
+  }
+ }
+}

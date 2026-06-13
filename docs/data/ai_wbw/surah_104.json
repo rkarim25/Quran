@@ -1,0 +1,571 @@
+{
+ "1": {
+  "1": {
+   "meaning": "A cry of doom, ruin, and grief hurled against someone — roughly 'utter destruction be upon them!' It is a threat of woe and a declaration that a terrible end awaits. Some scholars also note it as the name of a valley in Hell, but its primary force here is a sweeping pronouncement of devastation.",
+   "parts": [
+    {
+     "ar": "وَيۡل",
+     "tr": "wayl",
+     "en": "woe, doom, destruction"
+    },
+    {
+     "ar": "ٌ",
+     "tr": "-un",
+     "en": "a/an (indefinite ending, nominative)"
+    }
+   ],
+   "grammar": "This is a noun standing on its own as the subject of the sentence (the topic being announced). The final '-un' (written as two dhammas, tanwīn) does two things at once: it marks the word as nominative (the grammatical subject) and as indefinite ('a woe / sheer woe'). Beginning with an indefinite noun like this gives it the force of an exclamation — 'Woe!' — and Arabic grammarians note it implies 'woe IS fixed/established for…', making it a strong, almost prayer-like curse of ruin.",
+   "root": "و-ي-ل (w-y-l) — woe, doom, ruin"
+  },
+  "2": {
+   "meaning": "'For / to every single one' — it singles out each and every individual who fits the description that follows, leaving no one out. The sense is comprehensive: not just some such people, but absolutely every person of this type.",
+   "parts": [
+    {
+     "ar": "لِّـ",
+     "tr": "li-",
+     "en": "to, for"
+    },
+    {
+     "ar": "كُلِّ",
+     "tr": "kulli",
+     "en": "every, each"
+    }
+   ],
+   "grammar": "This is a prefix joined to a noun. The 'li-' prefix means 'to/for' and tells us whom the woe is directed at. Because 'li-' is a preposition, it forces the noun after it into the genitive case — that is why 'kull' ends in '-i' (kulli) rather than '-u'. 'Kull' ('every/all') is then itself linked to the next word in a possessive-style chain (iḍāfa, 'every OF a slanderer'), which is why the following word will also be genitive.",
+   "root": "ك-ل-ل (k-l-l) — totality, all, completeness"
+  },
+  "3": {
+   "meaning": "A habitual fault-finder and reviler who tears people down — one who slanders, sneers, and belittles others. The word-form is intensive: it describes someone for whom this is an ingrained habit and character trait, not a one-off slip. Classical scholars link it especially to backbiting and defaming people, often by gesture, eye, or hand as well as speech.",
+   "parts": [
+    {
+     "ar": "هُمَزَة",
+     "tr": "humaza",
+     "en": "persistent slanderer / fault-finder"
+    },
+    {
+     "ar": "ٍ",
+     "tr": "-tin",
+     "en": "a/an (indefinite ending, genitive)"
+    }
+   ],
+   "grammar": "This is a noun in the intensive pattern 'fuʿala' (humaza), a form that paints the person as doing the action constantly and by nature — a chronic reviler. The final '-in' (written as two kasras, tanwīn) marks it as both indefinite ('a slanderer') and genitive — genitive because it is the second part (mudāf ilayh) of the possessive chain begun by 'kulli' ('every slanderer'). The 'ta' ending here is not about gender; it intensifies the description, almost like 'a real slanderer through and through.'",
+   "root": "ه-م-ز (h-m-z) — to backbite, defame, prod/poke at"
+  },
+  "4": {
+   "meaning": "A persistent mocker and disparager who cuts others down — one who derides, taunts, and finds fault, classically understood as doing so to a person's face (or by tongue and gesture). Paired with the previous word, it completes a portrait of someone whose habit is to slander behind backs and sneer in faces alike.",
+   "parts": [
+    {
+     "ar": "لُّمَزَة",
+     "tr": "lumaza",
+     "en": "persistent mocker / derider"
+    },
+    {
+     "ar": "ٍ",
+     "tr": "-tin",
+     "en": "a/an (indefinite ending, genitive)"
+    }
+   ],
+   "grammar": "Like the previous word, this is the intensive pattern 'fuʿala' (lumaza), portraying habitual, ingrained mockery. The source transliterates it 'lumazatin', so the ending is the full indefinite genitive tanwīn '-in' (written as two kasras), exactly parallel to 'humazatin'. It is genitive because it is in apposition (badal or naʿt/descriptive adjective) to 'humazatin' — that is, it follows and qualifies the same noun. Since 'humazatin' is itself the mudāf ilayh (second term) of 'kulli', this appositive simply inherits the same genitive case; it does NOT start a new possessive (iḍāfa) chain of its own.",
+   "root": "ل-م-ز (l-m-z) — to mock, deride, find fault to one's face"
+  }
+ },
+ "2": {
+  "1": {
+   "meaning": "A relative pronoun meaning 'the one who' or 'he who'. It points back to the person condemned in the previous verse (the slanderer) and introduces a description of him: namely, the one who does the action that follows. Think of it as 'the very one who...'.",
+   "parts": [
+    {
+     "ar": "الَّ",
+     "tr": "al(la)",
+     "en": "the (definite element built into the pronoun)"
+    },
+    {
+     "ar": "ذِى",
+     "tr": "dhī",
+     "en": "who / which (relative-pronoun stem)"
+    }
+   ],
+   "grammar": "This is a masculine singular relative pronoun ('the one who'). Its form does not change for case here, so it simply stands in for the person being described and waits for a verb to complete the sense ('the one who [did]...'). Reading note: the small alif at the start (اۨ) is the connecting hamza, pronounced 'a' only when starting fresh; in flow it elides to 'lladhī'.",
+   "root": "— (relative pronoun, no triliteral root)"
+  },
+  "2": {
+   "meaning": "To gather, amass, collect together and pile up. Here it conveys the act of heaping up wealth, accumulating it piece upon piece.",
+   "parts": [
+    {
+     "ar": "جَمَعَ",
+     "tr": "jamaʿa",
+     "en": "he gathered / amassed"
+    }
+   ],
+   "grammar": "A past-tense (perfect) verb, Form I, third-person masculine singular: 'he gathered'. The final -a vowel on each consonant is the mark of the basic past-tense 'he did' form. Although past in form, after the relative pronoun it describes an ongoing habit — 'the one who [keeps] amassing'.",
+   "root": "ج-م-ع (j-m-ʿ) — gathering, collecting, joining together"
+  },
+  "3": {
+   "meaning": "Wealth, property, money, riches — material possessions of any kind that a person owns and values.",
+   "parts": [
+    {
+     "ar": "مَال",
+     "tr": "māl",
+     "en": "wealth / property"
+    },
+    {
+     "ar": "ًا",
+     "tr": "-an",
+     "en": "a (an unspecified amount); object-marker ending"
+    }
+   ],
+   "grammar": "A noun functioning as the direct object of 'gathered' (what was amassed). The final -an ending (written with tanwīn, the doubled mark) does two things at once: it marks the accusative case — 'it is the thing being gathered' — and the 'n' sound signals that the wealth is indefinite, i.e. 'wealth' in general, not a specific known sum.",
+   "root": "م-و-ل (m-w-l) — wealth, property, possessions"
+  },
+  "4": {
+   "meaning": "And he counted it (over and over) — repeatedly tallying it up, taking stock of it, gloating over the total. The intensive verb form suggests doing it again and again, dwelling on the hoard.",
+   "parts": [
+    {
+     "ar": "وَّ",
+     "tr": "wa-",
+     "en": "and"
+    },
+    {
+     "ar": "عَدَّدَ",
+     "tr": "ʿaddada",
+     "en": "he counted up repeatedly / tallied over and over"
+    },
+    {
+     "ar": "هُ",
+     "tr": "-hu",
+     "en": "it (referring to the wealth)"
+    }
+   ],
+   "grammar": "Structure: 'and' + verb + attached object 'it'. The verb عَدَّدَ is Form II (the stem's middle letter is doubled, ʿad-dad-), and this doubling adds intensity or repetition — not just 'counted' but 'counted again and again'. It is a past-tense (perfect) verb, third-person masculine singular ('he counted'). Note: 'he' is not a separate ending here — the third-person masculine singular perfect has no overt suffix (a zero ending), and the final -a is simply the stem vowel built into the Form II pattern (faʿʿala). The attached -hu at the end is the object pronoun 'it', pointing back to the wealth he amassed.",
+   "root": "ع-د-د (ʿ-d-d) — counting, numbering, reckoning"
+  }
+ },
+ "3": {
+  "1": {
+   "meaning": "He supposes, reckons, or imagines — a verb of opinion describing the deluded inner calculation of the hoarder, who genuinely believes something false. It conveys mistaken assumption, not certain knowledge.",
+   "parts": [
+    {
+     "ar": "يَـ",
+     "tr": "ya-",
+     "en": "he (does the action)"
+    },
+    {
+     "ar": "حۡسَبُ",
+     "tr": "-ḥsabu",
+     "en": "suppose / reckon"
+    }
+   ],
+   "grammar": "A present-tense (imperfect) verb, form I. The ya- prefix marks a third-person masculine singular subject ('he'), and the final -u ending is the indicative mood, marking a plain ongoing/habitual statement of fact ('he keeps thinking'). It governs the clause introduced by anna that follows.",
+   "root": "ح-س-ب (ḥ-s-b) — to count, reckon, calculate, suppose"
+  },
+  "2": {
+   "meaning": "An emphatic particle meaning 'that' / 'indeed that.' It introduces a noun-clause reporting the content of his thought and stresses it strongly ('that, most certainly…'). It has no single English word; English just uses 'that' but loses the built-in emphasis.",
+   "parts": [
+    {
+     "ar": "اَنَّ",
+     "tr": "anna",
+     "en": "that (indeed)"
+    }
+   ],
+   "grammar": "One of the 'sisters of inna' — an emphasizing particle that opens a subordinate clause. It forces the following noun (its subject, here mālahu) into the accusative case, which is why the next word ends in -a rather than -u. It carries emphasis but is not itself inflected.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "His wealth, his money, his property and possessions — the riches he amassed and gloated over, here imagined as a shield against death. The attached pronoun ties the wealth specifically to him.",
+   "parts": [
+    {
+     "ar": "مَالَ",
+     "tr": "māla",
+     "en": "wealth / property"
+    },
+    {
+     "ar": "هٗ",
+     "tr": "-hu",
+     "en": "his / it"
+    }
+   ],
+   "grammar": "A noun ('wealth') plus the attached possessive pronoun -hu ('his'). The noun shows the accusative -a ending (māla) because it is the subject of anna, which puts its subject in the accusative; the suffix -hu means 'his.' Together it is the thing he wrongly believes will save him.",
+   "root": "م-و-ل (m-w-l) — wealth, property, money"
+  },
+  "4": {
+   "meaning": "It has made him last forever / rendered him immortal — i.e. he imagines his fortune has secured him against ever dying. The phrasing is vivid: the wealth itself is pictured as the agent granting him endless life.",
+   "parts": [
+    {
+     "ar": "اَخۡلَدَ",
+     "tr": "akhlada",
+     "en": "made (someone) last forever / immortal"
+    },
+    {
+     "ar": "هٗ",
+     "tr": "-hu",
+     "en": "him"
+    }
+   ],
+   "grammar": "A past-tense (perfect) verb in form IV (the causative أَفْعَلَ pattern, formed by prefixing the hamza أَ- to the root, giving the sense 'to cause to remain forever'), with the attached object pronoun -hu ('him'). The verb's own subject is 'his wealth' from the previous word, so it reads 'his wealth made him last forever.' The final -a on akhlada is the normal third-person masculine singular past ending, and -hu marks the one acted upon.",
+   "root": "خ-ل-د (kh-l-d) — to remain forever, endure, be immortal"
+  }
+ },
+ "4": {
+  "1": {
+   "meaning": "A sharp word of rebuke and rejection. It is not really translatable by one English word: it stops the previous false thought dead and says in effect 'No indeed! Absolutely not!' Here it rejects the rich man's delusion in the verse before (that his wealth makes him last forever), and it can also carry the sense of a warning: 'Let him beware!'",
+   "parts": [
+    {
+     "ar": "كلَّا",
+     "tr": "kallā",
+     "en": "no indeed!, by no means!"
+    }
+   ],
+   "grammar": "An indeclinable particle of rebuttal (it never changes its ending). It is built on a fixed final long -ā and takes no case. Its job is purely rhetorical: to shut down and deny what was just said, and to brace the listener for what comes next.",
+   "root": "— (a particle of negation/rebuke; no triliteral root)"
+  },
+  "2": {
+   "meaning": "An emphatic promise that he will be hurled, flung, or cast away — thrown like something worthless and discarded. The wording stresses both certainty and contempt: it WILL happen, and he is tossed away as one throws out something of no value.",
+   "parts": [
+    {
+     "ar": "لَـ",
+     "tr": "la-",
+     "en": "surely, certainly (oath-emphasis)"
+    },
+    {
+     "ar": "يُـ",
+     "tr": "yu-",
+     "en": "he / it (3rd-person masculine singular, present-tense prefix)"
+    },
+    {
+     "ar": "ـُنـبَـذ",
+     "tr": "-unba-dha-",
+     "en": "passive stem 'is thrown' (u-then-a vowelling)"
+    },
+    {
+     "ar": "ـَنَّ",
+     "tr": "-anna",
+     "en": "emphasis ending: 'most certainly will'"
+    }
+   ],
+   "grammar": "A present-tense verb wrapped in two layers of emphasis. The prefixed la- is the 'emphatic laam' that answers an implied oath ('surely…'), and the heavy -anna suffix (the 'nūn of emphasis') hammers home that the action is guaranteed — together: 'he shall most certainly be thrown.' The yu- prefix itself only marks 3rd-person masculine singular in the present tense; it does NOT make the verb passive. What signals the passive is the internal vowel pattern — u on the prefix and a fatḥah on the root letter (yu-nba-dha-, 'he is thrown,' versus the active ya-nbi-dhu, 'he throws') — which leaves the Thrower unnamed and overwhelming. The verb is masculine singular, pointing back to the slanderer/hoarder of the earlier verses.",
+   "root": "ن-ب-ذ (n-b-dh) — to throw away, cast off, discard"
+  },
+  "3": {
+   "meaning": "A small linking word meaning 'in' or 'into' — it places what follows as the location or container into which he is thrown.",
+   "parts": [
+    {
+     "ar": "في",
+     "tr": "fī",
+     "en": "in, into"
+    }
+   ],
+   "grammar": "A preposition (a relational particle). It governs the noun after it, forcing that noun into the genitive case — which is exactly why the next word ends in -i. It fixes the destination: 'into the Crusher.'",
+   "root": "— (a preposition; no triliteral root)"
+  },
+  "4": {
+   "meaning": "Al-Ḥuṭamah — 'the Crusher,' one of the proper names of the Hellfire. The form is intensive, describing a fire that does not merely burn but smashes, shatters, and pulverizes whatever is cast into it. The definite article 'al-' marks it as a specific, well-known terror, not just any fire.",
+   "parts": [
+    {
+     "ar": "الْـ",
+     "tr": "al-",
+     "en": "the (definite article)"
+    },
+    {
+     "ar": "حُطَمَة",
+     "tr": "ḥuṭamah",
+     "en": "the Crusher; that which shatters/pulverizes"
+    },
+    {
+     "ar": "ـِ",
+     "tr": "-i",
+     "en": "genitive ending (after 'in')"
+    }
+   ],
+   "grammar": "A noun in an intensive pattern (fuʿalah, like 'humazah'/'lumazah' earlier in the surah) that turns the root meaning 'to crush' into 'the relentless crusher.' Its final vowel is -i (genitive) because the preposition 'fī' before it requires that case — the ending literally signals 'this is the object of in/into.' The 'al-' makes it a definite, named place: THE Crusher.",
+   "root": "ح-ط-م (ḥ-ṭ-m) — to crush, smash, break into pieces"
+  }
+ },
+ "5": {
+  "1": {
+   "meaning": "A combination of \"and\" plus the interrogative \"what.\" Here \"what\" is not a simple question seeking information; it opens a rhetorical formula of awe meaning roughly \"and what could possibly convey to you...\" — it magnifies the dread and mystery of what follows, signalling that the reality is beyond ordinary grasp.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "مَاۤ",
+     "tr": "mā",
+     "en": "what (interrogative)"
+    }
+   ],
+   "grammar": "Two pieces joined: the connector \"wa\" (\"and\") links this verse to the previous one, and \"mā\" is an interrogative particle, \"what.\" As a question word \"mā\" does not take case endings; the long final -ā is simply part of the word. Functioning as the subject of the verb that follows, it sets up the awe-inspiring rhetorical question.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "\"It made you know / it caused you to realize\" — a causative verb meaning to make someone aware or give them insight into something. In this rhetorical pattern (\"what would make you realize...?\") it implies that no created thing or prior experience could ever fully acquaint you with the terror being described.",
+   "parts": [
+    {
+     "ar": "اَدۡرٰى",
+     "tr": "adrā",
+     "en": "made (someone) know / realize"
+    },
+    {
+     "ar": "كَ",
+     "tr": "-ka",
+     "en": "you (object)"
+    }
+   ],
+   "grammar": "A past-tense (perfect) verb in Form IV — the a-...-prefix pattern (ʾa-drā) turns the base sense \"to know/perceive\" into the causative \"to make know.\" The verb is 3rd-person masculine singular (\"it/he made know\"), its subject being the interrogative \"mā\" before it. The attached \"-ka\" is the object pronoun \"you\" (masculine singular): literally \"what made-know you.\"",
+   "root": "د-ر-ي (d-r-y) — to know, to perceive, to be aware"
+  },
+  "3": {
+   "meaning": "The interrogative \"what,\" introducing the actual content of the question: \"what (is) the Crusher?\" It asks about the very nature and identity of the thing named next, heightening the suspense before it is named.",
+   "parts": [
+    {
+     "ar": "مَا",
+     "tr": "mā",
+     "en": "what (interrogative)"
+    }
+   ],
+   "grammar": "An interrogative particle, \"what,\" standing at the head of a noun-sentence. Being a question word it carries no case ending; the long final -ā is part of the word itself (the same long-ā particle as in word 1). Here \"mā\" is the topic/subject (mubtadaʾ) of the embedded question \"what is the Crusher?\", with the following noun as its predicate.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "\"The Crusher\" — a name for the Hellfire (al-Ḥuṭamah), drawn from a root meaning to smash, shatter or crush to pieces. It is an intensive form: not merely \"that which crushes\" but \"the relentless, all-consuming Crusher\" that pulverizes whatever is cast into it.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "حُطَمَةُ",
+     "tr": "ḥuṭamatu",
+     "en": "Crusher / that which shatters"
+    }
+   ],
+   "grammar": "Made of the definite article \"al-\" (\"the\") plus the noun \"ḥuṭamah,\" an intensive pattern (fuʿalah) conveying something that crushes habitually and severely. The final -u ending is nominative. In the nominal question \"mā al-ḥuṭamatu\" (\"what is the Crusher?\"), \"mā\" is the topic/subject (mubtadaʾ) and \"al-ḥuṭamatu\" is the predicate (khabar) — it is what is being said about \"mā,\" not the subject.",
+   "root": "ح-ط-م (ḥ-ṭ-m) — to break, smash, crush to pieces"
+  }
+ },
+ "6": {
+  "1": {
+   "meaning": "A fire — and in context not an ordinary one: it names the blazing Fire of Hell, the 'Crusher' (al-Ḥuṭamah) just mentioned. The verse presents it as the answer to the preceding question 'what is the Crusher?'",
+   "parts": [
+    {
+     "ar": "نَار",
+     "tr": "nār",
+     "en": "fire"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "(nominative ending, '[is] a fire')"
+    }
+   ],
+   "grammar": "A feminine noun serving as the predicate of the previous verse's question — 'It is a fire…'. The final -u is the nominative ending, marking it as the thing being identified. It is also the first term of a construct phrase (idafa) joined to the next word; note it takes a plain damma, not tanwin (نَارٌ), which is exactly what the construct state requires — so it reads 'the Fire OF…'.",
+   "root": "ن-و-ر (n-w-r) — fire, light, to blaze"
+  },
+  "2": {
+   "meaning": "Allah — the proper name of the One True God. Naming the Fire as belonging to Him stresses that this is no natural flame but a punishment kindled and controlled by Allah Himself, giving it overwhelming severity.",
+   "parts": [
+    {
+     "ar": "ٱللّٰه",
+     "tr": "Allāh",
+     "en": "Allah"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "(genitive ending, 'of Allah')"
+    }
+   ],
+   "grammar": "The proper name Allah, here in the genitive case — shown by the final -i. It is the second term of the construct (mudaf ilayhi) begun by the previous word, so the two together mean 'the Fire OF Allah,' i.e. Allah's Fire.",
+   "root": "— (the proper divine name; not derived from a triliteral root in the usual sense)"
+  },
+  "3": {
+   "meaning": "Kindled, set ablaze, made to burn fiercely — describing the Fire as actively lit and kept roaring, not smouldering. It conveys a fire deliberately stoked to its fullest intensity.",
+   "parts": [
+    {
+     "ar": "ٱل",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "مُوقَدَة",
+     "tr": "mūqada(t)",
+     "en": "kindled / set ablaze (passive participle, fem.)"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "(nominative ending, agreeing with 'fire')"
+    }
+   ],
+   "grammar": "A Form IV passive participle ('the kindled [one]') from awqada ('to set alight'); the pattern مُفْعَلَة, with fatha on the second radical (مُوقَدَة), is the passive participle — distinct from the active مُوقِدَة ('the one kindling'). It is feminine to agree with 'fire' (nār), which is feminine. The 'al-' is 'the,' and the final -u is nominative, agreeing with nāru — so it is an adjective of the Fire: 'the Fire… the kindled one.'",
+   "root": "و-ق-د (w-q-d) — to burn, kindle, blaze"
+  }
+ },
+ "7": {
+  "1": {
+   "meaning": "\"Which\" — a feminine relative pronoun (\"the one that…\") that points back to the Fire mentioned in the previous verse and introduces a description of it. Because the Arabic word for Fire (nār) is grammatically feminine, this feminine form is used, attaching the clause \"which rises over the hearts\" to that Fire.",
+   "parts": [
+    {
+     "ar": "الَّتِىۡ",
+     "tr": "allatī",
+     "en": "which / the one that (feminine)"
+    }
+   ],
+   "grammar": "This is a fixed relative pronoun, not built from a root with case endings. It is the feminine singular form (matching nār, \"Fire\"); the masculine counterpart would be alladhī. Its job is to glue the following verb-clause onto the noun it describes, like English \"...the Fire, which...\". It does not change for case here.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "\"It mounts up / rises and looks down over\" — describes the Fire climbing and towering over its victims. The verb carries the sense of rising up to a height and overlooking or peering down, so the Fire is pictured surging up and reaching the innermost parts.",
+   "parts": [
+    {
+     "ar": "تَ",
+     "tr": "ta-",
+     "en": "it (she) — present-tense person prefix"
+    },
+    {
+     "ar": "طَّلِعُ",
+     "tr": "-ṭṭaliʿu",
+     "en": "rises over / mounts up (form VIII stem of ṭ-l-ʿ)"
+    }
+   ],
+   "grammar": "Present-tense verb, third-person feminine singular (\"it/she\"), agreeing with the feminine \"Fire.\" The whole word is form VIII of the root ṭ-l-ʿ. Form VIII normally inserts an infix tā' after the first root letter (pattern iftaʿala in the past, yaftaʿilu in the present). Here the present-tense person prefix ta- comes first (marking \"it/she\"), and the form VIII infix tā' then assimilates into the following ṭ — two similar sounds merging — which is why you see the doubled ṭṭ (taṭṭaliʿu rather than a separate t and ṭ). So the doubling is a sign of form VIII, not a separate prefix. The final -u is the standard present-tense (indicative) ending, marking real, ongoing action: \"it keeps rising over.\" Form VIII here intensifies the plain root sense \"to ascend/appear\" into \"to surge up and tower over.\"",
+   "root": "ط-ل-ع (ṭ-l-ʿ) — to rise, ascend, come into view (as the sun rises)"
+  },
+  "3": {
+   "meaning": "\"Over / upon\" — a preposition placing the Fire above and against the hearts; combined with the verb it gives \"rises up over\" with a sense of overwhelming dominance from above.",
+   "parts": [
+    {
+     "ar": "عَلَى",
+     "tr": "ʿalā",
+     "en": "over / upon / against"
+    }
+   ],
+   "grammar": "A preposition (a small linking word), unchanging in form. It governs the noun after it, putting that noun in the genitive case — which is why the next word ends in -i. It conveys \"on top of\" or \"over,\" and with this verb adds the idea of bearing down upon the hearts from above.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "\"The hearts\" — the plural of fuʾād, the heart understood as the seat of feeling, intention, and inner life. The point is that this Fire reaches not merely the skin or body but the very core of a person, the inmost self where emotions and resolve reside.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "اَفۡـِٕدَةِ",
+     "tr": "-afʾidati",
+     "en": "hearts (broken plural of fuʾād)"
+    }
+   ],
+   "grammar": "A definite noun, \"the hearts.\" al- is the definite article \"the.\" It is a broken (irregular) plural — the singular fuʾād reshapes into afʾida for the plural rather than just adding an ending. The final -i ending is the genitive case, required because it follows the preposition ʿalā (\"over\"); so it reads \"over THE HEARTS.\"",
+   "root": "ف-أ-د (f-ʾ-d) — the heart, the inner core of feeling and mind (middle radical is hamza, not alif)"
+  }
+ },
+ "8": {
+  "1": {
+   "meaning": "A two-part word meaning 'Indeed it (is)…' or 'Truly it…'. It combines the emphatic particle 'inna', which Allah uses to stress and confirm a statement (like saying 'most certainly' or 'indeed'), with the attached pronoun 'it', referring back to the Fire (al-Hutamah, which is feminine in Arabic). By itself this word only asserts 'Indeed, it…'; what the Fire actually does is then stated by the words that follow ('over them', 'sealed').",
+   "parts": [
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "indeed / truly (emphasis)"
+    },
+    {
+     "ar": "هَا",
+     "tr": "hā",
+     "en": "it (she) — referring to the Fire"
+    }
+   ],
+   "grammar": "'Inna' is an emphasis particle that strongly affirms the sentence that follows; it governs the noun or pronoun immediately after it, placing it in the accusative case. The attached '-hā' is therefore the subject of this emphatic sentence (the 'ism inna') standing in the accusative — not a verbal object pronoun (those attach to verbs). It is feminine singular because its antecedent, the Fire (al-Hutamah), is grammatically feminine. So the sense is 'Indeed it (the Fire) is…', with the predicate supplied by the next words.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "A two-part word meaning 'over them' or 'upon them' — picturing the Fire pressing down on top of the people inside it, like a lid bearing down from above. 'Them' refers to the slanderers and hoarders condemned earlier in the surah.",
+   "parts": [
+    {
+     "ar": "عَلَيْ",
+     "tr": "ʿalay",
+     "en": "over / upon"
+    },
+    {
+     "ar": "هِمْ",
+     "tr": "him",
+     "en": "them (masculine plural)"
+    }
+   ],
+   "grammar": "'ʿalā' ('over/upon') is a preposition that takes the form 'ʿalay-' when a pronoun is attached. The ending '-him' is the masculine plural pronoun 'them'. Arabic pronoun suffixes do not inflect for case; the base form is '-hum', and it surfaces here as '-him' purely by phonological assimilation: when the preceding syllable contains a kasra (the 'i' vowel) or a yāʾ — as in 'ʿalay-' — the 'u' of '-hum' shifts to 'i', giving '-him'. The plural marks the many people deserving this punishment.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "'Closed/sealed shut over them' — describing the Fire as fastened down upon its inmates with no opening, no exit, and no escape, like a vault locked from the outside. The single word carries the weight of total, inescapable enclosure.",
+   "parts": [
+    {
+     "ar": "مُؤْصَدَ",
+     "tr": "muʾṣada",
+     "en": "shut / sealed / closed over"
+    },
+    {
+     "ar": "ةٌ",
+     "tr": "-tun",
+     "en": "feminine ending + '-un' (a/an, indefinite)"
+    }
+   ],
+   "grammar": "This is a passive participle ('made shut / sealed') built on the Form IV verb 'awṣada' ('to shut firmly, fasten a door upon'). Form IV is marked in the verb by an initial hamza (aw-ṣada); in the participle that root hamza surfaces as the 'ʾ' in 'muʾṣada'. The 'mu-' prefix is simply the standard passive-participle prefix shared by all derived forms (II–X), not a Form IV marker. The feminine '-a(t)-' ending agrees with the Fire (feminine). The final '-un' (the 'tanwīn', a doubled 'u') marks the nominative case with indefiniteness, identifying it as the predicate: '[it is] a thing sealed over them'.",
+   "root": "ء-ص-د (ʾ-ṣ-d) — to shut, close, fasten (a door)"
+  }
+ },
+ "9": {
+  "1": {
+   "meaning": "A preposition meaning \"in\" or \"within\" — it locates something inside or among something else. Here it sets the scene of the punishment: the people of the Fire are confined \"within\" what follows, namely outstretched pillars or columns.",
+   "parts": [
+    {
+     "ar": "فِىۡ",
+     "tr": "fī",
+     "en": "in / within"
+    }
+   ],
+   "grammar": "This is an unchanging particle (a preposition), so it has no case ending of its own. Its job is to put the noun after it into the genitive case — which is exactly why the next word ʿamad appears as ʿamadin (with the -in ending) rather than ʿamadun.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "Pillars, columns, or posts. The word is a plural referring to long, sturdy supports or stakes. Commentators describe these as columns of iron or fire that tower over the condemned, with the gates of the Fire shut upon them.",
+   "parts": [
+    {
+     "ar": "عَمَد",
+     "tr": "ʿamad",
+     "en": "pillars / columns"
+    },
+    {
+     "ar": "ٍ",
+     "tr": "-in",
+     "en": "(genitive + indefinite \"some\")"
+    }
+   ],
+   "grammar": "The ending is -in (genitive case with nunation/tanwīn). The genitive case is forced by the preposition fī before it (\"in pillars\"). The nunation (the -n sound) marks it as indefinite — \"pillars\" in general, not \"the pillars\" — and adds the sense of \"some\" outstretched columns.",
+   "root": "ع-م-د (ʿ-m-d) — to support, prop up, hold upright; a pillar or central support"
+  },
+  "3": {
+   "meaning": "Outstretched, drawn out, extended in length. It describes the pillars as long and stretched far — emphasising their imposing, elongated form. The intensive verb pattern behind it conveys that they are stretched out thoroughly, to a great extent.",
+   "parts": [
+    {
+     "ar": "مُ",
+     "tr": "mu-",
+     "en": "prefix forming a passive participle (\"having been …\")"
+    },
+    {
+     "ar": "مَدَّدَ",
+     "tr": "maddada",
+     "en": "stretched out / extended (intensive Form II stem)"
+    },
+    {
+     "ar": "ةٍ",
+     "tr": "-atin",
+     "en": "feminine ending + genitive/indefinite"
+    }
+   ],
+   "grammar": "This is a passive participle (the mu- prefix gives the sense \"that which has been stretched out\"), built on the intensive Form II pattern, mufaʿʿal → mumaddad. The intensity comes from the doubling of the middle radical that Form II morphology imposes, which strengthens the meaning to \"stretched far / extended at length\"; note this is a feature of Form II itself, not of the root simply being a doubled (geminate) root. The feminine -at ending appears because ʿamad is a non-human (broken) plural, and Arabic treats non-human plurals as feminine singular for adjectival agreement — so the adjective takes the feminine form regardless of the gender of the singular ʿamūd. The final -in (genitive with nunation) matches ʿamadin before it, since this word describes that noun. (In the segmentation, the stem maddada carries a fatḥa on its final dāl, so that with the feminine ending it reads mumaddadatin — مُمَدَّدَةٍ.)",
+   "root": "م-د-د (m-d-d) — to stretch, extend, draw out, prolong"
+  }
+ }
+}

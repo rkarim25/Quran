@@ -1,0 +1,388 @@
+{
+ "1": {
+  "1": {
+   "meaning": "A compound interrogative meaning 'Have you not...?' It fuses the question-marker a- ('do/did...?') with lam ('not'). Rather than seeking information, it is a rhetorical question used to draw attention and affirm a known truth: 'Surely you are aware how...' It invites the listener to recall and reflect on something certain.",
+   "parts": [
+    {
+     "ar": "اَ",
+     "tr": "a",
+     "en": "interrogative marker: 'do/did...?'"
+    },
+    {
+     "ar": "لَمۡ",
+     "tr": "lam",
+     "en": "'not' (negating a past action)"
+    }
+   ],
+   "grammar": "Two particles joined together. The a- at the front turns the statement into a question. lam is a negative particle that puts the verb after it into the jussive mood and pushes its meaning into the past, so 'lam tara' = 'you did not see / have not seen'. Combined with the question marker, the whole thing means 'Have you not seen...?' — a gentle, rhetorical prompt, not a real request for information.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "'You see/saw' — here in the sense of perceiving, witnessing, or coming to know with certainty. The seeing is not only with the eyes but with the understanding: 'have you not come to realise / take note of'. The one addressed is the Prophet (peace be upon him), and through him every listener.",
+   "parts": [
+    {
+     "ar": "تَ",
+     "tr": "ta-",
+     "en": "'you' (the doer; masculine singular)"
+    },
+    {
+     "ar": "رَ",
+     "tr": "-ra",
+     "en": "the verb stem 'see'; its middle root-letter hamza (ء) and its final weak root-letter ( y) have both dropped out on the surface, leaving just 'ra'"
+    }
+   ],
+   "grammar": "A present-tense verb governed by the preceding 'lam', which puts it in the jussive mood and shifts its time-frame to the past: 'you have (not) seen'. The ta- prefix marks the subject as 'you' (one male person). This is a final-weak (defective) verb: its full independent form is 'tarā' (تَرَىٰ), ending in a weak letter (alif maqṣūrah, standing for the root's final yāʾ). The jussive does not merely shorten a vowel — it deletes that final weak letter entirely, so 'tarā' becomes 'tara'. Note too that the middle root consonant, hamza, which would appear in related forms, is dropped in the imperfect of this verb; the surface 'ra' therefore shows neither the hamza nor the final weak letter, even though both belong to the root.",
+   "root": "ر-أ-ي (r-ʾ-y) — to see, perceive, realise"
+  },
+  "3": {
+   "meaning": "'How' — an interrogative asking about the manner or way in which something was done. Here it carries amazement: it points to the striking, decisive manner in which the Lord dealt with the aggressors, inviting wonder rather than a literal answer.",
+   "parts": [
+    {
+     "ar": "كَيۡفَ",
+     "tr": "kayfa",
+     "en": "'how, in what manner'"
+    }
+   ],
+   "grammar": "An indeclinable question-word (it never changes its form for case). It fixes permanently on a final '-a' (fatḥah) ending. It introduces and is the object of the verb that follows ('how He dealt'), framing the entire clause as a question about manner.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "'He did / acted / dealt with' — a general verb of doing. In this context it means how the Lord 'handled' or 'dealt with' the people of the elephant, i.e. the action He took against them. It deliberately understates a momentous event, letting the following verses spell out the 'how'.",
+   "parts": [
+    {
+     "ar": "فَعَلَ",
+     "tr": "faʿala",
+     "en": "'he did / acted'"
+    }
+   ],
+   "grammar": "A plain past-tense verb in its base form (form I). With no attached subject pronoun, the bare stem with its '-a' ending built in means 'he did' — a single male doer, here 'your Lord'. The final '-a' is simply the standard vowel of the past-tense verb. The subject ('your Lord') comes right after as a separate word.",
+   "root": "ف-ع-ل (f-ʿ-l) — to do, make, act"
+  },
+  "5": {
+   "meaning": "'Your Lord' — 'Rabb' is far richer than 'master': the One who creates, owns, sustains, nurtures, and brings each thing to its completion, caring for it at every stage. Attached to 'you' (the Prophet), it is intimate and reassuring: the very Lord who looks after you is the One who acted thus.",
+   "parts": [
+    {
+     "ar": "رَبُّ",
+     "tr": "rabbu",
+     "en": "'Lord, Sustainer, Nurturer'"
+    },
+    {
+     "ar": "كَ",
+     "tr": "-ka",
+     "en": "'your' (masculine singular)"
+    }
+   ],
+   "grammar": "A noun followed by an attached possessive pronoun. The '-u' on 'rabbu' is the nominative ending, marking it as the subject (the doer) of the verb 'faʿala' — it is your Lord who did this. The attached '-ka' means 'your', addressing one male person. Together: 'your Lord' as the actor of the sentence.",
+   "root": "ر-ب-ب (r-b-b) — to nurture, sustain, master"
+  },
+  "6": {
+   "meaning": "'With the companions/owners of...' — 'aṣḥāb' are the people closely associated with a thing, its companions, masters, or owners; here 'the people of the elephant', i.e. Abraha's army that marched on the Sacred House with an elephant. The opening 'bi-' ('with') links the verb to them: how He dealt 'with' them.",
+   "parts": [
+    {
+     "ar": "بِ",
+     "tr": "bi-",
+     "en": "'with' (a connecting preposition)"
+    },
+    {
+     "ar": "اَصۡحٰبِ",
+     "tr": "aṣḥābi",
+     "en": "'companions / owners / people of'"
+    }
+   ],
+   "grammar": "A preposition 'bi-' ('with') joined to a plural noun. 'aṣḥāb' is the broken (irregular) plural of 'ṣāḥib' ('companion'). Its '-i' ending is genitive, which happens for two reasons here: the preposition 'bi-' always puts the next word in the genitive, and the noun is also the first half of a possessive phrase ('companions OF the elephant'), which the following word completes.",
+   "root": "ص-ح-ب (ṣ-ḥ-b) — to accompany, befriend"
+  },
+  "7": {
+   "meaning": "'The elephant' — referring to the great war-elephant (and the host that brought it) used by Abraha in the failed attempt to destroy the Kaʿbah. The whole army took its name from this beast, which famously refused to advance on the Sacred House.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "'the' (the definite article)"
+    },
+    {
+     "ar": "فِيۡلِ",
+     "tr": "fīli",
+     "en": "'elephant'"
+    }
+   ],
+   "grammar": "The definite article 'al-' ('the') attached to the noun 'fīl' ('elephant'). The 'a' of 'al-' is dropped in pronunciation after the preceding word, so it sounds like 'l-fīli'. The '-i' ending is genitive because this word completes the possessive phrase begun by the previous word: 'the companions/people OF the elephant'.",
+   "root": "ف-ي-ل (f-y-l) — elephant"
+  }
+ },
+ "2": {
+  "1": {
+   "meaning": "A two-part opening that asks a pointed question expecting the answer 'yes, of course.' It combines the question-word 'a- ('did...?') with lam ('not'), so together it means 'Did He not...?' — a rhetorical question inviting the listener to affirm what Allah did. Because lam pushes a present-tense verb back into the past, the whole clause refers to a completed past event.",
+   "parts": [
+    {
+     "ar": "اَ",
+     "tr": "a-",
+     "en": "a question marker: 'did...?' / 'is it not that...?'"
+    },
+    {
+     "ar": "لَمۡ",
+     "tr": "lam",
+     "en": "'not' — a particle that negates a verb and shifts it to past meaning"
+    }
+   ],
+   "grammar": "This is a question particle (a-) fused with the negating particle lam. Lam is special: it takes the jussive form of the present-tense verb that follows, yet gives it a PAST meaning. So 'a-lam yajʿal' literally is 'did-not-he-make' = 'Did He not make...?' The expected answer is an emphatic 'yes, He certainly did.'",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "'He placed / He made / He rendered' — here in the sense of causing their plot to END UP in a particular state. With the preposition that follows, it means 'He turned/put their scheme into (a state of) ruin.' The verb refers to Allah's single decisive act in the past.",
+   "parts": [
+    {
+     "ar": "يَ",
+     "tr": "ya-",
+     "en": "'he' — the prefix marking a 3rd-person masculine singular subject"
+    },
+    {
+     "ar": "جۡعَلۡ",
+     "tr": "jʿal",
+     "en": "'make / place / render / cause to be'"
+    }
+   ],
+   "grammar": "A present-tense verb form (Form I) carrying the 'he' prefix ya-. Although the shape is present-tense, it sits under lam from the previous word, so it is jussive in form and PAST in meaning — note the bare, vowelless ending -l (sukūn), the tell-tale sign of the jussive after lam. Hence 'Did He not make...'. The subject 'He' (Allah) is built into the ya- prefix.",
+   "root": "ج-ع-ل (j-ʿ-l) — to make, place, render, cause to become"
+  },
+  "3": {
+   "meaning": "'Their plot / their scheme / their cunning plan' — the malicious stratagem of the army of the Elephant to destroy the Sacred House. The word kayd denotes crafty, hostile plotting; the attached 'their' identifies the plotters (Abraha and his men).",
+   "parts": [
+    {
+     "ar": "كَيۡدَ",
+     "tr": "kayda",
+     "en": "'plot, scheme, cunning stratagem'"
+    },
+    {
+     "ar": "هُمۡ",
+     "tr": "-hum",
+     "en": "'their' — attached pronoun for 'them' (masculine plural)"
+    }
+   ],
+   "grammar": "A noun (kayd) with the possessive pronoun -hum ('their') joined to its end. The noun carries the -a ending (kayda), which is the accusative case: it marks kayd as the direct object of the verb 'make' — i.e. the thing that He placed into ruin. The suffix -hum points back to the people of the Elephant.",
+   "root": "ك-ي-د (k-y-d) — to plot, scheme, devise a cunning plan"
+  },
+  "4": {
+   "meaning": "'In / into' — a small linking word. Paired with the verb 'make,' it carries the sense of causing something to end up 'in(to)' a state: 'He put their plot INTO...' a condition of loss.",
+   "parts": [
+    {
+     "ar": "فِىۡ",
+     "tr": "fī",
+     "en": "'in / into / amid'"
+    }
+   ],
+   "grammar": "A preposition meaning 'in/into.' It governs the noun that follows, forcing it into the genitive case (hence the -in ending on the next word). Together 'make ... fī ...' expresses turning the plot into a state of ruin.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "'Leading astray / causing to go astray / rendering futile' — a causative action: their scheme was MADE to go nowhere, derailed and brought to nothing. This is the verbal noun of the transitive/causative Form II verb (ḍallala, 'to lead astray, to render void'), not the intransitive 'straying' of Form I. So 'He placed their plot fī taḍlīl' means Allah caused their plot to go astray, i.e. He thwarted it and made it utterly fail. The Form II pattern adds an intensive force, stressing how thoroughly their plan was made to come to nothing.",
+   "parts": [
+    {
+     "ar": "تَضۡلِيۡل",
+     "tr": "taḍlīl",
+     "en": "'causing to go astray / leading into ruin and loss'"
+    },
+    {
+     "ar": "ٍ",
+     "tr": "-in",
+     "en": "the '-in' ending: genitive case + nunation (an unspecified 'a state of...')"
+    }
+   ],
+   "grammar": "A verbal noun (masdar) of Form II on the tafʿīl pattern (the ta- prefix with a doubled middle radical, taḍlīl). Form II is transitive/causative: not 'to stray' (intransitive Form I, ḍalāl) but 'to make/cause to stray, to render void.' The final -in is two things at once: genitive case (required after the preposition fī) and tanwīn (nunation), marking it as indefinite — 'into (a state of) being utterly led astray.'",
+   "root": "ض-ل-ل (ḍ-l-l) — to go astray, lose the way, be lost; (Form II) to lead astray, render void"
+  }
+ },
+ "3": {
+  "1": {
+   "meaning": "And He sent (forth / against). A past-tense verb meaning that Allah dispatched or released something and sent it out toward a target. The opening 'and' connects this act to the previous verse, continuing the account of what Allah did to the Army of the Elephant.",
+   "parts": [
+    {
+     "ar": "وَّ",
+     "tr": "wa-",
+     "en": "and"
+    },
+    {
+     "ar": "اَرۡسَلَ",
+     "tr": "arsala",
+     "en": "he sent"
+    }
+   ],
+   "grammar": "A Form IV (af'ala, the 'a-' prefix on the stem) past-tense verb, giving the sense 'to send out / dispatch.' It has no visible subject pronoun; the bare 3rd-person masculine singular form means 'He (did)' — here referring to Allah. The final '-a' is the normal past-tense ending. The leading 'wa-' is the connector 'and,' joining this clause to the previous verse. The waw carries a shadda (written وَّ, i.e. doubled), because the previous verse ends in a silent consonant (the lām of taḍlīl, with sukūn) and the connecting waw is geminated by assimilation in recitation; the mushaf reflects this in the written form.",
+   "root": "ر-س-ل (r-s-l) — to send, dispatch (the same root as rasūl, 'messenger')"
+  },
+  "2": {
+   "meaning": "Upon them / against them. A preposition meaning 'on' or 'over' joined to a pronoun referring to the people of the Elephant — so 'against them,' conveying that the birds were sent down upon them as a punishment from above.",
+   "parts": [
+    {
+     "ar": "عَلَيۡ",
+     "tr": "ʿalay",
+     "en": "upon / against"
+    },
+    {
+     "ar": "هِمۡ",
+     "tr": "him",
+     "en": "them"
+    }
+   ],
+   "grammar": "The preposition 'ʿalā' ('on, upon, against') takes the special form 'ʿalay-' before an attached pronoun. The suffix '-him' is the 3rd-person masculine plural object pronoun 'them.' (The '-him' vowel, rather than '-hum,' is simply how the pronoun is pronounced after the 'ay' sound.) Together it directs the verb's action down onto a group: 'against them.'",
+   "root": "— (preposition with attached pronoun; no triliteral root)"
+  },
+  "3": {
+   "meaning": "Birds. A collective noun for flying creatures (birds in general), here the creatures Allah sent against the invading army.",
+   "parts": [
+    {
+     "ar": "طَيۡر",
+     "tr": "ṭayr",
+     "en": "birds"
+    },
+    {
+     "ar": "ًا",
+     "tr": "-an",
+     "en": "(an / indefinite object ending)"
+    }
+   ],
+   "grammar": "A collective noun meaning 'birds.' The final '-an' (written with tanwīn, the doubled mark) is the indefinite accusative ending: it marks the word as the direct object of 'He sent' ('He sent birds') and as indefinite ('some birds,' not 'the birds'). The accusative '-a-' vowel is what shows it is the thing being sent.",
+   "root": "ط-ي-ر (ṭ-y-r) — to fly; flying, birds"
+  },
+  "4": {
+   "meaning": "In flocks — in successive, swarming groups coming wave after wave from every direction. The word describes the birds as arriving not as a single flight but as many companies following one upon another.",
+   "parts": [
+    {
+     "ar": "اَبَابِيۡل",
+     "tr": "abābīl",
+     "en": "flocks / successive swarms"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "(accusative ending)"
+    }
+   ],
+   "grammar": "A plural noun (with no commonly used singular) meaning 'flocks / successive swarms.' Grammarians most often parse it as a ḥāl — a circumstantial accusative describing the state in which the birds came ('He sent birds, [coming] in flocks') — rather than as an adjective of 'birds.' Its ending is a plain '-a' (not the doubled '-an'): words of this particular plural pattern are 'diptote,' meaning they refuse the indefinite tanwīn and take a bare '-a' in the accusative. So the ending still marks it as accusative.",
+   "root": "— (no agreed triliteral root; an Arabic plural-form word for teeming, successive groups)"
+  }
+ },
+ "4": {
+  "1": {
+   "meaning": "\"It (the flock of birds) keeps pelting / striking them.\" A present-tense verb picturing the birds continually hurling down stones upon the army of the elephant. The vivid ongoing tense makes the scene live before the listener, as though the assault is unfolding now.",
+   "parts": [
+    {
+     "ar": "تَـ",
+     "tr": "ta-",
+     "en": "she / it (feminine subject prefix — referring back to the flock of birds, ṭayr, treated as feminine)"
+    },
+    {
+     "ar": "رۡمِيۡ",
+     "tr": "rmī",
+     "en": "throws / pelts / hurls"
+    },
+    {
+     "ar": "هِمۡ",
+     "tr": "-him",
+     "en": "them (object pronoun, masculine plural — the attackers)"
+    }
+   ],
+   "grammar": "A present/imperfect verb (Form I), 3rd person feminine singular ('she/it'). The ta- prefix marks the feminine subject, pointing back to the flock of birds. This is a defective verb (root ending in -y), so its mood shows on the final long vowel rather than a separate case-vowel: the retained long ī (tarmī) is the indicative ('keeps throwing / is pelting'), while the jussive would drop it (tarmi). The indicative here conveys continuous, repeated action. The attached -him is the direct object 'them'.",
+   "root": "ر-م-ي (r-m-y) — to throw, hurl, pelt"
+  },
+  "2": {
+   "meaning": "\"With stones.\" The instrument of the punishment: hard stones (each bird carried small baked-clay pebbles) flung down with deadly force.",
+   "parts": [
+    {
+     "ar": "بِـ",
+     "tr": "bi-",
+     "en": "with / by means of"
+    },
+    {
+     "ar": "حِجَارَةٍ",
+     "tr": "ḥijāratin",
+     "en": "stones"
+    }
+   ],
+   "grammar": "A prefix bi- ('with, by means of') showing the instrument, attached to the noun ḥijārah ('stones'). Because bi- always puts the following noun in the genitive case, the ending appears as -in (ḥijāratin). The -in is also nunation (tanwīn), marking the noun as indefinite — 'some stones,' not 'the stones.'",
+   "root": "ح-ج-ر (ḥ-j-r) — stone, rock"
+  },
+  "3": {
+   "meaning": "\"Of / made from.\" A small linking particle here meaning 'consisting of' or 'made out of' — it tells you what the stones were composed of.",
+   "parts": [
+    {
+     "ar": "مِنۡ",
+     "tr": "min",
+     "en": "of / from (origin or material)"
+    }
+   ],
+   "grammar": "An indeclinable preposition ('of, from'). It does not change its form, but it governs the word after it, putting that following noun into the genitive case. Here it links the stones to their material: stones 'of' baked clay. (In recitation its final nūn assimilates into the following s of sijjīl, written with a shadda — mmin sijjīl — but the word itself is min.)",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "\"Baked clay / hardened stone of clay.\" Sijjīl denotes hard lumps of clay baked into stone — fired, rock-hard pellets. Commentators note it conveys something hard and solid, sent as a decree of punishment.",
+   "parts": [
+    {
+     "ar": "سِجِّيۡلٍ",
+     "tr": "sijjīlin",
+     "en": "baked clay (hardened, stone-like clay)"
+    }
+   ],
+   "grammar": "A single noun with no prefixes or suffixes. Its ending is -in (sijjīlin): the genitive case, required because it follows the preposition min ('of'). The -in is also nunation (tanwīn), marking it as indefinite — 'baked clay' in general. So the phrase reads 'stones OF baked clay.'",
+   "root": "— (commonly held to be of Persian origin — per Ibn Hisham, from Sanj 'stone' + Jil 'clay' — Arabized; not a native triliteral root)"
+  }
+ },
+ "5": {
+  "1": {
+   "meaning": "\"Then He made them / rendered them (into something),\" referring to Allah reducing the army of the Elephant to a ruined state. The verb here is transformative: it does not mean merely \"made\" in the sense of creating, but \"turned them into\" or \"reduced them to\" the condition described next.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa-",
+     "en": "and so / then (marks the result or sequence of events)"
+    },
+    {
+     "ar": "جَعَلَ",
+     "tr": "jaʿala",
+     "en": "He made / turned (into)"
+    },
+    {
+     "ar": "هُمۡ",
+     "tr": "-hum",
+     "en": "them (object)"
+    }
+   ],
+   "grammar": "Built on the prefix fa- (\"and so/then\"), which signals that this is the consequence of what came before. The stem jaʿala is a past-tense verb with no visible subject prefix or suffix, which is the default form for \"he\" — so the doer is \"He\" (Allah). It is a transformative verb (\"to make X into Y\"), taking two objects: the attached -hum (\"them\") is the first, and the following phrase \"like eaten straw\" is the second. The ending of jaʿala is -a, the normal past-tense vowel, not a case marker.",
+   "root": "ج-ع-ل (j-ʿ-l) — to make, to render, to turn something into something"
+  },
+  "2": {
+   "meaning": "\"Like chaff / like dry stalks and leaves of a crop.\" ʿaṣf refers to the withered husks, straw, and stripped foliage left over from grain plants — worthless, crushed plant debris. The prefixed \"like\" makes it a vivid comparison for the shattered, trampled remains of the army.",
+   "parts": [
+    {
+     "ar": "كَ",
+     "tr": "ka-",
+     "en": "like / as"
+    },
+    {
+     "ar": "عَصۡفٍ",
+     "tr": "ʿaṣfin",
+     "en": "chaff, dry straw, crop husks"
+    }
+   ],
+   "grammar": "The prefix ka- means \"like/as\" and is a particle that forces the following noun into the genitive case — which is exactly why the noun ends in -in. That -in ending is genitive plus tanwin (the \"-n\" of indefiniteness), so it reads \"like (some) chaff,\" indefinite. So the two cues together — the ka- prefix and the -in ending — mark this as the thing being compared to.",
+   "root": "ع-ص-ف (ʿ-ṣ-f) — dry plant matter; chaff/straw (also linked to the sense of a violent, scattering wind)"
+  },
+  "3": {
+   "meaning": "\"Eaten / devoured,\" describing the chaff as already consumed — chewed and spat out by grazing animals, or eaten through. The image is of plant refuse that has been bitten into and reduced to fragments, underscoring how utterly the army was destroyed.",
+   "parts": [
+    {
+     "ar": "مَّاۡكُو",
+     "tr": "makū",
+     "en": "eaten, devoured (base of the passive participle)"
+    },
+    {
+     "ar": "لٍ",
+     "tr": "-lin",
+     "en": "final root letter + indefinite genitive ending (-in)"
+    }
+   ],
+   "grammar": "This is a passive participle of form I — the pattern mafʿūl, here maʾkūl, meaning \"that which is eaten / having been eaten\" (passive, describing the receiver of the action). In the source script the hamza of the root is written as an alif (مَّاۡكُو…) and the initial mim carries a shadda (مَّ); that doubling reflects idghām — in connected recitation the tanwin of the preceding ʿaṣfin assimilates into this mim. It describes the preceding word ʿaṣf (\"chaff\"), so it matches it in case: the -in ending is genitive with tanwin (indefinite), agreeing with \"like chaff.\" Together the phrase means \"like eaten-up chaff.\"",
+   "root": "أ-ك-ل (ʾ-k-l) — to eat, to consume, to devour"
+  }
+ }
+}
