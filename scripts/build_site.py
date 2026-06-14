@@ -93,6 +93,25 @@ def build_surah(surah: int, chapters: dict[int, dict]) -> None:
     )
 
 
+def stamp_build() -> None:
+    """Stamp a build id into docs/index.html (__BUILD_ID__) and docs/build.json.
+
+    The reader fetches build.json (no-store) on load and reloads once, cache-busted,
+    if the live build differs from the one baked into the cached index.html — so a
+    stale CDN/browser copy never sticks. Uses the commit SHA in CI, else a timestamp.
+    """
+    import os, time
+
+    build_id = os.environ.get("GITHUB_SHA", "")[:8] or str(int(time.time()))
+    docs = ROOT / "docs"
+    (docs / "build.json").write_text(json.dumps({"build": build_id}), encoding="utf-8")
+    idx = docs / "index.html"
+    if idx.exists():
+        html = idx.read_text(encoding="utf-8")
+        if "__BUILD_ID__" in html:
+            idx.write_text(html.replace("__BUILD_ID__", build_id), encoding="utf-8")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--surah", type=int, help="Build a single surah only")
@@ -133,6 +152,7 @@ def main() -> int:
     from build_search_index import main as build_search_index
 
     build_search_index()
+    stamp_build()
     print(f"\nDone. {len(index)} surahs written to {OUTPUT}")
     return 0
 

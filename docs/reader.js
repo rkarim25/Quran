@@ -601,31 +601,32 @@ function translationBlockHtml(ayah, { inline = false } = {}) {
       </${tag}>`;
 }
 
+function toArabicNum(n) {
+  return String(n).replace(/\d/g, (d) => "٠١٢٣٤٥٦٧٨٩"[+d]);
+}
+
 function ayahBlock(data, ayah, surahId) {
   const a = mergeLocalEdits(ayah, surahId);
   const bookmarked = isBookmarked(surahId, ayah.ayah);
   const hasReflection = !!(a.personal_reflections && a.personal_reflections.trim());
   return `
     <article class="ayah-block" id="ayah-${surahId}-${ayah.ayah}" data-surah="${surahId}" data-ayah="${ayah.ayah}">
-      <div class="ayah-meta">
-        <button type="button" class="ayah-marker-btn" data-action="select" aria-label="Ayah ${ayah.ayah}">
-          ${ayahMarkerHtml(ayah.ayah)}
+      <div class="ayah-rail">
+        <button type="button" class="ayah-num-stack" data-action="select" aria-label="Ayah ${ayah.ayah}" title="Ayah ${ayah.ayah}">
+          <span class="ayn-en">${ayah.ayah}</span>
+          <span class="ayn-ar" dir="rtl">${toArabicNum(ayah.ayah)}</span>
         </button>
-        <div class="ayah-actions">
-          <button type="button" class="icon-btn bookmark-btn ${bookmarked ? "active" : ""}" data-action="bookmark" aria-label="${bookmarked ? "Remove bookmark" : "Bookmark"}" title="${bookmarked ? "Remove bookmark" : "Bookmark"}">
-            <span class="icon-star">${bookmarked ? "✦" : "✧"}</span>
-          </button>
-          <button type="button" class="icon-btn study-btn ${hasReflection ? "has-note" : ""}" data-action="study" aria-label="Study and reflect" title="Tadabbur · Tafsir">
-            <span class="icon-study">${hasReflection ? "✎" : "☰"}</span>
-          </button>
+        <button type="button" class="ayah-dot bookmark-btn ${bookmarked ? "active" : ""}" data-action="bookmark" aria-label="${bookmarked ? "Remove bookmark" : "Bookmark"}" title="${bookmarked ? "Remove bookmark" : "Bookmark"}"><span class="icon-star">${bookmarked ? "✦" : "✧"}</span></button>
+        <button type="button" class="ayah-dot study-btn ${hasReflection ? "has-note" : ""}" data-action="study" aria-label="Study and reflect" title="Tadabbur · Tafsir"><span class="icon-study">${hasReflection ? "✎" : "☰"}</span></button>
+      </div>
+      <div class="ayah-body">
+        <div class="arabic-block">
+          <p class="arabic-text">${renderArabicWords(a, surahId)}</p>
+          ${transliterationHtml(a)}
         </div>
+        ${translationBlockHtml(a)}
+        ${sajdahBannerHtml(surahId, ayah.ayah)}
       </div>
-      <div class="arabic-block">
-        <p class="arabic-text">${renderArabicWords(a, surahId)}${ayahMarkerHtml(ayah.ayah, { end: true })}</p>
-        ${transliterationHtml(a)}
-      </div>
-      ${translationBlockHtml(a)}
-      ${sajdahBannerHtml(surahId, ayah.ayah)}
     </article>`;
 }
 
@@ -1002,12 +1003,19 @@ function closeStudyPanel() {
   document.querySelectorAll(".study-btn").forEach((btn) => btn.classList.remove("open"));
 }
 
+let wtPinned = false, wtHideTimer = null;
 function hideTooltip() {
-  document.getElementById("word-tooltip").hidden = true;
+  const t = document.getElementById("word-tooltip");
+  t.hidden = true;
+  t.classList.remove("pinned");
+  wtPinned = false;
   document.querySelectorAll(".q-word.active").forEach((w) => w.classList.remove("active"));
 }
 
-function showWordTooltip(el, editing = false) {
+function showWordTooltip(el, opts = {}) {
+  const o = (typeof opts === "boolean") ? { editing: opts } : (opts || {});
+  const editing = !!o.editing;
+  const pin = !!o.pin || editing;
   const tooltip = document.getElementById("word-tooltip");
   const surahId = +el.dataset.s;
   const ayahNum = +el.dataset.a;
@@ -1048,12 +1056,25 @@ function showWordTooltip(el, editing = false) {
        <div class="wt-actions"><button type="button" class="primary" id="wt-edit">Edit meaning</button></div>`;
   }
 
-  const wMax = ai ? 360 : 280;
-  tooltip.style.left = `${Math.min(Math.max(8, rect.left), window.innerWidth - wMax)}px`;
-  tooltip.style.top = `${Math.min(rect.bottom + 8, window.innerHeight - 160)}px`;
+  tooltip.classList.toggle("pinned", pin);
+  if (pin) tooltip.insertAdjacentHTML("afterbegin", `<button type="button" class="wt-close" aria-label="Close">×</button>`);
+  wtPinned = pin;
+
+  // Position fully within the viewport; flip above the word if it would overflow below.
+  const m = 8;
+  const ttW = tooltip.offsetWidth, ttH = tooltip.offsetHeight;
+  const left = Math.min(Math.max(m, rect.left), Math.max(m, window.innerWidth - ttW - m));
+  let top = rect.bottom + m;
+  if (top + ttH > window.innerHeight - m) {
+    const above = rect.top - ttH - m;
+    top = above >= m ? above : Math.max(m, window.innerHeight - ttH - m);
+  }
+  tooltip.style.left = `${left}px`;
+  tooltip.style.top = `${top}px`;
 
   if (editing) document.getElementById("wt-meaning").value = word.translation || "";
-  tooltip.querySelector("#wt-edit")?.addEventListener("click", () => showWordTooltip(el, true));
+  tooltip.querySelector(".wt-close")?.addEventListener("click", hideTooltip);
+  tooltip.querySelector("#wt-edit")?.addEventListener("click", () => showWordTooltip(el, { editing: true, pin: true }));
   tooltip.querySelector("#wt-cancel")?.addEventListener("click", hideTooltip);
   tooltip.querySelector("#wt-save")?.addEventListener("click", async () => {
     selectedAyah.word_by_word[key].translation = document.getElementById("wt-meaning").value;
@@ -1140,13 +1161,20 @@ function scrollToAyah(surahId, ayah, smooth = true) {
 
 function bindSurahEvents() {
   document.querySelectorAll(".q-word").forEach((el) => {
-    el.addEventListener("mouseenter", () => showWordTooltip(el));
-    el.addEventListener("focus", () => showWordTooltip(el));
+    el.addEventListener("mouseenter", () => { clearTimeout(wtHideTimer); if (!wtPinned) showWordTooltip(el); });
+    el.addEventListener("focus", () => { clearTimeout(wtHideTimer); if (!wtPinned) showWordTooltip(el); });
     el.addEventListener("mouseleave", () => {
-      if (!document.getElementById("word-tooltip").querySelector("#wt-meaning")) hideTooltip();
+      if (wtPinned || document.getElementById("word-tooltip").querySelector("#wt-meaning")) return;
+      wtHideTimer = setTimeout(hideTooltip, 220);
     });
-    el.addEventListener("click", (e) => { e.stopPropagation(); showWordTooltip(el); });
+    el.addEventListener("click", (e) => { e.stopPropagation(); clearTimeout(wtHideTimer); showWordTooltip(el, { pin: true }); });
   });
+  const _wt = document.getElementById("word-tooltip");
+  if (_wt && !_wt.dataset.hoverBound) {
+    _wt.dataset.hoverBound = "1";
+    _wt.addEventListener("mouseenter", () => clearTimeout(wtHideTimer));
+    _wt.addEventListener("mouseleave", () => { if (!wtPinned) wtHideTimer = setTimeout(hideTooltip, 220); });
+  }
 
   document.querySelectorAll(".ayah-block").forEach((block) => {
     block.addEventListener("click", (e) => {
