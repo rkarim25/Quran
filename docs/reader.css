@@ -2794,4 +2794,6 @@ html[data-theme="night"] .mb-frame { background: linear-gradient(135deg, rgba(20
     content: ""; position: fixed; top: 8.6mm; left: 8.6mm; right: 8.6mm; bottom: 8.6mm;
     border: 0.5pt solid #d8c489; pointer-events: none;
   }
+  /* clean double rule only — no corner medallions */
+  #print-root::before { background-image: none; }
 }
