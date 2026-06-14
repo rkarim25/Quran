@@ -46,7 +46,7 @@ function loadPrefs() {
     }
     if (!["arabic", "translation", "ai"].includes(merged.readMode)) merged.readMode = "translation";
     if (!["verse", "book", "mushaf", "wbw"].includes(merged.layoutMode)) merged.layoutMode = "verse";
-    if (!["mine", "original", "both"].includes(merged.editView)) merged.editView = "mine";
+    if (!["mine", "original", "both", "none"].includes(merged.editView)) merged.editView = "mine";
     merged.editsFilter = { ...DEFAULT_PREFS.editsFilter, ...(raw.editsFilter || {}) };
     merged.bookContent = { ...DEFAULT_PREFS.bookContent, ...(raw.bookContent || {}) };
     return merged;
@@ -553,8 +553,9 @@ function orderedWords(wbw) {
 }
 
 function mergeLocalEdits(ayah, surahId) {
-  // "original" view: show the pristine text, ignoring the user's saved edits.
-  if (prefs.editView === "original") return getOriginalAyah(surahId, ayah.ayah) || ayah;
+  // "original" (and "none" = no edit version selected): show the pristine text,
+  // ignoring the user's saved edits. Only "mine"/"both" surface the edits.
+  if (prefs.editView !== "mine" && prefs.editView !== "both") return getOriginalAyah(surahId, ayah.ayah) || ayah;
   const merged = { ...ayah, word_by_word: { ...ayah.word_by_word } };
   if (!canSync) {
     const local = localStorage.getItem(LS.ayahEdits(surahId, ayah.ayah));
@@ -663,7 +664,7 @@ function wbwAyahBlock(data, ayah, surahId) {
   const grid = words.length
     ? words.map((w) => `<span class="wbw-word">
           <span class="q-word wbw-ar" data-s="${surahId}" data-a="${ayah.ayah}" data-i="${w.key}" tabindex="0">${esc(cleanArabic(w.arabic))}</span>
-          <span class="wbw-tr">${esc(w.transliteration || "")}</span>
+          ${prefs.showTransliteration ? `<span class="wbw-tr">${esc(w.transliteration || "")}</span>` : ""}
           <span class="wbw-en">${esc(w.translation || "")}</span>
         </span>`).join("")
     : `<p class="arabic-text">${esc(cleanArabic(a.arabic))}</p>`;
@@ -2104,11 +2105,21 @@ document.addEventListener("click", (e) => {
   if (!tooltip.contains(e.target) && !e.target.classList.contains("q-word")) hideTooltip();
 });
 
-document.addEventListener("click", (e) => {
+document.addEventListener("click", async (e) => {
   if (e.target.closest && e.target.closest("#content-btn")) {
     e.stopPropagation();
     const m = document.getElementById("content-menu");
     if (m) m.hidden = !m.hidden;
+    return;
+  }
+  // Clearable Edit Version: clicking the already-active radio deselects it,
+  // falling back to "none" (= Original text, edits hidden).
+  const ev = e.target.closest && e.target.closest("#content-menu input[data-ev]");
+  if (ev && prefs.editView === ev.dataset.ev) {
+    ev.checked = false;
+    prefs.editView = "none";
+    savePrefs();
+    if (currentSurah) await renderSurah(currentSurah, visibleAyah || getLastReadForSurah(currentSurah.id)?.ayah);
     return;
   }
   const menu = document.getElementById("content-menu");
