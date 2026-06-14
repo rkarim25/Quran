@@ -2239,8 +2239,10 @@ input.pr-input[type="number"] { width: 5rem; flex: none; }
   html, body { background: #fff !important; margin: 0 !important; padding: 0 !important; }
   #print-root { color: #14342a; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 
-  /* repeating frame: green rectangle drawn via table cell borders (repeats per page) */
-  .pr-frame { width: 100%; border-collapse: collapse; }
+  /* repeating frame: green rectangle drawn via table cell borders (repeats per page).
+     Uses border-collapse: separate — collapsed borders are NOT repainted on repeated
+     thead/tfoot rows across pages in Chromium, which left gaps at page ends. */
+  .pr-frame { width: 100%; border-collapse: separate; border-spacing: 0; }
   .pr-frame > thead > tr > td { border: 2pt solid #1f6b52; border-bottom: none; }
   .pr-frame > tfoot > tr > td { border: 2pt solid #1f6b52; border-top: none; }
   .pr-cell { border-left: 2pt solid #1f6b52; border-right: 2pt solid #1f6b52; padding: 4mm 7mm 5mm; }
@@ -2751,3 +2753,12 @@ html[data-theme="night"] .mb-frame { background: linear-gradient(135deg, rgba(20
   padding-top: 0.55rem;
   border-top: 1px solid rgba(31, 107, 82, 0.08);
 }
+
+/* ===== Edits: show original / mine / both + Edits-page category filter ===== */
+.translation-orig { margin-top: 0.35rem; font-size: calc(0.92rem * var(--trans-scale)); color: var(--muted); font-style: italic; }
+.orig-label { display: inline-block; font-family: var(--font-ui); font-size: 0.6rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--gold-muted); margin-right: 0.4rem; font-style: normal; }
+.word-tooltip .wt-orig { margin-top: 0.3rem; font-size: 0.84rem; color: var(--muted); font-style: italic; }
+.edit-filter { display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center; margin: 0 0 1.2rem; }
+.edit-chip { font-family: var(--font-ui); font-size: 0.8rem; padding: 0.35rem 0.85rem; border-radius: 999px; border: 1px solid rgba(31,107,82,0.2); background: var(--paper); color: var(--muted); cursor: pointer; transition: all 0.15s; }
+.edit-chip.active { background: var(--green); border-color: var(--green); color: var(--white); }
+.edit-tag { display: inline-block; font-family: var(--font-ui); font-size: 0.58rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; color: var(--green-mid); background: var(--green-light); border-radius: 4px; padding: 0.05rem 0.35rem; margin-left: 0.3rem; vertical-align: middle; }

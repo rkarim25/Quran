@@ -32,6 +32,8 @@ const DEFAULT_PREFS = {
   activePanel: "reflection",
   theme: "light",
   bookContent: { arabic: true, translit: false, translation: true, aiTranslation: false, aiTafsir: false, ibnKathir: false, maarif: false },
+  editView: "mine",
+  editsFilter: { wordEdit: true, transEdit: true, tadabbur: true },
 };
 
 function loadPrefs() {
@@ -44,6 +46,8 @@ function loadPrefs() {
     }
     if (!["arabic", "translation", "ai"].includes(merged.readMode)) merged.readMode = "translation";
     if (!["verse", "book", "mushaf", "wbw"].includes(merged.layoutMode)) merged.layoutMode = "verse";
+    if (!["mine", "original", "both"].includes(merged.editView)) merged.editView = "mine";
+    merged.editsFilter = { ...DEFAULT_PREFS.editsFilter, ...(raw.editsFilter || {}) };
     merged.bookContent = { ...DEFAULT_PREFS.bookContent, ...(raw.bookContent || {}) };
     return merged;
   } catch {
@@ -229,7 +233,13 @@ function recordMyWork(surahId, ayahNum, edited, surahName) {
   const work = getMyWork();
   const key = workKey(surahId, ayahNum);
   const tadabbur = hasTadabbur(edited);
-  const meanings = hasMeaningEdits(original, edited);
+  const transEdit = (edited.translation || "") !== (original.translation || "");
+  const ow = original.word_by_word || {}, ew = edited.word_by_word || {};
+  let wordEdit = false;
+  for (const k of new Set([...Object.keys(ow), ...Object.keys(ew)])) {
+    if ((ow[k]?.translation || "") !== (ew[k]?.translation || "")) { wordEdit = true; break; }
+  }
+  const meanings = transEdit || wordEdit;
 
   if (!tadabbur && !meanings) {
     delete work[key];
@@ -240,6 +250,8 @@ function recordMyWork(surahId, ayahNum, edited, surahName) {
       surahName,
       tadabbur,
       meanings,
+      transEdit,
+      wordEdit,
       tadabburSnippet: tadabbur ? edited.personal_reflections.trim().slice(0, 140) : "",
       meaningSnippet: meanings ? meaningEditSummary(original, edited) : "",
       at: Date.now(),
@@ -541,6 +553,8 @@ function orderedWords(wbw) {
 }
 
 function mergeLocalEdits(ayah, surahId) {
+  // "original" view: show the pristine text, ignoring the user's saved edits.
+  if (prefs.editView === "original") return getOriginalAyah(surahId, ayah.ayah) || ayah;
   const merged = { ...ayah, word_by_word: { ...ayah.word_by_word } };
   if (!canSync) {
     const local = localStorage.getItem(LS.ayahEdits(surahId, ayah.ayah));
@@ -594,9 +608,16 @@ function translationBlockHtml(ayah, { inline = false } = {}) {
   if (prefs.readMode === "arabic" || !transText) return "";
   const tag = inline ? "span" : "div";
   const cls = inline ? "book-trans-seg" : `translation-block ${transMode === "ai" ? "ai-mode" : ""}`;
+  let origNote = "";
+  if (!inline && prefs.editView === "both" && transMode === "standard" && currentSurah) {
+    const orig = getOriginalAyah(currentSurah.id, ayah.ayah);
+    const ot = orig && (orig.translation || orig.qf_translation || "");
+    if (ot && ot !== transText) origNote = `<p class="translation-orig"><span class="orig-label">Original</span> ${esc(ot)}</p>`;
+  }
   return `<${tag} class="${cls}">
         ${transMode === "ai" ? `<span class="translation-badge">AI Translation</span>` : ""}
         <p class="translation-text">${esc(transText)}</p>
+        ${origNote}
         ${!inline && transMode === "standard" ? `<button type="button" class="translation-edit-btn" data-action="edit-translation" title="Edit translation" aria-label="Edit translation">✎</button>` : ""}
       </${tag}>`;
 }
@@ -772,6 +793,11 @@ function toolbarHtml(data, ayah, surahs = []) {
             <button type="button" class="btn active" id="book-content-btn" title="Choose what to show in book view">Content ▾</button>
             <div class="content-menu" id="content-menu" hidden>${[["arabic","Arabic"],["translit","Transliteration"],["translation","Translation"],["aiTranslation","AI translation"],["aiTafsir","AI Tafsir"],["ibnKathir","Ibn Kathīr"],["maarif","Maʿārif ul Qurʼān"]].map(([k,lbl]) => `<label class="cm-item"><input type="checkbox" data-bc="${k}" ${prefs.bookContent[k] ? "checked" : ""}> ${lbl}</label>`).join("")}</div>
           </span>` : ""}
+          ${prefs.layoutMode !== "mushaf" ? `<select id="edit-view" class="select-input" aria-label="Show edits" title="Show your edits, the originals, or both">
+            <option value="mine" ${prefs.editView === "mine" ? "selected" : ""}>My edits</option>
+            <option value="original" ${prefs.editView === "original" ? "selected" : ""}>Original</option>
+            <option value="both" ${prefs.editView === "both" ? "selected" : ""}>Both</option>
+          </select>` : ""}
           <button type="button" class="btn ${prefs.wordMode === "ai" ? "active" : ""}" id="toggle-wordmode" title="Hover any word for an AI grammar &amp; meaning breakdown">Word AI</button>
           <span class="font-group"><span class="fg-label" dir="rtl">ع</span><button type="button" class="btn icon-only" id="font-smaller" title="Smaller Arabic">A−</button><button type="button" class="btn icon-only" id="font-larger" title="Larger Arabic">A+</button></span>
           <span class="font-group"><span class="fg-label">Aa</span><button type="button" class="btn icon-only" id="text-smaller" title="Smaller translation/transliteration">A−</button><button type="button" class="btn icon-only" id="text-larger" title="Larger translation/transliteration">A+</button></span>
@@ -1095,6 +1121,12 @@ function showWordTooltip(el, opts = {}) {
   const word = ayah.word_by_word[key];
   if (!word) return;
   const symbolHtml = symbolNotesHtml(word.arabic, surahId, ayahNum, key);
+  let origMeaning = "";
+  if (prefs.editView === "both") {
+    const ow = getOriginalAyah(surahId, ayahNum)?.word_by_word?.[key];
+    if (ow && (ow.translation || "") && (ow.translation || "") !== (word.translation || ""))
+      origMeaning = `<div class="wt-orig"><span class="orig-label">Original</span> ${esc(ow.translation)}</div>`;
+  }
 
   selectedAyah = ayah;
   document.querySelectorAll(".q-word").forEach((w) => w.classList.remove("active"));
@@ -1120,6 +1152,7 @@ function showWordTooltip(el, opts = {}) {
   } else {
     tooltip.innerHTML = `<div class="wt-ar">${esc(word.arabic)}</div><div class="wt-tr">${esc(word.transliteration || "")}</div>
        <div class="wt-en">${esc(word.translation || "")}</div>
+       ${origMeaning}
        ${prefs.wordMode === "ai" ? `<div class="wt-ai-pending">Detailed AI word analysis for this sūrah is being prepared.</div>` : ""}
        ${symbolHtml}
        <div class="wt-actions"><button type="button" class="primary" id="wt-edit">Edit meaning</button></div>`;
@@ -1313,6 +1346,14 @@ function bindSurahEvents() {
 
   document.getElementById("layout-select")?.addEventListener("change", async (e) => {
     prefs.layoutMode = e.target.value;
+    savePrefs();
+    if (currentSurah) {
+      await renderSurah(currentSurah, visibleAyah || getLastReadForSurah(currentSurah.id)?.ayah);
+    }
+  });
+
+  document.getElementById("edit-view")?.addEventListener("change", async (e) => {
+    prefs.editView = e.target.value;
     savePrefs();
     if (currentSurah) {
       await renderSurah(currentSurah, visibleAyah || getLastReadForSurah(currentSurah.id)?.ayah);
@@ -1913,12 +1954,45 @@ function renderTadabbur() {
 }
 
 function renderEdits() {
-  renderMyWorkPage({
-    title: "Edited Meanings",
-    subtitle: (n) => `${n} ayah${n === 1 ? "" : "s"} with your word or translation edits`,
-    empty: "Hover a word to edit its meaning, or ✎ on the translation line.",
-    kind: "meanings",
-  });
+  setBreadcrumb(`<a href="#/">Home</a> › Edits`);
+  const CATS = [{ key: "wordEdit", label: "Word-by-word" }, { key: "transEdit", label: "Translation" }, { key: "tadabbur", label: "Tadabbur" }];
+  const LBL = { wordEdit: "Word", transEdit: "Translation", tadabbur: "Tadabbur" };
+  const f = prefs.editsFilter || { wordEdit: true, transEdit: true, tadabbur: true };
+  const catsOf = (e) => {
+    const c = [];
+    if (e.wordEdit ?? e.meanings) c.push("wordEdit");   // ?? falls back for legacy entries
+    if (e.transEdit ?? e.meanings) c.push("transEdit");
+    if (e.tadabbur) c.push("tadabbur");
+    return c;
+  };
+  const all = Object.values(getMyWork())
+    .map((e) => ({ e, cats: catsOf(e) }))
+    .filter((x) => x.cats.some((c) => f[c]))
+    .sort((a, b) => b.e.at - a.e.at);
+  const chips = CATS.map((c) => `<button type="button" class="edit-chip ${f[c.key] ? "active" : ""}" data-cat="${c.key}">${c.label}</button>`).join("");
+  const rows = all.map(({ e, cats }) => {
+    const shown = cats.filter((c) => f[c]);
+    const tags = shown.map((c) => `<span class="edit-tag">${LBL[c]}</span>`).join("");
+    const onlyTadabbur = shown.length === 1 && shown[0] === "tadabbur";
+    const snippet = onlyTadabbur || (!e.meaningSnippet && e.tadabburSnippet) ? e.tadabburSnippet : e.meaningSnippet;
+    return `<a href="#/${e.surah}/${e.ayah}${onlyTadabbur ? "/study" : ""}" class="bookmark-row my-work-row">
+        <span class="bookmark-ref">${esc(e.surahName || `Surah ${e.surah}`)} · Ayah ${e.ayah} ${tags}</span>
+        <span class="bookmark-snippet">${esc(snippet || "")}</span>
+      </a>`;
+  }).join("");
+  document.getElementById("app").innerHTML = `
+    <div class="hero compact">
+      <h1 class="hero-title-sm">My Edits</h1>
+      ${ornament()}
+      <p class="hero-subtitle">${all.length ? `${all.length} ${all.length === 1 ? "ayah" : "ayāt"} with your edits & notes` : "Your word edits, translation edits, and tadabbur appear here."}</p>
+    </div>
+    <div class="edit-filter">${chips}</div>
+    ${all.length ? `<div class="bookmark-list">${rows}</div>` : `<p class="empty-note center">Nothing matches the selected categories.</p>`}`;
+  document.querySelectorAll(".edit-chip").forEach((btn) => btn.addEventListener("click", () => {
+    prefs.editsFilter[btn.dataset.cat] = !prefs.editsFilter[btn.dataset.cat];
+    savePrefs();
+    renderEdits();
+  }));
 }
 
 function renderBookmarks() {
