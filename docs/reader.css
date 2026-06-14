@@ -2806,3 +2806,24 @@ html[data-theme="night"] .mb-frame { background: linear-gradient(135deg, rgba(20
   .pr-geo, .pr-geo-top, .pr-geo-bot, .pr-cell,
   .pr-frame > thead > tr > td, .pr-frame > tfoot > tr > td { border: 0 !important; }
 }
+
+
+/* ============================================================
+   PRINT v7 — full-page parchment fill on short / last pages.
+   #print-root's cream only paints behind the content box, so a sūrah that ends
+   mid-page leaves white below the text inside the frame. A position:fixed layer
+   is repeated full-height by Chromium on EVERY printed page, so the parchment
+   tint fills the whole framed area regardless of content height. Inset 7mm to
+   match the gold border, so the fill reaches right up to (and behind) the rule.
+   z-index:-1 keeps it behind the text and the fixed border, above the white page.
+   ============================================================ */
+@media print {
+  body::before {
+    content: ""; position: fixed; top: 7mm; left: 7mm; right: 7mm; bottom: 7mm;
+    background: #fdfbf4 !important; z-index: -1; pointer-events: none;
+    -webkit-print-color-adjust: exact; print-color-adjust: exact;
+  }
+  /* the fixed layer now provides the tint edge-to-edge; the content box itself
+     is transparent so no short cream rectangle stops where the text ends */
+  #print-root { background: transparent !important; }
+}
