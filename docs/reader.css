@@ -820,7 +820,8 @@ body {
 .reader-search-wrap { margin-bottom: 0; flex: 1 1 170px; min-width: 140px; max-width: 300px; }
 .reader-search-wrap .search-input { padding: 0.4rem 0.8rem 0.4rem 2rem; font-size: 0.86rem; box-shadow: none; }
 .reader-search-wrap .search-icon { left: 0.65rem; font-size: 0.95rem; }
-.reader-search-wrap .search-dropdown { z-index: 200; max-height: 340px; text-align: left; }
+.reader-search-wrap .search-dropdown { z-index: 200; max-height: min(60vh, 440px); text-align: left; }
+.search-section { position: sticky; top: 0; padding: 0.45rem 1rem 0.25rem; font-family: var(--font-ui); font-size: 0.6rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: var(--gold-muted); background: var(--parchment-deep); z-index: 1; }
 
 /* ─── Surah grid ─── */
 .home-section { margin-bottom: 2rem; }

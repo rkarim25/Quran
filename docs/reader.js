@@ -1785,11 +1785,20 @@ function bindReaderSearch(surahs) {
   const renderDD = () => {
     if (!results.length) { dropdown.hidden = true; dropdown.innerHTML = ""; return; }
     dropdown.hidden = false;
-    dropdown.innerHTML = results.map((r, i) => `
-      <button type="button" class="search-item ${i === activeIdx ? "active" : ""}" data-i="${i}">
+    let html = "", lastSection = null;
+    results.forEach((r, i) => {
+      if (r.section && r.section !== lastSection) {
+        lastSection = r.section;
+        html += `<div class="search-section">${r.section === "ayah" ? "Jump to ayah" : "Sūrahs"}</div>`;
+      }
+      html += `<button type="button" class="search-item ${i === activeIdx ? "active" : ""}" data-i="${i}">
         <span class="search-item-row"><span class="search-item-label">${esc(r.label)}</span>${r.kindLabel ? `<span class="search-item-kind">${esc(r.kindLabel)}</span>` : ""}</span>
         ${r.sub ? `<span class="search-item-sub">${esc(r.sub)}</span>` : ""}
-      </button>`).join("");
+      </button>`;
+    });
+    dropdown.innerHTML = html;
+    const act = dropdown.querySelector(".search-item.active");
+    if (act) act.scrollIntoView({ block: "nearest" });
   };
   const go = (r) => {
     if (!r) return;
@@ -1797,9 +1806,26 @@ function bindReaderSearch(surahs) {
     if (r.ayah && currentSurah && r.surah === currentSurah.id) scrollToAyah(r.surah, r.ayah);
     else goToSearchResult(r);
   };
+  // Empty box → browse the full list: this sūrah's ayahs, then every sūrah.
+  const buildBrowse = () => {
+    const list = [];
+    if (currentSurah) {
+      for (let a = 1; a <= currentSurah.verses_count; a++) {
+        list.push({ surah: currentSurah.id, ayah: a, label: `Ayah ${a}`, section: "ayah" });
+      }
+    }
+    surahs.forEach((s) => list.push({ surah: s.id, label: `${s.id}. ${s.name_simple}`, sub: s.translated_name, section: "surah" }));
+    return list;
+  };
   const update = async () => {
     const q = input.value.trim();
     const g = ++gen;
+    if (!q) {
+      results = buildBrowse();
+      activeIdx = currentSurah ? (currentSurah.verses_count >= visibleAyah ? visibleAyah - 1 : 0) : 0;
+      renderDD();
+      return;
+    }
     if (/^\d+$/.test(q)) {
       const n = +q; results = [];
       if (currentSurah && n >= 1 && n <= currentSurah.verses_count)
@@ -1808,13 +1834,13 @@ function bindReaderSearch(surahs) {
       if (s) results.push({ surah: s.id, label: `${s.id}. ${s.name_simple}`, kindLabel: "sūrah", sub: s.translated_name });
       activeIdx = 0; renderDD(); return;
     }
-    if (q.length < 1) { results = []; renderDD(); return; }
     dropdown.hidden = false; dropdown.innerHTML = `<div class="search-loading">Searching…</div>`;
     const res = await smartSearch(surahs, q);
     if (g !== gen) return;
     results = res; activeIdx = 0; renderDD();
   };
   input.addEventListener("input", update);
+  input.addEventListener("focus", () => { if (dropdown.hidden) update(); });
   input.addEventListener("keydown", (e) => {
     if (e.key === "ArrowDown") { e.preventDefault(); if (results.length) { activeIdx = Math.min(activeIdx + 1, results.length - 1); renderDD(); } }
     else if (e.key === "ArrowUp") { e.preventDefault(); activeIdx = Math.max(activeIdx - 1, 0); renderDD(); }
