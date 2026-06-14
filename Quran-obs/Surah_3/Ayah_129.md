@@ -359,11 +359,15 @@ To Allah belongs whatever is in the heavens and whatever is on the earth. He for
 
 ## AI Tafsir
 
-**Context:** From the verse لَيْسَ لَكَ مِنَ الْأَمْرِ‌ شَيْءٌ (You have no authority in the matter) (128), the text returns to the main event of Uhud after a brief mention of the event of Badr in between.
+**Essence** All sovereignty â€” over forgiveness and punishment alike â€” belongs to Allah alone, and His names Al-Ghafur and Al-Rahim reveal that He exercises that sovereignty through mercy and compassion.
 
-**What this ayah teaches:** And there is no victory except from Allah, the All-Mighty, the All-Wise (126)That He might cut off a part of those who disbelieve, or expose them to infamy, so that they retire frustrated (127)Not for you is the decision; whether He turns in mercy to (pardon) them or punishes them; verily, they are the wrongdoers (128)And to Allah belongs all that is in the heavens and all that…
+**What it teaches** This ayah crowns the Uhud passage with an affirmation of absolute Divine ownership: everything in the heavens and earth is Allah's possession, and His creatures are wholly His servants. The twin acts of forgiveness (maghfirah) and punishment ('adhab) belong entirely to His will â€” no prophet, no intercessor, no nation can compel either one. The closing pairing of Al-Ghafur (the One who covers sins) with Al-Rahim (the One whose mercy is active and encompassing) is not a contradiction with the mention of punishment; it is a disclosure that Allah, in His unconditioned sovereignty, exercises His will through covering and compassion.
 
-**Classical tafsir:** Ibn Kathir notes: Al-'Awfi said that Ibn 'Abbas said that the Ayah means, "All at once".
+**The scholars** Ibn Kathir ties this verse directly to the declaration that follows verse 128: "everything is indeed the property of Allah and all are servants in His Hand." His forgiveness and punishment are not subject to any check â€” "His is the decision and none can resist His decision. Allah is never asked about what He does, while they will be asked." The verse arrives immediately after the rebuke of the Prophet in 3:128 ("Not for you is the decision"), making the theological point explicit: the outcomes for the disbelievers â€” whether tawbah or punishment â€” flow from Allah's will, not from the Prophet's supplication. Maarif ul Quran, commenting on the surrounding Uhud passage, draws a broader lesson: the obligation of jihad is placed on men in this mortal world so that they earn merits and ranks in the Hereafter through striving, yet the actual result of every affair is Allah's alone to decree. The verse therefore functions as both a theological corrective and a consolation: the believers are not responsible for the fate of their enemies, and the One who holds all outcomes is Al-Ghafur and Al-Rahim.
+
+**From the Sunnah** Imam Ahmad recorded â€” and Muslim also collected â€” that Anas reported: the Prophet's front tooth was broken at Uhud and he sustained injuries on his forehead until blood dripped down his face. He said: *"How can a people achieve success after having done this to their Prophet, who is calling them to their Lord, the Exalted and Most Honoured?"* Allah then revealed: *"Not for you is the decision; whether He turns in mercy to them or punishes them; verily, they are the wrongdoers."* (3:128)
+
+**Reflection** When a believer sees injustice done to those calling to the truth, the ayah teaches surrender: the outcome belongs to Allah â€” and the One who holds it is Al-Ghafur, Al-Rahim.
 ## Personal Reflections
 
 
