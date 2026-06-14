@@ -330,11 +330,17 @@ Allah ordained this only as good news for you and reassurance for your hearts. A
 
 ## AI Tafsir
 
-**Context:** From the verse لَيْسَ لَكَ مِنَ الْأَمْرِ‌ شَيْءٌ (You have no authority in the matter) (128), the text returns to the main event of Uhud after a brief mention of the event of Badr in between.
+**Essence**
+Allah declares that His command of Jihad serves His sovereign wisdom â€” either annihilating a portion of the disbelievers or breaking and humiliating them until they retreat empty-handed.
 
-**What this ayah teaches:** The word "in succession" means they follow each other and thus indicates that thousands more will follow them. The two Ayat above (8:9 and 3:124) are similar in meaning and it appears that they both were about the battle of Badr, because the angels did fight in the battle of Badr, as the evidence indicates.
+**What it teaches**
+The verb liyaqta'a ("that He might cut off") points to a taraf â€” a part, a flank â€” of the disbelievers being severed from existence, while yakbitahum ("expose them to infamy") carries the meaning of disgrace and suppression: they are disgraced, forced back carrying only their rage, having failed in their aim to harm the believers, and they return as kha'ibeen â€” disappointed, having gained nothing. Together these two outcomes reveal that Allah's hikmah governs every phase of the struggle. The believers are real moral agents whose sabr, taqwa, niyyah, and active striving carry genuine religious obligation and earn merit before Allah â€” yet ultimate causation belongs to Allah alone. They are not passive recipients; they are agents whose effort is itself part of the divine qadar.
 
-**Classical tafsir:** Ibn Kathir notes: Al-'Awfi said that Ibn 'Abbas said that the Ayah means, "All at once".
+**The scholars**
+Ibn Kathir explains that 3:127 reveals the various wisdoms Allah places within the command to perform Jihad: liyaqta'a tarafan means causing a portion of the disbelieving nation to perish; yakbitahum means disgracing them and forcing them to return with only their rage, having failed in their aim to harm the believers. The passage (3:124â€“129) draws lessons from both Badr and Uhud; scholars of tafsir differed on which battle the promise of angelic support referred to. Al-Hasan al-Basri, 'Amr al-Sha'bi, and Ar-Rabi' bin Anas held the First View: that the passage connects to 3:123 ("Allah has already made you victorious at Badr") and refers to Badr, not Uhud. The Maarif ul-Quran (Mufti Shafi') emphasises that the angels were sent not to win battles autonomously but as bushra â€” glad tidings â€” and to bring tuma'ninah (tranquility and firmness) to the hearts of the believers, since the obligation of Jihad has been placed on human beings so that they may earn ranks in the Hereafter; this is itself the proof that angelic armies were never intended to replace human striving. The verse immediately preceding (3:126) declares: "There is no victory except from Allah, the All-Mighty (Al-'Aziz), the All-Wise (Al-Hakim)." Ibn Kathir glosses these names: "Allah is the Almighty Whose power can never be undermined, and He has the perfect wisdom in His decrees and in all His decisions." The two outcomes of 3:127 flow from that Might and Wisdom.
+
+**Reflection**
+When the believer enters any struggle for truth, the outcome belongs entirely to Allah â€” yet the striving itself is a binding obligation of real moral weight, not a formality. His sabr, taqwa, and active engagement are not incidental; they are the very means through which Allah's hikmah is made manifest and through which the believer earns standing before his Lord. Disgrace or defeat awaits falsehood in whatever form Allah decrees â€” and the believer's duty is to fulfill his part with full seriousness, trusting that the decision of victory rests with Al-'Aziz, Al-Hakim alone.
 ## Personal Reflections
 
 

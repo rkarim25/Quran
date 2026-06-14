@@ -355,11 +355,19 @@ Most certainly, if you are firm and mindful and the enemy launches a sudden atta
 
 ## AI Tafsir
 
-**Context:** From the verse لَيْسَ لَكَ مِنَ الْأَمْرِ‌ شَيْءٌ (You have no authority in the matter) (128), the text returns to the main event of Uhud after a brief mention of the event of Badr in between.
+**Essence** When the believers arm themselves with sabr (steadfast endurance) and taqwa (conscious fear of Allah) and the enemy rushes upon them without warning, Allah pledges to send five thousand marked angels to their aid â€” a promise that makes the unseen army of Allah a present, tangible reality.
 
-**What this ayah teaches:** Evidences prove that the angels of Allah did a few things to impress upon Muslims that the angels too are participating in fighting as a sort of assurance that His support through the angels is there.
+**What it teaches** The ayah sets two inner conditions â€” sabr and taqwa â€” before the outer miracle of angelic reinforcement is unlocked. Sabr here is not passive waiting but holding firm under the pressure of combat; taqwa is remaining obedient to Allah's command even when panic threatens. The word musawwimin (designated, bearing marks) indicates these are not angels dispatched vaguely â€” they come as a differentiated, battle-ready force. Regarding the phrase min fawrihim, the scholars offer three readings: al-Hasan, Qatadah, al-Rabi', and al-Suddi read it as "instantaneously"; Ibn 'Abbas (via al-'Awfi) read it as "all at once"; and a third reading holds it means before the enemy's anger subsides â€” each conveying the swiftness and decisiveness of divine intervention.
 
-**Classical tafsir:** Ibn Kathir notes: Al-'Awfi said that Ibn 'Abbas said that the Ayah means, "All at once".
+**The scholars** Ibn Kathir records a difference of opinion among the scholars of tafsir as to which battle these verses address. Al-Hasan al-Basri, 'Amr al-Sha'bi, al-Rabi' bin Anas, and Ibn Jarir al-Tabari held that the promise referred to Badr â€” where, according to al-Rabi', angelic reinforcement grew from one thousand to three thousand to five thousand. The second view links the verses to Uhud; on that reading, the promise was conditional and was never activated, because the Muslims did not hold to sabr at Uhud and consequently received no angelic support at all.
+
+On the word musawwimin, Abu Ishaq al-Subay'i reported from Harithah bin Mudarrib on the authority of 'Ali bin Abi Talib that "the angels were distinguished by wearing white wool at Badr," and that their horses also bore special markings.
+
+Maarif ul Quran explains the deeper wisdom: as narrated in certain traditions, Jibra'il overturned the township of the people of Lut single-handedly â€” so why were thousands of angels needed here? The Quran itself answers in 3:126: the purpose was not for the angels to win the battle for the believers but to give them the good news of victory and to bring tranquillity to their hearts (bushra and tuma'ninah). The obligation of jihad has been placed upon human beings precisely so that they may earn ranks in the Hereafter through their own striving. The number tracked the threat: a thousand at Badr; three thousand when Kurz ibn Jabir al-Muharibi's reinforcement was rumoured; five thousand conditionally if the enemy struck suddenly â€” a condition that never arose.
+
+**From the Sunnah** Abu Ishaq al-Subay'i reported from Harithah bin Mudarrib on the authority of 'Ali bin Abi Talib that the angels at Badr were distinguished by wearing white wool and that their horses bore special markings. (Recorded by Ibn Kathir in his tafsir of this passage.)
+
+**Reflection** The believer who understands this ayah will notice something unexpected: Allah does not promise the angels the moment the enemy appears â€” He promises them the moment the believer chooses sabr and taqwa. The divine response is not triggered by the enemy's movement but by the believer's interior state. This reorders how one reads crisis: the question is not "how large is the opposing force?" but "what is the condition of my own heart?"
 ## Personal Reflections
 
 

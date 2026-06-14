@@ -1,7 +1,0 @@
-PAUSED by user on 2026-06-13.
-
-The layered-tafsir automation is paused. The scheduler checks for this file FIRST and will do nothing while it exists. Only the user removes this flag to resume.
-
-State at pause:
-- Progress marker: Surah 3, ayah 124 (al-Fatiha + all of al-Baqarah + Surah 3:1-124 are live on the site).
-- One chunk (Surah 3:125-128) was generating when paused; its result is being held and not published. It will be published first on resume.
