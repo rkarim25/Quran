@@ -43,7 +43,7 @@ function loadPrefs() {
       else if (raw.showTranslation === false) merged.readMode = "arabic";
     }
     if (!["arabic", "translation", "ai"].includes(merged.readMode)) merged.readMode = "translation";
-    if (!["verse", "book"].includes(merged.layoutMode)) merged.layoutMode = "verse";
+    if (!["verse", "book", "mushaf"].includes(merged.layoutMode)) merged.layoutMode = "verse";
     merged.bookContent = { ...DEFAULT_PREFS.bookContent, ...(raw.bookContent || {}) };
     return merged;
   } catch {
@@ -319,6 +319,151 @@ async function loadAiWbw(n) {
   return cache.aiWbw[n];
 }
 
+// ---- 15-line Madani mushaf view (QCF v2 page fonts, vendored for Juzʾ ʿAmma) ----
+const MUSHAF = { index: null, pages: {}, fontPromises: {} };
+
+function mushafAvailable(surahId) { return surahId >= 78 && surahId <= 114; }
+
+async function loadMushafIndex() {
+  if (!MUSHAF.index) {
+    try { MUSHAF.index = await (await fetch(`data/mushaf/index.json?v=${DATA_VERSION}`)).json(); }
+    catch (_) { MUSHAF.index = {}; }
+  }
+  return MUSHAF.index;
+}
+
+async function loadMushafPage(p) {
+  if (MUSHAF.pages[p] === undefined) {
+    try {
+      const r = await fetch(`data/mushaf/page_${p}.json?v=${DATA_VERSION}`);
+      MUSHAF.pages[p] = r.ok ? await r.json() : null;
+    } catch (_) { MUSHAF.pages[p] = null; }
+  }
+  return MUSHAF.pages[p];
+}
+
+function ensureMushafFont(p) {
+  if (!MUSHAF.fontPromises[p]) {
+    const ff = new FontFace(`p${p}-v2`, `url('fonts/qcf2/p${p}.woff2')`, { display: "block" });
+    document.fonts.add(ff);
+    MUSHAF.fontPromises[p] = ff.load().then(() => true).catch(() => false);
+  }
+  return MUSHAF.fontPromises[p];
+}
+
+function mushafSurahMeta(s) {
+  const list = (cache.index && cache.index.surahs) || [];
+  return list.find((x) => x.id === +s) || null;
+}
+
+function mushafBannerHtml(s) {
+  const m = mushafSurahMeta(s);
+  const ar = m ? m.name_arabic : "";
+  const en = m ? m.name_simple : `Sūrah ${s}`;
+  return `<div class="mushaf-line mushaf-banner" role="separator" aria-label="Sūrah ${esc(en)}">
+    <span class="mb-frame"><span class="mb-ar" dir="rtl">${esc(ar)}</span><span class="mb-en">${esc(en)}</span></span></div>`;
+}
+
+function mushafBasmalaHtml() {
+  return `<div class="mushaf-line mushaf-basmala" dir="rtl">بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</div>`;
+}
+
+function mushafWordLineHtml(words, page, opts = {}) {
+  const inner = words.map((w) => `<span class="mw${w.t === "e" ? " end" : ""}" data-k="${w.k}">${w.c}</span>`).join("");
+  return `<div class="mushaf-line mushaf-text${opts.center ? " center" : ""}" style="font-family:'p${page}-v2'">${inner}</div>`;
+}
+
+function renderMushafPageHtml(pageData) {
+  const page = pageData.page;
+  const lines = pageData.lines || {};
+  ensureMushafFont(page);
+
+  // first line of each surah that starts on this page (verse_key "S:1")
+  const startLineOfSurah = {};
+  // lines holding a surah's final ayah end-marker -> centre them (not justified)
+  const lastLine = {};
+  for (const [lno, ws] of Object.entries(lines)) {
+    for (const w of ws) {
+      const [s, a] = w.k.split(":");
+      if (a === "1" && startLineOfSurah[s] === undefined) startLineOfSurah[s] = +lno;
+      if (w.t === "e") {
+        const meta = mushafSurahMeta(s);
+        if (meta && +a === meta.verses_count) lastLine[+lno] = true;
+      }
+    }
+  }
+  const bannerAt = {}, basmalaAt = {};
+  let preBanner = null; // surah header straddling from the previous page (banner line < 1)
+  for (const [s, L] of Object.entries(startLineOfSurah)) {
+    basmalaAt[L - 1] = s;
+    if (L - 2 >= 1) bannerAt[L - 2] = s; else preBanner = s;
+  }
+
+  let rows = "";
+  if (preBanner) rows += mushafBannerHtml(preBanner);
+  for (let i = 1; i <= 15; i++) {
+    if (bannerAt[i]) { rows += mushafBannerHtml(bannerAt[i]); continue; }
+    if (basmalaAt[i]) { rows += mushafBasmalaHtml(); continue; }
+    const ws = lines[i];
+    rows += (ws && ws.length) ? mushafWordLineHtml(ws, page, { center: !!lastLine[i] })
+                              : `<div class="mushaf-line blank"></div>`;
+  }
+  return `<section class="mushaf-page" data-page="${page}">
+    <div class="mushaf-page-inner">${rows}</div>
+    <div class="mushaf-page-num"><span>${page}</span></div>
+  </section>`;
+}
+
+async function renderMushafInto(container, surahId) {
+  if (!container) return;
+  if (!mushafAvailable(surahId)) {
+    container.innerHTML = `<div class="mushaf-unavailable">The 15-line mushaf view is currently available for Juzʾ ʿAmma (sūrahs 78–114).</div>`;
+    return;
+  }
+  await loadIndex(); // surah names for the banners
+  const idx = await loadMushafIndex();
+  const pages = idx[String(surahId)] || [];
+  if (!pages.length) { container.innerHTML = `<div class="mushaf-unavailable">Mushaf pages not found.</div>`; return; }
+  const datas = await Promise.all(pages.map(loadMushafPage));
+  const present = datas.filter(Boolean);
+  container.innerHTML = present.map(renderMushafPageHtml).join("")
+    || `<div class="mushaf-unavailable">Mushaf data unavailable.</div>`;
+  // QCF per-page fonts have slightly different glyph metrics, so shrink the page
+  // font just enough that the widest line fits with no overflow (uniformly across the sūrah).
+  try { await Promise.all(present.map((d) => ensureMushafFont(d.page))); } catch (_) {}
+  await fitMushafWhenReady(container, present.map((d) => d.page));
+}
+
+// Wait until the page fonts actually affect layout, then fit each page.
+async function fitMushafWhenReady(container, pages) {
+  for (let i = 0; i < 40; i++) {
+    const l = container.querySelector(".mushaf-text");
+    const ready = pages.every((p) => document.fonts.check(`32px 'p${p}-v2'`))
+      && l && l.firstElementChild && l.firstElementChild.offsetWidth > 0;
+    if (ready) break;
+    await new Promise((r) => setTimeout(r, 50));
+  }
+  await new Promise((r) => requestAnimationFrame(() => requestAnimationFrame(r)));
+  fitMushafPages(container);
+}
+
+// QCF per-page fonts have different glyph metrics, so size EACH page so its
+// widest (full) line fills ~98.5% of the width — matching the printed page.
+function fitMushafPages(container) {
+  container.querySelectorAll(".mushaf-page-inner").forEach((inner) => {
+    let maxFill = 0;
+    inner.querySelectorAll(".mushaf-text").forEach((l) => {
+      let s = 0;
+      for (const c of l.children) s += c.offsetWidth;
+      const f = s / l.clientWidth;
+      if (f > maxFill) maxFill = f;
+    });
+    if (maxFill <= 0.01) return;
+    const cqw = Math.max(4.5, Math.min(8.5, (6.2 * 0.985) / maxFill)); // 6.2 = --qcf-size default
+    inner.style.setProperty("--qcf-size", cqw.toFixed(3) + "cqw");
+  });
+}
+
 function esc(s) {
   const d = document.createElement("div");
   d.textContent = s ?? "";
@@ -534,6 +679,9 @@ function verseViewHtml(data, surahId) {
 }
 
 function renderAyahStreamHtml(data, surahId) {
+  if (prefs.layoutMode === "mushaf") {
+    return `<div class="ayah-stream layout-mushaf"><div class="mushaf-loading">Loading mushaf…</div></div>`;
+  }
   const inner = prefs.layoutMode === "book" ? bookViewHtml(data, surahId) : verseViewHtml(data, surahId);
   return `<div class="ayah-stream layout-${prefs.layoutMode}">${inner}</div>`;
 }
@@ -584,6 +732,7 @@ function toolbarHtml(data, ayah, surahs = []) {
           </span>`}
           <button type="button" class="btn ${prefs.wordMode === "ai" ? "active" : ""}" id="toggle-wordmode" title="Hover any word for an AI grammar &amp; meaning breakdown">Word AI</button>
           <button type="button" class="btn ${prefs.layoutMode === "book" ? "active" : ""}" id="toggle-layout" title="Continuous text like a book">Book view</button>
+          ${mushafAvailable(data.id) ? `<button type="button" class="btn ${prefs.layoutMode === "mushaf" ? "active" : ""}" id="toggle-mushaf" title="True 15-line Madani mushaf page (Juzʾ ʿAmma)">Mushaf</button>` : ""}
           <span class="font-group"><span class="fg-label" dir="rtl">ع</span><button type="button" class="btn icon-only" id="font-smaller" title="Smaller Arabic">A−</button><button type="button" class="btn icon-only" id="font-larger" title="Larger Arabic">A+</button></span>
           <span class="font-group"><span class="fg-label">Aa</span><button type="button" class="btn icon-only" id="text-smaller" title="Smaller translation/transliteration">A−</button><button type="button" class="btn icon-only" id="text-larger" title="Larger translation/transliteration">A+</button></span>
         </div>
@@ -1069,6 +1218,14 @@ function bindSurahEvents() {
     prefs.layoutMode = prefs.layoutMode === "book" ? "verse" : "book";
     savePrefs();
     document.getElementById("toggle-layout")?.classList.toggle("active", prefs.layoutMode === "book");
+    if (currentSurah) {
+      await renderSurah(currentSurah, visibleAyah || getLastReadForSurah(currentSurah.id)?.ayah);
+    }
+  });
+
+  document.getElementById("toggle-mushaf")?.addEventListener("click", async () => {
+    prefs.layoutMode = prefs.layoutMode === "mushaf" ? "verse" : "mushaf";
+    savePrefs();
     if (currentSurah) {
       await renderSurah(currentSurah, visibleAyah || getLastReadForSurah(currentSurah.id)?.ayah);
     }
@@ -1682,6 +1839,10 @@ async function renderSurah(data, targetAyah, openStudy = false) {
       </div>
       <nav class="surah-nav" aria-label="Surah navigation">${prevSurah}<span class="nav-label">${data.id} / 114</span>${nextSurah}</nav>
     </div>`;
+
+  if (prefs.layoutMode === "mushaf") {
+    await renderMushafInto(document.querySelector(".ayah-stream.layout-mushaf"), data.id);
+  }
 
   applyScales();
   bindSurahEvents();
