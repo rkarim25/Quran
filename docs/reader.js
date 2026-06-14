@@ -1355,14 +1355,6 @@ function bindSurahEvents() {
     }
   });
 
-  document.getElementById("edit-view")?.addEventListener("change", async (e) => {
-    prefs.editView = e.target.value;
-    savePrefs();
-    if (currentSurah) {
-      await renderSurah(currentSurah, visibleAyah || getLastReadForSurah(currentSurah.id)?.ayah);
-    }
-  });
-
   document.getElementById("toggle-wordmode")?.addEventListener("click", async () => {
     prefs.wordMode = prefs.wordMode === "ai" ? "standard" : "ai";
     savePrefs();
@@ -2113,7 +2105,7 @@ document.addEventListener("click", (e) => {
 });
 
 document.addEventListener("click", (e) => {
-  if (e.target.closest && e.target.closest("#book-content-btn")) {
+  if (e.target.closest && e.target.closest("#content-btn")) {
     e.stopPropagation();
     const m = document.getElementById("content-menu");
     if (m) m.hidden = !m.hidden;
@@ -2123,13 +2115,28 @@ document.addEventListener("click", (e) => {
   if (menu && !menu.hidden && !(e.target.closest && e.target.closest(".content-menu-wrap"))) menu.hidden = true;
 });
 
-document.addEventListener("change", (e) => {
-  const cb = e.target.closest && e.target.closest("#content-menu input[data-bc]");
-  if (cb) {
-    prefs.bookContent[cb.dataset.bc] = cb.checked;
+document.addEventListener("change", async (e) => {
+  const t = e.target;
+  if (!t.closest || !t.closest("#content-menu")) return;
+  // Book content checkboxes: cheap stream refresh, keep menu open.
+  if (t.matches("input[data-bc]")) {
+    prefs.bookContent[t.dataset.bc] = t.checked;
     savePrefs();
     if (currentSurah) refreshAyahStream(currentSurah.id);
+    return;
   }
+  // Reading mode / transliteration / edit version: full re-render.
+  if (t.matches("input[data-rm]")) {
+    if (!t.checked) return;
+    prefs.readMode = t.dataset.rm;
+  } else if (t.matches("input[data-translit]")) {
+    prefs.showTransliteration = t.checked;
+  } else if (t.matches("input[data-ev]")) {
+    if (!t.checked) return;
+    prefs.editView = t.dataset.ev;
+  } else return;
+  savePrefs();
+  if (currentSurah) await renderSurah(currentSurah, visibleAyah || getLastReadForSurah(currentSurah.id)?.ayah);
 });
 
 document.addEventListener("keydown", (e) => {
@@ -2201,10 +2208,19 @@ function reloadPrefsFromStorage() {
 
 function applyPrefsToToolbarIfPresent() {
   applyScales();
-  const readMode = document.getElementById("read-mode");
-  if (readMode) readMode.value = prefs.readMode;
-  const translit = document.getElementById("toggle-transliteration");
-  if (translit) translit.classList.toggle("active", prefs.showTransliteration);
+  // Sync the unified Content menu controls from prefs (no full re-render).
+  const menu = document.getElementById("content-menu");
+  if (menu) {
+    menu.querySelectorAll("input[data-rm]").forEach((el) => { el.checked = el.dataset.rm === prefs.readMode; });
+    const tl = menu.querySelector("input[data-translit]");
+    if (tl) tl.checked = !!prefs.showTransliteration;
+    menu.querySelectorAll("input[data-ev]").forEach((el) => { el.checked = el.dataset.ev === prefs.editView; });
+    menu.querySelectorAll("input[data-bc]").forEach((el) => { el.checked = !!(prefs.bookContent && prefs.bookContent[el.dataset.bc]); });
+  }
+  const wordmode = document.getElementById("toggle-wordmode");
+  if (wordmode) wordmode.classList.toggle("active", prefs.wordMode === "ai");
+  const layoutSel = document.getElementById("layout-select");
+  if (layoutSel) layoutSel.value = prefs.layoutMode;
   const layout = document.getElementById("toggle-layout");
   if (layout) layout.classList.toggle("active", prefs.layoutMode === "book");
   const reader = document.querySelector(".surah-reader");
