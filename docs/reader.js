@@ -702,31 +702,62 @@ function bookTafsirBlock(ayah, surahId) {
   return `<div class="book-tafsir-ayah" data-ayah="${ayah.ayah}"><span class="bt-ayah-num">Ayah ${ayah.ayah}</span>${inner}</div>`;
 }
 
-function bookViewHtml(data, surahId) {
-  const c = prefs.bookContent || {};
+// Build the selected content sections (Arabic / translit / translation / AI / tafsir)
+// for a given list of ayahs — used per chunk so Arabic and its meaning stay adjacent.
+function bookSectionsFor(ayahs, surahId, c) {
   const sec = [];
   if (c.arabic) {
-    const arabicFlow = data.ayahs.map((a) => bookAyahSpan(a, surahId)).join(" ");
+    const arabicFlow = ayahs.map((a) => bookAyahSpan(a, surahId)).join(" ");
     sec.push(`<section class="book-section book-arabic-section" aria-label="Arabic text"><p class="book-flow arabic-flow" dir="rtl">${arabicFlow}</p></section>`);
   }
   if (c.translit) {
-    const f = data.ayahs.map((a) => { const t = renderAyahTransliteration(mergeLocalEdits(a, surahId)); return t ? `<span class="book-translit-seg" data-ayah="${a.ayah}">${esc(t)}${sajdahInlineHtml(surahId, a.ayah)}</span>` : ""; }).filter(Boolean).join(" ");
+    const f = ayahs.map((a) => { const t = renderAyahTransliteration(mergeLocalEdits(a, surahId)); return t ? `<span class="book-translit-seg" data-ayah="${a.ayah}">${esc(t)}${sajdahInlineHtml(surahId, a.ayah)}</span>` : ""; }).filter(Boolean).join(" ");
     if (f) sec.push(`<section class="book-section book-translit-section" aria-label="Transliteration"><p class="book-flow translit-flow" dir="ltr">${f}</p></section>`);
   }
   if (c.translation) {
-    const f = data.ayahs.map((a) => { const m = mergeLocalEdits(a, surahId); const t = m.translation || m.qf_translation || ""; return t ? `<span class="book-trans-seg" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${esc(t)}${sajdahInlineHtml(surahId, a.ayah)}</span>` : ""; }).filter(Boolean).join(" ");
+    const f = ayahs.map((a) => { const m = mergeLocalEdits(a, surahId); const t = m.translation || m.qf_translation || ""; return t ? `<span class="book-trans-seg" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${esc(t)}${sajdahInlineHtml(surahId, a.ayah)}</span>` : ""; }).filter(Boolean).join(" ");
     if (f) sec.push(`<section class="book-section book-translation-section" aria-label="Translation"><p class="book-flow translation-flow">${f}</p></section>`);
   }
   if (c.aiTranslation) {
-    const f = data.ayahs.map((a) => { const m = mergeLocalEdits(a, surahId); const t = m.ai_translation || ""; return t ? `<span class="book-trans-seg" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${esc(t)}${sajdahInlineHtml(surahId, a.ayah)}</span>` : ""; }).filter(Boolean).join(" ");
+    const f = ayahs.map((a) => { const m = mergeLocalEdits(a, surahId); const t = m.ai_translation || ""; return t ? `<span class="book-trans-seg" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${esc(t)}${sajdahInlineHtml(surahId, a.ayah)}</span>` : ""; }).filter(Boolean).join(" ");
     if (f) sec.push(`<section class="book-section book-translation-section ai-mode" aria-label="AI translation"><p class="book-flow translation-flow">${f}</p></section>`);
   }
   if (c.aiTafsir || c.ibnKathir || c.maarif) {
-    const blocks = data.ayahs.map((a) => bookTafsirBlock(a, surahId)).filter(Boolean).join("");
+    const blocks = ayahs.map((a) => bookTafsirBlock(a, surahId)).filter(Boolean).join("");
     if (blocks) sec.push(`<section class="book-section book-tafsir-section" aria-label="Tafsir">${blocks}</section>`);
   }
-  if (!sec.length) sec.push(`<p class="empty-note center">Choose at least one element in “Content”.</p>`);
-  return `<div class="book-stream">${sec.join("")}<div id="book-study-slot" class="book-study-slot"></div></div>`;
+  return sec;
+}
+
+// Split ayahs into chunks of roughly equal reading length so each Arabic block
+// sits right next to its own translation, instead of one wall of each.
+function bookChunks(ayahs, surahId) {
+  const TARGET = 520; // ~translation characters per chunk (≈ a short paragraph)
+  const chunks = []; let cur = []; let len = 0;
+  for (const a of ayahs) {
+    const m = mergeLocalEdits(a, surahId);
+    const t = m.translation || m.qf_translation || m.ai_translation || "";
+    cur.push(a);
+    len += (t.length || 60);
+    if (len >= TARGET) { chunks.push(cur); cur = []; len = 0; }
+  }
+  if (cur.length) chunks.push(cur);
+  return chunks;
+}
+
+function bookViewHtml(data, surahId) {
+  const c = prefs.bookContent || {};
+  // Only interleave when there are 2+ parallel text columns to alternate; a single
+  // column reads better as one continuous flow.
+  const flowCount = (c.arabic ? 1 : 0) + (c.translit ? 1 : 0) + (c.translation ? 1 : 0) + (c.aiTranslation ? 1 : 0);
+  const chunks = flowCount >= 2 ? bookChunks(data.ayahs, surahId) : [data.ayahs];
+  const parts = [];
+  for (const chunk of chunks) {
+    const sec = bookSectionsFor(chunk, surahId, c);
+    if (sec.length) parts.push(`<div class="book-chunk">${sec.join("")}</div>`);
+  }
+  if (!parts.length) parts.push(`<p class="empty-note center">Choose at least one element in “Content”.</p>`);
+  return `<div class="book-stream">${parts.join("")}<div id="book-study-slot" class="book-study-slot"></div></div>`;
 }
 
 function verseViewHtml(data, surahId) {

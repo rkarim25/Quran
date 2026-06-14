@@ -1182,6 +1182,18 @@ body {
   padding: 0.25rem 0;
 }
 
+/* a chunk keeps an Arabic block tight with its own translation; chunks are
+   separated by a clear rule so it's easy to scan, not one endless wall */
+.book-chunk {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+.book-chunk + .book-chunk {
+  padding-top: 1.4rem;
+  border-top: 1px solid var(--gold-soft);
+}
+
 .book-flow {
   margin: 0;
   max-width: 100%;
