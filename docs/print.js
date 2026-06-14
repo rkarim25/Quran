@@ -138,6 +138,26 @@
     return h;
   }
 
+  // Side-by-side (landscape): each āyah is one table row — translation panel on
+  // the left, Arabic (with transliteration verse-by-verse beneath, when chosen)
+  // on the right. Rows top-align, so a short side leaves a gap until the next verse.
+  async function renderFacingMode(group, sdata, opt, pageOf, juzOf, state) {
+    const byNum = {}; for (const a of sdata.ayahs) byNum[a.ayah] = a;
+    let rows = "";
+    for (const num of group.ayahs) {
+      const ay0 = byNum[num]; if (!ay0) continue;
+      const ay = effAyah(ay0, group.surah, opt);
+      const pg = pageOf[group.surah + ":" + num];
+      if (pg > state.lastPage) { rows += `<tr class="pr-facing-pm"><td colspan="2">${pageMark(pg, juzOf[group.surah + ":" + num])}</td></tr>`; state.lastPage = pg; }
+      const ar = `<div class="pr-ar" dir="rtl" lang="ar">${esc2(arabicOf(ay0))} ${rosette(num)}</div>`;
+      const tl = opt.translit ? `<div class="pr-tl" dir="ltr">${esc2(translitOf(ay))}</div>` : "";
+      const tr = `<div class="pr-tr"><span class="pr-facing-num">${num}</span> ${esc2(translationOf(ay, trSrc(opt)))}</div>`;
+      const tad = ay._tadabbur ? tadabburHtml(ay._tadabbur) : "";
+      rows += `<tr class="pr-facing-row"><td class="pr-facing-tr-cell">${tr}${tad}</td><td class="pr-facing-ar-cell" dir="rtl">${ar}${tl}</td></tr>`;
+    }
+    return `<table class="pr-facing-table"><tbody>${rows}</tbody></table>`;
+  }
+
   async function renderWbwMode(group, sdata, opt, pageOf, juzOf, state) {
     const byNum = {}; for (const a of sdata.ayahs) byNum[a.ayah] = a;
     let h = "";
@@ -223,7 +243,8 @@
       const withBismillah = g.ayahs[0] === 1 && g.surah !== 1 && g.surah !== 9;
       body += `<section class="pr-surah${first ? " pr-first" : ""}">`;
       body += surahHeader(meta, withBismillah, bism, first ? `${juzLabel} · ${pageLabel}` : "");
-      if (opt.layout === "book") body += renderBookMode(g, sdata, opt, pageOf, state);
+      if (opt.facing) body += await renderFacingMode(g, sdata, opt, pageOf, juzOf, state);
+      else if (opt.layout === "book") body += renderBookMode(g, sdata, opt, pageOf, state);
       else if (opt.layout === "wbw") body += await renderWbwMode(g, sdata, opt, pageOf, juzOf, state);
       else body += await renderAyahMode(g, sdata, opt, pageOf, juzOf, state);
       body += `</section>`;
@@ -279,6 +300,9 @@
     if (!anyContent) opt.arabic = true;
     if (opt.layout === "wbw") opt.arabic = true; // word-by-word always shows Arabic
     if (opt.pageTo < opt.pageFrom) opt.pageTo = opt.pageFrom;
+    // Side-by-side (landscape) only makes sense for line-by-line Arabic + translation,
+    // optionally with transliteration, and without long-form tafsīr.
+    opt.facing = !!$("pr-facing")?.checked && facingEligible(opt);
     return opt;
   }
 
@@ -289,6 +313,62 @@
     $("pr-wrap-page").hidden = scope !== "page";
   }
   function syncTransSourceUI() { const sel = $("pr-trans-source"); if (sel) sel.disabled = !$("pr-translation")?.checked; }
+
+  const setChk = (id, v) => { const el = $(id); if (el) el.checked = !!v; };
+
+  // Side-by-side is offered only for line-by-line Arabic + translation (translit optional), no tafsīr.
+  function facingEligible(o) {
+    const layout = o ? o.layout : (document.querySelector('input[name="pr-layout"]:checked')?.value || "ayah");
+    const arabic = o ? o.arabic : !!$("pr-arabic")?.checked;
+    const translation = o ? o.translation : !!$("pr-translation")?.checked;
+    const tafsir = o ? (o.incAiTafsir || o.incIbnKathir || o.incMaarif)
+      : ($("pr-ai-tafsir")?.checked || $("pr-ibn-kathir")?.checked || $("pr-maarif")?.checked);
+    return arabic && translation && layout === "ayah" && !tafsir;
+  }
+
+  // Enable/disable the side-by-side option to match the current content/layout choice.
+  function syncFacingUI() {
+    const cb = $("pr-facing"); if (!cb) return;
+    const ok = facingEligible(null);
+    cb.disabled = !ok;
+    if (!ok) cb.checked = false;
+    const wrap = $("pr-facing-wrap"); if (wrap) wrap.classList.toggle("pr-disabled", !ok);
+    const hint = $("pr-facing-hint");
+    if (hint) hint.textContent = !ok
+      ? "Needs Āyah-by-āyah layout with Arabic + Translation (no tafsīr)."
+      : ($("pr-translit")?.checked
+          ? "Landscape · Arabic + transliteration on the right, translation on the left."
+          : "Landscape · Arabic on the right, translation on the left.");
+  }
+
+  // Preload the form from whatever the reader is currently showing, so Print opens
+  // with the same selection. The user can still change anything before generating.
+  function syncFormFromReader() {
+    const p = (typeof prefs !== "undefined" && prefs) ? prefs : null;
+    if (!p) return;
+    const layoutMap = { verse: "ayah", wbw: "wbw", book: "book", mushaf: "ayah" };
+    const lyt = layoutMap[p.layoutMode] || "ayah";
+    const lr = document.querySelector(`input[name="pr-layout"][value="${lyt}"]`); if (lr) lr.checked = true;
+
+    let arabic, translit, translation, aiTrans;
+    if (p.layoutMode === "book") {
+      const c = p.bookContent || {};
+      arabic = !!c.arabic; translit = !!c.translit;
+      translation = !!(c.translation || c.aiTranslation);
+      aiTrans = !!c.aiTranslation && !c.translation;
+      setChk("pr-ai-tafsir", !!c.aiTafsir); setChk("pr-ibn-kathir", !!c.ibnKathir); setChk("pr-maarif", !!c.maarif);
+    } else {
+      arabic = true; translit = !!p.showTransliteration;
+      translation = p.readMode !== "arabic"; aiTrans = p.readMode === "ai";
+    }
+    setChk("pr-arabic", arabic); setChk("pr-translit", translit); setChk("pr-translation", translation);
+    const ts = $("pr-trans-source"); if (ts) ts.value = aiTrans ? "ai" : "standard";
+
+    const showEdits = p.editView === "mine" || p.editView === "both";
+    setChk("pr-my-trans", showEdits); setChk("pr-my-words", showEdits);
+
+    syncTransSourceUI(); syncFacingUI();
+  }
 
   let populated = false;
   async function populate() {
@@ -302,8 +382,9 @@
 
   function openModal() {
     populate();
+    syncFormFromReader();
     $("pr-modal-backdrop").hidden = false; $("pr-modal").hidden = false;
-    syncScopeUI(); syncTransSourceUI();
+    syncScopeUI(); syncTransSourceUI(); syncFacingUI();
     const st = $("pr-status"); if (st) st.textContent = "";
     document.body.style.overflow = "hidden";
   }
@@ -318,7 +399,7 @@
       const html = await buildDoc(opt);
       let root = $("print-root");
       if (!root) { root = document.createElement("div"); root.id = "print-root"; document.body.appendChild(root); }
-      root.className = `layout-${opt.layout} pr-font-${opt.font}`;
+      root.className = `layout-${opt.facing ? "facing" : opt.layout} pr-font-${opt.font}`;
       root.style.setProperty("--pr-ar", opt.arSize + "pt");
       root.style.setProperty("--pr-tr", opt.enSize + "pt");
       root.style.setProperty("--pr-tl", (opt.enSize - 1.5) + "pt");
@@ -344,6 +425,7 @@
     document.addEventListener("change", (e) => {
       if (e.target.name === "pr-scope") syncScopeUI();
       else if (e.target.id === "pr-translation") syncTransSourceUI();
+      if (e.target.closest && e.target.closest("#pr-modal")) syncFacingUI();
     });
     document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !$("pr-modal")?.hidden) closeModal(); });
     window.addEventListener("afterprint", () => { const root = $("print-root"); if (root) root.innerHTML = ""; });

@@ -2417,6 +2417,29 @@ input.pr-input[type="number"] { width: 5rem; flex: none; }
 
 
 /* ============================================================
+   PRINT — side-by-side (landscape) facing layout
+   ============================================================ */
+/* screen: the modal option */
+.pr-facing-check.pr-disabled { opacity: 0.45; }
+.pr-facing-hint { margin: 0.35rem 0 0; font-size: 0.74rem; color: var(--muted); font-family: var(--font-ui); font-style: italic; line-height: 1.4; }
+
+/* a landscape sheet just for the facing layout */
+@page pr-landscape { size: A4 landscape; margin: 0; }
+@media print {
+  #print-root.layout-facing .pr-frame { page: pr-landscape; }
+  #print-root.layout-facing .pr-facing-table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+  #print-root.layout-facing .pr-facing-row { break-inside: avoid; }
+  #print-root.layout-facing .pr-facing-row > td { width: 50%; vertical-align: top; padding: 2.5mm 6mm 3.5mm; border-bottom: 0.5pt dotted #d8c489; }
+  #print-root.layout-facing .pr-facing-row:last-child > td { border-bottom: none; }
+  #print-root.layout-facing .pr-facing-ar-cell { border-left: 0.7pt solid #d8c489; }
+  #print-root.layout-facing .pr-facing-row .pr-ar { margin-bottom: 1.6mm; text-align: right; }
+  #print-root.layout-facing .pr-facing-row .pr-tl { margin-top: 0.5mm; margin-bottom: 0; }
+  #print-root.layout-facing .pr-facing-row .pr-tr { margin: 0; line-height: 1.6; }
+  #print-root.layout-facing .pr-facing-num { font-family: Inter, sans-serif; font-size: 7pt; color: #b1922f; font-weight: 600; vertical-align: super; margin-right: 0.3em; }
+  #print-root.layout-facing .pr-facing-pm td { padding: 1.5mm 0 1mm; }
+}
+
+/* ============================================================
    PRINT v5 — geometric (arabesque) border, sizing, neater start,
    plus website style polish
    ============================================================ */
