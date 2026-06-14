@@ -2693,3 +2693,56 @@ html[data-theme="night"] .mb-frame { background: linear-gradient(135deg, rgba(20
 @media (max-width: 640px) {
   .mushaf-page { padding: 1rem 0.85rem 0.5rem; border-radius: 10px; }
 }
+
+/* ===== Word-by-word study layout ===== */
+.wbw-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem 0.85rem;
+  justify-content: center;
+  direction: rtl;
+  padding: 0.4rem 0;
+}
+.wbw-word {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 0.35rem 0.45rem;
+  border-radius: 10px;
+  transition: background 0.15s ease;
+}
+.wbw-word:hover { background: var(--green-light); }
+.wbw-ar {
+  font-family: var(--font-arabic);
+  font-size: calc(1.75rem * var(--arabic-scale));
+  color: var(--ink);
+  line-height: 1.7;
+  cursor: help;
+}
+.wbw-tr {
+  font-family: var(--font-ui);
+  font-size: calc(0.72rem * var(--trans-scale));
+  color: var(--gold-muted);
+  font-style: italic;
+  margin-top: 0.1rem;
+  direction: ltr;
+}
+.wbw-en {
+  font-family: var(--font-body);
+  font-size: calc(0.82rem * var(--trans-scale));
+  color: var(--ink-soft);
+  margin-top: 0.05rem;
+  direction: ltr;
+  max-width: 9.5rem;
+  line-height: 1.3;
+}
+.wbw-fulltrans {
+  text-align: center;
+  color: var(--muted);
+  font-family: var(--font-body);
+  font-size: calc(1.02rem * var(--trans-scale));
+  margin-top: 0.7rem;
+  padding-top: 0.55rem;
+  border-top: 1px solid rgba(31, 107, 82, 0.08);
+}
