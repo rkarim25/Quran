@@ -2503,6 +2503,11 @@ a:focus-visible, button:focus-visible, select:focus-visible, input:focus-visible
 .word-tooltip .wt-ai-grammar { font-size: 0.83rem; color: var(--muted); line-height: 1.5; margin-top: 0.55rem; padding-top: 0.5rem; border-top: 1px solid rgba(154,132,85,0.18); }
 .word-tooltip .wt-ai-root { font-size: 0.76rem; color: var(--gold-muted); margin-top: 0.45rem; font-style: italic; }
 .word-tooltip .wt-ai-pending { font-size: 0.76rem; color: var(--muted); font-style: italic; margin-top: 0.4rem; }
+.word-tooltip .wt-symbols { margin-top: 0.55rem; padding-top: 0.5rem; border-top: 1px solid rgba(154,132,85,0.18); display: flex; flex-direction: column; gap: 0.4rem; }
+.word-tooltip .wt-symbols-label { font-size: 0.64rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--gold-muted); font-weight: 600; }
+.word-tooltip .wt-symbol { display: flex; align-items: baseline; gap: 0.5rem; }
+.word-tooltip .wt-symbol-mark { font-family: var(--font-arabic); font-size: 1.2rem; color: var(--green); min-width: 1.5rem; text-align: center; flex-shrink: 0; }
+.word-tooltip .wt-symbol-desc { font-size: 0.8rem; color: var(--ink-soft); line-height: 1.4; }
 
 
 /* ============================================================

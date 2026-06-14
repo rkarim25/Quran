@@ -1051,6 +1051,34 @@ function hideTooltip() {
   document.querySelectorAll(".q-word.active").forEach((w) => w.classList.remove("active"));
 }
 
+// Recitation (waqf) marks + disjoined-letter openings — explained in the word
+// tooltip. Arabic cursive shaping can't be split to make the tiny mark its own
+// target, so tapping/hovering the word that carries the mark surfaces its meaning.
+const WAQF_MARKS = {
+  "ۖ": ["ۖ", "Pause permissible, but continuing is preferable (ṣalī)."],
+  "ۗ": ["ۗ", "Pausing is preferable here, though continuing is allowed (qilī)."],
+  "ۘ": ["ۘ", "Compulsory pause (lāzim) — not stopping can distort the meaning."],
+  "ۙ": ["ۙ", "Do not pause here (lā) — the meaning runs on to what follows."],
+  "ۚ": ["ۚ", "Permissible pause (jāʾiz) — you may stop or continue."],
+  "ۛ": ["ۛ", "Muʿānaqah — stop at one of the two marked places, never both."],
+  "ۜ": ["ۜ", "Saktah — a brief pause without taking a new breath."],
+};
+const MUQATTA_SURAHS = new Set([2, 3, 7, 10, 11, 12, 13, 14, 15, 19, 20, 26, 27, 28, 29, 30, 31, 32, 36, 38, 40, 41, 42, 43, 44, 45, 46, 50, 68]);
+function symbolNotesHtml(arabic, surahId, ayahNum, key) {
+  const items = [];
+  const seen = new Set();
+  for (const ch of (arabic || "")) {
+    if (WAQF_MARKS[ch] && !seen.has(ch)) {
+      seen.add(ch);
+      items.push(`<div class="wt-symbol"><span class="wt-symbol-mark" dir="rtl" lang="ar">◌${WAQF_MARKS[ch][0]}</span><span class="wt-symbol-desc">${esc(WAQF_MARKS[ch][1])}</span></div>`);
+    }
+  }
+  if (ayahNum === 1 && key === "1" && MUQATTA_SURAHS.has(surahId)) {
+    items.push(`<div class="wt-symbol"><span class="wt-symbol-mark">✦</span><span class="wt-symbol-desc">Muqaṭṭaʿāt — the “disjoined letters.” Allah opens this sūrah with detached Arabic letters; their full meaning rests with Allah, and they underscore that the Qurʾān is composed from these very letters.</span></div>`);
+  }
+  return items.length ? `<div class="wt-symbols"><div class="wt-symbols-label">Recitation marks</div>${items.join("")}</div>` : "";
+}
+
 function showWordTooltip(el, opts = {}) {
   const o = (typeof opts === "boolean") ? { editing: opts } : (opts || {});
   const editing = !!o.editing;
@@ -1066,6 +1094,7 @@ function showWordTooltip(el, opts = {}) {
   const ayah = mergeLocalEdits(raw, surahId);
   const word = ayah.word_by_word[key];
   if (!word) return;
+  const symbolHtml = symbolNotesHtml(word.arabic, surahId, ayahNum, key);
 
   selectedAyah = ayah;
   document.querySelectorAll(".q-word").forEach((w) => w.classList.remove("active"));
@@ -1087,11 +1116,12 @@ function showWordTooltip(el, opts = {}) {
        <div class="wt-ai-meaning">${esc(ai.meaning || word.translation || "")}</div>
        ${ai.parts && ai.parts.length ? `<div class="wt-ai-parts">${ai.parts.map((p) => `<span class="wt-seg"><span class="wt-seg-ar" dir="rtl" lang="ar">${esc(p.ar || "")}</span><span class="wt-seg-en">${p.tr ? `<em>${esc(p.tr)}</em> — ` : ""}${esc(p.en || "")}</span></span>`).join("")}</div>` : ""}
        ${ai.grammar ? `<div class="wt-ai-grammar">${esc(ai.grammar)}</div>` : ""}
-       ${ai.root ? `<div class="wt-ai-root">${esc(ai.root)}</div>` : ""}`;
+       ${ai.root ? `<div class="wt-ai-root">${esc(ai.root)}</div>` : ""}${symbolHtml}`;
   } else {
     tooltip.innerHTML = `<div class="wt-ar">${esc(word.arabic)}</div><div class="wt-tr">${esc(word.transliteration || "")}</div>
        <div class="wt-en">${esc(word.translation || "")}</div>
        ${prefs.wordMode === "ai" ? `<div class="wt-ai-pending">Detailed AI word analysis for this sūrah is being prepared.</div>` : ""}
+       ${symbolHtml}
        <div class="wt-actions"><button type="button" class="primary" id="wt-edit">Edit meaning</button></div>`;
   }
 
