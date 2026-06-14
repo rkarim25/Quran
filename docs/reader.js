@@ -764,6 +764,32 @@ function readerHintText() {
   return "Hover a word for its meaning · ✎ to edit translation · ☰ to expand tadabbur & tafsir below";
 }
 
+// Unified "Content ▾" box: gathers every per-view display option (reading mode,
+// transliteration, book content, edit version) into one dropdown. The Word AI
+// hover toggle stays a separate button. Returns "" when nothing applies (mushaf).
+function contentMenuHtml(data) {
+  const lm = prefs.layoutMode;
+  const sections = [];
+  if (lm === "verse" || lm === "wbw") {
+    const rm = [["arabic", "Arabic only"], ["translation", "Translation"], ["ai", "AI Translation"]];
+    sections.push(`<div class="cm-group"><div class="cm-group-label">Reading mode</div>${rm.map(([k, lbl]) => `<label class="cm-item"><input type="radio" name="cm-readmode" data-rm="${k}" ${prefs.readMode === k ? "checked" : ""}> ${lbl}</label>`).join("")}</div>`);
+    sections.push(`<label class="cm-item"><input type="checkbox" data-translit ${prefs.showTransliteration ? "checked" : ""}> Transliteration</label>`);
+  }
+  if (lm === "book") {
+    const bc = [["arabic", "Arabic"], ["translit", "Transliteration"], ["translation", "Translation"], ["aiTranslation", "AI translation"], ["aiTafsir", "AI Tafsir"], ["ibnKathir", "Ibn Kathīr"], ["maarif", "Maʿārif ul Qurʼān"]];
+    sections.push(`<div class="cm-group"><div class="cm-group-label">Show</div>${bc.map(([k, lbl]) => `<label class="cm-item"><input type="checkbox" data-bc="${k}" ${prefs.bookContent[k] ? "checked" : ""}> ${lbl}</label>`).join("")}</div>`);
+  }
+  if (lm !== "mushaf") {
+    const ev = [["mine", "My edits"], ["original", "Original"], ["both", "Both"]];
+    sections.push(`<div class="cm-group"><div class="cm-group-label">Edit version</div>${ev.map(([k, lbl]) => `<label class="cm-item"><input type="radio" name="cm-editview" data-ev="${k}" ${prefs.editView === k ? "checked" : ""}> ${lbl}</label>`).join("")}</div>`);
+  }
+  if (!sections.length) return "";
+  return `<span class="content-menu-wrap">
+            <button type="button" class="btn active" id="content-btn" title="Choose what to show">Content ▾</button>
+            <div class="content-menu" id="content-menu" hidden>${sections.join("")}</div>
+          </span>`;
+}
+
 function toolbarHtml(data, ayah, surahs = []) {
   return `
       <div class="reader-toolbar sticky-toolbar">
@@ -772,10 +798,17 @@ function toolbarHtml(data, ayah, surahs = []) {
           <span class="surah-progress-label">Ayah ${ayah} of ${data.verses_count}</span>
         </div>
         <div class="toolbar-actions">
-          <div class="search-wrap reader-search-wrap">
-            <span class="search-icon" aria-hidden="true">⌕</span>
-            <input type="search" id="reader-search" class="search-input reader-search-input" placeholder="Sūrah or ayah #…" autocomplete="off" spellcheck="false" enterkeyhint="go" aria-label="Jump to sūrah or ayah" />
-            <div id="reader-search-dropdown" class="search-dropdown" hidden role="listbox"></div>
+          <div class="jump-group">
+            <div class="search-wrap reader-search-wrap reader-surah-wrap">
+              <span class="search-icon" aria-hidden="true">⌕</span>
+              <input type="search" id="reader-surah" class="search-input reader-search-input" placeholder="Sūrah…" autocomplete="off" spellcheck="false" enterkeyhint="go" aria-label="Search and jump to a sūrah" />
+              <div id="reader-surah-dd" class="search-dropdown" hidden role="listbox"></div>
+            </div>
+            <div class="search-wrap reader-search-wrap reader-ayah-wrap">
+              <span class="search-icon" aria-hidden="true">⌕</span>
+              <input type="search" id="reader-ayah" class="search-input reader-search-input reader-ayah-input" placeholder="Ayah #…" inputmode="numeric" autocomplete="off" spellcheck="false" enterkeyhint="go" aria-label="Search and jump to an ayah in this sūrah" />
+              <div id="reader-ayah-dd" class="search-dropdown" hidden role="listbox"></div>
+            </div>
           </div>
           <select id="layout-select" class="select-input" aria-label="Reading layout" title="Reading layout">
             <option value="verse" ${prefs.layoutMode === "verse" ? "selected" : ""}>Verse</option>
@@ -783,21 +816,7 @@ function toolbarHtml(data, ayah, surahs = []) {
             <option value="book" ${prefs.layoutMode === "book" ? "selected" : ""}>Book</option>
             ${mushafAvailable(data.id) ? `<option value="mushaf" ${prefs.layoutMode === "mushaf" ? "selected" : ""}>Mushaf</option>` : ""}
           </select>
-          ${(prefs.layoutMode === "verse" || prefs.layoutMode === "wbw") ? `<select id="read-mode" class="select-input" aria-label="Reading mode">
-            <option value="arabic" ${prefs.readMode === "arabic" ? "selected" : ""}>Arabic only</option>
-            <option value="translation" ${prefs.readMode === "translation" ? "selected" : ""}>Translation</option>
-            <option value="ai" ${prefs.readMode === "ai" ? "selected" : ""}>AI Translation</option>
-          </select>
-          <button type="button" class="btn ${prefs.showTransliteration ? "active" : ""}" id="toggle-transliteration" title="Show romanized pronunciation">Transliteration</button>` : ""}
-          ${prefs.layoutMode === "book" ? `<span class="content-menu-wrap">
-            <button type="button" class="btn active" id="book-content-btn" title="Choose what to show in book view">Content ▾</button>
-            <div class="content-menu" id="content-menu" hidden>${[["arabic","Arabic"],["translit","Transliteration"],["translation","Translation"],["aiTranslation","AI translation"],["aiTafsir","AI Tafsir"],["ibnKathir","Ibn Kathīr"],["maarif","Maʿārif ul Qurʼān"]].map(([k,lbl]) => `<label class="cm-item"><input type="checkbox" data-bc="${k}" ${prefs.bookContent[k] ? "checked" : ""}> ${lbl}</label>`).join("")}</div>
-          </span>` : ""}
-          ${prefs.layoutMode !== "mushaf" ? `<select id="edit-view" class="select-input" aria-label="Show edits" title="Show your edits, the originals, or both">
-            <option value="mine" ${prefs.editView === "mine" ? "selected" : ""}>My edits</option>
-            <option value="original" ${prefs.editView === "original" ? "selected" : ""}>Original</option>
-            <option value="both" ${prefs.editView === "both" ? "selected" : ""}>Both</option>
-          </select>` : ""}
+          ${contentMenuHtml(data)}
           <button type="button" class="btn ${prefs.wordMode === "ai" ? "active" : ""}" id="toggle-wordmode" title="Hover any word for an AI grammar &amp; meaning breakdown">Word AI</button>
           <span class="font-group"><span class="fg-label" dir="rtl">ع</span><button type="button" class="btn icon-only" id="font-smaller" title="Smaller Arabic">A−</button><button type="button" class="btn icon-only" id="font-larger" title="Larger Arabic">A+</button></span>
           <span class="font-group"><span class="fg-label">Aa</span><button type="button" class="btn icon-only" id="text-smaller" title="Smaller translation/transliteration">A−</button><button type="button" class="btn icon-only" id="text-larger" title="Larger translation/transliteration">A+</button></span>
@@ -1327,22 +1346,6 @@ function bindSurahEvents() {
     });
   });
 
-  document.getElementById("read-mode")?.addEventListener("change", async (e) => {
-    prefs.readMode = e.target.value;
-    savePrefs();
-    if (currentSurah) {
-      await renderSurah(currentSurah, visibleAyah || getLastReadForSurah(currentSurah.id)?.ayah);
-    }
-  });
-
-  document.getElementById("toggle-transliteration")?.addEventListener("click", async () => {
-    prefs.showTransliteration = !prefs.showTransliteration;
-    savePrefs();
-    document.getElementById("toggle-transliteration")?.classList.toggle("active", prefs.showTransliteration);
-    if (currentSurah) {
-      await renderSurah(currentSurah, visibleAyah || getLastReadForSurah(currentSurah.id)?.ayah);
-    }
-  });
 
   document.getElementById("layout-select")?.addEventListener("change", async (e) => {
     prefs.layoutMode = e.target.value;
@@ -1777,85 +1780,84 @@ function bindSmartSearch(surahs) {
 
 // Smart search for the reader toolbar: type a sūrah name, a reference (2:255),
 // or a bare ayah number (jumps within the current sūrah).
+// Two independent jump boxes — a sūrah picker and an ayah picker — each with its
+// own filter + scrollable dropdown. The ayah box is keyed to the open sūrah
+// (currentSurah); navigating via the sūrah box re-renders the toolbar, so the
+// ayah box rebuilds itself for the new sūrah automatically.
 function bindReaderSearch(surahs) {
-  const input = document.getElementById("reader-search");
-  const dropdown = document.getElementById("reader-search-dropdown");
-  if (!input || !dropdown) return;
-  let results = [], activeIdx = 0, gen = 0;
-  const renderDD = () => {
-    if (!results.length) { dropdown.hidden = true; dropdown.innerHTML = ""; return; }
-    dropdown.hidden = false;
-    let html = "", lastSection = null;
-    results.forEach((r, i) => {
-      if (r.section && r.section !== lastSection) {
-        lastSection = r.section;
-        html += `<div class="search-section">${r.section === "ayah" ? "Jump to ayah" : "Sūrahs"}</div>`;
-      }
-      html += `<button type="button" class="search-item ${i === activeIdx ? "active" : ""}" data-i="${i}">
-        <span class="search-item-row"><span class="search-item-label">${esc(r.label)}</span>${r.kindLabel ? `<span class="search-item-kind">${esc(r.kindLabel)}</span>` : ""}</span>
-        ${r.sub ? `<span class="search-item-sub">${esc(r.sub)}</span>` : ""}
-      </button>`;
+  const makeCombo = ({ inputId, ddId, build, onPick }) => {
+    const input = document.getElementById(inputId);
+    const dropdown = document.getElementById(ddId);
+    if (!input || !dropdown) return;
+    let results = [], activeIdx = 0;
+    const render = () => {
+      if (!results.length) { dropdown.hidden = true; dropdown.innerHTML = ""; return; }
+      dropdown.hidden = false;
+      dropdown.innerHTML = results.map((r, i) =>
+        `<button type="button" class="search-item ${i === activeIdx ? "active" : ""}" data-i="${i}" role="option" aria-selected="${i === activeIdx}">
+          <span class="search-item-row"><span class="search-item-label">${esc(r.label)}</span></span>
+          ${r.sub ? `<span class="search-item-sub">${esc(r.sub)}</span>` : ""}
+        </button>`).join("");
+      const act = dropdown.querySelector(".search-item.active");
+      if (act) act.scrollIntoView({ block: "nearest" });
+    };
+    const update = () => {
+      results = build(input.value.trim());
+      const found = results.findIndex((r) => r.active);
+      activeIdx = found < 0 ? 0 : found;
+      render();
+    };
+    const pick = (r) => { if (!r) return; dropdown.hidden = true; input.value = ""; onPick(r); };
+    input.addEventListener("input", update);
+    input.addEventListener("focus", () => {
+      document.querySelectorAll(".reader-search-wrap .search-dropdown").forEach((dd) => { if (dd !== dropdown) dd.hidden = true; });
+      update();
     });
-    dropdown.innerHTML = html;
-    const act = dropdown.querySelector(".search-item.active");
-    if (act) act.scrollIntoView({ block: "nearest" });
+    input.addEventListener("keydown", (e) => {
+      if (e.key === "ArrowDown") { e.preventDefault(); if (results.length) { activeIdx = Math.min(activeIdx + 1, results.length - 1); render(); } }
+      else if (e.key === "ArrowUp") { e.preventDefault(); activeIdx = Math.max(activeIdx - 1, 0); render(); }
+      else if (e.key === "Enter") { e.preventDefault(); if (results.length) pick(results[activeIdx]); }
+      else if (e.key === "Escape") { dropdown.hidden = true; input.blur(); }
+    });
+    dropdown.addEventListener("click", (e) => { const b = e.target.closest(".search-item"); if (b) pick(results[+b.dataset.i]); });
   };
-  const go = (r) => {
-    if (!r) return;
-    dropdown.hidden = true; input.value = "";
-    if (r.ayah && currentSurah && r.surah === currentSurah.id) scrollToAyah(r.surah, r.ayah);
-    else goToSearchResult(r);
-  };
-  // Empty box → browse the full list: this sūrah's ayahs, then every sūrah.
-  const buildBrowse = () => {
-    const list = [];
-    if (currentSurah) {
-      for (let a = 1; a <= currentSurah.verses_count; a++) {
-        list.push({ surah: currentSurah.id, ayah: a, label: `Ayah ${a}`, section: "ayah" });
-      }
-    }
-    surahs.forEach((s) => list.push({ surah: s.id, label: `${s.id}. ${s.name_simple}`, sub: s.translated_name, section: "surah" }));
-    return list;
-  };
-  const update = async () => {
-    const q = input.value.trim();
-    const g = ++gen;
-    if (!q) {
-      results = buildBrowse();
-      activeIdx = currentSurah ? (currentSurah.verses_count >= visibleAyah ? visibleAyah - 1 : 0) : 0;
-      renderDD();
-      return;
-    }
-    if (/^\d+$/.test(q)) {
-      const n = +q; results = [];
-      if (currentSurah && n >= 1 && n <= currentSurah.verses_count)
-        results.push({ surah: currentSurah.id, ayah: n, label: `Ayah ${n}`, kindLabel: "this sūrah", sub: currentSurah.translated_name });
-      const s = surahs.find((x) => x.id === n);
-      if (s) results.push({ surah: s.id, label: `${s.id}. ${s.name_simple}`, kindLabel: "sūrah", sub: s.translated_name });
-      activeIdx = 0; renderDD(); return;
-    }
-    dropdown.hidden = false; dropdown.innerHTML = `<div class="search-loading">Searching…</div>`;
-    const res = await smartSearch(surahs, q);
-    if (g !== gen) return;
-    results = res; activeIdx = 0; renderDD();
-  };
-  input.addEventListener("input", update);
-  input.addEventListener("focus", () => { if (dropdown.hidden) update(); });
-  input.addEventListener("keydown", (e) => {
-    if (e.key === "ArrowDown") { e.preventDefault(); if (results.length) { activeIdx = Math.min(activeIdx + 1, results.length - 1); renderDD(); } }
-    else if (e.key === "ArrowUp") { e.preventDefault(); activeIdx = Math.max(activeIdx - 1, 0); renderDD(); }
-    else if (e.key === "Enter") { e.preventDefault(); if (results.length) go(results[activeIdx]); }
-    else if (e.key === "Escape") { dropdown.hidden = true; input.blur(); }
+
+  // Sūrah box — filter all 114 by number or name (English / Arabic); pick navigates.
+  makeCombo({
+    inputId: "reader-surah", ddId: "reader-surah-dd",
+    build: (q) => {
+      const ql = q.toLowerCase();
+      let list = surahs.filter((s) =>
+        !q || String(s.id).startsWith(q) ||
+        s.name_simple.toLowerCase().includes(ql) ||
+        (s.translated_name || "").toLowerCase().includes(ql) ||
+        (s.name_arabic || "").includes(q));
+      if (/^\d+$/.test(q)) list = list.slice().sort((a, b) => (b.id === +q) - (a.id === +q) || a.id - b.id);
+      return list.map((s) => ({ surah: s.id, label: `${s.id}. ${s.name_simple}`, sub: s.translated_name, active: !!currentSurah && s.id === currentSurah.id }));
+    },
+    onPick: (r) => goToSearchResult({ surah: r.surah }),
   });
-  dropdown.addEventListener("click", (e) => { const b = e.target.closest(".search-item"); if (b) go(results[+b.dataset.i]); });
+
+  // Ayah box — list/filter the open sūrah's ayahs by number; pick jumps to it.
+  makeCombo({
+    inputId: "reader-ayah", ddId: "reader-ayah-dd",
+    build: (q) => {
+      if (!currentSurah) return [];
+      let nums = [];
+      for (let a = 1; a <= currentSurah.verses_count; a++) nums.push(a);
+      if (q) nums = nums.filter((a) => String(a).includes(q)).sort((x, y) => (String(y) === q) - (String(x) === q));
+      return nums.map((a) => ({ surah: currentSurah.id, ayah: a, label: `Ayah ${a}`, active: a === visibleAyah }));
+    },
+    onPick: (r) => { if (document.getElementById(`ayah-${r.surah}-${r.ayah}`)) scrollToAyah(r.surah, r.ayah); else goToSearchResult(r); },
+  });
+
   if (!document.body.dataset.readerSearchDocBound) {
     document.body.dataset.readerSearchDocBound = "1";
     document.addEventListener("click", (e) => {
-      const dd = document.getElementById("reader-search-dropdown");
-      if (dd && !e.target.closest(".reader-search-wrap")) dd.hidden = true;
+      if (e.target.closest(".reader-search-wrap")) return;
+      document.querySelectorAll(".reader-search-wrap .search-dropdown").forEach((dd) => { dd.hidden = true; });
     });
   }
-  ensureSearchIndex();
 }
 
 function resumeCardHtml(entry, surahs, { showLabel = false } = {}) {
