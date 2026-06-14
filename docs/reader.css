@@ -2796,4 +2796,13 @@ html[data-theme="night"] .mb-frame { background: linear-gradient(135deg, rgba(20
   }
   /* clean double rule only — no corner medallions */
   #print-root::before { background-image: none; }
+
+  /* SINGLE frame only: remove the page-flow table border (v6 "Style 1") entirely.
+     Its 3pt-double edges on .pr-geo-top/.pr-geo-bot/.pr-cell drew a SECOND double
+     border, and the tfoot (.pr-geo-bot) floats after the content instead of pinning
+     to the page bottom — so its bottom edge couldn't close on a short/last page,
+     leaving the inner border open. Only the fixed ::before/::after double rule
+     (always a complete rectangle on every page) should render. */
+  .pr-geo, .pr-geo-top, .pr-geo-bot, .pr-cell,
+  .pr-frame > thead > tr > td, .pr-frame > tfoot > tr > td { border: 0 !important; }
 }
