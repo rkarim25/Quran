@@ -707,12 +707,6 @@ function readerHintText() {
 }
 
 function toolbarHtml(data, ayah, surahs = []) {
-  const jumpOptions = data.ayahs
-    .map((a) => `<option value="${a.ayah}" ${a.ayah === ayah ? "selected" : ""}>Ayah ${a.ayah}</option>`)
-    .join("");
-  const surahOptions = surahs
-    .map((s) => `<option value="${s.id}" ${s.id === data.id ? "selected" : ""}>${s.id}. ${esc(s.name_simple)}</option>`)
-    .join("");
   return `
       <div class="reader-toolbar sticky-toolbar">
         <div class="surah-progress-wrap">
@@ -720,8 +714,11 @@ function toolbarHtml(data, ayah, surahs = []) {
           <span class="surah-progress-label">Ayah ${ayah} of ${data.verses_count}</span>
         </div>
         <div class="toolbar-actions">
-          <select id="surah-jump" class="select-input" aria-label="Jump to surah">${surahOptions}</select>
-          <select id="ayah-jump" class="select-input" aria-label="Jump to ayah">${jumpOptions}</select>
+          <div class="search-wrap reader-search-wrap">
+            <span class="search-icon" aria-hidden="true">⌕</span>
+            <input type="search" id="reader-search" class="search-input reader-search-input" placeholder="Sūrah or ayah #…" autocomplete="off" spellcheck="false" enterkeyhint="go" aria-label="Jump to sūrah or ayah" />
+            <div id="reader-search-dropdown" class="search-dropdown" hidden role="listbox"></div>
+          </div>
           ${prefs.layoutMode === "verse" ? `<select id="read-mode" class="select-input" aria-label="Reading mode">
             <option value="arabic" ${prefs.readMode === "arabic" ? "selected" : ""}>Arabic only</option>
             <option value="translation" ${prefs.readMode === "translation" ? "selected" : ""}>Translation</option>
@@ -1674,6 +1671,63 @@ function bindSmartSearch(surahs) {
   ensureSearchIndex();
 }
 
+// Smart search for the reader toolbar: type a sūrah name, a reference (2:255),
+// or a bare ayah number (jumps within the current sūrah).
+function bindReaderSearch(surahs) {
+  const input = document.getElementById("reader-search");
+  const dropdown = document.getElementById("reader-search-dropdown");
+  if (!input || !dropdown) return;
+  let results = [], activeIdx = 0, gen = 0;
+  const renderDD = () => {
+    if (!results.length) { dropdown.hidden = true; dropdown.innerHTML = ""; return; }
+    dropdown.hidden = false;
+    dropdown.innerHTML = results.map((r, i) => `
+      <button type="button" class="search-item ${i === activeIdx ? "active" : ""}" data-i="${i}">
+        <span class="search-item-row"><span class="search-item-label">${esc(r.label)}</span>${r.kindLabel ? `<span class="search-item-kind">${esc(r.kindLabel)}</span>` : ""}</span>
+        ${r.sub ? `<span class="search-item-sub">${esc(r.sub)}</span>` : ""}
+      </button>`).join("");
+  };
+  const go = (r) => {
+    if (!r) return;
+    dropdown.hidden = true; input.value = "";
+    if (r.ayah && currentSurah && r.surah === currentSurah.id) scrollToAyah(r.surah, r.ayah);
+    else goToSearchResult(r);
+  };
+  const update = async () => {
+    const q = input.value.trim();
+    const g = ++gen;
+    if (/^\d+$/.test(q)) {
+      const n = +q; results = [];
+      if (currentSurah && n >= 1 && n <= currentSurah.verses_count)
+        results.push({ surah: currentSurah.id, ayah: n, label: `Ayah ${n}`, kindLabel: "this sūrah", sub: currentSurah.translated_name });
+      const s = surahs.find((x) => x.id === n);
+      if (s) results.push({ surah: s.id, label: `${s.id}. ${s.name_simple}`, kindLabel: "sūrah", sub: s.translated_name });
+      activeIdx = 0; renderDD(); return;
+    }
+    if (q.length < 1) { results = []; renderDD(); return; }
+    dropdown.hidden = false; dropdown.innerHTML = `<div class="search-loading">Searching…</div>`;
+    const res = await smartSearch(surahs, q);
+    if (g !== gen) return;
+    results = res; activeIdx = 0; renderDD();
+  };
+  input.addEventListener("input", update);
+  input.addEventListener("keydown", (e) => {
+    if (e.key === "ArrowDown") { e.preventDefault(); if (results.length) { activeIdx = Math.min(activeIdx + 1, results.length - 1); renderDD(); } }
+    else if (e.key === "ArrowUp") { e.preventDefault(); activeIdx = Math.max(activeIdx - 1, 0); renderDD(); }
+    else if (e.key === "Enter") { e.preventDefault(); if (results.length) go(results[activeIdx]); }
+    else if (e.key === "Escape") { dropdown.hidden = true; input.blur(); }
+  });
+  dropdown.addEventListener("click", (e) => { const b = e.target.closest(".search-item"); if (b) go(results[+b.dataset.i]); });
+  if (!document.body.dataset.readerSearchDocBound) {
+    document.body.dataset.readerSearchDocBound = "1";
+    document.addEventListener("click", (e) => {
+      const dd = document.getElementById("reader-search-dropdown");
+      if (dd && !e.target.closest(".reader-search-wrap")) dd.hidden = true;
+    });
+  }
+  ensureSearchIndex();
+}
+
 function resumeCardHtml(entry, surahs, { showLabel = false } = {}) {
   const s = surahs.find((x) => x.id === entry.surah);
   if (!s) return "";
@@ -1707,7 +1761,7 @@ function renderHome(surahs) {
       <section class="home-section resume-section">
         <h2 class="section-title">Continue your reading</h2>
         <div class="resume-list">${recentReads
-          .map((entry, i) => resumeCardHtml(entry, surahs, { showLabel: i === 0 }))
+          .map((entry) => resumeCardHtml(entry, surahs))
           .join("")}</div>
       </section>` : ""}
       <div class="search-wrap home-search">
@@ -1874,6 +1928,7 @@ async function renderSurah(data, targetAyah, openStudy = false) {
 
   applyScales();
   bindSurahEvents();
+  bindReaderSearch(surahList);
   setupScrollObserver(data.id);
   updateProgress(data.id, ayah);
   requestAnimationFrame(() => {
