@@ -19,8 +19,14 @@ const start = (A && A.start) || 0
 const count = (A && A.count) || (nChunks - start)
 
 const pad = (i) => String(i).padStart(4, '0')
-const chunkPaths = []
-for (let i = start; i < start + count && i < nChunks; i++) chunkPaths.push(`${dir}/chunk_${pad(i)}.json`)
+// chunk selection: explicit {chunks:[...]} (for gap re-runs) OR a {start,count} range
+const explicit = A && Array.isArray(A.chunks) ? A.chunks : null
+const chunkList = []
+if (explicit) {
+  for (const i of explicit) if (i >= 0 && i < nChunks) chunkList.push({ idx: i, path: `${dir}/chunk_${pad(i)}.json` })
+} else {
+  for (let i = start; i < start + count && i < nChunks; i++) chunkList.push({ idx: i, path: `${dir}/chunk_${pad(i)}.json` })
+}
 
 const FAST_MODEL = 'sonnet'
 const PART = { type: 'object', properties: { ar: { type: 'string' }, tr: { type: 'string' }, en: { type: 'string' } }, required: ['ar', 'en'] }
@@ -94,33 +100,37 @@ function finalizePrompt(draft, verdict) {
 }
 
 phase('Draft')
-log(`AI word-by-word (intrinsic, global-cache): surah ${surah}, chunks ${start}..${start + chunkPaths.length - 1} of ${nChunks}`)
+log(`AI word-by-word (intrinsic, global-cache): surah ${surah}, ${chunkList.length} chunk(s) of ${nChunks}`)
 
 const perChunk = await pipeline(
-  chunkPaths,
-  (path, _orig, i) => agent(draftPrompt(path), { label: `draft c${start + i}`, phase: 'Draft', schema: DRAFT_SCHEMA }),
-  (draft, path, i) => agent(verifyPrompt(path, draft), { label: `verify c${start + i}`, phase: 'Verify', schema: VERDICT_SCHEMA, model: FAST_MODEL })
-      .then((verdict) => ({ draft, verdict })),
-  (b, path, i) => {
+  chunkList,
+  (item) => agent(draftPrompt(item.path), { label: `draft c${item.idx}`, phase: 'Draft', schema: DRAFT_SCHEMA }),
+  (draft, item) => {
+    if (!draft || !draft.words) return { draft: null, verdict: null }  // draft failed (e.g. 529) -> skip; chunk re-runs later
+    return agent(verifyPrompt(item.path, draft), { label: `verify c${item.idx}`, phase: 'Verify', schema: VERDICT_SCHEMA, model: FAST_MODEL })
+        .then((verdict) => ({ draft, verdict }))
+  },
+  (b, item) => {
+    if (!b || !b.draft || !b.draft.words) return []  // no draft -> nothing for this chunk (gap, will be re-run)
     const toEntries = (words) => {
       const dById = {}; for (const w of (b.draft.words || [])) dById[w.id] = w
       const wById = {}; for (const w of (words || [])) wById[w.id] = w
       const ids = new Set([...Object.keys(dById), ...Object.keys(wById)].map(Number))
       return [...ids].map((id) => {
-        const w = wById[id] || dById[id]  // fall back to the draft if finalize dropped an id
+        const w = wById[id] || dById[id]  // fall back to the draft if finalize dropped/failed an id
         if (!w) return null
         return { id, entry: { meaning: w.meaning, parts: w.parts || [], grammar: w.grammar, root: w.root || '' } }
       }).filter(Boolean)
     }
-    // Skip the (Opus) finalize agent when the adversarial checker passes clean —
-    // it would only echo the draft. Finalize only the chunks with flagged issues.
+    // finalize (Opus) only when the checker flagged issues; null-safe so a finalize
+    // failure (e.g. 529) keeps the good Opus draft instead of dropping the chunk.
     const clean = b.verdict && b.verdict.pass === true && (!b.verdict.issues || b.verdict.issues.length === 0)
     if (clean) return toEntries(b.draft.words)
-    return agent(finalizePrompt(b.draft, b.verdict), { label: `finalize c${start + i}`, phase: 'Finalize', schema: FINAL_SCHEMA })
-        .then((final) => toEntries(final.words))
+    return agent(finalizePrompt(b.draft, b.verdict), { label: `finalize c${item.idx}`, phase: 'Finalize', schema: FINAL_SCHEMA })
+        .then((final) => toEntries(final && final.words))
   },
 )
 
 const analyses = perChunk.filter(Boolean).flat()
-log(`Done: ${analyses.length} form analyses from ${chunkPaths.length} chunk(s). (assemble_wbw.py reports any unfilled positions.)`)
-return { surah, start, count: chunkPaths.length, analysed: analyses.length, analyses }
+log(`Done: ${analyses.length} form analyses from ${chunkList.length} chunk(s). (assemble_wbw.py reports any unfilled positions.)`)
+return { surah, processed: chunkList.length, analysed: analyses.length, analyses }
