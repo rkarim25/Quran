@@ -34,7 +34,7 @@ Legacy output JSON (compact):
       "positions": { "<ayah>": { "<wordIdx>": <formId> } } }
 """
 from __future__ import annotations
-import argparse, json, shutil, sys
+import argparse, json, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -104,7 +104,7 @@ def main() -> int:
     ap.add_argument("--ayahs", default="", help="comma list; default = all ayat")
     ap.add_argument("--out", default="")
     ap.add_argument("--cache", default="", help="global form cache JSON (normKey->entry); enables cache mode")
-    ap.add_argument("--chunk", type=int, default=12, help="new forms per chunk file (cache mode)")
+    ap.add_argument("--chunk", type=int, default=24, help="new forms per chunk file (cache mode)")
     args = ap.parse_args()
 
     n = args.surah
@@ -136,10 +136,16 @@ def main() -> int:
             new_forms.append({"id": f["id"], "ar": f["ar"], "tr": f["tr"], "gloss": f["gloss"]})
             new_keys[str(f["id"])] = k
 
+    # Clear stale chunk/result/sidecar files but keep the dir itself — rmdir can
+    # fail on Windows/OneDrive when sync holds a handle on the folder.
     sdir = FORMS / f"surah_{n}"
-    if sdir.exists():
-        shutil.rmtree(sdir)
     sdir.mkdir(parents=True, exist_ok=True)
+    for old in sdir.glob("chunk_*.json"):
+        old.unlink(missing_ok=True)
+    for old in sdir.glob("result*.json"):
+        old.unlink(missing_ok=True)
+    for name in ("asm.json", "chunk.json", "chunk_partial.json"):
+        (sdir / name).unlink(missing_ok=True)
 
     chunk_paths = []
     for i in range(0, len(new_forms), args.chunk):

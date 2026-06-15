@@ -1,6 +1,6 @@
 export const meta = {
   name: 'ai-wbw-pipeline',
-  description: 'Generate INTRINSIC per-word Qur\'anic analysis (core meaning, morphology split, plain-English grammar, root) for the NEW (uncached) surface forms of a surah. Each draft agent reads its own small chunk file (scripts/_forms/surah_<n>/chunk_NNNN.json from extract_forms.py --cache), so it scales to any surah. Analyses are strictly form-intrinsic (no per-verse framing) so the global cache can reuse each form everywhere it occurs. Adversarial morphology check on each chunk. args: {surah, dir, n_chunks, start?, count?}. Returns per-form analyses [{id, entry}]; reassembly + cache growth happen in Python (assemble_wbw.py) off the LLM path.',
+  description: 'Generate INTRINSIC per-word Qur\'anic analysis (core meaning, morphology split, plain-English grammar, root) for the NEW (uncached) surface forms of a surah. Each draft agent reads its own small chunk file (scripts/_forms/surah_<n>/chunk_NNNN.json from extract_forms.py --cache), so it scales to any surah. Analyses are strictly form-intrinsic (no per-verse framing) so the global cache can reuse each form everywhere it occurs. Adversarial morphology check on each chunk; the Opus finalize step runs only for chunks the checker flags. args: {surah, dir, n_chunks, start?, count?}. Returns per-form analyses [{id, entry}]; reassembly + cache growth happen in Python (assemble_wbw.py) off the LLM path.',
   phases: [
     { title: 'Draft', detail: 'Per-form analysis, one agent per chunk file' },
     { title: 'Verify', detail: 'Adversarial morphology/grammar check (sonnet)' },
@@ -101,17 +101,24 @@ const perChunk = await pipeline(
   (path, _orig, i) => agent(draftPrompt(path), { label: `draft c${start + i}`, phase: 'Draft', schema: DRAFT_SCHEMA }),
   (draft, path, i) => agent(verifyPrompt(path, draft), { label: `verify c${start + i}`, phase: 'Verify', schema: VERDICT_SCHEMA, model: FAST_MODEL })
       .then((verdict) => ({ draft, verdict })),
-  (b, path, i) => agent(finalizePrompt(b.draft, b.verdict), { label: `finalize c${start + i}`, phase: 'Finalize', schema: FINAL_SCHEMA })
-      .then((final) => {
-        const dById = {}; for (const w of (b.draft.words || [])) dById[w.id] = w
-        const fById = {}; for (const w of (final.words || [])) fById[w.id] = w
-        const ids = new Set([...Object.keys(dById), ...Object.keys(fById)].map(Number))
-        return [...ids].map((id) => {
-          const w = fById[id] || dById[id]  // fall back to the draft if finalize dropped an id
-          if (!w) return null
-          return { id, entry: { meaning: w.meaning, parts: w.parts || [], grammar: w.grammar, root: w.root || '' } }
-        }).filter(Boolean)
-      }),
+  (b, path, i) => {
+    const toEntries = (words) => {
+      const dById = {}; for (const w of (b.draft.words || [])) dById[w.id] = w
+      const wById = {}; for (const w of (words || [])) wById[w.id] = w
+      const ids = new Set([...Object.keys(dById), ...Object.keys(wById)].map(Number))
+      return [...ids].map((id) => {
+        const w = wById[id] || dById[id]  // fall back to the draft if finalize dropped an id
+        if (!w) return null
+        return { id, entry: { meaning: w.meaning, parts: w.parts || [], grammar: w.grammar, root: w.root || '' } }
+      }).filter(Boolean)
+    }
+    // Skip the (Opus) finalize agent when the adversarial checker passes clean —
+    // it would only echo the draft. Finalize only the chunks with flagged issues.
+    const clean = b.verdict && b.verdict.pass === true && (!b.verdict.issues || b.verdict.issues.length === 0)
+    if (clean) return toEntries(b.draft.words)
+    return agent(finalizePrompt(b.draft, b.verdict), { label: `finalize c${start + i}`, phase: 'Finalize', schema: FINAL_SCHEMA })
+        .then((final) => toEntries(final.words))
+  },
 )
 
 const analyses = perChunk.filter(Boolean).flat()
