@@ -3180,3 +3180,160 @@ html[data-theme="night"] .hist-card { background: rgba(196,169,106,0.08); }
 html[data-theme="night"] .occ-hd   { color: #7dcfaa; }
 html[data-theme="night"] .hist-card .occ-hd { color: #c4a96a; }
 html[data-theme="night"] .occ-text { color: var(--text-night, #d8d0c4); }
+
+/* ── People card modal ── */
+.people-overlay {
+  position: fixed; inset: 0; z-index: 1200;
+  background: rgba(0,0,0,0.55); backdrop-filter: blur(2px);
+  display: flex; align-items: center; justify-content: center;
+  padding: 1rem; opacity: 0; transition: opacity 0.18s ease;
+}
+.people-overlay.open { opacity: 1; }
+
+.people-modal {
+  background: var(--paper, #fffcf7); border-radius: 14px;
+  width: 100%; max-width: 540px; max-height: 88vh;
+  display: flex; flex-direction: column;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.28), 0 4px 16px rgba(0,0,0,0.16);
+  position: relative; overflow: hidden;
+  transform: translateY(10px); transition: transform 0.18s ease;
+}
+.people-overlay.open .people-modal { transform: translateY(0); }
+
+.people-close {
+  position: absolute; top: 0.75rem; right: 0.85rem;
+  background: none; border: none; cursor: pointer;
+  font-size: 1.5rem; line-height: 1; color: var(--text-muted, #888);
+  padding: 0.2rem 0.4rem; border-radius: 4px; z-index: 2;
+}
+.people-close:hover { color: var(--text-primary, #1a2420); background: var(--parchment, #f5f0e6); }
+
+.people-header {
+  display: flex; align-items: center; gap: 1rem;
+  padding: 1.25rem 1.25rem 0.9rem; border-bottom: 1.5px solid var(--border-light, #e5ddd0);
+  flex-shrink: 0;
+}
+.people-avatar {
+  width: 52px; height: 52px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 1.45rem; font-weight: 700; color: #fff;
+  font-family: var(--font-ui); flex-shrink: 0;
+}
+.people-htext { flex: 1; min-width: 0; }
+.people-name {
+  font-family: var(--font-ui); font-size: 1.05rem; font-weight: 700;
+  color: var(--text-primary, #1a2420); line-height: 1.25;
+}
+.people-kunya {
+  font-family: var(--font-body); font-size: 0.8rem; font-style: italic;
+  color: var(--text-muted, #888); margin-top: 0.15rem;
+}
+.people-tags {
+  display: flex; flex-wrap: wrap; gap: 0.3rem; margin-top: 0.4rem;
+}
+.ptag {
+  font-family: var(--font-ui); font-size: 0.58rem; font-weight: 700;
+  letter-spacing: 0.07em; text-transform: uppercase;
+  background: var(--parchment, #f5f0e6); color: var(--text-muted, #888);
+  padding: 0.2rem 0.45rem; border-radius: 3px;
+}
+
+.people-tabs {
+  display: flex; gap: 0; border-bottom: 1.5px solid var(--border-light, #e5ddd0);
+  overflow-x: auto; flex-shrink: 0;
+}
+.ptab {
+  font-family: var(--font-ui); font-size: 0.7rem; font-weight: 600;
+  letter-spacing: 0.04em; text-transform: uppercase;
+  padding: 0.6rem 0.9rem; cursor: pointer; border: none; background: none;
+  color: var(--text-muted, #888); border-bottom: 2px solid transparent;
+  margin-bottom: -1.5px; white-space: nowrap; transition: color 0.15s, border-color 0.15s;
+}
+.ptab:hover { color: var(--green-main, #1f6b52); }
+.ptab.active { color: var(--green-main, #1f6b52); border-bottom-color: var(--green-main, #1f6b52); }
+
+.people-body {
+  flex: 1; overflow-y: auto; padding: 1rem 1.25rem 1.25rem;
+}
+
+/* Biography tab */
+.pbio-text {
+  font-family: var(--font-body); font-size: 0.9rem; line-height: 1.7;
+  color: var(--text-primary, #1a2420); margin: 0 0 1rem;
+}
+.pbio-facts { display: flex; flex-direction: column; gap: 0.5rem; }
+.pbio-fact {
+  display: flex; gap: 0.75rem; align-items: baseline;
+  border-bottom: 1px solid var(--border-light, #e5ddd0); padding-bottom: 0.5rem;
+}
+.pfl {
+  font-family: var(--font-ui); font-size: 0.67rem; font-weight: 600;
+  letter-spacing: 0.05em; text-transform: uppercase; color: var(--text-muted, #888);
+  flex-shrink: 0; width: 90px;
+}
+.pfv {
+  font-family: var(--font-body); font-size: 0.85rem; color: var(--text-primary, #1a2420);
+}
+
+/* Relationships tab */
+.prel-group { margin-bottom: 1rem; }
+.prel-label {
+  font-family: var(--font-ui); font-size: 0.63rem; font-weight: 700;
+  letter-spacing: 0.08em; text-transform: uppercase; color: var(--green-dark, #145038);
+  margin-bottom: 0.4rem;
+}
+.prel-item {
+  display: flex; flex-direction: column; gap: 0.1rem;
+  padding: 0.45rem 0.6rem; border-radius: 6px;
+  border: 1px solid var(--border-light, #e5ddd0);
+  margin-bottom: 0.35rem; background: var(--parchment, #f5f0e6);
+}
+.people-link {
+  background: none; border: none; padding: 0; cursor: pointer;
+  font-family: var(--font-ui); font-size: 0.82rem; font-weight: 600;
+  color: var(--green-dark, #145038); text-align: left;
+  text-decoration: underline; text-underline-offset: 2px;
+  transition: color 0.12s;
+}
+.people-link:hover { color: var(--green-main, #1f6b52); }
+.prel-name { font-size: 0.85rem; }
+.prel-note {
+  font-family: var(--font-body); font-size: 0.75rem; color: var(--text-muted, #888);
+  font-style: italic;
+}
+
+/* Hadith tab */
+.phadith-stats {
+  display: flex; gap: 1rem; margin-bottom: 1rem;
+  padding: 0.75rem 1rem; background: var(--parchment, #f5f0e6); border-radius: 8px;
+}
+.phadith-stat { text-align: center; flex: 1; }
+.phs-n {
+  display: block; font-family: var(--font-ui); font-size: 1.6rem; font-weight: 700;
+  color: var(--green-dark, #145038); line-height: 1;
+}
+.phs-l {
+  display: block; font-family: var(--font-ui); font-size: 0.6rem; font-weight: 600;
+  letter-spacing: 0.06em; text-transform: uppercase; color: var(--text-muted, #888);
+  margin-top: 0.2rem;
+}
+.phadith-section { margin-bottom: 0.75rem; }
+.phadith-hd {
+  font-family: var(--font-ui); font-size: 0.63rem; font-weight: 700;
+  letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-muted, #888);
+  margin-bottom: 0.5rem;
+}
+
+/* Night mode — people modal */
+html[data-theme="night"] .people-modal   { background: var(--night-surface, #1a2020); }
+html[data-theme="night"] .people-name    { color: var(--text-night, #d8d0c4); }
+html[data-theme="night"] .people-header  { border-color: rgba(255,255,255,0.1); }
+html[data-theme="night"] .people-tabs    { border-color: rgba(255,255,255,0.1); }
+html[data-theme="night"] .ptag           { background: rgba(255,255,255,0.08); color: #9b9287; }
+html[data-theme="night"] .pbio-text      { color: var(--text-night, #d8d0c4); }
+html[data-theme="night"] .pbio-fact      { border-color: rgba(255,255,255,0.08); }
+html[data-theme="night"] .pfv            { color: var(--text-night, #d8d0c4); }
+html[data-theme="night"] .prel-item      { background: rgba(255,255,255,0.04); border-color: rgba(255,255,255,0.08); }
+html[data-theme="night"] .people-link    { color: #7dcfaa; }
+html[data-theme="night"] .phadith-stats  { background: rgba(255,255,255,0.05); }
+html[data-theme="night"] .phs-n          { color: #7dcfaa; }

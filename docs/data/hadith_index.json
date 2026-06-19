@@ -2,6 +2,7 @@
   "h001": {
     "id": "h001",
     "narrator": "Abu Sa'id ibn al-Mu'alla (RA)",
+    "narrator_id": "abu-said-ibn-al-mualla",
     "text": "The Prophet (ﷺ) said to me: 'Shall I not teach you the most superior surah in the Quran before you leave the mosque?' He took my hand, and when we were about to leave I said: 'O Messenger of Allah, you said you would teach me the most superior surah in the Quran.' He said: 'Al-Hamdu Lillahi Rabbil Alamin — The Seven Oft-Repeated Verses and the Magnificent Quran that has been given to me.'",
     "source": "Sahih al-Bukhari",
     "source_short": "Bukhari",
@@ -13,6 +14,7 @@
   "h002": {
     "id": "h002",
     "narrator": "Abu Hurairah (RA)",
+    "narrator_id": "abu-hurairah",
     "text": "Allah the Exalted said: 'I have divided the prayer between Myself and My servant in two halves, and My servant shall have what he asks for.' When the servant says 'All praise is due to Allah, the Lord of all the worlds,' Allah says: My servant has praised Me. When he says 'The Entirely Merciful, the Especially Merciful,' Allah says: My servant has extolled Me. When he says 'Master of the Day of Recompense,' Allah says: My servant has glorified Me. When he says 'You alone we worship and You alone we ask for help,' Allah says: This is between Me and My servant, and My servant shall have what he asks for. When he says 'Guide us to the straight path, the path of those upon whom You have bestowed favour, not of those who have evoked Your anger or of those who are astray,' Allah says: This is for My servant, and My servant shall have what he has asked for.",
     "source": "Sahih Muslim",
     "source_short": "Muslim",
@@ -24,6 +26,7 @@
   "h003": {
     "id": "h003",
     "narrator": "Abu Sa'id al-Khudri (RA)",
+    "narrator_id": "abu-said-al-khudri",
     "text": "Some Companions stopped near an Arab tribe. The chief of the tribe was bitten by a snake or scorpion. A man from among them went to the Companions and said: 'Do any of you know medicine or a ruqyah?' They agreed to treat him in exchange for a flock of sheep. One of them began reciting Surah Al-Fatiha, gathering his saliva and spitting on the bite site. The man recovered immediately. When they told the Prophet (ﷺ), he said: 'How did you know that it could be used as a ruqyah? Divide the sheep among yourselves, and give me a share as well.' And he smiled.",
     "source": "Sahih al-Bukhari",
     "source_short": "Bukhari",
@@ -35,6 +38,7 @@
   "h004": {
     "id": "h004",
     "narrator": "Abu Hurairah (RA)",
+    "narrator_id": "abu-hurairah",
     "text": "The Prophet (ﷺ) said: 'Whoever does not recite Al-Fatiha in his prayer, his prayer is invalid.'",
     "source": "Sahih al-Bukhari",
     "source_short": "Bukhari",
@@ -46,6 +50,7 @@
   "h005": {
     "id": "h005",
     "narrator": "Abu Hurairah (RA)",
+    "narrator_id": "abu-hurairah",
     "text": "The Prophet (ﷺ) said: 'When the Imam says Ameen, say Ameen, for whoever's Ameen coincides with that of the angels, all his previous sins will be forgiven.'",
     "source": "Sahih al-Bukhari",
     "source_short": "Bukhari",
@@ -57,6 +62,7 @@
   "h010": {
     "id": "h010",
     "narrator": "Ubayy ibn Ka'b (RA)",
+    "narrator_id": "ubayy-ibn-kab",
     "text": "The Messenger of Allah (ﷺ) asked: 'O Abu Mundhir! Do you know which verse of the Book of Allah that you have memorised is greatest?' I said: 'Allah and His Messenger know best.' He asked again: 'O Abu Mundhir! Which verse of the Book of Allah that you have memorised is greatest?' I said: 'Allah — there is no deity except Him, the Ever-Living, the Sustainer of existence [Ayat al-Kursi].' He struck me on the chest and said: 'By Allah, may knowledge be pleasant for you, O Abu Mundhir!'",
     "source": "Sahih Muslim",
     "source_short": "Muslim",
@@ -68,6 +74,7 @@
   "h011": {
     "id": "h011",
     "narrator": "Abu Hurairah (RA)",
+    "narrator_id": "abu-hurairah",
     "text": "The Prophet (ﷺ) assigned me to guard the zakah of Ramadan. A figure came and began taking food stealthily. I seized him and said I would take him to the Prophet. He pleaded poverty and need. This happened three times. On the third occasion he said: 'Let me go and I will teach you words by which Allah will benefit you. When you go to bed, recite Ayat al-Kursi in full. A guardian from Allah will then be over you all night, and no devil will come near you until morning.' When I told the Prophet, he said: 'He told you the truth, even though he is a liar. Do you know who you were speaking with for three nights, O Abu Hurairah? That was the devil.'",
     "source": "Sahih al-Bukhari",
     "source_short": "Bukhari",
@@ -79,6 +86,7 @@
   "h012": {
     "id": "h012",
     "narrator": "Abu Umamah al-Bahili (RA)",
+    "narrator_id": "abu-umamah-al-bahili",
     "text": "The Messenger of Allah (ﷺ) said: 'Whoever recites Ayat al-Kursi at the end of every obligatory prayer, nothing will stand between him and entering Paradise except death.'",
     "source": "al-Nasai / al-Silsilah al-Sahihah",
     "source_short": "Nasai",
@@ -90,6 +98,7 @@
   "h020": {
     "id": "h020",
     "narrator": "Abu Hurairah (RA)",
+    "narrator_id": "abu-hurairah",
     "text": "The Prophet (ﷺ) said: 'Gather together, for I am going to recite to you one third of the Quran.' Those who could came and gathered. He came out, recited 'Say: He is Allah, the One,' then went back in. Some said to one another: 'Perhaps a revelation came to him from the sky.' He then came out again and said: 'I told you I would recite one third of the Quran to you. Verily, this surah is equal to one third of the Quran.'",
     "source": "Sahih Muslim",
     "source_short": "Muslim",
@@ -101,6 +110,7 @@
   "h021": {
     "id": "h021",
     "narrator": "Anas ibn Malik (RA)",
+    "narrator_id": "anas-ibn-malik",
     "text": "A man from the Ansar used to lead his community in prayer at the Quba mosque. Whenever he recited an opening surah for a rak'ah, he would follow it by reciting 'Say: He is Allah, the One' before reciting any other surah, doing this in every rak'ah. The people complained to the Prophet (ﷺ), who summoned the man and asked why he did this. The man replied: 'I love this surah.' The Prophet said: 'Your love for it will admit you to Paradise.'",
     "source": "Sahih al-Bukhari",
     "source_short": "Bukhari",
@@ -112,6 +122,7 @@
   "h022": {
     "id": "h022",
     "narrator": "Aisha (RA)",
+    "narrator_id": "aisha-bint-abi-bakr",
     "text": "The Prophet (ﷺ) sent a man on an expedition as commander of a group. He used to lead his companions in prayer and would always end his recitation with 'Say: He is Allah, the One.' When they returned and mentioned this to the Prophet, he said: 'Ask him why he did that.' They asked him, and he replied: 'Because it is the attribute of the Merciful, and I love to recite it.' The Prophet (ﷺ) said: 'Tell him that Allah loves him.'",
     "source": "Sahih al-Bukhari",
     "source_short": "Bukhari",
@@ -123,6 +134,7 @@
   "h030": {
     "id": "h030",
     "narrator": "Umar ibn al-Khattab (RA)",
+    "narrator_id": "umar-ibn-al-khattab",
     "text": "On the night of al-Aqabah, the Prophet (ﷺ) revealed to me: 'Has the surah of al-Baqarah not come to you with the two verses at the end of it? These were not given to any prophet before me.' Then he said: 'Allah — there is no deity except Him, the Ever-Living, the Sustainer of existence...' down to 'And He is the Most High, the Most Great.'",
     "source": "Musnad Ahmad",
     "source_short": "Ahmad",
@@ -134,6 +146,7 @@
   "h031": {
     "id": "h031",
     "narrator": "Abu Dharr al-Ghifari (RA)",
+    "narrator_id": "abu-dharr-al-ghifari",
     "text": "The Prophet (ﷺ) said: 'O Abu Dharr, shall I tell you the best thing by which you can protect yourself each evening? It is Ayat al-Kursi — whoever reads it will be under Allah's protection until morning, and whoever reads it in the morning will be under Allah's protection until evening.'",
     "source": "al-Tabarani / al-Silsilah al-Sahihah",
     "source_short": "Tabarani",
@@ -145,6 +158,7 @@
   "h040": {
     "id": "h040",
     "narrator": "Ibn Abbas (RA)",
+    "narrator_id": "ibn-abbas",
     "text": "When the Messenger of Allah (ﷺ) used to raise his head from the last prostration in Fajr prayer, he would recite: 'O Allah, indeed I ask You for the mercy from Your presence by which You guide my heart, unite my affairs, gather what is scattered of me, return what is absent, raise what is lowered, strengthen what is weak, make what is near firm, purify what is corrupt, and inspire in me my right guidance...' He continued with a long supplication that included seeking refuge in Allah from every evil companion and partner in worldly affairs and the Hereafter.",
     "source": "al-Hakim",
     "source_short": "Hakim",

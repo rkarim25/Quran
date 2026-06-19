@@ -1,4 +1,4 @@
-const cache = { index: null, surahs: {}, pristine: {}, aiWbw: {}, timeline: null, hadithIndex: null, hadithMap: null, asbabNuzul: null };
+const cache = { index: null, surahs: {}, pristine: {}, aiWbw: {}, timeline: null, hadithIndex: null, hadithMap: null, asbabNuzul: null, people: null, peopleHadith: null };
 const LS = {
   lastRead: "quran-last-read",
   recentReads: "quran-recent-reads",
@@ -370,6 +370,19 @@ async function loadAsbabNuzul() {
       const res = await fetch(`data/asbab_nuzul.json?v=${DATA_VERSION}`);
       cache.asbabNuzul = res.ok ? await res.json() : {};
     } catch (_) { cache.asbabNuzul = {}; }
+  }
+}
+
+async function loadPeople() {
+  if (cache.people === null) {
+    try {
+      const [pi, ph] = await Promise.all([
+        fetch(`data/people_index.json?v=${DATA_VERSION}`).then(r => r.ok ? r.json() : {}),
+        fetch(`data/people_hadith.json?v=${DATA_VERSION}`).then(r => r.ok ? r.json() : {}),
+      ]);
+      cache.people = pi;
+      cache.peopleHadith = ph;
+    } catch (_) { cache.people = {}; cache.peopleHadith = {}; }
   }
 }
 
@@ -1225,8 +1238,11 @@ function renderHadithTab(surahId, ayahNum) {
   const cards = ids.map(id => {
     const h = idx[id];
     const gc = GRADE_CLS[h.grade] || "hg-other";
+    const personLink = h.narrator_id
+      ? `<button class="people-link" data-person="${h.narrator_id}"><strong>${esc(h.narrator)}</strong></button>`
+      : `<strong>${esc(h.narrator)}</strong>`;
     return `<div class="hadith-card">
-      <div class="hadith-narrator">Narrated by <strong>${esc(h.narrator)}</strong></div>
+      <div class="hadith-narrator">Narrated by ${personLink}</div>
       <blockquote class="hadith-text">${esc(h.text)}</blockquote>
       <div class="hadith-meta">
         <span class="hadith-source">${esc(h.source)}</span>
@@ -1302,6 +1318,9 @@ function bindContextPanelEvents(container) {
   const surahId = +(panel.dataset.surah || currentSurah?.id);
   const ayahNum = +(panel.dataset.ayah || selectedAyah?.ayah);
 
+  const initBody = panel.querySelector(".ctx-body");
+  if (initBody) bindPeopleLinks(initBody);
+
   panel.querySelectorAll(".ctx-tab").forEach(btn => {
     btn.addEventListener("click", async e => {
       e.stopPropagation();
@@ -1311,7 +1330,194 @@ function bindContextPanelEvents(container) {
       savePrefs();
       panel.querySelectorAll(".ctx-tab").forEach(b => b.classList.toggle("active", b === btn));
       const body = panel.querySelector(".ctx-body");
-      if (body) body.innerHTML = ctxTabContent(tab, surahId, ayahNum);
+      if (body) {
+        body.innerHTML = ctxTabContent(tab, surahId, ayahNum);
+        bindPeopleLinks(body);
+      }
+    });
+  });
+}
+
+// ---- People card modal ----
+
+function peopleAvatarColor(id) {
+  const colors = ["#1a7a4a","#b45309","#1d4ed8","#6d28d9","#9d174d","#065f46","#92400e"];
+  let h = 0;
+  for (const c of id) h = ((h * 31) + c.charCodeAt(0)) >>> 0;
+  return colors[h % colors.length];
+}
+
+function renderPeopleBioTab(person) {
+  const facts = [
+    ["Full Name", person.full_name],
+    ["Kunya", person.kunya],
+    ["Title",    person.title],
+    ["Died",     person.death],
+    ["Tribe",    person.tribe],
+  ].filter(([, v]) => v);
+  return `<div class="pbio">
+    <p class="pbio-text">${esc(person.bio || "")}</p>
+    <div class="pbio-facts">${facts.map(([l, v]) =>
+      `<div class="pbio-fact"><span class="pfl">${esc(l)}</span><span class="pfv">${esc(v)}</span></div>`
+    ).join("")}</div>
+  </div>`;
+}
+
+function renderPeopleRelTab(person) {
+  const rels = person.relationships || [];
+  if (!rels.length) return '<p class="empty-note">No relationship data recorded.</p>';
+  const TYPE_LABELS = {
+    spouse: "Spouse", child: "Children", parent: "Parents",
+    sibling: "Siblings", cousin: "Cousins", teacher: "Teachers",
+    student: "Students", friend: "Friends", companion: "Companions",
+  };
+  const grouped = {};
+  for (const r of rels) {
+    const g = TYPE_LABELS[r.type] || "Other";
+    (grouped[g] = grouped[g] || []).push(r);
+  }
+  return Object.entries(grouped).map(([label, items]) =>
+    `<div class="prel-group">
+      <div class="prel-label">${esc(label)}</div>
+      ${items.map(r => {
+        const linked = cache.people?.[r.id];
+        return `<div class="prel-item">
+          ${linked
+            ? `<button class="people-link prel-name" data-person="${r.id}">${esc(linked.name)}</button>`
+            : `<span class="prel-name">${esc(r.label)}</span>`
+          }
+          ${r.label && linked ? `<span class="prel-note">${esc(r.label)}</span>` : ""}
+        </div>`;
+      }).join("")}
+    </div>`
+  ).join("");
+}
+
+function renderPeopleHadithTab(person) {
+  const ph = cache.peopleHadith?.[person.id] || {};
+  const idx = cache.hadithIndex || {};
+  const narrated = (ph.narrated || []).filter(id => idx[id]);
+  const about    = (ph.about    || []).filter(id => idx[id]);
+  const GRADE_CLS = { Sahih: "hg-sahih", Hasan: "hg-hasan", "Hasan Sahih": "hg-hasan", Daif: "hg-daif" };
+  const card = id => {
+    const h = idx[id];
+    const gc = GRADE_CLS[h.grade] || "hg-other";
+    return `<div class="hadith-card">
+      <blockquote class="hadith-text">${esc(h.text)}</blockquote>
+      <div class="hadith-meta">
+        <span class="hadith-source">${esc(h.source)}</span>
+        <span class="hadith-grade ${gc}">${esc(h.grade)}</span>
+        ${h.reference ? `<span class="hadith-ref">No. ${esc(h.reference)}</span>` : ""}
+      </div>
+      ${h.topic ? `<div class="hadith-topic">${esc(h.topic)}</div>` : ""}
+    </div>`;
+  };
+  return `<div class="phadith">
+    <div class="phadith-stats">
+      <div class="phadith-stat"><span class="phs-n">${narrated.length}</span><span class="phs-l">In This Collection</span></div>
+      <div class="phadith-stat"><span class="phs-n">${about.length}</span><span class="phs-l">Mentioned In</span></div>
+    </div>
+    ${narrated.length ? `<div class="phadith-section">
+      <div class="phadith-hd">NARRATED BY ${esc(person.name.replace(/ \(RA\)| ﷺ/g,"").toUpperCase())}</div>
+      ${narrated.map(card).join("")}
+    </div>` : ""}
+    ${about.length ? `<div class="phadith-section">
+      <div class="phadith-hd">MENTIONED IN HADITH</div>
+      ${about.map(card).join("")}
+    </div>` : ""}
+    ${!narrated.length && !about.length ? '<p class="empty-note">No hadith from this collection linked yet.</p>' : ""}
+  </div>`;
+}
+
+function renderPeopleTabContent(tab, person) {
+  if (tab === "biography")     return renderPeopleBioTab(person);
+  if (tab === "relationships") return renderPeopleRelTab(person);
+  if (tab === "hadith")        return renderPeopleHadithTab(person);
+  return '<p class="empty-note" style="padding:16px 0">Coming soon.</p>';
+}
+
+function renderPeopleModal(person, activeTab = "biography") {
+  const initial = (person.name || "?").replace(/[^A-Za-z]/g, "")[0] || "?";
+  const color   = peopleAvatarColor(person.id);
+  const tagHtml = (person.tags || []).map(t =>
+    `<span class="ptag">${esc(t.replace(/-/g," ").toUpperCase())}</span>`
+  ).join("") +
+    (person.death ? `<span class="ptag">${esc("D. " + person.death.split("·")[0].trim())}</span>` : "") +
+    (person.tribe ? `<span class="ptag">${esc(person.tribe.split("(")[0].trim())}</span>` : "");
+  const TABS = [
+    { id: "biography",     label: "Biography" },
+    { id: "relationships", label: "Relationships" },
+    { id: "network",       label: "Network" },
+    { id: "hadith",        label: "Hadith" },
+    { id: "in-quran",      label: "In Quran" },
+  ];
+  const tabBar = TABS.map(t =>
+    `<button class="ptab${activeTab === t.id ? " active" : ""}" data-ptab="${t.id}">${t.label}</button>`
+  ).join("");
+  return `<div class="people-modal" role="dialog" aria-modal="true" data-person-id="${person.id}">
+    <button class="people-close" aria-label="Close">&times;</button>
+    <div class="people-header">
+      <div class="people-avatar" style="background:${color}">${esc(initial)}</div>
+      <div class="people-htext">
+        <div class="people-name">${esc(person.name)}</div>
+        ${person.kunya ? `<div class="people-kunya">${esc(person.kunya)}</div>` : ""}
+        <div class="people-tags">${tagHtml}</div>
+      </div>
+    </div>
+    <div class="people-tabs">${tabBar}</div>
+    <div class="people-body">${renderPeopleTabContent(activeTab, person)}</div>
+  </div>`;
+}
+
+function openPeopleModal(personId) {
+  const existing = document.getElementById("people-modal");
+  if (existing) existing.remove();
+  const person = cache.people?.[personId];
+  if (!person) return;
+  const overlay = document.createElement("div");
+  overlay.id = "people-modal";
+  overlay.className = "people-overlay";
+  overlay.innerHTML = renderPeopleModal(person);
+  document.body.appendChild(overlay);
+  bindPeopleCardEvents(overlay, person);
+  requestAnimationFrame(() => overlay.classList.add("open"));
+}
+
+function closePeopleModal() {
+  const m = document.getElementById("people-modal");
+  if (!m) return;
+  m.classList.remove("open");
+  setTimeout(() => m.remove(), 200);
+}
+
+function bindPeopleCardEvents(overlay, person) {
+  overlay.addEventListener("click", e => { if (e.target === overlay) closePeopleModal(); });
+  overlay.querySelector(".people-close")?.addEventListener("click", closePeopleModal);
+  const modal = overlay.querySelector(".people-modal");
+  const onKey = e => {
+    if (e.key === "Escape") { closePeopleModal(); document.removeEventListener("keydown", onKey); }
+  };
+  document.addEventListener("keydown", onKey);
+  modal.querySelectorAll(".ptab").forEach(btn => {
+    btn.addEventListener("click", e => {
+      e.stopPropagation();
+      const tab = btn.dataset.ptab;
+      modal.querySelectorAll(".ptab").forEach(b => b.classList.toggle("active", b === btn));
+      const body = modal.querySelector(".people-body");
+      if (body) { body.innerHTML = renderPeopleTabContent(tab, person); bindPeopleLinks(body); }
+    });
+  });
+  const body = modal.querySelector(".people-body");
+  if (body) bindPeopleLinks(body);
+}
+
+function bindPeopleLinks(container) {
+  container.querySelectorAll("[data-person]").forEach(el => {
+    el.addEventListener("click", async e => {
+      e.stopPropagation();
+      const id = el.dataset.person;
+      if (cache.people === null) await loadPeople();
+      openPeopleModal(id);
     });
   });
 }

@@ -1,0 +1,12 @@
+{
+  "abu-said-ibn-al-mualla":   { "narrated": ["h001"], "about": [] },
+  "abu-hurairah":             { "narrated": ["h002", "h004", "h005", "h011", "h020"], "about": [] },
+  "abu-said-al-khudri":       { "narrated": ["h003"], "about": [] },
+  "ubayy-ibn-kab":            { "narrated": ["h010"], "about": [] },
+  "abu-umamah-al-bahili":     { "narrated": ["h012"], "about": [] },
+  "anas-ibn-malik":           { "narrated": ["h021"], "about": [] },
+  "aisha-bint-abi-bakr":      { "narrated": ["h022"], "about": [] },
+  "umar-ibn-al-khattab":      { "narrated": ["h030"], "about": [] },
+  "abu-dharr-al-ghifari":     { "narrated": ["h031"], "about": [] },
+  "ibn-abbas":                { "narrated": ["h040"], "about": [] }
+}

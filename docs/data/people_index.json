@@ -1,0 +1,251 @@
+{
+  "prophet-muhammad": {
+    "id": "prophet-muhammad",
+    "name": "Muhammad ﷺ",
+    "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib al-Hashimi al-Qurashi",
+    "kunya": "Abu al-Qasim",
+    "title": "Seal of the Prophets",
+    "death": "11 AH · 632 CE",
+    "tribe": "Quraysh (Banu Hashim)",
+    "tags": ["prophet", "seal-of-prophets"],
+    "bio": "Muhammad ﷺ was born in Makkah around 570 CE into the noble Banu Hashim clan of Quraysh. Orphaned early, he was raised by his grandfather Abd al-Muttalib and then his uncle Abu Talib. Known before prophethood as al-Amin (the Trustworthy), he received his first revelation in Cave Hira at age 40, beginning 23 years of prophethood. He migrated to Madinah in 622 CE, established the first Muslim community, and completed the revelation of the Quran before his passing on 12 Rabi al-Awwal 11 AH. He left behind the Quran and his Sunnah as a complete way of life for all of humanity.",
+    "relationships": [
+      { "type": "spouse",     "id": "khadijah-bint-khuwaylid", "label": "First wife — first to believe" },
+      { "type": "spouse",     "id": "aisha-bint-abi-bakr",     "label": "Wife — Mother of the Believers" },
+      { "type": "child",      "id": "fatimah-bint-muhammad",   "label": "Daughter — al-Zahra" },
+      { "type": "companion",  "id": "abu-bakr-al-siddiq",      "label": "Closest companion, father-in-law" },
+      { "type": "companion",  "id": "umar-ibn-al-khattab",     "label": "Companion, father-in-law (Hafsah)" },
+      { "type": "companion",  "id": "uthman-ibn-affan",        "label": "Companion, son-in-law (Ruqayyah, Umm Kulthum)" },
+      { "type": "companion",  "id": "ali-ibn-abi-talib",       "label": "Cousin and son-in-law (Fatimah)" }
+    ]
+  },
+  "abu-bakr-al-siddiq": {
+    "id": "abu-bakr-al-siddiq",
+    "name": "Abu Bakr al-Siddiq (RA)",
+    "full_name": "Abdullah ibn Uthman ibn Amir al-Taymi al-Qurashi",
+    "kunya": "Abu Bakr",
+    "title": "al-Siddiq · 1st Caliph",
+    "death": "13 AH · 634 CE",
+    "tribe": "Quraysh (Banu Taym)",
+    "tags": ["companion", "caliph", "muhajir", "asharal-mubashareen"],
+    "bio": "Abu Bakr (RA) was the Prophet's closest companion and the first adult male to accept Islam. He financed the early Muslim community, accompanied the Prophet ﷺ on the Hijra to Madinah — sheltering with him in the Cave of Thawr — and was appointed Imam of prayer during the Prophet's final illness. After the Prophet's passing, he was elected the first Caliph (632–634 CE), unifying the Muslim community during the Wars of Riddah and initiating the compilation of the Quran into a single mushaf. He was the father of Aisha (RA), the Prophet's beloved wife.",
+    "relationships": [
+      { "type": "friend",    "id": "prophet-muhammad",     "label": "Closest companion, father-in-law" },
+      { "type": "child",     "id": "aisha-bint-abi-bakr",  "label": "Daughter" },
+      { "type": "companion", "id": "umar-ibn-al-khattab",  "label": "Companion, successor" }
+    ]
+  },
+  "umar-ibn-al-khattab": {
+    "id": "umar-ibn-al-khattab",
+    "name": "Umar ibn al-Khattab (RA)",
+    "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+    "kunya": "Abu Hafs",
+    "title": "al-Faruq · 2nd Caliph · Amir al-Mu'minin",
+    "death": "23 AH · 644 CE",
+    "tribe": "Quraysh (Banu Adi)",
+    "tags": ["companion", "caliph", "muhajir", "asharal-mubashareen"],
+    "bio": "Umar ibn al-Khattab (RA) was one of the most powerful and feared men of Quraysh before Islam. His acceptance of Islam in Year 6 of the mission was a turning point — the Muslims were able to pray at the Kaaba openly for the first time. The Prophet ﷺ gave him the title al-Faruq (The Distinguisher between truth and falsehood). As the second Caliph (634–644 CE), he oversaw the expansion of the Islamic state into Persia, Syria, Egypt, and Iraq, and established foundational Islamic governance, including the Hijri calendar. He was martyred by Abu Lu'luah al-Majusi while leading Fajr prayer.",
+    "relationships": [
+      { "type": "companion", "id": "prophet-muhammad",    "label": "Companion, son-in-law (Hafsah's father)" },
+      { "type": "companion", "id": "abu-bakr-al-siddiq",  "label": "Companion, predecessor as Caliph" },
+      { "type": "companion", "id": "ali-ibn-abi-talib",   "label": "Companion, fellow Caliph candidate" }
+    ]
+  },
+  "uthman-ibn-affan": {
+    "id": "uthman-ibn-affan",
+    "name": "Uthman ibn Affan (RA)",
+    "full_name": "Uthman ibn Affan ibn Abi al-As al-Umawi al-Qurashi",
+    "kunya": "Abu Amr · Abu Abdullah",
+    "title": "Dhul-Nurayn · 3rd Caliph",
+    "death": "35 AH · 656 CE",
+    "tribe": "Quraysh (Banu Umayyah)",
+    "tags": ["companion", "caliph", "muhajir", "asharal-mubashareen"],
+    "bio": "Uthman ibn Affan (RA) was one of the wealthiest companions and among the earliest converts to Islam. He was called Dhul-Nurayn (Possessor of Two Lights) because he married two daughters of the Prophet ﷺ — Ruqayyah, and after her death, Umm Kulthum. He financed the army of hardship (Jaysh al-Usra) at the Battle of Tabuk and purchased the Well of Rumah for the Muslim community. As the third Caliph (644–656 CE), he commissioned the standardization of the Quran into a single authoritative script, copies of which were distributed to all major provinces — an act of incalculable importance to Islamic civilization. He was martyred during a political crisis at age 82.",
+    "relationships": [
+      { "type": "companion",    "id": "prophet-muhammad",   "label": "Companion, son-in-law (Ruqayyah, then Umm Kulthum)" },
+      { "type": "companion",    "id": "abu-bakr-al-siddiq", "label": "Companion" },
+      { "type": "companion",    "id": "umar-ibn-al-khattab","label": "Companion, successor" }
+    ]
+  },
+  "ali-ibn-abi-talib": {
+    "id": "ali-ibn-abi-talib",
+    "name": "Ali ibn Abi Talib (RA)",
+    "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib al-Hashimi al-Qurashi",
+    "kunya": "Abu al-Hasan · Abu Turab",
+    "title": "Amir al-Mu'minin · 4th Caliph",
+    "death": "40 AH · 661 CE",
+    "tribe": "Quraysh (Banu Hashim)",
+    "tags": ["companion", "caliph", "ahlul-bayt", "asharal-mubashareen"],
+    "bio": "Ali ibn Abi Talib (RA) was the Prophet's cousin and son-in-law, and among the first to accept Islam — some reports say the first male, others say the first male child. He was raised in the Prophet's household from childhood. The Prophet called him his brother, his wazir, and the gate to the city of knowledge. He slept in the Prophet's bed on the night of Hijra to deceive the assassins, and carried the Prophet's amanah back to their rightful owners. He married Fatimah al-Zahra, the Prophet's beloved daughter, and together they had Hassan, Hussain, and Zaynab. He became the fourth Caliph (656–661 CE) and was martyred while in prayer in the mosque of Kufa.",
+    "relationships": [
+      { "type": "cousin",   "id": "prophet-muhammad",      "label": "Cousin and son-in-law" },
+      { "type": "spouse",   "id": "fatimah-bint-muhammad", "label": "Wife — daughter of the Prophet ﷺ" },
+      { "type": "companion","id": "abu-bakr-al-siddiq",    "label": "Companion" },
+      { "type": "companion","id": "umar-ibn-al-khattab",   "label": "Companion" }
+    ]
+  },
+  "khadijah-bint-khuwaylid": {
+    "id": "khadijah-bint-khuwaylid",
+    "name": "Khadijah bint Khuwaylid (RA)",
+    "full_name": "Khadijah bint Khuwaylid ibn Asad al-Asadiyya al-Qurashiyya",
+    "kunya": "Umm al-Mu'minin",
+    "title": "Mother of the Believers · Sayyidah",
+    "death": "3 BH · 619 CE",
+    "tribe": "Quraysh (Banu Asad)",
+    "tags": ["companion", "wife-of-prophet", "first-believer"],
+    "bio": "Khadijah (RA) was the Prophet's first and most beloved wife, and the first human being to accept Islam. A successful merchant and woman of noble character, she proposed marriage to Muhammad ﷺ when he was 25 and she was 40. She was the Prophet's greatest source of comfort and support during the first overwhelming years of revelation. It was she who comforted him after the first revelation: 'By Allah, Allah will never disgrace you — you maintain family ties, speak the truth, bear others' burdens, earn for the destitute, honor your guests, and uphold justice.' Her wealth supported the early Muslim community. The Prophet ﷺ held her memory in unmatched esteem until the end of his life. She died in 619 CE — the same year as Abu Talib — in what became known as the Year of Grief.",
+    "relationships": [
+      { "type": "spouse", "id": "prophet-muhammad",     "label": "Husband — the Messenger of Allah ﷺ" },
+      { "type": "child",  "id": "fatimah-bint-muhammad","label": "Youngest daughter" }
+    ]
+  },
+  "aisha-bint-abi-bakr": {
+    "id": "aisha-bint-abi-bakr",
+    "name": "Aisha (RA)",
+    "full_name": "Aisha bint Abi Bakr al-Siddiq al-Taymi al-Qurashiyya",
+    "kunya": "Umm al-Mu'minin · Umm Abdillah",
+    "title": "Mother of the Believers",
+    "death": "58 AH · 678 CE",
+    "tribe": "Quraysh (Banu Taym)",
+    "tags": ["companion", "wife-of-prophet", "muhajira", "scholar"],
+    "bio": "Aisha (RA) was the daughter of Abu Bakr al-Siddiq and the Prophet's most beloved wife after Khadijah. She narrated 2,210 hadith — more than most male companions — and was a leading religious authority for the early Muslim community. The Companions would send questions to her after the Prophet's passing, and she would correct their mistakes in fiqh with knowledge and confidence. She was the only wife with whom the Prophet received revelation. She taught the Quran and hadith for 44 years after the Prophet's death. The Prophet ﷺ praised her saying: 'Take half your religion from this red-haired one.'",
+    "relationships": [
+      { "type": "spouse",  "id": "prophet-muhammad",  "label": "Husband — the Messenger of Allah ﷺ" },
+      { "type": "parent",  "id": "abu-bakr-al-siddiq","label": "Father — 1st Caliph" }
+    ]
+  },
+  "fatimah-bint-muhammad": {
+    "id": "fatimah-bint-muhammad",
+    "name": "Fatimah al-Zahra (RA)",
+    "full_name": "Fatimah al-Zahra bint Muhammad ibn Abdullah al-Hashimiyya",
+    "kunya": "Umm al-Hassan · Umm Abiha (Mother of her Father)",
+    "title": "Sayyidah al-Nisa · al-Zahra",
+    "death": "11 AH · 632 CE",
+    "tribe": "Quraysh (Banu Hashim)",
+    "tags": ["companion", "ahlul-bayt"],
+    "bio": "Fatimah (RA) was the Prophet's youngest daughter and the only one of his children to survive him — by a mere six months. She was described by the Prophet ﷺ as the leader of the women of Paradise. Her character was so closely modeled on her father's that Aisha said: 'I have never seen anyone who resembled the Messenger of Allah more in manner of speech than Fatimah.' She married Ali ibn Abi Talib and together they had Hassan, Hussain, Zaynab, and Umm Kulthum — through whom all the Prophet's descendants trace their lineage. She passed away 75 days (other narrations say 6 months) after her father, and was buried in secret at her own request.",
+    "relationships": [
+      { "type": "parent", "id": "prophet-muhammad",      "label": "Father — the Messenger of Allah ﷺ" },
+      { "type": "parent", "id": "khadijah-bint-khuwaylid","label": "Mother" },
+      { "type": "spouse", "id": "ali-ibn-abi-talib",     "label": "Husband — 4th Caliph" }
+    ]
+  },
+  "abu-hurairah": {
+    "id": "abu-hurairah",
+    "name": "Abu Hurairah (RA)",
+    "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
+    "kunya": "Abu Hurairah (Father of the Kitten)",
+    "title": "Most Prolific Narrator of Hadith",
+    "death": "57–59 AH · 676–679 CE",
+    "tribe": "Banu Daws (Yemen)",
+    "tags": ["companion", "muhajir", "scholar"],
+    "bio": "Abu Hurairah (RA) accepted Islam in 7 AH during the expedition to Khaybar, relatively late among the Companions. However, he dedicated himself completely to the Prophet ﷺ — staying with him in the masjid (Ahl al-Suffah) and following him wherever he went — and accumulated more direct narrations than any other Companion. He narrated 5,374 hadith, accounting for a large portion of all Sahih Bukhari and Muslim narrations. When challenged about his prolific reporting, he said: 'You say that Abu Hurairah narrates too much from the Prophet — and by Allah, I used to stay with the Messenger hungry while you busy yourselves with business in your markets and fields.' He served as Governor of Bahrain under Umar (RA) and was a central figure in preserving the Sunnah.",
+    "relationships": [
+      { "type": "teacher",    "id": "prophet-muhammad",  "label": "Direct companion and student" },
+      { "type": "companion",  "id": "umar-ibn-al-khattab","label": "Companion, served under him as Governor" }
+    ]
+  },
+  "anas-ibn-malik": {
+    "id": "anas-ibn-malik",
+    "name": "Anas ibn Malik (RA)",
+    "full_name": "Anas ibn Malik ibn al-Nadr al-Khazraji al-Ansari",
+    "kunya": "Abu Hamzah",
+    "title": "Servant of the Prophet ﷺ · Last of the Major Companions to Die",
+    "death": "93 AH · 711–712 CE",
+    "tribe": "Banu Khazraj (Ansar)",
+    "tags": ["companion", "ansari", "scholar"],
+    "bio": "Anas ibn Malik (RA) was brought to the Prophet ﷺ by his mother Umm Sulaym at the age of 10 upon the Hijra, asking him to serve the Messenger. The Prophet agreed, and Anas served him for 10 years, saying afterward: 'He never said to me "uff!" nor did he say "Why did you do this?" or "Why didn't you do that?"' He was the last of the major Companions to die in Basra at approximately 100 years of age, making him a crucial link to the Prophet's generation. He narrated approximately 2,286 hadith and was known for his soft heart — he would often weep when reciting certain verses.",
+    "relationships": [
+      { "type": "teacher",    "id": "prophet-muhammad",  "label": "Served and learned from him for 10 years" },
+      { "type": "companion",  "id": "abu-bakr-al-siddiq","label": "Companion" },
+      { "type": "companion",  "id": "umar-ibn-al-khattab","label": "Companion" }
+    ]
+  },
+  "ibn-abbas": {
+    "id": "ibn-abbas",
+    "name": "Ibn Abbas (RA)",
+    "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Hashimi al-Qurashi",
+    "kunya": "Abu Abbas · Abu al-Fadl",
+    "title": "Hibr al-Ummah · Tarjuman al-Quran",
+    "death": "68 AH · 687–688 CE",
+    "tribe": "Quraysh (Banu Hashim)",
+    "tags": ["companion", "scholar", "ahlul-bayt"],
+    "bio": "Abdullah ibn Abbas (RA) was the Prophet's cousin — born 3 years before the Hijra — and was raised in the Prophet's household. The Prophet ﷺ made du'a for him: 'O Allah, grant him deep understanding of the religion and teach him the interpretation of the Quran.' He became the foremost Quranic exegete (mufassir) of the Sahabah, earning the titles Hibr al-Ummah (Scholar of the Ummah) and Tarjuman al-Quran (The Interpreter of the Quran). His tafsir circle in Makkah was attended by scholars from all over the Muslim world. He narrated approximately 1,660 hadith. He lost his eyesight in later life and died in Ta'if.",
+    "relationships": [
+      { "type": "cousin",   "id": "prophet-muhammad",  "label": "Cousin of the Messenger ﷺ" },
+      { "type": "companion","id": "ali-ibn-abi-talib",  "label": "Cousin (same Hashimi lineage)" },
+      { "type": "companion","id": "umar-ibn-al-khattab","label": "Companion; Umar included him in senior consultation" }
+    ]
+  },
+  "ubayy-ibn-kab": {
+    "id": "ubayy-ibn-kab",
+    "name": "Ubayy ibn Ka'b (RA)",
+    "full_name": "Ubayy ibn Ka'b ibn Qays al-Khazraji al-Ansari",
+    "kunya": "Abu al-Mundhir · Abu al-Tufayl",
+    "title": "Sayyid al-Qurra (Master of the Quranic Reciters)",
+    "death": "19–22 AH · 640–643 CE",
+    "tribe": "Banu Khazraj (Ansar) — Banu al-Najjar",
+    "tags": ["companion", "ansari", "scholar"],
+    "bio": "Ubayy ibn Ka'b (RA) was one of the foremost Quranic scholars among the Ansar. He was among the official scribes of the Quran, recording revelations directly from the Prophet ﷺ. The Prophet ﷺ told him: 'Allah has commanded me to recite the Quran to you' — an honor that moved him to tears. He is mentioned by name in the famous hadith where the Prophet teaches Al-Fatiha, calling him 'O Abu Mundhir!' The Prophet described him as 'the master of the Qurran reciters.' His recitation style became one of the seven canonical Quranic readings (qira'at). Umar ibn al-Khattab appointed him to lead the Tarawih prayers during Ramadan.",
+    "relationships": [
+      { "type": "teacher",    "id": "prophet-muhammad",  "label": "Recited directly to him by the Prophet ﷺ" },
+      { "type": "companion",  "id": "umar-ibn-al-khattab","label": "Appointed to lead Tarawih by him" }
+    ]
+  },
+  "abu-said-al-khudri": {
+    "id": "abu-said-al-khudri",
+    "name": "Abu Sa'id al-Khudri (RA)",
+    "full_name": "Sa'd ibn Malik ibn Sinan al-Khudri al-Ansari",
+    "kunya": "Abu Sa'id",
+    "title": "Major Companion and Narrator",
+    "death": "74 AH · 693–694 CE",
+    "tribe": "Banu Khazraj — Banu Khudra (Ansar)",
+    "tags": ["companion", "ansari"],
+    "bio": "Abu Sa'id al-Khudri (RA) was an Ansari companion who participated in twelve battles with the Prophet ﷺ. His father Malik ibn Sinan was martyred at the Battle of Uhud when Abu Sa'id was a young man. He became one of the most reliable narrators of hadith, recording approximately 1,170 narrations. He settled in Madinah and was known for his outspoken attachment to the Quran and Sunnah. The famous narration about Al-Fatiha as a ruqyah (healing recitation) — where companions recited it over a snake-bitten tribal chief — was narrated by him.",
+    "relationships": [
+      { "type": "teacher",    "id": "prophet-muhammad",  "label": "Direct companion and student" }
+    ]
+  },
+  "abu-dharr-al-ghifari": {
+    "id": "abu-dharr-al-ghifari",
+    "name": "Abu Dharr al-Ghifari (RA)",
+    "full_name": "Jundub ibn Junadah al-Ghifari",
+    "kunya": "Abu Dharr",
+    "title": "Among the First to Accept Islam · Ascetic Companion",
+    "death": "32 AH · 652–653 CE",
+    "tribe": "Banu Ghifar (Hijaz)",
+    "tags": ["companion", "early-convert"],
+    "bio": "Abu Dharr (RA) is described by many scholars as either the 4th or 5th person to accept Islam, having heard about the Prophet ﷺ from his brother Unays and traveled from his distant tribe to investigate. He came to Makkah, found the Prophet ﷺ alone after the Companions had scattered under persecution, and immediately accepted Islam. He is known for his fierce asceticism and his uncompromising insistence on social justice — the Prophet ﷺ said: 'The earth has not borne a more truthful tongue than Abu Dharr.' He lived far from the main centers of Muslim life in his final years, dying in the remote area of al-Rabadha. The Prophet said of him: 'He walks alone, dies alone, and will be resurrected alone.'",
+    "relationships": [
+      { "type": "teacher",    "id": "prophet-muhammad",  "label": "Direct companion — among the very first" }
+    ]
+  },
+  "abu-umamah-al-bahili": {
+    "id": "abu-umamah-al-bahili",
+    "name": "Abu Umamah al-Bahili (RA)",
+    "full_name": "Sudayy ibn Ajlan ibn Amr al-Bahili",
+    "kunya": "Abu Umamah",
+    "title": "Last Companion to Die in Syria",
+    "death": "86–88 AH · 705–707 CE",
+    "tribe": "Banu Bahila (Yemen)",
+    "tags": ["companion", "scholar"],
+    "bio": "Abu Umamah al-Bahili (RA) was a companion of the Prophet ﷺ who settled in Syria (al-Sham) and became one of the most prolific Syrian narrators of hadith. He lived to a very old age and is considered one of the last companions to die in that region. He was known for his extensive teaching and narration of hadith, particularly in Hims (modern Homs, Syria). His narration about reciting Ayat al-Kursi after every obligatory prayer guaranteeing Paradise is among the most well-known and widely acted-upon hadith in the Muslim world.",
+    "relationships": [
+      { "type": "teacher",    "id": "prophet-muhammad",  "label": "Direct companion and student" }
+    ]
+  },
+  "abu-said-ibn-al-mualla": {
+    "id": "abu-said-ibn-al-mualla",
+    "name": "Abu Sa'id ibn al-Mu'alla (RA)",
+    "full_name": "Rafi' ibn Aws ibn al-Mu'alla al-Ansari",
+    "kunya": "Abu Sa'id",
+    "title": "Ansari Companion",
+    "death": "Unknown",
+    "tribe": "Ansar (Madinah)",
+    "tags": ["companion", "ansari"],
+    "bio": "Abu Sa'id ibn al-Mu'alla (RA) was an Ansari companion of the Prophet ﷺ. He is best known as the companion to whom the Prophet ﷺ said: 'Shall I not teach you the most superior surah in the Quran before you leave the mosque?' — and then recited Al-Fatiha, calling it 'the Seven Oft-Repeated Verses and the Magnificent Quran.' This hadith is recorded in Sahih al-Bukhari (4703) and is a primary source for the greatness of Surah Al-Fatiha. Little else is recorded about him in the major biographical works of the Companions, though his connection to this fundamental narration gives him an important place in the Quran's legacy.",
+    "relationships": [
+      { "type": "teacher",    "id": "prophet-muhammad",  "label": "Direct companion and student" }
+    ]
+  }
+}
