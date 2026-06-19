@@ -1402,16 +1402,6 @@ function bindSurahEvents() {
   document.getElementById("font-larger")?.addEventListener("click", () => setFontScale(prefs.fontScale + 0.08));
   document.getElementById("text-smaller")?.addEventListener("click", () => setTransScale(prefs.transScale - 0.08));
   document.getElementById("text-larger")?.addEventListener("click", () => setTransScale(prefs.transScale + 0.08));
-
-  document.getElementById("surah-jump")?.addEventListener("change", (e) => {
-    const sid = +e.target.value;
-    if (sid && sid !== currentSurah.id) location.hash = `#/${sid}`;
-  });
-
-  document.getElementById("ayah-jump")?.addEventListener("change", (e) => {
-    const ayah = +e.target.value;
-    if (ayah) scrollToAyah(currentSurah.id, ayah);
-  });
 }
 
 function applyScales() {
@@ -2347,8 +2337,6 @@ function applyPrefsToToolbarIfPresent() {
   if (wordmode) wordmode.classList.toggle("active", prefs.wordMode === "ai");
   const layoutSel = document.getElementById("layout-select");
   if (layoutSel) layoutSel.value = prefs.layoutMode;
-  const layout = document.getElementById("toggle-layout");
-  if (layout) layout.classList.toggle("active", prefs.layoutMode === "book");
   const reader = document.querySelector(".surah-reader");
   if (reader) {
     reader.classList.remove("mode-arabic", "mode-translation", "mode-ai", "layout-verse", "layout-book");
