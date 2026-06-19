@@ -60,6 +60,15 @@
       "description": "Unable to stop the torture of his followers, the Prophet directed a group of Muslims — eventually over 80 — to migrate to Abyssinia (Ethiopia), ruled by the just Christian Negus (Ashama ibn Abjar). The Quraysh sent envoys to demand their extradition, but after the Muslims recited Surah Maryam before the king, he wept and declared he would not hand them over. This was Islam's first international refuge."
     },
     {
+      "id": "abyssinia-second",
+      "label": "Second Migration to Abyssinia",
+      "year_ph": 6,
+      "year_label": "Year 6 · 616 CE",
+      "type": "event",
+      "short": "A larger wave of 83 migrants — including Ja'far ibn Abi Talib — cross to Abyssinia.",
+      "description": "After the first small group found safety in Abyssinia, a second, larger wave of migrants followed — eventually numbering around 83 men and women. Among them was Ja'far ibn Abi Talib (RA), the Prophet's cousin, who famously recited Surah Maryam before the Negus. The Quraysh sent high-level envoys — including Amr ibn al-As before his conversion — with gifts to demand their extradition, but the Negus refused after hearing the Quran: 'The difference between what you say and what Jesus said is no greater than this' (pointing to a line on the ground). Some remained in Abyssinia for over a decade, only returning after the Conquest of Khaybar."
+    },
+    {
       "id": "boycott",
       "label": "Boycott of Banu Hashim",
       "year_ph": 7,
@@ -85,6 +94,15 @@
       "type": "ruling",
       "short": "Night Journey to Jerusalem then Ascension through the heavens; the 5 daily prayers ordained.",
       "description": "In a single night, the Prophet was transported from Mecca to Al-Aqsa Mosque in Jerusalem (Isra), then ascended through the seven heavens (Mi'raj) to a station beyond which no creation has reached. There, the command to pray five times daily was given directly — the only pillar of Islam ordained in the heavens rather than through Jibril. Prophet Musa (AS) repeatedly urged the Prophet to ask for reductions from fifty prayers, until they reached five, while retaining the reward of fifty."
+    },
+    {
+      "id": "musab-medina",
+      "label": "Mus'ab ibn 'Umayr Sent to Medina",
+      "year_ph": 12,
+      "year_label": "Year 12 · 621 CE",
+      "type": "event",
+      "short": "The Prophet's first missionary envoy teaches the Quran in Medina — Islam spreads house to house.",
+      "description": "After the First Pledge of Aqabah, the Prophet sent Mus'ab ibn 'Umayr (RA) — one of the most eloquent and well-dressed young men of Mecca, who had given up all luxury for Islam — as the first Islamic teacher in Medina. Within a year, he had brought Islam to most of the Aws and Khazraj tribes. The conversion of Sa'd ibn Mu'adh (RA), chief of the Aws, alone brought entire households into Islam. By the time of the Second Pledge, Mus'ab returned with 73 men and 2 women ready to pledge protection to the Prophet. He was martyred at Uhud at around 30 years old, and the Prophet wept seeing him buried in a cloak that was too short to cover him fully."
     },
     {
       "id": "pledges-aqabah",
@@ -150,6 +168,15 @@
       "description": "A Qurayshi army of 3,000 returned to avenge Badr, and initial Muslim success turned to near-disaster when archers abandoned their hill post to collect spoils, allowing cavalry to flank the Muslim rear. Around 70 Companions were martyred, including Hamza ibn Abd al-Muttalib (RA), the Prophet's uncle. The Prophet himself was wounded. Much of Surah Ali Imran (3:120-200) was revealed in response to this painful trial of faith."
     },
     {
+      "id": "banu-qaynuqa",
+      "label": "Expulsion of Banu Qaynuqa",
+      "year_ph": 15,
+      "year_label": "2 AH · 624 CE",
+      "type": "event",
+      "short": "The first Medinan Jewish tribe expelled after violating their covenant — in the weeks after Badr.",
+      "description": "Weeks after Badr, the Banu Qaynuqa — goldsmiths and armourers in Medina's market — insulted a Muslim woman, triggering a conflict in which a Muslim was killed. As a tribe that had signed the Constitution of Medina, they were given the choice to accept Islam or leave. When they refused both and fortified themselves in their quarter, the Prophet besieged them for fifteen days until they surrendered. 'Abdullah ibn Ubayy ibn Salul, the hypocrite leader, interceded to spare their lives, and they were exiled to Syria. Surah Al-Hashr alludes to the broader pattern of these tribal expulsions."
+    },
+    {
       "id": "banu-nadir",
       "label": "Expulsion of Banu Nadir",
       "year_ph": 17,
@@ -157,6 +184,15 @@
       "type": "event",
       "short": "A Jewish tribe found plotting against the Prophet is given ten days to leave Medina.",
       "description": "The Banu Nadir, who had signed the Constitution of Medina, were found conspiring against the Prophet's life. Given ten days to depart, they left carrying their possessions, deliberately destroying their own homes so the Muslims could not inhabit them. They resettled in Khaybar and later Syria. Surah Al-Hashr (59) was revealed about this event — it ends with some of the most beautiful divine names in the entire Quran."
+    },
+    {
+      "id": "banu-mustaliq",
+      "label": "Battle of Banu Mustaliq & the Slander",
+      "year_ph": 17,
+      "year_label": "4–5 AH · 626–627 CE",
+      "type": "battle",
+      "short": "A swift victory — followed by the hardest personal trial: the month-long slander of Aisha (RA).",
+      "description": "The Banu Mustaliq were defeated swiftly in a pre-emptive campaign. But on the return journey, a false rumour spread that Aisha (RA) — who had accidentally been left behind when her litter was moved without anyone realising she wasn't in it — had been seen returning to camp with a young companion, Safwan ibn al-Mu'attal. For a full month, the Prophet received no revelation, and Aisha fell gravely ill while the slander circulated. She wept in her parents' home. Finally Surah An-Nur 24:11-20 descended, declaring her innocence directly from Allah. The three men who had spread the slander received eighty lashes. It is one of the most harrowing personal trials described in the Quran."
     },
     {
       "id": "trench",
@@ -186,6 +222,15 @@
       "description": "The oasis-fortress of Khaybar, north of Medina, had become a base for tribes hostile to the Muslim community. Before the final campaign, the Prophet announced he would give the flag to 'a man who loves Allah and His Messenger, and whom Allah and His Messenger love.' The next morning he called for Ali ibn Abi Talib (RA), healed his eye pain with his saliva, and sent him forward. Khaybar's inhabitants were allowed to remain, farming their land on a revenue-sharing basis."
     },
     {
+      "id": "letters-to-kings",
+      "label": "Letters to the Kings of the World",
+      "year_ph": 19,
+      "year_label": "6–7 AH · 628 CE",
+      "type": "event",
+      "short": "After Hudaybiyyah, the Prophet writes to the Byzantine Emperor, Persian King, Egyptian ruler, and others.",
+      "description": "With the peace of Hudaybiyyah securing seven years of no warfare, the Prophet immediately turned to the world beyond Arabia. He sent letters to the Byzantine Emperor Heraclius, the Persian Emperor Khosrow II, the Muqawqis of Egypt, the Negus of Abyssinia, and other rulers, inviting them to Islam. Heraclius read the letter carefully and privately inquired about the Prophet from Abu Sufyan (then a non-Muslim), receiving answers that, the hadith says, convinced him of the Prophet's truth — though he feared losing his kingship. Khosrow tore the letter in rage; within years his empire had fragmented. The Negus embraced Islam. The Muqawqis sent gifts including two slave women, one of whom, Maria al-Qibtiyyah, later became the mother of the Prophet's son Ibrahim."
+    },
+    {
       "id": "conquest-mecca",
       "label": "Conquest of Mecca",
       "year_ph": 21,
@@ -211,6 +256,15 @@
       "type": "revelation",
       "short": "The Prophet leads ~100,000 in Hajj; Al-Ma'idah 5:3 revealed: 'Today I have completed your religion.'",
       "description": "The Prophet performed Hajj for the first and only time as leader of the Muslim community, accompanied by approximately 100,000 pilgrims. In his farewell sermon on the plains of Arafat, he declared the equality of all human beings and the sanctity of life, property, and honour. That same day, Al-Ma'idah 5:3 descended: 'Today I have completed your religion for you, perfected My favour upon you, and chosen Islam as your way of life.' He passed away 81 days later."
+    },
+    {
+      "id": "passing-of-the-prophet",
+      "label": "The Prophet Passes Away",
+      "year_ph": 23,
+      "year_label": "11 AH · 8 June 632 CE",
+      "type": "revelation",
+      "short": "The Prophet passes away in Aisha's arms, 81 days after his farewell sermon — Abu Bakr becomes caliph.",
+      "description": "After returning from the Farewell Pilgrimage, the Prophet fell ill with a severe fever. He spent his final days moving between his wives' rooms, eventually settling in Aisha's apartment where he passed away on Monday, 12 Rabi' al-Awwal, 11 AH — resting his head in her lap. His last words included: 'To the highest companion' (al-Rafiq al-A'la). Umar ibn al-Khattab (RA) initially refused to believe he had died; Abu Bakr (RA) calmed the community with the words: 'Whoever worships Muhammad, know that Muhammad has died. Whoever worships Allah, know that Allah is Ever-Living and never dies' — then recited Ali Imran 3:144. Abu Bakr was chosen as the first caliph through the shura of senior Companions. The Prophet's burial in Aisha's chamber — now inside the Prophet's Mosque in Medina — marks the end of the age of revelation and the beginning of the age of the caliphate."
     }
   ],
   "rulings": [

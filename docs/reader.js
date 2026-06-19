@@ -1197,8 +1197,8 @@ function renderTimelinePanel() {
 
   const pastEvents = tl.events.filter(e => e.year_ph <= yearPh);
   const ctxEvent = pastEvents.length ? pastEvents[pastEvents.length - 1] : null;
-  const before = pastEvents.slice(-4).reverse();
-  const after = tl.events.filter(e => e.year_ph > yearPh).slice(0, 3);
+  const before = pastEvents.slice(-6).reverse();
+  const after = tl.events.filter(e => e.year_ph > yearPh).slice(0, 5);
 
   const rulingBadges = tl.rulings.map(r => {
     const on = r.year_ph <= yearPh;
@@ -1207,22 +1207,23 @@ function renderTimelinePanel() {
 
   const typeClass = { battle: "tl-ev-battle", ruling: "tl-ev-ruling", revelation: "tl-ev-revelation", event: "tl-ev-event" };
   const beforeHtml = before.length
-    ? before.map(e => `<div class="tl-ev ${typeClass[e.type] || "tl-ev-event"}"><span class="tl-ev-name">${esc(e.label)}</span><span class="tl-ev-yr">${esc(e.year_label)}</span></div>`).join("")
+    ? before.map(e => `<div class="tl-ev ${typeClass[e.type] || "tl-ev-event"}" data-evid="${ea(e.id)}"><span class="tl-ev-name">${esc(e.label)}</span><span class="tl-ev-yr">${esc(e.year_label)}</span><span class="tl-ev-arrow">›</span></div>`).join("")
     : `<p class="tl-empty">Near the very beginning.</p>`;
 
   const afterHtml = after.length
-    ? after.map(e => `<div class="tl-ev tl-ev-coming"><span class="tl-ev-name">${esc(e.label)}</span><span class="tl-ev-yr">${esc(e.year_label)}</span></div>`).join("")
+    ? after.map(e => `<div class="tl-ev tl-ev-coming" data-evid="${ea(e.id)}"><span class="tl-ev-name">${esc(e.label)}</span><span class="tl-ev-yr">${esc(e.year_label)}</span><span class="tl-ev-arrow">›</span></div>`).join("")
     : `<p class="tl-empty">Near the end of revelation.</p>`;
 
   return `<div class="tl-panel">
     <div class="tl-hdr"><span class="tl-period-tag">${period}</span><span class="tl-year-tag">${yearLabel}</span></div>
     <div class="tl-svg-wrap"><div class="tl-tip" id="tl-tt"></div>${svg}</div>
-    ${ctxEvent ? `<div class="tl-ctx"><div class="tl-ctx-lbl">When this was being revealed</div><p class="tl-ctx-txt">${esc(ctxEvent.description)}</p></div>` : ""}
+    ${ctxEvent ? `<div class="tl-ctx tl-ctx-click" data-evid="${ea(ctxEvent.id)}"><div class="tl-ctx-lbl">When this was being revealed <em class="tl-ctx-hint">— tap for full account</em></div><p class="tl-ctx-txt">${esc(ctxEvent.short)}</p></div>` : ""}
     <div class="tl-rulings-sec"><div class="tl-sec-hd">Rulings in effect at this point</div><div class="tl-rulings-row">${rulingBadges}</div></div>
     <div class="tl-evts">
       <div class="tl-col"><div class="tl-sec-hd tl-sec-bef">Already happened</div>${beforeHtml}</div>
       <div class="tl-col"><div class="tl-sec-hd tl-sec-aft">Still to come</div>${afterHtml}</div>
     </div>
+    <div class="tl-detail" id="tl-detail" style="display:none"></div>
   </div>`;
 }
 
@@ -1625,19 +1626,47 @@ function bindPeopleLinks(container) {
 
 function bindTimelineEvents(block) {
   const tip = block.querySelector("#tl-tt");
-  if (!tip) return;
-  block.querySelectorAll(".tl-evt-dot").forEach(dot => {
-    dot.addEventListener("mouseenter", () => {
-      tip.innerHTML = `<strong>${esc(dot.dataset.label)}</strong><em>${esc(dot.dataset.year)}</em>${esc(dot.dataset.short)}`;
-      tip.style.opacity = "1";
+  if (tip) {
+    block.querySelectorAll(".tl-evt-dot").forEach(dot => {
+      dot.addEventListener("mouseenter", () => {
+        tip.innerHTML = `<strong>${esc(dot.dataset.label)}</strong><em>${esc(dot.dataset.year)}</em>${esc(dot.dataset.short)}`;
+        tip.style.opacity = "1";
+      });
+      dot.addEventListener("mousemove", e => {
+        const wrap = block.querySelector(".tl-svg-wrap")?.getBoundingClientRect();
+        if (!wrap) return;
+        tip.style.left = (e.clientX - wrap.left + 10) + "px";
+        tip.style.top = Math.max(0, e.clientY - wrap.top - 64) + "px";
+      });
+      dot.addEventListener("mouseleave", () => { tip.style.opacity = "0"; });
     });
-    dot.addEventListener("mousemove", e => {
-      const wrap = block.querySelector(".tl-svg-wrap")?.getBoundingClientRect();
-      if (!wrap) return;
-      tip.style.left = (e.clientX - wrap.left + 10) + "px";
-      tip.style.top = Math.max(0, e.clientY - wrap.top - 64) + "px";
-    });
-    dot.addEventListener("mouseleave", () => { tip.style.opacity = "0"; });
+  }
+
+  const detail = block.querySelector("#tl-detail");
+  const tl = cache.timeline;
+  if (!detail || !tl) return;
+
+  const TC = { battle: "tl-dt-battle", ruling: "tl-dt-ruling", revelation: "tl-dt-revelation", event: "tl-dt-event" };
+
+  function showEventDetail(evid) {
+    const ev = tl.events.find(e => e.id === evid) || tl.rulings?.find(r => r.id === evid);
+    if (!ev) return;
+    detail.innerHTML = `
+      <div class="tl-dt-hd">
+        <span class="tl-dt-badge ${TC[ev.type] || "tl-dt-event"}">${ev.type || "ruling"}</span>
+        <span class="tl-dt-yr">${esc(ev.year_label || "")}</span>
+        <button class="tl-dt-close" aria-label="Close">✕</button>
+      </div>
+      <div class="tl-dt-title">${esc(ev.label)}</div>
+      <p class="tl-dt-short">${esc(ev.short || ev.description || "")}</p>
+      ${ev.description && ev.description !== ev.short ? `<p class="tl-dt-body">${esc(ev.description)}</p>` : ""}
+    `;
+    detail.style.display = "block";
+    detail.querySelector(".tl-dt-close").addEventListener("click", () => { detail.style.display = "none"; });
+  }
+
+  block.querySelectorAll("[data-evid]").forEach(el => {
+    el.addEventListener("click", () => showEventDetail(el.dataset.evid));
   });
 }
 
@@ -1739,7 +1768,7 @@ function bindStudyPanelEvents(block) {
       cache.asbabNuzul === null ? loadAsbabNuzul() : Promise.resolve(),
     ]).then(() => {
       const b = block.querySelector(".study-panel-body");
-      if (b) { b.innerHTML = panelContent(selectedAyah); bindContextPanelEvents(block); }
+      if (b) { b.innerHTML = panelContent(selectedAyah); bindContextPanelEvents(block); bindTimelineEvents(block); }
     });
   }
 }
