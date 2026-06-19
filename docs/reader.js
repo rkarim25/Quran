@@ -13,6 +13,7 @@ const RECORD_DEBOUNCE_MS = 4000;
 
 let canSync = false;
 let scrollLock = false;
+let lastHashUpdate = 0; // throttles history.replaceState (mobile browsers rate-limit it)
 let saveTimer = null;
 let recordTimer = null;
 let pendingRecord = null;
@@ -1285,9 +1286,16 @@ function setupScrollObserver(surahId) {
       updateProgress(surahId, ayah);
       const newHash = `#/${surahId}/${ayah}`;
       if (location.hash !== newHash) {
-        scrollLock = true;
-        history.replaceState(null, "", newHash);
-        scrollLock = false;
+        // Throttle: mobile browsers rate-limit replaceState (~100/30s) and throw
+        // once exceeded. The try/finally guarantees scrollLock is released even if
+        // it does throw — otherwise a stuck lock makes render() ignore all later
+        // navigation ("can't change sūrah / go home").
+        const now = Date.now();
+        if (now - lastHashUpdate >= 350) {
+          lastHashUpdate = now;
+          scrollLock = true;
+          try { history.replaceState(null, "", newHash); } catch (_) {} finally { scrollLock = false; }
+        }
       }
     },
     { rootMargin: "-40% 0px -45% 0px", threshold: [0, 0.25, 0.5] }
@@ -1865,9 +1873,16 @@ function bindSmartSearch(surahs) {
     pick(+btn.dataset.i);
   });
 
-  document.addEventListener("click", (e) => {
-    if (!e.target.closest(".search-wrap")) dropdown.hidden = true;
-  });
+  // Bind the outside-click closer once — re-binding every home render leaked a
+  // listener (holding a detached dropdown) on each visit.
+  if (!document.body.dataset.smartSearchDocBound) {
+    document.body.dataset.smartSearchDocBound = "1";
+    document.addEventListener("click", (e) => {
+      if (e.target.closest(".search-wrap")) return;
+      const dd = document.getElementById("search-dropdown");
+      if (dd) dd.hidden = true;
+    });
+  }
 
   input.addEventListener("focus", () => {
     if (input.value.trim()) update();
