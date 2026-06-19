@@ -24,6 +24,9 @@ let currentSurah = null;
 let expandedAyah = null;
 let booted = false; // true once the app has rendered; gates the fatal-error overlay
 
+// Surah → first juz it appears in (index 0 unused; 1-indexed).
+const SURAH_JUZ = [0,1,1,3,4,6,7,8,9,10,11,11,12,13,13,14,14,15,15,16,16,17,17,18,18,18,19,19,20,20,21,21,21,21,22,22,22,23,23,23,24,24,25,25,25,25,26,26,26,26,26,26,27,27,27,27,27,27,28,28,28,28,28,28,28,28,28,29,29,29,29,29,29,29,29,29,29,29,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30];
+
 const DEFAULT_PREFS = {
   readMode: "translation",
   showTransliteration: false,
@@ -39,6 +42,7 @@ const DEFAULT_PREFS = {
   studyShow: { tadabbur: false, aiTafsir: false, ibnKathir: false, maarif: false },
   editView: "mine",
   editsFilter: { wordEdit: true, transEdit: true, tadabbur: true },
+  homeView: "surah",
 };
 
 function loadPrefs() {
@@ -1197,32 +1201,27 @@ function renderTimelinePanel() {
 
   const pastEvents = tl.events.filter(e => e.year_ph <= yearPh);
   const ctxEvent = pastEvents.length ? pastEvents[pastEvents.length - 1] : null;
-  const before = pastEvents.slice(-6).reverse();
-  const after = tl.events.filter(e => e.year_ph > yearPh).slice(0, 5);
+  const typeClass = { battle: "tl-ev-battle", ruling: "tl-ev-ruling", revelation: "tl-ev-revelation", event: "tl-ev-event" };
+
+  const fullListHtml = tl.events.map(e => {
+    const past = e.year_ph <= yearPh;
+    const isNow = ctxEvent && e.id === ctxEvent.id;
+    const cls = `tl-ev-row ${past ? (typeClass[e.type] || "tl-ev-event") : "tl-ev-coming"}${isNow ? " tl-ev-now" : ""}`;
+    return `<div class="${cls}" data-evid="${ea(e.id)}"><div class="tl-ev-timeline-col"><div class="tl-ev-vline${past ? " past" : ""}"></div><div class="tl-ev-node${isNow ? " now" : (past ? " past" : "")}"></div></div><div class="tl-ev-text"><div class="tl-ev-name">${esc(e.label)}</div><div class="tl-ev-yr">${esc(e.year_label)}</div></div><span class="tl-ev-arrow">›</span></div>`;
+  }).join("");
 
   const rulingBadges = tl.rulings.map(r => {
     const on = r.year_ph <= yearPh;
     return `<span class="tl-ruling ${on ? "tl-r-on" : "tl-r-off"}" title="${ea(r.description)}">${r.icon} ${esc(r.label)}${on ? "" : '<span class="tl-r-not"> not yet</span>'}</span>`;
   }).join(" ");
 
-  const typeClass = { battle: "tl-ev-battle", ruling: "tl-ev-ruling", revelation: "tl-ev-revelation", event: "tl-ev-event" };
-  const beforeHtml = before.length
-    ? before.map(e => `<div class="tl-ev ${typeClass[e.type] || "tl-ev-event"}" data-evid="${ea(e.id)}"><span class="tl-ev-name">${esc(e.label)}</span><span class="tl-ev-yr">${esc(e.year_label)}</span><span class="tl-ev-arrow">›</span></div>`).join("")
-    : `<p class="tl-empty">Near the very beginning.</p>`;
-
-  const afterHtml = after.length
-    ? after.map(e => `<div class="tl-ev tl-ev-coming" data-evid="${ea(e.id)}"><span class="tl-ev-name">${esc(e.label)}</span><span class="tl-ev-yr">${esc(e.year_label)}</span><span class="tl-ev-arrow">›</span></div>`).join("")
-    : `<p class="tl-empty">Near the end of revelation.</p>`;
-
   return `<div class="tl-panel">
     <div class="tl-hdr"><span class="tl-period-tag">${period}</span><span class="tl-year-tag">${yearLabel}</span></div>
     <div class="tl-svg-wrap"><div class="tl-tip" id="tl-tt"></div>${svg}</div>
     ${ctxEvent ? `<div class="tl-ctx tl-ctx-click" data-evid="${ea(ctxEvent.id)}"><div class="tl-ctx-lbl">When this was being revealed <em class="tl-ctx-hint">— tap for full account</em></div><p class="tl-ctx-txt">${esc(ctxEvent.short)}</p></div>` : ""}
     <div class="tl-rulings-sec"><div class="tl-sec-hd">Rulings in effect at this point</div><div class="tl-rulings-row">${rulingBadges}</div></div>
-    <div class="tl-evts">
-      <div class="tl-col"><div class="tl-sec-hd tl-sec-bef">Already happened</div>${beforeHtml}</div>
-      <div class="tl-col"><div class="tl-sec-hd tl-sec-aft">Still to come</div>${afterHtml}</div>
-    </div>
+    <div class="tl-sec-hd" style="margin-top:0.5rem">Full chronology — tap any event for detail</div>
+    <div class="tl-full-list">${fullListHtml}</div>
     <div class="tl-detail" id="tl-detail" style="display:none"></div>
   </div>`;
 }
@@ -1427,6 +1426,11 @@ function bindContextPanelEvents(container) {
       e.stopPropagation();
       const tab = btn.dataset.ctx;
       if (tab === "occasion" && cache.asbabNuzul === null) await loadAsbabNuzul();
+      if ((tab === "hadith" || tab === "isnad") && !cache.hadithIndex) {
+        const body = panel.querySelector(".ctx-body");
+        if (body) body.innerHTML = '<p class="panel-intro">Loading…</p>';
+        await loadHadithData();
+      }
       prefs.activeContextTab = tab;
       savePrefs();
       panel.querySelectorAll(".ctx-tab").forEach(b => b.classList.toggle("active", b === btn));
@@ -2700,10 +2704,39 @@ function resumeCardHtml(entry, surahs, { showLabel = false } = {}) {
       <span class="resume-body">
         ${showLabel ? `<span class="resume-label">Continue your reading</span>` : ""}
         <span class="resume-title">${esc(s.name_arabic)} · ${esc(s.translated_name)}</span>
-        <span class="resume-meta">Ayah ${entry.ayah}</span>
+        <span class="resume-meta">Juz ${SURAH_JUZ[s.id] || ''} · Ayah ${entry.ayah}</span>
       </span>
       <span class="resume-arrow" aria-hidden="true">←</span>
     </a>`;
+}
+
+function juzGridHtml(surahs) {
+  const groups = {};
+  for (const s of surahs) {
+    const j = SURAH_JUZ[s.id] || 1;
+    if (!groups[j]) groups[j] = [];
+    groups[j].push(s);
+  }
+  return Object.keys(groups).sort((a, b) => +a - +b).map(j => `
+    <div class="juz-group">
+      <div class="juz-header">Juz ${j}</div>
+      <div class="surah-grid juz-surah-grid">${groups[j].map(s => surahCard(s)).join("")}</div>
+    </div>
+  `).join("");
+}
+
+function bindHomeViewToggle(surahs) {
+  document.querySelectorAll(".vt-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      prefs.homeView = btn.dataset.view;
+      savePrefs();
+      document.querySelectorAll(".vt-btn").forEach(b => b.classList.toggle("active", b === btn));
+      const sg = document.getElementById("surah-grid");
+      const jg = document.getElementById("juz-grid");
+      if (prefs.homeView === "surah") { sg.hidden = false; jg.hidden = true; }
+      else { sg.hidden = true; jg.hidden = false; }
+    });
+  });
 }
 
 function renderHome(surahs) {
@@ -2714,11 +2747,12 @@ function renderHome(surahs) {
   const edits = getMyWorkList("meanings").slice(0, 3);
 
   const hasPersonal = bookmarks.length || tadabbur.length || edits.length;
+  const byJuz = prefs.homeView === "juz";
 
   document.getElementById("app").innerHTML = `
     <div class="home-page">
       <header class="home-intro">
-        <p class="home-bismillah" dir="rtl">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</p>
+        <p class="home-bismillah" dir="rtl">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</p>
       </header>
       ${recentReads.length ? `
       <section class="home-section resume-section">
@@ -2732,7 +2766,12 @@ function renderHome(surahs) {
         <input type="search" id="surah-search" class="search-input" placeholder="mercy · رحم · 2:255 · Al-Baqarah…" autocomplete="off" spellcheck="false" enterkeyhint="go" />
         <div id="search-dropdown" class="search-dropdown" hidden role="listbox"></div>
       </div>
-      <div class="surah-grid" id="surah-grid">${surahs.map((s) => surahCard(s)).join("")}</div>
+      <div class="view-toggle" role="group" aria-label="Surah or Juz view">
+        <button class="vt-btn${byJuz ? "" : " active"}" data-view="surah">By Surah</button>
+        <button class="vt-btn${byJuz ? " active" : ""}" data-view="juz">By Juz</button>
+      </div>
+      <div id="surah-grid" class="surah-grid"${byJuz ? " hidden" : ""}>${surahs.map((s) => surahCard(s)).join("")}</div>
+      <div id="juz-grid"${byJuz ? "" : " hidden"}>${juzGridHtml(surahs)}</div>
       ${hasPersonal ? `
       <div class="home-personal">
         ${bookmarks.length ? `
@@ -2757,6 +2796,7 @@ function renderHome(surahs) {
     </div>`;
 
   bindSmartSearch(surahs);
+  bindHomeViewToggle(surahs);
 }
 
 function surahCard(s) {
@@ -2767,7 +2807,7 @@ function surahCard(s) {
         <span class="surah-num">${s.id}</span>
         <span class="surah-ar" dir="rtl">${esc(s.name_arabic)}</span>
         <span class="surah-en">${esc(s.translated_name)}</span>
-        <span class="surah-meta"><span class="place-tag ${s.revelation_place}">${place}</span> · ${s.verses_count}</span>
+        <span class="surah-meta"><span class="place-tag ${s.revelation_place}">${place}</span> · ${s.verses_count}v · Juz ${SURAH_JUZ[s.id] || ''}</span>
       </div>
     </a>`;
 }

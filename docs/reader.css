@@ -878,6 +878,31 @@ body {
 
 .see-all:hover { text-decoration: underline; }
 
+/* View toggle (Surah / Juz) */
+.view-toggle {
+  display: flex; gap: 0; margin-bottom: 1rem;
+  border: 1px solid var(--paper-shadow); border-radius: 8px; overflow: hidden;
+  align-self: flex-start;
+}
+.vt-btn {
+  font-family: var(--font-ui); font-size: 0.8rem; font-weight: 500;
+  padding: 0.45rem 1.1rem; background: transparent; border: none;
+  color: var(--muted); cursor: pointer; transition: background 0.15s, color 0.15s;
+}
+.vt-btn:first-child { border-right: 1px solid var(--paper-shadow); }
+.vt-btn.active { background: var(--green); color: #fff; }
+.vt-btn:not(.active):hover { background: var(--green-light); color: var(--green); }
+
+/* Juz grouped view */
+.juz-group { margin-bottom: 1.5rem; }
+.juz-header {
+  font-family: var(--font-ui); font-size: 0.75rem; font-weight: 700;
+  letter-spacing: 0.1em; text-transform: uppercase; color: var(--green);
+  margin-bottom: 0.6rem; padding-bottom: 0.35rem;
+  border-bottom: 2px solid var(--green-light);
+}
+.juz-surah-grid { margin: 0; }
+
 .surah-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
@@ -3059,23 +3084,32 @@ html[data-theme="night"] .mb-frame { background: linear-gradient(135deg, rgba(20
 .tl-r-off { background: transparent; border-color: var(--paper-shadow); color: var(--muted); }
 .tl-r-not { font-size: 0.66rem; opacity: 0.75; }
 
-.tl-evts { display: grid; grid-template-columns: 1fr 1fr; gap: 0.85rem; }
-.tl-ev {
-  display: flex; flex-direction: column; gap: 0.1rem;
-  padding: 0.4rem 0.55rem; border-radius: 5px; margin-bottom: 0.3rem;
-  border-left: 3px solid; cursor: pointer; position: relative;
-  transition: filter 0.12s, transform 0.1s;
+/* Full chronology list */
+.tl-full-list { margin-top: 0.4rem; }
+.tl-ev-row {
+  display: flex; align-items: center; gap: 0.65rem;
+  padding: 0.35rem 0.4rem 0.35rem 0; cursor: pointer;
+  border-radius: 5px; transition: background 0.1s;
+  position: relative;
 }
-.tl-ev:hover { filter: brightness(0.97); transform: translateX(2px); }
-.tl-ev-arrow { position: absolute; right: 6px; top: 50%; transform: translateY(-50%); font-size: 0.8rem; color: var(--muted); opacity: 0.5; }
-.tl-ev-battle  { background: #fff4f4; border-color: #b85c4a; }
-.tl-ev-ruling  { background: var(--green-light); border-color: var(--green); }
-.tl-ev-revelation { background: #fdf9f0; border-color: var(--gold-soft); }
-.tl-ev-event   { background: #f5f9f7; border-color: #4a7c59; }
-.tl-ev-coming  { background: var(--parchment); border-color: var(--paper-shadow); }
+.tl-ev-row:hover { background: rgba(31,107,82,0.06); }
+.tl-ev-row:hover .tl-ev-arrow { opacity: 1; }
+.tl-ev-now { background: var(--green-light) !important; border-radius: 6px; }
+.tl-ev-timeline-col { display: flex; flex-direction: column; align-items: center; width: 20px; flex-shrink: 0; position: relative; align-self: stretch; }
+.tl-ev-vline { flex: 1; width: 2px; background: var(--paper-shadow); }
+.tl-ev-vline.past { background: rgba(31,107,82,0.3); }
+.tl-ev-node { width: 10px; height: 10px; border-radius: 50%; border: 2px solid var(--paper-shadow); background: var(--paper); flex-shrink: 0; }
+.tl-ev-node.past { border-color: rgba(31,107,82,0.5); background: rgba(31,107,82,0.15); }
+.tl-ev-node.now { border-color: var(--green); background: var(--green); width: 12px; height: 12px; }
+.tl-ev-text { flex: 1; min-width: 0; }
 .tl-ev-name { font-family: var(--font-ui); font-size: 0.78rem; font-weight: 600; color: var(--ink-soft); }
 .tl-ev-yr   { font-family: var(--font-ui); font-size: 0.67rem; color: var(--muted); }
-.tl-empty { font-size: 0.82rem; color: var(--muted); font-style: italic; margin: 0; }
+/* colour tinting for event types */
+.tl-ev-row.tl-ev-battle  .tl-ev-node.past { border-color: #b85c4a; background: #f9d8d4; }
+.tl-ev-row.tl-ev-ruling  .tl-ev-node.past { border-color: var(--green); background: var(--green-light); }
+.tl-ev-row.tl-ev-revelation .tl-ev-node.past { border-color: var(--gold-soft); background: #fdf9f0; }
+.tl-ev-coming .tl-ev-name { color: var(--muted); font-weight: 500; }
+.tl-ev-arrow { font-size: 0.8rem; color: var(--muted); opacity: 0.3; transition: opacity 0.1s; flex-shrink: 0; }
 .tl-ctx-click { cursor: pointer; transition: filter 0.12s; }
 .tl-ctx-click:hover { filter: brightness(0.97); }
 .tl-ctx-hint { font-size: 0.65rem; font-weight: 400; color: var(--green); }
