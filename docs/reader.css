@@ -3337,3 +3337,38 @@ html[data-theme="night"] .prel-item      { background: rgba(255,255,255,0.04); b
 html[data-theme="night"] .people-link    { color: #7dcfaa; }
 html[data-theme="night"] .phadith-stats  { background: rgba(255,255,255,0.05); }
 html[data-theme="night"] .phs-n          { color: #7dcfaa; }
+
+/* ── Isnad Tree (Context panel – Isnad tab) ── */
+.isnad-block { margin-bottom: 1.25rem; }
+.isnad-source-hd {
+  font-family: var(--font-ui); font-size: 0.67rem; font-weight: 600;
+  letter-spacing: 0.04em; color: var(--text-muted, #888); margin-bottom: 0.6rem;
+}
+.isnad-topic { font-style: italic; font-weight: 400; }
+.isnad-svg { width: 100%; max-width: 340px; display: block; margin: 0 auto; }
+.isnad-node { cursor: default; }
+.isnad-node[data-person] { cursor: pointer; }
+.isnad-node[data-person] rect,
+.isnad-node[data-person] circle { transition: opacity 0.12s; }
+.isnad-node[data-person]:hover rect,
+.isnad-node[data-person]:hover circle { opacity: 0.82; }
+.isnad-node[data-person]:focus { outline: none; }
+.isnad-node[data-person]:focus rect,
+.isnad-node[data-person]:focus circle { outline: 2px solid #c4a96a; }
+
+/* ── Network graph (People card – Network tab) ── */
+.pnetwork { display: flex; flex-direction: column; align-items: center; gap: 0.75rem; }
+.network-svg { width: 100%; max-width: 300px; color: var(--text-primary, #1a2420); }
+.pnetwork-legend {
+  display: flex; flex-wrap: wrap; gap: 0.4rem 0.75rem; justify-content: center;
+}
+.pnet-leg {
+  display: flex; align-items: center; gap: 0.3rem;
+  font-family: var(--font-ui); font-size: 0.65rem; color: var(--text-muted, #888);
+  text-transform: capitalize;
+}
+.pnet-dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; flex-shrink: 0; }
+
+/* Night mode */
+html[data-theme="night"] .isnad-source-hd { color: #9b9287; }
+html[data-theme="night"] .network-svg { color: var(--text-night, #d8d0c4); }

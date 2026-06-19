@@ -1289,10 +1289,110 @@ function renderOccasionTab(surahId, ayahNum) {
   return html;
 }
 
+function renderIsnadSvg(h) {
+  const chain = h.isnad || [];
+  if (!chain.length) return "";
+  const W = 320, NH = 46, VGAP = 62, PAD = 12;
+  const totalH = PAD + chain.length * NH + (chain.length - 1) * (VGAP - NH) + PAD;
+  const TYPE = {
+    source:     { bg: "#92400e", text: "#fff", badge: "DIVINE SOURCE" },
+    prophet:    { bg: "#1f6b52", text: "#fff", badge: "PROPHET" },
+    sahabi:     { bg: "#1a5c7a", text: "#fff", badge: "COMPANION" },
+    tabi:       { bg: "#1e3a8a", text: "#fff", badge: "TABI'I" },
+    muhaddith:  { bg: "#4c1d95", text: "#fff", badge: "SCHOLAR" },
+    book:       { bg: "#78350f", text: "#fff", badge: "RECORDED IN" },
+  };
+  const CX = W / 2;
+  let els = [];
+  for (let i = 0; i < chain.length; i++) {
+    const node = chain[i];
+    const y = PAD + i * VGAP;
+    const { bg, text, badge } = TYPE[node.type] || TYPE.tabi;
+    if (i > 0) {
+      const prevBottom = PAD + (i - 1) * VGAP + NH;
+      els.push(`<line x1="${CX}" y1="${prevBottom}" x2="${CX}" y2="${y}" stroke="#c4a96a" stroke-width="1.5" stroke-dasharray="4 3"/>`);
+      els.push(`<polygon points="${CX},${y} ${CX-5},${y-8} ${CX+5},${y-8}" fill="#c4a96a"/>`);
+    }
+    const label = node.name.length > 48 ? node.name.slice(0,46) + "…" : node.name;
+    const clickable = !!node.id;
+    els.push(
+      clickable
+        ? `<g class="isnad-node" data-person="${node.id}" tabindex="0" role="button" aria-label="${node.name}">`
+        : `<g class="isnad-node">`,
+      `<rect x="${PAD}" y="${y}" width="${W - PAD*2}" height="${NH}" rx="7" fill="${bg}"/>`,
+      `<text x="${CX}" y="${y + 14}" text-anchor="middle" font-size="7.5" fill="${text}" opacity="0.72" font-family="'JetBrains Mono',monospace" letter-spacing="0.08em">${badge}</text>`,
+      `<text x="${CX}" y="${y + 33}" text-anchor="middle" font-size="12" fill="${text}" font-weight="600" font-family="system-ui,sans-serif">${esc(label)}</text>`,
+      `</g>`
+    );
+  }
+  return `<svg viewBox="0 0 ${W} ${totalH}" xmlns="http://www.w3.org/2000/svg" class="isnad-svg">${els.join("")}</svg>`;
+}
+
+function renderIsnadTreeTab(surahId, ayahNum) {
+  const ids = (cache.hadithMap?.[`${surahId}:${ayahNum}`] || []).filter(id => cache.hadithIndex?.[id]);
+  if (!ids.length) return '<p class="empty-note">No hadith recorded for this ayah.</p>';
+  const blocks = ids.map(id => {
+    const h = cache.hadithIndex[id];
+    const svg = renderIsnadSvg(h);
+    if (!svg) return "";
+    return `<div class="isnad-block">
+      <div class="isnad-source-hd">${esc(h.source_short || h.source)} · ${esc(h.reference || "")} · <span class="isnad-topic">${esc(h.topic || "")}</span></div>
+      ${svg}
+    </div>`;
+  }).filter(Boolean).join("");
+  return blocks || '<p class="empty-note">Isnad chains coming soon.</p>';
+}
+
+function renderPeopleNetworkTab(person) {
+  const rels = person.relationships || [];
+  if (!rels.length) return '<p class="empty-note">No relationship data recorded.</p>';
+  const W = 300, H = 300, CX = W/2, CY = H/2;
+  const RC = 32, RN = 20, ORBIT = 102;
+  const REL_COLORS = { spouse:"#c4a96a", child:"#1f6b52", parent:"#1a7a6a", cousin:"#2563eb", companion:"#5b21b6", friend:"#78350f", teacher:"#1e40af", student:"#166534" };
+  const centerColor = peopleAvatarColor(person.id);
+  const centerInitial = (person.name || "?").replace(/[^A-Za-z]/g,"")[0] || "?";
+  const step = (2 * Math.PI) / rels.length;
+  let els = [];
+  const nodes = rels.map((r, i) => {
+    const angle = i * step - Math.PI/2;
+    return { r, nx: CX + Math.cos(angle)*ORBIT, ny: CY + Math.sin(angle)*ORBIT, color: REL_COLORS[r.type] || "#888" };
+  });
+  // Lines
+  for (const n of nodes) {
+    const dx = n.nx - CX, dy = n.ny - CY, dist = Math.sqrt(dx*dx+dy*dy);
+    els.push(`<line x1="${(CX+(dx/dist)*RC).toFixed(1)}" y1="${(CY+(dy/dist)*RC).toFixed(1)}" x2="${(n.nx-(dx/dist)*RN).toFixed(1)}" y2="${(n.ny-(dy/dist)*RN).toFixed(1)}" stroke="${n.color}" stroke-width="1.5" opacity="0.45"/>`);
+  }
+  // Center
+  els.push(`<circle cx="${CX}" cy="${CY}" r="${RC}" fill="${centerColor}"/>`);
+  els.push(`<text x="${CX}" y="${CY+6}" text-anchor="middle" font-size="15" fill="white" font-weight="700">${esc(centerInitial)}</text>`);
+  // Outer nodes
+  for (const n of nodes) {
+    const linked = cache.people?.[n.r.id];
+    const init = linked ? (linked.name||"?").replace(/[^A-Za-z]/g,"")[0] : "?";
+    const nodeColor = linked ? peopleAvatarColor(n.r.id) : "#aaa";
+    els.push(
+      linked ? `<g class="isnad-node" data-person="${n.r.id}" tabindex="0" role="button" aria-label="${linked.name}">` : `<g class="isnad-node">`,
+      `<circle cx="${n.nx.toFixed(1)}" cy="${n.ny.toFixed(1)}" r="${RN}" fill="${nodeColor}"/>`,
+      `<text x="${n.nx.toFixed(1)}" y="${(n.ny+5).toFixed(1)}" text-anchor="middle" font-size="10" fill="white" font-weight="700">${esc(init)}</text>`,
+      `</g>`
+    );
+    const nameShort = (linked?.name || n.r.label || "?").replace(/ \(RA\)| ﷺ/g,"").split(" ").slice(0,2).join(" ");
+    els.push(`<text x="${n.nx.toFixed(1)}" y="${(n.ny+RN+13).toFixed(1)}" text-anchor="middle" font-size="8.5" fill="currentColor" opacity="0.75">${esc(nameShort)}</text>`);
+  }
+  const legendEntries = [...new Set(rels.map(r => r.type))].map(t =>
+    `<span class="pnet-leg"><span class="pnet-dot" style="background:${REL_COLORS[t]||"#888"}"></span>${t}</span>`
+  ).join("");
+  return `<div class="pnetwork">
+    <svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" class="network-svg">${els.join("")}</svg>
+    <div class="pnetwork-legend">${legendEntries}</div>
+  </div>`;
+}
+
 function ctxTabContent(tab, surahId, ayahNum) {
   if (tab === "occasion") return renderOccasionTab(surahId, ayahNum);
-  if (tab === "hadith") return renderHadithTab(surahId, ayahNum);
-  return '<p class="empty-note" style="padding:16px 0">Isnad tree — coming in Phase 3.</p>';
+  if (tab === "hadith")   return renderHadithTab(surahId, ayahNum);
+  if (tab === "isnad")    return renderIsnadTreeTab(surahId, ayahNum);
+  return '<p class="empty-note" style="padding:16px 0">Coming soon.</p>';
 }
 
 function renderContextPanel(surahId, ayahNum) {
@@ -1432,6 +1532,7 @@ function renderPeopleHadithTab(person) {
 function renderPeopleTabContent(tab, person) {
   if (tab === "biography")     return renderPeopleBioTab(person);
   if (tab === "relationships") return renderPeopleRelTab(person);
+  if (tab === "network")       return renderPeopleNetworkTab(person);
   if (tab === "hadith")        return renderPeopleHadithTab(person);
   return '<p class="empty-note" style="padding:16px 0">Coming soon.</p>';
 }
