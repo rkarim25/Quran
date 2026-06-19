@@ -4,6 +4,9 @@
  */
 const QuranFirebaseSync = (() => {
   const PUSH_DEBOUNCE_MS = 4000;
+  // Tracks which signed-in user the local data belongs to, so one account's
+  // edits / last-read never bleed into another account on a shared browser.
+  const OWNER_KEY = "quran-data-owner";
 
   let lsKeys = null;
   let ayahEditsKey = null;
@@ -52,6 +55,23 @@ const QuranFirebaseSync = (() => {
 
   function userDocRef(uid) {
     return db.collection("users").doc(uid).collection("data").doc("data");
+  }
+
+  // Wipe this browser's local copy of the user bundle (prefs, last-read, recent
+  // reads, bookmarks, and every per-ayah edit). Used when a different account
+  // signs in, or on sign-out, so no one inherits another person's data.
+  function clearLocalUserData() {
+    if (!lsKeys) return;
+    try {
+      localStorage.removeItem(lsKeys.prefs);
+      localStorage.removeItem(lsKeys.recentReads);
+      localStorage.removeItem(lsKeys.lastRead);
+      localStorage.removeItem(lsKeys.bookmarks);
+      for (let i = localStorage.length - 1; i >= 0; i--) {
+        const k = localStorage.key(i);
+        if (/^quran-\d+-\d+$/.test(k || "")) localStorage.removeItem(k);
+      }
+    } catch (_) {}
   }
 
   function setStatus(next) {
@@ -213,6 +233,11 @@ const QuranFirebaseSync = (() => {
     } catch (e) {
       console.warn("Sign out failed", e);
     }
+    // Remove this account's data from the shared browser so the next person
+    // starts clean and can't see the previous user's edits or last-read.
+    clearLocalUserData();
+    try { localStorage.removeItem(OWNER_KEY); } catch (_) {}
+    currentUser = null;
     status = "not-configured";
     updateGooglePanel();
     const badge = document.getElementById("sync-badge");
@@ -221,6 +246,7 @@ const QuranFirebaseSync = (() => {
       badge.classList.add("readonly");
       badge.textContent = "Sync";
     }
+    if (onMerged) onMerged({ source: "pull" });
   }
 
   function openSettings() {
@@ -263,6 +289,16 @@ const QuranFirebaseSync = (() => {
     currentUser = user;
     updateGooglePanel();
     if (user) {
+      // If the local data belongs to a different account (shared browser), drop
+      // it before pulling — otherwise this user's account would absorb the other
+      // person's edits/last-read on the next push.
+      let prevOwner = null;
+      try { prevOwner = localStorage.getItem(OWNER_KEY); } catch (_) {}
+      if (prevOwner && prevOwner !== user.uid) {
+        clearLocalUserData();
+        if (onMerged) onMerged({ source: "pull" });
+      }
+      try { localStorage.setItem(OWNER_KEY, user.uid); } catch (_) {}
       pullAndMerge().then(() => schedulePush());
     } else {
       status = "not-configured";
