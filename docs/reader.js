@@ -1,4 +1,4 @@
-const cache = { index: null, surahs: {}, pristine: {}, aiWbw: {}, timeline: null };
+const cache = { index: null, surahs: {}, pristine: {}, aiWbw: {}, timeline: null, hadithIndex: null, hadithMap: null };
 const LS = {
   lastRead: "quran-last-read",
   recentReads: "quran-recent-reads",
@@ -348,6 +348,19 @@ async function loadTimeline() {
     } catch (_) { cache.timeline = null; }
   }
   return cache.timeline;
+}
+
+async function loadHadithData() {
+  if (!cache.hadithIndex) {
+    try {
+      const [idxRes, mapRes] = await Promise.all([
+        fetch(`data/hadith_index.json?v=${DATA_VERSION}`),
+        fetch(`data/hadith_map.json?v=${DATA_VERSION}`)
+      ]);
+      cache.hadithIndex = idxRes.ok ? await idxRes.json() : {};
+      cache.hadithMap   = mapRes.ok ? await mapRes.json() : {};
+    } catch (_) { cache.hadithIndex = {}; cache.hadithMap = {}; }
+  }
 }
 
 // ---- 15-line Madani mushaf view (QCF v2 page fonts, vendored for Juzʾ ʿAmma) ----
@@ -1036,7 +1049,8 @@ function effectiveShow(surahId, ayahNum, key) {
 }
 function anyEffectiveShow(surahId, ayahNum) {
   return STUDY_KEYS.some((k) => effectiveShow(surahId, ayahNum, k))
-    || !!ayahShow[`${surahId}:${ayahNum}`]?.timeline;
+    || !!ayahShow[`${surahId}:${ayahNum}`]?.timeline
+  || !!ayahShow[`${surahId}:${ayahNum}`]?.hadith;
 }
 function tafsirFieldFor(ay, key) {
   if (key === "aiTafsir") return ay.ai_tafsir;
@@ -1065,6 +1079,9 @@ function ayahExtrasHtml(ay, surahId, ayahNum) {
   if (ayahShow[`${surahId}:${ayahNum}`]?.timeline) {
     blocks.push(`<div class="ayah-extra ax-timeline">${renderTimelinePanel()}</div>`);
   }
+  if (ayahShow[`${surahId}:${ayahNum}`]?.hadith) {
+    blocks.push(`<div class="ayah-extra ax-hadith">${renderHadithSection(surahId, ayahNum)}</div>`);
+  }
   return blocks.length ? `<div class="ayah-extras">${blocks.join("")}</div>` : "";
 }
 
@@ -1077,7 +1094,9 @@ function ayahStudyMenuHtml(surahId, ayahNum) {
   }).join("");
   const tlOn = !!ayahShow[`${surahId}:${ayahNum}`]?.timeline;
   const tlItem = `<label class="cm-item"><input type="checkbox" data-axs="timeline" ${tlOn ? "checked" : ""}> Timeline</label>`;
-  return `<div class="ayah-study-menu"><div class="cm-group-label">Show for this ayah</div>${items}${tlItem}</div>`;
+  const hdOn = !!ayahShow[`${surahId}:${ayahNum}`]?.hadith;
+  const hdItem = `<label class="cm-item"><input type="checkbox" data-axs="hadith" ${hdOn ? "checked" : ""}> Hadith</label>`;
+  return `<div class="ayah-study-menu"><div class="cm-group-label">Show for this ayah</div>${items}${tlItem}${hdItem}</div>`;
 }
 
 function panelContent(ayah) {
@@ -1090,6 +1109,7 @@ function panelContent(ayah) {
       <textarea class="reflection-area" id="context-input" placeholder="Revelation context…"></textarea><div class="save-status"></div>`;
   }
   if (prefs.activePanel === "timeline") return renderTimelinePanel();
+  if (prefs.activePanel === "hadith") return renderHadithSection(currentSurah?.id, ayah?.ayah);
   if (prefs.activePanel === "tafsir") {
     let html = `<p class="panel-intro tafsir-intro">Concise commentary drawing on Ibn Kathir, Maarif ul Quran, classical scholars, and authenticated hadith.</p>`;
     if (ayah.qf_tafsir) {
@@ -1183,6 +1203,36 @@ function renderTimelinePanel() {
   </div>`;
 }
 
+function renderHadithSection(surahId, ayahNum) {
+  const idx = cache.hadithIndex;
+  const map = cache.hadithMap;
+  if (!idx || !map) return '<p class="panel-intro">Hadith loading…</p>';
+
+  const ids = (map[`${surahId}:${ayahNum}`] || []).filter(id => idx[id]);
+  if (!ids.length) return '<p class="empty-note">No related hadith recorded for this ayah yet.</p>';
+
+  const GRADE_CLS = { Sahih: "hg-sahih", Hasan: "hg-hasan", "Hasan Sahih": "hg-hasan", Daif: "hg-daif" };
+  const cards = ids.map(id => {
+    const h = idx[id];
+    const gc = GRADE_CLS[h.grade] || "hg-other";
+    return `<div class="hadith-card">
+      <div class="hadith-narrator">Narrated by <strong>${esc(h.narrator)}</strong></div>
+      <blockquote class="hadith-text">${esc(h.text)}</blockquote>
+      <div class="hadith-meta">
+        <span class="hadith-source">${esc(h.source)}</span>
+        <span class="hadith-grade ${gc}">${esc(h.grade)}</span>
+        ${h.reference ? `<span class="hadith-ref">No. ${esc(h.reference)}</span>` : ""}
+      </div>
+      ${h.topic ? `<div class="hadith-topic">${esc(h.topic)}</div>` : ""}
+    </div>`;
+  }).join("");
+
+  return `<div class="hadith-section">
+    <p class="panel-intro">${ids.length} hadith related to this verse</p>
+    ${cards}
+  </div>`;
+}
+
 function bindTimelineEvents(block) {
   const tip = block.querySelector("#tl-tt");
   if (!tip) return;
@@ -1212,6 +1262,7 @@ function studyPanelHtml(ayah) {
           <button type="button" class="btn panel-tab ${prefs.activePanel === "reflection" ? "active" : ""}" data-panel="reflection">Tadabbur</button>
           <button type="button" class="btn panel-tab ${prefs.activePanel === "tafsir" ? "active" : ""}" data-panel="tafsir">Tafsir</button>
           <button type="button" class="btn panel-tab ${prefs.activePanel === "timeline" ? "active" : ""}" data-panel="timeline">Timeline</button>
+          <button type="button" class="btn panel-tab ${prefs.activePanel === "hadith" ? "active" : ""}" data-panel="hadith">Hadith</button>
         </div>
         <button type="button" class="study-close-btn" data-action="close-study" aria-label="Close">×</button>
       </div>
@@ -1267,6 +1318,10 @@ function bindStudyPanelEvents(block) {
       if (btn.dataset.panel === "timeline" && !cache.timeline) {
         block.querySelector(".study-panel-body").innerHTML = '<p class="panel-intro">Loading timeline…</p>';
         await loadTimeline();
+      }
+      if (btn.dataset.panel === "hadith" && !cache.hadithIndex) {
+        block.querySelector(".study-panel-body").innerHTML = '<p class="panel-intro">Loading hadith…</p>';
+        await loadHadithData();
       }
       block.querySelector(".study-panel-body").innerHTML = panelContent(selectedAyah);
       bindReflectionInput(block);
@@ -2517,6 +2572,9 @@ document.addEventListener("change", async (e) => {
   (ayahShow[key] || (ayahShow[key] = {}))[axs.dataset.axs] = axs.checked;
   if (axs.dataset.axs === "timeline" && axs.checked && !cache.timeline) {
     await loadTimeline();
+  }
+  if (axs.dataset.axs === "hadith" && axs.checked && !cache.hadithIndex) {
+    await loadHadithData();
   }
   refreshAyahExtras(s, an);
   if (axs.dataset.axs === "timeline" && axs.checked) {

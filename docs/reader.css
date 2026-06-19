@@ -3081,3 +3081,48 @@ html[data-theme="night"] .tl-ev-ruling  { background: rgba(31,107,82,0.1); }
 html[data-theme="night"] .tl-ev-revelation { background: rgba(154,132,85,0.1); }
 html[data-theme="night"] .tl-ev-event   { background: rgba(74,124,89,0.08); }
 html[data-theme="night"] .tl-ev-coming  { background: rgba(255,255,255,0.03); }
+
+/* ─── Hadith Section ─────────────────────────────────────────── */
+.hadith-section { display: flex; flex-direction: column; gap: 1rem; }
+
+.hadith-card {
+  background: var(--paper);
+  border: 1px solid rgba(154,132,85,0.18);
+  border-left: 3px solid var(--gold-soft);
+  border-radius: var(--radius-sm);
+  padding: 0.9rem 1rem;
+}
+
+.hadith-narrator {
+  font-family: var(--font-ui); font-size: 0.75rem;
+  color: var(--muted); margin-bottom: 0.6rem;
+}
+.hadith-narrator strong { color: var(--green); font-weight: 600; }
+
+.hadith-text {
+  font-family: var(--font-body); font-size: 1rem; line-height: 1.78;
+  color: var(--ink); margin: 0 0 0.75rem 0;
+  padding: 0 0 0 0.85rem;
+  border-left: 2px solid rgba(154,132,85,0.35);
+}
+
+.hadith-meta {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem;
+}
+.hadith-source { font-family: var(--font-ui); font-size: 0.73rem; font-weight: 600; color: var(--ink-soft); }
+.hadith-grade {
+  font-family: var(--font-ui); font-size: 0.67rem; font-weight: 700;
+  letter-spacing: 0.05em; padding: 0.15rem 0.55rem; border-radius: 20px;
+}
+.hg-sahih { background: var(--green-light); color: var(--green); }
+.hg-hasan { background: #fdf9f0; color: var(--gold-muted); border: 1px solid rgba(154,132,85,0.2); }
+.hg-daif  { background: #fff4f4; color: #b85c4a; }
+.hg-other { background: var(--parchment); color: var(--muted); }
+.hadith-ref { font-family: var(--font-ui); font-size: 0.67rem; color: var(--muted); }
+.hadith-topic {
+  font-family: var(--font-ui); font-size: 0.7rem; font-style: italic;
+  color: var(--gold-muted); margin-top: 0.5rem;
+}
+
+html[data-theme="night"] .hadith-card { background: rgba(255,255,255,0.04); }
+html[data-theme="night"] .hg-hasan    { background: rgba(154,132,85,0.12); }
