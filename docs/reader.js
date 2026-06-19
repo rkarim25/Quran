@@ -1731,6 +1731,17 @@ function bindStudyPanelEvents(block) {
   } else {
     bindTimelineEvents(block);
   }
+  if (prefs.activePanel === "hadith" && (!cache.hadithIndex || cache.asbabNuzul === null)) {
+    const body = block.querySelector(".study-panel-body");
+    if (body) body.innerHTML = '<p class="panel-intro">Loading context…</p>';
+    Promise.all([
+      !cache.hadithIndex ? loadHadithData() : Promise.resolve(),
+      cache.asbabNuzul === null ? loadAsbabNuzul() : Promise.resolve(),
+    ]).then(() => {
+      const b = block.querySelector(".study-panel-body");
+      if (b) { b.innerHTML = panelContent(selectedAyah); bindContextPanelEvents(block); }
+    });
+  }
 }
 
 function openStudyPanel(ayahNum) {
