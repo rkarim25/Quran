@@ -2996,3 +2996,88 @@ html[data-theme="night"] .mb-frame { background: linear-gradient(135deg, rgba(20
   #print-root.layout-facing { width: 297mm !important; }
   #print-root.layout-facing .pr-frame { width: 277mm !important; }
 }
+
+/* ─── Revelation Timeline Panel ─────────────────────────────── */
+.tl-panel { display: flex; flex-direction: column; gap: 0.85rem; }
+
+.tl-hdr { display: flex; align-items: center; gap: 0.65rem; flex-wrap: wrap; }
+.tl-period-tag {
+  font-family: var(--font-ui); font-size: 0.7rem; font-weight: 700;
+  letter-spacing: 0.09em; text-transform: uppercase;
+  color: var(--green); background: var(--green-light);
+  padding: 0.2rem 0.65rem; border-radius: 20px;
+}
+.tl-year-tag { font-family: var(--font-ui); font-size: 0.8rem; color: var(--gold-muted); }
+
+.tl-svg-wrap {
+  position: relative;
+  background: var(--paper); border: 1px solid rgba(31,107,82,0.1);
+  border-radius: var(--radius-sm); padding: 0.55rem 0.8rem 0.5rem;
+  overflow: visible;
+}
+.tl-svg { width: 100%; height: auto; display: block; overflow: visible; }
+
+.tl-tip {
+  position: absolute;
+  background: var(--ink); color: var(--parchment);
+  font-family: var(--font-ui); font-size: 0.72rem; line-height: 1.5;
+  padding: 0.45rem 0.65rem; border-radius: 6px;
+  pointer-events: none; opacity: 0; transition: opacity 0.15s;
+  max-width: 230px; z-index: 20; white-space: normal;
+}
+.tl-tip strong { display: block; color: var(--gold-soft); margin-bottom: 2px; font-size: 0.75rem; }
+.tl-tip em { display: block; font-style: normal; color: var(--muted); font-size: 0.68rem; margin-bottom: 3px; }
+.tl-evt-dot { cursor: pointer; transition: opacity 0.15s; }
+
+.tl-ctx {
+  background: var(--green-light); border: 1px solid rgba(31,107,82,0.15);
+  border-radius: var(--radius-sm); padding: 0.8rem 1rem;
+}
+.tl-ctx-lbl {
+  font-family: var(--font-ui); font-size: 0.66rem; font-weight: 700;
+  letter-spacing: 0.09em; text-transform: uppercase; color: var(--green);
+  margin-bottom: 0.45rem;
+}
+.tl-ctx-txt { font-size: 0.9rem; line-height: 1.7; color: var(--ink-soft); margin: 0; }
+
+.tl-sec-hd {
+  font-family: var(--font-ui); font-size: 0.66rem; font-weight: 700;
+  letter-spacing: 0.09em; text-transform: uppercase; color: var(--gold-muted);
+  margin-bottom: 0.5rem; padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--paper-shadow);
+}
+.tl-sec-bef { color: var(--muted); }
+.tl-sec-aft { color: var(--green); }
+
+.tl-rulings-row { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.1rem; }
+.tl-ruling {
+  font-family: var(--font-ui); font-size: 0.74rem;
+  padding: 0.25rem 0.65rem; border-radius: 20px; border: 1px solid;
+  cursor: default;
+}
+.tl-r-on { background: var(--green-light); border-color: rgba(31,107,82,0.25); color: var(--green); }
+.tl-r-off { background: transparent; border-color: var(--paper-shadow); color: var(--muted); }
+.tl-r-not { font-size: 0.66rem; opacity: 0.75; }
+
+.tl-evts { display: grid; grid-template-columns: 1fr 1fr; gap: 0.85rem; }
+.tl-ev {
+  display: flex; flex-direction: column; gap: 0.1rem;
+  padding: 0.4rem 0.55rem; border-radius: 5px; margin-bottom: 0.3rem;
+  border-left: 3px solid;
+}
+.tl-ev-battle  { background: #fff4f4; border-color: #b85c4a; }
+.tl-ev-ruling  { background: var(--green-light); border-color: var(--green); }
+.tl-ev-revelation { background: #fdf9f0; border-color: var(--gold-soft); }
+.tl-ev-event   { background: #f5f9f7; border-color: #4a7c59; }
+.tl-ev-coming  { background: var(--parchment); border-color: var(--paper-shadow); }
+.tl-ev-name { font-family: var(--font-ui); font-size: 0.78rem; font-weight: 600; color: var(--ink-soft); }
+.tl-ev-yr   { font-family: var(--font-ui); font-size: 0.67rem; color: var(--muted); }
+.tl-empty { font-size: 0.82rem; color: var(--muted); font-style: italic; margin: 0; }
+
+html[data-theme="night"] .tl-ctx        { background: rgba(31,107,82,0.1); }
+html[data-theme="night"] .tl-svg-wrap   { background: rgba(255,255,255,0.04); }
+html[data-theme="night"] .tl-ev-battle  { background: rgba(184,92,74,0.1); }
+html[data-theme="night"] .tl-ev-ruling  { background: rgba(31,107,82,0.1); }
+html[data-theme="night"] .tl-ev-revelation { background: rgba(154,132,85,0.1); }
+html[data-theme="night"] .tl-ev-event   { background: rgba(74,124,89,0.08); }
+html[data-theme="night"] .tl-ev-coming  { background: rgba(255,255,255,0.03); }

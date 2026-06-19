@@ -1,0 +1,274 @@
+{
+  "surah_revelation_order": {
+    "1":5,"2":87,"3":89,"4":92,"5":112,"6":55,"7":39,"8":88,"9":113,"10":51,
+    "11":52,"12":53,"13":96,"14":72,"15":54,"16":70,"17":50,"18":69,"19":44,"20":45,
+    "21":73,"22":103,"23":74,"24":102,"25":42,"26":47,"27":48,"28":49,"29":85,"30":84,
+    "31":57,"32":75,"33":90,"34":58,"35":43,"36":41,"37":56,"38":38,"39":59,"40":60,
+    "41":61,"42":62,"43":63,"44":64,"45":65,"46":66,"47":95,"48":111,"49":106,"50":34,
+    "51":67,"52":76,"53":23,"54":37,"55":97,"56":46,"57":94,"58":105,"59":101,"60":91,
+    "61":109,"62":110,"63":104,"64":108,"65":99,"66":107,"67":77,"68":2,"69":78,"70":79,
+    "71":71,"72":40,"73":3,"74":4,"75":31,"76":98,"77":33,"78":80,"79":81,"80":24,
+    "81":7,"82":82,"83":86,"84":83,"85":27,"86":36,"87":8,"88":68,"89":10,"90":35,
+    "91":26,"92":9,"93":11,"94":12,"95":28,"96":1,"97":25,"98":100,"99":93,"100":14,
+    "101":30,"102":16,"103":13,"104":32,"105":19,"106":29,"107":17,"108":15,"109":18,"110":114,
+    "111":6,"112":22,"113":20,"114":21
+  },
+  "events": [
+    {
+      "id": "first-revelation",
+      "label": "First Revelation",
+      "year_ph": 1,
+      "year_label": "Year 1 · 610 CE",
+      "type": "revelation",
+      "short": "Al-Alaq 96:1-5 revealed in Cave Hira — the beginning of 23 years of prophethood.",
+      "description": "The Prophet Muhammad, aged 40, was meditating in Cave Hira above Mecca when the Angel Jibril appeared and commanded: 'Read!' The first words revealed were Surah Al-Alaq 96:1-5: 'Read in the name of your Lord who created.' Overwhelmed, the Prophet returned home trembling, and Khadijah (RA) — the first to believe — wrapped him in a cloak and declared: 'Allah would never disgrace you.'"
+    },
+    {
+      "id": "secret-preaching",
+      "label": "Secret Preaching",
+      "year_ph": 2,
+      "year_label": "Years 1–3 · 610–612 CE",
+      "type": "event",
+      "short": "Islam spreads quietly among the first believers: Khadijah, Ali, Abu Bakr, and Zayd.",
+      "description": "For the first three years, the Prophet invited people to Islam privately, one by one. Among the first to believe were his wife Khadijah (RA), his young cousin Ali ibn Abi Talib (RA), his close friend Abu Bakr (RA), and his freed servant Zayd ibn Haritha (RA). This small circle prayed in secret, often in the mountains outside Mecca, while the city went about its business unaware of the revolution taking root."
+    },
+    {
+      "id": "public-preaching",
+      "label": "Public Preaching Begins",
+      "year_ph": 3,
+      "year_label": "Year 3 · 612–613 CE",
+      "type": "event",
+      "short": "The Prophet stands on Mount Safa and calls all of Quraysh — triggering open opposition.",
+      "description": "After three years of private invitation, the command came: 'Warn your nearest kinsmen' (26:214). The Prophet stood on Mount Safa and addressed every clan of Quraysh by name. When he declared his prophethood, his uncle Abu Lahab recoiled in fury — Surah Al-Masad (111) was revealed about him. From this point, the persecution of Muslims became systematic and coordinated."
+    },
+    {
+      "id": "persecution",
+      "label": "Persecution Intensifies",
+      "year_ph": 4,
+      "year_label": "Years 4–6 · 613–615 CE",
+      "type": "event",
+      "short": "Weaker converts are tortured; Bilal lies on burning sand with a boulder on his chest.",
+      "description": "As Islam spread, the Qurayshi leadership responded with systematic cruelty toward converts without clan protection. Bilal al-Habashi (RA) was stretched on burning sand with a boulder on his chest, repeating only 'Ahad, Ahad' — 'One, One.' Sumayyah (RA) became Islam's first martyr, killed by Abu Jahl. It was in this climate of raw suffering that the Quran's promises of paradise and its calls to patient endurance were most urgently needed."
+    },
+    {
+      "id": "abyssinia",
+      "label": "Migration to Abyssinia",
+      "year_ph": 5,
+      "year_label": "Year 5 · 615 CE",
+      "type": "event",
+      "short": "First Muslims flee to the Christian kingdom of Abyssinia; the Negus protects them.",
+      "description": "Unable to stop the torture of his followers, the Prophet directed a group of Muslims — eventually over 80 — to migrate to Abyssinia (Ethiopia), ruled by the just Christian Negus (Ashama ibn Abjar). The Quraysh sent envoys to demand their extradition, but after the Muslims recited Surah Maryam before the king, he wept and declared he would not hand them over. This was Islam's first international refuge."
+    },
+    {
+      "id": "boycott",
+      "label": "Boycott of Banu Hashim",
+      "year_ph": 7,
+      "year_label": "Years 7–10 · 616–619 CE",
+      "type": "event",
+      "short": "Quraysh imposes a three-year total boycott — no trade, no marriage, no food — on the Prophet's clan.",
+      "description": "The Quraysh imposed a complete economic and social boycott on Banu Hashim, forcing them into a valley outside Mecca for three years. Cut off from trade, food, and marriage alliances, many went hungry — including children. The boycott document was reportedly eaten by worms, leaving only the words 'In Your Name, O Allah,' which the Prophet knew through revelation. The experience left the community physically diminished but spiritually deepened."
+    },
+    {
+      "id": "year-of-sorrow",
+      "label": "Year of Sorrow",
+      "year_ph": 10,
+      "year_label": "Year 10 · 619 CE",
+      "type": "event",
+      "short": "Khadijah and Abu Talib both pass away; then the Prophet is pelted with stones in Ta'if.",
+      "description": "Within weeks of each other, the Prophet lost both Khadijah (RA) — his wife of 25 years and the first believer — and his uncle Abu Talib, who had shielded him through clan loyalty alone. Then, seeking support in Ta'if, the Prophet was mocked and driven out, with youths pelting him with stones until his sandals filled with blood. He returned to Mecca with no wife, no protector, and no city willing to receive him. The Quran later revealed: 'Did He not find you an orphan and give you shelter?' (93:6)."
+    },
+    {
+      "id": "isra-miraj",
+      "label": "Isra and Mi'raj — Salah Ordained",
+      "year_ph": 11,
+      "year_label": "Year 11 · 620–621 CE",
+      "type": "ruling",
+      "short": "Night Journey to Jerusalem then Ascension through the heavens; the 5 daily prayers ordained.",
+      "description": "In a single night, the Prophet was transported from Mecca to Al-Aqsa Mosque in Jerusalem (Isra), then ascended through the seven heavens (Mi'raj) to a station beyond which no creation has reached. There, the command to pray five times daily was given directly — the only pillar of Islam ordained in the heavens rather than through Jibril. Prophet Musa (AS) repeatedly urged the Prophet to ask for reductions from fifty prayers, until they reached five, while retaining the reward of fifty."
+    },
+    {
+      "id": "pledges-aqabah",
+      "label": "Pledges of Aqabah",
+      "year_ph": 12,
+      "year_label": "Years 12–13 · 621–622 CE",
+      "type": "event",
+      "short": "Pilgrims from Medina pledge to protect the Prophet — opening the door to migration.",
+      "description": "Groups of pilgrims from Yathrib (later Medina) met the Prophet secretly during the Hajj season at a mountain pass called Aqabah. The First Pledge involved 12 men committing to basic Islamic values. The Second Pledge, involving 73 men and 2 women, offered full physical protection: 'We will protect you as we protect our own women and children.' This alliance made the Hijra possible and changed the trajectory of Islamic history."
+    },
+    {
+      "id": "hijra",
+      "label": "The Hijra to Medina",
+      "year_ph": 13,
+      "year_label": "Year 13 · 622 CE",
+      "type": "event",
+      "short": "The Prophet and Abu Bakr migrate to Medina — year zero of the Islamic calendar.",
+      "description": "The Quraysh plotted to assassinate the Prophet on the night of his departure, assigning one man from each clan so that blood guilt would be shared. The Prophet slipped out while Ali (RA) slept in his bed as a decoy, and hid for three days in Cave Thawr before making the 450km journey north to Medina. The Islamic (Hijri) calendar begins from this moment — marking not the Prophet's birth or the first revelation, but the founding of the first Muslim community."
+    },
+    {
+      "id": "constitution-medina",
+      "label": "Brotherhood and Constitution of Medina",
+      "year_ph": 14,
+      "year_label": "1 AH · 622–623 CE",
+      "type": "event",
+      "short": "Each Meccan migrant paired with a Medinan host-brother; a written constitution unites the city.",
+      "description": "One of the Prophet's first acts in Medina was to pair each Muhajir (migrant) with an Ansar (helper) as a formal brotherhood — some Ansar offered to split their homes and wealth equally. He also drafted the Constitution of Medina, a written agreement establishing mutual rights and defence obligations between Muslims, Jewish tribes, and other communities of the city. It was Islam's first experiment in multi-faith, plural governance."
+    },
+    {
+      "id": "qibla-change",
+      "label": "Qibla Changes to Makkah",
+      "year_ph": 14,
+      "year_label": "1–2 AH · 623 CE",
+      "type": "ruling",
+      "short": "Direction of prayer changed from Jerusalem to the Ka'bah — mid-prayer, by revelation.",
+      "description": "For 16 months in Medina, Muslims had prayed facing Jerusalem, the direction of all previous prophets. Then Al-Baqarah 2:144 descended while the Prophet was mid-prayer: 'Turn your face toward the Sacred Mosque.' The entire congregation turned in unison — the same mosque even changed direction mid-rak'ah. The Quran acknowledged this would trouble some people, but declared that the direction matters less than turning wherever Allah commands."
+    },
+    {
+      "id": "badr",
+      "label": "Battle of Badr",
+      "year_ph": 15,
+      "year_label": "2 AH · 624 CE",
+      "type": "battle",
+      "short": "313 Muslims defeat nearly 1,000 Qurayshi soldiers in Islam's first major battle.",
+      "description": "The Battle of Badr was the defining military moment of early Islam. A lightly-armed Muslim force of 313 men — many sharing camels — faced a Qurayshi army of nearly 1,000 who had marched from Mecca to crush the nascent community. The Muslims won decisively; major Qurayshi leaders including Abu Jahl were killed. Surah Al-Anfal (8) was revealed largely in response, addressing how to distribute war spoils and establishing that victory comes from Allah alone."
+    },
+    {
+      "id": "fasting-ordained",
+      "label": "Ramadan Fasting Ordained",
+      "year_ph": 15,
+      "year_label": "2 AH · 624 CE",
+      "type": "ruling",
+      "short": "Fasting the entire month of Ramadan made obligatory, replacing the single-day Ashura fast.",
+      "description": "The obligation of fasting Ramadan was revealed in Al-Baqarah 2:183-185, replacing the practice of fasting only on Ashura. The Quran uniquely links Ramadan to the descent of the Quran itself: 'The month of Ramadan in which the Quran was revealed, a guidance for mankind.' The Night of Power (Laylat al-Qadr), hidden within the last ten nights, was described as better than a thousand months."
+    },
+    {
+      "id": "uhud",
+      "label": "Battle of Uhud",
+      "year_ph": 16,
+      "year_label": "3 AH · 625 CE",
+      "type": "battle",
+      "short": "A setback when archers abandon their posts; 70 Companions martyred including Hamza.",
+      "description": "A Qurayshi army of 3,000 returned to avenge Badr, and initial Muslim success turned to near-disaster when archers abandoned their hill post to collect spoils, allowing cavalry to flank the Muslim rear. Around 70 Companions were martyred, including Hamza ibn Abd al-Muttalib (RA), the Prophet's uncle. The Prophet himself was wounded. Much of Surah Ali Imran (3:120-200) was revealed in response to this painful trial of faith."
+    },
+    {
+      "id": "banu-nadir",
+      "label": "Expulsion of Banu Nadir",
+      "year_ph": 17,
+      "year_label": "4 AH · 625–626 CE",
+      "type": "event",
+      "short": "A Jewish tribe found plotting against the Prophet is given ten days to leave Medina.",
+      "description": "The Banu Nadir, who had signed the Constitution of Medina, were found conspiring against the Prophet's life. Given ten days to depart, they left carrying their possessions, deliberately destroying their own homes so the Muslims could not inhabit them. They resettled in Khaybar and later Syria. Surah Al-Hashr (59) was revealed about this event — it ends with some of the most beautiful divine names in the entire Quran."
+    },
+    {
+      "id": "trench",
+      "label": "Battle of the Trench",
+      "year_ph": 18,
+      "year_label": "5 AH · 627 CE",
+      "type": "battle",
+      "short": "A coalition of 10,000 besieges Medina; Muslims survive by digging a trench.",
+      "description": "A grand coalition (ahzab) of nearly 10,000 fighters marched on Medina in the largest campaign yet against the Muslims. On the advice of Salman al-Farisi (RA), the Muslims dug a trench along the exposed northern side of Medina. The siege lasted nearly a month before a winter storm, internal divisions, and a nocturnal secret conversion shattered the coalition. Surah Al-Ahzab was revealed about this trial."
+    },
+    {
+      "id": "hudaybiyyah",
+      "label": "Treaty of Hudaybiyyah",
+      "year_ph": 19,
+      "year_label": "6 AH · 628 CE",
+      "type": "event",
+      "short": "A peace treaty that looks like defeat is called by Allah 'a clear victory' — Surah Al-Fath revealed.",
+      "description": "The Prophet set out with 1,400 Companions for Umrah, only to be blocked at Hudaybiyyah. A 10-year peace treaty was signed on seemingly unfavourable terms: no Umrah that year, and Muslims who fled to Medina would be returned, but not vice versa. Many Companions were deeply troubled. Yet Allah immediately revealed Surah Al-Fath: 'Verily We have given you a clear victory.' Within two years, more people embraced Islam than in the previous 19 years combined."
+    },
+    {
+      "id": "khaybar",
+      "label": "Conquest of Khaybar",
+      "year_ph": 20,
+      "year_label": "7 AH · 628–629 CE",
+      "type": "battle",
+      "short": "The Prophet gives the battle flag to Ali, saying 'a man who loves Allah and His Messenger.'",
+      "description": "The oasis-fortress of Khaybar, north of Medina, had become a base for tribes hostile to the Muslim community. Before the final campaign, the Prophet announced he would give the flag to 'a man who loves Allah and His Messenger, and whom Allah and His Messenger love.' The next morning he called for Ali ibn Abi Talib (RA), healed his eye pain with his saliva, and sent him forward. Khaybar's inhabitants were allowed to remain, farming their land on a revenue-sharing basis."
+    },
+    {
+      "id": "conquest-mecca",
+      "label": "Conquest of Mecca",
+      "year_ph": 21,
+      "year_label": "8 AH · 630 CE",
+      "type": "event",
+      "short": "10,000 march on Mecca; the city surrenders bloodlessly; a general amnesty proclaimed.",
+      "description": "When the Quraysh violated the Treaty of Hudaybiyyah, the Prophet marched on Mecca with 10,000 — the largest Muslim force assembled. The city surrendered with almost no fighting. Standing at the door of the Ka'bah, the Prophet addressed the Quraysh — many of whom had spent twenty years persecuting him — and announced: 'There is no blame on you today. Go, for you are free.' The Ka'bah was purified of its 360 idols, and mass conversions followed immediately."
+    },
+    {
+      "id": "tabuk",
+      "label": "Tabuk and Year of Delegations",
+      "year_ph": 22,
+      "year_label": "9 AH · 630–631 CE",
+      "type": "event",
+      "short": "A gruelling expedition tests loyalty; delegations from all Arabia pour into Medina.",
+      "description": "The Prophet led an expedition to Tabuk through extreme summer heat, exposing those who refused to go. Surah At-Tawbah was revealed at length about this test, including the story of three Companions who stayed behind without excuse and were socially shunned for fifty days until Allah accepted their repentance. In the same year, tribes from across Arabia sent delegations to Medina pledging allegiance — Islam had become the dominant force on the peninsula."
+    },
+    {
+      "id": "farewell-pilgrimage",
+      "label": "Farewell Pilgrimage",
+      "year_ph": 23,
+      "year_label": "10 AH · 632 CE",
+      "type": "revelation",
+      "short": "The Prophet leads ~100,000 in Hajj; Al-Ma'idah 5:3 revealed: 'Today I have completed your religion.'",
+      "description": "The Prophet performed Hajj for the first and only time as leader of the Muslim community, accompanied by approximately 100,000 pilgrims. In his farewell sermon on the plains of Arafat, he declared the equality of all human beings and the sanctity of life, property, and honour. That same day, Al-Ma'idah 5:3 descended: 'Today I have completed your religion for you, perfected My favour upon you, and chosen Islam as your way of life.' He passed away 81 days later."
+    }
+  ],
+  "rulings": [
+    {
+      "id": "salah",
+      "label": "Salah (5 prayers)",
+      "icon": "🕌",
+      "year_ph": 11,
+      "description": "Ordained at the Mi'raj — the only pillar given directly in the heavens, not through Jibril. Originally 50 prayers were prescribed; reduced to 5 through the Prophet's intercession on Musa's advice, while retaining the reward of 50."
+    },
+    {
+      "id": "qibla",
+      "label": "Qibla → Makkah",
+      "icon": "🦭",
+      "year_ph": 14,
+      "description": "Direction of prayer changed from Jerusalem to the Ka'bah in Mecca, revealed in Al-Baqarah 2:144. Muslims in Medina turned mid-prayer when the verse arrived."
+    },
+    {
+      "id": "fasting",
+      "label": "Fasting (Ramadan)",
+      "icon": "🌙",
+      "year_ph": 15,
+      "description": "Fasting the entire month of Ramadan made obligatory in Al-Baqarah 2:183, replacing the single-day Ashura fast. Laylat al-Qadr is described as better than a thousand months."
+    },
+    {
+      "id": "zakat",
+      "label": "Zakat",
+      "icon": "✨",
+      "year_ph": 15,
+      "description": "A 2.5% annual levy on accumulated wealth above the nisab threshold, prescribed as the third pillar of Islam. The Quran pairs Zakat with Salah 82 times — treating charity as inseparable from prayer."
+    },
+    {
+      "id": "alcohol",
+      "label": "Alcohol Prohibited",
+      "icon": "🚫",
+      "year_ph": 18,
+      "description": "Prohibited in stages: first noting harm alongside benefit (2:219), then forbidding prayer while intoxicated (4:43), finally full prohibition as 'an abomination from Satan' (5:90-91). Completed by 5 AH."
+    },
+    {
+      "id": "hijab",
+      "label": "Hijab and Modesty",
+      "icon": "🌿",
+      "year_ph": 18,
+      "description": "An-Nur 24:30-31 and Al-Ahzab 33:59 established norms of modest dress for both men and women. The verses begin by instructing men to lower their gaze before addressing women's dress."
+    },
+    {
+      "id": "riba",
+      "label": "Riba Prohibited",
+      "icon": "⚖️",
+      "year_ph": 22,
+      "description": "Interest on loans prohibited in Al-Baqarah 2:275-279 — among the last major rulings revealed. 'Give up what remains of interest, if you are believers... and if you do not, then expect a declaration of war from Allah and His Messenger.'"
+    },
+    {
+      "id": "hajj",
+      "label": "Hajj (Pilgrimage)",
+      "icon": "🕋",
+      "year_ph": 22,
+      "description": "Pilgrimage to Mecca made obligatory for those able, established in Ali Imran 3:97. Its rites were demonstrated by the Prophet in his only Hajj (10 AH), which became the permanent model for the fifth pillar."
+    }
+  ]
+}

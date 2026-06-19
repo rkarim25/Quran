@@ -1,4 +1,4 @@
-const cache = { index: null, surahs: {}, pristine: {}, aiWbw: {} };
+const cache = { index: null, surahs: {}, pristine: {}, aiWbw: {}, timeline: null };
 const LS = {
   lastRead: "quran-last-read",
   recentReads: "quran-recent-reads",
@@ -338,6 +338,16 @@ async function loadAiWbw(n) {
     }
   }
   return cache.aiWbw[n];
+}
+
+async function loadTimeline() {
+  if (!cache.timeline) {
+    try {
+      const res = await fetch(`data/timeline.json?v=${DATA_VERSION}`);
+      cache.timeline = res.ok ? await res.json() : null;
+    } catch (_) { cache.timeline = null; }
+  }
+  return cache.timeline;
 }
 
 // ---- 15-line Madani mushaf view (QCF v2 page fonts, vendored for Juzʾ ʿAmma) ----
@@ -1073,6 +1083,7 @@ function panelContent(ayah) {
     return `<p class="panel-intro">When and why was this ayah revealed? Add the occasion of revelation (asbāb al-nuzūl).</p>
       <textarea class="reflection-area" id="context-input" placeholder="Revelation context…"></textarea><div class="save-status"></div>`;
   }
+  if (prefs.activePanel === "timeline") return renderTimelinePanel();
   if (prefs.activePanel === "tafsir") {
     let html = `<p class="panel-intro tafsir-intro">Concise commentary drawing on Ibn Kathir, Maarif ul Quran, classical scholars, and authenticated hadith.</p>`;
     if (ayah.qf_tafsir) {
@@ -1088,6 +1099,102 @@ function panelContent(ayah) {
   return "";
 }
 
+function renderTimelinePanel() {
+  const tl = cache.timeline;
+  if (!tl) return '<p class="panel-intro">Timeline loading…</p>';
+  const surahId = currentSurah?.id;
+  if (!surahId) return '<p class="empty-note">No surah loaded.</p>';
+
+  // attribute-safe escaper (esc() does not encode double-quotes)
+  const ea = s => String(s ?? "").replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+
+  const revOrder = tl.surah_revelation_order[String(surahId)] || 50;
+  const yearPh = revOrder <= 86
+    ? Math.max(1, Math.round(1 + (revOrder - 1) * 12 / 85))
+    : Math.min(23, Math.round(14 + (revOrder - 87) * 9 / 27));
+
+  const period = revOrder <= 33 ? "Early Mecca" : revOrder <= 55 ? "Middle Mecca" : revOrder <= 86 ? "Late Mecca" : "Medina";
+  const yearLabel = yearPh <= 13
+    ? `Year ${yearPh} of Prophethood · ${609 + yearPh} CE`
+    : `${yearPh - 13} AH · ${609 + yearPh} CE`;
+
+  // SVG geometry: viewBox 0 0 580 62, bar at y=20 h=8
+  const BAR_W = 580;
+  const EM_END = Math.round(6 / 22 * BAR_W);   // ~158 (end of early mecca, yr 7)
+  const LM_END = Math.round(12 / 22 * BAR_W);  // ~316 (Hijra, yr 13)
+  const yToX = y => Math.round((y - 1) / 22 * BAR_W);
+  const thisX = Math.max(5, Math.min(BAR_W - 5, yToX(yearPh)));
+
+  const TYPE_COLOR = { battle: "#b85c4a", ruling: "#1f6b52", revelation: "#9a8455", event: "#4a7c59" };
+  const dots = tl.events.map(e => {
+    const ex = yToX(e.year_ph);
+    const col = TYPE_COLOR[e.type] || "#4a7c59";
+    const r = e.type === "ruling" ? 5 : 4;
+    const op = e.year_ph <= yearPh ? 1 : 0.3;
+    return `<circle class="tl-evt-dot" cx="${ex}" cy="24" r="${r}" fill="${col}" opacity="${op}" data-label="${ea(e.label)}" data-year="${ea(e.year_label)}" data-short="${ea(e.short)}"/>`;
+  }).join("\n    ");
+
+  const svg = `<svg class="tl-svg" viewBox="0 0 580 62" xmlns="http://www.w3.org/2000/svg">
+    <text x="${Math.round(EM_END / 2)}" y="12" text-anchor="middle" font-size="7.5" fill="#9a7a30" font-family="Inter,sans-serif">Early Mecca</text>
+    <text x="${Math.round((EM_END + LM_END) / 2)}" y="12" text-anchor="middle" font-size="7.5" fill="#6b4f1a" font-family="Inter,sans-serif">Late Mecca</text>
+    <text x="${Math.round((LM_END + BAR_W) / 2)}" y="12" text-anchor="middle" font-size="7.5" fill="#1f6b52" font-family="Inter,sans-serif">Medina</text>
+    <rect x="0" y="16" width="${EM_END}" height="9" fill="#c4a96a" rx="2"/>
+    <rect x="${EM_END}" y="16" width="${LM_END - EM_END}" height="9" fill="#8b6914" rx="2"/>
+    <rect x="${LM_END}" y="16" width="${BAR_W - LM_END}" height="9" fill="#1f6b52" rx="2"/>
+    ${dots}
+    <line x1="${thisX}" y1="10" x2="${thisX}" y2="36" stroke="#9a8455" stroke-width="2" stroke-dasharray="4,3"/>
+    <polygon points="${thisX - 5},36 ${thisX + 5},36 ${thisX},46" fill="#9a8455"/>
+  </svg>`;
+
+  const pastEvents = tl.events.filter(e => e.year_ph <= yearPh);
+  const ctxEvent = pastEvents.length ? pastEvents[pastEvents.length - 1] : null;
+  const before = pastEvents.slice(-4).reverse();
+  const after = tl.events.filter(e => e.year_ph > yearPh).slice(0, 3);
+
+  const rulingBadges = tl.rulings.map(r => {
+    const on = r.year_ph <= yearPh;
+    return `<span class="tl-ruling ${on ? "tl-r-on" : "tl-r-off"}" title="${ea(r.description)}">${r.icon} ${esc(r.label)}${on ? "" : '<span class="tl-r-not"> not yet</span>'}</span>`;
+  }).join(" ");
+
+  const typeClass = { battle: "tl-ev-battle", ruling: "tl-ev-ruling", revelation: "tl-ev-revelation", event: "tl-ev-event" };
+  const beforeHtml = before.length
+    ? before.map(e => `<div class="tl-ev ${typeClass[e.type] || "tl-ev-event"}"><span class="tl-ev-name">${esc(e.label)}</span><span class="tl-ev-yr">${esc(e.year_label)}</span></div>`).join("")
+    : `<p class="tl-empty">Near the very beginning.</p>`;
+
+  const afterHtml = after.length
+    ? after.map(e => `<div class="tl-ev tl-ev-coming"><span class="tl-ev-name">${esc(e.label)}</span><span class="tl-ev-yr">${esc(e.year_label)}</span></div>`).join("")
+    : `<p class="tl-empty">Near the end of revelation.</p>`;
+
+  return `<div class="tl-panel">
+    <div class="tl-hdr"><span class="tl-period-tag">${period}</span><span class="tl-year-tag">${yearLabel}</span></div>
+    <div class="tl-svg-wrap"><div class="tl-tip" id="tl-tt"></div>${svg}</div>
+    ${ctxEvent ? `<div class="tl-ctx"><div class="tl-ctx-lbl">When this was being revealed</div><p class="tl-ctx-txt">${esc(ctxEvent.description)}</p></div>` : ""}
+    <div class="tl-rulings-sec"><div class="tl-sec-hd">Rulings in effect at this point</div><div class="tl-rulings-row">${rulingBadges}</div></div>
+    <div class="tl-evts">
+      <div class="tl-col"><div class="tl-sec-hd tl-sec-bef">Already happened</div>${beforeHtml}</div>
+      <div class="tl-col"><div class="tl-sec-hd tl-sec-aft">Still to come</div>${afterHtml}</div>
+    </div>
+  </div>`;
+}
+
+function bindTimelineEvents(block) {
+  const tip = block.querySelector("#tl-tt");
+  if (!tip) return;
+  block.querySelectorAll(".tl-evt-dot").forEach(dot => {
+    dot.addEventListener("mouseenter", () => {
+      tip.innerHTML = `<strong>${esc(dot.dataset.label)}</strong><em>${esc(dot.dataset.year)}</em>${esc(dot.dataset.short)}`;
+      tip.style.opacity = "1";
+    });
+    dot.addEventListener("mousemove", e => {
+      const wrap = block.querySelector(".tl-svg-wrap")?.getBoundingClientRect();
+      if (!wrap) return;
+      tip.style.left = (e.clientX - wrap.left + 10) + "px";
+      tip.style.top = Math.max(0, e.clientY - wrap.top - 64) + "px";
+    });
+    dot.addEventListener("mouseleave", () => { tip.style.opacity = "0"; });
+  });
+}
+
 function studyPanelHtml(ayah) {
   // Context tab removed for now — to be revamped and reinstated later. The
   // panelContent("context") branch and bindContextInput are kept for that.
@@ -1098,6 +1205,7 @@ function studyPanelHtml(ayah) {
         <div class="panel-tabs">
           <button type="button" class="btn panel-tab ${prefs.activePanel === "reflection" ? "active" : ""}" data-panel="reflection">Tadabbur</button>
           <button type="button" class="btn panel-tab ${prefs.activePanel === "tafsir" ? "active" : ""}" data-panel="tafsir">Tafsir</button>
+          <button type="button" class="btn panel-tab ${prefs.activePanel === "timeline" ? "active" : ""}" data-panel="timeline">Timeline</button>
         </div>
         <button type="button" class="study-close-btn" data-action="close-study" aria-label="Close">×</button>
       </div>
@@ -1145,16 +1253,29 @@ function bindStudyPanelEvents(block) {
   bindContextInput(block);
 
   block.querySelectorAll(".panel-tab").forEach((btn) => {
-    btn.addEventListener("click", (e) => {
+    btn.addEventListener("click", async (e) => {
       e.stopPropagation();
       prefs.activePanel = btn.dataset.panel;
       savePrefs();
       block.querySelectorAll(".panel-tab").forEach((b) => b.classList.toggle("active", b === btn));
+      if (btn.dataset.panel === "timeline" && !cache.timeline) {
+        block.querySelector(".study-panel-body").innerHTML = '<p class="panel-intro">Loading timeline…</p>';
+        await loadTimeline();
+      }
       block.querySelector(".study-panel-body").innerHTML = panelContent(selectedAyah);
       bindReflectionInput(block);
       bindContextInput(block);
+      bindTimelineEvents(block);
     });
   });
+  if (prefs.activePanel === "timeline" && !cache.timeline) {
+    loadTimeline().then(() => {
+      const body = block.querySelector(".study-panel-body");
+      if (body) { body.innerHTML = panelContent(selectedAyah); bindTimelineEvents(block); }
+    });
+  } else {
+    bindTimelineEvents(block);
+  }
 }
 
 function openStudyPanel(ayahNum) {
