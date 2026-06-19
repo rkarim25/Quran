@@ -54,6 +54,10 @@ function loadPrefs() {
     merged.editsFilter = { ...DEFAULT_PREFS.editsFilter, ...(raw.editsFilter || {}) };
     merged.bookContent = { ...DEFAULT_PREFS.bookContent, ...(raw.bookContent || {}) };
     merged.studyShow = { ...DEFAULT_PREFS.studyShow, ...(raw.studyShow || {}) };
+    // Book's tafsir toggles moved into the shared studyShow group — carry them over.
+    for (const k of ["aiTafsir", "ibnKathir", "maarif"]) {
+      if (merged.bookContent?.[k] && raw.studyShow?.[k] === undefined) merged.studyShow[k] = true;
+    }
     return merged;
   } catch {
     return { ...DEFAULT_PREFS };
@@ -698,15 +702,23 @@ function bookAyahSpan(ayah, surahId) {
     </span>`;
 }
 
-function bookTafsirBlock(ayah, surahId) {
-  const c = prefs.bookContent || {};
+// Per-ayah study extras for book view (tadabbur + tafsir), driven by studyShow
+// + per-ayah overrides — the same model as verse/wbw.
+function bookExtrasBlock(ayah, surahId) {
+  const ayahN = ayah.ayah;
   const m = mergeLocalEdits(ayah, surahId);
-  let inner = "";
-  if (c.aiTafsir && m.ai_tafsir) inner += `<div class="bt-block"><span class="bt-label">AI Tafsir</span><div class="bt-body">${md(m.ai_tafsir)}</div></div>`;
-  if (c.ibnKathir && m.tafsir_ibn_kathir) inner += `<div class="bt-block"><span class="bt-label">Ibn Kathir</span><div class="bt-body">${md(m.tafsir_ibn_kathir)}</div></div>`;
-  if (c.maarif && m.maarif_ul_quran) inner += `<div class="bt-block"><span class="bt-label">Maarif ul Quran</span><div class="bt-body">${md(m.maarif_ul_quran)}</div></div>`;
-  if (!inner) return "";
-  return `<div class="book-tafsir-ayah" data-ayah="${ayah.ayah}"><span class="bt-ayah-num">Ayah ${ayah.ayah}</span>${inner}</div>`;
+  const parts = [];
+  if (effectiveShow(surahId, ayahN, "tadabbur")) {
+    parts.push(`<div class="ax-tadabbur"><div class="ax-label">Tadabbur</div><textarea class="ax-tadabbur-input" data-s="${surahId}" data-a="${ayahN}" rows="2" placeholder="Your tadabbur — what does this ayah move in your heart?">${esc(m.personal_reflections || "")}</textarea><div class="ax-save-status"></div></div>`);
+  }
+  for (const key of ["aiTafsir", "ibnKathir", "maarif"]) {
+    if (!effectiveShow(surahId, ayahN, key)) continue;
+    const text = tafsirFieldFor(m, key);
+    if (!text) continue;
+    parts.push(`<details class="ax-tafsir" open><summary>${esc(STUDY_LABELS[key])}</summary><div class="ax-tafsir-body">${md(text)}</div></details>`);
+  }
+  if (!parts.length) return "";
+  return `<div class="book-study-ayah" data-ayah="${ayahN}"><span class="bt-ayah-num">Ayah ${ayahN}</span>${parts.join("")}</div>`;
 }
 
 // Build the selected content sections (Arabic / translit / translation / AI / tafsir)
@@ -729,10 +741,8 @@ function bookSectionsFor(ayahs, surahId, c) {
     const f = ayahs.map((a) => { const m = mergeLocalEdits(a, surahId); const t = m.ai_translation || ""; return t ? `<span class="book-trans-seg" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${esc(t)}${sajdahInlineHtml(surahId, a.ayah)}</span>` : ""; }).filter(Boolean).join(" ");
     if (f) sec.push(`<section class="book-section book-translation-section ai-mode" aria-label="AI translation"><p class="book-flow translation-flow">${f}</p></section>`);
   }
-  if (c.aiTafsir || c.ibnKathir || c.maarif) {
-    const blocks = ayahs.map((a) => bookTafsirBlock(a, surahId)).filter(Boolean).join("");
-    if (blocks) sec.push(`<section class="book-section book-tafsir-section" aria-label="Tafsir">${blocks}</section>`);
-  }
+  const studyBlocks = ayahs.map((a) => bookExtrasBlock(a, surahId)).filter(Boolean).join("");
+  if (studyBlocks) sec.push(`<section class="book-section book-tafsir-section" aria-label="Study">${studyBlocks}</section>`);
   return sec;
 }
 
@@ -813,15 +823,15 @@ function contentMenuHtml(data) {
     const rm = [["arabic", "Arabic only"], ["translation", "Translation"], ["ai", "AI Translation"]];
     sections.push(`<div class="cm-group"><div class="cm-group-label">Reading mode</div>${rm.map(([k, lbl]) => `<label class="cm-item"><input type="radio" name="cm-readmode" data-rm="${k}" ${prefs.readMode === k ? "checked" : ""}> ${lbl}</label>`).join("")}</div>`);
     sections.push(`<label class="cm-item"><input type="checkbox" data-translit ${prefs.showTransliteration ? "checked" : ""}> Transliteration</label>`);
-    // Tadabbur + tafsir under every ayah (whole view); also toggleable per-ayah via ☰.
-    const sx = STUDY_KEYS.map((k) => `<label class="cm-item"><input type="checkbox" data-sx="${k}" ${prefs.studyShow?.[k] ? "checked" : ""}> ${esc(STUDY_LABELS[k])}</label>`).join("");
-    sections.push(`<div class="cm-group"><div class="cm-group-label">Study (whole view)</div>${sx}</div>`);
   }
   if (lm === "book") {
-    const bc = [["arabic", "Arabic"], ["translit", "Transliteration"], ["translation", "Translation"], ["aiTranslation", "AI translation"], ["aiTafsir", "AI Tafsir"], ["ibnKathir", "Ibn Kathīr"], ["maarif", "Maʿārif ul Qurʼān"]];
+    const bc = [["arabic", "Arabic"], ["translit", "Transliteration"], ["translation", "Translation"], ["aiTranslation", "AI translation"]];
     sections.push(`<div class="cm-group"><div class="cm-group-label">Show</div>${bc.map(([k, lbl]) => `<label class="cm-item"><input type="checkbox" data-bc="${k}" ${prefs.bookContent[k] ? "checked" : ""}> ${lbl}</label>`).join("")}</div>`);
   }
   if (lm !== "mushaf") {
+    // Tadabbur + tafsir under every ayah (whole view); also toggleable per-ayah via ☰.
+    const sx = STUDY_KEYS.map((k) => `<label class="cm-item"><input type="checkbox" data-sx="${k}" ${prefs.studyShow?.[k] ? "checked" : ""}> ${esc(STUDY_LABELS[k])}</label>`).join("");
+    sections.push(`<div class="cm-group"><div class="cm-group-label">Study (whole view)</div>${sx}</div>`);
     const ev = [["mine", "My edits"], ["original", "Original"], ["both", "Both"]];
     sections.push(`<div class="cm-group"><div class="cm-group-label">Edit version</div>${ev.map(([k, lbl]) => `<label class="cm-item"><input type="radio" name="cm-editview" data-ev="${k}" ${prefs.editView === k ? "checked" : ""}> ${lbl}</label>`).join("")}</div>`);
   }

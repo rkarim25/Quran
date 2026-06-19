@@ -2692,6 +2692,8 @@ a:focus-visible, button:focus-visible, select:focus-visible, input:focus-visible
 /* book-view tafsir blocks */
 .book-tafsir-section { margin-top: 1.25rem; max-width: var(--mushaf-width); margin-left: auto; margin-right: auto; }
 .book-tafsir-ayah { padding: 1rem 0; border-top: 1px solid rgba(154,132,85,0.18); }
+.book-study-ayah { padding: 1rem 0; border-top: 1px solid rgba(154,132,85,0.18); display: flex; flex-direction: column; gap: 0.7rem; }
+.book-study-ayah .bt-ayah-num { margin-bottom: 0; }
 .bt-ayah-num { display: inline-block; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.04em; color: var(--gold-muted); margin-bottom: 0.5rem; }
 .bt-block { margin-bottom: 1rem; }
 .bt-label { display: block; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--green); font-weight: 600; margin-bottom: 0.35rem; }
