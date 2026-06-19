@@ -27,6 +27,16 @@ let booted = false; // true once the app has rendered; gates the fatal-error ove
 // Surah → first juz it appears in (index 0 unused; 1-indexed).
 const SURAH_JUZ = [0,1,1,3,4,6,7,8,9,10,11,11,12,13,13,14,14,15,15,16,16,17,17,18,18,18,19,19,20,20,21,21,21,21,22,22,22,23,23,23,24,24,25,25,25,25,26,26,26,26,26,26,27,27,27,27,27,27,28,28,28,28,28,28,28,28,28,29,29,29,29,29,29,29,29,29,29,29,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30];
 
+// Juz N -> { s: surah, a: ayah } where that juz begins (standard Hafs divisions).
+const JUZ_START = {
+  1:{s:1,a:1}, 2:{s:2,a:142}, 3:{s:2,a:253}, 4:{s:3,a:93}, 5:{s:4,a:24},
+  6:{s:4,a:148}, 7:{s:5,a:82}, 8:{s:6,a:111}, 9:{s:7,a:88}, 10:{s:8,a:41},
+  11:{s:9,a:93}, 12:{s:11,a:6}, 13:{s:12,a:53}, 14:{s:15,a:1}, 15:{s:17,a:1},
+  16:{s:18,a:75}, 17:{s:21,a:1}, 18:{s:23,a:1}, 19:{s:25,a:21}, 20:{s:27,a:56},
+  21:{s:29,a:46}, 22:{s:33,a:31}, 23:{s:36,a:28}, 24:{s:39,a:32}, 25:{s:41,a:47},
+  26:{s:46,a:1}, 27:{s:51,a:31}, 28:{s:58,a:1}, 29:{s:67,a:1}, 30:{s:78,a:1}
+};
+
 const DEFAULT_PREFS = {
   readMode: "translation",
   showTransliteration: false,
@@ -2711,18 +2721,24 @@ function resumeCardHtml(entry, surahs, { showLabel = false } = {}) {
 }
 
 function juzGridHtml(surahs) {
-  const groups = {};
+  const byId = {};
+  for (const s of surahs) byId[s.id] = s;
+  const startsIn = {};
   for (const s of surahs) {
     const j = SURAH_JUZ[s.id] || 1;
-    if (!groups[j]) groups[j] = [];
-    groups[j].push(s);
+    (startsIn[j] = startsIn[j] || []).push(s);
   }
-  return Object.keys(groups).sort((a, b) => +a - +b).map(j => `
-    <div class="juz-group">
-      <div class="juz-header">Juz ${j}</div>
-      <div class="surah-grid juz-surah-grid">${groups[j].map(s => surahCard(s)).join("")}</div>
-    </div>
-  `).join("");
+  let html = "";
+  for (let j = 1; j <= 30; j++) {
+    const start = JUZ_START[j];
+    const contS = start && start.a > 1 ? byId[start.s] : null;
+    const cont = contS
+      ? `<a href="#/${start.s}/${start.a}" class="juz-cont">\u21b3 continues ${esc(contS.translated_name)} \u00b7 from ${start.s}:${start.a}</a>`
+      : "";
+    const cards = (startsIn[j] || []).map(s => surahCard(s)).join("");
+    html += `<div class="juz-group"><div class="juz-header">Juz ${j}</div>${cont}<div class="surah-grid juz-surah-grid">${cards}</div></div>`;
+  }
+  return html;
 }
 
 function bindHomeViewToggle(surahs) {

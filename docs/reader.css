@@ -902,12 +902,21 @@ body {
   border-bottom: 2px solid var(--green-light);
 }
 .juz-surah-grid { margin: 0; }
+.juz-cont {
+  display: inline-block; margin: 0 0 0.55rem; font-family: var(--font-ui);
+  font-size: 0.74rem; color: var(--muted); text-decoration: none;
+  font-style: italic; transition: color 0.12s;
+}
+.juz-cont:hover { color: var(--green); text-decoration: underline; }
+.juz-group:has(.juz-surah-grid:empty) { opacity: 0.92; }
 
 .surah-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
   gap: 0.75rem;
 }
+/* hidden attribute must win over display:grid for the toggle to work */
+.surah-grid[hidden], #juz-grid[hidden] { display: none; }
 
 .surah-card {
   text-decoration: none;
