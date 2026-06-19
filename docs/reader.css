@@ -3449,3 +3449,75 @@ html[data-theme="night"] .phs-n          { color: #7dcfaa; }
 /* Night mode */
 html[data-theme="night"] .isnad-source-hd { color: #9b9287; }
 html[data-theme="night"] .network-svg { color: var(--text-night, #d8d0c4); }
+
+/* ─── Duas page ─── */
+.duas-page { max-width: 760px; margin: 0 auto; padding: 0.5rem 0 2rem; }
+.duas-intro { text-align: center; margin-bottom: 1.4rem; }
+.duas-title {
+  font-family: var(--font-arabic-alt, serif); font-size: 1.85rem; font-weight: 700;
+  color: var(--green); margin: 0 0 0.35rem;
+}
+.duas-sub { font-family: var(--font-ui); font-size: 0.9rem; color: var(--muted); margin: 0 auto; max-width: 46ch; line-height: 1.5; }
+
+.dua-filters {
+  display: flex; flex-wrap: wrap; gap: 0.45rem; justify-content: center;
+  margin-bottom: 1.4rem; padding-bottom: 1.1rem; border-bottom: 1px solid var(--paper-shadow);
+  scroll-margin-top: 80px;
+}
+.dua-chip {
+  font-family: var(--font-ui); font-size: 0.78rem; font-weight: 500;
+  padding: 0.4rem 0.8rem; border-radius: 20px; cursor: pointer;
+  background: var(--paper); border: 1px solid var(--paper-shadow); color: var(--ink-soft);
+  transition: background 0.14s, color 0.14s, border-color 0.14s;
+}
+.dua-chip:hover { border-color: var(--green); color: var(--green); }
+.dua-chip.active { background: var(--green); border-color: var(--green); color: #fff; }
+.dua-chip-n { font-size: 0.68rem; opacity: 0.7; margin-left: 0.15rem; }
+.dua-chip.active .dua-chip-n { opacity: 0.85; }
+
+.dua-list { display: flex; flex-direction: column; gap: 1.1rem; }
+.dua-card {
+  background: var(--paper); border: 1px solid var(--paper-shadow);
+  border-left: 4px solid var(--green); border-radius: var(--radius-sm);
+  padding: 1.1rem 1.25rem 1rem; scroll-margin-top: 80px;
+  transition: box-shadow 0.18s, border-color 0.18s;
+}
+.dua-card:hover { box-shadow: 0 4px 18px rgba(31,107,82,0.08); }
+.dua-focus { border-left-color: var(--gold-soft); box-shadow: 0 0 0 2px var(--green-light); }
+.dua-card-hd { display: flex; align-items: baseline; justify-content: space-between; gap: 0.75rem; margin-bottom: 0.55rem; }
+.dua-card-title { font-family: var(--font-ui); font-size: 1.08rem; font-weight: 700; color: var(--ink-soft); margin: 0; }
+.dua-ref {
+  font-family: var(--font-ui); font-size: 0.74rem; font-weight: 600; white-space: nowrap;
+  color: var(--green); background: var(--green-light); padding: 0.2rem 0.55rem;
+  border-radius: 20px; text-decoration: none; flex-shrink: 0;
+}
+.dua-ref:hover { background: var(--green); color: #fff; }
+.dua-tag {
+  display: inline-block; font-family: var(--font-ui); font-size: 0.62rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: 0.07em; color: var(--gold-muted, #9a8455);
+  margin-right: 0.4rem; vertical-align: 0.05em;
+}
+.dua-tag-when { color: var(--green); }
+.dua-who { font-family: var(--font-ui); font-size: 0.9rem; color: var(--ink-soft); margin-bottom: 0.9rem; }
+.dua-arabic {
+  font-family: var(--font-arabic); direction: rtl; text-align: right;
+  font-size: 1.7rem; line-height: 2.2; color: var(--ink); margin: 0 0 0.7rem;
+}
+.dua-trans { font-size: 1rem; line-height: 1.7; color: var(--ink-soft); margin: 0 0 0.9rem; }
+.dua-situation {
+  font-family: var(--font-ui); font-size: 0.88rem; line-height: 1.6; color: var(--ink-soft);
+  background: var(--green-light); border-radius: var(--radius-sm); padding: 0.7rem 0.85rem; margin-bottom: 0.85rem;
+}
+.dua-read { font-family: var(--font-ui); font-size: 0.82rem; font-weight: 600; color: var(--green); text-decoration: none; }
+.dua-read:hover { text-decoration: underline; }
+
+@media (max-width: 600px) {
+  .dua-arabic { font-size: 1.45rem; line-height: 2; }
+  .dua-card { padding: 0.95rem 1rem; }
+  .duas-title { font-size: 1.55rem; }
+}
+
+html[data-theme="night"] .dua-card { background: rgba(255,255,255,0.04); }
+html[data-theme="night"] .dua-chip { background: rgba(255,255,255,0.04); }
+html[data-theme="night"] .dua-situation { background: rgba(31,107,82,0.12); }
+html[data-theme="night"] .dua-ref { background: rgba(31,107,82,0.18); }

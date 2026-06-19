@@ -1,4 +1,4 @@
-const cache = { index: null, surahs: {}, pristine: {}, aiWbw: {}, timeline: null, hadithIndex: null, hadithMap: null, asbabNuzul: null, people: null, peopleHadith: null };
+const cache = { index: null, surahs: {}, pristine: {}, aiWbw: {}, timeline: null, hadithIndex: null, hadithMap: null, asbabNuzul: null, people: null, peopleHadith: null, duas: null };
 const LS = {
   lastRead: "quran-last-read",
   recentReads: "quran-recent-reads",
@@ -321,6 +321,7 @@ function route() {
   if (parts[0] === "bookmarks") return { view: "bookmarks" };
   if (parts[0] === "tadabbur") return { view: "tadabbur" };
   if (parts[0] === "edits") return { view: "edits" };
+  if (parts[0] === "duas") return { view: "duas", id: parts[1] || null };
   if (parts.length === 1) return { view: "surah", surah: +parts[0], ayah: null };
   const study = parts[2] === "study";
   return { view: "surah", surah: +parts[0], ayah: +parts[1], study };
@@ -331,6 +332,17 @@ const DATA_VERSION = "21";
 async function loadIndex() {
   if (!cache.index) cache.index = await (await fetch(`data/index.json?v=${DATA_VERSION}`)).json();
   return cache.index;
+}
+
+async function loadDuas() {
+  if (cache.duas === null) {
+    try {
+      cache.duas = await (await fetch(`data/duas.json?v=${DATA_VERSION}`)).json();
+    } catch (_) {
+      cache.duas = [];
+    }
+  }
+  return cache.duas;
 }
 
 async function loadSurah(n) {
@@ -2910,6 +2922,69 @@ function renderEdits() {
   }));
 }
 
+async function renderDuas(focusId) {
+  setBreadcrumb(`<a href="#/">Home</a> › Duas`);
+  const app = document.getElementById("app");
+  app.innerHTML = `<p class="loading">Loading duas…</p>`;
+  const duas = await loadDuas();
+  if (!duas || !duas.length) {
+    app.innerHTML = `<p class="loading">Couldn't load the duas.</p>`;
+    return;
+  }
+  const themes = [...new Set(duas.map((d) => d.theme))];
+  app.innerHTML = `
+    <div class="duas-page">
+      <header class="duas-intro">
+        <h1 class="duas-title">Duas of the Qur'an</h1>
+        <p class="duas-sub">${duas.length} supplications made by the prophets and the believers — each with who said it and the moment behind it.</p>
+      </header>
+      <div class="dua-filters" id="dua-filters">
+        <button type="button" class="dua-chip active" data-theme="all">All <span class="dua-chip-n">${duas.length}</span></button>
+        ${themes
+          .map(
+            (t) =>
+              `<button type="button" class="dua-chip" data-theme="${esc(t)}">${esc(t)} <span class="dua-chip-n">${duas.filter((d) => d.theme === t).length}</span></button>`
+          )
+          .join("")}
+      </div>
+      <div class="dua-list" id="dua-list"></div>
+    </div>`;
+  const listEl = document.getElementById("dua-list");
+  function renderList(theme) {
+    const items = theme === "all" ? duas : duas.filter((d) => d.theme === theme);
+    listEl.innerHTML = items.map(duaCard).join("");
+  }
+  renderList("all");
+  document.querySelectorAll(".dua-chip").forEach((chip) => {
+    chip.addEventListener("click", () => {
+      document.querySelectorAll(".dua-chip").forEach((c) => c.classList.toggle("active", c === chip));
+      renderList(chip.dataset.theme);
+      document.getElementById("dua-filters").scrollIntoView({ block: "start", behavior: "smooth" });
+    });
+  });
+  if (focusId) {
+    const el = document.getElementById(`dua-${focusId}`);
+    if (el) {
+      el.scrollIntoView({ behavior: "smooth", block: "center" });
+      el.classList.add("dua-focus");
+    }
+  }
+}
+
+function duaCard(d) {
+  return `<article class="dua-card" id="dua-${esc(d.id)}">
+    <div class="dua-card-hd">
+      <h2 class="dua-card-title">${esc(d.title)}</h2>
+      <a href="#/${d.surah}/${d.ayah}" class="dua-ref" title="Read in context">${esc(d.ref)}</a>
+    </div>
+    <div class="dua-who"><span class="dua-tag">Said by</span> ${esc(d.who)}</div>
+    <p class="dua-arabic" dir="rtl" lang="ar">${esc(d.arabic)}</p>
+    <p class="dua-trans">${esc(d.translation)}</p>
+    <div class="dua-situation"><span class="dua-tag dua-tag-when">When &amp; why</span> ${esc(d.situation)}</div>
+    <a href="#/${d.surah}/${d.ayah}" class="dua-read">Read in context →</a>
+  </article>`;
+}
+
 function renderBookmarks() {
   setBreadcrumb(`<a href="#/">Home</a> › Bookmarks`);
   const list = getBookmarks();
@@ -3132,6 +3207,10 @@ async function render() {
     } else if (r.view === "edits") {
       currentSurah = null;
       renderEdits();
+    } else if (r.view === "duas") {
+      currentSurah = null;
+      selectedAyah = null;
+      await renderDuas(r.id);
     } else if (r.view === "surah") {
       const sameSurah = currentSurah?.id === r.surah;
       if (sameSurah && r.ayah && !r.study) {
