@@ -2919,33 +2919,44 @@ html[data-theme="night"] .mb-frame { background: linear-gradient(135deg, rgba(20
 
 
 /* ============================================================
-   PRINT v8 — mobile-safe frame (no position:fixed).
-   position:fixed overlays repeat per page on DESKTOP Chromium but break on
-   MOBILE: phones anchor them to the device viewport, so the rule landed at the
-   wrong offset (cutting the title) and spanned both pages instead of repeating.
-   Draw the gold rule + parchment tint on the content box itself and let
-   box-decoration-break:clone reprint the border on each page fragment — that
-   works the same in every browser. Pin to absolute mm widths so the sheet maps
-   to the real page, not the phone viewport. */
+   PRINT v8 — per-page closed frame, drawn by the table itself (mobile-safe).
+   Each āyah / header / page-mark is its own <tbody> row. With many rows flowing
+   across pages, Chromium (and mobile) reprint <thead> and <tfoot> on EVERY page,
+   so the gold rule closes top + bottom on each page; the row cells carry the
+   sides. position:fixed overlays (broken on phones) and box-decoration-break
+   (slices, leaving page 1 open) are both retired. Absolute mm widths keep it
+   mapped to the real sheet, not the device viewport. */
 @media print {
-  /* retire every fixed overlay */
   #print-root::before, #print-root::after, body::before { display: none !important; }
 
   html, body { width: 210mm !important; }
   #print-root { width: 210mm !important; padding: 0 !important; background: transparent !important; }
 
-  /* collapse the table chrome (edge spacers + per-page footer) and run the frame
-     as one bordered block that clones its border onto every printed page */
-  .pr-frame, .pr-frame > tbody, .pr-frame > tbody > tr { display: block !important; }
-  .pr-frame > thead, .pr-frame > tfoot { display: none !important; }
-  .pr-frame { width: 190mm !important; margin: 0 auto !important; }
-  .pr-cell {
-    display: block !important;
-    border: 1.4pt solid #b1922f !important;
-    background: #fdfbf4 !important;
-    padding: 9mm 12mm 10mm !important;
-    -webkit-box-decoration-break: clone; box-decoration-break: clone;
+  .pr-frame { border-collapse: collapse !important; width: 190mm !important; margin: 0 auto !important; }
+
+  /* page-edge spacers (no rule) inset the frame from the very page edge */
+  .pr-edge { border: 0 !important; height: 8mm !important; background: none !important; padding: 0 !important; }
+
+  /* top rule (reprinted by thead) + bottom rule (reprinted by tfoot) */
+  .pr-geo, .pr-geo-top, .pr-geo-bot { background: none !important; background-image: none !important; height: 3mm !important; padding: 0 !important; }
+  .pr-geo-top { border: 1.4pt solid #b1922f !important; border-bottom: 0 !important; }
+  .pr-geo-bot { border: 1.4pt solid #b1922f !important; border-top: 0 !important; }
+  .pr-foot { border-left: 1.4pt solid #b1922f !important; border-right: 1.4pt solid #b1922f !important; }
+
+  /* every content row: continuous gold sides + parchment tint */
+  .pr-rc {
+    border-left: 1.4pt solid #b1922f !important; border-right: 1.4pt solid #b1922f !important;
+    background: #fdfbf4 !important; padding: 0 12mm !important; vertical-align: top;
   }
+  .pr-rc.pr-rc-head { padding-top: 2.5mm !important; }
+  .pr-rc.pr-rc-end { padding-bottom: 4mm !important; }
+
+  /* tighter ayah rhythm so short sūrahs stay on one page */
+  .pr-ayah { break-inside: avoid; margin: 0 !important; padding: 2.6mm 0 !important; }
+  .pr-ar { line-height: 1.95 !important; margin-bottom: 1mm !important; }
+  .pr-tr, .pr-tr-block { line-height: 1.45 !important; }
+  .pr-surah-head { margin: 0 !important; padding: 2mm 3mm !important; }
+  .pr-bismillah { margin: 1.5mm 0 0 !important; }
 
   /* landscape side-by-side: just the wider sheet */
   html:has(#print-root.layout-facing), body:has(#print-root.layout-facing),

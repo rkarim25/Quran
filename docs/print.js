@@ -121,6 +121,11 @@
       ${withBismillah ? `<div class="pr-bismillah" dir="rtl" lang="ar">${esc2(bism)}</div>` : ""}`;
   }
 
+  // Each content block is its own table row in the frame's <tbody>. Many rows (vs
+  // one giant cell) is what makes <thead>/<tfoot> reprint the top/bottom rule on
+  // EVERY printed page, so the gold frame closes per page — on mobile and desktop.
+  const ROW = (html, cls) => `<tr><td class="pr-rc${cls ? " " + cls : ""}">${html}</td></tr>`;
+
   async function renderAyahMode(group, sdata, opt, pageOf, juzOf, state) {
     const byNum = {}; for (const a of sdata.ayahs) byNum[a.ayah] = a;
     let h = "";
@@ -128,13 +133,13 @@
       const ay0 = byNum[num]; if (!ay0) continue;
       const ay = effAyah(ay0, group.surah, opt);
       const pg = pageOf[group.surah + ":" + num];
-      if (pg > state.lastPage) { h += pageMark(pg, juzOf[group.surah + ":" + num]); state.lastPage = pg; }
+      if (pg > state.lastPage) { h += ROW(pageMark(pg, juzOf[group.surah + ":" + num]), "pr-rc-pm"); state.lastPage = pg; }
       const ar = opt.arabic ? `<div class="pr-ar" dir="rtl" lang="ar">${esc2(arabicOf(ay0))} ${rosette(num)}</div>` : `<div class="pr-aynum">${num}</div>`;
       const tl = opt.translit ? `<div class="pr-tl" dir="ltr">${esc2(translitOf(ay))}</div>` : "";
       const tr = opt.translation ? `<div class="pr-tr">${esc2(translationOf(ay, trSrc(opt)))}</div>` : "";
       const tad = ay._tadabbur ? tadabburHtml(ay._tadabbur) : "";
       const taf = tafsirBlocksHtml(ay0, opt);
-      h += `<div class="pr-ayah">${ar}${tl}${tr}${tad}${taf}</div>`;
+      h += ROW(`<div class="pr-ayah">${ar}${tl}${tr}${tad}${taf}</div>`);
     }
     return h;
   }
@@ -166,7 +171,7 @@
       const ay0 = byNum[num]; if (!ay0) continue;
       const ay = effAyah(ay0, group.surah, opt);
       const pg = pageOf[group.surah + ":" + num];
-      if (pg > state.lastPage) { h += pageMark(pg, juzOf[group.surah + ":" + num]); state.lastPage = pg; }
+      if (pg > state.lastPage) { h += ROW(pageMark(pg, juzOf[group.surah + ":" + num]), "pr-rc-pm"); state.lastPage = pg; }
       const cells = words(ay).map((w) => {
         const tl = opt.translit && w.transliteration ? `<div class="pr-wbw-tl">${esc2(w.transliteration)}</div>` : "";
         const tr = opt.translation && w.translation ? `<div class="pr-wbw-tr">${esc2(w.translation)}</div>` : "";
@@ -177,7 +182,7 @@
       const full = fullText ? `<div class="pr-wbw-full${useAi ? " pr-ai" : ""}">${useAi ? '<span class="pr-ai-tag">AI</span> ' : ""}${esc2(fullText)}</div>` : "";
       const tad = ay._tadabbur ? tadabburHtml(ay._tadabbur) : "";
       const taf = tafsirBlocksHtml(ay0, opt);
-      h += `<div class="pr-wbw-ayah"><div class="pr-wbw-num">${rosette(num)}</div><div class="pr-wbw-grid" dir="rtl">${cells}</div>${full}${tad}${taf}</div>`;
+      h += ROW(`<div class="pr-wbw-ayah"><div class="pr-wbw-num">${rosette(num)}</div><div class="pr-wbw-grid" dir="rtl">${cells}</div>${full}${tad}${taf}</div>`);
     }
     return h;
   }
@@ -193,23 +198,23 @@
         if (pg > state.lastPage) { pre = `<span class="pr-pm-inline">۞ ${pg} ۞</span> `; state.lastPage = pg; }
         return `${pre}<span class="pr-ar-seg">${esc2(arabicOf(ay))} ${rosette(num)}</span>`;
       }).join(" ");
-      h += `<div class="pr-block pr-ar-block" dir="rtl" lang="ar">${flow}</div>`;
+      h += ROW(`<div class="pr-block pr-ar-block" dir="rtl" lang="ar">${flow}</div>`);
     }
     if (opt.translit) {
       const flow = group.ayahs.map((num) => { const ay = byNum[num]; const t = ay ? translitOf(ay) : ""; return t ? `<span class="pr-seg"><sup class="pr-segnum">${num}</sup> ${esc2(t)}</span>` : ""; }).filter(Boolean).join(" ");
-      if (flow) h += `<div class="pr-block pr-tl-block" dir="ltr">${flow}</div>`;
+      if (flow) h += ROW(`<div class="pr-block pr-tl-block" dir="ltr">${flow}</div>`);
     }
     if (opt.translation) {
       const flow = group.ayahs.map((num) => { const a0 = byNum[num]; if (!a0) return ""; const ay = effAyah(a0, group.surah, opt); const t = translationOf(ay, trSrc(opt)); return t ? `<span class="pr-seg"><sup class="pr-segnum">${num}</sup> ${esc2(t)}</span>` : ""; }).filter(Boolean).join(" ");
-      if (flow) h += `<div class="pr-block pr-tr-block">${flow}</div>`;
+      if (flow) h += ROW(`<div class="pr-block pr-tr-block">${flow}</div>`);
     }
     if (opt.incTadabbur) {
       const refl = group.ayahs.map((num) => { const a0 = byNum[num]; if (!a0) return ""; const ay = effAyah(a0, group.surah, opt); return ay._tadabbur ? `<div class="pr-tadabbur"><span class="pr-tad-label">Tadabbur ${num}</span>${esc2(ay._tadabbur)}</div>` : ""; }).filter(Boolean).join("");
-      if (refl) h += `<div class="pr-book-reflections">${refl}</div>`;
+      if (refl) h += ROW(`<div class="pr-book-reflections">${refl}</div>`);
     }
     if (opt.incAiTafsir || opt.incIbnKathir || opt.incMaarif) {
       const taf = group.ayahs.map((num) => { const a0 = byNum[num]; if (!a0) return ""; const t = tafsirBlocksHtml(a0, opt); return t ? `<div class="pr-tafsir-ayah"><span class="pr-tafsir-num">${num}</span>${t}</div>` : ""; }).filter(Boolean).join("");
-      if (taf) h += `<div class="pr-block pr-tafsir-section">${taf}</div>`;
+      if (taf) h += ROW(`<div class="pr-block pr-tafsir-section">${taf}</div>`);
     }
     return h;
   }
@@ -253,23 +258,24 @@
     const pageLabel = pA === pB ? `Page ${pA}` : `Pages ${pA}–${pB}`;
     const state = { lastPage: pageOf[firstK] };
 
-    let body = "", first = true;
+    const title = scopeTitle(opt, index);
+    let rows = "";
+    if (opt.scope !== "surah") rows += ROW(`<div class="pr-scopecap">${esc2(title)}</div>`, "pr-rc-cap");
+
+    let first = true;
     for (const g of groups) {
       const meta = metaById[g.surah];
       const sdata = await getSurah(g.surah);
       const withBismillah = g.ayahs[0] === 1 && g.surah !== 1 && g.surah !== 9;
-      body += `<section class="pr-surah${first ? " pr-first" : ""}">`;
-      body += surahHeader(meta, withBismillah, bism, first ? `${juzLabel} · ${pageLabel}` : "");
-      if (opt.facing) body += await renderFacingMode(g, sdata, opt, pageOf, juzOf, state);
-      else if (opt.layout === "book") body += renderBookMode(g, sdata, opt, pageOf, state);
-      else if (opt.layout === "wbw") body += await renderWbwMode(g, sdata, opt, pageOf, juzOf, state);
-      else body += await renderAyahMode(g, sdata, opt, pageOf, juzOf, state);
-      body += `</section>`;
+      rows += ROW(surahHeader(meta, withBismillah, bism, first ? `${juzLabel} · ${pageLabel}` : ""), `pr-rc-head${first ? " pr-rc-first" : ""}`);
+      if (opt.facing) rows += ROW(await renderFacingMode(g, sdata, opt, pageOf, juzOf, state), "pr-rc-facing");
+      else if (opt.layout === "book") rows += renderBookMode(g, sdata, opt, pageOf, state);
+      else if (opt.layout === "wbw") rows += await renderWbwMode(g, sdata, opt, pageOf, juzOf, state);
+      else rows += await renderAyahMode(g, sdata, opt, pageOf, juzOf, state);
       first = false;
     }
+    rows += ROW(`<div class="pr-end" aria-hidden="true">۞</div>`, "pr-rc-end");
 
-    const title = scopeTitle(opt, index);
-    const scopeCap = opt.scope !== "surah" ? `<div class="pr-scopecap">${esc2(title)}</div>` : "";
     return `<table class="pr-frame">
       <thead>
         <tr class="pr-edge-row"><td class="pr-edge"></td></tr>
@@ -280,11 +286,7 @@
         <tr><td class="pr-geo pr-geo-bot"></td></tr>
         <tr class="pr-edge-row"><td class="pr-edge"></td></tr>
       </tfoot>
-      <tbody><tr><td class="pr-cell">
-        ${scopeCap}
-        ${body}
-        <div class="pr-end" aria-hidden="true">۞</div>
-      </td></tr></tbody>
+      <tbody>${rows}</tbody>
     </table>`;
   }
 
@@ -384,6 +386,17 @@
     const showEdits = p.editView === "mine" || p.editView === "both";
     setChk("pr-my-trans", showEdits); setChk("pr-my-words", showEdits);
 
+    // Default the print scope to the sūrah you're currently reading (every open,
+    // not just the first), so "Generate PDF" matches your view without re-picking.
+    const cur = currentSurahId();
+    if (cur) {
+      const surahScope = document.querySelector('input[name="pr-scope"][value="surah"]');
+      if (surahScope) surahScope.checked = true;
+      const sel = $("pr-surah");
+      if (sel && sel.options.length) sel.value = String(cur);
+      syncScopeUI();
+    }
+
     syncTransSourceUI(); syncFacingUI();
   }
 
@@ -397,8 +410,8 @@
     populated = true;
   }
 
-  function openModal() {
-    populate();
+  async function openModal() {
+    await populate();
     syncFormFromReader();
     $("pr-modal-backdrop").hidden = false; $("pr-modal").hidden = false;
     syncScopeUI(); syncTransSourceUI(); syncFacingUI();
