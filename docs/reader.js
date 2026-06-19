@@ -1632,17 +1632,97 @@ function searchSurahs(surahs, query, limit = 6) {
     }));
 }
 
+// Concept / Islamic-term search: typing an idea also matches the words the
+// translations actually use for it (and transliterated terms map to English),
+// so "charity" finds zakat/alms/feeding the poor, "salah" finds prayer, etc.
+const SEARCH_CONCEPTS = [
+  ["patience", "patient perseverance persevere steadfast endure sabr"],
+  ["gratitude", "grateful thankful thanks shukr"],
+  ["charity", "alms zakat sadaqah spend in the cause give to the poor needy feed the poor"],
+  ["prayer", "pray salah salat prostrate bow worship"],
+  ["fasting", "fast sawm ramadan abstain"],
+  ["pilgrimage", "hajj umrah kaaba sacred house"],
+  ["forgiveness", "forgive pardon forgiving overlook absolve"],
+  ["mercy", "merciful compassion compassionate rahman rahim grace"],
+  ["repentance", "repent turn to allah tawbah seek forgiveness"],
+  ["piety", "pious god conscious mindful of allah fear of allah taqwa righteous"],
+  ["trust", "rely reliance tawakkul put your trust depend"],
+  ["faith", "believe believers belief iman conviction"],
+  ["paradise", "garden gardens jannah heaven rivers flow"],
+  ["hell", "fire hellfire blaze jahannam torment"],
+  ["death", "die dying perish mortal soul taken"],
+  ["resurrection", "raised day of judgment day of reckoning hereafter akhirah reckoning"],
+  ["knowledge", "know learned wisdom understand reflect ponder think"],
+  ["justice", "just fair fairness equity oppression wrongdoing"],
+  ["honesty", "truth truthful honest sincere trustworthy"],
+  ["parents", "mother father kindness to parents family"],
+  ["orphans", "orphan needy"],
+  ["wealth", "riches money provision sustenance rizq spending"],
+  ["anger", "angry wrath rage restrain anger"],
+  ["humility", "humble modest lower your wing meek"],
+  ["pride", "arrogance arrogant haughty boast conceit"],
+  ["guidance", "guide guided straight path right path hidayah astray"],
+  ["creation", "create created heavens and the earth made formed"],
+  ["prophets", "prophet messenger apostle sent warner"],
+  ["angels", "angel gabriel jibril"],
+  ["satan", "devil shaytan iblis whisper tempt"],
+  ["sin", "sins sinful transgress evil deeds wrongdoing immoral"],
+  ["righteousness", "good deeds righteous deeds virtue upright good"],
+  ["heart", "hearts inner self breast soul"],
+  ["marriage", "marry wives spouse husband wife"],
+  ["fear", "afraid awe dread fearful"],
+  ["hope", "hopeful despair not expect mercy"],
+  ["love", "loves beloved affection"],
+  ["oneness", "one god no god but oneness tawhid associate partners idol worship none worthy"],
+  ["quran", "book revelation scripture verses recite reading"],
+  ["struggle", "strive struggle fight in the cause jihad strive hard"],
+  ["israel", "children of israel moses musa"],
+  ["jesus", "isa son of mary messiah"],
+  ["light", "nur illuminate darkness"],
+  ["healing", "heal cure shifa remedy"],
+  ["oaths", "swear oath promise covenant pledge"],
+];
+const CONCEPT_LOOKUP = (() => {
+  const m = new Map();
+  for (const [key, syns] of SEARCH_CONCEPTS) {
+    const all = normalizeSearch(`${key} ${syns}`);
+    for (const t of new Set([key, ...syns.split(/\s+/)])) {
+      const nt = normalizeSearch(t);
+      if (nt.length >= 3 && !m.has(nt)) m.set(nt, all);
+    }
+  }
+  return m;
+})();
+
+// Returns the literal query plus, when it names a known concept, that concept's
+// related-terms string — each scored independently (best match wins).
+function expandSearchTerms(nq) {
+  const terms = [nq];
+  if (CONCEPT_LOOKUP.has(nq)) terms.push(CONCEPT_LOOKUP.get(nq));
+  else {
+    for (const tok of nq.split(" ")) {
+      if (CONCEPT_LOOKUP.has(tok)) { terms.push(CONCEPT_LOOKUP.get(tok)); break; }
+    }
+  }
+  return terms.map((t) => ({ t, tokens: t.split(" ").filter((x) => x.length >= 2) }));
+}
+
 async function searchAyahs(surahs, query, limit = 10) {
   const nq = normalizeSearch(query);
   if (!nq || nq.length < 2) return [];
-  const tokens = nq.split(" ").filter((t) => t.length >= 2);
+  const terms = expandSearchTerms(nq);
   const index = await ensureSearchIndex();
   if (!index.length) return [];
 
   const FUZZY_MIN = 38;
   const hits = [];
   for (const entry of index) {
-    const score = scoreIndexEntry(entry, nq, tokens);
+    let score = 0;
+    for (const { t, tokens } of terms) {
+      const s = scoreIndexEntry(entry, t, tokens);
+      if (s > score) score = s;
+      if (score >= 96) break;
+    }
     if (score < FUZZY_MIN) continue;
     const [surahId, ayah, , , snip] = entry;
     const s = surahs.find((x) => x.id === surahId);
@@ -2291,6 +2371,91 @@ function handleSyncMerged({ source = "pull" } = {}) {
   if (!scrollLock) render();
 }
 
+/* ---- Offline: one-tap "save the whole Qur'an on this device" ---- */
+function offlineUrlList(idx) {
+  const dv = DATA_VERSION;
+  const urls = new Set();
+  ["data/index.json", "data/pages.json", "data/juz.json", "data/search-index.json"].forEach((u) => urls.add(`${u}?v=${dv}`));
+  for (const s of idx.surahs || []) {
+    urls.add(`data/surah_${s.id}.json?v=${dv}`);
+    urls.add(`data/ai_wbw/surah_${s.id}.json?v=${dv}`); // 404s for surahs without AI data are harmless
+  }
+  urls.add(`data/mushaf/index.json?v=${dv}`);
+  for (let p = 582; p <= 604; p++) {
+    urls.add(`data/mushaf/page_${p}.json?v=${dv}`);
+    urls.add(`fonts/qcf2/p${p}.woff2`);
+  }
+  urls.add(`fonts/pdms-saleem-quranfont.ttf`);
+  return [...urls];
+}
+
+async function downloadForOffline(onProgress) {
+  const idx = await loadIndex();
+  const urls = offlineUrlList(idx);
+  let done = 0, ok = 0, i = 0;
+  async function worker() {
+    while (i < urls.length) {
+      const u = urls[i++];
+      try { const r = await fetch(u, { cache: "reload" }); if (r && r.ok) ok++; } catch (_) {}
+      done++; if (onProgress) onProgress(done, urls.length, ok);
+    }
+  }
+  await Promise.all(Array.from({ length: 6 }, worker)); // 6 in parallel
+  return { total: urls.length, ok };
+}
+
+function initOfflineBanner() {
+  if (!("serviceWorker" in navigator)) return;
+  if (!/Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) return; // mobile only
+  try {
+    if (localStorage.getItem("quran-offline-done") === "1") return;
+    if (localStorage.getItem("quran-offline-dismissed") === "1") return;
+  } catch (_) {}
+  if (document.getElementById("offline-banner")) return;
+
+  const banner = document.createElement("div");
+  banner.id = "offline-banner";
+  banner.className = "offline-banner";
+  banner.innerHTML = `
+    <div class="ob-row">
+      <span class="ob-text">Save the whole Qur'an on this device for offline reading?</span>
+      <div class="ob-actions">
+        <button type="button" id="ob-yes" class="btn ob-primary">Download</button>
+        <button type="button" id="ob-no" class="btn ob-dismiss">Not now</button>
+      </div>
+    </div>
+    <div id="ob-progress" class="ob-progress" hidden></div>`;
+  document.body.appendChild(banner);
+  requestAnimationFrame(() => banner.classList.add("show"));
+
+  const close = () => { banner.classList.remove("show"); setTimeout(() => banner.remove(), 320); };
+  document.getElementById("ob-no")?.addEventListener("click", () => {
+    try { localStorage.setItem("quran-offline-dismissed", "1"); } catch (_) {}
+    close();
+  });
+  document.getElementById("ob-yes")?.addEventListener("click", async () => {
+    const prog = document.getElementById("ob-progress");
+    const actions = banner.querySelector(".ob-actions");
+    const text = banner.querySelector(".ob-text");
+    if (actions) actions.hidden = true;
+    if (prog) prog.hidden = false;
+    if (text) text.textContent = "Downloading the Qur'an for offline use…";
+    try {
+      const res = await downloadForOffline((done, total) => {
+        if (prog) prog.textContent = `${done} / ${total} files…`;
+      });
+      try { localStorage.setItem("quran-offline-done", "1"); } catch (_) {}
+      if (text) text.textContent = `✓ Saved (${res.ok} files) — the whole Qur'an now works offline.`;
+      if (prog) prog.hidden = true;
+      setTimeout(close, 2800);
+    } catch (_) {
+      if (text) text.textContent = "Couldn't finish — check your connection and try again.";
+      if (actions) actions.hidden = false;
+      if (prog) prog.hidden = true;
+    }
+  });
+}
+
 async function boot() {
   try {
     const syncOptions = {
@@ -2310,6 +2475,7 @@ async function boot() {
 
     render();
     rebuildMyWorkIndex().catch((err) => console.warn("My-work index rebuild failed", err));
+    setTimeout(initOfflineBanner, 1800);
   } catch (err) {
     showBootError(err);
   }

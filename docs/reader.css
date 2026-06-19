@@ -46,7 +46,31 @@
 html {
   scroll-behavior: smooth;
   font-size: 18px;
+  /* stop mobile browsers from auto-inflating ("boosting") text, which makes the
+     page look zoomed-in on open and forces a manual pinch-out to fit */
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
+
+/* one-tap "save the whole Qur'an offline" banner (mobile) */
+.offline-banner {
+  position: fixed; left: 50%; bottom: 0;
+  transform: translate(-50%, 150%);
+  z-index: 300;
+  width: min(440px, calc(100% - 1.25rem));
+  margin-bottom: calc(0.75rem + var(--safe-bottom, 0px));
+  background: var(--paper); border: 1px solid var(--gold-soft);
+  border-radius: 14px; box-shadow: var(--shadow-lift);
+  padding: 0.85rem 1rem; font-family: var(--font-ui);
+  transition: transform 0.32s ease;
+}
+.offline-banner.show { transform: translate(-50%, 0); }
+.offline-banner .ob-row { display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap; }
+.offline-banner .ob-text { flex: 1 1 180px; font-size: 0.85rem; color: var(--ink-soft); line-height: 1.4; }
+.offline-banner .ob-actions { display: flex; gap: 0.4rem; flex-shrink: 0; }
+.offline-banner .ob-primary { background: var(--green); color: #fff; border-color: var(--green); }
+.offline-banner .ob-progress { margin-top: 0.55rem; font-size: 0.78rem; color: var(--muted); font-style: italic; }
+html[data-theme="night"] .offline-banner { background: #1f2429; }
 
 body {
   font-family: var(--font-body);
