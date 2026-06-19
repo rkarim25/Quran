@@ -21,6 +21,7 @@ let observer = null;
 let selectedAyah = null;
 let currentSurah = null;
 let expandedAyah = null;
+let booted = false; // true once the app has rendered; gates the fatal-error overlay
 
 const DEFAULT_PREFS = {
   readMode: "translation",
@@ -2474,6 +2475,7 @@ async function boot() {
     }
 
     render();
+    booted = true; // the app is up; past here, transient errors must not nuke it
     rebuildMyWorkIndex().catch((err) => console.warn("My-work index rebuild failed", err));
     setTimeout(initOfflineBanner, 1800);
   } catch (err) {
@@ -2481,8 +2483,11 @@ async function boot() {
   }
 }
 
-window.addEventListener("error", (e) => showBootError(e.error || e.message));
-window.addEventListener("unhandledrejection", (e) => showBootError(e.reason));
+// These only catch FATAL boot failures. Once the app has rendered, a stray error
+// or a rejected background fetch (flaky mobile network, Firebase sync, an aborted
+// request) must be logged, not replace the whole reader with "Failed to load".
+window.addEventListener("error", (e) => { if (!booted) showBootError(e.error || e.message); else console.warn("Runtime error", e.error || e.message); });
+window.addEventListener("unhandledrejection", (e) => { if (!booted) showBootError(e.reason); else console.warn("Unhandled rejection", e.reason); });
 
 boot();
 window.addEventListener("hashchange", render);
