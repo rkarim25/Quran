@@ -1,4 +1,4 @@
-const cache = { index: null, surahs: {}, pristine: {}, aiWbw: {}, timeline: null, hadithIndex: null, hadithMap: null };
+const cache = { index: null, surahs: {}, pristine: {}, aiWbw: {}, timeline: null, hadithIndex: null, hadithMap: null, asbabNuzul: null };
 const LS = {
   lastRead: "quran-last-read",
   recentReads: "quran-recent-reads",
@@ -32,6 +32,7 @@ const DEFAULT_PREFS = {
   transScale: 1,
   wordMode: "standard",
   activePanel: "reflection",
+  activeContextTab: "occasion",
   theme: "light",
   bookContent: { arabic: true, translit: false, translation: true, aiTranslation: false, aiTafsir: false, ibnKathir: false, maarif: false },
   // Tadabbur + tafsir shown inline under every ayah of the whole view (verse/wbw).
@@ -360,6 +361,15 @@ async function loadHadithData() {
       cache.hadithIndex = idxRes.ok ? await idxRes.json() : {};
       cache.hadithMap   = mapRes.ok ? await mapRes.json() : {};
     } catch (_) { cache.hadithIndex = {}; cache.hadithMap = {}; }
+  }
+}
+
+async function loadAsbabNuzul() {
+  if (cache.asbabNuzul === null) {
+    try {
+      const res = await fetch(`data/asbab_nuzul.json?v=${DATA_VERSION}`);
+      cache.asbabNuzul = res.ok ? await res.json() : {};
+    } catch (_) { cache.asbabNuzul = {}; }
   }
 }
 
@@ -1080,7 +1090,7 @@ function ayahExtrasHtml(ay, surahId, ayahNum) {
     blocks.push(`<div class="ayah-extra ax-timeline">${renderTimelinePanel()}</div>`);
   }
   if (ayahShow[`${surahId}:${ayahNum}`]?.hadith) {
-    blocks.push(`<div class="ayah-extra ax-hadith">${renderHadithSection(surahId, ayahNum)}</div>`);
+    blocks.push(`<div class="ayah-extra ax-hadith">${renderContextPanel(surahId, ayahNum)}</div>`);
   }
   return blocks.length ? `<div class="ayah-extras">${blocks.join("")}</div>` : "";
 }
@@ -1095,7 +1105,7 @@ function ayahStudyMenuHtml(surahId, ayahNum) {
   const tlOn = !!ayahShow[`${surahId}:${ayahNum}`]?.timeline;
   const tlItem = `<label class="cm-item"><input type="checkbox" data-axs="timeline" ${tlOn ? "checked" : ""}> Timeline</label>`;
   const hdOn = !!ayahShow[`${surahId}:${ayahNum}`]?.hadith;
-  const hdItem = `<label class="cm-item"><input type="checkbox" data-axs="hadith" ${hdOn ? "checked" : ""}> Hadith</label>`;
+  const hdItem = `<label class="cm-item"><input type="checkbox" data-axs="hadith" ${hdOn ? "checked" : ""}> Context</label>`;
   return `<div class="ayah-study-menu"><div class="cm-group-label">Show for this ayah</div>${items}${tlItem}${hdItem}</div>`;
 }
 
@@ -1109,7 +1119,7 @@ function panelContent(ayah) {
       <textarea class="reflection-area" id="context-input" placeholder="Revelation context…"></textarea><div class="save-status"></div>`;
   }
   if (prefs.activePanel === "timeline") return renderTimelinePanel();
-  if (prefs.activePanel === "hadith") return renderHadithSection(currentSurah?.id, ayah?.ayah);
+  if (prefs.activePanel === "hadith") return renderContextPanel(currentSurah?.id, ayah?.ayah);
   if (prefs.activePanel === "tafsir") {
     let html = `<p class="panel-intro tafsir-intro">Concise commentary drawing on Ibn Kathir, Maarif ul Quran, classical scholars, and authenticated hadith.</p>`;
     if (ayah.qf_tafsir) {
@@ -1203,7 +1213,7 @@ function renderTimelinePanel() {
   </div>`;
 }
 
-function renderHadithSection(surahId, ayahNum) {
+function renderHadithTab(surahId, ayahNum) {
   const idx = cache.hadithIndex;
   const map = cache.hadithMap;
   if (!idx || !map) return '<p class="panel-intro">Hadith loading…</p>';
@@ -1221,7 +1231,7 @@ function renderHadithSection(surahId, ayahNum) {
       <div class="hadith-meta">
         <span class="hadith-source">${esc(h.source)}</span>
         <span class="hadith-grade ${gc}">${esc(h.grade)}</span>
-        ${h.reference ? `<span class="hadith-ref">No. ${esc(h.reference)}</span>` : ""}
+        ${h.reference ? `<span class="hadith-ref">No. ${esc(h.reference)}</span>` : ""}
       </div>
       ${h.topic ? `<div class="hadith-topic">${esc(h.topic)}</div>` : ""}
     </div>`;
@@ -1231,6 +1241,79 @@ function renderHadithSection(surahId, ayahNum) {
     <p class="panel-intro">${ids.length} hadith related to this verse</p>
     ${cards}
   </div>`;
+}
+
+function renderOccasionTab(surahId, ayahNum) {
+  if (cache.asbabNuzul === null) return '<p class="panel-intro">Loading occasion data…</p>';
+
+  const key = `${surahId}:${ayahNum}`;
+  const entry = cache.asbabNuzul[key];
+  const surahSetting = cache.asbabNuzul[`__setting_${surahId}`];
+  const revPlace = currentSurah?.revelation_place === "madinah" ? "Madinah" : "Makkah";
+  const settingLabel = surahSetting?.label || revPlace;
+  const settingContext = surahSetting?.context || "";
+
+  let html = "";
+
+  if (entry?.has_occasion && entry.occasion) {
+    html += `<div class="occ-card">
+      <div class="occ-hd">OCCASION OF REVELATION <span class="occ-badge">(ASBAB AL-NUZUL)</span></div>
+      <p class="occ-text">${esc(entry.occasion)}</p>
+    </div>`;
+  }
+
+  html += `<div class="hist-card">
+    <div class="occ-hd">HISTORICAL SETTING · ${esc(settingLabel)}</div>
+    ${settingContext ? `<p class="occ-text">${esc(settingContext)}</p>` : ""}
+  </div>`;
+
+  const source = entry?.source || (surahSetting ? "Ibn Kathir, Tafsir al-Quran al-Adhim" : null);
+  if (source) html += `<p class="occ-source">Source: ${esc(source)}</p>`;
+
+  return html;
+}
+
+function ctxTabContent(tab, surahId, ayahNum) {
+  if (tab === "occasion") return renderOccasionTab(surahId, ayahNum);
+  if (tab === "hadith") return renderHadithTab(surahId, ayahNum);
+  return '<p class="empty-note" style="padding:16px 0">Isnad tree — coming in Phase 3.</p>';
+}
+
+function renderContextPanel(surahId, ayahNum) {
+  const hdCount = (cache.hadithMap?.[`${surahId}:${ayahNum}`] || []).filter(id => cache.hadithIndex?.[id]).length;
+  const active = prefs.activeContextTab || "occasion";
+  const tabs = [
+    { id: "occasion", label: "Occasion" },
+    { id: "hadith",  label: `Hadith${hdCount ? ` (${hdCount})` : ""}` },
+    { id: "isnad",   label: "Isnad Tree" },
+  ];
+  const tabBar = tabs.map(t =>
+    `<button type="button" class="ctx-tab${active === t.id ? " active" : ""}" data-ctx="${t.id}">${t.label}</button>`
+  ).join("");
+  return `<div class="ctx-panel" data-surah="${surahId}" data-ayah="${ayahNum}">
+    <div class="ctx-tabs">${tabBar}</div>
+    <div class="ctx-body">${ctxTabContent(active, surahId, ayahNum)}</div>
+  </div>`;
+}
+
+function bindContextPanelEvents(container) {
+  const panel = container.classList?.contains("ctx-panel") ? container : container.querySelector(".ctx-panel");
+  if (!panel) return;
+  const surahId = +(panel.dataset.surah || currentSurah?.id);
+  const ayahNum = +(panel.dataset.ayah || selectedAyah?.ayah);
+
+  panel.querySelectorAll(".ctx-tab").forEach(btn => {
+    btn.addEventListener("click", async e => {
+      e.stopPropagation();
+      const tab = btn.dataset.ctx;
+      if (tab === "occasion" && cache.asbabNuzul === null) await loadAsbabNuzul();
+      prefs.activeContextTab = tab;
+      savePrefs();
+      panel.querySelectorAll(".ctx-tab").forEach(b => b.classList.toggle("active", b === btn));
+      const body = panel.querySelector(".ctx-body");
+      if (body) body.innerHTML = ctxTabContent(tab, surahId, ayahNum);
+    });
+  });
 }
 
 function bindTimelineEvents(block) {
@@ -1262,7 +1345,7 @@ function studyPanelHtml(ayah) {
           <button type="button" class="btn panel-tab ${prefs.activePanel === "reflection" ? "active" : ""}" data-panel="reflection">Tadabbur</button>
           <button type="button" class="btn panel-tab ${prefs.activePanel === "tafsir" ? "active" : ""}" data-panel="tafsir">Tafsir</button>
           <button type="button" class="btn panel-tab ${prefs.activePanel === "timeline" ? "active" : ""}" data-panel="timeline">Timeline</button>
-          <button type="button" class="btn panel-tab ${prefs.activePanel === "hadith" ? "active" : ""}" data-panel="hadith">Hadith</button>
+          <button type="button" class="btn panel-tab ${prefs.activePanel === "hadith" ? "active" : ""}" data-panel="hadith">Context</button>
         </div>
         <button type="button" class="study-close-btn" data-action="close-study" aria-label="Close">×</button>
       </div>
@@ -1319,14 +1402,18 @@ function bindStudyPanelEvents(block) {
         block.querySelector(".study-panel-body").innerHTML = '<p class="panel-intro">Loading timeline…</p>';
         await loadTimeline();
       }
-      if (btn.dataset.panel === "hadith" && !cache.hadithIndex) {
-        block.querySelector(".study-panel-body").innerHTML = '<p class="panel-intro">Loading hadith…</p>';
-        await loadHadithData();
+      if (btn.dataset.panel === "hadith" && (!cache.hadithIndex || cache.asbabNuzul === null)) {
+        block.querySelector(".study-panel-body").innerHTML = '<p class="panel-intro">Loading context…</p>';
+        await Promise.all([
+          !cache.hadithIndex ? loadHadithData() : Promise.resolve(),
+          cache.asbabNuzul === null ? loadAsbabNuzul() : Promise.resolve(),
+        ]);
       }
       block.querySelector(".study-panel-body").innerHTML = panelContent(selectedAyah);
       bindReflectionInput(block);
       bindContextInput(block);
       bindTimelineEvents(block);
+      bindContextPanelEvents(block);
     });
   });
   if (prefs.activePanel === "timeline" && !cache.timeline) {
@@ -2573,12 +2660,19 @@ document.addEventListener("change", async (e) => {
   if (axs.dataset.axs === "timeline" && axs.checked && !cache.timeline) {
     await loadTimeline();
   }
-  if (axs.dataset.axs === "hadith" && axs.checked && !cache.hadithIndex) {
-    await loadHadithData();
+  if (axs.dataset.axs === "hadith" && axs.checked && (!cache.hadithIndex || cache.asbabNuzul === null)) {
+    await Promise.all([
+      !cache.hadithIndex ? loadHadithData() : Promise.resolve(),
+      cache.asbabNuzul === null ? loadAsbabNuzul() : Promise.resolve(),
+    ]);
   }
   refreshAyahExtras(s, an);
   if (axs.dataset.axs === "timeline" && axs.checked) {
     bindTimelineEvents(block);
+  }
+  if (axs.dataset.axs === "hadith" && axs.checked) {
+    const axWrap = block.querySelector(".ax-hadith");
+    if (axWrap) bindContextPanelEvents(axWrap);
   }
 });
 

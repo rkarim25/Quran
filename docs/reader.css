@@ -3126,3 +3126,57 @@ html[data-theme="night"] .tl-ev-coming  { background: rgba(255,255,255,0.03); }
 
 html[data-theme="night"] .hadith-card { background: rgba(255,255,255,0.04); }
 html[data-theme="night"] .hg-hasan    { background: rgba(154,132,85,0.12); }
+
+/* ── Context panel: inner 3-tab panel (Occasion | Hadith | Isnad Tree) ── */
+.ctx-panel { display: flex; flex-direction: column; gap: 0; }
+
+.ctx-tabs {
+  display: flex; gap: 0; border-bottom: 1.5px solid var(--border-light, #e5ddd0);
+  margin-bottom: 1rem; overflow-x: auto;
+}
+.ctx-tab {
+  font-family: var(--font-ui); font-size: 0.72rem; font-weight: 600;
+  letter-spacing: 0.04em; text-transform: uppercase;
+  padding: 0.55rem 0.9rem; cursor: pointer; border: none; background: none;
+  color: var(--text-muted, #888); border-bottom: 2px solid transparent;
+  margin-bottom: -1.5px; white-space: nowrap; transition: color 0.15s, border-color 0.15s;
+}
+.ctx-tab:hover { color: var(--green-main, #1f6b52); }
+.ctx-tab.active { color: var(--green-main, #1f6b52); border-bottom-color: var(--green-main, #1f6b52); }
+
+.ctx-body { display: flex; flex-direction: column; gap: 0.85rem; }
+
+/* Occasion of Revelation card (green tint) */
+.occ-card {
+  background: #eef7f2; border-left: 3px solid var(--green-main, #1f6b52);
+  border-radius: 6px; padding: 0.85rem 1rem;
+}
+/* Historical Setting card (parchment/muted) */
+.hist-card {
+  background: var(--parchment, #f5f0e6); border-left: 3px solid var(--gold-muted, #c4a96a);
+  border-radius: 6px; padding: 0.85rem 1rem;
+}
+.occ-hd {
+  font-family: var(--font-ui); font-size: 0.65rem; font-weight: 700;
+  letter-spacing: 0.09em; text-transform: uppercase;
+  color: var(--green-dark, #145038); margin-bottom: 0.45rem;
+}
+.hist-card .occ-hd { color: var(--gold-dark, #7a6020); }
+.occ-badge {
+  font-size: 0.6rem; font-weight: 600; opacity: 0.75; letter-spacing: 0.03em;
+}
+.occ-text {
+  font-family: var(--font-body); font-size: 0.88rem; line-height: 1.65;
+  color: var(--text-primary, #1a2420); margin: 0;
+}
+.occ-source {
+  font-family: var(--font-ui); font-size: 0.7rem; color: var(--text-muted, #888);
+  margin: 0; font-style: italic;
+}
+
+/* Night mode */
+html[data-theme="night"] .occ-card  { background: rgba(31,107,82,0.1); }
+html[data-theme="night"] .hist-card { background: rgba(196,169,106,0.08); }
+html[data-theme="night"] .occ-hd   { color: #7dcfaa; }
+html[data-theme="night"] .hist-card .occ-hd { color: #c4a96a; }
+html[data-theme="night"] .occ-text { color: var(--text-night, #d8d0c4); }
