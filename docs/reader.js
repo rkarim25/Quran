@@ -1096,7 +1096,10 @@ function openStudyPanel(ayahNum) {
     return;
   }
 
-  block.insertAdjacentHTML("beforeend", studyPanelHtml(selectedAyah));
+  // Insert inside the body column, not the flex row — otherwise the panel becomes
+  // a third flex sibling and squeezes the Arabic/translation to zero width (esp. mobile).
+  const host = block.querySelector(".ayah-body") || block;
+  host.insertAdjacentHTML("beforeend", studyPanelHtml(selectedAyah));
   block.classList.add("expanded", "active");
   block.querySelector(".study-btn")?.classList.add("open");
   bindStudyPanelEvents(block);

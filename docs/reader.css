@@ -2119,12 +2119,19 @@ body {
 
   .toolbar-actions {
     width: 100%;
-    display: grid;
-    grid-template-columns: 1fr auto auto auto;
-    gap: 0.35rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.4rem;
   }
+  /* search boxes take the full first row; controls wrap underneath */
+  .toolbar-actions .jump-group { flex: 1 1 100%; min-width: 0; }
+  .toolbar-actions #layout-select { flex: 1 1 7rem; width: auto; min-width: 0; }
+  .toolbar-actions .content-menu-wrap { flex: 0 1 auto; }
+  .toolbar-actions #toggle-wordmode { flex: 0 1 auto; }
+  .toolbar-actions .font-group { flex: 0 0 auto; }
 
-  .select-input { width: 100%; min-width: 0; }
+  .select-input { min-width: 0; }
 
   .study-panel-head { flex-direction: column; align-items: stretch; }
   .study-panel-head .panel-tabs { justify-content: center; }
@@ -2412,6 +2419,14 @@ input.pr-input[type="number"] { width: 5rem; flex: none; }
   /* @page margin is 0, so inset the frame ourselves */
   #print-root { padding: 0 10mm; }
   .pr-frame .pr-edge { border: 0 !important; height: 10mm; padding: 0 !important; }
+
+  /* Pin the sheet to the physical page width. Mobile browsers otherwise lay the
+     printout out at the device-width viewport (~375px), leaving the framed sheet
+     narrow and adrift in the page with text spilling outside it. */
+  html, body { width: 210mm; }
+  #print-root { width: 210mm; }
+  html:has(#print-root.layout-facing), body:has(#print-root.layout-facing),
+  #print-root.layout-facing { width: 297mm; }
 
   /* word-by-word: full chosen translation beneath each ayah's word grid */
   .pr-wbw-full {
