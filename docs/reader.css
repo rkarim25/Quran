@@ -2420,13 +2420,17 @@ input.pr-input[type="number"] { width: 5rem; flex: none; }
   #print-root { padding: 0 10mm; }
   .pr-frame .pr-edge { border: 0 !important; height: 10mm; padding: 0 !important; }
 
-  /* Pin the sheet to the physical page width. Mobile browsers otherwise lay the
-     printout out at the device-width viewport (~375px), leaving the framed sheet
-     narrow and adrift in the page with text spilling outside it. */
+  /* Pin the sheet to the physical page in ABSOLUTE units. Mobile browsers lay the
+     printout out at the device-width viewport (~375px) and scale it to the paper;
+     a width:100% frame then resolves against that narrow viewport and ends up
+     half-width with the text spilling outside it. Fixed mm widths keep the frame
+     and its text locked together regardless of viewport. */
   html, body { width: 210mm; }
-  #print-root { width: 210mm; }
+  #print-root { width: 210mm; padding: 0; }
+  .pr-frame { width: 190mm; margin: 0 auto; }
   html:has(#print-root.layout-facing), body:has(#print-root.layout-facing),
   #print-root.layout-facing { width: 297mm; }
+  #print-root.layout-facing .pr-frame { width: 277mm; }
 
   /* word-by-word: full chosen translation beneath each ayah's word grid */
   .pr-wbw-full {
@@ -2887,4 +2891,45 @@ html[data-theme="night"] .mb-frame { background: linear-gradient(135deg, rgba(20
   /* the fixed layer now provides the tint edge-to-edge; the content box itself
      is transparent so no short cream rectangle stops where the text ends */
   #print-root { background: transparent !important; }
+}
+
+
+/* ============================================================
+   PRINT v8 — mobile-safe frame.
+   The gold border + parchment tint are drawn with position:fixed overlays
+   (#print-root::before/::after, body::before) so they repeat as a complete
+   rectangle on every printed page — the table can't do that (cell borders don't
+   repeat across page breaks). The overlays were sized with right/bottom offsets,
+   which MOBILE browsers measure from the device-width viewport (~375px), shoving
+   the frame to mid-page with the text spilling outside it. Size them instead with
+   explicit mm width/height anchored at top/left, so they map to the real A4 sheet
+   regardless of viewport. Also pin the page + content table to absolute widths so
+   the text itself stays inside the rule on a phone. */
+@media print {
+  html, body { width: 210mm !important; }
+  #print-root { width: 210mm !important; padding: 0 !important; }
+  .pr-frame { width: 190mm !important; margin: 0 auto !important; }
+
+  /* outer gold rule + parchment tint: 7mm in from the page edge */
+  #print-root::before, body::before {
+    right: auto !important; bottom: auto !important;
+    width: 196mm !important; height: 283mm !important;
+  }
+  /* inner hairline rule: 8.6mm in */
+  #print-root::after {
+    right: auto !important; bottom: auto !important;
+    width: 192.8mm !important; height: 279.8mm !important;
+  }
+
+  /* landscape side-by-side: wider sheet, swapped overlay dimensions */
+  html:has(#print-root.layout-facing), body:has(#print-root.layout-facing),
+  #print-root.layout-facing { width: 297mm !important; }
+  #print-root.layout-facing .pr-frame { width: 277mm !important; }
+  body:has(#print-root.layout-facing)::before,
+  html:has(#print-root.layout-facing) #print-root::before {
+    width: 283mm !important; height: 196mm !important;
+  }
+  html:has(#print-root.layout-facing) #print-root::after {
+    width: 279.8mm !important; height: 192.8mm !important;
+  }
 }

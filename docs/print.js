@@ -12,6 +12,7 @@
   const DV = "21";
   const pc = { pages: null, juz: null, index: null, bismillah: null };
   const QURAN_AR = "الْقُرْآن الْكَرِيم";
+  let _origTitle = null; // restored after printing (PDF filename = document.title)
 
   const $ = (id) => document.getElementById(id);
   const esc2 = (s) =>
@@ -219,6 +220,22 @@
     return opt.pageFrom === opt.pageTo ? `Page ${opt.pageFrom}` : `Pages ${opt.pageFrom}–${opt.pageTo}`;
   }
 
+  // Default Save-as-PDF filename: browsers derive it from document.title. Use a
+  // plain-ASCII, scope-specific name so the file says what's actually inside.
+  function printFileName(opt, index) {
+    let base;
+    if (opt.scope === "surah") {
+      const s = index.surahs.find((x) => x.id === opt.surah);
+      base = `Surah ${(s ? s.name_simple : opt.surah)} (${opt.surah})`;
+    } else if (opt.scope === "juz") {
+      base = `Juz ${opt.juz}`;
+    } else {
+      base = opt.pageFrom === opt.pageTo ? `Page ${opt.pageFrom}` : `Pages ${opt.pageFrom}-${opt.pageTo}`;
+    }
+    // strip characters that browsers/OSes dislike in filenames
+    return `Quran - ${base}`.replace(/[\\/:*?"<>|]/g, "").replace(/\s+/g, " ").trim();
+  }
+
   async function buildDoc(opt) {
     const index = await getIndex();
     const refs = await resolveRefs(opt);
@@ -406,6 +423,8 @@
       root.innerHTML = html;
       const fam = opt.font === "indopak" ? '"PDMSSaleem"' : '"UthmanicHafs"';
       try { await document.fonts.load('32px ' + fam); await document.fonts.ready; } catch (_) {}
+      // Name the PDF after the selection (browsers use document.title as the filename).
+      try { const idx = await getIndex(); if (_origTitle === null) _origTitle = document.title; document.title = printFileName(opt, idx); } catch (_) {}
       if (st) st.textContent = "Opening the print dialog — choose “Save as PDF”.";
       closeModal();
       setTimeout(() => window.print(), 80);
@@ -428,7 +447,10 @@
       if (e.target.closest && e.target.closest("#pr-modal")) syncFacingUI();
     });
     document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !$("pr-modal")?.hidden) closeModal(); });
-    window.addEventListener("afterprint", () => { const root = $("print-root"); if (root) root.innerHTML = ""; });
+    window.addEventListener("afterprint", () => {
+      const root = $("print-root"); if (root) root.innerHTML = "";
+      if (_origTitle !== null) { document.title = _origTitle; _origTitle = null; }
+    });
   }
 
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", bind); else bind();
