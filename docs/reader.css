@@ -3535,6 +3535,20 @@ html[data-theme="night"] .network-svg { color: var(--text-night, #d8d0c4); }
 
 /* Hoverable Arabic words in dua cards */
 .dua-arabic .q-word { cursor: help; }
+/* The actual supplication to recite is underlined; narrative framing is muted */
+.dua-actual {
+  text-decoration: underline;
+  text-decoration-color: var(--green);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 7px;
+}
+.dua-frame { color: var(--muted); }
+.dua-legend { display: inline-block; color: var(--muted); }
+.dua-legend-mark {
+  color: var(--green); text-decoration: underline;
+  text-decoration-color: var(--green); text-decoration-thickness: 2px; text-underline-offset: 3px;
+}
+html[data-theme="night"] .dua-frame { color: var(--muted); opacity: 0.8; }
 .dua-ayah-num {
   font-family: var(--font-arabic); font-size: 1.05rem; color: var(--gold-muted, #9a8455);
   margin: 0 0.15rem; opacity: 0.75;

@@ -2937,7 +2937,7 @@ async function renderDuas(focusId) {
       <header class="duas-intro">
         <h1 class="duas-title">Duas of the Qur'an</h1>
         <p class="duas-sub">${duas.length} supplications made by the prophets and the believers — each with who said it and the moment behind it.</p>
-        <p class="duas-hint">Tap any Arabic word for its meaning, grammar, and root.</p>
+        <p class="duas-hint">Tap any Arabic word for its meaning, grammar, and root. <span class="dua-legend">The <span class="dua-legend-mark">underlined</span> words are the supplication itself — what you recite.</span></p>
       </header>
       <div class="dua-filters" id="dua-filters">
         <button type="button" class="dua-chip active" data-theme="all">All <span class="dua-chip-n">${duas.length}</span></button>
@@ -3005,7 +3005,7 @@ function duaArabicHtml(d) {
       const ws = (grp.t || [])
         .map(
           (tok, i) =>
-            `<span class="q-word dua-word" data-dua="${esc(d.id)}" data-g="${gi}" data-i="${i}" tabindex="0">${esc(tok.ar)}</span>`
+            `<span class="q-word dua-word ${tok.d ? "dua-actual" : "dua-frame"}" data-dua="${esc(d.id)}" data-g="${gi}" data-i="${i}" tabindex="0">${esc(tok.ar)}</span>`
         )
         .join(" ");
       return ws + (multi ? ` <span class="dua-ayah-num" aria-hidden="true">${toArabicDigits(grp.a)}</span> ` : "");

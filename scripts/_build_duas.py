@@ -245,6 +245,26 @@ OFT_REPEATED = {"good-both-worlds", "end-baqarah", "rooted-knowledge", "ulul-alb
 for _d in DUAS:
     _d["oft_repeated"] = _d["id"] in OFT_REPEATED
 
+# QuranWBW supplicationsFromQuran: "surah:ayah" -> 1-based word where the actual
+# supplication begins. Earlier words are narrative framing ("And remember when X
+# said:"). Used to underline only the recited part. Verified to align with our
+# local word_by_word segmentation. Ayahs inside a dua range but not listed here
+# default to 1 (the whole ayah is part of the supplication).
+SUPPL_START = {
+ "2:127": 8, "2:128": 1, "2:201": 4, "2:250": 6, "2:285": 22, "2:286": 13,
+ "3:8": 1, "3:9": 1, "3:16": 3, "3:53": 1, "3:38": 6, "3:147": 7, "3:191": 13,
+ "3:192": 1, "3:193": 1, "3:194": 1, "4:75": 15, "5:83": 17, "5:114": 6,
+ "7:23": 2, "7:47": 8, "7:89": 34, "7:126": 11, "7:151": 2, "9:59": 9,
+ "10:85": 5, "10:86": 1, "11:47": 2, "12:101": 10, "14:35": 4, "14:38": 1,
+ "14:40": 1, "14:41": 1, "17:24": 8, "17:80": 2, "18:10": 7, "18:14": 7,
+ "20:25": 2, "20:26": 1, "20:27": 1, "20:28": 1, "20:45": 2, "20:114": 15,
+ "21:83": 5, "21:87": 15, "21:89": 5, "23:29": 2, "23:94": 1, "23:97": 2,
+ "23:109": 7, "23:118": 2, "25:65": 3, "25:66": 1, "25:74": 3, "27:19": 6,
+ "28:16": 2, "28:21": 6, "28:24": 8, "29:30": 2, "37:100": 1, "40:7": 14,
+ "40:8": 1, "40:9": 3, "46:15": 22, "59:10": 6, "60:4": 46, "60:5": 1,
+ "66:8": 35, "66:11": 10, "71:28": 1,
+}
+
 # ---- load surah files and pull arabic + translation ----
 SURAH_CACHE = {}
 AIWBW_CACHE = {}
@@ -274,20 +294,24 @@ def clean_arabic(t):
     t = MARKS.sub("", t)
     return re.sub(r"\s+", " ", t).strip()
 
-def build_words(surah, num):
-    """Per-word tokens (standard + AI) for one ayah, matching the reader's shapes."""
+def build_words(surah, num, start_word=1):
+    """Per-word tokens (standard + AI) for one ayah, matching the reader's shapes.
+    Tokens at position >= start_word (1-based) get "d": 1 — they are the actual
+    supplication to recite; earlier words are the narrative framing/explanation."""
     a = get_ayah(surah, num)
     wbw = a.get("word_by_word") or {}
     ai_surah = load_aiwbw(surah)
     ai_ayah = (ai_surah.get(str(num)) if ai_surah else None) or {}
     tokens = []
-    for key in sorted(wbw.keys(), key=lambda k: int(k)):
+    for pos, key in enumerate(sorted(wbw.keys(), key=lambda k: int(k)), start=1):
         w = wbw[key]
         tok = {
             "ar": clean_arabic(w.get("arabic") or ""),
             "tr": (w.get("transliteration") or "").strip(),
             "en": (w.get("translation") or "").strip(),
         }
+        if pos >= start_word:
+            tok["d"] = 1
         aw = ai_ayah.get(key)
         if aw and (aw.get("meaning") or aw.get("parts") or aw.get("grammar") or aw.get("root")):
             tok["ai"] = {
@@ -320,7 +344,7 @@ for dua in DUAS:
             arabic_parts.append(ar)
             trans_parts.append(f"({n}) {tr}" if multi else tr)
             ai_trans_parts.append(f"({n}) {ai_tr or tr}" if multi else (ai_tr or tr))
-            words.append(build_words(surah, n))
+            words.append(build_words(surah, n, SUPPL_START.get(f"{surah}:{n}", 1)))
             if load_aiwbw(surah):
                 ai_word_surahs.add(surah)
         ref_strs.append(f"{surah}:{start}" if start == end else f"{surah}:{start}-{end}")
