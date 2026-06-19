@@ -1801,6 +1801,40 @@ body {
   animation: panelOpen 0.35s ease;
 }
 
+/* inline study extras (tadabbur + tafsir) shown under an ayah */
+.ayah-extras { margin-top: 0.9rem; display: flex; flex-direction: column; gap: 0.7rem; }
+.ayah-extra { animation: panelOpen 0.25s ease; }
+.ax-label { font-family: var(--font-ui); font-size: 0.7rem; letter-spacing: 0.05em; text-transform: uppercase; color: var(--gold-muted); margin-bottom: 0.3rem; }
+.ax-tadabbur-input {
+  width: 100%; min-height: 3rem; resize: vertical;
+  font-family: var(--font-body); font-size: 0.95rem; line-height: 1.55; color: var(--ink);
+  background: rgba(255, 255, 255, 0.6); border: 1px solid rgba(31, 107, 82, 0.14);
+  border-radius: var(--radius-sm); padding: 0.6rem 0.75rem;
+}
+.ax-tadabbur-input:focus { outline: none; border-color: var(--green-mid); background: var(--paper); }
+.ax-save-status { font-size: 0.72rem; color: var(--muted); font-style: italic; margin-top: 0.2rem; min-height: 0.9rem; }
+.ax-tafsir {
+  background: rgba(255, 255, 255, 0.55); border: 1px solid rgba(31, 107, 82, 0.1);
+  border-radius: var(--radius-sm); padding: 0.5rem 0.85rem;
+  font-family: var(--font-body); font-size: 0.95rem; line-height: 1.65; color: var(--ink-soft);
+}
+.ax-tafsir > summary { cursor: pointer; font-family: var(--font-ui); font-size: 0.78rem; font-weight: 600; color: var(--green); letter-spacing: 0.02em; list-style: none; }
+.ax-tafsir > summary::-webkit-details-marker { display: none; }
+.ax-tafsir > summary::before { content: "▸ "; color: var(--gold-muted); }
+.ax-tafsir[open] > summary::before { content: "▾ "; }
+.ax-tafsir-body { margin-top: 0.5rem; }
+.ax-tafsir-body p { margin: 0 0 0.5rem; }
+
+/* per-ayah ☰ study menu (mirrors the Content box, for one ayah) */
+.ayah-study-menu-wrap { margin-top: 0.9rem; animation: panelOpen 0.25s ease; }
+.ayah-study-menu {
+  display: inline-flex; flex-direction: column; gap: 0.1rem;
+  background: var(--paper); border: 1px solid var(--gold-soft); border-radius: var(--radius-sm);
+  padding: 0.5rem 0.6rem; box-shadow: var(--shadow-soft, 0 2px 8px rgba(0,0,0,0.06));
+}
+.ayah-study-menu .cm-group-label { font-family: var(--font-ui); font-size: 0.68rem; letter-spacing: 0.05em; text-transform: uppercase; color: var(--gold-muted); padding: 0.1rem 0.4rem 0.25rem; }
+html[data-theme="night"] .ax-tadabbur-input, html[data-theme="night"] .ax-tafsir, html[data-theme="night"] .ayah-study-menu { background: rgba(255,255,255,0.04); }
+
 @keyframes panelOpen {
   from { opacity: 0; transform: translateY(-6px); }
   to { opacity: 1; transform: none; }

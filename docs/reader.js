@@ -34,6 +34,8 @@ const DEFAULT_PREFS = {
   activePanel: "reflection",
   theme: "light",
   bookContent: { arabic: true, translit: false, translation: true, aiTranslation: false, aiTafsir: false, ibnKathir: false, maarif: false },
+  // Tadabbur + tafsir shown inline under every ayah of the whole view (verse/wbw).
+  studyShow: { tadabbur: false, aiTafsir: false, ibnKathir: false, maarif: false },
   editView: "mine",
   editsFilter: { wordEdit: true, transEdit: true, tadabbur: true },
 };
@@ -51,6 +53,7 @@ function loadPrefs() {
     if (!["mine", "original", "both", "none"].includes(merged.editView)) merged.editView = "mine";
     merged.editsFilter = { ...DEFAULT_PREFS.editsFilter, ...(raw.editsFilter || {}) };
     merged.bookContent = { ...DEFAULT_PREFS.bookContent, ...(raw.bookContent || {}) };
+    merged.studyShow = { ...DEFAULT_PREFS.studyShow, ...(raw.studyShow || {}) };
     return merged;
   } catch {
     return { ...DEFAULT_PREFS };
@@ -655,6 +658,7 @@ function ayahBlock(data, ayah, surahId) {
         </div>
         ${translationBlockHtml(a)}
         ${sajdahBannerHtml(surahId, ayah.ayah)}
+        ${ayahExtrasHtml(a, surahId, ayah.ayah)}
       </div>
     </article>`;
 }
@@ -678,6 +682,7 @@ function wbwAyahBlock(data, ayah, surahId) {
         <div class="wbw-grid" dir="rtl">${grid}</div>
         ${transText && prefs.readMode !== "arabic" ? `<p class="wbw-fulltrans">${esc(transText)}</p>` : ""}
         ${sajdahBannerHtml(surahId, ayah.ayah)}
+        ${ayahExtrasHtml(a, surahId, ayah.ayah)}
       </div>
     </article>`;
 }
@@ -808,6 +813,9 @@ function contentMenuHtml(data) {
     const rm = [["arabic", "Arabic only"], ["translation", "Translation"], ["ai", "AI Translation"]];
     sections.push(`<div class="cm-group"><div class="cm-group-label">Reading mode</div>${rm.map(([k, lbl]) => `<label class="cm-item"><input type="radio" name="cm-readmode" data-rm="${k}" ${prefs.readMode === k ? "checked" : ""}> ${lbl}</label>`).join("")}</div>`);
     sections.push(`<label class="cm-item"><input type="checkbox" data-translit ${prefs.showTransliteration ? "checked" : ""}> Transliteration</label>`);
+    // Tadabbur + tafsir under every ayah (whole view); also toggleable per-ayah via ☰.
+    const sx = STUDY_KEYS.map((k) => `<label class="cm-item"><input type="checkbox" data-sx="${k}" ${prefs.studyShow?.[k] ? "checked" : ""}> ${esc(STUDY_LABELS[k])}</label>`).join("");
+    sections.push(`<div class="cm-group"><div class="cm-group-label">Study (whole view)</div>${sx}</div>`);
   }
   if (lm === "book") {
     const bc = [["arabic", "Arabic"], ["translit", "Transliteration"], ["translation", "Translation"], ["aiTranslation", "AI translation"], ["aiTafsir", "AI Tafsir"], ["ibnKathir", "Ibn Kathīr"], ["maarif", "Maʿārif ul Qurʼān"]];
@@ -903,6 +911,22 @@ function getAyahData(surahId, ayahNum) {
   return raw ? mergeLocalEdits(raw, surahId) : null;
 }
 
+// The ayah with the user's saved edits applied, independent of the current
+// edit-version view — so saving a tadabbur note never overwrites word/translation
+// edits with the originals (which getAyahData would, in "Original" view).
+function ayahWithEdits(surahId, ayahNum) {
+  const raw = currentSurah?.ayahs.find((a) => a.ayah === ayahNum);
+  if (!raw) return null;
+  const merged = { ...raw, word_by_word: { ...raw.word_by_word } };
+  if (!canSync) {
+    try {
+      const local = JSON.parse(localStorage.getItem(LS.ayahEdits(surahId, ayahNum)) || "null");
+      if (local) Object.assign(merged, local);
+    } catch (_) {}
+  }
+  return merged;
+}
+
 async function persistAyah(ayahData, statusEl) {
   if (!currentSurah || !ayahData) return;
   try {
@@ -979,6 +1003,57 @@ function debouncedSave() {
   saveTimer = setTimeout(persistSelectedAyah, 600);
 }
 
+// ---- Inline study extras (tadabbur + tafsir) shown under an ayah ----
+// View-wide via prefs.studyShow (the Content box); per-ayah via ayahShow overrides
+// (the ☰ menu). An ayah shows an extra if either is on.
+const STUDY_KEYS = ["tadabbur", "aiTafsir", "ibnKathir", "maarif"];
+const STUDY_LABELS = { tadabbur: "Tadabbur", aiTafsir: "AI Tafsir", ibnKathir: "Ibn Kathīr", maarif: "Maʿārif ul Qurʼān" };
+const ayahShow = {}; // "surah:ayah" -> { tadabbur, aiTafsir, ibnKathir, maarif } (session, additive)
+
+function effectiveShow(surahId, ayahNum, key) {
+  if (prefs.studyShow?.[key]) return true;
+  return !!ayahShow[`${surahId}:${ayahNum}`]?.[key];
+}
+function anyEffectiveShow(surahId, ayahNum) {
+  return STUDY_KEYS.some((k) => effectiveShow(surahId, ayahNum, k));
+}
+function tafsirFieldFor(ay, key) {
+  if (key === "aiTafsir") return ay.ai_tafsir;
+  if (key === "ibnKathir") return ay.tafsir_ibn_kathir || ay.qf_tafsir;
+  if (key === "maarif") return ay.maarif_ul_quran;
+  return null;
+}
+
+// The editable tadabbur + tafsir blocks rendered beneath an ayah.
+function ayahExtrasHtml(ay, surahId, ayahNum) {
+  if (!anyEffectiveShow(surahId, ayahNum)) return "";
+  const blocks = [];
+  if (effectiveShow(surahId, ayahNum, "tadabbur")) {
+    blocks.push(`<div class="ayah-extra ax-tadabbur">
+        <div class="ax-label">Tadabbur</div>
+        <textarea class="ax-tadabbur-input" data-s="${surahId}" data-a="${ayahNum}" rows="2" placeholder="Your tadabbur — what does this ayah move in your heart?">${esc(ay.personal_reflections || "")}</textarea>
+        <div class="ax-save-status"></div>
+      </div>`);
+  }
+  for (const key of ["aiTafsir", "ibnKathir", "maarif"]) {
+    if (!effectiveShow(surahId, ayahNum, key)) continue;
+    const text = tafsirFieldFor(ay, key);
+    if (!text) continue;
+    blocks.push(`<details class="ayah-extra ax-tafsir" open><summary>${esc(STUDY_LABELS[key])}</summary><div class="ax-tafsir-body">${md(text)}</div></details>`);
+  }
+  return blocks.length ? `<div class="ayah-extras">${blocks.join("")}</div>` : "";
+}
+
+// Per-ayah ☰ menu: the same study toggles as the Content box, scoped to one ayah.
+function ayahStudyMenuHtml(surahId, ayahNum) {
+  const items = STUDY_KEYS.map((k) => {
+    const viewOn = !!prefs.studyShow?.[k];
+    const on = effectiveShow(surahId, ayahNum, k);
+    return `<label class="cm-item"><input type="checkbox" data-axs="${k}" ${on ? "checked" : ""} ${viewOn ? "disabled title='On for the whole view'" : ""}> ${esc(STUDY_LABELS[k])}</label>`;
+  }).join("");
+  return `<div class="ayah-study-menu"><div class="cm-group-label">Show for this ayah</div>${items}</div>`;
+}
+
 function panelContent(ayah) {
   if (prefs.activePanel === "reflection") {
     return `<p class="panel-intro">Leave a personal note — what does this ayah move in your heart?</p>
@@ -1004,13 +1079,14 @@ function panelContent(ayah) {
 }
 
 function studyPanelHtml(ayah) {
-  const hasContext = !!(ayah.context && ayah.context.trim());
+  // Context tab removed for now — to be revamped and reinstated later. The
+  // panelContent("context") branch and bindContextInput are kept for that.
+  if (prefs.activePanel === "context") prefs.activePanel = "reflection";
   return `
     <div class="study-panel">
       <div class="study-panel-head">
         <div class="panel-tabs">
           <button type="button" class="btn panel-tab ${prefs.activePanel === "reflection" ? "active" : ""}" data-panel="reflection">Tadabbur</button>
-          <button type="button" class="btn panel-tab ${prefs.activePanel === "context" ? "active" : ""} ${hasContext ? "has-content" : ""}" data-panel="context">Context</button>
           <button type="button" class="btn panel-tab ${prefs.activePanel === "tafsir" ? "active" : ""}" data-panel="tafsir">Tafsir</button>
         </div>
         <button type="button" class="study-close-btn" data-action="close-study" aria-label="Close">×</button>
@@ -1098,22 +1174,38 @@ function openStudyPanel(ayahNum) {
     return;
   }
 
-  // Insert inside the body column, not the flex row — otherwise the panel becomes
-  // a third flex sibling and squeezes the Arabic/translation to zero width (esp. mobile).
+  // Verse / word-by-word: a per-ayah study menu (same toggles as the Content box,
+  // scoped to this ayah). Toggling reveals the inline tadabbur/tafsir below.
   const host = block.querySelector(".ayah-body") || block;
-  host.insertAdjacentHTML("beforeend", studyPanelHtml(selectedAyah));
+  host.insertAdjacentHTML("beforeend", `<div class="ayah-study-menu-wrap">${ayahStudyMenuHtml(currentSurah.id, ayahNum)}</div>`);
   block.classList.add("expanded", "active");
   block.querySelector(".study-btn")?.classList.add("open");
-  bindStudyPanelEvents(block);
 
   requestAnimationFrame(() => {
-    block.querySelector(".study-panel")?.scrollIntoView({ behavior: "smooth", block: "nearest" });
+    block.querySelector(".ayah-study-menu-wrap")?.scrollIntoView({ behavior: "smooth", block: "nearest" });
   });
+}
+
+// Re-render just one ayah's inline extras (after a per-ayah toggle), keeping the menu open.
+function refreshAyahExtras(surahId, ayahNum) {
+  const block = document.getElementById(`ayah-${surahId}-${ayahNum}`);
+  if (!block) return;
+  const body = block.querySelector(".ayah-body") || block;
+  const raw = currentSurah?.ayahs.find((a) => a.ayah === ayahNum);
+  const html = raw ? ayahExtrasHtml(mergeLocalEdits(raw, surahId), surahId, ayahNum) : "";
+  const existing = body.querySelector(".ayah-extras");
+  if (existing) {
+    if (html) existing.outerHTML = html; else existing.remove();
+  } else if (html) {
+    const menu = body.querySelector(".ayah-study-menu-wrap");
+    if (menu) menu.insertAdjacentHTML("beforebegin", html);
+    else body.insertAdjacentHTML("beforeend", html);
+  }
 }
 
 function closeStudyPanel() {
   expandedAyah = null;
-  document.querySelectorAll(".study-panel").forEach((el) => el.remove());
+  document.querySelectorAll(".study-panel, .ayah-study-menu-wrap").forEach((el) => el.remove());
   const bookSlot = document.getElementById("book-study-slot");
   if (bookSlot) bookSlot.innerHTML = "";
   document.querySelectorAll(".ayah-block").forEach((el) => {
@@ -2256,6 +2348,13 @@ document.addEventListener("change", async (e) => {
     if (currentSurah) refreshAyahStream(currentSurah.id);
     return;
   }
+  // Study (whole view): tadabbur / tafsir inline under every ayah.
+  if (t.matches("input[data-sx]")) {
+    prefs.studyShow[t.dataset.sx] = t.checked;
+    savePrefs();
+    if (currentSurah) refreshAyahStream(currentSurah.id);
+    return;
+  }
   // Reading mode / transliteration / edit version: full re-render.
   if (t.matches("input[data-rm]")) {
     if (!t.checked) return;
@@ -2268,6 +2367,32 @@ document.addEventListener("change", async (e) => {
   } else return;
   savePrefs();
   if (currentSurah) await renderSurah(currentSurah, visibleAyah || getLastReadForSurah(currentSurah.id)?.ayah);
+});
+
+// Per-ayah ☰ study menu: toggle an extra for just this ayah (additive over view-wide).
+document.addEventListener("change", (e) => {
+  const axs = e.target.closest && e.target.closest(".ayah-study-menu input[data-axs]");
+  if (!axs) return;
+  const block = axs.closest(".ayah-block");
+  if (!block) return;
+  const s = +block.dataset.surah, an = +block.dataset.ayah;
+  const key = `${s}:${an}`;
+  (ayahShow[key] || (ayahShow[key] = {}))[axs.dataset.axs] = axs.checked;
+  refreshAyahExtras(s, an);
+});
+
+// Inline tadabbur: save as you type, mark the ayah as having a note.
+document.addEventListener("input", (e) => {
+  const ta = e.target.closest && e.target.closest(".ax-tadabbur-input");
+  if (!ta) return;
+  const s = +ta.dataset.s, an = +ta.dataset.a;
+  const ay = ayahWithEdits(s, an);
+  if (!ay) return;
+  ay.personal_reflections = ta.value;
+  selectedAyah = ay;
+  clearTimeout(saveTimer);
+  saveTimer = setTimeout(persistSelectedAyah, 600);
+  document.getElementById(`ayah-${s}-${an}`)?.querySelector(".study-btn")?.classList.toggle("has-note", !!ta.value.trim());
 });
 
 document.addEventListener("keydown", (e) => {
