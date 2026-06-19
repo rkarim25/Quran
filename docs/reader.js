@@ -2937,9 +2937,11 @@ async function renderDuas(focusId) {
       <header class="duas-intro">
         <h1 class="duas-title">Duas of the Qur'an</h1>
         <p class="duas-sub">${duas.length} supplications made by the prophets and the believers — each with who said it and the moment behind it.</p>
+        <p class="duas-hint">Tap any Arabic word for its meaning, grammar, and root.</p>
       </header>
       <div class="dua-filters" id="dua-filters">
         <button type="button" class="dua-chip active" data-theme="all">All <span class="dua-chip-n">${duas.length}</span></button>
+        <button type="button" class="dua-chip dua-chip-oft" data-theme="oft" title="Authentically reported as frequently recited by the Prophet ﷺ">★ Oft-recited <span class="dua-chip-n">${duas.filter((d) => d.oft_repeated).length}</span></button>
         ${themes
           .map(
             (t) =>
@@ -2951,10 +2953,14 @@ async function renderDuas(focusId) {
     </div>`;
   const listEl = document.getElementById("dua-list");
   function renderList(theme) {
-    const items = theme === "all" ? duas : duas.filter((d) => d.theme === theme);
+    const items =
+      theme === "all" ? duas :
+      theme === "oft" ? duas.filter((d) => d.oft_repeated) :
+      duas.filter((d) => d.theme === theme);
     listEl.innerHTML = items.map(duaCard).join("");
   }
   renderList("all");
+  bindDuaWordHover(listEl);
   document.querySelectorAll(".dua-chip").forEach((chip) => {
     chip.addEventListener("click", () => {
       document.querySelectorAll(".dua-chip").forEach((c) => c.classList.toggle("active", c === chip));
@@ -2972,17 +2978,114 @@ async function renderDuas(focusId) {
 }
 
 function duaCard(d) {
-  return `<article class="dua-card" id="dua-${esc(d.id)}">
+  return `<article class="dua-card${d.oft_repeated ? " dua-card-oft" : ""}" id="dua-${esc(d.id)}">
     <div class="dua-card-hd">
       <h2 class="dua-card-title">${esc(d.title)}</h2>
       <a href="#/${d.surah}/${d.ayah}" class="dua-ref" title="Read in context">${esc(d.ref)}</a>
     </div>
+    ${d.oft_repeated ? `<div class="dua-oft">★ Among the supplications most often recited by the Prophet ﷺ</div>` : ""}
     <div class="dua-who"><span class="dua-tag">Said by</span> ${esc(d.who)}</div>
-    <p class="dua-arabic" dir="rtl" lang="ar">${esc(d.arabic)}</p>
-    <p class="dua-trans">${esc(d.translation)}</p>
+    <p class="dua-arabic" dir="rtl" lang="ar">${duaArabicHtml(d)}</p>
+    <p class="dua-trans"><span class="dua-tag dua-tag-ai">AI translation</span> ${esc(d.ai_translation || d.translation)}</p>
     <div class="dua-situation"><span class="dua-tag dua-tag-when">When &amp; why</span> ${esc(d.situation)}</div>
     <a href="#/${d.surah}/${d.ayah}" class="dua-read">Read in context →</a>
   </article>`;
+}
+
+function toArabicDigits(n) {
+  const ar = "٠١٢٣٤٥٦٧٨٩";
+  return String(n).replace(/[0-9]/g, (x) => ar[+x]);
+}
+
+function duaArabicHtml(d) {
+  if (!Array.isArray(d.words) || !d.words.length) return esc(d.arabic || "");
+  const multi = d.words.length > 1;
+  return d.words
+    .map((grp, gi) => {
+      const ws = (grp.t || [])
+        .map(
+          (tok, i) =>
+            `<span class="q-word dua-word" data-dua="${esc(d.id)}" data-g="${gi}" data-i="${i}" tabindex="0">${esc(tok.ar)}</span>`
+        )
+        .join(" ");
+      return ws + (multi ? ` <span class="dua-ayah-num" aria-hidden="true">${toArabicDigits(grp.a)}</span> ` : "");
+    })
+    .join("");
+}
+
+let duaWtTimer = null;
+function bindDuaWordHover(listEl) {
+  listEl.addEventListener("mouseover", (e) => {
+    const w = e.target.closest(".dua-word");
+    if (!w) return;
+    clearTimeout(duaWtTimer);
+    showDuaWordTooltip(w);
+  });
+  listEl.addEventListener("mouseout", (e) => {
+    if (!e.target.closest(".dua-word")) return;
+    duaWtTimer = setTimeout(hideTooltip, 220);
+  });
+  listEl.addEventListener("click", (e) => {
+    const w = e.target.closest(".dua-word");
+    if (!w) return;
+    e.preventDefault();
+    clearTimeout(duaWtTimer);
+    showDuaWordTooltip(w);
+  });
+  listEl.addEventListener("focusin", (e) => {
+    const w = e.target.closest(".dua-word");
+    if (w) showDuaWordTooltip(w);
+  });
+  const wt = document.getElementById("word-tooltip");
+  if (wt && !wt.dataset.duaHoverBound) {
+    wt.dataset.duaHoverBound = "1";
+    wt.addEventListener("mouseenter", () => clearTimeout(duaWtTimer));
+    wt.addEventListener("mouseleave", () => {
+      duaWtTimer = setTimeout(hideTooltip, 220);
+    });
+  }
+}
+
+// Read-only word tooltip for the Duas tab. Reuses the shared #word-tooltip
+// element + classes, but reads from the baked-in dua word data (cache.duas)
+// instead of currentSurah, since duas span many sūrahs.
+function showDuaWordTooltip(el) {
+  const tooltip = document.getElementById("word-tooltip");
+  if (!tooltip) return;
+  const dua = (cache.duas || []).find((d) => d.id === el.dataset.dua);
+  const grp = dua && dua.words ? dua.words[+el.dataset.g] : null;
+  const tok = grp && grp.t ? grp.t[+el.dataset.i] : null;
+  if (!tok) return;
+  document.querySelectorAll(".q-word.active").forEach((w) => w.classList.remove("active"));
+  el.classList.add("active");
+  const ai = tok.ai;
+  tooltip.hidden = false;
+  tooltip.classList.remove("pinned");
+  tooltip.classList.toggle("ai", !!ai);
+  if (ai) {
+    tooltip.innerHTML = `<div class="wt-ar">${esc(tok.ar)}</div>
+      <div class="wt-tr">${esc(tok.tr || "")}</div>
+      <div class="wt-ai-meaning">${esc(ai.m || tok.en || "")}</div>
+      ${ai.p && ai.p.length ? `<div class="wt-ai-parts">${ai.p.map((p) => `<span class="wt-seg"><span class="wt-seg-ar" dir="rtl" lang="ar">${esc(p.ar || "")}</span><span class="wt-seg-en">${p.tr ? `<em>${esc(p.tr)}</em> — ` : ""}${esc(p.en || "")}</span></span>`).join("")}</div>` : ""}
+      ${ai.g ? `<div class="wt-ai-grammar">${esc(ai.g)}</div>` : ""}
+      ${ai.r ? `<div class="wt-ai-root">${esc(ai.r)}</div>` : ""}`;
+  } else {
+    tooltip.innerHTML = `<div class="wt-ar">${esc(tok.ar)}</div>
+      <div class="wt-tr">${esc(tok.tr || "")}</div>
+      <div class="wt-en">${esc(tok.en || "")}</div>
+      <div class="wt-ai-pending">Detailed AI word analysis for this sūrah is being prepared.</div>`;
+  }
+  const m = 8;
+  const rect = el.getBoundingClientRect();
+  const ttW = tooltip.offsetWidth, ttH = tooltip.offsetHeight;
+  const left = Math.min(Math.max(m, rect.left), Math.max(m, window.innerWidth - ttW - m));
+  let top = rect.bottom + m;
+  if (top + ttH > window.innerHeight - m) {
+    const above = rect.top - ttH - m;
+    top = above >= m ? above : Math.max(m, window.innerHeight - ttH - m);
+  }
+  tooltip.style.left = `${left}px`;
+  tooltip.style.top = `${top}px`;
 }
 
 function renderBookmarks() {

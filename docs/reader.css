@@ -3517,7 +3517,32 @@ html[data-theme="night"] .network-svg { color: var(--text-night, #d8d0c4); }
   .duas-title { font-size: 1.55rem; }
 }
 
+.duas-hint { font-family: var(--font-ui); font-size: 0.78rem; color: var(--green); margin: 0.55rem auto 0; opacity: 0.85; }
+
+/* Oft-recited filter chip + card badge */
+.dua-chip-oft { border-color: var(--gold-soft); color: var(--gold-muted, #9a8455); }
+.dua-chip-oft:hover { border-color: var(--gold-soft); color: var(--gold-muted, #9a8455); background: #fbf4e4; }
+.dua-chip-oft.active { background: var(--gold-soft); border-color: var(--gold-soft); color: #4a3b18; }
+.dua-card-oft { border-left-color: var(--gold-soft); }
+.dua-oft {
+  font-family: var(--font-ui); font-size: 0.74rem; font-weight: 600; color: var(--gold-muted, #9a8455);
+  background: #fbf4e4; border-radius: var(--radius-sm); padding: 0.35rem 0.6rem; margin-bottom: 0.7rem;
+  display: inline-block;
+}
+
+/* AI translation label */
+.dua-tag-ai { color: var(--green); }
+
+/* Hoverable Arabic words in dua cards */
+.dua-arabic .q-word { cursor: help; }
+.dua-ayah-num {
+  font-family: var(--font-arabic); font-size: 1.05rem; color: var(--gold-muted, #9a8455);
+  margin: 0 0.15rem; opacity: 0.75;
+}
+
 html[data-theme="night"] .dua-card { background: rgba(255,255,255,0.04); }
 html[data-theme="night"] .dua-chip { background: rgba(255,255,255,0.04); }
 html[data-theme="night"] .dua-situation { background: rgba(31,107,82,0.12); }
 html[data-theme="night"] .dua-ref { background: rgba(31,107,82,0.18); }
+html[data-theme="night"] .dua-oft { background: rgba(154,132,85,0.15); }
+html[data-theme="night"] .dua-chip-oft:hover { background: rgba(154,132,85,0.15); }

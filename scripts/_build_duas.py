@@ -2,7 +2,7 @@
 """Build docs/data/duas.json: authored metadata + authentic Arabic/translation
 pulled from the existing surah_N.json files. Source list of references:
 quranwbw.com/duas (supplicationsFromQuran in their repo)."""
-import json, sys, os
+import json, sys, os, re
 sys.stdout.reconfigure(encoding="utf-8")
 
 # Each dua: id, title, theme, who, situation, and segments [[surah, start, end], ...]
@@ -234,46 +234,102 @@ THEME_MAP = {
 for _d in DUAS:
     _d["theme"] = THEME_MAP.get(_d["theme"], _d["theme"])
 
+# Duas with authentic reports of being frequently recited by the Prophet (peace
+# be upon him). Surfaced as a special "Oft-recited by the Prophet" tag/filter.
+#  2:201   - Anas: the supplication the Prophet recited most (Bukhari, Muslim)
+#  2:285-6 - last verses of al-Baqarah; "...recites them at night, they suffice him" (Bukhari, Muslim)
+#  3:8     - "Our Lord, let not our hearts deviate" - his dua for steadfastness
+#  3:191-4 - recited on waking for night prayer (Bukhari, Muslim - Ibn Abbas)
+#  21:87   - Dua of Dhun-Nun; "no one supplicates with it but Allah answers" (Tirmidhi)
+OFT_REPEATED = {"good-both-worlds", "end-baqarah", "rooted-knowledge", "ulul-albab", "yunus-whale"}
+for _d in DUAS:
+    _d["oft_repeated"] = _d["id"] in OFT_REPEATED
+
 # ---- load surah files and pull arabic + translation ----
 SURAH_CACHE = {}
+AIWBW_CACHE = {}
 def load_surah(n):
     if n not in SURAH_CACHE:
-        path = f"docs/data/surah_{n}.json"
-        SURAH_CACHE[n] = json.load(open(path, encoding="utf-8"))
+        SURAH_CACHE[n] = json.load(open(f"docs/data/surah_{n}.json", encoding="utf-8"))
     return SURAH_CACHE[n]
 
+def load_aiwbw(n):
+    if n not in AIWBW_CACHE:
+        p = f"docs/data/ai_wbw/surah_{n}.json"
+        AIWBW_CACHE[n] = json.load(open(p, encoding="utf-8")) if os.path.exists(p) else None
+    return AIWBW_CACHE[n]
+
 def get_ayah(surah, num):
-    d = load_surah(surah)
-    for a in d["ayahs"]:
+    for a in load_surah(surah)["ayahs"]:
         if a.get("ayah") == num:
             return a
     raise KeyError(f"{surah}:{num} not found")
 
+PUA = re.compile("[-]")
+MARKS = re.compile("[‎‏﻿؜]")
+def clean_arabic(t):
+    if not t:
+        return ""
+    t = PUA.sub("", t)
+    t = MARKS.sub("", t)
+    return re.sub(r"\s+", " ", t).strip()
+
+def build_words(surah, num):
+    """Per-word tokens (standard + AI) for one ayah, matching the reader's shapes."""
+    a = get_ayah(surah, num)
+    wbw = a.get("word_by_word") or {}
+    ai_surah = load_aiwbw(surah)
+    ai_ayah = (ai_surah.get(str(num)) if ai_surah else None) or {}
+    tokens = []
+    for key in sorted(wbw.keys(), key=lambda k: int(k)):
+        w = wbw[key]
+        tok = {
+            "ar": clean_arabic(w.get("arabic") or ""),
+            "tr": (w.get("transliteration") or "").strip(),
+            "en": (w.get("translation") or "").strip(),
+        }
+        aw = ai_ayah.get(key)
+        if aw and (aw.get("meaning") or aw.get("parts") or aw.get("grammar") or aw.get("root")):
+            tok["ai"] = {
+                "m": (aw.get("meaning") or "").strip(),
+                "p": [{"ar": p.get("ar", ""), "tr": p.get("tr", ""), "en": p.get("en", "")} for p in (aw.get("parts") or [])],
+                "g": (aw.get("grammar") or "").strip(),
+                "r": (aw.get("root") or "").strip(),
+            }
+        tokens.append(tok)
+    return {"a": num, "t": tokens}
+
 out = []
 problems = []
+ai_tr_missing = 0
+ai_word_surahs = set()
 for dua in DUAS:
-    arabic_parts = []
-    trans_parts = []
-    ref_strs = []
+    arabic_parts, trans_parts, ai_trans_parts, ref_strs, words = [], [], [], [], []
     for (surah, start, end) in dua["segments"]:
         nums = list(range(start, end + 1))
+        multi = len(nums) > 1 or len(dua["segments"]) > 1
         for n in nums:
             a = get_ayah(surah, n)
             ar = (a.get("arabic") or "").strip()
             tr = (a.get("translation") or "").strip()
+            ai_tr = (a.get("ai_translation") or "").strip()
             if not ar or not tr:
                 problems.append(f"{dua['id']} {surah}:{n} missing arabic/translation")
+            if not ai_tr:
+                ai_tr_missing += 1
             arabic_parts.append(ar)
-            trans_parts.append(f"({n}) {tr}" if len(nums) > 1 or len(dua["segments"]) > 1 else tr)
-        if start == end:
-            ref_strs.append(f"{surah}:{start}")
-        else:
-            ref_strs.append(f"{surah}:{start}-{end}")
+            trans_parts.append(f"({n}) {tr}" if multi else tr)
+            ai_trans_parts.append(f"({n}) {ai_tr or tr}" if multi else (ai_tr or tr))
+            words.append(build_words(surah, n))
+            if load_aiwbw(surah):
+                ai_word_surahs.add(surah)
+        ref_strs.append(f"{surah}:{start}" if start == end else f"{surah}:{start}-{end}")
     first = dua["segments"][0]
     out.append({
         "id": dua["id"],
         "title": dua["title"],
         "theme": dua["theme"],
+        "oft_repeated": dua["oft_repeated"],
         "who": dua["who"],
         "situation": dua["situation"],
         "ref": ", ".join(ref_strs),
@@ -281,16 +337,22 @@ for dua in DUAS:
         "ayah": first[1],
         "arabic": "  ".join(arabic_parts),
         "translation": " ".join(trans_parts),
+        "ai_translation": " ".join(ai_trans_parts),
+        "words": words,
     })
 
 os.makedirs("docs/data", exist_ok=True)
-json.dump(out, open("docs/data/duas.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+json.dump(out, open("docs/data/duas.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
 
 themes = {}
 for d in out:
     themes[d["theme"]] = themes.get(d["theme"], 0) + 1
-print(f"Wrote {len(out)} duas to docs/data/duas.json")
+size_kb = os.path.getsize("docs/data/duas.json") / 1024
+print(f"Wrote {len(out)} duas to docs/data/duas.json ({size_kb:.0f} KB)")
 print("Themes:", json.dumps(themes, ensure_ascii=False))
+print(f"Oft-repeated: {sum(1 for d in out if d['oft_repeated'])}")
+print(f"Surahs with AI word data: {len(ai_word_surahs)} -> {sorted(ai_word_surahs)}")
+print(f"Ayahs missing ai_translation (fell back to standard): {ai_tr_missing}")
 if problems:
     print("PROBLEMS:")
     for p in problems:
