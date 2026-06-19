@@ -2895,41 +2895,36 @@ html[data-theme="night"] .mb-frame { background: linear-gradient(135deg, rgba(20
 
 
 /* ============================================================
-   PRINT v8 — mobile-safe frame.
-   The gold border + parchment tint are drawn with position:fixed overlays
-   (#print-root::before/::after, body::before) so they repeat as a complete
-   rectangle on every printed page — the table can't do that (cell borders don't
-   repeat across page breaks). The overlays were sized with right/bottom offsets,
-   which MOBILE browsers measure from the device-width viewport (~375px), shoving
-   the frame to mid-page with the text spilling outside it. Size them instead with
-   explicit mm width/height anchored at top/left, so they map to the real A4 sheet
-   regardless of viewport. Also pin the page + content table to absolute widths so
-   the text itself stays inside the rule on a phone. */
+   PRINT v8 — mobile-safe frame (no position:fixed).
+   position:fixed overlays repeat per page on DESKTOP Chromium but break on
+   MOBILE: phones anchor them to the device viewport, so the rule landed at the
+   wrong offset (cutting the title) and spanned both pages instead of repeating.
+   Draw the gold rule + parchment tint on the content box itself and let
+   box-decoration-break:clone reprint the border on each page fragment — that
+   works the same in every browser. Pin to absolute mm widths so the sheet maps
+   to the real page, not the phone viewport. */
 @media print {
+  /* retire every fixed overlay */
+  #print-root::before, #print-root::after, body::before { display: none !important; }
+
   html, body { width: 210mm !important; }
-  #print-root { width: 210mm !important; padding: 0 !important; }
+  #print-root { width: 210mm !important; padding: 0 !important; background: transparent !important; }
+
+  /* collapse the table chrome (edge spacers + per-page footer) and run the frame
+     as one bordered block that clones its border onto every printed page */
+  .pr-frame, .pr-frame > tbody, .pr-frame > tbody > tr { display: block !important; }
+  .pr-frame > thead, .pr-frame > tfoot { display: none !important; }
   .pr-frame { width: 190mm !important; margin: 0 auto !important; }
-
-  /* outer gold rule + parchment tint: 7mm in from the page edge */
-  #print-root::before, body::before {
-    right: auto !important; bottom: auto !important;
-    width: 196mm !important; height: 283mm !important;
-  }
-  /* inner hairline rule: 8.6mm in */
-  #print-root::after {
-    right: auto !important; bottom: auto !important;
-    width: 192.8mm !important; height: 279.8mm !important;
+  .pr-cell {
+    display: block !important;
+    border: 1.4pt solid #b1922f !important;
+    background: #fdfbf4 !important;
+    padding: 9mm 12mm 10mm !important;
+    -webkit-box-decoration-break: clone; box-decoration-break: clone;
   }
 
-  /* landscape side-by-side: wider sheet, swapped overlay dimensions */
+  /* landscape side-by-side: just the wider sheet */
   html:has(#print-root.layout-facing), body:has(#print-root.layout-facing),
   #print-root.layout-facing { width: 297mm !important; }
   #print-root.layout-facing .pr-frame { width: 277mm !important; }
-  body:has(#print-root.layout-facing)::before,
-  html:has(#print-root.layout-facing) #print-root::before {
-    width: 283mm !important; height: 196mm !important;
-  }
-  html:has(#print-root.layout-facing) #print-root::after {
-    width: 279.8mm !important; height: 192.8mm !important;
-  }
 }
