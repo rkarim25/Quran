@@ -1035,7 +1035,8 @@ function effectiveShow(surahId, ayahNum, key) {
   return !!ayahShow[`${surahId}:${ayahNum}`]?.[key];
 }
 function anyEffectiveShow(surahId, ayahNum) {
-  return STUDY_KEYS.some((k) => effectiveShow(surahId, ayahNum, k));
+  return STUDY_KEYS.some((k) => effectiveShow(surahId, ayahNum, k))
+    || !!ayahShow[`${surahId}:${ayahNum}`]?.timeline;
 }
 function tafsirFieldFor(ay, key) {
   if (key === "aiTafsir") return ay.ai_tafsir;
@@ -1061,6 +1062,9 @@ function ayahExtrasHtml(ay, surahId, ayahNum) {
     if (!text) continue;
     blocks.push(`<details class="ayah-extra ax-tafsir" open><summary>${esc(STUDY_LABELS[key])}</summary><div class="ax-tafsir-body">${md(text)}</div></details>`);
   }
+  if (ayahShow[`${surahId}:${ayahNum}`]?.timeline) {
+    blocks.push(`<div class="ayah-extra ax-timeline">${renderTimelinePanel()}</div>`);
+  }
   return blocks.length ? `<div class="ayah-extras">${blocks.join("")}</div>` : "";
 }
 
@@ -1071,7 +1075,9 @@ function ayahStudyMenuHtml(surahId, ayahNum) {
     const on = effectiveShow(surahId, ayahNum, k);
     return `<label class="cm-item"><input type="checkbox" data-axs="${k}" ${on ? "checked" : ""} ${viewOn ? "disabled title='On for the whole view'" : ""}> ${esc(STUDY_LABELS[k])}</label>`;
   }).join("");
-  return `<div class="ayah-study-menu"><div class="cm-group-label">Show for this ayah</div>${items}</div>`;
+  const tlOn = !!ayahShow[`${surahId}:${ayahNum}`]?.timeline;
+  const tlItem = `<label class="cm-item"><input type="checkbox" data-axs="timeline" ${tlOn ? "checked" : ""}> Timeline</label>`;
+  return `<div class="ayah-study-menu"><div class="cm-group-label">Show for this ayah</div>${items}${tlItem}</div>`;
 }
 
 function panelContent(ayah) {
@@ -2501,7 +2507,7 @@ document.addEventListener("change", async (e) => {
 });
 
 // Per-ayah ☰ study menu: toggle an extra for just this ayah (additive over view-wide).
-document.addEventListener("change", (e) => {
+document.addEventListener("change", async (e) => {
   const axs = e.target.closest && e.target.closest(".ayah-study-menu input[data-axs]");
   if (!axs) return;
   const block = axs.closest(".ayah-block");
@@ -2509,7 +2515,13 @@ document.addEventListener("change", (e) => {
   const s = +block.dataset.surah, an = +block.dataset.ayah;
   const key = `${s}:${an}`;
   (ayahShow[key] || (ayahShow[key] = {}))[axs.dataset.axs] = axs.checked;
+  if (axs.dataset.axs === "timeline" && axs.checked && !cache.timeline) {
+    await loadTimeline();
+  }
   refreshAyahExtras(s, an);
+  if (axs.dataset.axs === "timeline" && axs.checked) {
+    bindTimelineEvents(block);
+  }
 });
 
 // Inline tadabbur: save as you type, mark the ayah as having a note.
