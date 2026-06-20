@@ -940,5 +940,1091 @@
       }
     ],
     "extracted": true
+  },
+  "h116": {
+    "id": "h116",
+    "narrator": "Abu Hurayrah",
+    "text": "That which is between the two blowings is forty. Then Allah will send down a rain from the sky and the dead bodies will sprout just as a green plant sprouts. Every part of man will deteriorate except for one bone, and it is the coccyx (tailbone). From it the creation will be assembled on the Day of Judgement.",
+    "source": "Sahih Al-Bukhari",
+    "source_short": "Bukhari",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "The two blowings of the Trumpet and the resurrection from the coccyx",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Abu Hurayrah",
+        "type": "sahabi",
+        "id": "abu-hurairah"
+      },
+      {
+        "name": "Sahih Al-Bukhari",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "abu-hurairah"
+  },
+  "h117": {
+    "id": "h117",
+    "narrator": "",
+    "text": "And none will speak on that Day except the Messengers.",
+    "source": "Sahih",
+    "source_short": "Sahih",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "Only the Messengers will speak on the Day of Judgement",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Sahih",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h118": {
+    "id": "h118",
+    "narrator": "",
+    "text": "When Jibril asked the Messenger of Allah about the time of the Last Hour, he said: \"The one questioned about it knows no more than the questioner.\"",
+    "source": "",
+    "source_short": "",
+    "book": "",
+    "reference": "",
+    "grade": "",
+    "topic": "The timing of the Hour is known only to Allah",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      }
+    ],
+    "extracted": true
+  },
+  "h119": {
+    "id": "h119",
+    "narrator": "Aishah",
+    "text": "He who recites the Qur'an proficiently will be with the noble, righteous, ambassador angels, and the one who recites it with difficulty will receive two rewards.",
+    "source": "Recorded by Imam Ahmad; reported by the group",
+    "source_short": "Ahmad",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "Reward for reciting the Qur'an and being with the noble angels",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Aishah",
+        "type": "sahabi",
+        "id": "aisha-bint-abi-bakr"
+      },
+      {
+        "name": "Recorded by Imam Ahmad; reported by the group",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "aisha-bint-abi-bakr"
+  },
+  "h120": {
+    "id": "h120",
+    "narrator": "Abu Hurayrah",
+    "text": "All of the Sons of Adam will decay except for the bone of the coccyx (tailbone). From it he was created and by it he will be reconstructed.",
+    "source": "The Two Sahihs (Al-Bukhari and Muslim)",
+    "source_short": "Bukhari and Muslim",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "The body decays except the tailbone, from which man is resurrected",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Abu Hurayrah",
+        "type": "sahabi",
+        "id": "abu-hurairah"
+      },
+      {
+        "name": "The Two Sahihs (Al-Bukhari and Muslim)",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "abu-hurairah"
+  },
+  "h121": {
+    "id": "h121",
+    "narrator": "Ibn Abbas",
+    "text": "You will all be gathered barefoot, naked, walking and uncircumcised. When asked whether people would look at one another's nakedness, he replied: Every man among them on that Day will have enough worries to make him careless of others.",
+    "source": "Recorded by Ibn Abi Hatim",
+    "source_short": "Ibn Abi Hatim",
+    "book": "",
+    "reference": "",
+    "grade": "Hasan Sahih",
+    "topic": "People gathered naked on the Day of Resurrection, too preoccupied to notice others",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Ibn Abbas",
+        "type": "sahabi",
+        "id": "ibn-abbas"
+      },
+      {
+        "name": "Recorded by Ibn Abi Hatim",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "ibn-abbas"
+  },
+  "h122": {
+    "id": "h122",
+    "narrator": "Ibn 'Umar",
+    "text": "Whoever wishes to look at the Day of Judgement as if he is seeing it with his own eyes, then let him read: When the sun is wound round (81:1), and When the heaven is cleft asunder (82:1), and When the heaven is split asunder (84:1).",
+    "source": "Ahmad",
+    "source_short": "Ahmad",
+    "book": "",
+    "reference": "",
+    "grade": "",
+    "topic": "Reciting Surat At-Takwir and the Day of Judgement",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Ibn 'Umar",
+        "type": "sahabi"
+      },
+      {
+        "name": "Ahmad",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h123": {
+    "id": "h123",
+    "narrator": "Abu Hurayrah",
+    "text": "The sun and the moon will be rolled up on the Day of Judgement.",
+    "source": "Sahih al-Bukhari",
+    "source_short": "Bukhari",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "The rolling up of the sun and moon",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Abu Hurayrah",
+        "type": "sahabi",
+        "id": "abu-hurairah"
+      },
+      {
+        "name": "Sahih al-Bukhari",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "abu-hurairah"
+  },
+  "h124": {
+    "id": "h124",
+    "narrator": "An-Nu'man bin Bashir",
+    "text": "\"And when the souls are joined with their mates\" means those who are alike: every man will be with every group of people who performed the same deeds that he did, because Allah says, \"And you (all) will be in three groups\" (56:7), they are those who are alike.",
+    "source": "Ibn Abi Hatim",
+    "source_short": "Ibn Abi Hatim",
+    "book": "",
+    "reference": "",
+    "grade": "",
+    "topic": "Joining of the souls with their mates",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "An-Nu'man bin Bashir",
+        "type": "sahabi"
+      },
+      {
+        "name": "Ibn Abi Hatim",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h125": {
+    "id": "h125",
+    "narrator": "Judamah bint Wahb",
+    "text": "The Prophet said he was about to prohibit sexual relations with breastfeeding women, but he saw that the Romans and the Persians did so and it did not harm their children at all. When asked about coitus interruptus, he said: That is the minor infanticide, and it is the female infant buried alive (Al-Maw'udah) that will be questioned.",
+    "source": "Sahih Muslim",
+    "source_short": "Muslim",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "The buried female infant who is questioned",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Judamah bint Wahb",
+        "type": "sahabi"
+      },
+      {
+        "name": "Sahih Muslim",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h126": {
+    "id": "h126",
+    "narrator": "'Umar bin Al-Khattab",
+    "text": "Qays bin 'Asim came to the Messenger of Allah and said, O Messenger of Allah, I buried some daughters of mine alive in the period of pre-Islamic ignorance. The Prophet said: Free a slave for each one of them. Qays said, O Messenger of Allah, I am an owner of camels. The Prophet said: Then sacrifice a camel for each one of them.",
+    "source": "'Abdur-Razzaq",
+    "source_short": "Abdur-Razzaq",
+    "book": "",
+    "reference": "",
+    "grade": "",
+    "topic": "Atonement for burying infant girls alive",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "'Umar bin Al-Khattab",
+        "type": "sahabi",
+        "id": "umar-ibn-al-khattab"
+      },
+      {
+        "name": "'Abdur-Razzaq",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "umar-ibn-al-khattab"
+  },
+  "h127": {
+    "id": "h127",
+    "narrator": "'Amr bin Hurayth",
+    "text": "I prayed the Morning prayer behind the Prophet, and I heard him reciting: But nay! I swear by Al-Khunnas, Al-Jawar Al-Kunnas, and by the night when it 'As'as, and by the day when it Tanaffas (81:15-18).",
+    "source": "Sahih Muslim",
+    "source_short": "Muslim",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "The Prophet's recitation of Surat At-Takwir in prayer",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "'Amr bin Hurayth",
+        "type": "sahabi"
+      },
+      {
+        "name": "Sahih Muslim",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h128": {
+    "id": "h128",
+    "narrator": "Jabir",
+    "text": "Mu'adh stood and led the people in the night prayer, and he made his recitation long. So the Prophet said: 'Are you putting the people to trial, O Mu'adh? Why don't you recite (Glorify the Name of your Lord the Most High), (By the forenoon), and (When the heaven is cleft asunder)?'",
+    "source": "An-Nasa'i",
+    "source_short": "An-Nasa'i",
+    "book": "",
+    "reference": "",
+    "grade": "",
+    "topic": "Reciting Surat Al-Infitar in prayer",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Jabir",
+        "type": "sahabi"
+      },
+      {
+        "name": "An-Nasa'i",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h129": {
+    "id": "h129",
+    "narrator": "Abdullah bin Umar",
+    "text": "The Prophet said: 'Whoever would be pleased to look at the Day of Resurrection with his own eyes, then let him recite (When the sun is wound round), (When the heaven is cleft asunder), and (When the heaven is split asunder).'",
+    "source": "",
+    "source_short": "",
+    "book": "",
+    "reference": "",
+    "grade": "",
+    "topic": "Surahs depicting the Day of Resurrection",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Abdullah bin Umar",
+        "type": "sahabi",
+        "id": "umar-ibn-al-khattab"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "umar-ibn-al-khattab"
+  },
+  "h130": {
+    "id": "h130",
+    "narrator": "",
+    "text": "Allah will say on the Day of Judgement: 'O Son of Adam! What has deceived you concerning Me? O Son of Adam, what was your response to the Messengers?'",
+    "source": "",
+    "source_short": "",
+    "book": "",
+    "reference": "",
+    "grade": "",
+    "topic": "Man's deception concerning his Lord",
+    "isnad": [
+      {
+        "name": "Allah (Hadith Qudsi)",
+        "type": "source"
+      },
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      }
+    ],
+    "extracted": true
+  },
+  "h131": {
+    "id": "h131",
+    "narrator": "Busr bin Jahhash Al-Qurashi",
+    "text": "The Messenger of Allah spat in his palm, placed his finger on it, and said: Allah the Mighty and Sublime says: 'O Son of Adam! How can you escape Me when I created you from something similar to this? Then I fashioned you and made your creation balanced so that you walked between two garments, and the earth has a burial place for you. So you gathered wealth and withheld it until your soul reached your collarbone, then at that time you say, I will give charity now. But how will there be time for charity?'",
+    "source": "Ahmad",
+    "source_short": "Ahmad",
+    "book": "",
+    "reference": "",
+    "grade": "",
+    "topic": "Allah's perfect creation of man and delayed charity",
+    "isnad": [
+      {
+        "name": "Allah (Hadith Qudsi)",
+        "type": "source"
+      },
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Busr bin Jahhash Al-Qurashi",
+        "type": "sahabi"
+      },
+      {
+        "name": "Ahmad",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h132": {
+    "id": "h132",
+    "narrator": "Abu Hurayrah",
+    "text": "A man said: 'O Messenger of Allah, my wife has given birth to a black boy.' The Prophet said: 'Do you have any camels?' He said: 'Yes.' He said: 'What color are they?' He said: 'Red.' He said: 'Do any of them have patches of gray?' He said: 'Yes.' He asked: 'How did this happen to them?' The man replied: 'It is probably an inherited strain.' The Prophet said: 'Likewise, this is probably an inherited strain.'",
+    "source": "Al-Bukhari and Muslim",
+    "source_short": "Bukhari & Muslim",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "The form in which Allah composes a person",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Abu Hurayrah",
+        "type": "sahabi",
+        "id": "abu-hurairah"
+      },
+      {
+        "name": "Al-Bukhari and Muslim",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "abu-hurairah"
+  },
+  "h133": {
+    "id": "h133",
+    "narrator": "",
+    "text": "The Prophet said: 'O children of Hashim! Save yourselves from the Fire, for I have no power to cause you any benefit from Allah.'",
+    "source": "",
+    "source_short": "",
+    "book": "",
+    "reference": "",
+    "grade": "",
+    "topic": "No soul will avail another on the Day of Recompense",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      }
+    ],
+    "extracted": true
+  },
+  "h134": {
+    "id": "h134",
+    "narrator": "Ibn 'Umar",
+    "text": "This will be the Day that mankind will stand before the Lord of all that exists, until one of them will sink up to the middle of his ears in sweat.",
+    "source": "Al-Bukhari and Muslim",
+    "source_short": "Bukhari & Muslim",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "Mankind standing before the Lord of all that exists on the Day of Judgement",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Ibn 'Umar",
+        "type": "sahabi"
+      },
+      {
+        "name": "Al-Bukhari and Muslim",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h135": {
+    "id": "h135",
+    "narrator": "Al-Miqdad ibn Al-Aswad",
+    "text": "On the Day of Judgement, the sun will draw near the servants until it is a mile or two away from them. Then the sun will burn them, and they will be submersed in sweat based upon the amount of their deeds. Among them there will be those whose sweat will come up to their two heels, those whose sweat will come up to their two knees, those whose sweat will come up to their groins, and those who will be bridled in sweat up to their necks.",
+    "source": "Muslim and At-Tirmidhi",
+    "source_short": "Muslim & Tirmidhi",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "The nearness of the sun and people drowning in sweat on the Day of Judgement",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Al-Miqdad ibn Al-Aswad",
+        "type": "sahabi"
+      },
+      {
+        "name": "Muslim and At-Tirmidhi",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h136": {
+    "id": "h136",
+    "narrator": "Al-Bara' ibn 'Azib",
+    "text": "Allah says concerning the soul of the disbeliever: 'Record his book in Sijjin.' And Sijjin is beneath the seventh earth.",
+    "source": "",
+    "source_short": "",
+    "book": "",
+    "reference": "",
+    "grade": "",
+    "topic": "The record of the disbeliever in Sijjin beneath the seventh earth",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Al-Bara' ibn 'Azib",
+        "type": "sahabi"
+      }
+    ],
+    "extracted": true
+  },
+  "h137": {
+    "id": "h137",
+    "narrator": "Mu'awiyah ibn Haydah",
+    "text": "Woe unto whoever speaks and lies in order to make the people laugh. Woe unto him, woe unto him.",
+    "source": "Musnad and the Sunan collections",
+    "source_short": "Musnad & Sunan",
+    "book": "",
+    "reference": "",
+    "grade": "",
+    "topic": "Warning against lying to make people laugh",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Mu'awiyah ibn Haydah",
+        "type": "sahabi"
+      },
+      {
+        "name": "Musnad and the Sunan collections",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h138": {
+    "id": "h138",
+    "narrator": "Abu Hurayrah",
+    "text": "Verily, when the servant commits a sin, a black spot appears in his heart. If he repents from it, his heart is polished clean. But if he increases in the sin, the spot will continue to increase until it overcomes his heart. That is the Ran (covering) that Allah mentions in His statement.",
+    "source": "At-Tirmidhi, An-Nasa'i, Ibn Majah and Ibn Jarir",
+    "source_short": "Tirmidhi & Nasa'i",
+    "book": "",
+    "reference": "",
+    "grade": "Hasan Sahih",
+    "topic": "Sins as a black covering (Ran) over the heart",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Abu Hurayrah",
+        "type": "sahabi",
+        "id": "abu-hurairah"
+      },
+      {
+        "name": "At-Tirmidhi, An-Nasa'i, Ibn Majah and Ibn Jarir",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "abu-hurairah"
+  },
+  "h139": {
+    "id": "h139",
+    "narrator": "'A'ishah",
+    "text": "The Messenger of Allah used to begin his late night prayer by declaring Allah's greatness ten times, praising Allah ten times, glorifying Allah ten times, and seeking Allah's forgiveness ten times, then he would say: 'O Allah! Forgive me, guide me, provide for me, and protect me.' Then he would seek refuge from the hardship of the standing on the Day of Judgement.",
+    "source": "Sunan Abu Dawud, An-Nasa'i and Ibn Majah",
+    "source_short": "Abu Dawud & Nasa'i",
+    "book": "",
+    "reference": "",
+    "grade": "",
+    "topic": "Seeking refuge from the hardship of standing on the Day of Judgement",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "'A'ishah",
+        "type": "sahabi",
+        "id": "aisha-bint-abi-bakr"
+      },
+      {
+        "name": "Sunan Abu Dawud, An-Nasa'i and Ibn Majah",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "aisha-bint-abi-bakr"
+  },
+  "h140": {
+    "id": "h140",
+    "narrator": "Abu Hurayrah",
+    "text": "Abu Hurayrah, while leading the people in prayer, recited \"When the heaven is split asunder\" and prostrated during its recitation. After the prayer he informed them that the Messenger of Allah used to prostrate during its recitation.",
+    "source": "Sahih Muslim",
+    "source_short": "Muslim",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "Prostration of recitation in Surat Al-Inshiqaq",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Abu Hurayrah",
+        "type": "sahabi",
+        "id": "abu-hurairah"
+      },
+      {
+        "name": "Sahih Muslim",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "abu-hurairah"
+  },
+  "h141": {
+    "id": "h141",
+    "narrator": "Abu Hurayrah",
+    "text": "Abu Rafi' reported that he prayed the Night prayer with Abu Hurayrah, who recited \"When the heaven is split asunder\" and then prostrated. When Abu Rafi' questioned him about it, Abu Hurayrah replied, \"I prostrated behind Abul-Qasim (the Prophet), and I will never cease prostrating during its recitation until I meet him.\"",
+    "source": "Sahih Al-Bukhari",
+    "source_short": "Bukhari",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "Prostration of recitation in Surat Al-Inshiqaq",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Abu Hurayrah",
+        "type": "sahabi",
+        "id": "abu-hurairah"
+      },
+      {
+        "name": "Sahih Al-Bukhari",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "abu-hurairah"
+  },
+  "h142": {
+    "id": "h142",
+    "narrator": "Jabir",
+    "text": "The Messenger of Allah said: Jibril said, \"O Muhammad! Live how you wish, for verily you will die; love what you wish, for verily you will part with it; and do what you wish, for verily you will meet it (your deed).\"",
+    "source": "Musnad Abu Dawud At-Tayalisi",
+    "source_short": "At-Tayalisi",
+    "book": "",
+    "reference": "",
+    "grade": "",
+    "topic": "Man returning to his Lord and meeting his deeds",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Jabir",
+        "type": "sahabi"
+      },
+      {
+        "name": "Musnad Abu Dawud At-Tayalisi",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h143": {
+    "id": "h143",
+    "narrator": "Aishah",
+    "text": "The Messenger of Allah said, \"Whoever is interrogated during the reckoning will be punished.\" A'ishah asked, \"But did not Allah say, 'He surely will receive an easy reckoning'?\" The Prophet replied, \"That is not the Reckoning; rather it is the presentation. Whoever is interrogated during the Reckoning on the Day of Judgement will be punished.\"",
+    "source": "Sahih Al-Bukhari and Sahih Muslim",
+    "source_short": "Bukhari and Muslim",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "The easy reckoning is the presentation, not interrogation",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Aishah",
+        "type": "sahabi",
+        "id": "aisha-bint-abi-bakr"
+      },
+      {
+        "name": "Sahih Al-Bukhari and Sahih Muslim",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "aisha-bint-abi-bakr"
+  },
+  "h144": {
+    "id": "h144",
+    "narrator": "Abdullah bin Amr",
+    "text": "The Messenger of Allah said: The time of Al-Maghrib (prayer) lasts as long as Ash-Shafaq (the redness of the horizon) has not disappeared.",
+    "source": "Sahih Muslim",
+    "source_short": "Muslim",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "The meaning of Ash-Shafaq",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Abdullah bin Amr",
+        "type": "sahabi"
+      },
+      {
+        "name": "Sahih Muslim",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h145": {
+    "id": "h145",
+    "narrator": "Ibn Abbas",
+    "text": "Ibn 'Abbas explained \"You shall certainly travel from stage to stage\" as meaning stage after stage, and said: Your Prophet has said this.",
+    "source": "Sahih Al-Bukhari",
+    "source_short": "Bukhari",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "Travelling from stage to stage",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Ibn Abbas",
+        "type": "sahabi",
+        "id": "ibn-abbas"
+      },
+      {
+        "name": "Sahih Al-Bukhari",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "ibn-abbas"
+  },
+  "h146": {
+    "id": "h146",
+    "narrator": "Abu Hurayrah",
+    "text": "The Messenger of Allah said: \"(And by the Promised Day) refers to the Day of Judgement; (And by the Witness) refers to Friday, and the sun does not rise or set on a day better than Friday, during which there is an hour when no Muslim servant asks Allah for some good but that He gives it to him, and he seeks no refuge from evil but that He protects him; and (And by the Witnessed) refers to the Day of 'Arafah.\"",
+    "source": "Ibn Abi Hatim",
+    "source_short": "Ibn Abi Hatim",
+    "book": "",
+    "reference": "",
+    "grade": "",
+    "topic": "Meaning of the Promised Day, the Witness, and the Witnessed",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Abu Hurayrah",
+        "type": "sahabi",
+        "id": "abu-hurairah"
+      },
+      {
+        "name": "Ibn Abi Hatim",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "abu-hurairah"
+  },
+  "h147": {
+    "id": "h147",
+    "narrator": "Suhayb",
+    "text": "The Messenger of Allah narrated the story of a people before us: a king had a sorcerer who, when old, asked for a boy to teach magic. On his way the boy would sit with a monk and admired his words. The boy killed a beast blocking the people's path with a stone after praying that Allah let the monk's way prevail, and the monk told him he would be tested and must not betray him. The boy healed the blind and the lepers, saying only Allah cures, and called people to believe in Allah. When the king learned of this he tortured the courtier, the monk, and the boy; he sawed the monk and the blind man in two. The boy was saved when a mountain shook and when a boat's crew drowned. The boy told the king he could only be killed by gathering the people and shooting an arrow saying, 'In the Name of Allah, the Lord of the boy.' The king did so, the boy died, and the people proclaimed faith in the Lord of the boy. The king then had ditches dug and fires kindled, throwing in all who would not recant, and an infant spoke to its mother: 'Be patient, mother, for you are following the truth!'",
+    "source": "Ahmad",
+    "source_short": "Ahmad",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "The story of the boy, the sorcerer, the monk, and the People of the Ditch",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Suhayb",
+        "type": "sahabi"
+      },
+      {
+        "name": "Ahmad",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h148": {
+    "id": "h148",
+    "narrator": "Jabir",
+    "text": "Mu'adh led the Maghrib prayer and recited Al-Baqarah and An-Nisa'. So the Prophet (peace be upon him) said, \"Are you putting the people to trial, O Mu'adh? Was it not sufficient for you to recite 'By the heaven and At-Tariq' (At-Tariq), and 'By the sun and its brightness' (Ash-Shams), and the like of them?\"",
+    "source": "An-Nasa'i",
+    "source_short": "An-Nasa'i",
+    "book": "",
+    "reference": "",
+    "grade": "",
+    "topic": "Recitation of moderate-length surahs in prayer; the virtue of Surat At-Tariq",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Jabir",
+        "type": "sahabi"
+      },
+      {
+        "name": "An-Nasa'i",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h149": {
+    "id": "h149",
+    "narrator": "Ibn 'Umar",
+    "text": "The Messenger of Allah (peace be upon him) said, \"Every betrayer will have a flag raised for him behind his back, and it will be said, 'This is the betrayal of so-and-so, the son of so-and-so.'\"",
+    "source": "Al-Bukhari and Muslim",
+    "source_short": "Bukhari & Muslim",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "The Day when secrets are examined; the exposure of treachery on the Day of Judgement",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Ibn 'Umar",
+        "type": "sahabi"
+      },
+      {
+        "name": "Al-Bukhari and Muslim",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h150": {
+    "id": "h150",
+    "narrator": "Al-Bara' bin 'Azib",
+    "text": "The Messenger of Allah said to Mu'adh: \"Why didn't you recite 'Glorify the Name of your Lord, the Most High,' and 'By the sun and its brightness,' and 'By the night when it envelopes.'\"",
+    "source": "Al-Bukhari and Muslim",
+    "source_short": "Bukhari & Muslim",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "Reciting Al-A'la and similar short surahs in prayer",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Al-Bara' bin 'Azib",
+        "type": "sahabi"
+      },
+      {
+        "name": "Al-Bukhari and Muslim",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h151": {
+    "id": "h151",
+    "narrator": "An-Nu'man bin Bashir",
+    "text": "The Messenger of Allah used to recite Surat Al-A'la (chapter 87) and Surat Al-Ghashiyah (chapter 88) in the two 'Id prayers. If the 'Id prayer fell on Friday, he would recite them in both prayers, the 'Id prayer and the Jumu'ah prayer.",
+    "source": "Muslim, Ahmad, Abu Dawud, At-Tirmidhi, An-Nasa'i, and Ibn Majah",
+    "source_short": "Muslim",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "Reciting Al-A'la in the two Eid prayers and Jumu'ah",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "An-Nu'man bin Bashir",
+        "type": "sahabi"
+      },
+      {
+        "name": "Muslim, Ahmad, Abu Dawud, At-Tirmidhi, An-Nasa'i, and Ibn Majah",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h152": {
+    "id": "h152",
+    "narrator": "Ubayy bin Ka'b, Ibn 'Abbas, 'Abdur-Rahman bin Abza, and 'A'ishah",
+    "text": "The Messenger of Allah used to recite in the Witr prayer 'Glorify the Name of your Lord, the Most High,' and 'Say: O you who disbelieve,' and 'Say: He is Allah, the One.' In 'A'ishah's version she added that he would also recite the Mu'awwidhatayn (Al-Falaq and An-Nas).",
+    "source": "Ahmad",
+    "source_short": "Ahmad",
+    "book": "",
+    "reference": "",
+    "grade": "",
+    "topic": "Surahs the Prophet recited in the Witr prayer",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Ubayy bin Ka'b, Ibn 'Abbas, 'Abdur-Rahman bin Abza, and 'A'ishah",
+        "type": "sahabi",
+        "id": "ubayy-ibn-kab"
+      },
+      {
+        "name": "Ahmad",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "ubayy-ibn-kab"
+  },
+  "h153": {
+    "id": "h153",
+    "narrator": "'Abdullah bin 'Amr",
+    "text": "Verily, Allah ordained the measure of all creation fifty thousand years before He created the heavens and the earth, and His Throne was over the water.",
+    "source": "Sahih Muslim",
+    "source_short": "Muslim",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "Allah's decree and measuring of creation",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "'Abdullah bin 'Amr",
+        "type": "sahabi"
+      },
+      {
+        "name": "Sahih Muslim",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h154": {
+    "id": "h154",
+    "narrator": "Abu Sa'id",
+    "text": "Concerning the people of the Fire who are deserving of it, they will neither die nor live. But as for people whom Allah wishes mercy, He will cause them to die in the Fire; then the intercessors will be permitted, and they will be brought group after group and scattered over the rivers of Paradise. It will be said, 'O people of Paradise, pour down upon them,' and they will sprout like the growing of a seed on the moist bank of a flowing stream.",
+    "source": "Ahmad and Muslim",
+    "source_short": "Muslim",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "The people of the Fire and the intercession",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Abu Sa'id",
+        "type": "sahabi",
+        "id": "abu-said-al-khudri"
+      },
+      {
+        "name": "Ahmad and Muslim",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "abu-said-al-khudri"
+  },
+  "h155": {
+    "id": "h155",
+    "narrator": "Abu Musa Al-Ash'ari",
+    "text": "Whoever loves his worldly life will suffer in his Hereafter, and whoever loves his Hereafter will suffer in his worldly life. Therefore, choose that which is everlasting over that which is temporal.",
+    "source": "Ahmad",
+    "source_short": "Ahmad",
+    "book": "",
+    "reference": "",
+    "grade": "",
+    "topic": "Preferring the Hereafter over the worldly life",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Abu Musa Al-Ash'ari",
+        "type": "sahabi"
+      },
+      {
+        "name": "Ahmad",
+        "type": "book"
+      }
+    ],
+    "extracted": true
   }
 }
