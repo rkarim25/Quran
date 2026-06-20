@@ -502,5 +502,443 @@
         "type": "book"
       }
     ]
+  },
+  "h100": {
+    "id": "h100",
+    "narrator": "Abu Hurairah (RA)",
+    "text": "Whoever recites Ya-Sin in the night will wake up forgiven, and whoever recites Ha Mim, in which Ad-Dukhan (the Smoke) is mentioned, will wake up forgiven.",
+    "source": "Musnad Abu Ya'la",
+    "source_short": "Abu Ya'la",
+    "book": "",
+    "reference": "",
+    "grade": "Jayyid (good)",
+    "topic": "Virtue of reciting Surah Ya-Sin at night",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Abu Hurairah (RA)",
+        "type": "sahabi",
+        "id": "abu-hurairah"
+      },
+      {
+        "name": "Musnad Abu Ya'la",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "abu-hurairah"
+  },
+  "h101": {
+    "id": "h101",
+    "narrator": "Abu Hurairah (RA)",
+    "text": "When the son of Adam dies, all his deeds come to an end except three: knowledge which is beneficial to others, a righteous child who prays for him, or ongoing charity which he leaves behind.",
+    "source": "Sahih Muslim",
+    "source_short": "Muslim",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "Deeds that continue after death as one's traces",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Abu Hurairah (RA)",
+        "type": "sahabi",
+        "id": "abu-hurairah"
+      },
+      {
+        "name": "Sahih Muslim",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "abu-hurairah"
+  },
+  "h102": {
+    "id": "h102",
+    "narrator": "Jabir bin Abdullah (RA)",
+    "text": "O Banu Salamah, stay where you are, and your footsteps will be recorded; stay where you are, and your footsteps will be recorded.",
+    "source": "Sahih Muslim",
+    "source_short": "Muslim",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "Footsteps to the mosque are recorded as traces",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Jabir bin Abdullah (RA)",
+        "type": "sahabi"
+      },
+      {
+        "name": "Sahih Muslim",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h103": {
+    "id": "h103",
+    "narrator": "Abu Dharr (RA)",
+    "text": "The Prophet asked, 'O Abu Dharr! Do you know where the sun sets?' I said, 'Allah and His Messenger know best.' He said, 'It goes and prostrates beneath the Throne, and that is the meaning of Allah's saying: And the sun runs on its fixed course for a term. That is the decree of the Almighty, the All-Knowing.'",
+    "source": "Sahih al-Bukhari",
+    "source_short": "Bukhari",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "The sun's fixed course beneath the Throne",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Abu Dharr (RA)",
+        "type": "sahabi",
+        "id": "abu-dharr-al-ghifari"
+      },
+      {
+        "name": "Sahih al-Bukhari",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "abu-dharr-al-ghifari"
+  },
+  "h104": {
+    "id": "h104",
+    "narrator": "Anas ibn Malik (RA)",
+    "text": "The Prophet smiled and said, 'Do you know why I am smiling? Because of the way a servant will argue with his Lord on the Day of Resurrection. He will say, \"O Lord, will You not protect me from injustice?\" Allah will say, \"Of course.\" He will say, \"I will not accept any witness against me except from myself.\" Allah will say, \"Today you will be a sufficient witness against yourself, and the honorable scribes will serve as witnesses against you.\" Then his mouth will be sealed, and it will be said to his limbs, \"Speak!\" So they will speak of what he did. Then he will be permitted to speak and will say, \"May you be doomed! It was for you that I was fighting.\"'",
+    "source": "Sahih Muslim",
+    "source_short": "Muslim",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "Mouths sealed and limbs bearing witness on Judgement Day",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Anas ibn Malik (RA)",
+        "type": "sahabi",
+        "id": "anas-ibn-malik"
+      },
+      {
+        "name": "Sahih Muslim",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "anas-ibn-malik"
+  },
+  "h105": {
+    "id": "h105",
+    "narrator": "Hudhayfah (RA)",
+    "text": "When death approached a man and he lost all hope of life, he instructed his family: 'When I die, gather a lot of firewood and set it ablaze until my flesh is consumed and my bones become brittle. Then take them, grind them, and scatter them in the sea.' So they did that, but Allah gathered him together and said to him, 'Why did you do that?' He said, 'Out of fear of You.' So Allah forgave him.",
+    "source": "Sahih al-Bukhari and Sahih Muslim",
+    "source_short": "Bukhari & Muslim",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "Allah's power to resurrect scattered remains",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Hudhayfah (RA)",
+        "type": "sahabi"
+      },
+      {
+        "name": "Sahih al-Bukhari and Sahih Muslim",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h106": {
+    "id": "h106",
+    "narrator": "Abu Hurairah (RA)",
+    "text": "Verily, there is a chapter in the Qur'an which contains thirty Ayat that will intercede on behalf of its reciter until he is forgiven. It is: 'Blessed be He in Whose Hand is the dominion.'",
+    "source": "Sunan al-Tirmidhi",
+    "source_short": "Tirmidhi",
+    "book": "",
+    "reference": "",
+    "grade": "Hasan",
+    "topic": "Surah Al-Mulk intercedes for its reciter",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Abu Hurairah (RA)",
+        "type": "sahabi",
+        "id": "abu-hurairah"
+      },
+      {
+        "name": "Sunan al-Tirmidhi",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "abu-hurairah"
+  },
+  "h107": {
+    "id": "h107",
+    "narrator": "Anas ibn Malik (RA)",
+    "text": "There is a chapter of the Qur'an that will argue on behalf of its reciter until it causes him to enter Paradise. It is: 'Blessed be He in Whose Hand is the dominion.'",
+    "source": "Al-Tabarani",
+    "source_short": "Tabarani",
+    "book": "",
+    "reference": "",
+    "grade": "",
+    "topic": "Surah Al-Mulk argues for its reciter until Paradise",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Anas ibn Malik (RA)",
+        "type": "sahabi",
+        "id": "anas-ibn-malik"
+      },
+      {
+        "name": "Al-Tabarani",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "anas-ibn-malik"
+  },
+  "h108": {
+    "id": "h108",
+    "narrator": "",
+    "text": "There are seven people whom Allah will shade in the shade of His Throne on the Day when there will be no shade except its shade. Among them are: a man who is tempted by a beautiful woman of high social status but says, 'Verily, I fear Allah,' and a man who gives charity and conceals it so that his left hand does not know what his right hand spent.",
+    "source": "Sahih al-Bukhari and Sahih Muslim",
+    "source_short": "Bukhari and Muslim",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "The seven whom Allah will shade on the Day of Judgement",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Sahih al-Bukhari and Sahih Muslim",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h109": {
+    "id": "h109",
+    "narrator": "Umar ibn al-Khattab (RA)",
+    "text": "If you would trust in Allah as He truly should be trusted in, He would surely provide for you as He provides for the birds. They set out in the morning with empty stomachs and return in the evening with full stomachs.",
+    "source": "Sunan al-Tirmidhi",
+    "source_short": "Tirmidhi",
+    "book": "",
+    "reference": "",
+    "grade": "Hasan Sahih",
+    "topic": "True reliance upon Allah (tawakkul) brings provision",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Umar ibn al-Khattab (RA)",
+        "type": "sahabi",
+        "id": "umar-ibn-al-khattab"
+      },
+      {
+        "name": "Sunan al-Tirmidhi",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "umar-ibn-al-khattab"
+  },
+  "h110": {
+    "id": "h110",
+    "narrator": "Anas ibn Malik (RA)",
+    "text": "It was asked, 'O Messenger of Allah, how will the people be gathered on their faces?' He replied, 'Is not He who made them walk on their legs able to make them walk on their faces?'",
+    "source": "Sahih al-Bukhari and Sahih Muslim",
+    "source_short": "Bukhari and Muslim",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "Allah's power to gather the disbelievers upon their faces",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Anas ibn Malik (RA)",
+        "type": "sahabi",
+        "id": "anas-ibn-malik"
+      },
+      {
+        "name": "Sahih al-Bukhari and Sahih Muslim",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "anas-ibn-malik"
+  },
+  "h111": {
+    "id": "h111",
+    "narrator": "",
+    "text": "Al-Qaswa' has not become stubborn, for that is not part of her character. Rather, she has been stopped by He Who restrained the Elephant (of Abrahah).",
+    "source": "Sahih Al-Bukhari",
+    "source_short": "",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Sahih Al-Bukhari",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h112": {
+    "id": "h112",
+    "narrator": "",
+    "text": "Verily, Allah restrained the Elephant from Makkah, and He has given His Messenger and the believers authority over it. And indeed its sacredness has returned just as it was sacred yesterday. So, let those who are present inform those who are absent.",
+    "source": "Two Sahihs (Al-Bukhari and Muslim)",
+    "source_short": "",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Two Sahihs (Al-Bukhari and Muslim)",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h113": {
+    "id": "h113",
+    "narrator": "Ibn Abbas (RA)",
+    "text": "The Prophet (peace be upon him) went out to the valley of Al-Batha and ascended the mountain, then cried out, 'O people, come at once!' So the Quraysh gathered around him. He said, 'If I told you all that the enemy was going to attack you in the morning, or in the evening, would you all believe me?' They replied, 'Yes.' Then he said, 'Verily, I am a warner sent to you all before the coming of a severe torment.' Then Abu Lahab said, 'Have you gathered us for this? May you perish!' So Allah revealed: 'Perish the two hands of Abu Lahab and perish he!' to the end of the Surah.",
+    "source": "Sahih al-Bukhari",
+    "source_short": "Bukhari",
+    "book": "",
+    "reference": "",
+    "grade": "Sahih",
+    "topic": "The warning on the mountain and the cause of revelation",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Ibn Abbas (RA)",
+        "type": "sahabi",
+        "id": "ibn-abbas"
+      },
+      {
+        "name": "Sahih al-Bukhari",
+        "type": "book"
+      }
+    ],
+    "extracted": true,
+    "narrator_id": "ibn-abbas"
+  },
+  "h114": {
+    "id": "h114",
+    "narrator": "Rabi'ah bin 'Abbad (RA)",
+    "text": "Rabi'ah bin 'Abbad said: I saw the Prophet (peace be upon him) in the time of pre-Islamic ignorance in the market of Dhul-Majaz, and he was saying, 'O people! Say there is no god worthy of worship except Allah and you will be successful.' The people were gathered around him, and behind him was a man with a bright face who was saying, 'Verily, he is an apostate and a liar!' This man was following him wherever he went, and he was his uncle, Abu Lahab.",
+    "source": "Musnad Ahmad",
+    "source_short": "Ahmad",
+    "book": "",
+    "reference": "",
+    "grade": "",
+    "topic": "The Prophet's call to Tawhid and Abu Lahab's opposition",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Rabi'ah bin 'Abbad (RA)",
+        "type": "sahabi"
+      },
+      {
+        "name": "Musnad Ahmad",
+        "type": "book"
+      }
+    ],
+    "extracted": true
+  },
+  "h115": {
+    "id": "h115",
+    "narrator": "Asma' bint Abi Bakr (RA)",
+    "text": "Asma' bint Abi Bakr said: When 'Perish the two hands of Abu Lahab' was revealed, the one-eyed Umm Jamil bint Harb came out wailing with a stone in her hand. The Messenger of Allah (peace be upon him) was sitting in the Masjid with Abu Bakr. Abu Bakr said, 'O Messenger of Allah! She is coming and I fear she will see you.' The Messenger of Allah (peace be upon him) replied, 'Verily, she will not see me.' Then he recited some of the Qur'an as a protection for himself. So she stood in front of Abu Bakr and did not see the Messenger of Allah (peace be upon him).",
+    "source": "Tafsir Ibn Abi Hatim",
+    "source_short": "Ibn Abi Hatim",
+    "book": "",
+    "reference": "",
+    "grade": "",
+    "topic": "Allah's protection of the Prophet from Umm Jamil",
+    "isnad": [
+      {
+        "name": "Prophet Muhammad",
+        "type": "prophet",
+        "id": "prophet-muhammad"
+      },
+      {
+        "name": "Asma' bint Abi Bakr (RA)",
+        "type": "sahabi"
+      },
+      {
+        "name": "Tafsir Ibn Abi Hatim",
+        "type": "book"
+      }
+    ],
+    "extracted": true
   }
 }
