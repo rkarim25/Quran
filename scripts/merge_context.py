@@ -90,8 +90,14 @@ def main():
     if args.surah:
         files = [f for f in files if int(f.stem.split("_")[1]) == args.surah]
 
+    # Ayahs already covered by hand-curated hadith (ids < 100) — never duplicate them.
+    curated_ayahs = set()
+    for ay, hids in hmap.items():
+        if any(h[1:].isdigit() and int(h[1:]) < 100 for h in hids):
+            curated_ayahs.add(ay)
+
     hid_n = next_hid_num(hindex)
-    added_occ = added_had = skipped = purged = 0
+    added_occ = added_had = skipped = purged = skipped_dup = 0
     touched_surahs = []
 
     for f in files:
@@ -121,6 +127,9 @@ def main():
             ayahs = h.get("ayahs") or ([h["ayah"]] if h.get("ayah") else [])
             if not text or not ayahs:
                 continue
+            if any(f"{n}:{a}" in curated_ayahs for a in ayahs):
+                skipped_dup += 1          # don't duplicate hand-curated coverage
+                continue
             hid = f"h{hid_n}"
             hid_n += 1
             entry = {
@@ -147,8 +156,8 @@ def main():
         merged.add(n)
         touched_surahs.append(n)
 
-    print(f"Surahs newly merged: {sorted(touched_surahs)} (skipped {skipped} already done)")
-    print(f"+{added_occ} occasions, +{added_had} hadith, purged {purged} contaminated occasions")
+    print(f"Surahs newly merged: {len(touched_surahs)} (skipped {skipped} already done)")
+    print(f"+{added_occ} occasions, +{added_had} hadith, purged {purged} contaminated, skipped {skipped_dup} dup-of-curated")
 
     if args.dry_run:
         print("DRY RUN — nothing written.")
