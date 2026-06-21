@@ -1,0 +1,5296 @@
+{
+ "1": {
+  "1": {
+   "meaning": "Has come near",
+   "parts": [
+    {
+     "ar": "اِقۡتَـرَبَتِ",
+     "tr": "iq'tarabati",
+     "en": "Has come near"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "A noun meaning 'the Hour' — a moment or short span of time. In its weighty sense it names the Last Hour, the appointed time of resurrection and final reckoning. Built with the definite article 'the.'",
+   "parts": [
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the (definite article)"
+    },
+    {
+     "ar": "سَّاعَة",
+     "tr": "sāʿat",
+     "en": "hour / moment / appointed time"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "nominative ending (subject form)"
+    }
+   ],
+   "grammar": "A definite noun (the 'l' of al- assimilates into the following 's,' doubling it). The final -u is the nominative case ending, the form a noun takes when it is the subject of a verb or sentence.",
+   "root": "س-و-ع (s-w-ʿ) — relating to an hour, a moment, or a span of time"
+  },
+  "3": {
+   "meaning": "and has split",
+   "parts": [
+    {
+     "ar": "وَانْشَقَّ",
+     "tr": "wa-inshaqqa",
+     "en": "and has split"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "the moon",
+   "parts": [
+    {
+     "ar": "الۡقَمَرُ‏",
+     "tr": "l-qamaru",
+     "en": "the moon"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "2": {
+  "1": {
+   "meaning": "A two-part word: the connective 'wa-' ('and'), joined to 'in', the conditional particle meaning 'if'. Together: 'and if …'.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "اِنۡ",
+     "tr": "in",
+     "en": "if"
+    }
+   ],
+   "grammar": "'wa-' is a connecting particle ('and'). 'in' is a particle introducing a hypothetical condition ('if …'), typically setting up a result clause that follows. Neither carries a case ending.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "\"That they should see / lest they see.\" A present-tense verb of seeing, perceiving with the eyes, or coming to realize.",
+   "parts": [
+    {
+     "ar": "يَ",
+     "tr": "ya",
+     "en": "they (present-tense prefix)"
+    },
+    {
+     "ar": "رَوۡا",
+     "tr": "raw",
+     "en": "see, perceive"
+    }
+   ],
+   "grammar": "A present-tense verb, \"they\" (third-person masculine plural), from a root whose weak final letter drops away. The loss of the full \"-ūna\" plural ending (leaving \"-aw\") signals the subjunctive/jussive mood — used after particles meaning \"that,\" \"so that,\" or \"lest,\" or in negation of the completed act. The silent alif is a spelling convention after this plural ending.",
+   "root": "ر-ء-ي (r-ʾ-y) — to see, perceive, consider"
+  },
+  "3": {
+   "meaning": "'A sign' — a token, mark, or proof that points to something beyond itself; a miraculous indication, a lesson, or an evidence. (The same word also denotes a verse of the Qur'an.)",
+   "parts": [
+    {
+     "ar": "اٰيَةً",
+     "tr": "āyatan",
+     "en": "a sign"
+    },
+    {
+     "ar": "ـً",
+     "tr": "-an",
+     "en": "indefinite object/'-a' ending"
+    }
+   ],
+   "grammar": "An indefinite noun. The '-an' ending (accusative with 'tanwīn', the doubled final 'n' of indefiniteness) typically marks the noun as the direct object of a verb, or as the thing one is being made or named, and signals 'a / an' rather than 'the'.",
+   "root": "ا-ي-ي / ء-ي-ي (’-y-y) — sign, mark, token"
+  },
+  "4": {
+   "meaning": "they turn away",
+   "parts": [
+    {
+     "ar": "يُّعۡرِضُوۡا",
+     "tr": "yuʿ'riḍū",
+     "en": "they turn away"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "and say",
+   "parts": [
+    {
+     "ar": "وَيَقُوۡلُوۡا",
+     "tr": "wayaqūlū",
+     "en": "and say"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "6": {
+   "meaning": "Magic / sorcery — the working of illusions or hidden powers to deceive perception or affect people; by extension, anything dazzling that distorts how things truly are.",
+   "parts": [
+    {
+     "ar": "سِحۡر",
+     "tr": "siḥr",
+     "en": "magic / sorcery"
+    },
+    {
+     "ar": "ٌ",
+     "tr": "un",
+     "en": "a … (indefinite nominative ending)"
+    }
+   ],
+   "grammar": "A singular noun. The final -un (nunation/tanwīn) marks it as indefinite ('a/some magic') and in the nominative case — the form a noun takes as the subject of a sentence or after the verb 'to be'.",
+   "root": "س-ح-ر (s-ḥ-r) — magic, enchantment, beguiling"
+  },
+  "7": {
+   "meaning": "continuing",
+   "parts": [
+    {
+     "ar": "مُّسۡتَمِرٌّ‏",
+     "tr": "mus'tamirrun",
+     "en": "continuing"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "3": {
+  "1": {
+   "meaning": "'And they denied / cried lies' — to declare something false, to reject it as a lie, to disbelieve and treat as untrue. The prefixed 'wa' adds 'and.'",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "كَذَّبُ",
+     "tr": "kadhdhabu",
+     "en": "they denied/called false"
+    },
+    {
+     "ar": "وۡا",
+     "tr": "-ū",
+     "en": "they (masculine plural)"
+    }
+   ],
+   "grammar": "'And' (wa) plus a past-tense verb, third-person masculine plural. It is a Form II verb: the doubled middle consonant (shadda on the dh, reflected in 'kadhdhab-') gives an intensive sense ('repeatedly/emphatically declared false'), and the '-ū' ending marks a completed action done by 'they' (masculine plural).",
+   "root": "ك-ذ-ب (k-dh-b) — lying, falsehood"
+  },
+  "2": {
+   "meaning": "And they followed / pursued — form VIII of t-b-ʿ, the past-tense act of following after, going along with, or adopting something, with 'and' prefixed and a male plural subject.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "اتَّبَعُ",
+     "tr": "ittabaʿ",
+     "en": "followed (form VIII stem)"
+    },
+    {
+     "ar": "وۡا",
+     "tr": "-ū",
+     "en": "they (masculine plural)"
+    }
+   ],
+   "grammar": "Past tense with 'wa' ('and') prefixed. The '-ū' suffix marks a third-person masculine plural subject ('they'). This is form VIII, whose hallmark is an infixed 't' after the first root letter; here that infixed 't' meets the first radical 't' of the root t-b-ʿ and the two identical consonants merge into a doubled 'tt' (hence ittabaʿa). Form VIII often adds the sense of doing something for oneself — here, taking to following or pursuing.",
+   "root": "ت-ب-ع (t-b-ʿ) — to follow, come after, pursue"
+  },
+  "3": {
+   "meaning": "Their desires, inclinations, cravings; the pulls of personal whim and passion — what one leans toward apart from guidance, here belonging to 'them'.",
+   "parts": [
+    {
+     "ar": "اَهۡوَاء",
+     "tr": "ahwāʾ",
+     "en": "desires / whims"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "accusative ('-a') ending"
+    },
+    {
+     "ar": "هُمۡ",
+     "tr": "-hum",
+     "en": "their (masculine plural)"
+    }
+   ],
+   "grammar": "A broken (irregular) plural of hawā ('desire, inclination, whim'). The case-vowel -a (accusative) typically marks the object of a verb. The attached pronoun -hum means 'their' (a group of males or mixed). Altogether: 'their desires/whims'.",
+   "root": "ه-و-ي (h-w-y) — inclination, desire, whim; to incline toward, to fall"
+  },
+  "4": {
+   "meaning": "'and every / and each / and all' — a phrase introducing each individual member of a group, 'and each one'.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "كُلّ",
+     "tr": "kull",
+     "en": "every / each / all"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "(nominative ending)"
+    }
+   ],
+   "grammar": "The connective particle wa- ('and') prefixed to the noun kull ('every/each'). The -u ending marks the nominative case, used for the subject of a sentence ('and everything [is]…').",
+   "root": "ك-ل-ل (k-l-l) — totality, allness, completeness"
+  },
+  "5": {
+   "meaning": "A matter, affair, command, or decree. The word spans two senses from one root: an ordered 'command' and the 'affair/situation' that results from it. The indefinite form points to 'some matter' or 'a decision' in general.",
+   "parts": [
+    {
+     "ar": "اَمۡر",
+     "tr": "amr",
+     "en": "matter, command, affair"
+    },
+    {
+     "ar": "ٍ",
+     "tr": "-in",
+     "en": "indefinite genitive ending ('a …')"
+    }
+   ],
+   "grammar": "A noun in the genitive state with tanwīn (the -in ending), marking it as indefinite ('a matter') and governed either by a preceding preposition or by being joined to a foregoing noun ('… of a matter').",
+   "root": "ا-م-ر (ʾ-m-r) — to command; also matter, affair"
+  },
+  "6": {
+   "meaning": "(will be a) settlement",
+   "parts": [
+    {
+     "ar": "مُّسۡتَقِرٌّ‏",
+     "tr": "mus'taqirrun",
+     "en": "(will be a) settlement"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "4": {
+  "1": {
+   "meaning": "\"And indeed / and most certainly\" — combines 'and' with the emphatic 'la-' and the particle 'qad'; before a past-tense verb 'qad' affirms that the action has definitely and already happened, reinforced into 'and indeed it surely did'.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "لَ",
+     "tr": "la",
+     "en": "surely / certainly"
+    },
+    {
+     "ar": "قَدۡ",
+     "tr": "qad",
+     "en": "indeed / already"
+    }
+   ],
+   "grammar": "The conjunction 'and' plus the emphatic 'la-' ('surely') plus the particle 'qad'. With a past-tense verb, 'qad' stresses that the act is real and completed ('has indeed happened'); together they form a strong oath-like affirmation. These are function words and are not inflected.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "To come to, to arrive at someone; the act of something or someone reaching or presenting itself to a person. A core verb for arrival and the coming of events, messengers, or messages.",
+   "parts": [
+    {
+     "ar": "جَآءَ",
+     "tr": "jāa",
+     "en": "came"
+    },
+    {
+     "ar": "هُمۡ",
+     "tr": "hum",
+     "en": "them"
+    }
+   ],
+   "grammar": "A past-tense verb in the third-person masculine singular ('he/it came') — the -a ending marks a completed act by a single masculine subject. The attached -hum is the object 'them,' the ones reached by the coming.",
+   "root": "ج-ي-ء (j-y-ʾ) — to come, arrive"
+  },
+  "3": {
+   "meaning": "From, out of, of — a preposition marking a starting point, origin, or source, or singling part out of a whole. Its core sense is movement or derivation away from a point.",
+   "parts": [
+    {
+     "ar": "مِّنَ",
+     "tr": "mina",
+     "en": "from / of"
+    }
+   ],
+   "grammar": "A preposition. Its base form is min; the final vowel appears as -a (mina) when it is followed by a word beginning with the definite article 'al-', to ease pronunciation. It causes the following noun to take the genitive case.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "the information",
+   "parts": [
+    {
+     "ar": "الۡاَنۡۢبَآءِ",
+     "tr": "l-anbāi",
+     "en": "the information"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "A versatile word most often meaning 'what' or 'that which' — it can introduce a relative idea ('the thing that…'), ask a question ('what?'), or in other uses serve as a negating particle. Its core job is to stand in for an unspecified thing.",
+   "parts": [
+    {
+     "ar": "مَا",
+     "tr": "mā",
+     "en": "what / that which"
+    }
+   ],
+   "grammar": "A fixed (indeclinable) particle with no case ending; its sense is set by context. As a relative it means 'that which' and needs a following clause; as an interrogative it means 'what?'.",
+   "root": "—"
+  },
+  "6": {
+   "meaning": "'In it / in him' — the preposition 'in, inside, within' joined to a pronoun referring to a single masculine or neuter thing. It locates something inside or as part of that referent.",
+   "parts": [
+    {
+     "ar": "فِيۡ",
+     "tr": "fi",
+     "en": "in, within, inside"
+    },
+    {
+     "ar": "هِ",
+     "tr": "-hi",
+     "en": "it / him (3rd-person masc. sing.)"
+    }
+   ],
+   "grammar": "A preposition with an attached object pronoun. The pronoun -hi refers to one masculine (or grammatically masculine) thing and stands as the object of the preposition; its vowel is -i because attached pronouns take that shape after the long -i of fi. Together they answer 'in what?' or 'in whom?'.",
+   "root": "—"
+  },
+  "7": {
+   "meaning": "(is) deterrence",
+   "parts": [
+    {
+     "ar": "مُزۡدَجَرٌۙ‏",
+     "tr": "muz'dajarun",
+     "en": "(is) deterrence"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "5": {
+  "1": {
+   "meaning": "Wisdom",
+   "parts": [
+    {
+     "ar": "حِكۡمَةٌ ۢ",
+     "tr": "ḥik'matun",
+     "en": "Wisdom"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "perfect",
+   "parts": [
+    {
+     "ar": "بَالِغَةٌ​",
+     "tr": "bālighatun",
+     "en": "perfect"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "A two-part expression: 'so/then' joined to a negating word 'not.' The first piece links to what precedes (drawing a result or sequence), and the second negates the statement that follows. Together roughly: 'so… not / and so it did not…'",
+   "parts": [
+    {
+     "ar": "فَـ",
+     "tr": "fa-",
+     "en": "so/then (consequence)"
+    },
+    {
+     "ar": "مَا",
+     "tr": "mā",
+     "en": "not (negation)"
+    }
+   ],
+   "grammar": "A connective particle fa- ('so, then,' showing result or sequence) plus the negating particle mā. When mā precedes a past-tense verb, it denies that the action happened ('did not…').",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "It avails / it suffices / it does any good — to be of use, to satisfy a need, to spare one from want. Aghnā means to make sufficient or to free from need; in negative contexts it conveys 'to be of no avail'.",
+   "parts": [
+    {
+     "ar": "تُ",
+     "tr": "tu-",
+     "en": "it / you (does — Form IV prefix vowel)"
+    },
+    {
+     "ar": "غۡنِ",
+     "tr": "-ghni",
+     "en": "avail / suffice (present stem, shortened)"
+    }
+   ],
+   "grammar": "A present-tense verb (Form IV, causative). The tu- prefix marks a third-person feminine 'it' (or a second-person 'you') as the doer. The stem ends in a bare -i (a shortened final weak letter), the form the verb takes in the jussive mood — typically after a negation meaning 'did not' or in conditions — giving the sense 'it does not avail / cannot suffice'.",
+   "root": "غ-ن-ي (gh-n-y) — sufficiency, freedom from need, richness"
+  },
+  "5": {
+   "meaning": "the warnings",
+   "parts": [
+    {
+     "ar": "النُّذُرُۙ‏",
+     "tr": "l-nudhuru",
+     "en": "the warnings"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "6": {
+  "1": {
+   "meaning": "So turn away",
+   "parts": [
+    {
+     "ar": "فَتَوَلَّ",
+     "tr": "fatawalla",
+     "en": "So turn away"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "From them; away from them; concerning them. The preposition ʿan conveys moving away from, departing from, or 'on behalf of / concerning', combined with the pronoun 'them'.",
+   "parts": [
+    {
+     "ar": "عَنْ",
+     "tr": "ʿan",
+     "en": "from / away from / concerning"
+    },
+    {
+     "ar": "ـهُمْ",
+     "tr": "-hum",
+     "en": "them (masculine plural)"
+    }
+   ],
+   "grammar": "A preposition joined to the attached pronoun -hum, 'them' (referring to a group, grammatically masculine plural). The preposition ʿan basically signals separation or removal ('away from'), and can also mean 'about/concerning' or 'on behalf of' depending on usage.",
+   "root": "— (a preposition; no triliteral verbal root)"
+  },
+  "3": {
+   "meaning": "The noun 'day' — a span of time, often used for a momentous Day or appointed time; in the accusative it frequently functions as 'on the day (when…)', marking the time at which something occurs.",
+   "parts": [
+    {
+     "ar": "يَوۡمَ",
+     "tr": "yawma",
+     "en": "day"
+    }
+   ],
+   "grammar": "A masculine noun bearing the -a (accusative) ending. As an adverb of time this ending typically gives the sense 'on the day…', fixing the moment of an event.",
+   "root": "ي-و-م (y-w-m) — day, a period of time"
+  },
+  "4": {
+   "meaning": "will call",
+   "parts": [
+    {
+     "ar": "يَدۡعُ",
+     "tr": "yadʿu",
+     "en": "will call"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "The caller, the one who supplicates or invites — the active person who calls upon someone or summons others.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "دَّاعِ",
+     "tr": "dāʿi",
+     "en": "caller / supplicant"
+    }
+   ],
+   "grammar": "An active participle ('the one who calls/supplicates') with the definite article al-. From a weak root, its final weak letter drops in this state, leaving the -i ending — a genitive form, the case used after a preposition or as the second term of a possessive link ('… OF the caller').",
+   "root": "د-ع-و (d-ʿ-w) — to call, summon, invoke"
+  },
+  "6": {
+   "meaning": "A preposition meaning 'to,' 'toward,' or 'up to' — pointing to the end-point, goal, or limit of a motion, direction, or extent.",
+   "parts": [
+    {
+     "ar": "اِلَى",
+     "tr": "ilā",
+     "en": "to/toward/up to"
+    }
+   ],
+   "grammar": "A preposition (a small linking word). It governs the noun after it, putting that noun in the genitive case, and points to a destination or limit ('to,' 'toward,' 'as far as').",
+   "root": "—"
+  },
+  "7": {
+   "meaning": "'a thing' — anything that exists or can be conceived, an entity or matter in the most general sense. It is the broadest Arabic word for 'something,' covering objects, affairs, and abstractions alike.",
+   "parts": [
+    {
+     "ar": "شَىۡء",
+     "tr": "shay'",
+     "en": "thing"
+    },
+    {
+     "ar": "ٍ",
+     "tr": "-in",
+     "en": "indefinite genitive ending '-in' (tanwīn)"
+    }
+   ],
+   "grammar": "An indefinite singular noun. The '-in' ending (tanwīn al-kasr) signals two things at once: indefiniteness ('a thing,' not 'the thing') and the genitive case, marking it as following a preposition or completing a possessive link to a preceding noun.",
+   "root": "ش-ي-ء (sh-y-ʼ) — to will, to be a thing/existent"
+  },
+  "8": {
+   "meaning": "terrible",
+   "parts": [
+    {
+     "ar": "نُّكُرٍۙ‏",
+     "tr": "nukurin",
+     "en": "terrible"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "7": {
+  "1": {
+   "meaning": "(Will be) humbled",
+   "parts": [
+    {
+     "ar": "خُشَّعًا",
+     "tr": "khushaʿan",
+     "en": "(Will be) humbled"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "Their eyes / their sights: the organs of sight, or by extension acts of seeing and glances. The plural noun denotes eyes belonging to a group.",
+   "parts": [
+    {
+     "ar": "اَبۡصَار",
+     "tr": "abṣār",
+     "en": "eyes / sights"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "nominative ending"
+    },
+    {
+     "ar": "هُمۡ",
+     "tr": "-hum",
+     "en": "their (masculine plural)"
+    }
+   ],
+   "grammar": "A plural noun (plural of baṣar, 'sight/eye') with an attached possessive pronoun. The -u is the nominative ending, marking it typically as the subject; the suffix -hum means 'their' (masculine plural).",
+   "root": "ب-ص-ر (b-ṣ-r) — sight, vision, perception"
+  },
+  "3": {
+   "meaning": "they will come forth",
+   "parts": [
+    {
+     "ar": "يَخۡرُجُوۡنَ",
+     "tr": "yakhrujūna",
+     "en": "they will come forth"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "'from,' 'out of,' 'some of' — a preposition marking origin, source, starting-point, or a part taken from a whole. It points to where something comes from or what it is drawn out of.",
+   "parts": [
+    {
+     "ar": "مِن",
+     "tr": "min",
+     "en": "from / out of"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "connecting vowel '-a' (added before 'the')"
+    }
+   ],
+   "grammar": "A preposition meaning 'from / out of.' Its final 'n' is always fully pronounced (min). Here it carries an added '-a' (mina) purely as a helping vowel to join smoothly to a following word that begins with a definite article — the 'n' is still sounded, and the added vowel does not change the meaning.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "The graves — the pits or tombs in which the dead are buried.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "اَجۡدَاث",
+     "tr": "ajdāth",
+     "en": "graves / tombs"
+    },
+    {
+     "ar": "ـِ",
+     "tr": "-i",
+     "en": "genitive ending"
+    }
+   ],
+   "grammar": "A definite broken (irregular) plural noun, 'the graves.' The al- prefix is 'the.' The -i ending is the genitive case, which typically links the word to a preceding preposition or to another noun ('… of …').",
+   "root": "ج-د-ث (j-d-th) — grave, tomb, burial place"
+  },
+  "6": {
+   "meaning": "As though they / as if they (were) — the comparison particle 'ka-anna' ('as if', likening one thing to another) joined to the pronoun 'they', introducing a supposed or apparent state.",
+   "parts": [
+    {
+     "ar": "كَ",
+     "tr": "ka-",
+     "en": "as / like"
+    },
+    {
+     "ar": "اَنَّ",
+     "tr": "anna",
+     "en": "that (emphatic)"
+    },
+    {
+     "ar": "هُمۡ",
+     "tr": "-hum",
+     "en": "they / them"
+    }
+   ],
+   "grammar": "A compound particle: 'ka-' ('like/as') fused with the emphatic 'anna' ('that') to form 'ka-anna' = 'as if'. It governs the following pronoun '-hum' ('they'), which takes the accusative form as its subject. It sets up a comparison: things appear as though a certain (often untrue) state held.",
+   "root": "— (particles; no triliteral root)"
+  },
+  "7": {
+   "meaning": "locusts",
+   "parts": [
+    {
+     "ar": "جَرَادٌ",
+     "tr": "jarādun",
+     "en": "locusts"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "8": {
+   "meaning": "spreading",
+   "parts": [
+    {
+     "ar": "مُّنۡتَشِرٌۙ‏",
+     "tr": "muntashirun",
+     "en": "spreading"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "8": {
+  "1": {
+   "meaning": "Racing ahead",
+   "parts": [
+    {
+     "ar": "مُّهۡطِعِيۡنَ",
+     "tr": "muh'ṭiʿīna",
+     "en": "Racing ahead"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "'To / toward / up to' — a preposition marking the endpoint, goal, or limit of an action or motion: the direction something moves toward or the boundary at which it stops.",
+   "parts": [
+    {
+     "ar": "اِلَى",
+     "tr": "ilā",
+     "en": "to / toward / up to"
+    }
+   ],
+   "grammar": "An invariable preposition. It has no case ending of its own but puts the noun that follows it into the genitive ('of / to' state). It indicates direction toward, or the terminal limit of, something.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "The caller, the one who supplicates or invites — the active person who calls upon someone or summons others.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "دَّاعِ",
+     "tr": "dāʿi",
+     "en": "caller / supplicant"
+    }
+   ],
+   "grammar": "An active participle ('the one who calls/supplicates') with the definite article al-. From a weak root, its final weak letter drops in this state, leaving the -i ending — a genitive form, the case used after a preposition or as the second term of a possessive link ('… OF the caller').",
+   "root": "د-ع-و (d-ʿ-w) — to call, summon, invoke"
+  },
+  "4": {
+   "meaning": "'He says' or 'he is saying' — the act of speaking or uttering words. The imperfect tense conveys an ongoing, habitual, or present/future action.",
+   "parts": [
+    {
+     "ar": "يَـ",
+     "tr": "ya-",
+     "en": "he (does)"
+    },
+    {
+     "ar": "قُول",
+     "tr": "qūl",
+     "en": "say"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "indicative ending"
+    }
+   ],
+   "grammar": "Imperfect (present/future) verb, third person masculine singular. The ya- prefix marks 'he', the stem qūl carries the meaning 'say', and the final -u is the indicative ending, signalling a plain factual statement (as opposed to a subjunctive -a or jussive sukūn used after certain particles).",
+   "root": "ق-و-ل (q-w-l) — to say, speak, utter"
+  },
+  "5": {
+   "meaning": "Definite plural noun/participle: 'the disbelievers, those who reject faith' — those who cover over and deny the truth. The pattern names a whole group defined by this attribute.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "كٰفِر",
+     "tr": "kāfir",
+     "en": "disbeliever / one who rejects"
+    },
+    {
+     "ar": "ُوۡنَ",
+     "tr": "-ūna",
+     "en": "masculine plural ending (subject case)"
+    }
+   ],
+   "grammar": "A definite active participle ('the rejecters'). The '-ūna' ending is the masculine sound plural in the nominative (subject) case — the form a word takes when it is the doer of an action or the subject of a sentence ('the disbelievers [are/do]…').",
+   "root": "ك-ف-ر (k-f-r) — to cover over, reject, disbelieve"
+  },
+  "6": {
+   "meaning": "'This' — a pointing word (demonstrative) used for something near, masculine singular: 'this one (here).' It singles out a specific, present thing.",
+   "parts": [
+    {
+     "ar": "هٰذَا",
+     "tr": "hādhā",
+     "en": "this (masculine singular)"
+    }
+   ],
+   "grammar": "A demonstrative pronoun, masculine singular, for something near at hand ('this'). It is fixed in form and does not change for case. It points out a particular thing and can stand alone ('this') or precede a noun ('this X').",
+   "root": "—"
+  },
+  "7": {
+   "meaning": "'a day' — a period of daylight, a single day, or more broadly an appointed time or epoch. It can refer to an ordinary day or to a momentous, decisive day.",
+   "parts": [
+    {
+     "ar": "يَوۡم",
+     "tr": "yawm",
+     "en": "day"
+    },
+    {
+     "ar": "ٌ",
+     "tr": "-un",
+     "en": "indefinite nominative ending (-un)"
+    }
+   ],
+   "grammar": "A masculine singular noun. The -un ending is nominative and indefinite ('a day'): the doubled-n (tanwīn) marks it as indefinite, and the -u vowel typically marks it as the subject of a sentence or the doer of an action.",
+   "root": "ي-و-م (y-w-m) — day, time"
+  },
+  "8": {
+   "meaning": "difficult",
+   "parts": [
+    {
+     "ar": "عَسِرٌ‏ ﻿﻿",
+     "tr": "ʿasirun",
+     "en": "difficult"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "9": {
+  "1": {
+   "meaning": "Denied",
+   "parts": [
+    {
+     "ar": "۞ كَذَّبَتۡ",
+     "tr": "kadhabat",
+     "en": "Denied"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "Before them — prior to them in time, or ahead of them in sequence; referring to those who came earlier than a given masculine group.",
+   "parts": [
+    {
+     "ar": "قَبۡلَ",
+     "tr": "qabla",
+     "en": "before (in time or order)"
+    },
+    {
+     "ar": "ـهُمۡ",
+     "tr": "-hum",
+     "en": "them (masculine plural)"
+    }
+   ],
+   "grammar": "An adverb of time meaning 'before', fixed in the accusative form (the -a ending) as such adverbs typically are. The attached -hum ('them', a masculine plural) is in the genitive as the noun it is linked to, giving 'before them' — earlier than that group.",
+   "root": "ق-ب-ل (q-b-l) — precedence, what comes before"
+  },
+  "3": {
+   "meaning": "a people, folk, community; a group of human beings bound together (by kinship, locality, or allegiance). The word often carries the sense of one's own people or nation.",
+   "parts": [
+    {
+     "ar": "قَوۡم",
+     "tr": "qawm",
+     "en": "people, folk, community"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "nominative ending"
+    }
+   ],
+   "grammar": "A collective singular noun (singular in form, plural in sense). The -u ending is nominative, the case that typically marks the subject — the one doing or being something in a sentence.",
+   "root": "ق-و-م (q-w-m) — to stand, rise; hence a group that stands together"
+  },
+  "4": {
+   "meaning": "Noah — the proper name of the Prophet Nūḥ.",
+   "parts": [
+    {
+     "ar": "نُوۡح",
+     "tr": "nūḥ",
+     "en": "Noah (Nūḥ)"
+    },
+    {
+     "ar": "ٍ",
+     "tr": "-in",
+     "en": "indefinite genitive ending"
+    }
+   ],
+   "grammar": "A proper name. The -in ending (nunation) shows it is treated as a fully declinable noun in the genitive case — the case used after a preposition or to link to a preceding word. (Most personal names are partly indeclinable, but this short name takes full case endings.)",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "and they denied",
+   "parts": [
+    {
+     "ar": "فَكَذَّبُوۡا",
+     "tr": "fakadhabū",
+     "en": "and they denied"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "6": {
+   "meaning": "Our slave",
+   "parts": [
+    {
+     "ar": "عَبۡدَنَا",
+     "tr": "ʿabdanā",
+     "en": "Our slave"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "7": {
+   "meaning": "And they said — to utter or declare in speech, with the action presented as completed by a group.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "قَالُ",
+     "tr": "qālu",
+     "en": "they said (stem)"
+    },
+    {
+     "ar": "وۡا",
+     "tr": "-ū",
+     "en": "they (masc. pl.) ending"
+    }
+   ],
+   "grammar": "The prefix 'wa-' means 'and'. 'qāla' is the past-tense verb 'to say'; the '-ū' suffix marks a completed action done by 'they' (a masculine or mixed group). The stem shown here ('qālu') carries only the stem vowel before the suffix, with the plural '-ū' supplied by the separate ending. Past tense, so the speaking is presented as already finished.",
+   "root": "ق-و-ل (q-w-l) — to say, speak"
+  },
+  "8": {
+   "meaning": "A madman",
+   "parts": [
+    {
+     "ar": "مَجۡنُوۡنٌ",
+     "tr": "majnūnun",
+     "en": "A madman"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "9": {
+   "meaning": "and he was repelled",
+   "parts": [
+    {
+     "ar": "وَّازۡدُجِرَ‏",
+     "tr": "wa-uz'dujira",
+     "en": "and he was repelled"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "10": {
+  "1": {
+   "meaning": "'So he called / called upon / prayed' — to call out to someone, summon them, or supplicate; with this root, often to invoke and pray.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa-",
+     "en": "so / then"
+    },
+    {
+     "ar": "دَعَا",
+     "tr": "daʿā",
+     "en": "he called / supplicated (past)"
+    }
+   ],
+   "grammar": "A completed (past-tense) verb meaning a single male subject ('he') performed the act: 'he called / he prayed.' The opening fa- means 'so / then,' connecting it to what came before. The final long -ā is the third-person masculine singular past ending for this kind of verb (whose last root letter is a weak w/y).",
+   "root": "د-ع-و (d-ʿ-w) — to call, summon, invoke, supplicate"
+  },
+  "2": {
+   "meaning": "The noun 'Lord' joined to a 'his' pronoun — 'his Lord'. Rabb conveys the Master and Sustainer who owns, nurtures, and brings a thing to its full development; far richer than 'lord' alone.",
+   "parts": [
+    {
+     "ar": "رَبّ",
+     "tr": "rabb",
+     "en": "Lord / Master and Sustainer"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "accusative ending"
+    },
+    {
+     "ar": "هٗ",
+     "tr": "-hu",
+     "en": "his"
+    }
+   ],
+   "grammar": "A noun with the attached possessive pronoun -hu ('his'). The -a ending is accusative, the case used when the noun is an object of a verb or otherwise governed into that case; -hu means it belongs to 'him'.",
+   "root": "ر-ب-ب (r-b-b) — lordship, ownership, nurturing and sustaining to completion"
+  },
+  "3": {
+   "meaning": "That I — the subordinating particle 'that' fused with the pronoun 'I', used to introduce a noun clause stating a fact about oneself.",
+   "parts": [
+    {
+     "ar": "أَنّ",
+     "tr": "ann",
+     "en": "that (subordinating particle)"
+    },
+    {
+     "ar": "ِي",
+     "tr": "-ī",
+     "en": "me / I (attached pronoun)"
+    }
+   ],
+   "grammar": "The particle 'anna' is a subordinating complementizer meaning 'that'; it introduces a factive noun clause (e.g. as the content of 'I inform you that …'). It is not in itself emphatic — its function is to subordinate the clause, not to assert 'indeed' (that sense belongs to the separate particle 'inna'). 'anna' governs the following noun/pronoun in the accusative; the attached -ī is the first-person singular pronoun ('I/me') serving as its subject.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "one overpowered",
+   "parts": [
+    {
+     "ar": "مَغۡلُوۡبٌ",
+     "tr": "maghlūbun",
+     "en": "one overpowered"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "so help",
+   "parts": [
+    {
+     "ar": "فَانْـتَصِرۡ‏",
+     "tr": "fa-intaṣir",
+     "en": "so help"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "11": {
+  "1": {
+   "meaning": "So We opened",
+   "parts": [
+    {
+     "ar": "فَفَتَحۡنَاۤ",
+     "tr": "fafataḥnā",
+     "en": "So We opened"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "A noun meaning 'gates, doors, or openings' — the plural of 'bāb,' an entrance or means of access.",
+   "parts": [
+    {
+     "ar": "اَبۡوَاب",
+     "tr": "abwāb",
+     "en": "gates / doors"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "accusative ending"
+    }
+   ],
+   "grammar": "A plural noun. The final -a is accusative, the case that typically marks the direct object — the thing acted upon (e.g., the thing being opened) — and is also used after certain particles.",
+   "root": "ب-و-ب (b-w-b) — door, gate, entrance"
+  },
+  "3": {
+   "meaning": "The sky or heaven — the canopy overhead; the expanse above the earth, also that which is elevated or raised over something. With the definite article it means 'the sky / the heaven'.",
+   "parts": [
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "سَّمَآء",
+     "tr": "samāʾ",
+     "en": "sky / heaven"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "genitive ending (-i)"
+    }
+   ],
+   "grammar": "A noun with the definite article al- ('the'), in the genitive marked by the -i ending. (The 'l' of al- assimilates in sound into the following 's', a 'sun letter', though it is still written.) The genitive -i ending typically appears after a preposition or links the word to a preceding noun ('… of …').",
+   "root": "س-م-و (s-m-w) — height, loftiness; sky, heaven"
+  },
+  "4": {
+   "meaning": "With water — by means of water, the clear liquid essential to life.",
+   "parts": [
+    {
+     "ar": "بِـ",
+     "tr": "bi-",
+     "en": "with / by means of"
+    },
+    {
+     "ar": "مَآء",
+     "tr": "māʾ",
+     "en": "water"
+    },
+    {
+     "ar": "ٍ",
+     "tr": "-in",
+     "en": "genitive indefinite ending"
+    }
+   ],
+   "grammar": "The bi- prefix is a preposition meaning 'with / by means of'. Because it is a preposition, the following noun takes the genitive: the -in ending here is genitive with indefiniteness ('nunation'), so 'with (some) water'.",
+   "root": "م-و-ه (m-w-h) — water"
+  },
+  "5": {
+   "meaning": "pouring down",
+   "parts": [
+    {
+     "ar": "مُّنۡهَمِرٍ ۖ‏",
+     "tr": "mun'hamirin",
+     "en": "pouring down"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "12": {
+  "1": {
+   "meaning": "'And We caused to burst/gush forth' — a verb meaning to split open and make flow, as in causing water to come pouring out. The wa- is the connector 'and.'",
+   "parts": [
+    {
+     "ar": "وَّ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "فَجَّرۡ",
+     "tr": "fajjar",
+     "en": "caused to gush forth"
+    },
+    {
+     "ar": "نَا",
+     "tr": "-nā",
+     "en": "we (subject)"
+    }
+   ],
+   "grammar": "Past-tense verb with attached subject. The -nā ending means 'we (did).' The doubled middle consonant (intensive, form-II pattern) adds force or abundance — 'made gush forth copiously' rather than a single gentle splitting.",
+   "root": "ف-ج-ر (f-j-r) — to split open, burst forth, gush"
+  },
+  "2": {
+   "meaning": "'the earth,' 'the ground,' 'the land' — the earth as a whole, or the land/ground beneath us. It denotes the terrestrial expanse on which creatures live and walk.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the (definite article)"
+    },
+    {
+     "ar": "أَرۡض",
+     "tr": "arḍ",
+     "en": "earth / land"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "accusative ending '-a'"
+    }
+   ],
+   "grammar": "A definite noun ('the earth'). The '-a' ending marks the accusative (the 'object' case) — the role of the thing acted upon, e.g. the direct object of a verb. The prefixed 'al-' makes it definite, 'the earth.'",
+   "root": "أ-ر-ض (ʼ-r-ḍ) — earth, land, ground"
+  },
+  "3": {
+   "meaning": "(with) springs",
+   "parts": [
+    {
+     "ar": "عُيُوۡنًا",
+     "tr": "ʿuyūnan",
+     "en": "(with) springs"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "so met",
+   "parts": [
+    {
+     "ar": "فَالۡتَقَى",
+     "tr": "fal-taqā",
+     "en": "so met"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "The water.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "مَآء",
+     "tr": "mā'",
+     "en": "water"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "nominative ending '-u'"
+    }
+   ],
+   "grammar": "A definite noun ('the water'). The '-u' ending is nominative, the case typically used for the subject doing or being something in a sentence.",
+   "root": "م-و-ه (m-w-h) — water"
+  },
+  "6": {
+   "meaning": "A preposition meaning 'on, upon, over,' and by extension 'against' or 'incumbent upon.' It can mark something resting on top of, an obligation laid on someone, or being set over/above something.",
+   "parts": [
+    {
+     "ar": "عَلٰى",
+     "tr": "ʿalā",
+     "en": "on / upon / over"
+    }
+   ],
+   "grammar": "An indeclinable preposition (its form never changes). It governs the following noun, putting it in the genitive case, and conveys location 'on/upon,' or figuratively duty or opposition ('against').",
+   "root": "— (preposition; no triliteral root)"
+  },
+  "7": {
+   "meaning": "A matter, affair, command, or decree. The word spans two senses from one root: an ordered 'command' and the 'affair/situation' that results from it. The indefinite form points to 'some matter' or 'a decision' in general.",
+   "parts": [
+    {
+     "ar": "اَمۡر",
+     "tr": "amr",
+     "en": "matter, command, affair"
+    },
+    {
+     "ar": "ٍ",
+     "tr": "-in",
+     "en": "indefinite genitive ending ('a …')"
+    }
+   ],
+   "grammar": "A noun in the genitive state with tanwīn (the -in ending), marking it as indefinite ('a matter') and governed either by a preceding preposition or by being joined to a foregoing noun ('… of a matter').",
+   "root": "ا-م-ر (ʾ-m-r) — to command; also matter, affair"
+  },
+  "8": {
+   "meaning": "A short particle placed before a verb to emphasize or affirm it. Before a past-tense verb it means 'indeed / certainly / has already (happened)'; before a present-tense verb it can mean 'sometimes / may'. It sharpens and confirms the verb that follows.",
+   "parts": [
+    {
+     "ar": "قَدۡ",
+     "tr": "qad",
+     "en": "indeed / certainly / already"
+    }
+   ],
+   "grammar": "An indeclinable particle (its form never changes). It does not take case or tense endings; its job is to color the following verb — affirming and intensifying a past action ('has indeed done') or signaling occasional possibility with a present verb.",
+   "root": "— (no triliteral root; an emphasizing particle)"
+  },
+  "9": {
+   "meaning": "predestined",
+   "parts": [
+    {
+     "ar": "قُدِرَ​ۚ‏",
+     "tr": "qudira",
+     "en": "predestined"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "13": {
+  "1": {
+   "meaning": "And We carried him",
+   "parts": [
+    {
+     "ar": "وَحَمَلۡنٰهُ",
+     "tr": "waḥamalnāhu",
+     "en": "And We carried him"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "A preposition whose core sense is 'on' or 'upon' — resting on top of, or being over something. By extension it carries ideas of obligation ('it is upon someone to…'), being upheld or guided by something, or being against something, depending on usage.",
+   "parts": [
+    {
+     "ar": "عَلٰى",
+     "tr": "ʿalā",
+     "en": "on / upon"
+    }
+   ],
+   "grammar": "A preposition. It is indeclinable (its form never changes) and it governs the following noun, putting it in the genitive case. Its basic spatial meaning is 'on top of / over'.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "Possessor of, the one having, or the feminine 'that which has'. A feminine word meaning 'owner of' or 'characterized by', used to attach a quality to something.",
+   "parts": [
+    {
+     "ar": "ذَات",
+     "tr": "dhāt",
+     "en": "possessor of / that which has"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "genitive ending"
+    }
+   ],
+   "grammar": "A feminine noun of relation meaning 'possessor/owner of', placed before another noun to ascribe a quality to it. The -i ending is genitive: it typically follows a preposition or links the word to a following noun ('… OF …').",
+   "root": "— (functions as a noun of possession; no standard triliteral root)."
+  },
+  "4": {
+   "meaning": "(ark) made of planks",
+   "parts": [
+    {
+     "ar": "اَلۡوَاحٍ",
+     "tr": "alwāḥin",
+     "en": "(ark) made of planks"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "and nails",
+   "parts": [
+    {
+     "ar": "وَّدُسُرٍۙ‏",
+     "tr": "wadusurin",
+     "en": "and nails"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "14": {
+  "1": {
+   "meaning": "A verb 'it flows, runs, streams' — used of water and rivers moving along, and of things that run or course freely. It describes continuous, ongoing motion.",
+   "parts": [
+    {
+     "ar": "تَـ",
+     "tr": "ta-",
+     "en": "it/she (feminine subject prefix)"
+    },
+    {
+     "ar": "جۡرِىۡ",
+     "tr": "jrī",
+     "en": "flow / run (verb stem)"
+    }
+   ],
+   "grammar": "A present/imperfect verb, 3rd person feminine singular. The ta- prefix here marks a feminine 'it/she' subject. The verb describes an ongoing or habitual action: 'it flows / keeps flowing.'",
+   "root": "ج-ر-ي (j-r-y) — to flow, run, stream"
+  },
+  "2": {
+   "meaning": "'With/under Our eyes' — an idiom for being kept under loving, protective oversight and supervision; the literal sense is the organs of sight.",
+   "parts": [
+    {
+     "ar": "بِ",
+     "tr": "bi-",
+     "en": "with/under"
+    },
+    {
+     "ar": "اَعۡيُن",
+     "tr": "aʿyun",
+     "en": "eyes"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "genitive ending"
+    },
+    {
+     "ar": "نَا",
+     "tr": "-nā",
+     "en": "our"
+    }
+   ],
+   "grammar": "The prefix bi- means 'with/by/under'. Because it is a preposition, the following noun takes the genitive -i ending. The plural noun aʿyun ('eyes') is then linked to the attached pronoun -nā ('our'), which serves as a possessor.",
+   "root": "ع-ي-ن ('-y-n) — eye; by extension a spring of water and the essence of a thing."
+  },
+  "3": {
+   "meaning": "\"as a recompense / requital / repayment\" — a noun denoting the return or payment given for a deed, whether reward or penalty.",
+   "parts": [
+    {
+     "ar": "جَزَآء",
+     "tr": "jazāʾ",
+     "en": "recompense / requital"
+    },
+    {
+     "ar": "ًۢ",
+     "tr": "-an",
+     "en": "indefinite accusative ending"
+    }
+   ],
+   "grammar": "A masculine noun. The final \"-an\" (tanwīn fatḥa) is the indefinite accusative ending; on a word like this it commonly functions adverbially, expressing the cause, purpose, or manner — i.e., \"(done) as a recompense.\"",
+   "root": "ج-ز-ي (j-z-y) — to recompense, requite, repay, reward or punish"
+  },
+  "4": {
+   "meaning": "A combined expression meaning 'to whom?' or 'for whom?' — it asks about the owner or the one to whom something belongs. It fuses the preposition 'to/for' with the question word 'who'.",
+   "parts": [
+    {
+     "ar": "لِّ",
+     "tr": "li-",
+     "en": "to / for / belonging to"
+    },
+    {
+     "ar": "مَنْ",
+     "tr": "man",
+     "en": "who"
+    }
+   ],
+   "grammar": "A preposition ('to/for') joined to the interrogative 'who'. Together they pose the question 'to whom (does it belong)?'. The combination is fixed in form and does not change its ending.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "He/it was, or there was — the past tense of the verb 'to be', expressing that something existed or used to be the case.",
+   "parts": [
+    {
+     "ar": "كَان",
+     "tr": "kān",
+     "en": "to be, was, used to be"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "past-tense 3rd-person masculine singular ending"
+    }
+   ],
+   "grammar": "A past-tense verb (a 'hollow' verb of being), third-person masculine singular ('he/it was'). The final '-a' marks the ordinary past tense for 'he/it'. Paired with a following present-tense verb, it often conveys 'used to' do something.",
+   "root": "ك-و-ن (k-w-n) — being, existence; to be"
+  },
+  "6": {
+   "meaning": "denied",
+   "parts": [
+    {
+     "ar": "كُفِرَ‏",
+     "tr": "kufira",
+     "en": "denied"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "15": {
+  "1": {
+   "meaning": "And certainly",
+   "parts": [
+    {
+     "ar": "وَلَقَدْ",
+     "tr": "walaqad",
+     "en": "And certainly"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "We left it",
+   "parts": [
+    {
+     "ar": "تَّرَكۡنٰهَاۤ",
+     "tr": "taraknāhā",
+     "en": "We left it"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "'A sign' — a token, mark, or proof that points to something beyond itself; a miraculous indication, a lesson, or an evidence. (The same word also denotes a verse of the Qur'an.)",
+   "parts": [
+    {
+     "ar": "اٰيَةً",
+     "tr": "āyatan",
+     "en": "a sign"
+    },
+    {
+     "ar": "ـً",
+     "tr": "-an",
+     "en": "indefinite object/'-a' ending"
+    }
+   ],
+   "grammar": "An indefinite noun. The '-an' ending (accusative with 'tanwīn', the doubled final 'n' of indefiniteness) typically marks the noun as the direct object of a verb, or as the thing one is being made or named, and signals 'a / an' rather than 'the'.",
+   "root": "ا-ي-ي / ء-ي-ي (’-y-y) — sign, mark, token"
+  },
+  "4": {
+   "meaning": "'So/then — is it the case that…?' A linking 'then' joined to an interrogative particle that introduces a yes/no question, often carrying a sense of urging, challenge, or expectation ('will you not…?').",
+   "parts": [
+    {
+     "ar": "فَـ",
+     "tr": "fa-",
+     "en": "so / then"
+    },
+    {
+     "ar": "هَلۡ",
+     "tr": "hal",
+     "en": "is it that…? (yes/no question marker)"
+    }
+   ],
+   "grammar": "A compound of the connective fa- ('so, then', linking to what precedes) and the question particle hal, which turns a statement into a yes/no question and frequently implies expectation or exhortation. Particles like this are invariable — they take no case or mood ending.",
+   "root": "— (particles; no triliteral root)"
+  },
+  "5": {
+   "meaning": "'From, out of': a preposition marking the starting point or source of something — the origin from which a thing comes, or a part taken from a whole.",
+   "parts": [
+    {
+     "ar": "مِنۡ",
+     "tr": "min",
+     "en": "from/out of"
+    }
+   ],
+   "grammar": "A preposition expressing origin, source, or partition ('from, out of, some of'). A noun governed by min stands in the genitive relationship and would typically take an -i type ending. The particle itself is invariable.",
+   "root": "— (preposition)"
+  },
+  "6": {
+   "meaning": "who will receive admonition",
+   "parts": [
+    {
+     "ar": "مُّدَّكِرٍ‏",
+     "tr": "muddakirin",
+     "en": "who will receive admonition"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "16": {
+  "1": {
+   "meaning": "So how? / Then in what manner or state? — kayfa is the interrogative 'how', asking after the manner, condition or circumstance of something. With the prefixed 'so/then' it introduces a question following from what precedes, often expressing wonder or warning.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa-",
+     "en": "so / then"
+    },
+    {
+     "ar": "كَيۡفَ",
+     "tr": "kayfa",
+     "en": "how"
+    }
+   ],
+   "grammar": "An interrogative particle ('how') carrying the connective prefix fa- ('so / then'), which links it to a preceding statement as a consequence or follow-up. As a particle, kayfa is indeclinable: its fixed final -a is not a case ending and does not change.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "He/it was, or there was — the past tense of the verb 'to be', expressing that something existed or used to be the case.",
+   "parts": [
+    {
+     "ar": "كَان",
+     "tr": "kān",
+     "en": "to be, was, used to be"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "past-tense 3rd-person masculine singular ending"
+    }
+   ],
+   "grammar": "A past-tense verb (a 'hollow' verb of being), third-person masculine singular ('he/it was'). The final '-a' marks the ordinary past tense for 'he/it'. Paired with a following present-tense verb, it often conveys 'used to' do something.",
+   "root": "ك-و-ن (k-w-n) — being, existence; to be"
+  },
+  "3": {
+   "meaning": "'My punishment / My chastisement' — penalty or torment, specified as belonging to the speaker (Allah).",
+   "parts": [
+    {
+     "ar": "عَذَاب",
+     "tr": "ʿadhāb",
+     "en": "punishment, torment"
+    },
+    {
+     "ar": "ِىۡ",
+     "tr": "ī",
+     "en": "my"
+    }
+   ],
+   "grammar": "A noun 'punishment' with the attached possessive -ī ('my'), so it means 'my punishment.' This first-person possessive ending also signals that the base noun is in a genitive/possessed state. It names the penalty as belonging to the speaker.",
+   "root": "ع-ذ-ب (ʿ-dh-b) — to punish, torment, chastise"
+  },
+  "4": {
+   "meaning": "and My warnings",
+   "parts": [
+    {
+     "ar": "وَنُذُرِ‏",
+     "tr": "wanudhuri",
+     "en": "and My warnings"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "17": {
+  "1": {
+   "meaning": "\"And indeed / and most certainly\" — combines 'and' with the emphatic 'la-' and the particle 'qad'; before a past-tense verb 'qad' affirms that the action has definitely and already happened, reinforced into 'and indeed it surely did'.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "لَ",
+     "tr": "la",
+     "en": "surely / certainly"
+    },
+    {
+     "ar": "قَدۡ",
+     "tr": "qad",
+     "en": "indeed / already"
+    }
+   ],
+   "grammar": "The conjunction 'and' plus the emphatic 'la-' ('surely') plus the particle 'qad'. With a past-tense verb, 'qad' stresses that the act is real and completed ('has indeed happened'); together they form a strong oath-like affirmation. These are function words and are not inflected.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "We have made easy",
+   "parts": [
+    {
+     "ar": "يَسَّرۡنَا",
+     "tr": "yassarnā",
+     "en": "We have made easy"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "The Qur'an — the recited Scripture; literally 'the Recitation' or 'the Reading'.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "قُرۡاٰن",
+     "tr": "qur'ān",
+     "en": "Qur'an / recitation"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "definite accusative ending"
+    }
+   ],
+   "grammar": "A definite noun (carrying 'al-', 'the') on the verbal-noun pattern fuʿlān, denoting the act/thing of reciting. The final '-a' marks the accusative case, which most often signals that the word is the direct object of a verb.",
+   "root": "ق-ر-ء (q-r-ʾ) — reciting, reading aloud, gathering words together"
+  },
+  "4": {
+   "meaning": "for remembrance",
+   "parts": [
+    {
+     "ar": "لِلذِّكۡرِ",
+     "tr": "lildhik'ri",
+     "en": "for remembrance"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "'So/then — is it the case that…?' A linking 'then' joined to an interrogative particle that introduces a yes/no question, often carrying a sense of urging, challenge, or expectation ('will you not…?').",
+   "parts": [
+    {
+     "ar": "فَـ",
+     "tr": "fa-",
+     "en": "so / then"
+    },
+    {
+     "ar": "هَلۡ",
+     "tr": "hal",
+     "en": "is it that…? (yes/no question marker)"
+    }
+   ],
+   "grammar": "A compound of the connective fa- ('so, then', linking to what precedes) and the question particle hal, which turns a statement into a yes/no question and frequently implies expectation or exhortation. Particles like this are invariable — they take no case or mood ending.",
+   "root": "— (particles; no triliteral root)"
+  },
+  "6": {
+   "meaning": "'From, out of': a preposition marking the starting point or source of something — the origin from which a thing comes, or a part taken from a whole.",
+   "parts": [
+    {
+     "ar": "مِنۡ",
+     "tr": "min",
+     "en": "from/out of"
+    }
+   ],
+   "grammar": "A preposition expressing origin, source, or partition ('from, out of, some of'). A noun governed by min stands in the genitive relationship and would typically take an -i type ending. The particle itself is invariable.",
+   "root": "— (preposition)"
+  },
+  "7": {
+   "meaning": "who will receive admonition",
+   "parts": [
+    {
+     "ar": "مُّدَّكِرٍ‏",
+     "tr": "muddakirin",
+     "en": "who will receive admonition"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "18": {
+  "1": {
+   "meaning": "Denied",
+   "parts": [
+    {
+     "ar": "۞ كَذَّبَتۡ",
+     "tr": "kadhabat",
+     "en": "Denied"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "Aad",
+   "parts": [
+    {
+     "ar": "عَادٌ",
+     "tr": "ʿādun",
+     "en": "Aad"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "So how? / Then in what manner or state? — kayfa is the interrogative 'how', asking after the manner, condition or circumstance of something. With the prefixed 'so/then' it introduces a question following from what precedes, often expressing wonder or warning.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa-",
+     "en": "so / then"
+    },
+    {
+     "ar": "كَيۡفَ",
+     "tr": "kayfa",
+     "en": "how"
+    }
+   ],
+   "grammar": "An interrogative particle ('how') carrying the connective prefix fa- ('so / then'), which links it to a preceding statement as a consequence or follow-up. As a particle, kayfa is indeclinable: its fixed final -a is not a case ending and does not change.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "He/it was, or there was — the past tense of the verb 'to be', expressing that something existed or used to be the case.",
+   "parts": [
+    {
+     "ar": "كَان",
+     "tr": "kān",
+     "en": "to be, was, used to be"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "past-tense 3rd-person masculine singular ending"
+    }
+   ],
+   "grammar": "A past-tense verb (a 'hollow' verb of being), third-person masculine singular ('he/it was'). The final '-a' marks the ordinary past tense for 'he/it'. Paired with a following present-tense verb, it often conveys 'used to' do something.",
+   "root": "ك-و-ن (k-w-n) — being, existence; to be"
+  },
+  "5": {
+   "meaning": "'My punishment / My chastisement' — penalty or torment, specified as belonging to the speaker (Allah).",
+   "parts": [
+    {
+     "ar": "عَذَاب",
+     "tr": "ʿadhāb",
+     "en": "punishment, torment"
+    },
+    {
+     "ar": "ِىۡ",
+     "tr": "ī",
+     "en": "my"
+    }
+   ],
+   "grammar": "A noun 'punishment' with the attached possessive -ī ('my'), so it means 'my punishment.' This first-person possessive ending also signals that the base noun is in a genitive/possessed state. It names the penalty as belonging to the speaker.",
+   "root": "ع-ذ-ب (ʿ-dh-b) — to punish, torment, chastise"
+  },
+  "6": {
+   "meaning": "and My warnings",
+   "parts": [
+    {
+     "ar": "وَنُذُرِ‏",
+     "tr": "wanudhuri",
+     "en": "and My warnings"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "19": {
+  "1": {
+   "meaning": "A two-part expression: an emphatic particle that strongly affirms and confirms a statement ('truly, indeed, certainly'), fused with the attached pronoun 'we.' Together: 'truly we…' / 'indeed we…'",
+   "parts": [
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "truly/indeed (emphasis)"
+    },
+    {
+     "ar": "ـا",
+     "tr": "-ā",
+     "en": "we (us)"
+    }
+   ],
+   "grammar": "The particle inna gives strong emphasis and certainty to the clause it opens. The attached -ā is the pronoun 'we,' serving as the subject being emphasized: 'truly we…'",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "We sent / dispatched. From the causative verb meaning to send forth or commission, especially the sending of messengers; with 'We' as the subject.",
+   "parts": [
+    {
+     "ar": "اَرۡسَل",
+     "tr": "arsal",
+     "en": "sent / dispatched (causative past stem)"
+    },
+    {
+     "ar": "نَا",
+     "tr": "-nā",
+     "en": "we"
+    }
+   ],
+   "grammar": "Past/perfect verb in the causative (form IV) pattern meaning 'to send', 1st person plural ('we'). The suffix -nā is the subject ending 'we' on a completed action. The perfect tense presents the sending as accomplished and complete.",
+   "root": "ر-س-ل (r-s-l) — sending, dispatching, messengership"
+  },
+  "3": {
+   "meaning": "A compound meaning 'upon them' or 'against them': the preposition ʿalā ('on, upon, over, against') joined to the plural pronoun 'them'. It conveys something resting on, being incumbent upon, or weighing against a group.",
+   "parts": [
+    {
+     "ar": "عَلَيۡ",
+     "tr": "ʿalay",
+     "en": "upon / against"
+    },
+    {
+     "ar": "هِمۡ",
+     "tr": "him",
+     "en": "them (masculine plural)"
+    }
+   ],
+   "grammar": "ʿalā shifts to the form ʿalay- before a pronoun. The suffix -him is the attached pronominal suffix for a masculine plural group ('them'); after a preposition it carries genitive/prepositional force, and the -i- vowel reflects its position after this preposition. Together they signal a relationship of something being over, upon, or burdensome to that group.",
+   "root": "— (preposition with attached pronoun; no triliteral root)"
+  },
+  "4": {
+   "meaning": "a wind",
+   "parts": [
+    {
+     "ar": "رِيۡحًا",
+     "tr": "rīḥan",
+     "en": "a wind"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "furious",
+   "parts": [
+    {
+     "ar": "صَرۡصَرًا",
+     "tr": "ṣarṣaran",
+     "en": "furious"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "6": {
+   "meaning": "A preposition meaning 'in,' 'within,' or 'inside.' It locates something inside a place, a time, a state, or a matter — physically or figuratively (e.g. 'in' a condition or 'concerning' a matter).",
+   "parts": [
+    {
+     "ar": "فِىۡ",
+     "tr": "fī",
+     "en": "in / within / inside"
+    }
+   ],
+   "grammar": "A preposition. It is invariable (it does not change form) and places the following noun into the genitive case, indicating containment or location 'in / within' something.",
+   "root": "— (particle)"
+  },
+  "7": {
+   "meaning": "'Day' — a span of time. It denotes a day or a definite point/period of time; it links to a following word to specify which day (e.g., 'the day of …').",
+   "parts": [
+    {
+     "ar": "يَوۡمِ",
+     "tr": "yawmi",
+     "en": "day (in the genitive, '-i')"
+    }
+   ],
+   "grammar": "A masculine noun. Its final -i vowel is the genitive case: it typically appears after a preposition or when the word is linked to a following noun in an 'of …' relationship (as in 'the day OF …').",
+   "root": "ي-و-م (y-w-m) — day, period of time"
+  },
+  "8": {
+   "meaning": "(of) misfortune",
+   "parts": [
+    {
+     "ar": "نَحۡسٍ",
+     "tr": "naḥsin",
+     "en": "(of) misfortune"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "9": {
+   "meaning": "continuous",
+   "parts": [
+    {
+     "ar": "مُّسۡتَمِرٍّۙ‏ ﻿﻿",
+     "tr": "mus'tamirrin",
+     "en": "continuous"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "20": {
+  "1": {
+   "meaning": "Plucking out",
+   "parts": [
+    {
+     "ar": "تَنۡزِعُ",
+     "tr": "tanziʿu",
+     "en": "Plucking out"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "Mankind, humanity, people in general — the collective of human beings.",
+   "parts": [
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "نَّاس",
+     "tr": "nnās",
+     "en": "people / mankind"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "object ending (-a)"
+    }
+   ],
+   "grammar": "A definite noun ('the people') with the attached 'al-' ('the'). The 'l' of 'al-' assimilates into the following 'n' (a sun letter), which is why the 'n' is doubled — this is a pronunciation effect, not a separate piece. The final '-a' ending is the accusative case, which typically marks the word as the direct object of a verb (the one being acted upon) or the subject of certain particles.",
+   "root": "ن-و-س (n-w-s) — to move/sway; by extension, people"
+  },
+  "3": {
+   "meaning": "As though they / as if they (were) — the comparison particle 'ka-anna' ('as if', likening one thing to another) joined to the pronoun 'they', introducing a supposed or apparent state.",
+   "parts": [
+    {
+     "ar": "كَ",
+     "tr": "ka-",
+     "en": "as / like"
+    },
+    {
+     "ar": "اَنَّ",
+     "tr": "anna",
+     "en": "that (emphatic)"
+    },
+    {
+     "ar": "هُمۡ",
+     "tr": "-hum",
+     "en": "they / them"
+    }
+   ],
+   "grammar": "A compound particle: 'ka-' ('like/as') fused with the emphatic 'anna' ('that') to form 'ka-anna' = 'as if'. It governs the following pronoun '-hum' ('they'), which takes the accusative form as its subject. It sets up a comparison: things appear as though a certain (often untrue) state held.",
+   "root": "— (particles; no triliteral root)"
+  },
+  "4": {
+   "meaning": "trunks",
+   "parts": [
+    {
+     "ar": "اَعۡجَازُ",
+     "tr": "aʿjāzu",
+     "en": "trunks"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "(of) date-palms",
+   "parts": [
+    {
+     "ar": "نَخۡلٍ",
+     "tr": "nakhlin",
+     "en": "(of) date-palms"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "6": {
+   "meaning": "uprooted",
+   "parts": [
+    {
+     "ar": "مُّنۡقَعِرٍ‏",
+     "tr": "munqaʿirin",
+     "en": "uprooted"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "21": {
+  "1": {
+   "meaning": "So how? / Then in what manner or state? — kayfa is the interrogative 'how', asking after the manner, condition or circumstance of something. With the prefixed 'so/then' it introduces a question following from what precedes, often expressing wonder or warning.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa-",
+     "en": "so / then"
+    },
+    {
+     "ar": "كَيۡفَ",
+     "tr": "kayfa",
+     "en": "how"
+    }
+   ],
+   "grammar": "An interrogative particle ('how') carrying the connective prefix fa- ('so / then'), which links it to a preceding statement as a consequence or follow-up. As a particle, kayfa is indeclinable: its fixed final -a is not a case ending and does not change.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "He/it was, or there was — the past tense of the verb 'to be', expressing that something existed or used to be the case.",
+   "parts": [
+    {
+     "ar": "كَان",
+     "tr": "kān",
+     "en": "to be, was, used to be"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "past-tense 3rd-person masculine singular ending"
+    }
+   ],
+   "grammar": "A past-tense verb (a 'hollow' verb of being), third-person masculine singular ('he/it was'). The final '-a' marks the ordinary past tense for 'he/it'. Paired with a following present-tense verb, it often conveys 'used to' do something.",
+   "root": "ك-و-ن (k-w-n) — being, existence; to be"
+  },
+  "3": {
+   "meaning": "'My punishment / My chastisement' — penalty or torment, specified as belonging to the speaker (Allah).",
+   "parts": [
+    {
+     "ar": "عَذَاب",
+     "tr": "ʿadhāb",
+     "en": "punishment, torment"
+    },
+    {
+     "ar": "ِىۡ",
+     "tr": "ī",
+     "en": "my"
+    }
+   ],
+   "grammar": "A noun 'punishment' with the attached possessive -ī ('my'), so it means 'my punishment.' This first-person possessive ending also signals that the base noun is in a genitive/possessed state. It names the penalty as belonging to the speaker.",
+   "root": "ع-ذ-ب (ʿ-dh-b) — to punish, torment, chastise"
+  },
+  "4": {
+   "meaning": "and My warnings",
+   "parts": [
+    {
+     "ar": "وَنُذُرِ‏",
+     "tr": "wanudhuri",
+     "en": "and My warnings"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "22": {
+  "1": {
+   "meaning": "\"And indeed / and most certainly\" — combines 'and' with the emphatic 'la-' and the particle 'qad'; before a past-tense verb 'qad' affirms that the action has definitely and already happened, reinforced into 'and indeed it surely did'.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "لَ",
+     "tr": "la",
+     "en": "surely / certainly"
+    },
+    {
+     "ar": "قَدۡ",
+     "tr": "qad",
+     "en": "indeed / already"
+    }
+   ],
+   "grammar": "The conjunction 'and' plus the emphatic 'la-' ('surely') plus the particle 'qad'. With a past-tense verb, 'qad' stresses that the act is real and completed ('has indeed happened'); together they form a strong oath-like affirmation. These are function words and are not inflected.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "We have made easy",
+   "parts": [
+    {
+     "ar": "يَسَّرۡنَا",
+     "tr": "yassarnā",
+     "en": "We have made easy"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "The Qur'an — the recited Scripture; literally 'the Recitation' or 'the Reading'.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "قُرۡاٰن",
+     "tr": "qur'ān",
+     "en": "Qur'an / recitation"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "definite accusative ending"
+    }
+   ],
+   "grammar": "A definite noun (carrying 'al-', 'the') on the verbal-noun pattern fuʿlān, denoting the act/thing of reciting. The final '-a' marks the accusative case, which most often signals that the word is the direct object of a verb.",
+   "root": "ق-ر-ء (q-r-ʾ) — reciting, reading aloud, gathering words together"
+  },
+  "4": {
+   "meaning": "for remembrance",
+   "parts": [
+    {
+     "ar": "لِلذِّكۡرِ",
+     "tr": "lildhik'ri",
+     "en": "for remembrance"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "'So/then — is it the case that…?' A linking 'then' joined to an interrogative particle that introduces a yes/no question, often carrying a sense of urging, challenge, or expectation ('will you not…?').",
+   "parts": [
+    {
+     "ar": "فَـ",
+     "tr": "fa-",
+     "en": "so / then"
+    },
+    {
+     "ar": "هَلۡ",
+     "tr": "hal",
+     "en": "is it that…? (yes/no question marker)"
+    }
+   ],
+   "grammar": "A compound of the connective fa- ('so, then', linking to what precedes) and the question particle hal, which turns a statement into a yes/no question and frequently implies expectation or exhortation. Particles like this are invariable — they take no case or mood ending.",
+   "root": "— (particles; no triliteral root)"
+  },
+  "6": {
+   "meaning": "'From, out of': a preposition marking the starting point or source of something — the origin from which a thing comes, or a part taken from a whole.",
+   "parts": [
+    {
+     "ar": "مِنۡ",
+     "tr": "min",
+     "en": "from/out of"
+    }
+   ],
+   "grammar": "A preposition expressing origin, source, or partition ('from, out of, some of'). A noun governed by min stands in the genitive relationship and would typically take an -i type ending. The particle itself is invariable.",
+   "root": "— (preposition)"
+  },
+  "7": {
+   "meaning": "who will receive admonition",
+   "parts": [
+    {
+     "ar": "مُّدَّكِرٍ‏",
+     "tr": "muddakirin",
+     "en": "who will receive admonition"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "23": {
+  "1": {
+   "meaning": "Denied",
+   "parts": [
+    {
+     "ar": "۞ كَذَّبَتۡ",
+     "tr": "kadhabat",
+     "en": "Denied"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "Thamud",
+   "parts": [
+    {
+     "ar": "ثَمُوۡدُ",
+     "tr": "thamūdu",
+     "en": "Thamud"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "the warnings",
+   "parts": [
+    {
+     "ar": "بِالنُّذُرِ‏",
+     "tr": "bil-nudhuri",
+     "en": "the warnings"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "24": {
+  "1": {
+   "meaning": "'…so / then they said.' Combines the connector 'so/then' (showing result or sequence) with a past-tense verb of speaking, third person plural — a completed act of saying by a group.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa-",
+     "en": "so / then"
+    },
+    {
+     "ar": "قَال",
+     "tr": "qāl",
+     "en": "said"
+    },
+    {
+     "ar": "ُوۡا",
+     "tr": "-ū",
+     "en": "they (masc. plural)"
+    }
+   ],
+   "grammar": "A completed-action (past) verb prefixed with 'fa-' ('so/then'), which links it to what precedes as a result or next step. The '-ū' ending (with silent trailing alif) marks the subject as 'they' (masculine plural).",
+   "root": "ق-و-ل (q-w-l) — to say, speak, utter"
+  },
+  "2": {
+   "meaning": "Is (it) a human being",
+   "parts": [
+    {
+     "ar": "اَبَشَرًا",
+     "tr": "abasharan",
+     "en": "Is (it) a human being"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "'From us' — the preposition 'from' fused with the pronoun 'us,' indicating source or origin in the first-person plural.",
+   "parts": [
+    {
+     "ar": "مِّنْ",
+     "tr": "min",
+     "en": "from"
+    },
+    {
+     "ar": "نَا",
+     "tr": "nā",
+     "en": "us"
+    }
+   ],
+   "grammar": "The preposition 'min' ('from / out of') with the attached pronoun '-nā' ('us'). The nūn of 'min' assimilates into the following 'n', producing the doubled 'minnā.' It marks origin or source: 'from us / on our part.'",
+   "root": "— (preposition + pronoun; no root)"
+  },
+  "4": {
+   "meaning": "one",
+   "parts": [
+    {
+     "ar": "وَاحِدًا",
+     "tr": "wāḥidan",
+     "en": "one"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "(that) we should follow him",
+   "parts": [
+    {
+     "ar": "نَّتَّبِعُهٗۤ ۙ",
+     "tr": "nattabiʿuhu",
+     "en": "(that) we should follow him"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "6": {
+   "meaning": "A two-part expression: an emphatic particle that strongly affirms and confirms a statement ('truly, indeed, certainly'), fused with the attached pronoun 'we.' Together: 'truly we…' / 'indeed we…'",
+   "parts": [
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "truly/indeed (emphasis)"
+    },
+    {
+     "ar": "ـا",
+     "tr": "-ā",
+     "en": "we (us)"
+    }
+   ],
+   "grammar": "The particle inna gives strong emphasis and certainty to the clause it opens. The attached -ā is the pronoun 'we,' serving as the subject being emphasized: 'truly we…'",
+   "root": "—"
+  },
+  "7": {
+   "meaning": "In that case / then — a response particle signaling that what follows is the consequence of a just-stated condition or supposition ('if so, then…').",
+   "parts": [
+    {
+     "ar": "اِذ",
+     "tr": "idh",
+     "en": "then / in that case"
+    },
+    {
+     "ar": "اً",
+     "tr": "-an",
+     "en": "fixed -an ending"
+    }
+   ],
+   "grammar": "A response/consequence particle, not a noun or verb. The -an ending is a fixed part of the word (written with a final alif), not a live grammatical case. It introduces the result side of a hypothetical ('then you would…').",
+   "root": "—"
+  },
+  "8": {
+   "meaning": "A two-part emphatic phrase: an opening particle of stress ('surely, indeed') joined to the preposition 'in / within', strongly affirming that something lies inside a state or place.",
+   "parts": [
+    {
+     "ar": "لّـ",
+     "tr": "la-",
+     "en": "surely, indeed (emphasis)"
+    },
+    {
+     "ar": "فِىۡ",
+     "tr": "fī",
+     "en": "in, within"
+    }
+   ],
+   "grammar": "The prefix la- is an emphatic particle that strengthens and affirms a statement ('truly, surely'). It is attached to fī, a preposition meaning 'in' or 'within', which places a following noun inside something — whether a physical space or a condition or state.",
+   "root": "—"
+  },
+  "9": {
+   "meaning": "Means 'straying / error / being lost' — wandering off the right path, the opposite of guidance, whether literally losing one's way or going astray in belief and conduct.",
+   "parts": [
+    {
+     "ar": "ضَلٰلٍ",
+     "tr": "ḍalālin",
+     "en": "straying / error"
+    }
+   ],
+   "grammar": "An abstract noun: 'straying / error.' The -in ending is the genitive with 'tanwīn' (the -n marking it indefinite) — the case a noun takes after a preposition or in a possessive link, e.g. 'in an error.' The long -ā- belongs to this noun-pattern.",
+   "root": "ض-ل-ل (ḍ-l-l) — to stray, go astray, lose the way"
+  },
+  "10": {
+   "meaning": "and madness",
+   "parts": [
+    {
+     "ar": "وَّسُعُرٍ‏",
+     "tr": "wasuʿurin",
+     "en": "and madness"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "25": {
+  "1": {
+   "meaning": "Has been sent",
+   "parts": [
+    {
+     "ar": "ءَاُلۡقِىَ",
+     "tr": "a-ul'qiya",
+     "en": "Has been sent"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "The Reminder — that which calls something to mind: remembrance, mention, admonition. As a term it names a scripture or message that reminds people of Allah and their duty; literally 'the remembrance.'",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "ذِّكۡر",
+     "tr": "dhik'r",
+     "en": "reminder / remembrance"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "nominative ending"
+    }
+   ],
+   "grammar": "A definite noun ('the …'). The final -u marks the nominative case, the form used when the word is the subject of a sentence or is simply being named.",
+   "root": "ذ-ك-ر (dh-k-r) — to remember, mention, remind"
+  },
+  "3": {
+   "meaning": "A preposition fused with a pronoun, meaning 'upon him', 'on him', or 'toward him'. It marks the one to whom an action is directed or upon whom something rests.",
+   "parts": [
+    {
+     "ar": "عَلَيۡ",
+     "tr": "ʿalay",
+     "en": "upon / on / toward"
+    },
+    {
+     "ar": "ـهِ",
+     "tr": "-hi",
+     "en": "him (third-person masculine singular)"
+    }
+   ],
+   "grammar": "The preposition 'upon/on' with an attached object pronoun -hi ('him', third-person masculine singular); its -i vowel is the regular form the pronoun takes after the 'y' sound. Paired with a verb of turning, this 'upon/toward him' marks the person the action reaches.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "'From, out of': a preposition marking the starting point or source of something — the origin from which a thing comes, or a part taken from a whole.",
+   "parts": [
+    {
+     "ar": "مِنۡ",
+     "tr": "min",
+     "en": "from/out of"
+    }
+   ],
+   "grammar": "A preposition expressing origin, source, or partition ('from, out of, some of'). A noun governed by min stands in the genitive relationship and would typically take an -i type ending. The particle itself is invariable.",
+   "root": "— (preposition)"
+  },
+  "5": {
+   "meaning": "'Between us' / 'among us' — the space, relation, or midst that lies between parties; here bound to 'us'.",
+   "parts": [
+    {
+     "ar": "بَيۡن",
+     "tr": "bayn",
+     "en": "between / among"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "genitive ending"
+    },
+    {
+     "ar": "نَا",
+     "tr": "nā",
+     "en": "us / our"
+    }
+   ],
+   "grammar": "An adverbial noun of place meaning 'between/among'. The -i ending is genitive, here because the word takes a following pronoun in a possessive-style construction: it is bound to -nā ('us'), giving 'between us'. The suffix -nā is the attached first-person plural pronoun.",
+   "root": "ب-ي-ن (b-y-n) — separation, what lies between, distinctness"
+  },
+  "6": {
+   "meaning": "A particle of retraction meaning 'rather,' 'no, but,' or 'nay' — it cancels or sets aside what was just said and shifts to a corrected or contrasting statement that follows.",
+   "parts": [
+    {
+     "ar": "بَل",
+     "tr": "bal",
+     "en": "rather, nay, but"
+    }
+   ],
+   "grammar": "An indeclinable particle (it never changes form). Its function is to redirect the discourse: it dismisses a prior idea and introduces what is actually the case.",
+   "root": "—"
+  },
+  "7": {
+   "meaning": "'He' — the standalone (independent) pronoun for a single masculine person or thing, used for emphasis or to stand as the subject on its own.",
+   "parts": [
+    {
+     "ar": "هُوَ",
+     "tr": "huwa",
+     "en": "he / it"
+    }
+   ],
+   "grammar": "An independent (detached) personal pronoun, third-person masculine singular. It does not take case endings; its fixed final -a is part of the word. It serves to name or emphasize the subject ('He is the one who…').",
+   "root": "—"
+  },
+  "8": {
+   "meaning": "(is) a liar",
+   "parts": [
+    {
+     "ar": "كَذَّابٌ",
+     "tr": "kadhābun",
+     "en": "(is) a liar"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "9": {
+   "meaning": "insolent",
+   "parts": [
+    {
+     "ar": "اَشِرٌ‏",
+     "tr": "ashirun",
+     "en": "insolent"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "26": {
+  "1": {
+   "meaning": "They will know",
+   "parts": [
+    {
+     "ar": "سَيَعۡلَمُوۡنَ",
+     "tr": "sayaʿlamūna",
+     "en": "They will know"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "'Tomorrow', and more broadly 'the (coming) morning' or 'a day soon to come'. It points to the near future, the next day.",
+   "parts": [
+    {
+     "ar": "غَدْ",
+     "tr": "ghad",
+     "en": "tomorrow / the morrow"
+    },
+    {
+     "ar": "ًا",
+     "tr": "-an",
+     "en": "(adverbial / indefinite ending)"
+    }
+   ],
+   "grammar": "A noun used adverbially for time. The -an ending (with tanwīn, the doubled 'n' sound) marks it as indefinite and in the accusative state, which is the typical form for an adverb of time ('on the morrow, tomorrow').",
+   "root": "غ-د-و (gh-d-w) — morning, the early part of the day, going forth in the morning"
+  },
+  "3": {
+   "meaning": "who",
+   "parts": [
+    {
+     "ar": "مَّنِ",
+     "tr": "mani",
+     "en": "who"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "(is) the liar",
+   "parts": [
+    {
+     "ar": "الۡكَذَّابُ",
+     "tr": "l-kadhābu",
+     "en": "(is) the liar"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "the insolent one",
+   "parts": [
+    {
+     "ar": "الۡاَشِرُ‏",
+     "tr": "l-ashiru",
+     "en": "the insolent one"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "27": {
+  "1": {
+   "meaning": "A two-part expression: an emphatic particle that strongly affirms and confirms a statement ('truly, indeed, certainly'), fused with the attached pronoun 'we.' Together: 'truly we…' / 'indeed we…'",
+   "parts": [
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "truly/indeed (emphasis)"
+    },
+    {
+     "ar": "ـا",
+     "tr": "-ā",
+     "en": "we (us)"
+    }
+   ],
+   "grammar": "The particle inna gives strong emphasis and certainty to the clause it opens. The attached -ā is the pronoun 'we,' serving as the subject being emphasized: 'truly we…'",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "(are) sending",
+   "parts": [
+    {
+     "ar": "مُرۡسِلُوا",
+     "tr": "mur'silū",
+     "en": "(are) sending"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "the she-camel",
+   "parts": [
+    {
+     "ar": "النَّاقَةِ",
+     "tr": "l-nāqati",
+     "en": "the she-camel"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "A trial, test, temptation, affliction, or sedition. Fitna is a weighty term: originally the smelting of metal to test its purity, it comes to mean any testing or tribulation — persecution, civil strife, seductive enticement, or a probing ordeal that reveals what is within.",
+   "parts": [
+    {
+     "ar": "فِتۡنَة",
+     "tr": "fitna",
+     "en": "trial / test / temptation"
+    },
+    {
+     "ar": "ً",
+     "tr": "-an",
+     "en": "indefinite accusative ending"
+    }
+   ],
+   "grammar": "An indefinite feminine noun. The ending -an (tanwīn) marks it as indefinite ('a trial') and in the accusative case — typically the case of a direct object or of a noun functioning as the predicate after certain verbs.",
+   "root": "ف-ت-ن (f-t-n) — to test by fire, to try, to tempt, to afflict"
+  },
+  "5": {
+   "meaning": "'For them / to them / theirs' — a preposition 'for / to / belonging to' joined to the pronoun 'them,' expressing that something pertains, belongs, or is owed to that group.",
+   "parts": [
+    {
+     "ar": "لَّ",
+     "tr": "la-",
+     "en": "for / to / belonging to"
+    },
+    {
+     "ar": "هُمۡ",
+     "tr": "hum",
+     "en": "them"
+    }
+   ],
+   "grammar": "The preposition li- ('for / to / belonging to'), whose vowel becomes -a before an attached pronoun, joined to -hum ('them'). It commonly expresses possession or benefit — 'theirs / for them.' Particles like this carry no case or tense of their own.",
+   "root": "—"
+  },
+  "6": {
+   "meaning": "so watch them",
+   "parts": [
+    {
+     "ar": "فَارۡتَقِبۡهُمۡ",
+     "tr": "fa-ir'taqib'hum",
+     "en": "so watch them"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "7": {
+   "meaning": "and be patient",
+   "parts": [
+    {
+     "ar": "وَاصۡطَبِرۡ‏ ﻿﻿",
+     "tr": "wa-iṣ'ṭabir",
+     "en": "and be patient"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "28": {
+  "1": {
+   "meaning": "'And inform them': a command (to one person) to convey important news, directed at 'them', joined to what precedes by 'and'.",
+   "parts": [
+    {
+     "ar": "و",
+     "tr": "wa-",
+     "en": "and"
+    },
+    {
+     "ar": "نبّئ",
+     "tr": "nabbiʾ",
+     "en": "inform, announce (command)"
+    },
+    {
+     "ar": "هم",
+     "tr": "-hum",
+     "en": "them"
+    }
+   ],
+   "grammar": "An imperative verb (a direct order) to a single 'you', from a Form-II verb meaning 'to inform / give weighty news', with the attached -hum ('them') as the people informed and a leading wa- ('and').",
+   "root": "ن-ب-أ (n-b-ʾ) — momentous news, tidings"
+  },
+  "2": {
+   "meaning": "An emphatic particle meaning 'that' (as in 'I know that...') or 'indeed/surely.' It introduces a statement and gives it certainty and emphasis, presenting what follows as an established fact.",
+   "parts": [
+    {
+     "ar": "اَنَّ",
+     "tr": "anna",
+     "en": "that / indeed"
+    }
+   ],
+   "grammar": "An emphatic particle that introduces a noun-clause ('that...'). It puts the following noun into the accusative case and lends the whole statement a sense of certainty and assertion. It typically comes after verbs of knowing, saying, or informing.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "The water — the fluid essential to life, by which the earth is revived and crops grow.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "مَآء",
+     "tr": "māʾ",
+     "en": "water"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "accusative ending"
+    }
+   ],
+   "grammar": "A definite masculine singular noun. The final -a is the accusative case, which generally marks the word as the object of a verb (the thing being acted upon).",
+   "root": "م-و-ه (m-w-h) — water"
+  },
+  "4": {
+   "meaning": "(is) to be shared",
+   "parts": [
+    {
+     "ar": "قِسۡمَةٌ ۢ",
+     "tr": "qis'matun",
+     "en": "(is) to be shared"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "An adverb of place meaning 'between' or 'among', here joined to the attached pronoun 'them'; together it conveys 'between them / amongst them', signalling something situated in the midst of a group or shared among parties.",
+   "parts": [
+    {
+     "ar": "بَيۡنَ",
+     "tr": "bayna",
+     "en": "between / among"
+    },
+    {
+     "ar": "هُمۡ",
+     "tr": "hum",
+     "en": "them (masculine plural)"
+    }
+   ],
+   "grammar": "An adverb of place (ẓarf) ending in -a, the accusative marker typical of such adverbs, indicating a location or relationship. The attached suffix '-hum' is a possessive/object pronoun meaning 'them' (a group of males or a mixed group).",
+   "root": "ب-ي-ن (b-y-n) — separation, distinction, what lies in the midst"
+  },
+  "6": {
+   "meaning": "A noun meaning 'all, every, each, the whole of.' It expresses totality — when joined to a following noun it means 'every (one)' or 'the entirety of' that thing.",
+   "parts": [
+    {
+     "ar": "كُلّ",
+     "tr": "kull",
+     "en": "every, all, each"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "nominative ending"
+    }
+   ],
+   "grammar": "A noun of totality with the final -u ending (nominative). The -u typically marks it as the subject or the thing being spoken about. It normally attaches to a following noun to mean 'every / all of' it.",
+   "root": "ك-ل-ل (k-l-l) — totality, wholeness, comprehensiveness"
+  },
+  "7": {
+   "meaning": "drink",
+   "parts": [
+    {
+     "ar": "شِرۡبٍ",
+     "tr": "shir'bin",
+     "en": "drink"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "8": {
+   "meaning": "attended",
+   "parts": [
+    {
+     "ar": "مُّحۡتَضَرٌ‏ ﻿﻿",
+     "tr": "muḥ'taḍarun",
+     "en": "attended"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "29": {
+  "1": {
+   "meaning": "But they called",
+   "parts": [
+    {
+     "ar": "فَنَادَوۡا",
+     "tr": "fanādaw",
+     "en": "But they called"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "their companion",
+   "parts": [
+    {
+     "ar": "صَاحِبَهُمۡ",
+     "tr": "ṣāḥibahum",
+     "en": "their companion"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "and he took",
+   "parts": [
+    {
+     "ar": "فَتَعَاطٰى",
+     "tr": "fataʿāṭā",
+     "en": "and he took"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "and hamstrung",
+   "parts": [
+    {
+     "ar": "فَعَقَرَ‏",
+     "tr": "faʿaqara",
+     "en": "and hamstrung"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "30": {
+  "1": {
+   "meaning": "So how? / Then in what manner or state? — kayfa is the interrogative 'how', asking after the manner, condition or circumstance of something. With the prefixed 'so/then' it introduces a question following from what precedes, often expressing wonder or warning.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa-",
+     "en": "so / then"
+    },
+    {
+     "ar": "كَيۡفَ",
+     "tr": "kayfa",
+     "en": "how"
+    }
+   ],
+   "grammar": "An interrogative particle ('how') carrying the connective prefix fa- ('so / then'), which links it to a preceding statement as a consequence or follow-up. As a particle, kayfa is indeclinable: its fixed final -a is not a case ending and does not change.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "He/it was, or there was — the past tense of the verb 'to be', expressing that something existed or used to be the case.",
+   "parts": [
+    {
+     "ar": "كَان",
+     "tr": "kān",
+     "en": "to be, was, used to be"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "past-tense 3rd-person masculine singular ending"
+    }
+   ],
+   "grammar": "A past-tense verb (a 'hollow' verb of being), third-person masculine singular ('he/it was'). The final '-a' marks the ordinary past tense for 'he/it'. Paired with a following present-tense verb, it often conveys 'used to' do something.",
+   "root": "ك-و-ن (k-w-n) — being, existence; to be"
+  },
+  "3": {
+   "meaning": "'My punishment / My chastisement' — penalty or torment, specified as belonging to the speaker (Allah).",
+   "parts": [
+    {
+     "ar": "عَذَاب",
+     "tr": "ʿadhāb",
+     "en": "punishment, torment"
+    },
+    {
+     "ar": "ِىۡ",
+     "tr": "ī",
+     "en": "my"
+    }
+   ],
+   "grammar": "A noun 'punishment' with the attached possessive -ī ('my'), so it means 'my punishment.' This first-person possessive ending also signals that the base noun is in a genitive/possessed state. It names the penalty as belonging to the speaker.",
+   "root": "ع-ذ-ب (ʿ-dh-b) — to punish, torment, chastise"
+  },
+  "4": {
+   "meaning": "and My warnings",
+   "parts": [
+    {
+     "ar": "وَنُذُرِ‏",
+     "tr": "wanudhuri",
+     "en": "and My warnings"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "31": {
+  "1": {
+   "meaning": "A two-part expression: an emphatic particle that strongly affirms and confirms a statement ('truly, indeed, certainly'), fused with the attached pronoun 'we.' Together: 'truly we…' / 'indeed we…'",
+   "parts": [
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "truly/indeed (emphasis)"
+    },
+    {
+     "ar": "ـا",
+     "tr": "-ā",
+     "en": "we (us)"
+    }
+   ],
+   "grammar": "The particle inna gives strong emphasis and certainty to the clause it opens. The attached -ā is the pronoun 'we,' serving as the subject being emphasized: 'truly we…'",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "We sent / dispatched. From the causative verb meaning to send forth or commission, especially the sending of messengers; with 'We' as the subject.",
+   "parts": [
+    {
+     "ar": "اَرۡسَل",
+     "tr": "arsal",
+     "en": "sent / dispatched (causative past stem)"
+    },
+    {
+     "ar": "نَا",
+     "tr": "-nā",
+     "en": "we"
+    }
+   ],
+   "grammar": "Past/perfect verb in the causative (form IV) pattern meaning 'to send', 1st person plural ('we'). The suffix -nā is the subject ending 'we' on a completed action. The perfect tense presents the sending as accomplished and complete.",
+   "root": "ر-س-ل (r-s-l) — sending, dispatching, messengership"
+  },
+  "3": {
+   "meaning": "A compound meaning 'upon them' or 'against them': the preposition ʿalā ('on, upon, over, against') joined to the plural pronoun 'them'. It conveys something resting on, being incumbent upon, or weighing against a group.",
+   "parts": [
+    {
+     "ar": "عَلَيۡ",
+     "tr": "ʿalay",
+     "en": "upon / against"
+    },
+    {
+     "ar": "هِمۡ",
+     "tr": "him",
+     "en": "them (masculine plural)"
+    }
+   ],
+   "grammar": "ʿalā shifts to the form ʿalay- before a pronoun. The suffix -him is the attached pronominal suffix for a masculine plural group ('them'); after a preposition it carries genitive/prepositional force, and the -i- vowel reflects its position after this preposition. Together they signal a relationship of something being over, upon, or burdensome to that group.",
+   "root": "— (preposition with attached pronoun; no triliteral root)"
+  },
+  "4": {
+   "meaning": "A single mighty cry or shout — one loud, sudden blast of sound, often a piercing scream or thunderous shriek.",
+   "parts": [
+    {
+     "ar": "صَيۡحَة",
+     "tr": "ṣayḥa",
+     "en": "a shout, cry, blast"
+    },
+    {
+     "ar": "ـً",
+     "tr": "-an",
+     "en": "indefinite accusative ending"
+    }
+   ],
+   "grammar": "A feminine noun built on a pattern that names a single instance of an act ('one shout'). The -an ending is the indefinite accusative: 'an' (tanwīn) marks it as non-specific, and the accusative case typically marks the object of a verb or a noun functioning adverbially.",
+   "root": "ص-ي-ح (ṣ-y-ḥ) — to shout, to cry out"
+  },
+  "5": {
+   "meaning": "One, single, sole — the feminine form of the word for 'one', denoting unity and singleness, that there is just one of something with no second alongside it.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and / connecting word"
+    },
+    {
+     "ar": "وَاحِد",
+     "tr": "wāḥid",
+     "en": "one, single"
+    },
+    {
+     "ar": "ة",
+     "tr": "-a(t)",
+     "en": "feminine ending"
+    },
+    {
+     "ar": "ً",
+     "tr": "-an",
+     "en": "indefinite accusative ending"
+    }
+   ],
+   "grammar": "A feminine singular adjective/numeral meaning 'one'. The taa marbuuta makes it agree with a feminine noun. The final -an (accusative, with tanwin) marks it as indefinite and as describing or counting an accusative noun. The opening wa- is a separate connecting particle ('and').",
+   "root": "و-ح-د (w-ḥ-d) — to be one, single, unique"
+  },
+  "6": {
+   "meaning": "'But / and they were / they used to be' — the past tense of the verb 'to be' in the third-person masculine plural. Beyond a simple 'they were', it commonly conveys a habitual, ongoing past state ('they used to').",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa",
+     "en": "and / but / so"
+    },
+    {
+     "ar": "كَان",
+     "tr": "kān",
+     "en": "was / were (past of 'to be')"
+    },
+    {
+     "ar": "ُوۡا",
+     "tr": "ū",
+     "en": "they (masc. plural)"
+    }
+   ],
+   "grammar": "The fa- prefix means 'and / so / but', linking to what precedes. The verb is the past tense of 'to be'; the -ū ending is the subject 'they' for a group of males (the written alif after it is silent). It states a past condition, often a customary one ('they were / used to be').",
+   "root": "ك-و-ن (k-w-n) — to be, exist, come to be"
+  },
+  "7": {
+   "meaning": "like dry twig fragments",
+   "parts": [
+    {
+     "ar": "كَهَشِيۡمِ",
+     "tr": "kahashīmi",
+     "en": "like dry twig fragments"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "8": {
+   "meaning": "(used by) a fence builder",
+   "parts": [
+    {
+     "ar": "الۡمُحۡتَظِرِ‏ ﻿﻿",
+     "tr": "l-muḥ'taẓiri",
+     "en": "(used by) a fence builder"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "32": {
+  "1": {
+   "meaning": "\"And indeed / and most certainly\" — combines 'and' with the emphatic 'la-' and the particle 'qad'; before a past-tense verb 'qad' affirms that the action has definitely and already happened, reinforced into 'and indeed it surely did'.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "لَ",
+     "tr": "la",
+     "en": "surely / certainly"
+    },
+    {
+     "ar": "قَدۡ",
+     "tr": "qad",
+     "en": "indeed / already"
+    }
+   ],
+   "grammar": "The conjunction 'and' plus the emphatic 'la-' ('surely') plus the particle 'qad'. With a past-tense verb, 'qad' stresses that the act is real and completed ('has indeed happened'); together they form a strong oath-like affirmation. These are function words and are not inflected.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "We have made easy",
+   "parts": [
+    {
+     "ar": "يَسَّرۡنَا",
+     "tr": "yassarnā",
+     "en": "We have made easy"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "The Qur'an — the recited Scripture; literally 'the Recitation' or 'the Reading'.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "قُرۡاٰن",
+     "tr": "qur'ān",
+     "en": "Qur'an / recitation"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "definite accusative ending"
+    }
+   ],
+   "grammar": "A definite noun (carrying 'al-', 'the') on the verbal-noun pattern fuʿlān, denoting the act/thing of reciting. The final '-a' marks the accusative case, which most often signals that the word is the direct object of a verb.",
+   "root": "ق-ر-ء (q-r-ʾ) — reciting, reading aloud, gathering words together"
+  },
+  "4": {
+   "meaning": "for remembrance",
+   "parts": [
+    {
+     "ar": "لِلذِّكۡرِ",
+     "tr": "lildhik'ri",
+     "en": "for remembrance"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "'So/then — is it the case that…?' A linking 'then' joined to an interrogative particle that introduces a yes/no question, often carrying a sense of urging, challenge, or expectation ('will you not…?').",
+   "parts": [
+    {
+     "ar": "فَـ",
+     "tr": "fa-",
+     "en": "so / then"
+    },
+    {
+     "ar": "هَلۡ",
+     "tr": "hal",
+     "en": "is it that…? (yes/no question marker)"
+    }
+   ],
+   "grammar": "A compound of the connective fa- ('so, then', linking to what precedes) and the question particle hal, which turns a statement into a yes/no question and frequently implies expectation or exhortation. Particles like this are invariable — they take no case or mood ending.",
+   "root": "— (particles; no triliteral root)"
+  },
+  "6": {
+   "meaning": "'From, out of': a preposition marking the starting point or source of something — the origin from which a thing comes, or a part taken from a whole.",
+   "parts": [
+    {
+     "ar": "مِنۡ",
+     "tr": "min",
+     "en": "from/out of"
+    }
+   ],
+   "grammar": "A preposition expressing origin, source, or partition ('from, out of, some of'). A noun governed by min stands in the genitive relationship and would typically take an -i type ending. The particle itself is invariable.",
+   "root": "— (preposition)"
+  },
+  "7": {
+   "meaning": "who will receive admonition",
+   "parts": [
+    {
+     "ar": "مُّدَّكِرٍ‏",
+     "tr": "muddakirin",
+     "en": "who will receive admonition"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "33": {
+  "1": {
+   "meaning": "Denied",
+   "parts": [
+    {
+     "ar": "۞ كَذَّبَتۡ",
+     "tr": "kadhabat",
+     "en": "Denied"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "a people, folk, community; a group of human beings bound together (by kinship, locality, or allegiance). The word often carries the sense of one's own people or nation.",
+   "parts": [
+    {
+     "ar": "قَوۡم",
+     "tr": "qawm",
+     "en": "people, folk, community"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "nominative ending"
+    }
+   ],
+   "grammar": "A collective singular noun (singular in form, plural in sense). The -u ending is nominative, the case that typically marks the subject — the one doing or being something in a sentence.",
+   "root": "ق-و-م (q-w-m) — to stand, rise; hence a group that stands together"
+  },
+  "3": {
+   "meaning": "Lot — the proper name of the Prophet Lūṭ.",
+   "parts": [
+    {
+     "ar": "لُوۡط",
+     "tr": "lūṭ",
+     "en": "Lot (proper name)"
+    },
+    {
+     "ar": "ٍ",
+     "tr": "-in",
+     "en": "indefinite genitive ending"
+    }
+   ],
+   "grammar": "A proper name carrying the -in (tanwīn) ending, which marks the genitive case — the case used after a preposition or to link the name to a preceding noun in an 'of …' relationship.",
+   "root": "— (proper name)"
+  },
+  "4": {
+   "meaning": "the warnings",
+   "parts": [
+    {
+     "ar": "بِالنُّذُرِ‏",
+     "tr": "bil-nudhuri",
+     "en": "the warnings"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "34": {
+  "1": {
+   "meaning": "A two-part expression: an emphatic particle that strongly affirms and confirms a statement ('truly, indeed, certainly'), fused with the attached pronoun 'we.' Together: 'truly we…' / 'indeed we…'",
+   "parts": [
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "truly/indeed (emphasis)"
+    },
+    {
+     "ar": "ـا",
+     "tr": "-ā",
+     "en": "we (us)"
+    }
+   ],
+   "grammar": "The particle inna gives strong emphasis and certainty to the clause it opens. The attached -ā is the pronoun 'we,' serving as the subject being emphasized: 'truly we…'",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "We sent / dispatched. From the causative verb meaning to send forth or commission, especially the sending of messengers; with 'We' as the subject.",
+   "parts": [
+    {
+     "ar": "اَرۡسَل",
+     "tr": "arsal",
+     "en": "sent / dispatched (causative past stem)"
+    },
+    {
+     "ar": "نَا",
+     "tr": "-nā",
+     "en": "we"
+    }
+   ],
+   "grammar": "Past/perfect verb in the causative (form IV) pattern meaning 'to send', 1st person plural ('we'). The suffix -nā is the subject ending 'we' on a completed action. The perfect tense presents the sending as accomplished and complete.",
+   "root": "ر-س-ل (r-s-l) — sending, dispatching, messengership"
+  },
+  "3": {
+   "meaning": "A compound meaning 'upon them' or 'against them': the preposition ʿalā ('on, upon, over, against') joined to the plural pronoun 'them'. It conveys something resting on, being incumbent upon, or weighing against a group.",
+   "parts": [
+    {
+     "ar": "عَلَيۡ",
+     "tr": "ʿalay",
+     "en": "upon / against"
+    },
+    {
+     "ar": "هِمۡ",
+     "tr": "him",
+     "en": "them (masculine plural)"
+    }
+   ],
+   "grammar": "ʿalā shifts to the form ʿalay- before a pronoun. The suffix -him is the attached pronominal suffix for a masculine plural group ('them'); after a preposition it carries genitive/prepositional force, and the -i- vowel reflects its position after this preposition. Together they signal a relationship of something being over, upon, or burdensome to that group.",
+   "root": "— (preposition with attached pronoun; no triliteral root)"
+  },
+  "4": {
+   "meaning": "A violent wind that pelts and batters with flung stones, gravel, or grit — a storm that hurls down pebbles as a punishment.",
+   "parts": [
+    {
+     "ar": "حَاصِب",
+     "tr": "ḥāṣib",
+     "en": "stone-hurling wind / pelting storm"
+    },
+    {
+     "ar": "ـًا",
+     "tr": "-an",
+     "en": "an (indefinite accusative ending)"
+    }
+   ],
+   "grammar": "A noun in the indefinite ('a …'). The final '-an' (written with tanwīn) marks both indefiniteness and the accusative case, which typically signals that the word is the direct object of a verb or otherwise governed by it ('… sends a pelting storm').",
+   "root": "ح-ص-ب (ḥ-ṣ-b) — to pelt with pebbles; gravel, flung stones"
+  },
+  "5": {
+   "meaning": "A particle of exception meaning 'except,' 'save,' or 'only.' It carves out something from a preceding general statement — most often a preceding negation — so that the excepted item alone is affirmed, giving the strong sense 'none … but' or 'nothing other than.'",
+   "parts": [
+    {
+     "ar": "اِلَّا",
+     "tr": "illā",
+     "en": "except / save / only"
+    }
+   ],
+   "grammar": "An exceptive particle (originally a fusion of 'in' + 'lā'). It is invariable — it has no case ending and does not change form. It introduces the item being excepted from, or restricted within, the preceding statement.",
+   "root": "— (particle)"
+  },
+  "6": {
+   "meaning": "The 'house', family, kinsfolk, or followers of someone — those belonging to a person's household or close circle, including dependents and adherents.",
+   "parts": [
+    {
+     "ar": "اٰلَ",
+     "tr": "āla",
+     "en": "family / folk / house (of)"
+    }
+   ],
+   "grammar": "A noun meaning the people/household belonging to someone. The '-a' ending is the accusative case (marking it as a direct object); as the first term of a possessive pairing it is typically followed by the name of the one whose folk they are ('the folk OF …').",
+   "root": "Uncertain/contested: most classical grammarians (e.g. Sibawayh) treat it as a contraction of أَهْل (ʾ-h-l, 'folk, household'); others trace it to ء-و-ل (ʾ-w-l, 'to return to, belong to')"
+  },
+  "7": {
+   "meaning": "Lot — the proper name of the Prophet Lūṭ.",
+   "parts": [
+    {
+     "ar": "لُوۡط",
+     "tr": "lūṭ",
+     "en": "Lot (proper name)"
+    },
+    {
+     "ar": "ٍ",
+     "tr": "-in",
+     "en": "indefinite genitive ending"
+    }
+   ],
+   "grammar": "A proper name carrying the -in (tanwīn) ending, which marks the genitive case — the case used after a preposition or to link the name to a preceding noun in an 'of …' relationship.",
+   "root": "— (proper name)"
+  },
+  "8": {
+   "meaning": "We saved them",
+   "parts": [
+    {
+     "ar": "نَّجَّيۡنٰهُمۡ",
+     "tr": "najjaynāhum",
+     "en": "We saved them"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "9": {
+   "meaning": "by dawn",
+   "parts": [
+    {
+     "ar": "بِسَحَرٍۙ‏",
+     "tr": "bisaḥarin",
+     "en": "by dawn"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "35": {
+  "1": {
+   "meaning": "'A favor / blessing / grace' — a niʿma is a good thing graciously bestowed, a benefit or blessing granted as a gift.",
+   "parts": [
+    {
+     "ar": "نِعۡمَة",
+     "tr": "niʿma",
+     "en": "favor / blessing"
+    },
+    {
+     "ar": "ً",
+     "tr": "-tan",
+     "en": "indefinite feminine object (accusative) ending"
+    }
+   ],
+   "grammar": "An indefinite singular feminine noun in the accusative case. The -tan ending combines the feminine marker with nunation in the accusative — the form often used for the object of a verb, indicating something indefinite ('a/an').",
+   "root": "ن-ع-م (n-ʿ-m) — favor, blessing, grace, ease"
+  },
+  "2": {
+   "meaning": "A preposition whose core sense is 'from' — marking a starting point or origin (from a place, time, or source). It also commonly means 'of' or 'among' (part of a larger whole) and 'than' in comparisons.",
+   "parts": [
+    {
+     "ar": "مِّنۡ",
+     "tr": "min",
+     "en": "from / of"
+    }
+   ],
+   "grammar": "A preposition. It is indeclinable and governs the following noun in the genitive case. Its primary force is point of origin ('starting from'), and it frequently expresses partitioning ('some of / part of').",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "From us / in our presence / with us — denoting nearness, possession, or origin from a particular side. 'ʿInd' marks something held at, coming from, or belonging to a party.",
+   "parts": [
+    {
+     "ar": "عِنۡد",
+     "tr": "ʿind",
+     "en": "presence / with / from"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "genitive ending"
+    },
+    {
+     "ar": "نَا",
+     "tr": "-nā",
+     "en": "us / our"
+    }
+   ],
+   "grammar": "An adverb of place ('at the presence of') with the attached pronoun '-nā' ('us/our'). It is a frozen form fixed in the genitive, the '-i' state being the form such a word takes; the whole means 'with us' or 'from our side'.",
+   "root": "عِنۡد (ʿind) — a frozen adverb of place ('at, near, in the presence of'); not derived from a verbal root"
+  },
+  "4": {
+   "meaning": "'Like that / thus / in this manner.' A comparison word meaning that something is done or is the case in the way just mentioned.",
+   "parts": [
+    {
+     "ar": "كَ",
+     "tr": "ka-",
+     "en": "like / as"
+    },
+    {
+     "ar": "ذٰلِكَ",
+     "tr": "dhālika",
+     "en": "that"
+    }
+   ],
+   "grammar": "The comparison particle ka- ('like/as') prefixed to the demonstrative 'that'. Together they form a fixed adverbial expression, 'like that / thus', which does not change its ending with grammatical position.",
+   "root": "— (a particle of comparison joined to a demonstrative; no root)"
+  },
+  "5": {
+   "meaning": "'We reward / We requite' — to repay or recompense someone for their deeds, whether with good or with due consequence.",
+   "parts": [
+    {
+     "ar": "نَ",
+     "tr": "na-",
+     "en": "we"
+    },
+    {
+     "ar": "جۡزِى",
+     "tr": "jzī",
+     "en": "reward, requite, recompense (present stem)"
+    }
+   ],
+   "grammar": "A present-tense verb. The 'na-' prefix means 'we'. The stem ends in a long '-ī' (a weak final root letter); in the plain indicative this final '-ī' is what is heard, giving 'we reward'.",
+   "root": "ج-ز-ي (j-z-y) — to repay, to recompense, to requite"
+  },
+  "6": {
+   "meaning": "A pronoun meaning 'who / whoever / the one who', used for people; it points to a person or persons without naming them and usually introduces a description of them.",
+   "parts": [
+    {
+     "ar": "مَنۡ",
+     "tr": "man",
+     "en": "who / whoever"
+    }
+   ],
+   "grammar": "An indeclinable pronoun (it never changes its ending) referring to a person or persons — 'who' or 'whoever'. It can ask a question ('who?') or, as a relative pronoun, link to a following clause that describes the person(s) it stands for.",
+   "root": "— (pronoun)"
+  },
+  "7": {
+   "meaning": "(is) grateful",
+   "parts": [
+    {
+     "ar": "شَكَرَ‏",
+     "tr": "shakara",
+     "en": "(is) grateful"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "36": {
+  "1": {
+   "meaning": "\"And indeed / and most certainly\" — combines 'and' with the emphatic 'la-' and the particle 'qad'; before a past-tense verb 'qad' affirms that the action has definitely and already happened, reinforced into 'and indeed it surely did'.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "لَ",
+     "tr": "la",
+     "en": "surely / certainly"
+    },
+    {
+     "ar": "قَدۡ",
+     "tr": "qad",
+     "en": "indeed / already"
+    }
+   ],
+   "grammar": "The conjunction 'and' plus the emphatic 'la-' ('surely') plus the particle 'qad'. With a past-tense verb, 'qad' stresses that the act is real and completed ('has indeed happened'); together they form a strong oath-like affirmation. These are function words and are not inflected.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "he warned them",
+   "parts": [
+    {
+     "ar": "اَنۡذَرَهُمۡ",
+     "tr": "andharahum",
+     "en": "he warned them"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "(of) Our seizure",
+   "parts": [
+    {
+     "ar": "بَطۡشَتَـنَا",
+     "tr": "baṭshatanā",
+     "en": "(of) Our seizure"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "but they disputed",
+   "parts": [
+    {
+     "ar": "فَتَمَارَوۡا",
+     "tr": "fatamāraw",
+     "en": "but they disputed"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "the warnings",
+   "parts": [
+    {
+     "ar": "بِالنُّذُرِ‏",
+     "tr": "bil-nudhuri",
+     "en": "the warnings"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "37": {
+  "1": {
+   "meaning": "\"And indeed / and most certainly\" — combines 'and' with the emphatic 'la-' and the particle 'qad'; before a past-tense verb 'qad' affirms that the action has definitely and already happened, reinforced into 'and indeed it surely did'.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "لَ",
+     "tr": "la",
+     "en": "surely / certainly"
+    },
+    {
+     "ar": "قَدۡ",
+     "tr": "qad",
+     "en": "indeed / already"
+    }
+   ],
+   "grammar": "The conjunction 'and' plus the emphatic 'la-' ('surely') plus the particle 'qad'. With a past-tense verb, 'qad' stresses that the act is real and completed ('has indeed happened'); together they form a strong oath-like affirmation. These are function words and are not inflected.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "they demanded from him",
+   "parts": [
+    {
+     "ar": "رَاوَدُوۡهُ",
+     "tr": "rāwadūhu",
+     "en": "they demanded from him"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "A preposition meaning 'on behalf of,' 'for,' 'about,' or 'away from.' It often conveys removing a burden from someone or acting in their place.",
+   "parts": [
+    {
+     "ar": "عَنْ",
+     "tr": "ʿan",
+     "en": "on behalf of / for / away from"
+    }
+   ],
+   "grammar": "A preposition (a linking particle). It governs the noun that follows it, putting that noun into the genitive case. It does not change form.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "his guests",
+   "parts": [
+    {
+     "ar": "ضَيۡفِهٖ",
+     "tr": "ḍayfihi",
+     "en": "his guests"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "so We blinded",
+   "parts": [
+    {
+     "ar": "فَطَمَسۡنَاۤ",
+     "tr": "faṭamasnā",
+     "en": "so We blinded"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "6": {
+   "meaning": "A construction meaning 'their eyes' — the organs of sight, here belonging to a group ('them').",
+   "parts": [
+    {
+     "ar": "اَعۡيُن",
+     "tr": "aʿyun",
+     "en": "eyes"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "accusative ending"
+    },
+    {
+     "ar": "هُمۡ",
+     "tr": "-hum",
+     "en": "their / them"
+    }
+   ],
+   "grammar": "A plural noun (aʿyun, a broken plural of ʿayn, 'eye') with the attached possessive pronoun -hum ('their'). The -a vowel before the pronoun marks the accusative case, which typically signals that the noun is the object of a verb.",
+   "root": "ع-ي-ن (ʿ-y-n) — eye; also spring/source"
+  },
+  "7": {
+   "meaning": "So taste! — a command to a group to 'taste' or experience something, often used figuratively of undergoing a consequence or punishment.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa",
+     "en": "so / then"
+    },
+    {
+     "ar": "ذُوۡقُ",
+     "tr": "dhūqu",
+     "en": "taste! (command stem)"
+    },
+    {
+     "ar": "ـوا",
+     "tr": "-ū",
+     "en": "you (masculine plural command)"
+    }
+   ],
+   "grammar": "A command (imperative). The fa- prefix means 'so' or 'then', linking it to what precedes. The -ū ending directs the order to a masculine plural addressee ('you all'): 'so taste!'. The final silent alif is a spelling convention after this plural ending.",
+   "root": "ذ-و-ق (dh-w-q) — to taste, experience"
+  },
+  "8": {
+   "meaning": "'My punishment / My chastisement' — penalty or torment, specified as belonging to the speaker (Allah).",
+   "parts": [
+    {
+     "ar": "عَذَاب",
+     "tr": "ʿadhāb",
+     "en": "punishment, torment"
+    },
+    {
+     "ar": "ِىۡ",
+     "tr": "ī",
+     "en": "my"
+    }
+   ],
+   "grammar": "A noun 'punishment' with the attached possessive -ī ('my'), so it means 'my punishment.' This first-person possessive ending also signals that the base noun is in a genitive/possessed state. It names the penalty as belonging to the speaker.",
+   "root": "ع-ذ-ب (ʿ-dh-b) — to punish, torment, chastise"
+  },
+  "9": {
+   "meaning": "and My warnings",
+   "parts": [
+    {
+     "ar": "وَنُذُرِ‏",
+     "tr": "wanudhuri",
+     "en": "and My warnings"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "38": {
+  "1": {
+   "meaning": "\"And indeed / and most certainly\" — combines 'and' with the emphatic 'la-' and the particle 'qad'; before a past-tense verb 'qad' affirms that the action has definitely and already happened, reinforced into 'and indeed it surely did'.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "لَ",
+     "tr": "la",
+     "en": "surely / certainly"
+    },
+    {
+     "ar": "قَدۡ",
+     "tr": "qad",
+     "en": "indeed / already"
+    }
+   ],
+   "grammar": "The conjunction 'and' plus the emphatic 'la-' ('surely') plus the particle 'qad'. With a past-tense verb, 'qad' stresses that the act is real and completed ('has indeed happened'); together they form a strong oath-like affirmation. These are function words and are not inflected.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "seized them in the morning",
+   "parts": [
+    {
+     "ar": "صَبَّحَهُمۡ",
+     "tr": "ṣabbaḥahum",
+     "en": "seized them in the morning"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "Morning, daybreak, the early part of the day — the time from dawn until mid-morning.",
+   "parts": [
+    {
+     "ar": "بُكۡرَة",
+     "tr": "buk'ra",
+     "en": "morning / early day"
+    },
+    {
+     "ar": "ً",
+     "tr": "-tan",
+     "en": "accusative ending on feminine noun (with nunation)"
+    }
+   ],
+   "grammar": "A feminine noun (its feminine ending is the tied-tā', pronounced '-t-' before the case vowel). The '-an' accusative ending here typically marks a time expression ('in the morning'), and the nunation shows it is indefinite.",
+   "root": "ب-ك-ر (b-k-r) — early morning, to be early"
+  },
+  "4": {
+   "meaning": "Painful punishment, torment, or chastisement — suffering imposed as a penalty.",
+   "parts": [
+    {
+     "ar": "عَذَاب",
+     "tr": "ʿadhāb",
+     "en": "punishment / torment"
+    },
+    {
+     "ar": "ـٌ",
+     "tr": "-un",
+     "en": "indefinite nominative ending"
+    }
+   ],
+   "grammar": "A singular masculine noun. The ending -un (nunation) marks it as indefinite ('a punishment') and in the nominative case, typically used for the subject or for the thing said to exist.",
+   "root": "ع-ذ-ب (ʿ-dh-b) — to punish, torment, chastise"
+  },
+  "5": {
+   "meaning": "(will be a) settlement",
+   "parts": [
+    {
+     "ar": "مُّسۡتَقِرٌّ‏",
+     "tr": "mus'taqirrun",
+     "en": "(will be a) settlement"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "39": {
+  "1": {
+   "meaning": "So taste! — a command to a group to 'taste' or experience something, often used figuratively of undergoing a consequence or punishment.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa",
+     "en": "so / then"
+    },
+    {
+     "ar": "ذُوۡقُ",
+     "tr": "dhūqu",
+     "en": "taste! (command stem)"
+    },
+    {
+     "ar": "ـوا",
+     "tr": "-ū",
+     "en": "you (masculine plural command)"
+    }
+   ],
+   "grammar": "A command (imperative). The fa- prefix means 'so' or 'then', linking it to what precedes. The -ū ending directs the order to a masculine plural addressee ('you all'): 'so taste!'. The final silent alif is a spelling convention after this plural ending.",
+   "root": "ذ-و-ق (dh-w-q) — to taste, experience"
+  },
+  "2": {
+   "meaning": "'My punishment / My chastisement' — penalty or torment, specified as belonging to the speaker (Allah).",
+   "parts": [
+    {
+     "ar": "عَذَاب",
+     "tr": "ʿadhāb",
+     "en": "punishment, torment"
+    },
+    {
+     "ar": "ِىۡ",
+     "tr": "ī",
+     "en": "my"
+    }
+   ],
+   "grammar": "A noun 'punishment' with the attached possessive -ī ('my'), so it means 'my punishment.' This first-person possessive ending also signals that the base noun is in a genitive/possessed state. It names the penalty as belonging to the speaker.",
+   "root": "ع-ذ-ب (ʿ-dh-b) — to punish, torment, chastise"
+  },
+  "3": {
+   "meaning": "and My warnings",
+   "parts": [
+    {
+     "ar": "وَنُذُرِ‏",
+     "tr": "wanudhuri",
+     "en": "and My warnings"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "40": {
+  "1": {
+   "meaning": "\"And indeed / and most certainly\" — combines 'and' with the emphatic 'la-' and the particle 'qad'; before a past-tense verb 'qad' affirms that the action has definitely and already happened, reinforced into 'and indeed it surely did'.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "لَ",
+     "tr": "la",
+     "en": "surely / certainly"
+    },
+    {
+     "ar": "قَدۡ",
+     "tr": "qad",
+     "en": "indeed / already"
+    }
+   ],
+   "grammar": "The conjunction 'and' plus the emphatic 'la-' ('surely') plus the particle 'qad'. With a past-tense verb, 'qad' stresses that the act is real and completed ('has indeed happened'); together they form a strong oath-like affirmation. These are function words and are not inflected.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "We have made easy",
+   "parts": [
+    {
+     "ar": "يَسَّرۡنَا",
+     "tr": "yassarnā",
+     "en": "We have made easy"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "The Qur'an — the recited Scripture; literally 'the Recitation' or 'the Reading'.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "قُرۡاٰن",
+     "tr": "qur'ān",
+     "en": "Qur'an / recitation"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "definite accusative ending"
+    }
+   ],
+   "grammar": "A definite noun (carrying 'al-', 'the') on the verbal-noun pattern fuʿlān, denoting the act/thing of reciting. The final '-a' marks the accusative case, which most often signals that the word is the direct object of a verb.",
+   "root": "ق-ر-ء (q-r-ʾ) — reciting, reading aloud, gathering words together"
+  },
+  "4": {
+   "meaning": "for remembrance",
+   "parts": [
+    {
+     "ar": "لِلذِّكۡرِ",
+     "tr": "lildhik'ri",
+     "en": "for remembrance"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "'So/then — is it the case that…?' A linking 'then' joined to an interrogative particle that introduces a yes/no question, often carrying a sense of urging, challenge, or expectation ('will you not…?').",
+   "parts": [
+    {
+     "ar": "فَـ",
+     "tr": "fa-",
+     "en": "so / then"
+    },
+    {
+     "ar": "هَلۡ",
+     "tr": "hal",
+     "en": "is it that…? (yes/no question marker)"
+    }
+   ],
+   "grammar": "A compound of the connective fa- ('so, then', linking to what precedes) and the question particle hal, which turns a statement into a yes/no question and frequently implies expectation or exhortation. Particles like this are invariable — they take no case or mood ending.",
+   "root": "— (particles; no triliteral root)"
+  },
+  "6": {
+   "meaning": "'From, out of': a preposition marking the starting point or source of something — the origin from which a thing comes, or a part taken from a whole.",
+   "parts": [
+    {
+     "ar": "مِنۡ",
+     "tr": "min",
+     "en": "from/out of"
+    }
+   ],
+   "grammar": "A preposition expressing origin, source, or partition ('from, out of, some of'). A noun governed by min stands in the genitive relationship and would typically take an -i type ending. The particle itself is invariable.",
+   "root": "— (preposition)"
+  },
+  "7": {
+   "meaning": "who will receive admonition",
+   "parts": [
+    {
+     "ar": "مُّدَّكِرٍ‏",
+     "tr": "muddakirin",
+     "en": "who will receive admonition"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "41": {
+  "1": {
+   "meaning": "\"And indeed / and most certainly\" — combines 'and' with the emphatic 'la-' and the particle 'qad'; before a past-tense verb 'qad' affirms that the action has definitely and already happened, reinforced into 'and indeed it surely did'.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "لَ",
+     "tr": "la",
+     "en": "surely / certainly"
+    },
+    {
+     "ar": "قَدۡ",
+     "tr": "qad",
+     "en": "indeed / already"
+    }
+   ],
+   "grammar": "The conjunction 'and' plus the emphatic 'la-' ('surely') plus the particle 'qad'. With a past-tense verb, 'qad' stresses that the act is real and completed ('has indeed happened'); together they form a strong oath-like affirmation. These are function words and are not inflected.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "He/it came, arrived, or came about — the act of coming into presence or of something occurring.",
+   "parts": [
+    {
+     "ar": "جَآ",
+     "tr": "jā",
+     "en": "come (1st + weak middle root)"
+    },
+    {
+     "ar": "ءَ",
+     "tr": "-a",
+     "en": "3rd root letter (hamza) + he-vowel"
+    }
+   ],
+   "grammar": "A past-tense verb with no prefix and no personal suffix, naming a completed act by a third-person masculine singular subject ('he/it came'). All three letters here are root letters: jā spells the first radical plus the lengthened weak middle radical, and the final hamza (ء) is the third root consonant — not an ending. The fatḥa (-a) on that hamza is simply the past-tense vocalization for a 'he' subject sitting on the last root letter; there is no separable suffix.",
+   "root": "ج-ي-ء (j-y-ʾ) — to come, to arrive"
+  },
+  "3": {
+   "meaning": "The 'house', family, kinsfolk, or followers of someone — those belonging to a person's household or close circle, including dependents and adherents.",
+   "parts": [
+    {
+     "ar": "اٰلَ",
+     "tr": "āla",
+     "en": "family / folk / house (of)"
+    }
+   ],
+   "grammar": "A noun meaning the people/household belonging to someone. The '-a' ending is the accusative case (marking it as a direct object); as the first term of a possessive pairing it is typically followed by the name of the one whose folk they are ('the folk OF …').",
+   "root": "Uncertain/contested: most classical grammarians (e.g. Sibawayh) treat it as a contraction of أَهْل (ʾ-h-l, 'folk, household'); others trace it to ء-و-ل (ʾ-w-l, 'to return to, belong to')"
+  },
+  "4": {
+   "meaning": "Pharaoh — the title/name of the ruler of ancient Egypt, used as a proper name for that figure.",
+   "parts": [
+    {
+     "ar": "فِرْعَوْن",
+     "tr": "fir'ʿawn",
+     "en": "Pharaoh"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "accusative/genitive ending (diptote)"
+    }
+   ],
+   "grammar": "A proper name. Being a foreign, non-inflecting (diptote) name, it takes a single -a for both the accusative and the genitive and never takes tanwīn. Here it follows another noun in a possessive link ('… of Pharaoh').",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "the warnings",
+   "parts": [
+    {
+     "ar": "النُّذُرُۙ‏",
+     "tr": "l-nudhuru",
+     "en": "the warnings"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "42": {
+  "1": {
+   "meaning": "They denied / they cried lies; they declared (something or someone) to be false. An intensive verb meaning to reject as a lie, to disbelieve and brand untrue — directed by a plural 'they'.",
+   "parts": [
+    {
+     "ar": "كَذَّب",
+     "tr": "kadhdhab (doubled dh; simplified transliterations may write 'kadhab')",
+     "en": "denied / branded as lies (past stem, intensive)"
+    },
+    {
+     "ar": "ـُوا",
+     "tr": "-ū",
+     "en": "they (masculine plural subject)"
+    }
+   ],
+   "grammar": "A past-tense (perfect) verb in an intensive pattern (to treat as false, to repeatedly deny). The middle radical carries a shadda (doubling), which is exactly what marks this as the intensive form: kadhdhab- (not the simple kadhab-). The ending -ū marks the doers as 'they' — a plural, grammatically masculine group, so the whole reconstructs to kadhdhabū. Note that simplified transliterations sometimes omit the doubling and write 'kadhabū', but the doubled dh is essential to the form. The perfect tense denotes a completed action.",
+   "root": "ك-ذ-ب (k-dh-b) — to lie; in this form, to call a lie, to deny as false"
+  },
+  "2": {
+   "meaning": "By/in Our signs. Āyāt is the plural of āya — a sign, token, or evidence. Signs are pointers that indicate a greater reality. With the prefixed particle and pronoun it means 'with/in Our signs'.",
+   "parts": [
+    {
+     "ar": "بِ",
+     "tr": "bi-",
+     "en": "with / in / by"
+    },
+    {
+     "ar": "آيَات",
+     "tr": "āyāt",
+     "en": "signs / tokens (plural of āya)"
+    },
+    {
+     "ar": "ـِ",
+     "tr": "-i",
+     "en": "genitive ending"
+    },
+    {
+     "ar": "ـنَا",
+     "tr": "-nā",
+     "en": "our (attached pronoun)"
+    }
+   ],
+   "grammar": "A plural noun preceded by the preposition bi- ('with, in, by'), which requires the following noun to take the -i (genitive) ending. The attached -nā means 'our' when joined to a noun. The genitive here is governed by the preposition.",
+   "root": "أ-ي-ي (ʾ-y-y) — sign, token, mark"
+  },
+  "3": {
+   "meaning": "all of them",
+   "parts": [
+    {
+     "ar": "كُلِّهَا",
+     "tr": "kullihā",
+     "en": "all of them"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "A verb meaning 'so/then We seized, took hold of, or gripped them.' The root conveys taking firmly; with 'fa-' it adds 'so/then,' and the seizing often implies seizing with punishment.",
+   "parts": [
+    {
+     "ar": "فَ",
+     "tr": "fa-",
+     "en": "so / then"
+    },
+    {
+     "ar": "اَخَذۡ",
+     "tr": "akhadh",
+     "en": "seized / took"
+    },
+    {
+     "ar": "نٰ",
+     "tr": "-nā",
+     "en": "we (subject)"
+    },
+    {
+     "ar": "هُمۡ",
+     "tr": "-hum",
+     "en": "them (object)"
+    }
+   ],
+   "grammar": "A past-tense verb with the connective fa- ('so/then') in front. The -nā ending marks 'we' as the doers; the suffix -hum is the object 'them.' So the whole says 'so we seized them.'",
+   "root": "أ-خ-ذ (ʾ-kh-dh) — to take, seize, grasp"
+  },
+  "5": {
+   "meaning": "(with) a seizure",
+   "parts": [
+    {
+     "ar": "اَخۡذَ",
+     "tr": "akhdha",
+     "en": "(with) a seizure"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "6": {
+   "meaning": "(of) All-Mighty",
+   "parts": [
+    {
+     "ar": "عَزِيۡزٍ",
+     "tr": "ʿazīzin",
+     "en": "(of) All-Mighty"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "7": {
+   "meaning": "(the) Powerful One",
+   "parts": [
+    {
+     "ar": "مُّقۡتَدِرٍ‏ ﻿﻿",
+     "tr": "muq'tadirin",
+     "en": "(the) Powerful One"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "43": {
+  "1": {
+   "meaning": "Are your disbelievers",
+   "parts": [
+    {
+     "ar": "اَكُفَّارُكُمۡ",
+     "tr": "akuffārukum",
+     "en": "Are your disbelievers"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "'Better / best; good' — an adjective of comparison meaning more good, preferable, or superior. It also serves broadly for 'goodness' and that which is good and beneficial.",
+   "parts": [
+    {
+     "ar": "خَيۡر",
+     "tr": "khayr",
+     "en": "better / good"
+    },
+    {
+     "ar": "ٌ",
+     "tr": "-un",
+     "en": "nominative ending, indefinite"
+    }
+   ],
+   "grammar": "A noun/adjective bearing the ending -un (nunation): the doubled-u 'n' sound marks the word as both indefinite ('a/an', no 'the') and nominative — the case used for the subject of a sentence or the predicate that describes it.",
+   "root": "خ-ي-ر (kh-y-r) — good, goodness, that which is choice and beneficial"
+  },
+  "3": {
+   "meaning": "A preposition whose core sense is 'from' — marking a starting point or origin (from a place, time, or source). It also commonly means 'of' or 'among' (part of a larger whole) and 'than' in comparisons.",
+   "parts": [
+    {
+     "ar": "مِّنۡ",
+     "tr": "min",
+     "en": "from / of"
+    }
+   ],
+   "grammar": "A preposition. It is indeclinable and governs the following noun in the genitive case. Its primary force is point of origin ('starting from'), and it frequently expresses partitioning ('some of / part of').",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "those",
+   "parts": [
+    {
+     "ar": "اُولٰٓٮِٕكُمۡ",
+     "tr": "ulāikum",
+     "en": "those"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "A connective particle meaning 'or', specifically the 'or' that pairs with a preceding question to offer an alternative ('…or…?'). It links two possibilities being weighed against each other, often after an opening interrogative.",
+   "parts": [
+    {
+     "ar": "اَمۡ",
+     "tr": "am",
+     "en": "or (in alternatives, esp. after a question)"
+    }
+   ],
+   "grammar": "An indeclinable particle (no case or tense ending). It typically introduces the second branch of a two-part question or a balanced alternative, presenting the two as equally consequential.",
+   "root": "— (particle; no triliteral root)"
+  },
+  "6": {
+   "meaning": "'For you' or 'to you' — the preposition of benefit or attribution ('for / belonging to') combined with a plural 'you', marking the people for whose benefit or possession something is done.",
+   "parts": [
+    {
+     "ar": "لَ",
+     "tr": "la-",
+     "en": "for / to"
+    },
+    {
+     "ar": "كُمۡ",
+     "tr": "-kum",
+     "en": "you (plural)"
+    }
+   ],
+   "grammar": "A preposition with an attached pronoun. The prefix la- (the preposition li- 'for', here vowelled 'la' before a pronoun) conveys benefit, purpose, or belonging. The suffix -kum is the second-person masculine plural object, 'you all'.",
+   "root": "—"
+  },
+  "7": {
+   "meaning": "A formal disavowal or declaration of immunity — the state of being clear of, and released from, all ties, obligations, and accountability toward someone; a renunciation that severs a prior bond.",
+   "parts": [
+    {
+     "ar": "بَرَآء",
+     "tr": "barā'",
+     "en": "freedom/clearance from"
+    },
+    {
+     "ar": "ةٌ",
+     "tr": "-atun",
+     "en": "feminine noun ending, nominative + indefinite"
+    }
+   ],
+   "grammar": "A feminine verbal noun. The final -tun (tā' marbūṭa plus nunation) marks it as nominative and indefinite ('a disavowal'); the -un nunation signals an unspecified, standalone noun rather than one bound to a following word.",
+   "root": "ب-ر-ء (b-r-ʾ) — to be free, clear, or quit of something"
+  },
+  "8": {
+   "meaning": "A preposition meaning 'in,' 'within,' or 'inside.' It locates something inside a place, a time, a state, or a matter — physically or figuratively (e.g. 'in' a condition or 'concerning' a matter).",
+   "parts": [
+    {
+     "ar": "فِىۡ",
+     "tr": "fī",
+     "en": "in / within / inside"
+    }
+   ],
+   "grammar": "A preposition. It is invariable (it does not change form) and places the following noun into the genitive case, indicating containment or location 'in / within' something.",
+   "root": "— (particle)"
+  },
+  "9": {
+   "meaning": "the Scriptures",
+   "parts": [
+    {
+     "ar": "الزُّبُرِ​ۚ‏ ﻿﻿",
+     "tr": "l-zuburi",
+     "en": "the Scriptures"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "44": {
+  "1": {
+   "meaning": "A connective particle meaning 'or', specifically the 'or' that pairs with a preceding question to offer an alternative ('…or…?'). It links two possibilities being weighed against each other, often after an opening interrogative.",
+   "parts": [
+    {
+     "ar": "اَمۡ",
+     "tr": "am",
+     "en": "or (in alternatives, esp. after a question)"
+    }
+   ],
+   "grammar": "An indeclinable particle (no case or tense ending). It typically introduces the second branch of a two-part question or a balanced alternative, presenting the two as equally consequential.",
+   "root": "— (particle; no triliteral root)"
+  },
+  "2": {
+   "meaning": "'They say / they keep saying' — a present-tense verb of speaking: to say, utter, or assert in words.",
+   "parts": [
+    {
+     "ar": "يَقُوۡلُوۡ",
+     "tr": "yaqūlū",
+     "en": "they say"
+    },
+    {
+     "ar": "نَ",
+     "tr": "-na",
+     "en": "indicative plural ending"
+    }
+   ],
+   "grammar": "Present-tense verb, third-person masculine plural ('they'), from a hollow (middle-vowel) root. The ya- prefix marks the 'they/he' class, the -ū marks the masculine plural subject, and the -na ending signals the ordinary (indicative) present, 'they are saying.'",
+   "root": "ق-و-ل (q-w-l) — speech; saying, uttering, asserting"
+  },
+  "3": {
+   "meaning": "'We' — the standalone pronoun for a speaker including others (or a single speaker of majesty). It stands alone to name or emphasize the subject 'we'.",
+   "parts": [
+    {
+     "ar": "نَحۡنُ",
+     "tr": "naḥnu",
+     "en": "we"
+    }
+   ],
+   "grammar": "A detached (standalone) personal pronoun, first-person plural, 'we'. Such independent pronouns are used to state or emphasize the subject, often highlighting 'we' as the ones who do or are something.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "All together, the whole gathered as one — a totality with none left out, the entire group assembled.",
+   "parts": [
+    {
+     "ar": "جَمِيۡع",
+     "tr": "jamīʿ",
+     "en": "all, the whole, altogether"
+    },
+    {
+     "ar": "ـٌ",
+     "tr": "-un",
+     "en": "indefinite nominative ending"
+    }
+   ],
+   "grammar": "A noun meaning 'all / the whole', often used to stress that a group is complete and assembled. The -un ending is the indefinite nominative: 'un' (tanwīn) marks it as non-specific, and the nominative case typically marks the subject or the thing being described.",
+   "root": "ج-م-ع (j-m-ʿ) — to gather, to bring together; a totality"
+  },
+  "5": {
+   "meaning": "helping (each other)",
+   "parts": [
+    {
+     "ar": "مُّنۡتَصِرٌ‏",
+     "tr": "muntaṣirun",
+     "en": "helping (each other)"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "45": {
+  "1": {
+   "meaning": "Soon will be defeated",
+   "parts": [
+    {
+     "ar": "سَيُهۡزَمُ",
+     "tr": "sayuh'zamu",
+     "en": "Soon will be defeated"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "(their) assembly",
+   "parts": [
+    {
+     "ar": "الۡجَمۡعُ",
+     "tr": "l-jamʿu",
+     "en": "(their) assembly"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "and they will turn",
+   "parts": [
+    {
+     "ar": "وَيُوَلُّوۡنَ",
+     "tr": "wayuwallūna",
+     "en": "and they will turn"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "(their) backs",
+   "parts": [
+    {
+     "ar": "الدُّبُرَ‏",
+     "tr": "l-dubura",
+     "en": "(their) backs"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "46": {
+  "1": {
+   "meaning": "Rather / nay, but — a particle that cancels or corrects what came before and introduces a contrasting truth: 'no — instead …'. It sets aside a prior idea and replaces it.",
+   "parts": [
+    {
+     "ar": "بَلِ",
+     "tr": "bali",
+     "en": "rather/nay, but"
+    }
+   ],
+   "grammar": "A particle of retraction and correction; it does not change endings on other words. Its base form is 'bal'; the final -i here is a connecting vowel added to ease pronunciation before a following word that begins with a cluster.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "A noun meaning 'the Hour' — a moment or short span of time. In its weighty sense it names the Last Hour, the appointed time of resurrection and final reckoning. Built with the definite article 'the.'",
+   "parts": [
+    {
+     "ar": "ال",
+     "tr": "al-",
+     "en": "the (definite article)"
+    },
+    {
+     "ar": "سَّاعَة",
+     "tr": "sāʿat",
+     "en": "hour / moment / appointed time"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "nominative ending (subject form)"
+    }
+   ],
+   "grammar": "A definite noun (the 'l' of al- assimilates into the following 's,' doubling it). The final -u is the nominative case ending, the form a noun takes when it is the subject of a verb or sentence.",
+   "root": "س-و-ع (s-w-ʿ) — relating to an hour, a moment, or a span of time"
+  },
+  "3": {
+   "meaning": "(is) their promised time",
+   "parts": [
+    {
+     "ar": "مَوۡعِدُهُمۡ",
+     "tr": "mawʿiduhum",
+     "en": "(is) their promised time"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "and the Hour",
+   "parts": [
+    {
+     "ar": "وَالسَّاعَةُ",
+     "tr": "wal-sāʿatu",
+     "en": "and the Hour"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "(will be) more grievous",
+   "parts": [
+    {
+     "ar": "اَدۡهٰى",
+     "tr": "adhā",
+     "en": "(will be) more grievous"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "6": {
+   "meaning": "and more bitter",
+   "parts": [
+    {
+     "ar": "وَاَمَرُّ‏",
+     "tr": "wa-amarru",
+     "en": "and more bitter"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "47": {
+  "1": {
+   "meaning": "An emphasis particle placed at the start of a statement to strengthen and affirm it — roughly 'indeed', 'truly', 'verily'. It assures the listener that what follows is certainly the case.",
+   "parts": [
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "indeed / truly"
+    }
+   ],
+   "grammar": "An emphasising particle that introduces a nominal sentence. It puts the following noun (its subject) into the accusative case, while the predicate that comes after stays nominative. Its function is to affirm and stress the whole statement; it carries no tense or person of its own.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "Those who commit grave sins and crimes; wrongdoers who deliberately break Allah's law and cut themselves off in guilt. The word denotes hardened, culpable offenders, not those who err by accident.",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "مُجۡرِم",
+     "tr": "muj'rim",
+     "en": "criminal / sinner"
+    },
+    {
+     "ar": "ِيۡنَ",
+     "tr": "-īna",
+     "en": "masculine plural object/oblique ending"
+    }
+   ],
+   "grammar": "An active participle (one who does the action) of Form IV, made definite by 'al-' ('the'). The '-īna' ending marks a masculine sound plural in the accusative/genitive (object or oblique) case, so it names a group as the object of a verb or the complement of a preposition, rather than the subject.",
+   "root": "ج-ر-م (j-r-m) — to commit a crime or grave sin"
+  },
+  "3": {
+   "meaning": "A preposition meaning 'in,' 'within,' or 'inside.' It locates something inside a place, a time, a state, or a matter — physically or figuratively (e.g. 'in' a condition or 'concerning' a matter).",
+   "parts": [
+    {
+     "ar": "فِىۡ",
+     "tr": "fī",
+     "en": "in / within / inside"
+    }
+   ],
+   "grammar": "A preposition. It is invariable (it does not change form) and places the following noun into the genitive case, indicating containment or location 'in / within' something.",
+   "root": "— (particle)"
+  },
+  "4": {
+   "meaning": "Means 'straying / error / being lost' — wandering off the right path, the opposite of guidance, whether literally losing one's way or going astray in belief and conduct.",
+   "parts": [
+    {
+     "ar": "ضَلٰلٍ",
+     "tr": "ḍalālin",
+     "en": "straying / error"
+    }
+   ],
+   "grammar": "An abstract noun: 'straying / error.' The -in ending is the genitive with 'tanwīn' (the -n marking it indefinite) — the case a noun takes after a preposition or in a possessive link, e.g. 'in an error.' The long -ā- belongs to this noun-pattern.",
+   "root": "ض-ل-ل (ḍ-l-l) — to stray, go astray, lose the way"
+  },
+  "5": {
+   "meaning": "and madness",
+   "parts": [
+    {
+     "ar": "وَّسُعُرٍ‏",
+     "tr": "wasuʿurin",
+     "en": "and madness"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "48": {
+  "1": {
+   "meaning": "The noun 'day' — a span of time, often used for a momentous Day or appointed time; in the accusative it frequently functions as 'on the day (when…)', marking the time at which something occurs.",
+   "parts": [
+    {
+     "ar": "يَوۡمَ",
+     "tr": "yawma",
+     "en": "day"
+    }
+   ],
+   "grammar": "A masculine noun bearing the -a (accusative) ending. As an adverb of time this ending typically gives the sense 'on the day…', fixing the moment of an event.",
+   "root": "ي-و-م (y-w-m) — day, a period of time"
+  },
+  "2": {
+   "meaning": "they will be dragged",
+   "parts": [
+    {
+     "ar": "يُسۡحَبُوۡنَ",
+     "tr": "yus'ḥabūna",
+     "en": "they will be dragged"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "A preposition meaning 'in,' 'within,' or 'inside.' It locates something inside a place, a time, a state, or a matter — physically or figuratively (e.g. 'in' a condition or 'concerning' a matter).",
+   "parts": [
+    {
+     "ar": "فِىۡ",
+     "tr": "fī",
+     "en": "in / within / inside"
+    }
+   ],
+   "grammar": "A preposition. It is invariable (it does not change form) and places the following noun into the genitive case, indicating containment or location 'in / within' something.",
+   "root": "— (particle)"
+  },
+  "4": {
+   "meaning": "'The Fire' — fire, flame; in religious usage often the Fire of Hell, the blazing punishment of the Hereafter.",
+   "parts": [
+    {
+     "ar": "ال",
+     "tr": "l-",
+     "en": "the"
+    },
+    {
+     "ar": "نَّار",
+     "tr": "nār",
+     "en": "fire"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "(genitive ending)"
+    }
+   ],
+   "grammar": "The definite article 'al-' ('the') plus the feminine noun 'nār' ('fire'). The 'l' of 'al-' assimilates into the following 'n' (so it is pronounced 'an-nār'). The '-i' ending is genitive, the case used after a preposition or to link the word to a preceding noun ('… OF the Fire').",
+   "root": "ن-و-ر (n-w-r) — fire, blaze, burning"
+  },
+  "5": {
+   "meaning": "A preposition whose core sense is 'on' or 'upon' — resting on top of, or being over something. By extension it carries ideas of obligation ('it is upon someone to…'), being upheld or guided by something, or being against something, depending on usage.",
+   "parts": [
+    {
+     "ar": "عَلٰى",
+     "tr": "ʿalā",
+     "en": "on / upon"
+    }
+   ],
+   "grammar": "A preposition. It is indeclinable (its form never changes) and it governs the following noun, putting it in the genitive case. Its basic spatial meaning is 'on top of / over'.",
+   "root": "—"
+  },
+  "6": {
+   "meaning": "Their faces — the face as the front of the head, here belonging to a group ('their'). The face often stands for a person's whole self or presence.",
+   "parts": [
+    {
+     "ar": "وُجُوۡه",
+     "tr": "wujūh",
+     "en": "faces"
+    },
+    {
+     "ar": "ِ",
+     "tr": "-i",
+     "en": "(genitive ending)"
+    },
+    {
+     "ar": "هِمۡ",
+     "tr": "-him",
+     "en": "their"
+    }
+   ],
+   "grammar": "A broken plural noun ('faces') with an attached possessive pronoun -him ('their', masculine plural). The -i ending is genitive: it typically links the word to a preceding noun ('… of …') or follows a preposition. The pronoun takes the -i (rather than -u) vowel after this genitive ending.",
+   "root": "و-ج-ه (w-j-h) — face, front, direction, that which one turns toward"
+  },
+  "7": {
+   "meaning": "Taste! / experience it firsthand — a command to undergo and feel something directly, as one tastes food. Often used of being made to feel a consequence.",
+   "parts": [
+    {
+     "ar": "ذُوۡق",
+     "tr": "dhūq",
+     "en": "taste! (command)"
+    },
+    {
+     "ar": "وۡا",
+     "tr": "-ū",
+     "en": "you (plural, command)"
+    }
+   ],
+   "grammar": "A command (imperative) addressed to a group: 'taste!' The -ū ending marks the addressee as masculine plural ('you all'). From a hollow root whose middle letter appears as a long ū in this form.",
+   "root": "ذ-و-ق (dh-w-q) — to taste, to experience directly"
+  },
+  "8": {
+   "meaning": "Touched, afflicted, or befell — for something (such as harm or hardship) to have made contact with someone.",
+   "parts": [
+    {
+     "ar": "مَسَّ",
+     "tr": "massa",
+     "en": "touched / afflicted (he/it)"
+    }
+   ],
+   "grammar": "A past-tense verb, third person masculine singular ('he/it touched'). The final -a is the standard past-tense ending for a single masculine subject; the doubled middle consonant (shadda) is part of this root's basic form.",
+   "root": "م-س-س (m-s-s) — to touch, make contact, afflict"
+  },
+  "9": {
+   "meaning": "(of) Hell",
+   "parts": [
+    {
+     "ar": "سَقَرَ‏ ﻿﻿",
+     "tr": "saqara",
+     "en": "(of) Hell"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "49": {
+  "1": {
+   "meaning": "A two-part expression: an emphatic particle that strongly affirms and confirms a statement ('truly, indeed, certainly'), fused with the attached pronoun 'we.' Together: 'truly we…' / 'indeed we…'",
+   "parts": [
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "truly/indeed (emphasis)"
+    },
+    {
+     "ar": "ـا",
+     "tr": "-ā",
+     "en": "we (us)"
+    }
+   ],
+   "grammar": "The particle inna gives strong emphasis and certainty to the clause it opens. The attached -ā is the pronoun 'we,' serving as the subject being emphasized: 'truly we…'",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "All, every, the whole of — totality. When followed by a singular it means 'every (one)'; when followed by a definite plural or whole it means 'all of.'",
+   "parts": [
+    {
+     "ar": "كُلّ",
+     "tr": "kull",
+     "en": "all / every"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "accusative ending"
+    }
+   ],
+   "grammar": "A noun of totality, almost always joined to a following noun in the genitive ('every … / all of …'). The final -a is the accusative case, the form used when the word functions as an object of a verb.",
+   "root": "ك-ل-ل (k-l-l) — wholeness, totality"
+  },
+  "3": {
+   "meaning": "'a thing' — anything that exists or can be conceived, an entity or matter in the most general sense. It is the broadest Arabic word for 'something,' covering objects, affairs, and abstractions alike.",
+   "parts": [
+    {
+     "ar": "شَىۡء",
+     "tr": "shay'",
+     "en": "thing"
+    },
+    {
+     "ar": "ٍ",
+     "tr": "-in",
+     "en": "indefinite genitive ending '-in' (tanwīn)"
+    }
+   ],
+   "grammar": "An indefinite singular noun. The '-in' ending (tanwīn al-kasr) signals two things at once: indefiniteness ('a thing,' not 'the thing') and the genitive case, marking it as following a preposition or completing a possessive link to a preceding noun.",
+   "root": "ش-ي-ء (sh-y-ʼ) — to will, to be a thing/existent"
+  },
+  "4": {
+   "meaning": "'We created him' — to create, originate, and bring into existence; the object 'him' being the thing so made.",
+   "parts": [
+    {
+     "ar": "خَلَقۡ",
+     "tr": "khalaq",
+     "en": "created"
+    },
+    {
+     "ar": "نٰ",
+     "tr": "-nā",
+     "en": "we"
+    },
+    {
+     "ar": "هُ",
+     "tr": "-hu",
+     "en": "him / it"
+    }
+   ],
+   "grammar": "Past-tense verb 'to create'. The '-nā' ending marks a first-person plural subject ('we did'), and the final '-hu' is the third-person masculine singular object pronoun, 'him/it'.",
+   "root": "خ-ل-ق (kh-l-q) — to create, originate, fashion"
+  },
+  "5": {
+   "meaning": "A phrase meaning 'in/by a measure' — according to a fixed amount, proportion, or decree. The word also carries the sense of a determined quantity or an ordained measure.",
+   "parts": [
+    {
+     "ar": "بِ",
+     "tr": "bi-",
+     "en": "with / in / by"
+    },
+    {
+     "ar": "قَدَر",
+     "tr": "qadar",
+     "en": "measure / determined amount"
+    },
+    {
+     "ar": "ـٍ",
+     "tr": "-in",
+     "en": "indefinite, genitive case ending"
+    }
+   ],
+   "grammar": "The bi- prefix is a preposition ('with/in/by'). 'Qadar' means a set measure or ordained amount. The -in ending (genitive with tanwīn) marks the noun as indefinite and genitive, the case required after the preposition bi-.",
+   "root": "ق-د-ر (q-d-r) — to measure, decree, determine; capacity, decree"
+  }
+ },
+ "50": {
+  "1": {
+   "meaning": "A connective phrase meaning 'and what' or 'and that which'. It adds a further item and points to an unspecified thing or category.",
+   "parts": [
+    {
+     "ar": "و",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "مَا",
+     "tr": "mā",
+     "en": "what/that which"
+    }
+   ],
+   "grammar": "The connector wa ('and') joined to mā ('what, that which'). Here mā functions as a relative/indefinite pronoun ('that which'); the same word can elsewhere serve as a negator. It is invariable and takes no case ending.",
+   "root": "— (relative pronoun / particle)"
+  },
+  "2": {
+   "meaning": "'Our command / our decree / our affair / our matter' — a noun spanning an authoritative order, a divine decree, or simply a matter or affair, belonging to 'us'.",
+   "parts": [
+    {
+     "ar": "اَمۡر",
+     "tr": "amr",
+     "en": "command, decree, affair"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "nominative ending"
+    },
+    {
+     "ar": "نَا",
+     "tr": "-nā",
+     "en": "our"
+    }
+   ],
+   "grammar": "A noun with the attached pronoun -nā ('our'), showing possession. The -u ending is nominative, the case typically used when the word is the subject of a sentence or otherwise the one performing/being identified.",
+   "root": "أ-م-ر (ʾ-m-r) — commanding, ordering, affair/matter"
+  },
+  "3": {
+   "meaning": "A particle of exception meaning 'except,' 'save,' or 'only.' It carves out something from a preceding general statement — most often a preceding negation — so that the excepted item alone is affirmed, giving the strong sense 'none … but' or 'nothing other than.'",
+   "parts": [
+    {
+     "ar": "اِلَّا",
+     "tr": "illā",
+     "en": "except / save / only"
+    }
+   ],
+   "grammar": "An exceptive particle (originally a fusion of 'in' + 'lā'). It is invariable — it has no case ending and does not change form. It introduces the item being excepted from, or restricted within, the preceding statement.",
+   "root": "— (particle)"
+  },
+  "4": {
+   "meaning": "one",
+   "parts": [
+    {
+     "ar": "وَاحِدَةٌ",
+     "tr": "wāḥidatun",
+     "en": "one"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "5": {
+   "meaning": "like the twinkling",
+   "parts": [
+    {
+     "ar": "كَلَمۡحٍۢ",
+     "tr": "kalamḥin",
+     "en": "like the twinkling"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "6": {
+   "meaning": "(of) the eye",
+   "parts": [
+    {
+     "ar": "بِالۡبَصَرِ‏",
+     "tr": "bil-baṣari",
+     "en": "(of) the eye"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "51": {
+  "1": {
+   "meaning": "\"And indeed / and most certainly\" — combines 'and' with the emphatic 'la-' and the particle 'qad'; before a past-tense verb 'qad' affirms that the action has definitely and already happened, reinforced into 'and indeed it surely did'.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "لَ",
+     "tr": "la",
+     "en": "surely / certainly"
+    },
+    {
+     "ar": "قَدۡ",
+     "tr": "qad",
+     "en": "indeed / already"
+    }
+   ],
+   "grammar": "The conjunction 'and' plus the emphatic 'la-' ('surely') plus the particle 'qad'. With a past-tense verb, 'qad' stresses that the act is real and completed ('has indeed happened'); together they form a strong oath-like affirmation. These are function words and are not inflected.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "'We destroyed / We caused to perish' — to bring about ruin, annihilation, or downfall. Combines the verb 'to destroy / cause to perish' with the subject 'we'.",
+   "parts": [
+    {
+     "ar": "اَهۡلَكۡ",
+     "tr": "ahlak",
+     "en": "destroyed / caused to perish"
+    },
+    {
+     "ar": "نَا",
+     "tr": "-nā",
+     "en": "we"
+    }
+   ],
+   "grammar": "A past-tense verb. The attached '-nā' ending is the subject 'we' — it marks the doers of the action as a group including the speaker, with the action completed and in the past.",
+   "root": "ه-ل-ك (h-l-k) — to perish, be destroyed; (causative) to destroy"
+  },
+  "3": {
+   "meaning": "your kinds",
+   "parts": [
+    {
+     "ar": "اَشۡيَاعَكُمۡ",
+     "tr": "ashyāʿakum",
+     "en": "your kinds"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "'So/then — is it the case that…?' A linking 'then' joined to an interrogative particle that introduces a yes/no question, often carrying a sense of urging, challenge, or expectation ('will you not…?').",
+   "parts": [
+    {
+     "ar": "فَـ",
+     "tr": "fa-",
+     "en": "so / then"
+    },
+    {
+     "ar": "هَلۡ",
+     "tr": "hal",
+     "en": "is it that…? (yes/no question marker)"
+    }
+   ],
+   "grammar": "A compound of the connective fa- ('so, then', linking to what precedes) and the question particle hal, which turns a statement into a yes/no question and frequently implies expectation or exhortation. Particles like this are invariable — they take no case or mood ending.",
+   "root": "— (particles; no triliteral root)"
+  },
+  "5": {
+   "meaning": "'From, out of': a preposition marking the starting point or source of something — the origin from which a thing comes, or a part taken from a whole.",
+   "parts": [
+    {
+     "ar": "مِنۡ",
+     "tr": "min",
+     "en": "from/out of"
+    }
+   ],
+   "grammar": "A preposition expressing origin, source, or partition ('from, out of, some of'). A noun governed by min stands in the genitive relationship and would typically take an -i type ending. The particle itself is invariable.",
+   "root": "— (preposition)"
+  },
+  "6": {
+   "meaning": "who will receive admonition",
+   "parts": [
+    {
+     "ar": "مُّدَّكِرٍ‏",
+     "tr": "muddakirin",
+     "en": "who will receive admonition"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "52": {
+  "1": {
+   "meaning": "'and every / and each / and all' — a phrase introducing each individual member of a group, 'and each one'.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "كُلّ",
+     "tr": "kull",
+     "en": "every / each / all"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "(nominative ending)"
+    }
+   ],
+   "grammar": "The connective particle wa- ('and') prefixed to the noun kull ('every/each'). The -u ending marks the nominative case, used for the subject of a sentence ('and everything [is]…').",
+   "root": "ك-ل-ل (k-l-l) — totality, allness, completeness"
+  },
+  "2": {
+   "meaning": "'a thing' — anything that exists or can be conceived, an entity or matter in the most general sense. It is the broadest Arabic word for 'something,' covering objects, affairs, and abstractions alike.",
+   "parts": [
+    {
+     "ar": "شَىۡء",
+     "tr": "shay'",
+     "en": "thing"
+    },
+    {
+     "ar": "ٍ",
+     "tr": "-in",
+     "en": "indefinite genitive ending '-in' (tanwīn)"
+    }
+   ],
+   "grammar": "An indefinite singular noun. The '-in' ending (tanwīn al-kasr) signals two things at once: indefiniteness ('a thing,' not 'the thing') and the genitive case, marking it as following a preposition or completing a possessive link to a preceding noun.",
+   "root": "ش-ي-ء (sh-y-ʼ) — to will, to be a thing/existent"
+  },
+  "3": {
+   "meaning": "'They did it' or 'they would have done it' — a completed action of carrying out, performing, or doing something, attributed to a group, with 'it' as the thing done.",
+   "parts": [
+    {
+     "ar": "فَعَلُ",
+     "tr": "faʿalu",
+     "en": "they did / performed"
+    },
+    {
+     "ar": "وۡ",
+     "tr": "ū",
+     "en": "they (plural masculine)"
+    },
+    {
+     "ar": "هُ",
+     "tr": "hu",
+     "en": "it / him"
+    }
+   ],
+   "grammar": "A past-tense verb. The -ū marks a plural masculine 'they' as the doers. The attached -hu ('it/him') is the object — the thing that was done. So: 'they did it'.",
+   "root": "ف-ع-ل (f-ʿ-l) — doing, acting, performing a deed"
+  },
+  "4": {
+   "meaning": "A preposition meaning 'in,' 'within,' or 'inside.' It locates something inside a place, a time, a state, or a matter — physically or figuratively (e.g. 'in' a condition or 'concerning' a matter).",
+   "parts": [
+    {
+     "ar": "فِىۡ",
+     "tr": "fī",
+     "en": "in / within / inside"
+    }
+   ],
+   "grammar": "A preposition. It is invariable (it does not change form) and places the following noun into the genitive case, indicating containment or location 'in / within' something.",
+   "root": "— (particle)"
+  },
+  "5": {
+   "meaning": "the Scriptures",
+   "parts": [
+    {
+     "ar": "الزُّبُرِ​ۚ‏ ﻿﻿",
+     "tr": "l-zuburi",
+     "en": "the Scriptures"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "53": {
+  "1": {
+   "meaning": "'and every / and each / and all' — a phrase introducing each individual member of a group, 'and each one'.",
+   "parts": [
+    {
+     "ar": "وَ",
+     "tr": "wa",
+     "en": "and"
+    },
+    {
+     "ar": "كُلّ",
+     "tr": "kull",
+     "en": "every / each / all"
+    },
+    {
+     "ar": "ُ",
+     "tr": "-u",
+     "en": "(nominative ending)"
+    }
+   ],
+   "grammar": "The connective particle wa- ('and') prefixed to the noun kull ('every/each'). The -u ending marks the nominative case, used for the subject of a sentence ('and everything [is]…').",
+   "root": "ك-ل-ل (k-l-l) — totality, allness, completeness"
+  },
+  "2": {
+   "meaning": "small",
+   "parts": [
+    {
+     "ar": "صَغِيۡرٍ",
+     "tr": "ṣaghīrin",
+     "en": "small"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "and big",
+   "parts": [
+    {
+     "ar": "وَّكَبِيۡرٍ",
+     "tr": "wakabīrin",
+     "en": "and big"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "4": {
+   "meaning": "(is) written down",
+   "parts": [
+    {
+     "ar": "مُّسۡتَطَرٌ‏",
+     "tr": "mus'taṭarun",
+     "en": "(is) written down"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "54": {
+  "1": {
+   "meaning": "An emphasis particle placed at the start of a statement to strengthen and affirm it — roughly 'indeed', 'truly', 'verily'. It assures the listener that what follows is certainly the case.",
+   "parts": [
+    {
+     "ar": "اِنَّ",
+     "tr": "inna",
+     "en": "indeed / truly"
+    }
+   ],
+   "grammar": "An emphasising particle that introduces a nominal sentence. It puts the following noun (its subject) into the accusative case, while the predicate that comes after stays nominative. Its function is to affirm and stress the whole statement; it carries no tense or person of its own.",
+   "root": "—"
+  },
+  "2": {
+   "meaning": "The God-conscious / the mindful — those who guard themselves against wrongdoing out of reverent awareness of Allah (taqwā), shielding their souls by dutiful caution. The \"al-\" makes it definite (\"the mindful ones\").",
+   "parts": [
+    {
+     "ar": "الۡ",
+     "tr": "al-",
+     "en": "the"
+    },
+    {
+     "ar": "مُتَّق",
+     "tr": "muttaq",
+     "en": "one who is God-conscious / guards himself"
+    },
+    {
+     "ar": "ِيۡنَ",
+     "tr": "-īna",
+     "en": "masculine plural oblique ending"
+    }
+   ],
+   "grammar": "A definite active participle in the masculine sound plural (singular \"muttaqin\"). The \"-īna\" ending is the plural form in the genitive/accusative (oblique) case — used for governed nouns, objects, or after prepositions.",
+   "root": "و-ق-ي (w-q-y) — to guard, protect, shield (oneself)"
+  },
+  "3": {
+   "meaning": "A preposition meaning 'in,' 'within,' or 'inside.' It locates something inside a place, a time, a state, or a matter — physically or figuratively (e.g. 'in' a condition or 'concerning' a matter).",
+   "parts": [
+    {
+     "ar": "فِىۡ",
+     "tr": "fī",
+     "en": "in / within / inside"
+    }
+   ],
+   "grammar": "A preposition. It is invariable (it does not change form) and places the following noun into the genitive case, indicating containment or location 'in / within' something.",
+   "root": "— (particle)"
+  },
+  "4": {
+   "meaning": "'Gardens' — the plural of a lush, walled garden thick with trees whose foliage covers the ground. The root sense is concealment by dense greenery; it is the standard word for the gardens of Paradise.",
+   "parts": [
+    {
+     "ar": "جَنّٰت",
+     "tr": "jannāt",
+     "en": "gardens (feminine plural)"
+    },
+    {
+     "ar": "ـٍ",
+     "tr": "-in",
+     "en": "indefinite oblique ending"
+    }
+   ],
+   "grammar": "An indefinite sound feminine plural noun ('gardens'). The '-in' (tanwīn) ending marks it as indefinite ('some gardens'), and for this plural form it stands in the oblique case (genitive or accusative), used after prepositions/possessives or as a direct object.",
+   "root": "ج-ن-ن (j-n-n) — to cover, conceal, hide (hence a dense garden)"
+  },
+  "5": {
+   "meaning": "and river",
+   "parts": [
+    {
+     "ar": "وَّنَهَرٍۙ‏",
+     "tr": "wanaharin",
+     "en": "and river"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ },
+ "55": {
+  "1": {
+   "meaning": "A preposition meaning 'in,' 'within,' or 'inside.' It locates something inside a place, a time, a state, or a matter — physically or figuratively (e.g. 'in' a condition or 'concerning' a matter).",
+   "parts": [
+    {
+     "ar": "فِىۡ",
+     "tr": "fī",
+     "en": "in / within / inside"
+    }
+   ],
+   "grammar": "A preposition. It is invariable (it does not change form) and places the following noun into the genitive case, indicating containment or location 'in / within' something.",
+   "root": "— (particle)"
+  },
+  "2": {
+   "meaning": "a seat",
+   "parts": [
+    {
+     "ar": "مَقۡعَدِ",
+     "tr": "maqʿadi",
+     "en": "a seat"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "3": {
+   "meaning": "Truthfulness, sincerity, genuineness — the quality of what is true and reliable. As the second word of a possessive phrase it lends the sense 'a true/sound/honourable ...'.",
+   "parts": [
+    {
+     "ar": "صِدۡق",
+     "tr": "ṣidq",
+     "en": "truthfulness, sincerity"
+    },
+    {
+     "ar": "ٍ",
+     "tr": "-in",
+     "en": "indefinite genitive ending"
+    }
+   ],
+   "grammar": "A singular indefinite noun. The '-in' ending (doubled kasra, tanwīn) marks the genitive case for an indefinite noun — it typically shows that the word is linked to a preceding noun ('... OF truth') or follows a preposition.",
+   "root": "ص-د-ق (ṣ-d-q) — truthfulness, sincerity"
+  },
+  "4": {
+   "meaning": "'With / in the presence of / near' — an adverb of place and relation meaning at, by, in the sight or estimation of someone. It indicates nearness, possession, or what holds in someone's view (as in 'with Allah' = in His sight).",
+   "parts": [
+    {
+     "ar": "عِنۡد",
+     "tr": "ʿind",
+     "en": "with / in the presence of"
+    },
+    {
+     "ar": "َ",
+     "tr": "-a",
+     "en": "accusative/adverbial ending"
+    }
+   ],
+   "grammar": "An adverb of place that is always followed by a noun it relates to. It carries a fixed -a ending; this accusative-type vowel is characteristic of such adverbs of place and shows the word is functioning to locate something ('at, near, in the presence of').",
+   "root": "— (adverb of place)"
+  },
+  "5": {
+   "meaning": "a King",
+   "parts": [
+    {
+     "ar": "مَلِيۡكٍ",
+     "tr": "malīkin",
+     "en": "a King"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  },
+  "6": {
+   "meaning": "Most Powerful",
+   "parts": [
+    {
+     "ar": "مُّقۡتَدِرٍ‏",
+     "tr": "muq'tadirin",
+     "en": "Most Powerful"
+    }
+   ],
+   "grammar": "See Arabic text.",
+   "root": "—"
+  }
+ }
+}
