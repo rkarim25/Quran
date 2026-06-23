@@ -567,7 +567,7 @@ function cleanArabic(text) {
   if (!text) return "";
   return text
     .replace(/[\uE000-\uF8FF]/g, "")
-    .replace(/[\u200e\u200f\ufeff\u061c]/g, "")
+    .replace(/[\u200b\u200e\u200f\ufeff\u061c]/g, "")
     .replace(/\s+/g, " ")
     .trim();
 }
