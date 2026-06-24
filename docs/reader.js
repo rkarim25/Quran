@@ -5,6 +5,8 @@ const LS = {
   bookmarks: "quran-bookmarks",
   prefs: "quran-prefs",
   myWork: "quran-my-work",
+  tadabburNotes: "quran-tadabbur-notes",
+  tadabburFab: "quran-tadabbur-fab",
   ayahEdits: (s, a) => `quran-${s}-${a}`,
 };
 
@@ -2870,14 +2872,190 @@ function renderMyWorkPage({ title, subtitle, empty, kind, study = false }) {
     ${list.length ? `<div class="bookmark-list">${list.map((e) => myWorkRow(e, { study })).join("")}</div>` : `<p class="empty-note center">${empty}</p>`}`;
 }
 
-function renderTadabbur() {
-  renderMyWorkPage({
-    title: "My Tadabbur",
-    subtitle: (n) => `${n} personal note${n === 1 ? "" : "s"} from your reading`,
-    empty: "Open any ayah, tap ☰, and write your tadabbur in the Tadabbur tab.",
-    kind: "tadabbur",
-    study: true,
+/* ===================== Tadabbur quick-note launcher ===================== */
+function getTadabburNotes() {
+  try { const v = JSON.parse(localStorage.getItem(LS.tadabburNotes) || "[]"); return Array.isArray(v) ? v : []; } catch (_) { return []; }
+}
+function saveTadabburNotes(list) {
+  localStorage.setItem(LS.tadabburNotes, JSON.stringify(list));
+  QuranFirebaseSync?.schedulePush?.();
+}
+function upsertTadabburNote(note) {
+  const list = getTadabburNotes();
+  const i = list.findIndex((n) => n.id === note.id);
+  if (i >= 0) list[i] = note; else list.unshift(note);
+  saveTadabburNotes(list);
+}
+function deleteTadabburNote(id) { saveTadabburNotes(getTadabburNotes().filter((n) => n.id !== id)); }
+function allTadabburTags() { const s = new Set(); getTadabburNotes().forEach((n) => (n.tags || []).forEach((t) => s.add(t))); return [...s].sort(); }
+function tdbClamp(n, lo, hi) { n = +n || 0; return Math.max(lo, Math.min(n, hi)); }
+function tdbNewId() { return "t" + Date.now().toString(36) + Math.random().toString(36).slice(2, 6); }
+function tdbVerseCount(surah) {
+  if (currentSurah?.id === surah) return currentSurah.verses_count || 286;
+  const s = (cache.index?.surahs || []).find((x) => x.id === surah);
+  return (s && (s.verses_count || s.ayahs)) || 286;
+}
+function tdbRelTime(ts) {
+  if (!ts) return "";
+  const d = Date.now() - ts, min = Math.round(d / 60000);
+  if (min < 1) return "just now";
+  if (min < 60) return min + "m ago";
+  const h = Math.round(min / 60); if (h < 24) return h + "h ago";
+  const day = Math.round(h / 24); if (day < 30) return day + "d ago";
+  return new Date(ts).toLocaleDateString();
+}
+function tdbToast(msg) {
+  let t = document.getElementById("tdb-toast");
+  if (!t) { t = document.createElement("div"); t.id = "tdb-toast"; t.className = "tdb-toast"; document.body.appendChild(t); }
+  t.textContent = msg; t.classList.add("show");
+  clearTimeout(tdbToast._t); tdbToast._t = setTimeout(() => t.classList.remove("show"), 1800);
+}
+
+let tadabburFabEl = null;
+function updateTadabburFab() {
+  const r = route();
+  if (!(r.view === "surah" && currentSurah)) { if (tadabburFabEl) tadabburFabEl.style.display = "none"; return; }
+  ensureTadabburFab();
+  tadabburFabEl.style.display = "flex";
+}
+function ensureTadabburFab() {
+  if (tadabburFabEl) return;
+  const b = document.createElement("button");
+  b.type = "button"; b.id = "tadabbur-fab"; b.className = "tadabbur-fab";
+  b.setAttribute("aria-label", "Write a tadabbur reflection");
+  b.title = "Tadabbur — write a reflection · drag to move";
+  b.innerHTML = '<span aria-hidden="true">✎</span>';
+  document.body.appendChild(b);
+  tadabburFabEl = b;
+  restoreFabPos(b);
+  makeFabDraggable(b);
+  window.addEventListener("resize", () => { if (tadabburFabEl && tadabburFabEl.style.display !== "none") restoreFabPos(tadabburFabEl); });
+}
+function restoreFabPos(b) {
+  let pos = null; try { pos = JSON.parse(localStorage.getItem(LS.tadabburFab) || "null"); } catch (_) {}
+  const S = 52, m = 14, W = window.innerWidth, H = window.innerHeight;
+  b.style.left = (pos ? tdbClamp(pos.left, m, W - S - m) : (W - S - m)) + "px";
+  b.style.top = (pos ? tdbClamp(pos.top, m, H - S - m) : (H - S - 116)) + "px";
+}
+function makeFabDraggable(b) {
+  let sx, sy, bL, bT, moved, drag = false;
+  b.addEventListener("pointerdown", (e) => { drag = true; moved = false; sx = e.clientX; sy = e.clientY; bL = parseInt(b.style.left) || 0; bT = parseInt(b.style.top) || 0; b.classList.add("drag"); try { b.setPointerCapture(e.pointerId); } catch (_) {} });
+  b.addEventListener("pointermove", (e) => { if (!drag) return; const dx = e.clientX - sx, dy = e.clientY - sy; if (Math.abs(dx) + Math.abs(dy) > 4) moved = true; const S = b.offsetWidth, m = 10, W = window.innerWidth, H = window.innerHeight; b.style.left = tdbClamp(bL + dx, m, W - S - m) + "px"; b.style.top = tdbClamp(bT + dy, m, H - S - m) + "px"; });
+  b.addEventListener("pointerup", () => { if (!drag) return; drag = false; b.classList.remove("drag"); if (!moved) { openTadabburEditor({}); return; } const S = b.offsetWidth, m = 14, W = window.innerWidth, H = window.innerHeight; const cx = (parseInt(b.style.left) || 0) + S / 2; b.style.left = (cx > W / 2 ? W - S - m : m) + "px"; b.style.top = tdbClamp(parseInt(b.style.top) || 0, m, H - S - m) + "px"; localStorage.setItem(LS.tadabburFab, JSON.stringify({ left: parseInt(b.style.left) || 0, top: parseInt(b.style.top) || 0 })); });
+}
+
+let tdbEditorEl = null;
+function closeTadabburEditor() { if (tdbEditorEl) { tdbEditorEl.remove(); tdbEditorEl = null; document.removeEventListener("keydown", tdbEditorEsc); } }
+function tdbEditorEsc(e) { if (e.key === "Escape") closeTadabburEditor(); }
+function openTadabburEditor(opts = {}) {
+  closeTadabburEditor();
+  const note = opts.noteId ? getTadabburNotes().find((n) => n.id === opts.noteId) : null;
+  const surah = note ? note.surah : (opts.surah || currentSurah?.id);
+  if (!surah) return;
+  const surahName = note ? note.surahName : (currentSurah?.name_simple || `Surah ${surah}`);
+  const vc = tdbVerseCount(surah);
+  const startFrom = tdbClamp(note ? note.from : (opts.from || visibleAyah || 1), 1, vc);
+  const startTo = tdbClamp(note ? note.to : (opts.to || startFrom), startFrom, vc);
+  let tags = note ? [...(note.tags || [])] : [];
+
+  const el = document.createElement("div");
+  el.className = "tdb-backdrop";
+  el.innerHTML = `
+    <div class="tdb-panel" role="dialog" aria-modal="true" aria-label="Tadabbur reflection">
+      <div class="tdb-top">
+        <span class="tdb-brand" aria-hidden="true">✎</span>
+        <span class="tdb-rng">
+          <span class="tdb-rng-s">${esc(surahName)}</span>
+          <span class="tdb-grp" data-role="from"><button type="button" class="tdb-mini" data-d="-1" aria-label="from minus">−</button><b class="tdb-val">${startFrom}</b><button type="button" class="tdb-mini" data-d="1" aria-label="from plus">+</button></span>
+          <span class="tdb-dash">–</span>
+          <span class="tdb-grp" data-role="to"><button type="button" class="tdb-mini" data-d="-1" aria-label="to minus">−</button><b class="tdb-val">${startTo}</b><button type="button" class="tdb-mini" data-d="1" aria-label="to plus">+</button></span>
+        </span>
+        <button type="button" class="tdb-x" data-close aria-label="Close">✕</button>
+      </div>
+      <textarea class="tdb-in" placeholder="Write your reflection…">${esc(note ? note.text : "")}</textarea>
+      <div class="tdb-bottom">
+        <div class="tdb-tagfield"><input type="text" class="tdb-taginput" placeholder="+ tag" autocomplete="off" aria-label="Add a tag"><div class="tdb-tagmenu" hidden></div></div>
+        ${note ? `<button type="button" class="tdb-del" data-del aria-label="Delete reflection">\u{1F5D1}</button>` : ""}
+        <button type="button" class="tdb-save" data-save>✓ Save</button>
+      </div>
+    </div>`;
+  document.body.appendChild(el);
+  tdbEditorEl = el;
+  document.addEventListener("keydown", tdbEditorEsc);
+  el.addEventListener("mousedown", (e) => { if (e.target === el) closeTadabburEditor(); });
+  el.querySelector("[data-close]").addEventListener("click", closeTadabburEditor);
+
+  const fromV = el.querySelector("[data-role=from] .tdb-val"), toV = el.querySelector("[data-role=to] .tdb-val");
+  el.querySelectorAll(".tdb-grp").forEach((g) => { const v = g.querySelector(".tdb-val"); g.querySelectorAll(".tdb-mini").forEach((btn) => btn.addEventListener("click", () => { v.textContent = tdbClamp(+v.textContent + (+btn.dataset.d), 1, vc); const a = +fromV.textContent, c = +toV.textContent; if (v === fromV && a > c) toV.textContent = a; if (v === toV && c < a) fromV.textContent = c; })); });
+
+  const tagfield = el.querySelector(".tdb-tagfield"), taginput = el.querySelector(".tdb-taginput"), tagmenu = el.querySelector(".tdb-tagmenu");
+  function chips() { tagfield.querySelectorAll(".tdb-chip").forEach((c) => c.remove()); tags.slice().reverse().forEach((t) => { const c = document.createElement("span"); c.className = "tdb-chip"; c.textContent = t; const x = document.createElement("button"); x.type = "button"; x.className = "tdb-chip-x"; x.textContent = "×"; x.setAttribute("aria-label", "remove " + t); x.addEventListener("click", () => { tags = tags.filter((s) => s !== t); chips(); menu(); taginput.focus(); }); c.appendChild(x); tagfield.insertBefore(c, taginput); }); }
+  function addTag(t) { t = t.trim().toLowerCase(); if (!t || tags.includes(t)) return; tags.push(t); taginput.value = ""; chips(); menu(); taginput.focus(); }
+  function menu() { const q = taginput.value.trim().toLowerCase(); const ex = allTadabburTags(); const opts = ex.filter((t) => !tags.includes(t) && t.includes(q)); let h = ""; if (q && !ex.includes(q) && !tags.includes(q)) h += `<div class="tdb-opt create" data-add="${esc(q)}">＋ Create “${esc(q)}”</div>`; opts.slice(0, 8).forEach((t) => { h += `<div class="tdb-opt" data-add="${esc(t)}">${esc(t)}</div>`; }); if (!h) { tagmenu.hidden = true; return; } tagmenu.innerHTML = h; tagmenu.hidden = false; tagmenu.querySelectorAll("[data-add]").forEach((o) => o.addEventListener("mousedown", (e) => { e.preventDefault(); addTag(o.getAttribute("data-add")); })); }
+  taginput.addEventListener("focus", menu); taginput.addEventListener("input", menu);
+  taginput.addEventListener("blur", () => setTimeout(() => { tagmenu.hidden = true; }, 150));
+  taginput.addEventListener("keydown", (e) => { if (e.key === "Enter") { e.preventDefault(); if (taginput.value.trim()) addTag(taginput.value.trim()); } });
+  chips();
+
+  const delB = el.querySelector("[data-del]");
+  if (delB) delB.addEventListener("click", () => { deleteTadabburNote(note.id); closeTadabburEditor(); tdbToast("Reflection deleted"); if (route().view === "tadabbur") renderTadabbur(); });
+
+  el.querySelector("[data-save]").addEventListener("click", () => {
+    const text = el.querySelector(".tdb-in").value.trim();
+    const a = tdbClamp(+fromV.textContent, 1, vc), b = tdbClamp(+toV.textContent, 1, vc);
+    if (!text && !tags.length) { closeTadabburEditor(); return; }
+    const now = Date.now();
+    const saved = note
+      ? { ...note, from: a, to: b, text, tags: [...tags], updated: now }
+      : { id: tdbNewId(), surah, surahName, from: a, to: b, text, tags: [...tags], created: now, updated: now };
+    upsertTadabburNote(saved);
+    closeTadabburEditor();
+    tdbToast("Reflection saved");
+    if (route().view === "tadabbur") renderTadabbur();
   });
+  setTimeout(() => { const ta = el.querySelector(".tdb-in"); if (ta) ta.focus(); }, 50);
+}
+
+let tadabburFilterTag = "";
+let tadabburSearchQ = "";
+function tadabburRangeLabel(n) { return n.from === n.to ? `Ayah ${n.from}` : `Ayahs ${n.from}–${n.to}`; }
+function renderTadabbur() {
+  setBreadcrumb(`<a href="#/">Home</a> › Tadabbur`);
+  const app = document.getElementById("app");
+  const notes = getTadabburNotes();
+  const legacy = Object.values(getMyWork()).filter((e) => e.tadabbur).sort((a, b) => (b.at || 0) - (a.at || 0));
+  const tags = allTadabburTags();
+  if (tadabburFilterTag && !tags.includes(tadabburFilterTag)) tadabburFilterTag = "";
+  const legacyRows = legacy.map((e) => `<a href="#/${e.surah}/${e.ayah}/study" class="bookmark-row my-work-row"><span class="bookmark-ref">${esc(e.surahName || ("Surah " + e.surah))} · Ayah ${e.ayah}</span><span class="bookmark-snippet">${esc(e.tadabburSnippet || "")}</span></a>`).join("");
+  app.innerHTML = `
+    <div class="hero compact"><h1 class="hero-title-sm">My Tadabbur</h1>${ornament()}
+      <p class="hero-subtitle">${notes.length ? `${notes.length} reflection${notes.length === 1 ? "" : "s"} you’ve written` : "Your saved reflections appear here."}</p></div>
+    ${notes.length ? `<div class="tdb-searchwrap"><span class="tdb-search-ic" aria-hidden="true">⌕</span><input type="search" id="tdb-search" class="tdb-search" placeholder="Search your reflections…" aria-label="Search reflections" value="${esc(tadabburSearchQ)}"></div>` : ""}
+    <div id="tdb-filter"></div>
+    <div id="tdb-results"></div>
+    ${legacy.length ? `<div class="tdb-legacy"><div class="tdb-legacy-lab">Notes on individual ayahs</div><div class="bookmark-list">${legacyRows}</div></div>` : ""}`;
+  function drawFilter() {
+    const el = document.getElementById("tdb-filter");
+    if (!tags.length) { el.innerHTML = ""; return; }
+    el.innerHTML = `<div class="tdb-filter"><button type="button" class="tdb-fchip ${!tadabburFilterTag ? "active" : ""}" data-tag="">All</button>${tags.map((t) => `<button type="button" class="tdb-fchip ${tadabburFilterTag === t ? "active" : ""}" data-tag="${esc(t)}">${esc(t)}</button>`).join("")}</div>`;
+    el.querySelectorAll(".tdb-fchip").forEach((b) => b.addEventListener("click", () => { tadabburFilterTag = b.dataset.tag; drawFilter(); drawResults(); }));
+  }
+  function drawResults() {
+    const q = tadabburSearchQ.trim().toLowerCase();
+    const filtered = notes.filter((n) => {
+      const okT = !tadabburFilterTag || (n.tags || []).includes(tadabburFilterTag);
+      const okQ = !q || (n.text || "").toLowerCase().includes(q) || (n.surahName || "").toLowerCase().includes(q) || (n.tags || []).join(" ").toLowerCase().includes(q);
+      return okT && okQ;
+    }).sort((a, b) => (b.updated || b.created || 0) - (a.updated || a.created || 0));
+    const el = document.getElementById("tdb-results");
+    if (!filtered.length) { el.innerHTML = `<p class="empty-note center">${notes.length ? "No reflections match." : "Open a sūrah and tap the ✎ circle to write your first reflection."}</p>`; return; }
+    el.innerHTML = `<div class="tdb-list">${filtered.map((n) => `<button type="button" class="tdb-note" data-id="${esc(n.id)}"><div class="tdb-note-head"><span class="tdb-note-ref">${esc(n.surahName || ("Surah " + n.surah))} · ${tadabburRangeLabel(n)}</span><span class="tdb-note-date">${esc(tdbRelTime(n.updated || n.created))}</span></div>${n.text ? `<div class="tdb-note-text">${esc(n.text.slice(0, 220))}${n.text.length > 220 ? "…" : ""}</div>` : ""}${(n.tags && n.tags.length) ? `<div class="tdb-note-tags">${n.tags.map((t) => `<span class="tdb-pill">${esc(t)}</span>`).join("")}</div>` : ""}</button>`).join("")}</div>`;
+    el.querySelectorAll(".tdb-note").forEach((b) => b.addEventListener("click", () => openTadabburEditor({ noteId: b.dataset.id })));
+  }
+  const search = document.getElementById("tdb-search");
+  if (search) search.addEventListener("input", () => { tadabburSearchQ = search.value; drawResults(); });
+  drawFilter();
+  drawResults();
 }
 
 function renderEdits() {
@@ -3327,6 +3505,7 @@ async function render() {
     document.getElementById("app").innerHTML = `<p class="loading">Failed to load.</p>`;
     console.error(err);
   }
+  updateTadabburFab();
 }
 
 function showBootError(err) {
@@ -3471,6 +3650,7 @@ async function boot() {
       lsKeys: LS,
       ayahEditsKey: LS.ayahEdits,
       onMerged: handleSyncMerged,
+      collectExtras: () => ({ tadabburNotes: getTadabburNotes() }),
     };
 
     QuranGitHubSync?.init(syncOptions);

@@ -68,7 +68,18 @@ const QuranGitHubSync = (() => {
       recentReads: [],
       bookmarks: [],
       ayahEdits: {},
+      tadabburNotes: [],
     };
+  }
+
+  function mergeTadabburNotes(local, remote) {
+    const map = new Map();
+    for (const n of [...(local || []), ...(remote || [])]) {
+      if (!n || !n.id) continue;
+      const e = map.get(n.id);
+      if (!e || (n.updated || 0) > (e.updated || 0)) map.set(n.id, n);
+    }
+    return [...map.values()].sort((a, b) => (b.updated || b.created || 0) - (a.updated || a.created || 0));
   }
 
   function mergeBookmarks(local, remote) {
@@ -137,6 +148,7 @@ const QuranGitHubSync = (() => {
       ),
       bookmarks: mergeBookmarks(local.bookmarks, remote.bookmarks),
       ayahEdits: mergeAyahEdits(local.ayahEdits, remote.ayahEdits),
+      tadabburNotes: mergeTadabburNotes(local.tadabburNotes, remote.tadabburNotes),
     };
   }
 
@@ -152,6 +164,10 @@ const QuranGitHubSync = (() => {
     }
 
     localStorage.setItem(lsKeys.bookmarks, JSON.stringify(bundle.bookmarks || []));
+
+    if (lsKeys.tadabburNotes && Array.isArray(bundle.tadabburNotes)) {
+      localStorage.setItem(lsKeys.tadabburNotes, JSON.stringify(bundle.tadabburNotes));
+    }
 
     const keepKeys = new Set();
     for (const [key, edit] of Object.entries(bundle.ayahEdits || {})) {
